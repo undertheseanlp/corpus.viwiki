@@ -1,23 +1,3 @@
-Chinese punctuation
-Colón Costa Rica
-Cruzeiro Brasil
-Các dấu cộng và trừ
-Cước chú
-Dagger (typography)
-Dash
-Diacritic
-Ditto mark
-Drachma
-Dấu ba chấm
-Dấu chéo ngược
-Dấu chấm
-Dấu chấm phẩy
-Dấu chấm than
-Dấu chấm than và dấu hỏi ngược
-Dấu cách
-Dấu câu
-Dấu gạch chéo
-Dấu hai chấm
 Dấu hoa thị
 Dấu lược
 Dấu ngoặc kép
@@ -12641,3 +12621,1824 @@ Cent
 Euro (tiền tệ)
 Hoa Kỳ
 Kinh tế học
+A
+A còng
+Ampersand
+Argentine austral
+Asterism (typography)
+B
+Baht
+Basis point
+Biểu tượng tiền tệ
+Book:Typographical symbols
+Bracket
+Bullet (typography)
+Bảng chữ cái Latinh
+Bảng chữ cái Latinh cơ bản của ISO
+C
+Caret
+Cedi Ghana
+Cent (tiền tệ)
+Chia từ
+Chinese punctuation
+Chữ Quốc ngữ
+Chữ số La Mã
+Colón Costa Rica
+Cruzeiro Brasil
+Các dấu cộng và trừ
+Cước chú
+Cổ tự học
+D
+Dagger (typography)
+Danh sách các chữ cái Latinh
+Dash
+Diacritic
+Ditto mark
+Drachma
+Dấu ba chấm
+Dấu chéo ngược
+Dấu chấm
+Dấu chấm hỏi
+Dấu chấm phẩy
+Dấu chấm than
+Dấu chấm than và dấu hỏi ngược
+Dấu cách
+Dấu gạch chéo
+Dấu hai chấm
+Dấu hoa thị
+Dấu lược
+Dấu ngoặc kép
+Dấu numero
+Dấu phẩy
+Dấu phụ
+Dấu thăng
+E
+Ernest Gowers
+F
+Fleuron (typography)
+Franc Pháp
+Francis George Fowler
+G
+Guaraní Paraguay
+H
+Hebrew punctuation
+Henry Watson Fowler
+Hyphen
+Hyphen-minus
+Hệ chữ viết
+I
+ISBN
+ISO/IEC 646
+Index (typography)
+Interpunct
+Interrobang
+Irony punctuation
+J
+Japanese punctuation
+K
+Khoảng trắng
+Kingsley Amis
+Korean punctuation
+Ký hiệu Phần trăm
+Ký hiệu bản quyền
+Ký hiệu bảng Anh
+Ký hiệu euro
+Ký hiệu florin
+Ký hiệu ghi âm
+Ký hiệu hryvnia
+Ký hiệu lira Thổ Nhĩ Kỳ
+Ký hiệu nhãn hiệu dịch vụ
+Ký hiệu peso Philippines
+Ký hiệu rupee Ấn Độ
+Ký hiệu shekel
+Ký hiệu thương hiệu
+Ký hiệu thương hiệu đã được đăng ký
+Ký hiệu tiền tệ (trình bày)
+Ký hiệu won
+Ký hiệu đô la
+Ký hiệu độ
+Ký tự Latinh trong unicode
+Kýp Lào
+L
+List of logic symbols
+Lozenge
+Lịch sử bảng chữ cái Latinh
+M
+Mark vàng Đức
+Mill (đơn vị tiền tệ)
+N
+Naira Nigeria
+Những chữ cái có nguồn gốc từ chữ cái Latinh
+O
+Obelus
+Office of Public Sector Information
+Ordinal indicator
+Oxford University Press
+P
+Per mille
+Peseta
+Pfennig
+Pilcrow
+Portal:Typography
+Prime (symbol)
+Q
+Quotation mark
+R
+Riel Campuchia
+Robert Allen (lexicographer)
+Rupee
+Rúp Nga
+S
+Section sign
+Sở hữu trí tuệ
+T
+Taka Bangladesh
+Tenge Kazakhstan
+The Complete Plain Words
+The King's English
+Tie (typography)
+Tilde
+Tiền tệ
+Typography
+Tögrög
+U (mẫu tự)
+Underscore
+V
+Vertical bar
+W
+Whitespace character
+Wikibooks
+Wiktionary
+X
+Y
+Z
+¥ (định hướng)
+Â
+Ê
+Ô
+Ă
+Đ
+Đơn vị tiền tệ châu Âu
+Đồng (tiền)
+Ơ
+Ư
+.cr
+15 tháng 9
+16 tháng 10
+1821
+1824
+1899
+1917
+1948
+1949
+1969
+1987
+1 tháng 6
+2003
+2004
+2005
+2006
+2007
+2010
+7 tháng 11
+8 tháng 5
+Abitur
+Alajuela (tỉnh)
+An ninh
+An sinh xã hội
+Andes
+Andorra
+Angola
+Anguilla
+Anhinga
+Antigua Guatemala
+Antigua và Barbuda
+Argentina
+Aruba
+Asociación de Guías y Scouts de Costa Rica
+Ba Lan
+Bahamas
+Barbados
+Belize
+Bermuda
+Biển Caribe
+Bolivia
+Bonaire
+Brasil
+Bán đảo Nicoya
+Báo đốm Mỹ
+Bè
+Bảng mẫu tự phiên âm quốc tế
+Bảo hiểm
+Bảo tàng Costa Rica
+Bầu cử
+Bắc Mỹ
+Bệnh truyền nhiễm
+Bồ Đào Nha
+Bộ Vẹt
+Bộ trưởng
+CRC
+Calypso
+Canada
+Cao nguyên Trung phần Costa Rica
+Cape Verde
+Cartago (tỉnh)
+Chibcha
+Chile
+Chim
+Chim cổ đỏ xám
+Chirripó
+Chiến tranh thế giới thứ hai
+Chuối
+Châu Phi
+Châu Á
+Châu Âu
+Chính phủ
+Chính sách đối ngoại
+Chính trị Costa Rica
+Chíp máy tính
+Chỉ số phát triển con người
+Clipperton
+Colombia
+Colón
+Colón Costa Rica
+Conquistador
+Conquistadores
+Cuba
+Cumbia
+Cung cấp nước và vệ sinh tại Costa Rica
+Curaçao
+Cà phê
+Cán cân thương mại
+Câu cửa miệng
+Công giáo
+Công nghệ cao
+Công ty
+Công viên La Sabana Metropolitan
+Côte d'Ivoire
+Cơ quan lập pháp
+Cầu đá Costa Rica
+Cộng hoà Dominica
+Cộng hòa
+Cộng hòa Dominica
+Cộng hòa Liên bang Trung Mỹ
+Cộng hòa Nhân dân Trung Hoa
+Cộng hòa dân chủ
+DMOZ
+Danh sách Tổng thống Costa Rica
+Danh sách khu vực bảo tồn Costa Rica
+Danh sách loài chim Costa Rica
+Danh sách lãnh thổ phụ thuộc
+Danh sách quốc gia theo chỉ số phát triển con người
+Danh sách quốc gia theo diện tích
+Danh sách quốc gia theo mật độ dân số
+Danh sách quốc gia theo số dân
+Danh sách trường đại học Costa Rica
+Diễn đàn Hợp tác Kinh tế châu Á Thái Bình Dương
+Do Thái
+Do Thái giáo
+Dominica
+Du lịch
+Du lịch sinh thái
+Dân chủ
+Dân thiểu số
+Dòng Chiến sĩ Toàn quyền Malta
+Dược phẩm
+Dặm Anh
+Dặm vuông Anh
+Ecuador
+El Salvador
+Eo đất
+Escazú
+Euro
+Federico Tinoco
+Foot
+Giáo dục
+Giáo dục Costa Rica
+Giáo dục công cộng
+Giáo dục cơ bản
+Giáo hội Các Thánh hữu Ngày sau của Chúa Giêsu Kitô
+Giáo hội Công giáo Rôma
+Giải Nobel Hòa bình
+Giảm thuế
+Giờ phối hợp quốc tế
+GlaxoSmithKline
+Grecia
+Greenland
+Grenada
+Guadeloupe
+Guanacaste
+Guanacaste (tỉnh)
+Guatemala
+Guinea-Bissau
+Haiti
+Heredia (tỉnh)
+Hiến pháp
+Hiệp hội các trường Cao đẳng và Trường học miền Nam
+Hoa Kỳ
+Honduras
+Huy hiệu Costa Rica
+Hà Lan
+Hàng điện tử
+Họ Lợn vòi
+Họ Phong lan
+Hồ Arenal
+Hồi giáo
+Hỡi Tổ quốc vinh quang với ngọn cờ xinh đẹp của Người
+ISO 4217
+Iceland
+Instituto Centroamericano de Administracion de Empresas
+Intel
+Irazú
+Isla Aves
+Jamaica
+José Figueres
+Kayak
+Khu bảo vệ thiên nhiên
+Khí hậu Costa Rica
+Khỉ mũ cổ trắng
+Khỉ nhện
+Khỉ rú
+Kinh tuyến gốc
+Kinh tế Costa Rica
+Laura Chinchilla
+Limon
+Limón
+Limón (tỉnh)
+Liên Hiệp Quốc
+Liên minh Latinh
+Luis Guillermo Solís
+Lãnh hải
+Lười ba ngón
+Lạm phát
+Lịch sử Costa Rica
+Lớp Thú
+Lực lượng cảnh sát
+Martinique
+Merengue
+Mesoamerica
+Mexico
+Moldova
+Monaco
+Montserrat
+Mozambique
+Mét
+México
+Múi giờ
+Mại dâm
+Mỹ Latinh
+Nahuatl
+Nam Mỹ
+Nga
+Ngày quốc khánh
+Ngân hàng thương mại
+Ngân hàng trung ương
+Người Costa Rica gốc Phi
+Người Hoa
+Người Trung Hoa
+Người Tây Ban Nha
+Người châu Phi
+Người da trắng Mỹ Latinh
+Người da đen Costa Rica
+Người nhập cư
+Người Ý
+Nhiệm kỳ
+Nhiệt đới
+Nhân khẩu Costa Rica
+Nhân quyền
+Nicaragua
+Nô lệ
+Nông nghiệp
+Năm tài chính
+Panama
+Panamá
+Paraguay
+Peru
+Philippines
+Phong trào Tin Lành
+Pháp
+Phó tổng thống
+Phần mềm
+Phật giáo
+Pop
+Procter & Gamble
+Puerto Rico
+Puntarenas
+Puntarenas (tỉnh)
+Quan hệ ngoại giao Costa Rica
+Quan hệ ngoại giao của Costa Rica
+Quyền hành pháp
+Quân phiệt
+Quân đội Costa Rica
+Quần đảo Cayman
+Quần đảo San Andrés, Providencia và Santa Catalina
+Quần đảo Turks và Caicos
+Quần đảo Virgin thuộc Anh
+Quần đảo Virgin thuộc Mỹ
+Quận
+Quốc gia
+Quốc gia có chủ quyền
+Quốc kỳ Costa Rica
+Rock and roll
+Romania
+Rừng
+Saba
+Saint-Barthélemy
+Saint-Martin
+Saint-Pierre và Miquelon
+Saint Kitts và Nevis
+Saint Lucia
+Saint Vincent và Grenadines
+Salsa music
+San Antonio
+San José, Costa Rica
+San José (tỉnh của Costa Rica)
+San Marino
+San Vito de Coto Brus
+Sinh thái học
+Sint Eustatius
+Sint Maarten
+Soca
+São Tomé và Príncipe
+Sénégal
+Sông Pacuare
+Sông Reventazón
+Sức mua tương đương
+Teatro Nacional de Costa Rica
+Tex-Mex
+The Wall Street Journal
+Thu nội địa
+Thuộc địa
+Thành phố Guatemala
+Thái Bình Dương
+Tháng tư
+Thâm hụt
+Thạc sĩ
+Thập niên 1940
+Thập niên 2000
+Thế kỷ 16
+Thế kỷ 19
+Thế kỷ 21
+Thỏa thuận Miễn trừ Song phương
+Thổ dân châu Mỹ
+Thủ phủ
+Thủ đô
+Thực vật
+Tico
+Tiếng Anh
+Tiếng Bồ Đào Nha
+Tiếng Catalunya
+Tiếng Italia
+Tiếng Pháp
+Tiếng România
+Tiếng Tây Ban Nha
+Tiếng Tây Ban Nha Trung Mỹ
+Tiếp vĩ ngữ
+Tiền Columbus
+Tiền tệ
+Trinidad
+Trinidad và Tobago
+Trung Hoa Dân Quốc
+Trung Mỹ
+Trung Đông
+Truyền thông Costa Rica
+Trường thương mại
+Trứng
+Tu chính án hiến pháp
+Tây Ban Nha
+Tây Nguyên
+Tên miền quốc gia cấp cao nhất
+Tòa Thánh
+Tòa án Nhân quyền Liên Mỹ
+Tòa án Tội phạm Quốc tế
+Tăng trưởng kinh tế
+Tư pháp
+Tỉnh Costa Rica
+Tị nạn
+Tổ chức các quốc gia châu Mỹ
+Tổng (đơn vị hành chính)
+Tổng Costa Rica
+Tổng sản phẩm nội địa
+Tổng thống Costa Rica
+Tổng tuyển cử
+Tội ác
+Tự do mậu dịch
+Tự nhiên
+United Fruit Company
+Uruguay
+Venezuela
+Viễn thông
+Viễn thông Costa Rica
+Việt Nam
+Văn hoá Costa Rica
+Vương quốc Liên hiệp Anh và Bắc Ireland
+Vườn Quốc gia Corcovado
+Vườn quốc gia
+Vườn quốc gia Tortuguero
+Vận tải Costa Rica
+Vận tải đường sắt Costa Rica
+Wikivoyage
+Xuất khẩu
+Xích đạo
+Âm nhạc Costa Rica
+Óscar Arias
+Ý
+Đa dạng sinh học
+Điện
+Đài Loan
+Đô la Mỹ
+Đông Nam Á
+Đông Timor
+Đường sắt
+Đại học Harvard
+Đại học Hòa bình Liên hiệp quốc
+Đạo luật Tòa án Tội phạm Quốc tế Rome
+Đảo Calero
+Đảo Cocos
+Đảo Navassa
+Đầu tư
+Địa lý Costa Rica
+Độc lập
+Độc tài
+Đội tuyển bóng đá quốc gia Costa Rica
+Động vật
+Động vật bò sát
+Đời sống hoang dã Costa Rica
+Đức
+Ấn Độ giáo
+Ẩm thực Costa Rica
+Antônio Wilson Vieira Honório
+Botafogo de Futebol e Regatas
+Brasil
+Bóng đá
+Bóng đá Brasil
+Bảng xếp hạng CBF
+Campeonato Acriano
+Campeonato Acriano (hạng dưới)
+Campeonato Alagoano
+Campeonato Alagoano (hạng dưới)
+Campeonato Amapaense
+Campeonato Amapaense (hạng dưới)
+Campeonato Amazonense
+Campeonato Amazonense (hạng dưới)
+Campeonato Baiano
+Campeonato Baiano (hạng dưới)
+Campeonato Brasileiro Sub-20
+Campeonato Brasileiro Série A
+Campeonato Brasileiro Série B
+Campeonato Brasileiro Série C
+Campeonato Brasileiro Série D
+Campeonato Brasiliense
+Campeonato Brasiliense (hạng dưới)
+Campeonato Capixaba
+Campeonato Capixaba (hạng dưới)
+Campeonato Carioca
+Campeonato Carioca (hạng dưới)
+Campeonato Carioca de Futebol Feminino
+Campeonato Catarinense
+Campeonato Catarinense (hạng dưới)
+Campeonato Cearense
+Campeonato Cearense (hạng dưới)
+Campeonato Gaúcho
+Campeonato Gaúcho (hạng dưới)
+Campeonato Goiano
+Campeonato Goiano (hạng dưới)
+Campeonato Maranhense
+Campeonato Maranhense (hạng dưới)
+Campeonato Mato-Grossense
+Campeonato Mato-Grossense (hạng dưới)
+Campeonato Mineiro
+Campeonato Mineiro (hạng dưới)
+Campeonato Paraense
+Campeonato Paraense (hạng dưới)
+Campeonato Paraibano
+Campeonato Paraibano (hạng dưới)
+Campeonato Paranaense
+Campeonato Paranaense (hạng dưới)
+Campeonato Paulista
+Campeonato Paulista Segunda Divisão
+Campeonato Paulista Série A2
+Campeonato Paulista Série A3
+Campeonato Paulista Série B2
+Campeonato Paulista Série B3
+Campeonato Paulista de Futebol Feminino
+Campeonato Pernambucano
+Campeonato Pernambucano (hạng dưới)
+Campeonato Piauiense
+Campeonato Piauiense (hạng dưới)
+Campeonato Potiguar
+Campeonato Potiguar (hạng dưới)
+Campeonato Rondoniense
+Campeonato Rondoniense (hạng dưới)
+Campeonato Roraimense
+Campeonato Sergipano
+Campeonato Sergipano (hạng dưới)
+Campeonato Sul-Mato-Grossense
+Campeonato Sul-Mato-Grossense (hạng dưới)
+Campeonato Tocantinense
+Campeonato Tocantinense (hạng dưới)
+Copa Centro-Oeste
+Copa Espírito Santo de Futebol
+Copa FGF
+Copa Governador de Mato Grosso
+Copa Governador do Estado da Bahia
+Copa Governo do Estado de Sergipe
+Copa MS de Futebol
+Copa Macaé de Juvenis
+Copa Norte
+Copa Paraíba
+Copa Paulista de Futebol
+Copa Piauí
+Copa Rio (cúp bóng đá bang)
+Copa Santa Catarina
+Copa Santiago de Futebol Juvenil
+Copa Sul-Minas
+Copa São Paulo de Futebol Júnior
+Copa União do Maranhão
+Copa Verde
+Copa do Brasil
+Copa do Brasil Sub-20
+Copa do Nordeste
+Copa dos Campeões
+Cruzeiro Esporte Clube
+Các giải bóng đá bang tại Brasil
+Các kỉ lục bóng đá Brasil
+Các đội tuyển bóng đá trẻ quốc gia Brasil
+Cúp bóng đá nữ Brasil
+Danh sách các câu lạc bộ bóng đá Brasil
+Danh sách các câu lạc bộ bóng đá nữ Brasil
+Danh sách các sân vận động bóng đá tại Brasil
+Danh sách các trận derby bóng đá Brasil
+Danh sách các đội vô địch bóng đá Brasil
+Danh sách cầu thủ bóng đá Brasil
+Esporte Clube Bahia
+Giải bóng đá nữ vô địch quốc gia Brasil
+Hệ thống sắp hạng bóng đá Brasil
+José Macia
+Liên đoàn bóng đá Alagoas
+Liên đoàn bóng đá Amapá
+Liên đoàn bóng đá Amazonas
+Liên đoàn bóng đá Bahia
+Liên đoàn bóng đá Brasil
+Liên đoàn bóng đá Brasilia
+Liên đoàn bóng đá Ceará
+Liên đoàn bóng đá Goiás
+Liên đoàn bóng đá Maranhão
+Liên đoàn bóng đá Mato Grosso
+Liên đoàn bóng đá Mato Grosso do Sul
+Liên đoàn bóng đá Minas Gerais
+Liên đoàn bóng đá Paraná
+Liên đoàn bóng đá Paraíba
+Liên đoàn bóng đá Pará
+Liên đoàn bóng đá Pernambuco
+Liên đoàn bóng đá Piauí
+Liên đoàn bóng đá Rio Grande do Norte
+Liên đoàn bóng đá Rio Grande do Sul
+Liên đoàn bóng đá Roraima
+Liên đoàn bóng đá Santa Catarina
+Liên đoàn bóng đá Sergipe
+Liên đoàn bóng đá São Paulo
+Liên đoàn bóng đá Tocantins
+Liên đoàn bóng đá bang Acre
+Liên đoàn bóng đá bang Espírito Santo
+Liên đoàn bóng đá bang Rio de Janeiro
+Liên đoàn bóng đá bang Rondônia
+Pelé
+Recopa Sul-Brasileira
+Santos Futebol Clube
+Supercopa do Brasil
+Taça Belo Horizonte de Juniores
+Taça Minas Gerais
+Torneio Rio – São Paulo
+Torneio Roberto Gomes Pedrosa
+Torneio dos Campeões
+Torneio dos Campeões da CBD
+Đội tuyển bóng đá U-20 quốc gia Brasil
+Đội tuyển bóng đá U-23 quốc gia Brasil
+Đội tuyển bóng đá nữ quốc gia Brasil
+Đội tuyển bóng đá quốc gia Brasil
+Ủy ban Olympic Brasil
+Chuỗi Taylor
+Chú giải cờ vua
+Công thức bậc hai
+Công thức toán học
+Cờ vua
+DOI
+Danh sách ký hiệu toán học
+Hóa học
+Hệ thập lục phân
+Hỗn hợp racemic
+ISBN
+Khoa học thực nghiệm
+Khoảng tin cậy
+Kỹ thuật
+Microsoft Windows
+Mã Alt
+Phím Compose
+Phần phím số
+Sai số
+Sai số chuẩn
+TeX
+Toán học
+Unicode
+William Oughtred
+Đẳng thức lượng giác
+Độ lệch chuẩn
+A còng
+Ampersand
+Argentine austral
+Asterism (typography)
+Baht
+Basis point
+Biểu tượng tiền tệ
+Book:Typographical symbols
+Bracket
+Bullet (typography)
+Caret
+Cedi Ghana
+Cent (tiền tệ)
+Chia từ
+Chinese punctuation
+Colón Costa Rica
+Cruzeiro Brasil
+Các dấu cộng và trừ
+Dagger (typography)
+Dash
+Diacritic
+Ditto mark
+Drachma
+Dấu ba chấm
+Dấu chéo ngược
+Dấu chấm
+Dấu chấm hỏi
+Dấu chấm phẩy
+Dấu chấm than
+Dấu chấm than và dấu hỏi ngược
+Dấu cách
+Dấu câu
+Dấu gạch chéo
+Dấu hai chấm
+Dấu hoa thị
+Dấu lược
+Dấu ngoặc kép
+Dấu numero
+Dấu phẩy
+Dấu thăng
+Fleuron (typography)
+Franc Pháp
+Guaraní Paraguay
+Hebrew punctuation
+Hyphen
+Hyphen-minus
+Hệ chữ viết
+Index (typography)
+Interpunct
+Interrobang
+Irony punctuation
+Japanese punctuation
+Korean punctuation
+Ký hiệu Phần trăm
+Ký hiệu bản quyền
+Ký hiệu bảng Anh
+Ký hiệu euro
+Ký hiệu florin
+Ký hiệu ghi âm
+Ký hiệu hryvnia
+Ký hiệu lira Thổ Nhĩ Kỳ
+Ký hiệu nhãn hiệu dịch vụ
+Ký hiệu peso Philippines
+Ký hiệu rupee Ấn Độ
+Ký hiệu shekel
+Ký hiệu thương hiệu
+Ký hiệu thương hiệu đã được đăng ký
+Ký hiệu tiền tệ (trình bày)
+Ký hiệu won
+Ký hiệu đô la
+Ký hiệu độ
+Kýp Lào
+List of logic symbols
+Lozenge
+Mark vàng Đức
+Mill (đơn vị tiền tệ)
+Naira Nigeria
+Obelus
+Ordinal indicator
+Per mille
+Peseta
+Pfennig
+Pilcrow
+Portal:Typography
+Prime (symbol)
+Quotation mark
+Riel Campuchia
+Rupee
+Rúp Nga
+Section sign
+Sở hữu trí tuệ
+Taka Bangladesh
+Tenge Kazakhstan
+Tham khảo
+Thời khóa biểu
+Tie (typography)
+Tilde
+Tiền tệ
+Trang
+Trích dẫn
+Typography
+Tögrög
+Underscore
+Vertical bar
+Whitespace character
+¥ (định hướng)
+Đơn vị tiền tệ châu Âu
+Đồng (tiền)
+A còng
+Ampersand
+Argentine austral
+Asterism (typography)
+Baht
+Basis point
+Biểu tượng tiền tệ
+Book:Typographical symbols
+Bracket
+Bullet (typography)
+Bảng chữ cái Latinh
+Caret
+Cedi Ghana
+Cent (tiền tệ)
+Chia từ
+Chinese punctuation
+Colón Costa Rica
+Cruzeiro Brasil
+Các dấu cộng và trừ
+Cước chú
+Dagger (typography)
+Dash
+Diacritic
+Ditto mark
+Drachma
+Dấu ba chấm
+Dấu chéo ngược
+Dấu chấm
+Dấu chấm phẩy
+Dấu chấm than
+Dấu chấm than và dấu hỏi ngược
+Dấu cách
+Dấu câu
+Dấu gạch chéo
+Dấu hai chấm
+Dấu hoa thị
+Dấu lược
+Dấu ngoặc kép
+Dấu numero
+Dấu phẩy
+Dấu thăng
+Fleuron (typography)
+Franc Pháp
+Guaraní Paraguay
+Hebrew punctuation
+Hyphen
+Hyphen-minus
+Hệ chữ viết
+Index (typography)
+Interpunct
+Interrobang
+Irony punctuation
+Japanese punctuation
+Korean punctuation
+Ký hiệu Phần trăm
+Ký hiệu bản quyền
+Ký hiệu bảng Anh
+Ký hiệu euro
+Ký hiệu florin
+Ký hiệu ghi âm
+Ký hiệu hryvnia
+Ký hiệu lira Thổ Nhĩ Kỳ
+Ký hiệu nhãn hiệu dịch vụ
+Ký hiệu peso Philippines
+Ký hiệu rupee Ấn Độ
+Ký hiệu shekel
+Ký hiệu thương hiệu
+Ký hiệu thương hiệu đã được đăng ký
+Ký hiệu tiền tệ (trình bày)
+Ký hiệu won
+Ký hiệu đô la
+Ký hiệu độ
+Kýp Lào
+List of logic symbols
+Lozenge
+Mark vàng Đức
+Mill (đơn vị tiền tệ)
+Naira Nigeria
+Obelus
+Ordinal indicator
+Per mille
+Peseta
+Pfennig
+Pilcrow
+Portal:Typography
+Prime (symbol)
+Quotation mark
+Riel Campuchia
+Rupee
+Rúp Nga
+Section sign
+Sở hữu trí tuệ
+Taka Bangladesh
+Tenge Kazakhstan
+Tie (typography)
+Tilde
+Tiếng Tây Ban Nha
+Tiền tệ
+Typography
+Tögrög
+Underscore
+Vertical bar
+Whitespace character
+¥ (định hướng)
+Đơn vị tiền tệ châu Âu
+Đồng (tiền)
+Chữ cái
+Tiếng Việt
+Austral Argentina
+Baht Thái Lan
+Balboa Panama
+Cedi Ghana
+Cent (tiền tệ)
+Cifrão
+Colón (tiền tệ)
+Cruzeiro Brasil
+Cơ chế định tỷ giá hối đoái châu Âu
+Danh sách các loại tiền tệ đang lưu thông
+Danh sách các tiền tệ cũ
+Denar Macedonia
+Drachma (định hướng)
+Drachma Hy Lạp
+Dấu euro
+Dấu florin
+Dấu hryvnia
+Dấu pound
+Dấu sheqel
+Dấu won
+Dấu đô la
+Euro
+Forint Hungary
+Franc Pháp
+Greek phoenix
+Guaraní Paraguay
+Hy Lạp
+ISO 4217
+Inti Peru
+Koruna Slovakia
+Koruna Séc
+Koruna Tiệp Khắc
+Kíp Lào
+Ký hiệu tiền tệ
+Ký tự tiền tệ
+Lempira
+Lira Malta
+Lạm phát
+Mill (tiền tệ)
+Mác Đức
+Naira Nigeria
+Ngân hàng Hy Lạp
+Ngân hàng trung ương
+Nuevo sol Peru
+Nơi in tiền
+Peseta Tây Ban Nha
+Peso Philippines
+Pfennig
+Pula Botswana
+Quetzal Guatemala
+Rand Nam Phi
+Real Brasil
+Ringgit Malaysia
+Rupee
+Rúp Nga
+Taka Bangladesh
+Tögrög Mông Cổ
+Złoty Ba Lan
+¥
+Đúc tiền
+Đơn vị tiền tệ châu Âu
+Đồng (tiền)
+A còng
+Ampersand
+Argentine austral
+Asterism (typography)
+Ba chấm
+Baht
+Basis point
+Biểu tượng tiền tệ
+Book:Typographical symbols
+Bracket
+Bullet (typography)
+Caret
+Cedi Ghana
+Cent (tiền tệ)
+Chia từ
+Chinese punctuation
+Colón Costa Rica
+Cruzeiro Brasil
+Các dấu cộng và trừ
+Cước chú
+Dagger (typography)
+Dash
+Diacritic
+Ditto mark
+Drachma
+Dấu ba chấm
+Dấu chéo ngược
+Dấu chấm hỏi
+Dấu chấm phẩy
+Dấu chấm than
+Dấu chấm than và dấu hỏi ngược
+Dấu cách
+Dấu câu
+Dấu gạch chéo
+Dấu hai chấm
+Dấu hoa thị
+Dấu lược
+Dấu lửng
+Dấu ngoặc kép
+Dấu numero
+Dấu phẩy
+Dấu thăng
+Fleuron (typography)
+Franc Pháp
+Guaraní Paraguay
+Hebrew punctuation
+Hyphen
+Hyphen-minus
+Hệ chữ viết
+Index (typography)
+Interpunct
+Interrobang
+Irony punctuation
+Japanese punctuation
+Korean punctuation
+Ký hiệu Phần trăm
+Ký hiệu bản quyền
+Ký hiệu bảng Anh
+Ký hiệu euro
+Ký hiệu florin
+Ký hiệu ghi âm
+Ký hiệu hryvnia
+Ký hiệu lira Thổ Nhĩ Kỳ
+Ký hiệu nhãn hiệu dịch vụ
+Ký hiệu peso Philippines
+Ký hiệu rupee Ấn Độ
+Ký hiệu shekel
+Ký hiệu thương hiệu
+Ký hiệu thương hiệu đã được đăng ký
+Ký hiệu tiền tệ (trình bày)
+Ký hiệu won
+Ký hiệu đô la
+Ký hiệu độ
+Kýp Lào
+List of logic symbols
+Lozenge
+Mark vàng Đức
+Mill (đơn vị tiền tệ)
+Naira Nigeria
+Obelus
+Ordinal indicator
+Per mille
+Peseta
+Pfennig
+Pilcrow
+Portal:Typography
+Prime (symbol)
+Quotation mark
+Riel Campuchia
+Rupee
+Rúp Nga
+Section sign
+Sở hữu trí tuệ
+Taka Bangladesh
+Tenge Kazakhstan
+Tie (typography)
+Tilde
+Tiền tệ
+Typography
+Tögrög
+Underscore
+Vertical bar
+Viết tắt
+Whitespace character
+¥ (định hướng)
+Đơn vị tiền tệ châu Âu
+Đồng (tiền)
+A còng
+Ampersand
+Argentine austral
+Asterism (typography)
+Ba chấm
+Baht
+Basis point
+Biểu tượng tiền tệ
+Book:Typographical symbols
+Bracket
+Bullet (typography)
+Caret
+Cedi Ghana
+Cent (tiền tệ)
+Chia từ
+Chinese punctuation
+Colón Costa Rica
+Cruzeiro Brasil
+Các dấu cộng và trừ
+Cước chú
+Dagger (typography)
+Dash
+Diacritic
+Ditto mark
+Drachma
+Dấu ba chấm
+Dấu chéo ngược
+Dấu chấm hỏi
+Dấu chấm phẩy
+Dấu chấm than
+Dấu chấm than và dấu hỏi ngược
+Dấu cách
+Dấu câu
+Dấu gạch chéo
+Dấu hai chấm
+Dấu hoa thị
+Dấu lược
+Dấu lửng
+Dấu ngoặc kép
+Dấu numero
+Dấu phẩy
+Dấu thăng
+Fleuron (typography)
+Franc Pháp
+Guaraní Paraguay
+Hebrew punctuation
+Hyphen
+Hyphen-minus
+Hệ chữ viết
+Index (typography)
+Interpunct
+Interrobang
+Irony punctuation
+Japanese punctuation
+Korean punctuation
+Ký hiệu Phần trăm
+Ký hiệu bản quyền
+Ký hiệu bảng Anh
+Ký hiệu euro
+Ký hiệu florin
+Ký hiệu ghi âm
+Ký hiệu hryvnia
+Ký hiệu lira Thổ Nhĩ Kỳ
+Ký hiệu nhãn hiệu dịch vụ
+Ký hiệu peso Philippines
+Ký hiệu rupee Ấn Độ
+Ký hiệu shekel
+Ký hiệu thương hiệu
+Ký hiệu thương hiệu đã được đăng ký
+Ký hiệu tiền tệ (trình bày)
+Ký hiệu won
+Ký hiệu đô la
+Ký hiệu độ
+Kýp Lào
+List of logic symbols
+Lozenge
+Mark vàng Đức
+Mill (đơn vị tiền tệ)
+Naira Nigeria
+Obelus
+Ordinal indicator
+Per mille
+Peseta
+Pfennig
+Pilcrow
+Portal:Typography
+Prime (symbol)
+Quotation mark
+Riel Campuchia
+Rupee
+Rúp Nga
+Section sign
+Sở hữu trí tuệ
+Taka Bangladesh
+Tenge Kazakhstan
+Tie (typography)
+Tilde
+Tiền tệ
+Typography
+Tögrög
+Underscore
+Vertical bar
+Viết tắt
+Whitespace character
+¥ (định hướng)
+Đơn vị tiền tệ châu Âu
+Đồng (tiền)
+A còng
+Aldus Manutius
+Ampersand
+Argentine austral
+Asterism (typography)
+Baht
+Basis point
+Biểu tượng tiền tệ
+Book:Typographical symbols
+Bracket
+Bullet (typography)
+Caret
+Cedi Ghana
+Cent (tiền tệ)
+Chia từ
+Chinese punctuation
+Colón Costa Rica
+Cruzeiro Brasil
+Các dấu cộng và trừ
+Cước chú
+Dagger (typography)
+Dash
+Diacritic
+Ditto mark
+Drachma
+Dấu ba chấm
+Dấu chéo ngược
+Dấu chấm
+Dấu chấm hỏi
+Dấu chấm than
+Dấu chấm than và dấu hỏi ngược
+Dấu cách
+Dấu câu
+Dấu gạch chéo
+Dấu hai chấm
+Dấu hoa thị
+Dấu lược
+Dấu ngoặc kép
+Dấu numero
+Dấu phẩy
+Dấu thăng
+Fleuron (typography)
+Franc Pháp
+Guaraní Paraguay
+Hebrew punctuation
+Hyphen
+Hyphen-minus
+Hệ chữ viết
+Index (typography)
+Interpunct
+Interrobang
+Irony punctuation
+Japanese punctuation
+Korean punctuation
+Ký hiệu Phần trăm
+Ký hiệu bản quyền
+Ký hiệu bảng Anh
+Ký hiệu euro
+Ký hiệu florin
+Ký hiệu ghi âm
+Ký hiệu hryvnia
+Ký hiệu lira Thổ Nhĩ Kỳ
+Ký hiệu nhãn hiệu dịch vụ
+Ký hiệu peso Philippines
+Ký hiệu rupee Ấn Độ
+Ký hiệu shekel
+Ký hiệu thương hiệu
+Ký hiệu thương hiệu đã được đăng ký
+Ký hiệu tiền tệ (trình bày)
+Ký hiệu won
+Ký hiệu đô la
+Ký hiệu độ
+Kýp Lào
+List of logic symbols
+Lozenge
+Mark vàng Đức
+Mill (đơn vị tiền tệ)
+Naira Nigeria
+Obelus
+Ordinal indicator
+Per mille
+Peseta
+Pfennig
+Pilcrow
+Portal:Typography
+Prime (symbol)
+Quotation mark
+Riel Campuchia
+Rupee
+Rúp Nga
+Section sign
+Slate (magazine)
+Sở hữu trí tuệ
+Taka Bangladesh
+Tenge Kazakhstan
+Tie (typography)
+Tilde
+Tiền tệ
+Typography
+Tögrög
+Từ
+Underscore
+Vertical bar
+Vương quốc Liên hiệp Anh và Bắc Ireland
+Whitespace character
+¥ (định hướng)
+Đơn vị tiền tệ châu Âu
+Đồng (tiền)
+A còng
+Ampersand
+Argentine austral
+Asterism (typography)
+Baht
+Basis point
+Biểu tượng tiền tệ
+Book:Typographical symbols
+Bracket
+Bullet (typography)
+Caret
+Cedi Ghana
+Cent (tiền tệ)
+Chia từ
+Chinese punctuation
+Colón Costa Rica
+Cruzeiro Brasil
+Các dấu cộng và trừ
+Cước chú
+Dagger (typography)
+Dash
+Diacritic
+Ditto mark
+Drachma
+Dấu ba chấm
+Dấu chéo ngược
+Dấu chấm
+Dấu chấm hỏi
+Dấu chấm phẩy
+Dấu chấm than và dấu hỏi ngược
+Dấu cách
+Dấu câu
+Dấu gạch chéo
+Dấu hai chấm
+Dấu hoa thị
+Dấu lược
+Dấu ngoặc kép
+Dấu numero
+Dấu phẩy
+Dấu thăng
+Fleuron (typography)
+Franc Pháp
+Giai thừa
+Guaraní Paraguay
+Hebrew punctuation
+Hyphen
+Hyphen-minus
+Hệ chữ viết
+Index (typography)
+Interpunct
+Interrobang
+Irony punctuation
+Japanese punctuation
+Korean punctuation
+Ký hiệu Phần trăm
+Ký hiệu bản quyền
+Ký hiệu bảng Anh
+Ký hiệu euro
+Ký hiệu florin
+Ký hiệu ghi âm
+Ký hiệu hryvnia
+Ký hiệu lira Thổ Nhĩ Kỳ
+Ký hiệu nhãn hiệu dịch vụ
+Ký hiệu peso Philippines
+Ký hiệu rupee Ấn Độ
+Ký hiệu shekel
+Ký hiệu thương hiệu
+Ký hiệu thương hiệu đã được đăng ký
+Ký hiệu tiền tệ (trình bày)
+Ký hiệu won
+Ký hiệu đô la
+Ký hiệu độ
+Kýp Lào
+List of logic symbols
+Lozenge
+Lập trình
+Mark vàng Đức
+Mill (đơn vị tiền tệ)
+Naira Nigeria
+Ngôn ngữ
+Obelus
+Ordinal indicator
+Per mille
+Peseta
+Pfennig
+Pilcrow
+Portal:Typography
+Prime (symbol)
+Quotation mark
+Riel Campuchia
+Rupee
+Rúp Nga
+Section sign
+Sở hữu trí tuệ
+Taka Bangladesh
+Tenge Kazakhstan
+Tie (typography)
+Tilde
+Tiền tệ
+Toán học
+Typography
+Tögrög
+Underscore
+Vertical bar
+Whitespace character
+¥ (định hướng)
+Đơn vị tiền tệ châu Âu
+Đồng (tiền)
+A còng
+Ampersand
+Argentine austral
+Asterism (typography)
+Baht
+Basis point
+Biểu tượng tiền tệ
+Book:Typographical symbols
+Bracket
+Bullet (typography)
+Bảng chữ cái Latinh
+Caret
+Cedi Ghana
+Cent (tiền tệ)
+Chia từ
+Chinese punctuation
+Colón Costa Rica
+Cruzeiro Brasil
+Các dấu cộng và trừ
+Cước chú
+Dagger (typography)
+Dash
+Diacritic
+Ditto mark
+Drachma
+Dấu ba chấm
+Dấu chéo ngược
+Dấu chấm
+Dấu chấm phẩy
+Dấu chấm than
+Dấu chấm than và dấu hỏi ngược
+Dấu cách
+Dấu câu
+Dấu gạch chéo
+Dấu hai chấm
+Dấu hoa thị
+Dấu lược
+Dấu ngoặc kép
+Dấu numero
+Dấu phẩy
+Dấu thăng
+Fleuron (typography)
+Franc Pháp
+Guaraní Paraguay
+Hebrew punctuation
+Hyphen
+Hyphen-minus
+Hệ chữ viết
+Index (typography)
+Interpunct
+Interrobang
+Irony punctuation
+Japanese punctuation
+Korean punctuation
+Ký hiệu Phần trăm
+Ký hiệu bản quyền
+Ký hiệu bảng Anh
+Ký hiệu euro
+Ký hiệu florin
+Ký hiệu ghi âm
+Ký hiệu hryvnia
+Ký hiệu lira Thổ Nhĩ Kỳ
+Ký hiệu nhãn hiệu dịch vụ
+Ký hiệu peso Philippines
+Ký hiệu rupee Ấn Độ
+Ký hiệu shekel
+Ký hiệu thương hiệu
+Ký hiệu thương hiệu đã được đăng ký
+Ký hiệu tiền tệ (trình bày)
+Ký hiệu won
+Ký hiệu đô la
+Ký hiệu độ
+Kýp Lào
+List of logic symbols
+Lozenge
+Mark vàng Đức
+Mill (đơn vị tiền tệ)
+Naira Nigeria
+Obelus
+Ordinal indicator
+Per mille
+Peseta
+Pfennig
+Pilcrow
+Portal:Typography
+Prime (symbol)
+Quotation mark
+Riel Campuchia
+Rupee
+Rúp Nga
+Section sign
+Sở hữu trí tuệ
+Taka Bangladesh
+Tenge Kazakhstan
+Tie (typography)
+Tilde
+Tiếng Tây Ban Nha
+Tiền tệ
+Typography
+Tögrög
+Underscore
+Vertical bar
+Whitespace character
+¥ (định hướng)
+Đơn vị tiền tệ châu Âu
+Đồng (tiền)
+CSS
+HTML
+In ấn
+Máy tính
+Ngôn ngữ đánh dấu giao diện
+Ngôn ngữ đánh dấu hình ảnh đồ họa vectơ
+Ngôn ngữ đánh dấu phục vụ Web
+Ngôn ngữ đánh dấu đa mục đích
+Oxford English Dictionary
+SGML
+SVG
+Siêu văn bản
+Tập tin
+WSDL
+World Wide Web
+XUL
+A
+A còng
+Ampersand
+Argentine austral
+Asterism (typography)
+B
+Baht
+Basis point
+Biểu tượng tiền tệ
+Book:Typographical symbols
+Bracket
+Bullet (typography)
+Bảng chữ cái Latinh
+Bảng chữ cái Latinh cơ bản của ISO
+C
+Caret
+Cedi Ghana
+Cent (tiền tệ)
+Chia từ
+Chinese punctuation
+Chữ Quốc ngữ
+Chữ số La Mã
+Colón Costa Rica
+Cruzeiro Brasil
+Các dấu cộng và trừ
+Cước chú
+Cổ tự học
+D
+Dagger (typography)
+Danh sách các chữ cái Latinh
+Dash
+Diacritic
+Ditto mark
+Drachma
+Dấu ba chấm
+Dấu chéo ngược
+Dấu chấm
+Dấu chấm hỏi
+Dấu chấm phẩy
+Dấu chấm than
+Dấu chấm than và dấu hỏi ngược
+Dấu cách
+Dấu gạch chéo
+Dấu hai chấm
+Dấu hoa thị
+Dấu lược
+Dấu ngoặc kép
+Dấu numero
+Dấu phẩy
+Dấu phụ
+Dấu thăng
+E
+Ernest Gowers
+F
+Fleuron (typography)
+Franc Pháp
+Francis George Fowler
+G
+Guaraní Paraguay
+H
+Hebrew punctuation
+Henry Watson Fowler
+Hyphen
+Hyphen-minus
+Hệ chữ viết
+I
+ISBN
+ISO/IEC 646
+Index (typography)
+Interpunct
+Interrobang
+Irony punctuation
+J
+Japanese punctuation
+K
+Khoảng trắng
+Kingsley Amis
+Korean punctuation
+Ký hiệu Phần trăm
+Ký hiệu bản quyền
+Ký hiệu bảng Anh
+Ký hiệu euro
+Ký hiệu florin
+Ký hiệu ghi âm
+Ký hiệu hryvnia
+Ký hiệu lira Thổ Nhĩ Kỳ
+Ký hiệu nhãn hiệu dịch vụ
+Ký hiệu peso Philippines
+Ký hiệu rupee Ấn Độ
+Ký hiệu shekel
+Ký hiệu thương hiệu
+Ký hiệu thương hiệu đã được đăng ký
+Ký hiệu tiền tệ (trình bày)
+Ký hiệu won
+Ký hiệu đô la
+Ký hiệu độ
+Ký tự Latinh trong unicode
+Kýp Lào
+L
+List of logic symbols
+Lozenge
+Lịch sử bảng chữ cái Latinh
+M
+Mark vàng Đức
+Mill (đơn vị tiền tệ)
+N
+Naira Nigeria
+Những chữ cái có nguồn gốc từ chữ cái Latinh
+O
+Obelus
+Office of Public Sector Information
+Ordinal indicator
+Oxford University Press
+P
+Per mille
+Peseta
+Pfennig
+Pilcrow
+Portal:Typography
+Prime (symbol)
+Q
+Quotation mark
+R
+Riel Campuchia
+Robert Allen (lexicographer)
+Rupee
+Rúp Nga
+S
+Section sign
+Sở hữu trí tuệ
+T
+Taka Bangladesh
+Tenge Kazakhstan
+The Complete Plain Words
+The King's English
+Tie (typography)
+Tilde
+Tiền tệ
+Typography
+Tögrög
+U (mẫu tự)
+Underscore
+V
+Vertical bar
+W
+Whitespace character
+Wikibooks
+Wiktionary
+X
+Y
+Z
+¥ (định hướng)
+Â
+Ê
+Ô
+Ă
+Đ
+Đơn vị tiền tệ châu Âu
+Đồng (tiền)
+Ơ
+Ư
+A còng
+Ampersand
+Argentine austral
+Asterism (typography)
+Ba chấm
+Baht
+Basis point
+Biểu tượng tiền tệ
+Book:Typographical symbols
+Bracket
+Bullet (typography)
+Caret
+Cedi Ghana
+Cent (tiền tệ)
+Chia từ
+Chinese punctuation
+Colón Costa Rica
+Cruzeiro Brasil
+Các dấu cộng và trừ
+Cước chú
+Dagger (typography)
+Dash
+Diacritic
+Ditto mark
+Drachma
+Dấu ba chấm
+Dấu chéo ngược
+Dấu chấm hỏi
+Dấu chấm phẩy
+Dấu chấm than
+Dấu chấm than và dấu hỏi ngược
+Dấu cách
+Dấu câu
+Dấu gạch chéo
+Dấu hai chấm
+Dấu hoa thị
+Dấu lược
+Dấu lửng
+Dấu ngoặc kép
+Dấu numero
+Dấu phẩy
+Dấu thăng
+Fleuron (typography)
+Franc Pháp
+Guaraní Paraguay
+Hebrew punctuation
+Hyphen
+Hyphen-minus
+Hệ chữ viết
+Index (typography)
+Interpunct
+Interrobang
+Irony punctuation
+Japanese punctuation
+Korean punctuation
+Ký hiệu Phần trăm
+Ký hiệu bản quyền
+Ký hiệu bảng Anh
+Ký hiệu euro
+Ký hiệu florin
+Ký hiệu ghi âm
+Ký hiệu hryvnia
+Ký hiệu lira Thổ Nhĩ Kỳ
+Ký hiệu nhãn hiệu dịch vụ
+Ký hiệu peso Philippines
+Ký hiệu rupee Ấn Độ
+Ký hiệu shekel
+Ký hiệu thương hiệu
+Ký hiệu thương hiệu đã được đăng ký
+Ký hiệu tiền tệ (trình bày)
+Ký hiệu won
+Ký hiệu đô la
+Ký hiệu độ
+Kýp Lào
+List of logic symbols
+Lozenge
+Mark vàng Đức
+Mill (đơn vị tiền tệ)
+Naira Nigeria
+Obelus
+Ordinal indicator
+Per mille
+Peseta
+Pfennig
+Pilcrow
+Portal:Typography
+Prime (symbol)
+Quotation mark
+Riel Campuchia
+Rupee
+Rúp Nga
+Section sign
+Sở hữu trí tuệ
+Taka Bangladesh
+Tenge Kazakhstan
+Tie (typography)
+Tilde
+Tiền tệ
+Typography
+Tögrög
+Underscore
+Vertical bar
+Viết tắt
+Whitespace character
+¥ (định hướng)
+Đơn vị tiền tệ châu Âu
+Đồng (tiền)

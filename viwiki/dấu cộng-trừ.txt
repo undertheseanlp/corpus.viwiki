@@ -1,0 +1,461 @@
+Dấu cộng-trừ (±) là một ký hiệu toán học đa nghĩa.
+Trong toán học, nó thường chỉ ra một sự lựa chọn của hai giá trị khả dĩ chính xác, một trong đó là phủ định của cái còn lại.
+Trong khoa học thực nghiệm, ký hiệu này thường chỉ ra khoảng tin cậy hoặc sai số trong một phép đo, thường là độ lệch chuẩn hay sai số chuẩn. Ký hiệu cũng có thể đại diện cho một miền chứa các giá trị mà sự đọc có thể có.
+Trong kỹ thuật ký hiệu này biểu thị độ dung sai, là một loạt các giá trị được coi là có thể chấp nhận, an toàn, hoặc tuân thủ một số tiêu chuẩn, hoặc theo một hợp đồng.
+Trong hóa học ký hiệu này được sử dụng để chỉ hỗn hợp racemic.
+Trong cờ vua, ký hiệu chỉ ra một ưu thế rõ ràng dành cho các người đi cờ trắng; ký hiệu bổ trợ ∓ chỉ ra các lợi thế tương tự cho người đi cờ đen.
+Ký hiệu này thường được đọc là "cộng hoặc trừ".
+
+
+== Lịch sử ==
+Một phiên bản của ký hiệu, cũng bao gồm cả từ Pháp "ou" (có nghĩa là "hoặc") đã được sử dụng theo ý nghĩa toán học của nó bởi Albert Girard vào năm 1626, và ký hiệu trong dạng hiện đại của nó đã được sử dụng gần như cùng lúc bởi William Oughtred trong tác phẩm Clavis Mathematicae (1631).
+
+
+== Cách sử dụng ==
+
+
+=== Trong toán học ===
+Trong các công thức toán học, ký hiệu ± có thể được sử dụng để chỉ ký hiệu có thể được thay thế bởi một trong hai ký hiệu + or − , cho phép công thức đại diện cho hai giá trị hoặc hai phương trình. Ví dụ, với phương trình x2 = 1, ta có thể cho đáp án là x = ±1. Điều này chỉ ra rằng phương trình có đáp án, mỗi đáp án có thể thu được bằng cách thay thế phương trình này bởi một trong hai phương trình x = +1 hoặc x = −1. Chỉ có một trong hai phương trình thay thế là đúng đối với đáp án chuẩn bất kỳ. Một ứng dụng phổ biến của ký hiệu này được tìm thấy trong công thức bậc hai
+
+  
+    
+      
+        
+          x
+          =
+          
+            
+              
+                −
+                b
+                ±
+                
+                  
+                    
+                      b
+                      
+                        2
+                      
+                    
+                    −
+                    4
+                    a
+                    c
+                  
+                
+              
+              
+                2
+                a
+              
+            
+          
+          .
+        
+      
+    
+    {\displaystyle \displaystyle x={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}.}
+  
+mô tả hai nghiệm cho phương trình bậc hai ax2 + bx + c = 0.
+Tương tự như vậy, đẳng thức lượng giác
+
+  
+    
+      
+        sin
+        ⁡
+        (
+        A
+        ±
+        B
+        )
+        =
+        sin
+        ⁡
+        (
+        A
+        )
+        cos
+        ⁡
+        (
+        B
+        )
+        ±
+        cos
+        ⁡
+        (
+        A
+        )
+        sin
+        ⁡
+        (
+        B
+        )
+        .
+        
+      
+    
+    {\displaystyle \sin(A\pm B)=\sin(A)\cos(B)\pm \cos(A)\sin(B).\,}
+  
+có thể được hiểu là viết tắt dành cho hai phương trình: một có "+" trên cả hai vế của phương trình, và một có "-" trên cả hai bên. Hai bản sao của dấu ± trong đẳng thức này đều phải được thay thế theo cùng cách: không hợp lệ khi thay thế một phương trình bằng "+" và phương trình khác với "-". Ngược lại với ví dụ về công thức bậc hai, cả hai phương trình được mô tả bởi đẳng thức này đồng thời hợp lệ.
+Cách sử dụng có liên quan thứ ba được tìm thấy trong phần này của công thức cho chuỗi Taylor của hàm sin:
+
+  
+    
+      
+        sin
+        ⁡
+        
+          (
+          x
+          )
+        
+        =
+        x
+        −
+        
+          
+            
+              x
+              
+                3
+              
+            
+            
+              3
+              !
+            
+          
+        
+        +
+        
+          
+            
+              x
+              
+                5
+              
+            
+            
+              5
+              !
+            
+          
+        
+        −
+        
+          
+            
+              x
+              
+                7
+              
+            
+            
+              7
+              !
+            
+          
+        
+        +
+        ⋯
+        ±
+        
+          
+            1
+            
+              (
+              2
+              n
+              +
+              1
+              )
+              !
+            
+          
+        
+        
+          x
+          
+            2
+            n
+            +
+            1
+          
+        
+        +
+        ⋯
+        .
+      
+    
+    {\displaystyle \sin \left(x\right)=x-{\frac {x^{3}}{3!}}+{\frac {x^{5}}{5!}}-{\frac {x^{7}}{7!}}+\cdots \pm {\frac {1}{(2n+1)!}}x^{2n+1}+\cdots .}
+  
+Ở đây, các ký hiệu cộng-hoặc-trừ cho biết các ký hiệu của các số hạng thay thế, trong đó (bắt đầu đếm từ 0) các số hạng có chỉ số n ẻ được cộng vào trong khi chỉ số lẻ thì được trừ. Một bài trình bày chặt chẽ hơn của cùng một công thức sẽ nhân mỗi số hạng với thừa số (−1)n, mà cho +1 khi n chẵn và -1 khi n lẻ.
+
+
+=== Trong thống kê ===
+Việc dùng ⟨±⟩ cho một xấp xỉ thường được gặp nhất trong giới thiệu các giá trị số của một lượng cùng với độ dung sai của nó hay sai số lợi nhuận thống kê. Ví dụ, "5,7 ± 0,2" có nghĩa là một lượng được chỉ rõ hoặc ước tính trong phạm vi 0,2 đơn vị là 5,7; nó có thể là bất cứ số nào trong khoảng 5,5-5,9. Trong cách dùng khoa học đôi khi nó đề cập đến một xác suất tồn tại trong khoảng đã nêu, thường tương ứng với các độ lệch chuẩn 1 hoặc 2 (xác suất 68,3% hoặc 95,4% trong phân bố bình thường).
+Một phần trăm cũng được sử dụng để biểu thị biên độ sai số. Ví dụ, 230 ± 10% V dùng để chỉ điện áp trong vòng 10% của 230 V (207 V đến 253 V). Các giá trị riêng biệt cho các giới hạn trên và dưới cũng được sử dụng. Ví dụ, để cho biết rằng một giá trị có khả năng là 5,7 nhất nhưng có thể cao tới 5.9 hay thấp như 5.6, ta có thể viết &0000000000000005.7000005.7+0.2−0.1.
+
+
+=== Trong cờ vua ===
+Các ký hiệu ± và ∓ được sử dụng trong chú giải cờ vua để biểu thị lợi thế tương ứng cho cờ trắng và cờ đen. Tuy nhiên, ký hiệu cờ vua thường gặp hơn sẽ chỉ là + và -. Nếu nói về sự khác biệt, ký hiệu + và - biểu thị một lợi thế lớn hơn ± and ∓.
+
+
+== Dấu trừ-cộng ==
+Có một ký hiệu khác, dấu trừ-cộng (∓). Nó thường được sử dụng kết hợp cùng với các ký hiệu "±", trong các biểu thức như "x ± y ∓ z", được hiểu theo nghĩa "x + y − z" hoặc/và "x − y + z", nhưng không là "x + y + z" hay là "x − y − z". Dấu "−" trên "∓" được coi là có quan hệ với dấu "+" trong"±" (tương tự cho hai biểu tượng thấp hơn) mặc dù không có dấu hiệu trực quan về sự phụ thuộc. (Tuy nhiên, ký hiệu "±" thường được ưa thích hơn ký hiệu "∓", vì vậy nếu cả hai đều xuất hiện trong một phương trình thì giả định rằng chúng được liên kết sẽ an toàn hơn. Mặt khác, nếu có hai trường hợp ký hiệu "±" có trong một biểu thức, ta không thể phân biệt ký hiệu riêng liệu có phải cách giải thích ý định là hai hoặc bốn biểu thức phân biệt.) Biểu thức gốc có được viết lại thành "x ± (y − z)" để tránh nhầm lẫn, nhưng trường hợp như đẳng thức lượng giác
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        A
+        ±
+        B
+        )
+        =
+        cos
+        ⁡
+        (
+        A
+        )
+        cos
+        ⁡
+        (
+        B
+        )
+        ∓
+        sin
+        ⁡
+        (
+        A
+        )
+        sin
+        ⁡
+        (
+        B
+        )
+      
+    
+    {\displaystyle \cos(A\pm B)=\cos(A)\cos(B)\mp \sin(A)\sin(B)}
+  
+được viết gọn gàng nhất bằng cách sử dụng ký hiệu "∓". Phương trình lượng giác trên này biểu diễn hai phương trình:
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        A
+        +
+        B
+        )
+        =
+        cos
+        ⁡
+        (
+        A
+        )
+        cos
+        ⁡
+        (
+        B
+        )
+        −
+        sin
+        ⁡
+        (
+        A
+        )
+        sin
+        ⁡
+        (
+        B
+        )
+        
+      
+    
+    {\displaystyle \cos(A+B)=\cos(A)\cos(B)-\sin(A)\sin(B)\,}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        A
+        −
+        B
+        )
+        =
+        cos
+        ⁡
+        (
+        A
+        )
+        cos
+        ⁡
+        (
+        B
+        )
+        +
+        sin
+        ⁡
+        (
+        A
+        )
+        sin
+        ⁡
+        (
+        B
+        )
+        
+      
+    
+    {\displaystyle \cos(A-B)=\cos(A)\cos(B)+\sin(A)\sin(B)\,}
+  
+mà không phải là
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        A
+        +
+        B
+        )
+        =
+        cos
+        ⁡
+        (
+        A
+        )
+        cos
+        ⁡
+        (
+        B
+        )
+        +
+        sin
+        ⁡
+        (
+        A
+        )
+        sin
+        ⁡
+        (
+        B
+        )
+        
+      
+    
+    {\displaystyle \cos(A+B)=\cos(A)\cos(B)+\sin(A)\sin(B)\,}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        A
+        −
+        B
+        )
+        =
+        cos
+        ⁡
+        (
+        A
+        )
+        cos
+        ⁡
+        (
+        B
+        )
+        −
+        sin
+        ⁡
+        (
+        A
+        )
+        sin
+        ⁡
+        (
+        B
+        )
+        
+      
+    
+    {\displaystyle \cos(A-B)=\cos(A)\cos(B)-\sin(A)\sin(B)\,}
+  
+vì các ký hiệu được độc quyền luân phiên.
+Ví dụ khác là 
+  
+    
+      
+        
+          x
+          
+            3
+          
+        
+        ±
+        1
+        =
+        (
+        x
+        ±
+        1
+        )
+        (
+        
+          x
+          
+            2
+          
+        
+        ∓
+        x
+        +
+        1
+        )
+      
+    
+    {\displaystyle x^{3}\pm 1=(x\pm 1)(x^{2}\mp x+1)}
+   mà cho 2 phương trình.
+
+
+== Mã hoá ==
+Trong mã Unicode: U+00B1 ± PLUS-MINUS SIGN (HTML &#177; · &plusmn;)
+Trong ISO 8859-1, -7, -8, -9, -13, -15, và -16, ký hiệu cộng-trừ có mã thập lục phân 0xB1hex Bởi vì 256 điểm mã đầu tiên của Unicode giống các nội dung của tiêu chuẩn ISO-8859-1 nên ký hiệu này cũng có điểm mã Unicode là U + 00B1.
+Ký hiệu này cũng có một đại diện đối tượng của mã HTML &plusmn;.
+Các dấu trừ-cộng hiếm gặp hơn (∓) nhìn chung không được tìm thấy trong các bảng mã kế thừa và không có một thực thể HTML được đặt tên nhưng có trong Unicode với điểm mã U+2213 và do đó có thể sử dụng trong HTML bằng &#x2213; hay&#8723;.
+Trong TeX các ký hiệu 'cộng-trừ' và 'trừ-cộng' được định nghĩa tương ứng là \pm và\mp.
+Những ký tự còn có thể được tạo ra qua một gạch dưới hoặc gạch trên + ký hiệu ( +  or + ), nhưng hãy cẩn thận định dạng bị mất vào ngày sau, làm thay đổi ý nghĩa.
+
+
+=== Đánh máy ===
+Trên các hệ thống Windows, ký hiệu có thể được nhập bằng các mã Alt, bằng cách giữ phím ALT trong khi gõ các số 0177 hoặc 241 trên phần phím số.
+Trên các hệ thống Unix, ký hiệu có thể được nhập bằng cách gõ chuỗi compose + -.
+Trên các hệ thống Macintosh, ký hiệu có thể được nhập bằng cách nhấn tùy chọn shift = (trên phần phím không phải số).
+
+
+== Các ký tự tương tự ==
+Dấu cộng-trừ giống các ký tự Trung Quốc 士 và 土, trong khi dấu trừ-cộng tương tự 干.
+
+
+== Xem thêm ==
+Plus and minus signs
+Table of mathematical symbols
+≈ (approximately equal to)
+Engineering tolerance
+
+
+== Tham khảo ==

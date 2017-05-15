@@ -1,0 +1,5 @@
+Dấu chấm than là một dấu chấm câu dùng để thể hiện cảm xúc mạnh hoặc khi câu nói được diễn đạt với âm lượng lớn (hét to), và thường là dấu kết thúc câu.
+Trong lập trình, dấu này dùng để chỉ phủ định (!A là đúng nếu A là sai và ngược lại). Trong toán học, dấu này dùng để chỉ giai thừa.
+
+
+== Tham khảo ==

@@ -1,0 +1,44 @@
+Dấu chấm phẩy là một dấu câu thông dụng , có tác dụng ngắt quãng câu hoặc dùng để liệt kê. Một thợ in người Italia tên là Aldus Manutius the Elder đã tạo ra cách sử dụng dấu chấm phẩy để phân chia những từ có nghĩa đối lập, và để biểu thị những câu có liên quan đến nhau. Dấu chấm phẩy được sử dụng rộng rãi lần đầu tiên là tại Anh quốc năm 1591; Ben Jonson, một nhà văn nổi tiếng người Anh, là người đầu tiên dùng dấu chấm phẩy một cách có hệ thống. Cách sử dụng như hiện nay của dấu chấm phẩy được thảo luận dưới đây, liên quan đến cả sự liệt kê và sự liên kết các mệnh đề có liên hệ với nhau.
+
+
+== Sử dụng trong Tiếng Anh ==
+Sau dấu chấm phẩy là một từ không viết hoa, trừ phi từ đó chỉ tên riêng. Trước dấu chấm phẩy thì không cách còn sau dấu chấm phẩy thì có thể cách tùy ý. Cách dùng của dấu chấm phẩy trong Tiếng Anh bao gồm:
+Dùng giữa hai mệnh đề độc lập có mối quan hệ với nhau nhưng không được nối bởi các từ nối tương ứng:
+"Tôi đi tới bể bơi; tôi được biết bể bơi phải đóng cửa để sửa chữa định kỳ."
+"Ông chủ ra lệnh; nô lệ tuân theo."
+
+Dùng giữa hai mệnh đề được liên kết với nhau bởi một cụm từ nối hoặc trạng từ nối:
+"Tôi thích ăn thịt bò; tuy nhiên, tôi không thích bị bò ăn"
+
+Dùng giữa một chuỗi hoặc một loạt các dấu câu được dùng bên trong, ví dụ như dấu phẩy, trong đó thì dấu chấm phẩy được dùng như một chuỗi các dấu phẩy:
+"Cô ấy đã thấy ba người: Hoàng, đến từ Việt Nam; Nam, con trai người bán sữa; Sữa, một cô gái tốt bụng."
+"Một vài nhà hàng ăn nhanh có thể được tìm thấy ở London, Anh quốc; Paris, Pháp; Hà Nội, Việt Nam."
+"Ví dụ về thứ tự là: a, b và c; một, hai và ba; nhất, nhì và ba."
+
+
+== Sử dụng trong ngôn ngữ khác ==
+
+
+=== Trong tiếng Ả-rập ===
+
+
+=== Trong tiếng Hy Lạp và tiếng Xla-vơ ===
+
+
+== Sử dụng trong tin học ==
+dấu chấm phẩy được sử dụng để ngăn cách các câu lệnh trong lập trình ví dụ trong lập trình pascal: write('n='); readln(n); sẽ ngăn cách câu lệnh write('n=') và câu lệnh readln(n)
+
+
+== Sử dụng trong toán học ==
+Nếu liệt kê hai số, ví dụ 1 và 3, nếu viết (1,3) thì người Việt Nam và một số nước khác sẽ tưởng là một phẩy ba nên người ta mới dùng dấu chấm phẩy để ghi cho rõ, ví dụ(1;3)và nhất là trong tập hợp số, ta cũng dùng dấu chấm phẩy.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Celebrating the Semicolon in a Most Unlikely Location - New York Times, Feb. 18, 2008.
+Has modern life killed the semicolon? - Slate, ngày 20 tháng 6 năm 2008.
+The end of the line? - The Guardian, ngày 4 tháng 4 năm 2008.
+The Use of Semicolons in English
+Examples of how to use the Semicolon

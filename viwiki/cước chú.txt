@@ -1,0 +1,23 @@
+Cước chú là một đoạn chú thích đặt ở cuối trang trong một quyển sách hoặc văn bản. Đoạn chú thích đó có thể là nhận hoặc trích dẫn đến một tham khảo một phần đoạn văn bản. Cước chú thường được là một con số nằm phía trên sau đoạn văn bản mà nó muốn chú thích.
+1 cho cước chú đầu tiên trong trang, 2 cho cước chú thứ 2, và tương tự.
+Đôi khi cước chú được viết dưới dạng một con số nằm giữa cặp ngoặc vuông, như: [1]. Một số ký tự đặc biệt như dấu sao (*) hoặc dấu kiếm (†) cũng được dùng đánh dấu cước chú. Thứ tự thông thường của các ký hiệu là *, †, ‡, §, ‖, ¶. Trong các văn bản như thời khóa biểu, nhiều ký hiệu khác, cùng với chữ và số, cũng được dùng để chỉ đến các cước chú.
+
+
+== Sử dụng trong học thuật ==
+Cước chú được dùng để đưa ra một giải thích có thể gây mất tập trung cho người đọc. Hầu hết các hướng dẫn về văn phong (bao gồm cả MLA và APA) khuyến cáo hạn chế sử dụng cước chú. Tuy nhiên, các nhà xuất bản thường khuyến khích sử dụng cước chú thay cho tham khảo bằng dấu ngoặc. Bên cạnh cách dùng như chú thích, cước chú còn được dùng để cung cấp thêm những thông tin hoặc những giải thích lạc đề so với đoạn văn bản chính.
+
+
+== Sử dụng như công cụ văn chương ==
+
+
+== Xem thêm ==
+Chú thích nguồn gốc
+Trích dẫn
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Grafton, Anthony (1997). The Footnote: A Curious History. Cambridge, Mass.: Harvard University Press. ISBN 0-674-90215-7.
+Zerby, Chuck (2002). The Devil's Details: A History of Footnotes. New York: Simon & Schuster.

@@ -1,0 +1,4 @@
+Dấu phụ (diacritic) là ký hiệu được thêm vào chữ cái. Tác dụng chính của các dấu phụ trong văn tự Latin là để thay đổi âm thanh của ký tự mà nó thêm vào, ví dụ để phân biệt trọng âm, thanh điệu, nguyên âm... Tiếng Việt sử dụng dấu phụ để tạo ra chữ cái mới (ă, â, ô...) và ghi thanh điệu (á, à, ả, ã, ạ). Trong một số trường hợp, chữ cái được sử dụng như "dấu phụ trong dòng", với chức năng giống giống dấu phụ lệ thuộc khác, trong đó chúng thay đổi âm thanh của ký tự trước nó, ví dụ trường hợp của "h" trong phát âm tiếng Anh của "sh" và "th".
+
+
+== Chú thích ==

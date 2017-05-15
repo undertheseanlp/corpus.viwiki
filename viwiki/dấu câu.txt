@@ -1,0 +1,31 @@
+Dấu câu là cách sử dụng khoảng trắng, các ký hiệu quy ước và các thiết bị đánh máy nào đó để hỗ trợ việc đọc (đọc lớn hoặc đọc thầm) và hiểu đúng các đoạn văn bản in ấn hoặc viết tay. Một khái niệm khác định nghĩa: "Dấu câu là một thói quen, hành động hay hệ thống của việc chèn các điểm và các ký hiệu nhỏ khác vào các đoạn văn bản, để hỗ trợ sự diễn dịch, phân chia văn bản thành các câu, mệnh đề,... bằng các dấu câu, chẳng hạn như dấu chấm."
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Allen, Robert (ngày 25 tháng 7 năm 2002). Punctuation. Oxford University Press. ISBN 0-19-860439-4. 
+Amis, Kingsley (ngày 2 tháng 3 năm 1998). The King's English: A Guide to Modern Usage. HarperCollins. ISBN 0-00-638746-2. 
+Fowler, Henry Watson; Francis George Fowler (tháng 6 năm 2002) [1906]. The King's English. Oxford University Press. ISBN 0-19-860507-2. 
+Gowers, Ernest (1948). The Complete Plain Words. London: Office of Public Sector Information. 
+Houston, Keith (2013). Shady Characters: Ampersands, Interrobangs and other Typographical Curiosities. Particular. 
+Parkes, Malcolm Beckwith (1993). Pause and Effect: An Introduction to the History of Punctuation in the West. University of California Press. ISBN 0-520-07941-8. 
+Patt, Sebastian (2013). Punctuation as a Means of Medium-Dependent Presentation Structure in English: Exploring the Guide Functions of Punctuation. Tübingen: Narr Francke Attempto Verlag. ISBN 978-3-8233-6753-6. 
+
+
+== Liên kết ngoài ==
+Larry Trask: Guide to Punctuation A helpful online resource
+History of Punctuation, in French Helpful photographs of early punctuation
+Punctuation Marks in English: Clarity in Expression
+Unicode reference tables:
+U2000 “General punctuation” (PDF). 
+U3000 “CJK Symbols and Punctuation” (PDF). 
+UFE30 “CJK Compatibility Forms” (PDF). 
+UFE50 “Small Form Variants” (PDF). 
+UFF00 “Halfwidth and Fullwidth Forms” (PDF). 
+
+Ethiopic script
+Automatic Recovery of Capitalization and Punctuation of Automatic Speech Transcripts
+English Punctuation Rules
+Punctuation marks with independent clauses, by Jennifer Frost

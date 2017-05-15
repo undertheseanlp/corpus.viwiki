@@ -1,0 +1,31 @@
+Một ngôn ngữ đánh dấu có cả văn bản và thông tin phụ về văn bản. Thông tin này, ví dụ nói về cấu trúc của tập tin hay cách trình bày văn bản, là mã đánh dấu được pha trộn vào văn bản chính. Ngôn ngữ đánh dấu hiện đại nổi tiếng nhất là HTML (Ngôn ngữ Đánh dấu Siêu văn bản), một gốc của World Wide Web. Trong lịch sử và hiện nay, mã đánh dấu được sử dụng trong ngành xuất bản để gửi thông tin về công trình giữa tác giả, nhà xuất bản, và nhà in.
+
+
+== Thẻ đánh dấu ==
+Thẻ đánh dấu trong các ngôn ngữ đánh dấu có thể được hiểu như một câu ra lệnh. Nội dung nằm trong thẻ đánh dấu sẽ được điều chỉnh theo chức năng của thẻ đánh dấu.
+Một ví dụ về thẻ đánh dấu trong HTML:
+<i>Chữ in nghiêng</i>
+cho ra kết quả hiển thị là
+Chữ in nghiêng
+trong ví dụ trên cặp thẻ đánh dấu (thẻ mở) và (thẻ đóng) có chức năng hiển thị dòng nội dung trong nó dưới dạng in nghiêng.
+
+
+== Một số ngôn ngữ đánh dấu ==
+Ngôn ngữ đánh dấu đa mục đích
+SGML
+
+Ngôn ngữ đánh dấu giao diện
+XUL
+
+Ngôn ngữ đánh dấu hình ảnh đồ họa vectơ
+SVG
+
+Ngôn ngữ đánh dấu phục vụ Web
+WSDL
+
+
+== Xem thêm ==
+CSS (Cascading Style Sheets)
+
+
+== Tham khảo ==

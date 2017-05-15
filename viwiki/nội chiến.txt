@@ -1,0 +1,56 @@
+Nội chiến là chiến tranh giữa các thành phần trong một nước hay quốc gia, giữa những người đồng bào cùng ngôn ngữ nhưng tranh chấp nhau vì nhiều lý do khác nhau: tôn giáo, chính trị, kinh tế, v.v... 
+
+
+== Nguyên nhân nội chiến theo mô hình Collier-Hoeffler ==
+Các học giả điều tra nguyên nhân của cuộc nội chiến tập trung vào 2 lý thuyết đối nghịch nhau tham lam và bất bình (greed versus grievance). Theo đó: nguyên nhân của xung đột từ những người theo những khái niệm về sắc tộc, tôn giáo hoặc các mối quan hệ xã hội khác, hoặc xung đột bắt đầu do sức hấp dẫn kinh tế của những cá nhân và nhóm tiến hành xung đột đó? Phân tích học thuật hỗ trợ kết luận rằng các yếu tố cấu trúc và kinh tế có vai trò quan trọng hơn những yếu tố nhận dạng trong việc dự đoán sự xảy ra của nội chiến.
+Các nghiên cứu toàn diện về nội chiến được một nhóm của Ngân hàng Thế giới thực hiện trong đầu thế kỷ 21. Khuôn khổ của nghiên cứu này được đưa ra thành mô hình được gọi là mô hình Collier-Hoeffler Model. Nghiên cứu chi 78 khoảng thời gian 5 năm liên tiếp khi cuộc nội chiến bắt đầu từ 1960 đến 1999, cũng như 1.167 khoảng 5 năm không có nội chiến để so sánh, và các dữ liệu được đưa vào phân tích hồi quy để thấy được ảnh hưởng của các yếu tố khác nhau. Các yếu tố đã được chứng minh là có một tác động đáng kể đến khả năng một cuộc nội chiến có thể xảy ra trong bất kỳ khoảng thời gian năm năm cho trước:
+Sẵn có về tài chính
+Tỷ lệ cao hàng hóa thiết yếu trong xuất khẩu của một quốc gia tăng đáng kể nguy cơ của một cuộc xung đột. Một quốc gia tại "cao điểm nguy hiểm", các mặt hàng chiếm 32% GDP, có nguy cơ 22% rơi vào cuộc nội chiến trong khoảng thời gian năm năm cho trước, trong khi một quốc gia không có xuất khẩu hàng hóa cơ bản có rủi ro 1%. Khi phân tách thành các nhóm dầu khí và không có dầu khí cho thấy kết quả khác nhau: một quốc gia có mức độ phụ thuộc tương đối thấp vào xuất khẩu dầu khí có nguy cơ thấp hơn một chút, trong khi các nước có mức độ phụ thuộc cao vào xuất khẩu có nhiều nguy cơ xảy ra cuộc nội chiến hơn là những nước phụ thuộc chủ yếu vào các nguồn hàng hóa thiết yếu khác. Các tác giả của nghiên cứu giải thích điều này như là kết quả của sự không ràng buộc mà hàng thiết yếu có thể bị chiếm giữ so với các hình thức thịnh vượng khác, ví dụ, rất dễ dàng để thu giữ và kiểm soát đầu ra của một mỏ vàng hay mỏ dầu so một lĩnh vực sản xuất hàng may mặc hoặc dịch vụ khách sạn.
+Nguồn tài chính thứ 2 là từ diaspora quốc gia, nguồn này có thể tài trợ cho các cuộc nổi loại và quân nổi dậy từ nước ngoài. Nghiên cứu cho thấy sự chuyển đổi kích thước diaspora của một quốc gia về mặt thống kê từ nhỏ nhất trong nghiên cứu đến lớn nhất làm gia tăng gấp 6 lần cơ hội của một cuộc nội chiến.
+Chi phí cơ hội của cuộc nổi loạn
+Lợi thế về quân sự
+Mức độ cao của sự phân tán dân cư, và ở một mức độ thấp hơn, sự có mặt của địa hình núi tăng nguy cơ xung đột. Cả hai yếu tố hỗ trợ cho cuộc nổi dậy, do vậy khi dân số phân tán về phía biên giới thì khó kiểm soát hơn sự tậo tập trung vào một khu vực trung tâm, trong khi vùng núi có địa hình thuận lợi cho phiến quân có thể hoạt độngg.
+Bất bình
+Quy mô dân số
+Các yếu tố khác nhau đóng góp vào nguy cơ của một cuộc nội chiến tăng theo quy mô dân số. Nguy cơ một cuộc nội chiến tăng tỉ lệ với quy mô dân số của một quốc gia.
+Thời gian
+Thời gian đã trôi qua càng dài kể từ cuộc nội chiến cuối cùng, thì ít có khả năng một cuộc xung đột sẽ tái diễn. Nghiên cứu có hai cách giải thích cho điều này: một là dựa trên cơ hội, và hai là dựa trên khiếu nại. Thời gian trôi qua có thể đại diện cho khấu hao của bất cứ điều gì về vốn, cuộc nổi dậy đã trôi qua và do đó làm tăng chi phí cơ hội của việc khởi động lại cuộc xung đột. Ngoài ra, thời gian trôi qua có thể đại diện cho quá trình dần dần chữa lành lòng thù hận cũ. Nghiên cứu cho thấy sự hiện diện của cộng đồng người giảm đáng kể hiệu quả tích cực của thời gian, khi các nguồn tài trợ từ những người di cư bù vào khoản khấu hao chi phí cho cuộc nổi loạn.
+
+
+== Thời gian của cuộc nội chiến ==
+Ann Hironaka, tác giả của Neverending Wars, chia lịch sử nội chiến hiện đại thành giai đoạn trước thế kỷ 19, thế kỷ 19 đến đầu thế kỷ 20, và cuối thế kỷ 20. Trong thế kỷ 19 ở châu Âu, thời gian cuộc nội chiến là đáng kể, phần lớn là do yếu tố tự nhiên của các xung động khi mà các trận đánh vì trung tâm quyền lực mạnh hơn của quốc gia, sức mạnh chính quyền được tập trung, và sự can thiệp nhanh chóng cũng của các quốc gia khác hỗ trợ chính phủ đó. Theo sau chiến tranh thế giới thứ 2, thời gian của các cuộc nội chiến kéo dài hơn trước đầu thế kỷ 19, phần lớn là do sự yếu kém của các quốc gia hậu thuộc địa và sự can thiệp của các nước mạnh cho cả hai phía xung đột. Sự tương đồng rõ nhất của các cuộc nội chiến là chúng diễn ra ở các quốc gia yếu.
+
+
+== Xem thêm ==
+Sau đây là một số cuộc nội chiến trong lịch sử:
+Nội chiến Anh
+Nội chiến Hoa Kỳ
+Nội chiến Đức
+Nội chiến Nga
+Nội chiến Tây Ban Nha
+Nội chiến Trung Quốc
+Tam quốc Triều Tiên
+Nội chiến Congo
+Trịnh-Nguyễn phân tranh
+Năm 2006, chiến tranh Iraq giữa quân liên hiệp Hoa Kỳ và quân bản xứ đang có chiều hướng dần dần trở thành nội chiến Iraq.
+
+
+== Chú thích ==
+
+
+== Tài liệu ==
+Ali, Taisier Mohamed Ahmed and Robert O. Matthews, eds. Civil Wars in Africa: roots and resolution (1999), 322 pages
+Mats Berdal and David M. Malone, Greed and Grievance: Economic Agendas in Civil Wars (Lynne Rienner, 2000).
+Paul Collier, Breaking the Conflict Trap: civil war and development policy World Bank (2003) - 320 pages
+Collier, Paul; Sambanis, Nicholas biên tập (2005). Understanding Civil War:Evidence and Analysis. 1: Africa. Washington, DC: The World Bank. ISBN 978-0-8213-6047-7. 
+Collier, Paul; Sambanis, Nicholas biên tập (2005). Understanding Civil War:Evidence and Analysis. 2: Europe, Central Asia, and Other Regions. Washington, DC: The World Bank. ISBN 978-0-8213-6049-1. 
+Stathis Kalyvas, "'New' and 'Old' Civil Wars: A Valid Distinction?" World Politics 54, no. 1 (2001): 99-118.
+David Lake and Donald Rothchild, eds. The International Spread of Ethnic Conflict: Fear, Diffusion, and Escalation (Princeton University Press, 1996).
+Roy Licklider, "The Consequences of Negotiated Settlements in Civil Wars, 1945--1993," American Political Science Review 89, no. 3 (summer 1995): pp 681–690.
+Andrew Mack, "Civil War: Academic Research and the Policy Community," Journal of Peace Research 39, no. 5 (2002): các trang 515–525.
+David T. Mason and Patrick 3. Fett, "How Civil Wars End: A Rational Choice Approach," Journal of Conflict Resolution 40, no. 4 (fall 1996): 546-568.
+Patrick M. Regan. Civil Wars and Foreign Powers: Outside Intervention in Intrastate Conflict (2000) 172 pages
+Stephen John and others., eds. Ending Civil Wars: The Implementation of Peace Agreements (2002), 729 pages
+Monica Duffy Toft, The Geography of Ethnic Violence: Identity, Interests, and the Indivisibility of Territory (Princeton NJ: Princeton University Press, 2003). ISBN 0-691-12383-7.
+Barbara F. Walter, Committing to Peace: The Successful Settlement of Civil Wars (Princeton University Press, 2002),
+Elisabeth Jean Wood; "Civil Wars: What We Don't Know," Global Governance, Vol.ngày 1 tháng 9 năm 2003 pp 247+ online version

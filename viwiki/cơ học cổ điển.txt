@@ -1,0 +1,41 @@
+Cơ học là ngành khoa học nghiên cứu chuyển động của vật chất trong không gian và tương tác giữa chúng.
+Thông thường khi nói đến cơ học người ta hiểu ngầm là cơ học cổ điển, dựa trên cơ sở của các định luật Newton. Cơ học cổ điển nghiên cứu chuyển động của các vật vi mô có vận tốc nhỏ hơn rất nhiều so với vận tốc của ánh sáng, được xây dựng bởi các nhà vật lý như Galileo Galilei, Isaac Newton và các nhà toán học sau này như William Rowan Hamilton, Joseph Louis Lagrange... Chuyển động của các vật thể (các hạt) có vận tốc gần bằng vận tốc ánh sáng được nghiên cứu trong cơ học tương đối, còn chuyển động của các vi hạt được nghiên cứu trong cơ học lượng tử
+Cơ học cổ điển là cơ sở cho sự phát triển các ngành khoa học kỹ thuật và công nghệ như:chế tạo máy, xây dựng,...
+
+
+== Lịch sử ==
+Những viên gạch đầu tiên của bộ môn cơ học dường như được xây nền từ thời Hy Lạp cổ đại. Những kết quả nghiên cứu đầu tiên được ngày nay biết đến là của Archimedes (287-212 TCN). Chúng bao gồm định lý mang tên ông trong thuỷ tĩnh học, khái niệm về khối tâm và nghiên cứu cân bằng của đòn bẩy.
+
+Cơ học chỉ được đánh thức vào thời kỳ Phục Hưng ở châu Âu với những tiến bộ vượt bậc vào thế kỉ 16. Trong suốt đêm trường thời Trung Cổ, những lý thuyết ngụy biện của Aristote (384-322 TCN) đã ngăn trở rất nhiều sự đi lên của khoa học đích thực. Vào thời này, chúng ta phải kể đến Leonardo da Vinci (1452-1519) với những nghiên cứu về tĩnh học. Tuy nhiên những tên tuổi lớn nhất của giai đoạn huy hoàng này chính là nhà khoa học người Ba Lan Nicolai Copernic (1473-1543) - người đã phủ nhận mô hình với Trái Đất là trung tâm vũ trụ của Ptolémée (xem thuyết địa tâm) và mô tả những chuyển động đúng đắn của hệ mặt trời, là nhà thiên văn học người Đức Johannes Kepler (1571-1630) - người đã phát biểu ba định luật mang tên ông về sự chuyển động của các hành tinh, là nhà bác học thiên tài người Ý Galileo Galilei (1564-1642). Có thể nói Galileo là ông tổ khai sáng ra động lực học: ông đã đưa ra khái niệm gia tốc, phát biểu vào năm 1632 nguyên lý tương đối Galileo và nguyên lý quán tính. Ông cũng đã nghiên cứu đến rất nhiều những vấn đề khác nhau của cơ học: con lắc, mặt phẳng nghiêng, sự rơi tự do.
+
+Kế tiếp sau đó, sang thế kỉ 17, nhà khoa học người Pháp Blaise Pascal (1623-1662) đã có những nghiên cứu quan trọng về thủy tĩnh học. Nhà vật lý người Hà Lan Christiaan Huygens (1629-1695) đã phân tích chuyển động quay, đặc biệt là những dao động của con lắc và đưa ra khái niệm về động năng cũng như về lực hướng tâm. Đặc biệt, nhà bác học người Anh Isaac Newton (1642-1727) đã xuất bản cuốn sách Philosphiae naturalis principia mathematica (Những nguyên lý toán học của triết học tự nhiên) trong đó có nêu lên ba định luật mang tên ông, tạo nên nền tảng của cơ học cổ điển. Chúng ta cũng biết đến Newton với định luật vạn vật hấp dẫn của vũ trụ.
+Thế kỉ 18 được xem như là thế kỉ của cơ học giải tích. Nhà bác học người Thụy Sĩ Leonhard Euler (1707-1783) đã phát biểu những phương trình về cơ học chất lưu. Ông cũng tham gia vào việc xây dựng nên ngành cơ học giải tích cùng với Louis Joseph Lagrange (1736-1813) và Jean Le Rond d'Alembert (1717-1783).
+
+Tiếp theo đó, sự phát triển của cơ học cổ điển đã đạt tới giới hạn với những ứng dụng tuyệt vời. Ví dụ như Pierre-Simon Laplace (1749-1827) đã cải thiện sự chính sáng về sự ra đời của chuyển động các hành tinh nhờ vào phương pháp nhiễu loạn. Urbain Le Verrier (1811-1877) đã tiên đoán trước sự tồn tại của Sao Hải Vương bằng chính phương pháp này. Ngoài ra, ông cũng đã khám phá ra sự gần lại của cận điểm của Sao Thủy. Tuy nhiên chính kết quả này lại đánh dấu một trong những giới hạn của cơ học Newton: kết quả này chỉ có thể được giải thích dựa vào cơ học tương đối. William Rowan Hamilton (1805-1865) đã đề xuất ra phép khai triển chính được biết đến với tên phương trình Hamilton. Chúng ta cũng có thể kể đến Henri Poincaré (1854-1912) với những đóng góp trong cơ học tính toán.
+Cuối cùng có rất nhiều sự mở rộng của cơ học cổ điển trong lĩnh vực về các môi trường liên tục (thuỷ động lực học hoặc môi trường chịu biến dạng).
+Chúng ta cũng không được phép quên rằng mặc dù ngày nay đã có rất nhiều những phát minh và khám phá trong cơ học lượng tử và cơ học tương đối ở thế kỉ 20 nhưng những nghiên cứu về hệ hỗn độn trong những năm 1970, về những áp dụng của cơ học cổ điển vẫn là một phần to lớn trong lâu đài vật lý học. Mặt khác, vẫn còn đó nguyên vẹn rất nhiều vấn đề chưa được giải quyết trong cơ học cổ điển, đặc biệt là những vấn đề liên quan đến dao động kép.
+xem Lịch sử cơ học
+
+
+== Đối tượng nghiên cứu ==
+Người ta phân biệt các phần khác nhau trong cơ học cổ điển:
+Chuyển động học
+tiếng Anh: kinematics, tiếng Pháp: cinématique, bắt nguồn từ chữ Hy Lạp κινημα (hay kinema) có nghĩa là chuyển động. Đây là những nghiên cứu mô tả chuyển động nhưng không quan tâm đến nguyên nhân gây ra chuyển động.
+Động lực học
+tiếng Anh: dynamics, tiếng Pháp: dynamique, bắt nguồn từ chữ Hy Lạp δύναμη (hay dyname) có nghĩa là lực. Đây là những nghiên cứu nhằm thiết lập mối liên hệ giữa chuyển động và những nguyên nhân gây ra nó.
+Cũng có thể chia cơ học thành hai nhánh:
+Động học
+tiếng Anh: kinetics, hay là nghiên cứu mô tả những hệ vật chất đang trong quá trình chuyển động: đây được xem là thuỷ tổ của hầu như mọi lĩnh vực khác nhau của cơ học. Ở đây, người ta thường xuyên phải định nghĩa những đại lượng cho phép mô tả chuyển động như là động lượng, mômen động lượng...
+Tĩnh học
+tiếng Anh: statics, hay là nghiên cứu sự cân bằng của các hệ vật chất: nhánh này đã được ngầm bao hàm trong bộ môn phân tích động lực học khi xem rằng vận tốc và gia tốc của mọi thành phần động lực học đều bằng 0.
+
+
+== Tham khảo ==
+
+Cơ sở vật lý phần Cơ học, của Halliday, Walker và Resnick, dịch sang tiếng Việt bởi Ngô Quốc Quýnh, Nhà xuất bản Giáo dục, 1998.
+
+
+== Liên kết ngoài ==
+Viện Cơ học Việt Nam
+Viện Cơ học Ứng dụng Việt Nam
+Nhóm Cơ điện tử (thuộc Viện Cơ học)

@@ -1,0 +1,55 @@
+ISBN là chữ viết tắt của International Standard Book Number (Mã số tiêu chuẩn quốc tế cho sách), nó là mã số tiêu chuẩn quốc tế có tính chất thương mại duy nhất để xác định một quyển sách. Hệ thống ISBN được tạo ở Anh năm 1966 bởi các nhà phân phối sách và văn phòng phẩm W H Smith cùng bạn bè, ban đầu được gọi là Standard Book Numbering (mã số tiêu chuẩn cho sách) hay SBN. Sau đó được công nhận quốc theo tiêu chuẩn ISO 2108 năm 1970. Một dạng định dạng tương tự, International Standard Serial Number (mã số tiêu chuẩn quốc tế cho tạp chí) hay ISSN, được dùng cho các ấn phẩm định kỳ như tạp chí.
+
+
+== Tổng quát ==
+
+Mỗi bản sao và mỗi thay đổi (trừ khi in lại) của một quyển sách sẽ có số ISBN riêng. Số đó có thể có 10 số tự (kiểu cũ) hoặc 13 số tự (kiểu mới, áp dụng với mã vạch), gồm 4 hay 5 phần.
+Nếu là số ISBN với 13 số tự thì nó có tiền tố EAN là 978 hay 979. Xem thêm EAN-13. Nếu là số ISBN với 10 số tự thì chỉ cần gán cụm chữ "ISBN", hoặc tại các nước không sử dụng các ký tự Latinh thì có thể dùng các ký tự viết tắt bằng tiếng địa phương thay thế,
+Mã nước hay mã ngôn ngữ,
+Số của nhà phát hành,
+Số của cuốn sách,
+Số kiểm tra.
+Các phần khác nhau có độ dài khác nhau và thường nối với nhau bằng các gạch ngang. Gạch ngang không nhất thiết phải có, tuy nhiên, vì mã đầu cần dùng để chắc chắn không có 2 số bắt đầu bằng cùng một kiểu. Nếu hiện diện, gạch ngang phải đặt đúng (quy tắc có ở đây. Tuy nhiên chúng không đủ vì các cơ quan có thẩm quyền khác nhau chịu trách nhiệm cấp và thực hiện các khoảng số ISBN khác nhau. Ngay tại trang của isbn.org cũng không có một danh sách được cập nhật mới nhất.
+Mã nước (hay mã ngôn ngữ) 0 và 1 được dùng cho các nước dùng tiếng Anh; 2 cho các nước dùng tiếng Pháp; 3 cho tiếng Đức v.v. (Số SBN ban đầu thiếu mã nước, nhưng tiền tố 0 đến 9 tạo nên số ISBN hoàn chỉnh). Mã nước có thể tới 5 chữ số, ví dụ 99936 cho Bhutan. Xem danh sách hoàn chỉnh.
+Số của nhà xuất bản được đặt theo cơ quan ISBN của nước đó và số thứ tự được chọn bởi nhà phát hành sách. Không nhất thiết là các sản phẩm của nhà xuất bản phải có số ISBN, nhưng có ngoại lệ đối với Trung Quốc. Tuy nhiên có nhiều nhà sách chỉ phân phối các sản phẩm mang số ISBN.
+Nhà phát hành nhận một cụm số ISBN cho các sản phẩm nhưng khi dùng hết thì được nhận thêm các số ISBN khác, vì thế một nhà phát hành có thể có nhiều số ISBN.
+Tổ chức ISBN quốc tế [1] trong hướng dẫn chính thức của mình [2] thông báo rằng số tự thứ 10 của chuỗi số ISBN là số kiểm tra, nó là số tự cuối cùng của chuỗi số ISBN với 10 số tự, được tính toán theo phép chia cho 11 với các trọng số từ 10 đến 2, sử dụng X thay cho 10 trong trường hợp 10 là số kiểm tra. Điều này có nghĩa là mỗi số trong 9 số đầu tiên của chuỗi ISBN với 10 số tự – ngoại trừ số kiểm tra – được nhân lên theo các số theo trật tự từ 10 đến 2 và lấy tổng của các phép nhân này, cộng thêm với số kiểm tra, phải chia hết cho 11.
+Ví dụ, tính số kiểm tra cho chuỗi số ISBN 10 số mà 9 chữ số đầu tiên là 0-306-40615 được thực hiện như sau:
+
+10×0 + 9×3 + 8×0 + 7×6 + 6×4 + 5×0 + 4×6 + 3×1 + 2×5
+= 0 + 27 + 0 + 42 + 24 + 0 + 24 + 3 + 10
+= 130
+
+Số nhỏ nhất cần thêm vào để có thể chia hết cho 11 là 2, do 132/11 = 12 và không có dư.
+
+Vì thế số kiểm tra là 2, và chuối số hoàn chỉnh là ISBN 0-306-40615-2.
+Phương pháp thứ hai để tìm số kiểm tra được thực hiện như sau, lấy mỗi số trong 9 số đầu nhân với số chỉ vị trí của nó (từ 1 đến 9). Lấy tổng của các phép nhân và tính số dư trong phép chia cho 11, nếu là "10" thì thay bằng ký tự "X". Ví dụ, để tìm số kiểm tra cho số ISBN 10 số có 9 chữ số đầu tiên là 0-306-40615:
+
+1×0 + 2×3 + 3×0 + 4×6 + 5×4 + 6×0 + 7×6 + 8×1 + 9×5
+= 0 + 6 + 0 + 24 + 20 + 0 + 42 + 8 + 45
+= 145
+= 13×11 + 2
+
+Vì thế số kiểm tra bằng 2, và chuỗi số hoàn chỉnh là ISBN 0-306-40615-2.
+Do 11 là số nguyên tố, mô hình này đảm bảo là các sai sót duy nhất (trong dạng của số bị biến đổi hay các số bị đảo chỗ) có thể được phát hiện ra.
+
+
+== Sử dụng định dạng EAN trong các mã vạch và kế hoạch nâng cấp ==
+Hiện nay, các mã vạch được tìm thấy trên bìa sau của sách (hoặc bên trong trên trang bìa đầu tiên của các ấn phẩm khác) là EAN-13; chúng cũng có thể là "Bookland"— điều đó có nghĩa là, với mã vạch riêng biệt thì người ta mã hóa 5 số cho loại hình tiền tệ và giá bán lẻ được đề nghị. Mô tả chi tiết về định dạng EAN-13 có ở đây hoặc xem EAN-13. "978", mã sử dụng cho các loại sách, được dành cho ISBN trong các dữ liệu về mã vạch, và số kiểm tra được tính toán lại theo công thức của EAN-13 (chia cho 10, các trọng số là 1 và 3 cho các số khác nhau).
+Vì sự thiếu hụt trong các thể loại ISBN nào đó, ISO đã yêu cầu chuyển đổi sang hệ thống ISBN với 13 số tự, bắt đầu từ ngày 1 tháng 1 năm 2005 và công việc này cần kết thúc vào ngày 1 tháng 1 năm 2007. Việc dịch chuyển này cũng làm cho hệ thống ISBN phù hợp với hệ thống mã vạch UPC. Ở đây là tài liệu về các câu hỏi thường gặp về thay đổi này. Hệ thống ISBN đang có sẽ được gắn tiền tố "978" (và số kiểm tra phải tính lại); khi các ISBN với "978" bị hết thì sử dụng tiền tố "979". Điều này hiện đang diễn ra nhanh chóng ngoài nước Mỹ. Lưu ý rằng các mã xác định nhà xuất bản là không chắc chắn sẽ giống như là các mã trong các ISBN 978 và 979.
+Cho đến khi các ISBN với 13 số tự mới sẽ được đồng nhất theo định dạng mã vạch của EAN cho bất kỳ một ISBN với 10 số tự nào thì quá trình này sẽ không phá vỡ tính tương thích với bất kỳ một hệ thống mã vạch nào hiện đang tồn tại. Điều này có nghĩa là nó sẽ cho phép các nhà bán sách sử dụng một hệ thống đánh số duy nhất cho cả sách lẫn các sản phẩm không phải là sách mà không phá hỏng sự tương thích với các thông tin dựa trên ISBN cũ, với một chi phí tối thiểu cho các hệ thống công nghệ thông tin của họ. Vì lý do này, nhiều nhà bán sách, như Barnes & Noble, đã chọn lựa việc bắt đầu loại bỏ việc sử dụng ISBN cũ để chuyển sang sử dụng các mã EAN từ tháng 3 năm 2005.
+
+
+== ISBN và kiểm duyệt sách tại Trung Quốc ==
+ISBN được sử dụng như là phương tiện kiểm duyệt sách tại Trung Quốc. Để có thể in ấn hợp pháp sách thì chúng phải có số ISBN, nó được trao theo từng khối các số cho các nhà in quốc doanh. Tuy nhiên, kể từ những năm 1990, phương thức kiểm duyệt này trở nên ít hiệu quả hơn do các nhà in quốc doanh, giống như các xí nghiệp quốc doanh khác, đã không còn nhận được sự trợ cấp của nhà nước, sẽ bán các số ISBN cho những người trả giá cao nhất mà không cần quan tâm đến nội dung của sách được in ra.
+
+
+== Xem thêm ==
+ASIN (Tiêu chuẩn số định danh Amazon)
+ISMN (Tiêu chuẩn số âm nhạc quốc tế)
+ISAN (Tiêu chuẩn số nghe nhìn quốc tế)
+ISSN (Tiêu chuẩn số tạp chí quốc tế)
+LCCN (Số kiểm soát của Thư viện Quốc hội Mỹ)
+
+
+== Tham khảo ==

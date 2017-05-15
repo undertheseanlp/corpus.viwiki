@@ -1,0 +1,43 @@
+Thời gian Phối hợp Quốc tế hay UTC, thường gọi là Giờ Phối hợp Quốc tế, là một chuẩn quốc tế về ngày giờ thực hiện bằng phương pháp nguyên tử. "UTC" không hẳn là một từ viết tắt, mà là từ thỏa hiệp giữa viết tắt tiếng Anh "CUT" (Coordinated Universal Time) và viết tắt tiếng Pháp "TUC" (temps universel coordonné). Nó được dựa trên chuẩn cũ là giờ trung bình Greenwich (GMT, tiếng Anh: Greenwich Mean Time) do hải quân Anh đặt ra vào thế kỷ thứ 19, sau đó được đổi tên thành giờ quốc tế (UT, tiếng Anh: Universal Time). Múi giờ trên thế giới được tính bằng độ lệch âm hay dương so với giờ quốc tế.
+Giờ quốc tế có vấn đề là vì nó định nghĩa một ngày là thời gian Trái Đất quay quanh trục của chính nó, tuy nhiên, tốc độ này không cố định, độ dài ngày theo UT không phải lúc nào cũng như nhau.
+Để giải quyết vấn đề này, vào giữa những năm 1980 người ta chuyển sang dùng UTC là chuẩn dùng giờ nguyên tử quốc tế (TAI), được Văn phòng Cân đo Quốc tế (tiếng Pháp: Bureau International des Poids et Mesures, BIPM) đặt ở Pavillon de Breteuil (thuộc vùng Sèvres ở Pháp) định nghĩa dựa trên hàng trăm đồng hồ nguyên tử xezi trên khắp thế giới.
+
+
+== Chi tiết ==
+UTC khác với giờ nguyên tử một số giây nguyên và với giờ quốc tế UT1 một số giây lẻ.
+UTC thực ra là một hệ đo lường thời gian lai tạp: tốc độ của UTC được tính dựa trên chuẩn tần số nguyên tử nhưng thời điểm của UTC được đồng bộ hóa cho gần với UT thiên văn. Khi hệ các đơn vị SI công nhận giây nguyên tử, tốc độ của giây nguyên tử thường nhanh hơn tốc độ trung bình của UT trong nửa sau của thế kỷ 20. Vì lý do này, UT chậm lại so với giờ nguyên tử đo bằng các đồng hồ nguyên tử. UTC được giữ trong khoảng 0.9 giây với giờ quốc tế UT1; một vài giây nhuận được thêm (trên lý thuyết là được trừ đi) vào cuối tháng UTC khi cần thiết. Kể ra—lần chỉnh đầu tiên vào năm 1972—tất cả những điều chỉnh như vậy đều là cộng thêm và áp dụng cho các ngày 30 tháng sáu hoặc 31 tháng mười hai, trong đó giây nhuận cộng thêm được viết là T23:59:60. Việc thông báo về những giây nhuận được Dịch vụ Hệ thống Vòng quay Trái Đất và Đối chiếu Quốc tế đảm nhận, dựa trên các dự báo thiên văn chính xác của vòng quay Trái Đất.
+Đôi khi có giây 60 và đôi khi không có giây 59.
+Hè năm 2004, độ lệch giữa giờ UTC và TAI là 32 giây (độ chậm hạng nhất).
+Giờ UTC được viết bằng bốn chữ số sau:
+Hai số chỉ giờ từ 00 đến 23
+Hai số chỉ phút từ 00 đến 59
+Không có dấu giữa các số này. Ví dụ, 3 giờ 7 phút chiều được viết là: 1507.
+Để dùng trong luật lệ-thương mại và cuộc sống ngày, phần lẻ khác biệt giữa UTC và UT (hay, GMT) là cực nhỏ không tính nên theo thông tục UTC đôi khi được gọi là GMT, mặc dù điều này là hoàn toàn sai về mặt kỹ thuật.
+
+UTC là hệ thống thời gian dùng trong nhiều chuẩn Internet và World Wide Web. Đặc biệt, giao thức giờ trên mạng – NTP được thiết kế để phân phối tự động giờ trên mạng Internet.
+Ngoài ra, có một số loại đồng hồ UTC thực hiện bằng phần mềm.
+Múi giờ UT đôi khi được ký hiệu bằng chữ Z vì múi giờ hàng hải quốc tế tương đương (GMT) đã được ký hiệu bằng chữ Z kể từ năm 1950, chữ này để miêu tả không giờ kể từ năm 1920. Xem Múi giờ#Lịch sử. Bảng chữ cái phiên âm của NATO và hội vô tuyến điện nghiệp dư từng gọi Z là "Zulu", nên UT đôi khi được gọi là giờ Zulu.
+Chuẩn ISO 860 đã sử dụng khái niệm UTC này.
+
+
+== Xem thêm ==
+Múi giờ
+Giờ Trái Đất
+Giờ Quốc tế
+Giờ Thiên văn
+Giờ nguyên tử quốc tế
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Máy chủ giờ UTC/TAI của BIPM
+thetimeNOW - Giờ hiện tại trên tất cả các múi giờ
+Giờ chuẩn của Mỹ
+Đài thiên văn hải quân Mỹ - Giờ quốc tế là gì?
+Những cập nhật giây nhuận của Dịch vụ Vòng quay Trái Đất Quốc tế
+Tự làm lấy đồng hồ phần cứng hiển thị giờ UTC /giờ địa phương
+Đặc tả W3C về ngày giờ UTC và chuẩn Internet IETF RFC 3339
+Giờ Zulu
+Giờ Hồng Kông theo Đài thiên văn Hồng Kông

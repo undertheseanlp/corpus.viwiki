@@ -1,0 +1,142 @@
+Isaac Newton Jr. là một nhà vật lý, nhà thiên văn học, nhà triết học, nhà toán học, nhà thần học và nhà giả kim thuật người Anh, được nhiều người cho rằng là nhà khoa học vĩ đại và có tầm ảnh hưởng lớn nhất. Theo lịch Julius, ông sinh ngày 25 tháng 12 năm 1642 và mất ngày 20 tháng 3 năm 1727; theo lịch Gregory, ông sinh ngày 4 tháng 1 năm 1643 và mất ngày 31 tháng 3 năm 1727.
+Luận thuyết của ông về Philosophiae Naturalis Principia Mathematica (Các Nguyên lý Toán học của Triết học Tự nhiên) xuất bản năm 1687, đã mô tả về vạn vật hấp dẫn và 3 định luật Newton, được coi là nền tảng của cơ học cổ điển, đã thống trị các quan niệm về vật lý, khoa học trong suốt 3 thế kỷ tiếp theo. ông cho rằng sự chuyển động của các vật thể trên mặt đất và các vật thể trong bầu trời bị chi phối bởi các định luật tự nhiên giống nhau; bằng cách chỉ ra sự thống nhất giữa Định luật Kepler về sự chuyển động của hành tinh và lý thuyết của ông về trọng lực, ông đã loại bỏ hoàn toàn Thuyết nhật tâm và theo đuổi cách mạng khoa học.
+Trong cơ học, Newton đưa ra nguyên lý bảo toàn động lượng (bảo toàn quán tính). Trong quang học, ông khám phá ra sự tán sắc ánh sáng, giải thích việc ánh sáng trắng qua lăng kính trở thành nhiều màu.
+Trong toán học, Newton cùng với Gottfried Leibniz phát triển phép tính vi phân và tích phân. Ông cũng đưa ra nhị thức Newton tổng quát.
+Năm 2005, trong một cuộc thăm dò ý kiến của Hội Hoàng gia về nhân vật có ảnh hưởng lớn nhất trong lịch sử khoa học, Newton vẫn là người được cho rằng có nhiều ảnh hưởng hơn Albert Einstein.
+
+
+== Sự nghiệp ==
+Isaac Newton sinh ra trong một gia đình nông dân. Khi ông ở quãng tuổi từ khoảng 12 đến 17, ông học tại King's School, Grantham, nơi mà ông chỉ học tiếng Latinh và không có Toán. Sau đó, ông rời khỏi trường và đến tháng 10 năm 1659, ông có mặt tại Woolsthorpe-by-Colsterworth, nơi mà mẹ ông, lần thứ hai góa bụa, đang cố gắng khiến ông trở thành một nông dân. Nhưng Newton lại ghét việc đồng áng. Henry Stocks, thày của ông tại King's School, đã thuyết phục mẹ ông cho ông quay trở lại trường học để ông có thể tiếp tục việc học của mình.
+Vào tháng 6 năm 1661, Newton được gửi tới Đại học Cambridge để trở thành luật sư. Tại Cambridge, Newton bị ấn tượng mạnh từ trường phái Euclid, tuy rằng tư duy của ông cũng bị ảnh hưởng bởi trường phái của Roger Bacon và René Descartes. Một đợt dịch bệnh đã khiến trường Cambridge đóng cửa và trong thời gian ở nhà, Newton đã có những phát kiến khoa học quan trọng, dù chúng không được công bố ngay.
+Những người có ảnh hưởng đến việc công bố các công trình của Newton là Robert Hooke và Edmond Halley. Sau một cuộc tranh luận về chủ đề quỹ đạo của một hạt khi bay từ vũ trụ vào Trái Đất với Hooke, Newton đã bị cuốn hút vào việc sử dụng định luật vạn vật hấp dẫn và cơ học của ông trong tính toán quỹ đạo Johannes Kepler. Những kết quả này hấp dẫn Halley và ông đã thuyết phục được Newton xuất bản chúng. Từ tháng 8 năm 1684 đến mùa xuân năm 1688, Newton hoàn thành tác phẩm, mà sau này trở thành một trong những công trình nền tảng quan trọng nhất cho vật lý của mọi thời đại, cuốn Philosophiae Naturalis Principia Mathematica.
+Trong quyển I của tác phẩm này, Newton giới thiệu các định nghĩa và ba định luật của chuyển động thường được biết với tên gọi sau này là Định luật Newton. Quyển II trình bày các phương pháp luận khoa học mới của Newton thay thế cho triết lý Descartes. Quyển cuối cùng là các ứng dụng của lý thuyết động lực học của ông, trong đó có sự giải thích về thủy triều và lý thuyết về sự chuyển động của Mặt Trăng. Để kiểm chứng lý thuyết về vạn vật hấp dẫn của ông, Newton đã hỏi nhà thiên văn John Flamsteed kiểm tra xem Sao Thổ có chuyển động chậm lại mỗi lần đi gần Sao Mộc không. Flamsteed đã rất sửng sốt nhận ra hiệu ứng này có thật và đo đạc phù hợp với các tính toán của Newton. Các phương trình của Newton được củng cố thêm bằng kết quả quan sát về hình dạng bẹt của Trái Đất tại hai cực, thay vì lồi ra tại hai cực như đã tiên đoán bởi trường phái Descartes. Phương trình của Newton cũng miêu tả được gần đúng chuyển động Mặt Trăng, và tiên đoán chính xác thời điểm quay lại của sao chổi Halley. Trong các tính toán về hình dạng của một vật ít gây lực cản nhất khi nằm trong dòng chảy của chất lỏng hay chất khí, Newton cũng đã viết ra và giải được bài toán giải tích biến phân đầu tiên của thế giới.
+Newton sáng tạo ra một phương pháp khoa học rất tổng quát. Ông trình bày phương pháp luận của ông thành bốn quy tắc của lý luận khoa học. Các quy tắc này được phát biểu trong quyển Philosophiae Naturalis Principia Mathematica như sau:
+Các hiện tượng tự nhiên phải được giải thích bằng một hệ tối giản các quy luật đúng, vừa đủ và chặt chẽ.
+Các hiện tượng tự nhiên giống nhau phải có cùng nguyên nhân như nhau.
+Các tính chất của vật chất là như nhau trong toàn vũ trụ.
+Một nhận định rút ra từ quan sát tự nhiên chỉ được coi là đúng cho đến khi có một thực nghiệm khác mâu thuẫn với nó.
+Bốn quy tắc súc tích và tổng quát cho nghiên cứu khoa học này đã là một cuộc cách mạng về tư duy thực sự vào thời điểm bấy giờ. Thực hiện các quy tắc này, Newton đã hình thành được các định luật tổng quát của tự nhiên và giải thích được gần như tất cả các bài toán khoa học vào thời của ông. Newton còn đi xa hơn việc chỉ đưa ra các quy tắc cho lý luận, ông đã miêu tả cách áp dụng chúng trong việc giải quyết một bài toán cụ thể. Phương pháp giải tích mà ông sáng tạo vượt trội các phương pháp mang tính triết lý hơn là tính chính xác khoa học của Aristoteles và Thomas Aquinas. Newton đã hoàn thiện phương pháp thực nghiệm của Galileo Galilei, tạo ra phương pháp tổng hợp vẫn còn được sử dụng cho đến ngày nay trong khoa học. Những câu chữ sau đây trong quyển Opticks (Quang học) của ông có thể dễ dàng bị nhầm lẫn với trình bày hiện đại của phương pháp nghiên cứu thời nay, nếu Newton dùng từ "khoa học" thay cho "triết lý về tự nhiên":
+Cũng như trong toán học, trong triết lý về tự nhiên, việc nghiên cứu các vấn đề hóc búa cần thực hiện bằng phương pháp phân tích và tổng hợp. Nó bao gồm làm thí nghiệm, quan sát, đưa ra những kết luận tổng quát, từ đó suy diễn. Phương pháp này sẽ giúp ta đi từ các hợp chất phức tạp đến nguyên tố, đi từ chuyển động đến các lực tạo ra nó; và tổng quát là từ các hiện tượng đến nguyên nhân, từ nguyên nhân riêng lẻ đến nguyên nhân tổng quát, cho đến khi lý luận dừng lại ở mức tổng quát nhất. Tổng hợp lại các nguyên nhân chúng ta đã khám phá ra thành các nguyên lý, chúng ta có thể sử dụng chúng để giải thích các hiện tượng hệ quả.
+Newton đã xây dựng lý thuyết cơ học và quang học cổ điển và sáng tạo ra giải tích nhiều năm trước Gottfried Leibniz. Tuy nhiên ông đã không công bố công trình về giải tích trước Leibniz. Điều này đã gây nên một cuộc tranh cãi giữa Anh và lục địa châu Âu suốt nhiều thập kỷ về việc ai đã sáng tạo ra giải tích trước. Newton đã phát hiện ra định lý nhị thức đúng cho các tích của phân số, nhưng ông đã để cho John Wallis công bố. Newton đã tìm ra một công thức cho vận tốc âm thanh, nhưng không phù hợp với kết quả thí nghiệm của ông. Lý do cho sự sai lệch này nằm ở sự giãn nở đoạn nhiệt, một khái niệm chưa được biết đến thời bấy giờ. Kết quả của Newton thấp hơn γ½ lần thực tế, với γ là tỷ lệ các nhiệt dung của không khí.
+Theo quyển Opticks, mà Newton đã chần chừ trong việc xuất bản mãi cho đến khi Hooke mất, Newton đã quan sát thấy ánh sáng trắng bị chia thành phổ nhiều màu sắc, khi đi qua lăng kính (thuỷ tinh của lăng kính có chiết suất thay đổi tùy màu). Quan điểm hạt về ánh sáng của Newton đã xuất phát từ các thí nghiệm mà ông đã làm với lăng kính ở Cambridge. Ông thấy các ảnh sau lăng kính có hình bầu dục chứ không tròn như lý thuyết ánh sáng thời bấy giờ tiên đoán. Ông cũng đã lần đầu tiên quan sát thấy các vòng giao thoa mà ngày nay gọi là vòng Newton, một bằng chứng của tính chất sóng của ánh sáng mà Newton đã không công nhận. Newton đã cho rằng ánh sáng đi nhanh hơn trong thuỷ tinh, một kết luận trái với lý thuyết sóng ánh sáng của Christiaan Huygens.
+Newton cũng xây dựng một hệ thống hoá học trong mục 31 cuối quyển Opticks. Đây cũng là lý thuyết hạt, các "nguyên tố" được coi như các sự sắp xếp khác nhau của những nguyên tử nhỏ và cứng như các quả bi-a. Ông giải thích phản ứng hoá học dựa vào ái lực giữa các thành phần tham gia phản ứng. Cuối đời (sau 1678) ông thực hiện rất nhiều các thí nghiệm hoá học vô cơ mà không ra kết quả gì.
+Newton rất nhạy cảm với các phản bác đối với các lý thuyết của ông, thậm chí đến mức không xuất bản các công trình cho đến tận sau khi người hay phản bác ông nhất là Hooke mất. Quyển Philosophiae Naturalis Principia Mathematica phải chờ sự thuyết phục của Halley mới ra đời. Ông tỏ ra ngày càng lập dị vào cuối đời khi thực hiện các phản ứng hoá học và cùng lúc xác định ngày tháng cho các sự kiện trong Kinh Thánh. Sau khi Newton qua đời, người ta tìm thấy một lượng lớn thuỷ ngân trong cơ thể của ông, có thể bị nhiễm trong lúc làm thí nghiệm. Điều này hoàn toàn có thể giải thích sự lập dị của Newton.
+Newton đã một mình đóng góp cho khoa học nhiều hơn bất cứ một nhân vật nào trong lịch sử của loài người. Ông đã vượt trên tất cả những bộ óc khoa học lớn của thế giới cổ đại, tạo nên một miêu tả cho vũ trụ không tự mâu thuẫn, đẹp và phù hợp với trực giác hơn mọi lý thuyết có trước. Newton đưa ra cụ thể các nguyên lý của phương pháp khoa học có thể ứng dụng tổng quát vào mọi lĩnh vực của khoa học. Đây là điều tương phản lớn so với các phương pháp riêng biệt cho mỗi lĩnh vực của Aristoteles và Aquinas trước đó.
+Ngoài việc nghiên cứu khoa học, Newton dùng phần lớn thời gian để nghiên cứu Kinh Thánh, ông tin nhận một Chúa Trời duy nhất là Đấng tạo hóa siêu việt mà người ta không thể phủ nhận sự hiện hữu của ngài khi nhìn ngắm vẻ hùng vĩ của mọi tạo vật. Mặc dù được trưởng dưỡng trong một gia đình Anh giáo nhưng vào độ tuổi ba mươi của mình, niềm tin Kitô giáo của Newton nếu công khai ra sẽ không được coi là chính thống.
+Cũng có các nhà triết học trước như Galileo và John Philoponus sử dụng phương pháp thực nghiệm, nhưng Newton là người đầu tiên định nghĩa cụ thể và hệ thống cách sử dụng phương pháp này. Phương pháp của ông cân bằng giữa lý thuyết và thực nghiệm, giữa toán học và cơ học. Ông toán học hoá mọi khoa học về tự nhiên, đơn giản hoá chúng thành các bước chặt chẽ, tổng quát và hợp lý, tạo nên sự bắt đầu của Kỷ nguyên Suy luận. Những nguyên lý mà Newton đưa ra do đó vẫn giữ nguyên giá trị cho đến thời đại ngày nay. Sau khi ông ra đi, những phương pháp của ông đã mang lại những thành tựu khoa học lớn gấp bội những gì mà ông có thể tưởng tượng lúc sinh thời. Các thành quả này là nền tảng cho nền công nghệ mà chúng ta được hưởng ngày nay.
+Không ngoa dụ chút nào khi nói rằng Newton là danh nhân quan trọng nhất đóng góp cho sự phát triển của khoa học hiện đại. Như nhà thơ Alexander Pope đã viết:
+
+
+== Tiểu sử ==
+
+Isaac Newton sinh ra tại một ngôi nhà ở Woolsthorpe, gần Grantham ở Lincolnshire, Anh, vào ngày 25 tháng 12 năm 1642 (4 tháng 1, 1643 theo lịch mới). Ông chưa một lần nhìn thấy mặt cha, do cha ông, một nông dân cũng tên là Isaac Newton Sr., mất trước khi ông sinh ra không lâu. Sống không hạnh phúc với cha dượng từ nhỏ, Newton bắt đầu những năm học phổ thông trầm uất, xa nhà và bị gián đoạn bởi các biến cố gia đình. May mắn là do không có khả năng điều hành tài chính trong vai anh cả sau khi cha dượng mất, ông tiếp tục được cho học đại học (trường Trinity College Cambridge) sau phổ thông vào năm 1661, sử dụng học bổng của trường với điều kiện phải phục dịch các học sinh đóng học phí.
+Mục tiêu ban đầu của Newton tại Đại học Cambridge là tấm bằng luật sư với chương trình nặng về triết học của Aristotle, nhưng ông nhanh chóng bị cuốn hút bởi toán học của Descartes, thiên văn học của Galileo và cả quang học của Kepler. Ông đã viết trong thời gian này: "Plato là bạn của tôi, Aristotle là bạn của tôi, nhưng sự thật mới là người bạn thân thiết nhất của tôi". Tuy nhiên, đa phần kiến thức toán học cao cấp nhất thời bấy giờ, Newton tiếp cận được là nhờ đọc thêm sách, đặc biệt là từ sau năm 1663, gồm các cuốn Elements của Euclid, Clavis Mathematica của William Oughtred, La Géométrie của Descartes, Geometria a Renato Des Cartes của Frans van Schooten, Algebra của Wallis và các công trình của François Viète.
+Ngay sau khi nhận bằng tốt nghiệp, năm 1630, ông phải trở về nhà 2 năm vì trường đóng cửa do bệnh dịch hạch lan truyền. Hai năm này chứng kiến một loạt các phát triển quan trọng của Newton với phương pháp tính vi phân và tích phân hoàn toàn mới, thống nhất và đơn giản hoá nhiều phương pháp tính khác nhau thời bấy giờ để giải quyết những bài toán có vẻ không liên quan trực tiếp đến nhau như tìm diện tích, tìm tiếp tuyến, độ dài đường cong và cực trị của hàm. Tài năng toán học của ông nhanh chóng được hiệu trưởng của Cambridge nhận ra khi trường mở cửa trở lại. Ông được nhận làm giảng viên của trường năm 1670, sau khi hoàn thành thạc sĩ, và bắt đầu nghiên cứu và giảng về quang học. Ông lần đầu chứng minh ánh sáng trắng thực ra được tạo thành bởi nhiều màu sắc, và đưa ra cải tiến cho kính thiên văn sử dụng gương thay thấu kính để hạn chế sự nhoè ảnh do tán sắc ánh sáng qua thuỷ tinh.
+Newton được bầu vào Hội Khoa học Hoàng gia Anh năm 1672 và bắt đầu vấp phải các phản bác từ Huygens và Hooke về lý thuyết hạt ánh sáng của ông. Lý thuyết về màu sắc ánh sáng của ông cũng bị một tác giả phản bác và cuộc tranh cãi đã dẫn đến suy sụp tinh thần cho Newton vào năm 1678. Năm 1679 Newton và Hooke tham gia vào một cuộc tranh luận mới về quỹ đạo của thiên thể trong trọng trường. Năm 1684, Halley thuyết phục được Newton xuất bản các tính toán sau cuộc tranh luận này trong quyển Philosophiae Naturalis Principia Mathematica. Quyển sách đã mang lại cho Newton tiếng tăm vượt ra ngoài nước Anh, đến châu Âu.
+Năm 1685, chính trị nước Anh thay đổi dưới sự trị vì của James II, và trường Cambridge phải tuân thủ những điều luật phi lý như buộc phải cấp bằng cho giáo chủ không thông qua thi cử. Newton kịch liệt phản đối những can thiệp này và sau khi James bị William III đánh bại, Newton được bầu vào Nghị viện Anh nhờ những đấu tranh chính trị của ông.
+Năm 1693, sau nhiều năm làm thí nghiệm hoá học thất bại và sức khoẻ suy sụp nghiêm trọng, Newton từ bỏ khoa học, rời Cambridge để về nhận chức trong chính quyền tại Luân Đôn. Newton tích cực tham gia hoạt động chính trị và trở nên giàu có nhờ bổng lộc nhà nước. Năm 1703 Newton được bầu làm chủ tịch Hội Khoa học Hoàng gia Anh và giữ chức vụ đó trong suốt phần còn lại của cuộc đời ông. Ông được Nữ hoàng phong bá tước năm 1705. việc ai phát minh ra vi phân và tích phân, Newton và Lepnic không bao giờ tranh luận cả, nhưng các người hâm mộ lại tranh cãi quyết liệt khiến hai nhà khoa học vĩ đại này cảm thấy xấu hổ. Ông mất ngày 31 tháng 3 năm 1727 tại Luân Đôn.
+
+
+== Nghiên cứu khoa học ==
+
+
+=== Quang học ===
+
+Từ năm 1670 đến 1672, Newton diễn thuyết về quang học. Trong khoảng thời gian này ông khám phá ra sự tán sắc ánh sáng, giải thích việc ánh sáng trắng qua lăng kính trở thành nhiều màu, và một thấu kính hay một lăng kính sẽ hội tụ các dãy màu thành ánh sáng trắng.
+Newton còn cho thấy rằng ánh sáng màu không thay đổi tính chất, bằng việc phân tích các tia màu và chiếu vào các vật khác nhau. Newton chú ý rằng dù là gì đi nữa, phản xạ, tán xạ hay truyền qua, màu sắc vẫn giữ nguyên. Vì thế màu mà ta quan sát là kết quả vật tương tác với các ánh sáng đã có sẵn màu sắc, không phải là kết quả của vật tạo ra màu.
+Nhờ vào những khám phá trên, Newton nhận ra nguyên nhân gây ra sự sai lệch màu của hình ảnh trên kính viễn vọng khúc xạ thời đó. Ông đã áp dụng nguyên lý của James Gregory để tạo ra kính viễn vọng phản xạ đầu tiên, khắc phục được nhiều nhược điểm về ảnh của kính viễn vọng khúc xạ đồng thời giảm đi đáng kể chiều dài của kính viễn vọng.
+
+
+== Quả táo Newton ==
+Sau khi Newton công bố định luật vạn vật hấp dẫn, giới khoa học lưu truyền câu chuyện quả táo rơi trúng đầu Newton liệu có mối liên hệ giữa khối lượng và khoảng cách của vật thể trong nhà vật lý vĩ đại này. Thế nhưng, nhiều ý kiến cho rằng đó chỉ là câu chuyện thêu dệt, chỉ là một huyền thoại và rằng ông đã không xây dựng lý thuyết về lực hấp dẫn ở bất cứ thời điểm duy nhất nào.
+Tuy nhiên, với bản thảo viết tay Memoirs of Life Sir Isaac Newton có từ năm 1752, nhà khoa học William Stukeley (một người quen của Newton) kể lại chi tiết về khoảng khắc khi Newton tìm ra thuyết vạn vật hấp dẫn.
+Bài viết của Stukeley kể về những suy nghĩ của Newton về thuyết lực hấp dẫn khi hai người ngồi dưới bóng râm cây táo trong vườn của nhà khoa học, tại Kensington vào ngày 15 tháng 4 năm 1726: 
+Chúng tôi đã đi vào một khu vườn, và uống trà dưới bóng mát của vườn táo; chỉ có ông, và tôi. Ông nói với tôi, chính ở vị trí này, vào thuở trước khái niệm về lực hấp dẫn đã đến trong tâm trí.Thời điểm đó ông đang ngồi chiêm nghiệm và một quả táo rơi xuống. Ông đã nghĩ tại sao quả táo lại rơi thẳng xuống đất?
+Quả táo chín rồi, tại sao lại rơi xuống đất? Tài vì gió thổi chăng? Không phải, khoảng không rộng mênh mông, tại sao lại phải rơi xuống mà không bay lên trời? Như vậy trái đất có cái gì hút nó sao? Mọi vật trên trái đất đều có sức nặng, hòn đã ném đi rốt cuộc lại rơi xuống đất, trọng lượng của mọi vật có phải là kết quả của lực hút trái đất không?
+Tại sao nó không đi ngang, hoặc đi lên ? Nhưng lại liên tục đến trung tâm trái đất ? Chắc chắn, không lý nào khác rằng trái đất đã hút nó. Phải có một sức mạnh hút kéo vật chất & tổng sức mạnh hút kéo trong vấn đề trái đất phải được ở trung tâm đất, không phải trong bất kỳ bên của trái đất do đó đó quả táo này có rơi vuông góc, hay hướng về trung tâm nếu có vấn đề do đó hút lấy vật chất.. nó phải được cân đối với lượng của nó do đó táo rút ra trái đất., cũng như trái đất thu hút sự táo.
+John Conduitt, trợ lý của Newton tại Royal Mint và chồng của cô cháu gái của Newton, cũng mô tả các sự kiện khi ông đã viết về cuộc sống của Newton:
+Vào năm 1666, ông nghỉ hưu từ Cambridge với mẹ ông ở Lincolnshire. Trong khi đang lang thang trầm tư trong vườn, thì đến hiện ý tưởng rằng sức mạnh của lực hấp dẫn (đã mang quả táo từ trên cây rơi xuống đất) không bị giới hạn trong một khoảng cách nhất định từ trái đất, nhưng sức mạnh này phải trải rộng ra xa hơn là thường nghĩ. Tại sao không cao như mặt trăng nói ông đến mình, và nếu như vậy, mà phải ảnh hưởng đến chuyển động của mặt trăng và có lẽ giữ lại trong quỹ đạo của nó, từ đó ông lao vào tính toán những gì sẽ là kết quả của giả đó.
+Trong một việc tương tự, Voltaire đã viết trong cuốn tiểu luận về Epic Thơ (1727), "Sir Isaac Newton đi bộ trong khu vườn của mình, có những suy nghĩ đầu tiên của hệ thống hấp dẫn của ông, khi thấy một quả táo rơi xuống từ một cây."
+Nó được biết đến từ máy tính xách tay của mình mà Newton đã phải vật lộn trong 1660s muộn với ý tưởng rằng lực hấp dẫn kéo dài trên mặt đất, trong một tỷ lệ nghịch vuông, đến mặt trăng; Tuy nhiên ông đã phải mất hai thập kỷ để phát triển các lý thuyết đầy đủ. Câu hỏi đặt ra không phải là liệu trọng lực tồn tại, nhưng liệu nó mở rộng để cách xa Trái đất mà nó còn có thể là lực lượng giữ mặt trăng tới quỹ đạo của nó. Newton đã chỉ ra rằng nếu lực giảm tỉ lệ nghịch với khoảng cách, người ta có thể tính toán chu kỳ quỹ đạo của Mặt trăng, và có được thỏa thuận tốt. Ông đoán cùng một lực lượng chịu trách nhiệm chuyển động quỹ đạo khác, và do đó đặt tên nó là "vạn vật hấp dẫn".
+Sau này Newton nêu ra: Mọi vật trên trái đất đều chịu sức hút của trái đất, mặt trăng cũng chịu sức hút của trái đất, đồng thời trái đất cũng chịu sức hút của mặt trăng; Trái đất chịu sức hút của mặt trời, mặt trời đồng thời cũng chịu sức hút của trái đất. Nói một cách khác là vạn vật trong vũ trụ đều có lực hấp dẫn lẫn nhau, vì có loại lực hấp dẫn này mà mặt trăng mới quay quanh trái đất, trái đất mới quay quanh mặt trời
+
+
+== Tác phẩm ==
+
+
+=== Xuất bản khi sinh thời ===
+De analysi per aequationes numero terminorum infinitas (1669, published 1711)
+Method of Fluxions (1671)
+Of Natures Obvious Laws & Processes in Vegetation (unpublished, c. 1671–75)
+De motu corporum in gyrum (1684)
+Philosophiæ Naturalis Principia Mathematica (1687)
+Opticks (1704)
+Reports as Master of the Mint (1701–25)
+Arithmetica Universalis (1707)
+
+
+=== Xuất bản sau khi qua đời ===
+The System of the World (1728)
+Optical Lectures (1728)
+The Chronology of Ancient Kingdoms Amended (1728)
+De mundi systemate (1728)
+Observations on Daniel and The Apocalypse of St. John (1733)
+Newton, Isaac (1991). Robinson, Arthur B., biên tập. Observations upon the Prophecies of Daniel, and the Apocalypse of St. John. Cave Junction, Oregon: Oregon Institute of Science and Medicine. ISBN 0-942487-02-8.  (A facsimile edition of the 1733 work.)
+An Historical Account of Two Notable Corruptions of Scripture (1754)
+
+
+=== Nguồn sơ cấp ===
+
+
+== Xem thêm ==
+Các định luật mang tên Newton
+Newton (đơn vị)
+
+
+== Chú thích ==
+
+
+== Thư mục tham khảo ==
+
+
+== Đọc thêm ==
+
+Tôn giáo
+
+
+== Liên kết ngoài ==
+Newton qua lời kể của Stephen Hawking (sách "Lược sử thời gian")
+ “Newton, Sir Isaac”. Encyclopædia Britannica (ấn bản 11). 1911. 
+Tiểu sử Newton (University of St Andrews)
+Tiểu sử Newton trên ScienceWorld
+Tiểu sử Newton trên Từ điển khoa học
+Dự án Newton
+Dự án Newton - Canada
+Rebuttal of Newton's astrology
+Newton's Religious Views Reconsidered
+Newton's Royal Mint Reports
+Newton's Dark Secrets NOVA TV programme
+from The Stanford Encyclopedia of Philosophy:
+Isaac Newton, by George Smith
+Newton's Philosophiae Naturalis Principia Mathematica, by George Smith
+Newton's Philosophy, by Andrew Janiak
+Newton's views on space, time, and motion, by Robert Rynasiewicz
+
+Newton's Castle Educational material
+The Chymistry of Isaac Newton Research on his Alchemical writings
+FMA Live! Program for teaching Newton's laws to kids
+Newton's religious position
+The "General Scholium" to Newton's Principia
+Kandaswamy, Anand M. The Newton/Leibniz Conflict in Context
+Newton's First ODE – A study by on how Newton approximated the solutions of a first-order ODE using infinite series
+O'Connor, John J.; Robertson, Edmund F., “Isaac Newton”, Bộ lưu trữ lịch sử toán học MacTutor 
+Isaac Newton tại Mathematics Genealogy Project
+The Mind of Isaac Newton Images, audio, animations and interactive segments
+
+
+=== Do Newton viết ===
+Newton's works - full texts, at the Newton Project
+Các tác phẩm của Isaac Newton tại Dự án Gutenberg
+Newton's Principia – read and search
+Descartes, Space, and Body, an excerpt from De Gravitatione et Aequipondio Fluidorum, with annotations by Jonathan Bennett
+Opticks, or a Treatise of the Reflections, Refractions, Inflexions and Colours of Light, full text on archive.org

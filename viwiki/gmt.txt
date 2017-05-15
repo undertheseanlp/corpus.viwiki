@@ -1,0 +1,23 @@
+Giờ GMT (viết tắt từ tiếng Anh Greenwich Mean Time nghĩa là "Giờ Trung bình tại Greenwich") là giờ Mặt Trời tại Đài thiên văn Hoàng Gia Greenwich tại Greenwich gần Luân Đôn, Anh. Nơi đây được quy ước nằm trên kinh tuyến số 0.
+Trên lý thuyết, vào giữa trưa theo GMT, vị trí của Mặt Trời, quan sát tại Greenwich, nằm ở đường kinh tuyến Greenwich. Thực tế, chuyển động của Trái Đất trên quỹ đạo quanh Mặt Trời không thực sự tròn mà theo hình elíp gần tròn, với tốc độ thay đổi trong năm, dẫn đến chênh lệch giờ Mặt Trời trong một năm lên đến 16 phút (có thể tính được theo phương trình thời gian quỹ đạo). Một cách khắc phục là lấy trung bình quanh năm và giờ GMT là giờ Mặt Trời trung bình của năm.
+Trái Đất tự quay quanh mình cũng không đều, và có xu hướng quay chậm dần vì lực thủy triều của Mặt Trăng. Các đồng hồ nguyên tử cho ta thời gian chính xác hơn sự tự quay của Trái Đất. Ngày 1 tháng 1 năm 1972, một hội nghị quốc tế về thời gian đã thay GMT bằng Giờ Phối hợp Quốc tế (UTC), được giữ bởi nhiều đồng hồ nguyên tử quanh thế giới. UT1 được dùng, thay GMT, để tượng trưng cho "thời gian Trái Đất quay". Giây nhuận được thêm hay bớt vào UTC để giữ nó không khác UT1 nhiều quá 0,9 giây.
+Trong ứng dụng dân dụng, ngay cả Tín hiệu Giờ Greenwich phát từ Vương quốc Anh cũng dùng UTC; tuy nhiên nó vẫn hay bị gọi nhầm là GMT.
+
+
+== Lịch sử ==
+Tín hiệu đồng hồ được gửi từ Đài thiên văn Hoàng gia Greenwich mỗi giờ một lần bắt đầu từ 5 tháng 2 năm 1924.
+Với sự lớn mạnh của ngành hàng hải Anh, những người so sánh giờ Mặt Trời của họ với giờ GMT để suy ra kinh độ, giờ GMT bắt đầu được truyền bá trong hàng hải thế giới. Các múi giờ của hàng hải cũng được hình thành dựa trên số giờ hay số "nửa giờ" sớm hơn hay muộn hơn GMT.
+
+
+== Xem thêm ==
+Múi giờ
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+(bằng tiếng Anh)
+NIST - World Time Scales
+(bằng tiếng Pháp)
+Dịch vụ Thời gian của Đài thiên văn Paris

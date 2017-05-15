@@ -1,0 +1,31 @@
+John Torrence Tate Jr. (sinh ngày 13/3/1925) là một nhà toán học người Mỹ, với những đóng góp nền tảng trong lĩnh vực lý thuyết số đại số và các lĩnh vực liên quan đến hình học đại số. Năm 2010, ông giành giải thưởng Abel, một trong những giải thưởng lớn nhất của ngành toán học. Tate từng được miêu tả là "một trong những nhà toán học có ảnh hưởng cho nửa cuối thế kỉ" bởi nhà toán học William Beckner, trưởng khoa toán của Đại học Texas.
+
+
+== Tiểu sử ==
+John Tate sinh ra tại Minneapolis. Ông nhận bằng cử nhân toán học tại Đại học Harvard, và bằng tiến sĩ tại Đại học Princeton năm 1950 dưới sự hướng dẫn của Emil Artin. Tate dạy toán tại Harvard trong 36 năm trước khi chuyển đến khoa Toán Đại học Texas năm 1990. Ông đã nghỉ hưu năm 2009, và hiện tại ông đang sống ở Cambridge, Massachusetts. John Tate có một vợ, bà Carol và ba con gái.
+
+
+== Nghiên cứu Toán học ==
+
+
+== Các giải thưởng và vinh danh ==
+
+
+== Các bài báo, sách nổi tiếng ==
+Tate, John (1950), Fourier analysis in number fields and Hecke's zeta functions , Princeton University Ph.D. thesis under Emil Artin. Reprinted in Cassels, J. W. S.; Fröhlich, Albrecht biên tập (1967), Algebraic number theory, London: Academic Press, tr. 305–347,  
+Lang, Serge; Tate, John (1958), “Principal homogeneous spaces over abelian varieties”, American Journal of Mathematics 80: 659–684,  
+Lubin, Jonathan; Tate, John (1965), “Formal complex multiplication in local fields”, Annals of Mathematics 81: 380–387,  
+Tate, John (1966), “Endomorphisms of abelian varieties over finite fields”, Inventiones Mathematicae 2: 134–144,  
+Tate, John (1967), “p-divisible groups”, trong Springer, T. A., Proceedings of a Conference on Local Fields, Springer-Verlag, tr. 158–183,  
+Artin, Emil; Tate, John (2009) [1967], Class field theory, AMS Chelsea Publishing, ISBN 978-0-821-84426-7,  
+Serre, Jean-Pierre; Tate, John (1968), “Good reduction of abelian varieties”, Annals of Mathematics 88: 462–517,  
+Tate, John (1971), “Rigid analytic spaces”, Inventiones Mathematicae 12: 257–289,  
+Tate, John (1976), “Relations between K2 and Galois cohomology”, Inventiones Mathematicae 36: 257–274,  
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Tate's home page
+John Tate tại Mathematics Genealogy Project

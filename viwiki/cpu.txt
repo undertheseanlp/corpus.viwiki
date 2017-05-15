@@ -1,0 +1,106 @@
+CPU viết tắt của chữ Central Processing Unit (tiếng Anh), tạm dịch là bộ xử lý trung tâm, là các mạch điện tử trong một máy tính, thực hiện các câu lệnh của chương trình máy tính bằng cách thực hiện các phép tính số học, logic, so sánh và các hoạt động nhập/xuất dữ liệu (I/O) cơ bản do mã lệnh chỉ ra. Thuật ngữ này đã được sử dụng trong ngành công nghiệp máy tính kể từ đầu những năm 1960. Theo truyền thống, thuật ngữ "CPU" chỉ một bộ xử lý, cụ thể là bộ phận xử lý và điều khiển (Control Unit) của nó, phân biệt với những yếu tố cốt lõi khác của một máy tính nằm bên ngoài như bộ nhớ và mạch điều khiển xuất/nhập dữ liệu.
+Hình thức, thiết kế và thực hiện của CPU đã thay đổi theo tiến trình lịch sử, nhưng hoạt động cơ bản của nó vẫn còn gần như không thay đổi. Thành phần chủ yếu của CPU bao gồm các bộ phận số học logic (ALU) thực hiện phép tính số học và logic, các thanh ghi lưu các tham số để ALU tính toán và lưu trữ các kết quả trả về, và một bộ phận kiểm soát với nhiệm vụ nạp mã lệnh từ bộ nhớ và "thực hiện" chúng bằng cách chỉ đạo các hoạt động phối hợp của ALU, các thanh ghi và các thành phần khác.
+Hầu hết các CPU hiện đại đều là các vi xử lý, có ý nghĩa là chúng được đặt trên một chip vi mạch (IC) đơn. Một vi mạch có chứa một CPU cũng có thể chứa bộ nhớ, giao diện cho các thiết bị ngoại vi, và các thành phần khác của một máy tính; việc các thiết bị tích hợp như vậy được gọi theo nhiều cách khác nhau: vi điều khiển hoặc hệ thống trên một vi mạch (SoC). Một số máy tính sử dụng một CPU đa nhân là một con chip duy nhất có chứa hai hoặc nhiều CPU được gọi là "lõi"; Trong bối cảnh đó, các chip đơn đôi khi được gọi là "khe cắm" - socket. Mảng vi xử lý và bộ xử lý vector có nhiều bộ xử lý hoạt động song song, không có bộ xử lý nào được coi là trung tâm.
+Một CPU năm 1971 chỉ có 2.300 transitor thì hiện nay (2016) đã có tới 7,2 tỉ transitor với 22 nhân nhờ quá trình sản xuất 14 nm (dòng 22-core Xeon Broadwell-E5). Hiện nay người ta đang hướng tới công nghệ sản xuất 7 nm và 5 nm với CPU, hứa hẹn sẽ có những dòng CPU tiết kiệm năng lượng và hiệu suất cao hơn nữa.
+
+
+== Lịch sử ==
+
+Máy tính cổ như ENIAC muốn thực hiện các nhiệm vụ khác nhau thì phải nối lại hoàn toàn các mạch điện, điều này khiến các máy này được gọi là "máy tính có chương trình cố định". Thuật ngữ "CPU" thường được định nghĩa là một thiết bị để chạy phần mềm (chương trình máy tính), các thiết bị đầu tiên mà có thể được gọi là CPU đi kèm với sự ra đời của máy tính có khả năng lưu trữ chương trình.
+Ý tưởng về một máy tính lưu trữ chương trình đã hiện diện trong thiết kế ENIAC của J. Presper Eckert và John William Mauchly, nhưng đã được bỏ qua ngay từ đầu để nó có thể được hoàn thành sớm hơn. Ngày 30 tháng 6 năm 1945, trước khi ENIAC được tạo ra, nhà toán học John von Neumann công bố bài báo mang tên First Draft of a Report on the EDVAC. Bài báo là phác thảo của một máy tính chạy chương trình được lưu trữ mà cuối cùng sẽ được hoàn thành vào tháng 8 năm 1949. EDVAC được thiết kế để thực hiện một số lượng nhất định các lệnh khác nhau. Đáng chú ý là các chương trình viết cho EDVAC đã được lưu trữ trong bộ nhớ máy tính có tốc độ cao thay cho hệ thống dây điện vật lý của máy tính. Điều này đã vượt qua một hạn chế nghiêm trọng của ENIAC, đó là thời gian đáng kể và nỗ lực cần thiết để cấu hình lại máy tính để thực hiện một nhiệm vụ mới. Với thiết kế von Neumann, các chương trình mà EDVAC chạy có thể được thay đổi chỉ đơn giản bằng cách thay đổi các nội dung của bộ nhớ. Tuy nhiên, EDVAC không phải là máy tính lưu trữ chương trình đầu tiên; Manchester Small-Scale Experimental Machine,một nguyên mẫu máy tính có lưu trữ một chương trình nhỏ, chạy chương trình đầu tiên của mình vào ngày 21 tháng 6 năm 1948 và Manchester Mark 1 chạy chương trình đầu tiên của mình trong đêm 16-17 tháng 6 năm 1949.
+Các CPU đời đầu sử dụng các thiết kế tùy chỉnh như là một phần của một máy tính lớn và đôi khi rất khác biệt. Tuy nhiên, phương pháp này thiết kế CPU tùy chỉnh cho một ứng dụng cụ thể đã nhường chỗ cho sự phát triển của bộ vi xử lý đa mục đích sản xuất với số lượng lớn. Tiêu chuẩn này bắt đầu trong thời đại máy tính mainframe sử dụng transistor, máy tính mini và đã nhanh chóng tăng tốc với sự phổ biến của các vi mạch (IC). Các vi mạch đã cho phép CPU ngày càng phức tạp được thiết kế và sản xuất nhỏ đến cỡ nanômét. Hai quy trình thu nhỏ hóa và tiêu chuẩn hóa của CPU đã làm tăng nhanh sự có mặt của các thiết bị kỹ thuật số trong cuộc sống hiện đại vượt xa các ứng dụng hạn chế của máy tính chuyên dụng. Bộ vi xử lý hiện đại xuất hiện trong các thiết bị điện tử khác nhau, từ xe ô tô đến điện thoại di động, và thậm chí cả trong đồ chơi.
+Trong khi von Neumann thường được ghi công với việc thiết kế của máy tính có khả năng lưu trữ chương trình vì thiết kế EDVAC của ông, và thiết kế này được gọi là kiến trúc von Neumann, những người khác trước ông như Konrad Zuse cũng đã đề xuất và thực hiện những ý tưởng tương tự. Cái gọi là kiến trúc Harvard của Harvard Mark I, được hoàn thiện trước EDVAC, cũng sử dụng một thiết kế được lưu trữ chương trình sử dụng băng giấy đục lỗ thay vì bộ nhớ điện tử. Sự khác biệt cơ bản giữa các kiến trúc von Neumann và Harvard là máy Harvard tách rời việc lưu trữ và xử lý các lệnh CPU và dữ liệu, trong khi máy của von Neumann sử dụng bộ nhớ không gian chung cho cả hai. Hầu hết các CPU hiện đại chủ yếu sử dụng ý tưởng von Neumann trong thiết kế, nhưng CPU với kiến trúc Harvard được xem là tốt, đặc biệt là trong các ứng dụng nhúng; Ví dụ, các vi điều khiển Atmel AVR là các bộ xử lý kiến trúc Harvard.
+Rơle và đèn điện tử chân không đã được sử dụng phổ biến để làm các thành phần chuyển mạch; một máy tính hữu ích đòi hỏi hàng ngàn hoặc hàng chục ngàn các thiết bị chuyển mạch như vậy. Tốc độ tổng thể của một hệ thống phụ thuộc vào tốc độ của thiết bị chuyển mạch. Máy tính dùng đèn chân không như EDVAC có thời gian sử dụng trung bình tám giờ trước khi nó bị hỏng, trong khi máy tính dùng rơle như Harvard Mark I (chậm hơn, nhưng được tạo ra sớm hơn) rất ít khi hỏng hóc. Cuối cùng, CPU dùng đèn chân không đã trở thành thống trị bởi vì những lợi thế đáng kể về tốc độ của nó đã thắng những vấn đề về độ tin cậy. Hầu hết các CPU đồng bộ ban đầu chạy ở tốc độ thấp hơn so với các thiết kế vi điện tử hiện đại. tần số tín hiệu đồng hồ khác nhau, từ 100 kHz đến 4 MHz rất phổ biến vào thời kỳ này, giới hạn phần lớn bởi tốc độ của các thiết bị chuyển mạch của CPU.
+
+
+=== Các CPU dùng tranzito ===
+
+Sự phức tạp thiết kế của CPU tăng lên khi hàng loạt công nghệ khác nhau tạo thuận lợi cho việc xây dựng các thiết bị điện tử nhỏ hơn và đáng tin cậy hơn. Những cải tiến đầu tiên như vậy đi kèm với sự ra đời của transistor. CPU bán dẫn trong suốt những năm 1950 và 1960 không còn phải được xây dựng bằng các phần tử chuyển mạch cồng kềnh, không đáng tin cậy và mong manh như đèn điện tử chân không và rơle. Với cải tiến này nhiều CPU phức tạp và đáng tin cậy được xây dựng trên một hoặc một số mạch in chứa các thành phần riêng biệt.
+Năm 1964, IBM giới thiệu kiến trúc máy tính System/360, được sử dụng trong một loạt các máy tính có khả năng chạy các chương trình tương tự với tốc độ và hiệu suất khác nhau. Điều này có ý nghĩa tại thời điểm đó khi hầu hết các máy tính điện tử là không tương thích với nhau, ngay cả những máy tính có chung nhà sản xuất. Để tạo điều kiện cho cải tiến này, IBM sử dụng các khái niệm về một vi chương trình (thường được gọi là "vi mã"), vi mã này vẫn được sử dụng rộng rãi trong các CPU hiện đại. Kiến trúc System/360 trở nên phổ biến đến mức nó thống trị thị trường máy tính mainframe trong hàng thập kỷ và để lại một di sản vẫn được tiếp tục với các máy tính hiện đại zSeries của IBM. Năm 1965, Digital Equipment Corporation (DEC) giới thiệu một máy tính có ảnh hưởng nhằm vào thị trường khoa học và nghiên cứu, PDP-8.
+
+Máy tính mạch bán dẫn có một số lợi thế khác biệt so với những máy tính trước đó. Bên cạnh độ tin cậy tăng lên và tiêu thụ điện năng giảm đi, bóng bán dẫn cũng cho phép CPU hoạt động với tốc độ cao hơn nhiều vì thời gian chuyển đổi ngắn hơn của một bóng bán dẫn so với một đèn điện tử hoặc rơle. Nhờ độ tin cậy tăng lên cũng như việc tăng đáng kể tốc độ của các thành phần chuyển mạch (với các bóng bán dẫn được dùng gần như hoàn toàn trong thời gian này), tốc độ xung nhịp CPU tăng lên tới hàng chục megahertz trong giai đoạn này. Ngoài ra, trong khi CPU dùng bóng bán dẫn rời rạc và vi mạch CPU được sử dụng rộng rãi, các thiết kế mới có hiệu suất cao như các xử lý vectơ SIMD (Single Instruction Multiple Data) bắt đầu xuất hiện. Những thiết kế thử nghiệm đầu tiên này sau đó đã dẫn đến thời đại của các siêu máy tính chuyên ngành như các máy được Cray Inc và Fujitsu Ltd sản xuất.
+
+
+=== Các CPU tích hợp quy mô nhỏ ===
+
+Trong thời gian này, một phương pháp sản xuất nhiều transistor kết nối với nhau trong một không gian nhỏ gọn đã được phát triển. Các mạch tích hợp (IC) cho phép một số lượng lớn các bóng bán dẫn được sản xuất trên một chip bán dẫn. Lúc đầu chỉ mạch kỹ thuật số rất cơ bản không chuyên đầu tiên như cổng NOR được thu nhỏ vào vi mạch. CPU dựa trên những khối vi mạch thường được gọi là thiết bị "tích hợp quy mô nhỏ"(SSI). Vi mạch SSI, chẳng hạn như những vi mạch được dùng trong các máy tính hướng dẫn tàu Apollo, thường chứa lên đến một vài nghìn transistor. Để xây dựng toàn bộ một CPU trên vi mạch SSI cần hàng ngàn chip, nhưng vẫn tiêu thụ ít không gian và điện năng hơn nhiều so với thiết kế bằng bóng bán dẫn trước đó.
+System/370 của IBM, phiên bản kế tục System/360, sử dụng vi mạch SSI thay vì dùng module bán dẫn rời rạc của Solid Logic Technology. Máy tính PDP-8/I and KI10 PDP-10 của DEC cũng chuyển từ các bóng bán dẫn riêng lẻ được PDP-8 và PDP-10 sử dụng và chuyển qua dùng vi mạch SSI, và dòng máy PDP-11 cực kỳ phổ biến của họ ban đầu được xây dựng với vi mạch SSI nhưng cuối cùng đã được thay thế bằng các vi mạch LSI khi nó ra đời.
+
+
+=== Các CPU tích hợp quy mô lớn ===
+Lee Boysel xuất bản các bài báo có ảnh hưởng, trong đó có một "tuyên ngôn" năm 1967, trong đó mô tả làm thế nào để xây dựng máy tính tương đương với một máy tính mainframe 32-bit từ một số lượng tương đối nhỏ các mạch tích hợp quy mô lớn (LSI). Vào thời điểm đó, cách duy nhất để xây dựng chip LSI, một con chip với một trăm hoặc nhiều cổng, bằng cách xây dựng chúng sử dụng một quá trình MOS (chẳng hạn PMOS logic, NMOS logic, hoặc CMOS logic). Tuy nhiên, một số công ty tiếp tục xây dựng các bộ xử lý dùng chip lưỡng cực vì các bán dẫn lưỡng cực nhanh hơn nhiều so với các chip MOS; chẳng hạn, Datapoint tạo các bộ vi xử lý bằng chip TTL cho đến đầu những năm 1980.
+Các nhà sản xuất máy tính tốc độ cao muốn chúng chạy nhanh chóng, vì vậy trong những năm 1970 họ xây dựng các CPU từ các vi mạch tích hợp quy mô nhỏ (SSI) và quy mô trung bình (MSI) bao gồm các cổng TTL của vi mạch họ 7400. Vào thời điểm đó, vi mạch MOS quá chậm đến nỗi chúng chỉ được coi là hữu ích trong một vài ứng dụng thích hợp với yêu cầu công suất thấp.
+Khi công nghệ vi điện tử phát triển mạnh, nó gia tăng số lượng bóng bán dẫn được đặt trên một IC, giảm số lượng IC riêng cần thiết để tạo ra một CPU hoàn chỉnh. Các vi mạch MSI và LSI tăng lượng transistor lên đến hàng trăm, và sau đó hàng ngàn. Đến năm 1968, số lượng IC cần thiết để xây dựng một CPU hoàn chỉnh đã được giảm xuống còn 24 IC của tám loại khác nhau, với mỗi IC chứa khoảng 1000 MOSFET. Tương phản hoàn toàn với các vi mạch SSI và MSI của nó, vi mạch LSI đầu tiên của PDP-11 chứa một CPU bao gồm chỉ có bốn mạch tích hợp LSI.
+
+
+=== Các bộ vi xử lý ===
+
+Trong những năm 1970, những phát minh cơ bản của Federico Faggin (IC MOS cổng silicon với cổng tự liên kết cùng với các phương pháp thiết kế logic ngẫu nhiên mới của ông) đã thay đổi việc thiết kế và sản xuất CPU mãi mãi. Kể từ sự ra đời của bộ vi xử lý thương mại đầu tiên (Intel 4004) vào năm 1970, và bộ vi xử lý lần đầu tiên được sử dụng rộng rãi (Intel 8080) năm 1974, mô hình này của CPU đã gần như hoàn toàn vượt qua tất cả các bộ phận xử lý trung tâm khác. Các nhà sản xuất máy tính lớn và máy tính mini thời kỳ này tung ra các chương trình phát triển vi mạch độc quyền để nâng cấp kiến trúc máy tính cũ của họ, và cuối cùng tạo ra bộ vi xử lý tương thích với tập lệnh cũ của các phần cứng và phần mềm cũ. Kết hợp với sự ra đời và cuối cùng thành công khắp nơi của máy tính cá nhân, thuật ngữ CPU bây giờ được áp dụng gần như độc quyền cho các bộ vi xử lý. Một số CPU (gọi là lõi) có thể được kết hợp trong một chip xử lý duy nhất.
+Các thế hệ trước của CPU cũng được sản xuất như các linh kiện điện tử và vô số vi mạch (IC) trên một hay nhiều mạch in. Bộ vi xử lý là các CPU được sản xuất trên một số lượng rất nhỏ các IC; thường chỉ là một. Tổng thể kích thước CPU nhỏ hơn, là một kết quả của việc sản xuất trên cùng một khuôn, khiến thời gian chuyển đổi nhanh hơn vì các yếu tố vật lý như giảm điện dung ký sinh tại cổng. Điều này đã cho phép các bộ vi xử lý đồng bộ có tốc độ xung nhịp từ hàng chục megahertz đến vài gigahertz. Ngoài ra, vì khả năng để xây dựng transistor cực nhỏ trên một vi mạch đã tăng lên, sự phức tạp và số lượng bóng bán dẫn trong một CPU duy nhất đã tăng lên nhiều lần. Xu hướng được kiểm chứng rộng rãi này được đặt tên là Định luật Moore, mà đã được chứng minh qua thực tế là một yếu tố dự báo khá chính xác về sự phát triển của CPU (và các IC phức tạp khác).
+Trong khi mức độ phức tạp, quy mô, xây dựng, và dạng tổng quát của CPU đã thay đổi rất nhiều kể từ năm 1950, đáng chú ý là các thiết kế cơ bản và chức năng của nó đã không thay đổi chút nào. Hầu như tất cả các CPU phổ biến hiện nay có thể được mô tả rất chính xác như các máy lưu trữ chương trình theo kiểu von Neumann. Khi định luật Moore nói trên vẫn tiếp tục đúng, mối quan tâm phát sinh về các giới hạn của công nghệ bóng bán dẫn mạch tích hợp. Thu nhỏ tối đa các cửa điện tử đang gây ra những ảnh hưởng của hiện tượng như electromigration và rò rỉ dưới ngưỡng đã nhiều hơn đáng kể. Những mối quan tâm mới là một trong nhiều yếu tố khiến các nhà nghiên cứu tập trung tìm hiểu các phương pháp mới của máy tính như máy tính lượng tử, cũng như để mở rộng việc sử dụng tính toán song song và các phương pháp khác nhằm mở rộng tính hữu ích của các mô hình von Neumann cổ điển.
+
+
+== Hoạt động ==
+Các hoạt động cơ bản của hầu hết các CPU, không phụ thuộc hình thức vật lý, là thực hiện một chuỗi các tập lệnh được lưu trữ, gọi là chương trình. Các mã lệnh chờ thực hiện này được lưu giữ trong một số loại bộ nhớ máy tính. Gần như tất cả các CPU có các bước: lấy thông tin, giải mã và thực hiện lệnh khi hoạt động, và được gọi chung là chu kỳ lệnh.
+Sau khi thực hiện một lệnh, toàn bộ quá trình lặp đi lặp lại, với sự chu kỳ lệnh tiếp theo thường lấy các lệnh tiếp theo trong chuỗi vì giá trị tăng lên trong thanh ghi con trỏ lệnh. Nếu một lệnh nhảy được thực hiện, con trỏ lệnh sẽ được sửa đổi để chứa địa chỉ của lệnh đã thay đổi và thực hiện chương trình tiếp tục như bình thường. Trong các CPU phức tạp hơn, nhiều lệnh có thể được tải xuống, giải mã, và thực hiện đồng thời. Phần này mô tả những gì thường được gọi là "đường ống RISC cổ điển", vốn khá phổ biến trong các CPU đơn giản được sử dụng trong nhiều thiết bị điện tử (thường được gọi là vi điều khiển). Nó chủ yếu bỏ qua vai trò quan trọng của CPU cache, và do đó bỏ qua các giai đoạn tiếp cận của các đường ống.
+Một số lệnh thao tác truy cập chương trình chứ không phải tạo ra dữ liệu kết quả trực tiếp; lệnh như vậy thường được gọi là "lệnh nhảy" và cho phép chương trình chạy lặp vòng, thực hiện chương trình có điều kiện (thông qua việc sử dụng một bước nhảy có điều kiện), và khả năng viết các chương trình con. Trong một số bộ vi xử lý, một số lệnh khác thay đổi trạng thái của các bit trong một thanh ghi "cờ". Những cờ này có thể được sử dụng để thay đổi cách ứng xử của chương trình, vì chúng thường chỉ ra kết quả của các toán tử khác nhau. Ví dụ, trong bộ vi xử lý khi một lệnh "so sánh" đánh giá hai giá trị, chúng xóa bit trong những thanh ghi cờ để chỉ ra số nào lớn hơn số nào, hoặc hai số được so sánh là bằng nhau; một trong những cờ này sau đó có thể được một lệnh nhảy sử dụng để xác định rẽ nhánh tùy theo kết quả so sánh trên.
+
+
+== Thành phần ==
+
+
+=== Khối điều khiển (CU - Control Unit) ===
+Là thành phần của CPU có nhiệm vụ thông dịch các lệnh của chương trình và điều khiển hoạt động xử lý, được điều tiết chính xác bởi xung nhịp đồng hồ hệ thống.Phần này là phần cốt lõi của một bộ xử lý được cấu tạo từ các mạch logic so sánh với các linh kiện bán dẫn như transistor tạo thành.
+
+
+=== Khối tính toán ALU (Arithmetic Logic Unit) ===
+Chức năng thực hiện các phép toán số học và logic sau đó trả lại kết quả cho các thanh ghi hoặc bộ nhớ.
+
+
+=== Các thanh ghi (Registers) ===
+Là các bộ nhớ có dung lượng nhỏ nhưng tốc độ truy cập rất cao, nằm ngay trong CPU, dùng để lưu trữ tạm thời các toán hạng, kết quả tính toán, địa chỉ các ô nhớ hoặc thông tin điều khiển. Mỗi thanh ghi có một chức năng cụ thể. Thanh ghi quan trọng nhất là bộ đếm chương trình (PC - Program Counter) chỉ đến lệnh sẽ thi hành tiếp theo.
+
+
+=== Opcode ===
+Phần bộ nhớ chứa mã máy của cpu(không bắt buộc) để có thể thực thi các lệnh trong file thực thi.
+
+
+=== Phần điều khiển ===
+Thực hiện việc điều khiển các khối và điều khiển tần số xung nhịp. Mạch xung nhịp đồng hồ hệ thống dùng để đồng bộ các thao tác xử lý trong và ngoài CPU theo các khoảng thời gian không đổi. Khoảng thời gian chờ giữa hai xung gọi là chu kỳ xung nhịp. Tốc độ theo đó xung nhịp hệ thống tạo ra các xung tín hiệu chuẩn thời gian gọi là tốc độ xung nhịp – tốc độ đồng hồ tính bằng triệu đơn vị mỗi giây (MHz).Phần này là không cần thiết cho một cpu nhưng hầu hết có trong kiến trúc cisc.
+
+
+== Tốc độ ==
+Tốc độ xử lý của máy tính chủ yếu phụ thuộc vào tốc độ của CPU, nhưng nó cũng phụ thuộc vào các phần khác như bộ nhớ RAM, bo mạch đồ họa, ổ cứng, v.v..
+Có nhiều công nghệ làm tăng tốc độ xử lý của CPU. Ví dụ: pipeline, turbo boost, siêu phân luồng, v.v..
+Tốc độ CPU có liên hệ với tần số đồng hồ làm việc của nó (tính bằng các đơn vị như MHz, GHz, v.v..). Trước năm 2005, tần số này cao hơn cũng có nghĩa là tốc độ xử lý cao hơn. Tuy nhiên khi chỉ so sánh như vậy là bỏ qua rất nhiều yếu tố khác. (Ví dụ: CPU Intel Core 2 Duo (2 nhân) có tần số 2,6 GHz có thể xử lý nhanh hơn CPU Intel Pentium 4 (1 nhân) 3,4 GHz hay dòng Intel Core 2 Duo (2 nhân) 2,6 GHz GHz lại yếu hơn dòng Core i3 (2 nhân) với cùng 2,6 GHz GHz rất nhiều). Do vậy hiện nay, nhà sản xuất CPU như Intel dùng khái niệm đánh giá trên hiệu suất làm việc (performance rating -P.R) cho các dòng Core i3, i5, i7.
+Tốc độ CPU còn phụ thuộc vào nhiều yếu tố như:
+Số nhân xử lý (2,4,10,22 nhân...), càng nhiều nhân càng mạnh
+Công nghệ sản xuất (32 nm, 22 nm,14 nm..), càng nhỏ càng tiết kiệm điện và hiệu năng cao hơn.
+Công nghệ làm tăng tốc độ xử lý của CPU (pipeline, turbo boost, siêu phân luồng, v.v.),
+Bộ nhớ đệm - bộ nhớ dùng để lưu các lệnh/dữ liệu thường dùng hay có khả năng sẽ được dùng trong tương lai gần, giúp giảm bớt thời gian chờ đợi của CPU. Ví dụ: Intel Core 2 Duo sử dụng chung cache L2 (shared cache) giúp cho tốc độ xử lý của hệ thống hai nhân mới này cao hơn so với hệ thống hai nhân thế hệ thứ nhất (Intel Pentium D) với mỗi nhân từng bộ nhớ đệm L2 riêng biệt.
+Đồ họa tích hợp (vd: Intel HD Graphics 530 mạnh ngang một card màn hình mạnh như Inno3D GT 730 1 GB)
+TDP (công suất thoát nhiệt), lượng nhiệt chip xử lý tỏa ra mà hệ thống làm mát cần phải giải tỏa. TDP thường cho biết mức tiêu thụ điện của con chip, con số này càng thấp càng tốt.
+
+
+== Các nhà sản xuất ==
+Hai nhà sản xuất CPU lớn nhất hiện nay là Intel và AMD.
+Một trong những CPU đầu tiên của hãng Intel là Intel 4004. Được tung ra thị trường vào tháng 11 năm 1971, Intel 4004 có 2250 transistor và 16 chân. Một CPU khác của Intel được tung ra thị trường năm 2006 là Intel Northwood P4ntium, có 55 triệu transistor và 478 chân.
+Nhà sản xuất AMD (Advanced Micro Devices) cũng được đánh giá cao:
+APU(Dòng tích hợp nhân đồ họa của AMD):
+-A10[ 58xx(k), 68xx(k), 78xx(k)] với sức mạnh đồ họa tích hợp sánh ngang với các GPU tầm trung.
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+CPU Intel
+CPU AMD
+CPU đa nhân
+
+
+== Liên kết ngoài ==
+25 vi chip khuynh đảo thế giới – bài viết tiếng Anh của Institute of Electrical and Electronics Engineers.

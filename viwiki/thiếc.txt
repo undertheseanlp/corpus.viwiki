@@ -1,0 +1,106 @@
+Thiếc là một nguyên tố hóa học trong Bảng tuần hoàn các nguyên tố hóa học của Mendeleev, có ký hiệu là Sn và số nguyên tử là 50. Thiếc có màu ánh bạc, nhiệt độ nóng chảy thấp (232 °C), rất khó bị ôxy hóa, ở nhiệt độ môi trường thiếc chống được sự ăn mòn và người ta cũng tìm thấy chúng có mặt ở rất nhiều hợp kim. Nhờ đặc tính chống ăn mòn, người ta cũng thường tráng hay mạ lên các kim loại dễ bị ôxy hoá nhằm bảo vệ chúng như một lớp sơn phủ bề mặt, như trong các tấm sắt tây dùng để đựng đồ thực phẩm. Thiếc thông thường được khai thác và thu hồi từ quặng cassiterit, ở dạng Ôxít. Thiếc là một thành phần chính tạo ra hợp kim đồng thiếc.
+
+
+== Đặc điểm ==
+
+
+=== Vật lý ===
+
+Thiếc là một kim loại màu trắng bạc, kết tinh cao, dễ uốn, dễ dát mỏng. Khi một thanh thiếc bị bẻ cong, âm thanh nứt vỡ có thể nghe được do song tinh của các tinh thể.
+Thiếc-β (dạng kim loại hay thiếc trắng), ổn định ở mức nhiệt độ phòng và cao hơn, có tính dễ dát mỏng; trong khi thiếc-α (dạng phi kim hay thiếc xám), ổn định ở nhiệt độ dưới 13,2 °C, có tính giòn, và tỷ trọng 7,92g/cm3. Nó có dạng cấu trúc tinh thể kiểu kim cương, tương tự như kim cương, silic hay germani. Thiếc-α không có tính chất kim loại nào cả, chúng bền ở nhiệt độ dưới 14 °C có tỷ trọng 5,85g/cm3. Thiếc trắng là một loại bột màu xám xỉn không có ứng dụng rộng rãi, ngoại trừ một vài ứng dụng làm vật liệu bán dẫn đặc biệt. Hai dạng thù hình là thiếc-α và thiếc-β thường được gọi là thiếc xám và thiếc trắng. Hai dạng thù hình khác là thiếc-γ và thiếc-σ tồn tại ở nhiệt độ trên 161 °C và áp suất trên vài GPa. Mặc dù nhiệt độ biến đổi dạng α-β trên danh nghĩa là ở 13,2 °C, nhưng các tạp chất (như Al, Zn, vv...) hạ thấp nhiệt độ chuyển đổi dưới 0 °C khá sâu, và khi bổ sung Sb hoặc Bi thì sự chuyển đổi có thể không xảy ra, làm tăng độ bền của thiếc.
+Sự chuyển đổi này gọi là phân rã thiếc. Phân rã thiếc từng là một vấn đề nghiêm trọng ở Bắc Âu trong thế kỷ 18 khi các loại đàn đại phong cầm làm từ hợp kim thiếc đôi khi bị ảnh hưởng trong mùa đông lạnh giá. Một vài nguồn đề cập rằng trong suốt chiến dịch ở Nga của Napoleon năm 1812, nhiệt độ trở nên quá lạnh đến nỗi các nút bằng thiếc trên đồng phục của lính phân rã theo thời gian, góp phần vào sự thất bại của Grande Armée.
+Thiếc phẩm cấp thương mại (99,8%) có tính kháng biến dạng do ảnh hưởng ức chế của một lượng nhỏ tạp chất bitmut, antimon, chì, và bạc. Các nguyên tố tạo hợp kim như đồng, antimon, bitmut, cadmi, và bạc tăng độ cứng của nó. Thiếc có khuynh hướng dễ dàng tạo ra các pha liên kim loại giòn cứng, là dạng không mong đợi. Nhìn chung, nó không tạo thành các dải dung dịch rắn rộng trong các kim loại khác, và chỉ có một vài nguyên tố có khả năng hòa tan rắn trong thiếc. Các hệ Eutectic xảy ra với bitmut, galli, chì, tali, và kẽm.
+
+
+=== Hóa học ===
+Thiếc có tính chống ăn mòn từ nước nhưng có thể dễ hòa tan bởi axit và bazơ. Thiếc có thể được đánh rất bóng và được dùng là lớp phủ bảo vệ cho các kim loại khác. Trong trường hợp này, một lớp ôxit bảo vệ được sử dụng để chống các tác nhân ôxy hóa. Lớp ôxit này được tạo ra từ ôxit thiếc và các hợp kim thiếc khác. Thiếc là một chất xúc tác khi oxy có trong dung dịch và giúp tăng tốc độ phản ứng.
+
+
+=== Đồng vị ===
+
+Thiếc là nguyên tố có nhiều đồng vị bền với các khối lượng nguyên tử 112, 114 đến 120, 122 và 124. Trong đó, phổ biến nhất là 120Sn (chiếm 1/3 trong tất cả đồng vị thiếc), 118Sn, và 116Sn, còn đồng vị ít phổ biến nhất là 115Sn. Các đồng vị có số khối chẵn không có nuclear spin trong khi các đồng vị có số khối lẻ có một spin +1/2. Thiếc, với 3 đồng vị phổ biến của nó 115Sn, 117Sn và 119Sn, là các nguyên tố dễ nhận dạng nhất và phân tích bằng NMR spectroscopy, và chemical shift được tham chiếu với SnMe4.
+Việc các đồng vị bền có số khối lớn được cho là sản phẩm trực tiếp của thiếc sở hữu số nguyên tử 50, đây là một số Magic trong vật lý hạt nhân. Có 28 đồng vị phóng xạ đã được biết đến, vượt qua tất cả các nguyên tố khác có số nguyên tử giữa 99 và 137. Bên cạnh 126Sn, có chu kỳ bán rã 230.000 năm, tất cả các đồng vị phóng xạ còn lại có chu kỳ bán rã nhỏ hơn một năm. Đồng vị phóng xạ 100Sn là một trong số ít các hạt nhân sở hữu hạt nhân doubly magic và được phát hiện tương đối gần đây vào năm 1994. 30 trạng thái đồng phân kích thích khác đã được miêu tả cho các đồng vị từ 111 đến 131, đồng vị phóng xạ ổn định nhất là 121mSn, có chu kỳ bán rã 43,9 năm.
+
+
+== Lịch sử ==
+
+Thiếc được chiết tách và sử dụng vào đầu thời đại Đồ đồng vào khoảng 3000 TCN, khi quan sát rằng các loại đồng được hình thành trong các quặng đa kim chứa nhiều kim loại khác nhau về các tính chất vật lý. Các vật dụng bằng đồng sớm nhất có hàm lượng thiếc hoặc asen nhỏ hơn 2% và do đó được cho là kết quả không chủ ý của việc tạo thành hợp kim do các kim loại này tồn tại ở dạng vết trong quặng đồng. Việc thêm vào kim loại thứ hai trong đồn làm tăng độ cứng của nó, giảm nhiệt độ nóng chảy, và cải thiện quá trình đúc bằng cách tạo ra những chất lỏng nóng chảy hơn khi lạnh tạo thành kim loại ít rỗng, đặc hơn. Đây là một sáng chế quan trọng cho phép tạo ra các hình đúc phức tạp trong giới hạn công nghệ của thời đại đồ đồng. Các vật dụng Arsenical bronze xuất hiện đầu tiên ở vùng Cận Đông nơi asen được tìm thấy phổ biến cộng sinh với quặng đồng, như rủi ro đến sức khỏe của kim loại này được nhận ra nhanh chóng và người ta tìm nguồn quặng thiếc ít nguy hiểm hơn bắt đầu vào đầu thời đại đồ đồng. Điều này làm tăng tính hiếm của kim loại thiếc và hình thành mạng lưới thương mại liên kết các nguồn tài nguyên thiếc ở xa với các thị trường của các nền văn hóa thời đại Đồ đồng.
+Cassiterit (SnO2), một dạng ôxít thiếc, là nguồn thiếc sơ cấp có thể phổ biến nhất vào thời cổ đại. Các dạng quặng thiếc khác ở dạng sulfua ít phổ biến hơn như stannit thì cần phải có quá trình nung chảy nhiều hơn. Cassiterit thường tích tục trong các lòng dẫn bồi tích ở dạng mỏ sa khoáng do loại quặng này nặng hơn, cứng hơn và bề hóa học hơn loại đá granit chứa nó. Các mỏ này có thể được phát hiện dễ dàng trên các bờ sông vì cassiterit thường có màu đen, tím hoặc màu sẫm khác, đặc điểm này được dùng để nhận dạng trong tìm kiếm vào đầu thời đại đồ đồng. Thiếc được gọi là 'ÓN' thời Ai Cập cổ đại 3000-4000 năm trước và được dùng trong các đường ống bơm.
+
+
+== Hợp chất ==
+Phần lớn thiếc tạo thành các hợp chất ở trạng thái ôxy hóa II hoặc IV.
+
+
+=== Hợp chất vô cơ ===
+Các muối halua của thiếc đều tồn tại ờ hai trang thái ôxy hóa. Sn(IV) gồm tất cả 4 muối halua: SnF4, SnCl4, SnBr4, và SnI4. 3 hợp chất nặng hơn là các hợp chất phân tử dễ bay hơi, trong khi tetrafluorua là polymer. Tất cả 4 muối halua trên cũng tồn tại ở trạng thái ôxy hóa II) gồm: SnF2, SnCl2, SnBr2, và SnI2, tất cả chúng là các chất rắn polymer. Trong số tám hợp chất này, chỉ có các iodua là có màu.
+Thiếc(II) clorua là loại muối thiếc quan trọng nhất trong thương mại. Phương trình hóa học bên dưới minh họa cách hợp chất này được tạo ra khi clo phản ứng của thiếc kim loại tạo ra SnCl4, sau đó muối mới phản ứng tiếp với thiếc tạo ra SnCl2:
+SnCl4 + Sn → 2 SnCl2
+Thiếc có thể tạo thành nhiều ôxít, sulfua, và các dẫn suất chalcogen. Thiếc điôxít SnO2 (cassiterit) tạo thành khi thiếc được nung có mặt của không khí. SnO2 là chất lưỡng tính, nên nó hòa tan trong cả môi trường axít và bazơ. Ngoài ra, thiếc còn tạo axít với cấu trúc [Sn(OH)6]2−, như K2[Sn(OH)6], mặc dù axít stanic tự do H2[Sn(OH)6] thì không rõ. Các dạng sulfua của thiếc cũng tồn tại ở hai trạng thái ôxy hóa +2 và +4: Thiếc(II) sulfua và Thiếc(IV) sulfua.
+
+
+=== Hydrua ===
+Stannane (SnH4), thiếc ở trạng thái ôxy hóa +4 là dạng không bền. Tuy nhiên, Organotin hydrua cũng được biết đến như tributyltin hydrua (Sn(C4H9)3H). Các hợp chất này là các dạng hiếm hoi của thiếc(III).
+
+
+== Phân bố ==
+
+Thiếc được tạo ra qua quá trình S trong các sao khối lượng thấp đến trung bình (khối lượng từ 0,6 đến 10 lần khối lượng Mặt Trời). Nó phát sinh qua phân rã beta của các đồng vị nặng của indi.
+Thiếc là nguyên tố phổ biến thứ 49 trong vỏ Trái Đất, với nồng độ 2 ppm so với 75 ppm của kẽm, 50 ppm của đồng, và 14 ppm của chì.
+Thiếc không tồn tại ở dạng nguyên tố trong tự nhiên, vì vậy phải được chiết tách từ nhiều loại quặng khác nhau. Cassiterit (SnO2) là nguồn thiếc thương mại duy nhất, mặc dù một lượng nhỏ thiếc được phát hiện trong các dạng sulfua như stannit, cylindrit, franckeit, canfieldit, và teallit. Các khoáng thiếc luôn đi cùng với đá granit, thường chiếm khoảng 1% hàm lượng thiếc ôxít.
+Do thiếc ôxít có tỷ trọng cao, khoảng 80% thiếc được khai thác ở dạng thứ sinh được tìm thấy ở hạ lưu các con suối. thiếc thường được phát hiện ở dạng hạt bị rửa trôi xuống hạ lưu suối trong quá khứ và lắng đọng trong các thung lũng hoặc dưới biển. Các phương pháp khai thác thiếc kinh tế nhất là xúc, rửa thủy lực hoặc khai thác lộ thiên. Hầu hết thiếc trên thế giới được sản xuất từ các mỏ sa khoáng, chúng có thể chứa ít nhất 0,015% thiếc.
+Khoảng 253.000 tấn thiếc được khai tác trong năm 2011, chủ yếu ở Trung Quốc (110.000 t), Indonesia (51.000 t), Peru (34.600 t), Bolivia (20.700 t) và Brazil (12.000 t). Ước tính sản lượng thiếc thay đổi có thể thay đổi do tác động của tính khả thi về mặt kinh tế và sự phát triển của công nghệ khai thác mỏ, nhưng với tốc độ tiêu thụ và công nghệ hiện tại, Trái Đất sẽ hết thiếc trong vòng 40 năm tới. Tuy vậy, Lester Brown đề xuất rằng thiếc có thể cạn kiệt trong vòng 20 năm tới dựa trên việc ngoại suy tăng trưởng sử dụng 2% mỗi năm.
+Thứ hai là thiếc phế liệu cũng là một nguồn kim loại quan trọng. Sự thu hồi thiếc qua sản xuất thứ cấp, hoặc tái chế thiếc phế liệu, đang tăng lên nhanh chóng. Trong khi đó, Hoa Kỳ đã không khai thác từ năm 1993 và cũng không nung chảy thiếc từ năm 1989, nên đây là nước sản xuất thiếc phế liệu lớn nhất, họ tái chế gần 14.000 tấn trong năm 2006
+Các mỏ mới được phát hiện ở miền nam Mông Cổ, và trong năm 2009, các mỏ thiếc mới cũng được phát hiện ở Colombia, bởi Seminole Group Colombia CI, SAS.
+
+
+== Sản xuất ==
+Thiếc được sản xuất từ việc khử quặng ôxít thiếc bằng cacbon hay than cốc trong lò lửa quặt hay lò điện.
+
+
+=== Khai thác mỏ và nấu luyện ===
+Năm 2006, tổng sản lượng thiếc của 9 nhà sản xuất trên toàn thế giới đạt 321.000 tấn, sản lượng thiếc nấu luyện là 340.000 tấn. Từ mức sản lượng 186.300 tấn năm 1991, sản lượng thiếc tăng 89% lên 351.800 tấn năm 2005. Hầu hết sản lượng tăng là từ Trung Quốc và Indonesia, với đỉnh điểm cao nhất trong giai đoạn 2004–2005, khi nó tăng 23%. Trong khi vào thập niên 1970 Malaysia là nước sản xuất lớn nhất với sản lượng gần 1/3 sản lượng toàn cầu, sau đó giảm hạng dần, và hiện tại chỉ còn các nhà sản xuất nấu luyện và trung tâm thương mại. Năm 2007, Trung Quốc là nhà sản xuất thiếc lớn nhất, ở Trung Quốc các mỏ thiếc tập trung thành dải ở đông nam Vân Nam, chiếm 43% sản lượng thế giới, theo sau là Indonesia, và thứ 3 là Peru theo báo cáo của USGS.
+Bảng bên dưới thể hiện các quốc gia có sản lượng khai thác mỏ thiếc lớn nhất và sản lượng thiếc nấu luyện lớn nhất.
+Sau khi phát hiện ra mỏ thiếc ở Bisie, North Kivu thuộc Cộng hòa Dân chủ Congo năm 2002, việc khai thác bất hợp pháp đã tăng thêm khoảng 15.000 tấn. Điều này phần lớn thúc đẩy các cuộc xung đột gần đây ở nơi này cũng như ảnh hưởng đến thị trường thế giới.
+
+
+=== Công nghiệp ===
+10 công ty lớn nhất sản xuất hầu hết thiếc trên thế giới năm 2007. Hiện không rõ rằng các công ty này có sản xuất thiếc nấu luyện từ mỏ ở Bisie, Cộng hòa Dân chủ Congo, nơi đây được quản lý bởi lực lượng ly khai với sản lượng 15.000 tấn.
+Hầu hết thiếc trên thế giới được buôn bán trên Sàn giao dịch Kim loại Luân Đôn (London Metal Exchange, LME), từ 8 quốc gia với 17 thương hiệu.
+Giá của thiếc đã từng là US$11.900 một tấn vào 24 tháng 11 năm 2008. Giá này lên đến ngưỡng cao nhất gần $31.600 một tấn vào tháng 2 năm 2011, phần lớn do ảnh hưởng của sự sụt giảm sản lượng từ Indonesia.
+
+
+== Giá và giao dịch ==
+
+Thiếc là loại khoáng sản duy nhất có các thỏa thuận phức tạp giữa các nhà sản xuất và tiêu thụ kể từ năm 1921. Các thỏa thuận trước đó có khuynh hướng đạt được phần nào chính thức và không thường xuyên; thỏa thuận quốc tế về thiếc đầu tiên năm 1956, và các thỏa thuận sau đó tồn tại cho đến năm 1985. Qua các thỏa thuận này Ủy ban Thiếc quốc tế (ITC) đã có những tác động đáng kể lên giá thiếc. ITC đã trợ giá thiếc trong nhiều giai đoạn rớt giá bằng cách mua thiếc dự trữ và đã kiềm chế giá trong giai đoạn tăng giá khi bán ra từ kho dự trữ. Đây là cách tiếp cận phi thị trường tự do, được thiết kế để đảm bảo đủ lượng cung cấp thiếc cho các nước tiêu thụ và lợi nhuận bền vững cho các nước sản xuất. Tuy nhiên, lượng dự trữ không đủ lớn, và trong vòng 29 năm giá thiếc tăng, đôi khi tăng mạnh, đặc biệt từ 1973 đến 1980 khi lạm phát tràn lan cản trở tăng trưởng của các nền kinh tế trên thế giới.
+Trong suốt cuối thập niên 1970 và đầu thập niên 1980, dự trữ thiếc của chính phủ Hoa Kỳ nằm trong tình trạng bán ra, một phần để tận dụng lợi thế giá thiếc cao lịch sử. Suy thoái kinh tế mạnh năm 1981–1982 được chứng minh là khá khắc nghiệt đối với công nghiệp thiếc. Tiêu thụ thiếc giảm mạnh. ITC có thể tránh sự tuột dốc thực sự qua việc tăng mua nhằm dự trữ; hành động này đòi hỏi ITC phải vay nhiều từ các ngân hàng và các công ty kinh doanh kim loại để tăng nguồn lực của họ. ITC tiếp tục vay cho đến cuối năm 1985 khi đạt đến giới hạn tín dụng của họ. Ngay lập tức, "tin khủng hoảng thiếc" theo sau đó, làm cho thiếc bị loại khỏi danh sách niêm yếu trên Sàn giao dịch Kim loại Luân Đôn trong khoảng 3 năm, ITC giải thể ngay sau đó, và giá thiếc lúc này nằm trong môi trường kinh doanh tự do, giảm mạnh đến $4/cân và duy trì quanh mức này trong suốt thập niên 1990. Nó tăng lại vào năm 2010-2011 do sự tiêu thụ lại sau cuộc khủng hoảng kinh tế thế giới năm 2008–2009, dự trữ và tiếp tục tăng tiêu thụ trong các nền kinh tế đang phát triển trên thế giới.
+Sàn giao dịch Kim loại Luân Đôn (LME) là nơi giao dịch thiếc. Các thị trường hợp đồng thiếc khác là Kuala Lumpur Tin Market (KLTM) và Indonesia Tin Exchange (INATIN).
+
+
+== Ứng dụng ==
+Thiếc được dùng để tráng lên bề mặt các vật bằng thép, vỏ hộp thực phẩm, nước giải khát, có tác dụng chống ăn mòn, tạo vẻ đẹp không độc hại Thiếc dùng chế tạo hợp kim Ví dụ: Hợp kim Sn-Sb-Cu có tính chịu ma sát, dùng để chế tạo ổ trục quay Hợp kim Sn-Pb có nhiệt độ nóng chảy thấp (1800C) dùng để chế tạo thiếc hàn g ăn mòn, tạo vẻ đẹp không độc hại
+
+
+== Chú ý ==
+
+Các trường hợp ngộ độc kim loại thiếc, ôxit của nó và các muối của nó hiện hầu như chưa được biết rõ. Tuy nhiên, các hợp chất có thiếc-carbon nhất định hầu như là chất độc giống như cyanua.
+
+
+== Ghi chú ==
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+CRC contributors (2006). David R. Lide (editor), biên tập. Handbook of Chemistry and Physics (ấn bản 87). Boca Raton, Florida: CRC Press, Taylor & Francis Group. ISBN 0-8493-0487-3. 
+Emsley, John (2001). “Tin”. Nature's Building Blocks: An A–Z Guide to the Elements. Oxford, England, UK: Oxford University Press. tr. 445–450. ISBN 0-19-850340-7. 
+Greenwood, N. N.; Earnshaw, A. (1997). Chemistry of the Elements (ấn bản 2). Oxford: Butterworth-Heinemann. ISBN 0-7506-3365-4.  
+Heiserman, David L. (1992). “Element 50: Tin”. Exploring Chemical Elements and their Compounds. New York: TAB Books. ISBN 0-8306-3018-X. 
+MacIntosh, Robert M. (1968). “Tin”. Trong Clifford A. Hampel (editor). The Encyclopedia of the Chemical Elements. New York: Reinhold Book Corporation. tr. 722–732. LCCN 68-29938. 
+Stwertka, Albert (1998). “Tin”. Guide to the Elements . Oxford University Press. ISBN 0-19-508083-1.  Bảo trì CS1: Văn bản dư (link)
+
+
+== Liên kết ngoài ==
+WebElements.com – Tin
+Theodore Gray's Wooden Periodic Table Table: Tin samples and castings

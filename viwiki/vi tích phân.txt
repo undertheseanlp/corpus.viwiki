@@ -1,0 +1,11 @@
+Vi tích phân (calculus theo tiếng Latinh, nghĩa là một hòn đá nhỏ được sử dụng để đếm) là một nhánh của toán học tập trung vào giới hạn, hàm số, đạo hàm và tích phân của hàm số, tích phân, và chuỗi vô hạn. Môn này là một bộ phận chủ yếu của giáo dục toán học hiện đại. Nó có hai ngành chính, vi phân và tích phân, trong đó có liên quan của các định lý cơ bản của vi tích phân. Vi tích phân là nghiên cứu về thay đổi, trong cùng một cách mà hình học là nghiên cứu về hình dạng còn đại số là nghiên cứu về hoạt động và ứng dụng của mình để giải phương trình. Một các giải quyết trong vi tích phân là một cửa ngõ đến một cách giải quyết khác, cao cấp hơn trong toán học dành cho việc nghiên cứu các hàm và cực hạn, được gọi rộng rãi là toán học phân tích. Vi tích phân có ứng dụng rộng rãi trong khoa học, kinh tế, và kỹ thuật và có thể giải quyết nhiều vấn đề mà đại số thôi là không đủ.
+Trong lịch sử, vi tích phân được gọi là "vi tích phân". Nói chung hơn, vi tích phân đề cập đến bất kỳ phương pháp hoặc hệ thống tính toán được hướng dẫn bởi các thao tác biểu tượng của biểu thức. Một số ví dụ về các thì sỏi nổi tiếng khác là vi tích phân mệnh đề, vi tích phân biến, giải tích lambda, vi tích phân pi, và join calculus..
+Phép tính vi tích phân là một trong những lĩnh vực nghiên cứu quan trọng của toán học, là thành tựu nổi bật nhất của giai đoạn cuối thế kỷ 17 của Isaac Newton và Gottfried Wilhelm Leibniz.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Vi phân tại Từ điển bách khoa Việt Nam
+Tích phân tại Từ điển bách khoa Việt Nam

@@ -1,0 +1,57 @@
+ISO 4217 là tiêu chuẩn quốc tế gồm những mã ba ký tự (còn được gọi là mã tiền tệ) để định nghĩa cho tên của tiền tệ do Tổ chức Tiêu chuẩn hóa quốc tế (ISO) ban hành. Danh sách mã ISO 4217 là chuẩn hiện hành trong ngân hàng và kinh doanh trên toàn thế giới để xác định những loại tiền tệ khác nhau, và ở nhiều nước, những mã dùng cho những loại tiền tệ phổ biến thông dụng đến mức, tỷ giá được in trên báo hoặc niêm yết ở ngân hàng chỉ sử dụng những mã này để xác định những loại tiền tệ khác nhau, thay cho tên tiền tệ đã được dịch hoặc những ký hiệu tiền tệ nhập nhằng. Mã ISO 4217 được dùng trên vé máy bay và vé xe lửa quốc tế để tránh sự nhầm lẫn về giá cả.
+Hai ký tự đầu của mã là hai ký tự của mã quốc gia ISO 3166-1 alpha-2 (những mã tương tự với mã dùng cho tên miền quốc gia cấp cao nhất trên Internet) và ký tự thứ ba thường là ký tự đầu tiên của chính đồng tiền. Do đó mã tiền tệ của Việt Nam sẽ là VND—VN cho Việt Nam và D cho Đồng. Việc làm này giúp loại bỏ những vấn đề gây ra do việc sử dụng những tên như dollar, franc và bảng trong hàng tá quốc gia khác nhau, mỗi loại đồng tiền lại có giá trị khác biệt nhau. Tương tự, nếu một đồng tiền được định giá lại, ký tự cuối của mã tiền tệ sẽ được đổi để phân biệt nó với đồng tiền cũ. Trong một số trường hợp, ký tự thứ ba là ký tự đầu của chữ "mới" trong ngôn ngữ của nước đó, để phân biệt với đồng tiền cũ đã bị định giá lại; mã này thường được dùng lâu dài hơn cả chính chữ "mới" mà nó dùng. Một số ví dụ như Peso Mexico (MXN) và lira Thổ Nhĩ Kỳ (TRY). Tuy nhiên, cũng có những sự thay đổi theo cách khác, ví dụ, Rúp Nga đổi từ RUR thành RUB, trong đó B là ký tự thứ ba của từ "ruble".
+Cũng có mã số ba chữ số gán cho mỗi đơn vị tiền tệ, giống như cũng có mã số ba chữ số gán cho mỗi quốc gia trong mã ISO 3166. Mã số này thường giống như mã số ISO 3166. Ví dụ, USD (Dollar Mỹ) có mã 840 cũng là mã số dành cho US (Hoa Kỳ).
+Tiêu chuẩn cũng định nghĩa mối quan hệ giữa đơn vị tiền tệ lớn và đơn vị tiền tệ nhỏ. Thông thường, đơn vị tiền tệ nhỏ có giá trị bằng 1/100 đơn vị lớn, nhưng 1/10 hay 1/1000 cũng phổ biến. Một vài loại tiền tệ không có đơn bị tiền tệ nhỏ. Ở những nước khác, đơn vị tiền tệ lớn có giá trị quá nhỏ đến mức đơn vị tiền nhỏ không còn được dùng nữa (ví dụ như sen của Nhật, bằng 1/100 đồng yen). Mauritanie không sử dụng tỷ lệ thập phân, đặt 1 ouguiya (UM) = 5 khoums, và Madagascar có 1 ariary = 5 iraimbilanja. Điều này được chỉ ra trong tiêu chuẩn bằng số mũ tiền tệ. Ví dụ USD có số mũ 2, trong khi JPY có số mũ 0.
+Những mã ISO 4217 không chỉ dành cho tiền tệ, mà còn dành cho kim loại quý (vàng, bạc, paladi và bạch kim; bằng cách định nghĩa theo một troy ounce, giống như "1 USD") và những thứ khác dùng trong tài chính quốc tế, ví dụ Quyền rút vốn đặc biệt. Cũng có những mã đặc biệt dành cho mục đích thử nghiệm (XTS), và để ám chỉ giao dịch phi tiền tệ (XXX). Tất cả những mã này đều bắt đầu với ký tự "X". Kim loại quý sử dụng "X" cộng với ký hiệu hóa học của loại kim loại đó; ví dụ như bạc, là XAG. ISO 3166 không bao giờ gán mã quốc gia bắt đầu bằng ký tự "X", những mã này chỉ dùng cho những mục đích cá nhân tự điều chỉnh (được bảo lưu, không bao giờ dùng cho mã quốc gia), do đó ISO 4217 có thể dùng mã "X" dành cho loại tiền tệ không thuộc về quốc gia nào cụ thể mà không tạo ra nguy cơ xung đột với những mã quốc gia tương lai.
+Những tiền tệ siêu quốc gia, như dollar Đông Caribbean, france CFP, franc CFA BEAC và franc CFA BCEAO cũng thường được đại diện bằng mã bắt đầu bằng "X". Đồng euro được ký hiệu là EUR (Liên minh châu Âu cũng có trong danh sách mã bảo lưu của ISO 3166-1 để đại diện do Liên minh châu Âu). Đồng tiền trước của Euro, Đơn vị tiền tệ của châu Âu, có mã XEU.
+
+
+== Lịch sử ==
+Vào năm 1973, Ủy bàn Kỹ thuật ISO 68 đã quyết định tạo ra những mã dùng để đại diện cho tiền tệ và công trái để dùng trong các giao dịch trao đổi, thương mại hoặc ngân hàng. Vào phiên thứ 17 (tháng 2 năm 1978) của UN/ECE Nhóm các chuyên gia đã đồng ý rằng mã ba ký tự cho Tiêu chuẩn Quốc tế ISO 4217, "Mã dùng để đại diện cho tiền tệ và công trái", sẽ phù hợp trong giao thương quốc tế.
+Qua thời gian, những loại tiền tệ mới xuất hiện và những tiền tệ cũ mất đi. Thông thường, những sự thay đổi này xảy ra do chính phủ mới (sau chiến tranh hoặc hiến pháp mới), hiệp ước giữa các quốc gia về chuẩn hóa tiền tệ, hoặc việc định giá lại đồng tiền do lạm phát phi mã. Kết quả là bảng mã này phải được cập nhật liên tục. Cục bảo trì ISO 4217, Hiệp hội Tiêu chuẩn Anh, chịu trách nhiệm bảo trì danh sách mã này.
+
+
+== Những mã đang hoạt động ==
+Sau đây là danh sách các mã đang hoạt động của mã tiền tệ ISO 4217 chính thức.
+
+
+== Không có mã tiền tệ ==
+Một số lãnh thổ không nằm trong ISO 4217, vì đồng tiền của họ không phải là tiền tệ độc lập per se, mà là biến thể của tiền tệ khác. Những tiền tệ đó là:
+Króna Faroe (tỷ lệ 1:1 với Krone Đan Mạch)
+Pound Guernsey (tỷ lệ 1:1 với bảng Anh)
+Pound Jersey (tỷ lệ 1:1 với bảng Anh)
+Pound Đảo Man (tỷ lệ 1:1 với bảng Anh)
+Dollar Tuvalu (tỷ lệ 1:1 với Dollar Úc).
+Dollar Quần đảo Cook (tỷ lệ 1:1 với Dollar New Zealand).
+Tuy nhiên, những mã không phải của ISO sau đôi khi được dùng thương mại:
+
+
+== Mã tiền tệ không còn dùng ==
+Một số tiền tệ là mã tiền tệ ISO 4217 và tên tiền tệ chính thức cho đến khi nó bị thay bởi đồng euro.
+Chú ý rằng tên tiền tệ dùng ở dưới có thể không trùng với tên tiền tệ dùng trong mã ISO, nhưng mã thì trùng.
+
+
+== Xem thêm ==
+Danh sách tiền tệ lưu hành
+Tiền tệ
+Bảng tỷ giá lịch sử
+Danh sách các chủ đề thương mại quốc tế
+SWIFT và mã SWIFT
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Tiếng Anh
+The official list of ISO-4217 alphabetic and numeric codes
+ISO 4217 Maintenance Agency
+An older list of ISO-4217 alphabetic codes that contains some history of ISO-4217 (PDF file)
+Another list of numeric and alphabetic ISO 4217 currency codes
+
+
+=== Chuyển đổi tiền tệ ===
+XE.com
+Calculator for Currency Rate Exchange
+Travelex Country and Currency Guide
+Yahoo Currency Converter, also showing historical values

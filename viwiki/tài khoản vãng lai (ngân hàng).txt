@@ -1,0 +1,44 @@
+Trong hoạt động ngân hàng, một tài khoản vãng lai là một tài khoản tiền gửi mở tại ngân hàng hoặc tổ chức tài chính nào đó, với mục đích cung ứng một cách nhanh chóng và an toàn phương tiện tiếp cận thường xuyên tới các món tiền gửi theo nhu cầu, thông qua một loạt các kênh khác nhau. Vì thế, tài khoản này có tên khác là Tài khoản thanh toán.
+
+
+== Các đặc trưng và tiếp cận ==
+Tài khoản vãng lai cho phép chủ tài khoản thực hiện hay nhận các khoản thanh toán bằng một trong các hình thức sau, tùy theo quốc gia:
+Tiền mặt (giấy bạc)
+Séc và Phiếu gửi tiền (giấy tờ cam kết thanh toán)
+Chuyển khoản (giro, ký quỹ trực tiếp)
+Ghi nợ trực tiếp/ghi có trực tiếp (tại Anh và các nước trong khối Thịnh vượng chung người ta sử dụng hệ thống BACS-Bankers Automated Clearing Services hay CHAPS-Clearing House Automated Payment System).
+Chỉ thị hiện hành (chỉ dẫn từ phía chủ tài khoản đối với ngân hàng để chuyển một khoản tiền nhất định sau một khoảng thời gian nhất định sang một/nhiều tài khoản khác)
+Thẻ ghi nợ hay thẻ ATM
+EFTPOS (thanh toán trực tiếp không sử dụng tiền mặt tại cửa hàng)
+Thông qua hệ thống SWIFT (tài khoản của ngân hàng ở ngân hàng nước ngoài để chuyển khoản).
+Một số các phương thức thanh toán là hoàn toàn có tính chất cục bộ theo từng quốc gia. Tại Vương quốc Anh, hệ thống BACS cung cấp các dịch vụ giro chỉ sau vài ngày trong khi CHAPS thực hiện điều đó chỉ trong ngày, nhưng với phí cao hơn, tới £25 cho một lần chuyển khoản. Canada có dịch vụ Email Money Transfer (chuyển tiền bằng thư điện tử) trên ngân hàng trực tuyến và Hoa Kỳ có e-check (Séc điện tử).
+Tất cả các tài khoản vãng lai đều cung cấp các danh sách liệt kê các khoản giao dịch tài chính, hoặc là dưới dạng bản kê tài khoản hoặc là trong sổ tiền gửi.
+Có một số phương thức để tiếp cận các khoản tiền gửi tại tài khoản vãng lai:
+Các chi nhánh của ngân hàng
+Máy rút tiền tự động (ATM)
+Thông qua điện thoại và ngân hàng trực tuyến
+Nghiệp vụ ngân hàng thư
+Các cửa hàng và các nhà buôn cung cấp cách tiếp cận EFTPOS.
+
+
+== Vay mượn thông qua tài khoản vãng lai ==
+
+Cách tiếp cận đối với vấn đề số dư tài khoản âm tại các tài khoản vãng lai thay đổi theo từng quốc gia cũng như theo lịch sử văn hóa của họ trong lĩnh vực nghiệp vụ ngân hàng.
+Tại UK, gần như toàn bộ các tài khoản vãng lai đều cung cấp tiện ích bội chi có thỏa thuận trước với số tiền bội chi tối đa dựa trên lịch sử năng lực cũng như lịch sử tín dụng. Tiện ích bội chi này có thể sử dụng bất kỳ lúc nào kèm theo sự tham khảo ý kiến của ngân hàng và có thể được duy trì không xác định thời hạn (phải được xem xét theo các điều kiện phi thể thức (ad hoc)). Mặc dù tiện ích bội chi có thể là được phép, nhưng về mặt kỹ thuật thì tiền là được hoàn lại theo yêu cầu của ngân hàng. Trong thực tế, điều này hiếm khi xảy ra do các khoản bội chi đem lại lợi nhuận cho ngân hàng và nó là tốn kém đối với khách hàng.
+Tại Bắc Mỹ, bảo vệ bội chi là một nét đặc biệt tùy chọn đối với các tài khoản vãng lai. Chủ tài khoản có thể áp dụng điều đó một cách thường xuyên, hoặc là tổ chức tài chính có thể, với sự xem xét của chính mình, đưa ra bội chi tạm thời trên cơ sở phi thể thức.
+
+
+== Lãi suất ==
+Không giống như các tài khoản tiền gửi tiết kiệm trong đó lý do chủ yếu để gửi tiền là để sinh lãi, chức năng chính của tài khoản vãng lai là giao dịch, vì thế phần lớn các nhà cung cấp tài khoản vãng lai hoặc là không trả tiền lãi hoặc là trả lãi ở mức lãi suất thấp hơn trên số dư có.
+Các tổ chức tài chính cung cấp các dịch vụ tập trung, điện thoại, internet hay bưu chính có xu hướng trả mức lãi suất cao hơn. Tại UK, một số ngân hàng trực tuyến cũng đưa ra các mức lãi suất cao như dành cho nhiều loại tài khoản tiết kiệm cùng với việc miễn phí nghiệp vụ ngân hàng (không thu phí giao dịch).
+Tại Hoa Kỳ, các loại tài khoản vãng lai có trả lãi được gọi là Negotiable Order of Withdrawal account (NOW account-chỉ thị chuyển đổi cho tài khoản rút tiền) để phân biệt nó với loại tài khoản vãng lai kiểu cũ không chi trả tiền lãi, do nó đã bị luật pháp cấm cho tới tận thập niên 1990.
+
+
+== Phí dịch vụ ==
+Chính sách tính phí để thực hiện các giao dịch tài chính phụ thuộc vào một loạt các yếu tố, bao gồm các mức lãi suất tổng thể đối với việc cho vay và tiết kiệm của mỗi quốc gia, cũng như phụ thuộc vào giá trị của giao dịch và số lượng các kênh tiếp cận nguồn tiền gửi mà tổ chức tài chính đó cung cấp. Điều đó giải thích tại sao các loại ngân hàng ảo, hoạt động với rất ít hoặc không có các chi nhánh lại có thể đưa ra các nghiệp vụ ngân hàng với mức phí thấp hoặc miễn phí cũng như giải thích tại sao ở một số quốc gia thì không có các khoản phí giao dịch nhưng mức lãi suất cho vay rất cao lại là một tiêu chuẩn.
+Các khoản phí giao dịch tài chính có thể được tính theo từng khoản mục giao dịch hoặc tính theo tỷ lệ cố định cho một số lượng giao dịch nhất định nào đó (thông thường tính trên cơ sở hàng tháng). Thông thường, đối với một loạt các loại khách hàng nào đó, tổ chức tài chính có thể không thu phí đối với các giao dịch tài chính cơ bản, chẳng hạn như đối với tầng lớp sinh viên, thanh niên, người già hay các khách hàng có số tiền gửi rất lớn chẳng hạn. Một số tổ chức tài chính còn đưa ra các giao dịch miễn phí nếu khách hàng duy trì số dư trung bình rất cao trong tài khoản của mình. Các khoản phí dịch vụ khác được áp dụng đối với sự bội chi, hay khi số dư tiền gửi không đủ để thanh toán séc, cũng như khi sử dụng mạng liên ngân hàng bên ngoài v.v. Tại các quốc gia mà ở đó không có các khoản phí dịch vụ đối với các giao dịch thì người ta lại thu phí hàng năm đối với các dịch vụ tuần hoàn, chẳng hạn như thẻ ghi nợ.
+
+
+== Xem thêm ==
+Tài khoản tiết kiệm
+Tiền gửi giao dịch

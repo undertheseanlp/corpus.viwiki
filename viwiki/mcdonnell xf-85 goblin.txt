@@ -1,0 +1,82 @@
+McDonnell XF-85 Goblin là một mẫu thử máy bay tiêm kích do hãng McDonnell Aircraft thai nghén từ Chiến tranh Thế giới II. XF-85 sẽ được phóng đi từ khoang quân giới trên một chiếc máy bay ném bom Convair B-36 cỡ lớn. Nhiệm vụ của XF-85 sẽ là bảo vệ các máy bay ném bom khỏi các máy bay tiêm kích đánh chặn của đối phương, một điều đã được minh chứng trong Chiến tranh Thế giới II. 2 mẫu thử đã được chế tạo trước khi chương trình bị hủy bỏ.
+XF-85 bắt nguồn từ yêu cầu của Không quân Lục quân Hoa Kỳ (USAAF) về một loại tiêm kích có thể mang theo máy bay ném bom Northrop XB-35 và B-36. Nó là một máy bay phản lực nhỏ có khung thân hình quả trứng và thiết kế đuôi sau kiểu cái dĩa. Các mẫu thử được chế tạo và trải qua các cuộc thử nghiệm vào năm 1948. Thử nghiệm bay cho thây hứa hẹn từ mẫu thiết kế này, nhưng hiệu năng của nó lại kém hơn khi tham gia thử nghiệm chiến đấu, ngoài ra còn khó khăn trong việc gắn nó vào máy bay ném bom. XF-85 nhanh chóng bị hủy bỏ, các mẫu thử được đưa tới các bảo tàng. Sau khi USAAF tách ra thành quân chủng Không quân Hoa Kỳ (USAF) năm 1947, USAF tiếp tục theo đuổi các mẫu máy bay tương tự như XF-85 thuộc các đề án MX-106 "Tip Tow", FICON và "Tom-tom", nhưng tất cả đều bị hủy bỏ.
+
+
+== Thiết kế và phát triển ==
+
+Trong chiến tranh thế giới thứ II, các máy bay ném bom của Mỹ như Boeing B-17 Flying Fortress, Consolidated B-24 Liberator và Boeing B-29 Superfortress được bảo vệ bởi các máy bay tiêm kích hộ tống tầm xa như Republic P-47 Thunderbolt và North American P-51 Mustang. Những máy bay tiêm kích không phù hợp với tầm hoạt động của Northrop B-35 hay Convair B-36, đây là 2 loại máy bay ném bom thuộc thế hệ tiếp theo do USAAF phát triển. Chi phí phát triển máy bay tiêm kích tầm xa quá cao, trong khi giải pháp tiếp nhiên liệu trên không vẫn còn gặp nhiều khó khăn về công nghệ và có độ nguy hiểm cao. Bản thân phi công tiêm kích cũng gặp phải mệt mỏi trong các chuyến bay hộ tống tầm xa ở Châu Âu và Thái Bình Dương, từ đó đã tiếp thêm động lực để các kỹ sư tiếp cận những sáng tạo mới.
+USAAF đã xem xét một số lựa chọn khác nhau bao gồm sử dụng máy bay điều khiển từ xa trước khi chọn mẫu máy bay tiêm kích con mang cùng máy bay ném bom mẹ là B-36. Ý tưởng về máy bay tiêm kích con khởi đầu từ năm 1918, lúc đó Không quân Hoàng gia đã thử nghiệm tính khả thi của loại tiêm kích con Sopwith Camel mang theo khí cầu 'R23. Trong những năm 1930, Hải quân Hoa Kỳ cũng từng có những mẫu tiêm kích con hoạt động trong một thời gian ngắn như Curtiss F9C Sparrowhawk, trang bị khí cầu Akron và Macon. Bắt đầu từ năm 1931, kỹ sư thiết kế máy bay Vladimir Vakhmistrov đã tiến hành các thử nghiệm ở Liên Xô thuộc Đề án Zveno với 5 mẫu tiêm kích thuộc các kiểu khác nhau được máy bay ném bom Polikarpov TB-2 và Tupolev TB-3 mang theo. Tháng 8/1941, một phi đội máy bay ném bom TB-3 mang theo những chiếc máy bay ném bom bổ nhào Polikarpov I-16SPB đã tấn công cầu Cernavodă và cầu cảng Constantsa ở România. Sau cuộc tấn công này, phi đội đóng căn cứ ở Crimea, còn thực hiện một cuộc tấn công chiến thuật khác vào một cây cầu trên sông Dnieper ở Zaporozhe do quân Đức chiếm giữ. Sau đó trong Thế chiến II, Luftwaffe cũng thử nghiệm Messerschmitt Me 328 với vai trò tiêm kích con, nhưng các vấn đề về động cơ xung lực đã khiến việc thử nghiệm thất bại. Vào cuối chiến tranh, các đề án tiêm kích con trang bị động cơ tên lửa như Arado E.381 và Sombold So 344 cũng mới chỉ dừng lại trên bản vẽ.
+Ngày 3/12/1942, USAAF đưa ra một Hồ sơ mời thầu (RfP - Request for Proposals) cho một mẫu máy bay tiêm kích trang bị động cơ piston cỡ nhỏ. Tháng 1 năm 1944, Bộ chỉ huy hậu cần kỹ thuật không quân đã tuyển chọn RfP và vào tháng 1 năm 1945, các chi tiết kỹ thuật được sửa đổi thành MX-472, một mẫu máy bay trang bị động cơ phản lực. Dù một số công ty hàng không vũ trụ đã nghiên cứu tính khả thi của loại máy bay này, McDonnell là công ty duy nhất gửi một hồ sơ đáp ứng yêu cầu năm 1942 và các yêu cầu sửa đổi sau đó. Kiểu mẫu 27 đề xuất của công ty đã được làm lại hoàn toàn để đáp ứng các chỉ tiêu kỹ thuật mới.
+
+Khái niệm ban đầu cho Kiểu mẫu 27 là loại tiêm kích được mang dưới bụng của B-29, B-35 hoặc B-36. USAAF từ chối đề nghị này, với lý do lực kéo tăng nên là giảm tầm hoạt động của cấu hình máy bay tiêm kích-ném bom hỗn hợp. Ngày 19/3/1945, đội thiết kế của McDonnell do Herman D. Barkey đứng đầu, đưa ra một đề nghị sửa đổi, thiết kế lại có tên gọi Kiểu mẫu 27D. Chiếc máy bay nhỏ hơn có khung thân dạng quả trứng, đuôi có dạng dĩa, cánh chính xuôi sau 37° và gập lại được để máy bay có thể lắp vừa vào khoang quân giới của máy bay ném bom. Máy bay thiết kế lại có chiều dài 14 ft 10 in (4,52 m), sải cánh khi mở là 21 ft (6,4 m). Nhiên liệu máy bay mang được chỉ có 112 gallon (93 imp gal; 420 l) cho phép máy bay có thể chiến đấu liên tục trong 30 phút. Một chiếc móc được lắp dọc theo trọng tâm của máy bay; khi bay, nó thụt vào nằm trong ngăn ở phần trên của mũi. Máy bay có trọng lượng rỗng là 4.000 bảng Anh (1,8 tấn). Để giảm trọng lượng, nó không có hệ thống bánh đáp. Trong chương trình thử nghiệm, một tấm trượt bằng thép cố định được lắp dưới thân và lò xo hành trình ở mặt dưới của đầu cánh được lắp đặt cho trường hợp máy bay hạ cánh khẩn cấp. Dù khoang lái khá chật hẹp, nhưng phi công vấn có một ghế phóng, bình dưỡng khí và dù bật tốc độ cao. Máy bay được vũ trang bằng 4 súng máy 0,50 in (12,7 mm) ở mũi.
+Khi hoạt động, máy bay tiêm kích con sẽ được phóng và thu hồi bằng một xà treo. Khi chiếc xà treo được kéo dài hết cỡ, động cơ sẽ được khởi động bằng không khí và máy bay con sẽ phóng đi từ máy bay mẹ khi phi công kéo mũi trở lại để gỡ máy bay ra khỏi móc. Khi thu hồi, máy bay sẽ tiếp cận máy bay mẹ từ phía dưới và kết nối với xà treo bằng cách sử dung móc ở mũi của máy bay. Thay đổi trong việc sản xuất dự kiến sẽ biến phi đội B-36 thành cả máy bay ném bom và máy bay mang tiêm kích khi thực hiện nhiệm vụ. Theo kế hoạch, từ chiếc B-36 thứ 24 trở đi, mỗi chiếc B-36 sẽ được trang bị với một chiếc XF-85, tối đa một chiếc máy bay mẹ có thể mang được 4 máy bay con. Có tới 10% trong tổng số B-36 được lệnh chuyển đổi để mang theo máy bay tiêm kích con, mỗi chiếc mang 3 hoặc 4 chiếc XF-85 thay vì mang bom.
+Ngày 09 tháng 10 năm 1945, USAAF đưa ra một lá thư trong đó gồm việc phát triển kỹ thuật cho 2 mẫu thử nghiệm (số seri là 46-523 và 46-524), mặc dù hợp đồng chưa được hoàn thành cho đến tháng 2/1947. Sau khi kết thúc thành công đánh giá 2 mô hình gỗ có kích thước như thật vào năm 1946 và 1947 bởi các nhân viên kỹ thuật USAAF,, McDonnell đã chế tạo 2 mẫu thử vào cuối năm 1947. Kiểu mẫu 27D được đổi tên thành XP-85, nhưng vào tháng 6/1948, nó lại đổi tên thành XF-85 và có tên lóng là "Goblin". USAAF đã lên kế hoạch mua 30 chiếc P-85, dù vậy USAAF vẫn tiếp cận một cách thận trọng – nếu kết quả thử nghiệm từ 2 mẫu thử tốt, các đơn đặt hàng cho hơn 100 chiếc Goblin sẽ được ký kết sau.
+
+
+== Lịch sử hoạt động ==
+Trong quá trình thử nghiệm trong đường hầm gió tại Moffett Field, California, mẫu thử XF-85 đầu tiên đã vô tình rơi từ cần cẩu xuống đất ở độ cao 40 ft (12 m), gây thiệt hại đáng kể cho phần khung thân phía trước, lối dẫn khí và phần bụng. Mẫu thử thứ hai được sử dụng để hoàn tất nốt các thử nghiệm trong hầm gió và các thử nghiệm bay đầu tiên.
+Do việc sản xuất B-36 vẫn gặp vấn đề, nên tất cả các chuyến bay thử nghiệm của XF-85 đều được thực hiện trên một chiếc EB-29B Superfortress được cải tiến, khoang quân giới mang bom được gắn thêm các xà treo, các thiết bị camera và đo đạc. Chiếc EB-29B có tên gọi là Monstro, nhỏ hơn so với chiếc B-36 đã mang XF-85 để thử nghiệm bay. Các chuyến bay thử nghiệm được diễn ra ở South Base, Muroc Field. Ngày 23 tháng 7 năm 1948, XF-85 bay lần đầu tiên, nó được thử nghiệm để xem liệu EB-29B và XF-85 có thể hoạt động ăn khớp nhau không. XF-85 khi gắn vào máy bay mẹ sẽ thu cánh lại, nhưng đôi khi nó buộc phải mở cánh ra nhưng tắt động cơ, để phi công có thể cảm nhận máy bay đang bay.
+
+Phi công thử nghiệm của McDonnell là Edwin Schoch được chỉ định thực hiện các chuyến bay trong đề án, Schoch đã ngồi trong XF-85 khi nó vẫn móc vào EB-29B trước khi nó tách ra bay độc lập ngày 23/8/1948. Sau khi Schoch tách ra khỏi máy bay ném bom ở độ cao 20.000 ft (6.096 m), Schoch đã hoàn thành một chuyến bay kéo dài 10 phút với vận tốc đạt khoảng 180 đến 250 mph (200–300 km/h) để thử nghiệm khả năng điều khiển và khả năng cơ động của máy bay. Khi kết thúc chuyến bay thử nghiệm và cố gắng trở về máy bay mẹ, XF-85 trở nên cực kỳ nhạy cảm với những nhiễu động từ máy bay mẹ, cũng như bị ảnh hưởng bởi đệm khí do 2 máy bay khi bay gần nhau tạo ra. Khi gặp hiện tượng này phi công cần kiên trì và điều chỉnh nhẹ van tiết lưu và lựa theo chiều chuyển động của không khí. Sau 3 lần thử móc và xà treo, Schoch tính sai hướng tiếp cận và xà treo đã đập mạnh vào vòm kính buồng lái khiến nó vỡ ra làm mũ bảo hiểm và kính chắn của Schoch bị rách, vỡ. Schoch cố gắng cứu mẫu thử bằng cách hạ cánh trượt bụng tại khu vực hạ cánh khẩn cắp ở Muroc.  Tất cả các chuyến bay thử nghiệm bị đình chỉ trong 7 tuần, trong lúc đó XF-85 được sửa chữa và cải tiến. Schoch sử dụng thời gian này tham gia chương trình thử nghiệm với loại tiêm kích Lockheed P-80 Shooting Star.
+Sau khi hoàn thiện thêm nhiều bộ phận, điều chỉnh kiểu dáng khí động, 2 chuyến bay thử nghiệm nữa được thực hiện trước khi Schoch thực hiện thành công việc tách ra và trở lại máy bay mẹ vào 14/10/1948. Trong chuyến bay thử nghiệm thứ 5 vào ngày 22/10/1948, Schoch một lần nữa lại thấy khó khăn khi cố móc chiếc XF-85 vào xà treo trên máy bay mẹ, Schoch đã cố gắng thử móc vào xà 4 lần nhưng đều thất bại, làm cho chiếc móc ở mũi của XF-85 bị gãy. Do đó máy bay lại phải hạ cánh khẩn cấp tại Muroc.
+Sau khi mẫu thử thứ nhất được sửa chữa xong, nó cũng tham gia chương trình thử nghiệm, hoàn thành các chuyến bay ghép cùng máy bay mẹ. Trong khi bay, XF-85 Goblin được giữ ổn định, dễ dàng bay, và phục hồi thất tốc, dù các ước lượng vận tốc lớn nhất ban đầu là 648 mph (1.043 km/h) có vẻ hơi lạc quan. Các chuyến bay thử nghiệm đầu tiên cho thấy sự nhiễu loạn đáng kể khi XF-85 tiếp cận với B-29, dẫn đến vệc bổ sung các cánh thăng bằng trên và dưới ở phía sau thân máy bay, cũng như 2 cánh vây ở đầu cánh đề bù đắp cho độ bất ổn định hướng tăng khi XF-85 tiếp cận máy bay mẹ. Tất cả các chuyến bay ban đầu có móc nối gia cố ở vị trí cố định, nhưng khi móc được xếp gọn và rút vào trong thân máy bay mẹ thì sự rung lắc làm tăng thêm khó khăn khi máy bay con cố gắng kết nối với máy bay mẹ. Để giải quyết vấn đề, một lớp bọc khí động nhỏ được thêm vào móc để làm giảm rung lắc khi móc được triển khai và thu hồi. Khi thử nghiệm tiếp tục, trong chuyến bay thử ngày 18/3/1948, Schoch tiếp tục gặp phải khó khăn khi cố gắng kết nối với máy bay ném bom, máy bay bị va đạp và hư hỏng phần ổn định mũi của xà treo, sau đó nó phải hạ cánh khẩn cấp bằng bụng. Sau khi sửa chữa xà treo, Schoch điều khiển mẫu thử đầu tiên bay ngày 8/4/1949, hoàn thành thử nghiệm bay tự do kéo dài 30 phút, nhưng sau 3 lần cố gắng kết nối với máy bay mẹ, Schoch đành phải từ bỏ và lại phải hạ cánh khẩn cấp bằng bụng ở Muroc. 
+Nhận thấy các vấn đề nảy sinh trong các chuyến bay thử nghiệm, McDonnell xem xét lại chương trình và đề xuất một phát triển mới dựa trên thiết kế thông thường có thể đạt vận tốc Mach 0,9, sử dụng thiết kế cánh xuôi sau 35° và cánh tam giác. McDonnell cũng xem xét tăng chiều dài của móc trên máy bay ném bom. Trước khi bất kỳ cải tiến nào được thực hiện trên XF-85, hay các nghiên cứu thiết kế tiếp tục được làm thì Không quân Hoa Kỳ (USAF)  đã hủy bỏ chương trình XF-85 vào ngày 24/10/1949.
+Có 2 lý do chính dẫn tới việc hủy bỏ chương trình XF-85. Hiệu năng kém của XF-85 trong thử nghiệm bay như các tính năng kỹ chiến thuật kém máy bay tiêm kích phản lực cùng thời, yêu cầu phi công có kinh nghiệm trong khi ghép nối với máy bay mẹ, đây là một thiếu sót không thể sửa chữa được. Việc phát triển khả năng tiếp nhiên liệu trên không cho các máy bay tiêm kích thông thường, giúp máy bay tiêm kích có thể hộ tống máy bay ném bom cũng là một yếu tố làm chương trình bị hủy bỏ. 2 chiếc Goblin tổng cộng bay 7 lần, thời gian bay là 2 giờ 19 phút, chỉ có 3 lần bay tự do máy bay ghép nối thành công với máy bay mẹ. Schoch là phi công duy nhất từng loại máy bay này.
+
+
+== Phát triển xa hơn ==
+Dù đề án XF-85 bị hủy bỏ, nhưng USAF vẫn tiếp tục theo đổi khái niệm về máy bay con với vai trò máy bay phòng thủ thông qua một loạt các đề án như Đề án MX-106 "Tip Tow", Đề án FICON và Đề án "Tom-Tom", đây là những mẫu máy bay tiêm kích thử nghiệm được gắn vào đầu cánh của máy bay ném bom. Đề án FICON ("fighter conveyor" – người vận chuyển tiêm kích) nổi lên như một đề án hiệu quả giữa sự kết hợp máy bay ném bom Convair GRB-36D và máy bay tiêm kích trinh sát Republic RF-84K Thunderflash, mặc dù vai trò RF-84K đã được thay đổi thành trinh sát chiến lược. Đề án FICON lấy rất nhiều dữ liệu từ đề án chết yểu XF-85 và tham vấn một số đề nghị từ McDonnell. Tổng cộng có 10 chiếc B-36 được chuyển đổi và 25 chiếc tiêm kích trinh sát phục vụ trong Bộ chỉ huy Không quân chiến lược trong giai đoạn 1955-1956, trước khi chúng bị thay thế bởi các máy bay hiệu quả hơn và hệ thống vệ tinh.
+
+
+== Trưng bày ==
+Sau khi chương trình bị chấm dứt, 2 mẫu thử XF-85 được bảo quản trong kho, sau đó được đem tới bảo tàng trưng bày vào năm 1950.
+XF-85 Goblin số seri 46-523, được trưng bày tại Bảo tàng Quốc gia Không quân Hoa Kỳ tại Căn cứ Không quân Wright-Patterson gần Dayton, Ohio. Máy bay được chuyển tới bảo tàng ngày 23/8/1950 là một trong những máy bay thử nghiệm đầu tiên được trưng bày tại Bảo tàng Không quân mới.
+XF-85 Goblin số seri 46-524, được chuyển tới Căn cứ Không quân Norton (gần San Bernardino, California) năm 1950, hiện vẫn đang trong tình trạng hư hỏng sau lần hạ cánh khẩn cấp cuối cùng của nó. Khi bảo tàng đóng cửa và bộ sưu tập bị phân tán, mẫu thử XF-85 thứ hai ở trong tình trạng bị hư hại do không được phục hồi, hiện nó thuộc bộ sưu tập tư nhân Tallmantz ở California. Sau đó Căn cứ Không quân Offutt đã mua lại nó. Hiện giờ nó đã được tân trang lại và được trưng bày ngay gần dưới cánh của một chiếc máy bay ném bom B-36J (số seri 52-2217), tại Bảo tàng Hàng không và Không gian Chiến lược ở Ashland, Nebraska.
+
+
+== Tính năng kỹ chiến thuật ==
+Dữ liệu lấy từ Experimental & Prototype U.S. Air Force Jet Fighters, Boeing, National Museum of the United States Air Force.
+
+
+=== Đặc điểm riêng ===
+Tổ lái: 1
+Chiều dài: 14 ft 10 in (4,5 m)
+Sải cánh: 21 ft 1 in (6,4 m)
+Chiều cao: 8 ft 3 in (2,5 m)
+Diện tích cánh: 90 ft² (8,3 m²)
+Trọng lượng rỗng: 3.740 lb (1.700 kg)
+Trọng lượng có tải: 4.550 lb (2.050 kg)
+Trọng lượng cất cánh tối đa: 5.600 lb (2.500 kg)
+Động cơ: 1 động cơ phản lực Westinghouse XJ34-WE-22, lực đẩy 3.000 lbf (13,3 kN)
+
+
+=== Hiệu suất bay ===
+Vận tốc cực đại: 650 mph (1.069 km/h – ước lượng)
+Trần bay: 48.000 ft (14.600 m)
+Vận tốc lên cao: 12.500 ft/phút (3.800 m/ phút)
+Lực nâng của cánh: 51 lb/ft² (247 kg/m²)
+Lực đẩy/trọng lượng: 0,66
+
+
+=== Vũ khí ===
+4 khẩu súng máy M2 Browning 0.50 in (12,7 mm)
+
+
+== Xem thêm ==
+
+
+=== Máy bay có tính năng tương đương ===
+Republic RF-84K Thunderflash
+
+
+== Tham khảo ==
+Ghi chú
+
+Chú thích
+
+Tài liệu
+
+
+== Liên kết ngoài ==
+SR-71 Online – XF-85 Goblin on Display
+Goleta Air and Space Museum: Flying Aircraft Carriers of the USAF: McDonnell XF-85 Goblin

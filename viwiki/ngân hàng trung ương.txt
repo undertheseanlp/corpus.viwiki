@@ -1,0 +1,40 @@
+Ngân hàng trung ương (có khi gọi là ngân hàng dự trữ, hoặc cơ quan hữu trách về tiền tệ) là cơ quan đặc trách quản lý hệ thống tiền tệ của quốc gia/nhóm quốc gia/vùng lãnh thổ và chịu trách nhiệm thi hành chính sách tiền tệ. Mục đích hoạt động của ngân hàng trung ương là ổn định giá trị của tiền tệ, ổn định cung tiền, kiểm soát lãi suất, cứu các ngân hàng thương mại có nguy cơ đổ vỡ. Hầu hết các ngân hàng trung ương thuộc sở hữu của Nhà nước, nhưng vẫn có mức độ độc lập nhất định đối với Chính phủ.
+
+
+== Sự ra đời của ngân hàng trung ương ==
+Ngân hàng trung ương ra đời chính thức đầu tiên ở châu Âu, vào thế kỷ 17. Khi ấy, tiền mặt lưu hành vẫn chủ yếu dưới dạng vàng và bạc, tuy rằng, các tờ cam kết thanh toán (promises to pay) đã được sử dụng rộng rãi như là những biểu hiện của giá trị ở cả Châu Âu và Châu Á. Ngược lại 500 năm trước đấy, Tổ chức Hiệp sĩ dòng Đền (Knight Templar) thời Trung Cổ sử dụng một cơ chế có thể nói là hình mẫu đầu tiên của Ngân hàng trung ương. Các giấy tờ cam kết thanh toán của họ được chấp nhận rộng rãi, và nhiều người cho rằng các hoạt động này đặt nền tảng cơ bản cho hệ thống ngân hàng hiện đại. Cùng thời gian đó, Thành Cát Tư Hãn phát hành tiền giấy ở Trung Hoa, và áp đặt sử dụng loại tiền này bằng bạo lực nhằm thu giữ vàng bạc.
+Ngân hàng trung ương đầu tiên là Ngân hàng Thụy Điển (Bank of Sweden) năm 1668 với sự giúp đỡ của các doanh nhân Hà Lan. Ngân hàng Anh (Bank of England) ra đời tiếp sau đó năm 1694 bởi doanh nhân người Scotland là William Paterson tại London theo yêu cầu của chính phủ Anh với mục đích tài trợ cuộc nội chiến lúc đó. Cục Dự trữ Liên bang của Mỹ được thành lập theo yêu cầu của Quốc hội tại đạo luật mang tên hai nghị sĩ đệ trình là Glass và Owen (Glass-Owen Bill). Tổng thống Woodrow Wilson ký đạo luật ngày 23 tháng 12 năm 1913.
+Từ đầu thế kỷ XX, các ngân hàng trung ương đã hình thành tuy nhiên các ngân hàng này vẫn thuộc sở hữu tư nhân, sau cuộc khủng hoảng 1929-1933 thì mới trở thành ngân hàng sở hữu của nhà nước.
+Ngân hàng Trung ương Trung Quốc (Tiếng Anh là People’s Bank of China – Ngân hàng Nhân dân Trung Hoa) bắt đầu các chức năng ngân hàng trung ương năm 1979 cùng với chính sách cải cách kinh tế. Vai trò ngân hàng trung ương của nó được đẩy mạnh năm 1989 khi đất nước này chuyển đổi sâu sắc hơn sang nền kinh tế hướng xuất khẩu. Tới năm 2000, Ngân hàng Trung ương Trung Quốc đã là một ngân hàng trung ương về mọi mặt, với cơ cấu và hoạt động có tham khảo Ngân hàng Trương ương châu Âu vốn là mô hình ngân hàng trung ương mới nhất, chi phối ngân hàng trung ương của các quốc gia thành viên mà vẫn để quyền quản lý kinh tế quốc gia cho các ngân hàng đó.
+
+
+== Chức năng của ngân hàng trung ương ==
+Ngân hàng trung ương liên quan đến ba chức năng cơ bản, đó là phát hành tiền tệ, ngân hàng của các tổ chức tín dụng, ngân hàng của Chính phủ, quản lý nhà nước về tiền tệ và hoạt động ngân hàng. Tuy nhiên, không phải ngân hàng trung ương nào cũng mang đầy đủ 3 chức năng này.
+
+
+=== Phát hành tiền tệ ===
+Ở phần lớn các nước, ngân hàng trung ương là cơ quan duy nhất có quyền phát hành tiền tệ. Ở một số nước khác, ngân hàng trung ương là cơ quan duy nhất phát hành tiền giấy, còn tiền kim loại với tư cách là tiền bổ trợ thì do Chính phủ phát hành. Cục Dự trữ Liên bang – ngân hàng trung ương của Hoa Kỳ – không có chức năng phát hành tiền, thay vào đó, Bộ Tài chính đảm nhiệm chức năng này. Cũng có thông tin cho rằng Chính phủ Mỹ không có quyền phát hành đồng Đô-la, mà là do Cục Dự trữ Liên bang phát hành. Nhưng hiện nay, đã có rất nhiều cuộc nghiên cứu, và họ đã phát hiện ra, thực chất Cục Dự trữ Liên bang Mỹ mới có quyền phát hành tiền tệ, Chính phủ Mỹ không có quyền này.
+
+
+=== Ngân hàng của các ngân hàng ===
+Ngân hàng trung ương thực hiện công việc tái chiết khấu các hối phiếu đối với các tổ chức tín dụng, cấp vốn thông qua cho vay đối với các tổ chức này (đồng thời qua đây kiểm soát lãi suất). (Xem thêm Chính sách lãi suất ngân hàng)
+Ngân hàng trung ương còn mua và bán các giấy tờ có giá, qua đó điều tiết lượng vốn trên thị trường. (Xem thêm Nghiệp vụ thị trường mở)
+Ngân hàng trung ương có quyền yêu cầu các ngân hàng thương mại mở tài khoản tại chỗ mình và các ngân hàng phải gửi vào tài khoản của họ 1 lượng tiền nhất định. Thông thường, lượng tiền này được quy định tương đương với 1 tỷ lệ nào đó tiền gửi vào ngân hàng thương mại, gọi là tỷ lệ dự trữ bắt buộc.
+Trong trường hợp có tổ chức tín dụng gặp nguy cơ đổ vỡ làm ảnh hưởng đến cả hệ thống tài chính của quốc gia, ngân hàng trung ương sẽ tái cấp vốn cho tổ chức tín dụng đó để cứu nó. Vì thế, ngân hàng trung ương được gọi là người cho vay cuối cùng (hay người cho vay cứu cánh).
+
+
+=== Ngân hàng của Chính phủ ===
+Ở nhiều nước, ngân hàng trung ương là người quản lý tiền nong cho Chính phủ. Chính phủ sẽ mở tài khoản giao dịch không lãi suất tại ngân hàng trung ương. Tuy nhiên, ở một số nước, chẳng hạn như ở Việt Nam, chức năng này do kho bạc đảm nhiệm.
+Ngân hàng trung ương còn làm đại diện cho Chính phủ khi can thiệp vào thị trường ngoại hối (xem Can thiệp tỷ giá).
+
+
+== Tính độc lập của ngân hàng trung ương ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+
+== Xem thêm ==

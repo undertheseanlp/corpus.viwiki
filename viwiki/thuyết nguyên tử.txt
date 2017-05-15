@@ -1,0 +1,42 @@
+Trong hóa học và vật lý học, thuyết nguyên tử là một lý thuyết khoa học về bản chất của vật chất, cho rằng vật chất bao gồm các đơn vị rời rạc được gọi là các nguyên tử. Nó bắt đầu như là một khái niệm triết học trong Hy Lạp cổ đại và đi vào xu thế chủ đạo trong những năm đầu thế kỷ 19 khi những khám phá trong lĩnh vực hóa học cho thấy rằng vật chất thực sự hoạt động như thể nó được tạo thành từ các nguyên tử.
+Các nguyên tử từ xuất phát từ tính từ atomos trong tiếng Hy Lạp cổ đại, có nghĩa là "không thể chia cắt được". Các nhà hóa học thế kỷ 19 bắt đầu sử dụng thuật ngữ này liên hệ với số lượng ngày càng tăng của các yếu tố hóa học không thể rút gọn. Trong khi dường như thích hợp, khoảng đầu thế kỷ 20, thông qua các thí nghiệm khác nhau với điện từ, phóng xạ, các nhà vật lý đã phát hiện ra rằng cái gọi là "nguyên tử không thể chia cắt được" thực sự là một tập đoàn các hạt dưới nguyên tử khác nhau (chủ yếu là electron, proton và neutron) có thể tồn tại độc lập với nhau. Trong thực tế, trong môi trường khắc nghiệt nhất định, chẳng hạn như ở các ngôi sao neutron, nhiệt độ và áp suất cực cao ngăn cản không cho các nguyên tử tồn tại. Kể từ khi các nguyên tử được tìm thấy có thể phân chia được, các nhà vật lý sau này phát minh ra thuật ngữ "hạt cơ bản" để thay cho cụm từ "không thể chia cắt được", mặc dù không thể phá hủy, các bộ phận của một nguyên tử. Các lĩnh vực khoa học mà nghiên cứu các hạt dưới nguyên tử là vật lý hạt, và chính trong lĩnh vực này mà các nhà vật lý hy vọng sẽ khám phá ra bản chất cơ bản thực sự của vấn đề.
+
+
+== Lịch sử ==
+
+
+=== Nguyên tử luận triết học ===
+
+Ý tưởng cho rằng vật chất được tạo thành từ các đơn vị rời rạc là một trong những lý thuyết rất cũ, xuất hiện trong nhiều nền văn hóa cổ đại như Hy Lạp và Ấn Độ. Tuy nhiên, những ý tưởng này đã được thiết lập trong lý luận của triết học và thần học hơn là nghiên cứu và thử nghiệm. Bởi vì điều này, họ không thể thuyết phục được tất cả mọi người, vì vậy nguyên tử luận chỉ là một trong một số các lý thuyết cạnh tranh về bản chất của vấn đề. Mãi cho đến thế kỷ 19, các ý tưởng đã được chấp nhận và tinh chế bởi các nhà khoa học, là ngành khoa học nở hóa học sản xuất những khám phá rằng có thể dễ dàng được giải thích bằng cách sử dụng các khái niệm về nguyên tử.
+
+
+=== Dalton ===
+
+Gần cuối thế kỷ 18, hai định luật về phản ứng hóa học nổi lên mà không đề cập đến khái niệm về một lý thuyết nguyên tử. Định luật đầu tiên là định luật bảo toàn khối lượng của Antoine Lavoisier năm 1789, cho rằng tổng khối lượng trong một phản ứng hóa học vẫn không đổi (có nghĩa là, các chất phản ứng có khối lượng tương đương các sản phẩm). Định luật thứ hai là định luật tỷ lệ nhất định. Đầu tiên đã được chứng minh bởi nhà hóa học người Pháp Joseph Louis Proust năm 1799, định luật này cho rằng nếu một hợp chất được chia thành các yếu tố cấu thành của nó, sau đó khối lượng của các thành phần sẽ luôn luôn có các tỷ lệ giống nhau, không phụ thuộc vào số lượng hoặc nguồn chất ban đầu.
+John Dalton đã nghiên cứu và mở rộng công trình trước đó và phát triển định luật bội số tỷ lệ: nếu hai yếu tố có thể được kết hợp để tạo thành một số hợp chất khả dĩ, thì các tỷ lệ khối lượng của các yếu tố thứ hai mà kết hợp với một khối lượng nhất định của đầu tiên phần tử sẽ là các tỷ lệ của toàn bộ các số lượng nhỏ. Ví dụ: Proust đã nghiên cứu các oxit thiếc và thấy rằng khối lượng của chúng hoặc là 88,1% thiếc và 11,9% ô xy hoặc 78,7% thiếc và 21,3% oxy (đây là những oxit thiếc (II) và đioxit thiếc). Dalton ghi nhận từ các tỷ lệ phần trăm 100g thiếc sẽ kết hợp hoặc với 13.5g hoặc 27g oxy; 13,5 và 27 hình tỷ lệ 1: 2. Dalton thấy rằng một lý thuyết nguyên tử của vật chất có thể giải thích một cách súc tích mô hình phổ biến này trong hóa học. Trong trường hợp của các oxit thiếc của Proust, một nguyên tử thiếc sẽ kết hợp với một hoặc hai nguyên tử oxy.
+Dalton cũng tin rằng thuyết nguyên tử cũng có thể giải thích tại sao nước hấp thụ các loại khí khác nhau theo tỷ lệ khác nhau - ví dụ, ông phát hiện rằng nước hấp thụ carbon dioxide tốt hơn nhiều so nó hấp thụ nitơ. Dalton đưa ra giả thuyết này là do sự khác biệt về khối lượng và độ phức tạp của. các hạt tương ứng của các khí. Thật vậy, các phân tử carbon dioxide (CO2) là nặng hơn và lớn hơn so với các phân tử nitơ (N2)
+Dalton đề xuất rằng mỗi nguyên tố hóa học bao gồm các nguyên tử loại đơn nhất và duy nhất, và mặc dù chúng không thể bị thay đổi hoặc phá hủy bằng các phương tiện hóa học, chúng có thể kết hợp để tạo thành các cấu trúc phức tạp hơn (các hợp chất hóa học). Điều này đánh dấu sự thuyết thực sự khoa học đầu tiên của nguyên tử, kể từ Dalton đạt kết luận của mình bằng cách thử nghiệm và kiểm tra các kết quả trong một thời trang thực nghiệm.
+
+Năm 1803 Dalton đã trình bày bằng phát biểu danh sách đầu tiên của ông về khối lượng nguyên tử tương đối cho một số chất. Bài viết này đã được xuất bản vào năm 1805, nhưng ông đã không nói chính xác làm thế nào để ông có được những con số này. Phương pháp này lần đầu tiên được tiết lộ vào năm 1807 bởi người quen của ông Thomas Thomson, trong ấn bản thứ ba của cuốn sách giáo khoa của Thomson, "Một hệ thống của Hóa học". Cuối cùng, Dalton công bố một bài viết đầy đủ trong cuốn sách của mình, "Một hệ thống mới của hoá chất Triết học", 1808 và 1810.
+Dalton ước tính khối lượng nguyên tử theo tỷ lệ khối lượng, trong đó chúng kết hợp với các nguyên tử hydro lấy được xem là con số một. Tuy nhiên, Dalton đã không tưởng tượng rằng có một số yếu tố nguyên tử tồn tại trong phân tử - ví dụ: oxy tinh khiết tồn tại dưới dạng O2. Ông cũng lầm tưởng rằng các hợp chất đơn giản giữa hai nguyên tố luôn luôn là một nguyên tử của mỗi bên (do đó ông cho rằng nước là HO, không phải là H2O). Điều này, cùng với sự thô sơ của thiết bị ông sử dụng, đã khiến các kết quả của ông bị thiếu sót. Ví dụ, vào năm 1803 ông tin rằng các nguyên tử oxy nặng hơn 5,5 lần so với các nguyên tử hydro, bởi vì trong nước ông đo 5,5 gram oxy cho mỗi 1 gram hydro và tin tưởng rằng công thức đối với nước là HO. Thông qua dữ liệu tốt hơn, trong năm 1806, ông kết luận rằng trọng lượng nguyên tử oxy thực sự phải là 7 chứ không phải là 5,5, và ông giữ trọng lượng này cho phần còn lại của cuộc đời mình. Những người khác lúc này đã kết luận rằng các nguyên tử oxy phải cân nhắc 8 so với hydro bằng 1, nếu một giả định công thức của Dalton cho các phân tử nước (HO), hoặc 16 nếu một giả định công thức nước hiện đại (H2O).
+
+
+=== Mẫu hành tinh nguyên tử Rutherford ===
+Năm 1910, nhà vật lý người New Zealand Ernest Rutherford cho rằng các điện tích dương của nguyên tử đã được tìm thấy chủ yếu ở trung tâm của nó, trong hạt nhân và các electron (e-) xoay xung quanh nó.
+Rutherford cho thấy điều này khi ông sử dụng một nguồn bức xạ alpha (từ helium) để bắn vào các tấm vàng rất mỏng, được bao bọc bởi một chụp đèn kẽm sunfua tạo ra ánh sáng nhìn thấy được khi bị chiếu xạ tia alpha. Thí nghiệm này được gọi là thí nghiệm Geiger-Marsden hoặc thí nghiệm lá vàng.
+Đến giai đoạn này, các yếu tố chính của nguyên tử là rõ ràng, cộng với việc khám phá ra rằng các nguyên tử của một nguyên tố có thể xảy ra trong các đồng vị. Đồng vị khác nhau về số lượng các nơtron có trong hạt nhân. Mặc dù mô hình này đã được hiểu rõ, vật lý hiện đại đã phát triển hơn nữa, và những ý tưởng ngày nay không thể được thực hiện dễ dàng để hiểu được.
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Bernard Pullman (1998) The Atom in the History of Human Thought, trans. by Axel Reisinger. Oxford Univ. Press.
+Eric Scerri (2007) The Periodic Table, Its Story and Its Significance, Oxford University Press, New York.
+Charles Adolphe Wurtz (1881) The Atomic Theory, D. Appleton and Company, New York.
+
+
+== Liên kết ngoài ==
+Tiếng Anh
+Atomism by S. Mark Cohen.
+Atomic Theory - detailed information on atomic theory with respect to electrons and electricity.

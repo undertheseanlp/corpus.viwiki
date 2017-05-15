@@ -1,0 +1,148 @@
+Mã số tiêu chuẩn quốc tế cho xuất bản phẩm nhiều kỳ hay viết tắt là ISSN (tiếng Anh: International Standard Serial Number) là một dãy số độc nhất gồm tám chữ số, được dùng để nhận dạng một xuất bản phẩm nhiều kỳ dạng giấy in hoặc điện tử như tạp chí định kỳ, tạp chí chuyên khảo, báo, bản tin, xuất bản phẩm thông tin, niên giám, báo cáo thường niên, kỷ yếu hội nghị hay hội thảo, phụ trương hay phụ bản của các xuất bản phẩm nhiều kỳ. Nhiều xuất bản phẩm có ở cả hai dạng in và điện tử nên được ISSN xếp vào hai loại là: ISSN in (p-ISSN) và ISSN điện tử (e-ISSN hay eISSN). Hệ thống ISSN được phác thảo như một tiêu chuẩn quốc tế ISO vào năm 1971 và được ấn hành với tên gọi ISO 3297 vào năm 1975. Tiểu ban ISO TC 46/SC 9 là cơ quan quản lý tiêu chuẩn này.
+
+
+== Định dạng ==
+ISSN gồm tám chữ số, được phân cách làm hai phần (mỗi phần gồm bốn chữ số) bởi một dấu gạch nối. Chữ số cuối (có thể là một trong các chữ số từ 0 đến 9 hoặc chữ cái X) là chữ số kiểm tra. Ví dụ, ISSN của báo Tuổi Trẻ là 0868-3999, trong đó chữ số kiểm tra là 9.
+Có thể dùng thuật toán sau để tính ra chữ số kiểm tra:
+Lấy mỗi chữ số trong bảy chữ số đầu của ISSN nhân với số chỉ vị trí của nó trong dãy số (tính từ bên phải sang), sau đó tính tổng các tích này. Trong ví dụ ISSN nêu trên, bảy chữ số đầu là 0, 8, 6, 8, 3, 9 và 9. Số chỉ vị trí của chúng (tính từ bên phải sang) lần lượt là 8, 7, 6, 5, 4, 3, và 2. Như vậy:
+
+  
+    
+      
+        0
+        ⋅
+        8
+        +
+        8
+        ⋅
+        7
+        +
+        6
+        ⋅
+        6
+        +
+        8
+        ⋅
+        5
+        +
+        3
+        ⋅
+        4
+        +
+        9
+        ⋅
+        3
+        +
+        9
+        ⋅
+        2
+      
+    
+    {\displaystyle 0\cdot 8+8\cdot 7+6\cdot 6+8\cdot 5+3\cdot 4+9\cdot 3+9\cdot 2}
+  
+
+  
+    
+      
+        =
+        0
+        +
+        56
+        +
+        36
+        +
+        40
+        +
+        12
+        +
+        27
+        +
+        18
+      
+    
+    {\displaystyle =0+56+36+40+12+27+18}
+  
+
+  
+    
+      
+        =
+        189
+      
+    
+    {\displaystyle =189}
+  .
+
+Tiếp theo, lấy mô-đun 11 của tổng này, tức là lấy tổng này chia cho 11 để tìm số dư.
+
+  
+    
+      
+        
+          
+            189
+            11
+          
+        
+        =
+        17
+      
+    
+    {\displaystyle {\frac {189}{11}}=17}
+   dư 2
+
+Nếu là phép chia hết (số dư bằng 0) thì chữ số kiểm tra sẽ là 0. Nếu phép chia có dư thì lấy 11 trừ đi số dư để tính ra chữ số kiểm tra, trong ví dụ này là:
+
+  
+    
+      
+        11
+        −
+        2
+        =
+        9
+      
+    
+    {\displaystyle 11-2=9}
+  
+9 là chữ số kiểm tra.
+
+Chữ X in hoa dùng trong trường hợp chữ số kiểm tra được tính ra là 10.
+Để xác nhận chữ số kiểm tra, lấy từng chữ số trong cả tám chữ số của ISSN rồi nhân với số chỉ vị trí của nó (vẫn tính từ bên phải sang; X tương ứng với giá trị 10). Mô-đun 11 của tổng sẽ bằng 0 nếu tính đúng.
+
+
+== Cấp mã ==
+Mã ISSN được cấp phát bởi một hệ thống các Trung tâm Quốc gia ISSN, thường là đóng tại các thư viện quốc gia và được phối hợp bởi Trung tâm Quốc tế ISSN ở Paris, Pháp. Trung tâm này là một tổ chức quốc tế thành lập năm 1974 qua một thỏa thuận giữa UNESCO và chính phủ Pháp. Trung tâm có một cơ sở dữ liệu gọi là ISDS Register (International Serials Data System) hay ISSN Register, chứa tất cả ISSN được cấp trên thế giới. Đầu năm 2011, cơ sở dữ liệu này lưu trữ 1.623.566 ISSN.
+
+
+== So sánh với các mã nhận dạng khác ==
+ISSN và ISBN giống nhau về mặt ý tưởng, chỉ khác ở chỗ ISBN là dành để nhận diện sách. Đi kèm với ISSN áp dụng cho toàn bộ xuất bản phẩm nhiều kỳ thì ISBN cũng có thể được cấp cho một kỳ cụ thể của xuất bản phẩm đó. Không giống như ISBN, ISSN là mã nhận dạng gắn liền với nhan đề của một xuất bản phẩm nhiều kỳ và không chứa thông tin về nhà xuất bản hay nơi xuất bản. Vì lý do này mà số ISSN phải được cấp mới mỗi khi xuất bản phẩm có sự thay đổi lớn trong nhan đề.
+Do ISSN áp dụng cho toàn bộ xuất bản phẩm nên người ta xây dựng thêm mã SICI (Serial Item and Contribution Identifier) để tham chiếu một tập, một bài viết cụ thể hay một thành phần nhận dạng (ví dụ mục lục).
+
+
+== Tính sẵn có ==
+Muốn tra cứu ISSN Register thì phải đăng ký do cơ sở dữ liệu này không có sẵn trên mạng Internet. Có một số cách để công chúng nhận dạng và xác nhận mã ISSN.
+Bản in của một xuất bản phẩm nhiều kỳ sẽ in kèm mã ISSN trong phần thông tin về xuất bản phẩm.
+Đa số các website của các xuất bản phẩm nhiều kỳ đều có kèm thông tin về ISSN
+Các trang web không chính thức trên mạng có thể cung cấp mã ISSN. Có thể tìm trực tuyến trên mạng mã ISSN hoặc nhan đề xuất bản phẩm.
+WorldCat cho phép tìm kiếm catalog của họ bằng mã ISSN thông qua cú pháp "issn:"+ mã ISSN trong ô tìm kiếm. Có thể truy cập trực tiếp một bản ghi về ISSN trên WorldCat bằng cách vào web http://www.worldcat.org/ISSN/, ví dụ http://www.worldcat.org/ISSN/1021-9749. Kết quả sẽ cho biết liệu có thư viện WorldCat nào trên thế giới có xuất bản phẩm với số ISSN do người dùng cung cấp hay là không.
+
+
+== Sử dụng URN ==
+Một mã ISSN có thể mã hóa thành Tên gọi Tài nguyên Đồng nhất (Uniform Resource Name - URN) bằng cách thêm tiếp đầu ngữ urn vào, tức là "urn:ISSN:". Ví dụ tạp chí Rail có thể được tham chiếu là "urn:ISSN:1534-0481". Không gian tên URN có sự phân biệt VIẾT HOA-viết thường, và không gian tên ISSN thì đều viết in hoa. Nếu chữ số kiểm tra là "X" thì vẫn viết hoa khi mã hóa thành URN.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Tìm kiếm xuất bản phẩm theo ISSN
+Danh sách 63800 ISSN và nhan đề tương ứng
+Trung tâm Quốc tế ISSN
+Trang web của một số Trung tâm Quốc gia ISSN
+How U.S. publishers can obtain an ISSN (bằng tiếng Anh), United States: Library of Congress 
+ISSN in Canada (bằng tiếng Anh), Library and Archives Canada 
+Đăng ký ISSN ở Anh (bằng tiếng Anh), British Library 
+Đăng ký ISSN ở Pháp (bằng tiếng Pháp), Bibliothèque nationale de France 
+Đăng ký ISSN ở Đức (bằng tiếng Đức), Deutsche Nationalbibliothek 
+Đăng ký và cấp mã số chuẩn quốc tế cho xuất bản phẩm nhiều kỳ (ISSN), Cục Thông tin Khoa học và Công nghệ Quốc gia, Bộ Khoa học và Công nghệ (Việt Nam)

@@ -1,0 +1,132 @@
+Sắt là tên một nguyên tố hóa học trong bảng tuần hoàn nguyên tố có ký hiệu Fe và số hiệu nguyên tử bằng 26. Nằm ở phân nhóm VIIIB chu kỳ 4. Sắt là nguyên tố có nhiều trên Trái Đất, cấu thành lớp vỏ ngoài và trong của lõi Trái Đất. Sắt, Côban (Co) và Niken (Ni) được biết là 2 nguyên tố cuối cùng có thể tạo thành qua tổng hợp ở nhân sao (hình thành qua phản ứng hạt nhân ở tâm các vì sao) mà không cần phải qua một vụ nổ siêu tân tinh hay các biến động lớn khác. Do đó sắt và Niken khá dồi dào trong các thiên thạch kim loại và các hành tinh lõi đá (như Trái Đất, Sao Hỏa).
+
+
+== Thuộc tính ==
+M,6%) tạo ra Trái Đất; sự tập trung của sắt trong các lột nguyên tử sắt điển hình có khối lượng gấp 56 lần khối lượng một nguyên tử hiđrô điển hình. Sắt là kim loại phổ biến nhất, và người ta cho rằng nó là nguyên tố phổ biến thứ 10 trong vũ trụ. Sắt cũng là nguyên tố phổ biến nhất (theo khối lượng, 34 lớp khác nhau của Trái Đất dao động từ rất cao ở lõi bên trong tới khoảng 5% ở lớp vỏ bên ngoài; có thể phần lõi của Trái Đất chứa các tinh thể sắt mặc dù nhiều khả năng là hỗn hợp của sắt và niken; một khối lượng lớn của sắt trong Trái Đất được coi là tạo ra từ trường của nó. Ký hiệu của sắt Fe là từ viết tắt của ferrum, từ Latinh để chỉ sắt.
+Sắt là kim loại được tách ra từ các mỏ quặng sắt, và rất khó tìm thấy nó ở dạng tự do. Để thu được sắt tự do, các tạp chất phải được loại bỏ bằng phương pháp khử hóa học. Sắt được sử dụng trong sản xuất gang và thép, đây là các hợp kim, là sự hòa tan của các kim loại khác (và một số á kim hay phi kim, đặc biệt là cacbon).
+Hạt nhân của sắt có năng lượng liên kết cao nhất, vì thế nó là nguyên tố nặng nhất được sản xuất trong các phản ứng nhiệt hạch và là nhẹ nhất trong phản ứng phân rã hạt nhân. Các ngôi sao có khối lượng lớn khi gần cháy hết nhiên liệu hiđrô, sẽ bắt đầu các chuỗi phản ứng hạt nhân tạo ra các chất có khối lượng nguyên tử tăng dần, bao gồm cả sắt, trước khi bùng nổ thành các siêu tân tinh.
+Các mô hình vũ trụ trong vũ trụ mở dự đoán rằng có một giai đoạn ở đó do kết quả của các phản ứng nhiệt hạch và phân hạch chậm lại, mọi thứ sẽ trở thành sắt.
+
+
+=== Đặc điểm cơ học ===
+Các đặc điểm cơ học của sắt và các hợp kim của nó có thể được xác định bằng nhiều thí nghiệm khác nhau, như thử nghiệm Brinell, thử nghiệm Rockwell và thử nghiệm độ cứng Vickers. Các dữ liệu đối với sắt rất phù hợp trong việc sử dụng nó để so hiệu chỉnh các đo đạc hoặc so sánh các thử nghiệm. Tuy nhiên, các đặc điểm cơ học của sắt cũng bị ảnh hưởng đáng kể bởi độ tinh khiết của mẫu: các tinh thể sắt riêng lẻ nguyên chất dùng cho mục đích nghiên cứu thực sự là mềm hơn nhôm, và sắt sản xuất trong công nghiệp tinh khiết nhất (99,99%) có độ cứng 20–30 Brinell. Việc tăng hàm lượng cacbon trong sắt sẽ làm tăng đáng kể độ cứng và độ bền kéo của sắt. Độ cứng lớn nhất của 65 Rc đạt được khi hàm lượng cacbon là 0,6%, mặc dù loại này làm cho kim loại có độ bền kéo thấp.
+
+
+=== Sơ đồ pha và thù hình ===
+
+Sắt là một đại diện ví dụ cho tính chất thù hình của kim loại. Có ít nhất 4 dạng thù hình của sắt gồm α, γ, δ, và ε; ở áp suất rất cao, một vài bằng chứng thực nghiệm còn tranh cãi cho thấy sự tồn tại của pha ổn định β ở áp suất và nhiệt độ rất cao.
+
+Khi sắt nóng chảy nguội đi, nó kết tinh ở 1538 °C ở dạng thù hình δ, dạng này có cấu trúc tinh thể lập phương tâm khối (bcc). Khi nó nguội nhiều hơn cấu trúc tinh thể của nó chuyển sang dạng lập phương tâm mặt (fcc) ở 1394 °C, khi đó nó có ở dạng sắt γ, hay austenit. Ở 912 °C cấu trúc tinh thể lại chuyển sang dạng bcc là sắt α, hay ferrit, và ở 770 °C (điểm Curie, Tc) sắt trở thành sắt từ. Khi sắt đi qua điểm Curie sẽ không có sự thay đổi cấu trúc tinh thể, nhưng có sự thay đổi về "cấu trúc domain", ở đây mỗi domain chứa các nguyên tử sắt với các spin electron cụ thể. Ở sắt chưa bị từ hòa, tất cả các spin electron của các nguyên tử bên trong một domain có cùng hướng; các domain kề bên chỉ các hướng khác nhau và do đó triệt tiêu nhau. Đối với sắt bị từ hóa, các spin electron của tất cả các domain đều được xếp cùng hướng, vì vậy các hiệu ứng từ của các domain lân cận tăng cường lẫn nhau. Mặc dù mỗi domain chứa hàng tỉ nguyên tử, chúng rất nhỏ với bề rộng chỉ khoảng 10 micromet. Ở áp suất trên 10 GPa và nhiệt độ hàng trăm K hoặc thấp hơn, sắt α chuyển thành cấu trúc sáu phương kết chặt (hcp), hay còn gọi là sắt ε; pha γ có nhiệt độ cao hơn cũng biến đổi thành sắt ε, nhưng ở áp suất cao hơn. Pha β, nếu tồn tại, có thể ở áp suất ít nhất 50 GPa và nhiệt độ ít nhất 1500 K; nó được cho là có cấu trúc trực thoi hoặc hcp kép.
+
+
+== Lịch sử ==
+Các vật dụng bằng sắt có niên đại lớn hiếm hơn các vật dụng làm bằng vàng hay bạc do tính dễ ăn mòn của sắt. Những hạt là từ sắt thiên thạch năm 3500 TCN hoặc sớm hơn được G. A. Wainwright tìm thấy ở Gerzah, Ai Cập. Các hạt chứa 7,5% niken, là một dấu hiệu về nguồn gốc thiên thạch vì sắt được phát hiện trong vỏ Trái Đất có rất ít hoặc không có thành phần niken. Sắt thiên thạch có chất lượng cao do nguồn gốc của nó từ vũ trụ và thường được dùng làm vũ khí và các dụng cụ hoặc các mẫu vật được đặt trong các nhà thờ. Các vật dùng có thể làm từ sắt bởi những người Ai Cập có tuổi khoảng 3000 đến 2500 TCN. Sắt có lợi thế hơn đồng trong việc làm dụng cụ chiến tranh. Nó cứng hơn và bền hơn đồng, mặc dù dễ bị rỉ sét. Trevor Bryce cho rằng trước khi công nghệ rèn sắt tiến bộ được phát triển ở Ấn Độ, các vũ khí làm từ sắt thiên thạch đã được sử dụng bởi quân đội Mesopotamia trước đó đã chiếm ưu thế trong chiến đấu do dùng hàm lượng cacbon cao.
+Những dấu hiệu đầu tiên về việc sử dụng sắt là ở những người Sumeria và người Ai Cập vào khoảng 4000 năm TCN, các đồ vật nhỏ như mũi giáo và đồ trang trí, đã được làm từ sắt lấy từ các thiên thạch. Vì các thiên thạch rơi từ trên trời xuống nên một số nhà ngôn ngữ học phỏng đoán rằng từ tiếng Anh iron, là từ có cùng nguồn gốc với nhiều ngôn ngữ ở phía bắc và tây châu Âu, có xuất xứ từ tiếng Etruria aisar có nghĩa là "trời".
+Vào khoảng những năm 3000 đến 2000 Trước Công Nguyên (TCN), đã xuất hiện hàng loạt các đồ vật làm từ sắt nóng chảy (phân biệt rõ với sắt từ thiên thạch do thiếu niken trong sản phẩm) ở Lưỡng Hà, Anatolia và Ai Cập. Tuy nhiên, việc sử dụng chúng có lẽ là thuộc về hình thức trong tế lễ, và sắt đã từng là kim loại rất đắt, hơn cả vàng. Trong Illiad, các vũ khí chủ yếu làm từ đồng thau, nhưng các thỏi sắt đã được sử dụng trong buôn bán. Một số nguồn (xem phần tham khảo Cái gì tạo ra thời đại đồ sắt? dưới đây) cho rằng sắt được tạo ra khi đó như sản phẩm đi kèm của việc tinh chế đồng, như là những bọt sắt, và không được tái sản xuất bởi ngành luyện kim khi đó. Vào khoảng năm 1600 đến 1200 TCN, sắt đã được sử dụng nhiều hơn ở Trung Cận Đông, nhưng vẫn chưa thay thế được sự thống trị của đồng thau.
+Trong thời kỳ từ thế kỷ 12 đến thế kỷ 10 TCN, đã có sự chuyển đổi nhanh chóng từ công cụ, vũ khí đồng thau sang sắt ở Trung Cận Đông. Yếu tố quyết định của chuyển đổi này không phải là sự xuất hiện của các công nghệ luyện sắt cao cấp hơn mà là sự cạn kiệt của các nguồn cung cấp thiếc. Thời kỳ chuyển đổi này diễn ra không đồng thời trên thế giới, là dấu hiệu cho thời kỳ văn minh mới được gọi là Thời đại đồ sắt.
+Cùng với việc chuyển đổi từ đồng thau sang sắt là việc phát hiện ra quy trình cacbua hóa, là quy trình bổ sung thêm cacbon vào sắt. Sắt được thu lại như bọt sắt, là hỗn hợp của sắt với xỉ với một ít cacbon và/hoặc cacbua, sau đó nó được rèn và tán phẳng để giải phóng sắt khỏi xỉ cũng như ôxi hóa bớt cacbon, để tạo ra sắt non. Sắt non chứa rất ít cacbon và không dễ làm cứng bằng cách làm nguội nhanh. Người Trung Đông đã phát hiện ra là một số sản phẩm cứng hơn có thể được tạo ra bằng cách đốt nóng lâu sắt non với than củi trong lò, sau đó làm nguội nhanh bằng cách nhúng vào nước hay dầu. Sản phẩm tạo thành có bề mặt của thép, cứng hơn và ít gãy hơn đồng thau, là thứ đang bị thay thế dần.
+Ở Trung Quốc, những đồ vật bằng sắt đầu tiên được sử dụng cũng là sắt lấy từ thiên thạch, các chứng cứ khảo cổ học về các đồ vật làm từ sắt non xuất hiện ở miền tây bắc, gần Tân Cương trong thế kỷ 8 TCN. Các đồ vật làm từ sắt non có cùng quy trình như sắt được làm ở Trung Đông và châu Âu, và vì thế người ta cho rằng chúg được nhập khẩu bởi những người không phải là người Trung Quốc.
+Trong những năm muộn hơn của nhà Chu (khoảng năm 550 TCN), khả năng sản xuất sắt mới đã bắt đầu vì phát triển cao của công nghệ lò nung. Sản xuất theo phương pháp lò nung không khí nóng có thể tạo ra nhiệt độ trên 1300 K, người Trung Quốc bắt đầu sản xuất gang thô và gang đúc.
+Nếu quặng sắt được nung với cacbon tới 1420–1470 K, một chất lỏng nóng chảy được tạo ra, là hợp kim của khoảng 96,5% sắt và 3,5% cacbon. Sản phẩm này cứng, có thể đúc thành các đồ phức tạp, nhưng dễ gãy, trừ khi nó được phi-cacbua hóa để loại bớt cacbon. Phần chủ yếu của sản xuất sắt từ thời nhà Chu trở đi là gang đúc. Sắt, tuy vậy vẫn là sản phẩm thông thường, được sử dụng bởi những người nông dân trong hàng trăm năm, và không có ảnh hưởng đáng kể đến diện mạo của Trung Quốc cho đến tận thời kỳ nhà Tần (khoảng năm 221 TCN).
+Việc sản xuất gang đúc ở châu Âu bị chậm trễ do các lò nung chỉ có thể tạo ra nhiệt độ khoảng 1000 K. Trong thời Trung cổ, ở Tây Âu sắt bắt đầu được làm từ bọt sắt để trở thành sắt non. Gang đúc sớm nhất ở châu Âu tìm thấy ở Thụy Điển, trong hai khu vực là Lapphyttan và Vinarhyttan, khoảng từ năm 1150 đến 1350. Có giả thuyết cho rằng việc sản xuất gang đúc là do người Mông Cổ thông qua nước Nga truyền đến các khu vực này, nhưng không có chứng cứ vững chắc cho giả thuyết này. Trong bất kỳ trường hợp nào, vào cuối thế kỷ14 thì thị trường cho gang đúc bắt đầu được hình thành do nhu cầu cao về gang đúc cho các súng thần công.
+Việc nung chảy sắt thời kỳ đầu tiên bằng than củi như là nguồn nhiệt và chất khử. Trong thế kỷ 18, ở Anh việc cung cấp gỗ bị giảm xuống và than cốc, một nhiên liệu hóa thạch, đã được sử dụng để thay thế. Cải tiến của Abraham Darby đã cung cấp năng lượng cho cuộc cách mạng công nghiệp.
+
+
+== Ứng dụng ==
+Sắt là kim loại được sử dụng nhiều nhất, chiếm khoảng 95% tổng khối lượng kim loại sản xuất trên toàn thế giới. Sự kết hợp của giá thành thấp và các đặc tính tốt về chịu lực, độ dẻo, độ cứng làm cho nó trở thành không thể thay thế được, đặc biệt trong các ứng dụng như sản xuất ô tô, thân tàu thủy lớn, các bộ khung cho các công trình xây dựng. Thép là hợp kim nổi tiếng nhất của sắt, ngoài ra còn có một số hình thức tồn tại khác của sắt như:
+Gang thô (gang lợn) chứa 4% – 5% cacbon và chứa một loạt các chất khác như lưu huỳnh, silic, phốt pho. Đặc trưng duy nhất của nó: nó là bước trung gian từ quặng sắt sang thép cũng như các loại gang đúc (gang trắng và gang xám).
+Gang đúc chứa 2% – 3.5% cacbon và một lượng nhỏ mangan. Các chất có trong gang thô có ảnh hưởng xấu đến các thuộc tính của vật liệu, như lưu huỳnh và phốt pho chẳng hạn sẽ bị khử đến mức chấp nhận được. Nó có điểm nóng chảy trong khoảng 1420–1470 K, thấp hơn so với cả hai thành phần chính của nó, làm cho nó là sản phẩm đầu tiên bị nóng chảy khi cacbon và sắt được nung nóng cùng nhau. Nó rất rắn, cứng và dễ vỡ. Làm việc với đồ vật bằng gang, thậm chí khi nóng trắng, nó có xu hướng phá vỡ hình dạng của vật.
+Thép carbon chứa từ 0,5% đến 1,5% cacbon, với một lượng nhỏ mangan, lưu huỳnh, phốt pho và silic.
+Sắt non chứa ít hơn 0,5% cacbon. Nó là sản phẩm dai, dễ uốn, không dễ nóng chảy như gang thô. Nó có rất ít cacbon. Nếu mài nó thành lưỡi sắc, nó đánh mất tính chất này rất nhanh.
+Các loại thép hợp kim chứa các lượng khác nhau của cacbon cũng như các kim loại khác, như crôm, vanađi, môlipđen, niken, vonfram, v.v.
+Ôxít sắt (III) được sử dụng để sản xuất các bộ lưu từ tính trong máy tính. Chúng thường được trộn lẫn với các hợp chất khác, và bảo tồn thuộc tính từ trong hỗn hợp này.
+Trong sản xuất xi măng người ta trộn thêm Sunfat Sắt vào để hạn chế tác hại của Crom hóa trị 6-nguyên nhân chính gây nen bệnh dị ứng xi măngvới những người thường xuyên tiếp xúc với nó
+
+
+== Sản xuất ==
+Sắt là một trong những nguyên tố phổ biến nhất trên Trái Đất, chiếm khoảng 5% khối lượng vỏ Trái Đất. Phần lớn sắt được tìm thấy trong các dạng ôxít sắt khác nhau, chẳng hạn như khoáng chất hematit, magnetit, taconit. Khoảng 5% các thiên thạch chứa hỗn hợp sắt-niken. Mặc dù hiếm, chúng là các dạng chính của sắt kim loại tự nhiên trên bề mặt Trái Đất.
+Trong công nghiệp, sắt được trích xuất ra từ các quặng của nó, chủ yếu là từ hêmatit (Fe2O3) và magnêtit (Fe3O4) bằng cách khử với cacbon trong lò luyện kim sử dụng luồng không khí nóng ở nhiệt độ khoảng 2000 °C. Trong lò luyện, quặng sắt, cacbon trong dạng than cốc, và các chất tẩy tạp chất như đá vôi được xếp ở phía trên của lò, luồng không khí nóng được đưa vào lò từ phía dưới.
+Than cốc phản ứng với ôxy trong luồng không khí tạo ra mônôxít cacbon:
+2 C + O2 → 2 CO
+Cacbon mônôxít khử quặng sắt (trong phương trình dưới đây là hêmatit) thành sắt nóng chảy, và nó trở thành điôxít cacbon:
+3 CO + Fe2O3 → 2 Fe + 3 CO2
+Chất khử tạp chất được thêm vào để khử các tạp chất có trong quặng (chủ yếu là điôxít silic cát và các silicat khác). Các chất khử tạp chất chính là đá vôi (cacbonat canxi) và đôlômit (cacbonat magiê). Các chất khử tạp chất khác có thể cho vào tùy theo các tạp chất có trong quặng. Trong sức nóng của lò luyện đá vôi bị chuyển thành vôi sống (CaO):
+CaCO3 → CaO + CO2
+Sau đó ôxít canxi kết hợp với điôxít silic tạo ra xỉ.
+CaO + SiO2 → CaSiO3
+Xỉ nóng chảy trong lò luyện (điôxít silic thì không). Ở phần dưới của lò luyện, xỉ nóng chảy do nhẹ hơn nên nổi lên phía trên sắt nóng chảy. Các cửa lò có thể được mở để tháo xỉ hay sắt nóng chảy. Sắt khi nguội đi, tạo ra gang thô, còn xỉ có thể được sử dụng để làm đường hay để cải thiện các loại đất nông nghiệp nghèo khoáng chất.
+Khoảng 1,1 tỷ tấn quặng sắt được sản xuất trên thế giới vào năm 2000, với tổng trị giá trên thị trường vào khoảng 25 tỷ đôla Mỹ. Việc khai thác quặng sắt diễn ra trên 48 quốc gia, nhưng 5 nhà sản xuất lớn nhất là Trung Quốc, Brasil, Úc, Nga và Ấn Độ, chiếm tới 70% lượng quặng khai thác trên thế giới. 1,1 tỷ tấn quặng sắt này được sử dụng để sản xuất ra khoảng 572 triệu tấn sắt thô.
+
+
+== Vai trò sinh học ==
+Sắt có vai trò rất cần thiết đối với mọi cơ thể sống, ngoại trừ một số vi khuẩn. Nó chủ yếu liên kết ổn định bên trong các protein kim loại, vì trong dạng tự do nó sinh ra các gốc tự do nói chung là độc với các tế bào. Nói rằng sắt tự do không có nghĩa là nó tự do di chuyển trong các chất lỏng trong cơ thể. Sắt liên kết chặt chẽ với mọi phân tử sinh học vì thế nó sẽ gắn với các màng tế bào, axít nucleic, prôtêin v.v.
+Tuy nhiên, hàm lượng Fe trong cơ thể là rất ít, chiếm khoảng 0,004% được phân bố ở nhiều loại tế bào của cơ thể. Sắt là nguyên tố vi lượng tham gia vào cấu tạo thành phần Hemoglobin của hồng cầu, myoglobin của cơ vân và các sắc tố hô hấp ở mô bào và trong các enzim như: catalaz, peroxidaza… Fe là thành phần quan trọng của nhân tế bào. Cơ thể thiếu Fe sẽ bị thiếu máu nhất là phụ nữ có thai và trẻ em.
+Trong cơ thể động vật sắt liên kết trong các tổ hợp heme (là thành phần thiết yếu của cytochromes), là những prôtêin tham gia vào các phản ứng ôxi hóa-khử (bao gồm nhưng không giới hạn chỉ là quá trình hô hấp) và của các prôtêin chuyên chở ôxy như hêmôglôbin và myoglobin.
+Sắt vô cơ tham gia trong các phản ứng ôxi hóa-khử cũng được tìm thấy trong các cụm sắt-lưu huỳnh của nhiều enzym, chẳng hạn như các enzym nitrogenase (tham gia vào quá trình tổng hợp amôniắc từ nitơ và hiđrô) và hydrogenase. Tập hợp các prôtêin sắt phi-heme có trách nhiệm cho một dãy các chức năng trong một số loại hình cơ thể sống, chẳng hạn như các enzym metan monooxygenase (ôxi hóa mêtan thành mêtanol), ribonucleotide reductase (khử ribose thành deoxyribose; tổng hợp sinh học DNA), hemerythrins (vận chuyển ôxy và ngưng kết trong các động vật không xương sống ở biển) và axít phosphatase tía (thủy phân các este phốt phát). Khi cơ thể chống lại sự nhiễm khuẩn, nó để riêng sắt trong prôtêin vận chuyển transferrin vì thế vi khuẩn không thể sử dụng được sắt.
+Sự phân phối sắt trong cơ thể được điều chỉnh trong cơ thể động vật có vú. Sắt được hấp thụ từ duodenum liên kết với transferrin, và vận chuyển bởi máu đến các tế bào khác nhau. Vẫn chưa rõ cơ chế liên kết của sắt với các prôtêin.
+Các nguồn thức ăn giàu sắt bao gồm: thịt, cá, thịt gia cầm, đậu lăng, các loại đậu, rau chân vịt, tào phớ, đậu Thổ Nhĩ Kỳ, dâu tây và mầm ngũ cốc.
+Sắt được bổ sung cho những người cần tăng cường chất này trong dạng fumarat sắt (II). Tiêu chuẩn của RDA về sắt dao động dựa trên tuổi tác, giới tính, và nguồn sắt ăn kiêng (sắt trên cơ sở heme có khả năng sinh học cao hơn)
+Cần lưu ý tới phần cảnh báo dưới đây.
+
+
+== Tính chất hóa học ==
+1. Tác dụng với phi kim:
+Sắt tác dụng với hầu hết tất cả các phi kim khi đun nóng. Với các phi kim có tính oxi hóa mạnh như Clo thì sẽ tạo thành những hợp chất trong đó sắt có số oxi hóa là +3.Còn khi tác dụng với ôxy sẽ tạo ra sắt(II;III)oxit-Sắt từ oxit
+Ví dụ:
+2Fe + 3Cl2 → 2FeCl3
+FeO + Fe2O3 → Fe3O4
+3Fe + 2O2 → Fe3O4 (Vì khi Fe phản ứng với O2 ở nhiệt độ cao, 2 chất đã sinh ra cùng 1 lúc (FeO và Fe2O3) và lại tự xúc tác với nhau)
+Fe3O4 là một hợp chất ion, tinh thể được tạo nên bởi các ion O2-, ion Fe3+ và ion Fe2+. Trong quá trình phản ứng, một phần sắt bị oxi hóa thành Fe2+, một phần bị oxi hóa thành Fe3+.Trong chất rắn trung bình cứ có 1 ion Fe2+ thì có 2 ion Fe3+ và 4 ion O2-.
+Trong không khí ẩm sắt dễ bị rỉ theo phản ứng:
+4Fe + O2 + nH2O → 2Fe2O3.nH2O
+Đối với các phi kim yếu hơn như lưu hùynh,..tạo thành hợp chất trong đó sắt có số oxi hóa +2 Fe + S → FeS
+2.Tác dụng với các hợp chất:
+Thế điện cực chuẩn của sắt là: Fe2+(dd) + 2e → Fe Eo= -0.44V
+Qua đó ta thấy sắt có tính khử trung bình.
+Sắt dễ tan trong dung dịch axit HCl và H2SO4 loãng
+Fe + 2HCl → FeCl2 + H2
+Fe + H2SO4 → FeSO4 + H2
+Hay FeO + 2H+(dd) → Fe+(dd) + H2
+Đối với các axít có tính oxi hóa mạnh như HNO3 hay H2SO4 đặc nóng thì sản phẩm phản ứng sẽ là muối sắt với sắt có số oxi hóa +3 và các sản phẩm khử của N:N2O, NO, NO2 hoặc của S: SO2. Ở nhiệt độ thường, trong axit nitric đặc và axit sulfuric đặc, sắt tạo ra lớp oxit bảo vệ kim loại trở nên "thụ động", không bị hòa tan. Sắt đẩy các kim loại yếu hơn ra khỏi dung dịch muối của chúng.
+Fe + Cu(NO3)2 → Fe(NO3)2 + Cu
+
+
+== Hợp chất ==
+Các trạng thái ôxi hóa chung của sắt bao gồm:
+Trạng thái sắt(II), Fe2+, ferrous rất phổ biến.
+Trạng thái sắt(III), Fe3+, ferric, cũng rất phổ biến, ví dụ trong gỉ sắt.
+Trạng thái sắt(IV), Fe4+, ferryl, ổn định trong các enzym (ví dụ perôxidas).
+Sắt(VI) cũng được biết tới, nó hiếm hơn, có trong ferrat kali.
+Cacbua sắt Fe3C được biết đến như là cementit.
+Sắt cũng tồn tại dưới dạng sắt (VIII) nhưng rất hiếm.
+Xem thêm: Ôxít sắt
+
+
+== Đồng vị ==
+Sắt có bốn đồng vị tự nhiên ổn định là Fe54, Fe56, Fe57 và Fe58. Sự phổ biến tương đối của các đồng vị sắt trong tự nhiên là: Fe54 (5,8%), Fe56 (91,7%), Fe57 (2,2%) và Fe58 (0,3%).
+Fe60 là đồng vị phóng xạ đã biến mất, nó có chu kỳ bán rã dài (2,6 triệu năm). Đồng vị này không được tìm thấy trên Trái Đất mà nó là sản phẩm phân rã từ đồng vị nicken-60. Phần lớn các công việc trong quá khứ để đo thành phần đồng vị của sắt tập trung vào việc xác định các biến thể của Fe60 vì các quá trình kèm theo sự tổng hợp hạt nhân (ví dụ nghiên cứu thiên thạch) và sự hình thành khoáng sản. Đồng vị Fe56 cũng gây ra sự đặc biệt chú ý của các nhà khoa học vì nó có thể là hạt nhân ổn định nhất. Không thể thực hiện các phản ứng phân hạch hay nhiệt hạch trên Fe56 mà có thể giải phóng năng lượng. Điều này thì lại không đúng với các nguyên tố khác.
+Trong số các đồng vị ổn định, chỉ có Fe57 có spin −1/2. Vì lý do này, Fe57 có ứng dụng như là đồng vị spin trong hóa học và hóa sinh học.
+Trong các pha của các thiên thạch Semarkona và Chervony Kut mối tương quan giữa mật độ của Ni60 (sản phẩm sinh ra của Fe60) và sự phổ biến của các đồng vị ổn định của sắt có thể được tìm thấy, nó chứng tỏ sự tồn tại của Fe60 trong thời gian hình thành của hệ Mặt Trời. Có khả năng là năng lượng giải phóng bởi sự phân rã của Fe60 góp phần cùng với năng lượng giải phóng bởi sự phân rã của hạt nhân phóng xạ Al26, để nung chảy lại và làm phân biệt các tiểu hành tinh sau sự hình thành của chúng trước đây 4,6 tỷ năm. Sự phổ biến của Ni60 hiện diện trong các vật chất ngoài Trái Đất có thể cung cấp thông tin để nhìn sâu hơn nữa vào nguồn gốc của hệ Mặt Trời cũng như lịch sử sơ kỳ của nó.
+
+
+== Cảnh báo ==
+Việc hấp thụ quá nhiều sắt gây ngộ độc, vì các sắt II dư thừa sẽ phản ứng với các perôxít trong cơ thể để sản xuất ra các gốc tự do. Khi sắt trong số lượng bình thường thì cơ thể có một cơ chế chống ôxi hóa để có thể kiểm soát quá trình này. Khi dư thừa sắt thì những lượng dư thừa không thể kiểm soát của các gốc tự do được sinh ra.
+Một lượng gây chết người của sắt đối với trẻ 2 tuổi là ba gam sắt. Một gam có thể sinh ra sự ngộ độc nguy hiểm. Danh mục của DRI về mức chấp nhận cao nhất về sắt đối với người lớn là 45 mg/ngày. Đối với trẻ em dưới 14 tuổi mức cao nhất là 40 mg/ngày.
+Nếu sắt quá nhiều trong cơ thể (chưa đến mức gây chết người) thì một loạt các hội chứng rối loạn quá tải sắt có thể phát sinh, chẳng hạn như hemochromatosis. Vì lý do này, mọi người không nên sử dụng các loại hình sắt bổ sung trừ trường hợp thiếu sắt và phải có chỉ định của bác sĩ chuyên khoa.
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Doulias PT, Christoforidis S, Brunk UT, Galaris D. Endosomal and lysosomal effects of desferrioxamine: protection of HeLa cells from hydrogen peroxide-induced DNA damage and induction of cell-cycle arrest. Free Radic Biol Med. 2003;35:719-28.
+H. R. Schubert, History of the British Iron and Steel Industry... to 1775 AD (Routledge, London, 1957)
+R. F. Tylecote, History of Metallurgy (Institute of Materials, London 1992).
+R. F. Tylecote, 'Iron in the Industrial Revolution' in J. Day and R. F. Tylecote, The Industrial Revolution in Metals (Institute of Materials 1991), 200-60.
+Vai trò của sắt trong phát triển nền văn minh nhân loại
+
+
+== Liên kết ngoài ==
+Los Alamos National Laboratory – Iron
+WebElements.com – Iron
+It's Elemental – Iron

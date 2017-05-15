@@ -1,0 +1,78 @@
+Tổ chức tiêu chuẩn hoá quốc tế (tiếng Anh: International Organization for Standardization; viết tắt: ISO hay iso) là cơ quan thiết lập tiêu chuẩn quốc tế bao gồm các đại diện từ các tổ chức tiêu chuẩn các quốc gia. Được thành lập vào ngày 23 tháng 2 năm 1947, Có trụ sở tại Geneva, Thụy Sĩ, đến 2013 hoạt động ở 164 quốc gia thành viên trên thế giới. Tổ chức này đã đưa ra các tiêu chuẩn thương mại và công nghiệp trên phạm vi toàn thế giới.
+Trong khi ISO xác định mình như là một tổ chức phi chính phủ (NGO), khả năng của tổ chức này trong việc thiết lập các tiêu chuẩn - thông thường trở thành luật định thông qua các hiệp định hay các tiêu chuẩn quốc gia - làm cho nó có nhiều sức mạnh hơn phần lớn các tổ chức phi chính phủ khác, và trên thực tế tổ chức này hoạt động như một côngxoocxiom với sự liên kết chặt chẽ với các chính phủ. Những người tham dự bao gồm một tổ chức tiêu chuẩn từ mỗi quốc gia thành viên và các tập đoàn lớn.
+ISO hợp tác chặt chẽ với Ủy ban kỹ thuật điện quốc tế (International Electrotechnical Commission, viết tắt IEC), là tổ chức chịu trách nhiệm tiêu chuẩn hóa các thiết bị điện.
+
+
+== Tên gọi ==
+Tổ chức này thông thường được nhắc tới một cách đơn giản là ISO (đọc là ai zô). Điều này hay dẫn đến sự hiểu lầm rằng ISO là International Standards Organization, hay là một điều gì đó tương tự. ISO không phải là từ viết tắt, nó có nguồn gốc từ tiếng Hy Lạp isos, có nghĩa là tương đương. Trong tiếng Anh tên gọi của nó là International Organization for Standardization, trong khi trong tiếng Pháp nó được gọi là Organisation Internationale de Normalisation; để sử dụng từ viết tắt được tạo ra bởi các từ viết tắt khác nhau trong tiếng Anh (IOS) và tiếng Pháp (OIN), những người sáng lập ra tổ chức này đã chọn ISO làm dạng viết ngắn gọn chung cho tên gọi của nó. Tuy nhiên, cần lưu ý rằng ISO cũng xác định mình như là International Organization for Standardization trong các báo cáo của họ.
+
+
+== Tiêu chuẩn Quốc tế và những xuất bản khác ==
+Sản phẩm chính của ISO là các Tiêu chuẩn Quốc tế, nhưng ISO cũng tạo ra các Báo cáo Kỹ thuật, Chi tiết Kỹ thuật, Chi tiết Kỹ thuật Công bố Rộng rãi, Bản Sửa lỗi Kỹ thuật, và Hướng dẫn Sử dụng.
+Các tiêu chuẩn ISO là các số, và có định dạng trong đó chứa "ISO[/IEC] [IS] nnnnn[:yyyy]: Tiêu đề" trong đó "nnnnn" là số tiêu chuẩn, "yyyy" là năm công bố, và "Tiêu đề" miêu tả đối tượng điều chỉnh. IEC sẽ chỉ được kèm vào nếu tiêu chuẩn là kết quả từ các công việc của JTC1. Ngày và IS sẽ luôn luôn bị loại bỏ trong tiêu chuẩn chưa hoàn thiện hay chưa công bố, và cả hai có thể (trong những tình huống nhất định) bị loại bỏ trong tiêu đề của công trình đã công bố.
+Ngoài việc đưa ra các tiêu chuẩn, ISO cũng tạo ra các báo cáo kỹ thuật cho các tài liệu mà chúng không thể hay không có khả năng trở thành các tiêu chuẩn quốc tế, chẳng hạn các tham chiếu, giải thích v.v. Các quy ước đặt tên cho chúng là giống với việc đặt tên cho các tiêu chuẩn với ngoại lệ là chúng có cụm từ TR thế vào chỗ của cụm từ IS trong tên gọi của tiêu chuẩn. Ví dụ:
+ISO/IEC TR 17799:2000 Mã thông lệ của Quản lý an ninh thông tin.
+ISO TR 15443-1/3 Công nghệ Thông tin – Các kỹ thuật An ninh – Khuôn khổ cho Đảm bảo An ninh Công nghệ thông tin (IT) 1-3
+Cuối cùng, ISO thỉnh thoảng cũng ấn hành các Đính chính kỹ thuật. Các đính chính này là các sửa đổi đối với các tiêu chuẩn hiện hành vì các lỗi kỹ thuật nhỏ phát sinh hay là sự hoàn thiện đối với khả năng sử dụng, hay đối với việc mở rộng khả năng áp dụng trong một giới hạn nào đó. Nói chung, các sửa lỗi này được ấn hành với dự tính là các tiêu chuẩn chịu ảnh hưởng sẽ được cập nhật hay được bỏ đi trong lần xem xét kế tiếp.
+
+
+== Bản quyền của các tài liệu ISO ==
+Các tài liệu ISO là có bản quyền và ISO tính phí cho việc sao chép của phần lớn các trường hợp. Tuy nhiên ISO không tính phí trong phần lớn các bản sao chép các dự thảo của các tài liệu ở dạng điện tử. Mặc dù có ích, cần phải cẩn thận khi sử dụng các bản dự thảo này vì ở đây có thể có những thay đổi quan trọng trước khi nó trở thành hoàn thiện như là một tiêu chuẩn.
+
+
+== Những vấn đề trong thập niên 1990 ==
+Trong những năm thập niên 1990, ISO có tiếng là chậm chạp, quan liêu và không nhạy cảm đối với những phản ứng từ cả những người chu cấp tài chính và khách hàng của họ. Một dự án có vấn đề là dự án Open Systems Interconnect (Các hệ thống tương kết mở) khá lớn, với cố gắng phát triển một tiêu chuẩn mạng máy tính duy nhất, nhưng cuối cùng đã thất bại năm 1996 sau khi sa vào vũng lầy trong các vấn đề về khả năng liên kết hoạt động và các cãi vã giữa các nhà cung cấp tài chính. Sự chú ý sau đó chuyển hướng sang dự án trên cơ sở tình nguyện, quy trình mở và phi lợi nhuận là Internet Engineering Task Force (IETF), nó phát triển các tiêu chuẩn cần thiết cho Internet hoạt động. Khi IETF trở thành quá chậm, các nhà cung cấp tài chính bắt đầu cấp vốn cho các côngxoocxiom có định hướng và nhanh nhạy hơn như W3C, một tổ chức mở và phi lợi nhuận khác được lãnh đạo bởi người phát minh ra World Wide Web là Tim Berners-Lee. Kể từ đó, ISO đã thực hiện những cải tổ vừa phải nhằm giảm thời gian cần thiết để công bố các tiêu chuẩn mới.
+Các tiêu chuẩn quốc tế của ISO trong mọi phương diện đều không ràng buộc với bất kỳ quốc gia hay ngành công nghiệp nào, nó đơn thuần chỉ với tư cách là các tiêu chuẩn quốc tế. Điều này cho phép trong một số tình huống thì một số tiêu chuẩn nào đó có thể mâu thuẫn với các yêu cầu và dự tính xã hội, văn hóa hay pháp lý. Nó cũng phản ánh một thực tế là các chuyên gia trong nước và quốc tế chịu trách nhiệm tạo ra các tiêu chuẩn này không phải lúc nào cũng đồng ý và không phải mọi đề xuất đều có thể trở thành tiêu chuẩn bởi sự biểu quyết nhất trí hoàn toàn. Các quốc gia riêng biệt và các tổ chức tiêu chuẩn của họ vẫn là người phân xử cuối cùng.
+
+
+== Những sản phẩm được đặt tên theo ISO ==
+Một thực tế là rất nhiều tiêu chuẩn của ISO là phổ biến đã dẫn đến việc sử dụng phổ biến của "ISO" để miêu tả các sản phẩm thực tế mà nó phù hợp với tiêu chuẩn. Một số ví dụ là:
+Các CD image kết thúc với đuôi mở rộng tệp "ISO" để báo hiệu rằng chúng sử dụng hệ thống tệp tiêu chuẩn ISO 9660 (có thể các hệ thống tệp khác cũng được sử dụng) – kể từ đây các CD image nói chung được nhắc đến như là các "ISO". Thực tế mọi máy tính với các ổ CD-ROM có thể đọc các đĩa CD có sử dụng tiêu chuẩn này. Các DVD-ROM cũng sử dụng các hệ thống tệp ISO 9660.
+Độ nhạy sáng của phim ảnh, tốc độ của nó được đo và xác định bằng tiêu chuẩn ISO, vì vậy tốc độ phim thông thường được nói đến như là "số ISO" của nó. Các tiêu chuẩn tương đương là ASA và DIN của nó.
+
+
+== Ủy ban kỹ thuật chung ISO/IEC số 1 ==
+Để giải quyết các hậu quả của sự chồng lấn thực tế trong lĩnh vực tiêu chuẩn hóa và các công việc liên quan tới công nghệ thông tin, ISO và IEC đã thành lập Ủy ban kỹ thuật chung, được biết đến như là ISO/IEC JTC1. Nó là ủy ban loại như vậy đầu tiên và cho đến nay vẫn là duy nhất. Sự ủy nhiệm chính thức của ủy ban này là:
+Phát triển, duy trì, khuyến khích và thuận tiện hóa các tiêu chuẩn IT được yêu cầu bởi các thị trường toàn cầu để phù hợp với các nhu cầu kinh doanh và người dùng bao gồm:
+Thiết kế và phát triển các hệ thống và công cụ IT,
+Tính thực thi và chất lượng của các sản phẩm và hệ thống IT
+An ninh của các hệ thống IT và thông tin
+Tính linh động của các chương trình ứng dụng
+Thao tác giữa các bộ phận của các sản phẩm và hệ thống IT
+Hợp nhất các công cụ và môi trường
+Hòa hợp từ vựng IT
+Các giao diện người dùng thân thiện và hài hòa
+Hiện tại có 18 tiểu ban (SC):
+SC 02 – Các bộ ký tự mã hóa
+SC 06 – Trao đổi liên lạc và thông tin giữa các hệ thống
+SC 07 – Công nghệ phần mềm và hệ thống
+SC 17 – Thẻ và nhận dạng cá nhân
+SC 22 – Ngôn ngữ lập trình, môi trường của chúng và các hệ thống giao diện phần mềm
+SC 23 – Các thiết bị lưu trữ số hóa tháo lắp sử dụng công nghệ ghi quang học và/hoặc từ tính cho số hóa
+SC 24 – Đồ họa máy tính và xử lý ảnh
+SC 25 – Liên kết thiết bị công nghệ thông tin
+SC 27 – Các kỹ thuật an ninh công nghệ thông tin
+SC 28 – Các thiết bị văn phòng
+SC 29 – Mã hóa thông tin âm thanh, hình ảnh, đa truyền thông và siêu truyền thông
+SC 31 – Nhận dạng tự động và các kỹ thuật bắt giữ số liệu
+SC 32 – Quản lý và trao đổi dữ liệu
+SC 34 – Mô tả tài liệu và các ngôn ngữ xử lý
+SC 35 – Giao diện người dùng
+SC 36 – Công nghệ thông tin trong giảng dạy, học tập và tập huấn
+SC 37 – Sinh trắc học
+Tư cách thành viên trong ISO/IEC JTC1 được hạn chế giống như tư cách thành viên trong cả hai tổ chức sinh ra tổ chức này. Thành viên có thể là chính thức (P) hay quan sát (O) và khác biệt chủ yếu là khả năng biểu quyết về các tiêu chuẩn được đề xuất và các sản phẩm khác. Không có yêu cầu đối với bất kỳ thành viên nào trong việc duy trì hai (hay bất kỳ) địa vị nào trong tất cả các tiểu ban. Mặc dù hiếm, các tiểu ban có thể được thành lập để giải quyết các tình huống mới (SC 37 mới được chuẩn y năm 2004) hay giải tán nếu như các việc không còn thích hợp nữa.
+
+
+== Xem thêm ==
+Danh sách các tiêu chuẩn ISO
+ANSI
+IEC (Ủy ban kỹ thuật điện quốc tế)
+ISO15189
+Tiêu chuẩn hóa
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Chú giải các tiêu chuẩn ISO

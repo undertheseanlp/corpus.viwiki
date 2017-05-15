@@ -1,0 +1,173 @@
+Máy ảnh số (ngày nay, tại Việt Nam thường gọi là máy ảnh kĩ thuật số) là một máy điện tử dùng để thu và lưu giữ hình ảnh một cách tự động thay vì phải dùng phim ảnh giống như máy chụp ảnh thường. Những máy chụp ảnh số đời mới thường có nhiều chức năng, ví dụ như có thể ghi âm, quay phim. Ngày nay, máy chụp ảnh số bán chạy hơn máy chụp ảnh phim 35mm. Máy ảnh số hiện nay bao gồm từ loại có thể thu gọn vào trong điện thoại di động cho đến sử dụng trong các thiết bị chuyên nghiệp như kính viễn vọng không gian Hubble và các thiết bị trên tàu vũ trụ.
+
+
+== Phân loại ==
+Máy chụp ảnh số có thể chia ra các loại sau:
+
+
+=== Máy quay phim ===
+Máy quay phim là loại máy mà mục đích chính là để thu ảnh động.
+Máy quay phim chuyên nghiệp là những máy dùng để làm chương trình truyền hình và phim. Chúng thường có nhiều bộ cảm biến ảnh (mỗi màu một bộ) để tăng độ phân giải và gam màu. Máy quay phim chuyên nghiệp đời đầu thường không có sẵn phần VCR và microphone.
+Máy quay phim kết hợp (camcorder) thường có sẵn microphone để ghi âm và một màn hình tinh thể lỏng nhỏ để xem trong khi ghi hình và phát lại.
+Webcam là máy chụp ảnh số gắn vào máy tính dùng để hội đàm truyền hình hay các mục đích khác. Webcam có thể thu ảnh động, một số cái còn có luôn microphone và có thể zoom.
+Ngoài ra, nhiều kiểu máy chụp ảnh số xem ngay có chế độ ghi ảnh động, ảnh được ghi liên tục ở một tốc độ đủ nhanh để xem như ảnh động.
+
+
+=== Máy chụp ảnh số xem ngay ===
+Một máy chụp ảnh số xem ngay là một máy chụp ảnh mà hiện ảnh ngay trên màn hình điện tử để ngắm trước khi chụp. Tất cả các máy chụp ảnh số có màn hình đều thuộc loại này, trừ một vài loại máy ảnh số SLR.
+Ranh giới giữa máy chụp ảnh số xem ngay và máy quay phim kết hợp không rõ rệt. Nhiều kiểu máy chụp ảnh số xem ngay có chế độ ghi ảnh động, và nhiều kiểu máy quay phim kết hợp có thể chụp ảnh. Tất nhiên, một cái máy chụp ảnh số xem ngay loại bình dân chụp ảnh tốt hơn máy quay phim kết hợp loại khá, và một cái máy chụp ảnh số xem ngay loại ghi hình kém hơn máy quay phim kết hợp loại bình dân. Ngoài ra, máy quay phim kết hợp đời mới cũng có thể ghi ảnh động vào flash memory và truyền đi qua USB hay FireWire như máy chụp ảnh số xem ngay. Máy chụp ảnh số xem ngay được chia hạng theo megapixel, là độ phân giải tối đa tính bằng triệu điểm. Việc truyền ảnh vào máy tính thường dùng USB mass storage device class (máy chụp ảnh được xem như một ổ đĩa), hoặc dùng Picture Transfer Protocol. FireWire ngày càng trở nên phổ biến và có nhiều máy chụp ảnh số có FireWire. Tất cả các máy chụp ảnh số đều dùng bộ cảm biến CCD hoặc CMOS, đó là một chip chứa một lưới các photodiode để thu nhận ánh sáng được hội tụ qua ống kính của máy chụp ảnh. Bộ cảm biến CMOS dùng loại vật liệu khác và ít hao điện hơn cảm biến CCD.
+
+
+==== Máy chụp ảnh số gọn ====
+Còn được gọi là digicam, chiếm phần lớn các máy chụp ảnh số hiện nay. Chúng rất dễ dùng, có khả năng thu ảnh động vừa phải. Chúng có khả năng zoom kém hơn máy chụp ảnh số loại khá (prosumer) và DSLR. Chúng có độ sâu của vùng chụp (depth of field) khá lớn, nhờ vậy những vật ở khoảng cách tương đối xa nhau cũng được chụp rõ nét, làm cho máy chụp ảnh loại này dễ dùng. Nhưng điều này cũng làm cho những nhiếp ảnh gia chuyên nghiệp không dùng nó, vì bức ảnh trông không nổi và có vẻ thiếu tự nhiên. Loại máy này thích hợp để chụp ảnh phong cảnh. Hình ảnh chụp bằng loại này được ghi theo một dạng duy nhất là JPEG.
+
+
+==== Máy chụp ảnh lai ====
+Máy chụp ảnh lai hay prosumer là một nhóm các máy chụp ảnh xem ngay hạng khá, nhìn bên ngoài giống máy chụp ảnh DSLR (nên còn được gọi là máy chụp ảnh số giống DSLR, DSLR-like), có một số tính năng cao cấp của DSLR nhưng cũng có những tính năng của máy chụp ảnh xem ngay. Máy chụp ảnh DSLR thường được coi là cao cấp hơn máy chụp ảnh lai. Nhưng một số máy DSLR mới ra sau năm 2003 làm cho sự phân biệt giữa DSLR và máy chụp ảnh lai bớt rõ rệt: một số DSLR có thể được xếp vào hạng bình dân, trong khi máy ảnh lai vẫn được xếp vào hạng khá.
+Máy chụp ảnh lai thường có ống kính có độ zoom lớn. Người ta dễ lầm máy chụp ảnh lai với DSLR vì vẻ bề ngoài hơi giống nhau. Nhưng máy chụp ảnh lai thật sự không có gương phản chiếu bên trong, nên việc ngắm trước khi chụp phải qua màn ảnh tinh thể lỏng hoặc lỗ ngắm điện tử, và như vậy thì sẽ hơi chậm so với DSLR thật. Dù sao thì ảnh chụp được cũng có chất lượng và độ phân giải cao trong khi máy thì gọn nhẹ hơn máy DSLR. Hạng tốt nhất trong loại máy ảnh lai chụp ảnh tương đương với hạng vừa của máy DSLR. Ảnh chụp bằng loại máy này được ghi theo dạng JPEG hoặc .RAW.
+
+
+=== Máy chụp ảnh số SLR ===
+
+Máy chụp ảnh số SLR giống máy chụp ảnh phim SLR ở chỗ có một hệ thống gương phản chiếu bên trong. Các nhà nhiếp ảnh chuyên nghiệp chọn DSLR bởi kích thước chíp cảm biến ảnh lớn hơn máy ảnh nhỏ(máy ảnh du lịch). Máy ảnh DSLRs có kích thước chíp cảm biến gần với kích thước của kích thước phim của máy ảnh phim mà họ đã quen sử dụng. Cho hiểu quả giống nhau về Độ sâu của ảnh và khung ảnh.
+Cấu trúc phản xạ là điểm khác biệt chủ yếu giữa máy ảnh DSLR và máy ảnh du lịch, với chip ánh sáng luôn luôn phơi sáng, và cho phép hình ảnh hiện ra ở màn hình sau máy ảnh gọi là ống ngắm điện tử. Ở máy ảnh DSLR, việc có gương ngăn cản khả năng xem hình ảnh ở màn hình LCD trước khi ảnh được chụp. Tuy nhiên, nhiều loại máy DSLR gần đây có khả năng xem trước, cho phép màn hình LCD có thể dùng làm màn hình xem ngắm giống như máy ảnh du lịch, với một vài hạn chế và ống ngắm quang học không sử dụng được.
+
+
+=== Máy chụp ảnh số chuyên nghiệp dạng rời ===
+
+Loại này gồm có những máy rất chuyên nghiệp mà có thể được ráp lại từ từng bộ phận để thích hợp nhất với từng mục đích cụ thể. Hasselblad và Mamiya là những nhà sản xuất loại này. Chúng được chế ra để chụp phim cỡ vừa và lớn, chụp ra ảnh với độ nét cao hơn bình thường.
+Máy ảnh loại này thường chỉ được dùng trong studio vì rất lớn và khó mang theo. Chúng có thể chuyển đổi giữa dùng phim và kỹ thuật số bằng cách thay phần thân sau. Máy loại này rất đắt (lên tới 40.000$) và người sử dụng thường ít có cơ hội đụng tới nó.
+
+
+== Việc chuyển máy chụp ảnh phim thành máy chụp ảnh số ==
+Khi máy chụp ảnh số trở nên thông dụng, nhiều người dùng máy chụp ảnh thường nghĩ đến việc chuyển các máy chụp ảnh phim thành máy chụp ảnh số. Việc này có thể làm được tùy theo loại máy ảnh. Phần lớn máy chụp ảnh dùng phim 35mm thì không thể chuyển được vì quá mất công và tốn kém. Một trường hợp đặc biệt là một dụng cụ do Silicon Film chế ra trong khoảng các năm 1998-2001 gọi là EFS-1. Nó có thể được lắp vào máy chụp ảnh phim thay cho cuộn phim, và cho phép chụp 24 tấm ảnh có độ phân giải 1,3MP. Năm 2002, hãng này sản xuất EFS-10, cho phép chụp với độ phân giải 10MP.
+Một vài hãng sản xuất máy chụp ảnh phim 35mm đã sản xuất phần thân máy digital cho máy phim của họ, ví dụ như Leica. Các hãng cũng làm phần thân digital cho máy chụp ảnh phim cỡ trung và cỡ lớn (hơn 35mm) với giá rất đắt, cỡ 10.000$ trở lên. Vì bộ cảm biến ảnh trong các thân máy digital này rất lớn nên ảnh chụp được có độ phân giải rất cao và file ảnh rất lớn, ví dụ đầu năm 2006 máy P45 của Phaseone chụp ảnh 39MP vào file TIFF 224,6MB.
+
+
+== Lịch sử ==
+
+
+=== Những nghiên cứu đầu tiên ===
+Ý tưởng số hoá ảnh bằng máy scan và ý tưởng số hoá tín hiệu ảnh động xuất hiện trước ý tưởng chụp ảnh số.
+Ảnh số được chụp đầu tiên vào tháng 12 năm 1975 bằng máy của hãng Eastman Kodak. Máy đó dùng bộ cảm biến cảm biến CCD do Fairchild Semiconductor làm ra năm 1973. Máy này nặng 3,6Kg, chụp ảnh trắng đen có độ phân giải 10.000 pixel và ghi vào băng từ. Chụp mỗi tấm ảnh mất 23 giây.
+Máy chụp ảnh số đầu tiên trông giống máy chụp ảnh thường là máy Sony Mavica (Magnetic Video Camera) sản xuất năm 1981. Máy này dựa trên công nghệ truyền hình analog để chụp ảnh. Ảnh có độ phân giải tương đương màn hình TV.
+Mãi tới năm 1984 Canon giới thiệu Canon RC-701, một máy chụp ảnh điện tử analog, trong Thế vận hội. Máy này không phổ biến được vì nhiều lý do: giá đắt (tới 20.000$), chất lượng hình kém hơn ảnh phim, và máy in không có sẵn.
+Những người dùng đầu tiên là giới làm tin, giá đắt đối với họ không phải là vấn đề khi mà họ cảm thấy tiện lợi khi truyền ảnh qua đường điện thoại. Chất lượng thấp cũng không sao vì như vậy là đủ để in trên giấy báo.
+
+
+=== Máy ảnh số thật sự ===
+Máy ảnh số thật sự đầu tiên là Fuji DS-1P vào năm 1988, hình chụp được ghi vào thẻ nhớ 16MB (phải nuôi bộ nhớ này bằng pin). Máy ảnh số đầu tiên được bán rộng rãi là Kodak DSC-100 năm 1991. Nó có độ phân giải 1,3MP và giá là 13.000$.
+Máy chụp ảnh số đầu tiên có màn hình tinh thể lỏng là Casio QV-10 năm 1995. Máy chụp ảnh số đầu tiên dùng CompactFlash là Kodak DC-25 năm 1996.
+Máy chụp ảnh số loại bình dân đầu tiên đạt đến độ phân giản 1MP vào năm 1997. Máy chụp ảnh số đầu tiên có thể ghi ảnh động là Ricoh RDC-1 năm 1995.
+Năm 1999, Nikon giới thiệu Nikon D1, máy chụp ảnh DSLR đầu tiên với độ phân giải 2,74MP, có giá dưới 6.000$ (giá chấp nhận được đối với nhiếp ảnh gia chuyên nghiệp và giới chơi ảnh nhiều tiền). Máy này dùng ống kính theo chuẩn Nikon F-mount giống như các máy chụp ảnh phim.
+Năm 2003, Canon cho ra đời Canon Digital Rebel, còn gọi là 300D, có độ phân giải 6MP và là chiếc DSLR đầu tiên có giá dưới 1.000$.
+
+
+== Độ phân giải ảnh ==
+Độ phân giải của máy chụp ảnh số thường được quyết định bởi bộ cảm biến, đó là phần đổi ánh sáng thành những tín hiệu rời rạc. Bộ cảm biến gồm hàng triệu lỗ nhỏ. Những lỗ nhỏ này phản ứng với một màu ánh sáng tùy theo kính lọc màu của nó. Mỗi lỗ đó gọi là một pixel. Chúng được sắp xếp xen vào nhau sao cho ba chấm màu RGB (đỏ-lục-lam) ghép lại thành một chấm có đủ màu.
+Một thuộc tính quan trọng của máy chụp ảnh số là số pixel của nó, tính theo hàng triệu gọi là megapixel. Nhưng số pixel không chưa đủ quyết định độ phân giải thật của ảnh. Còn phải xét đến kích thước của bộ cảm biến, chất lượng của ống kính, và cách sắp xếp các pixel. Nhiều máy chụp ảnh số gọn có số pixel rất lớn nhưng kích thước bộ cảm biến lại nhỏ nên kích thước của mỗi pixel quá nhỏ, nhỏ hơn khả năng ống kính có thể phân biệt được, như vậy thì độ nét của ảnh không thật sự bằng số pixel đó.
+Quá nhiều pixel có khi còn làm giảm chất lượng của ảnh theo một cách khác. Do pixel quá nhỏ, nó nhận được quá ít ánh sáng nên tín hiệu nó sinh ra quá yếu dễ bị lẫn với nhiễu của mạch điện tử. Kết quả là bức ảnh không rõ, nhất là ở những vùng chuyển màu.
+Khi công nghệ càng tiến bộ, giá thành càng giảm đi nhiều. Người ta tính số pixel trên mỗi đô-la như một trong các chỉ số của máy chụp ảnh số. Số pixel trên mỗi đô-la ngày càng tăng theo thời gian, phù hợp với Định luật Moore.
+
+
+== Các phương pháp thu ảnh ==
+Từ thời của những máy chụp ảnh số đầu tiên tới nay, đã có ba phương pháp chính để thu ảnh, dựa trên các loại bộ cảm biến và lọc màu khác nhau.
+Phương pháp thứ nhất gọi là chụp-một-lần. Bộ cảm biến được rọi sáng một lần. Máy kiểu này có một bộ cảm biến với bộ lọc màu Bayer, hoặc là có ba bộ cảm biến (cho ba màu cơ bản đỏ-lục-lam) được rọi sáng cùng lúc bởi ba tia sáng tách ra bằng bộ tách sáng.
+Phương pháp thứ hai gọi là chụp-nhiều-lần. Bộ cảm biến được rọi sáng ít nhất ba lần liên tiếp. Có vài cách dùng phương pháp này. Thông thường nhất là dùng một bộ cảm biến với ba kính lọc lần lượt được đưa ra trước bộ cảm biến để thu lấy từng màu. Một cách khác là dùng một bộ cảm biến với bộ lọc Bayer giống như trên nhưng dịch bộ cảm biến nhiều lần để mỗi pixel nhận sáng vài lần để trộn lại thành ảnh có độ phân giải gấp nhiều lần độ phân giải của bộ cảm biến. Cách khác nữa là kết hợp vừa thay kính lọc vừa dịch bộ cảm biến (không có bộ lọc màu Bayer).
+Phương pháp thứ ba gọi là quét. Bộ cảm biến được kéo trên mặt phẳng hội tụ sáng giống như bộ cảm biến của máy scan để bàn. Bộ cảm biến có thể là một hàng hay ba hàng (ba màu). Trong một số trường hợp việc scan không phải do kéo bộ cảm biến mà do quay camera; máy chụp ảnh số quay có thể tạo ra ảnh có độ phân giải rất cao. Khi góc quay rộng thì chụp ra ảnh panorama.
+Tuỳ theo đối tượng cần chụp mà người ta dùng phương pháp thu ảnh nào. Ví dụ để chụp vật di chuyển thì phải dùng phương pháp chụp-một-lần. Còn để chụp tĩnh vật với độ phân giải cao thì người ta dùng phương pháp chụp-nhiều-lần.
+Gần đây, máy chụp ảnh theo phương pháp chụp-một-lần đã có nhiều cải tiến nên đây là loại phổ biến nhất trong các kiểu máy thương mại.
+
+
+== Lưới lọc màu, nội suy, chống răng cưa ==
+
+Hầu hết các máy chụp ảnh số hạng bình dân đều dùng lưới lọc màu Bayer, kết hợp với bộ chống răng cưa, và dùng một giải thuật demosaic để nội suy từ ba điểm màu cơ bản thành các điểm có đủ màu.
+Các máy chụp ảnh dùng phương pháp chụp-một-lần với ba bộ cảm biến hoặc dùng phương pháp chụp nhiều lần thì không cần phải chống răng cưa cũng như demosaic.
+Firmware trong máy chụp ảnh số hoặc software xử lý ảnh RAW sẽ biến đổi dữ liệu thô từ bộ cảm biến thành ra ảnh màu đầy đủ. Một điểm ảnh màu đầy đủ phải có ba giá trị cho ba màu đỏ-lục-lam (hoặc ba màu cơ bản khác nếu dùng hệ màu khác). Một phần tử của bộ cảm biến không thể cùng lúc cho ra ba giá trị đó. Do đó cần có lưới lọc màu để chọn một màu cho mỗi pixel.
+Bộ lọc màu Bayer là một lưới có kích thước 2x2 pixel, được lặp lại liên tiếp theo hai hướng ngang và dọc. Trong lưới đó, có 2 đỉnh đối nhau cùng mang màu lục, 2 đỉnh còn lại màu đỏ và lam. Có nhiều điểm màu lục hơn màu đỏ và lam, để thích hợp với mắt người, vốn nhạy với độ sáng-tối hơn là độ màu và phân biệt sáng-tối dựa phần lớn vào màu lục. Đôi khi người ta để hai điểm lục trong lưới lọc màu đó có cường độ khác nhau; như vậy thì ảnh màu sẽ chính xác hơn, nhưng cần phải có một giải thuật nội suy phức tạp hơn.
+
+
+== Kết nối ==
+Nhiều máy chụp ảnh số có thể nối với máy tính để truyền dữ liệu qua.
+Những máy đời đầu thì dùng cổng nối tiếp. Bây giờ thì dùng USB (hầu hết máy chụp ảnh số đều được máy tính xem như một ổ đĩa USB, một số máy thì dùng USB PTP). Một số máy thì có cổng FireWire.
+Một số máy thì dùng kiểu vô tuyến như BlueTooth, Wi-Fi.
+Một cách khác cũng thường được thấy là dùng ổ đọc thẻ nhớ. Ổ đọc thẻ nhớ có thể đọc được nhiều loại thẻ. Dùng cách này giúp cho đỡ hao pin của máy chụp ảnh. Nhưng có hơi bất tiện là cứ phải tháo/gắn thẻ nhớ.
+Nhiều máy đời mới theo chuẩn PictBridge, có thể gửi hình thẳng đến máy in, không cần qua máy tính.
+
+
+== Tích hợp ==
+Nhiều máy điện tử có tích hợp luôn máy chụp ảnh số vào nó. Ví dụ như máy điện thoại di động, PDA. Mục đích chính của sự tích hợp này là sự tiện lợi nên những máy chụp ảnh tích hợp này chỉ cho ảnh nhỏ và kém nét.
+
+
+== Lưu ảnh ==
+Có nhiều cách để lưu ảnh trong máy chụp ảnh số.
+Ghi vào bộ nhớ flash liền trong máy
+Hay gặp ở máy chụp ảnh số rẻ tiền hoặc máy chụp ảnh tích hợp với máy khác.
+Đĩa mềm 3,5"
+Trong dòng máy Mavica cuối những năm 199x.
+Video Floppy
+Những máy đầu tiên dùng một đĩa mềm cỡ 2"x2"
+Đĩa cứng chuẩn PCMCIA
+Những máy chuyên nghiệp đời đầu, bây giờ không còn nữa.
+Đĩa CD hay DVD
+Đĩa CD cỡ 3,5" chứa được 185MB. Cách này được Sony CD-100 dùng.
+In nhiệt
+Máy chụp rồi in luôn chứ không lưu ảnh lại.
+
+
+=== Thẻ nhớ ===
+Thẻ CompactFlash/Microdrive
+Thường gặp ở máy chụp ảnh chuyên nghiệp. Microdrive là một ổ đĩa nhỏ xíu trong hình dáng của thẻ CompactFlash. Có loại adapter để biến một thẻ SD thành thẻ CompactFlash.
+Memory Stick
+Một loại thẻ nhớ của Sony.
+SD/MMC
+Thẻ nhớ có vỏ bên ngoài nhỏ hơn CompactFlash. Đang dần dần thay thế CompactFlash. Thiết kế ban đầu có dung lượng tối đa là 2GB và dùng FAT16, sau này theo chuẩn SDHC là 4GB và dùng FAT32.
+Mini SD
+Vỏ ngoài nhỏ bằng nửa SD. Được dùng cho các máy điện thoại di động.
+Micro SD
+Vỏ ngoài nhỏ bằng một phần tư SD. Được dùng cho các máy điện thoại di động.
+XD Picture
+Được thiết kế bởi Fuji và Olympus trong năm 2002, vỏ ngoài nhỏ hơn SD.
+SmartMedia
+Được thiết kế để cạnh tranh với COmpactFlash. Dung lượng giới hạn ở 128MB. Ngày nay không còn dùng nữa vì bị xD thay thế.
+FP Memory
+2-4MB flash memory, dùng trong các máy chụp ảnh Mustek/Relisys rẻ tiền.
+
+
+== Pin ==
+
+Máy chụp ảnh cần nhiều năng lượng trong khi vỏ máy ngày càng nhỏ. Do đó cần có một loại pin có kích thước nhỏ nhưng lại có nhiều điện năng để máy dùng được lâu.
+Có hai trường phái dùng pin sau đây.
+
+
+=== Pin thông dụng ===
+Là những loại pin chuẩn có sẵn như AA, AAA, hay CR2. Pin CR2 là loại pin gốc lithium, không nạp lại được. Pin AA thông dụng hơn. Loại pin alkaline không có nhiều điện để máy dùng được lâu. Người ta thường dùng pin Nickel metal hydride, vừa tích nhiều điện vừa nạp lại được. Những máy chụp ảnh hạng khá và một số hạng bình dân thường dùng pin thông dụng.
+
+
+=== Pin riêng ===
+Phần lớn pin riêng là pin lithium ion, được nhà sản xuất máy thiết kế riêng. Pin lithium ion chỉ có thể nạp lại được chừng 500 lần, nhưng nó tích được nhiều điện trong một thể tích nhỏ. Những máy chụp ảnh hạng chuyên nghiệp và hạng bình dân hay dùng pin riêng.
+
+
+== Dạng ghi file ==
+Những dạng thông dụng là JPEG và TIFF.
+Máy chuyên nghiệp hay DSLR thì có thể ghi dạng RAW. Ảnh RAW là ảnh đọc từ bộ cảm biến chưa được biến đổi gì hết. Mỗi hãng có một cách ghi ảnh RAW riêng.
+Ảnh RAW phải được xử lý bằng software. Khi xử lý ảnh RAW, có thể đưa vào những thay đổi như độ cân bằng màu trắng, bù sáng, nhiệt độ màu... Từ ảnh RAW nhiếp ảnh gia có thể đưa những điều chỉnh vào mà không sợ mất chất lượng ảnh.
+Ảnh động thì được ghi theo các dạng AVI, DV, MPEG, MOV, WMV, MP4.
+
+
+== Xem thêm ==
+Máy ảnh
+Máy ảnh cơ
+DSLR
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Tạp chí Máy ảnh số VN
+Tạp chí Thế giới vi tính với Máy ảnh số
+Chip cảm biến ảnh 111 megapixel của Dalsa Semiconductor
+Số hóa.Net
+The History of Digital Cameras
+Máy ảnh số tại Encyclopædia Britannica (tiếng Anh)

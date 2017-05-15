@@ -1,0 +1,12 @@
+Sức mua tương đương (hay được viết tắt là PPP xuất phát từ purchasing power parity) là một kiểu tính tỷ giá hối đoái giữa đơn vị tiền tệ của hai nước. Các nhà kinh tế học tính xem cùng một lượng hàng của cùng một thứ hàng hóa khi bán ở hai nước khác nhau bằng đơn vị tiền tệ của hai nước đó thì số tiền phải bỏ ra ra sao, rồi từ đó so sánh lượng hai đơn vị tiền tệ.
+Trong kinh tế học, với giả định rằng mọi nền kinh tế đều mở cửa hoàn toàn để hàng hóa có thể lưu thông từ nước này sang nước kia và lờ đi chi phí vận tải hàng hóa từ nước này sang nước kia, thì tỷ giá hối đoái tính theo phương pháp sức mua tương đương đúng bằng tỷ giá hối đoái spot. Tuy nhiên trong thực tế, khi hai giả định trên không được đảm bảo và vì thêm nhiều yếu tố khác, hai mức tỷ giá hối đoái thường khác nhau.
+Khi so sánh tổng sản phẩm quốc nội của các nước, các cơ quan thống kê hay quy đổi tổng sản phẩm các nước theo cùng một đơn vị tiền tệ (thường là dollar Mỹ). Và khi dùng hai loại tỷ giá hối đoái spot và tỷ giá hối đoái theo sức mua tương đương sẽ cho hai con số GDP khác nhau.
+Việc tính tỷ giá theo sức mua tương đương hoàn toàn không dễ dàng vì khó mà kiếm được một thứ hàng hóa mà ở các nước khác nhau nó vẫn giống hệt nhau. Trong cố gắng tìm một thứ hàng hóa như vậy, tạp chí The Economist đã chọn bánh Big Mac và cho ra Chỉ số Big Mac. Tuy nhiên trong thực tế, để phù hợp với khẩu vị của các địa phương, McDonald vẫn làm bánh Big Mac ở địa phương này không hoàn toàn giống Big Mac ở địa phương kia. Thêm vào đó, thực phẩm như Big Mac thường được sản xuất tại địa phương và giá nhân công địa phương sẽ ảnh hưởng tới giá Big Mac. Gần đây, công ty CommSec lại giới thiệu Chỉ số iPod để đo PPP.
+
+
+== Xem thêm ==
+Thuyết sức mua tương đương
+Danh sách quốc gia theo GDP (PPP) năm 2008
+
+
+== Tham khảo ==

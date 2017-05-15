@@ -1,0 +1,61 @@
+Sir Timothy John "Tim" Berners-Lee (sinh ngày 8 tháng 6 năm 1955), cũng được biết đến với tên gọi TimBL, là một nhà khoa học máy tính người Anh, được biết đến nhiều nhất với vai trò là người phát minh ra World Wide Web. Ông là người đã đưa ra đề nghị về một hệ thống quản lý thông tin vào tháng 3 năm 1989, và ông đã thực hiện việc giao tiếp thông tin thành công đầu tiên thông qua một giao thức truyền tải siêu văn bản (HTTP) giữa máy khách và máy chủ qua Internet vào khoảng giữa tháng 11 cùng năm.
+Berners-Lee là chủ tịch của World Wide Web Consortium (W3C), chuyên trách việc tiếp tục phát triển nền tảng Web. Ông cũng là sáng lập viên của Quỹ World Wide Web và là nhà nghiên cứu cấp cao và người giữ ghế sáng lập viên tại Phòng thí nghiệm Khoa học Máy tính và Trí tuệ Nhân tạo MIT (CSAIL). Ông là giám đốc của chương trình Sáng kiến Nghiên cứu Khoa học Web (WSRI), và là thành viên ban cố vấn của Trung tâm Tri thức Tập thể MIT. Năm 2011, ông được bổ nhiệm làm thành viên hội đồng quản trị Quỹ Ford.
+Năm 2004, Berners-Lee được phong tước bởi Nữ hoàng Elizabeth II cho công lao mang tính tiên phong của mình. Tháng 4 năm 2009, ông được bầu làm Cộng tác viên nước ngoài của Học viện Khoa học Quốc gia Hoa Kỳ. Được vinh danh trong danh sách 100 người quan trong nhất thế kỷ 20 của tạp chí Time, Berners-Lee đã nhận được một số lượng các giải thưởng khác cho phát minh của mình. Ông được vinh danh là "Nhà phát minh của World Wide Web" trong lễ khai mạc Thế vận hội mùa hè 2012, với việc đích thân xuất hiện trong trạng thái đang làm việc với một chiếc máy tính NeXT Computer cũ kỹ tại London Olympic Stadium. Ông đã tweet với ghi chú "This is for everyone" ("Điều này dành cho tất cả mọi người"), thông điệp này ngay lập tức được hiển thị lên qua số đèn LCD gắn trên ghế của 80.000 khán giả. Berners-Lee đã nhận được giải thưởng Turing năm 2016 "vì đã phát minh ra World Wide Web, trình duyệt web đầu tiên, và các giao thức và thuật toán cơ bản cho phép Web có thể mở rộng quy mô".
+
+
+== Niên thiếu và quá trình học tập ==
+Berners-Lee sinh ra tại Luân Đôn (Anh), là con của Conway Berners-Lee và Mary Lee Woods. Cha mẹ ông là nhà toán học và cùng làm việc cho nhóm phát triển Ferranti Mark 1, một trong những máy tính được xây dựng cho mục đích thương mại đầu tiên. Họ dạy Berners-Lee sử dụng toán suốt ngày, ngay cả khi ăn bữa tối với gia đình. Berners-Lee học tại Trường tiểu học Sheen Mount trước khi học O-Levels và A-Levels từ 1969 tới 1973 tại Trường Emanuel ở Wandsworth, phía Tây London, ở thời điểm này là một trường dạy văn phạm bao cấp trực tiếp (direct grant grammar school), sau đó chuyển thành trường tư thục vào năm 1975. Là một người có niềm yêu thích nhiệt tình với xe lửa (en:trainspotter) từ khi còn nhỏ, ông đã học về các thiết bị điện tử từ việc chỉnh sửa một mô hình đường sắt. Ông đã học tại The Queen's College, Oxford, từ năm 1973 tới 1976, nơi ông nhận được bằng tú tài văn chương (bachelor of arts) hạng nhất về vật lý.
+
+
+== Sự nghiệp ==
+
+Năm 1976, ông làm lập trình viên cho hãng Plessey Controls Limited tại Poole (hồi đó sản xuất đèn giao thông). Ông gặp vợ thứ nhất, Jane, khi đang đi học Oxford, và ông cưới Jane sau khi họ bắt đầu làm việc cùng hãng. Năm 1978, ông làm cho D.G. Nash Limited (cũng ở Poole), ở đấy ông phát triển phần mềm sắp chữ và hệ điều hành.
+Vào lúc làm nhân viên hợp đồng độc lập ở CERN, từ tháng 6 đến tháng 12 năm 1980, Berners-Lee đề nghị một dự án dựa trên khái niệm siêu văn bản (hypertext), để các nhà nghiên cứu chia sẻ và cập nhật thông tin dễ hơn. Ở đấy, ông xây dựng hệ thống mẫu có tên ENQUIRE.
+Sau khi ông rời CERN năm 1980 để làm việc cho Image Computer Systems Ltd. của John Poole, ông trở lại năm 1984 như hội viên. Năm 1989, CERN còn là nút Internet lớn nhất ở châu Âu, và Berners-Lee thấy cơ hội nối siêu văn bản với Internet: "Tôi chỉ cần lấy khái niệm siêu văn bản và nối nó với các khái niệm TCP và DNS và — đấy! — có World Wide Web." Ông viết bài đề nghị đầu tiên vào tháng 3 năm 1989, và vào năm 1990, do Robert Cailliau giúp đỡ, ông viết phiên bản mới được quản đốc Mike Sendall tán thành. Ông sử dụng những khái niệm giống của hệ thống ENQUIRE để tạo ra World Wide Web; để hỗ trợ nó, ông phát triển trình duyệt / trình soạn Web chạy trên NEXTSTEP (có tên WorldWideWeb) và trình phục vụ Web đầu tiên có tên httpd (viết tắt của HyperText Transfer Protocol daemon).
+Website đầu tiên được xây tại địa chỉ http://info.cern.ch/ và được phát hành ngày 6 tháng 8 năm 1991. Nó giải thích World Wide Web là cái gì, cách tìm trình duyệt, và cách thiết lập trình phục vụ Web. Nó cũng là danh bạ Web đầu tiên, vì Berners-Lee duy trì một danh sách về những website khác.
+Năm 1994, Berners-Lee thành lập World Wide Web Consortium (W3C) tại Học viện Kỹ thuật Massachusetts (MIT). Nó bao gồm nhiều công ty muốn đặt tiêu chuẩn để cải tiến chất lượng của Web. Tháng 12 năm 2004, ông nhận ghế Chủ tịch khóa Khoa học máy tính của Trường Điện tử học và Khoa học máy tính ở Đại học Southampton (Anh), ở đấy ông sẽ làm dự án mới – Semantic Web (Web ngữ nghĩa).
+Berners-Lee phát hành những khái niệm ông cởi mở, không bắt phải mua giấy phép để sử dụng. W3C quyết định rằng các tiêu chuẩn của nó phải dựa trên công nghệ miễn phí, để cho mọi người có thể tiến hành các khái niệm đó.
+
+
+== Công việc hiện tại ==
+
+Tháng 6, 2009 Thủ tướng Anh Gordon Brown thông báo Berners-Lee có thể làm cho chính phủ Anh để giúp họ thành lập dữ liệu mở hơn và dễ truy cậo qua Web, xây dựng trên tác vụ Power of Information Task Force. Berners-Lee và giáo sư Nigel Shadbolt là 2 thành viên chính đứng sau trang web data.gov.uk, một dự án của chính phủ Anh để mở hầu hết dữ liệu thu được phục vụ cho các mục đích chính thức sử dụng lại miễn phí. Bình luận về việc mở cửa các dữ liệu Ordnance Survey trong tháng 4 năm 2010, Berners-Lee cho biết: "Những thay đổi báo hiệu một sự thay đổi văn hóa rộng lớn hơn trong chính phủ dựa trên một giả định rằng thông tin phải ở trong một tên miền công cộng trừ khi có một lý do chính đáng là nó không nên như thế." Ông nói thêm rằng "Tính cởi mở, trách nhiệm giải trình và tính minh bạch lớn hơn trong chính phủ sẽ cung cấp cho người dân được lựa chọn hơn và làm cho nó dễ dàng hơn cho các cá nhân được trực tiếp tham gia nhiều hơn trong các vấn đề quan trọng đối với họ."
+Đến tháng 5 năm 2012, Berners-Lee là chủ tịch Viện dữ liệu mở.
+Liên minh Affordable Internet (A4AI) được thành lập tháng 10 năm 2013 và Berners-Lee đang dẫn đầu liên minh của các tổ chứa công và tư như Google, Facebook, Intel và Microsoft. A4AI tìm cách làm cho chi phí truy cập internet ở mức chấp nhận được để việc truy cập internet ở các nước đang phát triển mở rộng hơn, ở các nước này mức độ truy cập chỉ 31%. Berners-Lee sẽ giúp giảm giá truy cập internet vì vậy họ giảm xuống dưới mục tiêu toàn cầu của Ủy ban băng thông rộng của Liên Hợp Quốc là 5% thu nhập hàng tháng.
+
+
+== Giải thưởng và danh hiệu ==
+
+Berners-Lee đã nhận được nhiều giải thưởng và danh hiệu. Ông được phong tước hiệp sĩ vào năm 2004 khi được thăng cấp từ bậc Sĩ quan của Tước vị Hiệp sĩ Đế quốc Anh (Officer of the Order of the British Empire - OBE) lên Chỉ huy Hiệp sĩ (Knight Commander) của Tước vị Hiệp sĩ Đế quốc Anh (KBE) trong dịp Vinh danh mừng Năm mới "cho những phụng sự cho quá trình phát triển toàn cầu của Internet", và được bổ nhiệm chính thức vào ngày 16 tháng 7 năm 2004..
+Ngày 13 tháng 6 năm 2007, ông được bổ nhiệm vào Huân chương Công lao (Order of Merit - OM), một tước vị giới hạn trong 24 thành viên (còn sống). Việc ban cho tư cách thành viên của Huân chương Công lao nằm trong quyền hạn cá nhân của Nữ hoàng, và không cần sự đề nghị của các Bộ trưởng hoặc Thủ tướng. Ông được bầu làm Uỷ viên Hội hoàng gia (Fellow of the Royal Society - FRS) năm 2001. Ông đã được trao bằng danh dự từ một số trường đại học trên thế giới, trong đó có Manchester (cha mẹ ông từng làm việc trong dự án tạo ra máy tính Manchester Mark 1 trong thập niên 1940), Harvard và Yale.
+Năm 2012, Berners-Lee là một trong những biểu tượng văn hoá Anh được lựa chọn bởi nghệ sĩ Sir Peter Blake để xuất hiện trong một phiên bản mới của tác phẩm nổi tiếng nhất của ông – bìa album Sgt. Pepper's Lonely Hearts Club Band của The Beatles – nhằm tán dương các nhân vật văn hoá Anh trong cuộc đời của ông mà ông ngưỡng mộ nhất, để đánh dấu sinh nhật lần thứ 80 của ông. Ngày 4 tháng 4 năm 2017, the Hiệp hội Máy tính đã xướng tên Berners-Lee là chủ nhân của Giải thưởng Turing năm 2016 "vì đã phát minh ra World Wide Web, trình duyệt web đầu tiên, và các giao thức và thuật toán cơ bản cho phép Web có thể mở rộng quy mô".
+
+
+== Đời tư ==
+Berners-Lee đã kết hôn với Nancy Carlson năm 1990; họ đã có hai con và ly hôn vào năm 2011. Năm 2014, Berners-Lee kết hôn với Rosemary Leith tại Cung điện Thánh James ở London. Leith là giám đốc của Quỹ World Wide Web và là thành viên của Trung tâm Berkman ở Đại học Harvard. Trước đó, bà là Chủ tịch Hội đồng Công trình Toàn cầu của Diễn đàn Kinh tế thế giới về Tương lai An ninh Internet và bây giờ là thành viên hội đồng quản trị của YouGov.
+Berners-Lee được nuôi dạy như là một người Anh giáo, nhưng khi còn trẻ, ông đã từ bỏ đức tin này. Sau khi làm cha, ông trở thành một người theo Chủ nghĩa Phổ độ Nhất thể (Unitarian Universalism - UU). Ông chia sẻ: "Giống như nhiều người, tôi đã nhận được sự dạy dỗ về một tôn giáo mà tôi đã từ chối khi còn là thiếu niên... Giống như nhiều người, tôi đã trở lại với tôn giáo khi chúng tôi có con". Ông và vợ mình muốn dạy về đời sống tinh thần cho con cái của mình, và sau khi nghe lời khuyên từ một mục sư và viếng thăm một nhà thờ theo Chủ nghĩa Phổ độ Nhất thể, họ đã lựa chọn nó. Ông là một thành viên tích cực của nhà thờ đó, mà ông tôn trọng vì ông coi đó là một niềm tin khoan dung và tự do. Ông đã bày tỏ sự tôn trọng đối với các tôn giáo khác, nói rằng: "Tôi tin rằng phần lớn triết lý sống liên kết với nhiều tôn giáo thì đúng đắn hơn nhiều so với giáo điều mà nó mang lại cùng với nó. Vì điều này nên tôi tôn trọng chúng."
+
+
+== Tác phẩm công bố ==
+Berners-Lee, Tim; Mark Fischetti (1999). Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web by its inventor. Britain: Orion Business. ISBN 0-7528-2090-7.  
+PMID 21141362 (PubMed)Citation will be completed automatically in a few minutes. 
+Jump the queue or expand by hand
+PMID 18847088 (PubMed)Citation will be completed automatically in a few minutes. 
+Jump the queue or expand by hand
+PMID 16902115 (PubMed)Citation will be completed automatically in a few minutes. 
+Jump the queue or expand by hand
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Trang chủ của Berners-Lee
+Blog của Berners-Lee
+Tim Berners-Lee trong Dimiþox
+Sách Weaving The Web của Berners-Lee miêu tả các ý kiến ông về lịch sử và tương lai Web.
+World Wide Web Consortium
+Lịch sử W3C
+Bài đề nghị đầu tiên của Berners-Lee tại CERN
+
+Tin nhắn đầu tiên trên alt.hypertalk miêu tả Dự án WorldWideWeb của ông

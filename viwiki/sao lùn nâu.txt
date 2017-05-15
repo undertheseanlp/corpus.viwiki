@@ -1,0 +1,289 @@
+Sao lùn nâu là các thiên thể dưới sao, có khối lượng dưới mức đủ để duy trì các phản ứng tổng hợp hạt nhân đốt cháy hydro trong lõi, như các ngôi sao thuộc dãy chính, nhưng có bề mặt và phần bên trong hoàn toàn đối lưu, và không có sự khác biệt hóa học theo chiều sâu. Các ngôi sao lùn nâu có khối lượng trong khoảng khối lượng những hành tinh kiểu giữa hành tinh khí khổng lồ và những ngôi sao có khối lượng thấp nhất; giới hạn trên này ở giữa khoảng 75 và 80 lần khối lượng Sao Mộc (
+  
+    
+      
+        
+          M
+          
+            J
+          
+        
+      
+    
+    {\displaystyle M_{J}}
+  ). Hiện tại có một số tranh cãi về tiêu chí nào được sử dụng để định nghĩa sự khác biệt giữa sao lùn nâu với một hành tinh khổng lồ ở các khối lượng sao lùn nâu rất thấp (~13 
+  
+    
+      
+        
+          M
+          
+            J
+          
+        
+      
+    
+    {\displaystyle M_{J}}
+  ), và liệu các ngôi sao lùn nâu ở một số thời điểm của mình có xảy ra phản ứng tổng hợp hạt nhân hay không. Trong bất kỳ trường hợp nào, những sao lùn nâu nặng hơn 13 
+  
+    
+      
+        
+          M
+          
+            J
+          
+        
+      
+    
+    {\displaystyle M_{J}}
+   làm tan chảy deuterium và những ngôi sao trên ~65 
+  
+    
+      
+        
+          M
+          
+            J
+          
+        
+      
+    
+    {\displaystyle M_{J}}
+   cũng làm tan chảy lithium. Những hành tinh duy nhất được phát hiện quay xung quanh các ngôi sao lùn nâu là 2M1207b và MOA-2007-BLG-192Lb.
+
+
+== Lịch sử ==
+Sao lùn nâu (brown dwarf), một thuật ngữ do Jill Tarter đặt ra năm 1975, ban đầu được gọi là sao lùn đen, một kiểu xếp hạng các vật thể dưới sao có màu tối, trôi nổi tự do trong vũ trụ, có khối lượng quá thấp để duy trì phản ứng tổng hợp hydro ổn định (thuật ngữ sao lùn đen hiện chỉ một ngôi sao lùn trắng đã lạnh đi tới mức không còn phát xạ nhiệt độ hay ánh sáng). Những tên khác đã được đề xuất, gồm Planetar và Substar.
+Những lý thuyết ban đầu liên quan tới trạng thái của những ngôi sao có khối lượng thấp nhất và giới hạn đốt cháy hydro cho rằng các vật thể với khối lượng nhỏ hơn 0.07 khối lượng Mặt Trời đối với các vật thể thuộc Population I hay các vật thể với khối lượng nhỏ hơn 0.09 khối lượng Mặt Trời đối với các vật thể thuộc Population II sẽ không bao giờ đi theo quá trình tiến hóa sao thông thường mà sẽ trở thành một ngôi sao suy thoái hoàn toàn (Kumar 1963). Vai trò của việc đốt cháy deuterium đối với vật thể nhỏ tới 0.012 khối lượng Mặt Trời và sức nén của sự hình thành bụi trong các khí quyển lạnh bên ngoài các ngôi sao lùn nâu đã được biết đến ở cuối những năm 80. Tuy nhiên, rất khó để phát hiện ra chúng trên bầu trời đêm, bởi chúng không phát xạ ánh sáng. Những phát xạ mạnh nhất đều ở trong quang phổ hồng ngoại (IR), và những máy thám sát hồng ngoại trên Trái Đất quá thiếu chính xác ở thời điểm ấy để sẵn sàng xác định bất kỳ ngôi sao lùn nâu nào.
+Từ những bước đầu đó, nhiều nghiên cứu về các biện pháp khác nhau đã được tiến hành để tìm ra các vật thể đó. Một số biện pháp trong số đó gồm thám sát hình ảnh đa màu quanh các ngôi sao từ trường, thám sát chụp ảnh các sao đồng hành có ánh sáng yếu của những ngôi sao lùn thuộc dãy chính và các sao lùn trắng, thám sát các chùm sao trẻ và vận tốc quay kiểm tra cho các sao đồng hành cự ly gần.
+Trong nhiều năm, những nỗ lực nhằm phát hiện các ngôi sao lùn nâu không mang lại kết quả và các cuộc nghiên cứu để tìm chúng dường như là vô ích. Tuy nhiên, vào năm 1988, hai giáo sư Eric Becklin và Ben Zuckerman thuộc Đại học California, Los Angeles đã xác định một ngôi sao đồng hành mờ của GD 165 trong một cuộc thám sát hồng ngoại những ngôi sao lùn trắng. Quang phổ của GD 165B rất đỏ và khác thường, không hề có các đặc tính thường thấy của một ngôi sao lùn đỏ khối lượng thấp thông thường. Cuối cùng mọi việc trở nên rõ ràng rằng GD 165B phải được xếp hạng như một vật thể lạnh hơn nhiều so với những ngôi sao lùn kiểu M mới được biết đến gần nhất khi ấy. GD 165B tiếp tục là trường hợp duy nhất trong gần một thập kỷ cho tới khi chương trình Two Micron All Sky Survey (2MASS) được thực hiện khi Davy Kirkpatrick, trong Viện kỹ thuật California, cùng những người khác khám phá nhiều vật thể với màu sắc và đặc điểm quang phổ tương tự.
+Ngày nay, GD 165B được công nhận là nguyên mẫu của một lớp vật thể hiện được gọi là "sao lùn nâu L". Tuy việc khám phá ngôi sao lùn lạnh nhất có tầm quan trọng lớn ở thời điểm ấy, mọi người tranh cãi liệu GD 165B sẽ được xếp hạng là một sao lùn nâu hay đơn giản là một ngôi sao có khối lượng rất thấp, bởi theo quan sát, rất khó để phân biệt nó thuộc loại nào trong hai loại đó.
+Khá thú vị, ngay sau khi GD 165B được phát hiện các ứng cử viên khác để trở thành sao lùn nâu cũng được thông báo. Tuy nhiên, đa số đã không chính xác, và với những kiểm tra thêm về tình trạng dưới sao, như kiểm tra lithium, nhiều vật thể hóa ra là các vật thể sao chứ không phải những ngôi sao lùn nâu thực sự. Khi còn trẻ (lên tới một tỷ năm tuổi), các ngôi sao lùn nâu có thể có nhiệt độ và độ sáng tương tự như một số ngôi sao, vì thế các đặc tính phân biệt khác là cần thiết, như sự hiện diện của lithium. Đa số các ngôi sao sẽ đốt hết lithium trong vòng chưa tới 100 triệu năm, trong khi đa số những ngôi sao lùn nâu không bao giờ có nhiệt độ lõi đủ lớn để làm việc này. Vì thế, việc kiểm tra lithium trong khí quyển một vật thể ứng cử viên sẽ đảm bảo nó có phải là một sao lùn nâu không.
+Năm 1995 việc nghiên cứu sao lùn nâu đã thay đổi mạnh với swj phát hiện ba vật thể dưới sao rõ ràng, một số đã được xác định có sự hiện diện của dòng 6708 Li. Vật thể đáng chú ý nhất là Gliese 229B được phát hiện có nhiệt độ và độ sáng thấp hơn nhiều so với phạm vi của các ngôi sao. Đáng chú ý, quang phổ gần hồng ngoại của nó thể hiện rõ dải hấp thụ methane ở sóng 2 micrometre, một đặc điểm trước đó chỉ được quan sát thấy trong khí quyển của những hành tinh khí khổng lồ và trong khí quyển vệ tinh Titan của Sao Mộc. Sự hấp thụ methane không thể diễn ra ở những nhiệt độ của các ngôi sao dãy chính. Khám phá này giúp hình thành một lớp quang phổ khác thậm chí còn lạnh hơn các sao lùn nâu L, được gọi là "sao lùn nâu T" với Gl 229B là nguyên mẫu.
+Từ năm 1995, khi ngôi sao lùn nâu đầu tiên được xác định, hàng trăm sao khác đã được phát hiện. Những ngôi sao lùn nâu gần Trái Đất gồm Epsilon Indi Ba và Bb, một cặp sao lùn nâu liên kết trọng lực với một ngôi sao kiểu Mặt Trời, khoảng 12 năm ánh sáng từ Mặt Trời.
+
+
+== Lý thuyết ==
+Quá trình sụp đổ hấp dẫn từ một đám mây liên sao lạnh gồm khí và bụi là cơ cấu tiêu chuẩn để hình thành một ngôi sao. Khi đám mây bị nén nóng lên. Sự giải phóng năng lượng hấp dẫn tiềm tàng là nguồn cung cấp năng lượng nhiệt này. Buổi đầu quá trình khí nén nhanh chóng bức xạ ra ngoài rất nhiều năng lượng, cho phép sự sụp đổ tiếp diễn. Cuối cùng vùng trung bâm trở nên đủ đặc để bắt giữ bức xạ. Vì thế, nhiệt độ và mật độ bên trong của đám mây sụp đổ tăng nhanh chóng theo thời gian, làm chậm quá trình nén, cho tới khi các điều kiện nóng và đặc đủ để các phản ứng hạt nhân xảy ra trong lõi của tiền sao. Đối với hầu hết các ngôi sao, khí và áp lực bức xạ sinh ra bởi các phản ứng tổng hợp nhiệt hạch bên trong lõi ngôi sao sẽ chống giữ nó chống lại sự nén hấp dẫn. Thăng bằng thủy tĩnh đạt tới ngưỡng và ngôi sao sẽ trải qua hầu hết cuộc sống tổng hợp hydro thành heli như một ngôi sao dãy chính.
+Tuy nhiên, nếu khối lượng tiền sao thấp hơn 0.08 khối lượng Mặt Trời, các phản ứng nhiệt hạch tổng hợp hydro sẽ không xảy ra trong lõi. Sự nén hấp dẫn không làm nóng tiền sao nhỏ một cách có hiệu quả, và trước khi nhiệt độ trong lõi đủ để kích hoạt phản ứng tổng hợp hạt nhân, mật độ đã đạt tới điểm để các electron trở nên đủ đặc để tạo ra áp lực thoái hóa electron lượng tử. Theo các mô hình cấu trúc bên trong sao lùn nâu, các điều kiện thông thường trong lõi về mật độ, nhiệt độ và áp lực được dự tính như sau:
+
+  
+    
+      
+        
+          ρ
+          
+            c
+          
+        
+        ∼
+        10
+        −
+        
+          10
+          
+            3
+          
+        
+        g
+        
+          /
+        
+        c
+        
+          m
+          
+            3
+          
+        
+      
+    
+    {\displaystyle \rho _{c}\sim 10-10^{3}g/cm^{3}}
+  
+
+  
+    
+      
+        
+          T
+          
+            c
+          
+        
+        ≲
+        3
+        ×
+        
+          10
+          
+            6
+          
+        
+        K
+      
+    
+    {\displaystyle T_{c}\lesssim 3\times 10^{6}K}
+  
+
+  
+    
+      
+        
+          P
+          
+            c
+          
+        
+        ∼
+        
+          10
+          
+            5
+          
+        
+        M
+        b
+        a
+        r
+      
+    
+    {\displaystyle P_{c}\sim 10^{5}Mbar}
+  
+
+Sự nén hấp dẫn tiếp theo sẽ bị ngăn chặn và kết quả là một "sao hỏng", hay một ngôi sao lùn nâu đơn giản bị lạnh đi bởi sự bức xạ năng lượng nhiệt bên trong.
+
+
+=== Phân biệt sao lùn nâu có khối lượng lớn và sao có khối lượng thấp ===
+Lithium: Lithium nói chung hiện diện tại các sao lùn nâu và không có tại các ngôi sao có khối lượng thấp. Các ngôi sao, vốn đã có được nhiệt năng cần thiết cho phản ứng tổng hợp hydro, nhanh chóng tiêu thụ hết lithium. Điều này xảy ra bởi sự va chạm giữa một Lithium-7 và một proton tạo ra hai hạt nhân Helium-4. Nhiệt độ cần thiết cho phản ứng này ngay dưới mức nhiệt độ cần thiết cho phản ứng tổng hợp hydro. Sự đối lưu tại những ngôi sao có khối lượng thấp đảm bảo để toàn bộ lượng lithium trong sao bị tiêu thụ. Vì thế, sự hiện diện của lithium trong dòng quang phổ một vật thể bị nghi là sao lùn nâu là một đặc điểm chứng minh mạnh rằng nó là một vật thể dưới sao. Việc sử dụng lithium để phân biệt sao lùn nâu khỏi các sao có khối lượng nhỏ thường được gọi là thử nghiệm lithium, và đã được Rafael Rebolo cùng các đồng sự tiên phong áp dụng.
+Tuy nhiên, lithium cũng được quan sát thấy ở các ngôi sao rất trẻ, vẫn chưa tiêu thụ hết hoàn toàn chất này. Những ngôi sao nặng hơn như Mặt Trời của chúng ta có thể giữ lithium trong các tầng khí quyển bên ngoài, nơi không bao giờ đủ nóng để tiêu thụ lithium, nhưng chúng có thể được phân biệt với các ngôi sao lùn nâu bởi kích thước.
+Trái lại, các ngôi sao lùn nâu ở có khối lượng lớn nhất có thể đủ nóng để tiêu thụ hết lithium khi chúng đang còn trẻ. Những ngôi sao lùn có khối lượng lớn hơn 65 
+  
+    
+      
+        
+          M
+          
+            J
+          
+        
+      
+    
+    {\displaystyle M_{J}}
+   có thể tiêu thụ toàn bộ lithium khi chúng mới được nửa tỉ năm tuổi[Kulkarni], vì thế cách thử nghiệm này không hoàn hảo.
+Methane: Không giống các ngôi sao, những sao lùn nâu già thỉnh thoảng đủ lạnh để sau những khoảng thời gian dài khí quyển của chúng thu thập đủ khối lượng methane có thể quan sát được. Những ngôi sao lùn được xác định theo cách này gồm Gliese 229B.
+Độ sáng: Những ngôi sao thuộc dãy chính nguội đi, nhưng cuối cùng xuống mức sáng tối thiểu mà chúng có thể duy trì qua các phản ứng tổng hợp hạt nhân ổn định. Điều này khác biệt tùy theo từng sao, nhưng nói chung ít nhất bằng 0.01% độ sáng của Mặt Trời. Những ngôi sao lùn nâu lạnh và tối đi liên tục trong đời chúng: những ngôi sao lùn nâu đủ già sẽ quá mờ nhạt để có thể phát hiện.
+
+
+=== Phân biệt sao lùn nâu khối lượng thấp với hành tinh khối lượng lớn ===
+Một đặc điểm đáng chú ý của các sao lùn nâu là chúng hầu như có cùng bán kính, hơn hoặc kém bán kính Sao Mộc. Với những sao có khối lượng lớn nhất (60-90 lần khối lượng Sao Mộc), thể tích của một sao lùn nâu được quyết định chủ yếu bởi áp suất thoái hóa electron, tương tự như với các sao lùn trắng; với những ngôi sao có khối lượng thấp nhất (1-10 lần khối lượng Sao Mộc), thể tích của chúng được quyết định chủ yếu bởi áp suất Coulomb, tương tự các hành tinh. Kết quả thực là bán kính của sao lùn nâu chỉ thay đổi khoảng 10-15% đối với mọi khối lượng. Điều này có thể khiến việc phân biệt chúng với các hành tinh khá khó khăn.
+Ngoài ra, nhiều sao lùn nâu không trải qua giai đoạn tổng hợp hạt nhân; những ngôi sao có khối lượng thấp (dưới 13 lần khối lượng Sao Mộc) không bao giờ đủ nóng để tổng hợp thậm chí là deuterium, và thậm chí các sao có khối lượng lớn nhất (hơn 60 lần khối lượng Sao Mộc) lạnh đi đủ nhanh để chúng không trải qua giai đoạn tổng hợp sau một khoảng thời gian khoảng 10 triệu năm. Tuy nhiên, có hai cách để phân biệt sao lùn nâu với các hành tinh:
+Mật độ là một cách phân biệt rõ. Các sao lùn nâu đều có cùng cỡ bán kính; vì thế bất kỳ vật thể nào với khối lượng gấp hơn 10 lần Sao Mộc đều có thể không phải là một hành tinh.
+Quang phổ tia X và hồng ngoại cũng là một dấu hiệu nhận biết. Một số sao lùn nâu phát ra tia X; và tất cả các sao lùn nâu "ấm" tiếp tục tiến về phía quang phổ đỏ và hồng ngoại cho tới khi chúng nguội đi tới nhiệt độ như các hành tinh (dưới 1000 K).
+Một số nhà thiên văn học tin rằng trên thực tế không có sự phân biệt rõ ràng giữa các sao lùn nâu và các hành tinh nặng, và rằng có sự tiếp nối giữa chúng. Ví dụ, Sao Mộc và Sao Thổ đều có cấu tạo chủ yếu từ hydro và helium, như Mặt Trời. Sao Thổ gần như lớn bằng Sao Mộc, dù chỉ có khối lượng bằng 30%. Ba hành tinh khí khổng lồ trong Hệ Mặt Trời của chúng ta (Sao Mộc, Sao Thổ, và Sao Hải Vương) bức xạ ra nhiều sức nóng hơn chúng nhận được từ Mặt Trời. Và tất cả bốn hành tinh khí khổng lồ đều có "các hệ hành tinh"—vệ tinh—của riêng chúng. Ngoài ra, người ta đã phát hiện rằng cả các hành tinh và các sao lùn nâu đều có quỹ đạo lệch tâm.
+Hiện nay, Liên đoàn Thiên văn Quốc tế coi các vật thể với khối lượng vượt trên giới hạn khối lượng cho các phản ứng nhiệt hạch deuterium (hiện được tính khoảng 13 lần khối lượng Sao Mộc với các vật thể Sao Kim loại) là một sao lùn nâu, trong khi đó những vật thể dưới mức khối lượng đó (và bay quanh mộo ngôi sao hay các tàn tích sao) được coi là các hành tinh.
+
+
+== Quan sát ==
+
+
+=== Xếp hạng sao lùn nâu ===
+Các đặc tính định nghĩa của lớp quang phổ M, kiểu lạnh nhất trong dãy sao đã có từ lâu đời, là một quang phổ quang học được quyết định chủ yếu gồm các dải hấp thụ phân tử titanium oxide (TiO) và vanadium oxide (VO). Tuy nhiên, GD 165B, vật thể bạn đồng hành lạnh của sao lùn trắng GD 165 không có các đặc điểm xác nhận Tio của các sao lùn nâu M. Việc xác định nhiều bạn đồng hành sau đó của GD 165B đã buộc Kirkpatrick và những người khác phải đưa ra một lớp quang phổ mới, các sao lùn nâu kiểu L, được xác định trong vùng quang học đỏ không phải bởi các dải metal-oxide suy yếu (TiO, VO), mà bởi các dải kim loại hydride mạnh (FeH, CrH, MgH, CaH) và các dải alkali nổi bật (Na I, K I, Cs I, Rb I). Ở thời điểm tháng 4 năm 2005, hơn 400 sao lùn nâu kiểu L đã được xác định (xem link tham khảo bên dưới), đa số bởi các cuộc nghiên cứu phổ rộng: Two Micron All Sky Survey (2MASS), Deep Near Infrared Survey vùng bầu trời phía nam (DENIS), và Sloan Digital Sky Survey (SDSS).
+Bởi GD 165B là nguyên mẫu của các sao lùn nâu kiểu L, Gliese 229B là nguyên mẫu của một lớp quang phổ mới thứ hai, sao lùn nâu kiểu T. Theo đó quang phổ cận hồng ngoại (NIR) của các sao lùn nâu kiểu L có những dài hấp thụ H2O carbon monoxide (CO) mạnh, quang phổ cận hồng ngoại của Gliese 229B chủ yếu gồm các dài hấp thụ từ methane (CH4), các đặc điểm chỉ được tìm thấy trên các hành tinh khổng lồ của Hệ Mặt Trời và Titan. Hấp thụ do va chạm (CIA) CH4, H2O, và phân tử hydro (H2) khiến Gliese 229B có các màu sắc xanh cận hồng ngoại. Sự nghiêng mạnh về phía phổ quang học đỏ của nó cũng thiếu các dải FeH và CrH là đặc điểm phân biệt của các sao lùn nâu kiểu L và thay vào đó bị ảnh hưởng bởi dải hấp thụ rất lớn có đặc điểm từ các kim loại alkali Na và K. Những khác biệt đó khiến Kirkpatrick đề xuất lớp quang phổ T cho các vật thể có dải hấp thụ H- và K- CH4. Ở thời điểm tháng 4 năm 2005, 58 sao lùn nâu kiểu T đã được biết. Các biểu đồ xếp hạng cận hồng ngoại cho các sao lùn nâu kiểu T gần đây đã được Adam Burgasser và Tom Geballe phát triển. Lý thuyết cho rằng các sao lùn nâu kiểu L là sự pha trộn giữa những ngôi sao có khối lượng rất thấp và các vật thể dưới sao (các sao lùn nâu), trong khi các sao lùn nâu lớp T chiếm số đông trong cộng đồng sao lùn nâu.
+Đa số thông lượng do các sao lùn nâu kiểu L và T phát ra ở trong khoảng cận hồng ngoại 1 tới 2.5 micromét. Nhiệt độ thấp và giảm bớt ở cuối dãy sao M, L và T dẫn tới một quang phổ cận hồng ngoại phong phú chứa nhiều đặc điểm, từ các dòng khá nhỏ của các loại nguyên tử trung tính tới các dòng phân tử lớn, tất cả chúng đều có sự phụ thuộc khác nhau vào nhiệt độ, hấp dẫn, và độ kim loại. Hơn nữa, những điều kiện nhiệt độ thấp đó thích hợp cho sự cô đọng thành tình trạng khí và sự hình thành các hạt.
+Các áp suất đặc trưng của các ngôi sao lùn nâu đã biết trong khoảng nhiệt độ từ 2200 hạ xuống 750 K (Burrows et al. 2001). So với các ngôi sao, vốn tự làm nóng mình bằng phản ứng nhiệt hạch ổn định bên trong, các ngôi sao lùn nâu lạnh đi nhanh chóng theo thời gian; các sao lùn nâu càng lớn càng lạnh đi nhanh hơn.
+
+
+=== Các kỹ thuật quan sát ===
+Coronagraph gần đây đã được sử dụng để phát hiện các vật thể mờ quay quanh các ngôi sao sáng nhìn thấy được, gồm cả Gliese 229B.
+Các kính viễn vọng nhạy được trang bị cùng với các thiết bị charge-coupled (CCDs) đã được dùng để quan sát các bầy sao ở xa nhằm tìm ra các vật thể mờ, gồm cả Teide 1.Những cuộc tìm kiếm trường rộng đã xác định các vật thể mờ riêng biệt như Kelu-1 (cách xa 30 năm ánh sáng)
+
+
+=== Những thời điểm quan trọng ===
+1995: Sao lùn nâu đầu tiên được xác định. Teide 1, một vật thể M8 trong cụm sao Pleiades, được phát hiện bởi một CCD trong Đài thiên văn Tây Ban Nha Roque de los Muchachos của Instituto de Astrofísica de Canarias.
+Sao lùn nâu methane đầu tiên được xác định. Gliese 229B được khám phá quay quanh sao lùn đỏ Gliese 229A (cách 20 năm ánh sáng) sử dụng một adaptive optics coronagraph để làm sắc nét ảnh từ kính viễn vọng phản xạ 60 inch (1.5 m) tại Đài thiên văn Palomar trên Núi Palomar phía nam California; nghiên cứu phổ quang học hồng ngoại sau đó bằng kính thiên văn Hale 200 inch (5 m) cho thấy sự hiện diện phong phú của methane.
+1998: Sao lùn nâu phát xạ tia X đầu tiên được phát hiện. Cha Halpha 1, một vật thể M8 trong đám mây tối Chamaeleon I, được xác định là một nguồn phát xạ tia X, tương tự như các ngôi sao đối lưu kiểu muộn (late-type).
+15 tháng 12 năm 1999: Vụ lóe bùng tia X đầu tiên được phát hiện từ một sao lùn nâu. Một đội thuộc Đại học California đang quan sát LP 944-20 (60 lần khối lượng Sao Mộc, cách 16 năm ánh sáng) qua đài thiên văn tia X Chandra, đã thấy được một vụ lóe bùng kéo dài 2 giờ.
+27 tháng 7 năm 2000: Phát xạ sóng radiao (trong lóe bùng và yên lặng) được phát hiện từ một ngôi sao lùn nâu. Một đội sinh viên thuộc Very Large Array đã thông báo vụ quan sát vật thể LP 944-20 của họ ngày 15 tháng 3 năm 2001 trong số báo Nature của Anh.
+
+
+=== Những phát triển gần đây ===
+Những cuộc quan sát các ứng cử viên là sao lùn nâu đã biết gần đây cho thấy một mẫu hình sáng và tối của các phát xạ hồng ngoại kiểu các đám mây khá lạnh và mờ bên ngoài bao quanh một nhân nóng bên trong bị xáo trộn bởi những cơn gió rất mạnh. Thời tiết trên những vật thể đó được cho là rất mãnh liệt, bằng và vượt quá những cơn bão nổi tiếng trên Sao Mộc.
+Những vụ lóe bùng tia X được quan sát thấy từ các ngôi sao lùn nâu từ năm 1999 cho thấy có sự thay đổi từ trường bên trong chúng, tương tự như sự thay đổi trong những ngôi sao có khối lượng rất thấp.
+Một ngôi sao lùn nâu, Cha 110913-773444, nằm cách chòm sao Chamaeleon 500 năm ánh sáng có thể đang trong quá trình hình thành bên trong một hệ mặt trời nhỏ. Các nhà thiên văn học thuộc Đại học Bang Pennsylvania đã phát hiện cái mà họ tinh là một đĩa khí và bụi tương tự với đĩa theo giả thuyết đã hình thành nên hệ mặt trời của chúng ta. Cha 110913-773444 là ngôi sao lùn nâu nhỏ nhất được phát hiện cho tới thời điểm hiện tại (gấp 8 lần khối lượng Sao Mộc) và nếu nó tạo ra một hệ mặt trời thì đây có thể là vật thể nhỏ nhất đã biết có được một hệ riêng. Những phát hiện của họ đã được xuất bản trong số ngày 10 tháng 12 của Astrophysical Journal Letters
+
+
+== Một số sao lùn nâu nổi tiếng ==
+Bản mẫu:Split-section
+2M1207: sao lùn nâu đầu tiên được phát hiện với một vật thể có khối lượng cỡ hành tinh quay quanh nó
+WD0137-349 B: Sao lùn nâu đầu tiên được xác định đã trải qua giai đoạn sao đỏ khổng lồ đầu tiên (Maxted et al. 2006, Nature, 442, 543).
+Một số nhà thiên văn học cũng đã tiên đoán, rằng Mặt Trời (Sol) có thể có một bạn đồng hành là một ngôi sao lùn nâu (thỉnh thoảng được gọi là Nemesis) chưa được phát hiện, sao này tương tác với đám mây Oort (và có thể giúp tạo thành vị trí của các hành tinh lùn) .
+
+
+== Những ngôi sao lùn nâu trong tiểu thuyết ==
+Một ngôi sao lùn nâu tưởng tượng, Hyundai +4904/-56, is the setting of the nearest router on the galactic Internet in Accelerando.
+Các ngôi sao lùn nâu xuất hiện nhiều trong tiểu thuyết Permanence của Karl Schroeder.
+Tiểu thuyết Seeker của Jack McDevitt đề cập tới ảnh hưởng của một sao lùn nâu khi đi qua một hệ hành tinh.
+Trong tiểu thuyết Nemesiscủa Isaac Asimov, Megas là một sao lùn nâu.
+
+
+== Xem thêm ==
+Vật thể sao
+Sao lùn đen
+Sao tối
+Sao lùn cam
+Sao lùn đỏ
+Sao lùn trắng
+Sao lùn vàng
+
+Vật thể dưới sao
+Hành tinh ngoài hệ mặt trời
+Planetar
+Sao lùn dưới nâu
+
+Các danh sách
+Danh sách các sao lùn nâu
+
+Khác
+Vật chất tối
+Sa mạc sao lùn nâu
+
+Phân loại sao
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+
+=== Tiếng Việt ===
+Sao lùn nâu CHRX-73B
+Phát hiện chấn động về sao lùn nâu
+
+
+=== Lịch sử ===
+S. S. Kumar, Low-Luminosity Stars. Gordon and Breach, London, 1969—an early overview paper on brown dwarfs
+The Columbia Encyclopedia
+
+
+=== Chi tiết ===
+A current list of L and T dwarfs
+A geological definition of brown dwarfs, contrasted with stars and planets (via Berkeley)
+Neill Reid's pages at the Space Telescope Science Institute:
+On spectral analysis of M dwarfs, L dwarfs, and T dwarfs
+Temperature and mass characteristics of low-temperature dwarfs
+
+First X-ray from brown dwarf observed, Spaceref.com, 2000
+Brown Dwarfs and ultracool dwarfs (late-M, L, T) - D. Montes, UCM
+Wild Weather: Iron Rain on Failed Stars - scientists are investigating astonishing weather patterns on brown dwarfs, Space.com, 2006
+NASA Brown dwarf detectives - Detailed information in a simplified sense.
+
+
+=== Sao ===
+Cha Halpha 1 stats and history
+A census of observed brown dwarfs (not all confirmed), ca 1998
+Epsilon Indi Ba and Bb, a pair of brown dwarfs 12 ly away
+Luhman et al., Discovery of a Planetary-Mass Brown Dwarf with a Circumstellar Disk
+Discovery Narrows the Gap Between Planets and Brown Dwarfs, 2007
+Y-Spectral class for Ultra-Cool Dwarfs, N.R.Deacon and N.C.Hambly, 2006

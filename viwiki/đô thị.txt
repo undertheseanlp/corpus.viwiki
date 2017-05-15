@@ -1,0 +1,103 @@
+Một đô thị hay thành phố là một khu vực có mật độ gia tăng các công trình kiến trúc do con người xây dựng so với các khu vực xung quanh nó. Đô thị là một trung tâm dân cư đông đúc, có thể là thành phố, thị xã hay thị trấn nhưng thuật từ này thông thường không mở rộng đến các khu định cư nông thôn như làng, xã, ấp hay bản.
+Các đô thị được thành lập và phát triển thêm qua quá trình đô thị hóa. Đo đạt tầm rộng của một đô thị sẽ giúp ích cho việc phân tích mật độ dân số, sự mở rộng đô thị, và biết được các số liệu về dân số nông thôn và thành thị.
+Không như một đô thị, một vùng đô thị không chỉ bao gồm đô thị mà còn bao gồm các thành phố vệ tinh cộng vùng đất nông thôn nằm xung quanh có liên hệ về kinh tế xã hội với thành phố đô thị cốt lõi, tiêu biểu là mối quan hệ từ công ăn việc làm đến việc di chuyển hàng ngày ra vào mà trong đó thành phố đô thị cốt lõi là thị trường lao động chính. Thật vậy, các đô thị thường kết hợp và phát triển như trung tâm hoạt động kinh tế/dân số trong một vùng đô thị lớn hơn.
+Các vùng đô thị thường thường được định nghĩa bằng việc sử dụng các quận (như ở Hoa Kỳ) hoặc các đơn vị chính trị cấp quận làm đơn vị nền tảng. Quận có chiều hướng hình thành các ranh giới chính trị bất di bất dịch. Các kinh tế gia thường thích làm việc với các thống kê xã hội và kinh tế dựa vào các vùng đô thị. Các đô thị được dùng để thống kê thích hợp hơn trong việc tính toán việc sử dụng tỉ lệ đất quân bình trên đầu người và mật độ dân cư (theo Dumlao & Felizmenio 1976).
+
+
+== Các định nghĩa ==
+Định nghĩa về đô thị thì khác nhau tại các quốc gia khác nhau. Thông thường mật độ dân số tối thiểu cần thiết để được gọi là một đô thị phải là 400 người trên một cây số vuông hay 1000 người trên một dặm vuông Anh. Các quốc gia châu Âu định nghĩa đô thị dựa trên cơ bản việc sử dụng đất thuộc đô thị, không cho phép có một khoảng trống tiêu biểu nào lớn hơn 200 mét. Dùng không ảnh chụp từ vệ tinh thay vì dùng thống kê từng khu phố để quyết định ranh giới của đô thị. Tại các quốc gia kém phát triển, ngoài việc sử dụng đất và mật độ dân số nhất định nào đó, một điều kiện nữa là phần đông dân số, thường là 75% trở lên, không có hành nghề nông nghiệp hay đánh cá.
+
+
+=== Việt Nam ===
+
+Tại Việt Nam hiện có 6 loại hình đô thị: loại đặc biệt, loại I, loại II, loại III, loại IV và loại V.
+Theo Nghị định số 42/2009/NĐ-CP, một đơn vị hành chính để được phân loại là đô thị thì phải có các tiêu chuẩn cơ bản như sau:
+Có chức năng đô thị.
+Quy mô dân số toàn đô thị đạt 4 nghìn người trở lên.
+Mật độ dân số phù hợp với quy mô, tính chất và đặc điểm của từng loại đô thị và được tính trong phạm vi nội thành, nội thị, riêng đối với thị trấn thì căn cứ theo các khu phố xây dựng tập trung.
+Tỷ lệ lao động phi nông nghiệp (tính trong phạm vi ranh giới nội thành, nội thị, khu vực xây dựng tập trung) phải đạt tối thiểu 65% so với tổng số lao động.
+Đạt được các yêu cầu về hệ thống công trình hạ tầng đô thị (gồm hạ tầng xã hội và hạ tầng kỹ thuật).
+Đạt được các yêu cầu về kiến trúc, cảnh quan đô thị.
+Các đô thị ở Việt Nam
+Đô thị loại đặc biệt (2 thành phố): Hà Nội, Thành phố Hồ Chí Minh.
+Đô thị loại 1 (17 thành phố): Mỹ Tho; Biên Hòa; Thanh Hóa; Hạ Long; Việt Trì; Thái Nguyên; Nam Định; Vũng Tàu; Buôn Ma Thuột; Quy Nhơn; Nha Trang; Đà Lạt; Vinh; Huế; Cần Thơ; Đà Nẵng; Hải Phòng.
+Đô thị loại 2 (25 huyện, thành phố): Trà Vinh; Tam Kỳ; Phú Quốc; Đồng Hới; Uông Bí; Bắc Giang; Bắc Ninh; Ninh Bình; Bạc Liêu; Bà Rịa; Thái Bình; Rạch Giá; Cà Mau; Long Xuyên; Phan Rang - Tháp Chàm; Tuy Hòa; Phan Thiết; Pleiku; Thủ Dầu Một; Hải Dương; Vĩnh Yên; Lào Cai; Châu Đốc; Cẩm Phả, Quảng Ngãi.
+Đô thị loại 3 (42 thị trấn, thị xã, thành phố): 1 thị trấn: Tĩnh Gia, 12 thị xã: Long Khánh; Gia Nghĩa; Đồng Xoài; Chí Linh; Ngã Bảy; Cửa Lò; Sầm Sơn; Bỉm Sơn; Hà Tiên; Phúc Yên; Phú Thọ; Sơn Tây và 29 thành phố còn lại.
+Đô thị loại 4:(93 thị trấn, thị xã): 54 thị trấn và 39 thị xã còn lại.
+Đô thị loại 5: 54 xã; 570 thị trấn.
+
+
+=== Úc ===
+Tại Úc, các đô thị thường được ám chỉ là các "trung tâm thành thị" và được định nghĩa như là những khu dân cư chen chúc có từ 1000 người trở lên và mật độ dân cư phải tối thiểu là 200 người trên một cây số vuông.
+
+
+=== Canada ===
+Tại Canada, một đô thị là một vùng có trên 400 người trên một cây số vuông và tổng số dân phải trên 1.000 người. Nếu có hai đô thị hoặc nhiều hơn trong phạm vi 2 km của nhau, các đô thị này được nhập thành một đô thị duy nhất. Các ranh giới của một đô thị không bị ảnh hưởng bởi ranh giới của các khu tự quản (thành phố) hoặc thậm chí là ranh giới tỉnh bang.
+
+
+=== Trung Quốc ===
+Tại Trung Quốc, một đô thị là một khu thành thị, thành phố và thị trấn có mật độ dân số hơn 1.500 người trên một cây số vuông. Đối với các khu thành thị có mật độ dân số ít hơn 1.500 người trên một cây số vuông thì chỉ dân số sống trong các đường phố, nơi có dân cư đông đúc, các làng lân cận nhau được tính là dân số thành thị.
+
+
+=== Pháp ===
+Tại Pháp, một đô thị là một khu vực bao gồm một vùng phát triển do xây cất (gọi là một "đơn vị thành thị" (unité urbaine) - gần giống như cách định nghĩa của đô thị Bắc Mỹ và các vùng vành đai ngoại ô (couronne périurbaine). Mặc dù cách dịch chính thức thuật từ aire urbaine của INSEE là "urban area" trong tiếng Anh, đa số người Bắc Mỹ sẽ nhận thấy rằng nó tương tự với định nghĩa về vùng đô thị của mình.
+
+
+=== Thụy Sĩ ===
+Tại Thụy Sĩ chỉ có những đơn vị hành chánh được gọi là thành phố, hoặc là nó có hơn 10 ngàn dân hoặc dưới thời Trung cổ nó được ban cho quyền được gọi là thành phố.
+
+
+=== Nhật Bản ===
+Tại Nhật Bản, các đô thị được định nghĩa như là các vùng cận kề nhau gồm các khu dân cư đông đúc. Điều kiện cần thiết là đô thị phải có mật độ dân số trên 4.000 người trên một cây số vuông.
+
+
+=== New Zealand ===
+Cục thống kê New Zealand định nghĩa đô thị New Zealand cho các mục đích thống kê. Chúng là các khu định cư có dân số trên 1000 người.
+
+
+=== Ba Lan ===
+Tại Ba Lan, định nghĩa chính thức về "đô thị" đơn giản là ám chỉ đến các địa phương có danh xưng là thị trấn, thành phố. Vùng "nông thôn" là những vùng nằm ngoài ranh giới của các thị trấn này. Sự phân biệt đơn giản này có thể gây nhầm lẫn trong một số trường hợp vì một số địa phương có danh xưng làng xã có thể có dân số đông hơn các thị trấn nhỏ.
+
+
+=== Hoa Kỳ ===
+Tại Hoa Kỳ, có hai loại khu đô thị. Thuật từ urbanized area dùng để chỉ một khu đô thị có từ 50.000 dân trở lên. Các khu đô thị dưới 50.000 dân được gọi là urban cluster. Cụm từ Urbanized areas được sử dụng lần đầu tiên tại Hoa Kỳ trong cuộc điều tra dân số năm 1950 trong khi cụm từ urban cluster được thêm vào trong cuộc điều tra dân số năm 2000. Có khoảng 1371 khu đô thị trên 10.000 người tại Hoa Kỳ.
+Cục điều tra dân số Hoa Kỳ định nghĩa một khu đô thị như "những cụm thống kê cốt lõi có mật độ dân số ít nhất là 1.000 người trên một dặm vuông Anh hay 386 người trên một cây số vuông và những cụm thống kê xung quanh nó có tổng mật độ dân số ít nhất là 500 người trên một dặm vuông hay 193 người trên một cây số vuông."
+Khái niệm về khu đô thị được Cục điều tra dân số Hoa Kỳ định nghĩa thường được dùng như thước đo chính xác hơn diện tích của một thành phố vì trong các thành phố khác nhau cũng như tiểu bang khác nhau, đường phân giới giữa các ranh giới thành phố và khu đô thị của thành phố đó thường không như nhau. Thí dụ, thành phố Greenville, Nam Carolina có dân số thành phố dưới 60.000 nhưng khu đô thị có trên 300.000 người trong khi đó Greensboro, Bắc Carolina có dân số thành phố trên 200.000 nhưng dân số khu đô thị khoảng 270.000. Điều đó có nghĩa là Greenville thật sự "lớn hơn" theo một số ý nghĩa và mục đích nào đó nhưng không phải theo một số ý nghĩa và mục đích khác, thí dụ như thuế, bầu cử địa phương.
+Khoảng 70% dân số Hoa Kỳ sống bên trong ranh giới của các khu đô thị (210 trong số 300 triệu người). Tổng cộng thì các khu đô thị này chiếm khoảng 2% diện tích Hoa Kỳ. Phần lớn cư dân đô thị là những người sống ở ngoại ô. Cư dân sống trong thành phố trung tâm cốt lõi chiếm khoảng 30% dân số khu đô thị (khoảng 60 trong 210 triệu người).
+
+
+== Đô thị và nông thôn dưới khía cạnh xã hội học ==
+
+
+=== Khái niệm đô thị dưới khía cạnh xã hội học ===
+Dưới khía cạnh xã hội học, đô thị và nông thôn là hai khái niệm về mặt nội dung có hàng loạt đặc điểm có tính đối lập nhau. Các nhà xã hội học đã đưa ra rất nhiều cơ sở khác nhau để phân biệt đô thị và nông thôn. Sự phân chia đó có thể dựa trên cơ sở các lĩnh vực hoạt động sống của xã hội như lĩnh vực công nghiệp, nông nghiệp, thủ công nghiệp, thương nghiệp, giao thông, vận tải, dịch vụ,... hoặc dựa trên các thiết chế chủ yếu của xã hội như thiết chế kinh tế, văn hóa, giáo dục, chính trị, gia đình,... hoặc theo các nhóm, các giai cấp, tầng lớp xã hội, hay theo bình diện lãnh thổ.
+Cũng có một số nhà lý luận xã hội học lại cho rằng, để phân biệt giữa đô thị và nông thôn theo sự khác biệt giữa chúng về các mặt kinh tế, xã hội và môi trường. Như về mặt kinh tế thì giữa đô thị và nông thôn có sự khác biệt về lao động, nghề nghiệp, mức độ và cách thu nhập về dịch vụ, v.v... Về mặt xã hội thì đó là sự khác biệt trong lối sống, giao tiếp, văn hóa, gia đình, mật độ dân số, nhà ở, v.v... Về mặt môi trường thì chủ yếu ở đây là môi trường tự nhiên, mức độ ô nhiễm, v.v...
+Nhấn mạnh từ góc độ xã hội thì cả đô thị và nông thôn đều được coi là những hệ thống xã hội, những cộng đồng xã hội có những đặc trưng riêng biệt như những xã hội nhỏ và trong đó có đầy đủ các yếu tố, các vấn đề xã hội và các thiết chế xã hội. Vì vậy, trước hết đô thị và nông thôn cần được xem xét như một cơ cấu xã hội, trong đó có hàng loạt các yếu tố, các lĩnh vực nằm trong mối quan hệ chặt chẽ với nhau.
+Để xác định đô thị và nông thôn dễ dàng được chấp nhận, là việc coi đô thị và nông thôn như các hệ hệ thống xã hội được phân biệt theo ba đặc trưng cơ bản sau:
+Về các nhóm giai cấp, tầng lớp xã hội thì ở đô thị đặc trưng chủ yếu là giai cấp công nhân, ngoài ra còn có các tầng lớp giai cấp khác như tư sản, thợ thủ công, viên chức, trí thức, v.v... Còn đối với nông thôn thì đặc trưng chủ yếu ở đây là nông dân, ngoài ra ở từng xã hội còn có các giai cấp, tầng lớp như địa chủ, phú nông, nhóm thợ thủ công nghiệp, buôn bán nhỏ, v.v...
+Về lĩnh vực sản xuất chủ yếu ở đô thị có đặc trưng là sản xuất công nghiệp; ngoài ra, còn có các lĩnh vực khác như dịch vụ, thương nghiệp, sản xuất tinh thần, v.v... Còn đối với nông thôn thì đặc trưng rõ nét nhất là sản xuất nông nghiệp; ngoài ra, còn phải kể đến cấu trúc phi nông nghiệp bao gồm: dịch vụ, buôn bán, tiểu thủ công nghiệp mà có vai trò rất lớn đối với lĩnh vực sản xuất nông nghiệp.
+Về lối sống, văn hóa của từng loại cộng đồng, thì đối với nông thôn thường rất đặc trưng với lối sống văn hóa của cộng đồng làng xã mà được phân biệt rất rõ ràng với lối sống thị dân đặc trưng cho khu vực đô thị. Đặc trưng này có rất nhiều khía cạnh để chỉ ra sự khác biệt giữa đô thị và nông thôn: từ hệ thống dịch vụ, sự giao tiếp, đời sống tinh thần, phong tục, tập quán, hệ giá trị, chuẩn mực cho hành vi,... đến khía cạnh dân số, lối sống gia đình, sinh hoạt kinh tế,... ngay cả đến hệ thống đường sá, năng lượng, nhà ở đều nói lên đây là hai cộng đồng có các khía cạnh văn hóa, lối sống tách biệt nhau. Đây là đặc trưng cơ bản nhất về mặt xã hội học khi phân tích sự khác biệt giữa đô thị và nông thôn. Chính đặc trưng thứ ba đã tạo ra bản sắc riêng, diện mạo riêng cho hai hệ thống xã hội đô thị và nông thôn.
+
+
+=== Xã hội học đô thị ===
+
+
+== Xem thêm ==
+Đô thị hóa
+Quy hoạch xây dựng đô thị
+Thiết kế đô thị
+Nông thôn
+Ngoại ô
+Ấp
+Làng
+Thị trấn
+Thành phố
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+United Nations Statistics Division (UNSTAT): Definition of "urban"
+World Urban Areas All identified world urbanized areas 500,000+ and others: Population & Density. Author seeks advice on any that appear to be missing: wcox@demographia.com
+City Mayors - The World's Largest Urban Areas Projected for 2020

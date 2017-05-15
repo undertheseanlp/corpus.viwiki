@@ -1,0 +1,50 @@
+Phương pháp khối phổ (tiếng Anh: Mass spectrometry - MS) là một kĩ thuật dùng để đo đạc tỉ lệ khối lượng trên điện tích của ion; dùng thiết bị chuyên dụng là khối phổ kế. Kĩ thuật này có nhiều ứng dụng, bao gồm:
+Xác định các hợp chất chưa biết bằng cách dựa vào khối lượng của phân tử hợp chất hay từng phần tách riêng của nó
+Xác định kết cấu chất đồng vị của các thành phần trong hợp chất
+Xác định cấu trúc của một hợp chất bằng cách quan sát từng phần tách riêng của nó
+Định lượng lượng hợp chất trong một mẫu dùng các phương pháp khác (phương pháp phổ khối vốn không phải là định lượng)
+Nghiên cứu cơ sở của hóa học ion thể khí (ngành hóa học về ion và chất trung tính trong chân không)
+Xác định các thuộc tính vật lý, hóa học hay ngay cả sinh học của hợp chất với nhiều hướng tiếp cận khác nhau.
+Một khối phổ kế là một thiết bị dùng cho phương pháp phổ khối, cho ra phổ khối lượng của một mẫu để tìm ra thành phần của nó. Có thể ion hóa mẫu và tách các ion của nó với các khối lượng khác nhau và lưu lại thông tin dựa vào việc đo đạc cường độ dòng ion. Một khối phổ kế thông thường gồm 3 phần: phần nguồn ion, phần phân tích khối lượng, và phần đo đạc.
+
+
+== Ví dụ về cách hoạt động ==
+Các hóa chất khác nhau thì có khối lượng phân tử khác nhau. Dựa vào đó, khối phổ kế sẽ xác định chất hóa học nào có nằm trong mẫu. Ví dụ, muối NaCl hấp thụ năng lượng (năng lượng hấp thụ tùy theo nguồn ion, ví dụ MALDI năng lượng là tia laser) tách ra thành các phân tử tích điện, gọi là ion), trong giai đoạn đầu của phương pháp phổ khối. Các ion Na+, Cl- có trọng lượng nguyên tử khác biệt. Do chúng tích điện, nghĩa là đường đi của chúng có thể được điều khiển bằng điện trường hoặc từ trường. Các ion được đưa vào buồng gia tốc và đi qua một khe vào miếng kim loại. Một từ trường được đưa vào buồng đó. Từ trường sẽ tác động vào mỗi ion với cùng một lực và làm trệch hướng chúng về phía đầu đo. Ion nhẹ hơn sẽ bị lệnh nhiều hơn ion nặng vì theo định luật chuyển động của Newton gia tốc tỉ lệ nghịch với khối lượng của phân tử. Đầu đo sẽ xác định xem ion bị lệnh bao nhiêu, và từ giá trị đo này, tỉ lệ khối lượng-trên-điện tích của ion có thể được tính toán. Từ đó, có thể xác định được thành phần hóa học của một mẫu gốc. Trên thực tế thì hai ion Na+ và Cl- sẽ không được đo trong cùng một lần, vì các máy đo chỉ có thể nhận ra ion điện tích dương hoặc điện tích âm nên nếu máy khối phổ kế được điều chỉnh để đo các ion điện tích dương thì chỉ có ion Na+ là được nhận ra bởi máy. .Một trong những tính năng lớn của khối phổ lượng là có thể tìm thấy cấu tạo không gian của phân tử ví dụ phân tử C7H14O2 có thể là acid hoặc ester... Và khả năng phát hiện ra hợp chất với độ nhậy cực cao từ 10−6 dến 10−12 gram. Dưới đây là một khối phổ (electrospray)của phân tử Kaempferol-rhamnose-rhamnose-glucose(m/z 741) trong loại cỏ thaliana, phân tích với 5.10−6L (nếu dùng máy MALDI thì chỉ cần 0,5.10−6L).
+
+
+== Ứng dụng sinh học ==
+
+
+=== Khối phổ của protein ===
+
+
+=== Protein và các phân mảnh peptit ===
+Protein mà các nhà nghiên cứu sinh học quan tâm thường là sự kết hợp phức tạp của nhiều protein và phân tử khác nhau, cùng tồn tại trong một môi trường sinh học. Điều này đặt ra hai vấn đề chính. Thứ nhất, hai kĩ thuật ion hóa dùng cho các phân tử lớn chỉ làm việc tốt khi mà hỗn hợp từ các thành phần có cấu tạo gần giống, trong khi trong các mẫu sinh học, các protein khác nhau thường là có lượng khác biệt nhau lớn. Nếu hỗn hợp được ion hóa dùng phương pháp phun ion hay MALDI, thì những protein dạng mà dư thừa nhiều có xu hướng giảm tín hiệu so với những cái ít dư thừa hơn. Vấn đề thứ hai, quang phổ khối từ hỗn hợp phức tạp là rất khó để nghiên cứu do có quá nhiều thành phần phức hợp. Đó là vì với tác động của enzym, một protein tạo ra hàng loạt sản phẩm peptit.
+Để giải quyết vấn đề này, hai phương pháp được sử dụng rộng rãi để phân mảnh protein, hay các sản phẩm peptit từ sự tác động của enzym. Phương pháp đầu tiên sẽ phân mảnh toàn bộ protein và được gọi là điện chuyển gel hai chiều (2-DE: two-dimensional gel electrophoresis). Phương pháp thứ hai, ghi sắc lỏng hiệu suất cao (HPLC) được dùng với các phân mảnh peptit sau khi protein phân tách bởi tác động của enzym. Trong một số tình huống, có thể cần phải kết hợp cả hai phương pháp.
+Các vết gel được xác định trên 2D Gel thường là thuộc về một protein. Nếu cần biết định danh của protein đó, thì có thể xem xét vết gel đó. Khối peptit kết quả từ tác động của enzym lên protein có thể được xác định bằng khối phổ dùng lấy dấu khối peptit. Nếu thông tin này không cho phép xác định danh tính của protein một cách chính xác, các peptit của nó có thể xem là thuộc về đo phổ khối tandem.
+Việc xác định đặc tính của hỗn hợp protein dùng HPLC/MS còn được gọi là shotgun proteomics và mudpit. Một hỗn hợp là kết quả của sự tác động của enzym lên hỗn hợp protein sẽ được phân mảnh theo một hay hai bước bằng ghi sắc lỏng. Chất tách rửa từ giai đoạn ghi sắc có thể hoặc là trực tiếp đưa vào máy đo phổ khối thông qua ion hóa phun điện tử (ESI), hay tách ra thành một loạt các vết nhỏ để sử dụng sau này trong phân tích khối bằng MALDI.
+
+
+=== Xác định Protein ===
+Có 2 cách chính trong khối phổ để xác định protein.
+Lấy dấu khối peptit (PMF) dùng khối của các peptit đã phân giải làm đầu vào để tìm kiếm trong CSDL của các khối đã biết trước từ danh sách các protein đã biết. Nếu một chuỗi protein trong danh sách tham khảo trùng khớp với giá trị thử nghiệm thì có lý do để tin rằng protein đó có tồn tại trong mẫu gốc.
+Tandem MS đang trở thành một phương pháp thử nghiệm phổ biến để xác định protein. Phân ly do va chạm (CID) được dùng trong các ứng dụng chính để khởi tạo một tập các phân mảnh từ một ion peptit cụ thể. Quá trình phân tách chủ yếu dựa vào các chế phẩm phân tách để bẻ gãy liên kết peptit. Vì sự đơn giản của việc phân tách này, nó có thể dùng khối của các phân mảnh quan sát được để so trùng CSDL của các khối đã biết với một hay nhiều chuỗi peptit.
+
+
+== Xem thêm ==
+Phổ kế electron
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+McLafferty, F. W. and Turecek, F., Interpretation of Mass Spectra, University Science Books; 4th edition (May, 1993) ISBN 0-935702-25-3
+Tuniz, C., et al., "Accelerator Mass Spectrometry: Ultrasensitive Analysis for Global Science", CRC Press, (1998) ISBN 0-8493-4538-3
+Muzikar, P., et al., "Accelerator Mass Spectrometry in Geologic Research", Geological Society of America Bulletin v. 115 (2003) p. 643 - 654.
+
+
+== Liên kết ngoài ==
+Interactive tutorial on mass spectra National High Magnetic Field Laboratory
+Mass spectrometer simulation An interactive application simulating the console of a mass spectrometer
+Realtime Mass Spectra simulation Tool to simulate mass spectra in the browser

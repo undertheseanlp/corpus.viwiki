@@ -1,0 +1,5 @@
+Microphone là một loại cảm biến thực hiện chuyển đổi tín hiệu âm thanh sang tín hiệu điện.
+Microphone được sử dụng ở nhiều lĩnh vực như điện thoại, tăng âm, hệ thống karaoke, trợ thính, thu băng, lưu trữ, sản xuất phim, đài FRS, megaphone, phát thanh và truyền hình, thiết bị thu âm ở máy tính, nhận diện giọng nói, VoIP, và một số mục đích không liên quan đến âm thanh như cảm biến gõ cửa.
+
+
+== Tham khảo ==

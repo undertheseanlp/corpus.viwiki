@@ -1,0 +1,19 @@
+Phương pháp khoa học là một bộ các kỹ thuật nhằm nghiên cứu các hiện tượng, mục đích là để thu được kiến thức mới, hoặc chỉnh sửa và gắn kết với các kiến thức trước. Để được coi là khoa học, phương pháp điều tra phải được dựa vào việc thu thập chứng cứ thực nghiệm hoặc chứng cứ đo lường được, tuân thủ theo những nguyên tắc lý luận cụ thể. Từ điển tiếng Anh Oxford định nghĩa phương pháp khoa học là: "một phương pháp hay thủ tục đặc trưng của khoa học tự nhiên từ thế kỷ 17, bao gồm quan sát có hệ thống, đo lường, và thí nghiệm, và xây dựng, kiểm định và sửa đổi các giả thuyết".
+Một đặc điểm nổi trội của phương pháp khoa học so với các cách thức thu thập kiến thức khác là việc các nhà khoa học cố gắng để thực tế chứng minh cho thực tế, ủng hộ một lý thuyết khi những dự đoán về một lý thuyết được xác nhận và thách thức một lý thuyết khi những dự đoán đó là sai. Cách thức tiến hành của các dạng điều tra rất đa dạng, nhưng phương pháp khoa học có những đặc trưng có thể nhận diện so với những phương pháp thu thập kiến thức khác. Các nhà khoa học đề xuất các giả thuyết như là những lý giải cho hiện tượng, và thiết kế các nghiên cứu thực nghiệm để kiếm định các giả thuyết này thông qua những dự đoán từ chúng. Những bước này đều phải lặp lại nhằm ngăn chặn những sai lầm hoặc lúng túng trong bất cứ một thí nghiệm cụ thể nào. Các lý thuyết bao hàm nhiều dạng điều tra có thể kết nối rất nhiều những giả thuyết rút ra độc lập thành một cấu trúc gắn kết và hỗ trợ nhau. Ngược lại, các lý thuyết có thể giúp hình thành nên các giả thuyết mới và đặt một nhóm các giả thuyết vào một bối cảnh.
+Nghiên cứu khoa học phải thật khách quan hết mức có thể nhằm giảm thiểu những diễn giải thiên vị về kết quả. Một điều nữa là các phương pháp luận và dữ liệu nghiên cứu nên được lập thành tài liệu, lưu trữ và chia sẻ để các nhà nghiên cứu khác có thể xem xét, tạo điều kiện để xác minh kết quả.
+
+
+== Chú thích ==
+
+
+== Đọc thêm ==
+
+
+== Liên kết ngoài ==
+An Introduction to Science: Scientific Thinking and a scientific method by Steven D. Schafersman.
+Introduction to a scientific method
+Theory-ladenness by Paul Newall at The Galilean Library
+Lecture on Scientific Method by Greg Anderson
+Using the scientific method for designing science fair projects
+SCIENTIFIC METHODS an online book by Richard D. Jarrard
+Richard Feynman on the Key to Science (one minute, three seconds), from the Cornell Lectures.

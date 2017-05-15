@@ -1,0 +1,10 @@
+Máy kinh vĩ là loại dụng cụ đo lường các góc mặt bằng và góc đứng trong không gian. Độ chính xác của máy đo được có thể đạt đến một giây (góc). Loại máy này được dùng phổ biến trong điều tra khảo sát thực địa. Một loại máy cao cấp hơn là loại máy Máy toàn đạc hoặc Máy toàn đạc điện tử có khả năng đo cạnh và xử lý số liệu tính toán dựa vào CPU được gắn bên trong máy đo.
+Cấu tạo cơ bản của máy gồm một ống kính gắn trên bệ có khả năng quay tự do trên hai mặt phẳng vuông góc với nhau: mặt phẳng nằm ngang và một mặt phẳng bất kì vuông góc với nó.
+Trước khi đo đạc cần thăng bằng máy bằng cách chỉnh độ dài của các chân máy sao cho bọt thủy nằm vào giữa tâm của miếng kính gắn trên bệ máy.
+Kết quả đo góc được biểu thị trên thang chia độ (đối với các máy cũ) hoặc hiện số (đối với các máy hiện đại).
+Với máy kinh vĩ hiện nay người ta chia ra làm 02 loại: Máy kinh vĩ quang cơ và máy kinh vĩ điện tử
+Máy kinh vĩ quang cơ là loại máy xét về mặt công nghệ thì hoàn toàn là yếu tố cơ học và yếu tố hình học. Kết quả đo đạc từ máy kinh vĩ quang cơ được thể hiện qua một hệ thống lăng, thấu kính để chiếu giá trị góc đo lên khu vực quan sát của mắt. Ngày nay máy Kinh vĩ quang cơ ít được sử dụng vì lý do: thủ công và dễ dẫn tới sai số thô do khả năng đọc không đáp ứng được nhu cầu công nghiệp xây dựng hiện nay.
+Máy kinh vĩ điện tử là loại máy được phát triển lên từ máy kinh vĩ quang cơ. Cơ bản về nguyên lý thì máy kinh vĩ điện tử vẫn thực hiện các chức năng của một máy kinh vĩ quang cơ có. Chi khác là có thêm một bộ phận điện tử cho phép số đọc kết quả đo được hiển thị lên màn hình LCD thay vì phải đọc trực tiếp.
+
+
+== Tham khảo ==

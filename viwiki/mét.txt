@@ -1,0 +1,34 @@
+Mét (tiếng Pháp: mètre) là đơn vị đo khoảng cách, một trong 7 đơn vị cơ bản trong hệ đo lường quốc tế (SI). Định nghĩa gần đây nhất của mét bởi Viện Đo lường Quốc tế (Bureau International des Poids et Mesures) vào năm 1983 là: "khoảng cách mà ánh sáng truyền được trong chân không trong khoảng thời gian của 1 / 299 792 458 giây". Trong cách hành văn hàng ngày, nhiều khi một mét còn được gọi là một thước.
+
+
+== Lịch sử ==
+1664: Christian Huygens đề nghị dùng độ dài con lắc toán học thực hiện một dao động trong một giây để làm đơn vị đo độ dài.
+
+1771: nhiều người đề nghị lấy độ dài quãng đường một vật rơi tự do trong một giây làm đơn vị đo độ dài.
+Cả hai ý kiến trên đều đã không được chấp nhận.
+1790: Một ủy ban được thành lập tại Pháp đã quyết định chọn độ dài một phần mười triệu của đoạn kinh tuyến từ xích đạo qua Paris đến Bắc Cực làm một độ dài chuẩn gọi là mét.
+1799: Ủy ban chế tạo thước mét chuẩn đầu tiên làm bằng 90% platin và 10% iridi.
+Thế kỉ 19: các phép đo chính xác hơn cho thấy rằng độ dài của thước mét bằng platin ấy ngắn hơn độ dài 1/10 triệu đoạn kinh tuyến trên một đoạn 0,08 mm.
+1889: Hội nghị Đo lường Quốc tế quyết định chọn độ dài thước mét bằng platin ấy làm cơ sở để chế tạo một thước mét bằng platin-iridi, có mặt cắt hình chữ X để làm thước mét tiêu chẩn quốc tế, cất giữ tại Viện Đo lường Quốc tế ở Paris.
+Tháng 10 năm 1960: Hội nghị Đo lường Quốc tế khóa 11 quyết định: "độ dài một mét bằng 1.650.763,73 lần độ dài bước sóng ánh sáng màu vàng cam của Kprypton-86 phát ra trong chân không".
+Ngày 20 tháng 10 năm 1983: Hội nghị Đo lường Quốc tế khóa 17 định nghĩa lại mét: "một mét là khoảng cách mà ánh sáng truyền được trong chân không trong khoảng thời gian của 1 / 299 792 458 giây".
+
+
+== Hệ thống SI ==
+
+
+== Xem thêm ==
+Hệ đo lường quốc tế
+Vận tốc ánh sáng
+
+
+== Tham khảo ==
+
+Bureau International des Poids et Mesures. The International System of Units (SI), 7th ed. 1998 (tiếng Anh)
+
+
+== Liên kết ngoài ==
+Length—Evolution from Measurement Standard to a Fundamental Constant tại website NIST
+The History of the Meter
+La convention du mètre, BIPM
+Quy đổi các đơn vị đo chiều dài

@@ -1,0 +1,5 @@
+Ký hiệu phần trăm (%) là ký hiệu biểu diễn một phần trăm (tức là một phần trong 100 phần bằng nhau bị chia bởi đại lượng cho trước). Mã Unicode của % là U+0025.
+Các ký hiệu liên quan là phần nghìn ký hiệu ‰ (mã Unicode: U+2030) và phần mười nghìn ký hiệu là ‱ (mã Unicode: U+2031), biểu diễn cho một số bị chia bởi tương ứng 1000 và 10.000. Tỷ lệ cao hơn là một phần triệu (parts-per notation).
+
+
+== Tham khảo ==

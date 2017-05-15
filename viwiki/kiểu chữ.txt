@@ -1,0 +1,14 @@
+Kiểu chữ (tiếng Anh là typeface hoặc font family) là định dạng bảng chữ cái có cùng chung một đặc tính thiết kế. Một kiểu chữ đơn lẻ được thể hiện bằng độ đậm, phong cách, cách chữ, độ rộng, độ nghiêng, in nghiêng, sự trang trí và nhà thiết kế nhưng không phải là kích thước. Ngày này kiểu chữ thường dùng tương đương với thuật ngữ là phông chữ (font) mặc dù chúng có ý nghĩa rất khác nhau trước khi sự phát minh của kiểu chữ học kỹ thuật số ra đời.
+
+
+== Tham khảo ==
+
+
+== Nghiên cứu thêm ==
+Garfield, Simon (2010), Just my Type: a Book About Fonts, Profile 
+
+
+== Liên kết ngoài ==
+ABC typography – Introduction to the most famous typefaces
+Named parts of a letter: Type Anatomy 1.0
+Nwalsh.com, comp.fonts FAQ

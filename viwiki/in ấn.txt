@@ -1,0 +1,46 @@
+In ấn hay ấn loát là quá trình tạo ra chữ và tranh ảnh trên các chất liệu nền như giấy, bìa các tông, ni lông, vải... bằng một chất liệu khác gọi là mực in. In ấn thường được thực hiện với số lượng lớn ở quy mô công nghiệp và là một phần quan trọng trong ngành xuất bản.
+Hình thức sớm nhất của in ấn là in bằng âm bản khắc gỗ, với các nghiên cứu hiện tại thì in ấn đã xuất hiện ở Trung Quốc có niên đại từ trước năm 220 trước Công nguyên và Ai Cập vào thế kỷ IV. Phát triển sau này trong in ấn được lan rộng, đầu tiên được phát triển ở Trung Quốc, đặc biệt trở thành một công cụ hiệu quả hơn cho các ngôn ngữ phương Tây với bảng chữ cái hạn chế của họ, được phát triển bởi Johannes Gutenberg vào thế kỷ XV.
+
+
+== Lịch sử ngành in thế giới ==
+Năm 868, ở Trung Hoa (Trung Quốc ngày nay), sách đã được in bằng các bản khắc gỗ. Trong năm 1040, Bi Sheng (Tất Thăng) đã sáng chế chữ in. Những con chữ này được dùng để in không chỉ một cuốn sách.
+Những năm 1430, Johannes Gutenberg đã phát minh ra máy in. Khi phương pháp in hiện đại của ông ra đời tạo nên sự nhảy vọt về phát triển thông tin ở châu Âu, góp phần làm cho khu vực này phát triển nhanh hơn về khoa học kỹ thuật.
+Máy in cho phép chúng ta có thể đưa một lượng lớn thông tin đến thế giới với chi phí thấp và hiệu quả.
+Chiếc máy in là nền tảng của nhiều loại máy khác, tất nhiên, tinh xảo hơn chiếc bánh xe nhiều. Sự truyền bá kiến thức trong sách vở đã giúp những người khác có điều kiện tiếp cận các công nghệ mới và phát minh ra nhiều thứ hơn.
+
+
+== Lịch sử ngành in Việt Nam ==
+
+
+== Kỹ thuật in ấn hiện đại ==
+Sách báo ngày nay thường được in bằng kĩ thuật in ốp sét - offset. Các kĩ thuật in phổ biến khác gồm in nổi (dùng chủ yếu trong các cuốn ca ta lốc), in lụa, in quay, in phun và in la de. Nhà in thương mại và công nghiệp lớn nhất trên thế giới là Montréal, ở Quebec, Quebecor World.
+In kĩ thuật số phần lớn sử dụng hiện tượng tĩnh điện để chuyển đặt mực in lên trên chất nền. Công nghệ này phát triển nhanh chóng trong những năm gần đây với các sản phẩm đa dạng từ các máy sao chép (copier) màu hay đen trắng cho tới các máy in màu hiện đại như Xerox iGen3, Kodak Nexpress, hay loạt máy HP Indigo. iGen3 và Nexpress sử dụng trống mực còn Indigo dùng mực lỏng.
+
+
+=== In tẩy màu ===
+In tẩy màu (Dischard printing) là kỹ thuật in được ứng dụng rộng rãi ngày nay, đặc biệt là in trên chất liệu vải, áo thun. Sự khác biệt giữa chính giữa in gốc nước và in tẩy là bước cuối cùng bao gồm một phụ gia tẩy màu được nhuộm nguyên thủy trên vải, và thay thế nó bằng màu sắc mong muốn. In tẩy Discharge là một sự lựa chọn tối ưu khi in trên chất liệu vải tối màu bởi khả năng loại bỏ màu nền của nó. Màu thay thế vùng bị tẩy sẽ trông rất nổi và không bị ám màu như khi in chồng lên màu nền của vải. In tẩy màu Dischard sẽ giúp mức độ chi tiết tăng lên rõ rệt hơn hẳn in sol dẻo. Bằng việc lựa chọn và thiết kế kỹ càng, in tẩy còn có thể giúp vải lụa nhân tạo trở nên rực rỡ hơn.
+Điểm yếu của in tẩy màu là kỹ thuật phức tạp hơn rất nhiều so với các loại in khác.
+
+
+=== In gốc nước ===
+In gốc nước (water-based printing)
+
+
+== Chú thích ==
+
+
+== Xem thêm ==
+Máy in
+In màu
+In lụa
+
+
+== Liên kết ngoài ==
+Centre for the History of the Book
+Children of the Code - Online Video: The DNA of Science, The Alphabet and Printing.
+Planet Typography - history of printing - selection of international sites dedicated to the history of printing.
+Printwiki
+The development of book and printing. English website of the Gutenberg-Museum Mainz (Germany)
+BPSnet British Printing Society
+Taiwan Culture Portal: Ri Xing Type Foundry－ preserving the true character of Chinese type
+International Printing Museum Web site

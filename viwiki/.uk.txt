@@ -1,0 +1,39 @@
+.uk là tên miền quốc gia cấp cao nhất (ccTLD) của Vương quốc Anh. Vào cuối năm 2006 nó là tên miền cấp cao nhất phổ biến thứ tư trên toàn thế giới (sau .com, .de và .net), với hơn 5 triệu người đăng ký [2].
+Việc sử dụng.uk thay vì .gb là do việc sử dụng trước đây trong Mô hình Đăng ký tên JANET (nay không cần) trong đó thứ tự các thành phần địa chỉ được bảo quản..uk bắt đầu được sử dụng trong DNS để đơn giản hóa việc dịch những địa chỉ này. Đã có kế hoạch chuyển dần sang tên miền.gb để phù hợp với cách sử dụng, nhưng điều này chưa bao giờ xảy ra; việc sử dụng.uk hiện vẫn được giữa lại vì việc đăng ký tên miền .gb là không được phép.
+Như những ccTLD khác trong những ngày đầu tiên, nó được ủy quyền cho do cá nhân Jon Postel. Sau một thời gian, nó được chuyển cho Dr Willie Black tại Hiệp hội Mạng nghiên cứu và giáo dục Liên hiệp Anh (UKERNA). Việc yêu cầu tên miền được gửi tới - và được lọc ra bởi - Hội đồng Tên miền UK trước khi qua UKERNA xử lý. Hội đồng này được thực hiện trên thực tế thông qua danh sách thư các đại diện của tất cả các tổ chức liên quan đến hệ thống Internet UK trong thời gian đó.
+Trước sự bùng nổ của Internet vào giữa thập niên 1990, và đặc biệt là sự khai sinh của World Wide Web đã đưa tới nhiều yêu cầu đăng ký tên miền lên tới một mức độ khiến cho một nhóm các quản lý tình nguyện làm bán thời gian không thể quản lý được nữa. Oliver Smith của Demon Internet đã đẩy vấn đề lên cao bằng cách cung cấp cho hội đồng một loạt các công cụ tự động, gọi là "automaton", sẽ hình thức và tự động hóa quy trình đặt tên từ đầu đến cuối. Điều này cho phép nhiều đăng ký được xử lý nhanh hơn và đáng tin cậy hơn.
+Nhiều kế hoạch đã được đề nghị để quản lý tên miền dễ dàng hơn, đa số nhà cung cấp dịch vụ Internet giành quyền quản lý, nhưng họ đều bị từ chối bởi các thành viên còn lại trong hội đồng. Để đáp lại cho điều này, Dr Black, với tên.uk, đã đi đến một đề nghị táo bạo là thành lập một cơ quan thương mại phi lợi nhuận để quản lý tên miền.uk. Những lợi nhuận thương mại ban đầu đã cản trở nó, nhưng với sự hỗ trợ rộng rãi Nominet UK đã được chuyển thành Trung tâm Thông tin mạng.uk, một vai trò nó vẫn nắm giữ đến ngày nay.
+Dạng chung của quy định (có nghĩa là tên miền này được đăng ký và có cho đăng ký ở cấp 2 hay không) được thiết lập bởi Hội đồng Tên miền. Nominet đã không sửa đổi luật gì lớn, mặc dù nó đã giới thiệu tên miền cấp 2.me.uk cho các cá nhân.
+Bị cấm đăng ký tên miền trực tiếp dưới.uk (như internet.uk) và phải dùng tên miền cấp hai (như internet.co.uk).
+Tuy nhiên, có một số tên miền tồn tại trước khi tạo ra các quy định của Nominet UK. Những cái đó bao gồm parliament.uk (Nghị viện), bl.uk và british-library.uk (Thư viện Anh), nls.uk (Thư viện Quốc gia Scotland), nhs.uk (Dịch vụ Y tế Quốc gia), và jet.uk (UKAEA). Không được đăng ký 'bình thường' mới tại cấp 2 được nữa mặc dù có hệ thống phân chia tên miền cấp 2 để mở rộng dung lượng hệ thống. Sự phân phát như vậy hiếm khi được thực hiện.
+Có thể đăng ký trực tiếp tên miền với Nominet UK nhưng sẽ nhanh và rẻ hơn khi thông qua cơ quan ủy quyền.
+
+
+== Tên miền cấp 2 ==
+.ac.uk - học thuật
+.co.uk - thương mại/tổng quát
+.gov.uk - chính phủ (trung ương và địa phương)
+.ltd.uk - Công ty trách nhiệm hữu hạn
+.me.uk - cá nhân
+.mod.uk - Bộ Quốc phòng và các trang Lực lượng HM công cộng
+.net.uk - ISP và công ty mạng
+.nic.uk - chỉ dùng cho mạng
+.nhs.uk - Cơ quan Dịch vụ Y tế Quốc gia
+.org.uk - tổ chức phi lợi nhuận
+.plc.uk - công ty trách nhiệm hữu hạn công cộng
+.police.uk - Lực lượng cảnh sát
+.sch.uk - trường học, giáo dục cấp 1 và cấp 2
+
+
+== Xem thêm ==
+.gb
+.sco
+
+
+== Liên kết ngoài ==
+IANA .uk whois information
+.uk registry website
+List of Nominet UK Tags / Registrars
+
+
+== Tham khảo ==

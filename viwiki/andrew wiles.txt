@@ -1,0 +1,34 @@
+Andrew John Wiles là nhà toán học người Anh, được biết đến như người đầu tiên chứng minh được định lý lớn Fermat.
+Wiles được giới thiệu về Định lý lớn Fermat ngay lúc ông mới 10 tuổi. Những năm sau đó ông thử tìm cách chứng minh định lý theo các phương pháp truyền thống trong sách giáo khoa. Tuy nhiên, khi bắt đầu giai đoạn nghiên cứu sinh ông chuyển sang nghiên cứu các hàm elip, dưới sự hướng dẫn của giáo sư John Coates.
+Trong thời gian làm nghiên cứu sinh tại trường Clare tại Cambridge, Wiles còn kiêm nhiệm trợ lý giáo sư tại Đại học Harvard. Đến năm 1980 khi nhận bằng tiến sĩ, Wiles sang làm việc một thời gian ở Bonn trước khi đến Hoa Kỳ. Năm 1981, ông đã là giáo sư tại Đại học Princeton.
+Điều then chốt trong việc chứng minh định lý Fermat lại trực tiếp phụ thuộc vào mệnh đề Shimura-Taniyama (mối liên hệ này được G. Frey đề xuất và K. Ribet chứng minh). Từ đó, Wiles tập trung vào việc chứng minh mệnh đề Shimura-Taniyama. Công việc này đã chiếm một khoảng thời gian là 7 năm.
+Tháng 6 năm 1993, Wiles cho rằng công việc chứng minh sắp được hoàn tất, nhưng sau đó phát hiện ra một vấn đề trục trặc không nhỏ. Công việc còn dở dang đến tận 19 tháng 9 năm 1994, khi ông đột nhiên có ý tưởng đúng. Năm 1995, bài báo Modular elliptic curves and Fermat's Last Theorem của Wiles xuất hiện trên tạp chí Annals of Mathematics.
+
+
+== Các giải thưởng ==
+Andrew Wiles đã nhận được nhiều giải thưởng khoa học và toán học từ năm 1988:
+Junior Whitehead Prize của LMS (1988)
+Fellow of the Royal Society (1989)
+Giải Rolf Schock (1995)
+Giải Fermat (1995)
+Giải Wolf về Toán học (1995/6)
+Giải Toán học của Viện hàn lâm Khoa học quốc gia Hoa Kỳ (1996)
+Royal Medal (1996)
+Giải Ostrowski (1996)
+Giải Cole (1997)
+Giải Wolfskehl (1997) – see Paul Wolfskehl
+A silver plaque from the International Mathematical Union (1998) recognizing his achievements, in place of the Fields Medal, which is restricted to those under 40 (Wiles was born in 1953 and proved the theorem in 1994)
+King Faisal Prize (1998)
+Giải Clay (1999)
+Giải Shaw (2005)
+Pythagoras Award (Croton, 2004)
+Giải Abel (2016)
+
+
+== Vinh dự ==
+Wiles được phong tước Hiệp sĩ (KBE) của Vương quốc Anh. Vì vậy trong văn bản, tên của ông còn viết là Sir Andrew Wiles.
+Một tiểu hành tinh vành đai chính được đặt tên theo ông: 9999 Wiles (được phát hiện bởi C. J. van Houten, I. van Houten-Groeneveld và T. Gehrels 29 tháng 9 năm 1973)
+
+
+== Tham khảo ==
+ Phương tiện liên quan tới Andrew Wiles tại Wikimedia Commons

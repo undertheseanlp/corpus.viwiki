@@ -1,0 +1,25 @@
+CPM là viết tắt của Cost Per Mille, cũng còn được gọi là cost‰ và cost per thousand (CPT) là một trong những nền tảng của các chương trình quảng cáo. Trong tiếng latinh mille có nghĩa là hàng nghìn, vì vậy CPM có nghĩa là cost per thousand - Thanh toán mỗi nghìn. Các chương trình quảng cáo qua Radio, TV, Báo, Tạp chí, Quảng cáo ngoài trời, và quảng cáo trực tuyến cũng có thể thanh toán theo khuôn khổ của quảng cáo này, tức là trả tiền cho mỗi một nghìn lượt xem quảng cáo. CPM cũng được dùng như một chuẩn kinh doanh để tính toán các khoản chi phí liên quan cho mỗi chiến dịch quảng cáo hoặc cho các mẩu tin quảng cáo trung gian. Thú vị hơn với thanh toán tuyệt đối, CPM có thể định lượng được chi phí thanh toán cho mỗi nghìn lượt xem của mỗi loại quảng cáo.
+Ví dụ:
+Tổng số tiền để đặt quảng cáo là $50
+Có 500.000 lượt xem.
+Quảng cáo CPM sẽ tính toán CPM = $50/(500.000/1000) = $0,1
+Tuỳ từng vị trí đặt banner quảng cáo, và các chính sách đi kèm, mức giá của các gói CPM sẽ khác nhau.
+
+
+== Các Ví dụ ==
+Quảng cáo trực tuyến: Ví dụ về gói quảng cáo CPM4000 của AdMarket, có nghĩa là khách hàng muốn đăng banner quảng cáo trên hệ thống website của AdMarket sẽ phải trả 4000 VND/CPM tức là trả 4000VND cho 1000 lượt hiển thị banner quảng cáo đó trên website.
+Trong khi hãng Super Bowl trả giá quảng cáo cao nhất theo từng điểm trên nước Mỹ, đây là nơi hàng năm các chương trình TV chú ý đến nhất. Tuy nhiên CPM có thể so sánh được với các điểm quảng cáo rẻ hơn trong các chương trình bình thường. (Trên thực tế, Super Bowl hạ một nửa giá quảng cáo cho khách hàng quảng cáo lần đầu tiên, vì khách hàng quảng cáo sẵn sàng chi trả một phần cho các sự kiện mà Super Bowl tuyên truyền)
+
+
+== Tác dụng của quảng cáo CPM ==
+Tác dụng của quảng cáo CPM là được dùng để đo lường tính hiệu quả của mỗi nhà xuất bản quảng cáo khi bán các quảng cáo (từ nhà xuất bản quảng cáo) thông qua các nền tảng quảng cáo CPA, CPC, hoặc CPT. Nói theo cách khác, CPM sẽ nói cho các nhà xuất bản quảng cáo rằng họ có thể nhận được gì nếu họ bán quảng cáo thông qua nền tảng quảng cáo CPM (thay cho nền tảng CPA, CPC, CPT)
+
+
+== Xem thêm ==
+CPA - Giá mỗi chuyển đổi
+CPC - Giá mỗi nhấp chuột
+CPI - Thanh toán mỗi ấn tượng
+CTR - Tỷ lệ nhấp
+
+
+== Tham khảo ==

@@ -1,0 +1,79 @@
+Tiền tệ là tiền khi chỉ xét tới chức năng là phương tiện thanh toán, là đồng tiền được luật pháp quy định để phục vụ trao đổi hàng hóa và dịch vụ của một quốc gia hay nền kinh tế. Vì định nghĩa như vậy, tiền tệ còn được gọi là "tiền lưu thông". Tiền tệ có thể mang hình thức tiền giấy hoặc tiền kim loại (tiền xu) do Nhà nước (ngân hàng trung ương, Bộ Tài chính, v.v...) phát hành. Khi phân biệt tiền tệ của quốc gia này với tiền tệ của quốc gia khác, người ta dùng cụm từ "đơn vị tiền tệ". Đơn vị tiền tệ của nhiều quốc gia có thể có cùng một tên gọi (ví dụ: dollar, franc...) và để phân biệt các đơn vị tiền tệ đó người ta thường phải gọi kèm tên quốc gia sử dụng đồng tiền (ví dụ: dollar Úc). Với sự hình thành của các khu vực tiền tệ thống nhất, ngày nay có nhiều quốc gia dùng chung một đơn vị tiền tệ như đồng EUR. Đơn vị tiền tệ của Việt Nam được gọi là đồng, ký hiệu dùng trong nước là "đ", ký hiệu quốc tế là VND, đơn vị nhỏ hơn của đồng là hào (10 hào = 1 đồng) và xu (10 xu = 1 hào). Tiền tệ là phương tiện thanh toán pháp quy nghĩa là luật pháp quy định người ta bắt buộc phải chấp nhận nó khi được dùng để thanh toán cho một khoản nợ được xác lập bằng đơn vị tiền tệ ấy. Một tờ séc có thể bị từ chối khi được dùng để thanh toán nợ nhưng tiền giấy và tiền kim loại thì không. Tuy nhiên tiền kim loại có thể là phương tiện thanh toán pháp quy bị luật pháp của một quốc gia giới hạn không vượt quá một số lượng đơn vị tiền tệ nào đó tuỳ theo mệnh giá của những đồng tiền kim loại ấy. Theo luật pháp của Việt Nam, tiền giấy và tiền kim loại là phương tiện thanh toán pháp quy không giới hạn. 
+
+
+== Giá trị và giá cả của tiền tệ ==
+Tiền tệ có giá trị không phải vì nó có giá trị tự thân mà vì những gì tiền tệ có thể trao đổi được. Giá trị của tiền tệ là số lượng hàng hóa và dịch vụ mua được bằng một đơn vị của tiền tệ, ví dụ số lượng hàng hóa và dịch vụ mua được bằng một Dollar. Nói cách khác giá trị của tiền tệ là nghịch đảo của giá cả hàng hóa.
+Giá cả của tiền tệ chính là lãi suất, nói một cách khác, giá cả của tiền tệ là số tiền mà người ta phải trả cho cơ hội được vay nó trong một khoảng thời gian xác định.
+Giá trị của tiền tệ là 1 lượng vàng nguyên chất nhất định làm đơn vị tiền tệ.
+
+
+== Tính chất của tiền tệ ==
+Để có thể thực hiện được các chức năng của tiền, tiền tệ (hay tiền trong lưu thông) phải có các tính chất cơ bản sau đây:
+Tính được chấp nhận rộng rãi: đây là tính chất quan trong nhất của tiền tệ, người dân phải sẵn sàng chấp nhận tiền trong lưu thông, nếu khác đi nó sẽ không được coi là tiền nữa. Kể cả một tờ giấy bạc do ngân hàng trung ương phát hành cũng sẽ mất đi bản chất của nó khi mà trong thời kỳ siêu lạm phát, người ta không chấp nhận nó như là một phương tiện trao đổi.
+Tính dễ nhận biết: Muốn dễ được chấp nhận thì tiền tệ phải dễ nhận biết, người ta có thể nhận ra nó trong lưu thông một cách dễ dàng. Chính vì thế những tờ giấy bạc do ngân hàng trung ương phát hành được in ấn trông không giống bất cứ một tờ giấy chất lượng cao nào khác.
+Tính có thể chia nhỏ được: tiền tệ phải có các loại mênh giá khác nhau sao cho người bán được nhận đúng số tiền bán hàng còn người mua khi thanh toán bằng một loại tiền có mệnh giá lớn thì phải được nhận tiền trả lại. Tính chất này giúp cho tiền tệ khắc phục được sự bất tiện của phương thức hàng đổi hàng: nếu một người mang một con bò đi đổi gạo thì anh ta phải nhận về số gạo nhiều hơn mức anh ta cần trong khi lại không có được những thứ khác cũng cần thiết không kém.
+Tính lâu bền: tiền tệ phải lâu bền thì mới thực hiện được chức năng cất trữ giá trị cũng như mới có ích trong trao đổi. Một vật mau hỏng không thể dùng để làm tiền, chính vì vậy những tờ giấy bạc được in trên chất liệu có chất lượng cao còn tiền xu thì được làm bằng kim loại bền chắc.
+Tính dễ vận chuyển: để thuận tiện cho con người trong việc cất trữ, mang theo, tiền tệ phải dễ vận chuyển. Đó là lý do vì sao những tờ giấy bạc và những đồng xu có kích thước, trọng lượng rất vừa phải chứ tiền giấy không được in khổ rộng ví dụ như khổ A4.
+Tính khan hiếm: Để dễ được chấp nhận, tiền tệ phải có tính chất khan hiếm vì nếu có thể kiếm được nó một cách dễ dàng thì nó sẽ không còn ý nghĩa trong việc cất trữ giá trị và không được chấp nhận trong lưu thông nữa. Vì thế trong lịch sử những kim loại hiếm như vàng, bạc được dùng làm tiền tệ và ngày nay ngân hàng trung ương chỉ phát hành một lượng giới hạn tiền giấy và tiền xu.
+Tính đồng nhất: tiền tệ phải có giá trị như nhau nếu chúng giống hệt nhau không phân biệt người ta tạo ra nó lúc nào, một đồng xu 5.000 VND được làm ra cách đây 2 năm cũng có giá trị như một đồng xu như thế vừa mới được đưa vào lưu thông. Có như vậy tiền tệ mới thực hiện chức năng là đơn vị tính toán một cách dễ dàng và thuận tiện trong trao đổi.
+
+
+== Lịch sử tiền tệ ==
+Xem chi tiết tại Tiền.
+
+
+== Đặc lợi phát hành tiền tệ ==
+Xem bài chính về Đặc lợi phát hành tiền tệ
+Lợi ích mà ngân hàng trung ương (hoặc cơ quan chính phủ có quyền phát hành tiền) có được nhờ phát hành tiền tệ được gọi là đặc lợi phát hành tiền tệ. Đây là phần giá trị chênh lệch giữa giá trị danh nghĩa (hay giá trị quy định) căn cứ vào con số của tờ bạc hoặc đồng xu và chi phí sản xuất, đưa vào lưu thông cũng như thu hồi các đồng tiền đó.
+
+
+== ISO 4217 ==
+Xem bài chính về ISO 4217
+ISO 4217 là một tiêu chuẩn của Tổ chức tiêu chuẩn hóa quốc tế (ISO) quy định về mã của tất cả các đơn vị tiền tệ bao gồm cả tiền tệ dùng trong giao dịch thanh toán và tiền tệ kế toán. ISO 4217 cũng mã hóa cho các đơn vị tiền tệ được định nghĩa là 1 troy ounce của các kim loại quý như vàng, bạc, platinum (vàng trắng),... Hệ thống mã này gồm hai loại mã, mã 3 ký tự bằng chữ (ví dụ: USD) và mã 3 ký tự bằng số (ví dụ: 704 cho đồng Việt Nam). Trừ một vài ngoại lệ, đối với tiền tệ của một quốc gia, mã 3 ký tự bằng chữ có hai ký tự đầu là mã quốc gia (cũng đã được chuẩn hóa theo một tiêu chuẩn khác của ISO) và ký tự thứ ba là chữ cái bắt đầu của tên gọi đơn vị tiền tệ, đồng Việt Nam được mã hóa theo đúng nguyên tắc này thành VND. Hệ thống mã này giúp cho các đơn vị tiền tệ được sử dụng trong thương mại, thanh toán một cách thống nhất và tránh được nhầm lẫn.
+
+
+== Các đơn vị tiền tệ quốc tế ==
+Một số đơn vị tiền tệ quốc gia của những nền kinh tế phát triển của thế giới hoặc của khu vực được sử dụng nhiều và do đó chiếm tỷ trọng lớn trong quan hệ thương mại và tài chính quốc tế như Dollar Mỹ, Euro, Yên Nhật, Bảng Anh.
+
+
+== Các đơn vị tiền tệ kế toán ==
+Một số đơn vị tiền tệ không thực tế xuất hiện trong lưu thông mà chỉ được dùng cho mục đích tính toán để thuận tiện trong quan hệ tài chính, thương mại quốc tế còn khi thanh toán phải được quy đổi ra các đơn vị tiền tệ lưu thông, trong đó phổ biến là:
+Quyền rút vốn đặc biệt - SDR: có mã ISO là XDR, đây là đơn vị tiền tệ được Quỹ tiền tệ quốc tế, một số tổ chức quốc tế sử dụng, nó cũng được dùng để tính toán cước phí bưu chính, viễn thông quốc tế. XDR gồm một giỏ các loại tiền phổ biến trong thương mại và tài chính quốc tế và hiện nay gồm EUR, USD, JPY, GBP với quyền số và giá trị được Quỹ tiền tệ quốc tế (IMF) tính toán 5 năm một lần. IMF cũng công bố tỷ giá của XDR so với USD hàng ngày để phục vụ cho thanh toán.
+Franc Poincaré: được sử dụng chủ yếu trong các quy định quốc tế liên quan đến trách nhiệm vật chất (ví dụ: Công ước Warszawa về trách nhiệm của các hãng hàng không quốc tế trong vận chuyển người, hành lý, hàng hóa bằng máy bay). Nó được định nghĩa là 65,5 mg vàng 900 phần nghìn. Tuy nhiên loại đơn vị tiền tệ kế toán này ngày nay hầu như đã được thay thế bởi XDR.
+ECU (viết tắt của cụm từ tiếng Anh "European Currency Unit"): là đơn vị tiền tệ kế toán được xây dựng trên cơ sở giỏ tiền tệ của các nước thuộc Cộng đồng châu Âu có mã ISO là XEU trước khi nó được thay thế bằng đồng Euro (mã ISO là EUR) với tỷ lệ 1:1. Tuy nhiên việc thay thế này đã nảy sinh một số rắc rối khi có tranh tụng pháp lý ở ngoài Cộng đồng châu Âu về việc đồng EUR có phải là đồng tiền thay thế XEU hay không.
+Ngoài các đơn vị tiền tệ kế toán khá phổ biến trong thương mại và tài chính quốc tế nêu trên, trong ngành hàng không dân dụng thế giới, một đơn vị tiền tệ kế toán là NUC (viết tắt của cụm từ tiếng Anh "Neutral Unit of Currency") được sử dụng để tính cước phí vận chuyển hàng không. Tỷ giá của nó so với USD luôn là 1.
+
+
+== Một số đơn vị tiền tệ đang được xem xét để chính thức hoá ==
+Đơn vị tiền tệ châu Á (ACU): một loại tiền tệ kế toán khởi đầu do diễn đàn ASEAN+3 (gồm các nước thành viên ASEAN cộng với Trung quốc, Nhật Bản và Hàn Quốc) đề xướng với bản chất là một giỏ tiền tệ tương tự như ECU của Cộng đồng châu Âu. Ngân hàng Phát triển châu Á (ADB) đang tiếp tục nghiên cứu để biến dự án này thành hiện thực trong một tương lai gần.
+Eco: là đồng tiền chung của các nước thuộc Khu vực tiền tệ Tây Phi nằm trong Cộng đồng kinh tế các nước Tây Phi dự kiến áp dụng từ 2009.
+Shilling Đông Phi: là loại tiền tệ mà các nước thuộc Cộng đồng Đông Phi dự kiến áp dụng làm đồng tiền chung vào cuối năm 2009
+Khaleeji: là đồng tiền chung mà những quốc gia thuộc Hội đồng Hợp tác các nước Ả-rập vùng Vịnh dự kiến áp dụng vào năm 2010
+Các nước thuộc Cộng đồng Ca-ri-bê cũng đang có dự án xây dựng đồng tiền chung và theo kế hoạch sẽ ra đời trong khoảng từ năm 2010 đến 2015 nhưng chưa đưa ra tên gọi.
+
+
+== Thị trường ngoại hối ==
+Xem bài chính: Thị trường ngoại hối
+
+Thị trường ngoại hối là thị trường mà ở đó tiền tệ của các nước khác nhau được đem ra trao đổi với nhau, chính tại thị trường này tỷ giá hối đoái được xác định. Các thị trường bán buôn được tổ chức tại các trung tâm tài chính, tiền tệ quốc tế như: New York, Tokyo, London, Zurich, Hongkong, Singapore... Ở mức độ bán lẻ nó được rất nhiều ngân hàng thương mại, công ty chuyên doanh ngoại hối thực hiện. Tại thị trường này, cung và cầu cũng quyết định giá cả của ngoại hối hay chính là tỷ giá hối đoái.
+
+
+== Khủng hoảng tiền tệ ==
+Xem bài chính về Khủng hoảng tiền tệ
+Hiện chưa có một định nghĩa được chấp nhận rộng rãi nhưng nhìn chung khủng hoảng tiền tệ được dùng để chỉ hiện tượng giá trị đối ngoại của đơn vị tiền tệ quốc gia bị suy giảm (nói cách khác là mất giá so với ngoại tệ) một cách nghiệm trọng và nhanh chóng. Chính phủ trở nên vô cùng khó khăn khi kiểm soát tỷ giá hối đoái và khi ngân hàng trung ương cố gắng can thiệp tỷ giá để bảo vệ giá trị của tiền tệ thì dự trữ ngoại hối của quốc gia bị mất đi ở quy mô lớn. Đã có một số mô hình khủng hoảng tiền tệ được nghiên cứu, một trong số đó là những nhà đầu cơ tấn công vào tiền tệ của một quốc gia và khi họ có nhiều tiền hơn ngân hàng trung ương của quốc gia đó thì khủng hoảng tiền tệ sẽ xảy ra.
+
+
+== Xem thêm ==
+Danh sách các loại tiền tệ đang lưu hành
+Tiền
+VND
+
+
+== Tham khảo ==
+
+Begg D., Fischer S. và Dornbusch R. (2007), Kinh tế học, Nhà xuất bản Thống kê, Hà Nội.
+David Cox (1997), Nghiệp vụ ngân hàng hiện đại, Nhà xuất bản Chính trị quốc gia, Hà Nội.
+
+
+== Liên kết ngoài ==
+Các đơn vị tiền tệ theo tiêu chuẩn ISO 4217

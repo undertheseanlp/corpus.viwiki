@@ -1,0 +1,21 @@
+Dấu huyền trong tiếng Việt là một dấu thanh nằm ở trên một số nguyên âm. Khi viết ở trên nguyên âm thì phát âm tiếng đó với giọng xuống. Dấu huyền viết bằng một gạch ngang chéo xuống từ trái sang phải.
+
+
+== Các ngôn ngữ khác ==
+Một số ngôn ngữ khác trên thế giới cũng dùng "dấu huyền" trong cách viết nhưng có thể mang chức năng khác không thuộc phạm vi dấu thanh. Thí dụ như Tiếng Ý thì dùng dấu huyền để đặt cách nhấn âm tiết trong khi tiếng Anh dùng dấu huyền (thường trong thể thơ) để biến nguyên âm câm thành nguyên âm bật tiếng.
+
+
+== Xem thêm ==
+Dấu hỏi
+Dấu sắc
+Dấu nặng
+Dấu ngã
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Diacritics Project – All you need to design a font with correct accents
+ASCII and Unicode quotation marks – "Please do not use the ASCII grave accent as a left quotation mark"
+Keyboard Help – Learn how to create world language accent marks and other diacriticals on a computer

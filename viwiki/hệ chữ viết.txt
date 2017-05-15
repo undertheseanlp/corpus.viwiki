@@ -1,0 +1,38 @@
+Hệ chữ viết là là một phương pháp lưu trữ thông tin và chuyển giao tin nhắn (thể hiện suy nghĩ hoặc ý tưởng) được tổ chức (thông thường được chuẩn hóa) trong một ngôn ngữ bằng cách mã hóa và giải mã theo cách trực quan (hoặc có thể gián tiếp).
+Quá trình mã hóa và giải mã này được gọi là viết và đọc, bao gồm một tập hợp các dấu hiệu hoặc chữ tượng hình, cả hai được biết đến như là các ký tự. Các ký tự này bao gồm cả chữ và số, thường được ghi vào một vật lưu trữ như giấy hoặc thiết bị lưu trữ điện tử. Các phương pháp không bền cũng có thể được sử dụng, chẳng hạn như viết trên cát hoặc vẽ lên trời bằng khói máy bay.
+Các thuộc tính chung của hệ thống chữ viết có thể được phân loại thành 3 thể loại: dựa trên bảng chữ cái, bảng âm tiết, hoặc bảng chữ tượng hình. Bất kỳ hệ thống cụ thể có thể có các thuộc tính của một hay nhiều thể loại trên. Trong các loại hệ thống dựa trên chữ cái, có một bộ tiêu chuẩn của các chữ cái (ký hiệu văn bản hoặc đồ hình cơ bản) của các phụ âm và nguyên âm mã hoá dựa trên các nguyên tắc chung là các chữ cái (hoặc cặp/nhóm chữ cái) đại diện cho âm vị (âm thanh đáng kể cơ bản) của văn nói. Trong các loại hệ thống dựa trên âm tiết, thường liên kết một chữ tượng hình cho một âm tiết (có thể là một cặp đôi hoặc nhóm âm vị, và được coi là các cấu thành để xây dựng một từ). Trong một hệ thống dựa trên chữ tượng hình, mỗi chữ tượng hình đại diện cho một từ, hoặc một đơn vị ngữ nghĩa (mà bản thân nó bao gồm một hoặc nhiều âm tiết). Các hệ chữ viết khác bao gồm abjads (là một bảng chữ cái mà không có nguyên âm) và abugidas, còn được gọi là alphasyllabaries, ở đó nguyên âm được thể hiện bởi dấu hoặc các sửa đổi khác của phụ âm).
+Phân loại của hệ thống chữ viết có thể được xác định bằng số các chữ tượng hình được sử dụng trong hệ thống. Bảng chữ cái thường sử dụng một bộ từ 20 đến 35 chữ cái để thể hiện đầy đủ một ngôn ngữ, trong khi bảng âm tiết có thể có 80 đến 100 âm tiết, và bảng chữ tượng hình có thể có hàng trăm đến hàng trăm nghìn chữ tượng hình.
+
+
+== Hệ chữ viết tiếng Việt ==
+Tại Việt Nam, tiếng Việt được viết bằng hai loại chữ là Chữ Nôm và chữ Quốc ngữ. Hiện nay chữ Quốc ngữ là chữ viết chính thức của tiếng Việt.
+
+
+== Sách tham khảo ==
+Cisse, Mamadou. 2006. "Ecrits et écritures en Afrique de l'Ouest". Sudlangues n°6, http://www.sudlangues.sn/spip.php?article101
+Coulmas, Florian. 1996. The Blackwell encyclopedia of writing systems. Oxford: Blackwell.
+Daniels, Peter T., and William Bright, eds. 1996. The World's Writing Systems. Oxford University Press. ISBN 0-19-507993-0.
+DeFrancis, John. 1990. The Chinese Language: Fact and Fantasy. Honolulu: University of Hawaii Press. ISBN 0-8248-1068-6
+Haarmann, Harald (2004), Geschichte der Schrift (ấn bản 2), München: C. H. Beck, ISBN 3-406-47998-7 
+Hannas, William. C. 1997. Asia's Orthographic Dilemma. University of Hawaii Press. ISBN 0-8248-1892-X (paperback); ISBN 0-8248-1842-3 (hardcover)
+Millard, A. R. (1986), “The Infancy of the Alphabet”, World Archaeology 17 (3): 390–398, doi:10.1080/00438243.1986.9979978 
+Rogers, Henry. 2005. Writing Systems: A Linguistic Approach. Oxford: Blackwell. ISBN 0-631-23463-2 (hardcover); ISBN 0-631-23464-0 (paperback)
+Sampson, Geoffrey. 1985. Writing Systems. Stanford, California: Stanford University Press. ISBN 0-8047-1756-7 (paper), ISBN 0-8047-1254-9 (cloth).
+Smalley, W. A. (ed.) 1964. Orthography studies: articles on new writing systems. London: United Bible Society.
+
+
+== Liên kết ngoài ==
+Writing Systems Research Free first issue of a journal devoted to research on writing systems
+Arch Chinese (Traditional & Simplified) Chinese character writing animations and native speaker pronunciations
+decodeunicode Unicode Wiki with all 98,884 Unicode 5.0 characters as gifs in three sizes
+African writing systems
+Omniglot A concise guide to the writing systems and languages of the world.
+(tiếng Hungary) Ultraweb.hu - főoldal
+Ancient Scripts Introduction to different writing systems
+Michael Everson's Alphabets of Europe
+The Unicode Consortium
+Elian script a writing system that combines the linearity of spelling with the free-form aspects of drawing.
+(tiếng Nga) Written of the World
+
+
+== Tham khảo ==

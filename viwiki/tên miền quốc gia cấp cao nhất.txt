@@ -1,0 +1,392 @@
+Tên miền quốc gia cấp cao nhất (tiếng Anh: Country code top-level domain, viết tắt là ccTLD) hay gọi tắt là tên miền quốc gia là một tên miền cấp cao nhất Internet, được dùng hoặc dự trữ cho một quốc gia hoặc một lãnh thổ phụ thuộc. Tên xác định tên miền quốc gia dài 2 ký tự, và tất cả các tên miền cấp cao nhất có 2 ký tự đều là tên miền quốc gia. Việc tạo ra và ủy quyền cho các tên miền quốc gia được thực hiện bởi Tổ chức cấp phát số hiệu Internet (Internet Assigned Numbers Authority, IANA), với một số ngoại lệ nhất định được ghi ở dưới tương ứng với mã quốc gia ISO 3166-1 alpha-2 được duy trì bởi Liên Hiệp Quốc.
+
+
+== Việc ủy quyền và quản lý ==
+IANA (hiện kết giao ICANN) chịu trách nhiệm trong việc xác định một cơ quan được ủy thác thích hợp cho mỗi tên miền quốc gia. Quyền quản trị và quản lý sao đó được ủy quyền cho thực thể đó, nơi sẽ chịu trách nhiệm cho các chính sách và hoạt động của tên miền; các cơ quan được ủy quyền hiện nay có thể tham khảo tại danh sách các tên miền quốc gia của IANA. Mỗi một tên miền quốc gia do đó sẽ có những yêu cầu và mức phí đăng ký tên miền con khác nhau. Có thể là yêu cầu phải có mặt trong nước (như công dân hay có liên hệ đến tên miền quốc gia đó), ví dụ như tên miền của Canada (ca) và Đức (de), hoặc sự đăng ký có thể mở rộng cho mọi thực thể.
+
+
+== ISO 3166-1 và Tên miền quốc gia ==
+
+
+=== Mã ISO 3166-1 không được dùng làm tên miền quốc gia ===
+Các mã EH và KP, mặc dù trên lý thuyết là có thể dùng làm tên miền quốc gia cho Tây Sahara và Bắc Triều Tiên, nhưng chưa từng được dùng và không tồn tại trong DNS. Cũng tương tự như vậy, mã CS (Serbia và Montenegro) không được gán cho nước nào cả (cs trước đây được dùng cho Tiệp Khắc). TL (Đông Timor), hiện nay được dùng thay cho TP.
+Những mã hiện hành khác của ISO 3166-1 đã được gán và tồn tại trong DNS. Tuy nhiên, một số trong số này hiện chưa được dùng một cách hiệu quả. Cụ thể là, tên miền quốc gia của lãnh thổ thuộc Na Uy, Đảo Bouvet (bv) và tên miền cho Svalbard và Jan Mayen (sj) đang tồn tại trong DNS, nhưng chưa có tên miền con nào được gán, và hiện tại chính sách của Norid là sẽ không gán cho một ai. Chỉ có một tên miền con vẫn được đăng ký trong gb (ISO 3166-1 cho Vương quốc Liên hiệp Anh và Bắc Ireland) và không chấp nhận sự đăng ký nào khác. Những trang ở Anh nói chung sử dụng uk (xem ở dưới).
+
+
+=== Tên miền quốc gia không nằm trong ISO 3166-1 ===
+Có sáu tên miền quốc gia hiện đang sử dụng mà không phải mã hai chữ ISO 3166-1. Một vài mã nằm trong các mã hai chữ ISO 3166-1 đã cũ (hiện giờ nằm trong ISO 3166-3).
+uk (Vương quốc Liên hiệp Anh và Bắc Ireland, United Kingdom): Mã ISO 3166-1 cho Anh là GB, tuy nhiên mạng JANET đã chọn uk làm định danh cấp cao nhất cho các Sơ đồ Đăng ký Tên đã tồn tại trước đó, và nó đã được xếp vào tên miền cấp cao nhất. gb được gán với dự định sẽ làm một cuộc chuyển giao, nhưng điều đó đã không bao giờ xảy ra và việc sử dụng uk đã bắt rễ sâu.
+su (Mã ISO 3166-1 cũ cho Liên Xô): Những nhà quản lý su đã nói vào năm 2001 rằng họ sẽ bắt đầu chấp nhận việc đăng ký su mới, nhưng vẫn chưa rõ hành động này có phù hợp với chính sách của ICANN hay không.
+ac (Đảo Ascension): Mã này là dấu tích còn sót lại từ quyết định của IANA vào năm 1996 cho phép việc sử dụng các mã đã được dự trữ trong danh sách dự trữ ISO 3166-1 alpha-2 bởi Liên minh Bưu chính Thế giới. Quyết định này sau đó đã được hoàn lại, với Đảo Ascension là ngoại lệ duy nhất. (Ba tên miền quốc gia khác, gg (Guernsey), im (Đảo Man) và je (Jersey) cũng nằm ở nhóm này cho đến khi họ nhận được mã ISO 3166 tương ứng vào tháng 3 năm 2006).
+eu (Liên minh châu Âu): Vào ngày 25 tháng 9 năm 2000, ICANN đã quyết định cho phép sử dụng bất kỳ mã hai chữ nào trong danh sách dự trữ của ISO 3166-1. Hiện chỉ có EU thỏa mãn điều kiện này. Sau quyết định của Hội đồng các Bộ trưởng Viễn thông của EU vào tháng 3 năm 2002, tiến trình diễn ra chậm chạp, nhưng một cơ quan đăng ký (có tên là EURid) đã được chọn bởi Ủy ban châu Âu, và tiêu chuẩn cấp phát: ICANN đã chứng nhận eu là một tên miền quốc gia, và nó bắt đầu cho phép đăng ký vào ngày 7 tháng 12 năm 2005 cho những người giữ quyền lợi ưu tiên. Từ ngày 7 tháng 4 năm 2006, việc đăng ký mở rộng cho mọi thành phần.
+tp (mã ISO 3166-1 cũ của Đông Timor): Bị xóa bỏ để thay thế bằng tl vào năm 2005.
+yu (mã ISO 3166-1 cũ của Serbia và Montenegro, khi nó vẫn còn được biết đến dưới tên Nam Tư)
+
+
+=== Những tên miền quốc gia đã thành quá khứ ===
+Có hai tên miền quốc gia đã bị xóa sau khi mã 2 chữ tương ứng bị rút khỏi ISO 3166-1, đó là cs (cho Tiệp Khắc) và zr (cho Zaire). Cũng có một tên miền quốc gia cho Đông Đức, dd, nhưng chưa bao giờ được sử dụng. Có thể có một khoản chậm trễ giữa thời gian rút tên khỏi ISO 3166-1 với thời gian xóa khỏi DNS; ví dụ như, ZR đã rút khỏi ISO 3166-1 vào năm 1997, nhưng tên miền quốc gia zr vẫn không bị xóa cho đến năm 2001. Những tên miền quốc gia khác tương ứng với ISO 3166-1 cũ chưa được xóa; trong một vài trường hợp chúng sẽ chẳng bao giờ được xóa do sự khủng hoảng có thể xảy ra vì đã được sử dụng quá nhiều. Ví dụ như, tên miền quốc gia su của Liên Xô vẫn còn được sử dụng hơn một thập kỷ kể từ khi SU bị loại khỏi ISO 3166-1.
+
+
+== Những cách dùng tên miền quốc gia không theo quy ước ==
+Việc hạn chế đăng ký mềm mỏng với một vài tên miền quốc gia đã dẫn tới những tên miền như I.am, tip.it, start.at và go.to. Những biến thể khác của cách dùng tên miền quốc gia được gọi là lách tên miền, trong đó tên miền cấp 2 và tên miền quốc gia được dùng chung với nhau để tạo một từ hoặc một danh hiệu. Điều này đã dẫn tới có những tên miền như blo.gs của Nam Georgia và Quần đảo Nam Sandwich (gs), del.icio.us của Hợp chúng quốc Hoa Kỳ (us), và cr.yp.to của Tonga (to). (Những tên miền không phải mã quốc gia cũng được sử dụng, như inter.net sử dụng tên miền quốc tế .net, có thể là vụ lách tên miền đầu tiên trên thế giới)
+
+
+== Tên miền quốc gia hư danh ==
+Những tên miền quốc gia hư danh là những tên miền được sử dụng phần lớn với mục địch kinh doanh, thường ở bên ngoài đất nước, vì cái tên của nó. Một số ví dụ,
+ad là tên miền quốc gia của Andorra, nhưng ngày càng được dùng nhiều bởi các cơ quan quảng cáo. (advertisement)
+am là tên miền quốc gia của Armenia, nhưng thường được dùng cho các đài radio AM. (AM)
+cc là tên miền quốc gia của Đảo Cocos (Keeling) nhưng thường dùng rộng rãi cho nhiều loại trang web.
+cd là tên miền quốc gia của Cộng hòa Dân chủ Congo nhưng thường được dùng cho những trang của nhà buôn CD hay chia sẻ tập tin.
+fm là tên miền quốc gia của Liên bang Micronesia nhưng thường được dùng cho các đài radio FM.
+la là tên miền quốc gia của Lào nhưng được quảng bá là tên miền cho Los Angeles.
+nu là tên miền quốc gia của Niue nhưng được quảng bá tương tự với "mới" (new) trong tiếng Anh, "bây giờ" (nu) trong tiếng Na Uy và tiếng Hà Lan. Cũng còn có nghĩa "khỏa thân" (nu) trong tiếng Pháp.
+sc là tên miền quốc gia của Seychelles nhưng thường được dùng như.Source (mã nguồn)
+tv là tên miền quốc gia của Tuvalu nhưng thường được dùng cho các ngành công nghiệp truyền hình giải trí.
+ws là tên miền quốc gia của Samoa (Tây Samoa trước đây) được quảng bá như.Website (trang web)
+je là tên miền quốc gia của Jersey nhưng thường được dùng như từ giảm nhẹ trong tiếng Hà Lan (ví dụ như "huis.je"), như "bạn" ("zoek.je" = "tìm bạn"), hay như "tôi" trong tiếng Pháp (ví dụ, "moi.je")
+gg là tên miền quốc gia của Guernsey nhưng thường được dùng trong ngành công nghiệp trò chơi và đánh bạc (gaming and gambling), đặc biệt liên quan tới đua ngựa gee-gee.
+
+
+== Danh sách các tên miền quốc gia ==
+*=Cho phép đăng ký ở nước ngoài
+
+
+=== A ===
+.ac – Đảo Ascension *
+.ad – Andorra
+.ae hay امارات.‎ – Các Tiểu Vương quốc Ả Rập Thống nhất
+.af – Afghanistan
+.ag – Antigua và Barbuda *
+.ai – Anguilla
+.al – Albania
+.am – Armenia *
+.an – Antille thuộc Hà Lan
+.ao – Angola
+.aq – Nam Cực (Antarctica)
+.ar – Argentina
+.as – Samoa thuộc Mỹ *
+.at – Áo *
+.au – Úc
+.aw – Aruba
+.ax – Åland
+.az – Azerbaijan
+
+
+=== B ===
+.ba – Bosna và Hercegovina
+.bb – Barbados
+.bd – Bangladesh
+.be – Bỉ *
+.bf – Burkina Faso
+.bg hay .бг – Bulgaria
+.bh – Bahrain
+.bi – Burundi *
+.bj – Bénin
+.bm – Bermuda
+.bn – Brunei
+.bo – Bolivia *
+.bq – Caribe thuộc Hà Lan
+.br – Brasil *
+.bs – Bahamas *
+.bt – Bhutan
+.bv – Đảo Bouvet (không sử dụng; không đăng ký)
+.bw – Botswana
+.by – Belarus
+.bz – Belize *
+
+
+=== C ===
+.ca – Canada
+.cc – Quần đảo Cocos (Keeling) *
+.cd – Cộng hòa Dân chủ Congo (trước đây là.zr – Zaire) *
+.cf – Cộng hòa Trung Phi
+.cg – Cộng hòa Congo *
+.ch – Thụy Sĩ *
+.ci – Côte d'Ivoire (Bờ Biển Ngà)
+.ck – Quần đảo Cook *
+.cl – Chile
+.cm – Cameroon
+.cn hay.中国 và.中國 – Cộng hòa Nhân dân Trung Hoa *
+.co – Colombia
+.cr – Costa Rica
+.cs – Serbia và Montenegro (trước đây là.yu – Yugoslavia - Nam Tư; Ghi chú: vào ngày 3 tháng 6 năm 2006, Montenegro đã tuyên bố độc lập, do đó tách ra khỏi liên bang) (mã.cs không được gán; không có DNS) (mã.cs code trước đây dùng cho Tiệp Khắc)
+.cu – Cuba
+.cv – Cabo Verde
+.cx – Đảo Christmas *
+.cy – Kypros
+.cz – Cộng hòa Séc
+
+
+=== D ===
+.de – Đức
+.dj – Djibouti *
+.dk – Đan Mạch *
+.dm – Dominica
+.do – Cộng hòa Dominica
+.dz – Algérie
+
+
+=== E ===
+.ec – Ecuador
+.ee – Estonia
+.eg hay مصر.‎ – Ai Cập
+.eh – Tây Sahara (không được gán; không có DNS)
+.er – Eritrea
+.es – Tây Ban Nha *
+.et – Ethiopia
+.eu – Liên minh châu Âu (mã "dự trữ ngoại lệ" theo ISO 3166-1)
+
+
+=== F ===
+.fi – Phần Lan
+.fj – Fiji *
+.fk – Quần đảo Falkland
+.fm – Liên bang Micronesia *
+.fo – Quần đảo Faroe
+.fr – Pháp
+
+
+=== G ===
+.ga – Gabon
+.gb – Vương quốc Liên hiệp Anh và Bắc Ireland (Tên miền dự trữ theo IANA; không được tán thành – xem .uk)
+.gd – Grenada
+.ge – Gruzia
+.gf – Guyane
+.gg – Guernsey
+.gh – Ghana
+.gi – Gibraltar
+.gl – Greenland *
+.gm – Gambia
+.gn – Guinée
+.gp – Guadeloupe
+.gq – Guinea Xích đạo
+.gr – Hy Lạp *
+.gs – Quần đảo Nam Georgia và Quần đảo Nam Sandwich *
+.gt – Guatemala
+.gu – Guam
+.gw – Guiné-Bissau
+.gy – Guyana
+
+
+=== H ===
+.hk hay.香港 – Hồng Kông *
+.hm – Đảo Heard và quần đảo McDonald *
+.hn – Honduras *
+.hr – Croatia
+.ht – Haiti
+.hu – Hungary *
+
+
+=== I ===
+.id – Indonesia
+.ie – Ireland
+.il – Israel *
+.im – Đảo Man *
+.in – Ấn Độ *
+.io – Lãnh thổ Ấn Độ Dương thuộc Anh *
+.iq – Iraq
+.ir – Iran *
+.is – Iceland
+.it – Ý
+
+
+=== J ===
+.je – Jersey
+.jm – Jamaica
+.jo – Jordan
+.jp – Nhật Bản
+
+
+=== K ===
+.ke – Kenya
+.kg – Kyrgyzstan
+.kh – Campuchia
+.ki – Kiribati
+.km – Comoros
+.kn – Saint Kitts và Nevis
+.kp – Bắc Triều Tiên (chưa được gán; chưa có DNS)
+.kr – Hàn Quốc
+.kw – Kuwait
+.ky – Quần đảo Cayman
+.kz – Kazakhstan *
+
+
+=== L ===
+.la – Lào *
+.lb – Liban
+.lc – Saint Lucia
+.li – Liechtenstein *
+.lk – Sri Lanka
+.lr – Liberia
+.ls – Lesotho
+.lt – Litva
+.lu – Luxembourg
+.lv – Latvia *
+.ly – Libya *
+
+
+=== M ===
+.ma – Maroc
+.mc – Monaco
+.md – Moldova *
+.me – Montenegro
+.mg – Madagascar
+.mh – Quần đảo Marshall
+.mk – Cộng hòa Macedonia
+.ml – Mali
+.mm – Myanma
+.mn – Mông Cổ *
+.mo – Ma Cao
+.mp – Quần đảo Bắc Mariana *
+.mq – Martinique
+.mr – Mauritanie
+.ms – Montserrat *
+.mt – Malta
+.mu – Mauritius *
+.mv – Maldives
+.mw – Malawi *
+.mx – México *
+.my – Malaysia
+.mz – Mozambique
+
+
+=== N ===
+.na – Namibia *
+.nc – Nouvelle-Calédonie
+.ne – Niger
+.nf – Đảo Norfolk *
+.ng – Nigeria
+.ni – Nicaragua
+.nl – Hà Lan * (first ccTLD registered)
+.no – Na Uy
+.np – Nepal
+.nr – Nauru *
+.nu – Niue *
+.nz – New Zealand *
+
+
+=== O ===
+.om – Oman
+
+
+=== P ===
+.pa – Panama
+.pe – Peru
+.pf – Polynésie thuộc Pháp
+.pg – Papua New Guinea
+.ph – Philippines *
+.pk – Pakistan *
+.pl – Ba Lan *
+.pm – Saint Pierre và Miquelon
+.pn – Đảo Pitcairn *
+.pr – Puerto Rico *
+.ps – Palestine *
+.pt – Bồ Đào Nha *
+.pw – Palau
+.py – Paraguay
+
+
+=== Q ===
+.qa – Qatar
+
+
+=== R ===
+.re – Réunion
+.ro – România *
+.rs hay .срб – Serbia
+.ru hay .рф – Nga *
+.rw – Rwanda
+
+
+=== S ===
+.sa hay مصر.‎ – Ả Rập Saudi
+.sb – Quần đảo Solomon *
+.sc – Seychelles *
+.sd – Sudan
+.se – Thụy Điển *
+.sg – Singapore
+.sh – Saint Helena *
+.si – Slovenia
+.sj – Svalbard và Jan Mayen quần đảo (không sử dụng; không đăng ký)
+.sk – Slovakia
+.sl – Sierra Leone
+.sm – San Marino *
+.sn – Sénégal
+.so – Somalia *
+.sr – Suriname *
+.st – São Tomé và Príncipe *
+.su – Liên Xô (bị phản đối; đã bị xóa; mã "dự trữ trong khi chuyển tiếp" theo ISO 3166-1)
+.sv – El Salvador
+.sx – Thụy Điển *
+.sy – Syria *
+.sz – Swaziland *
+.ss – Nam Sudan (dùng tạm thời)
+
+
+=== T ===
+.tc – Quần đảo Turks và Caicos
+.td – Tchad
+.tf – Vùng đất phía Nam và châu Nam Cực thuộc Pháp
+.tg – Togo *
+.th – Thái Lan
+.tj – Tajikistan *
+.tk – Tokelau *
+.tl – Đông Timor (trước đây là.tp) *
+.tm – Turkmenistan *
+.tn – Tunisia
+.to – Tonga *
+.tp – Đông Timor (bị phản đối – dùng.tl; mã "để danh để chuyển tiếp" theo ISO 3166-1)
+.tr – Thổ Nhĩ Kỳ
+.tt – Trinidad và Tobago *
+.tv – Tuvalu *
+.tw hay.台灣 và.台湾 – Trung Hoa Dân Quốc (Đài Loan) *
+.tz – Tanzania
+
+
+=== U ===
+.ua hay .укр – Ukraina
+.ug – Uganda *
+.uk – Vương quốc Liên hiệp Anh và Bắc Ireland (mã "dự trữ ngoại lệ" theo ISO 3166-1) (xem thêm .gb)
+.us – Hoa Kỳ *
+.uy – Uruguay
+.uz – Uzbekistan
+
+
+=== V ===
+.va – Vatican
+.vc – Saint Vincent và Grenadines *
+.ve – Venezuela
+.vg – Quần đảo Virgin thuộc Anh *
+.vi – Quần đảo Virgin thuộc Mỹ
+.vn – Việt Nam
+.vu – Vanuatu *
+
+
+=== W ===
+.wf – Wallis và Futuna
+.ws – Samoa (Tây Samoa cũ) *
+
+
+=== Y ===
+.ye – Yemen
+.yt – Mayotte
+.yu – Nam Tư (sau này đổi thành Serbia và Montenegro)
+
+(mã chính thức đổi thành.cs (xem ở trên) những vẫn còn dùng; mã "dự trữ để chuyển tiếp" theo ISO 3166-1)
+
+
+=== Z ===
+.za – Nam Phi *
+.zm – Zambia
+.zw – Zimbabwe
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Danh sách các tên miền quốc gia của IANA – trang chính thức
+World Intellectual Property Organization (WIPO) Domain name dispute resolution
+World-Wide Alliance of Top Level Domain-names
+Norid: Các cơ quan đăng ký tên miền trên thế giới
+Nghiên cứu ccTLD năm 2005

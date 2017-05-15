@@ -1,0 +1,71 @@
+Lãi suất danh nghĩa, là thuật ngữ tài chính và kinh tế học để chỉ tỷ lệ lãi trên giá trị danh nghĩa của một khoản tiền vay hoặc đầu tư... với hàm ý nó là tỷ lệ lãi chưa được điều chỉnh ảnh hưởng của lạm phát hoặc ảnh hưởng của việc tính lãi kép.
+
+
+== Lãi suất danh nghĩa và lãi suất thực tế ==
+Lãi suất danh nghĩa (với hàm ý chưa điều chỉnh ảnh hưởng của lạm phát) là lãi suất đã bao gồm cả những tổn thất do lạm phát gây ra do sự gia tăng của mức giá chung. Quan hệ giữa lãi suất danh nghĩa và lãi suất thực tế được biểu thị bằng các công thức sau:
+(1 + r)(1 + i) = (1 + R) trong đó: r là lãi suất thực tế, i là tỷ lệ lạm phát và R là lãi suất danh nghĩa.
+Lãi suất thực tế = Lãi suất danh nghĩa - Tỷ lệ lạm phát dự kiến
+Trên thực tế, tỷ lệ lạm phát sau đó có thể khác với tỷ lệ lạm phát dự kiến nên không thể biết trước một cách chắc chắn được lãi suất thực tế còn lãi suất danh nghĩa thì có thể biết trước được một cách chắc chắn khi công bố.
+
+
+== Lãi suất danh nghĩa và lãi suất hiệu quả ==
+Lãi suất danh nghĩa(với hàm ý chưa điều chỉnh ảnh hưởng của việc tính lãi gộp) là lãi suất được công bố cho một kỳ nào đó của đơn vị thời gian cơ sở (đơn vị thời gian cơ sở thường là năm). Lãi suất được công bố sẽ không có ý nghĩa đầy đủ nếu không đi kèm với số kỳ được tính gộp lãi. Hai mức lãi suất danh nghĩa được công bố với kỳ hạn khác nhau sẽ không thể so sánh được với nhau nếu không quy về cùng một kỳ được tính gộp lãi. Lãi suất hiệu quả cho phép làm điều đó bằng cách quy đổi lãi suất danh nghĩa về lãi suất kép theo công thức sau:
+TH1: Khi Lãi suất danh nghĩa được công bố là 1 năm
+
+  
+    
+      
+        r
+         
+        =
+         
+        (
+        1
+        +
+        i
+        
+          /
+        
+        n
+        
+          )
+          
+            n
+          
+        
+        −
+        1
+      
+    
+    {\displaystyle r\ =\ (1+i/n)^{n}-1}
+  
+TH2: Khi Lãi suất danh nghĩa được công bố dưới 1 năm
+
+  
+    
+      
+        r
+         
+        =
+         
+        (
+        1
+        +
+        i
+        
+          )
+          
+            n
+          
+        
+        −
+        1
+      
+    
+    {\displaystyle r\ =\ (1+i)^{n}-1}
+  
+Trong đó: r là lãi suất hiệu quả, i là lãi suất danh nghĩa và n là số kỳ được tính gộp lãi trong năm.
+Cách tính toán này khác về căn bản với cách tính lãi suất đơn giản hay thường được gọi là lãi suất đơn ở chỗ nó tính gộp cả lãi suất tính trên phần lãi được hưởng (lãi mẹ đẻ lãi con). Công thức trên cũng cho thấy khi số kỳ được tính gộp lãi lớn thì sự khác biệt giữa lãi suất hiệu quả và lãi suất danh nghĩa sẽ rất lớn. Về bản chất, lãi suất hiệu quả cho biết tỷ lệ lãi thực tế trên một khoản cho vay hoặc đầu tư mà người cho vay hoặc nhà đầu tư thu được trên giá trị của khoản vay hoặc đầu tư đó trong một chu kỳ cho vay so với chu kỳ của lãi suất Danh nghĩa. Trong thực tế, các ngân hàng đều công bố lãi suất danh nghĩa và tính toán lãi suất hiệu quả dựa trên số kỳ tính gộp lãi.
+
+
+== Tham khảo ==

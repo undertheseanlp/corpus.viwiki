@@ -1,0 +1,100 @@
+iCloud là một dịch vụ lưu trữ và điện toán đám mây của Apple Inc. hoạt động từ 12/10/2011. Tính đến tháng 2 năm 2016, dịch vụ có 782 triệu người dùng.
+Dịch vụ này cung cấp cho người sử dụng các công cụ lưu trữ dữ liệu như văn bản, hình ảnh, và âm nhạc trên các máy chủ từ xa để tải về cho các thiết bị iOS, Macintosh hoặc Windows, để chia sẻ và gửi dữ liệu cho người dùng khác, và để quản lý các thiết bị Apple của họ nếu bị mất hoặc bị đánh cắp.
+Dịch vụ này cũng cung cấp các phương tiện để sao lưu không dây các thiết bị iOS trực tiếp đến iCloud, thay vì phụ thuộc vào các bản sao lưu thủ công thông qua một máy tính Mac hay Windows sử dụng iTunes. người sử dụng dịch vụ cũng có thể chia sẻ hình ảnh, âm nhạc, và các trò chơi ngay lập tức bằng cách liên kết các tài khoản thông qua AirDrop  không dây.
+Nó thay thế cho dịch vụ MobileMe của Apple, hoạt động như một trung tâm dữ liệu đồng bộ hóa cho email, danh bạ, lịch, đánh dấu, ghi chú, nhắc nhở (danh sách công việc phải làm), các tài liệu iWork, hình ảnh và các dữ liệu khác.
+Một trung tâm dữ liệu iCloud của Apple có trụ sở ở Maiden, North Carolina, Mỹ.
+Khởi động năm 2011, iCloud dựa trên Amazon Web Services và Microsoft Azure (Sách trắng Apple iOS Security được xuất bản năm 2014, Apple đã thừa nhận rằng các tập tin iOS mã hóa được lưu trữ trong Amazon S3 và Microsoft Azure). Năm 2016, Apple đã ký một thỏa thuận với Google để sử dụng Google Cloud Platform cho một số dịch vụ iCloud.
+Tháng 10/2016, Bloomberg loan tin Apple đã làm việc với dự án Pie nhằm cải thiện tốc độ và kinh nghiệm của các dịch vụ trực tuyến của Apple đang được vận hành trực tiếp bởi Apple. Ngoài ra nó đã được báo cáo rằng Apple sẽ chuyển nơi ở tất cả các nhân viên dịch vụ của mình đến  Apple Campus (1 Infinite Loop, Cupertino, California), cũng như nhiều nhân viên khác sẽ được di chuyển đến Apple Campus 2.
+
+
+== Lịch sử ==
+iCloud được công bố ngày 6/6/2011, tại Apple Worldwide Developers Conference (WWDC) 2011. Apple thông báo rằng MobileMe sẽ được ngưng sau ngày 30/6/2012, với những ai đã có một tài khoản trước khi ra mắt của iCloud dịch vụ MobileMe của họ kéo dài đến ngày đó, miễn phí.
+Website chính thức, www.icloud.com, hoạt động từ đầu tháng 8 cho Apple Developers. Ngày 12/10/2011, iCloud có sẵn cho người dùng thông qua một cập nhật iTunes. iCloud had 20 million users in less than a week after launch. Tên miền iCloud.com đăng ký nhãn hiệu đã được mua từ một công ty Thụy Điển Xcerion, và đổi tên dịch vụ của họ thành CloudMe. Apple bây giờ quản lý hầu hết các tên miền như iCloud.de, iCloud.fr và iCloud.es.
+Một vụ kiện của người dùng không hài lòng trong quá trình chuyển đổi từ MobileMe sang iCloud đã được nộp vào đầu tháng 5/2012.
+
+
+== Công bố ==
+Đề cập chính thức đầu tiên về iCloud của Apple là vào ngày 31/5/2011, khi một thông cáo báo chí cho rằng họ sẽ cho ra mắt các dịch vụ tại WWDC ngày 6/6/2011. Một biểu ngữ treo tại Trung tâm Moscone tại WWDC tiết lộ logo iCloud năm ngày trước khi ra mắt chính thức
+Trong bài phát biểu phát biểu quan trọng tại WWDC 2011, Apple đã công bố iCloud sẽ thay thế dịch vụ MobileMe và dịch vụ iCloud cơ bản sẽ được miễn phí.
+
+
+== Tính năng ==
+Hệ thống dựa trên đám mây cho phép người dùng lưu trữ âm nhạc không đồng nhất, hình ảnh, ứng dụng, tài liệu, bookmark, nhắc nhở, sao lưu, ghi chú, iBooks, và địa chỉ liên lạc, và cung cấp một nền tảng cho các máy chủ email và lịch của Apple. Các nhà phát triển bên thứ 3 có thể bổ sung các tính năng của iCloud vào các ứng dụng của họ thông qua iCloud API.
+
+
+=== Sao lưu và khôi phục ===
+iCloud cho phép người dùng sao lưu các cài đặt và dữ liệu trên các thiết bị iOS chạy iOS 5 trở lên. Dữ liệu sao lưu bao gồm ảnh và video trong Camera Roll, cài đặt thiết bị, dữ liệu ứng dụng, tin nhắn(iMessage, SMS, và MMS), nhạc chuông, và Visual Voicemails. Sao lưu diễn ra hàng ngày khi thiết bị bị khóa và kết nối Wi-Fi và bật nguồn. Trong trường hợp về một trục trặc của bất kỳ thiết bị Apple, trong quá trình phục hồi, iCloud cung cấp khôi phục lại tất cả các dữ liệu cùng với dữ liệu ứng dụng chỉ khi thiết bị được đồng bộ hóa với iCloud và sao lưu.
+
+
+=== Back to My Mac ===
+Back to My Mac, là một phần của MobileMe trước đây, bây giờ nó là một phần của iCloud. Như trước đây, dịch vụ này cho phép người dùng đăng nhập từ xa vào máy tính khác mà có Back to My Mac kích hoạt và được cấu hình với cùng Apple ID.
+
+
+=== Email ===
+Như với MobileMe (và .Mac và iTools trước nó), một tài khoản iCloud bao gồm một tài khoản email. Không giống MobileMe lần lặp lại trước đây của nó, một địa chỉ email là một phần tùy chọn của một tài khoản iCloud, trong đó người dùng có thể không sử dụng nó, nhưng vẫn có thể sử dụng email như ID Apple iCloud của họ. Các tài khoản email có thể được truy cập bằng cách sử dụng bất kỳ ứng dụng email tương thích với chuẩn IMAP, cũng như ứng dụng web mail của khách hàng trực tuyến tại iCloud.com. Ngoài ra, trên một thiết bị iOS, iCloud email là tự kích hoạt.
+Người dùng chuyển đổi tài khoản MobileMe có sẵn sang tài khoản iCloud vẫn giữ lại địa chỉ email "@me.com", và người dùng có tài khoản trước MobileMe được giữ lại cả hai địa chỉ email me.com và mac.com. Cũng giống với chuyển đổi.Mac sang MobileMe, người dùng hiện tại có được giữ địa chỉ cũ của mình và cũng có một địa chỉ iCloud.com mới phù hợp, vì vậy tin nhắn gửi đến một tài khoản hợp lệ với nhiều địa chỉ đều được đưa vào cùng hộp thư đến.
+
+
+=== Find My Friends ===
+Find My Friends là một tính năng mới được giưới thiệu tới iCloud trên iOS 5. Find My Friends rất giống với Find My iPhone, ngoại trừ người dùng có thể chia sẻ vị trí của mình với bạn bè hoặc gia đình sử dụng tính năng này. Đồng thời với việc ra mắt iOS 5, Apple đã phát hành một ứng dụng cho Find My Friends. iOS 6 thêm các cảnh báo dựa trên vị trí để thông báo cho người dùng khi một thiết bị tới một vị trí nhất định. Trong iOS 9 Find My Friends xây dựng trong các thiết bị và không thể được gỡ bỏ. Tháng 10/2015 Find My Friends được bổ sung vào iCloud.com để xem các vị trí của "bạn bè" khác.
+
+
+=== Find My iPhone ===
+Find My iPhone, là một phần của MobileMe, cho phép người dùng theo dõi vị trí của thiết bị iOS hoặc Mac của họ. Người dùng có thể thấy vị trí gần đúng của thiết bị trên bản đồ (cùng với một vòng tròn bán kính hiển thị sai số), hiển thị một thông báo và/hoặc phát một âm thanh trên thiết bị (kể cả khi nó được thiết lập để im lặng), thay đổi mật khẩu trên thiết bị, và xóa từ xa nội dung của nó. Các tính năng lần đầu tiên được công bố vào ngày 10/6/2009 và được đưa vào trong bản cập nhật cho iOS 3.0 như là một tính năng cho người dùng MobileMe trả phí. Find My iPhone đã được miễn phí cho các bản cập nhật phần mềm iOS 4.2.1 vào ngày 22/11/2010, nhưng chỉ cho các thiết bị được giới thiệu trong năm 2010. Một ứng dụng iOS cũng đã được phát hành bởi Apple vào ngày 18/6/2010, trong đó cho phép người dùng xác định vị trí thiết bị của họ từ các thiết bị iOS khác chạy iOS 4 hoặc cao hơn.  Trong iOS 5, Find My iPhone được tiếp tục như một tính năng của iCloud. iOS 6 giới thiệu Lost Mode, một tính năng cho phép người dùng đánh dấu thiết bị là "bị mất", khiến dễ dàng hơn để bảo vệ và tìm kiếm. Tính năng này cũng cho phép một người nào đó tìm thấy iPhone bị mất gọi trực tiếp cho người dùng mà không cần mở khóa nó. Tương tự như các dịch vụ tìm điện thoại dưới tên khác nhau có sẵn cho các dòng smartphone khác.
+Activation Lock được giới thiệu năm 2013 với iOS 7. Nó được tích hợp với iCloud và tính năng Find My iPhone. Tính năng mới này khóa kích hoạt bất kỳ iPhone, iPad, iPod touch hoặc Apple watch đã được khôi phục trong DFU hoặc Recovery mode mà không cần tắt tính năng Find My iPhone. Khi khôi phục được hoàn thành, các thiết bị sẽ yêu cầu Apple ID và mật khẩu đã được gắn trước với nó, để tiến hành kích hoạt, sau cùng ngăn chặn bất kỳ thiết bị bị đánh cắp khỏi việc có thể bị sử dụng.
+Tính đến iOS 9, Find my iPhone là ứng dụng tích vào hệ thống, và do đó không thể gỡ bỏ.
+
+
+=== iCloud Keychain ===
+
+
+=== iTunes Match ===
+iTunes Match ra mắt vào ngày 14 /11/2011. Nó ban đầu có sẵn để chỉ cho người dùng Mỹ. Với một khoản phí hàng năm, khách hàng có thể quét và xem các bài hát trong thư viện iTunes âm nhạc của họ, bao gồm cả các bài hát sao chép từ CD hoặc các nguồn khác, với các bài hát trong iTunes Store, vì vậy khách hàng không cần phải mua lại nói bài hát. Khách hàng có thể tải lên tới 100.000 bài hát 256 kbit/s có định dạng AAC phù hợp với bài hát trong bất kỳ định dạng tập tin âm thanh được hỗ trợ trong thư viện iTunes, bao gồm ALAC và MP3. Khách hàng cũng có thể lựa chọn để giữ bản gốc của họ được lưu trữ trên máy tính của họ hoặc họ đã thay thế bằng bản sao từ iTunes Store. Bất kỳ bài nhạc không có sẵn trong iTunes Store sẽ được tải lên để download về các thiết bị hỗ trợ khác của khách hàng và máy tính; việc này sẽ không mất bộ nhớ từ lưu trữ iCloud của khách hàng. Bất kỳ bài hát  được lưu trữ trong các Lossless Audio ALAC, định dạng nguyên gốc PCM, WAV và AIFF, are transcoded tsex được chuyển mã sang định dạng 256 kbit/s DRM-free AAC trước khi tải lên tài khoản lưu trữ iCloud của khách hàng, giữ lại các file chất lượng cao cục bộ ở định dạng ban đầu của chúng.
+
+
+=== iCloud Drive ===
+iCloud Drive là một dịch vụ lưu trữ file của iCloudcho các thiết bị chạy iOS 8, OS X Yosemite (phiên bản 10.10), hoặc Windows 7 hay mới hơn, cộng với truy cập ứng dụng web trực tuyến qua iCloud.com. Tính năng này cho phép người dùng lưu trữ bất kỳ loại tập tin, bao gồm cả hình ảnh, video, tài liệu, âm nhạc, và dữ liệu của ứng dụng khác, trong iCloud Drive và truy cập nó trên bất kỳ máy Mac, iPad, iPhone, iPod Touch, hoặc Windows PC. Người dùng có thể bắt đầu công việc của mình trên một thiết bị và tiếp tục trên một thiết bị khác. Theo mặc định, người dùng vẫn sẽ nhận được 5 GB dung lượng lưu trữ miễn phí như trước đây, nhưng các kế hoạch lưu trữ mở rộng có sẵn đã tăng lên đáng kể về kích thước (lên đến 2 TB của không gian) và thay đổi các tùy chọn thuê bao hàng tháng từ từng năm một được cung cấp được cung cấp cho các dịch vụ không iCloud Drive trước đây.
+
+
+== Yêu cầu hệ thống ==
+Tạo tài khoản iCloud yêu cầu hoặc là một thiết bị iOS chạy iOS 5 trở lên hoặc một máy Mac chạy OS X Lion v10.7.5 hoặc mới hơn.
+Truy cập trực tuyến vào iCloud yêu cầu một trình duyệt web tương thích, và các tính năng nhất định là các yêu cầu tối thiểu về hệ điều hành của hệ thống. Ví dụ dùng iCloud Photo Sharing yêu cầu OS X Mavericks v10.9 hoặc ở trên vào một Mac.
+Thiết bị chạy phiên bản cũ của hệ điều hành MacOS (trước Mavericks) hoặc iOS (dưới 7) có thể không thể đăng nhập vào iCloud sau khi mật khẩu iCloud đã được thay đổi: chỉ có một giải pháp cho vấn đề này là để nâng cấp hệ điều hành, có thể là không thể trên một thiết bị không đáp ứng yêu cầu tối thiểu của hệ điều hành mới hơn '.
+Đồng bộ với PC yêu cầu Windows 7 hoặc mới hơn và dùng iCloud Control Panel, và tùy chọn Outlook 2007 hoặc mới hơn được tích hợp trong Windows 10 các ứng dụng Mail và Lịch để đồng bộ Lịch, danh bạ và Nhắc nhở. Người dùng phải sở hữu một thiết bị của Apple để thiết lập iCloud cho Windows.
+Đồng bộ bookmarks yêu cầu Safari 5.1.1 hoặc mới hơn trên macOS, và Internet Explorer 9, Firefox 22 hoạc Google Chrome 28 trên Windows.
+Người dùng tài khoản MobileMe có thể chuyển tài khoản của họ sang một tài khoản iCloud, giữ các thông tin tài khoản.
+
+
+== Chỉ trích ==
+iCloud đã bị chỉ trích bởi các nhà phát triển bên thứ ba đối với các lỗi mà làm cho một số tính năng gần như không sử dụng được trên các phiên bản trước đó của iOS và MacOS, cụ thể việc sử dụng Core Data trong iCloud, để lưu trữ và đồng bộ một lượng lớn dữ liệu giữa các ứng dụng của bên thứ ba trên các thiết bị của người sử dụng.
+Các nhà phát triển bên thứ ba đã thông báo rằng những thay đổi được thực hiện trong việc phát hành iOS 7 và OS X Mavericks (phiên bản 10.9) giải quyết những lời chỉ trích iCloud.
+
+
+=== Tranh chấp tên gọi ===
+iCloud Communications, một công ty truyền thông ở Arizona, đã kiện Apple tháng 6/2011 cho vi phạm nhãn hiệu trong thời gian ngắn sau khi Apple công bố iCloud. Vụ kiện đã được nộp tại tòa án quận của bang Arizona và yêu cầu Apple ngừng sử dụng tên iCloud và bồi thường thiệt hại tiền tệ không xác định. iCloud Communications đổi tên thành Clear Digital Communications tháng 8/2011 và bỏ vụ kiện chống lại Apple ngay sau đó.
+
+
+=== Riêng tư ===
+Dịch vụ iCloud của Apple, bao gồm cả iCloud Drive và sao lưu thiết bị iOS, không cung cấp mã hóa end-to-end, còn được gọi là mã hóa phía khách hàng, và không có mã hóa end-to-end, thông tin của người sử dụng không được an toàn, vì nó vẫn còn dễ dàng truy cập trái phép.
+Tháng 8/2014, có tin đồn rằng tin tặc đã phát hiện ra một exploit liên quan đến các dịch vụ Find My iPhone,cho phép các hacker có thể tấn công brute-force một tài khoản Apple ID và truy cập dữ liệu iCloud của họ. Exploit này sau đó được cho là một phần của vụ rò rit một số lượng lớn thông tin cá nhân và ảnh nude của người nổi tiếng tháng 8/20014 được đồng bộ lên iCloud từ iPhone của họ. Apple xác nhận họ đã làm việc với các cơ quan thực thi pháp luật để điều tra sự rò rỉ. Apple sau đó đã phủ nhận rằng các dịch vụ iCloud tự họ hoặc các exploit phải chịu trách nhiệm về vụ rò rĩ, khẳng định rằng việc rò rỉ là kết quả của một cuộc tấn công lừa đảo có chủ đích chống lại các nhân vật nổi tiếng. Ngày 13/9/2014 Tim Cook, khi được phỏng vấn bởi Charlie Rose, tuyên bố rằng việc rò rỉ người nổi tiếng không phải là một exploit của iCloud ở tất cả, mà là những người nổi tiếng đã bị tấn công lừa đảo có chủ đích để lừa họ đưa ra các thông tin đăng nhập của họ.
+Sau đó, khi công bố Apple Pay, CEO của Apple Tim Cook công bố một loạt biện pháp để tăng cường an ninh bao gồm cả việc thúc đẩy nâng cao nhận thức của quá trình xác thực hai bước của họ.
+
+
+=== Mất dữ liệu ===
+Một lỗi trên iCloud Drive có thể dẫn đến mất dữ liệu. Ví dụ, di chuyển một tập các file từ iCloud Drive nếu chúng chưa được đồng bộ thì có thể sẽ cho kết quả là chúng bị mất.
+
+
+== Xem thêm ==
+So sánh các dịch vụ lưu trữ file
+Google Drive
+Dropbox
+Microsoft Azure
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Website chính thức
+iCloud tại Apple
+iCloud login guide

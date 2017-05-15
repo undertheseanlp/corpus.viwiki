@@ -1,0 +1,58 @@
+FIFA dùng ký hiệu ba chữ cho các quốc gia thành viên và không thành viên. Mã chính thức này do chính FIFA sử dụng và được áp dụng ở các liên đoàn liên châu lục (AFC, CAF, CONCACAF, CONMEBOL, OFC và UEFA).
+
+
+== Thành viên FIFA ==
+Dưới đây là 211 thành viên FIFA, mỗi quốc gia/vùng lãnh thổ đều có mã đặc trưng :
+
+
+== Mã dành cho thành viên không thuộc FIFA ==
+Các mã dưới đây dành cho các quốc gia hoặc lãnh thổ không tự chủ hiện không có mối liên quan đến FIFA, nhưng xuất hiện trong cơ sở dữ liệu của FIFA, hoặc được dùng trong các website liên quan
+
+
+== Mã không chính thức ==
+Các ký hiệu mã sau dành cho quốc gia hoặc vùng lãnh thổ không tự chủ không có liên quan đến FIFA. Dù các nước này là thành viên hoặc hội viên đàm phán đặc biệt của liên khu vực, các mã này không được dùng thường xuyên trong liên lạc với FIFA.
+
+
+== Mã cũ ==
+Các mã dưới đây đã hết hạn dùng do quốc gia không còn hiện hữu, hoặc do đổi quốc hiệu, trở thành thuộc địa, sáp nhập vào quốc gia khác, thành lập quốc gia mới...
+
+
+== Khác biệt giữa FIFA và IOC ==
+
+Dù hầu như bộ mã FIFA tương dòng với bộ mã IOC dùng trong các kì Thế vận hội, nhưng vẫn có điểm không nhất quán:
+Một số quốc gia có ký hiệu mã liên quan đến FIFA nhưng không là thành viên Ủy ban Olympic quốc tế, và ngược lại:
+Liên quan FIFA nhưng không phải thành viên IOC (11):
+Anguilla
+Anh
+Quần đảo Faroe
+Ma Cao, Trung Quốc
+Montserrat
+New Caledonia
+Bắc Ireland
+Scotland
+Tahiti
+Quần đảo Turks và Caicos
+Xứ Wales
+
+Thành viên IOC nhưng không liên quan đến FIFA (8):
+Khối Toàn Anh
+Kiribati
+Quần đảo Marshall
+Micronesia
+Monaco
+Nauru
+Palau
+Tuvalu
+
+
+== Khác biệt giữa FIFA và ISO ==
+
+Có nhiều điểm khác biết giữa bộ mã FIFA với ISO 3166-1 alpha-3 hơn là giữa FIFA và bộ mã IOC.
+
+
+== Chú thích ==
+“Associations”. FIFA.com. Truy cập ngày 26 tháng 7 năm 2006. 
+
+
+== Liên kết ngoài ==
+FIFA Country Codes - list maintained by the The Rec.Sport.Soccer Statistics Foundation Usenet group.

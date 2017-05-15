@@ -1,0 +1,22 @@
+iTunes /ˈaɪtjuːnz/ hay /ˈaɪtuːnz/ là một trình đa phương tiện, thư viện, ứng dụng quản lý di động được phát triển bởi Apple. Phần mềm này từng được chơi, tải về và sắp xếp các âm thanh và video đa phương tiên trên máy tính cá nhân theo hệ điều hành OS X và Microsoft Windows. Phần mềm còn được xuất hiện trên hệ thống iPod Touch, iPhone, iPad và Apple Watch.
+
+
+== Hệ điều hành hỗ trợ ==
+Với phiên bản đầu tiên ra mắt ngày 9 tháng 1 năm 2001, phần mềm này được phát hành miễn phí cho các máy tính cá nhân sử dụng hệ điều hành OS X và Windows.
+
+
+== Các tính năng ==
+Phát, tải xuống và quản lý tập trung các tập tin nhạc, video.
+iTunes cho phép kết nối với iTunes Store, cửa hàng âm nhạc trực tuyến của Apple, nơi người dùng có thể mua và tải về nhạc, video âm nhạc, show truyền hình và phim với chất lượng cao, sách điện tử, podcast; kết nối với App Store, cửa hàng ứng dụng của Apple, nơi người dùng có thể tải về các phần mềm ứng dụng cho các thiết bị Apple khác như iPhone, iPad và iPod Touch.
+Cho phép đồng bộ hóa các tập tin nhạc và video trong thư viện của nó với iPhone, iPad và iPod Touch khi các thiết bị này kết nối với iTunes. Điều này có nghĩa là các bài hát và video mới được thêm vào thư viện của iTunes sẽ được tự động sao chép vào thiết bị, các bài hát bị xóa khỏi thư viện cũng sẽ được xóa khỏi thiết bị, như vậy nội dung trên các thiết bị và nội dung trên máy chủ chạy iTunes được đồng bộ.
+Cài đặt các phiên bản cũ hoặc nâng cấp lên firmware mới của iPhone iPad.
+Hỗ trợ tính năng FileSharing - chép tài liệu vào iPhone iPad.
+Hỗ trợ tạo và chép nhạc chuông cho các thiết bị Apple.
+
+
+== Xem thêm ==
+Cửa hàng iTunes
+iTunes Festival
+
+
+== Tham khảo ==

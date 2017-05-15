@@ -1,0 +1,85 @@
+Autodesk, Inc. (NASDAQ: ADSK) là một công ty đa quốc gia của Hoa Kỳ với dòng sản phẩm chính là các phần mềm thiết kế 2D và 3D dành cho kiến trúc, kỹ thuật xây dựng, truyền thông và giải trí. Autodesk do lập trình viên John Walker, đồng tác giả của các phiên bản đầu tiên của sản phẩm phần mềm CAD đặc trưng của công ty có tên AutoCAD, cùng mười hai thành viên khác sáng lập vào năm 1982. Trụ sở của công ty đặt tại San Rafael, California.
+Autodesk có lẽ nổi tiếng nhất nhờ dòng sản phẩm phần mềm hỗ trợ thiết kế bằng máy tính có tên AutoCAD. Ngày nay, Autodesk là công ty phần mềm thiết kế lớn nhất trên thế giới, với hơn 9 triệu người sử dụng trên khắp thế giới, và công ty cũng vừa được liệt kê trong danh sách "50 Công ty Sáng tạo nhất thế giới" của tạp chí Fast Company với vị trí thứ 25.
+Autodesk đã phát triển một tập các giải pháp tạo mẫu kỹ thuật số (digital prototyping) để giúp người dùng hình dung, mô phỏng và phân tích các tiến trình ở thế giới thực thông qua quá trình thiết kế. Công ty cũng cung cấp phần mềm sáng tạo và quản lý phương tiện kỹ thuật số ở tất cả kỹ thuật phương tiện và giải trí, từ các hiệu ứng phim ảnh và truyền hình, phân loại màu, và biên tập cho đến phát triển hoạt họa, trò chơi máy tính, và hình dung thiết kế.
+
+
+== Sản phẩm ==
+
+
+=== Nền tảng ===
+
+
+=== Kiến trúc, kĩ thuật và xây dựng ===
+
+
+=== Sản xuất ===
+
+
+=== Đa phương tiện và giải trí ===
+
+
+=== Renderer ===
+
+
+=== Sản phẩm ngừng phát triển ===
+
+
+=== Sản phẩm ở chế độ bảo trì ===
+Autodesk MatchMover
+Autodesk Composite (trước kia là Autodesk Toxik)
+Autodesk Showcase
+
+
+== Lịch sử ==
+
+
+=== Mua lại doanh nghiệp ===
+Ngày 16 tháng 10 năm 1992, Autodesk mua lại Micro Engineering Solutions (MES) Inc., nhà phát triển và tiếp thị hàng đầu về sản xuất phần mềm CAD / CAM do Lynn and Jim Hock và Bill Harris thành lập, với người đứng đầu là chủ tịch kiêm giám đốc điều hành Ken Spenser
+Ngày 4 tháng 8 năm 1993, Autodesk mua lại Ithaca Software, một công ty đồ họa máy tính 3D được thành lập bởi giám đốc điều hành hiện tại của Autodesk Carl Bass và Garry Wiegand.
+Vào ngày 10 tháng 12 năm 1996, Autodesk công bố kế hoạch mua lại Softdesk, nhà phát triển phần mềm kiến ​​trúc, kỹ thuật và xây dựng.
+Vào ngày 6 tháng 5 năm 1998, Autodesk mua lại tài sản của Genius CAD-Software GmbH liên quan đến việc kinh doanh ứng dụng cơ khí với giá 68 triệu Euro bằng tiền mặt. Tài sản này được sử dụng để tăng cường chức năng của các sản phẩm cơ khí cốt lõi của nó.
+Vào ngày 16 tháng 3 năm 1999, Autodesk mua lại Discreet Logic Inc. (Nasdaq: DSLGF) với một mức giá không được tiết lộ.
+Vào ngày 22 tháng 4 năm 1999, Autodesk đã mua lại VISION * Solutions, nhà cung cấp các giải pháp quản lý bản đồ / cơ sở dữ liệu tự động hóa của doanh nghiệp (AM / FM / GIS), từ MCI Systemhouse Corp., công ty công nghệ thông tin toàn cầu của MCI WorldCom, với giá 26 triệu USD.
+Vào ngày 24 tháng 1 năm 2001, Autodesk đã mua lại Gentry Systems, nhà cung cấp các công cụ và dịch vụ phần mềm chuyên dụng trong ngành công nghiệp tiện ích điện với một số tiền không tiết lộ. Tài sản được sử dụng để tăng cường vị trí của Autodesk trong ngành công nghiệp tiện ích.
+Vào ngày 24 tháng 9 năm 2001, Autodesk mua lại Buzzsaw với giá 18 triệu USD.
+Vào ngày 21 tháng 2 năm 2002, Autodesk mua lại công ty Revit Technology, nhà phát triển ở Massachusetts về công nghệ tham số cho xây dựng, xây dựng và quản lý, với giá 133 triệu USD tiền mặt.
+Vào ngày 6 tháng 8 năm 2002, Autodesk mua lại CAiCE Software Corporation, nhà phát triển các ứng dụng khảo sát và kỹ thuật cho các đại lý vận chuyển và các chuyên gia tư vấn, với giá khoảng 10 triệu USD tiền mặt.
+Vào ngày 18 tháng 12 năm 2002, Autodesk đã mua lại tài sản của truEInnovations, Inc với số tiền không tiết lộ. Tài sản đã được sử dụng để tạo ra ứng dụng Autodesk Vault.
+Vào ngày 4 tháng 3 năm 2003, Autodesk mua lại Linius Technologies, Inc. và mua một số tài sản nhất định của một công ty phần mềm thứ ba—VIA Development Corporation, với mức giá tiết lộ.
+Vào ngày 24 tháng 2 năm 2004, Autodesk mua lại MechSoft, Inc., đối tác của Chương trình Ứng dụng được Chứng nhận của Autodesk Inventor(R) và nhà phát triển sản phẩm MechSoft.
+Vào tháng 3 năm 2005, Autodesk mua lại tài sản của COMPASS systems GmbH for 13 Mio Euro, một nhà phát triển ở châu Âu của dòng giải pháp quản lý dữ liệu COMPASS. Tài sản đã được sử dụng để tăng cường vị trí của Autodesk trên thị trường quản lý dữ liệu sản phẩm châu Âu.
+Vào ngày 10 tháng 1 năm 2006, Autodesk mua lại Alias, với các ứng dụng tạo kiểu dáng và tạo ra nội dung số như định dạng tập tin FBX, với giá 197 triệu USD.
+Vào ngày 6 tháng 8 năm 2007, Autodesk đã công bố việc mua lại Skymatter Inc, nhà phát triển Mudbox.
+Vào ngày 9 tháng 8 năm 2007, Autodesk hoàn thành thương vụ mua lại NavisWorks Limited với giá 26 triệu USD, cộng với một khoản điều chỉnh vốn lưu động.
+Ngày 20 tháng 8 năm 2007, Autodesk thông báo rằng họ đã hoàn thành việc mua lại công nghệ và tài sản sản phẩm của Opticore AB, có trụ sở ở Gothenburg, Thụy Điển. Opticore is specialized in real time visualisation primarily for the carmakers industry.
+Vào ngày 28 tháng 8 năm 2007, Autodesk đã công bố việc mua lại công ty PlassoTech ở California, phát triển các ứng dụng CAE. Các điều khoản của giao dịch đã không được tiết lộ.
+Vào ngày 25 tháng 11 năm 2007, Autodesk đã thông báo ý định mua lại Robobat, nhà phát triển người Pháp cho các ứng dụng phân tích cấu trúc. Việc mua lại được hoàn thành vào ngày 15 tháng 1 năm 2008.
+Vào ngày 12 tháng 2 năm 2008, Autodesk thông báo rằng nó đã hoàn tất việc mua lại tài sản của tập đoàn phần mềm Carmel.
+
+
+== Tính bền vững ==
+
+
+== Xem thêm ==
+AutoCAD
+Tạo mẫu kỹ thuật số
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Autodesk Official site
+Autodesk Blogs
+AUGI Autodesk User Group International
+All Autodesk product usability, research, and beta testing
+Autodesk Labs
+Autodesk Seek
+Autodesk Partners With Leading Audio Technology Provider
+Autodesk Student Community
+Autodesk YouTube Channel
+Early AutoCAD information
+The Autodesk File, a History of Autodesk
+Autodesk and AutoCAD History Site
+AutoCAD Civil 3D's Official Page
+Autodesk Moldflow, Injection Molding Simulation

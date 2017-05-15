@@ -1,0 +1,49 @@
+NTT DOCOMO, Inc. (株式会社NTTドコモ, Kabushiki Gaisha Enu Ti Ti Dokomo) là nhà cung cấp dịch vụ viễn thông di động lớn nhất Nhật Bản. Tên gọi của hãng được viết tắt chính thức từ cụm từ tiếng Anh Do Communications Over the Mobile Network (Thực hiện thông tin liên lạc qua mạng lưới di động), nhưng cũng có nghĩa "ở mọi nơi" trong tiếng Nhật.
+DoCoMo được tách từ NTT vào tháng 8 năm 1991 để đảm nhận điều hành hệ thống điện thoại di động. DoCoMo cung cấp dịch vụ di động 2G (MOVA) PDC ở băng tần 800 MHz và 1,5 GHz (băng thông tổng cộng 34 MHz), và dịch vụ 3G (FOMA) W-CDMA ở băng tần 2 GHz (1945-1960 MHz). Hãng cũng kinh doanh các dịch vụ khác như PHS (Paldio), nhắn tin và vệ tinh. DoCoMo thông báo dịch vụ PHS của hãng sẽ bị huỷ bỏ từng bước trong vòng vài năm tới.
+
+
+=== Khách hàng ===
+DoCoMo có 49,8 triệu khách hàng điện thoại di động, trong đó hơn 15,8 triệu thuê bao FOMA và 45 triệu người dùng i-mode. Hãng dẫn đầu thị phần ở Nhật với tỷ lệ 56,0%, và giảm nhẹ trong những năm gần đây;
+
+
+=== i-Mode ===
+DoCoMo là nhà điều hành điện thoại di động đầu tiên trên thế giới thành công trong việc giới thiệu dịch vụ dữ liệu di động vào thương mại cho đối tượng khách hàng rộng. i-Mode được khởi xướng vào tháng 2 năm 1999 và sự hưởng ứng của khách hàng vượt quá mong đợi, trong khi kế hoạch giới thiệu dịch vụ dữ liệu di động dùng WAP vào cùng lúc đó không tìm được khách hàng ủng hộ. Trong một thời gian ngắn DoCoMo đã thu hút gần tất cả 40 triệu thuê bao trở thành người dùng i-Mode, tức trả thêm một khoản tiền hàng tháng cho i-Mode, và hầu hết họ cũng trả tiền cho nhiều loại hình đi kèm như dữ liệu, nhạc, trò chơi và thông tin.
+Chỉ trong một thời gian ngắn sau khi i-Mode xuất hiện, các đối thủ của DoCoMo cũng đã giới thiệu các dịch vụ dữ liệu tương tự rất giống với mô hình của i-Mode.
+Sau vài năm, i-Mode và các dịch vụ dữ liệu tương đương của các đối thủ của DoCoMo trở thành một phần thiết yếu trong hạ tầng cấu trúc thương mại và xã hội Nhật.
+
+
+=== FOMA ===
+DoCoMo là nhà điều hành điện thoại di động đầu tiên trên thế giới ứng dụng truyền thông di động 3G vào thương mại. Dịch vụ 3G của DoCoMo được tiếp thị dưới tên FOMA. Hiện tại (2005) FOMA dùng công nghệ wCDMA với tốc độ dữ liệu 384 kbit/s. Vì DoCoMo là nơi đầu tiên ứng dụng công nghệ mạng 3G, DoCoMo dùng kỹ thuật khác với các tiêu chuẩn UMTS châu Âu, lúc đó chưa chín mùi cho ứng dụng của DoCoMo. Gần đây DoCoMo đang tiến hành sửa đổi FOMA để tương thích hoàn toàn với các tiêu chuẩnUMTS.
+
+
+=== HSDPA ===
+DoCoMo đang làm việc để nâng cấp tốc độ dữ liệu lên đến 10 Mbit/s dùng HSDPA.
+
+
+=== Quyền sở hữu ===
+Cổ phiếu của NTT DoCoMo được bán công cộng tại một số sàn giao dịch chứng khoán, với cổ đông chính (trên 60%) là nhà điều hành điện thoại NTT của Nhật. NTT cũng là tập đoàn công cộng và người giữ phần lớn cổ phiếu là chính phủ Nhật Bản.
+
+
+=== Nghiên cứu và phát triển ===
+Trong khi hầu hết các nhà điều hành điện thoại di động trên thế giới không tiến hành việc nghiên cứu và phát triển (R&D) nào đáng kể và dựa vào các nhà cung ứng thiết bị cho việc phát triểu và ứng dụng thiết bị viễn thông mới, NTT DoCoMo tiếp tục truyền thống nghiên cứu và phát triển rất tốn kém của NTT. Chính các đầu tư nghiên cứu và phát triển mạnh mẽ đã cho phép DoCoMo giới thiệu dịch vụ dữ liệu i-Mode và viễn thông 3G sớm hơn bất cứ nơi nào khác trên thế giới.
+
+
+=== Đầu tư của DoCoMo ra ngoài Nhật Bản ===
+DoCoMo có phạm vi đầu tư rộng rãi ở nước ngoài. Tuy nhiên hãng đã không thành công trong việc đầu tư vào các nhà điều hành viễn thông nước ngoài. DoCoMo đã đầu tư nhiều tỉ đôla vào KPN, Hutchison, AT&T Wireless và cuối cùng phải huỷ bỏ hoặc bán lại cho các nhà điều hành khác. Hậu quả là DoCoMo thiệt hại khoảng 10 tỷ đôla Mỹ, trong khi cùng lúc các hoạt động tại Nhật Bản của hãng lại ăn nên làm ra.
+
+
+== Xem thêm ==
+NTT
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang web của NTT DoCoMo
+Phòng thí nghiệm châu Âu của DoCoMo
+Yahoo! - NTT DoCoMo, Inc. Company Profile
+Tổng quan về công nghiệp viễn thông Nhật Bản
+FAQ về i-Mode của DoCoMo
+Tổng quan về dịch vụ di động 3G ở Nhật Bản
+Tổng quan về dịch vụ di động 4G đang được dự định ở Nhật Bản

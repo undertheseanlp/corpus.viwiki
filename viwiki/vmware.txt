@@ -1,0 +1,8 @@
+VMware Inc. là một công ty phần mềm lớn vốn thuộc tập đoàn EMC chuyên làm phần mềm tạo máy ảo cho các hệ thống máy tính tương thích chip x86 của Intel. Sản phẩm chính của công ty bao gồm phần mềm ảo hóa VMware Workstation cho máy tình để bàn và VMware ESX server, VMware GSX server cho máy chủ. Các phần mềm tạo máy ảo của VMware được coi là tốt nhất trên thế giới bởi nó hỗ trợ nhiều hệ điều hành khác nhau như GNU/Linux, Mac OS X và Microsoft Windows. Các phần mềm máy ảo khác như Virtual PC chỉ hoạt động trên hệ điều hành Microsoft Windows. Đặc biệt VMware là công ty hàng đầu cung cấp các giải pháp ảo hóa cho các trung tâm dữ liệu với các sản phẩm như: VMware vSphere, VMware vCloud, VMware Director,....
+Công ty VMware Inc. có trụ sở chính ở thành phố Palo Alto, California, Hoa Kỳ và văn phòng nghiên cứu, phát triển ở Palo Alto, San Francisco, Massachusetts và ở Bangalore (Ấn Độ).
+Bạn có thể tìm hiểu thêm các thông tin bằng tiếng Việt về các giải pháp ảo hóa của VMware tại website: www.vmware.vn(Đường dẫn đã hỏng, hiện nay bạn chỉ có thể tìm hiểu các thông tin thêm về VMware bằng Tiếng Anh qua vmware.com).
+
+
+== Tham khảo ==
+
+VMware Workstation, VMware Player,....

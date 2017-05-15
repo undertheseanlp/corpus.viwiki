@@ -1,0 +1,55 @@
+Độc quyền, trong kinh tế học, là trạng thái thị trường chỉ có duy nhất một người bán và sản xuất ra sản phẩm không có sản phẩm thay thế gần gũi. Trong tiếng Anh monopoly có nguồn gốc từ tiếng Hy Lạp monos (nghĩa là một) và polein (nghĩa là bán). Đây là một trong những dạng của thất bại thị trường, là trường hợp cực đoan của thị trường thiếu tính cạnh tranh. Mặc dù trên thực tế hầu như không thể tìm được trường hợp đáp ứng hoàn hảo hai tiêu chuẩn của độc quyền và do đó độc quyền thuần túy có thể coi là không tồn tại nhưng những dạng độc quyền không thuần túy đều dẫn đến sự phi hiệu quả của lợi ích xã hội. Độc quyền được phân loại theo nhiều tiêu thức: mức độ độc quyền, nguyên nhân của độc quyền, cấu trúc của độc quyền...
+
+
+== Độc quyền thường ==
+
+
+=== Nguyên nhân chính dẫn đến độc quyền thường ===
+Chính phủ nhượng quyền khai thác tài nguyên nào đó: chính quyền địa phương có thể nhượng quyền khai thác rác thải cho một công ty nào đó hay nhà nước tạo ra cơ chế độc quyền nhà nước cho một công ty như trường hợp chính phủ Anh trao độc quyền buôn bán với Ấn Độ cho Công ty Đông Ấn.
+Nếu chi phí vận chuyển quá cao, thị trường có thể bị giới hạn trong một khu vực kinh tế nhất định nào đó và nếu trong khu vực đó có một doanh nghiệp cung cấp sản phẩm thì sẽ dẫn đến tình trạng gần như chiếm đoạt quyền trong kinh doanh.
+Chế độ sở hữu đối với phát minh, sáng chế và sở hữu trí tuệ: một mặt chế độ này làm cho những phát minh, sáng chế tăng theo một thời gian nhất định nhưng mặt khác nó tạo cho người nắm giữ bản quyền có thể giữ được vị trí độc tôn trong thời hạn được giữ bản quyền theo quy định do những văn bản do nhà nước ban hành.
+Do sở hữu được một nguồn lực lớn: điều này giúp cho người nắm giữ có vị trí gần như trọn vẹn trên thị trường. Một ví dụ điển hình là Nam Phi được sở hữu những mỏ kim cương chiếm phần lớn sản lượng của thế giới và do đó quốc gia này có vị trí gần như đứng đầu trên thị trường kim cương.
+
+
+=== Tổn thất phúc lợi xã hội do độc quyền thường gây ra ===
+Do tối đa hóa doanh thu nên doanh nghiệp chiếm đoạt quyền sẽ sản xuất hàng hóa ở mức sản phẩm mà tại đó doanh thu biên bằng với thu nhập biên thay vì sản xuất ở mức sản lượng mà ở đó giá sản phẩm cao hơn nhiều chi phí biên như trong thị trường (cân bằng cung cầu). Khác với thị trường cạnh tranh hoàn hảo, nơi mà giá bán sản phẩm phụ thuộc vào số lượng sản phẩm do một doanh nghiệp sản xuất ra, trong tình trạng chiếm đoạt quyền giá bán sẽ tăng lên khi doanh nghiệp chiếm đoạt quyền giảm sản lượng. Vì thế lợi nhuận biên sẽ lớn hơn giá bán sản phẩm và cứ một đơn vị sản phẩm sản xuất thêm doanh nghiệp chiếm đoạt quyền sẽ thu thêm được một khoản tiền lớn hơn giá bán sản phẩm đó. Điều này có nghĩa là nếu cứ sản xuất thêm sản phẩm thì doanh thu thu thêm được có thể đủ bù đắp tổn thất do giá bán của tất cả sản phẩm giảm xuống. Mặt khác, nếu áp dụng nguyên tắc biên của tính hiệu quả nghĩa là sản xuất sẽ đạt hiệu quả khi lợi ích biên bằng doanh thu biên, tất nhiên lợi ích biên và chi phí biên ở đây xét trên góc độ xã hội chứ không phải đối với doanh nghiệp độc quyền ta thấy rằng: ở mức sản lượng mà doanh nghiệp chiếm đoạt quyền sản xuất thì lợi ích biên (chính là đường cầu) lớn hơn chi phí biên đồng nghĩa với tình trạng không hiệu quả. Tóm lại, doanh nghiệp chiếm đoạt quyền sẽ sản xuất ở sản lượng thấp hơn và bán với giá cao hơn so với thị trường cạnh tranh. Tổn thất mà xã hội phải gánh chịu do sản lượng tăng lên trừ đi tổng chi phí biên để sản xuất ra phần sản lượng đáng lẽ nên được sản xuất ra thêm đó chính là tổn thất do chiếm đoạt quyền.
+
+
+=== Một số biện pháp sửa đổi cho tình trạng chiếm đoạt quyền trong kinh doanh ===
+Thi hành các chính sách hành chính nhà nước: chính phủ ban hành các văn bản pháp luật nhằm ngăn ngừa một số hành vi xấu như các doanh nghiệp cấu kết với nhau để nâng giá hay hạn chế một số cơ cấu thị trường nhất định có hại đến nền kinh tế của một đất nước. Các nước có thị trường phát triển thường dùng biện pháp này để điều tiết những doanh nghiệp lớn, chiếm thị phần rất cao trong khoảng thời gian dài. Phán quyết của tòa án Mỹ năm 1911 buộc nhóm công ty Standard Oil phải tách ra thành 34 công ty độc lập là ví dụ điển hình.
+Khuyến khích các công ty phát triển nhờ những chính sách của chính phủ: chính phủ thi hành các chính sách khuyến khích doanh nghiệp phát triển đồng thời phá bỏ những rào cản để các doanh nghiệp mới dễ đầu tư cho quá trình phát triển.
+Giám sát một cách chặt chẽ: chính phủ có thể đề ra các quy định cưỡng chế doanh nghiệp phải thực thi trong lĩnh vực hoạt động của doanh nghiệp ấy. Đây là biện pháp phổ biến để kiểm soát các công ty thuộc sở hữu nhà nước trong một nền kinh tế mới và đang phát triển.
+Kiểm soát tài khoản: chính phủ quy định phù hợp với những điều kiện của doanh nghiệp để doanh nghiệp bán sản phẩm đạt được mức doanh thu hiệu quả. Tuy nhiên biện pháp này có một khó khăn cơ bản là chính phủ rất khó xác định mức giá chung của nền kinh tế và dễ dẫn đến một sự lạm phát hay giảm phát không tốt cho nền kinh tế.
+Mời gọi đầu tư từ nước ngoài làm cho nền kinh tế thị trường trở nên đa dạng hơn, nâng cao tính cạnh tranh cho những doanh nghiệp trong nước duy trì một nền kinh tế ổn định và phát triển trong tương lai.
+
+
+== Độc quyền tự nhiên ==
+
+
+=== Nguyên nhân dẫn đến độc m là những yếu tố hàm chứa trong quá trình sản xuất cho phép đạt được thu nhập giảm khi gia tăng một quá trình sản xuất hay nói cách khác chi phí trên mỗi đơn vị sản phẩm tăng nếu gia tăng một quá trình sản xuất. Khi đó một doanh nghiệp nhỏ cung cấp sản phẩm là cách sản xuất có hiệu quả nhất. Điều này có thể thấy ở các ngành dịch vụ như sản xuất và phân phối dịch vụ, cung cấp hàng hóa, giáo dục, y tế... Lấy ví dụ như ngành cung cấp dịch vụ: sẽ là có hiệu quả hơn nếu chỉ một doanh nghiệp cung cấp cho một vùng thay vì có hai doanh nghiệp cung cấp với hai hệ thống dịch vụ khác nhau. ===
+
+
+=== Tổn thất phúc lợi xã hội do độc quyền tự nhiên gây ra ===
+Do chi phí sản xuất ra một đơn vị sản phẩm tăng dần theo quy mô nên [[chi phí biên]] của doanh nghiệp độc quyền tự nhiên có xu hướng giảm và luôn thấp hơn chi phí sản xuất trung bình. Cũng do tối đa hóa doanh thu, doanh nghiệp trên thị trường sẽ cung ứng sản phẩm sao cho lợi nhuận biên bằng giá sản phẩm. Tại trạng thái đó sản lượng sẽ thấp hơn và giá cao hơn so với trạng thái cân bằng của thị trường cạnh tranh khi mà giá bán hay lợi ích biên bằng giá sản phẩm. Sự giảm sút sản lượng cũng gây ra tổn thất. Tuy nhiên nếu như trong trường hợp khác, khi bị điều tiết để sản xuất ở mức sản xuất hiệu quả, doanh nghiệp vẫn có lợi nhuận (tuy đã bị giảm xuống) thì trong trường hợp này, nếu sản xuất ở mức sản lượng không hiệu quả, doanh nghiệp luôn bị lỗ vì giá bán sản phẩm (bằng doanh thu biên) thấp hơn chi phí sản xuất.
+
+
+=== Những phương án cho vấn đề độc quyền ===
+Chính phủ quy định cho doanh nghiệp một mức giá sao cho mức giá đó không làm cho nhưng mặt hàng khác có giá tăng theo(tránh hiện tượng ngoại ứng), tránh hiện tượng cùng một lúc hàng loạt mặt hàng tăng giá thì sẽ gây nên bất ổn trong đời sông nhân dân. Cách này xóa bỏ hoàn toàn được doanh thu siêu ngạch của doanh nghiệp và giảm được đáng kể tổn thất nhưng không loại trừ hoàn toàn được nó vì vẫn chưa đạt được mức sản lượng hiệu quả.
+Chính phủ quy định cho doanh nghiệp một mức giá bằng chi phí sản xuất để đạt mức sản lượng hiệu quả rồi bù đắp lỗ cho doanh nghiệp bằng một khoản hỗ trợ (vd: cho vay với một lãi xuất thấp...). Biện pháp này hoặc sẽ gây méo mó về giá cả nếu sử dụng loại thuế không phải thuế khoán hoặc sẽ làm người đóng thuế thắc mắc nếu áp dụng thuế khoán.
+Doanh nghiệp sẽ định giá gồm những phần khác nhau: phần thứ nhất đưa ra để phục vụ cho nhưng đối tượng khách hàng co nhu cầu cao đối với sản phẩm đó, sau một thời gian doanh nghiệp sẽ giảm giá sản phẩm để có thể tăng thêm những đối tượng khách hàng tiềm năng, ví dụ điển hình về vấn đề này như hãng điện thoại lớn nhất thế giới Nokia đã giảm giá đối với những dòng diện thoại cao cấp để nhưng khách hàng khác có thể mua với một mức giá phù hợp hơn sau một thời gian bán giá cao cho những người có nhu cầu.
+
+
+== Độc quyền bán và độc quyền mua ==
+Khái niệm độc quyền thường dùng để chỉ độc quyền bán nhưng tương tự như độc quyền bán cũng có độc quyền mua - một trạng thái thị trường mà ở đó chỉ tồn tại một người mua trong khi có nhiều người bán. Khác với độc quyền bán, trong trường hợp độc quyền mua, doanh nghiệp độc quyền sẽ gây sức ép để làm giảm giá mua sản phẩm từ những người bán. Doanh nghiệp độc quyền bán có thể đồng thời là độc quyền mua và trong trường hợp này lợi nhuận siêu ngạch của nó rất lớn vì bán sản phẩm với giá cao hơn và mua yếu tố đầu vào thấp hơn mức cân bằng của thị trường cạnh tranh. Doanh nghiệp độc quyền bán có điều kiện thuận lợi để trở thành độc quyền mua vì nó sản xuất ra sản phẩm không có sản phẩm thay thế gần gũi và do đó một vài yếu tố đầu vào của nó có thể là duy nhất, kể cả trong trường hợp yếu tố đầu vào không duy nhất thì doanh nghiệp độc quyền bán cũng có khả năng chi phối mạnh giá các yếu tố đầu vào nếu nó có quy mô lớn.
+
+
+== Tham khảo ==
+
+Economics of the Public Sector, Joseph E. Stiglitz.
+Kinh tế và tài chính công dành cho chương trình sau đại học về kinh tế theo phương thức từ xa.
+
+
+== Xem thêm ==
+Độc quyền mua
+Độc quyền nhóm
+Cạnh tranh hoàn hảo

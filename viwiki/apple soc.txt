@@ -1,0 +1,32 @@
+Apple system on chips, viết tắt là Apple System on a Chip, thường biết đến với cái tên Ax, là các hệ thống trên một vi mạch dựa trên nền tảng ARM được thiết kế bởi Apple Inc để sử dụng trong các thiết bị của họ như iPhone, iPad, iPod và Apple TV
+
+
+== Apple A4 ==
+
+Apple A4, tên mã S5L8930 sử dụng CPU ARM Cortex-A9 MPCore cùng GPU PowerVR SGX 535. Trong iPad bản đầu, Apple TV 2 và iPod Touch 4G, chip đi kèm với RAM 256MB, còn ở iPhone 4 thì chip đi kèm với RAM 512 MB. Tốc độ xung nhịp của A4 là 1GHz
+
+
+== Apple A5 ==
+
+Apple A5, tên mã S5L8940 được sử dụng lần đầu ở iPad 2, iPhone 4S, Apple TV 3 và gần đây là iPad Mini. A5 sử dụng chip ARM Cortex-A9 có xung nhịp 1Ghz và được sản xuất bới Samsung 
+
+
+== Apple A5X ==
+
+Apple A5X, tên mã S5L8945 là con chip duy nhất chỉ có trên The New iPad. A5X chỉ là phiên mản nâng cấp của A5 nhưng với chip đồ họa 4 nhân theo Apple. Chip được Samsung sản xuất với dây chuyền 45 nm
+
+
+== Apple A6 ==
+Apple A6, tên mã S5L8950 là con chip được sử dụng trên iPhone 5. Thay vì sử dụng chip ARM Cortex có sẵn thì Apple lại tự thiết kế con chip cho riêng mình để đảm bảo tiết kiện điện năng. A6 đi kèm với 3 nhân xử lý đồ họa, 2 nhân CPU và 1GB RAM. Chip được gia công bởi Samsung trên dây chuyền 32 nm
+
+
+== Apple A6X ==
+Apple A6X là con chip được sử dụng trên dòng iPad thế hệ thứ 4. Theo Apple thì chip A6X có tốc độ nhanh hơn A6 2 lần, có CPU 2 nhân và 4 nhân đồ họa. Do có bất đồng với Samsung, Apple đã chuyển việc sản xuất A6X từ Samsung sang TSMC
+
+
+== Chú thích ==
+
+17. http://www.anhem.vn/threads/1350-Chip-A7-cua-apple-chi-co-2-nhan-nhung-rat-manh.html
+
+
+== Liên kết ngoài ==

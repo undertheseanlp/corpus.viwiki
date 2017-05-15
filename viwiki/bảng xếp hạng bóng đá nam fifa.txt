@@ -1,0 +1,355 @@
+Bảng xếp hạng FIFA (BXH FIFA) là hệ thống xếp hạng dành cho các đội tuyển bóng đá nam trong các Liên đoàn bóng đá, hiện nay dẫn đầu đang là Brasil Các đội bóng quốc gia thành viên của FIFA, nơi điều hành các hoạt động bóng đá trên toàn thế giới, được xếp hạng dựa trên kết quả các trận đấu và đội có nhiều thắng lợi nhất sẽ được xếp hạng cao nhất. 1 hệ thống điểm được sử dụng, điểm được thưởng dựa trên kết quả các trận đấu quốc tế được FIFA công nhận. Trước hệ thống hiện nay, BXH được dựa trên thành tích của đội bóng trong 4 năm gần nhất, với nhiều kết quả gần hơn và nhiều trận đấu quan trọng hơn thì có ảnh hưởng nặng hơn cho việc giúp mang lại vị trí cao cho đội bóng.
+Hệ thống xếp hạng được sửa chữa sau World Cup 2006 với thông báo quan trọng về chuỗi xếp hạng mới được đưa ra vào ngày 12 tháng 6 năm 2009. Sự thay đổi quan trọng nhất là những vị trí bây giờ được dựa trên kết quả qua 4 năm trước thay vì 8 năm. Sự thay đổi được hiểu là để đáp lại sự chỉ trích cho rằng những thứ hạng không thể hiện cân xứng với sức mạnh thực tế của các đội tuyển. (Xem phần Những sự chỉ trích).
+Những hệ thống khác đã được đặt ra, giống như hệ số Elo bóng đá thế giới, dựa trên hệ thống hệ số Elo dùng trong cờ vua và cờ vây, xếp hạng các đội trên cơ sở tất cả các thời kì. UFWC (Giải vô địch bóng đá thế giới không chính thức) xếp hạng các đội vào số trận bảo vệ danh hiệu vô không chính thức của đội bóng, một phần thưởng được nghĩ ra chỉ duy nhất mục đích đó.
+
+
+== Bảng xếp hạng ==
+
+
+=== Các nước có điểm xuất sắc (hạng 1-10) ===
+
+
+=== Các nước có điểm rất cao (hạng 11-30) ===
+
+
+=== Các nước có điểm cao (31-60) ===
+
+
+=== Các nước có điểm khá (hạng 61-100) ===
+
+
+=== Các nước có điểm trung bình (hạng 101-140) ===
+
+
+=== Các nước có điểm thấp (hạng 141-170) ===
+
+
+=== Các nước có điểm rất thấp (hạng 171-199) ===
+
+
+=== Các nước có điểm kém (hạng 200-205) ===
+
+
+== Phân hạng theo từng châu lục ==
+
+
+=== Top 10 nước có chỉ số điểm cao nhất ===
+
+
+==== châu Phi ====
+
+
+==== Châu Mỹ ====
+
+
+==== Châu Á ====
+
+
+==== Châu Âu ====
+
+
+==== Châu Đại Dương ====
+
+
+=== Top 10 nước có số điểm thấp nhất ===
+
+
+==== Châu Phi ====
+
+
+==== Bắc, Trung, Nam Mỹ và Caribe ====
+
+
+==== Châu Á ====
+
+
+==== Châu Âu ====
+
+
+==== Châu Đại Dương ====
+
+
+== Lịch sử ==
+
+Vào tháng 12 năm 1992, FIFA lần đầu tiên công bố 1 danh sách thứ tự xếp hạng của các liên đoàn thành viên quy định 1 cơ sở để so sánh sức mạnh của các đội bóng. Từ tháng 8 năm sau, với sự tài trợ từ Coca Cola, danh sách được cập nhật thường xuyên hơn, được công bố trong đa số các tháng. Những thay đổi quan trọng được tiến hành vào năm 1999 và 1 lần nữa vào năm 2006, để chống lại các chỉ trích nhằm vào hệ thống. Số thành viên của FIFA tăng lên từ 167 thành 208 từ khi BXH ra đời. Trong lịch sử có một số trường hợp thành viên bị loại khỏi bảng xếp hạng vì không thi đấu 1 trận đấu quốc tế được công nhận nào trong hơn 4 năm, đó là São Tomé và Príncipe (từ tháng 12 năm 2007 đến tháng 11 năm 2011) và Papua New Guinea (từ tháng 7 đến tháng 9 năm 2011).
+
+
+=== Thay đổi năm 1999 ===
+Từ khi BXH ban đầu được giới thiệu, 1 đội nhận được 1 điểm cho 1 trận hòa và 3 điểm cho 1 trận thắng trong các trận thi đấu được FIFA công nhận, cũng tương tự như hệ thống tính điểm trong các giải đấu. Đây là 1 phương pháp tính toán khá đơn giản, nhưng FIFA đã nhanh chóng nhận ra rằng có nhiều nhân tố ảnh hưởng đến các trận đấu quốc tế. Để đáp ứng các mục tiêu công bằng, khách quan và để so sánh chính xác sức mạnh tương xứng của nhiều quốc gia khác nhau, hệ thống được cập nhật. Các thay đổi chủ yếu như sau:
+bảng xếp hạng điểm được tăng cường bởi 10 nhân tố.
+phương pháp tính được thay đổi để đem vào các nhân tố tính toán bao gồm:
+số bàn thắng ghi được hay thừa nhận thua.
+trận đấu sân nhà hay sân khách.
+tính quan trọng của trận đấu hay cuộc thi.
+sức mạnh khu vực của đối thủ.
+
+một số điểm cố định được không nhất thiết trận đó thắng hay hòa.
+đội thua vẫn có thể nhận điểm.
+2 danh hiệu mới được giới thiệu như là một phần của hệ thống:
+Đội bóng của năm
+Đội bóng tiến bộ của năm
+Sự thay đổi đó làm cho hệ thống BXH phức tạp hơn, nhưng nó giúp cải thiện độ chính xác bởi vì nó đã toàn diện hơn.
+
+
+=== Thay đổi năm 2006 ===
+FIFA thông báo rằng hệ thống xếp hạng được cải tiến sau World Cup 2006. Thời gian đánh giá được giảm bớt từ 8 năm xuống còn 4 năm, và 1 phương pháp tính toán đơn giản hơn được sử dụng cho đến bây giờ để quyết định vị trí xếp hạng. Lợi thế số bàn thắng ghi được trên sân nhà hay sân khách không còn đem vào để tính toán nữa. Các khía cạnh khác như tầm quan trọng của các loại trận khác nhau đã được xem xét lại. Bộ phương pháp tính toán và bảng xếp hạng sửa đổi đầu tiên được thông báo vào ngày 12 tháng 6 năm 2006.
+Sự thay đổi này được bắt nguồn ít nhất là từ một phần của cuộc chỉ trích lan rộng dành cho hệ thống xếp hạng trước kia. Nhiều người yêu bóng đá có cảm giác rằng nó không chính xác, đặc biệt khi so sánh với các hệ thống xếp hạng khác và cho rằng nó không đáp ứng đủ để phản ánh những thay đổi trong thành tích của từng đội bóng. Các thứ hạng cao đầy bất ngờ gần đây của Cộng hoà Séc và Mỹ đã vấp phải sự hoài nghi và ảnh hưởng tiêu cực đến sự tín nhiệm vào hệ thống dưới con mắt của nhiều nhà thể thao. Màn trình diễn nghèo nàn và việc bị loại sớm của 2 đội bóng trên tại vòng chung kết World Cup 2006 làm xuất hiện lên lòng tin vào các chỉ trích.
+
+
+=== Các đội dẫn đầu ===
+Từ khi hệ thống được giới thiệu, Đức là đội đầu tiên dẫn đầu sau khoảng thống trị kéo dài của họ khi đã 3 lần lọt vào trận chung kết của 3 VCK World Cup gần nhất và ho đã chiến thắng một trong 3 lần đó. Brasil nắm vị trí dẫn đầu trong hành trình đến World Cup 1994 sau khi thắng 8 và thua một trong 9 trận vòng loại, ghi được 20 bàn và để lọt lưới chỉ 4 bàn. Ý xếp đầu sau đó trong một thời gian ngắn khi đã hoàn thành thành công đợt vòng loại World Cup, sau đó đã bị Đức lấy lại. Sự thành công trong chiến dịch vòng loại dài giúp cho Brasil dẫn đầu BXH trong một thời gian ngắn. Đức lại dẫn đầu trong suốt VCK World Cup 1994, cho đến khi Brasil vô địch kì World Cup đó giúp họ có được một thời gian dẫn đầu rất lâu gần 7 năm cho đến khi họ bị vượt qua bởi Pháp, 1 đội mạnh trong thời gian đó khi đã vô địch World Cup 1998 và Euro 2000. Thành công tại World Cup 2002 giúp cho Brasil lấy lại vị trí đầu và giữ đến tháng 2 năm 2007, khi Ý trở lại dẫn đầu lần đầu tiên kể từ năm 1993 sau khi vô địch World Cup 2006 tổ chức tại Đức. Một tháng sau, Argentina lên thế chỗ Ý nhưng đã bị Ý lấy lại vào tháng 4. Sau chiến thắng tại Copa América 2007 vào tháng 7, Brasil trở lại nhưng chỉ 3 tháng sau vị trí này đã thuộc về Argentina. Vào tháng 7 năm 2008, Tây Ban Nha tiếp quản vị trí dẫn đầu lần đầu tiên sau khi vô địch Euro 2008. Brasil xếp thứ 6 nhưng đã trở lại dẫn đầu sau chiến thắng tại FIFA Confederations Cup 2009.
+
+
+== Mục đích của bảng xếp hạng ==
+BXH được dùng bởi FIFA để xếp hạng sự phát triển và khả năng của các đội bóng thuộc các quốc gia thành viên, và đòi hỏi họ tạo nên "1 thước đo chính xác để so sánh các đội". Chúng được dùng như một phần kết quả tính toán, hay 1 cơ sở toàn bộ để chọn hạt giống cho các giải đấu. Tại vòng loại World Cup 2010, BXH sẽ được sử dụng để chọn hạt giống cho các bảng trong các vòng loại khu vực thành viên bao gồm CONCACAF (sử dụng BXH tháng 5), CAF (sử dụng BXH tháng 7), và UEFA sử dụng BXH tháng 11 năm 2007.
+Ngoài ra BXH này còn dùng để quyết định người đoạt 2 giải thưởng cho các đội bóng quốc gia hàng năm dựa trên cơ sở thành tích trong BXH.
+
+
+== Những sự chỉ trích ==
+Từ khi giới thiệu vào năm 1993, BXH FIFA đã là vấn đề của nhiều cuộc tranh luận, đặc biệt là về cách tính kết quả và những cách biệt thông thường về đẳng cấp và thứ hạng giữa một vài đội bóng. Ví dụ như Na Uy được xếp hạng 2 vào tháng 10 năm 1993 và tháng 7-8 năm 1995, và Mỹ xếp hạng 4 năm 2006, thực sự ngạc nhiên ngay cả với các cầu thủ của chính họ. Tuy nhiên, những sự chỉ trích về BXH không chân thực vẫn tiếp diễn ngay cả sau khi đưa ra công thức tính mới, với việc Israel leo lên hạng 15 vào tháng 11 năm 2008 cũng làm cho báo chí nước này rất bất ngờ, với việc Israel bỏ lỡ cơ hội lớn để chen chân vào top 10 sau khi thua Latvia tại lượt cuối của vòng loại.
+Trước tháng 7 năm 2006, một trong những chỉ trích chính là BXH được tính bởi thành tích của đội bóng trong vòng 8 năm, và vị trí xếp hạng của đội không liên quan gì đến thành tích gần đây của đội. Sự chỉ trích này được giảm đôi chút với việc giới thiệu công thức tính mới, kết quả được tính trong 4 năm, giới thiệu vào tháng 7 năm 2006.
+Sự thiếu sót được nhận thấy trong hệ thống của FIFA đã bắt đầu cho sự hình thành một số BXH khác từ những nhà thống kê về bóng đá  bao gồm Hệ số Elo bóng đá và RSSSF (Tổ chức thống kê nghiệp dư bóng đá thế giới).
+
+
+== Phương pháp tính toán gần đây ==
+Sau World Cup 2006, 1 thủ tục tính toán mới sửa lại của BXH FIFA được công bố; đó là một thủ tục được đơn giản đáng kể. BXH mới được soạn ra để đáp lại sự chỉ trích từ các phương tiện truyền thông. Cuộc họp có sự tham dự của các nhân viên FIFA và các nhà chuyên môn, và một lượng lớn các nghiên cứu được quản lý bởi nhóm người này, kết quả của các nghiên cứu sẽ nằm trong hệ thống mới. Hệ thống mới được phê chuẩn tại Leipzig vào ngày 7 tháng 12 năm 2005 bởi ủy ban hành pháp của FIFA. Những thay đổi đáng chú ý bao gồm giảm đi lợi thế sân nhà-sân khách và số bàn thắng từ cách tính, và đơn giản hóa nhiều khía cạnh của hệ thống.
+Hệ thống này, giống như các hệ thống trước, là rất giống các hệ thống của các giải vô địch quốc gia, dù những thay đổi bảo đảm rằng nó sẽ tiếp tục đại diện cho thành tích các đội bất chấp thi đấu với số trận khác nhau mỗi năm, và gặp các đội với sức mạnh khác nhau. Các nhân tố có trong cách tính như sau:
+Kết quả trận đấu
+Cấp bậc của trận đấu
+Sức mạnh của đối thủ
+Sức mạnh khu vực.
+Kết quả thực tế của đội là điểm trung bình đạt được trong năm; các trận từ 4 năm trước được cân nhắc, với số điểm sẽ cao hơn nếu các trận được thi đấu gần hơn. Đội bóng phải thi đấu ít nhất 5 trận trong vòng 12 tháng để tăng thêm điểm.
+
+
+=== Thắng, hòa hoặc thua ===
+Trong những năm trước, một hệ thống cho điểm rắc rối được sử dụng, dựa vào đối thủ mạnh thế nào, và hiệu số bàn thắng-thua; thua mà được thêm điểm chỉ khi gặp đội mạnh hơn, nếu đạt được một trận đấu tốt. Với hệ thống mới này thì sự cho điểm đơn giản hơn: 3 điểm cho một trận thắng, 1 điểm cho một trận hòa và 0 điểm cho một trận thua, tương tự với các hệ thống của các giải quốc gia trên toàn thế giới.
+Trong các trận đấu phân định thắng thua bằng loạt sút penalty 11m thì đội thắng được 2 điểm, đội thua được 1 điểm.
+
+
+=== Loại trận ===
+Các trận đấu khác nhau có tính chất quan trọng khác nhau, và FIFA đã đánh giá điều đó bằng cách sử dụng hệ thống phụ, trong đó trận quan trọng nhất là vòng chung kết World Cup, và thấp nhất là các trận giao hữu. FIFA muốn công nhận các trận giao hữu cũng quan trọng, từ khi họ hình thành các trận nửa chính thức tính trong bảng xếp hạng. Dù thế nào, FIFA không có kế hoạch điều chỉnh cho các đội ngay tức khắc trong các giải quan trọng.
+Số nhân về loại trận như sau:
+
+
+=== Sức mạnh của đối thủ ===
+Hiển nhiên, một chiến thắng trước đối thủ có thứ hạng cao là một thành tích đáng kể hơn nhiều một chiến thắng trước đối thủ có thứ hạng thấp hơn, vì thế cho nên sức mạnh của đối thủ cũng là một nhân tố tính toán.
+Hệ thống mới dùng nhân tố sức mạnh đó dựa trên BXH. Hệ thống cũ thì dựa trên chênh lệch điểm số. Công thức tính là:
+
+  
+    
+      
+        H
+        S
+        =
+        
+          
+            
+              200
+              −
+              T
+              H
+            
+            100
+          
+        
+      
+    
+    {\displaystyle HS={\frac {200-TH}{100}}}
+  
+trong đó:
+
+HS là hệ số sức mạnh của đội
+TH là thứ hạng của đội
+
+Các ngoại lệ như đội hạng 1 có hệ số nhân là 2, và các đội từ hạng 150 trở xuống được quy cho hệ số nhân tối thiểu là 0.5.
+Ví dụ 1: thứ hạng của đội là 8:
+
+  
+    
+      
+        
+          
+            
+              200
+              −
+              8
+            
+            100
+          
+        
+        =
+        1.92
+      
+    
+    {\displaystyle {\frac {200-8}{100}}=1.92}
+  
+vậy hệ số nhân của đội là 1,92.
+Ví dụ 2: thứ hạng của đội là 125:
+
+  
+    
+      
+        
+          
+            
+              200
+              −
+              125
+            
+            100
+          
+        
+        =
+        0.75
+      
+    
+    {\displaystyle {\frac {200-125}{100}}=0.75}
+  
+vậy hệ số nhân của đội là 0,75.
+Ví dụ 3: thứ hạng của đội là 188:
+Dưới hạng 150, nên hệ số nhân của đội là 0,5.
+Vị trí xếp hạng được lấy dựa trên BXH FIFA công bố gần nhất trước trận đấu.
+BXH công bố trước tháng 7 năm 2006 là quá khứ và không dùng cho công thức tính mới. Để thay thế, FIFA đã lấy BXH năm 1996 để áp dụng cho công thức mới và bây giờ dùng BXH mới để tính toán.
+Xem chi tiết sự giảm điểm của các đội bóng trong top 20 BXH tháng 11 năm 2007.
+
+
+=== Sức mạnh khu vực ===
+Ngoài hệ số về thứ hạng, FIFA còn cân nhắc về sức mạnh cân xứng của các liên đoàn thành viên trong cách tính. Mỗi liên đoàn được cho thêm hệ số từ 0.85 đến 1.0, dựa trên thánh tích của các liên đoàn trong 3 kì World Cup gần nhất. Các hệ số đó như sau:
+Hệ số trong cách tính là số trung bình cộng hệ số của 2 liên đoàn của 2 đội thi đấu:
+
+  
+    
+      
+        K
+        V
+        =
+        
+          
+            
+              D
+              1
+              +
+              D
+              2
+            
+            2
+          
+        
+      
+    
+    {\displaystyle KV={\frac {D1+D2}{2}}}
+  
+trong đó:
+
+KV là hệ số nhân sức mạnh của khu vực
+D1 là sức mạnh khu vực của đội thứ nhất
+D2 là sức mạnh khu vực của đội thứ hai.
+
+
+=== Thời gian đánh giá ===
+Các trận trong vòng 4 năm (48 tháng) sẽ được cho điểm, nhưng có điểm tặng thêm cho các trận gần nhất. Trước đây thới gian tính là 8 năm. Điểm thêm về thới gian như sau:
+
+
+=== Công thức xếp hạng ===
+Số điểm cuối cùng cho một trận đấu được nhân với 100 và làm tròn đến hàng số nguyên.
+
+  
+    
+      
+        D
+        X
+        H
+        =
+         
+        100
+        (
+        K
+        Q
+         
+        ×
+         
+        L
+        T
+         
+        ×
+         
+        H
+        S
+         
+        ×
+         
+        K
+        V
+        )
+      
+    
+    {\displaystyle DXH=\ 100(KQ\ \times \ LT\ \times \ HS\ \times \ KV)}
+  
+trong đó:
+
+DXH là số điểm được tính.
+KQ là kết quả trận đấu. (xem phần kết quả)
+LT là tính chất quan trọng của trận đấu. (xem phần loại trận)
+HS là sức mạnh của đối thủ. (xem phần sức mạnh của đối thủ)
+KV là sức mạnh khu vực. (xem phần sức mạnh khu vực)
+
+Kết quả của tất cả trận đấu trong năm được tính trung bình (5 trận gần nhất). Điểm trung bình trong 4 năm, tính bởi hệ số nhân trên, được cộng thêm vào để đạt được số điểm cuối cùng.
+
+
+=== Ví dụ ===
+Những ví dụ dưới đây sử dụng các đội bóng và các liên đoàn bóng đá giả thiết, và các trận đấu được thừa nhận trong vòng 12 tháng:
+Amplistan được xếp thứ 2 thế giới và là thành viên của liên đoàn bóng đá XYZ (hệ số 1.0);
+Bestrudia được xếp thứ 188 thế giới và là thành viên của liên đoàn bóng đá ABC (hệ số 0.88);
+Conesto được xếp thứ 39 thế giới và là thành viên của liên đoàn bóng đá QRS (hệ số 0.98);
+Delphiz được xếp thứ 30 thế giới và là thành viên của liên đoàn bóng đá HIJ (hệ số 0.94).
+Trận giao hữu gi­ữa Amplistan và Bestrudia. Amplistan thắng 2–1.
+Bestrudia được 0 điểm vì thua trận, nên tất cả các nhân tố nhân với hệ số là 0.
+Số điểm của Amplistan được tính như sau:
+3 điểm cho 1 trận thắng;
+hệ số về loại trận là 1.0 (trận giao hữu);
+hệ số về sức mạnh của đối thủ là 0.50 (Bestrudia xếp hạng 188 nên có hệ số tối thiểu là 0.50);
+hệ số về sức mạnh khu vực là 0.94 (hệ số trung bình của 2 liên đoàn);
+hệ số nhân là 100.
+Một vài ví dụ:
+Conesto được nhiều điểm hơn so với Bestrudia trong trận gặp cùng Amplistan vì có hệ số khu vực cao hơn.
+
+
+== Công thức tính toán giai đoạn 1999-2006 ==
+
+Vào năm 1999, FIFA giới thiệu một hệ thống tính toán được sửa đổi, kết hợp nhiều thay đổi trong sự trả lời những sự chỉ trích về bảng xếp hạng không thích hợp. Để xếp hạng tất cả các trận đấu, số bàn thắng và tính quan trọng của trận đấu được ghi lại, và được sử dụng cho thủ tục tính toán. Chỉ các trận của các đội tuyển quốc gia nam lớn tuổi mới được tính. Các hệ thống xếp hạng riêng rẽ được dùng cho các cấp khác như các đội tuyển nữ và tuyển trẻ, ví dụ như Bảng xếp hạng bóng đá nữ FIFA. Bảng xếp hạng bóng đá nữ đã và đang dựa một hệ thống như là một kiểu của Hệ số Elo bóng đá thế giới.
+
+
+== Công thức tính toán giai đoạn 1993-1999 ==
+Công thức xếp hạng giai đoạn 1993-1999 rất đơn giản và nhanh chóng trở nên được chú ý đến vì thiếu các nhân tố phụ. Các đội nhận được 3 điểm cho 1 trận thắng và 1 điểm cho 1 trận hòa.
+
+
+== Giải thưởng ==
+Mỗi năm FIFA trao 2 giải thưởng cho các quốc gia thành viên, dựa vào thành tích trên bảng xếp hạng. Đó là:
+
+
+=== Đội bóng của năm ===
+Đội bóng của năm được trao cho đội bóng mà có tổng số điểm nhận được trong 7 trận là tốt nhất. Bảng dưới đây cho biết 3 đội bóng hay nhất của từng năm.
+
+
+=== Đội bóng tiến bộ nhất của năm ===
+Đội bóng tiến bộ nhất của năm được trao cho đội bóng mà có sự thăng tiến trên bảng xếp hạng tốt nhất trong năm. Trong bảng xếp hạng FIFA, không đơn giản cho đội bóng nào để có thể vươn lên nhiều nhất, nhưng một công thức tính mới được đưa ra để giải thích các sự thật rằng nó trở nên khó kiếm nhiều điểm mà đội bóng có thể. Công thức được dùng là số điểm có vào cuối năm (z) nhân với số điểm nhận được trong năm (y). Đội nào có chỉ số cao nhất trong công thức này sẽ nhận giải. Bảng dưới đây cho ta thấy top 3 đội tiến bộ nhất trong từng năm.
+Giải này không còn là một giải chính thức kể từ năm 2006.
+Trong khi giải thưởng này không còn dùng vì sự thay đổi vào năm 2006, FIFA đã đưa ra một danh sách 'Những đội thăng tiến nhất' trong bảng xếp hạng từ năm 2007.. Công thức tính dựa vào sự thay đổi điểm số trong năm (khác với công thức dùng trong thời gian từ 1993 đến 2006). Kết quả của các năm sau cũng có cônh thức tính cũng tương tự.
+
+
+== Lịch trình xếp hạng ==
+Bảng xếp hạng được công bố hàng tháng, thường vào ngày thứ năm. Hạn chót cho các trận đấu để được cân nhắc là ngày thứ Năm trước ngày công bố.
+
+
+== Xem thêm ==
+Bảng xếp hạng bóng đá nữ FIFA
+Hệ số Elo bóng đá thế giới
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+FIFA.com hệ thống xếp hạng và thống kê, bảng xếp hạng mới nhất (để xem các đội có thứ hạng thấp, chọn các trang từ 2 đến 5)
+Bảng xếp hạng FIFA: Một chỉ dẫn đến lần phát hành đầu tiên năm 1993 (RSSSF)
+Bằng cách nào để tính điểm cho bảng xếp hạng

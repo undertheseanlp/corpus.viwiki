@@ -1,0 +1,80 @@
+Đường ray hay đường rầy là thành phần cơ bản trong giao thông đường sắt. Đường ray cùng với bộ phận chuyển ray (bẻ ghi) dẫn hướng cho tàu hoả hay xe điện di chuyển mà không cần lái. Tuyến đường ray gồm 2 ray song song với nhau đặt trên các thanh ngang gọi là tà vẹt, tà vẹt được đặt trên lớp đá dăm gọi là đá ba lát. Liên kết giữa các thanh ray và thanh nối tà vẹt là đinh ray, đinh ốc hoặc kẹp. Loại liên kết phụ thuộc một phần vào loại vật liệu tà vẹt, các loại đinh được dùng khi tà vẹt bằng gỗ, còn nếu tà vẹt bằng bê tông thì phần lớn dùng kẹp ray hoặc dùng liên kết bằng bu lông.
+Với loại tà vẹt bằng gỗ, người ta thường đặt bản đệm giữa thanh ray và tà vẹt tăng diện tích truyền áp lực của thanh ray xuống tà vẹt (để làm giảm ứng suất). Hoặc người ta bắt đinh thẳng từ thanh ray xuống xuyên qua lỗ trên bản đệm, hoặc người ta bắt đinh liên kết bản đệm với thanh tà vẹt, còn thanh ray bắt vào bản đệm bằng kẹp.
+Có nhiều loại đường ray (gỗ, sắt, thép) qua các thời kỳ phát triển, trong đó đường ray thép chịu được tải trọng lớn nhất và hiện nay người ta hầu như chỉ sử dụng loại ray thép (do đó phương thức vận tải này được gọi là đường sắt). Các thanh tà vẹt có chức năng phân bố áp lực xuống lớp đá ba lát, rồi từ đá ba lát truyền xuống nền đất, ngoài ra nhiệm vụ của thanh tà vẹt còn là giữ khoảng cách cố định giữa 2 thanh ray, khoảng cách này gọi là khổ đường sắt, hay khổ đường ray. Lớp đá ba lát là đá dăm thô (đá xay, đá vụn) có tính chất vừa cứng vừa đàn hồi (khó vỡ), lớp đá ba lát còn có chức năng tiêu thoát nước. Ngoài ra thanh ray còn có thể đặt trực tiếp lên tấm bê tông. Trên đoạn đường chạy qua cầu, thanh tà vẹt hay được gắn trực tiếp lên dầm dọc gỗ, bêtông cốt thép hoặc thép.
+
+
+== Ray ==
+Ray (từ chữ Rail trong tiếng Pháp) là bộ phận chịu ứng suất rất lớn đồng thời phải chịu mài mòn do bánh tàu hoả hay xe điện tác động, cũng như tác động của thời tiết. Do vậy thép làm ray đòi hỏi phải có chất lượng cao. Trong thời gian đầu của đường sắt người ta sử dụng vật liệu sắt, sau nhiều thập kỷ phát triển người ta đã chuyển sang dùng thép để làm ray. Hơn nữa những khuyết tật trên thép cũng đòi hỏi phải được loại trừ để tránh nguy cơ phá hoại đường ray.
+Dạng ray phổ biến nhất là dạng mặt cắt chữ I không đối xứng, cán nóng. Nói chung tải trọng càng lớn thì đòi hỏi kích thước ray phải lớn tương ứng.
+Các dạng mặt cắt ray phổ biến là:
+Ray đầu tròn (bullhead)
+Ray lòng máng (grooved)
+Ray đáy bằng (Vignoles, flat-bottomed)
+Ray chữ T ngược (flanged T)
+
+
+== Tà vẹt ==
+Tà vẹt (từ chữ Traverse trong tiếng Pháp, có nghĩa là nối, ngang qua) thường có mặt cắt hình chữ nhật dặt dưới thanh ray. Thanh nối tà vẹt được đặt theo chiều ngang so với hướng tàu chạy. Thanh ray gối lên tà vẹt và gắn cố định lên tà vẹt.
+Vai trò của tà vẹt là truyền áp lực từ thanh ray xuống lớp đá ba lát rồi xuống nền đất và cố định khoảng cách giữa 2 thanh ray tạo thành khổ đường ray.
+Thanh tà vẹt truyền thống làm bằng gỗ tốt, có loại bằng thép hoặc composite, ngày nay người ta càng ngày càng sử dụng nhiều tà vẹt bằng bêtông vì khan hiếm gỗ đồng thời do những ưu điểm của bêtông về khả năng chịu lực cũng như độ bền.
+
+
+== Phân loại ray ==
+Ray được phân loại dựa trên trọng lượng đơn vị. Ray càng nặng càng chịu được tải trọng lớn và vận tốc của tàu chạy cũng tăng lên, tuy nhiên ray nặng đòi hỏi chi phí lớn. Ở Bắc Mỹ và Anh Quốc người ta phân loại ray theo đơn vị pound/yard, tức là "ray 130 pound" sẽ có trọng lượng 130 pound (khoảng 59 kg) trên chiều dài 1 yard (0.9144 m). Loại ray thông thường là từ 115 đến 141 pound (khoảng 52 đến khoảng 64 kg). Ở châu Âu người ta dùng đơn vị kg/m, thông thường ray nặng từ 40 đến 60 kg/m. Loại ray nặng nhất từng được sản xuất hàng loạt là ray cho tuyến Pennsylvania (Hoa Kỳ) là loại ray 170 pound (khoảng 70 kg).
+Tại Việt Nam đang sử dụng 2 loại ray thông dụng, đó là ray P38 và ray P43. Ray P38 nặng 38Kg/m; ray P43 nặng 43Kg/m
+
+
+== Nối ray ==
+
+Các thanh ray được chế tạo thành đoạn có chiều dài cố định do bị hạn chế bởi khả năng chuyên chở cũng như để tạo thuận lợi cho việc sản xuất hàng loạt. Do vậy cần phải nối các thanh ray lại để tạo thành tuyến đường dài liên tục. Hiện nay các thanh ray thường có chiều dài 11,9 m.
+
+
+=== Ray nối bằng bulông ===
+Là phương pháp nối các thanh ray bằng cách dùng các bản thép nối gọi là bản cá hay bản nối và bắt bu lông (boulon trong tiếng Pháp).
+Bản cá thường dài khoảng 60 cm được bắt bulông vào hai đầu 2 thanh ray cần nối. Số lượng bu lông cần dùng thường là 4, đôi khi dùng tới 6. Giữa các thanh ray người ta chừa ra khoảng trống, gọi là khe giãn, để các thanh ray có thể giãn ra khi trời nóng. Các lỗ trên tấm bản cá có hình oval cũng nhằm mục đích trên. Cách bố trí các mối nối ray cũng khác nhau, ở Anh người ta bố trí các mối nối trên 2 thanh ray cùng một chỗ trong khi ở Mỹ người ta bố trí so le.
+Do phải chừa các khe co giãn nên khi bánh tàu hỏa chay qua mối nối ray sẽ phát ra âm thanh va chạm. Do vậy tàu lửa chạy trên tuyến sẽ không êm thuận bằng tuyến đường sử dụng kỹ thuật nối ray bằng phương pháp hàn, đồng thời vận tốc cũng không cao.
+Một vấn đề lớn nữa là tình trạng xảy ra nứt xung quanh lỗ bu lông do hiện tượng tập trung ứng suất và hiện tượng mỏi có thể dẫn đến phá hoại đầu thanh ray. Sau sự kiện tai nạn Hither Green, các công ty tàu hỏa Anh bắt đầu chuyển sang dùng đường ray liên tục hóa bằng phương pháp hàn. Tuy vậy ở các tuyến tàu hỏa tốc độ không cao cũng như ở các nước có đường sắt kém phát triển phương pháp nối ray này vẫn được dùng phổ biến do chi phí thấp.
+
+
+=== Mối nối cách điện ===
+Trên đoạn đường sắt có sử dụng đèn tín hiệu, đường ray còn đóng vai trò truyền điện do vậy xuất hiện yêu cầu phải phân cách đoạn ray này với các đoạn khác. Các mối nối này rất yếu, và người ta chèn keo epoxy vào khoảng trống giữa hai thanh ray do đó cũng cải thiện được khả năng chịu lực của các mối nối này. Kỹ thuật đếm trục xe ra đời giúp giảm bớt số lượng các mạch điện này do vậy cũng dẫn đến giảm các mối nối cách điện.
+
+
+=== Ray hàn ===
+
+Kỹ thuật hàn đường ray đã phổ biến từ những năm 1950. Các tuyến đường sắt hiện đại phần lớn sử dụng ray hàn liên tục (CWR). Các đoạn ray được hàn lại với nhau bằng kỹ thuật hàn chảy đối đầu để tạo thành tuyến đường liên tục dài vài km hoặc sử dụng kỹ thuật hàn nhiệt nhôm để sửa chữa hay nối các đoạn CWR có sẵn. Bởi vì số lượng các mối nối ít đi nên tuyến đường sẽ trở nên êm thuận hơn rất nhiều, không những vậy mối nối loại này còn cứng hơn loại mối nối thông thường và ít cần duy tu bảo dưỡng hơn.
+Kỹ thuật chảy đối đầu đặt chạm 2 đầu 2 thanh ray cần hàn vào nhau và dùng thiết bị truyền dòng điện mạnh vào thanh ray. Do dòng điện các đầu thanh sẽ nóng chảy và được ép lại với nhau tạo thành mối hàn.
+Kỹ thuật hàn nhiệt nhôm là kỹ thuật thủ công đòi hỏi phải có lò nung và khuôn để chứa thép nóng chảy. Các mối nối theo cách này kém bảo đảm và dễ bị nứt vỡ hơn.
+
+
+== Các cách cố định ray vào tà vẹt ==
+Có nhiều phương pháp cố định thanh ray vào tà vẹt gỗ. Chuẩn ray hiện đại là loại ray đáy bằng (flat-bottomed), loại này như tên gọi của nó, có đáy phẳng giúp cho thanh ray có thể tự đứng không cần bệ đỡ. Thanh ray thường được gắn vào tà vẹt với một tấm đệm thép, tuy nhiên có thể gắn trực tiếp ray vào tà vẹt mà không cần tấm đệm.
+Các thanh tà vẹt hiện đại làm bằng bê tông hoặc bằng thép thì giữa thanh ray và tà vẹt thường là tấm đệm bằng cao su. Tấm đệm cao su có hai tác dụng: thứ nhất là giúp cho tàu chạy êm và thứ hai là cách điện giữa thanh ray và tà vẹt (trường hợp có mạch điện cho hệ thống tín hiệu). Tuy nhiên cần phân biệt với loại tàu sử dụng điện chạy trên ray (tàu điện).
+
+
+=== Dùng đinh ===
+
+Đinh ray là loại đinh lớn đầu lồi dùng để cố định thanh ray (hoặc tấm đệm) vào tà vẹt. Đinh được đóng vào thanh tà vẹt gỗ bằng búa hoặc bằng máy đóng đinh chuyên dụng.
+Nhìn chung chi phí cho đinh rẻ hơn và cách lắp đặt cũng đơn giản nhưng khi tà vẹt (gỗ) bị mục thì đinh sẽ long ra. Một cách khác là sử dụng loại đinh vít lớn.
+
+
+=== Dùng gối ray ===
+Theo phương pháp truyền thống của Anh được sử dụng cho đến những năm 1950, một loại gối đúc bằng kim loại sẽ được bắt vào tà vẹt, thanh ray được đặt vào gối này, để cố định vị trí thanh ray người ta đóng thanh khóa tức là nêm bằng gỗ hoặc thép lò xo vào giữa gối và thanh ray. Thanh ray trong trường hợp này hay sử dụng loại ray đầu tròn - có đầu và đáy ray như nhau (đối xứng), chỉ to hơn phần giữa một chút. Mục đích nguyên thủy khi sử dụng loại ray này là khi đầu ray đã mòn thì người ta lật ngược thanh ray lại, do đó thời gian sử dụng thanh ray tăng lên khá nhiều. Hiện nay phương pháp dùng gối ray đã lạc hậu và hầu như không còn dùng nữa.
+
+
+=== Dùng kẹp ray ===
+
+Người ta dùng nhiều loại kẹp khác nhau để gắn thanh ray vào tấm đệm ray, trong số đó phổ biến nhất là loại kẹp Pandrol mang tên của công ty sản xuất nó. Kẹp có dạng giống như một loại kẹp giấy to. Một loại khác là kẹp Vossloh.
+
+
+=== Đường ray không tà vẹt ===
+
+Trong những năm gần đây người ta đã phát triển các phương pháp đặt thẳng các thanh ray lên tấm bê tông mà không cần thanh tà vẹt hoặc lớp đá ba lát. Tuy rằng chi phí xây dựng lớn nhưng chi phí duy tu bảo dưỡng thấp hơn tuyến đường truyền thống rất nhiều. Loại đường này chủ yếu sử dụng cho các tuyến tàu cao tốc và các đoạn chạy trong hầm, nơi công tác duy tu bảo dưỡng khó khăn và là nơi ít chịu tác động của ứng suất do sự thay đổi thời tiết (mưa và biến thiên nhiệt độ)
+
+
+== Khổ đường ray ==
+Khổ đường ray là khoảng cách giữa hai mép trong của hai thanh ray. Có rất nhiều khổ đường ray từng được sử dụng trên thế giới từ 597 milimét (23,5 in) cho đến 1.829 milimét (72,0 in). Hiện nay khổ ray tiêu chuẩn quốc tế là 1.435 milimét (56,5 in) với 60% các tuyến đường ray trên thế giới sử dụng loại ray này. Khổ ray nhỏ hơn gọi là khổ hẹp và ngược lại là khổ rộng.
+ Phương tiện liên quan tới Rail tracks tại Wikimedia Commons
+
+
+== Tham khảo ==

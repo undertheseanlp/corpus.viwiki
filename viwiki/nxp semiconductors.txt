@@ -1,0 +1,53 @@
+NXP Semiconductors N.V. là một nhà sản xuất bán dẫn toàn cầu của Hà Lan có trụ sở ở Eindhoven, Hà Lan. Công ty có khoảng 45.000 nhân viên tại hơn 35 quốc gia, trong đó có 11.200 kỹ sư tại 23 quốc gia. NXP báo cáo doanh thu 6,1 tỷ USD vào năm 2015, bao gồm một tháng đóng góp doanh thu từ vụ sáp nhập Freescale Semiconductor.
+Vào ngày 27 tháng 10 năm 2016, Qualcomm được nói rằng sẽ mua lại NXP.
+
+
+== Mô tả ==
+NXP cho biết họ là nhà cung cấp bán dẫn không có bộ nhớ lớn thứ năm vào năm 2016, và là nhà cung cấp bán dẫn hàng đầu cho ngành công nghiệp nhận dạng an toàn, ô tô và mạng kỹ thuật số. Công ty được thành lập vào năm 1953 như là một phần của công ty điện tử Philips, với sản xuất và phát triển ở Nijmegen, Hà Lan. Được biết đến như Philips Semiconductors, công ty đã được bán cho một tập đoàn các nhà đầu tư cổ phần tư nhân vào năm 2006, và khi đó công ty được đổi tên thành NXP.
+Vào ngày 6 tháng 8 năm 2010, NXP đã hoàn thành phát hành lần đầu ra công chúng, với cổ phiếu được giao dịch trên sàn NASDAQ dưới mã NXPI. Vào ngày 23 tháng 12 năm 2013, NXP Semiconductors được thêm vào NASDAQ 100. Sau cùng, vào ngày 2 tháng 3 năm 2015, đã có thông báo rằng NXP Semiconductors sẽ hợp nhất với nhà thiết kế và sản xuất chip Freescale Semiconductor trong một thương vụ 40 tỉ USD. Vụ sáp nhập được hoàn thành vào ngày 7 tháng 12 năm 2015.
+NXP sở hữu hơn 9000 bằng sáng chế hoặc đang chờ giải quyết.
+
+
+== Philips Semiconductors ==
+
+
+== Sự ra mắt NXP Semiconductors N.V. ==
+Tên gọi mới của công ty NXP (lấy từ Next eXPerience, nghĩa là trải nghiệm kế tiếp) được công bố vào ngày 31 tháng 8 năm 2006, và chính thức ra mắt trong Triển lãm Điện tử Tiêu dùng Quốc tế (IFA) ở Berlin.
+
+
+== Sự kiện đáng chú ý ==
+Chủ tịch và giám đốc điều hành hiện tại Rick Clemmer tiếp quản vị trí từ Frans van Houten ào ngày 1 tháng 1 năm 2009.
+
+
+== Mua lại Freescale Semiconductor ==
+Tháng 3 năm 2015, một thỏa thuận sáp nhập đã được thông báo thông qua đó NXP sẽ mua lại đối thủ Freescale Semiconductor.
+
+
+=== Phân tích sáp nhập ===
+
+
+== Các cơ sở trên toàn cầu ==
+
+
+== Liên doanh và các lợi ích chính khác ==
+Systems on Silicon Manufacturing company (SSMC) Pte. Ltd. (61%)
+Datang NXP Semiconductors Co., Ltd. (49%)
+Suzhou ASEN Semiconductors Co., Ltd (40%)
+Advanced Semiconductor Manufacturing Co. Ltd. (27%)
+Cohda Wireless Pty Ltd. (23%)
+
+
+== Xem thêm ==
+Thẻ thông minh không tiếp xúc và thẻ cảm ứng NXP MIFARE
+NTAG
+Vi điều khiển NXP LPC
+NXP GreenChip
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Website chính thức
+NXP's no-big-chip-in-the-middle strategy – EE Times article about NXP's high-performance mixed signal strategy
+FAQ around the MIFARE issue on NXP website

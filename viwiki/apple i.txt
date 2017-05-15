@@ -1,0 +1,20 @@
+Bản gốc của Apple Computer, còn được biết đến như là Apple I, hay Apple-1, là một máy tính cá nhân được phát hành bởi Apple Computer Company (bây giờ là Apple Inc.) vào 1976. Chúng đã được thiết kế và chế tạo thủ công bởi Steve Wozniak. Người bạn của Wozniak, Steve Jobs đã nảy ra ý tưởng bán chiếc máy. Apple I là sản phẩm đầu tiên của Apple Inc, và để trang trải tài chính cho sáng tạo của mình, Jobs đã bán phương tiện đi lại duy nhất của ông, một chiếc xe VW  và Wozniak bán chiếc máy tính HP-65 của mình với giá 500 USD. Nó đã được chứng minh trong tháng 7 năm 1976 tại câu lạc bộ máy tính Homebrew Computer Club ở Palo Alto, California.
+
+
+== Lịch sử ==
+Được sản xuất với sự hợp tác của các thành viên, Steve Jobs đã nghĩ ra việc biến ý tưởng của mình bằng cách thiết kế một mẫu máy tính và được đặt với tên gọi là Apple 1, Apple 1 đã đánh dấu bước đầu tiên của ông. Năm 1985,máy tính của ông được công nhận là sản phẩm thành công của Apple.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Apple I Owners Club
+Apple I Operational Manual
+OpenEmulator, an accurate emulator of the Apple-1, the Cassette Interface and the CFFA1 expansion card
+Apple I project on www.sbprojects.com
+Apple 1 Computer Registry
+Macintosh Prehistory: The Apple I
+LCF Historical Collection – Apple 1 Video
+John Calande III blog – Building the Apple I clone
+Bản mẫu:Apple hardware before 1998

@@ -1,0 +1,78 @@
+Tập đoàn Adobe (tiếng Anh: Adobe Systems Incorporated) (phát âm: a-DOE-bee, giống như A-đô-bi trong tiếng Việt), (Mã NASDAQ: ADBE) là một tập đoàn phần mềm máy tính của Hoa Kỳ có trụ sở chính đặt tại San Jose, California, Hoa Kỳ.
+Adobe được thành lập vào tháng 12 năm 1982 bởi John Warnock và Charles Geschke. Họ đã thành lập công ty này sau khi dời Xerox PARC nhằm phát triển và bán PostScript, một ngôn ngữ miêu tả trang. Năm 1985, hãng máy tính Apple cấp phép sử dụng PostScript trong máy in LaserWriter của họ, làm lóe lên cuộc cách mạng xuất bản trên desktop. Tên Adobe của công ty xuất phát từ từ Adobe Creek, tên một con suối nhỏ chảy về phía Nam ở hạt Sonoma, bang California, vốn chảy phía sau ngôi nhà của một trong những sáng lập viên của công ty. Tháng 12 năm 2005, Adobe đã thâu tóm thành công đối thủ cạnh tranh của mình, Macromedia.
+Tại thời điểm năm 2010, Adobe Systems có 9.117 nhân viên, với 40% trong số đó làm việc tại San Jose. Adobe cũng có những trụ sở phát triển chính tại Seattle, San Francisco, California, Minneapolis, Newton, Massachusetts, San Luis Obispo, California (Hoa Kỳ) (Hoa Kỳ); Ottawa (Canada); Hamburg (Đức), Noida, Bangalore, (Ấn Độ), Bucharest (România).
+Năm 1995, tạp chí Fortune đã xếp Adobe là một trong những nơi làm việc lý tưởng. Năm 2003, Adobe đã được xếp thứ 5 trong những công ty tốt để làm việc ở Mỹ, năm 2004 là thứ 6, thứ 31 năm 2007 và năm 2008 là thứ 40. Năm 2007 Adobe cũng được xếp thứ 9 trong danh sách những công ty phần mềm lớn nhất thế giới.
+
+
+== Lịch sử ==
+
+
+== Sản phẩm ==
+
+Phần mềm thiết kế đồ họa
+Adobe Photoshop, Adobe Lightroom, Adobe InDesign, Adobe Illustrator, Adobe Acrobat
+Chương trình thiết kế web
+Adobe Dreamweaver, Adobe Contribute, Adobe Muse, Adobe Flash Builder, Adobe Flash, và Adobe Edge
+Chỉnh sửa video và các hiệu ứng trực quan
+Adobe Premiere Pro, Adobe Premiere Elements, Adobe After Effects, Adobe Prelude, Adobe Spark Video
+Phần mềm chỉnh sửa âm thanh
+Adobe Audition
+Phần mềm eLearning
+Adobe Captivate, Adobe Presenter Video Express và Adobe Connect (cũng là nền tảng hội nghị web)
+Phần mềm Quản lý Tiếp thị Số
+Adobe Marketing Cloud, Adobe Experience Manager (AEM 6.2), Mixamo
+Phần mềm máy chủ
+Adobe ColdFusion, Adobe Content Server và Adobe LiveCycle Enterprise Suite, Adobe BlazeDS
+Định dạng
+PDF, tiền thân của PDF PostScript, ActionScript, Shockwave Flash (SWF), Flash Video (FLV), và Filmstrip (.flm)
+Dịch vụ trên nền web
+Adobe Color, Photoshop Express, Acrobat.com, và Adobe Spark
+
+
+== Sự tiếp nhận ==
+Từ năm 1995, Fortune đã xếp hạng Adobe là một nơi tuyệt vời để làm việc. Adobe được đánh giá là công ty tốt thứ 5 để làm việc ở Hoa Kỳ vào năm 2003, thứ 6 vào năm 2004, thứ 31 vào năm 2007, thứ 40 vào năm 2008, thứ 11 vào năm 2009, thứ 42 vào năm 2010, thứ 65 vào năm 2011, thứ 41 vào năm 2012, và thứ 83 vào năm 2013. Vào năm 2015, Adobe Systems Ấn Độ được xếp hạng thứ 21 trong những nơi làm việc tuyệt vời nhất Ấn Độ. Vào tháng 6 năm 2014, nó được xếp hạng thứ 6 trong những nơi làm việc tuyệt vời nhất Ấn Độ., Vào tháng 10 năm 2008, Adobe Systems Canada Inc. được khen là một trong "100 nhà tuyển dụng hàng đầu Canada" bởi Mediacorp Canada Inc., và được khen ngợi trên tạp chí Maclean's.
+
+
+== Chỉ trích ==
+
+
+=== Giá cả ===
+
+
+=== Bảo mật ===
+
+
+=== Lộ thông tin khách hàng ===
+
+
+=== Hoạt động chống cạnh tranh ===
+
+
+== Xem thêm ==
+Adobe Engagement Platform
+Adobe Solutions Network
+OpenType
+PDF
+PostScript
+Adobe ColdFusion
+Adobe MAX
+US v. ElcomSoft Sklyarov
+MEI (Managing Editor Inc.)
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+“Adobe Logo History”. Bản gốc (HTML) lưu trữ ngày 2 tháng 12 năm 2012. 
+“Adobe timeline” (PDF). Bản gốc (PDF) lưu trữ ngày 6 tháng 1 năm 2006. 
+“Patents owned by Adobe Systems”. US Patent & Trademark Office. Truy cập ngày 8 tháng 12 năm 2005. 
+San Jose Semaphore on Adobe's building
+“Adobe Systems Incorporated Company Profile”. Yahoo!. 
+
+
+== Liên kết ngoài ==
+ Phương tiện liên quan tới Adobe Systems tại Wikimedia Commons
+Adobe Systems Video and Audio on MarketWatch
+Bản mẫu:IT giants
+Bản mẫu:Plugins

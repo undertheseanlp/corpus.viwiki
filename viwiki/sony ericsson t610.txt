@@ -1,0 +1,39 @@
+Sony Ericsson T610 là chiếc điện thoại di động được chế tạo bởi Sony Ericsson. Ra mắt vào năm 2003, T610 là một trong những mẫu điện thoại di động đầu tiên trên thế giới được tích hợp camera kỹ thuật số, Bluetooth, màn hình màu và phím điều hướng navigation. T610 từng là một trong những model thành công nhất của liên doanh sản xuất điện thoại di động Sony Ericsson.
+Chiếc điện thoại được thiết kế bởi Erik Ahlgren, T610 có 3 vỏ màu: Aluminium Haze, Abyss Blue, và Volcanic Red. Một vài khách hàng của Sony Ericsson tại Anh quốc than phiền rằng họ không thể có lựa chọn nào khác ngoài T610 vỏ màu Aluminium Haze. Và cho đến hiện nay, nó vẫn là mẫu được bán với số lượng nhiều nhất.
+T610 là một chiếc điện thoại chụp hình, nó có khả năng chụp những bức ảnh với độ phân giải cao nhất là 288 x 352 pixels. Chiếc điện thoại sử dụng băng tầng chạy trên nền công nghệ 2.5G, hỗ trợ GPRS (Class 8) và HSCSD, kết nối không dây giao thức (WAP) 2.0. Nó cũng hỗ trợ nhạc chuông đa âm ở dạng MIDI (32 âm sắc), và trò chơi dành cho điện thoại sử dụng Java ME và Mophun. Phiên bản phần mềm mới nhất của T610 là R6D003 (Tháng 9 năm 2004).
+
+
+== Tổng quan ==
+Kích thước: 102 × 44 × 19mm
+Trọng lượng máy 95g
+3 băng tầng GSM 900/1800/1900 MHz
+Chia sẻ không dây với công nghệ Bluetooth và Hồng ngoại
+Kết nối USB (USB DCU-11 hoặc USB DCU-10)
+Tích hợp GPRS
+Trình duyệt đa chế độ WAP 2.0/XHTML
+Tin nhắn SMS, EMS, MMS, E-mail
+Nhạc chuông đa âm
+Bộ nhớ trong 2MB
+Trò chơi và các ứng dụng Java
+Màn hình STN với độ phân giải 128×160, 16-bit (65.536 màu)
+Đồng bộ với máy tính SyncML
+Camera kỹ thuật số VGA với kích cỡ hình: 288 x 352 pixels (CIF) hay 120 x 160 pixels (QQVGA), 24-bit (16 triệu màu), định dạng JPEG
+Hỗ trợ hiển thị hình ảnh ở định dạng: JPEG, GIF, MBM, PNG và WBMP.
+Pin chuẩn Li-Pol 770 mAh đi kèm là cục sạc rời
+
+
+== Phiên bản khác ==
+Sony Ericsson T616 - GSM 850/1800/1900 là phiên bản dành cho thị trường Bắc Mỹ
+Sony Ericsson T628/ Sony Ericsson T630 - Phiên bản mới của T610 với màn hình dạng TFT, bàn phím và vỏ được cách tân với hai vỏ màu chính là Frosty Silver (Trắng bạc) và Liquid Black (Xanh đen). Phiên bản mới này có khả năng chụp ảnh VGA với độ phân giải (480x640). T630 được chính thức phân phối trên thị trường vào năm 2004.
+Sony Ericsson T637 - Tương tự như T630 nhưng sử dụng băng tầng tại Châu âu.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Trang chủ của Sony Ericsson
+Wap-site của Sony Ericsson
+Wesite hỗ trợ về Sony Ericsson T610
+Mobile Gazette - Retro: Sony Ericsson T610
+Truy cập Internetcho máy PDA bằng T610

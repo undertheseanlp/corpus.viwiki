@@ -1,0 +1,49 @@
+Kể từ khi tách ra, Avaya đã bán các bộ phận sản xuất và kết nối và mua lại nhiều công ty khác để hỗ trợ cho các dòng sản phẩm hiện tại - Vista, VPNet. Quintus, Routescience, Nimcat Networks, Spectel, Ubiquity Software và Traverse Networks. Các kên phân phối đã tăng trưởng từ 98% bán trực tiếp thành 50% cho bán trực tiếp và 50% qua nhà phân phối. Donny Ward, (cựu AT&T từ Shreveport Works, thị trường bắc Louisiana) hiện là phó chủ tịch phụ trách kênh phân phối.
+Avaya cũng mở rộng tại châu Âu qua việc mua lại công ty Tenovis và tại châu Á thông qua cổ phần kiểm soát trong Tata Telecom (nay là Avaya Global Connect).
+Tính tới năm 2007, Avaya có khoảng 18.000 nhân viên, 40% làm việc ngoài nước Mỹ. Hội sở toàn cầu của Avaya đặt tại Basking Ridge, New Jersey được điều hành bởi Louis D'Ambrosio với cương vị Giám đốc điều hành. Ngày 9 tháng 6 năm 2008, vì lý do y tế, Louis D'Ambrosio đã rời bỏ cương vị này và vị trí tạm thời được Charlie Giancarlo đảm nhiệm. Công ty Heidrick & Struggles đã được thuê để tìm kiếm Giám đốc điều hành mới.
+Avaya là nhà cung cấp Truyền thông hội tụ chính thức cho FIFA World Cup năm 2006. Avaya cũng cung cấp mạng truyền thông cho FIFA World Cup 2002 và FIFA Women's World Cup 2003.
+Ngày 26 tháng 10 năm 2007 Avaya đã được hai công ty quản lý quỹ tư nhân - TPB Capital và Silver Lake Partners mua lại với giá $8.2 tỷ đô la Mỹ. Kết quả của giao dịch này biến Avaya thành công ty tư nhân và rút khỏi thị trường chứng khoán. Ngày 9 tháng 11 năm 2007, các công ty hoàn tất thương vụ mua bán và cổ đông Avaya được nhận 17,50 Đô la Mỹ cho mỗi cổ phiếu phổ thông.
+
+
+== Nguồn gốc Western Electric ==
+Kể từ khi tách ra khỏi Lucent Technologies, và Lucent Technologies trước đó là một công ty tách ra từ AT&T, Avaya tiếp tục bán và hỗ trợ các doanh nghiếp cho các dòng sản phẩm điện thoại nổi tiếng được sản xuất từ thời Bell System bao gồm điện thoại treo tường 2554, dòng điện thoại để bàn 2500.
+Sản xuất điện thoại của Avaya diễn ra tại Shreveport Works, nhà máy sản xuất điện thoại công cộng cho Western Electric trước đây, ngừng vào năm 2001. Ngày nay, tất cả điện thoại của Avaya được sản xuất bên ngoài nước Mỹ thông qua các hợp đồng với các nhà sản xuất như Celestica.
+Rất nhiều sản phẩm và khách hàng của Avaya ngày nay có nguồn gốc từ AT&T khi AT&T thành lập AT&T Network Systems. Là một phần của AT&T và ngày nay chính thức là LUCENT, Avaya được biết đến như một công ty sản xuất điện thoại với nguồn gốc lâu dài nhất cung cấp cho hơn một triệu khách hàng trên toàn cầu và hơn 90% của các công ty trong danh sách 500 công ty lớn nhất của Furtune.
+
+
+== Các dòng sản phẩm hiện tại ==
+Hiện tại, theo đánh giá của các công ty số liệu độc lập như IDG, Frost and Sullivan, Avaya là nhà cung cấp lớn nhất thế giới về hai mảng thị trường:Giải pháp thoại IP và Giải pháp Trung tâm dịch vụ khách hàng
+Dòng sản phẩm thuộc Giải pháp thoại IP của Avaya có tên gọi là MultiVantage bao gồm các máy chủ thoại, các thiết bị kết nối thoại và các thiết bị đầu cuối. Máy chủ thoại của Avaya sử dụng phần mềm Communication Manager với phiên bản hiện tại là 5.1 với các phiên bản S8300, S8400, S8500 và S8720. Các thiết bị kết nối thoại bao gồm các thiết bị G650, G680, G700, G450, G350 và G250. Thiết bị đầu cuối có thể là các điên thoại IP, digital hoặc analog, softphone, wireless IP phone v.v. Avaya là nhà cung cấp giải pháp thoại doanh nghiệp đầu tiên chuyển phần mềm thoại từ nền Windows sang nền Linux.
+Dòng sản phẩm Contact Center của Avaya gồm hai giải pháp Interaction Center cho các trung tâm chăm sóc khách hàng lớn và Contact Center Express cho các trung tâm có quy mô nhỏ hơn. Giải pháp tự phục vụ (self service) được cung cấp qua bộ sản phẩm Voice Portal và Interactive Response. Giao diện máy tính thoại (Computer Telephony Interface-CTI) được cung cấp qua bộ Application Enablement Service. Báo cáo và phân tích số liệu hoạt động được cung cấp qua sản phẩm Call Management System (CMS) và Operational Analyst (OA). Kết hợp với các giải pháp của các hãng thứ 3 như Nice, Verint, Witness, Avaya có thể cung cấp giải pháp trọn gói cho Trung tâm dịch vụ khách hàng
+Avaya Data
+
+Virtual Services Platform 9000 (VSP 9000) (en) VSP-9000
+Ethernet Routing Switch (ERS) 8800
+Ethernet Routing Switch (ERS) 8600 (en) ERS-8600
+Ethernet Routing Switch (ERS) 8300
+Ethernet Routing Switch (ERS) 5600 (en) ERS-5600
+Ethernet Routing Switch (ERS) 5500
+Ethernet Routing Switch (ERS) 4500
+Ethernet Routing Switch (ERS) 2500
+Secure Router 4134/2330
+WLAN 8100
+VPN Gateway
+Identity Engines
+
+
+== Kênh phân phối qua đối tác ==
+Ngày nay, Avaya với tư cách là một công ty tư nhân lớn, cho phép các đối tác kinh doanh nhỏ hơn đáp ứng yêu cầu của các khách hàng là công ty vừa và nhỏ. All Business Communications http://abcna.com/ là một ví dụ về đối tác kinh doanh của Avaya. Lợi ích của giao dịch với đối tác kinh doanh là khách hàng có được các dịch vụ và hiểu biết về sản phẩm mà không phải giao dịch với công ty lớn như Avaya.
+
+
+== Xem thêm ==
+Phân chia Trunking đa liên kết
+DSMLT
+Định tuyến-SMLT
+UNIStim
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Avaya

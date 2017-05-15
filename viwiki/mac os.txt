@@ -1,0 +1,18 @@
+Mac OS (viết tắt của Macintosh Operating System) là hệ điều hành có giao diện hình ảnh và được phát triển bởi công ty Apple Computer cho các máy tính Apple Macintosh. Phiên bản đầu tiên ra đời năm 1984.
+
+
+== Phiên bản ==
+Phiên bản đầu của hệ điều hành Mac chỉ tương thích với Motorola 68000 dựa trên máy Apple Mac. Khi Apple giới thiệu máy tính với PowerPC phần cứng, hệ điều hành đã được chuyển để hỗ trợ kiến ​​trúc này. Mac OS 8.1 là phiên bản cuối cùng có thể chạy trên một bộ xử lý "68k" (68040). Mac OS X, đã thay thế "cổ điển" Mac OS, tương thích với bộ vi xử lý PowerPC từ phiên bản 10.0 ("Cheetah") đến phiên bản 10.3 ("Panther"). Bộ vi xử lý PowerPC và Intel được hỗ trợ trong phiên bản 10.4 (Tiger ", Intel chỉ hỗ trợ sau khi cập nhật) và phiên bản 10.5 (Leopard). 10.6 ("Snow Leopard") phiên bản 10,7 ("Sư tử"), phiên bản mới nhất 10.8 ("Sư tử núi") và sau đó chỉ hỗ trợ bộ vi xử lý Intel. [4]
+Các hệ điều hành Macintosh đầu ban đầu bao gồm hai phần của phần mềm, được gọi là "hệ thống" và "Finder", mỗi với số phiên bản riêng của mình [5] Hệ thống 7.5.1 là người đầu tiên bao gồm hệ điều hành Mac OS biểu tượng (một biến thể trên. Mac khởi động ban đầu Chúc mừng biểu tượng), và hệ điều hành Mac OS 7,6 là người đầu tiên được đặt tên là "Mac OS".
+Trước khi giới thiệu các hệ thống dựa trên PowerPC G3 sau đó, các bộ phận quan trọng của hệ thống được lưu trữ trong ROM vật lý trên bo mạch chủ. Mục đích ban đầu của điều này là để tránh sử dụng lưu trữ giới hạn của ổ đĩa mềm trên hệ thống hỗ trợ, cho rằng các máy Mac không có đĩa cứng. (Chỉ có một mô hình của Mac bao giờ thực sự có khả năng khởi động bằng cách sử dụng ROM một mình, năm 1991 mô hình cổ điển Mac.) Kiến trúc này cũng cho phép một giao diện hệ điều hành hoàn toàn đồ họa ở mức thấp nhất mà không cần một giao diện điều khiển văn bản chỉ hoặc chế độ dòng lệnh. Lỗi thời gian khởi động, chẳng hạn như việc tìm kiếm không có ổ đĩa hoạt động, đã được thông báo cho người dùng đồ họa, thường là với một biểu tượng hoặc bitmap Chicago phông chữ đặc biệt và một Chime of Death, một loạt tiếng bíp. Điều này trái ngược với máy tính của thời gian, hiển thị thông báo như vậy trong một phông chữ mono-khoảng cách đều nhau trên một nền đen, và yêu cầu sử dụng của bàn phím, không phải là một con chuột, cho đầu vào. Để cung cấp các niceties như ở một mức độ thấp, Mac OS phụ thuộc vào phần mềm hệ thống cốt lõi trong ROM trên bo mạch chủ, một thực tế là sau này đã giúp đảm bảo rằng máy tính Apple chỉ bắt chước được cấp phép (với các ROM bảo vệ bản quyền của Apple) có thể chạy hệ điều hành Mac OS
+
+
+== Hình ảnh ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Mac OS X
+Công ty Apple

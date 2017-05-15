@@ -1,0 +1,108 @@
+Máy tính cá nhân (tiếng Anh: personal computer (viết tắt PC) là một loại máy vi tính nhỏ với giá cả, kích thước và sự tương thích của nó khiến nó hữu dụng cho từng cá nhân.
+
+
+== Khái niệm về máy tính cá nhân ==
+Thuật ngữ máy tính cá nhân nêu trên được phổ biến bởi tạp chí Byte, cũng như Máy tính Apple, vào cuối thập niên 1970 đầu thập niên 1980, và sau đó là IBM với Máy tính cá nhân IBM. Những máy tính cá nhân còn được gọi là máy tính gia đình.
+Thông thường, thuật ngữ "Personal Computer" quen được dùng cho máy tính chạy hệ điều hành Microsoft Windows trên nền tảng các máy tính của IBM và Intel, nhưng nó không đúng. Ví dụ như, một máy Macintosh chạy Mac OS và một máy tính tương thích IBM PC có thể chạy Linux đều là máy tính cá nhân. Sự nhầm lẫn này xuất phát từ thực tế thuật ngữ "PC" thường được dùng như chữ viết tắt của "máy tương thích IBM PC" và trước đây Mac OS chạy trên máy có phần cứng không tương thích IBM như kiến trúc PowerPC.
+Như vậy, máy tính cá nhân dùng để chỉ một trong những định nghĩa sau:
+Loạt máy tính cá nhân của IBM (xem Máy tính cá nhân IBM).
+Một trong những máy tính bắt nguồn từ những đặc điểm kỹ thuật gốc của IBM, cũng được gọi là máy tính tương thích với IBM PC.
+
+
+== Lịch sử phát triển của máy tính cá nhân (PC) ==
+Lịch sử máy cá nhân gắn liền với chặng đường phát triển của IBM-PC. Máy IBM-PC được khởi đầu từ một phòng thí nghiệm tại Atlanta (Georrgia, Hoa Kỳ), mục đích của công trình thí nghiệm là thiết kế một sản phẩm vi tính đầu thấp. Điều này có nghĩa là IBM không sử dụng các vi xử lý của chính hãng mà dùng các vi xử lý rẻ hơn của hãng khác như: Intel, Motorola, Zilog.
+1979-1980: IBM cho ra đời máy Datamaster dùng vi xử lý 16 bit 8086 của Intel.
+1980: Đưa ra khái niệm: Personal Computer (PC). Chiếc IBM-PC đầu tiên dùng vi xử lý 8bit 8085 của Intel.
+1981-1982: Dù Intel có vi xử lý 16bit nhưng giá thành còn cao, Để đáp ứng thị trường máy rẻ tiền, Intel đưa ra vi xử lý 8 bit 8088 mà trong nó là vi mạch 16bit 8086. IBM dùng vi xử lý này để thiết kế PC thế hệ thứ hai: PC-XT (extended technology) 8088 có 8 bit bus dữ liệu và 20bit bus địa chỉ, có khả năng quản lý tối đa 1MB bộ nhớ vật lý, chạy với tần số đồng hồ 4,77 MHz. Bên trong nó có 8 khe cắm mở rộng (khe cắm 8bit XT – hay XT-Slots), khe này có 62 chân. Máy PC-XT trang bị hai đĩa mềm 360KB, 256 KB Ram (cắm trong một trong 8 khe cắm trên). PC-XT dùng hệ điều hành CP/M và chương trình BASIC 80 của Microsoft.
+1984: Khi vi xử lý 16bit đã quen thuộc thị trường, Intel đưa ra vi xử lý 80286, là vi xử lý 16bit hoàn thiện, có thêm 4bit bus địa chỉ, quản lý 16MB bộ nhớ. IBM tung ra thị trường máy PC-AT (advanced technllogy) với bộ vi xử lý 80286, với nó PC hoạt động trong chế độ bảo vệ cho phép chia bộ nhớ ra nhiều đoạn dài linh động và ưu tiên cho các chương trình ứng dụng do đó tránh được va chạm khi nhiều chương trình chạy một lúc – đây là nền tảng của chế độ đa nhiệm trên 80286. PC-AT làm việc với tần số 6-8 MHz, do phải thêm 8bit bus dữ liệu, 4bit bus địa chỉ, 8bit yêu cầu ngắt cứng và một số bit điều khiển mới, do vậy PC-AT cần bổ sung thêm khe cắm. Để đảm bảo tương thích với máy XT, khe cắm XT cũ vẫn giữ nguyên, thêm một đoạn khe cắm nối dài bổ sung thêm 36 chân, loại khe cắm mới này được gọi là ISA (Industry Standard Architecture) sau khi nó được cải tiến thêm một chút và đã chở thành chuẩn ISA.
+1987: Thế hệ PC mới ra đời với vi xử lý 80386. Bắt đầu từ đây IBM công khai cấu tạo máy và nội dung chương trình hệ điều hành vào ra cơ sở (BIOS), điều này giúp các hãng khác có thể sản xuất các máy tính tương thích và các bản mạch cắm tương thích khiến cấu truc IBM-PC trở thành một cấu trúc chuẩn công nghiệp. Điều này khiến cho kiểu thiết kế kín PS/2 (cùng thời) thất bại trên thị trường máy tính cá nhân trong khi cấu trúc IBM-PC ngày càng chiếm lĩnh thị trường máy tính cá nhân. Bộ vi xử lý 80386DX là một vi xử lý 32bit hoàn thiện với 32bit bus dữ liệu, 32bit bus địa chỉ với bộ nhớ tối đa 4GB. Để đáp ứng tốc độ của 80386 và yc cao của những bản mạch điều khiển màn hình phân giải cao, chuẩn khe cắm EISA (extended industry standard architecture) được đưa ra. Đây chính là chuẩn khe cắm 32 bit với tốc độ truyền là 33Mbit/s.
+1990: 80486 ra đời với nhiều chức năng hơn, cụ thể là 8 Kbyte bộ nhớ đệm mã lệnh (code cache) và một bộ đồng xử lý toán học. Tần số làm việc đặc trưng của máy vi tính trong thời kỳ này là 66 MHz.
+1993: Vi xử lý Pentium đầu tiên ra đời mở ra một kỷ nguyên mới với 64bit bus dữ liệu, 32bit bus địa chỉ, 8KB bộ đệm dữ liệu, 8KB bộ đệm mã lệnh. Bộ đồng xử lý toán học của Pentium làm việc nhanh gấp 10 lần so với 80486. Khi này các nhà sản xuất phần cứng lớn thoả thuận một chuẩn khe cắm mới PCI-bus (Peripheral Components Interconnect), và do đó bản mạch chính máy vi tính cá nhân chỉ còn lại vài vi mạch, tất cả các vi mạch ngoại vi của cấu trúc IBM-PC cũng như vi mạch điều khiển PCI được tích hợp vào một vi mạch duy nhất, có tên là PCI-chipset.
+1995: Khả năng đa môi trường (multimedia) của máy vi tính cá nhân càng ngày càng hoàn thiện khi Pentium MMX, Pentium Pro, Pentium II lần lượt ra đời. Tần số đồng hồ cao nhất 300 MHz. Một chuẩn giao diện ngoại vi mới ra đời từ sự thoả thuận từ nhiều hãng lớn là bus tuần tự đa dạng USB (Universal Serial Bus).
+1999 P!!! Ra đời, chuẩn PC99 xoá bỏ bus ISA. Bus PCI, giao diện đồ hoạ tiên tiến AGP, giao diện ngoại vi USB và IEEE 1934 là những đặc điểm nổi bật.
+Từ năm 2000: Một cấu trúc vi xử lý 64bit ra đời. Intel cho ra đời nhiều vi mạch tổng hợp thích hợp với vi xử lý của chính hãng. Chipset đảm nhiệm hầu hết các chức năng điều khiển trên máy và có bộ điều khiển hiển thị cấy ở bên trong. Thị trường máy tính cá nhân cũng như thị trường vi xử lý và vi mạch tổng hợp được chia thành nhiều phần đáp ứng nhu cầu đa dạng trong xã hội.
+
+
+== Các thành phần cơ bản trong máy tính cá nhân ==
+Máy tính cá nhân được lắp ghép bởi rất nhiều thành phần linh kiện, thành phần khác nhau. Mục này giúp người đọc hệ thống các thiết bị (được viết dưới dạng các nhánh) và tiện theo dõi các bài viết của chúng trong Wiki.
+
+
+=== Các linh kiện phần cứng cấu thành lên máy tính cá nhân ===
+Bo mạch chủ: Bo mạch chính có nhiệm vụ tập hợp kết nối các thiết bị với nhau trong máy tính cá nhân, xử lý với các công việc đang làm việc và có cách chấu nối để kết nối với các thiết bị ngoại vi khác.
+CPU: Bộ vi xử lý của máy tính cá nhân dùng cho xử lý tất cả các chương trình đang chạy trên máy tính cá nhân.
+RAM: Bộ nhớ tạm của máy tính cá nhân dùng cho việc truy xuất các chương trình đang chạy trên máy tính cá nhân.
+Thẻ đồ hoạ: Thiết bị có chức năng xử lý hình ảnh và xuất tín hiệu hình ảnh ra thiết bị phát hình ảnh (Màn hình, máy chiếu).
+Ổ đĩa cứng: Bộ nhớ dùng cho nhập, xuất dữ liệu với dung lượng cao, bộ nhớ lưu trữ chính cho máy tính cá nhân.
+Nguồn máy tính: Thiết bị cung cấp nguồn năng lượng cho toàn bộ máy tính và các thiết bị ngoại vi.
+Ổ đĩa mềm: Bộ nhớ dùng cho xuất, nhập (nếu có) dữ liệu với dung lượng rất thấp, các hãng sản xuất phần mềm có thể phân phối phần mềm qua đĩa mềm.
+Ổ đĩa quang (CD, DVD): Bộ nhớ dùng cho xuất, nhập (nếu có) dữ liệu với dung lượng thấp, thay cho ổ đĩa mềm và được sử dụng rộng rãi.
+Thẻ USB: Bộ nhớ dùng cho nhập, xuất dữ liệu với dung lượng lớn, dùng bộ nhớ Flash thay cho ổ đĩa và có tốc độ cao.
+Thẻ âm thanh: Thiết bị có chức năng xử lý và xuất tín hiệu âm thanh ra các thiết bị phát âm thanh (loa, Tai nghe).
+Thẻ mạng: Thiết bị có chức năng xử lý và kết nối với các máy tính khác với nhau thông qua máy chủ và tạo thành một mạng máy tính, giúp máy tính có thể trao đổi thông tin với các máy tính khác trên phạm vi rộng. Đây không phải thiết bị bắt buộc phải có.
+Vỏ máy tính: Thiết bị cất giữ và bảo vệ các thiết bị linh kiện phần cứng bên trong máy tính.
+Màn hình, máy chiếu: Thiết bị phát hình ảnh từ thẻ đồ họa trong máy tính.
+Bàn phím, chuột, tay cầm chơi game: Thiết bị nhập cử chỉ vào máy tính.
+Loa, Tai nghe: Thiết bị phát âm thanh từ thẻ âm thanh trong máy tính. Đây không phải thiết bị bắt buộc phải có.
+
+
+=== Các thiết bị ngoại vi thường kết nối với máy tính cá nhân ===
+Máy in: Thiết bị chuyển văn bản trên máy tính sang dạng văn bản thật.
+Micro: Thiết bị nhập âm thanh vào máy tính. Đây không phải thiết bị bắt buộc phải có.
+Máy quét: Thiết bị sao chép từ văn bản thật sang hình ảnh dưới dạng hình ảnh trên máy tính. Đây không phải thiết bị bắt buộc phải có.
+Camera: Thiết bị nhập hình ảnh vào máy tính. Đây không phải thiết bị bắt buộc phải có.
+Modem: Thiết bị kết nối internet qua dây điện thoại có dây (điện thoại bàn). Đây không phải thiết bị bắt buộc phải có.
+
+
+== Một số chức năng thường thấy ==
+Tính năng bảo mật TPM: Một số máy tính cá nhân có mức độ bảo mật cao (TPM là con chip thích hợp trên bo mạch chủ).
+Chức năng khôi phục nhanh: Để khôi phục hệ thống nhanh nhất khi xảy ra lỗi, máy tính cá nhân thường được thiết kế các hình thức khôi phục hệ thống thông qua bộ đĩa cài phần mềm.
+
+
+== Các hệ điều hành và phần mềm thông dụng cho máy tính cá nhân ==
+
+
+=== Các hệ điều hành máy tính cá nhân thường sử dụng ===
+Microsoft Windows: Hệ điều hành thông dụng.
+Windows 10
+Windows 8.1
+Windows 7
+
+Linux: Hệ điều hành mã nguồn mở.
+Ubuntu
+LinuxMint
+Fedora
+
+
+=== Các phần mềm thường được sử dụng nhiều trên các máy tính cá nhân ===
+Nói đến các phần mềm sử dụng trong máy tính cá nhân thì có vô số mà đến nay không ai có thể ước lượng được, phần mềm mới được phát sinh ra nhiều đến nỗi có thể trong vài phút thì ở đâu đó trên thế giới đã xuất hiện thêm một phần mềm mới.
+Dưới đây chỉ liệt kê các phần mềm thông dụng, được sử dụng nhiều trên các máy tính cá nhân
+Phần mềm trình duyệt internet
+Microsoft Edge
+Internet Explorer
+Google Chrome
+Mozilla Firefox
+Opera
+
+Phần mềm văn phòng thông dụng.
+Microsoft Office: Bộ phần mềm văn phòng của hãng Microsoft
+Microsoft Office Word: Soạn thảo văn bản, nằm trong bộ Microsoft Office.
+Microsoft Office Excel: Bảng tính, nằm trong bộ Microsoft Office.
+Microsoft Office PowerPoint: Làm bài trình chiếu, nằm trong bộ Microsoft Office.
+
+Open Office: Bộ phần mềm văn phòng dưới dạng mã nguồn mở.
+Phần mềm kế toán
+
+Phần mềm xử lý đồ hoạ
+Adobe Photoshop: Phần mềm chuyên chỉnh sửa ảnh hàng đầu trên thế giới.
+
+Phần mềm lập trình
+C++
+Microsoft Visual Studio
+
+
+== Xem thêm ==
+Máy chủ
+Lịch sử máy tính
+
+
+== Tham khảo ==

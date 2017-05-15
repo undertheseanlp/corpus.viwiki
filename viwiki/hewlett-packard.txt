@@ -1,0 +1,56 @@
+Hewlett-Packard (viết tắt HP) là tập đoàn công nghệ thông tin lớn nhất thế giới. HP thành lập năm 1939 tại Palo Alto, California, Hoa Kỳ. HP hiện có trụ sở tại Cupertino, California, Hoa Kỳ. Năm 2006, tổng doanh thu của HP đạt 9.4 tỷ đô la, vượt đối thủ IBM với 9.1 tỉ, chính thức vươn lên vị trí số một (đến nay là google đứng số một) trong các công ty công nghệ thông tin.
+
+
+== Lịch sử ==
+
+
+=== Thành lập ===
+HP được thành lập vào ngày 1 tháng 1 năm 1939 bởi Bill Hewlett và Dave Packard, với hình thức là nhà sản xuất công cụ đo lường và kiểm định với vốn đầu tư là US$538. Cả hai đã tốt nghiệp Đại học Stanford năm 1934. Công ty khởi đầu trong một ga-ra khi họ còn đang học sau đại học ở Standford. (Vì thế câu chuyện của họ là về những trí thức trở nên giàu có chứ không phải là những kẻ nghèo khó trở nên giàu có).
+Sản phẩm đầu tiên là máy tạo dao động âm chính xác, kiểu 200A. Điểm mới của họ là đã dùng bóng đèn nhỏ (loại dùng để chiếu sáng) như là một điện trở nhiệt trong một phần quan trọng của mạch điện. Nhờ vậy họ đã bán kiểu 200A này với giá $54.40 trong khi các đối thủ cạnh tranh bán các máy tạo dao động ít ổn định hơn với giá trên $200. Loạt máy phát kiểu 200 được tiếp tục sản xuất đến năm 1972 với kiểu 200AB, vẫn dựa trên đèn điện tử nhưng có cải tiến về mẫu mã. 33 năm, đó có lẽ là mẫu thiết kế điện tử được bán lâu nhất trong mọi thời đại.
+Tên công ty, Hewlett-Packard, được hình thành từ họ của hai nhà sáng lập. Nếu Bill không thắng trong việc tung đồng xu, thì có thể hiện nay tên công ty được biết sẽ là Packard-Hewlett. Một trong những khách hàng sớm nhất của công ty là Walt Disney Productions, họ đã mua tám máy tạo dao động kiểu 200B (với giá $71.50/cái) để kiểm tra hệ thống Fantasoundstereophonic sound trong những rạp sẽ chiếu phim Fantasia.
+
+
+=== Tập trung ===
+Ban đầu, hoạt động của công ty không tập trung, công ty làm việc trong lĩnh vực rộng về các thiết bị điện cho công nghiệp và thậm chí cả nông nghiệp. Cuối cùng họ chọn tập trung vào thiết bị điện cho đo lường và kiểm định chất lượng cao. Suốt những năm 1940 đến những năm 1990 công ty tập trung sản xuất máy phát tín hiệu, máy đo hiệu điện thế, máy dao động ký, máy đếm, và những thiết bị kiểm định khác. Điểm nổi bật của chúng là tăng giới hạn đo lường và độ chính xác. Ví dụ, hầu hết mọi Vôn kế hoặc máy phát tín hiệu HP đều có hơn một hoặc nhiều bậc trên công tắc so với sản phẩm của các đối thủ cạnh tranh. Vôn kế hay Ampe kế HP có thang đo tăng và giảm hơn 10 tới 100 lần so với những máy khác. Dù có nhiều lý do cho việc tại sao các máy cạnh tranh chỉ ngừng ở đơn vị 1 vôn, các kỹ sư của HP tìm ra những cách để tăng phạm vi đo lường của thiết bị lên một cách đáng kể. Họ cũng tập trung vào việc chính xác và ổn định tuyệt đối, làm ra những máy đếm, Vôn kế, nhiệt kế, và đồng hồ có phạm vi đo lường rộng nhưng rất chính xác và ổn định.
+
+
+=== Những năm 60 và 70 ===
+HP được công nhận là nhà sáng lập của thung lũng Silicon, dù công ty đã không chủ động đầu tư vào các thiết bị bán dẫn mãi đến vài năm sau, sau khi "Tám kẻ phản bội" đã từ bỏ William Shockley để lập nên công ty bán dẫn Fairchild vào năm 1957. Công ty cổ phần HP của Hewlett-Packard, thành lập năm 1960, đã phát triển các thiết bị bán dẫn chỉ để dùng trong nội bộ. Các dụng cụ đo lường và máy tính là những sản phẩm sử dụng các thiết bị này.
+HP được công nhận bởi Tạp chí Wired là nhà sản xuất máy tính cá nhân đầu tiên trên thế giới, vào năm 1968, với loại máy Hewlett-Packard 9100A. HP gọi nó là máy tính để bàn (desktop calculator), vì Bill Hewlett phát biểu rằng, "Nếu chúng tôi gọi nó là máy tính (computer), các bậc thầy về máy tính sẽ phản đối vì nó không giống IBM. Vì thế chúng tôi quyết định gọi nó là máy tính (calculator), và những thứ vô lý đó không còn nữa." Là một thắng lợi trong kỹ thuật lúc đó, các mạch điện logic được sản xuất mà không có vi mạch tích hợp nào; quá trình lắp ráp một cái CPU hoàn toàn được tiến hành với các bộ phận rời rạc. Với bộ đọc CRT, card lưu trữ bằng từ tính, và máy in, giá sản phẩm khoảng $5000.
+Công ty được thế giới tín nhiệm với nhiều mặt hàng. Họ đã giới thiệu máy tính điện tử khoa học cầm tay đầu tiên trên thế giới vào năm 1972 (máy HP-35), máy tính lập trình đầu tiên vào năm 1974 (máy HP-65), máy tính lập trình có hiển thị số đầu tiên, vào năm 1979 (máy HP-41C), và máy tính hình thức có thể vẽ đồ thị đầu tiên HP-28C. Giống như các máy tính khoa học và thương mại, máy dao động ký, máy phân tích logic, và các thiết bị đo lường khác của công ty cũng rất nổi tiếng vì độ bền và tính tiện dụng (những sản phẩm đo lường này bây giờ là các dòng sản phẩm của công ty Agilent tách ra từ HP). Triết lý trong thiết kế của công ty trong giai đoạn này có thể tóm tắt là "thiết kế cho người ngồi ở ghế kế bên."
+
+
+=== HP dẫn đầu thị trường máy tính ===
+Theo nghiên cứu của IDC và Gartner, HP tiếp tục dẫn đầu thị trường máy tính toàn cầu 5 quý liên tiếp tính đến quý 3/2007, bỏ xa đối thủ cạnh tranh kế tiếp.
+Vẫn theo thông báo của IDC và Gartner được HP dẫn lại và công bố vào ngày 12/12/2007 tại Thành phố Hồ Chí Minh thì HP đã có tổng lượng máy tính bán ra đạt mức tăng trưởng 33% (theo số liệu của IDC) và 18,8% thị phần với doanh số tăng 33,1% (theo số liệu của Gartner). Mức tăng trưởng này cao hơn mức tăng trung bình của thị trường toàn cầu và vượt xa tỷ lệ tăng trưởng bình quân vùng tại tất cả các vùng.
+Theo Gartner, trong quý 3/2007 toàn thế giới đã tiêu thụ 68,5 triệu máy tính, tăng 14,4% so với cùng kỳ năm ngoái. Doanh số của khu vực châu Á – Thái Bình Dương tăng 23,4% và tại khu vực châu Âu, Trung Đông và châu Phi là 16,4%. Trong khi đó, mức tăng doanh số của thị trường Mỹ chỉ đạt 4,7%, thấp hơn dự đoán của Gartner là 6,7%.
+Báo cáo nghiên cứu thị trường của IDC cho thấy đây là quý thứ 2 liên tiếp HP đạt mức tăng trưởng bình quân trên 30%. Thị phần của HP đã tăng 2,5% so với năm ngoái trên cả thị trường Mỹ và thị trường thế giới. Tại Mỹ, trong quý 3 năm nay, HP đã đạt mức tăng trưởng 169%, cao hơn gấp 3 lần so với mức tăng bình quân của thị trường.
+Cũng trong quý 3 năm nay, riêng tại thị trường Việt Nam, HP chiếm 29,9% thị phần, đạt mức tăng trưởng năm 252,9%, vươn lên chiếm vị trí dẫn đầu thị trường máy tính xách tay. Xét trên cả ngành công nghiệp máy tính (bao gồm máy tính để bàn và máy tính xách tay), HP giữ 10,2% thị phần với mức tăng trưởng 144,5%, qua đó tiếp tục duy trì vị trí dẫn đầu trên thị trường. (http://pcworld.com.vn)
+Nhưng HP đã bị đối thủ cạnh tranh đến từ Đài Loan là ASUS vượt qua, theo bình chọn của tạp chí "Wall Street Asia" tháng 8 năm 2009, HP đã bị đối thủ cạnh tranh ASUS đến từ Đài Loan đánh tụt hạng bét, vì theo cộng đồng sử dụng máy tính xách tay, các sản phẩm của HP thường hay bị lỗi VGA card, gây nên hiện tượng máy nóng khi hoạt động, trong khi đó ASUS được đánh giá cao vì các sản phẩm của ASUS có tỉ lệ lỗi thấp, chất lượng đảm bảo, vì vậy tạp chí này đã bình chọn ASUS trở thành hãng máy tính "Đứng đầu thế giới về chất lượng và dịch vụ"
+
+
+== Sản phẩm ==
+Máy tính bàn
+Máy tính xách tay
+Máy ảnh kĩ thuật số
+Máy in
+Máy quét
+Pocket PC
+Máy chủ x86
+Máy chủ Phiến Mỏng Blade System
+Máy chủ UNIX
+Máy chủ siêu mạnh Supper Dome và Non Stop
+Hệ thống lưu trữ StorageWork
+
+
+== Xem thêm ==
+Microsoft
+Dell
+Sony
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang nhà HP

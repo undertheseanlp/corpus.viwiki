@@ -1,0 +1,53 @@
+PowerVR là một bộ phận của hãng Imagination Technologies (trước đây là VideoLogic) chuyên phát triển các giải pháp phần mềm và phần cứng cho kết xuất 2D, 3D, giải mã video, xử lý ảnh và tăng tốc đồ họa cho các thư viện DirectX, OpenGL ES, OpenVG, và OpenCL.
+Sản phẩm của PowerRV ban đầu được dùng cho thị phần máy tính cá nhân (PC), được đánh giá là tốt về hiệu suất (hiệu năng/giá thành). Với sự thay đổi nhanh chóng của thị trường, PowerVR đã chuyển hướng sang các sản phẩm phục vụ máy tính xách tay và thiết bị cầm tay.
+PowerVR không trực tiếp sản xuất mà bán thiết kế và bản quyền các sản phẩm của mình cho các hãng khác để các hãng này tích hợp lên sản phẩm của riêng mình, như Texas Instruments, Intel, NEC, BlackBerry, Renesas, Samsung, STMicroelectronics, Freescale, Apple, NXP Semiconductors (formerly Philips Semiconductors), vân vân.
+
+
+== Các dòng vi xử lý Power VR ==
+
+
+=== MBX ===
+PowerVR gặt hái nhiều thành công với mảng di động với dòng PowerVR MBX. MBX, và thế hệ sau là SGX và GGX, được bán bản quyền lại cho 7 trong 10 tập đoàn bán dẫn hàng đầu là Intel, Texas Instruments, Samsung, NEC, NXP Semiconductors, Freescale, Renesas và Sunplus. Những thết bị cao cấp dùng dòng vi xử lý này là iPhone, Nokia N95, Sony Ericsson P1 và Motorola RIZR Z8, cũng như vài mẫu iPod.
+
+
+=== Dòng 1 ===
+Tất cả hỗ trợ DirectX 3.0
+1 Pixel shaders: Vertex shaders: Texture mapping units: Render output units
+
+
+=== Dòng 2 ===
+Tất cả sản xuất với công nghệ 250 nm
+Hỗ trợ DirectX 6.0 và PMX1 MiniGL
+1 Đổ bóng điểm: Đổ bóng đỉnh: Đơn vị xử lý bề mặt: Đơn vị kết xuất
+
+
+=== Dòng 3 ===
+Hỗ trợ DirectX 6.0
+1 Pixel shaders: Vertex shaders: Texture mapping units: Render output units
+
+
+=== Dòng 4 ===
+
+
+=== Dòng 5 ===
+
+
+=== Dòng 5XT ===
+GPU có thể có 1 hay nhiều nhân 
+
+
+=== Dòng 6 (Rogue) ===
+Power VR Series 6 GPUs có 2 TMUs/cluster với GFLOPS đạt tối đa giá trị FP32.
+
+
+== Xem thêm ==
+List of PowerVR products
+Free and open-source device drivers: graphics#Imagination Technologies
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Website chính thức
+PowerVR Technology Overview

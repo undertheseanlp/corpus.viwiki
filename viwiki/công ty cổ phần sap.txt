@@ -1,0 +1,32 @@
+Công ty Cổ phần SAP (tiếng Đức: SAP Aktiengesellschaft, thường được viết tắt là SAP AG) là công ty phần mềm lớn nhất châu Âu, có trụ sở chính tại Walldorf, (Đức).
+
+
+== Tiểu sử ==
+1972: năm nhân viên của IBM (Claus Wellenreuther, Hans-Werner Hector, Klaus Tschira, Dietmar Hopp và Hasso Plattner) thành lập công ty SAP - Systemanalyse und Programmentwicklung (Phân tích hệ thống và phát triển phần mềm) - đặt trụ sở chính tại Weinheim và văn phòng ở Mannheim.
+1973: sản phẩm kế toán đầu tiên ra đời: System RF, sau này được đổi tên thành R/1
+1976: thành lập công ty SAP GmbH (GmbH: công ty trách nhiệm hữu hạn) chuyên về tiêu thụ và cố vấn. Năm năm sau, công ty Systemanalyse und Programmentwicklung được giải thể, các quyền hạn được chuyển sang SAP GbmH.
+1977: trụ sở chính được chuyển từ Weinheim về Walldorf.
+1979: sản phẩm R/2 ra đời.
+1988: công ty được chuyển thể thành công ty cổ phần. Vốn điều lệ được nâng lên trong hai bước từ 5 triệu Mark Đức thành 60 triệu Mark Đức. Vào tháng 10 cổ phần được niêm yết trên thị trường chứng khoán.
+1990: phát hành cổ phần ưu đãi nâng vốn điều lệ lên 85 triệu Mark Đức.
+1991: giới thiệu sản phẩm R/3 tại hội chợ CeBIT ở Hannover, Đức.
+1999: giới thiệu sản phẩm mySAP.com.
+2003: Hasso Plattner, người thành lập SAP cuối cùng còn lại trong hội đồng quản trị, rút lui khỏi hội đồng quản trị.
+2004: phiên bản đầu tiên của SAP NetWeaver04 có mặt trên thị trường.
+
+
+== Các sản phẩm ==
+mySAP ERP: phần mềm hoạch định tài nguyên doanh nghiệp.
+mySAP Business Suite: bao gồm các phần mềm dùng trong doanh nghiệp như hoạch định tài nguyên doanh nghiệp (ERP), quản lý quan hệ khách hàng (tiếng Anh: Customer Relationship Management - CRM), quản lý quan hệ người cung cấp (tiếng Anh: Supplier Relationship Management - SRM), quản lý dây chuyền cung cấp (tiếng Anh: Supply Chain Management – SCM).
+SAP NetWeaver: phần mềm tích hợp ứng dụng doanh nghiệp.
+Các giải pháp cho doanh nghiệp vừa và nhỏ: SAP Business One, mySAP All-in-One.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang chính của SAP
+www.sap.info/en/
+Yahoo! Finance cho SAP
+Security for SAP

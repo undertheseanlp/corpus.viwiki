@@ -1,0 +1,265 @@
+Bài này nói về ý nghĩa của lực hấp dẫn trong vật lý học. Xem ý nghĩa trong kinh tế học tại bài mô hình lực hấp dẫn
+Trong vật lý học, lực hấp dẫn là lực hút giữa mọi vật chất và có độ lớn tỷ lệ thuận với khối lượng của chúng và tỷ lệ nghịch với bình phương khoảng cách của hai vật.
+Lực hấp dẫn là một trong bốn lực cơ bản của tự nhiên theo mô hình chuẩn được chấp nhận rộng rãi trong vật lý hiện đại, ba lực cơ bản khác là lực điện từ, lực hạt nhân yếu, và lực hạt nhân mạnh. Lực hấp dẫn là lực yếu nhất trong số các lực đó, nhưng lại có thể hoạt động ở khoảng cách xa và luôn thu hút.
+Trong cơ học cổ điển, lực hấp dẫn xuất hiện như một ngoại lực tác động lên vật thể. Trong thuyết tương đối rộng, lực hấp dẫn là bản chất của không thời gian bị uốn cong bởi sự hiện diện của khối lượng, và không phải là một ngoại lực. Trong thuyết hấp dẫn lượng tử, hạt graviton được cho là hạt mang lực hấp dẫn.
+Lực hấp dẫn của Trái Đất tác động lên các vật thể có khối lượng và làm chúng rơi xuống đất. Lực hấp dẫn cũng giúp gắn kết các vật chất để hình thành Trái Đất, Mặt Trời và các thiên thể khác; nếu không có nó các vật thể sẽ không thể liên kết với nhau và cuộc sống như chúng ta biết hiện nay sẽ không thể tồn tại. Lực hấp dẫn cũng là lực giữ Trái Đất và các hành tinh khác ở trên quỹ đạo của chúng quanh Mặt Trời, Mặt Trăng trên quỹ đạo quanh Trái Đất, sự hình thành thủy triều, và nhiều hiện tượng thiên nhiên khác mà chúng ta quan sát được.
+
+
+== Trường hấp dẫn ==
+Việc một vật chịu lực hút từ vật khác có thể được xem rằng vật này nằm trong một môi trường đặc biệt tạo ra bởi vật kia, gọi là trường hấp dẫn. Như vậy, trường hấp dẫn có thể được định nghĩa như là một trường lực truyền tương tác giữa các vật thể có khối lượng. Trường hấp dẫn của Trái Đất do khối lượng của Trái Đất tác động lên các vật thể ở gần bề mặt của nó được gọi là trọng trường. Mọi vật có khối lượng sinh ra quanh chúng trường hấp dẫn và trường này gây ra lực hấp dẫn tác động lên các vật có khối lượng khác đặt trong nó. Cường độ trường hấp dẫn của Trái Đất tại một điểm chính là gia tốc rơi tự do tại điểm đó.
+
+
+== Lý thuyết hấp dẫn của Newton ==
+
+Định luật vạn vật hấp dẫn của Newton là định luật do Isaac Newton - một trong những nhà vật lý vĩ đại nhất khám phá ra. Theo định luật này, vật có khối lượng m sẽ bị kéo về gần vật có khối lượng M với gia tốc:
+
+  
+    
+      
+        g
+        =
+        
+          
+            
+              G
+              M
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle g={\frac {GM}{r^{2}}}}
+  
+Với
+
+G là hằng số hấp dẫn
+r là khoảng cách giữa hai vật.
+
+Theo định luật 2 Newton, vật có khối lượng m chịu lực hấp dẫn có độ lớn:
+F = m g
+
+  
+    
+      
+        F
+        =
+        
+          
+            
+              G
+              M
+              m
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle F={\frac {GMm}{r^{2}}}}
+  
+Công thức trên được gọi là định luật vạn vật hấp dẫn Newton, trong đó lực hấp dẫn tỷ lệ thuận với tích của hai khối lượng và tỷ lệ nghịch với bình phương khoảng cách hai vật. Trong công thức này, kích thước các vật được coi là rất nhỏ so với khoảng cách giữa chúng.
+
+
+=== Hằng số hấp dẫn ===
+Hằng số hấp dẫn G phụ thuộc vào hệ đơn vị đo lường, được xác định lần đầu tiên bởi thí nghiệm Cavendish năm 1797. Trong hệ đơn vị SI:
+
+G = 6.67 x 10−11 N.m²/kg²
+
+
+== Trọng lực ==
+Trọng lực Lực trái đất tác động trên một vật để hút vật về hướng Trái đất tính bằng công thức
+
+  
+    
+      
+        F
+        =
+        
+          
+            
+              G
+              M
+              m
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle F={\frac {GMm}{r^{2}}}}
+  
+Với
+
+G là hằng số hấp dẫn và
+r là khoảng cách giữa hai vật.
+
+
+=== Trọng lực tiêu chuẩn ===
+Trọng lực tiêu chuẩn ký hiệu g0 or gn là gia tốc danh định gây ra bởi trọng lực Trái Đất ở độ cao tương đương mặt biển. Theo định nghĩa, nó tương đương 9.80665 m/s2.
+
+
+== Thế năng hấp dẫn ==
+Như mọi trường véctơ có dạng tỷ lệ nghịch với bình phương khoảng cách (ví dụ cường độ điện trường), trường véctơ lực hấp dẫn là một trường véctơ bảo toàn. Điều này nghĩa là mọi tích phân đường của véctơ lực hấp dẫn F từ vị trí r0 đến r:
+
+  
+    
+      
+        
+          ∫
+          
+            
+              
+                r
+              
+              
+                0
+              
+            
+          
+          
+            
+              r
+            
+          
+        
+        
+          F
+        
+        ⋅
+        d
+        
+          
+            r
+          
+          ′
+        
+      
+    
+    {\displaystyle \int _{\mathbf {r} _{0}}^{\mathbf {r} }\mathbf {F} \cdot d\mathbf {r} '}
+  
+đều có giá trị không phụ thuộc vào đường đi cụ thể từ r0 đến r.
+Như vậy tại mỗi điểm r đều có thể đặt giá trị gọi là thế năng hấp dẫn:
+
+  
+    
+      
+        ϕ
+        (
+        
+          r
+        
+        )
+        =
+        ϕ
+        (
+        
+          
+            r
+          
+          
+            0
+          
+        
+        )
+        +
+        
+          ∫
+          
+            
+              
+                r
+              
+              
+                0
+              
+            
+          
+          
+            
+              r
+            
+          
+        
+        
+          F
+        
+        ⋅
+        d
+        
+          
+            r
+          
+          ′
+        
+      
+    
+    {\displaystyle \phi (\mathbf {r} )=\phi (\mathbf {r} _{0})+\int _{\mathbf {r} _{0}}^{\mathbf {r} }\mathbf {F} \cdot d\mathbf {r} '}
+  
+với φ(r0) là giá trị thế năng quy ước ở mốc r0.
+Lực nhân quãng đường là công cơ học, tức năng lượng, do đó thế năng hấp dẫn, hay thế năng nói chung, là một dạng năng lượng.
+Các điểm trong trường hấp dẫn có cùng một giá trị thế năng tạo thành một mặt gọi là mặt đẳng thế. Một chất điểm nếu dịch chuyển trên một mặt đẳng thế thì không sinh công bởi vì thế năng điểm đầu và thế năng điểm cuối là như nhau. Như vậy, lực tác dụng phải có phương vuông góc với phương dịch chuyển.
+
+
+== Định luật vạn vật hấp dẫn theo Einstein ==
+
+Theo Albert Einstein, bản chất của lực hấp dẫn là do sự uốn cong của không - thời gian bởi vật chất và năng lượng.
+
+
+== Công thức trọng lực ==
+
+  
+    
+      
+        F
+        =
+        
+          
+            
+              G
+              M
+              m
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle F={\frac {GMm}{r^{2}}}}
+  
+
+
+== Xem thêm ==
+Lực
+Trọng trường nhân tạo
+Lý thuyết tương đối rộng
+Sóng hấp dẫn
+Trọng lượng biểu kiến và phi trọng lượng
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Gravity Probe B Experiment The Official Einstein website from Stanford University
+Các lực trong tự nhiên, V. Grigôriev và G. Miakisev: Phần 1, Phần 2, Phần 3, Phần 4, Phần 5, Phần 6, Phần 7

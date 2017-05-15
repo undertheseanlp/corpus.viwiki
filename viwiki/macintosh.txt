@@ -1,0 +1,17 @@
+Macintosh (phát âm /ˈmækɨntɒʃ/ MAK-in-tosh), hay Mac, là một dòng sản phẩm máy tính cá nhân được thiết kế, phát triển, và đưa ra thị trường bởi Apple Inc. Chiếc máy Macintosh đầu tiên được giới thiệu ngày 24 tháng 1 năm 1984; nó là chiếc máy tính cá nhân đầu tiên được thương mại hóa thành công với đặc điểm điều khiển bằng chuột và giao diện người dùng đồ họa hơn là giao diện dòng lệnh. Công ty tiếp tục thành công qua nửa cuối những năm 1980, cho đến thập niên 1990 nó bị lu mờ đi khi phải cạnh tranh với dòng máy tính cá nhân máy tính tương thích IBM chạy hệ điều hành MS-DOS và Microsoft Windows.
+Apple hợp nhất nhiều cấp sử dụng các mẫu máy tính để bàn trong nhiều năm vào trong máy 1998 iMac all-in-one (gồm thành một). Điều này mang lại doanh số bán hàng thành công và tín hiệu hồi sinh cho thương hiệu Macintosh, mặc dù chưa đạt đến mức thị phần mà trước đây nó từng có. Hiện nay các hệ Mac có mục đích sử dụng chủ yếu trong gia đình, giáo dục, và thị trường sáng tạo chuyên nghiệp. Chúng gồm: các dòng iMac (đã nói ở trên) và máy tính để bàn Mac mini, máy workstation tháp đồ họa Mac Pro, MacBook, MacBook Air và các laptop MacBook Pro. Máy chủ Xserve đã ngưng sản xuất vào năm 2011.
+Việc sản xuất máy Mac dựa trên cơ sở mô hình tích hợp thẳng đứng theo đó Apple tự thiết kế và sử dụng phần cứng cũng như viết hệ điều hành cho các dòng sản phẩm máy tính của họ. Điều này ngược hẳn với máy tính tương thích IBM, nó có nhiều hãng cung cấp phần cứng và khả năng chạy nhiều hệ điều hành khác nhau. Apple độc quyền sản xuất phần cứng của Mac, lựa chọn cấu hình phần cứng, tự thiết kế cũng như đưa ra mức giá bán. Hiện nay, CPU của máy tính Mac sử dụng kiến trúc x86 của Intel; những mẫu giai đoạn 1984–1994 sử dụng chip 68k Motorola và mẫu giai đoạn 1994–2006 sử dụng chip PowerPC của liên minh AIM. Apple cũng phát triển hệ điều hành cho Mac, phiên bản hiện tại của Mac OS X là Mac OS X Sierra. Máy tính Mac hiện đại, như các loại máy tính cá nhân khác, đều hỗ trợ nhiều hệ điều hành khác nhau như Linux, FreeBSD, và đối với những máy Macs cấu hình trên nền Intel, cũng hỗ trợ Microsoft Windows. Tuy nhiên, Apple không cấp phép Mac OS X cho những máy tính không thuộc thương hiệu Apple.
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+
+
+== Liên kết ngoài ==
+Website chính thức
+Making the Macintosh: Technology and Culture in Silicon Valley
+Welcome to MacIntosh (Full Film)
+MacHEADs (Full Film)
+Bản mẫu:Apple hardware before 1998 Bản mẫu:Apple hardware since 1998 Bản mẫu:Mac OS History Bản mẫu:Mac OS

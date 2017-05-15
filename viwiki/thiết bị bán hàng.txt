@@ -1,0 +1,43 @@
+POS hay PoS là một thuật ngữ viết tắt của Point of Sale (hay point-of-sale, hoặc point of service). Nó sử dụng cho các shop bán lẻ (retail shop), tại quầy thanh toán tiền (check out counter) trong shop, hay là một vị trí có thể thay đổi được khi mà giao dịch xuất hiện trong loại của môi trường kiểu này. Thêm nữa, point of sale thỉnh thoảng đáp ứng giống như một hệ thống tính tiền (electronic cash register system). PoS được sử dụng trong các nhà hàng ăn uống, khách sạn, sân vận động, casino, nói chung nó thích hợp cho môi trường bán lẻ- tóm lại, nó là thứ phục vụ cho việc bán hàng, một điểm bán hàng trong một hệ thống bán hàng (point of sale system)
+
+
+== Các cửa hàng truyền thống ==
+Một quầy tính tiền (check-out counter), checkstand(USA), hay check-out(UK) là khu vực được chọn để thu tiền cho cửa hàng (store), như trong siêu thị hay một khu vực các cửa hàng. Ở đó có một nhân viên thu ngân (Cashier) thực hiện việc thu tiền, hàng hoá phải qua đây, được kiểm tra, sau đó khách hàng trả tiền và mang hàng hoá về.
+
+
+== Kỹ thuật POS ==
+Là sự kết hợp sử dụng giứa phần cứng và phần mềm cho quầy tính tiền, và có thể đó là một vị trí lưu động, với các hệ thống không dây (wireless systems)
+Hệ thống POS phát triển từ là một loại máy tính tiền cơ khí sử dụng các thanh ghi dịch(mechanical cash registers) vào đầu thế kỷ 20. Những ví dụ của loại máy tính tiền này như là sử dụng thanh ghi NCR(crank) và loại cao hơn đó là thanh ghi Burrough.Các thanh ghi này ghi lại dữ liệu vào các cuộn băng từ(journal tapes) và đòi hỏi phải sao chép lại các thông tin này vào hệ thống của người quản lý bán lẻ. Bước tiếp theo trong quá trình phát triển là việc sử dụng điện cho các máy tính tiền. Một thí dụ cho loại này là thanh ghi NCR Class 5. Vào năm 1973 một loại máy mới ra đời được dẫn hướng bằng máy tính được giới thiệu, là IBM 3653 Store System và NCR 2150. Một số loại khác dựa trên sự cơ sở máy tính như là Regitel, TRW, và Datachecker. Vào năm 1973 lần đầu tiên giới tiệu máy đọc mã vạch UPC/EAN có trong hệ thống POS. Năm 1986, các hệ thống POS chủ yếu dựa trên kỹ thuật máy tính với sự ra đời của IBM 4683.
+Suốt trong những năm 1980 đến 90 các thẻ tín dụng hoạt động độc lập được tích hợp phát triển xử lý các thẻ tín dụng có trong hệ thống POS có thể dễ dàng và an toàn Model được giới thiệu ở đay là VeriFone Tranz 330, Hypercom T7 Plus, hay Lipman Nurit 2085. Nó là các thiết bị đơn giản. Một số hệ thống POS không dây sử dụng cho các cửa hàng ăn không chỉ cho phép xử lý thanh toán di động, chúng còn cho phép server xử lý chính xác tất cả các món ăn. Vào năm 2005, hệ thống POS dùng cho bán lẻ không những phục vụ muc đích bán lẻ mà cho khả năng kết nối mạng sử dụng trong thương mại. Trên thực tế, rất nhiều hệ thống bán lẻ POS hoạt động hơn là một "point of sale". Khi chỉ phục vụ cho 4&5 nhà bán lẻ, có nhiều hệ thống POS tích hợp nhiều account, quản lý thông minh, mở dự báo bán hàng, quản lý quan hệ khách hàng (customer relation management CRM), quản lý dịch vụ, số tiền thuê, và số tiền phải trả cho nhân viên.
+Với những tuỳ chọn phong phù, một điều trở nên phổ biến mà dễ dàng ta sẽ phải nghe tới đó là các sản phẩm phần mềm cho POS như: retail management software, business management software, POS system, and point of sale software.
+
+
+== Một phần mềm POS đơn giản ==
+Một ECR đầu tiên được chương trình hoá bằng phần mềm và giới hạn về chức năng và khả năng kết nối được giới thiệu vào năm 1973 bởi IBM, IBM 3650 và 3660 Store, điều khiển128 IBM 3653/3663 Point of Sale Registers. Hệ thống này là bản thương mại đầu tiên sử dụng kỹ thuât client-server technology, peer to peer communications, Local Area Network (LAN) đồng thời backup, and remote initialization. Vào giữa nhưng năm 1974, nó được sử dụng trong Pathmark Stores tại New Jersey và Dillards Department Stores. Khả năng lập chương trình cho phép các nhà bán lẻ rất linh hoạt. Vào năm 1979 Gene Mosher's Old Canal Cafe tại Syracuse, New York sử dụng phần mềm POS viết bởi Mosher chạy trên máy Apple II giúp cho khách hàng tiện lợi trong quán ăn, và nó còn cho phép gửi thông báo tới nhà bếp Năm 1985 Mosher giới thiệu loại có màn hình cảm ứng (touchscreen-driven), màu, giao diện POS. Phần mềm này chạy trên Atari ST, là sản phẩm máy tính đồ hoạ đầu tiên trên thế giới. Cuối thế kỷ 20 Mosher phát triển phàn mềm này cho các nhà sản xuất máy tính tiền và phần mềm phát triển POS, và nó được coi như là chuẩn của hệ thống phần mềm POS.
+
+
+== Các chuẩn phần cứng POS ==
+Có 2 chuẩn dành cho thiết bị phần cứng của POS là OPOS và JavaPOS, cả hai đều tương thích với UnifiedPOS, chuẩn bởi tổ chức bán lẻ quốc tế (The National Retail Foundation). OPOS (OLE for POS) là chuẩn phổ biến đầu tiên được giới thiệu bởi Microsoft, NCR Corporation, Epson, và Fujisu-ICL. OPOS dựa trên chuẩn giao tiếp cổng COM, cho phép sử dụng các chương trình ngôn ngữ của Microsoft. OPOS phát hành năm 1996, JavaPOS được giới thiệu bởi Sun Microsoftsystem, IBM và NCR Corporation năm 1997.
+Về sau, cùng với sự phát triển ồ ạt của mô hình "chuỗi POS", nhu cầu quản lý tập trung được đặt ra. Một số hãng sản xuất phần mềm đã đưa ra giải pháp thay thế các POS chuyên dụng bằng các phần mềm "POS" chạy trên máy PC. Với một PC, người dùng có thể gắn thêm các thiết bị có liên quan (thông thường là Barcode Reader - thiết bị đọc mã vạch - và Bill Printer - máy in Bill chuyên dụng) - cùng với việc cài đặt một POS software - người dùng có thể sở hữu một máy POS hoàn chỉnh với độ tùy biến cao; đồng thời, có thể tận dụng ưu điểm của các giao thức truyền thông trên PC để giải quyết tốt vấn đề tích hợp dữ liệu bán lẻ từ các POS về cơ sở dữ liệu trung tâm, cũng như tiếp nhận các dữ liệu mang tính "chính sách" được phân phối từ trung tâm đến các POS.
+
+
+== Giao thức truyền thông POS ==
+Có nhiều giao thức truyền thông trong các hệ thống POS sử dụng để điều khiển thiết bị ngoại vi. Ta có thể nói tới
+EPSON Esc/POS
+UTC Standard
+UTC Enhanced
+AEDEX
+ICD 2002
+Ultimate
+CD 5220
+DSP-800
+IBM dumb terminal
+ADM 787/788.
+Chúng được tạo ra bởi những công ty chế tạo các thiết bị ngoại vi khác nhau. EMAX, sử dụng EMAX international, kết hợp giữa thiết bị của AEDEX và IBM. Rất nhiều thiết bị, như hiển thị và máy in, hỗ trợ giao thức để hoạt động với các thương hiệu khác nhau của thiết bị POS và máy tính.
+
+
+== Xem thêm ==
+Máy bán hàng
+
+
+== Tham khảo ==

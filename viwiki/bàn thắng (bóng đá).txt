@@ -1,0 +1,43 @@
+Trong bóng đá, một bàn thắng được công nhận khi trái bóng vượt qua hết vạch vôi khung thành và không có phần nào của trái bóng còn ở trên vạch vôi, giữa hai cột dọc và bên dưới xà ngang, mà trước đó không có lỗi vi phạm luật nào từ phía đội ghi bàn, thủ môn không thể bắt được bóng.
+Có nhiều cách để ghi một bàn thắng:
++ Sút xa
++ Tình huống phạt
+
+
+== Đội thắng trận ==
+Đội bóng ghi được nhiều bàn thắng hơn là đội thắng trận. Nếu hai đội ghi được số bàn thắng bằng nhau hay không có bàn thắng nào được ghi, trận đấu có kết quả hòa.
+
+
+== Luật khi đá loại trực tiếp ==
+Trong các vòng đấu loại trực tiếp yêu cầu phân định thắng thua cho một trận đấu hay cho một cặp đấu có kết quả hòa sau hai trận lượt đi và lượt về, chỉ những cách sau được cho phép sử dụng để phân định thắng thua:
+Luật bàn thắng trên sân khách.
+Các hiệp phụ
+Các quả đá luân lưu từ chấm phạt đền.
+
+
+== Một số tranh cãi ==
+Tuy nhiên, đôi khi trong sân có một số tình huống diễn ra quá nhanh, bóng đã lăn qua vạch vôi nhưng trọng tài không công nhận vì không thấy rõ dẫn đến ảnh hưởng kết quả trận đấu. Điển hình là trận đấu giữa Đức và Anh trong khuôn khổ vòng 1/16 World Cup 2010, khi Lampard đã sút bóng qua vạch vôi nhưng không được trọng tài công nhận.
+Công nghệ
+Tuy nhiên, hiện nay bóng đá đã có nhiều thay đổi nhất là công nghệ goal line hỗ trợ trọng tài trong việc công nhận một bàn thắng. Goal-line (hay còn gọi là Goal Decision System) là phương pháp sử dụng công nghệ máy tính để xác định bóng đã hoàn toàn vượt qua đường biên ngang hay chưa. Mục tiêu của công nghệ này không phải để thay thế vai trò của các trọng tài mà chỉ có tác dụng hỗ trợ họ. Hệ thống hoạt động thông qua 6 hoặc 7 máy quay cho mỗi cầu gôn thường được gắn ở mặt dưới của mái các sân vận động cho phép theo dõi bóng ở các góc độ khác nhau. Các video từ những máy ảnh phối hợp theo hình tam giác và tạo thành một quỹ đạo 3 chiều của quả bóng. Các máy quay được sử dụng có độ nét và tốc độ khung hình mỗi giây rất cao nhằm bắt được hình ảnh trái bóng. Ngay cả khi một số góc máy bị chặn do cầu thủ đứng khuất tầm quay, phần mềm máy tính vẫn có thể tính toán quỹ đạo bóng hoặc vị trí chính xác thông qua các máy quay còn lại.
+Kết quả sau khi được hệ thống máy tính xử lý sẽ gửi trực tiếp hoặc gián tiếp tới trọng tài thông qua một thiết bị đeo. Hệ thống Hawk-Eye được coi là không thể nhầm lẫn với độ chính xác trong ngưỡng 5 mm.
+Tuy nhiên, vẫn có những tranh cãi trong việc sử dụng công nghệ Goal-line. Ngoài lý do chi phí tốn kém, sự can thiệp sâu vào máy móc vô tình làm mất đi yếu tố con người dù các nhà tổ chức luôn khẳng định hệ thống chỉ giúp đỡ các trọng tài trong việc đưa ra quyết định. Ngoài ra, việc phải quay chậm lại (replay) cũng sẽ khiến các trận đấu không liền mạch. Cựu chủ tịch FIFA, ông Sepp Blatter cũng từng cho rằng "tranh cãi về những tình huống, sai lầm cũng là một phần thú vị của bóng đá".
+
+
+== Xem thêm ==
+Luật bóng đá
+Bàn tay của chúa
+Bàn thắng thế kỷ
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Toàn văn Luật bóng đá Việt Nam
+Luật bóng đá (FIFA)
+Liên đoàn Bóng đá Việt Nam
+Văn bản pháp quy về bóng đá tại Việt Nam
+Văn bản sửa đổi, bổ sung luật thi đấu bóng đá năm 2005
+Văn bản sửa đổi, bổ sung luật thi đấu bóng đá năm 2006
+Quy định về kỷ luật của FIFA (FDC)
+Luật bóng đá quốc tế (FIFA)

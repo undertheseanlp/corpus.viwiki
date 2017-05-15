@@ -1,0 +1,88 @@
+Akamai Technologies, Inc. là một nhà cung cấp dịch vụ mạng phân phối nội dung (CDN) và điện toán đám mây của Hoa Kỳ có trụ sở ở Cambridge, Massachusetts, Hoa Kỳ. Mạng phân phối nội dung của Akamai là một trong những nền tảng điện toán phân tán lớn nhất thế giới, chịu trách nhiệm phục vụ từ 15 đến 30 phần trăm tất cả lưu lượng web. Công ty điều hành mạng lưới máy chủ trên toàn thế giới và cho khách hàng thuê khả năng máy chủ để trang web của họ hoạt động nhanh hơn bằng cách phân phối nội dung từ các địa điểm gần người dùng. Trong những năm qua, khách hàng của họ gồm Apple, Facebook, Bing, Valve, Twitter, eBay, Google, LinkedIn và healthcare.gov. Khi người dùng điều hướng đến URL của một khách hàng Akamai, trình duyệt của họ sẽ được chuyển hướng đến một bản sao trang web đó trên Akamai.
+Công ty được thành lập năm 1998 bởi Daniel M. Lewin (sau đó là một sinh viên tốt nghiệp tại Viện Công nghệ Massachusetts) và một giáo sư toán học ứng dụng Tom Leighton của Viện Công nghệ Massachusetts). Lewin đã chết trên chuyến bay American Airlines 11, vốn bị rơi trong sự kiện 11 tháng 9 năm 2001. Hiện tại Leighton đang là giám đốc điều hành của Akamai.
+Akamai là một từ Hawaii có nghĩa là "thông minh" or "khéo léo".
+
+
+== Lịch sử ==
+
+
+== Công nghệ ==
+
+
+=== Akamai Intelligent Platform ===
+
+
+=== Quy trình phân phối nội dung ===
+
+
+=== Mạng lưới ngang hàng ===
+
+
+=== Network Operations Command Center ===
+
+
+=== State of the Internet ===
+
+
+=== Visualizing the Internet ===
+
+
+=== Sáng kiến OPEN ===
+
+
+=== Tên miền chính ===
+Akamai Technologies sở hữu khoảng 60 tên miền khác, nhưng các tên miền chính của nó gồm:
+
+
+==== Tập đoàn ====
+akamai.com – Tên miền của tập đoàn Akamai
+
+
+==== Mạng lưới và tên miền phân phối nội dung ====
+akamai.net
+akamaiedge.net
+akamaized.net
+akamaihd.net, một mạng lưới phân phối nội dung được sử dụng bởi các công ty như Ubisoft, Twitter và Facebook để tăng tốc dịch vụ
+edgesuite.net
+edgekey.net
+srip.net
+akamaitechnologies.com, một mạng lưới phân phối nội dung được sử dụng bởi các công ty như Adobe
+akamaitechnologies.fr
+
+
+==== Máy chủ DNS ====
+akamaitech.net
+akadns.net
+akam.net
+akamaistream.net
+
+
+== Khách hàng ==
+
+
+== Mua lại ==
+
+
+== Kiện tụng ==
+
+
+== Tranh cãi ==
+Cơ quan An ninh Quốc gia và Cục Điều tra Liên bang được nói là đã dùng mạng phân phối nội dung (CDN) Akamai cho Facebook để thu thập thông tin người dùng Facebook Facebook users.
+Akamai cũng bị cáo buộc là đã ngăn chặn truy cập tới trang web với những khách hàng sử dụng trình duyệt Tor.
+
+
+== Xem thêm ==
+
+Akamai Techs., Inc. v. Limelight Networks, Inc.
+Memcached
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==
+Erik Nygren, Ramesh K. Sitaraman, and Jennifer Sun. "The Akamai Network: A Platform for High-Performance Internet Applications". ACM SIGOPS Operating Systems Review, Vol. 44, No. 3, July 2010.
+
+
+== Liên kết ngoài ==
+Website chính thức

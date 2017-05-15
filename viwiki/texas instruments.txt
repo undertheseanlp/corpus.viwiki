@@ -1,0 +1,29 @@
+Texas Instruments (thường được viết tắt là TI) là một trong những tập đoàn lớn nhất Hoa Kỳ, đặt trụ sở tại Dallas, Texas và tại châu Âu có trụ sở chính tại Freising, gần München, Đức.
+TI sản xuất chất bán dẫn, phụ tùng máy điện toán và bàn tính. Hai trong những ngành công nghiệp mũi nhọn của TI hiện nay là sản xuất những sản phẩm DLP (Digital Light Processing, một kỹ thuật sử dụng trong công nghệ sản xuất truyền hình) và bộ vi xử lý DSP (Digital signal processors).
+TI được thành lập bởi Cecil H. Green, Jon Erik Jonsson, Eugene McDermott và Henry Bates Peacock vào ngày 6 tháng 12 năm 1941.
+Ngày 18 tháng 10 năm 1954, công ty thông báo sản xuất chiếc máy phát thanh (radio) transistor đầu tiên. 1958, bộ vi mạch đầu tiên được Jack S. Kilby của TI phát triển.
+Trong lĩnh vực vũ khí quân sự, TI cũng rất thành công, Ví dụ như sản xuất tên lửa AGM-88 HARM và các loại radar. Năm 1997, TI sang nhượng bộ phận sản xuất quân sự cho Raytheon Corporation.
+
+
+== Lịch sử ==
+
+Texas Instruments được thành lập bởi Cecil H. Green, J. Erik Jonsson, Eugene McDermott, và Patrick E. Haggerty in 1951. McDermott là một trong những nhà sáng lập ban đầu của Geophysical Service Inc. (GSI) năm 1930. McDermott, Green, và Jonsson là nhân viên của GSI đã mua lại công ty năm 1941. Vào tháng 11 năm 1945, Patrick Haggerty đã được thuê làm giám đốc bộ phận Sản xuất và Thí nghiệm (L&M), tập trung vào các thiết bị điện tử. Tới năm 1951, bộ phận L&M, với các hợp đồng quốc phòng, đã phát triển nhanh hơn bộ phận Geophysical của GSI. Công ty được tái cấu trúc và đổi tên thành General Instruments Inc. Bởi vì đã có công ty tên General Instrument, nên công ty được đổi tên thành Texas Instruments trong cùng năm. Từ năm 1956 đến năm 1961, Fred Agnich của Dallas, sau đó là thành viên Đảng Cộng Hòa của Hạ viện Texas, là chủ tịch của Texas Instruments. Geophysical Service, Inc. trở thành công ty con của Texas Instruments. Đầu năm 1988 hầu hết GSI được bán cho công ty Halliburton.
+
+Texas Instruments tồn tại để tạo ra, sản xuất và quảng bá các sản phẩm và dịch vụ hữu ích để đáp ứng nhu cầu của khách hàng trên toàn thế giới.
+– Patrick Haggerty, Tuyên bố về Mục đích của Texas Instruments
+
+
+== Các bộ phận ==
+Ngày nay, TI được tạo nên từ bốn bộ phận: sản phẩm analog, bộ xử lý nhúng (EP), xử lý ánh sáng kĩ thuật số (DLP), và công nghệ giáo dục (ET).
+
+
+=== Sản phẩm analog ===
+
+
+=== Xử lý nhúng ===
+
+
+=== Doanh nghiệp khác ===
+
+
+== Chú thích ==

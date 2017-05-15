@@ -1,0 +1,62 @@
+iPad là máy tính bảng do Apple Inc phát triển. Được công bố vào ngày 27 tháng 1 năm 2010, thiết bị này tạo ra một phân loại mới giữa điện thoại thông minh và máy tính xách tay.
+Tương tự về tính năng so với thiết bị nhỏ và yếu hơn là iPhone hoặc iPod touch, iPad cũng chạy trên cùng hệ điều hành iPhone OS đã được sửa đổi với giao diện được thiết kế lại để tận dụng màn hình lớn. Ipad có màn hình chạm đa điểm sử dụng đèn led chiếu sáng 9.7 inch, 16 tới 64 GB bộ nhớ flash, BlueTooth 2.1 và kết nối 30 chân với bộ để để đồng bộ với iTunes cũng như các thiết bị ngoại vi kết nối bằng dây khác. Hai mẫu được công bố gồm mẫu sử dụng Wifi 802.11n và một mẫu sử dụng Wi-Fi 802.11n Wi-Fi và 3G, và GPS. Cả hai mẫu đều có 3 tùy chọn về dung lượng lưu trữ.
+Là thiết bị đầu tiên của Apple để khai thác dịch vụ iBookstore cũng như ứng dụng đọc sách đi kèm iBooks, iPad được so sánh với Kindle của Amazon và Nook của Barnes & Noble.
+
+
+== Lịch sử ==
+Máy tính bảng đầu tiên của Apple là MessagePad 100 dựa trên nền Newton, được giới thiệu vào năm 1993 và đã dẫn tới việc xây dựng bộ xử lý ARM6 cùng với Acorn Computers. Apple cũng phát triển sản phẩm mẫu về máy bảng dựa trên PowerBook Duo có tên là PenLite nhưng không thương mại hóa sản phẩm này vì sợ ảnh hưởng tới doanh số MessagePad. Sau đó, Apple cũng tung ra nhiều PDA dựa trên nền Newton và thiết bị PDA cuối cùng MessagePad 2100 đã ngừng sản xuất vào năm 1998.
+Apple tái gia nhập thị trường tính toán di động năm 2007 với sản phẩm iPhone. Tuy nhỏ hơn iPad nhưng iPhone có thêm camera và điện thoại di động. iPhone cũng tiên phong trong giao diện chạm đa điểm của hệ điều hành iPhone OS. Tới cuối năm 2009, người ta đã đồn đại về sự xuất hiện của iPad trong đó iSlate và iTablet là các tên được dự đoán. iPad được công bố vào ngày 27 tháng 1 năm 2010 tại một hội nghị của Apple tổ chức tại Trung tâm nghệ thuật Yerba Buena ở San Francisco.
+Ba ngày sau đó, tại lễ trao giảo Grammy lần thứ 52, Stephen Colbert sử dụng iPad khi công bố tên đề cử.
+
+
+== Sản xuất ==
+iPad được lắp ráp bởi cùng nhà sản xuất iPod và iPhone là Foxconn tại nhà máy lớn nhất của Foxconn tại Shenzhen Trung quốc.
+Vì cả nhà thiết kế là Apple và nhà sản xuất theo hợp đồng là Foxconn đều không tiết lộ nguồn các cấu phần của iPad, người ta vẫn tìm ra được cá nhà cung cấp cấu kiện bằng cách tháo nhỏ thiết bị iPad và các phân tích của những người trong ngành.. Samsung vừa sản xuất chíp A4 cho Apple sử dụng trong iPad đồng thời cũng cung cấp bộ nhớ flash dùng trong phiên bản 64GB. Toshiba cung cấp flash cho các mô đen khác. Chip điều khiển màn hình cảm ứng do Broadcom cung cấp. Catcher Technologies sản xuất vỏ bạc, Novatek Microelectronics phát triển trình điều khiển LCD và Dynapack International cung cấp pin . Wintek cung cấp màn hình cảm ứng sau khi TPK Touch Solutions không có khả năng thực hiện đơn hàng và đã làm chậm trễ việc tung iPad ra thị trường sang đầu tháng Tư thay vì cuối tháng Ba.
+
+
+=== Thông số kỹ thuật ===
+Dung lượng bộ nhớ: 16GB;32GB;64GB;128GB
+Thời gian sử dụng liên tục: 10 giờ nghe nhạc, 8 giờ xem phim;
+Màn hình: 9.7" LED đa cảm ứng, độ phân giải (1024 x 760) px;
+Chuẩn không dây: Wi-Fi (802.11b/g);
+Kích thước: 241.8 x 189.7 x 12.7 mm;
+Trọng lượng: 680 g;
+Lưu trữ: 4.000 bài hát (128-Kbps AAC/MP3), 20.000 tấm hình và 20 giờ xem Video;
+Bluetooth 2.1 + DER;
+Ứng dụng: Calendar, Notes, Maps, Contacts, Mail (iCloud, Yahoo!Mail, Gmail, Hotmail và AOL);
+App Store: gần 250.000 ứng dụng dành cho iPad;
+iBooks: một cách để đọc và mua sách trên iBookstore;
+Pin: Rechargeable lithium polymer battery (Pin sạc);
+Định dạng xem phim: H.264,.m4v,.mp4, và.mov;
+Định dạng file âm thanh: AAC (16 đến 320 Kbps), Protected AAC (from iTunes Store), MP3 (16 đến 320 Kbps), MP3 VBR, Audible (định dạng 2, 3, và 4), Apple Lossless, WAV, và AIFF;
+Định dạng ảnh: JPEG, BMP, GIF, TIFF, PSD (Mac), và PNG;
+Thời gian sạc: 4 giờ (2 giờ sạc khoảng 80%);
+Lưu trữ dữ liệu giống như USB;
+Hệ điều hành: Mac OS X, Windows 2000/XP/Vista/Seven,...
+Màu sắc: Đen, trắng.
+
+
+=== Các phụ kiện cho iPad ===
+
+Các phụ kiện cho iPad được Apple chính thức thiết kế bao gồm Smart Cover, Smart Case, công cụ để kết nối máy ảnh, dock cho iPad, bàn phím không dây và tai nghe.
+
+
+== Có mặt trên thị trường ==
+Apple nhận đơn đặt hàng trước cho iPad từ khách hàng Mỹ vào ngày 12 tháng 3 năm 2010. iPad phiên bản wifi được bán tại cửa hàng ngày 3 tháng 4 còn phiên bản Wi-Fi + 3G sẽ được tung ra vào cuối tháng 4. Wi-Fi và Wi-Fi + 3G sẽ được bán tại Úc, Canada, Pháp, Đức, Ý, Nhật Bản, Tây Ban Nha, Thụy Sĩ và Anh vào cuối tháng 4. Dịch vụ 3G tại Mỹ sẽ do AT&T cung cấp với hai lựa chọn đều không sử dụng hợp đồng: lựa chọn thứ nhất là không giới hạn dung lượng và lựa chọn 250MB mỗi tháng với giá bằng một nửa. Tùy chọn này sẽ tự động được kích hoạt trên iPad và người mua có thể hủy bất kỳ lúc nào.
+
+
+== iPad Mini ==
+iPad Mini (hay iPad mini) là một loại máy tính bảng được thiết kế, phát triển và phân phối bởi Apple Inc. Được công bố ngày 23 tháng 10 năm 2012, biết đến như là thế hệ thứ năm của chuỗi sản phẩm iPad, và là thiết bị đầu tiên xuất hiện với kích thước 7,9 inches, nhỏ hơn so với cỡ 9,7 inches tiền nhiệm. Sở hữu cấu hình tương tự iPad 2, kể cả độ phân giải màn hình.
+iPad Mini được tung ra tại hầu hết các cửa hàng Apple ngày 2 tháng 11.
+
+
+== So sánh ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+iPad official site
+Apple Special Event tháng 1 năm 2010 Apple Inc. 27 tháng 1 năm 2010
+iMac to iPad: 12 years of big-time Apple innovations

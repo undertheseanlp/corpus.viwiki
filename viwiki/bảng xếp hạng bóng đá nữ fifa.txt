@@ -1,0 +1,200 @@
+Bảng xếp hạng bóng đá nữ FIFA (tiếng Anh: FIFA Women's World Rankings) ra đời vào năm 2003 với lần công bố đầu tiên vào tháng 3 năm đó để tiếp nối sự ra đời của bảng xếp hạng bóng đá nam FIFA 10 năm trước đó. Bảng xếp hạng bóng đá nữ FIFA được ra đời nằm so sánh trình độ của các đội bóng quốc tế ở bất kì thời điểm nào.
+
+
+== Chi tiết hệ thống xếp hạng ==
+Bảng xếp hạng bóng đá nữ thế giới của FIFA được tính dựa trên tất cả các trận đấu quốc tế mà một đội tuyển từng tham gia từ năm 1971, khi trận đấu bóng đá nữ đầu tiên được FIFA công nhận diễn ra giữa Pháp và Hà Lan. (Trong khi bảng xếp hạng bóng đá nam chỉ xét các trận trong bốn năm gần nhất.)
+Bảng xếp hạng bóng đá nữ thế giới của FIFA được đưa ra một cách ngầm định để phản ánh các kết quả thi đấu gần nhất. (Bảng xếp hạng của nam được đưa ra một cách rõ ràng theo một thang đối chiếu.)
+Bảng xếp hạng bóng đá nữ thế giới của FIFA chỉ được cập nhật bốn lần một năm. Thông thường, thứ hạng được công bố vào tháng ba, sáu, chín và mười hai. (Trong các năm diễn ra World Cup, lịch công bố có thể được điều chỉnh để phản ánh kết quả các trận đấu của World Cup.)
+Hệ thống xếp hạng bóng đá nữ thế giới của FIFA gần như tương tự hệ thống tính điểm bóng đá Elo. FIFA coi thành tích của các đội với ít hơn năm trận đấu là tạm thời và để các đội này ở cuối bảng xếp hạng. Bất kì đội nào không thi đấu một trận nào trong 18 tháng thì không được xếp hạng.
+
+
+== Các đội tuyển dẫn đầu ==
+
+Tới nay Đức và Hoa Kỳ là hai đội duy nhất từng dẫn đầu. Hai đội bóng thay phiên giữ hai vị trí đầu bảng kể từ lần cập nhật thứ ba vào tháng 10 năm 2003, ngay sau Giải vô địch bóng đá nữ thế giới 2003, cho tới 12 năm 2008. Đức đứng ở vị trí thứ ba sau Na Uy trong hai đợt xếp hạng đầu tiên, và bị đánh bật khỏi top hai lần nữa vào tháng 3 năm 2009 bởi Brasil. Mặc dù vậy việc bảo vê thành công ngôi vô địch châu Âu tại vòng chung kết Euro 2009 đưa họ trở lại top 2 vào tháng 9 năm 2009 và giữ vị trí này cho đến nay.
+Trong lần cập nhật nhật của FIFA vào tháng 7 năm 2015, đội tuyển Mỹ trở lại ngôi đầu bảng sau chức vô địch World Cup 2015. Tuy nhiên sau tấm huy chương vàng tại Thế vận hội Mùa hè 2016 và nhiều kết quả tốt, tới tháng 3 năm 2017, Đức giành lại ngôi đầu sau hơn một năm rưỡi ở vị trí thứ hai.
+
+
+== Công thức tính toán ==
+Bảng xếp hạng được tính toán dựa trên công thức sau:
+
+  
+    
+      
+        
+          R
+          
+            b
+            e
+            f
+          
+        
+        =
+        
+          R
+          
+            a
+            f
+            t
+          
+        
+        +
+        K
+        (
+        
+          S
+          
+            a
+            c
+            t
+          
+        
+        −
+        
+          S
+          
+            e
+            x
+            p
+          
+        
+        )
+      
+    
+    {\displaystyle R_{bef}=R_{aft}+K(S_{act}-S_{exp})}
+  
+
+  
+    
+      
+        
+          S
+          
+            e
+            x
+            p
+          
+        
+        =
+        
+          
+            1
+            
+              1
+              +
+              
+                10
+                
+                  −
+                  x
+                  
+                    /
+                  
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle S_{exp}={\frac {1}{1+10^{-x/2}}}}
+  
+
+  
+    
+      
+        x
+        =
+        
+          
+            
+              
+                R
+                
+                  b
+                  e
+                  f
+                
+              
+              −
+              
+                O
+                
+                  b
+                  e
+                  f
+                
+              
+              ±
+              H
+            
+            c
+          
+        
+      
+    
+    {\displaystyle x={\frac {R_{bef}-O_{bef}\pm H}{c}}}
+  
+Với
+Các công thức được xây dựng như vậy để các đội mới gia nhập có thể có khoảng 1000 điểm, còn các đội hàng đầu có thể vượt con số 2000 điểm. Để được xếp hạng, một đội phải thi đấu ít nhất 5 trận với các đội xếp hạng, và không được vắng bóng quá 18 tháng. Ngay cả khi không được chính thức xếp hạng, số điểm của các đội vẫn được giữ nguyên.
+
+
+=== Kết quả thực tế của trận đấu ===
+Đặc điểm chính của kết quả thực tế là dù thắng, thua hay hòa thì hiệu số bàn thắng bại vẫn được tính đến.
+Nếu trận đấu kết thúc có đội thắng người thua, đội thua được trao một lượng % như bảng bên dưới, với kết quả luôn nhỏ hơn hoặc bằng 20% (vì hiệu số bàn thắng bại luôn lớn hơn 0). Kết quả thực tế của trận đấu dựa trên hiệu số bàn thắng bại và số bàn thắng hai đội ghi được. Lượng phần trăm còn lại được trao cho đội thắng. Ví dụ, tỉ số 2–1 sẽ có kết quả lần lượt của đội thắng và đội thua là 84%–16%, tỉ số 4–3 cho kết quả 82%–18%, và tỉ số 8–3 có kết quả được chia là 96.2%–3.8%. Như vậy, một đội vẫn có thể mất điểm ngay cả khi chiến thắng nếu họ không "thắng với tỉ số đủ lớn".
+Nếu hai đội hòa hai đội sẽ được trao cùng số %, nhưng con số đó dựa trên số bàn ghi được nên tổng số % sẽ không nhất thiết phải là 100%. Ví dụ tỉ số 0–0 sẽ mang về cho mỗi đội 47%, tỉ số 1–1 là 50%, và 4–4 là 52.5%.
+
+
+==== Bảng kết quả thực tế (tính cho đội không thắng) ====
+
+
+=== Sân trung lập hay sân nhà–sân khách ===
+Trước đây, các đội chủ nhà có sẵn 66% số điểm, các đội khách nhận 34% còn lại. Để làm rõ điều này, khi hai đội không thi đấu trên sân trung lập, tham số 
+  
+    
+      
+        
+          R
+          
+            b
+            e
+            f
+          
+        
+      
+    
+    {\displaystyle R_{bef}}
+   của đội chủ nhà tăng thêm 100 điểm. Tức là, nếu hai đội đồng thứ hạng chơi trên sân của một trong hai đội, đội chủ là sẽ được dự đoán là thắng ở một tỉ lệ bằng với một đội thi đấu trên sân trung lập với lợi thế 100 điểm. Cách biệt 100 điểm này tương ứng với lợi thế 64%–36% của kết quả được mong đợi.
+Điều này cũng giúp việc xác định hằng số tỉ lệ 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   có giá trị 200. Cùng với việc cách biệt 100 điểm tạo ra kết quả được mong đợi ở tỉ lệ 64%–36%, thì cách biệt 300 điểm tạo ra kết quả được mong đợi ở tỉ lệ 85%–15%.
+
+
+=== Mức độ quan trọng của trận đấu ===
+
+
+== Lịch công bố bảng xếp hạng ==
+Bảng xếp hạng được công bố bốn lần một năm, thường vào ngày thứ sáu.
+
+
+== Xem thêm ==
+
+Hệ số Elo bóng đá thế giới
+Giải vô địch bóng đá nữ thế giới
+Bảng xếp hạng bóng đá nam FIFA
+Bóng đá nữ trên thế giới
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Bảng xếp hạng hiện tại - FIFA.com
+Bảng xếp hạng bóng đá nữ của Ziaian
+Cách xếp hạng - FIFA.com

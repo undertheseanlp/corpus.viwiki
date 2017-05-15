@@ -1,0 +1,81 @@
+Tập đoàn eBay là một công ty của Hoa Kỳ, quản lý trang Web eBay.com, một website đấu giá trực tuyến, nơi mà mọi người khắp nơi trên thế giới có thể mua hoặc bán hàng hóa và dịch vụ. Ngoài trụ sở tại Mỹ, eBay còn có chi nhánh tại một số quốc gia khác. Tập đoàn eBay cũng sở hữu thương hiệu nổi tiếng khác là Paypal.
+
+
+== Lịch sử ==
+eBay được thành lập vào ngày 3 tháng 12 năm 1995 bởi Pierre Omidyar, một chuyên gia lập trình máy tính. Ban đầu, eBay chỉ là một mục trong một trang web cá nhân của Omidyar. Tuy nhiên chỉ sau một thời gian ngắn, anh nhìn ra tiềm năng lớn lao của eBay nên đã cùng Chis Agarpao và Jeff Skoll xây dựng nó thành một thương vụ nghiêm túc. Vào năm 1996, eBay chính thức ký hợp đồng đầu tiên với một công ty chuyên bán vé máy bay và các sản phẩm du lịch tên là Electronic Travel Auction. Đến tháng 9 năm 1997, cái tên eBay chính thức ra đời. Thực ra dự định ban đầu của Omidyar là lấy tên miền EchoBay.com, nhưng tên này đã được một công ty khai thác mỏ vàng đăng ký mất nên anh quay sang lựa chọn thứ 2 là eBay.com.
+Ngày nay trụ sở chính của eBay đặt ở San Jose, California. Meg Whitman hiện là chủ tịch eBay và CEO từ năm 1998. eBay là một trong những công ty phát triển nhanh nhất trong mọi thời đại.
+
+
+== Các mặt hàng và dịch vụ ==
+Hàng triệu các dụng cụ, thiết bị, máy tính, đồ gỗ, và hàng triệu mặt hàng khác được đưa lên, mua và bán mỗi ngày. Một số mặt hàng rất hiếm và có giá trị, tuy nhiên cũng có rất nhiều mặt hàng mà chúng ta không thể tưởng tượng nổi, một cái răng giả chẳng hạn, cũng được hàng ngàn dân cư trên mạng trả giá rất sôi nổi. Điều đó chứng tỏ eBay là một cái chợ rất lớn, nơi mà ta thấy mọi người cố gắng bán bất cứ thứ gì. Công bằng mà nói, eBay đã làm một cuộc cách mạng về chợ mua bán, tập trung người mua và người bán trên toàn cầu lại với nhau, thành một cái chợ khổng lồ, nơi buôn bán và đấu giá không bao giờ kết thúc.
+Các công ty lớn tầm cỡ thế giới, chẳng hạn như IBM, bán những dịch vụ và sản phẩm mới nhất của họ trên eBay bằng cách đấu giá với giá cố định ban đầu. Việc tìm kiếm các vùng trên thế giới bằng phần mềm giúp cho việc vận chuyển nhanh chóng với giá rẻ hơn. Các chuyên gia phát triển phần mềm có thể tạo các ứng dụng tương tác với eBay thông qua thư viện lập trình eBay API bằng cách gia nhập vào eBay Developers Program. Đến tháng 6 năm 2005, eBay Developers Program đã có 15,000 thành viên, tạo ra các phần mềm hỗ trợ người mua và bán trên eBay và cho các chi nhánh của eBay.
+Tháng 6 năm 2004, eBay cấm bán và đấu giá các mặt hàng rượu và thuốc lá trên site eBay của Anh ebay.co.uk. Nhưng một ít loại rượu được liệt vào loại hiếm (có nhiều năm tuổi) thì có thể bán với số lượng ít, và giá của nó rất đắt đỏ.
+Các vấn đề gây tranh cãi bắt đầu xuất hiện và lan rộng trên eBay khi số mặt hàng được rao bán ngày càng nhiều. Vào cuối năm 1999, một người đàn ông đăng tin bán đấu giá 1 quả thận của mình trên eBay mong tìm được một khách hàng từ thị trường nước ngoài do hành vi này là bất hợp pháp tại Mỹ. Trong một số đấu giá khác, thậm chí người và cả thành phố được đem rao bán. Tất nhiên đa số tin đấu giá này chỉ là trò đùa vui, tuy nhiên, vào năm 2004, eBay phát hiện có những mẫu tin nghiêm túc rao báo các cô gái Việt đến Đài Loan. Điều này làm bùng lên tranh cãi về tính hợp pháp của các thương vụ đấu giá trên eBay. Thông thường, eBay chỉ bỏ đi các đấu giá vi phạm các điều khoản sử dụng sau khi nghe được tố cáo hay phàn nàn từ một phía thứ 3, còn bản thân công ty không có nhiều biện pháp cụ thể để kiểm soát tất cả thương vụ trên hệ thống của mình. Lợi dụng sơ hở này, rất nhiều bọn xấu đã sử dụng eBay để kinh doanh hàng nhái, hàng giả, hoặc lừa đảo người mua lẫn người bán. Rất khó khăn để phát hiện và ngăn chặn bọn chúng vì đa số đều xuất phát từ những nước có hệ thống an ninh thương mại điện tử kém phát triển như Trung Quốc, Nigeria, Maroc,...
+Đối thủ chính của eBay là hệ thống đấu giá Marketplace của Amazon.com và Yahoo! Auctions.
+
+
+== Lợi nhuận và các giao dịch ==
+Nguồn thu của eBay đến từ nhiều phía. Đầu tiên là phí đăng tải đấu giá thu của người bán dù sản phẩm có bán được hay không. Sau đó, eBay thu phí khi sản phẩm được giao dịch thành công, cộng thêm một số loại phí phụ khác. Thêm vào đó, eBay thu lợi từ hệ thống trả tiền Paypal mỗi khi có một thanh toán được thông qua bởi dịch vụ này.
+Chiến lược thương mại của eBay là mở rộng giao dịch quốc tế trong hệ thống của mình. Hiện nay eBay đã mở rộng đến hầu hết các nước Bắc Mỹ, Tây Âu, Úc và một số nước châu Á như Trung Quốc và Ấn Độ. Những nơi eBay không xâm nhập thành công là Đài Loan, Nhật và Hồng Kông, do đối thủ Yahoo! đã cắm rễ từ rất lâu trước khi eBay tìm đến.
+
+
+== Chi nhánh quốc tế ==
+Ngoài trang chủ là trang dành cho Hoa Kỳ, eBay còn thành lập một số trang web chi nhánh ở một số nước:
+
+
+== Đầu tư và thâu tóm ==
+Tháng 5 năm 1999, eBay thâu tóm dịch vụ chi trả trực tuyến Billpoint, nhưng đã ngưng sử dụng sau khi có được Paypal.
+Năm 1999, eBay có được tòa nhà Butterfield and Butterfield, và đã bán nó vào năm 2002.
+Tháng sáu năm 2000, eBay thâu tóm Half.com.
+Tháng 8 năm 2001, eBay thâu tóm Mercado Libre, Lokau và iBazar, các site đấu giá ở châu Mỹ Latinh.
+Tháng 7 năm 2002, eBay thâu tóm PayPal
+Vào ngày 11 tháng 7 năm 2003, eBay thâu tóm EachNet, công ty thương mại hàng đầu ở Trung Quốc, trả bằng tiền mặt xấp xỉ 150 triệu USD.
+Vào ngày 22 tháng 6 năm 2004, eBay thâu tóm Baazee.com, site đấu giá Ấn Độ với giá xấp xỉ 50 triệu USD bằng tiền mặt.
+Vào ngày 16 tháng 12 năm 2004, eBay mua rent.com với 30 triệu USD tiền mặt và 385 triệu USD bằng cổ phiếu eBay.
+Tháng 5 năm 2005, eBay thâu tóm Gumtree.
+Tháng 6 năm 2005, eBay mua Shopping.com với giá 635 triệu USD.
+Tháng 8 năm 2005, eBay mua Skype, một công ty VoIP, với giá 2.6 tỉ USD bằng tiền mặt và cổ phiếu.
+Tháng 4 năm 2006, eBay đầu tư 2 triệu USD vào mạng xã hội Meetup.com
+Tháng 4 năm 2006, eBay đầu tư 48 triệu USD mua lại Tradera.com, chợ đấu giá số 1 của Thụy Điển.
+Tháng 8 năm 2006, eBay tuyên bố cùng Google hợp tác quốc tế. Chi tiết của bản hợp tác không được tiết lộ.
+Tháng 2 năm 2007, eBay mua lại trang mua bán vé trực tuyến Subhub với giá 307 triệu USD.
+Tháng 5 năm 2007, eBay mua trang StumbleUpon với mức giá &75 triệu USD.
+
+
+== Các mặt hàng cấm giao dịch ==
+Vào những ngày mới thành lập, eBay hầu như không được kiểm soát. Sau này khi càng lớn mạnh, eBay đã đưa vào những quy định cụ thể về nhiều loại sản phẩm khác nhau. Dưới đây là một số chủng loại hàng bị cấm hoặc bị hạn chế giao dịch:
+Thuốc lá (những mặt hàng liên quan đến thuốc lá hay hàng sưu tập thì được phép) [1]
+Rượu (trừ hàng sưu tập và rượu vang bán bởi các nhà phân phối có giấy phép)[2]
+Các sản phẩm cổ vũ Phát xít Đức (Nazi) [3]
+Băng đĩa lậu [4]
+Súng và đạn dược [5]
+Quần áo lót đã qua sử dụng [6]
+Các bộ phận của người [7]
+Động vật sống [8]
+Một số sản phẩm có bản quyền [9]
+Vé số cùng các món hàng liên quan cờ bạc
+
+
+== Một số mặt hàng lạ ==
+Tháng 6 năm 2005, vợ của Tim Shaw, một DJ radio người Anh bán một xe hơi thể thao của mình sử dụng cách bán "Buy It Now", với giá là 50 xu. Chiếc xe được rao sau khi vợ của Tim nghe được Tim ve vãn với người mẫu Jodie Marsh trên chương trình của mình. Chỉ sau 5 phút chiếc xe đã tìm được chủ mới.
+Tháng 5 năm 2005, một chiếc Volkswagen Golf đã được đăng ký cho Joseph Cardinal Ratzinger (giáo hoàng Pope Benedict XVI) được rao bán trên eBay Đức với giá €188,938.88. Người thắng cuộc là sòng bạc online GoldenPalace.com, nổi tiếng bởi những vụ mua giật mình trên eBay.
+Tháng 9 năm 2004, chủ nhân trang web MagicGoat.com bán rác trong thùng rác của mình cho một giáo sư nghệ thuật để ông này dùng cho sinh viên viết luận về cái thùng rác.
+Nước uống còn sót lại trong 1 cái cốc từng được Elvis Presley uống cũng đã bán trên eBay với giá $455. [10]
+Một sinh viên Đại học Coventry bán một mẫu bắp rang được £1.20 [11]
+Một người đàn ông ở Brisbane, Úc đã rao bán New Zealand với giá khởi điểm là 0.01 đô la Úc. Giá đã tăng đến 3000 đô la ngay trước khi eBay dẹp nó xuống. [12]
+Một nhóm 4 thanh niên Úc tự bán họ trong vòng 1 cuối tuần với lời hứa "đầy bia rượu, chuyện trò vui vẻ và ắp tiếng cười" với giá $1300. [13]
+
+
+== Chú thích ==
+
+
+== Xem thêm ==
+Thương mại điện tử
+Mô hình bán đấu giá trực tuyến
+GAMEY
+
+
+== Liên kết ngoài ==
+Website của eBay
+eBay Việt Nam
+Biểu phí của eBay (tiếng Anh)

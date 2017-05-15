@@ -1,0 +1,185 @@
+Đây là Danh sách nhà sản xuất điện thoại lọc theo quốc gia.
+
+
+== Anh ==
+Binatone
+INQ
+Vertu
+
+
+== Ấn Độ ==
+iball
+Karbonn Mobiles
+Celkon Mobiles
+Onida Electronics
+Videocon
+Reliance Communications
+Micromax Mobile
+XOLO
+Simmtronics
+Spice Digital
+
+
+== Bangladesh ==
+Walton
+
+
+== Brazil ==
+Gradiente
+
+
+== Canada ==
+BlackBerry
+
+
+== Các Tiểu vương quốc Ả Rập Thống nhất ==
+Thuraya
+
+
+== Colombia ==
+Avvio
+
+
+== Cộng hòa Séc ==
+Jablotron
+Verzo
+
+
+== Đài Loan ==
+Acer
+Asus
+BenQ
+DBTel
+Dopod
+Gigabyte Technology
+E-TEN
+HTC
+
+
+== Đan Mạch ==
+Lumigon
+
+
+== Đức ==
+AEG
+Grundig Mobile
+Telefunken
+Siemens
+
+
+== Hà Lan ==
+Fairphone
+John's Phone
+Philips
+
+
+== Hàn Quốc ==
+KT Tech
+LG
+Pantech
+Samsung
+
+
+== Indonesia ==
+Nexian
+
+
+== Latvia ==
+Just5
+
+
+== Malaysia ==
+M Dot
+
+
+== Mexico ==
+Kyoto Electronics
+Lanix
+Zonda
+
+
+== Mỹ ==
+Apple
+BLU
+Firefly
+Garmin
+InfoSonics
+Motorola Mobility
+Palm
+Sonim
+Black Berry
+
+
+== Nhật Bản ==
+
+
+== Nga ==
+Gresso
+Sitronics
+Yota
+
+
+== Pakistan ==
+QMobile
+
+
+== Pháp ==
+Alcatel
+Archos
+Bull
+MobiWire (trước là Sagem Wireless)
+Thomson
+
+
+== Phần Lan ==
+Jolla
+Twig Com (formerly known as Benefon)
+Nokia
+
+
+== Philippines ==
+Cherry Mobile
+
+
+== Tây Ban Nha ==
+GeeksPhone
+Vitelcom
+
+
+== Thụy Điển ==
+Doro
+Nautiz by Handheld Group
+
+
+== Thái Lan ==
+DTAC Phone
+True Phone
+Wellcom
+
+
+== Tunisia ==
+Evertek
+
+
+== Trung Quốc ==
+
+
+== Việt Nam ==
+Mobiistar
+Qmobile, nay là Q.
+Masscom với các nhãn hiệu Masstel và Massgo.
+BKAV
+FPT Mobile
+VNPT
+Bavapen
+Viettel
+
+
+== Ý ==
+Brondi
+Olivetti
+Onda Mobile Communication
+Telit
+
+
+== Tham khảo ==

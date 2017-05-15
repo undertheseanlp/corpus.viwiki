@@ -1,0 +1,154 @@
+Google là một công ty Internet có trụ sở tại Hoa Kỳ, được thành lập vào năm 1998. Sản phẩm chính của công ty này là công cụ tìm kiếm Google, được nhiều người đánh giá là công cụ tìm kiếm hữu ích và mạnh mẽ nhất trên Internet. Trụ sở của Google tên là "Googleplex" tại Mountain View, California. Giám đốc công ty là Larry Page, một trong hai người sáng lập ra công ty. Tên "Google" là một lỗi chính tả của từ googol, bằng 10100. Google chọn tên này để thể hiện sứ mệnh của công ty để sắp xếp số lượng thông tin khổng lồ trên mạng. Googleplex, tên của trụ sở Google, có nghĩa là 10googol.
+Đầu năm 2012, Google đứng đầu trong danh sách 100 công ty có môi trường làm việc tốt nhất ở Mỹ do tạp chí Fortune bình chọn với tỷ lệ tăng trưởng việc làm trong năm 2011 là 33%.
+Tháng 8 2015, Google thông báo kế hoạch tái cơ cấu tập đoàn dưới một công ty mẹ mới có tên là Alphabet Inc.. Đầu năm 2016,Google là công ty đầu tiên vượt mặt Apple để trở thành công ty có giá trị thị trường lớn nhất thế giới với 570 tỷ USD vốn hóa và Apple xếp thứ 2 với 535 tỷ USD.
+Tính đến tháng 9 năm 2016, Google là trang web được nhiều người truy cập nhất trên thế giới, đứng vị trí thứ 2 và thứ 3 là YouTube và mạng xã hội Facebook.
+
+
+== Lịch sử ==
+
+
+=== Ban đầu ===
+Đầu tiên (1996), Google là một công trình nghiên cứu của Larry Page và Sergey Brin, hai nghiên cứu sinh tại trường Đại học Stanford. Họ có giả thuyết cho rằng một công cụ tìm kiếm dựa vào phân tích các liên hệ giữa các website sẽ đem lại kết quả tốt hơn cách đang được hiện hành lúc bấy giờ (1996). Đầu tiên nó được gọi là BackRub (Gãi lưng) tại vì hệ thống này dùng các liên kết đến để ước tính tầm quan trọng của trang.
+Page và Brin tin rằng những trang có nhiều liên kết đến nhất từ các trang thích hợp khác sẽ là những trang thích hợp nhất. Họ đã quyết định thử nghiệm giả thuyết trong nghiên cứu của họ, tạo nền móng cho công cụ Google hiện đại bây giờ. Tên miền www.google.com được đăng ký ngày 15 tháng 9 năm 1997. Họ chính thức thành lập công ty Google, Inc. ngày 7 tháng 9 năm 1998 tại một ga ra của nhà Esther Wojcicki (cũng là nhân viên thứ 16 của Google, Phó Chủ tịch cấp cao, phụ trách bộ phận quảng cáo) tại Menlo Park, California. Trong tháng 2 năm 1999, trụ sở dọn đến Palo Alto, là thành phố có nhiều trụ sở công ty công nghệ khác. Sau khi đổi chỗ hai lần nữa vì công ty quá lớn, trụ sở nay được đặt tại Mountain View, California tại địa chỉ 1600 Amphitheater Parkway vào năm 2003.
+Công cụ tìm kiếm Google được nhiều người ủng hộ và sử dụng vì nó có một cách trình bày gọn và đơn giản cũng như đem lại kết quả thích hợp và nâng cao. Trong năm 2000, Google đã bắt đầu bán quảng cáo bằng từ khóa để đem lại kết quả thích hợp hơn cho người dùng. Những quảng cáo này chỉ dùng văn chứ không dùng hình để giữ chất đơn giản của trang và tránh sự lộn xộn và đồng thời để trang được hiển thị nhanh hơn.
+Google nhận được bằng sáng chế cho kỹ thuật sắp xếp trang web PageRank ngày 4 tháng 9 năm 2001. Bằng đưa quyền cho Đại học Stanford và liệt kê Larry Page là người sáng chế.
+Trong tháng 2 năm 2003 Google mua được Pyra Labs, công ty chủ của Blogger, một trong những website xuất bản weblog lớn nhất.
+Đầu năm 2004, khi Google ở tột đỉnh, Google đã xử lý trên 80% số lượng tìm kiếm trên Internet qua website của họ và các website của khách hàng như Yahoo!, AOL, và CNN. Sau khi Yahoo! bỏ Google để dùng kỹ thuật họ tự sáng chế vào tháng 2 năm 2004, số này đã bị tuột xuống.
+Phương châm của Google là "Không làm ác" (Don't be evil). Biểu trưng của họ có khi được sửa đổi một cách dí dỏm vào dịp những ngày đặc biệt như ngày lễ hay sinh nhật của một nhân vật quan trọng. Giao diện của Google gồm trên 100 ngôn ngữ, kể cả tiếng Việt và một số ngôn ngữ dí dỏm như tiếng Klingon và tiếng Leet. Vào ngày Cá tháng tư (tiếng Pháp: poisson d'avril, tiếng Anh: April Fool's Day) Google thường tung ra nhiều tin hài hước về công ty.
+
+
+=== Phát hành cổ phiếu lần đầu ===
+
+Vào tháng 1 năm 2004, Google tuyên bố đã thuê công ty Morgan Stanley và Goldman Sachs Group để tổ chức phát hành cổ phiếu lần đầu ra công chúng. Google chọn cách bán cổ phiếu bằng đấu giá, một điều hiếm có. Từ khi ra thị trường, giá Google đã lên đến gần $200 mỗi cổ phiếu từ $85 lúc đầu. Giá thị trường của Google đến nay là trên 527 tỷ đô la.Google còn nắm giữ kỷ lục tăng giá trị thị trường 65 tỷ trong 1 ngày.
+
+
+== Sự phát triển ==
+Khi thị trường ban đầu của công ty là trên thị trường web, Google đã bắt đầu thử nghiệm ở một số thị trường khác, ví dụ như Phát thanh hoặc Xuất bản. Ngày 17 tháng 1 năm 2006, Google công bố rằng công ty đã mua lại công ty quảng cáo phát thanh dMarc, công ty đã sử dụng một hệ thống tự động, cho phép các công ty quảng cáo trên radio. Điều này sẽ giúp Google kết hợp 2 kênh quảng cáo truyền thông là Internet và Radio, với khả năng của Google, nhắm thẳng vào tâm lý khách hàng. Google cũng bắt đầu thử nghiệm bán quảng cáo trên các kênh quảng cáo offline của công ty, như trên báo và tạp chí, với các quảng cáo được lựa chon trên Chicago-Sun Times. Họ đã lấp được một chỗ trống không bán được trên tờ báo mà trước đấy thường được dùng vào việc quảng cáo nhà.
+Google được đưa vào danh sách 500 S&P index ngày 30 tháng 3 năm 2006, chiếm vị trí của Burlington Resources, một nhà sản xuất dầu chính ở Houston.Đến năm 2016 Google có 6 sản phẩm đạt trên 1 tỷ người sử dụng là Search,Chrome,Youtube,Play Store,Maps,Gmail,hệ điều hành Android.
+
+
+== Các thương vụ mua bán và sự cộng tác ==
+
+
+=== Các thương vụ mua bán ===
+Từ năm 2001, Google đã mua được nhiều công ty nhỏ mới thành lập, thường là công ty có nhiều sản phẩm và đội ngũ nhân viên tốt. Một trong những công ty mà Google mua lại sớm nhất là Pyra Labs. Họ chính là những người sáng tạo ra Blogger, một nền tảng của việc xuất bản weblog, giới thiệu lần đầu tiên vào năm 1999. Pyra Labs ban đầu được lập ra bởi Evan Williams, khi anh này rời Google vào năm 2004. Đầu năm 2006, Google mua lại Upstartle, một công ty chịu trách nhiệm xử lý từ ngữ trên mạng, Writely. Công nghệ của sản phẩm này rốt cuộc đã được Google sử dụng để tạo ra Google Docs & Spreadsheets.
+Tháng 2 năm 2006, công ty phần mềm Adaptive Path bán Measure Map, một ứng dụng thống kê weblog cho Google.
+Cuối năm 2006, Google mua lại trang web chia sẻ video trực tuyến YouTube với giá 1,65 tỷ USD bằng cổ phần. Không lâu sau, 31 tháng 10 năm 2006, Google công bố họ đã mua lại Jotspot, một nhà phát triển của công nghệ wiki cho các website cộng đồng.
+Ngày 13 tháng 4 năm 2007, Google đạt được thỏa thuận mua lại DoubleClick. Google đã đồng ý mua lại công ty này với giá 3,2 tỷ USD.
+Ngày 15 tháng 8 năm 2011, Google tuyên bố sẽ mua Motorola Mobility với giá 12,5 tỷ USD.
+
+
+=== Sự cộng tác ===
+Năm 2005, Google gia nhập hiệp hội với các công ty và tổ chức chính phủ khác để phát triển phần mềm và dịch vụ. Google công bố mối cộng tác với NASA Ames Reseach Center, xây dựng đến 1 triệu phòng chuyên trách và làm việc trong đề án nghiên cứu bao gồm Quản lý dữ liệu trên diện rộng, công nghệ nano, sắp xếp công việc sử dụng máy tính… Google cũng tham gia cộng tác với Sun Microsystem để chia sẻ và phân loại các công nghệ của nhau. Công ty cũng tham gia cộng tác với American Online của Time Warner để cải tiến dịch vụ video trực tuyến.
+Năm 2007, Google và New Corp.’s Fox Interactive Media tham gia vào bản hợp đồng trị giá 900 triệu USD để phục vụ tìm kiếm vào quảng cáo trên trang mạng xã hội nổi tiếng, Myspace.
+Ngày 22 tháng 3 năm 2010, Google rời khỏi thị trường khổng lồ Trung Quốc (tuy nhiên, các dịch vụ bản đồ trực tuyến và âm nhạc vẫn tiếp tục hoạt động). Google đóng cửa website google.cn, và thay vào đó chuyển tới trang google.com.hk để tránh bị kiểm duyệt nội dung. Nguyên nhân chính được cho là vì bất đồng quan điểm với chính quyền Trung Quốc. Ngày 30 tháng 3 năm 2010, mọi cách tìm kiếm bằng google (không chỉ google.cn mà còn các ngôn ngữ khác như google.co.jp. Google.com.au,..), bao gồm cả Google Mobile, đều bị chặn ở Trung Quốc. Hai dịch vụ như Google Mail và Google Maps không bị ảnh hưởng. Lệnh cấm được dỡ bỏ vào ngày hôm sau. http://www.google.com/prc/report.html
+
+
+== Sản phẩm ==
+Google hiện nay đã phát triển nhiều dịch vụ và công cụ cho cộng đồng chung cũng như trong lĩnh vực kinh doanh, bao gồm các ứng dụng Web, mạng lưới Quảng cáo và giải pháp kinh doanh.
+
+
+=== Quảng cáo ===
+Phần lớn thu nhập của Google đến từ các chương trình Quảng cáo trực tuyến. Google AdWords cho phép các đối tượng có nhu cầu Quảng cáo đăng Quảng cáo của mình trên kết quả tìm kiếm của Google và trên Google Content Network qua phương thức cost-per-click (trả tiền qua số lần click vào Quảng cáo) hoặc cost-per-view (trả tiền qua số lần xem Quảng cáo). Chủ các trang web Google AdSense cũng có thể hiển thị quảng cáo trên trang của họ và kiếm tiền mỗi lần banner quảng cáo được Click.
+
+
+=== Ứng dụng ===
+
+Google nổi tiếng bởi dịch vụ Tìm kiếm của nó, nhân tố chính dẫn đến thành công của Google. Vào tháng 12 năm 2006, Google là công cụ tìm kiếm được sử dụng nhiều nhất trên mạng chiếm 50,8% thị phần, vượt xa so với Yahoo (23,6 %) và Window Live Search (8,4%). Google liên kết với hàng tỷ trang web, vì thế người sử dụng có thể tìm kiếm thông tin mà họ muốn thông qua các từ khóa và các toán tử. Google cũng tận dụng công nghệ tìm kiếm của mình vào nhiều dịch vụ tìm kiếm khác, bao gồm Image Search (tìm kiếm ảnh), Google News, trang web so sánh giá cả Froogle, cộng đồng tương tác Google Groups, Google Maps và còn nhiều nữa.
+Năm 2004, Google ra mắt dịch vụ email trên nền web, gọi là Gmail. Gmail hỗ trợ công nghệ lọc thư rác và khả năng sử dụng Công nghệ tìm kiếm của Google để tìm kiếm thư. Dịch vụ này tạo ra thu nhập bằng cách hiển thị quảng cáo từ dịch vụ AdWords mà phù hợp với nội dung của email hiển thị trên màn hình
+Đầu năm 2006, Google ra mắt dịch vụ Google Video, dịch vụ không chỉ cho phép người dùng tìm kiếm và xem miễn phí các video có sẵn mà còn cho người sử dụng hay các nhà phát hành khả năng phát hành nội dung mà họ muốn, kể cả các chương trình truyền hình trên CBS, NBA và các video ca nhạc. Nhưng đến tháng 8 năm 2007, Google đã đóng cửa trang web này trước sự cạnh tranh của đối thủ Youtube cũng thuộc sở hữu của công ty
+Google cũng đã phát triển một số ứng dụng nhỏ gọn, bao gồm cả Google Earth, một chương trình tương tác sử dụng ảnh vệ tinh. Ngoài ra công ty còn phát triển nhiều gói phần mềm văn phòng trên ứng dụng web tên là Google Docs nhằm cạnh tranh thị phần với Microsoft Office.
+Nhiều ứng dụng khác nữa có tại Google Labs, một bộ sưu tập những phần mềm chưa hoàn chỉnh. Chúng đang được thử nghiệm để có thể đưa ra sử dụng trong cộng đồng.
+Google đã đẩy mạnh quảng bá sản phẩm của họ bằng nhiều cách khác nhau. Ở London, Google Space được cài đặt tại sân bay Healthrow, ra mắt nhiều sản phẩm mới, bao gồm Gmail, Google Earth và Picasa. Ngoài ra, một trang web tương tự cũng được ra mắt cho sinh viên Mỹ dưới cái tên College Life, Powered by Google.
+Vào ngày 2 tháng 9 năm 2008, Google đã thông báo sự xuất hiện của Google Chrome, một trình duyệt mã nguồn mở. Trình duyệt này được giới phân tích đánh giá sẽ là đối thủ cạnh tranh thị phần của Internet Explorer và Firefox.Cũng vào khoảng thời gian này Google Translate đã bổ sung thêm tiếng Việt trong dịch vụ dịch tự động của mình và tích hợp ngay trong công cụ tìm kiếm, giúp người sử dụng nhanh chóng hiểu được cơ bản nội dung trang web trình bày bằng tiếng nước ngoài.
+Ngày 5 tháng 1 năm 2010, Google cho ra mắt điện thoại Nexus One, sản phẩm cộng tác với hãng điện thoại HTC. Nexus One chạy trên nền hệ điều hành Android 2.1 (cũng do hãng phát triển), được cho là đối thủ cạnh tranh ngang hàng với iPhone của Apple.
+
+
+=== Sản phẩm phục vụ kinh doanh ===
+Năm 2007, Google giới thiệu Google Apps Premium Edition, một phần mềm phù hợp cho việc kinh doanh, cung cấp dịch vụ email, tin nhắn, lịch…như một chương trình bảng tính. Sản phẩm này chủ yếu nhắm tới người sử dụng là doanh nhân, dùng để cạnh tranh trực tiếp với bộ phần mềm Microsoft Office, với giá chỉ 50USD một năm cho một người sử dụng, so với giá 500USD cho một người sử dụng của Microsoft Office. Google có một số lượng lớn người sử dụng Google App với 38.000 người ở Đại học Lakehead tại Thunder Bay, Ontario, Canada.
+Cũng vào năm 2007, Google đã mua lại công ty Postini và sẽ tiếp tục phát triển công nghệ mà họ mua được từ công ty này và đặt tên là Google Security Services.
+
+
+== Các dịch vụ chính ==
+Blogger: Dịch vụ blog miễn phí của Google
+Froogle: Tìm hàng hóa để mua (đã ngừng hoạt động, chuyển sang Google Products)
+Gmail: Dịch vụ thư điện tử
+Google Alerts: Nhận tin tức và kết quả tìm kiếm qua thư điện tử
+Google Answers: Dịch vụ trả lời có lệ phí (đã ngừng hoạt động) Website
+Google Apps: Kho ứng dụng dành cho doanh nghiệp
+Google Buzz: Mạng xã hội (đã ngừng hoạt động)
+Google Calendar: Ứng dụng lịch trực tuyến
+Google Catalogs: Ứng dụng đưa các catalog (đã ngừng hoạt động, chuyển sang Google Book Search)
+Google Code: Phát triển mã nguồn và lưu trữ các dự án mã nguồn mở
+Google Cultural Institute: Viện bảo tàng tranh vẽ lớn
+Google Docs: Công cụ soạn thảo văn bản, bảng tính và trình chiếu trực tuyến
+Google Directory: Thư mục lấy từ Open Directory Project
+Google Groups: Diễn đàn
+Google Flights: Đặt chuyến bay Website
+Google Images Search: Tìm kiếm hình ảnh
+Google Input Tools
+Google Labs: Thử nghiệm các ứng dụng và công cụ mới
+Google Language Tools: Đã chuyển sang Google Translate
+Google Local: Bản đồ địa phương (đã ngừng hoạt động, chuyển sang Google Maps)
+Google Maps: Bản đồ, chỉ hướng, hình từ vệ tinh toàn thế giới. Dịch vụ này của Google cho phép tạo bản đồ cá nhân và yêu cầu có một tài khoản Google.
+Google Mobile: Sử dụng Google trên điện thoại di động
+Google News: Tin tức
+Google Pages Creator: Upload, lưu trữ file, tạo trang web trực tuyến miễn phí (đã ngừng hoạt động, chuyển sang Google Sites)
+Google Print: Phiên bản sách in cũ, hiện đã chuyển sang Google Book Search
+Google Reader: Trình đọc tin trực tuyến
+Google Scholar: Tìm kiếm kho học liệu
+Google SMS: Dịch vụ gởi tin nhắn miễn phí (đã ngừng hoạt động)
+Google Sites: Ứng dụng làm trang web miễn phí
+Google Shopping: Mua bán với Google
+Google Translate: Công cụ dịch thuật trực tuyến hỗ trợ 65 ngôn ngữ khác nhau (tính đến 01/2013)
+Google Video: Đăng tải video (đã ngừng cho phép tải video mới, chuyển sang dịch vụ YouTube)
+Google Voice: Bạn có thể gọi điện từ tài khoản Gmail của mình từ danh sách Google Trò chuyện của bạn hoặc email của bạn
+Google Web Accelerator: Truy cập trang web nhanh hơn
+Google Web Albums: Quản lý lưu trữ hình ảnh, xuất bản hình ảnh trên web
+Google+: Mạng xã hội
+iGoogle: Trang chủ Google cá nhân tùy biến (đã ngừng hoạt động vào ngày 1 tháng 11 năm 2013)
+Panoramio: Mạng xã hội chia sẻ ảnh
+Webmaster Tools: Công cụ quản lý trang web trên máy chủ tìm kiếm của Google
+YouTube: Đăng tải video và ứng dụng xã hội với video
+
+
+=== Chương trình ===
+Google Adwords: Chương trình quảng cáo dành cho các doanh nghiệp muốn quảng cáo trên Google và các trang đối tác
+Google Adsense: Dịch vụ dành cho đối tác muốn đưa quảng cáo Google lên trang web của mình
+
+
+=== Ứng dụng để bàn ===
+Google Deskbar
+Google Desktop Search
+Google Earth: Xem bản đồ 3D của Google
+Google Moon: Xem bản đồ 3D của mặt trăng từ Google
+Orkut
+Picasa
+Google GO: Ngôn ngữ lập trình
+Google Toolbar: Thanh công cụ trên Internet Explorer
+Google Chrome: Trình duyệt web
+Google Sidewiki: Ghi chú và nhận xét về các trang web mà người dùng xem
+
+
+== Doanh thu hàng năm ==
+Cuối năm 2004, Google thu được 1,837 tỉ USD, trong đó quý ba thu được 805,9 triệu USD, quý bốn là 1,032 tỉ USD.
+Cuối năm 2005, Google khai báo thu nhập 6,137 tỉ USD, trong đó 1,256 tỉ USD là của quý một; 1, 384 tỉ của quý hai; 1,578 tỉ USD là quý ba và 1,919 tỉ USD là doanh thu đạt được trong quý bốn.
+Cuối năm 2006, Google kiếm được 10,61 tỉ USD, trong đó quý một là 2,25 tỉ USD, quý hai là 2,46 tỉ, quý ba là 2,69 tỉ, và quý bốn là 3,21 tỉ USD.
+Năm 2007 đạt doanh thu 16,59 tỉ USD, trong đó quý một là 3,66 tỉ USD, quý hai là 3,87 tỉ, quý ba là 4,23 tỉ, và quý bốn là 4,83 tỉ USD.
+Năm 2008, doanh thu đạt 21,86 tỉ USD, trong đó quý một là 5,19 tỉ, quý hai là 5,37 tỉ, quý 3 là 5,54 tỷ, và quý bốn là 5,70 tỷ.
+Năm 2009, Google kiếm được 23,64 tỷ USD. Quý một là 5,51 tỷ, quý hai là 5,52 tỷ, quý ba là 5,94 tỷ, và quý 4 là 6,67 tỷ USD.
+Năm 2010, Google thu được 29,32 tỷ USD. Quý một là 6,77 tỷ, quý hai là 6,82 tỷ, quý ba là 7,29 tỷ, và quý bốnlà 8,44 tỷ USD.
+Năm 2011, doanh thu đạt 37,1 tỷ USD, trong đó quý một là 8,58 tỷ, quý hai là 9,03 tỷ, quý ba là 9,72 tỷ, và quý bốn là 10,58 tỷ USD.
+Năm 2012, Google đạt 51,38 tỷ USD, quý một là 10,65 tỷ, quý hai là 12,21 tỷ, quý ba là 14,10 tỷ, và quý bốn là 14,42 tỷ USD.
+Năm 2013, quý 1 là 13,969 tỷ USD, quý 2 là 14,105 tỷ USD, quý 3 là 14,893 tỷ USD, quý 4 là 16,858 tỷ USD.
+
+
+== Nguồn tham khảo ==
+
+
+== Liên kết ngoài ==
+Google tiếng Việt
+Google Google - Kỳ 1: Quan tâm tới điều không thể DAVID VISE và MARK MALSEED(Khánh Chi dịch), trên Báo Tuổi Trẻ. 02/12/2006 05:01 GMT+7
+Loạt bài về Google trên Việt Nam Net năm 2006: kỳ 1, kỳ 2, kỳ 3 và kỳ 4.
+Mổ xẻ nền văn hóa Google từ... toilet (Kỳ I). Trọng Cầm (Theo Washington Post). VietNamNet Cập nhật lúc 16:10, Thứ Hai, 29/01/2007 (GMT+7)
+Hướng dẫn đăng ký website vào Google.

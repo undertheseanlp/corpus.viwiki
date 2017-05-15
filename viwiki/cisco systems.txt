@@ -1,0 +1,25 @@
+Tập đoàn Hệ thống Cisco được thành lập năm 1984 bởi hai nhà khoa học về máy tính và bắt đầu trở nên nổi tiếng năm 1990. Sản phẩm đầu tiên của công ty là "Bộ định tuyến", kết nối với phần mềm và phần cứng hoạt động như hệ thống giao thông trên tổ hợp mạng TCP/IP1 để tạo ra mạng Internet (Giống trong các doanh nghiệp gọi là Intranet – Mạng nội bộ).
+Với sự phát triển của công nghệ Internet, nhu cầu về các sản phẩm của Cisco bùng phát và nhanh chóng công ty trở nên thống trị thị trường Internet. Vào năm 1997, đây là năm đầu tiên công ty được lọt vào Bảng xếp hạng danh sách 500 công ty lớn nhất Hoa Kỳ tính theo tổng thu nhập. Theo đó, Cisco được bầu chọn trong top 5 công ty lớn nhất về chỉ số về lợi nhuận trên tổng tài sản và lợi nhuận trên doanh thu. Chỉ có 2 cong ty khác là Intel và Microsoft cũng từng đạt được thành tựu đó.
+Vào ngày 17 tháng 7 năm 1998, sau 14 năm thành lập, vốn hóa thị trường của Cisco đã vượt qua mốc 100 triệu USD (gấp 15 lần doanh thu năm 1997). Một số chuyên gia trong ngành công nghiệp này đã nhận định rằng Cisco sẽ là một trong 3 công ty lớn nhất – song song với Microsoft và Intel – góp phần hình thành nên cuộc cải cách kỹ thuật số.
+Ông Don Valentine, đối tác của Sequoia Capital và Phó chủ tịch Hội đồng quản trị Cisco, là người đầu tiên đầu tư vào Cisco. Ông đã nắm lấy cơ hội đầu tư công ty non trẻ này trong khi các chuyên gia tài chính khác tỏ ra rất thận trọng. Cách mà Valentine có thể đảm bảo được khoản đầu tư ban đầu của mình 2,5 triệu USD là duy trì quyền điều hành doanh nghiệp khi ông thấy là thích hợp.
+Vào năm 1998, Valentine đã thuê John Morgride làm Giám đốc điều hành. Morgride là chuyên gia trong lĩnh vực công nghiệp máy tính, nên ngay lập tức ông bắt tay vào việc xây dựng đội ngũ quản lý chuyên nghiệp. Đội ngũ này nhanh chóng có những xung đột với những nhà sáng lập Cisco và, sau khi Cisco chào bán cổ phần lần đầu ra công chúng vào năm 1990, cả hai nhà sáng lập đã bán hết số cổ phần của họ và rời khỏi công ty. Sự ra đi này đã khiến cho Morgride được tự do tiếp tục kế hoạch lắp đặt một cơ cấu điều hành hệ thống một các hoàn hảo.
+Morgride tin tưởng rằng rất nhiều doanh nghiệp tại Thung Lũng Silicon sẽ phân quyền một cách nhanh chóng và ông không đánh giá cao khả năng minh chứng cho các cơ quan chức năng trong việc phát triển mà không cần có công cụ quản lý hoàn hảo. Theo đó, Morgride đã duy trì một tổ chức chức năng tập trung. Trong khi bộ phận Marketing Sản phẩm và bộ phận Nghiên cứu và Phát triển được phân quyền thành 3 "Hình thức kinh doanh" (Doanh nghiệp, Doanh nghiệp nhỏ và vừa, Nhà cung cấp dịch vụ, thì Bộ phận sản xuất, hỗ trợ khách hàng, tài chính, nhân sự, công nghệ thông tin và các tổ chức kinh doanh được duy trì quản lý một cách tập trung.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Cisco Systems Home Page
+Cisco on Cisco: Inside Cisco IT Cisco IT case studies, best practices, presentations, video
+Cisco Networking Academy
+Cisco Press
+Forum cisco
+Cisco Blogs Home Page
+Information on Cisco Certifications
+Interactive Overview - 20 Years of Cisco
+Video and audio of speech by CEO John Chambers at Duke University
+USA Today Q&A with CEO John Chambers
+Interview with former CEO, John Morgridge, by Stanford students of iinnovate
+Cisco Announces Definitive Agreement to Acquire Pure Networks
+Network Magic (previously owned by Pure Networks) Home Page

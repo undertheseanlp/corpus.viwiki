@@ -1,0 +1,10 @@
+Động cơ phản lực (ĐCPL) là động cơ nhiệt tạo ra lực đẩy theo nguyên lý phản lực, trong đó, có sự biến đổi thế năng nhiên liệu thành động năng dòng phản lực của môi chất làm việc. Như vậy, ĐCPL hoạt động theo nguyên lý của định luật ba Newton (Đối với mỗi lực tác động bao giờ cũng có một phản lực cùng độ lớn, nói cách khác, các lực tương tác giữa hai vật bao giờ cũng là những cặp lực cùng độ lớn, cùng phương, ngược chiều và khác điểm đặt.).
+ĐCPL được sử dụng rộng rãi trong máy bay phản lực, tên lửa, xe tăng, tàu thủy và các thiết bị vũ trụ. ĐCPL có hai loại cơ bản là Động cơ phản lực không khí và Động cơ tên lửa. Tuy nhiên, trong Tiếng Việt, khi nói đến ĐCPL thì lại hay bị hiểu ngay là Động cơ phản lực không khí dùng trong các máy bay phản lực và điều này là không đúng.
+Một ĐCPL thông thường có buồng cháy và loa phụt. Trong buồng cháy, xảy ra quá trình giải phóng hóa năng của nhiên liệu và biến đổi nó thành nhiệt năng của dòng khí. Trong loa phụt, thế năng của dòng khí được biến đổi thành động năng của nó với vận tốc lớn hơn rất nhiều và khi đó dòng khí được phụt ra sau khi ra khỏi loa phụt sẽ tạo thành lực đẩy phản lực. Dạng loa phụt phổ biến ngày nay ứng dụng trong các động cơ phản lực là Loa phụt Laval.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Video ví dụ về thử nghiệm ĐCPL

@@ -1,0 +1,145 @@
+iPod là dòng máy nghe nhạc của Apple. Các loại iPod ban đầu thường có giao diện đơn giản với trung tâm ở bánh trượt (trừ iPod shuffle). iPod hiện nay gồm 4 dòng chính: loại siêu nhỏ iPod Shuffle, loại trung iPod Nano, loại cảm ứng iPod Touch (gần giống iPhone), loại ổ cứng iPod Classic. iPod Classic sử dụng ổ cứng gắn liền làm bộ nhớ, còn lại đều sử dụng ổ flash. Đa phần như những máy nghe nhạc khác, iPod có thể làm thiết bị lưu trữ dữ liệu khi gắn vào máy tính. Những loại iPod bị gián đoạn kể cả hai thế hệ iPod mini phổ biến và bốn thế hệ iPod lớn bình thường, tất cả có màn đơn sắc, trừ ra iPod thế hệ thứ tư có màn hình màu (đầu tiên được bán dưới tên iPod photo trước khi nó thay cho iPod đơn sắc làm loại iPod chính).
+Theo tháng 1 năm 2006, đội hình bao gồm iPod thế hệ thứ năm có thể chơi video, iPod nano với màn màu, và iPod shuffle; cả ba được phát hành năm 2005. Hiện nay iPod là máy nghe nhạc nén phổ biến nhất. Phần mềm bên cạnh iPod dùng để truyền nhạc, hình ảnh, và video lên tới iPod được gọi iTunes. iTunes là chương trình chơi nhạc mà lưu giữ thư viện đựng cả âm nhạc trên máy của người dùng, và cũng có thể chơi và sao chép nhạc từ CD. Những loại iPod và phiên bản iTunes mới nhất có tính năng chơi video. Có thể lưu giữ định dạng khác vào iPod, làm nó thành đĩa cứng bên ngoài.
+Tháng 2 năm 2006, iPod là máy nghe nhạc số phổ biến nhất ở Mỹ, với thị phần chiếm hơn 70% và 42 triệu máy iPod đã được bán.
+iPod luôn là sản phẩm được ưa chuộng, tuy nhiên doanh số bán ra của iPhone và iPad đã vượt qua iPod trong những năm gần đây(2012-2013).
+
+
+== Các dòng iPod ==
+
+
+=== iPod Classic ===
+
+
+==== iPod thế hệ 1 (23/10/2001) ====
+iPod thế hệ 1 đánh dấu sự ra đời của thương hiệu máy nghe nhạc iPod. Hệ máy đầu tiên này được Apple cho ra mắt vào ngày 23 tháng 10 năm 2001. Thế hệ đầu tiên này dùng màn hình đen trắng, sử dụng hệ thống điều khiển với các nút bấm vật lý (scroll wheel) và ra mắt dưới 2 phiên bản dung lượng bộ nhớ là 5GB và 10GB. Với phiên bản 5GB, nó có thể lưu trữ khoảng 1000 bài nhạc mp3 chất lượng 160kb/s, pin có thời lượng 10 tiếng. Tại thời điểm đó, Apple bán ra bản 5GB với giá 400USD, bản 10GB là 500USD.
+
+
+==== iPod thế hệ 2 (17/07/2002) ====
+Vào năm 2002, Apple nâng cấp iPod lên thế hệ cao hơn. Kiểu dáng của phiên bản này tương tự bản trước đó. Ngoài nâng cấp về dung lượng bộ nhớ từ 5GB & 10GB lên thành 10GB & 20GB thì iPod thế hệ thứ hai còn có thêm chức năng cảm ứng đi kèm với nút bấm vật lý. Cả hai thế hệ đầu này đều dùng cổng kết nối Firewire chứ chưa dùng chuẩn kết nối USB thông thường.
+
+
+==== iPod thế hệ 3 (28/04/2003) ====
+Một năm sau đó, Apple ra mắt thế hệ 3 của iPod với nhiều mức dung lượng bộ nhớ hơn: 10GB, 15GB, 20GB, 30GB và 40GB. Ở phiên bản này, các nút chức năng như chạy/tạm dừng, chuyển bài...đã được chuyển lên một hàng phía trên bàn rê cảm ứng. Thời gian sử dụng pin của iPod thế hệ 3 đã giảm từ 10 tiếng xuống còn 8 tiếng do Apple chuyển sang dùng loại pin Li-ion thay vì Li-polymer. Tháng 9 năm 2003, Apple phát hành phần mềm iTunes phiên bản dành cho HĐH Windows của Microsoft, giúp các máy iPod có thể kết nối và đồng bộ với Windows.
+
+
+==== iPod thế hệ 4 (19/07/2004) ====
+iPod Photo
+Từ phiên bản mới này, các nút bấm vật lý đã bị loại bỏ hoàn toàn. Thay vào đó nó thừa hưởng công nghệ cảm ứng clickwheel từ iPod Mini, cùng với đó là thiết kế đẹp hơn, mỏng và nhẹ hơn. iPod thế hệ này có 2 mức dung lượng là 20GB và 40GB. Hai phiên bản khác của iPod thuộc thế hệ 4 cũng được Apple giới thiệu đó là iPod Photo và iPod Color với màn hình màu và khả năng xem ảnh, mức dung lượng lớn nhất đạt 60GB.
+
+
+==== iPod thế hệ 5 (12/10/2005) ====
+iPod thế hệ 5 là đợt nâng cấp đánh dấu bước ngoặt của Apple, nó có thiết kế khác các bản trước đó với màn hình to hơn, mỏng và nhẹ hơn cùng với khả năng chơi video. Năm 2006, Apple nâng cấp dung lượng bộ nhớ cho thế hệ này lên cao nhất là 80GB (trước đó là 60GB) đi kèm với bản 30GB. Năm 2005 cũng là năm đánh dấu thời điểm Apple trang bị màn hình màu cho toàn bộ dòng iPod (trừ Shuffle không có màn hình).
+
+
+==== iPod Classic thế hệ 6 (05/09/2007) ====
+Đây là hệ máy đánh dấu tên gọi "Classic" được Apple đưa vào sử dụng. Với nhiều thay đổi đáng kể như vỏ hợp kim nhôm, màu bạc thay thế trắng, giao diện người dùng mới và ra mắt dưới 3 phiên bản gồm 80GB, 120GB và 160GB, giúp thỏa mãn các tín đồ nhạc số di động. Ngoài những cải tiến bên ngoài, thời lượng pin cũng nâng cao đáng kể, phiên bản 160GB có thời gian sử dụng khoảng 40 tiếng cho nghe nhạc và 6 tiếng chơi video. Tới nay, Apple chưa ra mắt thế hệ tiếp theo của dòng iPod Classic này vì vậy thế hệ 6 là mới nhất bây giờ, vả lại với những tính năng mà Apple trang bị cho nó thì chưa cần thiết để nâng cấp dòng iPod lâu đời nhất này.
+
+
+=== iPod Mini ===
+Đúng với tên gọi, Mini là hệ máy iPod nhỏ nhất của "quả táo" tại thời điểm ra mắt (2004). Chỉ có vỏn vẹn hai phiên bản ra mắt năm 2004 và 2005 với dung lượng bộ nhớ là 4GB và 6GB. iPod Mini là chiếc máy đầu tiên mà "quả táo" trang bị tính năng điều khiển cảm ứng (clickwheel), công nghệ này hiện vẫn đang được Apple sử dụng nhờ tính hiệu quả và đơn giản.
+
+
+=== iPod Nano ===
+Nếu đầu năm 2005, Apple ra mắt iPod Mini thế hệ 2 thì cuối năm, họ lập tức giới thiệu chiếc iPod Nano đầu tiên, đây là dòng máy thay thế Mini của Apple. Tính đến nay, iPod Nano trải qua 7 thế hệ với đủ màu sắc thời trang khác nhau.
+
+
+==== iPod Nano thế hệ 1 (07/09/2005) ====
+Apple quảng cáo Nano có độ mỏng chỉ như một chiếc bút chì và nhỏ tí hon. iPod Nano thế hệ 1 là chiếc iPod đầu tiên dùng bộ nhớ flash, nhờ đó giảm thiểu kích thước của iPod trong khi dung lượng không hề giảm. Thế hệ 1 có hai màu đen và trắng gồm các phiên bản 1GB, 2GB và 4GB, màn hình màu, thời gian chơi nhạc đạt 24 tiếng.
+
+
+==== iPod Nano thế hệ 2 (12/09/2006) ====
+Một năm sau, iPod thế hệ 2 ra mắt với nhiều màu sắc hơn (6 màu). Vỏ nhựa của thế hệ trước bị thay bằng vỏ nhôm, một kiểu thiết kế truyền thống của Apple sau này. Nó hiện diện dưới 3 phiên bản 2GB, 4GB và 8GB.
+
+
+==== iPod Nano thế hệ 3 (05/09/2007) ====
+Thế hệ Nano này được trang bị công nghệ màn hình QVGA với kích thước 2", clickwheel thiết kế nhỏ hơn, giao diện người dùng mới (cover flow) và khả năng chơi video. Nó có 2 phiên bản 4GB và 8GB, thời gian dùng pin là 24 tiếng.
+
+
+==== iPod Nano thế hệ 4 (09/09/2008) ====
+Giống như iPhone, iPod Nano thế hệ này được tích hợp gia tốc kế, giúp việc xem ảnh, video ngang màn hình dễ dàng hơn. Vỏ ngoài làm từ nhôm và gồm 9 phiên bản màu sắc khác nhau với các mức dung lượng bộ nhớ là 4GB, 8GB, 16GB.
+
+
+==== iPod Nano thế hệ 5 (09/09/2009) ====
+Nano giờ đây có thể quay video
+Thế hệ này đánh dấu sự tiến hóa của dòng máy nghe nhạc iPod với khả năng quay video. Ngoài ra, nó còn có màn hình lớn hơn, đài FM tích hợp, loa ngoài và vỏ ngoài được sơn bóng bắt mắt hơn. Phiên bản 4GB của thế hệ 4 đã bị loại bỏ, chỉ còn 8GB và 16GB.
+Sản phẩm ngừng bán vào 1/9/2010
+
+
+==== iPod Nano thế hệ 6 (01/09/2010) ====
+Với kích thước siêu nhỏ so với các đời trước đây, chỉ vào khoảng 1.48 x 1.61 x 0.35 inch, iPod Nano thế hệ 6 gây sốc với không ít người hâm mộ. Thay thế cho hệ thống phím điều khiển clickwheel vốn đã tồn tại trên các đời Nano cũ là màn hình cảm ứng đa chạm 1,54 inch (240 x 240 pixel). iPod Nano mới còn đi kèm với tính năng radio FM tích hợp và pin sử dụng liên tục 24 giờ
+Apple phát hành iPod Nano đời mới với 7 màu sắc khác nhau dành cho 2 phiên bản bộ nhớ 8GB và 16GB với giá lần lượt là 129 và 149usd
+
+
+==== iPod Nano thế hệ 7 (12/09/2012) ====
+Chiếc iPod Nano thế hệ mới xuất hiện với thiết kế như một chiếc iPhone tí hon. "Đây là máy nghe nhạc iPod Nano nhất. máy có màn hình 2,5 inch cảm ứng đa điểm với một phím Home như iPhone, các phím điều khiển nhạc nằm ở sườn trái. Một điều rất hấp dẫn là iPod Nano có tới 7 màu sắc khác nhau. Tích hợp FM, hỗ trợ Bluetooth là những điểm nhấn trên sản phẩm nghe nhạc mới của Apple.Máy chỉ có phiên bản 16 gb với giá 149usd
+
+
+=== iPod Shuffle ===
+Nếu như iPod Classic, iPod Nano có màn hình thì Shuffle là chiếc máy nhỏ gọn không có màn hình. Nó là dòng iPod nhỏ nhất của Apple, thế hệ mới nhất chỉ nhỉnh hơn chiếc USB một chút. Nhờ đó có thể kẹp vào áo, quần dễ dàng, không nặng và vướng như iPod Classic.
+
+
+==== iPod Shuffle thế hệ 1 (11/01/2005) ====
+Shuffle được Apple trang bị cổng kết nối USB, có thể cắm trực tiếp vào máy tính. Vì không có màn hình nên Shuffle được bán với mức giá dễ chịu hơn các dòng khác. Bản 512MB có giá 100USD, bản 1GB là 150USD tại thời điểm ra mắt. Ngoại trừ iPod Classic, từ phiên bản này trở đi thì Apple bắt đầu dùng bộ nhớ flash cho các dòng iPod giúp giảm kích thước của máy đáng kể.
+
+
+==== iPod Shuffle thế hệ 2 (12/09/2006) ====
+Nếu thế hệ 1 có thiết kế dạng thanh thì thế hệ 2 này có hình chữ nhật và được tích hợp chiếc kẹp nhỏ phía sau máy. Có hai phiên bản 1GB và 2GB được Apple giới thiệu. Sau này, Apple còn thêm cho chiếc Shuffle thế hệ 2 này 4 màu sắc khác nhau, không chỉ là một màu đơn thuần nữa.
+
+
+==== iPod Shuffle thế hệ 3 (11/03/2009) ====
+Thế hệ này lại quay về kiểu dáng gần giống thế hệ Shuffle đầu tiên, dạng thanh dài, tương tự một chiếc USB và trên thân máy không có nút bấm. Nó có thêm chức năng điều khiển bằng giọng nói (Voice Over) giúp việc chọn bài hát dễ dàng hơn rất nhiều. Đây là thế hệ Shuffle với hai bản 2GB và 4GB, thời lượng pin là 10 tiếng.
+
+
+==== iPod Shuffle thế hệ 4 (01/09/2010) ====
+iPod Shuffle mới có thiết kế cực kỳ nhỏ gọn với kiểu dáng vuông vắn. Điểm đáng chú ý trên phiên bản Shuffle thứ tư vừa ra mắt là sự trở lại của hệ thống phím bấm điều khiển tương tự như các mẫu Shuffle thế hệ đầu tiên và thứ hai. iPod Shuffle mới có 5 màu sắc khác nhau, thời lượng pin sử dụng 15 giờ và giá bán 49 USD cho phiên bản 2gb duy nhất.
+
+
+=== iPod Touch ===
+Touch là dòng máy cao cấp nhất trong đại gia đình iPod, có thiết kế tương tự iPhone. Cho tới bây giờ iPod Touch đã trải qua 5 lần thay đổi, mỗi lần đều được Apple thêm vào một vài nâng cấp: Bluetooth, quay phim HD, màn hình Retina,... Nhiều người gọi đây là bản sao của iPhone mà họ có thể mua không cần hợp đồng 2 năm với nhà mạng.
+
+
+==== iPod Touch thế hệ 1 (05/09/2007) ====
+Thế hệ đầu tiên này được ra mắt cùng năm với iPhone. Được tích hợp công nghệ cảm ứng đa chạm nổi tiếng của Apple, kết nối wifi và một thiết kế sang trọng, bắt mắt. Bề ngoài của iPod Touch hoàn toàn giống iPhone và chức năng bên trong cũng gần như tương tự. Thế hệ đầu có các phiên bản 8GB, 16GB và 32GB.
+
+
+==== iPod Touch thế hệ 2 (09/09/2008) ====
+Một năm sau đó Apple nâng cấp chiếc iPod Touch lên thế hệ 2 với dung lượng bộ nhớ giữ nguyên, vỏ sau được mạ crom sáng bóng. Thời lượng dùng pin cũng được cải thiện đáng kể, nếu thế hệ trước có thể dùng được 22 tiếng nghe nhạc thì ở thế hệ này tăng lên thành 36 tiếng.
+
+
+==== iPod Touch thế hệ 3 (09/09/2009) ====
+Sự kiện "999" của Apple là nơi chiếc iPod Nano thế hệ 5 được giới thiệu, cùng với đó Apple cũng nâng cấp iPod Touch lên thế hệ 3 mới hơn. Những đặc điểm được nâng cấp như đồ họa được cải thiện, 2 phiên bản bộ nhớ lớn hơn, 32GB và 64GB.
+
+
+==== iPod Touch thế hệ 4 (01/09/2010) ====
+iPod thế hệ thứ tư là mẫu iPod có cấu hình và tính năng gần giống với iPhone 4 nhất, khi được trang bị cả camera quay phim HD lẫn camera Face Time,màn hình retina...Đây là mẫu iPod Touch đầu tiên có trang bị camera(2mp).Máy có phiên bản 8,16,32 và 64gb.
+
+
+==== iPod Touch thế hệ 5 (12/09/2012) ====
+iPod Touch thế hệ thứ 5 là sản phẩm sở hữu những thiết kế tương tự như iPhone 5 như màn hình 4 inch...và camera được nâng cấp lên 5mp,có thêm đèn flash. Chiếc máy nghe nhạc này gây ấn tượng khi mỏng chỉ 6,1 mm, mảnh mai hơn cả iPhone 5. Đây là chiếc iPod Touch mỏng và nhẹ nhất từ trước đến nay.Điều gây bất ngờ nhất là iPod Touch thế hệ mới được tích hợp Siri.iPod Touch mới có tới 5 tùy chọn màu sắc khác nhau ở mặt lưng,có thêm phụ kiện để đeo tay và chống rơi khá đặc biệt.Máy được bán với giá lần lượt là 229,299 và 399 usd cho phiên bản 16,32 và 64gb.
+
+
+== Thời điểm phát hành ==
+Tháng 10 năm 2001: iPod (scroll wheel), 5/10 GB
+Tháng 7 năm 2002: iPod (touch wheel), 10/20 GB
+Tháng 4 năm 2003: iPod (Dock Connector), 10/15/20/30/40 GB
+Tháng 1 năm 2004: iPod Mini, 4 GB
+Tháng 7 năm 2004: iPod (click wheel), 20/40 GB
+Tháng 10 năm 2004: iPod U2 Special Edition, 20 GB - iPod Photo, 30/40/60 GB
+Tháng 1 năm 2005: iPod Shuffle, 512 MB/1 GB
+Tháng 2 năm 2005: iPod Mini (2. generation), 4/6 GB
+Tháng 5 năm 2005: iPod (màn hình màu), 20/60 GB - iPod U2 Special Edition (màn hình màu), 20 GB
+Tháng 9 năm 2005: iPod Nano, 1/2/4 GB
+Tháng 10 năm 2005: iPod (5. generation), 30/60 GB
+Tháng 10 năm 2006: iPod U2 Special Edition (5. generation), 30 GB
+Tháng 9 năm 2006: iPod nano 2G,ipod shuffle 2G, iPod video 80 GB
+
+
+== Hình ảnh ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Apple iPod – Trang chủ của Apple
+iPodLinux – iPod với Linux

@@ -1,0 +1,17 @@
+Xích vĩ hay xích vĩ độ (viết tắt theo tiếng Anh là Dec (declination), ký hiệu δ), là một thuật ngữ thiên văn học chỉ một trong hai tọa độ của một điểm trên thiên cầu khi sử dụng hệ tọa độ xích đạo. Tọa độ còn lại gọi là xích kinh hoặc góc giờ. Xích vĩ của một thiên thể là khoảng cách góc từ mặt phẳng xích đạo đến thiên thể đó. Xích vĩ tương tự như vĩ độ, chiếu lên thiên cầu, đo theo góc về phía bắc, tính từ xích đạo. Cụ thể, xích vĩ của một thiên thể bằng góc giữa phương nối thiên thể và tâm Trái Đất với mặt phẳng xích đạo. Góc này được quy ước là dương khi thiên thể nằm ở phía bắc mặt phẳng xích đạo và âm khi nằm ở phía nam.
+Xích vĩ còn được gọi là thiên độ; tuy nhiên cách gọi này có thể có nhược điểm như không nêu ra cặp phạm trù kinh - vĩ quen thuộc, chữ thiên với ý nghĩa là nghiêng có thể bị hiểu lầm sang nghĩa trời.
+Các điểm ở bán cầu Bắc có xích vĩ dương lên đến +90°, và các điểm ở bán cầu Nam có xích vĩ âm xuống đến −90°.
+Vật thể nằm trên thiên xích đạo có xích vĩ = 0°.
+Vật thể nằm trên cực bắc, cụ thể là sao Bắc Cực có xích vĩ = +90°.
+Vật thể nằm trên cực nam có xích vĩ = −90°.
+Vật thể nằm ở thiên đỉnh, có xích vĩ bằng vĩ độ của người quan sát.
+Thiên thể có xích vĩ lớn hơn +90° - l, với l là vĩ độ người quan sát, có thể quan sát được trong suốt ngày (theo) sao. Các thiên thể đó gọi là thiên thể vòng cực. Ví dụ tại gần các cực, vào mùa hè của bán cầu, có thể quan sát Mặt Trời suốt 24 giờ; những ngày như thế được gọi là Mặt Trời nửa đêm. Ở những vùng gần cực, khi Mặt Trời không xuống quá 6° dưới chân trời thì không có đêm thực sự, mà trời vẫn sáng mờ mờ. Hiện tượng này được gọi là đêm trắng.
+
+
+== Xem thêm ==
+
+Xích kinh
+Hệ tọa độ xích đạo
+
+
+== Tham khảo ==

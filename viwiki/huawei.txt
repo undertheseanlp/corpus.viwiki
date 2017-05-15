@@ -1,0 +1,22 @@
+Huawei có tên đầy đủ là Công ty trách nhiệm hữu hạn Kỹ thuật Hoa Vi (tiếng Hoa: 華為技術公司, Hán Việt: Hoa vi Kỹ thuật Hữu hạn Công ty, tiếng Anh: Huawei Technologies Co Ltd) là một công ty đa quốc gia về thiết bị mạng và viễn thông, nó có trụ sở chính tại Thâm Quyến, Quảng Đông, Trung Quốc.. Hoa Vi là nhà cung cấp thiết bị viễn thông lớn nhất Trung Quốc và đứng thứ ba thế giới (sau Ericsson và Nokia Siemens Networks).), cung cấp các hệ thống mạng cho các nhà khai thác điện thoại di động ở 140 quốc gia.
+
+
+== Hoạt động ==
+Huawei được thành lập năm 1988 bởi Nhậm Chính Phi, là một công ty thuộc sở hữu của tư nhân. Các hoạt động cốt lõi là nghiên cứu và phát triển, sản xuất và tiếp thị của thiết bị viễn thông, và cung cấp các dịch vụ mạng để các nhà khai thác viễn thông.
+Huawei phục vụ 31 trong số 50 công ty khai thác viễn thông hàng đầu thế giới. Nó cũng chiếm 55% thị phần toàn cầu trong lĩnh vực nối mạng bằng dongle 3G di động. Hàng năm Huawei đầu tư khoảng 10% doanh thu hàng năm của mình để nghiên cứu và phát triển(R & D). và trong đó 46% nhân lực tham gia vào nghiên cứu và phát triển. Công ty đã nộp đơn xin cấp hơn 49.000 bằng sáng chế. Công ty có trung tâm nghiên cứu và phát triển ở Bắc Kinh, Thành Đô, Nam Kinh, Thượng Hải, Hàng Châu, Thâm Quyến, Vũ Hán và Tây An, Trung Quốc Ottawa, Canada, Bangalore, Ấn Độ; Jakarta, Indonesia, Mexico City, Mexico; Wijchen, Hà Lan, Karachi và Lahore, Pakistan, Ferbane, Cộng hòa Ireland, Moscow, Nga, Stockholm, Thụy Điển, Istanbul, Thổ Nhĩ Kỳ và Dallas và Silicon Valley, Hoa Kỳ.
+Doanh thu năm 2010, theo tài liệu mà Huawei công bố tháng 4/2011 tăng 30%, nguyên do là sự tăng trưởng đáng kể tại các thị trường nước ngoài; với lợi nhuận là 23,76 tỉ nhân dân tệ (tương đương 3,64 tỉ Mỹ kim hay 2,23 tỉ bảng), so với lợi nhuận 18,27 tỉ trong năm 2009. Doanh thu ở hải ngoại, trong đó bao gồm cả tại Nga và CHDCND Triều Tiên đóng một vai trò quan trọng trong công việc kinh doanh của Huawei, với hoa lợi tăng 34% (120,41 tỉ nhân dân tệ trong năm 2010 so với 90,02 tỉ năm 2009). Lợi tức trong việc kinh doanh tại nội địa là 64,77 tỉ nhân dân tệ, tăng 9,7% vì các công ty viễn thông Trung Quốc trong năm đó giảm mức đầu tư.
+
+
+== Lo ngại về an ninh ==
+Tại Mỹ, Huawei đã gặp thách thức do những lo ngại của các quan chức an ninh Hoa Kỳ rằng các thiết bị của Huawei được thiết kế cho phép truy cập trái phép và bí mật từ chính phủ Trung Quốc và quân đội Trung Hoa PLA, nên các hợp đồng mua công nghệ của Mỹ đều không thành.
+Các quốc gia lo ngại về an ninh đều không mua thiết bị của Huawei: Úc, Ấn Độ, Đài Loan, Mỹ vì lo ngại nhà cung cấp hoàn toàn có khả năng đưa vào thiết bị mạng những tính năng ẩn để điều khiển hoạt động của mạng thông tin.
+Tuy nhiên từ năm 2012 tại Việt Nam Huawei Device là nhà cung cấp thiết bị viễn thông chính cho các đối tác như Viettel, Vinaphone, Vietnamobile, MobiFone, SFone và G-Tel.
+Một chuyên gia nổi tiếng về an ninh mạng người Việt hiện đang làm việc cho Google đã dẫn chiếu một số nghiên cứu từ các đồng nghiệp cho biết các dòng thiết bị của Huawei có rất nhiều lỗ hổng sơ đẳng, rất dễ khai thác. Tuy nhiên các lỗ hổng này chưa hẳn là backdoor mà có thể do Huawei chưa quan tâm đúng mức đến các vấn đề an toàn sản phẩm. Cũng theo chuyên gia này mặc dù chưa có ai phát hiện ra backdoor trong các thiết bị của Huawei nhưng vì chất lượng sản phẩm kém, người ta vẫn không cần phải có backdoor mới hack được các thiết bị Huawei. “Hơn nữa nhìn ở một góc độ nào đó thì mỗi lỗ hổng đều có thể được xem là một backdoor do lập trình viên cố ý tạo ra. Đó là ý kiến của những người ủng hộ giả thuyết Huawei có chứa backdoor của chính phủ Trung Quốc”.
+
+
+== Vi Phạm Quyền Sỡ Hữu Trí Tuệ ==
+Vào tháng 2 năm 2003, công ty Cisco Systems kiện Huawei Technologies vi cáo buộc vi phạm bằng sáng chế và ăn cắp mã nguồn được sử dụng trong routers and switches.
+Vào tháng 6 năm 2004, một nhân viên của Huawei bị bắt gặp sau nhiều giờ vẽ biểu đồ và chụp ảnh những board mạch của công ty đối thủ tại hội chợ thương mại SuperComm. Người này phủ nhận mọi cáo buộc nhưng sau đó bị công ty sa thải.
+
+
+== Tham khảo ==

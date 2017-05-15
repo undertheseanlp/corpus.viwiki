@@ -1,0 +1,35 @@
+Tập đoàn Intel (Integrated Electronics) thành lập năm 1968 tại Santa Clara, California, Hoa Kỳ. Intel sản xuất các sản phẩm như chip vi xử lý cho máy tính, bo mạch chủ, ổ nhớ flash, card mạng và các thiết bị máy tính khác.
+Ban đầu, Intel là nhà sản xuất bộ nhớ SRAM và DRAM và đây là sự kiện tiêu biểu đầu tiên cho các nhà sản xuất chip bộ nhớ sau này.
+
+
+== Lịch sử ==
+Tập đoàn Intel (Integrated Electronics) thành lập vào ngày 18/7/1968, lúc đó là tập đoàn hợp nhất về thiết bị điện tử, sản xuất ờ Santa Clara, (California, USA) bởi nhà hoá học kiêm vật lý học Gordon E.Moore và Robert Noyce, sau khi họ đã rời khỏi công ty Fairchild Semiconductor.
+Intel có 99.000 nhân viên tại 199 văn phòng và cơ sở sản xuất kinh doanh trên toàn cầu. Năm 2005 doanh thu của Intel đạt hơn 38 tỷ USD, và Intel xếp thứ 50 trong các công ty lớn nhất thế giới.
+Intel sản xuất các sản phẩm như chip vi xử lý cho máy tính, bo mạch chủ, ổ nhớ flash, card mạng và các thiết bị máy tính khác. Intel Corporation là công ty sản xuất thiết bị chất bán dẫn lớn nhất thế giới, và là nhà phát minh ra chuỗi vi mạch xử lý thế hệ x86 mà bộ xử lý tìm thấy ở các máy tính cá nhân. Intel làm ra các sản phẩm motherboard chipsets (con chip mạch chủ), network cards (Card mạng lưới) and ICs (mạch tổ hợp), flash memory (bộ nhớ Flash), graphic chips (con chip đồ họa), embedded processors (bộ xử lý nhúng), và các thiết bị khác có liên quan đến tin học và sự truyền thông.
+Lúc đầu Gordon Moore and Robert Noyce muốn đặt tên cho công ty là "Moore Noyce". Tuy nhiên việc phát âm lại giống "more noise" và điều này không thích hợp cho một công ty điện tử. Họ cho rằng tiếng ồn là đặc trưng cho sự giao thoa xấu. Và họ đã sử dụng cái tên NM Electronics cho công ty đúng một năm trước khi quyết định gọi tên công ty là INTegrated ELectronics or "Intel" là từ gọi tắt. Tuy nhiên tên "Intel" đã là một tên thương mại của một chuỗi hệ thống khách sạn và họ đã mua lại trước khi hoạt động.
+Năm 1971: Bộ vi xử lý 4004
+Bộ vi xử lý 4004 là bộ vi xử lý đầu tiên của Intel. Phát minh đột phá này nhằm tăng sức mạnh cho máy tính Busicom và dọn đường cho khả năng nhúng trí thông minh của con người vào trong các thiết bị vô tri cũng như các hệ thống máy tính cá nhân.
+Số lượng bóng bán dẫn: 2.300 Tốc độ: 108KHz
+Năm 1972: Bộ vi xử lý 8008
+Bộ vi xử lý 8008 mạnh gấp đôi bộ vi xử lý 4004. Thiết bị Mark-8 được biết đến như là một trong những hệ thống máy tính đầu tiên dành cho người sử dụng gia đình – một hệ thống mà theo các tiêu chuẩn ngày nay thì rất khó để xây dựng, bảo trì và vận hành.
+Số lượng bóng bán dẫn: 3.500 Tốc độ: 200KHz
+Năm 1974: Bộ vi xử lý 8080
+Bộ vi xử lý 8080 đã trở thành bộ não của hệ thống máy tính cá nhân đầu tiên – Altair.
+Số lượng bóng bán dẫn: 6.000 Tốc độ: 2 MHz
+Năm 1978: Bộ vi xử lý 8086-8088
+Một hợp đồng cung cấp sản phẩm quan trọng cho bộ phận máy tính cá nhân mới thành lập của IBM đã biến bộ vi xử lý 8088 trở thành bộ não của sản phẩm chủ đạo mới của IBM—máy tính IBM PC.
+Số lượng bóng bán dẫn: 29.000 Tốc độ: 5 MHz, 8 MHz, 10 MHz
+Năm 1982: Bộ vi xử lý 286
+Bộ vi xử lý 286, còn được biết đến với cái tên là 80286, là bộ vi xử lý Intel đầu tiên có thể chạy tất cả các phần mềm được viết cho những bộ vi xử lý trước đó. Tính tương thích về phần mềm này vẫn luôn là một tiêu chuẩn bắt buộc trong họ các bộ vi xử lý của Intel.
+Số lượng bóng bán dẫn: 134.000 Tốc độ: 6 MHz, 8 MHz, 10 MHz, 12,5 MHz
+
+
+== Xem thêm ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang web chính thức của Intel
+Intel VN

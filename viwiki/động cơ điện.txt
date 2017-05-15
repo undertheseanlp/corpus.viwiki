@@ -1,0 +1,45 @@
+Động cơ điện là máy điện dùng để chuyển đổi năng lượng điện sang năng lượng cơ. Máy điện dùng để chuyển đổi ngược lại (từ cơ sang điện) được gọi là máy phát điện hay dynamo. Các động cơ điện thường gặp dùng trong gia đình như quạt điện, tủ lạnh, máy giặt, máy bơm nước, máy hút bụi...
+
+
+== Ứng dụng ==
+Ngày nay động cơ điện được dùng trong hấu hết mọi lĩnh vực, từ các động cơ nhỏ dùng trong lò vi sóng để chuyển động đĩa quay, hay trong các máy đọc đĩa (máy chơi CD hay DVD), đến các đồ nghề như máy khoan, hay các máy gia dụng như máy giặt, sự hoạt động của thang máy hay các hệ thống thông gió cũng dựa vào động cơ điện. Ở nhiều nước động cơ điện được dùng trong các phương tiện vận chuyển, đặc biệt trong các đầu máy xe lửa.
+
+Trong công nghệ máy tính: Động cơ điện được sử dụng trong các ổ cứng, ổ quang (chúng là các động cơ bước rất nhỏ).
+
+
+== Nguyên tắc hoạt động ==
+Phần chính của động cơ điện gồm phần đứng yên (stator) và phần chuyển động (rotor) được quấn nhiều vòng dây dẫn hay có nam châm vĩnh cửu. Khi cuộn dây trên roto và stato được nối với nguồn điện, xung quanh nó tồn tại các từ trường, sự tương tác từ trường của rotor và stator tạo ra chuyển động quay của rotor quanh trục hay 1 mômen.
+Phần lớn các động cơ điện hoạt động theo nguyên lý điện từ, nhưng loại động cơ dựa trên nguyên lý khác như lực tĩnh điện và hiệu ứng điện áp cũng được sử dụng. Nguyên lý cơ bản mà các động cơ điện từ dựa vào là có một lực lực cơ học trên một cuộn dây có dòng điện chạy qua nằm trong một từ trường. Lực này theo mô tả của định luật lực Lorentz và vuông góc với cuộn dây và cả với từ trường.
+Phần lớn động cơ từ đều xoay nhưng cũng có động cơ tuyến tính. Trong động cơ xoay, phần chuyển động được gọi là rotor, và phần đứng yên gọi là stator.
+
+
+== Điều khiển động cơ ==
+Đa số động cơ điện không đồng bộ có thể điều khiển tốc độ bằng cách đổi kiểu đấu nối (sao, tam giác); Một số có thể điều khiển bằng các biến tần. Các động cơ bước phải sử dụng một bộ điều khiển riêng (được gọi là driver).
+
+
+== Lịch sử phát triển ==
+Năm 1820: nhà hóa học Đan Mạch Hans Christian Ørsted phát hiện ra hiện tượng điện từ.
+Nguyên lý chuyển đổi từ năng lượng điện sang năng lượng cơ bằng cảm ứng điện từ được nhà khoa học người Anh là Michael Faraday phát minh năm 1821. Ông công bố kết quả thí nghiệm của ông về chuyển động quay điện từ, gồm chuyển động quay của dây dẫn trong từ trường và chuyển động của nam châm quanh 1 dây dẫn
+Năm 1822: Peter Barlow phát triển ra bánh xe Barlow
+Năm 1828: động cơ điện đầu tiên sử dụng nam châm điện cho cả rotor và stator được phát minh bởi Ányos Jedlink (nhà khoa học người Hungary), sau đó ông đã phát triển động cơ điện có công suất đủ để đẩy được một chiếc xe.
+Năm 1834: Thomas Davenport chế tạo ra động cơ chỉnh lưu
+Năm 1838: động cơ điện công suất 220 W được dùng cho thuyền chế tạo bởi Hermann Jacobi
+Năm 1866: Werner von Siemens sáng chế ra máy phát điện
+
+
+== Phân loại ==
+
+Động cơ không đồng bộ
+Động cơ đồng bộ
+
+Động cơ điện một chiều
+Động cơ điện một chiều kích thích bởi nam châm vĩnh cửu
+Động cơ điện một chiều kích thích bởi dòng điện
+
+Động cơ bước
+Động cơ giảm tốc
+Động cơ rung
+Động cơ Servo
+
+
+== Tham khảo ==

@@ -1,0 +1,20 @@
+Trong ngành công nghiệp game, các nhà phát triển video game chia ra làm 3 bên: Bên thứ nhất (hay còn gọi là hãng phát triển thứ nhất), bên thứ hai (hãng phát triển thứ hai), bên thứ ba (hãng phát triển thứ ba).
+
+
+== Bên thứ nhất (hãng phát triển thứ nhất) ==
+Trong ngành công nghiệp game,bên thứ nhất là một công ty phát triển game thuộc một tập đoàn có khả năng sản xuất cả những thiết bị (hệ máy) chơi game. Hãng phát triển thứ nhất có thể mang tên của chính tập đoàn như Nintendo; hay có một đơn vị chuyên biệt như Polyphony Digital (chi nhánh của Sony phát triển dòng game đua xe Gran Turismo); hoặc trước đó là một công ty,studio phát triển độc lập rồi được mua lại bởi các tập đoàn sản xuất hệ máy chơi game như Rare (mua lại bởi Microsoft) hoặc Naughty Dog (mua lại bởi Sony).
+
+
+== Bên thứ hai ==
+Đúng ra, bên thứ hai chính là khách hàng. Tuy nhiên, thuật ngữ "hãng phát triển thứ hai" hay bị hiểu nhầm với "công ty con" trong ngành công nghiệp game. Ví dụ như Game Freak và Hal Laboratory là 2 công ty nằm dưới quyền của Nintendo, hay Naughty Dog mà Sony sở hữu.
+Hãng phát triển thứ hai cũng là thuật ngữ hay được dùng để chỉ một nhà phát triển game độc lập chỉ sản xuất game cho một hệ máy chơi game cụ thể. Một ví dụ cho trường hợp này là Insomniac Games,mà từ trước cho tới nay chỉ phát triển game cho hệ máy PlayStation của Sony mặc dù là một studio hoàn toàn độc lập. Những studio như Insomniac cực kỳ hiếm trong ngành công nghiệp game bởi vì không có sự hỗ trợ trực tiếp từ nhà sản xuất hệ máy chơi game, và sẽ rất mạo hiểm về tài chính nếu chỉ phát triển game cho một hệ máy.
+
+
+== Bên thứ ba (hãng phát triển thứ ba) ==
+Bên thứ ba là bên phát triển không trực tiếp ràng buộc với các sản phẩm chính mà người tiêu dùng đang sử dụng, mặc dù có một số trường hợp, như Insomniac Games, có thể có thỏa thuận độc quyền phát hành hoặc các mối quan hệ kinh doanh khác với một nhà sản xuất cụ thể trong khi vẫn giữ tính độc lập. Các sản phẩm chính có thể là phần cứng hay phần mềm.
+Trong ngành công nghiệp video game, nhiều bên thứ ba phát hành các trò chơi mà họ phát triển, như Electronic Arts, Ubisoft, hay Sega, trong khi những công ty khác chỉ phát triển trò chơi sẽ được phát hành bởi các công ty khác, chẳng hạn như Raven Software(ban đầu là hãng độc lập sau đó Activision mua lại), hay như Crytek(vẫn là hãng độc lập cho tới giờ). Hơn nữa, hãng phát triển thứ 3 có thể nằm dưới quyền của một hãng phát triển thứ 3 lớn hơn, như mối quan hệ giữa Neversoft (sáng tạo nên dòng game Tony Hawk's Pro Skater) và Activision. Bởi vì điều này, hãng thứ 3 lớn hơn cũng thường xuất bản game của riêng họ và thường gọi là các nhà phát hành và không phải là hãng phát triển thứ ba mặc dù họ cũng có phát triển các tựa game trong nội bộ hãng.
+Ví dụ khác về bên thứ ba là một nhà phát triển mà chịu tư cách pháp lý về một phần nào đó của phần mềm đang được sử dụng, thường cung cấp một công cụ phần mềm bên ngoài để giúp tổ chức hoặc sử dụng thông tin cho sản phẩm phần mềm chính. Các công cụ như vậy có thể là một cơ sở dữ liệu, thoại qua IP, hoặc tiện ích trong giao diện phần mềm... và các thứ khác
+Bên cạnh đó, phụ kiện như tai nghe có thể coi như là tai nghe của hãng thứ ba, nghĩa là công ty sản xuất tai nghe tách biệt với công ty sản xuất thiết bị máy tính và máy chơi game. Ví dụ, Turtle Beach là một hãng thứ 3 sản xuất tai nghe cho PlayStation 3 và Xbox 360.
+
+
+== Tham khảo ==

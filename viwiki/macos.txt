@@ -1,0 +1,135 @@
+OS X /ˌoʊ ɛs ˈtɛn/, (trước đây là Mac OS X) là một dòng hệ điều hành độc quyền, được phát triển và phân phối bởi Apple, được cài đặt sẵn trên các máy tính Macintosh. Mac OS X là thế hệ tiếp nối của Mac OS, hệ điều hành ban đầu của Apple từ năm 1984. Không như Mac OS, Mac OS X là một hệ điều hành kiểu Unix được xây dựng trên công nghệ được phát triển tại NeXT trong nửa đầu những năm 1980 và cho đến khi Apple mua công ty này vào đầu năm 1997.
+Trước năm 2005, hệ điều hành Mac OS X dường như chỉ dành cho các máy tính dùng vi xử lý PowerPC(trong đó có Apple và một vài hãng khác), nhưng giờ đây, với việc chuyển đổi sang sử dụng chip Intel Duo Core, các máy tính PowerPC cũng có thể chạy được hệ điều hành Windows và ngược lại, một số máy PC chạy được Mac OS X với bản vá đặc biệt.
+OS X v10.5 "Leopard" chạy trên bộ vi xử lý Intel; OS X v10.6 "Snow Leopard", OS X v10.7 "Sư tử" và OS X v10.8 "Mountain Lion " đã được chứng nhận UNIX 03. iOS, chạy trên iPhone, iPod Touch, iPad, iPad 2 & iPad 3 và Apple TV thế hệ thứ 3, chia sẻ Darwin và nhiều khuôn khổ với OS X. Một biến thể giấu tên của hệ điều hành Mac OS X 10.4 chạy trên Apple TV.
+Phiên bản đầu tiên phát hành là Mac OS X Server 1.0 năm 1999, và một phiên bản máy tính để bàn, Mac OS X v10.0 "Cheetah" sau đó ngày 24 tháng 3 năm 2001. Phiên bản của OS X được đặt tên sau khi con mèo lớn: ví dụ, OS X v10.8 được gọi là "Mountain Lion".
+Phiên bản máy chủ: hệ điều hành Mac OS X Server, kiến ​​trúc giống hệt với các đối tác máy tính để bàn của nó, và bao gồm các công cụ để tạo thuận lợi cho quản lý nhóm làm việc của máy OS X, và để cung cấp dịch vụ mạng. Bắt đầu từ hệ điều hành OS X v10.7, OS X Server không còn được cung cấp như một sản phẩm điều hành hệ thống riêng biệt, thay vào đó, các công cụ quản lý máy chủ có sẵn để mua một cách riêng biệt, và được cài đặt sẵn trên máy chủ Mac Pro và Mac Mini chạy OS X.
+
+
+== Lịch sử ==
+OS X được dựa trên hạt nhân Mach. Các bộ phận nhất định của FreeBSD và thực hiện NetBSD của Unix đã được kết hợp trong NeXTSTEP, cốt lõi của Mac OS X. NeXTSTEP là các đồ họa, đối tượng-định hướng, và dựa trên UNIX - hệ điều hành hệ thống được phát triển bởi công ty của Steve Jobs NeXT sau khi ông rời Apple vào năm 1985. Trong khi Jobs rời khỏi Apple, Apple đã cố gắng để tạo ra một "thế hệ tiếp theo" hệ điều hành thông qua Taligent, Copland và Gershwin, với rất ít thành công.
+Cuối cùng, NeXT'OS, sau đó được gọi là OPENSTEP, đã được lựa chọn là cơ sở tiếp theo của Apple OS, và của Apple mua NeXT hoàn toàn. Steve Jobs trở lại Apple như Giám đốc điều hành tạm thời, và sau đó trở thành Giám đốc điều hành, chăn dắt các chuyển đổi của các lập trình- OPENSTEP thân thiện thành một hệ thống có thể được thông qua bởi thị trường sơ cấp của người dùng gia đình và các chuyên gia sáng tạo của Apple. Dự án lần đầu tiên được biết đến như Rhapsody và sau đó được đổi tên thành Mac OS X.
+Mac OS X Server 1.x, không tương thích với các phần mềm thiết kế cho hệ điều hành Mac OS và không có hỗ trợ cho Apple IEEE giao diện (FireWire) 1394. Mac OS X 10.x bao gồm khả năng tương thích ngược thông qua chức năng cổ điển và nhiều hơn nữa bằng cách giới thiệu các API Carbon cũng như hỗ trợ FireWire. Như hệ điều hành được phát triển, nó di chuyển từ hệ điều hành Mac cổ điển để nhấn mạnh một "phong cách kỹ thuật số" với các ứng dụng như bộ phần mềm iLife, iWork, FrontRow. Mỗi phiên bản cũng bao gồm sửa đổi giao diện, chẳng hạn như sự xuất hiện kim loại chải được thêm vào trong phiên bản 10,3, không sọc nhỏ trên thanh tiêu đề xuất hiện trong phiên bản 10,4, và trong 10,5 việc loại bỏ các phong cách kim loại chải trước đó ủng hộ của Thống Nhất "Gradient cửa sổ phong cách".
+Trong năm 2012, với việc phát hành OS X Lion, tiền tố "Mac" đã chính thức được giảm trong tất cả các tài liệu tham khảo với tên hệ điều hành trong các tài liệu tiếp thị và với OS X Mountain Lion "Mac" đã bị bỏ trong tất cả các tài liệu tham khảo trong hệ điều hành riêng của mình. Tuy nhiên, các trang web và các tài liệu tiếp thị khác của Apple vẫn tiếp tục sử dụng cả hai "Mac OS X" và "OS X".
+
+
+== Mac OS X trên các máy tính không do Apple sản xuất ==
+Trong những năm 90, Apple đã từng cho phép các hãng sản xuất khác trong liên minh PowerPC sử dụng hệ điều hành Mac OS, nhưng việc này đã chấm dứt vào khoảng năm 1998 và Mac OS trở về mã nguồn kín. Việc cài đặt Mac OS X lên các máy tính không do Apple sản xuất bắt đầu được chú ý vào khoảng năm 2005, khi Apple chuyển sang dùng bộ xử lý Intel cho máy tính của họ và Mac OS X bắt đầu bộc lộ những ưu điểm so với Windows. Hiện nay, đề làm việc này có 2 cách, một là cài Mac OS X vào máy ảo trên nền Windows(sử dụng một vài phần mềm máy ảo như VMWare, VirtualBox), hai là cài song song(dual-boot) với Windows. Cả 2 cách đều không thể dùng đĩa cài đặt gốc Mac OS X do Apple sản xuất, mà phải dùng các phiên bản đã được tùy chỉnh bởi cộng đồng OSX86 để cho tương thích với các máy không thuộc Apple(có thể kể đến như Leo4all, iPC, Hazard, Kalyway, JaS,...) hoặc tự thêm các driver vào đĩa cài đặt gốc để việc cài đặt và sử dụng diễn ra suôn sẻ.
+
+
+== Mac OS X ==
+Public Beta Kodiak, Build 1H39
+10.0 Cheetah, Build 4K78
+10.0.1 Build 4L13
+10.0.2 Build 4P12
+10.0.3 Build 4P13
+10.0.4 Build 4Q12
+
+10.1 Puma, Build 5G64
+10.1.1 Build 5M28
+10.1.2 Build 5P48
+10.1.3 Build 5Q45
+10.1.4 Build 5Q125
+10.1.5 Build 5S60
+
+10.2 Jaguar, Build 6C115
+10.2.1 Jaguar Red, Build 6D52
+10.2.2 Jaguar Blue, Merlot, Build 6F21
+10.2.3 Jaguar Green, Build6G30
+10.2.4 Jaguar Pink, Build 6I32
+10.2.5 Jaguar Plaid, Build 6L29
+10.2.6 Jaguar Black, Build 6L60
+10.2.7 Build 6R65
+10.2.8 (G4) Build 6R73
+10.2.8 (G5) Build 6S90
+
+10.3 Panther, Build 7B85
+10.3.1 Build 7C107
+10.3.2 Build 7D24
+10.3.3 Build 7F44
+10.3.4 Build 7H63
+10.3.5 Build 7M34
+10.3.6 Build 7R28
+10.3.7 Build 7S215
+10.3.8 Build 7U16
+10.3.9 Build 7W98
+
+10.4 Tiger, Build 8A428
+10.4.1 Build 8B15
+10.4.2 Build 8C46
+10.4.3 Build 8F46
+10.4.4 Build 8G32
+10.4.5 (PowerPC) Build 8H14
+10.4.5 (Intel) Build 8G1454
+10.4.6 (PowerPC) Build 8I1119
+10.4.6 (Intel) Build 7U16
+10.4.7 (PowerPC) Build 8J135
+10.4.7 (Intel) Build 8J2135
+10.4.8 (PowerPC) Build 8L127
+10.4.8 (Intel) Build 8L2127
+10.4.9 (PowerPC) Build 8P135
+10.4.9 (Intel) Build 8P2137
+10.4.10 (PowerPC) Build 8R218
+10.4.10 (Intel) Build 8R2218
+10.4.11 (PowerPC) Build 8S165
+10.4.11 (Intel) Build 8S2167
+
+10.5 Leopard, Build 9A581
+10.5.1 Build 9B18
+10.5.2 Build 9С31
+10.5.3 Build 9D34
+10.5.4 Build 9E17
+10.5.5 Build 9F33
+10.5.6 Build 9G55
+10.5.7 Build 9J61
+10.5.8 Build 9L30
+
+10.6 Snow Leopard, Build 10A432
+10.6.1 Build 10B504
+10.6.2 Build 10C540
+10.6.3 Build 10D573
+10.6.4 Build 10F569
+10.6.5 Build 10H548
+10.6.6 Build 10J567
+10.6.7 Build 10J869
+10.6.8 Build 10K540
+
+10.7 Lion, Build 11A511
+10.7.1 Build 11B211
+10.7.2 Build 11C74
+10.7.3 Build 11D50
+10.7.4 Build 11E53
+10.7.5 Build 11G56
+
+10.8 Mountain Lion, Build 12A269
+10.8.1 Build 12B19
+10.8.2 Build 12C54
+10.8.2 Build 12C60
+10.8.3 Build 12D78
+
+10.9Mavericks, Build 13A603
+10.9.1 Build 13B42
+10.9.2 Build 13C64
+10.9.3 Build 13D65
+10.9.4 Build 13E28
+10.9.5 Build 13F34
+
+10.10Yosemite
+10.11El Capitan
+
+
+=== Mac OS X Server ===
+1.0
+10.0
+10.1
+10.2
+10.3
+10.4
+10.5
+10.6
+10.7
+10.8
+10.9
+10.10
+
+
+== Tham khảo ==

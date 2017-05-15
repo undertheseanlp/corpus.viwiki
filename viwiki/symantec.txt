@@ -1,0 +1,56 @@
+Tập đoàn Symantec /sɪˈmænˌtɛk/ (tiếng Anh: Symantec Corporation, thường gọi là Symantec) là một công ty phần mềm Hoa Kỳ có trụ sở tại Mountain View, California, Hoa Kỳ. Công ty sản xuất phần mềm bảo mật, lưu trữ, sao lưu và sẵn sàng - và cung cấp dịch vụ chuyên nghiệp để hỗ trợ cho phần mềm của họ. Netcraft đánh giá Symantec (bao gồm cả các công ty con) là nhà cung cấp chứng thực số được sử dụng nhiều nhất. Symantec là một công ty Fortune 500 và là thành viên của chỉ số thị trường chứng khoán S&P 500. Công ty cũng có trung tâm phát triển ở Pune, Chennai và Bengaluru (Ấn Độ).
+Vào ngày 9 tháng 10 năm 2014, Symantec tuyên bố nó sẽ tách thành hai công ty kinh doanh độc lập vào cuối năm 2015. Một công ty sẽ tập trung vào bảo mật, công ty còn lại về quản lý thông tin. Vào ngày 29 tháng 1 năm 2016, doanh nghiệp quản lý thông tin đã được tách ra với tên gọi Veritas Technologies và được bán cho công ty đầu tư The Carlyle Group.
+Tên gọi Symantec được ghép lại từ các từ syntax (cấu trúc), semantics (ngữ nghĩa), và technology (công nghệ).
+
+
+== Lịch sử ==
+
+
+=== Từ 1982 đến 1989 ===
+Được thành lập vào năm 1982 bởi Gary Hendrix với tài trợ từ National Science Foundation, ban đầu Symantec taaoj trung vào các dự án liên quan đến trí tuệ nhân tạo, bao gồm một chương trình cơ sở dữ liệu.
+
+
+=== Từ 1990 đến 1999 ===
+Tháng 5 năm 1990, Symantec thông báo kế hoạch hợp nhất và mua lại Peter Norton Computing, nhà phát triển các tiện ích cho DOS.
+
+
+=== Từ 2000 đến nay ===
+Từ năm 1999 đến tháng 4 năm 2009, Symantec được dẫn dắt bởi Giám đốc điều hành John W. Thompson, vốn là một cựu phó chủ tịch của IBM.
+
+
+=== Tách ra ===
+
+Vào ngày 9 tháng 10 năm 2014, Symantec tuyên bố rằng công ty sẽ tách thành hai công ty kinh doanh độc lập vào cuối năm 2015.
+
+
+== Dòng sản phẩm Norton ==
+
+Đến năm 2015, dòng sản phẩm Norton của Symantec bao gồm Norton Security, Norton Small Business, Norton Family, Norton Mobile Security, Norton Online Backup, Norton360, Norton Utilities và Norton Computer Tune Up.
+Vào năm 2012, PCTools iAntiVirus được đổi tên để thành sản phẩm Norton dưới tên gọi iAntivirus, và được phát hành trên Mac App Store. Cũng trong năm 2012, the Norton Partner Portal được khôi phục lại để hỗ trợ bán hàng cho người tiêu dùng cho toàn bộ các công nghệ EMEA.
+
+
+== Sáp nhập và mua bán ==
+
+
+=== Veritas ===
+Ngày 16 tháng 12 năm 2004, Veritas và Symantec công bố kế hoạch sáp nhập. Với Veritas trị giá 13,5 tỷ đô la, đây là việc sáp nhập công ty ngành công nghiệp phần mềm lớn nhất tính đến nay.  Các cổ đông của Symantec đã bỏ phiếu thông qua việc sáp nhập vào ngày 24 tháng 6 năm 2005; Thỏa thuận đã kết thúc thành công vào ngày 2 tháng 7 năm 2005.  Kết quả của việc sáp nhập này, Symantec bao gồm các sản phẩm lưu trữ và khả dụng liên quan trong danh mục đầu tư của mình, cụ thể là Veritas File System (VxFS), Veritas Volume Manager (VxVM), Veritas Volume Replicator (VVR), Veritas Cluster Server (VCS), NetBackup (NBU), Backup Exec (BE) và Enterprise Vault (EV) (hệ thống lưu trữ thư điển tử).
+
+
+== Quan ngại về bảo mật và tranh cãi ==
+
+
+== Xem thêm ==
+
+So sánh các phần mềm diệt virus
+So sánh các virus máy tính
+Huawei Symantec, một liên doanh giữa Huawei và Symantec
+Danh sách các thương vụ mua bán và sáp nhập của Symantec
+Chặng web ở Vương quốc Anh - Công nghệ
+Công nghệ phân tích hành vi của Symantec SONAR và AntiBot
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Website chính thức

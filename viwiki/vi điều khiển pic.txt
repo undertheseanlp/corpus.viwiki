@@ -1,0 +1,60 @@
+PIC là một họ vi điều khiển RISC được sản xuất bởi công ty Microchip Technology. Dòng PIC đầu tiên là PIC1650 được phát triển bởi Microelectronics Division thuộc General Instrument.
+PIC bắt nguồn là chữ viết tắt của "Programmable Intelligent Computer" (Máy tính khả trình thông minh) là một sản phẩm của hãng General Instrument đặt cho dòng sản phẩm đầu tiên của họ là PIC1650. Lúc này, PIC1650 được dùng để giao tiếp với các thiết bị ngoại vi cho máy chủ 16bit CP1600, vì vậy, người ta cũng gọi PIC với cái tên "Peripheral Interface Controller" (Bộ điều khiển giao tiếp ngoại vi). CP1600 là một CPU tốt, nhưng lại kém về các hoạt động xuất nhập, và vì vậy PIC 8-bit được phát triển vào khoảng năm 1975 để hỗ trợ hoạt động xuất nhập cho CP1600. PIC sử dụng microcode đơn giản đặt trong ROM, và mặc dù, cụm từ RISC chưa được sử dụng thời bây giờ, nhưng PIC thực sự là một vi điều khiển với kiến trúc RISC, chạy một lệnh một chu kỳ máy (4 chu kỳ của bộ dao động).
+Năm 1985 General Instrument bán bộ phận vi điện tử của họ, và chủ sở hữu mới hủy bỏ hầu hết các dự án - lúc đó đã quá lỗi thời. Tuy nhiên PIC được bổ sung EEPROM để tạo thành 1 bộ điều khiển vào ra khả trình. Ngày nay rất nhiều dòng PIC được xuất xưởng với hàng loạt các module ngoại vi tích hợp sẵn (như USART, PWM, ADC...), với bộ nhớ chương trình từ 512 Word đến 32K Word.
+Hiện nay, tại Việt Nam, đã có một cộng đồng nghiên cứu và phát triển PIC, dsPIC và PIC32.
+
+
+== Lập trình cho PIC ==
+PIC sử dụng tập lệnh RISC, với dòng PIC low-end (độ dài mã lệnh 12 bit, ví dụ: PIC12Cxxx) và mid-range (độ dài mã lệnh 14 bit, ví dụ: PIC16Fxxxx), tập lệnh bao gồm khoảng 35 lệnh, và 70 lệnh đối với các dòng PIC high-end (độ dài mã lệnh 16 bit, ví dụ: PIC18Fxxxx). Tập lệnh bao gồm các lệnh tính toán trên các thanh ghi, với các hằng số, hoặc các vị trí bộ nhớ, cũng như có các lệnh điều kiện, lệnh nhảy/gọi hàm, và các lệnh để quay trở về, nó cũng có các tính năng phần cứng khác như ngắt hoặc sleep (chế độ hoạt động tiết kiện điện). Microchip cung cấp môi trường lập trình MPLAB, nó bao gồm phần mềm mô phỏng và trình dịch ASM.
+Một số công ty khác xây dựng các trình dịch C, Basic, Pascal cho PIC. Microchip cũng bán trình dịch "C18" (cho dòng PIC high-end) và "C30" (cho dòng dsPIC30Fxxx). Họ cũng cung cấp các bản "student edition/demo" dành cho sinh viên hoặc người dùng thử, những version này không có chức năng tối ưu hoá code và có thời hạn sử dụng giới hạn. Những trình dịch mã nguồn mở cho C, Pascal, JAL, và Forth, cũng được cung cấp bởi PicForth.
+GPUTILS là một kho mã nguồn mở các công cụ, được cung cấp theo công ước về bản quyền của GNU General Public License. GPUTILS bao gồm các trình dịch, trình liên kết, chạy trên nền Linux, Mac OS X, OS/2 và Microsoft Windows. GPSIM cũng là một trình mô phỏng dành cho vi điều khiển PIC thiết kế ứng với từng module phần cứng, cho phép giả lập các thiết bị đặc biệt được kết nối với PIC, ví dụ như LCD, LED...
+
+
+== Một vài đặc tính ==
+Hiện nay có khá nhiều dòng PIC và có rất nhiều khác biệt về phần cứng, nhưng chúng ta có thể điểm qua một vài nét như sau:
+8/16 bit CPU, xây dựng theo kiến trúc Harvard có sửa đổi
+FLASH và ROM có thể tuỳ chọn từ 256 byte đến 256 Kbyte
+Các cổng Xuất/Nhập (I/O ports) (mức logic thường từ 0V đến 5.5V, ứng với logic 0 và logic 1)
+8/16 Bit Timer
+Công nghệ Nanowatt
+Các chuẩn Giao Tiếp Ngoại Vi Nối tiếp Đồng bộ/Không đồng bộ USART, AUSART, EUSARTs
+Bộ chuyển đổi ADC Analog-to-digital converters, 10/12 bit
+Bộ so sánh điện áp (Voltage Comparators)
+Các module Capture/Compare/PWM
+LCD
+MSSP Peripheral dùng cho các giao tiếp I²C, SPI, và I²S
+Bộ nhớ nội EEPROM - có thể ghi/xoá lên tới 1 triệu lần
+FLASH (dùng cho bộ nhớ chương trình) có thể ghi/xóa 10.000 lần (tiêu biểu) 
+Module Điều khiển động cơ, đọc encoder
+Hỗ trợ giao tiếp USB
+Hỗ trợ điều khiển Ethernet
+Hỗ trợ giao tiếp CAN
+Hỗ trợ giao tiếp LIN
+Hỗ trợ giao tiếp IrDA
+Một số dòng có tích hợp bộ RF (PIC16F639, và rfPIC)
+KEELOQ Mã hoá và giải mã
+DSP những tính năng xử lý tín hiệu số (dsPIC)
+
+
+== Họ vi điều khiển PIC 8/16-bit ==
+Các link này được lấy từ trang chủ www.microchip.com, tuy nhiên hiện nay trang này đang rất thường bị chết, có thể do lượng truy cập quá nhiều, và các đường dẫn luôn thay đổi, vì vậy, có thể link sẽ bị chết.
+Vi điều khiển 8-bit
+PIC10
+PIC12
+PIC14
+PIC16
+PIC17
+PIC18
+Vi điều khiển 16-bit
+PIC24
+Bộ điều khiển xử lý tín hiệu số 16-bit (dsPIC)
+dsPIC30
+dsPIC33F
+Bộ điều khiển xử lý tín hiệu số 32-bit (PIC32)
+PIC32 (công bố ngày 05/11/2007)
+
+
+== Liên kết ngoài ==
+
+
+== Tham khảo ==

@@ -1,0 +1,13 @@
+MediaTek Inc (viết tắt chưa chính thức là MTK), một công ty bán dẫn fabless (không có nhà máy sản xuất) cung cấp giải pháp về hệ thống trên một vi mạch cho truyền thông không dây, HDTV, DVD và Blu-ray. MediaTek có trụ sở tại Hsinchu, Đài Loan, với 25 văn phòng trên toàn thế giới và trở thành là một trong 4 nhà thiết kế IC lớn nhất thế giới vào năm 2013. Từ khi thành lập vào năm 1997, MediaTek đã và đang tạo ra các giải pháp chipset cho thị trường toàn cầu. MediaTek còn cung cấp cho khách hàng của mình với những thiết kế tham khảo.
+
+
+== Lịch sử ==
+MediaTek ban đầu là một đơn vị của Tập đoàn United Microelectronics (UMC) được giao nhiệm vụ thiết kế chipset cho các sản phẩm giải trí gia đình. Ngày 28 tháng năm 1997, đơn vị này đã được tách ra và thành tổ chức riêng. MediaTek Inc được niêm yết trên Sở giao dịch Chứng khoán Đài Loan theo mã "2454" vào ngày 23 tháng 7 năm 2001. Công ty bắt đầu ra thiết kế chipset cho các ổ đĩa quang và sau đó mở rộng sang các chip giải pháp cho đầu DVD, TV kỹ thuật số, điện thoại di động, điện thoại thông minh và máy tính bảng. Nhìn chung MediaTek đã có một kỷ lục mạnh mẽ của tăng thị phần và thay đối thủ cạnh tranh sau khi nhập các thị trường mới.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Website chính thức
+List of products using the Mediatek chipsets

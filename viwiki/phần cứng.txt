@@ -1,0 +1,22 @@
+Phần cứng (tiếng Anh: hardware), là các cơ phận (vật lý) cụ thể của máy tính hay hệ thống máy tính như là màn hình, chuột, bàn phím, máy in, máy quét, vỏ máy tính, bộ nguồn, bộ vi xử lý CPU, bo mạch chủ, các loại dây nối, loa, ổ đĩa mềm, ổ đĩa cứng, ổ CDROM, ổ DVD,...
+Dựa trên chức năng và cách thức hoạt động người ta còn phân biệt phần cứng ra thành:
+Nhập hay đầu vào (input): Các bộ phận thu nhập dữ liệu hay mệnh lệnh như là bàn phím, chuột...
+Xuất hay đầu ra (output): Các bộ phận trả lời, phát tín hiệu, hay thực thi lệnh ra bên ngoài như là màn hình, máy in, loa,...
+Ngoài các bộ phận nêu trên liên quan tới phần cứng của máy tính còn có các khái niệm quan trọng sau đây:
+Bus: chuyển dữ liệu giữa các thiết bị phần cứng.
+BIOS (Basic Input Output System): còn gọi là hệ thống xuất nhập cơ bản nhằm khởi động, kiểm tra, và cài đặt các mệnh lệnh cơ bản cho phần cứng và giao quyền điều khiển cho hệ điều hành
+CPU: bộ phân vi xử lý điều khiển toàn bộ máy tính (vi xử lý trung tâm)
+Kho lưu trữ dữ liệu: lưu giữ, cung cấp, thu nhận dữ liệu
+Các loại chíp hỗ trợ: nằm bên trong bo mạch chủ hay nằm trong các thiết bị ngoại vi của máy tính các con chip quan trọng sẽ giữ vai trò điều khiển thiết bị và liên lạc với hệ điều hành qua bộ điều vận hay qua phần sụn (Firmware)
+Bộ nhớ: là thiết bị bên trong bo mạch chủ giữ nhiệm vụ trung gian cung cấp các mệnh lệnh cho CPU và các dữ liệu từ các bộ phận như là BIOS, phần mềm, kho lưu trữ, chuột đồng thời tải về cho các bộ phận vừa kể kết quả các tính toán, các phép toán hay các dữ liệu đã/đang được xử lý
+các cổng vào/ra
+
+
+== Xem thêm ==
+Máy tính
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

@@ -1,0 +1,142 @@
+Thuật ngữ Bo mạch chủ thường dùng nhiều nhất trong ngành công nghiệp máy tính nói chung như một từ dành riêng, mặc dù có rất nhiều thiết bị khác cũng có thể có bản mạch chính được gọi là "bo mạch chủ". Bài viết này nói đến Bo mạch chủ trong các máy tính nói chung mà chú trọng nhiều hơn là của máy tính cá nhân.
+Bo mạch chủ của máy tính trong tiếng Anh là motherboard hay mainboard và thường được nhiều người gọi tắt là: mobo, main.
+
+
+== Các thiết bị thường có mặt trên bo mạch chủ ==
+Trong các thiết bị điện tử Bo mạch chủ là một bản mạch đóng vai trò là trung gian giao tiếp giữa các thiết bị với nhau. Một cách tổng quát, nó là mạch điện chính của một hệ thống hay thiết bị điện tử. Có rất nhiều các thiết bị gắn trên bo mạch chủ theo cách trực tiếp có mặt trên nó, thông qua các kết nối cắm vào hoặc dây dẫn liên kết, phần này trình bày sơ lược về các thiết bị đó, chi tiết về các thiết bị xin xem theo các liên kết đến bài viết cụ thể về chúng.
+Chipset cầu bắc cùng với chipset cầu nam sẽ quyết định sự tương thích của bo mạch chủ đối với các CPU và đôi khi là hiệu năng của bo mạch chủ.
+BIOS: Thiết bị vào/ra cơ sở, rất quan trọng trong mỗi bo mạch chủ, chúng chứa thiết đặt các thông số làm việc của hệ thống. BIOS có thể được liên kết hàn dán trực tiếp vào bo mạch chủ hoặc có thể được cắm trên một đế cắm để có thể tháo rời.
+Các linh kiện, thiết bị khác: Hầu hết còn lại là linh kiện điện tử (giống như các linh kiện điện tử trong các bo mạch điện tử thông thường).
+
+
+=== Kết nối với bo mạch chủ ===
+Nguồn máy tính: Không thể thiếu trong hệ thống, nguồn máy tính cung cấp năng lượng cho hệ thống và các thiết bị ngoại vi hoạt động.
+CPU: Thường được cắm vào bo mạch chủ thông qua các đế cắm (socket) riêng biệt tuỳ theo từng loại CPU (dùng từ "cắm" chỉ là tương đối bởi các đế cắm hiện nay sử dụng tiếp xúc)
+RAM: Rất quan trọng trong hệ thống máy tính, RAM được cắm trên bo mạch chủ thông qua các khe cắm riêng cho từng thể loại.
+Bo mạch đồ hoạ: Sử dụng tăng tốc đồ hoạ máy tính, một số bo mạch chủ có thể không sử dụng đến bo mạch đồ hoạ bởi chúng được tích hợp sẵn trên bo mạch chủ.
+Bo mạch âm thanh: Mở rộng các tính năng âm thanh trên máy tính, một số bo mạch chủ đã được tích hợp sẵn bo mạch âm thanh.
+Ổ cứng: Không thể thiếu trong hệ thống máy tính cá nhân. Một số máy tính tuân theo chuẩn PC nhưng sử dụng trong công nghiệp có thể không sử dụng đến ổ cứng truyền thống, chúng được sử dụng các loại ổ flash.
+Ổ CD, ổ DVD: Các ổ đĩa quang.
+Ổ đĩa mềm: Hiện nay các máy tính cá nhân thường không cần thiết đến chúng, tuy nhiên trong một số hệ thống cũ ổ đĩa mềm vẫn tồn tại thường dùng để sao lưu hay nâng cấp BIOS.
+Màn hình máy tính: Phục vụ giao tiếp giữa máy tính với người sử dụng.
+Bàn phím máy tính: Sử dụng nhập dữ liệu và làm việc với máy tính.
+Chuột (máy tính): Phục vụ điều khiển và làm việc với máy tính.
+Bo mạch mạng: Sử dụng kết nối với mạng. Bo mạch mạng có thể được tích hợp sẵn trên bo mạch chủ hoặc được cắm vào các khe PCI hoặc ISA (với các hệ thống máy tính cũ trước kia).
+Modem: Sử dụng kết nối với Internet hoặc một máy tính từ xa.
+Loa máy tính: Xuất âm thanh ra loa máy tính; Thiết bị này kết nối trực tiếp với các bo mạch chủ được tích hợp bo mạch âm thanh trên nó. Trong trường hợp khác nó kết nối thông qua giao tiếp USB hoặc bo mạch âm thanh rời.
+Webcam: Sử dụng cho tán ngẫu trực tuyến, hội họp trực tuyến...
+Máy in: Dùng trích xuất văn bản, hình ảnh ra giấy.
+Máy quét: Sử dụng số hoá các bức ảnh hoặc văn bản.
+
+
+=== Thiết bị khác liên quan ===
+Vỏ máy tính là thiết bị mà bo mạch chủ cần lắp đặt trong nó cùng với các thiết bị khác (ở trên) cấu thành nên một máy tính hoàn chỉnh. Tuy nhiên đôi khi một số overlocker có thể không cần sử dụng đến thiết bị này nhằm tạo ra hệ thống máy tính dễ dàng cho việc tháo lắp, thay đổi và thuận tiện cho việc làm mát các thiết bị của họ.
+
+
+== Cấu trúc bo mạch chủ ==
+
+
+=== Cấu trúc sử dụng CPU của hãng Intel ===
+
+Cấu trúc bo mạch chủ sơ lược giải nghĩa như sau:
+CPU kết nối với Chipset cầu bắc (North Bridge), tại đây chipset cầu bắc giao tiếp với RAM và bo mạch đồ hoạ. Nói chung, cấu trúc máy tính cá nhân dùng bộ xử lý Intel đến thời điểm năm 2007 CPU sử dụng RAM thông qua chipset cầu bắc. Chipset cầu bắc được nối với chipset cầu nam thông qua bus nội bộ. Do tính chất làm việc "nặng nhọc" của chipset cầu bắc nên chúng thường toả nhiều nhiệt, bo mạch chủ thường có các tản nhiệt cho chúng bằng các hình thức khác nhau.
+Chipset cầu nam nối với các bộ phận còn lại, bao gồm các thiết bị có tính năng nhập/xuất (I/O) của máy tính bao gồm: các khe mở rộng bằng bus PCI, ổ cứng, ổ quang, USB, Ethernet...
+
+
+=== Cấu trúc sử dụng CPU của hãng AMD ===
+Về cơ bản, cấu trúc bo mạch chủ sử dụng CPU của hãng AMD giống như cấu trúc của bo mạch chủ sử dụng CPU của hãng Intel. AMD cũng như nhiều hãng khác đều chưa đưa ra định hướng riêng của mình mà phải theo cấu trúc của Intel bởi sự phát triển của máy tính cá nhân ngay từ thời điểm sơ khai đã phát triển theo cấu trúc nền tảng của các hãng IBM - Intel. Phần này chỉ nói ra những sự khác biệt nhỏ trong cấu trúc bo mạch chủ sử dụng CPU của AMD so với bo mạch chủ sử dụng CPU của hãng Intel: về một số cấu trúc bo mạch chủ cho bộ xử lý AMD có thể cho phép CPU giao tiếp trực tiếp với RAM mà điều này cải thiện đáng kể sự "thắt cổ chai" thường thấy ở cấu trúc bo mạch chủ sử dụng CPU của hãng Intel. Với thế hệ chipset X58/P5x/H5x, Intel đã giảm tải cho chíp cầu bắc bằng việc chuyển các bus giao tiếp với Ram và VGA lên CPU quản lý.
+
+
+== Cấu tạo bản mạch in của bo mạch chủ ==
+Bản mạch in của bo mạch chủ có cấu tạo khác biệt một chút so với các bản mạch in của các thiết bị điện tử thường thấy khác. Đa số các bản mạch in ở các mạch điện đơn giản đều có cấu tạo hai mặt (mặt trước và mặt sau) để chứa các đường dẫn trên nó. Do có rất nhiều các đường dẫn hoạt động với tần số khác nhau nên (theo quy tắc chung) bản mạch phải được thiết kế với các đường dẫn không gây nhiễu sang nhau, đây là một điểm khác biệt khiến việc thiết kế bản mạch của bo mạch chủ khác với các bo mạch thông thường.
+Ở bo mạch chủ, do chứa nhiều linh kiện với các đường dẫn lớn nên chúng được thiết kế từ 3 đến 5 lớp (thậm chí nhiều hơn): Ngoài hai lớp mặt trước và mặt sau thì ở giữa của bo mạch cũng có các đường dẫn.
+Ngoài tác dụng để cắm và dán các linh kiện trên bề mặt nó, bo mạch chủ còn được thiết kế để truyền một phần nhiệt từ các thiết bị toả nhiệt trên nó và truyền nhiệt ra một diện tích rộng để được làm mát bằng không khí. ASUS là một hãng phần cứng của Đài Loan thường rất thành công trong việc thiết kế tản nhiệt ra bản mạch của bo mạch chủ.
+
+
+== Tản nhiệt trên bo mạch chủ ==
+Do có nhiều linh kiện có thể phát nhiệt tại trực tiếp hoặc được cắm, gắn trên bo mạch chủ nên vấn đế tản nhiệt rất được coi trọng trong thiết kế.
+Phương thức tản nhiệt thường thấy trên bo mạch chủ bao gồm:
+Sử dụng các tấm, phiến tản nhiệt bằng nhôm hoặc đồng độc lập với cách truyền nhiệt tự nhiên ra môi trường xung quanh hoặc tận dụng luồng gió từ quạt CPU thổi ra.
+Sử dụng quạt tạo sự tản nhiệt cưỡng bức, tuy nhiên cách dùng quạt hiện nay dần ít được dùng bởi sự rủi ro có thể xảy đến khi bo mạch chủ được sử dụng sau vài năm và quạt có thể bị hư hỏng dẫn đến thiết bị được tản nhiệt bằng quạt này sẽ bị hư hỏng.
+Sử dụng công nghệ ống truyền nhiệt để liên kết các cụm chi tiết cần tản nhiệt với nhau. Các cụm được gắn kết với nhau thường là: Chipset cầu bắc-Chipset cầu nam-Transistor điều tiết điện năng cho CPU và bo mạch chủ.
+Cho phép sự tản nhiệt bằng nước với các hệ thống tản nhiệt nước gắn ngoài bằng cách thiết kế các đầu cắm ống nước chờ sẵn.
+Các thiết bị cần tản nhiệt trên bo mạch chủ:
+Chipset cầu bắc là thiết bị mà bất kỳ bo mạch chủ nào cũng phải tản nhiệt cho nó bởi sự phát nhiệt lớn tỏa ra bởi chúng là cầu nối quan trọng của hệ thống và làm việc liên tục. Nhiều bo mạch chủ tích hợp sẵn bo mạch đồ hoạ trong chipset cầu bắc khiến chúng càng toả nhiệt nhiều hơn.
+Chipset cầu nam mới được coi trọng sự tản nhiệt trong thời gian gần đây (trước đây chúng thường được để trần mà không được gắn bất kỳ một tấm tản nhiệt nào) bởi các tính năng và thiết năng mở rộng có thể làm nó hoạt động mạnh hơn và phát nhiệt nhiều hơn.
+Các transistor trường cho phần điều chế nguồn của bo mạch chủ và CPU: Nhiều bo mạch chủ thiết kế áp mặt lưng của các transistor này xuống trực tiếp bo mạch để tản nhiệt ra bo mạch, một số bo mạch chủ thiết kế các tấm phiến tản nhiệt riêng, số ít các bo mạch chủ cao cấp thiết kế ống truyền nhiệt liên kết chúng với các thiết bị tản nhiệt khác.
+
+
+== Thiết kế riêng của các nhà sản xuất phần cứng ==
+Các nhà sản xuất phần cứng luôn tạo ra các sự thay đổi trong thiết kế cấu trúc của bo mạch chủ nên mỗi hãng khác nhau sẽ tạo ra một sự thay đổi nào đó so với các kiến trúc thông thường để hướng sự chú ý của khách hàng. Chính điều đó đã thúc đẩy công nghệ phát triển, tạo ra sự phát triển không ngừng.
+Sự thay đổi thiết kế có thể kể đến:
+Tăng số khe cắm PCI-Express X16 lên 3-4 khe để có thể hoạt động với đồng thời 2-4 bo mạch đồ hoạ hỗ trợ công nghệ CrossFire.
+Tạo ra những phương thức tản nhiệt hiệu quả.
+Cho phép ép xung của hệ thống.
+Thay đổi các loại linh kiện truyền thống bằng các linh kiện tốt hơn, bền hơn và chịu đựng được nhiệt độ cao hơn: Ví dụ việc sử dụng các tụ rắn thay cho tụ hoá thông thường.
+
+
+== Các chuẩn bo mạch chủ thông dụng đến năm 2007 ==
+
+
+=== Chuẩn ATX ===
+
+ATX là chuẩn bo mạch chủ thông dụng nhất hiện nay, chúng được phát triển có chọn lọc trên nền các chuẩn cũ (Baby-AT và LPX) với sự thay đổi của thiết kế và liên quan nhiều đến việc thay đổi đầu nối nguồn với nguồn máy tính, tính năng quản lý điện năng thông minh và sự thay đổi nút khởi động một phiên làm việc. Một thay đổi khác là sự tập hợp các cổng kết nối vào/ra về phía sau của hệ thống máy tính cá nhân (bao gồm các khe cắm mở rộng ở phía dưới và cụm cổng vào/ra ở phía trên (I/O connector panel) đối với vỏ máy tính kiểu đứng).
+Hình minh hoạ đầu tiên của bài viết này là một bo mạch chủ theo chuẩn ATX.
+Đầu nối nguồn cho bo mạch chủ theo chuẩn ATX:
+Đầu nối nguồn cho bo mạch chủ theo chuẩn ATX bao gồm hai loại đầu: 20 chân và 24 chân.
+Hình phần trên: Đầu nối 24 chân cung cấp điện năng cho bo mạch chủ; hình dưới: Đầu nối vào bo mạch chủ cung cấp nguồn +12V cho CPU
+Theo sự quy ước (như hình) thì các đầu nối 20 chân chỉ khác biệt 4 chân dưới cùng. Nếu bỏ các chân 11, 12, 23, 24 (theo quy ước như hình) thì đầu nối 24 chân trở thành đầu nối 20 chân. Chính vì điều này mà một số nguồn máy tính đã thiết kế loại đầu cắm 20+4 chân phù hợp cho cả hai loại bo mạch chủ.
+Thay đổi nút Power so với các chuẩn cũ:
+Nút power ở các chuẩn cũ thuộc thể loại "công tắc", chúng có nguyên lý hoạt động giống như các công tắc bật đèn thông thường trong dân dụng (đây là điều tạo nên sự dễ phân biệt các chuẩn ATX và chuẩn cũ). Theo chuẩn ATX thì nút "Power" trên vỏ máy tính là một nút nhấn "mềm" (chúng tự đàn hồi về trạng thái 0 sau khi bấm), nút này có thể được lựa chọn tuỳ biến thành các chức năng khác nhau khi máy tính đã khởi động vào hệ điều hành (Ví dụ có thể trở thành một trong các nút: Stand by, Hibernate, Shutdown).
+
+
+=== Chuẩn BTX ===
+BTX là một chuẩn mới xuất hiện và thường chỉ dùng cho các hệ thống máy tính cá nhân cao cấp, điểm đặc biệt của bo mạch chủ theo chuẩn này là sự sắp xếp lại vị trí của các thiết bị trên bo mạch chủ nhằm tạo ra sự lưu thông không khí tối ưu trong thùng máy.
+CPU được chuyển gần ra phía trước của thùng máy cùng với quạt tản nhiệt CPU thiết kế kiểu thổi ngang (song song với bo mạch chủ) sẽ lấy gió từ phía mặt trước của vỏ máy (được thiết kế bắt buộc các lưới thoáng). Cách thiết kế này cải tiến so với chuẩn ATX bởi CPU theo chuẩn ATX có thể sử dụng luồng gió luẩn quẩn nếu không được thiết kế thông thoáng và định hướng gió hợp lý hoặc sử dụng vỏ máy tính theo chuẩn 38°.
+Luồng gió đầu vào sau khi làm mát CPU có thể tiếp tục làm mát bo mạch đồ hoạ, một phần thoát ra phía sau theo quạt thông gió của vỏ máy tính phía sau, một phần qua RAM để thoát ra ngoài thông qua nguồn máy tính.
+Kết nối nguồn của chuẩn BTX không có khác biệt so với của chuẩn ATX 24 chân.
+BTX hiện nay chưa trở thành thông dụng với đa số người dùng do đó các hãng sản xuất phần cứng cũng chưa cho ra đời nhiều loại bo mạch chủ theo chuẩn này.
+
+
+== Các chuẩn kích thước của bo mạch chủ ==
+
+Kích thước của bo mạch chủ thường được chuẩn hoá để đảm bảo tương thích với các vỏ máy tính.
+Có các loại kích thước sau:
+
+
+=== Các chuẩn cổ điển trước đây ===
+Baby-AT: 216 mm × 254–330 mm
+Full-size AT: 305 mm × 279–330 mm
+LPX: 229 mm × 279–330 mm
+WTX: 355.6 mm × 425.4 mm
+ITX: 215 mm x 191 mm
+
+
+=== Các chuẩn hiện tại ===
+BTX: 305 x 272mm
+microBTX: 264 x 267 mm
+pico BTX: 203 x 267 mm
+ATX: 305 x 244 mm
+mini ATX: 284 x 208 mm
+microATX: 244 x 220 mm
+flexATX: 229 x 191 mm
+Mini-ITX: 170 x 170 mm
+
+
+=== Kích thước không theo chuẩn ===
+Trong một số trường hợp các nhà sản xuất máy tính có thể sản xuất các bo mạch chủ với kích thước riêng của họ nhưng loại này chỉ được lắp ráp tại các máy tính đồng bộ mà không được bán riêng lẻ ra thị trường
+
+
+== Kết nối thông thường ==
+
+
+== Các công ty sản xuất ==
+Supermicro
+ASUS
+Gigabyte
+MSI
+Asrock
+Biostar
+
+
+== Tham khảo ==

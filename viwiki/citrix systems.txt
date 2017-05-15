@@ -1,0 +1,48 @@
+Citrix Systems, Inc. là một công ty phần mềm đa quốc gia của Hoa Kỳ, cung cấp máy chủ, ứng dụng và ảo hóa desktop, mạng, Phần mềm dạng dịch vụ (SaaS), và công nghệ điện toán đám mây. Nó được thành lập ở Richardson, Texas vào năm 1989 bởi Ed Iacobucci, người từng giữ chức chủ tịch cho đến khi rời khỏi năm 2000.
+Công ty bắt đầu bằng cách phát triển các sản phẩm truy cập từ xa cho hệ điều hành của Microsoft. Nó được cấp phép mã nguồn từ Microsoft và đã hợp tác với công ty trong suốt lịch sử của nó. Citrix trở nên nổi bật trong những năm 1990 như là một nhà lãnh đạo trong công nghệ thin client, mục đích được xây dựng để truy cập các máy chủ từ xa. Công ty đã có lần phát hành lần đầu ra công chúng đầu tiên vào năm 1995 and, với ít đối thủ cạnh tranh, đã có sự gia tăng doanh thu lớn giữa năm 1995 đến 1999.
+Công ty này đã mua lại Sequoia Software Corp. vào năm 2001 và ExpertCity, một nhà cung cấp các sản phẩm máy tính để bàn truy cập từ xa, trong năm 2003. Từ năm 2005 đến năm 2012, Citrix đã mua lại hơn một chục công ty khác, cho phép mở rộng sang ảo hóa máy chủ và máy tính để bàn cũng như đám mây, hạ tầng dạng dịch vụ, và phần mềm dạng dịch vụ. Trong năm 2014, Citrix đã mua lại Framehawk và sử dụng công nghệ của nó để cải thiện việc cung cấp ảo hóa desktop và ứng dụng ảo hóa qua mạng không dây.
+Citrix có trụ sở tại Fort Lauderdale, Florida và Santa Clara, California, với công ty con hoạt động ở California và Massachusetts, và các trung tâm phát triển bổ sung ở Úc, Canada, Đan Mạch, Đức, Ấn Độ và Vương quốc Anh. Hiện tại có khoảng 330.000 tổ chức trên khắp thế giới dùng dịch vụ của nó. Trong năm 2014, công ty đã được xếp hạng 741 trên Fortune 1000. Citrix đã báo cáo doanh thu 3,28 tỷ đô la và thu nhập ròng trên 300 triệu đô la vào năm 2015. Vào tháng 12 năm 2015, Citrix có khoảng 9.500 nhân viên, nhưng vào tháng 11 họ cơ cấu lại để loại bỏ gần 700 việc làm toàn thời gian. Cựu giám đốc điều hành Microsoft Kirill Tatarinov trở thành Giám đốc điều hành của nó vào tháng 1 năm 2016.
+
+
+== Lịch sử ==
+
+
+=== Ngày đầu ===
+Citrix được thành lập ở Richardson, Texas vào năm 1989 bởi nhân viên cũ của IBM Ed Iacobucci với 3 triệu USD tài trợ. Sau ngày thành lập ban đầu, Iacobucci chuyển công ty đến nhà cũ của ông ở Coral Springs, Florida.
+
+
+=== Trở nên phổ biến ===
+
+
+=== Mở rộng ===
+Năm 2001, Citrix mua lại Sequoia Software Corp. với giá 185 triệu USD. Cùng năm đó nó phát hành MetaFrame XP, một nền tảng mới sử dụng công nghệ MetaFrame. Sau đó nó được Citrix đổi tên thành Presentation Server, in 2005.
+
+
+=== Gần đây ===
+Citrix đã công bố thu nhập ròng là 251,7 triệu USD vào năm 2014, giảm từ 339,5 triệu USD vào năm 2013.
+
+
+== Hoạt động ==
+Citrix là một công ty Hoa Kỳ tạo ra phần mềm để sử dụng trên máy tính cá nhân và các thiết bị khác để kết nối từ xa tới máy tính để bàn, ứng dụng và mạng.
+
+
+== Mua lại ==
+
+
+== Sản phẩm ==
+
+
+== Hoạt động xã hội ==
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Keith Schultz (ngày 14 tháng 12 năm 2011) VDI shoot-out: Citrix XenDesktop vs. VMware View. Citrix XenDesktop 5.5 and VMware View 5 vie for the most flexible, scalable, and complete virtual desktop infrastructure, InfoWorld
+Keith Schultz (ngày 14 tháng 12 năm 2011) VDI shoot-out: HDX vs. PCoIP. The differences between the Citrix and VMware remote desktop protocols are more than skin deep, InfoWorld
+
+
+== Liên kết ngoài ==
+Website chính thức
+Citrix Monitoring: Real-Time vs Agent-Based

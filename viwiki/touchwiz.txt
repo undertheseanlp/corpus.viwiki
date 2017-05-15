@@ -1,0 +1,259 @@
+TouchWiz là giao diện cảm ứng phát triển bởi Samsung Electronics với đối tác, gồm một giao diện người dùng cảm ứng đầy đủ. Đôi khi không chính xác khi gọi nó là một hệ điều hành. TouchWiz chỉ được sử dụng trong các sản phẩm của Samsung như điện thoại thông minh và máy tính bảng, và không khả dụng cho việc cấp phép ra bên ngoài. Phiên bản Android của TouchW đi cùng các ứng dụng của Samsung đã được cài đặt sẵn.
+Phiên bản cao nhất của TouchWiz là TouchWiz Nature UX 2.0, được phát hành trên Galaxy S4 và TouchWiz Nature UX 2.5, trên Galaxy Note 3. Nó mang lại giao diện người dùng tinh tế hơn các phiên bản trước, TouchWiz Nature UX, trên Galaxy S III. Thanh trạng thái trong suốt trong chế độ màn hình chính trong TouchWiz Nature UX 2.0 và TouchWiz Nature UX 2.5. Trong TouchWiz 4.0 trên Galaxy S II và Samsung Galaxy Note (cả hai được cập nhật lên Nature UX) được thêm một vài tính năng mới bao gồm xoay và nghiêng, sử dụng gia tốc và con quay để phát hiện sự chuyển động của điện thoại.
+TouchWiz được sử dụng trên hệ điều hành độc quyền của Samsung, Bada và REX, như các điện thoại chạy hệ điều hành Android khác. Nó sẽ có mặt trên điện thoại chạy hệ điều hành Tizen.
+
+
+== Phiên bản ==
+
+
+=== TouchWiz 3.0 Lite (Hỗ trợ Android 2.1 - Android 2.2) (2010) ===
+Phiên bản Lite của 3.0 là phiên bản "đơn giản" của 3.0 gốc. Thiết bị đầu tiên với TouchWiz 3.0 Lite là Samsung Galaxy Proclaim.
+
+
+=== TouchWiz 3.0 (Hỗ trợ Android 2.1 - Android 2.2) (2010) ===
+Phiên bản gốc của TouchWiz được giới thiệu lần đầu tiên trên Samsung Galaxy S.
+
+
+=== TouchWiz 4.0 (Hỗ trợ Android 2.3 - Android 4.0) (2011) ===
+Phiên bản thứ hai của TouchWiz được cải thiện với khả năng tăng tốc phần cứng. Samsung Galaxy S II là thiết bị đầu tiên được cài sẵn TouchWiz 4.0. Nó có thêm tùy chọn tương tác cử chỉ được gọi là 'chuyển động' trong đó (trong một số thứ khác) cho phép người dùng phóng to và thu nhỏ bằng hai ngón tay trên màn hình và nghiêng thiết bị về phía trước và ngược lại để phóng to và thu nhỏ. Cử chỉ này hoạt động trên cả trình duyệt web và hình ảnh trong bộ sưu tập trên thiết bị. "Nghiêng" trên TouchWiz 4.0 cho phép các widget và icons phím tắt chuyển động giữa các màn hình, cho phép các thiết bị có thể giữ và di chuyển từ bên này sang bên kia màn hình chính.
+-Ứng dụng cài sẵn (Chỉ các thiết bị được chọn)-
+Diary
+Samsung Apps
+Voice Command
+AllShare Play
+Samsung Kies Air
+Samsung Social Hub
+Samsung Music Hub
+Samsung Readers Hub
+Samsung Game Hub
+- Ứng dụng cài sẵn (Chỉ các thiết bị Samsung Galaxy Note)-
+S Note
+Diary
+Samsung Apps
+Voice Command
+AllShare Play
+Samsung Kies Air
+Samsung Social Hub
+Samsung Music Hub
+Samsung Readers Hub
+Samsung Game Hub
+
+
+=== TouchWiz Nature UX Lite (Hỗ trợ Android 4.0) (2012) ===
+Phiên bản Lite của Nature UX TouchWiz là phiên bản "đơn giản" của TouchWiz Nature UX gốc. Các thiết bị đầu tiên với TouchWiz Nature UX Lite là Samsung Galaxy Tab 2 7.0.
+-Ứng dụng cài sẵn-
+ChatON
+Samsung Apps
+S Voice (Chỉ các thiết bị được chọn)
+Samsung Game Hub
+S Suggest
+
+
+=== TouchWiz Nature UX (Hỗ trợ Android 4.0 - Android 4.1) (2012) ===
+Đây là phiên bản thứ ba của TouchWiz được đổi tên thành TouchWiz Nature UX cùng với việc thiết kế lại nhìn và cảm nhận. Samsung Galaxy S III và Samsung Galaxy Note 10.1 là thiết bị đầu tiên cài sẵn TouchWiz Nature UX. Phiên bản "Thiên nhiên" sử dụng trên S III và Note 10.1 có thêm cảm giác "hữu cơ" hơn phiên bản trước, và chứa các yếu tố tương tác nhiều hơn như hiệu ứng nước gợn sóng trên màn hình khóa và âm thanh mới của thương hiệu. Để bổ sung cho giao diện TouchWiz, và cũng như phản hồi như Siri của Apple, điện thoại được giới thiệu S Voice, trợ lý thông minh mới của Samsung. S Voice có thể nhận diện tám ngôn ngữ bao gồm tiếng Anh, tiếng Hàn và Pháp. Dựa trên Vlingo, S Voice cho phép người dùng điều khiển bằng giọng nói với 20 vấn đề khách nhau như phát nhạc, cài đặt báo thức, hoặc kích hoạt chế độ lái xe; nó dựa vào Wolfram Alpha cho tìm kiếm trực tuyến. Tính năng theo dõi ánh mắt mới như Smart Stay có thể thấy trên thiết bị TouchWiz Nature UX.
+-Ứng dụng cài sẵn (Chỉ các thiết bị được chọn)-
+ChatON
+Samsung Apps
+S Voice
+Samsung Game Hub
+Samsung Video Hub
+Samsung Social Hub
+AllShare Play
+Samsung Music Hub
+S Suggest
+S Memo
+-Ứng dụng cài sẵn (Chỉ các thiết bị Samsung Galaxy Note)-
+ChatON
+Samsung Apps
+S Voice
+S Note
+Samsung Game Hub
+Samsung Video Hub
+Samsung Social Hub
+AllShare Play
+Samsung Music Hub
+S Suggest
+S Memo
+
+
+=== TouchWiz Nature UX 2.0 (Hỗ trợ Android 4.2) (2013) ===
+Phiên bản thứ tư của TouchWiz vẫn dựa trên phiên bản "Thiên nhiên" trên S III với một số thay đổi nhỏ. Samsung Galaxy S4 là thiết bị đầu tiên cài sẵn TouchWiz Nature UX 2.0. Thêm tính năng theo dõi ánh mắt mới được giới thiệu với S4 là Smart Scroll. Trình cài đặt được chia làm 4 lựa chọn: Kết nối, Thiết bị của tôi, Tài khoản, và Thêm (chỉ trên điện thoại).
+-Ứng dụng cài sẵn (Chỉ các thiết bị được chọn)-
+S Health
+Optical Reader
+Samsung Apps
+Samsung Hub
+ChatON
+Story Album
+Group Play
+Samsung Link
+Samsung WatchON
+S Translator
+S Voice
+Photo Suggest
+S Suggest
+S Memo
+-Ứng dụng cài sẵn (Chỉ thiết bị Samsung Galaxy Note)-
+S Health
+Optical Reader
+Samsung Apps
+Samsung Hub
+ChatON
+Story Album
+Group Play
+Samsung Link
+Samsung WatchON
+S Translator
+S Voice
+S Note
+
+
+=== TouchWiz Nature UX 2.5 (Hỗ trợ Android 4.3) (2013) ===
+TouchWiz Nature UX 2.5 có sự thay đổi nhỏ trong thiết kế. Samsung GT-I8553 và Samsung Galaxy Note 10.1 2014 Edition là những thiết bị đầu tiên cài sẵn TouchWiz mới. Phiên bản thương hiệu mới của TouchWiz hoàn thành cùng với hỗ trợ chức năng bảo mật Samsung Knox. Trình cài đặt mới (Kết nối, Thiết bị, Điều khiển, Chung) từ Note 3 (với bốn danh mục phía trên màn hình) hiện hỗ trợ trên máy tính bảng, như Samsung Galaxy Note 3 10.1. -Ứng dụng cài sẵn (Chỉ các thiết bị được chọn)
+S Health
+Samsung Apps
+Samsung Hub
+ChatON
+Story Album
+Group Play
+Samsung Link
+Samsung WatchON
+S Translator
+S Voice
+Samsung Knox
+Optical Reader
+Photo Suggest
+-Ứng dụng cài sẵn (Chỉ thiết bị Samsung Galaxy Note)-
+S Health
+Samsung Apps
+Samsung Hub
+ChatON
+Story Album
+Group Play
+Samsung Link
+Samsung WatchON
+S Translator
+S Voice
+S Note
+Action Memo
+Samsung Knox
+Scrapbook
+S Finder
+
+
+== Điện thoại chạy Samsung TouchWiz ==
+
+
+=== Độc quyền ===
+Samsung Champ
+Samsung Jet
+Samsung Preston
+Samsung Solstice
+Samsung Corby
+Samsung Star
+Samsung Tocco
+Samsung Ultra Touch
+Samsung Blue Earth
+Samsung Monte
+Samsung S5301 Samsung pocket
+
+
+=== Bada ===
+Samsung Wave 575 (TouchWiz 3.0)
+Samsung Wave S8500
+Samsung Wave II S8530
+Samsung Wave 723 (TouchWiz 3.0)
+Samsung Wave 525 (TouchWiz 3.0)
+Samsung Wave Y
+Samsung Wave 3 (TouchWiz 4.0)
+
+
+=== Windows Mobile ===
+Samsung Omnia II
+
+
+=== Symbian ===
+Samsung i8910
+
+
+=== Android ===
+
+
+==== Máy ảnh ====
+Samsung Galaxy Camera (TouchWiz Nature UX)
+Samsung Galaxy NX (TouchWiz Nature UX 2.0)
+
+
+==== Điện thoại thông minh ====
+Samsung Behold II
+Samsung Illusion SCH-I110 (TouchWiz 3.0)
+Samsung Infuse 4G (TouchWiz 3.0)
+Samsung Rugby Smart (TouchWiz 3.0)
+Samsung Droid Charge (TouchWiz 4.0, nâng cấp lên TouchWiz Nature UX)
+Samsung Galaxy Chat (TouchWiz Nature UX)
+Samsung Galaxy Gio (TouchWiz 3.0)
+Samsung Galaxy Fit (TouchWiz 3.0)
+Samsung Galaxy Mini (TouchWiz 3.0)
+Samsung Galaxy Mini 2 (TouchWiz 4.0, nâng cấp lên TouchWiz Nature UX)
+Samsung Galaxy 3 (TouchWiz 3.0)
+Samsung Galaxy 5 (TouchWiz 3.0)
+Samsung Captivate Glide (TouchWiz 4.0)
+Samsung Gravity Smart (TouchWiz 3.0)
+Samsung Exhibit II 4G (TouchWiz 4.0)
+Samsung Galaxy Y (TouchWiz 3.0, nâng cấp lên TouchWiz 4.0)
+Samsung Galaxy W (TouchWiz 4.0)
+Samsung Galaxy R (TouchWiz 4.0)
+Samsung Galaxy Ace (TouchWiz 3.0)
+Samsung Galaxy Ace Plus (TouchWiz 4.0, nâng cấp lên TouchWiz Nature UX)
+Samsung Galaxy Ace 2 (TouchWiz 4.0, nâng cấp lên TouchWiz Nature UX)
+Samsung Galaxy Ace 3 (TouchWiz Nature UX 2.0, nâng cấp lên TouchWiz Nature UX 2.5)
+Samsung Galaxy Express (TouchWiz Nature UX)
+Samsung Galaxy Grand (TouchWiz Nature UX, nâng cấp lên Nature UX 2.0)
+Samsung Galaxy Premier (TouchWiz Nature UX)
+Samsung Galaxy Prevail 2 (TouchWiz 4.1.2)
+Samsung Galaxy Pro (TouchWiz 3.0)
+Samsung Galaxy Proclaim (TouchWiz 3.0 Lite)
+Samsung Galaxy Pocket (TouchWiz 3.0 Lite)
+Samsung Galaxy Young (TouchWiz Nature UX)
+Samsung Galaxy Fame (TouchWiz Nature UX, nâng cấp lên TouchWiz Nature UX 2.5)
+Samsung Galaxy S (TouchWiz 3.0, nâng cấp lên TouchWiz 4.0)
+Samsung Galaxy S Blaze 4G (TouchWiz 4.0)
+Samsung Galaxy S Duos (TouchWiz Nature UX)
+Samsung Galaxy SL I9003 (TouchWiz 3.0, nâng cấp lên TouchWiz 4.0)
+Samsung Galaxy S Plus (TouchWiz 3.0, nâng cấp lên TouchWiz 4.0)
+Samsung Galaxy S Advance (TouchWiz 4.0, nâng cấp lên TouchWiz Nature UX 2.0)
+Samsung Galaxy S II (TouchWiz 4.0, nâng cấp lên TouchWiz Nature UX)
+S II Skyrocket (TouchWiz 4.0, nâng cấp lên TouchWiz Nature UX)
+Samsung Galaxy S II Plus (TouchWiz Nature UX)
+Samsung Galaxy S III/S III Mini (TouchWiz Nature UX, nâng cấp lên TouchWiz Nature UX 2.5)
+Samsung Galaxy S4/S4 Active/S4 Mini/S4 Zoom/S4 LTE-A (TouchWiz Nature UX 2.0, nâng cấp lên TouchWiz Nature UX 2.5)
+Samsung Galaxy Star (TouchWiz Nature UX)
+Samsung Galaxy Win (TouchWiz Nature UX 2.0)
+Samsung Galaxy Core (TouchWiz Nature UX 2.0, nâng cấp lên TouchWiz Nature UX 2.0)
+
+
+==== Phalets ====
+Samsung Galaxy Note (TouchWiz 4.0, nâng cấp lên TouchWiz Nature UX)
+Samsung Galaxy Note II (TouchWiz Nature UX, nâng cấp lên TouchWiz Nature UX 2.0)
+Samsung Galaxy Note 3 (TouchWiz Nature UX 2.5)
+Samsung Galaxy Mega 5.8 (TouchWiz Nature UX 2.0, nâng cấp lên TouchWiz Nature UX 2.5)
+Samsung Galaxy Mega 6.3 (TouchWiz Nature UX 2.0, nâng cấp lên TouchWiz Nature UX 2.5)
+
+
+==== Máy tính bảng ====
+Samsung Galaxy Tab 7.0 (TouchWiz 3.0)
+Samsung Galaxy Tab 7.0 Plus (TouchWiz 4.0, nâng cấp lên TouchWiz Nature UX)
+Samsung Galaxy Tab 2 7.0 (TouchWiz Nature UX Lite, nâng cấp lên TouchWiz Nature UX 2.0)
+Samsung Galaxy Tab 3 7.0 (TouchWiz Nature UX)
+Samsung Galaxy Tab 7.7 (TouchWiz 4.0, nâng cấp lên TouchWiz Nature UX)
+Samsung Galaxy Tab 3 8.0 (TouchWiz Nature UX 2.0)
+Samsung Galaxy Tab 8.9 (TouchWiz 4.0, nâng cấp lên TouchWiz Nature UX)
+Samsung Galaxy Tab 10.1 (TouchWiz 4.0, Upgrading TouchWiz Nature UX)
+Samsung Galaxy Tab 2 10.1 (TouchWiz Nature UX Lite, nâng cấp lên TouchWiz Nature UX)
+Samsung Galaxy Tab 3 10.1 (TouchWiz Nature UX)
+Samsung Galaxy Note 8.0 (TouchWiz Nature UX, nâng cấp lên TouchWiz Nature UX 2.0)
+Samsung Galaxy Note 10.1 (TouchWiz Nature UX Lite, nâng cấp lên TouchWiz Nature UX)
+Samsung Galaxy Note 10.1 2014 Edition (TouchWiz Nature UX 2.5)
+
+
+== Tham khảo ==

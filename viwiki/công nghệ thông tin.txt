@@ -1,0 +1,41 @@
+Công nghệ Thông tin, viết tắt CNTT, (tiếng Anh: Information Technology hay là IT) là một nhánh ngành kỹ thuật sử dụng máy tính và phần mềm máy tính để chuyển đổi, lưu trữ, bảo vệ, xử lý, truyền tải và thu thập thông tin.
+Ở Việt Nam, khái niệm Công nghệ Thông tin được hiểu và định nghĩa trong nghị quyết Chính phủ 49/CP ký ngày 04/08/1993: "Công nghệ thông tin là tập hợp các phương pháp khoa học, các phương tiện và công cụ kĩ thuật hiện đại - chủ yếu là kĩ thuật máy tính và viễn thông - nhằm tổ chức khai thác và sử dụng có hiệu quả các nguồn tài nguyên thông tin rất phong phú và tiềm năng trong mọi lĩnh vực hoạt động của con người và xã hội".
+Thuật ngữ "Công nghệ Thông tin" xuất hiện lần đầu vào năm 1958 trong bài viết xuất bản tại tạp chí Harvard Business Review. Hai tác giả của bài viết, Leavitt và Whisler đã bình luận: "Công nghệ mới chưa thiết lập một tên riêng. Chúng ta sẽ gọi là công nghệ thông tin (Information Technology - IT)." 
+Các lĩnh vực chính của công nghệ thông tin bao gồm quá trình tiếp thu, xử lý, lưu trữ và phổ biến hóa âm thanh, phim ảnh, văn bản và thông tin số bởi các vi điện tử dựa trên sự kết hợp giữa máy tính và truyền thông. Một vài lĩnh vực hiện đại và nổi bật của công nghệ thông tin như: các tiêu chuẩn Web thế hệ tiếp theo, sinh tin, điện toán đám mây, hệ thống thông tin toàn cầu, tri thức quy mô lớn và nhiều lĩnh vực khác. Các nghiên cứu phát triển chủ yếu trong ngành khoa học máy tính.
+
+
+== Thông tin ==
+
+Từ tiếng Anh Information (hay còn gọi là Thông tin trong Tiếng Việt) bắt nguồn từ ngôn ngữ Latin với từ gốc (information) của từ được bổ nhiệm (informatio): đây là danh từ có gốc từ động từ Informare có ý nghĩa như: kỷ luật, hướng dẫn, dạy và đưa hình thức vào tâm trí.
+
+
+== Công nghệ ==
+
+Công nghệ thông tin là ngành quản lý công nghệ và mở ra nhiều lĩnh vực khác nhau như phần mềm máy tính, hệ thống thông tin, phần cứng máy tính, ngôn ngữ lập trình nhưng lại không giới hạn một số thứ như các quy trình và cấu trúc dữ liệu. Tóm lại, bất cứ thứ gì mà biểu diễn dữ liệu, thông tin hay tri thức trong các định dạng nhìn thấy được, thông qua bất kỳ cơ chế phân phối đa phương tiện nào thì đều được xem là phần con của lĩnh vực công nghệ thông tin. Công nghệ thông tin cung cấp cho các doanh nghiệp bốn nhóm dịch vụ lõi để giúp thực thi các chiến lược kinh doanh đó là: quá trình tự động kinh doanh, cung cấp thông tin, kết nối với khách hàng và các công cụ sản xuất.
+Các chuyên gia IT tham gia xây dựng nhiều các chức năng khác nhau từ phạm vi cài đặt phần mềm ứng dụng đến thiết kế mạng máy tính phức tạp và cơ sở dữ liệu thông tin. Một vài công việc mà các chuyên gia thực hiện có thể bao gồm quản lý dữ liệu, mạng, kỹ thuật phần cứng máy tính, thiết kế phần mềm và thiết kế cơ sở dữ liệu cũng như quản lý, quản trị toàn bộ hệ thống. Công nghệ thông tin bắt đầu lan rộng hơn nữa so với máy tính cá nhân và công nghệ mạng thông thường, và có nhiều tích hợp các công nghệ khác như sử dụng điện thoại di động, ti vi, xe máy và nhiều nữa, và làm tăng trưởng nhu cầu nghề nghiệp cho các công việc đó.
+Trong thời gian gần đây, Hội đồng Quản trị Tín nhiệm Cơ khí và Công nghệ và Hiệp hội Kỹ thuật máy tính đã hợp tác để hình thành tiêu chuẩn và chương trình giảng dạy  cho các chứng chỉ ngành Công nghệ Thông tin như là một ngành học so với  ngành Khoa học máy tính và Hệ thống thông tin ngày nay. SIGITE (Nhóm yêu thích đặc biệt về giáo dục IT) là nhóm làm việc ACM để định nghĩa các tiêu chuẩn trên. Các dịch vụ IT toàn cầu có tổng doanh thu $763 tỉ USD năm 2009.
+
+
+== Quy mô và tăng trưởng của công nghệ thông tin ==
+Hilbert và Lopez xác định tốc độ theo cấp số nhân về sự thay đổi công nghệ (một dạng của định luật Moore) như sau: năng suất ứng dụng máy móc chuyên dụng để tính toán thông tin bình quân đầu người đã tăng gần gấp đôi với chu kỳ 14 tháng từ năm 1986 đến năm 2007; năng suất bình quân đầu người về mục đích sử dụng máy tính nói chung trên thế giới đã tăng gấp đôi mỗi 18 tháng trong suốt hai thập kỉ; năng suất viễn thông toàn cầu bình quân đầu người tăng gấp đôi mỗi 34 tháng; khả năng lưu trữ bình quân đầu người trên thế giới tăng gấp đôi mỗi 40 tháng (3 năm) và thông tin phát sóng bình quân đầu người tăng gấp đôi khoảng 12,3 năm.
+
+
+== Xem thêm ==
+Khoa học máy tính
+Công nghệ thông tin và truyền thông
+Công nghệ thông tin và truyền thông dành cho phát triển
+Công nghệ thông tin tiếp cận
+Lịch sử thông tin
+Máy tính
+
+
+== Tham khảo ==
+
+
+== Nghiên cứu thêm ==
+
+Blais, Steven (tháng 12 năm 2011). Business Analysis: Best Practices for Success. John Wiley & Sons. ISBN 1-118-07600-1. 
+
+
+== Liên kết ngoài ==
+The Information Technology Infrastructure Library (ITIL) (tiếng Anh)

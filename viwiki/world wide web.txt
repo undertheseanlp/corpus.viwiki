@@ -1,0 +1,74 @@
+World Wide Web, gọi tắt là Web hoặc WWW, mạng lưới toàn cầu là một không gian thông tin toàn cầu mà mọi người có thể truy cập (đọc và viết) qua các máy tính nối với mạng Internet. Thuật ngữ này thường được hiểu nhầm là từ đồng nghĩa với chính thuật ngữ Internet. Nhưng Web thực ra chỉ là một trong các dịch vụ chạy trên Internet, ngoài Web ra còn các dịch vụ khác như thư điện tử hoặc FTP.
+Web được viện sĩ Viện Hàn lâm Anh Tim Berners-Lee, một chuyên gia tại CERN, Geneva, Thụy Sĩ phát minh ngày 12 tháng 3 năm 1989. Khởi đầu nó chỉ là một dự án liên lạc nội bộ của CERN, nhưng Berners-Lee nhận ra ý tưởng này có thể thực hiện với quy mô toàn cầu. Berners-Lee và Robert Cailliau, đồng nghiệp của ông tại CERN đề xuất vào năm 1990 sử dụng siêu văn bản "để liên kết và truy cập thông tin như một mạng lưới các nút trong đó người dùng có thể duyệt thông tin theo ý muốn" , và Berners-Lee đã hoàn thành trang web đầu tiên vào tháng 12 năm đó. Trang web được kiểm tra thành công ngày 20 tháng 12 năm 1990 và Berners-Lee thông báo về ý tưởng này trên alt.hypertext vào ngày 7 tháng 8 năm 1991.
+
+
+== Lịch sử ==
+
+Trong số phát hành tháng 5 năm 1970 của tạp chí Popular Science, Arthur C. Clarke dự đoán rằng một ngày nào đó các vệ tinh sẽ "mang những kiến ​​thức tích lũy của thế giới đến tầm tay bạn" bằng cách sử dụng một giao diện điều khiển kết hợp chức năng của máy photocopy, điện thoại, truyền hình và một máy tính nhỏ, cho phép truyền dữ liệu và hội nghị truyền hình trên toàn cầu.
+Ngày 12 tháng 3 năm 1989, Tim Berners-Lee đã viết một dự án nhắc tới ENQUIRE, một dự án cơ sở dữ liệu và phần mềm đã được Berners-Lee xây dựng vào năm 1980, nhằm mô tả một hệ thống quản lý thông tin phức tạp hơn.
+Với sự giúp đỡ của đồng nghiệp Robert Cailliau, ông xuất bản một đề nghị chính thức vào ngày 12 tháng 11 năm 1990 để xây dựng một dự án "siêu văn bản" được gọi là "WorldWideWeb" (còn gọi là "W3") như là một "mạng lưới" của các "tài liệu siêu văn bản", xem qua "trình duyệt" sử dụng một kiến trúc client-server.Đề xuất này ước tính rằng một mạng lưới thông tin chỉ đọc sẽ được phát triển trong vòng ba tháng và mạng lưới sẽ mất sáu tháng để đạt được việc "độc giả tạo ra các liên kết mới và bài viết mới, [để] ai cũng trở thành tác giả của Web" cũng như "khả năng tự động thông báo đến độc giả khi có bài mới với chủ đề anh ta quan tâm đã phát sinh." Trong khi mục tiêu trang web chỉ đọc đã được đáp ứng, việc toàn cầu hóa dữ liệu mất nhiều thời gian để trưởng thành hơn, với các khái niệm wiki, WebDAV, blog, Web 2.0 và RSS/Atom.
+
+
+== Chức năng ==
+Các thuật ngữ Internet và World Wide Web thường được sử dụng hàng ngày mà không có nhiều khác biệt. Tuy nhiên, Internet và World Wide Web không giống nhau. Internet là một hệ thống toàn cầu của mạng máy tính kết nối với nhau. World Wide Web chỉ là một trong những dịch vụ chạy trên Internet. Nó là một tập hợp các tài liệu văn bản và các tài nguyên khác được liên kết bởi các siêu liên kết và URL, do Trình duyệt web truy cập từ máy chủ web.
+Các tài liệu trên World Wide Web được lưu trữ trong một hệ thống siêu văn bản (hypertext), đặt tại các máy tính trong mạng Internet. Người dùng phải sử dụng một chương trình được gọi là trình duyệt web (web browser) để xem siêu văn bản. Chương trình này sẽ nhận thông tin (documents) tại ô địa chỉ (address) do người sử dụng yêu cầu (thông tin trong ô địa chỉ được gọi là URL (Uniform Resource Locator)), rồi sau đó chương trình sẽ tự động gửi thông tin đến máy chủ chứa trang web (web server) và hiển thị trên trình duyệt của người xem. Người dùng có thể theo các liên kết siêu văn bản (hyperlink) trên mỗi trang web để nối với các tài liệu khác hoặc gửi thông tin phản hồi theo máy chủ trong một quá trình tương tác. Hoạt động truy tìm theo các siêu liên kết thường được gọi là duyệt Web.
+Quá trình này cho phép người dùng có thể lướt các trang web để lấy thông tin. Tuy nhiên độ chính xác và chứng thực của thông tin không được đảm bảo.
+
+
+== Các web servers ==
+
+
+== Tính riêng tư ==
+
+
+== Sở hữu trí tuệ ==
+
+
+== Các tiêu chuẩn ==
+
+
+== Khả năng truy cập ==
+
+
+== Quốc tế hóa ==
+
+
+== Thống kê ==
+
+
+== Tốc độ ==
+Thất vọng về các vấn đề tắc nghẽn trong cơ sở hạ tầng Internet và độ trễ cao do trình duyệt chậm đã dẫn đến một tên miệt thị cho World Wide Web: World Wide Wait (chờ đa quốc gia.) Việc tăng tốc Internet được thảo luận liên tục với việc sử dụng các công nghệ ngang hàng và QoS. Các giải pháp khác để giảm ùn tắc có thể được tìm thấy tại W3C. Nói chung, thời gian đáp ứng web là:
+0,1 giây (một phần mười của một giây). Thời gian đáp ứng lý tưởng. Người dùng không cảm nhận được bất kỳ sự gián đoạn nào.
+1 giây. Thời gian đáp ứng cao nhất có thể chấp nhận được. Tải trang trên 1 giây làm gián đoạn kinh nghiệm người dùng.
+10 giây. Thời gian đáp ứng không thể chấp nhận. Kinh nghiệm người dùng bị gián đoạn và người dùng có khả năng rời khỏi trang web hoặc hệ thống.
+
+
+== Xem thêm ==
+Internet
+Web 2.0
+Thư điện tử
+Máy truy tìm dữ liệu
+
+
+== Đọc thêm ==
+Berners-Lee, Tim; Bray, Tim; Connolly, Dan; Cotton, Paul; Fielding, Roy; Jeckle, Mario; Lilley, Chris; Mendelsohn, Noah; Orchard, David; Walsh, Norman; Williams, Stuart (ngày 15 tháng 12 năm 2004). “Architecture of the World Wide Web, Volume One”. Version 20041215. W3C. 
+Fielding, R.; Gettys, J.; Mogul, J.; Frystyk, H.; Masinter, L.; Leach, P.; Berners-Lee, T. (tháng 6 năm 1999). “Hypertext Transfer Protocol – HTTP/1.1”. Request For Comments 2616. Information Sciences Institute. 
+Niels Brügger, ed. Web History (2010) 362 pages; Historical perspective on the World Wide Web, including issues of culture, content, and preservation.
+Polo, Luciano (2003). “World Wide Web Technology Architecture: A Conceptual Analysis”. New Devices.  
+Skau, H.O. (tháng 3 năm 1990). “The World Wide Web and Health Information”. New Devices.  
+
+
+== Link ngoài ==
+The first website
+Early archive of the first Web site
+Internet Statistics: Growth and Usage of the Web and the Internet
+Living Internet A comprehensive history of the Internet, including the World Wide Web.
+Web Design and Development tại DMOZ
+World Wide Web Consortium (W3C)
+W3C Recommendations Reduce "World Wide Wait"
+World Wide Web Size Daily estimated size of the World Wide Web.
+Antonio A. Casilli, Some Elements for a Sociology of Online Interactions
+The Erdős Webgraph Server offers weekly updated graph representation of a constantly increasing fraction of the WWW.
+
+
+== Tham khảo ==

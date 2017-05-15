@@ -1,0 +1,28 @@
+nVIDIA (NASDAQ: NVDA, phát âm / ɛnvɪ.di.ə /), một tập đoàn đa quốc gia, chuyên về phát triển bộ xử lý đồ họa (GPU) và công nghệ chipset cho các máy trạm, máy tính cá nhân, và các thiết bị di động. Công ty có trụ sở tại Santa Clara, California, trở thành một nhà cung cấp chính của các mạch tích hợp (ICS) như là đơn vị xử lý đồ họa (GPU) và chipset đồ họa được sử dụng trong thẻ, và bàn giao tiếp trò chơi video và bo mạch chủ của máy tính cá nhân.
+
+
+== Các dòng sản phẩm ==
+Danh mục sản phẩm của nVIDIA bao gồm vi xử lý đồ họa, vi xử lý liên lạc không dây, chipset máy tính để bàn, và phần mềm nghe nhìn kỹ thuật số. nVIDIA được cộng đồng người dùng máy tính biết đến chủ yếu nhờ dòng sản phẩm GeForce, bao gồm một dòng chip đồ họa riêng biệt trong các card đồ họa ngoài và công nghệ đồ họa tích hợp được sử dụng trong bo mạch chủ nForce, dòng máy chơi game Xbox đầu tiên của Microsoft, và PlayStation 3 của Sony.
+Sau đây là một số dòng sản phẩm tiêu biểu nhất của hãng:
+GeForce - Bộ xử lý đồ họa dành cho game thủ, nVIDIA được biết đến nhiều nhờ dòng sản phẩm này
+Quadro - Bộ xử lý đồ họa dành cho máy trạm CAD và sáng tạo nội dung kỹ thuật số
+Tegra - Chip hệ thống cho các thiết bị di động
+Tesla - GPU dành riêng cho các ứng dụng đồ họa cao cấp trong các lĩnh vực chuyên nghiệp và khoa học
+nForce - Chipset bo mạch chủ cho bộ xử lý AMD Athlon và Duron
+
+
+== Lịch sử công ty ==
+Có ba người đồng sáng lập công ty này:
+Hoàng Nhân Huân - Jen-Hsun HuangCEO Tính đến năm 2016, một người Mỹ gốc Đài Loan, trước đó là Giám đốc của CoreWare ở LSI Logic và một bộ vi xử lý thiết kế tại AMD.
+Chris Malachowsky, một kỹ sư điện tử làm việc tại Sun Microsystems.
+Curtis Priem, cựu kỹ sư cao cấp và nhà thiết kế chip đồ họa của Sun Microsystems.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang chủ
+Trang tải drivers
+Trang cộng đồng Game thủ GeForce.com
+Nvidia Việt Nam

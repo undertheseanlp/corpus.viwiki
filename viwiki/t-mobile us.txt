@@ -1,0 +1,132 @@
+T-Mobile US là nhà khai thác mạng không dây chính ở Hoa Kỳ. Công ty viễn thông Đức Deutsche Telekom (DT) là cổ đông chính. Trụ sở chính đặt tại Bellevue, Washington, trong vùng đô thị Seattle. T-Mobile là nhà mạng lớn thứ ba ở Hoa Kỳ với 71.5 triệu khách hàng vào thời điểm quý 4 năm 2016.
+T-Mobile USA cung cấp dịch vụ dữ liệu không dây và dữ liệu tại Hoa Kỳ, Puerto Rico và quần đảo Virgin thuộc Mỹ dưới thương hiệu T-Mobile và MetroPCS (mà nó mua lại trong một thương vụ tiếp quản ngược vào năm 2013, kết quả là công ty sẽ trở thành đại chúng trên sàn giao dịch chứng khoán NASDAQ), và cũng phục vụ như mạng chủ cho nhiều nhà mạng di động ảo (MVNO). Công ty có doanh thu hàng năm là 37 tỉ USD. Mạng lưới của nó phủ sóng tới 98% người Mỹ.Bản mẫu:Secondary source needed Năm 2015, Consumer Reports bình chọn T-Mobile là nhà mạng không dây số một của Hoa Kỳ. Năm 2017, T-Mobile được Nielsen xếp hạng số một về sự hài lòng của khách hàng.
+
+
+== Lịch sử ==
+T-Mobile US có nguồn gốc từ sự thành lập năm 1994 của VoiceStream Wireless PCS là công ty con của Western Wireless Corporation. Tách ra khỏi công ty mẹ Western Wireless vào ngày 3 tháng 5 năm 1999, VoiceStream Wireless được mua lại bởi Deutsche Telekom AG vào năm 2001 với giá 35 tỉ USD và đổi tên thành T-Mobile USA, Inc. vào tháng 7 năm 2002.
+
+
+=== VoiceStream Wireless ===
+
+
+=== Mua lại Omnipoint và Aerial ===
+
+
+=== Deutsche Telekom mua lại VoiceStream và Powertel ===
+
+
+=== Mua lại SunCom ===
+
+
+=== Nỗ lực mua lại của AT&T ===
+
+
+=== Sáp nhập với MetroPCS Communications ===
+
+
+=== "Un-carrier", mua bổ sung quang phổ không dây ===
+
+
+=== Nỗ lực mua lại của Sprint ===
+
+
+== Mạng không dây ==
+Công ty sở hữu giấy phép hoạt động một mạng truyền thông di động trong băng tần 1900 MHz (PCS) và 1700 MHz (AWS) với phạm vi phủ sóng trong nhiều khu vực thuộc lục địa Hoa Kỳ, Alaska, Hawaii, Puerto Rico và Quần đảo Virgin thuộc Mỹ, cũng như giấy phép ở băng tầng 700 MHz (block A) có sẵn ở một số vùng trên đất nước. Về mặt công nghệ, tùy thuộc vào vị trí, ở băng tần 1900 MHz nó có thể truyển trai GSM, UMTS/HSPA+, và/hoặc LTE (B2); ở băng tần 1700 MHz nó có thể triển khai UMTS/HSPA+ và/hoặc LTE (B4); và LTE (B12) chỉ trong băng tần 700A. Mạng LTE của nó cũng hỗ trợ VoLTE. Nó cung cấp dịch vụ ở những vùng chưa có giấy phép phổ tần số vô tuyến thông qua thỏa thuận roaming với các nhà khai thác mạng tương thích khác.
+
+
+=== Mạng di động ===
+
+
+==== Nâng cấp dữ liệu chuyển mạch gói ====
+
+
+==== Nâng cấp / ngắt kế nối ====
+
+
+==== Nâng cấp HSPA/HSPA+ ====
+
+
+==== Nâng cấp 4G LTE ====
+
+
+=== Roaming ===
+
+
+=== Biểu đồ phổ tần số vô tuyến điện ===
+
+
+=== T-Mobile HotSpots ===
+T-Mobile sử dụng thuật ngữ "Hotspot" để mô tả nhiều sản phẩm và dịch vụ.
+
+
+==== Wi-Fi network (công cộng) ====
+
+
+==== Wi-Fi network (riêng) ====
+
+
+== Sản phẩm và dịch vụ của T-Mobile s ==
+
+
+=== T-Mobile ONE ===
+
+
+=== Simple Choice ===
+
+
+=== Ngăn chặn người dùng lạm dụng dữ liệu không giới hạn ===
+
+
+=== Chương trình InReach ===
+
+
+=== MetroPCS ===
+
+MetroPCS được T-Mobile tiếp nhận vào năm 2013, công ty mới là T-Mobile US và hiện tại vẫn tiếp tục cung cấp dịch vụ không dây trả trước dưới thương hiệu MetroPCS.
+
+
+=== GoSmart Mobile ===
+
+
+=== Banking Cards ===
+
+
+== Dịch vụ khách hàng ==
+
+
+=== Giải thưởng ===
+
+
+=== Những lần dịch vụ gặp sự cố ===
+
+
+== Tiếp thị ==
+
+
+== Quan hệ lao động ==
+Nhân viên T-Mobile US và hai liên đoàn lao động đã có nhiều nỗ lực tổ chức công đoàn từ đầu năm 2001.
+
+
+== Bảo mật thông tin ==
+
+
+== Sự riêng tư và giám sát ==
+
+
+=== Chính sách lưu dữ liệu ===
+
+
+== Xem thêm ==
+
+Danh sách các công ty ở Bellevue, Washington
+Danh sách các nhà cung cấp dịch vụ viễn thông không dây Hoa Kỳ
+Danh sách nhà mạng di động châu Mỹ
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+t-mobile.com, trang web chính thức của T-Mobile US
+telekom.com, trang web của công ty mẹ, Deutsche Telekom AG
+metropcs.com, trang web chính thức của MetroPCS

@@ -1,0 +1,4 @@
+AppleTalk là một bộ các giao thức độc quyền phát triển bởi Apple Inc cho các máy tính kết nối mạng. Nó được bao gồm trong Macintosh ban đầu phát hành vào năm 1984, nhưng bây giờ là không được hỗ trợ của việc phát hành Mac OS X v10.6 trong năm 2009 [1] trong lợi của mạng TCP / IP. Datagram Protocol Giao hàng tận nơi AppleTalk tương ứng chặt chẽ với các lớp mạng của mô hình hệ thống thông tin liên lạc nối mở (OSI).
+
+
+== Tham khảo ==

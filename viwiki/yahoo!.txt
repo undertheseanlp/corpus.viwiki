@@ -1,0 +1,109 @@
+Yahoo! Inc. là một tập đoàn đại chúng Hoa Kỳ với mục tiêu trở thành "dịch vụ Internet toàn cầu hàng đầu cho người tiêu thụ và giới doanh nghiệp". Trang chính của nó đặt tại http://www.yahoo.com, phiên bản tiếng Việt tại http://vn.yahoo.com, một thư mục mạng lưới và một số dịch vụ khác, trong đó có Yahoo! Mail, Yahoo! Search và Yahoo! News. Yahoo! được sáng lập bởi hai sinh viên cao học tại trường Đại học Stanford là David Filo và Jerry Yang (楊致遠, Dương Trí Viễn) vào tháng 1 năm 1994 và được thành lập vào ngày 2 tháng 3 năm 1995. Trụ sở công ty được đặt tại Sunnyvale, California.
+Theo Alexa Internet và Netcraft là hai công ty chuyên về thống kê lưu lượng Web, Yahoo! là website được nhiều người coi thứ hai hiện giờ (sau Google). Mạng lưới toàn cầu các website của Yahoo! có 3 tỷ lần xem hằng ngày (vào tháng 10 năm 2004, xem thống kê trên Alexa).
+Năm 2002, Yahoo! mua công ty Inktomi. Năm 2003, Yahoo! mua lại công ty Overture - công ty đứng đằng sau AlltheWeb và AltaVista. Ngoài máy tính của mình, ban đầu Yahoo! còn sử dụng các kết quả lấy về từ Google để hiển thị trên trang chủ Yahoo.com mỗi khi người dùng yêu cầu. Đến năm 2004, Yahoo! tung ra máy tìm độc lập dựa trên sự kết hợp các công nghệ hãng có. công cụ tìm kiếm yahoo là một trong 3 công cụ tìm kiếm phổ biến nhất cùng với Google và MSN.
+Vào ngày 13 tháng 1 năm 2009, Yahoo! đã bổ nhiệm bà Carol Bartz, cựu giám đốc điều hành của Autodesk, làm Giám đốc điều hành mới và một trong những thành viên của Hội đồng quản trị.
+
+
+== Lịch sử ==
+
+
+=== Thành lập ===
+
+Yahoo khởi đầu là "Jerry's Guide to the World Wide Web" (Cẩm nang của Jerry về mạng lưới), nhưng sau này được đổi tên. Tên Yahoo! là một từ viết tắt cho "Yet Another Hierarchical Officious Oracle," nhưng Filo và Yang nhất định rằng họ chọn tên này vì họ thích nghĩa của từ "yahoo" trong từ điển (một giống thú mang hình người trong quyển Những cuộc du hành của Gulliver của Jonathan Swift). Đầu tiên Yahoo chỉ ở trong máy tính làm việc của Yang, trong khi phần mềm ở trong máy tính của Filo.
+
+
+=== Mở rộng ===
+Yahoo được ra cổ phần vào ngày 12 tháng 4 năm 1996, bán được 2,6 triệu cổ phiếu loại mệnh giá 13$.
+Trong khi Yahoo ngày càng được phổ biến và phát triển, những dịch vụ của Yahoo! ngày càng phong phú và đa dạng hơn. Có thể kể đến các dịch vụ như Yahoo! Mail, Yahoo! Messenger, Yahoo! Groups... Nhiều dịch vụ trước kia là công ty độc lập được Yahoo mua như GeoCities và eGroups.
+Yahoo! nay đã bắt đầu hợp tác với một số công ty viễn thông và dịch vụ Internet như BT tại Vương quốc Anh, Rogers Communications tại Canada và SBC Communications tại Hoa Kỳ - để tạo dịch vụ băng rộng có nhiều nội dung để cạnh tranh với dịch vụ của AOL. Công ty cũng cấp một thẻ tín dụng tên là Yahoo! Visa trong một hợp tác với First USA.
+Từ cuối năm 2002, Yahoo! đã âm thầm mua một số công ty có kỹ thuật tìm kiếm khác. Vào tháng 12 năm 2002, Yahoo! đã mua Inktomi, và vào tháng 7 năm 2003 mua Overture Services, Inc. (đồng thời AltaVista và Alltheweb, hai sở hữu của Overture). Vào ngày 18 tháng 2 năm 2004, Yahoo! ngừng sử dụng kết quả tìm kiếm từ Google và dùng kỹ thuật riêng để tìm kiếm.
+Từ ngày 15 tháng 6 năm 2005, Yahoo!Mail được bản địa hoá—có thêm giao diện tiếng Việt—trên trang http://mail.yahoo.com.vn. Giao diện tiếng Việt là một ứng dụng Unicode triệt để, cho nên người nhận thư Yahoo! tiếng Việt có thể đọc thư một cách dễ dàng—một trường hợp không thể có với giao diện tiếng Anh. Đồng thời, bất cứ người nào có tài khoản Yahoo!Mail đều có thể dùng giao diện tiếng Việt bằng cách đến http://edit.yahoo.com/config/set_intl, và chọn "Yahoo! Vietnam" trong mục "New Setting". Tuy nhiên, giao diện tiếng Việt còn thiếu vài chức năng quan trọng của giao diện tiếng Anh.
+Sau khi bị Yahoo từ chối, vào ngày 1 tháng 2 năm 2008, Microsoft ngỏ lời mua Yahoo! với giá 44,6 tỷ đô la.
+Ngày 18 tháng 3 năm 2015, Yahoo tuyên bố đã thông báo đến nhân viên về việc cắt giảm nhân sự ở Trung Quốc.
+
+
+=== Bị từ chối, vi phạm bảo mật, Verizon mua lại ===
+Ngày 25 tháng 7 năm 2016, Yahoo đã bán mảng Internet cốt lõi cho Verizon Communications với giá 4,83 tỷ đô la.
+
+
+== Dịch vụ Yahoo! ==
+
+Yahoo điều hành một cổng thông tin cung cấp tin tức, thể thao, giải trí mới nhất. Cổng thông tin này cũng cung cấp cho người dùng truy cập vào các dịch vụ Yahoo khác như Yahoo! Search, Yahoo Mail, Yahoo Maps, Yahoo Finance, Yahoo Groups và Yahoo Messenger.
+
+
+=== Giao tiếp ===
+Yahoo Messenger, Yahoo Mail.
+My Web, Yahoo Personals, Yahoo 360°, Delicious, Flickr,Yahoo Buzz và MyBlogLog.
+Yahoo Photos, Flickr, Yahoo 360°, Yahoo Mash.
+
+
+=== Nội dung ===
+Yahoo Sports, Yahoo Finance, Yahoo Music, Yahoo Movies, Yahoo Weather, Yahoo News, Yahoo! Answers, Yahoo Games, My Yahoo.
+
+
+=== Dịch vụ Internet đồng thương hiệu ===
+Yahoo phát triển quan hệ đối tác với các nhà cung cấp băng thông rộng như AT&T Inc. (thông qua Prodigy, BellSouth & SBC), Verizon Communications, Rogers Communications, and British Telecom, cung cấp nhiều nội dung và dịch vụ miễn phí và cao cấp của Yahoo tới các thuê bao.
+
+
+=== Dịch vụ di động ===
+
+
+=== Thương mại ===
+Yahoo! Shopping, Yahoo Autos, Yahoo Real Estate, Yahoo Travel, Yahoo Auctions. Yahoo Shopping is a price comparison service which uses the Kelkoo price comparison service it acquired in April 2004.
+
+
+=== Doanh nghiệp nhỏ ===
+Yahoo DomainKeys, Yahoo Web Hosting, Yahoo Merchant Solutions, Yahoo Business Email và Yahoo Store.
+
+
+=== Quảng cáo ===
+
+
+=== GeoPlanet ===
+
+Yahoo cung cấp dịch vụ bản đồ và địa lý thông qua GeoPlanet.
+
+
+=== Yahoo Next ===
+
+
+=== Yahoo BOSS ===
+
+
+=== Yahoo Meme ===
+
+
+=== Y!Connect ===
+
+
+=== Yahoo Accessibility ===
+
+
+=== Yahoo Axis ===
+
+
+=== Yahoo SearchMonkey ===
+
+
+=== Dịch vụ không còn tồn tại ===
+
+
+== Xem thêm ==
+Live Search
+Máy tìm kiếm Cuil
+Danh sách website
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+"Yahoo to Charge for Guaranteeing a Spot on Its Index" The New York Times, ngày 2 tháng 3 năm 2004
+"Yahoocalifragilisticexpialidocious"
+
+
+== Liên kết ngoài ==
+Yahoo! – website chính (tiếng Anh)
+Yahoo! – website chính (tiếng Việt)
+Yahoo! Mail (tiếng Việt)
+Yahoo! Maps

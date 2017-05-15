@@ -1,0 +1,55 @@
+NetApp, Inc. là một công ty lưu trữ và quản lý dữ liệu đa quốc gia của Hoa Kỳ có trụ sở tại Sunnyvale, California. Nó là một thành viên của NASDAQ-100, và được xếp hạng trong Fortune 500 từ nă 2012. Được thành lập năm 1992 và phát hành lần đầu ra công chúng năm 1995, NetApp cung cấp phần mềm, hệ thống và dịch vụ để quản lý và lưu trữ dữ liệu, bao gồm hệ điều hành Data ONTAP độc quyền của nó.
+
+
+== Lịch sử ==
+
+NetApp được thành lập vào năm 1992 bởi David Hitz, James Lau, và Michael Malcolm. Vào thời điểm đó, đối thủ chính của nó là Auspex Systems. Năm 1994, NetApp nhận được vốn đầu tư mạo hiểm từ Sequoia Capital. Nó được phát hành lần đầu ra công chúng vào năm 1995. NetApp đã phát triển mạnh trong những năm bong bóng Dot-com từ giữa thập niên 1990 tối 2001, khi đó công ty đã đạt doanh thu hàng năm 1 tỷ USD. Sau khi bong bóng bùng nổ, doanh thu của NetApp đã nhanh chóng giảm xuống còn 800 triệu USD trong năm tài chính 2002. Kể từ đó, doanh thu của công ty đã tăng đều đặn.
+Năm 2006, NetApp đã bán dòng sản phẩm NetCache cho Blue Coat Systems. Vào năm 2014, NetApp mua lại dòng sản phẩm SteelStore về các sản phẩm sao lưu và bảo vệ dữ liệu của Riverbed Technology, mà sau này đổi tên thành AltaVault. Vào ngày 1 tháng 6 năm 2015, Tom Georgens đã từ chức Giám đốc điều hành và được George Kurian thay thế.
+Vào tháng 12 năm 2015, NetApp đã mua lại nhà cung cấp bộ nhớ flash SolidFire với giá 870 triệu USD (hoàn thành vào tháng 1 năm 2016).
+
+
+== Cạnh tranh ==
+NetApp cạnh tranh trong ngành công nghiệp phần cứng lưu trữ dữ liệu máy tính. Trong năm 2009, NetApp đứng thứ hai về giá trị vốn hóa thị trường trong ngành công nghiệp này sau EMC Corporation và đứng trước Seagate Technology, Western Digital, Brocade, Imation, và Quantum. Về tổng doanh thu năm 2009, NetApp đứng sau EMC, Seagate, Western Digital, và trước Imation, Brocade, Xyratex, và Hutchinson Technology. Theo báo cáo IDC năm 2014, NetApp đứng thứ hai trong ngành lưu trữ mạng "Big 5's list", sau EMC(DELL), và trước IBM, HP và Hitachi.
+
+
+== Sản phẩm ==
+
+Phần mềm quản lý OnCommand của NetApp kiểm soát và tự động hóa việc lưu trữ dữ liệu.
+
+
+== Sự tiếp nhận ==
+
+
+=== Tranh cãi ===
+
+
+==== Giám sát Syria ====
+Vào tháng 11 năm 2011, trong cuộc nổi dậy năm 2011 của Syria, NetApp bị nêu tên là một trong số nhiều công ty có sản phẩm đang được sử dụng trong cuộc đàn áp của chính phủ Syria. Thiết bị đã bị buộc tội bán cho Syrians bởi một đại lý ủy quyền của NetApp.
+Vào ngày 7 tháng 4 năm 2014, NetApp đã được Bộ Thương mại Hoa Kỳ thông báo rằng "họ đã hoàn tất việc xem xét vấn đề này và xác định rằng NetApp đã không vi phạm luật xuất khẩu của Hoa Kỳ" và tập tin về vấn đề này đã bị đóng.
+
+
+==== Tranh chấp pháp lý vơi Sun Microsystems ====
+Vào tháng 9 năm 2007, NetApp bắt đầu tiến hành tố tụng đối với Sun Microsystems, khẳng định rằng hệ thống tập tin ZFS do Sun phát triển đã vi phạm bản quyền của họ.
+
+
+=== Từ thiện ===
+NetApp đã được liệt kê trong Danh sách 25 nhà Từ thiện của Thung lũng Silicon vào năm 2013.
+
+
+== Xem thêm ==
+
+NetApp filer
+Write Anywhere File Layout (WAFL), sử dụng trong hệ thống NetApp
+Team NetApp
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+“Serving up storage solutions: Network Appliance CEO Dan Warmenhoven puts data in its place”. Communication News: 22–24. Tháng 8 năm 2001. ISSN 0010-3632. Bản gốc lưu trữ ngày 9 tháng 8 năm 2001. 
+
+
+== Liên kết ngoài ==
+NetApp
+Network Appliance NS0-191 VCE

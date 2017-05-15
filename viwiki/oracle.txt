@@ -1,0 +1,17 @@
+Oracle là tên của một hãng phần mềm, một hệ quản trị cơ sở dữ liệu phổ biến trên thế giới. Hãng Oracle ra đời đầu những năm 70 của thế kỷ 20 tại nước Mỹ.
+Khởi đầu với phần mềm quản trị Cơ sở dữ liệu cách đây hơn 50 năm. Hiện tại ngoài sản phẩm Oracle Database Server, Oracle còn cung cấp nhiều sản phẩm phục vụ doanh nghiệp khác.
+
+
+== Xem thêm ==
+Netsuite là một sản phẩm của Oracle, được xậy dựng từ năm 1998. Ngày nay đã được nhiều công ty sử dụng để quản lý bán hàng trên toàn thế giới.
+Sun Microsystems
+MySQL
+
+
+== Tài liệu học tập ==
+
+
+== Chú thích ==
+
+
+== Tham khảo ==

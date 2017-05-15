@@ -1,0 +1,24 @@
+Tỷ số nợ trên vốn chủ sở hữu (hay Tỷ lệ nợ trên vốn chủ sở hữu, Tỷ số nợ D/E, Tỷ số D/E) là một tỷ số tài chính đo lường năng lực sử dụng và quản lý nợ của doanh nghiệp.
+
+
+== Cách tính ==
+Tỷ số này (thường tính bằng %) được tính bằng cách lấy tổng nợ (tức là gồm cả nợ ngắn hạn lẫn nợ dài hạn) của doanh nghiệp trong một thời kỳ nào đó chia cho giá trị vốn chủ sở hữu trong cùng kỳ. Các số liệu này có thể lấy từ bảng cân đối kế toán của doanh nghiệp. Công thức tính như sau:
+
+Vì vốn chủ sở hữu (E) bằng tổng tài sản (A) trừ đi tổng nợ (D), nên:
+
+D/E = D / (A - D) = D/A / (1 - D/A)
+
+
+== Ý nghĩa ==
+Tỷ số này cho biết quan hệ giữa vốn huy động bằng đi vay và vốn chủ sở hữu. Tỷ số này nhỏ chứng tỏ doanh nghiệp ít phụ thuộc vào hình thức huy động vốn bằng vay nợ; có thể hàm ý doanh nghiệp chịu độ rủi ro thấp. Tuy nhiên, nó cũng có thể chứng tỏ doanh nghiệp chưa biết cách vay nợ để kinh doanh và khai thác lợi ích của hiệu quả tiết kiệm thuế.
+Khi dùng tỷ số này để đánh giá cần so sánh tỷ số của một doanh nghiệp cá biệt nào đó với tỷ số bình quân của toàn ngành.
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==
+Nguyễn Minh Kiều (2009), Tài chính doanh nghiệp căn bản, Nhà xuất bản Thống kê, Thành phố Hồ Chí Minh, trang 87-88.
+
+
+== Xem thêm ==

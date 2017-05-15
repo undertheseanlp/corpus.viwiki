@@ -1,0 +1,252 @@
+Hệ tọa độ địa lý là một hệ tọa độ cho phép tất cả mọi điểm trên Trái Đất đều có thể xác định được bằng một tập hợp các số có thể kèm ký hiệu. Các tọa độ thường gồm số biểu diễn vị trí thẳng đứng, và hai hoặc ba số biểu diễn vị trí nằm ngang. Hệ tọa độ phổ biến hiện dùng là hệ hệ tọa độ cầu tương ứng với tâm Trái Đất với các tọa độ là vĩ độ, kinh độ và cao độ.
+
+
+== Chiều thứ nhất và thứ hai: vĩ độ và kinh độ ==
+
+Dựa theo lý thuyết của những người Babylon cổ đại, rồi được nhà hiền triết và địa lý học nổi tiếng người Hy Lạp Ptolemy mở rộng, một đường tròn đầy đủ sẽ được chia thành 360 độ (360°).
+
+Vĩ độ (ký hiệu: φ) của một điểm bất kỳ trên mặt Trái Đất là góc tạo thành giữa đường thẳng đứng (phương của dây dọi, có đỉnh nằm ở tâm hệ tọa độ-chính là trọng tâm của địa cầu) tại điểm đó và mặt phẳng tạo bởi xích đạo. Đường tạo bởi các điểm có cùng vĩ độ gọi là vĩ tuyến, và chúng là những đường tròn đồng tâm trên bề mặt Trái Đất. Mỗi cực là 90 độ: cực bắc là 90° B; cực nam là 90° N. Vĩ tuyến 0° được chỉ định là đường xích đạo, một đường thẳng tưởng tượng chia địa cầu thành Bán cầu bắc và Bán cầu nam.
+Kinh độ (ký hiệu: λ) của một điểm trên bề mặt Trái Đất là góc tạo ra giữa mặt phẳng kinh tuyến đi qua điểm đó và mặt phẳng kinh tuyến gốc. Kinh độ có thể là kinh độ đông hoặc tây, có đỉnh tại tâm hệ tọa độ, tạo thành từ một điểm trên bề mặt Trái Đất và mặt phẳng tạo bởi đường thẳng ngẫu nhiên nối hai cực bắc nam địa lý. Những đường thẳng tạo bởi các điểm có cùng kinh độ gọi là kinh tuyến. Tất cả các kinh tuyến đều là nửa đường tròn, và không song song với nhau: theo định nghĩa, chúng hội tụ tại hai cực bắc và nam. Đường thẳng đi qua Đài Thiên văn Hoàng gia Greenwich (gần London ở Liên hiệp Vương quốc Anh và Bắc Ireland) là đường tham chiếu có kinh độ 0° trên toàn thế giới hay còn gọi là kinh tuyến gốc. Kinh tuyến đối cực của Greenwich có kinh độ là 180°T hay 180°Đ.
+Bằng cách phối hợp hai góc này, ta có thể xác định được vị trí nằm ngang của bất kỳ điểm nào trên Trái Đất.
+Ví dụ, Baltimore, Maryland (ở Hoa Kỳ) có vĩ độ 39,3° Bắc, và kinh độ là 76,6° Tây (39.3°B 76.6°T﻿ / 39.3; -76.6). Do đó, một vector vẽ từ tâm Trái Đất đến điểm 39,3° phía bắc xích đạo và 76,6° phía tây đường Greenwich sẽ đi qua Baltimore.
+"Mạng" vĩ độ/kinh độ này gọi là lưới địa lý. Cũng có một lưới ngang bổ sung (có nghĩa là bộ lưới được dịch chuyển một góc 90°, sao cho địa cực trở thành đường xích đạo ngang), trên đó tất cả các lượng giác cầu đều dựa vào.
+Từ trước đến nay, độ được chia thành phút (1 phần 60 độ, ký hiệu là ′ hoặc "m") và giây (1 phần 60 phút, ký hiệu là ″ hoặc "s"). Có nhiều các viết độ, tất cả chúng đều xuất hiện theo cùng thứ tự Vĩ độ - Kinh độ:
+DMS (Degree:Minute:Second) Độ:Phút:Giây (Ví dụ: 49°30'00"-123d30m00s)
+DM (Degree:Minute) Độ:Phút (Ví dụ: 49°30.0'-123d30.0m)
+DD (Decimal Degree) Độ thập phân (Ví dụ: 49.5000°-123.5000d), thường với 4 số thập phân.
+Để chuyển từ DM hoặc DMS sang DD, độ thập phân = số độ cộng với số phút chia cho 60, cộng với số giây chia cho 3600. DMS là định dạng phổ biến nhất, và là tiêu chuẩn trên tất cả các biểu đồ và bản đồ, cũng như hệ định vị toàn cầu và hệ thông tin địa lý.
+Trên mặt cầu tại mực nước biển, một giây vĩ độ bằng 30.82 mét và một phút vĩ độ bằng 1849 mét. Các vĩ tuyến cách nhau 110,9 kilômét. Các kinh tuyến gặp nhau tại cực địa lý, với độ rộng một giây về phía đông-tây phụ thuộc vào vĩ độ. Trên bề mặt cầu tại mực nước biển, một giây kinh độ bằng 30,92 mét trên xích đạo, 26,76 mét trên vĩ tuyến thứ 30, 19,22 mét tại Greenwich (51° 28' 38" B) và 15,42 mét trên vĩ tuyến thứ 60.
+Chiều rộng của một độ kinh độ tại vĩ độ 
+  
+    
+      
+        
+          
+            ϕ
+          
+          
+          
+        
+      
+    
+    {\displaystyle \scriptstyle {\phi }\,\!}
+   có thể được tính toán bằng công thức sau (để có được chiều rộng theo phút và giây, lần lượt chia cho 60 và 3600):
+
+  
+    
+      
+        
+          
+            π
+            
+              180
+              
+                ∘
+              
+            
+          
+        
+        cos
+        ⁡
+        (
+        ϕ
+        )
+        
+          M
+          
+            r
+          
+        
+        ,
+        
+        
+      
+    
+    {\displaystyle {\frac {\pi }{180^{\circ }}}\cos(\phi )M_{r},\,\!}
+  
+
+trong đó bán kính độ kinh trung bình của Trái Đất 
+  
+    
+      
+        
+          
+            
+              M
+              
+                r
+              
+            
+          
+          
+          
+        
+      
+    
+    {\displaystyle \scriptstyle {M_{r}}\,\!}
+   xấp xỉ bằng 6.367.449 m. Do sử dụng giá trị bán kính trung bình, công thức này dĩ nhiên không chính xác do độ dẹt của Trái Đất. Bạn có thể có được độ rộng thực của một độ kinh độ tại vĩ độ 
+  
+    
+      
+        
+          
+            ϕ
+          
+          
+          
+        
+      
+    
+    {\displaystyle \scriptstyle {\phi }\,\!}
+   bằng:
+
+  
+    
+      
+        
+          
+            π
+            
+              180
+              
+                ∘
+              
+            
+          
+        
+        cos
+        ⁡
+        (
+        ϕ
+        )
+        
+          
+            
+              
+                
+                  a
+                  
+                    4
+                  
+                
+                cos
+                ⁡
+                (
+                ϕ
+                
+                  )
+                  
+                    2
+                  
+                
+                +
+                
+                  b
+                  
+                    4
+                  
+                
+                sin
+                ⁡
+                (
+                ϕ
+                
+                  )
+                  
+                    2
+                  
+                
+              
+              
+                (
+                a
+                cos
+                ⁡
+                (
+                ϕ
+                )
+                
+                  )
+                  
+                    2
+                  
+                
+                +
+                (
+                b
+                sin
+                ⁡
+                (
+                ϕ
+                )
+                
+                  )
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+        ,
+        
+        
+      
+    
+    {\displaystyle {\frac {\pi }{180^{\circ }}}\cos(\phi ){\sqrt {\frac {a^{4}\cos(\phi )^{2}+b^{4}\sin(\phi )^{2}}{(a\cos(\phi ))^{2}+(b\sin(\phi ))^{2}}}},\,\!}
+  
+
+trong đó các bán kính xích đạo và cực của Trái Đất, 
+  
+    
+      
+        
+          
+            a
+            ,
+            b
+          
+          
+          
+        
+      
+    
+    {\displaystyle \scriptstyle {a,b}\,\!}
+   lần lượt bằng 6.378.137 m, 6.356.752,3 m.
+Xích đạo là mặt phẳng cơ bản của tất cả các hệ tọa độ địa lý. Tất cả các hệ tọa độ cầu đều định nghĩa một mặt phẳng cơ bản như vậy.
+Giá trị vĩ độ và kinh độ có thể dựa trên vài hệ đo đạc hoặc mốc tính toán khác nhau, phương pháp phổ biến nhất là WGS 84 mà tất cả các thiết bị GPS đều dùng. Nói một cách nôm na, một điểm trên bề mặt Trái Đất có thể được mô tả bởi nhiều giá trị vĩ độ và kinh độ khác nhau tùy thuộc vào mốc tính toán đang dùng.
+Trong phần mềm GIS phổ biến, mốc được chiếu theo vĩ độ/kinh độ thường được xác định thông qua 'Hệ tọa độ địa lý'. Ví dụ, mốc theo vĩ độ/kinh độ theo như Mốc Bắc Mỹ năm 1983 được chỉ ra trong 'GCS_North_American_1983'.
+
+
+== Chiều thứ ba: độ cao, chiều cao, chiều sâu ==
+
+Để xác định hoàn toàn một vị trí nằm trên, ở trong hoặc ở phía trên Trái Đất, ta cần phải xác định độ cao của điểm, được định nghĩa bằng vị trí của điểm theo chiều thẳng đứng so với trung tâm của hệ thống tham chiếu hoặc một vài định nghĩa bề mặt Trái Đất. Điều này được mô tả theo thuật ngữ khoảng cách theo chiều thẳng đứng đến Trái Đất bên dưới, nhưng, do sự nhập nhằng của chữ "bề mặt" và "chiều thẳng đứng", nó thường được mô tả phổ biến hơn bằng cách so sánh với những mốc được định nghĩa chính xác hơn như mặt nước biển trung bình (chính xác hơn nữa là geoid, một mặt có thế năng trọng trường không đổi). Khoảng cách đến trung tâm Trái Đất có thể được dùng cho cả vị trí rất sâu hoặc một nơi nào đó trên không gian.
+Những thuật ngữ khác được dùng tương ứng với khoảng của một điểm từ mặt đất hoặc một cột mốc khác là độ cao, chiều cao, và độ sâu.
+
+
+== Tọa độ địa tĩnh ==
+Vệ tinh địa tĩnh (như vệ tinh truyền hình) nằm ở phía trên xích đạo. Do đó, vị trí của nó so với Trái Đất được biểu diễn bằng độ vĩ. Độ vĩ của chúng không thay đổi, và luôn luôn là zero đối với xích đạo.
+
+
+== Xem thêm ==
+Hệ thống dẫn đường tự động
+Hệ thống thông tin địa lý (GIS)
+Chuyển đổi tọa độ địa lý
+Mã địa lý
+Thẻ địa lý
+Hệ thống định vị toàn cầu (GPS).
+Khoảng cách toàn vòng tròn khoảng cách ngắn nhất giữa hai điểm trên mặt cầu, và giải thích cách tìm khoảng cách nếu đã biết hai vĩ độ và kinh độ.
+Phép chiếu bản đồ
+Hạ chí tuyến
+Đông chí tuyến
+Hệ tọa độ Mercator ngang toàn cầu
+Cực hiệu dụng#Tọa độ trên các nhãn cực
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Mathematics Topics-Coordinate Systems
+Geographic coordinates of countries (CIA World Factbook)

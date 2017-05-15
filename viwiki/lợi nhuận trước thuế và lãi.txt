@@ -1,0 +1,16 @@
+Lợi nhuận trước lãi vay và thuế hay thu nhập trước lãi vay và thuế (tiếng Anh: earnings before interest and taxes—EBIT) là một chỉ tiêu dùng để đánh giá khả năng thu được lợi nhuận của công ty, bằng thu nhập trừ đi các chi phí, nhưng chưa trừ tiền (trả) lãi và thuế thu nhập.
+EBIT được đề cập đến như "khoản kiếm được từ hoạt động kinh doanh", "lợi nhuận từ hoạt động kinh doanh" hay "thu nhập ròng từ hoạt động".
+Công thức để tính EBIT là: EBIT = Thu nhập - Chi phí hoạt động
+Có thể xem công thức tính EBIT một cách cụ thể hơn như sau:
+EBIT = Tổng Doanh thu - Tổng biến phí - Tổng định phí
+Nói cách khác, EBIT là tất cả các khoản lợi nhuận trước khi tính vào các khoản thanh toán tiền lãi và thuế thu nhập. Một yếu tố quan trọng đóng vai trò giúp cho EBIT được sử dụng rộng rãi là nó đã loại bỏ sự khác nhau giữa cấu trúc vốn và tỷ suất thuế giữa các công ty khác nhau.
+Do đã loại bỏ lãi vay và thuế, hệ số EBIT làm rõ hơn khả năng tạo lợi nhuận của công ty, và dễ dàng giúp người đầu tư so sánh các công ty với nhau.
+
+
+== Ví dụ ==
+
+
+== Chú thích ==
+
+
+== Tham khảo ==

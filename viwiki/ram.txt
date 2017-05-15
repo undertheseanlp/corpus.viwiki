@@ -1,0 +1,104 @@
+RAM (viết tắt từ Random Access Memory trong tiếng Anh) là một loại bộ nhớ khả biến cho phép truy xuất đọc-ghi ngẫu nhiên đến bất kỳ vị trí nào trong bộ nhớ dựa theo địa chỉ ô nhớ. Thông tin lưu trên RAM chỉ là tạm thời, chúng sẽ mất đi khi mất nguồn điện cung cấp.
+RAM là bộ nhớ chính của máy tính và các hệ thống điều khiển, để lưu trữ các thông tin thay đổi đang sử dụng. Các hệ thống điều khiển còn sử dụng SRAM như làm một thiết bị lưu trữ thứ cấp (secondary storage). Khi cần thiết thì bố trí một pin nhỏ làm nguồn điện phụ để duy trì dữ liệu trong RAM. RAM có đặc tính: thời gian thực hiện thao tác đọc hoặc ghi đối với mỗi ô nhớ là như nhau, cho dù đang ở bất kỳ vị trí nào trong bộ nhớ. Mỗi ô nhớ của RAM đều có một địa chỉ. Thông thường, mỗi ô nhớ là một byte (8 bit); tuy nhiên hệ thống lại có thể đọc ra hay ghi vào nhiều byte (2, 4, 8 byte) một lúc.
+RAM khác biệt với các thiết bị bộ nhớ tuần tự (sequential memory device) chẳng hạn như các băng từ, CD-RW, DVD-RW, Ổ đĩa cứng, trong đó bắt buộc phải tìm đến sector và đọc/ghi cả khối dữ liệu ở đó để truy xuất. RAM là thuật ngữ phân biệt tương đối theo ý nghĩa sử dụng, với các chip nhớ truy xuất ngẫu nhiên là EEPROM (read-only memory) cấm hoặc hạn chế chiều ghi, và Bộ nhớ flash được phép đọc/ghi.
+
+
+== Lịch sử ==
+Chip RAM có mặt trên thị trường hồi cuối những năm 1960, với sản phẩm DRAM là Intel 1103 công bố vào tháng 10 năm 1970.
+Những chiếc laptop thế hệ đầu được sản xuất vào cuối những năm thập niên 90 được tích hợp bên trong chúng là RAM SDR với tốc độ khá chậm và bộ nhớ rất ít. Hiện nay khó có thể còn được gặp loại RAM này nữa. Để cải thiện vấn đề tốc độ cũng như bộ nhớ của SDR người ta bắt đầu nghiên cứu và sản xuất thế hệ RAM tiếp theo vào đầu những năm 2000 với tên gọi mới là DDR, đây cũng là nền móng cho các loại RAM hiện đại sau này. Tuy vậy tốc độ của RAM thế hệ này vẫn còn là rất chậm. Được sử dụng rộng rãi trên các Laptop từ đầu những năm 2000 đến cuối 2004. DDR SDRAM (Double Data Rate SDRAM), thường được giới chuyên môn gọi tắt là "DDR". DDR SDRAM là cải tiến của bộ nhớ SDR với tốc độ truyền tải gấp đôi SDR nhờ vào việc truyền tải hai lần trong một chu kỳ bộ nhớ.
+Vào các năm tiếp theo, với sự xuất hiện của các thế hệ máy tính mới hơn, đi kèm với các hệ điều hành có giao diện thân thiện hơn với người dùng, một trong số đó là Windows XP ra đời 2003. Với sự xuất hiện của các giao diện “màu mè” và “mượt mà” hơn so với thế hệ trước do đó RAM cũng đòi hỏi nhanh hơn và có bộ nhớ lớn hơn. DDR dường như đã quá sức sau khoảng vài năm phục vụ, vì thế người ta nghĩ đến việc thay thế nó bằng thế hệ tiếp theo DDR2 có tốc độ nhanh hơn và bộ nhớ lớn hơn khá nhiều, đồng thời cũng tiết kiệm năng lượng hơn so với DDR. Hiện tại còn có thể tìm thấy DDR2 với bộ nhớ đến 4GB. RAM DDR2 được sử khá nhiều chúng xuất hiện trên các dòng Laptop sản xuất từ cuối năm 2003 đến cuối năm 2009.
+Vào năm 2007 cùng với sự ra đời của thế hệ HĐH mới như Windows Vista, Mac OS X Leopard người ta bắt đầu sản xuất thế hệ RAM tiếp theo của DDR2 là DDR3 với tốc độ rất nhanh và bộ nhớ lớn đồng thời tiết kiệm năng lượng hơn 30% so với thế hệ DDR2. Đây cũng là loại RAM được sử dụng rộng rãi, phổ biến trên Laptop hiện nay với bộ nhớ lớn lên đến 16GB/thanh. Tuy xuất hiện sớm nhưng mãi đến cuối năm 2009 thì DDR3 mới bắt đầu xuất hiện rộng rãi trên Laptop. Bên cạnh sự xuất hiện của DDR3 người ta còn thấy DDR3L. Đây là kết quả hợp tác của Kingston và Intel trong việc phát triển dòng bộ nhớ tiết kiệm điện năng. Chữ L ở đây có nghĩa là Low ám chỉ đây là loại RAM DDR3 nhưng sử dụng ít năng lượng hơn. Loại RAM này thường được sản xuất cho các thiết bị cụ thể vì chúng sử dụng điện thế 1,35V thay vì 1.5V như các loại RAM thông thường. Đây là loại RAM đặc biệt được thiết kế cho các hệ thống máy chủ, các trung tâm dữ liệu và trên một số dòng LAPTOP cao cấp nhằm tăng thời gian sử dụng PIN.
+Khi RAM DDR3 vừa tròn 8 năm tuổi đời thì DDR4 cũng rục rịch ra mắt. Những thay đổi đáng chú ý nhất của DDR4 so với người tiền nhiệm DDR3 gồm: gia tăng số tuỳ chọn xung nhịp (clock) và chu kỳ (timing), giảm điện năng tiêu thụ (power saving) và giảm độ trễ (latency). Hiện tại, DDR3 đang được giới hạn chủ yếu ở 4 mức xung nhịp 1333, 1600, 1866 MHz. Mức 2133 MHz đang là mức giới hạn xung nhịp về lý thuyết cho DDR3, trong khi các mức 800 MHz và 1066 MHz giờ đã không còn được tiếp tục sản xuất.
+
+
+== Đặc trưng ==
+Bộ nhớ RAM có 4 đặc trưng sau:
+Dung lượng bộ nhớ: Tổng số byte của bộ nhớ (nếu tính theo byte) hoặc là tổng số bit trong bộ nhớ nếu tính theo bit.
+Tổ chức bộ nhớ: Số ô nhớ và số bit cho mỗi ô nhớ
+Thời gian thâm nhập: Thời gian từ lúc đưa ra địa chỉ của ô nhớ đến lúc đọc được nội dung của ô nhớ đó.
+Chu kỳ bộ nhớ: Thời gian giữa hai lần liên tiếp thâm nhập bộ nhớ.
+
+
+== Mục đích ==
+Máy vi tính sử dụng RAM để lưu trữ mã chương trình và dữ liệu trong suốt quá trình thực thi. Đặc trưng tiêu biểu của RAM là có thể truy cập vào những vị trí khác nhau trong bộ nhớ và hoàn tất trong khoảng thời gian tương tự, ngược lại với một số kỹ thuật khác, đòi hỏi phải có một khoảng thời gian trì hoãn nhất định.
+
+
+== Phân loại RAM ==
+Tùy theo công nghệ chế tạo của các nước trên thế giới, được chia làm 2 loại.
+
+
+=== RAM tĩnh ===
+
+RAM tĩnh được chế tạo theo công nghệ ECL (dùng trong CMOS và BiCMOS). Mỗi bit nhớ gồm có các cổng logic với 6 transistor MOS. SRAM là bộ nhớ nhanh, việc đọc không làm hủy nội dung của ô nhớ và thời gian thâm nhập bằng chu kỳ của bộ nhớ. nhưng sram là một nơi lưu trữ các tập tin của CMOS dùng cho việc khởi động máy
+
+
+=== RAM động ===
+
+RAM động dùng kỹ thuật MOS. Mỗi bit nhớ gồm một transistor và một tụ điện. Việc ghi nhớ dữ liệu dựa vào việc duy trì điện tích nạp vào tụ điện và như vậy việc đọc một bit nhớ làm nội dung bit này bị hủy. Do vậy sau mỗi lần đọc một ô nhớ, bộ phận điều khiển bộ nhớ phải viết lại nội dung ô nhớ đó. Chu kỳ bộ nhớ cũng theo đó mà ít nhất là gấp đôi thời gian thâm nhập ô nhớ.
+Việc lưu giữ thông tin trong bit nhớ chỉ là tạm thời vì tụ điện sẽ phóng hết điện tích đã nạp và như vậy phải làm tươi bộ nhớ sau khoảng thời gian 2μs. Việc làm tươi được thực hiện với tất cả các ô nhớ trong bộ nhớ. Công việc này được thực hiện tự động bởi một vi mạch bộ nhớ.
+Bộ nhớ DRAM chậm nhưng rẻ tiền hơn SRAM.
+
+
+==== Các loại DRAM ====
+
+SDRAM (Viết tắt từ Synchronous Dynamic RAM) được gọi là DRAM đồng bộ. SDRAM gồm 3 phân loại: SDR, DDR, DDR2,DDR3 và DDR4
+* SDR SDRAM (Single Data Rate SDRAM), thường được giới chuyên môn gọi tắt là "SDR". Có 168 chân. Được dùng trong các máy vi tính cũ, bus speed chạy cùng vận tốc với clock speed của memory chip, nay đã lỗi thời.
+* DDR SDRAM (Double Data Rate SDRAM), thường được giới chuyên môn gọi tắt là "DDR". Có 184 chân. DDR SDRAM là cải tiến của bộ nhớ SDR với tốc độ truyền tải gấp đôi SDR nhờ vào việc truyền tải hai lần trong một chu kỳ bộ nhớ. Đã được thay thế bởi DDR2.
+* DDR2 SDRAM (Double Data Rate 2 SDRAM), Thường được giới chuyên môn gọi tắt là "DDR2". Là thế hệ thứ hai của DDR với 240 chân, lợi thế lớn nhất của nó so với DDR là có bus speed cao gấp đôi clock speed.
+* DDR3 SDRAM (Double Data Rate III SDRAM): có tốc độ bus 800/1066/1333/1600 Mhz, số bit dữ liệu là 64, điện thế là 1.5v, tổng số pin là 240.
+RDRAM (Viết tắt từ Rambus Dynamic RAM), thường được giới chuyên môn gọi tắt là "Rambus". Đây là một loại DRAM được thiết kế kỹ thuật hoàn toàn mới so với kỹ thuật SDRAM. RDRAM hoạt động đồng bộ theo một hệ thống lặp và truyền dữ liệu theo một hướng. Một kênh bộ nhớ RDRAM có thể hỗ trợ đến 32 chip DRAM. Mỗi chip được ghép nối tuần tự trên một module gọi là RIMM (Rambus Inline Memory Module) nhưng việc truyền dữ liệu được thực hiện giữa các mạch điều khiển và từng chip riêng biệt chứ không truyền giữa các chip với nhau. Bus bộ nhớ RDRAM là đường dẫn liên tục đi qua các chip và module trên bus, mỗi module có các chân vào và ra trên các đầu đối diện. Do đó, nếu các khe cắm không chứa RIMM sẽ phải gắn một module liên tục để đảm bảo đường truyền được nối liền. Tốc độ Rambus đạt từ 400-800 MHz. Rambus tuy không nhanh hơn SDRAM là bao nhưng lại đắt hơn rất nhiều nên có rất ít người dùng. RDRAM phải cắm thành cặp và ở những khe trống phải cắm những thanh RAM giả (còn gọi là C-RIMM) cho đủ.
+
+
+== Các thông số của RAM ==
+Được phân loại theo chuẩn của JEDEC.
+
+
+=== Dung lượng ===
+Dung lượng RAM được tính bằng MB và GB, thông thường RAM được thiết kế với các dung lượng 8, 16, 32, 64, 128, 256, 512 MB, 1 GB, 2 GB... Dung lượng của RAM càng lớn càng tốt cho hệ thống, tuy nhiên không phải tất cả các hệ thống phần cứng và hệ điều hành đều hỗ trợ các loại RAM có dung lượng lớn, một số hệ thống phần cứng của máy tính cá nhân chỉ hỗ trợ đến tối đa 4 GB và một số hệ điều hành (như phiên bản 32 bit của Windows XP) chỉ hỗ trợ đến 3,2 GB.
+
+
+=== BUS ===
+SDR SDRAM được phân loại theo bus speed như sau:
+PC-66: 66 MHz bus.
+PC-100: 100 MHz bus.
+PC-133: 133 MHz bus.
+
+DDR SDRAM được phân loại theo bus speed và bandwidth như sau:
+DDR-200: Còn được gọi là PC-1600. 100 MHz bus với 1600 MB/s bandwidth.
+DDR-266: Còn được gọi là PC-2100. 133 MHz bus với 2100 MB/s bandwidth.
+DDR-333: Còn được gọi là PC-2700. 166 MHz bus với 2667 MB/s bandwidth.
+DDR-400: Còn được gọi là PC-3200. 200 MHz bus với 3200 MB/s bandwidth.
+
+DDR2 SDRAM được phân loại theo bus speed và bandwidth như sau:
+DDR2-400: Còn được gọi là PC2-3200. 100 MHz clock, 200 MHz bus với 3200 MB/s bandwidth.
+DDR2-533: Còn được gọi là PC2-4200. 133 MHz clock, 266 MHz bus với 4267 MB/s bandwidth.
+DDR2-667: Còn được gọi là PC2-5300. 166 MHz clock, 333 MHz bus với 5333 MB/s bandwidth.
+DDR2-800: Còn được gọi là PC2-6400. 200 MHz clock, 400 MHz bus với 6400 MB/s bandwidth
+
+DDR3 SDRAM được phân loại theo bus speed như sau:
+DDR3-1066: Còn được gọi là PC3-8500. 533 MHz clock, 1066 MHz bus với 8528 MB/s bandwidth
+DDR3-1333: Còn được gọi là PC3-10600. 667 MHz clock, 1333 MHz bus với 10664 MB/s bandwidth
+DDR3-1600: Còn được gọi là PC3-12800. 800 MHz clock, 1600 MHz bus với 12800 MB/s bandwidth
+DDR3-2133: Còn được gọi là PC3-17000. 1066 MHz clock, 2133 MHz bus với 17064 MB/s bandwidth
+
+
+== Các loại module của RAM ==
+Trước đây, các loại RAM được các hãng sản xuất thiết kế cắm các chip nhớ trên bo mạch chủ thông qua các đế cắm (có dạng DIP theo hình minh hoạ trên), điều này thường không thuận tiện cho sự nâng cấp hệ thống. Cùng với sự phát triển chung của công nghệ máy tính, các RAM được thiết kế thành các module như SIMM, DIMM (như hình minh hoạ trên) để thuận tiện cho thiết kế và nâng cấp hệ thống máy tính.
+SIMM (Single In-line Memory Module)
+DIMM (Dual In-line Memory Module)
+SO-DIMM: (Small Outline Dual In-line Memory Module): Thường sử dụng trong các máy tính xách tay.
+
+
+== Tính tương thích với bo mạch chủ ==
+Không phải các RAM khác nhau đều sử dụng được trên tất cả các bo mạch chủ. Mỗi loại bo mạch chủ lại sử dụng với một loại RAM khác nhau tuỳ thuộc vào chipset của bo mạch chủ.Đó là các bo mạch chủ sử dụng CPU Intel bởi vì trong chipset đó có tích hợp điều khiển bộ nhớ(memory controller). Còn đối hệ thống sử dụng CPU AMD thì việc quản lý bộ nhớ Ram phụ thuộc vào chính CPU. Bởi trong CPU AMD tích hợp điều khiển bộ nhớ (trình điều khiển bộ nhớ) trong chính CPU. Đặc biệt sau này trình điều khiển bộ nhớ đã được tích hợp trong hệ thống Core i của Intel. 
+
+
+== Xem thêm ==
+ROM
+Bus (máy tính)
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

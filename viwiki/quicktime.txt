@@ -1,0 +1,16 @@
+QuickTime là phần mềm chạy video của Apple, có 2 phiên bản: QuickTime gốc dành cho Windows XP hoặc mới hơn, cũng như Mac OS X Leopard hoặc mới hơn; QuickTime X hiện chỉ dành cho Mac OS X Snow Leopard, Lion và Mountain Lion.
+
+
+== Tính năng ==
+Chơi những
+File nhạc có dạng đuôi: mov,
+Danh Sách các bản nhạc có dạng đuôi: qt
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+http://www.w3schools.com/media/media_quicktime.asp
+http://www.mioplanet.com/rsc/embed_mediaplayer.htm
+http://www.stream24.org/?lang=en&page=playereinbinden

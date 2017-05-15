@@ -1,0 +1,68 @@
+IBM, viết tắt của International Business Machines, là một tập đoàn công nghệ máy tính đa quốc gia có trụ sở tại Armonk, New York, Mỹ. IBM được thành lập năm 1911 tại Thành phố New York, lúc đầu có tên là Computing Tabulating Recording (CTR) và đổi thành International Business Machines vào năm 1924.
+IBM là nhà sản xuất và bán phần cứng, phần mềm máy tính, cơ sở hạ tầng, dịch vụ máy chủ và tư vấn trong nhiều lĩnh vực từ máy tính lớn đến công nghệ na nô.
+Với hơn 350.000 nhân viên, IBM là công ty tin học lớn nhất thế giới. IBM có đội ngũ kỹ sư và nhân viên tư vấn tại 170 quốc gia. IBM còn có 8 phòng thí nghiệm trên thế giới. Nhân viên của IBM đã giành được 5 giải Nobel, 5 giải thưởng Turing, 5 huy chương công nghệ quốc gia.
+
+
+== Giới thiệu chung ==
+Tập đoàn máy tính quốc tế (viết tắt là IBM, tên riêng “Big Blue” ) là một tập đoàn công nghệ máy tính đa quốc gia và đặt trụ sở chính tại Armonk, New York, USA. . Công ty là một trong số ít những công ty công nghệ thông tin với một lịch sử liên tục kể từ thế kỷ thứ 19 . IBM sản xuất và bán sản phẩm phần cứng máy tính và phần mềm, và đưa ra những công tác (dịch vụ) cơ sở hạ tầng, những công tác (dịch vụ) hosting, và những công tác dịch vụ tư vấn trong những vùng đang hạn chế từ những máy tính lớn đến những máy tính mang công nghệ nano .
+IBM được biết đến gần đây như là một công ty sản xuất máy tính hàng đầu thế giới, với hơn 388000 công nhân trên toàn thế giới . IBM là chủ công nhân công nghệ lớn nhất trên toàn thế giới. Đó là một lợi thế nhưng doanh thu của IBM đã bị tụt xuống hang thứ hai sau Hewlett Packard trong năm 2007
+IBM giữ nhiều bằng sáng chế hơn bất kỳ công ty công nghệ nào khác ở Mỹ Nó có những kỹ sư và cố vấn trên hơn 70 nước và IBM Research có 8 phòng thí nghiệm trên toàn thế giới . Công nhân của IBM được ba giả thưởng Nobel, bốn giải thưởng Turing, năm huy chương công nghệ của quốc gia và năm huy chương khoa học của quốc gia. Như là một nhà sản xuất bộ vi xử lý, IBM là một trong 20 nhà phân phối chip bán dẫn hàng đầu thế giới .
+
+
+== Lịch sử ==
+Khởi đầu công ty IBM là một công ty sản xuất máy lập bảng gần Herman Hollerith, trong Broome county, New York. Ngày 16 tháng 6 năm 1911, IBM hợp nhất thành Computing Tabulating Recording Corporation (CTB) và được đăng ký vào sở giao dịch chứng khoán New York vào năm 1916. IBM sử dụng tên hiện thời vào năm 1924 khi trở thành một trong 500 công ty trong bảng xếp hạng Fortune 500.
+Tháng 5 năm 2007, IBM đã công khai kế hoạch "big green", một phương án dự phòng cho kế hoạch 1 tỉ mỗi năm cho mỗi doanh nghiệp để tăng hiệu suất năng lượng. Người ta hy vọng những sản phẩm mới của IBM và những công tác dịch vụ mới sẽ giảm bớt những tiêu thụ năng lượng trung tâm dữ liệu cùng cơ sở hạ tầng công nghệ và sự biến đổi công nghệ hệ thống các máy khách vào trung tâm dữ liệu “xanh”, với năng lượng tiết kiệm xấp xỉ 42% so với một trung tâm dữ liệu trung bình. Kế họạch "big green" phác ra 5 bước cho những máy khách để cải thiện công suất năng lượng. Sáng kiến bao gồm một “green team” toàn cầu cho hơn 850 kiến trúc sư công suất năng lượng từ IBM. IBM đang xây dựng một trung tâm dữ liệu xanh trị giá 86 triệu đô la như một phần của dự án tại Boulder và sẽ củng cố gần 4000 máy chủ từ 6 vị trí toàn cầu lên 30 máy mainframe đang chạy hệ điều hành Linux.
+
+
+== Đồng phục ==
+Complet màu tối hoặc màu xám, áo sơ mi trắng, và một cà vạt “sincere” là đồng phục cho những người làm thuê của IBM trong hầu hết thế kỷ 20 . Trong thời gian cải cách của IBM trong những năm 1990 , CEO Lou Gerstner bình thường hoá những hành vi và quần áo của công nhân IBM để giống với những bản sao của họ trong những công ty công nghệ lớn khác.
+
+
+== JAMS ==
+Vào năm 2003 , IBM trình bày một dự án đầy tham vọng để viết lại những giá trị của công ty . Sử dụng công nghệ kỹ thuật Jam, công ty dựa trên nền tảng Intranet trực tuyến thảo luận để tìm kiếm chìa khoá để phát hành với 50000 công nhân hơn 3 ngày . Những thảo luận được phân tích bởi phần mềm phân tích văn bản phức tạp ( eClassifier ) để trực tiếp bình luận những chủ đề. Như một kết quả của Jam 2003 , những giá trị của công ty đã được cập nhật để phản chiếu ba doanh nghiệp hiện đại, những khẩu hiệu “sự hiến dâng tới mọi khách hàng là thành công “ “cải cách các vấn đề cho công ty chúng ta là cho thế giới “ “sự tin tưởng và trách nhiệm của cá nhân trong tất cả các mối quan hệ “
+Vào năm 2004 , một chương trình Jam khác được chỉ đạo trong 52000 công nhân nào trao đổi thực tiễn tốt nhất trong suốt thời gian 72 giờ . Họ tập trung vào những ý tưởng có thể hỗ trợ cho việc thi hành các giá trị trước đó đã được xác định . Một sự kiện những đánh giá mới của Jam được phát triển để người sử dụng IBM lựa chọn những ý tưởng hỗ trợ những giá trị . Ban giám đốc trích dẫn Jam này khi tặng thưởng tăng lương Palmisano trong mùa xuân 2005.
+Trong tháng 7 và tháng 9 năm 2006 , Pamisano giới thiệu một chương trình Jam mới được gọi là InnovationJam. InnovationJam là cuộc họp để tranh luận trực tuyến lớn nhất với hơn 150000 người tham gia từ 104 nước . Những người tham gia là những người làm thuê cho IBM và gia đình của họ, những trường đại học, những đối tác, và những khách hàng . InnovationJam đã được chia thanh hai phiên họp (một trong tháng 7 và một trong tháng 9) trong vòng mỗi 72 giờ và hơn 46000 ý tưởng chính . Trong tháng 11 năm 2006 , IBM thông báo họ sẽ đầu tư 100 triệu USD cho 10 ý tưởng tốt nhất trong InnovationJam.
+
+
+== Mã nguồn mở ==
+IBM đã gây được ảnh hưởng bởi “Open Source Initative”, và bắt đầu hỗ trợ Linux vào năm 1998 . Công ty đầu tư hàng tỷ USD trong những công tác dịch vụ, phần mềm dựa trên Linux trong trung tâm công nghệ Linux, mà bao gồm hơn 300 những người phát triển nhân Linux . IBM cũng sử dụng mã nguồn mở dưới nhiều giấy phép nguồn mở khác nhau, như khung phần mềm nền tảng độc lập Eclipse (giá xấp xỉ 40 triệu Usd vào thời gian đó) và Java – hệ quản trị cơ sở dữ liệu có quan hệ (RDBMS)- Apache Derby.
+
+
+== Project Managerment Center Of Excellence ==
+Trung tâm quản lý dự án của IBM (PM COE) là một chương trình là một chương trình dành cho định nghĩa và việc thực hiện những bước mà IBM phải dùng đến để làm mạnh thê khả năng quản lý dự án của nó . Chức năng như kho tư tưởng của IBM, COE PM kết hợp những khuynh hướng công nghiệp và những phương hướng ngoài với doanh nghiệp IBM, tổ chức, và những nhu cầu thấu hiểu địa lý.
+Tất cả các giám đốc dự án IBM (PMs) phải hoàn thành các dự án hoặc việc cấp chứng thư, chứng chỉ IBM . Cấp dưới PM ( trợ lý PM và PM tư vấn liên quan ) được uỷ nhiệm làm người tự định giá sau khi được sự cho phép của các giám thị. Bậc trên PM phải thông qua một quá trình chứng chỉ IBM khó khăn . Bởi việc làm cho có hiệu lực sự thành thạo của những giám đốc dự án và những kỹ năng chống lại những tiêu chuẩn worldwide chắc chắn, chứng chỉ giúp đỡ bảo trì sự tin cậy của khách hàng trong chất lượng cao của những người chuyên nghiệp IBM cho những kỹ năng và sự kinh nghiệm của họ .
+
+
+== Corporate Affairs ==
+Diversity and workforce issues
+Những nỗ lực của IBM để đẩy mạnh tính đa dạng lực lượng lao động và cơ hội bằng nhau, ít nhất là trước ngày thế chiến thứ nhất, khi công ty cho thuê vô hiệu hoá những người kỳ cựu . IBM là công ty công nghệ duy nhất được xếp hạng trong top 10 trong tạp chí Working Mother vào năm 2004 , và một trong hai công ty công nghệ trong năm 2005 (công ty còn lại là Hewlett Packard)
+Vào những năm 1990 , 2 chương trình thay đổi chính, bao gồm một sự chuyển đổi một số dư tiền mặt, dẫn đến một người làm thuê phân loại gây ra một vụ kiện khẳng định sự phân biệt tuổi . Những người làm thuê đã chiến thắng mặc dù hiện tại vẫn chưa giải quyết .IBM cũng phải giải quyết một vụ kiện cáo về giờ làm thêm trong năm 2006 .
+Lịch sử IBM có một danh tiếng tốt của sư duy trì nhân viên dài hạn với quy mô tận dụng thời gian tốt . Trong năm gần đây, có một số tác động tới việc cắt giảm lực lượng lao động như những sự nỗ lực của IBM để thích nghi với tình huống thị trường và khi lợi nhuận xuống dốc đang thay đổi cơ sở . Lợi tức thong được như mong đợi vào quý đầu tiên năm 2005 làm cho IBM sa thải 14500 nhân viên . Trong tháng 5 năm 2005 , IBM Ireland đóng cửa . Xưởng sản xuất di chuyển tới một công ty gọi là Amkor ở Singapore , công ty mà đã đồng ý mua doanh nghiệp vi điện tử của IBM . Ngày 8 tháng 6 nằm 2005 , công ty IBM Canada sa thải 700 vị trí . IBM Ấn Độ và IBM Trung Quốc, Philippin và CostaRica đang chứng kiến một sự bùng nổ tuyển mộ và tăng trưởng số nhân viên .
+Ngày 10 tháng 10 năm 2005 , IBM trở thành công ty chính đầu tiên trên thế giới mà hình thức giao phó không sử dụng thông tin di truyền trong những quyết định việc làm của nó . Việc này xảy ra vài tháng sau khi IBM được công bố National Geographic Society's Genographic Project.
+
+
+== Lô gô ==
+Biểu tượng được sử dụng từ năm 1947 đến năm 1956 . Quả đại cầu quen thuộc được thay thế với những chữ cái đơn giản “IBM” Biểu tượng được dùng từ 1956 đến 1972 . Nó thể hiện một sự xuất hiện đặc hơn và cân bằng hơn Vào năm 1972 những mảnh nằm ngang bây giờ được thay thế để gợi ý “ tốc độ và thuyết động lực “ . Biểu tượng này được thiết kế bởi Paul Rand Logo được thiết kế vào những năm 1970 , hướng tới cảm giác đối với sự giới hạn kỹ thuật của những máy photo. Một biểu tượng với những vùng đặc lớn trông sẽ kém hơn cả những bản sao của những máy photo vào những năm 1970 , vì vậy những biểu tượng thường được ưu tiên không dùng những vùng đặc lớn . Năm 1972 , biểu tượng của IBM là một ví dụ của xu hướng này. Với sự phát triển của những máy sao chép kỹ thuật số vào giữa những năm 1980 , sự hạn chế kỹ thuật này phần lớn biến mất .
+
+
+== Ban giám đốc ==
+Những thành viên hiện thời của ban giám đốc IBM :
+Cathleen Black Tổng giám đốc Hearst Magazines
+William Brody President, Johns Hopkins University
+Ken Chenault chủ tịch và giám đốc điều hành (CEO), American Express Company
+Juergen Dormann chủ tịch hội đồng, ABB Ltd
+Michael Eskew chủ tịch và giám đốc điều hành (CEO), United Parcel Service, Inc.
+Shirley Ann Jackson tổng giám đốc, Rensselaer Polytechnic Institut Minoru Makihara cố vấn chủ tịch tập đoàn, Mitsubishi Corporation
+Lucio Noto quản lý đối tác, Midstream Partners LLC
+James W. Owens chủ tịch và giám đốc điều hành (CEO), Caterpillar Inc.
+Samuel J. Palmisano tổng giám đốc, chủ tịch và giám đốc điều hành (CEO), IBM
+Joan Spero tổng giám đốc, Doris Duke Charitable Foundation
+Sidney Taurel, chủ tịch và giám đốc điều hành (CEO), Eli Lilly and Company
+Lorenzo Zambrano chủ tịch và giám đốc điều hành (CEO), Cemex SAB de C
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang chủ

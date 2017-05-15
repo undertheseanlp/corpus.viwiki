@@ -1,0 +1,43 @@
+Sản xuất hay sản xuất của cải vật chất là hoạt động chủ yếu trong các hoạt động kinh tế của con người. Sản xuất là quá trình làm ra sản phẩm để sử dụng, hay để trao đổi trong thương mại. Quyết định sản xuất dựa vào những vấn đề chính sau: sản xuất cái gì?, sản xuất như thế nào?, sản xuất cho ai?, giá thành sản xuất và làm thế nào để tối ưu hóa việc sử dụng và khai thác các nguồn lực cần thiết làm ra sản phẩm?
+Tùy theo sản phẩm, sản xuất được phân thành ba khu vực:
+Khu vực một của nền kinh tế: Nông nghiệp, Lâm nghiệp, Thủy sản
+Khu vực hai của nền kinh tế: Khai thác mỏ, Công nghiệp chế tạo (công nghiệp nhẹ, công nghiệp nặng), Xây dựng
+Khu vực ba của nền kinh tế, hay Khu vực dịch vụ. (Xem chi tiết Ngành kinh tế)
+Kinh tế học có những cách tiếp cận khác nhau khi bàn về sản xuất.
+
+
+== Cách tiếp cận của kinh tế chính trị Marx - Lenin ==
+Kinh tế chính trị Marx - Lenin bàn về sản xuất từ góc độ của kinh tế chính trị và thể chế.
+
+
+=== Các yếu tố cơ bản ===
+Có ba yếu tố cơ bản của quá trình sản xuất là sức lao động, đối tượng lao động và tư liệu lao động
+Sức lao động: là tổng hợp thể lực và trí lực của con người được sử dụng trong quá trình lao động. Sức lao động mới chỉ là khả năng của lao động còn lao động là sự tiêu dùng sức lao động trong thực hiện.
+Đối tượng lao động: là bộ phận của giới tự nhiên mà lao động của con người tác động vào nhằm biến đổi nó theo mục đích của mình. Đối tượng lao động có hai loại. Loại thứ nhất có sẵn trong tự nhiên như các khoáng sản, đất, đá, thủy sản... Các đối tượng lao động loại này liên quan đến các ngành công nghiệp khai thác. Loại thứ hai đã qua chế biến nghĩa là đã có sự tác động của lao động trước đó, ví dụ như thép phôi, sợi dệt, bông... Loại này là đối tượng lao động của các ngành công nghiệp chế biến.
+Tư liệu lao động: là một vật hay các vật làm nhiệm vụ truyền dẫn sự tác động của con người lên đối tượng lao động, nhằm biến đổi đối tượng lao động thành sản phẩm đáp ứng nhu cầu của con người. Tư liệu lao động lại gồm bộ phận trực tiếp tác động vào đối tượng lao động theo mục đích của con người, tức là công cụ lao động, như các máy móc để sản xuất), và bộ phận trực tiếp hay gián tiếp cho quá trình sản xuất như nhà xưởng, kho, sân bay, đường sá, phương tiện giao thông. Trong tư liệu lao động, công cụ lao động giữ vai trò quyết định đến năng suất lao động và chất lượng sản phẩm.
+
+
+=== Hai mặt của nền sản xuất ===
+Hai mặt của nền sản xuất gồm: lực lượng sản xuất và quan hệ sản xuất.
+Lực lượng sản xuất gồm người lao động và tư liệu sản xuất, trong đó con người giữ vai trò quyết định.
+Quan hệ sản xuất là quan hệ giữa người với người trong quá trình sản xuất. Quan hệ sản xuất gồm có:
+(i) Quan hệ về sở hữu các tư liệu sản xuất, còn gọi tắt là quan hệ sở hữu (ii) Quan hệ về tổ chức, quản lý sản xuất còn gọi là quan hệ quản lý (iii) Quan hệ về phân phối sản phẩm, còn gọi tắt là quan hệ phân phối.
+
+
+=== Phương thức sản xuất ===
+
+
+== Cách tiếp cận của kinh tế học tân cổ điển ==
+Kinh tế học tân cổ điển, hay kinh tế học vi mô, bàn về sản xuất với cách tiếp cận của chủ nghĩa cận biên (marginalism). Sản xuất là việc tạo ra hàng hóa và dịch vụ có thể trao đổi được trên thị trường để đem lại cho người sản xuất càng nhiều lợi nhuận càng tốt. Cách tiếp cận này bàn luận nhiều hơn về các chủ đề như: chi phí sản xuất, tối đa hóa lợi nhuận, tối thiểu hóa chi phí sản xuất, năng suất lao động cận biên, tỷ lệ thay thế kỹ thuật cận biên, v.v...
+
+
+== Khái niệm sản xuất trong tài khoản quốc gia ==
+Liên hiệp quốc khi xây dựng phương pháp thống kê tài khoản quốc gia đã đưa ra định nghĩa sau về sản xuất: Sản xuất là quá trình sử dụng lao động và máy móc thiết bị của các đơn vị thể chế (một chủ thể kinh tế có quyền sở hữu tích sản, phát sinh tiêu sản và thực hiện các hoạt động, các giao dịch kinh tế với những thực thể kinh tế khác) để chuyển những chi phí là vật chất và dịch vụ thành sản phẩm là vật chất và dịch vụ khác. Tất cả những hàng hóa và dịch vụ được sản xuất ra phải có khả năng bán trên thị trường hay ít ra cũng có khả năng cung cấp cho một đơn vị thể chế khác có thu tiền hoặc không thu tiền.
+
+
+== Ghi chú ==
+
+
+== Xem thêm ==
+Kinh tế
+Hàng hóa

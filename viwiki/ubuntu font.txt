@@ -1,0 +1,41 @@
+Ubuntu là một font family dựa trên OpenType, Được thiết kế hiện đại,kiểu chữ sans-serif dựa trên kiểu chữ đúc Dalton Maag có trụ sở ở London, với sự tài trợ của Canonical Ltd. Các phông chữ đã được phát triển gần chín tháng, với chỉ một phát hành ban đầu giới hạn thông qua một chương trình thử nghiệm, một cho đến tháng 9/2010. Đó là sau đó nó trở thành phông chữ mặc định mới của Ubuntu trong Ubuntu 10:10. Các nhà thiết kế ra nó bao gồm Vincent Connare,  tác giả của font Comic Sans và Trebuchet MS fonts.
+Ubuntu font family phát hành dưới giấy phép Ubuntu Font Licence.
+
+
+== Lịch sử và tính năng ==
+Font lần đầu được giới thiệu tháng 10/2010 cùng với bản phát hành Ubuntu 10.10 với 4 phiên bản thường, nghiêng, đậm, đậm nghiêng trong tiếng Anh. Với bản phát hành Ubuntu 11.04 tháng 4/2011 thêm phông chữ và mở rộng phạm vi ngôn ngữ đã được giới thiệu. Sự phát triển cuối cùng được dự định để bao gồm tổng cộng mười ba phông chữ bao gồm:
+Ubuntu trong thường, nghiêng, đậm và đậm nghiêng
+Ubuntu Monospace trong thường, nghiêng, đậm và đậm nghiêng
+Ubuntu Light trong thường, nghiêng
+Ubuntu Medium trong thường, nghiêng
+Ubuntu Condensed 
+Phiên bản monospace, được dùng trong terminal, đã được lên kế hoạch ban đầu để đóng gói cùng Ubuntu 11.04. Tuy nhiên nó bị trễ và thay vì kèm với Ubuntu 11.10 như là font monospace mặc định.
+Font tuân thủ hoàn toàn chuẩn Unicode và có chứa các ký tự Latin A và B mở rộng, ký tự Hi Lạp, và ký tự Cyrillic mở rộng. Ngoài ra, nó đã trở thành font hệ điều hành gốc đầu tiên có những dấu hiệu rupee của Ấn Độ. Các phông chữ đã được thiết kế chủ yếu để sử dụng trên màn hình hiển thị, và khoảng cách và kerning của nó được tối ưu hóa cho các kích cỡ bản thân.
+
+
+== Sử dụng ==
+Ubuntu Font Family là font mặc định cho các phiên bản hiện tại và phát triển của hệ điều hành Ubuntu và được sử dụng cho xây dựng thương hiệu dự án Ubuntu.
+Ubuntu Font Family đã được đưa vào thư mục Google Fonts, khiến nó có sẵn cho kiểu chữ trên các trang web, và đến 26/4/2011 nó được sử dụng trong Google Docs.
+Ubuntu Monospace được dễ thấy được sử dụng trong 2014 video game Transistor.
+Ubuntu bold-italic cũng được sử dụng trong logo Bitcoin, bên cạnh biểu tượng Bitcoin.
+
+
+== Ubuntu Font Licence ==
+Ubuntu Font Licence là một giấy phép "tạm thời" được thiết kế cho Ubuntu Font Family, mà đã sử dụng giấy phép từ phiên bản 0.68. Giấy phép ngày dựa trên SIL Open Font License.
+Ubuntu Font Licence cho phép các phông chữ được "sử dụng, nghiên cứu, sửa đổi và phân phát tự do" vì rằng các điều khoản cấp phép được đáp ứng. Giấy phép là copyleft và tất cả các sản phẩm phái sinh phải được phân phối theo giấy phép tương tự. Tài liệu sử dụng các font chữ không bắt buộc phải được cấp phép theo Ubuntu Font Licence.
+Fedora và Debian đã đánh giá giấy phép này và tập trung vào giải thích nó như không tự do sử dụng, chưa hoàn chỉnh hoặc mơ hồ và cho phép sửa đổi.
+
+
+== Xem thêm ==
+Ubuntu-Title
+Open-source Unicode typefaces
+GPL font exception
+SIL Open Font License
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Trang chính Ubuntu Font Family
+Ubuntu Font Family trên Ubuntu Wiki

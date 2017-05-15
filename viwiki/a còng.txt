@@ -1,0 +1,23 @@
+A còng (tiếng Anh: At sign), còn được gọi là A móc là một ký tự dùng trong địa chỉ thư điện tử email.
+
+
+== Nguồn gốc ==
+Năm 1536 một thương gia ở Floren, đế chế La Mã là Francesco Lapi, đã dùng ký hiệu a còng trong những bức thư viết tay của ông. Một số ý kiến khác thì cho rằng ký hiệu @ nhằm giúp các tu sĩ thời trung cổ đơn giản hóa câu chữ khi viết thư, thay vì viết AS phải dùng nhiều nét bút thì họ chỉ tốn 1 nét với a còng mà thôi.
+
+Năm 1972, R. Tomlinson, một chuyên gia máy tính của Hãng Bolt & Newman, đã soạn thảo một chương trình đơn giản rồi thử gửi một văn bản cho đồng nghiệp ở phòng bên cạnh. Lúc đó ông cũng sử dụng ký hiệu @ để chỉ định nơi nhận văn bản. Sáng kiến này sau đó được Lầu Năm Góc của Mỹ tận dụng để gửi đi các mật lệnh bằng máy tính điện tử và a còng đã phổ biến với email ngày nay.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Bài này phần lớn được lấy dữ liệu từ Free On-line Dictionary of Computing, đã có giấy phép GFDL.
+"The Accidental History of the @ Symbol ", Smithsonian magazine, September 2012, Retrieved June 2013.
+The @-symbol, part 1, intermission, part 2, addenda, Shady Characters ⌂ The secret life of punctuation August 2011, Retrieved June 2013.
+"Daniel Soar on @", London Review of Books, Vol. 31 No. 10, ngày 28 tháng 5 năm 2009, Retrieved June 2013.
+ascii64 – the @ book – free download (creative commons) – by patrik sneyd – foreword by luigi colani) November 2006, Retrieved June 2013.
+A Natural History of the @ Sign The many names of the at sign in various languages, 1997, Retrieved June 2013.
+Sum: the @ Symbol, LINGUIST List 7.968 July 1996, Retrieved June 2013.
+Where it's At: names for a common symbol World Wide Words August 1996, Retrieved June 2013.
+UK Telegraph Article: Chinese parents choose to name their baby "@" August 2007, Retrieved June 2013.
+Tom Chatfield tells the story of the @ sign on Medium

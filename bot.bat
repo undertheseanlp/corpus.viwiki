@@ -1,3 +1,4 @@
+set PYTHONIOENCODING=utf-8
 call activate corpus.viwiki
 python script.py
 git add -A

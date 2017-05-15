@@ -1,0 +1,48 @@
+: từ loại
+vui	cười	buồn	?
+cười	vui	khóc	?
+vui	tình yêu	buồn	?
+
+: gia đình
+trai	gái	bố	mẹ
+bố	mẹ	trai	gái
+bố	mẹ	chồng	vợ
+bố	mẹ	ông	?
+ông	bà	bố	?
+chồng	vợ	bố	mẹ
+chồng	vợ	trai	gái
+trai	gái	chồng	vợ
+chồng	đấm	vợ	?
+trai	chú	gái	?
+
+: xã hội
+trai	xinh	gái	?
+trẻ con	đồ chơi	người lớn	?
+mỹ	giàu	việt nam	?
+mỹ	giàu	trung quốc	?
+mỹ	trung quốc	việt nam	?
+mỹ	trung quốc	anh	?
+mỹ	trung quốc	nhật bản	?
+mỹ	trump	việt nam	?
+
+: địa danh
+việt nam	hà nội	mỹ	?
+việt nam	hà nội	trung quốc	?
+
+: người nổi tiếng
+gái	phi thanh vân	trai	?
+gái	hari won	trai	trấn thành
+hari won	xinh	trấn thành	?
+phi thanh vân	gái	đàm vĩnh hưng	trai
+phi thanh vân	gái	ngọc trinh	gái
+ngọc trinh	người mẫu	trấn thành	?
+
+: công nghệ
+samsung	samsung galaxy	apple	iphone
+samsung galaxy	samsung	iphone	apple
+samsung	bền	apple	?
+samsung	microsoft	apple	?
+
+: thể thao
+công vinh	bóng đá	roger federer	quần vợt
+tennis	roger federer	bóng đá	?

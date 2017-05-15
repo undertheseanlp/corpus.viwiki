@@ -1,0 +1,73 @@
+Microsoft là một tập đoàn đa quốc gia của Hoa Kỳ đặt trụ sở chính tại Redmond, Washington; chuyên phát triển, sản xuất, kinh doanh bản quyền phần mềm và hỗ trợ trên diện rộng các sản phẩm và dịch vụ liên quan đến máy tính. Công ty được sáng lập bởi Bill Gates và Paul Allen vào ngày 4 tháng 4 năm 1975. Nếu tính theo doanh thu thì Microsoft là hãng sản xuất phần mềm lớn nhất thế giới. Nó cũng được gọi là "một trong những công ty có giá trị nhất trên thế giới".
+Được thành lập để phát triển phần mềm trình thông dịch BASIC cho máy Altair 8800, Microsoft vươn lên thống trị thị trường hệ điều hành cho máy tính gia đình với MS-DOS giữa những năm 1980. Cổ phiếu của công ty sau khi được phát hành lần đầu ra thị trường đã tăng giá nhanh chóng và tạo ra 4 nhà tỷ phú và 12.000 nhà triệu phú trong công ty. Kể từ thập kỷ 90, công ty bắt đầu đa dạng hóa hoạt động và tiến hành mua lại nhiều công ty khác. Trong năm 2011, Microsoft mua thành công Skype với giá lớn nhất từ trước đến nay là 8.5 tỷ $.
+Trong năm 2012, Microsoft chiếm ưu thế trên cả hai thị trường hệ điều hành PC và bộ phần mềm văn phòng (đứng thứ hai với Microsoft Office). Công ty sản xuất trên quy mô lớn những phần mềm cho máy tính để bàn và máy chủ, hoạt động trong lĩnh vực tìm kiếm trực tuyến (với Bing), tham gia ngành công nghiệp video game (với máy chơi game Xbox 360), thị trường dịch vụ kỹ số (với MSN), và điện thoại di động (với hệ điều hành Windows Phone). Trong tháng 6 năm 2012, Microsoft tuyên bố họ sẽ trở thành nhà cung cấp PC cho thị trường với sự kiện cho ra đời máy tính bảng Microsoft Surface.
+Xuyên suốt lịch sử, tập đoàn này luôn là mục tiêu của rất nhiều sự chỉ trích, bao gồm các thủ đoạn độc quyền kinh doanh. Trong đó có từ phía Ủy ban công lý Hoa Kỳ (Bộ Tư pháp Hoa Kỳ), và Ủy ban châu Âu (European commission), đã làm Microsoft dính vào rất nhiều vụ kiện tụng về chống độc quyền.
+
+
+== Lịch sử ==
+
+
+=== Thuở đầu ===
+
+Paul Allen và Bill Gates, hai người bạn thân từ thuở nhỏ có cùng niềm đam mê với lập trình máy tính, đã vươn đến thành công bằng cách kết hợp những kỹ năng của nhau. Tháng 1 năm 1975, tờ báo Popular Electronics đăng bài nói về chiếc máy vi tính Altair 8800 của hãng Micro Instrumentation and Telemetry Systems (MITS). Allen để ý rằng họ có thể viết chương thông dịch BASIC cho máy này; sau khi Bill Gates gọi điện cho MITS nói rằng họ có một chương trình thông dịch có thể chạy được, MITS yêu cầu được tận mắt kiểm chứng. Để chuẩn bị cho buổi kiểm chứng, hai người đảm nhiệm hai nhiệm vụ khác nhau, Allen làm chiếc máy mô phỏng Altair 8800 trong khi Gates phát triển chương trình thông dịch. Mặc dù được phát triển trên một máy mô phỏng nhưng chương trình lại hoạt động hoàn hảo trên máy thật trước sự chứng kiến của MITS tại Albuquerque, New Mexico, tháng 3 năm 1975. MITS đồng ý phân phối chương trình và họ tiếp thị nó với cái tên Altair BASIC. Sau thành công này, Paul Allen và Bill Gates thành lập Microsoft vào tháng 4 năm 1975, Gates giữ vị trí CEO. Allen chính là người đặt cho công ty cái tên "Microsoft". Vào tháng 1 năm 1977, công ty đạt được thỏa thuận với Tạp chí ASCII tại Nhật Bản, đặt văn phòng quốc tế đầu tiên tại đây với cái tên "ASCII Microsoft". Còn trụ sở chính tại Mỹ được dời đến Bellevue, Washington vào tháng 1 năm 1979.
+Microsoft gõ cửa ngành kinh doanh hệ điều hành vào năm 1980 với các phiên bản phân phối hệ điều hành Unix mang tên Xenix. Tuy nhiên, MS-DOS mới chính là nền tảng cho sự thống trị của công ty. Hãng IBM trao hợp đồng cho Microsoft để cung cấp phiên bản của hệ điều hành (HĐH) CP/M, sẽ được sử dụng trong máy tính sắp tung ra của hãng là Máy tính cá nhân IBM (IBM PC). Vì thời gian gấp rút nên Microsoft mua lại HĐH mô phỏng CP/M tên là 86-DOS từ hãng Seattle Computer Products, đặt tên mới là MS-DOS. Sau khi IBM PC được tung ra vào tháng 8 năm 1981, Microsoft giữ lại quyền sở hữu MS-DOS. Nhiều lý do khác nhau khiến MS-DOS thành công, như bộ phần mềm chọn lọc có sẵn của nó, và Microsoft trở thành nhà cung cấp HĐH dẫn đầu. Tiếp đó, họ bước vào những thị trường mới với việc tung ra Chuột Microsoft vào năm 1983, và thành lập một bộ phận xuất bản mang tên Microsoft Press. Paul Allen rời Microsoft vào tháng 2 vì bệnh ung thư hạch tiến triển.
+
+
+=== 1984-1994: Windows và Office ===
+Năm 1984, trong lúc cùng IBM phát triển HĐH mới mang tên OS/2; vào ngày 20 tháng 11, Microsoft cho ra đời Microsoft Windows, HĐH mở rộng của MS-DOS sử dụng giao diện đồ họa. Vào ngày 26 tháng 2 năm 1986, Microsoft dời trụ sở chính tới Redmond, và tiếp đó vào tháng 3, công ty chuyển sang loại hình cổ phần, sự tăng giá nhanh chóng của cổ phiếu công ty đã tạo ra 4 tỷ phú cùng 12000 triệu phú trong đội ngũ nhân viên công ty. Vì mối quan hệ đối tác với IBM, trong năm 1990, Ủy ban Thương mại Liên Bang đã để mắt tới Microsoft vì nghi ngờ có sự cấu kết thương mại, đánh dấu khởi đầu cho cuộc đụng độ pháp lý giữa công ty với Chính phủ Mỹ trong hơn một thập kỷ. Ngày 2 tháng 4 năm 1987, Microsoft tuyên bố OS/2 sẽ chỉ được bán cho nhà sản xuất OEM, trong khi đó, công ty phát triển Microsoft Windows NT, HĐH 32-bit sử dụng ý tưởng của OS/2, với môđun nhân hệ điều hành mới và giao diện ứng dụng Win32 (API), có cổng cho phép chuyển đổi dễ dàng sang Windows 16-bit (nền tảng MS-DOS), HĐH này được bán lần đầu vào ngày 21 tháng 7 năm 1993. Khi Microsoft thông báo cho IBM về NT, mối quan hệ đối tác giữa hai công ty nhằm mục đích phát triển OS/2 đã bị suy yếu.
+Trong năm 1990, Microsoft giới thiệu bộ phần mềm Microsoft Office bao gồm các ứng dụng văn phòng với chức năng riêng biệt, như Microsoft Word và Microsoft Excel. Vào ngày 22 tháng 5, Microsoft cho ra đời Windows 3.0 với giao diện đồ họa tương tác người-máy, tăng cường khả năng cho "chế độ bảo vệ" của bộ vi xử lý Intel 386. Hai sản phẩm Office và Windows trở nên chiếm ưu thế trên thị trường. Novell, đối thủ cạnh tranh của Word giai đoạn 1984-1986 đã để đơn kiện trong những năm sau đó cáo buộc Microsoft cố tình dấu diếm đặc điểm kỹ thuật để triệt hạ khả năng cạnh tranh của đối thủ.
+Vào ngày 27 tháng 7 năm 1994, Bộ phận Chống độc quyền thuộc Bộ Tư pháp Mỹ đã nộp một Báo cáo Ảnh hưởng Cạnh tranh, trong đó có đoạn: "Bắt đầu từ năm 1988, và tiếp tục cho đến 15 tháng 7 năm 1994, Microsoft đã tác động đến nhiều nhà sản xuất OEM để thực hiện hành vi chống cạnh tranh mang tên: giấy phép "mỗi bộ vi xử lý". Theo giấy phép này, mỗi nhà sản xuất sẽ phải trả Microsoft tiền bản quyền cho mỗi máy tính chứa một vi xử lý bán ra, dù máy đó dùng HĐH của Microsoft hay không dùng HĐH của Microsoft. Tác động của nó, phải trả tiền cho Microsoft khi không hề được sử dụng sản phẩm của Microsoft chẳng khác nào một hình phạt, hoặc nộp thuế đối với các nhà sản xuất sử dụng HĐH của đối thủ cạnh tranh. Kể từ năm 1988, Microsoft đã gia tăng việc sử dụng giấy phép mỗi bộ vi xử lý".
+
+
+=== 1995-2005: Internet và kỷ nguyên 32-bit ===
+
+Sau khi Bill Gates tiên đoán về "Cơn Đại hồng thủy Internet" vào ngày 26 tháng 5 năm 1995, Microsoft bắt đầu xác định lại mục tiêu của mình và tiến hành mở rộng dòng sản phẩm liên quan đến mạng máy tính cũng như World Wide Web. Ngày 24 tháng 8 năm 1995 công ty tung ra Windows 95 - HĐH đa nhiệm, hoàn thiện giao diện người dùng với nút Bắt đầu (Start), có khả năng tương thích 32 bit và cung cấp giao diện Win32 API tương tự NT. Ngoài ra, Windows 95 còn đi kèm dịch vụ trực tuyến MSN, và trong những phiên bản dành cho đối tác OEM còn có Internet Explorer, một trình duyệt web. Internet Explorer không có mặt trong bản Windows 95 hộp bán lẻ vì nó được hoàn thành sau khi vỏ hộp được in, thay vào đó được cung cấp thông qua gói Windows 95 Plus!. Rẽ nhánh vào thị trường mới trong năm 1996, Microsoft hợp tác với NBC Universal lập đài thông tin 24/7 mang tên MSNBC. Microsoft cũng đưa ra Windows CE 1.0, HĐH rút gọn dành cho các thiết bị có bộ nhớ thấp như PDA. Tháng 10 năm 1997, Bộ Tư pháp Mỹ thực hiện một bản kiến nghị lên Tòa án Liên Bang, tuyên bố Microsoft vi phạm thỏa thuận ký năm 1994 và yêu cầu dừng việc cài sẵn Internet Explorer vào Windows.
+Bill Gates rời khỏi vị trí CEO ngày 13 tháng 1 năm 2000, bàn giao lại cho Steven Ballmer – bạn học cũ và là nhân viên công ty từ năm 1980 với vai trò Trưởng Kiến trúc sư Phần mềm. Cũng trong giai đoạn này, Microsoft cùng nhiều công ty thành lập Liên minh Tín nhiệm Nền tảng Điện toán, trong số những mục tiêu có tăng cường bảo mật và bảo vệ quyền sở hữu trí tuệ, thông qua việc đồng nhất hóa những thay đổi ở phần cứng và phần mềm. Nhiều người chỉ trích coi liên minh như một cách thực thi giới hạn bừa bãi việc sử dụng phần mềm và can thiệp, thay đổi cách hoạt động của máy tính; giống như một hình thức quản lý số, có thể hình dung đến kịch bản trong đó máy tính có khả năng bảo mật tốt nhưng cũng bí mật cả với chủ nhân. Vào ngày 3 tháng 4 năm 2000, một phán quyết từ tòa án cáo buộc Microsoft "lạm dụng vị thế độc quyền", vụ việc chỉ lắng vào năm 2004 khi Tòa án Phúc thẩm Mỹ nhất trí phê chuẩn thỏa thuận dàn xếp giữa Bộ Tư pháp với công ty. Vào ngày 25 tháng 10 năm 2001, Microsoft tung ra Windows XP, HĐH có giao diện thân thiện với mã nền tảng NT. Công ty đưa ra Xbox trong năm sau đó, gia nhập thị trường máy chơi game trong lúc hai hãng Sony và Nintendo đang chiếm ưu thế. Microsoft tiếp tục dính rắc rối khi tháng 3 năm 2004, Ủy ban châu Âu thực hiện hành động pháp lý chống lại công ty với lý do lạm dụng vị thế thống trị của HĐH Windows, dẫn đến công ty phải nộp phạt 497 triệu € (khoảng 613 triệu $) và sản xuất hai phiên bản mới của Windows XP không đi kèm Windows Media Player là Windows XP Home Edition N và Windows XP Professional N.
+Ngày 4 tháng 2 năm 2014, Satya Nadella trở thành CEO, trong khi John W. Thompson trở thành chủ tịch. Bill Gates trở thành nhà cố vấn kỹ thuật cho Nadella.
+Vào ngày 16/9/2014, Microsoft đã công bố đạt thỏa thuận mua lại Mojang - nhà phát triển trò chơi Minecraft nổi tiếng của Thụy Điển với mức giá 2,5 tỉ USD.
+
+
+== Sản phẩm nền tảng và bộ phận dịch vụ ==
+
+
+=== Windows ===
+Sản phẩm trụ cột của Microsoft. Công ty đã cho ra đời nhiều phiên bản gồm Windows 3.1, Windows 95, Windows 98, Windows 2000, Windows Me, Windows XP, Windows Vista, Windows 7, Windows 8, Windows 8.1. Mới đây nhất, Microsoft đã cho ra mắt toàn thế giới phiên bản mới nhất của Windows: Windows 10.
+
+
+=== Dành cho hệ thống máy chủ ===
+Microsoft đưa ra bộ phần mềm dành cho máy chủ là Microsoft Servers, HĐH máy chủ Windows Server 2008, Windows Server 2012 và các sản phẩm như:
+SQL Server
+Exchange Server
+BizTalk Server
+Systems Management Server
+Small Business Server
+
+
+=== Công cụ phát triển ===
+Microsoft Visual Studio - bộ công cụ môi trường phát triển tích hợp, giúp đơn giản hóa các chức năng tạo, sửa lỗi và triển khai phần mềm cho Windows, Microsoft Office và trang web.
+
+
+=== Dịch vụ trực tuyến ===
+Bao gồm MSN và nhóm dịch vụ Windows Live gồm: Bing, Windows Live Mail, Windows Live Messenger,....
+
+
+== Phạm vi hoạt động ==
+Microsoft có mặt tại hầu hết các quốc gia và đặt chi nhánh ở hơn 102 quốc gia (2007) và được phân loại thành 6 khu vực:
+1. Bắc Mỹ.
+2. Châu Mỹ Latinh.
+3. Châu Âu, Trung Đông, châu Phi.
+4. Nhật Bản.
+5. Châu Á-Thái Bình Dương (APAC).
+6. Trung Quốc.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Công ty Microsoft
+Microsoft Việt Nam
+Outlook.com
+Nhận biết phần mềm giả mạo (tiếng Anh)
+Windows 7
+Windows

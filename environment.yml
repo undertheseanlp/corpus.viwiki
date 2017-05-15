@@ -1,0 +1,21 @@
+name: corpus.viwiki
+channels:
+- !!python/unicode
+  'defaults'
+dependencies:
+- !!python/unicode
+  'pip=9.0.1=py34_1'
+- !!python/unicode
+  'python=3.4.5=0'
+- !!python/unicode
+  'setuptools=27.2.0=py34_1'
+- !!python/unicode
+  'vs2010_runtime=10.00.40219.1=2'
+- !!python/unicode
+  'wheel=0.29.0=py34_0'
+- pip:
+  - beautifulsoup4==4.6.0
+  - requests==2.14.2
+  - wikipedia==1.4.0
+prefix: !!python/unicode 'C:\ProgramData\Anaconda2\envs\corpus.viwiki'
+

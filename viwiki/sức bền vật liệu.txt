@@ -1,0 +1,46 @@
+Độ bền (ký hiệu: δ) là đặc tính cơ bản của vật liệu. Người ta định nghĩa độ bền như là khả năng chịu đựng không bị nứt, gãy, phá hủy dưới tác động của ngoại lực lên vật thể. Độ bền có thể hiểu rộng hơn, vì vậy người ta chia ra thành các đặc tính về độ bên theo cách tác động ngoại lực khác nhau: độ bền kéo, độ bền nén, độ bền cắt, độ bền uốn, độ bền mỏi, độ bền va đập, giới hạn chảy...
+
+
+== Định nghĩa ==
+Ứng suất đơn được diễn giải theo công thức:
+
+  
+    
+      
+        σ
+        =
+        
+          
+            F
+            A
+          
+        
+        ,
+      
+    
+    {\displaystyle \sigma ={\frac {F}{A}},}
+  
+Trong đó F là lực(N) tác động lên vùng A (cm2). Vùng bị tác động có thể xảy ra các trường hợp: biến dạng và không biến dạng tuỳ thuộc vào ứng suất thiết kế hoặc ứng suất thực áp đặt.
+
+
+=== Các khái niệm ứng suất ===
+Ứng suất nén là trạng thái ứng suất khi vật liệu bị tác động ép chặt. Trường hợp đơn giản của sự ép là lực ép đơn gây ra bởi phản lực tác động, lực đẩy. Sức bền nén của vật liệu luôn cao hơn sức bền kéo của vật liệu đó, tuy nhiên hình thể lại quan trọng để phân tích khi ứng suất nén đạt đến giới hạn cong vênh.
+Ứng suất kéo là trạng thái ứng suất khi vật liệu chịu tác động kéo căng hướng trục. Bất kỳ một vật liệu nào thuộc loại đàn hồi thì phần lớn chịu được ứng suất kéo trung bình, ngược lại là các vật liệu chịu đựng lực kéo kém như, gốm, hợp kim dòn. Trong ngành chế tạo thép, một số loại thép có khả năng chịu được ứng suất kéo rất lớn, như các sợi dây cáp thép trong các thiết bị nâng hạ.
+Ứng suất cắt là kết quả khi lực tác động lên sản phẩm mà gây ra biến dạng trượt của vật liệu trên một mặt phẳng song song với hướng tác động của lực áp vào. Ví dụ như người ta dùng kéo để cắt một tấm tôn mỏng.
+
+
+=== Các khái niệm độ bền ===
+Độ bền uốn là ứng suất thấp nhất làm biến dạng vĩnh viễn cho một vật liệu xem xét.
+Độ bền nén là giới hạn ứng suất nén làm vật liệu bị biến dạng hay phá huỷ.
+Độ bền kéo là giới hạn lớn nhất của ứng suất kéo làm đứt vật liệu xem xét.
+Độ bền mỏi là số đo độ bền của vật liệu hoặc thành phần chịu tải trọng có chu kỳ, và chúng thường khó xác định hơn sơ với các độ bền có tải trọng tĩnh. Độ bền mỏi được xem như là cường độ ứng suất hoặc phạm vi ứng suất, thông thường với ứng suất trung bình 'số không' thì phù hợp với số chu kỳ phá huỷ vật liệu.
+Độ bền va đập là khả năng chịu đựng của vật liệu khi chịu các tải trọng va đập đột ngột.
+
+
+=== Các khái niệm sức căng ===
+Sự méo mó(biến dạng) của vật liệu là sự thay đổi hình dạng khi chịu ứng suất.
+Biến dạng nén hoặc kéo là khái niệm toán học diễn giải xu hướng biến dạng thay đổi của vật liệu.
+Sự võng là miêu tả sự cong oằn của kết cấu duới tải trọng.
+
+
+== Tham khảo ==

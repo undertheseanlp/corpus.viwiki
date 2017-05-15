@@ -1,0 +1,20 @@
+Biểu tượng tiền tệ là biểu tượng hình ảnh được dùng để viết nhanh (tốc ký) tên của đồng tiền, đặc biệt là khi viết số tiền. Biểu tượng tiền tệ thường bao gồm ký tự đầu của tên loại tiền đó, được thay đổi nhỏ về mặt hình thức như nối dính ký tự lại với nhau hoặc thêm nét gạch ngang hay sổ dọc. Bên cạnh biểu tượng tiền tệ, ngày nay người ta còn dùng mã ISO 4217 để ký hiệu tên đồng tiền.
+
+
+== Cách dùng ==
+Khi viết số tiền, vị trí biểu tượng tiền tệ so với con số cũng tùy thuộc mỗi loại tiền tệ. Biểu tượng tiền tệ của nhiều đồng tiền của các nước nói tiếng Anh cũng như các nước Mỹ Latinh thường được viết trước con số, ví dụ US$10.99. Nhiều nước khác lại viết biểu tượng sau con số, ví dụ 25.000đ. Có trường hợp lại đặc biểu tượng vào thế chỗ dấu ngăn cách phần thập phân, đó đồng escudo Cabo Verde, ví dụ 10$00.
+Nói về dấu ngăn cách phần thập phân thì mỗi nước có chuẩn riêng. Ví dụ, Mỹ viết $10.99, các nước khối euro viết €20,00, Anh lại viết £5·52 trên các thẻ ghi giá.
+
+
+== Nguồn gốc thiết kế ==
+Biểu tượng $ có nguồn gốc từ ký hiệu đồng đô la Tây Ban Nha. Biểu tượng £ của đồng bảng bắt nguồn từ chữ L, nghĩa là libra - đơn vị đo khối lượng cơ bản của Đế quốc La Mã. Biểu tượng  của đồng rupee Ấn Độ là sự kết hợp giữa ký tự Latinh với ký tự Devanagari.
+
+
+== Danh sách biểu tượng của các loại tiền tệ đang lưu hành ==
+
+
+== Xem thêm ==
+Danh sách tiền tệ
+
+
+== Tham khảo ==

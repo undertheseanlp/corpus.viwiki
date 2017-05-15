@@ -1,8 +1,3 @@
-Basis point
-Biểu tượng tiền tệ
-Book:Typographical symbols
-Bracket
-Bullet (typography)
 Bảng chữ cái Latinh
 Caret
 Cedi Ghana
@@ -11928,3 +11923,224 @@ Złoty Ba Lan
 Đơn vị tiền tệ châu Âu
 Đồng (tiền)
 Đồng xu
+$
+Ai Cập
+Andorra
+Anguilla
+Antigua và Barbuda
+Antillen-Gulden
+Argentina
+Armenia
+Armenischer Dram
+Aruba
+Austral Argentina
+Azerbaijan
+Ba Lan
+Bahamas
+Baht
+Balboa Panama
+Barbados
+Belize
+Bermuda
+Bolivia
+Boliviano
+Brasil
+Brunei
+Bảng (tiền)
+Bắc Ireland
+Bắc Síp
+Bỉ
+Bồ Đào Nha
+Campuchia
+Canada
+Cedi
+Cent
+Chile
+Cifrão
+Colombia
+Colón Costa Rica
+Cruzeiro (tiền)
+Cuba
+Curaçao
+Cộng hòa Dominica
+Cộng hòa Ireland
+Cộng hòa Nam Phi
+Cộng hòa Nhân dân Trung Hoa
+Cộng hòa Síp
+Danh sách tiền tệ
+Devanagari
+Dominica
+Drachma
+Ecuador
+El-Salvador-Colón
+El Salvador
+Escudo Bồ Đào Nha
+Escudo Cabo Verde
+Estonia
+Euro
+Eurocent
+Fiji
+Florin Aruba
+Franc
+Ghana
+Gibraltar
+Grenada
+Guadeloupe
+Guernsey
+Gulden Hà Lan
+Guyana
+Guyane thuộc Pháp
+Hoa Kỳ
+Hrywnja
+Hy Lạp
+Hà Lan
+Hệ đo lường La Mã
+Hồng Kông
+ISO 4217
+Iran
+Isländische Krone
+Israel
+Jamaica
+Jersey
+Kaimaninseln
+Kazakhstan
+Kosovo
+Krona Thụy Điển
+Krone Na Uy
+Krone Đan Mạch
+Kíp Lào
+Ký tự thay thế
+Latvia
+Liban
+Liberia
+Lira
+Lira Thổ Nhĩ Kỳ
+Luxembourg
+Lào
+Ma Cao
+Malta
+Manat Azerbaijan
+Mark vàng
+Martinique
+Mauritius
+Mayotte
+Micronesia
+Mill (đơn vị tiền tệ)
+Monaco
+Montenegro
+Montserrat
+México
+Mông Cổ
+Naira
+Namibia
+Nepal
+New Zealand
+Nga
+Nhân dân tệ
+Nhật Bản
+Nigeria
+Nuevo Sol
+Oman
+Pakistan
+Palau
+Panama
+Peru
+Peseta
+Peso
+Pfennig
+Philippines
+Pháp
+Phần Lan
+Qatar
+Quần đảo Falkland
+Quần đảo Solomon
+Quần đảo Virgin
+Rand Nam Phi
+Real Brasil
+Reichsmark
+Rentenmark
+Rial
+Riel Campuchia
+Rupee
+Réunion
+Rúp Nga
+Rúp Transnistria
+Saint-Barthélemy
+Saint-Martin
+Saint-Pierre và Miquelon
+Saint Helena, Ascension và Tristan da Cunha
+San Marino
+Sankt
+Schekel
+Seychelles
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Sri Lanka
+Suriname
+Syria
+Tenge
+Thành Vatican
+Thái Lan
+Thổ Nhĩ Kỳ
+Tiếng Bengal
+Tiếng Gujarat
+Tiếng Tamil
+Tiền tệ
+Transnistria
+Trinidad và Tobago
+Triều Tiên
+Trung Hoa Dân Quốc
+Tuvalu
+Tân Đài Tệ
+Tây Ban Nha
+Tögrög
+Ukraina
+Unicode
+Uruguay
+Việt Nam
+Vương quốc Liên hiệp Anh và Bắc Ireland
+Won Cộng hòa Dân chủ Nhân dân Triều Tiên
+Won Hàn Quốc
+Yemen
+Yên Nhật
+Zimbabwe
+Złoty
+£
+¥ (định hướng)
+Áo
+Úc
+Ý
+Đô la
+Đô la Mỹ
+Đông Timor
+Đơn vị Tiền tệ châu Âu
+Đảo Man
+Đế quốc La Mã
+Đồng
+Đức
+Ả Rập Saudi
+Ấn Độ
+₩
+€
+₵
+17 tháng 12
+1842
+1899
+18 tháng 2
+Bộ lưu trữ lịch sử toán học MacTutor
+Các phần tử phát sinh cực nhỏ
+Danh sách nhà toán học
+Hình học
+Luật nhóm
+Na Uy
+Nhóm Lie
+Nhóm biến đổi
+Phương trình vi phân riêng phần
+Toán tử giao hoán
+Trường vectơ
+Đại số Lie
+Đạo hàm Lie
+Định lý Carathéodory-Jacobi-Lie
+Đối xứng liên tục

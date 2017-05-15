@@ -1,0 +1,16 @@
+Marius Sophus Lie (17 tháng 12 năm 1842 - 18 tháng 2 năm 1899) là một nhà toán học người Na Uy. Ông là người tạo ra lý thuyết của các đối xứng liên tục, và ứng dụng nó và việc nghiên cứuhình học và phương trình đạo hàm riêng.
+Công cụ chính của Lie, và là một trong những thành tựu vĩ đại nhất của ông, là sự khám phá ra các nhóm biến đổi liên tục (bây giờ được gọi theo tên ông là nhóm Lie) có thể được hiểu tốt hơn bằng cách "tuyến tính hóa" chúng, và nghiên cứu các trường vectơ được tạo ra từ chúng (những khái niệm gọi là các phần tử phát sinh cực nhỏ). Các phần tử phát sinh là đối tượng cho một dạng tuyến tính hóa của luật nhóm, bây giờ gọi là toán tử giao hoán (commutator bracket), và có cấu trúc ngày nay gọi là một đại số Lie.
+
+
+== Xem thêm ==
+Đại số Lie
+Đạo hàm Lie
+Nhóm Lie
+Định lý Carathéodory-Jacobi-Lie
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+O'Connor, John J.; Robertson, Edmund F., “Sophus Lie”, Bộ lưu trữ lịch sử toán học MacTutor Bản mẫu:Mathbiostub

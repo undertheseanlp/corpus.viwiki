@@ -1,0 +1,103 @@
+Football Manager là 1 series trò chơi mô phỏng việc quản lý bóng đá, được phát triển bởi Sports Interactive và phân phối bởi SEGA. Trò chơi này được bắt đầu năm 1992 dưới tên gọi Championship Manager, tuy nhiên cùng với việc chia tay với nhà phát hành đầu tiên Eidos, Sports Interactive đã không còn giữ được cái tên Championship Manager và tiếp tục phát hành trò chơi Football Manager với nhà phát hành mới là Sega.
+
+
+== Football Manager 2005 ==
+
+Ngày 12 tháng 2 năm 2004, sau khi tách khỏi nhà phát hành Eidos Interactive, có thông báo rằng Sports Interactive, hãng phát triển trò chơi Championship Manager vẫn sở hữu mã nguồn, nhưng không có quyền sở hữu tên gọi Championship Manager, đã được gắn với Eidos (trước đó đã có quyền sở hữu thương hiệu từ Domark sau cuộc hợp nhất năm 1995). Những sự thay đổi này cũng dẫn đến một thông báo khác rằng trong tương lai, trò chơi quản lý bóng đá của Sports Interactive sẽ được phát hành dưới tên gọi Football Manager. Trong khi đó, nếu dòng game Championship Manager tiếp tục được phát triền, Eidos sẽ không còn mã nguồn, và dĩ nhiên không còn nhà sản xuất cho Championship Manager.
+Ra đi mà không có nhà phát hành cho dòng game quản lý bóng đá của mình, Sports Interactive bắt tay với Sega để rồi sau đó, vào tháng 4 năm 2006, Sports Interactive đã có được 1 nhà phát hành nhằm tiếp tục củng cố một xu hướng trong ngành công nghiệp game.
+Phiên bản đầu tiên được ra mắt dưới cái tên mới Football Manager là Football Manager 2005. Được biết đến rộng rãi với tên gọi "FM 2005", nó cạnh tranh trực tiếp với Championship Manager 5 từ Beautiful Game Studios được Eidos tài trợ.
+Football Manager 2005 bao gồm một giao diện được cải tiến cho người chơi, một engine được cải tiến, dữ liệu được cập nhật, thông tin trước và sau trận đấu, thông tin về các cầu thủ quốc tế, tin tức tổng hợp về các giải đấu, (engine) trận đấu 2D,báo cáo của HLV về đội bóng, trung tâm việc làm cho những HLV "thất nghiệp", điều khoản kết thúc hợp đồng, tùy chọn cho mượn cầu thủ được cải tiến, những cuộc đấu trí giữa các HLV, và nhiều tính năng khác.
+Football Manager 2005 được phát hành ở Vương quốc Anh vào ngày 4 tháng 11 năm 2004, ngay sau đó cũng được phát hành ở nhiều quốc gia khác, và trở thành game bán nhanh thứ 5 mọi thời đại (theo Eurogamer).
+
+
+== Football Manager 2006 ==
+
+Football Manager 2006 dành cho Windows và Mac OS được phát hành vào ngày 21 tháng 10 năm 2005 ở Vương quốc Anh (sớm hơn 2 tuần so với ngày phát hành dự kiến 4 tháng 11). Cùng ngày ra mắt game, Sports Interactive cũng cho ra mắt bản vá (patch) nhằm sữa một số lỗi phát hiện được trong quá trình thử nghiệm. Ngay trong tuần đầu ra mắt, nó đã trở thành game PC bán chạy thứ hai mọi thời đại ở Vương quốc Anh.
+Bên cạnh việc cập nhật một mùa giải mới so với FM 2005, FM 2006 còn bao gồm rất nhiều sự điều chỉnh cũng như sự cải tiến đối với gameplay. Những sự điều chỉnh này bao gồm chế độ nói chuyện với cầu thủ (team-talks), đơn giản hóa việc tập luyện, và màn hình trợ giúp trong game. Cùng với đó, game cũng được cập nhật bởi rất nhiều tình nguyện viên (những người hâm mộ tình nguyện cộng tác) Dữ liệu thường xuyên được cập nhật 2 lần trong suốt quá trình phát hành. Bản thứ nhất khi phát hành game, và bản thứ hai thường có thể download vào tháng 2, như một bản cập nhật miễn phí nhằm cập nhật thị trường chuyển nhượng mùa đông. Như thường lệ, một bản demo ra mắt ngày 2 tháng 9 năm 2005, và sau đó ngày 30 tháng 9 là bản gold demo. Đó là một phiên bản giới hạn thời gian của bản chính thức.
+
+
+=== Football Manager 2006 - Xbox 360 ===
+Phiên bản dành cho Xbox 360 ra mắt ngày 13 tháng 4 năm 2006 và là phiên bản đầu tiên dành cho thiết bị chơi game trong nhà của series Football Manager, bao gồm hệ thống 50 giải đấu có thể chơi được, cùng với dữ liệu đồ sộ gồm 250.000 cầu thủ (rất gần với con số của phiên bản PC), nhưng do đó dung lượng file lưu trữ cũng lớn, đòi hỏi ổ cứng của Xbox. Game cũng được miễn phí rộng rãi.
+Phiên bản này cũng sử dụng chức năng Xbox Live, cho phép người chơi tạo các giải đấu trực tuyến gồm tối đa 16 đội bóng có thể sử dụng dữ liệu khi chơi ngoại tuyến. Chức năng trao đổi qua giọng nói cũng được hỗ trợ đầy đủ khi chơi. SI cũng đã xác nhận rằng sẽ phát hành nội dung mới thông qua hệ thống Marketplace.
+
+
+== Football Manager 2007 ==
+
+Vào ngày 8 tháng 6 năm 2006, Sports Interactive công bố một vài chi tiết của Football Manager 2007. "Gồm hơn 100 sự cải tiến, Football Manager 2007 sẽ được phát hành trên PC, Mac và Intel Mac, cũng như Xbox và hệ thống giải trí của Microsoft. Football Manager Handheld trên hệ thống giải trí cầm tay PlayStation của Sony (PSP) sẽ được phát hành vào Giáng sinh năm 2006."
+Ngày 24 tháng 9 năm 2006, có thông báo rằng Football Manager 2007 sẽ ra mắt vào ngày 20 tháng 10 năm 2006.
+Ngày 1 tháng 10 năm 2006, Sports Interactive phát hành bản gold demo của FM 2007, gồm 2 phiên bản, vanilla và strawberry. Cả 2 bản đều cho phép người chơi quản lý 6 tháng trong mùa giải. Bản strawberry gồm nhiều lựa chọn quickstart hơn do đó người chơi có thể thử sức ở nhiều giải đấu hơn. Nó cũng gồm nhiều hiệu ứng hình ảnh hơn bản vanilla.
+Thực tế thì Football Manager 2007 đã ra mắt vào ngày 18 tháng 10 năm 2006 khi một số cửa hàng bán lẻ lờ đi ngày phát hành chính thức.
+Những nét mới ở phiên bản 2007 bao gồm hình ảnh của bạn khi làm HLV, tăng đáng kể khả năng tương tác với các phương tiện truyền thông như tiếp cận với các phóng viên báo chí địa phương về trận đấu sắp tới hoặc bình luận về màn trình diễn của các học trò trong những trận đấu gần đây; các mức độ phê phán hay khen ngợi cầu thủ khác nhau (hạnh phúc hay rất hài lòng về phong độ cầu thủ thay vì chỉ một thuật ngữ chung chung như trước kia), một vài điểm tương tự cũng được bổ sung như bày tỏ sự ngưỡng mộ đối với cầu thủ hay cố gắng làm mục tiêu chuyển nhượng bối rối. Những yêu cầu đối với ban lãnh đạo cũng được cải tiến đáng kể.
+Nhưng sự cải tiến rõ rệt nhất được SI ca ngợi là hệ thống tuyển trạch viên. Kinh nghiệm của tuyển trạch viên cũng như HLV sẽ được thể hiện một cách trực quan thông qua các biểu đồ thanh và các tuyển trạch viên sẽ có thêm thông tin từ khu vực mà họ đã quan sát trước đó. Cùng với đó người chơi cũng có thể nhận CLB con hay được CLB khác đỡ đầu, nhằm cho mượn cầu thủ đến các giải đấu thấp hơn giúp họ có thêm kinh nghiệm, dễ dàng có giấy phép lao động hơn, hoặc trao đổi cầu thủ…, hoặc đối với các CLB hạng dưới, được tăng viện miễn phí, tạo ra khoản phụ thu thông qua chi phí lien quan và đá giao hữu. Theo hướng ngược lại, các tuyển trạch viên của CLB đỡ đầu sẽ có thêm thông tin từ khu vực của CLB con nếu CLB con ở quốc gia khác.
+Một bản vá đã được phát hành để sửa một số lỗi chính trong game, như các bản báo cáo không thực tế, hay số lượng các ca chấn thương đáng kể khi đang diễn ra trận đấu. Bản vá cuối cùng là 7.0.2 94768.
+Ngày 27 tháng 7, trang web của Football Manager được cập nhật với một mục mới: [Football Manager 2008].
+
+
+== Football Manager 2008 ==
+
+Ngày 3 tháng 10 năm 2007, SEGA Europe Ltd và Sports Interactive thông báo Football Manager 2008 sẽ được phát hành vào ngày 19 tháng 10. Tuy nhiên, ngày phát hành đã được đẩy lên sớm hơn 1 ngày, 18 tháng 10. Đã có một vài nét mới: một màn hình radar nhỏ xuất hiện trong quá trình thực hiện những sự thay đổi chiến thuật giúp HLV dễ dàng nắm bắt tình hình trận đấu, việc quản lý ở cấp độ quốc gia được cài thiện, giao diện mới, hệ thống trợ giúp tư vấn, hệ thống ghi chú được cải thiện, sự lựa chọn đội trưởng được sửa chữa, hệ thống sự tin cậy của ban lãnh đạo và người hâm mộ được cải tiến, engine trận đấu được cải thiện. Người chơi có thể thay đổi kích thước sân bóng. Hệ thống giải thưởng được nâng cấp. Xuất hiện đội hình hay nhất mọi thời đại. Hệ thống tài chính được sửa chữa. Hệ thống FaceGen cho các cầu thủ thế hệ sau.
+
+
+== Football Manager 2009 ==
+
+Ngày 3 tháng 9 năm 2008, Sports Interactive tung ra một bản video xem thử và thông báo Football Manager 2009 sẽ ra mắt ngày 14 tháng 11. Sự khác biệt lớn nhất so với các phiên bản cũ là sự xuất hiện của engine trận đấu 3D lần đầu tiên trong lịch sử dòng game. Các điểm đáng chú ý khác có thể kể ra như sự xuất hiện của phái yếu trong hàng ngũ HLV, hệ thống họp báo mới, các bản báo cáo chi tiết hơn của trợ lý HLV và hệ thống chuyển nhượng thực thế hơn. Điểm nhấn cuối cùng của FM 09 là lần đầu tiên được phát hành qua đĩa DVD.
+Ngày 17 tháng 12 năm 200, Sports Interactive thông báo đã đạt được thỏa thuận với CLB Arsenal nhằm phát hành một phiên bản FM 09 độc quyền, bao gồm hình ảnh của tất cả các cầu thủ chính thức trong đội hình Arsenal và giao diện độc quyền với màu sắc truyền thống của CLB.
+Không lâu sau thông báo trên, Sports Interactive cũng cố việc bán hàng qua mạng với việc rao bán FM 09 thông qua eSellerate dành cho hệ điều hành Mac OS vào ngày 23 tháng 12. Đó là dấu hiệu đầu tiên của dòng game này nhằm phổ cập đến người chơi trên toàn cầu thông qua hệ thống phân phối trực tuyến.
+
+
+== Football Manager 2010 ==
+
+Ngày 12 tháng 8 năm 2009, Sports Interactive và SEGA Europe Ltd. thông báo rằng Football Manager 2010 cho PC và Apple Macintosh, và Football Manager Handheld 2010 cho Sony PSP sẽ ra mắt vào ngày 30 tháng 10 năm 2009. Game bao gồm Cúp Challenge AFC và vòng loại, giải vô địch Caribe.
+Football Manager đã là một thành công lớn, giành vị trí số 1 trên rất nhiều bảng xếp hạng game. Đã có rất nhiều cải tiến trong bản FM10, trong đó phải kể đến:-
+Giao diện người dùng được thay đổi hoàn toàn giúp người chơi dễ dàng và nhanh chóng tìm kiếm thông tin.
+Công cụ phân tích trận đấu được áp dụng cho từng cầu thủ trên sân giúp người chơi có thể dễ dàng tìm ra điểm mạnh cũng như điểm yếu của mọi đội bóng.
+Dễ dàng thay đổi chiến thuật từ ngoài đường biên.
+Thêm hai đội tuyển quốc gia, Zanzibar và Tuvalu.
+
+
+== Football Manager 2011 ==
+FM12 được ra mắt vào ngày 5 tháng 11 năm 2010. Ngày 23 tháng 7 năm 2010, một vài điểm đáng chú ý cũng như thiết kế của hộp đĩa đã bị rò rỉ trước khi có một thông báo chính thức.
+Cải thiện những tùy chọn về tập luyện
+Thêm nhiều tổ hợp dành cho tìm kiếm cầu thủ
+Cải thiện hình ảnh cũng như hiệu ứng 3D
+Xuất hiện những người môi giới cầu thủ
+Chơi game vào buổi tối (còn gọi là hiệu ứng ban đêm)
+Hiệu ứng thời tiết
+
+
+== Football Manager 2012 ==
+Football Manager 2012 ra mắt vào ngày 21 tháng 10 năm 2011.
+Chuyển nhượng - những thay đổi quan trọng trong hệ thống chuyển nhượng và hợp đồng
+Cải tiến trong hệ thống tuyển trạch
+Cải tiến về hiệu ứng 3D - chuyển động mới, hệ thống cổ động viên mới, thêm sân vận động
+Quản lý mọi lúc mọi nơi - khả năng thêm bớt giải đấu
+Hệ thống mới cho phép người chơi chỉ rõ ý định nói
+Giao diện mới, bộ lọc mới và nhiều thứ khác
+
+
+== Football Manager Handheld ==
+FMH lần đầu ra mắt vào ngày 13 tháng 4 năm 2006. Đây là phiên bản đầu tiên của SI dành cho hệ máy chơi game cầm tay. Do sự hạn chế về phần cứng của [PSP] nên FM Handheld chỉ là phiên bản rút gọn của FM 2009 với chỉ 9 quốc gia bạn có thể chơi được và tổng cộng 27 giải đấu.
+Dưới đây là danh sách các giải đấu bạn có thể chơi được trong FMH 2009.
+Australia - A League
+England - Premier Division, Championship, League One, League Two, Blue Square Premier
+France - Ligue 1, Ligue 2, National
+Germany - Bundesliga 1, Bundesliga 2, Bundesliga 3
+Netherlands - Eredivisie, Eerste Divisie
+Italy - Serie A, Serie B, Serie C1, Serie C2
+Portugal - Liga Sagres, Liga Vitalis
+Scotland - Premier League, First Division, Second Division, Third Division
+Spain - Primera División, Segunda División
+
+
+== Football Manager Live ==
+
+Ngày 20 tháng 4 năm 2007, SEGA Europe Ltd và Sports Interactive đã công bố một số thông tin về Football Manager Live, một thương hiệu game trực tuyến nhiều người chơi. Dự kiến sẽ ra vào tháng 10 năm 2008, Football Manager Live có nền tảng là dòng game Football Manager, nhưng được thiết kế đặc biệt dành riêng cho thể loại game trực tuyến nhiều người chơi.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Football Manager - Trang web chính thức của Football Manager.
+Diễn đàn Football Manager Việt Nam
+Football Manager FOCI - Football Manager blog

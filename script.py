@@ -1,5 +1,5 @@
 from os import listdir
-
+import codecs
 import wikipedia
 
 crawled_pages = set()
@@ -13,7 +13,9 @@ def crawl_page(title, recrawl=False):
         p = wikipedia.page(title)
         original_title = p.title.lower()
         is_matched = "[Y]" if title == original_title else "[N]"
-        print("%s %s -> %s" % (is_matched, title, original_title))
+        content = "%s %s -> %s" % (is_matched, title, original_title)
+        content = content.encode().decode("utf-8")
+        print(content)
         try:
             out_pages = p.links
             page_queue.extend(out_pages)
@@ -61,5 +63,5 @@ def save_context():
 if __name__ == '__main__':
     wikipedia.set_lang("vi")
     load_context()
-    crawl(recrawl=True, num_pages=5)
+    crawl(recrawl=True, num_pages=2)
     save_context()

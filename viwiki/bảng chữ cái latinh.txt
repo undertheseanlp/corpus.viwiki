@@ -1,0 +1,58 @@
+Bảng chữ cái Latinh (tiếng Latinh: Abecedarium Latinum) là hệ thống chữ viết dùng bảng chữ cái được sử dụng rộng rãi nhất trên thế giới hiện nay.
+
+
+== Nguyên bản bảng chữ cái ==
+
+
+== Mở rộng ==
+
+Bảng chữ cái Latinh được điều chỉnh lại cho thích hợp để dùng trong các ngôn ngữ khác, thỉnh thoảng là nhằm thể hiện âm vị không có trong các ngôn ngữ được viết bằng bảng chữ cái Latinh. Vì lẽ đó mà người ta tạo ra các mở rộng để ghi các âm này, thông qua việc thêm dấu lên các chữ cái có sẵn, ghép nhiều chữ cái lại với nhau, sáng tạo ra chữ cái mới hoàn toàn hoặc gán một chức năng đặc biệt do một bộ đôi hoặc bộ ba chữ cái. Vị trí của các chữ cái mới này trong bảng chữ cái có thể khác nhau, tùy thuộc từng ngôn ngữ.
+
+
+=== Multigraph ===
+Một diagraph là một cặp chữ cái dùng để ký một âm hoặc một kết hợp các âm không tương ứng với từng chữ cái theo thứ tự trong cặp chữ đó. Chẳng hạn, tiếng Anh có ⟨ch⟩, ⟨ng⟩, ⟨rh⟩, ⟨sh⟩, tiếng Hà Lan có ⟨ij⟩ Tương tự, một trigraph là một bộ gồm ba chữ cái ghép lại, chẳng hạn tiếng Đức có ⟨sch⟩, tiếng Breton có ⟨c’h⟩ hay tiếng Milan có ⟨oeu⟩. Trong chính tả của một số ngôn ngữ, diagraph và trigraph được xem là những mẫu tự độc lập trong bảng chữ cái. Vấn đề viết hoa diagraph và trigraph tùy thuộc từng ngôn ngữ, có thể viết hoa chữ đầu tiên mà cũng có thể viết hoa tất cả.
+
+
+=== Từ nối ===
+Từ nối là một liên hiệp hai hay nhiều chữ cái thông thường tạo thành một glyph hoặc một chữ cái mới. Các ví dụ minh họa là ⟨Æ/æ⟩ (bắt nguồn từ ⟨AE⟩, gọi là "ash"), ⟨Œ/œ⟩ (bắt nguồn từ ⟨OE⟩, thỉnh thoảng gọi là "oethel"), ký hiệu viết tắt ⟨&⟩ (từ tiếng Latinh et, nghĩa là "và"), và ký hiệu ⟨ß⟩ ("eszet", bắt nguồn từ ⟨ſz⟩ hoặc ⟨ſs⟩ - dạng cổ xưa của chữ s dài ⟨s⟩).
+
+
+=== Chữ cái mới hoàn toàn ===
+
+Một số ví dụ về chữ cái mới hoàn toàn so với bảng chữ cái Latinh chuẩn là các chữ cái wynn ⟨Ƿ/ƿ⟩ và thorn ⟨Þ/þ⟩ của bảng chữ cái Runic, cũng như chữ cái eth ⟨Ð/ð⟩ được thêm vào bảng chữ cái tiếng Anh cổ.
+Một số ngôn ngữ Tây, Trung và Nam Phi dùng một vài chữ cái bổ trợ có cách phát âm giống với ký tự tương đương trong IPA. Chẳng hạn, tiếng Adangme dùng các chữ cái ⟨Ɛ/ɛ⟩ và ⟨Ɔ/ɔ⟩; tiếng Ga dùng ⟨Ɛ/ɛ⟩, ⟨Ŋ/ŋ⟩ và ⟨Ɔ/ɔ⟩. Tiếng Hausa dùng ⟨Ɓ/ɓ⟩ và ⟨Ɗ/ɗ⟩ làm phụ âm khép và dùng ⟨Ƙ/ƙ⟩ là phụ âm tống ra.
+
+
+=== Dấu ===
+Dấu là một ký hiệu nhỏ có thể xuất hiện ở một vị trí nào đó ở trên, dưới hoặc ngoài chữ cái, chẳng hạn dấu ^ trong chữ cái "ô" của tiếng Việt hay dấu umlau trong các chữ cái ⟨ä⟩, ⟨ö⟩, ⟨ü⟩ của tiếng Đức. Chức năng chính của dấu là làm thay đổi cách đọc của chữ cái được gắn dấu nhưng nó cũng có thể làm thay đổi cách phát âm của cả âm tiết hay của từ, hoặc dấu cũng có thể phân biệt các từ cùng chữ (cách viết giống hệt nhau nhưng không đồng âm hoặc đồng nghĩa với nhau).
+
+
+== Latinh hóa ==
+
+Chữ viết của những ngôn ngữ như tiếng Ả Rập hay tiếng Trung Quốc thường được chuyển tự sang chữ cái Latinh khi được đặt trong văn bản dùng chữ Latinh hay để sử dụng trong môi trường giao tiếp quốc tế. Việc làm này gọi là Latinh hóa.
+
+
+== Lịch sử ==
+
+Cùng với sự bành trướng của Đế quốc La Mã, bảng chữ cái Latinh cùng tiếng Latinh cũng mở rộng từ bán đảo Ý sang các vùng lân cận bên bờ Địa Trung Hải. Cho đến cuối thế kỷ 15, bảng chữ cái Latinh đã phổ biến khắp Tây, Bắc và Trung Âu, chỉ có Đông và Nam Âu vẫn tiếp tục sử dụng bảng chữ cái Cyril. Ở giai đoạn sau, cùng với quá trình thực dân hóa của các quốc gia châu Âu, bảng chữ cái Latinh bắt đầu xuất hiện trên khắp thế giới, từ châu Mỹ, châu Đại Dương, châu Phi và một phần châu Á.
+
+
+== Bảng chữ cái Latinh và tiêu chuẩn quốc tế ==
+Vào khoảng thập niên 1960, các ngành công nghiệp máy vi tính và viễn thông ở các quốc gia phát triển đòi hỏi một phương pháp mã hóa ký tự được sử dụng tự do. Tổ chức tiêu chuẩn hóa quốc tế (ISO) đã tóm lược bảng chữ cái Latinh vào tiêu chuẩn ISO/IEC 646 và dựa trên cách sử dụng phổ biến nhằm mục đích phổ biến rộng rãi tiêu chuẩn này. Do Hoa Kỳ chiếm vị trí thượng tôn trong cả hai ngành công nghiệp trên nên tiêu chuẩn ISO này được xây dựng dựa trên Chuẩn mã trao đổi thông tin Hoa Kỳ (tức ASCII, bộ ký tự dùng cho 26 × 2 chữ cái của bảng chữ cái tiếng Anh). Về sau, các tiêu chuẩn như ISO/IEC 10646 (Unicode Latinh) vẫn tiếp tục dùng bộ 26 × 2 chữ cái của bảng chữ cái tiếng Anh làm bảng chữ ký Latinh căn bản, đồng thời có mở rộng để xử lý được những chữ cái trong các ngôn ngữ khác.
+
+
+== Tham khảo ==
+
+Jensen, Hans (1970). Sign Symbol and Script. London: George Allen and Unwin Ltd. ISBN 0-04-400021-9. . Transl. of Jensen, Hans (1958). Die Schrift in Vergangenheit und Gegenwart. VEB Deutscher Verlag der Wissenschaften. , as revised by the author
+Rix, Helmut (1993). “La scrittura e la lingua”. Trong Cristofani, Mauro (hrsg.). Gli etruschi - Una nuova immagine. Firenze: Giunti. tr. S.199–227. 
+Sampson, Geoffrey (1985). Writing systems. London (etc.): Hutchinson. 
+Wachter, Rudolf (1987). Altlateinische Inschriften: sprachliche und epigraphische Untersuchungen zu den Dokumenten bis etwa 150 v.Chr. Bern (etc.). : Peter Lang.
+W. Sidney Allen (1978). “The names of the letters of the Latin alphabet (Appendix C)”. Vox Latina — a guide to the pronunciation of classical Latin. Cambridge University Press. ISBN 0-521-22049-1 (Second edition). 
+Biktaş, Şamil (2003). Tuğan Tel. 
+
+
+== Liên kết ngoài ==
+Tiếng Anh
+Lewis and Short Latin Dictionary on the letter G
+Latin-Alphabet
+Latin alphabet at omniglot.com

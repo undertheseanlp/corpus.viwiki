@@ -23,7 +23,7 @@ def crawl_page(title, recrawl=False):
             page_queue.extend(out_pages)
         except:
             pass
-        filename = "viwiki/%s.txt" % original_title
+        filename = "viwiki/%s.txt" % transform_page_name(original_title)
         open(filename, "w", encoding="utf-8").write(p.content)
         crawled_pages.add(original_title)
     except wikipedia.DisambiguationError as e:
@@ -34,13 +34,18 @@ def crawl_page(title, recrawl=False):
                 crawl_page(title)
     except wikipedia.PageError as e:
         pass
-    except:
-        pass
+    except Exception as e:
+        print(e)
     crawled_pages.add(title)
 
 
 def load_queue():
     return ""
+
+
+def transform_page_name(page):
+    page = page.replace("/", "")
+    return page
 
 
 def crawl(recrawl=False, num_pages=20):
@@ -76,7 +81,5 @@ def save_context():
 if __name__ == '__main__':
     wikipedia.set_lang("vi")
     load_context()
-    crawl(recrawl=False, num_pages=1000)
+    crawl(recrawl=False, num_pages=100)
     save_context()
-
-

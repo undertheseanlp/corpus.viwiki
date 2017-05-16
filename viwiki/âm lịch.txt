@@ -1,0 +1,54 @@
+Âm lịch là loại lịch dựa trên các chu kỳ của tuần trăng. Loại lịch duy nhất trên thực tế chỉ thuần túy sử dụng âm lịch là lịch Hồi giáo, trong đó mỗi năm chỉ chứa đúng 12 tháng Mặt Trăng. Đặc trưng của âm lịch thuần túy, như trong trường hợp của lịch Hồi giáo, là ở chỗ lịch này là sự liên tục của chu kỳ trăng tròn và hoàn toàn không gắn liền với các mùa. Vì vậy năm âm lịch Hồi giáo ngắn hơn mỗi năm dương lịch khoảng 11 hay 12 ngày, và chỉ trở lại vị trí ăn khớp với năm dương lịch sau mỗi 33 hoặc 34 năm Hồi giáo. Lịch Hồi giáo được sử dụng chủ yếu cho các mục đích tín ngưỡng tôn giáo. Tại Ả Rập Saudi lịch cũng được sử dụng cho các mục đích thương mại.
+Phần lớn các loại lịch khác, dù được gọi là "âm lịch", trên thực tế chính là âm dương lịch. Điều này có nghĩa là trong các loại lịch đó, các tháng được duy trì theo chu kỳ của Mặt Trăng, nhưng đôi khi các tháng nhuận lại được thêm vào theo một số quy tắc nhất định để điều chỉnh các chu kỳ trăng cho ăn khớp lại với năm dương lịch. Hiện nay, trong tiếng Việt, khi nói tới âm lịch thì người ta nghĩ tới loại lịch được lập dựa trên các cơ sở và nguyên tắc của lịch Trung Quốc, nhưng có sự chỉnh sửa lại theo UTC+7 thay vì UTC+8. Nó là một loại âm dương lịch theo sát nghĩa chứ không phải âm lịch thuần túy. Do cách tính âm lịch đó khác với Trung Quốc cho nên Tết Nguyên đán của người Việt Nam đôi khi không hoàn toàn trùng với Xuân tiết của người Trung Quốc và các quốc gia chịu ảnh hưởng bởi văn hóa Trung Hoa và vùng Văn hóa chữ Hán khác.
+Do âm lịch thuần túy chỉ có 12 tháng âm lịch (tháng giao hội) trong mỗi năm, nên chu kỳ này (354,367 ngày) đôi khi cũng được gọi là năm âm lịch.
+
+
+== Bắt đầu của tháng âm lịch ==
+Âm lịch thuần túy cũng khác dương lịch ở chỗ ngày nào là ngày đầu tiên của năm. Cụ thể xem lịch Hồi giáo.
+Đối với một số loại "âm lịch" (không thực sự), chẳng hạn như lịch Trung Quốc, thì ngày đầu tiên của tháng là ngày "trăng mới", tức là khi Mặt Trăng bị hoàn toàn che khuất trong khu vực lịch này được sử dụng.
+Nhiều loại "âm lịch" khác thì căn cứ vào thời điểm trăng lưỡi liềm hiện ra.
+
+
+== Độ dài của tháng âm lịch ==
+Thời lượng của chu kỳ/quỹ đạo Mặt Trăng không cố định và dao động ít nhiều trong khoảng thời gian trung bình của nó. Do các quan sát phụ thuộc vào độ không chắc chắn và các điều kiện thời tiết, và các phương pháp thiên văn rất là phức tạp, nên đã có những cố gắng để tạo ra các quy tắc số học cố định.
+Độ dài trung bình của tháng giao hội là 29,530588... ngày. Đó có nghĩa là độ dài tháng sẽ là 29 và 30 ngày luân phiên (được gọi tương ứng là thiếu và đủ). Sự phân bố của các tháng thiếu và đủ có thể được xác định bằng sử dụng phân số liên tục, và khảo sát các phép xấp xỉ kế tiếp cho độ dài của tháng theo phân số của ngày. Trong danh sách dưới đây, sau số ngày liệt kê trong tử số thì một số nguyên tháng được liệt kê như là mẫu số đã đầy đủ:
+29 / 1 (sai số: -1,061176... ngày sau 2 tháng)
+30 / 1 (sai số: 0,938824... ngày sau 2 tháng)
+59 / 2 (sai số: -1,009404... ngày sau 33 tháng)
+443 / 15 (sai số: 0,988320... ngày sau 30 năm)
+502 / 17 (sai số: -0,98088... ngày sau 70 năm)
+1447 / 49 (sai số: 0,999957... ngày sau 3.437 năm)
+25101 / 850 (sai số: phụ thuộc vào thay đổi của giá trị đối với tháng giao hội)
+Các phân số này có thể được sử dụng trong việc lập các loại âm lịch, hoặc kết hợp với dương lịch để tạo ra âm dương lịch. Chu kỳ 49 tháng được Isaac Newton đề xuất làm cơ sở cho một lựa chọn trong tính toàn ngày Phục sinh vào khoảng năm 1700. Chu kỳ 360 tháng của lịch Hồi giáo dạng bảng là tương đương với 24×15 tháng trừ đi phần hiệu chỉnh là 1 ngày.
+
+
+== Âm lịch 13 tháng tại Anh cổ ==
+Tại Anh, lịch với 13 tháng, mỗi tháng 28 ngày, cộng một ngày dư, được gọi là "a year and a day" (một năm và một ngày) còn được sử dụng tới thời kỳ Tudor. Nó có lẽ là một loại lịch lai trong đó người ta thay thế một tuần thông thường với 7 ngày cho một phần tư tháng âm lịch trên thực tế, vì thế một tháng có chính xác 4 tuần, không phụ thuộc vào tuần trăng trên thực tế. "Năm âm lịch" ở đây được coi là có 364 ngày, làm cho năm dương lịch (365 ngày) trở thành "một năm và một ngày".
+Chẳng hạn, bài ca balat thời kỳ "Edward" (có lẽ là Edward II, cuối thế kỷ 13 hay đầu thế kỷ 14) về Robin Hood có câu "How many merry months be in the year? / There are thirteen, I say..." (Có bao nhiêu tháng dễ chịu trong năm? / Có mười ba, tôi nói...), đã được soạn giả thời Tudor thay đổi thành "...There are but twelve, I say...." (Chỉ có mười hai, tôi nói...). Robert Graves trong lời giới thiệu cho Greek Myths đã bình luận điều này với "số 13, con số của tháng chết chóc của Mặt Trời, chưa bao giờ đánh mất tiếng xấu của nó trong số các điều mê tín."
+Thậm chí vào cuối thế kỷ 20, các tổ chức tài chính Anh quốc vẫn còn cung cấp các khoản vay thế chấp theo âm lịch, đòi hỏi phải có điều chỉnh hàng năm.
+
+
+== Âm dương lịch ==
+Phần lớn các loại lịch khác được gọi là âm lịch trên thực tế chính là âm dương lịch; các ví dụ như thế có lịch Trung Quốc, lịch Do Thái và lịch Hindu cũng như phần lớn các loại lịch được sử dụng thời cổ đại.
+Tất cả các loại lịch trên đều có số tháng không cố định trong mỗi năm. Lý do là mỗi năm dương lịch trên thực tế không chia hết cho tháng âm lịch, vì thế nếu không có sự chỉnh sửa bằng cách thêm các tháng nhuận vào thì các mùa sẽ bị trôi dạt dần sau mỗi năm qua đi. Sự chỉnh sửa này tạo ra tháng thứ 13 của năm sau mỗi 2 hay 3 năm âm dương lịch.
+
+
+== Xem thêm ==
+Âm dương lịch
+Dương lịch
+Lịch Việt Nam
+Lịch Hồi giáo dạng bảng
+Computus
+Lịch Celt
+Ngày lịch so le
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Lịch Mặt Trăng tìm theo múi giờ của bạn
+Mô phỏng lịch mặt trăng qua hình ảnh
+ngCalendar, được xây dựng trên nền tảng zendframework và sử dụng thư viện tính âm lịch của anh Hồ Ngọc Đức
+Các hệ thống lịch đang được sử dụng
+Dương lịch (lịch Gregorius) • Âm lịch (lịch mặt trăng) • Julius • Do Thái • Hồi giáo • Shamsi Hijri

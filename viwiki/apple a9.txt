@@ -1,0 +1,13 @@
+Apple A9 là một hệ thống đơn chip 64-bit (SoC) được thiết kế bởi Apple Inc. Bộ vi xử lý được Samsung và TSMC đồng sản xuất cho Apple và xuất hiện lần đầu tiên trên iPhone 6S và 6S Plus - những sản phẩm được ra mắt vào ngày 9 tháng 9 năm 2015. Apple nhấn mạnh rằng, Apple A9 "nhanh hơn 70% về tổng hiệu năng hoạt động của CPU và nhanh hơn 90% về các tác vụ đồ họa (GPU) so với người tiền nhiệm Apple A8. Apple A9 cùng với Samsung Exynos 8890 và Qualcomm Snapdragon 820 hiện đang là những bộ vi xử lý mạnh mẽ nhất đang có mặt trên thị trường.
+
+
+== Hình ảnh ==
+Hai bộ vi xử lý có thiết kế giống nhau. Vỏ ngoài có kích thước giống nhau (ước tính 15.0×14.5 mm) và chỉ có những dòng chữ ở trên mặt là khác biệt. 
+
+
+== Sản phẩm sử dụng Apple A9 ==
+iPhone 6S và 6S Plus 
+iPhone SE
+
+
+== Tham khảo ==

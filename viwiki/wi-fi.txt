@@ -1,0 +1,55 @@
+Wi-Fi viết tắt từ Wireless Fidelity hay mạng 802.11 là hệ thống mạng không dây sử dụng sóng vô tuyến, giống như điện thoại di động, truyền hình và radio.
+Hệ thống này đã hoạt động ở một số sân bay, quán café, thư viện hoặc khách sạn. Hệ thống cho phép truy cập Internet tại những khu vực có sóng của hệ thống này, hoàn toàn không cần đến cáp nối. Ngoài các điểm kết nối công cộng (hotspots), WiFi có thể được thiết lập ngay tại nhà riêng.
+Tên gọi 802.11 bắt nguồn từ viện IEEE (Institute of Electrical and Electronics Engineers). Viện này tạo ra nhiều chuẩn cho nhiều giao thức kỹ thuật khác nhau, và nó sử dụng một hệ thống số nhằm phân loại chúng; 6 chuẩn thông dụng của WiFi hiện nay là 802.11a/b/g/n/ac/ad.
+
+
+== Hoạt động ==
+
+Truyền thông qua mạng không dây là truyền thông vô tuyến hai chiều. Cụ thể:
+Thiết bị adapter không dây (hay bộ chuyển tín hiệu không dây) của máy tính chuyển đổi dữ liệu sang tín hiệu vô tuyến và phát những tín hiệu này đi bằng một ăng-ten.
+Thiết bị router không dây nhận những tín hiệu này và giải mã chúng. Nó gởi thông tin tới Internet thông qua kết nối hữu tuyến Ethernet.
+Quy trình này vẫn hoạt động với chiều ngược lại, router nhận thông tin từ Internet, chuyển chúng thành tín hiệu vô tuyến và gởi đến adapter không dây của máy tính.
+
+
+== Sóng WiFi ==
+Các sóng vô tuyến sử dụng cho WiFi gần giống với các sóng vô tuyến sử dụng cho thiết bị cầm tay, điện thoại di động và các thiết bị khác. Nó có thể chuyển và nhận sóng vô tuyến, chuyển đổi các mã nhị phân 1 và 0 sang sóng vô tuyến và ngược lại.
+Tuy nhiên, sóng WiFi có một số khác biệt so với các sóng vô tuyến khác ở chỗ:
+Chúng truyền và phát tín hiệu ở tần số 2.4 GHz hoặc 5 GHz. Tần số này cao hơn so với các tần số sử dụng cho điện thoại di động, các thiết bị cầm tay và truyền hình. Tần số cao hơn cho phép tín hiệu mang theo nhiều dữ liệu hơn.
+Chúng dùng chuẩn 802.11:
+Chuẩn 802.11b là phiên bản đầu tiên trên thị trường. Đây là chuẩn chậm nhất và rẻ tiền nhất, và nó trở nên ít phổ biến hơn so với các chuẩn khác. 802.11b phát tín hiệu ở tần số 2.4 GHz, nó có thể xử lý đến 11 megabit/giây, và nó sử dụng mã CCK (complimentary code keying).
+Chuẩn 802.11g cũng phát ở tần số 2.4 GHz, nhưng nhanh hơn so với chuẩn 802.11b, tốc độ xử lý đạt 54 megabit/giây. Chuẩn 802.11g nhanh hơn vì nó sử dụng mã OFDM (orthogonal frequency-division multiplexing), một công nghệ mã hóa hiệu quả hơn.
+Chuẩn 802.11a phát ở tần số 5 GHz và có thể đạt đến 54 megabit/ giây. Nó cũng sử dụng mã OFDM. Những chuẩn mới hơn sau này như 802.11n còn nhanh hơn chuẩn 802.11a, nhưng 802.11n vẫn chưa phải là chuẩn cuối cùng.
+Chuẩn 802.11n cũng phát ở tần số 2.4 GHz, nhưng nhanh hơn so với chuẩn 802.11a, tốc độ xử lý đạt 300 megabit/giây.
+Chuẩn 802.11ac phát ở tần số 5 GHz
+Chuẩn 802.11ad phát ở tần số 60 GHz.
+
+WiFi có thể hoạt động trên cả ba tần số và có thể nhảy qua lại giữa các tần số khác nhau một cách nhanh chóng. Việc nhảy qua lại giữa các tần số giúp giảm thiểu sự nhiễu sóng và cho phép nhiều thiết bị kết nối không dây cùng một lúc.
+
+
+== Adapter ==
+
+Các máy tính nằm trong vùng phủ sóng WiFi cần có các bộ thu không dây, adapter, để có thể kết nối vào mạng. Các bộ này có thể được tích hợp vào các máy tính xách tay hay để bàn hiện đại. Hoặc được thiết kế ở dạng để cắm vào khe PC card hoặc cổng USB, hay khe PCI.
+Khi đã được cài đặt adapter không dây và phần mềm điều khiển (driver), máy tính có thể tự động nhận diện và hiển thị các mạng không dây đang tồn tại trong khu vực./.
+
+
+== Router ==
+Nguồn phát sóng WiFi là máy tính với:
+Một cổng để nối cáp hoặc modem ADSL
+Một router (bộ định tuyến)
+Một hub Ethernet
+Một firewall
+Một access point không dây
+Hầu hết các router có độ phủ sóng trong khoảng bán kính 30,5 m về mọi hướng.
+
+
+== Xem thêm ==
+Bluetooth
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+WiFi tại DMOZ
+Wi-Fi Alliance
+How Municipal WiFi Works.

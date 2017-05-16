@@ -1,0 +1,696 @@
+Đây là danh sách các hệ điều hành. Hệ điều hành máy tính có thể được phân loại theo công nghệ, quyền sở hữu, giấy phép, trạng thái hoạt động, cách dùng, và nhiều đặc điểm khác. Trong thực tế, rất nhiều các nhóm có thể chồng chéo. Tiêu chuẩn để được đề cử là nổi tiếng, như được thể hiện hoặc thông qua một bài viết có sẵn trên Wikipedia hoặc có trích dẫn từ nguồn tin đáng tin cậy.
+
+
+== Độc quyền ==
+
+
+=== Acorn Computers ===
+Arthur
+ARX
+MOS
+RISC iX
+RISC OS
+
+
+=== Amiga Inc. ===
+AmigaOS
+AmigaOS 1.0-3.9 (Motorola 68000)
+AmigaOS 4 (PowerPC)
+
+Amiga Unix (aka Amix)
+
+
+=== Apple Inc. ===
+Gia đình Apple II
+Apple DOS
+Apple Pascal
+ProDOS
+GS/OS
+
+Apple III
+Apple SOS
+
+Apple Lisa
+Lisa Workshop
+Lisa Operating System
+
+Apple Macintosh
+Mac OS
+A/UX (UNIX System V với phần mở rông BSD)
+Rhapsody
+NeXTSTEP
+OS X (trước đó là Mac OS X)
+OS X Server (trước đây là Mac OS X Server)
+
+Apple Network Server
+IBM AIX (Apple-customized)
+
+Apple MessagePad
+Newton OS
+
+iPhone, iPod Touch, iPad
+iOS (bản rút gọn của OS X)
+
+Apple Watch
+watchOS (bản rút gọn của iOS)
+
+Hệ điều hành nhúng
+A/ROSE
+iPod software (hệ điều hành nhúng không có tên gọi dành cho iPod)
+Biến thể giấu tên của NetBSD cho Airport Extreme và Time Capsule
+
+
+=== Apollo Computer ===
+Domain/OS: Một trong những hệ điều hành mạng đầu tiên. Hoạt động trên phần cứng Apollo/Domain. Sau đó bị Hewlett-Packard mua lại.
+
+
+=== Atari ===
+Atari DOS (cho máy tính 8 bit)
+Atari TOS
+Atari MultiTOS
+
+
+=== Be Inc. ===
+Beoscomment
+BeIA
+Beoscomment r5.1d0
+magnussoft ZETA (dựa trên Beoscomment r5.1d0 mật mã gốc, được phát triển bởi yellowTAB)
+
+
+=== Bell Labs ===
+Unix ("hệ thống mới của Ken," vì nó được sáng tạo bởi (Ken Thompson), tên gọi chính thức là Unics và sau đó đổi thành Unix, hệ điều hành được tạo ra tại Bell Labs vào năm 1969 làm cơ sở cho gia đình Unix)
+UNIX Time-Sharing System v1
+UNIX Time-Sharing System v2
+UNIX Time-Sharing System v3
+UNIX Time-Sharing System v4
+UNIX Time-Sharing System v5
+UNIX Time-Sharing System v6
+MINI-UNIX
+PWB/UNIX
+USG
+- CB Unix
+
+UNIX Time-Sharing System v7 (Nó là Phiên bản Unix 7 (và, với một chừng mực nào đó, con cháu của nó được liệt kê dưới đây, hầu như tất cả hệ điều hành tương tự Unix và dựa trên Unix đều bắt nguồn từ đây.)
+Unix System III
+Unix System IV
+Unix System V
+Unix System V có các bản phát hành 2.0, 3.0, 3.2, 4.0, và 4.2
+
+UNIX Time-Sharing System v8
+UNIX Time-Sharing System v9
+UNIX Time-Sharing System v10
+
+Hệ điều hành phi Unix
+BESYS
+Plan 9 from Bell Labs
+
+
+=== Bull, SAS ===
+General Comprehensive Operating System (GCOS)
+
+
+=== Burroughs Corporation, Unisys ===
+Burroughs MCP
+
+
+=== Control Data Corporation ===
+Chippewa Operating System (COS)
+MACE (Mansfield and Cahlander Executive)
+Kronos (Kronographic OS)
+NOS (Network Operating System)
+NOS/BE NOS Batch Environment
+NOS/VE NOS Virtual Environment
+
+SCOPE (Supervisory Control Of Program Execution)
+SIPROS (cho Simultaneous Processing Operating System)
+
+EP/IX (Enhanced Performance Unix)
+
+
+=== Digital Research, Inc. ===
+CP/M
+CP/M CP/M cho Intel 8080/8085 và Zilog Z80
+Personal CP/M, một bản tùy chỉnh của CP/M
+CP/M Plus với BDOS 3.0
+
+CP/M-68K CP/M cho Motorola 68000
+CP/M-8000 CP/M cho Zilog Z8000
+CP/M-86 CP/M cho Intel 8088/8086
+CP/M-86 Plus
+Personal CP/M-86
+
+MP/M phiên bản đa người dùng của CP/M-80
+MP/M II
+
+MP/M-86 phiên bản đa người dùng của CP/M-86
+MP/M 8-16, biến thể vi xử lý kép của MP/M cho CPU 8086 và 8080.
+
+Concurrent CP/M, phiên bản nối nghiệp của CP/M-80 và MP/M-80
+Concurrent CP/M-86, phiên bản nối nghiệp của CP/M-86 và MP/M-86
+Concurrent CP/M 8-16, biến thể vi xử lý kép của Concurrent CP/M cho các CPU 8086 và 8080.
+
+Concurrent CP/M-68K, một biến thể cho 68000
+
+DOS
+Concurrent DOS, phiên bản nối tiếp Concurrent CP/M-86 with PC-MODE
+Concurrent PC DOS, một biến thể Concurrent DOS cho các máy tính tương thích IBM-PC
+Concurrent DOS 8-16, biến thể vi xử lý kép của Concurrent DOS cho các CPU 8086 và 8080.
+Concurrent DOS 286
+Concurrent DOS XM, Biến thể chế độ thực của Concurrent DOS với hỗ trợ EEMS.
+Concurrent DOS 386
+Concurrent DOS 386/MGE, a Concurrent DOS 386 biến thể với khả năng thiết bị đầu cuối đồ họa tiên tiến
+
+Concurrent DOS 68K,một cổng của Concurrent DOS cho CPU Motorola 68000 với DOS với chức năng mã nguồn di động.
+FlexOS 1.0 – 2.34, một phát sinh từ Concurrent DOS 286
+FlexOS 186, biến thể của FlexOScho thiết bị cuối
+FlexOS 286, biến thể của FlexOS cho hosts
+Siemens S5-DOS/MT, một hệ thống điều khiển công nghiệp dựa trên FlexOS
+IBM 4680 OS, mộ hệ điều hành POS dự trên FlexOS
+IBM 4690 OS, một hệ điều hành POS dựa trên FlexOS
+Toshiba 4690 OS, một hệ điều hành POS dựa trên IBM 4690 OS và FlexOS
+
+FlexOS 386, biến thể sau này của FlexOS cho hosts
+IBM 4690 OS, một hệ điều hành POS dựa trên FlexOS
+Toshiba 4690 OS, một hệ điều hành POS dựa trên IBM 4690 OS và FlexOS
+
+FlexOS 68K, một phát sinh của Concurrent DOS 68K
+
+Multiuser DOS, phiên bản nối tiếp Concurrent DOS 386
+CCI Multiuser DOS
+Datapac Multiuser DOS
+Datapac System Manager, phát sinh từ Datapac Multiuser DOS
+
+IMS Multiuser DOS
+IMS REAL/32, một phát sinh của Multiuser DOS
+IMS REAL/NG, phiên bản nối tiếp REAL/32
+
+DOS Plus 1.2 – 2.1, hệ thống đơn người dùng, đa tác vụ phát sinh từ Concurrent DOS 4.1 – 5.0
+DR DOS 3.31 – 6.0, một bản DOS đơn người dùng đơn tác vụ phát sinh tư Concurrent DOS 6.0
+Novell PalmDOS 1.0
+Novell "Star Trek"
+Novell DOS 7, hệ thống đơn người dùng, đa tác vụ phát sinh từ DR DOS
+Caldera OpenDOS 7.01
+Caldera DR-DOS 7.02 và cao hơn
+
+
+=== Fujitsu ===
+Towns OS
+
+
+=== General Electric ===
+Real-Time Multiprogramming Operating System
+
+
+=== Google ===
+
+Google Chrome OS được thiết kế để làm việc dành riêng cho các ứng dụng web. Công bố ngày 7/7/2009, Chrome OS hiện đang được công khai và được phát hành từ mùa hè 2011. Mã nguồn của Chrome OS phát hành vào 19/10/2009, dưới giấy phép với tên gọi Chromium OS.
+Chromium OSlà một phiên bản phát triển hệ điều hành mã nguồn mở của Google Chrome OS. Cả hai hệ điều hành đều dựa trên hạt nhân Linux.
+
+Android là một hệ điều hành dành cho các thiết bị di động. nó bao gồm Android Runtime (userland) cùng với Linux (kernel), với hạt nhân Linux của nó sửa đổi để thêm trình điều khiển cho phần cứng thiết bị di động và để loại bỏ không sử dụng trình điều khiển Vanilla Linux.
+
+
+=== Honeywell ===
+Multics
+GCOS
+CP-6
+
+
+=== Intel ===
+iRMX; Hệ điều hành thời gian thực ban đầu được tạo ra để hỗ trợ ban đầu được tạo ra để hỗ trợ họ vi xử lý 8080 và 8086 trong các ứng dụng nhúng
+ISIS-II; "Intel Systems Implementation Supervisor" là môi trường THE cho phát triển của phần mềm họ vi xử lý của Intel đầu những năm 80 của Intellec Microcomputer Development System của họ và các bản sao. ISIS-II làm việc với đĩa mềm 8 inch và có một trình biên tập, cross-assemblers, một linker, một trình định vị đối tượng, gỡ lỗi, compilers cho PLM (PL/I cho vi xử lý của họ  8080/86), một trình phiên dịch BASIC, etc. và cho phép quản lý tập tin qua một bảng điều khiển.
+
+
+=== IBM ===
+
+
+==== Trên các mainframes đầu tiên: 1400, 1800, 701, 704, 709, 7090, 7094 ====
+BESYS (for the IBM 7090)
+CTSS (The Compatible Time-Sharing System, phát triển tại MIT's Computation Center để sử dụng trên một bản sửa đổi của IBM 7094)
+GM OS & GM-NAA I/O (cho IBM 704)
+IBSYS (Hệ điều hành băng cho IBM 7090 và IBM 7094)
+IJMON (Một serial I/O monitor có thể khởi động để tải các chương trình cho IBM 1400 và IBM 1800)
+SOS (SHARE Operating System, cho IBM 704 và 709)
+UMES (University of Michigan Executive System,cho IBM 704, 709, và 7090)
+
+
+==== On S/360, S/370, and successor mainframes ====
+OS/360 và các phiên bản kế nhiệm trên các mainframe IBM S/360, S/370, và các phiên bản kế nhiệm
+OS/360 (Hệ điều hành chính thức đầu tiên hướng đến kiến trúc System/360),
+Saw cài đặt khách hàng của các biến thể sau đây:
+PCP (Primary Control Program, một hạt nhân và một hệ thống không gian Cấp phát tập tin tự động)
+MFT (Đa lập trình gốc, với một số cố định các tác vụ, bị thay thế bởi MFT II)
+MFT II (Đa lập trình với một với một số cố định các tác vụ, có tới 15 phân vùng ứng dụng kích thước cố định,  cộng với phân vùng cho các tác vụ hệ thống, ban đầu được xác định tại thời điểm khởi động nhưng có thể định nghĩa lại bằng các câu lệnh điều hành)
+MVT (Multi-Programming Variable Tasks, có tới 15 vùng ứng dụng định nghĩa động, cộng với vùng cho tác vụ hệ thống)
+
+OS/VS (phân nhánh của OS/360 hứong đến kiến trúc System/370 virtual memory architecture, "OS/370" is not correct name for OS/VS1 and OS/VS2, but rather refers to OS/VS2 MVS and MVS/SP Version 1),
+Customer installations in the following variations:
+SVS (Single Virtual Storage, both VS1 & VS2 began as SVS systems)
+OS/VS1 (Operating System/Virtual Storage 1, Virtual-memory version of MFT II)
+OS/VS2 (Operating System/Virtual Storage 2, Virtual-memory version of OS/MVT but without multiprocessing support)
+OS/VS2 R2 (called Multiple Virtual Storage, MVS, eliminated most need for VS1)
+
+MVS/SE (MVS System Extensions)
+MVS/SP (MVS System Product)
+MVS/XA (MVS/SP V2. MVS hỗ trợ kiến trúc eXtended, 31-bit)
+MVS/ESA (MVS hỗ trợ Enterprise System Architecture, horizontal addressing extensions: data only address spaces called Dataspaces; a Unix environment was available starting with MVS/ESA V4R3)
+OS/390 (Nâng cấp từ MVS, với bổ sung thêm môi trường Unix)
+z/OS (OS/390 hỗ trợ z/Architecture, 64-bit)
+
+DOS/360 and successors trên IBM S/360, S/370,và các 
+BOS/360 (early interim version of DOS/360, briefly available at a few Alpha & Beta System/360 sites)
+TOS/360 (similar to BOS above and more fleeting, able to boot and run from 2x00 series tape drives)
+DOS/360 (Disk Operating System (DOS), multi-programming system with up to 3 partitions, first commonly available OS for System/360)
+DOS/360/RJE (DOS/360 with a control program extension that provided for the monitoring of remote job entry hardware (card reader & printer) connected by dedicated phone lines)
+
+DOS/VS (First DOS offered on System/370 systems, provided virtual storage)
+DOS/VSE (also known as VSE, upgrade of DOS/VS, up to 14 fixed size processing partitions)
+VSE/SP (program product replacing DOS/VSE and VSE/AF)
+VSE/ESA (DOS/VSE extended virtual memory support to 32-bit addresses (Extended System Architecture)).
+z/VSE (latest version of the four decades old DOS lineage, supports 64-bit addresses, multiprocessing, multiprogramming, SNA, TCP/IP, and some virtual machine features in support of Linux workloads)
+
+CP/CMS (Control Program/Cambridge Monitor System) and successors on IBM S/360, S/370, and successor mainframes
+CP-40/CMS (for System/360 Model 40)
+CP-67/CMS (for System/360 Model 67)
+VM/370 (Virtual Machine / Conversational Monitor System, virtual memory operating system for System/370)
+VM/XA (VM/eXtended Architecture for System/370 with extended virtual memory)
+VM/ESA (Virtual Machine / Extended System Architecture, added 31-bit addressing to VM series)
+z/VM (z/Architecture version of the VM OS with 64-bit addressing)
+
+TPF Line (Transaction Processing Facility) on IBM S/360, S/370, and successor mainframes (largely used by airlines)
+ACP (Airline Control Program)
+TPF (Transaction Processing Facility)
+z/TPF (z/Architecture extension)
+
+Tương tự Unix-like trên IBM S/360, S/370,các máy chủ lớn sau kế nhiệm.
+AIX/370 (IBM's Advanced Interactive eXecutive, a System V Unix version)
+AIX/ESA (IBM's Advanced Interactive eXecutive, a System V Unix version)
+OpenSolaris for IBM System z
+UTS (developed by Amdahl)
+z/Linux
+
+Others on IBM S/360, S/370, and successor mainframes:
+BOS/360 (Basic Operating System)
+MTS (Michigan Terminal System, developed by a group of universities in the US, Canada, and the UK for the IBM System/360 Model 67, System/370 series, and compatible mainframes)
+RTOS/360 (IBM's Real Time Operating System, ran on 5 NASA custom System/360-75s)
+TOS/360 (Tape Operating System)
+TSS/360 (IBM's Time Sharing System)
+MUSIC/SP (developed by McGill University for IBM System/370)
+ORVYL and WYLBUR (developed by Stanford University for IBM System/360)
+
+
+==== Trên PC và dựa trên kiến trúc Intel x86 ====
+PC DOS, IBM DOS
+PC DOS 1.x, 2.x, 3.x (phát triển cùng với Microsoft)
+IBM DOS 4.x, 5.0 (phát triển cùng với Microsoft)
+PC DOS 6.1, 6.3, 7, 2000, 7.10
+
+OS/2
+OS/2 1.x (phát triển cùng với Microsoft)
+OS/2 2.x
+OS/2 Warp 3
+OS/2 Warp 4
+eComStation (Warp 4.5/Workspace on Demand, rebundled by Serenity Systems International)
+
+IBM 4680 OS version 1 to 4, a POS operating system based on Digital Research's Concurrent DOS 286 and FlexOS 286 1.xx
+IBM 4690 OS version 1 to 6.3, a successor to 4680 OS based on Novell's FlexOS 286/FlexOS 386 2.3x
+Toshiba 4690 OS version 6.4, a successor to 4690 OS 6.3
+
+
+==== Trên các nền tảng phần cứng khác ====
+IBM Series/1
+EDX (Event Driven Executive)
+RPS (Realtime Programming System)
+CPS (Control Programming Support, subset of RPS)
+SerIX (Unix on Series/1)
+
+IBM 1130
+DMS (Disk Monitor System)
+
+IBM 1800
+TSX (Time Sharing eXecutive)
+MPX (Multi Programming eXecutive)
+
+IBM 8100
+DPCX (Distributed Processing Control eXecutive)
+DPPX (Distributed Processing Programming Executive)
+
+IBM System/3
+DMS (Disk Management System)
+
+IBM System/34, IBM System/36
+SSP (System Support Program)
+
+IBM System/38
+CPF (Control Program Facility)
+
+IBM System/88
+Stratus VOS (developed by Stratus, and used for IBM System/88, Original equipment manufacturer from Stratus)
+
+AS/400, iSeries, System i, Power Systems i Edition
+OS/400 (descendant of System/38 CPF, include System/36 SSP environment)
+i5/OS (extends OS/400 with significant interoperability features)
+IBM i (extends i5/OS)
+
+UNIX on IBM POWER
+AIX (Advanced Interactive eXecutive, a System V Unix version)
+AOS (a BSD Unix version, not related to Data General AOS)
+
+Others
+IBM Workplace OS (Microkernel based operating system, developed and canceled in 1990s)
+K42 (open-source research operating system on PowerPC or x86 based cache-coherent multiprocessor systems)
+Dynix (developed by Sequent, and used for IBM NUMA-Q too)
+
+
+=== Microsoft Corporation ===
+Xenix (phiên bản cấp phép của Unix; được cấp phép bởi SCO năm 1987)
+MSX-DOS (phát triển bởi MS Japan cho máy tính MSX 8-bit)
+MS-DOS (phát triển cùng với IBM, versions 1.0–6.22)
+Windows (16-bit and 32-bit preemptive and cooperative multitasking, running atop MS-DOS)
+Windows 1.0 (Windows 1)
+Windows 2.0 (Windows 2 – phiên bản riêng cho vi xử lý i386)
+Windows 3.0 (Windows 3)
+Windows 3.1x (Windows 3.1)
+Windows for Workgroups 3.1 (Tên mã Snowball)
+Windows 3.2 (chỉ phát hành tại Trung Quốc)
+Windows for Workgroups 3.11
+Windows 95 (Tên mã Chicago – Windows 4.0)
+Windows 98 (Tên mã Memphis – Windows 4.1)
+Windows Millennium Edition (Windows ME – Windows 4.9)
+
+Windows NT (Full 32-bit or 64-bit kernel, không phụ thuộc MS-DOS)
+Windows NT 3.1
+Windows NT 3.5
+Windows NT 3.51
+Windows NT 4.0
+Windows 2000 (Windows NT 5.0)
+Windows XP (Windows NT 5.1)
+Windows Server 2003 (Windows NT 5.2)
+Windows Fundamentals for Legacy PCs (dựa trên Windows XP)
+Windows Vista (Windows NT 6.0)
+Windows Azure (Cloud OS Platform) 2009
+Windows Home Server (dựa trên Windows Server 2003)
+Windows Server 2008 (dựa trên Windows Vista)
+Windows 7 (Windows NT 6.1)
+Windows Server 2008 R2 (based on Windows 7)
+Windows Home Server 2011 (based on Windows Server 2008 R2)
+Windows Server 2012 (based on Windows 8)
+Windows 8 (Windows NT 6.2)
+Windows Phone 8
+Windows 8.1 (Windows NT 6.3)
+Windows Server 2012 R2 (based on Windows 8.1)
+Xbox One system software
+Windows Phone 8.1
+Windows 10 (Windows NT 10.0)
+Windows 10 Mobile
+
+Windows CE (OS for handhelds, embedded devices, and real-time applications that is similar to other versions of Windows)
+Windows CE 3.0
+Windows CE 5.0
+Windows CE 6.0
+Windows Mobile (based on Windows CE, but for a smaller form factor)
+Windows Phone 7
+
+Singularity – A research operating system written mostly in managed code (C#)
+Midori – A managed code operating system
+Xbox 360 system software
+
+
+=== Novell ===
+NetWare hệ điều hành mạng cung cấp dịch vụ mạng hiệu năng cao. Đã được thay thế bởi Open Enterprise Server, có thể dựa trên NetWare hoặc Linux để cung cấp cùng một dịch vụ.
+UnixWare
+Novell "SuperNOS", một hợp nhất không được phát hành của NetWare và UnixWare
+
+Novell "Corsair"
+Novell "Exposé"
+
+Open Enterprise Server, phiên bản kế nhiệm của NetWare.
+
+
+=== Samsung ===
+Bada
+Tizen
+
+
+=== SCO, SCO Group ===
+Xenix, bản phân phối dựa trên Unix System III cho kiến trúc Intel 8086/8088
+Xenix 286, bản phân phối dựa trên Unix System V Release 2 cho kiến trúc Intel 80286
+Xenix 386, bản phân phối dựa trên Unix System V Release 2 cho kiến trúc Intel 80386
+
+SCO Unix, SCO UNIX System V/386 was the first volume commercial product licensed by AT&T to use the UNIX System trademark (1989). Derived from AT&T System V Release 3.2 with an infusion of Xenix device drivers and utilities plus most of the SVR4 features
+SCO Open Desktop, the first 32-bit graphical user interface for UNIX Systems running on Intel processor-based computers. Based on SCO Unix
+
+SCO OpenServer 5, AT&T UNIX System V Release 3 based
+SCO OpenServer 6, SVR5 (UnixWare 7) based kernel with SCO OpenServer 5 application and binary compatibility, system administration, and user environments
+UnixWare
+UnixWare 2.x, based on AT&T System V Release 4.2MP
+UnixWare 7, UnixWare 2 kernel plus parts of 3.2v5 (UnixWare 2 + OpenServer 5 = UnixWare 7). Referred to by SCO as SVR5
+
+
+== Không độc quyền ==
+
+
+=== Tương tự Unix ===
+
+
+==== Research and other POSIX-compliant ====
+MINIX (study OS developed by Andrew S. Tanenbaum in the Hà Lan)
+Plan 9 from Bell Labs (distributed OS developed at Bell Labs, based on original Unix design principles yet functionally different and going much further)
+Inferno (distributed OS derived from Plan 9, originally from Bell Labs)
+Plan B (distributed OS derived from Plan 9 and Off++ microkernel)
+
+Unix (OS developed at Bell Labs ca 1970 initially by Ken Thompson)
+Xinu (Study OS developed by Douglas E. Comer in the USA)
+
+
+==== Tự do và mở nguồn ====
+
+BSD (Berkeley Software Distribution, một biến thể của Unix cho phần cứng DEC VAX)
+FreeBSD (one of the outgrowths of UC Regents' abandonment of CSRG's 'BSD Unix')
+DragonFlyBSD, forked from FreeBSD 4.8
+Darwin, created by Apple using FreeBSD and NeXTSTEP
+GhostBSD
+PC-BSD
+
+NetBSD (an embedded device BSD variant)
+OpenBSD forked from NetBSD
+Bitrig forked from OpenBSD
+
+GNU
+Linux
+Android x86
+Cray Linux Environment
+illumos, contains original Unix (SVR4) code derived from the OpenSolaris (discontinued by Oracle in favor of Solaris 11 Express)
+OpenIndiana, operates under the illumos Foundation. Uses the illumos kernel, which is a derivative of OS/Net, which is basically an OpenSolaris/Solaris kernel with the bulk of the drivers, core libraries, and basic utilities.
+Nexenta OS, based on the illumos kernel with Ubuntu packages
+SmartOS, an illumos distribution for cloud computing with Kernel-based Virtual Machine integration.
+
+RTEMS (Real-Time Executive for Multiprocessor Systems)
+Syllable Desktop
+Univention Corporate Server
+VSTa
+FMI/OS, successor of VSTa
+
+
+==== Tự do và mở nguồn ====
+Cosmos (Viết bằng C#)
+FreeDOS (Biến thể DOS mã nguồn mở)
+Haiku (open source inspired by BeOS, under development)
+ITS written by MIT students (for the PDP-6 and PDP-10) (written in MIDAS)
+MonaOS (written in C++)
+osFree OS/2 Warp open source clone.
+OSv (written in C++)
+Phantom OS (persistent object oriented)
+ReactOS, open source OS designed to be binary compatible with Windows NT and its variants (Windows XP, Windows 2000, etc.); currently in development phase
+SharpOS (written in.NET C#)
+TempleOS (written in HolyC)
+Redox OS (written in Rust)
+
+
+== Đĩa hệ điều hành (DOS) ==
+86-DOS (developed at Seattle Computer Products by Tim Paterson for the new Intel 808x CPUs; licensed to Microsoft, became PC DOS/MS-DOS. Also known by its working title QDOS.)
+PC DOS (IBM's DOS variant, developed jointly with Microsoft, versions 1.0–7.0, 2000, 7.10)
+MS-DOS (Microsoft's DOS variant for OEM, developed jointly with IBM, versions 1.x–6.22 Microsoft's now abandoned DOS variant)
+
+Concurrent CP/M-86 3.1 (BDOS 3.1) with PC-MODE (Digital Research's successor of CP/M-86 and MP/M-86)
+Concurrent DOS 3.1-4.1 (BDOS 3.1-4.1)
+Concurrent PC DOS 3.2 (BDOS 3.2) (Concurrent DOS variant for IBM compatible PCs)
+DOS Plus 1.2 (BDOS 4.1), 2.1 (BDOS 5.0) (single-user, multi-tasking system derived from Concurrent DOS 4.1-5.0)
+
+Concurrent DOS 8-16 (dual-processor variant of Concurrent DOS for 8086 and 8080 CPUs)
+Concurrent DOS 286 1.x
+FlexOS 1.00-2.34 (derivative of Concurrent DOS 286)
+FlexOS 186 (variant of FlexOS for terminals)
+FlexOS 286 (variant of FlexOS for hosts)
+Siemens S5-DOS/MT (industrial control system based on FlexOS)
+IBM 4680 OS (POS operating system based on FlexOS)
+IBM 4690 OS (POS operating system based on FlexOS)
+Toshiba 4690 OS (POS operating system based on IBM 4690 OS and FlexOS)
+
+FlexOS 386 (later variant of FlexOS for hosts)
+IBM 4690 OS (POS operating system based on FlexOS)
+Toshiba 4690 OS (POS operating system based on IBM 4690 OS and FlexOS)
+
+Concurrent DOS 386 1.0, 1.1, 2.0, 3.0 (BDOS 5.0-6.2)
+Concurrent DOS 386/MGE (Concurrent DOS 386 variant with advanced graphics terminal capabilities)
+Multiuser DOS 5.0, 5.01, 5.1 (BDOS 6.3-6.6) (successor of Concurrent DOS 386)
+CCI Multiuser DOS 5.0-7.22 (up to BDOS 6.6)
+Datapac Multiuser DOS
+Datapac System Manager 7 (derivative of Datapac Multiuser DOS)
+
+IMS Multiuser DOS 5.1, 7.0, 7.1 (BDOS 6.6-6.7)
+IMS REAL/32 7.50, 7.51, 7.52, 7.53, 7.54, 7.6, 7.7, 7.8, 7.90, 7.91, 7.92, 7.93, 7.94, 7.95 (BDOS 6.8 and higher) (derivative of Multiuser DOS)
+IMS REAL/NG (successor of REAL/32)
+
+Concurrent DOS XM 5.0, 5.2, 6.0, 6.2 (BDOS 5.0-6.2) (real-mode variant of Concurrent DOS with EEMS support)
+DR DOS 3.31, 3.32, 3.33, 3.34, 3.35, 5.0, 6.0 (BDOS 6.0-7.1) single-user, single-tasking native DOS derived from Concurrent DOS 6.0)
+Novell PalmDOS 1.0 (BDOS 7.0)
+Novell DR DOS "StarTrek"
+Novell DOS 7 (single-user, multi-tasking system derived from DR DOS, BDOS 7.2)
+Novell DOS 7 updates 1-10 (BDOS 7.2)
+Caldera OpenDOS 7.01 (BDOS 7.2)
+Enhanced DR-DOS 7.01.0x (BDOS 7.2)
+Dell Real Mode Kernel (DRMK)
+
+Novell DOS 7 updates 11-15.2 (BDOS 7.2)
+Caldera DR-DOS 7.02-7.03 (BDOS 7.3)
+DR-DOS "WinBolt"
+OEM DR-DOS 7.04-7.05 (BDOS 7.3)
+OEM DR-DOS 7.06 (PQDOS)
+OEM DR-DOS 7.07 (BDOS 7.4/7.7)
+
+FreeDOS (open source DOS variant)
+ProDOS (operating system for the Apple II series computers)
+PTS-DOS (DOS variant by Russian company Phystechsoft)
+TurboDOS (Software 2000, Inc.) for Z80 and Intel 8086 processor-based systems
+Multi-tasking user interfaces and environments for DOS
+DESQview+ QEMM 386 multi-tasking user interface for DOS
+DESQView/X (X-windowing GUI for DOS)
+
+
+== Nhúng ==
+
+
+=== Personal digital assistants (PDAs) ===
+DIP DOS on Atari Portfolio
+Embedded Linux
+Android
+Ångström distribution
+Familiar Linux
+Mæmo based on Debian deployed on Nokia's Nokia 770, N800 and N810 Internet Tablets.
+MeeGo merger of Moblin and Maemo
+OpenZaurus
+webOS from Palm, Inc., later Hewlett-Packard via acquisition, and most recently at LG Electronics through acquisition from Hewlett-Packard
+
+Inferno (distributed OS originally from Bell Labs)
+iOS (a subset of OS X)
+Magic Cap
+MS-DOS on Poqet PC, HP 95LX, HP 100LX, HP 200LX, HP 1000CX, HP OmniGo 700LX
+NetBSD
+Newton OS on Apple MessagePad
+Palm OS from Palm, Inc; now spun off as PalmSource
+PEN/GEOS on HP OmniGo 100 and 120
+PenPoint OS
+Plan 9 from Bell Labs
+PVOS
+Symbian OS
+Windows CE, từ Microsoft
+Pocket PC từ Microsoft, một biến thể của Windows CE
+Windows Mobile từ Microsoft, một biến thể của Windows CE
+Windows Phone từ Microsoft
+
+
+=== Phương tiện, kỹ thuật số người sẽ là cầu thủ ===
+DSPnano RTOS
+iOS (a subset of OS X)
+iPod software
+ipodlinux
+iriver clix OS
+RockBox
+
+
+=== Điện thoại di động và smartphones ===
+BlackBerry OS
+Embedded Linux
+Access Linux Platform
+Android
+bada
+Firefox OS (tên dự án: Boot to Gecko)
+Openmoko Linux
+OPhone
+MeeGo (hợp nhất từ Maemo và Moblin)
+Mobilinux
+MotoMagx
+Qt Extended
+Sailfish OS
+Tizen (trước đây được gọi là LiMo Platform)
+Ubuntu Touch
+webOS
+
+PEN/GEOS, GEOS-SC, GEOS-SE
+iOS (một bản rút gọn của OS X)
+Palm OS
+Nền tảng Symbian(sau này là Symbian OS)
+Windows Mobile (bị thay thế bởi Windows Phone)
+BlackBerry 10
+
+
+=== Routers ===
+AlliedWare by Allied Telesis (aka Allied Telesyn)
+AirOS by Ubiquiti Networks
+CatOS by Cisco Systems
+Cisco IOS (originally Internetwork Operating System) by Cisco Systems
+DD-WRT by NewMedia-NET
+Inferno (distributed OS originally from Bell Labs)
+IOS-XR by Cisco Systems
+IronWare by Foundry Networks
+JunOS by Juniper Networks
+LibreWRT GNU/Linux-libre
+OpenWrt
+RouterOS by Mikrotik
+ScreenOS by Juniper Networks, originally from Netscreen
+Timos by Alcatel-Lucent
+FTOS by Force10 Networks
+RTOS by Force10 Networks
+List of wireless router firmware projects
+
+
+=== Hệ thống nhúng khác ===
+Contiki
+ERIKA Enterprise
+eCos
+NetBSD
+uClinux
+MINIX
+NCOS
+freeRTOS, openRTOS and safeRTOS
+OpenEmbedded (or Yocto Project)
+pSOS (Portable Software On Silicon)
+QNX Hệ điều hành thời gian thực tương tự Unix, nhắm chủ yếu vào thị trường hệ thống nhúng.
+REX OS (microkernel OS; thường là một hệ điều hành điện thoại di động nhúng
+RIOT
+ROM-DOS
+TinyOS
+ThreadX
+UbiquiOS bởi Virscient
+DSPnano RTOS
+Windows Embedded
+Windows CE
+Windows Embedded Standard
+Windows Embedded Enterprise
+Windows Embedded POSReady
+
+Wind River VxWorks Small footprint, scalable, high-performance RTOS for embedded microprocessor based systems.
+Wombat OS (microkernel OS; Hệ điều hành nhúng thời gian thưc)
+
+
+== Xem thêm ==
+So sánh các hệ điều hành
+
+
+=== Thể loại liên kết ===
+Hệ điều hành
+Hệ điều hành nhúng
+Hệ điều hành thời gian thực
+
+
+== Chú thích ==

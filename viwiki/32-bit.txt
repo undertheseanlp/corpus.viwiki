@@ -1,0 +1,10 @@
+Trong kiến trúc máy tính, 32-bit số nguyên, địa chỉ bộ nhớ, hoặc đơn vị dữ liệu khác là những thứ hầu hết đều có 32 bit (4 octets). Ngoài ra, kiến trúc 32-bit CPU và ALU cũng dựa trên thanh ghi, địa chỉ bus, hoặc dữ liệu bus của kích thước đó. 32-bit là một thuật ngữ dành cho thế hệ máy vi tính trong đó 32-bit vi xử lý là tiêu chuẩn.
+Một thanh ghi 32-bit có thể lưu trữ 232 giá trị khác nhau. Phạm vi có dấu của giá trị số nguyên có thể lưu trữ trong 32 bit là từ -2,147,483,648 đến 2,147,483,647 (không dấu: 0 đến 4,294,967,295). Do đó, vi xử lý với 32-bit địa chỉ nhớ có thể trực tiếp truy cập 4 GiB của bộ nhớ địa chỉ byte.
+
+
+== Tham khảo ==
+
+
+== Liên kết ==
+HOW Stuff Works "How Bits and Bytes work"
+Ken Colburn on LockerGnome.com: 32-Bit Vs. 64-Bit Windows

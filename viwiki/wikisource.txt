@@ -1,0 +1,39 @@
+Wikisource là một thư viện trực tuyến gồm những văn bản nguồn có nội dung mở, được Wikimedia Foundation điều hành. Mục tiêu của nó là lưu giữ tất cả mọi hình thức văn bản tự do, trong mọi thứ tiếng. Hiện nay trang Wikisource cũng cung cấp những bản dịch.
+
+
+== Nội dung của thư viện ==
+Wikisource tập hợp những văn kiện đã được xuất bản, bao gồm tiểu thuyết, tác phẩm phi hư cấu (sách khoa học), thư từ, diễn văn, thơ ca, văn kiện hiến pháp và lịch sử, đạo luật, kinh kệ, và nhiều loại tài liệu khác. Tất cả mọi văn kiện được đưa vào phải không còn bản quyền, hoặc tác giả đã phát hành nội dung dưới Giấy phép Creative Commons Ghi công-Chia sẻ tương tự 3.0. Dự án cũng nhận những tài liệu bằng mọi thứ tiếng, kể cả bản tự dịch.
+Wikisource không nhận những sách của "nhà xuất bản cá nhân" (tiếng Anh: vanity press) và những tài liệu do chính người đóng góp viết nên.
+
+
+== Lịch sử ==
+
+Dự án này ban đầu có tên Dự án Sourceberg trong giai đoạn lên kết hoạch (một cách chơi chữ từ Dự án Gutenberg). Dự án Sourceberg chính thức bắt đầu khi nó được nhận một địa chỉ URL tạm của riêng mình vào ngày 24 tháng 11 năm 2003 (http://sources.wikipedia.org); mọi văn bản và thảo luận được chuyển từ ps.wikipedia.org (địa chỉ ban đầu của dự án, ps là viết tắt của Project Sourceberg) sang. Một cuộc bỏ phiếu đã thay đổi tên dự án sang Wikisource vào ngày 6 tháng 12 năm 2003. Tuy vậy, dự án chỉ chuyển sang URL cố định như hiện tại (http://wikisource.org) vào 23 tháng 7 năm 2004.
+
+
+== Các tên miền con cho các ngôn ngữ ==
+Một phiên bản tiếng Hê-brơ của Wikisource (he.wikisource.org) đã được tạo ra vào tháng 8 năm 2004. Việc có một website riêng dành cho tiếng Hebrew là do khó khăn khi gõ và sửa các văn kiện tiếng Hê-brơ trong môi trường viết từ trái sang phải (vì Hê-brơ viết từ phải sang trái). Vào các tháng sau, những thành viên ở nhiều ngôn ngữ, trong đó có tiếng Đức yêu cầu có wiki riêng, nhưng một cuộc bỏ phiếu vào tháng 12 về việc có nên tạo ra tên miền ngôn ngữ riêng không đã không cho được kết quả nào. Sau một cuộc bỏ phiếu thứ hai kết thúc vào ngày 12 tháng 5 năm 2005, đã cho phép mỗi ngôn ngữ được lưu trữ văn kiện của mình trong wiki riêng.
+Đầu tiên có 14 ngôn ngữ được tạo ra vào ngày 23 tháng 8 năm 2005. Các ngôn ngữ mới này không có tiếng Anh, mà mã en: được tạm đổi hướng sang website chính (wikisource.org).
+Đến ngày 11 tháng 9 năm 2005, người ta đã cấu hình thiết lập phiên bản tiếng Anh, cùng với 8 ngôn ngữ khác được tạo ra trong ngày hôm đó.
+Thêm ba ngôn ngữ nữa được tạo ra vào ngày 29 tháng 3 năm 2006 và rồi đến 14 ngôn ngữ nữa vào 2 tháng 6 năm 2006. Hiện nay, Wikisource đã có hơn 50 tên miền ngôn ngữ, bên cạnh các ngôn ngữ khác vẫn còn lưu giữ ở wikisource.org, được xem là trang thử nghiệm hoặc là trang nhà cho các ngôn ngữ chưa có tên miền riêng (hiện nay có 31 ngôn ngữ).
+Trang wikisource.org vẫn được giữ lại để giúp việc điều hành các ngôn ngữ phụ và lưu trữ các ngôn ngữ khác chưa có tên miền riêng.
+
+
+=== Wikisource tiếng Việt ===
+Wikisource phiên bản tiếng Việt được chính thức tạo ra vào ngày 2 tháng 6 năm 2006. Tuy phần nhiều phiên bản ngôn ngữ của Wikisource có khẩu hiệu "Thư viện tự do" (tiếng Anh: The Free Library), Wikisource tiếng Việt chọn khẩu hiệu "Văn thư lưu trữ mở" vì hai lý do: thứ nhất là cộng đồng Wikipedia tiếng Việt đã quyết định sử dụng từ "mở" thay vì "tự do" để chỉ đến phần mềm tự do, và thứ hai là nhiều người bị lẫn lộn khi Wikibooks đầu tiên có khẩu hiệu "Thư viện mở", họ tưởng là có thể mượn sách thường ở đấy.
+
+
+== Xem thêm ==
+Dự án Gutenberg
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Wikisource tiếng Việt
+Cổng chính Wikisource
+Wikisource tiếng Việt cũ tại "Wikisource dùng chung"
+
+Thảo luận và kế hoạch đầu tiên về dự án tại Wikimedia Meta-Wiki
+Lịch sử Wikisource theo một thành viên

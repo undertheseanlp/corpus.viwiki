@@ -1,0 +1,16 @@
+Truyền hình độ nét chuẩn (SDTV - Standard-definition television) là loại kỹ thuật phát truyền hình với độ phân giải không phải là truyền hình độ nét cao (HDTV 720p, 1080i, và 1080p) hay truyền hình tăng cường nét (EDTV 480p). Các dạng tín hiệu SDTV phổ biến là 576i, với các nét phân giải 567 hỗn hợp, có nguồn gốc từ các hệ thống PAL và SECAM ở châu Âu; và 480i dựa theo Ủy ban Hệ thống Truyền hình Quốc gia Hoa Kỳ NTSC.
+Ở Hoa Kỳ, SDTV kỹ thuật số phát sóng với tỉ lệ 4:3 giống như các tín hiệu NTSC với màn hình rộng mà phần trung tâm bị cắt. Tuy nhiên, các nơi khác trên thế giới dùng hệ thống màu PAL hay SECAM, truyền hình độ nét chuẩn hiện nay dùng với tỉ lệ 16:9 với sự chuyển giao công nghệ vào giữa những năm thập niên 1990 và 2000.
+
+
+== Tỉ lệ điểm ảnh ==
+
+
+== Xem thêm ==
+Truyền hình độ nét cao
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Programmer's Guide to Video Systems

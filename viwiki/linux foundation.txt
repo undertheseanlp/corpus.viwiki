@@ -1,0 +1,94 @@
+Linux Foundation (LF) là một hiệp hội thương mại công nghệ phi lợi nhuận được thành lập để thúc đẩy, bảo vệ và mở rộng Linux và hợp tác phát triển, hỗ trợ "các tài nguyên công nghệ chia sẻ lớn nhất trong lịch sử." INó bắt đầu vào năm 2000 dưới sự Open Source Development Labs (OSDL) và trở thành tổ chức hiện nay khi OSDL hợp nhất với Free Standards Group (FSG.) Linux Foundation tài trợ cho công việc của người sáng lập Linux, Linus Torvalds và người bảo trì Greg Kroah-Hartman và được hỗ trợ bởi các công ty hàng đầu về Linux và các công ty nguồn mở, bao gồm các tập đoàn công nghệ nổi tiếng như Cisco, Fujitsu, HP, IBM, Intel, Microsoft, NEC, Oracle, Qualcomm và Samsung và các nhà phát triển từ khắp thế giới. Trong những năm gần đây, Linux Foundation đã mở rộng các dịch vụ của mình thông qua các sự kiện, đào tạo và chứng nhận và Collaborative Projects. Ví dụ về Collaborative Projects tại Linux Foundation bao gồm Open Network Automation Platform (ONAP), Hyperledger, Cloud Native Computing Foundation, Open Platform for NFV (OPNFV), Cloud Foundry, Node.js Foundation...
+Trong khi thông điệp ban đầu của Linux Foundationlà để thúc đẩy, bảo vệ, và chuẩn hóa Linux "bằng cách cung cấp một bộ các dịch vụ toàn diện để cạnh tranh hiệu quả với các nền tảng khép kín," tổ chức đã mở rộng phạm vi công việc của mình bao gồm nhiều lĩnh vực của ngành công nghiệp phần mềm nguồn mở chuyên nghiệp nói chung. Các lĩnh vực này bao gồm công nghệ blockchain, máy tính hiệu suất cao (HPC) và công nghệ container.
+
+
+== Lịch sử ==
+Nguồn gốc của Linux Foundation có thể được truy nguồn từ năm 2000 khi Open Source Development Labs (OSDL) được thành lập. OSDL là một tổ chức phi lợi nhuận được hỗ trợ bởi một tập đoàn toàn cầu nhằm "đẩy nhanh việc triển khai Linux cho máy tính doanh nghiệp" và "trở thành trung tâm chính cho ngành công nghiệp Linux".."
+Năm 2003, Linus Torvalds, người tạo ra hệ điều hành Linux tự do đã tuyên bố ông sẽ tham gia tổ chức như một thành viên của OSDL để làm việc toàn thời gian trên các phiên bản Linux tương lai.
+Năm 2007, OSDL hợp nhất với Free Standards Group, một tổ chức khác thúc đẩy việc áp dụng Linux. Vào thời điểm đó, Jim Zemlin, người đứng đầu FSG, đã tiếp quản làm giám đốc điều hành của The Linux Foundation.
+Vào ngày 11/9/2011, website của Linux Foundation đã bị gỡ xuống do sự vi phạm được phát hiện 27 ngày trước, bao gồm nhưng giới hạn cho tất cả tên miền phụ đang hoạt động của The Linux Foundation, như Linux.com. Các phần chính bao gồm OpenPrintingvẫn không kết nối vào ngày 20/10/2011. Quá trình khôi phục hoàn tất vào ngày 4/1/2012(mặc dù một trang, the Linux Developer Network,sẽ không được phục hồi).
+
+
+== Mục tiêu ==
+The Linux Foundation đóng vai trò là người phát ngôn trung gian của nhà cung cấp cho Linux và tạo ra nội dung gốc giúp nâng cao sự hiểu biết về nền tảng Linux. Nó cũng thúc đẩy sự đổi mới bằng cách tổ chức sự kiện cộng tác giữa cộng đồng kỹ thuật Linux, các nhà phát triển ứng dụng, ngành công nghiệp và người dùng cuối để giải quyết các vấn đề cấp bách phải đối mặt với Linux. Thông qua các chương trình cộng đồng của Linux Foundation, người dùng cuối, các nhà phát triển và các thành viên trong ngành hợp tác về các vấn đề kỹ thuật, luật pháp và quảng bá.
+Để cho người tạo ra Linux Kernel, Linus Torvalds và các nhà phát triển hạt nhân quan trọng khác vẫn duy trì sự độc lập, the Linux Foundation tài trợ cho họ để họ có thể làm việc toàn thời gian vào việc nâng cao Linux.
+The Linux Foundation cung cấp cho các nhà phát triển ứng dụng các dịch vụ chuẩn hóa và hỗ trợ làm cho Linux trở thành một mục tiêu hấp dẫn cho những nỗ lực phát triển của họ. Chúng bao gồm: Linux Standard Base (LSB) và Linux Developer Network.
+The Linux Foundation hỗ trợ cộng đồng Linux bằng cách cung cấp thông tin kỹ thuật và giáo dục thông qua các sự kiện hàng năm của nó, chẳng hạn như Linux Collaboration Summit, Linux Kernel Developers Summit, Và sự kiện LinuxCon tổng thể kể từ tháng 9/2009.
+The Linux Foundation also provides services to key areas of the Linux community, including an open source developer travel fund and other administrative assistance. Through its workgroups, members and developers can collaborate on key technical areas. There is also a training program that is vendor-neutral, technically advanced, and created with the actual leaders of the Linux development community.
+
+
+== Cương vị quản lý cộng đồng ==
+Với cộng đồng Linux kernel, The Linux Foundation tổ chức các cơ sở hạ tầng CNTT của mình và tổ chức các hội nghị như Linux Kernel Summit và Linux Plumbers Conference. Họ cũng tổ chức một Ban Cố vấn Kỹ thuật bao gồm các nhà phát triển hạt nhân Linux. Một trong những nhà phát triển được chỉ định để tham gia vào Ban quản trị Linux Foundation.
+
+
+=== Hợp tác với Goodwill ===
+Vào tháng 1/2016, The Linux Foundation đã công bố mối quan hệ hợp tác với Goodwill Central Texas để giúp đỡ hàng trăm người thiệt thòi từ các cộng đồng ít được phục vụ và nhiều nguồn gốc khác nhau được đào tạo cần thiết để bắt đầu sự nghiệp mới và sinh lợi trong Linux IT..
+
+
+=== Community Developer Travel Fund ===
+Để tài trợ cho các nhà phát triển xứng đáng để đẩy nhanh việc giải quyết vấn đề kỹ thuật và cộng tác trong cộng đồng mã nguồn mở, The Linux Foundation đã khởi động Community Developer Travel Fund. Tài trợ dành cho các nhà phát triển cộng đồng ưu tú với thành tích phát triển mã nguồn mở đã được chứng minh là không thể có được nguồn tài chính để tham dự các sự kiện kỹ thuật từ nhà tuyển dụng. Các ứng dụng có tại đây.
+
+
+=== Core Infrastructure Initiative ===
+The Core Infrastructure Initiative (CII), một dự án được quản lý bởi The Linux Foundation cho phép các công ty công nghệ, các bên liên quan ngành công nghiệp và các nhà phát triển được coi trọng cùng xác định và tài trợ cho các dự án mã nguồn mở quan trọng cần được hỗ trợ. Tháng 6/2015, tổ chức này thông báo hỗ trợ tài chính gần 500.000 USD cho ba dự án mới để hỗ trợ tốt hơn các yếu tố an ninh quan trọng của cơ sở hạ tầng thông tin toàn cầu.
+
+
+== Thành viên ==
+Tính đến tháng 1/2017, có hơn 260 thành viên doanh nghiệp xác định với lý tưởng và sứ mệnh của Linux Foundation:
+Thành viên Platinum (12), những thành viên đóng góp 500,000USD hàng năm, bao gồm. (Liệt kê theo thứ tự bảng chữ cái) AT&T Cisco Systems, Fujitsu Ltd, Hitachi, Huawei, IBM Corp., Intel Corp., Microsoft Corp., NEC Corp., Oracle Corp., Qualcomm Innovation Center Inc., Samsung Electronics Co. Ltd
+Thành viên vàng (19), những thành viên đóng góp 100,000USD hàng năm, bao gồm. Liệt kê theo thứ tự bảng chữ cái) Accenture, Citrix Systems, Doky, Ebay, EMC, Facebook, Google, Mazda, NetApp, Panasonic, PlumGrid, Renesas, Seagate, Suse, Symantec, Toshiba, Toyota, Verizon Terremark, VMware
+Thành viên bạc(244), những thành viên đóng góp 5,000-20,000USD (Nhân rộng với số lượng nhân viên) hành năm (Xếp theo bảng chữ cái) Adobe, ADP, Advanced Telematic, Agenda, Aisin Aw, AliCloud, AllGo, AllWinner, Alps, Altera, Amarula Solutions, Amazon, AMD, Amihan Global Strategies, Apcera, AppFormix, Apprenda, ARM, Atlassian, Autodesk, Avi Networks, Axis, BayLibre, Barefoot Networks, BasysKom, Bell Canada, Bitdefender, Bitnami, BlackDuck, BMC, Borqs, Bosch, Broadcom, Bromium, CA Technologies, Calastone, Calix, Canonical, CapitalOne, Cavium, Centrify, China Mobile, China Merchants Bank, China Telecom, Cinemo, Cirrus Logic, Cleversafe, Cloudbase Solutions, Cloudify, CloudLinux, CloudSoft, Cluster HQ, CME Group, Codethink, Collabora, Comcast Cable, Compuware, Concurrent, Container Solutions, ContainerShip, Core OS, Endpoint Protector, Credativ, Cumulus, Data Centred, Data Kinetics, Datawise.o, Datto, Daynix, Deis, Dell, Denso, Denx, DigitalOcean, Docker, DreamHost, DreamWorks Studios, DTCC, EasyStack, Eldarion, ENEA, Electronics And Telecommunications Research Institute|ETRI, Ericsson, Eureka, Exablox, Exoscale, Fluendo, FOSSter, Foxt, Fuji Heavy Industries, Fusion-Io, GenyMobile, GitHub, GlobalLogic, Goldman Sachs, Harman, Hi Corp., Honda, Hewlett Packard Enterprise, HSA Foundation, Igalia, Iguaz.io, IIX, Imagination, Infoblox, Innovium, Intrinsyc, Ishi Systems, Land Rover - Jaguar, Joyent, J.P. Morgan, JVC-Kenwood, Kinvolk, Kismatic, Knowles, Konsulko Group, Kontena, Kyup, Kubique, Lenovo, LG, Linaro, LinBit, Lineo Solutions, Linutronix, Linux Professional Institute, LiveWyer, LMAX Echange, MariaDB, mcCloudWare, Mediatek, Meinberg, Mellanox, MentorGraphics, Mesosphere, MetaSwitch, Metaswitch Networks, Meyer Sound, Microchip, Micron, Micware, Millenium, Miracle, Mitsubishi Electric, Monax, National Instruments, NCSoft, NexB, Nexenta, Next Thing Co., Nextiva, Nginx, NIpa, Nissan, Nokia, NTT, NTTData, Nutanix, Nvidia, NXP, OSSystems, OrangeFS, OpenLogic, OpenSynergy, Open vStorage, SADL, OwnCloud, Palamida, Paxos, PayPal, Pelagicore, Pinterest, Pioneer, Pivotal, Plansys, Plexistor, Polyverse, Portworx, Produban, Proxmox, The Qt Company, Rackspace, Raisecom, Rancher, Rausch Netzwerktechnik, Red Hat, Resin.io, Restlet, Ricoh, Robin, RUsBITech, RX-M, Sampo Software, SanDisk, SAP SE, Savoir-Faire Linux, Scality, Scalock, SELTECH, Serenata Flowers, sgi, Siemens, Sine Nomine Associates, SmartBear, Solace Systems, Solarflare, Sony, Soramitsu, SR Labs, StorageOS, Suntec, Supernap, SwiftStack, Symbio, Symphony Teleca, Synopsys, Sysdig, Target, Tech Mahindra, Texas Instruments, ThunderSoft, Tick42, TimeSys, Toyotsu Electronics, Travelping, Treasure Data, Tuxera, Twistlock, Twitter, Univa, VALVe, Vicom Infinity, Virtual Open Systems, Wercker, Western Digital, Williams Garcia, Wind, Witekio, Witz Corporation, Deepin, Xilinx, Yahoo!, ZTE
+Liên kết(7): Clemson, Fondazione Inuit, Konkuk University, NXT, Seneca, Zhejang University, Trace
+Các thành viên của hội đồng quản trị của quỹ được các thành viên trong hội đồng bầu ra (các thành viên cao hơn sẽ bầu nhiều thành viên hơn). Thành viên cũng mở rộng cho các cá nhân (cho phép họ chọn hai giám đốc và chạy đua riêng cho một trong hai ghế) cho đến tháng 1 năm 2016, khi những điều khoản đó đã được loại bỏ. Các cá nhân bây giờ chỉ có thể là "người ủng hộ".
+
+
+== Tài trợ ==
+Nguồn tài trợ của nó đến từ các Thành viên Platinum: Cisco Systems, Microsoft, Fujitsu, HP, IBM, Intel, NEC, Oracle, Qualcomm, và Samsung và Hitachi trong nhiều năm. 9 đơn vị đều có đại diện trong hội đồng Quản trị, họ chiếm đa số trong hội đồng 16 người này.
+Tính đến tháng 4/2014, tổ chức thu phí hàng năm trị giá ít nhất là 6,245,000 USD:
+8 thành viên Platinum members
+16 Thành viên Vàng
+224 Thành viên Bạc
+
+
+== Các sự kiện ==
+Các sự kiện của The Linux Foundation là nơi những người sáng tạo, người bảo trì và những người thực hiện các dự án mã nguồn quan trọng nhất gặp nhau. Các sự kiện của Linux Foundation trong năm 2015 thu hút gần 15,000 nhà phát triển, bảo trì viên, quản trị hệ thống, các lãnh đạo tư tưởng, giám đốc điều hành doanh nghiệp và các chuyên gia ngành công nghiệp khác từ hơn 3.100 tổ chức trên 85 quốc gia. Nhiều dự án mã nguồn mở cũng đồng thời định vị các sự kiện của họ tại các sự kiện của The Linux Foundation để tận dụng sự hợp tác giữa cộng đồng với các dự án trong cùng ngành.
+Các sự kiện 2016 được lên kế hoạch sẽ bao gồm nhiều xu hướng trong mã nguồn mở, bao gồm Big Data, các ứng dụng đám mây, các ứng dụng chứa, IoT, mạng, bảo mật và hơn thế nữa.
+Enterprise End User Summit
+Linux Security Summit
+TIZEN Developer Summit
+TIZEN Developer Conference
+Open Compliance Summit
+Enterprise Users Meeting
+Collaboration Summit
+AllSeen Alliance Summit
+OPNFV Summit
+Linux Security Summit
+Linux Plumbers Conference
+Open Daylight Summit
+Xen Project Developer Summit
+Xen Project User Summit
+The Annual Linux Kernel Summit
+Korea Linux Forum
+CloudStack Days
+MesosCon
+KVM Forum
+ContainerCon
+Automotive Linux Summit
+CloudOpen
+LinuxCon
+ApacheCon
+Embedded Linux Conference cf. http://www.embeddedlinuxconference.com/
+Android Builders Summit
+VAULT Linux Storage and Filesystem Conference
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Website chính thức
+Linux Foundation Training
+
+Linux.com
+Linux Foundation Publications
+Linux Adoption Trends: A Survey of Enterprise End Users

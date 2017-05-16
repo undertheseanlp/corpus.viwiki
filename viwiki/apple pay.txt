@@ -1,0 +1,9 @@
+Apple Pay là dịch vụ thanh toán di động và ví số được Apple Inc. cung cấp trên các thiết bị di động iPhone 6, iPhone 6 Plus và Apple Watch - các thiết bị tương thích (iPhone 5 và các model sau này), iPad Air 2 và iPad Mini 3. Apple Pay sẽ làm việc với Visa PayWave, PayPass của MasterCard và American Express ExpressPay.
+Dịch vụ thanh toán trực tiếp này thực hiện ở máy thanh toán của các cửa hàng thông qua giao tiếp NFC, các thông tin về thẻ sẽ được lưu và bảo quản trong chiếc iPhone 6 hoặc iPhone 6 Plus, người dùng khi thanh toán đưa iPhone qua vùng NFC trên máy thanh toán, chạm vân tay vào TouchID và giao dịch đã kết thúc, không thông tin nào của thẻ bị lộ ra ngoài. Người dùng có thể thêm tùy thích thông tin của rất nhiều thông tin thẻ tín dụng, tất cả được lưu trong một ứng dụng trên iPhone có tên là Passbook. Mỗi lần giao dịch, máy chủ của Apple sẽ cho ra những dãy mã dùng một lần cho cuộc giao dịch thanh toán, Apple sẽ không lưu và sử dụng trực tiếp thông tin từ thẻ của khách hàng nên không xảy ra các hiện tượng rò rỉ hay đánh cắp thông tin thẻ hay mã PIN. Bên cạnh đó cũng có thể dùng dịch vụ Apple Pay để thanh toán các giao dịch diễn ra trong các ứng dụng như mua trò chơi, nhạc.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Apple Pay - trang chủ chính thức

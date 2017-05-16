@@ -1,0 +1,14 @@
+Mực nước biển trung bình (tiếng Anh: Mean sea level, viết tắt MSL), thường gọi tắt là mực nước biển (sea level), là mức trung bình của bề mặt của một hoặc nhiều đại dương của Trái Đất, nhằm xác định ra độ cao bằng 0 và từ đó có thể đo được độ cao của điểm trên Trái Đất .
+
+Phép dựng mô hình Trái Đất dẫn đến bề mặt Trái Đất được quy về một ellipsoid, gọi là ellipsoid quy chiếu, tượng trưng cho độ cao của biển và được dùng để lấy mốc về độ cao của vật thể trên Trái Đất. Các vật nằm trên bề mặt này được quy ước có "độ cao bằng 0 so với mực nước biển".
+Nó là một khái niệm được thống nhất về lý thuyết, nhưng từng nước lại quy định trong tiêu chuẩn quốc gia của mình cách lấy mốc khác nhau. Đây là mực nước trung bình cân đối tính trong toàn năm của một vùng biển được nhắm chọn theo quy định trong tiêu chuẩn quốc gia của mỗi nước và có độ cao quy ước là "0 mét". Ví dụ: "Mực nước biển" theo tiêu chuẩn quốc gia của Ba Lan là hình ellipsoid đi qua mực nước trung bình trong toàn năm của biển Baltic, tính cho vịnh Kronstadt (thuộc Liên bang Nga).
+Khái niệm mực nước biển cũng được mở rộng ra thành khái niệm hình ellipsoid chuẩn cho các hành tinh, dùng để lấy mốc độ cao cho các vật thể trên bề mặt các hành tinh. Nó có thể được định nghĩa dựa vào thể tích bằng thể tích phần đất đá cứng của hành tinh và/hoặc các bán trục lớn phù hợp với khoảng cách trung bình của cực và các điểm trên xích đạo tới tâm hành tinh. Ví dụ, với Sao Hỏa, "mực nước biển" là hình ellipsoid với các bán trục lớn a = 3394,6 km, b = 3393,3 km và c = 3376,3 km.
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+
+
+== Liên kết ngoài ==

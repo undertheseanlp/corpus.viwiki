@@ -1,0 +1,816 @@
+Xem các nghĩa khác của tam giác tại bài Tam giác (định hướng).
+Tam giác hay hình tam giác là một loại hình cơ bản trong hình học: hình hai chiều phẳng có ba đỉnh là ba điểm không thẳng hàng và ba cạnh là ba đoạn thẳng. Tam giác là đa giác có số cạnh ít nhất.
+Tam giác luôn luôn là đa giác đơn, lồi
+
+
+== Các yếu tố trong tam giác ==
+
+Một tam giác có ba cạnh, ba cạnh ấy tạo thành ba góc, chúng còn được gọi là các góc trong để phân biệt với các góc ngoài là góc kề bù với chúng tạo bởi một cạnh và một cạnh kéo dài.
+Trong hình bên A' là góc đối của A đã dịch chuyển, B' là góc đối của B đã dịch chuyển
+
+Đoạn thẳng nối một đỉnh với hình chiếu vuông góc của nó trên cạnh đối diện được gọi là đường cao của tam giác. Một tam giác có ba đường cao. Ba đường cao của một tam giác cắt nhau tại một điểm, điểm này được gọi là trực tâm của tam giác
+
+Đoạn thẳng nối mỗi đỉnh với trung điểm của cạnh đối diện được gọi là trung tuyến của tam giác, một tam giác có ba đường trung tuyến. Ba đường trung tuyến của một tam giác cắt nhau tại một điểm, điểm này được gọi là trọng tâm của tam giác.
+Trong mặt phẳng, mọi đường thẳng đi qua một đỉnh và trọng tâm của tam giác đều chia tam giác thành hai phần có diện tích bằng nhau
+
+Ngoài ra ba đường trung trực của ba cạnh cắt nhau tại một điểm, đó là tâm đường tròn ngoại tiếp của tam giác.
+Tâm đường tròn ngoại tiếp của tam giác thì cách đều 3 đỉnh tam giác.
+
+Ba đường phân giác của ba góc trong cắt nhau tại một điểm, điểm này là tâm đường tròn nội tiếp tam giác.
+Tâm đường tròn nội tiếp tam giác thì cách đều ba cạnh của tam giác
+
+
+== Quan hệ bằng nhau giữa các tam giác ==
+Hai tam giác được gọi là bằng nhau nếu chúng có thể đặt trùng khít lên nhau sau một số phép tịnh tiến, quay và đối xứng. Nói cách khác hai tam giác được gọi là bằng nhau nếu chúng có các cạnh tương ứng bằng nhau và các góc tương ứng bằng nhau. Hai tam giác bằng nhau khi và chỉ khi thỏa mãn một trong ba điều kiện sau:
+Hai tam giác có ba cặp cạnh tương ứng bằng nhau thì bằng nhau (cạnh-cạnh-cạnh).
+Hai tam giác có hai cặp cạnh tương ứng bằng nhau và cặp góc xen giữa các cạnh đó bằng nhau thì bằng nhau (cạnh-góc-cạnh).
+Hai tam giác có một cặp cạnh bằng nhau và hai cặp góc kề với cặp cạnh ấy bằng nhau thì bằng nhau (góc-cạnh-góc).
+Trong tam giác đều hai đường tròn nội tiếp và ngoại tiếp đồng tâm với nhau.
+
+
+== Quan hệ đồng dạng giữa các tam giác ==
+Hai tam giác được gọi là đồng dạng nếu một trong chúng bằng với một tam giác nhận được từ tam giác kia sau một phép vị tự. Các điều kiện cần và đủ để hai tam giác đồng dạng:
+Hai tam giác có các cặp cạnh tương ứng tỷ lệ thì đồng dạng.
+Hai tam giác có hai cặp góc tương ứng bằng nhau thì đồng dạng.
+Hai tam giác có hai cặp cạnh tương ứng tỷ lệ, góc xen giữa hai cặp cạnh ấy bằng nhau thì đồng dạng.
+Các tính chất khác:
+Tỉ số hai đường phân giác, hai đường cao, hai đường trung tuyến, hai bán kính nội tiếp và ngoại tiếp, hai chu vi tương ứng của hai tam giác đồng dạng bằng tỉ số đồng dạng.
+Tỉ số diện tích của hai tam giác đồng dạng thì bằng bình phương tỉ số đồng dạng.
+
+
+== Phân loại tam giác ==
+Trong hình học Euclid thuật ngữ "tam giác" thường được hiểu là tam giác nằm trong một mặt phẳng. Ngoài ra còn có tam giác cầu trong hình học cầu, tam giác hyperbol trong hình học hyperbol. Tam giác phẳng có một số dạng đặc biệt, xét theo tính chất các cạnh và các góc của nó:
+
+
+== Một số tính chất của tam giác (trong hình học Euclide) ==
+Tổng các góc trong của một tam giác bằng 
+  
+    
+      
+        
+          180
+          
+            o
+          
+        
+      
+    
+    {\displaystyle 180^{o}}
+  (hay 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   rad)
+Độ dài mỗi cạnh lớn hơn hiệu độ dài hai cạnh kia và nhỏ hơn tổng độ dài của chúng.
+Ba đường cao của tam giác cắt nhau tại một điểm được gọi là trực tâm của tam giác.
+Ba đường trung tuyến của tam giác cắt nhau tại một điểm được gọi là trọng tâm của tam giác. Đường trung tuyến của tam giác chia tam giác thành hai phần có diện tích bằng nhau.
+Ba đường trung trực của tam giác cắt nhau tại một điểm là tâm đường tròn ngoại tiếp của tam giác.
+Ba đường phân giác trong của tam giác cắt nhau tại một điểm là tâm đường tròn nội tiếp của tam giác.
+Trong hai cạnh của cùng một tam giác cạnh đối diện với góc lớn hơn có chiều dài lớn hơn. Góc đối diện với cạnh lớn hơn là góc lớn hơn.
+Định lý hàm số cosin: Trong một tam giác, bình phương độ dài một cạnh bằng tổng bình phương độ dài hai canh còn lại trừ đi hai lần tích của độ dài hai cạnh ấy với cosin của góc xen giữa hai cạnh đó.
+Định lý hàm số sin: Trong một tam giác tỷ lệ giữa độ dài của mỗi cạnh với sin của góc đối diện là như nhau cho cả ba cạnh.
+Trong hình học phi Euclide thì một tam giác có thể có tổng ba góc phụ thuộc vào kích thước của tam giác, khi kích thước tam giác gia tăng thì tổng đó tiến tới giá trị là 0 và có diện tích là vô hạn.
+
+
+== Các công thức tính diện tích tam giác ==
+Tính diện tích tam giác là một bài toán sơ cấp thường gặp trong hình học sơ cấp
+
+
+=== Sử dụng hình học ===
+
+
+=== Dùng vectơ ===
+
+
+=== Dùng lượng giác ===
+
+
+=== Dùng tọa độ ===
+Nếu đỉnh A đặt ở gốc tọa độ (0, 0) của hệ tọa độ Descartes và tọa độ của hai đỉnh kia là B = (xB, yB) và C = (xC, yC), thì diện tích S của tam giác ABC bằng một nửa của giá trị tuyệt đối của định thức
+
+  
+    
+      
+        S
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          |
+          det
+          
+            
+              (
+              
+                
+                  
+                    
+                      x
+                      
+                        B
+                      
+                    
+                  
+                  
+                    
+                      x
+                      
+                        C
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      y
+                      
+                        B
+                      
+                    
+                  
+                  
+                    
+                      y
+                      
+                        C
+                      
+                    
+                  
+                
+              
+              )
+            
+          
+          |
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          |
+        
+        
+          x
+          
+            B
+          
+        
+        
+          y
+          
+            C
+          
+        
+        −
+        
+          x
+          
+            C
+          
+        
+        
+          y
+          
+            B
+          
+        
+        
+          |
+        
+        .
+      
+    
+    {\displaystyle S={\frac {1}{2}}\left|\det {\begin{pmatrix}x_{B}&x_{C}\\y_{B}&y_{C}\end{pmatrix}}\right|={\frac {1}{2}}|x_{B}y_{C}-x_{C}y_{B}|.}
+  
+Trong trường hợp tổng quát, ta có:
+
+  
+    
+      
+        S
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          |
+          det
+          
+            
+              (
+              
+                
+                  
+                    
+                      x
+                      
+                        A
+                      
+                    
+                  
+                  
+                    
+                      x
+                      
+                        B
+                      
+                    
+                  
+                  
+                    
+                      x
+                      
+                        C
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      y
+                      
+                        A
+                      
+                    
+                  
+                  
+                    
+                      y
+                      
+                        B
+                      
+                    
+                  
+                  
+                    
+                      y
+                      
+                        C
+                      
+                    
+                  
+                
+                
+                  
+                    1
+                  
+                  
+                    1
+                  
+                  
+                    1
+                  
+                
+              
+              )
+            
+          
+          |
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          
+            |
+          
+        
+        
+          x
+          
+            A
+          
+        
+        
+          y
+          
+            C
+          
+        
+        −
+        
+          x
+          
+            A
+          
+        
+        
+          y
+          
+            B
+          
+        
+        +
+        
+          x
+          
+            B
+          
+        
+        
+          y
+          
+            A
+          
+        
+        −
+        
+          x
+          
+            B
+          
+        
+        
+          y
+          
+            C
+          
+        
+        +
+        
+          x
+          
+            C
+          
+        
+        
+          y
+          
+            B
+          
+        
+        −
+        
+          x
+          
+            C
+          
+        
+        
+          y
+          
+            A
+          
+        
+        
+          
+            |
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          
+            |
+          
+        
+        (
+        
+          x
+          
+            C
+          
+        
+        −
+        
+          x
+          
+            A
+          
+        
+        )
+        (
+        
+          y
+          
+            B
+          
+        
+        −
+        
+          y
+          
+            A
+          
+        
+        )
+        −
+        (
+        
+          x
+          
+            B
+          
+        
+        −
+        
+          x
+          
+            A
+          
+        
+        )
+        (
+        
+          y
+          
+            C
+          
+        
+        −
+        
+          y
+          
+            A
+          
+        
+        )
+        
+          
+            |
+          
+        
+        .
+      
+    
+    {\displaystyle S={\frac {1}{2}}\left|\det {\begin{pmatrix}x_{A}&x_{B}&x_{C}\\y_{A}&y_{B}&y_{C}\\1&1&1\end{pmatrix}}\right|={\frac {1}{2}}{\big |}x_{A}y_{C}-x_{A}y_{B}+x_{B}y_{A}-x_{B}y_{C}+x_{C}y_{B}-x_{C}y_{A}{\big |}={\frac {1}{2}}{\big |}(x_{C}-x_{A})(y_{B}-y_{A})-(x_{B}-x_{A})(y_{C}-y_{A}){\big |}.}
+  
+Trong không gian ba chiều, diện tích của tam giác cho bởi {A = (xA, yA, zA), B = (xB, yB, zB) và C = (xC, yC, zC)} là tổng 'Pythagor' của các diện tích các hình chiếu của chúng trên các mặt phẳng tọa độ (nghĩa là x=0, y=0 and z=0):
+
+  
+    
+      
+        S
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          
+            
+              
+                (
+                det
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            x
+                            
+                              A
+                            
+                          
+                        
+                        
+                          
+                            x
+                            
+                              B
+                            
+                          
+                        
+                        
+                          
+                            x
+                            
+                              C
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            y
+                            
+                              A
+                            
+                          
+                        
+                        
+                          
+                            y
+                            
+                              B
+                            
+                          
+                        
+                        
+                          
+                            y
+                            
+                              C
+                            
+                          
+                        
+                      
+                      
+                        
+                          1
+                        
+                        
+                          1
+                        
+                        
+                          1
+                        
+                      
+                    
+                    )
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            +
+            
+              
+                (
+                det
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            y
+                            
+                              A
+                            
+                          
+                        
+                        
+                          
+                            y
+                            
+                              B
+                            
+                          
+                        
+                        
+                          
+                            y
+                            
+                              C
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            z
+                            
+                              A
+                            
+                          
+                        
+                        
+                          
+                            z
+                            
+                              B
+                            
+                          
+                        
+                        
+                          
+                            z
+                            
+                              C
+                            
+                          
+                        
+                      
+                      
+                        
+                          1
+                        
+                        
+                          1
+                        
+                        
+                          1
+                        
+                      
+                    
+                    )
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            +
+            
+              
+                (
+                det
+                
+                  
+                    (
+                    
+                      
+                        
+                          
+                            z
+                            
+                              A
+                            
+                          
+                        
+                        
+                          
+                            z
+                            
+                              B
+                            
+                          
+                        
+                        
+                          
+                            z
+                            
+                              C
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                            x
+                            
+                              A
+                            
+                          
+                        
+                        
+                          
+                            x
+                            
+                              B
+                            
+                          
+                        
+                        
+                          
+                            x
+                            
+                              C
+                            
+                          
+                        
+                      
+                      
+                        
+                          1
+                        
+                        
+                          1
+                        
+                        
+                          1
+                        
+                      
+                    
+                    )
+                  
+                
+                )
+              
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle S={\frac {1}{2}}{\sqrt {\left(\det {\begin{pmatrix}x_{A}&x_{B}&x_{C}\\y_{A}&y_{B}&y_{C}\\1&1&1\end{pmatrix}}\right)^{2}+\left(\det {\begin{pmatrix}y_{A}&y_{B}&y_{C}\\z_{A}&z_{B}&z_{C}\\1&1&1\end{pmatrix}}\right)^{2}+\left(\det {\begin{pmatrix}z_{A}&z_{B}&z_{C}\\x_{A}&x_{B}&x_{C}\\1&1&1\end{pmatrix}}\right)^{2}}}.}
+  
+
+
+=== Dùng công thức Heron ===
+Cũng có thể tính diện tích tam giác S theo Công thức Heron:
+
+  
+    
+      
+        S
+        =
+        
+          
+            p
+            (
+            p
+            −
+            a
+            )
+            (
+            p
+            −
+            b
+            )
+            (
+            p
+            −
+            c
+            )
+          
+        
+      
+    
+    {\displaystyle S={\sqrt {p(p-a)(p-b)(p-c)}}}
+  
+trong đó 
+  
+    
+      
+        p
+        =
+        
+          
+            1
+            2
+          
+        
+        (
+        a
+        +
+        b
+        +
+        c
+        )
+      
+    
+    {\displaystyle p={\frac {1}{2}}(a+b+c)}
+   là nửa chu vi của tam giác.
+
+
+== Những nguyên tắc cơ bản ==
+Euclid (phát âm là Ơ-clit) đã trình bày các nguyên tắc cơ bản về tam giác trong tập 1-4 tác phẩm Cơ sở (Elements) của ông, viết khoảng năm 300 TCN.
+Tam giác là đa giác và đơn hình bậc 2 (xem đa diện).
+Hai tam giác là đồng dạng nếu có thể khai triển (co hay giãn) tam giác này theo cùng một tỷ lệ để có tam giác kia. Trường hợp này, độ dài của những bên đồng vị có tỷ lệ bằng nhau. Tức là nếu cạnh dài nhất trong một tam giác gấp đôi cạnh dài nhất của tam giác đồng dạng, thì cạnh ngắn nhất của nó cũng gấp đôi cạnh ngắn nhất của tam giác kia, và đường trung tuyến của tam giác đó cũng sẽ phải gấp đôi đường tương ứng của tam giác kia. Hơn nữa, tỷ lệ cạnh dài trên cạnh ngắn của một tam giác sẽ phải bằng tỷ lệ cạnh dài trên cạnh ngắn của tam giác kia. Điều quan trọng là những góc đồng vị phải bằng nhau để hai tam giác được đồng dạng nhau. Việc này cũng xảy ra nếu một tam giác có một cạnh chung với tam giác kia, và những cạnh đối với nó thì bằng nhau.
+Hàm lượng giác sin và cosin có thể hiểu được khi dùng tam giác vuông và khái niệm đồng dạng. Đó là hai hàm của góc được nghiên cứu bởi lượng giác học.
+
+
+== Một số định lý ==
+Một số định lý cổ điển liên quan đến tam giác là: định lý Pytago, định lý Apollonius, định lý Stewart.
+
+
+== Các công thức liên quan ==
+
+
+== Xem thêm ==
+Tam giác Heron
+Đường cao (tam giác)
+Bất đẳng thức của Pedoe
+Bất đẳng thức tam giác
+Tam giác cầu
+Tam giác Bermuda
+
+
+== Chú thích ==
+
+
+== Tham khảo ==

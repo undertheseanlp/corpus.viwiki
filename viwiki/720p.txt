@@ -1,0 +1,13 @@
+720p (gọi tắt là HD) là một dạng tín hiệu HDTV phát triển với 720 chiều ngang và tỉ lệ khung hình (AR) là 16:9 (1.78:1). Tất cả các chuẩn HDTV (như SMPTE 292M) bao gồm định dạng 720p có độ phân giải 1.280x720; tuy nhiên, vẫn có các định dạng khác, bao gồm HDV Playback và AVCHD cho máy quay, nó sử dụng hình ảnh 720p với độ phân giải tiêu chuẩn HDTV.
+Con số 720 đại diện cho 720 đường quét ngang của độ phân giải màn hình hiển thị hình ảnh (còn được gọi là 720 pixel độ phân giải theo chiều dọc), trong khi chữ p đại diện cho quét liên tục. Khi phát tại 60 khung trên giây, 720p có độ phân giải đạt được trong thời gian cao nhất (chuyển động) dưới chuẩn ATSC và DVB. Thuật ngữ này giả định một độ phân giải màn hình 16:9, do đó tương ứng với độ phân giải 1.280 px × 720 px (0.9 megapixels).
+720i (720 dòng đan xen) là một thuật ngữ sai và tìm thấy trong nhiều nguồn tài liệu và ấn phẩm. Thông thường, nó là một lỗi đánh máy trong khi tác giả đề cập đến định dạng 720p HDTV. Tuy nhiên, trong một vài trường hợp nó không chính xác để trình bày như một định dạng thay thế cho 720p. Trong thực tế, không có đề xuất hoặc có chuẩn phát nào cho phép 720 dòng đan xen trong một khung video tại bất kỳ tỉ lệ khung hình.
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ==
+EBU Technical paper on HDTV formats

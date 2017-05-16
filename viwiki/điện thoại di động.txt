@@ -1,0 +1,63 @@
+Điện thoại di động (ĐTDĐ), còn gọi là điện thoại cầm tay, là loại điện thoại kết nối dựa trên sóng điện từ vào mạng viễn thông. Nhờ có kết nối sóng, còn gọi là "kết nối không dây", mà ĐTDĐ thực hiện trao đổi thông tin khi đang di chuyển.
+Phạm vi di chuyển mà vẫn giữ trao đổi thông suốt phụ thuộc vào vùng phủ sóng của nhà cung cấp dịch vụ, gọi gọn là nhà mạng. Nhà cung cấp dịch vụ lắp đặt mạng lưới các trạm thu phát, mỗi trạm đảm bảo kết nối trong phạm vi 8 đến 13 km. Chất lượng sóng phụ thuộc vào thiết bị mạng và phần nào địa hình nơi sử dụng máy chứ ít khi bị giới hạn về không gian.
+Vào thời kỳ phát triển đầu tiên, hồi thế kỷ 20, ĐTDĐ được chế tạo chủ yếu phục vụ liên lạc lời nói. Ngày nay ĐTDĐ vẫn được chế tạo với kích cỡ bỏ túi, có thêm phần nghe nhạc, chụp ảnh,...
+Khi thiết bị kỹ thuật số hỗ trợ cá nhân (tức PDA) phát triển, thì điện thoại di động được tích hợp vào PDA, "kết nối không dây" đảm nhận chức năng trao đổi dữ liệu số với mạng internet bên cạnh liên lạc lời nói theo truyền thống.
+Ngày nay PDA là một thiết bị không thể thiếu trong cuộc sống, phục vụ điện thoại và nhắn tin, duyệt web, nghe nhạc, chụp ảnh, quay phim, xem truyền hình...
+
+
+== Lịch sử ==
+Ngày 10 tháng 3 năm 1876 được coi là mốc son đánh dấu sự ra đời của điện thoại. Cha đẻ của chiếc điện thoại đầu tiên là Alexander Graham Bell. Chiếc máy thô sơ có thể truyền được giọng nói này đã mở ra một kỷ nguyên phát triển mới trong lịch sử thông tin liên lạc, thay thế cho điện tín.
+Năm 1967, chiếc điện thoại được coi là "di động" đầu tiên trình làng với tên gọi Carry Phone, rất cồng kềnh cho việc di chuyển vì nó nặng đến 4,5 kg.
+Điện thoại di động chính thức ra đời vào ngày 3 tháng 4 năm 1973, mang tên Motorola Dyna Tac, phát minh bởi nhà sáng chế John F. Mitchell và Martin Cooper . Motorola Dyna Tac mang hình dáng gần giống điện thoại di động ngày nay mặc dù vẫn còn khá cồng kềnh (nặng khoảng 1 kg) và không phổ biến.
+Từ đó đến nay, chiếc điện thoại di động phát triển không ngừng phát triển theo hướng nhỏ gọn hơn rất nhiều tổ tiên của nó và ngày càng được tích hợp nhiều chức năng hơn chứ không còn đơn thuần là nghe và gọi.
+
+
+== Sử dụng ==
+Thông thường 1 chiếc điện thoại di động hoạt động kèm với 1 thẻ sim. Thẻ sim là nơi lưu trữ số điện thoại và được cung cấp bởi nhà mạng.
+Pin và sạc là 2 thiết bị không thể thiếu trong điện thoại di động, Pin là 1 thiết bị dự trữ và cung cấp năng lượng giúp cho chiếc điện thoại có thể hoạt động được trong một thời gian nhất định. Thường thì 1 viên pin có thể cho phép người sử dụng dùng từ 1-7 ngày...(tùy từng loại pin, loại máy khác nhau). Sạc là một thiết bị chuyển điện năng từ mạng điện (hay ăcquy) thành điện năng mà điện thoại có thể sử dụng được và đưa vào dự trữ trong pin. Pin và sạc có thể khác nhau tùy loại điện thoại.
+
+
+== Đặc tính ==
+
+
+== Luật pháp ==
+
+
+== Tác động đến sức khỏe ==
+Xem thêm thông tin: Vi ba#Tác động của vi sóng đến sức khỏe
+Tác động của điện thoại di động đến sức khỏe con người là vấn đề tranh cãi từ lâu . Các nhà sản xuất và cung cấp dịch vụ cố gắng tuyên truyền rằng nó vô hại. Tuy nhiên điện thoại di động là một nguồn phát sóng điện từ, mà ảnh hưởng sinh học do sóng của lò vi ba, của radar và đài phát radio là có thực và được khoa học kiểm chứng.
+Tháng 2/2016 các nhà khoa học Israel công bố nghiên cứu xác định sóng điện thoại di động có ảnh hưởng tiêu cực đến sức khỏe sinh sản của nam giới, làm hư hại đến tinh trùng . Tuy nhiên cách đưa tin làm người đọc hiểu là "do sức nóng của điện thoại di động". Sự thật là điện thoại di động gửi mã liên lạc và lời thoại (đã số hóa) lên mạng bằng dãy xung vi ba ngắn liên tiếp nhau và cường độ tức thời khá mạnh, cỡ vài Watt, đủ làm biến tính protein của tinh trùng và của lò sản xuất chúng. Trong quá trình đó thì điện thoại nóng lên không đáng kể.
+Nó vô hại nếu bật nhưng không thực hiện liên lạc, tức không phát sóng để trao đổi với trạm chuyển tiếp.
+Vì thế trong sử dụng thì không để điện thoại di động ở túi quần, hay túi ngực nếu bạn có những vấn đề về tim mạch. Cũng không nên để trẻ em dùng điện thoại di động quá sớm, duới 15 tuổi, kẻo ảnh hưởng đến phát triển của não.
+
+
+== Tác động đến môi trường ==
+Những nguyên liệu cấu thành lên điện thoại di động có thể ảnh hưởng xấu đến môi trường, như: vỏ nhựa, pin... Các nhà sản xuất điện thoại thường khuyên mọi người nên tái chế những chiếc điện thoại bỏ đi.
+
+
+== Công nghệ ==
+Mạng điện thoại di động của mỗi nhà cung cấp dịch vụ và mỗi quốc gia có sự khác nhau. Tuy nhiên, đều có điểm chung là tất cả điện thoại di động đều kết nối bằng sóng vô tuyến đến một trạm gốc nơi có gắn ăngten trên một trụ cao hoặc tòa nhà.
+Điện thoại di động có bộ phát công suất thấp truyền thoại và dữ liệu đến trạm gốc gần nhất, thường không quá 8 đến 13 km. Khi bật máy điện thoại, việc đăng ký với tổng đài sẽ được thực hiện. Khi có cuộc gọi đến, tổng đài sẽ báo cho điện thoại di động. Khi người dùng di chuyển, điện thoại sẽ thực hiện chuyển giao đến các cell khác nhau.
+
+
+== Thuật ngữ ==
+
+
+== Một vài hình ảnh về điện thoại di động ==
+
+
+== Xem thêm ==
+Điện thoại
+Điện thoại tính năng
+Danh sách điện thoại di động thông minh có màn hình hiển thị độ nét cao
+Thiết bị kỹ thuật số
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+ Phương tiện liên quan tới Mobile phones tại Wikimedia Commons
+Bản mẫu:HowStuffWorks
+"The Long Odyssey of the Cell Phone", 15 photos with captions from Time magazine
+Cell Phone, the ring heard around the world—a video documentary by the Canadian Broadcasting Corporation

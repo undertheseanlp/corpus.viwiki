@@ -1,0 +1,159 @@
+Trong kinh tế học, tổng sản phẩm nội địa, tức tổng sản phẩm quốc nội hay GDP (viết tắt của Gross Domestic Product) là giá trị thị trường của tất cả hàng hóa và dịch vụ cuối cùng được sản xuất ra trong phạm vi một lãnh thổ nhất định (thường là quốc gia) trong một thời kỳ nhất định (thường là một năm).
+Gần đây, trong các tài liệu thống kê mang tính nghiêm ngặt, thuật ngữ tiếng Anh national gross domestic product- NGDP hay được dùng để chỉ tổng sản phẩm quốc nội, regional (hoặc provincial) gross domestic product- RGDP hay dùng để chỉ tổng sản phẩm nội địa của địa phương. GDP là một trong những chỉ số cơ bản để đánh giá sự phát triển kinh tế của một vùng lãnh thổ nào đó.
+Đối với các đơn vị hành chính khác của Việt Nam, thông thường ít khi dịch trực tiếp mà thường sử dụng từ viết tắt GDP hoặc tổng sản phẩm trong tỉnh, huyện, v.v
+
+
+== Phương pháp tính GDP ==
+
+
+=== Phương pháp chi tiêu ===
+Theo phương pháp chi tiêu, tổng sản phẩm quốc nội của một quốc gia là tổng số tiền mà các hộ gia đình trong quốc gia đó chi mua các hàng hóa cuối cùng. Như vậy trong một nền kinh tế giản đơn ta có thể dễ dàng tính tổng sản phẩm quốc nội như là tổng chi tiêu hàng hóa và dịch vụ cuối cùng hàng năm.
+GDP (Y) là tổng của tiêu dùng (C), đầu tư (I), chi tiêu chính phủ (G) và cán cân thương mại (xuất khẩu ròng, X - M).
+Y = C + I + G + (X - M)
+Chú giải:
+
+TIÊU DÙNG - consumption (C) bao gồm những khoản chi cho tiêu dùng cá nhân của các hộ gia đình về hàng hóa và dịch vụ. (xây nhà và mua nhà không được tính vào TIÊU DÙNG mà được tính vào ĐẦU TƯ TƯ NHÂN).
+ĐẦU TƯ - investment (I) là tổng đầu tư ở trong nước của tư nhân. Nó bao gồm các khoản chi tiêu của doanh nghiệp về trang thiết bị và nhà xưởng hay sự xây dựng, mua nhà mới của hộ gia đình. (lưu ý hàng hóa tồn kho khi được đưa vào kho mà chưa đem đi bán thì vẫn được tính vào GDP)
+CHI TIÊU CHÍNH PHỦ - government purchases (G) bao gồm các khoản chi tiêu của chính phủ cho các cấp chính quyền từ TW đến địa phương như chi cho quốc phòng, luật pháp, đường sá, cầu cống, giáo dục, y tế,... Chi tiêu chính phủ không bao gồm các khoản CHUYỂN GIAO THU NHẬP như các khoản trợ cấp cho người tàn tật, người nghèo,...
+XUẤT KHẨU RÒNG - net exports (NX)= Giá trị xuất khẩu (X)- Giá trị nhập khẩu(M)
+
+
+=== Phương pháp thu nhập hay phương pháp chi phí ===
+Theo phương pháp thu nhập hay phương pháp chi phí, tổng sản phẩm quốc nội bằng tổng thu nhập từ các yếu tố tiền lương (wage), tiền lãi (interest), lợi nhuận (profit) và tiền thuê (rent); đó cũng chính là tổng chi phí sản xuất các sản phẩm cuối cùng của xã hội.
+GDP=W+R+i+Pr+Ti+De
+Trong đó
+
+W là tiền lương
+R là tiền cho thuê tài sản
+i là tiền lãi
+Pr là lợi nhuận
+Ti là thuế gián thu ròng
+De là phần hao mòn (khấu hao) tài sản cố định
+
+
+=== Phương pháp giá trị gia tăng ===
+Giá trị gia tăng của doanh nghiệp ký hiệu là (VA), giá trị tăng thêm của một ngành (GO), giá trị tăng thêm của nền kinh tế là GDP
+VA = Giá trị thị trường sản phẩm đầu ra của doanh nghiệp - Giá trị đầu vào được chuyển hết vào giá trị sản phẩm trong quá trình sản xuất
+Giá trị gia tăng của một ngành (GO)
+
+GO =∑ VAi (i=1,2,3,..,n)
+
+Trong đó:
+
+VAi là giá trị tăng thêm của doanh nghiệp i trong ngành
+n là số lượng doanh nghiệp trong ngành
+
+Giá trị gia tăng của nền kinh tế GDP
+
+GDP =∑ GOj (j=1,2,3,..,m)
+
+Trong đó:
+
+GOj là giá trị gia tăng của ngành j
+m là số ngành trong nền kinh tế
+
+Lưu ý là kết quả tính GDP sẽ là như nhau với cả 3 cách trên. Ở Việt Nam GDP được tính toán bởi Tổng cục thống kê dựa trên cơ sở các báo cáo từ các đơn vị, tổ chức kinh tế cũng như báo cáo của các Cục thống kê tỉnh, thành phố trực thuộc trung ương. Còn ở Mỹ GDP được tính toán bởi Cục phân tích kinh tế (vt: BEA).
+
+
+== GDP danh nghĩa và GDP thực tế ==
+GDP danh nghĩa là tổng sản phẩm nội địa theo giá trị sản lượng hàng hoá và dịch vụ cuối cùng tính theo giá hiện hành. Sản phẩm sản xuất ra trong thời kỳ nào thì lấy giá của thời kỳ đó. Do vậy còn gọi là GDP theo giá hiện hành
+GDPin=∑QitPit
+Sự gia tăng của GDP danh nghĩa hàng năm có thể do lạm phát.
+Trong đó:
+i: loại sản phẩm thứ i với i =1,2,3...,n
+t: thời kỳ tính toán
+Q (quantum): số lượng sản phẩm; Qi: số lượng sản phẩm loại i
+P (price): giá của từng mặt hàng; Pi: giá của mặt hàng thứ i.
+GDP thực tế là tổng sản phẩm nội địa tính theo sản lượng hàng hoá và dịch vụ cuối cùng của năm nghiên cứu còn giá cả tính theo năm gốc do đó còn gọi là GDP theo giá so sánh.
+GDP thực tế được đưa ra nhằm điều chỉnh lại của những sai lệch như sự mất giá của đồng tiền trong việc tính toán GDP danh nghĩa để có thể ước lượng chuẩn hơn số lượng thực sự của hàng hóa và dịch vụ tạo thành GDP. GDP thứ nhất đôi khi được gọi là "GDP tiền tệ" trong khi GDP thứ hai được gọi là GDP "giá cố định" hay GDP "điều chỉnh lạm phát" hoặc "GDP theo giá năm gốc" (Năm gốc được chọn theo luật định).
+Xem thực tế và danh nghĩa trong kinh tế học.
+
+
+== GDP bình quân đầu người ==
+GDP bình quân đầu người của một quốc gia hay lãnh thổ tại một thời điểm nhất định là giá trị nhận được khi lấy GDP của quốc gia hay lãnh thổ này tại thời điểm đó chia cho dân số của nó cũng tại thời điểm đó.
+
+
+== Các thành phần của GDP ==
+GDP có thể tính là tổng của các khoản tiêu dùng, hoặc tổng của các khoản chi tiêu, hoặc tổng giá trị gia tăng của nền kinh tế. Về lý thuyết, dù theo cách tính nào cũng cho kết quả tính GDP như nhau. Nhưng trong nhiều báo cáo thống kê, lại có sự chênh lệch nhỏ giữa kết quả theo ba cách tính. Đó là vì có sai số trong thống kê.
+Theo cách tính GDP là tổng tiêu dùng, các nhà kinh tế học đưa ra một công thức như sau:
+GDP = C + I + G + NX
+Trong đó các ký hiệu:
+C là tiêu dùng của tất cả các cá nhân (hộ gia đình) trong nền kinh tế.
+I là đầu tư của các nhà kinh doanh vào cơ sở kinh doanh. Đây được coi là tiêu dùng của các nhà đầu tư. Lưu ý, đừng lẫn lộn điều này với đầu tư mang tính đầu cơ tích trữ vào thị trường chứng khoán và trái phiếu.
+G là tổng chi tiêu của chính quyền (tiêu dùng của chính quyền). Quan hệ của phần này đối với các phần còn lại của GDP được mô tả trong lý thuyết khả dụng (có thể đem đi tiêu).
+NX là "xuất khẩu ròng" của nền kinh tế. Nó bằng xuất khẩu (tiêu dùng của nền kinh tế khác đối với các sản phẩm và dịch vụ do nền kinh tế trong tính toán sản xuất) - nhập khẩu (tiêu dùng của nền kinh tế trong tính toán đối với các sản phẩm và dịch vụ do nền kinh tế khác sản xuất).
+Ba thành phần đầu đôi khi được gọi chung là "nội nhu", còn thành phần cuối cùng là "ngoại nhu".
+GDP theo cách tính tổng chi phí (lúc này không gọi là GDP nữa, mà gọi là tổng chi tiêu nội địa hay GDE (viết tắt của Gross Domestic Expenditure) được tính toán tương tự, mặc dù trong công thức tính tổng chi phí không kê khai những khoản đầu tư ngoài kế hoạch (bỏ hàng tồn kho vào cuối chu kỳ báo cáo) và nó phần lớn được sử dụng bởi các nhà kinh tế lý thuyết.
+
+
+== Phân biệt GDP với GNP ==
+GDP khác với tổng sản phẩm quốc dân (GNP) ở chỗ loại bỏ việc chuyển đổi thu nhập giữa các quốc gia, nó được quy theo lãnh thổ mà sản phẩm được sản xuất ở đó hơn là thu nhập nhận được ở đó.
+Để dễ hiểu hơn, ta có thể lấy ví dụ như sau: Một nhà máy sản xuất đồ ăn nhanh đặt tại Việt Nam do công dân Mỹ đầu tư để tiêu thụ nội địa. Khi đó mọi thu nhập từ nhà máy này sau khi bán hàng được tính vào GDP của Việt Nam, tuy nhiên lợi nhuận ròng thu được (sau khi khấu trừ thuế phải nộp và trích nộp các quỹ phúc lợi) cũng như lương của các công nhân Mỹ đang làm việc trong nhà máy được tính là một bộ phận trong GNP của Mỹ.
+
+
+== So sánh xuyên quốc gia ==
+GDP của các quốc gia khác nhau có thể so sánh bằng cách chuyển đổi giá trị của chúng (tính theo nội tệ) sang bằng một trong hai phương thức sau:
+Tỷ giá hối đoái hiện tại: GDP được tính theo tỷ giá hối đoái thịnh hành trên các thị trường tiền tệ quốc tế.
+Ngang giá sức mua hối đoái: GDP được tính theo sự ngang giá của sức mua (tiếng Anh: purchasing power parity hay viết tắt: PPP) của mỗi loại tiền tệ tương đối theo một chuẩn chọn lựa (thông thường là đồng đôla Mỹ).
+Thứ bậc tương đối của các quốc gia có thể lệch nhau nhiều giữa hai xu hướng tiếp cận kể trên.
+Phương pháp tính theo sự ngang giá của sức mua tính toán hiệu quả tương đối của sức mua nội địa đối với những nhà sản xuất hay tiêu thụ trung bình trong nền kinh tế. Nó có thể sử dụng để làm chỉ số của mức sống đối với những nước chậm phát triển là tốt nhất vì nó bù lại những điểm yếu của đồng nội tệ trên thị trường thế giới.
+Phương pháp tính theo tỷ giá hối đoái hiện tại chuyển đổi giá trị của hàng hóa và dịch vụ theo các tỷ giá hối đoái quốc tế. Nó là chỉ thị tốt hơn của sức mua quốc tế của đất nước và sức mạnh kinh tế tương đối.
+Cụ thể hơn, đề nghị xem Các chỉ số kinh tế.
+
+
+== Các vấn đề ==
+Mặc dù GDP được sử dụng rộng rãi trong kinh tế, giá trị của nó như là một chỉ số vẫn đang là vấn đề gây tranh cãi. Sự phê phán sử dụng GDP bao hàm các điểm sau:
+Kết quả tính GDP theo các phương thức khác nhau làm người ta bối rối, nhất là khi so sánh xuyên quốc gia.
+GDP, như một chỉ số về kích cỡ của nền kinh tế, nhưng lại không chuẩn xác trong đánh giá mức sống.
+GDP không tính đến kinh tế ngầm, kinh tế phi tiền tệ như kinh tế trao đổi, các công việc tình nguyện, chăm sóc trẻ em miễn phí do các ông bố bà mẹ (không làm việc) đảm nhiệm hay sản xuất hàng hóa tại gia đình, giá trị của thời gian nghỉ ngơi và ô nhiễm môi trường. Vì vậy, tại các nước mà việc kinh doanh thực thi một cách không chính thức chiếm phần lớn thì số liệu của GDP sẽ kém chính xác.
+GDP không tính đến tính hài hòa của sự phát triển. Ví dụ một nước có thể có tốc độ tăng trưởng GDP cao do khai thác quá mức tài nguyên thiên nhiên.
+GDP tính cả những công việc không đem lại lợi ích ròng và không tính đến những hiệu ứng tiêu cực. Ví dụ, một xí nghiệp làm tăng GDP nhưng gây ô nhiễm một con sông và người ta phải đầu tư để cải tạo lại môi trường. Việc này cũng làm tăng GDP. Xem thêm Truyện ngụ ngôn về cửa sổ gãy.
+GDP cũng không cho ta sự phản ánh trung thực của sự phân chia lợi ích trong phạm vi đất nước. Có thể có những nhóm người không thu được lợi ích gì từ lợi ích kinh tế chung. GDP cao có thể là kết quả của một số người giàu có đem lại cho nền kinh tế trong khi phần lớn dân chúng sống dưới mức nghèo khổ.
+Mặc dù còn nhiều hạn chế nhưng việc tìm một chỉ số khác thay thế GDP cũng rất khó khăn. Một sự thay thế được biết đến là Chỉ số tiến bộ thực sự (GPI) được cổ động bởi Đảng Xanh của Canada. GPI đánh giá chính xác như thế nào thì chưa chắc chắn; một công thức được đưa ra để tính nó là của Redefining Progress, một nhóm nghiên cứu chính sách ở San Francisco.
+
+
+== Danh sách quốc gia theo GDP ==
+Danh sách quốc gia theo GDP danh nghĩa năm 2008
+Danh sách các quốc gia theo GDP danh nghĩa 2009
+Danh sách các quốc gia theo GDP danh nghĩa 2010
+Danh sách các quốc gia theo GDP danh nghĩa 2011
+Danh sách các quốc gia theo GDP danh nghĩa 2012
+Danh sách quốc gia theo GDP (PPP) năm 2008
+Danh sách quốc gia châu Phi theo GDP
+Danh sách quốc gia châu Á theo GDP
+Danh sách quốc gia châu Âu theo GDP
+Danh sách các thành phố theo GDP
+
+
+== Xem thêm ==
+Chỉ số giảm phát GDP
+Tổng giá trị gia tăng
+Tổng sản lượng quốc gia
+Các chỉ số kinh tế
+GDP tự nhiên
+Sự phát triển phi kinh tế
+Giá trị gia tăng
+Chỉ số năng lực cạnh tranh cấp tỉnh
+Lỗ hổng sản lượng
+
+
+=== Tính toán ===
+Phân loại sản phẩm theo hoạt động (CPA)
+Tính toán gián tiếp các dịch vụ tài chính trung gian (FISIM)
+
+
+== Liên kết ngoài ==
+Rank Order - GDP - per capita
+
+
+== Dữ liệu ==
+Danh sách đầy đủ các quốc gia theo GDP: Purchasing Power Parity Method và Current Exchange Rate Method
+
+
+=== Các ấn phẩm liên quan ===
+Limitations of GDP Statistics by Schenk, Robert.
+whether output and CPI inflation are mismeasured, by Nouriel Roubini and David Backus, in Lectures in Macroeconomics
+Ch. 22. Measuring the National Economy, by Dr. Roger A. McCain
+
+
+== Tham khảo ==

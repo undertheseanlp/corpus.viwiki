@@ -1,0 +1,34 @@
+Bluetooth là một đặc tả công nghiệp cho truyền thông không dây tầm gần giữa các thiết bị điện tử. Công nghệ này hỗ trợ việc truyền dữ liệu qua các khoảng cách ngắn giữa các thiết bị di động và cố định, tạo nên các mạng cá nhân không dây (Wireless Personal Area Network-PANs).
+Bluetooth có thể đạt được tốc độ truyền dữ liệu 1Mb/s. Bluetooth hỗ trợ tốc độ truyền tải dữ liệu lên tới 720 Kbps trong phạm vi 10 m–100 m. Khác với kết nối hồng ngoại (IrDA), kết nối Bluetooth là vô hướng và sử dụng giải tần 2,4 GHz.
+Thuật ngữ "Bluetooth" (có nghĩa là "răng xanh") được đặt theo tên của một vị vua Đan Mạch, vua Harald Bluetooth, người Viking nổi tiếng về khả năng giúp mọi người có thể giao tiếp, thương lượng với nhau. Vào thế kỷ thứ 10, chính vị vua này đã mang đạo Tin Lành vào Đan Mạch trong khi Ericsson là công ty đầu tiên phát triển đặc tả cho công nghệ hiện đang ngày càng thông dụng trong cuộc sống hiện đại.
+
+
+== Lịch sử phát triển ==
+Đặc tả Bluetooth được phát triển đầu tiên bởi Ericsson (hiện nay là Sony Ericsson và Ericsson Mobile Platforms), và sau đó được chuẩn hoá bởi Bluetooth Special Interest Group (SIG). Chuẩn được phát hành vào ngày 20 tháng 5 năm 1999. Ngày nay được công nhận bởi hơn 1800 công ty trên toàn thế giới. Được thành lập đầu tiên bởi Sony Ericsson, IBM, Intel, Toshiba và Nokia, sau đó cùng có sự tham gia của nhiều công ty khác với tư cách cộng tác hay hỗ trợ. Bluetooth có chuẩn là IEEE 802.15.1.
+
+
+== Ứng dụng ==
+
+Bluetooth cho phép kết nối và trao đổi thông tin giữa các thiết bị như điện thoại di động, điện thoại cố định, máy tính xách tay, PC, máy in, thiết bị định vị dùng GPS, máy ảnh số, và video game console.
+Các ứng dụng nổi bật của Bluetooth gồm:
+Điều khiển và giao tiếp không dây giữa một điện thoại di động và tai nghe không dây.
+Mạng không dây giữa các máy tính cá nhân trong một không gian hẹp đòi hỏi ít băng thông.
+Giao tiếp không dây với các thiết bị vào ra của máy tính, chẳng hạn như chuột, bàn phím và máy in.
+Truyền dữ liệu giữa các thiết bị dùng giao thức OBEX.
+Thay thế các giao tiếp nối tiếp dùng dây truyền thống giữa các thiết bị đo, thiết bị định vị dùng GPS, thiết bị y tế, máy quét mã vạch, và các thiết bị điều khiển giao thông.
+Thay thế các điều khiển dùng tia hồng ngoại.
+Gửi các mẩu quảng cáo nhỏ từ các pa-nô quảng cáo tới các thiết bị dùng Bluetooth khác.
+Điều khiển từ xa cho các thiết bị trò chơi điện tử như Wii - Máy chơi trò chơi điện tử thế hệ 7 của Nintendo và PlayStation 3 của Sony.
+Kết nối Internet cho PC hoặc PDA bằng cách dùng điện thoại di động thay modem.
+
+
+== Xem thêm ==
+Virus (máy tính)
+Điện thoại di động
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Trang web chính thức về kết nối Bluetooth

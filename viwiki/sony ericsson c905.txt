@@ -1,0 +1,71 @@
+Sony Ericsson C905 là chiếc điện thoại cao cấp thuộc dòng 'C' (Cyber-shot) của Sony, với dòng cấp thấp 'S' (Snapshot), và trước đó là dòng 'K'. Đây là mô hình hàng đầu của Sony Ericsson trong năm 2008 và được lên kệ ngày 22 tháng 11 năm 2008. Đây là chiếc điện thoại 8-megapixel đầu tiên được ra mắt ngoài Hàn Quốc trong khi đang thêm các tính năng Assisted GPS (A-GPS) và WiFi.Đây là chiếc điện thoại đầu tiên hỗ trợ mạng DLNA và là chiếc điện thoại Cybershot đầu tiên được phân phối bởi AT&T.
+
+
+== Tính năng ==
+
+
+=== Màn hình ===
+
+
+=== Camera ===
+8.1 megapixel CMOS (3264x2448)
+Ống kính tự động lấy nét
+Xenon flash, 3-LED videolight, focus assist lamp, gương
+Image Stabilized
+Nhận diện khuôn mặt và nụ cười(lên đến 3 khuôn mặt)
+Smile Shutter™
+Autorotate
+BestPic
+zoom số 16x
+Quay Video: QVGA (320x240) @30fps
+Dedicated camera still/record/review key
+Chức năng Dual D-Pad
+Ống kính cơ (Mechanical lens cover)
+PhotoAlbum
+PictBridge
+
+
+=== Kết nối ===
+Blog
+GPS và A-GPS, hỗ trợ geotagging
+WLAN 802.11b/g, công nghệ DLNA
+NetFront 4.5 web browser với Autorotate
+Microsoft Exchange ActiveSync
+Apple iSync được hỗ trợ bởi kết nối miễn phí từ Sony Ericsson
+Bluetooth
+
+
+=== Audio ===
+Media player 3.0 với MegaBass (phiên bản rút gọn của Walkman 3.0)
+WMA/MP3/AAC ringtones
+FM Radio với RDS
+Ứng dụng Shazam TrackID để tìm âm nhạc
+PlayNow 5.0
+
+
+=== Thiết kế ===
+4 màu: 'Copper Gold', 'Ice Silver', 'Night Black' and 'Tender Rose'...
+Bộ nhớ trong *160MB, kèm theo thẻ 2GB M2, có thể mở rộng đến8GB  Sandisk đã thử nghiệm và cho biết bộ nhớ ngoài tối đa C905 có thể đạt được là 16GB.
+
+
+=== Khác ===
+Chiếc điện thoại có chip GPS đặc biệt chống chất lỏng, mưa, đổ nước,...
+Nó còn có Cảm ứng chuyển động (accelerometer), được sử dụng cho sự ổn định của phim cũng như hình ảnh. Công nghệ này có thể được kiểm định bằng việc vào màn hình dịch vụ và nhập:
+trái * phải phải * trái *
+
+
+== Lỗi khởi động và dữ liệu hỏng ==
+Với một vài người sử dụng, C905 có thể bất ngờ thất bại khi khởi động, và chỉ hiện ra màn hình đen với đèn nền nhấp nháy liên tục [1][2][3].
+Tình trạng này xảy ra khi dữ liệu nội bộ bị hỏng (gây ra bởi điện thoại), vả chỉ sửa được bằng cách phục hồi lại điện thoại với phần mềm/firmware gốc - điều này đồng nghĩa với việc mọi dữ liệu cá nhân sẽ bị xóa. Trong một vài trường hợp, lỗi này có thể được xử lý bằng phần mềm nâng cấp dịch vụ (Update Service software), có thể tìm thấy qua phiên bản CD (hoặc trên trang web của Sony Ericsson). Tuy nhiên, dữ liệu cá nhân vẫn sẽ bị xóa.
+Người sử dụng được khuyến cáo thường xuyên sao chép dữ liệu vào cả thẻ nhớ (hình ảnh và địa chỉ liên lạc) và cả chương trình MyPhoneExplorer để lưu những dữ liệu khác vào máy tính. Có thể nhận biết được nếu khởi động máy thất bại nếu không thể truy cập được mục tin nhắn.
+
+
+== Ghi chú ==
+
+
+== Liên kết ngoài ==
+Thông cáo báo chí Sony Ericsson
+Thông số kĩ thuật C905
+Official C905 specifications for developers
+Báo hình của C905
+[4]

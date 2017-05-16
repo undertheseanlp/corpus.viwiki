@@ -1,0 +1,17 @@
+Android Wear là phiên bản hệ điều hành mở Android của Google thiết kế cho đồng hồ thông minh và thiết bị đeo khác. Bằng cách kết nối với điện thoại thông minh chạy Android phiên bản 4.3+, Android Wear sẽ tích hợp chức năng Google Now và thông báo di động trên hình thức đồng hồ thông minh. Nền tảng đã được công bố vào ngày 18 tháng 3 năm 2014, cùng với việc phát hành một bản phát triển. Các công ty như Motorola, Samsung, LG, HTC và Asus đã công bố là đối tác chính thức. Vào 25 tháng 6 năm 2014, tại Google I/O, LG G Watch và Moto 360 của Motorola được công bố, cùng với thông tin chi tiết về Android Wear.
+
+
+== Thiết bị phát hành ==
+Moto 360
+LG G Watch
+
+
+== Danh sách đối tác ==
+
+
+== Xem thêm ==
+Google Glass
+Moto 360
+
+
+== Tham khảo ==

@@ -1,0 +1,30 @@
+Trong kinh tế học những người trong lực lượng lao động là những người cung cấp lao động. Năm 2005, lực lượng lao động của toàn thế giới là trên 3 tỉ người.
+Thông thường, lực lượng lao động bao gồm tất cả những người đang ở trong độ tuổi lao động (thường là lớn hơn một độ tuổi nhất định (trong khoảng từ 14 đến 16 tuổi) và chưa đến tuổi nghỉ hưu (thường trong khoảng 65 tuổi) đang tham gia lao động. Những người không được tính vào lực lượng lao động là những sinh viên, người nghỉ hưu, những cha mẹ ở nhà, những người trong tù, những người không có ý định tìm kiếm việc làm. Ở Hoa Kỳ, lực lượng lao động được xác định là những người từ 16 tuổi trở lên, đã có việc làm hoặc đang tìm kiếm việc làm. Các Luật lao động trẻ em ở Hoa Kỳ cấm việc thuê người dưới 18 tuổi trong các nghề nguy hiểm.
+Một phần nhỏ trong lực lượng lao động đang tìm kiếm việc làm nhưng không thể tìm được việc làm tạo thành đội quân thất nghiệp.
+
+
+== Tỷ lệ tham gia lực lượng lao động ==
+
+Tỷ lệ tham gia lực lượng lao động là tỷ lệ giữa lực lượng lao động và toàn bộ những người trong độ tuổi lao động (dân số một quốc gia trong độ tuổi lao động). Ở phương Tây, trong nửa cuối thế kỷ 20, tỉ lệ tham gia lực lượng lao động tăng đáng kể, phần lớn do sự tăng lên của số phụ nữ vào các vị trí việc làm. Ở Hoa Kỳ, tỷ lệ tham gia lực lượng lao động tăng từ khoảng 59% vào năm 1948 đến 66% vào năm 2005. [3], trong đó tỷ lệ tăng của phụ nữ vào trong đó từ 32% lên 59% [4] và tỷ lệ tham gia của nam giới vào trong đó giảm từ 78% xuống 73%[5]. Tỷ lệ tham gia lực lượng lao động là chìa khóa, nhân tố quan trọng cho sự tăng trưởng kinh tế, tương tự như yếu tố năng xuất hay hiệu quả trong sản xuất.
+Pop = Dân số tổng cộng
+LF = Lực lượng lao động = U + E
+LFpop = Dân số trong độ tuổi lao động
+p = Tỉ lệ tham gia lực lượng lao động = LF / LFpop
+E = Số người có việc làm
+e = Tỷ lệ có việc làm = E / LF
+U = Số người thất nghiệp
+u = Tỷ lệ thất nghiệp = U / LF
+
+Việc tăng tỷ lệ thất nghiệp có thể xảy ra cùng với sự tăng tổng số người có việc làm.
+
+
+== Xem thêm ==
+Lao động (kinh tế học)
+Nhân lực
+
+
+== Liên kết ngoài ==
+U.S. Bureau of Labor Statistics page on the Labor Force Participation Rate
+
+
+== Ghi chú và tham khảo ==

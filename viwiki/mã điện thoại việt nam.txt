@@ -1,0 +1,126 @@
+
+== Thông tin chung ==
+Mã quốc gia Việt Nam: 84
+Chỉ số gọi đi quốc tế là: + (hoặc 00 nếu gọi từ Việt Nam), liên tỉnh ở Việt Nam là: 0
+
+
+== Phân bổ mã vùng trên toàn quốc ==
+Chú thích
+
+
+== Phân bổ mã vùng cũ còn hiệu lực trên toàn quốc ==
+Nguồn:
+
+
+== Các mã vùng đặc biệt ==
+Mã 65
+65 là mã mạng điện thoại Internet.
+
+
+==== Mã 69 ====
+69 là mã vùng dùng riêng cho lực lượng quân đội và công an đi kèm với 6 chữ số (mạng quân đội) hoặc 5 chữ số (mạng công an). Theo quy định hiện hành:
+69 2 xxxx - Mạng viễn thông Công an tại miền Bắc
+69 3 xxxx - Mạng viễn thông Công an tại miền Nam
+69 4 xxxx - Mạng viễn thông Công an tại miền Trung
+69 5 xxxxx - Mạng viễn thông Quân đội
+69 6 xxxxx - Mạng viễn thông Quân đội
+69 7 xxxxx - Mạng viễn thông Quân đội
+69 8 xxxxx - Mạng viễn thông Quân đội
+69 9 xxxxx - Mạng viễn thông Quân đội
+
+
+==== Mã 80 ====
+Mã vùng 80 là mã của Cục Bưu điện Trung ương. Đi kèm với mã tỉnh và 4 chữ số điện thoại.
+Hiện nay có các mã sau:
+(0) 80 4 xxxx: Cục Bưu điện Trung ương Hà Nội;
+(0) 80 31 xxxx: Cục Bưu điện Trung ương Hải Phòng;
+(0) 80 511 xxxx: Cục Bưu điện Trung ương Đà Nẵng;
+(0) 80 8 xxxx: Cục Bưu điện Trung ương TP. Hồ Chí Minh.
+
+
+== Đầu số điện thoại cố định ==
+Sau khi tiến hành thêm số cho điện thoại cố định ngày 26/10/2009, các đầu số điện thoại cố định của các hãng viễn thông sau đó là:
+220, 221, 222, 223, 224, 246, 247, 248, 249 Viettel
+35, 36, 37, 38, 39 VNPT
+445, 450 VTC
+540, 541, 542, 543, 544 Saigon Postel (SPT)
+625, 626, 627, 628, 629, 633, 664, 665, 666, 667, 668, 669 Viettel
+71 CMC Telecom
+73 FPT Telecom
+7779 Đông Dương Telecom (Indochina Telecom)
+
+
+== Đầu số điện thoại di động ==
+Các đầu số (mã mạng) điện thoại di động mang số 01xx, 08x và 09x, còn số thuê bao điện thoại di động dài 7 chữ số.
+
+
+== Mã thuê bao VSAT ==
+Mã vùng 992 là thuê bao VSAT.
+992 2: VSAT Bưu điện
+992 3: VSAT Thuê bao
+
+
+== Các số gọi khẩn cấp ==
+112: gọi lực lượng tìm kiếm, cứu nạn.
+113: gọi công an.
+114: gọi cứu hỏa.
+115: gọi cứu thương.
+
+
+== Các đầu số dịch vụ ==
+106x: 1060 - trả lời tự động thông tin kinh tế xã hội 1066 - tư vấn việc làm 1068 - Tổng đài giải đáp thông tin kinh tế xã hội 1069 - Tổng đài hỗ trợ thế thao (chuyên sâu về bóng đá và pháp luật)
+108x: 1080 - Tổng đài giải đáp thông tin 1088 - Tổng đài kết nối đến các nhà tư vấn qua điện thoại
+1400: số tổng đài nhắn tin của Cổng thông tin nhân đạo quốc gia. Thuê bao nhắn tin đến bị tính cước. Số tiền cước được chuyển vào Quỹ nhân đạo quốc gia.
+1800xxxx- (ở nước ngoài thường viết là 1-800-xxxx-): số chăm sóc khách hàng, dịch vụ. Thuê bao gọi đến không bị tính cước.
+1900xxxx-: số chăm sóc khách hàng, dịch vụ. Thuê bao gọi đến hoặc nhắn tin đến bị tính cuớc.
+8xxx và 6xxx: số tổng đài dịch vụ nhắn tin tương tác trên điện thoại di động (dành cho tư nhân khai thác). Thuê bao nhắn tin đến bị tính cước.
+Ghi chú: 180066xx, 180068xx, 190066xx, 190068xx do mạng FPT cung cấp
+
+
+== Cách thức thiết lập cuộc gọi ==
+Tại Việt Nam, cách thức thiết lập cuộc gọi theo quy định như sau:
+
+
+=== Gọi đi quốc tế ===
+Chỉ số gọi quốc tế (+; 00) + Mã nước + Mã vùng + Số điện thoại
+
+
+=== Gọi trong nước ===
+Cấu trúc số điện thoại quốc tế theo khuyến nghị E.164 của ITU-T bao gồm mã quốc gia, mã vùng (hoặc mã mạng), số máy điện thoại.
+Khi gọi cho điện thoại cố định trong nội tỉnh hay thành phố trực thuộc trung ương chỉ cần quay số điện thoại gọi đến.
+Khi gọi cho điện thoại cố định giữa các tỉnh thành với nhau, cách thức quay số là: 0 + Mã vùng + Số điện thoại.
+Từ điện thoại di động gọi cho điện thoại cố định, cách thức là: 0 + Mã vùng + Số điện thoại.
+Khi gọi đến điện thoại di động, cách thức là: 0 + Mã mạng + số điện thoại (như vậy, phải quay đầy đủ 10 số đối với đầu 09x và 11 số đối với đầu 01xx).
+Từ ngày 5 tháng 10 năm 2008, số điện thoại cố định tại các tỉnh thành dài 7 chữ số, riêng Hà Nội và TP HCM dài 8 chữ số (trừ những số điện thoại đặc biệt) được phân chia đầu số theo các nhà khai thác dịch vụ như sau:
+2: Viettel (điện thoại cố định)
+3: VNPT
+4: VTC
+5: SPT
+62: Viettel (điện thoại cố định)
+63:Viettel (điện thoại cố định)
+66: Viettel (điện thoại cố định)
+68: Di động Viettel
+71: CMC Telecom
+73: FPT Telecom.
+8: Di động Vinaphone
+9: Di động MobiFone
+
+
+== Xem thêm ==
+Mã bưu chính các tỉnh thành Việt Nam
+Biển xe cơ giới Việt Nam
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Quy hoạch kho số viễn thông
+Giới thiệu Bộ Thông tin và Truyền thông Việt Nam
+Thông tư số 22/2014/TT-BTTTT ban hành Quy hoạch kho số viễn thông Nguyễn Bắc Son ký ngày 22 tháng 12 năm 2014
+Thay đổi mã vùng điện thoại cố định Vân Trang, Báo điện tử Chính phủ cập nhật 07:59, 07/01/2015
+Country Codes: Vietnam
+Đổi số điện thoại cho 6 tỉnh Hồng Anh, VnExpress 3/7/2007, 08:33 GMT+7
+Đổi số điện thoại cố định cho 3 tỉnh Hồng Anh, VnExpress 21/3/2006, 09:31 GMT+7
+Sim di động 11 số 2/08/2007, 15:58
+VNPT đổi số ĐT cố định tại 8 tỉnh, thành phố! Hoàng Hùng. VietnamNet. Cập nhật lúc 17:03, Thứ Năm, 22/11/2007 (GMT+7)

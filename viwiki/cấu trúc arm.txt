@@ -1,0 +1,75 @@
+Cấu trúc ARM (viết tắt từ tên gốc là Advanced RISC Machine) là một loại cấu trúc vi xử lý 32 bit và 64 bit kiểu RISC được sử dụng rộng rãi trong các thiết kế nhúng. Do có đặc điểm tiết kiệm năng lượng, các bộ CPU ARM chiếm ưu thế trong các sản phẩm điện tử di động, mà với các sản phẩm này việc tiêu tán công suất thấp là một mục tiêu thiết kế quan trọng hàng đầu.
+Ngày nay, hơn 75% CPU nhúng 32-bit là thuộc họ ARM, điều này khiến ARM trở thành cấu trúc 32-bit được sản xuất nhiều nhất trên thế giới. CPU ARM được tìm thấy khắp nơi trong các sản phẩm thương mại điện tử, từ thiết bị cầm tay (PDA, điện thoại di động, máy đa phương tiện, máy trò chơi cầm tay, và máy tính cầm tay) cho đến các thiết bị ngoại vi máy tính (ổ đĩa cứng, bộ định tuyến để bàn.) Một nhánh nổi tiếng của họ ARM là các vi xử lý Xscale của Intel.
+
+
+== Lịch sử phát triển ==
+
+Việc thiết kế ARM được bắt đầu từ năm 1983 trong một dự án phát triển của công ty máy tính Acorn.
+Nhóm thiết kế, dẫn đầu bởi Roger Wilson và Steve Furber, bắt đầu phát triển một bộ vi xử lý có nhiều điểm tương đồng với Kỹ thuật MOS 6502 tiên tiến. Acorn đã từng sản xuất nhiều máy tính dựa trên 6502, vì vậy việc tạo ra một chip như vậy là một bước tiến đáng kể của công ty này.
+Nhóm thiết kế hoàn thành việc phát triển mẫu gọi là ARM1 vào năm 1985, và vào năm sau, nhóm hoàn thành sản phẩm ‘’thực’’ gọi là ARM2. ARM2 có tuyến dữ liệu 32-bit, không gian địa chỉ 26-bit tức cho phép quản lý đến 64 Mbyte địa chỉ và 16 thanh ghi 32-bit. Một trong những thanh ghi này đóng vai trò là bộ đếm chương trình với 6 bit cao nhất và 2 bit thấp nhất lưu giữ các cờ trạng thái của bộ vi xử lý. Có thể nói ARM2 là bộ vi xử lý 32-bit khả dụng đơn giản nhất trên thế giới, với chỉ gồm 30.000 transistor (so với bộ vi xử lý lâu hơn bốn năm của Motorola là 68000 với khoảng 68.000 transistor). Sự đơn giản như vậy có được nhờ ARM không có vi chương trình (mà chiếm khoảng ¼ đến 1/3 trong 68000) và cũng giống như hầu hết các CPU vào thời đó, không hề chứa cache. Sự đơn giản này đưa đến đặc điểm tiêu thụ công suất thấp của ARM, mà lại có tính năng tốt hơn cả 286. Thế hệ sau, ARM3, được tạo ra với 4KB cache và có chức năng được cải thiện tốt hơn nữa.
+Vào những năm cuối thập niên 80, hãng máy tính Apple Computer bắt đầu hợp tác với Acorn để phát triển các thế hệ lõi ARM mới. Công việc này trở nên quan trọng đến nỗi Acorn nâng nhóm thiết kế trở thành một công ty mới gọi là Advanced RISC Machines. Vì lý do đó bạn thường được giải thích ARM là chữ viết tắt của Advanced RISC Machines thay vì Acorn RISC Machine. Advanced RISC Machines trở thành công ty ARM Limited khi công ty này được đưa ra sàn chứng khoán London và NASDAQ năm 1998.
+Kết quả sự hợp tác này là ARM6. Mẫu đầu tiên được công bố vào năm 1991 và Apple đã sử dụng bộ vi xử lý ARM 610 dựa trên ARM6 làm cơ sở cho PDA hiệu Apple Newton. Vào năm 1994, Acorn dùng ARM 610 làm CPU trong các máy vi tính RiscPC của họ.
+Trải qua nhiều thế hệ nhưng lõi ARM gần như không thay đổi kích thước. ARM2 có 30.000 transistors trong khi ARM6 chỉ tăng lên đến 35.000. Ý tưởng của nhà sản xuất lõi ARM là sao cho người sử dụng có thể ghép lõi ARM với một số bộ phận tùy chọn nào đó để tạo ra một CPU hoàn chỉnh, một loại CPU mà có thể tạo ra trên những nhà máy sản xuất bán dẫn cũ và vẫn tiếp tục tạo ra được sản phẩm với nhiều tính năng mà giá thành vẫn thấp.
+Thế hệ thành công nhất có lẽ là ARM7TDMI với hàng trăm triệu lõi được sử dụng trong các máy điện thoại di động, hệ thống video game cầm tay, và Sega Dreamcast. Trong khi công ty ARM chỉ tập trung vào việc bán lõi IP, cũng có một số giấy phép tạo ra bộ vi điều khiển dựa trên lõi này.
+Dreamcast đưa ra bộ vi xử lý SH4 mà chỉ mượn một số ý tưởng từ ARM (tiêu tán công suất thấp, tập lệnh gọn …) nhưng phần còn lại thì khác với ARM. Dreamcast cũng tạo ra một chip xử lý âm thanh được thiết kế bởi Yamaha với lõi ARM7. Bên cạnh đó, Gameboy Advance của Nintendo, dùng ARM7TDMI ở tần số 16,78 MHz.
+Hãng DEC cũng bán giấy phép về lõi cấu trúc ARM (đôi khi chúng ta có thể bị nhầm lẫn vì họ cũng sản xuất ra DEC Alpha) và sản xuất ra thế hệ Strong ARM. Hoạt động ở tần số 233 MHz mà CPU này chỉ tiêu tốn khoảng 1 watt công suất (những đời sau còn tiêu tốn ít công suất hơn nữa). Sau những kiện tụng, Intel cũng được chấp nhận sản xuất ARM và Intel đã nắm lấy cơ hội này để bổ sung vào thế hệ già cỗi i960 của họ bằng Strong ARM. Từ đó, Intel đã phát triển cho chính họ một sản phẩm chức năng cao gọi tên là Xscale.
+
+
+== Các dạng lõi ==
+
+
+== Các lưu ý về thiết kế ==
+Để đạt được một thiết kế gọn, đơn giản và nhanh, các nhà thiết kế ARM xây dựng nó theo kiểu nối cứng không có vi chương trình, giống với bộ vi xử lý 8-bit 6502 đã từng được dùng trong các máy vi tính trước đó của hãng Acorn.
+Cấu trúc ARM bao gồm các đặc tính của RISC như sau:
+Cấu trúc nạp/lưu trữ.
+Không cho phép truy xuất bộ nhớ không thẳng hàng (bây giờ đã cho phép trong lõi Arm v6)
+Tập lệnh trực giao
+File thanh ghi lớn gồm 16 x 32-bit
+Chiều dài mã máy cố định là 32 bit để dễ giải mã và thực hiện pipeline, để đạt được điều này phải chấp nhận giảm mật độ mã máy.
+Hầu hết các lệnh đều thực hiện trong vòng một chu kỳ đơn.
+So với các bộ vi xử lý cùng thời như Intel 80286 và Motorola 68020, trong ARM có một số tính chất khá độc đáo như sau:
+Hầu hết tất cả các lệnh đều cho phép thực thi có điều kiện, điều này làm giảm việc phải viết các tiêu đề rẽ nhánh cũng như bù cho việc không có một bộ dự đoán rẽ nhánh.
+Trong các lệnh số học, để chỉ ra điều kiện thực hiện, người lập trình chỉ cần sửa mã điều kiện
+Có một thanh ghi dịch đóng thùng 32-bit mà có thể sử dụng với chức năng hoàn hảo với hầu hết các lệnh số học và việc tính toán địa chỉ.
+Có các kiểu định địa chỉ theo chỉ số rất mạnh
+Có hệ thống con thực hiện ngắt hai mức ưu tiên đơn giản nhưng rất nhanh, kèm theo cho phép chuyển từng nhóm thanh ghi.
+
+
+== Giấy phép dùng ARM ==
+Cấu trúc ARM được công ty Anh ARM Holding đăng ký bản quyền. Phát triển đầu tiên vào những năm 1980, đến trong năm 2013 nó là kiến trúc được sử dụng phổ biến nhất. Trong năm 2011 các nhà sản xuất chip dựa trên kiến trúc ARM đã báo cáo 7.9 tỉ bộ vi xử lý ARM đã được mua, hiện diện trong 95% smartphone, 90% ổ đĩa cứng,40% truyền hình kĩ thuật số và set top box, 15% trong vi điều khiển,20% trong máy tính di động.
+Một mình ARM Holding không sản xuất chip điện tử, nhưng nó đăng ký bản quyền của nó đến nhà sản xuất bán dẫn.Bộ vi xử lý và hệ thống trên chip dựa trên kiến trúc ARM bao gồm Qualcomm Snapdragon, nVidia Tegra, MediaTek và Texas Instruments OMAP.
+
+
+== Xem thêm ==
+Inferno
+DirectBand
+AMULET
+Philips LPC2000 ARM7TDMI-S Microcontrollers
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+4tech Ltd.
+ARM Ltd.
+Inferno: An Open Source operating system for embedded devices
+An open source RTOS for low end ARM7 devices
+ARM Assembler Programming; tutorial, resources, and examples
+Philips ARM microcontrollers
+The ARM microcontroller Wiki
+Atmel ARM microcontrollers
+NEON
+Keith & Koep GmbH - System On Module with ARM and Windows CE
+Toradex Industrial Single Board Computers
+GCC ARM improvement project
+Debian GNU/Linux on ARM
+ARM7 lpc210x Programming; Tutorial;
+Forum dedicated to ARM Cores
+DeviceTools Software, tools and resources for ARM developers.
+Embedded Toolsmiths - JTAG Emulator, JTAG Flash Programmer, JTAG Debugger for ARM Processors.
+ARM7 Evaluation Board; AT91SAM7X256; 256K Flash, 64K SRAM, JTAG, Ethernet, CAN, USB, UART and more.
+gumstix - Gum stick size, full function XScale Linux computers
+Segger J-Link (JTAG Emulator for ARM Cores)
+Segger-US J-Link (JTAG Emulator for ARM Cores)
+Circuit Cellar Article (SOFTWARE BREAKPOINTS IN FLASH MEMORY FOR ARM MCUs)

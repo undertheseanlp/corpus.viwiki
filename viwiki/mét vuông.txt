@@ -1,0 +1,36 @@
+Mét vuông có ý nghĩa là diện tích của một hình vuông với các cạnh có độ lớn một mét dài. Nó là đơn vị trong SI để đo diện tích. Nó được viết tắt là m².
+Một mét vuông bằng:
+0,000 001 km² (km²)
+10 000 xentimét vuông (cm²)
+0,000 1 hecta
+0,01 a
+1,195 990 yard
+10,763 911 foot vuông
+1 550,003 1 đốt vuông
+
+
+== km² ==
+1 km² bằng:
+diện tích của một hình vuông với cạnh dài 1 kilômét.
+1 000 000 m²
+100 hecta
+0,386 102 dặm vuông (thường)
+247.105 381 mẫu Anh
+Ngược lại:
+1 m² = 0,000 001 km²
+1 hecta = 0,01 km²
+1 dặm vuông = 2,589 988 km²
+1 mẫu Anh = 0,004 047 km²
+Chú ý: "km²" là km², chứ không phải là 1.000 mét vuông. Ví dụ như 3 km² bằng 3 000 000 m² chứ không bằng 3 000 m².
+
+
+== Xem thêm ==
+SI
+Các tiền tố của SI
+Mét
+1 E0 m²
+Đổi đơn vị đo lượng
+Bậc độ lớn
+
+
+== Tham khảo ==

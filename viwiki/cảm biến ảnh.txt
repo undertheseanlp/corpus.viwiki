@@ -1,0 +1,51 @@
+Cảm biến ảnh là thiết bị có chức năng chuyển đổi tín hiệu hình ảnh thành tín hiệu điện.
+Trong phần lớn các trường hợp sử dụng, tín hiệu điện được số hóa bằng chip ADC nhanh rồi chuyển tới các chip xử lý số khác trong thiết bị số. Chip ADC thường đặt cùng đế với cảm biến ảnh, cho ra dẫn xuất là cảm biến ảnh kỹ thuật số.
+Các loại cảm biến ở vùng ánh sáng nhìn thấy, hồng ngoại, tử ngoại được sử dụng phổ biến hiện nay là cảm biến CCD (semiconductor charge-coupled devices), CMOS (complementary metal–oxide–semiconductor). Ngoài ra còn có cảm biến ảnh ở vùng phổ tia X, tia gamma.
+Cảm biến ảnh được chế ở hai dạng:
+Dạng ma trận hay mảng (Array), thu nhận trực tiếp ảnh hai chiều, sử dụng trong camera, webcam, máy ảnh kỹ thuật số, kính nhìn đêm (Night vision), kính thiên văn, camera trên vệ tinh viễn thám,...
+Dạng dòng đơn (Line) thu nhận từng dòng và thực hiện quét để thu được toàn ảnh, sử dụng trong máy fax, máy scan các kiểu, và máy đo quang phổ.
+
+
+== CCD và CMOS ==
+Ngày nay, hầu hết các máy ảnh đều sử dụng một trong hai loại cảm biến là CCD và CMOS. Cả CCD và CMOS đều thực hiện một nhiệm vụ giống nhau: biến các tín hiệu ánh sáng thành các tín hiệu điện.
+CCD là một trong những công nghệ lâu đời nhất trên máy ảnh số, với chất lượng ảnh chụp vượt trội so với CMOS nhờ có dải tần nhạy sáng và kiểm soát nhiễu tốt hơn. Hiện nay, CCD vẫn được sử dụng nhiều trong các mẫu máy ảnh du lịch giá rẻ, song quá trình lắp ráp khó khăn và điện năng tiêu thụ quá nhiều của CCD đã dẫn tới sự thống trị của CMOS.
+Trong lịch sử, cảm biến CMOS luôn được cho là có chất lượng ảnh chụp thấp hơn so với CCD, nhưng các đột phá về công nghệ mới đã khiến cho chất lượng của CMOS hiện đại trở nên ngang bằng hoặc thậm chí là vượt qua cả tiêu chuẩn của CCD. Với nhiều tính năng được tích hợp sẵn hơn là CCD, cảm biến CMOS hoạt động hiệu quả hơn, cần ít điện năng hơn và chụp ảnh tốc độ cao tốt hơn CCD.
+
+
+== Cảm biến ảnh của các máy ảnh kỹ thuật số ==
+
+
+== Các công ty sản xuất ==
+Các công ty lớn trong lĩnh vực sản xuất cảm biến ảnh bao gồm:
+Agilent
+Aptina (formerly division of Micron Technology)
+Canesta
+Canon
+Caeleste
+CMOSIS
+Dalsa
+Eastman Kodak
+ESS Technology
+Fujifilm
+MagnaChip
+Matsushita
+MAZeT GmbH
+Mitsubishi
+Nikon
+OmniVision Technologies
+ON Semiconductor (formerly Cypress Semiconductor)
+PixArt Imaging
+Pixim
+Samsung
+Sharp
+Sony
+STMicroelectronics
+Toshiba
+TowerJazz
+Town Line Technologies
+TransChip
+Trusight
+Trusense imaging
+
+
+== Chú thích ==

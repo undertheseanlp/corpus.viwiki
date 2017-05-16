@@ -1,0 +1,13 @@
+2.5G là bước chuyển đổi từ công nghệ truyền thông 2G sang 3G.
+Cụm từ "thế hệ di động hai rưỡi" được dùng để miêu tả hệ thống di động 2G có được trang bị hệ thống chuyển mạch gói bên cạnh hệ thống chuyển mạch kênh truyền thống.
+Trong khi các danh từ 2G và 3G được chính thức định nghĩa thì danh từ 2.5G không được như vậy. Danh từ này được chỉ dùng cho mục đích tiếp thị.
+2.5G cung cấp một số lợi ích của mạng 3G (ví dụ như chuyển mạch gói) và có thể dùng cơ sở hạ tầng đang tồn tại của 2G trong các mạng GSM và CDMA. GPRS là công nghệ dùng bởi các nhà cung cấp dịch vụ viễn thông GSM. Một vài giao thức, chẳng hạn như EDGE cho GSM và CDMA2000 1x-RTT cho CDMA, có thể đạt được chất lượng như các dịch vụ 3G (bởi vì chúng có dùng một tốc độ truyền dữ liệu 144 kbit/s), nhưng vẫn được xem như là dịch vụ 2.5G (hoặc là nghe có vẻ phức tạp hơn là 2.75G) bởi vì chậm hơn vài lần so với dịch vụ 3G thực sự.
+2G là thế hệ viễn thông của hệ thống di động số. Nó chủ yếu là vận chuyển thoại, tuy nhiên cũng có thể dùng cho vận chuyển dữ liệu và tin nhắn SMS.
+3G hiện nay là thế hệ thứ ba của hệ thống điện thoại di động. Chúng cung cấp cả hai hệ thống: chuyển mạch gói và chuyển mạch kênh. Hệ thống 3G yêu cầu một mạng truy cập radio hoàn toàn khác so với hệ thống 2G hiện nay. Do nguyên nhân về giá thành và độ phức tạp, việc triển khai 3G hiện nay chậm hơn so với dự kiến.
+
+
+== Xem thêm ==
+camera phone
+
+
+== Tham khảo ==

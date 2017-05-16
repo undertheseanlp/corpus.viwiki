@@ -1,0 +1,462 @@
+Máy bay tiêm kích (Hán Việt: tiêm kích cơ / chiến đấu cơ, tiếng Anh: Fighter aircraft, tiếng Pháp: Avion de chasse, tiếng Trung Quốc: 歼击机), trước kia còn gọi là máy bay khu trục, là một loại máy bay chiến đấu trong quân chủng không quân, được thiết kế với mục đích chính là tác chiến chống lại các lực lượng không quân của đối phương. Nhiệm vụ chính của không quân tiêm kích là không chiến:
+chiến đấu tiêu diệt các máy bay ném bom, máy bay cường kích và tên lửa của đối phương để bảo vệ an toàn các mục tiêu mặt đất và trên biển của lực lượng mình khỏi các cuộc tấn công của không quân đối phương.
+chiến đấu chống lại các máy bay tiêm kích của đối phương để bảo vệ các máy bay ném bom, máy bay cường kích, máy bay vận tải và các lực lượng không quân khác của quân mình đang hoạt động.
+Góp phần cùng các lực lượng không quân khác triển khai trên diện rộng các biện pháp đấu tranh với các lực lượng phòng không và không quân của đối phương để tranh đoạt quyền bá chủ trên không, kiểm soát vùng trời đảm bảo an ninh trên không cho các quân binh chủng quân mình chiến đấu trong khu vực chiến sự.
+Vì các đặc điểm chiến đấu không chiến nên máy bay tiêm kích khác với những loại máy bay quân sự khác như máy bay ném bom, máy bay cường kích, máy bay thám thính, máy bay vận tải ở chỗ máy bay tiêm kích có kích thước nhỏ; có tốc độ cao; độ cơ động tốt: dễ dàng đột ngột thay đổi các tham số bay (vận tốc, độ cao, hướng bay); dễ thao tác và được trang bị các vũ khí không chiến đặc dụng là radar, hệ thống thông tin – chỉ huy – dẫn đường, súng máy, pháo và tên lửa có điều khiển không đối không để chiến đấu hiệu quả chống không quân địch. Từ sau Chiến tranh thế giới thứ hai, máy bay tiêm kích đã trở thành một thành phần quan trọng quyết định thắng bại trong hầu hết những cuộc chiến hiện đại, nói một cách đặc biệt là chiến tranh "quy ước". Ngày nay quân đội các quốc gia trên thế giới đã bỏ ra những khoản ngân quỹ rất lớn để nghiên cứu chế tạo và bảo dưỡng các máy bay tiêm kích hiện đại nhằm duy trì khả năng phòng thủ và tấn công trên không của quốc gia mình.
+
+
+== Lịch sử phát triển ==
+Từ "tiêm kích" không trở thành thuật ngữ tiếng Anh chính thức cho một máy bay chiến đấu một chỗ cho đến khi Chiến tranh Thế giới I nổ ra. Ở Anh, những máy bay một chỗ như vậy vẫn tiếp tục được gọi là "do thám" vào đầu những năm 1920. Còn trong các thứ tiếng Pháp, Ý, Đức và Bồ Đào Nha thuật ngữ "tiêm kích" được sử dụng có nghĩa đen là "người đi săn" (hiện nay các thuật ngữ đó vẫn được sử dụng), trong khi ở Nga máy bay tiêm kích được gọi là "истребитель" mà nghĩa đen là "người hủy diệt". Ở Mỹ có lẽ do trước đây vì dịch sai từ tiếng Pháp "chasseur" mà máy bay tiêm kích của người Mỹ được gọi là máy bay tiêm kích "theo đuổi" ("pursuit") cho đến tận cuối những năm 1940.
+Cho dù dưới bất cứ tên gọi nào được sử dụng thì máy bay tiêm kích đã được phát triển để đối phó với việc các quốc gia bước đầu sử dụng máy bay và khí cầu điều khiển tham chiến trong Chiến tranh thế giới I với vai trò trinh sát và tấn công mặt đất. Vào lúc đầu nó chỉ là loại máy bay chiến đấu còn chưa được chuyên môn hoá được phát minh để tăng cường cho các phương tiện bay khác, nhất là các loại khinh khí cầu quân sự nặng nề thường dùng lúc bấy giờ. Những máy bay tiêm kích thời này thường làm bằng gỗ, động cơ cánh quạt, có hai cánh đôi và trang bị súng máy trên buồng lái.
+Các cuộc chiến tranh trên không ngày càng trở nên quan trọng, việc chiếm quyền kiểm soát không phận cũng vì thế mà được ưu tiên hàng đầu. Trong Chiến tranh thế giới thứ hai, máy bay tiêm kích chủ yếu là máy bay một tâng cánh hoàn toàn làm bằng kim loại với những khẩu pháo hoặc súng máy hạng năng đặt ở cánh. Vào cuối cuộc chiến, những máy bay phản lực một luồng khí (turbojet) đã bắt đầu thay thế những máy bay động cơ pít-tông như một thúc đẩy mới trong kỹ thuật hàng không, tên lửa đã được sử dụng tăng cường hoặc thay thế những khẩu súng.
+Dựa trên những mục đích nghiên cứu lịch sử, những máy bay tiêm kích phản lực được phân loại theo thế hệ. Thuật ngữ thế hệ được người Nga đề xướng sử dụng như một cách nói biện hộ trong việc nói đến F-35 Lightning II như một máy bay "thế hệ thứ 5".
+Những máy bay tiêm kích phản lực hiện đại phần lớn được trang bị một hoặc hai động cơ phản lực cánh quạt đẩy (turbofan), vũ khí chính là tên lửa (với máy bay tiêm kích ban ngày hạng nhẹ thường có ít nhất 2 tên lửa, cho đến 8 đến 10 tên lửa đối với máy bay tiêm kích ưu thế trên không như Su-27 Flanker hoặc F-15 Eagle), với một khẩu pháo như một vũ khí dự phòng (điển hình là loại pháo cỡ từ 20 đến 30 mm), và trang bị với một radar như một phương pháp chính để phát hiện, theo dõi và khóa mục tiêu.
+
+
+== Máy bay tiêm kích động cơ cánh quạt ==
+
+
+=== Chiến tranh Thế giới I ===
+
+Từ "tiêm kích" được sử dụng lần đầu tiên để mô tả một máy bay 2 chỗ ngồi, với khả năng chỉ đủ để mang một súng máy và xạ thủ điều khiển súng đồng thời cũng là hoa tiêu. Những máy bay "tiêm kích" như vậy thuộc về loạt máy bay "gunbus" được thử nghiệm mang súng của công ty Vickers mà đỉnh cao của loạt máy bay này là Vickers F.B.5 Gunbus vào năm 1914. Hạn chế chính của loại máy bay này là thiếu tốc độ. Người ta nhanh chóng nhận thấy một máy bay khác dùng để phá hủy loại máy bay này chỉ cần có tốc độ đủ nhanh là có thể tiêu diệt được nó.
+May mắn là các kiểu máy bay quân sự khác đã được chế tạo, các loại máy bay này đã góp phần hình thành nên cơ sở cho một "máy bay tiêm kích" có hiệu quả trong ý nghĩa hiện đại của từ. Máy bay tiêm kích được dựa vào máy bay nhanh có kích thước nhỏ được phát triển trước chiến tranh thế giới I, chúng được dùng cho các cuộc đua trên không như Gordon Bennett và cúp Schneider. Máy bay quân sự do thám vào lúc đầu không được cho rằng có thể mang các loại vũ khí đáng gờm, nhưng với tốc độ đáng tin cậy, nó có khả năng xác định được vị trí để "theo dõi" hay tham dò và quay trở lại nhanh chóng để báo cáo - nó rất khó để bị pháo phòng không hay máy bay mang súng máy của quân địch bắn trúng. Máy bay "do thám" của Anh trong nghĩa này bao gồm cả Sopwith Tabloid và Bristol Scout - đối với Pháp thì nó tương đương với loại do thám Morane-Saulnier N.
+Trong thực tế, sau khi bắt đầu chiến tranh của những phi công lái máy bay do thám loại nhỏ, các phi công chỉ chiến đấu bằng chính vũ khí của mình mang theo như súng lục, súng các bin và một sự phân loại những vũ khí ngẫu nhiên được dùng để tấn công máy bay quân địch - những việc này tỏ ra thành công trong những nỗ lực của họ để thiết kế máy bay "tiêm kích" đặc biệt.
+Đó là điều tất yếu mà những người tiên phong hay những phương tiện "do thám" mới được vũ trang hiệu quả đã trở thành phát minh. Một phương pháp để chế tạo máy bay do thám là sử dụng "cánh quạt đẩy" như Airco DH.2, với cánh quạt ở sau phi công. Hạn chế của kiểu máy bay là sự kéo cao của cánh quạt đẩy do cấu trúc đuôi, điều này có nghĩa sẽ làm máy bay bay lên chậm hơn so với các máy bay có cánh quạt kéo. Các máy bay khác đã trang bị súng máy bên ngoài vòng cung của cánh quạt. Điều này dẫn đến xu hướng những súng máy sớm bị kẹt (và từ đó cần thiết phải có phi công để tác động tới khóa nòng của súng) cũng như khó xác định ngắm bắn vào mục tiêu, đây là một giải pháp thay thế tạm thời tốt nhất. Dù việc đặt một súng máy để bắn qua vòng cung cánh quạt đã được áp dụng từ năm 1915 trên chiếc Nieuport 11 cho đến năm 1918 trên chiếc Royal Aircraft Factory S.E.5 với mục đích là chế tạo khung đỡ súng Foster.
+Nhu cầu cần thiết để vũ trang cho máy bay trinh sát cánh quạt kéo với một súng bắn phía trước mà những viên đạn được bắn ra đi xuyên qua cung cánh quạt đã có tính thuyết phục đến nỗi những nhà phát minh bận rộn thử những phương pháp khác nhau ở cả Pháp và Đức. Hanz Schneider đã được cấp bằng sáng chế một thiết bị trước chiến tranh, thiết bị này làm gián đoạn chuyển động liên tục của những viên đạn trong súng máy (bằng việc ngăn cản nó bắn ra khi lưỡi cánh quạt đang ở trên đường bắn) và Anthony Fokker đã phát triển phát minh này vào cơ cấu ngắt, thiết bị này được sử dụng trên loại máy bay Fokker Eindecker, loại máy bay này đã tạo nên một danh tiếng của nỗi sợ hãi trên khắp Mặt trận phía Tây, dù đó là một thiết kế phỏng theo thiết bị lỗi thời trước chiến tranh của loại máy bay thể thao một lớp cánh Morane-Saulnier của Pháp. Đồng thời, Roland Garros (phi công 'Át' đầu tiên của Pháp) cũng sửa chữa cải tiến trên một cơ cấu ngắt, Roland đã cố gắng thử chọn thời điểm để súng bắn ra không trúng phải cánh quạt. Không may sự lựa chọn của Roland về súng máy đã hoạt động không tốt - khí vận hành Hotchkiss không đủ để có khả năng định giờ bắn ra của viên đạn và Roland đành phải lắp những tấm kim loại để bảo vệ các cánh quạt. Cùng thời gian đó RNAS đã bảo vệ những cánh quạt trên những chiếc do thám để bất kỳ hư hại nào đối với cánh quạt không trở thành nguyên nhân thất bại trước khi máy bay có thể hạ cánh, với cơ cấu giàn khung người ta hy vọng các cánh quạt ăn ý với nhau.
+Sự thành công của Eindecker đã bắt đầu một chu trình cải tiến trong số những máy bay tham chiến, việc chế tạo những máy bay tiêm kích ghế đơn hiệu quả hơn. Chiếc Albatros D.I được chế tạo vào cuối năm 1914 đã trở thành mô hình kinh điển cho hâu hết các máy bay phát triển sau trong khoảng 20 năm. Giống như D.I, chúng là những máy bay hai tầng cánh (chỉ thỉnh thoảng mới có máy bay một tầng cánh hoặc máy bay ba tầng cánh). Cấu trúc tủ sắt của cánh máy bay hai tầng cánh cho phép máy bay có đôi cánh cứng rắn có thể điều khiển chính xác ở bên, đây là tính thiết yếu đối với kiểu tiêm kích cơ động. Loại máy bay này chỉ có một phi công, vừa điều khiển máy bay vừa vận hành vũ khí. Loại máy bay này được vũ trang với hai khẩu súng máy đồng bộ hóa kiểu Maxim, loại súng này dễ dàng để đồng bộ hơn các kiểu súng khác. Những khóa nòng súng đặc trưng ở ngay phía trước mặt của phi công. Điều này hiển nhiên liên quan đến những trường hợp tai nạn, nhưng hiện tượng kẹt súng đã được giải quyết (với kiểu súng Maxim thì luôn luôn có thể xảy ra hiện tượng kẹt súng) và việc ngắm bắn mục tiêu cũng dễ dàng hơn.
+
+Trong giai đoạn này có các loại máy bay đáng chú ý như: (với năm sản xuất)
+ Anh Quốc - Vickers F.B.5 (1915)
+ Đức - Fokker Eindecker (1915)
+ Pháp - Nieuport 11 (1915)
+ Anh Quốc - Airco DH-2 (1915)
+ Đức - Albatros D.III (1916)
+ Pháp - Nieuport 17 (1916)
+ Đức - Fokker Dr.I (1917)
+ Pháp - SPAD S.XIII (1917)
+ Pháp - Nieuport 28 (1917)
+ Anh Quốc - Sopwith Camel (1917)
+ Anh Quốc - Royal Aircraft Factory S.E.5 (1917)
+ Đức - Đức - Fokker D.VII (1918)
+
+
+=== 1919-1938 ===
+
+Việc phát triển máy bay tiêm kích đã chậm lại trong thời kỳ giữa hai cuộc đại chiến thế giới, thay đổi quan trọng nhất xuất hiện vào cuối thời kỳ này, khi loại máy bay cổ điển hai tầng cánh trong Chiến tranh thế giới I được thay thế bằng máy bay một tầng cánh dạng thân khung thép liền khối hoặc bán liền khối thay thế cho vải và gỗ, với cấu trúc cánh mút chìa đỡ. Súng đồng bộ càng ngày càng ít đi và dần kém quan trọng, các nhà thiết kế máy bay có khuynh hướng tăng thêm trang bị vũ khí hạng nặng đặt ở cánh.
+Một số lực lượng không quân đã đưa "máy bay tiêm kích hạng nặng" vào sử dụng (ở Đức gọi là "kẻ hủy diệt"). Đây là loại máy bay lớn, đôi khi được phỏng theo loại máy bay ném bom hạng trung hoặc hạng nhẹ, và thường thường có hai động cơ. Khái niệm này không giữ ảnh hưởng ngoại trừ một số thiết kế chuyên dụng đòi hỏi khả năng mang trọng tải lớn. Nói riêng, những máy bay tiêm kích hạng nặng không phải là đối thủ của những máy bay tiêm kích bình thượng trong chiến đấu.
+Vào cuối những năm 1930, máy bay tiêm kích nhanh chóng được đổi mới trang bị vũ khí, đây là một trong những sự đổi mới chính của máy bay tiêm kích. Nhưng những cải tiến nghiên cứu phát triển máy bay mạnh mẽ không phải do ngân sách của quân đội chi trả, mà lại diễn ra đối với những máy bay thể thao dân sự. Máy bay được thiết kế cho mục đích thể thao đã mở đường cho những sáng kiến như hình dáng khí động học của máy bay tốt hơn và động cơ mạnh hơn, những điều này đều được tìm thấy ở những máy bay tiêm kích trong Chiến tranh thế giới thứ hai.
+Trong giai đoạn này có các loại máy bay đáng chú ý như:
+
+Máy bay hai tầng cánh
+ Tiệp Khắc - Avia B-534
+ Ý - Fiat CR.42
+ Thụy Điển - Svenska Aero Jaktfalken
+ Anh Quốc - Bristol Bulldog
+ Anh Quốc - Gloster Gladiator
+ Anh Quốc - Hawker Fury
+ Hoa Kỳ - Boeing F4B-4
+
+Máy bay một tầng cánh
+ Nhật Bản - Mitsubishi A5M 'Claude'
+ Hà Lan - Fokker D.XXI
+ Ba Lan - PZL P.11
+ Liên Xô - Polikarpov I-16
+ Anh Quốc - Hawker Hurricane
+ Anh Quốc - Boeing P-26 Peashooter
+ Hoa Kỳ - F2A Brewster Buffalo
+
+
+=== Chiến tranh thế giới thứ hai ===
+
+Các cuộc chiến trên không và kiểm soát không phận đã trở thành một phần quan trọng của học thuyết quân sự trong Chiến tranh thế giới thứ hai. Khả năng dùng máy bay để xác định vị trí, tấn công quấy rối, và ngăn chặn các lực lượng mặt đất là một phần công cụ trong học thuyết cánh tay liên hợp (không quân - lục quân) của Đức Quốc xã, cuộc xâm chiếm Anh Quốc sở dĩ thất bại là do không quân của Đức không chiếm được quyền khống chế bầu trời khi giao chiến với Không quân Hoàng gia Anh. Theo lời của Erwin Rommel nhận thức được tầm quan trọng của không quân: "Bất cứ ai, dù với vũ khí tân kỳ nhất, phải đánh nhau khi quân địch đã hoàn toàn làm chủ tình thế trên không, sẽ chiến đấu giống như quân mọi rợ chống lại quân đội hiện đại châu Âu, với những thiệt thòi tương tự và cơ hội thành công tương tự."
+Máy bay tiêm kích trong Chiến tranh thế giới thứ hai được trang bị rốc két cũng như thiết kế động cơ phản lực đầu tiên và có tất cả những phát minh trong thập niên 30. Máy bay với động cơ xăng dùng piston tiếp tục được cải tiến và phát triển, càng lúc càng tiến bộ về mọi mặt cho đến khi những máy bay phản lực như Messerschmitt Me 262 và Gloster Meteor được chế tạo. Những chiếc tiêm kích này này có tốc độ lên trên 400 dặm/giờ (600 km/giờ) và khi bổ nhào xuống nhanh có thể vượt bức tường âm thanh, nhiều khi tạo cộng hưởng làm vỡ máy bay. Các loại thắng cản tốc độ lao xuống được chế tạo vào cuối cuộc chiến để giảm tối hiện tượng này và giúp phi công lấy lại được sự điều khiển.
+Radar, phát minh trước khi cuộc chiến bùng nổ, được gắn trên một vài loại máy bay tiêm kích, như chiếc Messerschmitt Bf 110 và Northrop P-61 Black Widow, giúp phi công phát hiện máy bay địch trong đêm tối. Một sáng kiến trong thời kỳ là máy bay tiêm kích tấn công. Sáng kiến này do Thủy quân lục chiến Hoa Kỳ vùng Thái Bình Dương thực hiện, vì thiếu máy bay ném bom, họ gắn thêm bom vào máy bay chiến đấu F4U Corsair. Sau khi bỏ bom, những máy bay này có thể chiến đấu chống lại máy bay địch như một máy bay tiêm kích bình thường. F6F Hellcat cũng đuọwc sử dụng với mục đích tương tự vào giai đoạn 1944-1945.
+Trong giai đoạn này có các loại máy bay đáng chú ý như:
+
+ Úc
+CAC Boomerang
+
+ Pháp
+Bloch MB.150
+Dewoitine D.520
+Morane-Saulnier M.S.406
+Potez 630
+
+ Phần Lan
+VL Myrsky
+
+ Đức
+Messerschmitt Bf 109
+Messerschmitt Bf 110
+Focke-Wulf Fw 190
+Messerschmitt Me 163
+Messerschmitt Me 210
+Messerschmitt Me 262
+Heinkel He 100
+Heinkel He 111
+Heinkel He 112
+Heinkel He 162
+
+ Ý
+Macchi C.200
+Macchi C.202
+Macchi C.205
+Fiat G.55
+Fiat G.50
+Reggiane Re 2000
+Reggiane Re 2001
+Reggiane Re 2005
+
+ Nhật Bản
+Kawanishi N1K-J
+Nakajima Ki-43
+Nakajima Ki-44
+Nakajima Ki-84
+Kawasaki Ki-61
+Kawasaki Ki-100
+Mitsubishi Zero
+Mitsubishi J2M
+
+ România
+IAR-80
+
+ Thụy Điển
+FFVS J 22
+
+ Liên Xô
+Yakovlev Yak-1
+Yakovlev Yak-3
+Yakovlev Yak-9
+Lavochkin LaGG-3
+Lavochkin La-5
+Lavochkin La-7 'Fin'
+Mikoyan-Gurevich MiG-3
+
+ Anh Quốc
+Supermarine Spitfire
+Hawker Hurricane
+Hawker Typhoon
+Hawker Tempest
+De Havilland Mosquito
+Gloster Meteor
+Boulton Paul Defiant
+Hawker Sea Fury
+
+ Hoa Kỳ
+Grumman F4F Wildcat
+Vought F4U Corsair
+Grumman F6F Hellcat
+Curtiss P-36 Hawk
+Lockheed P-38 Lightning
+Bell P-39 Airacobra
+Curtiss P-40 Warhawk
+Republic P-47 Thunderbolt
+North American P-51 Mustang
+Bell P-63 Kingcobra
+
+ Nam Tư
+Rogozarski IK-3
+
+
+== Máy bay tiêm kích động cơ phản lực ==
+
+
+=== Thế hệ thứ nhất (1944 - 1953) ===
+
+Thế hệ thứ nhất đại diện cho những nỗ lực đầu tiên trong việc sử dụng động cơ phản lực một dòng khí, loại động cơ này cung cấp một tốc độ rất lớn (hiệu suất của động cơ cánh quạt chỉ gần đạt đến tốc độ âm thanh). Nhiều máy bay tiêm kích động cơ phản lực đầu tiên có một vài đặc điểm giống với máy bay động cơ piston trước đó như cánh và thân vẫn còn theo hình dạng của loại máy bay thời trước. Có khá nhiều máy bay cánh thẳng được trang bị vũ khí chủ yếu với các khẩu pháo; radar còn chưa được sử dụng phổ biến trừ những chiếc tiêm kích bay đêm chuyên dụng.
+Máy bay phản lực đầu tiên được phát triển trong thời gian Chiến tranh thế giới thứ hai và được đưa vào tham chiến vào khoảng thời gian từ năm 1944 đến khi kết thúc chiến tranh. Messerschmitt đã phát triển máy bay tiêm kích phản lực hoạt động đầu tiên là loại Me 262. Loại Me 262 có tốc độ nhanh hơn hẳn so với máy bay động cơ piston, và khi có phi công thành thạo lái thì hầu như không máy bay cùng thời nào khác có thể chống lại được Me 262. Nhưng máy bay này ít được sử dụng vì hao xăng và lúc đó Đức đang phải hạn chế nhiên liệu. Tuy nhiên với sự xuất hiện của Me 262 đã báo hiệu sự lỗi thời của máy bay động cơ piston. Theo sau loại tiêm kích phản lực của Đức, người Anh đã cho ra đời loại phản lực Gloster Meteor, nó được sản xuất ngay sau loại Me 262 và đã có 2 chiếc bắt đầu đưa vào hoạt động cùng thơi gian với Me 262 trong khoảng tháng 4 năm 1944. Vào cuối cuộc chiến gần như mọi công việc đối với động cơ piston đã kết thúc. Những thiết kế hỗn hợp giữa động cơ phản lực - cánh quạt như Ryan FR Fireball đã được đưa vào sử dụng, nhưng vào cuối thập kỷ 1940 hầu như mọi máy bay chiến đấu mới đều chỉ trang bị động cơ phản lực. Dù có những lợi thế, nhưng những máy bay tiêm kích phản lực thế hệ đầu tiên còn nhiều khuyết điểm và còn cần nhiều thời gian để hoàn thiện, đặc biệt là trong những năm đầu hoạt động. Độ tin cậy còn kém nhiều chiếc bị hư chỉ sau vài giờ bay, động cơ yếu dễ hư hỏng và kềnh càng, công suất còn nhỏ. Những sáng kiến như cánh xuôi, ghế phóng, và phần đuôi điều khiển đã được đưa vào áp dụng trên máy bay trong thời kỳ này.
+Nhu cầu về sử dụng máy bay tiêm kích phản lực trở nên rõ ràng vào đầu Chiến tranh Triều Tiên khi máy bay phản lực Trung Quốc (Mikoyan-Gurevich MiG-15) thực hiện và hoàn thành nhanh chóng công việc của máy bay cánh quạt thời kỳ Chiến tranh thế giới thứ hai. F-86 Sabre là câu trả lời của Mỹ đối với các máy bay phản lực của Trung Quốc
+Trong giai đoạn này có các loại máy bay đáng chú ý như:
+
+ Argentina
+FMA IAe 27 Pulqui I
+FMA IAe 33 Pulqui II
+
+ Canada
+Avro CF-100 Canuck
+
+ Đức
+Heinkel He 280
+Messerschmitt Me 262
+Heinkel He 162
+Arado Ar 234
+Horten Ho 229
+
+ Pháp
+Dassault Ouragan
+Dassault Mystère IV
+
+ Thụy Điển
+Saab Tunnan
+
+ Liên Xô
+Mikoyan-Gurevich MiG-9 'Fargo'
+Mikoyan-Gurevich MiG-15 'Fagot'
+Mikoyan-Gurevich MiG-17 'Fresco'
+Lavochkin La-15 'Fantail'
+Yakovlev Yak-15/17 'Feather'
+Yak-23 'Flora'
+Yakovlev Yak-25 'Flashlight'
+
+ Anh Quốc
+de Havilland Vampire
+Hawker Hunter
+Gloster Javelin
+Gloster Meteor
+
+ Hoa Kỳ
+Lockheed P-80 Shooting Star
+Republic F-84 Thunderjet
+North American F-86 Sabre
+Northrop F-89J Scorpion
+
+ Nam Tư Nam Tư
+SOKO J-21 Jastreb
+
+
+=== Thế hệ thứ hai (1953 - 1960) ===
+
+Thế hệ thứ hai mô tả sự hợp nhất của nhiều công nghệ mới để cải tiến tối đa khả năng chiến đấu của máy bay tiêm kích phản lực. Việc đưa vào sử dụng tên lửa điều khiển như AIM-9 Sidewinder, AIM-7 Sparrow, Kaliningrad K-5, Vympel K-13... đã chuyển không chiến từ tầm gần sang thành không chiến ngoài tầm nhìn của phi công (tuy nhiên việc phát triển các chiến thuật trong hỗn chiến trong tầm nhìn phi công vẫn là cần thiết), cần phải có sự tiêu chuẩn hóa radar để phát hiện theo dõi mục tiêu. Những công trình sư thiết kế đã thử nghiệm rất nhiều những sáng kiến trong hàng không, như cánh xuôi, cánh tam giác, cánh cụp cánh xòe, và thân máy bay áp dụng luật diện tích, khả năng chứa xăng cũng tăng lên nhờ những sáng tạo cấu trúc bình chứa. Những chiếc máy bay sử dụng cánh xuôi đã trở thành máy bay lần đầu tiên phá vỡ được bức tường âm thanh.
+Thời kỳ này với sự phát triển mạnh của vũ khí tên lửa rất hiệu quả và gọn nhẹ, hiệu quả không chiến không còn phụ thuộc quá nhiều vào các đặc tính cơ động của máy bay. Những máy bay tiêm kích đã được chuyên môn hóa riêng biệt tùy nhiệm vu như máy bay tiêm kích ném bom (F-105 và Sukhoi Su-7), nó vừa có thể tấn công mặt đất như máy bay tấn công, vừa có thể không chiến và xu hướng này đến nay vẫn là chủ đạo trong không quân tiêm kích của các cường quốc quân sự thế giới.
+Đồng thời với sự ra đời của tên lửa mang đầu đạn hạt nhân phóng từ máy bay và bom hạt nhân xuất hiện yêu cầu phải có loại tiêm kích chuyên biệt đánh chặn từ xa không cho phép xuất hiện vũ khí hạt nhân tại khu vực được bảo vệ. Đó là xu hướng phát triển máy bay tiêm kích đánh chặn từ xa mà đi đầu trong hướng này là không quân Xô Viết: máy bay tiêm kích đánh chặn (tiếng Anh: Fighter-interceptor, tiếng Nga: Истребитель – перехватчик) là loại máy bay tiêm kích tầm xa mang tên lửa không đối không tầm xa để tiêu diệt các máy bay và tên lửa của đối phương từ rất xa ngoài khu vực bảo vệ. Các máy bay này trang bị các hệ thống radar và tên lửa rất hiện đại có tầm bay rất xa và tốc độ rất cao nhưng vì tiêu diệt mục tiêu bằng phóng tên lửa tầm xa nên không đòi hỏi tính cơ động tốt. Ở thời kỳ này các máy bay điển hình loại này là Mikoyan-Gurevich MiG-21 của Liên Xô, English Electric Lightning của Anh và F-104 Starfighter của Hoa Kỳ.
+Trong giai đoạn này có các loại máy bay đáng chú ý như:
+ Ai Cập
+Helwan HA-300
+
+ Canada
+Avro Arrow
+
+ Pháp
+Dassault Étendard IV
+
+ Ấn Độ
+HAL HF-24 Marut
+
+ Thụy Điển
+Saab Draken
+
+ Liên Xô
+Mikoyan-Gurevich MiG-19 'Farmer'
+Mikoyan-Gurevich MiG-21 'Fishbed'
+Sukhoi Su-7 'Fitter-A'
+Sukhoi Su-9/11 'Fishpot'
+
+ Anh Quốc
+English Electric Lightning
+De Havilland Sea Vixen
+Gloster Javelin
+
+ Hoa Kỳ
+Chance-Vought F-8 Crusader
+Grumman F-11 Tiger
+North American F-100 Super Sabre
+Convair F-102 Delta Dagger
+Lockheed F-104 Starfighter
+Republic F-105 Thunderchief
+Convair F-106 Delta Dart
+
+ Nam Tư
+SOKO J-22 Orao
+
+
+=== Thế hệ thứ ba (1960 - 1970) ===
+
+Trong các năm 1960-1970 có sự định hướng lại trong xây dựng lực lượng máy bay tiêm kích. Điều đó thể hiện sự nhận thức lại vai trò của chiến tranh trên không: trước đây các cường quốc về không quân ưu tiên số một cho các nhiệm vụ của chiến tranh huỷ diệt tổng lực có sử dụng vũ khí huỷ diệt hàng loạt để tiêu diệt lẫn nhau. Còn đến giai đoạn này các cường quốc hiểu rằng gần như sẽ không có chiến tranh huỷ diệt tổng lực như vậy mà chiến tranh trên không sẽ là các cuộc chiến tranh phi hạt nhân với chiến trường là của loại máy bay tiêm kích mặt trận khu vực, loại máy bay tiêm kích mặt trận sẽ chiếm ưu thế trên không. Và các cuộc chiến tranh khu vực trong thời kỳ này đã chứng kiến những cuộc không chiến giữa các loại tiêm kích mặt trận khác nhau của các bên tham chiến như chiến tranh Việt Nam (1963-1973), chiến tranh Trung Đông (1967, 1973) và chiến tranh Ấn Độ- Pakistan năm 1971.
+Thế hệ tiêm kích thứ ba được đánh dấu bởi sự hoàn thiện trong những sáng kiến cải tiến được áp dụng trong thế hệ tiêm kích thứ nhất. Khi sự phát triển hàng không tiếp cận đến mức độ hoàn thiện, khả năng chiến đấu cũng được gia tăng thông qua sử dụng tên lửa, radar, và những thiết bị điện tử hàng không hiện đại khác. Một mặt các máy bay tiêm kích đánh chặn vẫn được một số nước như Liên Xô ưu tiên phát triển như loại MiG-23, MiG-25 với tính đánh chặn chuyên biệt rất cao. Một cách đáng kể, sau khi nghiên cứu những kinh nghiệm thu được từ chiến đấu với tên lửa điều khiển, những nhà thiết kế thừa nhận rằng trận đánh có thể và sẽ kết thúc trong không chiến tầm gần (dogfights). Những khẩu súng một lần nữa lại trở thành một tiêu chuẩn, và tính cơ động một lần nữa lại được ưu tiên.
+Những sự đổi mới này, trong khi cải thiện rất lớn những khả năng của máy bay tiêm kích (như F-4 có khả năng mang một trọng tải lớn hơn cả B-24 Liberator, một loại máy bay ném bom hạng nặng trong Chiến tranh thế giới thứ hai), cũng đi đến một sự gia tăng chi phí nghiên cứu chế tạo rất lớn. Trong quân đội các nước trước đây có những máy bay tiêm kích chuyên dụng cho những vai trò đặc biệt, như máy bay tiêm kích ban đêm, máy bay tiêm kích hạng nặng và máy bay tiêm kích tấn công, nhưng đối với những đơn đặt hàng ngày máy bay tiêm kích ngày càng lớn lên về chi phí, quân đội các nước bắt đầu hợp nhất các loại nhiệm vụ, dẫn đến hình thành những loại máy bay tiêm kích đa chức năng. McDonnell F-4 Phantom II được thiết kế như một máy bay tiêm kích đánh chặn thuần túy cho Hải quân Hoa Kỳ, nhưng nó đã được cải tiến trở thành máy bay đa chức năng rất thành công trong không quân, hải quân và thủy quân lục chiến của Hoa Kỳ cũng như tại nhiều quốc gia khác. Đó là máy bay chiến đấu duy nhất đồng thời thực hiện cả ba nhánh đơn vị trong quân đội Hoa Kỳ.
+Trong giai đoạn này có các loại máy bay đáng chú ý như:
+ Pháp
+Dassault Mirage F.1
+Dassault Super Étendard
+Dassault Mirage III
+
+ Iran
+IAMI Azarakhsh
+IAMI Saeqeh
+
+ Trung Quốc
+Shenyang J-8
+
+ Liên Xô
+Mikoyan-Gurevich MiG-21MF/bis 'Fishbed'
+Mikoyan-Gurevich MiG-23 'Flogger'
+Mikoyan-Gurevich MiG-25 'Foxbat'
+Sukhoi Su-15 'Flagon'
+Sukhoi Su-17 'Fitter'
+Tupolev Tu-28 'Fiddler'
+
+ Anh Quốc
+Hawker Siddeley Harrier
+
+ Hoa Kỳ
+McDonnell Douglas F-4 Phantom II
+Northrop F-5
+
+
+=== Thế hệ thứ tư (1970 - 1990) ===
+
+Để đối phó với chi phi liên tục tăng của máy bay tiêm kích và hoàn thiện sự thành công của F-4 Phantom II, máy bay tiêm kích đa chức năng đã trở thành phổ biến trong thời kỳ này, và thậm chí thiết kế máy bay cho một vai trò đặc biệt (như F-4 đã có) có thể có khả năng đa vai trò. Những máy bay tiêm kích mới như MiG-23 và Panavia Tornado có những phiên bản thích hợp đặc biệt cho những vai trò khác nhau, trong khi máy bay tiêm kích đa chức năng thật sự bao gồm F/A-18 Hornet và Dassault Mirage 2000. Điều này được làm thuận tiện nhờ hệ thống điện tử hàng không có thể luân chuyển liên tục giữa phương thức hoạt động mặt đất và không trung. Khi chi phí cho việc phát triển ngày càng tăng, thì nền kinh tế sẽ đóng vai trò nhân tố thúc đẩy hơn nữa sự phát triển máy bay đa chức năng.
+Không giống như những máy bay tiêm kích đánh chặn ở thời kỳ trước, đa số những máy bay tiêm kích chiếm ưu thế trên không hiện đại đã được thiết kế để có thể không chiến tầm gần nhanh nhẹn. Hệ thống điều khiển trong buồng lái phần lớn dùng hệ thống điện – điện tử và máy tính fly-by-wire sẽ loại bỏ hệ thống điều khiển cơ – thủy lực đã lỗi thời, với các tính toán tham số bay tự động, do đó phi công có thể chú tâm vào việc tác chiến hơn là lo điều khiển máy bay, và sự tiện nghi thoải mái sẽ phổ biến trong các máy bay tiêm kích hiện đại.
+Trong giai đoạn này có các loại máy bay đáng chú ý như:
+ Pháp
+Dassault Mirage 2000
+
+ Israel
+IAI Kfir
+
+ Nhật Bản
+Mitsubishi F-2
+
+ Trung Quốc
+JH-7 Flying Leopard
+Shenyang J-8II
+
+ Trung Hoa Dân Quốc
+AIDC F-CK-1 Ching-kuo
+
+ Thụy Điển
+Saab Viggen
+
+ Liên Xô
+Mikoyan MiG-29 'Fulcrum'
+Mikoyan MiG-31 'Foxhound'
+Sukhoi Su-27/33 'Flanker'
+Yakovlev Yak-38 'Forger'
+
+ Anh Quốc /  Đức /  Ý
+Panavia Tornado
+
+ Anh Quốc /  Hoa Kỳ
+BAE / McDonnell Douglas Harrier II
+
+ Hoa Kỳ
+Grumman F-14 Tomcat
+McDonnell Douglas F-15 Eagle
+General Dynamics / Lockheed Martin F-16 Fighting Falcon
+McDonnell Douglas F/A-18 Hornet
+Northrop F-20 Tigershark
+
+
+=== Thế hệ 4.5 (1990 - 2000) ===
+
+Thế hệ "nửa chừng" này là thế hệ chiến đấu cơ hiện nay - để biểu hiện sự trì trệ của các cải tiến khí động học (vốn bùng nổ ở thế hệ ba); nhưng lại tiến triển vượt bậc các hệ thống dẫn đường và các hệ thống điện tử khác - do việc áp dụng chip vi xử lý và kỹ thuật bán dẫn trong các thập niên 1980 và 1990, cũng như hình dạng tàng hình một phần dựa trên thiết kế các máy siêu tính. Điển hình của thế hệ này là chiếc F/A-18E/F Super Hornet dựa trên thiết kế cũ của chiếc F/A-18 Hornet thập niên 1970. Trong khi các đặc điểm khí động học căn bản không thay đổi, Super Hornet được cải tiến tính năng lái nhờ trang bị buồng lái toàn kính, radar quét bán dẫn cố định AESA, động cơ mới, cấu trúc bằng vật liệu composite nhẹ hơn, và hình dáng thay đổi chút ít để giảm phản xạ tín hiệu radar. Trong số này, chỉ có hai chiếc Super Hornet, Strike Eagle và Rafale là có tham chiến trong các cuộc chiến tranh.
+Trong giai đoạn này có các loại máy bay đáng chú ý như:
+ Pháp
+Dassault Rafale
+
+ Ấn Độ
+HAL Tejas
+
+ Trung Quốc /  Pakistan
+JF-17 Thunder / FC-1 Fierce Dragon
+
+ Trung Quốc
+Chengdu J-10
+Shenyang J-11B
+
+ Nga
+Mikoyan MiG-35 'Fulcrum'
+Sukhoi Su-30/35/37 'Flanker'
+Sukhoi Su-32/34 'Fullback'
+
+ Nga /  Ấn Độ
+Su-30MKI 'Flanker'
+
+ Thụy Điển
+Saab JAS 39 Gripen
+
+ Anh Quốc /  Đức /  Ý /  Tây Ban Nha
+Eurofighter Typhoon
+
+ Hoa Kỳ
+Boeing F-15E Strike Eagle and all later derivatives
+General Dynamics / Lockheed Martin F-16C/D Block 50/52 and all later derivatives
+Boeing F/A-18E/F Super Hornet
+
+
+=== Thế hệ thứ năm (2000 - hiện nay) ===
+
+Là thế hệ các máy bay hiện đại nhất đang được thử nghiệm hiện nay và tương lai gần và phải tổng hợp được các tính năng rất ưu việt sau đây:
+Hệ thống phễu phụt phản lực đa hướng cho phép máy bay có lực nâng phản lực với độ cơ động cực cao. Hiện nay đang có các mẫu máy bay F-22 Raptor của Hoa Kỳ, Sukhoi Su-27 và các đời Sukhoi mới nhất của Nga, Eurofighter Typhoon của châu Âu đáp ứng được yêu cầu này trong đó dòng máy bay Sukhoi đáp ứng ưu việt nhất.
+Tốc độ hành trình cơ bản là siêu âm không cần đốt nhiên liệu phụ.
+Công nghệ tàng hình chống ra đa và giảm thiểu đến mức tối đa các trường vật lý của máy bay cho phép máy bay là vô hình đối với đối phương.
+Hệ thống điều khiển hoàn toàn tự động với tương tác thông tin tương tác đầu ra đầu vào trực tiếp trên kính phi công tự động tổng hợp các thông tin chiến đấu, có khả năng bỏ qua các hành động sai sót của phi công khi thao tác bay.
+Tính đa năng của máy bay cho phép thực hiện được nhiều chức năng chiến đấu.
+Hệ thống radar hoả lực vòng tròn mạnh ở mọi phía có thể cảnh giới, nhìn và bắn về phía sau cũng hiệu quả như về phía trước và tiến đến có thể tác chiến vòng tròn.
+Ở thế hệ này, duy nhất chỉ có F-22 Raptor của Hoa Kỳ, đã được đưa vào sản xuất vào năm 2004 hiện đang phục vụ trong không quân Hoa Kỳ, và thường được xem như là máy bay tiêm kích đầu tiên của thế hệ tiêm kích mới, gọi là "thế hệ thứ năm". Đối với loại F-35 Lightning II đang phát triển (trước đây là Joint Strike Fighter) và F-22 đều có ảnh hưởng tới sự phát triển không ngừng của thiết kế thế hệ thứ tư, và hầu hết các thiết kế thế hế thứ năm hiện này của các quốc gia trên thế giới đều có một số hình dáng đường nét khí động học giống nhau như Sukhoi PAK FA của Nga, dự án Shenyang J-XX của Trung Quốc, Máy bay Chiến đấu Tầm trung của Ấn Độ và KFX của Hàn Quốc. Những mẫu thao diễn công nghệ của thế hệ tiêm kích thứ năm hiện đã bị hủy bỏ bao gồm YF-23 Black Widow II, Boeing X-32, McDonnell Douglas X-36 của Hoa Kỳ cộng với Dự án MiG 1.42 mà sau này nâng cấp thành phiên bản 1.44 của Nga.
+
+
+==== Đang hoạt động ====
+ Hoa Kỳ
+Lockheed Martin / Boeing F-22 Raptor
+
+
+==== Lịch trình đưa vào hoạt động ====
+Bay thử nghiệm vào năm 2009 và bắt đầu hoạt động vào năm 2012
+ Nga
+Sukhoi T-50
+
+ Hoa Kỳ /  Anh Quốc
+Lockheed Martin / Northrop Grumman / BAE F-35 Lightning II / JCA
+
+
+==== Mẫu thử nghiệm công nghệ ====
+Đã được chế tạo, bay và thử nghiệm (chỉ có mẫu thử nghiệm) - nhưng thiết kế không được lựa chọn
+ Nga
+Sukhoi Su-47 'Berkut'
+Mikoyan Project 1.44 'Flatpack'
+
+ Hoa Kỳ
+Northrop YF-23 Black Widow II
+Boeing X-32 JSF
+
+
+==== Đang phát triển ====
+Đang phát triển trong giai đoạn đầu hoặc trong giai đoạn dự án In very early development or rumored projects
+ Trung Quốc
+J-20
+
+ Nga /  Ấn Độ (Test Flights expected near 2012)
+Dự án Máy bay tiêm kích Thế hệ thứ năm (dựa trên PAK-FA)
+
+ Ấn Độ
+Medium Combat Aircraft (đang phát triển)
+
+ Nhật Bản
+Mitsubishi ATD-X (đang phát triển)
+
+ Hàn Quốc
+KAI KF-X (đang phát triển)
+
+ Nga
+Dự án MiG LFI (đang phát triển)
+
+
+== Xem thêm ==
+Danh sách máy bay quân sự
+Máy bay quân sự
+Máy bay ném bom
+Máy bay cường kích
+Máy bay thám thính
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+WW2DB: Aircraft of World War II
+AirToAirCombat.com: Fighter and Military Aircraft Reference
+World War II Allied/Axis airplane links
+Measures of Fighter Capability
+CombatAircraft.com - Fighters
+Defencetalk.com
+Fighter-planes.com: data and images
+Fighter-planes.com: Hình ảnh và tài liệu
+FighterPlanePhotos.com: Fighter Plane & Military Aircraft Photos
+Fighter Planes Info & Pictures
+PAF Falcons website
+Fighter Combat Quotations
+Từ ngữ và danh ngôn
+Military fighter aircraft in detail
+Chi tiết máy bay quân sự
+WW 2 aviation forum

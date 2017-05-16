@@ -1,0 +1,16 @@
+iOS là hệ điều hành trên các thiết bị di động của Apple. Ban đầu hệ điều hành này chỉ được phát triển để chạy trên iPhone (gọi là iPhone OS), nhưng sau đó nó đã được mở rộng để chạy trên các thiết bị của Apple như iPod touch, iPad và Apple TV. Ngày 31 tháng 5 năm 2011, App Store của Apple chứa khoảng 500 000 ứng dụng iOS, và được tải về tổng cộng khoảng 15 tỷ lần. Trong quý 4 năm 2010, có khoảng 26% điện thoại thông minh chạy hệ điều hành iOS, sau hệ điều hành Android của Google và Symbian của Nokia.
+Giao diện người dùng của iOS dựa trên cơ sở thao tác bằng tay. Người dùng có thể tương tác với hệ điều hành này thông qua rất nhiều động tác bằng tay trên màn hình cảm ứng của các thiết bị của Apple.
+Phiên bản mới nhất của iOS là 10.0 được ra mắt chính thức vào ngày 13 tháng 9 năm 2016, dành cho các thiết bị iPhone 5, iPod 6, iPad 3, iPad Mini (thế hệ thứ hai) trở lên và iPad Pro.
+
+
+== Lịch sử ==
+Hệ điều hành này được tiết lộ tại Hội nghị và Triển lãm Macworld diễn ra vào 9 tháng 1 năm 2007 và được phát hành vào tháng 9 năm đó. Khi đó, hệ điều hành này chưa có một cái tên riêng nên chỉ đơn giản là "iPhone chạy OS X". Ban đầu, ứng dụng bên thứ ba không được hỗ trợ. Steve Jobs đã chỉ ra rằng những nhà phát triển có thể xây dựng các ứng dụng web mà "sẽ cư xử như những ứng dụng ban đầu trên iPhone". Vào ngày 17 tháng 10 năm 2007, Apple thông báo một bộ phát triển phần mềm đang được xây dựng và họ dự định sẽ đưa nó đến "tay của các nhà phát triển vào tháng 2". Ngày 6 tháng 3 năm 2008, Apple đã phát hành bản dùng thử đầu tiên, cùng với một cái tên mới cho hệ điều hành, đó là "iPhone OS".
+Tháng 6 năm 2010, Apple đổi cái tên iPhone OS thành iOS. Nhãn hiệu "IOS" đã được Cisco dùng để đặt tên cho hệ điều hành của mình. Để tránh các vụ kiện cáo, Apple đã xin giấy phép sử dụng nhãn hiệu iOS từ Cisco.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Website chính thức
+iOS Dev Center – trên website Apple Developer Connection

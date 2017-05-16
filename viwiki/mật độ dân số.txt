@@ -1,0 +1,54 @@
+Mật độ dân số là một phép đo dân số trên đơn vị diện tích hay đơn vị thể tích. Nó thường được áp dụng cho các sinh vật sống nói chung, con người nói riêng.
+
+
+== Mật độ dân số sinh học ==
+Mật đô dân số là một phép đo sinh học thông thường và thường được những người bảo vệ môi trường sử dụng hơn những con số tuyệt đối. Mật độ dân số thấp có thể gây tuyệt chủng, bởi vì mật độ thấp làm giảm khả năng sinh sản. Điều này thường được gọi là Hiệu ứng Allee, đặt theo tên W. C. Allee, người đầu tiên phát hiện ra nó. Các ví dụ về hiệu ứng này gồm:
+Gặp khó khăn khi định vị đồng loại trong một diện tích có mật độ thấp.
+Tăng nguy cơ giao phối cận huyết trong một diện tích có mật độ thấp.
+Tăng tính nhạy cảm với các hiện tượng thảm hoạ khi có mật độ dân số thấp.
+Các loài khác nhau có mật độ chuẩn khác nhau. Ví dụ các loài R-selected thường có mật độ dân số cao, trong khi các loài K-selected có mật độ thấp hơn. Mật độ dân số thấp có thể dẫn tới tình trạng thay đổi chuyên biệt hoá trong định vị đồng loại như chuyên biệt hoá thụ phấn; như ở họ lan (Orchidaceae).
+
+
+== Mật độ dân số loài người ==
+
+Đối với con người, mật độ dân số là số người trên đơn vị diện tích (có thể gồm hay không gồm các vùng canh tác hay các vùng có tiềm năng sản xuất). Thông thường nó có thể được tính cho một vùng, thành phố, quốc gia, một đơn vị lãnh thổ, hay toàn bộ thế giới.
+Ví dụ, dân số thế giới hiện có 6.5 tỷ người và diện tích Trái Đất là 510 triệu km² (200 triệu dặm vuông). Vì thế mật độ dân số trên toàn thế giới bằng 6500 triệu / 510 triệu = 13 trên km² (33 trên mi²), hay 43 trên km² (112 trên mi²) nếu coi như con người sống trên lục địa, với diện tích 150 triệu km² trên Trái Đất. Mật độ này tăng khi dân số thế giới tăng, và một số người cho rằng Trái Đất chỉ có thể chịu được tới một mật độ tới hạn nào đó.
+Nhiều trong số những vùng đất có mật độ dân số cao nhất thế giới là những thành phố-quốc gia, tiểu quốc hay quốc gia lệ thuộc rất nhỏ. Các lãnh thổ đó đều có diện tích nhỏ với mức độ đô thị hoá ở mức rất cao, và một dân số thành thị chuyên biệt hoá trong một lĩnh vực kinh tế, tiêu thụ các nguồn tài nguyên nông nghiệp từ bên ngoài, phản ánh sự khác biệt giữa mật độ dân số cao và nạn nhân mãn.
+Các thành phố có mật độ dân số rất cao thường được coi cũng có tình trạng nhân mãn, dù nghĩa rộng của thuật ngữ này tuỳ trường hợp dựa trên các yếu tố như chất lượng nhà ở và hạ tầng hay khả năng tiếp cận nguồn tài nguyên. Đa số các thành phố có mật độ dân số lớn nhất nằm ở phía nam và đông Á, dù Cairo và Lagos ở Châu Phi cũng thuộc số này.
+Tuy nhiên, dân số thành thị phụ thuộc nhiều vào định nghĩa sử dụng tại vùng đô thị: các mật độ sẽ cao hơn khi tính riêng trung tâm đô thị như cách thường tính toán hiện nay so với khi cộng cả dân số các vùng ngoại ô, theo khái niệm cộng dồn hay vùng thành thị, thỉnh thoảng định nghĩa vùng thành thị bao gồm cả các thành phố bên cạnh.
+
+
+== Các biện pháp tính mật độ dân số khác ==
+
+Trong khi cách tính mật độ số học là phương pháp thông thường nhất để tính toán mật độ dân số, nhiều phương pháp khác cũng đã được phát triển với mục tiêu đưa ra một cách tính toán chính xác hơn về mật độ dân số trên một diện tích nhất định.
+Mật độ số học – Tổng số dân /diện tích đất theo km².
+Mật độ sinh lý – Tổng số dân chia theo diện tích đất canh tác.
+Mật độ nông nghiệp – Tổng số dân nông thôn trên tổng diện tích đất nông nghiệp.
+Mật độ dân cư – Số người sống trong một vùng đô thị theo diện tích đất ở.
+Điều kiện sinh thái học thuận lợi nhất – Mật độ dân số mà các nguồn tài nguyên thiên nhiên trên một diện tích có thể đủ cung cấp.
+
+
+== Xem thêm ==
+Danh sách các quốc gia theo mật độ dân số
+Danh sách quốc gia theo dân số
+Danh sách dân số theo tôn giáo
+Danh sách các thành phố theo mật độ dân số
+Địa lý loài người
+Dân số lý tưởng
+Dân số ở mức độ tốt nhất
+Dân số đình trệ
+Đánh mã dân số
+Phát sinh dân số
+Sức khoẻ nhân dân
+Xung lượng dân số
+Kim tự tháp dân số
+Dân số số lượng nhỏ
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+CityRanks.com combines Google Maps and 2000 Census data to show the population densities of U.S. zip codes on an interactive map.
+Selected Current and Historic City, Ward & Neighborhood Densities
+Population density world-map

@@ -1,0 +1,48 @@
+5G (Thế hệ mạng di động thứ 5 hoặc hệ thống không dây thứ 5) là thế hệ tiếp theo của công nghệ truyền thông di động sau thế hệ 4G. Theo các nhà phát minh, mạng 5G sẽ có tốc độ nhanh hơn khoảng 100 lần so với mạng 4G hiện nay, giúp mở ra nhiều khả năng mới và hấp dẫn. Lúc đó, xe tự lái có thể đưa ra những quyết định quan trọng tùy theo thời gian và hoàn cảnh. Tính năng chat video sẽ có hình ảnh mượt mà và trôi chảy hơn, làm cho chúng ta cảm thấy như đang ở trong cùng một mạng nội bộ. Các cơ quan chức năng trong thành phố có thể theo dõi tình trạng tắc nghẽn giao thông, mức độ ô nhiễm và nhu cầu tại các bãi đậu xe, do đó có thể gửi những thông tin này đến những chiếc xe thông minh của mọi người dân theo thời gian thực.
+Mạng 5G được xem là chìa khóa để chúng ta đi vào thế giớiMạng lưới vạn vật kết nối Internet (IoT), trong đó các bộ cảm biến là những yếu tố quan trọng để trích xuất dữ liệu từ các đối tượng và từ môi trường. Hàng tỷ bộ cảm biến sẽ được tích hợp vào các thiết bị gia dụng, hệ thống an ninh, thiết bị theo dõi sức khỏe, khóa cửa, xe hơi và thiết bị đeo Tuy nhiên, để cung cấp 5G, các nhà mạng sẽ cần phải tăng cường hạ tầng cơ sở mạng lưới (gọi là trạm gốc). Họ có thể bắt đầu bằng cách khai thác dải phổ hiện còn trống. Sóng tín hiệu với tần số đo MHz sẽ được nâng cao lên thành GHz hay thậm chí nhanh hơn. Tần số giao tiếp của điện thoại hiện nay ở dưới mức 3 GHz nhưng mạng 5G sẽ yêu cầu những băng tần cao hơn. Mạng 5G được tung ra vào năm 2020 để đáp ứng nhu cầu kinh doanh và người tiêu dùng
+
+
+== Lịch sử ==
+
+
+== Bối cảnh của 5G ==
+Kể từ khi hệ thống 1G được Nordic Mobile Telephone giới thiệu lần đầu tiên vào năm 1981, cứ khoảng 10 năm lại xuất hiện một thế hệ điện thoại di động mới. Các hệ thống 2G đầu tiên bắt đầu tung ra vào năm 1991, các hệ thống 3G đầu tiên xuất hiện lần đầu vào năm 2001 và hệ thống 4G hoàn toàn tuân thủ các tiêu chuẩn "IMT nâng cao" đã được chuẩn hóa vào năm 2012. Sự phát triển các hệ thống tiêu chuẩn của các mạng 2G (GSM) và 3G (IMT-2000 và UMTS) mất khoảng 10 năm kể từ khi các dự án R & D chính thức bắt đầu, và quá trình phát triển hệ thống 4G đã được bắt đầu từ năm 2001 hoặc 2002. Các công nghệ làm tiền đề cho một thế hệ mới thường được giới thiệu trên thị trường từ một vài năm trước đó, ví dụ như hệ thống CdmaOne/IS95 tại Mỹ vào năm 1995 được xem là tiền đề cho 3G, hệ thống Mobile WiMAX ở Hàn Quốc năm 2006 được xem là tiền đề cho 4G, và hệ thống thử nghiệm đầu tiên cho LTE là ở Scandinavia năm 2009. Từ tháng 4 năm 2008, Machine-to-Machine Intelligence (M2Mi) Corp - một tổ hợp trong NASA Research Park - dưới sự lãnh đạo của Geoff Brown - bắt đầu phát triển công nghệ thông tin liên lạc 5G
+Các thế hệ điện thoại di động thường dựa trên các yêu cầu đối với các tiêu chuẩn di động không-tương-thích-ngược dưới đây - theo ITU-R, như IMT-2000 cho 3G và IMT-Advanced cho 4G. Song song với sự phát triển của các thế hệ điện thoại di động của ITU-R, IEEE và các cơ quan tiêu chuẩn hóa khác cũng phát triển các công nghệ truyền thông không dây, thường cho tốc độ dữ liệu cao hơn và tần số cao hơn, nhưng phạm vi truyền ngắn hơn. Các tiêu chuẩn gigabit IEEE đầu tiên là IEEE 802.11ac, đưa vào thương mại từ năm 2013, và gần như lập tức được tiếp nối bởi tiêu chuẩn đa gigabit khác là WiGig hay IEEE 802.11ad.
+Trong báo cáo Ericsson Mobility Report được công bố tháng 6/2014, Ericsson dự đoán tới năm 2019, tỷ lệ thuê bao 4G LTE ở Bắc Mỹ sẽ chiếm tới 85% và đây có thể sẽ là một trong những khu vực đầu tiên ứng dụng 5G. Nhật Bản và Hàn Quốc dự kiến cũng sẽ là những quốc gia sớm triển khai 5G vì NTT DOCOMO và SK Telecom cũng đang rất quan tâm đến công nghệ này. 
+Seizo Onoe, Phó chủ tịch điều hành kiêm Giám đốc kỹ thuật của NTT DOCOMO tin rằng: "5G hứa hẹn mang tới những tính năng quan trọng hỗ trợ ứng dụng, mang lại lợi ích cho người dùng và ngành công nghiệp. Thành công của Ericsson đã chứng tỏ tiềm năng thực tế của công nghệ truy cập vô tuyến 5G ở ngay giai đoạn đầu tiên".
+Theo Sathya Atreyam, chuyên gia của IDC, hiện chưa có chuẩn chính thức cho 5G, nhưng 5G đã đạt một bước tiến vượt bậc từ tầm nhìn công nghệ trở thành một yếu tố quan trọng trong chiến lược phát triển mạng lưới và kinh doanh của các nhà khai thác viễn thông. Với tốc độ nhanh hơn, giảm độ trễ và hiệu suất hoạt động cao hơn ở các khu vực mật độ cao, 5G mang đến những trải nghiệm tiên tiến hơn cho người dùng, đồng thời thúc đẩy sự phát triển các ứng dụng M2M phục vụ người tiêu dùng. 
+
+
+== Tranh luận ==
+Dựa trên những quan sát trên, một số nguồn tin cho rằng một thế hệ mới của các tiêu chuẩn 5G có thể được giới thiệu trong khoảng những năm 2020. Tuy nhiên, vẫn chưa có dự án phát triển 5G quốc tế đã chính thức được đưa ra, và vẫn còn là một mức độ của cuộc tranh luận về 5G. Trước năm 2012, một số đại diện ngành công nghiệp đã bày tỏ thái độ hoài nghi đối với 5G  nhưng sau đó đã có một thái độ tích cực.
+Các thế hệ điện thoại di động mới thường được gán dải tần số mới và băng thông rộng quang phổ trên một kênh tần số (1G lên đến 30 kHz, 2G lên đến 200 kHz, 3G lên đến 20 MHz, và 4G lên tới 100 MHz), nhưng những người hoài nghi cho rằng có rất ít phòng đối với băng thông kênh lớn hơn và băng tần mới phù hợp cho phát thanh Từ quan điểm của người sử dụng xem, thế hệ điện thoại di động trước đó đã ngụ ý sự gia tăng đáng kể trong bitrate cao điểm (tức là lớp vật lý bitrate net cho truyền thông ngắn khoảng cách), tăng tới 1 Gbit / s được cung cấp bởi 4G.
+Nếu 5G xuất hiện và phản ánh những tiên đoán, sự khác biệt lớn từ một điểm người sử dụng xem giữa 4G và 5G kỹ thuật phải là cái gì khác hơn là tăng tốc độ bit cao điểm; ví dụ số cao hơn của thiết bị đồng thời kết nối cao hơn hệ thống hiệu quả quang phổ (khối lượng dữ liệu trên mỗi đơn vị diện tích), tiêu thụ pin thấp hơn, xác suất mất điện thấp hơn (phủ sóng tốt hơn), tốc độ bit cao trong phần lớn của vùng phủ sóng, độ trễ thấp, số lượng cao hơn các thiết bị hỗ trợ, chi phí thấp hơn việc triển khai cơ sở hạ tầng, tính linh hoạt cao hơn và khả năng mở rộng hoặc độ tin cậy cao hơn của truyền thông. Đó là những mục tiêu trong một số các tài liệu nghiên cứu và dự án dưới đây.
+GSMHistory.com  đã ghi nhận sự khác biệt của 5G như sau:
+Một mạng di động siêu hiệu quả mang lại một mạng lưới hiệu suất tốt hơn cho chi phí đầu tư thấp. Nó đề cập đến các nhà khai thác mạng di động nhu cầu bức thiết để xem các đơn vị chi phí vận chuyển dữ liệu xuống xấp xỉ tốc độ tương tự như khối lượng dữ liệu nhu cầu đang tăng lên. Nó sẽ là một bước nhảy vọt trong hiệu quả dựa trên các nhu cầu IET chu đáo Network (DAN), triết học 
+Một mạng di động siêu nhan bao gồm các thế hệ tiếp theo của các tế bào nhỏ đông nhóm lại với nhau để cung cấp cho một phạm vi tiếp giáp trên ít nhất là đô thị khu vực và thế giới để được biên giới cuối cùng cho sự thật "khu vực rộng di động". Nó sẽ yêu cầu quyền truy cập vào phổ dưới 4 GHz có thể thông qua việc thực hiện toàn cầu đầu tiên của thế giới
+Một mạng lưới sợi dây hội tụ mà sử dụng, lần đầu tiên truy cập Internet không dây, các băng sóng mm (20–60 GHz) để cho phép các kênh vô tuyến băng thông rộng có thể hỗ trợ tốc độ truy cập dữ liệu lên tới 10 Gbit / s. Các kết nối cơ bản bao gồm các liên kết "ngắn" không dây ở đầu của sợi cáp quang tại địa phương. Nó sẽ có thêm một "du mục" dịch vụ (như WiFi) chứ không phải là một khu vực rộng lớn "di động" dịch vụ.
+
+
+== Dự án nghiên cứu và phát triển ==
+
+Trong năm 2008, chương trình "5G hệ thống thông tin di động dựa trên chùm tia phân chia nhiều truy cập và chuyển tiếp với sự hợp tác nhóm" được thành lập Hàn Quốc R & D CNTT
+Trong năm 2012, Chính phủ Anh công bố việc thành lập một Trung tâm Đổi mới 5G tại Đại học Surrey - trung tâm nghiên cứu đầu tiên trên thế giới thiết lập riêng cho nghiên cứu điện thoại di động 5G.
+Trong năm 2012, NYU WIRELESS được thành lập như là một trung tâm nghiên cứu đa ngành, tập trung vào nghiên cứu không dây 5G cũng như trong các lĩnh vực khoa học y tế và máy tính. Trung tâm này được tài trợ bởi Quỹ Khoa học Quốc gia và một hội đồng của 10 công ty lớn không dây (tính đến tháng 7 năm 2014), những người phục vụ trong hội đồng quản trị Đại lý công nghiệp của trung tâm. NYU WIRELESS đã tiến hành và công bố đo kênh đó cho thấy rằng tần số sóng milimet sẽ khả thi cho multi-Gigabit mỗi tốc độ dữ liệu thứ hai cho các mạng 5G trong tương lai.
+Trong năm 2012, Ủy ban châu Âu, dưới sự lãnh đạo của Neelie Kroes, cam 50.000.000 € cho nghiên cứu để cung cấp công nghệ điện thoại di động 5G vào năm 2020 Trong đó, Dự án Metis 2020 là lái xe của một số công ty viễn thông, và nhằm đạt cỡ quốc tế đồng thuận rộng rãi trên các điện thoại di động và không dây hệ thống thông tin liên lạc toàn cầu trong tương lai. Mục tiêu kỹ thuật tổng thể Metis là để cung cấp một khái niệm hệ thống hỗ trợ điện thoại di động cao hơn 1000 lần hệ thống quang phổ hiệu quả so với các triển khai LTE hiện tại. Ngoài ra, trong năm 2013 dự án khác đã bắt đầu, gọi là 5GrEEn, liên quan đến dự án Metis và tập trung vào việc thiết kế các mạng Xanh 5G Mobile. Ở đây mục tiêu là để xây dựng hướng dẫn cho các định nghĩa của mạng thế hệ mới với sự chăm sóc đặc biệt của năng lượng hiệu quả, tính bền vững và khả năng chi trả các khía cạnh.
+Trong tháng 11 năm 2013, nhà cung cấp thiết bị viễn thông Trung Quốc Huawei cho biết sẽ đầu tư 600 triệu USD cho nghiên cứu công nghệ 5G trong năm năm tiếp theo. Chủ động nghiên cứu 5G của công ty không bao gồm đầu tư cho công nghệ 5G productize cho các nhà khai thác viễn thông toàn cầu.
+
+
+== Xem thêm ==
+1G
+2G
+3G
+4G
+Web 2.0
+Web 3.0
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+5G Fifth generation Technology 5G Technology Technical Paper

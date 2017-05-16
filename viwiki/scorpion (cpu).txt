@@ -1,0 +1,12 @@
+Scorpion là một nhân bộ xử lý trung tâm được thiết kế bởi Qualcomm để sử dụng trong Snapdragon - hệ thống trên một vi mạch (SoCs) di động của họ. Nó được thiết kế nội bộ, nhưng có nhiều điểm tương đồng với lõi CPU ARM Cortex-A8 và Cortex-A9.
+
+
+== Tổng quan ==
+
+
+== Xem thêm ==
+Krait (CPU)
+So sánh các nhân ARMv7-A
+
+
+== Tham khảo ==

@@ -1,0 +1,28 @@
+Liên minh thiết bị cầm tay mở (OHA) là một hiệp hội gồm 84 công ty để phát triển những tiêu chuẩn mở cho các thiết bị di động. Các công cty thành viên bao gồm Google, HTC, Sony, Dell, Intel, Motorola, Qualcomm, Texas Instruments, Samsung Electronics, LG Electronics, T-Mobile, Sprint Corporation, Nvidia, và Wind River Systems.
+OHA được thành lập vào ngày 5 tháng 11 năm 2007, dẫn đầu bởi Google và 34 thành viên, bao gồm các nhà sản xuất thiết bị cầm tay di động, các nhà phát triển ứng dụng, vài nhà mạng di động và các nhà sản xuất chip. Android, phần mềm đầu tàu  của liên minh, được phát triển dựa trên giấy phép mã nguồn mở, sẽ đối đầu với các nền tảng di động khác từ Apple, Microsoft, Nokia (Symbian), HP (trước kia là Palm), Samsung Electronics / Intel (Tizen, bada), và BlackBerry.
+Như một phần của nỗ lực để truyền bá một nền tảng Android thống nhất, các thành viên OHA cam kết sẽ không sản xuất các thiết bị chạy các nhánh không tương thích của Android.
+
+
+== Các sản phẩm ==
+Cùng lúc thông báo sự thành lập của Liên minh thiết bị cầm tay mở vào tháng 5 năm 2007, OHA cũng giới thiệu Android, một nền tảng điện thoại di động mã nguồn mở dựa trên nhân Linux. Phiên bản truy cập sớm của SDK được cung cấp cho các nhà phát triển vào ngày 12 tháng 11 năm 2007.
+Chiếc điện thoại thương mại đầu tiên chạy Android là HTC Dream (cũng được biết đến với tên gọi T-Mobile G1). Nó đã được chấp thuận bởi Ủy ban Truyền thông Liên ban (FCC) vào ngày 18 tháng 8 năm 2008, và có mặt trên thị trường vào ngày 22 tháng 10.
+
+
+== Các thành viên ==
+Các thành viên của Liên minh thiết bị cầm tay mở gồm:
+
+
+== Xem thêm ==
+Google Nexus
+Tổ chức Symbian
+Tổ chức LiMo
+Liên minh di động mở
+Automotive Grade Linux
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang web chính thức của Open Handset Alliance
+Trang web chính thức của Automotive Grade Linux

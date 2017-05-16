@@ -1,0 +1,35 @@
+Xây dựng là một quy trình thiết kế và thi công nên các cơ sở hạ tầng hoặc công trình, nhà ở. Hoạt động xây dựng khác với hoạt động sản xuất ở chỗ sản xuất tạo một lượng lớn sản phẩm với những chi tiết giống nhau, còn xây dựng nhắm tới những sản phẩm tại những địa điểm dành cho từng đối tượng khách hàng riêng biệt. Tại những nước phát triển, ngành công nghiệp xây dựng đóng góp từ 6-9% Tổng sản phẩm nội địa. Hoạt động xây dựng bắt đầu bằng việc lên kế hoạch, thiết kế, lập dự toán và thi công tới khi dự án hoàn tất và sẵn sàng đưa vào sử dụng.
+Mặc dù hoạt động này thường được xem là riêng lẻ, song trong thực tế, đó là sự kết hợp của rất nhiều nhân tố. Đầu tiên, một nhà quản lý dự án chịu trách nhiệm quản lý công việc chung, sau đó những nhà thầu, kỹ sư tư vấn thiết kế, kỹ sư thi công, kiến trúc sư, tư vấn giám sát... chịu trách nhiệm điều hành, thực hiện và giám sát hoạt động của dự án. Một dự án thành công đòi hỏi một kế hoạch xây dựng hiệu quả, bao gồm việc thiết kế và thi công đảm bảo phù hợp với địa điểm xây dựng và đúng với ngân sách đề ra trong dự toán; tổ chức thi công hợp lý, thuận tiện cho việc chuyên chở, lưu trữ vật liệu xây dựng; đảm bảo các tiêu chuẩn về môi trường, an toàn lao động; giảm thiểu những ảnh hưởng tới cộng đồng...
+
+
+== Các khái niệm ==
+Hoạt động xây dựng bao gồm lập quy hoạch xây dựng, lập dự án đầu tư xây dựng công trình, khảo sát xây dựng, thiết kế xây dựng công trình, thi công xây dựng công trình, giám sát thi công xây dựng công trình, quản lý dự án đầu tư xây dựng công trình, lựa chọn nhà thầu trong hoạt động xây dựng và các hoạt động khác có liên quan đến xây dựng công trình.
+"Công trình xây dựng" là sản phẩm được tạo thành bởi sức lao động của con người, vật liệu xây dựng, thiết bị lắp đặt vào công trình, được liên kết định vị với đất, có thể bao gồm phần dưới mặt đất, phần trên mặt đất, phần dưới mặt nước và phần trên mặt nước, được xây dựng theo thiết kế. Công trình xây dựng bao gồm công trình xây dựng công cộng, nhà ở, công trình công nghiệp, giao thông, thủy lợi, năng lượng và các công trình khác.
+Các hoạt động xây dựng phải tuân thủ theo quy chuẩn xây dựng và tiêu chuẩn xây dựng. Trường hợp áp dụng tiêu chuẩn xây dựng của nước ngoài, thì phải được sự chấp thuận của cơ quan quản lý nhà nước có thẩm quyền về xây dựng.
+"Giấy phép xây dựng" là văn bản pháp lý do cơ quan nhà nước có thẩm quyền cấp cho chủ đầu tư để xây dựng mới, sửa chữa, cải tạo, di dời công trình.
+"Công trường xây dựng" là phạm vi khu vực diễn ra các hoạt động xây dựng đã được sự cho phép của chính quyền. Các thành phần cơ bản hình thành một công trường xây dựng là: Khu lán trại dành cho cán bộ, công nhân; khu vực tập kết vật tư vật liệu; khu vực mà công trình xây dựng được xây dựng trực tiếp trên đó.
+"Thi công xây dựng" công trình bao gồm:
+xây dựng và lắp đặt thiết bị đối với các công trình xây dựng mới
+sửa chữa, cải tạo, di dời, tu bổ, phục hồi; phá dỡ công trình; bảo hành, bảo trì công trình đã có.
+
+
+== Phân loại công trình xây dựng ==
+Các công trình xây dựng thường được phân chia thành 3 loại chính: công trình nhà, công trình cơ sở hạ tầng và công trình công nghiệp. Công trình nhà thường được phân chia theo mục đích sử dụng dùng làm nơi sinh sống (nhà ở) hay là không (trung tâm thương mại, trường đại học, viện nghiên cứu...). Cơ sở hạ tầng bao gồm những công trình phục vụ cộng đồng như đập, cầu, cống, hầm, đường sá... Công trình công nghiệp bao gồm các nhà máy như lọc dầu, hoá chất, nhà máy điện, sản xuất công nghiệp, hầm mỏ.
+
+
+== Xem thêm ==
+Kiến trúc
+Kiến trúc sư
+Kỹ sư xây dựng
+Kết cấu xây dựng cao tầng
+Khoa học xây dựng
+Quản lý xây dựng
+Xây dựng cao tầng
+Thiết kế nội thất
+Chung cư
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

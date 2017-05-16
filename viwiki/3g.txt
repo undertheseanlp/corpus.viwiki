@@ -1,0 +1,163 @@
+3G, hay 3-G, (viết tắt của third-generation technology) là công nghệ truyền thông thế hệ thứ ba, cho phép truyền cả dữ liệu thoại và dữ liệu ngoài thoại (tải dữ liệu, gửi email, tin nhắn nhanh, hình ảnh...).
+Trong số các dịch vụ của 3G, điện thoại video thường được miêu tả như là lá cờ đầu (ứng dụng hủy diệt). Giá tần số cho công nghệ 3G rất đắt tại nhiều nước, nơi mà các cuộc bán đầu giá tần số mang lại hàng tỷ euro cho các chính phủ. Bởi vì chi phí cho bản quyền về các tần số phải trang trải trong nhiều năm trước khi các thu nhập từ mạng 3G đem lại, nên một khối lượng đầu tư khổng lồ là cần thiết để xây dựng mạng 3G. Nhiều nhà cung cấp dịch vụ viễn thông đã rơi vào khó khăn về tài chính và điều này đã làm chậm trễ việc triển khai mạng 3G tại nhiều nước ngoại trừ Nhật Bản và Hàn Quốc, nơi yêu cầu về bản quyền tần số được bỏ qua do phát triển hạ tâng cơ sở IT quốc gia được đặt ưu tiên cao.
+Nước đầu tiên đưa 3G vào khai thác thương mại một cách rộng rãi là Nhật Bản. Năm 2005, khoảng 40% các thuê bao tại Nhật Bản là thuê bao 3G, mạng 2G đang dần biến mất tại Nhật Bản. Người ta cho rằng, vào năm 2006, việc chuyển đổi từ 2G sang 3G sẽ hoàn tất tại Nhật Bản và việc tiến lên thế hệ tiếp theo 3.5G với tốc độ truyền dữ liệu lên tới 3 Mbit/s là đang được thực hiện.
+Sự thành công của 3G tại Nhật Bản chỉ ra rằng điện thoại video không phải là "ứng dụng hủy diệt". Trong thực tế sử dụng điện thoại video thời gian thực chỉ chiểm một phần nhỏ trong số các dịch vụ của 3G. Mặt khác việc tải về tệp âm nhạc được người dùng sử dụng nhiều nhất.
+Thế hệ mạng di động mới (3G) không phải là mạng không dây IEEE 802.11. Các mạng này được ám chỉ cho các thiết bị cá nhân như PDA và điện thoại di động.
+
+
+== Khái niệm ==
+3G là thuật ngữ dùng để chỉ các hệ thống thông tin di động thế hệ thứ 3 (Third Generation). Đã có rất nhiều người nhầm lẫn một cách vô ý hoặc hữu ý giữa hai khái niệm 3G và UMTS (Universal Mobile Telecommunications Systems).
+Mạng 3G (Third-generation technology) là thế hệ thứ ba của chuẩn công nghệ điện thoại di động, cho phép truyền cả dữ liệu thoại và dữ liệu ngoài thoại (tải dữ liệu, gửi email, tin nhắn nhanh, hình ảnh...). 3G cung cấp cả hai hệ thống là chuyển mạch gói và chuyển mạch kênh. Hệ thống 3G yêu cầu một mạng truy cập radio hoàn toàn khác so với hệ thống 2G hiện nay. Điểm mạnh của công nghệ này so với công nghệ 2G và 2.5G là cho phép truyền, nhận các dữ liệu, âm thanh, hình ảnh chất lượng cao cho cả thuê bao cố định và thuê bao đang di chuyển ở các tốc độ khác nhau. Với công nghệ 3G, các nhà cung cấp có thể mang đến cho khách hàng các dịch vụ đa phương tiện, như âm nhạc chất lượng cao; hình ảnh video chất lượng và truyền hình số; Các dịch vụ định vị toàn cầu (GPS); E-mail;video streaming; High-ends games;...
+Quốc gia đầu tiên đưa mạng 3G vào sử dụng rộng rãi là Nhật Bản. Vào năm 2001, NTT Docomo là công ty đầu tiên ra mắt phiên bản thương mại của mạng W-CDMA. Năm 2003 dịch vụ 3G bắt đầu có mặt tại châu Âu. Tại châu Phi, mạng 3G được giới thiệu đầu tiên ở Maroc vào cuối tháng 3 năm 2007 bởi Công ty Wana.
+Để hiểu thế nào là công nghệ 3G, hãy xét qua đôi nét về lịch sử phát triển của các hệ thống điện thoại di động. Mặc dù các hệ thống thông tin di động thử nghiệm đầu tiên được sử dụng vào những năm 1930 - 1940 trong các sở cảnh sát Hoa Kỳ nhưng các hệ thống điện thoại di động thương mại thực sự chỉ ra đời vào khoảng cuối những năm 1970 đầu những năm 1980. Các hệ thống điện thoại thế hệ đầu sử dụng công nghệ tương tự và người ta gọi các hệ thống điện thoại kể trên là các hệ thống 1G.
+Khi số lượng các thuê bao trong mạng tăng lên, người ta thấy cần phải có biện pháp nâng cao dung lượng của mạng, chất lượng các cuộc đàm thoại cũng như cung cấp thêm một số dịch vụ bổ sung cho mạng. Để giải quyết vấn đề này người ta đã nghĩ đến việc số hoá các hệ thống điện thoại di động, và điều này dẫn tới sự ra đời của các hệ thống điện thoại di động thế hệ 2.
+Ở châu Âu, vào năm 1982 tổ chức các nhà cung cấp dịch vụ viễn thông châu Âu (CEPT – Conférence Européene de Postes et Telécommunications) đã thống nhất thành lập một nhóm nghiên cứu đặc biệt gọi là Groupe Spéciale Mobile (GSM) có nhiệm vụ xây dựng bộ các chỉ tiêu kỹ thuật cho mạng điện thoại di động toàn châu Âu hoạt động ở dải tần 900 MHz. Nhóm nghiên cứu đã xem xét nhiều giải pháp khác nhau và cuối cùng đi đến thống nhất sử dụng kỹ thuật đa truy nhập phân chia theo thời gian băng hẹp (Narrow Band TDMA). Năm 1988 phiên bản dự thảo đầu tiên của GSM đã được hoàn thành và hệ thống GSM đầu tiên được triển khai vào khoảng năm 1991. Kể từ khi ra đời, các hệ thống thông tin di động GSM đã phát triển với một tốc độ hết sức nhanh chóng, có mặt ở 140 quốc gia và có số thuê bao lên tới gần 1 tỷ. Lúc này thuật ngữ GSM có một ý nghĩa mới đó là Hệ thống thông tin di động toàn cầu (Global System Mobile).
+Cũng trong thời gian kể trên, ở Mỹ các hệ thống điện thoại tương tự thế hệ thứ nhất AMPS được phát triển thành các hệ thống điện thoại di động số thế hệ 2 tuân thủ tiêu chuẩn của hiệp hội viễn thông Mỹ IS-136. Khi công nghệ CDMA (Code Division Multiple Access – IS-95) ra đời, các nhà cung cấp dịch vụ điện thoại di động ở Mỹ cung cấp dịch vụ mode song song, cho phép thuê bao có thể truy cập vào cả hai mạng IS-136 và IS-95.
+
+
+== Công nghệ 3G ==
+Do có nhận thức rõ về tầm quan trọng của các hệ thống thông tin di động mà ở châu Âu, ngay khi quá trình tiêu chuẩn hoá GSM chưa kết thúc người ta đã tiến hành dự án nghiên cứu RACE 1043 với mục đích chính là xác định các dịch vụ và công nghệ cho hệ thống thông tin di động thế hệ thứ 3 cho năm 2000. Hệ thống 3G của châu Âu được gọi là UMTS. Những người thực hiện dự án mong muốn rằng hệ thống UMTS trong tương lai sẽ được phát triển từ các hệ thống GSM hiện tại. Ngoài ra người ta còn có một mong muốn rất lớn là hệ thống UMTS sẽ có khả năng kết hợp nhiều mạng khác nhau như PMR, MSS, WLAN… thành một mạng thống nhất có khả năng hỗ trợ các dịch vụ số liệu tốc độ cao và quan trọng hơn đây sẽ là một mạng hướng dịch vụ.
+Song song với châu Âu, Liên minh Viễn thông Quốc tế (ITU – International Telecommunications Union) cũng đã thành lập một nhóm nghiên cứu để nghiên cứu về các hệ thống thông tin di động thế hệ 3, nhóm nghiên cứu TG8/1. Nhóm nghiên cứu đặt tên cho hệ thống thông tin di động thế hệ thứ ba của mình là Hệ thống Thông tin Di động Mặt đất Tương lai (FPLMTS – Future Public Land Mobile Telecommunications System). Sau này, nhóm nghiên cứu đổi tên hệ thống thông tin di động của mình thành Hệ thống Thông tin Di động Toàn cầu cho năm 2000 (IMT-2000 – International Mobile Telecommunications for the year 2000).
+Đương nhiên là các nhà phát triển UMTS (châu Âu) mong muốn ITU chấp nhận hệ thống chấp nhận toàn bộ những đề xuất của mình và sử dụng hệ thống UMTS làm cơ sở cho hệ thống IMT-2000. Tuy nhiên vấn đề không phải đơn giản như vậy, đã có tới 16 đề xuất cho hệ thống thông tin di động IMT-2000 (bao gồm 10 đề xuất cho các hệ thống mặt đất và 6 đề xuất cho các hệ thống vệ tinh). Dựa trên đặc điểm của các đề xuất, năm 1999, ITU đã phân các đề xuất thành 5 nhóm chính và xây dựng thành chuẩn IMT-2000. Năm 2007, WiMAX được bổ sung vào IMT-2000:
+
+
+== Tiêu chuẩn 3G thương mại ==
+Công nghệ 3G được nhắc đến như là một chuẩn IMT-2000 của Tổ chức Viễn thông Thế giới (ITU), thống nhất trên thế giới. Tuy nhiên, trên thực tế các nhà sản xuất thiết bị viễn thông lớn trên thế giới đã xây dựng thành 4 chuẩn 3G thương mại chính:
+
+
+=== W-CDMA ===
+Tiêu chuẩn W-CDMA là nền tảng của chuẩn UMTS (Universal Mobile Telecommunication System), dựa trên kỹ thuật CDMA trải phổ dãy trực tiếp, trước đây gọi là UTRA FDD, được xem như là giải pháp thích hợp với các nhà khai thác dịch vụ di động (Mobile network operator) sử dụng GSM, tập trung chủ yếu ở châu Âu và một phần châu Á (trong đó có Việt Nam). UMTS được tiêu chuẩn hóa bởi tổ chức 3GPP, cũng là tổ chức chịu trách nhiệm định nghĩa chuẩn cho GSM, GPRS và EDGE.
+FOMA, thực hiện bởi công ty viễn thông NTT DoCoMo Nhật Bản năm 2001, được coi như là một dịch vụ thương mại 3G đầu tiên. Tuy nhiên, tuy là dựa trên công nghệ W-CDMA, công nghệ này vẫn không tương thích với UMTS (mặc dù có các bước tiếp hiện thời để thay đổi lại tình thế này).
+
+
+=== CDMA 2000 ===
+Một chuẩn 3G quan trọng khác là CDMA2000, là thế hệ kế tiếp của các chuẩn 2G CDMA và IS-95. Các đề xuất của CDMA2000 nằm bên ngoài khuôn khổ GSM tại Mỹ, Nhật Bản và Hàn Quốc. CDMA2000 được quản lý bởi 3GPP2, là tổ chức độc lập với 3GPP. Có nhiều công nghệ truyền thông khác nhau được sử dụng trong CDMA2000 bao gồm 1xRTT, CDMA2000-1xEV-DO và 1xEV-DV.
+CDMA 2000 cung cấp tốc độ dữ liêu từ 144 kbit/s tới trên 3 Mbit/s. Chuẩn này đã được chấp nhận bởi ITU.
+Người ta cho rằng sự ra đời thành công nhất của mạng CDMA-2000 là tại KDDI của Nhật Bản, dưới thương hiệu AU với hơn 20 triệu thuê bao 3G. Kể từ năm 2003, KDDI đã nâng cấp từ mạng CDMA2000-1x lên mạng CDMA2000-1xEV-DO (EV-DO) với tốc độ dữ liệu tới 2.4 Mbit/s. Năm 2006, AU dự kiến nâng cấp mạng lên tốc độ Mbit/s. SK Telecom của Hàn Quốc đã đưa ra dịch vụ CDMA2000-1x đầu tiên năm 2000, và sau đó là mạng 1xEV-DO vào tháng 2 năm 2002.
+
+
+=== TD-CDMA ===
+Chuẩn TD-CDMA, viết tắt từ Time-division-CDMA, trước đây gọi là UTRA TDD, là một chuẩn dựa trên kỹ thuật song công phân chia theo thời gian (Time-division duplex). Đây là một chuẩn thương mại áp dụng hỗn hợp của TDMA và CDMA nhằm cung cấp chất lượng dịch vụ tốt hơn cho truyền thông đa phương tiện trong cả truyền dữ liệu lẫn âm thanh, hình ảnh.
+Chuẩn TD-CDMA và W-CMDA đều là những nền tảng của UMTS, tiêu chuẩn hóa bởi 3GPP, vì vậy chúng có thể cung cấp cùng loại của các kênh khi có thể. Các giao thức của UMTS là HSDPA/HSUPA cải tiến cũng được thực hiện theo chuẩn TD-CDMA.
+
+
+=== TD-SCDMA ===
+Chuẩn được ít biết đến hơn là TD-SCDMA (Time Division Synchronous Code Division Multiple Access) đang được phát triển tại Trung Quốc bởi các công ty Datang và Siemens, nhằm mục đích như là một giải pháp thay thế cho W-CDMA. Nó thường xuyên bị nhầm lẫn với chuẩn TD-CDMA. Cũng giống như TD-CDMA, chuẩn này dựa trên nền tảng UMTS-TDD hoặc IMT 2000 Time-Division (IMT-TD). Tuy nhiên, nếu như TD-CDMA hình thành từ giao thức mang cũng mang tên TD-CDMA, thì TD-SCDMA phát triển dựa trên giao thức của S-CDMA.
+
+
+== Danh sách các nước đã có ứng dụng mạng công nghệ 3G ==
+Argentina (CDMA2000 1x)
+Australia (W-CDMA) (CDMA2000 1x)
+Áo (W-CDMA)
+Azerbaijan (CDMA2000 1x)
+Bahrain (W-CDMA)
+Belarus (CDMA2000 1x,W-CDMA)
+Bỉ (W-CDMA)
+Bermuda (CDMA2000 1x)
+Brasil (CDMA2000 1x)
+Brunei (W-CDMA offered by b.mobile)
+Canada (CDMA2000 1x)
+Chile (CDMA2000 1x)
+Trung Quốc (CDMA2000 1x)
+Colombia (CDMA2000 1x)
+Kypros (W-CDMA)
+Cộng hoà Séc (CDMA2000 1x EV-DO, W-CDMA)
+Đan Mạch (W-CDMA)
+Cộng hoà Dominican (CDMA2000 1x)
+Ecuador (CDMA2000 1x)
+Estonia (W-CDMA by EMT)
+Phần Lan (W-CDMA and Flarion-FlashOFDM)
+Pháp (W-CDMA offered by Orange và SFR)
+Gruzia (CDMA2000 1x)
+Đức (W-CDMA)
+Hy Lạp (W-CDMA)
+Guatemala (CDMA2000 1x)
+Hồng Kông (W-CDMA)
+Hungary (W-CDMA)
+Ấn Độ (CDMA2000 1x)
+Indonesia (CDMA2000 1x)
+Ireland (W-CDMA)
+Israel (W-CDMA, CDMA2000 1x EV-DO)
+Ý (W-CDMA)
+Jamaica (CDMA2000 1x)
+Nhật Bản (W-CDMA, CDMA2000 1x)
+Kazakhstan (CDMA2000 1x)
+Kyrgyzstan (CDMA2000 1x)
+Latvia (W-CDMA by LMT)
+Libya (CDMA2000 1x) *Litva (W-CDMA by Omnitel)
+Malaysia (W-CDMA deployed by Maxis(+HSDPA) và Celcom)
+Mauritius (W-CDMA offered by Emtel)
+México (CDMA2000 1x)
+Moldova (CDMA2000 1x)
+Hà Lan (W-CDMA)
+New Zealand (CDMA2000 1xRTT/EvDO by Telecom New Zealand) (W-CDMA/3GSM by Vodafone)
+Nicaragua (CDMA2000 1x)
+Nigeria (CDMA2000 1x)
+Na Uy (W-CDMA)
+Pakistan (CDMA2000 1x)
+Panama (CDMA2000 1x)
+Peru (CDMA2000 1x)
+Philippines
+Ba Lan (CDMA2000 1x)
+Bồ Đào Nha (W-CDMA offered by TMN, Vodafone và Optimus. CDMA2000-1xEV-DO offered by Zapp Radiomovel [1])
+România (W-CDMA offered by Connex-Vodafone, CDMA2000 1x offered by Zapp Mobile)
+Nga (CDMA2000 1x)
+Singapore (W-CDMA offered by SingTel, Starhub, M1)
+Slovakia (W-CDMA, Flarion, both offered by T-Mobile)
+Slovenia (W-CDMA)
+Hàn Quốc (CDMA2000 1x)
+Cộng hoà Nam Phi (W-CDMA offered by Vodacom và MTN)
+Tây Ban Nha (W-CDMA)
+Sri Lanka (W-CDMA by Dialog, CDMA2000 1x by Suntel)
+Thụy Điển (W-CDMA)
+Thụy Sĩ (W-CDMA, offered by Swisscom and Orange)
+Đài Loan (CDMA2000 1x)(W-CDMA)
+Tajikistan (W-CDMA)
+Thái Lan (CDMA2000 1x)
+Ukraina (CDMA2000 1x)
+Các Tiểu Vương quốc Ả Rập Thống nhất (W-CDMA)
+Vương quốc Liên hiệp Anh và Bắc Ireland (W-CDMA)
+Hoa Kỳ (CDMA2000 1xRTT/EvDO) (W-CDMA in testing)
+Uzbekistan (CDMA2000 1x)
+Venezuela (CDMA2000 1x)
+Việt Nam (W-CDMA offered by VinaPhone, MobiFone and Viettel, CDMA2000 1x EV-DO offered by SFone (SPT), EVN Telecom)
+
+
+== Danh sách các thiết bị sử dụng 3G ==
+Nokia:
+LG:
+Motorola:
+O2:
+SamSung
+Apple
+Sony Ericssion
+HTC
+BlackBerry
+...
+
+
+== Tham khảo ==
+CDMA Development Group - CDMA2000 Operator list
+UMTS Forum - deployment list (as at January 2004)
+3G in Nhật Bản - FAQ
+3GToday.com - CDMA2000 and WCDMA operator list with map, printable list
+
+
+== Xem thêm ==
+2G
+2.5G
+3.5G
+3.75G
+4G
+Evolution to 3G
+3rd Generation Partnership Project (3GPP)
+IP Multimedia Subsystem
+WiBro
+WiMAX
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+ĐTDĐ 3G Việt Nam: Một năm nhìn lại 2007

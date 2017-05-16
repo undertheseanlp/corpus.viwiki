@@ -1,0 +1,16 @@
+Apple S1 là thiết bị được tích hợp trong Apple Watch, và nó được mô tả như là "hệ thống trong một gói" (SiP) của Apple.
+Samsung là nhà cung cấp các thành phần chính, như RAM và bộ nhớ NAND flash, và tự lắp ráp nó, nhưng teardowns tiết lộ rằng RAM và bộ nhớ flash từ Toshiba và Micron Technology.
+
+
+== Công bố ==
+Nó được công bố vào 9 tháng 9 năm 2014 như một phần của sự kiện "Wish we could say more.".
+
+
+== Ngày phát hành ==
+Nó được phát hành lần đầu tiên cùng với Apple Watch, vào tháng 4 năm 2015.
+
+
+== Hình ảnh ==
+
+
+== Tham khảo ==

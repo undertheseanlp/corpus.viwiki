@@ -1,0 +1,70 @@
+4G, hay 4-G, viết tắt của fourth-generation, là công nghệ truyền thông không dây thứ tư, cho phép truyền tải dữ liệu với tốc độ tối đa trong điều kiện lý tưởng lên tới 1 cho đến 1,5 Gb/giây. Tên gọi 4G do IEEE (Institute of Electrical and Electronics Engineers) đặt ra để diễn đạt ý nghĩa "3G và hơn nữa"
+4G còn được hiểu như là ngôn ngữ sử dụng thứ tư trong công nghệ vi tính.
+Công nghệ 4G được hiểu là chuẩn tương lai của các thiết bị không dây. Các nghiên cứu đầu tiên của NTT DoCoMo cho biết, điện thoại 4G có thể nhận dữ liệu với tốc độ 100 Megabyte/giây khi di chuyển và tới 1 Gb/giây khi đứng yên, cho phép người sử dụng có thể tải và truyền lên hình ảnh động chất lượng cao. Mạng điện thoại 3G hiện tại của DoCoMo có tốc độ tải là 384 kilobyte/giây và truyền dữ liệu lên với tốc độ 129 kilobyte/giây. NTT DoCoMo hy vọng đến năm 2010 sẽ có thể đưa mạng 4G vào kinh doanh.
+
+
+== Xem thêm ==
+0G
+PTT
+MTS
+IMTS
+AMTS
+
+0.5G
+Autotel/PALM
+ARP
+
+1G
+NMT
+AMPS
+Hicap
+CDPD
+Mobitex
+DataTac
+
+2G
+GSM
+iDEN
+D-AMPS
+cdmaOne
+PDC
+CSD
+PHS
+
+2.5G
+GPRS
+HSCSD
+WiDEN
+
+2.75G
+CDMA2000 1xRTT
+EDGE
+
+3G
+W-CDMA
+UMTS
+FOMA
+CDMA2000 1xEV
+TD-SCDMA
+UMA
+
+3.5G
+HSDPA
+
+3.75G
+HSUPA
+
+WiMAX
+Mesh networking
+Handover
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Hướng dẫn nghiên cứu 4G
+4G FAQ-Những thắc mắc thường có về 4G
+Xung quanh dự án mạng Dự án nghiên cứu tài chính về 4G.
+Tổng quan về điện thoại 4G Technical White Paper
+Chuẩn bị cho... 4G

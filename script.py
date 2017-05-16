@@ -1,6 +1,7 @@
 from os import listdir
 import codecs
 import wikipedia
+import time
 
 from injector.word_analogies import load_word_analogies
 
@@ -86,5 +87,9 @@ def save_context():
 if __name__ == '__main__':
     wikipedia.set_lang("vi")
     load_context()
-    crawl(recrawl=False, num_pages=200)
+    start = time.time()
+    num_pages=10000
+    crawl(recrawl=False, num_pages=num_pages)
+    end = time.time()
+    print("Get %d pages in %s seconds." % (num_pages, end - start))
     save_context()

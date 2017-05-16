@@ -1,0 +1,41 @@
+Xin xem các mục từ khác có cùng tên ở Lan (định hướng).
+
+LAN (viết tắt từ tên tiếng Anh Local Area Network, "mạng máy tính cục bộ") là một hệ thống mạng dùng để kết nối các máy tính trong một phạm vi nhỏ (nhà ở, phòng làm việc, trường học, …). Các máy tính trong mạng LAN có thể chia sẻ tài nguyên với nhau, mà điển hình là chia sẻ tập tin, máy in, máy quét và một số thiết bị khác.
+Một mạng LAN tối thiểu cần có máy chủ (server), các thiết bị ghép nối (Repeater, Hub, Switch, Bridge), máy tính con (client), card mạng (Network Interface Card – NIC) và dây cáp (cable) để kết nối các máy tính lại với nhau. Trong thời đại của hệ điều hành MS-DOS, máy chủ mạng LAN thường sử dụng phần mềm Novell NetWare, tuy nhiên điều này đã trở nên lỗi thời hơn sau khi Windows NT và Windows for Workgroups xuất hiện. Ngày nay hầu hết máy chủ sử dụng hệ điều hành Windows, và tốc độ mạng LAN có thể lên đến 10 Mbps, 100 Mbps hay thậm chí là 1 Gbps.
+Một hình thức khác của LAN là WAN (Wide Area Network). Có nghĩa là mạng diện rộng. Dùng để nối các LAN lại với nhau (thông qua router).
+Một hình thức khác nữa của mạng LAN, mới xuất hiện trong những năm gần đây là WLAN (Wireless LAN) – mạng LAN không dây.
+
+
+== Lịch sử ==
+Vào thời gian trước khi những máy tính cá nhân xuất hiện, một máy tính trung tâm chiếm trọn 1 căn phòng, người dùng truy nhập những thiết bị đầu cuối máy thông qua cáp truyền dữ liệu tốc độ thấp. Những Mạng SNA của IBM (cấu trúc mạng hệ thống) được tập trung vào những thiết bị đầu cuối liên kết hay những máy tính lớn khác tại những chỗ từ xa qua những đường dây cáp thuê bao. Từ đây nó là những mạng được kết nối trên diện rộng. Những mạng cục bộ LAN (Local Network Area) đầu tiên đã được tạo ra vào cuối những năm 1970 và thường tạo ra những mối liên kết cao tốc giữa vài máy tính trung tâm lớn tại một chỗ. Nhiều hệ thống cạnh tranh được tạo ra vào thời gian này Ethernet và ARCNET được biết đến nhiều nhất.
+Sự phát triển vượt bậc của CP/M – Và sau đó những máy tính cá nhân chạy trên nền DOS có nghĩa rằng có hàng trăm máy tính đã có thể hoạt động đơn lẻ và độc lập với máy tính trung tâm. Sự hấp dẫn ban đầu của mạng máy tính là việc có thể chia sẻ ổ đĩa và những máy in laser, mà là cả hai thứ này rất đắt lúc đó. Có nhiều người hào hứng với khái niệm mới và trong vài năm, từ khoảng 1983 về phía trước, những học giả công nghiệp tin học đều đặn khai báo năm tới sẽ là năm của mạng LAN.
+Trên thực tế, nhận định đó bị lung lay mạnh bởi sự tăng nhanh của các loại lớp vật lý khác nhau và những thủ tục thi hành mạng không tương thích, và sự bối rối về việc làm thế nào để chia sẻ tài nguyên tốt nhất. Điển hình, mỗi nhà cung cấp có một kiểu card mạng riêng của họ, dây cáp, giao thức kết nối, hệ điều hành mạng riêng của họ. Và một giải pháp quan trọng xuất hiện với cái tên NetWare Novell, giải pháp của họ hỗ trợ 40 kiểu card mạng khác nhau, và một hệ điều hành phức tạp hơn so với hầu hết các đối thủ của nó. Phần mềm mạng thống trị các máy tính cá nhân được nối với nhau (LAN) của các doanh nghiệp từ những năm đầu 1983 – khi nó được giới thiệu – cho đến giữa những năm 1990 khi Microsoft giới thiệu hệ điều hành mạng tân tiến Windows NT advanced server và Windows cho nhóm làm việc (Windows for working group).
+Những đối thủ của phần mềm mạng, chỉ có Banyan Vines có những kỹ thuậy mạnh để cạnh tranh nhưng Banyan chẳng bao giờ có một vị thế an toàn. Microsoft và 3Com làm việc cùng nhau tạo ra một hệ điều hành mạng đơn giản, tiền thân 3+Share của 3Com và LAN Manager của Microsoft cũng như LAN Server của IBM. Không một ai trong số trên đặc biệt thành công.
+Trong cùng thời gian với máy tính trạm lớn frame, những trạm làm việc UNIX từ những nhà cung cấp như Sun Microsystems, Hewlett-Packard, Silicon Graphics, Intergraph, NeXT và Apollo sử dụng giao thức TCP/IP. Dù phân đoạn đoạn thị trường cho trạm làm việc chạy trên UNIX đã và đang sụt giảm nhưng những công nghệ được phát triển bởi họ tiếp tục có ảnh hưởng trên Internet và trong cả hai Hệ điều hành Linux Mac OS X của Apple và giao thức TCP/IP gần như hoàn toàn thay thế IPX, AppleTalk, NetBEUI và những giao thức khác được dùng trong buổi đầu mạng LAN được sinh ra. Bài này còn sơ khai.
+
+
+== Miêu tả kỹ thuật ==
+Mặc dầu ngày nay mạng Ethernet chuyển đổi là giao thức thông dụng nhất dùng trong tầng liên kết dữ liệu và IP là giao thức thông dụng nhất trong tầng Network, rất nhiều sự lựa chọn khác nhau đã và đang được sử dụng, và một vài trong số đó trở nên phổ biến trong những lĩnh vực thích hợp. Mạng LAN nhỏ hơn gồm có một hoặc vài liên kết chuyển mạch tới những mạng khác – thường với một liên kết tới một bộ định tuyến, modem cáp, hay DSL modem cho truy nhập Internet.
+Những mạng LAN lớn hơn được mô tả bởi người dùng với những đường dẫn dư thừa và chuyển đổi sử dụng giao thức giải thuật cây để ngăn chặn vòng lặp, khả năng của chúng để điều khiển các loại giao thông khác nhau thông qua chất lượng dịch vụ (QoS), và cô lập giao thông qua VLANs. Mạng LAN lớn hơn cũng bao gồm nhiều và đa dạng các thiết bị như bộ chuyển đổi, tường lửa, bộ định tuyến, bộ cân bằng tải, cảm biến và hơn thế nữa.
+LAN có thể có liên kết với những mạng cục bộ khác thông qua đường thuê bao, dịch vụ thuê bao, hoặc bằng "đường hầm" thông qua mạng Internet sử dụng công nghệ VPN. Tùy thuộc vào cách tạo ra và bảo đảm các liên kết, và độ rộng địa lý của mạng, hệ các mạng LAN này có thể trở thành Mạng liên kết chủ (MAN) hoặc Mạng liên kết diện rộng (WAN), hoặc một phần của Mạng toàn cầu.
+
+
+== Các thiết bị cần thiết ==
+
+
+==== Máy chủ (Server) ====
+– Là một máy tính có CPU tốc độ cao, RAM và ổ đĩa lớn, thường liên kết với các thiết bị ngoại vi khác như máy in (printer, máy quét (scanner), …).
+
+
+==== Máy trạm (Workstation) ====
+Máy trạm đôi khi còn gọi là máy khách (client). Các máy khách kết nối với máy chủ và có thể liên lạc với nhau thông qua máy chủ.
+
+
+== Xem thêm ==
+Mạng máy tính
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

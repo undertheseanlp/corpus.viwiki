@@ -1,0 +1,560 @@
+Men gốm là một lớp thủy tinh có chiều dày từ 0,15–0,4 mm phủ lên bề mặt xương gốm. Lớp thuỷ tinh này hình thành trong quá trình nung và có tác dụng làm cho bề mặt sản phẩm trở nên sít đặc, nhẵn, bóng.
+
+
+== Công thức và nguyên liệu ==
+Men gốm tuy bản chất là thủy tinh nhưng phối liệu không hoàn toàn giống, bởi thủy tinh thông thường khi nấu có thể chứa trong bể khuấy cho đồng nhất và khử bọt. Men khi nóng chảy phải đồng nhất mà không cần một sự trợ giúp cơ học nào, nên phối liệu phải không có vật chất nào không thể tạo pha thủy tinh.
+Do đó, điều cần thiết đầu tiên là phải tạo được một hỗn hợp chảy lỏng đồng nhất ở nhiệt độ mong muốn.
+Trong quá trình nóng chảy và ngay sau đó, các ôxít trong men phản ứng với bề mặt xương gốm để tạo nên một lớp trung gian. Phản ứng này rất quan trọng vì nó ảnh hưởng đến độ bền cơ học của men, nó không chỉ phụ thuộc thành phần hóa học chung của men mà còn phụ thuộc từng ôxít riêng.
+Do đó, điều cần thiết thứ hai là thành phần hóa của men phải gần giống thành phần hóa của xương gốm.
+Quá trình làm nguội (giảm nhiệt) xảy ra ngược với quá trình nung (tăng nhiệt). Nếu hệ số giãn nở nhiệt của men và xương không phù hợp nhau sẽ gây ra bong hoặc nứt men.
+Do đó, điều cần thiết thứ ba là hệ số giãn nở nhiệt của men và xương phải phù hợp nhau.
+Men nung xong phải cứng, nhẵn, bóng (ngoại trừ men mat). Bên cạnh đó, tính trong suốt, không màu, tính sáng bóng của men không phải lúc nào cũng như mong muốn. Nếu xương gốm có màu thì phải dùng men đục để che lấp màu của xương, ngoài ra có thể chế tạo men mat (bề mặt như sáp), men kết tinh và vô số men màu khác.
+Do đó, điều cần thiết thứ tư là thành phần hóa của men phải được điều chỉnh sao cho men có được các tính chất cơ-lý-hoá-quang mong muốn.
+
+
+=== Công thức ===
+Trong công nghiệp thủy tinh thường dùng thành phần % các cấu tử để so sánh, nhưng trong công nghiệp gốm sứ, người ta hay dùng tỷ lệ phân tử và tất nhiên có thể chuyển đổi qua lại giữa hai công thức này. Seger đã đưa ra cách sắp xếp các ôxít có trong thành phần men thành 3 nhóm chính: ôxít bazơ, ôxít axít và ôxít lưỡng tính. Các nhóm này được sắp xếp theo trình tự sau và tập hợp này được gọi là công thức Seger của men:
+R là biểu hiện cho các kim loại sau: Pb, K, Na, Ca, Mg, Ba, Li, Zn. Đối với men màu có thể là Co, Ni, Cu, Mn, Fe.
+Ôxít lưỡng tính nằm xen kẽ giữa ôxít bazơ và ôxít axít, nhóm này chủ yếu là Al2O3. Ôxít axít bao gồm SiO2 là chính, ngoài ra có thể có thêm B2O3.
+Các mol thành phần của ôxít axít và ôxít lưỡng tính được tính quy đổi theo chuẩn của ôxít bazơ. Tổng các mol thành phần của các ôxít bazơ luôn quy về bằng 1.
+
+
+=== Nguyên liệu ===
+Men gốm là một hệ phức tạp gồm nhiều ôxít như Li2O, Na2O, K2O, PbO, B2O3, CaO, ZnO, MgO, Al2O3, Fe2O3, SiO2... được đưa vào dưới các dạng sau:
+Nguyên liệu dẻo (plastic): gồm có cao lanh (kaolin), đất sét (clay), bột talc (steatit), betonit...
+Nguyên liệu không dẻo (nonplastic) dưới dạng khoáng: gồm có trường thạch, đôlômít, đá vôi, cát...
+Nguyên liệu không dẻo dưới dạng hóa chất công nghiệp: BaCO3, Na2CO3, K2CO3, borax (dân gian gọi là hàn the), axít boric, Cr2O3, ZnO... hoặc các loại frit.
+
+Xem thêm trang Matrix-Additional Materials Lists để biết danh sách các nguyên liệu sản xuất men gốm
+
+
+== Sản xuất ==
+
+
+=== Phương pháp cổ điển ===
+Phương pháp này có thể áp dụng cho hầu hết các loại men sống và xuất phát từ rất lâu. Phương pháp này đơn giản chỉ là nghiền phối liệu trong máy nghiền bi gián đoạn đến khi độ mịn qua hết sàng 10.000 lỗ/cm2 (hoặc còn lại dưới 0,5%).
+Trong quá trình nghiền, cần khống chế độ mịn thích hợp vì nếu như nghiền quá mịn men sẽ bị cuốn hoặc bong men, nếu men quá thô sẽ gây nhám bề mặt và tăng nhiệt độ nung một cách đáng kể. Đối với men trắng (đục) và men trong hoặc men cho sứ cách điện, sau khi nghiền cần thiết phải đưa qua máy khử từ để loại bỏ sắt và ôxít sắt (có trong nguyên liệu hoặc do sự mài mòn của máy nghiền). Thông thường men dễ bị lắng làm cho các cấu tử trong men phân bố không đều và gây lỗi sản phẩm, để hạn chế phải dùng các biện pháp như:
+Làm cho men đặc lên (hàm ẩm nhỏ hơn)
+Giảm bớt độ nghiền mịn (men không quá mịn)
+Thêm đất sét, cao lanh hoặc bentonit để tăng độ huyền phù và làm men đặc hơn
+Thêm một ít tinh bột đextrin, keo glutin, keo xenlulô hoặc thêm vào một ít NH3, amon oxalat hoặc một axít yếu...
+
+
+=== Phương pháp frit ===
+
+Phương pháp frit có thể khắc phục được tất cả những nhược điểm của phương pháp cổ truyền, mà quan trong nhất là khắc phục (giảm thiểu) được yếu tố độc hại của những nguyên liệu đưa vào men (như PbO có thể gây ung thư), đồng thời giải quyết bài toán thay thế nguyên liệu khi nguyên liệu khai thác không ổn định về chất lượng và một số nguyên liệu đang có nguy cơ cạn kiệt. Phương pháp này cho phép công nghệ sản xuất men gốm có thể đa dạng hoá trong việc sử dụng nguyên liệu để cho ra những sản phẩm tinh xảo, hạn chế rủi ro trong sản xuất và, hơn thế nữa, có thể cho ra đời những sản phẩm công nghiệp đáp ứng nhu cầu ngày càng cao của thế giới. Phương pháp này bao gồm 2 công đoạn chính:
+Frit hoá: Phối liệu được nấu cho chảy lỏng ở 1300-1450⁰C ở lò quay hoặc lò bể (tương tự lò nấu thuỷ tinh) để hỗn hợp nguyên liệu chuyển hoàn toàn sang pha thuỷ tinh, sau đó làm lạnh rất nhanh để phá vỡ kết cấu khối thuỷ tinh chảy đó. Trong khi tính phối liệu cần lưu ý:
+Trong các loại frit, tỷ lệ ôxít bazơ và SiO2 ít nhất là 1:1 và cao nhất là 1:3.
+Đối với frit kiềm, ứng với 1 mol kiềm phải đưa vào 2,5 mol SiO2 và thường phải đưa thêm CaO hoặc PbO vào để các frit trở thành các chất không tan trong nước.
+Tốt hơn cả là đưa thêm B2O3 theo tỷ lệ sao cho SiO2/B2O3 > 2/1. Nếu frit ngoài SiO2, PbO và B2O3 mà còn có kiềm thì tỷ lệ SiO2/B2O3 thường 1/(1,1-1,5). Nếu nhiều kiềm hơn nữa, cần phải đưa thêm Al2O3 đến mức sao cho không ảnh hưởng đến men cần tạo.
+Thành phần hoá của frit (sau khi nấu) phụ thuộc nhiều vào kiểu lò, thời gian nấu và phụ thuộc lớn vào bản chất nguyên liệu đưa vào phối liệu.
+
+Nghiền men: Một frit có thể có thành phần hoá đáp ứng yêu cầu và có thể coi đó là một men thành phẩm, nhưng nếu nó không đáp ứng đủ thì cần phải có biện pháp bù (tính cấp phối lần 2). Trong quá trình nghiền, cần bổ sung chất tạo huyền phù, chống lắng...
+
+
+== Tính chất ==
+
+
+=== Trạng thái lỏng ===
+
+
+==== Tính chảy lỏng ====
+Men phải chảy lỏng hoàn toàn ở nhiệt độ mong muốn. Kreidl và Weyl đã rút ra những nguyên lý về sự thay đổi dựa trên cấu trúc để men dễ chảy hơn bao gồm 4 yếu tố, trong sản xuất thường những yếu tố này để điều chỉnh sự chảy lỏng của men:
+Giảm ôxít kiềm và cho thêm axít boric, men sẽ dễ chảy hơn, từ đó giảm hệ số giãn nở nhiệt và hạ thấp nhiệt độ nóng chảy của men.
+Tăng ôxít kiềm và giảm SiO2 sẽ làm cho men dễ chảy hơn.
+Thay SiO2 bởi TiO2 hoặc PbO sẽ làm giảm điểm nóng chảy.
+Thay K+ bằng Na+ hoặc Li+ sẽ làm cho men dễ chảy hơn.
+Thay các anion có hóa trị 1 (như Cl-; F-;Br-) bởi các anion có hóa trị 2 sẽ làm yếu cấu trúc men, do đó sẽ làm giảm nhiệt độ nóng chảy.
+Kiến thức về hỗn hợp eutecti của hỗn hợp chứa ôxít nhôm là rất quan trọng vì ôxít nhôm được xem như là một cấu tử chính của men, thế nhưng ôxít nhôm lại là một chất chịu lửa. Khi thêm ôxít nhôm vào men, ban đầu nhiệt độ nóng chảy giảm xuống cho đến điểm eutecti nhưng sau đó lại tăng lên, vì thế cần cho thành phần ôxít nhôm sao cho hỗn hợp gần điểm eutecti nhất.
+Kiến thức về nhiệt độ nóng chảy thấp nhất của một hệ (điểm eutecti) không chỉ hữu dụng trong việc sản xuất men nhiệt độ thấp mà còn hữu dụng trong việc tìm ra một men không bị hoá mềm trong khoảng nhiệt độ mà sản phẩm sẽ được sử dụng.
+
+
+==== Nhiệt độ nóng chảy ====
+Nhiệt độ nóng chảy của men phụ thuộc thành phần phối liệu và các ôxít có mặt trong men. Nhiệt độ nóng chảy của men sẽ thay đổi nếu như có một yếu tố thay đổi, nhưng một số yếu tố sau sẽ dẫn đến sự thay đổi lớn, đó là:
+Thay đổi tỷ lệ ôxít kiềm/SiO2 (tỷ lệ càng lớn, nhiệt độ men càng giảm)
+Thay đổi hàm lượng Al2O3 (tăng Al2O3, nhiệt độ nung sẽ tăng)
+Bản chất các ôxít kiềm (thí dụ đưa vào frit silicat kiềm men sẽ dễ chảy hơn là đưa SiO2 và kiềm)
+Hàm lượng các ôxít kiềm càng lớn, nhiệt độ càng giảm
+Phụ thuộc tỷ lệ B2O3/SiO2 (tỷ lệ càng lớn, nhiệt độ men càng giảm)
+Phụ thuộc độ nghiền mịn của men, men càng mịn, nhiệt độ nóng chảy càng giảm, và
+Phụ thuộc thành phần khoáng của phối liệu (thí dụ Na2O cho vào ở dạng Na2CO3 thì men có nhiệt độ thấp và hoạt tính cao hơn là cho vào dưới dạng trường thạch).
+Để xác định khoảng nhiệt độ nóng chảy của men, có thể dùng công thức tính gần đúng hoặc dùng phương pháp thực nghiệm:
+Công thức xác định khoảng nóng chảy của men: có dạng sau
+K= 
+  
+    
+      
+        
+          
+            
+              
+                a
+                
+                  1
+                
+              
+              .
+              
+                n
+                
+                  1
+                
+              
+              +
+              
+                a
+                
+                  2
+                
+              
+              .
+              
+                n
+                
+                  2
+                
+              
+              +
+              .
+              .
+              .
+              +
+              
+                a
+                
+                  n
+                
+              
+              .
+              
+                n
+                
+                  n
+                
+              
+            
+            
+              
+                b
+                
+                  1
+                
+              
+              .
+              
+                m
+                
+                  1
+                
+              
+              +
+              
+                b
+                
+                  2
+                
+              
+              .
+              
+                m
+                
+                  2
+                
+              
+              +
+              .
+              .
+              .
+              +
+              
+                b
+                
+                  m
+                
+              
+              .
+              
+                m
+                
+                  m
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {a_{1}.n_{1}+a_{2}.n_{2}+...+a_{n}.n_{n}}{b_{1}.m_{1}+b_{2}.m_{2}+...+b_{m}.m_{m}}}}
+  
+Trong đó:
+
+  
+    
+      
+        
+          a
+          
+            1
+          
+        
+      
+    
+    {\displaystyle a_{1}}
+  , 
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+      
+    
+    {\displaystyle a_{2}}
+  ...: là hằng số nóng chảy đối với các ôxit dễ chảy
+
+  
+    
+      
+        
+          n
+          
+            1
+          
+        
+      
+    
+    {\displaystyle n_{1}}
+  , 
+  
+    
+      
+        
+          n
+          
+            2
+          
+        
+      
+    
+    {\displaystyle n_{2}}
+  ...: là hàm lượng các ôxít dễ chảy, tính theo % trọng lượng
+
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+      
+    
+    {\displaystyle b_{1}}
+  , 
+  
+    
+      
+        
+          b
+          
+            2
+          
+        
+      
+    
+    {\displaystyle b_{2}}
+  ...: là hằng số nóng chảy đối với các ôxit khó chảy
+
+  
+    
+      
+        
+          m
+          
+            1
+          
+        
+      
+    
+    {\displaystyle m_{1}}
+  , 
+  
+    
+      
+        
+          m
+          
+            2
+          
+        
+      
+    
+    {\displaystyle m_{2}}
+  ...: là hàm lượng các ôxít khó chảy, tính theo % trọng lượng.
+
+Hằng số nóng chảy của ôxít hoặc hợp chất dễ nóng chảy:
+Hằng số nóng chảy của ôxít hoặc hợp chất khó nóng chảy:
+Bảng tra cứu nhiệt độ nóng chảy (°C) của men theo hệ số K:
+Xác định khoảng nóng chảy của men bằng phương pháp thực nghiệm: có hai phương pháp.
+Nung men ở nhiều vùng có nhiệt độ khác nhau, theo dõi kết quả bề mặt men bằng cách đối chiếu men mẫu và thử nghiệm cơ-lý-hoá, đồng thời căn cứ côn Seger để xác định nhiệt độ vùng nung tương ứng.
+Nung men đồng thời quan sát bằng kính hiển vị chịu nhiệt độ cao, nhiệt độ nung xác định bởi hoả kế.
+
+
+==== Độ nhớt ====
+Men gốm không có điểm nóng chảy xác định mà chỉ có sự thay đổi từ trạng thái dẻo quánh sang trạng thái chảy lỏng. Do vậy độ nhớt cũng sẽ thay đổi theo nhiệt độ, nhiệt độ tăng thì độ nhớt giảm và ngược lại.
+Độ nhớt của men là một tính chất quan trọng chủ yếu quyết định sự thành công của nhiều giai đoạn được thực hiện ở các nhiệt độ khác nhau. Giá trị của nó ở nhiệt độ nóng chảy chỉ rõ men nào có khả năng chảy tràn khỏi bề mặt sản phẩm khi nung và men nào thì không. Độ nhớt trong quá trình hình thành men cũng cho biết sự thoát khí xảy ra (do các phản ứng hoá học) có dễ dàng hay không trong quá trình nung.
+Qua thực nghiệm, có thể rút ra kết luận rằng: các ôxít sau làm tăng độ nhớt của men: SiO2, Al2O3, ZrO2, Cr2O3, SnO2, MgO, CaO. B2O3 đưa vào dưới 12% sẽ làm tăng độ nhớt, nhưng nếu lớn hơn sẽ làm giảm độ nhớt. SrO đưa vào men với hàm lượng nhỏ có tác dụng làm giảm độ nhớt nhưng nếu trên 20% sẽ làm tăng độ nhớt.
+
+
+==== Sức căng bề mặt ====
+Sức căng bề mặt là ứng suất căng tác dụng lên bề mặt lỏng theo chiều hướng thu nhỏ diện tích bề mặt lỏng nếu chất lỏng nằm tự do trong không khí. Morey cho biết đối với các pha silicat nóng chảy, sức căng bề mặt nằm trong khoảng 300 dyn/cm nhưng nó sẽ dao động trong khoảng 150-500 dyn/cm.
+Sức căng bề mặt thường có khuynh hướng thu nhỏ ranh giới tiếp xúc của pha lỏng. Tại ranh giới giữa pha rắn-lỏng-khí sẽ hình thành sức căng bề mặt, điều này đóng vai trò quan trọng trong quá trình thấm ướt. Một số men khi chảy lỏng có khuynh hướng tự co lại thành hình cầu, do đó, nếu muốn tráng 2 men chồng lên nhau, và muốn có ranh giới tiếp xúc sắc nét thì 2 men phải có sức căng bề mặt bằng nhau, nếu không, men có sức căng lớn hơn sẽ co lại và men có sức căng nhỏ hơn sẽ kéo giãn ra.
+Một men có sức căng bề mặt lớn thường gây ra khuyết tật cho sản phẩm như phồng men, rộp men, cuộn men...Trong thực tế, có thể điều chỉnh sức căng bề mặt mà không cần thay đổi thành phần hoá bằng cách thay đổi nhiệt độ nung nhưng để làm điều này điều này nhất thiết phải điều chỉnh phối liệu xương.
+Để xác định sức căng bề mặt men có thể dùng công thức cộng tính hoặc có thể dùng những phương pháp tương tự thuỷ tinh:
+Phương pháp cộng tính: Số liệu để tính sức căng bề mặt của men ở 900 °C (Lưu ý: cứ tăng 100 °C thì xi giảm 0,04 đơn vị.):
+
+Công thức tính sức căng bề mặt có dạng:
+
+  
+    
+      
+        η
+      
+    
+    {\displaystyle \eta }
+   = 
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \sum _{k=1}^{i}}
+   fi.xi
+Trong đó:
+
+  
+    
+      
+        η
+      
+    
+    {\displaystyle \eta }
+  :sức căng bề mặt (dyn/cm).
+fi:hàm lượng % cấu tử i.(0≤xi<100)
+xi:trị số tính sức căng bề mặt tương ứng ôxít i (số liệu tra theo bảng trên).
+Phương pháp thực nghiệm: Cân trọng lượng một giọt men, nung chảy, sau đó:
+So sánh bề mặt thấm ướt của giọt men đó đối với mẫu đã biết trên một bề mặt phẳng, hoặc
+Xác định góc thấm ướt bằng cánh đo ranh giới trong quá trình nóng chảy bằng kính hiển vi nhiệt độ cao.
+
+
+=== Trạng thái rắn ===
+
+
+==== Hệ số giãn nở nhiệt ====
+
+Trong công nghiệp gốm sứ, sự giãn nở nhiệt được biểu diễn theo hệ số giãn nở nhiệt toàn phần và tính bằng % từ 20 °C đến nhiệt độ tới hạn (thông thường khoảng 500-550 °C).
+Sự chênh lệch hệ số giãn nở của men và mộc trong phạm vi hẹp không gây khuyết tật vì men có khả năng đàn hồi trong một phạm vi nhất định. Trong các trường hợp thì độ bền cơ học của sản phẩm tăng nếu men ở trạng thái bị nén do đó cần sử dụng men có hệ số giãn nở nhỏ hơn hệ số giãn nở của xương gốm một ít. Tuy nhiên, nếu chênh lệch quá nhiều, ứng lực sinh ra lớn hơn độ bền thì sẽ có hiện tượng nứt hoặc bong men.
+Hệ số giãn nở nhiệt của men được xác định bằng đilatômét hoặc tính toán bằng công thức. Có nhiều công thức tính, trong đó công thức của Winkelman và Schott được sử dụng nhiều. Winkelman và Schott cho rằng hệ số giãn nở nhiệt của men là quan hệ cộng tính giữa các ôxít thành phần. Công thức tính:
+a = 
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \sum _{k=1}^{i}}
+   pi.xi
+Trong đó
+a: hệ số giãn nở nhiệt của men(1/°C)
+pi: hàm lượng ôxít i trong men, tính theo % trọng lượng
+xi.(10-6): hệ số thực nghiệm đặc trưng cho sự dãn nở của các ôxít trong men.
+Kết quả trung bình tính toán chính xác ±5%, trị số các số liệu tính toán hệ số giãn nở nhiệt của men dùng ở 400–500 °C được thể hiện trong bảng sau:
+
+
+==== Độ cứng ====
+Để xác định độ cứng của men phải dùng phương pháp tương ứng với từng loại sản phẩm, mỗi thông số của độ cứng ứng với một phương pháp kiểm tra. Đối với sản phẩm sứ dân dụng như (chén, bát, đĩa...); gạch men ốp tường; sứ kỹ thuật...người ta xác định độ cứng thông qua độ bền chống lại đường vạch (vết xước) và độ bền lún sản phẩm, còn đối với sản phẩm là gạch lát nền, ống dẫn, các loại trang trí bên ngoài...xác định chủ yếu là đo độ bền chống bào mòn. Cách xác định như sau:
+Xác định độ bền chống rạch: Dùng kim cương hoặc những vật liệu có độ cứng theo thang Mohs. Xác định một trọng lực cần thiết của mũi kim cương vạch một chiều rộng (hay sâu) lên mẫu cần đo, sau đó đối chiếu với vật liệu trong thang Mohs đã xác định trước có vết xước cũng được tạo theo cách trên.
+Độ bền lún: Được đo bằng cách ấn một lực xác định xuống một hình nón bằng kim cương xuống bề mặt của men, khi rút lên để lại một lỗ. Đối chiếu, so sánh với mẫu chuẩn.
+Độ bền chống bào mòn: Được biểu thị bằng độ hao mòn trọng lượng sau khi mài. Có thể mài bằng các phương pháp mài cát (SiO2) hay corunđum. Thông thường người ta dùng phương pháp Scett tức dội cát lên bề mặt sản phẩm ứng với độ cao nhất định và trong một thời gian nhất định. Độ bền chống bào mòn không chỉ biệu hiện cho độ cứng mà còn liên quan đến tính đàn hồi, độ sít đặc và tính dòn của sản phẩm.
+
+
+==== Tính cách điện ====
+Những sản phẩm gốm sứ dùng trong lĩnh vực điện và điện tử ngoài có tiêu chuẩn cao hơn so với các loại gốm khác, đó là hệ số giãn nở nhiệt của xương rất thấp (4,5-6,5.10−5/°C) và yêu cầu độ cách điện cao theo đó, những loại men được sử dụng cần phải đáp ứng.
+Ảnh hưởng của các ôxit có mặt trong pha thuỷ tinh (men) đến độ cách điện tăng theo dãy sau:
+CaO < BaO < B2O3 < PbO < Fe2O3 < MgO < ZnO < SiO2
+Còn các ôxít sau làm giảm điện trở: Al2O3, K2O và Al2O3.
+Quan trọng hơn, men ngoài việc phải bảo đảm tính cách điện, tránh các hiện tượng bong và nứt men khi các chi tiết đó làm việc (nhiệt độ, tần số...) còn phải có tính cản trở được sự tạo vỏ nước đọng lại trên men.
+Có thể sắp xếp các chất tạo thủy tinh theo tứ tự tăng như sau: CaO, BaO, B2O3, Al2O3, Fe2O3, MgO, ZnO, PbO, SiO2..., những ôxít này cản trở sự tạo với nước tương ứng với từng điểm tối ưu của nó. Còn K2O và Na2O thì lại thuận lợi cho việc tạo vỏ nước.
+Khả năng dẫn điện của men gốm là do ảnh hưởng của kiềm, men có hàm lượng kiềm cao càng có độ dẫn điện lớn, theo Hinz, điều này ứng với sự dao động của các ion kiềm trong mạng lưới thuỷ tinh. Có thể sử dụng PbO để hạn chế điều này, khi hàm lượng PbO cao thì sự dao động của các ion kiềm bị đình trệ. Tốt hơn hết là không nên dùng kiềm cho sứ cách điện.
+
+
+==== Độ bền hoá ====
+Yêu cầu về khả năng bền hóa của men phụ thuộc vào lĩnh vực sử dụng chúng: men mỹ nghệ phải có khả năng chống lại sự tàn phá của môi trường và phải chịu được sự rửa không thường xuyên; chén, bát, sản phẩm lát ngoài trời, trong phòng thí nghiệm... phải chịu được sự ăn mòn axít và kiềm ở nhiệt độ sử dụng tới hạn. Độ bền hóa của men liên quan đến cấu trúc của nó và nhiệt độ nung, tuy nhiên không hẳn là vậy, một men có nhiệt độ nung thấp không hẳn có độ bền hóa cao hơn các men nung ở nhiệt độ cao.
+Kreidl và Weyl miêu tả hai cơ chế khác nhau mà các chất hoá học có thể tấn công men:
+Sự tấn công bởi axít: H+ của các axít có thể thay thế các ion kiềm ở trong mạng (men), dần dần hydrat hóa chúng. Cấu trúc chung của men vẫn không thay đổi nhưng sự thay đổi thành phần làm giảm chỉ số khúc xạ của men, gây nên sự nhiễu màu.
+Trong trường hợp này, nên thay Na bởi K hoặc Li; thay kiềm có hoá trị 1 bởi kiềm có hoá trị 2 như CaO, SrO, BaO, MgO, PbO và tốt hơn hết nên thay Zn cho các kim loại có hoá trị 1 và 2.
+
+Sự tấn công bởi kiềm: đầu tiên, HF và một số hoá chất khác có thể tạo nên những hỗn hợp hoà tan silicat sẽ hoà tan men, sau đó kiềm sẽ tấn công, sự hấp phụ OH- vào O của cầu nối Si-O-Si dẫn đến ảnh hưởng lớn đến thành phần bề mặt cũng như cấu trúc men.
+Trong trường hợp này, vấn đề phức tạp hơn nhiều vì phụ thuộc vào sự kết hợp giữa các cấu tử chính và phụ trong men. Ôxít nhôm có thể giải quyết được vấn đề này, tuy nhiên nó thường làm tăng nhiệt độ nóng chảy của men.
+
+Mellor theo dõi phản ứng của nước và những nhân tố ăn mòn chung nhận thấy men có độ phức tạp càng cao thì càng bền, men nhiều kiềm thường kém bền, ảnh hưởng của các ôxít khác theo thứ tự tăng độ bền như sau:
+Li < Na < BaO < CaO < PbO < MgO < ZnO < Al2O3 < ZrO2...
+Mellor cũng kết luận rằng nếu một men được khử ứng suất sẽ có độ bền hoá cao hơn cũng men đó nhưng không khử.
+
+
+== Lớp trung gian ==
+
+Tất cả các loại men trong quá trình nung đều có gắn ít hoặc nhiều đối với xương sản phẩm. W.Sterger cho rằng khi nung men cần phải tạo ra giữa xương và men một lớp trung gian hay lớp quá độ. Lớp này trong một chừng mực nào đó góp phần điều hòa ứng lực xuất hiện giữa xương và men và có tác dụng làm giảm ứng lực. Lớp trung gian này càng dày thì xương và men càng phù hợp nhau. Về mặt hóa lý, đây là một quá trình phúc tạp bao gồm các phản ứng hóa học do bản chất khác nhau giữa xương và men (tính kiềm của men lớn hơn xương và tính axít ngược lại). Song song quá trình phản ứng hóa học còn có quá trình hòa tan, thấm ướt giữa pha lỏng và pha rắn và quá trình kết tinh.
+Sự hình thành lớp trung gian phụ thuộc thành phần xương và men, nhiệt độ nung sản phẩm, thời gian lưu mẫu ở nhiệt độ nung cao nhất, độ xốp của xương sản phẩm cũng như độ tan của từng loại ôxít có trong men. Để tạo lớp trung gian, người ta thường cho thêm vào men axít boric, hoặc các chất kiềm khác, tuy nhiên cần lưu ý hệ số giãn nở nhiệt có thể tăng do các loại ôxít kiềm gây nên.
+Trong các nguyên liệu thì CaCO3, volatonit, đôlômit là những phụ gia trung gian vì nó có tác dụng chống nứt men. Nhưng CaCO3 là tốt hơn cả vì ngoài vai trong tạo lớp trung gian, nó còn cản trở sự trương nở của xương và làm cho các vết nứt sít đặc trở lại.
+
+
+== Màu sắc ==
+Màu sắc của men, giống như màu sắc của mọi đồ vật, là do khả năng hấp phụ và phản xạ của men đối với ánh sáng trong vùng nhìn thấy. Màu của men ứng với các bước sóng được men phản xạ trở lại. Nếu men phản xạ mọi bước sóng ánh sáng, nó có màu trắng; nếu men hấp phụ hoàn toàn mọi bước sóng, không phản xạ lại bước sóng nào, nó sẽ có màu đen. Sự hấp thụ và phản xạ ánh sáng, do đó màu sắc, của men phụ thuộc vào thành phần hoá học của men và đặc biệt là số phối trí của các chất cho các màu khác nhau, gọi là các chất tạo màu men.
+
+
+=== Ôxít hoặc muối của kim loại ===
+aa Ôxít hoặc muối của kim loại có thể làm chất tạo màu cho men. Cách này tương tự thuỷ tinh màu nên thường tạo men trong có màu, cường độ mùa tuỳ thuộc vào hàm lượng (%) ôxít gây màu đưa vào và bản chất men. Những ôxít màu hoặc muối của chúng khi đưa riêng vào men gốm sẽ cho màu thông thường là:
+CoO, Co2O3, Co3O4, Co(OH)2: cho màu xanh.
+NiCO3: cho màu vàng bẩn.
+CuO, Cu2O: cho màu xanh khi nung trong môi trường ôxy hoá, màu đỏ trong môi trường khử.
+Cr2O3: Cho màu lục.
+Sb2O3, Sb2O5 cho màu vàng.
+FeO, Fe2O3, Fe3O4: cho màu đỏ vang, vàng và nâu khi nung trong môi trường ôxy hoá; xanh xám đến xanh đen trong môi trường khử.
+MnCO3: cho màu đen, tìm hoặc đen.
+SnO2: cho màu trắng (men đục).
+ZrO2: cho màu trắng (men đục).
+TiO2: cho màu vàng.
+
+
+=== Chất tạo màu bền nhiệt ===
+Các chất tạo màu bền nhiệt là các chất tạo màu hầu như không tan trong men nóng chảy mà lại phân tán rất đều trong men. Kiểu này thường tạo màu đục gọi là chất tạo màu nhuộm màu men, tạo men trắng đục thường hay dùng cách này. Phương pháp sản xuất các chất màu này như sau:
+Phối liệu tạo màu được trộn và nghiền mịn trong máy nghiền bi ướt hoặc khô (màu dưới men) hoặc tách các kết tủa của các hỗn hợp kim loại sau khi hoàn tan nó vào nước (màu trên men).
+Nung phối liệu trên đến nhiệt độ thích hợp cho sự phát màu.
+Các tảng màu hình thành được nghiền mịn và rửa sạch.
+Pha thêm vào chất màu 30-40% men sứ sẽ được màu vẽ dưới men hoặc 5-10% đất sét dẻo sẽ được màu trên men hoặc pha thêm chất trợ chảy để có màu trong men.
+
+
+==== Công thức phối liệu một số màu dưới men ====
+Màu lam: SnO2.2,5CoO (xanh lam đậm); Al2O3.0,5CoO.0,5ZnO (xanh trời); Al2O3.0,7CoO.0,3NiO (xanh xám)
+Màu lục: Al2O3.0,8CoO.0,2Cr2O3
+Màu xanh lá non: hỗn hợp Cr2O3, CaCO3 và B2O3
+Màu đỏ: được tạo qua việc tạo chất màu hồng, là hỗn hợp SnO2, SiO2, CaO, B2O3 và một ít Cr2O3
+Màu tím đỏ: AuCl3 và caolanh trộn theo tỷ lệ 1/9
+Màu vàng: ZnO.TiO2 hoặc 0,8.0,2Fe2O3.TiO2
+
+
+==== Công thức phối liệu màu vẽ trong men ====
+Loại này có công thức Seger giống nhau: 0,5R2O. 0,5 Ôxít màu. 1-1,5 SiO2
+
+
+==== Công thức phối liệu một số màu trên men ====
+Màu xanh nước biển: 0,25CoO.0,35ZnO.0,1B2O3.0,4PbO.0,5SiO2
+Màu xanh da trời: (15-30)% hỗn hợp (Co.Al2O3) + (85-70)% trợ chảy (PbO.0,5SiO2)
+Màu nâu: 20% hỗn hợp (Fe2O3.Cr2O3) + 80% trợ chảy (PbO.0,5SiO2)
+Màu đỏ vang: (17-20)% Fe2O3 + (83-80)% trợ chảy (PbO.0,5SiO2)
+Màu cam: 18% hỗn hợp (Fe2O3.Al2O3) + 82% trợ chảy (PbO.0,78SiO2.0,24B2O3)
+Xem thêm trang Rock-team và Bảng mã màu-thành phần hoá-nhiệt độ sử dụng các màu của Rock-team.
+
+
+== Phân loại ==
+Có nhiều cách để phân loại men, đó là:
+
+
+=== Theo thành phần ===
+Men chì: có hai loại nhỏ:
+Men có PbO và B2O3 và
+Men có PbO mà không có B2O3
+
+Men không chứa chì: có hai loại:
+Men chứa B2O3, và
+Men không chứa B2O3 có hàm lượng kiềm cao và men không chứa B2O3 có hàm lượng kiềm thấp.
+
+
+=== Theo cách sản xuất ===
+Men sống: là loại men được tạo từ những nguyên liệu khoáng như đất sét, cao lanh, trường thạch... và các chất chảy, ngoài ra có thể có các ôxít mang màu. Men này có thể chứa PbO hoặc không và thường thuộc loại nhóm có hàm lượng kiềm thấp.
+Men frit: là loại men đã được nấu chảy (frit hoá) trước đó.
+Men muối: là men được tạo thành do các chất bay hơi và bám lên bề mặt sản phẩm tạo thành một lớp men, men muối cũng thuộc nhóm men có hàm lượng kiềm thấp.
+Men tự tạo: là phối liệu xương trong quá trình nung tự hình thành trên bề mặt sản phẩm một lớp tương đối nhẵn và bóng.
+
+
+=== Theo nhiệt độ nung ===
+Men khó chảy: là những loại men có nhiệt độ nóng chảy cao (1.250-1.450 °C), có độ nhớt lớn và thường là men kiềm thổ, men trường thạch hoặc men đá vôi. Loại men này có hàm lượng SiO2 cao và hàm lượng kiềm thấp. Nguyên liệu thường dùng để sản xuất loại men này là: cát, trường thạch, pegmatit, đá vôi, đá phấn, đôlômít, talc, cao lanh, đất sét... đó cũng là những nguyên liệu không tan trong nước nên phương pháp sản xuất các loại men này gọi là cách sản xuất men sống. Thành phần của các loại men này có giới hạn như sau:
+1RO.0,35-0,5Al2O3.3,5-4,5SiO2 (men có nhiệt độ nung 1.230-1.350 °C).
+1RO.0,5-1,2Al2O3.5,0-6,2SiO2 (men có nhiệt độ nung 1.350-1.435 °C).
+
+Men dễ chảy: là những loại men có nhiệt độ nóng chảy thấp hơn 1.250 °C. Đây là những loại men nghèo SiO2 nhưng giàu kiềm và các ôxít kim loại khác. Men loại này có thể là men chì hoặc không chì, trong trường hợp men chì hoặc men chứa những hợp chất dễ chảy nhưng có khả năng hoà tan trong nước thì phải frit hoá trước. Thành phần của các loại men này có giới hạn như sau:
+1RO.0,1-0,4Al2O3.1,5SiO2.(0-0,5)B2O3 (men có nhiệt độ nung 900-1.100 °C) hoặc
+1RO.0,1-(0-0,25)Al2O3.(0,6-3)SiO2.(0,1-0,725)B2O3 (men có nhiệt độ nung 1.000-1.080 °C)...
+Men muối có thành phần như sau: 1Na2O.0,5Al2O3.2,8SiO2 hay là 1Na2Al2O3.5,5SiO2.
+
+
+=== Theo thẩm mỹ ===
+
+Về mặt mỹ thuật, men được sử dụng như là một hình thức trang trí, các sản phẩm được trang trí bởi hình thức này là những bình gốm, chậu hoa, các loại tượng...
+Men chảy: thường được trang trí lên sản phẩm gốm mịn. Khi nung dó đặc tính men (độ nhớt và sức căng bề mặt) của lớp men nền và lớp men phủ khác nhau, thường thì lớp men phủ có độ nhớt thấp hơn, sức căng bề mặt bé nên chảy mạnh và (thậm chí) hoà trộn một phần vào lớp men nền. Ở nhiệt độ nung, men chảy phủ lên lớp men nền tạo một bề mặt sản phẩm với màu sắc hoặc sự kết tinh từng mảng.
+Để nhận được men này, pha thêm vào men khoảng 25% chất trợ chảy (PbO.SiO2) và một lượng ôxít màu hoặc chất màu.
+
+Men rạn: Nếu chủ động tính toán cấp phối sao cho hệ số giãn nở nhiệt của men và xương chênh lệch nhau, bề mặt lớp men sẽ có sự rạn nhất định (rạn chân chim, rạn hạt vừng). Với men rạn, lớp men càng dày thì độ rạn càng sâu và càng đảm bảo. Để có sự chênh lệch hệ số giãn nở nhiệt của men và xương phải giảm bớt lượng SiO2; CaO của xương (và) hoặc tăng lượng các ôxít có hệ số giãn nở riêng phần lớn của men (tăng Na2O, K2O... và giảm Al2O3).
+Men rạn, màu xanh Thổ Nhĩ Kỳ (turquoise) được thể chế tạo bằng cách thêm 3% CuO vào men 0,7Na2O.0,3CaO.3SiO2.
+Men rạn, mờ nhiệt độ nung 1.060-1.100 °C có thành phần: 0,4Li2O.0,16Na2O.0,44CaO.0,22Al2O3.2,6SiO2.
+
+Men kết tinh: Nếu thành phần men có những cấu tử gây mầm kết tinh, khi làm nguội nếu độ nhớt của men đủ nhỏ để các mầm kết tinh tự lớn lên sẽ nhận được men kết tinh. Quá trình kết tinh diễn ra 2 giai đoạn: đầu tiên là giai đoạn tạo mầm (ứng với khoảng nhiệt độ tạo ra số mầm kết tinh nhiều nhất) và giai đoạn mầm tinh thể lớn lên (khoảng nhiệt độ làm mầm tinh thể phát triển kích thước lớn nhất).
+Chất tạo mầm phổ biến nhất là impfen có công thức 2ZnO.SiO2 được tạo bằng cách trộn ZnO và SiO2 theo tỷ lệ trên, đồng thời thêm vào 10%Pb3O4 hoặc 20% ôxít kiềm. Khi nấu chảy thu được frit đục với các mầm tinh thể 2ZnO.SiO2.
+
+Men sần (matt): Khi thêm vào men gốc (bóng) một số ôxít khó chảy, hay ôxít màu như Cr2O3, CuO, Fe2O3, TiO2.. (10-30%) hoặc SnO2 (10%) ta được men sần. Ở nhiệt độ nóng chảy men gốc, các ôxít trên phân bố đều trên mặt men nhưng không nóng chảy và không tan lẫn với men gốc, khi làm nguội các phần tử khó chảy đó tạo nên lớp sần sùi, bề mặt nhám.
+Men co: Là loại men khi nóng chảy thì co cụm lại dẫn đền bề mặt men chỗ dày, chỗ mỏng, thậm chí để lại khoảng trống không men trên bề mặt sản phẩm. Thành phần men này phải chức các ôxít có sức căng bề mặt lớn như Al2O3, MgO, ZnO, CaO, SnO2, NiO, V2O5 hoặc Cr2O3.
+Ở nhiệt độ nung 1.040 °C, nếu thêm 8-10% màu vàng ZrO2-V2O5 vào gốc men 0,5PbO.0,2CaO.0,2ZnO.0,1MgO.0,18Al2O3.1,7SiO2 sẽ nhận được một men co đẹp.
+
+Men khử: Nhận được bằng cách dùng môi trường lúc nung (nung hoàn nguyên) và chủ yếu lúc làm nguội sản phẩm để khử các ôxít màu đến trạng thái kim loại. Tuỳ bản chất nguyên tố kim loại được pha vào men và tuỳ thuộc điều kiện thừa hay thiếu CO của môi trường nung mà mặt men có sắc thái khác nhau.
+Men ngũ sắc: là loại men có bề mặt được tạo bởi một lớp mỏng kim loại màu khi nhìn vào thấy giống hiện tượng vết dầu loang trên mặt nước. Để có men ngũ sắc đẹp thường sử dụng các muối kim loại của Co, Cu, Fe, Ag, Bi...
+Men celadon (hay men ngọc): chính là màu xanh của Fe2+ (của Fe0 và có thể bị khử một phần về Fe. Thực tế màu men Seladon ít đồng nhất mà thường biến đổi từ lục xám nhẹ đến lục ngả vàng. Có thể nhận màu Seladon giả nhưng đồng nhất bằng cách tạo chất màu Seladon trước, sau đó phun màu lên sản phẩm và tráng thêm một lớp men trong.
+Men đỏ huyết dụ (hay đỏ đồng): có bản chất chính là men khử do CuO chuyển về dạng kim loại ở dang keo đồng và phân bố đều trong men. Cơ chế tạo ra keo đồng theo phản ứng:
+
+SnO + CuO = Cu +SnO2
+CuO+CO = Cu+CO2.
+Hàm lượng chất khử, thời gian khử phải thực nghiệm để rút ra thông số kỹ thuật chính xác. Khi môi trường khử quá đậm, thời gian khử quá dài, sản phẩm sẽ chuyển một phần sang nâu hoặc xám đen.
+
+
+== Tham khảo ==
+
+Industrial Ceramics-Felix Singer and Sonja S. Singer; Chapman Hall Ltd. London (1963). Xem chương 6: Glazes, trang 525-660.
+Kỹ thuật sản xuất gốm sứ-Tô Đông Hải.
+
+
+== Xem thêm ==
+Thủy tinh
+Gốm
+
+
+== Liên kết ngoài ==
+Trang web Công ty TNHH Frit Huế
+Thành phần hoá học một số loại men Frit
+Trang web Fritta
+Trang web của Glazura s.r.o-Cộng hòa Séc
+Men gốm tại Từ điển bách khoa Việt Nam

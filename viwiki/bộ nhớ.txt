@@ -1,0 +1,34 @@
+Bộ nhớ máy tính (tiếng Anh: Computer data storrage), thường được gọi là ổ nhớ (storage) hoặc bộ nhớ (memory), là một thiết bị công nghệ chứa đựng các phần tử máy tính và ghi nhớ thông tin, được dùng để duy trì dữ liệu số. Nó là một linh kiện căn bản và chức năng lõi của các máy tính.
+Bộ nhớ máy tính bao gồm các bộ nhớ điện tĩnh (non-volatile memory) để lưu trữ được dữ liệu của máy tính một cách lâu dài (khi kết thúc một phiên làm việc của máy tính thì dữ liệu không bị mất đi), hoặc bộ nhớ điện động (volatile memory) để lưu dữ liệu tạm thời trong quá trình làm việc của máy tính (khi kết thúc một phiên làm việc của máy tính thì bộ nhớ này bị mất hết dữ liệu).
+Các thiết bị lưu trữ dữ liệu cho bộ nhớ lâu dài bao gồm: Đĩa cứng, Đĩa mềm, Đĩa quang, Băng từ, ROM, các loại bút nhớ...
+Các thiết bị lưu trữ dữ liệu tạm thời trong quá trình làm việc: RAM máy tính, Cache...
+Hầu hết các bộ nhớ nêu trên thuộc loại bộ nhớ có thể truy cập dữ liệu ngẫu nhiên, riêng băng từ là loại bộ nhớ truy cập tuần tự.
+Bộ nhớ máy tính có thể chia thành hai dạng: Bộ nhớ trong và bộ nhớ ngoài.
+
+
+== Bộ nhớ trong ==
+Bộ nhớ trong được hiểu là các loại bộ nhớ nằm nội bộ bên trong thùng máy.
+Bộ nhớ đệm nhanh (cache memory):
+Tốc độ truy xuất nhanh;
+Thường nằm trong CPU, một số cache cũ có thể nằm ngoài CPU: như các cache trên đế cắm kiểu slot 1, hoặc cache dạng thanh, có thể tháo rời giống như các thanh RAM ngày nay;
+Bao gồm Cache L1 và Cache L2, Cache L3 (L3 chỉ có ở một số CPU) có tốc độ truy xuất gần bằng tốc độ truyền dữ liệu trong CPU;
+
+Bộ nhớ chính (main memory);
+Bộ nhớ RAM (Random access memory), hay Bộ nhớ truy cập ngẫu nhiên: Tốc độ truy cập nhanh, lưu trữ dữ liệu tạm thời, dữ liệu sẽ bị mất đi khi bị cắt nguồn điện;
+Bộ nhớ ROM (Read Only Memory), hay Bộ nhớ chỉ đọc: Lưu trữ các chương trình mà khi mất nguồn điện cung cấp sẽ không bị (xóa) mất. Ngày nay còn có công nghệ FlashROM tức bộ nhớ ROM không những chỉ đọc mà còn có thể ghi lại được, nhờ có công nghệ này BIOS được cải tiến thành FlashBIOS.
+
+
+== Bộ nhớ ngoài ==
+Bộ nhớ ngoài được hiểu là bộ nhớ máy tính gắn bên ngoài thùng máy, có thể dùng để mang đi lại được.
+Bao gồm:
+Bộ nhớ từ: đĩa cứng, Đĩa mềm,...
+Bộ nhớ quang: CD, DVD,...
+Bộ nhớ bán dẫn: flash disk, thẻ nhớ...
+Các loại bộ nhớ dựa trên công nghệ FlashROM: Kết hợp với chuẩn giao tiếp máy tính USB (Universal Serial Bus) tạo ra các bộ nhớ máy tính di động thuận tiện và đa năng như: Các thiết bị giao tiếp USB lưu trữ dữ liệu, thiết bị giao tiếp USB chơi nhạc số, chơi video số; khóa bảo mật qua giao tiếp USB; thẻ nhớ... Dung lượng thiết bị lưu trữ FlashROM đã lên tới 32GB (Samsung,Intel công bố năm 2005), trong tương lai, có thể FlashROM sẽ dần thay thế các ổ đĩa cứng, các loại đĩa CD, DVD...
+Cách phân biệt trong và ngoài như trên chỉ mang tính tương đối. Ví dụ các loại ổ cứng, ổ đĩa CD có thể gắn ngoài (qua giao tiếp USB, SATA)tốc độ truy cập nhanh. Ổ đĩa mềm có thể đặt vào máy, lấy ra khỏi máy dễ dàng. dung lượng bé tốc đọ quay chậm, tốc độ truy cập chậm. Đĩa CD và USB là những thiết bị nhớ có dung lượng tương đối cao đến hàng 100 MB và vài GB.
+
+
+== Cách thức lưu trữ ==
+
+
+== Tham khảo ==

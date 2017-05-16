@@ -1,0 +1,80 @@
+1080p (còn được gọi là Full HD hay FHD và BT.709) là một tập hợp các màn hình HDTV độ nét cao chế độ đặc trưng của 1080 dòng ngang theo chiều dọc phân giải  và quét liên tục, như là trường hợp của chuẩn hiển thị 1080i. Thuật ngữ này thường cho một màn hình rộng tỉ lệ của 16: 9, tương ứng với độ phân giải 1920x1080 (2.1 megapixel) thường được quảng cáo là Full HD.
+
+
+== Tiêu chuẩn phát sóng ==
+
+Bất kỳ thiết bị hiển thị mà quảng cáo 1080p thường đề cập đến khả năng chấp nhận tín hiệu 1080p ở định dạng độ phân giải gốc, có nghĩa là màn hình sẽ hiển thị đúng 1920 điểm ảnh chiều rộng và 1.080 pixel chiều cao, màn hình hiển thị không phải là quá trình quét, dưới quét, hoặc reinterpreting tín hiệu đến một độ phân giải thấp hơn. Các 1080p HD sẵn sàng chương trình logo, bởi DIGITALEUROPE, đòi hỏi các bộ truyền hình được chứng nhận hỗ trợ độ phân giải 1080p 24 fps, 50 fps 1080p, 1080p và 60 định dạng fps, trong số các yêu cầu khác, với fps nghĩa khung hình mỗi giây.
+Đối với các ứng dụng truyền hình trực tiếp, một độ nét cao định dạng quét liên tục hoạt động ở độ phân giải 1080p ở 50 hoặc 60 khung hình mỗi giây hiện đang được đánh giá là một tiêu chuẩn tương lai cho việc di chuyển mua lại bức tranh. EBU đã được ủng hộ 1080p50 như một tương lai- chứng minh định dạng sản xuất vì nó cải thiện độ phân giải và không yêu cầu phải deinterlacing, cho phép phát sóng của 1080i25 tiêu chuẩn và tín hiệu 1080p50 720p50 cùng ngay cả trong các cơ sở hạ tầng hiện tại và tương thích với DCI dạng phân phối.
+1080p50 / P60 dạng sản xuất sẽ yêu cầu một phạm vi hoàn toàn mới của thiết bị phòng thu bao gồm máy ảnh, lưu trữ và hệ thống biên tập, và liên kết đóng góp (như Dual-link HD-SDI và 3G-SDI) vì nó đã tăng gấp đôi tốc độ dữ liệu của hiện tại 50 hoặc 60 khung interlaced 1920x1080 từ 1,485 Gbit / s với danh nghĩa 3 Gbit / s sử dụng mã hóa RGB không nén. Hầu hết các phiên bản hiện tại của SMPTE 372M, 424M SMPTE và EBU Tech 3299 đòi hỏi YCbCr không gian màu sắc và 4: 2: 2 chroma mẫu phụ để truyền 1080p50 (trên danh nghĩa 2,08 Gbit / s) và tín hiệu 1080p60.
+Các nghiên cứu gần đây cho thấy rằng đối với chương trình phát sóng kỹ thuật số nén với H.264 / AVC, tiết kiệm băng thông truyền tải video interlaced trên video đầy đủ tiến bộ là tối thiểu, ngay cả khi sử dụng gấp đôi tỷ lệ khung hình, tức là, tín hiệu 1080p50 (50 khung hình tiên tiến trong một giây) thực sự sản xuất giống tốc độ bit như tín hiệu 1080i50 (25 khung hình interlaced hay 50 tiểu lĩnh vực trong một giây)
+
+
+=== ATSC ===
+Tại Hoa Kỳ, các ban tiêu chuẩn ATSC HDTV hỗ trợ video 1080p, nhưng chỉ ở tốc độ khung hình của 23,976, 24, 25, 29,97 và 30 khung hình mỗi giây (thông tục gọi là 1080p24, 1080p25 và 1080p30).
+Trong tháng 7 năm 2008, các tiêu chuẩn ATSC đã được sửa đổi để bao gồm H.264 / MPEG-4 AVC nén và 1080p với tốc độ 50, 59,94 và 60 khung hình mỗi giây (1080p50 và 1080p60). Như vậy tỷ lệ khung hình đòi hỏi H.264 / AVC cao Level 4.2, trong khi tỷ lệ khung hình HDTV chuẩn chỉ cần cấp 4.0.
+Bản cập nhật này có thể sẽ không dẫn đến sự phổ biến của trình 1080p60, vì hầu hết các máy thu kỹ thuật số hiện tại sử dụng sẽ chỉ có thể giải mã cũ, kém hiệu quả hơn MPEG-2 codec, và bởi vì có một số lượng hạn chế băng thông cho subchannels.
+
+
+=== DVB ===
+Tại châu Âu, các tín hiệu 1080p25 đã được hỗ trợ bởi các bộ phần mềm DVB các tiêu chuẩn phát sóng. Các 1080p50 được coi là một định dạng tương lai chứng minh sản xuất và, cuối cùng, một phát sóng định dạng trong tương lai 1080p50 phát sóng nên yêu cầu băng thông tương tự như tín hiệu 1080i50 và chỉ 15-20% nhiều hơn so với tín hiệu 720p50 do quá trình nén tăng hiệu quả, mặc dù sản xuất 1080p50 đòi hỏi nhiều băng thông và / hoặc hiệu quả hơn các codec như JPEG 2000, cao-bitrate MPEG-2, hay H.264 / AVC và HEVC.
+Từ tháng 9 năm 2009, ETSI và EBU, các nhà bảo trì của bộ phần mềm DVB, thêm hỗ trợ cho tín hiệu 1080p50 mã hoá với MPEG-4 AVC cao Level 4.2 với Scalable Video Coding mở rộng hoặc VC-1 chi tiết hồ sơ nén; DVB cũng hỗ trợ độ phân giải 1080p mã hoá ở tốc độ khung hình của ATSC 23,976, 24, 29,97, 30, 59,94 và 60.
+EBU đòi hỏi rằng di sản của MPEG-4 AVC giải mã nên tránh rơi vào sự hiện diện của các gói SVC và / hoặc 1080p50 (và độ phân giải cao hơn). SVC cho phép khả năng tương thích với 1080p50 và 1080p60 phát sóng cũ thu MPEG-4 AVC, để họ sẽ chỉ nhận ra dòng SVC cơ bản được mã hóa với độ phân giải hoặc khung tỷ lệ thấp hơn (chẳng hạn như 720p60 hoặc 1080i60) và duyên dáng sẽ bỏ qua gói tin bổ sung, trong khi phần cứng mới hơn sẽ có khả năng giải mã tín hiệu đầy đủ độ phân giải (như 1080p60).
+
+
+== Các ứng dụng sản phẩm ==
+
+
+=== Chương trình phát sóng ===
+Tại Hoa Kỳ, 1080p over-the-air chương trình phát sóng vẫn không tồn tại như trong tháng 3 năm 2015; tất cả các mạng lớn hoặc sử dụng hoặc 720p60 1080i60 mã hóa với MPEG-2. Tuy nhiên, các dịch vụ truyền hình vệ tinh (ví dụ, DirecTV, XstreamHD và Dish Network) sử dụng các 1080p / 24-30 với định dạng MPEG-4 AVC / H.264 mã hóa cho pay-per-view phim được tải về trước qua vệ tinh hoặc theo yêu cầu qua băng thông rộng. Tại thời điểm này, không có kênh dịch vụ trả tiền như Mỹ, HDNET, vv cũng không kênh phim phải trả tiền như HBO, vv, dòng dịch vụ của họ sống để các nhà phân phối của họ (MVPD) ở định dạng này bởi vì nhiều MVPDs, đặc biệt là DBS và cáp điện, làm không có đủ băng thông để cung cấp những định dạng trực tiếp đến các thuê bao của họ mà không ảnh hưởng tiêu cực đến các dịch vụ hiện tại của họ. Ngoài ra là cao "chi phí" của việc sử dụng băng thông cao hơn cho một 1080p / 24 kênh hơn là cần thiết cho một 1080i hoặc thậm chí là một kênh 720p và cho những chỉ tương đối ít các thuê bao có các thiết bị có thể hiển thị HDTV 1080p / 24 được sử dụng hiệu quả băng thông hạn chế của họ.
+Đối với vật liệu có nguồn gốc từ một nguồn tiến bộ quét 24 khung hình / s (như phim), MPEG-2 cho phép các đoạn video được mã hoá là 1080p24, bất kể định dạng đầu ra cuối cùng. Các khung hình dần dần được mã hóa được gắn thẻ với siêu dữ liệu (theo nghĩa đen, các lĩnh vực của tiêu đề PICTURE) hướng dẫn một bộ giải mã như thế nào để thực hiện một 3: 2 pulldown để interlace họ. Trong khi sản lượng chính thức của quá trình giải mã MPEG-2 từ trạm như là 1080i60, nội dung thực tế này mang mã 1080p24 và có thể được xem như vậy (sử dụng một quá trình gọi là nghịch đảo telecine) vì không có thông tin bị mất ngay cả khi các đài truyền hình thực hiện 3: 2 pulldown.
+
+
+=== Đĩa Blu-ray ===
+Đĩa Blu-ray có thể chứa nội dung HD 1080p, và hầu hết các phim phát hành trên đĩa Blu-ray tạo ra một bức tranh đầy đủ 1080p HD khi người chơi được kết nối với một 1080p HDTV thông qua cổng HDMI cáp. Các đặc điểm kỹ thuật đĩa video Blu-ray cho phép mã hóa của 1080p23.976, 1080p24, 1080i50 và 1080i59.94. Nói chung loại này của video chạy ở 30-40 megabits mỗi giây, so với 3,5 megabit mỗi giây cho chương trình phát sóng độ nét tiêu chuẩn thông thường
+
+
+=== Điện thoại thông minh ===
+Điện thoại thông minh với màn hình 1080p FullHD đã có sẵn trên thị trường từ năm 2012. Tính đến cuối năm 2014 là tiêu chuẩn cho giữa điện thoại thông minh cao cấp và rất nhiều các thiết bị hàng đầu của năm 2014 sử dụng độ phân giải cao hơn.
+
+
+=== Nội dung Internet ===
+Một số trang web, bao gồm YouTube, cho phép các video được tải lên trong các định dạng 1080p. YouTube suối nội dung 1080p với tốc độ khoảng 4 megabit mỗi giây so với Blu-ray của 30-40 megabits mỗi giây. phân phối kỹ thuật số dịch vụ cũng cung cấp nội dung 1080p, chẳng hạn như phim có sẵn trên đĩa Blu-ray và / hoặc từ các nguồn phát sóng. Điều này có thể bao gồm các dịch vụ phân phối như các trang web peer-to-peer và mạng lưới theo dõi công cộng hay tư nhân.
+Netflix là cung cấp SuperHD nội dung ở Mỹ và các nước khác thông qua các nhà cung cấp Internet chọn kể từ năm 2013
+
+
+=== TV tiêu dùng và máy chiếu ===
+Tính đến năm 2012, hầu hết các TV tiêu dùng được bán cung cấp đầu vào 1080p, chủ yếu thông qua HDMI và hỗ trợ độ phân giải full HD. Độ phân giải 1080p có sẵn trong tất cả các loại truyền hình, như plasma, LCD, DLP trước và chiếu phía sau và chiếu LCD.
+Để hiển thị các tín hiệu 1080i60 phim dựa trên một chương trình gọi là 3: 2 pulldown đảo ngược (reverse telecine) đang bắt đầu xuất hiện trong một số màn hình 1080p mới hơn, có thể tạo ra hình ảnh chất lượng 1080p thực sự từ chương trình 1080i60 dựa trên phim. Tương tự như vậy, 25fps phát sóng nội dung tại 1080i50 chưa deinterlaced đến nội dung 1080p mà không làm giảm chất lượng hay độ phân giải.
+Các nhà sản xuất thiết bị AV đã thông qua các hạn Full HD để có nghĩa là một tập hợp có thể hiển thị tất cả các độ phân giải HD có sẵn lên đến 1080p. Thuật ngữ này là sai lầm, tuy nhiên, bởi vì nó không đảm bảo các bộ có khả năng dựng hình video kỹ thuật số tại tất cả các tốc độ khung hình được mã hóa trong các tập tin nguồn với độ phân giải dọc 1.080 pixel. Đáng chú ý nhất, một "Full HD" tập hợp không được bảo đảm để hỗ trợ các định dạng 1080p24, dẫn đến sự nhầm lẫn của người tiêu dùng.
+DigitalEurope (trước đây là EICTA) duy trì sự sẵn sàng 1080p HD chương trình logo mà yêu cầu truyền hình được chứng nhận thiết để hỗ trợ 1080p24, 1080p50 và 1080p60, mà không overscan / underscan và hình ảnh méo.
+
+
+=== Màn hình máy tính ===
+Hầu hết các màn hình rộng ống cathode ray (CRT) và màn hình tinh thể lỏng (LCD) màn hình có thể hiển thị nguyên bản nội dung 1080p. Ví dụ, màn hình rộng WUXGA màn hình hỗ trợ độ phân giải 1920x1200, có thể hiển thị một điểm ảnh cho điểm ảnh sinh sản của 1080p (1920x1080) định dạng. Ngoài ra, nhiều người 23, 24, và 27-inch (690 mm) màn hình rộng LCD sử dụng 1920x1200 như độ phân giải gốc của họ; 30 inch màn hình có thể hiển thị ngoài 1080p với tốc độ lên đến 2560x1600 (1600p). Nhiều 27 "màn hình có độ phân giải gốc của 2560x1440 và do đó hoạt động ở 1440p.
+
+
+=== Video game consoles ===
+Video game console như Sony 's PlayStation 3, Microsoft 's Xbox 360 và Nintendo của Wii U, cũng như microconsoles như Ouya, GameStick và Nvidia khiên trò chơi có thể hiển thị các upscaled và nội dung video 1080p, mặc dù phần lớn các trò chơi được kết xuất ở độ phân giải thấp hơn. Đối với tất cả các bàn giao tiếp, điều này được thực hiện thông qua kết nối HDMI (trong trường hợp của Xbox 360, HDMI chỉ có trên console sản xuất sau tháng 6 năm 2007). Ngoài ra, các video 1080p upscaled có sẵn trên PlayStation 3 và Xbox 360 thông qua một thành phần tương tự / D-Terminal(YPBPR) connection,†cũng như các kết nối VGA trên Xbox 360. Trên PlayStation 3, các nhà phát triển phải cung cấp hỗ trợ độ phân giải cụ thể ở cấp phần mềm như không có phần cứng hỗ trợ upscaling, trong khi trên Xbox 360 trò chơi có thể được sử dụng upscaled tích hợp sẵn trong chip scaler phần cứng. Tuy nhiên, hầu hết các trò chơi trên cả hai bàn giao tiếp không chạy ở độ phân giải 1080p bản địa.
+Wii U, PlayStation 3, Xbox 360 và cung cấp dịch vụ video 1080p. Sony cung cấp cho cả PlayStation Store VOD dịch vụ và đĩa Blu-ray phát lại. Microsoft cung cấp các video Zune Marketplace cho "ngay lập tức về" 1080p † nội dung video nhưng không có khả năng phát đĩa Blu-ray. Tuy nhiên nó không hỗ trợ các doanh nghiệp không còn tồn tại HD DVD tiêu chuẩn đĩa thông qua Xbox 360 HD DVD Player add-on. Cả hai bàn giao tiếp cũng cung cấp hỗ trợ cho các tuyến 1080p † nội dung trong các định dạng khác nhau qua mạng gia đình từ các máy tính khác, và cũng thông qua kết nối USB với các thiết bị lưu trữ bên ngoài.
+^† Do vấn đề bản quyền tiềm năng, khi một kết nối thành phần tương tự được sử dụng, chỉ có các menu hệ thống và lối chơi có sẵn trong 1080p; nội dung video được hiển thị ở độ phân giải thấp hơn hoặc 1080i.^‡ Trong khi sản lượng 1080p thành phần tương tự được hỗ trợ bởi các bàn giao tiếp, một số phần cứng hiển thị sẽ chỉ chấp nhận kết nối thành phần lên đến 1080i.
+
+
+=== Máy quay phim và máy ảnh ===
+Nhiều người tiêu dùng máy quay phim, video và chuyên nghiệp DSLR máy ảnh và điện thoại thông minh có thể chụp 1080p24, 1080p25, 1080p30 hay video, thường mã hóa nó trong khung phân đoạn tiến bộ dạng.
+
+
+== Xem thêm ==
+Danh sách các độ phân giải phổ biến
+4320p, 2160p, 1080i, 720p, 576p, 576i, 480p, 480i, 360p, 240p
+Truyền hình độ nét cao
+Độ phân giải màn hình
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+1080p and the Acuity of Human Vision Audioholics Home Theater Magazine. ngày 2 tháng 4 năm 2007.
+High Definition 1080p TV: Why You Should Be Concerned. Secrets of Home Theater and High Fidelity. ngày 28 tháng 2 năm 2007.
+The Facts and Fiction of 1080p. ngày 17 tháng 4 năm 2006.
+High Definition (HD) Image Formats for Television Production (EBU technical publication). December 2004.

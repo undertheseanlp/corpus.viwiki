@@ -1,0 +1,12 @@
+Windows Calendar là ứng dụng lịch bàn có trong Windows Vista và Windows Server 2008. Chương trình hỗ trợ định dạng iCalendar nguyên bản, và có khả năng xuất bản lịch hay mua lịch thông qua các ứng dụng dựa trên web dùng các giao thức HTTP và WebDAV. Calendars cũng có thể xuất ra các ổ đĩa chia sẻ trong mang.
+Windows Calendar có các ô để xem thông tin, bao gồm Ngày, Tuần (5 và 7 ngày) và Tháng, ngoài ra còn hỗ trợ lịch làm việc. Windows Calendar cho phép tạo hơn 100 lịch với mỗi người dùng.
+Windows Calendar có thể mở rộng bằng cách sử dụng các API trong CF4 Developer kit.
+Ở Windows Server 2008, mặc định Windows Calendar không được cài đặt; nó sẽ có nếu thành phần "Desktop Experience" được cài dặt.
+
+
+== Xem thêm ==
+Chức năng mới của Windows Vista
+Danh sách trình quản lý thông tin cá nhân
+
+
+== Tham khảo ==

@@ -1,0 +1,69 @@
+Blog, gọi tắt của weblog (tiếng Anh, "nhật ký web"), là một dạng nhật ký trực tuyến, bùng nổ từ cuối thập niên 1990. Các blogger (người viết blog), có thể là cá nhân hoặc nhóm, đưa thông tin lên mạng với mọi chủ đề, thông thường có liên quan tới kinh nghiệm hoặc ý kiến cá nhân, chủ yếu cung cấp thông tin đề cập tới những chủ đề chọn lọc, không giống như các báo truyền thống. Được phần mềm hỗ trợ, dễ sử dụng, blog phổ biến rất nhanh và ai cũng có thể dễ dàng tạo ra một blog cho mình.
+Một trang blog có thể chứa các siêu liên kết, hình ảnh và liên kết (tới các trang chứa phim và âm nhạc). Văn bản blog dùng phong cách thảo luận. Một blog thường chỉ liên quan đến một chủ đề yêu thích.
+Vào tháng 11 năm 2006, trình tìm kiếm blog Technorati đã theo dõi hơn 57 triệu blog.
+
+
+== Lịch sử ==
+Tin thời sự, sổ tay và nhật ký cá nhân có thể được coi là những ông tổ của blog.
+Trước khi blog trở nên phổ biến thì các tổ chức xã hội trên mạng mang nhiều hình thức, bao gồm Usenet, các dịch vụ kinh doanh trực tuyến như GEnie, BiX và CompuServe, gồm cả danh sách email và các hệ thống bảng tin nhắn điện tử (BBS). Trong thập niên 1990, các phần mềm diễn đàn Internet như WebEx, tạo ra các luồng trao đổi thông tin (thread). Các luồng thông tin là các kết nối giữa các lời nhắn trao đổi cùng topic trên một bảng trực tuyến. Một số người đã coi blog là phong trào quan sát tập thể của thế kỷ 20.
+
+
+=== 1994–2001 ===
+
+Blog hiện nay phát triển từ nhật ký trực tuyến, nơi mọi người ghi lại một phần của cuộc sống riêng tư. Hầu hết những người viết tự gọi mình là người viết nhật ký hoặc nhà báo. Trang webring The Open Pages là một trong những cộng đồng viết nhật ký trực tuyến như vậy. Justin Hall bắt đầu viết blog cá nhân từ năm 1994 khi còn là sinh viên tại Swarthmore College, được coi là blogger lâu đời nhất, as is Jerry Pournelle.
+Những dạng khác của những bản tin (hay nhật ký) được giữ trực tuyến cũng đã tồn tại. Một ví dụ đáng chú ý là nhật ký được nhiều người đọc rộng rãi của John Carmack's, được phát hành theo hướng finger protocol. Những trang web, bao gồm cả những site của đoàn thể hoặc những trang web cá nhân (personal homepages), đã và vẫn có phần "Có gì mới" hoặc "tin tức", thường trên trang chủ hoặc trang mặc định (index page) và được sắp xếp theo ngày tháng. Một ví dụ về những tin tức dựa trên weblog là Drudge Report được thành lập bởi phóng viên tự xưng và tự do Matt Drudge, dù hình như anh ta không phải loại này. Một trang khác là Institute for Public Accuracy mà đã bắt đầu đưa lên những tin phát hành một vài tin vắn những trích dẫn một đoạn vài lần trong một tuần từ năm 1998. Một tiền thân đáng chú ý của blog là một trang web trào phúng cá nhân thường xuyên được cập nhật bởi huyền thoại của Usenet, Kibo.
+
+
+== Phân loại ==
+Có rất nhiều loại blog, khác nhau từ nội dung bài đến cách truyền tải.
+Bằng phương tiện truyền đạt
+Một blog có video được gọi là vlog, blog gồm các link gọi là linklog. Một trang gồm những bản phác thảo được gọi là sketchblog hoặc một trang gồm có ảnh được gọi là photoblog. Những blog có bài viết ngắn và gồm nhiều dạng tranh ảnh, video đa dạng được gọi là tumblelog.
+Một loại blog ít gặp được để trên Gopher Protocol được biết tới như Phlog.
+Bằng phương tiện sáng tác
+Blog được viết bằng phương tiện di động ví dụ như điện thoại di động hoặc PDA được gọi là moblog.
+Thể loại
+Một số blog tập trung vào một vấn đề cụ thể, ví dụ như blog truyện,truyện cười bể bụngblog chính trị, blog du lịch, blog thời trang, blog dự án, hoặc blog pháp luật (tên tiếng Anh là blawg). Một blog không có mục đích chính đáng mà chỉ dành để spam gọi là Splog. Một Slog (Site hoặc website log) là một phần của một website kinh doanh, được hợp nhất trong cả cấu trúc website bình thường, nhưng được viết bởi các phần mềm viết blog.
+Tính hợp pháp của người xuất bản
+Một blog phần lớn được để cá nhân, hoặc được dùng cho mục đích kinh doanh. Blog công ty, có thể được dùng đối nội để hỗ trợ truyền đạt và văn hóa riêng của tập đoàn hoặc dùng đối ngoại để tiếp thị, tạo dựng thương hiệu hoặc PR.
+Công cụ tìm kiếm blog
+Một số các công cụ tìm kiếm blog được dùng để tìm nội dung blog (còn được biết với tên blogosphere, ví dụ như blogdigger, Feedster và Technorati. Technorati cung cấp những thông tin cập nhật về những tìm kiếm phổ biết và tag dùng để phân loại bài viết trong blog.
+
+
+== Sự phổ biến ==
+Gần đây, các nhà nghiên cứu đã phân tích nguyên do blog được ưa chuộng. Hai thước đo được sử dụng là: số lần được trích dẫn, và số lần được để link liên kết (i.e. blogroll). Kết luận ban đầu từ các nghiên cứu về kết cấu blog là mặc dù để trở nên nổi tiếng, một blog mất khá nhiều thời gian, nhưng liên kết link vĩnh viễn làm tăng độ nổi tiếng của blog rất nhanh, và có thể chỉ ra độ ảnh hưởng của một blog hơn blogroll, bởi vì chúng cho biết người đọc có thực sự đọc nội dung blog hay không, và đánh giá blog là đáng đọc trong những trường hợp cụ thể.
+Dự án blogdex được bắt đầu bởi những nhà nghiên cứu của MIT Media Lab để dò Web và thu thập thông tin từ hàng ngàn blog và nghiên cứu các tính xã hội của chúng. Thông tin được thu thập trong hơn 4 năm trời, và những thông tin nổi bật nhất lan truyền trong cộng đồng blog được tự động thu thập, và đánh giá dựa vào mức độ nóng hổi và nổi tiếng. Do đó dự án này có thể được coi như cố gắng đầu tiên để memetracker. Mặc dù dự án không còn hoạt động, nhưng tailrank.com hiện nay đã cung cấp một dịch vụ tương tự.
+Blog được Technoratti xếp thứ hạng dựa vào số link liên kết và được Alexa Internet xếp dựa vào số lần truy cập của người dùng Alexa Toolbar. Tháng 8/2006, Technorati đã liệt kê blog được liên kết nhiều nhất là của cô diễn viên Trung Quốc Xu Jinglei, và blog được viết bởi một nhóm được đọc nhiều nhất là Boing Boing.
+Gartner dự đoán hoạt động blog sẽ lên tới đỉnh điểm trong năm 2007, rồi chững lại khi số người viết có duy trì một trang web cá nhân đạt tới con số 100 triệu. Các nhà phân tích Gartner dự tính rằng blog sẽ giảm độ thu hút vì tính mới lạ, bởi vì hầu hết những người chú ý đến hiện tượng này đều đã xem qua blog, và những người viết blog mới sẽ không vượt quá số lượng những người đã bỏ viết blog do nhàm chán. Công ty này ước lượng rằng có hơn 200 triệu người dừng việc viết nhật ký mạng, tạo nên một số lượng các "dotsam" và "netsam", những thứ bị bỏ bê trên web, gia tăng một cách chóng mặt.
+Truyền thông Trung Quốc Xinhua đã báo cáo là blog của Từ Tịnh Lôi (Xu Jinglei) là Xu Jinglei's Blog) nhận được hơn 50 triệu lượt xem, là blog nổi tiếng nhất trên toàn thế giới. Giữa năm 2006, blog này có nhiều link dẫn đến nhất trên toàn Internet.
+
+
+== Mập mờ với phương tiện truyền thông đại chúng ==
+Nhiều blogger tự phân biệt mình với các phương tiện truyền thông đại chúng, và một số khác là người làm việc cho các phương tiện truyền thông đại chúng này, đồng thời tham gia một kênh thông tin khác. Một số tổ chức cho rằng viết blog là một phương tiện để tránh bị kiểm duyệt và trực tiếp đưa thông điệp của mình tới công chúng. Một số các nhà phê bình lo rằng blogger không tôn trọng bản quyền và vị trí của phương tiện truyền thông đại chúng trong việc đưa những thông tin đáng tin cậy đến xã hội.
+Tuy nhiên, cũng có rất nhiều nhà báo viết blog, theo như danh sách các J-blog của CyberJournalist.net nhiều hơn con số 300 rất nhiều. Lần đầu tiên một blog được sử dụng trên một trang web thông tin là vào tháng 8 năm 1998, khi Jonathan Dube của tờ Charlotte Observer đăng một ký sự về cơn bão Bonnie.
+Blog cũng có tầm ảnh hưởng tới những ngôn ngữ thiểu số, góp phần tập hợp những người nói và học những ngôn ngữ này; ví dụ nổi bật là các blog tiếng Gaelic, với những người viết blog ở rất xa khu vực nói tiếng Gaelic thậm chí ở cả Kazakhstan và Alaska. Xuất bản bằng ngôn ngữ thiểu số có thể tìm đường đến tới độc giả bằng cách tạo blog, không tốn kém và khả thi hơn cách thông thường rất nhiều.
+
+
+== Blogger ==
+
+Những người hoặc nhóm người hoặc tổ chức viết blog được gọi là blogger... Các blogger được xem là những công dân điện tử của một xã hội điện tử. Tuy nhiên, gần đây một số người gọi những người tham gia các mạng xã hội là blogger, vì họ cũng tham gia vào các xã hội điện tử và viết nhật ký của mình lên đó.
+
+
+== Các dịch vụ blog phổ biến ==
+My Opera
+Blogger
+Wordpress
+Yahoo 360
+Yahoo 360 Plus
+Drupal
+Blog City
+Live Journal
+
+
+== Chú thích ==
+
+
+== Sách đọc thêm ==
+Alavi, Nasrin. We Are Iran: The Persian Blogs, Soft Skull Press, New York, 2005. ISBN 1-ngày 95 tháng 5 năm 3368.
+Bruns, Axel, and Joanne Jacobs, eds. Uses of Blogs, Peter Lang, New York, 2006. ISBN 0-8204-8124-6.
+Kline, David; Burstein, Dan. Blog!: How the Newest Media Revolution is Changing Politics, Business, and Culture, Squibnocket Partners, L.L.C., 2005. ISBN 1-59315-141-1.
+Michael Gorman. "Revenge of the Blog People!". Library Journal.

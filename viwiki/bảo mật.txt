@@ -1,0 +1,18 @@
+Bảo mật là sự hạn chế khả năng lạm dụng tài nguyên và tài sản. Bảo mật trở nên đặc biệt phức tạp trong quản lý, vận hành những hệ thống thông tin có sử dụng các công cụ tin học, nơi có thể xảy ra và lan tràn nhanh chóng việc lạm dụng tài nguyên (các thông tin di chuyển vô hình trên mạng hoặc lưu trữ hữu hình trong các vật liệu) và lạm dụng tài sản (các máy tính, thiết bị mạng, thiết bị ngoại vi, các phần mềm của cơ quan hoặc người sở hữu hệ thống). Hạn chế ở đây có ý rằng không thể triệt phá hết ngay việc lạm dụng, cho nên cần sẵn sàng đề phòng mọi khả năng xấu với các phương cách thích hợp và chuẩn bị xử lý các sự cố nếu có việc lạm dụng xảy ra.
+An toàn của một hệ thống thông tin thực chất là sự đảm bảo an ninh ở mức độ chấp nhận được. Muốn hệ thống thông tin an toàn thì trước hết phải có sự đảm bảo thông tin trên cơ sở mạng truyền dữ liệu thông suốt. Sau chữ an toàn thưởng có chữ bảo mật để mở rộng khía cạnh đảm bảo bí mật về nội dung thông tin.Như vậy, an toàn bảo mật hệ thống thông tin là đảm bảo hoạt động lưu thông và nội dung bí mật cho những thành phần của hệ thống ở mức độ chấp nhận được.
+
+
+== Định nghĩa ==
+Một hệ thống sẽ là an toàn (safe) khi các khiếm khuyết không thể làm cho hoạt động chủ yếu của nó ngừng hẳn và các sự cố đều xảy ra sẽ được khắc phục kịp thời mà không gây thiệt hại đến mức độ nguy hiểm cho chủ sở hữu.
+Hệ thống được coi là bảo mật (confident) nếu tính riêng tư của nội dung thông tin được đảm bảo theo đúng các tiêu chí trong một thời gian xác định.
+
+
+== Quan hệ giữa an toàn và bảo mật ==
+Hai yếu tố an toàn và bảo mật đều rất quan trọng và gắn bó với nhau: hệ thống mất an toàn thì không bảo mật được và ngược lại hệ thống không bảo mật được thì mất an toàn.
+
+
+== Khác nhau giữa an toàn và bảo mật ==
+Phân tích theo mô hình OSI sự an toàn của hệ thống thông tin được thực hiện chủ yếu ở các tâng dưới, còn việc bảo mật nội dung thông tin được thực hiện ở các tầng trên
+
+
+== Tham khảo ==

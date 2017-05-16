@@ -1,0 +1,53 @@
+Độ ẩm tương đối là tỷ số của áp suất hơi nước hiện tại của bất kỳ một hỗn hợp khí nào với hơi nước so với áp suất hơi nước bão hòa tính theo đơn vị là %. Định nghĩa khác của độ ẩm tương đối là tỷ số giữa khối lượng nước trên một thể tích hiện tại so với khối lượng nước trên cùng thể tích đó khi hơi nước bão hòa. Khi hơi nước bão hoà, hỗn hợp khí và hơi nước đã đạt đến điểm sương.
+
+
+== Công thức tính ==
+
+  
+    
+      
+        R
+        H
+        =
+        
+          
+            
+              
+                e
+                
+                  p
+                
+              
+            
+            
+              
+                e
+                
+                  s
+                
+              
+            
+          
+        
+        ×
+        100
+        %
+      
+    
+    {\displaystyle RH={{e_{p}} \over {e_{s}}}\times 100\%}
+  
+
+
+== Xem thêm ==
+Độ ẩm
+Độ ẩm tuyệt đối
+Độ ẩm riêng
+Điểm sương
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Glossary definition of psychrometric tables
+Xem thêm các thiết bị đo độ ẩm Tại Đây

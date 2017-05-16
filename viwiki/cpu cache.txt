@@ -1,0 +1,128 @@
+CPU cache là bộ nhớ được dùng bởi bộ xử lý trung tâm của máy tính nhằm giảm thời gian truy cập dữ liệu trung bình từ bộ nhớ chính. Cache là một bộ nhớ nhỏ hơn, nhanh hơn và lưu trữ bản sao của những dữ liệu thường xuyên được truy cập trên bộ nhớ chính. Hầu hết CPU đều có các bộ nhớ cache độc lập khác nhau, bao gồm cache chỉ dẫn và cache dữ liệu, nơi mà dữ liệu được xếp thành nhiều lớp khác nhau.
+
+
+== Tổng quan ==
+Khi mà bộ xử lý cần phải đọc hay viết vào một vị trí trong bộ nhớ chính, nó sẽ tìm trong bộ nhớ cache đầu tiên. Nhờ vậy, bộ xử lý đọc hay viết dữ liệu vào cache ngay lập tức nên sẽ nhanh hơn nhiều so với đọc hay viết vào bộ nhớ chính.
+Hầu hết các máy tính bàn và server CPU đều có 3 bộ nhớ cache độc lập: một bộ nhớ cache chỉ dẫn để tăng tốc độ xử lý, một bộ nhớ cache dữ liệu để tăng tốc độ nhận và lưu dữ liệu và TLB được sử dụng để tăng tốc độ chuyển từ địa chỉ ảo thành thật của quá trình chỉ dẫn xử lý và dữ liệu. Cache dữ liệu thường được sắp xếp thành nhiều tầng lớp hơn. Có thể nói rằng TLB cache là một phần của MMU và không liên quan trực tiếp đến CPU cache.
+
+
+== Nhập vào cache ==
+Dữ liệu được chuyển giữa bộ nhớ chính và cache theo từng khối cố định kích cỡ, gọi là cache lines. Khi một cache line được  sao chép từ bộ nhớ chính vào cache thì một cache entry được tạo ra. Nó sẽ bao gồm cả dữ liệu được sao chép và vị trí của dữ liệu yêu cầu (gọi là 1 tag).
+Khi bộ xử lý cần đọc hay viết một vị trí trong bộ nhớ chính, nó sẽ tìm entry tương ứng trong cache đầu tiên. Cache sẽ kiểm tra nội dung của vị trí dữ liệu yêu cầu trong bất cứ cache line nào có thể có địa chỉ. Nếu bộ xử lý tìm thấy vị trí dữ liệu trong cache, một cache hit đã xảy ra. Tuy nhiên, nếu bộ xử lý không tìm thấy được vị trí dữ liệu trong cache, thì một cache miss đã xảy ra. Trong trường hợp cache hit, bộ xử lý đọc hoặc viết dữ liệu vào cache line ngay lập tức. Còn nếu là cache miss, cache sẽ tạo một entry mới và sao chép dữ liệu từ bộ nhớ chính, sau đó yêu cầu được đáp ứng từ nội dung của cache.
+
+
+== Thực thi cache ==
+Số lần truy cập có kết quả là cache hit được gọi là hit rate, và có thể được xem như là thước đo độ hiệu quả cache của một chương trình hay thuật toán.
+Lỗi đọc nhầm làm quá trình xử lý bị chậm lại vì cần phải lấy dữ liệu từ bộ nhớ chính nên chậm hơn nhiều so với đọc từ cache. Lỗi viết nhầm có thể xuất hiện nhưng không nặng đến thế, vì bộ xử lý có thể tiếp tục xử lý khi mà dữ liệu được sao chép vào bộ nhớ chính trong chế độ ngầm.
+Để tạo chỗ cho một entry mới khi mà cache miss, cache có thể sẽ hủy một trong số những entry hiện có. Replacement policy là nguồn gốc của hoạt động trên. Vấn đề cơ bản của bất cứ replacement policy nào là nó phải dự đoán được cache entry đang tồn tại nào sẽ không được dùng nữa. Dự đoán là một chuyện rất khó nên không có cách nào hoàn hảo trong số các replacement policy hiện hữu.
+Một trong số replacement policy, LRU, thay thế entry được truy cập ít nhất trong thời gian gần đây.
+Đánh dấu một số phần bộ nhớ là non-cacheable có thể nâng cao hiệu suất làm việc do tránh được những phần bộ nhớ hiếm khi truy cập. Điều này tránh trường hợp cho một cái gì vào cache mà không tái sử dụng. Cache entries có thể bị tắt hoặc khóa tùy vào trường hợp.
+Nếu dữ liệu được viết vào cache, đến lúc nào đó nó cũng sẽ phải được đưa vào bộ nhớ chính; thời điểm viết được biết đến là write policy. Trong write-through cache, mỗi lần viết vào cache thì cũng viết vào bộ nhớ chính. Thay vào đó, trong write-back hay copy-back cache, mỗi lần viết không đồng bộ vào bộ nhớ chính ngay lập tức, mà cache tìm lại những địa điểm đã được viết vào cache, đánh dấu chúng là dirty.Dữ liệu ở những địa điểm này chỉ được viết vào bộ nhớ chính chỉ khi dữ liệu đó bị xóa ở cache.Vì lý do này, một lỗi đọc nhầm trong write-back cache có thể có 2 dịch vụ truy cập dữ liệu: một để viết từ dirty location vào bộ nhớ chính, và cái còn lại để đọc vị trí mới từ bộ nhớ chính. Ngoài ra, một lần viết vào một vị trí trong bộ nhớ chính mà chưa được định vị trong write-back cache có thể xóa đi một dirty location, từ đó giải phóng dung lượng cache cho vị trí mới.
+Thêm vào đó cũng có nhiều intermediate policy nữa. Cache có thể là write-through, nhưng bản ghi có thể nằm tạm thời trong hàng chờ lưu trữ dữ liệu, thường là để có thể lưu nhiều bản ghi một lúc.
+Dữ liệu được cache từ bộ nhớ chính có thể bị thay đổi bởi nhiều yếu tố, trong trường hợp mà bản sao trong cache có thể bị lỗi thời hay mất hiệu lực. Thay vào đó khi một CPU thuộc một hệ thống đa xử lý cập nhật dữ liệu trong cache, các bản sao của dữ liệu trong cache liên quan đến các CPU khác mất hiệu lực. Các quy trình trao đổi giữa các cache manager để thống nhất dữ liệu thì được gọi là cache coherence protocols.
+Thời gian lấy một cache line từ bộ nhớ chính rất quan trọng vì CPU sẽ phải đợi cache line. Khi CPU đạt tình trạng này, nó được gọi là stall. Khi CPU trở nên nhanh hơn so với bộ nhớ chính, stalls do có cache misses nên không làm được nhiều phép tính tiềm năng hơn; CPU hiện đại có thể thực hiện hàng trăm chỉ dẫn trong thời gian lấy một cache line từ bộ nhớ chính.
+Nhiều phương pháp có thể được sử dụng để giữ CPU làm việc hiệu quả trong thời gian này, bao gồm cả out-of-order execution, mà trong đó CPU cố thực hiện những chỉ dẫn độc lập nằm sau chỉ dẫn đang đợi dữ liệu cache miss. Một công nghê khác được sử dụng bởi nhiều bộ xử lý là simultaneous multithreading (SMT), hay hyper-threating, cho phép một thread khác sử dụng lõi CPU trong khi thread đầu tiên đợi tài nguyên của CPU sẵn sàng.
+
+
+== Độ nhớ đệm ==
+
+
+=== Tính chất kết hợp ===
+_ Được xem như là một chính sách cho việc thay thế vị trí nhằm quyết định nơi nào trong bộ nhớ đệm mà bản sao một cửa vào riêng biệt của bộ nhớ chính sẽ di chuyển đến. Nếu chính sách thay thế được tự do trong việc chọn bất kì cổng vào nào trong bộ nhớ đệm để lưu trữ bản sao, lúc đó bộ nhớ đệm sẽ ở trạng thái cấu trúc “liên kết đầy đủ”- Fully Associative Cache. Ngược lại, nếu mỗi cổng vào của bộ nhớ chính chỉ có duy nhất một chỗ trong bộ nhớ đệm, bộ nhớ đệm sẽ ở trạng thái cấu trúc “ánh xạ trực tiếp”- Direct Mapped Cache.  
+_Nhiều bộ nhớ đệm thực hiện một sự thỏa hiệp trong đó mỗi mục trong bộ nhớ chính có thể đi đến bất kỳ một trong số N vị trí trong bộ nhớ đệm, và được mô tả như cấu trúc “thiết lập liên kết- N chiều”. Ví dụ, các dữ liệu bộ nhớ đệm cấp 1 ở Athlon của AMD là thiết lập liên kết 2 chiều, điều đó có nghĩa rằng bất kỳ vị trí cụ thể trong bộ nhớ chính có thể được lưu trữ tại một trong hai địa điểm trong dữ liệu bộ nhớ đệm cấp 1.  
+_Tính chất kết hợp là một sự đánh đổi. Nếu như có mười vị trí để chính sách thế chỗ có thể ánh xạ một vị trí của bộ nhớ, sau đó phải kiểm tra xem vị trí đó đã có trong bộ nhớ đệm hay không, sau đó mười cổng vào bộ nhớ đệm phải được tìm kiếm. Việc kiểm tra nhiều vị trí sẽ hao tổn nhiều năng lượng và vùng chip hơn, cũng như có thể tốn nhiều thời gian hơn.
+_Một mặt khác, bộ nhớ đệm với nhiều tính kết hợp sẽ chỉ chịu việc lệch ít hơn (xem phần Lệch do mâu thuẫn bên dưới), vậy nên CPU tốn ít thời gian để đọc từ bộ nhớ chính tốc độ thấp. Quy tắc ngón tay cái được áp dụng: gấp đôi tính kết hợp, từ cấu trúc “ánh xạ trực tiếp” cho đến cấu trúc liên kết 2 chiều, hoặc từ 2 chiều lên 4 chiều, gần như có cùng một hiệu quả về tỉ lệ trúng như việc tăng gấp đôi kích thước bộ nhớ đệm. Tăng tính kết hợp vượt hơn 4 chiều ảnh hưởng ít hơn đến tỉ lệ trúng, và chỉ được dùng cho một vài lý do khác.
+_Theo thứ tự thấp hơn, từ đơn giản đến tốt hơn nhưng phức tạp:
++Cấu trúc “ánh xạ trực tiếp”- ở trường hợp tốt nhất sẽ tốt về thời gian nhưng không ổn định khi trường hợp xấu nhất.
+
++Cấu trúc liên kết 2 chiều.
++Cấu trúc liên kết lệch- 2 chiều.
++Cấu trúc liên kết 4 chiều.
++Cấu trúc liên kết 8 chiều: sự lựa chọn phổ biến cho những sự triển khai sau.
++Cấu trúc liên kết 12 chiều: tương tự như 8 chiều.
++Cấu trúc liên kết đầy đủ- có tỉ lệ lệch cao nhất, nhưng thực tế chỉ khi có một số nhỏ các cổng vào. 
+
+
+=== Cấu trúc “ánh xạ trực tiếp”. ===
+_Trong cách liên kết này, mỗi địa điểm trong bộ nhớ chính có thể đi vào chỉ một cổng vào trong bộ nhớ đệm. Vì vậy, một bộ nhớ đệm có cấu trúc “ánh xạ trực tiếp còn có thể được gọi là “cấu trúc liên kết 1 chiều”. Thực chất nó không có chính sách thay thế, bởi vì không có sự lựa chọn nào cho nội dung của cổng vào tại bộ nhớ đệm có thể trả về.
+_Điều này có nghĩa là nếu hai địa diểm ánh xạ cùng một cổng vào, chúng dường như sẽ đẩy nhau ra. Mặc dù đơn giản, một bộ nhớ đệm ánh xạ trục tiếp vẫn cần phải lớn hơn một liên kết để cung cấp hiệu năng tương đương, và nó trở nên khó dự đoán hơn. Giả sử cho x là số thứ tự khối trong bộ nhớ đệm, y là số thứ tự khối trong bộ nhớ, và n là số lượng khối trong bộ nhớ đệm, thì việc ánh xạ sẽ được thực hiện với phương trình x= y mod n.
+
+
+=== Cấu trúc liên kết hai chiều. ===
+_Nếu mỗi địa điểm trong bộ nhớ chính có thể được lưu đệm tại một trong hai địa điểm trong bộ nhớ đệm, một câu hỏi được đặt ra: cái nào trong hai cái? Cách đơn giản nhất và thường dùng nhất, được miêu tả ở khung bên phải phía trên, đó là dùng những bit thấp nhất của chỉ số bộ nhớ như là một chỉ số dùng cho bộ nhớ đệm, và có hai cổng vào cho mỗi chỉ số.
+_Một tiện ích từ cách hệ thống này là những thẻ được lưu trong bộ nhớ đệm không bao gồm một phần địa chỉ của bộ nhớ chính, thứ được bao hàm bởi chỉ số của bộ nhớ đệm. Bởi vì thẻ đệm chỉ có vài bit, chúng đòi hỏi ít transistor hơn, chiếm ít không gian trên các bảng mạch vi xử lý hoặc trên chip vi xử lý, và có thể được đọc cũng như so sánh nhanh hơn. Ngoài ra LRU lại đặc biệt đơn giản do chỉ cần có một bit để lưu trữ cho mỗi cặp.
+
+
+=== Thi hành suy đoán ===
+_Một trong những lợi thế của cấu trúc ánh xạ trực tiếp đó là nó cho phép suy đoán đơn giản và nhanh. Một khi địa chỉ đã được tính toán, chỉ số đệm có thể có bản sao của vị trí đó trong bộ nhớ được biết đến. Cổng vào đệm đó có thể được đọc, và bộ vi xử lý tiếp tục làm việc với dữ liệu đó trước khi hoàn tất kiểm tra xem thẻ có khớp với địa chỉ yêu cầu hay không.
+_Ý tưởng của việc bộ vi xử lý sử dụng dữ liểu đệm trước khi thẻ khớp có thể được áp dụng cho liên kết bộ nhớ đệm. Một tập hợp con của thẻ, gọi là một dấu hiệu, có thể được dùng để chọn một trong số cổng vào khả thi ánh xạ đến địa chỉ yêu cầu. Cổng vào được chọn dựa vào dấu hiện có thể được dùng song song với việc kiểm tra toàn bộ thẻ. Kỹ thuật sử dụng thẻ hoạt động tốt nhất khi dùng trong điều kiện biên dịch địa chỉ.
+
+
+== Lệch bộ nhớ đệm (cache miss) ==
+Là lúc CPU không tìm thấy dữ liệu cần thiết trong bộ nhớ Cache mà phải lấy trực tiếp từ bộ nhớ RAM. Có 3 loại lệch bộ nhớ đệm: instruction read miss, data read miss, and data write miss.
+Instruction read miss thông thường sẽ làm cho tiến trình bị trì trệ nhất do bộ vi xử lý sẽ phải chờ cho đến khi chỉ dẫn (instruction) được lấy trực tiếp từ RAM. Data (dữ liệu) miss cache thông thường không gây trì trệ lâu như instruction miss cache do những chỉ dẫn (instruction) không phục thuộc vào những dữ liệu bị lệch khi đọc từ bộ nhớ đệm có thể tiếp tục vận hành. Cho đến khi những dữ liệu cần thiết được lấy về từ RAM, những chỉ dẫn phụ thuộc vào các dữ liệu đó có thể trở lại vận hành. Data write miss gây ra trì trệ ngắn nhất do quá trình ghi dữ liệu có thể xếp vài một queue và có rất ít hạn chế cho việc chạy những chỉ dẫn đến sau. Vi xử lý có thể tiếp tục cho đến queue đầy.
+Để có thể giảm tỷ lệ khi lệch bộ nhớ đệm xãy ra, đã có nhiều phân tích được đưa ra để tìm được sự đồng nhất về kích cỡ của bộ nhớ đệm, tính chất kết hợp, kích cỡ khối dữ liệu,... Chuỗi những tham chiếu bộ nhớ được thực hiện bởi các chương trình tiêu chuẩn được gọi là address traces.
+Những phân tích sau đây dựa trên nhiều kiểu bộ nhớ đệm khác nhau được thiết kế dựa trên những address traces dài này. Giải thích cho việc nhiều biến khác nhau có thể ảnh hưởng đến tỉ lệ trúng bộ nhớ đệm (cache hit) có thể trở nên khó hiểu. Một trong những đóng góp đáng chú ý đến những phân tích này là của Mark Hill, người chia những trường hợp lệch này thành 3 hạng mục.
+
+
+=== Compulsory misses (lệch cưỡng chế) ===
+Gây ra do đề cập đến một vùng trong bộ nhớ mà một chương trình chưa bao giờ yêu cầu đến trước đây. Kích cỡ của bộ nhớ đêm và tính chất kết hợp không làm thay đổi đến số lần lệch cưỡng chế xảy ra. Tìm nạp trước (prefetching) có thể có ích ở đây, cũng như những khối bộ nhớ đệm có kích thước lớn hơn. Đôi khi, lệch cưỡng chế được đề cập là cold misses.
+
+
+=== Capacity misses (lệch dung lượng) ===
+Là những trường hợp lệch bất kể tính chất kết hợp và kích cỡ khối. Xảy ra duy nhất do kích cỡ hạn chế của bộ nhớ đệm. Lưu ý rằng, không hề có quan điểm nào về bộ nhớ đệm trở nên "đầy", "trống" hay "gần đạt dung lượng". Bộ nhớ đệm CPU hầu như đầu có tất cả các hàng chứa những bản sao của một số hàng trong RAM, và hầu như mọi sự cấp phát cho một hàng mới đòi hỏi sự đẩy ra (eviction) của một hàng cũ.
+
+
+== Conflict misses(lệch do xung đột) ==
+Là những trường lệch mà đã có thể tránh khỏi, nếu như bộ nhớ đệm đã không đuổi (evict) một sự nhập vào của một entry trước đó. Lệch do xung đột có thể trở thành mapping misses về sau, và replacement misses.
+Biểu đồ sau cho thấy khả năng vận hành của bộ nhớ đệm theo phần số nguyên của SPEC CPU2000, ghi nhận bởi Hill và Cantin. Những điểm mốc này tượng trưng cho khối lượng công việc một máy tính kỹ thuật có thể gặp một ngày.
+
+Ở góc bên phải, khi cache size là Inf, chúng ta cò lệch cưỡng chế. Nêu chúng ta muốn nâng cáo tính năng của SpecInt2000, nâng kích cỡ của bộ nhớ đệm lên hơn 1MB là không hiệu quả. 
+Tỉ lệ lệch của bộ nhớ đệm với cấu trúc "liên kết đầy đủ (Fully-associated cache) ở đây gần như đại diện cho lệch dung lượng (capacity miss rate). Sự khác nhau ở đây là dữ liệu đưa ra là do phỏng đoán, dựa trên chính sách thay thế của LRU. Đưa ra tỉ lệ lệch đòi hỏi một chính sách thay thế hoàn hảo, như là một hệ thống hướng dẫn có thể chỉ ra một cổng bộ nhớ đệm chắc chắn không phải là một hit.
+Chú ý rằng sự ước lượng của tỉ lệ lệch dung lượng giảm rất nhanh ở 32KB và 64KB. Cho thấy ở mốc này có “working set” vào khoảng 64KB. Một nhà thiết kế CPU sẽ có động cơ để thiết kế kích cỡ của bộ nhớ đệm là 64KB thay vì 32KB. Chú ý,  trên những cột trên biểu đồ này, không có một tính chất kết hợp nào có thể làm một cache 32KB vận hành bằng một cache 64KB với liên kết 4 chiều hay thậm chí một cache thiết kế ánh xạ trực tiếp 128KB.
+Cuối cùng, chú ý rằng ở giữa mốc 64KB và 1MB có 1 sự khác biệt rất lớn về cache cấu trúc ánh xạ trực tiếp và cache cấu trúc liên kết đầy đủ. Sự chệch lệch này chính là lệch cưỡng chế (conflict miss cache).
+
+
+== Dịch thuật địa chỉ ==
+Hầu hết mục đích của việc cài đặt CPU từ những mẫu của bộ nhớ ảo. Để tóm tắt, kể cả mỗi chương trình chạy trên thiết bị thấy địa chỉ không gian riêng của mình một cách đơn giản hóa,  mà bao gồm trong đó cả mã và dữ liệu cho riêng chương trình đó, hoặc cho tất cả chương trình chạy trong không gian địa chỉ ảo phổ biến. Chương trình sử dụng không gian bộ nhớ ảo trong đó sử dụng địa chỉ ảo mà địa chỉ không gian đó không tồn tạitrong bộ nhớ vật lý. 
+Bộ nhớ ảo đòi hỏi bộ vi xử lý dịch địa chỉ ảo được tạo ra bởi chương trình thành các địa chỉ vật lý trong bộ nhớ chính. Phần của bộ vi xử lý hiện dịch thuật này được gọi là đơn vị quản lý bộ nhớ (MMU). Đường dẫn nhanh chóng thông qua MMU có thể thực hiện những bản dịch được lưu trữ trong bộ đệm lookaside dịch (TLB), mà là một bộ nhớ cache của ánh xạ từ hệ thống điều hành trang bảng, phân đoạn bảng hoặc cả hai.
+
+
+=== 3 tính năng quan trọng của địa chỉ dịch ===
+-Latency (Độ trễ): Địa chỉ vật lý có sẵn từ MMU một số thời gian, có lẽ một vài chu kỳ, sau khi địa chỉ ảo có sẵn từ bộ phận tạo địa chỉ
+-Aliasing (khử răng cưa): Nhiều địa chỉ ảo có thể ánh xạ đến một địa chỉ vật lý duy nhất. Hầu hết các vi xử lý đảm bảo rằng tất cả các bản cập nhật cho duy nhất địa chỉ đó sẽ cập nhật theo chương trình. Để đảm bảo, các vi xử lý phải chắc chắn rằng chỉ có duy nhất một bản sao của vị trí đia chỉ vật lý trong Cache tại bất kỳ thời gian nhất định.
+-Granularity (sự cấp phát): Không gian địa chỉ ảo được chia vào các trang. Ví dụ, một không gian địa chỉ ảo 4 GB có thể được cắt thành 1,048,576 trang có kích thước 4 KB, trong số đó có thể được ánh xạ tới một cách độc lập. Có thể có nhiều kích cỡ trang được hỗ trợ.
+Một số hệ thống bộ nhớ ảo sớm đã rất chậm vì chúng yêu cầu truy cập phải bảng địa chỉ (giữ trong bộ nhớ chính) trước khi mỗi chương trình truy cập vào bộ nhớ chính. Không có bộ nhớ cache, bộ nhớ này cắt tốc độ của thiết ra thành một nử. Bộ nhớ cache phần cứng đầu tiên được dùng trong hệ thống máy tính không thực sự là dữ liệu hoặc bộ nhớ cache, mà hơn thế nữa nó là TLB. 
+
+
+=== 4 loại bộ nhớ Cache (dựa trên mục hoặc thẻ phù hợp với bộ nhớ vật lý hoặc bộ nhớ ảo) ===
+-Physically indexed, physically tagged (PIPT) bộ nhớ cache sử dụng địa chỉ vật lý cho cả mục và thẻ. Trong khi nó đơn giản và tránh vấn đề với aliasing, nó cũng chậm, địa chỉ vật lý phải cần được tìm kiếm (có thể kéo theo việc bỏ lỡ TLB và truy cập vào bộ nhớ chính) trước khi địa chỉ có thể tìm kiếm trong bộ nhớ cache.
+-Virtually indexed, virtually tagged (VIVT) bộ nhớ caches sử dụng địa chỉ ảo cho cả mục và thẻ. Kế hoạch nơi dự trữ này có thể dẫn đến sự tra cứu nhanh hơn nhiều, khi mà MMU không cần phải tham khảo kết quả trước tiên để xác định địa chỉ vật lý cho địa chỉ ảo. Tuy nhiên, VIVT bị vấn đề răng cưa, nơi nhiều địa chỉ ảo khác nhau có thể đặt vấn đề cho cùng địa chỉ vật lý. Kết quả chỉ ra là địa chỉ như vậy nên lưu trữ riêng mặc dù, gây ra vấn đề dính kết. Vấn đề khác là từ đồng âm khác nghĩa, nơi địa chỉ ảo cùng ánh xạ tới nhiều địa chỉ vật lý khác nhau. Không thể phân biệt các ánh xạ khi này chỉ bằng nhìn mục ảo bản thân, cho dù giải pháp tiềm năng bao gồm: flusing nơi dự trữ sau khi chuyển đổi ngữ cảnh, buộc khoảng trống địa chỉ không được chồng chéo, đánh dấu địa chỉ ảo với ID không gian địa chỉ (ASID), hoặc sử dụng thẻ vật lý. Ngoài ra, có vấn đề các ánh xạ ảo - đến - vật lý có thể thay đổi, nó sẽ đòi hỏi flusing dòng nơi dự trữ, như Vas sẽ không còn hợp lệ.
+-Virtually indexed, physically tagged (VIPT) bộ nhớ caches sử dụng địa chỉ ảo cho mục và địa chỉ vật lý trong thẻ. Điểm lợi hơn PIPT là độ trễ, như dòng bộ nhớ cache có thể tìm kiếm song song với dịch thuật TLB, tuy nhiên thẻ không thể bị so sánh cho đến địa chỉ vật lý sẵn sàng. Điểm lợi hơn VIVT là do thẻ có địa chỉ vật lý, bộ nhớ cache có thể phát hiện từ đồng âm khác nghĩa. VIPT đòi hỏi nhiều các mẩu thẻ nhỏ, như mục các mẩu nhỏ không còn đại diện cho cùng địa chỉ.
+-Physically indexed, virtually tagged (PIVT) Bộ nhớ caches chỉ là lý thuyết, nhưng so về cơ bản thì nó vô dụng. Cache với cấu trúc này sẽ chậm không kém gì PIPT, bị vấn đề răng cưa cùng một lúc như VIVT.  
+Tốc độ của sự lặp lại (sự tiềm tàng vật nặng) là yếu tố quan trọng đến năng suất CPU, cho nên mức - 1 hiện đại nhất của bộ nhớ cache là mục ảo, cho phép tra cứu TLB của MMU để tiến hành song song với dữ liệu ở RAM của bộ nhớ Cache
+Nhưng mục ảo không phải là lựa chọn tốt nhất với cho mọi cấp độ của cache. Chi phí của xử lý các phần răng cưa ảo phát triển cùng với kích cỡ cache, và do vậy kết quả cái mà  mức - 2 lớn hơn cache nhất là mục vật lý.. 
+Bộ nhớ Caches có lịch sử là đã dùng cả bộ nhớ ảo lẫn bộ nhớ vật lý cho thẻ caches, mặc dù thẻ ảo bây giờ hiếm. Nếu tra cứu TLB có thể kết thúc trước tra cứu bộ nhớ RAM, sau đó địa chỉ vật lý sẵn sàng đúng lúc cho việc so sánh tag, và không cần thẻ ảo. Bộ nhớ lớn lớn, sau đó, có xu hướng trở nên thẻ vật lý, và nhỏ, nơi dự trữ sự tiềm tàng thấp rất gần như được gắn thẻ.CPU đa năng, thẻ ảo đã được thế chỗ bằng vhints, như đã mô tả bên dưới.
+Vấn đề “đồng âm” và “đồng âm khác nghĩa”
+Bộ nhớ cache nhận ra là chỉ mục ảo và thẻ ảo trở nên không phù hợp sau khi địa chỉ ảo giống hau được ánh xạ vào địa chỉ vật lý khác (từ đồng âm khác nghĩa). Điều này có thể được giải quyết bằng cách sử dụng địa chỉ vật lý cho thẻ hoặc bằng  việc lưu trữ ID không gian địa chỉ trong dòng bộ nhớ Cache
+Tuy nhiên latter không giúp chống lại vấn đề từ đồng nghĩa, nơi vài dòng bộ nhớ dừng việc lưu trữ dữ liệu cho địa chỉ vật lý giống nhau. Viết những địa điểm có thể cập nhật chỉ một địa điểm trong nơi dự trữ, rời khỏi địa điểm đó với dữ liệu mâu thuẫn. Vấn đề này có thể là giải quyết bằng cách sử dụng máy bố cục trí nhớ chồng chéo cho khoảng trống địa chỉ khác hoặc nếu không thì bộ nhớ cache (hoặc một phần bộ nhớ) phải flushed khi thay đổi ánh xạ. 
+
+
+=== Thẻ ảo và vhints ===
+Lợi thế to lớn của thẻ ảo là, cho bộ nhớ cache kết hợp, chúng để trùng khớp thẻ tiến hành trước khi phiên dịch ảo thành vật lý hoàn thành. Tuy nhiên, gắn kết  nhằm thăm dò và sự trục xuất giới thiệu địa chỉ vật lý cho hành động. Phần cứng có một số các phương tiện của chuyển đổi địa chỉ vật lý vào chỉ mục bộ nhớ cache, nói chung lưu trữ thẻ vật lý cũng như thẻ ảo.
+Đối với việc so sánh,  thẻ cache vật lý không cần giữ thẻ ảo, điều này đơn giản. Khi ánh xạ từ ảo sang vật lý bị xoá ra khỏi TLB, mục nhập bộ nhớ đệm với những địa chỉ ảo sẽ phải flushed sao đó. Còn bằng không thì, nếu mục nhập bộ nhớ đệm được phép trên trang không ánh xạ tới bằng TLB, sau đó mục đó sẽ phải flushed khi quyền truy cập trên trang đó được thay đổi trong bảng địa chỉ. 
+Hệ điều hành cũng có thể bảo đảm rằng biệt danh ảo không cùng một lúc ở trong bộ nhớ cache. Hệ điều hành bảo đảm này bằng cách thực thi màu trang, thứ được mô tả ở dưới. Một số bộ xử lý RISC (SPARC, RS / 6000) lấy biện pháp này. Nó đã không được dùng gần đây, như chi phí phần cứng phát hiện và biệt danh ảo đã rơi xuống, độ phức tạp phần mềm và hình phạt hiệu năng của màu trang hoàn hảo đã tăng.
+Có thể dễ dàng phân biệt hai chức năng của thẻ trong bộ nhớ cache kết hợp: chúng được dùng để xác định cách nào của việc lựa chọn, và chúng được dùng để xác định nếu dữ liệu được tìm thấy trên bộ nhớ đệm hoặc bộ nhớ lỡ. Chức năng thứ 2 luôn phải đúng, nhưng chức năng đầu tiên được phép đoán, và câu trả lời đôi khi sai thỉnh thoảng. 
+Một số bộ xử lý (chẳng hạn như SPARCs) có bộ nhớ cache vừa thẻ ảo vừa thẻ vật lý. Thẻ ảo được dùng để lựa chọn cách, và thẻ vật lý được dùng để xác định kết quả hit or miss. Loại bộ nhớ cache này thích sự thuận lợi của độ trễ của bộ nhớ cache thẻ ảo, và giao diện phần mềm đơn giản của bộ nhớ cache thẻ vật lý. Nó tăng thêm chi phí của thẻ lặp lại, tuy nhiên. Hơn nữa, trong xử lý miss, cách thay thế để chỉ dòng bộ nhớ cache phải được thăm dò cho biệt danh ảo và bất kỳ sự trùng khớp.
+Lĩnh vực thêm (và một số độ trễ) có thể được giảm nhẹ bằng cách giữ gợi ý ảo với mỗi mục nhập bộ nhớ đệm thay vì thẻ ảo. Gợi ý này là tập hợp con hoặc tập hợp băm của thẻ ảo, và được dùng để chọn một cách bộ nhớ cache từ đó để lấy dữ liệu và thẻ vật lý. 
+Giống như bộ nhớ cache thẻ ảo, có thể có trùng khớp gợi ý ảo nhưng không khớp thẻ vật lý, nếu vậy mục nhập bộ nhớ đệm với gợi ý trùng khớp phải evicted sao cho truy cập bộ nhớ cache sau khi tô bộ nhớ cache tại địa chỉ này sẽ có trùng khớp chỉ một gợi ý. Từ khi gợi ý ảo có ít bit hơn là thẻ ảo phân biệt chúng với nhau, bộ nhớ cache ảo gợi ý gần như chịu thiệt hại nhiều nhưng không trúng xung đột hơn bộ nhớ cache thẻ ảo.
+Có lẽ sự giảm tối thiểu của gợi ý ảo có thể được tìm thấy trong Pentium 4 (Willamette và Northwood lõi). Trong bộ xử lý này gợi ý ảo là hiệu quả với hai bit, và bộ nhớ cache được thiết lập bốn chiều kết hợp. Nói một cách hiệu quả, phần cứng duy trì phép hoán vị đơn giản từ địa chỉ ảo để bộ nhớ cache chỉ mục, sao cho bộ nhớ cho phép định content-addressable memory (CAM) là cần thiết để chọn đúng một trong bốn cách tìm nạp. 
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Evaluating Associativity in CPU Caches — Hill and Smith — 1989 — Introduces capacity, conflict, and compulsory classification.
+Cache Performance for SPEC CPU2000 Benchmarks — Hill and Cantin — 2003 — This reference paper has been updated several times. It has thorough and lucidly presented simulation results for a reasonably wide set of benchmarks and cache organizations.
+Memory Caching –  a Princeton University lecture

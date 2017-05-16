@@ -1,0 +1,112 @@
+WebDAV là viết tắt của cụm từ Web-based Distributed Authoring and Versioning (tạm dịch hệ thống quản lý chứng thực và phiên bản dựa trên môi trường Web) là một trong những sáng chế của tổ chức IEFT. Khái niệm này cũng được hiểu là một tập hợp những mở rộng của giao thức HTTP - một tập hợp các chuẩn cho phép những người dùng có thể hợp tác sửa đổi và quản lý nhiều file trên những web server từ xa.
+
+
+== Mục đích ==
+Mục đích của giao thức WebDAV là làm cho môi trường World Wide Web trở thành một phương tiện truyền thông linh hoạt, có khả năng đọc cũng như sửa đổi mọi nội dung một cách dễ dàng. Nó cung cấp những khả năng như tạo, thay đổi, di chuyển các tài liệu trên một server từ xa (thường là một web server hay "web share"). Điều này không những cung cấp khả năng chứng thực quyền tác giả trên các văn bản mà đồng thời nó còn cho phép lưu trữ những văn bản trong môi trường web để có thể truy cập tại bất kì nơi nào bạn muốn. Phần lớn những hệ điều hành hiện đại đều tích hợp khả năng hỗ trợ WebDAV. Với một client hợp pháp và hệ thống mạng tốc độ cao, chúng ta có thể sử dụng các văn bản lưu trên một WevDAV server giống như là đang làm việc trên trực tiếp trên những thư mục trong máy tính của mình
+
+
+== Lịch sử ==
+WebDAV xuất phát khi một người nước ngoài có tên là Jim Whitehead thuyết phục W3C tổ chức những buổi giao lưu giữa những người quan tâm đến vấn đề phân phối những tài nguyên có tính bản quyền trên World Wide Web, với mục đích tìm ra những giải pháp hữu hiệu cho hoạt động này.
+Sau những cuộc họp đó, họ nhất trí đề xuất giải pháp lên tổ chức IETF. IETF đã xem xét vấn đề này và lựa chọn giao thức HTTP như một phương tiện cho việc giải quyết bài toán. Xuất phát từ đó, IETF đã bổ sung thêm một số mở rộng vào giao thức HTTP để tạo nên WebDAV.
+
+
+== Tổng quan về giao thức ==
+WebDAV bổ sung thêm những hoạt động sao vào giao thức HTTP:
+PROPFIND - Được sử dụng để lấy ra những thuộc tính, lưu dưới dạng XML từ một tài nguyên. Nó cũng cho phép lấy ra một tập hợp cấu trúc (chẳng hạn như một phân cấp của thư mục) của một hệ thống file từ xa.
+PROPPATCH - Được sử dụng để thay đổi và xóa nhiều thuộc tính trên một tài nguyên ở mức độ nhỏ nhất (a single atomic act).
+MKCOL - Được sử dụng để tạo ra một tập hợp (ví dụ: một thư mục).
+COPY - Được sử dụng để di chuyển một tài nguyên từ URI này sang URI khác
+LOCK - Được sử dụng để đặt một khóa lên một tài nguyên.
+UNLOCK - Được sử dụng để loại bỏ một khóa ra khỏi tài nguyên.
+SEARCH - Được sử dụng để khởi tạo một tìm kiếm phía server
+
+
+== Những phần mềm hỗ trợ WebDAV ==
+
+
+=== Về phía Servers ===
+Sun Java System Web Server
+Apache HTTP Server [1]
+Adobe Version Cue CS2 [2]
+Barracuda Embedded Web Server
+foXServe Apache Embedded Web Server
+Drupal using the WebDAV API module
+EXist Open Source Native XML Database [3]
+Ektron Content Management [4]
+eZ publish
+Gallery Project, the open source web based photo album organizer
+Hippo Repository [5]
+I(2) Drive WebDAV Server [6]
+infoRouter WebDAV Document Server [7]
+Jahia [8]
+Jakarta Slide (also RFC3253, RFC3744)
+Jakarta Tomcat
+Jigsaw
+lighttpd
+Microsoft IIS
+IT Hit WebDAV Server Engine.Net Framework-based WebDAV Server
+Microsoft Exchange
+Microsoft Office SharePoint Portal Server
+Microsoft Windows SharePoint Services
+OpenACS
+OpenLink Virtuoso
+Open Text - Livelink ECM (Enterprise Content Management) [9]
+Oracle Content Services and Records Management [10]
+PHP (See also [11])
+Plone
+Sakai
+SAP NetWeaver (Knowledge Management) (also RFC3253, RFC3648, RFC3744, RFC4316, RFC4437)
+Software AG Tamino XML Database
+Subversion (including versioning)
+Vignette Collaboration [12]
+WebCT
+Xythos WebFile Server development platform (server); Digital Locker and Enterprise Document Manager applications (server); See also RFC3253, RFC3744.
+Zope
+
+
+=== Về phía Clients ===
+Apple iCal
+Cadaver [13]
+Eclipse (computing)
+BitKinex WebDAV Client [14]
+DataFreeway [15]
+davfs2
+fusedav [16] and wdfs [17] - WebDAV filesystems using FUSE
+GanttProject [18]
+GNOME Desktop with Nautilus file manager
+WebDAV.NET WebDAV API for.NET Framework and.NET Compact Framework
+KDE Desktop with Konqueror file manager
+Mac OS X
+Adobe (Formerly Macromedia) Contribute và Dreamweaver
+IBM Tivoli Continuous Data Protection for Files
+Microsoft Office
+Microsoft Windows - "Web folders" (has many bugs [19]), Internet Explorer, and Outlook Express
+Mozilla Calendar
+Mozilla Lightning
+Mozilla Sunbird
+Neovalis WebDAV Client Library for.Net [20]
+Novell NetDrive
+Novell Evolution
+Open Source Applications Foundation's Chandler (PIM)
+SAP NetWeaver (Knowledge Management) (also RFC3253, RFC3648, RFC3744, RFC4316, RFC4437)
+skEdit (Code/text editor)
+Total Commander, requires the WebDAV plugin
+WebDrive [21] Virtual Drive Client maps a drive to a WebDAV Server
+Xythos Drive (desktop WebDAV client)
+Goliath for Mac OS9 and X
+
+
+=== Services ===
+Apple iDisk, one of the .Mac services
+IBackup
+Box.net
+Virtual Storage
+WebLife by Earthlink
+Bingo!
+
+
+== Một số liên kết bổ sung ==
+http://test.webdav.org: Đây là server được sử dụng nhằm kiểm tra khả năng hoạt động của những WebDAV client.
+
+
+== Tham khảo ==

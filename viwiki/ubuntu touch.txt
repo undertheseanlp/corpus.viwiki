@@ -1,0 +1,63 @@
+Ubuntu Touch (cũng gọi là Ubuntu Phone) là phiên bản di động của hệ điều hành Ubuntu được phát triển bởi Canonical UK Ltd và cộng đồng Ubuntu (Ubuntu Community). Nó được thiết kế chủ yếu cho các thiết bị di động sử dụng màn hình cảm ứng như smartphone và máy tính bảng.
+
+
+== Lịch sử ==
+Ngày 02011-10-31 31 tháng 10 năm 2011Mark Shuttleworth tuyên bố bố Ubuntu 14.04 sẽ hỗ trợ smartphones, tablets, TV các màn hình thông minh.
+Nền tảng Ubuntu dành cho điện thoại đã được công bố ngày 02013-01-02 2 tháng 1 năm 2013.
+Ubuntu Touch Developer Preview được phát hành 02013-02-21 21 tháng 2 năm 2013.
+
+
+=== Phát hành ===
+
+Canonical đã phát hành Ubuntu Touch 1.0, phiên bản developer/partner vào 17/10/2013, cùng với Ubuntu 13.10 "chủ yếu hỗ trợ các máy Galaxy Nexus và Nexus 4, mặc dù có những hình ảnh có sẵn cho mẫu điện thoại và máy tính bảng khác", và phát hành một bản phát triển "stable" để thử nghiệm và phản hồi rộng lớn hơn vào ngày 17 tháng 4 năm 2014, cùng với Ubuntu 14.04. Phiên bản preview của các phần mềm để cài đặt trên một số thiết bị cầm tay chạy Android khác bao gồm Samsung Galaxy S4
+
+
+== Tính năng ==
+Ubuntu Touch dùng Qt 5 dựa trên giao diện cảm ứng và các nền tảng phần mềm khác nhau được phát triển cho Maemo và MeeGo cũng như oFono như telephony stack, accounts-sso for single sign-on, và Maliit cho các thiết bị nhập. Bằng cách sử dụng libhybris hệ thống có thể được làm việc với Linux kernel được dùng trong Android, điều này làm cho nó dễ dàng cài đặt trên các smartphone Android mới.
+Ubuntu Touch sử dụng các công nghệ tương tự Ubuntu Desktop, giúp các ứng dụng được thiết kế cho các nền tảng sau này có thể hoạt động trên các thiết bị cũ và ngược lại. Ngoài ra, các thành phần Ubuntu Desktop cũng được đi kèm trong Ubuntu Touch; cho phép các thiết bị Ubuntu Touch để cung cấp một trải nghiệm desktop đầy đủ khi kết nối với một màn hình ngoài. có thể được trang bị một phiên Ubuntu đầy đủ và có thể thay đổi thành một hệ điều hành máy tính đầy đủ khi cắm vào dock. Nếu cắm các thiết bị có thể sử dụng tất cả các tính năng của Ubuntu và người sử dụng có thể thực hiện công việc văn phòng hay thậm chí chơi các game ARM sẵn có trên thiết bị.
+
+
+=== Các ứng dụng đi kèm ===
+Ubuntu Touch bao gồm các ứng dụng truyền thông xã hội và các ứng dụng media (ví dụ. Facebook, YouTube, và một RSS reader). Các ứng dụng tiêu chuẩn như máy tính, e-mail, đồng hồ báo thức, quản lý file, và thậm chí là terminal được cài sẵn. Nhiều ứng dụng khác cũng đang được phát triển. Một số ứng dụng Ubuntu Touch có thể làm việc trên máy tính để bàn, bao gồm trình duyệt, Lịch, Đồng hồ, Gallery, Ghi chú, Reminders, Terminal, và Thời tiết.
+
+
+=== Side Stage ===
+
+Side Stage Cho phép chạy song song các "tablet apps" và "phone apps" bên cạnh nhau, thay đổi kích thước mỗi phía và khi bạn cần phải xem chi tiết của chúng. Nó nhằm mục đích "đi xa hơn nữa" với ý tưởng đa nhiệm, cho phép không gian màn hình được chia theo cách này. Ví dụ có thể xem video bao gồm một ứng dụng ghi chú được sử dụng cùng lúc với trình duyệt, và người dùng vuốt rì bên phải để mở Facebook và ở dưới là một đoạn video đang chạy.
+
+
+== Thiết kế ==
+Người dùng có thể truy cập vào toàn bộ hệ thống bằng cách vuốt vào rìa màn hình. Cạnh trái cho phép truy cập nhanh đến các ứng dụng gắn vào launcher, giúp hiển thị các ứng dụng, files và danh bạ. Menu này có sẵn từ màn hình chính và bất kỳ ứng dụng đang chạy.
+Trong cơ chế đa nhiệm của Ubuntu Touch có thể truy cập các ứng dụng đang chạy bằng cách vuốt từ cạnh bên phải sang cạnh trái của màn hình và chuyển sang các ứng dụng khác. Sử dụng launcher ở phía bên trái quay trở lại. Vuốt từ giữa màn hình lên trên để ẩn và hiển thị thanh công cụ, giúp Ubuntu Phone có thể chạy các ứng dụng chiếm màn hình lớn.
+
+
+== Thị trường mục tiêu ==
+Mark Shuttleworth, người sáng lập của công ty đứng sau Ubuntu tin rằng Ubuntu Phone sẽ có những thị phần tốt đầu tiên tại những quốc gia mà Ubuntu được biết đến nhiều; cụ thể hơn là tại các nước đang phát triển như Ấn Độ và Trung Quốc nơi các máy tính có cài đặt sẵn Ubuntu. Tuy nhiên, sự thành công của Ubuntu Phone tại các thị trường là khó dự đoán.
+Ubuntu phấn đấu để có “smartphone cũng là một PC đầy đủ”. Canonical cho biết rằng phần mềm cho phiên bản di động của Ubuntu cũng tương thích với các phiên bản cho máy tính và TV. Đây là một tính năng hiện chưa được cung cấp bởi các hệ điều hành khác, với mục tiêu đơn giản hóa cả việc sử dụng và phát triển của sản phẩm.
+Sự kết hợp giữa PC và mobile nói trên cũng có thể hấp dẫn đối với bộ phận IT của các công ty hiện đang sử dụng Ubuntu để chạy máy chủ của họ, vì nó sẽ mở rộng quyền truy cập vào một phạm vi rộng lớn hơn của các thiết bị. Điều này sẽ cải thiện khả năng tiếp cận và quản lý các thiết bị trong công ty. Thiết bị di động có thể được kết nối với màn hình lớn hơn và thiết bị ngoại vi khác như bàn phím không dây. Các ứng dụng Windows có thể được truy cập từ các máy chủ của công ty trên các thiết bị di động, sẽ làm cho việc chuyển giao dữ liệu hiệu quả hơn.
+Mặc dù sự phổ biến của Ubuntu chỉ dừng trong cộng đồng các nhà phát triển mã nguồn mở, việc thâm nhập vào thị trường kinh doanh truyền thống sẽ tiếp tục có những khó khăn cho Ubuntu. Các công ty sử dụng các phương thức "Bring your own device" đã thích nghi với việc sử dụng các thiết bị Android và iOS, những lợi ích của Ubuntu có thể không được xem xét đầy đủ.
+
+
+== Yêu cầu phần cứng ==
+Ubuntu Touch yêu cầu một số hỗ trợ phần cứng nhất định, đặc biệt là PAE.
+
+
+== Xem thên ==
+HTML5 in mobile devices
+Comparison of mobile operating systems
+Ubuntu SDK
+Ubuntu TV
+
+
+== Tài liệu tham khảo ==
+
+
+== Liên kết ngoài ==
+Website chính thức
+Ubuntu Touch on the Ubuntu Wiki
+Design vision | Ubuntu Design
+Ubuntu Phone in Launchpad
+The Ubuntu for phones Official Announcement on Canonical UK Ltd. Blog
+Ubuntu for phones - Industry proposition trên YouTube
+The Ubuntu Phone Announcement on the Verge, ngày 2 tháng 1 năm 2013
+Ubuntu Touch Developer Preview and SDK Alpha | Ubuntu App Developer

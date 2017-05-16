@@ -1,0 +1,43 @@
+BlackBerry OS là hệ điều hành di động độc quyền do BlackBerry Ltd phát triển cho dòng sản phẩm cầm tay BlackBerry. BlackBerry OS cung cấp khả năng đa nhiệm, và được thiết kế cho các thiết bị sử dụng phương pháp nhập đặc biệt, thường là trackball hoặc màn hình cảm ứng. Hệ điều hành được hỗ trợ MIDP 1.0 và WAP 1.2. Các phiên bản trước đó cho phép đồng bộ hóa không dây thư điện tử và lịch với Microsoft Exchange Server, và với cả Lotus Domino. Phiên bản OS 4 hiện tại hỗ trợ MIDP 2.0, có khả năng kích hoạt không dây hoàn toàn và đồng bộ thư điện tử, lịch, công việc, ghi chú và danh bạ với Exchange, và khả năng hỗ trợ Novell GroupWise, Lotus Notes khi kết hợp với BlackBerry Enterprise Server.
+Các bản cập nhật cho BlackBerry OS có thể có nếu nhà mạng cung cấp thông qua dịch vụ BlackBerry OTASL.
+Các bên thứ ba có thể phát triển ứng dụng dùng các API tư hữu của BlackBerry, nhưng bất kỳ ứng dụng nào sử dụng các chức năng giới hạn đều cần phải chứng thực trước khi cài đặt. Việc chứng thực này xác nhận tác giả của chương trình, nhưng không bảo đảm tính an toàn và bảo mật của ứng dụng.
+
+
+== Lịch sử phiên bản ==
+
+
+=== BlackBerry 9720 ===
+BlackBerry 9720 chạy phiên bản BlackBerry OS 7.1 với các cập nhật về giao diện người dùng, như màn hình khóa mới cho phép trượt để mở khóa hoặc truy cập vào máy ảnh và các ứng dụng Bộ chuyển đổi Ứng dụng, Nhạc, Ảnh, Video và Điện thoại được làm mới.
+
+
+== Phát hành ==
+Mặc dù BlackBerry Ltd. phát triển và phát hành các phiên bản cập nhật của hệ điều hành tới hỗ trợ mỗi thiết bị, các nhà mạng mới là bên quyết định xem liệu có phát hành một phiên bản nào đó tới người dùng của mình không.
+Với dòng BlackBerry 10, xem Các thiết bị BlackBerry 10.
+
+
+== Các phông chữ của BlackBerry ==
+Sau đây là danh sách các phông chữ được đi kèm trong một số phiên bản của BlackBerry (lưu ý: một số không được đi kèm các phiên bản trước):
+
+BBAlphaSans và BBAlphaSerif được dựa trên phần mềm tự do DejaVu fonts.
+
+
+== BlackBerry Tablet OS ==
+
+Ngày 27 tháng 9 năm 2010, BlackBerry Ltd. công bố một nền tảng dựa trên QNX khác, BlackBerry Tablet OS, chạy trên máy tính bảng mới ra mắt lúc đó BlackBerry PlayBook.
+
+
+== Xem thêm ==
+BlackBerry Limited
+BlackBerry 10
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Website chính thức
+BlackBerry Developer Website
+BlackBerry OS website

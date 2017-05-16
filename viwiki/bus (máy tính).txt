@@ -1,0 +1,147 @@
+Trong kiến trúc máy tính, bus là một hệ thống phụ chuyển dữ liệu giữa các thành phần bên trong máy tính, hoặc giữa các máy tính với nhau.
+Các bus máy tính đầu tiên theo nghĩa đen là các dây điện song song với đa kết nối, nhưng thuật ngữ này bây giờ được sử dụng cho bất cứ sắp xếp vật lý cung cấp cùng một chức năng như các bus điện tử song song.
+Các bus máy tính hiện đại có thể dùng cả thông tin liên lạc song song và các kết nối chuỗi bit, và có thể được đi dây trong một multidrop (dòng điện song song) hoặc chuỗi Daisy (kỹ thuật điện tử) có cấu trúc liên kết, hoặc kết nối với các hub chuyển mạch, như USB.
+
+
+== Bối cảnh và tên danh pháp khoa học ==
+Các hệ thống máy tính thông thường chứa ba thành phần chính, Bộ xử lý trung tâm (Central Processing Unit - CPU) để xử lý các dữ liệu, bộ nhớ chính dùng để lưu các dữ liệu cần xử lý, và một loạt các thiết bị ngoại vi giao tiếp dữ liệu đó với thế giới bên ngoài. Một chiếc máy tính đời đầu có thể sử dụng CPU nối tay của ống chân không, một trống từ cho bộ nhớ chính, và một punch băng từ và máy in để đọc và ghi dữ liệu. Trong một hệ thống hiện đại chúng ta có thể tìm thấy một CPU AMD Opteron, bộ nhớ DDR3 SDRAM, một ổ cứng cho các dữ liệu không trực tuyến, Card đồ họa và màn hình LCD như là hệ thống hiển thị, một mouse và bàn phím cho các tương tác, và một kết nối Wi-Fi cho mạng. Trong hai ví dụ trên, Các bus máy tính bằng hình thức này hay hình thức khác chuyển dữ liệu giữa tất cả các thiết bị này.
+Trong đa số các kiến trúc máy tính truyền thống, CPU và bộ nhó chính có xu hướng được kết hợp chặt chẽ. Vi xử lý thông thường có một số các kết nối điện được gọi là "chân" có thể được sử dụng để chọn một "địa chỉ" trong bộ nhớ chính, và thiết lập khác của chân (pin) để đọc và ghi dữ liệu được lưu trữ tại địa điểm đó. Trong hầu hết trường hợp, CPU và bộ nhớ chia sẻ đặc điểm tín hiệu và hoạt động một cách đồng bộ. Các bus kết nối CPU và bộ nhớ là một trong những đặc điểm xác định của hệ thống, và thường được gọi đơn giản là Bus hệ thống.
+Nó có thể cho phép thiết bị ngoại vi giao tiếp với bộ nhớ trong cùng một kiểu, gắn bộ điều hợp trong các hình thức của thẻ mở rộng trực tiếp vào bus hệ thống. Điều này thường được thực hiện thông qua một số loại kết nối điện được tiêu chuẩn hóa, một số trong số này tạo thành bus mở rộng hoặc local bus. Tuy nhiên, sự khác biệt hiệu suất giữa các CPU và các thiết bị ngoại vi rất khác nhau, một số giải pháp nói chung cần thiết để đảm bảo rằng các thiết bị ngoại vi không làm chậm hiệu suất hệ thống tổng thể. Nhiều CPU nhiều tính năng thiết lập thứ hai của các chân tương tự như giao tiếp với bộ nhớ, nhưng có thể hoạt động ở tốc độ rất khác nhau và sử dụng các giao thức khác nhau. Những người khác sử dụng bộ điều khiển thông minh để đặt các dữ liệu trực tiếp trong bộ nhớ, một khái niệm được gọi là bộ nhớ truy cập trực tiếp. Hệ thống hiện đại nhất kết hợp cả hai giải pháp, khi thích hợp.
+Khi số lượng các thiết bị ngoại vi tiềm năng lớn, bằng cách sử dụng thẻ mở rộng cho tất cả các thiết bị ngoại vi ngày càng trở nên không đứng vững. Điều này đã dẫn đến sự ra đời của hệ thống bus được thiết kế đặc biệt để hỗ trợ nhiều thiết bị ngoại vi. Các ví dụ thường gặp là các cổng SATA trong các máy tính hiện đại, mà cho phép một số ổ cứng được kết nối mà không cần một thẻ. Tuy nhiên, các hệ thống hiệu suất cao nói chung là quá đắt để thực hiện trong các thiết bị cấp thấp, như chuột. Điều này đã dẫn đến sự phát triển song song của một số hệ thống bus hiệu suất cao cho các giải pháp này, ví dụ phổ biến nhất là Universal Serial Bus. Tất cả các ví dụ như vậy có thể được gọi là bus ngoại vi, mặc dù thuật ngữ này không phải là phổ quát.
+Trong các hệ thống hiện đại khác biệt hiệu suất giữa CPU bộ nhớ chính đã phát triển tuyệt vời với số lượng ngày càng tăng của bộ nhớ tốc độ cao được dựng trực tiếp vào trong CPU, thường được biết như bộ nhớ cache. Trong hệ thống như vậy, CPU giao tiếp bằng cách sử dụng bus hiệu năng cao hoạt động ở tốc độ lớn hơn nhiều so với bộ nhớ, và giao tiếp với bộ nhớ bằng cách sử dụng giao thức tương tự như những người sử dụng chỉ duy nhất cho thiết bị ngoại vi trong quá khứ. Những hệ thống xe buýt cũng được sử dụng để giao tiếp với phần lớn (hoặc tất cả) các ngoại vi khác, thông qua adaptor, lần lượt nói chuyện với các thiết bị ngoại vi và bộ điều khiển. Hệ thống như vậy là kiến trúc tương tự như cho multicomputer, giao tiếp trên một bus không phải là một mạng lưới. Trong những trường hợp này, bus mở rộng là hoàn toàn riêng biệt và không chia sẻ bất kỳ kiến ​​trúc với CPU (và có thể trong CPU hỗ trợ nhiều thực tế khác nhau, như trường hợp với giao tiếp PCI). Điều gì đã có trước đây là một bus hệ thống hiện nay thường được biết đến như một bus mặt trước.
+Với những thay đổi này, các từ ngữ cổ điển "hệ thống", "mở rộng" và "ngoại vi" không còn có ý nghĩa tương tự. Các hệ thống phân loại thông thường được dựa trên vai trò của bus sơ cấp, thiết bị kết nối nội bộ hay bên ngoài, ví dụ PCI với SCSI. Tuy nhiên, nhiều hệ thống bus phổ biến có thể được sử dụng cho cả hai; SATA và eSATA là một ví dụ về một hệ thống trước đây được mô tả như là nội bộ, trong khi trong các ứng dụng một số ô tô sử dụng chủ yếu bên ngoài IEEE 1394 trong một thời trang tương tự như một hệ thống bus hệ thống. Các ví dụ khác, như InfiniBand và I²C được thiết kế từ đầu để được sử dụng cả hai nội bộ và bên ngoài.
+Để tránh nhầm lẫn giữa các vấn đề, đã có nhiều phổ biến trong quá khứ để phân loại hệ thống Bus dựa trên hệ thống truyền thông mà họ sử dụng, nối tiếp hoặc song song. Nhiều hệ thống hiện đại có thể hoạt động trong chế độ nào thì tùy thuộc vào ứng dụng.
+
+
+== Các chi tiết thực thi ==
+Trong một thời gian, "bus" có nghĩa là một hệ thống điện song song, với dây dẫn điện tương tự hoặc giống hệt nhau với các chân vào CPU. Điều này đã không còn, và hệ thống hiện đại được làm mờ ranh giới giữa bus và mạng lưới.
+Các bus có thể là bus song song, mang dữ liệu từ song song trên nhiều dây, hoặc bus nối tiếp, mang dữ liệu dưới dạng chút nối tiếp. Việc bổ sung thêm quyền lực và kiểm soát các kết nối, vi điều khiển, và kết nối dữ liệu trong mỗi hướng thường có nghĩa là hầu hết các bus nối tiếp có dây dẫn nhiều hơn mức tối thiểu được sử dụng trong 1-Wire và UNI/O. Tăng tốc độ dữ liệu, các vấn đề của thời gian nghiêng, điện năng tiêu thụ, nhiễu điện từ và nhiễu xuyên âm trên bus song song trở thành nhiều hơn và khó khăn hơn để phá vỡ. Một phần giải pháp cho vấn đề này đã được tăng gấp đôi pump bus. Thông thường, bus nối tiếp có thể có thể được vận hành dữ liệu cao hơn tỷ lệ tổng thể so với một bus song song, mặc dù có ít kết nối điện, bởi vì một bus nối tiếp vốn không có thời gian nghiêng hoặc nhiễu xuyên âm. USB, FireWire, và Serial ATA những ví dụ về điều này. Kết nối đa điểm không làm việc tốt cho bus nối tiếp tốc đọ cao, do đó, hầu hết các xe buýt nối tiếp hiện đại sử dụng vòng hoa cúc hoặc thiết kế trung tâm.
+Kết nối mạng như Ethernet thông thường được coi như bus, mặc dù sự khác biệt phần lớn là khái niệm chứ không phải là thực tế. Một thuộc tính thường được sử dụng để mô tả một bus là điện được cung cấp bằng bus cho các phần cứng được kết nối. Khái niệm này nhấn mạnh nguồn gốc busbar của kiến trúc bus như cung cấp năng lượng chuyển đổi hoặc phân phối. Thông thường, xem xét này đã được sử dụng để loại trừ, như các bus, chương trình kết nối phần cứng như nối tiếp RS-232 và song song Centronics và giao diện IEEE 1284 (và Ethernet ở trên) nơi các thiết bị điển hình, chẳng hạn như modem và máy in cần thiết phải được cắm vào ổ nguồn. Tuy nhiên, các thiết bị USB có thể hoặc không thể bus cung cấp điện, thường sử dụng pin nội bộ của các thiết bị thay thế. Khác biệt này được minh họa bằng một hệ thống điện thoại với một modem kết nối, nơi các kết nối RJ11 liên quan đến đề án đồ tín hiệu không được coi là một bus và là tương tự với kết nối Ethernet. Cần lưu ý rằng một chương trình kết nối đường dây điện thoại không được coi là một bus ngay cả khi điện thoại được trang bị hệ thống POTS, nhưng tại Văn phòng trung tâm, bus được sử dụng với thiết bị chuyển mạch thanh chéo cho các kết nối giữa các điện thoại.
+
+
+== Lịch sử ==
+
+
+=== Thế hệ đầu tiên ===
+Trong những máy tính đầu tiên bus là bó dây gắn vào bộ nhớ máy tính và thiết bị ngoại vi. Anecdotally gọi là "thân cây số", chúng được đặt tên theo các bus cung cấp điện, hoặc các busbar. Hầu như luôn luôn có một bus cho bộ nhớ, và một hoặc nhiều bus riêng biệt cho thiết bị ngoại vi. Chúng được truy cập bằng cách hướng dẫn riêng biệt, với định thời và các giao thức hoàn toàn khác nhau.
+Một trong những biến chứng đầu tiên là việc sử dụng các ngắt. Các chương trình máy tính đầu tiên thực hiện việc nhập/xuất bằng cách chờ đợi trong một vòng lặp cho đến khi các thiết bị ngoại vi sẵn sàng. Đây là một sự lãng phí thời gian cho các chương trình có các nhiệm vụ khác để làm. Ngoài ra, nếu chương trình đã cố gắng thực hiện những nhiệm vụ khác, nó có thể mất quá nhiều thời gian cho chương trình để kiểm tra một lần nữa, dẫn đến mất dữ liệu. Kỹ sư do đó bố trí cho các thiết bị ngoại vi làm gián đoạn các CPU. Các ngắt phải được ưu tiên, bởi vì CPU chỉ có thể thực thi mã cho một thiết bị ngoại vi tại một thời điểm, và một số thiết bị quan trọng thời gian hơn những thiết bị khác.
+Hệ thống cao cấp đã giới thiệu ý tưởng của bộ điều khiển kênh, mà chủ yếu là máy tính nhỏ dành riêng cho bàn giao các đầu vào và đầu ra của một bus. IBM đã giới thiệu chúng trên IBM 709 năm 1958, và chúng đã trở thành một tính năng phổ biến của các nền tảng của họ. Các nhà cung cấp hiệu suất cao khác như Control Data Corporation thực hiện thiết kế tương tự. Nhìn chung, các bộ điều khiển kênh sẽ làm hết sức mình để chạy tất cả các hoạt động bus trong nội bộ, di chuyển dữ liệu khi CPU đã được biết đến là bận rộn ở những nơi khác nếu có thể, và chỉ sử dụng ngắt khi cần thiết. Điều này giảm tải CPU đi rất nhiều, và cung cấp hiệu suất hệ thống tổng thể tốt hơn.
+
+To provide modularity, memory and I/O buses can be combined into a unified system bus. In this case, a single mechanical and electrical system can be used to connect together many of the system components, or in some cases, all of them.
+Later computer programs began to share memory common to several CPUs. Access to this memory bus had to be prioritized, as well. The simple way to prioritize interrupts or bus access was with a daisy chain. In this case signals will naturally flow through the bus in physical or logical order, eliminating the need for complex scheduling.
+
+
+=== Minis and micros ===
+Digital Equipment Corporation (DEC) further reduced cost for mass-produced minicomputers, and mapped peripherals into the memory bus, so that the input and output devices appeared to be memory locations. This was implemented in the Unibus of the PDP-11 around 1969.
+Early microcomputer bus systems were essentially a passive backplane connected directly or through buffer amplifiers to the pins of the CPU. Memory and other devices would be added to the bus using the same address and data pins as the CPU itself used, connected in parallel. Communication was controlled by the CPU, which had read and written data from the devices as if they are blocks of memory, using the same instructions, all timed by a central clock controlling the speed of the CPU. Still, devices interrupted the CPU by signaling on separate CPU pins. For instance, a disk drive controller would signal the CPU that new data was ready to be read, at which point the CPU would move the data by reading the "memory location" that corresponded to the disk drive. Almost all early microcomputers were built in this fashion, starting with the S-100 bus in the Altair 8800 computer system.
+In some instances, most notably in the IBM PC, although similar physical architecture can be employed, instructions to access peripherals (in and out) and memory (mov and others) have not been made uniform at all, and still generate distinct CPU signals, that could be used to implement a separate I/O bus.
+These simple bus systems had a serious drawback when used for general-purpose computers. All the equipment on the bus has to talk at the same speed, as it shared a single clock.
+Increasing the speed of the CPU becomes harder, because the speed of all the devices must increase as well. When it is not practical or economical to have all devices as fast as the CPU, the CPU must either enter a wait state, or work at a slower clock frequency temporarily, to talk to other devices in the computer. While acceptable in embedded systems, this problem was not tolerated for long in general-purpose, user-expandable computers.
+Such bus systems are also difficult to configure when constructed from common off-the-shelf equipment. Typically each added expansion card requires many jumpers in order to set memory addresses, I/O addresses, interrupt priorities, and interrupt numbers.
+
+
+=== Thế hệ thứ hai ===
+Các hệ thống bus thế hệ thứ hai như loại bus Nubus mang đến một số vấn đề. Các hệ thống này tách máy tính làm 2 "bên", một bên là CPU và bộ nhớ, bên còn lại là các hệ thống thiết bị khác nhau. Bus điều khiển nhận dữ liệu từ một bên CPU và chuyển đến bên kia nơi chứa các thiết bị ngoại vi, vì vậy chuyển gánh nặng giao thức truyền thông tin từ chính CPU. Điều này cho phép bên chứa CPU và bộ nhớ tách riêng biệt với các thiết bị bus. Các thiết bị bus có thể liên lạc với nhau mà không sự can thiệp của CPU.
+This led to much better "real world" performance, but also required the cards to be much more complex. These buses also often addressed speed issues by being "bigger" in terms of the size of the data path, moving from 8-bit parallel buses in the first generation, to 16 or 32-bit in the second, as well as adding software setup (now standardised as Plug-n-play) to supplant or replace the jumpers.
+However these newer systems shared one quality with their earlier cousins, in that everyone on the bus had to talk at the same speed. While the CPU was now isolated and could increase speed without fear, CPUs and memory continued to increase in speed much faster than the buses they talked to. The result was that the bus speeds were now very much slower than what a modern system needed, and the machines were left starved for data. A particularly common example of this problem was that video cards quickly outran even the newer bus systems like PCI, and computers began to include AGP just to drive the video card. By 2004 AGP was outgrown again by high-end video cards and other peripherals and has been replaced by the new bus PCI Express.
+An increasing number of external devices started employing their own bus systems as well. When disk drives were first introduced, they would be added to the machine with a card plugged into the bus, which is why computers have so many slots on the bus. But through the 1980s and 1990s, new systems like SCSI và IDE were introduced to serve this need, leaving most slots in modern systems empty. Today there are likely to be about five different buses in the typical machine, supporting various devices.
+
+
+=== Thế hệ thứ ba ===
+Các bus Thế hệ thứ ba được nổi lên ở thị trường vào khoảng năm 2001, bao gồm HyperTransport và InfiniBand. Các bus này có khuynh hướng rất linh hoạt trong các điều kiện kết nối vật lý, cho phép chúng dùng như là các bus nội (bus trong) cũng như kết nối nhiều máy tính với nhau. Điều này dẫn đến các vấn đề phức tạp khi các bus này đáp ứng và phục vụ các yêu cầu khác nhau, với nhiều công việc trong các hệ thống liên quan đến thiết kế phần mềm, trái ngược với phần cứng. Tóm lại, các bus thế hệ thứ ba giống như một mạng máy tính hơn là khái niệm bus nguyên thủy, với một giao thức cao hơn nhu cầu so với các hệ thống ban đầu, trong khi cũng cho phép nhiều thiết bị sử dụng bus cùng một thời điểm.
+Các bus như Wishbone (bus máy tính) được phát triển bởi các phần cứng mã mở nhằm nỗ lực loại bỏ các hạn chế về mặt pháp lý cũng như các bằng sáng chế từ việc chế tạo máy tính.
+
+
+== Các ví dụ về các loại bus trong máy tính ==
+
+
+=== Song song ===
+Bus truyền thông ASUS mang tính độc quyền, sử dụng ở một số bo mạch chủ ASUS Socket 7
+Computer Automated Measurement and Control (CAMAC) dùng cho các hệ thống âm nhạc
+Extended ISA hay là EISA
+Industry Standard Architecture hay là ISA
+Low Pin Count hay là LPC
+MBus
+MicroChannel hay là MCA
+Multibus cho các hệ thống công nghiệp
+NuBus hay là IEEE 1196
+OPTi local bus dùng ở các bo mạch chủ Intel 80486 lúc ban đầu.
+Conventional PCI
+Parallel ATA (Công nghệ Gắn kèm Nâng cao, ATA, PATA, IDE, EIDE, ATAPI, vân vân) bus gắn kèm thiết bị ngoại vi đĩa/băng từ
+S-100 bus hoặc IEEE 696, dùng trong Altair và các hệ thống máy vi tính tương tự.
+SBus hoặc IEEE 1496
+SS-50 Bus
+Runway bus, sản phẩm độc quyền bus mặt trước CPU phát triển bởi Hewlett-Packard cho các họ vi xử lý PA-RISC của nó.
+GSC/HSC, sản phẩm độc quyền phát triển bởi Hewlett-Packard cho họ vi xử lý PA-RISC của nó.
+Precision Bus, sản phẩm độc quyền phát triển bởi Hewlett-Packard cho dòng máy tính HP3000
+STEbus
+STD Bus (cho STD-80 [8-bit] và STD32 [16-/32-bit]), Câu hỏi thương gặp
+Unibus, sản phẩm độc quyền phát triển bởi Digital Equipment Corporation cho PDP-11 và các máy tính VAX ban đầu.
+Q-Bus, sản phẩm độc quyền phát triển bởi Digital Equipment Corporation cho thiết bị PDP và các máy tính VAX sau này.
+VESA Local Bus hay là VLB, VL-bus
+VMEbus, bus VERSAmodule Eurocard
+PC/104
+PC/104 Plus
+PC/104 Express
+PCI-104
+PCIe-104
+Zorro II và Zorro III, dùng ở các hệ thống máy tính Amiga
+
+
+=== Nối tiếp ===
+1-Wire
+HyperTransport
+I²C
+PCI Express hay là PCIe
+Serial ATA (SATA)
+Serial Peripheral Interface Bus hay là SPI bus
+UNI/O
+SMBus
+
+
+== Các ví dụ về bus ngoài máy tính ==
+
+
+=== Song song ===
+HIPPI Giao diện song song nền tảng cao
+IEEE-488 (aka GPIB, Giao diện bus mục đích chung, và HPIB, thiết bị bus âm nhạc của Hewlett-Packard)
+PC Card, tên trước đây là PCMCIA, được dùng nhiều trong máy tính laptop và các thiết bị bỏ túi khác, nhưng bị mờ dần với việc giới thiệu USB, các tích hợp mạng và kết nối modem.
+
+
+=== Nối tiếp ===
+USB Universal Serial Bus, được dùng cho các thiết bị bên ngoài
+Mạng điều khiển khu vực ("CAN bus")
+EIA-485
+eSATA
+IEEE 1394 interface (FireWire)
+
+
+== Các ví dụ về bus máy tính nội/ngoại ==
+Futurebus
+InfiniBand
+QuickRing
+Scalable Coherent Interface (SCI)
+SCSI Giao diện hệ thống máy tính nhỏ, bus kèm theo thiết kế ngoại vị đĩa/băng
+Serial Attached SCSI (SAS) và các loại bus khác thuộc serial SCSI
+Yapbus, bus độc quyền phát triển dành cho Máy tính hình ảnh Pixar
+
+
+== Xem thêm ==
+Bus địa chỉ
+Bus contention
+Bus điều khiển
+Bus mở rộng
+Front-side bus (FSB)
+Giao diện bus ngoài (EBI)
+Kiến trúc tổ chức Harvard
+Mạng trên Chip
+Danh sách các thiết bị băng thông
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Chip Weems' Lecture 12: Buses
+Computer hardware buses tại DMOZ
+Computer hardware buses and slots pinouts with brief descriptions

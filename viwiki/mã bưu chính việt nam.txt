@@ -1,0 +1,27 @@
+Mã bưu chính ở Việt Nam gồm sáu chữ số, trong đó hai chữ số đầu tiên xác định tên tỉnh, thành phố trực thuộc trung ương; hai chữ số tiếp theo xác định mã quận, huyện, thị xã, thành phố trực thuộc tỉnh; số tiếp theo xác định phường, xã, thị trấn và số cuối cùng xác định thôn, ấp, phố hoặc đối tượng cụ thể.
+Các mã bưu chính còn quy định các bưu cục (bưu điện trung tâm). Mã dành cho bưu cục cũng gồm 6 chữ số. Hai chữ số đầu xác định tên tỉnh, thành phố. Các chữ số sau thường là 0.
+Theo thông tin giải đáp của 1080 thì Việt Nam không có mã bưu chính cấp quốc gia.
+Ví dụ:
+654801 cho biết: Cụm Quân Cảng Cam Ranh, Xã Song Tử Tây, huyện đảo Trường Sa, Khánh Hòa.
+718544 cho biết: Đường Trường Sa, Phường 15, Quận Bình Thạnh, Thành phố Hồ Chí Minh.
+800000 cho biết: Bưu cục cấp 1 Phan Thiết, Số 19, Đường Nguyễn Tất Thành, Phường Bình Hưng, Phan Thiết, Bình Thuận
+
+
+== Danh sách ==
+Dưới đây là bảng liệt kê danh sách mã bưu chính và mã vùng điện thoại ở Việt Nam (theo Bưu chính Việt Nam thuộc tập đoàn VNPOST).
+
+
+== Xem thêm ==
+
+Hòm thư (HT) dùng trong Quân đội Nhân dân Việt Nam
+Khu bưu chính (KBC) dùng trong Quân lực Việt Nam Cộng hòa
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Trang tra cứu thông tin mã bưu chính Việt Nam.
+Quyết định của Bộ trưởng Bộ Bưu chính Viễn thông ban hành quy định về mã bưu chính quốc gia
+Bảng mã vùng điện thoại và mã bưu chính các tỉnh, thành phố Việt Nam
+Zipcode bưu điện Việt Nam

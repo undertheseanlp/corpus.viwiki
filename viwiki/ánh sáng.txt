@@ -1,0 +1,115 @@
+Ánh sáng là từ phổ thông dùng để chỉ các bức xạ điện từ có bước sóng nằm trong vùng quang phổ nhìn thấy được bằng mắt thường của con người (tức là từ khoảng 380 nm đến 700 nm). Giống như mọi bức xạ điện từ, ánh sáng có thể được mô tả như những đợt sóng hạt chuyển động gọi là photon. Ánh sáng do Mặt Trời tạo ra còn được gọi là ánh nắng (hay còn gọi là ánh sáng trắng bao gồm nhiều ánh sáng đơn sắc biến thiên liên tục từ đỏ đến tím); ánh sáng Mặt Trăng mà con người thấy được gọi là ánh trăng thực tế là ánh sáng do mặt trời chiếu tới Mặt Trăng phản xạ đi tới mắt người; do đèn tạo ra còn được gọi là ánh đèn; do các loài vật phát ra gọi là ánh sáng sinh học. Ánh sáng có tốc độ rất nhanh, điều này dễ hiểu khi trời mưa, ta thấy cái chớp xong rồi một lúc mới nghe tiếng rầm.
+"Ánh sáng lạnh" là ánh sáng có bước sóng tập trung gần vùng quang phổ tím. "Ánh sáng nóng" là ánh sáng có bước sóng nằm gần vùng đỏ. Ánh sáng có quang phổ trải đều từ đỏ đến tím là ánh sáng trắng; còn ánh sáng có bước sóng tập trung tại vùng quang phổ rất hẹp gọi là "ánh sáng đơn sắc".
+Môn học nghiên cứu sự lan truyền và các tính chất của ánh sáng trong và giữa các môi trường khác nhau gọi là quang học.
+
+
+== Một số tính chất quan trọng ==
+
+
+=== Vận tốc trong chân không ===
+
+Trong chân không, các thí nghiệm đã chứng tỏ ánh sáng nói riêng, hay các bức xạ điện từ nói chung, đi với vận tốc không thay đổi, thường được ký hiệu là c = 299.792.458 m/s, thậm chí không phụ thuộc vào hệ quy chiếu. Hiện tượng này đã thay đổi nhiều quan điểm về cơ học cổ điển của Isaac Newton và thúc đẩy Albert Einstein tìm ra lý thuyết tương đối.
+
+
+=== Năng lượng, động lượng và khối lượng ===
+
+Năng lượng của một hạt photon có bước sóng λ là hc/λ, với h là hằng số Planck và c là tốc độ ánh sáng trong chân không. Photon không có khối lượng nghỉ, do đó động lượng của hạt photon bằng năng lượng của nó chia cho tốc độ ánh sáng, h/λ. Tính toán trên thu được từ công thức của thuyết tương đối:
+E2-p2c2 = m02c4
+với:
+E là năng lượng của hạt
+p là động lượng của hạt
+m0 là khối lượng nghỉ
+
+
+=== Tương tác với vật chất ===
+
+
+==== Với mắt người ====
+
+Các dao động của điện trường trong ánh sáng tác động mạnh đến các tế bào cảm thụ ánh sáng trong mắt người. Có 3 loại tế bào cảm thụ ánh sáng trong mắt người, cảm nhận 3 vùng quang phổ khác nhau (tức ba màu sắc khác nhau). Sự kết hợp cùng lúc 3 tín hiệu từ 3 loại tế bào này tạo nên những cảm giác màu sắc phong phú. Để tạo ra hình ảnh màu trên màn hình, người ta cũng sử dụng 3 loại đèn phát sáng ở 3 vùng quang phổ nhạy cảm của người (xem phối màu phát xạ).
+Tế bào cảm giác màu đỏ và màu lục có phổ hấp thụ rất gần nhau, do vậy mắt người phân biệt được rất nhiều màu nằm giữa màu đỏ và lục (màu vàng, màu da cam, xanh nõn chuối,...). Tế bào cảm giác màu lục và màu lam có phổ hấp thụ nằm xa nhau, nên mắt người phân biệt về các màu xanh không tốt. Trong tiếng Việt, từ "xanh" đôi khi hơi mơ hồ - vừa mang nghĩa xanh lục vừa mang nghĩa xanh lam.
+Võng mạc người được chia làm 2 lớp (xét về mặt chức năng) gồm lớp tế bào cảm nhận ánh sáng và lớp tế bào dẫn truyền xung thần kinh điện thế. Trong y học, người ta còn phân võng mạc thành 10 lớp theo cấu trúc giải phẫu mô học và hình thái của nó.
+Về tế bào học, võng mạc người chỉ có 2 loại tế bào: tế bào gậy và tế bào nón. Tế bào gậy có chức năng xác định về cấu trúc, hình thể vật, những hình ảnh trong tối Tế bào nón có chức năng xác định rõ về màu sắc, độ sắc nét Trong đó, tế bào nón lại được phân thành 3 loại, nhận cảm màu sắc ánh sáng tương ứng với 3 vùng quang phổ khác nhau
+
+
+==== Với mắt các sinh vật ====
+
+Các sinh vật khác con người có thể cảm thụ được nhiều màu hơn (chim 4 màu gốc) hoặc ít màu hơn (bò 2 màu gốc) và ở những vùng quang phổ khác (ong cảm nhận được vùng tử ngoại).
+Hầu hết mắt của các sinh vật nhạy cảm với bức xạ điện từ có bước sóng nằm trong khoảng từ 300 nm đến 1200 nm. Khoảng bước sóng này trùng khớp với vùng phát xạ có cường độ mạnh nhất của Mặt Trời. Như vậy có thể suy luận là việc các loài vật trên Trái Đất đã tiến hoá để thu nhận vùng bức xạ tự nhiên mạnh nhất đem lại lợi thế sinh tồn cho chúng. Không hề ngẫu nhiên mà bước sóng ánh sáng (vùng quang phổ mắt người nhìn được) cũng trùng vào khu vực bức xạ mạnh này.
+
+
+== Các lý thuyết về ánh sáng ==
+Trong lịch sử khám phá, đã có nhiều lý thuyết để giải thích các hiện tượng tự nhiên liên quan đến ánh sáng. Dưới đây trình bày các lý thuyết quan trọng, theo trình tự lịch sử.
+
+
+=== Lý thuyết hạt ánh sáng ===
+
+Lý thuyết hạt ánh sáng, được Isaac Newton đưa ra, cho rằng dòng ánh sáng là dòng di chuyển của các hạt vật chất. Lý thuyết này giải thích được hiện tượng phản xạ và một số tính chất khác của ánh sáng; tuy nhiên không giải thích được nhiều hiện tượng như giao thoa, nhiễu xạ mang tính chất sóng.
+
+
+=== Lý thuyết sóng ánh sáng ===
+
+Lý thuyết sóng ánh sáng, được Christiaan Huygens đưa ra, cho rằng dòng ánh sáng là sự lan truyền của sóng. Lý thuyết này giải thích được nhiều hiện tượng mang tính chất sóng của ánh sáng như giao thoa, nhiễu xạ; đồng thời giải thích tốt hiện tượng khúc xạ và phản xạ.
+Lý thuyết sóng và lý thuyết hạt ánh sáng ra đời cùng thời điểm, thế kỷ 17 và đã gây ra cuộc tranh luận lớn giữa hai trường phái.
+Năm 1817, Thomas Young đề xuất rằng sóng ánh sáng là sóng ngang, chứ không phải sóng dọc. Chúng dao động vuông góc với hướng truyền, chứ không theo hướng truyền, như đối với sóng âm.
+
+
+=== Lý thuyết điện từ ===
+
+Sau khi lý thuyết sóng và lý thuyết hạt ra đời, lý thuyết điện từ của James Clerk Maxwell năm 1865, khẳng định lại lần nữa tính chất sóng của ánh sáng. Đặc biệt, lý thuyết này kết nối các hiện tượng quang học với các hiện tượng điện từ học, cho thấy ánh sáng chỉ là một trường hợp riêng của sóng điện từ.
+Các thí nghiệm sau này về sóng điện từ, như của Heinrich Rudolf Hertz năm 1887, đều khẳng định tính chính xác của lý thuyết của Maxwell.
+
+
+=== Ête ===
+
+Sau thành công của lý thuyết điện từ, khái niệm rằng ánh sáng lan truyền như các sóng đã được chấp nhận rộng rãi. Các hiểu biết về sóng cơ học, như âm thanh, của cơ học cổ điển, đã dẫn các nhà khoa học đến giả thuyết rằng sóng ánh sáng lan truyền như sóng cơ học trong môi trường giả định ête, tràn ngập khắp vũ trụ, nhưng có độ cứng cao hơn cả kim cương.
+Cuối thế kỷ 19, đầu thế kỷ 20, nhiều thí nghiệm tìm kiếm sự tồn tại của ête, như thí nghiệm Michelson-Morley, đã thất bại, cùng lúc chúng cho thấy tốc độ ánh sáng là hằng số không phụ thuộc hệ quy chiếu; do đó không thể tồn tại môi trường lan truyền cố định kiểu ête.
+
+
+=== Thuyết tương đối ===
+
+Thuyết tương đối của Albert Einstein ra đời, 1905, với mục đích ban đầu là giải thích hiện tượng vận tốc ánh sáng không phụ thuộc hệ quy chiếu và sự không tồn tại của môi trường ête, bằng cách thay đổi ràng buộc của cơ học cổ điển.
+Trong lý thuyết tương đối hẹp, các tiên đề của cơ học được thay đổi, để đảm bảo thông qua các phép biến đổi hệ quy chiếu, vận tốc ánh sáng luôn là hằng số. Lý thuyết này đã giải thích được chuyển động của các vật thể ở tốc độ cao và tiếp tục được mở rộng thành lý thuyết tương đối rộng, trong đó giải thích chuyển động của ánh sáng nói riêng và vật chất nói chung trong không gian bị bóp méo bởi vật chất.
+Thí nghiệm đo sự bẻ cong đường đi ánh sáng của các ngôi sao khi đi qua gần Mặt Trời, lần đầu vào nhật thực năm 1919, đã khẳng định độ chính xác của lý thuyết tương đối rộng.
+
+
+=== Lý thuyết lượng tử ánh sáng ===
+
+Lý thuyết lượng tử của ánh sáng nói riêng và vật chất nói chung ra đời khi các thí nghiệm về bức xạ vật đen được giải thích bởi Max Planck và hiệu ứng quang điện được giải thích bởi Albert Einstein đều cần dùng đến giả thuyết rằng ánh sáng là dòng chuyển động của các hạt riêng lẻ, gọi là quang tử (photon).
+Vì tính chất hạt và tính chất sóng cùng được quan sát ở ánh sáng, và cho mọi vật chất nói chung, lý thuyết lượng tử đi đến kết luận về lưỡng tính sóng hạt của ánh sáng và vật chất; đúc kết ở công thức de Broglie, 1924, liên hệ giữa động lượng một hạt và bước sóng của nó.
+
+
+== Biểu tượng ==
+
+Ánh sáng được liên hệ với bóng tối, để tượng trưng cho những giá trị bổ sung hoặc thay phiên nhau trong một quá trình biến đổi. Quy luật này được xác minh trong những hình ảnh của Trung Hoa cổ xưa, cũng như của nhiều nền văn minh khác. Ý nghĩa của nó là, cũng như trong đời người ở mọi cấp độ, một thời đại đen tối sẽ được nối tiếp, trên mọi bình diện vũ trụ, bằng một thời đại sáng láng, trong sạch được phục hưng. Ý nghĩa của biểu trưng thoát ra khỏi bóng tối ấy được lập lại trong các nghi thức thụ pháp, cũng như trong các huyền thoại về cái chết, về tấn kịch sinh trưởng của thực vật (hạt giống được vùi, bóng tối mà từ đó thoát ra một cây mới, một tín đồ mới) hoặc trong quan niệm về các chu kỳ lịch sử. Thời đại đen tối Kali - Yuga, sẽ được tiếp nối sau một cuộc tiêu vong vũ trụ (mahâpralaya) bằng một thời đại mới được phục hưng. Mircea Eliade đã kết luận một cách sâu sắc rằng chính vì vậy mà ta có thể tăng giá trị cho các thời đại tăm tối, các thời đại suy thoái và tan rã: chúng thu nhận được một ý nghĩa siêu lịch sử, tuy rằng chính trong những thời điểm như vậy mà lịch sử tự phô bày một cách đầy đủ nhất, vì khi ấy các thế cân bằng trở nên bấp bênh, còn tự do thì được khích lệ do tình trạng suy sụp của mọi luật lệ va mọi khuôn khổ đã trở thành cổ lỗ.
+Những thành ngữ như "ánh sáng thần thánh" hoặc "ánh sáng tinh thần" cho thấy một nội hàm biểu trưng rất phong phú ở Viễn Đông. Ánh sáng là nhận thức: ở Trung Quốc chữ ming (minh) cũng có nghĩa kép, tổng hợp ánh sáng của Mặt Trời và Mặt Trăng; đối với những người theo đạo Phật ở Trung Quốc, minh có nghĩa là giác ngộ; trong đạo Hồi, En - nûr, ánh sáng, về thực chất đống nhất với; Er - Rûh, Trí tuệ. Sự tòa rạng của ánh sán (Aor) từ điểm nguyên khởi đẻ ra không gian và thời gian, theo thuyết Kabbale. Đây là một lối diễn giải tượng trưng cho mệnh đề Fiat lux trong sách Sáng Thế. Cuộc sáng thế ở đây cũng là sự tỏa sáng, sự sắp đặc cái hỗn mang bằng những dao động, như Guénon viết: về mặt này chính lý thuyết vật lý về ánh sáng xem ra cũng có tính tượng trưng. Theo thánh Jean (1, 9), ánh sáng nguyên khởi đồng nhất với lời chúa; đây là cách biểu đạt sự tỏa sáng của Mặt Trời tinh thần là trái tim đích thực của thế gian.
+Trong sách Sáng Thế, cúng như ở Ấn Độ và Trung Quốc, hoạt động tạo dựng vũ trụ là tách biệt bóng tối và ánh sáng, khởi thủy lẫn lộn. Việc trở về cội nguồn như vậy có thể được biểu đạt bằng khắc phục tính nhị nguyên, lập lại tính đơn nhất đầu tiên: Hãy theo tôi, Trang Tử viết (Chương II), sang phía bên kia hai căn nguyên (ánh sáng và bóng tối) đến cái đơn nhất. Theo cách nhìn của người thường, sư tổ Huệ Năng dạy, giác ngộ và vô minh (ánh sáng và bóng tối) là hai sự vật khác nhau. Các bậc hiền nhân do thực hiện được đến cùng bản nhiên của mình nên biết rằng chúng cùng một bản chất.
+Ở Ai Cập thần Seth tượng trưng cho ánh sáng của bóng tối, hung ác và đáng sợ, còn thần Anubis tượng trưng cho ánh sáng làm sống động, thuận lợi và gây hứng khởi, từ ánh sáng ấy vũ trụ đã xuất hiện và cũng ánh sáng ấy dẫn linh hồn sang thế giới bên kia. Ánh sáng tượng trưng cho thế lực cho ta và lấy đi của ta sự sống; ánh sáng thế nào, cuộc đời thế ấy. Bản chất và trình độ cuộc sống phụ thuộc vào ánh sáng tiếp nhận được.
+Các nhà tâm lý và các nhà phân tích đã nhận thấy những hình ảnh sáng láng gắn liền với những vận động đi lên kem theo là cảm giác sảng khoái, còn những cận động đi xuống, thì có những hình ảnh đen tối gắn với chúng, kèm theo là một cảm giác sợ hãi. Các nhận xét này khẳn định rằng ánh sáng tượng trưng cho sự phát triển của con người băng việc nâng mình lên - con người tìm thấy sự hài hòa ở các điểm cao - còn bóng tối, cái đen thì tượng trưng cho sự trâm uất và lo sợ.
+Trong đạo Hồi, ánh sáng trước hết là biểu tượng của thánh thần. Kinh Koran tuyên bố: "Chúa là ánh sáng của trời và đất. Ánh sáng của ngài như là một cái hốc ở tường trong đó có một ngọn đèn; còn ngọn đèn ở trong một thông phong, còn thông phong thì tựa như một vì sao sáng. Đèn được thấp bằng dầu của một cây đã được ban phép lành, một cây olive không của phương Đông mà cũng chẳng phải phương Tây..."
+Ý nghĩa tượng trưng của ánh sáng phát sinh từ chiêm ngưỡng thiên nhiên. Ba Tư, Ai Cập, tất cả các nền thần thoại đều gán cho thần thánh một bản chất sáng láng. Toàn bộ nền văn minh cổ đại thừa nhận điều này: Platon, những người theo học thuyết khắc kỷ, những người thuộc trường phái Alexandrie và cả những người theo thuyết ngộ đạo. Thánh Augustin hẳn đã truyền lại những ảnh hưởng của phái Tân Platon về vẻ đẹp của ánh sáng. Kinh thánh cũng đã chỉ ra tầm quan trọng của ánh sáng. "người ta cũng chả gọi lời Chúa là Iumen de Iumine sao? (ibid. 159). Ánh sáng đó là Chúa trời (xem toàn bộ bức thư thứ nhất của thánh Jean)."
+
+
+== Các hiện tượng quang học ==
+Phản xạ
+Khúc xạ
+Tán xạ
+Nhiễu xạ
+Giao thoa Khuếch Xạ
+Thấu kính hấp dẫn
+Hiệu ứng quang điện
+
+
+== Ứng dụng ==
+
+
+== Tham khảo ==
+
+Jean Chevalier, Alain Gheerbrant. Dictionnaire des symboles. Édition revue et augmentée. Robert Laffont, Paris 1992.
+
+
+== Xem thêm ==
+Vận tốc ánh sáng
+
+
+== Liên kết ngoài ==

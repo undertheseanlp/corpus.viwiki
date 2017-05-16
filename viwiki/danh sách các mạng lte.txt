@@ -1,0 +1,48 @@
+Đây là danh sách của mạng tiến hóa dài hạn (LTE) thương mại trên toàn thế giới, được chia thành nhóm theo băng tần.
+Một số nhà dịch vụ sử dụng đa băng tần, do đó có thể nhắc lại nhiều lần trong nhiều mục.
+
+
+== Thông tin chung ==
+Để biết thêm chi tiết kỹ thuật trên LTE và danh sách thiết kế quản lý tần số, băng thông, và tên thông thường của nó, xem Băng tần LTE.
+Băng tần 33 đến 44 dành cho TD-LTE.
+Mạng toàn cầu trên LTE băng tần 1, 3, 7, 28 (FDD-LTE) hoặc 38, 40 (TDD-LTE) rất thích hợp trong việc chuyển vùng trong tương lai ở ITU vùng 1, 2 và 3.
+Mạng trên LTE băng tần 8 (FDD-LTE) có thể cho phép chuyển vùng toàn cầu trong tương lai (ITU vùng 1, 2 và 3) (Tầm nhìn xa).
+Mạng trên LTE băng tần 20 (FDD-LTE) rất thích hợp cho chuyển vùng chỉ trong ITU vùng 1 (EMEA).
+Mạng trên LTE băng tần 2 và 4 (FDD-LTE) rất thích hợp cho chuyển vùng chỉ trong ITU vùng 2 (Mỹ).
+
+
+== Châu Phi ==
+
+
+== Châu Mỹ ==
+
+
+=== Caribbean ===
+
+
+=== Trung Mỹ và Nam Mỹ (APT băng tần dự kiến) ===
+
+
+=== Bắc Mỹ (Mỹ, lãnh thổ Hoa Kỳ & Canada) (FCC băng tần dự kiến) ===
+Bên cạnh dãy băng tần chính của họ trải dài trên khắp quốc gia (danh sách dưới đây) nhà mạng chính của Mỹ (AT&T, Sprint, T-Mobile & Verizon) còn nắm giữ nhiều thị trường di động khác nhau (CMA) và/hoặc giấy phép Khu vực kinh tế (EA) cho băng tần AWS 1700, cũng như Vùng thương mại lớn (MTA) và/hoặc giấy phép Vùng thương mại cơ bản (BTA) cho băng tần PCS 1900. Trong một số khu vực nhỏ các nhà khai thác kết hợp với công ty cổ phần lớn để tăng băng thông cho việc phát triển LTE của họ. Do số lượng lớn các giấy phép "đơn" nên không liệt kê tại đây.
+
+
+==== Người dùng thứ ba sử dụng mạng LTE Mỹ và thuê băng tần ====
+
+
+== Châu Á ==
+
+
+== Châu Âu ==
+
+
+== Châu Đại Dương ==
+
+
+=== Người dùng thứ ba sử dụng mạng LTE châu Đại Dương và thuê băng tần ===
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==

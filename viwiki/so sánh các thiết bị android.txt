@@ -1,0 +1,62 @@
+Android là hệ điều hành mở dành cho thiết bị di động bao gồm phiên bản sửa đổi của Linux kernel, middleware, và khóa ứng dụng. Trang này liệt kệ và so sánh thiết bị phần cứng cùng chạy hệ điều hành Android của Google.
+Google công bố trong Q3 2011, tổng số lượt kích hoạt Android vượt 190 triệu, tăng đáng kể từ 135 triệu của quý trước. Sự gia tăng được thúc đẩy bởi doanh số bán hàng của điện thoại thông minh Android ở mức giá thấp từ nhà sản xuất Trung Quốc và Ấn Độ. Tính đến 3 tháng 9 năm 2013, đã có 1 tỉ thiết bị Android được kích hoạt.
+
+
+== Chính thức phát hành ==
+Dưới đây là danh sách thiết bị đã chính thức phát hành và cài sẵn hệ điều hành Android của Google. Nhiều tên cho cùng một thiết bị cũng được nhập vào một hàng nếu có. Một số nhà sản xuất nhỏ hơn sản xuất thiết bị Android, phần lớn trong việc phát triển thị trường, nhưng không được đưa vào danh sách do có quá nhiều thiết bị.
+
+
+=== Điện thoại thông minh ===
+Để giải thích về các cột, xem Bản mẫu:Thông tin điện thoại di động hoặc Bản mẫu:Thông tin điện thoại di động/doc.
+
+
+=== Máy tính bảng ===
+Bảng này bao gồm máy tính bảng, máy tính bảng PC, máy nghe nhạc, và thiết bị di động Internet (MIDs).
+
+
+==== Acer ====
+
+
+==== Amazon ====
+
+
+==== Archos ====
+
+
+==== Asus ====
+
+
+==== Barnes and Noble ====
+
+
+==== CUBE ====
+
+
+==== HTC ====
+
+
+==== LG ====
+
+
+==== Samsung ====
+
+
+==== Sony ====
+
+
+==== Toshiba ====
+
+
+==== ViewSonic ====
+
+
+== Xem thêm ==
+So sánh các điện thoại thông minh
+
+
+== Tham khảo ==
+
+
+== Liên kết ==
+Thiết bị Android tại Google.com
+Danh sách Google Play hỗ trợ thiết bị Android

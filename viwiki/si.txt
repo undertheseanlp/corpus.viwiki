@@ -1,0 +1,154 @@
+Hệ đo lường quốc tế (viết tắt SI, tiếng Pháp: Système International d'unités) là hệ đo lường được sử dụng rộng rãi nhất. Nó được sử dụng trong hoạt động kinh tế, thương mại, khoa học, giáo dục và công nghệ của phần lớn các nước trên thế giới ngoại trừ Mỹ, Liberia và Myanma. Năm 1960, SI đã được chọn làm bộ tiêu chuẩn thu gọn của hệ đo lường Mét-Kilôgam-Giây hiện hành, hơn là của hệ thống đo lường cũ Xentimét-Gam-Giây. Một số đơn vị đo lường mới được bổ sung cùng với sự giới thiệu của SI cũng như vào sau đó. SI đôi khi được tham chiếu tới như là hệ mét (đặc biệt tại Mỹ, là quốc gia vẫn chưa thông qua việc sử dụng hệ đo lường này mặc dù nó đã được sử dụng rộng rãi trong những năm gần đây, và tại Vương quốc Liên hiệp Anh và Bắc Ireland, là quốc gia mà việc chuyển đổi vẫn chưa hoàn thành). Hệ đo lường quốc tế tham chiếu đến các tiêu chuẩn đặc trưng của đo lường có nguồn gốc hoặc mở rộng từ hệ mét; tuy nhiên, không phải toàn bộ các đơn vị đo lường của hệ mét được chấp nhận làm đơn vị đo lường của SI.
+Có bảy đơn vị cơ bản và một số đơn vị dẫn xuất, cùng với một bộ các tiền tố. Các đơn vị đo lường phi SI có thể chuyển đổi sang đơn vị đo lường của SI (hoặc ngược lại) phù hợp với các hệ số chuyển đổi đơn vị đo lường. Hầu hết mọi đơn vị phi SI đã được định nghĩa lại theo các đơn vị của SI.
+
+
+== Nguồn gốc ==
+
+Các đơn vị đo lường của SI được quyết định chọn lựa sau hàng loạt các hội nghị quốc tế được tổ chức bởi tổ chức tiêu chuẩn là Viện đo lường quốc tế (BIPM). SI được đặt tên lần đầu tiên năm 1960 và sau đó được bổ sung năm 1971.
+Nguồn gốc thực sự của SI, hay hệ mét, có thể tính từ những năm 1640. Nó được phát minh bởi các nhà khoa học Pháp và nhận được sự quảng bá lớn bởi Cuộc cách mạng Pháp năm 1789 để trở nên phổ biến hơn. hệ mét được phát triển kể từ năm 1791 trở đi bởi hội đồng Académie des sciences được ủy nhiệm bởi Assemblée nationale và Louis XVI để tạo ra một hệ đo lường thống nhất và hợp lý. Nhóm này bao gồm Antoine-Laurent Lavoisier ("cha đẻ của hóa học hiện đại") và các nhà toán học Pierre-Simon Laplace và Adrien-Marie Legendre, đã sử dụng các nguyên tắc đo chiều dài, thể tích và khối lượng được đề xuất bởi giáo sĩ Anh John Wilkins năm 1668 và khái niệu sử dụng kinh tuyến gốc trái đất làm đơn vị độ dài định nghĩa cơ bản, ban đầu được một giáo sĩ Pháp Gabriel Mouton đề xuất năm 1670. Hệ mét cố gắng lựa chọn các đơn vị đo lường không mang tính tùy ý, trong khi gắn liền với tư tưởng chính thức của cuộc cách mạng là "lý trí thuần túy"; nó là một sự cải thiện đáng kể đối với các đơn vị đo hiện hành ngày ấy do giá trị của chúng thông thường phụ thuộc theo từng khu vực.
+Đơn vị đo lường quan trọng nhất là đơn vị đo chiều dài: một mét được cho là 1/10.000.000 của khoảng cách từ cực tới xích đạo dọc theo kinh tuyến đi qua Paris. Nó xấp xỉ 10% dài hơn một thước Anh. Sau đó một chiếc thước platin với tiết diện hình chữ X đã được sản xuất để phục vụ cho mục đích dễ dàng kiểm tra tiêu chuẩn chiều dài của một mét. Tuy nhiên, vì những khó khăn của việc đo đạc thực tế chiều dài của góc phần tư kinh tuyến trong thế kỷ 18, chiếc thước mẫu platin đầu tiên đã ngắn hơn 0,2 milimét. Sau đó các chiều dài bước sóng bức xạ khác nhau đã được giới thiệu để có thể định nghĩa một cách trừu tượng chiều dài (không đổi) của đơn vị mét, và cuối cùng mét đã được định nghĩa như là khoảng cách mà một tia sáng có thể đi được trong chân không trong một khoảng thời gian cụ thể.
+Đơn vị đo cơ bản của khối lượng trong hệ mét đầu tiên là gam, nhưng đã nhanh chóng bị chuyển sang kilôgam, đã được định nghĩa như là khối lượng của nước nguyên chất tại điểm mà nó nặng nhất (+3,98 độ C) trong một khối lập phương có các cạnh bằng 1/10 của mét. Một kilôgam bằng khoảng 2,2 pound. Khoảng không gian lập phương này còn được gọi là một lít để thể tích của các chất lỏng khác nhau có thể dễ dàng so sánh. Năm 1799, một ống hình trụ bằng platin đã được sản xuất để làm tiêu chuẩn cho kilôgam, vì thế tiêu chuẩn dựa trên cơ sở nước chưa bao giờ được sử dụng như là tiêu chuẩn gốc khi mà hệ mét thực sự được sử dụng. Năm 1890, nó được thay thế bằng ống hình trụ là hợp kim gồm 90% platin và 10% iridi. Nó được sử dụng làm kilôgam tiêu chuẩn từ đó đến nay và được lưu giữ ở Paris. Kilôgam là đơn vị đo lường cơ bản duy nhất không được định nghĩa lại theo thuật ngữ của các hiện tượng tự nhiên không đổi. Tuy nhiên, tại cuộc họp của Hội khoa học Hoàng gia tại London vào ngày 15 tháng 2 năm 2005, các nhà khoa học đã lên tiếng kêu gọi thay thế khối lượng của kilôgam tiêu chuẩn ở Paris vì định nghĩa chính thức chỉ rõ rằng "thuộc tính không thay đổi của tự nhiên" cần được sử dụng (hơn là một vật cụ thể mà khối lượng của nó có thể bị thay đổi), nhưng vẫn chưa có một quyết định nào về việc định nghĩa lại cho đến năm 2007.
+Đơn vị đo nhiệt độ là độ bách phân hay độ Celsius (C), có nghĩa là thang thủy ngân giữa điểm đóng băng và điểm sôi của nước nguyên chất được chia thành một trăm phần bằng nhau. Nước sôi vì thế là 100 độ Celsius và nước đóng băng có 0 độ Celsius. Đây là đơn vị đo lường nhiệt độ của hệ mét trong sử dụng thông thường. Khoảng một trăm năm sau, các nhà khoa học phát hiện ra điểm 0 tuyệt đối. Điều này dẫn đến sự ra đời của thang đo nhiệt độ mới, được gọi là thang độ tuyệt đối hay thang Kelvin, nó xác định lại điểm 0 nhưng vẫn sử dụng 100 kelvin bằng khoảng cách giữa điểm đóng băng và điểm sôi của nước nguyên chất.
+Đơn vị đo lường thời gian của hệ mét là giây, nguyên thủy được định nghĩa như là 1/86.400 của một ngày trung bình. Các hình thức định nghĩa giây đã thay đổi vài lần để đáp ứng được các yêu cầu ngày càng tăng của khoa học (các quan sát thiên văn, đồng hồ âm thoa, đồng hồ thạch anh và sau đó là đồng hồ nguyên tử xêri) nhưng những đồng hồ đeo tay vẫn không chịu ảnh hưởng (một cách tương đối).
+Sự chấp nhận nhanh chóng hệ mét như là công cụ của kinh tế và các hoạt động thương mại hằng ngày chủ yếu dựa trên cơ sở sự thiếu hụt của các hệ thống đo lường theo phong tục, tập quán tại nhiều quốc gia trong việc miêu tả một cách đầy đủ một số khái niệm, hay là kết quả của những cố gắng để tiêu chuẩn hóa rất nhiều sai khác theo khu vực trong các hệ thống phong tục, tập quán. Các yếu tố quốc tế cũng ảnh hưởng đến sự chấp nhận hệ mét, vì nhiều quốc gia tăng cường các hoạt động thương mại. Về khoa học, nó cung cấp một sự tiện lợi trong việc tính toán các đại lượng lớn và nhỏ vì nó rất phù hợp với hệ đếm thập phân của chúng ta.
+Sự khác biệt về văn hóa cũng có thể hiện diện trong việc sử dụng hệ mét trong cuộc sống hàng ngày theo từng khu vực. Ví dụ, bánh mì được bán ở nhiều nước có khối lượng 1 hoặc 2 kg, nhưng bạn phải mua chúng theo cơ số nhân của 100 gam tại Liên Xô cũ. Ở một số nước, dung tích của một chiếc cốc không chính thức là 250 mL, và giá của một số mặt hàng đôi khi được tính theo 100 g hơn là cho một kilôgam.
+Những người bình thường có thể không cần quan tâm đến sự cải tiến và hoàn thiện của hệ mét trong khoảng 200 năm qua, nhưng các chuyên gia vẫn phải cố gắng để hoàn thiện hệ mét để nó phù hợp hơn với những nghiên cứu khoa học (ví dụ từ CGS sang MKS tới hệ SI hay sự phát minh ra thang Kelvin). Những sự thay đổi này không ảnh hưởng tới việc sử dụng hệ mét hằng ngày. Sự hiện diện của các điều chỉnh là một lý do biện hộ cho việc sử dụng của các đơn vị đo lường theo tập quán thay vì hệ mét. Tuy nhiên các đơn vị đo lường theo phong tục, tập quán này ngày nay về cơ bản đã được định nghĩa lại theo các thuật ngữ của các đơn vị đo lường của SI, vì thế bất kỳ sự sai khác nào trong định nghĩa các đơn vị đo lường theo SI đều gây ra sự sai khác trong định nghĩa của các đơn vị đo lường theo tập quán.
+
+
+== Cơ sở ==
+SI được xây dựng trên cơ sở của bảy đơn vị đo lường cơ bản của SI, đó là kilôgam, mét, giây, ămpe, kelvin, mol và candela. Các đơn vị này được sử dụng để định nghĩa các đơn vị đo lường suy ra khác.
+SI cũng định nghĩa một số các tiền tố của SI để sử dụng cùng với đơn vị đo lường: các tiền tố này kết hợp với bất kỳ đơn vị đo lường nào để tạo ra các bội số hay ước số của nó. Ví dụ, tiền tố kilô biểu hiện là bội số hàng nghìn (ngàn), vì thế kilômét bằng 1.000 mét, kilôgam bằng 1.000 gam v.v. Cũng lưu ý rằng một phần triệu của kilôgam là miligam, không phải micrôkilôgam.
+
+
+== Kiểu viết trong SI ==
+Các ký hiệu được viết bằng chữ thường, ngoại trừ các ký hiệu lấy theo tên người. Điều đó có nghĩa là ký hiệu cho đơn vị đo áp suất của SI, lấy tên của Blaise Pascal, là Pa, trong khi đơn vị đo tự bản thân nó là pascal. Trong danh mục chính thức của SI chỉ có một ngoại lệ duy nhất trong quy tắc viết hoa, đó là ký hiệu của lít. Nó có thể viết là l hay L đều được chấp nhận.
+Các ký hiệu được viết theo số ít. Ví dụ trong tiếng Anh phải viết là "25 kg" chứ không phải "25 kgs". Trong tiếng Việt, điều này không ảnh hưởng gì do không có sự khác nhau trong cách gọi theo số nhiều và số ít.
+Các ký hiệu, dù là viết tắt nhưng không có dấu chấm (.) ở cuối.
+Được khuyến khích sử dụng các ký hiệu theo kiểu viết Roman thường (ví dụ, m cho mét, L cho lít), để có thể dễ dàng phân biệt với các ký hiệu của biến (tham số) trong toán học và vật lý (ví dụ, m cho tham số khối lượng, l cho tham số chiều dài).
+Một khoảng trống giữa số và ký hiệu: 2.21 kg, 7.3x102 m2. Có một ngoại lệ trong trường hợp này. Ký hiệu của góc phẳng như độ, phút và giây (°, ′ và ″) được đặt liền ngay sau giá trị số mà không có khoảng trống.
+SI sử dụng các khoảng trống để tách các số (phần nguyên) theo từng bộ ba chữ số. Ví dụ 1 000 000 hay 342 142 (hoàn toàn không giống với việc sử dụng các dấu chấm hay phẩy trong các hệ đo lường khác, như 1.000.000 hay 1.000.000).
+SI sử dụng dấu phẩy duy nhất để chia tách phần thập phân cho đến năm 1997. Số "hai mươi tư phẩy năm mươi mốt" được viết là "24,51". Năm 1997 CGPM quyết định rằng dấu chấm sẽ là dấu chia tách phần thập phân cho các văn bản mà trong đó chủ yếu là tiếng Anh ("24.51"); dấu phẩy sẽ là dấu chia tách phần thập phân cho các văn bản bằng ngôn ngữ khác.
+Ký hiệu cho các đơn vị được suy ra từ các đơn vị đo khác bằng cách nhân chúng với nhau được kết nối với nhau với một khoảng trống hoặc một dấu chấm (·) ở giữa, ví dụ N m hay N·m.
+Ký hiệu được tạo thành do việc chia của hai đơn vị đo được kết nối với nhau bằng dấu gạch chéo (/), hoặc được viết dưới dạng số mũ với lũy thừa âm, ví dụ "m/s", hay "m s-1" hay "m·s-1" hoặc 
+  
+    
+      
+        
+          
+            m
+            s
+          
+        
+      
+    
+    {\displaystyle {\frac {\mbox{m}}{\mbox{s}}}}
+  . Dấu gạch chéo không được sử dụng nếu như kết quả là phức hợp, ví dụ "kg·m-1·s-2", không phải là "kg/m·s²".
+Nếu không dùng tên Việt hóa của các đơn vị nên viết mét, lít và gam thành metre, litre và gram – thay vì meter, liter và gramme.
+Với một số ngoại lệ (chẳng hạn bia tươi được bán ở Anh) hệ thống có thể được sử dụng hợp pháp tại mọi quốc gia trên thế giới và rất nhiều quốc gia không cần thiết phải duy trì định nghĩa của các đơn vị đo khác. Các quốc gia khác vẫn còn công nhận các đơn vị đo phi SI (ví dụ như Mỹ hay Anh) cần phải định nghĩa các đơn vị đo lường theo thuật ngữ của các đơn vị đo của SI; ví dụ, một inch thông thường được định nghĩa bằng chính xác 0.0254 mét. Tuy nhiên, tại Mỹ, các khoảng cách địa lý không được định nghĩa lại do sai số tích lũy nó có thể để lại và một lý do khác là survey foot và survey inch (là hai đơn vị đo chiều dài sử dụng trong công tác lập bản đồ) vẫn là các đơn vị đo tách biệt. (Đây không phải là vấn đề cho Anh, bởi vì Ordnance Survey (tổ chức lập bản đồ ở Anh) đã lập các bản đồ theo hệ mét từ trước Đại chiến thế giới lần thứ hai.) (Xem hệ đo lường để hiểu thêm về lịch sử phát triển của các đơn vị đo.)
+
+
+== Các đơn vị ==
+
+
+=== Các đơn vị cơ sở ===
+Các đơn vị đo lường dưới đây là nền tảng cơ sở để từ đó các đơn vị khác được suy ra (dẫn xuất), chúng là hoàn toàn độc lập với nhau. Các định nghĩa dưới đây được chấp nhận rộng rãi.
+Các đơn vị đo lường cơ bản:
+
+
+=== Các đơn vị đo dẫn xuất không thứ nguyên ===
+Các đơn vị đo lường của SI được suy ra từ các đơn vị đo cơ bản và là không thứ nguyên. Các đơn vị đo dẫn xuất không thứ nguyên của SI:
+
+
+=== Các đơn vị dẫn xuất với tên đặc biệt ===
+Các đơn vị đo cơ bản có thể ghép với nhau để suy ra những đơn vị đo khác cho các đại lượng khác. Một số có tên theo bảng dưới đây. Các đơn vị dẫn xuất của SI với tên đặc biệt:
+
+
+=== Các đơn vị phi SI được chấp nhận sử dụng với SI ===
+Các đơn vị đo lường sau không phải là đơn vị đo lường của SI nhưng được "chấp nhận để sử dụng trong hệ đo lường quốc tế."
+
+
+==== Các đơn vị phi SI được chấp nhận sử dụng với SI ====
+
+
+==== Các đơn vị phi SI chưa được chấp nhận bởi CGPM (Conference Generale des Poids et Mesures) ====
+
+
+==== Các đơn vị kinh nghiệm phi SI được chấp nhận sử dụng trong SI ====
+
+
+==== Các đơn vị phi SI khác hiện được chấp nhận sử dụng trong SI ====
+
+
+=== Các tiền tố của SI ===
+Bài chính: Các tiền tố của SI
+Các tiền tố sau đây của SI có thể được sử dụng để tạo ra các bội số hay ước số của đơn vị đo lường gốc.
+Ghi chú:
+¹ Đây chỉ là một trong rất nhiều cách đếm số của người Việt.
+² Cách ghi số phù hợp với cách ghi phổ biến nhất của người Việt hiện nay.
+
+
+=== Các tiền tố SI lỗi thời ===
+Bài chính: Các tiền tố SI lỗi thời
+Các tiền tố của SI dưới đây không được sử dụng nữa.
+Các tiền tố kép cũng đã lỗi thời như micrômicrôfara, héctôkilômét, micrômilimét, v.v.
+
+
+== Xem thêm ==
+Đo lường học
+Các hệ thống đo lường khác:
+Hệ đo lường Anh
+Hệ đo lường Mỹ
+Hệ đo lường Trung Quốc
+Hệ đo lường cổ của Việt Nam
+Các đơn vị Planck
+
+CODATA
+Chuyển đổi các hệ đo lường sang hệ mét
+Hệ đo lường mét tại Mỹ
+UTC (Giờ tiêu chuẩn quốc tế)
+Các tiền tố hệ nhị phân - được sử dụng để đo các đại lượng lớn của dữ liệu máy tính.
+Bậc độ lớn
+ISO 31
+
+
+== Chú thích ==
+
+
+== Đọc thêm ==
+I. Mills, Tomislav Cvitas, Klaus Homann, Nikola Kallay, IUPAC: Quantities, Units and Symbols in Physical Chemistry, 2nd ed., Blackwell Science Inc 1993, ISBN 0-632-03583-8.
+International Union of Pure and Applied Chemistry (1993). Đại Lượng, Đơn Vị và Ký Hiệu trong Hóa Lý, ấn bản thứ hai, Oxford: Blackwell Science. ISBN 0-632-03583-8. Bản toàn văn.
+Unit Systems in Electromagnetism
+Metrology Triangle Using a Watt Balance, a Calculable Capacitor, and a Single- Electron Tunneling Device, MW Keller et al., 16/5/2008
+
+
+== Liên kết ngoài ==
+(trang Tiếng Việt)
+Tổng cục Tiêu chuẩn Đo lường Chất lượng Việt Nam
+Trung tâm đo lường Việt Nam
+Nghị định 134/2007/NĐ-CP quy định về đơn vị đo lường chính thức
+(trang Tiếng Anh)
+BIPM Cơ quan duy trì SI (Trang chủ)
+Tham chiếu về BIPM (Tham chiếu về SI)
+BIPM Bureau International des Poids et Mesures (SI maintenance agency) (home page)
+BIPM brochure (SI reference)
+
+ISO 80000-1:2009 Quantities and units – Part 1: General
+NIST Official Publications
+NIST Special Publication 330, 2008 Edition: The International System of Units (SI)
+NIST Special Publication 811, 2008 Edition: Guide for the Use of the International System of Units
+NIST Special Pub 814: Interpretation of the SI for the United States and Federal Government Metric Conversion Policy
+
+Rules for SAE Use of SI (Metric) Units
+SI tại DMOZ
+EngNet Metric Conversion Chart Online Categorised Metric Conversion Calculator
+U.S. Metric Association. 2008. A Practical Guide to the International System of Units
+History
+LaTeX SIunits package manual gives a historical background to the SI system.
+Research
+The metrological triangle
+Recommendation of ICWM 1 (CI-2005)
+Pro-metric advocacy groups
+The UK Metric Association
+The US Metric Association
+Pro-customary measures pressure groups
+Pro-customary measures groups tại DMOZ

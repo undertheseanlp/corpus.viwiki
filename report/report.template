@@ -2,9 +2,7 @@
 
 {{ num_documents }} documents from [Vietnamese Wikipedia](https://vi.wikipedia.org/wiki/Wikipedia_ti%E1%BA%BFng_Vi%E1%BB%87t)
 
-Format: Raw text document
-
-Example
+## Example
 
 **.gb.txt**
 
@@ -26,4 +24,22 @@ JANET(UK) website
 www.dra.hmg.gb Last accessible copy of www.dra.hmg.gb in the Internet Archive
 ```
 
+**aol.txt**
 
+```
+AOL là viết tắt của America Online, là một công ty cung cấp dịch vụ Internet toàn cầu có trụ sở tại Hoa Kỳ. công ty này thuộc quản lý của tập đoàn Time Warner.
+
+
+== Chú thích ==
+```
+
+## HOWTO
+
+The files are in txt format and stored in viwiki folder.
+
+Execute the following commands to get the corpus
+
+```
+git clone https://github.com/magizbox/corpus.viwiki
+cd corpus.vwiki/viwiki
+```

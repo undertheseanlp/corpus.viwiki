@@ -1,0 +1,87 @@
+DVD (còn được gọi là "Digital Versatile Disc" hoặc "Digital Video Disc") là một định dạng lưu trữ đĩa quang phổ biến. Công dụng chính của nó là lưu trữ video và lưu trữ dữ liệu.
+DVD có nhiều điểm giống CD: chúng đều có đường kính 12 cm cho loại tiêu chuẩn, hay 8 cm cho loại nhỏ. Nhưng DVD có cách lưu dữ liệu khác, với cách nén dữ liệu và các lớp quang học có khả năng chứa nhiều dữ liệu hơn CD gấp 7 lần hoặc hơn thế nữa. Về cấu trúc phần mềm, DVD cũng khác CD ở chỗ chúng đều chứa hệ tập tin, gọi là UDF, một phiên bản mở rộng của tiêu chuẩn ISO 9660 cho CD chứa dữ liệu.
+Sự khác nhau về thuật ngữ DVD thường được mô tả phương pháp dữ liệu được lưu trư trễn đĩa: DVD-ROM có dữ liệu chỉ có thể đọc mà không thể ghi, DVD-R và DVD+R có thể ghi một lần và sau đó có chức năng như DVD-ROM, và DVD-RAM, DVD-RW, hoặc DVD+RW chứa dữ liệu có thể xóa và ghi lại nhiều lần.
+DVD-Video và DVD-Audio được dùng để nói đến hai định dạng khác hẳn nhau, một bên là cấu trúc video và một bên là nội dung audio. Các dạng đĩa DVD khác, bao gồm nội dung video, có thể được hiểu như là đĩa DVD-Data. Khái niệm "DVD" thường được sử dụng sai để chỉ các định dạng đĩa quang độ nét cao, như Blu-ray và HD-DVD.
+
+
+== Lịch sử ==
+Năm 1993, hai tiêu chuẩn lưu trữ quang học mật độ cao (high-density) bắt đầu được phát triển, một là đĩa MultiMedia Compact Disc, được hỗ trợ bởi Philips và Sony, và định dạng còn lại là Super Density Disc, hỗ trợ bởi Toshiba, Time Warner, Matsushita Electric, Hitachi, Mitsubishi Electric, Pioneer, Thomson, và JVC. Tổng giám đốc IBM, Lou Gerstner, đóng vai trò như một người "mai mối", đã tạo nên một nguồn lực thúc đẩy hai bên tạo nên một định dạng chuẩn chung duy nhất, khi ông thấy trước sự tái hiện cuộc chiến định dạng videotape giữa VHS và Betamax vào những năm 1980.
+Philips và Sony từ bỏ định dạng MultiMedia Compact Disc của họ và đồng ý hoàn toàn với định dạng SuperDensity Disc của Toshiba với một sự thay đổi duy nhất, đó là việc chuyển đổi thành EFMPlus modulation. EFMPlus được chọn bởi vì nó có khả năng đàn hồi chống lại những va chạm giống như vết xước và dấu vân tay. EFMPlus, được tạo ra bởi Kees Immink, cũng chính là người đã thiết kế EFM, là 6% kém hiệu quả hơn 6% so với công nghệ nguyên thủy của Toshiba, dẫn đến kết quả tạo nên dung lượng 4.7 GB thay vì nguyên gốc là 5 GB. Kết quả là bản ghi chi tiết kỹ thuật của DVD, định dạng cho các đầu xem phim DVD và các DVD-ROM ứng dụng cho máy vi tính, ra đời tháng 12 năm 1995. Vào tháng 5 năm 1997, Liên hiệp DVD (DVD Consortium) được thay thế bởi Diễn đàn DVD (DVD Forum), được mở ra cho mọi công ty.
+
+
+== Phân loại ==
+Có nhiều loại định dạng DVD:
+DVD-ROM: Định dạng này thường được sử dụng để lưu phim. Chúng thường được "nén" nghĩa là có tồn tại một ma trận gốc được sử dụng làm khuôn để ghi thông tin và chúng không thể ghi đi ghi lại được.
+DVD-R: còn được viết -R (cho recordable: ghi) là định dạng xuất hiện đầu tiên và mục đích ban đầu là để dùng cho việc lưu trũ phim video.
+DVD+R: cũng giống như định dạng -R nhưng ra đời sau và phù hợp hơn -R trong việc lưu trữ dự liệu. Nó cho phép xem phim bất kỳ lúc nào, không cần đĩa phải hoàn chỉnh. Loại đĩa này có những khả năng kỹ thuật tốt hơn -R. Chúng ta không thể thấy sự khác biệt giữa đĩa -R và đĩa +R nếu nhìn bằng mắt thường.
+DVD-RW và DVD+RW: Loại đĩa này giống loại đĩa -R và +R nhưng cho phép ghi và xóa nhiều lần.
+Thông số hai loại đĩa DVD thông dụng.
+
+
+== Khả năng lưu trữ ==
+Ban đầu có 4 loại DVD:
+DVD-5: có một mặt và một lớp lưu thông tin, khả năng lưu trữ là 4.7 gigabyte
+DVD-9: có một mặt và hai lớp lưu thông tin, khả năng lưu trữ là 8.5 gigabyte
+DVD-10: có hai mặt và mỗi mặt có một lớp lưu trữ thông tin (phải lật đĩa DVD lại để xem mặt thứ hai), khả năng lưu trữ là 9.4 gigabyte
+DVD-18: có hai mặt và hai lớp lưu thông tin mỗi mặt, khả năng lưu trữ là 17 gigabyte
+
+
+== Công nghệ ==
+
+DVD sử dụng ánh sáng laser diode có bước sóng 650nm, khác với bước sóng 780 nm đối với CD,tuy nhiên,hầu như mọi đầu đĩa dvd đều sử dụng cả hai loại LD(laser diode) trên để đọc được cả dvd và cd. Việc làm này cho phép tạo nên những điểm nhỏ hơn trên bề mặt đĩa (1.32 micromet cho DVD còn 2.11 micromet đối với CD). Tốc độ ghi của DVD là 1X, là 1350 kB/s (1318 KiB/s), trong ổ đĩa và những mẫu DVD đầu tiên. Các mẫu gần đây hơn đã đạt tốc độ 18X hoặc 20X, nghĩa là 18 hoặc 20 lần nhanh hơn. Lưu ý là đối với ổ đĩa Cd, 1X có tốc độ 153.6 kB/s (150 KiB/s), 9 lần chậm hơn.
+
+
+=== Công nghệ ghi dữ liệu lớp kép ===
+Ghi dữ liệu lớp kép cho phép đĩa DVD-R và DVD+R lưu trữ được nhiều dữ liệu hơn, gần 8.5 Gigabyte mỗi mặt, so với 4.7 gigabyte đối với một đĩa đơn lớp. DVD-R lớp kép được phát triển cho Diễn đàn DVD bởi tập đoàn Pioneer, DVD+R lớp kép được phá triển cho khối liên minh DVD+RW bởi Philips và Mitsubishi Kagaku Media (MKM).
+Một đĩa lớp kép khác với những đĩa DVD lớp đơn ở điểm là thêm một lớp vật lý vào trong đĩa. Ổ đĩa lớp kép truy xuất đến lớp thứ hai bằg cách chiếu tia laser xuyên qua lớp thứ nhất một nửa trong suốt. Sự thay đổi cơ học giữa các lớp có thể làm cho các đầu đọc DVD có một khoảng dừng, dài khoảng 2 giây. Điều này làm người xem lo lắng rằng đĩa lớp kép của họ có thể bị hư hoặc có thiếu sót, và kết quả cuối cùng là các hãng sản xuất phải lên tiếng rằng việc có khoảng dừng đó là kết quả tất yếu trên tất cả các gói đĩa lớp kép.
+Đĩa DVD recordable hỗ trợ công nghệ này có thể tương thích ngược với một vài đầu chơi DVD và ổ đĩa DVD-ROM. Nhiều đầu ghi DVD hiện nay đều hỗ trợ công nghệ lớp kép, và về so sánh giá giữa ổ đĩa lớp đơn, và các đĩa trắng lớp đơn thì giá của ỗ đĩa và đĩa lớp kép vẫn còn quá đắt. Tốc độ ghi dữ liệu cho lớp kép hiện tại nhanh vẫn tốt hơn những đĩa lớp đơn.
+
+
+== Bảng tốc độ đọc và truyền dữ liệu của đĩa DVD-ROM ==
+Tốc độ đọc và truyền dữ liệu đĩa DVD-ROM.
+
+
+== Sự tương thích ==
+Ổ đĩa DVD và sự tương thích.
+
+
+== Đĩa DVD recordable và rewritable ==
+
+HP đầu tiên phát triển định dạng DVD có thể ghi (DVD recordable) từ yêu cầu của việc lưu dữ liệu để lưu trữ và vận chuyển.
+DVD recordable còn được sử dụng cho khách hàng trong việc lưu trữ nhạc và phim. Ba định dạng được phát triển: DVD-R/RW (minus/dash), DVD+R/RW (plus), DVD-RAM.
+
+
+== DVD-Video ==
+
+DVD-Video là một tiêu chuẩn để lưu trữ nội dung video. Ở Mỹ, số đĩa DVD-Video bán ra hàng tuần đã vượt xa số băng cassette VHS bán ra tháng 6 năm 2003, cho thấy sự chấp nhận đông đảo bởi thị trường.
+Mặc dù có nhiều định dạng và nhiều độ phân giải được hỗ trợ, đa số khách hàng mua đĩa DVD sử dụng 4:3 hoặc anamorphic 16:9 tỉ lệ góc nhìn (aspect ratio) MPEG-2 video, lưu trữ với độ phân giải 720x480 (NTSC) hoặc 720x576 (PAL) với tốc độ 29.97 hoặc 25 khung hình/giây (FPS). Âm thanh được sử dụng chung nhất là Dolby Digital (AC-3) hoặc định dạng Digital Theater System (DTS), có khoảng từ 16-bits/48 kHz đến 24bits/96 kHz với dạng đơn loa (monaural) đến trình diễn âm thanh 7.1 "Âm thanh vòm" (Surround Sound), và/hoặc MPEG-1 lớp 2. Mặc dù bản mô tả chi tiết cho video và audio thay đổi từ theo vùng lãnh thổ và theo hệ tivi, nhưng nhiều đầu DVD vẫn hỗ trợ tất cả định dạng có thể. DVD-Video cũng hỗ trợ các mục như menu, lựa chọn phụ đề (subtitle), nhiều góc nhìn camera, và nhiều track âm thanh khác nhau.
+
+
+== DVD-Audio ==
+
+DVD-Audio là một định dạng âm thanh độ trung thực cao lưu trữ trên DVD. Nó cho phép lưu trữ nhiều cấu hình kênh khác nhau (từ mono sound cho đến hệ thống âm thanh 7.1) với nhiều tần số lấy mẫu khác nhau (cho đến 24-bits/192 kHz đối với CDDAs 16-bits/44.1 kHz). So sánh với định dạng CD, dung lượng lớn của DVD cho phép sự bao gộp nhiều âm thanh hơn (với khía cạnh là chạy được nhiều bài nhạc hơn) và/hoặc những bản nhạc chất lượng cao hơn (phản xạ bởi phương pháp lấy mẫu tuyến tính và các bit-rate cao, và/hoặc thêm vào các kênh để tạo nên âm thanh không gian (spatial sound).
+Mặc dù các bản mô tả tiêu chuẩn cao của DVD-Audio, nó vẫn tồn tại cuộc tranh luận để phân định các kết quả hỗ trợ âm thanh phân biệt trong môi trường nghe cơ bản. Định dạng DVD-Audio hiện tại đang đi vào hốc tường của thị trường, gây ra bởi cuộc chiến định dạng sống còn với chuẩn SACD mà DVD-Video tránh.
+
+
+== Bảo mật ==
+
+Đĩa DVD-Audio tạo nên cơ cấu phòng chống sao chép mạnh mẽ, gọi là Bảo vệ Nội dung đĩa ghi trước (Content Protection for Prerecorded Media - CPPM), được phát triển bởi nhóm 4C (IBM, Intel, Matsushita và Toshiba).
+Cho đến hôm nay, CPPM vẫn chưa bị "phá vỡ" trên khái niệm rằng DVD-Video’s CSS đã bị phá vỡ, nhưng mưu mẹo để phá vỡ nó đã được phát triển. Bằng cách thay đổi các phần mềm chơi nhạc DVD để giải mã các dòng âm thanh đã được mã hóa vào đĩa cứng, người dùng có thể, thực chất, có thể lấy nội dung từ đĩa DVD-Audio cũng như có thể lấy từ đĩa DVD-Video.
+
+
+== Những công nghệ kế thừa ==
+
+Có một vài định dạng thừa kế của DVD được phát triển bởi nhiều liên hiệp khác nhau. Sony/Panasoic có Blu-ray (BD) và Toshiba thì phát triển HD DVD bắt đầu tạo nên một sức kéo công nghệ vào năm 2007, và thế hệ tiếp theo như Maxell’s Holographic Versatile Disc (HVD) và công nghệ lưu trữ dữ liệu quang học 3D đã bắt đầu được phát triển khá mạnh.
+Vào ngày 19 tháng 11 năm 2003, Diễn đàn DVD quyết định bầu chọn 8 /6 rằng HD DVD sẽ trở thành HD thừa kế chính thức của DVD. Mặc dù vậy, cả BD lẫn HD DVD đã làm vướng víu bất kỳ sự chấp nhận của các công nghệ thừa kế khác của DVD mặc dù sự thiếu hụt của một sự hợp tác đã tạo nên sự thành công của DVD.
+Vào ngày 4 tháng 1 năm 2008, sau khi hãng phim Warner Bros tuyên bố sẽ chỉ sản xuất phim theo định dạng Blu-ray, và hãng bán lẻ Wal-Mart chỉ phân phối sản phẩm Blu-ray, vào tháng 2 cùng năm, sau 8 năm dai dẳng, cuộc chiến định dạng độ nét cao chính thức ngã ngũ. Đại diện của Toshiba đã tuyên bố "xem xét đến việc rút lui hoàn toàn".
+Dưới đây là bảng so sánh chi tiết ba loại đĩa quang: DVD và hai hậu duệ của nó Blu-ray và HD-DVD
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Trang chủ của Diễn đàn DVD
+Trang chủ của Liên minh DVD+RW
+Đĩa DVD đạt dung lượng terabyte
+6 mẹo ghi đĩa DVD hoàn hảo

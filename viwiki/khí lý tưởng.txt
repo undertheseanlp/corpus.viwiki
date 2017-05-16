@@ -1,0 +1,52 @@
+Khí lý tưởng là một loại chất khí tưởng tượng chứa các hạt giống nhau có kích thước vô cùng nhỏ so với thể tích của khối khí và không tương tác với nhau, chúng chỉ va chạm đàn hồi với tường bao quanh khối khí.
+Khí lý tưởng mô tả như trên có thể là xấp xỉ gần đúng cho khí thực, dù cho khí thực không có các tính chất trên. Khi khí thực ở trạng thái áp suất cao và nhiệt độ thấp, lực tương tác giữa các hạt trong khí (các phân tử hay nguyên tử) có ảnh hưởng đáng kể trong các tính chất của khí.
+
+
+== Các loại khí lý tưởng ==
+khí lý tưởng cổ điển, tuân thủ thống kê Maxwell-Boltzmann
+khí lý tưởng lượng tử tuân thủ thống kê Bose
+khí lý tưởng lượng tử tuân thủ thống kê Fermi
+Khí lý tưởng cổ điển có thể lại được chia làm hai loại. Loại thứ nhất thuần túy cổ điển và entropy của chúng có thể cộng với một hằng số vô định. Loại thứ hai là giới hạn ở nhiệt độ cao của hai loại khí lý tưởng lượng tử, và hằng số cộng thêm vào entropy được xác định.
+
+
+== Khí lý tưởng nhiệt động lực học cổ điển ==
+
+
+=== Vĩ mô ===
+
+
+=== Mô hình vi mô ===
+
+
+== Nhiệt dung ==
+
+
+== Entropy ==
+
+
+== Tiềm năng nhiệt động lực ==
+
+
+== Vận tốc âm thanh ==
+
+
+== Bảng phương trình khí lý tưởng ==
+
+
+== Khí lượng tử lý tưởng ==
+
+
+=== Khí Boltzmann lý tưởng ===
+
+
+=== Khí Bose và Fermi lý tưởng ===
+
+
+== Xem thêm ==
+Phương trình trạng thái khí lý tưởng
+Thuyết động học
+Nguyên lý 1 nhiệt động lực học
+Nguyên lý 2 nhiệt động lực học
+
+
+== Tham khảo ==

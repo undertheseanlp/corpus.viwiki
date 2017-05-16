@@ -2,6 +2,8 @@ from os import listdir
 import codecs
 import wikipedia
 
+from injector.word_analogies import load_word_analogies
+
 crawled_pages = set()
 page_queue = []
 
@@ -46,12 +48,20 @@ def crawl(recrawl=False, num_pages=20):
         crawl_page(page, recrawl=recrawl)
 
 
+def inject_pages(pages):
+    global page_queue
+    global crawled_pages
+    pages = [page for page in pages if page not in list(crawled_pages) + page_queue]
+    page_queue = pages + page_queue
+
 
 def load_context():
     global crawled_pages
     crawled_pages = set(open("crawled-pages.txt", "r", encoding="utf-8").read().split("\n"))
     global page_queue
-    page_queue = open("page-queue-test.txt", "r", encoding="utf-8").read().split("\n")
+    page_queue = open("page-queue.txt", "r", encoding="utf-8").read().split("\n")
+    pages_from_word_analogies_task = load_word_analogies()
+    # inject_pages(pages_from_word_analogies_task)
 
 
 def save_context():
@@ -63,6 +73,8 @@ def save_context():
 
 if __name__ == '__main__':
     wikipedia.set_lang("vi")
-    # load_context()
-    # crawl(recrawl=True, num_pages=1000)
-    # save_context()
+    load_context()
+    crawl(recrawl=False, num_pages=1000)
+    save_context()
+
+

@@ -1,0 +1,62 @@
+Khối lượng riêng của vật thể là một đặc tính về mật độ của vật chất đó, là đại lượng đo bằng thương số giữa khối lượng m của một vật làm bằng chất ấy (nguyên chất) và thể tích V của vật.
+Khi gọi khối lượng riêng là D, ta có: 
+  
+    
+      
+        D
+        =
+        
+          
+            m
+            V
+          
+        
+      
+    
+    {\displaystyle D={m \over V}}
+  
+Cụ thể khối lượng riêng tại một vị trí trong vật được tính bằng khối lượng của một thể tích vô cùng nhỏ nằm tại vị trí đó, chia cho thể tích vô cùng nhỏ này.
+Nếu chất đó có thêm đặc tính là đồng chất thì khối lượng riêng tại mọi vị trí là như nhau và bằng khối lượng riêng trung bình.
+Khối lượng riêng còn được gọi là mật độ khối lượng. Đại lượng vật lý này khác hẳn với đại lượng vật lý trọng lượng riêng, mọi người rất dễ gây nhầm lẫn giữa khái niệm trọng lượng và khối lượng.
+Trọng lượng riêng (N/m³) = Gia tốc trọng trường (≈9.8 m/s²) x Khối lượng riêng (kg/m³)
+Trong hệ đo lường quốc tế, khối lượng riêng có đơn vị là kilôgam trên mét khối (kg/m³). Một số đơn vị khác hay gặp là gam trên xentimét khối (g/cm³).
+Ý nghĩa đơn vị khối lượng riêng: kilôgam trên mét khối là khối lượng riêng của một vật nguyên chất có khối lượng 1 kilôgam và thể tích 1 mét khối.
+Khi biết được khối lượng riêng của một vật, ta có thể biết vật được cấu tạo bằng chất gì bằng cách đối chiếu với bảng khối lượng riêng của các chất. Khối lượng riêng một số chất ở nhiệt độ 0 °C và áp suất 760mm Hg là:
+Nitơ: 1,25 kg/m³
+Nước đá: 999 kg/m³
+Nhôm: 2601–2701 kg/m³
+Kẽm: 6999 kg/m³
+Vàng: 19300 kg/m³
+Thủy ngân: 13600 kg/m³
+Sắt: 7800 kg/m³
+
+
+== Khối lượng riêng trung bình ==
+Khối lượng riêng trung bình của một vật thể được tính bằng khối lượng, m, của nó chia cho thể tích, V, của nó, và thường được ký hiệu là ρ (đọc là "rô"):
+ρ = m/V
+
+
+== Tỷ khối, tỷ trọng ==
+
+Theo quy ước, tỷ lệ giữa mật độ hoặc khối lượng riêng của một chất nào đó so với mật độ hoặc khối lượng riêng của nước ở 4°C thì được gọi là tỷ khối hoặc tỷ trọng của chất đó.
+Trong thực hành, nhiều phép đo khối lượng riêng được thực hiện bằng việc so sánh với nước; hơn nữa khối lượng riêng của nước xấp xỉ bằng 1000kg/mét khối, một con số dễ sử dụng trong chuyển đổi sang hệ đo lường quốc tế.
+Ví dụ: tỷ khối của dầu là 0,8, của nhôm là 2,7...
+
+
+== Đo lường ==
+
+Khối lượng riêng của chất lỏng có thể được đo bằng phù kế.
+
+
+== Khối lượng riêng của một số chất ==
+
+
+=== Nước ===
+
+
+== Xem thêm ==
+Định lượng
+Trọng lượng riêng
+
+
+== Tham khảo ==

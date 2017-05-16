@@ -1,0 +1,19 @@
+Samsung Gear S là đồng hồ thông minh chạy Tizen công bố bởi Samsung.
+
+
+== Phần cứng ==
+Gear S tương tự như Samsung Galaxy Gear mặc dù nó không đi kèm một số bổ sung mới. Samsung Gear S có màn hình cong 2.0 inch Super AMOLED với 360×480 pixel. Nó có vi xử lý lõi kép 1.0 GHz và chạy hệ điều hành Tizen. Như Galaxy Gear 2, Gear S bao gồm 512 MB RAM và bộ nhớ trong 4 GB, pin 300 mAh Li-ion.
+Sử dụng 3G tích hợp có thể kết nối đến internet, gọi điện và gửi tin nhắn mà không cần điện thoại. Nó là thiết bị đeo tay đầu tiên có Wi-Fi, Bluetooth và kết nối 3G.
+
+
+== Xem thêm ==
+Samsung Gear
+Samsung Gear Fit
+Samsung Gear Live
+
+
+== Tham khảo ==
+
+
+== Liên kết ==
+BMW ConnectedDrive cho Samsung Gear S

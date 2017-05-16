@@ -1,0 +1,32 @@
+Lực đàn hồi là lực sinh ra khi vật đàn hồi bị biến dạng. Chẳng hạn, lực gây ra bởi một lò xo khi nó bị nén lại hoặc kéo giãn ra. Lực đàn hồi có xu hướng chống lại nguyên nhân sinh ra nó. Tức là nó có xu hướng đưa vật trở lại trạng thái ban đầu khi chưa bị biến dạng.
+Độ lớn của lực đàn hồi, khi biến dạng trong giới hạn đàn hồi, có thể được xác định gần đúng theo định luật Hooke:
+
+  
+    
+      
+        F
+        =
+        −
+        k
+        x
+      
+    
+    {\displaystyle F=-kx}
+  
+trong đó x là độ biến dạng và k là hệ số đàn hồi (hay độ cứng) của vật. Định luật này chính xác với những vật như lò xo. Với những vật thể như miếng cao su hay chất dẻo thì sự phụ thuộc giữa lực đàn hồi vào biến dạng có thể phức tạp hơn.
+Lực đàn hồi là tương tác giữa các phân tử hay nguyên tử, tức là lực điện từ giữa các electron và proton bên trong vật đàn hồi.
+
+
+== Giới hạn đàn hồi ==
+Khi độ biến dạng lớn đến một giá trị nào đó thì lực đàn hồi không xuất hiện nữa và ta gọi giá trị này là giới hạn đàn hồi,nếu vượt quá giới hạn đàn hồi lúc đó vật bị biến dạng sẽ không thể trở về được hình dạng ban đầu, sau khi không chịu tác động làm biến dạng.
+
+
+== Ứng dụng của lực đàn hồi ==
+Lực đàn hồi là cơ sở để tạo ra lực kế và các cân lò xo. Nó còn được ứng dụng để xác định khối lượng ở trạng thái không trọng lượng.
+
+
+== Xem Thêm ==
+Lực
+
+
+== Tham khảo ==

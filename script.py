@@ -34,6 +34,8 @@ def crawl_page(title, recrawl=False):
                 crawl_page(title)
     except wikipedia.PageError as e:
         pass
+    except:
+        pass
     crawled_pages.add(title)
 
 

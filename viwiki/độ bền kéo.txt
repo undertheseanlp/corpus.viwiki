@@ -1,0 +1,25 @@
+Độ bền kéo là đặc tính chịu được lực kéo đứt vật liệu. Đơn vị tính thông thường là Kg/cm², hay N/mm².
+
+
+== Mô tả ==
+Độ bền kéo có thể được hiểu như là khi một lực tác động tăng dần đến khi vật liệu dạng sợi hay trụ bị đứt. Ở giá trị lực kéo giới hạn cho sự đứt của vật liệu được ghi lại được ký hiệu σk. Độ bền kéo được ứng dụng rất nhiều cho các vật liệu trong các lĩnh vực như thiết kế chế tạo máy, xây dựng, khoa học vật liệu.
+Công thức tính toán ứng suất kéo: 
+  
+    
+      
+        σ
+        =
+        
+          
+            F
+            A
+          
+        
+      
+    
+    {\displaystyle \sigma ={\frac {F}{A}}}
+  
+Trong đó F(N) là lực kéo đứt vật liệu có thiết diện A(mm2)
+
+
+== Tham khảo ==

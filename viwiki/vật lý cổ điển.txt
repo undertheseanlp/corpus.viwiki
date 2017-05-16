@@ -1,0 +1,16 @@
+Vật lý cổ điển đề cập đến các lý thuyết của vật lý hiện đại có trước, hoàn thiện hơn các lý thuyết được áp dụng rộng rãi hơn trước đó. Nếu một lý thuyết chấp nhận hiện nay được coi là "hiện đại", và việc giới thiệu của nó đại diện cho một sự thay đổi lớn mô hình, thì các lý thuyết trước đó, hoặc lý thuyết mới dựa trên các mô hình cũ, sẽ thường được gọi là thuộc lĩnh vực vật lý học "cổ điển". Như vậy, định nghĩa về một lý thuyết cổ điển phụ thuộc vào ngữ cảnh. Khái niệm vật lý cổ điển thường được sử dụng khi lý thuyết hiện đại là không cần thiết phức tạp cho một tình huống cụ thể.
+
+
+== Tổng quan ==
+Lý thuyết cổ điển có ít nhất hai ý nghĩa khác nhau trong vật lý. Trong bối cảnh của cơ học lượng tử, lý thuyết cổ điển đề cập đến lý thuyết của vật lý mà không sử dụng các mô hình lượng tử hóa, trong đó bao gồm cơ học cổ điển và thuyết tương đối. Tương tự như vậy, lý thuyết trường cổ điển, chẳng hạn như thuyết tương đối rộng và điện từ cổ điển, là những người mà làm không sử dụng cơ học lượng tử. Lý thuyết cổ điển là những lý thuyết tuân theo thuyết tương đối Galilê, trong khi thuyết tương đối chung và đặc biệt sử dụng khuôn khổ khác nhau, nhưng tất cả đều là một phần của vật lý cổ điển.
+Trong số các nhánh của lý thuyết trong vật lý cổ điển là:
+Cơ học cổ điển
+Các định luật về chuyển động của Newton
+Các hình thức Cơ học Lagrange cổ điển và cơ học Hamilton
+Điện động lực học cổ điển (phương trình Maxwell)
+Nhiệt động lực học cổ điển
+Thuyết tương đối hẹp và thuyết tương đối tổng quát
+Lý thuyết hỗn loạn cổ điển và động lực học phi tuyến
+
+
+== Tham khảo ==

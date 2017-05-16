@@ -1,0 +1,36 @@
+Ứng suất cắt là kết quả khi lực tác động lên sản phẩm mà gây ra biến dạng trượt của vật liệu trên một mặt phẳng song song với hướng tác động của lực áp vào. Ví dụ như người ta dùng kéo để cắt một tấm tôn mỏng, hay việc đột dập tôn trong chế tạo lõi thép máy điện.
+
+
+== Dạng tổng quát ==
+Công thức tính ứng suất cắt trung bình là:
+
+  
+    
+      
+        τ
+        =
+        
+          
+            F
+            A
+          
+        
+      
+    
+    {\displaystyle \tau ={F \over A}}
+  
+với
+
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+   = ứng suất cắt
+F = lực tác dụng
+A = diện tích mặt cắt ngang
+
+
+== Tham khảo ==

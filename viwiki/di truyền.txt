@@ -1,0 +1,31 @@
+Di truyền là hiện tượng chuyển những tính trạng của cha mẹ cho con cái thông qua gen của cha mẹ. Trong sinh học và di truyền học, di truyền chuyển những đặc trưng sinh học từ một sinh vật cha mẹ đến con cái và nó đồng nghĩa với di chuyển gen, gen thừa nhận mang thông tin sinh học (hay thông tin di truyền). Ngoài ra, các đặc điểm về tính cách, nhận thức và tư duy của con cái có thể được tiếp nhận từ cha mẹ thông qua môi trường sinh hoạt gia đình (các thói quen, quy định của gia đình gọi là gia phong, nề nếp). Ở con người, xác định đặc trưng nào phụ thuộc vào di truyền và đặc trưng nào phụ thuộc vào môi trường thường gây tranh cãi; đặc biệt là đối với những đặc tính phức tạp như trí thông minh và màu da; giữa tự nhiên và nuôi dưỡng.
+
+
+== Lịch sử ==
+Từ thời thượng cổ, người ta đã nhận thức được rằng mọi sinh vật từ thực vật đến động vật đều thể hiện ít nhiều những đặc tính từ cha và mẹ; và khác biệt giữa con và cha mẹ cũng thường được truyền lại cho thế hệ cháu. Từ đó, con người dò đoán và tìm được phương pháp tuyển chọn và phát triển giống tốt cho gia súc cũng như rau cải, lúa gạo, v.v.... Hiện tượng di truyền được con người chấp nhận như chuyện hiển nhiên cho đến cuối thế kỷ 19 mới có giải thích khoa học hơn. Nhóm nghiên cứu di truyền theo chủ thuyết Lamarck cho rằng ngoài di truyền của những biểu hiện bẩm sinh còn có di truyền của những biểu hiện mắc phải (gây nên) bởi môi trường.
+Charles Darwin đưa lên giả thuyết về tiến hoá vào năm 1859 nhưng gặp một số khúc mắc - khó khăn nhất là giải thích phương thức của di truyền. Darwin cho rằng có pha trộn giữa di truyền bẩm sinh và di truyền của những biểu hiện gây nên bởi môi trường. Nhưng nếu thật sự có sự pha trộn này, chỉ sau một vài thế hệ sẽ nảy sinh ra hiện tượng đồng dạng của toàn chủng và sẽ không có đủ biến dị để sự tuyển chọn tự nhiên có thể xảy ra. Do đó, Darwin phải tiếp thu phần nào giả thuyết của Lamarck vào công trình nghiên cứu của ông. Cách trình bày của Darwin về di truyền là cho thấy nó xảy ra như thế nào và người ta có thể dự đoán hướng di truyền trong thế hệ tới (thí dụ những đặc tính được di truyền nhưng không biểu hiện ở cha hay mẹ vào lúc thụ thai, nhiều cá tính di truyền phân biệt theo giống đực hay cái). Phương thức của di truyền thì Darwin không giải thích được.
+Khái niệm di truyền của Darwin được người anh em bà con của ông Francis Galton cải tiến, từ đó tạo cơ sở cho nền khoa học di truyền. Tuy nhiên Galton không chấp nhận thuyết tiến hóa toàn diện của Darwin (pangenesis: dựa trên di truyền của các tính trạng mắc phải trong cuộc sống).
+Năm 1880, August Weismann cắt đuôi của nhiều thế hệ chuột trong phòng thử nghiệm, và cho thấy các con chuột trong thế hệ sau vẫn có đuôi. Từ đó, ông chứng minh rằng không có sự di truyền của các tính trạng mắc phải trong cuộc sống.
+Tu sĩ Áo Gregor Mendel khám phá ra "di truyền từng phần" khi ông cho thấy các giống đậu có thể được "pha trộn" để cho ra nhiều loại giống khác nhau nhưng vẫn còn một ít tính trạng từ thế hệ trước. Tuy ông tìm ra hiện tượng này năm 1865, mãi cho đến 1901 khoa học mới chú ý đến khám phá này. Ban đầu người ta cho rằng di truyền dạng Mendel chỉ cho tác dụng trên những tính trạng đơn thuần (như kích thước). Nhưng sau đó, năm 1918 Ronald Fisher chứng minh được rằng di truyền còn có thêm tác dụng hòa hợp (như pha hai loài hoa khác màu, cho loại thứ ba có cả hai màu).
+Từ năm 1930 công trình của Fisher và các bậc nghiên cứu di truyền tiền bối như Mendel và Darwin được phối hợp vào ngành di truyền học hiện đại. Trong thập niên 1960 Trofim Lysenko tái thiết lập lối suy nghĩ của Lamarck (nghĩa là di truyền của các tính trạng mắc phải trong cuộc sống) và đem vào nghiên cứu nông nghiệp của Liên Xô. Vài năm sau nông nghiệp Liên Xô suy sụp, thức ăn thiếu thốn, vì các cuộc canh tân nông nghiệp thất bại.
+
+
+== Hình ảnh ==
+
+
+== Xem thêm ==
+Di truyền học
+ADN
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Sinh học 9, Nhà xuất bản Giáo dục, Nguyễn Quang Vinh - Tổng Chủ biên kiêm Chủ biên
+Sổ tay kiến thức Sinh học THCS, Nhà xuất bản Giáo dục, Nguyễn Quang Vinh - Chủ biên
+
+
+== Liên kết ngoài ==
+Stanford Encyclopedia of Philosophy entry on Heredity and Heritability
+Lamarck Revisited

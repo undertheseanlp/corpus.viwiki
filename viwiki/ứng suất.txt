@@ -1,0 +1,66 @@
+Ứng suất (cg. sức căng), đại lượng biểu thị nội lực phát sinh trong vật thể biến dạng (x. Biến dạng) do tác dụng của các nguyên nhân bên ngoài như tải trọng, sự thay đổi nhiệt độ, v.v.
+Phương trình ứng suất tổng quan:
+
+  
+    
+      
+        
+          σ
+        
+        =
+        
+          
+            F
+            A
+          
+        
+      
+    
+    {\displaystyle {\sigma }={\frac {F}{A}}}
+  
+trong đó: σ là ứng suất, F là lực và A diện tích bề mặt.
+có quan hệ với:
+Ứng suất (vật lý)
+Ứng suất kéo
+Ứng suất nén
+Ứng suất cắt
+Áp lực
+
+Ứng suất đàn hồi trong kỹ thuật chế tạo máy
+
+
+== Trang liên quan ==
+Kéo
+nén
+uốn
+
+
+== Tham khảo ==
+
+
+== Tài liệu ==
+Ameen, Mohammed (2005). Computational elasticity: theory of elasticity and finite and boundary element methods. Alpha Science Int'l Ltd. tr. 33–66. ISBN 184265201X. 
+Atanackovic, Teodor M.; Guran, Ardéshir (2000). Theory of elasticity for scientists and engineers. Springer. tr. 1–46. ISBN 081764072X.  
+Chadwick, Peter (1999). Continuum mechanics: concise theory and problems. Dover books on physics (ấn bản 2). Dover Publications. tr. 90–106. ISBN 0486401804. 
+Chakrabarty, J. (2006). Theory of plasticity (ấn bản 3). Butterworth-Heinemann. tr. 17–32. ISBN 0750666382. 
+Chatterjee, Rabindranath (1999). Mathematical Theory of Continuum Mechanics. Alpha Science Int'l Ltd. tr. 111–157. ISBN 8173192448. 
+Chen, Wai-Fah; Han, Da-Jian (2007). Plasticity for structural engineers. J. Ross Publishing. tr. 46–71. ISBN 1932159754. 
+Fung, Yuan-cheng; Tong, Pin (2001). Classical and computational solid mechanics. Volume 1 of Advanced series in engineering science. World Scientific. tr. 66–96. ISBN 9810241240.  
+Hamrock, Bernard (2005). Fundamentals of Machine Elements. McGraw-Hill. tr. 58–59. ISBN 0072976829. 
+Hjelmstad, Keith D. (2005). Fundamentals of structural mechanics. Prentice-Hall international series in civil engineering and engineering mechanics (ấn bản 2). Springer. tr. 103–130. ISBN 038723330X. 
+Irgens, Fridtjov (2008). Continuum mechanics. Springer. tr. 42–81. ISBN 3540742972. 
+Jaeger, John Conrad; Cook, N.G.W, & Zimmerman, R.W. (2007). Fundamentals of rock mechanics . Wiley-Blackwell. tr. 9–41. ISBN 0632057599.  
+Lubliner, Jacob (2008). Plasticity Theory (Revised Edition) (PDF). Dover Publications. ISBN 0486462900. 
+Mase, George E. (1970). Continuum Mechanics. McGraw-Hill. tr. 44–76. ISBN 0070406634. 
+Mase, G. Thomas; George E. Mase (1999). Continuum Mechanics for Engineers . CRC Press. tr. 47–102. ISBN 0-8493-1855-6.  
+Prager, William (2004). Introduction to mechanics of continua. Dover Publications. tr. 43–61. ISBN 0486438090. 
+Smith, Donald Ray; Truesdell, Clifford (1993). An introduction to continuum mechanics -after Truesdell and Noll. Springer. ISBN 0792324544.  
+Wu, Han-Chin (2005). Continuum mechanics and plasticity. CRC Press. tr. 45–78. ISBN 1584883634. 
+
+
+== Tham khảo các website khác ==
+Stress analysis, Wolfram Research
+ESDU Stress Analysis Methods
+True stress and true strain
+Stress-Strain Curve for Ductile Material
+Encyclopædia Britannica article

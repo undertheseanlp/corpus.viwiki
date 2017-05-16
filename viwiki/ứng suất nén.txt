@@ -1,0 +1,5 @@
+Ứng suất nén là trạng thái ứng suất khi vật liệu bị tác động ép chặt. Trường hợp đơn giản của sự ép là lực ép đơn gây ra bởi phản lực tác động, lực đẩy. Sức bền nén của vật liệu luôn cao hơn sức bền kéo của vật liệu đó, tuy nhiên hình thể lại quan trọng để phân tích khi ứng suất nén đạt đến giới hạn cong vênh.
+Với những vật liệu dẻo, khi chịu ứng suất nén thường biến dạng méo mó, nhưng với các vật liệu có tính dòn thì khi vượt sức chịu đựng sẽ gây vỡ vụn.
+
+
+== Tham khảo ==

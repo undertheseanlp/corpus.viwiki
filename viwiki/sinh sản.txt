@@ -1,0 +1,40 @@
+Sinh sản là một quá trình sinh học tạo ra các sinh vật riêng biệt mới. Sinh sản là một đặc điểm cơ bản của tất cả sự sống. Các kiểu sinh sản được chia thành hai nhóm chính là sinh sản vô tính và sinh sản hữu tính.
+Đối với sinh sản vô tính, một cá thể mới có thể được tạo ra mà không liên quan gì đến một cá thể khác của loài đó. Sự phân chia của một tế bào vi khuẩn thành 2 tế bào là một ví dụ điển hình về kiểu sinh sản này. Tuy nhiên, sinh sản vô tính không bị giới hạn đối với sinh vật đơn bào mà hầu hết thực vật đều cũng có khả năng sinh sản theo phương thức này.
+Sinh sản hữu tính đòi hỏi phải có mối quan hệ giữa hai cá thể, đặc trưng bằng giới tính. Sinh sản bình thường ở người là một ví dụ phổ biến về sinh sản hữu tính.
+
+
+== Sinh sản vô tính ==
+
+Sinh sản vô tính là quá trình tạo ra một sinh vật mới với các đặc điểm giống hệt cá thể ban đầu mà không có sự đóng góp vật liệu di truyền của một cá thể khác. Vi khuẩn phân chia vô tính bằng cách nhân đôi; virus kiểm soát các tế bào chủ để tạo ra nhiều virus hơn; Thủy tức (các dạng không xương sống thuộc bộ Hydroidea) và nấm men có thể tạo ra bằng cách budding (mọc chồi). Các sinh vật này không có sự khác biệt về giới tính, và chúng có thể chia tách thành hai hay nhiều cá thể. Một số loài 'vô tính' như thủy tức và sứa, chúng có thể sinh sản ở dạng hữu tính. Ví dụ, hầu hết thực vật có khả năng sinh sản sinh dưỡng—hình thức sinh sản mà không cần hạt hoặc bào tử—nhưng cũng có thể sinh sản hữu tính. Tương tự, vi khuẩn có thể biến đổi thông tin di truyền bằng bằng cách tiếp hợp. Những cách sinh sản vô tính khác như trinh sản, phân đoạn và sự phát sinh bào tử chỉ liên quan đến sự phân bào có tơ. Trinh sản là sự lớn lên và phát triển của phôi hoặc mầm mà không cần sự thụ tinh từ con đực. Trinh sản thường gặp trong tự nhiên ở một số loài bao gồm cả thực vật bậc thấp (được gọi là sinh sản không dung hợp), động vật không xương sống (như bọ chét nước, bọ rầy xanh, ong và ong ký sinh (parasitic wasp), và Động vật có xương sống (như một số động vật bò sát, cá, và hiếm hơn là chim và cá mập). Hình thức này đôi khi cũng được dùng để miêu tả cách thức sinh sản ở những loài lưỡng tính có khả năng tự thụ tinh.
+
+
+== Sinh sản hữu tính ==
+
+Sinh sản hữu tính là một quá trình sinh học tạo ra các sinh vật mới bằng cách kết hợp vật liệu di truyền từ hai các thể khác nhau của loài. Mỗi sinh vật bố mẹ góp một nửa yếu tố di truyền tạo ra giao tử đơn bội. Hầu hết sinh vật tạo ra hai kiểu giao tử khác nhau. Trong các loài bất đẳng giao (anisogamous), hai giới tính gồm đực (sản xuất tinh trùng hay tiểu bào tử) và cái (sản xuất trứng hay đại bào tử). Trong loài đẳng giao (isogamous), các giao tử là tương tự hoặc giống hệt nhau về hình dạng, nhưng có thể chia tách thuộc tính và sau đó chúng có thể được đặt những tên gọi khác nhau. Ví dụ, trong tảo lục, Chlamydomonas reinhardtii, chúng có các giao tử dạng "cộng" và "trừ". Một vài sinh vật như ciliates, chúng có nhiều hơn hai loại giao.
+
+
+== Xem thêm ==
+Mùa sinh sản
+Sinh con
+Sơ sinh
+Trẻ sơ sinh
+
+
+== Hình ảnh ==
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+S. P. Otto and D. B. Goldstein. "Recombination and the Evolution of Diploidy". Genetics. Vol 131 (1992): 745-751.
+Tobler, M. & Schlupp,I. (2005) Parasites in sexual and asexual mollies (Poecilia, Poeciliidae, Teleostei): a case for the Red Queen? Biol. Lett. 1 (2): 166-168.
+Zimmer, Carl. Parasite Rex: Inside the Bizarre World of Nature's Most Dangerous Creatures, New York: Touchstone, 2001.
+“allogamy, cross-fertilization, cross-pollination, hybridization”. (ấn bản 2.1). 2002.   
+“allogamy”. (ấn bản 27). 2004.   
+
+
+== Liên kết ngoài ==
+Asexual Reproduction
+Journal of Biology of Reproduction
+Journal of Andrology

@@ -1,0 +1,5 @@
+Giới hạn chảy của vật liệu là giới hạn ứng suất tác động lên vật liệu gây biến dạng hình thù ban đầu do sự phá huỷ liên kết tổ chức của vật liệu, nhưng chưa phá hủy hoàn toàn vật liệu rắn. Có thể hiểu giới hạn chảy như là giới hạn lực tác động làm biến dạng vật liệu vượt quá biến dạng đàn hồi. Khi ứng suất tác dụng vượt quá giới hạn chảy biến dạng tăng lên rất nhanh dù ứng suất không thay đổi.
+Giới hạn chảy của vật liệu dòn thường gần trùng với độ bền của vật liệu.
+
+
+== Tham khảo ==

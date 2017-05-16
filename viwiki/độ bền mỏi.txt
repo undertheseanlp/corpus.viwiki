@@ -1,0 +1,34 @@
+Độ bền mỏi hay sức bền mỏi là khả năng của chi tiết máy chống lại các phá hủy mỏi như tróc rỗ bánh răng, rạn nứt bề mặt chi tiết…
+
+
+== Quá trình phá hủy mỏi ==
+Quá trình phá hủy mỏi xảy ra khi chi tiết máy chịu ứng suất thay đổi. Quá trình phá hủy mỏi bắt đầu từ những vết nứt rất nhỏ (vết nứt tế vi) sinh ra từ vùng chi tiết máy chịu ứng suất tương đối lớn. Khi số chu trình làm việc của chi tiết tăng lên thì các vết nứt này cũng mở rộng dần, chi tiết máy ngày càng bị yếu và cuối cùng xảy ra gãy hỏng chi tiết máy.
+Hiện tượng phá hủy mỏi được phát hiện ra từ giữa thế kỷ 19 và giới hạn mỏi được coi là một trong những chỉ tiêu tính toán chủ yếu để xác định kích thước chi tiết máy. Thực tiễn sử dụng máy cho thấy khoảng 90% các tổn thất của chi tiết do các vết nứt mỏi gây ra.
+
+
+== Đường cong mỏi ==
+Đường cong mỏi thể hiện mối quan hệ giữa ứng suất (ứng suất trung bình hoặc ứng suất lớn nhất) và số chu kỳ thay đổi ứng suất N của chi tiết máy tới khi hỏng hoàn toàn.
+
+
+=== Giới hạn bền mỏi ===
+Từ đồ thị ta thấy ứng suất càng cao thì tuổi thọ càng giảm. Khi ứng suất vượt qua giá trị σk số chu kỳ ứng suất giảm mạnh. Trị số σk gọi là giới hạn mỏi ngắn hạn của vật liệu.
+Ứng suất càng giảm thì số chu kỳ ứng suất càng tăng. Khi ứng suất giảm đến giá trị σo thì đường cong mỏi gần như nằm ngang tức là số chu kỳ ứng suất có thể tăng lên rất lớn mà chi tiết không bị gãy hỏng. Trị số σo gọi là độ bền dài hạn [1] của chi tiết máy. Ứng với σo là số chu kỳ cơ sở No.
+
+
+=== Phương trình đường cong mỏi ===
+
+σmN = C
+
+Trong đó:
+
+C là hằng số.
+m là bậc của Đường cong mỏi.
+N số chu kỳ thay đổi ứng suất ứng với σ.
+
+
+== Ghi chú ==
+^ Còn gọi là giới hạn bền mỏi dài hạn.
+
+
+== Tham khảo ==
+Nguyễn Trọng Hiệp: Chi tiết máy, Nhà xuất bản giáo dục 1999.

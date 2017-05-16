@@ -1,0 +1,6 @@
+Độ bền uốn của vật liệu hay là điểm cong vênh là khái niệm dùng trong ngành cơ khí và khoa học vật liệu để chỉ trang thái giới hạn bị cong vênh khi vật liệu đó chịu ứng suất uốn. Trước khi đến giới hạn uốn, vật liệu sẽ bị biến dạng đàn hồi, và trạng thái đó trở lại trạng thái ban đầu khi mà tải trọng bị loại bỏ. Khi vượt qua điểm cong vênh, một vài tổ chức nhỏ xuất hiện biến dạng vĩnh viễn, không thể phục hồi trạng thái ban đầu khi tải trọng bị loại bỏ.
+Sự hiểu biết về độ bền uốn giúp ta thiết kế hệ thống chịu tải trong các lĩnh vực kết cấu, như cầu, cần cẩu, cầu trục, các hệ thống chịu tải trọng trong xây dựng và thuỷ lợi... cũng như giúp ích cho việc thiết kế các thiết bị gia công biến dạng: cán (vật liệu), uốn (vật liệu). Trong lĩnh vực xây dựng, điểm cong vênh dẫn đến việc biến dạng mềm, trừ khi vật liệu hoàn toàn bị sụp đổ.
+Xem thêm độ bền nén.
+
+
+== Tham khảo ==

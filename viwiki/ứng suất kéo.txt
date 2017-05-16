@@ -1,0 +1,5 @@
+Ứng suất kéo là trạng thái ứng suất khi vật liệu chịu tác động kéo căng hướng trục. Bất kỳ một vật liệu nào thuộc loại đàn hồi thì phần lớn chịu được ứng suất kéo trung bình, ngược lại là các vật liệu chịu đựng lực kéo kém như: gốm, hợp kim giòn. Trong ngành chế tạo thép, một số loại thép có khả năng chịu được ứng suất kéo rất lớn, như các sợi dây cáp thép trong các thiết bị nâng hạ.
+Ứng suất kéo luôn thể hiện khả năng liên kết các vi tinh thể của vật liệu. Khi vật liệu bị kéo bằng hai lực ngược chiều nhau, thì phần lớn các vật liệu sẽ bị đứt ở một giới hạn ứng suất nào đó. Tại thời điểm vật liệu bị kéo đứt, thông số ứng suất đó được ghi nhận và được xem như độ bền kéo của vật liệu đó.
+
+
+== Tham khảo ==

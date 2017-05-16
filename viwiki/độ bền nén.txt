@@ -1,0 +1,8 @@
+Độ bền nén là sức chịu đựng của vật liệu khi chịu tác động của lực ép đơn.
+
+
+== Mô tả ==
+Hướng ứng suất ngược chiều hướng vào khối rắn vật liệu sẽ sinh ra ứng lực để chống lại và vật liệu có thể bền vững hay bị nứt vỡ (bị phá huỷ) được mô tả như hình vẽ dưới:
+
+
+== Tham khảo ==

@@ -1,0 +1,43 @@
+Thép là hợp kim với thành phần chính là sắt (Fe), với cacbon (C), từ 0,02% đến 2,14% theo trọng lượng, và một số nguyên tố hóa học khác. Chúng làm tăng độ cứng, hạn chế sự di chuyển của nguyên tử sắt trong cấu trúc tinh thể dưới tác động của nhiều nguyên nhân khác nhau. Số lượng khác nhau của các nguyên tố và tỷ lệ của chúng trong thép nhằm mục đích kiểm soát các mục tiêu chất lượng như độ cứng, độ đàn hồi, tính dễ uốn, và sức bền kéo đứt. Thép với tỷ lệ cacbon cao có thể tăng cường độ cứng và cường lực kéo đứt so với sắt, nhưng lại giòn và dễ gãy hơn. Tỷ lệ hòa tan tối đa của carbon trong sắt là 2,14% theo trọng lượng (ở trạng thái Austenit) xảy ra ở 1.147 độ C; nếu lượng cacbon cao hơn hay nhiệt độ hòa tan thấp hơn trong quá trình sản xuất, sản phẩm sẽ là xementit có cường lực kém hơn. Pha trộn với cacbon cao hơn 2,06% sẽ được gang. Thép cũng được phân biệt với sắt rèn, vì sắt rèn có rất ít hay không có cacbon, thường là ít hơn 0,035%. Ngày nay người ta gọi ngành công nghiệp thép (không gọi là ngành công nghiệp sắt và thép), nhưng trong lịch sử, đó là 2 sản phẩm khác nhau. Ngày nay có một vài loại thép mà trong đó cacbon được thay thế bằng các hỗn hợp vật liệu khác, và cacbon nếu có, chỉ là không được ưa chuộng.
+Trước thời kì Phục Hưng người ta đã chế tạo thép với nhiều phương pháp kém hiệu quả, nhưng đến thế kỉ 17 sau tìm ra các phương pháp có hiệu quả hơn thì việc sử dụng thép trở nên phổ biến hơn. Với việc phát minh ra quy trình Bessemer vào giữa thế kỉ 19, thép đã trở thành một loại hàng hoá được sản xuất hàng loạt ít tốn kém. Trong quá trình sản xuất càng tinh luyện tốt hơn như phương pháp thổi ôxy, thì giá thành sản xuất càng thấp đồng thời tăng chất lượng của kim loại. Ngày nay thép là một trong những vật liệu phổ biến nhất trên thế giới và là thành phần chính trong xây dựng, đồ dùng, công nghiệp cơ khí. Thông thường thép được phân thành nhiều loại tùy theo thành phần hóa học, mục đích sử dụng và cấp bậc và được các tổ chức đánh giá xác nhận theo chuẩn riêng.
+
+
+== Đặc tính ==
+Cũng như hầu hết các kim loại, về cơ bản, sắt không tồn tại ở vỏ Trái Đất dưới dạng nguyên tố, nó chỉ tồn tại khi kết hợp với ôxy hoặc lưu huỳnh. Sắt ở dạng khoáng vật bao gồm Fe2O3-một dạng của ôxít sắt có trong khoáng vật hematit, và FeS2 - quặng sunfit sắt. Sắt được lấy từ quặng bằng cách khử ôxy hoặc kết hợp sắt với một nguyên tố hoá học như cacbon. Quá trình này được gọi là luyện kim, được áp dụng lần đầu tiên cho kim loại với điểm nóng chảy thấp hơn. Đồng nóng chảy ở nhiệt độ hơn 1.080 °C, trong khi thiếc nóng chảy ở 250 °C. Pha trộn với cacbon trong sắt cao hơn 2,14% sẽ được gang, nóng chảy ở 1.392 °C. Tất cả nhiệt độ này có thể đạt được với các phương pháp cũ đã được sử dụng ít nhất 6.000 năm trước. Khi tỉ lệ ôxy hoá tăng nhanh khoảng 800 °C thì việc luyện kim phải diễn ra trong môi trường có ôxy thấp.
+Trong quá trình luyện thép việc trộn lẫn cacbon và sắt có thể hình thành nên rất nhiều cấu trúc khác nhau với những đặc tính khác nhau. Hiểu được điều này là rất quan trọng để luyện thép có chất lượng. Ở nhiệt độ bình thường, dạng ổn định nhất của sắt là sắt ferrit có cấu trúc lập phương tâm khối (BCC) hay sắt, một chất liệu kim loại mềm, có thể phân huỷ một lượng nhỏ cacbon (không quá 0,02% ở nhiệt độ 911 °C). Nếu trên 911 °C thì ferrit sẽ chuyển từ tâm khối (BCC) sang tâm mặt (FCC), được gọi là austenit, loại này cũng là một chất liệu kim loại mềm nhưng nó có thể phân huỷ nhiều cacbon hơn (2,14% cacbon nhiệt độ 1.147 °C). Một cách để loại bỏ cacbon ra khỏi austenit là loại xementit ra khỏi hỗn hợp đó, đồng thời để sắt nguyên chất ở dạng ferit và tạo ra hỗn hợp xementit-ferrit. Xementit là một hợp chất hoá học có công thức là Fe3C.
+
+
+== Thép hiện đại ==
+
+Thép hiện đại được chế tạo bằng nhiều các nhóm hợp kim khác nhau, tùy theo thành phần hóa học của các nguyên tố cho vào mà cho ta các sản phẩm phù hợp với công dụng riêng rẽ của chúng. Thép cacbon bao gồm hai nguyên tố chính là sắt và cacbon, chiếm 90% tỷ trọng các sản phẩm thép làm ra. Thép hợp kim thấp có độ bền cao được bổ sung thêm một vài nguyên tố khác (luôn <2%), tiêu biểu 1,5% mangan, đồng thời cũng làm giá thành thép tăng thêm. Thép hợp kim thấp được pha trộn với các nguyên tố khác, thông thường molypden, mangan, crom, hoặc niken, trong khoảng tổng cộng không quá 10% trên tổng trọng lượng. Các loại thép không gỉ và thép không gỉ chuyên dùng có ít nhất 10% crom, trong nhiều trường hợp có kết hợp với niken, nhằm mục đích chống lại sự ăn mòn. Một vài loại thép không gỉ có đặc tính không từ tính.
+Thép hiện đại còn có những loại như thép dụng cụ được hợp kim hóa với số lượng đáng kể bằng các nguyên tố như vonfram hay coban cũng như một vài nguyên tố khác đạt đến khả năng bão hoà. Những chất này là tác nhân kết tủa giúp cải thiện các đặc tính nhiệt luyện của thép. Thép dụng cụ được ứng dụng nhiều vào các công cụ cắt gọt kim loại, như mũi khoan, dao tiện, dao phay, dao bào và nhiều ứng dụng cho các vật liệu cần độ cứng cao.
+Phân loại thép.
+Có nhiều tiêu chí để phân loại thép tuy nhiên thép thường được phân chia dựa trên thành phần hóa học của thép.
+Theo hàm lượng các bon chia ra:
+- Thép các bon thấp : hàm lượng các bon ≤ 0,25%.
+- Thép các bon trung bình : hàm lượng các bon 0,25 - 0,6%.
+- Thép các bon cao : hàm lượng các bon 0,6 - 2%.
+Khi tăng hàm lượng các bon, tính chất của thép cũng thay đổi: độ dẻo giảm, cường độ chịu lực và độ giòn tăng. Để tăng cường các tính chất kỹ thuật của thép có thể cho thêm những nguyên tố kim loại khác như: mangan, crôm, niken, nhôm, đồng...
+Theo tổng hàm lượng các nguyên tố kim loại thêm vào chia ra :
+- Thép hợp kim thấp: tổng hàm lượng các nguyên tố kim loại khác ≤ 2,5%.
+- Thép hợp kim vừa: tổng hàm lượng các nguyên tố kim loại khác 2,5-10%.
+- Thép hợp kim cao: tổng hàm lượng các nguyên tố kim loại khác > 10%.
+Trong xây dựng thường dùng thép hợp kim thấp. Thành phần các nguyên tố khác trong thép khoảng 1%. Thép là vật liệu kim loại nên có ánh kim, dẫn điện, dẫn nhiệt mạnh..Ở nhiệt độ 500oC - 600oC thép trở lên dẻo, cường độ giảm. Ở nhiệt độ - 10oC tính dẻo giảm. Ở nhiệt độ - 45oC thép giòn, dễ nứt. Khối lượng riêng của thép từ 7,8 đến 7,85 g/cm3
+Kết cấu thép
+Những loại kết cấu thép chủ yếu là nhà công nghiệp, khung và trần khẩu độ lớn của nhà công cộng, cầu vượt, tháp, trụ, trần treo, khuôn của sổ và cửa đi...Những sản phẩm thép dùng để chế tạo kết cấu thép xây dựng là:
+Thép lá: là loại thép cán nóng (dày 4-160 mm, dài 6-12m, rộng 0,5-3,8m) chế tạo ở dạng tấm và cuộn, thép cán nóng và cán nguội mỏng (dày đến 4mm) ở dạng cuộn; thép cán nóng rộng bản được gia công phẳng (dày 6-60mm).
+Thép hình: là thép được tạo hình U, I, T, thép ống... bằng các phương pháp gia công như: gia công nhiệt (Ủ, Thường hóa, Tôi, Ram), gia công cơ học nóng (Cán nóng, rèn), gia công cơ học nguội (Cán nguội, kéo, rèn dập, vuốt, tổ hợp..)
+Gia công cơ học thép nhằm cải thiện cấu tạo và tính chất của thép để khắc phục những nhược điểm khi luyện và tạo hình dạng mới.
+Các dạng chủ yếu của thép hình:
+a. Thép góc;
+b. Thép chữ U;
+c. Thép chữ I;
+d. Thép chữ U và I thành mỏng;
+e. Các loại ống
+Ngoài những loại thép kể trên còn có những loại thép có công dụng khác để làm khung cửa sổ, cửa đi, cửa mái, đường ray cần trục, cáp và sợi thép cường độ cao dùng cho trần và cầu treo, cho giằng, trụ và kết cấu trần, bể chứa ứng suất trước. Từ các loại sản phẩm sản xuất thép nêu trên ,người ta sản xuất ra những đoạn cột, dầm cầu, cần trục, dàn, vòm, vỏ trụ và các kết cấu khác, sau đó chúng được liên kết thành các blôc tại nhà máy rồi được lắp ghép tại công trường. Tùy thuộc vào công dụng và điều kiện sử dụng kết cấu kim loại, mức độ quan trọng của nhà và công trình người ta sử dụng những loại thép khác nhau để chịu được nhiệt độ khác nhau của không khí ngoài trời.
+
+
+== Sản lượng thép ==
+
+
+== Tham khảo ==

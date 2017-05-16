@@ -81,5 +81,5 @@ def save_context():
 if __name__ == '__main__':
     wikipedia.set_lang("vi")
     load_context()
-    crawl(recrawl=False, num_pages=100)
+    crawl(recrawl=False, num_pages=200)
     save_context()

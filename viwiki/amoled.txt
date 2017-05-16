@@ -1,0 +1,245 @@
+AMOLED (tiếng Việt: công nghệ màn hình phát quang hữu cơ ma trận chủ động, là viết tắt của từ tiếng Anh active-matrix organic light-emitting diode, /ˈæmoʊˌlɛd/) là một công nghệ hiển thị được sử dụng trong đồng hồ thông minh, thiết bị di động, máy tính xách tay, và TV. OLED mô tả một loại hình cụ thể của công nghệ hiển thị màn mỏng trong đó các hợp chất hữu cơ tạo thành vật liệu quang điện, và ma trận chủ động đề cập tới công nghệ đằng sau xếp địa chỉ các pixel.
+Tính đến năm 2008, công nghệ AMOLED được sử dụng trong điện thoại di động, máy nghe nhạc và máy ảnh kĩ thuật số, và tiếp tục tiến tới các ứng dụng sử dụng ít năng lượng, chi phí thấp và màn hình lớn (ví dụ như, 40-inch).Bản mẫu:POV statement
+
+
+== Thiết kế ==
+
+
+== Nhược điểm ==
+
+
+== Phát triển trong tương lai ==
+
+
+== So sánh với các công nghệ khác ==
+
+
+== Thuật ngữ tiếp thị ==
+
+
+=== Super AMOLED ===
+
+
+=== Super AMOLED Advanced ===
+
+
+=== Super AMOLED Plus ===
+
+
+=== HD Super AMOLED ===
+
+
+=== HD Super AMOLED Plus ===
+
+
+=== Full HD Super AMOLED ===
+
+
+=== Quad HD Super AMOLED ===
+
+
+== Tương lai ==
+
+
+=== So sánh ===
+
+
+== Sử dụng ==
+Các thiết bị thương mại sử dụng AMOLED gồm:
+Đồng hồ thông minh
+Apple Watch
+Apple Watch Sport
+Apple Watch Edition
+Asus ZenWatch
+Điện thoại
+Alcatel One Touch Idol Ultra (HD Super AMOLED)
+BlackBerry Q10
+BlackBerry Z30
+BlackBerry Priv (WQHD Plastic AMOLED)
+Cherry Mobile Cosmos X (HD Super AMOLED)
+Micromax a90s
+Micromax a90
+Micromax a315
+Micromax Canvas Hue
+Microsoft lumia 650
+BenQ-Siemens S88
+Dell Venue 8 7000
+Gionee GN858
+Asus Zenfone 5(Super AMOLED PLUS)
+Gionee GN868 (Super AMOLED plus)
+GIONEE GN878 (HD Super AMOLED)
+Gionee Elife E5 (HD Super AMOLED)
+GIONEE ELIFE S5.1 (HD Super AMOLED)
+GIONEE ELIFE S5.5 (Full HD Super AMOLED)
+HTC Desire (early models)
+HTC Droid Incredible
+HTC Legend
+HTC One S (Super AMOLED Advanced)
+HTC J (Super AMOLED Advanced)
+Lenovo S90 Sisley (HD Super AMOLED)
+LG Franklin Phone
+LG E-730
+LG G Flex (HD Plastic-OLED)
+LG G Flex 2 (Full HD Plastic-OLED)
+LYF Earth 1
+LYF Water 1
+LYF Water 2
+LYF Wind 6
+LYF Flame 1
+Micromax Superfone Pixel A90
+Motorola Moto X (HD Super AMOLED)
+Motorola Droid Ultra (HD Super AMOLED)
+Motorola Droid Maxx (HD Super AMOLED)
+Motorola Droid RAZR HD and RAZR Maxx HD
+Motorola Droid RAZR (Super AMOLED Advanced)
+Motorola Droid RAZR Maxx (Super AMOLED Advanced)
+Motorola Droid Turbo (Quad HD Super AMOLED)
+Motorola Droid Turbo 2 (Quad HD Super AMOLED)
+Moto X (2nd Generation) (1080p Super AMOLED)
+Motorola Moto X Pro (QHD Super AMOLED)
+Google Nexus One (Early models)
+Google Nexus S (Super AMOLED)
+Google Galaxy Nexus (HD Super AMOLED)
+Google Nexus 6 (Quad HD Super AMOLED)
+Google Nexus 6P (WQHD Super AMOLED)
+MP-809T (Full HD Super Amoled)
+Nokia 700 (CBD)
+Nokia 808 Pureview (CBD)
+Nokia C7-00
+Nokia C6-01 (CBD)
+Nokia E7-00 (CBD)
+Nokia Lumia 800 (CBD)
+Nokia Lumia 810 (CBD)
+Nokia Lumia 820 (CBD)
+Nokia Lumia 822 (CBD)
+Nokia Lumia 900 (CBD)
+Nokia Lumia 925 (CBD)
+Nokia Lumia 928 (CBD)
+Nokia Lumia 930
+Nokia Lumia 1020 (CBD)
+Nokia N8
+Nokia N85
+Nokia N86 8MP
+Nokia N9 (CBD)
+Nokia X7
+OnePlus 3
+OnePlus X
+Pantech Burst
+QMobile Noir Z3
+Samsung ATIV S (HD Super AMOLED)
+Samsung ATIV SE (Full HD Super AMOLED®)
+Samsung AMOLED Beam SPH-W9600
+Samsung i7500 Galaxy
+Samsung Haptic Beam SPH-W7900
+Samsung SPH-m900 Moment
+Samsung i8910
+Samsung Jet
+Samsung Omnia 2
+Samsung Impression
+Samsung Rogue
+Samsung Transform
+Samsung Galaxy Note (HD Super AMOLED)
+Samsung Galaxy Note II (HD Super AMOLED)
+Samsung Galaxy Note 3 (Full HD Super AMOLED)
+Samsung Galaxy Round (Full HD Flexible Super AMOLED)
+Samsung Galaxy Note 3 Neo (HD Super AMOLED)
+Samsung Galaxy Note 4 (Quad HD Super AMOLED)
+Samsung Galaxy Note Edge (Flexible Super AMOLED)
+Samsung Galaxy Note 5 (Quad HD Super AMOLED)
+Samsung Galaxy S (Super AMOLED)
+Samsung Galaxy S Advance (Super AMOLED)
+Samsung Galaxy Express (Super AMOLED Plus)
+Samsung Galaxy S II (Super AMOLED Plus)
+Samsung Galaxy S II Plus (Super AMOLED Plus)
+Samsung Galaxy S III (HD Super AMOLED)
+Samsung Galaxy S III neo (HD Super AMOLED)
+Samsung Galaxy S III Mini (Super AMOLED)
+Samsung Galaxy S4 (Full HD Super AMOLED)
+Samsung Galaxy S4 Mini (qHD Super AMOLED)
+Samsung Galaxy S4 zoom (qHD Super AMOLED)
+Samsung Galaxy S Plus (Super AMOLED)
+Samsung Galaxy S Blaze 4G (Super AMOLED)
+Samsung Galaxy S5 (Full HD Super AMOLED)
+Samsung Galaxy S6 (Quad HD Super AMOLED)
+Samsung Galaxy S6 Edge (Flexible Quad HD Super AMOLED)
+Samsung Galaxy S6 Edge+ (Flexible Quad HD Super AMOLED)
+Samsung Galaxy S7 (Quad HD Super AMOLED)
+Samsung Galaxy S7 Edge (Flexible Quad HD Super AMOLED)
+Samsung Galaxy Note7 (Flexible Quad HD Super AMOLED) (Discontinued and recalled)
+Samsung Galaxy K Zoom (HD Super AMOLED)
+Samsung Galaxy Ace Style LTE (Super AMOLED)
+Samsung Galaxy Alpha (HD Super AMOLED)
+Samsung Galaxy A3 (qHD Super AMOLED)
+Samsung Galaxy A5 (HD Super AMOLED)
+Samsung Galaxy A7 (FULL HD Super AMOLED)
+Samsung Galaxy A8 (FULL HD Super AMOLED)
+Samsung Galaxy E5 (HD Super AMOLED)
+Samsung Galaxy E7 (HD Super AMOLED)
+Samsung Galaxy J (Full HD Super AMOLED)
+Samsung Galaxy J5 (HD Super AMOLED)
+Samsung Galaxy J7 (HD Super AMOLED)
+Samsung Galaxy Nexus (HD Super AMOLED)
+Samsung Galaxy Gear (Super AMOLED)
+Samsung Gear 2 (Super AMOLED)
+Samsung Gear 2 Neo (Super AMOLED)
+Samsung Gear Fit (Curved Super AMOLED)
+Samsung Gear S (Curved Super AMOLED)
+Samsung Gear Live (Curved Super AMOLED)
+Samsung Droid Charge (Super AMOLED Plus)
+Samsung Wave S8500 (Super AMOLED)
+Samsung S8600 Wave III (Super AMOLED)
+Samsung Focus (Super AMOLED)
+Samsung Focus S (Super AMOLED Plus)
+Samsung Focus 2 (Super AMOLED)
+Samsung Omnia 7 (Super AMOLED)
+Samsung Omnia W (Super AMOLED)
+Samsung Omnia M (Super AMOLED)
+Samsung Infuse 4G (SGH-i997) (Super AMOLED Plus)
+Samsung Z (HD Super AMOLED)
+YotaPhone 2 (Full HD Super AMOLED)
+ZTE Blade (Initial Models)
+Máy tính bảng
+docomo ARROWS Tab F-03G
+Samsung Galaxy Tab 7.7 (HD Super AMOLED Plus)
+Toshiba Excite 7.7 (HD Super AMOLED Plus)
+TOSHIBA REGZA AT570 7.7" (HD Super AMOLED Plus)
+Samsung Galaxy Tab S 8.4"
+Samsung Galaxy Tab S 10.5"
+BungBungame KALOS 2 10.5"
+Samsung Galaxy TabPro S 12.0"
+Máy chơi nhạc kĩ thuật số di động
+Sony Walkman NWZ-X1000
+Sony Walkman NW-A855,A856,A857
+Cowon Z2
+Cowon S9
+Cowon J3
+Iriver Clix
+Iriver Spinn
+Samsung YP-M1
+Zune HD
+Games consoles
+GP2X Wiz
+PlayStation Vita (original model)
+Music production hardware
+Dave Smith Instruments "Tempest"
+Teenage Engineering OP-1
+Máy ảnh kĩ thuật số
+Olympus XZ-1
+Samsung EX1
+Samsung EX2F
+Samsung NX10
+Samsung NX11
+Samsung NX20
+Samsung NX100
+Samsung NX200
+Samsung NX210
+Samsung NX300
+Samsung WB2000
+Samsung WB650
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Bản mẫu:HowStuffWorks

@@ -1,0 +1,26 @@
+Bài này nói về đơn vị đo diện tích mẫu của Anh. Xem các nghĩa khác của mẫu tại mẫu.
+Một mẫu Anh hay đôi khi gọi tắt là mẫu (một số người gọi là mẫu vuông) là một đơn vị đo diện tích trong hệ đo lường Anh và hệ đo lường Mỹ. Nó thường dùng để đo diện tích đất đai tại Anh, Mỹ.
+
+
+== Hệ đo lường Anh ==
+Theo The Units of Measurement Regulations 1995, đơn vị đo này được định nghĩa là 4.046,8564224 m² = 0.40468564224 hectar
+
+
+== Hệ đo lường Mỹ ==
+Theo NIST Handbook 44, đơn vị này bằng 43.560 foot vuông.
+Tuy nhiên có hai định nghĩa của foot.
+Theo foot quốc tế (0.3048 m), mẫu quốc tế bằng 4.046,8564224 m².
+Theo foot điều tra (1200/3937 m), mẫu điều tra bằng 4.046,872614 m².
+
+
+== Xem thêm ==
+Hệ đo lường Anh
+Hệ đo lường Mỹ
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+The Units of Measurement Regulations 1995
+NIST Handbook 44

@@ -1,0 +1,129 @@
+Hệ thống bảng xếp hạng FIFA là phương pháp tính toán được dùng trước đây bởi FIFA dành cho các đội tuyển quốc gia trong môn bóng đá. Hệ thống này được FIFA công bố vào năm 1999 như là bản mới nhất cập nhật thay cho bản trước đây, và được thay thế sau World Cup 2006 với một hệ thống đơn giản hơn.
+Bảng xếp hạng về cơ bản giống với hệ thống dùng trong các liên đoàn, dù có quy mô lớn hơn và phức tạp hơn. Mỗi đội đều có khả năng giành được một số điểm trong mỗi trận đấu, mặc dù điểm thưởng trong các hệ thống liên đoàn chỉ phụ thuộc vào kết quả trận đấu, trong bảng xếp hạng FIFA có nhiều thứ phải đem vào tính toán, vì mọi đội bóng đều không chơi tất cả các trận đấu trên sân nhà và sân khách như hầu hết các giải liên đoàn. Sau khi cho điểm các đội được xếp hạng từ trên xuống theo số điểm.
+Điểm được cho không chỉ phụ thuộc vào liệu đội đó có thắng, hoà hay thua mà còn phụ thuộc vào tính chất của trận đấu và sức mạnh của đối thủ. Một chiến thắng trước một đối thủ yếu sẽ nhận được số điểm ít hơn so với chiến thắng trước đội mạnh hơn. Điều này có nghĩa là một trận đấu sẽ không tính hai hay ba điểm cho một trận thắng và một điểm cho một trận hoà giống như chuẩn trong các giải đấu. Công thức sẽ phức tạp hơn do nó phải kết hợp cả những nhân tố đã kể trên.
+Một trong những thay đổi mà được công bố khi sửa lại hệ thống xếp hạng vào năm 1999 được gán cho cái tên "scaling up", trong đó điểm cho một trận đấu sẽ có hệ số nhân xấp xỉ là 10, với các nhân tố khác thêm vào. Trong hệ thống giai đoạn 1999-2006 đội bóng có thể nhận được từ 0 đến 30 điểm một trận, và đội dẫn đầu bảng xếp hạng phải có số điểm cao hơn 800.
+
+
+== Tổng quát ==
+Bảng xếp hạng được FIFA dự định để tạo một bảng xếp hạng công bằng cho các đội tuyển nam quốc gia thuộc các liên đoàn thành viên. Để xếp hạng tất cả các trận đấu, tỉ số và tính chất của trận đó được ghi lại và sử dụng trong các quy trình tính toán. Chỉ có các trận đấu của đội tuyển nam quốc gia được tính - tách riêng với hệ thống xếp hạng dành cho những nhóm đại diện khác, như đội tuyển nữ và tuyển trẻ quốc gia, ví dụ như bảng xếp hạng bóng đá nữ FIFA. FIFA không dùng cùng công thức để xác định bảng xếp hạng cho bóng đá nữ. Bảng xếp hạng bóng đá nữ dựa trên phiên bản đơn giản hoá của hệ số elo trong bóng đá.
+Vì mục đích tính toán tính chất của trận đấu, mỗi trận được chia vào một trong 6 loại. Các giải đấu không được chứng thực nằm trong các liên đoàn châu lục của FIFA được coi là giao hữu. Mỗi loại có sức nặng riêng để xác định đúng tính chất. Các loại là:
+Các trận thuộc vòng chung kết World Cup
+Các trận thuộc vòng loại World Cup
+Các trận thuộc FIFA Confederations Cup
+Các trận thuộc vòng chung kết châu lục
+Các trận thuộc vòng loại các giải châu lục
+Các trận giao hữu
+Một chương trình được dùng để tính bảng xếp hạng. Điểm được cho dựa theo tiêu chuẩn sau:
+Thắng, hoà hay thua
+Tính chất của trận đấu (nhân tố để nhân)
+Sức mạnh khu vực (nhân tố để nhân)
+Để cố thay đổi lợi thế khi thi đấu nhiều, chỉ có 7 trận thi đấu tốt nhất được tính, vì 7 là số trận trung bình một đội thi đấu trong một năm. Những trận đấu trước đó sẽ bị giảm tính chất trong công thức tính, để thưởng cho thành tích gần nhất của các đội cho nên công thức tính chỉ đem vào thành tích của đội trong vòng 8 năm.
+Vào cuối năm FIFA trao 2 giải: Đội bóng của năm và Đội bóng tiến bộ nhất của năm.
+
+
+=== Thắng, hoà hay thua ===
+Trong bất kì hệ thống xếp hạng bóng đá nào, một trận thắng luôn đem lại nhiều điểm hơn so với một trận hoà hay một trận thua. Tuy nhiên, cho đến tháng 7 năm 2006, FIFA tin rằng điểm thưởng đơn giản vào cơ sở thắng, hoà hay thua sẽ không đáp ứng nhu cầu đòi hỏi về một hệ thống xếp hạng tin cậy và chính xác.
+Công thức tính đem vào sức mạnh cân xứng giữa hai đội. Điều này đem lại số điểm khi thắng một đội mạnh sẽ cao hơn khi vượt qua một đội yếu. Nó còn có thể làm cho các đội yếu kiếm điểm dù thất bại nếu thi đấu tốt (ví dụ ghi được bàn thắng, cách biệt thấp), nhưng đây là một số điểm nhỏ và không đạt nhiều điểm bằng đội thắng. Trong trường hợp phân định trận đấu bằng loạt sút penalty, đội thắng nhận được điểm bằng một chiến thắng. Đội thua nhận được trận hoà như bình thường.
+
+
+=== Số bàn thắng ===
+Khi tính điểm, số bàn thắng được xem xét và sự xếp điểm giữa 2 đội cũng bị ảnh hưởng bởi sức mạnh tương xứng giữa 2 đội (ví dụ xếp hạng càng thấp so với đối thủ, càng nhận được nhiều điểm khi ghi bàn), cũng như số điểm cho các bàn thắng được ghi, sẽ được khấu trừ so với tổng bàn thắng được công nhận. Để khuyến khích việc tấn công trong bóng đá, điểm thưởng cho bàn thắng ghi được sẽ được làm nặng hơn so với khấu trừ như kết quả công nhận, dù rằng đa số đội quan tâm về các giải đấu hay các trận sắp tới hơn là vị trí trên bảng xếp hạng. Khi trận đấu được phân định thắng thua bằng penalty, chỉ có bàn thắng ghi trong thời gian thi đấu chính thức được tính.
+Để ngăn ngừa việc ghi bàn quá nhiều (overweighing) và một lượng điểm quá lớn nhận được trong những thắng lợi dễ dàng, nhiều sức nặng hơn được gắn liền với bàn thắng đầu cho mỗi đội, rồi dần dần giảm đối với những bàn tiếp theo. Điều này được thực hiện theo nguyên tắc bàn thắng ghi được là quan trọng nhưng nhân tố quan trọng nhất là thắng hay thua, như trong các trận tranh vô đich bình thường.
+
+
+=== Trận sân nhà và sân khách ===
+Để tính đến bất lợi thêm vào gặp phải khi thi đấu sân khách, một phần thưởng nhỏ 3 điểm mỗi trận được tặng cho đội khách. Đối với các giải ở nước trung lập, nhưng có chủ nhà, điểm thưởng cẽ không có.
+
+
+=== Cấp bậc trận đấu ===
+Tính quan trọng tương xứng của trận đấu còn được chú ý đến khi tính điểm. Phương pháp kết hợp điều này vào tổng điểm là nhân với số điểm của trận đấu có hệ số cho trước. Những nhân tố này là:
+
+
+=== Nhân tố sức mạnh khu vực ===
+Vì sự khác nhau đáng kể về sức mạnh các đội tuyển giữa các châu lục, nhân tố phụ này được thực hiện mỗi năm cho mỗi liên đoàn dựa vào thành tích của các đội trực thuộc liên đoàn trong các trận đấu và giải đấu liên lục địa. Không phải tất cả các trận đấu liên lục địa cũng được tính, chỉ những trận giữa 25% các đội mạnh nhất của mỗi liên đoàn, tối thiểu 5 đội một liên đoàn. Điều này ngăn chặn các lỗi mà được gây ra bởi việc tính cả các trận mà đội mạnh của liên đoàn này thắng đội yếu của một liên đoàn khác.
+Nhân tố này được áp dụng trong việc tính nhân cho các đội cùng châu lục. Nếu hai đội thuộc hai châu lục khác nhau thi đấu thì hệ số để tính là trung bình cộng hệ số của hai châu lục đó. Từ 2005, hệ số về sức mạnh khu vực theo thứ tự giảm dần từ 1.00 cho các đội thuộc UEFA đến 0.93 cho các đội thuộc OFC.
+
+
+== Tóm tắt ==
+Dựa vào các điều trên, tổng điểm dành cho một đội bóng sau trận đấu phụ thuộc vào công thức sau:
+
+  
+    
+      
+        (
+        w
+        +
+        g
+        +
+        a
+        −
+        c
+        )
+         
+        s
+         
+        r
+        =
+        m
+        
+      
+    
+    {\displaystyle (w+g+a-c)\ s\ r=m\,}
+  
+Trong đó:
+w = Điểm cho việc thắng, hoà hay thua
+g = Điểm cho bàn thắng ghi được
+c = Điểm cho những bàn được công nhận
+a = Điểm thưởng cho đội khách
+s = Nhân tố riêng cho cấp bậc trận đấu
+r = Nhân tố riêng cho sức mạnh khu vực
+m = Điểm nhận được
+Số điểm cho một trận thắng, hoà hay thua, cũng như số bàn thắng ghi được hoặc công nhận phụ thuộc vào sức mạnh của đối phương. Để không phạt những đội thiếu thành công quá khắt khe, số điểm âm sẽ làm tròn thành điểm 0.
+Những ví dụ sau được dùng để chứng tỏ hệ thống hệ số Elo bóng đá cho một cách so sánh công bằng. Đây là những phép tính ví dụ để biểu thị công thức đang được dùng. Để cho ví dụ được đơn giản, giả sử có 3 đội bóng với trình độ khác nhau tham dự một giải đấu giao hữu nhỏ ở một quốc gia trung lập.
+Ghi chú:không có điểm thưởng cho đội khách, cũng như nhân tố châu lục hay cấp bậc của trận được áp dụng.
+Trước giải 3 đội có tổng điểm như sau:
+Như ta thấy, đội A có vị trí xếp hạng cao nhất trong cả ba đội. Bảng sau cho biết sự phân chia điểm dựa theo ba kết quả có thể xảy ra của trận đấu giữa đội mạnh hơn A và đội yếu hơn B:
+
+
+=== Ví dụ 1 ===
+Đội A gặp đội B (A mạnh hơn B)
+Như trên bảng, trong trường hợp thắng 3:1, đội A nhận được 21 điểm, tuy nhiên, vì đội A là đội được xếp hạng cao hơn, đội thắng chỉ nhận được 17.4 điểm trong tổng điểm, và đội xếp hạng thấp hơn B vẫn kiếm được 1.7 điểm. Nếu đội B thắng 3:1, họ sẽ kiếm được 27.2 điểm, còn đội A họ sẽ nhận được điểm âm nhưng được làm tròn thành điểm 0. Nếu kết quả là hoà 2:2, vì xếp hạng thấp hơn, đội B sẽ nhận được nhiều điểm hơn đội A.
+
+
+=== Ví dụ 2 ===
+Đội B gặp đội C (hai đội cùng trình độ)
+Khi cách biệt về trình độ giữa hai đội ít thì sẽ cách biệt nhiều về điểm. Bảng sau cho ta thấy điểm được chia như thế nào khi có cùng kết quả như trên nhưng với hai đội có thứ hạng xấp xỉ bằng nhau, B và C, thi đấu:
+
+
+=== So sánh với hệ số Elo ===
+Lần sửa lại này của hệ thống bảng xếp hạng FIFA, giống như bản trước, đều gpj phải chỉ trích, và được so sánh với hệ số Elo bóng đá. Sau đây là sự so sánh để chỉ ra sự khác nhau trong cách hệ số Elo tác động với kết quả. Giả sử đội B hoà đội A và thua đội C bảng xếp hạng sẽ như sau: (làm tròn số thập phân)
+Theo các chỉ trích, bảng xếp hạng FIFA đã chậm đáp lại việc sụt giảm đáng kể của đội B, bất chấp thắng lợi của đội C, khoảng cách giữa đội B với đội C vẫn là 10 điểm. Trong hệ số Elo, đội C đã vượt qua đội B. Cũng trong bảng xếp hạng FIFA, đội A cũng tăng thêm 8 điểm dù có trận hoà trước một đội yếu hơn nhiều. Trong hệ số Elo đội A bị trừ 4 điểm. Tuy nhiên trong hệ thống hệ số Elo, đội B, đội đã cố gắng kiếm được trận hoà trước đội mạnh hơn, bị tụt một bậc vì là kết quả nhỏ và đã bị trừ tổng công gần 10 điểm.
+
+
+== Những công thức thêm nữa ==
+Để gia tăng độ chính xác và tính khách quan của bảng xếp hạng, sau bản sửa năm 1999, những công thức mới thêm vào được giới thiệu. Thứ nhất, số trận đấu một đội bóng thi đấu trong một khoảng thời gian nhất định được thêm vào. Thứ hai, ý nghĩa quan trọng gắn với trận đấu trước sẽ được hiểu khác hơn.
+
+
+=== Số trận thi đấu ===
+Để đảm bảo số giải đấu tăng lên trong một mùa không cho đội bóng quá nhiều điểm, bảng xếp hạng chỉ tính đến một kết quả có giới hạn. Số lượng này được xác định bằng cách chọn bao nhiêu giải đấu trong một năm mà một đội bóng tham gia trung bình. Điều này được đồng thuận ở ngưỡng 7-10 trận.
+Để ngăn ngừa những đội có nhiều giải đấu hơn sẽ nhận được nhiều lợi thế, ban đầu chỉ tính 7 kết quả tốt nhất của mỗi đội. Để tính các kết quả thêm các kết quả đó sẽ được tính trung bình.
+Ví dụ nếu một đội bóng thi đấu 12 trận:
+7 kết quả tốt nhất của 12 trận sẽ được nhận biết
+Tổng điểm của 7 trận đó (X)
+Tổng điểm của tất cả 12 trận
+Kết quả sẽ chia cho 12 và nhân cho 7 (Y)
+Tổng điểm của 7 trận tốt nhất được cộng với kết quả trung bình (X+Y)
+Tổng (X+Y) chia cho 2 để được kết quả cuối cùng
+
+
+=== Kết quả trước ===
+Để đảm bảo bảng xếp hạng phản ánh tốt nhất thành tích thi đấu gần đây của một đội bóng, thành tích gần đây là quan trọng nhất; tuy nhiên, sự chú ý cũng được dành cho những kết quả của những năm trước. Kết quả từ những trận trước được cho đầy đủ trọng lượng, từ 1-2 năm về trước được 7 phần 8 giá trị thực, từ 2-3 năm được 3 phần 4 giá trị và cứ thế đến năm thứ 8 những kết quả đó sẽ bị loại ra khỏi sự tính toán.
+
+
+== Xem thêm ==
+Bảng xếp hạng bóng đá nam FIFA - hệ thống được dùng từ sau tháng 7-2006
+Bảng xếp hạng bóng đá nữ FIFA - hệ thống xếp hạng dành cho các đội tuyển bóng đá quốc gia nữ, tương tự hệ thống Elo
+Hệ số Elo bóng đá thế giới - một hệ thống xếp hạng khác
+
+
+== Chú thích ==

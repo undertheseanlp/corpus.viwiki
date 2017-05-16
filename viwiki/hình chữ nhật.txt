@@ -1,0 +1,62 @@
+Hình chữ nhật trong hình học Euclid là một hình tứ giác có ba góc vuông. Từ định nghĩa này, ta thấy hình chữ nhật là một tứ giác lồi có bốn góc vuông. Đây là hình bình hành có hai đường chéo bằng nhau.
+
+
+== Tính chất ==
+Trong hình chữ nhật, hai đường chéo bằng nhau và cắt nhau tại trung điểm của mỗi đường.
+Có tất cả các tính chất của hình thang cân và hình bình hành.
+Các đường chéo cắt nhau tạo thành 4 tam giác cân.
+
+
+== Trong tích phân ==
+Trong toán học tích phân, tích phân Riemann có thể được xem là một giới hạn của tổng số các diện tích của nhiều hình chữ nhật với một chiều ngang cực nhỏ.
+
+
+== Diện tích hình chữ nhật ==
+
+Diện tích hình chữ nhật bằng tích của chiều dài và chiều rộng:
+
+  
+    
+      
+        a
+        ×
+        b
+      
+    
+    {\displaystyle a\times b}
+  
+Trong hai cạnh đối và song song với nhau, cạnh dài hơn (A) được gọi là chiều dài, cạnh ngắn hơn (B) gọi là chiều rộng.
+
+
+== Chu vi hình chữ nhật ==
+Chu vi hình chữ nhật bằng hai lần tổng chiều dài và chiều rộng của nó:
+
+  
+    
+      
+        
+          (
+          a
+          +
+          b
+          )
+        
+        ×
+        2
+      
+    
+    {\displaystyle \left(a+b\right)\times 2}
+  
+
+
+== Dấu hiệu nhận biết hình chữ nhật ==
+Tứ giác có ba góc vuông là hình chữ nhật.
+Hình thang cân có một góc vuông là hình chữ nhật:
+Hình bình hành có một góc vuông là hình chữ nhật.
+Hình bình hành có hai đường chéo bằng nhau là hình chữ nhật
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==

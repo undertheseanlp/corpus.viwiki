@@ -46,11 +46,12 @@ def crawl(recrawl=False, num_pages=20):
         crawl_page(page, recrawl=recrawl)
 
 
+
 def load_context():
     global crawled_pages
     crawled_pages = set(open("crawled-pages.txt", "r", encoding="utf-8").read().split("\n"))
     global page_queue
-    page_queue = open("page-queue.txt", "r", encoding="utf-8").read().split("\n")
+    page_queue = open("page-queue-test.txt", "r", encoding="utf-8").read().split("\n")
 
 
 def save_context():
@@ -62,6 +63,6 @@ def save_context():
 
 if __name__ == '__main__':
     wikipedia.set_lang("vi")
-    load_context()
-    crawl(recrawl=True, num_pages=1000)
-    save_context()
+    # load_context()
+    # crawl(recrawl=True, num_pages=1000)
+    # save_context()

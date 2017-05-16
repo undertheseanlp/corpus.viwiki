@@ -1,0 +1,141 @@
+Khoa học kỹ thuật là các ngành khoa học liên quan tới việc phát triển kỹ thuật và thiết kế các sản phẩm trong đó có ứng dụng các kiến thức khoa học tự nhiên. Các ngành khoa học kỹ thuật cổ điển bao gồm khoa học kỹ thuật xây dựng (bao gồm cả khoa học trắc địa), khoa học chế tạo máy và khoa học điện tử. Các ngành khoa học kỹ thuật mới bao gồm kỹ thuật an toàn, kỹ thuật công trình nhà, hóa kỹ thuật và vi kỹ thuật.
+Việc tin học có được coi là một ngành khoa học kỹ thuật hay không vẫn còn được tranh cãi.
+
+
+== Nền tảng của các ngành khoa học kỹ thuật ==
+Các cơ sở khoa học (kỹ thuật) nền tảng cho các khoa học kỹ thuật bao gồm đặc biệt là toán học, vật lý học, cũng có thể là hóa học (ví dụ trong lĩnh vự khoa học vật liệu và khoa học vật liệu xây dựng) hoặc là địa chất học (trong phạm vi ngành khoa học kỹ thuật xây dựng). Trong ngành này cơ học (với các phân ngành tĩnh học, động lực học và động học) đóng vai trò đặc biệt quan trọng. Cho ngành chế tạo máy là động lực học và cho ngành điện tử là kỹ thuật điện tử. Ngoài các cơ sở kể trên thì các ngành cơ sở hướng-phương-pháp như lý thuyết thiết kế hoặc các cơ sở bổ sung khác như kinh tế quản trị và tin học hoàn thiện nền tảng cho các khoa học kỹ thuật.
+
+
+== Phân loại các ngành khoa học kỹ thuật ==
+
+
+=== Khoa học kỹ thuật xây dựng ===
+Các ngành cơ bản: cơ học, cơ học thủy, lý thuyết độ bền cơ học (sức bền vật liệu), khoa học vật liệu xây dựng
+Các chuyên ngành (theo lĩnh vực làm việc):
+xây dựng cao tầng
+xây dựng hạ tầng
+xây dựng công trình thủy
+kinh tế thủy (cấp, thoát nước)
+chuyên ngành giao thông vận tải
+
+Các chuyên ngành (theo nguyên lý):
+Cơ sở khoa học kỹ thuật xây dựng
+Tin học xây dựng
+Trắc đạc kỹ thuật
+Vật lý học công trình
+Hóa học công trình
+Lý thuyết cấu kiện
+Độ bền cấu kiện
+
+Kinh tế xây dựng và vận hành, quản lý xây dựng
+Lý thuyết kinh doanh xây dựng
+Quản trị kinh doanh xây dựng
+Quản lý bất động sản và cơ sở hạ tầng
+Luật xây dựng dân dụng (tư nhân)
+Quản lý xây dựng
+Kỹ thuật phương pháp xây dựng và sử dụng máy xây dựng
+
+Xây dựng kỹ thuật và xây dựng cao tầng
+Vật liệu xây dựng
+
+Kết cấu xây dựng cao tầng
+Xây dựng khối
+Xây dựng thép
+Xây dựng liên kết
+Xây dựng gạch
+Xây dựng gỗ
+Xây dựng thủy tinh
+Kỹ thuật liên kết
+Tác động qua lại nền móng và cấu kiện
+
+Địa kỹ thuật
+Cơ học đất và đá
+Động học nền móng
+Xây dựng nền móng, đào móng xây dựng, và kết cấu móng
+Kỹ thuật địa môi trường
+Xây dựng hầm mày với máy đào hầm
+
+Xây dựng công trình thủy, kinh tế thủy, kỹ thuật rác thải
+Cơ học thuỷ (thủy lực) kỹ thuật
+Thủy văn và kinh tế thủy
+Xây dựng thủy
+Cấp nước
+Kỹ thuật thoát nước
+Kỹ thuật rác
+
+Quy hoạch không gian và xây dựng đô thị, luật xây dựng nhà nước
+Quy hoạch không gian, quy hoạch quốc gia và khu vực
+Xây dựng đô thị
+Luật xây dựng đô thị
+Luật quy hoạch xây dựng
+Luật thiết kế cho công trình giao thông
+
+Hệ thống giao thông và thiết bị giao thông
+Hệ thống giao thông công cộng
+Giao thông cá nhân - Thiết kế đường bộ và xây dựng đường bộ
+Xây dựng giao thông thủy - Đường thủy và bến cảng
+Thiết kế, xây dựng và vận hành sân bay
+Mạng đường dẫn (điện cao thế, thông tin tín hiệu, ga, dầu, v.v.)
+
+
+=== Khoa học kỹ thuật cơ khí ===
+Các ngành cơ bản: toán cao cấp, vật lý đại cương, cơ học lý thuyết; sức bền vật liệu, vật liệu học, động lực học, cơ học chất lưu, lý thuyết thiết kế, kỹ thuật điều chỉnh (bao gồm cả kỹ thuật điều khiển), kỹ thuật đo lường, tin học ứng dụng, kỹ thuật điện, điện tử công nghiệp, hình họa và vẽ kỹ thuật
+Các ngành cơ sở chuyên ngành: Nguyên lý máy, Chi tiết máy, máy thủy khí, máy nhiệt, công nghệ kim loại, phát động dòng;
+Các chuyên ngành:
+Kỹ thuật Chế tạo máy công cụ và dụng cụ công nghiệp;
+Kỹ thuật máy động lực(ô tô, xe máy, máy xây dựng, máy nâng chuyển, máy mỏ v.v.);
+Kỹ thuật hàng không và vũ trụ (tên lửa, máy bay, tàu vũ trụ,...);
+Công nghệ chế tạo vũ khí và trang bị quân sự;
+Kỹ thuật tàu thủy và tàu biển;
+Công nghệ gia công kim loại bằng áp lực: cán, kéo, rèn, dập;
+Công nghệ hàn và chẩn đoán kỹ thuật;
+Chế tạo thiết bị, kỹ thuật môi trường;
+Chế tạo máy năng lượng, kỹ thuật khí hậu;
+Kỹ thuật đóng gói;
+Kỹ thuật vận chuyền;
+
+
+=== Kỹ thuật điện-điện tử ===
+Các ngành cơ bản: toán học, vật lý học, hóa học, phần tử chế tạo, lý thuyết mạch, lý thuyết trường và sóng, lý thuyết thiết kế, tin học
+Các chuyên ngành:
+Điện tử
+Kỹ thuật tương tự (analog)
+Kỹ thuật số (digital)
+Phần tử chế tạo điện tử
+Điện tử điện thế
+
+Kỹ thuật năng lượng
+Kỹ thuật điện cao thế
+Điện - Điện thế
+Sản sinh năng lượng
+Kỹ thuật phát động
+
+Kỹ thuật truyền tin
+Tin kỹ thuật
+Kỹ thuật máy tính
+Lý thuyết tín hiệu và xử lý tín hiệu
+Lý thuyết thông tin
+Mã hóa
+
+Kỹ thuật sóng cao tần
+Kỹ thuật truyền phát
+Kỹ thuật radio và tivi
+Telematik
+
+Kỹ thuật tự động hóa
+Kỹ thuật điều khiển và kỹ thuật điều tiết
+Điều khiển học
+Sensorik
+Kỹ thuật môi trường và kỹ thuật đo lường
+Kỹ thuật dẫn mạng
+Rôbô học
+
+
+=== Kỹ thuật Hóa học ===
+
+
+== Tham khảo ==
+K. Zilch, C. J. Diderichs, R. Katzenbach (Hrsg.): Handbuch für Bauingenieure. Springer, Berlin u.A. 2002, ISBN 3-540-65760-6
+
+
+== Liên kết ngoài ==

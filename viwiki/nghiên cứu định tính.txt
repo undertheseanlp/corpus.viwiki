@@ -1,0 +1,119 @@
+Nghiên cứu định tính là một phương pháp điều tra được sử dụng trong nhiều lĩnh vực khoa học khác nhau, không chỉ trong các ngành khoa học truyền thống mà còn trong nghiên cứu thị trường và các bối cảnh khác.. Nghiên cứu định tính nhằm mục đích thu thập một sự hiểu biết sâu sắc về hành vi con người và lý do ảnh hưởng đến hành vi này. Các phương pháp định tính điều tra lý do tại sao và làm thế nào trong việc ra quyết định, không chỉ trả lời các câu hỏi cái gì, ở đâu, khi nào. Do đó, các mẫu nhỏ tập trung thường được sử dụng nhiều hơn hàng loạt mẫu lớn.
+Trong quan điểm thông thường, phương pháp định tính chỉ cung cấp thông tin trong những trường hợp đặc biệt được nghiên cứu, và bất cứ các kết luận tổng quát nào chỉ là các mệnh đề (xác nhận thông tin). Phương pháp định lượng sau đó có thể được sử dụng để tìm kiếm sự hỗ trợ thực nghiệm cho giả thuyết nghiên cứu này.
+
+
+== Lịch sử ==
+Trong những năm 1900, một số nhà nghiên cứu bác bỏ chủ nghĩa thực chứng, những quan niệm lý thuyết rằng có một thế giới khách quan mà chúng ta có thể thu thập dữ liệu từ việc “xác minh” dữ liệu này thông qua thực nghiệm. Các nhà nghiên cứu chấp nhận một mô hình nghiên cứu định tính, cố gắng thực hiện nghiên cứu định tính là “nghiêm ngặt” như nghiên cứu định lượng và tạo ra vô số các nghiên cứu định tính. Trong những năm 1970 và 1980, tăng dần việc có mặt khắp nơi của máy tính trong phân tích định tính, một số ghi chép với việc tập trung định tính xuất hiện, và hậu thực chứng luận được công nhận trong các học viện. Vào cuối những năm 1980, câu hỏi về đồng nhất thức tăng lên, bao gồm các vấn đề chủng tộc, giai cấp và giới tính, dẫn đến nghiên cứu và ghi chép trở nên có nhiều phản ứng. Trong suốt những năm 1990, khái niệm về tính thiếu chủ động: quan sát/ nghiên cứu đã bị từ chối, và nghiên cứu định tính trở nên tăng yếu tố tham gia và hoạt động theo định hướng. Ngoài ra, trong thời gian này, các nhà nghiên cứu đã bắt đầu sử dụng cách tiếp cận các phương pháp hỗn hợp, cho thấy mỗi sự thay đổi trong suy nghĩ của phương pháp định tính và định lượng như bản chất xung khắc. Tuy nhiên lịch sử này không phải là chính tị, vì điều này mở ra một nền “chính tị” và những gì có thể được tính là nghiên cứu “khoa học” trong học thuật, một cuộc tranh luận đang diễn ra hiện nay ở các học viện.
+
+
+== Thu thập dữ liệu ==
+Các nhà nghiên cứu định tính phải đối mặt với nhiều sự lựa chọn liên quan đến thu thập dữ liệu khác nhau, từ căn cứ thực hành lý thuyết, truyền đạt, kể chuyện, dân tộc học cổ điển, hoặc những điều mờ ảo. Hiện nay, phương pháp định tính cũng là một cách không chặt chẽ trong phương pháp tiếp cận khác, chẳng hạn như nghiên cứu hành động hoặc lý thuyết mạng lưới diễn viên. Các phương pháp phổ biến nhất là các cuộc phỏng vấn nghiên cứu định tính, nhưng hình thức của các dữ liệu thu thập được cũng có thể bao gồm các cuộc thảo luận nhóm, quam sát ghi chép hiện trường phản ánh, văn bản khác nhau, hình ảnh và các tài liệu khác.
+Nghiên cứu định tính thường phân loại dữ liệu vào mô hình như là cơ sở ban đầu cho việc tổ chức và báo cáo kết quả. Nghiên cứu định tính thường dựa vào các phương pháp sau đây để thu thập thông tin: tham gia vào các quan sát, không tham gia quan sát, ghi chép hiện trường, phản ứng của các ghi chép, phỏng vấn có câu trúc, phỏng vấn không cấu trúc và phân tích các tài liệu và các tư liệu.
+Các thức tham gia và quan sát có thể rất khác nhau từ thiết lập đến thiết lập. Quan sát tham dự là một chiến lược tiếp thu phản xạ, không phải là một phương pháp duy nhất để quan sát. Trong quan sát tham dự, các nhà nghiên cứu thường trở thành thành viên của một nền văn hóa, nhóm, hoặc sự bố trí và có vai trò để phù hợp với sự bố trí đó. Khi thực hiện theo cách này, mục đích là cho các nhà nghiên cứu đạt được một cái nhìn gần hơn vào nền văn hóa của thực hành, động lực và cảm xúc. Có ý kiến cho rằng khả năng của nhà nghiên cứu để hiểu được những kinh nghiệm của các nên văn hóa có thể bị gượng gạo nếu họ quan sát mà không tham gia.
+Các dữ liệu thu được sắp xếp hợp lý cho một chủ đề hoặc mô hình nhất định. Điều này là tiếp tục làm việc giả thuyết nghiên cứu thay thế được tạo ra mà cuối cùng cung cấp cho các cơ sở của báo cáo nghiên cứu.
+Một số phương pháp định tính đặc biệt là việc sử dụng các nhóm tập trung và các cuộc phỏng vấn. Các kỹ thuật liên quan đến một nhóm tập trung điều hành tạo điều kiện cho một cuộc thảo luận nhóm nhỏ giữa các cá nhân được lựa chọn vào một chủ đề cụ thể. Đây là một phương pháp đặc biệt phổ biến trong nghiên cứu thị trường và thử nghiệm các sáng kiến mới với người sử dụng/ người dùng. Trong lĩnh vực nghiên cứu các hộ gia đình, một chủ đề gây tranh cãi là liệu các cuộc phỏng vấn nên được tiến hành riêng lẻ hoặc tập thể (ví dụ như nhiều cuộc phỏng vấn).
+Một hình thức truyền thống và chuyên nghiên cứu định tính được gọi là thử nghiệm về nhận thức hoặc kiểm tra thử nghiệm được sử dụng trong việc phát triển các mặt hàng khảo sát định lượng. Các mặt hàng khảo sát được thực hiện thí điểm trên đối tượng nghiên cứu đẻ kiểm tra độ tin cậy và tính hợp lệ của các mặt hàng. Có phương pháp nghiên cứu khác nhau, hoặc thiết kế nghiên cứu, các nhà nghiên cứu định tính sử dụng. Trong các ngành khoa học xã hội, các phương pháp nghiên cứu định tính thường xuyên được sử dụng bao gồm những điểm sau đây:
+Nghiên cứu định lượng cơ bản/tổng quát/ thực tế trong đó có sử dụng phương pháp chiết đa dạng gần như mức độ chấp nhận phù hợp nhất các câu hỏi nghiên cứu dưới sự kiểm soát.
+Nghiên cứu dân tộc học: phương pháp này còn gọi là “ ngành nghiên cứu cấu trúc tương tác xã hội” hay “phương pháp của nhân dân”. Một ví dụ về nghiên cứu về nghiên cứu dân tộc học ứng dụng là nghiên cứu của một nền văn hóa đặc biệt và sự hiểu biết của họ về vai trò của một bệnh đặc biệt trong khuôn khổ văn hóa của họ.
+Lý thuyết căn cứ là một loại quy nạp của nghiên cứu, nguyên tắc cơ bản hoặc “có cơ sở” trong các quan sát hoặc dữ liệu, bao gồm cả dữ liệu định lượng, xem xét hồ sơ, phỏng vấn, quan sát và khảo sát.
+Hiện tượng mô tả “thực tế chủ quan” của một sự kiện, như cảm nhận của quần thể nghiên cứu, nó là nghiên cứu về một hiện tượng.
+Nghiên cứu triết học được tiến hành bởi các chuyên gia lĩnh vực trong phạm vi ranh giới của một lĩnh vực cụ thể của nghiên cứu, nghề nghiệp, các cá nhân đủ điều kiện tốt nhất trong bất kỳ lĩnh vực nghiên cứu sử dụng một phần tích trí tuệ, để làm rõ ràng các định nghĩa, xác định đạo đức, hoặc đưa ra đánh giá giá trị liên quan đến một vấn đề trong lĩnh vực của họ nghiên cứu cuộc sống của họ.
+Nghiên cứu xã hội quan trọng, được sử dụng bởi một nhà nghiên cứu để hiểu ác mọi người giao tiếp và phát triển ý nghĩa tượng trưng.
+Yêu cầu của đạo đức, trí tuệ phân tích các vấn đề đạo đức, nó bao gồm các nghiên cứu về đạo đức như liên quan đến nghĩa vụ, quyền, trách nhiệm, đúng sai, lựa chọn...
+Nghiên cứu nền tảng, khảo sát nền móng cho một khoa học, phân tích các tín ngưỡng và phát triển những cách để chỉ định cách một cơ sở tri thức cần thay đổi trong ánh sáng của những thông tin mới.
+Nghiên cứu lịch sử cho phép một thảo luận về các sự kiện trong quá khứ và hiện tại trong bối cảnh các điều kiện hiện tại, và cho phép một để phản ánh và cung cấp câu trả lời cho những vấn đề hiện tại và các vấn đề. Nghiên cứu lịch sử giúp chúng ta trả lời các câu hỏi như: chúng ta đến từ đâu, chúng ta ở đâu, hiện chúng ta đang là ai và chúng ta đang đi đến đâu?
+Hình ảnh dân tộc học. Nó sử dụng phương pháp trực quan về thu thập dữ liệu, bao gồm cả hình ảnh, âm thanh, suy luận hình ảnh, tổng hợp, suy ra và sắp xếp. Những kỹ thuật này đã được sử dụng rộng rãi như là một kỹ thuật định tính có sự tham gia để tăng tính kỳ lạ mật thiết.
+Nghiên cứu dân tộc học, nghiên cứu bản thân là một phương pháp nghiên cứu định tính trong đó các nhà nghiên cứu sử dụng các kinh nghiệm cá nhân của mình để giải quyết vấn đề.
+
+
+== Phân tích dữ liệu ==
+
+
+=== Kỹ thuật giải mã dữ liệu ===
+Các tính chất phổ biến nhất của dữ liệu định tính là quan sát ấn tượng. Đó là các chuyên gia hoặc người đứng ngoài quan sát kiểm tra dữ liệu, giải thích nó thông qua hình thành một ấn tượng và báo cáo ấn tượng của họ trong một hình thức cấu trúc và thỉnh thoảng là mẫu định lượng.
+
+
+=== Mã hóa ===
+Mã hóa là một kỹ thuật diễn giải rằng cả hai cấu tạo dữ liệu và cung cấp một giá trị trung bình để đưa ra các giải thích của nó vào phương pháp định lượng nhất định. Hầu hết các mã hóa đòi hỏi các nhà phân tích để đọc dữ liệu và phân chia ranh các phần trong đó, có thể được thực hiện tại một thời điểm khác nhau trong suốt quá trình. Mỗi phần được gắn nhãn với một đoạn “mã” – thường là một từ hoặc một cụm từ ngắn cho thấy làm thế nào liên quan phân đoạn dữ liệu thông báo cho các mục tiêu nghiên cứu. Khi mã hóa hoàn tất, các nhà phân tích lập báo cáo thông qua một kết hợp của: tổng hợp các đoạn mã phổ biến, thảo luận về sự tương đồng và khác biệt trong các đoạn mã có liên quan trong nguồn đầu tiên khác biệt/ bối cảnh, hoặc so sánh mối quan hệ giữa một hoặc nhiều mã.
+Một số dữ liệu định tính có cấu trúc cao (ví dụ, phản ứng gần kết thúc của các cuộc điều tra hoặc các câu hỏi phỏng vấn được định nghĩa chặt chẽ) thường được mã hóa mà không phân đoạn bổ sung của nội dung. Trong những trường hợp này, mã hóa thường được áp dụng như một sắp xếp cao nhất của dữ liệu. Phân tích định lượng của các mã thường là bước phân tích các bài toán thực tế cho loại dữ liệu định tính.
+Phân tích dữ liệu định tính hiện đại đôi khi được hỗ trợ bởi chương trình máy tính còn được gọi là phần mềm phân tích dữ liệu máy tính hỗ trợ. Các chương trình này không thay thế bản chất của giải mã mà là nhằm mục đích nâng cao hiệu quả của phân tích của lưu trữ dữ liệu/ sự phục hồi và trong việc áp dụng các mã cho dữ liệu. Nhiều chương trình cung cấp hiệu quả trong việc soạn thảo và chỉnh sửa đoạn mã, trong đó cho phép chia sẻ công việc, thẩm định, kiểm tra và đệ quy dữ liệu.
+Phàn nàn thường xuyên của phương pháp mã hóa là nó tìm cách biến đổi dữ liệu định tính vào dữ liệu thực nghiệm có giá trị, trong đó có chứa: phạm vi giá trị thực tế, tỷ lệ cơ cấu, tỷ lệ tương phản và tính khách quan khoa học, qua đó dỡ bỏ các dữ liệu đa dạng của nó, phong phú và đặc điểm cá nhân. Các nhà phân tích phản ứng với những lời chỉ trích này bằng cách chỉ ra những chỗ sai hoàn toàn định nghĩa của những đoạn mã và liên kết các mã một cách hoàn toàn đầy đủ cho các dữ liệu cơ bản, trong đó mang lại một số sự phong phú mà có thể từ một danh sách nhỏ không tồn tại của mã.
+
+
+=== Quan điểm trừu tượng đệ quy ===
+Một số bộ dữ liệu được phân tích định tính mà không cần mã hóa. Một phương pháp phổ biến ở đây là trừu tượng đệ quy, nơi tập hợp các dữ liệu được tóm tắt. Những bản tóm tắt sau đó được tiếp tục tổng kết. Kết quả cuối cùng là một bản tóm tắt gọn nhẹ hơn sẽ rất khó khăn để phân biệt một cách chính xác mà không cần các bước thực hành. Một sự phê bình trừu tượng đệ quy là kết luận cuối cùng được lấy ra từ các dữ liệu cơ bản. Trong khi sự thật là tóm tắt ban đầu ít ỏi chắc chắn sẽ mang lại một báo cáo cuối cùng không chính xác, các nhà phân tích định tính có thể phản biện những lời chỉ trích này. Họ làm như vậy, giống như những con người sử dụng phương pháp mã hóa bằng cách ghi lại các lý do đằng sau mỗi bước tóm tắt, trích dẫn ví dụ từ các dữ liệu báo cáo được phân tích và báo cáo mà không được đưa vào nhóm trung gian.
+
+
+=== Kỹ thuật cơ học ===
+Mộ số kỹ thuật dựa trên sử dụng máy tính để quét và làm giảm bộ lớn dữ liệu định tính. Ở cấp độ cơ bản nhất, kỹ thuật cơ học dựa trên tính từ, cụm từ hay sự trùng hợp của biểu hiện trong các dữ liệu. Thường được gọi là phân tích nội dung, snr lượng từ các kỹ thuật này là tuân theo nhiều phân tích thống kê tiên tiến.
+Kỹ thuật cơ học đặc biệt thích hợp cho một số tình huống. Một trong những viễn cảnh là cho các bộ dữ liệu chỉ đơn giản là quá lớn đói với một con người để phân tích hiệu quả, hoặc nơi phân tích của họ sẽ được đòi hỏi quá cao so với giá trị của các thông tin mà họ có. Viễn cảnh khai thác là khi các giá trị chính của một tập dữ liệu là mức độ mà nó có chứa “cờ đỏ” (ví dụ, tìm kiếm các báo cáo về tác dụng phụ nhất định trong một tạp chí dataset từ các bệnh nhân trong một thử nghiệm lâm sàn) hay “cờ xanh” (ví dụ: tìm kiếm đề cập đến thương hiệu của thương hiệu trong phần đánh giá tích cực của sản phẩm trên thị trường). Một lời phê bình của các kỹ thuật cơ khí là sự vắng mặt của một thông dịch của con người. Và trong khi bậc thầy của những phương pháp này có thể viết phần mềm phức tạp để bắt trước một số quyết định của con người, phần lớn các “phân tích” vẫn không phải con người. Các nhà phân tích phản ứng bằng cách chứng minh giá trị của phương pháp của họ liên quan đến một trong hai giá trị của các mối liên hệ giao thức đến một tỏng hai a) tuyển dụng và đào tạo một đội ngũ nhân lực để phân tích các dữ liệu hoặc b) bằng cách cho phép các dữ liệu ảnh hưởng, để lại bất kỳ hành động nào chưa được khám phá.
+
+
+== Sự khác biệt về quan niệm ==
+Nghiên cứu định tính hiện đại đã được tiến hành từ một số lượng lớn các mô hình khác nhau mà ảnh hưởng đến mối quan tâm về khái niệm và lý thuyết chủ đề có tính hợp pháp, kiểm soát, phân tích dữ liệu, bản thể học và khoa học luận. Nghiên cứu được tiến hành trong 10 năm qua đã được đặc trưng bởi một biến rõ rệt về phía các diễn giải, chủ nghĩa hậu hiện đại, lý thuyết quan trọng.. Guba và Lincoln (2005) chỉ ra 5 quan niệm chính trong nghiên cứu định tính hiện đại: chủ nghĩa lạc quan, chủ nghĩa hậu lạc quan, lý thuyết chỉ trích, chủ nghĩa xây dựng, và các mô hình tham gia/cộng tác. Mỗi mô hình được liệt kê bởi Guba và Lincoln được đặc trưng bởi sự khác biệt hiển nhiên trong thuyết giá trị, dự định hành động của nghiên cứu, kiểm soát quá trình nghiên cứu/tác động, mối quan hệ với nền tảng của chân lý và tri thức, tính hợp lệ, văn bản đại diện và tiếng nói của các nhà nghiên cứu/ học viên và có thể so sánh được với mô hình khác. Đặc biệt, tính thông ước liên quan đến mức độ mà các mối quan tâm kiểu mẫu “có thể được trang bị thêm cho nhau theo những cách mà thực tiễn xảy ra đồng thời có khả năng chập nhận được”. Nhà thực chứng và mô hình thực chứng chia sẻ giả thuyết có thể so sánh được nhưng phần lớn là không so sánh được, theo xu hướng tạo dựng và mô hình có sự tham gia thông ước về các vấn đề nhất định (ví dụ dự định hành động và mô tả văn bản).
+Nghiên cứu định tính trong 10 năm gần đây được đặc trưng bởi sự quan tâm với việc phân loại hàng ngày và tường thuật bình thường. Đây là “hành vi tường thuật” đã tạo ra một lượng sách vở rất lớn khi các nhà nghiên cứu đưa ra khái niệm nhạy cảm và quan điểm có thuộc tính đặc biệt dựa trên việc tường thuật từ thực tế, trong đó tập trung vào những tình huống và hành động giao tiếp của việc tường thuật. Catherine Riessman (1993) và Gubrium and Holstein (2009) cung cấp các chiến lược phân tích, và Holstein và Gubrium (2012) trình bày nhiều cách tiếp cận toàn diện trong tất cả các báo cáo gần đây. Có liên quan với thực hành tường thuật ngày càng có tính chất của các nghiên cứu tường thuật (xem Gubrium và Holstein 2000)
+
+
+== Độ tin cậy ==
+Trong các nghiên cứu định lượng, điều này được gọi là “tính hợp lý”. Một vấn đề trọng tâm trong các nghiên cứu định tính này là sự tin cậy (hay còn gọi là sự tín nhiệm và/ hoặc độ tin cậy). Có nhiều cách khác nhau của việc thiết lập sự tin cậy, bao gồm: kiểm tra viên, chứng thực phỏng vấn, phỏng vấn đồng đẳng, kéo dài cuộc hẹn, phân tích trường hợp tiêu cực, có thể kiểm tra được, có thể chấp nhận được, quy luật bù trừ và cân bằng. Hầu hết các phương pháp được đặt ra, hoặc được mô tả bao quát bởi Lincoln và Guba (1985).
+
+
+== Các tạp chí Nghiên cứu định tính ==
+Đến cuối những năm 1970 nhiều tạp chí hàng đầu bắt đầu xuất bản các bài báo nghiên cứu định tính và một số tạp chí mới xuất hiện và công bố chỉ nghiên cứu định tính và các bài báo về phương pháp nghiên cứu định tính.
+Trong những năm 1980 và 1990, các tạp chí nghiên cứu định tính mới đã trở thành các ngành tập trung nhiều hơn trong việc đi xa hơn nguồn gốc truyền thống của nghiên cứu định tính của nhân chủng học, xã hội học và triết học.
+
+
+== Nghiên cứu định tính về tâm lý học ==
+Wilhelm Wundt, người sáng lập tâm lý học khoa học, là một trong những nhà tâm lý học đầu tiên công khai tiến hành nghiên cứu định tính như là một phần của tâm lý học đầu tiên công khai tiến hành nghiên cứu định tính như là một phần cấp số của ông về các thí nghiệm. Ví dụ đầu tiên về nghiên cứu định tính của ông đã được xuất bản vào năm 1900, được thông qua năm 1920, trong nghiên cứu 10 số lượng lớn các nghiên cứu tâm lý xã hội. Wundt ủng hộ mối liên quan mạnh mẽ giữa tấm lý học và triết học. Ông tin rằng có một khoảng cách giữa tâm lý và nghiên cứu định lượng mà chỉ có thể được bổ sung bằng cách tiến hành nghiên cứu định tính. Nghiên cứu định tính nhắm vào các khái cạnh của đời sống con người có thể không được bao phủ đầy đủ bởi các nghiên cứu định lượng, khía cạnh như văn hóa, biểu thức, niềm tin, đạo đức và trí tưởng tượng.
+Có những ghi chép của nghiên cứu định tính được sử dụng trong tâm lý trước khi chiến tranh thế giới thứ II, nhưng tại thời điểm các phương pháp được xem là hình thức không hợp lệ của nghiên cứu. Do thiếu sự chấp nhận, nhiều người trong số các nhà tâm lý học thực hành các nghiên cứu định tính từ chối việc sử dụng các phương pháp như vậy hay xin lỗi vì làm như vậy. Mãi cho đến cuối thê kỷ 20 khi nghiên cứu đã trở nên được chấp nhận rộng rãi trong thế giới của tâm lý học. Sự hào hứng về những hình thức mang tính đột phá của nghiên cứu định tính đã được tiến hành. Điều này khiến nhiều nhà tâm lý không có sự công nhận xứng đáng cho công việc quan trọng trong các lĩnh vực nghiên cứu.
+
+
+== Tham khảo ==
+
+
+== Sách tham khảo ==
+Adler, P. A. & Adler, P. (1987).: context and meaning in social inquiry / edited by Richard Jessor, Anne Colby, and Richard A. Shweder] OCLC 46597302
+Boas, Franz (1943). “Recent anthropology”. Science 98: 311–314, 334–337. 
+Creswell, J. W. (2003). Research design: Qualitative, quantitative, and mixed method approaches. Thousand Oaks, CA: Sage Publications.
+Denzin, N. K., & Lincoln, Y. S. (2000). Handbook of qualitative research (2nd ed.). Thousand Oaks, CA: Sage Publications.
+Denzin, N. K., & Lincoln, Y. S. (2011). The SAGE Handbook of qualitative research (4th ed.). Los Angeles: Sage Publications.
+DeWalt, K. M. & DeWalt, B. R. (2002). Participant observation. Walnut Creek, CA: AltaMira Press.
+Fischer, C.T. (Ed.) (2005). Qualitative research methods for psychologists: Introduction through empirical studies. Academic Press. ISBN 0-12-088470-4.
+Franklin, M. I. (2012), "Understanding Research: Coping with the Quantitative-Qualitative Divide". London/New York. Routledge
+Giddens, A. (1990). The consequences of modernity. Stanford, CA: Stanford University Press.
+Gubrium, J. F. and J. A. Holstein. (2000). "The New Language of Qualitative Method." New York: Oxford University Press.
+Gubrium, J. F. and J. A. Holstein (2009). "Analyzing Narrative Reality." Thousand Oaks, CA: Sage.
+Gubrium, J. F. and J. A. Holstein, eds. (2000). "Institutional Selves: Troubled Identities in a Postmodern World." New York: Oxford University Press.
+Holliday, A. R. (2007). Doing and Writing Qualitative Research, 2nd Edition. London: Sage Publications
+Holstein, J. A. and J. F. Gubrium, eds. (2012). "Varieties of Narrative Analysis." Thousand Oaks, CA: Sage.
+Kaminski, Marek M. (2004). Games Prisoners Play. Princeton University Press. ISBN 0-691-11721-7.
+Mahoney, J; Goertz, G (2006). “A Tale of Two Cultures: Contrasting Quantitative and Qualitative Research”. Political Analysis 14: 227–249. doi:10.1093/pan/mpj017. 
+Malinowski, B. (1922/1961). Argonauts of the Western Pacific. New York: E. P. Dutton.
+Miles, M. B. & Huberman, A. M. (1994). Qualitative Data Analysis. Thousand Oaks, CA: Sage.
+Pamela Maykut, Richard Morehouse. 1994 Beginning Qualitative Research. Falmer Press.
+Patton, M. Q. (2002). Qualitative research & evaluation methods (3rd ed.). Thousand Oaks, CA: Sage Publications.
+Pawluch D. & Shaffir W. & Miall C. (2005). Doing Ethnography: Studying Everyday Life. Toronto, ON Canada: Canadian Scholars' Press.
+Ragin, C. C. (1994). Constructing Social Research: The Unity and Diversity of Method, Pine Forge Press, ISBN 0-8039-9021-9
+Riessman, Catherine K. (1993). "Narrative Analysis." Thousand Oaks, CA: Sage.
+Savin-Baden, M. and Major, C. (2013). "Qualitative research: The essential guide to theory and practice." London, Rutledge.
+Silverman, David, (ed), (2011), "Qualitative Research: Issues of Theory, Method and Practice". Third Edition. London, Thousand Oaks, New Delhi, Sage Publications
+Stebbins, Robert A. (2001) Exploratory Research in the Social Sciences. Thousand Oaks, CA: Sage.
+Taylor, Steven J., Bogdan, Robert, Introduction to Qualitative Research Methods, Wiley, 1998, ISBN 0-471-16868-8
+Van Maanen, J. (1988) Tales of the field: on writing ethnography, Chicago: University of Chicago Press.
+Wolcott, H. F. (1995). The art of fieldwork. Walnut Creek, CA: AltaMira Press.
+Wolcott, H. F. (1999). Ethnography: A way of seeing. Walnut Creek, CA: AltaMira Press.
+Ziman, John (2000). Real Science: what it is, and what it means. Cambridge, Uk: Cambridge University Press.
+
+
+== Liên kết ngoài ==
+Bản mẫu:Library resources box
+C.Wright Mills, On intellectual Craftsmanship, The Sociological Imagination,1959
+Participant Observation, Qualitative research methods: a Data collector's field guide
+Definition of Qualitative Research
+Analyzing and Reporting Qualitative Market Research
+Overview of available QDA Software
+
+
+=== Videos ===
+Qualitative analysis, with a focus on interview data
+"Living Theory Approach to Qualitative Action Research"

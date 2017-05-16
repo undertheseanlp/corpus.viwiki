@@ -1,0 +1,152 @@
+Sinh học hay là Sinh vật học là một môn khoa học về sự sống (từ tiếng Anh: biology bắt nguồn từ Hy Lạp với bios là sự sống và logos là môn học). Nó là một nhánh của khoa học tự nhiên, tập trung nghiên cứu các cá thể sống, mối quan hệ giữa chúng với nhau và với môi trường. Nó miêu tả những đặc điểm và tập tính của sinh vật (ví dụ: cấu trúc, chức năng, sự phát triển, môi trường sống), cách thức các cá thể và loài tồn tại (ví dụ: nguồn gốc, sự tiến hóa và phân bổ của chúng).
+Sinh học bao hàm nhiều ngành học khác nhau được xây dựng dựa trên những nguyên lý riêng. Có 4 nguyên lý tạo thành nền tảng cho sinh học hiện đại: lý thuyết tế bào, tiến hóa, di truyền và cân bằng nội môi (homeostasis ). Các môn học này có mối quan hệ qua lại với nhau, giúp ta hiểu về sự sống với các mức độ, phạm vi khác nhau.
+Sự ra đời của sinh học bắt đầu từ thế kỉ 19, khi các nhà khoa học tìm thấy được các đặc điểm chung cơ bản giữa các loài. Ngày nay, sinh học trở thành một môn học chuẩn và bắt buộc tại các trường học và Đại học trên khắp thế giới. Rất nhiều bài báo được công bố hằng năm ở trên khắp các tạp chí chuyên ngành về y và sinh.
+Việc phân loại các ngành con của sinh học rất đa dạng. Ban đầu, chúng được phân loại theo chủng loại các cá thể làm đối tượng nghiên cứu. Ví dụ: botany, nghiên cứu về cây; zoology, nghiên cứu về động vật; và microbiology, nghiên cứu về các vi sinh vật. Tiếp đến, chúng lại được chia nhỏ dựa trên quy mô của các cá thể và phương pháp nghiên cứu chúng: biochemistry nghiên cứu về hóa cơ bản của sự sống; molecular biology nghiên cứu các tương tác phức tạp giữa các hệ thống của các phân tử sinh học; cellular biology tìm hiểu các cấu trúc cơ bản tạo thành mọi sự sống. Như vậy, sự sống ở mức độ nguyên tử và phân tử được nghiên cứu thông qua sinh học phân tử, hóa sinh và di truyền phân tử. Ở mức độ tế bào, nó được hiểu biết thông qua tế bào học và mức độ đa bào thì thông qua physiology, giải phẫu học và mô học. Sinh học phát triển nghiên cứu sự sống ở các giai đoạn phát triển khác nhau hoặc phát triển cá thể (ontogeny) của sinh vật.
+Với mức độ lớn hơn, di truyền học quan tâm đến tính di truyền giữa cha mẹ và con cái. Phong tục học (ethology) nghiên cứu nhóm hành vi của một tập hợp cá thể. Di truyền học quần thể (population genetics) xem xét toàn bộ quần thể và hệ thống học quan tâm đến sự tiến hóa của nhiều loài thuộc các nhánh tiến hóa (lineage). Mối quan hệ qua lại giữa các quần thể với nhau và với ổ sinh thái của chúng là đối tượng của sinh thái học và sinh học tiến hóa. Một lĩnh vực tương đối mới là sinh học vũ trụ (astrobiology hoặc xenobiology) nghiên cứu về khả năng tồn tại sự sống ngoài Trái Đất.
+
+
+== Các nguyên lý trong sinh học ==
+Không sử dụng các công thức toán học để miêu tả các quá trình sinh lý trong hệ thống sinh học như vật lý học, sinh học sử dụng hệ thống các khái niệm và nguyên lý riêng bao gồm: tính phổ biến (universality), sự tiến hóa (evolution), tính đa dạng (diversity), tính liên tục (continuity), trạng thái cân bằng nội môi và các mối quan hệ hữu cơ (interactions).
+
+
+=== Các khái niệm chính: hoá sinh, tế bào và mã di truyền ===
+
+Trong sinh học, nhiều phân tử, khái niệm, quá trình có tính phổ biến và tổng quát chung cho tất cả các dạng sống. Ví dụ, mọi dạng sống đều có cấu tạo tế bào và các tế bào đều được cấu thành từ các phân tử hữu cơ giống nhau. Tất cả các sinh vật đều truyền thông tin di truyền của mình thông qua các vật liệu di truyền mà được cấu tạo từ phân tử nucleic acid (đa số là phân tử DNA (xem hình) chứa đựng mã di truyền thống nhất trên toàn bộ sinh giới (chỉ khác một vài chi tiết nhỏ). Trong quá trình phát triển của sinh vật, tính phổ biến cũng thể hiện ở chỗ hầu hết các động vật metazoan đều trải qua các giai đoạn cơ bản của quá trình phát triển phôi giống nhau về hình thái và hệ thống gene hoạt hóa.
+
+
+=== Tiến hóa: nguyên lý trung tâm của sinh học ===
+
+Một trong các khái niệm trung tâm, có tính hệ thống trong toàn bộ các chuyên ngành của Sinh học đó là tất cả sự sống đều bắt nguồn từ một tổ tiên chung (common descent) và trải qua một quá trình tiến hóa. Thật vậy, đó là lý do mà các sinh vật đều có những đặc điểm, phân tử và quá trình sinh lý giống nhau đến ngạc nhiên (xem thảo luận phía dưới). Học thuyết tiến hóa của Charles Darwin là học thuyết được chấp nhận rộng rãi (mặc dù có những tranh cãi). Thuyết tiến hóa này cho rằng sự sống của sinh vật chịu tác động dưới một áp lục gay gắt gọi là chọn lọc tự nhiên. Phiêu bạt di truyền (genetic drift) là cơ chế bổ sung về học thuyết này và được gọi là thuyết tiến hóa hiện đại (modern synthesis).
+Cây phát sinh chủng loại miêu tả lịch sử tiến hóa của một nhóm các loài với những đặc tính khác nhau nhưng cùng có mối quan hệ họ hàng với nhau và cùng hình thành từ một tổ tiên chung trong quá khứ. Có nhiều hướng nghiên cứu khác nhau để chứng minh đặc điểm phát sinh chủng loại này. Trước hết, người ta có thể so sánh trình tự các đoạn DNA (thuộc sinh học phân tử hay hệ gene học (genomics); hoặc so sánh các mẫu hoá thạch (fossil) hoặc các di chỉ (record) của sinh vật cổ (thuộc cổ sinh vật học. Các nhà sinh học tổ chức và phân tích các mối quan hệ tiến hóa thông qua các phương pháp khác nhau, bao gồm phát sinh chủng loài học (phylogenetics), phân loại theo ngoại hình (phenetics) và phân loại theo nhánh (cladistics). Các sự kiện chính xảy ra trong quá trình tiến hóa của sự sống được xây dựng thành biểu đồ thời gian tiến hóa (evolutionary timeline) dựa trên các hiểu biết hiện nay của khoa học.
+
+
+=== Tính đa dạng: sự phong phú và đa dạng của sinh giới ===
+
+Mặc dù sự sống vừa mang một sự thống nhất chung nhưng chúng lại vừa có tính đa dạng, phong phú đáng kinh ngạc ở các đặc điểm hình thái, tập tính (behavior) và lịch sử phát triển (life history). Để nghiên cứu một sinh giới đa dạng như vậy, các nhà sinh học đã nỗ lực phân loại tất cả các sinh vật sống. Sự phân loại khoa học này cần phải phản ảnh được cây tiến hóa (evolutionary tree) (hay cây phát sinh chủng loại) của các sinh vật khác nhau. Các khóa phân loại như vậy là các lĩnh vực nghiên cứu của bộ môn (ngành) hệ thống học và phân loại học. Phân loại học nghiên cứu nhằm xếp các sinh vật vào các nhóm gọi là nhóm phân loại (taxon), trong khi đó hệ thống học thì xem xét mối quan hệ giữa chúng.
+Trước kia, sinh giới được chia làm 5 giới (kingdom):
+Monera -- Protista -- Fungi -- Plantae -- Animalia
+Tuy nhiên, hệ thống phân loại 5 giới hiện nay đã lỗi thời. Ngày nay, sinh học hiện đại sắp xếp sinh vật vào 3 lãnh giới (domain hay superregnum) theo hệ thống phân loại 3 lãnh giới (three-domain system) như sau:
+Archaebacteria -- Bacteria (còn gọi là Eubacteria) -- Eukaryota (bao gồm Giới nguyên sinh (Protista), Giới nấm (Fungi), Giới thực vật (Plantae) và Giới động vật (Animalia) theo phân loại trước kia).
+Các giới này phân biệt với nhau thông qua tế bào đã có nhân thực hay chưa cũng như các cấu trúc khác trong tế bào. Ngoài ra sinh giới còn tồn tại các vật ký sinh (parasite) nội bào mà khó được xếp vào sinh vật sống vì không có khả năng trao đổi chất độc lập:
+Virus (bản chất sinh học, khác với virus trong tin học) -- Viroid -- Prion
+
+
+=== Tính liên tục: sự sống bắt nguồn từ một tổ tiên chung ===
+
+Một nhóm sinh vật được gọi là có chung một nguồn gốc nếu cùng một tổ tiên chung. Tất cả các loài sinh vật trên trái đất đều xuất phát từ một thuỷ tổ (ancestor) hoặc một vốn gene gốc (ancestral gene pool). Giống sinh vật là thuỷ tổ của tất cả các nhóm sinh vật hiện nay có lẽ xuất hiện ở Trái Đất khoảng 3,5 tỷ năm trước. (Xem thêm nguồn gốc sự sống.)
+Tư tưởng về "tất cả sự sống bắt nguồn từ một quả trứng (tiếng Latin: Omne vivum ex ovo) là một khái niệm cơ bản của sinh học hiện đại, có nghĩa là sự sống từ khi khởi nguồn đến ngay nay để vận động và phát triển liên tục, không ngừng. Mặc dù đến tận thế kỷ 19, người ta vẫn còn tin rằng các dạng sống có thể xuất hiện một cách tình cờ dưới một số điều kiện nhất định. (Xem thêm tạo sinh phi sinh học (abiogenesis).)
+Tính phổ biến của mã di truyền là một bằng chứng xác đáng mà các nhà sinh học khẳng định giả thuyết về một tổ tiên chung (universal common descent, UCD). của tất cả các loài vi khuẩn thực (eubacteria), vi khuẩn cổ (archaea) và sinh vật nhân thực (eukaryote). (Xem thêm Hệ thống phân loại 3 giới.)
+
+
+=== Cân bằng nội môi (homeostasis): cơ chế thích nghi với sự thay đổi ===
+
+Cân bằng nội môi (homeostasis) là một đặc tính của một hệ thống mở để điều khiển môi trường bên trong nhằm duy trì trạng thái cân bằng, thông qua việc điều chỉnh các cơ chế điều hòa cân bằng động (dynamic equilibrium) khác nhau. Tất cả các sinh vật (organism) sống bao gồm cả đơn bào hay đa bào đều duy trì cân bằng nội mô. Cân bằng này có thể là cân bằng pH nội bào ở mức độ tế bào; hay cân bằng nhiệt độ cơ thể ở động vật máu nóng; hay cũng chính là tỷ phần khí cacbornic trong khí quyển ở mức độ hệ sinh thái. Các mô và cơ quan trong các cơ thể đa bào cũng duy trì các mối cân bằng này.
+
+
+=== Các mối quan hệ: các nhóm sinh vật và môi trường ===
+
+Mọi sinh vật sống đều có mối quan hệ với các sinh vật khác và môi trường của chúng. Một trong những nguyên nhân dẫn tới sự phức tạp khi nghiên cứu các hệ thống sinh học là do mối tương tác phức tạp này. Một vi khuẩn khi phản ứng với sự thay đổi nồng độ đường trong môi trường nuôi cấy cũng phức tạp như một chú sư tử châu Phi đi kiếm mồi trên thảo nguyên. Đối với từng loài cụ thể mối quan hệ hữu cơ (giữa các sinh vật với nhau) có thể là quan hệ hợp tác (co-operation), cộng sinh (symbiosis), vật ăn thịt - con mồi (aggression) hay vật chủ - vật ký sinh (parasite). Các vấn đề sẽ trở nên phức tạp hơn nữa khi có nhiều loài sinh vật chịu tác động qua lại lẫn nhau trong một hệ sinh thái.
+
+
+== Đối tượng của sinh học ==
+
+Sinh học ngày nay đã trở thành một lĩnh vực nghiên cứu lớn, phức tạp bao gồm nhiều chuyên ngành hẹp. Ở đây, chúng tôi muốn đề cập đến 4 nhóm ngành chính trong Sinh học.
+các ngành nghiên cứu cấu trúc cơ bản của hệ thống sống: như tế bào, gene v.v.;
+nhóm ngành nghiên cứu sự vận hành, hoạt động của các cấu trúc này ở cấp độ mô, cơ quan (organ) và cơ thể (body);
+nhóm quan tâm đến sinh vật và lịch sử phát triển của các sinh vật;
+nhóm ngành xem xét các mối quan hệ, tương tác giữa các hệ thống sống.
+Tuy nhiên, các ranh giới và phân chia chuyên ngành trên chỉ có tính ước lệ. Trong thực tế, các ranh giới này là không rõ ràng và thường xuyên có sự vay mượn về kỹ thuật, thuật ngữ, nguyên lý chung giữa các chuyên ngành.
+
+
+=== Cấu trúc của sự sống ===
+
+Sinh học phân tử là một môn khoa học nghiên cứu giới sinh vật ở mức độ phân tử. Phạm vị nghiên cứu của môn này có phần trùng lặp với các ngành khác trong Sinh học đặc biệt là di truyền học và hoá sinh. Sinh học phân tử chủ yếu tập trung nghiên cứu mối tương tác giữa các hệ thống cấu trúc khác nhau trong tế bào, bao gồm mối quan hệ qua lại giữa quá trình tổng hợp của DNA, RNA và protein và tìm hiểu cách thức điều hòa các mối tương tác này.
+Tế bào học nghiên cứu các đặc tính sinh lý của tế bào, cũng như các phản ứng, tương tác mà môi trường của chúng ở cả cấp độ hiển vi lẫn cấp độ phân tử. Tế bào học quan tâm đến cả những sinh vật đơn bào (như vi khuẩn) và đa bào (như con người).
+Thành phần cấu tạo nên tế bào và cách thức tế bào vận hành là một trong những hướng nghiên cứu chính của khoa học sự sống. Sự giống nhau và khác nhau giữa các loại tế bào cũng được nghiên cứu trong sinh học phân tử và tế bào học. Những sự giống và khác nhau cơ bản tạo nên một bộ khung kiến thức chung mà người ta có thể áp dụng cho các loài tế bào khác cũng như quy nạp cho tất cả các loại tế bào.
+Di truyền học là khoa học về gene, tính di truyền và biến dị (variation) của sinh vật.
+Trong các nghiên cứu hiện đại, di truyền học cũng cấp các phương pháp nghiên cứu các chức năng của một gene nhất định. Mọi sinh vật đều lưu giữ thông tin di truyền của mình dưới dạng trình tự các nucleotide của phân tử DNA hoặc RNA.
+Gene cấu trúc mã hóa thông tin cần thiết cho quá trình tổng hợp các protein. Protein là nhóm phân tử đóng vai trò quan trọng (nhưng không phải là hoàn toàn) quy định kiểu hình của sinh vật.
+Sinh học phát triển nghiên cứu quá trình sinh vật sinh trưởng (growth) và phát triển (development). Có nguồn gốc từ bộ môn phôi học, sinh học phát triển ngày nay nghiên cứu sự điều khiển về mặt di truyền các quá trình sinh trưởng tế bào (cell growth), biệt hóa tế bào (cellular differentiation) và tạo hình (morphogenesis). Sinh vật mô hình dùng trong sinh học phát triển bao gồm giun tròn Caenorhabditis elegans, ruồi giấm Drosophila melanogaster, cá ngựa Brachydanio rerio, chuột Mus musculus và cây Arabidopsis thaliana.
+
+
+=== Cấu trúc, chức năng của cơ thể sống ===
+
+Giải phẫu học là một bộ môn quan trọng của hình thái học và quan tâm đến cấu trúc và tổ chức của các hệ cơ quan trong cơ thể động vật. Đó là hệ thần kinh, hệ miễn dịch, hệ nội tiết, hệ hô hấp và hệ tuần hoàn...
+Sinh lý học nghiên cứu các quá trình cơ học, vật lý và hoá sinh xảy ra trong cơ thể các sinh vật sống bằng cách xem xét hoạt động của tất cả các cấu trúc, bộ phận trong sinh vật hoạt động như thế nào. Sinh lý học được phân chia thành 2 bộ môn nhỏ là sinh lý học thực vật và sinh lý học động vật nhưng các nguyên lý về sinh lý học mang tính tổng quát đối với tất cả các loài sinh vật. Ví dụ, nhưng kiến thức về sinh lý tế bào nấm cũng có thể áp dụng đối với các tế bào người. Lĩnh vực sinh lý học động vật sử dụng các công cụ và phương pháp cho cả sinh lý học người cũng như các động vật khác. Sinh lý học thực vật cũng sử dụng một số kỹ thuật nghiên cứu của các bộ môn trên.
+
+
+=== Sự đa dạng và tiến hóa của sinh vật ===
+
+Sinh học tiến hóa nghiên cứu nguồn gốc và tổ tiên của các loài, cũng như các thay đổi của chúng theo thời gian.
+Sinh học tiến hóa là một lĩnh vực sinh học đa ngành vì rằng nó bao gồm các nhà khoa học từ nhiều chuyên môn khác nhau theo định hướng phân loại học. Ví dụ, thông thường mỗi nhà phân loại học thường chuyên về một nhóm sinh vật nhất định như là động vật có vú, chim (ornithology), hoặc bò sát (herpetology). Mặc dù nghiên cứu trên các đối tượng khác nhau nhưng các nhà phân loại học vẫn cùng giải quyết những vấn đề chung trong tiến hóa.
+Sinh học tiến hóa cũng bao hàm cả lĩnh vực cổ sinh vật học. Các nhà cổ sinh vật học thường sử dụng các mẫu vật để lý giải về mô hình và hiện trạng của sự tiến hóa, cũng như các thuyết tiến hóa hoặc thuyết về di truyền quần thể.
+Vào thập niên 1990, sinh học phát triển cũng trở thành một phần của sinh học tiến hóa để phát triển thành một ngành có tên là sinh học phát triển trong tiến hóa (evolutionary developmental biology).
+Ngoài ra, một số ngành liên quan đến sinh học tiến hóa là phát sinh chủng loài học (phylogenetics), hệ thống học và phân loại học.
+Trong phân loại học, người ta thường chia thành hai bộ môn lớn là thực vật học và động vật học. Thực vật học là môn học về cây cối. Thực vật học bao hàm nhiều lĩnh vực nghiên cứu về thực vật như quá trình sinh trưởng, sinh sản, trao đổi chất, phát sinh hình thái (morphogenesis development), bệnh học thực vật và tiến hóa.
+Động vật học là ngành học liên quan đến các loài động vật, bao gồm sinh lý học, giải phẫu học và phôi học. Các cơ chế phát triển và di truyền chung của cả động vật và thực vật được nghiên cứu trong sinh học phân tử, di truyền phân tử và sinh học phát triển. Sinh thái học về động vật được nghiên cứu bởi sinh thái học tập tính (behavioral ecology) và các ngành khác.
+
+
+==== Phân loại học ====
+Phân loại Linnaean hiện là hệ thống phân loại chính, bao gồm các cấp bậc phân loại và danh pháp 2 phần. Tên của một loài sinh vật được thống nhát thông qua các Hệ thống mã danh pháp quốc tế cho thực vật (International Code of Botanical Nomenclature, ICBN), Hệ thống mã danh pháp quốc tế cho động vật (International Code of Zoological Nomenclature, ICZN) và Hệ thống mã danh pháp quốc tế cho vi khuẩn (International Code of Nomenclature of Bacteria, ICNB). Hiện nay, người ta đang cố gắng chuẩn hóa 3 chuẩn quốc tế trên trong BioCode. Tuy nhiên hệ thống mã phân loại và danh pháp của virus (International Code of Virus Classification and Nomenclature, ICVCN) vẫn nằm ngoài BioCode.
+Nhiều sự kiện biệt hóa tạo ra một hệ thống có cấu trúc cây về các mối quan hệ giữa các loài. Vai trò của hệ thống học là nghiên cứu các mối quan hệ và sự khác biệt và tương đồng giữa các loài và các nhóm loài. Tuy nhiên, các hệ thống học đã từng là một lĩnh vực nghiên cứu năng động trong thời gian dài trước khi những tư tưởng tiến hóa học trở nên phổ biến.
+Theo truyền thống, các sinh vật sống được chia thành 5 giới:: Monera; Protista; Fungi; Plantae; Animalia. Tuy nhiên, nhiều nhà khoa học hiện xem cách phân loại 5 giới này đã lỗi thời. Các hệ thống phân loại học hiện đại ban đầu với 3 vực: Archaea (vi khuẩn cổ); Bacteria (vi khuẩn Eubacteria) và Eukaryota (bao gồm sinh vật nguyên sinh, nấm, thực vật và động vật) Các vực này phản ảnh liệu các tế bào có nhân hay không có nhân, cũng như sự khác biệt về thành phần hóa học của lớp bên ngoài tế bàor.
+Tiếp theo, các giới được chia thành các đơn vị nhỏ hơn theo thứ tự: Vực (Domain); Giới (Kingdom); Ngành (Phylum); Lớp (Clas); Bộ (Order); Họ (Familia); Chi (Genus); Loài (Species).
+
+
+=== Các mối quan hệ hữu sinh ===
+
+Sinh thái học nghiên cứu sự phân bố và sinh sống của các sinh vật sống và mối quan hệ qua lại giữa các sinh vật với nhau và với môi trường sống. Môi trường sống của một sinh vật bao gồm các yếu tố vô sinh như khí hậu và địa chất cũng như các yếu tố hữu sinh là các sinh vật sống trong cùng một ổ sinh thái. Các hệ sinh thái thường được nghiên cứu ở nhiều cấp độ khác nhau từ cá thể (individual) và các quần thể cho đến các hệ sinh thái và sinh quyển. Sinh thái học là môn khoa học đa ngành, nghĩa là dựa trên nhiều ngành khoa học khác nhau.
+Tập tính học nghiên cứu các hành vi của động vật (đặc biệt trong xã hội của loài vật như ở khỉ và chó sói, do đó đôi khi bộ môn này được coi là một nhánh của động vật học. Các nhà tập tính học nghiên cứu chủ yếu quá trình tiến hóa của hành vi và kiến thức về tập tính học tuân theo thuyết chọn lọc tự nhiên. Một trong những người đặt nền móng cho tập tính học hiện đại là nhà tập tính học Charles Darwin
+
+
+== Campbell, Neil (2004). Biology (ấn bản 7). Benjamin-Cummings Publishing Company. ISBN 0-8053-7146-X. OCLC 71890442. ==
+Colinvaux, Paul (1979). Why Big Fierce Animals are Rare: An Ecologist's Perspective . Princeton University Press. ISBN 0691023646. OCLC 10081738 24132192. 
+Hoagland, Mahlon (2001). The Way Life Works . Jones and Bartlett Publishers inc. ISBN 076371688X. OCLC 223090105 45487537. 
+Janovy, John Jr. (2004). On Becoming a Biologist (ấn bản 2). Bison Books. ISBN 0803276206. OCLC 55138571 56964280. 
+Johnson, George B. (2005). Biology, Visualizing Life. Holt, Rinehart, and Winston. ISBN 0-03-016723-X. OCLC 36306648. 
+Tobin, Allan; Dusheck, Jennie (2005). Asking About Life (ấn bản 3). Belmont, CA: Wadsworth. ISBN 0-534-40653X.  
+Arrhenius, Gustaf và đồng nghiệp (1997). “Entropy and Charge in Molecular Evolution—the Case of Phosphate”. Journal of Theoretical Biology 187 (4): 503–22. doi:10.1006/jtbi.1996.0385. PMID 9299295. 
+Buehler, Lukas K. (2000–2005) The physico-chemical basis of life, http://www.whatislife.com/about.html accessed ngày 27 tháng 10 năm 2005.
+Davies, Paul (1998). The Fifth Miracle. Penguin Science, London. ISBN 0-14-028226-2. 
+De Duve, Christian (tháng 1 năm 1996). Vital Dust: The Origin and Evolution of Life on Earth. Basic Books. ISBN 0-465-09045-1.  
+Egel, R.; Lankenau, D.-H.; Mulkidjanian, A. Y. (2011). Origins of Life: The Primal Self-Organization. Berlin Heidelberg: Springer-Verlag. tr. 1–366,. doi:10.1007/978-3-642-21625-1. ISBN 978-3-642-21624-4.  
+Fernando CT, Rowe, J (2007). “Natural selection in chemical evolution”. Journal of Theoretical Biology 247 (1): 152–67. doi:10.1016/j.jtbi.2007.01.028. PMID 17399743. 
+Hartman, Hyman (1998). “Photosynthesis and the Origin of Life”. Origins of Life and Evolution of Biospheres 28 (4–6): 515–521. doi:10.1023/A:1006548904157. 
+Harris, Henry (2002). Things come to life. Spontaneous generation revisited. Oxford: Oxford University Press. ISBN 0-19-851538-3. 
+Hazen, Robert M. (tháng 12 năm 2005). Genesis: The Scientific Quest for Life's Origins. Joseph Henry Press. ISBN 0-309-09432-1.  
+Gribbon, John (1998). The Case of the Missing Neutrinos and other Curious Phenomena of the Universe. Penguin Science, London. ISBN 0-14-028734-5. 
+Horgan, J (1991). “In the beginning”. Scientific American 264 (6): 100–109. Bibcode:1991SciAm.264..100P. doi:10.1038/scientificamerican0691-100.  (Cited on p. 108).
+Huber, C. and Wächtershäuser, G., (1998). “Peptides by activation of amino acids with CO on (Ni,Fe)S surfaces: implications for the origin of life”. Science 281 (5377): 670–2. Bibcode:1998Sci...281..670H. doi:10.1126/science.281.5377.670. PMID 9685253.  (Cited on p. 108).
+Knoll, Andrew H. (2003). Life on a Young Planet: The First Three Billion Years of Evolution on Earth. Princeton University Press. ISBN 0-691-00978-3. 
+Luisi, Pier Luigi (2006). The Emergence of Life: From Chemical Origins to Synthetic Biology. Cambridge University Press. ISBN 0-521-82117-7. 
+Martin, W. and Russell M.J. (2002). “On the origins of cells: a hypothesis for the evolutionary transitions from abiotic geochemistry to chemoautotrophic prokaryotes, and from prokaryotes to nucleated cells”. Philosophical Transactions of the Royal Society B 358 (1429): 59–83; discussion 83–5. doi:10.1098/rstb.2002.1183. PMC 1693102. PMID 12594918. 
+Maynard Smith, John; Szathmary, Eors (ngày 16 tháng 3 năm 2000). The Origins of Life: From the Birth of Life to the Origin of Language. Oxford Paperbacks. ISBN 0-19-286209-X.  
+Morowitz, Harold J. (1992) "Beginnings of Cellular Life: Metabolism Recapitulates Biogenesis". Yale University Press. ISBN 0-300-05483-1
+NASA Astrobiology Institute: Earth's Early Environment and Life
+NASA Specialized Center of Research and Training in Exobiology: Gustaf O. Arrhenius
+Pitsch, Stefan; Krishnamurthy, Ramanarayanan; Arrhenius, Gustaf (2000). “Concentration of Simple Aldehydes by Sulfite-Containing Double-Layer Hydroxide Minerals: Implications for Biopoesis” (abstract). Helvetica Chimica Acta 83 (9): 2398 2411. doi:10.1002/1522-2675(20000906)83:9<2398::AID-HLCA2398>3.0.CO;2-5.  
+Pross, Addy (2012). What is Life?: How chemistry becomes biology. Oxford University Press. ISBN 0-19-964101-3. 
+Russell MJ, Hall AJ, Cairns-Smith AG, Braterman PS (1988). “Submarine hot springs and the origin of life”. Nature 336 (6195): 117. Bibcode:1988Natur.336..117R. doi:10.1038/336117a0. 
+Dedicated issue of Philosophical Transactions B on Major Steps in Cell Evolution freely available.
+Dedicated issue of Philosophical Transactions B on the Emergence of Life on the Early Earth freely available.
+
+
+== Liên kết bên ngoài ==
+Sinh học tại Từ điển bách khoa Việt Nam
+Sinh học tại DMOZ
+OSU's Phylocode
+Biology Online – Wiki Dictionary
+MIT video lecture series on biology
+Biology and Bioethics.
+Biological Systems – Idaho National Laboratory
+The Tree of Life: A multi-authored, distributed Internet project containing information about phylogeny and biodiversity.
+The Study of Biology
+Using the Biological Literature Web Resources
+Journal links
+PLos Biology A peer-reviewed, open-access journal published by the Public Library of Science
+Current Biology General journal publishing original research from all areas of biology
+Biology Letters A high-impact Royal Society journal publishing peer-reviewed Biology papers of general interest
+Science Magazine Internationally Renowned AAAS Science Publication – See Sections of the Life Sciences
+International Journal of Biological Sciences A biological journal publishing significant peer-reviewed scientific papers
+Perspectives in Biology and Medicine An interdisciplinary scholarly journal publishing essays of broad relevance
+Life Science Log

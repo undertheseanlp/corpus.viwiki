@@ -1,0 +1,44 @@
+Microarray tiền sản là kĩ thuật được dùng để xác định các bất thường nhiễm sắc thể (NST) bao gồm các bất thường nhỏ mà karyotype truyền thống không phát hiện được.
+
+Hiện nay theo khuyến cáo của American College of Obstetricians and Gynecologists (ACOG) và Society for Maternal-Fetal Medicine (SMFM), chẩn đoán tiền sản bằng microarray là xét nghiệm di truyền đầu tiên đối với những thai phụ có thai nhi bất thường trong siêu âm. Ngoài ra, microarray còn là một xét nghiệm di truyền được ưu tiên sử dụng để xác định nguyên nhân gây tử vong ở thai chết lưu.
+Microarray tiền sản phát hiện tất cả các thể dị bội lâm sàng và các chuyển đoạn không cân bằng. Ngoài ra, CMA xác định thêm 6% bất thường gen ở những thai nhi có bất thường trong siêu âm nhưng karyotype bình thường, và phát hiện hiện thêm 1.7% các trường hợp thai nhi có kết quả siêu âm bình thường và karyotype bình thường.
+
+
+== 1. Giới thiệu ==
+Chẩn đoán tiền sản bằng microarray (CMA tiền sản) là xác định sự tăng hoặc giảm lượng DNA trên toàn bộ gen. CMA sàng lọc toàn bộ gen với độ phân giải cao chủ yếu nhằm xác định các aneuploidy NST cũng như cũng như vị trí và sự thay đổi quá nhỏ mà karyotype truyền thống không phát hiện được.
+CMA được xem là xét nghiệm di truyền đầu tiên ở những trẻ sơ sinh và trẻ em có các khiếm khuyết trí tuệ không giải thích được, các bất thường bẩm sinh, các hội chứng tự kỷ. Trong những hội chứng này, CMA đã phát hiện thêm 15% các bất thường DNA ở các trường hợp có Karyotype bình thường.
+Trên cơ sở đó, CMA cũng được ứng dụng và nghiên cứu để chẩn đoán tiền sản. Tháng 12 năm 2012, Eunice Kennedy Shriver National Institute of Child Health and Human Development đã công bố kết quả của nhiều nghiên cứu trên diện rộng về sự so sánh của CMA và Karyotype truyền thống trong chẩn đoán tiền sản. Và tiếp theo đó ACOG và SMFM đã đề nghị ứng dụng CMA trong chẩn đoán tiền sản và đây cũng là xét nghiệm di truyền đầu tiên khi phát hiện bất thường thai nhi trong siêu âm.
+
+
+== 2. Kỹ thuật microarray ==
+CMA xác định các aneuploidy NST cũng như cũng như vị trí và sự thay đổi quá nhỏ mà karyotype truyền thống không phát hiện được. Ngược lại với karyotype truyền thống chỉ phát hiện được thay đổi lượng lớn trên NST và bất thường cấu trúc, CMA có thể cung cấp thông tin ở mức độ siêu hiển vi trên toàn bộ gen. Những đoạn DNA tăng hoặc mất gọi là biến thể số lượng bản sao (copy number variants - CNV).
+Để phát hiện CNV, DNA từ thai nhi được gắn nhãn với một màu huỳnh quang và DNA tham khảo được gắn với một màu huỳnh quang khác. Các DNA này được lai với các probe nằm trên microarray slide. Sự tương quan tín hiệu huỳnh quang giữa DNA thai nhi và DNA tham khảo được đọc bởi máy và phân tích bằng phần mềm chuyên biệt. Các kết quả này được các chuyên viên đánh giá và giải thích đưa ra kết luận có xuất hiện các CNV trong array đang phân tích hay không.
+
+
+== 3. Ưu điểm chẩn đoán tiền sản bằng microarray: ==
+-         Độ chính xác cao.
+-         Phát hiện số lượng lớn các hội chứng (>140 trong một array).
+-         Phát hiện các microdeletion và microduplication mà karyotype & FISH không phát hiện được.
+-         Tỷ lệ dương tính giả thấp hơn karyotype do không nuôi cấy tế bào.
+-         Tránh lỗi chủ quan khi phân tích bằng kính hiển vi.
+-         Thời gian nhanh hơn karyotype.
+
+
+== 4. Đối tượng nên làm CMA tiền sản: ==
+Theo khuyến cáo của Mỹ American College of Obstetricians and Gynecologists và Society for Maternal-Fetal Medicine, những đối tượng nên làm CMA tiền sản là:
+-        Thai phụ với các bất thường thai nhi trong siêu âm.
+-        Thai phụ có kết quả xét nghiệm tiền sản không xâm lấn (NIPT) dương tính.
+-        Thai phụ với các bất thường thai nhi trong siêu âm nhưng có kết quả  karyotype thai nhi bình thường.
+-        CMA sàng lọc các bất thường thai nhi cho mọi lứa tuổi của thai phụ.
+
+
+== 5. Phạm vi của CMA tiền sản: ==
+- Không phát hiện đảo đoạn, chuyển đoạn tương hỗ.
+-         Không phát hiện các đột biến điểm.
+-         Không phát hiện thể khảm ở mức thấp.
+
+
+== 6. Tài liệu tham khảo ==
+
+
+== Tham khảo ==

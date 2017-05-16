@@ -1,0 +1,98 @@
+Trong nhiếp ảnh và quang học, bộ lọc độ đen-trung tính, hay còn gọi là bộ lọc ND, là một bộ lọc dùng để làm giảm hay sửa đổi cường độ của tất cả bước sóng, hay màu sắc, của ánh sáng như nhau, giúp giữ nguyên sắc độ khi tái tạo lại màu sắc. Nó có thể là một bộ lọc không màu (trong) hoặc là bộ lọc có màu xám. Mục đích của một bộ lọc độ đen-trung tính nhiếp ảnh tiêu chuẩn là để làm giảm lượng ánh sáng lọt vào thấu kính. Điều đó cho phép nhiếp ảnh gia lựa chọn cách phối hợp độ mở, thời gian phơi sáng và độ nhạy cảm biến mà nếu không có nó phải thực hiện bằng các phơi sáng lâu hơn. Điều này được thực hiện để đạt được hiệu ứng như độ sâu trường ảnh mỏng hoặc chuyển động mờ của một chủ thể trong phạm vi các tình huống và điều kiện khí quyển rộng hơn.
+Thí dụ như, khi muốn chụp được cảnh một  thác nước ở một tốc độ màn trập chậm tạo ra một hiệu ứng chuyển động-mờ cố ý. Nhiếp ảnh gia có thể xác định để đạt được hiệu quả như mong đợi, cần phải đặt tốc độ màn trập cỡ mười giây. Vào một ngày đầy nắng, có thể sẽ có quá nhiều ánh sáng do đó thậm chí tại tốc độ chụp phim không đáng kể và khẩu độ tối thiểu, tốc độ màn trập cỡ mười giây sẽ cho quá nhiều ánh sáng lọt vào, và ảnh sẽ bị dư sáng. Trong tình huống này, sử dụng một bộ lọc độ đen trung tính thích hợp sẽ tương đương với việc hạ bằng hoặc lớn hơn một f-stop, cho phép hạ tốc độ màn trập và tạo được hiệu ứng chuyển động-mờ (motion-blur) theo mong muốn.
+
+
+== Cơ chế ==
+Đối với một bộ lọc ND với mật độ quang d, phần công suất quang truyền qua bộ lọc có thể được tính như sau:
+
+  
+    
+      
+        
+          Fractional transmittance
+        
+        ≡
+        
+          
+            I
+            
+              I
+              
+                0
+              
+            
+          
+        
+        =
+        
+          10
+          
+            −
+            d
+          
+        
+        ,
+      
+    
+    {\displaystyle {\text{Fractional transmittance}}\equiv {\frac {I}{I_{0}}}=10^{-d},}
+  
+trong đó I là cường độ sau khi lọc, và I0 là cường độ tới, Fractional transmittance: Hệ số truyền.
+
+
+== Sử dụng ==
+
+Sử dụng bộ lọc ND cho phép các nhiếp ảnh gia sử dụng một khẩu độ lớn hơn đó là tại hoặc dưới giới hạn tán xạ, vốn khác nhau tùy thuộc vào kích thước của các phương tiện cảm nhận ánh sáng (phim hoặc kỹ thuật số), và đối với nhiều máy ảnh là giữa f/8 và f/11, với kích thước phương tiện cảm nhận ánh sáng nhỏ hơn cần khẩu độ lớn hơn, và phương tiện cảm nhận ánh sáng càng lớn thì càng có thể sử dụng những khẩu độ nhỏ hơn. Các bộ lọc ND cũng có thể được sử dụng để làm giảm độ sâu của trường ảnh (bằng cách cho phép sử dụng một khẩu độ lớn hơn) mà nếu không nhờ nó thì không thể do giới hạn tối đa của tốc độ màn trập.
+Thay vì giảm khẩu độ để hạn chế ánh sáng, nhiếp ảnh gia có thể gắn thêm một bộ lọc ND để hạn chế  ánh sáng, và có thể đặt tốc độ màn trập tùy theo chuyển động mong muốn đặc biệt (ví dụ,chuyển động mờ của nước) và khẩu độ đặt khi cần thiết (khẩu độ nhỏ để  tối đa độ sắc nét hay khẩu độ lớn để thu hẹp độ sâu trường ảnh (chủ thể nằm trong miền lấy nét và nền ảnh phía sau nằm ngoài miền lấy nét)). Khi sử dụng máy ảnh kỹ thuật số, nhiếp ảnh gia có thể xem bức ảnh vừa chụp liền lúc đó và chọn bộ lọc ND tốt nhất để sử dụng cho cảnh được chụp bằng cách biết được khẩu độ tốt nhất để thu được bức ảnh sắc nét nhất như mong muốn. Tốc độ cửa trập sẽ được chọn bằng cách tìm độ mờ mong muốn chuyển động của chủ thể. Phải đặt những thông số này cho máy ảnh ở chế độ bằng tay (manual), và sau đó toàn bộ độ phơi sáng được điều chỉnh tối hơn bằng cách điều chỉnh hoặc là khẩu độ hoặc là tốc độ màn trập, lưu ý số stop cần thiết để đạt được độ phơi sáng mong muốn. Kết quả đó sẽ là số stop cần thiết trong bộ lọc ND để dùng cho cảnh đó.
+
+Ví dụ về việc sử dụng thiết bị này bao gồm:
+Làm mờ chuyển động nước (ví dụ như thác nước, sông, đại dương).
+Giảm độ sâu trường ảnh trong ánh sáng gắt (ví dụ ánh sáng ban ngày).
+Khi sử dụng một đèn flash trên một máy ảnh có màn trập mặt phẳng tiêu điểm, thời gian phơi sáng được giới hạn để đạt được tốc độ tối đa (thường tốt nhất là 1/250 giây), lúc đó toàn bộ phim hoặc cảm biến tiếp xúc với ánh sáng gần như ngay lập tức. Nếu không có một bộ lọc ND, thì có thể phải đặt khẩu độ bằng f/8 hoặc lớn hơn. 
+Sử dụng một khẩu độ lớn hơn để thoát được giới hạn nhiễu xạ. 
+Làm giảm khả năng hiển thị của các đối tượng di chuyển.
+Thêm chuyển động mờ cho các đối tượng.
+Kéo dài thời gian phơi sáng.
+Các bộ lọc độ đen trung tính được sử dụng để kiểm soát độ phơi sáng với các ống kính phản truyền (ống kính khúc xạ thấp) trong nhiếp ảnh, do sử dụng lá khẩu truyền thống làm tăng tỷ lệ cản trở trung tâm được tìm thấy trong những hệ thống này, dẫn đến hiệu suất kém.
+Các bộ lọc ND được ứng dụng trong nhiều thí nghiệm laser có độ chính xác cao bởi vì công suất của một tia laser không thể điều chỉnh được mà không thay đổi các thuộc tính khác của ánh sáng laser (ví dụ sự chuẩn trực của chùm tia). Hơn nữa, hầu hết các loại laser đều có một công suất tối thiểu được thiết lập lúc chúng hoạt động. Để đạt được sự suy giảm ánh sáng mong muốn, một hoặc nhiều các bộ lọc độ đen trung tính có thể được đặt trong đường dẫn của chùm tia đó.
+Các kính thiên văn lớn có thể khiến Mặt Trăng và các hành tinh trở thành quá sáng và mất đi độ tương phản. Một bộ lọc độ đen trung tính có thể tăng độ tương phản và giảm độ sáng xuống, giúp việc quan sát Mặt Trăng trở nên dễ dàng hơn.
+
+
+== Các biến thể ==
+Bộ lọc ND theo cấp độ cũng tương tự, ngoại trừ cường độ thay đổi trên bề mặt của bộ lọc. Điều này rất hữu ích khi một vùng hình ảnh thì sáng và phần còn lại thì không, như trong một bức ảnh hoàng hôn.
+Khu vực chuyển tiếp, hoặc cạnh, có sẵn trong biến thể khác nhau (mềm, cứng, bộ suy giảm). Phổ biến nhất là một cạnh mềm và cung cấp một chuyển tiếp mượt mà từ phía ND và phía nhìn rõ. Các bộ lọc trừu tượng có một sự chuyển đổi sắc nét từ ND tới phía nhìn rõ, và cạnh của bộ suy giảm thay đổi dần trong hầu hết các bộ lọc, do đó việc chuyển tiếp ít được chú ý.
+Một loại cấu hình bộ lọc ND khác là bánh chuyển bộ lọc ND. Được cấu tạo bao gồm hai đĩa thủy tinh đục có lớp phủ bên ngoài (coating) dày lên dần dần được áp quanh lỗ thủng trên bề mặt của mỗi đĩa. Khi hai đĩa xoay ngược chiều ở phía trước của nhau, chúng chuyển dần dần và bằng nhau từ hệ số truyền 100% tới hệ số truyền 0%. Chúng được sử dụng trên kính thiên văn như đã đề cập ở trên và trong bất kỳ hệ thống nào mà cần hoạt động ở 100% khẩu độ (thông thường bởi vì hệ thống này yêu cầu phải hoạt động tại độ phân giải góc tối đa của nó).
+Trong thực tế, bộ lọc ND không phải là hoàn hảo, vì chúng không làm giảm cường độ của tất cả các bước sóng một cách đồng đều. Điều này đôi khi có thể tạo ra màu bị sai trong các bức ảnh ghi nhận được, đặc biệt là với những bộ lọc rẻ tiền. Quan trọng hơn, hầu hết các bộ lọc ND chỉ được chỉ định trên vùng nhìn thấy được của quang phổ và chặn không tương ứng tất cả các bước sóng của bức xạ cực tím hoặc hồng ngoại. Điều này có thể gây nguy hiểm nếu sử dụng bộ lọc ND để quan sát các nguồn sáng (như mặt trời hoặc kim loại hoặc thủy tinh đang đun nóng), vốn phát ra các bức xạ vô hình rất mạnh, do đó có thể nguy hiểm cho mắt mặc dù nguồn sáng trông không sáng tí nào khi được quan sát qua bộ lọc. Các bộ lọc đặc biệt phải được sử dụng đối với những nguồn sáng như vậy để việc quan sát được an toàn.
+Một thay thế rẻ tiền, tự chế cho các bộ lọc ND chuyên nghiệp có thể được làm từ một miếng kính của thợ hàn. Tùy thuộc vào cấp độ của kính thợ hàn, mà ta có được một bộ lọc tương đương lên tới 10-stop.
+
+
+=== Các bộ lọc độ đen trung tính đặc chủng ===
+Hai biến thể phổ biến nhất là bộ lọc ND biến đổi và bộ lọc ND cực độ chẳng hạn như Lee Big Stopper.
+
+
+==== Bộ lọc độ đen trung tính biến đổi ====
+Nhược điểm chính của các bộ lọc độ đen trung tính đó là để hoàn toàn linh động trong việc chụp ảnh, bạn phải thực hiện một loạt các ND khác nhau. Điều này có thể khiến cho nó trở thành một đề xuất đắt đỏ, đặc biệt là nếu sử dụng các bộ lọc vít với kích thước bộ lọc ống kính khác nhau, sẽ cần phải thực hiện một thiết lập cho mỗi đường kính ống kính mang theo (mặc dù các vòng tăng giảm rẻ tiền có thể khắc phục được yêu cầu này). Để khắc phục được vấn đề này, một số nhà sản xuất đã tạo ra các bộ lọc ND biến đổi. Chúng hoạt động bằng cách đặt 2 bộ lọc phân cực với nhau, ít nhất một trong hai bộ lọc này có thể xoay. Bộ lọc phân cực ở phía sau phân tách ánh sáng trong một mặt phẳng. Khi bộ lọc phía trước xoay, nó sẽ tách phần ánh sáng đang tăng ở phía còn lại, kết thúc là các bộ lọc ở phía trước đi đến vuông góc với bộ lọc ở phía sau. Bằng cách sử dụng kỹ thuật này, lượng ánh sáng có thể đến tới cảm biến có thể thay đổi với khả năng kiểm soát gần như vô hạn.
+Với ưu điểm này, bạn có thể có được nhiều bộ lọc ND chỉ với một hộp đựng duy nhất, nhược điểm là chất lượng hình ảnh bị giảm bớt do cả hai đều sử dụng hai bộ phận với nhau và bởi vì việc kết hợp hai bộ lọc phân cực với nhau.
+
+
+==== Bộ lọc cực độ ====
+Để tạo các cảnh phong cảnh và cảnh biển thanh tao với nước hoặc chuyển động khác vô cùng mờ, có thể cần phải sử dụng nhiều bộ lọc ND xếp chồng lên nhau. Điều này cũng như trong trường hợp của bộ lọc ND biến đổi, sẽ gây tác dụng giảm chất lượng hình ảnh. Để khắc phục điều này, một số nhà sản xuất đã sản xuất bộ lọc ND cực độ - chất lượng cao. Thông thường những bộ lọc này được đánh giá ở một mức giảm 10-stop, cho phép giảm tốc độ màn trập xuống rất chậm, ngay cả trong những điều kiện tương đối chói.
+
+
+== Phân loại bộ lọc ND ==
+Trong nhiếp ảnh, bộ lọc ND được định lượng bằng mật độ quang hoặc độ giảm f-stop tương đương của chúng. Trong kính hiển vi, giá trị truyền đôi khi được sử dụng đến. Trong thiên văn học, hệ số truyền đôi khi cũng được sử dụng (thiên thực).
+Lưu ý: Hoya, B + W, Cokin sử dụng mã ND2 hoặc ND2x,.v.v.; Lee, Tiffen sử dụng mã 0.3ND,.v.v.; Leica sử dụng mã 1x mã, 4x, 8x,.v.v. Lưu ý: ND 3.8 là giá trị đúng cho độ phơi sáng của cảm biến CCD với mặt trời mà không gây nguy hại cho cảm biến điện tử. Lưu ý: ND 5.0 là tối thiểu để quan sát mặt trời trực tiếp bằng mắt mà không ảnh hưởng tới võng mạc. Một kiểm tra sâu hơn phải được thực hiện cho các bộ lọc đặc biệt được sử dụng, kiểm tra ảnh phổ (spectrogram) cũng như hồng ngoại và cực tím được giảm nhẹ với cùng một giá trị.
+
+
+== Xem thêm ==
+Graduated neutral-density filter
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Neutral Density Filter Calculation Chart
+ND Filters: Everything You Need to Know
+Neutral Density Filters and Graduated ND Filters
+Neutral Density Filters: What are they & when to use them ?
+Neutral Density Filter FAQ at Digital Grin Photography Forum

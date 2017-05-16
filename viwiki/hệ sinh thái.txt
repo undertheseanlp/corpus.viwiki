@@ -1,0 +1,91 @@
+Hệ sinh thái là một hệ thống mở hoàn chỉnh, bao gồm tập hợp các quần xã sinh vật và khu vực sống của sinh vật còn được gọi là sinh cảnh.
+
+
+== Đặc điểm ==
+Hệ sinh thái có thể hiểu là bao gồm quần xã sinh vật (động vật, thực vật, vi sinh vật) và môi trường vô sinh (ánh sáng, nhiệt độ, chất vô cơ...)
+Tùy theo cấu trúc dinh dưỡng tạo nên sự đa dạng về loài, cao hay thấp, tạo nên chu trình tuần hoàn vật chất (chu trình tuần hoàn vật chất hiện nay hầu như chưa được khép kín vì dòng vật chất lấy ra không đem trả lại cho môi trường đó.
+Hệ sinh thái có kích thước to nhỏ khác nhau và cùng tồn tại độc lập (nghĩa là không nhận năng lượng từ hệ sinh thái khác).
+Hệ sinh thái là đơn vị cơ bản của sinh thái học và được chia thành hệ sinh thái nhân tạo và hệ sinh thái tự nhiên. Đặc điểm của hệ sinh thái là một hệ thống hở có 3 dòng (dòng vào, dòng ra và dòng nội lưu) vật chất, năng lượng, thông tin.
+Hệ sinh thái cũng có khả năng tự điều chỉnh để duy trì trạng thái cân bằng, nếu một thành phần thay đổi thì các thành phần khác cũng thay đổi theo ở mức độ nào đó để duy trì cân bằng, nếu biến đổi quá nhiều thì sẽ bị phá vỡ cân bằng sinh thái.
+
+
+== Các đặc trưng ==
+Vòng tuần hoàn vật chất:
+-Trong hệ sinh thái, chu trình của vật chất đi từ môi trường bên ngoài vào cơ thể sinh vật, rồi từ sinh vật này sang sinh vật kia theo chuỗi thức ăn, rồi lại phân hủy thành các chất vô cơ đi ra môi trường được gọi là vòng tuần hoàn sinh-địa-hóa. -Nguồn năng lượng từ bức xạ mặt trời đến được Trái Đất thì chỉ khoảng 50% đi vào hệ sinh thái, số còn lại chuyển thành nhiệt năng (phản xạ). -Sinh vật sản xuất chỉ sử dụng 1% tổng năng lượng tiếp nhận này để chuyển sang dạng hóa năng dự trữ dưới dạng chất hữu cơ nhờ quá trình quang hợp. -Cứ qua mỗi bậc dinh dưỡng thì chỉ 10% năng lượng được tích lũy và chuyển lên bậc tiếp theo, còn 90% thất thoát dưới dạng nhiệt, như vậy càng lên cao năng lượng tích lũy càng giảm. - Khi sinh vật chết đi, phần năng lượng dưới dạng chất hữu cơ ở cơ thể được vi sinh vật phân hủy và sử dụng, 90% thất thoát dạng nhiệt. => Dòng năng lượng trong hệ sinh thái không tuần hoàn.
+Sự tiến hóa của hệ sinh thái:
+- Phát sinh và phát triển để đạt được trạng thái ổn định lâu dài - tức trạng thái đỉnh cực (climax). Quá trình này gọi là sự diễn thế sinh thái.
+Cân bằng sinh thái:
+- Là sự ổn định về số lượng cá thể của quần thể ở trạng thái ổn định, hướng tới sự thích nghi cao nhất với điều kiện môi trường. - Các hệ sinh thái tự nhiên đều có cơ chế tự điều chỉnh để đạt trạng thái cân bằng. Cân bằng sinh thái dưới sự tác động bởi yếu tố bên ngoài là cân bằng mới. -Con người co tác động lớn đến quá trình cân bằng của hệ sinh thái tự nhiên, nhưng tác động chủ yếu theo mặt tiêu cực đến sự cân bằng của hệ sinh thái.
+
+
+=== Các dòng năng lượng ===
+Năng lượng là một phương thức sinh ra công, năng lượng không tự nhiên sinh ra mà cũng không tự nhiên mất đi mà nó chỉ chuyển hóa từ dạng này sang dạng khác (Định luật bảo toàn năng lượng).
+Dựa vào nguồn năng lượng hệ sinh thái được chia thành:
+Hệ sinh thái nhận năng lượng từ ánh sáng Mặt Trời: rừng, biển, đồng cỏ tự nhiên v.v.
+Hệ sinh thái nhận năng lượng môi trường và năng lượng tự nhiên khác bổ sung: như hệ sinh thái cửa sông được bổ sung từ nhiều nguồn nước. Hệ sinh thái vùng trũng cũng vậy.
+Hệ sinh thái nhận năng lượng ánh sáng mặt trời và nguồn năng lượng do con người bổ sung: như hệ sinh thái nông nghiệp, đồng cỏ chăn nuôi, vườn cây lâu năm: cây ăn quả, cây công nghiệp: chè, cao su, cà phê, dâu tằm...
+Hệ sinh thái nhận năng lượng chủ yếu là năng lượng công nghiệp như: điện, nguyên liệu...
+Năng lượng trong hệ sinh thái gồm các dạng:
+Quang năng chiếu vào không gian hệ sinh thái,
+Hóa năng là các chất hóa sinh học của động vật và thực vật.
+Động năng là năng lượng làm cho hệ sinh thái vận động như: gió, vận động của động vật, thực vật, nhựa nguyên, nhựa luyện,
+Nhiệt năng làm cho các thành phần hệ sinh thái có nhiệt độ nhất định: nhiệt độ môi trường, nhiệt độ cơ thể.
+
+
+=== Năng suất ===
+Các hệ sinh thái có 2 loại năng suất:
+Năng suất sơ cấp: đó là năng suất của sinh vật sản xuất (thực vật, rong, tảo)
+Năng suất thứ cấp: đó là năng suất của sinh vật tiêu thụ
+Năng suất được tính là: Gam chất khô/m²/ngày.
+
+
+=== Chu trình tuần hoàn ===
+Môi trường Sinh vật sản xuất → Sinh vật tiêu thụ → Sinh vật phân hủy
+Sinh vật sản xuất hay sinh vật tự dưỡng là những sinh vật mà thông qua phản ứng quang hợp có thể chuyển hoá các thành phần vô cơ thành các dạng vật chất hữu cơ. Năng lượng Mặt Trời thông qua quang hợp đã liên kết các phần tử vô cơ thành các phần tử hữu cơ.
+Sinh vật tiêu thụ hay sinh vật dị dưỡng là những sinh vật không có khả năng quang hợp. Những sinh vật này tồn tại dựa vào nguồn thức ăn ban đầu do sinh vật tự dưỡng tạo ra.
+Sinh vật phân hủy là sinh vật dị dưỡng sống hoại sinh bao gồm các loại nấm, vi khuẩn. Chúng tiếp nhận nguồn năng lượng hoá học khi sinh vật khác phân hủy và bẻ gãy các phân tử hữu cơ để tồn tại và phát triển. Sinh vật phân hủy thải vào môi trường những chất đơn giản hoặc những nguyên tố hoá học mà lúc đầu các vật sản xuất sử dụng để tổng hợp các chất hữu cơ.
+Môi trường: các chất vô cơ (bao gồm cả các nguyên tố sinh học: N, C, H, O, Cu, Zn,.. các nguyên tố vi lượng tham gia vào enzim), chất khí (N2, O2, CO2...), nước.
+
+
+=== Tiến hóa ===
+Hệ sinh thái cũng có quá trình tiến hóa, từ bập thấp đến bậc cao, sinh vật tác động đến môi trường, môi trường thay đổi tác động trở lại sinh vật, giữa sinh vật và môi trường gắn bó với nhau.
+Quá trình tiến hóa: Hệ sinh thái trẻ → Hệ sinh thái già → Hệ sinh thái cao đỉnh
+Khi hệ sinh thái đạt tới đỉnh cao thì cân bằng sinh thái tự nhiên được thiết lập (cân bằng giữa sinh vật-môi trường, sinh vật sản xuất-sinh vật tiêu thụ, sinh vật ký sinh-sinh vật ký chủ, vật mồi-vật ăn thịt
+Con người là yếu tố rất quan trọng có thể tác động làm thay đổi hệ sinh thái.
+
+
+=== Sự chuyển hoá vật chất ===
+Chuỗi thức ăn: Là một dãy bao gồm nhiều loài sinh vật, mỗi loài là một mắt xích thức ăn, mỗi mắt xích thức ăn tiêu thụ mắt xích trước nó và lại bị mắt xích phía sau tiêu thụ.
+Trong một hệ sinh thái luôn xảy ra sự trao đổi vật chất và năng lượng trong nội bộ quần xã, giữa các quần xã với các thành phần bên ngoài của nó.
+Chuỗi thức ăn tổng quát có dạng: SVSX → SVTT bậc 1 → SVTT bậc 2 → SVTT bậc 3 →... → SV phân hủy.
+Lưới thức ăn: Tổng hợp những chuỗi thức ăn có quan hệ với nhau trong hệ sinh thái. Mỗi loài trong quần xã không chỉ liên hệ với một chuỗi thức ăn mà có thể liên hệ với nhiều chuỗi thức ăn.
+Bậc dinh dưỡng: Bao gồm những mắt xích thức ăn trong cùng một nhóm sắp xếp theo các thành phần của cùng một chuỗi thức ăn bao gồm SVSX, SVTT bậc 1, SVTT bậc 2,...
+Chu trình sinh-địa-hoá: Trong hệ sinh thái vật chất luôn vận chuyển, biến đổi trong các chu trình từ cơ thể sống vào trong môi trường và ngược lại. Chu trình này gọi là chu trình sinh-địa-hoá.
+Chu trình H2O: Nước tồn tại ở 3 dạng rắn-lỏng-hơi tuỳ vào nhiệt độ của môi trường. Nó chủ yếu ở biển và đại dương (chiếm 97,6%) và tồn tại ở thể rắn khoảng 1,7%. Nước hoà tan các chất, vận chuyển các chất, mang theo nhiều chất dinh dưỡng cho đời sống động thực vật. Nước từ bề mặt các ao, hồ, biển nhờ năng lượng ánh sáng mặt trời bốc hơi vào khí quyển, lên cao hơi nước gặp lạnh ngưng tụ lại rồi rơi xuống đất. Nó chu chuyển trên phạm vi toàn cầu tạo nên cân bằng nước và tham gia điều hoà khí hậu hành tinh.
+Chu trình C: Là thành phần cơ bản của protein, CxHx và nhiều phân tử cần thiết khác cho sự sống. Cacbon tồn tại trong tự nhiên dưới dạng CO2, CaCO3,... Thực vật hấp thụ CO2 trong quá trình quang hợp chuyển thành chất hữu cơ trong sinh vật sản xuất. Các vật chất này thường được dùng làm nguyên liệu hô hấp tế bào. Qua quá trình hô hấp và bài tiết C trở lại môi trường dưới dạng hợp chất vô cơ.
+Chu trình N: Nitơ là một nguyên tố quan trọng trong qua trình trao đổi chất của Hệ sinh thái, là thành phần cấu trúc không thể thiếu được của axit amin, enzim, hormone, axit nucleic, lưu giữ trạng thái di truyền cho cơ thể. Nitơ tồn tại trong không khí chiếm khoảng 79% dưới dạng N2. Phân tử này bền vững, thực vật không hấp thụ được. Để phá vỡ N2 và kết hợp với nguyên tố khác như O, H cần nhiệt độ và áp suất lớn. Nhờ một số hiện tượng tự nhiên như sấm chớp, các oxit nitơ được tạo thành từ N2 và O2 cùng với nước mưa rơi xuống làm giàu N cho Hệ sinh thái.
+Chu trình P: P là một trong những chất quan trọng bậc nhất trong hệ thống sinh học. Tỷ lệ phóspho so với các chất khác trong cơ thể thường lớn hơn tỷ lệ như thế bên ngoài mà cơ thể có thể kiếm được và nguồn của chúng. Do vậy phôt pho trở thành yếu tố sinh thái vừa mang tính giới hạn, vừa mang tính điều chỉnh.Thực vật đòi hỏi phôt pho vô cơ cho dinh dương. Đó là orthophophat. Trong chy trình khoáng điển hình, phósphat sẽ được chuyển cho sinh vật sử dụng và sau đó lại được giải phóng do quá trình phân hủy.
+
+
+=== Một số hệ sinh thái ===
+Thường gặp đó là:
+Hệ sinh thái nông nghiệp
+Hệ sinh thái rừng
+Hệ sinh thái biển
+Hệ sinh thái ao hồ
+Hệ sinh thái đồng cỏ tự nhiên
+Hệ sinh thái đô thị.
+
+
+== Đọc thêm ==
+Quần xã
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Hệ sinh thái nông nghiệp
+Dàn ý về môn sinh thái học
+Các hệ sinh thái và khu hệ sinh vật biển
+Các dự án GEF về các hệ sinh thái

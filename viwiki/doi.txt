@@ -1,0 +1,22 @@
+DOI (viết tắt từ digital object identifier trong tiếng Anh, có nghĩa là "số chứng minh vật thể") là một số chứng minh vĩnh cửu (permalink) cho một tập tin World Wide Web. Nếu địa chỉ mạng của tập tin thay đổi, người truy cập bằng DOI vẫn được đổi hướng tự động đến địa chỉ mới. Các nhà xuất bản cung cấp DOI đến một thư mục được quản lý tập trung và sử dụng địa chỉ thư mục này cộng với DOI thay cho địa chỉ mạng thông thường. Hệ thống DOI được hình thành bởi Hiệp hội các Nhà xuất bản Mỹ với sự cộng tác của Hãng Thúc đẩy Nghiên cứu Quốc gia của Hoa Kỳ (CNRI), và hiện nay được quản lý bởi Tổ chức DOI Quốc tế. Về mặt cơ bản, hệ thống DOI là một quy trình đổi hướng các trang mạng nhờ sự quản lý tập trung.
+Ban đầu, chỉ có một thư mục tập trung duy nhất được quản lý bởi Tổ chức DOI Quốc tế. Tuy nhiên, có ý tưởng cho rằng các thư mục khác có thể sẽ được tạo thêm và quản lý bởi các ngành công nghiệp lớn. Một DOI có thể được viết như sau:
+doi:10.1002/ISBNJ0-471-58064-3
+Ở đây, "10.1002" chỉ thư mục và phần đằng sau "/" là phần còn lại của DOI - trong trường hợp này, số ISBN của quyền sách đã được xuất bản. Số "-3" chỉ chương hoặc phần của quyển sách.
+Số DOI có thể được giải nghĩa khi nó nằm trong URL. Để liên kết đến tập tin trên mạng, có thể viết số DOI đằng sau địa chỉ URL dx.doi.org. Ví dụ:
+http://dx.doi.org/10.1000/182
+Địa chỉ "dx.doi.org" là thư mục quản lý duy nhất. Người truy cập vào địa chỉ trên sẽ vào thư mục quản lý, và nhận được URL của DOI, để đến URL này. Nếu thư mục quản lý luôn được cập nhật, cả người truy cập và người sở hữu tập tin đều luôn được đảm bảo DOI dẫn đến phiên bản mới nhất của tập tin.
+Các người dùng ban đầu của hệ thống DOI là các nhà xuất bản lớn, phải theo dõi hàng ngàn xuất bản phẩm, nhiều trong số đó có trên mạng. Thay đổi thư mục cho một số lượng lớn các tập tin khiến công việc thay đổi liên kết trên mạng và tạo ra các trang đổi hướng cho người dùng trở nên phức tạp. Với hệ thống DOI, mọi thay đổi chỉ cần cập nhật vào thư mục được quản lý tập trung và không ảnh hưởng đến liên kết trên mạng nếu các liên kết này dùng DOI.
+Hệ thống DOI ứng dụng công nghệ Handle System của Hãng Thúc đẩy Nghiên cứu Quốc gia (CNRI).
+
+
+== Xem thêm ==
+URL
+permalink
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Tổ chức DOI Quốc tế
+Tổ chức CrossRef

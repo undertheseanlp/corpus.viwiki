@@ -1,0 +1,7 @@
+Kinh tế học đô thị là một chuyên ngành kinh tế học ứng dụng từ kinh tế học vi mô có đối tượng nghiên cứu là các đô thị. Kinh tế học đô thị xem xét quan hệ không gian giữa cá nhân và tổ chức để tìm hiểu những động cơ kinh tế đằng sau việc thành lập, vận hành, và phát triển các đô thị. Môn này xem xét và phân tích kinh tế các vấn đề về giao thông đô thị, thị trường đất đai và nhà cửa, v.v...
+Môn kinh tế học đô thị chính thức được thành lập vào năm 1964 khi William Alonso giới thiệu mô hình về một đô thị hình đĩa với khu thương mại trung tâm và khu dân cư xung quanh. Tuy nhiên, do sự phát triển của các hình thức không gian đô thị trước những thay đổi về công nghệ, cách thức giao thông và vận tải, khuôn mẫu một trung tâm không còn giá trị phổ dụng nữa. Một số đề xuất về hướng phát triển đa trung tâm đã xuất hiện. Cùng với đó là những mô hình xem xét các nhân tố như tính thỏa dụng có được từ tiền thuê đất thấp hơn và những lợi ích gia tăng (hay không đổi) nhờ tính kinh tế của sáp nhập.
+
+
+== Tham khảo ==
+
+O'Sullivan, Arthur. "Urban Economics" 6th ed. 2007. McGraw-Hill. ISBN 0-07-298476-7.

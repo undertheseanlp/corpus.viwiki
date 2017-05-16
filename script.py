@@ -20,7 +20,7 @@ def crawl_page(title, recrawl=False):
         print(content)
         try:
             out_pages = p.links
-            page_queue.extend(out_pages)
+            extend_pages(out_pages)
         except:
             pass
         filename = "viwiki/%s.txt" % transform_page_name(original_title)
@@ -54,6 +54,11 @@ def crawl(recrawl=False, num_pages=20):
         print("\n%d / %d" % (i, num_pages))
         crawl_page(page, recrawl=recrawl)
 
+def extend_pages(pages):
+    global page_queue
+    global crawled_pages
+    pages = [page for page in pages if page not in list(crawled_pages) + page_queue]
+    page_queue = page_queue + pages
 
 def inject_pages(pages):
     global page_queue

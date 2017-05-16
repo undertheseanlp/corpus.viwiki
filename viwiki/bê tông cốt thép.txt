@@ -1,0 +1,109 @@
+Bê tông cốt thép (BTCT) là một loại vật liệu composite kết hợp bởi bê tông và thép, trong đó bê tông và thép cùng tham gia chịu lực.
+Sự kết hợp giữa bê tông và cốt thép xuất phát từ thực tế bê tông là loại vật liệu có cường độ chịu kéo thấp (chỉ bằng từ 1/20 đến 1/10 cường độc chịu nén của bê tông ), do đó hạn chế khả năng sử dụng của bê tông và gây nên lãng phí trong sử dụng vật liệu. Đặc điểm này được khắc phục bằng cách thêm vào trong bê tông những thanh 'cốt', thường làm từ thép, có cường độ chịu kéo cao hơn nhiều so với bê tông. 'Cốt' do đó thường được đặt tại những vùng chịu kéo của cấu kiện. Ngày nay 'cốt' có thể được làm từ những loại vật liệu khác ngoài thép như polyme, sợi thủy tinh, hay các vật liệu composite khác... Kết cấu xây dựng bằng cách sử dụng bê tông kết hợp với 'cốt' được gọi chung là 'kết cấu bê tông có cốt' ; kết cấu bê tông cốt thép, với 'cốt' là các thanh thép, là loại 'kết cấu bê tông có cốt' lâu đời và được sử dụng rộng rãi nhất trong xây dựng.
+BTCT là loại vật liệu xây dựng được sử dụng rộng rãi trong xây dựng dân dụng và xây dựng công trình giao thông. Trong hầu hết các công trình hiện nay, kết cấu BTCT đóng vai trò là kết cấu chịu lực chính cho cả công trình.
+
+
+== Lịch sử phát triển ==
+
+Từ thời La Mã cổ đại bê tông đã được sử dụng như một loại vật liệu xây dựng. Khi xi măng được phát minh vào những năm đầu thế kỷ 19 thì việc kết hợp giữa bê tông và xi măng đem lại hiệu quả cao và được sử dụng ngày một rộng rãi. François Coignet, nhà tư bản công nghiệp người Pháp, là người tiên phong trong việc phát triển kết cấu bê tông cốt thép và kết cấu bê tông đúc sẵn . Coignet là người đầu tiên sử dụng cốt sắt cho bê tông trong xây dựng các công trình nhà ở dân dụng . Năm 1853, Coignet cho xây dựng công trình đầu tiên sử dụng bê tông cốt sắt, một căn nhà 4 tầng ở số 72 phố Charles Michels, ngoại ô Paris . Tuy vậy, theo những mô tả của Coignet thì việc bổ sung cốt sắt vào bê tông không nhằm mục đích tăng cường độ bê tông mà nhằm giữ cho các bức tường bằng bê tông đứng thẳng và không bị lộn nhào . Sự kết hợp giữa bê tông và cốt thép của Coignet do đó vẫn chỉ mang tính chất tình cờ, chưa nhằm mục đích tăng cường độ chịu kéo cho kết cấu bê tông.
+Năm 1854, nhà thầu xây dựng người Anh là William B. Wilkinson đã cho gia cố mái và sàn bằng bê tông cốt thép cho một ngôi nhà hai tầng mà ông xây dựng. Dựa vào vị trí đặt cốt thép, ông đã chứng minh rằng, không giống như những người tiền nhiệm của mình, Wilkinson đã có những hiểu biết nhất định về việc sử dụng cốt thép để gia tăng khả năng chịu kéo trong kết cấu .
+Joseph Monier, một nhà làm vườn người Pháp, được biết đến như một trong những nhà phát minh chính của kết cấu bê tông cốt thép. Ông đã được cấp bằng sáng chế cho việc sử dụng lưới thép làm từ vỏ đạn cối để gia cố cho các chậu cây bằng bê tông. Năm 1877, Monier nhận thêm một bằng sáng chế cho việc sử dụng lưới thép để gia cố cho các cột và dầm cầu bê tông. Mặc dù Monier chắc chắn rằng kết hợp bê tông và cốt thép sẽ gia tăng cường độ cho kết cấu, nhưng rất ít người có thể khẳng định liệu Monier có thực sự hiểu về khả năng gia tăng cường độ chịu kéo của cốt thép trong kết cấu bê tông hay không .
+Có thể thấy, từ thời La Mã cổ đại cho tới cuối những năm cuối thể kỷ 19, mặc dù bê tông và bê tông cốt thép đã được sử dụng như một loại vật liệu xây dựng nhưng chưa có bất kỳ một nghiên cứu nào chứng minh được sự kết hợp hiệu quả giữa bê tông và cốt thép dưới góc nhìn khoa học, công nghệ. Nhà sáng chế người Mỹ Thaddeus Hyatt là người đầu tiên công bố một báo cáo mang tên "Đánh giá về một vài thực nghiệm liên quan tới vật liệu xây dựng kết hợp giữa bê tông-xi măng Portland và cốt sắt, có xem xét tới khả năng tiết kiệm vật liệu trong xây dựng và khả năng phòng cháy đối với kết cấu mái, sàn và hành lang", trong đó ứng xử của kết cấu bê tông cốt thép đã được đưa ra nghiên cứu và đánh giá thông qua thực nghiệm. Nghiên cứu này của Hyatt đóng một vai trò cực kỳ quan trọng cho sự phát triển kết cấu bê tông sử dụng trong xây dựng, khi lần đầu tiên nó được xem xét và chứng minh sự hiệu quả dưới góc độ khoa học, công nghệ. Nếu không có nghiên cứu này, rất nhiều những thử nghiệm và sai sót trong thực tế có thể sẽ xảy ra trong đà phát triển của kết cấu bê tông cốt thép .
+Kỹ sư người Đức Mathias Koennen là người đầu tiên đề xuất đưa cốt thép vào vùng bê tông chịu kéo để tăng khả năng chịu kéo cho toàn bộ kết cấu. Năm 1886 ông đã công bố các bản thảo đầu tiên về lý thuyết và tiêu chuẩn thiết kế cho kết cấu bê tông cốt thép . Một kỹ sư người Đức khác là G. A. Wayss là một trong những người tiên phong trong việc ứng dụng kết cấu bê tông cốt thép vào thực tế sản xuất. Wayss mua bản quyền sáng chế của Monier vào năm 1879 và bắt đầu thương mại hóa vào năm 1984 khi thành lập công ty "Wayss & Freytag". Trong những năm 1890, dựa trên sáng chế của Monier, Wayss và công ty của mình đã có nhiều đóng góp to lớn trong việc phát triển khả năng gia cường của cốt thép trong bê tông .
+Lịch sử phát triển của kết cấu bê tông cốt thép cuối thế kỷ 19 còn ghi nhận thêm đóng góp của kỹ sư người Anh Ernest L. Ransome. Sử dụng những kiến thức thu thập được về sự phát triển của bê tông cốt thép trong 50 năm trước đó, Ransome đã cải tiến bằng cách sử dụng những thanh cốt thép xoắn để gia tăng khả năng dính bám giữa thép và bê tông . Sự hiểu quả từ những tòa nhà xây dựng bằng cách sử dụng cải tiến này đã nâng cao tên tuổi Ransome và giúp ông giành được hợp đồng xây dựng hai trong số những cây cầu bê tông cốt thép đầu tiên tại Bắc Mỹ . Kết cấu bê tông cốt thép cũng được sử dụng cho một trong những tòa nhà chọc trời đầu tiên của thế giới, tòa nhà Ingalls cao 16 tầng tại Cincinnati, xây dựng vào năm 1904 .
+Từ năm 1897, kết cấu bê tông cốt thép trở thành một phần trong chương trình giảng dạy tại trường École des Ponts et Chaussées, Pháp. Một trong những kỹ sư xây dựng tốt nghiệp chương trình này là Eugène Freyssinet, cha đẻ của bê tông dự ứng lực vào năm 1929. Những năm về sau lĩnh vực bê tông cốt thép đã đạt được nhiều tiến bộ và phát triển vượt bậc trên thế giới, dẫn đến việc thành lập "Hiệp hội bê tông Đức" vào năm 1910, sau đó là "Hiệp hội bê tông Áo" và các "Viện nghiên cứu bê tông Anh", "Viện nghiên cứu bê tông Mỹ" cũng như các tổ chức quốc tế như "Liên đoàn bê tông dự ứng lực quốc tế" (FIP) hay "Ủy ban Bê tông châu Âu" (CEB). Những tổ chức này đã góp phần quan trọng trong việc phát triển và ứng dụng kết cấu bê tông cốt thép trong ngành xây dựng. Hiện nay kết cấu bê tông cốt thép là loại kết cấu được sử dụng phổ biến nhất trong lĩnh vực xây dựng .
+
+
+== Đặc điểm ==
+
+Trong các điều kiện thông thường, sự kết hợp giữa bê tông và cốt thép mang lại hiệu quả tốt nhờ vào những đặc điểm sau :
+Lực dính bám giữa bê tông và cốt thép: lực này hình thành trong quá trình đông cứng của bê tông và giúp cốt thép không bị tuột khỏi bê tông trong quá trình chịu lực.
+Giữa bê tông và thép không có phản ứng hóa học làm ảnh hưởng đến từng loại vật liệu, ngoài ra do cốt thép đặt bên trong bê tông nên còn được bê tông bảo vệ khỏi ăn mòn do tác động môi trường.
+Bê tông và thép có hệ số giãn nở nhiệt xấp xỉ nhau: 
+  
+    
+      
+        1
+        ,
+        0
+        ×
+        
+          10
+          
+            −
+          
+        
+        5
+        ∼
+        1
+        ,
+        5
+        ×
+        
+          10
+          
+            −
+          
+        
+        5
+      
+    
+    {\displaystyle 1,0\times 10^{-}5\sim 1,5\times 10^{-}5}
+   với bê tông và 
+  
+    
+      
+        1
+        ,
+        2
+        ×
+        
+          10
+          
+            −
+          
+        
+        5
+      
+    
+    {\displaystyle 1,2\times 10^{-}5}
+   với thép. Do đó phạm vi biến đổi nhiệt độ thông thường (dưới 100 °C) không làm ảnh hưởng tới sự kết hợp bên trong giữa bê tông và cốt thép.
+Do bê tông có khả năng chịu nén tốt và cốt thép được đưa vào trong bê tông để khắc phục khả năng chịu kéo kém của bê tông nên về cơ bản trong cấu kiện bê tông cốt thép thì cốt thép sẽ chịu ứng suất kéo còn bê tông chịu ứng suất nén.
+
+
+=== Ưu điểm ===
+Kết cấu bê tông cốt thép (cũng như kết cấu bê tông) được sử dụng rộng rãi nhờ những ưu điểm sau :
+Giá thành thấp: bê tông được chế tạo chủ yếu từ các vật liệu sẵn có như đá, sỏi, cát... Các vật liệu khác như xi măng, thép đắt tiền hơn nhưng chỉ chiếm tỷ trọng khoảng 1/6 đến 1/5 tổng khối lượng.
+Khả năng chịu lực lớn: khả năng chịu lực của bê tông cốt thép lớn hơn rất nhiều so với các dạng vật liệu khác như gạch, đá, gỗ... Hơn nữa, khác với các loại vật liệu xây dựng có nguồn gốc tự nhiên, bê tông cốt thép là vật liệu nhân tạo nên thông qua việc chế tạo có thể lựa chọn các tính năng mong muốn.
+Độ bền cao: bê tông là một loại đá do đó có khả năng chịu ăn mòn, xâm thực từ môi trường cao hơn các vật liệu như thép, gỗ... Chi phí bảo dưỡng do đó cũng thấp hơn.
+Khả năng tạo hình khối dễ dàng: trước khi đông cứng thì bê tông ở dạng hỗn hợp lỏng và dẻo nên có khả năng tạo các hình khối phù hợp yêu cầu kiến trúc nhờ vào hệ thống ván khuôn.
+Khả năng chống cháy tốt: trong ngưỡng dưới 400 °C thì cường độ của bê tông không bị suy giảm đáng kể, hệ số dẫn nhiệt của bê tông cũng thấp nên giúp bảo vệ cốt thép ở nhiệt độ cao.
+Khả năng hấp thụ năng lượng tốt: các kết cấu làm bằng bê tông cốt thép thường có khối lượng lớn nên có khả năng hấp thụ lực xung kích tốt.
+
+
+=== Nhược điểm ===
+Nặng nề: các kết cấu xây dựng làm từ bê tông cốt thép thường có nhịp tương đối nhỏ, chi phí xây dựng nền móng cao. Nhược điểm này hiện được khắc phục đáng kể bằng việc sử dụng kết cấu bê tông dự ứng lực hoặc kết cấu bê tông cường độ cao kết hợp với các giải pháp xây dựng hợp lý.
+Thời gian thi công lâu: bê tông cần thời gian để đông cứng, trong thời gian này chất lượng bê tông chịu nhiều ảnh hưởng của thời tiết, môi trường... Nhược điểm này có thể khắc phục bằng cách sử dụng bê tông đúc sẵn lắp ghép hoặc bán lắp ghép.
+Khả năng tái sử dụng thấp: việc tháo dỡ, vận chuyển và tái sử dụng bê tông sau khi sử dụng rất tốn kém và tiêu hao nhiều công sức.
+Chi phí cho hệ thống ván khuôn.
+
+
+== Sử dụng trong xây dựng ==
+
+Kết cấu bê tông cốt thép được sử dụng trong hầu hết các lĩnh vực xây dựng dân dụng và xây dựng công trình giao thông như nhà ở, cầu, đường, nhà xưởng công nghiệp, sân bay, thủy lợi... Tại Việt Nam, theo các thống kê chưa đầy đủ các công trình xây dựng từ kết cấu bê tông cốt thép chiếm 70% tổng số công trình xây dựng .
+Một số dạng kết cấu bê tông điển hình:
+Nhà cao tầng: là dạng công trình phổ biến nhất sử dụng kết cấu bê tông cốt thép. Độ cứng lớn của bê tông cốt thép cho phép rất thích hợp khi chịu tải trọng ngang như gió.
+Cầu: nhờ những ưu điểm về tuổi thọ, khả năng chống ăn mòn cao nên bê tông cốt thép được sử dụng rất phổ biến trong xây dựng cầu, do các công trình cầu phải chịu ảnh nhiều tác động và ảnh hưởng của môi trường hơn công trình nhà.
+Kết cấu bể chứa: dùng để chứa các loại chất lỏng, dung dịch như bể nước, silo chứa dầu...
+
+
+== Ứng xử của kết cấu bê tông cốt thép ==
+
+
+=== Sự dính bám giữa bê tông và cốt thép ===
+
+
+=== Ảnh hưởng của vết nứt ===
+
+
+== Tham khảo ==

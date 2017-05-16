@@ -1,0 +1,431 @@
+Năm 1831, Michael Faraday đã chứng tỏ bằng thực nghiệm rằng từ trường có thể sinh ra dòng điện. Thực vậy, khi cho từ thông gửi qua một mạch kín thay đổi thì trong mạch xuất hiện một dòng điện. Dòng điện đó được gọi là dòng điện cảm ứng. Hiện tượng đó được gọi là hiện tượng cảm ứng điện từ.
+
+
+== Các định luật về hiện tượng cảm ứng điện từ ==
+
+
+=== Thí nghiệm Faraday ===
+
+Lấy một cuộn dây và mắc nối tiếp nó với một điện kế G thành một mạch kín (hình a). Phía trên ống dây đặt một thanh nam châm 2 cực SN. Thí nghiệm cho thấy:
+Nếu rút thanh nam châm ra, dòng điện cảm ứng có chiều ngược lại (hình b)
+Di chuyển thanh nam châm càng nhanh, cường độ dòng điện cảm ứng Ic càng lớn.
+Giữ thanh nam châm đứng yên so với ống dây, dòng điện cảm ứng sẽ bằng không.
+Nếu thay nam châm bằng một ống dây có dòng điện chạy qua, rồi tiến hành các thí nghiệm như trên, ta cũng có những kết quả tương tự.
+Từ các thí nghiệm đó, Faraday đã rút ra những kết luận sau đây:
+
+Từ thông gửi qua mạch kín biến đổi theo thời gian là nguyên nhân sinh ra dòng điện cảm ứng trong mạch đó.
+Dòng điện cảm ứng chỉ tồn tại trong thời gian từ thông gửi qua mạch kín biến đổi.
+Cường độ dòng điện cảm ứng tỉ lệ thuận với tốc độ biến đổi của từ thông.
+Chiều của dòng điện cảm ứng phụ thuộc vào sự tăng hay giảm của từ thông gửi qua mạch (vì trên hình 15a và 15b ta thấy từ thông ở hai đầu nam châm bao giờ cũng lớn hơn ở vị trí giữa của nam châm).
+
+
+=== Ðịnh luật Lenz ===
+
+Ðồng thời với Michael Faraday, Heinrich Lenz cũng nghiên cứu hiện tượng cảm ứng điện từ và đã tìm ra định luật tổng quát giúp ta xác định chiều của dòng điện cảm ứng, gọi là định luật Lenz. Nội dung định luật như sau
+Dòng điện cảm ứng phải có chiều sao cho từ trường do nó sinh ra có tác dụng chống lại nguyên nhân sinh ra nó
+Ðiều này có nghĩa là khi từ thông qua mạch tăng lên, từ trường cảm ứng sinh ra có tác dụng chống lại sự tăng của từ thông: từ trường cảm ứng sẽ ngược chiều với từ trường ngoài. Nếu từ thông qua mạch giảm, từ trường cảm ứng (do dòng điện cảm ứng sinh ra nó) có tác dụng chống lại sự giảm của từ thông, lúc đó từ trường cảm ứng sẽ cùng chiều với từ trường ngoài.
+Dưới đây, ta hãy vận dụng định luật đó để xác định chiều của dòng điện cảm ứng trong trường hợp ở trên (hình a), Cực Bắc của thanh nam châm di chuyển vào trong lòng ống dây làm cho từ thông (gửi qua ống dây tăng lên. Theo định luật Lenz, dòng điện cảm ứng phải sinh ra từ trường ngược chiều với từ trường của thanh nam châm để từ thông Fc sinh ra có tác dụng làm giảm sự tăng của là nguyên nhân sinh ra nó. Muốn vậy dòng điện cảm ứng phải có chiều như trên hình vẽ.
+Bằng lý luận ta nhận thấy nếu dịch chuyển cực Bắc của thanh nam châm ra xa ống dây, dòng điện cảm ứng xuất hiện trong mạch sẽ có chiều ngược với chiều của dòng điện cảm ứng trong trường hợp trên (Hình 15.1b).
+Như vậy, theo định luật Lenz, dòng điện cảm ứng bao giờ cũng có tác dụng chống lại sự dịch chuyển của thanh nam châm. Do đó, để dịch chuyển thanh nam châm, ta phải tốn công. Chính công mà ta tốn được biến thành điện năng của dòng điện cảm ứng.
+
+
+=== Ðịnh luật cơ bản của hiện tượng cảm ứng điện từ ===
+"Suất điện động cảm ứng luôn luôn bằng về trị số, nhưng trái dấu với tốc độ biến thiên của từ thông gửi qua diện tích của mạch điện."
+Suất điện động cảm ứng là suất điện điện sinh ra do hiện tượng cảm ứng điện từ.
+
+Để tìm biểu thức của Suất điện động cảm ứng, ta dịch chuyển một vòng dây dẫn kín (C) trong từ trường để từ thông gửi qua vòng dây thay đổi (hình). Khi đó công của lực từ tác dụng lên dòng điện cảm ứng có giá trị:
+
+  
+    
+      
+        d
+        A
+        =
+        
+          I
+          
+            c
+          
+        
+        .
+        d
+        
+          
+            ϕ
+            
+              m
+            
+          
+        
+        
+      
+    
+    {\displaystyle dA=I_{c}.d{\phi _{m}}\,}
+  
+Theo định luật Lenx, công của từ lực tác dụng lên dòng điện cảm ứng là công cản có giá trị:
+
+  
+    
+      
+        d
+        
+          A
+          ′
+        
+        =
+        −
+        
+          I
+          
+            c
+          
+        
+        .
+        d
+        
+          
+            ϕ
+            
+              m
+            
+          
+        
+        
+      
+    
+    {\displaystyle dA'=-I_{c}.d{\phi _{m}}\,}
+  
+Công 
+  
+    
+      
+        d
+        
+          A
+          ′
+        
+        
+      
+    
+    {\displaystyle dA'\,}
+   này được chuyển thành năng lượng của dòng cảm ứng có giá trị:
+
+  
+    
+      
+        
+          ξ
+          
+            c
+          
+        
+        .
+        
+          I
+          
+            c
+          
+        
+        .
+        d
+        t
+        =
+        −
+        
+          I
+          
+            c
+          
+        
+        .
+        d
+        
+          
+            ϕ
+            
+              m
+            
+          
+        
+        
+      
+    
+    {\displaystyle \xi _{c}.I_{c}.dt=-I_{c}.d{\phi _{m}}\,}
+  
+Từ đó ta suy ra:
+
+  
+    
+      
+        
+          ξ
+          
+            c
+          
+        
+        =
+        −
+        
+          
+            
+              d
+              
+                
+                  ϕ
+                  
+                    m
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        
+      
+    
+    {\displaystyle \xi _{c}=-{d{\phi _{m}} \over dt}\,}
+  
+Đó là biểu thức của suất điện động mà ta phải tìm.
+
+
+== Ứng dụng của hiện tượng cảm ứng điện từ ==
+Một ứng dụng quan trọng của hiện tượng cảm ứng điện từ là tạo ra dòng điện xoay chiều. Thực chất của quá trình này là biến đổi cơ năng thành điện năng.
+
+Xét một khung dây dẫn gồm nhiều vòng quay trong một từ trường đều (
+  
+    
+      
+        
+          
+            
+              B
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                c
+                o
+                n
+                s
+                t
+              
+              →
+            
+          
+        
+        
+      
+    
+    {\displaystyle {\vec {B}}={\vec {const}}\,}
+  ) với vận tốc góc không đổi (
+  
+    
+      
+        ω
+        =
+        c
+        o
+        n
+        s
+        t
+        
+      
+    
+    {\displaystyle \omega =const\,}
+  ). Ta sẽ phải tốn một công để làm quay khung và nhận được điện năng của dòng điện cảm ứng chạy trong khung đó. Để dẫn được dòng điện ra ngoài, ta nối 2 đầu dây của khung với 2 hình trụ dẫn cách điện với nhau và cùng gắn với trục quay khung, sau đó dùng 2 chổi than tì vào 2 hình trụ đó để nối khung dây với mạch tiêu thụ ngoài.
+Giả sử ban đầu (
+  
+    
+      
+        t
+        =
+        0
+        
+      
+    
+    {\displaystyle t=0\,}
+  ) pháp tuyến 
+  
+    
+      
+        
+          
+            
+              n
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {n}}}
+   của mặt khung tạo với 
+  
+    
+      
+        
+          
+            
+              B
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {B}}}
+   một góc 
+  
+    
+      
+        a
+        
+      
+    
+    {\displaystyle a\,}
+  . Như vậy sau thời gian 
+  
+    
+      
+        t
+        
+      
+    
+    {\displaystyle t\,}
+  , góc đó thay đổi thành 
+  
+    
+      
+        φ
+        =
+        ω
+        t
+        +
+        a
+        
+      
+    
+    {\displaystyle \varphi =\omega t+a\,}
+  . Khi đó từ thông gửi qua khung là:
+
+  
+    
+      
+        
+          ϕ
+          
+            m
+          
+        
+        =
+        n
+        B
+        S
+        cos
+        ⁡
+        (
+        
+          ω
+          t
+          +
+          a
+        
+        )
+        
+      
+    
+    {\displaystyle \phi _{m}=nBS\cos({\omega t+a})\,}
+  
+Trong đó 
+  
+    
+      
+        n
+        
+      
+    
+    {\displaystyle n\,}
+   là tổng số vòng dây của khung, 
+  
+    
+      
+        S
+        
+      
+    
+    {\displaystyle S\,}
+   là diện tích khung
+Suất điện động cảm ứng xuất hiện trong khung theo định luật cơ bản của hiện tượng cảm ứng điện từ là:
+
+  
+    
+      
+        
+          ξ
+          
+            c
+          
+        
+        =
+        
+          ξ
+          
+            c
+            m
+            a
+            x
+          
+        
+        sin
+        ⁡
+        (
+        
+          ω
+          t
+          +
+          a
+        
+        )
+        
+      
+    
+    {\displaystyle \xi _{c}=\xi _{cmax}\sin({\omega t+a})\,}
+  
+Vậy khi cho khung quay đều trong từ trường đều, ta được một suất điện động xoay chiều hình sin, có chu kì là chu kì quay của khung:
+
+  
+    
+      
+        T
+        =
+        
+          
+            
+              2
+              π
+               
+            
+            ω
+          
+        
+        
+      
+    
+    {\displaystyle T={2\pi \  \over \omega }\,}
+  
+
+
+== Xem thêm ==
+Định luật cảm ứng Faraday
+
+
+== Tham khảo ==

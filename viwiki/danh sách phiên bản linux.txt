@@ -1,0 +1,156 @@
+Dưới đây là danh sách các bản phân phối Linux.
+
+
+== A ==
+Arch Linux
+Asianux
+AndLinux
+Android
+
+
+== B ==
+BeatrIX
+Bonzai Linux
+
+
+== C ==
+Canaima OS
+CMC linux
+Cent OS
+Chrome OS
+
+
+== D ==
+Damn Small Linux
+Damn Vulnerable Linux
+Debian
+
+
+== E ==
+Easys
+Edubuntu
+
+
+== F ==
+Fedora Core
+Flash Linux
+
+
+== G ==
+Gentoo Linux
+Gnoppix
+Chrome OS
+Fenix Vietnam
+
+
+== H ==
+Hồng kỳ Linux
+HáCảo Linux của Việt Nam
+
+
+== I ==
+iPodLinux
+
+
+== J ==
+Java Desktop System
+
+
+== K ==
+Knoppix
+Kubuntu
+
+
+== L ==
+Linspire
+Linux XP
+LXDE
+Linux Mint
+
+
+== M ==
+Mandriva Linux
+MCNLive
+
+
+== N ==
+NUbuntu
+NepaLinux
+NovaOS
+
+
+== O ==
+Onebase Linux
+Open Wall Linux
+OpenWrt
+
+
+== P ==
+Puppy Linux
+PCLinuxOS
+
+
+== Q ==
+QiLinux
+
+
+== R ==
+Red Hat Linux
+Red Hat Enterprise Linux
+Red Star OS
+
+
+== S ==
+SLAX
+Slitaz GNU/Linux
+SUSE Linux
+SteamOS
+Sailfish OS
+
+
+== T ==
+Teendows Linux
+Tinfoil Hat Linux
+Tiny Core Linux
+Trustix
+Tuga
+Turbo Linux
+
+
+== U ==
+Ubuntu
+Ubuntu MATE
+Ubuntu Touch
+Ubuntu Kylin
+
+Ultimate Edition
+
+
+== V ==
+Vacarm Linux
+Vector Linux
+Vietkey Linux
+VnlinuxEDU
+
+
+== W ==
+
+
+== X ==
+Xandros
+
+
+== Y ==
+Yellow Dog
+YOPER
+
+
+== Z ==
+
+
+== Xem thêm ==
+Linux
+Hệ điều hành
+
+
+== Tham khảo ==

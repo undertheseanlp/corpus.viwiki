@@ -1,0 +1,30 @@
+Samsung GT-i8510 (còn được gọi là i8510 hoặc INNOV8) là điện thoại thông minh sản xuất bởi Samsung. Chức năng của i8510 bao gồm một số của máy ảnh và máy nghe nhạc di động. Ngoài việc cung cấp e-mail, trình duyệt web, kết nối Wi-Fi và tin nhắn văn bản, i8510 sử dụng Symbian OS v9.3, S60 nền tảng thứ ba với Feature Pack 2. Điện thoại gồm bản 8 GB hoặc 16 GB bộ nhớ trong và khe thẻ nhớ MicroSDHC hỗ trở thẻ lên đến 32 GB.
+
+
+== Tính năng ==
+Samsung GT-i8510 có máy ảnh 8-megapixel, LED kép, Schneider-Kreuznach optics, 9x zoom kỹ thuật số, ổn định hình ảnh, auto-panorama shot, nhận diện khuôn mặt, nụ cười và ánh mắt, quay video VGA với 30 khung/giây và QVGA 120 khung/giây (sử dụng chế độ slow-motion).
+
+
+=== Tính năng khác ===
+Built-in GPS receiver
+A-GPS function
+3D Graphics PowerVR MBX Lite OpenGL ES 1.1
+Business card scanner
+DivX/H.263 / H.264 / WMV / MP4 player
+MP3 / eAAC+ / WMA / AMR / RealAudio player
+3.5 mm audio jack
+TV out functionality
+Java MIDP 2.1
+FM radio with RDS
+Organizer
+Built-in handsfree,
+Voice memo/dia
+Hỗ trợ DLNA
+
+
+== Liên kết ==
+Review: http://www.gsmarena.com/samsung_i8510_innov8-review-302.php
+Samsung innov8 Review Samsung innov8 Review
+
+
+== Ghi chú ==

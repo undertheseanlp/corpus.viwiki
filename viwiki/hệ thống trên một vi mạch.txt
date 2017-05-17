@@ -1,0 +1,22 @@
+Hệ thống trên một vi mạch hay có thể gọi "hệ thống trên chip", (trong tiếng Anh gọi là system-on-a-chip, viết tắt là SoC hay SOC) là một hệ thống điện tử được xây dựng trên một đế silicon với ý tưởng ban đầu là tích hợp tất cả các thành phần của một hệ thống máy tính lên trên một vi mạch đơn (hay còn gọi là một chip đơn). Hệ thống SoC này có thể bao gồm các khối chức năng số, tương tự, tín hiệu kết hợp (mixed-signal) và cả các khối tần số radio (RF). Ứng dụng điển hình của các hệ thống trên một vi mạch là các hệ thống nhúng.
+Hệ thống trên một vi mạch đôi khi còn được gọi là hệ thống đơn chip hay hệ thống "sốc" (SoC).
+Một hệ thống máy tính điển hình bao gồm một loạt các mạch tích hợp cho phép thực hiện các nhiệm vụ khác nhau. Các mạch tích hợp này có thể là:
+bộ vi xử lý (microprocessor)
+bộ nhớ (RAM, ROM)
+khối truyền thông nối tiếp UART
+các cổng song song (parallel port)
+khối điều khiển truy xuất bộ nhớ trực tiếp (DMA controller)
+Sự phát triển gần đây của công nghệ bán dẫn cho phép chúng ta tích hợp ngày càng nhiều thành phần vào một hệ thống trên một vi mạch. SoC có thể tích hợp thêm các khối như: bộ xử lý tín hiệu số, bộ mã hóa, giải mã Viterbi, Turbo,... tùy theo yêu cầu của từng ứng dụng cụ thể.
+Công nghệ thiết kế và xây dựng các hệ thống trên một vi mạch (SoC) có thể kể đến như:
+Công nghệ chế tạo ASIC
+FPGA
+Các thiết kế SoC thường tiêu tốn ít năng lượng và có giá thành thấp hơn các hệ thống đa chip nếu so sánh cùng một thiết kế. Ngoài ra, hệ thống đơn chip cũng có tính ổn định cao hơn. Các ứng dụng xây dựng trên cơ sở sử dụng các hệ thống đơn chip cũng cho giá thành thấp hơn, không gian chiếm chỗ ít hơn.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+TDK electric power meter IC- a typical mixed-signal system on chip
+SOCC Annual IEEE International SOC Conference
+MIPS-based SoCs at linux-mips.org

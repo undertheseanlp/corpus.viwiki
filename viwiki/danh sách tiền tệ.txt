@@ -1,0 +1,798 @@
+Danh sách này bao gồm tất cả các loại tiền tệ, ở hiện tại cũng như trong quá khứ. Tên địa phương của tiền tệ được sử dụng trong danh sách này kèm theo tên nước hoặc tên vùng lãnh thổ.
+Để xem danh sách tiền tệ theo quốc gia, xem Danh sách các loại tiền tệ đang lưu hành.
+Để xem danh sách tiền tệ thay thế, xem Alternative currency (Danh sách tiền tệ thay thế).
+Để xem danh sách tiền điện tử, xem Danh sách các loại tiền điện tử.
+Để xem danh sách tiền tệ cổ, xem Danh sách các loại tiền tệ cổ.
+Để xem danh sách tiền tệ giả định, xem Danh sách các loại tiền tệ giả định.
+
+
+== A ==
+Afghani - Afghanistan
+Akşa - Tuva
+Angolar - Angola
+Argentino - Argentina
+Ariary - Madagascar
+Austral - Argentina
+Auksinas - Litva
+
+
+== B ==
+Baht - Thái Lan
+Balboa - Panama (dùng tiền giấy là đô la Mỹ)
+Birr - Ethiopia
+Bitcoin - Dùng để thanh toán qua mạng.
+Bolívar - Venezuela
+Boliviano - Bolivia
+Budju - Algérie
+
+
+== C ==
+Cedi - Ghana
+Chervonets - Nga
+Colón
+Colón Costa Rica - Costa Rica
+Colón Salvador - El Salvador
+
+Conventionsthaler - Đế quốc La Mã Thần thánh
+Córdoba - Nicaragua
+Cruzado Bồ Đào Nha - Bồ Đào Nhal
+Cruzado Brazil - Brazil
+Cruzeiro Brazil - Brazil
+Cruzeiro Real - Brazil
+
+Cupon - Moldova
+Chinese customs gold unit - Trung Hoa Dân Quốc
+
+
+== D ==
+Dalasi - Gambia
+Daler - Danish West Indies
+Denar - Cộng hòa Macedonia
+Denier - Pháp
+Dime
+Dime (Canada) - Canada
+Dime (Hoa Kỳ) - Hoa Kỳ
+
+Dinar (دينار)
+Dinar Algeri - Algérie
+Dinar Bahrain - Bahrain
+Dinar Bosnia and Herzegovina - Bosnia và Herzegovina
+Dinar Croatia - Croatia
+Dinar Iraq - Iraq
+Dinar Jordani - Jordan, Vùng lãnh thổ Palestin
+Dinar Kelantan - Kelantan
+Dinar Krajina - Krajina
+Dinar Kuwait - Kuwait
+Dinar Libya - Libya
+Republika Srpska dinar - Cộng hòa Srpska
+Dinar Serbia - Serbia
+Dinar Nam Yemen - Nam Yemen
+Dinar Sudan - Sudan
+Swiss dinar - Iraq
+Dinar Tunisia - Tunisia
+Dinar Nam Tư - Nam Tư
+
+Diner - Andorra (Chỉ để lưu niệm)
+Dinero Tây Ban Nha - Tây Ban Nha
+Dinheiro Bồ Đào Nha - Bồ Đào Nha
+Dirham (درهم)
+Dirham Morocco - Maroc
+Dirham Các Tiểu vương quốc Ả Rập thống nhất - Các Tiểu vương quốc Ả Rập Thống nhất
+
+Dobra - São Tomé và Príncipe
+Dollar
+Đô la Antigua - Antigua
+Đô la Úc - Úc, Kiribati, Nauru và Tuvalu
+Đô la Bahamas - Bahamas
+Đô la Barbados - Barbados
+Đô la Belize - Belize
+Đô la Bermuda - Bermuda
+Đô la British Columbia - British Columbia
+Đô la British North Borneo - British North Borneo
+British West Indies dollar - British West Indies
+Đô la Brunei - Brunei
+Canadian dollar - Canada
+Cayman Islands dollar - Quần đảo Cayman
+Đô la lục địa - Colonial America
+Đô la Quần đảo Cook - Cook Islands
+Đô la Dominica - Dominica
+Đô la Đông Caribbe - Anguilla, Antigua and Barbuda, Dominica, Grenada, Montserrat, Saint Kitts và Nevis, Saint Lucia, Saint Vincent và Grenadines
+Đô la Fiji - Fiji
+Đô la Grenada - Grenada
+Đô la Guyana - Guyana
+Đô la Hawaii - Hawaii
+Đô la Hồng Kông - Hong Kong
+Đô la quốc tế - Tiền dự định, tỷ lệ 1:1 vớiĐô la Mỹ
+Đô la Jamaica - Jamaica
+Kiautschou dollar - Qingdao
+Đô la Kiribati - Kiribati
+Đô la Liberia - Liberia
+Đô la Malaya và Borneo thuộc Anh - Malaya, Singapore, Sarawak, British North Borneo và Brunei
+Đô la Malaya - Brunei, Malaysia và Singapore
+Mauritian dollar - Mauritius
+Đô la Mông Cổ - Mông Cổ
+Đô la Namibia - Namibia
+Đô la Nevis - Nevis
+New Brunswick dollar - New Brunswick
+Đô la New Zealand - New Zealand, Cook Islands, Niue, Tokelau, Pitcairn Islands.
+Newfoundland dollar - Newfoundland
+Nova Scotian dollar - Nova Scotia
+Prince Edward Island dollar - Prince Edward Island
+Penang dollar - Penang
+Đô la Puerto Rico - Puerto Rico
+Đô la Rhodesia - Rhodesia
+Đô la Saint Kitts - Saint Kitts
+Đô la Saint Lucia - Saint Lucia
+Đô la Saint Vincent - Saint Vincent
+Đô la Sarawak - Sarawak
+Đô la Sierra Leone - Sierra Leone
+Đô la Singapore - Singapore
+Quần đảo Solomon dollar - Quần đảo Solomon
+Straits dollar - Brunei, Malaysia và Singapore
+Đô la Sumatra - Sumatra
+Đô la Suriname - Suriname
+Old Taiwan dollar - Taiwan
+New Taiwan dollar - Taiwan
+Texan dollar - Republic of Texas
+Đô la Tobago - Tobago
+Đô la Trinidad - Trinidad
+Đô la Trinidad và Tobago - Trinidad và Tobago
+Đô la Tuvalu - Tuvalu (không phải là hối đoái độc lập, lệ thuộc vào tiền Australian dollar)
+Đô la Mỹ - Hoa Kỳ; cũng được dùng chính thức tại 7 nước khác: Lãnh thổ Ấn Độ Dương thuộc Anh (được chấp nhận), Đông Timor (có tiền riêng centavo coins), Ecuador (tiền riêng centavo coins), El Salvador, Quần đảo Marshall, Liên bang Micronesia, Palau và Panama (tiền riêng balboa)
+Đô la Zimbabwe - Zimbabwe
+
+Đồng
+Đồng (tiền Việt Nam Dân chủ Cộng hòa) - Việt Nam dân chủ cộng hòa
+Đồng (tiền Việt Nam Cộng hòa) - Việt Nam Cộng hòa
+Đồng Việt Nam - Việt Nam
+
+Drachma - Hy Lạp
+Dram (Դրամ) - Armenia
+
+
+== E ==
+Ekwele (Ekuele) - Equatorial Guinea
+Xem thêm: Scudo (bên dưới)
+Escudo
+Escudo Angola - Angola
+Cabo Verde Escudo - Cabo Verde
+Escudo Chile - Chile
+Escudo Mozambique - Mozambique
+Escudo Bồ Đào Nha - Bồ Đào Nha
+Escudo Guinea thuộc Bồ Đào Nha - Guinea Bissau
+Portuguese Indian escudo - Portuguese India
+Escudo Đông Timor thuộc Bồ Đào Nha - Đông Timor
+São Tomé and Príncipe escudo - São Tomé và Príncipe
+Spanish escudo - Tây Ban Nha
+
+Euro (Eυρώ, Евро) - Áo, Bỉ, Cộng hòa Síp, Estonia, Phần Lan, Pháp, Đức, Hy Lạp, Ireland, Ý, Luxembourg, Malta, Hà Lan, Bồ Đào Nha, Slovakia, Slovenia, Tây Ban Nha
+Các quốc gia có thỏa hiệp chính thức với EU để dùng đồng Euro: Monaco, San Marino, Vatican
+Các quốc gia mà tự dùng đồng Euro: Andorra, Montenegro, Kosovo
+Các hối đoái dựa vào đồng Euro: Escudo Cabo Verde, CFA franc, CFP franc, Comorian franc, Bulgarian lev, Litas Litva, Bosnia and Herzegovina convertible mark
+
+
+== F ==
+Fanam - Madras Presidency
+Fiorino - Tuscany
+Florin
+Florin Aruba - Aruba
+Florin Áo - Áo
+Florin Đông Phi - Kenya, Somalia, Tanzania và Uganda
+Lombardy-Venetia florin - Lombardy-Venetia
+
+Forint - Hungary
+Franc
+Algerian franc - Algeria
+Belgian franc - Bỉ
+Burundian franc - Burundi
+Cambodian franc - Campuchia
+Central African CFA franc - Cameroon, Central African Republic, Chad, Cộng hòa Congo, Equatorial Guinea, Gabon
+CFP franc - New Caledonia, Polynésie thuộc Pháp, Wallis và Futuna
+Comorian franc - Comoros
+Congolese franc - Cộng hòa Dân chủ Congo (thay thế năm 1967, tái lập 1998)
+Djiboutian franc - Djibouti
+French franc - Pháp
+French Camerounian franc - French Cameroun
+French Equatorial African franc - French Equatorial Africa
+French Guianan franc - French Guiana
+Polynésie thuộc Phápn franc - Polynésie thuộc Pháp
+French West African franc - French West Africa
+Geneva franc - Geneva
+Guadeloupe franc - Guadeloupe
+Guinean franc - Guinea (thay thế năm 1971, tái lập 1985)
+Katangan franc - Katanga
+Luxembourgish franc - Luxembourg
+Malagasy franc - Madagascar
+Malian franc - Mali
+Martinique franc - Martinique
+Monegasque franc - Monaco
+Moroccan franc - Maroc
+Nouvelle-Calédonien franc - New Caledonia
+New Hebrides franc - New Hebrides
+Réunion franc - Réunion
+Rwanda and Burundi franc - Rwanda và Burundi
+Rwandan franc - Rwanda
+Saar franc - Saar
+Saint Pierre and Miquelon franc - Saint Pierre and Miquelon
+Swiss franc - Thụy Sĩ, Liechtenstein
+Togolese franc - Togo
+Tunisian franc - Tunisia
+US occupation franc - Pháp (được in và dùng bởi quân đội đồng minh, nhưng không được chấp nhận bới bất cứ chính phủ nào)
+West African CFA franc - Bénin, Burkina Faso, Bờ Biển Ngà, Guinea-Bissau, Mali, Niger, Senegal, Togo
+Vaud franc - Vaud
+
+Franco
+Dominican franco - Cộng hòa Dominica
+Luccan franco - Lucca
+Ticino franco - Ticino
+
+Frange - Korçë
+Frank
+Aargau Frank - Aargau
+Appenzell Frank - Appenzell
+Basel Frank - Basel
+Berne Frank - Berne
+Fribourg Frank - Fribourg
+Glarus Frank - Glarus
+Graubünden Frank - Graubünden
+Liechtenstein frank - Liechtenstein
+Luzern Frank - Luzern
+Schaffhausen Frank - Schaffhausen
+Schwyz Frank - Schwyz
+Solothurn Frank - Solothurn
+St. Gallen Frank - St. Gallen
+Thurgau Frank - Thurgau
+Unterwalden Frank - Unterwalden
+Uri Frank - Uri
+Vlorë frank - Vlorë
+Westphalian frank - Westphalia
+Zürich Frank - Zürich
+
+
+== G ==
+Gazeta (Γαζετα) - Ionian Islands
+Genevoise - Geneva
+Gineih - Ai Cập
+Gourde - Haiti
+Grosz - Kraków
+Guaraní - Paraguay
+Guilder - British Guiana
+Gulden
+Austro-Hungarian gulden - Austria-Hungary
+Baden Gulden - Baden
+Bavarian Gulden - Bavaria
+Danzig Gulden - Danzig
+Dutch gulden - Hà Lan
+Fribourg Gulden - Fribourg
+Luzern Gulden - Luzern
+Netherlands Antillean gulden - Netherlands Antilles
+Netherlands Indian gulden - Netherlands Indies
+Neuchâtel gulden - Neuchâtel
+Schwyz Gulden - Schwyz
+South German Gulden - Baden, Bavaria, Frankfurt, Hohenzollern, Württemberg và các vương quốc khác
+Surinamese gulden - Suriname
+West New Guinean gulden - West New Guinea
+Württemberg Gulden - Württemberg
+
+
+== H ==
+Hryvnia (Гривня) - Ukraine
+Hwan (圜 or 환) - Hàn Quốc
+
+
+== I ==
+Inca - Peru
+Inti - Peru
+Rupee Ấn Độ - India
+
+
+== K ==
+Karbovanets
+Ukrainian karbovanets - Ukraine
+
+Keping
+Kelantan keping - Kelantan
+Trengganu keping - Trengganu
+
+Kina - Papua New Guinea
+Kip - Lào
+Konvertibilna marka (Конвертибилна марка) - Bosna và Hercegovina
+Kori - Kutch
+Korona - Hungary
+Koruna
+Bohemian and Moravian koruna - Bohemia and Moravia
+Czech koruna - Cộng hòa Séc
+Czechoslovak koruna - Czechoslovakia
+Slovak koruna - Slovakia
+
+Koruuni - Greenland
+Króna
+Faroese króna - Faroe Islands (not an independent currency, equivalent to Danish krone)
+Icelandic króna - Iceland
+
+Krona - Thụy Điển
+Krone
+Austro-Hungarian krone - Áo
+Danish krone - Đan Mạch, Greenland
+Liechtenstein krone - Liechtenstein
+Norwegian krone - Na Uy
+Yugoslav krone - Yugoslavia
+
+Kronenthaler
+Austrian Netherlands kronenthaler - Bỉ
+Holy Roman Empire Kronenthaler - Holy Roman Empire
+
+Kroon - Estonia
+Kuna - Croatia
+Kuna - Independent State of Croatia
+Kwacha
+Malawian kwacha - Malawi
+Zambian kwacha - Zambia
+
+Kwanza - Angola
+Kyat () - Myanmar
+
+
+== L ==
+Laari - Maldives
+Lari (ლარი) - Gruzia
+Lats - Latvia
+Lek - Albania
+Lempira - Honduras
+Leone - Sierra Leone
+Leu
+Leu Moldova - Moldova
+Leu Romania - România
+
+Lev (Лев) - Bulgaria
+Libra - Peru
+Lilangeni - Swaziland
+Lira
+Lira Israel (לירה, pound) - Israel
+Lira Italia - Ý
+Lira Đông Phi thuộc Ý - Đông Phi thuộc Ý
+Lira Somaliland thuộc Ý - Somaliland thuộc Ý
+Lebanese lira (ليرة) - Liban
+Luccan lira - Lucca
+Maltese lira - Malta
+Neapolitan lira - Napoli (Kingdom of Joachim Murat)
+Papal States lira - Papal States
+Parman lira - Parma
+Sammarinese lira - San Marino
+Sardinian lira - Sardinia
+Tripolitanian lira (ليرة) - Tripolitania
+Turkish lira - Thổ Nhĩ Kỳ
+Turkish new lira - Thổ Nhĩ Kỳ
+Tuscan lira - Tuscany
+Vatican lira - Vatican
+Venetian lira - Venice
+
+Litas - Litva
+Livre
+French colonial livre - French Guiana, Guadeloupe, Haiti, Martinique, Mauritius và Réunion
+French livre - Pháp
+Guadeloupe livre - Guadeloupe
+Jersey livre - Jersey
+French livre parisis - Pháp
+French livre tournois - Pháp
+Haitian livre - Haiti
+New France livre - New France
+Luxembourgish livre - Luxembourg
+Saint Lucia livre - Saint Lucia
+
+Loti - Lesotho
+
+
+== M ==
+Manat
+Azerbaijani manat - Azerbaijan
+Turkmenistani manat - Turkmenistan
+
+Maneti - Gruzia
+Maravedí - Tây Ban Nha
+Mark
+Danzig Mark - Danzig
+Estonian mark - Estonia
+Mark Đức - Đức
+German Goldmark - Đức
+German Papiermark - Đức
+German Reichsmark - Đức
+German Rentenmark - Đức
+German South West African Mark - German South West Africa
+East German Mark - Đông Đức
+Hamburg Mark - Hamburg
+New Guinean Mark - New Guinea
+Saar Mark - Saar
+
+Marka
+Bosnia and Herzegovina konvertibilna marka (конвертибилна марка) - Bosna và Hercegovina
+Polish marka - Ba Lan
+
+Markka - Phần Lan
+Metica - Mozambique (proposed)
+Metical - Mozambique
+Mohar - Nepal
+Mon - Nhật Bản
+Mun - Korea
+
+
+== N ==
+Nahar - Chechnia (planned and printed but never used)
+Naira - Nigeria
+Nakfa - Eritrea
+New pence - Britain
+Ngultrum (དངུལ་ཀྲམ) - Bhutan
+Nuevo Sol - Peru
+
+
+== O ==
+Obol - Ionian Islands
+Ora - Orania, South Africa
+Ostmark
+Ostmark - Litva
+East German mark - Đông Đức (known as the Ostmark, or East mark)
+
+Ostruble - Litva
+Ouguiya (أوقية) - Mauritania
+
+
+== P ==
+Pa'anga - Tonga
+Pataca
+Pataca Macao (澳門圓) - Macau
+Pataca Malta - Malta
+Pataca Timor thuộc Bồ Đào Nha - Timor thuộc Bồ Đào Nha
+
+Pengő - Hungary
+Penning - Thụy Điển
+Perper
+Serbian perper - Serbia
+Montenegrin perper - Montenegro
+
+Perun - Montenegro (proposed)
+Peseta
+Catalan peseta - Catalunya
+Equatorial Guinean peseta - Equatorial Guinea
+Peruvian peseta - Peru
+Spanish peseta - Tây Ban Nha
+
+Peso
+Argentine peso - Argentina
+Argentine peso argentino - Argentina
+Argentine peso ley - Argentina
+Argentine peso moneda corriente - Argentina
+Argentine peso moneda nacional - Argentina
+Peso Bolivia - Bolivia
+Peso Peso Chile - Chile
+Peso Colombia - Colombia
+Peso Costa Rica - Costa Rica
+Cuban convertible peso - Cuba
+Peso Cuba - Cuba
+Peso Dominica - Cộng hòa Dominica
+Peso Ecuador - Ecuador
+Peso Guatemala - Guatemala
+Peso Guinea Bissau - Guinea Bissau
+Peso Honduras - Honduras
+Japanese government-issued Philippine fiat peso - Philippines
+Malvinas Islands peso - Malvinas Islands (Falkland Islands)
+Mexican peso - México
+Nicaraguan peso - Nicaragua
+Paraguayan peso - Paraguay
+Philippine peso - Philippines
+Puerto Rican peso - Puerto Rico
+Salvadoran peso - El Salvador
+Uruguayan peso - Uruguay
+Venezuelan peso - Venezuela
+
+Phoenix - Hy Lạp
+Piastra
+Neapolitan piastra - Mainland part of Two Sicilies
+Sicilian piastra - Sicilia
+Two Sicilies piastra - Two Sicilies
+
+Piastre
+Piastre - Campuchia, Lào và Vietnam
+Ottoman Turkish piastre - Ottoman Empire
+
+Piso - Philippines
+Pitis - Brunei
+Bảng
+Alderney pound - Alderney (commemorative, same as British pound
+Bảng Anglo-Saxon - Anglo-Saxon England
+Bảng Úc - Australia
+Bảng Bahamas - Bahamas
+Bảng Bermuda - Bermuda
+Biafra - Biafra
+Bảng Anh - United Kingdom, Lãnh thổ Ấn Độ Dương thuộc Anh (accepted)
+Bảng Tây Phi thuộc Anh - Cameroon, Gambia, Ghana, Liberia, Nigeria và Sierra Leone
+Bảng Canada - Canada
+Connecticut pound - Connecticut
+Bảng Síp - Cộng hòa Síp], Akrotiri and Dhekelia
+Delaware pound - Delaware
+Bảng Ai Cập - Ai Cập
+Falkland Islands pound - Falkland Islands
+Bảng Fiji - Fiji
+Bảng Gambia - Gambia
+Bảng Georgia - Georgia
+Bảng Ghana - Ghana
+Bảng Gibraltar - Gibraltar
+Guernsey pound - Guernsey
+Israeli pound - Israel
+Bảng Jamaica - Jamaica
+Bảng Jersey - Jersey
+Bảng Libya - Libya
+Bảng Malawi - Malaŵi
+Bảng Malta - Malta
+Manx pound - Isle of Man
+Maryland pound - Maryland
+Massachusetts pound - Massachusetts
+New Brunswick pound - New Brunswick
+Newfoundland pound - Newfoundland
+New Guinean pound - New Guinea
+New Hampshire pound - New Hampshire
+New Jersey pound - New Jersey
+New York pound - New York
+New Zealand pound - New Zealand
+Nigerian pound - Nigeria
+North Carolina pound - Bắc Carolina
+Nova Scotian pound - Nova Scotia
+Oceanian pound - Kiribati, Nauru, New Guinea, Quần đảo Solomon và Tuvalu
+Palestinian pound - Palestine
+Pennsylvania pound - Pennsylvania
+Prince Edward Island pound - Prince Edward Island
+Rhode Island pound - Rhode Island
+Rhodesia and Nyasaland pound - Rhodesia và Nyasaland
+Rhodesian pound - Rhodesia
+Saint Helena pound - Saint Helena
+Pound Scots - Kingdom of Scotland
+Quần đảo Solomon pound - Quần đảo Solomon
+Bảng Nam Phi - Cộng hòa Nam Phi
+South Carolina pound - Nam Carolina
+Southern Rhodesian pound - Southern Rhodesia
+Bảng Sudan - Sudan
+(New) Sudanese pound - Southern Sudan
+Bảng Syria - Syria
+Bảng Tonga - Tonga
+Virginia - Virginia
+West Indian pound - British West Indies
+Bảng Tây Samoa - Samoa
+Bảng Zambia - Zambia
+
+Pula - Botswana
+
+
+== Q ==
+Qiran - Iran
+Quetzal - Guatemala
+
+
+== R ==
+Rai stones - Yap
+Rand - Cộng hòa Nam Phi
+Reaal - Curaçao
+Real
+Angolan real - Angola
+Argentine real - Argentina
+Azorean real - Azores
+Brazilian real - Brazil
+Real Cabo Verde - Cabo Verde
+Central American Republic real - Costa Rica, El Salvador, Guatemala, Honduras và Nicaragua
+Colombian real - Colombia
+Ecuadorian real - Ecuador
+Gibraltar real - Gibraltar
+Honduran real - Honduras
+Mexican real - México
+Mozambican real - Mozambique
+Paraguayan real - Paraguay
+Peruvian real - Peru
+Philippine real - Philippines
+Portuguese Guinea real - Guinea Bissau
+Portuguese real - Bồ Đào Nha (số nhiều réis)
+Santo Domingo real - Santo Domingo
+Salvadoran real - El Salvador
+São Tomé and Príncipe real - São Tomé và Príncipe
+Spanish colonial real - Argentina, Bolivia, Chile, Colombia, Costa Rica, Cuba, Cộng hòa Dominica, Ecuador, El Salvador, Guatemala, Honduras, México, Nicaragua, Panama, Paraguay, Peru, Uruguay và Venezuela
+Spanish real - Tây Ban Nha
+Venezuelan real - Venezuela
+
+Reichsmark - Đức
+Reichsthaler - Đức
+Renminbi (人民币 or 人民幣) - Cộng hòa Nhân dân Trung Hoa
+Rentenmark - Đức
+Rial (ريال)
+Iranian rial - Iran
+Moroccan rial - Maroc
+North Yemeni rial - North Yemen
+Omani rial - Oman
+Tunisian rial - Tunisia
+Yemeni rial - Yemen
+
+Riel - Campuchia
+Rigsdaler
+Danish West Indies rigsdaler - Danish West Indies
+Danish rigsdaler - Đan Mạch
+Greenlandic rigsdaler - Greenland
+Norwegian rigsdaler - Na Uy
+
+Riksdaler - Thụy Điển
+Rijksdaalder - Hà Lan
+Ringgit
+Malaysian ringgit - Malaysia
+Brunei ringgit - Brunei - known in English as the dollar
+
+Rixdollar - Sri Lanka
+Riyal (ريال)
+Hejaz riyal - Hejaz
+Qatari riyal - Qatar
+Saudi riyal - Ả Rập Saudi
+Zanzibari riyal - Zanzibar
+
+Roepiah - Netherlands Indies
+Ruble (Рубль)
+Armenian ruble - Armenia
+Azerbaijani ruble - Azerbaijan
+Belarusian ruble - Belarus
+Russian ruble - Nga
+Tajikistani ruble - Tajikistan
+Transcaucasian ruble - Transcaucasia
+Transnistrian ruble - Transnistria
+
+Rublis - Latvia
+Rufiyah (ދިވެހި ރުފިޔ) - Maldives
+Rupee (India)
+Afghan rupee - Afghanistan
+Bhutanese rupee - Bhutan
+Burmese rupee - Myanma
+Danish Indian rupee - Danish India
+East African rupee - Kenya, Somalia, Tanzania và Uganda
+French Indian rupee - French India
+Gulf rupee - Bahrain, Kuwait, Oman, Qatar và UAE
+Hyderabad rupee - Hyderabad
+Indian rupee - India
+Javan rupee - Java
+Mauritian rupee - Mauritius
+Nepalese rupee - Nepal
+Pakistani rupee - Pakistan
+Portuguese Indian rupia - Portuguese India
+Seychellois rupee - Seychelles
+Sri Lankan rupee (ரூபாய) - Sri Lanka
+Travancore rupee - Travancore
+Zanzibari rupee - Zanzibar
+
+Rupiah - Indonesia
+Indonesian rupiah - Indonesia
+Italian Somaliland rupia - Italian Somaliland
+Riau rupiah - Riau
+West New Guinea rupiah - West New Guinea
+
+Rupie - Burundi, Rwanda và Tanzania
+Ryō - Nhật Bản
+
+
+== S ==
+Schilling - Áo
+see also: Escudo (above)
+Scudo
+Bolivian scudo - Bolivia
+Lombardy-Venetia scudo - Lombardy-Venetia
+Maltese scudo - Malta
+Milanese scudo - Milan
+Papal States scudo - Papal States
+Piedmont scudo - Piedmont and other mainland parts of the Kingdom of Sardinia
+Sardinian scudo - Sardinia
+
+Shah (Шаг) - Ukraine
+Shekel
+New Shekel (שקל חדש) - Israel, Gaza Strip, West Bank
+Shekel (שקל) - Israel, Gaza Strip, West Bank
+
+Shilling
+East African shilling - Kenya, Somalia, Tanzania và Uganda
+Kenyan shilling - Kenya
+Somali shilling - Somalia
+Somaliland shilling - Somaliland
+Tanzanian shilling - Tanzania
+Ugandan shilling - Uganda
+
+Skender - Korçë
+Sol - Peru
+Som
+Kyrgyzstani som (Сом) - Kyrgyzstan
+Uzbekistani som (Сўм) - Uzbekistan
+
+Somalo - Italian Somaliland
+Somoni (Сомонӣ) - Tajikistan
+Speciedaler - Na Uy
+Speciethaler - Schleswig-Holstein
+Srang - Tibet
+Sucre - Ecuador
+Syli - Guinea
+
+
+== T ==
+Tael (兩, liǎng) - Trung Quốc
+Taka (টাকা) - Bangladesh
+Tala - Samoa
+Tallero - Eritrea
+Talonas - Litva
+Tangka - Tibet
+Tenga
+Bukharan tenga - Bukhara
+Kokand tenga - Kokand
+Khwarazmi tenga - Khwarazm
+
+Tenge (Теңге) - Kazakhstan
+Thaler - Đức, Áo, Hungary
+Basel Thaler - Basel
+Berne Thaler - Berne
+Bremen Thaler - Bremen
+Danzig Thaler - Danzig
+Geneva thaler - Geneva
+Hannovarian Thaler - Hannover
+Hesse-Kassel Thaler - Hesse-Kassel (or Hesse-Cassel)
+Mecklenburg Thaler - Mecklenburg
+Prussian Thaler - Phổ
+St. Gallen Thaler - St. Gallen
+Saxon Thaler - Mecklenburg
+Solothurn Thaler - Solothurn
+Valais thaler - Valais
+Westphalian Thaler - Westphalia
+Zürich Thaler - Zürich
+
+Tical - Campuchia
+Tögrög (Tөгрөг) - Mông Cổ
+Tolar - Slovenia
+Toman (تومان) - Iran
+Trade dollar
+British trade dollar - Đảo Anh
+Japanese trade dollar - Nhật Bản
+United States trade dollar - Hoa Kỳ
+
+
+== V ==
+Vatu - Vanuatu
+Venezolano - Venezuela
+Vereinsthaler
+Hanoverian vereinsthaler - Hannover
+Hesse-Kassel vereinsthaler - Hesse-Kassel (or Hesse-Cassel)
+Mecklenburg vereinsthaler - Mecklenburg
+Prussian vereinsthaler - Phổ
+Saxon vereinsthaler - Saxony
+
+
+== W ==
+Won (원,圓)
+Won Triều Tiên - Triều Tiên
+Won Bắc Triều Tiên - Cộng hòa Dân chủ Nhân dân Triều Tiên
+Won Hàn Quốc - Đại Hàn Dân quốc
+
+
+== Y ==
+Yang (兩) - Korea
+Yen (円)
+Korean yen - Korea
+Japanese military yen - Hong Kong
+Yen - Nhật Bản
+Taiwanese yen - Taiwan
+
+Yuan
+Yuan (元, 圆 or 圓) - Trung Quốc
+Chinese yuan (元, 圆 or 圓) - Trung Quốc
+Chinese renminbi yuan (人民币 or 人民幣) - Trung Quốc
+Manchukuo yuan (圓) - Manchukuo
+Taiwanese old yuan (Old Taiwan dollar) - Republic of China (Đài Loan)
+Taiwanese new yuan (New Taiwan dollar) - Republic of China (Đài Loan)
+
+
+== Z ==
+Zaire (tiền tệ) - Zaire
+Złoty - Ba Lan
+Kraków złoty - Kraków
+Polish złoty - Ba Lan
+
+
+== Đọc thêm ==
+Danh sách các loại tiền tệ đang lưu hành
+
+
+== Tham khảo ==

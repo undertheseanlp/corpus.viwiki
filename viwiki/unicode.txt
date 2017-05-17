@@ -1,0 +1,79 @@
+Unicode (hay gọi là mã thống nhất; mã đơn nhất) là bộ mã chuẩn quốc tế được thiết kế để dùng làm bộ mã duy nhất cho tất cả các ngôn ngữ khác nhau trên thế giới, kể cả các ngôn ngữ sử dụng ký tự tượng hình phức tạp như tiếng Trung Quốc, tiếng Thái,.v.v. Vì những điểm ưu việt đó, Unicode đã và đang từng bước thay thế các bộ mã truyền thống, kể cả bộ mã tiêu chuẩn ISO 8859. Unicode đang được sử dụng trên rất nhiều phần mềm cũng như các trình ứng dụng, chẳng hạn Windows.
+
+
+== Hiệp hội Unicode ==
+Hiệp hội Unicode ở California xuất bản phiên bản đầu tiên của The Unicode Standard (Tiêu chuẩn Unicode) vào năm 1991, và vẫn liên tục hoàn thiện chuẩn (hiện nay đã đến phiên bản 4.0). Các phiên bản mới được viết dựa trên các phiên bản đã có, nhờ vậy đảm bảo được tính tương thích. Cũng xin lưu ý rằng Unicode và tiêu chuẩn ISO 10646 là hai khái niệm hoàn toàn độc lập. Khi nói đến ISO 10646 tức là người ta đang nói đến tiêu chuẩn quốc tế chính thức, còn Unicode thì được Unicode Consortium (tập hợp đại diện các công ty tin học lớn) soạn ra. Kể từ năm 1991, khi Nhóm làm việc ISO và Liên đoàn Unicode quyết định hợp tác chặt chẽ với nhau trong quá trình nâng cấp và mở rộng chuẩn để đảm bảo tính tương thích (cụ thể là vị trí của các ký tự trên cả hai đều y hệt nhau – chẳng hạn chữ ơ là 01A1). Còn với Unicode thì lại khác, chuẩn này được phát triển bởi Liên đoàn Unicode. Liên đoàn Unicode là một tổ chức phi lợi nhuận tập hợp bởi một số công ty, trong đó có cả những công ty đa quốc gia khổng lồ có ảnh hưởng lớn như Microsoft, Adobe Systems, IBM, Novell, Sun Microsystems, Lotus Software, Symantec và Unisys. (Danh sách đầy đủ tại: [1]). Tuy nhiên, chuẩn Unicode không chỉ quy định bộ mã, mà còn cả cách dựng hình, cách mã hóa (sử dụng 1, 2, 3 hay 4 byte để biểu diễn một ký tự (UTF-8 là một ví dụ), sự tương quan (collation) giữa các ký tự, và nhiều đặc tính khác của các ký tự, hỗ trợ cả những ngôn ngữ từ phải sang trái như tiếng Ả Rập chẳng hạn.
+
+
+== Kho chữ ==
+Unicode chiếm trước 1.114.112 (= 220+216) mã chữ, và hiện nay đã gán ký hiệu cho hơn 96000 mã chữ. 256 mã đầu tiên phù hợp với ISO 8859-1, là cách mã hóa ký tự phổ biến nhất trong "thế giới phương Tây"; do đó, 128 ký tự đầu tiên còn được định danh theo ASCII.
+Không gian mã Unicode cho các ký tự được chia thành 17 mặt phẳng (plane) và mỗi mặt phẳng có 65536 code point. Mặt phẳng đầu tiên (plane 0), "Mặt phẳng đa ngôn ngữ căn bản" (Basic Multilingual Plane - BMP), là nơi mà đa số các ký hiệu được gán mã. BMP chứa các ký hiệu cho hầu hết các ngôn ngữ hiện đại, và một số lượng lớn các ký tự đặc biệt. Đa số các code point được phân bố trong BMP được dùng để mã hóa các ngôn ngữ CJKV (Hán-Nhật-Hàn-Việt).
+Hai mặt phẳng tiếp theo được dùng cho các ký tự "đồ họa". Mặt phẳng 1, "Mặt phẳng đa ngôn ngữ bổ sung" (Supplementary Multilingual Plane - SMP), được dùng chủ yếu cho các loại chữ viết cổ, ví dụ Egyptian hieroglyph (chưa được mã hóa), nhưng cũng còn được dùng cho các ký hiệu âm nhạc. Mặt phẳng 2, (Supplementary Ideographic Plane - SIP), được dùng cho khoảng 40000 chữ Trung Quốc ít gặp mà đa số là các ký hiệu cổ, ngoài ra cũng có một số ký hiệu hiện đại. Mặt phẳng 14 hiện chứa một số các ký tự thẻ ngôn ngữ không được khuyến khích và một số ký hiệu lựa chọn biến thể. Mặt phẳng 15 và Mặt phẳng 16 được mở cho các sử dụng cá nhân.
+Vẫn còn nhiều tranh luận giữa các chuyên gia về ngôn ngữ CJK (Hoa-Nhật-Hàn), đặc biệt là các chuyên gia người Nhật, về nhu cầu và lợi ích kỹ thuật của việc "thống nhất chữ Hoa", tức là việc chuyển những bộ chữ Hoa và chữ Nhật vào trong một bộ chữ hợp nhất. (Xem thêm mã hóa chữ Hoa)
+Kho ≈220 điểm mã bảo đảm sự tương thích với bộ mã UTF-16. Việc mới chỉ dùng hết có 10% kho chữ cho thấy rằng kho chữ cỡ ≈20 bit này khó bị đầy trong một tương lai gần.
+
+
+== Các bảng mã ==
+Đọc từ đầu tới giờ, chúng ta chỉ mới biết rằng Unicode là một cách để đánh số duy nhất cho tất cả các ký tự được dùng bởi con người trong ngôn ngữ viết. Nhưng những con số đó được ghi trong các hệ thống xử lý văn bản lại là những vấn đề khác; những vấn đề đó là hậu quả của việc phần lớn các phần mềm ở phương Tây chỉ biết tới các hệ thống mã hóa 8-bit, và việc đưa Unicode vào các phần mềm chỉ mới diễn ra chậm chạp trong những năm gần đây.
+Các chương trình 8-bit cũ chỉ nhận biết các ký tự 8 bit, và không thể dùng nhiều hơn 256 điểm mã nếu không có những cách giải quyết đặc biệt. Do đó người ta phải đề ra nhiều cơ chế để dùng Unicode; tùy thuộc vào khả năng lưu trữ, sự tương thích với chương trình nguồn và sự tương tác với các hệ thống khác mà mỗi người chọn một cơ chế.
+
+
+=== UTF-32 ===
+Cách đơn giản nhất để lưu trữ tất cả các 220+216 Unicode code points là sử dụng 32 bit cho mỗi ký tự, nghĩa là, 4 byte – do đó, cách mã hóa này được Unicode gọi là UTF-32 và ISO/IEC 10646 gọi là UCS-4. Vấn đề chính của cách này là nó hao chỗ hơn 4 lần so với trước kia, do đó nó ít được dùng trong các vật nhớ ngoài (như đĩa, băng). Tuy nhiên, nó rất đơn giản, nên một số chương trình sẽ sử dụng mã hóa 32 bit bên trong khi xử lý Unicode.
+
+
+=== UTF-16 ===
+UTF-16 là một cách mã hóa dùng Unicode 20 bit. Các ký tự trong BMP được diễn tả bằng cách dùng giá trị 16-bit của code point trong Unicode CCS. Có hai cách để viết giá trị 16 bit trong một dòng (stream) 8-bit. Có lẽ bạn đã nghe qua chữ endian. Big Endian có nghĩa là cho Most Significant Byte đi trước, tức là nằm bên trái – do đó ta có UTF-16BE. Còn Little Endian thì ngược lại, tức là Least Significant Byte đi trước – do đó ta có UTF-16LE. Thí dụ, giá trị 16-bit của con số Hex1234 được viết là Hex12 Hex34 trong Big Endian và Hex34 Hex12 trong Little Endian.
+Những ký hiệu không nằm trong BMP được biểu diễn bằng cách dùng surrogate pair (cặp thay thế). Code points có giá trị từ U+D800 đến U+DFFF được dành riêng ra để dùng cho mục đích này. Trước hết, một code point có 20 bit được phân ra làm hai nhóm 10 bit. Nhóm Most Significant 10 bit được map vào một giá trị 10 bit nằm trong khoảng từ u+D800 đến u+DBFF. Nhóm Least Significant 10 bit được map vào một giá trị 10 bit nằm trong khoảng từ U+DC00 đến U+DFFF. Theo cách đó UTF-16 có thể biểu diễn được những ký hiệu Unicode có 20 bit.
+
+
+=== UTF-8 ===
+
+UTF-8 là một cách mã hóa để có tác dụng giống như UCS-4 (cũng là UTF-16), chứ không phải có code point nào khác. UTF-8 được thiết kế để tương thích với chuẩn ASCII. UTF-8 có thể sử dụng từ một (cho những ký tự trong ASCII) cho đến 6 byte để biểu diễn một ký tự.
+Chính vì tương thích với ASCII, UTF-8 cực kỳ có lợi thế khi được sử dụng để bổ sung hỗ trợ Unicode cho các phần mềm có sẵn. Thêm vào đó, các nhà phát triển phần mềm vẫn có thể sử dụng các hàm thư viện có sẵn của ngôn ngữ lập trình C để so sánh (comparisons) và xếp thứ tự. (Ngược lại, để hỗ trợ các cách mã hóa 16 bit hay 32 bit như ở trên, một số lớn phần mềm buộc phải viết lại do đó tốn rất nhiều công sức. Một điểm mạnh nữa của UTF-8 là với các văn bản chỉ có một số ít các ký tự ngoài ASCII, hay thậm chí cho các ngôn ngữ dùng bảng chữ cái Latinh như tiếng Việt, tiếng Pháp, tiếng Tây Ban Nha, v.v.; cách mã hóa kiểu này cực kỳ tiết kiệm không gian lưu trữ.
+UTF-8 được thiết kế đảm bảo không có chuỗi byte của ký tự nào lại nằm trong một chuỗi của ký tự khác dài hơn. Điều này khiến cho việc tìm kiếm ký tự theo byte trong một văn bản là rất dễ dàng. Một số dạng mã hóa khác (như Shift-JIS) không có tính chất này khiến cho việc xử lý chuỗi ký tự trở nên phức tạp hơn nhiều. Mặc dù để thực hiện điều này đòi hỏi phải có độ dư (văn bản sẽ dài thêm) nhưng những ưu điểm mà nó mang lại vẫn nhiều hơn. Việc nén dữ liệu không phải là mục đích hướng tới của Unicode và việc này cần được tiến hành một cách độc lập.
+Các quy định chính xác của UTF-8 như sau (các số bắt đầu bằng 0x là các số biểu diễn trong hệ thập lục phân)
+Các ký tự có giá trị nhỏ hơn 0x80, sử dụng 1 byte có cùng giá trị.
+Các ký tự có giá trị nhỏ hơn 0x800, sử dụng 2 byte: byte thứ nhất có giá trị 0xC0 cộng với 5 bit từ thứ 7 tới 11 (7th-11th least significant bits); byte thứ hai có giá trị 0x80 cộng với các bit từ thứ 1 tới thứ 6 (1st-6th least significant bits).
+Các ký tự có giá trị nhỏ hơn 0x10000, sử dụng 3 byte: byte thứ nhất có giá trị 0xE0 cộng với 4 bit từ thứ 13 tới 16; byte thứ hai có giá trị 0x80 cộng với 6 bit từ thứ 7 tới 12; byte thứ ba có giá trị 0x80 cộng với 6 bit từ thứ 1 tới thứ 6.
+Các ký tự có giá trị nhỏ hơn 0x200000, sử dụng 4 byte: byte thứ nhất có giá trị 0xF0 cộng với 3 bit từ thứ 19 tới 21; byte thứ hai có giá trị 0x80 cộng với 6 bit từ thứ 13 tới 18; byte thứ ba có giá trị 0x80 cộng với 6 bit từ thứ 7 tới thứ 12; byte thứ tư có giá trị 0x80 cộng với 6 bit từ thứ 1 tới thứ 6.
+Hiện nay, các giá trị khác ngoài các giá trị trên đều chưa được sử dụng. Tuy nhiên, các chuỗi ký tự dài tới 6 byte có thể được dùng trong tương lai.
+Chuỗi 5 byte sẽ lưu trữ được mã ký tự chứa đến 26 bit: byte thứ nhất có giá trị 0xF8 cộng với 2 bit thứ 25 và 26, các byte tiếp theo lưu giá trị 0x80 cộng với 6 bit có ý nghĩa tiếp theo.
+Chuỗi 6 byte sẽ lưu trữ được mã ký tự chứa đến 31 bit: byte thứ nhất có giá trị 0xFC cộng với bit thứ 31, các byte tiếp theo lưu giá trị 0x80 cộng với 6 bit có ý nghĩa tiếp theo.
+
+
+=== UTF-7 ===
+Chuẩn hóa được ít dùng nhất có lẽ là UTF-7. Chuẩn MIME yêu cầu mọi thư điện tử phải được gửi dưới dạng ASCII cho nên các thư điện tử nào sử dụng mã hóa Unicode được coi là không hợp lệ. Tuy nhiên hạn chế này thường bị hầu hết mọi người bỏ qua. UTF-8 cho phép thư điện tử sử dụng Unicode và đồng thời cũng phù hợp với tiêu chuẩn. Các ký hiệu ASCII sẽ được giữ nguyên, tuy nhiên các ký tự khác ngoài 128 ký hiệu ASCII chuẩn sẽ được mã hóa bằng một escape sequence hay một dấu '+' theo sau một ký tự Unicode được mã hóa bằng Base64, và kết thúc bằng một dấu '-'. Ký tự '+' nổi tiếng sẽ được mã hóa thành '+-'.
+
+
+== Các vấn đề khác ==
+Tiêu chuẩn Unicode còn bao gồm một số vấn đề có liên quan, chẳng hạn character properties, text normalisation forms và bidirectional display order (để hiển thị chính xác các văn bản chứa cả hai loại ngôn ngữ có cách viết từ phải qua trái như tiếng Ả Rập hay tiếng Hebrew) và trái qua phải.
+
+
+== Unicode trên mạng toàn cầu ==
+Hầu hết các trang web tiếng Việt sử dụng cách mã hóa UTF-8 để đảm bảo tính tương thích, tuy nhiên một số trang web vẫn còn giữ cách mã hóa theo chuẩn ISO-8859-1 cũ. Các trình duyệt hiện đại ngày nay như Mozilla Firefox có chức năng tự động chọn cách mã hoá (encoding) thích hợp nếu như máy tính đã được cài đặt một font thích hợp (xem thêm Unicode và HTML).
+Mặc dù các quy tắc cú pháp có thể ảnh hưởng tới thứ tự xuất hiện của các ký tự nhưng các văn bản HTML 4.0 và XML 1.0 đều có thể bao trùm hầu hết các ký tự trong Unicode, chỉ trừ một số lượng nhỏ ký tự điều khiển và dãy chưa được gán D800-DFFF và FFFE-FFFF. Các ký tự này biểu thị hoặc là các byte nếu bộ mã có định nghĩa hoặc là chuỗi số của Unicode nếu bộ mã không định nghĩa. Chẳng hạn: Δ Й ק م ๗ ぁ 叶 葉 냻 sẽ được hiển thị là Δ, Й, ק, م, ๗, ぁ, 叶, 葉 và 냻 nếu máy tính đã có cài đặt font thích hợp. Các ký tự này lần lượt là chữ "Delta" trong bảng chữ cái Hy Lạp, "I ngắn" trong bảng chữ cái Cyril, "Meem" trong bảng chữ cái Ả Rập, "Qof" trong bảng chữ cái Hebrew, số 7 trong bảng chữ cái Thái, Hiragana "A" trong bảng chữ cái Nhật Bản, chữ "diệp" giản thể, chữ "diệp" phồn thể và âm "Nyrh" trong tiếng Hàn.
+
+
+== Các phông chữ Unicode ==
+Phông chữ Unicode có thể được tải về từ nhiều trang web, hầu hết chúng là miễn phí. Dù đã có hàng ngàn phông chữ trên thị trường, nhưng hầu hết chỉ hỗ trợ ở một mức độ nhất định một số ký hiệu ngoài ASCII của Unicode. Thay vì đó, các phông chữ Unicode thường tập trung hỗ trợ các ký tự ASCII và những chữ viết cụ thể hoặc tập các ký tự hay ký hiệu. Có vài nguyên do của điều này: các ứng dụng và tài liệu rất ít khi cần hiển thị ký tự từ nhiều hơn hai hệ thống chữ viết; phông chữ thường là những tập không đầy đủ; hệ điều hành và các ứng dụng ngày càng xử lý tốt hơn các ký tự từ nhiều bộ phông khác nhau... Thêm vào nữa, việc thiết kế một hệ thống chi tiết hàng nghìn ký tự là công việc đòi hỏi nhiều thời gian và công sức trong khi hầu như không thu lợi gì từ việc này....
+Phông chữ Unicode cho phép gõ tiếng Việt ở các phông Times New Roman hay Tahoma hay Arial
+
+
+== Lịch sử các phiên bản Unicode ==
+Phiên bản tiêu chuẩn Unicode sau dự kiến là phiên bản 8.0 vào mùa hè năm 2015.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Liên Đoàn Unicode
+Các phiên bản Unicode: 3.1, 3.2, 4.0
+DecodeUnicode - Unicode WIKI, 50.000 gifs and information about each character
+Alan Wood's Unicode Resources (chứa danh sách các trình xử lý từ có khả năng Unicode)
+Unicode Code Charts (PDF)
+UTF-8, UTF-16, UTF-32 Code Charts
+The Letter Database
+Project UTF-8, evangelizing Unicode support trong phần mềm miễn phí
+Vietnamese Unicode FAQ

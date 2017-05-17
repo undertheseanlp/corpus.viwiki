@@ -1,0 +1,23 @@
+Valin (viết tắt là Val hoặc V) là một α-amino axit với công thức hóa học HO2CCH(NH2)CH(CH3)2. L-Valin là một trong 20 axit amin sinh protein. Các codon của nó là GUU, GUC, GUA, và GUG. Nó là một axit amin thiết yếu không phân cực. Nguồn thức ăn chứa valin gồm pho mát, cá, thịt gia cầm, đậu phộng, đậu lăng... Giống như leucin và isoleucin, valin là một axit amin mạch nhánh. Nó được đặt theo tên của cây nữ lang (Valerian). Trong bệnh hồng cầu hình liềm, valin thay thế cho axit amin ưa nước là axit glutamic trong phân tử hemoglobin. Do valin có tính kị nước, hemoglobin trở nên bất thường và dễ kết dính với nhau
+
+
+== Sinh tổng hợp ==
+Valin là một axit amin thiết yếu, do đó phải được lấy từ thức ăn, chủ yếu là protein. Trong các loài thực vật, nó được tổng hợp từ axit pyruvic qua nhiều giai đoạn. Một phần đầu của quá trình chuyển hóa cũng tạo ra leucin. Chất trung gian α-cetoisovalerat tham gia phản ứng khử amin với glutamat. Các enzym tham gia quá trình sinh tổng hợp này gồm:
+Acetolactat synthase (còn được gọi là acetohydroxy acid synthase)
+Acetohydroxy acid isomeroreductase
+Dihydroxyacid dehydratase
+Valin aminotransferase
+
+
+== Điều chế ==
+Hỗn hợp racemic của valin có thể được điều chế bằng phản ứng brom hóa axit isovaleric, tiếp theo đó bằng phản ứng amin hóa dẫn xuất α-bromo mới thu được
+HO2CCH2CH(CH3)2 + Br2 → HO2CCHBrCH(CH3)2 + HBr
+HO2CCHBrCH(CH3)2 + 2 NH3 → HO2CCH(NH2)CH(CH3)2 + NH4Br
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Sinh tổng hợp Isoleucin và Valin
+Nguồn thức ăn chứa Valine

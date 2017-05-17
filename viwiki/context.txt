@@ -1,0 +1,10 @@
+ConTEXt là hệ thống sắp chữ dựa trên TeX. Khác với LaTeX, một gói macro TeX chính khác, ConTeXt vừa có tính mô-đun hơn trong khái niệm, vừa có tính đơn khối hơn trong thiết kế. Thí dụ như đồ hoạ véc-tơ dựa trên TeX được tích hợp đầy đủ vào ConTeXt thông qua Metafun, phần mở rộng (mô-đun) của ngôn ngữ lập trình đồ hoạ MetaPost (MetaPost xuất phát từ ngôn ngữ Metafont, một công trình của Donald Knuth). Nó cũng chú trọng đến việc sử dụng PdfTeX để phát sinh các phiên bản trên giấy lẫn màn hình (screen) trực tuyến của cùng một tài liệu. Nó có chứa một số văn lệnh tiện ích viết bằng Perl, như TeXutil và TeXexec. Nó tích hợp bộ phân tích cú pháp (parser) XML (có hỗ trợ MathXML).
+Hệ thống này được Hans Hagen của PRAGMA Advanced Document Engineering (Pragma ADE), một công ty đặt trụ sở tại Hà Lan, phát triển từ năm 1990.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Pragma ADE
+ConTeXt wiki

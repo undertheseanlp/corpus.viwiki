@@ -1,0 +1,9 @@
+Microsoft Linux hay các bản phân phối Linux từ Microsoft bao gồm một dự án với tên gọi Azure Cloud Switch (ACS) phát hành năm 2015. Phần mềm này được xây dựng để đáp ứng giải quyết những yêu cầu của khách hàng thường cần một hệ thống Linux hoạt động song song với các máy chủ Windows. Với các hỗ trợ cho Microsoft SQL Server cho Linux, bản thân Microsoft yêu cầu hỗ trợ Linux nội bộ, trong đó sử dụng phân phối riêng của mình cho mục đích này
+Trong quá khứ, Microsoft đã có chiến lược loại trừ bất kỳ hỗ trợ cho Linux vì nó là một hệ điều hành đối thủ cạnh tranh. Tuy nhiên, các đối tác của họ đã từng bước chấp nhận nhiều công nghệ, quan hệ đối tác là không thể tránh khỏi, nơi Canonical Ltd., công ty hỗ trợ cho Ubuntu đã được thuê để cung cấp các dịch vụ trong khu vực, bằng cách cung cấp một hệ thống để Ubuntu hoạt động trên Windows 10.
+
+
+== SONIC ==
+Software for Open Networking in the Cloud (SONIC) là một bản phân phối Linux dựa trên Debian bởi Microsoft mã nguồn đã được phát hành vào ngày 9/3/2016. hệ điều hành được thiết kế để chạy trên các thiết bị mạng như bộ chuyển mạch mạng.
+
+
+== Chú thích ==

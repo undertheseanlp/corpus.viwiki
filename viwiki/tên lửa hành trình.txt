@@ -1,0 +1,52 @@
+Tên lửa hành trình hay hỏa tiễn hành trình (theo thuật ngữ tiếng Anh "Cruise missile") hay còn gọi là tên lửa có cánh (theo thuật ngữ tiếng Nga "Крылатая ракета") hay tên lửa tuần kích và hỏa tiễn cruise là loại vũ khí tên lửa có điều khiển mà đặc điểm bay của nó là trong toàn bộ quỹ đạo tên lửa chịu tác động của lực nâng khí động học thông qua các cánh nâng nên được gọi là tên lửa có cánh.
+Loại tên lửa này có rất nhiều phương án điều khiển: có thể là theo chế độ lập trình sẵn để chống các mục tiêu cố định hoặc với radar, tự dẫn để chống các mục tiêu di động như tàu chiến, máy bay.
+
+
+== Phân loại ==
+Theo cách phân loại của Nga và Liên Xô trước đây, Tên lửa hành trình (người Nga gọi là tên lửa có cánh "Крылатая ракета") được phân thành hai loại chính:
+Loại cánh phẳng: thực chất đây là một loại khí cụ bay không người lái sử dụng một lần. Chúng được thiết kế để mang đầu đạn nổ cho chiến tranh thông thường hoặc đầu đạn hạt nhân cho chiến tranh hạt nhân. Chúng thường sử dụng động cơ phản lực khí (động cơ tuốc bin khí) như của máy bay nhưng với giá thành hạ để dùng một lần. Những loại tên lửa này thường có tốc độ dưới âm thanh và nhìn bên ngoài chúng khác với các loại tên lửa khác là có đôi cánh phẳng giống cánh máy bay để tạo lực nâng. Loại tên lửa này còn được gọi theo tên cũ là tên lửa–máy bay. Những tên lửa cánh phẳng này có tốc độ dưới âm, nên không thể dùng tiêu diệt máy bay mà chỉ dùng chủ yếu để tiêu diệt các mục tiêu cố định và các mục tiêu di chuyển chậm như: các loại xe cơ giới, tàu chiến, tàu ngầm hay tàu sân bay.
+Loại cánh chữ thập: loại tên lửa này có cánh dạng chữ thập và được trang bị động cơ tên lửa vượt âm thanh. Đây là một tập hợp nhiều loại tên lửa khác nhau từ loại chống tăng, chống chiến hạm, và chống máy bay, điển hình nhất như loại tên lửa không đối không
+Theo cách phân loại của Hoa Kỳ và rất nhiều các nước khác thì tên lửa hành trình chỉ được hiểu là loại cánh phẳng mà thôi.
+
+
+== Lịch sử ra đời và phát triển ==
+Tên lửa hành trình có nguồn gốc từ rất sớm, năm 1917 trong Chiến tranh thế giới thứ nhất đã có dự án "ngư lôi bay" (Kettering bug) của quân đội Hoa Kỳ: người ta thử nghiệm một loại máy bay hai tầng cánh (biplane) chất đầy thuốc nổ cho cất cánh về phía mục tiêu. Sau một khoảng thời gian đã định cánh máy bay sẽ bị gãy ra để máy bay lao xuống đất. Dự án không được áp dụng vì chiến tranh kết thúc trước khi dự án được hoàn thiện.
+Trong Chiến tranh thế giới thứ hai, để chống lại lực lượng hải quân áp đảo của Hoa Kỳ, quân đội Thiên hoàng của Nhật Bản đã dùng các phi đội thần phong cảm tử để lao vào tàu chiến của địch. Đây là các "tên lửa hành trình có người lái".
+Đặc biệt tại chiến trường châu Âu nước Đức Quốc xã đã dùng bom bay V-1 để tấn công nước Anh và chúng thật sự là tên lửa hành trình theo đúng nghĩa hiện đại:
+Bom bay V-1 trang bị một động cơ phản lực còn rất thô sơ, dùng hệ thống tự động lái (autopilot) điều khiển bằng Gyroscope (hệ thống điều khiển theo quán tính tiếng Anh: Inertial guidance system). Tuy hệ thống điều khiển còn rất thô sơ trong chế tạo nhưng ý tưởng là rất mới mẻ và còn được áp dụng trong rất nhiều hệ điều khiển vũ khí hiện đại sau này. V-1 có các thông số kỹ thuật chính như sau:
+Kích thước (Dài × Sải cánh × Cao): 7,9 × 5,4 × 1,42 m
+Tốc độ: 656 km/h
+Bán kính hoạt động: 240 km
+Trọng lượng tên lửa: 2.150 kg
+Trọng lượng đầu đạn: 830 kg
+
+Trong những năm 1980 trong cao trào chạy đua vũ khí tên lửa tầm trung. Hoa Kỳ cho triển khai loại tên lửa hành trình Tomahawk mang đầu đạn hạt nhân với ba phương án phóng từ máy bay, phóng từ tàu chiến và tàu ngầm, trong khi Liên Xô có loại tên lửa tương đương là Raduga Kh-55. Hệ vũ khí Tomahawk của Hoa Kỳ và Raduga Kh-55 của Liên Xô tạo nên bước tiến lớn trong công nghệ chế tạo vũ khí nhất là ở hệ thống điều khiển công nghệ cao: tên lửa ngoài hệ thống dẫn đường theo quán tính cổ điển được tích hợp hệ thống dẫn đường lập trình sẵn (tự lập) dựa trên sự thay đổi cao độ của địa hình - hệ thống TERCOM (TERrain COntour Matching system - tên lửa vừa bay vừa dùng mắt thần laser đo cao độ của địa hình và hiệu chỉnh với các tham số của bản đồ số đã được lập trình bay) cho đến nay đây vẫn là bí quyết công nghệ cao của Hoa Kỳ và Nga. Công nghệ dẫn đường này cho phép tên lửa hành trình đạt độ chính xác cao.
+Tại Liên Xô, công việc bắt đầu tại cục Raduga với mẫu tên lửa hành trình phóng trên không mới vào năm 1971, với chuyến bay thử đầu tiên vào năm 1976. Không quân Xô viết đưa ra một yêu cầu chính thức về một loại tên lửa hành trình phóng trên không vào tháng 12-1976. Kh-55SM tầm xa được phát triển một vài năm trước khi đi vào hoạt động. Vào cuối thập niên 1980 công việc lại tiếp tục bắt đầu với một loại tên lửa thay thế trang bị đầu đạn thông thường (Kh-101) hay đầu đạn hạt nhân (Kh-102) và khả năng tàng hình tốt. Nó được thiết kế bởi kỹ sư Igor Seleznyev thuộc Raduga.
+Năm 1982, hãng Boeing đã giao cho Không quân Hoa Kỳ những tên lửa hành trình phóng từ trên không ALCM (Air Launched Cruise Missiles) đầu tiên của họ. Đó là những máy bay nhỏ, cánh hình mũi tên có thể gập lại được (cánh cụp-xòe). Chúng được ngoắc dưới cánh máy bay B52, mỗi máy bay 12 tên lửa. Những chuyến giao tên lửa hành trình "vô hình" (stealth) đầu tiên cho không lực Mỹ đã diễn ra vào năm 1986. Chương trình đó, được biết chính thức dưới tên gọi ACM (Advanced Cruise Missile, tên lửa hành trình tiên tiến), là một trong những bí mật nhất của Lầu năm góc. Không quân Pháp năm 1986 đã nhận tên lửa tuần tiễu đầu tiên có đầu đạn nhiệt hạch của mình, loại ASMP, tên lửa "không đối đất tầm trung bình", do Aérospatiable chế tạo.
+Trong những năm 1990 và sau này với sự ứng dụng rộng rãi công nghệ hệ thống định vị toàn cầu (GPS) tên lửa hành trình đã trang bị công nghệ này cho việc dẫn đường đạt độ chính xác gần như tuyệt đối (Toạ độ mục tiêu được đưa vào chương trình dẫn đường của hệ thống dẫn hướng theo quán tính, trong quá trình bay lên lửa liên tục kết nối với hệ thống định vị toàn cầu để xác định toạ độ của mình, so sánh với toạ độ mục tiêu và đưa ra các hiệu chỉnh tham số bay). Với sự áp dụng dẫn đường bằng GPS, bí mật công nghệ TERCOM của Hoa Kỳ mất vai trò độc tôn, giờ đây các nước công nghệ hạng hai cũng có thể chế tạo tên lửa hành trình có độ chính xác cao, việc này tạo thách thức phổ biến vũ khí công nghệ cao ra khắp thế giới. Hiện nay đã có ít nhất là 12 nước xuất khẩu tên lửa hành trình và hàng chục nước khác có loại vũ khí này ở các mức độ hiện đại khác nhau.
+
+
+== Các hệ tên lửa hành trình nổi tiếng ==
+Bom bay V-1 của Đức Quốc xã
+Tomahawk chống mục tiêu mặt đất của Hoa Kỳ
+Kh-101 chống mục tiêu mặt đất của Liên Xô/Nga
+Harpoon chống tàu chiến của Hoa Kỳ
+Các phương án SS-N chống tàu chiến của Liên Xô/Nga (P-15 Termit, P-270 Moskit, P-700 Granit, P-800 Oniks, Kh-35, 3M-54 Klub, K-300P Bastion-P)
+Apache của Pháp
+Gabriel của Israel
+Otomat của Ý
+RBS-15 của Thuỵ Điển
+
+
+== Xem thêm ==
+Tên lửa
+Bom bay V-1
+Hệ thống tự dẫn
+Danh sách tên lửa
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Các vấn đề về tên lửa hành trình – trang của Hiệp hội các nhà khoa học Hoa Kỳ (FAS – Federation of American Scientists)

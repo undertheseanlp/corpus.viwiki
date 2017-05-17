@@ -1,0 +1,18 @@
+Một phương pháp chuyển tự tiếng Đức sang ký tự Latinh thông thường không cần thiết vì tiếng Đức cũng dùng bảng ký tự Latinh. Tuy nhiên, ngoài 26 ký tự Latinh căn bản, tiếng Đức còn dùng thêm các ký tự sau: ä, ö, ü (và các dạng viết hoa Ä, Ö, Ü) và ß. Với mã Unicode dùng bởi hầu hết máy tính hiện nay, các ký tự đặc biệt của tiếng Đức đều được gán một giá trị độc nhất và chính xác; tuy nhiên một phương pháp chuyển tự cho các ký tự đó vẫn cần thiết khi người viết không có một bàn phím đặc biệt.
+
+
+== Ä, Ö và Ü ==
+Các ký tự ä, ö, ü, Ä, Ö và Ü thường được biết chung dưới tên Umlaut. Trong tiếng Đức, um- có nghĩa là "thay đổi" và Laut có nghĩa là "âm thanh".
+Khi không thể viết các Umlaut như dạng nguyên thủy của chúng, các ký tự ä, ö, ü, Ä, Ö và Ü thường được viết thành ae, oe, ue, Ae, Oe và Ue.
+Tuy nhiên, quy tắc trên cần được áp dụng với nhiều thận trọng, nhất là với các tên họ, ví dụ có những người có họ Müller và cũng có những người có họ Mueller.
+
+
+== ß ==
+Ký ß có tên là Eszett hay scharfes s. Ký tự này không có dạng viết hoa vì trong tiếng Đức nó chỉ có thể xuất hiện tại cuối một từ. Khi chuyển tự, ß được viết thành ss.
+
+
+== ſ ==
+Ký tự này thường được dùng trong cổ văn tiếng Đức, nhưng đã không còn được dùng kể từ thập niên 1940.
+
+
+== Tham khảo ==

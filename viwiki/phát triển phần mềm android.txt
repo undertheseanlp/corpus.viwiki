@@ -1,0 +1,98 @@
+Phát triển phần mềm Android là quy trình tạo ra các ứng dụng cho hệ điều hành Android. Các ứng dụng chủ yếu được phát triển bằng ngôn ngữ lập trình Java, sử dụng bộ phát triển phần mềm Android, tuy vậy các môi trường phát triển khác cũng có thể được sử dụng.
+
+
+== Các công cụ phát triển chính thức ==
+
+
+=== Android SDK ===
+Bộ phát triển phần mềm (SDK) cho Android bao gồm một tập hợp đầy đủ các công cụ phát triển. Bao gồm một bộ gỡ lỗi, các thư viện,,một giả lập thiết bị cầm tay dựa trên QEMU, tài liệu, mã mẫu, và hướng dẫn. Các nền tảng được hỗ trợ hiện tại bao gồm các máy tính chạy Linux (bất cứ máy để bàn hiện đại nào chạy các bản phân phối Linux), Mac OS X 10.5.8 hay mới hơn, và Windows XP hay mới hơn.
+
+
+==== Android Debug Bridge ====
+
+
+==== Fastboot ====
+
+
+=== Android NDK ===
+
+
+=== Bộ phát triển phụ trợ mở cho Android ===
+
+
+=== Hỗ trợ phát triển bằng ngôn ngữ Go ===
+
+
+== Phát triển phần cứng bên ngoài ==
+
+
+== Các công cụ phát triển bên thứ ba ==
+
+
+=== App Inventor cho Android ===
+
+
+=== Basic4android ===
+Basic4android là một sản phẩm thương mại tương tự như Simple. Lấy cảm hứng từ Microsoft Visual Basic 6 và Microsoft Visual Studio, nó giúp việc lập trình Android trở nên dễ dàng hơn nhiều cho những lập trình viên Visual Basic vốn cảm thấy khó khăn khi lập trình Java. Basic4android được phát triển rất tích cực, và có cộng đồng trực truyến mạnh mẽ của các lập trình viên Basic4android.
+
+
+=== Corona SDK ===
+Corona SDK là bộ phát triển phần mềm (SDK) được tạo ra bởi Walter Luh, nhà sáng lập của Corona Labs Inc.. Corona SDK cho phép lập trình viên xây dựng ứng dụng di động cho thiết bị iPhone, iPad và Android bằng ngôn ngữ Lua, vốn được nằm trên của C++/OpenGL.
+
+
+=== Delphi ===
+
+
+=== HyperNext Android Creator ===
+
+
+=== Kivy ===
+
+
+=== Lazarus ===
+Lazarus IDE có thể được sử dụng để phát triển ứng dụng Android bằng ngôn ngữ Object Pascal (và các thổ ngữ Pascal), dựa trên trình biên dịch Free Pascal bắt đầu từ phiên bản 2.7.1.
+
+
+=== Processing ===
+
+
+=== Qt for Android ===
+
+
+=== RubyMotion ===
+
+
+=== SDL ===
+
+
+=== Visual Studio 2015 ===
+
+
+=== Xamarin ===
+
+
+== Cuộc thi Android Developer Challenge ==
+
+
+== Firmware của cộng đồng ==
+
+
+== Các tiêu chuẩn Java ==
+
+
+== Lịch sử / Thị phần ==
+
+
+== Xem thêm ==
+Android Studio
+Danh sách các ứng dụng Android mã nguồn mở và miễn phí
+Rooting (Android OS)
+
+
+== Tham khảo ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

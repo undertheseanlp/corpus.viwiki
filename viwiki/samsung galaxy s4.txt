@@ -1,0 +1,64 @@
+Samsung Galaxy S4 là điện thoại thông minh chạy hệ điều hành Android sản xuất bởi Samsung Electronics. Lần đầu tiên ra mắt ngày 13 tháng 3 năm 2013 tại Samsung Mobile Unpacked ở New York, kế thừa sự thành công của Galaxy S III về mặt thiết kế, nhưng được nâng cấp phần cứng và tăng cường tập trung vào phần mềm sao cho tận dụng hết khả năng phần cứng của máy—chẳng hạn như chức năng nhận diện ngón tay lướt trước màn hình, và mở rộng chức năng theo dõi mắt (bao gồm di chuyển). Một biến thể khác của S4 trở thành điện thoại thông minh đầu tiên hỗ trợ mạng chuẩn mới LTE Advanced.
+S4 có sẵn vào cuối tháng 4 năm 2013 trên 327 nhà mạng ở 155 quốc gia. Sau khi được phát hành, nó trở thành chiếc điện thoại thông minh bán chạy nhất trong lịch sử của Samsung; công ty bán 20 triệu S4 chiếc trên toàn cầu sau 2 tháng phát hành. Samsung đã bán hơn 40 triệu chiếc.
+
+
+== Thông số kĩ thuật ==
+
+
+=== Phần cứng ===
+Màn hình rộng 5 inch (130 mm) (đôi khi họ nói là 4.99-inch) sử dụng ma trận PenTile RGBG Full HD Super AMOLED với 441 PPI và kính cường lực Corning Gorilla Glass 3. S4 gồm 2 phiên bản màu trằng và màu đen; tuỳ chọn ở một số vùng, Samsung cũng giới thiệu phiên bản màu nâu với viền vàng, và hồng nhạt viền vàng, Tím Mirage và hồng Twilight ở Đài Loan, Đỏ Aurora cho AT&T, và xanh Artic cho Best Buy.
+S4 có bộ nhớ trong gồm 16 GB, 32 GB hoặc 64 GB, có thể mở rộng lên đến 64 GB với khe cắm microSD.
+S4 GT-I9505 gồm bộ thu phát LTE nhiều băng tầng và cả hai phiên bản đều có LED hồng ngoại phục vụ cho việc điều khiển từ xa. Vào 24 tháng 6 năm 2013, một phiên bản khác của S4 được phát hành ở Hàn Quốc hỗ trợ mạng LTE Advanced. Nó là điện thoại thông minh đầu tiên hỗ trợ mạng LTE Advanced. Phiên bản này bao gồm vi xử lý lõi tứ 1.9 GHz Krait Snapdragon 800.
+S4 hỗ trợ định dạng video High Efficiency Video Coding (HEVC).
+Ngoài màn hình cảm ứng, S4 có phím Home vật lý nằm ở phía gần cuối màn hình, ở dưới cùng S4 là microphone và cổng microUSB để kết nối dữ liệu và sạc; nó hỗ trợ USB host và MHL 2.0. Phím âm lượng nằm ở cạnh trái và phím nguồn/khoá nằm ở cạnh phải. Ở đỉnh trên là jack tai nghe 0,137 inch (3,5 mm), microphone thứ hai, và cổng hồng ngoại. Mặt sau của S4 là máy ảnh 13-megapixel và LED flash, và phía ở giữa bên trái là loa.
+
+Phụ kiện chính thức của Samsung cho S4 là S-View Cover, sử dụng cảm biến trên điện thoại sẽ tắt màn hình mỗi khi đóng nắp lại và màn hình hiển thị thời lượng pin, thời gian, và tình trạng mạng trên cửa sổ trong suốt của cover.
+Đáng chú ý, S4 không bao gồm thu nhận FM radio,như các thiết bị trước.
+S4 gồm biến thể với các phần cứng sau:
+
+
+==== Biến thể lõi tứ ====
+Phiên bản S4 ở Bắc Mỹ, hầu hết châu Âu, một phần châu Á, và một số quốc gia khác sử dụng vi xử lý Snapdragon 600 SoC của Qualcomm gồm lõi tứ 1.9 GHz Krait 300 CPU và Adreno 320 GPU.
+
+
+==== Biến thể lõi tám ====
+Đây là phiên bản S4 sử dụng chip Exynos 5 Octa (8 lõi) (SoC) của Samsung gồm kiến trúc ARM Big.little heterogeneous đầu tiên (CPU). Tám lõi CPU gồm a 1.6 GHz lõi tứ Cortex-A15 và 1.2 GHz lõi tứ Cortex-A7.
+
+
+=== Phần mềm ===
+S4 ra mắt với Android 4.2.2 và giao diện tuỳ biến TouchWiz Nature của Samsung. Chế độ theo dõi mắt được mở rộng trên S4; tính năng "Smart Scroll" cho phép người dùng cuộn trang bằng mắt, và "Smart Pause" cho phép ngừng video khi người dùng không nhìn vào màn hình. "Air View" thực hiện cử chỉ và các chức năng khác (như xem trước ảnh hoặc tin nhắn) bằng các giữ hoặc chạm nhẹ vào màn hình, tương tự như tính năng "S-Pen" trên dòng Galaxy Note của Samsung. "Group Play" cho phép chia sẻ dữ liệu giữa hai điện thoại Galaxy, cùng với chơi game nhiều người và phát nhạc giữa điện thoại S4.
+Máy ảnh được bổ sung nhiều tính năng mới (một trong số đó lần đầu tiên được thấy trên Galaxy Camera), bao gồm cập nhật giao diện, và chế độ mới như là "Drama" (lấy nhiều chuyển trong nhiều ảnh vào một ảnh), "Eraser" (cho phép người dùng loại bỏ yếu tố không cần thiết), "Dual Shot" (sử dụng cả máy ảnh trước, hiệu ứng ảnh trong ảnh), "Sound and Shot" (cho phép người dùng ghi lại âm thanh trong bức hình), "Animated Photo", và "Story Album"... Một số ứng dụng mới tái phát hành bao gồm WatchOn, S Translator, theo lõi luyện tập S Health, S Voice Drive, S Memo, TripAdvisor.
+
+
+==== Cập nhật ====
+Giữ tháng 6–7 2013, Samsung bắt đầu tung ra bản cập nhật cho phép các ứng dụng có thể di chuyển vào thẻ SD, giải phóng 80 megabytes trống, ổn định máy ảnh.
+Đầu tháng 8 năm 2013, biến thể Google Play Edition của S4 bắt đầu nhận được cập nhật Android 4.3. Tháng 11 2013, Samsung phát hành cập nhật Android 4.3 cho tất cả biến thể của S4.
+
+
+=== Phiên bản biến thể ===
+Một vài phiên bản biến thể đã được bán ra, và hầu hết các biến thể chỉ khác nhau là hỗ trợ mạng khu vực và băng thông khác nhau.
+
+
+==== Phiên bản Google Play ====
+Tại Google I/O 2013, Samsung và Google phát hành phiên bản của Mỹ. S4 được bán ra vào 26 tháng 6 năm 2013 thông qua Google Play, chạy hệ điều hành Android gốc 4.2.2, sau đó được cập nhật lên 4.3, do Samsung cung cấp; nó hỗ trợ LTE trên mạng AT&T và T-Mobile. Mã hiệu của nó là GT-I9505G.
+
+
+==== LTE Advanced ====
+Samsung làm mới S4 ở Hàn Quốc với mã hiệu SHV-E330K/S/L vào tháng 8 năm 2013 giống như sản phẩm trước, ngoại trừ chip Qualcomm Snapdragon 800 và hỗ trợ LTE Advanced cho phép điện thoại có thể tải dữ liệu lên đến 150 Mbit/s. Thiết bị SHV-E330L của LG Uplus là điện thoại thông minh đầu tiên "100% LTE" có thể sử dụng, đàm thoại và tin nhắn chỉ thông qua LTE. Điện thoại không sử dụng mạng LG Uplus 3G CDMA; tuy nhiên, khi sử dụng ngoài Hàn Quốc điện thoại sẽ sử dụng mạng GSM và UMTS giống như LG Uplus chỉ sử dụng nhà mạng có hỗ trợ chế độ LTE-only và điều này gây nhầm lẫn cho người tiêu dùng.
+Samsung phát hành bản LTE-A (GT-I9506) ở Đức cho Vodafone và Deutsche Telekom và ở Pháp cho Orange.
+
+
+==== S4 cho LTE ở ngoại ô Mỹ ====
+Samsung phát hành bản SCH-I545L trong hỗ trợ của LTE ở ngoại ô Mỹ.
+
+
+== Xem thêm ==
+Samsung Galaxy S series
+Android
+
+
+== Tham khảo ==
+
+
+== Liên kết ==
+Website chính thức

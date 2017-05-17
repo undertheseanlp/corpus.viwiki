@@ -1,0 +1,161 @@
+Samsung Galaxy S là một điện thoại thông minh màn hình cảm ứng dạng thanh chạy hệ điều hành Android do Samsung Electronics thiết kế, phát triển và tiếp thị. Nó là thiết bị đầu tiên của dòng điện thoại thông minh Android thứ ba được sản xuất bởi Samsung. Nó được công bố với báo chí vào tháng 3 năm 2010 và mở bán vào tháng 6 năm 2010.
+Galaxy S có hơn 20 biến thể. Phên bản quốc tế 'GT-I9000' có bộ xử lý ARM "Hummingbird" 1 GHz, bộ xử lý đồ họa PowerVR, bộ nhớ flash 2 hoặc 4 GB, màn hình cảm ứng Super AMOLED 4 in (10 cm) độ phân giải 480×800 pixel, kết nối Wi-Fi, máy ảnh chính 5-megapixel cùng máy ảnh sau 0.3-megapixel. Các phiên bản biến thể có thể bao gồm tùy chỉnh về sóng di động địa phương, hay thay đổi về bố trí nút, bàn phím, màn hình, máy ảnh hay Android OS.
+Tại thời điểm phát hành, Galaxy S là điện thoại thông minh có bộ xử lý đồ họa nhanh nhất,, và mỏng nhất với 9.9 mm, và là điện thoại Android đầu tiên đạt chứng nhận DivX HD.
+Tính đến năm 2013, đã có hơn 25 triệu đơn vị điện thoại Galaxy S được bán ra. Cái tên Galaxy S được tiếp tục với các các điện thoại thông minh Galaxy S Plus (dựa trên Snapdragon) và Galaxy S Advance (dựa trên NovaThor). Phát hành lớn kế tiếp của dòng này là Samsung Galaxy S II.
+Năm 2012, Samsung giới thiệu phiên bản 2 SIM của Galaxy S, là Samsung Galaxy S Duos.
+
+
+== Ra mắt ==
+
+
+== Sự đón nhận ==
+
+
+== Phần cứng ==
+
+
+=== Bộ xử lý ===
+
+
+=== Bộ nhớ ===
+
+
+=== Màn hình ===
+
+
+=== Âm thanh ===
+
+
+=== Máy ảnh ===
+
+
+== Phần mềm ==
+
+
+=== Giao diện người dùng ===
+
+
+=== Ứng dụng đi kèm ===
+
+
+=== Hỗ trợ đa phương tiện ===
+
+
+=== Cập nhật ===
+
+
+==== Nâng cấp lên Android 2.2 ====
+
+
+==== Nâng cấp lên Android 2.3 ====
+
+
+==== Android 4.0 và các phiên bản mới hơn ====
+
+
+=== Không chính thức ===
+
+
+== Các biến thể ==
+
+
+=== Quốc tế ===
+
+
+==== GT-I9000B ====
+
+
+==== GT-I9000M ====
+
+
+==== GT-I9000T ====
+
+
+==== GT-I9000/M4 ====
+
+
+==== GT-I9003 ====
+
+
+=== Bắc Mĩ ===
+
+
+==== Captivate ====
+
+
+==== Vibrant ====
+
+
+==== Fascinate ====
+
+
+==== Galaxy S Showcase ====
+
+
+==== Epic 4G ====
+
+
+==== Stratosphere ====
+
+
+==== Indulge ====
+
+
+==== Galaxy Proclaim ====
+
+
+==== Infuse ====
+
+
+==== Aviator ====
+
+
+=== Châu Á ===
+
+
+==== SC-02B ====
+
+
+==== SHW-M110S ====
+
+
+==== SHW-M130K ====
+
+
+==== SHW-M130L ====
+
+
+==== SCH-I909 ====
+
+
+==== GT-I9008 ====
+
+
+==== GT-I9088 ====
+
+
+=== Nexus S ===
+
+
+== Dòng sản phẩm Galaxy S ==
+
+
+== Pháp lý ==
+
+
+== Xem thêm ==
+Samsung Galaxy S series
+Samsung Galaxy Tab
+Samsung Infuse 4G
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang chủ của Samsung Galaxy S
+Mã nguồn chính thức của Samsung Galaxy S (Phiên bản cho Sprint là SPH-D700 DI18)
+Samsung Apps
+Trang hỗ trợ của Samsung
+ARM NEON Multimedia Applications
+Hệ điều hành CyanogenMod (Alternative Android distribution)

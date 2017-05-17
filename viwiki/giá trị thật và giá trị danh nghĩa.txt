@@ -1,0 +1,4 @@
+Trong kinh tế học, giá trị được nhắc tới thường được làm rõ là giá trị thực hay giá trị danh nghĩa. Khi so sánh các giá trị theo thời gian (ví dụ GDP năm 2000 so với GDP 2010) người ta thường phải quy các đại lượng này về giá trị thực, tức là quy về sử dụng cùng một đại lượng đo lường để so sánh. Giá trị danh nghĩa của GDP 2010 có thể lớn gấp hai lần giá trị danh nghĩa của GDP 2000 nhưng nếu đồng tiền để tính GDP 2010 chỉ bằng nửa giá trị so với đồng tiền để tính GDP năm 2000 thì giá trị thực của GDP hai năm này bằng nhau. Ở đây, đồng tiền năm 2010 không thể so sánh với đồng tiền năm 2000 vì giá trị thời gian của tiền là khác nhau ở các thời điểm.
+
+
+== Tham khảo ==

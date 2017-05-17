@@ -1,0 +1,142 @@
+Đây là danh sách thiết bị hiển thị với mật độ điểm ảnh ở pixel trên cm (ppcm) và pixel trên inch (PPI). Thiết bị màn hình có giới hạn số lượng của pixel có thể hiển thị, và không gian hạn chế mà chúng hiển thị. Trên một máy tính xách tay hoặc điện thoại di động, mật độ điểm ảnh cao hơn là do mong muốn, do những thiết bị này dùng để xem gần. Mật độ điểm ảnh thường chỉ xác định chiều ngang vào dọc.
+Màn hình có mật độ điểm ảnh cao nhất hiện nay tính đến tháng 4 năm 2012, là màn hình 5.2-MP (2.560 x 2.048) 0,61" của MicroOLED, theo tính toán ppi hơn 5.300.
+
+
+== Thiết bị của nhà sản xuất ==
+
+
+=== Acer ===
+
+
+=== Ainol ===
+
+
+=== Alcatel ===
+
+
+=== Amazon ===
+
+
+=== Apple ===
+
+
+=== Asus ===
+
+
+=== BlackBerry ===
+
+
+=== Google ===
+
+
+=== HP ===
+
+
+=== HTC ===
+
+
+=== Huawei ===
+
+
+=== IBM ===
+
+
+=== Jolla ===
+
+
+=== LG ===
+
+
+=== Microsoft ===
+
+
+=== Motorola Mobility ===
+
+
+=== Nintendo ===
+
+
+=== Nokia ===
+
+
+=== Olipad ===
+
+
+=== OLPC ===
+
+
+=== Openmoko ===
+
+
+=== OpenPandora ===
+
+
+=== Oppo ===
+
+
+=== Palm ===
+
+
+=== Panasonic ===
+
+
+=== Pioneer ===
+
+
+=== Pixel Qi ===
+
+
+=== Samsung ===
+
+
+=== Sharp ===
+
+
+=== Sony ===
+
+
+=== Sony Ericsson ===
+
+
+=== Tesco ===
+
+
+=== Toshiba ===
+
+
+=== Xiaomi ===
+
+
+== Màn hình thương mại ==
+
+
+=== Desktop ===
+
+
+=== Di động ===
+
+
+== Truyền hình ==
+
+
+== Màn hình E-ink ==
+(4, 8 hoặc 16 mức độ màu xám)
+
+
+== Máy ảnh kỹ thuật số ==
+
+
+== Thiết bị lọc theo kích thước ==
+
+
+== Xem thêm ==
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ==
+Tính toán PPI, tính PPI, dot pitch, và kích thước của màn hình hiển thị.

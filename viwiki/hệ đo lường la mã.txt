@@ -1,0 +1,26 @@
+
+== Hệ đo lường chiều dài của La Mã ==
+Đây là hệ đo lường được dùng chính thức ở Đế quốc La Mã(31 TCN - 476 SCN)và sau đó được tiếp tục sử dụng ở khu vực Tây Âu một thời gian dài trong thời kỳ Trung Cổ.Thậm chí ở một số nơi như nước Anh,các đơn vị này vẫn được sử dụng đến tận cuối thời Phục Hưng. Học giả La Mã Balbus(mất năm 100) đã tóm tắt hệ đo lường này trong cuốn"Trình bày và tính toán đo lường" của ông:
+1 Digitus = 1,85 cm
+1 Uncia = 11⁄3 digitus = 2,46 cm hoặc 2,5 cm
+1 Palmus = 4 digitus, 3 uncia = 7,4 cm hoặc 7,5 cm
+1 Sextans = 3 palmus, 9 uncia, 12 digitus = 22,2 cm hoặc 22,5 cm
+1 Pes = 4 palmus, 12 uncia, 16 digitus = 29,6 cm hoặc 30 cm
+Trước thời Vespasian giá trị của 1 pes = 29,6 cm.Theo nghiên cứu từ congius của William Smith trong thời Vespasian thì từ sau năm 75 giá trị của 1 pes = 30 cm
+1 Pes quadratus = 8 semipes(đơn vị độ dài bằng nửa pes) = 118,4 cm hoặc 120 cm
+1 Cubit = 2 Sextant, 6 palmus, 18 uncia = 44,4 cm hoặc 45 cm
+1 Gradus = 2,5 pes = 74 cm hoặc 75 cm
+1 Passus = 5 pes = 148 cm hoặc 150 cm
+1 Decempeda = 10 pes = 296 cm hoặc 300 cm
+1 Actus = 120 pes = 35,52 m hoặc 36 m
+1 stadium = 625 pes, 125 passus = 185 m hoặc 187,5 m
+1 p. = 1.000 pes = 296 m hoặc 300 m
+1 dặm La Mã = 1.000 passus = 1,48 km hoặc 1,5 km
+Ngoài các đơn vị đo độ dài ở trên, người La Mã thỉnh thoảng cũng thêm các tiền tố như semi(một nửa), bi(đôi)... để mô tả chính xác chiều dài một vật nào đó; chẳng hạn như trong cuốn Lịch sử La Mã, Livius đã dùng bipalme mô tả 1 mũi tên có đầu nhọn dài 2 palm (14,8 cm) và semicubitalus cho chiều dài nửa cubit (22,2 cm) của cán mũi tên.
+
+
+== Xem thêm ==
+Đơn vị đo
+
+
+== Tham khảo ==

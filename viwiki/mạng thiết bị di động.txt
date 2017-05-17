@@ -1,0 +1,83 @@
+Mạng thiết bị di động hay mạng di động, mạng mobile (tiếng Anh: cellular network, nghĩa là mạng tế bào) là một mạng vô tuyến bao gồm một số lượng các tế bào vô tuyến (radio cell), gọi tắt là tế bào, được phục vụ bởi một máy phát (transmitter) cố định, được gọi là các trạm gốc (cell site hoặc base station). Các tế bào này được dùng để phủ các vùng khác nhau với mục đích cung cấp vùng phủ sóng trên một diện rộng hơn gấp rất nhiều lần so với một tế bào. Mạng các tế bào vốn dĩ không đối xứng với một tập hợp các trạm thu phát vô tuyến chính cố định, mỗi trạm phục vụ một tế bào và một tập các trạm thu phát phân tán (thường là di động nhưng không phải lúc nào cũng như vậy) cung cấp dịch vụ cho người sử dụng.
+So với các giải pháp khác, mạng thiết bị di động đem lại một loạt các lợi điểm:
+Dung lượng tăng
+Năng lượng tiêu dùng giảm
+Bao phủ tốt hơn
+
+
+== Các đặc điểm chung ==
+Yêu cầu căn bản đối với một mạng thuộc khái niệm mạng tế bào là một phương cách để mỗi trạm phân tán phân biệt được các tín hiệu từ máy phát của chính nó với tín hiệu từ các máy phát khác. Có hai giải pháp thông dụng cho vấn đề này, FDMA (Frequency Division Mutiple Access - đa truy nhập phân tần số ) và CDMA (Code Division Multiple Access - đa truy nhập phân mã). FDMA hoạt động được bằng cách sử dụng một tần số khác với tất cả các cell láng giềng. Bằng việc điều chỉnh theo tần số của một cell được chọn, các trạm khuếch đại có thể tránh được tín hiệu từ các cell láng giềng. Nguyên lý của CDMA phức tạp hơn nhưng cho kết quả tương tự; các trạm thu phát phân tán có thể chọn một cell và "nghe" nó. Không thể sử dụng các phương pháp dồn kênh khác như PDMA (Polarisation Division Multiple Access - đa truy nhập phân cực ) và TDMA (Time Division Multiple Access - đa truy nhập phân theo thời gian) để tách tín hiệu của một cell với tín hiệu của cell cạnh nó, do hiệu ứng của hai phương pháp này thay đổi theo vị trí nên việc tách tín hiệu hầu như là không khả thi. Tuy nhiên, trong một số hệ thống, TDMA được kết hợp với FDMA hoặc CDMA để đem lại nhiều kênh trong vùng phủ của một tế bào đơn lẻ.
+Trong ví dụ của ta về công ty taxi, mỗi thiết bị liên lạc vô tuyến có một nút chỉnh. Nút này có chức năng chọn kênh và cho phép chỉnh thiết bị vô tuyến theo các tần số khác nhau. Khi lái xe chạy quanh thành phố, họ chuyển từ kênh này sang kênh khác. Những người lái xe biết tần số nào phủ khu vực xấp xỉ nào, khi họ không nhận được tín hiệu từ máy phát, họ thử các kênh khác cho đến khi tìm thấy một kênh hoạt động. Tại mỗi thời điểm chỉ có một người lái xe nói, khi được điều phối viên mời (kiểu TDMA)
+
+
+== Truyền tin hoặc thư thoại ==
+Gần như hệ thống mạng tế bào nào cũng có một dạng cơ chế lan truyền (broadcast). Nó có thể được dùng trực tiếp để phân phối thông tin cho nhiều mobile, thông thường, thí dụ trong các hệ thống điện thoại di động, nhiệm vụ quan trọng nhất của phân tán thông tin(broadcasting) là để thiết lập được các kênh cho liên lạc một-tới-một giữa trạm thu phát sóng di động và trạm gốc. Quá trình này được gọi là paging.
+Ta biết một số hạn chế các cell ở nơi mà phone xuất hiện là sư khác nhau qua trình truyền tin từ mạng tới mạng, (nhóm cell này gọi là vùng cục bộ (Local Area - LA), trong hệ thống toàn cầu GSM hay còn gọi là vùng đường truyền trong UMTS). Chế độ thư thoại thay thế cách truyền thông tin nhắn trên mỗi cell. Tin nhắn thư thoại sẽ được dùng để trao đổi thông tin. Nó xuất hiện tại các máy nhắn tin, trong hệ thống CDMA để gửi một dịch vụ tin nhắn ngắn, và trong hệ thống UTMS ở đó cho phép tải xuống trong mỗi gói truyền tin chậm. Ví dụ về người lái xe TOTO là một ví dụ tốt trong trường hợp này. Một thông lượng truyền đi, được thường xuyên sử dụng để nói về điều kiện đường truyền và hầu như nói về công việc thỏa mãn với mọi người. nói cách khác, tiêu biểu ở đây là một danh sách các xe được đợi phục vụ. Khi một người tới phục vụ, người điều hành TITI sẽ gọi số của TÔTÔ qua không gian. Những người lái xe nghe người điều hành đọc địa chỉ, và TÔTÔ biết phải đi đâu.
+
+
+== Tái sử dụng ==
+
+
+=== Cơ chế tái sử dụng trong mạng mobile ===
+Việc khuếch đại công suất trong hệ thống mạng mobile, được so sánh với một mạng có một đường truyền đơn lẻ, với cùng một tần số có thể được sử dụng lại tại cá vùng khác nhau cho một sự chuyển giao hoàn thiện khác. Nếu ở đó có một trạm truyền phát đơn lẻ, chỉ một sự chuyển phát được sử dụng trên mỗi lần tần số được phát ra. Không may, ở đó chắc chắn có một cấp độ chèn vào từ tín hiệu của các cell mà sử dụng cùng tần số. Điều này có nghĩa là trong hệ thống FDMA chuẩn, có ít nhất một cell mất đi giữa các cell mà được sử dụng lại, với cùng một tần số xuất hiện
+Việc tái sử dụng có tỉ lệ tại mỗi tần số được sử dụng trong mạng. đó là 1/n với n là số các cell không cùng tần số xuất hiện, trong mỗi lần dịch chuyển. Giá trị tái sử dụng thường là 7.
+CDMA hệ thống mã hóa đa truy nhập - hệ thống sử dụng một dải tần số rộng hơn với cùng một tỉ lệ các sự phát chuyển như trong FDMA, nhưng nó không được khôi phục bởi mỗi khả năng tái sử dụng của các nhân tố là 1. nói cách khác. Mỗi cell sử dụng cùng tần số xuất hiện, và với các hệ thống khác nhau sẽ được chia thành các mã đúng hơn là tần số xuất hiện.
+Phụ thuộc vào diện tích thành phố, hệ thống taxi của TITI có thể không tái sử dụng trong chính thành phố đó, nhưng có thể trong thành phố gần đó, một tần số xuất hiện tương tự được sử dụng. Trong thành phố lớn, nói cách khác, tái sử dụng chắc chắn được dùng.
+
+
+=== Di chuyển từ cell tới cell và truyền giao ===
+Sử dụng nhiều cell nghĩa là, nếu các trạm thu phát phân bố là các máy mobile, và di chuyển từ nơi này qua nơi khác, nó có thể chuyển từ cell này sang cell khác. Các máy kiểu này phụ thuộc vào mạng, và sự truyền đạt của các thay đổi. Ví dụ, Nếu ở đó có sự kết nối liên tục, không ngừng, và ta không muốn ngắt nó, tránh việc ngắt liên kết. Trong trường hợp này, phải có sự phân biệt kết hợp rõ ràng cùng hạng giữa các trạm chính và trạm mobile. Mỗi hệ thống được dùng, sử dụng một loại của đa truy nhập độc lập trong mỗi cell, và mỗi pha sớm của quá trình truyền giao (handoff) đều được phục vụ kênh tác nhiệm mới cho các trạm thu phát mobile trên trạm cơ bản nó sẽ phục vụ. Mobile sau đó sẽ chuyển chúng từ các kênh trên các trạm cơ bản, tới các kênh mới và từ điểm đó, trên các liên kết được thay thế.
+Chi tiết chính xác của một hệ thống mạng mobile là chuyển từ một trạm cơ bản, đến một số lượng lớn các thay đổi từ hệ thống tới hệ thống. Ví dụ, trong truyền giao của GSM, và W-CDMA việc truyền giao các tần số trong các trạm mobile sẽ được đo đạc bởi các kênh, mà nó có thể khởi động trước. Một trong các kênh truyền được xác nhận chắc chắn, Mạng sẽ được điều khiển, và các trạm mobile được chuyển tới một kênh mới và cùng một thời gian đó, có 3 kết nối trực tiếp, nghĩa là không có sự ngắt quãng nào trong liên kết. Trong chuẩn CDMA2000 và W-CDMA với cùng tần số chuyển giao, cùng kênh chuyển sẽ chỉ định kênh nào được truyền nhậ trong cùng một thời gian (tình huống này gọi là chuyển giao mềm). Trong chuẩn IS-95 truyền giao nội bộ và hệ thống tín hiệu cũ tương tự là NMT, nó sẽ không đo được mục tiêu kênh truyền phát muốn kết nối ??. trong trường hợp khác, kĩ thuật để sử dụng là tín hiệu hoa tiêu trong hệ thống IS-95. Nghĩa là ở đó, hầu hết các gói bị gián đoạn trong kết nối sẽ được tìm bởi các kên truyền khác, so với kênh truyền cũ
+Nếu một kết nối được thực thi, hoặc bị ngăn chặn đứt đoạn, đó là vấn đề cho các trạm mobile phát sinh để dịch chuyển từ cell này tới cell khác trong vùng mạng.
+Trong trường hợp hệ thống taxi TITI, việc truyền giao sẽ không thực sự thi hành, Người lái xe sẽ di chuyển từ một nơi có tần số tới một vùng khác, Nếu như một kết nối đặc biệt bị ngắt đoạn dựa trên sự mất tín hiệu yêu cầu từ người lái xe TOTO tới người điều hành, và mệnh lệnh được lặp lại. Nếu một người lái xe lỡ tin thông báo từ tổng đài. (e.g. một yêu cầu từ lái xe trong khu vực), người kháca sẽ được lưu ý để thay thế. Nếu không có người thay thế, nhà điều hành sẽ yêu cầu lại.
+Hiệu ứng của tần số của một vùng phủ sóng của một cell nghĩa là với các tần số phục vụ khác nhau sẽ phục vụ tốt cho mỗi ứng dụng khác nhau. Tần số thấp. ví dụ 450 MHz NMT, phục vụ rất tốt những vùng có sóng GSM 900 (900 MHz) là giải pháp thích hợp nhất cho các vùng phủ trong thành phố. GSM 1800 (1.8 GHz) bị hạn chết bởi các công trình kiến trúc. Điều này không thuận lợi, trong việc phủ sóng, nhưng nó lại quyết định tính năng của năng lượng. Pico cells, bao phủ toàn bộ một tòa nhà, sẽ trở thành vấn đề, và các tần số giống nhau, có thể được sử dụng tại một cell với các láng giềng lân. UMTS, tại tần số 2.1 GHz rất giống với vùng phủ sóng của GSM 1800. Tại tần số 5 GHz, 802.11a Mạng không dây Wireless LANs hoàn toàn bị hạn chế tính năng thâm nhập qua tường và các công trình kiến trúc tới một phòng đơn lẻ trong một số tòa nhà. Với cùng một thời điểm, tần số 5 GHz sẽ dễ dàng xuyên qua cửa sổ và đi vào trong tường để kết hợp với hệ thống WLAN và phủ sóng tới các vùng cần thiết.
+Dịch chuyển tới một nơi xa nào đó, năng lượng của mạng sẽ được tăng thêm (nhiều băng thông được thỏa mãn) nhưng vùng phủ sóng sẽ bị hạn chế về tầm ảnh hưởng. Liên kết Hồng ngoại được quan tâm tới việc sử dụng trong mạng Mobile, nhưng vấn đề còn lại có giới hạn tới giới hạn ứng dụng Điểm – Điểm.
+Vùng dịch vụ cell cũng có thể thay đổi do nhiễu từ các hệ thống phát, cả trong và xung quanh cell đó. Điều này luôn luôn đúng trong CDMA dựa trên các hệ thống. Máy thu (thiết bị thu) yêu cầu một số truyền tín hiệu nhiễu nào đó. Khi máy thu di chuyển ra xa máy phát, công suất được phát bị giảm
+Khi nhiễu tăng lớn hơn công suất thu từ máy phát, và công suất của máy phát không thể được tăng thêm, tín hiệu trở nên sai lệch và cuối cùng là không thể sử dụng được. Trong các hệ thống dựa trên CDMA, ảnh hưởng của nhiễu từ máy thu tín hiệu của các mobile khác trong cùng 1 cell trên miền bao phủ là rất đáng lưu ý và có một cái tên đặc biệt là cell breathing
+Hệ thống radio của công ty taxi cũ, giống như một hệ thống đang nghiên cứu, sử dụng tần số thấp và một trạm phát sóng cao, đài phát thanh ở nơi có trạm phát sóng cục bộ sẽ có một cột anten để thu phát sóng. Một người có thể nói tại mỗi thời điểm đưa ra, vùng phủ sóng có thể không thay đổi với số lượng người sử dụng. tín hiệu giảm, vì tỉ lệ nhiễu tại mỗi đỉnh núi (vật cản trở) được nghe bởi người sử dụng như là tiếng gió xẹt xẹt trên đài
+Thí dụ, vùng phủ sóng của cell tìm kiếm trên bản đồ, được cung cấp bởi người điều hành trên trang chủ mạng, trong trường hợp cụ thể, họ có thể đánh dấu các trạm thu phát, hoặc tình huống khác, họ có thể xác định chính xác vùng làm việc, và ở đó có vùng phủ sóng mạnh nhất.
+
+
+== Mạng điện thoại di động ==
+
+
+=== Trạm truyền cell ===
+Ví dụ điển hình nhất của một mạng di động là mạng điện thoại di động. Một ĐTDD là một điện thoại có thể mang đi được, cái mà nhận và thực hiện cuộc gọi qua một trạm cơ sở, hoặc tháp truyền tín hiệu. Các sóng vô tuyến được sử dụng để truyền tín hiệu tới và truyền tín hiệu đi từ ĐTDD. Các vùng địa lý rộng lớn (thể hiện vùng bao phủ của một nhà cung cấp dịch vụ) được chia thành các cell nhỏ hơn để ngăn chặn việc mất tín hiệu trên đường ngắm và số lượng lớn các điện thoại hoạt động trong một vùng.
+Mỗi cell site bao gồm một vùng từ.25 tới 20 dặm hoặc hơn, nhưng thông thường là khoảng từ.5 tới 5 dặm, và chồng chéo lên các cell site khác. Tất cả các cell site được nối với thiết bị chuyển đổi chuyển mạch (các "switch"), cái mà lần lượt kết nối tới mạng điện thoại chung hoặc tới chuyển mạch khác của công ty điện thoại.
+Khi người dùng điện thoại di chuyển từ miền cell này sang miền cell khác, bộ chuyển mạch tự động yêu cầu handset và một cell site với một tín hiệu mạnh hơn (được thông báo bở handset) để chuyển tới một kênh sóng radio mới (tần số). Khi handset phản hồi lại cell site mới, sự chuyển đổi chuyển mạch kết nối tới cell site mới.
+Với công nghệ CDMA, tiến trình diễn ra khác. Các handset đa CDMA chia sẻ một kênh sóng radio riêng; các tín hiệu được tách ra bằng cách sử dụng một mã giả nhiễu (PN code) riêng đối với mỗi phone. Khi người dùng di chuyển từ một cell tới cell khác, handset thiết lập các kết nối sóng radio đồng thời với nhiều cell site (hoặc các sector của cùng 1 site). Đây được gọi là "chuyển mạng mềm" vì nó không giống với công nghệ cellular truyền thống, không có một điểm nơi mà điện thoại chuyển mạch tới cell mới.
+Các ĐTDD đời mới sử dụng các cell vì tần số sóng radio là nguồn hạn chế và bị chia sẻ. Các cell-site và handset thay đổi tần số dưới sự điều khiển của máy tính và sử dụng các máy phát công suất thấp để số giới hạn các tần số sóng radio có được tái sử dụng bở rất nhiều người gọi với nhiễu thấp. Cụ thể, các handset CDMA phải có các điều khiển công suất ổn định tuyệt đối để tránh nhiễu với các handset khác. Một lợi ích khác là handset sẽ cần ít năng lượng pin hơn.
+Vì hầu hết các ĐTDD sử dụng công nghệ cellular, bao gồm GSM, CDMA, và AMPS (tương tự), thuật ngữ "cell phone" có thể được dụng thay thế cho thuật ngữ "mobile phone". Tuy nhiên, một ngoại lệ với các ĐTDD sử dụng công nghệ cellular là điện thoại vệ tinh. Các hệ thống cũ ngày trước là nguồn gốc cellular có thể vẫn được sử dụng ở những nơi thích hợp.
+Một số các công nghệ mobile số khác nhau bao gồm Global System for Mobile Communications (GSM), General Packet Radio Service (GPRS), Code Division Multiple Access (CDMA), Evolution-Data Optimized (EV-DO), Enhanced Data Rates for GSM Evolution (EDGE), 3GSM, Digital Enhanced Cordless Telecommunications (DECT), Digital AMPS (IS-136/TDMA), và Integrated Digital Enhanced Network (iDEN).
+
+
+== Xem thêm ==
+Advanced Mobile Phone System (AMPS)
+Base Station Subsystem - GSM radio network
+Camera Phone
+Cellular repeater
+Code Division Multiple Access (CDMA)
+Comparison of mobile phone standards
+CDMA2000
+DECT
+Enhanced Data Rates for GSM Evolution (EDGE)
+EV-DO
+GSM
+HIPERLAN
+iDEN
+IS-95
+IS-136
+Điện thoại di động
+Nordic Mobile Telephone (NMT)
+Professional Mobile Radio (PMR)
+Radio resource management (RRM)
+Signal strength
+Spectral efficiency comparison table
+Kỹ nghệ hệ thống
+TETRA
+UMTS
+WCDMA
+Mạng LAN không dây (WLAN)
+
+
+== Tham khảo ==

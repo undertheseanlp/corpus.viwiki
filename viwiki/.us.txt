@@ -1,0 +1,91 @@
+.us là tên miền quốc gia cấp cao nhất (ccTLD) của Hoa Kỳ, được thành lập năm 1985. Những người đăng ký tên miền.us phải là công dân, tổ chức Hoa Kỳ, hoặc cơ quan nước ngoài có mặt ở Hoa Kỳ. Phần lớn người đăng ký trong nước đã đăng ký .com, .net, .org và những gTLD khác, ngoài.us, tên miền mà theo truyền thống chủ yếu được dùng bởi nhiều chính phủ liên bang và tiểu bang (mặc dù bất kỳ cơ quan nào cũng có quyền lựa chọn đăng ký tên miền.us). Cụ thể hơn, tên miền .gov và .mil đã được dùng riêng cho Mỹ.
+Những người quản lý ban đầu của.us là Jon Postel của Viện Khoa học Thông tin tại Đại học Nam California. Ông quản lý.us theo hợp đồng con USC/ISI ký với SRI Quốc tế (người giữ hợp đồng.us và Tên miền cấp cao nhất dùng chung với Bộ Quốc phòng Hoa Kỳ) và sau đó là Giải pháp Mạng (người giữ hợp đồng.us và tên miền cấp cao nhất dùng chung với Tổ chức Khoa học Quốc gia). Người đăng ký chỉ có thể đăng ký tên miền cấp 3 hoặc cao hơn theo nhánh địa lý và tổ chức. Đại đa số tên miền con địa lý ở.us được ủy quyền cho nhiều cơ quan tư nhân khác nhau và người đăng ký.us sẽ đăng ký với cơ quan ủy quyền tại cấp mà họ muốn đăng ký, chứ không trực tiếp với cơ quan quản lý.us. Tuy nhiên, từ tháng 4 năm 2002, tên miền cấp 2 đã được mở để đăng ký. Tên miền.us hiện được quản lý bởi NeuStar Inc. dưới hợp đồng với Bộ Thương mại Hoa Kỳ.
+Từ khi ban hành chính thức tên miền.us là tên cấp 2, nó đã được sử dụng và phát triển bởi một số công ty tư nhân và cư dân địa phương. Mã quốc gia.us không còn dành riêng cho các cơ quan chính phủ.
+
+
+== Tên miền cấp hai quản lý bởi tiểu bang ==
+Những tên sau là lấy từ tên viết tắt bưu chính dành cho tiểu bang:
+.ak.us: Alaska
+.al.us: Alabama
+.ar.us: Arkansas
+.az.us: Arizona
+.ca.us: California
+.co.us: Colorado
+.ct.us: Connecticut
+.dc.us: Đặc khu Columbia
+.de.us: Delaware
+.fl.us: Florida
+.ga.us: Georgia
+.hi.us: Hawaii
+.ia.us: Iowa
+.id.us: Idaho
+.il.us: Illinois
+.in.us: Indiana
+.ks.us: Kansas
+.ky.us: Kentucky
+.la.us: Louisiana
+.ma.us: Massachusetts
+.md.us: Maryland
+.me.us: Maine
+.mi.us: Michigan
+.mn.us: Minnesota
+.mo.us: Missouri
+.ms.us: Mississippi
+.mt.us: Montana
+.nc.us: Bắc Carolina
+.nd.us: Bắc Dakota
+.ne.us: Nebraska
+.nh.us: New Hampshire
+.nj.us: New Jersey
+.nm.us: New Mexico
+.nv.us: Nevada
+.ny.us: New York
+.oh.us: Ohio
+.ok.us: Oklahoma
+.or.us: Oregon
+.pa.us: Pennsylvania
+.ri.us: Rhode Island
+.sc.us: Nam Carolina
+.sd.us: Nam Dakota
+.tn.us: Tennessee
+.tx.us: Texas
+.ut.us: Utah
+.va.us: Virginia
+.vt.us: Vermont
+.wa.us: Washington
+.wi.us: Wisconsin
+.wv.us: Tây Virginia
+.wy.us: Wyoming
+
+
+=== Lãnh thổ phụ thuộc ===
+.as.us: American Samoa (cũng có mã quốc gia .as)
+.gu.us: Guam (cũng có mã quốc gia .gu)
+.pr.us: Puerto Rico (cũng có mã quốc gia .pr)
+.vi.us: U.S. Virgin Islands (cũng có mã quốc gia .vi)
+
+
+== Những tên miền cấp 2 khác ==
+.dni.us: học viện quốc gia phân bố
+.fed.us: cơ quan chính phủ liên bang (thay thế khác cho .gov)
+.isa.us: interstate agency (only used for the Interstate Mining Compact Commission, www.imcc.isa.us)
+.kids.us: content suitable for children under 13
+.nsn.us: Native sovereign nations (federally recognized Native American tribes)
+
+
+== Xem thêm ==
+Tên miền quốc gia cấp cao nhất
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Domain Registry
+Expiring Lists and Information
+IANA.us whois information
+Management of.us Domain Name (U.S. Department of Commerce)
+usTLD Nexus Requirements - Requirements for registrants of.us domains, Portable Document Format
+Kids.us Content Policies
+RFC 1480: The US Domain (tháng 6 năm 1993)
+locality-based namespaces

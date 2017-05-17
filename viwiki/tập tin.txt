@@ -1,0 +1,68 @@
+Tập tin (viết tắt cho tập thông tin; còn được gọi là tệp, tệp tin); tiếng Anh: file; là một tập hợp của thông tin được đặt tên. Thông thường thì các tập tin này chứa trong các thiết bị lưu trữ như đĩa cứng, đĩa mềm, CD, DVD cũng như là các loại chip điện tử dùng kĩ thuật flash có thể thấy trong các ổ nhớ có giao diện USB. Nói cách khác, tập tin là một dãy các bit có tên và được chứa trong các thiết bị lưu trữ dữ liệu kỹ thuật số.
+
+
+== Đặc điểm ==
+Một tập tin luôn luôn kết thúc bằng 1 ký tự đặc biệt (hay dấu kết thúc) có mã ASCII là 255 ở hệ thập phân. Ký tự này thường được ký hiệu là EOF (từ chữ End Of File).
+Một tập tin có thể không chứa một thông tin nào ngoại trừ tên và dấu kết thúc. Tuy nhiên, điều này không hề mâu thuẫn với định nghĩa vì bản thân tên của tập tin cũng đã chứa thông tin. Những tập tin này gọi là tập tin rỗng hay tập tin trống.
+Độ dài (kích thước) của tập tin có thể chỉ phụ thuộc vào khả năng của máy tính, khả năng của hệ điều hành cũng như vào phần mềm ứng dụng dùng nó. Đơn vị nhỏ nhất dùng để đo độ dài của tập tin là byte. Độ dài của tập tin không bao gồm độ dài của tên tập tin và dấu kết thúc.
+
+
+== Thuộc tính ==
+Những đặc tính và giới hạn của tập tin gọi là thuộc tính của tập tin.
+
+
+=== Các loại thuộc tính ===
+Tùy theo hệ thống tập tin mà các thuộc tính này có thể khác nhau.
+Ví dụ các thuộc tính trên hệ thống tập tin FAT bao gồm:
+Archive: lưu trữ. Trên các hệ điều hành DOS thì thuộc tính này được định khi mỗi khi tập tin bị thay đổi, và bị xóa khi thực hiện lệnh backup để sao lưu dữ liệu.
+Hidden: ẩn. Khi một tập tin có thuộc tính này thì các chương trình liệt kê các tập tin theo mặc định sẽ bỏ qua, không liệt kê tập tin này. Người sử dụng vẫn có thể làm việc trên tập tin này như bình thường.
+Read-only: chỉ đọc. Khi một tập tin có thuộc tính này thì các chương trình xử lý tập tin theo mặc định sẽ không cho phép xóa, di chuyển tập tin hoặc thay đổi nội dung tập tin. Còn các thao tác khác như đổi tên tập tin, đọc nội dung tập tin vẫn được cho phép.
+System: thuộc về hệ thống. Một tập tin có thuộc tính này sẽ chịu các hạn chế bao gồm các hạn chế của thuộc tính Hidden và các hạn chế của thuộc tính Read-only, nghĩa là không bị liệt kê, không thể xóa, di chuyển, thay đổi nội dung. Thuộc tính này chủ yếu dùng cho các tập tin quan trọng của hệ điều hành.
+Sub-directory (hay directory): thư mục con. Những tập tin có thuộc tính này được xử lý như là thư mục. Thư mục là tập tin ở dạng đặc biệt, nội dung không chứa dữ liệu thông thường mà chứa các tập tin và các thư mục khác.
+Ngoài ra, còn rất nhiều thuộc tính khác của các tập tin mà tùy theo hệ điều hành sẽ được định nghĩa thêm vào.
+Ví dụ đối với hệ điều hành Linux các tập tin có thể có thêm các thuộc tính như các quyền sử dụng tập tin, đặc điểm của tập tin, và thông tin về các loại tập tin như là các loại tập tin liên kết mềm, các socket, các pipe...
+Lưu ý: Các thuộc tính của một tập tin thường không ảnh hưởng đến nội dung thông tin của tập tin đó nhưng lại ảnh hưởng rất nhiều đến chức năng và việc sử dụng tập tin. Ví dụ các tập tin không có thuộc tính cho phép thi hành thì không thể xem là một phần mềm khả thi được mặc dù nội dung của nó có thể chỉ chứa các chỉ thị máy tính. Cách để làm tập tin trở nên khả thi là thay đổi thuộc tính khả thi của nó hay là phải thay đổi phần đuôi của tên tập tin (như là trường hợp của hệ điều hành Windows - DOS)
+
+
+== Định dạng ==
+Cấu trúc của một tập tin định nghĩa cách thức mà tập tin đó được chứa, được thực thi, và thể hiện trên các thiết bị (như màn hình hay máy in) gọi là định dạng của tập tin. Định dạng này có thể đơn giản hay phức tạp.
+Định dạng của tập tin phụ thuộc vào nhiều yếu tố trong đó quan trọng nhất bao gồm:
+Hệ điều hành khác nhau và kiến trúc máy tính khác nhau có thể đòi hỏi các định dạng cho tập tin một cách khác nhau.
+Ví dụ: Trên cùng một kiến trúc Intel, tập tin văn bản dạng đơn giản nhất tạo nên bởi hệ điều hành Linux cũng có sự khác nhau với tập tin văn bản của Windows (hay DOS). Dĩ nhiên, các tập tin văn bản này lại càng không thể đọc được trên các máy dùng hệ điều hành Mac OS (chúng khác nhau hoàn toàn về mặt kiến trúc máy tính) nếu không có các tiện ích đặc biệt để chuyển đổi định dạng.
+Tập tin dùng cho các mục tiêu khác nhau cũng sẽ có các định dạng khác nhau. Ngoài sự ràng buộc về định dạng của hệ điều hành, các tập tin dùng trong các ứng dụng hay các phần mềm khác nhau cũng sẽ khác nhau và sự khác nhau này tùy thuộc vào kiến trúc của các ứng dụng sử dụng các tập tin đó.
+Ví dụ dễ hiểu nhất là định dạng của mật tập tin văn bản phải khác với định dạng của một tập tin hình ảnh hay tập tin âm thanh.
+Các tập tin dùng cho cùng một mục tiêu cũng có thể có định dạng khác nhau tuỳ theo nhà sản xuất nào đã thiết kế ra nó.
+Ví dụ: Trong các tập tin hình vẽ đồ họa thì các tập tin kiểu Bitmap (các tệp hình có đuôi là.bmp) có định dạng hoàn toàn khác với các tập tin kiểu Tagged Image File Format (đuôi của loại tập tin này là.tif) và cũng khác với tập tin kiểu Joint Photographic Experts Group (với các đuôi có dạng.jpg hay.jpeg).
+
+
+== Tên ==
+Tùy theo hệ điều hành mà có thể có các quy ước về tên tập tin.
+Độ dài của tên tập tin tùy thuộc vào hệ thống tập tin.
+Tùy thuộc vào hệ thống tập tin và hệ điều hành mà sẽ có một số ký tự không được dùng cho tên tập tin.
+Ví dụ: Trên hệ điều hành Microsoft Windows, không được dùng các ký tự sau trong tên tập tin: \ /: * ? " < > |, tên tệp không quá 255 ký tự thường
+
+Theo truyền thống cũ của hệ thống DOS và Windows, tên tập tin thường bao gồm hai phần: phần tên và phần mở rộng (còn gọi là phần đuôi). Tuy nhiên, tên của một tập tin không nhất thiết phải có phần mở rộng này.
+
+
+== Các ví dụ về cấu trúc bit trong nội dung thông tin của tập tin ==
+
+
+=== Ví dụ về cấu trúc bit của tập tin ASCII ===
+
+Trong hình trên là hai tập tin văn bản dạng đơn giản dùng mã ASCII. Tập tin "hoso.txt" là tập tin soạn ra bằng lệnh edit của hệ điều hành Windows. Tập tin thứ nhì, "hoso2.txt", lại được soạn thảo bằng lệnh vi trong hệ điều hành Linux. Hãy lưu ý quy ước xuống hàng của tập tin trong Windows sẽ bao gồm hai byte: dấu CR (cariage return) có giá trị ASCII là 0x0D và dấu LF (line feed) có giá trị 0x0A; trong khi đó, Linux chỉ cần dấu LF là đủ. Điều này cho thấy sự khác nhau về định dạng.
+
+
+=== Ví dụ về cấu trúc bit của tập tin hình ảnh ===
+
+
+== Tham khảo ==
+
+Microsoft Press Computer Dictionary: The Comprehensive Standard for Business, School, Library, and Home. Sách bìa thường. Lần xuất bản thứ 2. Redmond, WA (Mỹ): Microsoft Corp. 1 tháng 10 năm 2003. ISBN 1-55615-597-2. Tiếng Anh.
+Evi Nemeth, Garth Snyder, Scott Seebass, và Trent R. Hein. UNIX System Administration Handbook. Lần xuất bản thứ 2. Indianapolis, IN (Mỹ): Prentice Hall PTR. 15 tháng 1 năm 1995. ISBN 0-13-151051-7. Tiếng Anh.
+Tom Swan, Inside Windows File Format. Lần xuất bản thứ nhất. SAM Publishing. 1993. ISBN 0-672-30338-8. Tiếng Anh.
+
+
+== Xem thêm ==
+Hệ thống tập tin
+Hệ quản lý tập tin
+Sao chép tập tin

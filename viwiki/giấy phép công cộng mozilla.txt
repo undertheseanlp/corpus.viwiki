@@ -1,0 +1,37 @@
+Giấy phép Công cộng Mozilla (Mozilla Public License - MPL) là một giấy phép phần mềm tự do và mã nguồn mở. Phiên bản 1.0 do Mitchell Baker phát triển khi bà là luật sư tại Tập đoàn Thông tin liên lạc Netscape và phiên bản 1.1 tại Quỹ Mozilla. Đặc điểm của MPL là lai giữa giấy phép BSD có chỉnh sửa và Giấy phép Công cộng GNU.
+MPL là giấy phép dùng cho Mozilla Application Suite, Mozilla Firefox, Mozilla Thunderbird và các phần mềm khác của Mozilla. MPL đã được nhiều người sử dụng lại làm giấy phép cho phần mềm của họ, đáng chú ý nhất có Sun Microsystems, với Giấy phép Phát triển và Phân phối Chung dành cho OpenSolaris, phiên bản mã nguồn mở của hệ điều hành Solaris 10, và hãng Adobe, với giấy phép cho dòng sản phẩm Flex của hãng.
+
+
+== Điều khoản ==
+Giấy phép được xem là một copyleft yếu. Cụ thể hơn, mã nguồn nếu được sao chép hoặc thay đổi theo giấy phép MPL phải giữ nguyên giấy phép MPL.
+MPL vừa được Sáng kiến Mã nguồn mở chứng nhận vừa là giấy phép phần mềm mã nguồn mở vừa được Quỹ Phần mềm Tự do chứng nhận là một giấy phép phần mềm tự do.
+
+
+== Tương thích với các giấy phép khác ==
+Không giống như những giấy phép copyleft mạnh, mã nguồn được cấp phép theo MPL có thể được kết hợp với các tập tin thương mại trong một chương trình ("Tác phẩm Lớn hơn"). Ví dụ, Netscape 6 trở về sau là các phiên bản thương mại của Mozilla Application Suite, bằng cách thêm chương trình AIM thương mại và các phần khác. Giấy phép MPL xem tập tin mã nguồn là biên giới giữa mã theo MPL và các phần thương mại, có nghĩa là một tập tin mã nguồn nào đó (như tập tin C++, JavaScript hay XUL) hoặc là hoàn toàn MPL hoặc là hoàn toàn thương mại. Giấy phép GPL, ngược lại, sử dụng ranh giới tiến trình của tập tin thi hành làm ranh giới giấy phép (để biết thêm chi tiết, xem bài GPL).
+
+
+== Tương thích với GPL ==
+Quỹ Phần mềm Tự do (FSF) xem giấy phép này là một giấy phépp phần mềm tự do, nhưng "không phải copyleft mạnh". Tuy nhiên, "không giống như giấy phép X11" giấy phép này có "một số hạn chế phức tạp" khiến cho nó không tương thích với GNU GPL. Tổ chức này khuyên mọi người không sử dụng giấy phép vì sự không tương thích này trừ phi điều khoản trong tiết đoạn 13 của MPL bị loại bỏ để giúp cho tác phẩm có thể phát hành theo GPL hoặc một giấy phép tương thích GPL.
+Vì những lý do này, Mozilla Suite và Firefox đã được cấp phép lại theo nhiều giấy phép, gồm có MPL, GPL và LGPL.
+
+
+== Các giấy phép dựa trên MPL ==
+Giấy phép Phát triển và Phân phối Chung
+Giấy phép Công cộng Sun
+Giấy phép Công cộng gSOAP
+Giấy phép Công cộng AROS
+Giấy phép Công cộng SugarCRM
+Giấy phép Ghi công Công cộng
+Giấy phép Công cộng Erlang
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Mozilla Public License, version 1.1, plain text (mozilla.org)
+Annotated Mozilla Public License, version 1.1 (mozilla.org)
+MPL FAQ (mozilla.org)
+Mozilla Relicensing FAQ (mozilla.org)
+List of OSI approved licenses

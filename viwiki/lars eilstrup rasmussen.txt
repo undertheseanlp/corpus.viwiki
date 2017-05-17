@@ -1,0 +1,36 @@
+Lars Eilstrup Rasmussen là nhà khoa học máy tính, nhà phát triển phần mềm và nhà đồng sáng lập Google Maps người Đan Mạch.
+
+
+== Học vấn ==
+Rasmussen tốt nghiệp bằng "kandidat" (tương đương thạc sĩ) Khoa học máy tính và Toán học ở Đại học Aarhus năm 1990. Năm 1992 ông đậu bằng thạc sĩ về Khoa học kỹ thuật computer ở Đại học Edinburgh (Scotland).
+Rasmussen bắt đầu nghiên cứu để lấy bằng tiến sĩ cùng với Mark Jerrum và Alistair Sinclair ở "Trường tin học" Đại học Edinburgh, sau đó - cùng với Sinclair - chuyển sang Berkeley, California, (Hoa Kỳ). Năm 1998, ông đậu bằng tiến sĩ ở Đại học California tại Berkeley với bản lluận án "On Approximating the Permanent and Other #P-Complete Problems".
+
+
+== Where 2 Technologies và Google Maps ==
+Năm 2003, Lars và người anh/em Jens Rasmussen, cùng 2 người Úc - Noel Gordon và Stephen Ma - đồng sáng lập Where 2 Technologies, một công ty ở Sydney, Úc liên quan tới việc tìm kiếm trực tuyến trên bản đồ. Công ty này được Google mua lại trong tháng 10 năm 2004, để lập ra Google Maps. Cả 4 người trong nhóm của Rasmussen sau đó làm việc trong đội khoa học kỹ thuật của Google tại cơ sở của Google ở Sydney.
+Lars và Jens cũng là những người khởi đầu dự án Google Wave.
+
+
+== Facebook ==
+Ngày 29.10.2010, Rasmussen loan báo là ông đã rời khỏi Google, di chuyển tới San Francisco để làm việc cho công ty Facebook. Tại công ty Facebook, ông làm giám đốc khoa học kỹ thuật cho dự án Facebook Graph Search là một máy semantic search (tìm ngữ nghĩa) cho mạng lưới xã hội.
+
+
+== Đầu tư ==
+Rasmussen đã đầu tư vào một số công nghệ khởi đầu, trong đó có Canva ở Sidney, một công cụ thiết kế online dễ sử dụng; và Posse, một phương tiện tìm các giới thiệu về các quán cà phê, tiệm ăn, quán bar và tiệm kinh doanh bằng trực tuyến.
+
+
+== Giải thưởng ==
+Ngày 19.10.2010, Lars và Jens Rasmussen đã được trao Giải Pearcey bang New South Wales của Úc.
+
+
+== Xuất bản phẩm ==
+Ngoài bản luận án tiến sĩ "On Approximating the Permanent and Other #P-Complete Problems" nêu trên, L.E.Rasmussen còn xuất bản nhiều bài viết khoa học khác, xin xem
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+http://www.reddit.com/r/IAmA/comments/18jb6d/i_am_the_pointyhaired_engineering_director_for/
+https://sites.google.com/a/pressatgoogle.com/googlewave/home/meet-the-google-wave-team
+http://mag.newsweek.com/2013/01/28/newsweek-interview-with-facebook-s-lars-rasmussen.html

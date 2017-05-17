@@ -1,0 +1,36 @@
+ASCII (American Standard Code for Information Interchange - Chuẩn mã trao đổi thông tin Hoa Kỳ), thường được phát âm là át-xơ-ki, là bộ ký tự và bộ mã ký tự dựa trên bảng chữ cái La Tinh được dùng trong tiếng Anh hiện đại và các ngôn ngữ Tây Âu khác. Nó thường được dùng để hiển thị văn bản trong máy tính và các thiết bị thông tin khác. Nó cũng được dùng bởi các thiết bị điều khiển làm việc với văn bản.
+
+
+== Tổng quát ==
+Cũng như các mã máy tính biểu diễn ký tự khác, ASCII quy định mối tương quan giữa kiểu bit số với ký hiệu/biểu tượng trong ngôn ngữ viết, vì vậy cho phép các thiết bị số liên lạc với nhau và xử lý, lưu trữ, trao đổi thông tin hướng ký tự. Bảng mã ký tự ASCII, hoặc các mở rộng tương thích, được dùng trong hầu hết các máy tính thông thường, đặc biệt là máy tính cá nhân và máy trạm làm việc. Tên MIME thường dùng cho bảng mã này là "US-ASCII".
+ASCII chính xác là mã 7-bit, tức là nó dùng kiểu bit biểu diễn với 7 số nhị phân (thập phân từ 0 đến 127) để biểu diễn thông tin về ký tự. Vào lúc ASCII được giới thiệu, nhiều máy tính dùng nhóm 8-bit (byte hoặc, chuyên biệt hơn, bộ tám) làm đơn vị thông tin nhỏ nhất; bit thứ tám thường được dùng bit chẵn-lẻ (parity) để kiểm tra lỗi trên các đường thông tin hoặc kiểm tra chức năng đặc hiệu theo thiết bị. Các máy không dùng chẵn-lẻ thường thiết lập bit thứ tám là zero, nhưng một số thiết bị như máy PRIME chạy PRIMOS thiết lập bit thứ tám là một.
+ASCII được công bố làm tiêu chuẩn lần đầu vào năm 1963 bởi Hiệp hội tiêu chuẩn Hoa Kỳ (American Standards Association, ASA), sau này đổi thành ANSI. Có nhiều biến thể của ASCII, hiện tại phổ biến nhất là ANSI X3.4-1986, cũng được tiêu chuẩn hoá bởi Hiệp hội nhà sản xuất máy tính châu Âu (European Computer Manufacturers Association) ECMA-6, ISO/IEC 646:1991 Phiên bản tham khảo quốc tế, ITU-T Khuyến cáo T.50 (09/92), và RFC 20 (Request for Comments). Nó được dùng trong Unicode, một thay thế có thể xảy ra của nó, như là 128 ký tự 'thấp nhất'. ASCII được xem là tiêu chuẩn phần mềm thành công nhất từng được công bố từ trước tới nay.
+
+
+=== Ký tự điều khiển ASCII ===
+
+
+=== Ký tự ASCII in được ===
+Các ký tự từ 0 đến 32 theo hệ thập phân không thể in ra màn hình. Các ký tự đó chỉ có thể in được trong môi trường dos gồm một số hình như trái tim, mặt cười, hình tam giác,...Một số ký tự đặc biệt khi in ra màn hình sẽ thực hiện lệnh như: kêu tiếng bip với ký tự BEL, xuống hàng với ký tự LF,...
+Trong bảng mã ASCII chuẩn có 128 ký tự. Trong bảng mã ASCII mở rộng có 256 ký tự bao gồm cả 128 ký tự trong mã ASCII chuẩn. Các ký tự sau là các phép toán, các chữ có dấu và các ký tự để trang trí.
+
+
+== Xem thêm ==
+Các chủ đề liên quan:
+Nghệ thuật ASCII
+Tập tin nhị phân và văn bản
+EBCDIC
+ASCII mở rộng
+ISCII
+ISO 646
+ISO 8859
+Unicode
+UTF-8
+VISCII
+Các biến thể của ASCII dùng trong máy tính:
+ATASCII
+PETSCII
+Bảng ký tự ZX Spectrum
+
+
+== Tham khảo ==

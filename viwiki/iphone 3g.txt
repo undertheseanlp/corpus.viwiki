@@ -1,0 +1,13 @@
+iPhone 3G là một dòng điện thoại thông minh được hãng Apple Inc. thiết kế và đưa ra thị trường. Đây là thế hệ thứ hai của iPhone, và được giới thiệu vào ngày 9 tháng 6 năm 2008 tại WWDC 2008 tại Trung tâm Moscone ở San Francisco, Hoa Kỳ.
+Phiên bản này bên trong tương tự như phiên bản trước của nó, nhưng bao gồm một số tính năng phần cứng mới, chẳng hạn như hỗ trợ GPS, dữ liệu 3G và tri-band UMTS / HSDPA. Thiết bị này cũng được hưởng lợi từ cải tiến phần mềm được giới thiệu với hệ điều hành iPhone 2.0 đã được tung ra cùng một lúc. Cũng như các tính năng khác (bao gồm Push email và chuyển hướng turn-by-turn), hệ điều hành mới này đã giới thiệu nền tảng phân phối mới của App Store của Apple cho các ứng dụng của bên thứ ba
+
+
+== Lịch sử ==
+Ngày 11 tháng 7 năm 2008, Apple đã đưa ra bán iPhone 3G trên hai mươi hai nước với hai phiên bản bộ nhớ 8GB và 16GB. Loại 16GB có hai màu đen hoặc trắng. Sau khi đưa ra bán dòng iPhone 3GS một năm sau đó, iPhone 3G vẫn được bán nhưng đã trở thành điện thoại rẻ tiền của Apple, với mức giảm giá một nửa. iPhone 3G giá 99 đô la Mỹ lúc đó chỉ có màu đen và có bộ nhớ 8 GB, nhưng đã đi kèm với cập nhật phần mềm iPhone OS 3.0. Ngày 07 tháng 6 năm 2010, iPhone 3G cuối cùng đã ngưng bán, và thay thế như điện thoại rẻ tiền của Apple bằng một 8 GB iPhone 3GS được bán với cùng một mức giá là 99 USD.
+
+
+== Phần mềm ==
+3G đã cài đặt sẵn với các phiên bản mới nhất của hệ điều hành iPhone OS để cung cấp cho người sử dụng phần mềm mới nhất và có khả năng nhất và để chống lại các nỗ lực iOS jailbreak. Thiết bị này tiếp tục nhận được bản cập nhật cho phần mềm của nó trong hơn hai năm, lặp đi lặp lớn được phát hành trên hàng năm. Tuy nhiên, dòng điện thoại được tiếp cận với một tỷ lệ giảm của các tính năng mới với mỗi lần cập nhật do phần cứng của nó đã bị thay thế bởi phiên bản sau. Lúc ra mắt vào tháng 7 năm 2008, iPhone 3G đã cài đặt sẵn với hệ điều hành iPhone 2.0 Hệ điều hành này giới thiệu App Store, Microsoft hỗ trợ Exchange ActiveSync, dịch vụ MobileMe của Apple, và thúc đẩy hỗ trợ email, cùng với các tính năng mới và sửa lỗi. Vào tháng 6 năm 2009, người dùng iPhone 3G nhận được bản cập nhật phần mềm hệ điều hành iPhone 3.0, trong đó giới thiệu dài chờ đợi MMS tính năng sao chép và dán, hỗ trợ cảnh quan cho nhiều ứng dụng, Bluetooth hỗ trợ âm thanh stereo, và cải tiến khác.
+
+
+== Tham khảo ==

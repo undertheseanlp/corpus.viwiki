@@ -1,0 +1,23 @@
+OxygenOS (tiếng Trung: 氧OS) là một phiên bản tùy chỉnh của hệ điều hành Android được phát triển bới hãng sản xuất điện thoại thông minh của Trung Quốc OnePlus cho thị trường nước ngoài. Cũng có một phiên bản khác của HĐH được thiết kế dành riêng cho thị trường nội địa Trung Quốc gọi là HydrogenOS (tiếng Trung: 氢OS).
+
+
+== Tính năng ==
+Các tính năng nổi bật hiện tại của phiên bản 2.0 và 2.1.1 bao gồm các quyền truy cập cho ứng dụng, Waves MaxxAudio, bàn phím SwiftKey, cử chỉ ngoài màn hình, các biểu tượng tùy chỉnh, chế độ tối, chế độ máy ảnh bằng tay, và hỗ trợ định dạng ảnh RAW cho các ứng dụng bên thứ ba, như Camera FV-5 2.75.
+Ngày 14 tháng 6 năm 2016, OnePlus giới thiệu phiên bản OxygenOS 3.0 mới. Nó cơ bản là phiên bản Android gốc cùng với một vài điều chỉnh và sửa chữa, như Cử chỉ, Giá và một chế độ tối bởi OnePlus.
+
+
+== Lịch sử phiên bản ==
+Phiên bản 1.0 được dựa trên Android 5.0.1 và chỉ được phát hành cho OnePlus One qua dạng tập tin ZIP được cung cấp thông qua website của OnePlus.
+Phiên bản 2.0 tới 2.2.1 được dựa trên Android 5.1.1 và được cài đặt sẵn trên OnePlus 2 và OnePlus X. Chiếc OnePlus One đã nhận được phiên bản 2.1.4 qua một tập tin cài đặt ZIP thông qua website Oneplus. Vào ngày 4 tháng 8 năm 2016, OnePlus X bắt đầu nhận phiên bản 2.2.2 của OxygenOS.
+Phiên bản 3.0.2 dựa trên Android 6.0.1 được phát hành cho OnePlus 2.
+Phiên bản 3.2.1 dựa trên Android 6.0.1 được phát hành cho OnePlus 3.
+Vào ngày 25 tháng 7 năm 2016, phiên bản 3.2.2 được phát hành.
+Ngày 12 tháng 8 năm 2016, phiên bản 3.2.4 được phát hành và hiện tại là phiên bản phát hành mới nhất.
+Ngày 24 tháng 8 năm 2016, phiên bản beta 3.5 được phát hành, trở thành bản dựng cộng đồng đầu tiên và mới nhất.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Website chính thức

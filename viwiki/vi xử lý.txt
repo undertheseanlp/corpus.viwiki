@@ -1,0 +1,29 @@
+Vi xử lý (viết tắt là µP hay uP), đôi khi còn được gọi là bộ vi xử lý, là một linh kiện điện tử máy tính được chế tạo từ các tranzito thu nhỏ tích hợp lên trên một vi mạch tích hợp đơn. Khối xử lý trung tâm (CPU) là một bộ vi xử lý được nhiều người biết đến nhưng ngoài ra nhiều thành phần khác trong máy tính cũng có bộ vi xử lý riêng của nó, ví dụ trên cạc màn hình (video card) chúng ta cũng có một bộ vi xử lý.
+Trước khi xuất hiện các bộ vi xử lý, các CPU được xây dựng từ các mạch tích hợp cỡ nhỏ riêng biệt, mỗi mạch tích hợp chỉ chứa khoảng vào chục tranzito. Do đó, một CPU có thể là một bảng mạch gồm hàng ngàn hay hàng triệu vi mạch tích hợp. Ngày nay, công nghệ tích hợp đã phát triển, một CPU có thể tích hợp lên một hoặc vài vi mạch tích hợp cỡ lớn, mỗi vi mạch tích hợp cỡ lớn chứa hàng ngàn hoặc hàng triệu tranzito. Nhờ đó công suất tiêu thụ và giá thành của bộ vi xử lý đã giảm đáng kể.
+Sự tiến hóa của các bộ vi xử lý một phần nhờ vào việc chạy theo Định luật Moore và hiệu suất của nó tăng lên một cách ổn định sau hàng năm. Định luật này phát biểu rằng sự phức tạp của một mạch tích hợp sẽ tăng lên gấp đôi sau mỗi chu kỳ 18 tháng. Và thực tế, sự phát triển của các bộ vi xử lý đã bám sát định luật này từ những năm 1970. Nhờ đó, từ máy tính mẹ (mainframe computer) lớn nhất cho đến các máy tính xách tay hiện nay đều sử dụng một bộ vi xử lý nhỏ nhắn tại trung tâm của chúng.
+
+
+== Lịch sử ==
+
+
+=== Những vi mạch tích hợp đầu tiên ===
+Với những tiến bộ của công nghệ, vi xử lý đã ra đời và phát triển theo thời gian. Ba hãng sản xuất chíp Intel, Texas Instruments (TI) và Garrett AiResearch đã cho ra đời ba bộ vi xử lý cùng một thời điểm với các tên gọi lần lượt là Intel 4004, TMS 1000 và Central Air Data Computer. Đây là ba dự án đầu tiên cho ra đời các bộ vi xử lý hoàn chỉnh.
+Năm 1968, hãng Garrett đã được mời chế tạo một máy tính số để đua tài với các hệ thống cơ điện tử và sau đó nó được phát triển để làm bộ điều khiển chính của máy bay chiến đấu Tomcat F-14 của Hải quân Mỹ. Sản phẩm này đã hoàn thiện vào năm 1970 và nó sử dụng một chíp được xây dựng bằng công nghệ MOS đóng vai trò là lõi của CPU. Sản phẩm này có kích thước nhỏ hơn và hoạt động tin cậy hơn nhiều lần so với các hệ thống cơ điện tử và nó được dùng cho những mô hình máy bay Tomcat đầu tiên. Tuy nhiên, hệ thống này tân tiến đến mức Hải quân Mỹ đã từ chối việc cấp phép công bố sản phẩm cho đến tận năm 1997.
+TI đã phát triển bộ vi xử lý 4-bits TMS 1000 và tập trung vào các ứng dụng nhúng lập trình trước. Sau đó, TI đã tiếp tục công bố một phiên bản khác gọi là TMS1802NC vào ngày 17 tháng 9 năm 1971. TMS1802NC tích hợp trên nó một bộ tính toán nhằm hỗ trợ khả năng xử lý toán học của vi xử lý. Tiếp đến, ngày 15 tháng 11 năm 1971, Intel đã công bố vi xử lý 4-bits Intel 4004 được phát triển bởi Federico Faggin.
+
+
+== Ứng dụng ==
+Là bộ xử lý trung tâm trong: máy tính (PC, Laptop, mini computer, super computer), thiết bị smartphone, thiết bị nhúng,...và đặc biệt trong công nghiệp ngành Điện - chuyên ngành Tự động hóa: bộ điều khiển khả trình PLC và Vi điều khiển để ứng dụng điều khiển các dây chuyền, hệ thống tự động...
+
+
+== Xem thêm ==
+Vi điều khiển
+Định luật Moore
+AMD
+Intel
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

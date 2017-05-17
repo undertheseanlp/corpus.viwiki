@@ -1,0 +1,74 @@
+Samsung Galaxy Note II là phablet smartphone chạy hệ điều hành Android của Google, sản xuất và phân phối bởi Samsung. Công bố vào ngày 29 tháng 8 năm 2012 và phát hành vào cuối năm 2012, Galaxy Note II là sản phẩm kế thừa cho Galaxy Note nguyên bản, kết hợp cải thiện chức năng của bút stylus, màn hình 5,5 inch (140 mm) lớn hơn, và cập nhật thiết kế phần cứng dựa trên Galaxy S III.
+Note II đã phát hành dựa trên các tiếp nhận phê bình để cải thiện nó từ Galaxy Note nguyên bản, và đã bán hơn 5 chiếc trong vòng 2 tháng đầu tiên. Samsung công bố một sản phẩm kế chưa Galaxy Note II, Galaxy Note 3, vào 4 tháng 9 năm 2013.
+
+
+== Lịch sử ==
+Galaxy Note II công bố tại IFA Berlin vào 29 tháng 8 năm 2012, và phát hành rộng rãi tại các thị trường vào tháng 10 năm 2012. Samsung đã bán hơn 3 triệu đơn vị chỉ trong 37 ngày đầu tiên và vượt mốc 5 triệu chỉ trong 2 tháng sau khi phát hành.
+
+
+=== Phiên bản phần mềm ===
+Vào tháng 2012, Samsung bắt đầu tung bản cập nhật Android 4.1.2 "Jelly Bean" cho thiết bị. Vào tháng 4 năm 2014, Samsung bắt đầu tung bản cập nhật Android 4.4.2 "KitKat" cho thiết bị.
+
+
+=== Biến thể ===
+Galaxy Note II bao gồm màu xám Titan, trắng thạch cao, hồng Martian, nâu hổ phách và Ruby Wine. Các tính năng khác phụ thuộc vào tuỳ chỉnh của nhà mạng, bao gồm điều khiển FM/TV, chân sạc, và hỗ trợ một SIM. Để ngăn chặn thị trường bán lại, sản phẩm của Galaxy Note II, và các thiết bị khác (Galaxy S4, Galaxy S4 mini, Galaxy Note III và Galaxy S III) sản xuất sau tháng 7 năm 2013 triển khai khoá hệ thống khu vực ở một số vùng; yêu cầu đầu tiên là thẻ SIM của phiên bản châu Âu và Bắc Mỹ phải từ nhà mạng của khu vực đó. Samsung nói rằng các khoá sẽ được gở bỏ nếu thẻ SIM đã được sử dụng.
+
+
+==== Bộ xử lý truyền thông ====
+Chip băng tầng cơ sở của GT-N7100 là Intel Wireless PMB9811X Gold. Chip băng tầng cơ sở của SGH-T889, SHV-E250K, và SHV-E250S là Qualcomm Gobi MDM9215. SHV-E250L có Qualcomm Gobi MDM9615M cho EVDO phiên bản kết nối B.
+
+
+==== Kết nối mạng ====
+Hầu hết các biến thể đều hỗ trợ GSM/GPRS/EDGE ở 850 MHz, 900 MHz, 1.9 GHz, và 2.1 GHz bands; và UMTS/HSPA+21 ở 850 MHz, 900 MHz, 1.9 GHz, và 2.1 GHz.
+
+
+===== Điện thoại AWS =====
+SGH-T889 và SGH-T889V là các thiết bị hỗ trợ AWS cho mạng HSPA có khả năng truyền dữ liệu qua dịch vụ không dây cao cấp ở chế độ HSPA ở nhà mạng như T-Mobile USA, WIND Mobile Canada, Mobilicity, và Vidéotron.
+
+
+===== Điện thoại CDMA/EV-DO =====
+SCH-R950, SHV-E250L, SCH-i605, SPH-L900, và SCH-N719 có thể kết nối cdmaOne, CDMA 1xRTT, và EV-DO rev 0/A/B. Các biến thể ngoại trừ SCH-R950, có thể kết nối mâng GSM tốt, SPH-L900 có thể chỉ sử dụng dịch vụ WCDMA/GSM trong khi chuyển vùng quốc tế vì nó có SIM nhúng.
+
+
+===== Điện thoại TD-SCDMA =====
+GT-N7108 hỗ trợ mạng TD-SCDMA ở 1.9 GHz and 2.0 GHz bands, và kết nối GSM/GPRS/EDGE 1.9 GHz band.
+
+
+===== Điện thoại Dual-cell HSPA =====
+SGH-T889 được hỗ trợ dual-cell HSPA+ lên đến 42.2 Mbit/s.
+
+
+===== Điện thoại LTE =====
+GT-N7105 là điện thoại LTE phiên bản quốc tế, có thể kết nối LTE band 3, 7, 8, và 20 và có 42.2 Mbit/s DC-HSPA+.
+SCH-i605 có thể kết nối LTE band 13, Verizon Wireless.
+SCH-R950, SGH-i317[M], SGH-T889[V], SPH-L900, SC-02E(SGH-N025), và SHV-E250[K,L,S] có thể kết nối LTE bands của bản khoá mạng cũng như LTE band của các nhà khai thác mạng khác như một dịch vụ chuyển vùng.
+
+
+==== FM radio, điều khiển TV ====
+Một vài biến thể Galaxy Note II có tích hợp điều khiển FM. Ví dụ, một vài biến thể Mỹ và Canadian (SGH-i317, SGH-i317M) và phiên bản LTE quốc tế (N7105) không hỗ trợ điều khiển FM. SC-02E cho thị trường có 1seg điều khiển TV và anten. Biến thể Hàn Quốc có điều khiển T-DMB cũng như T-DMB có thể được giấu trong điện thoại.
+
+
+==== Kích thước và trọng lượng ====
+Biến thể Hàn Quốc với điều khiển T-DMB và T-DMB anten nặng hơn các biến thể khác 3 g (0,11 oz). SC-02E cho NTT DoCoMo với 1seg điều khiển TV nặng hơn 5 g (0,18 oz) và dày hơn 0,3 mm (0,012 in).
+
+
+==== Sạc không dây ====
+Tùy thuộc vào mẫu sản phẩm, một vài thiết bị Galaxy Note II (GT-N7100) có hai tùy chọn sạc, có thể sử dụng sạc không dây bằng cách thay đổi nắp lưng. Màn hình thông báo tin nhắn của Galaxy Note II sẽ hiển thị khi bạn sạc không dây.
+
+
+==== Bảng biến thể ====
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Samsung Galaxy Note series
+Samsung Galaxy Mega
+
+
+== Tham khảo ==
+
+
+== Liên kết ==
+Website chính thức

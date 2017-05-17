@@ -1,0 +1,135 @@
+Chất bán dẫn (tiếng Anh: Semiconductor) là chất có độ dẫn điện ở mức trung gian giữa chất dẫn điện và chất cách điện. Chất bán dẫn hoạt động như một chất cách điện ở nhiệt độ thấp và có tính dẫn điện ở nhiệt độ phòng. Gọi là "bán dẫn" (chữ "bán" theo nghĩa Hán Việt có nghĩa là một nửa),vì chất này có thể dẫn điện ở một điều kiện nào đó, hoặc ở một điều kiện khác sẽ không dẫn điện.
+Khoa học vật liệu hiện đại đã phát hiện ra chất bán dẫn hữu cơ và nó đang có được những ứng dụng bước đầu, đó là điốt phát quang hữu cơ (OLED), pin mặt trời hữu cơ (Organic solar cell) và transistor trường hữu cơ (OFET).
+
+
+== Vùng năng lượng trong chất bán dẫn ==
+Tính chất dẫn điện của các vật liệu rắn được giải thích nhờ lý thuyết vùng năng lượng. Như ta biết, điện tử tồn tại trong nguyên tử trên những mức năng lượng gián đoạn (các trạng thái dừng). Nhưng trong chất rắn, khi mà các nguyên tử kết hợp lại với nhau thành các khối, thì các mức năng lượng này bị phủ lên nhau, và trở thành các vùng năng lượng và sẽ có ba vùng chính, đó là:
+
+Vùng hóa trị (Valence band): Là vùng có năng lượng thấp nhất theo thang năng lượng, là vùng mà điện tử bị liên kết mạnh với nguyên tử và không linh động.
+Vùng dẫn (Conduction band): Vùng có mức năng lượng cao nhất, là vùng mà điện tử sẽ linh động (như các điện tử tự do) và điện tử ở vùng này sẽ là điện tử dẫn, có nghĩa là chất sẽ có khả năng dẫn điện khi có điện tử tồn tại trên vùng dẫn. Tính dẫn điện tăng khi mật độ điện tử trên vùng dẫn tăng.
+Vùng cấm (Forbidden band): Là vùng nằm giữa vùng hóa trị và vùng dẫn, không có mức năng lượng nào do đó điện tử không thể tồn tại trên vùng cấm. Nếu bán dẫn pha tạp, có thể xuất hiện các mức năng lượng trong vùng cấm (mức pha tạp). Khoảng cách giữa đáy vùng dẫn và đỉnh vùng hóa trị gọi là độ rộng vùng cấm, hay năng lượng vùng cấm (Band Gap). Tùy theo độ rộng vùng cấm lớn hay nhỏ mà chất có thể là dẫn điện hoặc không dẫn điện.
+Như vậy, tính dẫn điện của các chất rắn và tính chất của chất bán dẫn có thể lý giải một cách đơn giản nhờ lý thuyết vùng năng lượng như sau:
+Kim loại có vùng dẫn và vùng hóa trị phủ lên nhau (không có vùng cấm) do đó luôn luôn có điện tử trên vùng dẫn vì thế mà kim loại luôn luôn dẫn điện.
+Các chất bán dẫn có vùng cấm có một độ rộng xác định. Ở không độ tuyệt đối (0 ⁰K), mức Fermi nằm giữa vùng cấm, có nghĩa là tất cả các điện tử tồn tại ở vùng hóa trị, do đó chất bán dẫn không dẫn điện. Khi tăng dần nhiệt độ, các điện tử sẽ nhận được năng lượng nhiệt (
+  
+    
+      
+        
+          k
+          
+            B
+          
+        
+        .
+        T
+      
+    
+    {\displaystyle k_{B}.T}
+   với 
+  
+    
+      
+        
+          k
+          
+            B
+          
+        
+      
+    
+    {\displaystyle k_{B}}
+   là hằng số Boltzmann) nhưng năng lượng này chưa đủ để điện tử vượt qua vùng cấm nên điện tử vẫn ở vùng hóa trị. Khi tăng nhiệt độ đến mức đủ cao, sẽ có một số điện tử nhận được năng lượng lớn hơn năng lượng vùng cấm và nó sẽ nhảy lên vùng dẫn và chất rắn trở thành dẫn điện. Khi nhiệt độ càng tăng lên, mật độ điện tử trên vùng dẫn sẽ càng tăng lên, do đó, tính dẫn điện của chất bán dẫn tăng dần theo nhiệt độ (hay điện trở suất giảm dần theo nhiệt độ). Một cách gần đúng, có thể viết sự phụ thuộc của điện trở chất bán dẫn vào nhiệt độ như sau:
+
+  
+    
+      
+        R
+        =
+        
+          R
+          
+            0
+          
+        
+        exp
+        ⁡
+        
+          (
+          
+            
+              
+                Δ
+                
+                  E
+                  
+                    g
+                  
+                
+              
+              
+                2
+                
+                  k
+                  
+                    B
+                  
+                
+                T
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle R=R_{0}\exp \left({\frac {\Delta E_{g}}{2k_{B}T}}\right)}
+  
+với: 
+  
+    
+      
+        
+          R
+          
+            0
+          
+        
+      
+    
+    {\displaystyle R_{0}}
+   là hằng số, 
+  
+    
+      
+        Δ
+        
+          E
+          
+            g
+          
+        
+      
+    
+    {\displaystyle \Delta E_{g}}
+   là độ rộng vùng cấm. Ngoài ra, tính dẫn của chất bán dẫn có thể thay đổi nhờ các kích thích năng lượng khác, ví dụ như ánh sáng. Khi chiếu sáng, các điện tử sẽ hấp thu năng lượng từ photon, và có thể nhảy lên vùng dẫn nếu năng lượng đủ lớn. Đây chính là nguyên nhân dẫn đến sự thay đổi về tính chất của chất bán dẫn dưới tác dụng của ánh sáng (quang-bán dẫn).
+
+
+== Bán dẫn pha tạp ==
+Chất bán dẫn loại p (hay dùng nghĩa tiếng Việt là bán dẫn dương) có tạp chất là các nguyên tố thuộc nhóm III, dẫn điện chủ yếu bằng các lỗ trống (viết tắt cho chữ tiếng Anh positive', nghĩa là dương).
+Chất bán dẫn loại n (bán dẫn âm - Negative) có tạp chất là các nguyên tố thuộc nhóm V, các nguyên tử này dùng 4 electron tạo liên kết và một electron lớp ngoài liên kết lỏng lẻo với nhân, đấy chính là các electron dẫn chính
+Chất bán dẫn không suy biến là chất có nồng độ hạt dẫn không cao, chất bán dẫn có nồng độ tạp chất lớn hơn 10^20 nguyên tử/cm3 được gọi là bán dẫn suy biến và có tính chất giống như kim loại vì vậy nó dẫn điện tốt, năng lượng của hạt dẫn tự do trong chất bán dẫn suy biến không phụ thuộc vào nhiệt độ.
+Có thể giải thích một cách đơn giản về bán dẫn pha tạp nhờ vào lý thuyết vùng năng lượng như sau: Khi pha tạp, sẽ xuất hiện các mức pha tạp nằm trong vùng cấm, chính các mức này khiến cho điện tử dễ dàng chuyển lên vùng dẫn hoặc lỗ trống dễ dàng di chuyển xuống vùng hóa trị để tạo nên tính dẫn của vật liệu. Vì thế, chỉ cần pha tạp với hàm lượng rất nhỏ cũng làm thay đổi lớn tính chất dẫn điện của chất bán dẫn.
+
+
+== Xem thêm ==
+Dẫn điện
+Cách điện
+Siêu dẫn
+Điốt
+Chất bán dẫn hữu cơ
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

@@ -1,0 +1,43 @@
+Chính sách tài khóa (fiscal policy) trong kinh tế học vĩ mô là chính sách thông qua chế độ thuế và đầu tư công cộng để tác động tới nền kinh tế. Chính sách tài khóa cùng với chính sách tiền tệ là các chính sách kinh tế vĩ mô quan trọng, nhằm ổn định và phát triển kinh tế.
+
+
+== Tác dụng ==
+Chính sách tài khoá: Khi nền kinh tế đang ở tình trạng suy thoái, nhà nước có thể giảm thuế, tăng chi tiêu (đầu tư công cộng) để chống lại. Chính sách tài chính như thế gọi là chính sách tài khóa nới lỏng.
+Ngược lại, khi nền kinh tế ở tình trạng lạm phát và có hiện tượng nóng, thì nhà nước có thể tăng thuế và giảm chi tiêu của mình để ngăn cho nền kinh tế khỏi rơi vào tình trạng quá nóng dẫn tới đổ vỡ. Chính sách tài khóa như thế này gọi là chính sách tài khóa thắt chặt.
+
+
+== Tranh luận về hiệu quả ==
+
+
+=== Hiệu quả của chính sách tài khóa qua phân tích IS-LM ===
+Xem bài chính về phân tích IS-LM
+Các trường phái kinh tế học Keynes cho rằng chính sách tài khóa có hiệu quả to lớn trong chống chu kỳ kinh tế. Họ sử dụng phân tích IS-LM để cho thấy chính sách tài khóa phát huy tác dụng thông qua sự dịch chuyển của đường IS thế nào. Bản thân John Maynard Keynes đề cao chính sách tài khóa thông qua công cụ chi tiêu chính phủ.
+Tuy nhiên, dựa vào phân tích IS-LM có thể thấy chính sách tài khóa phát huy tác dụng hoàn toàn khi đường IS dốc xuống phía phải cắt đường LM ở đoạn nằm ngang, và phát huy tác dụng không hoàn toàn khi đường IS cắt đường LM ở đoạn dốc lên phía phải. Còn khi đường IS cắt đường LM ở đoạn thẳng đứng, chính sách tài chính không hề có tác dụng. Giả dụ nhà nước thực hiện chính sách tài khóa nới lỏng, đường IS sẽ dịch song song sang phía phải. Phân tích IS-LM cho thấy lãi suất thực tế sẽ tăng lên, gây khó khăn cho các hãng đi vay để đầu tư mở rộng sản xuất. Hiện tượng chính sách tài khóa không phát huy hiệu quả hay phát huy không đầy đủ như thế này gọi là hiện tượng hất ra.
+
+
+=== Hiệu quả trong nền kinh tế mở ===
+Trong nền kinh tế mở, hiệu quả của chính sách tài khóa phụ thuộc vào chế độ tỷ giá hối đoái. Nếu là chế độ tỷ giá hối đoái cố định, chính sách tài chính sẽ phát huy hiệu quả. Còn nếu là chế độ tỷ giá hối đoái thả nổi, chính sách tài chính(chính sách tài khóa) sẽ không có hiệu lực do những thay đổi tỷ giá gây ra bởi chính sách tài chính sẽ triệt tiêu hiệu quả của chính sách.
+
+
+=== Thuyết cân bằng Barro-Ricardo ===
+Xem bài chính về Cân bằng Ricard
+Nhà nước thực hiện chính sách tài chính nới lỏng bằng cách tăng chi tiêu chính phủ. Nhưng để có nguồn tài chính cho các khoản chi tiêu đó, nhà nước lại phát hành công trái và trái phiếu. Robert Barro khẳng định: người ta, với kỳ vọng hợp lý (rational expectations), sẽ hiểu rằng hôm nay nhà nước đi vay thì tương lai nhà nước sẽ tăng thuế để có tiền trả nợ, nên sẽ giảm tiêu dùng và tăng tiết kiệm hôm nay để tương lai có tiền nộp thuế. Như thế, tuy nhà nước tăng tiêu dùng của mình, nhưng lại làm giảm tiêu dùng cá nhân, nên hiệu quả của chính sách tài chính sẽ không cao như nhà nước mong đợi.
+
+
+=== Những trở ngại về chính trị ===
+Ở nhiều nước, chính phủ muốn tiến hành đầu tư (chi tiêu chính phủ) thường phải xin quốc hội phê duyệt. Khả năng bị quốc hội bác bỏ không phải là không có. Vì thế, không phải cứ muốn thực hiện chính sách tài chính nới lỏng thông qua tăng chi tiêu chính phủ là luôn có thể làm được. Mặt khác khi đã chi và tiến hành đầu tư rồi, mà lại muốn thực hiện chính sách tài chính thắt chặt lại cũng khó khăn vì không thể bỏ dở các công trình đầu tư đang triển khai được.
+Thực hiện chính sách tài chính nới lỏng thông qua giảm thuế thì dễ. Nhưng khi muốn thực hiện chính sách tài chính thắt chặt thông qua tăng thuế lại rất dễ bị người dân phản đối.
+
+
+=== Độ trễ trong phát huy hiệu quả của chính sách tài chính ===
+Chính phủ muốn thực hiện chính sách tài chính nới lỏng bằng cách tăng chi tiêu chính phủ. Giả sử được quốc hội thông qua thì cũng đã mất thời gian chờ đợi quốc hội xem xét thảo luận. Sau đó, để triển khai còn phải tiến hành các hoạt động như lập kế hoạch dự án, khảo sát-thiết kế để triển khai đầu tư. Những việc này cũng mất không ít thời gian. Chính vì vậy, có một độ trễ để chính sách tài chính nới lỏng bắt đầu phát huy tác dụng.
+
+
+== Xem thêm ==
+Chính sách tiền tệ
+Đường IS
+Phân tích IS-LM
+Mô hình Mundell-Fleming
+
+
+== Tham khảo ==

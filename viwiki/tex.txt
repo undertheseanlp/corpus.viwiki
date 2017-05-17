@@ -1,0 +1,98 @@
+TEX, viết không định dạng là TeX, là một hệ thống sắp chữ được viết bởi Donald Knuth và giới thiệu lần đầu vào năm 1978.
+TeX được thiết kế với hai mục đích chính: cho phép bất kì ai cũng có thể tạo ra những cuốn sách chất lượng cao với ít công sức nhất, và cung cấp một hệ thống sắp chữ cho ra cùng một kết quả trên mọi máy tính, ngay bây giờ và cả trong tương lai.
+Nó phổ biến trong môi trường hàn lâm, đặc biệt là trong cộng đồng toán học, vật lý và khoa học máy tính. Trong hầu hết các bản cài đặt Unix, nó gần như thế chỗ của troff, cũng là một chương trình định dạng văn bản được ưa thích khác.
+TeX nói chung được xem là cách tốt nhất để gõ công thức toán học phức tạp, đặc biệt là ở dạng LaTeX, ConTeXt hoặc các gói khuôn mẫu (template package) khác, nó cũng được dùng cho các tác vụ sắp chữ khác.
+
+
+== Tên ==
+Để tỏ lòng quý trọng đến Viện Công nghệ California (Caltech), nơi Knuth nhận bằng tiến sĩ, tên TeX được dụng ý dùng với phát âm "tekh", trong đó "kh" đại diện cho âm cuối của loch trong tiếng Scotland hay tên của nhà soạn nhạc người Đức Bach (theo Bảng chữ cái phiên âm quốc tế IPA /tɛx/). Chữ X được dùng để đại diện cho chữ χ (chi) trong tiếng Hy Lạp. TeX là dạng viết tắt của τέχνη (technē), tiếng Hy Lạp có nghĩa là "nghệ thuật" và "thủ công", cũng là chữ căn nguyên của technical (kĩ thuật).
+Tên được xếp chữ với "E" nằm bên dưới đường ngang; nếu hệ thống không hỗ trợ subscript, nó được viết "ước chừng" là "TeX".
+Các ủng hộ viên của TeX phát triển thêm các tên gọi từ "TeX" — như TeXnician (người dùng phần mềm TeX), TeXhacker (người lập trình TeX), TeXmaster (người lập trình thông thạo TeX), TeXhax, và TeXnique.
+
+
+== Lịch sử ==
+Knuth bắt đầu viết TeX vì ông cảm thấy khó chịu khi chất lượng sắp chữ bị giảm sút trong các quyển I-III của tác phẩm The Art of Computer Programming (Nghệ thuật lập trình máy tính) hoành tráng của ông. Với phong thái của một hacker điển hình thôi thúc giải quyết vấn đề một lần cho mãi mãi, ông bắt đầu thiết kế ngôn ngữ sắp chữ của riêng mình. Ông dự tính hoàn thành trong kỳ nghỉ phép năm 1978 nhưng phải đến hơn 10 năm sau, tức năm 1989, ngôn ngữ này mới ngưng bổ sung thêm tính năng.
+Guy Steele tình cờ ở Stanford trong mùa hè năm 1978, khi Knuth phát triển phiên bản TeX đầu tiên. Khi Steele quay lại MIT mùa thu năm ấy, ông viết lại phần nhập/xuất (I/O) của TeX để chạy dưới Hệ thống chia sẻ thời gian không tương thích (ITS).
+Phiên bản TeX đầu tiên được viết bằng ngôn ngữ lập trình SAIL để chạy trên một PDP-10 dưới hệ điều hành WAITS của Đại học Stanford. Ở các phiên bản TeX sau này, Knuth phát minh khái niệm lập trình văn chương (literate programming), một phương thức tạo ra mã nguồn có tính tương thích và tài liệu có liên kết chéo với chất lượng cao (dĩ nhiên được sắp chữ bằng TeX) từ một cùng tập tin nguyên thuỷ. Ngôn ngữ được dùng gọi là WEB và tạo ra chương trình ở dạng Pascal.
+TeX có hệ thống đánh số phiên bản mang phong cách riêng. Từ phiên bản 3, các cập nhật được biểu thị bằng cách thêm vào một chữ số vào cuối số thập phân, sao cho số phiên bản tiệm cận π. Phiên bản hiện tại là 3.141592. Điều này phản ánh sự kiện rằng TeX hiện rất ổn định, và chỉ các cập nhật nhỏ được dự tính thực hiện. Knuth có nói rằng "thay đổi cuối cùng nhất (thực hiện trước khi tôi chết)" sẽ chuyển số phiên bản thành π, tại điểm đó mọi bọ còn lại sẽ thành tính năng.
+
+
+== Hệ thống sắp chữ ==
+Các lệnh trong TeX thường bắt đầu với dấu chéo ngược và được nhóm bằng dấu ngoặc nhọn. Tuy nhiên hầu hết các đặc tính pháp cú của TeX có thể được thay đổi ngay trong lúc dùng, khiến một nguồn TeX khó có thể phân tích cấu trúc bởi bất cứ gì trừ chính bản thân TeX. TeX là một ngôn ngữ dựa trên macro và biểu tượng (token): nhiều lệnh, bao gồm hầu hết các lệnh do người dùng định nghĩa, được mở rộng trong lúc dùng cho đến khi chỉ còn các biểu tượng không thể mở rộng thêm được nữa và chúng sẽ được thực thi. Bản thân sự mở rộng này thực tế không gây tác dụng phụ. Đệ quy lặp (tail recursion) các macro không tốn bộ nhớ, và có sẵn cấu trúc if-then-else. Điều này khiến TeX trở thành ngôn ngữ Turing trọn vẹn (Turing-complete) ngay cả ở mức độ mở rộng.
+Hệ thống có thể được chia đại khái thành 4 cấp độ: ở cấp độ đầu, TeX phân tích từ vựng để tìm các chuỗi điều khiển. Bước kế tiếp, chuỗi điều khiển mở rộng (như câu điều kiện hoặc macro đã được định nghĩa) được thay bởi văn bản của chính chúng. Ở giai đoạn 3, các ký tự được xếp thành đoạn văn; thuật toán ngắt đoạn của TeX tối ưu hoá điểm ngắt cho toàn đoạn. Văn bản được phân thành trang ở bước cuối.
+Hệ thống TeX hiểu biết chính xác kích thước tất cả ký tự và ký hiệu, và nó dùng thông tin này để tính toán sắp xếp tối ưu số chữ trong dòng và dòng trong trang. Sau đó nó tạo tập tin DVI (viết tắt cho "device independent", độc lập với thiết bị) chứa vị trí chung cuộc cho mọi ký tự. Tập tin dvi này có thể được in trực tiếp với driver máy in phù hợp, hoặc có thể được chuyển sang các định dạng khác. Ngày nay, PDFTeX thường được dùng để bỏ qua giai đoạn phát sinh DVI.
+Hầu hết chức năng được cung cấp bởi các tập tin định dạng. Các định dạng thường gặp là TeX thuần tuý của Knuth, LaTeX (có ở khắp các ngành kĩ thuật), và ConTeXt (chủ yếu được dùng cho xuất bản trên desktop).
+Tác phẩm tham khảo cơ bản cho TeX là hai quyển đầu bộ Computers and Typesetting (Máy tính và sắp chữ) của Knuth, The TeXbook và TeX: The Program (có chứa toàn bộ mã nguồn được chú thích của TeX).
+TeX thường được phân phối cùng với Metafont, một chương trình đồng hành cũng được phát triển bởi Knuth cho phép miêu tả các font chữ bằng thuật toán. Cấu trúc thư mục cài đặt TeX / Metafont được chuẩn hoá trong cây thư mục texmf.
+
+
+== Giấy phép ==
+Giấy phép cho quyền phân phối và sửa đổi tự do nhưng yêu cầu bất cứ phiên bản sửa đổi nào cũng không được gọi là TEX, TeX, hay bất cứ thứ gì tương tự có thể gây nhầm lẫn, tương tự như một thương hiệu. Bộ thử TRIPTRAP giúp kiểm tra một ứng dụng có thực sự là TEX hay không.
+
+
+== Chất lượng ==
+Mặc dù được viết kĩ lưỡng, TeX quá lớn (và cũng chứa quá nhiều kĩ thuật mới mẻ) đến nỗi nó được cho là đã phát hiện ít nhất một lỗi lập trình trong mỗi hệ thống Pascal dùng để biên dịch. TeX chạy trên gần như mọi hệ điều hành.
+Knuth treo giải thưởng bằng tiền cho những ai phát hiện và thông báo lỗi (lỗi lập trình) trong TeX. Giải thưởng cho mỗi lỗi khởi đầu với $2,56 và nhân đôi mỗi năm cho đến khi nó đóng băng; giá trị hiện tại là $327,68. Tuy nhiên điều này không làm Knuth nghèo túng, vì có rất ít lỗi được phát hiện; và trong đa số trường hợp tờ ngân phiếu chứng minh trao cho người tìm ra lỗi thường được đóng thành khung thay vì đổi thành tiền.
+
+
+== Các khía cạnh khoa học máy tính của TeX ==
+Phần mềm TeX hội tụ một số thuật toán thú vị, đã dẫn đến một số luận án của các học trò của Knuth. Thí dụ, thuật toán dấu nối từ (hyphenation) (công trình của Frank Liang) được dùng để quy định ưu tiên cho dấu ngắt trong nhóm các chữ cái.
+Thuật toán ngắt dòng là thí dụ cho lập trình động. Bài toán ngắt một đoạn văn n chữ thành các dòng có độ phức tạp thực 2^n, nhưng với lập trình động, bố trí tối ưu toàn bộ có thể rút ra theo thời gian tỉ lệ với số từ và số từ trong một dòng. Luận án của Michael Plass cho thấy cách thức bài toán ngắt trang có thể NP-trọn vẹn (NP-complete) vì các tình huống nảy sinh khi đặt hình ảnh.
+Chương trình đồng hành Metafont để phát sinh ký tự dùng đường cong Bezier theo cách khá chuẩn, nhưng Knuth cống hiến nhiều vào việc bài toán chuyển hình ảnh thành định dạng bitmap (rasterizing). Một luận án khác, bởi John Hobby, khảo sát hơn nữa bài toán số hoá "đường cọ" (brush trajectories). Thuật ngữ này xuất phát từ sự kiện rằng Metafont miêu tả ký tự như chúng được vẽ bởi các cọ trừu tượng.
+
+
+== Các công trình dẫn xuất ==
+Vài hệ thống xử lý tài liệu dựa trên TeX, đáng lưu ý có:
+LaTeX (Lamport TeX), kết hợp các kiểu tài liệu cho sách, thư từ, ảnh chiếu (slide) v.v., và thêm hỗ trợ tạo tham khảo và đánh số tự động các phần và phương trình.
+ConTeXt, phần lớn được viết bởi Hans Hagen tại Pragma là một công cụ thiết kế tài liệu chuyên nghiệp dựa trên TeX. Thời gian xuất hiện của nó ít hơn nhiều so với LaTeX, vì vậy có lẽ ít phổ biến hơn người anh của nó, nhưng lại mạnh mẽ hơn.
+AMS-TeX, được tạo ra bởi Hội Toán học Hoa Kỳ, có nhiều lệnh thân thiện người dùng hơn, và có thể được thay đổi bởi các tạp chí để làm thích hợp cho phong cách của mình. Hầu hết các tính năng của AMS-TeX có thể được dùng trong LaTeX bằng cách sử dụng các "gói" AMS. Khi đó nó được gọi là AMS-LaTeX. Cẩm nang hướng dẫn chính của AMS-TeX có tựa đề là Thú vui của TeX (The Joy of TeX).
+jadeTeX dùng TeX làm hậu trường (backend) cho việc in ấn từ DSSSL Engine của James Clark.
+Texinfo, hệ thống xử lý tài liệu GNU.
+XeTeX là một công cụ TeX mới hỗ trợ Unicode và các kĩ thuật font cao cấp của Mac OS X.
+Hiện cũng đã có nhiều bản mở rộng cho TeX, trong số đó BibTeX cho việc tạo thư mục (bibliography) (được phân phối với LaTeX), PDFTeX, bỏ qua giai đoạn dvi và tạo ra sản phẩm với định dạng tài liệu PDF (Portable Document Format) của Adobe Systems, và Omega, cho phép TeX dùng bộ ký tự Unicode. Tất cả các bản mở rộng cho TeX có miễn phí ở CTAN (Comprehensive TeX Archive Network (Mạng lưới lưu trữ TeX tổng hợp).
+
+
+== Công cụ tương thích ==
+Trên hệ thống tương thích UNIX (gồm cả Mac OS X), TeX được phân phối ở dạng teTeX. Trên Windows, có bản phân phối MiKTeX và bản phân phối fpTeX.
+Trình soạn thảo văn bản TeXmacs là chương trình soạn thảo văn bản khoa học WYSIWYG có dụng ý tương thích với TeX. Nó dùng các font của Knuth, và có thể phát sinh kết quả TeX. LyX là công cụ tương tự.
+
+
+== Tiếng Việt và TeX ==
+Cho đến nay đã có một số nỗ lực đưa tiếng Việt vào TeX.
+VnTeX hỗ trợ tiếng Việt cho LaTeX và TeX thuần thông qua các gói macro và phông chữ. VnTeX thường được đóng gói kèm trong các bản phân phối TeX như teTeX, TeXLive...
+OmegaVN hỗ trợ trực tiếp unicode cho tiếng Việt thông qua hệ thống Omega.
+Người dùng ConTeXt có thể sử dụng các phông chữ đi kèm theo gói VnTeX cho việc hiển thị tiếng Việt.
+Ký hiệu tiếng Việt có thể được vẽ bằng các lệnh của TeX. Với phương pháp này, ký tự được vẽ có thể không được đẹp. Cách này từng được áp dụng tại Viện Toán học Việt Nam, Đại học Khoa học Tự nhiên Hà Nội và Bộ môn Toán, Khoa Khoa học thuộc Đại học Cần Thơ.
+
+
+== Xem thêm ==
+Metafont
+MetaPost
+Danh sách ngôn ngữ đánh dấu
+So sánh các ngôn ngữ đánh dấu tài liệu
+
+
+== Liên kết ngoài ==
+Hướng dẫn người dùng MediaWiki soạn thảo công thức toán học
+Nhóm người dùng TeX
+Mạng lưới lưu trữ TeX tổng hợp: Kho lưu trữ nguồn TeX và hàng trăm add-on và style file.
+Bắt đầu với LaTex tại Nghệ thuật giải quyết vấn đề (Art of Problem Solving)
+Bản phân phối TeXLive được cho là dễ sử dụng cho người mới bắt đầu.
+TeXShop – một trình soạn thảo TeX miễn phí cho Mac OS X
+MiKTeX – MiKTeX (phát âm mick-tech) là bản phân phối cập nhật TeX và các chương trình có liên hệ trên Windows (mọi biến thể hiện tại) trên hệ thống x86.
+fpTeX – fpTeX là bản port cập nhật của tetex cho Windows.
+Trang web về TeX/LaTeX trên Mac OS X
+FAQ của nhóm người dùng TeX ở UK
+ConTeXt: ConTeXt wiki và Trang nhà tại Pragma +
+Donald E. Knuth, The TeXbook (Computers and Typesetting Volume A), Reading, Massachusetts: Addison-Wesley, 1984. ISBN 0-201-13448-9. mã nguồn của sách có trên CTAN. Nó chỉ được dùng làm thí dụ và không được phép dùng để chuẩn bị một cuốn sách giống The TeXbook.
+Victor Eijkhout, TeX by Topic: Sách tham khảo cho người lập trình, tải xuống tự do
+TeX for the Impatient, một sách mang tính hướng dẫn, hiện được cấp phép theo GFDL.
+Norman Walsh, Making TeX Work: Sách trực tuyến miễn phí
+Stefan Schwarz và Rudolf Potucek, TeXikon: (tiếng Đức) tài liệu tham khảo trực tuyến cho hơn 1400 lệnh TeX và LaTeX
+Omega (phiên bản 16 bit của TeX; bao gồm phiên bản lambda cho LaTeX)
+TeXnicCenter (môi trường phát triển tích hợp (IDE) giàu tính năng dùng phát triển tài liệu LaTeX trên Microsoft Windows (Windows 9x/ME, NT/2000/XP) miễn phí theo GPL.)
+Simon Eveson, An Introduction to Mathematical Document Production Using AmSLaTeX
+GNU TeXmacs Scientific Editor
+vnTeX: hỗ trợ tiếng Việt cho TeX
+OmegaVN: hỗ trợ tiếng Việt dùng với Omega
+ViệtTUG, nhóm người Việt sử dụng TeX

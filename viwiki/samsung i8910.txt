@@ -1,0 +1,52 @@
+Samsung i8910 HD (còn được gọi là Omnia HD) là điện thoại thông minh đa phương tiện của Samsung, lần đầu tiên công bố tại MWC 2009 vào ngày 18 tháng 2 năm 2009. Điều đáng chú ý nhất đây là điện thoại đầu tiên có thể phát và quay 720p HD.
+
+
+== Tính năng và hỗ trợ ==
+HD gồm hai phiên bản: với 8 hoặc 16 GB bộ nhớ trong, cả hai đều có khe thẻ nhớ microSD thay thế lên đến 32 GB. i8910 HD gồm bốn băng thông GSM/GPRS/EDGE với hỗ trợ tri-band UMTS, HSDPA (lên đến 7,2 Mbit/s) và hỗ trợ HSUPA (lên đến 5,76 Mbit/s). Úc phát hành hỗ trợ băng tần UMTS 2100/900Mhz.
+
+
+=== Cảm ứng điện dung 3,7-inch ===
+Điện thoại có màn hình cảm ứng điện dung 3,7-inch AMOLED (thay vì cảm ứng điện trở) độ phân giải 640 x 360 pixels, có thể hiển thị lên đến 16 triệu màu.(thay vì LCD(tỉ lệ 16:9)
+
+
+=== Máy ảnh 8,1 MP với LED flash ===
+Điện thoại có máy ảnh 8-megapixel với công nghệ quay video 720p HD với 24 khung/giây. Ngoài chụp ảnh còn có gắn thẻ địa lý, nhận diện khuôn mặt, nhận diện nụ cười và cài dặtWDR (Wide Dynamic Range). i8910 HD chạy Symbian (trên Symbian s60 phiên bản 3), với giao diện TouchWiz của Samsung.** Máy ảnh có thể tùy chọn hình ảnh ở tỉ lệ 4:3. Nhưng khi bấm vào tỉ lệ 16:9 chất lượng sẽ giảm xuống 6-megapixel (w6m).
+
+
+=== Kết nối ===
+Thiết bị cung cấp Wi-Fi với DLNA, Bluetooth 2.0 với A2DP, cổng microUSB chuẩn, 3.5 mm audio jack và TV-out. Thiết bị thu GPS với S-GPS+Xtragps đã bao gồm, cùng với các tùy chọn Samsung Mobile Navigator bởi Route 66.
+
+
+=== Tính năng khác ===
+Hỗ trợ DivX/XviD, MPEG4, hỗ trợ phụ đề
+Xuất video HD (720p) tương thích với truyền hình thông qua công nghệ DLNA
+S60 phiên bản 5
+Gia tốc cho tự động xoay màn hình và turn-to-mute
+Cảm biến gần cho chế độ tự động tắt màn hình
+Từ kế cho la bàn kỹ thuật số
+Thu nhận GPS với A-GPS
+FM radio với RDS
+Âm thanh vòm 5.1 channel (trên tai nghe)
+Trình duyệt web với hỡ trợ Flash video
+Office document viewer
+
+
+== Firmware ==
+Hobbyists cung cấp cập nhật firmware không chính thức.
+
+
+== Windows Phone ==
+Mặc dù thiết bị này không chạy dựa trên Windows Mobile hay Windows Phone, vào 2010, Microsoft thông báo đã thành công trên thiết bị này có thể chạy Windows Phone trước sự ra mắt chính thức điện thoại thông minh chạy của Samsung, Omnia 7. (Hệ điều hành Windows Phone không thể chạy trên vi xử lý OMAP3 của Omnia HD)
+
+
+== Xem thêm ==
+Samsung
+Samsung Galaxy S series
+
+
+== Tham khảo ==
+
+
+== Liên kết ==
+Samsung OmniaHD - Samsung Official Website
+Biggest Help and Modding Forum for Samsung i8910

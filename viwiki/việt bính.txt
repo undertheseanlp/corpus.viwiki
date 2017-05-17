@@ -1,0 +1,68 @@
+Việt bính (Chữ Hán: 粵拼, việt bính: jyut6 ping3, tên đầy đủ: 香港語言學學會粵語拼音方案: Hương Cảng ngữ ngôn học học hội Việt ngữ bính âm phương án) là một phương pháp sử dụng chữ Latinh để phiên âm ngôn ngữ Quảng Châu (tức tiếng Quảng Đông - Cantonese, mà người Trung Quốc còn gọi là Việt ngữ. Vì tỉnh Quảng Đông 廣東, Quảng Tây 廣西 nguyên trước là đất của Bách Việt 百粵, nên gọi hai tỉnh ấy là tỉnh Việt).
+Được ra đời vào năm 1993, Phương pháp phiên âm tiếng Quảng Đông của Học viện ngôn ngữ Hong Kong gọi tắt là jyutping là một phương pháp sử dụng chữ la tinh để phiên âm. Phương pháp này không những có thể sử dụng cho nhiều mục đích như phiên âm và đánh máy vi tính, nó còn có ưu điểm là đơn giản, dễ học và khá chuyên nghiệp.
+Hệ thống phiên âm jyutping đã kết hợp các ưu điểm của các phương pháp phiên âm khác như Yale, phiên âm quốc tế và pinyin (phiên âm hán ngữ). Phần dưới đây sẽ giới thiệu chi tiết về hệ thống này. Phần âm tương đương/gần giống bên dưới được hiểu và đọc theo tiếng Việt giọng miền Nam. Chỗ nào đọc theo giọng miền Bắc sẽ được ghi rõ. Nếu trong tiếng Việt không có âm tương đương thì sử dụng âm tương đương trong tiếng Anh. Nếu tiếng Anh cũng không có âm đó thì sẽ dùng âm gần giống để diễn giải.
+
+
+== Phụ âm ==
+Tổng cộng có 19 phụ âm trong tiếng Quảng Đông hiện đại. JyutPing không dùng hai ký tự "r" và "v". Trong tiếng Quảng Đông cũng không có 2 âm này.
+
+
+== Vần ==
+Tổng cộng có 59 vần.
+
+
+=== Tổ hợp âm ‘aa’ (tương ứng với ‘a’ trong tiếng Việt) ===
+
+
+=== Tổ hợp với âm ‘a’ (tương ứng với ‘â’ hoặc ‘ă’ trong tiếng Việt) ===
+
+
+=== Tổ hợp âm ‘e’ (Tương đương với ‘e’ trong tiếng Việt) ===
+
+
+=== Tổ hợp âm ‘eo’ (Trong tiếng Việt không có. Âm này không bao giờ đứng một mình mà phải ghép với âm khác) ===
+
+
+=== Tổ hợp âm ‘oe’ (Gần như âm ‘oe’ trong tiếng Việt nhưng không tròn miệng) ===
+
+
+=== Tổ hợp âm "i" (tương đương với "i" trong tiếng Việt) ===
+
+
+=== Tổ hợp âm "o" (tương đương với âm "o" trong tiếng Việt) ===
+
+
+=== Tổ hợp âm "u" (tương đương âm "ua" trong tiếng Việt) ===
+
+
+=== Tổ hợp âm "yu" (tương đương âm "uya" với tiếng Việt) ===
+
+
+=== Âm ‘m’ và âm ‘ng’ (tiếng Việt không có) ===
+
+
+== Thanh điệu ==
+Tiếng Quảng Đông cũng có 6 thanh điệu như tiếng Việt. Tuy nhiên 6 thanh điệu của tiếng Quảng Đông không hoàn toàn giống với tiếng Việt. Sáu thanh trong tiếng Quảng Đông bao gồm:
+Thanh thứ nhất (được ký hiệu bằng số 1): tương đương với thanh sắc tiếng Việt
+Thanh thứ hai (được ký hiệu bằng số 2): tương đương với thanh hỏi tiếng Việt
+Thanh thứ ba (được ký hiệu bằng số 3): tương đương với thanh ngang tiếng Việt
+Thanh thứ tư (được ký hiệu bằng số 4): tương đương với thanh huyền tiếng Việt
+Thanh thứ năm (được ký hiệu bằng số 5): tương đương với thanh nặng trong tiếng Việt
+Thanh thứ sáu (được ký hiệu bằng số 6): tương đương với thanh huyền nhưng cao hơn.
+Đối với JyutPing thanh điệu được ký hiệu bằng số như trên sẽ được ghi ngay sau chữ Latinh. Ví dụ: ngo5, sik1, leng3. Một số trường hợp các số thanh điệu này được ghi lên phía trên một tí (superscript) nhằm mục đích thẩm mỹ trong phiên âm.
+Như vậy trong tiếng Việt có hai thanh hỏi và ngã là khá gần nhau (nhất là người miền Nam không phân biệt 2 thanh này) thì trong tiếng Quảng Đông có 2 thanh thứ tư và thanh thứ sáu mà đối với người Việt khá giống nhau (đều là thanh huyền, chỉ khác là một thấp và một cao hơn tí). Đối với người Quảng Châu và người Hong Kong thì họ phân biệt khá rõ hai thanh này.
+Bảng dưới đây thể hiện ký hiệu, sự biến hóa cũng như vị trí của 6 thanh trong tiếng Quảng Đông.
+Ghi chú: một số tài liệu còn phân biệt 2 loại thanh thứ 1 là (5-3) và (5-5) cũng như có tài liệu ghi thanh thứ 4 là (2-1) thay vì (1-1). Trong tài liệu này, với mục đích giới thiệu cơ bản ngữ âm trong tiếng Quảng Đông, sẽ không đi sâu vào vấn đề này.
+
+
+== Tham khảo ==
+Jyutping（粵拼）詳細教程
+
+
+== Xem thêm ==
+Jyut Ping 粵拼
+Jyutping Pronunciation Guide
+Diễn đàn tiếng Quảng Đông
+
+
+== Tham khảo ==

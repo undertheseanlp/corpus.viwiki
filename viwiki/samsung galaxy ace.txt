@@ -1,0 +1,39 @@
+Samsung Galaxy Ace (cũng được biết đến Samsung Galaxy Cooper ở một số khu vực) là điện thoại thông minh sản xuất bởi Samsung chạy hệ điều hành mã nguồn mở Android. Công bố và phát hành bởi Samsung vào tháng 2 năm 2011, Galaxy Ace sử dụng vi xử lý 800 MHz Qualcomm MSM7227 với Adreno 200 GPU. Nó có màu đen, với nắp lưng nhiều màu khác nhau: đen, tím và trắng.
+Vào tháng 1 năm 2012, Samsung công bố người kế nhiệm Galaxy Ace Plus, then in February 2012 là Galaxy Ace 2.
+Galaxy Ace là điện thoại thông minh 3.5G, hỗ trợ bốn băng thông GSM và hai băng thông HSDPA (900/2100) với 7.2 Mbit/s. Màn hình 3.5 inch TFT LCD cảm ứng điện dung với kính bảo vệ của Gorilla Glass và độ phân giải HVGA (320x480). Máy ảnh 5-megapixel với LED flash, có thể quay video độ phân giải QVGA (320x240) và VGA (640x480) với nâng cấp Gingerbread, và pin Li-Ion 1350 mAh.
+
+
+== Máy ảnh ==
+Samsung Galaxy Ace có máy ảnh 5-megapixel tự động lấy nét với độ phân giải 2560 x 1920 pixels. Đèn LED flash củng với máy ảnh ở điều kiện thiếu ánh sáng. Máy cũng có nhận diện khuôn mặt và nụ cười cùng với thẻ SD, nhưng không có phím chụp hình cứng. Độ phân giải và độ sáng có thể tùy chỉnh qua menu trên màn hình. Máy ảnh của Samsung Galaxy Ace có thể zoom 2x.
+
+
+== Quay video ==
+
+
+== Trò chơi ==
+Sử dụng Adreno 200 GPU, và vi xử lý thấp với độ phân giải thấp, Galaxy Ace không thể chạy những trò chơi chất lượng cao; tuy nhiên, nhà phát triển thứ ba có thể giúp một số trò chơi hoạt động trên Galaxy Ace. Như GT-S5830i, thiết bị sử dụng VideoCore IV có một số đặc điểm được cải thiện nhưng có những vấn đề lớn từ các trò chơi không phải do Broadcom hay Samsung chia sẻ mã nguồn mở; trò chơi 3D làm việc trên thiết bị đầu tiên có thể không tương thích với GT-S5830i. Trò chơi và ứng dụng có thể chuyển đến ARM6 để có thể chạy trên điện thoại.
+
+
+== Nâng cấp Firmware ==
+Ngày 31 tháng 8 năm 2011, nâng cấp lên Android 2.3.4, 'Gingerbread', được tung ra ở Ấn Độ.
+Galaxy Ace nhận được bản cập nhật và phiên bản hiện tại là Android 2.3.6, 'Gingerbread' có sẵn thông qua Samsung Kies.
+
+
+== Samsung Galaxy Ace Plus ==
+
+Samsung Galaxy Ace Plus (GT-S7500[L/T/W]) là thế hệ sau của Samsung Galaxy Ace (GT-S5830), được phát hành vào năm 2011. Bộ vi xử lý 1 GHz và nó bao gồm nâng cấp GUI và giao diện TouchWiz 4.0.
+
+
+== Xem thêm ==
+Samsung Galaxy
+Galaxy Nexus
+Android OS
+Samsung Galaxy Ace Plus
+Samsung Galaxy Ace 2
+
+
+== Tham khảo ==
+
+
+== Liên kết ==
+Website chính thức

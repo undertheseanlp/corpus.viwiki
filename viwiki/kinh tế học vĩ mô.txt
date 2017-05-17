@@ -1,0 +1,76 @@
+Kinh tế học vĩ mô hay là kinh tế tầm lớn (Macroeconomic) là một phân ngành của kinh tế học chuyên nghiên cứu về đặc điểm, cấu trúc và hành vi của cả một nền kinh tế nói chung. Kinh tế học vĩ mô và kinh tế học vi mô là hai lĩnh vực chung nhất của kinh tế học. Trong khi kinh tế học vi mô chủ yếu nghiên cứu về hành vi của các cá thể đơn lẻ, như công ty và cá nhân người tiêu dùng, kinh tế học vĩ mô lại nghiên cứu các chỉ tiêu cộng hưởng như GDP, tỉ lệ thất nghiệp, và các chỉ số giá cả để hiểu cách hoạt động của cả nền kinh tế.
+Kinh tế học vĩ mô là một lĩnh vực tổng quát nhưng có hai khu vực nghiên cứu điển hình:
+nghiên cứu nguyên nhân và hậu quả của biến động ngắn đối với thu nhập quốc gia (còn gọi là chu kỳ kinh tế), và
+nghiên cứu những yếu tố quyết định cho tăng trưởng kinh tế bền vững.
+Các chuyên gia kinh tế học vĩ mô phát triển các mô hình để giải thích mối quan hệ giữa các yếu tố như thu nhập quốc gia, sản lượng, tiêu dùng, thất nghiệp, lạm phát, tiết kiệm, đầu tư, buôn bán đa quốc gia và tài chính đa quốc gia. Các mô hình này và các dự báo do chúng đưa ra được cả chính phủ lẫn các tập đoàn lớn sử dụng để giúp họ phát triển và đánh giá các chính sách kinh tế và các chiến lược quản trị.
+
+
+== Đối tượng nghiên cứu ==
+Kinh tế học vĩ mô nghiên cứu sự vận động và những mối quan hệ kinh tế chủ yếu của một đất nước trên bình diện toàn bộ nền kinh tế quốc dân. Những đối tượng nghiên cứu cụ thể của kinh tế học vĩ mô bao gồm tổng sản phẩm, việc làm, lạm phát, tăng trưởng, chu kỳ kinh tế, vai trò ổn định kinh tế vĩ mô của chính phủ, v.v.
+
+
+== Phương pháp nghiên cứu ==
+Kinh tế học vĩ mô sử dụng tích cực phương pháp mô hình hóa. Gần như mỗi một hiện tượng kinh tế vĩ mô lại được mô tả bằng một mô hình riêng với những giả thiết riêng. Do cách nhìn nhận các giả thiết khác nhau, nên trong kinh tế học vĩ mô tồn tại nhiều trường phái.
+
+
+== Các trường phái kinh tế học vĩ mô ==
+
+
+=== Chủ nghĩa Keynes ===
+Xem bài chính về Chủ nghĩa Keynes
+
+
+==== Trường phái Keynes chính thống ====
+Xem bài chính Trường phái Keynes chính thống
+Mặc dù ủng hộ thị trường tự do, song trường phái Keynes vẫn cho rằng vai trò ổn định kinh tế vĩ mô của chính phủ là không thể thiếu vì thị trường không hoàn hảo. Các nhà kinh tế trường phái Keynes tin rằng tổng cầu chịu tác động của một loạt các quyết định kinh tế - cả của tư nhân lẫn của nhà nước - và thường thiếu ổn định. Trường phái Keynes còn khẳng định những biến động của tổng cầu có tác động rất lớn trong ngắn hạn tới sản lượng thực tế và tới việc làm, nhưng không tác động tới vật giá - hay vật giá cứng nhắc. Chính vì vật giá cứng nhắc nên khi chi tiêu cho tiêu dùng, đầu tư hay chi tiêu của chính phủ thay đổi thì tổng cầu cũng sẽ thay đổi. Chính sách tài khóa (thuế, chi tiêu công cộng), vì thế, có sức mạnh đáng kể để khắc phục sự thiếu ổn định của tổng cầu. Tuy nhiên, chính sách tiền tệ không có hiệu lực gì cả.
+
+
+==== Trường phái Keynes mới ====
+Xem bài chính Kinh tế học Keynes mới.
+Kinh tế học Keynes mới là một trường phái kinh tế học vĩ mô ra đời với mục đích chống lại những phê phán của trường phái Kinh tế học vĩ mô cổ điển mới rằng kinh tế học Keynes thiếu một cơ sở kinh tế học vi mô. Kinh tế học Keynes mới tìm cách thuyết minh mệnh đề trung tâm về giá cả và tiền công cứng nhắc trong ngắn hạn của kinh tế học Keynes bằng kinh tế học vi mô. Trường phái này hiện nay đưa ra ba lý luận chính, gồm: hợp đồng lao động dài hạn, tiền công hiệu quả, và chi phí thực đơn.
+
+
+=== Trường phái tổng hợp ===
+Xem bài chính về trường phái tổng hợp
+Kinh tế học vĩ mô tổng hợp là một trường phái kinh tế học vĩ mô dựa trên việc tổng hợp các học thuyết của kinh tế học tân cổ điển với kinh tế học vĩ mô Keynes. Trường phái này lấy cân bằng tổng thể của kinh tế học tân cổ điển làm khung, bổ sung thêm lý luận cầu hữu hiệu của kinh tế học Keynes, và sử dụng tích cực phân tích IS-LM của Hicks. Phái này cho rằng dựa vào chính sách điều chỉnh cầu hữu hiệu của nhà nước có thể đạt được trạng thái toàn dụng nhân lực như kinh tế học tân cổ điển nhìn nhận và đẩy mạnh được tăng trưởng kinh tế. Các mô hình kinh tế lượng sẽ giúp nhà nước tính toán và điều chỉnh cầu hữu hiệu một cách hiệu quả.
+
+
+=== Trường phái tân cổ điển ===
+Xem bài chính về Kinh tế học tân cổ điển
+Kinh tế học tân cổ điển, về cơ bản, là kinh tế học vi mô. Tuy nhiên, những lý luận về quy luật thị trường, nhất là nguyên lý Say, mà trường phái này phát hiện trong thời gian từ thế kỷ 19 đến thập niên 1930 đã trở thành khung để hình thành kinh tế học vĩ mô. Mô hình tăng trưởng tân cổ điển (còn gọi: mô hình tăng trưởng ngoại sinh hay mô hình tăng trưởng Solow) chính là lý luận kinh tế học vĩ mô quan trọng nhất của phái tân cổ điển.
+Đây là một trường phái được xem là lâu đời nhất.
+
+
+=== Chủ nghĩa kinh tế tự do mới ===
+Xem bài chính về Chủ nghĩa kinh tế tự do mới
+
+
+==== Trường phái kinh tế học vĩ mô cổ điển mới ====
+Xem bài chính về Kinh tế học vĩ mô cổ điển mới
+Kinh tế học vĩ mô cổ điển mới là phái vĩ mô của kinh tế học tân cổ điển hình thành từ thập niên 1970. Phái này xây dựng hệ thống học thuyết kinh tế học vĩ mô của mình từ nền tảng của kinh tế học vi mô. Họ giả định là thị trường hoàn hảo dù trong ngắn hạn hay dài hạn, nhấn mạnh việc thiết kế các chính sách kinh tế vĩ mô phải nhằm mục đích tối đa hóa thỏa dụng của cá nhân. Những đóng góp quan trọng nhất của phái này vào kinh tế học vĩ mô gồm giả thuyết dự tính duy lý, tính không nhất quán theo thời gian, hàm cung Lucas, lý thuyết chu kỳ kinh doanh thực.
+
+
+==== Chủ nghĩa tiền tệ ====
+Xem bài chính về Chủ nghĩa tiền tệ
+Chủ nghĩa tiền tệ là hệ thống các học thuyết và lý luận kinh tế vĩ mô liên quan đến tiền tệ, một biến số kinh tế quan trọng. Những người theo chủ nghĩa tiền tệ do Milton Friedman lãnh đạo không ủng hộ việc lạm dụng chính sách tiền tệ để ổn định chu kỳ kinh tế. Họ đề nghị để tiền tệ trung lập hoặc chỉ nên giữ cho tốc độ tăng cung tiền chậm, ổn định và vừa đúng bằng tốc độ tăng sản lượng thực tế. Các lý luận chính của chủ nghĩa tiền tệ gồm: Hàm cầu tiền của Friedman, thuyết số lượng tiền tệ mới, khái niệm tỷ lệ thất nghiệp tự nhiên, v.v... Cụ thể hơn, tiền tệ chính là một công cụ dùng để trao đổi hàng hóa với nhau.
+
+
+==== Kinh tế học trọng cung ====
+Xem bài chính về Kinh tế học trọng cung.
+Kinh tế học trọng cung đề cao mặt cung cấp của các hoạt động kinh tế. Phái này nhấn mạnh việc nâng cao năng suất lao động và nâng cao năng lực cung cấp của nền kinh tế nhằm mục đích nâng cao tốc độ tăng trưởng tiềm năng.11
+
+
+=== Trường phái cơ cấu ===
+
+
+=== Sự phát triển của Kinh tế học Vĩ mô trong thế kỷ 20 ===
+Phát triển Kinh tế học Vĩ mô thế kỷ 20
+
+
+== Xem thêm ==
+Lịch sử Kinh tế học Vĩ mô
+
+
+== Tham khảo ==
+
+"Giáo khoa, bài tập và bài giải kinh tế học vĩ mô" của Michel Herland (Trần Văn Hùng biên dịch từ "Auto-manuel de macroéconomie - Cours, exercices et corrigés," Paris, Economica, 1990, 276 p), Nhà xuất bản Thống kê, 1994.

@@ -1,0 +1,147 @@
+Một bản phân phối Linux (thường được gọi tắt là distro) là một hệ điều hành được tạo dựng từ tập hợp nhiều phần mềm dựa trên hạt nhân Linux và thường có một hệ thống quản lý gói tin. Người dùng Linux thường tải một bản phân phối Linux, trong đó có sẵn trong một loạt các hệ thống khác nhau, từ các thiết bị nhúng (ví dụ, OpenWrt) và máy tính cá nhân đến Siêu máy tính (ví dụ, Rocks Cluster Distribution).
+Một bản phân phối Linux điển hình bao gồm một Linux kernel, các công cụ và thư viện GNU, các phần mềm thêm vào, tài liệu, một window system (phần lớn sử dụng X Window System), và window manager, và một môi trường desktop. Phần lớn các phần mềm là phần mềm tự do nguồn mở có sẵn cả file biên dịch nhị phân và mã nguồn, cho phép chỉnh sửa phần mềm gốc. Thông thường, các bản phân phối Linux tùy chọn bao gồm một số phần mềm độc quyền mà có thể không có sẵn ở dạng mã nguồn, ví dụ như các binary blob yêu cầu cho các trình điều khiển thiết bị. Hầu như tất cả các bản phân phối Linux là tương tự Unix; ngoại lệ đáng chú ý nhất là Android, không bao gồm một giao diện dòng lệnh và các chương trình làm cho các bản phân phối Linux điển hình.
+Một bản phân phối Linux cũng có thể được mô tả như một loại riêng biệt của ứng dụng và phần mềm tiện ích (công cụ GNU khác nhau và các thư viện làm ví dụ), đóng gói cùng với các hạt nhân Linux theo cách như vậy mà khả năng của nó đáp ứng được nhu cầu của nhiều người sử dụng. Phần mềm này thường được chuyển đến phân phối và sau đó được đóng gói thành các gói phần mềm bằng cách bảo trì của phân phối. Các gói phần mềm có sẵn trực tuyến trong cái gọi là kho lưu trữ, đó là địa điểm lưu trữ thường phân bố trên toàn thế giới. Ngoài các thành phần chính, chẳng hạn như các trình cài đặt phân phối (ví dụ, Debian-Installer hay Anaconda) hoặc các hệ thống quản lý gói, còn có một số ít các gói mà ban đầu được viết từ dưới lên bởi các nhà bảo trì của một phân phối Linux.
+Có khoảng sáu trăm bản phân phối Linux tồn tại, với gần năm trăm trong số đó phát triển tích cực, liên tục được sửa đổi và cải thiện. Bởi vì sự sẵn có lớn của phần mềm, phân phối đã thực hiện một loạt các hình thức, kể cả những người phù hợp để sử dụng trên máy tính để bàn, máy chủ, máy tính xách tay, netbook, điện thoại di động và máy tính bảng, cũng như môi trường tối thiểu thường để sử dụng trong các hệ thống nhúng. Có nhiều phân phối hỗ trợ thương mại, như Fedora (Red Hat), openSUSE (SUSE) và Ubuntu (Canonical Ltd.), và hoàn toàn phân phối dựa vào cộng đồng, chẳng hạn như Debian, Slackware, Gentoo hay Arch Linux. Hầu hết các bản phân phối đều sẵn sàng để sử dụng và biên dịch sẵn kèm theo một bộ hướng dẫn cụ thể, trong khi một số phân phối (như Gentoo) phân phối chủ yếu ở dạng mã nguồn và biên dịch cục bộ trong quá trình cài đặt.
+
+
+== Lịch sử ==
+
+Linus Torvalds phát triển Linux kernel và phân phối phiên bản đầu tiên của nó, 0.01, vào năm 1991. Linuxlucs đầu chỉ được phân phối mã nguồn, và sau đó là hai file ảnh đĩa mềm có thể tải về– một có thể tự khởi động và chứa hạt nhân Linux, và cái khác với một tập hợp các tiện ích và công cụ GNU cho việc thiết lập một hệ thống tập tin.Bởi vì quá trình cài đặt khá phức tạp, đặc biệt là khi đối mặt với số lượng ngày càng tăng của phần mềm có sẵn, các bản phân phối xuất hiện để đơn giản hóa này, 
+Những bản phân phối đầu tiên bao gồm:
+H. J. Lu's "Boot-root", các cặp hình ảnh đĩa nói trên với các hạt nhân và các công cụ tối thiểu tuyệt đối để bắt đầu
+MCC Interim Linux, mà đã được có sẵn cho công chúng để tải về trong tháng 2/1992
+Softlanding Linux System (SLS), phát hành năm 1992, là phân phối hoàn thiện nhất trong một thời gian ngắn, bao gồm X Window System
+Yggdrasil Linux/GNU/X, phân phối thương mại đầu tiên được phát hành vào tháng 12/1992
+Hai dự án phân phối lâu đời nhất và vẫn còn hoạt động bắt đầu vào năm 1993. SLS đã không được duy trì tốt, /vì vậy trong tháng 7/1993 một phân phối mới, được gọi là Slackware và dựa trên SLS, được phát hành bởi Patrick Volkerding. Ngoài ra không hài lòng với SLS, Ian Murdock thiết để tạo ra một phân phối miễn phí bằng cách phát triển Debian, phiên bản đầu tiên phát hành tháng 12/1993.
+Người dùng bị các bản phân phối Linux thu hút như là sự thay thế cho DOS và Microsoft Windows trên các máy tương thích IBM PC, Mac OS trên Apple Macintosh, và các phiên bản độc quyền của Unix. Hầu hết các người sớm chấp nhận quen thuộc với Unix ở nơi làm việc hoặc trường học. Họ chấp nhận các bản phân phối Linux do giá thấp của chúng (nếu có), và tính sẵn sàng của mã nguồn cho hầu hết hoặc tất cả các phần mềm kèm theo.
+Ban đầu, các bản phân phối chỉ đơn giản là một tiện ích, nhưng sau đó họ đã trở thành sự lựa chọn thông thường ngay cả đối với các chuyên gia Unix hoặc Linux.
+Đến nay, Linux đã chứng minh phổ biến hơn trên thị trường máy chủ, chủ yếu cho các máy chủ Web và cơ sở dữ liệu (ví dụ, trong LAMP), và trong thị trường thiết bị nhúng hơn trong thị trường máy tính cá nhân.
+
+
+== Thành phần ==
+
+Nhiều bản phân phối Linux cung cấp một hệ thống cài đặt tương tự như các hệ điều hành hiện đại khác.Mặt khác, một số phân phối, bao gồm Gentoo Linux, chỉ cung cấp những chương trình của một hạt nhân cơ bản, các công cụ biên dịch, và một trình cài đặt; trình cài đặt biên dịch tất cả các phần mềm yêu cầu cho kiến trúc cụ thể của máy tính của người dùng, sử dụng những công cụ và mã nguồn được cung cấp.
+
+
+=== Quản lý gói ===
+Phân phối thường được chia nhỏ thành các gói(packages).Mỗi gói bao gồm một ứng dụng hoặc dịch vụ cụ thể. Ví dụ về các gói này là một thư viện để xử lý các định dạng hình ảnh PNG, một tập hợp các phông chữ hoặc một trình duyệt web.
+Các gói phần mềm thường được cung cấp như là mã biên dịch, với cài đặt và gỡ bỏ gói xử lý bởi một hệ thống quản lý gói (PMS) rchứ không phải là một trình lưu trữ tập tin đơn giản. Mỗi gói dành cho một PMS như thế có chứa meta-thông tin như mô tả gói, phiên bản, và "các gói phụ thuộc". Các hệ thống quản lý gói có thể đánh giá siêu thông tin này để cho phép tìm kiếm gói,để thực hiện một nâng cấp tự động lên phiên bản mới, để kiểm tra xem tất cả các phụ thuộc của một gói được đáp ứng, và / hoặc thực hiện một cách tự động.
+Mặc dù các bản phân phối Linux thường chứa nhiều phần mềm hơn so với hệ điều hành độc quyền, nó là bình thường vì các quản trị viên địa phương cũng cài đặt các phần mềm không có trong phân phối. Một ví dụ có thể có một phiên bản mới hơn của một phần mềm ứng dụng so với bản được cung cấp trong bản phân phối, hay một sự thay thế cho sự lựa chọn của bản phân phối(ví dụ, KDE Plasma Workspaces thay cho GNOME hoặc ngược lại với giao diện người dùng). Nếu các phần mềm bổ sung chỉ được phân phối dưới dạng mã nguồn, phương pháp này đòi hỏi phải biên soạn cục bộ. Tuy nhiên, nếu phần mềm được bổ sung cục bộ, phần mềm có thể bị loại ra khỏi quá trình đồng bộ cơ sở dữ liệu cập nhật của trình quản lý gói tin. Nếu vậy, các quản trị viên cục bộ sẽ được yêu cầu để có biện pháp bổ sung nhằm đảm bảo toàn bộ hệ thống được cập nhật. Trình quản lý gói có thể tự động chạy
+Hầu hết các bản phân phối cài đặt các gói, bao gồm nhân và các thành phần lõi khác của hệ điều hành theo một cấu hình định trước. Hiện nay rất ít cho phép yêu cầu hay thậm chí là cho phép thay đổi cấu hình trong quá trình cài đặt. Điều này làm cho cài đặt ít khó khăn, đặc biệt đối với người dùng mới, nhưng không phải lúc nào cũng chấp nhận được.Với các yêu cầu đặc biệt, nhiều phần mềm cần được cấu hình cẩn thận để dễ sử dụng, làm việc một cách chính xác với các phần mềm khác, hoặc để được an toàn, và các quản trị viên địa phương thường phải dành nhiều thời gian xem xét và cấu hình lại các loại phần mềm.
+Một vài bản phân phối có những bước tiến đáng kể  trong thiết lập và tùy chỉnh phần lớn hoặc tất cả các phần mềm của phân phối đó. Không phải tất cả làm như vậy. Một số phân phối cung cấp các công cụ cấu hình để hỗ trợ trong quá trình này.
+Bằng cách thay thế tất cả mọi thứ được cung cấp trong một phân phối, quản trị viên có thể đạt được một "phân phối nhỏ hơn": tất cả mọi thứ được lấy, biên soạn, cấu hình và cài đặt tại địa phương. Có thể xây dựng một hệ thống như vậy từ đầu, tránh phân phối hoàn toàn. đầu tiên cần một cách để tạo ra những chương trình đầu tiên cho đến khi hệ thống là tự lưu trữ. Điều này có thể được thực hiện thông qua biên dịch trên một hệ thống khác có khả năng xây dựng những chương trình cho mục tiêu dự định (có thể do biên dịch chéo). Ví dụ,  Linux From Scratch.
+
+
+== Loại hình và xu hướng ==
+Nói chung, các bản phân phối Linux thể là:
+Thương mại hoặc phi thương mại;
+thiết kế cho người dùng doanh nghiệp, người dùng chuyên nghiệp hay cho người dùng gia đình.
+Hỗ trợ nhiều nền tảng phần cứng, hoặc nền tảng riêng, thậm chí đến mức chứng nhận bởi các nhà cung cấp nền tảng;
+thiết kế cho máy chủ, máy tính cá nhân, hoặc cho thiết bi nhúng;
+Mục đích chung hoặc có chuyên môn cao về phía các chức năng máy cụ thể (ví dụ: tường lửa, router mạng, và điện toán cụm);
+Nhắm đến nhóm người dùng cụ thể, ví dụ thông qua việc quốc tế và bản địa hóa ngôn ngữ, hoặc thông qua bao gồm nhiều sản phẩm âm nhạc hoặc các gói tính toán khoa học;
+Xây dựng chủ yếu cho an ninh, khả năng sử dụng, tính di động, hoặc toàn diện.
+The diversity of Linux distributions is due to technical, organizational, and philosophical variation among vendors and users. The permissive licensing of free software means that any user with sufficient knowledge and interest can customize an existing distribution or design one to suit his or her own needs.
+
+
+== Ví dụ ==
+Website DistroWatch liệt kê nhiều bản phân phối Linux, và hiển thị một số những phân phối có lượng truy cập website lớn nhất trên trang web. WikiMediaFoundation phát hành một phân tích của các User Agents ghé thăm website WMF cho đến 2015, trong đó bao gồm các chi tiết của các hệ điều hành phổ biến nhất, bao gồm một số bản phân phối Linux. Nhiều trong số các bản phân phối được liệt kê dưới đây
+
+
+=== Bản phân phối phổ biến ===
+Debian, Một bản phân phối phi thương mại và là một trong những bản phân phối ra đời sớm nhất, duy trì bởi một cộng đồng phát triển tình nguyện với một cam kết mạnh mẽ cho nguyên tắc phần mềm miễn phí và quản lý dự án dân chủ
+Raspbian, một hệ điều hành cho Raspberry Pi.
+Knoppix, bản phân phối Live CD cho phép khởi động từ những thiết bị lưu trữ di động mà không cần phải cài đặt vào ổ cứng, bắt nguồn từ Debian
+Ubuntu, một bản phân phối phổ biến cho máy tính để bàn và máy chủ bắt nguồn từ Debian, duy trì bởi một công ty của Anh, Canonical Ltd.
+Kubuntu, phiên bản KDE của Ubuntu
+Linux Mint, một bản phân phối dựa trên và tương thích với Ubuntu. Hỗ trợ nhiều môi trường desktop, trong số những phân nhánh khác nhau của GNOME Shell là Cinnamon và GNOME 2 là MATE.
+Trisquel, một bản phân phối dựa trên Ubuntu dựa trên Linux kernel và bao gồm toàn bộ phần mềm miễn phí
+Elementary OS, một bản phân phối dựa trên Ubuntu tập trung mạnh vào các trải nghiệm hình ảnh mà không ảnh hưởng tới hiệu suất.
+
+Fedora, một bản phân phối cộng đồng được đỡ đầu bởi một công ty của Mỹ, Red Hat. nó được tạo ra nhằm kiểm thử các công nghệ cho một bản phân phối thương mại khác của Red Hat, nơi mà các phần mềm nguồn mở mới được tạo lập, phát triển và kiểm thử trong môi trường cộng đồng trước khi được đưa vào Red Hat Enterprise Linux
+Red Hat Enterprise Linux (RHEL), một phát sinh của Fedora, duy trì và và hỗ trợ thương mại bởi Red Hat. Nó tìm cách cung cấp các thử nghiệm, an toàn, ổn định cho các máy chủ và máy trạm Linux hỗ trợ cho các doanh nghiệp 
+CentOS, một bản phân phối bắt nguồn từ mã nguồn tương tự được sử dụng bởi Red Hat, duy trì bởi một cộng đồng tình nguyện tận tâm của các nhà phát triển với cả hai phiên bản 100% tương thích với Red Hat và một phiên bản nâng cấp không phải luôn tương thích ngược 100%.
+Oracle Linux, cũng phát sinh từ Red Hat Enterprise Linux, duy trì và hỗ trợ thương mại bởi Oracle
+Scientific Linux, một bản phân phối phát sinh từ mã nguồn tương tự của Red Hat,duy trì bởi Fermilab
+
+Mandriva Linux là một phân phối bắt nguồn từ Red Hat, phổ biến ở một vài quốc giaChâu Âu và Brazil,Hỗ trợ bởi một công ty Pháp cùng tên.nó đã bị thay thế bởi OpenMandriva Lx.Mageia, một phân nhánh cộng đồng của Mandriva Linux bắt đầu từ 2010
+PCLinuxOS, một phân nhánh của Mandriva, phát triển từ một nhóm các gói tin do ccoongj đồng tự phát triển và phân phối
+
+openSUSE một phân phối cộng đồng chủ yếu được tài trợ bởi Novel.
+SUSE Linux Enterprise, phân nhánh từ openSUSE, duy trì và hỗ trợ thương mại bởi Novel
+
+
+=== Phân phối hướng đến người dùng chuyên nghiêp ===
+Arch Linux, một bản phân phối phát hành liên tục hướng đến người dùng Linux nhiều kinh nghiệm duy trì bởi một cộng đồng tình nguyện, cung cấp các gói nhị phân chính thức và một loạt các gói không chính thức do người dùng đề xuất. Các gói thường được xác định bởi một tập tin văn bản PKGBUILD duy nhất.
+Manjaro Linux, một phân phối bắt nguồn từ Arch Linux trong đó bao gồm một trình cài đặt đồ họa và các tính năng dễ sử dụng khác cho người dùng Linux ít kinh nghiệm.
+
+Gentoo, một bản phân phối hướng tới người dùng chuyên nghiệp, được biết đến với hệ thống tự động chạy các ứng dụng từ mã nguồn tương tự FreeBSD Ports
+Chrome OS, hệ điều hành thương mại của Google (sử dụng Gentoo và Portage của nó)chủ yếu chạy các ứng dụng web
+
+Slackware, bắt đầu năm 1993, một trong những bản phân phối Linux đầu tiên và là một trong số những phân phối sớm nhất vẫn đang được duy trì, cam kết sẽ vẫn giữ mức độ tương tự Unix cao và dễ dàng sửa đổi bởi người dùng cuối
+
+
+=== Bản phân phối nhẹ ===
+
+
+=== Phân phối ngách ===
+Các bản phân phối khác hướng tới ngách riêng, chẳng hạn như:
+Routers – ví dụ, mục tiêu của bản phân phối nhúng cho các router OpenWrt
+Home theater PCs – ví dụ, mục tiêu của KnoppMyth, Kodi (trước đó là XBMC) và Mythbuntu
+Các nền tảng riêng biệt – ví dụ như, Yellow Dog Linux hướng đến nền tảng Apple Macintosh
+Giáo dục – ví dụ  Edubuntu và Karoshi, hệ thống máy chủ dựa trên PCLinuxOS
+Máy chủ và máy trạm khoa học – ví dụ, mục tiêu của Scientific Linux
+Máy trạm âm thanh kỹ thuật số cho sản xuất âm nhạc - ví dụ, mục tiêu của Ubuntu Studio
+Computer Security, pháp y kỹ thuật số và thử nghiệm thâm nhập ví dụ, Kali Linux
+
+
+=== Android ===
+
+Cho dù Android của Google được tính như là một bản phân phối Linux là một vấn đề định nghĩa. Nó sử dụng hạt nhân Linux, Linux Foundation và Chris DiBona, giám đốc nguồn mở của Google, đồng ý rằng Android là một bản phân phối Linux; những người khác, chẳng hạn như kỹ sư Google Patrick Brady, không đồng ý bằng cách ghi nhận sự thiếu hỗ trợ cho nhiều công cụ GNU trong Android, bao gồm cả các glibc.
+
+
+== Các vấn đề liên phân phối ==
+Free Standards Group là một tổ chức được thành lập bởi các nhà cung cấp phần mềm và phần cứng lớn nhằm cải thiện khả năng tương tác giữa các phân phối khác nhau. Trong số các tiêu chuẩn đề xuất của họ là Linux Standard Base, trong đó xác định một hệ thống ABI và đóng gói chung cho Linux, và Filesystem Hierarchy Standard đề xuất một biểu đồ đặt tên file tiêu chuẩn, đặc biệt là tên thư mục cơ bản được tìm thấy trên thư mục gốc của cây thư mục của bất kỳ hệ thống tập tin Linux. Tuy nhiên các tiêu chuẩn này bị hạn chế sử dụng, ngay cả trong các bản phân phối phát triển bởi các thành viên của tổ chức.
+Sự đa dạng của các bản phân phối Linux có nghĩa là không phải tất cả các phần mềm chạy trên tất cả các bản phân phối, phụ thuộc vào các thư viện và các thuộc tính hệ thống khác được yêu cầu. Đóng gói phần mềm và kho phần mềm thường cụ thể cho từng phân phối riêng, mặc dù có thể cài đặt chéo trên các phân phối có liên quan chặt chẽ với nhau.
+
+
+== Công cụ lựa chọn bản phân phối ==
+Các máy ảo giống như VirtualBox và VMware Workstation ảo hóa phần cứng cho phép người dùng chạy thử hệ thống trên một máy ảo. Một vài website giống như DistroWatch đưa ra danh sách những bản phân phối phổ biến nhất, và liên kết đến ảnh chụp màn hình của hệ điều hành như là một cách để có được một ấn tượng đầu tiên của các bản phân phối khác nhau.
+Có những công cụ có sẵn để giúp mọi người chọn cách phân phối, chẳng hạn như một số phiên bản của Linux Distribution Chooser, và công cụ tìm kiếm tất cả các gói whohas. Có nhiều cách dễ dàng để thử một số bản phân phối Linux trước khi quyết định: Multi Distro là một Live CD có chứa chín phân phối tiết kiệm không gian.
+
+
+== Cài đặt ==
+Có nhiều cách cài đặt một bản phân phối Linux. Phương pháp phổ biến nhất của việc cài đặt Linux OS bằng cách khởi động từ một đĩa quang có chứa chương trình cài đặt và cài đặt phần mềm. Một đĩa như vậy có thể được ghi từ một hình ảnh ISO đã tải về, mua riêng với giá thấp, cung cấp như một đĩa đính kèm các tạp chí, vận chuyển miễn phí theo yêu cầu, hoặc thu được là một phần của một bộ hộp mà cũng có thể bao gồm hướng dẫn sử dụng và thương mại thêm phần mềm.
+Phân phối Linux đầu tiên được cài đặt thông qua bộ đĩa mềm nhưng điều này đã bị loại bỏ bởi tất cả các nhà phân phối lớn. Ngày nay hầu hết các bản phân phối cung cấp đĩa CD và DVD bộ với các gói quan trọng trên đĩa đầu tiên và các gói ít quan trọng về cái sau này.Chúng thường cũng cho phép cài đặt qua mạng sau khi khởi động từ hoặc là một bộ đĩa mềm hoặc đĩa CD chỉ với một lượng nhỏ dữ liệu trên nó.
+Người dùng mới có xu hướng bắt đầu bằng cách phân vùng ổ cứng để giữ cho hệ thống điều hành được cài đặt trước đó của họ. Các bản phân phối Linux sau đó có thể được cài đặt trên phân vùng riêng của mình mà không ảnh hưởng đến dữ liệu đã lưu trước đó.
+Trong một thiết lập Live CD, máy tính khởi động toàn bộ hệ điều hành từ đĩa CD mà không cài đặt nó trên đĩa cứng của máy tính. Một số phân phối có một trình cài đặt Live CD, nơi mà các máy tính khởi động hệ điều hành từ đĩa, và sau đó tiến hành cài đặt nó vào đĩa cứng của máy tính, cung cấp một quá trình chuyển đổi liền mạch từ hệ điều hành chạy từ đĩa CD vào hệ điều hành chạy từ đĩa cứng.
+Cả máy chủ và máy tính cá nhân đi kèm với Linux đã được cài đặt có sẵn từ các nhà cung cấp bao gồm Hewlett-Packard, Dell and System76.
+Trên các thiết bị nhúng, Linux thường được tổ chức trong firmware của thiết bị và có thể hoặc có thể không được truy cập bởi người dùng.
+Anaconda, một trong những trình cài đặt phổ biến nhất, được sử dụng bởi Red Hat Enterprise Linux, Fedora và các phân phối khác để đơn giản hóa quá trình cài đặt. Debian, Ubuntu và nhiều phân phối khác dùng Debian-Installer.
+
+
+=== Cài đặt thông qua một hệ điều hành có sẵn ===
+Một vài bản phân phối cho phép người dùng cài đặt Linux lên trên hệ thống hiện tại của họ, giống như WinLinux hay coLinux. Linux được cài lên phân vùng ổ cứng của Windows, và có thể tự khởi động bên trong Windows
+Máy ảo (giống như VirtualBox hay VMware) cũng có thể làm cho Linux chạy được trên OS khác. Các phần mềm máy ảo mô phỏng một máy tính riêng biệt mà trên đó các hệ thống Linux được cài đặt. Sau khi cài đặt, các máy ảo có thể được khởi động như thể nó là một máy tính độc lập.
+Các công cụ khác nhau cũng có sẵn để thực hiện cài đặt khởi động kép đầy đủ từ các nền tảng hiện tại mà không cần đĩa CD, đáng chú ý nhất:
+Wubi,cho phép người dùng Windows tải về và cài đặt Ubuntu hoặc các phân phối phát sinh từ nó lên một phân vùng FAT32 hay NTFS mà không cần đĩa CD,cho phép người dùng cài song song hai hệ điều hành mà không làm mất dữ liệu.
+Win32-loader, đó là trong quá trình đang được tích hợp trong đĩa CD/DVD cài Debian chính thức, cho phép người dùng Windows cài đặt Debian mà không cần  CD, mặc dù nó thực hiện một cài đặt mạng và do đó đòi hỏi phải phân vùng lại
+UNetbootin, cho phép người dùng Windows và Linux thực hiện tạo cài đặt mà không cần CD cho một loạt các bản phân phối Linux và cung cấp thêm hỗ trợ tạo USB live
+
+
+== Phần mềm độc quyền ==
+Một số phần mềm độc quyền cụ thể không có sẵn cho Linux. Tính đến tháng 9 năm 2015, các dịch vụ Steam game có 1.500 trò chơi có sẵn trên, so với 2.323 trò chơi dành cho Mac và 6.500 trò chơi trên Windows..Emulation và các dự án API chuyển đổi giống như Wine và CrossOver làm cho nó có thể chạy phần mềm không dựa trên Linux chạy được trên các hệ thống Linux, hoặc bằng cách mô phỏng một hệ điều hành độc quyền hoặc bằng cách dịch các cuộc gọi API độc quyền (ví dụ, gọi đến API Win 32 hay DirectX của Microsoft) vào các lệnh gọi API Linux. Một máy ảo cũng có thể được sử dụng để chạy một hệ điều hành độc quyền (như Microsoft Windows) trên Linux.
+
+
+== Hợp đồng OEM ==
+Phần cứng máy tính thường được bán với một hệ điều hành khác với Linux đã được cài đặt bởi các nhà sản xuất thiết bị gốc (OEM). Trong trường hợp các thiết bị tương thích IBM PC, hệ điều hành thường là Microsoft Windows; trong các máy tính Apple Macintosh nó luôn luôn là một phiên bản của hệ điều hành của Apple, hiện tại là OS X; Sun Microsystems bán các phần cứng SPARC cài sẵn Solaris; các thiết bị video game consoles giống như Xbox, PlayStation, và Wii đều có những hệ điều hành riêng. Điều này hạn chế thị phần của Linux: người tiêu dùng không biết rằng một sự thay thế tồn tại, họ phải thực hiện một nỗ lực có ý thức để sử dụng một hệ điều hành khác nhau, và họ thường phải tự cài đặt hệ thống cho mình, hoặc nhờ trợ giúp của bạn bè, người quen, hoặc các chuyên gia máy tính.
+Tuy nhiên, họ có thể mua các thiết bị phần cứng cài sẵn Linux. Lenovo, Hewlett-Packard, Dell, Affordy, và System76 đều có bán các laptop cài sẵn Linux, và các nhà sản xuất máy tính có sẽ có những tùy chỉnh để phù hợp với Linux (nhưng có thể với phím Windows trên bàn phím). Fixstars Solutions (trước đây là Terra Soft) bán máy tính Macintosh và PlayStation 3 cài sẵn Yellow Dog Linux.
+Sẽ phổ biến hơn để tìm các thiết bị nhúng được bán với Linux là hệ điều hành được nhà sản xuất hỗ trợ mặc định, bao gồm các thiết bị Linksys NSLU2 NAS,dòng máy quay phim cá nhân của TiVo, và các điện thoại (bao gồm cả các smartphone Android), PDA, và các thiết bị nghe nhạc dựa trên Linux.
+Thỏa thuận cấp phép người dùng cuối (EULA) của Apple cung cấp cho người dùng cơ hội để từ chối giấy phép và có được một khoản hoàn lại. Giấy phép hiện tại của Microsoft Windows cho phép các nhà sản xuất quyết định chính sách hoàn trả. Với phiên bản trước của Windows, nó đã có thể có được hoàn tiền nếu nhà sản xuất không hoàn lại tiền bằng tranh tụng nhỏ tại tòa án. Ngày 15/2/1999, một nhóm người dùng Linux tại Orange County, California đã tổ chức một cuộc phản đối với tên gọi "Windows Refund Day" trong một nỗ lực để gây áp lực yêu cầu Microsoft hoàn tiền cho họ. Ở Pháp, Linuxfrench và tổ chức AFUL (French speaking Libre Software Users' Association) cùng với nhà hoạt động phần mềm miễn phí Roberto Di Cosmo bắt đầu cuộc vận động "Windows Detax", dẫn đến một bản kiến nghị năm 2006 chống lại "racketiciels" (Tiếng Anh là: Racketware) với 39,415 chữ ký và các chi nhánh DGCCRF của chính phủ Pháp nộp một số khiếu nại chống lại phần mềm đi kèm. Ngày 24/3/2014, một bản kiến nghị quốc tế mới đã được đưa ra bởi AFUL trên nền tảng Avaaz, dịch ra nhiều thứ tiếng và được hỗ trợ bởi nhiều tổ chức trên toàn thế giới.
+
+
+== Xem thêm ==
+Danh sách phiên bản Linux
+
+
+== Chú thích ==

@@ -1,0 +1,94 @@
+Katakana(kanji: 片仮名, âm Hán Việt: phiến giả danh; katakana: カタカナ hay Hiragana: かたかな) là một thành phần trong hệ thống chữ viết truyền thống của Nhật Bản, bên cạnh hiragana, kanji và đôi khi còn để viết phiên âm chữ cái Latin. Từ "katakana" có nghĩa là "kana chắp vá", do chữ katakana được hợp thành từ nhiều thành phần phức tạp của Kanji.
+Katakana được tạo thành từ các nét thẳng, nét cong và nét gấp khúc, là kiểu chữ đơn giản nhất trong chữ viết tiếng Nhật.
+Katakana có hai kiểu sắp thứ tự thường gặp: Kiểu sắp xếp cổ iroha (伊呂波), và kiểu thường dùng thịnh hành gojūon (五十音).
+
+
+== Sử dụng ==
+Khác với kanji có thể được phát âm theo nhiều cách tùy theo ngữ cảnh (dạng chữ "tượng hình, biểu ý"), cách phát âm của các ký tự katakana (và hiragana) hoàn toàn theo quy tắc (dạng chữ "tượng thanh, biểu âm").
+Trong tiếng Nhật hiện đại, katakana thường được dùng để phiên âm những từ có nguồn gốc ngoại lai (gọi là gairaigo). Ví dụ, "television" (Tivi) được viết thành "テレビ" (terebi). Tương tự, katakana cũng thường được dùng để viết tên các quốc gia, tên người hay địa điểm của nước ngoài. Ví dụ, tên "Việt Nam" được viết thành "ベトナム" (Betonamu) (ngoài ra, Việt Nam cũng có tên Kanji là "越南" - Etsunan).
+Tuy nhiên, cũng có những trường hợp ngược lại, đó là cách viết kanji từ những từ vốn được viết bằng katakana. Một ví dụ là từ コーヒー (kōhī), nghĩa là cà phê, đôi khi có thể được viết là 珈琲. Từ kanji này thỉnh thoảng được các nhà sản xuất cà phê sử dụng nhằm tạo sự mới lạ.
+Katakana cũng được sử dụng để viết các từ tượng thanh, những từ để biểu diễn một âm thanh. Ví dụ như tiếng chuông cửa "đinh - đong", sẽ được viết bằng chữ katakana là "ピンポン" (pinpon).
+Những từ ngữ trong khoa học - kỹ thuật, như tên loài động vật, thực vật, tên sản vật, thông thường cũng được viết bằng katakana.
+Katakana cũng nhiều khi (những không phải là tất cả) được sử dụng để viết tên các công ty ở Nhật. Ví dụ như Sony được viết là "ソニ", hay Toyota là "トヨタ". Katakana ngoài ra còn được dùng để nhấn mạnh, đặc biệt đối với các ký hiệu, quảng cáo, panô ápphích. Ví dụ, chúng ta có thể sẽ nhìn thấy chữ "ココ" - koko - ("ở đây"), ゴミ gomi ("rác") hay メガネ megane ("kính đeo mắt"). Những từ muốn nhấn mạnh trong câu đôi khi cũng được viết bằng katakana, giống như kiểu chữ nghiêng italic.
+Katakana được sử dụng để biểu diễn cách đọc on'yomi (cách đọc âm Hán Trung Quốc) của một từ kanji trong từ điển kanji.
+Một số họ tên người Nhật được viết bằng katakana. Ngày xưa điều này thường phổ biến hơn, nên những người phụ nữ đứng tuổi thường có tên katakana.
+Những từ kanji khó đọc được viết thành katakana rất phổ biến. Những trường hợp này thường thấy trong các thuật ngữ y học. Ví dụ, trong từ 皮膚科 hifuka (khoa da liễu), từ kanji thứ 2, 膚, được cho là một từ khó đọc, do đó từ hifuka rất hay được viết thành 皮フ科 hay ヒフ科, dùng cả kanji và katakana. Tương tự, từ 癌 gan (ung thư) thường được viết bằng katakana hoặc hiragana.
+
+
+== Chính tả ==
+Các câu trong ngôn ngữ nhiều nước thường được ngăn cách bởi dấu câu (chấm, phẩy,...) trong tiếng Nhật gọi là 中黒 (nakaguro) còn các từ được ngăn cách bởi dấu cách. Tuy nhiên, trong những trường hợp người đọc biết từ nước ngoài đó phân cách ở đâu, thì dấu cách (hay dấu câu) không được sử dụng. Ví dụ, từ コンピュータゲーム ("konpyūta gēmu," hay "computer game") - "trò chơi điện tử", chứa hai từ tiếng Anh khá thông dụng tại Nhật, nên nó không có một dấu phân cách nào cả.
+Cú pháp chính tả của Katakana hơi khác với hiragana. Hiragana biểu diễn nguyên âm dài bằng cách cho thêm nguyên âm kana thứ hai vào sau, còn trong katakana, thường sử dụng một dấu gạch mở rộng gọi là chōon. Dấu gạch này trong cách viết Yokogaki (Trái sang phải, trên xuống dưới) là một dấu gạch ngắn nằm ngang theo dòng viết, và trong cách viết Tategaki (Trên xuống dưới, phải sang trái) là nằm dọc. Tuy nhiên, nó thường được sử dụng nhiều khi viết các từ mượn; nguyên âm dài trong tiếng Nhật được viết bằng katakana cũng thông dụng như được viết bằng hiragana. Ngoại trừ một số từ như ローソク(蝋燭)(rōsoku)(cây nến) hay ケータイ(携帯)(kētai)(điện thoại di động).
+Chữ tsu nhỏ ッ được gọi là sokuon chỉ ra một phụ âm kép, được phát âm bằng cách nhân đôi phụ âm đi sau nó. Ví dụ, từ bed (giường ngủ) được viết bằng katakana sẽ là ベッド (beddo).
+Sokuon đôi khi được dùng trong những vị trí không có sự tương đương của âm tiết vốn có. Ví dụ, chữ h kép trong chữ "ch" (thường thấy trong tên tiếng Đức). Lấy ví dụ chữ "bach" được viết là バッハ (Bahha); chữ "Mach" là マッハ (Mahha). Chữ "h" kép trong từ Bach và Mach (được biểu diễn bằng chữ ッ) có lẽ là cách biểu diễn tốt nhất của tiếng Nhật cho những từ này.
+Một số âm tiết trong nhiều ngôn ngữ thường khá khó khăn để biểu diễn bằng tiếng Nhật, ví dụ từ "hướng" (tiếng Việt) lại trở thành フオン (Fuon). Ali Khamenei là アリー・ハーメネイー (Arī Hāmeneī).
+
+
+== Bảng katakana ==
+Sau đây là bảng katakana cùng với phiên âm romaji tương ứng. Nhũng chữ bên bảng đầu tiên là chữ katakana tiêu chuẩn (ký tự có màu đỏ là ký tự cổ (hiện tại không dùng), còn ký tự có màu xanh là chữ katakana hiện đại, sử dụng chủ yếu để phiên âm những từ nước ngoài). Việc đọc chữ katakana có đôi chút phức tạp do bề ngoài tương tự của một số chữ. Như chữ shi シ và chữ tsu ツ, hay so ソ và chữ n ン, trông có vẻ giống nhau về hình thù nhưng khác nhau về thứ tự các nét khi viết và độ nghiêng của các nét. Một số chữ katakana lại khá giống chữ Hán, như chữ "ni" (ニ) và chữ Nhị (二 "số 2"), chữ "ka" (カ) và chữ Lực (力 "sức mạnh"), chữ "ro" (ロ) và chữ Khẩu (口 "cái miệng"). Sự khác biệt sẽ rõ hơn khi những chữ này được viết bằng bút mực nước (bút lông).
+1: ヲ ("wo") phát âm giống オ ("o"), nhưng trong thực tế nó hiếm khi được sử dụng ngoại trừ khi cần biểu diễn chữ hiragana tương ứng bằng chữ katakana. Để biểu diễn âm "wo", người Nhật dùng chữ cứng ウォ("uo").
+2: Những chữ katakana này được đưa vào hệ thống giáo dục từ khá sớm - thời kỳ Minh Trị, nhưng chưa bao giờ trở nên phổ biến. [2] [3]
+3: ヲ giống phụ âm "k (bật hơi)" trong bộ chữ Hangul của Hàn Quốc.
+4: フ giống phụ âm "k/g" trong bộ chữ Hangul của Hàn Quốc.
+5: ス giống phụ âm "ch/j" trong bộ chữ Hangul của Hàn Quốc.
+
+
+== Lịch sử ==
+Katakana được phát triển vào thời kỳ Heian từ các thành phần của các ký tự man'yōgana (万葉仮名, "vạn diệp giả danh") - một dạng tốc ký - là những chữ Trung Quốc được dùng để biểu diễn cách phát âm của người Nhật, bắt đầu hình thành từ thế kỷ thứ 5. Ví dụ, chữ ka カ được hình thành từ phần bên trái của chữ ka 加 (gia - gia tăng). Bảng dưới đây cho thấy nguồn gốc của từng chữ katakana: chữ đỏ là chữ gốc (chữ Hán).
+
+
+== Giảng dạy Katakana ==
+Nhiều giảng viên "giới thiệu katakana sau khi người học đã học đọc và viết hiragana một cách dễ dàng đồng thời nắm rõ các quy tắc." Hầu hết người học đã học qua hiragana cũng sẽ "không gặp quá khó khăn khi học và nhớ" katakana. Tuy nhiên, với những người học hiragana trước khi học katakana, nếu tạo thành thói quen viết và đọc hiragana đôi khi sẽ gây đôi chút khó khăn cho việc sử dụng katakana một cách thuần thục và nhanh nhẹn.
+Trong khi đó, một số giảng viên khác lại giới thiệu katakana trước, bởi chúng được sử dụng để biểu diễn các từ mượn. Việc này giúp người học, nhất là những người nói ngôn ngữ không chịu ảnh hưởng Hán văn, luyện đọc và viết kana với các từ ngữ dễ hiểu hơn.
+
+
+== Mã hóa trong máy tính ==
+Katakana có thể viết được trong tất cả các phông chữ dành cho tiếng Nhật và phông chữ đầy đủ của Unicode (như Arial Unicode MS), khá nhiều phông chữ hỗ trợ tiếng Trung Quốc cũng hỗ trợ cả katakana (như MS Song).
+Katakana có hai định dạng mã hóa, halfwidth (độ rộng 1 nửa) hankaku (半角) và fullwidth (độ rộng đầy đủ) zenkaku (全角). Định dạng halfwidth có nguồn gốc từ JIS X 0201. Trong định dạng này, hầu hết các chữ katakana được biểu diễn bằng 1 byte. Cuối thập kỷ 1970, các ký tự 2 byte ra đời (như JIS X 0208) để viết chữ Hiragana, Kanji và các ký tự khác. Hệ thống JIS_X_0208 có cách biểu diễn chữ katakana hoàn toàn khác với JIS_X_0201. Chữ katakana của JIS_X_0208 được biểu diễn bằng ít nhất là 2 byte, vì thế nhiều thiết bị (đặc biệt là các thiết bị của thệ hệ trước) thường viết katakana có độ dài 2 byte. Đó là lý do tại sao chữ Katakana của JIS_X_0201 được gọi là halfwidth còn JIS_X_0208 là fullwidth. Và cũng do đó, hầu hết các định dạng mã hóa không có định dạng chữ Hiragana halfwidth.
+Mặc dù hầu như không còn được dùng nữa, nhưng trong thực tế chữ katakana halfwidth vẫn còn trong nhiều hệ thống mã hóa. Ví dụ trong các máy điện toán, nhãn đĩa, phụ đề DVD hay truyền hình số. Nhiều kiểu mã hóa tiếng Nhật như EUC-JP, Unicode và Shift-JIS vừa có cả mã katakana halfwidth vữa có cả mã fullwidth. Ngược lại, ISO-2022-JP lại không có mã katakana halfwidth, và thường được dùng trong các giao thức SMTP và NNTP. Chữ halfwidth katakana thông thường được dùng để tiết kiệm bộ nhớ.
+
+
+=== Mã Unicode ===
+Trong Unicode, chữ fullwidth katakana chiếm các vị trí từ U+30A0 đến U+30FF [4]:
+Những chữ halfwidth katakana tương ứng cùng được mã hóa trong Unicode. Bắt đầu từ U+FF65 đến U+FF9F (các vị trí từ U+FF61 đến U+FF64 là các dấu câu halfwidth):
+Các vị trí mã từ 32D0 đến 32FE là các chữ Katakana khoanh tròn. Chú ý: Không có chữ ン khoanh tròn.
+
+
+== Các ví dụ về cách phiên âm của Katakana từ những từ nước ngoài ==
+
+
+=== Dược phẩm ===
+
+
+=== Công nghệ thông tin ===
+
+
+=== Tên ===
+
+
+=== Địa điểm ===
+
+
+=== Quốc gia và thành phố ===
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Tiếng Nhật
+Kana
+Kanji
+Hiragana
+Rōmaji
+Hentaigana
+Man'yōgana
+Furigana
+Okurigana
+
+
+== Liên kết ngoài ==
+Katakana code chart at Unicode.org
+Real Kana Practice katakana using different typefaces.
+katakana stroke order diagrams on nihongoresources.com
+Animations showing how to write katakana
+Learn Katakana, simple game to learn Katakana alphabet.

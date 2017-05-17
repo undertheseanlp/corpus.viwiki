@@ -1,0 +1,39 @@
+Một foot (phát âm gần như giọng miền Bắc phút), số nhiều là feet hay foot; ký hiệu là ft hoặc, đôi khi, ′ – dấu phẩy trên đầu, tiếng Việt có khi dịch là bộ là một đơn vị chiều dài, trong một số hệ thống khác nhau, bao gồm Hệ đo lường Anh (Imperial unit) và Hệ đo lường Mỹ (US customary unit). Chiều dài mà nó mô tả có thể khác nhau theo từng hệ thống, nhưng nó đều khoảng từ một phần tư đến một phần ba của mét. Đơn vị foot sử dụng phổ biến nhất ngày nay là foot quốc tế. Có 3 feet trong một yard và 12 inch trong một foot.
+
+
+== Định nghĩa ==
+
+
+=== Foot quốc tế ===
+Vào năm 1958 Hoa Kỳ và các nước trong Khối Thịnh vượng chung Anh đã định nghĩa chiều dài của yard quốc tế là 0,9144 mét. Do đó, foot quốc tế được định nghĩa là bằng với 0,3048 mét (tương đương với 304,8 milimét).
+Ký hiệu chuẩn quốc tế của foot là "ft" (xem ISO 31-1, Phụ lục A). Trong một số trường hợp, foot đượcòn được biểu thị với một dấu phết (dấu phẩy trên), tương tự như một dấu lược, và inch với một dấu phết kép. Ví dụ, 5 feet 2 inch ký hiệu thành 5'2″. Cách sử dụng này có thể gây nên nhầm lẫn, vì dấu ' và dấu " cũng là ký hiệu chuẩn quốc tế cho phút góc và giây góc.
+
+
+=== Foot đo đạc của Hoa Kỳ ===
+Foot đo đạc của Hoa Kỳ được định nghĩa chính xác là 1200/3937 mét, xấp xỉ 0,30480061 m. Nó chỉ được dùng với những đo đạc dùng trong các đo đạc của Cơ quan Đo đạc Đất và Bờ biển Hoa Kỳ. Nó lớn hơn foot quốc tế 610 nm.
+Foot đo đạc Hoa Kỳ được dùng bởi những nhà đo đạc đất đai và những người chuyên vẽ bản đồ cho dự án và bản đồ. Mỗi bang có quy định về loại foot nào được dùng trong đo đạc ở bang đó. Sự khác nhau là rất đáng chú ý khi chuyển đổi tọa độ trên Hệ thống Tọa độ Phẳng của bang đó.
+
+
+== Nguồn gốc lịch sử ==
+Đơn vị foot được dùng trong đo đạc được sử dụng trong hầu như tất cả các nền văn hóa và thường được chia thành 12, đôi khi là 10 inch/ngón cái hoặc thành 16 finger/ngón tay. Foot tiêu chuẩn đầu tiên được biết đến là từ nền văn minh Sumer, khi đó định nghĩa về foot được ghi trên một bức tượng vua Gudea của thành Lagash vào khoảng năm 2575 TCN. Một số nhà khoa học suy đoán rằng foot của Đế quốc Anh dựa vào một đơn vị đo của Ai Cập qua người Hy Lạp, và sau đó một foot lớn hơn được dùng bởi người La Mã.
+Nhiều người tin rằng chuẩn gốc của foot là chiều dài của một bàn chân người (trong tiếng Anh foot là "bàn chân"). Điều này có vẻ đúng, nhưng khi những nhà cầm quyền địa phương và những nhà cai trị quốc gia bắt đầu đo đạc và định nghĩa sự đo lường, chẳng có bàn chân của người nào có thể được dùng làm gốc. Trong những vùng nông nghiệp và không có thước đo chuẩn, nhiều đơn vị đo lường thực sự dựa vào chiều dài của một bộ phận nào đó của con người (hoặc như số diện tích cày được một ngày). Theo ý nghĩa đó, bàn chân người chính là nguồn gốc của đơn vị đo lường gọi là "foot" và cũng là định nghĩa chiều dài trong một thời gian dài. Để tránh xích mích và phục vụ thông thương, nhiều làng đã quyết định chọn chiều dài chuẩn và thông báo rộng rãi cho mọi người. Để có thể sử dụng đồng thời nhiều đơn vị chiều dài khác nhau dựa trên những bộ phận khác nhau của cơ thể người và đơn vị "tự nhiên" khác, những đơn vị khác nhau đã được định nghĩa lại thành bội số của nhau, từ đó các chiều dài không còn tương ứng với các tiêu chuẩn "tự nhiên" gốc nữa. Tiến trình tiêu chuẩn hóa quốc gia bắt đầu ở Scotland vào năm 1150 và ở Anh vào năm 1303, nhưng nhiều tiêu chuẩn địa phương khác đã tồn tại ở cả hai nước này từ rất lâu trước đó.
+Có người tin rằng sự đo lường một foot Anh bắt nguồn từ vua Henri I của Anh, người có bàn chân dài 12 inch, và mong muốn chuẩn hóa đơn vị đo lường ở Anh. Tuy nhiên điều này có vẻ không đúng, vì có những ghi chép về những từ ngữ đã được sử dụng khoảng 70 năm trước khi ông ra đời (Laws Æthelstan). Nó dĩ nhiên không loại trừ khả năng tiêu chuẩn cũ này đã được định nghĩa lại ("định cỡ") theo bàn chân của người cai trị. Thực ra, có bằng chứng rằng kiểu quy trình này là khá phổ biến vào thời xa xưa. Nói cách khác, một ông vua mới có thể cố gắng áp đặt một tiêu chuẩn mới cho một đơn vị đã tồn tại, nhưng chẳng phải chân của ông vua nào cũng dài bằng với đơn vị đo ngày nay.
+Chiều dài một bàn chân trung bình vào khoảng 9,4 inch (240 mm) đối với người Âu Châu hiện nay. Khoảng 99,6% đàn ông Anh có bàn chân ngắn hơn 12 inch. Đã từng có một nỗ lực để "giải thích" những inch "bị thiếu" là do người ta không đo chân trần, mà đo khi mang giày, do đó có thể thêm vào từ 1 đến 2 inch chiều dài. Nó tương đồng với kiểu đo thường dùng ở những nơi xây dựng, ở đó người ta thường sải bước trong khi mang giày, chứ không bỏ chúng ra mà đi chân không.
+Tuy nhiên đã có ghi chép về những định nghĩa từ thời xưa về inch dựa trên chiều rộng (không phải chiều dài) của ngón tay cái đã đóng vai trò một chuẩn rất chính xác vào thời đó. Một trong số này dựa trên số đo trung bình từ ba người đàn ông có kích cỡ khác nhau, do đó tạo nên một độ chính xác và đồng nhất đáng ngạc nhiên trên khắp đất nước mà không cần phải có một nhà thống trị nào ra tay. Nó cho thấy ít nhất là từ thế kỷ 12 chiều dài chính xác của một foot thực sự dựa trên inch, không còn có giải thích nào khác. Vì chiều dài này khá gần với chiều dài của phần lớn bàn chân, có cả giày, nên cho phép việc sử dụng những đôi giày để đo khi không có dụng cụ đo chính xác. Kiểu đo không chính xác này sẽ tăng thêm độ sai lệch khi dùng với các bội số của nó, do đó nó không bao giờ được dùng trong đo đạc và xây dựng những công trình phức tạp hơn.
+
+
+== Xem thêm ==
+Đơn vị đo lường
+Lịch sử đo lường
+Hệ thống đo lường
+Khối lượng và đo lường
+Hệ đo lường Anh
+Hệ đo lường Mỹ
+Hệ đo lường quốc tế
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+http://www.knowledgedoor.com/1/Library_of_Units_and_Constants/Group_Index/foot_group.htm

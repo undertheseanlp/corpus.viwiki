@@ -1,0 +1,25 @@
+Thí nghiệm, hay thực nghiệm, là một bước trong phương pháp khoa học dùng để phân minh giữa mô hình khoa học hay giả thuyết. Thí nghiệm cũng được sử dụng để kiểm tra tính chính xác của một lý thuyết hoặc một giả thuyết mới để ủng hộ chúng hay bác bỏ chúng. Thí nghiệm hoặc kiểm nghiệm có thể được thực hiện bằng phương pháp khoa học để trả lời một câu hỏi hoặc khảo sát vấn đề. Trước tiên đó là thực hiện quan sát. Sau đó đặt ra câu hỏi, hoặc nảy sinh vấn đề. Sau đó, giả thuyết được hình thành. Tiếp đến thí nghiệm được đưa ra để kiểm tra giả thuyết. Kết quả thí nghiệm được phân tích, rồi vạch ra kết luận, đôi khi một lý thuyết được hình thành từ kết quả thí nghiệm, và các kết quả được công bố trên các tạp chí nghiên cứu.
+Một thí nghiệm thường có mục đích chính là kiểm tra giả thuyết. Tuy nhiên, thí nghiệm cũng được dùng để kiểm chứng câu hỏi hoặc kiểm tra kết quả trước đó.
+Lặp lại thí nghiệm là "một thủ tục tiêu chuẩn trong việc xác nhận bất kỳ một khám phá khoa học nào." [1]
+"Khoa học đã được bảo vệ lâu dài khỏi những gian lận khoa học bằng cách xây dựng một cơ chế an toàn: để được chấp nhận rộng rãi, các thí nghiệm phải được lặp lại bởi những người khác." [2]
+Điều quan trọng là chúng ta phải biết mọi yếu tố trong một thí nghiệm. Và cũng rất quan trọng khi các kết quả thí nghiệm càng chính xác càng tốt. Nếu thí nghiệm được thực hiện cẩn thận, thì các kết quả thường là ủng hộ hoặc bác bỏ giả thuyết. Và thí nghiệm không bao giờ có thể "chứng minh" một giả thuyết, nó chỉ có thể ủng hộ thêm mà thôi. Tuy nhiên, nếu một ai đó lặp lại thí nghiệm mà thu được kết quả mâu thuẫn với các thí nghiệm trước thì nó có thể bác bỏ được lý thuyết hay giả thuyết. Thí nghiệm cũng phải kiểm soát được các yếu tố gây nhiễu—bất kỳ yếu tố nào làm ảnh hưởng đến độ chính xác hoặc tính lặp lại của thí nghiệm hoặc khả năng giải thích kết quả thí nghiệm.
+"... những kết quả thí nghiệm có thể không luôn chỉ được giải thích bằng lý thuyết duy nhất. the results of an experiment can never uniquely identify the explanation. Chúng chỉ có thể phân chia phạm vi của các mô hình ra làm hai nhóm, nhóm phù hợp với các kết quả thí nghiệm và nhóm mâu thuẫn với kết quả thí nghiệm."
+Thí nghiệm không phải là phương pháp duy nhất mà các nhà khoa học sử dụng để kiểm tra giả thuyết. Thí nghiệm thường dựa vào quan sát mà các điều kiện có thể được kiểm soát và điều chỉnh bởi người làm thí nghiệm nhằm loại bỏ các yếu tố không liên quan, thường thực hiện trong phòng thí nghiệm khoa học. Thông tin về tự nhiên (bản chất) cũng được thu thập và kiểm tra giả thuyết trong các nghiên cứu quan sát ngoài thực tế, đó là những quan sát về các hiện tượng trong thiên nhiên, mà không bị kiểm soát bởi người làm thí nghiệm.
+
+
+== Xem thêm ==
+Vật lý thực nghiệm
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Lessons In Electric Circuits - Volume VI - Experiments
+Trochim, William M., Experimental Design, The Research Methods Knowledge Base, 2nd Edition. (version current as of ngày 11 tháng 7 năm 2006).
+Description of weird experiments (with film clips)
+Science Experiments for Kids
+Shadish, William R., Thomas D. Cook, and Donald T. Campbell. 2002. Experimental and Quasi-experimental Designs for Generalized Causal Inference. Boston: Houghton Mifflin. 623 p.
+Guide for Understanding and Implementing Defense Experimentation (GUIDEx), The Technical Cooperation Program, 2006
+Experiment in Physics from Stanford Encyclopedia of Philosophy
+Bản mẫu:Experimental design Bản mẫu:Statistics

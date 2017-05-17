@@ -1,0 +1,87 @@
+Copyleft (còn gọi là bản quyền bên trái) là một cách chơi chữ đúp từ chữ copyright trong tiếng Anh có nghĩa là bản quyền, trong đó chữ left (bên trái) phản nghĩa với nghĩa của từ right (bên phải), mặc dù chữ "right" copyright có nghĩa là "quyền lợi" chứ không mang nghĩa "bên phải". Đồng thời copyleft còn có thể hiểu là copy left (nghĩa là bản sao cho dùng, bản sao được phép dùng). Copyleft mô tả cách sử dụng luật bản quyền để loại bỏ tất cả các hạn chế về phân phối bản sao và các phiên bản tác phẩm đã được chỉnh sửa cho mọi người và yêu cầu phải bảo lưu quyền tự do như vậy trong các phiên bản chỉnh sửa.
+Copyleft là một dạng cấp phép và có thể dùng để thay đổi bản quyền của những tác phẩm như phần mềm máy tính, tài liệu, âm nhạc, và nghệ thuật. Nói chung, luật bản quyền cho phép tác giả cấm người khác tái tạo, phái sinh, hoặc phân phối các bản sao tác phẩm của tác giả đó. Ngược lại, một tác giả, nhờ mô hình cấp phép copyleft, sẽ trao cho tất cả những ai nhận được bản sao tác phẩm quyền tái tạo, phái sinh hoặc phân phối tác phẩm miễn là tất cả những bản sao hoặc bản phái sinh mới đó cũng phải bị ràng buộc bởi cùng mô hình cấp phép copyleft. Giấy phép được sử dụng rộng rãi và là nguồn gốc của copyleft là Giấy phép Công cộng GNU. Cũng có những giấy phép Creative Commons tương tự như vậy với tên Chia sẻ tương tự (Share-alike).
+Copyleft cũng có thể được xem là một mô hình cấp phép bản quyền, trong đó tác giả từ bỏ một số, chứ không phải tất cả, các quyền lợi mà luật bản quyền đã trao. Thay vì cho phép tác phẩm thuộc hoàn toàn phạm vi công cộng (trong đó hoàn toàn không có bất kỳ hạn chế bản quyền nào), copyleft cho phép tác giả đặt ra một số, nhưng không phải tất cả, hạn chế bản quyền đối với những ai muốn tham gia vào hoạt động đó, nếu không sẽ bị xem là vi phạm bản quyền. Dưới sự bảo hộ của copyleft, có thể tránh được vi phạm bản quyền nếu người có khả năng vi phạm bản quyền biến mô hình copyleft của mình trở nên vĩnh viễn. Vì lý do này những giấy phép copyleft còn được gọi là giấy phép thuận nghịch.
+Trong khi luật bản quyền bảo vệ các quyền lợi của người tạo ra tác phẩm bằng cách quản lý sự phân phối và chỉnh sửa, ý tưởng copyleft là trao quyền tự do libre chủ quan cho những người dùng cuối. Giấy phép copyleft có những điều khoản công khai từ bỏ những hạn chế nào mà người tạo ra cho rằng nó không cung cấp quyền tự do libre cho người dùng cuối. Trong phần mềm, các giấy phép copyleft Mã nguồn mở đưa ra một hạn chế cơ bản đó là những thông tin có ích trong việc hỗ trợ chỉnh sửa (ví dụ như mã nguồn) phải được người dùng truy xuất dễ dàng cùng với một bản sao của phần mềm đã được cấp phép và cho phép ghi công tác giả gốc.
+
+
+== Lịch sử ==
+
+Một đơn cử sử dụng copyleft sớm nhất là dự án Tiny BASIC được khởi nguồn trong một bản tin của People's Computer Company vào năm 1975. Dennis Allison đã viết một bản mô tả chi tiết cho phiên bản đơn giản của ngôn ngữ lập trình BASIC. Thiết kế này không hỗ trợ các chuỗi ký tự và chỉ dùng số học đại số. Mục tiêu của chương trình là chỉ phải tốn từ 2 đến 3 kilobyte bộ nhớ.
+Nội dung của Tiny BASIC sau đó nhanh chóng được đưa vào bản tin riêng cho nó với tên gọi Dr. Dobb's Journal of Tiny BASIC và lời tựa Calisthenics & Orthodontia, Running Light Without Overbyte (một cách chơi chữ vì thể dục mềm dẻo giúp chạy nhanh, còn thuật chỉnh răng giúp không cắn chìa - overbite đồng âm với overbyte - quá nhiều byte). Những người xem nó là thú tiêu khiển bắt đầu viết trình thông dịch ngôn ngữ BASIC cho những máy tính gia đình chạy trên vi xử lý của họ và gửi mã nguồn cho Dr. Dobb's Journal và những tạp chí khác để xuất bản. Đến giữa năm 1976, trình thông dịch Tine BASIC đã có mặt trong các vi xử lý Intel 8080, Motorola 6800 và MOS Technology 6502. Đây là một dự án mã nguồn mở avant la lettre (nghĩa là đây có thể coi là dự án mã nguồn mở trước khi có tên gọi mã nguồn mở) rất thành công.
+Trong tạp chí Dr. Dobb's Journal số tháng 5 năm 1976 đã đăng Tiny BASIC Palo Alto của Li-Chen Wang dành cho vi xử lý Intel 8080. Danh sách liệt kê bắt đầu với tiêu đề, tên tác giả và ngày tháng bình thường nhưng nó còn có "@COPYLEFT ALL WRONGS RESERVED" (@COPYLEFT BẢO LƯU MỌI SAI SÓT). Một thành viên của Câu lạc bộ Máy tính Homebrew có tên Roger Rauskolb đã chỉnh sửa và phát triển chương trình của Li-Chen Wang và chương trình này được xuất bản trong tháng 12 năm 1976 của tạp chí Interface Age. Roger đã ghi thêm của ông vào và giữ nguyên Thông báo COPYLEFT.
+Thí dụ mới hơn về copyleft là khi Richard Stallman làm việc với trình thông dịch Lisp. Symbolics yêu cầu sử dụng trình thông dịch Lisp, và Stallman đồng ý cung cấp chúng cùng với phiên bản phạm vi công cộng công trình của ông. Symbolics đã mở rộng và cải tiến trình thông dịch Lisp, nhưng khi Stallman muốn truy cập vào những bản cải tiến mà Symbolics đã thực hiện với trình thông dịch của ông, Symbolics từ chối. Khi đó, vào năm 1984, Stallman theo đuổi công việc tiệt trừ những hành vi kiểu này cùng với văn hóa phần mềm thương mại, mà ông gọi là đầu cơ phần mềm.
+Khi Stallman cho rằng việc loại trừ luật bản quyền hiện tại cùng những sai lầm mà ông lĩnh hội được là không khả thi trong thời gian ngắn, ông quyết định làm việc trong khuôn khổ pháp luật hiện tại; ông đã tạo ra giấy phép bản quyền của riêng mình, Giấy phép Công cộng Emacs, giấy phép copyleft đầu tiên. Giấy phép này sau đó được chuyển thành Giấy phép Công cộng GNU, hiện là một trong những giấy phép Phần mềm Tự do phổ biến nhất. Lần đầu tiên một người sở hữu bản quyền đã tiến hành những bước đi để đảm bảo rằng người dùng chương trình sẽ được chuyển giao số lượng quyền lợi tối đa một cách vĩnh viễn, bất kể phiên bản nào do ai thực hiện chỉnh sửa dựa trên chương trình gốc sau đó. Giấy phép GPL gốc này không trao quyền cho quảng đại cao công chúng, mà chỉ cho những ai đã nhận được chương trình; nhưng đó là điều tốt nhất có thể làm được với luật pháp khi đó. Giấy phép mới khi đó không được ghi nhãn copyleft.
+Richard Stallman đã nói rằng ý tưởng đầu tiên là từ Don Hopkins, người mà ông gọi là một đồng nghiệp giàu tính tưởng tượng, đã gửi thư cho ông vào năm 1984 hay 1985 gì đó, trong đó có ghi: "Copyleft—bảo lưu mọi quyền". Thuật ngữ "kopyleft" (trại từ "copyleft") cùng với chú thích "All Rites Reversed" (trại từ "All Rights Reserved" - Bảo lưu mọi quyền) cũng được dùng vào đầu thập niên 1970 trong Principia Discordia, có lẽ lấy cảm hứng từ Hopkins hoặc ảnh hưởng từ các cách dùng khác. Và trong lĩnh vực nghệ thuật Ray Johnson đã đặt ra thuật ngữ này một cách độc lập từ sớm khi nó thích hợp với việc tạo ra và phân phối các hình ảnh phương tiện hỗ hợp của ông trong mail art và những món quà nhỏ, từ đó ông khích lệ việc tạo ra các tác phẩm phái sinh (dù cụm từ này xuất hiện chốc lát trong một trong những tác phẩm của ông trong bộ phim tài liệu năm 2002 How to Draw a Bunny, bản thân Johnson không được đề cập đến trong bộ phim tài liệu 2001 Revolution OS.)
+Một số người cho rằng copyleft trở thành một vấn đề gây chia rẽ trong xung đột ý tưởng giữa Sáng kiến Mã nguồn Mở (OSI) và phong trào phần mềm tự do. Tuy nhiên, có bằng chứng rằng copyleft được chấp nhận và đề xuất bởi cả hai bên:
+Cả OSI và FSF (Quỹ hỗ trợ Phần mềm Tự do) đều có những giấy phép copyleft lẫn không phải copyleft trong danh sách các giấy phép được chấp nhận của họ.
+Luật sư Pháp lý ban đầu của OSI Laurence Rosen đã viết một giấy phép copyleft, Giấy phép Phần mềm Mở.
+Hướng dẫn cấp phép của OSI đã công nhận GPL là giấy phép "thực tế nhất".
+Một số chương trình phần mềm của Dự án GNU được phát hành theo giấy phép không copyleft
+Bản thân Stallman đã xác nhận việc sử dụng các giấy phép không copyleft trong một số tình huống cụ thể, gần đây nhất là trường hợp thay đổi giấy phép của Ogg Vorbis.
+
+
+== Áp dụng copyleft ==
+Trên thực tế cách sử dụng copyleft thông thường là hệ thống hóa các điều khoản được sao chép lại cho một tác phẩm bằng một giấy phép. Một giấy phép như vậy thường trao cho mỗi người hiện sở hữu một bản sao tác phẩm những quyền tự do giống như tác giả đang có, bao gồm (từ Định nghĩa Phần mềm Tự do):
+quyền tự do sử dụng và nghiên cứu tác phẩm,
+quyền tự do sao chép và chia sẻ tác phẩm với người khác,
+quyền tự do thay đổi tác phẩm,
+và quyền tự do phân phối các tác phẩm đã chỉnh sửa tức là các tác phẩm phái sinh.
+Những quyền tự do này không đảm bảo rằng tác phẩm phái sinh sẽ được phân phối theo cùng điều khoản tự do. Để tác phẩm thực sự là copyleft, giấy phép phải đảm bảo rằng tác giả của tác phẩm phái sinh chỉ có thể phân phối những tác phẩm như vậy theo một giấy phép y hệt hoặc tương đương.
+Ngoài những hạn chế về sao chép, các giấy phép copyleft còn nhắc đến những trở ngại có thể có. Đó là việc đảm bảo các quyền sau đó không thể bị thu hồi và đòi hỏi tác phẩm và các phái sinh của nó phải được cung cấp ở dạng có thể giúp chỉnh sửa dễ dàng. Trong phần mềm, giấy phép đòi hỏi mã nguồn của tác phẩm phái sinh phải luôn có sẵn cùng với bản thân phần mềm.
+Các giấy phép copyleft cũng sử dụng các quy định và luật pháp tương ứng một cách sáng tạo cần thiết. Ví dụ, khi sử dụng luật bản quyền, những ai đóng góp vào tác phẩm dưới copyleft thường phải bổ sung, trì hoãn hoặc ấn định trạng thái người giữ bản quyền. Bằng cách đưa bản quyền các đóng góp của họ vào một giấy phép copyleft, họ được tự do từ bỏ một số quyền lợi thông thường có được từ bản quyền, trong đó có quyền trở thành người phân phối duy nhất những bản sao tác phẩm.
+Một số bộ luật được sử dụng cho các giấy phép copyleft thì khác nhau tùy theo từng quốc gia, và cũng có thể được trao theo những điều khoản khác nhau theo từng quốc gia. Ví dụ, ở một số nước việc bán một sản phẩm phần mềm mà không có đảm bảo, theo kiểu GNU GPL chuẩn (xem điều 11 và 12 của GNU GPL phiên bản 2) hoàn toàn có thể chấp nhận, trong khi ở đa số quốc gia châu Âu, người phân phối phần mềm không được phép khước từ mọi sự đảm bảo liên quan đến sản phẩm được bán. Vì lý do này phạm vi của những bảo đảm như vậy được ghi ra ở đa số các giấy phép copyleft châu Âu. Liên quan đến vấn đề này, mời xem giấy phép CeCILL, một giấy phép cho phép một người sử dụng GNU GPL (xem điều 5.3.4 của CeCILL) phối hợp với một sự đảm bảo có giới hạn (xem điều 9 của CeCILL).
+
+
+== Các loại copyleft và quan hệ với các giấy phép khác ==
+Copyleft là một đặc tính để phân biệt của một số giấy phép phần mềm tự do. Nhiều giấy phép phần mềm tự do không phải là giấy phép copyleft vì chúng không yêu cầu người được cấp phép phân phối tác phẩm phái sinh dưới cùng một giấy phép. Hiện vẫn có những tranh cãi về loại giấy phép nào có độ tự do cao hơn. Tranh cãi này xoay các vấn đề phức tạp như định nghĩa quyền tự do và quyền tự do của ai là quan trọng hơn, hoặc có nên tối đa hóa quyền tự do của tất cả những người có khả năng nhận được tác phẩm trong tương lai hay không (quyền tự do từ việc tạo ra phần mềm thương mại). Các giấy phép phần mềm tự do không phải copyleft tối đa hóa quyền tự do của người nhận đầu tiên (quyền tự do để tạo ra phần mềm thương mại).
+Cũng giống như hệ thống cấp phép chia sẻ tương tự của Creative Commons, Giấy phép Tài liệu Tự do của GNU cho phép tác giả đưa vào những hạn chế đối với một số tiết doạn nào đó của tác phẩm, đặt ngoại lệ cho một số phần trong tác phẩm sáng tạo của họ ra khỏi cơ chế copyleft. Trong trường hợp của GFDL, những hạn chế này bao gồm việc sử dụng những tiết đoạn bất biến, mà những soạn giả trong tương lai không được phép thay đổi. Dự tính ban đầu của GFDL là để làm một công cụ để hỗ trợ tài liệu hóa các phần mềm được copyleft. Tuy nhiên, kết quả là nó lại có thể dùng cho bất kỳ loại tài liệu nào.
+
+
+=== Copyleft mạnh và copyleft yếu ===
+Copyleft điều chỉnh một tác phẩm được xem là "mạnh hơn", với ý nghĩa là các điều khoản copyleft có thể được áp dụng một cách hiệu quả cho tất cả các loại tác phẩm phái sinh. "Copyleft yếu" là để nói đến các giấy phép trong đó không phải tất cả các tác phẩm phái sinh đều thừa kế giấy phép copyleft; dù tác phẩm phái sinh có thừa kế hay không thì nó thông thường vẫn dựa vào kiểu mà nó đã phát sinh.
+Các giấy phép "copyleft yếu" nói chung thường được sử dụng trong việc tạo ra các thư viện phần mềm, cho phép các phần mềm khác liên kết đến thư viện, và sau đó được tái phân phối mà không bắt buộc về mặt luật pháp là công trình đó phải được phân phối theo giấy phép copyleft của thư viện. Chỉ có những thay đổi thực hiện trên chính phần mềm được copyleft yếu mới là đối tượng được giấy phép điều chỉnh, chứ không phải những thay đổi trên phần mềm liên kết tới nó. Điều này cho phép các chương trình với bất kỳ giấy phép nào có thể được dịch và liên kết với các thư viện được cấp phép copyleft như glibc (bổ sung của dự án GNU cho thư viện chuẩn C), rồi sau đó tái phân phối mà không cần phải cấp phép khác đi.
+Giấy phép phần mềm tự do nổi tiếng nhất sử dụng copyleft mạnh là Giấy phép Công cộng GNU. Các giấy phép phần mềm tự do sử dụng copyleft "yếu" bao gồm Giấy phép Công cộng GNU Hạn chế và Giấy phép Công cộng Mozilla. Những ví dụ về giấy phép phần mềm tự do không copyleft gồm có giấy phép X11, giấy phép Apache và các giấy phép BSD.
+Giấy phép Khoa học Thiết kế là một giấy phép mạnh có thể áp dụng cho bất kỳ tác phẩm nào không phải là phần mềm, tài liệu, hoặc nghệ thuật, như âm nhạc, nhiếp ảnh thể thao, và video. Nó được lưu trữ trong danh sách giấy phép của trang web của Quỹ hỗ trợ Phần mềm Tự do, nhưng người ta không xem nó tương thích với GPL của Quỹ hỗ trợ Phần mềm Tự do.
+
+
+=== Copyleft đầy đủ và copyleft bán phần ===
+Copyleft "đầy đủ" và "bán phần" liên quan đến một vấn đề khác: Copyleft đầy đủ tồn tại khi tất cả mọi phần của tác phẩm (ngoại trừ bản thân giấy phép) chỉ có thể được chỉnh sửa và phân phối theo các điều khoản của giấy phép copyleft của tác phẩm. Copyleft bán phần loại trừ một số phần của tác phẩm ra khỏi sự điều chỉnh của copyleft, hoặc bằng một cách nào đó không áp dụng mọi nguyên tắc copyleft cho tác phẩm. Ví dụ, có một số ngoại lệ liên kết GPL đối với vài gói phần mềm (xem ở dưới).
+
+
+=== Chia sẻ tương tự ===
+Chia sẻ tương tự đưa đòi hỏi rằng bất kỳ quyền tự do nào được gán cho tác phẩm gốc cũng phải được gán cùng điều khoản chính xác hoặc điều khoản tương thích trên tác phẩm phái sinh: nó cho thấy bất kỳ giấy phép copyleft nào cũng mặc nhiên là một giấy phép chia sẻ tương tự, nhưng không có chiều ngược lại, vì một số giấy phép chia sẻ tương tự có thêm những hạn chế khác, như cấm sử dụng với mục đích thương mại. Một số hoán vị của các giấy phép Creative Commons là ví dụ cho chia sẻ tương tự.
+
+
+== Copyleft có "như virus"? ==
+Các giấy phép copyleft đôi khi được xem là "giấy phép bản quyền như virus", vì bất kì tác phẩm nào phát sinh từ một tác phẩm copyleft đến phiên chúng cũng phải là copyleft khi phân phối. Thuật ngữ Virus Công cộng hoặc Virus Công cộng GNU (GPV) có lịch sử lâu đời trên Internet, xuất hiện chỉ thời gian ngắn sau khi GPL lần đầu tiên ra mắt. Nhiều người ủng hộ giấy phép BSD sử dụng thuật ngữ này một cách chế giễu khi nói về khuynh hướng hấp thu những đoạn mã được cấp phép theo BSD mà không cho phép tác phẩm BSD gốc hưởng lợi từ nó của GPL, trong khi cũng đồng thời tự quảng bá mình là "tự do hơn" những giấy phép khác. Gần đây, Microsoft đã sử dụng thuật ngữ này. Thuật ngữ như virus nghe giống như với nghĩa của virus máy tính. Theo kĩ sư David Turner thuộc FSF, nó tạo ra một sự hiểu lầm và sợ hãi khi sử dụng phần mềm tự do theo copyleft.
+Những giấy phép copyleft phổ biến như GPL có một điều khoản cho phép các thành phần tương tác với những thành phần không phải copyleft miễn là mối liên hệ đó mang tính trừu tượng, như việc thực thi một công cụ dòng lệnh bằng một tập các lệnh lựa chọn rẽ nhánh hoặc tương tác với một máy chủ phục vụ Web. Do đó, thậm chí nếu một bộ phận (module) của một sản phẩm không copyleft được đặt vào GPL, nó vẫn hợp pháp khi các thành phần khác giao tiếp với nó một cách bình thường. Điều này cho phép sự giao tiếp có hoặc không bao gồm việc tái sử dụng các thư viện hoặc các thủ tục thông qua liên kết động — một số nhà bình luận nói rằng nó có bao gồm, còn FSF cho rằng nó không bao gồm và đã công khai thêm vào một ngoại lệ để cho phép nó trong giấy phép dành cho việc tái hoàn thiện thư viện Java theo GNU Classpath.
+
+
+== Xem thêm ==
+Bảo lưu mọi quyền
+Phản bản quyền
+Việc sử dụng thương mại các tác phẩm copyleft
+Giấy phép Creative Commons
+Chia sẻ tương tự
+Nội dung tự do
+Phong trào Văn hóa Tự do
+Quỹ hỗ trợ Phần mềm Tự do
+Giấy phép Công cộng GNU
+Giấy phép phần mềm tự do tùy ý
+Phạm vi công cộng
+
+
+== Ghi chú và tham khảo ==
+
+
+== Liên kết ngoài ==
+
+What is copyleft?—by Richard Stallman
+GNU's Bulletin, vol. 1 no. 4—First appearance of article on What is copyleft?
+Freedom or Power by Richard Stallman and Bradley Kuhn
+Copyleft: Pragmatic Idealism—by Richard Stallman
+October 2004 interview with Linus Torvalds on commercial potential of Linux software
+MEHGLOBAL—Linux and Communism
+Eye Magazine—Copyleft and Copyright article
+Two explanations of copyleft and its history by Richard Stallman: one in April 2006, and one in June 2006
+Article: Working Without Copyleft by Bjørn Reese and Daniel Stenberg, 12/19/2001

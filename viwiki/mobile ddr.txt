@@ -1,0 +1,33 @@
+Mobile DDR, hay DDR di động (còn gọi là mDDR, Low Power DDR, hay LPDDR) làm một loại SDRAM dữ liệu tốc độ gấp đôi cho máy tính di động.
+Giống như SDRAM tiêu chuẩn, mỗi thế hệ của LPDDR đã tăng gấp đôi kích thước tìm nạp nội bộ và tốc độ truyền tải bên ngoài. Tốc độ truyền tối đa là:
+
+
+== Độ rộng bus ==
+
+
+== LPDDR gốc ==
+
+
+== LPDDR2 ==
+
+
+== LPDDR3 ==
+Tháng 5 năm 2012, JEDEC công bố tiêu chuẩn thiết bị bộ nhớ năng lượng thấp JESD209-3.
+
+
+== LPDDR4 ==
+
+
+=== LPDDR4x ===
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Micron
+Elpida
+Nanya
+Samsung
+JEDEC pages: LOW POWER DOUBLE DATA RATE 3 SDRAM (LPDDR3)
+Bản mẫu:DRAM

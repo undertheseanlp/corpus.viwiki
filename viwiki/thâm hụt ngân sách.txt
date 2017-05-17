@@ -1,0 +1,22 @@
+Thâm hụt ngân sách trong kinh tế học vĩ mô và kinh tế học công cộng là tình trạng các khoản chi của ngân sách Nhà nước (ngân sách chính phủ) lớn hơn các khoản thu, phần chênh lệch chính là thâm hụt ngân sách. Trường hợp ngược lại, khi các khoản thu lớn hơn các khoản chi được gọi là thặng dư ngân sách. Thu của chính phủ không bao gồm khoản đi vay. Đi vay chính là một cách mà chính phủ tài trợ cho thâm hụt ngân sách. Trong lịch sử, phát hành thêm tiền đã từng là một cách tài trợ cho thâm hụt ngân sách, nhưng do hậu quả nghiêm trọng của nó là dẫn đến lạm phát ở mức cao nên ngày nay cách này hầu như không được chính phủ của bất cứ quốc gia nào sử dụng nữa. Do chính phủ bù đắp cho thâm hụt ngân sách bằng cách đi vay, nên lũy kế các khoản thâm hụt ngân sách chính phủ đến một thời điểm nào đó chính là nợ chính phủ.
+
+
+== Thâm hụt cơ cấu và thâm hụt chu kỳ ==
+Tài chính công hiện đại phân loại thâm hụt ngân sách thành hai loại: thâm hụt cơ cấu và thâm hụt chu kỳ.
+Thâm hụt cơ cấu là các khoản thâm hụt được quyết định bởi những chính sách tùy biến của chính phủ như quy định thuế suất, trợ cấp bảo hiểm xã hội hay quy mô chi tiêu cho giáo dục, quốc phòng,...
+Thâm hụt chu kỳ là các khoản thâm hụt gây ra bởi tình trạng của chu kỳ kinh tế, nghĩa là bởi mức độ cao hay thấp của sản lượng và thu nhập quốc dân. Ví dụ khi nền kinh tế suy thoái, tỷ lệ thất nghiệp tăng sẽ dẫn đến thu ngân sách từ thuế giảm xuống trong khi chi ngân sách cho trợ cấp thất nghiệp tăng lên.
+Giá trị tính ra tiền của thâm hụt cơ cấu và thâm hụt chu kỳ được tính toán như sau:
+Ngân sách thực có: liệt kê các khoản thu, chi và thâm hụt tính bằng tiền trong một giai đoạn nhất định (thường là một quý hoặc một năm).
+Ngân sách cơ cấu: tính toán thu, chi và thâm hụt của chính phủ sẽ là bao nhiêu nếu nền kinh tế đạt mức sản lượng tiềm năng.
+Ngân sách chu kỳ: là chênh lệch giữa ngân sách thực có và ngân sách cơ cấu.
+Việc phân biệt giữa ngân sách cơ cấu và ngân sách chu kỳ phản ánh sự khác nhau giữa chính sách tài chính: chính sách ổn định tùy biến và chính sách ổn định tự động.
+Việc phân biệt hai loại thâm hụt trên đây có tác dụng quan trọng trong việc đánh giá ảnh hưởng thực sự của chính sách tài chính khi thực hiện chính sách tài chính mở rộng hay thắt chặt sẽ ảnh hưởng đến thâm hụt ngân sách như thế nào giúp cho chính phủ có những biện pháp điều chỉnh chính sách hợp lý trong từng giai đoạn của chu kỳ kinh tế
+
+
+== Xem thêm ==
+Xem thêm thông tin: Chính sách tài chính, Nợ chính phủ, và Ngân sách Nhà nước
+
+
+== Tham khảo ==
+
+Samuelson, Paul A. and Nordhaus, Wiliam D. (2007), Kinh tế học, Nhà xuất bản Tài chính, Hà Nội.

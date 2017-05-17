@@ -1,0 +1,228 @@
+Thuyết tương đối miêu tả cấu trúc của không gian và thời gian trong một thực thể thống nhất là không thời gian cũng như giải thích bản chất của lực hấp dẫn là do sự uốn cong của không thời gian bởi vật chất và năng lượng. Thuyết tương đối gồm hai lý thuyết vật lý do Albert Einstein phát triển, với thuyết tương đối đặc biệt công bố vào năm 1905 và thuyết tương đối tổng quát công bố vào cuối năm 1915 và đầu năm 1916. Thuyết tương đối hẹp miêu tả hành xử của không gian và thời gian và những hiện tượng liên quan từ những quan sát viên chuyển động đều tương đối với nhau. Thuyết tương đối rộng tổng quát các hệ quy chiếu quán tính sang hệ quy chiếu chuyển động có gia tốc và bao gồm lực hấp dẫn giữa các khối lượng với nhau.
+Thuyết tương đối thường phải được tính đến trong những quá trình có vận tốc là lớn đáng kể so với tốc độ ánh sáng (thường là trên 10% tốc độ ánh sáng) hoặc có trường hấp dẫn khá mạnh và không thể bỏ qua được. Ở vận tốc tương đối tính, các hiệu ứng của thuyết tương đối hẹp trở nên quan trọng và ảnh hưởng tới kết quả tiên đoán cũng như miêu tả hiện tượng vật lý.
+Thuật ngữ "thuyết tương đối" (tiếng Đức: Relativtheorie) sử dụng lần đầu tiên vào năm 1906 bởi Max Planck khi ông nhấn mạnh trong lý thuyết này có một trong những nền tảng là dựa trên nguyên lý tương đối. Trong phần thảo luận của cùng một bài báo, Alfred Bucherer lần đầu tiên sử dụng cách viết Relativitätstheorie.
+
+
+== Lịch sử phát triển ==
+
+
+=== Thuyết tương đối đặc biệt ===
+
+Xuất phát từ những vấn đề của lý thuyết Ê te và phương trình Maxwell trong thế kỷ 19, thuyết tương đối hẹp dần hình thành từ những dấu mốc chính sau:
+Thí nghiệm Michelson-Morley thực hiện năm 1887, được coi là thí nghiệm đầu tiên phủ định giả thuyết bức xạ điện từ truyền trong môi trường giả định ê-te.
+Giả thuyết độ dài co ngắn nêu bởi George FitzGerald (1889) và Hendrik Antoon Lorentz (1892)nhằm giải thích các kết quả của thí nghiệm Michelson - Morley.
+Phép biến đổi Lorentz do Lorentz (1892, 1899) và Joseph Larmor (1897) nêu ra, trong đó thời gian là một tọa độ biến đổi như không gian, và việc không phát hiện được sự trôi ête có thể giải thích bằng phép biến đổi này.
+Henri Poincaré phát biểu nguyên lý tương đối (1900, 1904), tốc độ ánh sáng là hằng số (1898, 1904), tính tương đối của sự đồng thời (1898, 1900), mặc dù ông vẫn ủng hộ quan điểm tồn tại Ête.
+Đạt tới tính hiệp biến đầy đủ của các phương trình cơ bản của điện động lực học bởi Lorentz (1904) và Poincaré (1905) trong lý thuyết Lorentz về Ête.
+Cuối cùng Albert Einstein (1905) đưa ra thuyết tương đối hẹp bằng diễn giải sáng sủa về toàn bộ lý thuyết dựa trên nguyên lý tương đối và tiên đề tốc độ ánh sáng không đổi, ông loại bỏ khái niệm Ête khi xem xét lại bản chất của không gian, thời gian và liên hệ của chúng với hệ quy chiếu quán tính. Quan điểm động lực của Lorentz và Poincaré được thay thế bằng quan điểm động học của Einstein. Mô hình toán học của lý thuyết tương đối hẹp hoàn thiện đầy đủ khi Hermann Minkowski (1907) thêm thời gian vào thành tọa độ thứ tư trong cách biểu diễn không gian Minkowski.
+
+
+=== Thuyết tương đối rộng ===
+
+Đã có một số các nhà khoa học đóng góp vào sự phát triển của thuyết tương đối hẹp và cuối cùng với các bài báo Einstein công bố vào năm 1905 đưa đến lý thuyết hoàn thiện đồng thời ông cũng mở ra sự phát triển mới cần thiết của thuyết tương đối rộng. Thuyết tương đối rộng hầu như do một mình Einstein phát triển khi ông nghiên cứu những ý nghĩa vật lý cơ bản và mối liên hệ giữa hình học và vật lý.
+Sự phát triển này bắt đầu từ năm 1907, với "ý tưởng hạnh phúc nhất trong đời" của Einstein, đó là nguyên lý tương đương về sự tương đương giữa khối lượng hấp dẫn và khối lượng quán tính. Từ nguyên lý này có thể suy ra được hiệu ứng dịch chuyển đỏ do hấp dẫn và đường đi của ánh sáng bị lệch trong trường hấp dẫn cũng như độ trễ thời gian của tia sáng, hay độ trễ Shapiro. Năm 1911, ông đã có thể tính được sơ bộ độ lệch tia sáng là bao nhiêu. Trong thời gian này ông cũng đề xuất rằng có thể đo được độ lệch rất nhỏ này từ các ngôi sao ở xa khi ánh sáng đi gần Mặt Trời. Tuy vậy, giá trị tính toán lúc đầu của ông chỉ bằng một nửa giá trị đúng của độ lệch.
+Trong quá trình nghiên cứu, Einstein nhận ra cách biểu diễn không thời gian bằng không gian Minkowski có vai trò rất quan trọng đối với lý thuyết mới. Lúc này ông cũng nhận thức rõ ràng rằng hình học Euclid không còn phù hợp khi tính tới ảnh hưởng của lực hấp dẫn. Năm 1913, ông bắt đầu sử dụng hình học phi Euclid được phát triển trong thế kỷ 19 cho lý thuyết của mình với sự trợ giúp từ người bạn và là nhà toán học Marcel Grossmann, nhưng vẫn chưa đạt được kết quả mong muốn, tức là miêu tả được mọi định luật của tự nhiên trong mọi hệ quy chiếu. Ông cuối cùng vượt qua được vấn đề này vào tháng 11 năm 1915 sau nhiều lần thất bại, và Einstein đi đến được dạng đúng của phương trình trường hấp dẫn. Hầu như đồng thời với ông, nhà toán học David Hilbert cũng tìm ra được phương trình trường nhờ phương pháp biến phân. Dựa vào kết quả này, Einstein đã tính đúng ra sự dịch chuyển của điểm cận nhật của Sao Thủy, và giá trị độ lệch của tia sáng bằng 2 lần giá trị ông tìm ra vào năm 1911. Năm 1919, giá trị này đã được xác nhận trong lần nhật thực toàn phần và đưa đến sự thành công của lý thuyết tương đối tổng quát cũng như gây sự chú ý đối với thế giới.
+Sau đó, nhiều nhà vật lý đã tìm ra các nghiệm chính xác của phương trình trường cũng như giới thiệu các kỹ thuật nghiên cứu mới, đưa đến nhiều mô hình vũ trụ học và kết quả kì lạ như sự tồn tại của lỗ đen.
+
+
+=== Các lý thuyết mở rộng ===
+Với lý thuyết mới coi bản chất của lực hấp dẫn như một hiệu ứng hình học, các nhà vật lý đặt câu hỏi liệu những lực cơ bản khác, như lực điện từ có là do hiệu ứng hình học. Theodor Kaluza (1921) và Oskar Klein (1926) đã mở rộng thuyết tương đối rộng để nghiên cứu thêm lực điện từ bằng cách thêm một chiều nữa vào không thời gian bốn chiều để có không gian năm chiều, mà một chiều có kích cỡ vi mô ẩn giấu dưới cảm nhận thông thường. Tuy nhiên, lý thuyết của họ đã không thành công. Thậm chí Einstein đã dành phần lớn thời gian nghiên cứu khoa học của nửa cuộc đời còn lại để nghiên cứu lý thuyết trường thống nhất nhưng ông cũng đã không thành công.
+Một trong những lý do thất bại của Einstein đó là, ở thời điểm của ông, cộng đồng các nhà vật lý chưa hiểu rõ hết bản chất của hai lực cơ bản còn lại: tương tác mạnh và tương tác yếu. Cùng với sự phát triển của lý thuyết trường lượng tử, lý thuyết Kaluza-Klein đã được khôi phục lại khi các nhà vật lý dựa trên ý tưởng không thời gian có nhiều hơn bốn chiều như vẫn thường thấy. Ngày nay, hầu hết các lý thuyết nhằm thống nhất thuyết tương đối với cơ học lượng tử bao gồm lý thuyết dây có cơ sở dựa trên không thời gian nhiều chiều, với sáu hoặc bảy chiều ẩn giấu ở phạm vi độ dài Planck.
+
+
+== Tầm quan trọng ==
+Thuyết tương đối làm nên cuộc cách mạng về sự hiểu biết không gian và thời gian cũng như những hiện tượng liên quan mà vượt xa khỏi những ý tưởng và quan sát trực giác. Những hiện tượng này đã được miêu tả bằng những phương trình toán học chính xác và xác nhận đúng đắn bằng thực nghiệm. Khi được phát minh, thuyết tương đối chứa đựng lý thuyết cơ học cổ điển của Isaac Newton có từ hơn 200 năm trước như là một trường hợp giới hạn của nó.Và do đó, thuyết tương đối cũng thỏa mãn nguyên lý tương ứng.
+Mô hình chuẩn của vật lý hạt mô tả bằng lý thuyết trường lượng tử, lý thuyết thống nhất giữa thuyết tương đối hẹp và cơ học lượng tử. Với thuyết tương đối, ngành vũ trụ học và vật lý thiên văn đã tiên đoán và quan sát thấy những hiện tượng thiên văn học kỳ lạ bao gồm sao neutron, lỗ đen, sóng hấp dẫn, thấu kính hấp dẫn...
+Thuyết tương đối tổng quát cùng với vật lý lượng tử là hai trụ cột chính yếu của vật lý hiện đại. Hiện nay, các nhà vật lý đang nỗ lực thống nhất hai lý thuyết này trong một thuyết gọi là Lý thuyết vạn vật (Theory of Everything). Mặc dù có nhiều bước tiến với những mô hình khác nhau, song nỗ lực thống nhất hai lý thuyết vẫn là một trong những thử thách lớn nhất của ngành nghiên cứu vật lý cơ bản.
+
+
+== Thuyết tương đối hẹp ==
+
+
+=== Nguyên lý tương đối ===
+Thuyết tương đối hẹp dựa trên hai tiên đề:
+Tốc độ ánh sáng trong chân không có độ lớn bằng c (=299792458 m/s) trong mọi hệ quy chiếu quán tính, không phụ thuộc vào phương truyền và tốc độ của nguồn sáng hay máy thu
+Các định luật vật lý có cùng một dạng như nhau trong mọi hệ quy chiếu quán tính (nguyên lý tương đối). Những hệ quy chiếu chuyển động đều gọi là hệ quy chiếu quán tính.
+
+Galileo Galilei đã miêu tả một dạng của nguyên lý tương đối trong cuốn "Dialogo sopra i due massimi sistemi del mondo" vào năm 1632 bằng minh họa về một người ngồi trên con thuyền và nguyên lý này cũng được Newton áp dụng cho cơ học của ông. Một hệ quả trực tiếp của nguyên lý này là không có cách nào để đo vận tốc tuyệt đối của quan sát viên chuyển động đều trong không gian và không thể định nghĩa một hệ quy chiếu đứng yên tuyệt đối. Hệ này phải chứa một thứ gì đó đứng im đối với mọi thứ khác và nó mâu thuẫn với nguyên lý tương đối, theo đó các định luật vật lý trong mọi hệ quy chiếu phải là như nhau. Trước khi có sự ra đời của thuyết tương đối, lý thuyết điện từ cổ điển đề xuất sóng điện từ lan truyền trong môi trường gọi là ê te, một môi trường đứng im bất động. Môi trường này lấp đầy không gian với cấu trúc rắn chắc và do đó các nhà vật lý dùng nó để định nghĩa một hệ quy chiếu tuyệt đối. Trong hệ này các định luật vật lý sẽ có dạng đơn giản và tốc độ ánh sáng sẽ không phải là hằng số do vậy trái ngược với nguyên lý tương đối. Tuy nhiên mọi thí nghiệm nhằm chứng minh sự tồn tại của ê te, như thí nghiệm Michelson - Morley nổi tiếng vào năm 1887 đều thất bại khi không phát hiện ra sự sai khác về tốc độ khi ánh sáng lan truyền theo các hướng khác nhau trong môi trường ê te giả định.
+Einstein đã từ bỏ khái niệm thông thường về không gian và thời gian cũng như giả thuyết ê tê để lý giải được vẻ mâu thuẫn bề ngoài giữa nguyên lý tương đối và tốc độ ánh sáng không đổi trong lý thuyết điện từ. Không phải ngẫu nhiên mà có những thí nghiệm và kết luận trong thuyết điện từ dẫn tới sự khám phá ra thuyết tương đối, như thí nghiệm di chuyển cuộn dây và nam châm. Einstein đã đặt tên cho bài báo công bố năm 1905, khai sinh ra thuyết tương đối hẹp, "Về điện động lực học của các vật thể chuyển động" để thể hiện sự trân trọng đối với lý thuyết điện từ Maxwell và ảnh hưởng của nó tới khám phá của ông.
+
+
+=== Tính tương đối của không gian và thời gian ===
+
+Không gian và thời gian không còn là cấu trúc bất biến phổ quát trong thuyết tương đối nữa. Cụ thể, các quan sát viên sẽ nhận xét hai sự kiện xảy ra trong không gian và thời gian là đồng thời hay sớm hoặc trễ tùy thuộc vào trạng thái chuyển động của họ. Vật thể chuyển động có kích thước bị ngắn lại theo hướng chuyển động so với khi nó đứng yên và đồng hồ chuyển động chạy chậm hơn so với đồng hồ đặt yên một chỗ. Tuy nhiên, mỗi quan sát viên chuyển động với vận tốc đều đưa ra kết luận chỉ đúng trong hệ quy chiếu của riêng họ, do vậy những kết luận từ hai quan sát viên có tính tương hỗ lẫn nhau, ví dụ như mỗi người sẽ thấy đồng hồ của người kia chạy chậm lại. Thêm nữa, nếu hai người chuyển động dọc theo hướng nhìn của nhau, mỗi người sẽ thấy thước đo của người kia ngắn đi. Nguyên lý tương đối không thể trả lời cho câu hỏi về người nào miêu tả là đúng mà nó chỉ cho biết kết quả của từng người thu được.
+Sự co ngắn chiều dài và sự dãn thời gian có thể dễ dàng hiểu được từ biểu đồ Minkowski và nghịch lý anh em sinh đôi. Trong dạng thức toán học, chúng là kết quả của phép biến đổi Lorentz miêu tả mối liên hệ giữa tọa độ không gian và thời gian của các quan sát viên khác nhau. Phép biến đổi tuyến tính này được rút ra trực tiếp từ hai tiên đề trên.
+Hầu hết các hiệu ứng tương đối tính đều trở lên đáng kể khi vận tốc là tương đối lớn so với tốc độ ánh sáng, do vậy phần lớn các hiện tượng hàng ngày có thể giải thích dựa trên cơ học Newton và những hiệu ứng tương đối tính có vẻ như trái ngược với trực giác.
+
+
+=== Tốc độ ánh sáng là một giới hạn ===
+
+Không một vật nào và không một thông tin nào có thể đi nhanh hơn ánh sáng trong chân không. Càng gần tiếp cận với tốc độ ánh sáng, thì năng lượng vật đó càng lớn, bởi vì động năng của vật luôn luôn tăng rất nhanh khi vận tốc của nó tăng. Để vật đạt tới tốc độ ánh sáng thì cần phải cung cấp cho vật năng lượng lớn vô hạn.
+Kết luận trên là hệ quả của cấu trúc không thời gian không phải là thuộc tính của vật, chẳng hạn do hạn chế về công nghệ chế tạo tàu vũ trụ. Nếu một vật chuyển động nhanh hơn ánh sáng từ A tới B, và một quan sát viên chuyển động từ B tới A thì lúc này câu hỏi ai miêu tả tình huống đúng đắn lại có ý nghĩa. Khi đó quan sát viên sẽ nhìn thấy kết quả trước khi nhìn thấy nguyên nhân (anh ta nhìn thấy vật xuất hiện ở B trước khi thấy nó đi ra từ A). Như vậy, nguyên lý nhân quả bị vi phạm bởi vì trình tự nguyên nhân kết quả không được xác định. Những vật chuyển động nhanh hơn ánh sáng sẽ đi ra khỏi tầm quan sát của người hoặc thiết bị theo dõi.
+
+
+=== Không thời gian ===
+
+Không gian và thời gian xuất hiện trong những phương trình cơ bản của thuyết tương đối có vai trò như nhau và có thể kết hợp thành không thời gian bốn chiều. Sự cảm nhận về không gian và thời gian theo cách khác nhau chỉ là do cảm nhận của con người. Về mặt toán học, khoảng không thời gian giữa hai sự kiện được định nghĩa bằng hiệu tọa độ không thời gian bốn chiều của hai sự kiện trong một hệ quy chiếu giống như định nghĩa về khoảng cách giữa hai điểm trong không gian Euclide, chỉ có một điểm khác là tọa độ thời gian ngược dấu với tọa độ không gian. Trong không thời gian cũng định nghĩa vectơ bốn như vectơ thông thường trong không gian ba chiều.
+Trong không thời gian Minkowski, giới hạn tốc độ ánh sáng và tính tương đối của độ dài và khoảng thời gian phân ra những vùng riêng biệt đối với mỗi quan sát viên:
+Miền các điểm nằm trong nón ánh sáng tương lai là các điểm mà quan sát viên có thể tới được với vận tốc ánh sáng hoặc gửi đi tín hiệu với tốc độ ánh sáng.
+Miền các điểm nằm trong nón ánh sáng quá khứ là các điểm gửi đi với tín hiệu có tốc độ bằng tốc độ ánh sáng tới được quan sát viên.
+Những điểm còn lại nằm trong miền "kiểu-không gian" tách biệt khỏi quan sát viên. Trong miền này, không thể định nghĩa được quá khứ và tương lai.
+Các vectơ-bốn không thời gian có nhiều ứng dụng thực tiễn và lý thuyết, ví dụ như trong tính toán động năng của các hạt chuyển động trong máy gia tốc.
+
+
+=== Sự tương đương giữa khối lượng và năng lượng ===
+
+Một hệ có khối lượng m chứa trong nó một năng lượng nghỉ E liên hệ bởi công thức
+
+  
+    
+      
+        E
+        =
+        m
+        
+          c
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E=mc^{2}}
+  
+với c là tốc độ ánh sáng. Công thức này là một trong những công thức nổi tiếng nhất của vật lý học nói riêng và khoa học nói chung. Cũng vì công thức này mà Einstein hay bị hiểu nhầm rằng ông có liên quan tới sự phát triển của bom nguyên tử mặc dù chỉ có lá thư của ông gửi tới tổng thống Franklin D. Roosevelt là đề cập tới việc Hoa Kỳ cần phải cảnh giác với chương trình nghiên cứu vũ khí của Đức Quốc xã. Lượng năng lượng khổng lồ giải phóng ra từ phản ứng phân hạch hạt nhân phần lớn là do giải phóng năng lượng liên kết của các hạt nhân trước khi phản ứng trong khi năng lượng bởi sự chênh lệch khối lượng trước và sau phản ứng nhân với hệ số c² chỉ đóng góp phần nhỏ. Phản ứng phân hạch được Otto Hahn, Otto Frisch và Lise Meitner phát hiện vào năm 1938.
+Phương trình E=mc² đóng góp vai trò hỗ trợ trong nghiên cứu phân hạch hạt nhân. Không phải vì cơ chế đằng sau năng lượng hạt nhân, nhưng mà là một công cụ: Bởi vì năng lượng và khối lượng tương đương với nhau, những phép đo độ nhạy cao về khối lượng của các hạt nhân nguyên tử khác nhau cho những nhà nghiên cứu chứng cứ quan trọng về độ lớn của năng lượng liên kết hạt nhân. Công thức của Einstein không nói cho chúng ta tại sao năng lượng liên kết hạt nhân lại lớn đến cỡ đó mà nó mở ra một khả năng (cùng với những phương pháp khác) để đo những năng lượng liên kết này.
+
+
+=== Từ trường trong thuyết tương đối ===
+Sự tồn tại của lực từ có mối liên hệ mật thiết với thuyết tương đối hẹp. Định luật Coulomb về lực điện khi đứng riêng rẽ sẽ không thể tương thích với cấu trúc của không thời gian. Thật vậy, khi các điện tích đứng yên sẽ không có từ trường xuất hiện, trừ khi có một quan sát viên đang di chuyển so với các điện tích. Có thể giải thích kết quả quan sát này dựa trên phép biến đổi Lorentz giữa mối liên hệ của vectơ từ trường và vectơ điện trường, cho thấy mối liên hệ khăng khít giữa từ trường, điện trường và hệ quy chiếu được lựa chọn. Sự xuất hiện của từ trường khi đưa nam châm di chuyển đến gần vòng dây dẫn (và ngược lại), hay tổng quát hơn khi có từ trường biến đổi thì xuất hiện điện trường (và ngược lại) còn liên quan đến thuộc tính của không gian và thời gian. Từ phương diện này, tuy hai định luật Coulomb và định luật Biot-Savart có vẻ khác nhau nhưng khi xét trong từng hệ quy chiếu của quan sát viên đứng yên hay chuyển động sẽ cho những kết quả như nhau. Trong mô tả toán học của thuyết tương đối, từ trường và điện trường được miêu tả chung bằng một đại lượng, tenxơ trường điện từ hạng bốn, tương tự như sự thống nhất giữa không gian và thời gian trong không thời gian bốn chiều.
+
+
+== Thuyết tương đối rộng ==
+
+
+=== Lực hấp dẫn và độ cong của không thời gian ===
+
+Thuyết tương đối rộng giải thích lực hấp dẫn bằng độ cong hình học của không thời gian xác định bởi:
+Vật chất và năng lượng làm cong không thời gian xung quanh chúng
+Một vật rơi tự do dưới tác dụng của trường lực hấp dẫn chuyển động trên đường trắc địa giữa hai điểm của không thời gian.
+Không thời gian bốn chiều trong thuyết tương đối hẹp đã thật khó hình dung, vì vậy không thời gian cong thậm chí còn khó hơn nữa. Để minh họa nó, có thể giảm số chiều của không thời gian xưống và lấy hình ảnh tương tự trong trường hợp mặt cong 2 chiều. Giả sử có hai chiếc xe chạy trên mặt cầu, chúng bắt đầu tại đường xích đạo và lái hướng về phía bắc theo đường tròn lớn. Lúc đầu hướng của hai xe này song song với nhau, mặc dù không bị tác động bởi lực nào khác, cuối cùng hai xe sẽ gặp nhau tại cực bắc. Một quan sát viên đứng trên mặt cầu, anh ta sẽ không biết bề mặt bị cong và cho rằng đã có một lực hút hai xe về phía lại gần nhau. Đây là một hiện tượng thuần túy hình học. Do đó lực hấp dẫn đôi khi trong thuyết tương đối rộng được gọi là giả lực.
+Vì đường trắc địa nối hai điểm trong không thời gian không phụ thuộc vào đặc tính của vật rơi tự do trong trường hấp dẫn, hiện tượng đã được Galileo Galilei phát hiện ra đầu tiên, nên hai vật ở cùng cao độ sẽ rơi tự do với tốc độ như nhau. Trong cơ học Newton, điều này có nghĩa là khối lượng quán tính và khối lượng hấp dẫn của một vật phải tương đương nhau. Phát biểu này cũng là cơ sở cho thuyết tương đối rộng.
+
+
+=== Cấu trúc toán học của thuyết tương đối rộng ===
+
+Trong khi nhiều tiên đoán của thuyết tương đối hẹp được miêu tả dựa trên cấu trúc toán học gọn nhẹ và đơn giản, thì cấu trúc toán học của thuyết tương đối rộng lại phức tạp hơn. Lý thuyết cần các phương pháp của hình học vi phân để miêu tả không thời gian cong, thay thế cho hình học Euclid của không gian phẳng quen thuộc đối với chúng ta.
+Để miêu tả sự cong, một vật thể cong hoặc không gian cong thường được nhúng vào không gian có số chiều cao hơn. Ví dụ, mặt cầu hai chiều thường được hình dung ra khi nó đặt trong không gian ba chiều. Tuy nhiên, các nhà toán học có thể miêu tả được độ cong mà không cần áp dụng hình thức nhúng này, tức là nó không phụ thuộc vào không gian bên ngoài, một đặc điểm quan trọng cần thiết của thuyết tương đối tổng quát. Ví dụ như việc một người sống trên mặt cong đo tổng các góc trong của một tam giác trên mặt cong cho kết quả không bằng 180° thì người đó sẽ hiểu rằng anh ta đang sống trong một mặt cong mà không cần phải "nhảy" ra khỏi bề mặt này.
+Mối liên hệ giữa độ cong và vật chất-năng lượng cũng như chuyển động của hạt trong trường hấp dẫn được xác định bằng phương trình trường Einstein. Nó là phương trình tenxơ đối xứng hạng hai, tương ứng với hệ 10 phương trình khi viết tường minh. Đối với các hiện tượng vật lý hấp dẫn, các nhà vật lý thường đưa phương trình về những dạng xấp xỉ ít phức tạp hơn để có thể thu được những tính chất hữu ích. Phương trình trường Einstein như sau:
+
+
+=== Đồng hồ trong trường hấp dẫn ===
+Trong thuyết tương đối rộng, tốc độ hoạt động của đồng hồ không chỉ phụ thuộc vào vận tốc tương đối của chúng, mà còn phụ thuộc vào vị trí của nó trong trường hấp dẫn cũng như độ mạnh yếu của trường. Một đồng hồ đặt trên đỉnh núi sẽ chạy nhanh hơn cái y hệt đặt dưới thung lũng. Tuy hiệu ứng này là rất nhỏ trong trường hấp dẫn của Trái Đất, nhưng để máy thu GPS tránh được các sai số trong tọa độ vị trí khi nó thu được từ tần số vệ tinh thì cần phải hiệu chỉnh thời gian giữa máy thu và thời gian trên vệ tinh để cho chúng đồng bộ.
+
+
+=== Vũ trụ học ===
+Trong khi thuyết tương đối hẹp áp dụng cho trường hợp hệ quy chiếu đang xét nằm trong vùng không thời gian có độ cong nhỏ có thể bỏ qua được, thì thuyết tương đối tổng quát không đòi hỏi giới hạn này. Do đó nó có thể áp dụng cho toàn thể vũ trụ và lý thuyết đóng vai trò quan trọng của ngành vũ trụ học. Vì thế, sự giãn nở của vũ trụ, như được tiên đoán bởi Alexander Friedmann và Georges Lemaître từ phương trình trường Einstein cũng như kết hợp với hằng số vũ trụ học (năng lượng tối) và một số yếu tố khác như vật chất tối đã trở thành mô hình chuẩn của vũ trụ học. Sự giãn nở này bắt đầu từ Vụ Nổ Lớn xảy ra từ cách nay 13,8 tỷ năm trước. Nó cũng là sự bắt đầu của không gian và thời gian khi toàn bộ vũ trụ tập trung trong một vùng không gian có đường kính kích cỡ chiều dài Planck.
+
+
+=== Lỗ đen ===
+
+Một tiên đoán khác của thuyết tương đối rộng đó là sự tồn tại của lỗ đen. Những vật thể này tạo ra trường hấp dẫn rất mạnh khiến cho ánh sáng cũng bị hút vào chân trời sự kiện, do đó nó không thể thoát ra khỏi lỗ đen. Einstein không thích thú với ý tưởng về sự tồn tại của vật thể này, và ông cho rằng phải có một cơ chế vật lý nào đó ngăn cản sự hình thành lỗ đen. Nhiều dữ liệu quan sát thiên văn vật lý ngày nay cho thấy quả thực có những lỗ đen ẩn nấp trong vũ trụ, và chúng có thể là trạng thái tiến hóa cuối cùng của các ngôi sao lớn trong các thiên hà hoặc được hình thành từ sự suy sụp hấp dẫn của các đám khí trong vũ trụ sơ khai.
+
+
+=== Sóng hấp dẫn ===
+
+Tương tự như sóng điện từ tiên đoán bởi lý thuyết điện từ của Maxwell, thuyết tương đối rộng cho phép sự tồn tại của sóng hấp dẫn: sự tập trung của khối lượng (hay năng lượng) làm cong không thời gian, và sự thay đổi của hình dáng hoặc vị trí của vật thể gây ra sự biến đổi và lan truyền trong toàn bộ vũ trụ với tốc độ bằng tốc độ ánh sáng. Tuy nhiên, những biến đổi này rất nhỏ mà các nhà vật lý vẫn chưa phát hiện được sóng hấp dẫn một cách trực tiếp. Một vụ nổ siêu tân tinh năm 1987 có thể phát ra sóng hấp dẫn và được các trạm quan sát ngày nay (2011) phát hiện được. Tuy vậy chỉ có hai trạm quan sát cho tới năm đó và độ nhạy của chúng không thể phát hiện ra được những gợn không thời gian cực nhỏ này. Nhờ những quan sát quỹ đạo hệ pulsar đôi chứng tỏ một cách gián tiếp sự tồn tại của sóng hấp dẫn. Russell Hulse và Joseph Taylor đã nhận Giải Nobel Vật lý năm 1993 nhờ những quan sát này.
+Ngày 17 tháng 3 năm 2014, một đoàn thám hiểm Mỹ sau một nghiên cứu 3 năm thông báo tại buổi họp báo ở Harvard, rằng họ đã quan sát được sóng hấp dẫn ban sơ (primordial gravitational waves) của giây phút ngay sau Big Bang. Tuy nhiên sau đó nhóm BICEP 2 và Planck đã hợp tác cùng phân tích dữ liệu với nhau và đi đến kết luận là hình ảnh mà BICEP 2 nhận được chủ yếu do ảnh hưởng của bụi trong Ngân Hà chứ không phải từ sóng hấp dẫn nguyên thủy.
+Sau hơn 40 năm khởi xướng, huy động vốn tài trợ từ Quỹ Khoa học Quốc gia (NSF), xây dựng và nâng cấp, nhóm cộng tác khoa học Advanced LIGO thông báo ngày 11 tháng 2 năm 2016 rằng hai trạm thám trắc ở Livingstone, Lousiana và Hanford, Washington đã thu được trực tiếp tín hiệu sóng hấp dẫn từ kết quả sáp nhập của hai lỗ đen khối lượng sao nằm cách Trái Đất khoảng 1,3 tỷ năm ánh sáng. Phát hiện này đã mở ra thời kỳ mới của thiên văn sóng hấp dẫn.
+
+
+== Xác nhận bằng thực nghiệm ==
+
+Sự thành công đầu tiên của thuyết tương đối hẹp đó là nó giải thích được sự mâu thuẫn trong kết quả thu được ở thí nghiệm Michelson-Morley và lý thuyết điện động lực học, trong khi đó lý thuyết điện động lực học còn được coi là cơ sở cho sự phát triển của thuyết tương đối hẹp. Lý thuyết đã được chứng minh là đúng đắn qua rất nhiều thí nghiệm và thực nghiệm, như thí nghiệm Ives–Stilwell. Một ví dụ điển hình đó là việc phát hiện muon trong tia vũ trụ, mà những hạt này không thể tới bề mặt Trái Đất được với thời gian sống rất ngắn của chúng nếu không có hiệu ứng giãn thời gian khi chúng chuyển động với tốc độ gần bằng với tốc độ ánh sáng, hoặc các hạt muon chuyển động với một quãng đường ngắn hơn do sự co độ dài. Chứng cứ cho điều này đến từ các cuộc bay bằng khinh khí cầu vào tầng bình lưu thực hiện bởi nhà vật lý Thụy Sĩ Auguste Piccard trong các năm 1931 và 1932, mà quá trình chuẩn bị có sự tham gia của Einstein.
+Còn đối với lý thuyết tương đối rộng, ở thời điểm công bố nó mới chỉ có một bằng chứng thực nghiệm có thể để kiểm chứng, đó là sự dịch chuyển điểm cận nhật trong quỹ đạo của Sao Thủy. Năm 1919, Arthur Eddington dẫn đầu tổ chức hai đoàn thám hiểm quan sát hiện tượng nhật thực, họ đo được sự dịch chuyển của vị trí biểu kiến của các sao gần Mặt Trời và xác nhận trực tiếp về các tia sáng bị lệch khi đi qua trường hấp dẫn. Thí nghiệm Pound–Rebka kiểm tra dịch chuyển đỏ do hấp dẫn thực hiện năm 1959 là thí nghiệm chính xác cao đầu tiên về thuyết tương đối tổng quát.
+Các thí nghiệm và thực chứng khác bao gồm: thấu kính hấp dẫn, phát hiện trực tiếp sóng hấp dẫn, quan sát quỹ đạo của cặp sao xung, mô hình chuẩn vũ trụ học, thí nghiệm Gravity Probe B...
+Ngoài thuyết tương đối rộng nêu bởi Einstein, cũng có những lý thuyết hấp dẫn tương đối tính khác được đề xuất dựa trên các cơ sở của thuyết tương đối rộng. Lý thuyết nổi bật nhất là lý thuyết Jordan - Brans-Dicke, mặc dù đa số những lý thuyết này có cấu trúc phức tạp hơn. Sự đúng đắn của các lý thuyết này vẫn chưa hoàn toàn bị bác bỏ. Đã có nhiều thí nghiệm và thực nghiệm nhằm kiểm tra thuyết tương đối tổng quát lẫn các lý thuyết thay thế khác.
+
+
+== Tiếp nhận và giải thích ==
+
+
+=== Nhận thức của công chúng ===
+Cách tiếp cận mới của thuyết tương đối về không gian và thời gian đã thu hút sự quan tâm của công chúng kể từ khi lý thuyết ra đời. Einstein trở lên nổi tiếng và thuyết tương đối dần xuất hiện trên các phương tiện truyền thông. Với cách nói đơn giản mọi thứ đều tương đối, đôi khi lý thuyết trở thành một lĩnh vực xem xét của chủ nghĩa tương đối trong triết học.
+Trong bộ phim chiếu vào tháng 4 năm 1922 nhan đề "Những điều cơ bản của thuyết tương đối Einstein", với nhiều khung hình minh họa giải thích thuyết tương đối hẹp của Einstein trước khán giả.
+Những lời chỉ trích phê bình về thuyết tương đối bắt nguồn từ nhiều cách khác nhau, như hiểu sai lý thuyết, chống đối những tiến bộ của toán học và vật lý hay liên quan đến nguồn gốc Do Thái của Einstein. Từ thập kỷ 1920 một vài nhà vật lý ở Đức đã công khai chống người Do Thái, bao gồm hai người đoạt giải Nobel là Philipp Lenard và Johannes Stark, với phong trào Deutsche Physik chống lại thuyết tương đối. Vài năm sau khi Chủ nghĩa Quốc xã nắm quyền, Stark đăng một bài viết trên tờ Das Schwarze Korps của SS số ngày 15 tháng 7 năm 1937 chống lại những người trong nước còn theo ủng hộ thuyết tương đối và thuyết lượng tử. Trong số họ, Stark tố cáo Werner Heisenberg và Max Planck là những người Do Thái trắng. Heisenberg đã đến gặp trực tiếp Himmler và đạt được khôi phục danh dự của mình.
+
+
+=== Khoa học công nhận ===
+Thời gian đầu thuyết tương đối mới ra đời chưa được cộng đồng khoa học công nhận, với Albert Einstein nhận giải Nobel Vật lý năm 1921 với lý do có cống hiến cho nền vật lý lý thuyết và đặc biệt cho hiệu ứng quang điện. Ngày nay, cả thuyết tương đối hẹp và thuyết tương đối rộng đã được thừa nhận rộng rãi và chúng là những trụ cột cho ngành vật lý cũng như nền tảng trong sự phát triển của các công nghệ hiện đại.
+
+
+== Xem thêm ==
+Thuyết tương đối hẹp
+Thuyết tương đối rộng
+Lỗ đen
+
+
+== Chú thích ==
+
+
+== Sách tham khảo ==
+
+
+=== Sách chuyên khảo vật lý ===
+Max Born: Die Relativitätstheorie Einsteins. Bearbeitet von Jürgen Ehlers und Markus Pössel. Springer, Berlin 2003, ISBN 3-540-67904-9.
+Albert Einstein, Leopold Infeld: Die Evolution der Physik. Zsolnay, Hamburg 1950, Rowohlt, Reinbek 1987, ISBN 3-499-18342-0.,
+Albert Einstein: Grundzüge der Relativitätstheorie. Springer, Berlin 2002, ISBN 3-540-43512-3.(Originaltitel Meaning of relativity)
+Jürgen Freund: Relativitätstheorie für Studienanfänger – ein Lehrbuch. vdf Hochschulverlag, Zürich 2004, ISBN 3-7281-2993-3.
+Hubert Goenner: Spezielle Relativitätstheorie und die klassische Feldtheorie. Elsevier – Spektrum Akademischer Verlag, München 2004, ISBN 3-8274-1434-2.
+Holger Müller, Achim Peters: Einsteins Theorie auf dem optischen Prüfstand – Spezielle Relativitätstheorie. In: Physik in unserer Zeit. Wiley-VCH, Weinheim 35.2004,2, S.70–75. 
+Wolfgang Nolting: Grundkurs Theoretische Physik. Band 4. Spezielle Relativitätstheorie, Thermodynamik. Springer, Berlin 2003, ISBN 3-540-42116-5.
+Hans Stephani: Allgemeine Relativitätstheorie. Deutscher Verlag der Wissenschaften, Berlin 1991, ISBN 3-326-00083-9.
+Torsten Fließbach: Allgemeine Relativitätstheorie'. Spektrum Akademischer Verlag, Heidelberg 2006, ISBN 3-8274-1685-X.
+
+
+=== Sách đại chúng ===
+Julian Schwinger: Einsteins Erbe. Die Einheit von Raum und Zeit. Spektrum, Heidelberg 2000. ISBN 3-8274-1045-2.
+David Bodanis: Bis Einstein kam. Die abenteuerliche Suche nach dem Geheimnis der Welt. Fischer, Frankfurt am Main 2003. ISBN 3-596-15399-9.
+Gerald Kahan: Einsteins Relativitätstheorie – zum leichten Verständnis für jedermann. Dumont, Köln 1987, 2005. ISBN 3-7701-1852-9.
+Einstein, Albert (2005). Relativity: The Special and General Theory. Translated by Robert W. Lawson . New York: Pi Press. ISBN 0131862618.  Bảo trì CS1: Văn bản dư (link)
+
+
+=== Thảo luận về triết học ===
+Julian Barbour: The End of Time. Weidenfeld & Nicolson, London 1999, ISBN 0-297-81985-2.
+Ernst Cassirer: Zur Einsteinschen Relativitätstheorie. Erkenntnistheoretische Betrachtungen. Meiner, Hamburg 2001, ISBN 3-7873-1410-5.
+John Earman: World Enough and Space-Time. Absolute versus relational theories of space and time. MIT, Cambridge, Mass. 1989, ISBN 0-262-05040-4.
+John Earman (Hrsg.): Foundations of space-time theories. University of Minnesota Press, Minneapolis, Minn. 1977, ISBN 0-8166-0807-5.
+Lawrence Sklar: Space, Time, and Spacetime. University of California Press 1977, ISBN 0-520-03174-1.
+R. Torretti: Relativity and Geometry. Pergamon, Oxford 1983, ISBN 0-08-026773-4.
+M. Friedman: Foundations of Space-Time Theories. Relativistic physics and philosophy of science. Princeton University Press, Princeton, NJ 1983, ISBN 0-691-07239-6.
+John Earman: Bangs, Crunches, Whimpers and Shrieks. Singularities and acausalities in relativistic spacetimes. Oxford University Press, Oxford 1995, ISBN 0-19-509591-X.
+H. Brown: Physical Relativity. Space-time structure from a dynamical perspective. Clarendon, Oxford 2005, ISBN 978-0-19-927583-0.
+Graham Nerlich: What spacetime explains. Metaphysical essays on space and time. Cambridge University Press, Cambridge 1994, ISBN 0-521-45261-9.
+T. Ryckman: The Reign of Relativity. Philosophy in physics 1915–1925. Oxford University Press, New York 2005, ISBN 0-19-517717-7.
+R. DiSalle: Understanding space-time. The philosophical development of physics from Newton to Einstein. Cambridge University Press, Cambridge 2007, ISBN 978-0-521-85790-1.
+Sendker, Werner Bernhard: Die so unterschiedlichen Theorien von Raum und Zeit. Der transzendentale Idealismus Kants im Verhältnis zur Relativitätstheorie Einsteins, Osnabrück, 2000 ISBN 3-934366-33-3
+
+
+=== Phim ===
+Einsteins große Idee, Frankreich, Großbritannien 2005, ARTE F, Regie: Gary Johnstone. Das Drehbuch basiert auf dem Bestseller Bis Einstein kam von David Bodanis.
+
+
+== Liên kết ngoài ==
+Tempolimit Lichtgeschwindigkeit – Visualisierung der Phänomene der Relativitätstheorie
+Einstein Online (Max Planck Institut für Gravitationsphysik - Albert Einstein Institut)
+Zur technischen Anwendung der Relativitätstheorie in GPS-Systemen
+J. J. O'Connor / E. F. Robertson: Special Relativity
+J. J. O'Connor / E. F. Robertson: General Relativity
+Online-Kurs „Spezielle Relativitätstheorie“ (mit GeoGebra, ausgezeichnet mit dem österreichischen Bildungssoftware-Preis L@rnie 2005)
+J. R. Lucas: Homepage mit zahlreichen Publikationen zur Philosophie der Zeit, Raumzeit und Relativität, darunter der Volltext von Reason and Reality, 2006
+Early Philosophical Interpretations of General Relativity-Mục từ bởi Thomas A. Ryckman trong Bách khoa toàn thư Triết học Standford
+Being and Becoming in Modern Physics-Mục từ bởi Steven Savitt trong Bách khoa toàn thư Triết học Standford
+Absolute and Relational Theories of Space and Motion-Mục từ bởi Nick Huggett / Carl Hoefer trong Bách khoa toàn thư Triết học Standford
+Space and Time: Inertial Frames-Mục từ bởi Robert DiSalle trong Bách khoa toàn thư Triết học Standford
+Conventionality of Simultaneity-Mục từ bởi Allen Janis trong Bách khoa toàn thư Triết học Standford
+Andrew Hamilton: Special Relativity
+Yuri Balashov: Bản lưu trữ tại Wayback Machine, Rice University, Houston, Texas 1999
+On the Electrodynamics of Moving Bodies (tiếng Anh)

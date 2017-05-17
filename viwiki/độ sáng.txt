@@ -1,0 +1,779 @@
+Độ sáng nói chung được hiểu là đại lượng đo độ trắng. Ở mỗi ngành, độ sáng được định nghĩa khác nhau phụ thuộc vào thứ mà người ta cần đo.
+Trong thiên văn học, độ sáng đo tổng năng lượng phát ra từ một ngôi sao hoặc một thiên thể, trong đa số trường hợp đó là năng lượng phát ra ở bước sóng khả kiến (ánh sáng). Trong hệ SI nó có đơn vị joule trên giây, hay bằng watt. Một watt là một đơn vị năng lượng, giống như bóng đèn sợi đốt, ví dụ Mặt Trời có tổng năng lượng phát ra bằng &0000084200000000.0000003.846×1026 W. Các nhà thiên văn cũng sử dụng giá trị này làm đơn vị cơ sở trong đo lường, nó bằng 1 độ sáng Mặt Trời, và ký hiệu là 
+  
+    
+      
+        
+          L
+          
+            ⊙
+          
+        
+      
+    
+    {\displaystyle L_{\odot }}
+  . Công suất phát xạ không phải là khái niệm hóa duy nhất cho độ trắng, do vậy người ta cũng sử dụng những khái nhiệm khác. Khái niệm hay gặp đó là cấp sao biểu kiến, đó là độ trắng nhận được từ một vật thể đến người quan sát trên Trái Đất ở bước sóng ánh sáng. Những khái niệm khác là cấp sao tuyệt đối, hay độ trắng nội tại của vật thể tại bước sóng khả kiến, và không phụ thuộc vào khoảng cách đến máy thu; trong khi đó phép đo bằng nhiệt lượng kế phát xạ (bolometer) lại đo tổng năng lượng phát ra ở mọi dải sóng điện từ, đặc biệt ở bước sóng hồng ngoại và milimét.
+Lĩnh vực đo lường ánh sáng (photometry) sử dụng những định nghĩa khác, bao gồm độ chói (luminance) và độ rọi (illuminance). Trong khi đó, lĩnh vực đo lường bức xạ trong thiên văn (astronomical photometry), lại thực hiện đo thông lượng, hay cường độ của bức xạ điện từ phát ra từ thiên thể trên nhiều bước sóng và đo phổ của chúng.
+Trong lĩnh vực đồ họa vi tính, khái niệm độ sáng lại khác hẳn. Theo đó người ta sử dụng khái niệm sáng nhẹ (lightness), hay giá trị hoặc tông màu, trong việc chọn hoặc phối màu sắc.
+
+
+== Thiên văn học ==
+Trong thiên văn học, độ sáng là lượng năng lượng bức xạ điện từ phát ra từ vật thể trong một đơn vị thời gian. Nó thường được đo theo hai dạng: trong miền bước sóng khả kiến và miền bolometric (tổng năng lượng toàn phần), vì độ sáng trong miền các bước sóng khác cũng dần được sử dụng nhiều do đã có nhiều thiết bị chính xác được phát triển để đo chúng. Thiết bị nhiệt lượng kế phát xạ (bolometer) dùng để đo bức xạ nhiệt mà nó hấp thụ trên toàn dải bước sóng điện từ. Khi không nói rõ, thường phép đo độ sáng áp dụng cho miền bước sóng khả kiến, với đơn vị trong hệ SI là watt, hoặc theo độ sáng Mặt Trời. Một ngôi sao cũng phát ra các hạt neutrino mang năng lượng, chúng chiếm khoảng 2% năng lượng phát ra từ Mặt Trời, đi cùng với gió Mặt Trời và đóng góp vào tổng độ sáng của Mặt Trời. Tuy có thể dùng thiết bị bolometer để đo độ sáng, chúng không thể cho độ chính xác ngay cả với độ sáng biểu kiến của một sao bởi vì hoặc là thiết bị không đủ nhạy trên toàn dải bước sóng điện từ hơặc là nhiều bước sóng bị khí quyển Trái Đất ngăn lại không thể truyền tới mặt đất. Trong thực hành, độ sáng bolometric thường đo trên những bước sóng nhất định và các nhà thực nghiệm tạo dựng lên mô hình phổ trên toàn dải bức xạ điện từ sao cho phù hợp nhất với dữ liệu đo. Trong một số trường hợp, quá trình ước lượng rất thiếu chính xác có khi chỉ đo được 1% tổng năng lượng phát ra, như trong trường hợp sao Wolf-Rayet nóng nếu chỉ quan trắc trên bước sóng hồng ngoại.
+Độ sáng của ngôi sao có thể suy luận từ hai đặc trưng vật lý của nó: kích thước và nhiệt độ hữu hiệu. Kích thước của một ngôi sao thường biểu diễn theo bán kính của Mặt Trời, 
+  
+    
+      
+        
+          R
+          
+            ⊙
+          
+        
+      
+    
+    {\displaystyle R_{\odot }}
+  , trong khi nhiệt độ hữu hiệu có đơn vị kelvin, nhưng cả hai đặc tính này không thể đo trực tiếp được:
+Để đo bán kính của ngôi sao, các nhà thiên văn cần có hai tham số nữa: đó là đường kính góc của nó và khoảng cách từ Trái Đất đến ngôi sao, thông thường được tính qua phương pháp thị sai. Cả hai tham số có thể đo chính xác cao trong một số trường hợp, như các sao khổng lồ lạnh và sao có khí quyển mỏng có thể đo được thông qua phương pháp giao thoa vô tuyến VLBI. Tuy nhiên phương pháp thị sai chỉ có thể áp dụng cho những sao ở gần và đòi hỏi công nghệ tiên tiến.
+Nhiệt độ hữu hiệu của sao là một giá trị đặc trưng cho nhiệt độ của bức xạ vật đen phù hợp với sao, mà không thể đo trực tiếp do khoảng cách lớn đến nó, nhưng có thể ước lượng thông qua quang phổ của ngôi sao.
+
+Một cách khác để đo độ sáng của thiên thể đó là đo cấp sao biểu kiến và khoảng cách đến nó. Trong phương pháp này cần thêm các tham số nữa đó là mức độ làm tiêu tán ánh sáng do bụi và khí trong môi trường liên sao gây ra, mật độ không khí trong khí quyển Trái Đất, và mật độ vật chất của đĩa bụi tiền hành tinh bao quanh ngôi sao nếu có. Vì thế, một trong những thử thách lớn trong thiên văn học đó là xác định độ sáng của một thiên thể thông qua phép đo chính xác của những tham số này. Sự tiêu tán ánh sáng chỉ có thể đo trực tiếp nếu độ sáng thực và cấp sao biểu kiến đã biết, tuy thế các nhà thiên văn có thể vượt qua trở ngại này bằng cách ước lượng màu của ngôi sao thông qua ba dải đỏ, lục, lam, và sau đó áp dụng các mô hình về cầu trúc sao để tính ra nhiệt độ sao và độ tiêu tán ánh sáng từ môi trường xung quanh.
+Trong hệ thống phân loại sao hiện tại, các sao được nhóm lại theo nhiệt độ bề mặt của nó, với những ngôi sao nóng và trẻ loại O có nhiệt độ vượt 30.000K trong khi các sao già loại M có nhiệt độ không lớn hơn 3.500 K. Sự thay đổi nhiệt độ lớn này giữa các sao cũng thể hiện tương ứng với độ sáng của chúng. Bởi vì độ sáng hay nhiệt độ phụ thuộc vào khối lượng của ngôi sao, và những sao khối lượng lớn phát sáng mạnh lại có thời gian tồn tại ngắn. Những sao có độ sáng tuyệt đối lớn nhất luôn luôn là sao trẻ, ít hơn vài triệu năm tuổi. Trong biểu đồ Hertzsprung–Russell, trục x biểu diễn nhiệt độ hay kiểu phổ trong khi trục y biểu diễn độ sáng hay cấp sao. Nhiều ngôi sao được phân vào dải chính với sao xanh loại 0 ở phía trên bên trái biểu đồ và sao lùn đỏ loại M nằm phía dưới bên phải. Những ngôi sao như Deneb và Betelgeuse tương ứng nằm phía trên và bên phải dải chính, và sáng hơn hoặc lạnh hơn so với những sao thuộc dải chính. Nếu các sao có cùng nhiệt độ nhưng sáng hơn hoặc lạnh hơn với cùng một độ sáng, điều này cho thấy chúng là những ngôi sao có đường kính lớn hơn các sao thuộc dải chính và các nhà thiên văn gọi chúng là những sao khổng lồ hoặc siêu khổng lồ.
+Những sao khổng lồ xanh và trắng là những sao có độ sáng lớn. Ví dụ, Deneb có độ sáng xấp xỉ 200.000
+  
+    
+      
+        
+          L
+          
+            ⊙
+          
+        
+      
+    
+    {\displaystyle L_{\odot }}
+  , kiểu phổ loại A2, và nhiệt độ hữu hiệu xấp xỉ 8.500 K, và người ta tính ra bán kính của nó xấp xỉ 203
+  
+    
+      
+        
+          R
+          
+            ⊙
+          
+        
+      
+    
+    {\displaystyle R_{\odot }}
+  . Đối với sao siêu khổng lồ đỏ Betelgeuse với độ sáng xung quanh 100.000
+  
+    
+      
+        
+          L
+          
+            ⊙
+          
+        
+      
+    
+    {\displaystyle L_{\odot }}
+  , kiểu phổ M2, và nhiệt độ hữu hiệu 3.500 K, và bán kính tính ra là 1.000
+  
+    
+      
+        
+          R
+          
+            ⊙
+          
+        
+      
+    
+    {\displaystyle R_{\odot }}
+  . Những sao siêu khổng lồ đỏ thuộc về lớp sao có bán kính lớn nhất, nhưng những sao có độ sáng lớn nhất lại có đường kính nhỏ hơn và nhiệt độ lớn hơn, với nhiệt độ lên tới 50.000 K và sáng tới vài triệu 
+  
+    
+      
+        
+          L
+          
+            ⊙
+          
+        
+      
+    
+    {\displaystyle L_{\odot }}
+  , và giá trị bán kính tính ra khoảng vài chục lần 
+  
+    
+      
+        
+          R
+          
+            ⊙
+          
+        
+      
+    
+    {\displaystyle R_{\odot }}
+  . Ví dụ như sao R136a1, nhiệt độ bề mặt của nó trên 50.000 K và độ sáng hơn 8.000.000
+  
+    
+      
+        
+          L
+          
+            ⊙
+          
+        
+      
+    
+    {\displaystyle L_{\odot }}
+   (chủ yếu trong bước sóng UV), nhưng bán kính của nó chỉ bằng 35
+  
+    
+      
+        
+          R
+          
+            ⊙
+          
+        
+      
+    
+    {\displaystyle R_{\odot }}
+  .
+
+
+=== Công thức tính độ sáng ===
+
+Theo định luật Stefan–Boltzmann áp dụng cho vật đen có độ sáng là:
+L= σAT4.
+với A là diện tích và σ là hằng số Stefan–Boltzmann bằng 5,67010 x 10−8 W m−2 K−4 và T là nhiệt độ.
+Giả sử có một nguồn sáng điểm với độ sáng 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   phát đều theo mọi hướng. Một mặt cầu tưởng tượng có tâm trùng với nguồn sáng và do vậy toàn bộ bề mặt bên trong hình cầu được chiếu sáng. Khi bán kính hình cầu tăng lên, diện tích mặt cầu tăng theo, do vậy độ sáng tại bề mặt được chiếu giảm dần theo khoảng cách.
+Mật độ thông lượng F chiếu lên bề mặt có diện tích A là:
+
+  
+    
+      
+        F
+        =
+        
+          
+            L
+            A
+          
+        
+      
+    
+    {\displaystyle F={\frac {L}{A}}}
+  
+Mặt cầu có bán kính r tương ứng với diện tích 
+  
+    
+      
+        A
+        =
+        4
+        π
+        
+          r
+          
+            2
+          
+        
+      
+    
+    {\displaystyle A=4\pi r^{2}}
+  , do vậy đối với các sao và những nguồn sáng khác:
+
+  
+    
+      
+        F
+        =
+        
+          
+            L
+            
+              4
+              π
+              
+                r
+                
+                  2
+                
+              
+            
+          
+        
+        
+      
+    
+    {\displaystyle F={\frac {L}{4\pi r^{2}}}\,}
+  
+ở đây
+
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   khoảng cách từ người quan sát đến nguồn sáng.
+Người ta chứng minh được rằng độ sáng của một ngôi sao 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   (giả sử ngôi sao đó là vật đen, mà xấp xỉ khá phù hợp) liên hệ với nhiệt độ hữu hiệu 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   và bán kính 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   của ngôi sao theo phương trình:
+
+  
+    
+      
+        L
+        =
+        4
+        π
+        
+          R
+          
+            2
+          
+        
+        σ
+        
+          T
+          
+            4
+          
+        
+        
+      
+    
+    {\displaystyle L=4\pi R^{2}\sigma T^{4}\,}
+  
+với
+σ là hằng số Stefan–Boltzmann 5,67×10−8 W•m−2•K−4.
+Chia cho độ sáng của Mặt Trời 
+  
+    
+      
+        
+          L
+          
+            ⊙
+          
+        
+      
+    
+    {\displaystyle L_{\odot }}
+   và triệt tiêu hằng số, thu được liên hệ:
+
+  
+    
+      
+        
+          
+            L
+            
+              L
+              
+                ⊙
+              
+            
+          
+        
+        =
+        
+          
+            
+              (
+              
+                
+                  R
+                  
+                    R
+                    
+                      ⊙
+                    
+                  
+                
+              
+              )
+            
+          
+          
+            2
+          
+        
+        
+          
+            
+              (
+              
+                
+                  T
+                  
+                    T
+                    
+                      ⊙
+                    
+                  
+                
+              
+              )
+            
+          
+          
+            4
+          
+        
+      
+    
+    {\displaystyle {\frac {L}{L_{\odot }}}={\left({\frac {R}{R_{\odot }}}\right)}^{2}{\left({\frac {T}{T_{\odot }}}\right)}^{4}}
+  
+Đối với các sao thuộc dải chính, độ sáng liên hệ với khối lượng của sao tuân theo:
+
+  
+    
+      
+        
+          
+            L
+            
+              L
+              
+                ⊙
+              
+            
+          
+        
+        ≈
+        
+          
+            
+              (
+              
+                
+                  M
+                  
+                    M
+                    
+                      ⊙
+                    
+                  
+                
+              
+              )
+            
+          
+          
+            3.9
+          
+        
+      
+    
+    {\displaystyle {\frac {L}{L_{\odot }}}\approx {\left({\frac {M}{M_{\odot }}}\right)}^{3.9}}
+  
+
+
+=== Công thức tính cấp sao ===
+
+
+==== Biểu kiến ====
+Cấp sao là thang đo logarit của độ trắng biểu kiến. Cấp sao biểu kiến là độ sáng của sao hay thiên thể quan sát từ Trái Đất, và cấp sao tuyệt đối là độ sáng biểu kiến của nó ở khoảng cách 10 parsec. Khi có giá trị độ sáng theo bước sóng khả kiến (không phải là độ sáng toàn phần), có thể tính ra cấp sao biểu kiến của sao tại một khoảng cách cho trước (bỏ quan sự cản trở của bụi sao):
+
+  
+    
+      
+        
+          m
+          
+            
+              s
+              t
+              a
+              r
+            
+          
+        
+        =
+        
+          m
+          
+            
+              S
+              u
+              n
+            
+          
+        
+        −
+        2.5
+        
+          log
+          
+            10
+          
+        
+        ⁡
+        
+          (
+          
+            
+              
+                L
+                
+                  
+                    s
+                    a
+                    o
+                  
+                
+              
+              
+                L
+                
+                  ⊙
+                
+              
+            
+          
+          ⋅
+          
+            
+              (
+              
+                
+                  
+                    d
+                    
+                      
+                        S
+                        u
+                        n
+                      
+                    
+                  
+                  
+                    d
+                    
+                      
+                        s
+                        a
+                        o
+                      
+                    
+                  
+                
+              
+              )
+            
+            
+              2
+            
+          
+          )
+        
+      
+    
+    {\displaystyle m_{\rm {star}}=m_{\rm {Sun}}-2.5\log _{10}\left({L_{\rm {sao}} \over L_{\odot }}\cdot \left({\frac {d_{\rm {Sun}}}{d_{\rm {sao}}}}\right)^{2}\right)}
+  
+với
+msao là cấp sao biểu kiến của ngôi sao (là một số không có đơn vị)
+mSun là cấp sao biểu kiến của Mặt Trời
+Lsao là độ sáng trong bước sóng khả kiến của sao
+
+  
+    
+      
+        
+          L
+          
+            ⊙
+          
+        
+      
+    
+    {\displaystyle L_{\odot }}
+   là độ sáng trong bước sóng khả kiến của Mặt Trời
+dsao là khoảng cách đến ngôi sao
+dSun là khoảng cách đến Mặt Trời
+Đơn giản hóa, với mSun = −26,73 và dSun = 1,58 × 10−5 ly:
+msao = − 2,72 − 2,5 · log(Lstar/dsao2).
+
+
+==== Cấp sáng theo nhiệt lượng bức xạ kế (Bolometric) ====
+Hiệu giữa hai cấp bolo được liên hệ với tỉ số độ sáng theo:
+
+  
+    
+      
+        
+          M
+          
+            b
+            o
+            
+              l
+              
+                
+                  s
+                  a
+                  o
+                
+              
+            
+          
+        
+        −
+        
+          M
+          
+            b
+            o
+            
+              l
+              
+                
+                  S
+                  u
+                  n
+                
+              
+            
+          
+        
+        =
+        −
+        2.5
+        
+          log
+          
+            10
+          
+        
+        ⁡
+        
+          
+            
+              L
+              
+                
+                  s
+                  a
+                  o
+                
+              
+            
+            
+              L
+              
+                ⊙
+              
+            
+          
+        
+      
+    
+    {\displaystyle M_{bol_{\rm {sao}}}-M_{bol_{\rm {Sun}}}=-2.5\log _{10}{\frac {L_{\rm {sao}}}{L_{\odot }}}}
+  
+lấy lũy thừa:
+
+  
+    
+      
+        
+          
+            
+              L
+              
+                
+                  s
+                  a
+                  o
+                
+              
+            
+            
+              L
+              
+                ⊙
+              
+            
+          
+        
+        =
+        
+          10
+          
+            (
+            (
+            M
+            b
+            o
+            
+              l
+              
+                
+                  S
+                  u
+                  n
+                
+              
+            
+            −
+            M
+            b
+            o
+            
+              l
+              
+                
+                  s
+                  a
+                  o
+                
+              
+            
+            )
+            
+              /
+            
+            2.5
+            )
+          
+        
+      
+    
+    {\displaystyle {\frac {L_{\rm {sao}}}{L_{\odot }}}=10^{((Mbol_{\rm {Sun}}-Mbol_{\rm {sao}})/2.5)}}
+  
+với
+
+  
+    
+      
+        
+          L
+          
+            ⊙
+          
+        
+      
+    
+    {\displaystyle L_{\odot }}
+   là độ sáng bolo của Mặt Trời
+
+  
+    
+      
+        
+          L
+          
+            
+              s
+              a
+              o
+            
+          
+        
+      
+    
+    {\displaystyle L_{\rm {sao}}}
+   là độ sáng bolo của sao
+
+  
+    
+      
+        
+          M
+          
+            b
+            o
+            
+              l
+              
+                
+                  S
+                  u
+                  n
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle M_{bol_{\rm {Sun}}}}
+   là cấp bolo của Mặt Trời
+
+  
+    
+      
+        
+          M
+          
+            b
+            o
+            
+              l
+              
+                
+                  s
+                  t
+                  a
+                  r
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle M_{bol_{\rm {star}}}}
+   là cấp bolo của sao.
+
+
+== Đo lường ánh sáng ==
+
+
+== Đồ họa vi tính ==
+
+
+== Xem thêm ==
+Độ trắng
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

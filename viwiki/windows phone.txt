@@ -1,0 +1,84 @@
+Windows Phone là hệ điều hành của Microsoft dành cho smartphone kế tục nền tảng Windows Mobile, mặc dù chúng không tương thích với nhau. Khác với Windows Mobile, Windows Phone tập trung vào sự phát triển của Marketplace - nơi các nhà phát triển có thể cung cấp sản phẩm (miễn phí hoặc có phí) tới người dùng. Windows Phone được bán vào tháng 10 năm 2010 và đầu năm 2011 tại Châu Á.
+Phiên bản mới nhất hiện tại là Windows 10 For Phone, tiếp nối Windows Phone 8 (Apollo) và Windows Phone 8.1 (Blue), hiện nay đã phát hành cho một số các loại điện thoại(Ở Việt Nam, tất cả các loại điện thoại được bán đều đã có bản cập nhật). Với Windows Phone, Microsoft đã phát triển giao diện người dùng mới mang tên Modern (trước đây tên là Metro) - tích hợp khả năng liên kết với các phần cứng và phần mềm của hãng thứ ba một cách dễ dàng.
+
+
+== Lịch sử và phát triển ==
+
+
+=== Hoàn cảnh ra đời ===
+Sau thành công của nền tảng Windows dành cho PC, Microsoft tiếp tục bước vào nền tảng dành cho các thiết bị di động. Windows Phone bắt đầu được nhen nhóm vào đầu năm 2004 như là một bản nâng cấp cho Windows Mobile với tên mã "Photon", nhưng công việc diễn ra rất chậm và dự án phải bị hủy. Năm 2008, dự án được khởi động trở lại, nhưng lần này không phải là một bản nâng cấp mà là một hệ điều hành mới hoàn toàn. Mặc dù được dự kiến phát hành vào năm 2009, nhưng sự chậm trễ trong việc phát triển dẫn tới phiên bản Windows Mobile 6.5 vẫn được phát hành.. Việc kết thúc hỗ trợ cho Windows Mobile chỉ diễn ra vào ngày 15/7/2011.
+Trong giai đoạn này Windows Phone được phát triển khá nhanh, kéo theo đó là việc không thể tương thích với các phiên bản cũ do không kịp thời gian chuẩn bị cho việc đó.
+Tên mã của dự án Windows Phone là "Photon". Ban đầu tên gọi dự định sẽ là Windows Phone. Tuy nhiên vào ngày 22 tháng 4 năm 2010, Microsoft chính thức thông báo tên gọi phiên bản đầu tiên là Windows Phone 7 - tương xứng với hệ điều hành Windows 7 dành cho PC.
+
+
+=== Phát triển và mở rộng ===
+
+
+==== Windows Phone 7 ====
+
+Windows Phone 7 được ra mắt vào ngày 15 tháng 2 năm 2010 ở Mobile World Congress tại Barcelona, Tây Ban Nha và chính thức bán ra vào ngày 8 tháng 11 năm 2010 tại Mỹ.
+Ban đầu Microsoft phát hành bản cập nhật No Do, tiếp sau đó là bản nâng cấp lớn Mango (còn được biết là Windows Phone 7.5) vào tháng 5 năm 2011. Bản cập nhật này bao gồm phiên bản di động của Internet Explorer 9, đa nhiệm cho phần mềm của công ty thứ ba, hợp nhất Twitter vào People Hub, và cho phép đăng nhập SkyDrive.
+Một bản nâng cấp nhỏ được phát hành năm 2012 là "Tango". Trong bản cập nhật này, Microsoft đã sửa những lỗi bug, hạ thấp cấu hình tối thiểu cho Windows Phone xuống chip 800 MHz và RAM 256MB để phù hợp cho những máy giá rẻ cấu hình thấp..
+Tháng 1 2013, Microsoft tung ra bản Windows Phone 7.8. Nó bổ sung thêm những tính năng từ Windows Phone 8, chẳng hạn như màn hình chủ, tăng số lượng tông màu lên 20 và khả năng đặt màn hình khóa là hình ảnh trong ngày của Bing. Windows Phone 7.8 nhằm kéo dài tuổi thọ của các thiết bị Windows Phone 7, vì chúng không thể nâng cấp lên Windows Phone 8 bởi giới hạn phần cứng. Windows Phone 7.8 vẫn sẽ được Microsoft hỗ trợ trong thời gian tới song song với Windows Phone 8. Dự kiến Microsoft ngừng hỗ trợ bản 7.8 kể từ ngày 9 tháng 9 năm 2014, cùng ngày với ngày Apple cho ra mắt Iphone 6.
+
+
+==== Windows Phone 8 ====
+
+Ngày 20 tháng 6 năm 2012, Microsoft giới thiệu Windows Phone 8, một thế hệ hệ điều hành mới, và 4 tháng sau, 29 tháng 10 năm 2012, Microsoft bắt đầu bán phiên bản này. Windows Phone 8 thay thế lõi kiến trúc Windows CE trên Windows Phone 7 thành kernel của Windows NT vốn được thiết kế cho Windows 8, chính vì vậy điều này đã làm cho ứng dụng dễ dàng được port giữa hai hệ điều hành. Ngoài ra, Windows Phone 8 còn hỗ trợ CPU đa nhân, nhiều độ phân giải, tùy biến Start Screen,phiên bản di động của Internet Explorer 10, Nokia Maps thay thế Bing Maps. Theo Microsoft, Windows Phone 8 sẽ được hỗ trợ đến ngày 8 tháng 7 năm 2014.
+
+
+==== Windows Phone 8.1 ====
+
+Windows Phone 8.1 là một bản cập nhật lớn dành cho các điện thoại chạy trên hệ điều hành Windows Phone 8. Ngày 2 tháng 4 năm 2014, Windows Phone 8.1 được công bố chính thức và phiên bản Preview dành cho nhà phát triển được phát hành vào ngày 10 tháng 4. Vào ngày 22 tháng 8 năm 2014 cho ra mắt Windows Phone 8.1 tại Việt Nam(Tuy nhiên thì vẫn có thể tải bản Preview trước cho nhà phát triển)
+Windows Phone 8.1 được bổ sung nhiều tính năng mới so với Windows Phone 8, sau đậy là một vài thay đổi chính:
+Internet Explorer 11
+Khả năng tùy biến với 3 cột Live Tiles (cỡ vừa)
+Tùy biến Live Tiles bằng ảnh nền
+Trợ lý ảo Cortana
+Hỗ trợ gõ tiếng Việt bằng kiểu gõ Telex hoặc Vni
+Cài đặt và cá nhân hóa – Trung tâm hành động, âm thanh, đồng bộ
+
+
+==== Hợp tác với Nokia ====
+Ngày 11 tháng 2 năm 2011, trước mặt báo giới, CEO Microsoft Steve Balmer và CEO Nokia Stephen Elop công bố trở thành đối tác của nhau, đồng nghĩa với việc Windows Phone trở thành hệ điều hành chính của Nokia, thay thế Symbian đã già cỗi. Sự kiện này cũng đánh dấu một mốc quan trọng trong cuộc chiến với Android và iOS, được ví như là "cuộc đua giữa 3 con ngựa". Theo đó, công ty này sẽ hợp tác với Microsoft trong việc sản xuất những điện thoại Windows Phone. Nokia hứa hẹn sẽ:
+Tập trung vào Windows Phone
+Đưa ra những thiết kế mới, bổ sung những gói ngôn ngữ và phổ biến chúng nhiều hơn cho người tiêu dùng thông qua những thiết kế mới về phần cứng, nhiều phân khúc giá và thị trường hơn
+Hợp tác trong lĩnh vực marketing, phát triển phần mềm cho điện thoại di động
+Bing sẽ trở thành nền tảng tìm kiếm trong các thiết bị và dịch vụ của Nokia
+Kho ứng dụng riêng của Nokia sẽ được tích hợp chung với Store của Windows Phone.
+
+
+== Các tính năng ==
+
+
+=== Giao diện người dùng ===
+
+Windows Phone có giao diện người dùng (UI) dựa theo hệ sinh thái thiết kế của Microsoft những năm gần đây với biệt danh "Metro". Khởi thủy của Metro UI đã từng xuất hiện trên máy nghe nhạc Zune HD của Microsoft để cạnh tranh với iPod của Apple. Màn hình chính, có tên là "Start Screen", được cấu tạo bởi những "Lát Gạch Sống" (Live Tiles). Những viên Gạch này link đến những ứng dụng, tính năng, chức năng và những thứ khác (như tên danh bạ, bookmarks, tập tin nhạc,...) Người dùng có thể thêm, sắp xếp hoặc xóa Gạch, tuy nhiên nó không đồng nghĩa việc gỡ ứng dụng ra khỏi thiết bị. Gạch Sống hoạt động theo thời gian thực. Ví dụ như Gạch email sẽ hiện số mail chưa đọc và nội dung của nó; Gạch thời tiết sẽ cập nhật thông tin thời tiết nhanh nhất; Gạch lịch sẽ hiện những cuộc hẹn trong hôm nay và ngày mai. Mọi thông báo đều hiện qua các Gạch này, tạo sự tiện dụng cho người dùng khi không cần Thanh thông báo như Android hay iOS(kể từ Windows Phone 8.1 thì bổ sung thêm thanh thông báo). Kể từ Windows Phone 7.8 và Windows Phone 8, Gạch có thể phóng to hay thu nhỏ thành các kích cỡ khác gồm nhỏ, vừa và lớn.
+
+
+=== Các Hub ===
+Một trong những điểm đặc biệt của Windows Phone đó chính là Hub. Hub kết hợp những nội dung trong máy và trực tuyến thông qua sự tích hợp của Windows Phone với những mạng xã hội như Facebook, LinkedIn, Twitter, cũng như điện toán đám mây. Có các loại Hub:
+Hub ảnh: Trong Hub ảnh sẽ có những tấm ảnh bạn chụp bằng điện thoại và album Facebook, SkyDrive,... từ tài khoản người dùng. Người dùng có thể tải ảnh lên Facebook ngay tại Hub ảnh.
+Hub danh bạ: Hiển thị danh bạ trong máy hợp với các nguồn khác như Facebook, Windows Live,...
+Hub văn phòng: Các tài liệu Microsoft Word, Microsoft Excel trong máy và trên SkyDrive.
+Hub tin nhắn: Gửi tin nhắn trong danh bạ điện thoại và chat Facebook.
+Hub trò chơi: Kết nối với XBOX Live
+Hub media: Kết nối với XBOX Live Musics and Videos
+
+
+=== Trình duyệt web ===
+Internet Explorer trên Windows Phone cho phép người dùng đặt trang yêu thích và đưa các trang ấy lên Start Screen. Nó hỗ trợ 6 tab cùng lúc và chạy song song với nhau. Các chức năng khác như chia sẻ trang web, khả năng đa điểm, lưu hình ảnh vào điện thoại. Ngoài ra ở những máy đã unlock thì Internet Explorer còn có thể cài ứng dụng đã bị bẻ khóa.
+
+
+=== Tìm kiếm ===
+Yêu cầu của Microsoft đặt ra cho các nhà sản xuất là phải có nút tìm kiếm trên mặt trước sản phẩm. Nút tìm kiếm này có chức năng tìm kiếm website, tin tức, địa điểm, bản đồ thông qua ứng dụng Bing. Kể từ Windows Phone 8.1 thì khi được bật thì sẽ chuyển sang Cortana thay vì Bing 
+
+
+== Sự đón nhận của thị trường ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang chủ Windows Phone

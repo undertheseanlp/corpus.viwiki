@@ -1,0 +1,19 @@
+Viber là một phần mềm nhắn tin nhanh dựa trên giao thức VoIP đa nền tảng do Viber Media phát triển cho điện thoại thông minh dùng để nhắn tin và thực hiện cuộc gọi qua internet. Cùng với tin nhắn văn bản, người dùng có thể trao đổi hình ảnh, video và âm thanh. Phần mềm này có thể dùng được cho Mac OS, Android, BlackBerry OS, iOS, Series 40, Symbian, Bada, Windows Phone và Microsoft Windows and a Linux version is in development. Viber kết nối được với cả mạng 3G/4G và Wi-Fi.
+Ngày 7 tháng 5 năm 2013, Viber đạt 200 triệu người dùng.
+Vào ngày 14 tháng 2 năm 2014, Viber được Rakuten, một công ty kinh doanh trực tuyến của Nhật, mua lại với giá 900 triệu USD.
+
+
+== Lịch sử ==
+Viber lần đầu tiên ra mắt cho iPhone ngày 2/12/2010 để cạnh tranh trực tiếp với Skype. Phiên bản tiền-phát hành cho Android xuất hiện vào tháng 5 năm 2011 nhưng chỉ giới hạn cho 50.000 người, một phiên bản không giới hạn được phát hành ngày 19/7/2012. Viber cho các thiết bị của BlackBerry và Windows Phone ra mắt ngày 8/5/2012. Khi đạt được 90 triệu người dùng ngày 24/7/2012, dịch vụ nhắn tin nhóm và công cụ HD Voice được thêm vào cả úng dụng của Android và iPhone. Ứng dụng cho nền tảng Series 40, Symbian của Nokia và Bada của Samsung cũng được công bố cùng ngày đấy.. Ngày 14/2, Viber được sát nhập với Rakuten với giá 900 triệu USD. Đây được coi như một bước đệm để Rrkuten bước vào thị trường viễn thông và cạnh tranh với Line, một ứng dụng tán gẫu tương tự rất thành công toàn cầu.
+
+
+== Công ty ==
+Viber Media là một công ty đóng tại Israel và có trung tâm phát triển tại Belarus và Cộng Hòa Síp. Công ty do một doanh nhân người Israel gốc Mỹ tên là Talmon Marco.
+Công ty hiện đang không tạo ra doanh thu nhưng tuyên bố sẽ bắt đầu tạo doanh thu trong năm 2013 thông qua một "cửa hàng Sticker". Công ty được tài trợ bởi các nhà đầu tư cá nhân. Tính đến tháng 5 năm 2013, 20 triệu USD đã được đầu tư vào công ty này.
+
+
+== Hack ==
+Ngày 24/7/2013, hệ thống hỗ trợ của Viber bị [en:Syrian Electronic Army] tấn công. Theo Viber không có thông tin người dùng nhạy cảm nào bị truy cập.
+
+
+== Tham khảo ==

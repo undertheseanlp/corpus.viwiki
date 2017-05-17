@@ -1,0 +1,67 @@
+C, c (/xê/, /cờ/ trong tiếng Việt; /xi/ trong tiếng Anh) là chữ thứ ba trong phần nhiều chữ cái dựa trên Latinh và là chữ thứ năm trong chữ cái tiếng Việt.
+Trong tiếng Etruscan, vì những phụ âm bật không được phát âm rõ, cho nên những người nói tiếng đó phải dùng chữ gama (Γ) của tiếng Hy Lạp để viết âm /k/. Lúc ban đầu, người La Mã dùng C cho hai âm /k/ và /g/, sau họ cho thêm đường ngang để trở thành G. C có thể, nhưng không chắc, chỉ dùng cho âm /g/ trong thời gian trước đó, trong khi K được dùng cho âm /k/.
+Trong bảng mã ASCII dùng cho máy tính, chữ C hoa có giá trị 67 và chữ c thường có giá trị 99.
+Trong âm nhạc, C đồng nghĩa với nốt Đô.
+C cũng là tên của một loại vitamin.
+Trong hệ đo lường quốc tế:
+C là ký hiệu của coulomb
+c được dùng cho tiền tố centi (đọc là xăng ti) – hay 1/100.
+
+Trong ngành kim hoàn và đá quý, c là ký hiệu để chỉ cara.
+Trong hoá học, C là ký hiệu của nguyên tố cacbon.
+Trong vật lý học:
+c là hằng số ký hiệu cho vận tốc ánh sáng.
+°C là ký hiệu cho nhiệt độ Celsius.
+Hạt quark charm có ký hiệu là c.
+
+Trong hóa sinh học, C là biểu tượng cho cystein và cytosin.
+Trong mô hình màu CMYK, C đại diện cho màu xanh lơ.
+Trong toán học:
+C thông thường được sử dụng để biểu diễn chữ số có giá trị 12 trong các hệ đếm cơ số lớn hơn 12. Xem thêm hệ thập lục phân.
+Chữ 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+   bảng đen đậm chỉ tới tập hợp các số phức.
+C với các chỉ số C(n, k) biểu diễn chỉnh hợp hay hệ số nhị thức trong tam giác Pascal.
+Chữ 
+  
+    
+      
+        
+          
+            c
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {c}}}
+   Gothic có nghĩa là số lượng các phần tử của tập hợp các số thực, hay tổ hợp của các số tự nhiên.
+Trong hình học, c là độ dài cạnh huyền trong tam giác vuông. Ví dụ công thức Pitago: a² + b² = c².
+Trong biểu diễn số dưới dạng số La mã, C có giá trị là 100.
+
+Trong tin học:
+C: Một ngôn ngữ lập trình.
+C++: Một ngôn ngữ lập trình phát triển từ ngôn ngữ lập trình C.
+C#: Một ngôn ngữ lập trình có cú pháp gần giống C nhưng đã được thay đổi nhiều và phát triển bởi công ty Microsoft.
+Trong hệ điều hành Microsoft Windows, Ctrl-C dùng để sao chép một đoạn văn bản, hình ảnh hay âm thanh đã được lựa chọn và đặt bản sao này vào trong bộ đệm (clipboard). Tương đương trong hệ điều hành Mac OS là Command-C.
+
+Trong kinh tế học, C thường được dùng để biểu diễn sự tiêu thụ các tài nguyên.
+© là dấu hiệu bản quyền (copyright).
+Theo mã số xe quốc tế, C được dùng cho Cuba.
+C được đọc là Charlie trong bảng chữ cái âm học NATO, trong liên lạc vô tuyến hàng hải.
+Trong bảng chữ cái Hy Lạp, C tương đương với Γ và c tương đương với γ.
+Trong bảng chữ cái Cyrill, C và c giống như trong bảng chữ cái Latinh, nhưng phát âm như S.
+Trong quân sự, C là ký hiệu để chỉ UTC+3 hay MSK (tức múi giờ Moskva).
+
+
+== Cách phát âm ==
+
+
+== Tham khảo ==

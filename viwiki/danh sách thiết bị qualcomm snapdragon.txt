@@ -1,0 +1,178 @@
+Đây là danh sách các thiết bị Qualcomm Snapdragon.
+Snapdragon là một họ các hệ thống trên một vi mạch (SoC) di động được sản xuất bởi Qualcomm để sử dụng trong điện thoại thông minh, máy tính bảng, và các thiết bị smartbook.
+
+
+== Snapdragon S1 ==
+
+
+== Snapdragon S2 ==
+
+
+== Snapdragon S3 ==
+
+
+== Snapdragon S4 ==
+
+
+== Snapdragon 200 series ==
+
+
+=== Snapdragon 200 ===
+
+
+=== Snapdragon 208, 210 and 212 ===
+The Snapdragon 208 and Snapdragon 210 were announced on September 9, 2014.
+The Snapdragon 212 was announced on July 28, 2015.
+
+
+== Snapdragon 400 series ==
+
+
+=== Snapdragon 400 ===
+
+
+=== Snapdragon 410 and 412 ===
+The Snapdragon 410 system on a chip was announced on 9 December 2013, it is Qualcomm's first 64-bit mobile system on a chip. It also has Multimode 4G LTE, Bluetooth, Wi-Fi, NFC, GPS, GLONASS and BeiDou capabilities, and contains the Adreno 306 GPU. It is capable of supporting a 1080p screen and a 13 Megapixel camera.
+The Snapdragon 412 was announced on July 28, 2015
+
+
+=== Snapdragon 415 ===
+The Snapdragon 415 and the old Snapdragon 425 (canceled later) were announced on February 18, 2015. Both are octa-core SoCs featuring eight ARM Cortex-A53 processor cores. They support LTE connectivity (Cat 4 and Cat 7, respectively), and feature the Adreno 405 GPU, the same GPU as used in the previously introduced Snapdragon 615 which also has eight Cortex-A53 processor cores.
+
+
+=== Snapdragon 425 and 427 ===
+The new Snapdragon 425 was announced on February 11, 2016.
+The Snapdragon 427 was announced on October 18, 2016.
+
+
+=== Snapdragon 430 and 435 ===
+The Snapdragon 430 was announced on September 15, 2015.
+The Snapdragon 435 was announced on February 11, 2016.
+Qualcomm Quick Charge 3.0
+
+
+== Snapdragon 600 series ==
+
+
+=== Snapdragon 600 ===
+The Snapdragon 600 was announced on January 8, 2013.
+Display Controller: MDP 4. 2 RGB planes, 2 VIG planes, 1080p
+CPU Instruction Set: ARMv7
+
+
+=== Snapdragon 602A ===
+The Snapdragon 602A, for application in the motor industry, was announced on the 6th of January 2014.
+
+
+=== Snapdragon 610, 615 and 616 ===
+The Snapdragon 610 and Snapdragon 615 were announced on February 24, 2014. The Snapdragon 615 is Qualcomm's first octa-core SoC. This is found in many smartphones by manufactures such as Motorola, Asus, Lenovo, LYF etc.
+The Snapdragon 616 was announced on July 31, 2015.
+Hardware HEVC/H.265 decode acceleration
+
+
+=== Snapdragon 617, 625, and 626 ===
+Snapdragon 617 was announced on September 15, 2015.
+Snapdragon 625 was announced on February 11, 2016.
+Snapdragon 626 was announced on October 18, 2016.
+Qualcomm Quick Charge 3.0
+
+
+=== Snapdragon 650 (618), 652 (620), and 653 ===
+Snapdragon 618 and Snapdragon 620 were announced on 18 February 2015. They have been since renamed as Snapdragon 650 and Snapdragon 652 respectively. Snapdragon 650 is a hexa-core SoC featuring two ARM Cortex-A72 processor cores and four Cortex-A53 cores, while Snapdragon 652 has four ARM Cortex-A72 cores and four Cortex-A53 cores. The specifications of the two chips are otherwise similar. They have a dual-channel LPDDR3 memory interface, support Cat 7 LTE connectivity, and feature a next-generation Adreno 510 GPU.
+Snapdragon 653 was announced on October 18, 2016.
+
+
+== Snapdragon 800 series ==
+A Snapdragon 802 chip, 8092, for use in Smart TVs, was previously announced by Qualcomm. Qualcomm later confirmed that they are not going to release the chip as demand for processors in the Smart TV market is "smaller than anticipated".
+
+
+=== Snapdragon 800 and 801 ===
+The Snapdragon 800 was announced on January 8, 2013.
+The Snapdragon 801 was announced on February 24, 2014.
+Notable features:
+eMMC 5.0 support
+4 KiB + 4 KiB L0 cache, 16 KiB + 16 KiB L1 cache and 2 MiB L2 cache
+4K × 2K UHD video capture and playback
+Up to 21 megapixel, stereoscopic 3D dual image signal processor
+Adreno 330 GPU
+USB 2.0 and 3.0
+VP8 encoding/decoding
+Qualcomm Quick Charge 2.0
+
+
+=== Snapdragon 805 ===
+The Snapdragon 805 was announced on November 20, 2013.
+Notable features over its predecessor (801):
+Quad-core Krait 450 CPU at up to 2.7 GHz per core
+ARMv7-A
+Dual camera image signal processor supporting up to 55 megapixel
+stereoscopic 3D
+Adreno 420 GPU
+LPDDR3 25.6 GB/s memory bandwidth
+Qualcomm Hexagon DSP
+QDSP6V5A?
+800 MHz
+H.265/HEVC decoding
+VP9 decoding
+Bluetooth 4.1
+
+
+=== Snapdragon 808 and 810 ===
+The Snapdragon 808 and 810 were announced on April 7, 2014.
+Snapdragon 808 notable features over its predecessor (805):
+ARMv8-A
+64-bit architecture
+Adreno 418 GPU with support for Vulkan 1.0 
+DSP Hexagon V56
+12-bit dual-ISP up to 21 MP
+20 nm manufacturing technology
+Snapdragon 810 notable features over its predecessor (808):
+Quad-core ARM Cortex-A57 CPU
+Adreno 430 GPU with support for Vulkan 1.0
+14-bit dual-ISP up to 55 MP
+H.265/HEVC encoding
+VP9 encoding
+4K main display support
+
+
+=== Snapdragon 820 and 821 ===
+Notable features over its predecessor (810):
+Kryo quad-core CPU
+eMMC 5.1/UFS 2.0
+HDMI 2.0
+Native 4K display at 60 fps
+H.265/HEVC decoding 4K at 60 fps
+VP9 decoding 4K at 60 fps
+14 nm FinFET
+Quick Charge 3.0
+Adreno 530 with support for Vulkan 1.0
+
+
+== SoC sắp ra ==
+As of October 2016, there is one SoC from Qualcomm that has not been officially announced but is widely leaked.
+
+
+== Nền tảng tương tự ==
+A31 by AllWinner
+Atom by Intel
+Ax by Apple
+Exynos by Samsung
+i.MX by Freescale Semiconductor
+Jaguar và Puma by AMD
+K3Vx/Kirin by HiSilicon
+MTxxxx by MediaTek
+NovaThor by ST-Ericsson
+OCTEON by Cavium
+OMAP by Texas Instruments
+R-Car by Renesas
+RK3xxx by Rockchip
+Tegra by Nvidia
+VideoCore by Broadcom
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Snapdragon Chip Product Page
+Bản mẫu:ARM-based chips

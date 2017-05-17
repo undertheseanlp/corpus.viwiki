@@ -1,0 +1,8 @@
+Hertz hay héc, ký hiệu Hz, là đơn vị đo tần số(thường ký hiệu là f) trong hệ SI, lấy tên theo nhà vật lý người Đức Heinrich Rudolf Hertz. Đơn vị đo Hertz cho biết số lần dao động thực hiện được trong 1 giây.
+Thứ nguyên(đơn vị đo): Hz = 1/s Các đơn vị đo tần số thông dụng khác như: KHz-kilo-héc (1KHz=1000 Hz),MHz-mega-héc (1 MHz=1000000 Hz),GHz-Giga-héc (1 GHz=1000000000 Hz),THz-terahertz (1THz=1000000000000 Hz).
+
+
+=== Các ước số-bội số trong SI ===
+
+
+== Tham khảo ==

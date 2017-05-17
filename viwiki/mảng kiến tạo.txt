@@ -1,0 +1,49 @@
+Mảng kiến tạo, xuất phát từ thuyết kiến tạo mảng, là một phần của lớp vỏ Trái Đất (tức thạch quyển). Bề mặt Trái Đất có thể chia ra thành bảy mảng kiến tạo chính và nhiều mảng kiến tạo nhỏ. Thuật ngữ mảng kiến tạo (tectonic plate hay plaque) hay bị dùng sai thành đĩa kiến tạo hay địa tầng kiến tạo. Địa tầng (strata) chỉ các lớp đất đá hình thành bên trên vỏ Trái Đất, gồm các thang phân vị địa tầng: liên giới, giới, hệ, thống, bậc và đới, tương ứng với các thời kỳ địa chất (liên đại, đại, kỷ), và thường chứa hóa thạch. Mảng có bề dày lớn hơn nhiều so với địa tầng.
+Các mảng kiến tạo có độ dày khoảng 100 km (60 dặm) và bao gồm hai loại vật liệu cơ bản: lớp vỏ đại dương (còn gọi là quyển sima) và lớp vỏ lục địa (quyển sial). Nằm dưới chúng là một lớp tương đối dẻo của lớp phủ được gọi là quyển mềm (asthenosphere), nó chuyển động liên tục. Lớp này đến lượt của mình lại có một lớp rắn chắc hơn của lớp phủ nằm dưới nó.
+Thành phần của hai dạng lớp vỏ khác nhau một cách đáng kể. Lớp vỏ đại dương chủ yếu chứa các loại đá bazan, trong khi lớp vỏ lục địa chủ yếu chứa các loại đá granit với tỷ trọng thấp có chứa nhiều nhôm và điôxít silic (SiO2). Hai dạng này của lớp vỏ cũng khác nhau về độ dày, trong đó lớp vỏ lục địa dày hơn một cách đáng kể.
+Sự chuyển động của quyển mềm làm cho các mảng kiến tạo bị chuyển động theo một tiến trình gọi là sự trôi dạt lục địa, nó được giải thích bằng thuyết kiến tạo mảng. Sự tương tác giữa các mảng kiến tạo đã tạo ra các dãy núi và núi lửa, cũng như tạo ra các trận động đất và các hiện tượng địa chất khác.
+Ranh giới giữa các mảng kiến tạo không trùng với ranh giới các châu lục. Ví dụ, mảng kiến tạo Bắc Mỹ bao trùm không chỉ Bắc Mỹ mà còn cả Greenland, vùng viễn đông của Siberi và phần phía bắc Nhật Bản.
+Hiện nay người ta biết rằng Trái Đất là hành tinh duy nhất trong hệ Mặt Trời có hiện tượng kiến tạo mảng, mặc dù có một số giả thuyết cho rằng Sao Hỏa có thể cũng đã từng có các mảng kiến tạo trong quá khứ trước khi lớp vỏ của nó bị đông cứng lại tại chỗ.
+
+
+== Các mảng kiến tạo ==
+
+
+=== Bảy địa mảng chính cấu tạo nên lớp vỏ Trái đất ===
+
+Mảng Thái Bình Dương
+Mảng Á-Âu
+Mảng Ấn-Úc
+Mảng châu Phi
+Mảng Bắc Mỹ
+Mảng Nam Mỹ
+Mảng Nam Cực
+
+
+=== Một số mảng kiến tạo nhỏ ===
+Mảng Ả Rập (bán đảo Ả Rập)
+Mảng Ấn Độ (toàn bộ tiểu lục địa Ấn Độ và một phần lòng chảo thuộc Ấn Độ Dương.)
+Mảng Caribe (Trung Mỹ và biển Caribe)
+Mảng Cocos (phía tây México)
+Mảng Juan de Fuca (ngoài khơi California)
+Mảng Nazca (phía tây châu Nam Mỹ)
+Mảng Philippin
+Mảng Scotia (phía đông nam mũi Horn)
+
+
+== Người tìm ra ==
+Alfred Wegener, nhà vật lý, nhà địa chấn người Đức đã tìm ra "thuyết trôi lục địa" sau này gọi là "thuyết kiến tạo mảng". Ông phát hiện ra rằng mảng bờ đông của Nam Mĩ hợp với mảng tây của bờ châu Phi, lục địa Á-Âu với lục địa Phi. Nhờ quan sát, hình thái, di tích hóa thạch các châu lục và sự ăn khớp của nó. Các căn cứ trên chưa đủ để giải thích. Sau này các nhà khoa học tìm ra, khám phá và bổ sung giả thuyết của Wegener và xây dưng nên "thuyết kiến tạo mảng"
+
+
+== Xem thêm ==
+Kiến tạo mảng
+Danh sách các mảng kiến tạo
+Học thuyết địa máng, một học thuyết đã lỗi thời dùng để giải thích về sự tạo núi.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Bird, P. (2003) Mô hình số hóa được cập nhật về ranh giới các mảng kiến tạo và cũng có sẵn ở dạng tập tin PDF với dung lượng khá lớn (13 MB)
+Bản đồ các mảng kiến tạo

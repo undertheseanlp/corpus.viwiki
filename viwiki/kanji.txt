@@ -1,0 +1,143 @@
+Kanji (漢字 (かんじ), Hán tự), là loại chữ tượng hình mượn từ chữ Hán (hànzì), được sử dụng trong hệ thống chữ viết tiếng Nhật hiện đại cùng với hiragana và katakana. Thuật ngữ tiếng Nhật kanji dùng để chỉ các kí tự Trung Quốc nghĩa đen là " chữ Hán" (Hán tự) và nó được viết cùng kí tự với từ tiếng Trung hànzì.
+
+
+== Lịch sử ==
+Có một số bất đồng về cách thức chữ Hán du nhập vào Nhật Bản, nhưng ý kiến được chấp nhận rộng rãi nhất là các nhà sư đã mang các văn bản chữ Hán vào Nhật vào khoảng thế kỉ thứ 5. Các văn bản này được viết bằng chữ Hán vào và lúc đầu cũng được đọc bằng âm Hán. Tuy nhiên qua thời gian, hệ thống Hán văn (漢文, kanbun) xuất hiện - nó dùng văn bản chữ Hán với dấu thanh cho phép người Nhật đọc nó theo quy tắc ngữ pháp tiếng Nhật.
+Lúc bấy giờ tiếng Nhật chưa có dạng chữ viết. Ngay cả hệ thống chữ viết man'yōgana (万葉仮名, được dùng trong tuyển tập thơ cổ Man'yōshū) cũng dùng bộ chữ kanji với số ký tự hạn chế nhằm ký âm, chứ không nhằm diễn đạt ngữ nghĩa. Man'yōgana viết ở dạng đường cong trở thành hiragana (ひらがな, 平仮名), một hệ thống chữ viết dành cho phụ nữ (không được phép tham gia vào nền giáo dục cao). Hầu hết văn chương của phụ nữ vào thời đại Heian được viết bằng hiragana. Song song đó, katakana (カタカナ, 片仮名) xuất hiện do được các tu sinh giản lược manyogana thành một thành tố đơn. Hiragana và katakana được gọi chung là kana.
+Khi hệ thống chữ viết tiếng Nhật trưởng thành và mở rộng, kanji được dùng để viết một số phần trong câu, như danh từ, tính từ và động từ, còn hiragana được dùng để viết đuôi của động từ (okurigana), từ chỉ có ở tiếng Nhật và từ khó đọc hay nhớ bằng Kanji. Hiragana cũng được dùng trong sách dùng cho trẻ em và khi muốn giảm nhẹ mức độ của từ hoặc lời yêu cầu, thí dụ như từ kudasai (ください, xin vui lòng) và kodomo (子供, trẻ em). Ngược lại, vì có hình dạng góc cạnh, katakana được dùng để biểu thị từ tượng thanh, các âm thô và đột ngột, âm thanh của động vật và từ vay mượn của nước ngoài. Tuy nhiên cần lưu ý rằng việc dùng katakana để viết từ vay mượn chỉ xuất hiện sau này. Lúc đầu, các từ này được viết bằng kanji, dựa theo nghĩa (煙草 tabako, thuốc lá) hay theo phát âm (tempura 天婦羅 hay 天麩羅, tên một món ăn). Ngày nay thì ngược lại. Từ vay mượn, đặc biệt là gốc tiếng Anh, đang nhanh chóng thay thế cả những từ thường dùng có sẵn dạng tương đương trong tiếng Nhật thay vì được dùng để lấp khoảng trống từ vựng. Một giáo sư ngôn ngữ học ước tính đến 1/3 tiếng Nhật văn nói dùng từ vay mượn hay wasei-eigo, từ tiếng Anh được phát minh bởi người Nhật và từ kết hợp như パソコン pasokon (personal computer, máy tính cá nhân)
+
+
+== Phân loại chữ Hán Nhật văn theo lịch sử ==
+
+
+=== Quốc tự (Kokuji) ===
+Trong khi một số từ chữ Hán trong tiếng Nhật và trong tiếng Trung có thể đọc qua lại lẫn nhau, một số từ chữ Kanji của tiếng Nhật không có chữ Hán tương đương trong tiếng Trung. Ngoài những từ được dùng với nghĩa khác, những từ có cùng nghĩa nhưng viết khác, cũng có những từ riêng của tiếng Nhật được gọi là Kokuji (国字), còn được gọi là Wasei kanji (和製漢字, tức Kanji được chế ra tại Nhật). Có hàng trăm chữ Quốc tự (xem danh sách ở sci.lang.japan AFAQ), và mặc dù một số từ này ít được dùng, những từ còn lại đã góp phần quan trọng và ngôn ngữ viết tiếng Nhật. Ví dụ như:
+峠 tōge (đỉnh đèo)
+榊 sakaki (cây sakaki, chi Cleyera)
+畑 hatake (cánh đồng)
+辻 tsuji (ngã tư đường)
+働 dō, hatara(ku) (làm việc)
+
+
+=== Quốc huấn (Kokkun) ===
+Kokkun (国訓) là những chữ Kanji có nghĩa trong tiếng Nhật khác với nghĩa nguyên thuỷ trong tiếng Trung. Thí dụ:
+沖 oki (ngoài khơi; tiếng Trung: chōng rửa)
+椿 tsubaki (Camellia japonica, cây sơn trà Nhật Bản; tiếng Trung: chūn cây xuân Toona spp.)
+
+
+=== Cách viết cũ và mới ===
+
+Một số chữ kanji trong tiếng Nhật có thể được viết theo 2 cách khác nhau: cách viết cũ hay "Kyūjitai" (旧字体（きゅうじたい） - "cựu tự thể") và cách viết mới hay "Shinjitai" (新字体 （しんじたい）- "tân tự thể"). Dưới đây là một số thí dụ về hai cách viết, trong đó cách viết cũ đứng trước cách viết mới:
+國 国 kuni (quốc, tức quốc gia)
+號 号 gō (hào, nghĩa là số, ký hiệu, dấu hiệu)
+變 変 hen, ka(waru) (biến, nghĩa là thay đổi)
+Cổ tự thể được dùng trước khi Chiến tranh thế giới thứ hai kết thúc; sau chiến tranh chính phủ Nhật đưa ra tân tự thể với lối viết đơn giản hóa. Một số chữ mới này tương tự với chữ Hán giản thể được dùng tại Cộng hòa Nhân dân Trung Hoa. Thường thì trong tiếng Nhật, nếu chữ Hán đó có Shinjitai thì Kyujitai sẽ không được sử dụng. Tuy vậy nhiều chữ ở Kyujitai vẫn được dùng thường xuyên dù có Shinjitai, và giữa 2 tự thể còn có thể khác nghĩa. Ví dụ chữ "Long" (ryuu - "rồng"), Kyujitai: 龍, Shinjitai: 竜, đều dùng phổ biến như nhau. Hay chữ "diệp", Kyujitai: 葉 - "は(ha) - lá cây", nhưng ở Shinjitai: 叶, nó chỉ được dùng trong động từ "kanaimasu" - 叶います - "đáp ứng, phù hợp", và không thể tráo đổi 2 thể này ở từ "lá cây" và "đáp ứng" được (tức là muốn viết chữ "diệp" có nghĩa là "lá cây", phải viết chữ 葉, không được viết chữ 叶, dù 2 thể của chữ này trong tiếng Nhật đều được sử dụng phổ biến).
+Cũng có những chữ Hán được dùng trong tiếng Nhật chỉ với mục đích phát âm (当て字 ateji). và nhiều chữ Hán không được dùng trong tiếng Nhật. Tuy nhiên, về mặt lý thuyết, bất cứ chữ Hán nào cũng có thể là chữ Nhật Bản. Đại Hán-Hòa từ điển (大漢和辞典, Morohashi Daikanwa Jiten) là từ điển chữ Hán dùng trong tiếng Nhật lớn nhất cho đến nay; nó có gần 5 vạn mục từ, bao gồm cả những mục từ chưa từng được dùng trong tiếng Nhật.
+
+
+== Ký tự đặc biệt đứng cùng Kanji ==
+Trong tiếng Nhật, có một số ký tự đặc biệt được sử dụng khi viết cùng Kanji:
+Dấu lặp lại Kanji ngay trước - "々" - được gọi là "kurikaeshi" (くりかえし). Ký tự này khi viết sau 1 chữ Hán, ta sẽ đọc nó theo âm của chữ Hán trước nó (tất nhiên sẽ có vài trường hợp biến âm sang âm đục hay âm bán đục cùng hàng). Ký tự này giúp người viết không cần phải viết lại chữ Hán ở trước nó. VD:
+"tokidoki" (ときどき - "thỉnh thoảng") vốn sẽ viết là 2 chữ "thời" - 時時 - trong tiếng Nhật ta sẽ viết 1 chữ "thời" với ký tự này - 時々.
+”hibi” (ひび - "ngày ngày") vốn sẽ viết là 2 chữ "nhật" - 日日 - trong tiếng Nhật ta sẽ viết 1 chữ "nhật" với ký tự này - 日々.
+”iroiro” (いろいろ- "nhiều") vốn sẽ viết là 2 chữ "sắc" - 色色 - trong tiếng Nhật ta sẽ viết 1 chữ "sắc" với ký tự này - 色々.
+Tương tự như vậy trong một số tên của người Nhật: Nene (寧々), Nonohana (野々花),...
+Chữ "ke - ケ" của katakana khi viết nhỏ lại (nhỏ bằng chữ "tsu - っ/ッ" với chức năng là âm ngắt) và đứng cạnh chữ Hán, sẽ được đọc là "ka" hoặc "ga".
+VD: 2ヶ月 (にかげつ - "ni-ka-getsu" - "2 tháng").
+
+
+== Cách đọc ==
+Do cách thức du nhập vào tiếng Nhật, một ký tự kanji có thể được dùng để viết một hoặc nhiều từ (hay hình vị, trong hầu hết các trường hợp) khác nhau. Từ cách nhìn nhận của người đọc, kanji cũng có một hoặc nhiều cách đọc khác nhau. Để quyết định sử dụng cách đọc nào, người ta phải dựa vào văn cảnh, dụng ý, hoàn cảnh phức hợp, thậm chí là vị trí từ kanji đó trong câu. Một số từ kanji thông dụng có từ 10 cách đọc trở lên. Những cách đọc này thường được phân loại thành nhóm on'yomi (hay cách đọc on) hoặc kun'yomi (hay cách đọc kun).
+
+
+=== On'yomi (Cách đọc kiểu Hán) ===
+On'yomi (音読み), cách đọc Hán-Nhật, là sự Nhật hóa cách phát âm tiếng Hán của Hán tự vào thời điểm nó được du nhập vào. Một số ký tự Kanji được du nhập từ các vùng khác nhau của Trung Quốc vào các thời điểm khác nhau, dẫn đến có nhiều on'yomi, và thường có nhiều ý nghĩa. Những kanji được phát minh thêm ở Nhật thường không có on'yomi, nhưng cũng có một số ngoại lệ, chẳng hạn ký tự 働 (động) "làm việc", có kun'yomi là hataraku và on'yomi là dō, hay ký tự 腺 (tuyến), chỉ có cách đọc on'yomi là sen.
+Nhìn chung, on'yomi chia làm 4 kiểu:
+Cách đọc Go-on (呉音 - "Ngô âm" - âm của tiếng Ngô) có xuất xứ từ cách phát âm trong thời kỳ Nam-Bắc triều ở Trung Quốc hay Bách Tế ở Triều Tiên, vào thế kỷ thứ 5 - 6. "Ngô" ở đây chính là khu vực nước Ngô thời Xuân Thu hoặc nước Đông Ngô thời Tam Quốc ở Trung Quốc (đều có có trung tâm là là thành phố Thượng Hải ngày nay).
+Cách đọc Kan-on (漢音 - "Hán âm" - âm của tiếng Hán) có xuất xứ từ cách phát âm trong thời kỳ nhà Đường vào khoảng thế kỷ thứ 7 - 9, chủ yếu lấy cách phát âm ở kinh đô Trường An (長安,长安) của nhà Đường làm tiêu chuẩn.
+Cách đọc Tō-on (唐音 - "Đường âm") có xuất xứ từ cách phát âm của các triều đại sau đó, như nhà Tống (宋) và nhà Minh (明). Đây là cách đọc chủ yếu được du nhập trong các thời kỳ Heian (平安) cho đến Edo (江戸). Ngoài ra còn một dạng khác là Tōsō-on (唐宋音 - "Đường Tống âm").
+Cách đọc Kan'yō-on (慣用音 - "Quán dụng âm"- âm đọc theo thói quen) là những cách đọc ra đời do bị biến đổi, nhầm lẫn và được người Nhật chấp nhận trong ngôn ngữ của họ.
+Các ví dụ (những cách đọc hiếm dùng nằm trong dấu ngoặc đơn)
+Kiểu đọc thông dụng nhất là kan-on. Cách đọc go-on đặc biệt thông dụng trong các thuật ngữ đạo Phật, chẳng hạn gokuraku 極楽 "cực lạc". Cách đọc tō-on được dùng trong một số từ như isu 椅子 (ỷ tử) "chiếc ghế" hay futon 布団 (bố đoàn) "tấm nệm".
+Trong tiếng Hán, hầu hết các ký tự chỉ có một âm tiết tiếng Hán duy nhất. Tuy nhiên, một số từ đồng chuế khác nghĩa (cùng cách viết, khác ý nghĩa) được gọi là 多音字 (đa âm tự - bính âm: duōyīnzì) như 行 (hành - bính âm: háng hay xíng) (tiếng Nhật: kō, gyō) có nhiều hơn một cách đọc biểu diễn những ý nghĩa khác nhau, điều này cũng được phản ánh ở sự tiếp nhận trong tiếng Nhật. Ngoài ra, nhiều âm tiết tiếng Hán, đặc biệt là các âm tiết với thanh nhập (入声), không tương thích với các âm vị phụ-nguyên âm dùng rộng rãi trong tiếng Nhật cổ. Do đó hầu hết on'yomi được hình thành bởi hai morae (âm tiết hay nhịp), mora thứ hai có thể là sự kéo dài của nguyên âm trong mora thứ nhất, hoặc là một trong các âm tiết ku, ki, tsu, chi, hoặc âm tiết n, và được lựa chọn một cách tương đương nhất so với các nguyên âm cuối trong tiếng Hán trung cổ. Thực tế, các phụ âm vòm ở trước các nguyên âm không phải là i, cũng như âm tiết n, có lẽ đã được thêm vào tiếng Nhật để mô phỏng dễ hơn tiếng Hán; không đặc điểm nào trong số này xảy ra trong tiếng Nhật nguyên gốc.
+On'yomi được dùng chủ yếu trong các từ ghép kanji (熟語 jukugo thục ngữ), một số là kết quả do du nhập cùng với chính những ký tự kanji đó từ các từ các từ tiếng Hán do có thể không tồn tại trong tiếng Nhật hoặc không thể phát âm rõ ràng nếu chỉ sử dụng ngôn ngữ bản địa. Quá trình vay mượn ngôn ngữ này tương tự với quá trình vay mượn các từ tiếng Latin hoặc tiếng Pháp Noóc-măng đối với tiếng Anh, hay vay mượn các từ tiếng Pháp hoặc tiếng Anh đối với tiếng Việt; bởi các thuật ngữ mượn tiếng Hán thường có tính chuyên môn hóa uyên bác, âm tiết kiểu cách hơn so với từ bản địa tương ứng. Ngoại lệ đáng kể nhất trong nguyên tắc này là tên họ, trong đó thường sử dụng cách đọc kun'yomi hơn.
+
+
+=== Kun'yomi (cách đọc kiểu Nhật) ===
+Cách đọc kiểu Nhật hay cách đọc bản địa, kun'yomi (訓読み), là cách đọc một chữ kanji lấy nghĩa, dựa trên cách phát âm của một từ tương đương tiếng Nhật, tức yamatokotoba. Cách đọc này chuyển nghĩa của kanji sang một chữ tương xứng nhất trong tiếng Nhật. Giống với on'yomi, mỗi kanji có thể có một hoặc nhiều cách đọc. Có khi kanji đó chỉ có on'yomi mà không có kun'yomi.
+Lấy ví dụ, ký tự kanji 東, "phía đông", có cách đọc on'yomi là tō. Tuy nhiên, tiếng Nhật vốn đã có 2 từ mang nghĩa "phía đông" là: higashi và azuma. Do đó, ký tự 東 có những cách đọc kun là higashi và azuma. Ngược lại, ký tự kanji 寸, "thốn", biểu thị một đơn vị đo chiều dài trong tiếng Hán (xấp xỉ 3 cm), tiếng Nhật bản địa không có từ nào mang nghĩa tương đương. Do đó, nó chỉ có cách đọc on là sun và không có cách đọc kun nào. Hầu hết các kokuji, tức các ký tự kanji do người Nhật tạo ra thêm, chỉ có các cách đọc kun.
+Đặc trưng của kun'yomi được quyết định bởi cấu trúc âm tiết (phụ)-nguyên của yamatokotoba. Hầu hết các kun'yomi của danh từ và tính từ thường có độ dài từ 2 đến 3 âm tiết, không tính các ký tự hiragana đi kèm có tên gọi okurigana. Okurigana không được xem là một phần trong bản chất cách đọc của ký tự, mặc dù chúng là một phần trong cách đọc của toàn bộ từ. Người mới học tiếng Nhật có thể ít khi gặp phải các ký tự có cách đọc dài, nhưng những cách đọc có ba bốn âm tiết hay thậm chí nhiều hơn không hề hiếm. Những ký tự như 承る uketamawaru và 志 kokorozashi có đến 5 âm tiết chỉ để biểu đạt một ký tự kanji, đây là những cách đọc dài nhất trong số các kanji nằm trong bộ Jōyō kanji.
+Trong một số trường hợp, nhiều hơn một từ kanji được dùng để biểu diễn một từ tiếng Nhật duy nhất. Điều này thường xảy ra khi những từ kanji khác nhau biểu diễn những sắc thái ý nghĩa khác nhau. Chẳng hạn, từ なおす (naosu) có nghĩa là "sửa", "chữa", nhưng khi viết là 治す thì mang nghĩa là "chữa bệnh" (sinh vật sống), còn khi viết là 直す thì mang nghĩa là "sửa chữa cái gì đó" (đồ vật). Đặc điểm phân biệt nhiều khi rất rõ ràng nhưng không phải lúc nào cũng vậy. Sự khác biệt quan điểm giữa các tài liệu tham khảo không phải là hiếm; một cuốn từ điển có thể nói rằng những từ kanji này là tương đương, trong khi một cuốn từ điển khác lại chỉ ra những điểm khác biết trong cách dùng. Kết quả là, người bản địa cũng có thể không nắm rõ từ kanji nào được dùng, họ dựa vào sở thích cá nhân hoặc đành viết từ đó bằng hiragana. Thói quen này thường gặp đối với những trường hợp phức tạp như từ もと moto, có thể viết bằng ít nhất 5 ký tự kanji: 元, 基, 本, 下 và 素, ba ký tự đầu trong số đó chỉ có rất ít sự khác biệt về sắc thái.
+Những cách đọc kanji trong ngôn ngữ địa phương cũng được phân loại bằng kun'yomi, cách đọc đáng chú ý nhất là trong tiếng Ryukyu.
+
+
+=== Những cách đọc khác ===
+Có nhiều từ ghép kanji sử dụng kết hợp cách đọc on'yomi và kun'yomi, gọi là các từ jūbako (重箱) hay yutō (湯桶), chúng chính là những ví dụ của loại từ ghép này (chúng là những từ tự diễn giải): ký tự đầu tiên của jūbako được đọc bằng on'yomi, ký tự thứ hai dùng kun'yomi, những cách đọc khác liên quan đến yutō. Đó là dạng từ lai trong tiếng Nhật. Có thể kể một số ví dụ khác, như 場所 basho "nơi, địa điểm" (cách đọc kun-on), 金色 kin'iro "màu vàng kim" (on-kun) hay 合気道 aikidō "môn võ Aikido" (kun-on-on).
+Một số kanji cũng có những cách đọc ít được biết đến hơn gọi là nanori (名乗り), hầu hết được dùng cho tên người, và thường liên quan đến cách đọc kun'yomi. Tên địa danh đôi khi cũng dùng cách đọc nanori hoặc, thỉnh thoảng hơn, có những cách đọc rất riêng không theo quy luật nào cả.
+Gikun (義訓) hay jukujikun (熟字訓 thục tự huấn) là những cách đọc các từ ghép kanji không tương ứng với cả on'yomi hay kun'yomi của mỗi ký tự trong từ đó. Lấy ví dụ, 今朝 ("sáng nay") không đọc là *ima'asa - tương ứng với kun'yomi của mỗi ký tự -, cũng không đọc là *konchō - tương ứng với on'yomi của mỗi ký tự -, mà được đọc là kesa — một từ tiếng Nhật Bản địa có 2 âm tiết (đây có thể được xem là một hình vị đơn nhất, hoặc sự hợp nhất của 今日　kyō (trước đây là kefu), "hôm nay", và 朝 asa, "buổi sáng").
+Nhiều ateji (当て字, kanji chỉ dùng để biểu diễn ngữ âm) có các ý nghĩa được suy ra từ cách dùng của chúng: ví dụ, từ cổ 亜細亜 ajia trước đây được dùng để biểu diễn "Asia" (châu Á) bằng kanji; ký tự 亜 (á) ngày nay có nghĩa là "Asia" (châu Á) trong những từ ghép như 東亜 tōa, "Đông Á". Từ cách viết 亜米利加 amerika, "Hoa Kỳ", lấy ra ký tự thứ 2, tạo thành từ gần chính thức 米国 beikoku, dịch sát nghĩa là "mễ quốc" nhưng vẫn mang nghĩa "Hoa Kỳ".
+
+
+=== Khi nào dùng cách đọc nào ===
+Mặc dù có nhiều quy tắc khi nào dùng cách đọc on'yomi hay khi nào dùng kun'yomi, trong tiếng Nhật tràn ngập các trường hợp không theo quy tắc, và ngay cả người bản địa không phải lúc nào cũng có thể biết cách đọc của một ký tự nếu không có kiến thức tốt.
+Quy tắc vỡ lòng là đối với những kanji độc lập, chẳng hạn một ký tự biểu diễn một từ đơn nhất, thường được đọc bằng cách đọc kun'yomi của chúng. Chúng có thể được viết cùng với okurigana để biểu đạt biến cách kết thúc của động từ hay tính từ, hay do qui ước. Ví dụ: 情け nasake "sự cảm thông", 赤い akai "đỏ", 新しい atarashii "mới", 見る miru "nhìn", 必ず kanarazu "nhất định, nhất quyết". Okurigana là một khía cạnh quan trọng trong cách dùng kanji trong tiếng Nhật; xem bài viết đó để biết thêm về kun'yomi.
+Các từ ghép kanji nhìn chung được đọc bằng on'yomi, trong tiếng Nhật gọi là 熟語 jukugo (thục ngữ). Ví dụ, 情報 jōhō "thông tin", 学校 gakkō "trường học", và 新幹線 shinkansen "tàu tốc hành" đều tuân theo dạng này. Sự khác nhau giữa quy tắc đọc kanji độc lập và ghép làm cho nhiều từ có ý nghĩa gần giống nhau nhưng lại có cách đọc hoàn toàn khác nhau. 東 "hướng đông" và 北 "hướng bắc" khi đứng độc lập dùng cách đọc kun tương ứng là higashi và kita, trong khi từ ghép 北東 "hướng đông bắc" lại dùng cách đọc on là hokutō. Điều này còn phức tạp hơn bởi thực tế nhiều kanji có nhiều hơn một cách đọc on'yomi: 生 đọc là sei trong từ 先生 sensei "giáo viên" nhưng lại đọc là shō trong 一生 isshō "cả đời người". Ý nghĩa cũng có thể là tác nhân đối với cách đọc; 易 đọc là i khi nó mang nghĩa "đơn giản", những lại thành eki khi nó mang nghĩa "tiên đoán, bói toán", cả hai cách đọc đều là on'yomi của ký tự này.
+Quy tắc vỡ lòng này cũng có rất nhiều ngoại lệ. Số lượng những từ ghép đọc bằng kun'yomi không lớn như on'yomi, nhưng cũng không phải là hiếm. Chẳng hạn như 手紙 tegami "thư", 日傘 higasa "cái ô", hay một từ khá nổi tiếng 神風 kamikaze "ngọn gió thần thánh". Những từ ghép như thế cũng có thể có okurigana, như 空揚げ (còn được viết là 唐揚げ) karaage "đồ ăn chiên" và 折り紙 origami "nghệ thuật gấp giấy", mặc dù nhiều khi chúng được viết bỏ đi okurigana (ví dụ, 空揚 hay 折紙).
+Tương tự, một số ký tự on'yomi cũng có thể được dùng như một từ khi đứng độc lập: 愛 ai "tình yêu", 禅 Zen "thiện", 点 ten "dấu chấm". Hầu hết các trường hợp này liên quan đến những kanji không có kun'yomi, nên có thể không có sự nhầm lẫn, mặc dù vẫn có các ngoại lệ. Ký tự độc lập 金 có thể đọc là kin "tiền, vàng" hoặc cũng có thể là kane "tiền, kim loại"; chỉ có cách dựa vào ngữ cảnh mới biết được cách đọc và ý nghĩa trong dụng ý của người viết.
+Do có nhiều cách đọc nên số lượng từ cùng cách viết khác ý nghĩa cũng tăng lên, nhiều khi chúng có các ý nghĩa khác nhau phụ thuộc vào cách đọc. Lấy một ví dụ là từ 上手, có thể đọc theo 3 cách khác nhau: jōzu (khéo léo, giỏi), uwate (phần trên), hoặc kamite (phần trên). Thêm nữa, từ 上手い lại được đọc là umai (khéo léo, giỏi). Người ta thường furigana trong những trường hợp này để làm rõ sự nhập nhằng về ý nghĩa.
+Như đã nói ở trên, cách đọc 重箱 jūbako và 湯桶 yutō cũng không hề hiếm. Thực tế, toàn bộ 4 kiểu kết hợp cách đọc đều có thể xảy ra: on-on, kun-kun, kun-on và on-kun.
+Nhiều tên địa danh nổi tiếng, như Tokyo (東京 Tōkyō) hay ngay cả tên Nhật Bản (日本 Nihon hoặc nhiều khi đọc là Nippon) được đọc bằng on'yomi; tuy nhiên, đại đa số tên địa danh ở Nhật được đọc bằng kun'yomi: 大阪 Ōsaka, 青森 Aomori, 箱根 Hakone. Khi các ký tự được dùng để viết tắt tên địa danh, cách đọc của chúng có thể không như nguyên gốc. Đội bóng chày của Osaka (大阪) và Kobe (神戸) có tên gọi Hanshin (阪神) Tigers, được lấy từ cách đọc on'yomi của ký tự kanji thứ 2 trong từ Ōsaka và đầu tiên trong từ Kōbe. Tên của tuyến đường sắt Keisei (京成) nối thành phố Tokyo (東京) và Narita (成田) cũng tương tự như vậy, nhưng cách đọc ký tự 京 trong 東京 lại biến thành kei, mặc dù kyō là một cách đọc on'yomi trong từ Tōkyō.
+Tên họ của người Nhật cũng thường được đọc bằng kun'yomi: 山田 Yamada, 田中 Tanaka, 鈴木 Suzuki. Tên riêng tuy không hẳn được đọc theo kiểu jūbako hay yutō đã đề cập, mà cũng bao gồm lẫn lộn kun'yomi, on'yomi và nanori: 大助 Daisuke [on-kun], 夏美 Natsumi [kun-on]. Do các bậc cha mẹ thường tự lựa chọn theo ý riêng, nên cách đọc tên riêng thường không theo bất kỳ quy tắc nào và cũng không thể biết chắc chắn cách đọc tên riêng của một người nếu không xác định lại. Người đặt tên có thể khá sáng tạo, có những đứa trẻ mang tên 地球 Āsu hay 天使 Enjeru, nghĩa đen tương ứng là "Địa Cầu" và "Thiên Sứ", những cách phát âm cũng gần giống các từ tiếng Anh "Earth" và "Angel" (khi được Nhật hóa phát âm); chúng không phải là tên phổ biến, cách đọc thông thường của 2 từ này tương ứng là chikyū và tenshi. Tuy nhiên, luôn có những quy tắc phổ biến giúp người đọc có kinh nghiệm có thể đoán trước khá chính xác cách đọc của hầu hết tên riêng.
+
+
+=== Hỗ trợ phát âm ===
+Do thường xảy ra các trường hợp tối nghĩa, kanji nhiều khi được viết kèm theo cách phát âm trong văn cảnh đó, bằng cách dùng các ký tự rubi (ルビ) gọi là furigana (những ký tự kana nhỏ viết kèm theo bên trên - khi viết theo hàng ngang - hoặc bên phải - khi viết theo hàng dọc - của ký tự kanji) hay kumimoji (những ký tự kana nhỏ nằm ngay trên dòng viết ngay sau ký tự kanji). Kiểu viết này đặc biệt thường gặp trong các văn bản dành cho trẻ em hoặc người nước ngoài, và trong manga (truyện tranh Nhật Bản). Nó cũng thường được dùng trên báo chí để diễn đạt những cách đọc hiếm dùng hay những ký tự không có trong bảng kanji thường dùng đã được công nhận chính thức.
+
+
+== Tổng số chữ Kanji trong tiếng Nhật ==
+Đây đang là con số bị tranh cãi. Đại Hán họa Từ điển - từ điển chữ Hán được Haruo Shirane đánh giá là cực kỳ đáng tin cậy - có chứa khoảng 5 vạn chữ Hán và được cho là khá đầy đủ. Tuy nhiên những từ điển tiếng Trung gần đây có đến trên 8 vạn chữ Hán, nhiều ký tự bao gồm cả những biến thể rất ít biết đến. Hầu hết số đó đều không phổ biến ở cả Nhật Bản và Trung
+
+
+== Cải cách chính tả và các danh sách chữ Hán trong tiếng Nhật ==
+
+
+=== Kyōiku kanji ===
+
+
+=== Jōyō kanji ===
+
+
+=== Jinmeiyō kanji ===
+
+
+=== Hyōgaiji ===
+
+
+=== Các tiêu chuẩn công nghiệp Nhật Bản đối với kanji ===
+
+
+=== Gaiji ===
+
+
+== Các thể loại kanji ==
+
+
+== Giảng dạy chữ Kanji trong tiếng Nhật ==
+
+Học sinh tiểu học ở Nhật được dạy và cố gắng nắm được 1.006 ký tự kanji cơ bản trong "Kyōiku kanji" (教育漢字) trước khi kết thúc lớp sáu. Thứ tự các ký tự được học đã được thay đổi. Danh sách Kyōiku kanji là một phần của danh sách lớn hơn bao gồm 1.945 chữ Hán gọi là "Jōyō kanji" (常用漢字) - đây là những ký tự cần phải nắm được để có thể đọc tốt sách báo tiếng Nhật. Các học sinh Nhật thường nắm bắt được danh sách lớn hơn trước khi kết thúc lớp chín. Học sinh tiểu học học các ký tự này bằng cách bắt chước và học các bộ.
+Các học viên học tiếng Nhật như một ngoại ngữ thường phải học chữ kanji mà không nắm được trước những từ vựng liên quan đến chúng. Do vậy, giải pháp cho những học viên này rất đa dạng, từ những phương pháp bắt chước, học thuộc lòng, hay các phương pháp sao cho dễ nhớ hơn, như dùng hình ảnh, hay những cách liên tưởng. Những học viên tiếng Nhật là người nói tiếng Việt thường cố gắng học thuộc cả phiên âm Hán Việt của ký tự đó (trừ những kokuji do người Nhật tự sáng chế) để dễ đoán nghĩa các từ vựng được viết bằng ký tự đó, hoặc một số người học thuộc các nét bộ như khi học tiếng Hán.
+Chính phủ Nhật Bản đưa ra các kỳ thi "kiểm định thí nghiệm" (Kanji kentei), viết tắt của 日本漢字能力検定試験 (Nihon kanji nōryoku kentei shiken có nghĩa là "Kiểm tra năng lực nắm bắt chữ Kanji trong tiếng Nhật") để kiếm tra khả năng đọc và viết chữ Kanji. Cấp độ cao nhất của kỳ thi này kiểm tra trong phạm vi khoảng 6.000 chữ Kanji.
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+RomajiDesu Kanji Lookup Tìm Kanji theo nhiều bộ thủ/chi tiết, hỗ trợ hướng dẫn viết Kanji.
+Chuyển đổi Kanji thành Romaji, Hiragana Chuyển đổi văn bản hay trang web có chứa kanji thành các dạng dễ đọc hơn, và dịch nghĩa (tiếng Anh) từng từ một.
+Tangorin Tìm kanji bằng cách lựa chọn các chi tiết của nó.
+Từ điển Hán Việt Từ điển Hán Việt dùng cho điện thoại Blackberry, giúp bạn tra cứu kanji với nhiều ví dụ được lấy từ các bài thi năng lực nhật ngữ đã được dịch ra tiếng việt.
+
+
+== Xem thêm ==
+Danh sách kanji theo số nét

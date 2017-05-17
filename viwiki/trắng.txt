@@ -1,0 +1,41 @@
+Màu trắng là màu có độ sáng cao nhưng giá trị màu sắc bằng 0. (Chính xác hơn thì nó chứa toàn bộ các màu của quang phổ và đôi khi được miêu tả như màu tiêu sắc — màu đen thì là sự vắng mặt của các màu). Cảm giác về ánh sáng trắng có thể được tạo ra bằng cách phối trộn (thông qua một quy trình gọi là "phối trộn bổ sung") của các màu gốc của quang phổ với các cường độ thích hợp: màu đỏ, màu xanh lá cây, màu xanh lam, nhưng cần phải lưu ý rằng việc chiếu sáng thông qua kỹ thuật này có sự khác biệt đáng kể với những nguồn sáng trắng (xem dưới đây).
+
+
+== Ánh sáng trắng ==
+Ánh sáng trắng là hỗn hợp của tất cả ánh sáng đơn sắc, trong đó có bảy màu cơ bản: đỏ, cam, vàng, lục, lam, chàm, tím. Ánh sáng trắng là một trường hợp của ánh sáng phức tạp hay ánh sáng đa sắc. Trước khi các công trình của Newton được chấp nhận, phần lớn các nhà khoa học tin rằng màu trắng là màu nền tảng của ánh sáng; và các màu khác chỉ được tạo thành bằng cách bổ sung thêm một cái gì đó vào ánh sáng. Newton đã chứng minh rằng màu trắng được tạo thành bởi tổ hợp của các màu khác. Newton đã chiếu một chùm tia sáng Mặt Trời qua một lăng trụ kính rồi chiếu lên tường. Những gì thu được từ thí nghiệm của Newton cho thấy ánh sáng trắng không hề "nguyên chất", mà nó là tổng hợp của một dải quang phổ 7 màu cơ bản: đỏ, da cam, vàng, xanh lá cây, xanh nước biển, chàm, tím. Thí nghiệm này thể hiện hiện tượng tán sắc ánh sáng. Để thử lại xem có phải thủy tinh đã làm thay đổi ánh sáng trắng chiếu vào nó không, Newton đã làm thí nghiêm sau: Tách một chùm có màu xác định thu được trong thí nghiêm trên rồi cho chùm này đi qua lăng kính một lần nữa. Kết quả thí nghiệm cho thấy màu sắc của chùm tia sáng này không đổi.
+Trong khoa học về ánh sáng, tồn tại một tập hợp liên tục của các màu ánh sáng mà có thể gọi là "màu trắng". Một tập hợp của các màu có thể xứng đáng với miêu tả này là các màu phát xạ trong quá trình gọi là nóng sáng, bởi vật đen tại các nhiệt độ cao tương đối khác nhau. Ví dụ, màu của vật đen ở nhiệt độ 2.848 K phù hợp với những nguồn sáng phát ra bởi các thiết bị chiếu sáng trong nhà như đèn dây tóc. Người ta nói rằng "nhiệt độ màu của những đèn như vậy là 2.848 K". Ánh sáng trắng sử dụng để chiếu sáng trong nhà hát có nhiệt độ màu khoảng 3.200 K. Ánh sáng ban ngày có nhiệt độ màu danh nghĩa là 5.400 K (được gọi là màu trắng cân bằng nhiệt) nhưng nó có thể dao động từ đỏ tới hơi xanh (25.000 K). Không phải mọi bức xạ của vật đen có thể cho là ánh sáng trắng: bức xạ nền của vũ trụ là một ví dụ rõ ràng, chỉ có nhiệt độ vài kelvin và nó là hoàn toàn không nhìn thấy.
+
+
+== Các màu trắng tiêu chuẩn ==
+Các màu trắng tiêu chuẩn thông thường được định nghĩa với dẫn chiếu đến biểu đồ màu sắc của Ủy ban quốc tế về chiếu xạ (CIE). Các màu này nằm trong chuỗi D của các chiếu xạ tiêu chuẩn. Chiếu xạ D65, nguyên gốc tương ứng với màu của nhiệt độ 6.500 K, nó được chọn để thể hiện ánh sáng tiêu chuẩn ban ngày.
+
+
+== Vẽ, nhuộm, sơn ==
+Trong vẽ, nhuộm hay sơn cảm giác về màu trắng có thể được tạo ra theo một trong hai cách sau: phản xạ ánh sáng bao quanh một nền trắng hay sử dụng các chất màu tạo cảm giác màu trắng để vẽ, sơn, nhuộm.
+Màu trắng khi trộn với màu đen sẽ cho màu xám. Đối với các sinh viên theo học ngành nghệ thuật đồ họa, việc sử dụng màu trắng có thể nảy sinh các vấn đề nào đó, do đó luôn luôn có ít nhất một học trình về việc sử dụng màu trắng trong nghệ thuật.
+
+
+== Máy tính ==
+Các màn hình máy tính thông thường có chức năng quản lý nhiệt độ màu, cho phép người sử dụng lựa chọn nhiệt độ màu (thông thường thông qua một tập hợp nhỏ các giá trị cố định trước) của ánh sáng phát xạ khi máy tính cung cấp các tín hiệu điện tử phù hợp với "màu trắng". Tọa độ RGB của màu trắng là (255, 255, 255).
+
+
+== Tọa độ màu ==
+
+Số Hex = #FFFFFF
+RGB    (r, g, b)    =  (255, 255, 255)
+CMYK   (c, m, y, k) =  (0, 0, 0, 0)
+HSV (h, s, v) =  (0, 0, 100)
+
+
+== Sử dụng, biểu tượng ==
+Thuật ngữ da trắng để chỉ những người có nguồn gốc Kavkaz, chủ yếu là người phương Tây như châu Âu, Tây Á v.v với nước da sáng. Trên thực tế, nước da của những người này dao động trong khoảng từ hồng đến nâu nhạt.
+Ở Trung Quốc, Việt Nam, Ấn Độ màu trắng có thể bị coi là màu của chết chóc, tang lễ hay ma quỷ. Tuy vậy, dưới ảnh hưởng của các văn hóa Tây phương, nó lại là màu trang phục của cô dâu trong đám cưới hay chỉ sự trinh bạch, trong sáng, ngây thơ.
+Quân trắng là thuật ngữ để chỉ một bên trong các môn cờ chơi trên bảng như cờ vua, cờ vây.
+Cờ trắng là dấu hiệu quốc tế của sự đầu hàng hoặc ngừng bắn, điều đó có nghĩa nó là xu hướng của hòa bình, thông thường trong thời gian chiến tranh.
+
+
+== Xem thêm ==
+Danh sách màu
+
+
+== Tham khảo ==

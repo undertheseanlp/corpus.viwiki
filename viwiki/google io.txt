@@ -1,0 +1,139 @@
+Bản mẫu:Self-published
+Bản mẫu:Third-party
+
+Google I/O là hội nghị thường niên dành cho các lập trình viên được tổ chức bởi Google tại San Francisco, California. Google I/O mang đến những bài thuyết trình chuyên sâu về công nghệ mà trọng tâm là phát triển web, nền tảng di động, và những ứng dụng thương mại được xây dựng bằng các công nghệ web mở từ Google. Các sản phẩm cụ thể được đề cập là Android, Chrome, Chrome OS, Google APIs, Google Web Toolkit, App Engine...
+Google I/O được bắt đầu vào 2008. Từ "I" và "O" viết tắt của input/output, và "Innovation in the Open". Thể loại của sự kiện này tương tự như Google Developer Day.
+
+
+== 2008 (28–29 tháng 5 năm 2008) ==
+Chủ đề chính là OpenSocial, App Engine, Android, Google Maps API, và Google Web Toolkit.
+Những gười phát biểu bao gồm David Glazer, Alex Martelli, Steve Souders, Dion Almaer, Mark Lucovsky, Guido van Rossum, Jeff Dean, Chris DiBona, Josh Bloch, Raffaello D’Andrea, và Geoff Stearns.
+
+
+== 2009 (27–28 tháng 5 năm 2009) ==
+Chủ đề chính là Android, App Engine, Chrome, Google Web Toolkit, OpenSocial, Google AJAX APIs, và Google Wave.
+Những người phát biểu gồm Aaron Boodman, Adam Feldman, Adam Schuck, Alex Moffat, Alon Levi, Andrew Bowers, Andrew Hatton, Anil Sabharwal, Arne Roomann-Kurrik, Ben Collins-Sussman, Ben Galbraith, Ben Lisbakken, Brad Chen, Brady Forrest, Brandon Barber, Brett Slatkin, Brian Fitzpatrick, Brian McRae, Bruce Johnson, Casey Whitelaw, Charles McCathieNevile, Charles Chen, Chewy Trewhalla, Chris Chabot, Chris DiBona, Chris Mertens, Chris Nesladek, Chris Pruett, Chris Schalk, Cody Simms, Cyrus Mistry, Damon Lundin, Dan Bornstein, Dan Holevoet, Dan Morrill, Dan Peterson, Daniel Jefferies, Daniel S. Wilkerson, Dave Bort, Dave Carroll, Dave Day, Dave Peck, David King, David Sehr, David Sparks, DeWitt Clinton, Derek Collison, Dhanji Prasanna, Dion Almaer, Don Schwarz, Eric Bidelman, Eric Sachs, Gerardo Capiel, Gregg Tavares, Guido van Rossum, Guillaume Laforge, Henry Chan, Ian Fette, Iein Valdez, Itai Raz, Jacob Lee, Jeff Fisher, Jeff Ragusa, Jeff Sharkey, Jeffrey Sambells, Jerome Mouton, Jesse Kocher, et al.
+Quà tặng phần cứng cho người tham dự:
+T-Mobile myTouch 3G
+
+
+== 2010 (19–20 tháng 5 năm 2010) ==
+Chủ đề chính là Android, App Engine, Chrome, Enterprise, Geo, Google APIs, Google TV, Google Web Toolkit, trang mạng xã hội, và Google Wave.
+Những người phát biểu bao gồm Aaron Koblin, Adam Graff, Adam Nash, Adam Powell, Adam Schuck, Alan Green, Albert Cheng, Albert Wenger, Alex Russell, Alfred Fuller, Amit Agarwal, Amit Kulkarni, Amit Manjhi, Amit Weinstein, Anders Sandholm, Angus Logan, Anne Veling, Arne Roomann-Kurrik, Bart Locanthi, Ben Appleton, Ben Cheng, Ben Collins-Sussman, et al.
+Quà tặng phần cứng cho người tham dự:
+Tại sự kiện: HTC Evo 4G
+Trước sự kiện: người tham dự Mỹ: Motorola Droid
+Trước sự kiện: người tham dự không phải Mỹ: HTC Nexus One
+
+
+== 2011 (10–11 tháng 5 năm 2011) ==
+
+Chủ đề chính của ngày đầu là Android, ngày thứ hai là - Chrome và Chrome OS.
+Phần công bố chính về Android:
+Google Music - Một dịch vụ âm nhạc trực tuyến không dây giống như Amazon Cloud Player và Spotify
+Bản cập nhật Honeycomb 3.1 - Cho phép thiết bị chạy honeycomb chuyển trực tiếp nội dung từ thiết bị USB
+Ice Cream Sandwich - Phiên bản hợp nhất Honeycomb và Gingerbread thành một OS
+Phần công bố chính về Chrome và Chrome OS:
+Chromebook từ Samsung và Acer bắt đầu bán vào 15 tháng 6
+Các ứng dụng Chrome Web Store có thể tích hợp thanh toán ngay trong ứng dụng với 5% phí
+Phiên bản web của Angry Birds
+Quà tặng phần cứng cho người tham dự:
+Samsung Galaxy Tab 10.1
+Samsung Series 5 Chromebook
+Verizon MiFi Mobile Hotspot 
+
+
+== 2012 (27–29 tháng 6 năm 2012) ==
+Được tổ chức tại Moscone Center West ở San Francisco và kéo dài đến 3 ngày, thay vì 2 ngày như thông thường.
+Google tặng phần cứng cho người tham dự:
+Samsung Galaxy Nexus
+Asus Nexus 7
+Nexus Q
+Samsung Chromebox
+
+
+=== Ngày 1 ===
+Chủ đề chính xuyên suốt trong ngày là Android, Google+ và Project Glass. Phần keynote được tổ chức cùng ngày.
+Công bố chính thức bao gồm:
+Android 4.1 ("Jelly Bean")
+Project Butter
+Google Now
+
+Giới thiệu Nexus 7
+Giới thiệu Nexus Q
+Project Glass
+Hơn 400 triệu thiết bị Android được kích hoạt trên toàn cầu
+Dich vụ In-App Payments được bổ sung nhiều tùy chọn về mức giá và thuê bao khi tích hợp với Google Wallet
+Bản đồ ngoại tuyến cho Android
+Phiên bản 2 của Google Drive SDK
+Ứng dụng Google+ Hangout và các số liệu
+Chế độ xem 3D mới cho Google Earth cho Android
+Điểm mới và cập nhật của Youtube API
+Dữ liệu giao thông công cộng hiện đã tích hợp trong Google Maps API
+Cập nhật ứng dụng YouTube cho Android
+
+
+=== Ngày 2 ===
+Chủ đề chính xuyên suốt trong ngày là Google Chrome, The Cloud và Project Glass. Phần keynote thứ hai (và cuối cùng) được tổ chức vào ngày này.
+Công bố chính thức bao gồm:
+Google Chrome hiện có 310 triệu người dùng tích cực trên toàn thế giới
+Gmail hiện có 425 triệu người dùng tích cực trên toàn thế giới
+Nền tảng Google+ cho điện thoại (bao gồm SDK cho Android và iOS)
+Các bản phát hành chính thức bao gồm:
+Google Chrome cho Android được nâng cấp lên phiên bản ổn định
+Google Chrome cho iOS
+Google Drive cho iOS
+Google Docs hiện đã có thể hoạt động ngoại tuyến
+Google Compute Engine và IaaS cho phép người dùng chạy khối lượng công việc nặng trên Linux Virtual Machine lưu trữ trên cơ sở hạ tầng của Google
+Bản đồ nhiệt và biểu tượng được thêm vào Google Maps API
+Các cải tiến dành cho Styled Maps được thêm vào Google Maps API
+
+
+=== Ngày 3 ===
+Chính thức công bố bao gồm:
+Mobile App Analytics
+Chính thức phát hành bao gồm:
+Google Analytics cho Android
+
+
+== 2013 (15–17 tháng 5 năm 2013) ==
+Google I/O 2013 được tổ chức tại Moscone Center, San Francisco. Công bố cập nhật cho Android, Chrome OS, Google Chrome và một số thiết bị khác dự kiến trong suốt hội nghị. Việc đăng ký mở cửa vào 13 tháng 3 năm 2013 lúc 7:00 AM PDT (GMT-7). Chỉ trong vòng 49 phút cho tất cả $900 (hoặc $300 cho học sinh và giảng viên) vé đã bán hết, mặc dù yêu cầu đăng ký có thêm điều kiện là phải có tài khoản Google+ và Google Wallet.
+Có một đội tàu bay điều khiển từ xa, trang bị máy ảnh, một máy quay toàn cảnh trong Google I/O, trực tiếp trên www.ioairshow.com
+
+
+=== Ngày 1 ===
+Công bố và giới thiệu:
+Google Play Music All Access (đăng ký trực tuyến)
+Google Play Games
+Cập nhật dịch vụ Google Play
+Google Play cho giáo dục
+Android Studio môi trường phát triển
+Samsung Galaxy S4 với Android gốc bán trên Google Play
+Google+ thiết kế lại với sự nhấn mạnh về quản lý hình ảnh và chia sẻ
+Google Hangouts, cập nhật tin nhắn tức thời
+Thiết kế lại Google Maps máy tính bàn và ứng dụng Android
+Cập nhật ứng dụng Google Search cho Android
+Android vượt 900 triệu kích hoạt toàn cầu
+Google App Engine hiện hỗ trợ PHP
+Google TV cập nhật Android 4.2.2 Jelly Bean
+
+
+=== Ngày 2 ===
+Chủ đề chính trong ngày là ứng dụng Google Glass và phát triển Google+.
+Quà phần cứng cho người tham dự:
+Google Chromebook Pixel
+
+
+== Tham khảo ==
+
+
+== Liên kết ==
+Website chính thức
+Google I/O on Google Buzz
+Google I/O on Twitter (official hashtags: #io2008, #io2009, #io2010,#io11, #io12)
+Google I/O 2008 Session Videos and Slides
+Google I/O 2009 Session Videos and Slides Google I/O 2009 session Debugging Arts of the Ninja Masters
+Google I/O 2010 Session Videos and Slides
+Google I/O 2011 Session Videos and Slides
+Google I/O 2012 Session Videos and Slides
+Google I/O 2013 Session Videos and Slides

@@ -1,0 +1,10 @@
+Độ Celsius (°C hay độ C) là đơn vị đo nhiệt độ được đặt tên theo nhà thiên văn học người Thụy Điển Anders Celsius (1701–1744). Ông là người đầu tiên đề ra hệ thống đo nhiệt độ căn cứ theo trạng thái của nước với 100 độ C (212 độ Fahrenheit) là nước sôi và 0 độ C (32 độ Fahrenheit) là nước đá đông ở khí áp tiêu biểu (standard atmosphere) vào năm 1742. Hai năm sau nhà khoa học Carolus Linnaeus đảo ngược hệ thống đó và lấy 0 độ là nước đá đông và một trăm độ là nước sôi. Hệ thống này được gọi là hệ thống centigrade tức bách phân và danh từ này được dùng phổ biến cho đến nay mặc dù kể từ năm 1948, hệ thống nhiệt độ này đã chính thức vinh danh nhà khoa học Celsius bằng cách đặt theo tên của ông. Một lý do nữa Celsius được dùng thay vì centigrade là vì thuật ngữ "bách phân" cũng được sử dụng ở lục địa châu Âu để đo một góc phẳng bằng phần vạn của góc vuông. Ở Việt Nam, độ C được sử dụng phổ biến nhất.
+
+
+== Xem thêm ==
+Độ (nhiệt độ)
+Độ F
+Độ K
+
+
+== Chú thích ==

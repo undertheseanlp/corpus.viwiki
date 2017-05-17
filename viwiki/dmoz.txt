@@ -1,0 +1,15 @@
+Dự án thư mục mở (Open Directory Project,ODP), còn được biết tới với tên Dmoz (viết tắt của directory.mozilla.org, - tên miền gốc của dự án), là một dự án thư mục website đa ngôn ngữ mở. Dự án này vốn là của Netscape nhưng lại được điều hành và hoạt động bởi cộng đồng các tình nguyện viên làm nhiệm vụ biên tập nội dung.
+Dmoz sử dụng việc một hệ thống phân cấp thư mục để liệt kê các website. Các website có chủ đề tương tự nhau có thể được liệt kê vào các thư mục mà có thể chứa các thư mục nhỏ hơn.
+
+
+== Xem thêm ==
+Danh sách thư mục website
+
+
+== Ghi chú ==
+
+
+== Liên kết ngoài ==
+The Open Directory Project
+Open Directory Project Blog
+Bản mẫu:Netscape

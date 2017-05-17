@@ -1,0 +1,271 @@
+Phân biệt với khối lượng
+Trong khoa học và kỹ thuật, trọng lượng của một vật thường được xem là lực mà lực hấp dẫn tác động lên vật thể đó. Nó được ký hiệu bằng chữ W nghiêng.
+
+
+== Trọng lượng và trọng lực ==
+Đối với một vật nằm yên trên bề mặt Trái Đất, trong hệ quy chiếu gắn với bề mặt Trái Đất, vật không có gia tốc chuyển động, nên theo định luật 2 Newton, tổng cộng các lực tác động vào vật bằng không.
+
+  
+    
+      
+        
+          
+            
+              N
+              →
+            
+          
+        
+        +
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            
+              G
+            
+          
+        
+        +
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            
+              Q
+              T
+            
+          
+        
+        =
+        
+          
+            
+              0
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {N}}+{\vec {F}}_{\mathrm {G} }+{\vec {F}}_{\mathrm {QT} }={\vec {0}}}
+  
+Trong công thức trên: 
+  
+    
+      
+        
+          
+            
+              N
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {N}}}
+   là phản lực do mặt đất tác dụng lên vật, 
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            
+              G
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}_{\mathrm {G} }}
+   là trọng lực (lực hấp dẫn do trọng trường của Trái Đất tác dụng lên vật), và 
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            
+              Q
+              T
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}_{\mathrm {QT} }}
+   là tổng các lực quán tính trong hệ quy chiếu phi quán tính gắn với mặt đất, trong đó quan trọng nhất là lực quán tính ly tâm gây ra bởi chuyển động quay quanh trục của Trái Đất.
+Trọng lượng biểu kiến của vật nói trên (thường được gọi là trọng lượng) là lực do vật tác động lên mặt đất, theo định luật 3 Newton, có độ lớn bằng và chiều ngược với phản lực mặt đất:
+
+  
+    
+      
+        
+          
+            
+              P
+              →
+            
+          
+        
+        =
+        −
+        
+          
+            
+              N
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {P}}=-{\vec {N}}}
+  
+Do đó:
+
+  
+    
+      
+        
+          
+            
+              P
+              →
+            
+          
+        
+        =
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            
+              G
+            
+          
+        
+        +
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            
+              Q
+              T
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {P}}={\vec {F}}_{\mathrm {G} }+{\vec {F}}_{\mathrm {QT} }}
+  
+Nói chung, các lực quán tính, bao gồm lực ly tâm, có giá trị rất nhỏ so với trọng lực, nên:
+
+  
+    
+      
+        
+          
+            
+              P
+              →
+            
+          
+        
+        ≈
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            
+              G
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {P}}\approx {\vec {F}}_{\mathrm {G} }}
+  
+Nếu không có bề mặt giữ vật đứng yên, vật thể sẽ rơi tự do và ở trạng thái phi trọng lượng, tức là trọng lượng biểu kiến bằng 0. Những người ở trạng thái rơi tự do không cảm thấy sức nặng của cơ thể, do trọng lượng biểu kiến bằng 0, dù trọng lực tác động lên họ không đổi.
+Lực hấp dẫn tác động lên mọi phần tử trong vật thể. Còn phản lực chỉ tác động vào nơi tiếp xúc với bề mặt cản. Phản lực này làm biến dạng nhỏ cơ thể, gây ra cảm giác về sức nặng.
+
+
+== Trọng lượng biểu kiến ==
+Trọng lượng biểu kiến, thường gọi tắt là trọng lượng, là sức nặng của vật được thể hiện qua giá trị đo của cân lò xo hay lực kế lò xo. Nó đặc trưng cho lực nén của vật lên mặt sàn hay lực căng do vật gây ra lên lò xo của lực kế khi treo vật vào. Chính trọng lượng biểu kiến (chứ không phải trọng lực) là yếu tố tạo ra cảm giác về sự nặng nhẹ của cơ thể. Thực chất, cảm giác nặng nhẹ là cảm nhận của chúng ta về phản lực do mặt sàn tác dụng lên cơ thể mình chứ không phải cảm nhận về lực hút của Trái Đất. Khi không có sàn đỡ, ví dụ như khi rơi từ trên cao xuống, chúng ta không cảm thấy trọng lượng biểu kiến và ở trạng thái gọi là phi trọng lượng.
+
+
+=== Bài toán thang máy trong cơ học cổ điển ===
+
+Đây là một ứng dụng của định luật 2 Newton cho chuyển động của người dưới tác dụng của trọng lực và phản lực sàn thang máy, khi bỏ qua lực ly tâm trong hệ quy chiếu gắn với mặt đất.
+Lực tổng cộng = khối lượng × gia tốc
+Phản lực sàn + trọng lực = khối lượng × gia tốc
+Phản lực sàn = - trọng lực + khối lượng × gia tốc
+Phản lực sàn = khối lượng × (gia tốc - gia tốc trọng trường)
+Theo định luật 3 Newton:
+Trọng lượng biểu kiến = - phản lực sàn
+Trọng lượng biểu kiến = khối lượng × (gia tốc trọng trường - gia tốc)
+Trong công thức trên, độ lớn các đại lượng được tính theo phương hướng xuống dưới.
+Nếu thang máy chuyển động đều hay đứng yên thì gia tốc bằng 0. Khi đó có phản lực, và do đó trọng lượng biểu kiến của người, sẽ bằng giá trị trọng lực.
+Nếu thang máy có gia tốc khi đi lên (giá trị âm khi tính theo phương hướng xuống dưới), người trong thang máy cảm thấy "nặng" hơn; trọng lượng biểu kiến tăng do phản lực sàn thang máy tăng. Nếu thang máy có gia tốc đi xuống (giá trị dương khi tính theo phương hướng xuống dưới), người trong thang máy cảm thấy "nhẹ hơn".
+Khi thang máy rơi tự do, gia tốc đi xuống bằng gia tốc trọng trường do đó người mất trọng lượng biểu kiến. Khi thang máy đi xuống với gia tốc lớn hơn gia tốc trọng trường, thang sẽ đẩy người xuống phía dưới và người sẽ thấy trọng lượng biểu kiến lộn ngược.
+
+
+== Công thức và dụng cụ tính trọng lượng ==
+Tính trọng lượng theo khối lượng (công thức liên hệ giữa trọng lượng và khối lượng): P = 10m
+Trong đó: P là trọng lượng, đơn vị là N (niutơn, Newton (đơn vị))
+m là khối lượng, đơn vị là kg(kilogram)
+Dụng cụ dùng để đo độ lớn (cường độ) của lực hoặc trọng lượng là lực kế.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Bài toán thang máy ở trang Hyperphysics

@@ -1,0 +1,216 @@
+Thống kê là nghiên cứu của tập hợp nhiều lĩnh vực khác nhau, bao gồm phân tích, giải thích, trình bày và tổ chức dữ liệu. Chúng ta áp dụng thống kể để nghiên cứu các lĩnh vực khoa học, công nghiệp hoặc các vấn đề xã hội. Thống kê rất cần thiết để bắt đầu nghiên cứu một tiến trình. Ví dụ, tổng thể có thể gồm nhiều loại khác nhau như “tất cả mọi người đang sống trong một đất nước” hay “tập hợp các phân tử của tinh thể”. Nó đề cập tới tất cả các khía cạnh của dữ liệu bao gồm việc lập kế hoạch, thu thập dữ liệu mẫu cho các cuộc khảo sát và thí nghiệm.
+Trong trường hợp không thể thu thập được trong quá trình điều tra tổng thể, thống kê thu thập dữ liệu bằng cách phát triển các mẫu thí nghiệm và mẫu khảo sát cụ thể. Mẫu đại diện cần được đảm bảo rằng những suy luận và kết luận có thể tin cậy được từ đó suy ra toàn bộ tổng thể. Một nghiên cứu thực nghiệm liên quan đến việc lấy kích thước mẫu, thao tác trên hệ thống và sau đó lấy kích thước mẫu cùng dạng để xác định xem các thao tác đã thay đổi giá trị của các phép đo. Ngược lại, một quan sát nghiên cứu không liên quan đến việc thực hiện thí nghiệm.
+Hai phương pháp thống kê chính được sử dụng trong phân tích dữ liệu: thống kê mô tả, đây là phương pháp tóm tắt dữ liệu từ một mẫu sử dụng các chỉ số như là giá trị trung bình hoặc độ lệch chuẩn, và thống kê suy luận, rút ra kết luận từ dữ liệu biến thiên ngẫu nhiên (ví dụ: các sai số quan sát, mẫu của tổng thể). Thống kê mô tả được sử dụng thường xuyên nhất với hai thuộc tính phân phối (mẫu hoặc tổng thể): chiều hướng trung tâm (hoặc vị trí) tìm cách để mô tả giá trị trung bình hoặc giá trị đặc trưng của phân phối, trong khi phân tán (hoặc thay đổi) mức độ đặc trưng mà các thuộc tính của phân phối đi trệch so với nghiên cứu. Suy luận về thống kê toán học được thực hiện trong khuôn khổ của lý thuyết xác suất, trong đó đề cập tới việc phân tích các hiện tượng ngẫu nhiên. Để thực hiện một suy luận khi chưa biết số lượng, hoặc nhiều ước lượng được đánh giá bằng cách sử dụng mẫu.
+Thủ tục thống kê tiêu chuẩn liên quan đến sự phát triển của một giả thuyết vô nghĩa ban đầu là không có mối quan hệ nào giữa hai đại lượng. Loại bỏ hoặc bác bỏ giả thuyết này là một nhiệm vụ quan trọng trong việc giải thích những quan điểm mới của khoa học thống kê, đưa ra một ý nghĩa chính xác trong đó một giả thuyết được chứng minh là sai. Những gì thống kê gọi là một giả thuyết khác chỉ đơn giản là một giả thuyết trái với giả thuyết vô nghĩa. Phân tích từ một giả thuyết hai hình thức cơ bản của lỗi này được ghi nhận: sai số loại I (giả thuyết vô nghĩa sai bị bác bỏ cho một tính chất xác thực không đúng) và sai số loại II (giả thuyết không được bác bỏ và sự khác biệt thật sự giữa các tổng thể được bỏ qua cho một phủ định sai). Một việc quan trọng là tập hợp các giá trị của các ước lượng dẫn đến bác bỏ giả thuyết vô nghĩa. Do đó sai số của xác suất loại I là xác suất các ước lượng thuộc các miền quan trọng cho rằng giả thuyết đúng (có ý nghĩa thống kê) và sai số của xác suất loại II là xác suất mà các ước lượng không phụ thuộc các lớp quan trọng được đưa ra rằng giả thuyết thay thế là đúng. Các chính sách thống kê của một bài đánh giá xác suất đúng khi bác bỏ giả thuyết vô nghĩa khi giả thuyết là sai. Nhiều vấn đề đã được liên kết với khôn khổ: từ việc có được một cỡ mẫu đủ để xác định một giả thuyết vô nghĩa thích hợp.
+Quy trình đánh giá tạo ra các dữ liệu thống kê cũng có thể bị lỗi. Nhiều trong số các lỗi này được phân loại ngẫu nhiên (noise - dữ liệu vô nghĩa) hoặc có hệ thống (bias – độ sai lệch), nhưng các loại khác của sai lệch (ví dụ, sai lệch khi một báo cáo phân tích của các đơn vị không đúng) cũng rất quan trọng. Sự xuất hiện của dữ liệu bị thiếu/ hoặc sự kiểm tra có thể dẫn đến các ước tính có sai số và cần phát triển kỹ thuật cụ thể để giải quyết những vấn đề này. Khoảng tin cậy cho phép các nhà thống kê thể hiện rõ ràng các mẫu ước lượng phù hợp với các giá trị có nghĩa trong toàn bộ dân số. Độ tin cậy chính thức 95% cho một giá trị là một phạm vi rộng, nếu lấy mẫu và phân tích được lặp lại trong cùng điều kiện (cho ra một bộ dữ liệu khác nhau). Miền giá trị sẽ bao gồm những giá trị thực (dân số) trong 95% của tất cả các trường hợp có thể xảy ra. Trong thống kê, biến phụ thuộc là bất kỳ mối quan hệ thống kê giữa hai biến ngẫu nhiên hoặc hai bộ dữ liệu. Sự tương quan đề cập đến bất kỳ một lớp chung nào của các quan hệ thống kê liên quan đến sự phụ thuộc. Nếu hai biến có liên quan, chúng có thể có hoặc không thể là biến nguyên nhân của các yếu tố khác. Các hiện tượng tương quan có thể được gây ra bởi một hiện tượng trước đó không được chú ý đến bởi một biến thứ ba, biến không được xuất hiện trước đó, được gọi là biến ẩn hoặc biến nhiễu.
+Thống kê có thể được cho là đã bắt đầu trong nền văn minh cổ xưa, phát triển trước đó ở cuối thế kỷ thứ 5 TCN, nhưng nó đã không kéo dài cho đến thế kỷ 18, khi kỹ thuật thống kê bắt đầu kiểm tra độ chính xác của dữ liệu nhiều hơn từ việc tính toán và dựa trên lý thuyết xác suất thống kê. Thống kê tiếp tục là một lĩnh vực nghiên cứu thiết thực, ví dụ như nghiên cứu một vấn đề làm sao để phân tích lượng dữ liệu lớn hơn.
+
+
+== Quy mô ==
+Thống kê là một phần toán học của khoa học gắn liền với tập hợp dữ liệu, phân tích, giải thích hoặc thảo luận về một vấn đề nào đó, và trình bày dữ liệu, hay là một nhánh của toán học. Có thể xem thống kê là một môn khoa học riêng biệt chứ không phải là một nhánh của toán học.
+
+
+=== Toán thống kê ===
+Toán thống kê là ứng dụng của toán học để thống kê, ban đầu được hình thành như là khoa học của nhà nước – tập hợp dữ liệu và phân tích các dữ liệu về một đất nước: kinh tế, đất đai, quân sự, dân số... Kỹ thuật toán học được sử dụng bao gồm các phân tích toán học, đại số tuyến tính, phân tích ngẫu nhiên, phương trình vi phân, lý thuyết xác suất và thống kê toán.
+
+
+== Tổng quan ==
+Khi ứng dụng thống kê cho một vấn đề khoa học, ngành công nghiệp, hoặc một vấn đề xã hội...rất cần thiết để bắt đầu với việc thống kê tổng thể hoặc tiến trình nghiên cứu. Nghiên cứu về tổng thể có thể có nhiều chủ đề như “tất cả những người đang sống trong một nước” hay “mỗi nguyên tử tạo nên tinh thể”.
+Các nhà thống kê tổng hợp dữ liệu về toàn bộ tổng thể (hoạt động điều tra mẫu tổng thể). Điều này có thể được thống kê bởi Viện thống kê chính phủ. Thống kê mô tả có thể được sử dụng để tổng hợp các số liệu tổng thể. Mô tả bằng các con số bao gồm để lệch trung bình và độ lệch chuẩn cho các dữ liệu liên tục (như thu nhập), trong khi tần số và tỷ lệ phần trăm hiệu quả hơn về mô tả các loại dữ liệu.
+Khi một cuộc điều tra mẫu tổng thể không thể thực hiện được, ta lụa chọn một tập hợp con của dân số, đó được gọi là một mẫu nghiên cứu. Khi mẫu đó là đại diện của mẫu tổng thể được xác định, dữ liệu được tập hợp cho các biến trong mẫu quan sát hoặc mẫu thực tế. Một lần nữa thống kê mô tả có thể được sử dụng để tổng hợp các dữ liệu mẫu. Tuy nhiên, các bản thiết kế mẫu đã bị tác động bởi một yếu tố ngẫu nhiên, do đó việc thành lập số mẫu mô tả cũng không được chắc chắn. Để rút ra kết luận có ý nghĩ về toàn bộ tổng thể, thống kê suy luận là rất cần thiết. Nó sử dụng mẫu trong dữ liệu mẫu để suy luận về tổng thể, mô tả ngẫu nhiên. Những suy luận có thể mang hình thức trả lời có hoặc không các câu hỏi về dữ liệu (kiểm định giả thuyết), ước tính số lượng dữ liệu (ước tính), mô tả các liên kết của dữ liệu (tương quan) và các mối quan hệ của các mẫu trong dữ liệu (ví dụ sử dụng phân tích hồi quy). Suy luận có thể mở rộng để dự báo, tiên đoán và ước tính giá trị không được chứ ý đến hoặc sự liên kết với tổng thể được nghiên cứu. Nó có thể bao gồm các biến ngoại suy hoặc biến nội suy của chuỗi thời gian hoặc dữ liệu không gian, và khai thác dữ liệu.
+
+
+== Thu thập dữ liệu ==
+
+
+=== Phương pháp chọn mẫu ===
+Trong bộ dữ liệu điều tra tổng thể, trường hợp không thể thu thập số liệu, dữ liệu thống kê phân tích được phát triển bằng các thiết kế thử nghiệm cụ thể và các mẫu khảo sát. Thống kê chính là việc cung cấp công cụ để nói trước và dự báo việc sử dụng các dữ liệu thông qua các mô hình thống kê. Để sử dụng một mẫu như một thông tin hướng dẫn cho toàn bộ tổng thể, điều quan trọng là nó thực sự đại diện cho mẫu tổng thể. Lấy mẫu đại diện phải đảm bảo rằng nó được suy luận và kết luận một cách chính xác từ việc chọn mẫu cho toàn bộ tổng thể. Một vấn đề lớn nhằm làm tăng kích cỡ mẫu được lựa chọn là mẫu đại diện. Thống kê cung các phương pháp thiết kê thử nghiệm mẫu, các thử nghiệm này có thể làm giảm bớt các vấn đề ở việc bắt đầu nghiên cứu, tăng khả năng nhận biết các mẫu tin tưởng về mẫu thống kê.
+Lý thuyết chọn mẫu là một phần của lý thuyết xác suất thống kê toán. Xác suất được sử dụng trong “toán học thống kê” (cách khác “lý thuyết thống kê”) để nghiên cứu sự phân bố lấy mẫu thống kê mẫu và các tính chất của thủ tục thống kê. Việc sử dụng các phương pháp thống kê là được chấp nhận khi các phương pháp hoặc thống kê mẫu tổng thể đủ thông tin để chấp nhận giả thuyết.
+Sự khác biệt trong quan điểm giữa lý thuyết xác suất cổ điển và lý thuyết xác suất lấy mẫu là xấp xỉ, lý thuyết xác suất bắt đầu từ các tham số cho tổng quy mô mẫu để suy ra xác suất mẫu. Tuy nhiên phương pháp thống kê phát triển theo hướng đối lập – quy nạp từ các mẫu để các thông số lớn hơn hoặc tổng quy mô mẫu.
+
+
+=== Các nghiên cứu thực nghiệm và quan sát ===
+Mục đích cho một dự án nghiên cứu thống kê là điều tra nguyên nhân, và từ đó rút ra kết luận của những thay đổi ảnh hưởng đến giá trị các nhân tố ảnh hưởng hoặc các biến độc lập dựa trên các biến phụ thuộc hoặc trả lời cho nghiên cứu. Có hai loại chính của nghiên cứu thống kê các biến nguyên nhân: nghiên cứu thực nghiệm và nghiên cứu quan sát. Cả hai loại nghiên cứu này đều có sự tác động của biến độc lập (hoặc các biến) về hành vi của các biến phụ thuộc được quan sát. Sự khác biệt giữa hai biến này nằm ở cách nghiên cứu dựa trên thực tế. Mỗi biến có thể có ý nghĩa. Nghiên cứu thực nghiệm liên quan đến việc lấy kích thước mẫu nghiên cứu, thao tác hệ thống và thêm vào kích thước mẫu sử dụng cho quá trình lấy mẫu, sau đó lấy mẫu bổ sung để xác định các thao tác sử đổi giá trị của các phép đo. Ngược lại, một nghiên cứu quan sát không liên quan đến thao tác thực nghiệm. Thay vào đó, dữ liệu được thu thập và mối tương quan giữa các yếu tố dự báo và trả lời cho các khám phá và kiểm tra. Trong khi các công cụ của việc phân tích dữ liệu có kết quả tốt từ việc phân tích ngẫu nhiên, cũng có thể áp dụng cho các loại dử liệu khác- như nghiên cứu tự nhiên và nghiên cứu quan sát – mà một nhà thống kê sẽ sử dụng như biến thay thế, nhiều lý thuyết đánh giá có cấu trúc (ví dụ: sự khác biệt trong các đánh giá khác nhau và biến đo lường thông tin, trong rất nhiều biến khác) cung cấp kết quả phù hợp cho các nhà nghiên cứu.
+
+
+== Các thực nghiệm ==
+Các bước cơ bản của một nghiên cứu thống kê là:
+Lập kế hoạch nghiên cứu, bao gồm việc tìm kiêm số liệu để trả lời cho các nghiên cứu. Sử dụng các thông tin sau: ước tính sơ lược về kích thước của hiệu quả điều tra, các giả thuyết, các biến khảo sát dự định. Xem xét việc lựa chọn đối tượng khảo sát và đúng quy trình nghiên cứu. Các nhà thống kê cho rằng nên so sánh thử nghiệm một cách đáng tin cậy với tiêu chuẩn mẫu hoặc tiêu chuẩn so sánh một kết quả nghiên cứu. Chấp nhận ước lượng không chệch của mức ý nghĩa đáng tin cậy.
+Thiết kế nghiên cứu nhằm ngăn sự ảnh hưởng của các biến gây nhiễu và phân bố mẫu ngẫu nhiên của hệ số tin cậy cho các đối tượng để ước lượng không chệch của mức ý nghĩa đáng tin cậy và sai sót trong nghiên cứu. Ở giai đoạn này, các thí nghiệm và các thống kê viết giao thức nghiên cứu mà chính việc hướng dẫn thực hiện các thí nghiệm và chỉ ra những phân tích ban đầu của các dữ liệu nghiên cứu.
+Kiểm tra các nghiên cứu sau các giao thức thử nghiệm và phân tích dữ liệu và phân tích
+Kiểm tra thêm các dữ liệu thiết lập trong phân tích thứ cấp, đề xuất giả thuyết mới cho các nghiên cứu sau này.
+Tìm kiếm tài liệu và trình bày kết quả nghiên cứu.
+Các thí nghiệm về nghiên cứu hành vi con người có mối liên quan đặc biệt. Các nghiên cứu nối tiếng của Hawthorne, nghiên cứu về những thay đổi trong môi trường làm việc tại nhà máy Hawthorne của Công ty Western Electric. Các nhà nghiên cứu đã quan tâm đến việc xác định liệu tăng việc chiếu sáng có tăng năng suất làm việc của công nhân lắp ráp. Đầu tiên, các nhà nghiên cứu đã đo năng suất trong nhà máy, sau đó biến đổi sự chiếu sáng trong một khu vực của nhà máy và kiểm tra xem có ảnh hưởng của thay đổi ánh sáng đến năng suất hay không. Nghiên cứu cho thấy năng suất thực sự được cải thiện (dựa theo các điều kiện thử nghiệm). Tuy nhiên, nghiên cứu này chỉ ra các sai sót trong quá trình thí nghiệm, đặc biệt là thiếu các nhóm kiểm soát và thông tin mờ nhạt. Các hiệu ứng Hawthorne đề cập đến việc tìm kiếm một kết quả (trong trường hợp này là năng suất lao động) thay đổi do sự quan sát. Những người trong các nghiên cứu Hawthorne làm việc có hiệu quả không phải vì thay đổi ánh sáng, mà vì họ đang được quan sát.
+
+
+=== Nghiên cứu quan sát ===
+Một ví dụ của nghiên cứu quan sát là một trong những khám phá sự tương quan giữa giữa việc hút thuốc là và ung thư phổi. Nghiên cứu này thường sử dụng việc điều tra để thu thập các quan sát về các khu vực tham gia nghiên cứu và sau đó thực hiện các phân tích thống kê. Trong trường hợp này, những nhà nghiên cứu thu thập các quan sát của những người hút thuốc và không hút thuốc, có thể thông qua một nghiên cứu về bệnh chứng, và sau đó tìm số liệu các trường hợp ung thư phổi trong mỗi nhóm điều tra.
+
+
+== Các kiểu dữ liệu ==
+Các biến thử khác nhau đã được tạo ra để phân loại mức độ đo lường. Các nhà tâm lý Stanley Smith Stevens đã xác định thang đo danh nghĩa, thứ tự, khoảng thời gian và tỷ lệ đo. Thang đo danh nghĩa không có thứ tự xếp hạng có ý nghĩa trong các giá trị, và cho phép chuyển đổi một-một. Thang đo thứ tự có sự khác biệt chính xác giữa các giá trị liên tiếp, nhưng có một thứ tự có ý nghĩa giá trị và cho phép bất kỳ chuyển đổi nào để chuyển đổi. Đo khoảng thời gian có ý nghĩa và khoảng cách giữa các phép đo được xác định, nhưng giá trị bằng không là tùy ý (như trong trường hợp số dô kinh độ và độ C hoặc độ F), và cho phép bất kỳ chuyển đổi truyến tính. Đo tỷ lệ có cả một giá trị số không có ý nghĩa và khoảng cách giữa các phép đo khác nhau được xác định, và cho phép chuyển đổi sang sự thay đổi tỷ lệ.
+Vì các biến chỉ phù hợp cho thang đo danh nghĩa hoặc thang đo thứ tự, không thể đo lường một cách hợp lý về số lượng, đôi khi chúng được nhóm lại với nhau như các biến phân loại, trong khi thang đo tỷ lệ và thang đo thời gian được nhóm lại với nhau như là các biến định tính, những biến có thể rời rạc hoặc liên tục do tính chất số lượng. Chúng thường được phân biệt như vậy thường ít tương quan với các dữ liệu trong nghiên cứu khoa học lưu trữ và phân tích thông tin được đưa vào. Trong đó các biến phân loại phân đôi có thể được đại diện với các kiểu dữ liệu Boolean (sử dụng hệ thống dữ liệu lý luận như AND, OR, NOT để xác định quan hệ giữa các thực thể), biến phân loại Polytomous với số nguyên....và các biến liên tục với các loại dữ liệu nghiên cứu khoa học lưu trữ và phân tích thông tin được đưa vào. Nhưng các bản đồ của các kiểu dữ liệu khoa học lưu trữ và phân tích thông tin đưa vào với các loại dữ liệu thống kê phụ thuộc vào phân loại sau khi được thực hiện.
+Có nhiều phân tích khác đã được đề xuất. Ví dụ, Mosteller và Tukey (1977) phân lớp, phân bậc, tính phân số, đếm, tổng số lượng và cân bằng. Nelder (1990) mô tả tính liên tục, chỉ số liên tục, tính tỷ lệ và chế độ phân loại của dữ liệu. Cũng như Chrisman (1998) và Van Den Berg (1991) .
+Vấn đề có thích hợp hay không để áp dụng các loại khác nhau của các phương pháp thống kê số liệu thu được từ các loại khác nhau của các phương pháp đo lường phức tạp do các vấn để liên quan đến việc chuyển đổi các biến và giải thích chính xác các câu hỏi đặt ra nghiên cứu. “mối quan hệ giữa các dữ liệu và những gì dữ liệu mô tả đơn thuần phản ánh một thực tế là một số loại báo cáo thống kê có thể có giá trị chân lý đó không phải là bất biến theo một số biến thay đổi. Có hay không một sự chuyển đổi hợp lý để chiêm ngưỡng phụ thuộc vào câu hỏi ai đang cố gắng để trả lời”. (Hand, 2004, p. 82)
+
+
+== Thuật ngữ và lý thuyết của thống kê suy luận ==
+
+
+=== Thống kê, ước tính và số lượng chính ===
+Hãy xem xét một mẫu các phân phối độc lập có cùng tính chất, các biến ngẫu nhiên với một phân phối xác suất nhất định: suy luận thống kê và lý thuyết tính toán xác định một mẫu ngẫu nhiên là vec-tơ ngẫu nhiên được đưa ra bởi các vec-tơ theo cột của các biền phân phối độc lập có cùng tính chất. Tổng thể được chọn làm mẫu được mô tả bởi một phân phối xác suất mà có thể có tham số chưa biết.
+Một thống kê là một biến ngẫu nhiên, đó là một chức năng của các mẫu ngẫu nhiên, nhung không phải là chức năng của các tham số chưa biết. Mặc dù các phân phối mẫu của xác suất thống kê có thể có tham số chưa biết.
+Xem xét chức năng của các tham số chưa biết: một ước lượng là một thống kê được sử dụng để ước lượng hàm này. Ước lượng thường được sử dụng bao gồm ý nghĩa của mẫu khảo sát, không gồm mẫu phương sai và hiệp phương sai mẫu.
+Biến ngẫu nhiên là một hàm của mẫu ngẫu nhiên và các tham số chưa biết, nhưng có phân phối xác suất không phụ thuộc vào các tham số chưa biết, được gọi là một đại lượng quan trọng hay biến phụ thuộc. Sử dụng biến phụ thuộc bao gồm các chỉ số z, các số liệu thống kê chi bình phương và giá trị t-value của phân phối Student.
+Giữa hai ước lượng của một tham số cho trước, với ước lượng điểm trung bình bình phương được cho rằng có hiệu quả hơn. Hơn nữa một ước lượng được cho là giá trị tiệm cận nếu giá trị kỳ vọng của nó bằng với giá trị thực của tham số chưa biết được ước tính, và là giá trị tiệm cận nếu giá trị kỳ vọng của nó hội tụ ở giới hạn với giá trị thực của tham số như vậy. Các đặc tính thích hợp để ước lượng bao gồm: ước lượng UMVUE có phương sai nhỏ nhất cho tất cả các giá trị có thể có của các tham số ước lượng (đây thường là các đặc tính dễ dàng để xác minh hiệu quả) và đánh giá phù hợp cùng quy về trong xác suất để đúng với giá trị của tham số.
+Điều này vẫn còn để lại những câu hỏi làm thế nào để có ước lượng trong một tình huống nhất định và thực hiện các tính toán, một phương pháp đã được đề xuất: các phương pháp trong thời điểm hiện tại, những phương pháp likelihood lớn nhất, phương pháp bình phương nhỏ nhất và phương pháp gần nhất của ước lượng phương trình.
+
+
+=== Giả thuyết vô nghĩa và các giả thuyết thay thế ===
+Giải thích thông tin thống kê có thể bao gồm sự phát triển của một giả thuyết trong đó giả định rằng bất cứ điều gì xảy ra được đề xuất như là một nguyên nhân không có hiệu quả trên các biến đo lường.
+Minh họa tốt nhất cho một người mới làm thống kê là gặp phải tình trạng khó khăn khi thử nghiệm với những người khảo sát. Các giả thuyết không có giá trị H0, khẳng định rằng bị cáo là vô tội, trong khi các giả thuyết khác H1, khẳng định rằng bị cáo có tội. Bản cáo trạng đưa ra những nghi ngờ về việc có tội. Các giả thuyết H0 (hiện trạng) đối lập với giả thuyết H1 và được tồn tại khi H1 được hỗ trợ bằng các chứng cứ “bác bỏ những điều vô lý”. Tuy nhiên “không đạt yêu cầu để bác bỏ giả thuyết H0” trong trường hợp không bao gồm tính vô tội, nhưng chỉ đơn thuần là không đủ bằng chứng để buộc tội. Vì vậy, người được khảo sát không nhất thiết phải chấp nhận H0 nhưng không bác bỏ H0. Trong khi người ta không thể “chứng minh” một giả thuyết, người ta có thể kiểm tra xấp xỉ để đưa ra phương pháp thử nghiệm, phương pháp kiểm tra các sai số loại II.
+Những gì các nhà thống kê gọi là một giả thuyết có một hoặc hai khả năng xảy ra chỉ đơn giản là một giả thuyết trái ngược với giả thuyết vô nghĩa.
+
+
+=== Sai số ===
+Tác động từ giả thuyết hai loại sai số cơ bản được ghi nhận:
+Sai số loại I là giả thuyết rỗng bị bác bỏ là sai khi “bác bỏ phủ định”.
+Sai số lại II là giả thuyết không rỗng được bác bỏ để loại bỏ và sự khác biệt trên thực tế giữa các quần thể được bỏ qua cho một “bác bỏ khẳng định”
+Độ lệch chuẩn đề cập đến mức độ các quan sát cá nhân trong mẫu khác với một giá trị trung tâm, chẳng hạn như các mẫu hoặc ý nghĩa tổng thể, trong khi sai số chuẩn đề cập đến một ước tính của sự khác biệt giữa trung bình mẫu và ý nghĩa tổng thể.
+Một lỗi thống kê là số lượng mà một quan sát khác với giá tị kỳ vọng của nó, giá trị thặng dư là số lượng một quan sát khác với giá trị ước lượng giả định giá trị dự kiến về một mẫu nhất định (còn gọi là dự đoán).
+Sai số bình phương có nghĩa khi được sử dụng cho việc ước lượng hiệu quả thu thập dữ liệu, một lớp được sử dụng rộng rãi trong ước lượng. Sai số căn bậc hai đơn giản là căn bậc hai của sai số căn bậc hai có nghĩa.
+Nhiều phương pháp thống kê nhằm giảm thiểu tổng giá trị thặng dư của bình phương, và chúng được gọi là “phương pháp bình phương nhỏ nhất” trái ngược với độ lệch chuẩn nhỏ nhất. Sau đó cung cấp cung cấp số lượng bằng với các lỗi nhỏ và lớn, trong khi trước đây chỉ ra rõ các sai số lớn hơn. Tổng giá trị thặng dư của giá trị bình phương có thể phân biệt được, nó cung cấp thuộc tính có ích để tính hàm hồi quy. Bình phương tối thiểu áp dụng hồi quy tuyến tính được gọi là bình phương nhỏ nhât thông thường và bình phương nhỏ nhất chấp nhận cho hàm hồi quy phi tuyến tính được gọi là bình phương tối thiểu phi tuyến tính. Cũng trong một mô hình hồi quy tuyến tính các phần không xác định của mô hình được gọi là sai số giới hạn, bị nhiễu hoặc có thể là dữ liệu thừa.
+Tiến trình đo lường tạo ra số liệu thống kê cũng có thể có sai số. Nhiều trong số các sai số này được phân loại ngẫu nhiên (dữ liệu thừa) hoặc hệ thống (độ sai lệch), nhưng các loại sai số khác (ví dụ: sai lệch, chẳng hạn như khi một báo cáo phân tích của các đơn vị không chính xác) cũng quan trọng. Sự xuất hiện của dữ liệu bị mất và/ hoặc kiểm định, điều này có thể dẫn đến ước lượng sai lệch và từ đó đã phát triển một phương pháp cụ thể để giải quyết vấn đề này.
+
+
+=== Ước lượng theo khoảng ===
+
+Hầu hết các nghiên cứu chỉ ra là một phần của một mẫu tổng thể, vì vậy kết quả không hoàn toàn đại diện cho toàn bộ tổng thể. Bất kỳ ước tính thu được từ mẫu chỉ gần đúng với giá trị tổng thể. Khoảng tin cậy cho phép các nhà thống kê thể thiện chặt chẽ các mẫu dự tính phù hợp với các giá giá trị thực trong toàn bộ tổng thể. Thông thường chúng được thể hiện ở khoảng tin cậy 95%. Chính thức khoảng tin cậy 95% cho một giá ở phạm vi rộng, nếu lấy mẫu và phân tích được lặp đi lặp lại trong cùng một điều kiện (cho ra bộ dữ liệu khác nhau), khoảng cách giữa hai giá trị sẽ bao gồm giá trị thật (tổng thể) đạt 95% giá trị trong tổng số các trường hợp có thể xảy ra. Điều này không có nghĩa là xác suất mà giá trị thực trong khoảng tin cậy là 95%. Từ những quan điểm, kết luận như vậy là không có nghĩa, như là giá trị thực không phải là một biến ngẫu nhiên. Hoặc là giá trị thực hoặc trong phải trong một khoảng tin cậy. Tuy nhiên, sự thật là trước khi bất kỳ dữ liệu nào được lấy mẫu và đưa ra kế hoạch làm thế nào để tạo ra khoảng tin cậy, xác suất là 95% cho khoảng tin cậy chưa được thống kê sẽ bao gồm các giá trị đúng: tai thời điểm này, giớí hạn của khoảng tin cậy là các biến ngẫu nhiên chưa được quan sát. Một phương pháp mà không mang lại một khoảng tin cậy được hiểu là một xác suất nhất định có chứa các giá trị thực sử dụng trong một khoảng tin cậy từ thống kê Bayesian: phương pháp này phụ thuộc vào cách giải thích khác nhau thế nào là “xác suất”, đó như là xác suất Bayesian.
+Trong nguyên tắc chọn khoảng tin cậy có thể được đối xứng hoặc không đối xứng. Một khoảng tin cậy có thể không đối xứng vì nó hoạt động thấp hơn hoặc cao hơn các ràng buộc cho một tham số (khoảng tin cậy phía trái hoặc phải), nhưng nó cũng có thể là không đối xứng vì khoảng hai chiều được xây dựng đối xứng trong dự tính. Đôi khi các giới hạn cho một khoảng tin cậy đạt được tiệm cận và được sử dụng để ước tính giới hạn.
+
+
+=== Mức ý nghĩa ===
+
+Thống kê hiếm khi chỉ trả lời các câu hỏi dưới dạng có/không dưới các phân tích. Sự giải thích thường đi xuống đến mức ý nghĩa thống kê áo dụng với số lượng và thường đề cập đến xác suất của một giá trị chính xác từ chối giả thuyết rỗng (có thể xem như là giá trị p-value).
+Phân phối chuẩn là để thử nghiệm một giả thuyết đối với một giả thuyết khác. Một miền quan trọng là đê tập hợp các giá trị của các ươc lượng dẫn dến bác bỏ giả thuyết rỗng. Do đó xác suất của sai số loại I là xác suất mà các ước lượng thuộc các khu vực quan trọng cho rẳng giải thuyết đúng (có ý nghĩa thống kê) và xác suất sai số loại II là xác suất mà các ước lượng không thuộc miền quan trọng được ddauw ra bằng giả thuyết thay thế là đúng. Các số lượng thống kê của một thử nghiệm là xác suất mà nó đúng bác bỏ giả thuyết rỗng khi giả thuyết là sai.
+Đề cập đến mức ý nghĩa thống kê không nhất thiết là kết quả của tổng thể so với số hạng thực. Ví dụ, trong một nghiên cứu lớn về một loại thuốc có thể chỉ ra rằng thuốc có tác dụng mang lạ lợi ích đáng kể về mặt thống kê nhưng rất nhỏ, như vậy loại thuốc này dường như không có khả năng tác dụng nhiều cho bệnh nhân.
+Trong khi về nguyên tắc mức chấp nhận ý nghĩa được thống kê có phải xem xét vấn đề, các giá trị p-value là mức ý nghĩa nhỏ nhất cho phép thử nghiệm để bác bỏ giả thuyết. Kết quả tương đương nói rằng các giá trị p-value là xác suất, giả định giả thuyết là đúng, kết quả quan sát là cực kỳ thấp như kiểm định thống kê. Do đó gái trị p-value càng nhỏ, xác suất sai số loại I càng thấp.
+Một vấn đề thường xảy ra với loại này:
+Một sự khác biệt đó là có ý nghĩa thống kê cao vẫn có thể không có ý nghĩa, nhưng nó có thể phát biểu đúng các kiểm định trong thống kê. Một câu trả lời trở thành giả thuyết chỉ có mức ý nghĩa bao gồm các giá trị p-value, tuy nhiên không biết được kích thước hay tầm quan trọng của kiểm định quan sát được và cũng có thể kết luận được tầm quan trọng của các khác biệt nhỏ trong các nghiên cứu lớn. Một cách tiếp cận tốt hơn và ngày càng phổ biến là để báo cáo khoảng tin cậy. Mặc dù chúng được đưa ra từ việc tính toán tương tự như những kiểm định giả thuyết hoặc giá trị p-value, mô tả kích thước của ảnh hưởng và những điều không chắc chắn.
+Độ sai lệch của thay đổi điều kiện, những ý kiến sai lầm của Aka: những lời phê bình chỉ ra các giá trị để kiểm định giả thuyết (giả thuyết vô nghĩa) được ưa chuộng, vì xác suất của kết quả của giả thuyết vô nghĩa đưa ra kết quả quan sát được. Một thay thế cho phương pháp này được đưa ra bởi suy luận Bayesian, mặc dù nó đòi hỏi việc một xác suất cho trước.
+Bác bỏ giả thuyết không tự động chứng minh được giả thuyết thay thế.
+Như tất cả mọi thứ trong thống kê suy luận nó dựa vào kích thước mẫu, và do đó dưới miền giá trị p-value giá trị cso thể không được tính.
+
+
+=== Các ví dụ ===
+Một số thử nghiệm và thống kê nổi tiếng là:
+Phân tích phương sai (ANOVA)
+Kiểm định chi bình phương
+Sự tương quan
+Phân tích nhân tố
+Mann-Whiteney
+Độ lệch chuẩn ý nghĩa bình phương
+Hệ số tương quan Pearson
+Phân tích hồi quy
+Thứ bậc hệ số tương quan của Spearman
+Kiểm định t-test
+Chuỗi thời gian
+
+
+== Sử dụng thống kê sai ==
+Sử dụng sai mục đích các số liệu thống kê có thể có những kết quả không lường được, những sai số nghiêm trọng trong mô tả và giải thích sai ý nghĩa ngay cả các chuyên gia có kinh nghiệm cũng có các lỗi như vậy, và nghiêm trọng là chúng có thể dẫn đến đưa ra quyết định sai. Ví dụ chính sách xã hội, nghề thuốc, và độ tin cậy của cấu trúc dựa trên các số liệu thống kê.
+Ngay cả khi các kỹ thuật thống kê được áp dụng một cách chính xác, kết quả có thể khó để giải thích cho những người thiếu chuyên môn. Ý nghĩa thống kê của một phương pháp có thể được gây ra bởi sự thay đổi ngẫu nhiên trong mẫu, có thể hoặc không thể đồng ý với đánh giá trực quan của mức ý nghĩa. Tập hợp các kỹ năng thống kê cơ bản mà mọi người cần phải thỏa thuận với các thông tin trong cuộc sống hàng ngày như một kỹ năng trong lĩnh vực thống kê.
+Có ý kiến cho rằng kiến thức thống kê được cho là bị lạm dụng một các quá bình thường bằng cách tìm ra hướng để giải thích các dữ liệu có ích cho người trình bày. Một sự nghi ngờ và tìm hiểu sai về số liệu thống kê được kết hợp với các trích dẫn, “có ba loại của sự lừa dối: dối trá, rất dối trá và thông kê”. Lạm dụng các số liệu thống kê có thể có được kể cả vô ý và có chủ ý, và cuốn sách làm thế nào đề nói dối các nhà thống kê đã chỉ ra một loạt các quyết định. Trong một nỗ lực để làm sáng tỏ việc sử dụng và lạm dụng các số liệu thống kê, đánh giá các kỹ thuật thống kê được sử dụng trong các lĩnh vực cụ thể được thực hiện (ví dụ: Warne, Lazo, Ramos, and Ritter).
+Cách để tránh số liệu thống kê bao gồm sử dụng sở đồ thích hợp và ngăn ngừa sai số. Sử dụng sai số có thể xảy ra khi kết luận là sai số quá lớn và yêu cầu có tính đại diện hơn so với giá trị thật, thường là có ý hay vô ý không nhận thấy ra sai số mẫu. Đồ thị dạng cột được cho là biểu đồ đơn giản nhất để sử dụng và hiểu, các biểu đồ này có thể vẽ bằng tay hoặc bằng các chương trình máy tính đơn giản. Nhưng hầu hết mọi người đều không nhìn ra giá trị sai lệch hay sai số, vì vậy những lỗi sai này không được sửa chữa. Nên mọi người thường tin vào kết quả ngay cả khi nó không phải là kết quả tốt. Để làm cho dữ liệu thu thập được từ các số liệu thống kê đang tin cậy và chính xác, mẫu được chọn phải có tính tổng thể. Theo Huff, “độ tin cậy của một mẫu có thể bị phá hủy giá trị sai lệch, cho phép một số mức độ hoài nghi”
+Để hỗ trợ cho sự hiểu biết của các số liệu thống kê, Huff đã đề xuất một loạt các câu hỏi được hỏi trong mỗi trường hợp:
+Ai nói vậy?
+Làm thế nào để anh/chị biết
+Những gì còn thiếu
+Có ai thay đổi nội dung
+Nó có ý nghĩa không
+
+
+=== Hiểu sai mối tương quan ===
+
+Các khái niệm về mối tương quan đặc biệt đáng chú ý cho những rắc rối tiềm ẩn có thể xảy ra. Phân tích thống kê của một tập dữ liệu thường cho thấy rằng hai biến (thuộc tính) của tổng thể được xem xét dưới nhiều trường hợp khác nhau, như chúng có mối quan hệ. Ví vụ, một nghiên cứu về thu nhập hàng năm mà dựa vào độ tuổi có thể cho thấy rằng người nghèo có xu hướng có cuộc sống ngắn hơn so với người giàu. Hai biến được cho là có quan hệ, tuy nhiên, no có thể có hoặc không biến khác. Các hiện tượng tương quan có thể được giải thích bởi một hiện tượng trước đây không được xem xét đến như một yếu tố thứ ba, gọi là biến nhiễu hoặc biến bác bỏ. Vì lý do này, không còn cách nào để lập tức suy ra sự tồn tại của một quan hệ nhân quả giữa hai biến. (xem tương quan nào không đưa đến kết quả).
+
+
+== Lịch sử của khoa học thống kê ==
+
+Phương pháp thống kê đã tồn tại ít nhất là thế kỷ thứ 5 trước công nguyên.
+Một số học giả xác định được nguồn gốc của số liệu thống kê đến năm 1663, với các ấn phẩm của tự nhiên và quan sát chính trị Bills do John Graunt. Ứng dụng đầu tiên của thống kê xoay quanh nhu cầu chính sách các quốc gia trên cơ sở dữ liệu nhân khẩu học và kinh tế, do đó hình thành ngành nghiên cứu nguồn gốc thống kê. Phạm vi của các môn học thống kê mở rộng trong những năm đầu thế kỷ 19 bao gồm việc thu thập và phân tích dữ liệu nhưng không chuyên sâu. Ngày ngay, thống kê được sử dụng rộng rãi hơn trong chính phủ, kinh doanh, khoa học tự nhiên và xã hội. Cơ sở hình thành toán học đã được đưa ra vào thế kỷ 17 với sự phát triển lý thuyết xác suất của Blaise Pascal và Pierre de Fermat. Lý thuyết xác suất toán xuất phát từ việc nghiên cứu trò chơi may rủi, mặc dù khái niệm xác suất đã được nghiên cứu trong thời trung cổ và luật của các triết gia như Juan Caramuel. Các phương pháp bình phương nhỏ nhất đã được mô tả đầu tiên bởi Adrien-Mrie Legendre vào năm 1805.
+
+Các lĩnh vực hiện đại của số liệu thống kê xuất hiện vào cuối thế kỷ 19 và đầu thế kỷ 20 trong 3 giai đoạn. Giai đoạn đầu tiên, vào thời điểm chuyển giao thế kỷ, được dẫn dắt bởi các công việc của Sir Francis Galton và Karl Pearson, đã trở thành một hệ thống thống kê toán học sử dụng trong phân tích, không chỉ trong các nghiên cứu khoa học, mà còn sử dụng trong các ngành công nghiệp và chính trị. Sự đóng góp của Galton trong lĩnh vực này bao gồm giới thiệu các khái niệm về độ lệch chuẩn, tương quan, hồi quy và các ứng dụng của các phương pháp này để nghiên cứu về đặc điểm của con người, chieuf cao, cân nặng, chiều dài của lông mi và các đặc điểm khác. Pearson phát triền các hệ số tương quan, được định nghĩa như là tích số quan trọng. Phương pháp của hiện tại cho việc điều chỉnh phân phối màu và hệ thống các đường cong liên tục, trong số những mẫu khác. Galton và Pearson thành lập Biometrika là cuốn sách đầu tiên của thống kê toán và sinh học, thành lập ban thống kê đầu tiên tại trường đai học London.
+
+Giai đoạn thứ hai của những năm 1910 và 1920 đã được khởi xướng bởi William Gosset, và đỉnh cao trong tri thức của Sir Ronald Fisher, người đã viết cuốn sách để xác định các ngành học trong các trường đại học trên toàn thế giới. Ấn phẩm quan trọng nhất của Fissher là 1916 trang, các tương quan giữa mối liên hệ với giả thuyết, kế thừa của Mendelianvà 1925 cách sử dụng phương pháp thống kê cho những nhà nghiên cứu. Bài viết của ông là người đầu tiên sử dụng các thuật ngữ thống kê, phương sai. Ông đã phát triển mô hình thử nghiệm nghiêm ngặt và cũng hệ thống đầy đủ dữ liệu, thống kê phụ thuộc, phân biệt tuyến tính của Fisher và thông tin Fisher.
+Giai đoạn cuối cùng, trong đó chủ yếu là nhận thấy sự tinh tế và mở rộng phát triển trước đó, nổi lên từ sự hợp tác giữa Egon Pearson và Jerzy Neyman trong năm 1930. Họ giới thiệu các khái niệm về sai số “loại II”, sức mạnh của một thử nghiệm và khoảng thời gian tin cậy. Năm 1934, Jerzy Neyman cho thấy việc chọn mẫu ngẫu nhiên phân lớp là một phương pháp tốt hơn của ước lượng so với chọn mẫu có mục đích.
+Ngày nay phương pháp thống kê được áp dụng trong tất cả các lĩnh vực có liên quan đến việc ra quyết định, để cho các kết luận chính xác từ một bộ phận so với các dữ liệu và đưa ra quyết định khi đối mặt với kết luận không chắc chắn dựa trên phương pháp thống kê. Việc sử dụng máy tính hiện đại đã tính toán nhanh các tính toán thống kê quy mô lớn, và cũng đã có những phương pháp mới có thể không chính xác bằng việc tính bằng tay. Thống kê tiếp tục là một lĩnh vực nghiên cứu thiết thực, ví dụ như vấn đề làm sao để phân tích dữ liệu lớn.
+
+
+== Ứng dụng ==
+
+
+=== Ứng dụng thống kê, lý thuyết thống kê và toán thống kê ===
+“Thống kê ứng dụng” bao gồm thống kê mô tả và các ứng dụng của thống kê suy luận (bằng chứng cần thiết). Lý thuyết thống kê liên quan tới những lập luận logic cơ bản giải thích của phương pháp tiếp cận kết luận thống kê, cũng bao gồm toán thống kê. Toán thống kê không chỉ bao gồm các thao tác của phân phối xác suất cần thiết cho kết quả phát sinh liên quan đến các phương pháp tính toán và suy luận, nhưng còn khía cạnh khác nhau của các số liệu thống kê tính toán và thiết kế các thử nghiệm.
+
+
+=== Học qua máy và khai thác dữ liệu ===
+Có hai ứng dụng cho học qua máy móc và khai thác dữ liệu: quản lý dữ liệu và phân tích dữ liệu. Các công cụ thống kê cần thiết cho việc phân tích dữ liệu.
+
+
+=== Thống kê trong xã hội học ===
+Thống kê được áp dụng cho một loạt các môn học, bao gồm cả khoa học tự nhiên và xã hội, chính trị và kinh doanh. Thống kê tư vấn có thể giúp các tổ chức và công ty không có chuyên môn trả lời những thắc mắc.
+
+
+=== Tính toán thống kê ===
+
+Sự tăng nhanh và ổn định ở khả năng tính toán bắt đầu từ nửa sau thế kỷ 20 đã có một tác động đáng kể vào việc thực hành của môn khoa học thống kê. Mô hình thống kê lúc đầu gần như là của một lớp mô hình tuyến tính, nhưng khả năng tính toán, cùng với các thuật toán số học phù hợp, gây ra một lãi suất tăng trong các mô hình phi tuyến (như mạng thần kinh) cũng như tạo ra các kiểu mới, chẳng hạn như mô hình tuyến tính tổng quát và mô hình đa cấp.
+Khả năng tính toán tăng cũng dẫn đến sự phổ biến ngày càng tăng của các phương pháp tính toán dựa trên chọn mẫu, chẳng hạn như xem xét hoán vị và khả năng tự hoán vị, trong khi các kỹ thuật như Gibbs lấy mẫu đã sử dụng mô hình Bayesian khả thi hơn. Các cuộc cách mạng máy tính có ảnh hưởng đến tương lai của số liệu thống kê với sự nhấn mạnh mới về “thử nghiệm” và thống kê “thực nghiệm”. Một số lượng lớn của tổng thể và đặc biệt là phần mềm thống kê tịa thời điểm hiện tại.
+
+
+=== Thống kê áp dụng cho toán học hay nghệ thuật ===
+Theo truyền thống, thống kê có liên quan tới sự suy luận bản vẽ qua việc sử dụng một phương pháp bán tiêu chuẩn đã được “yêu cầu thử nghiệm” trong hầu hết các ngành khoa học. Điều này đã thay đổi việc sử dụng số liệu thống kê trong các bối cảnh không có kết luận. Những gì đã được coi là một chủ đề vô vị, thực hiện trong nhiều lĩnh vực như một mức yêu cầu, bây giờ được xem một cách nhiệt tình. Ban đầu một số người khó tính đã cười nhạo, nhưng hiện nay lại được coi là phương pháp cần thiết trong mọi lĩnh vực.
+Lý thuyết số tự nhiên n, biểu đồ phân rã của dữ liệu được tạo ra bởi một hàm phân phối có thể được chuyển đổi với các công cụ quen thuộc được sử dụng trong thống kê để cho thấy những điều cơ bản, mà sau đó có thể dẫn đến các giả thuyết.
+Phương pháp thống kê bao gồm các phương pháp dự báo được kết hợp với lý thuyết hỗn hợp và hình học nhân bản để tạo ra các tác phẩm video được đánh giá có vẻ đẹp tuyệt vời.
+Các quá trình nghệ thuật của Jackson Pollock dựa trên thí nghiệm nghệ thuật phân bố cơ bản trong tự nhiên được tiết lộ. Với sự ra đời của máy tính, các phương pháp thống kê được áp dụng để hợp thức hóa với các quá trình tự nhiên phân phối theo định hướng như vậy để thực hiện và phân tích nghệ thuật hình ảnh động.
+Phương pháp thống kê có thể được sử dụng để xác nhận trong nghệ thuật trình diễn, như trong một thẻ giả dựa trên quá trình Markov và chỉ hoạt động một thời gian nhất định, qua đó có thể dự đoán được việc sử dụng phương pháp thống kê.
+Thống kê có thể được sử dụng trong việc tạo hình nghệ thuật, như trong âm nhạc hay thống kê ngẫu nhiên phát minh bởi Lannis Xenakis, nơi âm nhạc biểu diễn rõ ràng. Mặc dù kiểu nghệ thuật không phải lúc nào cũng như mong đợi, nó diễn ra theo cách đó là được đoán trước và có hòa âm được bằng cách sử dụng thống kê.
+
+
+=== Lĩnh vực chuyên môn ===
+Các kỹ thuật thống kê được sử dụng trong một loạt các nghiên cứu khoa học và xã hội, bao gồm: ngành sinh học, tính toán sinh học, tính toán xã hội học, hệ thống sinh học, khoa học xã hội và nghiên cứu xã hội. Một số lĩnh vực sử dụng điều tra thống kê được áp dụng rộng rãi rằng họ có chuyên môn. Những ngành này bao gồm:
+Khoa học tính toán bảo hiểm (đánh giá rủi ro trong các ngành công nghiệp bảo hiểm và tài chính)
+ứng dụng thông tin kinh tế
+thiên văn học (đánh giá thống kê của dữ liệu thiên văn)
+sinh học
+thống kê kinh doanh
+hóa học (phân tích dữ liệu hóa học)
+khai thác dữ liệu (áp dụng thống kê và nhận dạng mẫu để khám phá tri thức từ dữ liệu)
+dân số học
+kinh tế học (phân tích thống kê các số liệu kinh tế)
+thống kê năng lượng
+thống kê kỹ thuật
+khoa học nghiên cứu bệnh dịch (phân tích thống kê của bệnh)
+địa lý và hệ thống thông tin địa lý, đặc biệt trong phân tích không gian
+xử lý hình ảnh
+thống kê y tế
+thống kê về hành vi, tâm lý
+độ bền cơ khí
+thống kê xã hội
+Ngoài ra còn có các loại cụ thể của phân tích thống kê cũng đã phát triển các thuật ngữ chuyên ngành thống kê các phương pháp thống kê:
+thống kê đa biến
+phân lớp thống kê
+phân tích dữ liệu có cấu trúc (thống kê)
+mô hình phương trình cấu trúc
+phương pháp điều tra
+phân tích sự tồn tại
+thống kê trong các môn thể thao khác nhau, đặc biệt là bóng chày và bóng bầu dục.
+Thống kê là một công cụ quan trọng trong cơ sở sản xuất kinh doanh. Nó được sử dụng để hiểu hệ thống đo lường biến động, kiểm soát quá trình (như trong kiểm soát quá trình thống kê hoặc thông qua hệ thống), cho dữ liệu tóm tắt, và đưa ra quyết định dựa trên dữ liệu. Nó đóng vai là một công cụ quan trọng, và là công cụ duy nhất đáng tin cậy.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang chủ của cơ quan thống kê các nước
+Trang chủ của Tổng cục Thống kê Việt Nam

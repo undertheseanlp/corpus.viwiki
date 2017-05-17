@@ -1,0 +1,27 @@
+Độ lệch chuẩn, hay độ lệch tiêu chuẩn, là một đại lượng thống kê mô tả dùng để đo mức độ phân tán của một tập dữ liệu đã được lập thành bảng tần số. Có thể tính ra độ lệch chuẩn bằng cách lấy căn bậc hai của phương sai.
+Khi hai tập dữ liệu có cùng giá trị trung bình cộng, tập nào có độ lệch chuẩn lớn hơn là tập có dữ liệu biến thiên nhiều hơn. Trong trường hợp hai tập dữ liệu có giá trị trung bình cộng không bằng nhau, thì việc so sánh độ lệch chuẩn của chúng không có ý nghĩa.
+Độ lệch chuẩn còn được sử dụng khi tính sai số chuẩn. Khi lấy độ lệch chuẩn chia cho căn bậc hai của số lượng quan sát trong tập dữ liệu, sẽ có giá trị của sai số chuẩn.
+
+
+== Khái niệm độ lệch chuẩn ==
+Độ lệch chuẩn, hay độ lệch tiêu chuẩn (Standard Deviation) là một đại lượng thống kê mô tả dùng để đo mức độ phân tán của một tập dữ liệu đã được lập thành bảng tần số. Có thể tính ra độ lệch chuẩn bằng cách lấy căn bậc hai của phương sai. Khi hai tập dữ liệu có cùng giá trị trung bình cộng, tập nào có độ lệch chuẩn lớn hơn là tập có dữ liệu biến thiên nhiều hơn. Trong trường hợp hai tập dữ liệu có giá trị trung bình cộng không bằng nhau, thì việc so sánh độ lệch chuẩn của chúng không có ý nghĩa. Độ lệch chuẩn còn được sử dụng khi tính sai số chuẩn. Khi lấy độ lệch chuẩn chia cho căn bậc hai của số lượng quan sát trong tập dữ liệu, sẽ có giá trị của sai số chuẩn.
+
+
+== Công thức tính độ lệch chuẩn trong Phân tích kỹ thuật ==
+Nếu gọi X là giá trị của công cụ tài chính, m = E(X) là trung bình cộng của X, S là phương sai, d là độ lệch chuẩn thì độ lệch chuẩn sẽ được tính toán như sau:
+S = E[(X – m)^2]; d = Căn bậc hai của S
+
+
+== Ý nghĩa của độ lệch chuẩn ==
+Độ lệch chuẩn đo tính biến động của giá trị mang tính thống kê. Nó cho thấy sự chênh lệch về giá trị của từng thời điểm đánh giá so với giá trị trung bình. Tính biến động cũng như độ lệch chuẩn sẽ cao hơn nếu giá đóng cửa và giá đóng cửa trên bình khác nhau đáng kể. Nếu sự chênh lệch không đáng kể thì độ lệch chuẩn và tính biến động ở mức thấp. Sự đảo chiều xu thế tạo các vùng đáy hoặc đỉnh của thị trường được xác định thời cơ bằng các mức độ biến động cao. Những xu thế mới của giá sau thời kỳ thoái trào của thị trường (tức là giai đoạn điều chỉnh) thường được xác định thời cơ bằng những mức độ biến động thấp. Sự thay đổi đáng kể về dữ liệu giá đem lại giá trị độ lệch chuẩn cao và dữ liệu giá ổn định hình thành độ lệch chuẩn ở mức thấp.
+
+
+== Xem thêm ==
+Phương sai
+Hệ số biến thiên
+Sai số chuẩn
+
+
+== Tham khảo ==
+
+Thống kê ứng dụng trong kinh tế - xã hội. Hoàng Trọng và Chu Nguyễn Mộng Ngọc. Nhà xuất bản Thống kê. Năm 2008.

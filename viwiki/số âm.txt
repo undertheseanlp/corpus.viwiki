@@ -1,0 +1,56 @@
+Số âm là một số có giá trị nhỏ hơn 0. Trong toán học, số âm thường được biểu diễn bằng một dấu trừ – nằm trước giá trị tuyệt đối của nó.
+
+
+== Biểu thị ==
+Số nguyên âm được biểu thị bằng công thức đại số 
+  
+    
+      
+        a
+        <
+         
+        0
+      
+    
+    {\displaystyle a<\ 0}
+  . Ví dụ tập hợp các số nguyên âm:
+
+  
+    
+      
+        
+          {
+          −
+          1
+          ,
+          −
+          2
+          ,
+          −
+          3
+          ,
+          −
+          4
+          ,
+          −
+          5
+          ,
+          −
+          6...
+          }
+        
+        
+      
+    
+    {\displaystyle \left\{-1,-2,-3,-4,-5,-6...\right\}\quad }
+  
+
+
+== Phân số ==
+
+
+== Xem thêm ==
+Số dương
+
+
+== Tham khảo ==

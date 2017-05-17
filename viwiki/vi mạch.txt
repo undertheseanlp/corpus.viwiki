@@ -1,0 +1,68 @@
+Vi mạch, hay vi mạch tích hợp, hay mạch tích hợp (integrated circuit, gọi tắt IC, còn gọi là chip theo thuật ngữ tiếng Anh) là tập các mạch điện chứa các linh kiện bán dẫn (như transistor) và linh kiện điện tử thụ động (như điện trở) được kết nối với nhau, để thực hiện được một chức năng xác định. Tức là mạch tích hợp được thiết kế để đảm nhiệm một chức năng như một linh kiện phức hợp.
+Các linh kiện kích thước cỡ micrômét (hoặc nhỏ hơn) chế tạo bởi công nghệ silicon.
+Mạch tích hợp giúp giảm kích thước của mạch điện đi rất nhiều, bên cạnh đó là độ chính xác tăng lên. IC là một phần rất quan trọng của các mạch logic. Có nhiều loại IC, lập trình được và cố định chức năng, không lập trình được. Mỗi IC có tính chất riêng về nhiệt độ, điện thế giới hạn, công suất làm việc, được ghi trong bảng thông tin (datasheet) của nhà sản xuất.
+Hiện nay, công nghệ silicon đang tính tới những giới hạn của vi mạch tích hợp và các nhà nghiên cứu đang nỗ lực tìm ra một loại vật liệu mới có thể thay thế công nghệ silicon này.
+
+
+== Lịch sử ==
+Sự phát triển sớm nhất của mạch tích hợp quay trở lại năm 1949, khi kỹ sư người Đức Werner Jacobi (Siemens AG) nộp bằng sáng chế cho một thiết bị khuếch đại bán dẫn giống như mạch như tích hợp, có 5 transistor trên một bề mặt chung cho bộ khuếch đại 3 tầng, làm dụng cụ trợ thính.
+Ngày 12 tháng 9 năm 1958, người Mỹ Jack Kilby ở Texas Instruments trình bày vi mạch đầu tiên. Kilby sau đó giành được giải thưởng Nobel Vật lý năm 2000.
+Nửa năm sau sự kiện Kilby, Robert Noyce ở Fairchild Semiconductor phát triển ý tưởng của riêng mình về một mạch tích hợp giải quyết được nhiều vấn đề thực tế mà Kilby đã không làm được. Thiết kế Noyce được làm bằng silicon, trong khi chip Kilby làm bằng germanium. Noyce thông tin cho Kurt Lehovec ở Sprague Electric về các nguyên tắc của tiếp giáp p-n cô lập gây ra bởi tác động của một tiếp giáp p-n có thiên áp (diode), là một khái niệm quan trọng về IC.
+Fairchild Semiconductor cũng là quê hương của công nghệ vi mạch silicon-gate đầu tiên với cổng tự liên kết (self-aligned gate), cơ sở của tất cả các chip CMOS của máy tính hiện đại. Công nghệ này được phát triển bởi nhà vật lý người Ý Federico Faggin vào năm 1968, người sau đó đã gia nhập Intel và phát triển các đơn chip Central Processing Unit (CPU) (Intel 4004) đầu tiên, và ông nhận Huy chương Quốc gia về Công nghệ và Đổi mới năm 2010.
+
+
+== Phân loại ==
+
+
+=== Phân loại theo tín hiệu được xử lý ===
+Theo xử lý tín hiệu
+IC digital xử lý hoặc lưu trữ các tín hiệu digital.
+IC analog hay IC tuyến tính xử lý tín hiệu analog.
+IC hỗn hợp, có cả analog và digital.
+
+
+=== Phân loại theo mức độ tích hợp ===
+IC (Integrated Circuit), tên chung. Từng còn chia ra SSI (small-scale integration) và MSI (medium-scale integration)
+LSI (Large Scale Integrated)
+VLSI (Very Large Scale Integrated) Các CPU, GPU, ROM, RAM, PLA, chipset, microcontroller,...
+ULSI (ultra-large-scale integration) dự đặt cho mạch trên 1 triệu transistor.
+
+
+=== Phân loại theo công nghệ ===
+Theo công nghệ
+Monolithic: tất cả các phần tử đặt trên một miếng nền vật liệu bán dẫn đơn tinh thể. Các linh kiện bán dẫn được tạo bằng pha tạp chất (doping), và theo thứ tự lớp thực hiện lai ghép điện trở, đường mạch dẫn, tụ điện, lớp cách điện, cực gate của MOSFET. Ví dụ công nghệ TTL, CMOS, CCD, BiCMOS, DMOS, BiFET-, transistor lưỡng cực.
+Mạch màng mỏng hay mạch phim, là những phần tử được tạo bằng lắng đọng hơi trên nền thủy tinh. Nó thường là các mạng điện trở. Chúng có thể được chế tạo bằng cách cân bằng điện tử với độ chính xác cao, và được phủ nhúng bảo vệ. Trong nhóm này bao gồm cả các mạch của transistor màng mỏng (TFT), ví dụ trong ứng dụng màn hình phẳng.
+Lai mạch màng dày kết hợp một số chip, vết mạch in đường dây dẫn, linh kiện điện tử thụ động (gần như chỉ có điện trở). Nền thường là gốm và thường được nhúng tráng.
+
+
+=== Phân loại theo công dụng ===
+Theo công dụng
+CPU, vi xử lý trong máy tính.
+Memory, bộ nhớ lưu trữ dữ liệu digital
+Thu nhỏ chip trong công nghệ RFID để giám sát (Identification) không tiếp xúc của các đối tượng hay các sinh vật sống
+IC logic tiêu chuẩn thuộc họ logic khác nhau
+ASIC dành cho phát triển ứng dụng cụ thể, ví dụ cho điều khiển lò nướng bánh, xe hơi, máy giặt,...
+ASSP là sản phẩm tiêu chuẩn cho ứng dụng cụ thể, tương tự như ASIC, nhưng có sẵn từ các nhà sản xuất và không được xây dựng theo yêu cầu của khách hàng
+IC cảm biến quá trình vật lý, hoá, sinh hoá,... ví dụ gia tốc, ánh sáng, từ trường, chất độc,...
+DSP (Digital signal processing) xử lý tín hiệu digital.
+ADC và DAC, chuyển đổi analog ←→ digital
+FPGA (Field-programmable gate array) được cấu hình bởi các IC digital của khách hàng, trong đó bao gồm một số lượng lớn các đơn vị chức năng kết nối được (interconnectable)
+Vi điều khiển (microcontroller) chứa tất cả các bộ phận của một máy tính nhỏ (bộ nhớ chương trình, ALU, bộ nhớ và thanh ghi)
+IC công suất có thể xử lý các dòng hay điện áp lớn (ví dụ khuếch đại công suất lớn, kiểm soát mạng điện lưới)
+System-on-a-chip (SoC) là hệ thống trong một chip.
+
+
+== Ứng dụng ==
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Các phần tử bán dẫn
+Linh kiện điện tử
+Ký hiệu điện tử
+Sơ đồ mạch điện
+
+
+== Liên kết ngoài ==

@@ -1,0 +1,42 @@
+Bản mẫu:Quantities of bytes
+Gigabyte (từ tiền tố giga- của SI) là đơn vị thông tin hoặc khả năng lưu giữ thông tin của bộ nhớ máy tính, bằng một tỷ byte hoặc 230 byte (1024 mebibyte). Gigabyte thường được viết tắt là GB (không nhầm lẫn với Gb, có nghĩa là gigabit).
+Việc sử dụng từ "gigabyte" khá nhập nhằng, phụ thuộc vào ngữ cảnh. Khi đề cập đến kích thước RAM và tập tin, nó nguyên thủy là định nghĩa nhị phân, bằng 10243 byte (có thể đồng nhất hoặc xấp xỉ 10003, để thuận tiện). Với cách dùng khác, nó bằng chính xác 10003. Để thể hiện sự nhập nhằng này, hiện nay hầu hết các cơ quan tiêu chuẩn đề nghị sử dụng thuật ngữ "gibibyte" (viết tắt là GiB) để chỉ khái niệm nhị phân.
+
+
+== Định nghĩa ==
+Có hai cách định nghĩa gigabyte hơi khác nhau tồn tại:
+1.000.000.000 byte hay 109 byte là định nghĩa theo hệ thập phân dùng trong truyền thông (như tốc độ mạng) và phần lớn nhà sản xuất thiết bị lưu trữ (ổ cứng và ổ USB). Cách dùng này tuân thủ quy tắc của SI.
+1.073.741.824 byte, bằng 10243, hoặc 230 byte. Định nghĩa này thường được dùng cho bộ nhớ máy tính, khoa học máy tính, hệ điều hành. Từ 1999, IEC đề nghị gọi đơn vị này là gibibyte (viết tắt là GiB) để phân biệt với tên gọi trong hệ SI. Microsoft sử dụng định nghĩa này để hiển thị kích thước ổ cứng, những hệ điều hành khác cũng vậy. Tất cả các hệ điều hành sử dụng định nghĩa này khi đề cập đến kích thước tập tin.
+
+
+== Gigabytes và gigabits ==
+Trong cách quy ước hiện đại, một byte bằng 8 bit. Một gigabyte tương đương với 8 gigabit.
+
+
+== Sự rắc rối cho người dùng ==
+Vào năm 2007, phần lớn ổ cứng được bán ra định nghĩa dung lượng theo gigabyte của họ. Dung lượng thật thường lớn hơn hay nhỏ cách dùng thông thường. Mặc dù phần lớn nhà sản xuất ổ cứng và ổ Flash định nghĩa 1 gigabyte là 1.000.000.000 byte, hệ điều hành máy tính mà phần lớn mọi người sử dụng thường tính một gigabyte bằng cách chia byte (bất kể nó là dung lượng ổ cứng, kích thước tập tin, hay RAM hệ thống) cho 1.073.741.824. Sự khác biệt này là lý do gây ra hoang mang, đặc biệt đối với những người không biết kỹ thuật, vì một ổ cứng mà nhà sản xuất quy định là có dung lượng 40 gigabyte có thể hệ điều hành báo chỉ có 37,2 GB, tùy vào loại báo cáo.
+Sự khác nhau giữa tiền tố SI và nhị phân là lôgarít — hay nói cách khác, một kilobyte SI bằng gần 98% một kibibyte, nhưng một megabyte thì bằng dưới 96% một mebibyte, và một gigabyte chỉ hơn 93% gibibyte. Điều đó có nghĩa là ổ cứng 500 GB sẽ chỉ hiển thị "465 GB". Khi kích thước lưu trữ ngày càng lớn và sử dụng đơn vị ngày càng cao, sự chênh lệch này sẽ càng ngày càng lớn.
+Chú ý rằng bộ nhớ máy tính được diễn tả bằng cơ số 2, theo như thiết kế, cho nên kích thước bộ nhớ luôn là lũy thừa của 2 (hoặc số liên quan gần, ví dụ như 384 MiB = 3×227 byte). Do đó thuận tiện khi làm việc với RAM bằng đơn vị nhị phân. Sự đo lường máy tính khác, như kích thước lưu trữ phần cứng, mức truyền dữ liệu, tốc độ xung đồng hồ, FLOP, vân vân..., không sử dụng cơ số đó, và thường được giới thiệu bằng đơn vị thập phân.
+Một ví dụ, có một ổ cứng có thể chứa chính xác 140×109 hay 140 tỷ byte sau khi định dạng. Nói chung, hệ điều hành tính kích thước đĩa và tập tin dùng số nhị phân, do đó ổ cứng 140 GB này sẽ được báo là "130,38 GB". Kết quả là có một sự không nhất quán rõ ràng giữa thứ mà người mua mua và thứ hệ điều hành nói họ đang có.
+Vài người dùng cảm thấy bị hớ khi thấy sự khác nhau, và cho rằng nhà sản xuất ổ cứng và thiết bị truyền dữ liệu đang sử dụng thước đo thập phân là một cách cố tình để giảm con số xuống, mặc dù sự đo lường là bình thường trong các lĩnh vực khác ngoài bộ nhớ máy tính. Vài tranh chấp pháp lý xuất phát từ sự nhập nhằng này.
+Cơ sở của rắc rối dĩ nhiên là định nghĩa chính thức của đơn vị SI không được biết đến rộng rãi, và vài sự hòa giải pháp lý bao gồm những cách để nhà sản xuất sử dụng thông tin rõ ràng hơn, như mô tả dung lượng ổ cứng bằng cả GB và GiB.
+
+
+== Việc sử dụng GB ==
+Nhiễm sắc thể người chứa 0,791175 GB dữ liệu (3.1647×109 cặp [1] biểu diễn như 2-bit).
+Một đĩa định dạng DVD-5 có thể lưu trữ 4,7 gigabyte, hoặc xấp xỉ 4,38 gibibyte. Một DVD-9 có thể lưu trữ 8,5 gigabyte, hoặc xấp xỉ 7,92 gibibyte.
+Một gigabyte xấp xỉ bằng 18 giờ nhạc MP3 (ở 128 kbit/s).
+Một gigabyte tương đương xấp xỉ với 11 giờ, 40 phút phim Flash (ở phân giải 450x370).
+Phần lớn máy chơi game thế hệ 6 và tất cả máy thế hệ 7 có đĩa game khoảng 1 GB hay nhiều hơn: Dreamcast (1,1 GB), Nintendo GameCube (1,5 GB), PlayStation 2, Xbox, Xbox 360, and Wii (8,5 GB), and PlayStation 3 (25/50 GB).
+Đĩa hai lớp Blu-ray và HD DVD có thể chứa lần lượt khoảng 50 gigabyte và 30 gigabyte dữ liệu.
+
+
+== Xem thêm ==
+Gibibyte
+Gigabit
+Tiền tố nhị phân
+Chuẩn bộ nhớ JEDEC
+Orders of magnitude (data)
+
+
+== Tham khảo ==

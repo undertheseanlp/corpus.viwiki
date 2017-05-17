@@ -1,0 +1,32 @@
+Ubuntu Mobile Internet Device Edition là một bản phân phối Ubuntu với ý định hoạt động trên các thiết bị dựa trên nền tảng Intel Mobile Internet Device,máy tính di động x86 dựa trên chíp Intel Atom. Nó đã được lên kế hoạch để sử dụng khuôn khổ GNOME Hildon làm cơ sở cho giao diện của nó.
+Các nhà sản xuất thiết bị đã có thể tùy chỉnh phân phối của họ, bao gồm các tùy chọn Flash, Java, hoặc tùy chỉnh giao diện.
+Ubuntu Mobile bị dừng phát triển vào năm 2009 và bị thay thế bởi Ubuntu Touch được công bố vào ngày 2/1/2013.
+
+
+== Tính năng ==
+Theo Canonical, Ubuntu Mobile sẽ cung cấp một " trải nghiệm Web 2.0 vựot trội". nó có một số tính năng bao gồm trình duyệt Web, email, trình đa phương tiện, camera, VoIP, Chat, GPS, blog, Truyền hình số, games, danh bạ, và lịch, với các cập nhật phần mềm thường xuyên. Nó được thiết kế để tương thích với màn hình cảm ứng.
+
+
+== Lịch sử phát hành ==
+Tháng 6/2008, Ubuntu Mobile 8.04 được phát hành. Ubuntu Mobile đã ngừng phát triển vào năm 2009 sau bản 9.10 Alpha 6.
+Ngày 31/10/2011 Mark Shuttleworth tuyên bố từ Ubuntu 14.04, Ubuntu sẽ hỗ trợ smartphone, máy tính bảng, smart TV và các màn hình thông minh khác (như car head units và smartwatches). Dự án sau đó được kế thừa bởi dự án Ubuntu Touch được công bố vào 2/1/2013.
+
+
+== Xem thêm ==
+Ubuntu Touch
+Ubuntu Netbook Edition
+Ubuntu for Android
+Plasma Mobile
+MeeGo
+Mer
+Tizen
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Ubuntu MobileAndEmbedded wiki
+Ubuntu Mobile Guide 7.10
+Mobile & Internet Linux Project by Intel
+Kubuntu-Mobile 11.04 (Natty Narwhal) preview mobile image

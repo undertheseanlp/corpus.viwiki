@@ -1,0 +1,10 @@
+Tạm dịch là hệ thống con kiểm soát chuyển động, hệ thống này đảm nhiệm việc điều khiển tư thế của trạm ISS. Công việc này được đảm nhiệm bởi cả phần của Nga và Mỹ trên trạm. Khi phần của Nga đảm nhận trách nhiệm, nó sử dụng các vòi đẩy, còn khi phần của Mỹ đảm nhận, nó sử dụng các con quay hồi chuyển điều khiển moment (Control Moment Gyroscope – CMG). Các con quay hồi chuyển này được lắp đặt phía trên giàn Z1.
+
+
+== Lịch sử ==
+Việc điều khiển tư thế của trạm không gian quốc tế ban đầu được thực hiện bởi các module của Nga trên trạm không gian (Zarya, Zvezda). Công việc này được chuyển sang cho Mỹ khi phòng thí nghiệm Destiny được lắp ráp vào trạm có chứa đầy đủ các thiết bị điều khiển cần thiết để kiểm soát các con quay hồi chuyển.
+
+
+== Tham khảo ==
+
+Chú giải 1: Motion Control Subsystem

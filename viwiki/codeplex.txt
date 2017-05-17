@@ -1,0 +1,8 @@
+CodePlex là một trang Web của Microsoft, được chuyên dùng lưu trữ các dự án mã nguồn mở. Tất cả các dự án tại CodePlex đều có một không gian Wiki, một phần mềm kiểm soát mã nguồn dựa trên Team Foundation Server, một diễn đàn, một phần mềm theo dõi lỗi v.v... Một số tác phẩm của các dự án tại CodePlex được phát hành với giấy phép mã nguồn mở trong khi đó một số tác phẩm khác được phát hành với các giấy phép hạn chế hơn.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang chính CodePlex

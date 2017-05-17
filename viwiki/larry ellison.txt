@@ -1,0 +1,17 @@
+Lawrence Joseph "Larry" Ellison (sinh 17 tháng 8 năm 1944) là một ông trùm tư bản người Mỹ, đồng sáng lập và giám đốc điều hành của tập đoàn Oracle, chuyên về phần mềm quản trị. Năm 2012, Forbes xếp ông giàu thứ 5 trên thế giới.
+
+
+== Tuổi trẻ ==
+Larry Ellison sinh tại thành phố New York, mẹ ông là một người Do Thái chưa kết hôn cha của ông là một phi công không quân Mỹ gốc Italia. Sau khi ông bị viêm phổi lúc mới chín tháng tuổi, mẹ ông đã đưa ông cho cô và chú của bà để làm con nuôi. Ellison đã không gặp lại mẹ ruột của mình cho đến khi ông 48 tuổi
+Ellison đã tốt nghiệp trường phổ thông Eugene Field ở Chicago tháng 1 năm 1958 rồi theo học trường trung học Sullivan ít nhất cho đến hết mùa xuân năm 1959 trước khi chuyển đến South Shore. Ông sống trong một căn hộ hai phòng ngủ tại khu trung lưu của người Do Thái ở South Shore, Chicago. Ellison nhớ lại rằng mẹ nuôi của ông, Lillian Ellison, là người đằm thắm và giàu tình cảm, trái ngược với người cha nuôi Louis Ellison khắc khổ, lạnh nhạt và hay xa nhà. Louis đã chọn họ Ellison để ghi nhớ nơi ông đã nhập cảnh vào Mỹ, đảo Ellis.
+Mặc dù Ellison lớn lên trong một gia đình theo đạo Do Thái cải cách, cha mẹ nuôi thường xuyên đến giáo đường Do Thái, ông vẫn là một người hoài nghi tôn giáo. Ellison đã nói rằng: "Trong khi tôi cho rằng tôi cũng là một người mộ đạo theo cách hiểu nào đó, những giáo điều đạo Do Thái lại không phải những giáo điều tôi chấp nhận. Tôi không tin rằng chúng là thật. Chúng là những câu chuyện thú vị. Chúng là những truyền thuyết thú vị và tôi chắc chắn tôn trọng những người tin đây là đúng theo nghĩa đen, nhưng tôi thì không... Tôi chẳng thấy thuyết phục gì với những thứ này". Khi 13 tuổi, Ellison đã từ chối nghi lễ "bar mitzvah" (đánh dấu tuổi 13 cho người Do Thái).
+Ellison là một học sinh sáng dạ nhưng thiếu tập trung. Ông đã rời đại học Illinois tại Urbana-Champaign sau năm thứ 2, không làm bài thi cuối năm vì mẹ nuôi của ông vừa qua đời. Sau mùa hè ở Bắc California, Ellison theo học đại học Chicago một học kỳ, tại đây lần đầu tiên ông tiếp cận với thiết kế máy tính. Năm 1966, 22 tuổi, Ellison chuyển đến bắc California.
+
+
+== Sự nghiệp ==
+
+Trong những năm 1970, sau một thời gian ngắn tại tập đoàn Amdahl, Ellison làm việc cho tập đoàn Ampex. Một trong các dự án của ông là xây dựng cơ sở dữ liệu cho CIA, ông đặt tên nó là "Oracle". Ellison lấy cảm hứng từ bài báo của Edgar F. Codd viết về các hệ thống cơ sở dữ liệu liên kết gọi là "A Relational Model of Data for Large Shared Data Banks". Năm 1977, ông thành lập Phòng thí nghiệm Phát triển Phần mềm (Software Development Laboratories SDL) với hai cộng sự và một khoản đầu tư 2.000 USD; riêng ông đóng góp 1.200 USD.
+Năm 1979, công ty đổi tên thành Relational Software Inc., sau đó lại đổi thành Oracle theo tên sản phẩm then chốt Oracle Database. Ông đã nghe nói đến cơ sở dữ liệu IBM System R, cũng dựa trên lý thuyết của Codd và ông muốn Oracle tương thích với nó, nhưng điều này là không thể vì IBM từ chối chia sẻ mã của System R. Oracle phát hành lần đầu là Oracle 2; không có Oracle 1.
+
+
+== Tham khảo ==

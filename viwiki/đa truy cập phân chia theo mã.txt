@@ -1,0 +1,31 @@
+CDMA (viết đầy đủ là Code Division Multiple Access) nghĩa là đa truy nhập (đa người dùng) phân chia theo mã. Khác với GSM phân phối tần số thành những kênh nhỏ, rồi chia sẻ thời gian các kênh ấy cho người sử dụng. Trong khi đó thuê bao của mạng di động CDMA chia sẻ cùng một giải tần chung. Mọi khách hàng có thể nói đồng thời và tín hiệu được phát đi trên cùng một giải tần. Các kênh thuê bao được tách biệt bằng cách sử dụng mã ngẫu nhiên. Các tín hiệu của nhiều thuê bao khác nhau sẽ được mã hoá bằng các mã ngẫu nhiên khác nhau, sau đó được trộn lẫn và phát đi trên cùng một giải tần chung và chỉ được phục hồi duy nhất ở thiết bị thuê bao (máy điện thoại di động) với mã ngẫu nhiên tương ứng. Áp dụng lý thuyết truyền thông trải phổ, CDMA đưa ra hàng loạt các ưu điểm mà nhiều công nghệ khác chưa thể đạt được.
+
+
+== Ứng dụng ==
+Ở Việt Nam đã từng có 06 nhà cung cấp dịch vụ điện thoại di động. Trong đó, S-Telecom (S-Fone) sử dụng công nghệ CDMA, Gmobile, MobiFone, VinaPhone, VietnamobileHT và Viettel sử dụng công nghệ GSM.
+Mạng sử dụng chuẩn GSM đang chiếm gần 50% số người dùng điện thoại di động trên toàn cầu. TDMA ngoài chuẩn GSM còn có một chuẩn khác nữa, hiện được sử dụng chủ yếu ở Mỹ Latin, Canada, Đông Á, Đông Âu. Còn công nghệ CDMA đang được sử dụng nhiều ở Mỹ, Hàn Quốc, Nhật Bản... Công nghệ đa truy nhập phân chia theo thời gian TDMA là công nghệ truyền sóng kỹ thuật số, cho phép một số người dùng truy nhập vào cùng một kênh tần số mà không bị kẹt bằng cách định vị những rãnh thời gian duy nhất cho mỗi người dùng trong mỗi kênh. Công nghệ này đòi hỏi vốn đầu tư ban đầu ít tốn kém hơn CDMA. Còn công nghệ đa truy nhập phân chia theo mã CDMA là công nghệ trải phổ cho phép nhiều tần số được sử dụng đồng thời; mã hóa từng gói tín hiệu số bằng một mã khóa duy nhất và gửi đi. Bộ nhận CDMA chỉ biết nhận và giải mã. Công nghệ này có tính bảo mật tín hiệu cao hơn TDMA. Theo các chuyên gia CNTT Việt Nam, xét ở góc độ bảo mật thông tin, CDMA có tính năng ưu việt hơn.
+
+
+== Ưu điểm ==
+
+
+=== Sử dụng bộ mã hóa ưu việt ===
+Nhờ hệ thống kích hoạt thoại, hiệu suất tái sử dụng tần số trải phổ cao và điều khiển năng lượng, nên nó cho phép quản lý số lượng thuê bao cao gấp 5-20 lần so với công nghệ GSM. Áp dụng kỹ thuật mã hóa thoại mới, CDMA nâng chất lượng thoại lên gần bằng với hệ thống điện thoại hữu tuyến(điện thoại để bàn).
+
+
+=== Chuyển giao mềm ===
+Đối với điện thoại di động, để đảm bảo tính di động, các trạm phát phải được đặt rải rác khắp nơi. Mỗi trạm sẽ phủ sóng một vùng nhất định và chịu trách nhiệm với các thuê bao trong vùng đó. Với CDMA, ở vùng chuyển giao, thuê bao có thể liên lạc với 2 hoặc 3 trạm thu phát cùng một lúc, do đó cuộc gọi không bị ngắt quãng, làm giảm đáng kể xác suất rớt cuộc gọi.
+
+
+=== Điều khiển công suất ===
+Một ưu điểm khác nữa của CDMA là nhờ sử dụng các thuật toán điều khiển nhanh và chính xác, thuê bao chỉ phát ở mức công suất vừa đủ để đảm bảo chất lượng tín hiệu, giúp tăng tuổi thọ của pin, thời gian chờ và đàm thoại. Máy điện thoại di động CDMA cũng có thể sử dụng pin nhỏ hơn, nên trọng lượng máy nhẹ, kích thước gọn và dễ sử dụng.
+Trong thông tin di động, thuê bao di động di chuyển khắp nơi với nhiều tốc độ khác nhau, vì thế tín hiệu phát ra có thể bị sụt giảm một cách ngẫu nhiên. Để bù cho sự sụt giảm này, hệ thống phải điều khiển cho thuê bao tăng mức công suất phát. Các hệ thống analog và GSM hiện nay có khả năng điều khiển chậm và đơn giản, thuê bao không thể thay đổi mức công suất đủ nhanh, do đó phải luôn luôn phát ở công suất cao hơn vài dB so với mức cần thiết. Tuy nhiên, để sử dụng mạng điện thoại di động CDMA, người dùng phải trang bị thiết bị đầu cuối phù hợp với công nghệ của mạng. Chi phí cho thiết bị đầu cuối CDMA hiện nay khoảng 200-1.000 USD tùy công năng của máy, trong tương lai giá sẽ thấp hơn. Trong vấn đề bảo mật, CDMA cung cấp chế độ bảo mật cao nhờ sử dụng tín hiệu trải băng phổ rộng. Các tín hiệu băng rộng khó bị rò ra vì nó xuất hiện ở mức nhiễu, những người có ý định nghe trộm sẽ chỉ nghe được những tín hiệu vô nghĩa. Ngoài ra, với tốc độ truyền nhanh hơn các công nghệ hiện có, nhà cung cấp dịch vụ có thể triển khai nhiều tùy chọn dịch vụ như thoại, thoại và dữ liệu, fax, Internet...
+Không chỉ ứng dụng trong hệ thống thông tin di động, CDMA còn thích hợp sử dụng trong việc cung cấp dịch vụ điện thoại vô tuyến cố định với chất lượng ngang bằng với hệ thống hữu tuyến, nhờ áp dụng kỹ thuật mã hóa mới. Đặc biệt các hệ thống này có thể triển khai và mở rộng nhanh và chi phí hiện thấp hơn hầu hết các mạng hữu tuyến khác, vì đòi hỏi ít trạm thu phát.
+Tuy nhiên, những máy điện thoại di động đang sử dụng chuẩn GSM hiện nay không thể sử dụng chuẩn CDMA. Nếu tiếp tục phát triển GSM, hệ thống thông tin di động này sẽ phải phát triển lên WCDMA mới đáp ứng được nhu cầu truy cập di động các loại thông tin từ mạng Internet với tốc độ cao, thay vì với tốc độ 9.600 bit/giây như hiện nay, và so với tốc độ 144.000 bit/giây của CDMA.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Thị trường Việt Nam "khép cửa" với công nghệ CDMA?

@@ -1,0 +1,36 @@
+De facto ( /dɪ ˈfæktoʊ/, /deɪʔ/, tiếng Latinh: [deː ˈfaktoː]) hay thực quyền, quyền lực thực tế, quyền thực tế là một thành ngữ trong tiếng Latinh có nghĩa là "trên thực tế" hay "theo thông lệ". Thông thường nó được sử dụng ngược với de jure (có nghĩa là "theo luật định") khi nói đến các vấn đề của lĩnh vực luật pháp, nhà nước, hay kỹ thuật (chẳng hạn các tiêu chuẩn) được tìm thấy trong thực tiễn của cộng đồng do được tạo ra hay phát triển lên mà không có (hoặc không trái) các quy định của luật điều chỉnh. Khi thảo luận về các trạng thái pháp lý thì de jure đề cập tới điều mà luật ghi nhận, trong khi de facto đề cập tới điều xảy ra trong thực tế, và chúng có thể khác nhau.
+Thuật ngữ de facto cũng có thể sử dụng khi không tồn tại luật hay tiêu chuẩn tương ứng, nhưng thông lệ chung đã được thiết lập rõ ràng, mặc dù có thể là không phải phổ biến rất rộng.
+
+
+== Các tiêu chuẩn de facto ==
+Tiêu chuẩn de facto, ví dụ như các tiêu chuẩn kỹ thuật hay tiêu chuẩn khác mà có sự phổ biến đến mức mọi người tuân theo chúng tương tự như khi người ta tuân theo các tiêu chuẩn luật định. Tiêu chuẩn de jure có thể khác: một ví dụ là sắc luật về tốc độ lái xe trên đường cao tốc. Mặc dù tiêu chuẩn de jure là lái xe ở tốc độ giới hạn hoặc thấp hơn, nhưng tiêu chuẩn de facto là lái xe ở tốc độ giới hạn hay tốc độ lớn hơn một chút so với tốc độ này.
+Một ví dụ khác là không có luật nào cấm một người thêm chữ cái mới, chẳng hạn như chữ Þ vào bảng chữ cái Latinh. Các chữ cái đã được thêm vào trong nhiều thế kỷ trước mà không có khó khăn nào, nhưng ngày nay người đó bị ngăn cản trong việc làm này, bởi những khó khăn thực tế nảy sinh. Vì thế đây là giới hạn de facto trong việc thay đổi bảng chữ cái.
+Tiêu chuẩn de facto đôi khi không được chính thức hóa và có thể chỉ đơn giản dựa trên thực tế là một số người nào đó có các ý tưởng tốt được ưa chuộng nhiều đến mức nó được những người khác sao chép lại. Những người tạo ra các tiêu chuẩn de facto điển hình là các công ty, tập đoàn hay côngxoocxiom.
+Trong khoa học máy tính, các tiêu chuẩn de facto đôi khi có thể trở thành các tiêu chuẩn de jure do tính ưu việt của chúng trên thị trường. Ví dụ, JavaScript của Netscape (tiêu chuẩn hóa thành ECMAScript) và một phần của DOM Mức 0 (tiêu chuẩn hóa thành Thông số HTML DOM Mức 1/2).
+
+
+== Các nhà lãnh đạo de facto ==
+Trong chính trị, nhà lãnh đạo de facto của một quốc gia hay khu vực là người được thừa nhận là có quyền lực, không phụ thuộc vào việc người đó có được quyền lực này bằng cách thức hợp hiến, hợp pháp hay đúng luật hay không. Thuật ngữ này được sử dụng rất phổ biến để chỉ những người mà quyền lực của họ được một số ít người khác cho là giành được bằng các cách thức bất hợp hiến, bất hợp pháp hay các cách thức không đúng luật khác, thường là bằng việc lật đổ nhà lãnh đạo trước đó hay can thiệp sâu vào sự lãnh đạo của người đương nhiệm đó. Các nhà lãnh đạo de facto không nhất thiết phải nắm giữ các chức vụ chính thức theo hiến pháp quy định và có thể thực thi quyền lực của mình theo các cách không chính thức. Tuy nhiên, quyền lực của họ thì không thể phủ nhận, điều này làm cho vị trí của họ như là các nhà lãnh đạo thực thụ phải được thừa nhận. Nhưng cần phải lưu ý rằng không phải tất cả các nhà độc tài đều là các nhà lãnh đạo de facto. Ví dụ, Augusto Pinochet ở Chile ban đầu lên nắm quyền trong vai trò của chủ tịch hội đồng tư vấn quân sự, nhưng sau đó đã thay đổi hiến pháp để trở thành tổng thống nước này, vì vậy đã làm ông trở thành nhà lãnh đạo chính thức và hợp pháp của Chile.
+Một ví dụ khác về nhà lãnh đạo de facto là những người trên thực tế không phải là nhà lãnh đạo, nhưng có ảnh hưởng rất lớn hay tổng thể đối với nhà lãnh đạo thực thụ, nó rất phổ biến trong các vương triều. Các ví dụ khác về các nhà lãnh đạo de facto là Từ Hi Thái Hậu của Trung Quốc (đối với con trai là vua Đồng Trị và cháu ruột là vua Quang Tự), công tước Aleksandr Danilovich Menshikov (đối với người yêu cũ của ông là nữ hoàng Ekaterina I của Nga), Hồng y giáo chủ Richelieu của Pháp (đối với vua Louis XIII), và hoàng hậu Marie Caroline (đối với chồng mình là vua Ferdinand I).
+Một số nhà lãnh đạo de facto thực thụ và nổi tiếng là Đặng Tiểu Bình của Cộng hòa nhân dân Trung Hoa và tướng Manuel Noriega của Panama. Cả hai nhân vật nói trên đã thực thi việc kiểm soát gần như tổng thể đối với quốc gia của họ trong nhiều năm, mặc dù không có chức vụ hợp pháp theo hiến pháp quy định hay sự ủy nhiệm luật định để thực thi quyền lực.
+Lãnh đạo quốc gia de facto là thuật ngữ hay sử dụng để miêu tả các Đại diện vương miện trong Khối Thịnh vượng chung Anh, hay nhà lãnh đạo thay cho (in lieu) nhà lãnh đạo quốc gia hợp pháp (de jure, hay luật định) (ví dụ vua hay nữ hoàng Anh).
+
+
+=== Quốc ngữ ===
+Một số quốc gia có quốc ngữ trên thực tế (de facto), bao gồm Úc, Nhật Bản, Vương quốc Anh, và Hoa Kỳ, nhưng không có quốc ngữ chính thức (theo luật quy định:de jure).
+Một số quốc gia có một ngôn ngữ nữa trên thực tế cộng thêm vào với quốc ngữ chính thức. Đó là trường hợp ở Liban và Maroc, quốc ngữ chính thức là tiếng Ả Rập, nhưng có thêm một ngôn ngữ trên thực tế là Tiếng Pháp. Ở New Zealand, Maori và New Zealand Sign theo luật quy định là quốc ngữ, trong khi tiếng Anh là quốc ngữ trên thực tế.
+
+
+== Một số sử dụng khác ==
+Sử dụng phổ biến khác của thuật ngữ de facto là sự "phân biệt de facto'': chẳng hạn những người sử dụng của một thư viện hay một ngôi trường nào đó có xu hướng là những người sống gần đó, vì thế các tiện ích này có xu hướng trở thành phân biệt "chủng tộc" hay "dân tộc" mà không có "sự phân biệt de jure" (nó đòi hỏi phải có sự phân biệt theo luật định).
+Một quốc gia độc lập de facto là quốc gia không được các quốc gia độc lập hay tổ chức quốc tế de jure nào công nhận, thậm chí cho dù chủ quyền của đất nước này là tách rời khỏi "quốc gia mẹ" và nó được thực thi tuyệt đối trên toàn bộ lãnh thổ mà nước này coi là của mình.
+Sự độc quyền de facto là hệ thống trong đó có nhiều pháp nhân hay thể nhân tham gia, nhưng có rất ít điều chỉnh (hay các sắc luật chống độc quyền nói chung hoặc trong một lĩnh vực kinh tế cụ thể, đặc biệt là trong các lĩnh vực dịch vụ công) hoặc ở những nơi mà luật chống độc quyền không được áp dụng dẫn đến tình trạng một pháp nhân/thể nhân nào đó thao túng thị trường.
+
+
+== Xem thêm ==
+Danh sách các thành ngữ Latinh
+De jure
+status quo
+
+
+== Tham khảo ==

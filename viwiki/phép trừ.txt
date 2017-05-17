@@ -1,0 +1,156 @@
+Trong số học, phép trừ là một trong bốn phép toán hai ngôi; nó là đảo ngược của phép cộng, nghĩa là nếu chúng ta bắt đầu với một số bất kỳ, thêm một số bất kỳ khác, và rồi bớt đi đúng số mà chúng ta thêm vào, chúng ta được con số chúng ta đã bắt đầu. Phép trừ được thể hiện bằng dấu trừ, đối lập với việc dùng dấu cộng cho phép cộng.
+Bởi vì phép trừ không có tính chất giao hoán, có hai toán hạng được đặt tên. Những tên thường dùng trong biểu thức
+c − b = a
+là số bị trừ (c) − số trừ (b) = hiệu (a).
+Phép trừ thường được dùng trong bốn quá trình liên quan đến nhau:
+Từ một bộ cho trước, lấy đi (trừ) một số vật. Ví dụ, 5 quả táo trừ đi 2 quả thì còn 3 quả.
+Từ một phép đo lường cho trước, lấy đi một số lượng tính trong cùng một đơn vị đo. Nếu tôi nặng 200 pound, và mất đi 10 pound, vậy thì tôi nặng 200 − 10 = 190 pound.
+So sánh hai vật có lượng như nhau để tìm điểm khác biệt giữa chúng. Ví dụ, sự khác nhau giữa 800 đô la và 600 đô la là 800 đô la − 600 đô la = 200 đô la. Còn được biết đến là so sánh trừ.
+Để tìm khoảng cách giữa hai nơi ở một khoảng cách cố định tính từ điểm bắt đầu. Ví dụ, nếu, trên đường cao tốc, bạn thấy một người soát vé nói rằng 150 dặm và sau đó bạn thấy người soát vé khác nói 160 dặm, bạn đã đi 160 − 150 = 10 dặm.
+Ở trong toán học, thường là tiện khi coi hay quy định phép trừ như một phép cộng, phép cộng của phép nghịch đảo bổ sung. Chúng ta có thể coi 7 − 3 = 4 như là tổng của hai số hạng: 7 và -3. Theo cách này, có thể cho phép chúng ta áp dụng phép trừ với tất cả những quy tắc quen thuộc và thuật ngữ của phép cộng. Phép trừ không có tính chất kết hợp hoặc giao hoán, trong khi phép cộng của hai số hạng thì lại có cả hai tính chất này.
+
+
+== Trừ số nguyên ==
+
+  
+    
+      
+        a
+        −
+        0
+        =
+        a
+      
+    
+    {\displaystyle a-0=a}
+  
+
+  
+    
+      
+        a
+        −
+        a
+        =
+        0
+      
+    
+    {\displaystyle a-a=0}
+  
+
+  
+    
+      
+        a
+        −
+        (
+        −
+        a
+        )
+        =
+        2
+        a
+      
+    
+    {\displaystyle a-(-a)=2a}
+  
+
+
+== Trừ phân số ==
+
+  
+    
+      
+        a
+        −
+        
+          
+            b
+            c
+          
+        
+        =
+        
+          
+            
+              a
+              c
+              −
+              b
+            
+            c
+          
+        
+      
+    
+    {\displaystyle a-{\frac {b}{c}}={\frac {ac-b}{c}}}
+  
+
+
+== Trừ hỗn số ==
+
+  
+    
+      
+        a
+        −
+        b
+        
+          
+            c
+            d
+          
+        
+        =
+        a
+        −
+        
+          
+            
+              b
+              d
+              +
+              c
+            
+            d
+          
+        
+      
+    
+    {\displaystyle a-b{\frac {c}{d}}=a-{\frac {bd+c}{d}}}
+  
+
+  
+    
+      
+        a
+        −
+        b
+        
+          
+            c
+            d
+          
+        
+        =
+        
+          
+            
+              a
+              d
+              −
+              b
+              d
+              −
+              c
+            
+            d
+          
+        
+      
+    
+    {\displaystyle a-b{\frac {c}{d}}={\frac {ad-bd-c}{d}}}
+  
+
+
+== Tham khảo ==

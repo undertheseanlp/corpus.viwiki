@@ -1,0 +1,67 @@
+Eric Emerson Schmidt (sinh ngày 27 tháng 4 năm 1955) là một kỹ sư, một thành viên cũ trong hội đồng quản trị của công ty Apple, và hiện tại đang là chủ tịch điều hành của Google. Từ năm 2001 đến 2011, ông giữ chức CEO của Google. Ông là đồng tác giả của phần mềm phân tích từ vựng cho Unix. Ông đồng thời cũng là thành viên trong ban quản trị của đại học Carnegie Mellon và đại học Princeton.
+
+
+== Tiểu sử ==
+Schmidt sinh tại Washington, D.C và lớn lên tại Blacksburg, Virginia. Sau khi tốt nghiệp trường cấp ba Yorktown, Schmidt theo học trường đại học Princeton, nơi ông nhận được bằng kỹ sư khoa học máy tính năm 1976. Ở trường đại học California, Berkeley, ông nhận được bằng MS (Master of Science) năm 1979 vì đã thiết kế và thực hiện một mạng máy tính nhằm liên kết trung tâm máy tính của trường với khoa máy tính (CS department) và khoa kỹ thuật điện - khoa học máy tính (EECS department),, bên cạnh đó ông còn nhận bằng tiến sĩ năm 1982 ngành kỹ thuật điện - khoa học máy tính với bài luận văn về vấn đề quản lý sự phát triển của phần mềm được phân phối và những công cụ để khắc phục những vấn đề này. Ông là một trong các tác giả của lex - một phần mềm phân tích từ vựng và là công cụ quan trọng cho việc xây dựng các trình biên dịch. Ông đã từng giảng dạy tại trường kinh doanh Stanford khi đang làm một giáo sư bán thời gian.
+Schmidt đang sống tại Atherton, California, với vợ là Wendy.
+
+
+== Sự nghiệp ==
+
+
+=== Buổi ban đầu ===
+Vào những ngày đầu sự nghiệp của mình, Schmidt giữ một số vị trí về mảng công nghệ của một số công ty công nghệ thông tin như Bell Labs, Zilog và trung tâm nghiên cứu Palo Alto nổi tiếng của Xerox (PARC). Ông làm việc cho Sun Microsystems vào năm 1983 và dẫn đầu trong những nỗ lực phát triển Java của công ty, sau đó ông lên làm giám đốc công nghệ (CTO). Năm 1997, ông được bổ nhiệm làm CEO của Novell.
+Schmidt rời Novell sau khi giúp công ty giành được Cambridge Technology Partners. Hai nhà sáng lập Google Larry Page và Sergey Brin đã phỏng vấn Schmidt. Bị ấn tượng bởi ông, họ tuyển dụng Schmidt để điều hành hoạt động của công ty vào năm 2001 dưới sự hướng dẫn của hai nhà đầu tư mạo hiểm John Doerr và Michael Moritz.
+
+
+=== Google ===
+Schimidt tham gia Google với chức chủ tịch hội đồng quản trị vào tháng 3 năm 2001 và trở thành CEO của công ty vào tháng 8 năm đó. Tại Google, Schmidt chia sẻ trách nhiệm về hoạt động hàng ngày của Google cùng với Sergey và Page. Theo như trang 29 của Google's 2004 S-1 Filing, Schmidt, Page và Brin hoạt động Google theo chế độ chuyên chính tay ba. Schmidt có nhiều nhiệm vụ theo pháp luật như: CEO của một công ty công khai, tập trung vào việc quản lý chức phó chủ tịch và cơ quan buôn bán.
+Theo website của Google, Schmidt cũng tập trung vào việc "xây dựng cơ sở hạ tầng cần thiết cho tập đoàn để duy trì tốc độ tăng trưởng nhanh của Google và đảm bảo chất lượng cao trong khi giữ cho thời gian phát triển sản phẩm ở mức tối thiểu".
+Năm 2007, PC World bình chọn Schmidt ở vị trí số một trong danh sách 50 người quan trọng nhất trên web cùng với hai nhà sáng lập Google Sergey Brin và Larry Page.
+Năm 2009, Schmidt được xem là một trong những "TopGun CEOs" bởi Brendan Wood International, một cơ quan tư vấn.
+Ngày 20 tháng 1 năm 2011, Google thông báo rằng vào ngày 4 tháng 4, Schmidt sẽ rời chức CEO của Google, nhưng sẽ tiếp tục làm chủ tịch hành chính của công ty và làm cố vấn cho Sergey và Brin. Page sẽ thay thế Schmidt cho chức CEO.
+Cuốn sách Bên trong Plex: Cách Google suy nghĩ, làm việc và định hình cuộc sống của chúng ta (In the Plex: How Google Thinks, Works, and Shapes Our Lives) xuất bản năm 2011 của Steven Levy cho biết, vào năm 2001, Schmidt đề nghị gỡ bỏ một đóng góp mang tính chính trị của ông ra khỏi kết quả tìm kiếm của Google. Lời đề nghị đã không được thỏa mãn. Schmidt đã phủ nhận và cho rằng điều này chưa hề xảy ra.
+
+
+=== Apple ===
+Schmidt được chọn vào hội đồng quản trị của Apple vào ngày 28 tháng 8 năm 2006. Vào tháng 8 năm 2009, người ta thông báo rằng Schmidt sẽ từ chức và rút khỏi hội đồng quản trị của Apple do những sự mâu thuẫn nảy sinh trong sự cạnh tranh tăng trưởng giữa Apple và Google.
+
+
+=== Tổng thống Barack Obama ===
+Schmidt là cố vấn viên của chiến dịch và là người đã đóng góp rất lớn cho Barack Obama. Và khi đã tuyên bố rời khỏi vị trí đó, ông đã quyết định sẽ vẫn ở lại là 'người đứng đầu nhóm liên quan đến chính phủ của Google'. Obama thậm chí đã xem xét ông cho chức Bộ trưởng Bộ Thương mại Hoa Kỳ. Schmidt đã từng là cố vấn viên không chính thức của chiến dịch tranh cử tổng thống của Obama bắt đầu từ ngày 19 tháng 10 năm 2008, vào việc thay mặt cho người ứng cử. Ông được nhắc đến như là một ứng cử viên có triển vọng cho chức giám đốc công nghệ do Obama tạo ra bởi sự ngưỡng mộ của ông đến Schmidt. Trong thông báo để trả lời Obama, Schmidt nói một cách hài hước rằng với tiền lương 1 đô-la Mỹ của ông, thì ông sẽ phải được giảm thuế. Sau khi Obama trúng cử, Schmidt là một thành viên của hội đồng tư vấn cho tổng thống Obama. Ông cho rằng cách dễ dàng nhất để khắc phục tất cả các vấn đề của Hoa Kỳ ngay lập tức, ít nhất là đối với các chính sách liên quan đến việc nội trợ, đó là bằng một chương trình có tác dụng kích thích đem lại nguồn năng lượng có thể khôi phục được, và trải qua thời gian, tham gia vào việc thay thế các nhiên liệu hóa thạch bằng năng lượng có thể khôi phục. Từ đó ông đã trở thành viên mới của Hội đồng tư vấn Khoa học và Công nghệ của tổng thống, viết tắt là PCAST.
+
+
+=== Quỹ nước Mỹ mới ===
+Quỹ "nước Mỹ mới" (New America Foundation) là một học viện chính sách công cộng phi lợi nhuận được thành lập năm 1999. Schmidt đã từng là chủ tịch Hội đồng quản trị. Ông đã lập James Fallows lên làm chủ tịch vào năm 2008.
+
+
+== Lương thưởng ==
+Eric Schmidt được trả lương là 250 000 đô-la Mỹ và bên cạnh đó là một lợi tức làm việc hàng năm. Ông đã được nhượng lại 14 331 703 cổ phần chung nhóm B với giá 30 cent cho một cổ phiếu và 426 892 cổ phần nhóm C với giá 2,34 đô-la Mỹ cho một cổ phiếu.
+Trong khi đang nhậm chức CEO của Google vào năm 2008 và 2009, Schmidt nhận được mức lương cơ sở là 1 đô-la Mỹ, bên cạnh đó phần đền bù là 508 763 đô=la Mỹ vào năm 2008 và 243 661 đô-la Mỹ vào năm 2009. Ông không nhận tiền mặt, cổ phần hay quyền mua bán cổ phần. Schmidt là một trong số ít người trở thành tỷ phú dựa trên quyền mua bán cổ phần trong một tập đoàn mà không phải là người sáng lập hay liên quan đến người đồng sáng lập. Trong danh sách tỷ phú thế giới năm 2011, Forbes xếp Schmidt ở vị trí thứ 136, với tài sản ước lượng khoảng 7 tỷ đô-la Mỹ. Eric Schmidt nhận số tiền lương là 1 đô la Mỹ vào năm 2006. Google đã tặng ông 100 triệu đô-la Mỹ vào năm 2011 như là một món quà.
+
+
+== Những quan điểm ==
+Trong suốt cuộc nói chuyện vào ngày 3 tháng 12 năm 2009, trong tài liệu "Bên trong bộ não của Google" của CNBC, Schmidt được hỏi: "Mọi người đang đối xử với Google như với người bạn đáng tin tưởng nhất của mình. Họ có nên không?" Và ông trả lời: "Tôi nghĩ vấn đề là ở cách nhìn. Nếu bạn có điều gì đó mà không muốn cho mọi người biết, có thể bạn không nên làm cho nó trở nên công khai, nhưng nếu bạn thực sự muốn sự riêng tư như vậy, thì sự thật là các cỗ máy tìm kiếm bao gồm Google sẽ giữ lại những thông tin này của bạn trong một thời gian, và việc lưu trữ nó rất quan trọng, ví dụ như, tất cả chúng ta ở nước Mỹ đều là chủ đề của các việc làm yêu nước. Và thông tin có thể được cung cấp cho các nhà chức trách." Tại Hội nghị Techonomy ngày 4 tháng 8 năm 2010, Schmidt cho rằng công nghệ thì tốt, nhưng ông đã nói rằng chỉ có một cách để giải quyết thử thách đó là "phải minh bạch hơn nữa và xóa bỏ tình trạng nặc danh". Schmidt cũng cho rằng trong một kỷ nguyên của những mối đe dọa bất đối xứng thì "tình trạng nặc danh là quá nguy hiểm".
+Vào tháng 8 năm 2010, Schmidt đã làm sáng tỏ quan điểm của công ty ông về thái độ trung lập trên mạng như sau: "Tôi muốn được rõ ràng rằng chúng ta định nghĩa thế nào là thái độ trung lập trên mạng: Chúng ta muốn nói gì nếu bạn có một dữ liệu là video chẳng hạn, bạn không phân biệt tương phản với video của một người với sự đồng ý của người khác. Nhưng cũng tốt khi phân biệt qua những loại khác nhau, vì vậy bạn có thể ưu tiên tiếng nói hơn là video, và đó là sự đồng ý chung giữa Verizon và Google về vấn đề đó".
+
+
+== Thông tin thêm ==
+Danh sách tỷ phú
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Eric Schmidt trên Twitter.
+CNET: Google balances privacy, reach (ngày 14 tháng 7 năm 2005), dùng Eric Schmidt để ví dụ về việc tổ chức thông tin cá nhân trên Google.
+Eric Eric Schmidt and Larry Page speaking at Stanford (ngày 1 tháng 5 năm 2002)
+Google CEO Dr. Eric Eric Schmidt Joins Apple's Board of Directors
+Eric Eric Schmidt talks about innovation on Executive Talks
+
+
+=== Video ===
+Eric Schmidt trên Charlie Rose năm 2010.
+Mobile World Congress 2010 Keynote: Eric Eric Schmidt, CEO, Google (tháng 2 năm 2010)
+Youtube: Eric Eric Schmidt at the Seoul Digital Forum. (ngày 5 tháng 6 năm 2007)
+Eric Schmidt speaks as part of NASA 50 years Lecture Series

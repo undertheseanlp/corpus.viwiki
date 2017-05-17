@@ -1,0 +1,35 @@
+.jp là tên miền quốc gia cấp cao nhất (ccTLD) của Nhật Bản. Quản lý bởi Dịch vụ đăng ký Nhật Bản.
+Khi mới thành lập, tên miền.jp được quản lý bởi JPNIC, một phần vai trò trong các cơ quan Internet hải ngoại ở Nhật. Tuy nhiên, do vai trò ngày càng quan trọng và lớn của việc đăng ký.jp, Cuộc họp chung lần thứ 11 của JPNIC vào tháng 12 năm 2000 đã quyết định tạo ra một công ty mới quản lý tên miền.jp. Do đó, Dịch vụ Đăng ký Nhật Bản đã ra đời, và vào ngày 30 tháng 6, năm 2003, chính thức làm nhiệm vụ của.jp registry.
+Việc đăng ký được thực hiện thông qua cơ quan ủy quyền và tên miền với ký tự tiếng Nhật (kanji, hiragana hay katakana) có thể được đăng ký ở cấp 2.
+
+
+== Các tên miền cấp 2 ==
+Trong khi bất kỳ ai có địa chỉ thư ở Nhật Bản có thể lấy tên miền cấp 2 (ví_dụ.jp) có một vài hạn chế dùng ở tên miền cấp 2, như ở dưới.
+ac.jp - cơ quan học thuật cao cấp, như đại học
+ad.jp - thành viên JPNIC
+co.jp - đa số dạng công ty, bao gồm các công ty nước ngoài đăng ký ở Nhật.
+ed.jp - cơ quan giáo dục cho cá nhân dưới 18 tuổi
+go.jp - Các bộ của chính phủ Nhật và các cơ quan pháo luật
+gr.jp - nhóm 2 người trở lên, hoặc nhóm các công ty đăng ký
+lg.jp - cơ quan chính phủ địa phương
+ne.jp - nhà cung cấp mạng
+or.jp - tổ chức đăng ký và phi chính phủ
+
+
+== Xem thêm ==
+Hệ thống tên miền
+Tên miền quốc gia cấp cao nhất
+Tên miền quốc tế hóa
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+IANA .jp whois information
+JPRS website
+JPNIC website
+.jp accredited registrars (in Japanese only)
+JP-Domains (.jp domain registration in English)
+domains-japan.com (.jp registration in English)
+Requirements for .jp domain registration (in English)

@@ -1,0 +1,47 @@
+Intel HD Graphics, được giới thiệu lần đầu vào năm 2010, là bộ xử lý đồ họa ̣̣̣(Graphics Processing Unit hay GPU) gắn liền với bộ xử lý trung tâm (Central Processing Unit hay CPU) của Intel, thay thế Intel GMA được gắn vào chipset. Do đó ở Việt Nam có một số nguồn gọi nó là card onboard để phân biệt với card rời là GPU của các hãng NVIDIA và ATI. Tuy nhiên nói một cách chính xác thì đây không phải là card đồ họa (Video Graphics Adapter hay VGA) mà là bộ xử lý đồ họa (GPU) nằm trên VGA.
+Hai phiên bản cao cấp của nó là Intel Iris Graphics và Intel Iris Pro Graphics được ra mắt vào đầu năm 2013 đi cùng vi kiến trúc Haswell. Intel HD và Iris Graphics không có bộ nhớ riêng mà khi làm việc nó sẽ lấy một phần bộ nhớ của RAM, còn Iris Pro Graphics thì đã được nhúng thêm bộ nhớ eDRAM.
+
+
+== Các thế hệ ==
+Do Intel HD và Iris Graphics được gắn cứng vào CPU, vì vậy các thế hệ của nó đi kèm các thế hệ vi kiến trúc CPU của Intel.
+
+
+=== Westmere ===
+Thế hệ thứ nhất ra mắt tháng 1 năm 2010 dành cho kiến trúc Westmere.
+HD Graphics - 12 đơn vị xử lý, lên đến 43.2 GFLOPS tại 900 MHz.
+
+
+=== Sandy Bridge ===
+Thế hệ thứ hai ra mắt tháng 1 năm 2011 dành cho kiến trúc Sandy Bridge.
+Trong đó HD Graphics dành cho các vi xử lý Celeron và Pentium, còn HD Graphics 2000 và 3000 dành cho dòng Intel Core.
+
+
+=== Ivy Bridge ===
+Thế hệ thứ ba ra mắt ngày 24 tháng 4 năm 2012 dành cho kiến trúc Ivy Bridge.
+Trong đó HD Graphics dành cho các vi xử lý Celeron và Pentium, còn HD Graphics 2500 và 4000 dành cho dòng Intel Core.
+
+
+=== Haswell ===
+Thế hệ thứ tư ra mắt ngày 12 tháng 12 năm 2012 dành cho kiến trúc Haswell.
+
+
+=== Broadwell ===
+Thế hệ thứ năm ra mắt tháng 11 năm 2013 dành cho kiến trúc Broadwell.
+
+
+=== Airmont / Braswell (Silvermont) ===
+Silvermont, ra mắt tháng 5 năm 2013, là vi kiến trúc dành cho các vi xử lý cấp thấp của Intel là Atom, Celeron và Pentium. Airmont / Braswell là phiên bản rút gọn của Silvermont ra mắt đầu năm 2015 cho PC.
+HD Graphics 400/405 – GT1 – 12 EU (N30xx/N31xx) / 16 EU (N37xx)
+N30xx – 320-600 MHz
+N31xx – 320-640 MHz
+N37xx – 400-700 MHz
+
+
+=== Skylake ===
+Thế hệ thứ sáu ra mắt tháng 8 năm 2015 dành cho kiến trúc Skylake.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

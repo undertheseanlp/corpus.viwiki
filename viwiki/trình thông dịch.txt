@@ -1,0 +1,4 @@
+Trình thông dịch biên dịch một chương trình nguồn theo từng phân đoạn. Sau đó, thực thi các đoạn mã đã được biên dịch. Hoàn toàn khác với trình biên dịch (biên dịch hoàn toàn rồi mới thực thi chương trình).
+
+
+== Tham khảo ==

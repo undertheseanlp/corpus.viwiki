@@ -45,7 +45,7 @@ turnover: mất bóng
 one-point game: trận đấu chỉ chênh lệch một điểm
 alley-oop: nhảy lên bắt bóng và cho luôn vào rổ (thường thấy khi có 1 trái missed hoặc airball)
 inbound: bóng ngoài sân
-starting at center : vị trí trung phong
+starting at center: vị trí trung phong
 Point guard: hậu vệ kiểm soát bóng
 starting shooting guard: hậu vệ chuyên ghi điểm
 3 point from the corner: ném 3 điểm ngoài góc

@@ -1,0 +1,68 @@
+Hiragana (Kanji: 平仮名, âm Hán Việt: Bình giả danh; Hiragana: ひらがな; Katakana: ヒラガナ) còn gọi chữ mềm là một dạng văn tự biểu âm truyền thống của tiếng Nhật, một thành phần của hệ thống chữ viết Nhật Bản, cùng với katakana (片仮名) và kanji (漢字); bảng ký tự Latinh, rōmaji, cũng được dùng trong một số trường hợp. Hiragana và katakana đều là các hệ thống kana, có đặc điểm là mỗi ký tự biểu diễn một âm tiết. Mỗi chữ kana hoặc là một nguyên âm (như a 「あ」); một phụ âm đi cùng với một nguyên âm (như ka 「か」); hoặc n 「ん」, một âm gảy, sẽ tùy vào âm ở sau mà phát âm thành [ɴ], [m], [n], [ŋ] hoặc nếu đứng ở trước nguyên âm sẽ trở thành nguyên âm mũi.
+
+
+== Tổng quát ==
+Có hai hệ thống sắp xếp thứ tự hiragana chính, xếp thứ tự theo kiểu cũ iroha (いろは), và kiểu xếp thứ tự phổ biến hiện nay theo gojūon, (五十音, Ngũ thập âm), bảng chữ âm tiết tiếng Nhật.
+Hiragana trong tiếng Nhật chủ yếu được sử dụng trong những tình huống sau:
+Tiếp vị ngữ của động từ, hình dung từ, hình dung động từ, như tabemashita (食べました, "đã ăn") hay thường là các bộ phận của trợ từ, trợ động từ như kara (から, "từ" (từ đâu đến đâu)) hay tiếp vị ngữ ~san (さん, "Ông, bà, cô...").
+Đối với các từ mô tả sự vật đã được người Nhật gọi tên từ lâu, không có chữ Hán tương ứng. Ví dụ: meshi (めし, "thức ăn"), yadoya (やどや, "nhà trọ").
+Trong những trường hợp nói chung là sử dụng kana chứ không dùng kanji, cũng không dùng katakana.
+Trong việc học tiếng Nhật, do tính chất cơ bản về chữ viết và các đọc của hiragana và katakana, nên chữ hiragana còn được dùng để phiên âm chữ kanji cho dễ đọc, gọi là furigana (振り仮名).
+
+
+== Hệ thống chữ viết hiragana ==
+Hiragana gồm một tập cơ bản các chữ cái, gọi là Ngũ thập âm, và sau đó được mở rộng bằng một số cách. Bằng cách thêm dấu dakuten (゛) (濁点, trọc điểm) sẽ biến các phụ âm điếc như [k] hay [t] thành các phụ âm kêu như [g] hay [d]: [k]→[g], [t]→[d], [s]→[z], và [h]→[b]. Hiragana thuộc hàng ha 「は」 có thể thêm handakuten (゜) (半濁点) sẽ biến [h] thành âm nửa kêu [p]. Một phiên bản nhỏ của các chữ ya, yu và yo (ゃ, ゅ và ょ) có thể được thêm vào cuối các chữ thuộc cột i 「い」. Nó sẽ biến các nguyên âm [i] âm vòm hóa, gọi là các âm đôi. Chữ tsu nhỏ 「っ」 gọi là sokuon để chỉ phụ âm đôi. Nó xuất hiện trước phụ âm xát và phụ âm tắc, và đôi khi còn nằm ở cuối câu. Trong rōmaji nó được thể hiện bằng cách viết hai lần phụ âm theo sau nó.
+Kiểu viết nhỏ 5 nguyên âm kana đôi khi được dùng để biểu thị các âm tắt dần (はぁ, ねぇ).
+Có vài chữ hiragana ngày nay rất hiếm dùng. Wi ゐ và we ゑ đã không còn được dùng. Vu ゔ là mới được thêm vào để biểu diễn âm [v] của tiếng nước ngoài, nhưng vì tiếng Nhật không có kiểu phát âm như vậy, nên nó thường được phát âm thành [b] và chủ yếu chỉ để biểu thị các phát âm trong ngôn ngữ gốc (ví dụ dễ thấy nhất là "Việt Nam" được người Nhật đọc là betonamu ベトナム). Tuy nhiên, chữ này hiếm khi gặp vì những từ mượn (ngoại lai ngữ) thường được viết bằng chữ katakana tương ứng ヴ.
+
+
+== Bảng chữ hiragana-rōmaji ==
+Bảng sau thể hiện hiragana cùng với la tinh hóa Hepburn.
+Ở vị trí hàng ya や cột e え, do không có mã Unicode nên phải dùng hình. Chữ này đọc như nguyên âm là /ye/ hoặc như phụ âm âm gần vòm cứng j đọc là je. Chữ này đã không còn được dùng từ khoảng nửa đầu thế kỷ thứ 10 nên không còn nằm trong bảng Ngũ thập âm hiện đại.
+Bây giờ chữ ゐ wi và chữ ゑ we không còn được dùng.
+Những phụ âm kép như にゃ, にゅ và にょ không nên nhầm lẫn với chuỗi んや, んゆ và んよ. Việc kết hợp に với các chữ nhỏ hình thành nên một mora, trong khi chuỗi chữ ん đi kèm với các chữ hàng や lớn tạo thành hai mora. Ví dụ như かにゅう ka-nyu-u, (加入 gia nhập) và かんゆう ka-n-yu-u (勧誘 khuyến dụ), nghe khác nhau rõ ràng, mặc dù kiểu chữ viết Latinh có thể viết giống nhau là kanyu. Trong hệ thống Hepburn, ta có thể phân biệt với dấu phẩy: kanyū và kan'yū.
+
+
+== Lịch sử ==
+
+Hiragana được phát triển từ man'yōgana (万葉仮名), tức là những chữ Hán được dùng để biểu diễn cách phát âm của người Nhật, bắt đầu hình thành từ thế kỷ thế 5. Dạng chữ hiragana bắt nguồn từ thảo thư của chữ Hán. Hình ở dưới là sự diễn hoá từ chữ Hán thành hiragana (đọc kiểu dọc theo thứ tự "a, i, u, e, o", hàng "a, ka, sa, ta, na, ha, ma, ya, ra, wa, n" từ phải sang trái). Ở phía trên là chữ khải thư, ở giữa màu đỏ là thể thảo thư của chữ, và ở dưới là hiragana tương đương.
+
+Khi mới được tạo ra, hiragana không được mọi người chấp nhận. Nhiều người cảm thấy tiếng Trung Quốc vẫn là ngôn ngữ của những người có học. Trước đây, ở Nhật Bản, dạng viết tay được dùng bởi những người đàn ông, còn gọi là onode (男手 nam thủ), và dạng chữ thảo được dùng bởi phụ nữ. Do đó hiragana ban đầu phổ biến ở giới nữ, những người không có được địa vị xã hội và học vấn như đàn ông. Từ đó, xuất hiện một tên gọi khác nonnade (女手 nữ thủ) là dạng chữ viết cho phụ nữ. Ví dụ như trong tác phẩm Truyện kể Genji (源氏物語 Nguyên Thị vật ngữ) và những tác phẩm tiểu thuyết khác mà tác giả là nữ giới dùng hầu như rất nhiều.
+Tác giả nam giới bắt đầu viết văn sử dụng hiragana. Hiragaga, với kiểu mềm của nó, được dùng như các tác phẩm viết không chính thức như thư cá nhân, trong khi katakana và kanji thường dùng cho những văn bản chính thức. Gần đây, hiragana đã được dùng chung với chữ katakana. Katakana được chuyển sang dùng cho các từ mượn gần đây (từ thế kỷ thứ 19), các tên chuyển ngữ, tên con vật, trong điện tín và để nhấn mạnh.
+Ngày xưa, tất cả các âm thanh đều có nhiều hơn một hiragana. Vào năm 1900, hệ thống đã được đơn giản hóa sao cho mỗi âm chỉ có một hiragana. Hiragana khác được biết đến như hentaigana (変体仮名).
+
+
+== Hiragana trong bảng mã Unicode ==
+Trong bảng mã Unicode, các ký tự Hiragana nằm ở đoạn mã từ U+3040 đến U+309F:
+Khối mã Unicode của hiragana có chứa tất cả những ký tự hiragana hiện đại, bao gồm cả nguyên âm nhỏ và nguyên âm kép, cộng với chữ wi và we cổ xưa và từ hiếm vu. Tất cả các tổ hợp hiragana với dakuten và handakuten sử dụng trong tiếng Nhật hiện đại ngày nay cũng là những ký tự tổ hợp sẵn, đồng thời có thể tạo ra được bằng cách sử dụng chữ hiragana gốc cùng với ký tự dakuten và handakuten (lần lượt là U+3099 và U+309A). Cách làm này được dùng khi muốn thêm dấu vào những chữ kana thường hiếm khi được dùng như vậy, ví dụ như thêm dakuten vào nguyên âm thuần túy hay handakuten vào một chữ kana không nằm trong hàng "ha".
+Những ký tự U+3095 và U+3096 là か (ka) nhỏ và け (ke) nhỏ. U+309F là chữ ghép より (yori) hiếm khi được dùng trong văn bản viết theo dạng dọc. U+309B và U+309C là khoảng trống (không tổ hợp) tương đương với các ký tự tổ hợp dakuten và handakuten.
+Không có ký tự nào ở các mã U+3040, U+3097, và U+3098.
+Phần bổ sung của hiragana (Unicode 6.1) nằm trong mã U+1B000: 뀀.
+
+
+== Xem thêm ==
+Tiếng Nhật
+Shodo, Thư pháp tiếng Nhật.
+Chữ lặp giải thích về các chữ lặp dùng với hiragana.
+Âm vị tiếng Nhật giải thích chi tiết về cách phát âm trong tiếng Nhật.
+Kana
+Kanji
+Katakana
+Rōmaji
+Hentaigana
+Man'yōgana
+Okurigana
+Furigana
+
+
+== Tham khảo ==
+
+"The Art of Japanese Calligraphy", Yujiro Nakata, ISBN 0-8348-1013-1, gives details of the development of onode and onnade.
+
+
+== Liên kết ngoài ==
+
+Bảng mã Hiragana tại Unicode.org
+Real Kana Luyện viết hiragana với các cách viết khác nhau
+Flash Kana lessons
+Romaji to Hiragana Công cụ chuyển Rōmaji sang Hiragana.

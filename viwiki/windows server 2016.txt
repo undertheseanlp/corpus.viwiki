@@ -1,0 +1,56 @@
+Windows Server 2016 là một hệ thống điều hành máy chủ được Microsoft phát triển như là một phần của gia đình hệ điều hành Windows NT, phát triển đồng thời với Windows 10. Phiên bản preview đầu tiên (kỹ thuật trước) đã được đưa ra ngày 01 tháng 10 năm 2014 cùng với các phiên bản preview đầu tiên của System Center. Không giống như các phiên bản Windows Server trước, được phát hành đồng thời với hệ thống điều hành máy khách, Windows Server 2016 đã được phát hành vào ngày 26 tháng 9 năm 2016 tại hội nghị Ignite của Microsoft và được đưa ra thị trường vào ngày 12 tháng 10 năm 2016.
+
+
+== Tính năng, đặc điểm ==
+Windows Server 2016 có một loạt các tính năng mới, bao gồm
+Active Directory Federation Services: Có thể cấu hình AD FS để xác thực người dùng được lưu trữ trong các thư mục không AD, như X.500 phù Lightweight Directory Access Protocol (LDAP) thư mục và cơ sở dữ liệu SQL [7].
+Windows Defender: Windows Server Antimalware được cài đặt và kích hoạt theo mặc định mà không có giao diện đồ họa, đó là một tính năng của Windows cài đặt [8].
+Remote Desktop Services: Hỗ trợ OpenGL 4.4 và OpenCL 1.1, hiệu suất và sự ổn định cải tiến; Dịch vụ MultiPoint vai trò (xem Windows MultiPoint Server) [9]
+Dịch vụ lưu trữ: Chính sách Trung ương lưu trữ QoS; Lưu trữ các bản sao (lưu trữ-agnostic, cấp khối, khối lượng dựa trên, nhân rộng đồng bộ và không đồng bộ sử dụng SMB3 giữa các máy chủ để phục hồi thảm họa). [10] Lưu trữ Replica sao chép khối thay vì tập tin; tập tin có thể được sử dụng. Nó không phải multi-master, không phải là một-nhiều và không bắc cầu. Nó định kỳ sao chép bức ảnh chụp, và sự chỉ đạo nhân rộng có thể được thay đổi.
+Failover Clustering: Cụm nâng cấp hệ điều hành cán, lưu trữ các bản sao [11]
+Ứng dụng Web Proxy: Preauthentication cho HTTP xuất bản ứng dụng cơ bản, ký tự đại diện xuất bản miền của các ứng dụng, HTTP HTTPS chuyển hướng, lan truyền của các khách hàng địa chỉ IP cho các ứng dụng phụ trợ [12]
+IIS 10: Hỗ trợ cho HTTP / 2
+Windows PowerShell 5.1 [13] [14]
+Windows Server Container [15]
+mạng tính năng
+DHCP: Khi Network Access Protection được tán thành trong Windows Server 2012 R2, Windows Server 2016 DHCP vai trò không còn hỗ trợ NAP [16]
+DNS:
+DNS khách hàng: Dịch vụ ràng buộc - tăng cường hỗ trợ cho các máy tính với nhiều hơn một giao diện mạng [17]
+Máy chủ DNS: chính sách DNS, mới các loại hồ sơ DDS (TLSA, SPF, và hồ sơ không rõ), lệnh PowerShell mới và các thông số [18]
+Windows Server Gateway đã hỗ trợ Generic Routing Encapsulation (GRE) đường hầm [19]
+quản lý địa chỉ IP (IPAM): Hỗ trợ / 31/32, và / 128 mạng con; phát hiện, các máy chủ DNS trong miền dựa trên tập tin; chức năng DNS mới; tích hợp tốt hơn các DNS, DHCP, và địa chỉ IP (DDI) Quản lý [20]
+Bộ điều khiển mạng: Một vai trò máy chủ mới để cấu hình, quản lý, giám sát và khắc phục sự cố các thiết bị và các dịch vụ mạng ảo và vật lý trong các trung tâm dữ liệu [21]
+Hyper-V ảo hóa mạng: lập trình Hyper-V chuyển đổi (một khối xây dựng mới các giải pháp phần mềm định nghĩa của Microsoft mạng); hỗ trợ đóng gói VXLAN; Phần mềm Microsoft cân bằng tải khả năng tương tác; tốt hơn IEEE Ethernet tuân thủ tiêu chuẩn. [22]
+Hyper-V
+Cán cụm Hyper-V cập nhật: Không giống như nâng cấp cụm từ Windows 2008 R2 đến năm 2012 mức, Windows Server 2016 các nút cluster có thể được thêm vào một máy chủ Hyper-V cụm với các nút chạy Windows Server 2012 R2. Cụm tiếp tục hoạt động tại một Windows Server 2012 R2 mức tính năng cho đến khi tất cả các nút trong cluster đã được nâng cấp và cụm mức chức năng đã được nâng cấp. [23]
+chất lượng lưu trữ của dịch vụ (QoS) để giám sát trực thuộc Trung ương thực hiện lưu trữ end-to-end và tạo ra các chính sách sử dụng Hyper-V và Scale-Out máy chủ tập tin
+, Hiệu quả hơn nhị phân định dạng cấu hình máy ảo (.VMCX mở rộng cho dữ liệu cấu hình máy ảo và phần mở rộng.VMRS cho dữ liệu trạng thái thời gian chạy) mới
+trạm kiểm soát sản xuất
+Hyper-V Manager: thông tin hỗ trợ thay thế, xuống cấp quản lý, giao thức WS-Management
+dịch vụ tích hợp cho Windows khách phân phối thông qua Windows Update
+Hot thêm và loại bỏ cho các adapter mạng (đối với thế hệ 2 máy ảo) và bộ nhớ (đối với thế hệ 1 và thế hệ 2 máy ảo)
+Linux khởi động an toàn
+khả năng tương thích chờ kết nối
+Lưu trữ Resiliency tính năng của Hyper-V được thành lập để phát hiện lỗ tạm các kết nối để lưu trữ máy ảo. Máy ảo sẽ được tạm dừng cho đến khi kết nối được thiết lập lại. [24]
+RDMA tương thích Virtual Switch
+Nano Máy chủ
+Microsoft công bố một tùy chọn cài đặt mới, Nano Server, trong đó cung cấp một phiên bản không đầu tối thiểu dấu chân của Windows Server. Nó không bao gồm giao diện người dùng đồ họa, WOW64 (hỗ trợ cho phần mềm 32-bit) và Windows Installer. Nó không hỗ trợ giao diện điều khiển đăng nhập, hoặc ở địa phương hoặc thông qua Remote Desktop Connection. Việc quản lý được thực hiện từ xa qua Windows Management Instrumentation (WMI), Windows PowerShell và công cụ quản lý máy chủ từ xa (một tập hợp các giao diện dựa trên web và các công cụ dòng lệnh). [26] Tuy nhiên, trong kỹ thuật trước 5, Microsoft đã lại thêm khả năng để quản lý Nano Máy chủ tại địa phương thông qua PowerShell. Theo kỹ sư của Microsoft Jeffrey Snover, Nano Server có kích thước thấp hơn 93% VHD, ít hơn 92% khuyến cáo an ninh quan trọng, và khởi động lại ít hơn 80% so với Windows Server. [27] [28]
+Nano Server là chỉ có sẵn cho khách hàng của Microsoft Software Assurance. [2]
+
+
+== Phát triển ==
+Microsoft đã được tổ chức lại bởi Satya Nadella, đặt máy chủ và các đội System Center với nhau. Trước đây, nhóm nghiên cứu Server đã được liên kết chặt chẽ hơn với các nhóm khách hàng Windows. Đội Azure cũng đang làm việc chặt chẽ với nhóm Server. [29]
+
+
+== Phát hành ==
+
+
+=== Phiên bản Preview ===
+Một phiên bản beta công khai của Windows Server 2016 (sau đó vẫn gọi là vNext) mang nhãn hiệu là "Windows Server kỹ thuật trước" được phát hành vào ngày 01 tháng 10 năm 2014; xem trước kỹ thuật xây dựng được nhằm hướng tới người dùng doanh nghiệp. Xem trước kỹ thuật đầu tiên lần đầu tiên được thiết lập để hết hạn vào ngày 15 tháng 4 năm 2015 nhưng [30] Microsoft sau đó phát hành một công cụ để mở rộng thời hạn sử dụng, kéo dài cho đến khi ảnh nghệ thứ hai của hệ điều hành tháng năm 2015. [31] Phiên bản beta thứ hai, "kỹ thuật trước 2", được phát hành vào tháng 4 năm 2015. Phiên bản preview thứ ba, "kỹ thuật trước 3" đã được phát hành vào ngày 19, 2015. "kỹ thuật trước 4" đã được phát hành vào ngày 19 tháng 11 năm 2015. " kỹ thuật trước 5 "được phát hành vào ngày 27 Tháng Tư 2016.
+
+
+=== Phát hành chính thức ===
+Windows Server 2016 đã được chính thức phát hành tại Hội nghị Ignite của Microsoft vào ngày 26 tháng 9, năm 2016. Không giống như người tiền nhiệm của nó, Windows Server 2016 được cấp phép bởi số lượng các lõi CPU chứ không phải là số lượng các CPU socket-một sự thay đổi đó đã tương tự được thông qua bởi BizTalk Server 2013 và SQL server 2014. [32]
+
+
+== Tham khảo ==

@@ -1,0 +1,53 @@
+Phát hành lần đầu ra công chúng, còn gọi là IPO (viết tắt theo tiếng Anh: Initial Public Offering) là việc chào bán chứng khoán lần đầu tiên ra công chúng. Khái niệm công chúng được hiểu là một số lượng nhà đầu tư đủ lớn với giá trị chứng khoán chào bán cũng đủ lớn. Sau khi phát hành lần đầu ra công chúng, một công ty cổ phần sẽ trở thành công ty đại chúng (hay công ty cổ phần đại chúng).
+
+
+== Lý do dẫn đến IPO ==
+Với sự phát triển mạnh mẽ của thị trường chứng khoán, các công ty có thể huy động được nhanh và nhiều vốn thông qua việc tiến hành IPO trên thị trường chứng khoán. Cổ phiếu của công ty cũng có thể đạt được tính thanh khoản rất cao và các giá trị gia tăng về giá sau khi IPO. Đó là một trong những lý do chính khiến các doanh nghiệp tiến hành IPO
+
+
+== Đấu giá thực hiện IPO ==
+Có 3 phương thức tổ chức đấu giá căn cứ vào giá trị cổ phần bán đấu giá và quyết định của Ban chỉ đạo cổ phần hóa.
+- Tại doanh nghiệp
+- Tại tổ chức tài chính trung gian (Công ty chứng khoán)
+- Tại Trung tâm giao dịch chứng khoán/Sở giao dịch chứng khoán
+Bước 1 - Chuẩn bị đấu giá
+- Cơ quan quyết định cổ phần hóa/Ban chỉ đạo cổ phần hóa xác định giá khởi điểm của cổ phần đấu giá.
+- Công bố thông tin về doanh nghiệp chuẩn bị tổ chức đấu giá tối thiểu 20 ngày trước ngày tổ chức đấu giá.
+- Phối hợp với cơ quan tổ chức đấu giá thuyết trình về doanh nghiệp cho nhà đầu tư nếu cần.
+Bước 2 - Thực hiện đấu giá
+- Cơ quan tổ chức đấu giá tiến hành nhận đơn đăng ký mua và tiền đặt cọc của nhà đầu tư theo quy chế đấu giá.
+- Nhà đầu tư bỏ phiếu tham dự đấu giá bằng các hình thức: Bỏ phiếu trực tiếp tại doanh nghiệp (nếu tổ chức đấu giá tại doanh nghiệp); Bỏ phiếu trực tiếp tại tổ chức tài chính trung gian (nếu tổ chức đấu giá tại tổ chức tài chính trung gian); Bỏ phiếu trực tiếp tại Trung tâm giao dịch chứng khoán/Sở giao dịch chứng khoán và các đại lý được chỉ định; Bỏ phiếu qua đường bưu điện do cơ quan tổ chức đấu giá quy định.
+Bước 3 - Tổ chức đấu giá và xác định kết quả đấu giá
+- Cơ quan tổ chức đấu giá tiến hành các thủ tục bóc phiếu tham dự đấu giá và nhập các thông tin vào phần mềm đấu giá.
+- Xác định kết quả đấu giá theo nguyên tắc lựa chọn giá đặt mua từ cao xuống thấp đến khi đủ số lượng cổ phần chào bán. Tại mức giá trúng thầu thấp nhất, với trường hợp các nhà đầu tư cùng đặt mức giá bằng nhau, nhưng tổng số cổ phần còn lại ít hơn tổng số cổ phần đăng ký mua thì số cổ phần của từng nhà đầu tư được mua xác định như sau:
+Số cổ phần nhà đầu tư được mua = Số cổ phần còn lại x (Số cổ phần từng nhà đầu tư đăng ký mua/Tổng số cổ phần các nhà đầu tư đăng ký mua)
+- Lập các biên bản liên quan đến buổi đấu giá gửi cho cơ quan quyết định cổ phần hóa, Ban chỉ đạo cổ phần hóa, doanh nghiệp và cơ quan tổ chức đấu giá
+- Công bố kết quả đấu giá cổ phần và thu tiền mua cổ phần.
+Bước 4 - Xử lý các trường hợp vi phạm quy chế đấu giá
+- Việc xử lý các trường hợp vi phạm được thực hiện theo quy định của quy chế đấu giá.
+- Nhà đầu tư không được nhận tiền đặt cọc nếu vi phạm quy chế đấu giá.
+Bước 5 - Xử lý đối với số cổ phần không bán hết trong đấu giá nếu có
+- Nếu sổ cổ phần nhà đầu tư từ chối mua nhỏ hơn 30% tổng số cổ phần chào bán thì Ban chỉ đạo cổ phần hóa thực hiện bán tiếp cho các nhà đầu tư đã tham dự đấu giá theo phương thức thỏa thuận với giá không thấp hơn giá đấu thành công bình quân của cuộc đấu giá.
+- Nếu số lượng cổ phần nhà đầu tư trúng thầu từ chối mua từ 30% tổng số cổ phần chào bán trở lên thì Ban chỉ đạo cổ phần hóa xem xét, quyết định tổ chức bán đấu giá tiếp số cổ phần từ chối mua (đấu giá lần 2). Giá khởi điểm trong trường hợp đấu giá lần 2 này không được thấp hơn giá đấu thành công thấp nhất.
+
+
+== Các cách thức chào bán của IPO ==
+Việc IPO có nhiều cách thức để tiến hành. Các dạng có thể thấy là:
+Đấu giá kiểu Hà Lan.
+Bảo lãnh cam kết.
+Dịch vụ với trách nhiệm cao nhất.
+Mua buôn để chào bán lại và
+Tự phát hành.
+Do các thủ tục pháp lý phức tạp và chế tài khá chặt chẽ và rắc rối, mỗi vụ IPO thường cần một số công ty khác nhau hỗ trợ, đặc biệt niêm yết ở Hoa Kỳ; trong đó có công ty luật, công ty chứng khoán, công ty kiểm toán hỗ trợ.
+Cổ phiếu IPO thường được bán cho các nhà đầu tư tổ chức với quy mô lớn. Cổ phiếu này cũng có thể dành ra một tỷ lệ nhỏ cổ phần bán cho các khách hàng cá nhân quan trọng do các công ty bảo lãnh đứng ra dàn xếp. Ở các thị trường chứng khoán tại các nước đã phát triển, nhà phát hành thường thả lỏng một điều khoản cho phép các nhà bảo lãnh có thể tự ý tăng quy mô phát hành cổ phiếu IPO lên tới 15% so với dự kiến theo kế hoạch đã thống nhất để linh hoạt phản ứng trước nhu cầu thị trường, gọi là phương án greenshoe. Greenshoe là điều khoản được nhất trí thực thi khi nhu cầu mua của thị trường tăng quá cao, đẩy giá lên, thì việc phát hành thêm tối đa 15% giúp bình ổn giá. Đôi lúc nhà phát hành không đồng ý vì họ không có kế hoạch sử dụng tiền do tăng thêm lượng cổ phần bán ra.
+
+
+== IPO ở Việt Nam ==
+Tại các nước phát triển, hầu hết các công ty trước khi đi vào hoạt động hoặc sau một quá trình phát triển đều tiến hành IPO. Công việc này được biết đến ở Việt Nam trong thời gian gần đây và được các công ty tiến hành khá nhanh, mạnh khi cảm nhận được các thế mạnh của nó.
+Với sự phát triển mạnh mẽ của thị trường chứng khoán, các công ty có thể huy động được nhanh và nhiều vốn thông qua việc tiến hành IPO trên thị trường chứng khoán. Cổ phiếu của công ty cũng có thể đạt được tính thanh khoản rất cao và các giá trị gia tăng về giá sau khi IPO.
+
+
+== Liên kết ngoài ==
+
+
+== Chú thích ==

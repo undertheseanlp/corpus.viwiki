@@ -1,0 +1,316 @@
+Đồ họa độ phân giải màn hình hiển thị là chiều rộng và chiều cao kích thước của một hình ảnh hiển thị trên thiết bị điện tử, chẳng hạn như một màn hình máy tính theo điểm ảnh. Một số kết hợp của chiều rộng và chiều cao được tiêu chuẩn hóa và thường được cho một tên và một chữ viết tắt có thể mô tả kích thước của nó. Một màn hình hiển thị độ phân giải cao hơn so sánh với một màn hình hiển thị của các phương tiện có kích thước tương tự thì sẽ hiển thị nội dung xuất hiện sắc nét hơn.
+
+
+== Tổng quan bởi độ phân giải dọc và tỉ lệ ==
+
+
+== Tỉ lệ khía cạnh ==
+
+Sự thay đổi dần dần của các tỉ lệ ưa thích các sản phẩm ngành công nghiệp màn hình thị trường đại chúng, từ 4: 3, sau đó đến 16:10, và sau đó để 16: 9, và bây giờ 21: 9 đã thực hiện rất nhiều các độ phân giải màn liệt kê trong bài viết này khó để có được sản phẩm trong thị trường đại chúng. 4: 3 tỉ lệ thường phản ánh các sản phẩm cũ, đặc biệt là thời đại của ống tia cathode (CRT). Tỷ lệ 16:10 có sử dụng lớn nhất của nó trong giai đoạn 1995-2010, và tỉ lệ 16: 9 có xu hướng phản ánh hiện tại (sau 2010) màn hình máy tính của thị trường đại chúng, laptop, vui chơi giải trí và các sản phẩm màn hình. Trong nhiều trường hợp, các nghị quyết được liệt kê trong các phần dưới đây có thể có một thị trường nhỏ, chỉ có thể được nhìn thấy trong các sản phẩm chuyên ngành thị trường công nghiệp hoặc máy tính, hoặc có thể không có sẵn để bán.
+4: 3 tỉ lệ đã được phổ biến trong ống tia cathode truyền hình cũ (CRT) màn hình, mà không phải là dễ dàng thích nghi với một tỷ lệ khía cạnh rộng lớn hơn. Khi công nghệ thay thế chất lượng tốt (ví dụ, màn hình tinh thể lỏng (LCD) và màn hình plasma) trở nên sẵn có hơn và ít tốn kém hơn, vào khoảng năm 2000, màn hình máy tính phổ biến và các sản phẩm giải trí di chuyển đến một tỷ lệ khía cạnh rộng hơn, đầu tiên đến 16:10 tỷ lệ. Tỷ lệ 16:10 cho phép một số thỏa hiệp giữa việc hiển thị cũ 4: 3 khía cạnh tỷ lệ phát sóng chương trình truyền hình, mà còn cho phép xem tốt hơn của phim màn ảnh rộng. Tuy nhiên, vào khoảng năm 2005, màn hình công nghiệp giải trí (ví dụ, bộ TV) dần dần chuyển từ 16:10 đến 16: Tỷ lệ khung 9, hoàn thiện hơn nữa của việc xem phim màn ảnh rộng. Đến khoảng năm 2007, hầu như tất cả các thị trường đại chúng giải trí màn hình là 16: 9. Trong năm 2011, 1920x1080 (Full HD, độ phân giải gốc của đĩa Blu-ray) là độ phân giải màn hình được ưa chuộng trong thị trường giải trí trên thị trường nhiều nhất. Các tiêu chuẩn tiếp theo, 3840x2160 (Ultra HD 4K alias) nổi lên trong năm 2013, nhưng những bộ phim và đài truyền hình không hỗ trợ độ phân giải nào. Cũng trong năm 2013, với màn hình 2560x1080 (tỉ lệ 64:27 hoặc 2.37: 1, tuy nhiên thường được gọi là "21: 9" để so sánh với 16: 9) xuất hiện, trong đó gần sát với các chung máy chụp ảnh phim tỉ lệ tiêu chuẩn của 2.35- 2.40: 1. Trong năm 2014, "21: 9" màn hình với các điểm ảnh kích thước 3440x1440 (tỷ lệ khía cạnh thực tế 43:18 hoặc 2.39: 1) trở thành có sẵn.
+Các ngành công nghiệp màn hình máy tính duy trì tỷ lệ 16:10 dài hơn ngành công nghiệp giải trí, nhưng trong giai đoạn 2005-2010, các máy tính ngày càng được thị trường như là các sản phẩm sử dụng kép, với mục đích sử dụng trong các ứng dụng máy tính truyền thống, mà còn là phương tiện để xem nội dung giải trí. Trong khoảng thời gian này, với ngoại lệ đáng chú ý của Apple, gần như tất cả các nhà sản xuất máy tính để bàn, máy tính xách tay, màn hình và dần dần chuyển sang thúc đẩy chỉ 16: 9 tỉ lệ màn hình. Đến năm 2011, tỷ lệ 16:10 hầu như biến mất khỏi thị trường màn hình máy tính xách tay Windows (mặc dù máy tính xách tay Macintosh vẫn chủ yếu là 16:10, trong đó có các 2880x1800 Retina MacBook Pro). Một vật là các nghị quyết cao nhất hiện có chuyển xuống trong khung thời gian (ví dụ, việc di chuyển từ màn hình máy tính xách tay để 1920x1200 1920x1080 màn hình).
+
+
+== Chuỗi đồ họa màn hình ==
+
+
+=== QQVGA (160x120) ===
+Quarter-QVGA (QQVGA hoặc qqVGA) biểu thị độ phân giải 160x120 hoặc 120x160 điểm ảnh, thường được sử dụng trong màn hình của thiết bị cầm tay. Thuật ngữ Quarter-QVGA nghĩa là một độ phân giải của một phần tư số lượng điểm ảnh trong một QVGA hiển thị (một nửa số dọc và một nửa số lượng điểm ảnh theo chiều ngang) mà bản thân nó có một phần tư số lượng điểm ảnh trong một đồ họa hiển thị.
+Các chữ viết tắt qqVGA có thể được phân biệt với quarter từ quad, giống như qVGA.
+
+
+=== HQVGA (240x160) ===
+Half-QVGA biểu thị một màn hình hiển thị độ phân giải 240x160 hoặc 160x240 điểm ảnh, như đã thấy trên Game Boy Advance. Độ phân giải này là một nửa của QVGA, mà là chính nó một phần tư của VGA, đó là độ phân giải 640x480 pixel.
+
+
+=== QVGA (320x240) ===
+
+Quarter Video Graphics Array (còn được gọi là Quarter VGA, QVGA, hoặc qVGA) là một thuật ngữ phổ biến cho một màn hình máy tính với độ phân giải hiển thị là 320x240. Màn hình QVGA được sử dụng thường xuyên nhất trong điện thoại di động, trợ lý kỹ thuật số cá nhân (PDA), và một số trò chơi cầm tay.
+Cái tên có từ quarter có độ phân giải tối đa là 640x480 đó là của công nghệ hiển thị IBM VGA đã trở thành tiêu chuẩn vào những năm 1980. QVGA không phải là một chế độ tiêu chuẩn được cung cấp bởi các BIOS VGA, mặc dù VGA và tương thích chipset hỗ trợ QVGA kích thước Chế độ X. Thuật ngữ này dùng để chỉ độ phân giải của màn hình QVGA và do đó các thuật ngữ viết tắt hoặc Quarter VGA là thích hợp hơn để sử dụng.
+QĐộ phân giải QVGA cũng được sử dụng trong video kỹ thuật số thiết bị ghi âm như một chế độ có độ phân giải thấp đòi hỏi dung lượng lưu trữ dữ liệu ít hơn so với độ phân giải cao hơn, thông thường trong vẫn máy ảnh kỹ thuật số với khả năng quay video, và một số điện thoại di động. Mỗi hình ảnh là một hình ảnh 320x240 pixel. QVGA video thường được ghi nhận tại 15 hoặc 30 khung hình mỗi giây. Chế độ QVGA mô tả kích thước của một hình ảnh theo pixel, thường được gọi là độ phân giải; nhiều định dạng file video hỗ trợ độ phân giải này.
+Trong khi QVGA là thấp hơn độ phân giải VGA hơn, ở độ phân giải cao hơn các "Q" tiêu chuẩn thường có nghĩa là quad(ruple) hoặc cao hơn bốn lần độ phân giải màn hình (e.g., QXGA là độ phân giải gấp 4 lần cao hơn so với XGA). Để phân biệt quarter đến quad, chữ thường "q" đôi khi được sử dụng cho "quarter" và chữ hoa "Q" của "quad", tương tự như với SI như m/M và p/P, nhưng điều này không phải là một cách sử dụng phù hợp.
+Một số ví dụ về các thiết bị sử dụng độ phân giải màn hình hiển thị QVGA bao gồm, Samsung i5500, LG Optimus L3-E400, Galaxy Fit, Y và Pocket, HTC Wildfire, Sony Ericsson Xperia X10 Mini và mini pro và Nintendo 3DS phía dưới màn hình.
+
+
+=== WQVGA (400x240) ===
+Wide QVGA hoặc WQVGA là bất kỳ độ phân giải màn hình hiển thị có chiều cao tương tự trong các điểm ảnh của màn hình QVGA, nhưng rộng hơn. Định nghĩa này là phù hợp với các phiên bản khác 'rộng' của màn hình máy tính.
+Kể từ QVGA là 320 pixels rộng và 240 pixels cao (tỉ lệ 4: 3), độ phân giải của màn hình WQVGA có thể là 360x240 (3: 2 tỉ lệ), 384x240 (tỷ lệ 16:10), 400x240 (5: 3 - như Nintendo 3DS hay màn hình độ phân giải tối đa trong YouTube ở 240p), 428x240 hoặc 432x240 (~ 16: 9). Như với WVGA, tỷ lệ chính xác của n: 9 là không thực tế vì các bộ điều khiển VGA đường nội bộ đối phó với các điểm ảnh. Ví dụ, khi sử dụng các hoạt động tổ hợp đồ họa trên các pixel, bộ điều khiển VGA sẽ sử dụng 1 bit cho mỗi pixel. Kể từ khi bit không thể được truy cập cá nhân nhưng do khối 16 hoặc một sức mạnh còn cao hơn 2, điều này hạn chế độ phân giải ngang với một granularity 16-pixel, tức là, độ phân giải ngang phải chia hết cho 16. Trong trường hợp 16: 9, với 240 điểm ảnh cao, độ phân giải ngang nên 240/9 × 16 = 426. 6, các nhiều gần gũi nhất của 16 là 432.
+WQVGA cũng đã được sử dụng để mô tả màn hình mà không phải là 240 điểm ảnh cao, ví dụ XVI HD1080 màn hình là 480 pixels và 270 hoặc 272 điểm ảnh cao. Điều này có thể là do QVGA có độ cao màn hình gần nhất.
+Độ phân giải WQVGA thường được sử dụng trong màn hình cảm ứng điện thoại di động, chẳng hạn như 400x240, 432x240, 480x240 và. Ví dụ, Sony Ericsson Aino và Samsung Instinct cả hai đều có độ phân giải màn hình WQVGA - 240x432. Các thiết bị khác như Apple iPod Nano cũng sử dụng một màn hình WQVGA, 240x376 pixels.
+
+
+=== HVGA (480x320) ===
+HVGA (Half-size VGA) màn hình có 480x320 pixel (tỉ lệ 3: 2 khía cạnh), 480x360 pixel (tỷ lệ 4: 3 khía cạnh), 480x272 (~ 16: 9 khía cạnh) hoặc 640x240 pixels (8: Tỷ lệ 3 khía cạnh). Các cựu được sử dụng bởi một loạt các PDA thiết bị, bắt đầu với Sony Clie PEG-NR70 vào năm 2002, và PDA độc bởi Palm. Sau này đã được sử dụng bởi một loạt các máy tính cầm tay thiết bị. Độ phân giải VGA là 640x480.
+Ví dụ về các thiết bị sử dụng HVGA bao gồm Apple iPhone 2G-3GS; BlackBerry Bold 9000; HTC Dream, Hero, Wildfire S; LG GW620 Eve, MyTouch 3G slide; Nokia 6260 slide; Palm Pre; Samsung M900 Moment; Sony Ericsson Xperia X8, Mini, Mini Pro, Activity và Live.
+Texas Instruments sản xuất DLP chiếu pico mà hỗ trợ độ phân giải HVGA
+HVGA là độ phân giải chỉ được hỗ trợ trong phiên bản đầu tiên của Google Android, lập để phát hành 1.5. độ phân giải cao hơn và thấp hơn khác là bây giờ đã có bắt đầu từ ngày phát hành 1.6, như phổ biến WVGA độ phân giải trên Droid Motorola hoặc QVGA độ phân giải trên HTC Tattoo.
+Đồ họa vi tính ba chiều phổ biến trên truyền hình trong suốt những năm 1980 đã được chủ yếu là render ở độ phân giải này, khiến các vật thể có cạnh sắc nhọn trên đỉnh và dưới cùng khi cạnh không chống aliased.
+
+
+=== VGA (640x480) ===
+
+Video Graphics Array (VGA)đề cập cụ thể đến các phần cứng hiển thị đầu tiên được giới thiệu với IBM PS / 2 dòng máy tính vào năm 1987,, nhưng thông qua việc áp dụng rộng rãi của nó cũng đã đến với nghĩa là một analog tiêu chuẩn màn hình máy tính, 15-pin D-subminiature nối VGA hoặc 640x480 độ phân giải bản thân. Trong khi nghị quyết này đã được thay thế trong các máy tính cá nhân của thị trường trong những năm 1990, nó đã trở thành một giải pháp phổ biến trên các thiết bị di động trong những năm 2000. VGA vẫn là chế độ xử lý sự cố dự phòng phổ quát trong trường hợp rắc rối với trình điều khiển thiết bị đồ họa trong hệ điều hành.
+
+
+=== WVGA (768x480) ===
+Wide VGA hoặc WVGA, đôi khi chỉ WGA, một từ viết tắt cho VGA mở rộnglà bất kỳ độ phân giải màn hình hiển thị với cùng chiều cao 480 pixel như VGA nhưng rộng hơn, chẳng hạn như 720x480 (3: 2 khía cạnh), 800x480 (tỉ lệ 5: 3), 848x480, 852x480, 853x480 hoặc 854x480 (~ 16: 9). Nó là một giải pháp phổ biến trong máy chiếu LCD và các thiết bị di động và sau đó cầm tay internet cho phép (như MID và netbook) vì nó có khả năng render các trang web được thiết kế cho một cửa sổ rộng 800 đầy đủ trang rộng. Ví dụ về các thiết bị Internet cầm tay, không có khả năng điện thoại, với độ phân giải này bao gồm: Spice nhance sao mi-435, ASUS Eee PC 700 series, Dell XCD35, Nokia 770, N800 và N810.
+Điện thoại di động với độ phân giải màn hình WVGA cũng phổ biến. Một danh sách các điện thoại di động với màn hình WVGA có sẵn.
+
+
+=== FWVGA (854x480) ===
+FWVGA là một từ viết tắt của Full Wide Video Graphics Array trong đó đề cập đến một độ phân giải màn hình 854x480 pixel của. 854x480 là khoảng 16: 9 tỉ lệ khía cạnh của anamorphically "un-vắt" widescreen video NTSC DVD và được coi là "an toàn" độ phân giải mà không cắt bất cứ hình ảnh. Nó được gọi là Full WVGA để phân biệt nó từ khác, độ phân giải WVGA hẹp mà đòi hỏi phải cắt 16: 9 aspect ratio video độ nét cao (tức là nó là đầy đủ chiều rộng, mặc dù có đáng kể giảm kích thước).
+Chiều rộng 854 pixel được làm tròn lên từ 853. 3. 480 × 16 / 9 = 7680 / 9 = 853 1 / 3. Từ một điểm ảnh phải là một số nguyên, làm tròn lên đến 854 đảm bảo bao gồm của toàn bộ hình ảnh. Do các thiết bị vật lý thường được sản xuất với độ phân giải pixel đó là bội số của 16, độ phân giải ngang 854 có thể được thực hiện bởi hệ điều hành chỉ đơn giản là giả vờ 10 cột edgemost, từ chiều rộng vật lý đầy đủ của 864, không tồn tại.
+Trong năm 2010, điện thoại di động với độ phân giải FWVGA bắt đầu trở nên phổ biến hơn. Một danh sách các điện thoại di động với màn hình FWVGA có sẵn. Ngoài ra, các gamepad Wii U mà đi kèm với Nintendo Wii U chơi game console bao gồm một màn hình hiển thị 6,2 inch FWVGA.
+
+
+=== SVGA (800x600) ===
+
+Super Video Graphics Array, viết tắt là Super VGA hoặc SVGA, còn được gọi là Ultra Video Graphics Array, viết tắt là Ultra VGA hoặc UVGA, là một khái niệm rộng bao gồm một loạt các tiêu chuẩn màn hình máy tính
+Ban đầu, nó là một phần mở rộng cho VGA tiêu chuẩn đầu tiên phát hành bởi IBM vào năm 1987. Không giống như VGA - một tiêu chuẩn hoàn toàn IBM định nghĩa - Super VGA được xác định bởi Hiệp hội tiêu chuẩn điện tử video (VESA), một tập đoàn mở thiết lập để thúc đẩy khả năng tương tác và xác định các tiêu chuẩn. Khi được sử dụng như một thông số độ phân giải, trái ngược với VGA hoặc XGA ví dụ, hạn SVGA thường dùng để chỉ độ phân giải 800x600 pixel.
+Các độ phân giải 832x624 tăng cao hơn là cao nhất là 4: 3 độ phân giải không lớn hơn 2 19 pixels, với chiều ngang của nó là bội số của 32 pixels. Điều này cho phép nó để phù hợp trong một bộ đệm khung 512 KB (512 × 2 10 byte), và bội số chung của 32 pixels ràng buộc liên quan đến liên kết. Vì những lý do độ phân giải này đã có sẵn trên Macintosh LC III và các hệ thống khác.
+
+
+=== DVGA (960x640) ===
+DVGA (Double-size VGA) màn hình có 960x640 pixel (tỉ lệ 3: 2 khía cạnh). Cả hai kích thước là gấp đôi của HVGA, do đó số điểm ảnh được tăng gấp bốn lần.
+Ví dụ về các thiết bị sử dụng DVGA bao gồm các Meizu MX điện thoại di động và Apple iPhone 4 / 4S, khi màn hình được gọi là "Retina Display".
+
+
+=== WSVGA (1024x576/600) ===
+Các phiên bản rộng của SVGA được biết đến như WSVGA (Wide Super VGA), đặc trưng trên các máy tính siêu di động, netbook, và máy tính bảng. Độ phân giải là 1024x576 hoặc (tỉ lệ 16: 9) hoặc 1024x600 (từ 15: 9 và 16: 9) với kích thước màn hình khác nhau, thông thường 7-10 inches.
+
+
+== Chuỗi đồ họa tăng cường, mở rộng ==
+
+
+=== XGA (1024x768) ===
+XGA, các chuỗi đồ họa mở rộng, là một tiêu chuẩn IBM giới thiệu vào năm 1990. Sau đó nó đã trở thành tên gọi phổ biến nhất của độ phân giải màn hình hiển thị 1024x768 pixel, nhưng định nghĩa chính thức là khái niệm rộng hơn. Đó không phải là một sự thay thế mới và cải tiến cho Super VGA, mà là trở thành một tập hợp con đặc biệt của loạt khả năng được đề cập trong "Super VGA"
+Phiên bản ban đầu của XGA (và người tiền nhiệm của nó, là IBM 8514) mở rộng khi IBM cũ VGA bằng cách thêm hỗ trợ cho bốn chế độ màn hình mới (ba, cho 8514), trong đó có một nghị quyết mới:
+6640x480 pixels trong toàn 16 bit-per-pixel (65.536 màu) RGB hi-màu (chỉ XGA, với 1 MB bộ nhớ video tùy chọn) và 8 bpp (256 màu) bảng chế độ -indexed.
+1024x768 pixel với 16 hay 256 màu (4 hoặc 8 bpp) bảng, sử dụng một tần số thấp xen kẽ tốc độ làm tươi (một lần nữa, các chế độ 8 bpp cao hơn yêu cầu 1 MB VRAM).
+Giống như 8514, XGA cung cấp cố định chức năng tăng tốc phần cứng để giảm tải xử lý các nhiệm vụ vẽ 2D. Cả hai adapter cho phép giảm tải của đường vẽ, bitmap-copy (bitblt), và màu sắc lấp các hoạt động từ các máy chủ CPU. Tăng tốc XGA là nhanh hơn so với của 8514, và toàn diện hơn, hỗ trợ nhiều hơn nguyên thủy vẽ, VGA-res chế độ hi-màu sắc, linh hoạt "bàn chải" và "mặt nạ" chế độ, bộ nhớ hệ thống giải quyết các chức năng, và một sprite phần cứng đơn giản duy nhất thường được sử dụng để cung cấp một CPU thấp con trỏ chuột tải. Nó cũng có khả năng chức năng hoàn toàn độc lập, vì nó kết hợp hỗ trợ cho tất cả các chức năng hiện có và chế độ VGA - 8514 của bản thân là một đơn giản thêm vào bộ chuyển đổi mà yêu cầu một VGA riêng biệt để có mặt. Cần lưu ý rằng, khi họ đã được thiết kế để sử dụng với phạm vi riêng của IBM của màn hình cố định tần số, bộ chuyển đổi không được cung cấp hỗ trợ cho 800x600 SVGA chế độ.
+XGA-2 thêm một 24-bit DAC, nhưng điều này chỉ được sử dụng để mở rộng bảng màu tổng thể có sẵn trong chế độ 256 màu, ví dụ như cho phép thực ra 256-tông màu xám thay vì 64 mức xám trước đây; vẫn không có trực tiếp TrueColor chế độ mặc dù các bộ chuyển đổi có tính năng mặc định trên máy bay đủ VRAM (1 MB) để hỗ trợ nó. Các cải tiến khác bao gồm cung cấp độ phân giải 800x600 mất tích trước đó (sử dụng một SVGA hoặc màn hình MultiSync) trong lên đến 65.536 màu, tốc độ làm tươi màn hình nhanh hơn trong tất cả các chế độ (bao gồm cả phi-interlace, sản lượng flicker-free cho 1024x768), và cải thiện hiệu suất và tăng tốc tính linh hoạt.
+IBM cấp phép công nghệ XGA và kiến ​​trúc nhất định để các nhà phát triển phần cứng của bên thứ ba, và các chế độ đặc trưng của nó (mặc dù không nhất thiết phải là chức năng gia tốc, cũng như giao diện dữ liệu bus MCA) đã được bắt chước bởi nhiều người khác. Các máy gia tốc thường không bị các giới hạn trên cùng một độ phân giải có sẵn và tốc độ làm tươi, và đặc trưng chế độ tiêu chuẩn hiện giờ khác như 800x600 (và 1280x1024) ở độ sâu màu khác nhau (lên đến 24 bpp TrueColor) và xen kẽ, không xen kẽ và flicker- tỷ lệ làm mới miễn phí ngay cả trước khi phát hành của XGA-2.
+Tất cả các chế độ XGA tiêu chuẩn có 4: 3 tỉ lệ với các pixel vuông, mặc dù điều này là không đúng với chế độ tiêu chuẩn nhất định và VGA của bên thứ ba mở rộng (640x400, 1280x1024).
+XGA không nên nhầm lẫn với EVGA (Extended Video Graphics Array), một đương thời VESA tiêu chuẩn mà còn có độ phân giải 1024x768 pixels. Nó cũng không nên nhầm lẫn với các mở rộng Graphics adapter, thiết bị ngoại vi cho máy tính IBM 3270 mà cũng có thể được gọi là XGA.
+
+
+=== WXGA (1366x768 và tương tự) ===
+Wide Extended Graphics Array (Wide XGA hoặc WXGA) là một tập hợp các phi tiêu chuẩn độ phân giải màn hình bắt nguồn từ XGA chuẩn hiển thị bằng cách mở rộng nó vào một màn hình rộng tỉ lệ. WXGA thường được sử dụng cho low-end TV LCD và màn hình máy tính LCD để trình bày màn hình rộng. Độ phân giải chính xác được cung cấp bởi một thiết bị mô tả là "WXGA" có thể hơi biến do sự phổ biến của một số tiêu chuẩn có liên quan chặt chẽ tối ưu hóa cho sử dụng khác nhau và có nguồn gốc từ các căn cứ khác nhau. 
+
+
+==== 1366x768 (Còn được gọi là WXGA) ====
+Khi đề cập đến TV và màn hình khác dành cho giải trí của người tiêu dùng sử dụng, WXGA thường được hiểu để đề cập đến một độ phân giải 1366x768, với một tỉ lệ rất gần 16: 9. Cơ sở cho độ phân giải này nếu không lẻ dường như là tương tự như của các "rộng" tiêu chuẩn - các dòng quét (refresh) tỷ lệ thành lập cũng chuẩn "XGA" (1024x768 pixels, 4: 3 khía cạnh) mở rộng để cung cấp cho các điểm ảnh vuông trên ngày càng phổ biến 16: 9 hiển thị màn ảnh rộng mà không cần phải thực truyền tín hiệu chính thay đổi khác hơn là một đồng hồ điểm ảnh nhanh hơn, hoặc sản xuất thay đổi khác hơn là mở rộng chiều rộng bảng điều khiển bằng 1/3. Như 768 không phân chia chính xác thành 9, tỷ lệ khía cạnh không phải là khá 16: 9 - điều này sẽ đòi hỏi một độ rộng ngang của 1.365,33 điểm ảnh. Tuy nhiên, chỉ ở mức 0,05%, sai kết quả là không đáng kể.
+Năm 2006, giải 1366x768 là độ phân giải phổ biến nhất đối với TV màn hình tinh thể lỏng (so với XGA cho Plasma TV màn hình phẳng; vào năm 2013, ngay cả điều này đã xuống hạng chỉ được sử dụng trong màn hình nhỏ hơn hoặc rẻ hơn (ví dụ như "phòng ngủ" LCD TV, hoặc với chi phí thấp, lớn định dạng plasma), máy tính xách tay và máy tính bảng di động rẻ hơn, và tầm trung chiếu phim gia đình, nếu không đã bị vượt qua bởi "full HD" độ phân giải cao như 1920x1080. 
+
+
+==== 1360x768 ====
+Một biến thể phổ biến trên độ phân giải này là 1360x768, mà ban một số lợi ích kỹ thuật, đáng kể nhất là việc giảm yêu cầu bộ nhớ từ chỉ hơn để chỉ dưới 1 MB cho mỗi kênh 8-bit (1366x768 cần 1024,5 KB cho mỗi kênh; 1360x768 nhu cầu 1020 KB, 1 MB bằng 1024 KB), mà đơn giản hóa kiến ​​trúc và có thể làm giảm đáng kể số lượng - và tốc độ - VRAM yêu cầu với chỉ một sự thay đổi rất nhỏ trong độ phân giải có sẵn, như chip nhớ thường chỉ có dung lượng megabyte cố định. Ví dụ, tại 32-bit màu, một bộ đệm khung 1360x768 sẽ yêu cầu chỉ có 4 MB, trong khi một 1366x768 ta có thể cần 5, 6 hoặc thậm chí 8 MB phụ thuộc vào kiến ​​trúc hiển thị mạch chính xác và năng lực con chip có sẵn. Việc giảm 6 điểm ảnh cũng có nghĩa là chiều rộng của mỗi dòng là chia hết cho 8 pixels, đơn giản hóa rất nhiều thói quen sử dụng trong cả hai máy tính và phát sóng / sân khấu xử lý video, hoạt động trên các khối 8-pixel. Trong lịch sử, nhiều card video cũng đã quy định độ rộng màn hình chia hết cho 8 cho màu của họ thấp hơn, chế độ hai chiều để tăng tốc truy cập bộ nhớ và đơn giản hóa các tính toán vị trí điểm ảnh (ví dụ: lấy 4-bit điểm ảnh từ bộ nhớ 32-bit là nhanh hơn nhiều khi thực hiện 8 pixels thời gian, và tính toán chính xác nơi một điểm ảnh đặc biệt là trong một khối bộ nhớ là dễ dàng hơn nhiều khi dòng không kết thúc partway qua một từ bộ nhớ), và quy ước này vẫn tiếp tục tồn tại phần cứng cấp thấp thậm chí vào những ngày đầu của màn ảnh rộng, HDTV LCD; do đó, hầu hết các màn 1366 chiều rộng cũng lặng lẽ hỗ trợ hiển thị các tài liệu năm 1360 chiều rộng, với một đường viền mỏng cột không sử dụng điểm ảnh ở mỗi bên. Chế độ hẹp ở đây là khóa học hơn nữa lấy ra từ 16: 9 lý tưởng, nhưng lỗi vẫn còn ít hơn 0,5% (về mặt kỹ thuật, chế độ là một trong hai 15.94: 9.00 hay 16.00: 9,04) và cần được cảm nhận thấy.
+
+
+==== 1280x800 ====
+Khi đề cập đến màn hình máy tính xách tay hoặc màn hình máy chiếu độc lập và thiết kế chủ yếu để sử dụng với máy tính, WXGA cũng được sử dụng để mô tả độ phân giải 1280x800 pixel, với một tỉ lệ16:10. Điều này đã được một lần đặc biệt phổ biến cho màn hình máy tính xách tay, thường là với một màn hình kích thước đường chéo của giữa 12 và 15 inch, vì nó cung cấp một sự thỏa hiệp hữu ích giữa 4: 3 XGA và 16: 9 WXGA, với cải thiện độ phân giải ở cả hai chiều so với tiêu chuẩn cũ (đặc biệt hữu ích trong chế độ chân dung, hoặc để trưng bày hai trang tiêu chuẩn của văn bản side-by-side), xuất hiện rõ rệt là "rộng" và khả năng hiển thị video HD 720p "bản địa" với chỉ viền letterbox rất mỏng (có thể sử dụng để điều khiển phát lại trên màn hình) và không bị kéo giãn. Ngoài ra, như 1360x768, nó đòi hỏi có 1.000 KB (chỉ dưới 1 MB) bộ nhớ cho mỗi kênh 8-bit; do đó, một màn hình màu 32-bit đôi đệm điển hình có thể phù hợp trong 8 MB, hạn chế nhu cầu hàng ngày về sự phức tạp (và chi phí, sử dụng năng lượng) của chipset đồ họa tích hợp và sử dụng chia sẻ của họ về bộ nhớ hệ thống thường thưa thớt (thường được ấn định cho video hệ thống trong các khối tương đối lớn), ít nhất là khi chỉ có màn hình hiển thị nội bộ đã được sử dụng (màn hình bên ngoài thường được hỗ trợ trong "máy tính để bàn mở rộng" chế độ để ít nhất là độ phân giải 1600x1200). 16:10 (hoặc 8: 5) là chính nó khá "cổ điển" tỉ lệ máy tính, harking lại tất cả các cách để chế độ ban đầu 320x200 (và các dẫn xuất của họ) như ở các Commodore 64, IBM CGA thẻ và những người khác. Tuy nhiên, tính đến giữa năm 2013, tiêu chuẩn này ngày càng trở nên hiếm hoi, lấn lướt hơn và do đó tiêu chuẩn hóa kinh tế-to-sản xuất 1366x768 bảng, như tính năng trước đây có lợi của nó trở nên ít quan trọng với những cải tiến phần cứng, mất dần phần mềm ngược tổng quát hơn khả năng tương thích, và những thay đổi trong giao diện bố trí. Tính đến tháng 8 năm 2013, các thị trường sẵn có của tấm gỗ với độ phân giải 1280x800 chúng đã từng được chuyển xuống chiếu dữ liệu hoặc sản phẩm thích hợp chẳng hạn như máy tính bảng chuyển đổi và đọc sách điện tử dựa trên LCD.
+
+
+==== Khác ====
+Ngoài ra, hai độ phân giải khác đôi khi được gắn nhãn là WXGA:
+Đầu tiên, các HDTV có tính tiêu chuẩn 1280x720 (nếu không thường được mô tả như " 720p "), trong đó cung cấp một chính xác 16: 9 với điểm ảnh vuông; tự nhiên, nó sẽ hiển thị các tài liệu video chuẩn 720p HD mà không kéo dài hoặc letterboxing và 1080i / 1080p với một đơn giản 2: 3 downscale. Nghị quyết này đã tìm thấy một số sử dụng trong máy tính bảng và hiện đại,-pixel mật độ cao điện thoại di động, cũng như các định dạng nhỏ "netbook" hay "siêu nhẹ" (không phải "Ultrabook") máy tính xách tay. Tuy nhiên, việc sử dụng nó là không phổ biến trong lớn hơn, các thiết bị chủ đạo vì nó có độ phân giải dọc không đủ cho việc sử dụng thích hợp các hệ điều hành hiện đại như Windows 7 có thiết kế giao diện người dùng giả định tối thiểu là 768 dòng. Đối với một số ứng dụng như xử lý văn bản, thậm chí nó có thể được coi là một hạ xuống nhẹ (giảm số lượng các dòng cùng một lúc có thể nhìn thấy các văn bản mà không cấp bất kỳ lợi ích đáng kể khi thậm chí 640 pixel là đủ độ phân giải ngang để rõ ràng làm cho chiều rộng trang đầy đủ, đặc biệt là với việc bổ sung các subpixel anti-aliasing).
+Các biến thể thứ hai, 1280x768, có thể được xem như là một giải pháp thỏa hiệp mà giải quyết vấn đề này, cũng như một ngôi nhà nằm giữa cũ hơn 1024x768 và 1280x1024 độ phân giải, và là bước đệm để 1366x768 (là một phần tư rộng hơn so với năm 1024, không một chiều thứ ba) và 1280x800, mà không bao giờ khá bắt vào trong cùng một cách như một trong những người kế được cho là bắt nguồn từ nó. Vuông-pixel tỉ lệ của nó là 15: 9, trái ngược với HDTV của 16: 9 và 1280x800 của 16:10. Nó cũng là độ phân giải thấp nhất có thể được tìm thấy trong một "Ultrabook" máy tính xách tay tiêu chuẩn, vì nó đáp ứng độ phân giải ngang và dọc điểm ảnh tối thiểu cần thiết để chính thức đủ điều kiện cho việc chỉ định.
+Phổ biến rộng rãi gần đây của 1280x800 và 1366x768 màn hình LCD độ phân giải điểm ảnh cho màn hình máy tính xách tay có thể được coi là một hệ điều hành tiến hóa -driven từ trước đây phổ biến 1024x768 kích thước màn hình, trong đó có bản thân kể từ nhìn thấy phản hồi thiết kế giao diện người dùng để đáp ứng với những gì có thể được coi là nhược điểm của định dạng màn ảnh rộng khi sử dụng với các chương trình được thiết kế cho màn hình "truyền thống". Trong Microsoft Windows hệ điều hành cụ thể, lớn hơn thanh tác vụ của Windows Vista và 7 chiếm thêm 16 pixel dòng bằng cách mặc định, có thể thỏa hiệp với khả năng sử dụng của các chương trình đó đã yêu cầu một 1024x768 đầy đủ (thay vì, ví dụ 800x600), trừ khi nó được thiết lập đặc biệt để sử dụng các biểu tượng nhỏ; một "kỳ quặc" 784-dòng độ phân giải sẽ bù đắp cho điều này, nhưng 1280x800 có một khía cạnh đơn giản hơn và cũng cho tiền thưởng nhẹ 16 nhiều đường có thể sử dụng. Ngoài ra, các Sidebar của Windows trong Windows Vista và 7 có thể sử dụng thêm 256 hay 336 điểm ảnh theo chiều ngang để hiển thị thông tin "widget" mà không làm giảm độ rộng màn hình của các chương trình khác, và Windows 8 được thiết kế đặc biệt xung quanh một "hai cửa sổ" khái niệm nơi đầy đủ 16: 9 hoặc 16:10 màn hình là không cần thiết. Thông thường, điều này bao gồm một 4: 3 khu vực chính của chương trình (thường là 1024x768, 1000x800 hoặc 1440x1080) cộng thêm một sidebar hẹp chạy một chương trình thứ hai, hiển thị một hộp công cụ cho các chương trình chính hoặc một bảng shortcut OS pop-out chiếm phần còn lại.
+Một số màn hình có độ phân giải 1440x900 cũng đã được tìm thấy nhãn như WXGA; Tuy nhiên, các nhãn đúng thực sự là WSXGA hoặc WXGA +.
+
+
+=== XGA+ (1152x864) ===
+XGA+ là viết tắt của Extended Graphics Array Plus và là một tiêu chuẩn màn hình máy tính, thường được hiểu để chỉ độ phân giải 1152x864 với tỉ lệ khung hình 4: 3. Cho đến khi sự ra đời của màn hình rộng LCD, XGA + thường được sử dụng trên 17-inch màn hình CRT màn hình. Đây là mức cao nhất 4: 3 độ phân giải không lớn hơn 220 pixels (~ 1,05 megapixel), với chiều ngang của nó là bội số của 32 pixels. Điều này cho phép nó để phù hợp chặt chẽ thành một bộ nhớ video hoặc đệm khung của 1 MB (1 × 220 bytes), giả sử việc sử dụng một byte cho mỗi pixel. Bội số chung của 32 pixels chế là liên quan đến sự liên kết.
+Trong lịch sử, độ phân giải cũng liên quan đến các tiêu chuẩn trước đó của 1152x900 pixel, được thông qua bởi Sun Microsystems cho Sun-2 máy trạm vào đầu những năm 1980. Một thập kỷ sau đó, Apple Computer chọn độ phân giải của màn hình 1152x870 cho hình CRT 21-inch của họ, dành cho người sử dụng như hiển thị hai trang trên Macintosh II máy tính. Nghị quyết này thậm chí còn gần hơn đến giới hạn của một 1 MB bộ đệm khung, nhưng tỉ lệ của họ là khác nhau từ phổ biến 4: 3.
+XGA + là bước tiếp theo sau khi XGA (1024x768), mặc dù nó không được chấp thuận bởi bất kỳ tổ chức tiêu chuẩn. Các bước tiếp theo với một tỉ lệ 4: 3 là 1280x960 (" SXGA- ") hoặc SXGA + (1400x1050).
+
+
+=== WXGA+ (1440x900) ===
+WXGA+ và WSXGA là những thuật ngữ không chuẩn đề cập đến độ phân giải màn hình máy tính. Thông thường họ chỉ đến một độ phân giải 1440x900, nhưng đôi khi các nhà sản xuất sử dụng thuật ngữ khác để chỉ độ phân giải này. Các Panels Chuẩn Nhóm công tác liên quan đến độ phân giải 1440x900 như WXGA (II).
+WSXGA và WXGA + có thể được xem là phiên bản nâng cao của WXGA với nhiều điểm ảnh, hoặc các biến thể như màn hình rộng SXGA. Các tỷ lệ khía cạnh của từng là 16:10 (widescreen).
+WXGA + độ phân giải (1440x900) là phổ biến trong 19 "màn hình máy tính để bàn màn hình rộng (một số lượng rất nhỏ của màn hình như vậy sử dụng WSXGA +), và cũng là tùy chọn, mặc dù ít phổ biến hơn, trong máy tính xách tay màn hình LCD, trong các kích cỡ khác nhau, từ 12.1 "đến 17". Đó là cũng được sử dụng trong vòng 13 inch MacBook Air. [ 22 ] Với 13,3 trong màn hình này là 128 ppi.
+Người kia là 1440x960, mà là 15:10 (widescreen). 
+
+
+=== SXGA (1280x1024) ===
+SXGA là một từ viết tắt cho Super Extended Graphics Array đề cập đến một tiêu chuẩn màn hình độ phân giải 1280x1024 pixel. Điều này có độ phân giải màn hình là "bước tiếp theo" trên XGA độ phân giải mà IBM phát triển vào năm 1990.
+Độ phân giải 1280x1024 không phải là tiêu chuẩn 4: 3 tỷ lệ khía cạnh, nhưng 5: 4 (1.25: 1 thay vì 1.333: 1). Một tiêu chuẩn 4: 3 màn hình sử dụng độ phân giải này sẽ có hình chữ nhật thay vì vuông pixel, có nghĩa rằng trừ khi các phần mềm này sẽ đền bù cho các hình ảnh sẽ bị méo mó, gây ra những vòng tròn xuất hiện hình elip.
+Có một độ phân giải ít phổ biến hơn 1280x960 giữ gìn chung 4: 3 tỉ lệ. Nó đôi khi không chính thức gọi là SXGA- để tránh nhầm lẫn với các SXGA "tiêu chuẩn". Ở những nơi khác này 4: độ phân giải 3 cũng được gọi là UVGA (siêu VGA): Kể từ khi cả hai bên đều tăng gấp đôi từ VGA hạn Quad VGA sẽ là một hệ thống, nhưng nó là hầu như không bao giờ được sử dụng, bởi vì nó initialism QVGA hội gắn liền với một ý nghĩa khác quý VGA (320x240).
+SXGA là độ phân giải phổ biến nhất nguồn gốc của 17 "và 19" LCD màn hình. Một màn hình LCD với độ phân giải SXGA thường sẽ có một thể chất 5: 4 tỉ lệ, bảo quản, 1: 1 tỉ lệ điểm ảnh.
+Sony sản xuất một 17 " CRT màn hình với 5:.. Tỷ lệ 4 khía cạnh được thiết kế cho độ phân giải này Nó đã được bán dưới tên thương hiệu của Apple.
+Bất kỳ CRT có thể chạy 1280x1024 cũng có thể chạy 1280x960, trong đó có các tiêu chuẩn tỷ lệ 4: 3. Một màn hình phẳng TFT màn hình, bao gồm một thiết kế cho 1280x1024, sẽ hiển thị kéo dài biến dạng khi thiết lập để hiển thị độ phân giải khác với tiếng mẹ đẻ của mình, như các hình ảnh cần phải được nội suy để phù hợp với màn hình hiển thị lưới cố định. Một số màn hình TFT không cho phép một người sử dụng để vô hiệu hóa này, và sẽ ngăn chặn các phần trên và dưới của màn hình đang được sử dụng buộc một " letterbox "định dạng khi thiết lập để một tỷ lệ 4:3
+Độ phân giải 1280x1024 trở nên phổ biến bởi vì tại 24-bit màu nó vừa khớp với 4 MB của RAM video. Vào thời điểm đó, bộ nhớ là cực kỳ tốn kém. Sử dụng 1280x1024 ở 24-bit độ sâu màu được phép sử dụng 3,75 MB RAM video, phù hợp độc đáo với VRAM con chip kích cỡ mà đã có sẵn tại thời điểm (4 MB).
+(1280x1024) px × 8 bit/px ÷ 8 bit/byte ÷ 220 byte/MB = 1.25 MB
+(1280x1024) px × 24 bit/px ÷ 8 bit/byte ÷ 220 byte/MB = 3.75 MB
+
+
+=== SXGA+ (1400x1050) ===
+SXGA+ là viết tắt của Super Extended Graphics Array Plus và là một tiêu chuẩn màn hình máy tính. Một màn hình SXGA + thường được sử dụng trên 14-inch hay 15-inch máy tính xách tay màn hình LCD màn hình với một độ phân giải 1400x1050 pixel của. Một màn hình SXGA + được sử dụng trên một số máy tính xách tay màn hình 12-inch như ThinkPad X60 và X61 (cả hai chỉ là máy tính bảng) cũng như Toshiba Portégé M200 và M400, nhưng những người có ít phổ biến hơn. Tại 14,1 inch, Dell cung cấp SXGA + trên nhiều Dell Latitude "C" máy tính xách tay hàng loạt, như C640 và C810, và Lenovo trên ThinkPad T61 và T61p. Sony cũng sử dụng SXGA + trong loạt Z1 của họ, nhưng không còn sản xuất chúng như màn ảnh rộng đã trở nên chiếm ưu thế hơn.
+Có một phiên bản màn ảnh rộng của SXGA + gọi WSXGA + với độ phân giải 1680x1050. Đây là độ phân giải phổ biến bản địa của 19-22-inch màn hình LCD rộng khía cạnh, và cũng có sẵn trên nhiều máy tính xách tay.
+Đây là bước tiếp theo sau khi phổ biến ở độ phân giải SXGA, mặc dù nó không được chấp nhận bởi tổ chức nào. Độ phân giải phổ biến nhất ngay lập tức trên được gọi là UXGA (đôi khi còn được gọi là UGA), trong đó có độ phân giải 1600x1200 pixel.
+Trong màn hình LCD máy tính để bàn, SXGA + được sử dụng trên một số cấp thấp màn hình 20-inch, trong khi hầu hết các màn hình LCD 20-inch sử dụng UXGA (tỷ lệ màn hình tiêu chuẩn), hoặc WSXGA + (màn hình rộng tỷ lệ).
+
+
+=== WSXGA+ (1680x1050) ===
+WSXGA+ là viết tắt của Widescreen Super Extended Graphics Array Plus và là một tiêu chuẩn màn hình máy tính. Một WSXGA + màn hình thường được sử dụng trên màn hình rộng 20 ", 21" và 22 "màn hình LCD từ nhiều nhà sản xuất (và một số lượng rất nhỏ của 19" phổ biến màn hình widescreen), cũng như màn hình rộng 15.4 "và 17" máy tính xách tay màn hình LCD màn hình như Thinkpad T61 và Apple 15 " MacBook Pro. Các độ phân giải là 1680x1050 pixel (1.764.000 điểm ảnh) và có một 16:10 tỉ lệ.
+WSXGA + là phiên bản màn ảnh rộng của SXGA +, nhưng nó không được chấp nhận bởi tổ chức nào. Độ phân giải cao nhất tiếp theo (đối với màn hình rộng) sau khi nó là WUXGA, đó là độ phân giải 1920x1200 pixel.
+
+
+=== UXGA (1600x1200) ===
+UXGA hoặc UGA là một từ viết tắt cho Ultra Extended Graphics Array đề cập đến một tiêu chuẩn màn hình độ phân giải 1600x1200 pixel của (tổng cộng 1.920.000 điểm ảnh), đó chính là bốn lần mặc định độ phân giải của SVGA (800x600) (tổng cộng 480.000 điểm ảnh). Dell Inc. đề cập đến cùng độ phân giải của 1.920.000 điểm ảnh như UGA. Nó thường được coi là bước tiếp theo trên SXGA (1280x960 hoặc 1280x1024), nhưng một số nghị quyết (như 1366x1024 không rõ tên và SXGA + 1400x1050 ở) phù hợp giữa hai người.
+UXGA đã được độ phân giải gốc của nhiều màn hình toàn màn hình 15 "hoặc nhiều hơn, bao gồm cả màn hình LCD máy tính xách tay như những người thân trong ThinkPad A21p, A30p, A31p, T42p, T43p và T60p, Dell Inspiron 8000/8100/8200; Panasonic Toughbook CF-51; và các gốc Alienware Area 51m Tuy nhiên, trong thời gian gần đây, UXGA không được sử dụng trong máy tính xách tay ở tất cả mà là ở màn hình UXGA desktop đã được thực hiện trong các kích cỡ 20 "và 21,3" Khoảng 14 "màn hình LCD máy tính xách tay với UXGA có.. còn tồn tại, nhưng rất hiếm.
+Có hai khác nhau widescreen người anh em họ của UXGA, một gọi là UWXGA với 1600x768 (750) và một gọi WUXGA với độ phân giải 1920x1200. 
+
+
+=== WUXGA (1920x1200) ===
+WUXGA là viết tắt của Màn ảnh rộng Ultra Extended Graphics Array và là một độ phân giải màn hình của 1920x1200 pixels (2.304.000 điểm ảnh) với một màn hình 16:10 tỉ lệ. Đây là một phiên bản rộng của UXGA, và có thể được sử dụng để xem truyền hình độ nét cao (HDTV) nội dung, trong đó sử dụng một tỷ lệ 16: 9 khía cạnh và độ phân giải 1920x1080.
+Tỷ lệ 16:10 (như trái ngược với 16: 9 được sử dụng trong TV màn ảnh rộng) đã được lựa chọn bởi vì tỉ lệ này là thích hợp để hiển thị hai trang đầy đủ của văn bản bên cạnh.
+Độ phân giải WUXGA là 2,304 megapixel. An 8-bit RGB WUXGA hình ảnh không nén có kích thước ~ 6,6 MB (6750 × 210 bytes).Tính đến năm 2014, độ phân giải này là có sẵn trong một vài cao cấp LCD TV và màn hình máy tính (ví dụ như Dell Ultrasharp U2413, Lenovo L220x, Samsung T220P, ViewSonic SD-Z225), mặc dù trong quá khứ nó đã được sử dụng trong một đa dạng hơn các màn hình, trong đó có 17 "máy tính xách tay. sử dụng WUXGA xảy ra trước sự ra đời của màn hình LCD độ phân giải đó. Hầu hết QXGA màn hình hỗ trợ độ phân giải 1920x1200 và màn hình rộng màn hình CRT như Sony GDM-FW900 và Hewlett Packard A7217A làm là tốt.
+Độ phân giải tiếp theo thấp hơn (cho màn hình rộng) trước khi nó là WSXGA +, đó là 1680x1050 pixel (1.764.000 điểm ảnh, hoặc 30.61% ít hơn so với WUXGA); màn hình rộng độ phân giải cao hơn tiếp theo là một độ phân giải 2304x1440 giấu tên (được hỗ trợ bởi các bên trên GDM-FW900 & A7217A) và sau đó phổ biến hơn WQXGA, trong đó có giải 2560x1600 pixel (4.096.000 điểm ảnh, hay 77,78% so với WUXGA).
+Có hai định dạng rộng hơn gọi là UWXGA 1600x768 (25:12) và UW-UXGA 2560x1080 pixels có, một 2.37: 1 hoặc 21⅓: 9 hoặc 64:27 tỉ lệ, đôi khi nhầm nhãn 21: 9.
+
+
+== Chuỗi đồ họa nét ==
+Các QXGA, hoặc Quad Extended Graphics Array, chuẩn hiển thị là một tiêu chuẩn độ phân giải trong công nghệ hiển thị. Một số ví dụ của LCD màn hình có số lượng điểm ảnh ở mức độ này là Dell 3008WFP, các Apple Cinema Display, Apple iMac (27 "2009-nay), các iPad (thế hệ thứ 3), và MacBook Pro (thế hệ thứ 3). Nhiều tiêu chuẩn 21 "/ 22" màn hình CRT và một số cao cấp nhất 19 "CRT cũng hỗ trợ độ phân giải này.
+
+
+=== QWXGA (2048x1152) ===
+Không nên nhầm lẫn với WQXGA.
+QWXGA (Quad Wide Extended Graphics Array) là một độ phân giải màn hình của 2048x1152 pixel với 16: 9 aspect ratio. Một vài màn hình LCD QWXGA đã có sẵn trong năm 2009 với 23- và 27-inch màn hình, chẳng hạn như Acer B233HU (23-inch) và B273HU (27-inch), các Dell SP2309W, và Samsung 2343BWX. Tính đến năm 2011, hầu hết các màn hình 2048x1152 đã bị ngưng, và như năm 2013 không có nhà sản xuất chính sản xuất màn hình với độ phân giải này.
+
+
+=== QXGA (2048x1536) ===
+QXGA (Quad Extended Graphics Array) là một độ phân giải màn hình 2048x1536 pixel với 4: 3 tỉ lệ. Tên đến từ nó có bốn lần như nhiều điểm ảnh như một XGA màn hình. Ví dụ về các màn hình LCD với độ phân giải này là IBM T210 và Eizo G33 và R31 màn hình, nhưng ở độ phân giải màn hình CRT này là phổ biến hơn nhiều; một số ví dụ bao gồm Sony F520, ViewSonic G225fB, NEC FP2141SB hay Mitsubishi DP2070SB, Iiyama Vision Master Pro 514, và Dell và HP P1230. Của các màn hình, không có vẫn được sản xuất. Một kích thước hiển thị liên quan là WQXGA, đó là một màn hình rộng bản. CRT cung cấp một cách để đạt được QXGA rẻ. Mô hình giống như Pro 2045U Mitsubishi Diamond và IBM ThinkVision C220P bán lẻ với giá khoảng 200 USD, và những người thực hiện cao hơn như ViewSonic PerfectFlat P220fB vẫn dưới 500 USD. Tại một thời gian, nhiều off-thuê P1230s có thể được tìm thấy trên eBay với giá dưới 150 USD. Các màn hình LCD với độ phân giải QXGA WQXGA hoặc thường có giá 4-5 lần cho cùng độ phân giải. IDTech sản xuất 15 "QXGA IPS panel. NEC bán máy tính xách tay với màn hình QXGA trong 2002-05 cho thị trường Nhật Bản. Các iPad (bắt đầu từ thế hệ thứ 3) cũng có một màn hình QXGA
+
+
+=== WQXGA (2560x1600) ===
+Không nên nhầm lẫn với QWXGA.
+WQXGA (Wide Quad Extended Graphics Array) là một độ phân giải màn hình của 2560x1600 pixels với một 16:10 tỉ lệ. Tên đến từ nó là một phiên bản rộng của QXGA và có bốn lần như nhiều điểm ảnh như một WXGA (1280x800) hiển thị.
+Để có được một tốc độ làm tươi dọc cao hơn 40 Hz, độ phân giải này đòi hỏi nhiều băng thông hơn một đơn hỗ trợ link DVI và đòi hỏi dual-link cáp và các thiết bị có khả năng. Để tránh vấn đề cáp màn hình đôi khi được vận chuyển với một cáp liên kết kép thích hợp đã được cắm vào. Nhiều card video hỗ trợ độ phân giải này. Một tính năng mà hiện tại đang độc đáo với 30 "màn hình WQXGA là khả năng hoạt động như trung tâm và màn hình hiển thị chính của một mảng ba màn hình tỷ lệ khung hình bổ sung, với hai UXGA (1600x1200) 20 "màn hình quay theo chiều dọc ở hai bên. Các nghị quyết đều ​​bình đẳng, và kích thước của 1600 cạnh độ phân giải (nếu nhà sản xuất là trung thực) là trong vòng một phần mười của một inch (16 "so với 15,899 99 "), trình bày một" cửa sổ xem ảnh "mà không có chiều bên cùng cực, bảng điều khiển trung tâm nhỏ, không đối xứng, độ phân giải khác nhau, hoặc sự khác biệt chiều của sự kết hợp ba màn hình khác. Kết quả là 4960x1600 hình ảnh composite có 3.1: tỷ lệ 1 khía cạnh. Điều này cũng có nghĩa là một UXGA 20 "màn hình theo chiều dọc cũng có thể được bao bọc bởi hai 30" màn hình WQXGA cho một hình ảnh composite 6320x1600 với 11,85: 3 (79:20, 3.95: 1) tỉ lệ. Một số màn hình y tế WQXGA (như Barco Coronis 4MP) cũng có thể được cấu hình như hai 1200x1600 hoặc 1280x1600 màn hình liền mạch ảo bằng cách sử dụng cả hai cổng DVI cùng lúc.
+Một màn hình WQXGA tiêu dùng đầu là 30 "Apple Cinema Display, công bố của Apple vào tháng 6 năm 2004. Tại thời điểm đó, Dual-link DVI là không phổ biến trên phần cứng của người tiêu dùng, do đó, Apple hợp tác với Nvidia để phát triển một card đồ họa đặc biệt có hai kép cổng kết nối DVI, cho phép sử dụng đồng thời hai 30 "Apple Cinema Displays. Bản chất của card đồ họa này, là một add-in card AGP, có nghĩa là màn hình chỉ có thể được sử dụng trong một máy tính để bàn, như Power Mac G5, mà có thể có các add-in thẻ cài đặt, và không thể được sử dụng ngay lập tức với các máy tính xách tay mà thiếu khả năng mở rộng này.
+Trong năm 2010, WQXGA xuất hiện lần đầu trong một số ít các máy chiếu rạp hát tại gia nhắm vào các thị trường liên tục ứng dụng Screen Height. Cả hai chiếu kỹ thuật số Inc và các mô hình projectiondesign phát hành dựa trên một chip với độ phân giải WQXGA gốc Texas Instrument DLP, làm giảm sự cần thiết cho một ống kính anamorphic để đạt được 1: 2.35 hình ảnh chiếu. Nhiều nhà sản xuất có 27 "-30" mô hình có khả năng WQXGA, mặc dù ở một mức giá cao hơn nhiều so với màn hình độ phân giải thấp hơn của cùng một kích cỡ. Một số màn hình WQXGA chính có sẵn với màn hình 30-inch, chẳng hạn như Dell UltraSharp 3007WFP-HC, Dell UltraSharp 3008WFP, U3011 và 3014, các Hewlett-Packard LP3065, các Cổng XHD3000, LG W3000H, và Samsung 305T. Các nhà sản xuất chuyên nghiệp như Eizo, Planar Systems, Barco (LC-3001), và có thể những người khác cung cấp các mô hình tương tự.
+Phát hành vào tháng 11 năm 2012, của Google Nexus 10 là người tiêu dùng đầu tiên tablet có tính năng độ phân giải WQXGA. Trước khi phát hành, độ phân giải cao nhất hiện có trên máy tính bảng là QXGA (2048x1536), có sẵn trên Apple iPad 3 và các thiết bị thế hệ thứ 4. Samsung Galaxy Lưu ý 10.1 (2014 Edition), S Tab 8.4, 10.5 và TabPRO 8.4, 10.1 và 12.2 cũng được trang bị máy tính bảng có màn hình độ phân giải WQXGA.
+Năm 2012 Apple phát hành 13 inch MacBook Pro với Retina Display đó có màn hình WQXGA.
+
+
+=== QSXGA (2560x2048) ===
+QSXGA (Quad Super Extended Graphics Array) là một độ phân giải màn hình của 2560x2048 pixel với 5: 4 tỉ lệ. Màn hình màu xám với một độ phân giải 2560x2048, chủ yếu dùng trong y tế, có sẵn từ Planar Systems (Dome E5), Eizo (Radiforce G51), Barco (Nio 5, MP), WIDE (IF2105MP), IDTech (IAQS80F), và có thể những người khác.
+Màn y tế gần đây như Barco Coronis Fusion 10MP hoặc NDS Dome S10 có độ phân giải 4096x2560 của bảng gốc. Chúng được điều khiển bởi hai hoặc DVI dual-link DisplayPort kết quả đầu ra. Họ có thể được coi là hai màn hình QSXGA ảo liền mạch như họ có được điều khiển đồng thời bằng cả DVI dual link hoặc DisplayPort từ một liên kết DVI kép hoặc DisplayPort có thể không phải một tay màn hình 10 megapixel. Một nghị quyết tương tự của 2560x1920 (4: 3) đã được hỗ trợ bởi một số lượng nhỏ các màn hình CRT thông qua VGA như Viewsonic P225f khi kết hợp với card đồ họa phải.
+
+
+=== WQSXGA (3200x2048) ===
+WQSXGA (Wide Quad Super Extended Graphics Array) mô tả tiêu chuẩn hiển thị có thể hỗ trợ độ phân giải lên đến 3200x2048 pixels, giả sử một 1,56: 1 (25:16) tỉ lệ. Các Coronis Fusion 6MP DL của Barco hỗ trợ 3280x2048 (approx. 16:10).
+
+
+=== QUXGA (3200x2400) ===
+QUXGA (Quad Ultra Extended Graphics Array) mô tả tiêu chuẩn hiển thị có thể hỗ trợ độ phân giải lên đến 3200x2400 pixels, giả định một tỷ lệ 4: 3.
+
+
+=== WQUXGA (3840x2400) ===
+WQUXGA (Wide Quad Ultra Extended Graphics Array) mô tả một tiêu chuẩn hỗ trợ hiển thị độ phân giải 3840x2400 pixel, trong đó cung cấp một tỷ lệ 16:10. Nghị quyết này là chính xác bốn lần 1920x1200 (pixel).
+WQUXGA là độ phân giải tối đa được hỗ trợ bởi DisplayPort 1.2, mặc dù thực sự hiển thị độ phân giải như trên một thiết bị với DisplayPort 1.2 là phụ thuộc vào các hệ thống đồ họa trong nhiều thiết bị cùng một cách với kết nối VGA không nhất thiết phải tối đa hóa độ phân giải cao nhất của tiêu chuẩn mà có thể. Hầu hết các card màn hình với một kết nối DVI có khả năng hỗ trợ độ phân giải 3840x2400. Tuy nhiên, tốc độ làm tươi tối đa sẽ bị giới hạn bởi số lượng link DVI được kết nối với màn hình. 1, 2, 4 hoặc đầu nối DVI được sử dụng để lái xe màn hình bằng cách sử dụng các cấu hình gạch khác nhau. Chỉ IBM T221-DG5 và IDTech MD22292B5 hỗ trợ việc sử dụng các cổng DVI dual-link thông qua một hộp chuyển đổi bên ngoài. Nhiều hệ thống sử dụng các màn hình sử dụng ít nhất 2 cổng DVI để gửi video đến màn hình. Những kết nối DVI có thể được từ card đồ họa tương tự, card đồ họa khác nhau, hoặc thậm chí máy tính khác nhau. Chuyển động qua ranh giới ngói (các Bên) có thể hiển thị rách nếu các liên kết DVI chưa đồng bộ. Bảng hiển thị có thể được cập nhật với tốc độ từ 0 Hz và 41 Hz (48 Hz cho IBM T221-DG5, -DGP, và IDTech MD22292B5). Tốc độ làm tươi của tín hiệu video có thể được cao hơn 41 Hz (hoặc 48 Hz) nhưng màn hình sẽ không cập nhật hiển thị nhanh hơn ngay cả khi card đồ họa (s) làm như vậy.
+Trong tháng 6 năm 2001, WQUXGA đã được giới thiệu trong IBM T220 LCD màn hình bằng cách sử dụng một màn hình LCD được xây dựng bởi IDTech. Màn hình LCD có hỗ trợ độ phân giải WQUXGA bao gồm: IBM T220, IBM T221, Iiyama AQU5611DTBK, ViewSonic VP2290, ADTX MD22292B, và IDTech MD22292 (mô hình B0, B1, B2, B5, C0, C2). IDTech là nhà sản xuất thiết bị gốc mà bán các loại màn hình để ADTX, IBM, Iiyama, và ViewSonic. Tuy nhiên, không ai trong số các màn hình WQUXGA (IBM, ViewSonic, Iiyama, ADTX) là trong sản xuất nữa: họ có giá đó là tốt thậm chí trên cả các màn hình cao hơn cuối được sử dụng bởi các chuyên gia đồ họa, và tỷ lệ làm mới thấp hơn, 41 Hz và 48 Hz, làm cho họ kém hấp dẫn đối với nhiều ứng dụng.
+
+
+== Chuỗi đồ họa siêu nét ==
+Các HXGA chuẩn hiển thị và các dẫn xuất của nó là một tiêu chuẩn trong công nghệ hiển thị. Tính đến năm 2012, không có màn hình hiển thị ở mức độ này nhưng một số máy ảnh kỹ thuật số có thể ghi lại những hình ảnh đó.
+
+
+=== HXGA (4096x3072) ===
+HXGA viết tắt cho H ex [adecatuple] E x có xu hướng G raphics A rray là một tiêu chuẩn hiển thị có thể hỗ trợ độ phân giải 4096x3072 pixel (hoặc 3200 pixel) với tỷ lệ 4: 3. Tên đến từ nó có mười sáu (hexadecatuple) lần số điểm ảnh như một XGA màn hình.
+
+
+=== WHXGA (5120x3200) ===
+WHXGA viết tắt cho W ide H ex [adecatuple] E x có xu hướng G raphics A rray là một tiêu chuẩn hiển thị có thể hỗ trợ độ phân giải 5120x3200 điểm ảnh xấp xỉ với tỷ lệ 16:10. Tên đến từ nó là một phiên bản rộng của HXGA, trong đó có mười sáu (hexadecatuple) lần số điểm ảnh như một XGA màn hình.
+
+
+=== HSXGA (5120x4096) ===
+HSXGA, viết tắt cho H ex [adecatuple] S uper E x có xu hướng G raphics A rray, là một tiêu chuẩn hiển thị có thể hỗ trợ độ phân giải 5120x4096 điểm ảnh với khoảng cách 5: tỉ lệ 4. Tên đến từ nó có mười sáu (hexadecatuple) lần số điểm ảnh như một SXGA hiển thị.
+
+
+=== WHSXGA (6400x4096) ===
+WHSXGA, viết tắt cho W ide H ex [adecatuple] S uper E x có xu hướng G raphics A rray, là một tiêu chuẩn hiển thị có thể hỗ trợ độ phân giải lên đến 6400x4096 pixels, giả sử một 1,56: 1 (25:16) tỉ lệ. Tên đến từ nó có mười sáu (hexadecatuple) lần số điểm ảnh như một WSXGA hiển thị.
+
+
+=== HUXGA (6400x4800) ===
+HUXGA, viết tắt cho H ex [adecatuple] U LtrA E x có xu hướng G raphics A rray, là một tiêu chuẩn hiển thị có thể hỗ trợ độ phân giải 6400x4800 điểm ảnh xấp xỉ với tỷ lệ 4: 3. Tên đến từ nó có mười sáu (hexadecatuple) lần số điểm ảnh như một UXGA hiển thị.
+
+
+=== WHUXGA (7680x4800) ===
+WHUXGA viết tắt cho W ide H ex [adecatuple] U LtrA E x có xu hướng G raphics A rray, là một tiêu chuẩn hiển thị có thể hỗ trợ độ phân giải lên đến 7680x4800 pixels, giả sử một 16:10 (8: 5) tỉ lệ. Tên đến từ nó có mười sáu (hexadecatuple) lần số điểm ảnh như một WUXGA màn hình.
+
+
+== Độ nét cao ==
+
+
+=== nHD (640x360) ===
+nHD là một độ phân giải màn hình 640x360 pixel của, đó chính là một trong n inth của Full HD (1080p) khung và một phần tư của một HD (720p) khung. Pixel tăng gấp đôi (theo chiều dọc và chiều ngang) khung hình nHD sẽ tạo thành một khung hình 720p và điểm ảnh tăng gấp ba khung hình nHD sẽ tạo thành một khung hình 1080p.
+Một nhược điểm của giải pháp này là độ phân giải dọc không phải là một thậm chí là nhiều 16, đó là một phổ biến macroblock kích thước cho bộ giải mã video. Khung hình video được mã hóa với macroblocks 16x16 điểm ảnh sẽ được đệm thêm để 640x368 và việc tăng điểm ảnh sẽ được cắt đi lúc phát lại. Codec H.264 có đệm và cắt này có khả năng tích hợp như là tiêu chuẩn. Điều này cũng đúng cho qHD và 1080p, nhưng số lượng tương đối của đệm được nhiều hơn cho độ phân giải thấp hơn như nHD.
+Để tránh lưu trữ tám dòng pixels độn, một số người thích để mã hóa video 624x352, mà chỉ có một dòng lưu trữ đệm. Khi các luồng video như là một trong hai mã hóa từ các khung hình HD hoặc phát lại trên màn hình HD trong chế độ toàn màn hình (hoặc 720p hoặc 1080p) mà họ đang thu nhỏ lại bởi các yếu tố quy mô không nguyên. Khung hình nHD thực về các mặt khác có yếu tố quy mô số nguyên, ví dụ như Nokia 808 PureView với nHD màn hình.
+
+
+=== qHD (960x540) ===
+qHD là một độ phân giải màn hình 960x540 điểm ảnh bằng 1/4 của Full HD (1080p) khung, trong một tỉ lệ khía cạnh 16: 9
+Tương tự như DVGA, độ phân giải này trở nên phổ biến cho điện thoại thông minh cao cấp màn hình vào đầu năm 2011. Điện thoại di động bao gồm các Jolla, Sony Xperia C, Sony Xperia P, HTC Amaze 4G, HTC Sensation, HTC Evo 3D, HTC One S, HTC Desire 600, Motorola Droid RAZR, Motorola Droid Bionic 4G LTE, Q-Mobile Noir A9, Motorola Atrix 4G, Moto E, LG Optimus L9, LG Optimus F5, Microsoft Lumia 535, Fly F53s và Samsung Galaxy S4 Mini có màn hình với độ phân giải qHD, cũng như các PlayStation Vita hệ thống chơi game cầm tay.
+
+
+=== HD (1280x720) ===
+Các HD độ phân giải 1280x720 điểm ảnh bắt nguồn từ truyền hình độ nét cao (HDTV), nơi nó ban đầu được sử dụng 60 khung hình mỗi giây. Với 16 của nó: 9 khía cạnh đó là chính xác 2 lần chiều rộng và 1 1/2 lần chiều cao của 4:3 VGA, trong đó cổ phiếu tỉ lệ của nó và 480 dòng đếm với NTSC. Do đó HD có đúng 3 lần so với những điểm ảnh như VGA.
+Độ phân giải này đôi khi được gọi là 720p, mặc dù các p (viết tắt của progressive scan và là quan trọng đối với các định dạng truyền tải) là không thích hợp để ghi nhãn phân giải màn hình kỹ thuật số.
+Vài màn hình đã được xây dựng để thực sự sử dụng độ phân giải này nguyên bản, hầu hết sử dụng 16: 9 tấm với 768 dòng thay vì (WXGA), kết quả là số lẻ của các điểm ảnh trên mỗi dòng, tức là năm 1365 1/3 được làm tròn đến năm 1360, 1364, 1366 hay thậm chí 1376, các nhiều tiếp theo là 16.
+
+
+=== FHD (1920x1080) ===
+Các FHD hoặc Full HD độ phân giải 1920x1080 pixel ở tỉ lệ 16: 9 khía cạnh đã được phát triển như là một truyền HDTV và định dạng lưu trữ. Sử dụng xen kẽ, các yêu cầu băng thông là rất tương tự như 720p - đếm điểm ảnh của họ là khoảng một tỷ lệ 2: 1, 9: 4 chính xác. FHD là 3 lần chiều rộng và 2 1 / 4 lần chiều cao của 4: 3 VGA.
+Do nguồn gốc của nó, độ phân giải này đôi khi được gọi là 1080i trong đó i là viết tắt của "chằng chịt". Kể từ đó cũng là tín hiệu liên tục với tốc độ khung hình tương tự (nhưng một nửa tỷ lệ trường hiệu quả) những tín hiệu được nhiều hơn thường được gọi là độ phân giải 1080p.
+
+
+=== QHD (2560x1440) ===
+QHD (Quad HD), cũng đôi khi quảng cáo là WQHD do hình dạng màn ảnh rộng của nó hoặc 1440p, là một độ phân giải màn hình 2560x1440 pixel của một trong tỉ lệ 16: 9. Nó gấp bốn lần số pixel là 720p HDTV.
+Độ phân giải này đã được xem xét bởi các ATSC vào cuối năm 1980 để trở thành định dạng HDTV chuẩn, vì nó là chính xác 4 lần chiều rộng và 3 lần chiều cao của VGA, trong đó có cùng số dòng như tín hiệu NTSC tại SDTV 4: 3 tỉ lệ. Khăn về kỹ thuật thực dụng khiến họ chọn 16 doanh nghiệp nổi tiếng: 9 định dạng với hai lần (HD) và ba lần chiều rộng (FHD) VGA thay thế.
+Vào mùa thu năm 2006, Chi Mei Optoelectronics (CMO) công bố 47 "panel LCD 1440 sẽ được phát hành trong quý 2 năm 2007; tbảng được lên kế hoạch để cuối cùng ra mắt tại Chi cục Kiểm lâm Quốc tế 2008 trong một hình thức autostereoscopic hiển thị 3D.
+Năm 2009, máy tính Apple bắt đầu cung cấp iMac với 27 "màn hình độ phân giải 2560x1440.
+Tính đến cuối năm 2013, màn hình QHD đang trở nên phổ biến hơn. Một danh sách các màn hình với màn hình QHD có sẵn.
+Vào mùa thu năm 2012 Samsung công bố máy tính xách tay Series 9 WQHD với một 13 "màn hình 2560x1440.
+Trong tháng 8 năm 2013 LG công bố một 5,5 "điện thoại thông minh màn hình QHD, được sử dụng trong LG G3. Trong tháng 10 năm 2013 Vivo công bố một chiếc smartphone với màn hình 2560x1440. 
+Trong tháng 7 năm 2014 Lenovo công bố một 6 "QHD màn hình 2560x1440 cho điện thoại thông minh Vibe Z2 Pro của nó (K920).
+Vào tháng 9 năm 2014, Samsung đã công bố một "Super AMOLED QHD smartphone màn hình 5,7 đặt tên là Galaxy Note 4.
+Ngày 15 Tháng 10 năm 2014, Google và Motorola công bố Nexus 6 điện thoại thông minh với màn hình 5,96 "QHD.
+
+
+=== WQXGA+ (3200x1800) ===
+WQXGA+ (Wide Quad Extended Graphics Array Plus), cũng được gọi là QHD và QHD+ là một độ phân giải 3200x1800 ở tỉ lệ 16: 9. Nó có bốn lần số điểm ảnh là 1600x900 HD + độ phân giải.
+Các sản phẩm đầu tiên công bố để sử dụng độ phân giải này là 2013 HP Envy 14 TouchSmart Ultrabook và Samsung Ativ Q 13,3 in 
+
+
+=== UHD 4K (3840x2160) ===
+
+UHD (Ultra HD) là một độ phân giải màn hình 3840x2160 pixel gấp (bốn lần số pixel như FHD) trong cùng tỉ lệ 16: 9 Độ phân giải này là một phần của chuẩn UHDTV và được ủng hộ bởi Khoa học NHK Science & Technology Research Laboratories.
+Đầu năm 2008, Samsung đã tiết lộ một khái niệm của LCD TV 82-inch có khả năng thiết lập phân giải này and LG has demonstrated an 84-inch display. Trong tháng 11 năm 2010, CMI đưa ra một 27,84 "158 PPI 4K panel IPS cho mục đích y tế. Optik View có hai phiên bản 56 "4K màn hình. DC801 có hai đầu vào Link DVI kép; DC802 có bốn phiên bản khác nhau: bốn DVI đơn liên kết, bốn HDMI, bốn DisplayPort và / hoặc bốn đầu vào 3G-SDI. Tất cả các phiên bản có thể cung cấp độ phân giải 3840x2160. Eyevis sản xuất một 56 "LCD tên EYELCD 56 QHD HD trong khi Toshiba làm cho P56QHD và trong tháng 10 năm 2011 phát hành 55x3 REGZA, ó là tuyên bố được các 4K đầu tiên glasses- TV 3D miễn phí, Mitsubishi Electric các 56P-QF60LCU, và Sony SRM-L560, tất cả có thể cung cấp độ phân giải 3840x2160. Landmark cũng đã sản xuất một màn hình 4K 56 in, M5600. Cả hai HDMI 1.4 và DisplayPort 1.2 hỗ trợ 4K, lên đến 30 Hz sử dụng một dây cáp duy nhất. DisplayPort 1.2 cũng có thể đạt được 60 Hz ở độ phân giải này với một dây cáp duy nhất, tuy nhiên màn hình đầu đạt được điều này với một cách tiếp cận lát gạch nơi dồn kênh card đồ họa hai tín hiệu qua Multi-Suối Giao thông vận tải (MST). Hai tín hiệu (gạch) được xếp lại thành một hình ảnh duy nhất trên màn hình màn Mới hơn như Asus PB287Q không dựa trên ốp lát hoặc MST để đạt được 60 Hz. HDMI 1.4 không có lựa chọn như vậy nhưng HDMI 2.0 cũng có thể đạt được 60 Hz HDMI 1.4 has no such option but HDMI 2.0 can also achieve 60 Hz.
+
+
+=== Digital Cinema Initiatives 4K (4096x2160) ===
+Tiêu chuẩn được thiết lập bởi Digital Cinema sáng kiến liên danh gồm 4.096 pixel × 2160 dòng (8.8 megapixels, tỉ lệ ~ 17: 9) để chiếu phim 4K. Đây là độ phân giải gốc cho DCI-compliant 4K máy chiếu kỹ thuật số và màn hình.
+
+
+=== UHD+ (5120x2880) ===
+UHD+ là một độ phân giải màn hình của 5120x2880 với tỉ lệ 16: 9. Số đếm dòng 2880 cũng là nhiều nhất chung của 480 và 576, số scanline của NTSC và PAL, tương ứng. Một giải pháp như vậy có thể mở rộng nội dung SD để phù hợp bởi số tự nhiên, 6 cho NTSC và PAL cho 5. Màn hình hiển thị với độ phân giải đầu tiên này là Dell UltraSharp 27, công bố vào ngày 05 tháng 9 năm 2014 Vào ngày 16 tháng 10 năm 2014, Apple đã công bố các iMac với màn 5k. Thunderbolt 3 ​​& DisplayPort 1.3 đi kèm với hỗ trợ cho độ phân giải này.
+
+
+=== FUHD (7680x4320) ===
+
+FUHD (Full Ultra HD) là một độ phân giải màn hình 7680x4320 pixel của (bốn lần số điểm ảnh của Ultra HD, hay mười sáu lần so với những điểm ảnh của Full HD) cùng tỉ lệ 16: 9 Độ phân giải này là một phần của các tiêu chuẩn UHDTV và được ủng hộ bởi NHK Science & Technology Research Laboratories và BBC. Embedded DisplayPort 1.4a, bởi VESA bố vào tháng 2 năm 2015, hỗ trợ độ phân giải này.
+
+
+=== QUHD (15360x8640) ===
+QUHD (Quad Ultra HD) là một độ phân giải màn hình của 15360x8640 pixels (bốn lần số điểm ảnh của FUHD (8K, xem ở trên), hoặc mười sáu lần so với UHD) trong cùng tỉ lệ khung hình 16: 9
+
+
+== Xem thêm ==
+Tiêu chuẩn màn hình hiển thị
+Độ phân giải màn hình
+Danh sách các độ phân giải phổ biến
+Danh sách điện thoại di động thông minh có màn hình hiển thị độ nét cao
+
+
+== Chú thích ==

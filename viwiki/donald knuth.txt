@@ -1,0 +1,79 @@
+Donald Ervin Knuth (sinh ngày 10 tháng 1, năm 1938) là một nhà khoa học máy tính nổi tiếng hiện đang là giáo sư danh dự tại Đại học Stanford.
+Knuth được biết đến nhiều nhất là tác giả của bộ sách Nghệ thuật lập trình máy tính (The Art of Computer Programming, TAOCP), một trong những sách tham khảo được coi trọng nhất trong ngành khoa học máy tính. Ông đã tạo ra ngành phân tích thuật toán và đã đem lại nhiều cống hiến nền tảng cho ngành khoa học máy tính lý thuyết. Ông đã tạo ra hệ thống sắp chữ TEX và hệ thống phát họa phông chữ METAFONT, và cũng là người khởi xướng khái niệm lập trình học thức (literate programming)
+
+
+== Nền tảng giáo dục và hoạt động học thuật ==
+Sinh ra tại Milwaukee, Wisconsin, ông nhận bằng cử nhân và thạc sĩ ngành Toán học năm 1960 tại Học viện Kỹ thuật Case (nay là một phần của trường Đại học Bách khoa Case Western). Năm 1963, ông lấy bằng tiến sĩ Toán tại Học viện Kỹ thuật California, nơi ông trở thành giáo sư và bắt đầu viết cuốn Nghệ thuật lập trình máy tinh, thoạt tiên được dự tính là một bộ bảy tập. Năm 1968, ông xuất bản tập thứ nhất. Cùng năm đó, ông vào dạy tại trường Stanford.
+Năm 1971, ông là người đầu tiên nhận giải Grace Murray Hopper do Hiệp hội Máy tính (ACM) trao tặng. Ông đã nhận được nhiều giải khác, trong đó có giải Turing, Huy chương Khoa học Quốc gia, Huy chương John von Neumann, và giải Kyoto. Sau khi xuất bản tập thứ ba của bộ sách mình, ông tỏ vẻ bực tức với các dụng cụ xuất bản cổ lỗ sĩ của thời đó và tự tay tạo ra các dụng cụ TEX và METAFONT.
+Vì các đóng góp của ông vào lĩnh vực khoa học máy tính, trong năm 1990 ông được tặng chức vị đặc biệt Giáo sư Nghệ thuật lập trình máy tính và sau này được đổi thành Giáo sư danh dự Nghệ thuật lập trình máy tính.
+Năm 1992 ông trở thành một thành viên trong Viện Hàn lâm Khoa học Pháp. Trong năm đó ông ngừng giảng dạy và nghiên cứu tại Đại học Stanford để hoàn tất bộ Nghệ thuật Lập trình Máy tính. Năm 2003 ông được bầu vào Học hội Hoàng gia Anh (Royal Society). Đến năm 2004, ba quyển đầu của bộ sách của ông đã được tái bản, và ông đang viết cuốn thứ tư, bản thảo được thường xuyên cập nhật trên trang web của ông. Trong thời gian này, mỗi năm ông có những buổi diễn giảng không chính thức tại Đại học Stanford. Ông cũng là giáo sư thỉnh giảng tại Phòng thực nghiệm tính toán của Đại học Oxford, vương quốc Anh.
+Ngoài những tác phẩm về Khoa học máy tính, Knuth cũng là tác giả của cuốn 3:16 Bible Texts Illuminated (1991), ISBN 0-89579-252-4, trong đó ông cố gắng nghiên cứu Kinh Thánh bằng phương pháp lấy mẫu phân tầng ngẫu nhiên, tức là phân tích dòng 16, chương 3 trong mỗi quyển kinh. Mỗi dòng này được đi kèm với một minh họa bằng nghệ thuật viết chữ do nhóm các nhà thư pháp đứng đầu là Hermann Zapf đóng góp.
+
+
+== Tính hài hước của Knuth ==
+Knuth là người lập trình nổi tiếng và được biết đến cả trong tính hài hước.
+
+Ông trả một tờ séc mang tên giải thưởng Knuth trị giá 2,56 đô-la cho mỗi phát hiện lỗi sai trong các quyển sách của ông, bởi vì "256 xu là một đô-la theo hệ thập lục phân". (tuy nhiên trong cuốn 3:16 Bible Texts Illuminated, ông hào phóng tăng lên thành 3,16 đô-la). Theo một bài báo trong tạp chí Technology Review của Viện Công nghệ Masachusetts thì những tấm séc này "nằm trong những chiến lợi phẩm cao quý nhất của giới tin học".
+Phiên bản của phần mềm TeX được đánh số tiến dần đến số siêu việt π, tức là phiên bản tăng dần 3, 3.1, 3.14 và cứ thế. Tương tự phiên bản của Metafont được đánh số dần đến hằng số toán học e.
+Ông đã từng cảnh báo những người sử dụng phần mềm của ông là Cẩn thận với lỗi trong các dòng lệnh trên; Tôi mới chỉ chứng minh là nó đúng chứ chưa thử".
+Tất cả các phụ lục trong các tùng thư về Máy tính và xếp chữ đều có tiêu đề bắt đầu với ký tự nhận dạng phụ lục.
+Nghệ thuật lập trình máy tính tập 3 (1973) có chỉ mục "Tiền nhuận bút, việc sử dụng, 405". Trang 405 không hề đề cập đến tiền hoa hồng mà chỉ có một lược đồ của một "sắp xếp kiểu đàn ống" ở hình 2. Có vẻ đàn ống trong nhà ông (xem phần Cá nhân dưới đây) được mua bằng tiền nhuận bút từ Nghệ thuật lập trình máy tính.
+Trong lời tựa của quyển Concrete Mathematics: Khi Knuth lần đầu tiên dạy lớp Concrete Mathematics tại Stanford, ông đã giải thích tiêu đề hơi lạ bằng cách chơi chữ. (Concrete Mathematics có thể được hiểu là "toán học cụ thể" hoặc "toán học bê tông".) Ông nói rằng đó chính là việc ông thử dạy một môn Toán khó (hard – "cứng") chứ không dễ dàng (soft – "mềm"). Ông nói rằng trái với sự mong chờ của các đồng sự, ông sẽ không dạy Lý thuyết tập hợp lẫn Định lý nhúng của Stone (Stone embedding theorem – "định lý khảm Ngọc") và compact hóa của Stone-Čech. (Một vài sinh viên ngành xây dựng dân dụng đã đứng dậy và lặng lẽ rời khỏi phòng.)
+Knuth công bố bài báo "khoa học" đầu tiên ở một tạp chí trường học vào năm 1957 dưới tiêu đề "Hệ thống cân đo Potrzebie." Trong đó, ông định nghĩa đơn vị cơ bản của độ dài như là độ dày của số 26 của tạp chí hài hước MAD, và đặt tên đơn vị cơ bản của lực là "tôi-sợ-gì-ư" (whatmeworry). Tạp chí MAD đã mua bài báo này và xuất bản trong số 33 vào tháng 6 năm 1957.
+Bài báo "toán học" đầu tiên của Knuth là một bài ngắn gửi vào cuộc thi "tìm kiếm tài năng khoa học" cho học sinh cấp 3 năm 1955, và xuất bản năm 1960, trong đó ông thảo luận về những hệ số của cơ số âm. Về sau ông mở rộng chúng thành những hệ số có cơ số là số phức. Đặc biệt ông định nghĩa hệ số một phần tư ảo, trong đó sử dụng số 2i làm nền tảng, có đặc trưng không giống bình thường là mọi số phức đều có thể biểu diễn với các chữ số 0, 1, 2 và 3 mà không cần dấu.
+Bài báo của Knuth về độ phức tạp thuật toán của các bài hát truyền thống và hiện đại được tái bản hai lần dưới tên Độ phức tạp của các bài hát trong các tạp chí khoa học máy tính.
+Để chỉ rõ khái niệm phép tính vòng tròn, Knuth cố tình làm Circular definition và Definition, circular chỉ đến nhau trong chỉ mục Nghệ thuật lập trình máy tính tập 1.
+
+
+== Cá nhân ==
+Một trong các sở thích riêng của Knuth là chơi nhạc, đặc biệt là chơi đàn ống. Trong nhà ông có một cái đàn ống. Knuth phủ nhận việc mình có tài năng trong nhạc cụ.
+Ông không dùng thư điện tử và nói rằng ông sử dụng nó từ khoảng năm 1975 đến tận tháng 1 năm 1990 và như thế là đã quá đủ cho một cuộc đời. Ông cảm thấy việc trả lời thư theo "chế độ lô" hiệu quả hơn, ví dụ chọn ra một ngày trong ba tháng để gửi thư theo đường bưu điện.
+Vợ ông là Jill Knuth viết một cuốn sách nghi thức tế lễ với tiêu đề Biểu ngữ không lời được xuất bản bởi Resource Publications vào năm 1986. Họ có hai con.
+Ông là thành viên hội bằng hữu Theta Chi.
+Knuth sử dụng chương trình soạn thảo Emacs.
+
+
+== Giải thưởng ==
+Giải Grace Murray Hopper đầu tiên của hiệp hội ACM - 1971
+Giải Turing - 1974
+Huy chương Khoa học Quốc gia - 1979
+Huy chương John von Neumann - 1995
+Giải Kyoto - 1996
+Ông có một tên Trung Quốc 高德納 (âm Hán Việt: Cao Đức Nạp; bính âm: Gāo Dénà), do Frances Yao đặt năm 1977 ngay trước chuyến thăm đầu tiên của ông tới Trung Quốc.
+
+
+== Tác phẩm ==
+Danh sách ngắn các tác phẩm của ông:
+Donald E. Knuth, Nghệ thuật lập trình máy tính, Tập 1–4, Addison-Wesley Professional
+Tập 1: Những thuật toán cơ bản (bản in lần thứ 3), 1997. Addison-Wesley Professional, ISBN 0-201-89683-4
+Tập 2: Những thuật toán bán số trực (bản in lần thứ 3), 1997. Addison-Wesley Professional, ISBN 0-201-89684-2
+Tập 3: Sắp xếp và tìm kiếm (bản in lần thứ 2), 1998. Addison-Wesley Professional, ISBN 0-201-89685-0
+Tập 4: Những thuật toán tổ hợp, đang viết
+Tập 5: Những thuật toán về cú pháp, đang chuẩn bị, dự kiến ra mắt vào năm 2015 
+
+Donald E. Knuth, Nghệ thuật lập trình máy tính, fascicles:
+Volume 1, Fascicle 1: MMIX — A RISC Computer for the New Millennium, 2005. ISBN 0-201-85392-2
+Volume 4, Fascicle 2: Generating All Tuples and Permutations, 2005. ISBN 0-201-85393-0
+Volume 4, Fascicle 3: Generating All Combinations and Partitions, 2005. ISBN 0-201-85394-9
+Volume 4, Fascicle 4: Generating All Trees—History of Combinatorial Generation, 2006. ISBN 0-321-33570-8
+Donald E. Knuth, The TeXbook (Reading, Massachusetts: Addison-Wesley), 1984. ISBN 0-201-13448-9
+Donald E. Knuth, The METAFONTbook (Reading, Massachusetts: Addison-Wesley), 1986. ISBN 0-201-13444-6
+Ronald L. Graham, Donald E. Knuth, Oren Patashnik, Concrete Mathematics: A Foundation for Computer Science, 2nd edition (Reading, Massachusetts: Addison-Wesley), 1994. ISBN 0-201-55802-5
+Selected papers series:
+Donald E. Knuth, Literate Programming (Center for the Study of Language and Information - Lecture Notes), 1992. ISBN 0-937073-80-6
+Donald E. Knuth, Selected Papers on Computer Science (Stanford, California: Center for the Study of Language and Information - CSLI Lecture Notes, no. 59), 1996. ISBN 1-881526-91-7
+Donald E. Knuth, Digital Typography (Stanford, California: Center for the Study of Language and Information - CSLI Lecture Notes, no. 78), 1999. ISBN 1-57586-010-4
+Donald E. Knuth, Selected Papers on Analysis of Algorithms (Stanford, California: Center for the Study of Language and Information - CSLI Lecture Notes, no. 102), 2000. ISBN 1-57586-212-3
+Donald E. Knuth, Selected Papers on Computer Languages (Stanford, California: Center for the Study of Language and Information - CSLI Lecture Notes, no. 139), 2003. ISBN 1-57586-381-2 (cloth), ISBN 1-57586-382-0 (paperback)
+Donald E. Knuth, Selected Papers on Discrete Mathematics (Stanford, California: Center for the Study of Language and Information - CSLI Lecture Notes, no. 106), 2003. ISBN 1-57586-249-2 (cloth), ISBN 1-57586-248-4 (paperback)
+Donald E. Knuth, Selected Papers on Design of Algorithms (scheduled for publication in 2007)
+Donald E. Knuth, Selected Papers on Fun and Games (scheduled for publication in 2007)
+Donald E. Knuth, 3:16 Bible Texts Illuminated (Madison, Wisconsin: A-R Editions), 1990. ISBN 0-89579-252-4
+Donald E. Knuth, Things a Computer Scientist Rarely Talks About (Center for the Study of Language and Information - CSLI Lecture Notes no 136), 2001. ISBN 1-57586-326-X
+
+
+== Tham khảo ==
+
+
+== Liên kết bên ngoài ==
+Donald Knuth trong trang mạng của trường Đại học Stanford

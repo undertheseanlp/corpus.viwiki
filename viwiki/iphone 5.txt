@@ -1,0 +1,36 @@
+iPhone 5 là điện thoại thông minh màn hình cảm ứng thế hệ thứ sáu của Apple Inc, chính thức ra mắt ngày 12/9/2012. So với những phiên bản tiền nhiệm của nó, nó có màn hình 4 inch (lớn hơn so với 3,5 inch của các bản trước), và một cổng kết nối 8-pin nhỏ hơn, nhẹ hơn, mỏng hơn, và nhanh hơn. Đây là iPhone đầu tiên hỗ trợ LTE và có một màn hình với một tỉ lệ gần 16:09.
+
+
+== Lịch sử ==
+Suy đoán về iPhone 5 và thông số kỹ thuật của nó xuất hiện ngay sau khi Apple công bố iPhone 4S ngày 4/10/2011. Tuy nhiên, tin đồn và rò rỉ chi tiết đã không xuất hiện cho đến tháng 6 năm 2012. Ngay từ ngày 30 tháng 7 năm 2012, báo cáo xác định chính xác ngày ra mắt và phát hành của phiên bản điện thoại này cùng với các tính năng có thể có.
+Ngày 4 tháng 9 năm 2012, Apple mời các hãng truyền thông đến một sự kiện dự kiến ​​ngày 12 tháng 9 tại Trung tâm Nghệ thuật ở San Francisco Yerba Buena. Nhiều nguồn tin cho rằng điều này sẽ được liên quan đến hệ iPhone tiếp theo do một cái bóng của chữ số 5 đặc trưng trong thiết kế của thiệp mời. Hãng Apple sau đó đã công bố một số sản phẩm mới bao gồm iPhone 5, iPod Nano (thế hệ thứ 7), và iPod Touch (thế hệ thứ 5). Phiên bản điện thoại này đã có sẵn để đặt hàng trước vào ngày 14 tháng 9 năm 2012 và sẽ có mặt trên 21 tháng 9 tại Hoa Kỳ, Canada, Vương quốc Anh, Ireland, Pháp, Đức, Australia, Nhật Bản, Hồng Kông, và Singapore.
+Trong thông báo ra mắt phiên bản điện thoại này, Phil Schiller tuyên bố rằng, với 7,6 mm, iPhone 5 là "smartphone mỏng nhất thế giới", tuy nhiên trên thị trường đã có những smartphone mỏng hơn từ trước. Cụ thể, Oppo Finder là 6,65 mm và 7,1 mm (nếu tính cả đoạn lồi do ống kính máy ảnh).
+
+
+== Đặc điểm ==
+iPhone 5 sử dụng iOS, hệ điều hành di động của Apple, có độ mỏng 7,6mm, chiều ngang của máy vẫn được giữ nguyên như các phiên bản trước đó, trong khi chiều dài đã được kéo dài ra, trọng lượng 112 gam, nhẹ hơn iPhone 4S 20%. iPhone 5 có màn hình kích thước 4 inch với độ phân giải 1136 x 640 pixel, tỷ lệ 16:9, hiển thị 5 hàng Icon trên màn hình, hỗ trợ người dùng xem phim tốt hơn, độ bão hòa màu cũng cao hơn 44% so với phiên bản tiền nhiệm. Máy hỗ trợ kết nối LTE 100MB, băng tần kép Wi-Fi. iPhone 5 trang bị bộ vi xử lý A6 có tốc độ nhanh gấp 2 lần so với chip A5 đang được sử dụng trên iPhone 4S, và mạnh gấp 2 lần về khả năng hiển thị đồ họa, RAM 1GB, bộ nhớ trong có các phiên bản tùy chọn là 16GB, 32GB và 64GB.
+iPhone 5 có máy ảnh cảm biến 8 megapixel giống như trên iPhone 4S, nhưng cảm biến nhỏ hơn đến 25% so phiên bản trước kế nó. Đặc biệt camera của phiên bản mới hỗ trợ chế độ chụp toàn cảnh Panorama, cho dung lượng ảnh chụp tương đương với 28 megapixel. Khả năng quay video 1080p được hỗ trợ khả năng chống rung, nhận diện được khuôn mặt 10 người và đặc biệt hơn là có thể chụp ảnh ngay khi quay phim, trong khi mặt trước là camera 1.3 MP có khả năng quay video HD 720p, hoạt động trên 3G với iOS 6.
+iPhone 5 có hệ thống âm thanh bao gồm 3 microphone: một ở dưới chân máy; một ở gần Camera trước của máy và một ở giữa Camera sau và đèn Flash - microphone thứ 3 này có tác dụng chống ồn cho iPhone khi bạn nghe điện thoại ở những nơi ồn ào, hỗ trợ 5 loa với 2 loa ở phía trước, diện tích loa của iPhone 5 bé hơn 20%. iPhone sử dụng cáp kết nối 8 chân "Lightning" có thể đảo ngược, và nhỏ hơn đến 80% so với cáp của iPhone 4 và iPhone 4S. iPhone 5 sử dụng Nano-SIM, Pin Li-Po cung cấp thời gian sử dụng lên đến 8h trên mạng 3G, duyệt web 3G, 8 giờ khi dùng LTE duyệt web, 10 giờ khi dùng WiFi duyệt web, 10 giờ xem video, thời gian chờ 225 giờ, và nghe nhạc liên tục trong 40 giờ.
+
+
+== Những khác biệt so với Iphone 4s ==
+Ngoài việc có màn hình dài hơn một chút so với Iphone 4s(4 inch so với 3.5 inch), dẫn đến kích thước máy cũng dài hơn, Iphone 5 còn có một vài thay đổi so với người tiền nhiệm.
+- Vỏ được làm bằng nhôm nguyên khối so với thép không gỉ của iphone 4/4s. Mặt kính của Iphone 5 cũng thụt vào một chút so với khung nhôm chứ không nằm hẳn ra ngoài như các thế hệ trước. Chính những điều này đã dẫn đến lỗi dễ trầy xước ở các cạnh của Iphone 5 và bị nhiều người phê bình. Tuy nhiên cũng chính nhờ lớp vỏ này và cả việc loại bỏ lớp kính ốp phía sau, mà Iphone 5 tỏ ra rất bền bỉ trước các va chạm. Trong các thử nghiệm của các trang công nghệ, Iphone 5 tỏ ra bền bỉ một cách đáng kinh ngạc khi được thả rơi từ các độ cao khác nhau. Thậm chí ở một số cuộc thử, Iphone 5 chỉ vỡ màn hình khi người ta cố tình ném mạnh nó xuống nền xi măng.
+- Iphone 5 dùng chip A6, tuy vẫn chỉ là 2 core và xung nhịp chỉ tăng rất ít, nhưng nhờ Apple đã sắp xếp lại kiến trúc Cpu một cách thủ công hiệu quả, nên nó có tốc độ gấp đôi chip A5 trên iphone 4s.
+
+
+== Đón nhận ==
+
+Trước khi iPhone 5 ra mắt một tuần, đã có một số người xếp hàng với các vật dụng cá nhân và túi ngủ trước cửa hàng của Apple ở Thành phố New York chờ màn ra mắt của iPhone 5. Họ bắt đầu xếp hàng theo thứ tự tại cửa hàng Apple ở đại lộ số 5 và chờ tới ngày 21 tháng 9.
+Trong vòng 24 giờ sau khi Apple cho phép khách hàng đặt mua trước, mẫu iPhone 5 đã nhận được hơn 2 triệu đặt hàng mua và trở thành dòng iPhone bán chạy nhất, so với mức 1 triệu chiếc của iPhone 4S xác lập hồi tháng 10 năm 2011. Việc số lượng đặt mua lớn đã khiến giá cổ phiếu của Apple thiết lập trần kỷ lục mới khi chạm mức 700 USD/cổ phiếu trong phiên giao dịch ngày 17 tháng 9 năm 2012.
+Tại Việt Nam, hai nhà mạng Vinaphone và Viettel tiếp tục phân phối chính thức.
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+
+
+== Liên kết ngoài ==
+Trang web chính thức của Apple

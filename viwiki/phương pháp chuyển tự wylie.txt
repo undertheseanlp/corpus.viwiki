@@ -1,0 +1,19 @@
+Phương pháp chuyển tự Wylie là một phương pháp chuyển tự được dùng để biến các văn kiện đã được viết dưới dạng hoa văn của tiếng Tây Tạng sang dạng dùng các ký tự Latinh. Turrell Wylie là người đã hoàn thiện phương pháp này vào năm 1959, và từ đó phương pháp chuyển tự Wylie đã trở thành một chuẩn của các người nghiên cứu về văn học và ngôn ngữ Tây Tạng.
+
+
+== Bảng chuyển tự ==
+
+
+== Xem thêm ==
+Ký tự Tây Tạng
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Wylie, Turrell (1959). A Standard System of Tibetan Transcription. Harvard Journal of Asiatic Studies, p. 261-267
+(Các liên kết sau cần font tiếng Tây Tạng)
+The Wylie Translation Table, at Nitartha International
+THDL Extended Wylie Transliteration Scheme
+Online Transliterator (converts Wylie or ACIP transliteration to graphics)

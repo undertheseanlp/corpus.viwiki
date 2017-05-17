@@ -1,0 +1,37 @@
+Tỉ lệ khung hình của một hình dạng hình học là tỉ lệ kích cỡ của nó trong các chiều khác nhau. Ví dụ như, tỉ lệ khung hình của một hình chữ nhật là tỉ lệ của phần dài nhất của nó so với phần ngắn hơn – tức là tỉ lệ của chiều rộng so với chiều cao, khi hình chữ nhật được đặt "nằm ngang".
+Tỉ lệ khug hình được thể hiện bằng hai con số phân cách bởi một dấu hai chấm (x:y). Giá trị của x và y không đại diện cho chiều rộng và chiều cao thực tế, mà đúng hơn là mỗi quan hệ giữa chiều rộng và chiều cao. Ví dụ, 8:5, 16:10 và 1.6:1 là ba cách thể hiện của cùng một tỉ lệ.
+Với các đối tượng có nhiều hơn hai chiều, ví dụ như siêu chữ nhật, tỉ lệ khung hình vẫn có thể được định nghĩa là tỉ lệ của cạnh dài nhất với cạnh ngắn nhất.
+
+
+== Ứng dụng và sử dụng ==
+Thuật ngữ này được sử dụng phổ biến nhất với:
+Đồ hoạ / hình ảnh
+Tỉ lệ khung hình (hình ảnh)
+
+
+== Tỉ lệ khung hình của các khối đơn giản ==
+
+
+=== Hình chữ nhật ===
+
+
+=== Ellipse ===
+Với hình ellipse, tỉ lệ khung hình biểu thị tỉ lệ của trục chính đến trục nhỏ. Một ellipse với 1:1 là một hình tròn.
+
+
+== Tỉ lệ khung hình của các khối tổng quát ==
+
+
+== Chú thích ==
+
+
+== Xem thêm ==
+Tỉ lệ
+Equidimensional ratios in 3D
+List of film formats
+Squeeze mapping
+Vertical orientation
+
+
+== Tham khảo ==
+Bản mẫu:Phân số và tỉ số

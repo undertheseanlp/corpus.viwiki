@@ -1,0 +1,33 @@
+Công nghệ thông tin và truyền thông dành cho phát triển (tiếng Anh: Information and Communication Technologies for Development, viết tắt: ICT4Dev) là một thuật ngữ chung đề cập đến việc áp dụng công nghệ thông tin và truyền thông trong các lĩnh vực phát triển kinh tế xã hội, phát triển quốc tế và nhân quyền.
+Thuật ngữ thường dùng cho lĩnh vực này là "ICT4Dev". Ngoài ra còn có các tên gọi tương tự khác như ICTD (tiếng Anh: Information and Communication Technologies and Development) và tin học phát triển.
+ICTD là ứng dụng các giải pháp công nghệ cho các vấn đề của thế giới đang phát triển. Về lý thuyết, nó có sự khác biệt với ICT4Dev. ICT4Dev tập trung vào sử dụng công nghệ kỹ thuật số để cung cấp những mục tiêu phát triển cụ thể (đặc biệt là hầu hết các Mục tiêu Phát triển Thiên niên kỷ). ICTD được sử dụng rộng rãi hơn tại những nước phát triển sử dụng công nghệ thông tin và truyền thông.
+Đây là một điểm khác biệt ít khi được hiểu hoặc sử dụng đúng trong thực tế.
+Một cộng đồng nghiên cứu khá nhỏ lẻ đã phát triển dần qua những cuộc hội thảo ICTD hàng năm, cuộc hội thảo gần đây  đã diễn ra tại Doha, Qatar. Điểm nổi bật của cộng đồng này là sự kết hợp của những nhà nghiên cứu khoa học xã hội và khoa học kĩ thuật trong cùng một lĩnh vực chuyên môn.
+Khái niệm về ICT4Dev có thể được hiểu như việc đối phó với bất lợi dân số tại bất cứ nơi nào trên thế giới, nhưng thường được kết hợp trong các ứng dụng ở các nước đang phát triển. ICT4Dev liên quan trực tiếp việc áp dụng công nghệ thông tin nhằm mục tiêu giảm nghèo đói. Công nghệ thông tin và truyền thông có thể được áp dụng theo nghĩa trực tiếp, trong đó việc sử dụng chúng đem lại lợi ích trực tiếp cho khó khăn dân số; hoặc theo nghĩa gián tiếp, trong đó công nghệ thông tin và truyền thông hỗ trợ các tổ chức chính phủ hoặc phi chính phủ, hỗ trợ cho chính phủ hoặc các doanh nghiệp nhằm cải thiện điều kiện kinh tế xã hội chung.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+ICT4Dev and e-Agriculture
+Oxford Internet Institute course on ICT for Development
+Austrian Network for Information and Communication technologies for Development
+UNDP Page for ICT4Dev case Studies
+i4d magazine information 4 development magazine, published from India
+Quick guide: Low-cost computing devices and initiatives for the developing world
+The Ethnos Project - ICT4Dev advocacy and information resource
+NextLab, MIT project that uses mobile technologies for development
+The Digital Divide, ICT and the 50x15 Initiative
+
+
+=== Phương tiện truyền thông ===
+In Developing Countries, Web Grows Without Profit
+
+
+=== Video ===
+Low-Cost, Low-Power Computing - Mary Lou Jepsen at ETech 2009
+Hello Africa - a documentary about mobile phone culture in Africa
+
+
+== Tham khảo ==

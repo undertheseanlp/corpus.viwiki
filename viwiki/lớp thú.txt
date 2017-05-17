@@ -1,0 +1,162 @@
+Lớp Thú (danh pháp khoa học: Mammalia /məˈmeɪli.ə/, còn được gọi là Động vật có vú hoặc Động vật hữu nhũ) là một nhánh động vật có màng ối nội nhiệt được phân biệt với chim bởi sự xuất hiện của lông mao, ba xương tai giữa, tuyến vú, và vỏ não mới (neocortex, một khu vực của não). Não bộ điều chỉnh thân nhiệt và hệ tuần hoàn, bao gồm cả một trái tim bốn ngăn. Lớp Thú bao gồm các động vật lớn nhất còn sinh tồn (như cá voi xanh và một vài loài cá voi khác), cũng như những động vật thông minh nhất - như voi, vài loài linh trưởng và cá voi. Kích thước cơ thể động vật có vú dao động từ 30–40 mm (1,2–1,6 in) dơi ong nghệ tới 33 mét (108 ft) cá voi xanh.
+Tên khoa học Mammalia được đặt bởi Carl Linnaeus năm 1758, xuất phát từ tiếng Latin mamma ("vú"). Tất cả con cái cho con bú bằng sữa tiết ra từ tuyến vú. Theo Mammal Species of the World, 5.416 loài được biết đến vào năm 2006. Lớp Thú được phân thành 1.229 chi, 153 họ và 29 bộ. Năm 2008, IUCN đã hoàn thành việc khảo sát đánh giá động vật có vú toàn cầu kéo dài 5 năm với sự tham gia của 1.700 nhà khoa học để lập Sách đỏ IUCN, trong đó ghi nhận 5.488 loài được công nhận vào cuối thời kỳ đó.
+Trừ 5 loài thú đơn huyệt (đẻ trứng), tất cả động vật có vú còn lại đều đẻ con. Ba bộ đa dạng và giàu số lượng loài nhất là Bộ Gặm nhấm (chuột, chuột cống, hải ly, chuột lang nước, chuột lang, và các loài khác), Bộ Dơi (dơi), và Bộ Chuột chù (chuột chù, chuột chũi và solenodon). Các bộ đa dạng khác là Bộ Linh trưởng, Bộ Guốc chẵn, và Bộ Ăn thịt (mèo, chó, chồn, gấu, hải cẩu và họ hàng). Trong khi việc phân loại các động vật có vú ở cấp độ họ đã tương đối ổn định, phương pháp phân loại khác nhau ở các cấp độ cao hơn-subclass, infraclass, order-xuất hiện trong sách vở đương thời, đặc biệt là cho các loài thú có túi. Thay đổi nhiều trong thời gian gần đây đã phản ánh kết quả phân tích cladistic và di truyền phân tử. Kết quả từ di truyền phân tử đã dẫn đến việc áp dụng các nhóm mới như Afrotheria và việc từ bỏ các nhóm truyền thống như sâu bọ.
+Các tổ tiên động vật có vú đầu synapsid là pelycosaurs sphenacodont, một nhóm bao gồm cả Dimetrodon. Vào cuối kỷ Cacbon, nhóm này tách ra từ dòng sauropsid và phát triển thành loài bò sát và các loài chim ngày nay. Dẫn trước bởi nhiều nhóm đa dạng của động vật có vú không synapsids (đôi khi được gọi là bò sát giống động vật có vú), các động vật có vú đầu tiên xuất hiện trong đầu thời đại Trung Sinh. Các loài động vật có vú hiện đại xuất hiện trong các giai đoạn của kỷ Paleogen và Neogen, sau sự tuyệt chủng của loài khủng long 66 triệu năm trước đây.
+
+
+== Phân loại ==
+
+"Principles of Classification and a Classification of Mammals" (AMNH Bulletin v. 85, 1945) của George Gaylord Simpson là nguồn cơ bản của phân loại liệt kê trong bài này. Simpson đã vạch ra hệ thống học của nguồn gốc thú và các mối quan hệ nói chung được giảng dạy rộng khắp cho tới cuối thế kỷ 20. Kể từ phân loại của Simpson, các hồ sơ hóa thạch cổ sinh vật học đã được điều chỉnh lại, và trong những năm qua người ta đã chứng kiến nhiều tranh luận và tiến bộ liên quan tới những kiến thức cột trụ lý thuyết của chính việc hệ thống hóa, một phần là thông qua các khái niệm mới của miêu tả theo nhánh học. Mặc dù các công trình nghiên cứu trong lĩnh vực này đã dần dần làm cho hệ thống phân loại của Simpson trở nên lỗi thời, nhưng nó vẫn là điều gần gũi nhất với phân loại chính thức của động vật có vú.
+
+
+=== Phân loại McKenna/Bell ===
+Năm 1997, Malcolm C. McKenna và Susan K. Bell đã đưa ra sửa đổi tổng thể cho phân loại động vật có vú, bằng việc tạo ra phân loại McKenna/Bell. Cuốn sách Classification of Mammals above the Species Level, xuất bản năm 1997 của họ là công trình bao hàm toàn diện nhất tới nay về hệ thống học, các mối quan hệ và sự phát sinh của tất cả các đơn vị phân loại thú đã biết khi đó, dù còn sinh tồn hay đã tuyệt chủng, xuống tới cấp chi, mặc dù các dữ liệu phân tử gần đây đã và đang thách thức một vài kiểu gộp nhóm ở các cấp cao hơn. McKenna thừa hưởng dự án từ Simpson và cùng với Bell đã xây dựng một hệ thống cấu trúc thứ bậc được cập nhật trọn vẹn, bao gồm toàn bộ các đơn vị phân loại còn sinh tồn hoặc tuyệt chủng đã biết vào thời điểm đó, phản ánh phả hệ lịch sử của lớp Mammalia.
+Phân loại McKenna/Bell tóm tắt như sau: Lớp Mammalia
+Phân lớp Prototheria: Thú đơn huyệt: thú lông nhím và thú mỏ vịt.
+Phân lớp Theriiformes: Các loài thú sinh con và các họ hàng tuyệt chủng của chúng.
+Phân thứ lớp †Allotheria: multituberculates
+Phân thứ lớp †Triconodonta: triconodonts
+Phân thứ lớp Holotheria: Các loài thú sinh con hiện đại và các họ hàng tuyệt chủng của chúng.
+Superlegion †Kuehneotheria
+Supercohort Theria: Các loài thú sinh con.
+Cohort Marsupialia: Thú có túi
+Đại bộ Australidelphia: Thú có túi Australia và monito del monte (Dromiciops gliroides).
+Đại bộ Ameridelphia: Thú có túi Tân thế giới.
+
+Cohort Placentalia: Thú có nhau thai
+Đại bộ Xenarthra: Thú ăn kiến, lười cây.
+Đại bộ Epitheria:
+Liên bộ Anagalida: thú dạng thỏ, động vật gặm nhấm, và chuột chù voi.
+Liên bộ Ferae: thú ăn thịt, tê tê, †creodont, và các họ hàng.
+Liên bộ Lipotyphla: thú ăn sâu bọ
+Liên bộ Archonta: dơi, linh trưởng, chồn bay và đồi.
+Liên bộ Ungulata: động vật móng guốc.
+Bộ Tubulidentata incertae sedis: lợn đất
+Tiểu bộ Eparctocyona: †condylarth, cá voi và artiodactyla (động vật guốc chẵn)
+Tiểu bộ †Meridiungulata: động vật móng guốc Nam Mỹ.
+Tiểu bộ Altungulata: perissodactyla (động vật guốc lẻ), voi, lợn biển, bò biển và đa man.
+
+
+=== Phân loại phân tử của thú có nhau thai ===
+Các nghiên cứu phân tử dựa trên phân tích ADN trong vòng vài năm qua đã gợi ý các mối quan hệ mới giữa các họ thú. Phần lớn các phát hiện này đã được xác nhận độc lập bằng sự có mặt hay thiếu vắng dữ liệu retrotransposon. Các hệ thống phân loại dựa trên các nghiên cứu phân tử tiết lộ 3 nhóm chính hay 3 dòng dõi của thú có nhau thai là Afrotheria, Xenarthra và Boreoeutheria – đã rẽ nhánh ra từ các tổ tiên chung ban đầu trong kỷ Creta. Mối quan hệ giữa ba nhánh này vẫn chưa được thiết lập chắc chắn và người ta đưa ra ba giả thuyết khác nhau liên quan tới việc nhánh nào là cơ sở trong mối tương quan với phần còn lại của thú có nhau thai. Ba giả thuyết này được gọi là Atlantogenata (Boreoeutheria là cơ sở), Epitheria (Xenarthra là cơ sở) và Exafroplacentalia (Afrotheria là cơ sở). Tới lượt mình, Boreoeutheria chứa hai nhánh chính làEuarchontoglires và Laurasiatheria.
+Các ước tính về thời gian rẽ nhánh giữa 3 nhóm thú có nhau thai này dao động trong khoảng từ 105 tới 120 triệu năm trước, phụ thuộc vào kiểu ADN (chẳng hạn ADN nhân hay ADN ty thể) và các diễn giải có biến động về thời gian của các dữ liệu cổ địa lý học.
+Nhóm I: Afrotheria
+Nhánh Afroinsectiphilia
+Bộ Macroscelidea: chuột chù voi (Châu Phi)
+Bộ Afrosoricida: tenrecs và golden moles (Châu Phi)
+Bộ Tubulidentata: lợn đất (Châu Phi, nam Sahara)
+
+Nhánh Paenungulata
+Bộ Hyracoidea: đa man (Châu Phi, bán đảo Ả Rập)
+Bộ Proboscidea: voi (Châu Phi, Nam và Đông Nam Á)
+Bộ Sirenia: bò biển và lợn biển (nhiệt đới toàn cầu)
+
+Nhóm II: Xenarthra
+Bộ Pilosa: lười và thú ăn kiến (Trung và Nam Mỹ)
+Bộ Cingulata: ta tu và các họ hàng tuyệt chủng (Châu Mỹ)
+Nhóm III: Boreoeutheria
+Nhánh: Euarchontoglires (Supraprimates)
+Liên bộ Euarchonta
+Bộ Scandentia: đồi (Đông Nam Á).
+Bộ Dermoptera: chồn bay/cầy bay (Đông Nam Á)
+Bộ Primates: linh trưởng như khỉ, vượn, người (toàn cầu).
+
+Liên bộ Glires
+Bộ Lagomorpha: thỏ (Đại lục Á - Âu, châu Phi, châu Mỹ)
+Bộ Rodentia: động vật gặm nhấm như chuột, sóc (toàn cầu)
+
+Nhánh Laurasiatheria
+Bộ Erinaceomorpha: nhím chuột
+Bộ Soricomorpha: chuột chù
+Nhánh Ferungulata
+Nhánh Cetartiodactyla
+Bộ Cetacea: cá voi, cá heo
+Bộ Artiodactyla: động vật guốc chẵn, như lợn, hà mã, lạc đà, hươu cao cổ, hươu, linh dương, trâu, bò, cừu, dê.
+
+Nhánh Pegasoferae
+Bộ Chiroptera: dơi (toàn cầu)
+Nhánh Zooamata
+Bộ Perissodactyla: động vật guốc lẻ, như ngựa, lừa, ngựa vằn, lợn vòi và tê giác.
+Nhánh Ferae
+Bộ Pholidota: tê tê (Châu Phi, Nam và Đông Nam Á)
+Bộ Carnivora: thú ăn thịt, như hổ, báo, sư tử, mèo, chó, cáo, chồn, cầy (toàn cầu).
+
+
+== Đặc điểm nổi bật ==
+Các động vật có vú có thể được xác định bởi sự hiện diện của các tuyến mồ hôi, bao gồm cả những tuyến chuyên sản xuất sữa để nuôi con. Tuy nhiên trong phân loại hóa thạch, các đặc điểm khác phải được sử dụng, vì các tuyến mô mềm và nhiều đặc điểm khác không thể nhìn thấy được trong các hóa thạch.
+Nhiều đặc điểm chung của tất cả các động vật có vú đã xuất hiện trong những thành viên đầu tiên của các động vật này:
+Khớp xương hàm - Các xương hàm dưới có chứa răng và xương sọ nhỏ gặp nhau để hình thành khớp. Trong hầu hết các gnathostomes, bao gồm các therapsids đầu, khớp bao gồm các khớp (xương nhỏ ở mặt sau của hàm dưới) và vuông (xương nhỏ ở mặt sau của hàm trên).
+Tai giữa - Trong động vật có vú nhóm crown, âm thanh được mang tới màng nhĩ bởi một chuỗi ba xương, xương búa, xương đe các, và xương bàn đạp. Theo tiến hóa, xương búa và xương đe được bắt nguồn từ các khớp và xương vuông điều đó tạo nên khớp xương hàm của các therapsids đầu.
+Răng thay thế - Răng được thay thế một lần hoặc (như trong cá voi có răng và động vật gặm nhấm murid) hoặc không thay lần nào, chứ không phải được thay thế liên tục trong suốt cuộc đời.
+Men răng - Các lớp men trên bề mặt của răng gồm canxi, vững chắc, cấu trúc giống hình que dài từ ngà đến bề mặt của răng.
+Condyles chẩm - Hai điểm nối ở cuối hộp sọ vừa khít với cổ đốt sống trên cùng; hầu hết động vật bốn chân, ngược lại, chỉ có một điểm nối như vậy.
+Hầu hết các đặc điểm trên đã không có mặt trong các tổ tiên của động vật có vú ở kỷ Trias.
+Đối với nhà cổ sinh học, để xác định loài có vú theo loài, không có giới hạn đặc điểm nào có thể được sử dụng để phân biệt các nhóm. Bất kỳ đặc điểm nào đều có thể liên quan đến đặc điểm loài của một hóa thạch. Mặt khác cổ sinh vật học xác định động vật có vú bằng các đặc điểm thì cần phải chỉ xem xét những tính năng xuất hiện trong định nghĩa. Các khớp xương hàm nối răng và xương sọ thường xuyên được nhắc đến.
+
+
+== Phát sinh chủng loài ==
+Phát sinh chủng loài, xem Mammalia là nhóm chỏm cây.
+Một phát sinh chủng loài do Mikko Haaramo tạo ra dựa trên các phát sinh chủng loài riêng rẽ của Rowe 1988; Luo, Crompton & Sun 2001; Luo, Cifelli & Kielan-Jaworowska 2001, Luo, Kielan-Jaworowska & Cifelli 2002, Kielan-Jaworowska, Cifelli & Luo 2004, and Luo & Wible 2005.
+
+
+=== Tiến hóa từ amniote trong Paleozoi ===
+
+Các loài động vật có xương sống sống trên cạn hoàn toàn thuộc nhóm amniote. Giống như tổ tiên lưỡng cư của nó, chúng có phổi và chi. Trứng của amniote có các màng bên trong cho phép phôi phát triển chúng triển thở nhưng vẫn ở trong nước. Do vậy, amniote có thể đẻ trứng trên cạn, trong khi lưỡng cư nhìn chung cần đẻ trứng trong nước.
+Amniote đầu tiên xuất hiện vào cuối kỷ Cacbon. Chúng bắt nguồn từ lưỡng cư reptiliomorph trước đó, nhóm này sống trên cạn ăn côn trùng và các loài động vật không xương sống khác cũng như dương xỉ, rêu và các loại thực vật khác. Trong vòng vài triệu năm, hai dòng chính của amniot đã bị tuyệt chủng gồm synapsida, bao gồm lớp Thú; và sauropsida, bao gồm rùa, thằn lằn, rắn, cá sấu, khủng long và chim. Synapsida có một lỗ nằm thấp trên mỗi mặt của hộp sọ.
+Một nhóm synapsida là pelycosaur, bao gồm các loài động vật lớn nhất và ác liệt nhất vào đầu kỷ Pecmi.
+Therapsida tách nhánh từ pelycosaur trong Permi giữa, cách nay 265 triệu năm, và sau đó trở thành nhóm động vật có xương sống trên cạn phổ biến. chúng khác với các pelycosaur nhiều đặc điểm như hộp sọ và hàm như: temporal fenestrae lớn hơn và incisor bằng nhau về kích thước. Therapsida đã tiến hóa thành thú qua nhiều giai đoạn, bắt đầu với nhóm thú rất giống với tổ tiên pelycosaur của chúng và kết thúc bằng nhóm probainognathian cynodont, một số trong chúng dễ bị nhầm lẫn với thú. Các giai đoạn này đặc trưng bởi:
+Sự phát triển liên tục của palate xương thứ cấp.
+Tiến trình hướng đến tư thế đứng thẳng chân tay, làm tăng khả năng chịu đựng của con vật bằng cách tránh Carrier's constraint. nhưng quá trình này diễn ra chậm: ví dụ tất cả các động vật therapsida ăn cỏ không có dạng thú vẫn giữ các chi; Therapsida ănn thị trong Pecmi đã có chi trước sprawling, và một số trong cuối Pecmi cũng có chi sau semisprawling. Thực tế, các monotreme hiện đại vẫn có các chi semisprawling.
+Các dentary dân dần trở thành xương chính của hàm dưới, vào Trias, dần tiến đến hàm thú hoàn toàn và tai giữa được cấu tạo từ xương mà trước đây cấu tạo nên hàm của bò sát).
+Synapsida không thuộc nhóm thú được gọi là bò sát giống thú.
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+Bergsten, Johannes. February 2005. "A review of long-branch attraction". Cladistics 21:163–193. (pdf version)
+Brown, W.M. (2001). Natural selection of mammalian brain components. Trends in Ecology and Evolution, 16, 471–473.
+Khalaf-von Jaffa, Norman Ali Bassam Ali Taher (2006). Mammalia Palaestina: The Mammals of Palestine. Gazelle: The Palestinian Biological Bulletin. Number 55, July 2006. pp. 1–46.
+McKenna, Malcolm C., and Bell, Susan K. 1997. Classification of Mammals Above the Species Level. Columbia University Press, New York, 631 pp. ISBN 0-231-11013-8
+Nowak, Ronald M. 1999. Walker's Mammals of the World, 6th edition. Johns Hopkins University Press, 1936 pp. ISBN 0-8018-5789-9
+Simpson, George Gaylord (1945). “The principles of classification and a classification of mammals”. Bulletin of the American Museum of Natural History 85: 1–350. 
+William J. Murphy, Eduardo Eizirik, Mark S. Springer et al., Resolution of the Early Placental Mammal Radiation Using Bayesian Phylogenetics,Science, Vol 294, Issue 5550, 2348–2351, ngày 14 tháng 12 năm 2001.
+Springer, Mark S., Michael J. Stanhope, Ole Madsen, and Wilfried W. de Jong. 2004. "Molecules consolidate the placental mammal tree". Trends in Ecology and Evolution, 19:430–438. (PDF version)
+Vaughan, Terry A., James M. Ryan, and Nicholas J. Capzaplewski. 2000. Mammalogy: Fourth Edition. Saunders College Publishing, 565 pp. ISBN 0-03-025034-X (Brooks Cole, 1999)
+Jan Ole Kriegs, Gennady Churakov, Martin Kiefmann, Ursula Jordan, Juergen Brosius, Juergen Schmitz. (2006) Retroposed Elements as Archives for the Evolutionary History of Placental Mammals. PLoS Biol 4(4): e91.“PLoS Biology – Retroposed Elements as Archives for the Evolutionary History of Placental Mammals”. Biology.plosjournals.org. doi:10.1371/journal.pbio.0040091. Truy cập ngày 8 tháng 3 năm 2009. 
+David MacDonald, Sasha Norris. 2006. The Encyclopedia of Mammals, 3rd edition. Printed in China, 930 pp. ISBN 0-681-45659-0.
+
+
+== Đọc thêm ==
+Brown W.M. (2001). “Natural selection of mammalian brain components” (PDF). Trends in Ecology and Evolution 16 (9): 471–473. doi:10.1016/S0169-5347(01)02246-7. 
+Khalaf-von Jaffa, Norman Ali Bassam Ali Taher (2006). Mammalia Palaestina: The Mammals of Palestine. Gazelle: The Palestinian Biological Bulletin. Number 55, July 2006. pp. 1–46.
+McKenna, Malcolm C., and Bell, Susan K. 1997. Classification of Mammals Above the Species Level. Columbia University Press, New York, 631 pp. ISBN 0-231-11013-8
+Nowak, Ronald M. 1999. Walker's Mammals of the World, 6th edition. Johns Hopkins University Press, 1936 pp. ISBN 0-8018-5789-9
+Simpson, George Gaylord (1945). “The principles of classification and a classification of mammals”. Bulletin of the American Museum of Natural History 85: 1–350. 
+William J. Murphy, Eduardo Eizirik, Mark S. Springer et al., Resolution of the Early Placental Mammal Radiation Using Bayesian Phylogenetics,Science, Vol 294, Issue 5550, 2348–2351, ngày 14 tháng 12 năm 2001.
+Springer, Mark S., Michael J. Stanhope, Ole Madsen, and Wilfried W. de Jong. 2004. "Molecules consolidate the placental mammal tree". Trends in Ecology and Evolution, 19:430–438. (PDF version)
+Vaughan, Terry A., James M. Ryan, and Nicholas J. Capzaplewski. 2000. Mammalogy: Fourth Edition. Saunders College Publishing, 565 pp. ISBN 0-03-025034-X (Brooks Cole, 1999)
+Jan Ole Kriegs, Gennady Churakov, Martin Kiefmann, Ursula Jordan, Juergen Brosius, Juergen Schmitz. (2006) Retroposed Elements as Archives for the Evolutionary History of Placental Mammals. PLoS Biol 4(4): e91.“PLoS Biology – Retroposed Elements as Archives for the Evolutionary History of Placental Mammals”. Biology.plosjournals.org. doi:10.1371/journal.pbio.0040091.  
+David MacDonald, Sasha Norris. 2006. The Encyclopedia of Mammals, 3rd edition. Printed in China, 930 pp. ISBN 0-681-45659-0
+
+
+== Liên kết ngoài ==
+Mammal (animal) tại Encyclopædia Britannica (tiếng Anh)
+BBC Wildlife Finder - video clips from the BBC's natural history archive
+GlobalTwitcher.com – All species in the world with distribution maps and images
+Paleocene Mammals, a site covering the rise of the mammals, paleocene-mammals.de
+Evolution of Mammals, a brief introduction to early mammals, enchantedlearning.com
+Tree of Life poster – Shows mammals' evolutionary relation to other organisms, tellapallet.com
+The Evolution of Mesozoic Mammals, a Rough Sketch, an informal introduction, home.arcor.de
+Carnegie Museum of Natural History, some discoveries of early mammal fossils, carnegiemnh.org
+High-Resolution Images of various Mammalian Brains, brainmaps.org
+Mammal Species, collection of information sheets about various mammal species, learnanimals.com
+Summary of molecular support for Epitheria, biology.plosjournals.org
+Mikko's Phylogeny Archive, fmnh.helsinki.fi
+European Mammal Atlas EMMA from Societas Europaea Mammalogica, european-mammals.org
+Marine Mammals of the World—An overview of all marine mammals, including descriptions, multimedia and a key, eti.uva.nl
+Mammalogy.org The American Society of Mammalogists was established in 1919 for the purpose of promoting the study of mammals, and this website includes a mammal image library
+(tiếng Việt)
+Thú tại Từ điển bách khoa Việt Nam
+174 loài Thú ở Việt Nam trên trang SVRVN

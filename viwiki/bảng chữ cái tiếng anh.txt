@@ -1,0 +1,38 @@
+Bảng chữ cái tiếng Anh (tiếng Anh: English alphabet) hiện đại là một bảng chữ cái Latinh gồm 26 mẫu tự.
+
+Hình dạng chính xác của chữ cái trên ấn phẩm tùy thuộc vào bộ chữ in được thiết kế. Hình dạng của chữ cái khi viết tay hết sức đa dạng.
+Tiếng Anh viết sử dụng nhiều diagraph như ch, sh, th, wh, qu,...mặc dù ngôn ngữ này không xem chúng là các mẫu tự riêng biệt trong bảng chữ cái. Người dùng tiếng Anh còn sử dụng dạng chữ ghép truyền thống là æ và œ.
+
+
+== Lịch sử ==
+
+
+=== Tiếng Anh cổ ===
+
+Tiếng Anh được viết lần đầu bằng Bảng chữ cái rune Anglo-Saxon - được dùng từ thế kỷ 5. Bảng mẫu tự này do dân Anglo-Saxon mang theo đến nơi mà ngày nay là Anh Cách Lan. Hiện còn lưu giữ được rất ít ví dụ về cách viết tiếng Anh cổ này, chủ yếu số còn sót lại chỉ là những câu khắc hay những đoạn rời rạc.
+Từ thế kỷ 7, Bảng chữ cái Latinh do các nhà truyền đạo Ki-tô mang đến đã bắt đầu thay thế Bảng chữ cái rune Anglo-Saxon. Tuy nhiên, bảng chữ rune cũng đã ảnh hưởng lên bảng chữ cái tiếng Anh đang thành hình, thể hiện qua các chữ cái mà bảng rune mang đến là thorn (Þ þ) và wynn (Ƿ ƿ). Về sau người ta đặt ra chữ eth (Ð ð) bằng cách thay đổi chữ dee (D d). Những người chép thuê Norman đã tạo ra chữ yogh (Ȝ ȝ) từ chữ g đảo trong tiếng Anh cổ và tiếng Ireland. Họ dùng chữ yogh này song song với chữ g Carolingia.
+Chữ ghép a-e ash (Æ æ) được chấp nhận như một mẫu tự riêng biệt, đặc theo chữ æsc trong bộ chữ rune Bắc Âu. Ở thời kỳ rất sơ khai, tiếng Anh cổ còn có chữ ghép o-e ethel (Œ œ) với tư cách một mẫu tự riêng biệt, có nguồn gốc từ chữ œðel trong bộ chữ rune. Các chữ ghép v-v hoặc u-u W (W w) cũng được sử dụng.
+Năm 1011, Byrhtferð liệt kê 24 chữ cái:
+A B C D E F G H I K L M N O P Q R S T V X Y Z & ⁊ Ƿ Þ Ð Æ
+
+
+=== Tiếng Anh hiện đại ===
+Trong tiếng Anh hiện đại, Ƿ, Þ, Ð, Æ và œ bị xem là những chữ cái đã lỗi thời. þ và ð cùng bị thay bằng th, mặc dù þ tiếp tục tồn tại một thời gian nữa; dạng viết thường của þ cũng dần trở nên hòa lẫn vào cách viết chữ Y thường (y). þ và ð hiện vẫn còn hiện diện trong tiếng Iceland và tiếng Faroe. ƿ biến mất khỏi tiếng Anh khoảng từ thế kỷ 14 khi nó bị uu (tức w ngày nay) thay thế. ȝ biến mất từ khoảng thế kỷ 15 và bị gh thay thế. Các mẫu tự U và J - khác biệt với V và I - được bổ sung vào thế kỷ 16.
+Dạng viết thường của chữ s dài (ſ) tồn tại đến giai đoạn đầu của tiếng Anh hiện đại. æ và œ tồn tại đến thế kỷ 19 và được trong văn viết chính thức để ghi một số từ có gốc từ tiếng Hy Lạp hoặc tiếng Latinh, chẳng hạn từ encyclopædia ("bách khoa toàn thư") và từ cœlom ("thể khoang") mặc dù æ và œ không có trong tiếng Latinh cổ điển hoặc tiếng Hy Lạp cổ. Ngày nay hai chữ này được viết thành "ae" và "oe", mặc dù trong tiếng Anh Mỹ thì chữ e dài hầu như bị bỏ đi (chẳng hạn, tiếng Anh Mỹ viết encyclopedia thay cho encyclopaedia, fetus thay cho foetus).
+
+
+== Tên chữ cái ==
+Ít khi người ta đọc tên của chữ cái trừ khi phải phát âm các từ dẫn xuất hoặc từ ghép (chẳng hạn tee-shirt, deejay, emcee, okay,...), các dạng dẫn xuất (chẳng hạn exed out, effing,,...) hoặc tên các đối tượng được đặt tên theo tên chữ cái (chẳng hạn wye trong Y junction, nghĩa là khớp nối hình chữ Y). Danh sách dưới dây trích từ Từ điển tiếng Anh Oxford. Tên của phụ âm thường có dạng phụ âm + ee hoặc e + phụ âm (chẳng hạn bee và ef). Ngoại lệ là aitch, jay, kay, cue, ar, ess (trong từ ghép đọc là es-), wye và zed.
+Một số nhóm chữ cái như pee và bee hoặc em và en thường dễ bị nhầm lẫn khi trong giao tiếp, đặc biệt là khi liên lạc qua điện thoại hay vô tuyến. Để giải quyết vấn đề này, người ta tạo ra các bảng chữ cái đánh vần - chẳng hạn Bảng chữ cái đánh vần ICAO - trong đó mỗi chữ cái được gán cho một cái tên dễ phân biệt lẫn nhau.
+
+
+=== Nguồn gốc Tiếng Anh ===
+Tên gọi của các chữ cái trong tiếng Anh chủ yếu là kế thừa trực tiếp từ tên gọi trong tiếng Latinh (và tiếng Etrusca) thông qua trung gian là tiếng Pháp.
+
+
+== Tần suất sử dụng ==
+
+Chữ cái thường dùng nhất trong tiếng Anh là chữ E. Chữ cái ít dùng nhất là chữ Z. Danh sách dưới đây cho thấy tần suất tương đối của các chữ cái trong một văn bản tiếng Anh nhìn chung do tác giả Robert Edward Lewand dẫn ra:
+
+
+== Chú thích ==

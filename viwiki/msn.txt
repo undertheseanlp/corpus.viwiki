@@ -1,0 +1,69 @@
+MSN (viết tắt từ tên tiếng Anh The Microsoft Network) là một tập hợp các dịch vụ Internet cung cấp bởi Microsoft vào ngày 24 tháng 8 năm 1995, ra đời cùng lúc với phiên bản Windows 95. Số lượng dịch vụ được cung cấp thay đổi rất nhiều so với khi mới được phát hành. Dịch vụ email trên nền web Hotmail là một trong những sản phẩm đầu tiên (vào ngày 7 tháng 5 năm 2007 nó được thay thế bởi Windows Live Hotmail), tiếp theo là dịch vụ nhắn tin nhanh MSN Messenger, mới đây được thay thế bởi Windows Live Messenger. Theo trang Alexa.com, MSN.com hiện xếp thứ mười tám về các trang web được truy cập nhiều nhất.
+Một phần lớn các dịch vụ của MSN đã được đổi thương hiệu thành Windows Live vào năm 2005, với sự phát hành của Windows Live Hotmail (trước đó là Windows Live Mail) và Windows Live Messenger. Microsoft đại tu tất cả các dịch vụ và phần mềm trực tuyến của họ để đối phó với sự cạnh tranh ngày càng mạnh mẽ từ các đối thủ như Google, và Yahoo!. Nhãn hiệu Windows Live hiện đang được phát hành từng phần, với những dịch vụ được đổi thương hiệu ở dạng beta. Có thể thấy rằng dịch vụ MSN sẽ nhắm đến người dùng cá nhân và gia đình, trong khi Windows Love sẽ dành cho cơ sở tìm kiếm với những loại hình truyền thông khác nhau.
+Ở Hoa Kỳ và Canada, MSN không chỉ là nhà cung cấp nội dung và bộ máy tìm kiếm, nó còn là nhà cung cấp dịch vụ Internet. Với khoảng 9 triệu thuê bao, MSN là Nhà cung cấp dịch vụ Internet lớn thứ hai ở Hoa Kỳ sau AOL với khoảng 26,5 triệu. Ở các nước khác, MSN dùng người bảo hiểm cho dịch vụ của họ; ở Anh, Microsoft dùng BT group.
+Từ "MSN" cũng đồng nghĩa với "MSN Messenger" theo cách nói lóng trên Internet. Để sử dụng MSN Messenger, người dùng phải có một tài khoản Windows Live ID, một hệ thống tài khoản cho phép truy cập vào tất cả các dịch vụ của MSN. Người dùng có thể đăng ký bằng địa chỉ email, và sau đó có thể sử dụng tính năng cá nhân hóa MSN và Windows Live. Những tính năng cá nhân hóa này bao gồm My MSN, MSN Hotmail (giờ là Windows Live Hotmail) và khả năng đăng nhập vào Windows Live Messenger, và cả Windows Messenger (đã vắng bóng trên Windows Vista. Vào năm 2007, MSN có hơn 225 triệu người dùng.
+
+
+== Lịch sử ==
+
+MSN nguyên thủy là một ý tưởng về nhà cung cấp dịch vụ trực tuyến được thai nghén của America Online, cung cấp nội dung có bản quyền và cục bộ trùng hợp với Windows Explorer của Windows 95.
+Nhóm MSN bắt đầu hoạt động trong Nhóm Công nghệ Tiên tiến, đứng đầu bởi Nathan Myhrvold và nhóm có tên là AT-OLS (tiếng Anh: Advanced Technologies Online Systems group).
+Sau sự phổ biến nhanh chóng của Internet, một phần nhờ sự tương thích với giao thức IP có sẵn trong Windows 95, dịch vụ đã được đổi thương hiệu thành "MSN 2.0" mới, kết hợp truy cập internet với nội dung có bản quyền chuyển tải qua web.
+Nội dung mới sử dụng rất nhiều tính năng giao tiếp và truyền thông đa phương tiện, bao gồm VBScript và sự hiện thực đầu tiên của Macromedia Flash cho ảnh động. Trong khi cách tiếp cận khá độc đáo, nội dung thì lại không dễ truy cập cho người dùng máy tính dòng thấp và kết nối quay số (truy cập Internet băng thông rộng thời đó chưa phổ biến). Kết quả là dịch vụ đã được đổi thương hiệu lần nữa để gần hơn đến xu hướng là nhà cung cấp dịch vụ Internet. Vào ngày 14 tháng 2 năm 2000, MSN đã đưa vào sử dụng biểu trưng "con bướm" nhiều màu.
+
+
+== Các nhánh ==
+Microsoft đã hợp tác với nhiều công ty lớn khác nhau để tạo ra nhiều dịch vụ bổ sung trên MSN.
+Microsoft adCenter
+MSN Shopping — hợp tác với eBay, PriceGrabber và Shopping.com
+MSN Encarta bách khoa toàn thư với các mức tiếp cận thông tin và giá cả khác nhau
+Ngoài ra, thuê bao MSN Premium còn nhận được:
+MSN Firewall và MSN Virus Guard, cung cấp bởi McAfee
+Webroot Spy Sweeper cho MSN
+Microsoft đã nhận thấy sự cạnh tranh ngày càng gay gắt từ những nhà cung cấp dịch vụ khác, như Google và Yahoo!. Bản phát hành Google Earth ngay lập tức theo sau bởi dịch vụ tương tự từ MSN. Có thể nói rằng, MSN, Yahoo! và Google đang nhanh chóng mở rộng các dịch vụ mà họ cung cấp, với sự khác biệt về chức năng rất nhỏ, ngoại trừ sự ưa dùng cá nhân. Cũng tương tự như vậy, trong khi MSN Premium đưa ra chương trình Firewall, Virus và Spyware miễn phí, những nhà cung cấp băng thông rộng khác cũng cung cấp những dịch vụ tương tự (hoặc y chang) cho thuê bao của họ.
+
+
+== Windows Live ==
+
+Vào năm 2006, đa số các dịch vụ và phần mềm của MSN đã được nâng cấp và đổi thương hiệu với tên mới Windows Live. Nó là một phần chiến dịch của Microsoft để tăng cường các dịch vụ trực tuyến của mình thông qua các phần mềm và dịch vụ tốt hơn sử dụng thương hiệu Windows. MSN sẽ chỉ là nhà cung cấp nội dung trực tuyến thông qua cổng điện tử internet như msn.com.
+Windows Live sẽ sử dụng công nghệ web mới để cho ra các tính năng và chất lượng dịch vụ "như phần mềm" thông qua trình duyệt web của người dùng. Điều này rõ ràng với Windows Live Hotmail ở đó người dùng có thể dùng menu bằng cách nhấp phải chuột và giao diện giống như Microsoft Outlook. Windows Live cũng đi kèm với Office Live, cung cấp dịch vụ ứng dụng hướng về doanh nghiệp thông qua trình duyệt Internet.
+Các sự thay đổi về tên đã hoàn thành và dự tính:
+MSN Hotmail giờ gọi là Windows Live Hotmail,
+MSN Messenger giờ gọi là Windows Live Messenger,
+MSN Search giờ gọi là Windows Live Search,
+MSN Virtual Earth giờ gọi là Microsoft Virtual Earth,
+MSN Mobile giờ gọi là Windows Live Mobile,
+MSN Spaces giờ gọi là Windows Live Spaces, and
+MSN Alerts giờ gọi là Windows Live Alerts,
+MSN Winks giờ gọi là Windows Live Winks.
+Tình trạng của hai dịch vụ hiện nay, MSN Explorer và MSN Groups, chưa được công khai.
+Những dịch vụ mới đã được công bố, như Windows Live OneCare Safety Scanner và Windows Live Favorites.
+
+
+== MSN tiếng Việt ==
+Ngày 4 tháng 7 năm 2007, đại diện tập đoàn Microsoft và một số công ty truyền thông hợp tác đã công bố sự hợp tác để xây dựng cổng thông tin MSN tại Việt Nam. Sau khi hoàn thành, MSN Việt Nam giúp người dùng Internet trong nước có thể truy cập nhanh chóng các kênh tin tức trong và ngoài nước, các kênh thể thao, mua sắm trực tuyến, tài chính, du lịch... Đồng thời, Microsoft cũng mở rộng cung cấp các dịch vụ và sản phẩm của Windows Live tại đây.
+Các công ty hợp tác chung gồm có:
+VIP Wireless chịu trách nhiệm tập hợp nội dung và làm trung gian giữa các đối tác trong và ngoài nước.
+VTV và Báo Lao động cung cấp nội dung thời sự, tin tứcm thời tiết vầ các thông tin về kinh tế.
+VDC cung cấp hệ thống mạng, cơ sở hạ tầng Internet và hỗ trợ kỹ thuật.
+
+
+== Xem thêm ==
+Danh sách dịch vụ MSN
+Danh sách các bộ máy tìm kiếm
+MSN Maps
+MSN Chat
+MSN Groups
+MSN Video
+NineMSN
+MSNBC
+Microsoft
+Soapbox trên MSN Video
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+MSN.com PC/Mac Site
+MSN.mobi Mobile Site

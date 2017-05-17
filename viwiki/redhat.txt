@@ -1,0 +1,116 @@
+Red Hat, Inc. (NYSE: RHT) là một công ty phần mềm Mỹ cung cấp sản phẩm phần mềm mã nguồn mở cho cộng đồng doanh nghiệp. Thành lập năm 1993, Red Hat có trụ sở tại Raleigh, North Carolina với các chi nhánh trên toàn thế giới
+Red Hat has đã gắn liền ở mức độ lớn với hệ điều hành doanh nghiệp Red Hat Enterprise Linux và vơi việc mua lại nhà cung cấp middleware mã nguồn mở cho doanh nghiệp JBoss. Red Hat cung cấp nền tảng hệ điều hành, middleware, các ứng dụng, sản phẩm quản lý và hỗ trợ, đào tạo, và dịch vụ tư vấn.
+Red Hat tạo ra, duy trì, và đóng góp cho nhiều dự án phần mềm miễn phí và có cũng đã mua vài gói phần mềm độc quyềnvà phát hành mã nguồn của chúng theo chủ yếu là GNU GPL trong khi đang nắm giữ quyền tác giả theo thực thể thương mại duy nhất và bán các mục đăng ký người sử dụng. Tính đến tháng 4 năm 2012, Red Hat là công ty đóng góp lớn nhất cho Linux kernel.
+
+
+== Lịch sử ==
+Năm 1993 Bob Young đã thành lập ACC Corporation, một doanh nghiệp chuyên bán các phần mềm phụ kiện Linux và UNIX. Năm 1994 Marc Ewing tạo một bản phân phối Linux của riêng mình, mà ông đặt tên là Red Hat Linux (Ewing đã đội một chiếc mũ lacrosse màu đỏ của Cornell University, đã được ông của ông tặng cho, khi ông đang học tại Carnegie Mellon University). Ewing phát hành phần mềm trong tháng mười, và nó được biết đến như là bản phát hành Halloween. Young mua doanh nghiệp của Ewing trong năm 1995, và cả hai đã sáp nhập thành Red Hat Software, với Young phục vụ như giám đốc điều hành (CEO).
+Red Hat phát hành lần đầu ra công chúng vào 11/8/1999, đạt được ngày tăng thứ tám lớn nhất đầu tiên trong lịch sử của Wall Street. Matthew Szulik thành công, Bob Young trở thành CEO trong tháng 10 cùng năm.
+Ngày 15/11/1999, Red Hat mua lại Cygnus Solutions. Cygnus cung cấp hỗ trợ thương mại cho phần mềm miễn phí và lưu trữ bảo trì các sản phẩm phần mềm GNU ví dụ như GNU Debugger và GNU Binutils. Một trong những người sáng lập của Cygnus, Michael Tiemann, đã trở thành giám đốc kỹ thuật của Red Hat và by 2008 Phó Chủ tịch các vấn đề mã nguồn mở. Sau đó Red Hat mua lại WireSpeed, C2Net và Hell's Kitchen Systems.
+Tháng 2/2000, InfoWorld trao cho Red Hat giải thưởng "Sản phẩm Hệ điều hành của năm" lần thứ 4 liên tiếp của họ cho Red Hat Linux 6.1. Red Hat mua lại Planning Technologies, Inc năm 2001 và năm 2004 là phần mềm quản lý chứng chỉ máy chủ và thư mục iPlanet của AOL.
+
+Red Hat chuyển trụ sở của mình từ Durham, NC, đến khuôn viên của N.C. State University tại Raleigh, North Carolina vào tháng 2/2002. trong tháng tiếp theo Red Hat giới thiệu Red Hat Linux Advanced Server, sau đó đổi tên thành Red Hat Enterprise Linux (RHEL). Dell, IBM, HP và Oracle Corporation tuyên bố hỗ trợ cho nền tảng này.
+Tháng 12/2005, tạp chí CIO Insight đã tiến hành "Khảo sát giá bán hàng" hàng năm, trong đó Red Hat xếp thứ một trong giá trị cho năm thứ hai liên tiếp. Chứng khoán Red Hat lọt vào danh sách NASDAQ-100 ngày 19/12/2005.
+Red Hat mua lại nhà cung cấp middleware mã nguồn mở JBoss ngày 5/6/2006 và JBoss đã trở thành một bộ phận của Red Hat. Ngày 18/9/2006, Red Hat phát hành Red Hat Application Stack, Hệ thống ngăn xếp đầu tiên của họ có tích hợp công nghệ JBoss và đều được chứng nhận bởi nhà cung cấp phần mềm nổi tiếng khác. Ngày 12/12/2006, Red Hat chuyển từ NASDAQ (RHAT) sang New York Stock Exchange (RHT). Năm 2007 Red Hat mua lại MetaMatrix và thực hiện một thỏa thuận với Exadel để có thể phân phối phần mềm của họ.
+15/3/2007, Red Hat phát hành Red Hat Enterprise Linux 5, và vào tháng 6 mua lại Mobicents. Ngày 13/3/2008, Red Hat mua lại Amentra, một nhà cung cấp dịch vụ tích hợp hệ thống cho kiến trúc hướng dịch vụ, quản lý quá trình kinh doanh, phát triển hệ thống và dịch vụ dữ liệu doanh nghiệp. Amentra hoạt động như là một công ty độc lập của Red Hat.
+Ngày 27/7/2009, Red Hat thay thế CIT Group trong chỉ số 500 chứng khoán của Standard and Poor, chỉ số đa dạng của 500 công ty kinh tế hàng đầu Mỹ. Điều này đã được thông báo như là 1 cột mốc lớn cho Linux.
+Ngày 15/12/ 2009, có thông báo rằng Red Hat sẽ phải trả 8.8 triệu USD để giải quyết một vụ kiện liên quan đến trình bày lại kết quả tài chính từ tháng 7/2004. Vụ kiện đã bị hoãn trong một tòa án quận ở North Carolina. Red Hat đã đạt thỏa thuận giải quyết đề xuất và ghi nhận một khoản phí một lần là 8.8 triệu cho quý kết thúc ngày 30/11. Các thỏa thuận đang chờ tòa án phê duyệt.
+Ngày 10/1/2011, Red Hat thông báo họ sẽ mở rộng trụ sở chính trong hai giai đoạn, thêm 540 nhân viên cho chiến dịch Raleigh. Công ty sẽ đầu tư hơn 109 triệu USD. Bang North Carolina cung cấp một gói hỗ trợ lên đến 15 triệu USD. Giai đoạn thứ hai liên quan đến việc "mở rộng vào công nghệ mới như ảo hóa phần mềm và các dịch vụ đám mây công nghệ".
+Ngày 25/8/2011, Red Hat tuyên bố sẽ di chuyển khoảng 600 nhân viên từ khuôn viên trường N.C. State đến Two Progress Plaza trung tâm thành phố. Progress Energy dự kiến sẽ xin thôi việc xây dựng vào năm 2012 nếu sáp nhập với Duke Energy được hoàn thành. Red Hat cũng có kế hoạch để đổi tên tòa nhà.
+Đáng chú ý, Red Hat trở thành công ty mã nguồn mở đầu tiên có doanh thu hơn một tỷ đô-la trong năm 2012, đạt 1.13 tỷ đô-la trong doanh thu hàng năm.
+
+
+== Dự án Fedora ==
+
+Red Hat tài trợ dự án Fedora, một cộng đồng hỗ trợ dự án mã nguồn mở nhằm mục đích thúc đẩy sự tiến bộ nhanh chóng của phần mềm, nội dung miễn phí và mã nguồn mở. Fedora nhằm mục đích cho sự đổi mới nhanh chóng bằng cách sử dụng quy trình mở và diễn đàn công cộng.
+Ban quản lý dự án Fedora, bao gồm lãnh đạo cộng đồng và đại diện của Red Hat, dẫn đầu dự án và định hướng dự án và của Fedora, bản phân phối Linux họ phát triển. Nhân viên của Red Hat làm việc cùng với các thành viên cộng đồng, và nhiều sáng kiến trong dự án Fedora thực hiện theo cách của họ vào các phiên bản mới của Red Hat Enterprise Linux.
+
+
+== Mô hình kinh doanh ==
+Red Hat một phần hoạt động trên mô hình kinh doanh mã nguồn mở chuyên nghiệp dựa trên mã mở, phát triển trong cộng đồng, quản lý chất lượng chuyên nghiệp, và hỗ trợ khách hàng dựa trên đăng ký. Họ sản xuất mã nguồn mở, do đó, các lập trình viên có thể làm cho thích nghi và cải tiến hơn nữa.
+Red Hat bán các mục đăng ký để hỗ trợ, đào tạo và dịch vụ tích hợp giúp khách hàng trong việc sử dụng phần mềm mã nguồn mở. Khách hàng phải trả một đặt giá không giới hạn truy cập vào các dịch vụ như Red Hat Network và hỗ trợ lên đến 24/7.
+
+
+== Chương trình và dự án ==
+
+
+=== One Laptop per Child ===
+Các kỹ sư của Red Hat chủ động làm việc với One Laptop per Child (một tổ chức phi lợi nhuận được thành lập bởi các thành viên của phòng thí nghiệm phương tiện truyền thông MIT) để thiết kế và sản xuất một máy tính xách tay rẻ tiền và cung cấp cho mỗi trẻ em trên thế giới có thể truy cập để mở giao tiếp, kiến thức mở, và học tập mở. Laptop XO-1.5, latest, chạy một phiên bản rút gọn của Fedora là hệ điều hành của nó.
+
+
+=== Mugshot ===
+
+Red Hat tài trợ Mugshot, một dự án mở xây dựng "một kinh nghiệm sống xã hội" dựa trên giải trí. Nó tập trung tư duy công nghệ từ các đối tượng (file, folder, etc.) để hoạt động như duyệt web hay chia sẻ âm nhạc.. Các chủ đề này tạo thành tâm điểm của các tính năng hai lần đầu tiên trong Mugshot, Web Swarm và Music Radar. Đây đã bắt đầu trước khi thông báo của các dự án tại Red Hat Summit 2006. Trường hợp Mugshot ban đầu được tổ chức bởi Red Hat đã bị loại bỏ, và mugshot.org chuyển hướng đến Red Hat.
+
+
+=== Dogtail ===
+Dogtail, một nền tảng kiểm tra tự động mã nguồn mở có giao diện người dùng đồ họa (GUI) ban đầu được phát triển bởi Red Hat, bao gồm các phần mềm miễn phí phát hành theo Giấy phép công cộng tổng quát GNU (GPL) và được viết bằng Python. Nó cho phép các nhà phát triển để xây dựng và thử nghiệm các ứng dụng của họ. Red Hat đã công bố việc phát hành của Dogtail tại Hội nghị thượng đỉnh Red Hat 2006.
+
+
+=== MRG ===
+Red Hat Enterprise MRG (Messaging, Real-time, and Grid) thay thế nhân RHEL để cung cấp hỗ trợ thêm cho tính toán thời gian thực, cùng với middleware hỗ trợ tin nhắn môi giới và khối lượng công việc lập kế hoạch đến địa phương hoặc từ xa máy ảo, grid và cơ sở hạ tầng điện toán đám mây. Red Hat bây giờ đang làm viêc với Condor High-Throughput Computing System và cũng cung cấp hỗ trợ cho phần mềm.
+
+
+=== opensource.com ===
+Red Hat tạo ấn phẩm trực truyến opensource.com. Nó tập hợp các vấn đề quan tâm từ cộng đồng mã nguồn mở, nêu bật cách mở nguồn áp dụng ngoài nguyên tắc phần mềm và công nghệ. Nó bao gồm các chủ đề như vậy một doanh nghiệp, giáo dục, chính phủ, luật, y tế, và cuộc sống, cập nhật độc giả về cấp phép công cộng và Creative Commons, và các cuộc phỏng vấn với một số nhà lãnh đạo ngành công nghiệp và người dùng mã nguồn mở..
+Công ty ban đầu sản xuất một bản tin gọi là Under the Brim. Tạp chí Wide Open xuất hiện lần đầu vào tháng 3/2004 như một phương tiện cho Red Hat chia sẻ nội dung kỹ thuật với khách hàng đăng ký một cách thường xuyên. Bản tinUnder the Brim cà tạp chí Wide Open sáp nhập vào tháng 11/2004 để trở thành Red Hat Magazine. Red Hat Magazine sau này trở thành opensource.com.
+
+
+=== Red Hat Exchange ===
+Năm 2007 Red Hat thông báo họ đã đạt được một thỏa thuận với một số công ty phần mềm miễn phí và mã nguồn mở (FOSS) cho phép nó để làm cho một cổng thông tin phân phối được gọi là Red Hat Exchange, bán lại phần mềm FOSS ới xây dựng thương hiệu ban đầu nguyên vẹn. Tuy nhiên, Red Hat đã từ bỏ chương trình Exchange vào năm 2010 để tập trung nỗ lực của họ trên Open Source Channel Alliance được bắt đầu vào tháng 4/2009.
+
+
+=== OpenShift ===
+Red Hat điều hành OpenShift, một nền tảng điện toán đám mây như một dịch vụ, hỗ trợ các ứng dụng viết bằng Node.js, PHP, Perl, Python, Ruby, và JavaEE. OpenShift hiện trong phiên bản beta của nhà phát triển, và là miễn phí.
+
+
+=== Dự án khác ===
+Red Hat có một số nhân viên làm việc toàn thời gian vào các dự án phần mềm miễn phí mã nguồn mở, chẳng hạn như hai nhân viên toàn thời gian làm việc trên phần mềm miễn phí radeon (David Airlie và Jerome Glisse) và một nhân viên toàn thời gian làm việc trên trình điều khiển đồ họa phần mềm miễn phí nouveau.
+
+
+== Tiện ích và công cụ ==
+Hơn và ở trên các sản phẩm chính và mua lại của, các lập trình viên Red Hat đã tạo ra các phần mềm lập trình công cụ và tiện ích để bổ sung tiêu chuẩn Unix và phần mềm Linux. Một số trong các "sản phẩm" Red Hat đã tìm thấy con đường riêng của chúng từ môi trường hệ điều hành Red Hat cụ thể thông qua các kênh mã nguồn mở để có một cộng đồng lớn hơn. Tiện ích như vậy bao gồm:
+Disk Druid – for disk partitioning
+rpm – cho quản lý gói
+sosreport – tập hợp hệ thống phần cứng và cấu hình các chi tiết
+systemtap – tracing công cụ cho hạt nhân Linux, phát triển với IBM, Hitachi, Oracle và Intel
+NetworkManager
+Các trang web của Red Hat danh sách tham gia trong việc chủ yếu của tổ chức trong các dự án phần mềm miễn phí và mã nguồn mở.
+Dự án cộng đồng dưới sự bảo trợ của Red Hat bao gồm:
+Ứng dụng Pulp cho quản lý kho phần mềm.
+
+
+== Các công ty con ==
+
+
+=== Red Hat India ===
+Red Hat, Inc thành lập công ty con Red Hat India để cung cấp phần mềm Red Hat, hỗ trợ và dịch vụ cho khách hàng tại India. Colin Tenwick, phó chủ tịch và tổng giám đốc của Red Hat EMEA nói "sự thành lập [Red Hat India] là để đáp lại sự thông qua nhanh chóng của Red Hat Linux trong tiểu lục địa... Nhu cầu về các giải pháp mã nguồn mở từ các thị trường Ấn Độ ngày càng tăng và Red Hat muốn chơi một vai trò quan trọng trong khu vực này." Red Hat India đã làm việc với các công ty địa phương để cho phép việc áp dụng các công nghệ mã nguồn mở trong cả hai chính phủ và giáo dục.
+
+
+==== Hệ thống phân phối ====
+Red Hat India nói nó hiện đang có một mạng lưới phân phối trên hơn 70 kênh đối tác kéo dài 27 thành phố trên khắp Ấn Độ. Các kênh đối tác quan trọng củaRed Hat India bao gồm Efensys Technologies, Embee Software, Allied Digital Services, và Softcell Technologies. Các nhà phân phối quan trọng được liệt kê bởi nó bao gồm Integra Microsystems, Ingram Micro, GT Enterprises, và Sonata Software.
+
+
+== Mua lại và sáp nhập ==
+Vụ mua lại lớn đầu tiên của Red Hat là Delix Computer GmbH-Linux Div, phân hệ điều hành Linux của Delix Computer, một công ty máy tính Đức, ngày 30/7/1999. Red Hat mua Cygnus Solutions, một công ty cung cấp hỗ trợ thương mại cho phần mềm miễn phí, vào ngày 11/1/2000. Michael Tiemann, đồng sáng lập của Cygnus, phục vụ như giám đốc kỹ thuật của Red Hat sau khi mua lại. Ngày 5/6/2006, Red Hat mua lại nhà cung cấp middleware mã nguồn mở JBoss với 420 triệu đô-la tích hợp nó như là bộ phận của Red Hat.
+Ngày 14/12/1998, Red Hat đã thực hiện cắt bỏ đầu tiên, khi Intel và Netscape mua lại cổ phần thiểu số không được tiết lộ trong công ty. Trong năm sau đó, 9/3/1999, Compaq, IBM, Dell và Novell mua lại cổ phần thiểu số không được tiết lộ trong Red Hat. Việc mua lại lớn nhất của công ty là Cygnus Solutions trong tháng 1/2000 với 674 triệu đô-la. Red Hat đã mua lại vào năm 2000 với 5: Cygnus Solutions, Bluecurve, Wirespeed Communications, Hell's Kitchen Systems, và C2Net.
+
+
+=== Mua lại ===
+
+
+=== Bán đi ===
+
+
+== Đối thủ cạnh tranh ==
+
+Đối thủ canh tranh chính của Red Hat bao gồm Canonical Ltd., IBM, Mandriva, Microsoft, SUSE, và Oracle Corporation, cùng với các cộng đồng Debian và FreeBSD.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Website chính thức
+Red Hat contributions to Free and Open Source software
+opensource.com

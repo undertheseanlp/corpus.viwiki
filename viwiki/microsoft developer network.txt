@@ -1,0 +1,74 @@
+Mạng Lập trình viên Microsoft (Microsoft Developer Network) thường được gọi tắt là MSDN, là một sản phẩm của Microsoft lập ra để tạo ra mối liên hệ giữa công ty và các nhà phát triển (developer) cũng như các người kiểm thử (tester) quan tâm đến các hệ điều hành (OS), và các nhà phát triển đang phát triển các ứng dụng trong các nền tảng hệ điều hành khác nhau hoặc sử dụng API hoặc ngôn ngữ của Microsoft. Việc quản lý các mối quan hệ nằm trong các phương diện sau: các trang web, bản tin, các hội nghị phát triển, phương tiện truyền thông, các trang blog và các bản phân phối DVD. 
+
+
+== Trang web ==
+Trang web chính của MSDN hiện diện tại địa chỉ msdn.microsoft.com là một bộ sưu tập các trang web cho cộng đồng phát triển bằng cách cung cấp thông tin, tài liệu, và các bài thảo luận đã được xác nhận bởi cả Microsoft và cộng đồng. Gần đây, Microsoft nhấn mạnh sự kết hợp của các diễn đàn, thư viện và chú thích để biến MSDN trở thành một trang mở với cộng đồng phát triển thay vì chỉ là một trang thông tin một chiều. Trang chính và hầu hết thành phần ứng dụng của nó đã được dịch sang 56 ngôn ngữ.
+
+
+=== Thư viện ===
+Thư viện MSDN là một thư viện chính thức về các tài liệu kỹ thuật dành cho nhà phát triển đang phát triển ứng dụng cho Microsoft Windows. Tài liệu trong thư viện MSDN nói về những APIs được bán kèm với các sản phẩm của Microsoft. Ngoài ra, thư viện còn có những bài lập trình mẫu cũng như các thông tin khác line quan điến việc lập trình. Nó được phát hành miễn phí trên web và trên các đĩa CD và DVD cho những thành viên đã đăng ký. Ban đầu, phiên bản trên đĩa chỉ là một phần của dịch vụ MSDN và được phát hành mỗi tháng một quý (tháng 1, 4, 7 và tháng 10 hàng năm). Tuy nhiên, trong thời gian gần đây (2006 về sau), người dùng có thể tải miễn phí nội dung thư viện từ Trung tâm Tải về Microsoft (Microsoft Download Center) ở dạng các tập tin ISO vì các đĩa CD và DVD không còn xuất bản theo quý nữa. Thay vào đó, lịch phát hành của thư viện bây giờ trùng với lịch phát hành của những phần mềm lớn (Visual Studio, các bản Windows hay các gói dịch vụ).
+Phiên bản Visual Studio Express chỉ tích hợp trong thư viện MSDN Express (một phiên bản nhỏ của MSDN), mặc dù người dùng có thể thoải mái tải và cài đặt nó ở cả hai phiên bản MSDN.
+
+
+==== Tích hợp với Visual Studio ====
+Mỗi phiên bản thư viện MSDN chỉ có thể được truy cập với một chương trình xem trợ giúp (Microsoft Document Explorer hoặc cá phần mềm xem giúp đỡ khác). Ngoài ra, các phiên bản mới của Visual Studio thì không tích hợp các phiên bản cũ của MSDN. Một thư viện MSDN tương thích được phát hành với mỗi phiên bản của Visual Studio và bao gồm trên DVD Visual Studio. Như thế, mỗi phiên bản Visual Studio ra đời thì lại có một phiên bản thư viện MSDN đi kèm, do vậy thường thì những tài liệu cũ/lỗi thời không còn được hỗ trợ (để tập trung cho phiên bản mới). Tuy thế, các thư viện MSDN có thể được cài đặt cùng nhau, nghĩa là người dùng vẫn có thể cài đặt và sử dụng nhiều phiên bản MSDN cùng lúc.
+
+
+=== Diễn đàn ===
+Diễn đàn MSDN là những diễn đàn trực tuyến được sử dụng bởi cộng đồng để thảo luận về một loạt chủ đề khác nhau về việc phát triển phần mềm. Diễn đàn MSDN đã được chuyển qua nền tảng mới trong năm 2008, cung cấp nhiều tính năng mới được thiết kế để cải thiện hiệu quả như kiểm trước nội dung của chủ đề, lọc AJAX, và tính năng biên tập slide-up.
+
+
+=== Blog ===
+Blog MSDN là một loạt các blog của Microsoft lưu ở tên miền blogs.msdn.com. Một số blog được dành riêng cho một sản phẩm – ví dụ như Visual Studio, Internet Explorer, PowerShell – hoặc một phiên bản của một sản phẩm – ví dụ như Windows 7, Windows 8 – trong khi những blog khác thuộc về một nhân viên Microsoft, ví dụ như Michael Howard hoặc Raymond Chen.
+
+
+=== Social Bookmarking ===
+Social bookmarking trên MSDN Social được giới thiệu lần đầu năm 2008, được xây dựng bằng một trang web trên nền tảng mới mà có cơ chế cốt lõi là gắn thẻ người dùng và news feed. Mục tiêu của các ứng dụng đánh dấu xã hội là cung cấp một phương pháp giúp thành viên của cộng đồng phát triển có thể:
+Đóng góp vào một cơ sở các liên kết chất lượng trên bất kỳ chủ đề nào trên web. Bằng cách lọc một hoặc nhiều thẻ (ví dụ ".net" và "database") người dùng có thể khám phá các liên kết nổi tiếng hoặc được dùng gần đây và đăng ký để nhận feeds của những liên kết đó.
+Tìm kiếm và theo dõi các trang web mà các chuyên gia đề nghị. Mỗi trang hồ sơ bao gồm một chuỗi feeds của các đóng góp của người dùng. Người dùng cũng có thể được tìm kiếm thông qua một menu đổ-xuống trên mỗi đánh dấu.
+Chứng minh chuyên môn của họ bằng các đường dẫn trong hồ sơ của họ.
+Lưu trữ các link yêu thích của họ.
+Việc phát hành ban đầu của ứng dụng cũng cấp các tính năng chuẩn, trong đó có bookmarklet và khả năng nhập. Các trang web MSDN cũng bắt đầu đầu kết hợp feeds của các thẻ từ các chuyên gia và cộng đồng, hiển thị cùng với dữ liệu từ các blogger có liên quan.
+Social Bookmarks ngừng hoạt động vào tháng 10 năm 2009.
+
+
+=== Thư viện ===
+Thư viện MSDN là một kho lưu trữ các mẫu mã nguồn và dự án của cộng đồng. Trong năm 2008, mục đích của website vẫn là phát triển để bổ sung cho Codeplex, dự án mã nguồn mở từ Microsoft.
+
+
+== Đăng ký phần mềm ==
+Trong lịch sử MSDN đã cung cấp một gói trong đó các nhà phát triển có quyền truy cập, và có giấy phép sử dụng gần như tất cả các phần mềm mà Microsoft phát hành công khai. Các mẫu đăng ký được bán hàng năm, và chi phí là khoảng từ $2,000 đến $20,000 (USD) mỗi năm cho mỗi đăng ký, đi kèm đó là một số bó buộc. Chủ sở hữu của đăng ký như vậy (mức thấp nhất của thư viện) nhận được các phần mềm mới của Microsoft qua DVD hoặc thông qua việc tải xuống sau mỗi tuần hoặc tháng. Phần mềm nói chung là được đánh dấu đặc biệt trong các đĩa MSDN, nhưng có sự giống nhau trong các đơn hàng bán lẻ và trong volume-license khi nó được phát hành ra công chúng.
+Mặc dù trong nhiều trường hợp các phần mềm có chức năng chính xác như các sản phẩm đầy đủ, thỏa thuận người dùng cuối của MSDN cấm sử dụng các phần mềm ở môi trường doanh nghiệp. Đây là một giới hạn hợp pháp, không phải là vấn đề kỹ thuật. Ví dụ, MSDN có chứa các hệ điều hành Windows mới nhất (như Windows 7, Windows 8 và Windows 8.1), các phần mềm máy chủ như QSL Server 2008, các công cụ phát triển như Visual Studio, và các ứng dụng như Microsoft Office và MapPoint. Đối với phần mềm đó yêu cầu một khóa sản phẩm, người dùng có thể lấy khóa bằng cách yêu cầu một trang web của Microsoft. Như một gói cung cấp một máy tính duy nhất đam mê với quyền truy cập vào gần như tất cả mọi thứ Microsoft cung cấp. Tuy nhiên, một doanh nghiệp bắt gặp với một phòng đầy đủ của máy tính và máy chủ chạy phần mềm bao gồm trong một bài dạy kèm thuê bao không thích hợp không bài dạy kèm giấy phép cho những máy này sẽ được đối xử không khác nhau trong một phần mềm cấp phép kiểm toán hơn nếu các phần mềm đã được thông qua vi phạm bản quyền.
+Giấy phép thỏa thuận MSDN của Microsoft  tạo ra một ngoại lệ cho Microsoft Office, cho phép thuê bao sử dụng nó cho mục đích kinh doanh mà không cần một giấy phép riêng — nhưng chỉ với "bài dạy kèm đăng Ký Cao cấp" và vì vậy, thậm chí chỉ "trực tiếp liên quan đến sự phát triển thử nghiệm và/hoặc tài liệu của dự án phần mềm" như đã nói trong bài dạy kèm cấp phép. Như mong đợi, bất kỳ phần mềm tạo ra bằng các công cụ phát triển (như Visual Studio), cùng với các phần cần thiết để sử dụng nó, không bị giới hạn bởi Microsoft trong bất kỳ trường hợp nào. Giấy phép thỏa thuận đề cập đến một mục khác trong đăng ký và trợ cấp thêm tương tự, trừ khi thích hợp.
+Một thuê bao MSDN được kích hoạt bản sao nhiều lần nếu cần thiết cho mục đích phát triển. Do đó, nếu một người đam mê máy tính có 20 máy tính (thực tế hoặc máy ảo) và anh ta sử dụng cho mục đích phát triển phần mềm (tất nhiên anh ta không hành động như là một phần của một doanh nghiệp), một thuê bao sẽ cho phép anh ta cài đặt, kích hoạt và sử dụng Windows, Office và những sản phẩm Microsoft khác trên tất cả 20 máy tính đó. Sau một vài lần cài đặt, khóa kích hoạt ngừng cho phép tự động kích hoạt sản phẩm trên Internet, nhưng sau một cuộc gọi điện thoại để qua đường dây nóng để xác nhận rằng cài đặt có thực sự hợp pháp và phù hợp với những thỏa thuận giấy phép, các cuộc kích hoạt vẫn được thông qua bằng điện thoại.
+Mặc dù một thuê bao MSDN có thời hạn một năm (cho các thuê bao đăng ký lẻ — các thuê bao dạng volume có thể có thời hạn kéo dài nhiều năm), giấy phép sử dụng các phần mềm là vĩnh viễn, theo thỏa thuận. Các cá nhân đăng ký lẻ chỉ không thể đòi hỏi bất cứ nâng cấp nào sau khi thuê bao hết hạn. Các thue bao MSDN cũng được phép tải và sử dụng các phần mềm đã lỗi thời của Microsoft. Mặc dù Microsoft không cũng cấp chúng trong đĩa CD /DVD, các thuê bao vẫn có thể tải về phần mềm như MS-DOS 5.0 và Windows 3.1 trong MSDN Subscriber Downloads. Phần mềm như vậy thường nói trong hình thức của ISO hay đĩa mềm hình ảnh các tập tin đó cho phép người để tái tạo sự sắp đặt phương tiện truyền thông sau khi tải.
+
+
+== Dịch vụ thông tin ==
+Sự phân chia này vận hành các dịch vụ thông tin cung cấp bởi Microsoft cho các nhà phát triển. Nó tập trung vào nền tảng .NET của Microsoft, tuy nhiên nó cũng có những bài viết trên lĩnh vực khác chẳng hạn như chương trình thực tiễn, mẫu thiết kế. Rất nhiều nguồn miễn phí trên mạng, trong khi những nguồn khác đang chỉ hiện hữu cho qua thư cho các thuê bao đã đăng ký.
+Tùy thuộc vào cấp độ đăng ký, các thuê bao có thể nhận sớm các phiên bản hệ điều hành của Microsoft hoặc các sản phẩm khác (các ứng dụng trong bộ Microsoft Office, Visual Studio,...).
+Các trường đại học và trường trung học có thể ghi danh trong DreamSpark Premium, chương trình cho các sinh viên khoa học máy tính hoặc sinh viên kỹ thuật của họ quyền truy cập vào một số phần mềm phát triển của Microsoft (đôi khi sinh viên các khoa khác cũng có quyền lợi tương tự). Một tài khoản DreamSpark Premium không thể được sử dụng để truy cập vào phần riêng của các thuê bao MSDN khác.
+
+
+== Tạp chí MSDN ==
+Microsoft cung cấp các nội dung biên tập cho Tạp chí MSDN (được phát hành hàng tháng). Tạp chí này được xem là sự hợp nhất giữa Microsoft System Journal (MSJ) và Microsoft Internet Internet Developer (MIND)trong tháng 3 năm 2000. MSJ trở lại cung cấp thông tin một cách trực tuyến. Tạp chí MSDN có sẵn dưới dạng tạp chí in giấy tại Hoa Kỳ, và dạng tạp chí trực tuyến trong 11 ngôn ngữ.
+
+
+== Lịch sử ==
+MSDN được phát hành lần đầu tiên vào tháng 6 năm 1992 dạng thường quý, các bài viết kỹ thuật trên CD-ROM, mã nguồn mẫu, các bộ phát triển phần mềm, cũng như tờ báo 16 trang Microsoft Developer Network News, được biên tập bởi Andrew Himes, biên tập viên thành lập của trang tạp chí công nghệ Macintosh MacTech,. Gói thuê bao cấp II được thêm vào tạp chí vào năm 1993, bao gồm MAPI, ODBC, TAPI và VFW SDK.
+
+MSDN2 đã được mở ra trong tháng 11 năm 2004 như một nguồn thông tin cho các API của Visual Studio 2005, đáng chú ý bởi sự khác biệt được cập nhật mã trang web phù hợp hơn với các tiêu chuẩn web và như thế đã hỗ trợ các API của các trình duyệt thay thế cho Internet Explorer. Vào năm 2008, Microsoft cho cụm MSDN gốc nghỉ hưu và dành tên miền msdn.microsoft.com cho MSDN2.
+
+
+=== Dr GUI và Nhóm Viết bài MSDN ===
+Vào năm 1996, Bob Gunderson bắt đầu viết một đề mục trong Microsoft Network News, được biên tập bởi Andrew Himes, sử dụng bí danh "Tiến sĩ GUI (Dr. GUI)". Mục này cung cấp câu trả lời cho câu hỏi được đưa ra bởi các thuê bao MSDN. Các bức tranh biếm họa của Dr. GUI dựa trên một bức ảnh của Gunderson. Khi ông rời đội MSDN, Dennis Crain nắm vị trí của ông và thêm tính hài hước vào các bài viết. Khi ông đi, Tiến sĩ GUI trở thành nhận dạng của nhóm ban đầu, nổi bật nhất là Paul Johns của Developer Technology Engineers đã cung cấp các bài viết chuyên ngành cho thư viện. Các thành viên đầu tiên của nhóm bao gồm Bob Gunderson, Dale Rogerson, Ruediger R. Asche, Ken Lassesen, Nigel Thompson (ngoài ra còn có Herman Rodent), Nancy Cluts, Paul Johns, Dennis Crain, và Ken Bergmann. Nigel Thompson là người quản lý phát triển cho Windows Multimedia Extensions (giúp Windows xử lý các nội dung đa phương tiện). Renan Jeffreis sản xuất hệ thống ban đầu (Panda) để xuất bản MSDN trên Internet và HTML thay vì các công nghệ xem đa phương tiện trước đó. Dale Rogerson, Nigel Thompson và Nancy Cluts xuất bản sách MS Press trong khi vẫn làm việc trong nhóm. Đến tháng 8 năm 2010, chỉ còn Dennis Crain và Dale Rogerson là vẫn còn làm việc cho Microsoft.
+
+
+== Xem thêm ==
+IBM DeveloperWorks
+DreamSpark
+Microsoft TechNet
+The Code Room
+
+
+== Tham khảo ==

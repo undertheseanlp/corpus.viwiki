@@ -1,0 +1,5 @@
+Bảng câu hỏi sức khỏe tổng quát (General Health Questionaire) là một công cụ kiểm chứng tâm lý để xác định được điều kiện tâm thần.  Bộ câu hỏi đã được dịch ra tiếng Tây Ban Nha và Ba Tư.
+Bộ câu hỏi có một số câu hỏi, mỗi câu trả lời ứng với thang Likert 4 mức độ. Có các phiên bản với 12, 28, 30 và 60 câu hỏi. GHQ có giá trị khi áp dụng ở người lớn và thanh thiếu niên, nhưng không phải ở trẻ em, và được sử dụng miễn phí.
+
+
+== Tham khảo ==

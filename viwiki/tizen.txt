@@ -1,0 +1,26 @@
+Tizen ( /ˈtaɪzɛn/) là hệ điều hành mở dựa trên Linux cho các thiết bị — bao gồm điện thoại thông minh, máy tính bảng, tivi thông minh, và máy ảnh thông minh. Mô hình cấp phép liên quan đến phần mềm sử dụng nhiều mã nguồn mở có thể không tương thích (xem mô hình cấp phép, dưới đây)—và độc quyền SDK. Nó nhằm mục đích cung cấp trải nghiệm cho người dùng ổn định trên các thiết bị. Tizen là dự án trong Linux Foundation và được quản lý bởi Tập đoàn chỉ đạo Kỹ thuật gồm Samsung, Intel và một số khác.
+Hiệp hội Tizen thành lập để hướng dẫn vai trò công nghiệp của Tizen, bao gồm yêu cầu thu nhập, xác định và tạo điều kiện cho mô hình dịch vụ, ngành công nghiệp tiếp thị và giáo dục. Thành viên của Hiệp hội Tizen gồm những đại diện cho mọi thành phần chủ yếu của ngành công nghiệp điện thoại hiện nay và tất cả khu vực trên thế giới. Các thành viên hiện tại bao gồm các nhà điều hành, OEM và các nhà lãnh đạo máy tính: Fujitsu, Huawei, Intel Corporation, KT, NEC CASIO Mobile Communications, NTT DOCOMO, Orange, Panasonic Mobile Communications, Samsung, SK Telecom, Sprint và Vodafone. Trong khi Hiệp hội Tizen quyết định cần làm gì để hoàn thiện Tizen, tập đoàn chỉ đạo kỹ thuật xác định những mã code nào thực sự cần thiết để đưa vào hệ điều hành để hoàn thành những mục tiêu. Gốc Tizen trở lại Samsung Linux Platform (SLP) và dự án LiMo và gần đây, Samsung sát nhập dự án Bada của mình vào Tizen.
+Samsung ZEQ 9000 sẽ là thiết bị thương mại đầu tiên chạy hệ điều hành trên.
+
+
+== Tổng quan ==
+Hiệp hội Tizen  thành lập để hướng dẫn vai trò công nghiệp của Tizen, bao gồm yêu cầu thu nhập, xác định và tạo điều kiện cho mô hình dịch vụ, ngành công nghiệp tiếp thị và giáo dục. Tizen cung cấp công cụ phát triển ứng dụng dựa thư viện JavaScript jQuery và jQuery Mobile. Kể từ phiên bản 2.0, một khung ứng dụng gốc đã có sẵn, dựa trên dịch vụ nền tảng mở từ nền tảng Bada.
+Bộ phát triển phần mềm (SDK) cho phép người phát triển sử dụng HTML5 và các công nghệ web có liên quan để viết ứng dụng chạy trên các thiết bị có hỗ trợ.
+X Window System với Enlightenment Foundation Libraries có thể sử dụng.
+
+
+== Môi trường mở ==
+Cộng đồng nhóm The Core Mobile Web Platform (Coremob) mang đến người phát triển, các nhà sản xuất thiết bị, các nhà cung cấp trình duyệt và nhà điều hành cùng nhau thống nhất các tính năng cốt lõi mà những người phát triển có thể phụ thuộc vào.
+Ứng dụng HTML5 chạy trên Tizen, Android, Firefox OS, Ubuntu Touch, và webOS mà không có trình duyệt.
+Vào cuối tháng 1 năm 2013, Tizen 2.0 đạt điểm cao nhất vào thời gian đó trong vài lần thử nghiệm một vài trình duyệt HTML5. Như các bài thử nghiệm HTML5 cũ đã được loại bỏ vào 13 tháng 11 năm 2013, Tizen 2.2 đứng dưới BlackBerry 10.2 tại 494 trên 555 điểm. Tuy nhiên, trình duyệt máy tính bàn hiện nay đã lấy lại lợi thế, và số điểm hiện tại của Tizen 2.2 trên thiết bị Samsung đạt số điểm cao nhất trong tất cả điện thoại, với 497 điểm.
+
+
+== Tham khảo ==
+
+
+== Liên kết ==
+Website chính thức
+Tizen SDK and forums
+Official wiki pages
+Intel HTML5 Developer Zone
+Tizen Association

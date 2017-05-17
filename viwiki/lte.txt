@@ -1,0 +1,97 @@
+LTE (viết tắt của cụm từ Long Term Evolution, có nghĩa là Tiến hóa dài hạn), công nghệ này được coi như công nghệ di động thế hệ thứ 4 (4G, nhưng thực chất LTE cung cấp tốc độ thấp hơn nhiều so với một mạng 4G thực sự). 4G LTE là một chuẩn cho truyền thông không dây tốc độ dữ liệu cao dành cho điện thoại di động và các thiết bị đầu cuối dữ liệu. Nó dựa trên các công nghệ mạng GSM/EDGE và UMTS/HSPA, LTE nhờ sử dụng các kỹ thuật điều chế mới và một loạt các giải pháp công nghệ khác như lập lịch phụ thuộc kênh và thích nghi tốc độ dữ liệu, kỹ thuật đa anten để tăng dung lượng và tốc độ dữ liệu. Các tiêu chuẩn của LTE được tổ chức 3GPP (Dự án đối tác thế hệ thứ 3) ban hành và được quy định trong một loạt các chỉ tiêu kỹ thuật của Phiên bản 8 (Release 8), với những cải tiến nhỏ được mô tả trong Phiên bản 9.
+Dịch vụ LTE thương mại đầu tiên trên thế giới được hãng TeliaSonera giới thiệu ở Oslo và Stockholm vào ngày 14/12/2009. LTE là hướng nâng cấp tự nhiên cho các sóng mang với các mạng GSM/UMTS, nhưng ngay cả các nhà mạng dựa trên công nghệ CDMA như Verizon Wireless (hãng này đã khai trương mạng LTE quy mô lớn đầu tiên ở Bắc Mỹ vào năm 2010), và au by KDDI ở Nhật cũng tuyên bố họ sẽ chuyển lên công nghệ LTE. Do đó LTE được dự kiến sẽ trở thanh tiêu chuẩn điện thoại di động toàn cầu thực sự đầu tiên, mặc dù việc sử dụng các băng tần khác nhau tại các quốc gia khác nhau sẽ yêu cầu điện thoại di động LTE phải làm việc được ở các băng tần khác nhau tại tất cả các quốc gia sử dụng công nghệ LTE.
+Dù đóng mác là dịch vụ không dây 4G, nhưng chỉ tiêu kỹ thuật của LTE quy định trong loạt tài liệu Phiên bản 8 và 9 của 3GPP, không đáp ứng các yêu cầu kỹ thuật của liên minh 3GPP đã áp dụng cho thế hệ tiêu chuẩn mới, và được quy định bởi tổ chức ITU-R trong các đặc tả kỹ thuật IMT-Advanced.
+
+
+== Tổng quan ==
+
+LTE là một chuẩn cho công nghệ truyền thông dữ liệu không dây và là một sự tiến hóa của các chuẩn GSM/UMTS. Mục tiêu của LTE là tăng dung lượng và tốc độ dữ liệu của các mạng dữ liệu không dây bằng cách sử dụng các kỹ thuật điều chế và DSP (xử lý tín hiệu số) mới được phát triển vào đầu thế kỷ 21 này. Một mục tiêu cao hơn là thiết kế lại và đơn giản hóa kiến trúc mạng thành một hệ thống dựa trên nền IP với độ trễ truyền dẫn tổng giảm đáng kể so với kiến trúc mạng 3G. Giao diện không dây LTE không tương thích với các mạng 2G và 3G, do đó nó phải hoạt động trên một phổ vô tuyến riêng biệt.
+LTE được hãng NTT DoCoMo của Nhật đề xuất đầu tiên vào năm 2004, các nghiên cứu về tiêu chuẩn mới chính thức bắt đầu vào năm 2005. Tháng 5 năm 2007, liên minh Sáng kiến thử nghiệm LTE/SAE (LSTI) được thành lập, liên minh này là sự hợp tác toàn cầu giữa các hãng cung cấp thiết bị và hãng cung cấp dịch vụ viễn thông với mục tiêu kiểm nghiệm và thúc đẩy tiêu chuẩn mới để đảm bảo triển khai công nghệ này trên toàn cầu càng hợp càng tốt. Tiêu chuẩn LTE được hoàn
+
+thành vào tháng 12 năm 2008 và dịch vụ LTE đầu tiên được hãng TeliaSonera khai trương ở Oslo và Stockholm vào ngày 14 tháng 12 năm 2009, đó là kết nối dữ liệu với một modem USB. Năm 2011, các dịch vụ LTE được khai trương ở thị trường Bắc Mỹ, với việc hãng MetroPCS giới thiệu mẫu điện thoại thông minh hỗ trợ LTE đầu tiên là Samsung Galaxy Indulge vào ngày 10 tháng 2 năm 2011 và tiếp sau đó là hãng Verizon giới thiệu mẫu điện thoại thông minh hỗ trợ LTE thứ hai là HTC ThunderBolt vào ngày 17 tháng 3 cùng năm. Ban đầu, các nhà mạng CDMA có kế hoạch nâng cấp các tiêu chuẩn cạnh tranh là UMB và WiMAX, nhưng tất cả các nhà mạng CDMA lớn (như Verizon, Sprint và MetroPCS ở Mỹ, Bell và Telus ở Canada, au by KDDI ở Nhật Bản, SK Telecom ở Hàn Quốc và China Telecom/China Unicom ở Trung Quốc) đã thông báo họ dự định sẽ chuyển lên chuẩn LTE. Sự tiến hóa của LTE là LTE Advanced, đã được chuẩn hóa vào tháng 3 năm 2011. Dịch vụ dự kiến sẽ được cung cấp bắt đầu vào năm 2013.
+Đặc tả kỹ thuật LTE chỉ ra tốc độ tải xuống đỉnh đạt 300 Mbit/s, tốc độ tải lên đỉnh đạt 75 Mbit/s và QoS quy định cho phép trễ truyền dẫn tổng thể nhỏ hơn 5 ms trong mạng truy nhập vô tuyến. LTE có khả năng quản lý các thiết bị di động chuyển động nhanh và hỗ trợ các luồng dữ liệu quảng bá và đa điểm. LTE hỗ trợ băng thông linh hoạt, từ 1,25 MHz tới 20 MHz và hỗ trợ cả song công phân chia theo tần số (FDD) và song công phân chia theo thời gian (TDD). Kiến trúc mạng dựa trên IP, được gọi là Lõi gói tiến hóa (EPC) và được thiết kế để thay thay thế Mạng lõi GPRS, hỗ trợ chuyển giao liên tục cho cả thoại và dữ liệu tới trạm eNodeB với công nghệ mạng cũ hơn như GSM, UMTS và CDMA2000. Các kiến trúc đơn giản và chi phí vận hành thấp hơn (ví dụ, mỗi tế bào E-UTRAN sẽ hỗ trợ dung lượng thoại và dữ liệu gấp 4 lần so với HSPA).
+
+
+== Đặc điểm ==
+
+Phần lớn tiêu chuẩn LTE hướng đến việc nâng cấp 3G UMTS để cuối cùng có thể thực sự trở thành công nghệ truyền thông di động 4G. Một lượng lớn công việc là nhằm mục đích đơn giản hóa kiến trúc hệ thống, vì nó chuyển từ mạng UMTE sử dụng kết hợp chuyển mạch kênh + chuyển mạch gói sang hệ thống kiến trúc phẳng toàn IP. E-UTRA là giao diện vô tuyến của LTE. Nó có các tính năng chính sau:
+Tốc độ tải xuống đỉnh lên tới 299.6 Mbit/s và tốc độ tải lên đạt 75.4 Mbit/s phụ thuộc vào kiểu thiết bị người dùng (với 4x4 anten sử dụng độ rộng băng thông là 20 MHz). 5 kiểu thiết bị đầu cuối khác nhau đã được xác định từ một kiểu tập trung vào giọng nói tới kiểu thiết bị đầu cuối cao cấp hỗ trợ các tốc độ dữ liệu đỉnh. Tất cả các thiết bị đầu cuối đều có thể xử lý băng thông rộng 20 MHz.
+Trễ truyền dẫn dữ liệu tổng thể thấp (thời gian trễ đi-về dưới 5 ms cho các gói IP nhỏ trong điều kiện tối ưu), trễ tổng thể cho chuyển giao thời gian thiết lập kết nối nhỏ hơn so với các công nghệ truy nhập vô tuyến kiểu cũ.
+Cải thiện hỗ trợ cho tính di động, thiết bị đầu cuối di chuyển với vận tốc lên tới 350 km/h hoặc 500 km/h vẫn có thể được hỗ trợ phụ thuộc vào băng tần.
+OFDMA được dùng cho đường xuống, SC-FDMA dùng cho đường lên để tiết kiệm công suất.
+Hỗ trợ cả hai hệ thống dùng FDD và TDD cũng như FDD bán song công với cùng công nghệ truy nhập vô tuyến.
+Hỗ trợ cho tất cả các băng tần hiện đang được các hệ thống IMT sử dụng của ITU-R.
+Tăng tính linh hoạt phổ tần: độ rộng phổ tần 1,4 MHz, 3 MHz, 5 MHz, 10 MHz, 15 MHz và 20 MHz được chuẩn hóa (W-CDMA yêu cầu độ rộng băng thông là 5 MHz, dẫn tới một số vấn đề với việc đưa vào sử dụng công nghệ mới tại các quốc gia mà băng thông 5 MHz thương được ấn định cho nhiều mạng, và thường xuyên được sử dụng bởi các mạng như 2G GSM và cdmaOne).
+Hỗ trợ kích thước tế bào từ bán kính hàng chục m (femto và picocell) lên tới các macrocell bán kính 100 km. Trong dải tần thấp hơn dùng cho các khu vực nông thôn, kích thước tế bào tối ưu là 5 km, hiệu quả hoạt động hợp lý vẫn đạt được ở 30 km, và khi lên tới 100 km thì hiệu suất hoạt động của tế bào vẫn có thể chấp nhận được. Trong khu vực thành phố và đô thị, băng tần cao hơn (như 2,6 GHz ở châu Âu) được dùng để hỗ trợ băng thông di động tốc độ cao. Trong trường hợp này, kích thước tê bào có thể chỉ còn 1 km hoặc thậm chí ít hơn.
+Hỗ trợ ít nhất 200 đầu cuối dữ liệu hoạt động trong mỗi tế bào có băng thông 5 MHz.
+Đơn giản hóa kiến trúc: phía mạng E-UTRAN chỉ gồm các eNode B
+Hỗ trợ hoạt động với các chuẩn cũ (ví dụ như GSM/EDGE, UMTS và CDMA2000). Người dùng có thể bắt đầu một cuộ gọi hoặc truyền dữ liệu trong một khu vực sử dụng chuẩn LTE, nếu tại một địa điểm không có mạng LTE thì người dùng vẫn có thể tiếp tục hoạt động nhờ các mạng GSM/GPRS hoặc UMTS dùng WCDMA hay thậm chí là mạng của 3GPP2 như cdmaOne hoặc CDMA2000).
+Giao diện vô tuyến chuyển mạch gói.
+Hỗ trợ cho MBSFN (Mạng quảng bá đơn tần). Tính năng này có thể cung cấp các dịch vụ như Mobile TV dùng cơ sở hạ tầng LTE, và là một đối thủ cạnh tranh cho truyền hình dựa trên DVB-H.
+
+
+== Các cuộc gọi thoại ==
+Tiêu chuẩn LTE chỉ hỗ trợ chuyển mạch gói với mạng toàn IP của nó. Các cuộc gọi thoại trong GSM, UMTS và CDMA2000 là chuyển mạch kênh, do đó với việc thông qua LTE, các nhà khai thác mạng sẽ phải tái bố trí lại mạng chuyển mạch kênh của họ. Có 3 cách tiếp cận khác nhau hiện nay để tái bố trí lại mạng chuyển mạch kênh cho các nhà mạng:
+VoLTE (Voice Over LTE – Thoại trên nền LTE): Hướng này dựa trên mạng Phân hệ đa phương tiện IP (IMS).
+CSFB (Circuit Switched Fallback – Dự phòng chuyển mạch kênh): Trong hướng này, LTE chỉ cung cấp dịch vụ dữ liệu, và khi có cuộc gọi thoại, Lte sẽ trở lại miền CS (chuyển mạch kênh). Khi sử dụng giải pháp này, các nhà mạng chỉ cần nâng cấp các MSC (trung tâm chuyển mạch di động) thay vì phải triển khai IMS, do đó có thể cung cấp các dịch vụ một cách nhanh chóng. Tuy nhiên, nhược điểm là trễ thiết lập cuộc gọi dài hơn.
+SVLTE (Simultaneous Thoại và LTE đồng thời): Trong hướng này, điện thoại làm việc đồng thời trong chế độ LTE và CS, với chế độ LTE cung cấp các dịch vụ dữ liệu và chế độ CS cung cấp dịch vụ thoại. Đây là một giải pháp hoàn toàn dựa vào máy di động, nó không có yêu cầu đặc biệt về mạng và không yêu cầu phải triển khai IMS. Nhược điểm của giải pháp này là điện thoại có thể đắt hơn do tiêu thụ công suất nhiều hơn.
+Một cách tiếp cận bổ sung khác không được khởi xướng bởi các nhà khai thác, đó là sử dụng các dịch vụ nội dung trên đỉnh (Over-the-top content - OTT), nó dùng các ứng dụng như Skype và Google Talk để cung cấp dịch vụ thoại LTE. Tuy nhiên, hiện tại và trong tương lai gần, các dịch vụ gọi thoại vẫn sẽ là nguồn lợi nhuận chính cho các nhà khai thác di động. Vì vậy, chuyển dịch vụ thoại LTE hoàn toàn sang cho OTT dự kiến sẽ không nhận được sự hỗ trợ quá nhiều trong ngành công nghiệp viễn thông.
+Hầu hết các hãng ủng hộ chính của LTE lại quan tâm và thúc đẩy VoLTE ngay từ lúc bắt đầu. Tuy nhiên, việc thiếu hỗ trợ phần mềm trong các thiết bị LTE đầu tiên cũng như các thiết bị mạng lõi dẫn đến một số hãng ủng hộ VoLGA (Voice over LTE Generic Access – Thoại trên nền LTE thông quan mạng truy nhập chung) như một giải pháp tạm thời. Ý tưởng là sử dụng một số nguyên lý như GAN (Generic Access Network – Mạng truy nhập chung, còn gọi là UMA hay Unlicensed Mobile Access – Truy nhập di động không được cấp phép), trong đó xác định các giao thức thông qua một chiếc điện thoại di động có thể thực hiện các cuộc gọi thoại qua kết nối Internet của khách hàng, thường là qua mạng LAN không dây. Tuy nhiên VoLGA chưa bao giờ nhận được hỗ trợ nhiều, vì VoLTE (IMS) hứa hẹn các dịch vụ linh hoạt hơn nhiều, mặc dù chi phí để nâng cấp toàn bộ cơ sở hạ tầng cho thoại có thể lớn hơn. VoLTE cũng sẽ yêu cầu Cuộc gọi thoại vô tuyến đơn liên tục (SRVCC) để có thể thực hiện trơn tru một sự chuyển giao tới một mạng 3G trong trường hợp chất lượng tín hiệu LTE yếu.
+Trong khi ngành công nghiệp có vẻ như thực hiện tiêu chuẩn hóa VoLTE cho tương lai, nhưng nhu cầu cho các cuộc gọi thoại ngày nay dẫn tới các nhà khai thác mạng LTE phải đưa vào CSFB như một biện pháp tạm thời. Khi diễn ra một cuộc gọi thoại, điện thoại hỗ trợ LTE sẽ dùng các mạng 2G và 3G cũ hơn trong thời gian diễn ra cuộc gọi.
+
+
+=== Full-HD Voice ===
+Fraunhofer IIS đã đề xuất và trình diễn Full-HD Voice, nhờ bộ codec AAC-ELD (Advanced Audio Coding – Enhanced Low Delay) dùng cho máy di động hỗ trợ LTE. Trước đây các bộ codec thoại của điện thoại di động chỉ hỗ trợ đến tần số 3,5 kHz và các dịch vụ âm thanh băng rộng HD Voice lên tới 7 kHz, Full-HD Voice hỗ trợ toàn bộ băng thông từ 20 Hz tới 20 kHz. Đối với các cuộc gọi Full-HD Voice đầu cuối tới đầu cuối, yêu cầu cả điện thoại của người gọi và người nhận cũng như mạng phải hỗ trợ tính năng này.
+
+
+== Băng tần số ==
+
+Tiêu chuẩn LTE có thể được dùng với nhiều băng tần khác nhau. Ở Bắc Mỹ, dải tần 700/ 800 và 1700/ 1900 MHz được quy hoạch cho LTE; 800, 1800, 2600 MHz ở châu Âu; 1800 và 2600 MHz ở châu Á; và 1800 MHz ở Australia. Do đó, điện thoại từ nước này không thể làm việc ở nước khác. Người dùng sẽ cần một chiếc điện thoại có khả năng làm việc ở mọi băng tần để chuyển vùng quốc tế.
+Ngoài ra, chính phủ Brazil và CPqD đang thử nghiệm một phiên bản cụ thể của LTE ở băng tần 450 MHz cho thị trường nông thôn.
+
+
+== Băng sáng chế ==
+Theo "cơ sở dữ liệu IPR" (IPR nghĩa là quyền sở hữu trí tuệ) của Viện tiêu chuẩn viễn thông châu Âu (ETSI), tính đến tháng 3 năm 2012 khoảng 50 công ty đã tuyên bố nắm giữ bằng sáng chế chủ yếu bao gồm tiêu chuẩn LTE. ETSI không điều tra về tính đúng đắn của các tuyên bố trền, tuy nhiên "bất kỳ phân tích nào các bằng sáng chế LTE chủ yếu nên đưa vào tờ khai hơn là các tuyên bố của LTE."
+
+
+== Xem thêm ==
+So sánh các tiêu chuẩn dữ liệu không dây
+E-UTRA – mạng truy nhập vô tuyến của LTE
+Flat IP – kiến trúc IP phẳng trong các mạng di động
+LTE Advanced – tiêu chuẩn kế thừa LTE
+Tiến hóa kiến trúc hệ thống – các mạng lõi được xây dựng lại trong LTE
+TD-LTE (LTE TDD) – một tiêu chuẩn LTE thay thế do Trung Quốc phát triển
+UMB – một đối thủ đề xuất đối với LTE, không bao giờ được thương mại hóa
+WiMAX – một đối thủ của LTE
+HSPA+ – một đối thủ của LTE
+Chuỗi Zadoff–Chu
+Mạng thế hệ tiếp theo
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Erik Dahlman, Stefan Parkvall, Johan Sköld "4G – LTE/LTE-Advanced for Mobile Broadband", Academic Press, 2011, ISBN 978-0-12-385489-6
+Stefania Sesia, Issam Toufik, and Matthew Baker, "LTE – The UMTS Long Term Evolution – From Theory to Practice", Second Edition including Release 10 for LTE-Advanced, John Wiley & Sons, 2011, ISBN 978-0-470-66025-6
+Chris Johnson, "LTE in BULLETS", CreateSpace, 2010, ISBN 978-1-4528-3464-1
+Erik Dahlman, Stefan Parkvall, Johan Sköld, Per Beming, "3G Evolution – HSPA and LTE for Mobile Broadband", 2nd edition, Academic Press, 2008, ISBN 978-0-12-374538-5
+Borko Furht, Syed A. Ahson, "Long Term Evolution: 3GPP LTE Radio And Cellular Technology", Crc Press, 2009, ISBN 978-1-4200-7210-5
+F. Khan, "LTE for 4G Mobile Broadband – Air Interface Technologies and Performance", Cambridge University Press, 2009
+Mustafa Ergen, "Mobile Broadband – Including WiMAX and LTE", Springer, NY, 2009
+H. Ekström, A. Furuskär, J. Karlsson, M. Meyer, S. Parkvall, J. Torsner, and M. Wahlqvist, "Technical Solutions for the 3G Long-Term Evolution," IEEE Commun. Mag., vol. 44, no. 3, March 2006, pp. 38–45
+E. Dahlman, H. Ekström, A. Furuskär, Y. Jading, J. Karlsson, M. Lundevall, and S. Parkvall, "The 3G Long-Term Evolution – Radio Interface Concepts and Performance Evaluation," IEEE Vehicular Technology Conference (VTC) 2006 Spring, Melbourne, Australia, May 2006
+K. Fazel and S. Kaiser, Multi-Carrier and Spread Spectrum Systems: From OFDM and MC-CDMA to LTE and WiMAX, 2nd Edition, John Wiley & Sons, 2008, ISBN 978-0-470-99821-2
+Agilent Technologies, "LTE and the Evolution to 4G Wireless: Design and Measurement Challenges", John Wiley & Sons, 2009 ISBN 978-0-470-68261-6
+Sajal Kumar Das, John Wiley & Sons (April 2010): "Mobile Handset Design", ISBN 978-0-470-82467-2.
+Beaver, Paul, "What is TD-LTE?", RF&Microwave Designline, September 2011.
+
+
+== Liên kết ngoài ==
+LTE homepage from the 3GPP website
+LTE A-Z Description 3GPP LTE Encyclopedia
+
+
+=== Thông tin kỹ thuật và các bài báo kỹ thuật ===
+
+Bản mẫu:Wireless video

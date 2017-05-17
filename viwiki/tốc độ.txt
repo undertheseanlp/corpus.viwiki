@@ -1,0 +1,17 @@
+Trong vật lý học, tốc độ là độ nhanh chậm của chuyển động, là độ lớn vô hướng của vận tốc.
+Cụ thể, đối với chuyển động thẳng đều, tốc độ bằng tỷ số giữa độ lớn quãng đường di chuyển chia cho thời gian cần đi quãng đường đó. Đối với chuyển động nói chung, nó là độ lớn của đạo hàm véc-tơ vị trí theo thời gian.
+Như vậy thứ nguyên của đại lượng vật lý này là khoảng cách/thời gian. Tốc độ được đo bằng cùng đơn vị đo với vận tốc, nhưng không chứa thông tin về hướng chuyển động.
+Ví dụ:
+tốc độ vũ trụ cấp 1 với Trái Đất là 7,9 km/s
+tốc độ ánh sáng khoảng 300.000 km/s.
+
+
+== Ý nghĩa trong cuộc sống ==
+Trong cuộc sống, tốc độ cũng dùng để chỉ mức độ nhanh chậm của một hoạt động như khi nói tốc độ xử lý công việc của anh ta rất tốt, tốc độ tăng trưởng của nền kinh tế nước X là rất cao hoặc cô ta đánh máy thật là tốc độ. Từ này cũng chỉ môn chơi đua xe trong câu nói như những kẻ có máu tốc độ.
+
+
+== Xem thêm ==
+vận tốc
+
+
+== Tham khảo ==

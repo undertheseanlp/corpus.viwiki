@@ -1,0 +1,45 @@
+Màn hình tinh thể lỏng hay LCD (Liquid crystal display) là loại thiết bị hiển thị cấu tạo bởi các tế bào (các điểm ảnh) chứa tinh thể lỏng có khả năng thay đổi tính phân cực của ánh sáng và do đó thay đổi cường độ ánh sáng truyền qua khi kết hợp với các kính lọc phân cực. Chúng có ưu điểm là phẳng, cho hình ảnh sáng, chân thật và tiết kiệm năng lượng.
+
+
+== Lịch sử ==
+Được sản xuất từ năm 1970, LCD là một loại vật chất phản xạ ánh sáng khi điện thế thay đổi. Nó hoạt động dựa trên nguyên tắc ánh sáng nền (Back Light). Nó bao gồm một lớp chất lỏng nằm giữa 2 lớp kính phân cực ánh sáng. Bình thường, khi không có điện áp, các tinh thể này được xếp thẳng hàng giữa hai lớp cho phép ánh sáng truyền qua theo hình xoắn ốc. Hai bộ lọc phân cực, 2 bộ lọc màu và 2 bộ cân chỉnh sẽ xác định cường độ ánh sáng đi qua và màu nào được tạo ra trên một pixel. Khi có điện áp cấp vào, lớp canh chỉnh sẽ tạo một vùng điện tích, canh chỉnh lại các tinh thể lỏng đó. Nó không cho phép ánh sáng đi qua để hiện thị lên hình ảnh tại vị trí điểm ảnh đó. Các điểm ảnh trong màn hình LCD là một transistor cực nhỏ ở một trong 2 chế độ: cho phép ánh sáng đi qua hoặc không. Điểm ảnh bao gồm 3 yếu tố màu: đỏ, xanh lá, xanh dương. Các màn hình LCD trước đây thường tiêu thụ điện năng nhiều, độ tương phản thấp cho đến khi các nhà khoa học người Anh tìm ra "Biphenyl" - vật liệu chính của tinh thể lỏng, thì LCD mới thực sự phổ biến. LCD xuất hiện đầu tiên trong các máy tính cầm tay, trò chơi điện tử cầm tay, đồng hồ điện tử, … LCD ngày nay được thiết kế nhỏ gọn, nhẹ, chiếm ít không gian, chất lượng hình ảnh tốt, tiêu thụ ít năng lượng và đang thay thế dần màn hình CRT.
+
+
+== Cấu tạo ==
+
+Có hai kiểu cấu tạo màn hình tinh thể lỏng chính, khác nhau ở thiết kế nguồn sáng.
+Trong kiểu thứ nhất, ánh sáng được phát ra từ một đèn nền, có vô số phương phân cực như các ánh sáng tự nhiên. Ánh sáng này được cho lọt qua lớp kính lọc phân cực thứ nhất, trở thành ánh sáng phân cực phẳng chỉ có phương thẳng đứng. Ánh sáng phân cực phẳng này được tiếp tục cho truyền qua tấm thủy tinh và lớp điện cực trong suốt để đến lớp tinh thể lỏng. Sau đó, chúng tiếp tục đi tới kính lọc phân cực thứ hai; có phương phân cực vuông góc với kính lọc thứ nhất, rồi đi tới mắt người quan sát. Kiểu màn hình này thường áp dụng cho màn hình màu ở máy tính hay TV. Để tạo ra màu sắc, lớp ngoài cùng, trước khi ánh sáng đi ra đến mắt người, có kính lọc màu.
+Ở loại màn hình tinh thể lỏng thứ hai, chúng sử dụng ánh sáng tự nhiên đi vào từ mặt trên và có gương phản xạ nằm sau, dội ánh sáng này lại cho người xem. Đây là cấu tạo thường gặp ở các loại màn hình tinh thể lỏng đen trắng trong các thiết bị bỏ túi. Do không cần nguồn sáng nên chúng tiết kiệm năng lượng.
+
+
+== Phân loại sản phẩm ==
+
+
+=== LCD ma trận thụ động ===
+LCD ma trận thụ động (dual scan twisted nematic, DSTN LCD) có đặc điểm là đáp ứng tín hiệu khá chậm (300ms) và dễ xuất hiện các điểm sáng xung quanh điểm bị kích hoạt khiến cho hình có thể bị nhòe. Các công nghệ được Toshiba và Sharp đưa ra là HPD (hybrid passive display), cuối năm 1990, bằng cách thay đổi công thức vật liệu tinh thể lỏng để rút ngắn thời gian chuyển đổi trạng thái của phân tử, cho phép màn hình đạt thời gian đáp ứng 150ms và độ tương phản 50:1. Sharp và Hitachi cũng đi theo một hướng khác, cải tiến giải thuật phân tích tín hiệu đầu vào nhằm khắc phục các hạn chế của DSTN LCD, tuy nhiên hướng này về cơ bản chưa đạt được kết quả đáng chú ý.
+
+
+=== LCD ma trận chủ động ===
+LCD ma trận chủ động thay thế lưới điện cực điều khiển bằng loại ma trận transistor phiến mỏng (thin film transistor, TFT LCD) có thời gian đáp ứng nhanh và chất lượng hình ảnh vượt xa DSTN LCD. Các điểm ảnh được điều khiển độc lập bởi một transistor và được đánh dấu địa chỉ phân biệt, khiến trạng thái của từng điểm ảnh có thể điều khiển độc lập, đồng thời và tránh được bóng ma thường gặp ở DSTN LCD.
+
+
+== Hoạt động bật tắt cơ bản ==
+Nếu điện cực của một điểm ảnh con không được áp một điện thế, thì phần tinh thể lỏng ở nơi ấy không bị tác động gì cả, ánh sáng sau khi truyền qua chỗ ấy vẫn giữ nguyên phương phân cực, và cuối cùng bị chặn lại hoàn toàn bởi kính lọc phân cực thứ hai. Điểm ảnh con này lúc đó bị tắt và đối với mắt đây là một điểm tối.
+Để bật một điểm ảnh con, cần đặt một điện thế vào điện cực của nó, làm thay đổi sự định hướng của các phân tử tinh thể lỏng ở nơi ấy; kết quả là ánh sáng sau khi truyền qua phần tinh thể lỏng ở chỗ điểm ảnh con này sẽ bị xoay phương phân cực đi, có thể lọt qua lớp kính lọc phân cực thứ hai, tạo ra một điểm màu trên tấm kính trước.
+
+
+== Hiển thị màu sắc và sự chuyển động ==
+
+Hình ảnh hiện ra trên tấm kính trước là do sự cảm nhận tổng thể tất cả các điểm ảnh, ở đấy mỗi điểm ảnh mang một màu sắc và độ sáng nhất định, được quy định, theo quy tắc phối màu phát xạ, bởi mức độ sánh của ba điểm ảnh con của nó (tỉ lệ của ba màu đỏ, lục và lam), tức được quy định bởi việc bật/tắt các điểm ảnh con ấy.
+Để làm điều này, cùng một lúc các điện thế thích hợp sẽ được đặt vào các điểm ảnh con nằm trên cùng một hàng, đồng thời phần mềm trong máy tính sẽ ra lệnh áp điện thế vào những cột có các điểm ảnh con cần bật.
+Ở mỗi thời điểm, các điểm ảnh ở một trạng thái bật/tắt nhất định - ứng với một ảnh trên màn hình. Việc thay đổi trạng thái bật/tắt của các điểm ảnh tạo ra một hình ảnh chuyển động. Điều này được thực hiện bằng cách áp điện thế cho từng hàng từ hàng này đến hàng kế tiếp (gọi là sự quét dọc) và áp điện thế cho từng cột từ cột này đến cột kế tiếp (sự quét ngang). Thông tin của một ảnh động từ máy tính được chuyển thành các tín hiệu quét dọc và quét ngang và tái tạo lại hình ảnh đó trên màn hình.
+
+
+== Xem thêm ==
+Phối màu phát xạ
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

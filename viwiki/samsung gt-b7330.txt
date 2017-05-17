@@ -1,0 +1,75 @@
+Samsung GT-B7330 (còn được gọi là Omnia Pro B7330) là điện thoại thông minh sản xuất bởi Samsung là một phần của dòng Samsung Omnia series. Nó chạy Windows Mobile 6.5 chuẩn. Điện thoại có bàn phím QWERTY. Tiền thân của điện thoại này là Samsung OmniaPRO B7320. Nó được phát hành vào tháng 10 năm 2009.
+
+
+== Tính năng ==
+
+
+=== Tính năng chính ===
+GSM Quad band (850/900/1800/1900 MHz)
+Mạng EDGE
+3.5G
+Wi-Fi
+Bluetooth v2.0
+AGPS
+Speakerphone
+Bộ nhớ điện thoại: 200MB, bộ nhớ lưu trữ: 400MB
+Thẻ nhớ (microSD lên đến 32GB)
+Microsoft Office Mobile
+Internet Explorer Mobile 6.0
+Adobe Reader LE
+Windows Mobile 6.5 chuẩn
+FM Radio với RDS
+Máy ảnh 3,2 Megapixel
+Quay video (320×240 pixels)
+SMS
+MMS
+E-mail
+Lịch
+Danh bạ
+Thời gian biểu
+Chế độ ngoại tuyến
+Microsoft ActiveSync
+Báo thức
+Audio notes
+Máy tính
+Chuyển đổi (Tiền tệ, Độ dài, Trọng lượng, Kích thước, Diện tích, Nhiệt độ)
+Tìm kiếm
+Smart reader
+Bấm giờ
+Tác vụ
+Tip calculator
+Giờ thế giới
+Trò chơi
+Java MIDP 2.1
+Máy nghe nhạc
+Lịch sử cuộc gọi
+Photo Slides
+Podcast reader
+RSS feeds reader
+Speed dial
+Streaming Player
+Windows Media
+Quản lý tác vụ
+Voice notes
+Facebook
+Windows Marketplace for Mobile
+Windows Live (Hotmail, Messenger, Spaces, Tìm kiếm, Danh bạ)
+Microsoft My Phone
+Đa nhiệm
+Thu nhỏ cửa sổ
+
+
+=== Tính năng đặc biệt ===
+Phím điều hướng áp lực-nhạy cảm (chỉ lên và xuống)
+
+
+=== Màn hình chủ ===
+Từ màn hình chủ mặc định của thiết bị, người dùng có thể kiểm tra thời tiết, phát nhạc, cập nhật dòng sự kiện CNN, xem ảnh, cài đặt cấu hình thiết bị, và đến các trang mạng xã hội như Facebook, Myspace, và YouTube.
+
+
+== Tham khảo ==
+
+
+== Liên kết ==
+Official Omnia website
+Samsung Mobile UK - Omnia Pro B7330 Overview

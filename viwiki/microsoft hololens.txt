@@ -1,0 +1,34 @@
+Microsoft HoloLens là một thiết bị thực tế ảo của hãng Microsoft được gọi là Kính thực tế ảo HoloLens. Nó được sử dụng trên nền tảng công nghệ Windows Holographic và là thiết bị đeo với đầy đủ các thành phần như một máy tính hoàn chỉnh bao gồm cả một CPU, GPU và bộ xử lý ba chiều chuyên dụng, có thể biến thế thực thành thế giới ảo hết sức độc đáo. Nó cho phép người dùng biến thế giới thực thành một môi trường ảo với các hình ảnh 3D hiển thị ngay trước mắt.
+
+
+== Lịch sử ==
+Ngày 21 tháng 1 năm 2015, Microsoft giới thiệu Windows Holographic cùng với kính thực tế ảo Microsoft HoloLens tại một sự kiện.
+Cơ quan hàng không vũ trụ Hoa Kỳ (NASA) hiện đang có kế hoạch hợp tác cùng Microsoft trong các dự án phát triển phần mềm sử dụng kính thực tế ảo HoloLens mô phỏng hành trình khám phá sao Hỏa. Họ sẽ xây dựng các chương trình mô phỏng lại môi trường trên sao Hỏa dựa trên các dự liệu được truyền về bởi tàu tự hành Curiosity thu thập cách đây không lâu để nghiên cứu điều kiện địa chất và các yếu tố chứng minh nơi đây đã từng có sự sống.
+
+
+== Thiết kế ==
+HoloLens là một chiếc máy tính 3 chiều tiên tiến nhất từng được biết đến, được trang bị đầy đủ vi xử lý trung tâm (CPU), vi xử lý đồ họa (GPU) và một bộ xử lý 3 chiều chuyên dụng. HoloLens cũng được tích hợp một bộ cảm biến chuyển động và môi trường.
+Nhìn thực tế, HoleLens có kiểu dáng giống một chiếc kính đeo nhưng hoạt động như một máy tính hoàn thiện với CPU, GPU và bộ xử lý ba chiều chuyên dụng (holographic processing unit - HPU) với khả năng theo dõi sự thay đổi của cảnh vật xung quanh. Thiết bị khá nhẹ, vòng bên trong (headband) có thể điều chỉnh để khít với bất cứ vòng đầu nào, trong khi phần kính được thiết kế linh hoạt để dịch chuyển lên xuống, kéo ra phía trước.
+Không giống như Oculus Rift hiển thị hình ảnh đơn thuần qua các màn hình nhỏ trước mắt người dùng, HoloLens cho phép tương tác với các hình ảnh 3D ngay giữa khung cảnh thực xung quanh giống như trong các bộ phim viễn tưởng
+
+
+== Tính năng ==
+HoloLens hoạt động dựa trên những cơ chế đặc biệt nhằm định hình môi trường xung quanh và chuyển động của cơ thể. Cụ thể hơn, thiết bị có một loạt các cảm biến để nhận dạng cử chỉ của 5 đầu ngón tay và sử dụng thông tin này cùng với lớp kính màu để tạo ra những hình ảnh mà người dùng có thể quan sát và tương tác từ nhiều góc độ khác nhau. Thêm vào đó, camera cũng đóng vai trò trong việc xác định vật thể trong phòng và sau đó vi xử lý sẽ đảm nhận vai trò để “ghi đè” hình ảnh “ảo” lên thế giới “thực” và hiển thị kết quả lên màn hình của kính.
+Trong màn thử nghiệm đầu tiên, kết hợp với phần mềm kiến trúc SketchUp, người đeo kính có thể kéo các vật thể ra khỏi màn hình. Vật thể đó sẽ biến thành ảnh ảo 3D (3D hologram) ngay trước mắt và người dùng sẽ sử dụng tay di chuyển trong không trung và thực hiện thao tác air-tapping như thể họ đang nhấn vào một con chuột ảo để co kéo, thay đổi kích cỡ, màu sắc… của vật thể nhằm dễ dàng hình dung nó sẽ như thế nào trong không gian thực.
+Trong màn demo tiếp theo, người đeo kính giơ ngón tay ra trước mặt, “click" vào ứng dụng để thực hiện cuộc gọi Skype. Các hình ảnh ba chiều có thể được gửi qua Skype và kéo ra khỏi màn hình để họ trực tiếp chỉnh sửa nó như đổi màu, phóng to, thu nhỏ, đặt lên sàn, mặt bàn trong phòng.
+Việc giơ ngón tay ra phía trước và bấm vào các icon (Microsoft gọi là air-tapping) cũng như hiệu ứng âm thanh mô phỏng như trong đời thực mang lại cảm giác đặc biệt, tự nhiên và khác lạ (dù người ngoài nhìn vào có thể thấy bạn trông thật kỳ cục). HoloLens nhận diện chuyển động của ngón tay khá chuẩn và nhanh chóng thực hiện lệnh của người dùng
+
+
+== Ứng dụng ==
+
+
+== Đánh giá ==
+Bạn sẽ như thấy mình đang ở trong thế giới viễn tưởng với khả năng di chuyển và biến đổi các vật thể ngay trước mắt, dù rằng bạn sẽ có phần hơi thất vọng khi thấy hình ảnh còn đơn sơ, kém phong phú và góc nhìn bị hạn chế so với các video demo của Microsoft hay như trong bộ phim Minority Report. Tuy nhiên, HoleLens vẫn đang trong quá trình phát triển, sẽ có thêm nhiều ứng dụng mới và những gì nó thể hiện cho thấy sản phẩm thực sự có triển vọng ứng dụng trong nhiều lĩnh vực trong tương lai.
+
+
+== Xem thêm ==
+Windows Holographic
+Samsung Gear VR
+
+
+== Chú thích ==

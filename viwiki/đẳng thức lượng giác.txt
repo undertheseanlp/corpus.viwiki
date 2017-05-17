@@ -1,0 +1,8270 @@
+Trong toán học, các đẳng thức lượng giác là các phương trình chứa các hàm lượng giác, đúng với một dải lớn các giá trị của biến số.
+Các đẳng thức này hữu ích cho việc rút gọn các biểu thức chứa hàm lượng giác. Ví dụ trong việc tính tích phân với các hàm không phải là lượng giác: có thể thay chúng bằng các hàm lượng giác và dùng các đẳng thức lượng giác để đơn giản hóa phép tính.
+
+
+== Định nghĩa ==
+Xem thêm các hàm lượng giác
+
+  
+    
+      
+        tan
+        ⁡
+        (
+        x
+        )
+        =
+        
+          
+            
+              sin
+              ⁡
+              (
+              x
+              )
+            
+            
+              cos
+              ⁡
+              (
+              x
+              )
+            
+          
+        
+        
+        cot
+        ⁡
+        (
+        x
+        )
+        =
+        
+          
+            
+              cos
+              ⁡
+              (
+              x
+              )
+            
+            
+              sin
+              ⁡
+              (
+              x
+              )
+            
+          
+        
+        =
+        
+          
+            1
+            
+              tan
+              ⁡
+              (
+              x
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \tan(x)={\frac {\sin(x)}{\cos(x)}}\qquad \operatorname {cot} (x)={\frac {\cos(x)}{\sin(x)}}={\frac {1}{\tan(x)}}}
+  
+
+
+== Tuần hoàn, đối xứng và tịnh tiến ==
+Các đẳng thức sau có thể dễ thấy trên vòng tròn đơn vị:
+Đẳng thức sau cũng đôi khi hữu ích: 
+  
+    
+      
+        a
+        sin
+        ⁡
+        x
+        +
+        b
+        cos
+        ⁡
+        x
+        =
+        
+          
+            
+              a
+              
+                2
+              
+            
+            +
+            
+              b
+              
+                2
+              
+            
+          
+        
+        ⋅
+        sin
+        ⁡
+        (
+        x
+        +
+        φ
+        )
+      
+    
+    {\displaystyle a\sin x+b\cos x={\sqrt {a^{2}+b^{2}}}\cdot \sin(x+\varphi )}
+  
+với 
+  
+    
+      
+        φ
+        =
+        
+          {
+          
+            
+              
+                
+                  arctan
+                  ⁡
+                  
+                    
+                      
+                        b
+                        a
+                      
+                    
+                  
+                  ,
+                
+                
+                
+                  
+                    n
+                  
+                  
+                    
+                      
+                        
+                          
+                            e
+                            ^
+                          
+                        
+                        ´
+                      
+                    
+                  
+                  
+                    u
+                  
+                   
+                  a
+                  ≥
+                  0
+                  ;
+                
+              
+              
+                
+                  π
+                  +
+                  arctan
+                  ⁡
+                  
+                    
+                      
+                        b
+                        a
+                      
+                    
+                  
+                  ,
+                
+                
+                
+                  
+                    n
+                  
+                  
+                    
+                      
+                        
+                          
+                            e
+                            ^
+                          
+                        
+                        ´
+                      
+                    
+                  
+                  
+                    u
+                  
+                   
+                  a
+                  <
+                  0.
+                
+              
+            
+          
+          
+        
+      
+    
+    {\displaystyle \varphi =\left\{{\begin{matrix}\arctan {\dfrac {b}{a}},&&{\mbox{n}}{\acute {\hat {\mbox{e}}}}{\mbox{u}}\ a\geq 0;\\\pi +\arctan {\dfrac {b}{a}},&&{\mbox{n}}{\acute {\hat {\mbox{e}}}}{\mbox{u}}\ a<0.\end{matrix}}\right.}
+  
+
+
+== Đẳng thức Pytago ==
+Các đẳng thức sau dựa vào định lý Pytago.
+
+  
+    
+      
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        (
+        x
+        )
+        +
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        (
+        x
+        )
+        =
+        1
+        
+      
+    
+    {\displaystyle \sin ^{2}(x)+\cos ^{2}(x)=1\;}
+  
+
+  
+    
+      
+        
+          tan
+          
+            2
+          
+        
+        ⁡
+        (
+        x
+        )
+        +
+        1
+        =
+        
+          sec
+          
+            2
+          
+        
+        ⁡
+        (
+        x
+        )
+        =
+        
+          
+            1
+            
+              
+                cos
+                
+                  2
+                
+              
+              ⁡
+              (
+              x
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \tan ^{2}(x)+1=\sec ^{2}(x)={\frac {1}{\cos ^{2}(x)}}}
+  
+
+  
+    
+      
+        1
+        +
+        
+          cot
+          
+            2
+          
+        
+        ⁡
+        (
+        x
+        )
+        =
+        
+          csc
+          
+            2
+          
+        
+        ⁡
+        (
+        x
+        )
+        =
+        
+          
+            1
+            
+              
+                sin
+                
+                  2
+                
+              
+              ⁡
+              (
+              x
+              )
+            
+          
+        
+      
+    
+    {\displaystyle 1+\cot ^{2}(x)=\csc ^{2}(x)={\frac {1}{\sin ^{2}(x)}}}
+  
+Đẳng thức thứ 2 và 3 có thể suy ra từ đẳng thức đầu bởi chia nó cho cos²(x) và sin²(x).
+
+
+== Công thức cộng trừ lượng giác ==
+Xem thêm Định lý Ptolemy
+Cách chứng minh nhanh các công thức này là dùng công thức Euler.
+
+  
+    
+      
+        sin
+        ⁡
+        (
+        x
+        ±
+        y
+        )
+        =
+        sin
+        ⁡
+        (
+        x
+        )
+        cos
+        ⁡
+        (
+        y
+        )
+        ±
+        cos
+        ⁡
+        (
+        x
+        )
+        sin
+        ⁡
+        (
+        y
+        )
+        
+      
+    
+    {\displaystyle \sin(x\pm y)=\sin(x)\cos(y)\pm \cos(x)\sin(y)\,}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        x
+        ±
+        y
+        )
+        =
+        cos
+        ⁡
+        (
+        x
+        )
+        cos
+        ⁡
+        (
+        y
+        )
+        ∓
+        sin
+        ⁡
+        (
+        x
+        )
+        sin
+        ⁡
+        (
+        y
+        )
+        
+      
+    
+    {\displaystyle \cos(x\pm y)=\cos(x)\cos(y)\mp \sin(x)\sin(y)\,}
+  
+
+  
+    
+      
+        tan
+        ⁡
+        (
+        x
+        ±
+        y
+        )
+        =
+        
+          
+            
+              tan
+              ⁡
+              (
+              x
+              )
+              ±
+              tan
+              ⁡
+              (
+              y
+              )
+            
+            
+              1
+              ∓
+              tan
+              ⁡
+              (
+              x
+              )
+              tan
+              ⁡
+              (
+              y
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \tan(x\pm y)={\frac {\tan(x)\pm \tan(y)}{1\mp \tan(x)\tan(y)}}}
+  
+
+  
+    
+      
+         
+        c
+        o
+        t
+        (
+        x
+        ±
+        y
+        )
+        =
+        
+          
+            
+              1
+              ∓
+              tan
+              ⁡
+              (
+              x
+              )
+              tan
+              ⁡
+              (
+              y
+              )
+            
+            
+              tan
+              ⁡
+              (
+              x
+              )
+              ±
+              tan
+              ⁡
+              (
+              y
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \ cot(x\pm y)={\frac {1\mp \tan(x)\tan(y)}{\tan(x)\pm \tan(y)}}}
+  
+
+  
+    
+      
+        
+          
+            c
+            ı
+            s
+          
+        
+        (
+        x
+        +
+        y
+        )
+        =
+        
+          
+            c
+            ı
+            s
+          
+        
+        (
+        x
+        )
+        
+        
+          
+            c
+            ı
+            s
+          
+        
+        (
+        y
+        )
+      
+    
+    {\displaystyle {\rm {c\imath s}}(x+y)={\rm {c\imath s}}(x)\,{\rm {c\imath s}}(y)}
+  
+
+  
+    
+      
+        
+          
+            c
+            ı
+            s
+          
+        
+        (
+        x
+        −
+        y
+        )
+        =
+        
+          
+            
+              
+                
+                  c
+                  ı
+                  s
+                
+              
+              (
+              x
+              )
+            
+            
+              
+                
+                  c
+                  ı
+                  s
+                
+              
+              (
+              y
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {\rm {c\imath s}}(x-y)={{\rm {c\imath s}}(x) \over {\rm {c\imath s}}(y)}}
+  
+với
+
+  
+    
+      
+        
+          
+            c
+            ı
+            s
+          
+        
+        (
+        x
+        )
+        =
+        
+          e
+          
+            ı
+            x
+          
+        
+        =
+        cos
+        ⁡
+        (
+        x
+        )
+        +
+        ı
+        sin
+        ⁡
+        (
+        x
+        )
+        
+      
+    
+    {\displaystyle {\rm {c\imath s}}(x)=e^{\imath x}=\cos(x)+\imath \sin(x)\,}
+  
+và
+
+  
+    
+      
+        ı
+        =
+        
+          
+            −
+            1
+          
+        
+        .
+        
+      
+    
+    {\displaystyle \imath ={\sqrt {-1}}.\,}
+  
+
+
+== Công thức góc bội ==
+
+
+=== Bội hai ===
+Các công thức sau có thể suy ra từ các công thức trên. Cũng có thể dùng công thức de Moivre với n = 2.
+
+  
+    
+      
+        sin
+        ⁡
+        (
+        2
+        x
+        )
+        =
+        2
+        sin
+        ⁡
+        (
+        x
+        )
+        cos
+        ⁡
+        (
+        x
+        )
+        
+      
+    
+    {\displaystyle \sin(2x)=2\sin(x)\cos(x)\,}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        2
+        x
+        )
+        =
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        (
+        x
+        )
+        −
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        (
+        x
+        )
+        =
+        2
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        (
+        x
+        )
+        −
+        1
+        =
+        1
+        −
+        2
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        (
+        x
+        )
+        
+      
+    
+    {\displaystyle \cos(2x)=\cos ^{2}(x)-\sin ^{2}(x)=2\cos ^{2}(x)-1=1-2\sin ^{2}(x)\,}
+  
+
+  
+    
+      
+        tan
+        ⁡
+        (
+        2
+        x
+        )
+        =
+        
+          
+            
+              2
+              tan
+              ⁡
+              (
+              x
+              )
+            
+            
+              1
+              −
+              
+                tan
+                
+                  2
+                
+              
+              ⁡
+              (
+              x
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \tan(2x)={\frac {2\tan(x)}{1-\tan ^{2}(x)}}}
+  
+
+  
+    
+      
+        cot
+        ⁡
+        (
+        2
+        x
+        )
+        =
+        
+          
+            
+              
+                cot
+                
+                  2
+                
+              
+              ⁡
+              (
+              x
+              )
+              −
+              1
+            
+            
+              2
+              cot
+              ⁡
+              (
+              x
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \cot(2x)={\frac {\cot ^{2}(x)-1}{2\cot(x)}}}
+  
+Công thức góc kép có thể dùng để tìm bộ ba Pytago. Nếu (a, b, c) là bộ ba Pytago thì (a2 − b2, 2ab, c2) cũng vậy.
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        n
+        x
+        )
+        =
+        2
+        cos
+        ⁡
+        (
+        (
+        n
+        −
+        1
+        )
+        x
+        )
+        cos
+        ⁡
+        (
+        x
+        )
+        −
+        cos
+        ⁡
+        (
+        (
+        n
+        −
+        2
+        )
+        x
+        )
+      
+    
+    {\displaystyle \cos(nx)=2\cos((n-1)x)\cos(x)-\cos((n-2)x)}
+  
+
+
+=== Bội ba ===
+
+
+==== Cơ bản ====
+Ví dụ của trường hợp n = 3:
+
+  
+    
+      
+        sin
+        ⁡
+        (
+        3
+        x
+        )
+        =
+        3
+        sin
+        ⁡
+        x
+        −
+        4
+        
+          sin
+          
+            3
+          
+        
+        ⁡
+        x
+      
+    
+    {\displaystyle \sin(3x)=3\sin x-4\sin ^{3}x}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        3
+        x
+        )
+        =
+        4
+        
+          cos
+          
+            3
+          
+        
+        ⁡
+        x
+        −
+        3
+        cos
+        ⁡
+        x
+      
+    
+    {\displaystyle \cos(3x)=4\cos ^{3}x-3\cos x}
+  
+
+
+==== Nâng cao ====
+
+  
+    
+      
+        sin
+        ⁡
+        (
+        3
+        x
+        )
+        =
+        4
+        sin
+        ⁡
+        x
+        sin
+        ⁡
+        (
+        
+          60
+          
+            o
+          
+        
+        −
+        x
+        )
+        sin
+        ⁡
+        (
+        
+          60
+          
+            o
+          
+        
+        +
+        x
+        )
+      
+    
+    {\displaystyle \sin(3x)=4\sin x\sin(60^{o}-x)\sin(60^{o}+x)}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        3
+        x
+        )
+        =
+        4
+        cos
+        ⁡
+        x
+        cos
+        ⁡
+        (
+        
+          60
+          
+            o
+          
+        
+        −
+        x
+        )
+        cos
+        ⁡
+        (
+        
+          60
+          
+            o
+          
+        
+        +
+        x
+        )
+      
+    
+    {\displaystyle \cos(3x)=4\cos x\cos(60^{o}-x)\cos(60^{o}+x)}
+  
+
+  
+    
+      
+        tan
+        ⁡
+        (
+        3
+        x
+        )
+        =
+        tan
+        ⁡
+        x
+        tan
+        ⁡
+        (
+        
+          60
+          
+            o
+          
+        
+        −
+        x
+        )
+        tan
+        ⁡
+        (
+        
+          60
+          
+            o
+          
+        
+        +
+        x
+        )
+      
+    
+    {\displaystyle \tan(3x)=\tan x\tan(60^{o}-x)\tan(60^{o}+x)}
+  
+
+
+== Công thức hạ bậc ==
+Giải các phương trình ở công thức bội cho cos2(x) và sin2(x), thu được:
+
+  
+    
+      
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        (
+        x
+        )
+        =
+        
+          
+            
+              1
+              −
+              cos
+              ⁡
+              (
+              2
+              x
+              )
+            
+            2
+          
+        
+      
+    
+    {\displaystyle \sin ^{2}(x)={1-\cos(2x) \over 2}}
+  
+
+  
+    
+      
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        (
+        x
+        )
+        =
+        
+          
+            
+              1
+              +
+              cos
+              ⁡
+              (
+              2
+              x
+              )
+            
+            2
+          
+        
+      
+    
+    {\displaystyle \cos ^{2}(x)={1+\cos(2x) \over 2}}
+  
+
+  
+    
+      
+        
+          tan
+          
+            2
+          
+        
+        ⁡
+        (
+        x
+        )
+        =
+        
+          
+            
+              1
+              −
+              cos
+              ⁡
+              (
+              2
+              x
+              )
+            
+            
+              1
+              +
+              cos
+              ⁡
+              (
+              2
+              x
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \tan ^{2}(x)={1-\cos(2x) \over 1+\cos(2x)}}
+  
+
+  
+    
+      
+        
+          sin
+          
+            2
+          
+        
+        ⁡
+        (
+        x
+        )
+        
+          cos
+          
+            2
+          
+        
+        ⁡
+        (
+        x
+        )
+        =
+        
+          
+            
+              1
+              −
+              cos
+              ⁡
+              (
+              4
+              x
+              )
+            
+            8
+          
+        
+      
+    
+    {\displaystyle \sin ^{2}(x)\cos ^{2}(x)={1-\cos(4x) \over 8}}
+  
+
+  
+    
+      
+        
+          sin
+          
+            3
+          
+        
+        ⁡
+        (
+        x
+        )
+        =
+        
+          
+            
+              3
+              sin
+              ⁡
+              (
+              x
+              )
+              −
+              sin
+              ⁡
+              (
+              3
+              x
+              )
+            
+            4
+          
+        
+      
+    
+    {\displaystyle \sin ^{3}(x)={\frac {3\sin(x)-\sin(3x)}{4}}}
+  
+
+  
+    
+      
+        
+          cos
+          
+            3
+          
+        
+        ⁡
+        (
+        x
+        )
+        =
+        
+          
+            
+              3
+              cos
+              ⁡
+              (
+              x
+              )
+              +
+              cos
+              ⁡
+              (
+              3
+              x
+              )
+            
+            4
+          
+        
+      
+    
+    {\displaystyle \cos ^{3}(x)={\frac {3\cos(x)+\cos(3x)}{4}}}
+  
+
+  
+    
+      
+        
+          sin
+          
+            4
+          
+        
+        ⁡
+        (
+        x
+        )
+        =
+        
+          
+            
+              1
+              cos
+              ⁡
+              (
+              4
+              x
+              )
+              −
+              4
+              cos
+              ⁡
+              (
+              2
+              x
+              )
+              +
+              3
+            
+            8
+          
+        
+      
+    
+    {\displaystyle \sin ^{4}(x)={\frac {1\cos(4x)-4\cos(2x)+3}{8}}}
+  
+
+  
+    
+      
+        
+          cos
+          
+            4
+          
+        
+        ⁡
+        (
+        x
+        )
+        =
+        
+          
+            
+              1
+              cos
+              ⁡
+              (
+              4
+              x
+              )
+              +
+              4
+              cos
+              ⁡
+              (
+              2
+              x
+              )
+              +
+              3
+            
+            8
+          
+        
+      
+    
+    {\displaystyle \cos ^{4}(x)={\frac {1\cos(4x)+4\cos(2x)+3}{8}}}
+  
+
+
+== Công thức góc chia đôi ==
+Thay x/2 cho x trong công thức trên, rồi giải phương trình cho cos(x/2) và sin(x/2) để thu được:
+
+  
+    
+      
+        sin
+        ⁡
+        
+          (
+          
+            
+              x
+              2
+            
+          
+          )
+        
+        =
+        ±
+        
+        
+          
+            
+              
+                1
+                −
+                cos
+                ⁡
+                (
+                x
+                )
+              
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \sin \left({\frac {x}{2}}\right)=\pm \,{\sqrt {\frac {1-\cos(x)}{2}}}}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        
+          (
+          
+            
+              x
+              2
+            
+          
+          )
+        
+        =
+        ±
+        
+        
+          
+            
+              
+                1
+                +
+                cos
+                ⁡
+                (
+                x
+                )
+              
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \cos \left({\frac {x}{2}}\right)=\pm \,{\sqrt {\frac {1+\cos(x)}{2}}}}
+  
+Dẫn đến:
+
+  
+    
+      
+        tan
+        ⁡
+        
+          (
+          
+            
+              x
+              2
+            
+          
+          )
+        
+        =
+        
+          
+            
+              sin
+              ⁡
+              (
+              x
+              
+                /
+              
+              2
+              )
+            
+            
+              cos
+              ⁡
+              (
+              x
+              
+                /
+              
+              2
+              )
+            
+          
+        
+        =
+        ±
+        
+        
+          
+            
+              
+                1
+                −
+                cos
+                ⁡
+                x
+              
+              
+                1
+                +
+                cos
+                ⁡
+                x
+              
+            
+          
+        
+        .
+        
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle \tan \left({\frac {x}{2}}\right)={\sin(x/2) \over \cos(x/2)}=\pm \,{\sqrt {1-\cos x \over 1+\cos x}}.\qquad \qquad (1)}
+  
+Nhân với mẫu số và tử số 1 + cos x, rồi dùng định lý Pytago để đơn giản hóa:
+
+  
+    
+      
+        tan
+        ⁡
+        
+          (
+          
+            
+              x
+              2
+            
+          
+          )
+        
+        =
+        ±
+        
+        
+          
+            
+              
+                (
+                1
+                −
+                cos
+                ⁡
+                x
+                )
+                (
+                1
+                +
+                cos
+                ⁡
+                x
+                )
+              
+              
+                (
+                1
+                +
+                cos
+                ⁡
+                x
+                )
+                (
+                1
+                +
+                cos
+                ⁡
+                x
+                )
+              
+            
+          
+        
+        =
+        ±
+        
+        
+          
+            
+              
+                1
+                −
+                
+                  cos
+                  
+                    2
+                  
+                
+                ⁡
+                x
+              
+              
+                (
+                1
+                +
+                cos
+                ⁡
+                x
+                
+                  )
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \tan \left({\frac {x}{2}}\right)=\pm \,{\sqrt {(1-\cos x)(1+\cos x) \over (1+\cos x)(1+\cos x)}}=\pm \,{\sqrt {1-\cos ^{2}x \over (1+\cos x)^{2}}}}
+  
+
+  
+    
+      
+        =
+        
+          
+            
+              sin
+              ⁡
+              x
+            
+            
+              1
+              +
+              cos
+              ⁡
+              x
+            
+          
+        
+        .
+      
+    
+    {\displaystyle ={\sin x \over 1+\cos x}.}
+  
+
+Tương tự, lại nhân với mẫu số và tử số của phương trình (1) bởi 1 − cos x, rồi đơn giản hóa:
+
+  
+    
+      
+        tan
+        ⁡
+        
+          (
+          
+            
+              x
+              2
+            
+          
+          )
+        
+        =
+        ±
+        
+        
+          
+            
+              
+                (
+                1
+                −
+                cos
+                ⁡
+                x
+                )
+                (
+                1
+                −
+                cos
+                ⁡
+                x
+                )
+              
+              
+                (
+                1
+                +
+                cos
+                ⁡
+                x
+                )
+                (
+                1
+                −
+                cos
+                ⁡
+                x
+                )
+              
+            
+          
+        
+        =
+        ±
+        
+        
+          
+            
+              
+                (
+                1
+                −
+                cos
+                ⁡
+                x
+                
+                  )
+                  
+                    2
+                  
+                
+              
+              
+                (
+                1
+                −
+                
+                  cos
+                  
+                    2
+                  
+                
+                ⁡
+                x
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle \tan \left({\frac {x}{2}}\right)=\pm \,{\sqrt {(1-\cos x)(1-\cos x) \over (1+\cos x)(1-\cos x)}}=\pm \,{\sqrt {(1-\cos x)^{2} \over (1-\cos ^{2}x)}}}
+  
+
+  
+    
+      
+        =
+        
+          
+            
+              1
+              −
+              cos
+              ⁡
+              x
+            
+            
+              sin
+              ⁡
+              x
+            
+          
+        
+        .
+      
+    
+    {\displaystyle ={1-\cos x \over \sin x}.}
+  
+
+Suy ra:
+
+  
+    
+      
+        tan
+        ⁡
+        
+          (
+          
+            
+              x
+              2
+            
+          
+          )
+        
+        =
+        
+          
+            
+              sin
+              ⁡
+              (
+              x
+              )
+            
+            
+              1
+              +
+              cos
+              ⁡
+              (
+              x
+              )
+            
+          
+        
+        =
+        
+          
+            
+              1
+              −
+              cos
+              ⁡
+              (
+              x
+              )
+            
+            
+              sin
+              ⁡
+              (
+              x
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \tan \left({\frac {x}{2}}\right)={\frac {\sin(x)}{1+\cos(x)}}={\frac {1-\cos(x)}{\sin(x)}}.}
+  
+Nếu
+
+  
+    
+      
+        t
+        =
+        tan
+        ⁡
+        
+          (
+          
+            
+              x
+              2
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle t=\tan \left({\frac {x}{2}}\right),}
+  
+thì:
+Phương pháp dùng t thay thế như trên hữu ích trong giải tích để chuyển các tỷ lệ thức chứa sin(x) và cos(x) thành hàm của t. Cách này giúp tính đạo hàm của biểu thức dễ dàng.
+
+
+== Biến tích thành tổng ==
+Dùng công thức tổng và hiệu góc bên trên có thể suy ra.
+
+  
+    
+      
+        sin
+        ⁡
+        
+          (
+          x
+          )
+        
+        sin
+        ⁡
+        
+          (
+          y
+          )
+        
+        =
+        −
+        
+          
+            
+              cos
+              ⁡
+              
+                (
+                x
+                +
+                y
+                )
+              
+              −
+              cos
+              ⁡
+              
+                (
+                x
+                −
+                y
+                )
+              
+            
+            2
+          
+        
+        
+      
+    
+    {\displaystyle \sin \left(x\right)\sin \left(y\right)=-{\cos \left(x+y\right)-\cos \left(x-y\right) \over 2}\;}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        
+          (
+          x
+          )
+        
+        cos
+        ⁡
+        
+          (
+          y
+          )
+        
+        =
+        
+          
+            
+              cos
+              ⁡
+              
+                (
+                x
+                +
+                y
+                )
+              
+              +
+              cos
+              ⁡
+              
+                (
+                x
+                −
+                y
+                )
+              
+            
+            2
+          
+        
+        
+      
+    
+    {\displaystyle \cos \left(x\right)\cos \left(y\right)={\cos \left(x+y\right)+\cos \left(x-y\right) \over 2}\;}
+  
+
+  
+    
+      
+        sin
+        ⁡
+        
+          (
+          x
+          )
+        
+        cos
+        ⁡
+        
+          (
+          y
+          )
+        
+        =
+        
+          
+            
+              sin
+              ⁡
+              
+                (
+                x
+                +
+                y
+                )
+              
+              +
+              sin
+              ⁡
+              
+                (
+                x
+                −
+                y
+                )
+              
+            
+            2
+          
+        
+        
+      
+    
+    {\displaystyle \sin \left(x\right)\cos \left(y\right)={\sin \left(x+y\right)+\sin \left(x-y\right) \over 2}\;}
+  
+
+
+== Biến tổng thành tích ==
+Thay x bằng (x + y) / 2 và y bằng (x – y) / 2, suy ra:
+
+  
+    
+      
+        sin
+        ⁡
+        (
+        x
+        )
+        +
+        sin
+        ⁡
+        (
+        y
+        )
+        =
+        2
+        sin
+        ⁡
+        
+          (
+          
+            
+              
+                x
+                +
+                y
+              
+              2
+            
+          
+          )
+        
+        cos
+        ⁡
+        
+          (
+          
+            
+              
+                x
+                −
+                y
+              
+              2
+            
+          
+          )
+        
+        
+      
+    
+    {\displaystyle \sin(x)+\sin(y)=2\sin \left({\frac {x+y}{2}}\right)\cos \left({\frac {x-y}{2}}\right)\;}
+  
+
+  
+    
+      
+        sin
+        ⁡
+        (
+        x
+        )
+        −
+        sin
+        ⁡
+        (
+        y
+        )
+        =
+        2
+        cos
+        ⁡
+        
+          (
+          
+            
+              
+                x
+                +
+                y
+              
+              2
+            
+          
+          )
+        
+        sin
+        ⁡
+        
+          (
+          
+            
+              
+                x
+                −
+                y
+              
+              2
+            
+          
+          )
+        
+        
+      
+    
+    {\displaystyle \sin(x)-\sin(y)=2\cos \left({\frac {x+y}{2}}\right)\sin \left({x-y \over 2}\right)\;}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        x
+        )
+        +
+        cos
+        ⁡
+        (
+        y
+        )
+        =
+        2
+        cos
+        ⁡
+        
+          (
+          
+            
+              
+                x
+                +
+                y
+              
+              2
+            
+          
+          )
+        
+        cos
+        ⁡
+        
+          (
+          
+            
+              
+                x
+                −
+                y
+              
+              2
+            
+          
+          )
+        
+        
+      
+    
+    {\displaystyle \cos(x)+\cos(y)=2\cos \left({\frac {x+y}{2}}\right)\cos \left({\frac {x-y}{2}}\right)\;}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        x
+        )
+        −
+        cos
+        ⁡
+        (
+        y
+        )
+        =
+        −
+        2
+        sin
+        ⁡
+        
+          (
+          
+            
+              
+                x
+                +
+                y
+              
+              2
+            
+          
+          )
+        
+        sin
+        ⁡
+        
+          (
+          
+            
+              
+                x
+                −
+                y
+              
+              2
+            
+          
+          )
+        
+        
+      
+    
+    {\displaystyle \cos(x)-\cos(y)=-2\sin \left({x+y \over 2}\right)\sin \left({x-y \over 2}\right)\;}
+  
+
+
+== Hàm lượng giác ngược ==
+
+  
+    
+      
+        arcsin
+        ⁡
+        (
+        x
+        )
+        +
+        arccos
+        ⁡
+        (
+        x
+        )
+        =
+        π
+        
+          /
+        
+        2
+        
+      
+    
+    {\displaystyle \arcsin(x)+\arccos(x)=\pi /2\;}
+  
+
+  
+    
+      
+        arctan
+        ⁡
+        (
+        x
+        )
+        +
+        arccot
+        ⁡
+        (
+        x
+        )
+        =
+        π
+        
+          /
+        
+        2.
+        
+      
+    
+    {\displaystyle \arctan(x)+\operatorname {arccot}(x)=\pi /2.\;}
+  
+
+  
+    
+      
+        arctan
+        ⁡
+        (
+        x
+        )
+        +
+        arctan
+        ⁡
+        (
+        1
+        
+          /
+        
+        x
+        )
+        =
+        
+          {
+          
+            
+              
+                
+                  π
+                  
+                    /
+                  
+                  2
+                  ,
+                
+                
+                  
+                    n
+                  
+                  
+                    
+                      
+                        
+                          
+                            e
+                            ^
+                          
+                        
+                        ´
+                      
+                    
+                  
+                  
+                    u
+                  
+                   
+                  x
+                  >
+                  0
+                
+              
+              
+                
+                  −
+                  π
+                  
+                    /
+                  
+                  2
+                  ,
+                
+                
+                  
+                    n
+                  
+                  
+                    
+                      
+                        
+                          
+                            e
+                            ^
+                          
+                        
+                        ´
+                      
+                    
+                  
+                  
+                    u
+                  
+                   
+                  x
+                  <
+                  0
+                
+              
+            
+          
+          
+        
+        .
+      
+    
+    {\displaystyle \arctan(x)+\arctan(1/x)=\left\{{\begin{matrix}\pi /2,&{\mbox{n}}{\acute {\hat {\mbox{e}}}}{\mbox{u}}\ x>0\\-\pi /2,&{\mbox{n}}{\acute {\hat {\mbox{e}}}}{\mbox{u}}\ x<0\end{matrix}}\right..}
+  
+
+  
+    
+      
+        arctan
+        ⁡
+        (
+        x
+        )
+        +
+        arctan
+        ⁡
+        (
+        y
+        )
+        =
+        arctan
+        ⁡
+        
+          (
+          
+            
+              
+                x
+                +
+                y
+              
+              
+                1
+                −
+                x
+                y
+              
+            
+          
+          )
+        
+        
+      
+    
+    {\displaystyle \arctan(x)+\arctan(y)=\arctan \left({\frac {x+y}{1-xy}}\right)\;}
+  
+
+  
+    
+      
+        arctan
+        ⁡
+        (
+        x
+        )
+        −
+        arctan
+        ⁡
+        (
+        y
+        )
+        =
+        arctan
+        ⁡
+        
+          (
+          
+            
+              
+                x
+                −
+                y
+              
+              
+                1
+                +
+                x
+                y
+              
+            
+          
+          )
+        
+        
+      
+    
+    {\displaystyle \arctan(x)-\arctan(y)=\arctan \left({\frac {x-y}{1+xy}}\right)\;}
+  
+
+  
+    
+      
+        sin
+        ⁡
+        (
+        arccos
+        ⁡
+        (
+        x
+        )
+        )
+        =
+        
+          
+            1
+            −
+            
+              x
+              
+                2
+              
+            
+          
+        
+        
+      
+    
+    {\displaystyle \sin(\arccos(x))={\sqrt {1-x^{2}}}\,}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        arcsin
+        ⁡
+        (
+        x
+        )
+        )
+        =
+        
+          
+            1
+            −
+            
+              x
+              
+                2
+              
+            
+          
+        
+        
+      
+    
+    {\displaystyle \cos(\arcsin(x))={\sqrt {1-x^{2}}}\,}
+  
+
+  
+    
+      
+        sin
+        ⁡
+        (
+        arctan
+        ⁡
+        (
+        x
+        )
+        )
+        =
+        
+          
+            x
+            
+              1
+              +
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \sin(\arctan(x))={\frac {x}{\sqrt {1+x^{2}}}}}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        arctan
+        ⁡
+        (
+        x
+        )
+        )
+        =
+        
+          
+            1
+            
+              1
+              +
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \cos(\arctan(x))={\frac {1}{\sqrt {1+x^{2}}}}}
+  
+
+  
+    
+      
+        tan
+        ⁡
+        (
+        arcsin
+        ⁡
+        (
+        x
+        )
+        )
+        =
+        
+          
+            x
+            
+              1
+              −
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \tan(\arcsin(x))={\frac {x}{\sqrt {1-x^{2}}}}}
+  
+
+  
+    
+      
+        tan
+        ⁡
+        (
+        arccos
+        ⁡
+        (
+        x
+        )
+        )
+        =
+        
+          
+            
+              1
+              −
+              
+                x
+                
+                  2
+                
+              
+            
+            x
+          
+        
+      
+    
+    {\displaystyle \tan(\arccos(x))={\frac {\sqrt {1-x^{2}}}{x}}}
+  
+
+
+== Dạng số phức ==
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        x
+        )
+        =
+        
+          
+            
+              
+                e
+                
+                  i
+                  x
+                
+              
+              +
+              
+                e
+                
+                  −
+                  i
+                  x
+                
+              
+            
+            2
+          
+        
+        
+      
+    
+    {\displaystyle \cos(x)={\frac {e^{ix}+e^{-ix}}{2}}\;}
+  
+
+  
+    
+      
+        sin
+        ⁡
+        (
+        x
+        )
+        =
+        
+          
+            
+              
+                e
+                
+                  i
+                  x
+                
+              
+              −
+              
+                e
+                
+                  −
+                  i
+                  x
+                
+              
+            
+            
+              2
+              i
+            
+          
+        
+        
+      
+    
+    {\displaystyle \sin(x)={\frac {e^{ix}-e^{-ix}}{2i}}\;}
+  
+với 
+  
+    
+      
+        
+          i
+          
+            2
+          
+        
+        =
+        −
+        1.
+        
+      
+    
+    {\displaystyle i^{2}=-1.\,}
+  
+
+
+== Tích vô hạn ==
+Trong các ứng dụng với hàm đặc biệt, các tích vô hạn sau có ích:
+
+  
+    
+      
+        sin
+        ⁡
+        x
+        =
+        x
+        
+          ∏
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          (
+          1
+          −
+          
+            
+              
+                x
+                
+                  2
+                
+              
+              
+                
+                  π
+                  
+                    2
+                  
+                
+                
+                  n
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \sin x=x\prod _{n=1}^{\infty }\left(1-{\frac {x^{2}}{\pi ^{2}n^{2}}}\right)}
+  
+
+  
+    
+      
+        sinh
+        ⁡
+        x
+        =
+        x
+        
+          ∏
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          (
+          1
+          +
+          
+            
+              
+                x
+                
+                  2
+                
+              
+              
+                
+                  π
+                  
+                    2
+                  
+                
+                
+                  n
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \sinh x=x\prod _{n=1}^{\infty }\left(1+{\frac {x^{2}}{\pi ^{2}n^{2}}}\right)}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        x
+        =
+        
+          ∏
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          (
+          1
+          −
+          
+            
+              
+                x
+                
+                  2
+                
+              
+              
+                
+                  π
+                  
+                    2
+                  
+                
+                (
+                n
+                −
+                
+                  
+                    1
+                    2
+                  
+                
+                
+                  )
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \cos x=\prod _{n=1}^{\infty }\left(1-{\frac {x^{2}}{\pi ^{2}(n-{\frac {1}{2}})^{2}}}\right)}
+  
+
+  
+    
+      
+        cosh
+        ⁡
+        x
+        =
+        
+          ∏
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        
+          (
+          1
+          +
+          
+            
+              
+                x
+                
+                  2
+                
+              
+              
+                
+                  π
+                  
+                    2
+                  
+                
+                (
+                n
+                −
+                
+                  
+                    1
+                    2
+                  
+                
+                
+                  )
+                  
+                    2
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \cosh x=\prod _{n=1}^{\infty }\left(1+{\frac {x^{2}}{\pi ^{2}(n-{\frac {1}{2}})^{2}}}\right)}
+  
+
+  
+    
+      
+        
+          
+            
+              sin
+              ⁡
+              x
+            
+            x
+          
+        
+        =
+        
+          ∏
+          
+            n
+            =
+            1
+          
+          
+            ∞
+          
+        
+        cos
+        ⁡
+        
+          (
+          
+            
+              x
+              
+                2
+                
+                  n
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle {\frac {\sin x}{x}}=\prod _{n=1}^{\infty }\cos \left({\frac {x}{2^{n}}}\right)}
+  
+
+
+== Đẳng thức số ==
+
+
+=== Cơ bản ===
+Richard Feynman từ nhỏ đã nhớ đẳng thức sau:
+
+  
+    
+      
+        cos
+        ⁡
+        
+          20
+          
+            ∘
+          
+        
+        ⋅
+        cos
+        ⁡
+        
+          40
+          
+            ∘
+          
+        
+        ⋅
+        cos
+        ⁡
+        
+          80
+          
+            ∘
+          
+        
+        =
+        
+          
+            1
+            8
+          
+        
+        .
+      
+    
+    {\displaystyle \cos 20^{\circ }\cdot \cos 40^{\circ }\cdot \cos 80^{\circ }={\frac {1}{8}}.}
+  
+Tuy nhiên nó là trường hợp riêng của:
+
+  
+    
+      
+        
+          ∏
+          
+            j
+            =
+            0
+          
+          
+            k
+            −
+            1
+          
+        
+        cos
+        ⁡
+        (
+        
+          2
+          
+            j
+          
+        
+        x
+        )
+        =
+        
+          
+            
+              sin
+              ⁡
+              (
+              
+                2
+                
+                  k
+                
+              
+              x
+              )
+            
+            
+              
+                2
+                
+                  k
+                
+              
+              sin
+              ⁡
+              (
+              x
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \prod _{j=0}^{k-1}\cos(2^{j}x)={\frac {\sin(2^{k}x)}{2^{k}\sin(x)}}.}
+  
+Đẳng thức số sau chưa được tổng quát hóa với biến số:
+
+  
+    
+      
+        cos
+        ⁡
+        
+          24
+          
+            ∘
+          
+        
+        +
+        cos
+        ⁡
+        
+          48
+          
+            ∘
+          
+        
+        +
+        cos
+        ⁡
+        
+          96
+          
+            ∘
+          
+        
+        +
+        cos
+        ⁡
+        
+          168
+          
+            ∘
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+      
+    
+    {\displaystyle \cos 24^{\circ }+\cos 48^{\circ }+\cos 96^{\circ }+\cos 168^{\circ }={\frac {1}{2}}}
+  .
+Đẳng thức sau cho thấy đặc điểm của số 21:
+
+  
+    
+      
+        cos
+        ⁡
+        
+          (
+          
+            
+              
+                2
+                π
+              
+              21
+            
+          
+          )
+        
+        
+        +
+        
+        cos
+        ⁡
+        
+          (
+          2
+          ⋅
+          
+            
+              
+                2
+                π
+              
+              21
+            
+          
+          )
+        
+        
+        +
+        
+        cos
+        ⁡
+        
+          (
+          4
+          ⋅
+          
+            
+              
+                2
+                π
+              
+              21
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \cos \left({\frac {2\pi }{21}}\right)\,+\,\cos \left(2\cdot {\frac {2\pi }{21}}\right)\,+\,\cos \left(4\cdot {\frac {2\pi }{21}}\right)}
+  
+
+  
+    
+      
+        
+        +
+        
+        cos
+        ⁡
+        
+          (
+          5
+          ⋅
+          
+            
+              
+                2
+                π
+              
+              21
+            
+          
+          )
+        
+        
+        +
+        
+        cos
+        ⁡
+        
+          (
+          8
+          ⋅
+          
+            
+              
+                2
+                π
+              
+              21
+            
+          
+          )
+        
+        
+        +
+        
+        cos
+        ⁡
+        
+          (
+          10
+          ⋅
+          
+            
+              
+                2
+                π
+              
+              21
+            
+          
+          )
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle \,+\,\cos \left(5\cdot {\frac {2\pi }{21}}\right)\,+\,\cos \left(8\cdot {\frac {2\pi }{21}}\right)\,+\,\cos \left(10\cdot {\frac {2\pi }{21}}\right)={\frac {1}{2}}.}
+  
+
+Một cách tính pi có thể sựa vào đẳng thức số sau, do John Machin tìm thấy:
+
+  
+    
+      
+        
+          
+            π
+            4
+          
+        
+        =
+        4
+        arctan
+        ⁡
+        
+          
+            1
+            5
+          
+        
+        −
+        arctan
+        ⁡
+        
+          
+            1
+            239
+          
+        
+      
+    
+    {\displaystyle {\frac {\pi }{4}}=4\arctan {\frac {1}{5}}-\arctan {\frac {1}{239}}}
+  
+hay dùng công thức Euler:
+
+  
+    
+      
+        
+          
+            π
+            4
+          
+        
+        =
+        5
+        arctan
+        ⁡
+        
+          
+            1
+            7
+          
+        
+        +
+        2
+        arctan
+        ⁡
+        
+          
+            3
+            79
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {\pi }{4}}=5\arctan {\frac {1}{7}}+2\arctan {\frac {3}{79}}.}
+  
+Một số đẳng thức khác:
+
+  
+    
+      
+        
+          
+            
+              
+                sin
+                ⁡
+                0
+              
+              
+                =
+              
+              
+                sin
+                ⁡
+                
+                  0
+                  
+                    ∘
+                  
+                
+              
+              
+                =
+              
+              
+                0
+              
+              
+                =
+              
+              
+                cos
+                ⁡
+                
+                  90
+                  
+                    ∘
+                  
+                
+              
+              
+                =
+              
+              
+                cos
+                ⁡
+                
+                  (
+                  
+                    
+                      π
+                      2
+                    
+                  
+                  )
+                
+              
+            
+            
+              
+            
+            
+              
+                sin
+                ⁡
+                
+                  (
+                  
+                    
+                      π
+                      6
+                    
+                  
+                  )
+                
+              
+              
+                =
+              
+              
+                sin
+                ⁡
+                
+                  30
+                  
+                    ∘
+                  
+                
+              
+              
+                =
+              
+              
+                1
+                
+                  /
+                
+                2
+              
+              
+                =
+              
+              
+                cos
+                ⁡
+                
+                  60
+                  
+                    ∘
+                  
+                
+              
+              
+                =
+              
+              
+                cos
+                ⁡
+                
+                  (
+                  
+                    
+                      π
+                      3
+                    
+                  
+                  )
+                
+              
+            
+            
+              
+            
+            
+              
+                sin
+                ⁡
+                
+                  (
+                  
+                    
+                      π
+                      4
+                    
+                  
+                  )
+                
+              
+              
+                =
+              
+              
+                sin
+                ⁡
+                
+                  45
+                  
+                    ∘
+                  
+                
+              
+              
+                =
+              
+              
+                
+                  
+                    2
+                  
+                
+                
+                  /
+                
+                2
+              
+              
+                =
+              
+              
+                cos
+                ⁡
+                
+                  45
+                  
+                    ∘
+                  
+                
+              
+              
+                =
+              
+              
+                cos
+                ⁡
+                
+                  (
+                  
+                    
+                      π
+                      4
+                    
+                  
+                  )
+                
+              
+            
+            
+              
+            
+            
+              
+                sin
+                ⁡
+                
+                  (
+                  
+                    
+                      π
+                      3
+                    
+                  
+                  )
+                
+              
+              
+                =
+              
+              
+                sin
+                ⁡
+                
+                  60
+                  
+                    ∘
+                  
+                
+              
+              
+                =
+              
+              
+                
+                  
+                    3
+                  
+                
+                
+                  /
+                
+                2
+              
+              
+                =
+              
+              
+                cos
+                ⁡
+                
+                  30
+                  
+                    ∘
+                  
+                
+              
+              
+                =
+              
+              
+                cos
+                ⁡
+                
+                  (
+                  
+                    
+                      π
+                      6
+                    
+                  
+                  )
+                
+              
+            
+            
+              
+            
+            
+              
+                sin
+                ⁡
+                
+                  (
+                  
+                    
+                      π
+                      2
+                    
+                  
+                  )
+                
+              
+              
+                =
+              
+              
+                sin
+                ⁡
+                
+                  90
+                  
+                    ∘
+                  
+                
+              
+              
+                =
+              
+              
+                1
+              
+              
+                =
+              
+              
+                cos
+                ⁡
+                
+                  0
+                  
+                    ∘
+                  
+                
+              
+              
+                =
+              
+              
+                cos
+                ⁡
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}\sin 0&=&\sin 0^{\circ }&=&0&=&\cos 90^{\circ }&=&\cos \left({\frac {\pi }{2}}\right)\\\\\sin \left({\frac {\pi }{6}}\right)&=&\sin 30^{\circ }&=&1/2&=&\cos 60^{\circ }&=&\cos \left({\frac {\pi }{3}}\right)\\\\\sin \left({\frac {\pi }{4}}\right)&=&\sin 45^{\circ }&=&{\sqrt {2}}/2&=&\cos 45^{\circ }&=&\cos \left({\frac {\pi }{4}}\right)\\\\\sin \left({\frac {\pi }{3}}\right)&=&\sin 60^{\circ }&=&{\sqrt {3}}/2&=&\cos 30^{\circ }&=&\cos \left({\frac {\pi }{6}}\right)\\\\\sin \left({\frac {\pi }{2}}\right)&=&\sin 90^{\circ }&=&1&=&\cos 0^{\circ }&=&\cos 0\end{matrix}}}
+  
+
+  
+    
+      
+        sin
+        ⁡
+        
+          
+            π
+            7
+          
+        
+        =
+        
+          
+            
+              7
+            
+            6
+          
+        
+        −
+        
+          
+            
+              7
+            
+            189
+          
+        
+        
+          ∑
+          
+            j
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              (
+              3
+              j
+              +
+              1
+              )
+              !
+            
+            
+              
+                189
+                
+                  j
+                
+              
+              j
+              !
+              
+              (
+              2
+              j
+              +
+              2
+              )
+              !
+            
+          
+        
+        
+      
+    
+    {\displaystyle \sin {\frac {\pi }{7}}={\frac {\sqrt {7}}{6}}-{\frac {\sqrt {7}}{189}}\sum _{j=0}^{\infty }{\frac {(3j+1)!}{189^{j}j!\,(2j+2)!}}\!}
+  
+
+  
+    
+      
+        sin
+        ⁡
+        
+          
+            π
+            18
+          
+        
+        =
+        
+          
+            1
+            6
+          
+        
+        
+          ∑
+          
+            j
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              (
+              3
+              j
+              )
+              !
+            
+            
+              
+                27
+                
+                  j
+                
+              
+              j
+              !
+              
+              (
+              2
+              j
+              +
+              1
+              )
+              !
+            
+          
+        
+        
+      
+    
+    {\displaystyle \sin {\frac {\pi }{18}}={\frac {1}{6}}\sum _{j=0}^{\infty }{\frac {(3j)!}{27^{j}j!\,(2j+1)!}}\!}
+  
+Dùng tỷ lệ vàng φ:
+
+  
+    
+      
+        cos
+        ⁡
+        
+          (
+          
+            
+              π
+              5
+            
+          
+          )
+        
+        =
+        cos
+        ⁡
+        
+          36
+          
+            ∘
+          
+        
+        =
+        
+          
+            
+              
+                
+                  5
+                
+              
+              +
+              1
+            
+            4
+          
+        
+        =
+        ϕ
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle \cos \left({\frac {\pi }{5}}\right)=\cos 36^{\circ }={{\sqrt {5}}+1 \over 4}=\phi /2}
+  
+
+  
+    
+      
+        sin
+        ⁡
+        
+          (
+          
+            
+              π
+              10
+            
+          
+          )
+        
+        =
+        sin
+        ⁡
+        
+          18
+          
+            ∘
+          
+        
+        =
+        
+          
+            
+              
+                
+                  5
+                
+              
+              −
+              1
+            
+            4
+          
+        
+        =
+        
+          
+            
+              φ
+              −
+              1
+            
+            2
+          
+        
+        =
+        
+          
+            1
+            
+              2
+              φ
+            
+          
+        
+      
+    
+    {\displaystyle \sin \left({\frac {\pi }{10}}\right)=\sin 18^{\circ }={{\sqrt {5}}-1 \over 4}={\varphi -1 \over 2}={1 \over 2\varphi }}
+  
+- -
+
+
+=== Nâng cao ===
+-
+
+  
+    
+      
+        −
+        
+          
+            
+              sin
+              ⁡
+              (
+              
+                
+                  π
+                  7
+                
+              
+              )
+            
+            
+              
+                sin
+                
+                  2
+                
+              
+              ⁡
+              (
+              
+                
+                  
+                    2
+                    π
+                  
+                  7
+                
+              
+              )
+            
+          
+        
+        +
+        
+          
+            
+              sin
+              ⁡
+              (
+              
+                
+                  
+                    3
+                    π
+                  
+                  7
+                
+              
+              )
+            
+            
+              
+                sin
+                
+                  2
+                
+              
+              ⁡
+              (
+              
+                
+                  π
+                  7
+                
+              
+              )
+            
+          
+        
+        +
+        
+          
+            
+              sin
+              ⁡
+              (
+              
+                
+                  
+                    2
+                    π
+                  
+                  7
+                
+              
+              )
+            
+            
+              sin
+              
+                −
+                
+                  2
+                
+              
+              (
+              
+                
+                  
+                    3
+                    π
+                  
+                  7
+                
+              
+              )
+            
+          
+        
+        =
+        2
+        
+          
+            7
+          
+        
+      
+    
+    {\displaystyle -{\frac {\sin({\frac {\pi }{7}})}{\sin ^{2}({\frac {2\pi }{7}})}}+{\frac {\sin({\frac {3\pi }{7}})}{\sin ^{2}({\frac {\pi }{7}})}}+{\frac {\sin({\frac {2\pi }{7}})}{\sin -^{2}({\frac {3\pi }{7}})}}=2{\sqrt {7}}}
+  
+-
+
+  
+    
+      
+        
+          
+            
+              
+                sin
+                
+                  2
+                
+              
+              ⁡
+              (
+              
+                
+                  π
+                  7
+                
+              
+              )
+            
+            
+              
+                sin
+                
+                  4
+                
+              
+              ⁡
+              (
+              
+                
+                  
+                    2
+                    π
+                  
+                  7
+                
+              
+              )
+            
+          
+        
+        +
+        
+          
+            
+              
+                sin
+                
+                  2
+                
+              
+              ⁡
+              (
+              
+                
+                  
+                    3
+                    π
+                  
+                  7
+                
+              
+              )
+            
+            
+              
+                sin
+                
+                  4
+                
+              
+              ⁡
+              (
+              
+                
+                  π
+                  7
+                
+              
+              )
+            
+          
+        
+        +
+        
+          
+            
+              
+                sin
+                
+                  2
+                
+              
+              ⁡
+              (
+              
+                
+                  
+                    2
+                    π
+                  
+                  7
+                
+              
+              )
+            
+            
+              sin
+              
+                −
+                
+                  4
+                
+              
+              (
+              
+                
+                  
+                    3
+                    π
+                  
+                  7
+                
+              
+              )
+            
+          
+        
+        =
+        28
+      
+    
+    {\displaystyle {\frac {\sin ^{2}({\frac {\pi }{7}})}{\sin ^{4}({\frac {2\pi }{7}})}}+{\frac {\sin ^{2}({\frac {3\pi }{7}})}{\sin ^{4}({\frac {\pi }{7}})}}+{\frac {\sin ^{2}({\frac {2\pi }{7}})}{\sin -^{4}({\frac {3\pi }{7}})}}=28}
+  
+-
+
+  
+    
+      
+        
+          
+            
+              
+                sin
+                
+                  2
+                
+              
+              ⁡
+              (
+              
+                
+                  π
+                  7
+                
+              
+              )
+            
+            
+              
+                sin
+                
+                  4
+                
+              
+              ⁡
+              (
+              
+                
+                  
+                    2
+                    π
+                  
+                  7
+                
+              
+              )
+            
+          
+        
+        (
+        
+          
+            
+              4
+              sin
+              ⁡
+              (
+              
+                
+                  π
+                  7
+                
+              
+              )
+            
+            
+              sin
+              ⁡
+              (
+              
+                
+                  
+                    2
+                    π
+                  
+                  7
+                
+              
+              )
+            
+          
+        
+        −
+        
+          
+            
+              2
+              sin
+              ⁡
+              (
+              
+                
+                  
+                    3
+                    π
+                  
+                  7
+                
+              
+              )
+            
+            
+              sin
+              −
+              (
+              
+                
+                  π
+                  7
+                
+              
+              )
+            
+          
+        
+        )
+        +
+        
+          
+            
+              
+                sin
+                
+                  2
+                
+              
+              ⁡
+              (
+              
+                
+                  
+                    3
+                    π
+                  
+                  7
+                
+              
+              )
+            
+            
+              
+                sin
+                
+                  4
+                
+              
+              ⁡
+              (
+              
+                
+                  π
+                  7
+                
+              
+              )
+            
+          
+        
+        (
+        
+          
+            
+              2
+              sin
+              ⁡
+              (
+              
+                
+                  
+                    2
+                    π
+                  
+                  7
+                
+              
+              )
+            
+            
+              sin
+              ⁡
+              (
+              
+                
+                  
+                    3
+                    π
+                  
+                  7
+                
+              
+              )
+            
+          
+        
+        +
+        
+          
+            
+              4
+              sin
+              ⁡
+              (
+              
+                
+                  
+                    3
+                    π
+                  
+                  7
+                
+              
+              )
+            
+            
+              sin
+              −
+              (
+              
+                
+                  π
+                  7
+                
+              
+              )
+            
+          
+        
+        )
+        −
+        
+          
+            
+              
+                sin
+                
+                  2
+                
+              
+              ⁡
+              (
+              
+                
+                  
+                    2
+                    π
+                  
+                  7
+                
+              
+              )
+            
+            
+              
+                sin
+                
+                  4
+                
+              
+              ⁡
+              (
+              
+                
+                  
+                    3
+                    π
+                  
+                  7
+                
+              
+              )
+            
+          
+        
+        (
+        
+          
+            
+              2
+              sin
+              ⁡
+              (
+              
+                
+                  π
+                  7
+                
+              
+              )
+            
+            
+              sin
+              ⁡
+              (
+              
+                
+                  
+                    2
+                    π
+                  
+                  7
+                
+              
+              )
+            
+          
+        
+        +
+        
+          
+            
+              4
+              −
+              sin
+              ⁡
+              (
+              
+                
+                  
+                    2
+                    π
+                  
+                  7
+                
+              
+              )
+            
+            
+              sin
+              ⁡
+              (
+              
+                
+                  
+                    3
+                    π
+                  
+                  7
+                
+              
+              )
+            
+          
+        
+        )
+        =
+        280
+      
+    
+    {\displaystyle {\frac {\sin ^{2}({\frac {\pi }{7}})}{\sin ^{4}({\frac {2\pi }{7}})}}({\frac {4\sin({\frac {\pi }{7}})}{\sin({\frac {2\pi }{7}})}}-{\frac {2\sin({\frac {3\pi }{7}})}{\sin -({\frac {\pi }{7}})}})+{\frac {\sin ^{2}({\frac {3\pi }{7}})}{\sin ^{4}({\frac {\pi }{7}})}}({\frac {2\sin({\frac {2\pi }{7}})}{\sin({\frac {3\pi }{7}})}}+{\frac {4\sin({\frac {3\pi }{7}})}{\sin -({\frac {\pi }{7}})}})-{\frac {\sin ^{2}({\frac {2\pi }{7}})}{\sin ^{4}({\frac {3\pi }{7}})}}({\frac {2\sin({\frac {\pi }{7}})}{\sin({\frac {2\pi }{7}})}}+{\frac {4-\sin({\frac {2\pi }{7}})}{\sin({\frac {3\pi }{7}})}})=280}
+  
+-
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        
+          
+            π
+            17
+          
+        
+        )
+        =
+        
+          
+            1
+            8
+          
+        
+        
+          
+            (
+          
+        
+        2
+        (
+        2
+        
+          
+            
+              
+                
+                  
+                    17
+                    (
+                    17
+                    −
+                    
+                      
+                        17
+                      
+                    
+                    )
+                  
+                  2
+                
+              
+            
+            −
+            
+              
+                
+                  
+                    17
+                    −
+                    
+                      
+                        17
+                      
+                    
+                  
+                  2
+                
+              
+            
+            −
+            4
+            
+              
+                34
+                +
+                2
+                
+                  
+                    17
+                  
+                
+              
+            
+            +
+            3
+            
+              
+                17
+              
+            
+            +
+            17
+          
+        
+        +
+        
+          
+            34
+            −
+            2
+            
+              
+                17
+              
+            
+          
+        
+        +
+        
+          
+            17
+          
+        
+        +
+        15
+        )
+        )
+      
+    
+    {\displaystyle \cos({\frac {\pi }{17}})={\frac {1}{8}}{\sqrt {(}}2(2{\sqrt {{\sqrt {\frac {17(17-{\sqrt {17}})}{2}}}-{\sqrt {\frac {17-{\sqrt {17}}}{2}}}-4{\sqrt {34+2{\sqrt {17}}}}+3{\sqrt {17}}+17}}+{\sqrt {34-2{\sqrt {17}}}}+{\sqrt {17}}+15))}
+  
+-
+
+  
+    
+      
+        tan
+        ⁡
+        (
+        
+          
+            π
+            120
+          
+        
+        )
+        =
+        
+          
+            
+              
+                8
+                −
+                
+                  
+                    2
+                    (
+                    2
+                    −
+                    
+                      
+                        3
+                      
+                    
+                    )
+                    (
+                    3
+                    −
+                    
+                      
+                        5
+                      
+                    
+                    )
+                  
+                
+                −
+                
+                  
+                    2
+                    (
+                    2
+                    +
+                    
+                      
+                        3
+                      
+                    
+                    )
+                    (
+                    5
+                    +
+                    
+                      
+                        5
+                      
+                    
+                    )
+                  
+                
+              
+              
+                8
+                +
+                
+                  
+                    2
+                    (
+                    2
+                    −
+                    
+                      
+                        3
+                      
+                    
+                    )
+                    (
+                    3
+                    −
+                    
+                      
+                        5
+                      
+                    
+                    )
+                  
+                
+                +
+                
+                  
+                    2
+                    −
+                    (
+                    2
+                    +
+                    
+                      
+                        3
+                      
+                    
+                    )
+                    (
+                    5
+                    +
+                    
+                      
+                        5
+                      
+                    
+                    )
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \tan({\frac {\pi }{120}})={\sqrt {\frac {8-{\sqrt {2(2-{\sqrt {3}})(3-{\sqrt {5}})}}-{\sqrt {2(2+{\sqrt {3}})(5+{\sqrt {5}})}}}{8+{\sqrt {2(2-{\sqrt {3}})(3-{\sqrt {5}})}}+{\sqrt {2-(2+{\sqrt {3}})(5+{\sqrt {5}})}}}}}}
+  
+-
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        
+          
+            π
+            240
+          
+        
+        )
+        =
+        
+          
+            1
+            16
+          
+        
+        (
+        
+          
+            2
+            −
+            
+              
+                2
+                +
+                
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+        (
+        
+          
+            2
+            (
+            5
+            +
+            
+              
+                5
+              
+            
+            )
+          
+        
+        +
+        
+          
+            3
+          
+        
+        −
+        
+          
+            15
+          
+        
+        )
+        +
+        
+          
+            
+              
+                2
+                +
+                
+                  
+                    2
+                  
+                
+              
+            
+            +
+            2
+          
+        
+        (
+        
+          
+            6
+            (
+            5
+            +
+            
+              
+                5
+              
+            
+            )
+          
+        
+        +
+        
+          
+            5
+          
+        
+        −
+        1
+        )
+        )
+      
+    
+    {\displaystyle \cos({\frac {\pi }{240}})={\frac {1}{16}}({\sqrt {2-{\sqrt {2+{\sqrt {2}}}}}}({\sqrt {2(5+{\sqrt {5}})}}+{\sqrt {3}}-{\sqrt {15}})+{\sqrt {{\sqrt {2+{\sqrt {2}}}}+2}}({\sqrt {6(5+{\sqrt {5}})}}+{\sqrt {5}}-1))}
+  
+-
+
+  
+    
+      
+        
+          
+            π
+            4
+          
+        
+        =
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        2
+        )
+        +
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        3
+        )
+      
+    
+    {\displaystyle {\frac {\pi }{4}}=\cot ^{-1}(2)+\cot ^{-1}(3)}
+  
+-
+
+  
+    
+      
+        
+          
+            π
+            4
+          
+        
+        =
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        2
+        )
+        +
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        5
+        )
+        +
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        8
+        )
+      
+    
+    {\displaystyle {\frac {\pi }{4}}=\cot ^{-1}(2)+\cot ^{-1}(5)+\cot ^{-1}(8)}
+  
+-
+
+  
+    
+      
+        
+          
+            π
+            4
+          
+        
+        =
+        2
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        3
+        )
+        +
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        7
+        )
+      
+    
+    {\displaystyle {\frac {\pi }{4}}=2\cot ^{-1}(3)+\cot ^{-1}(7)}
+  
+-
+
+  
+    
+      
+        
+          
+            π
+            4
+          
+        
+        =
+        3
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        4
+        )
+        +
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        
+          
+            99
+            5
+          
+        
+        )
+      
+    
+    {\displaystyle {\frac {\pi }{4}}=3\cot ^{-1}(4)+\cot ^{-1}({\frac {99}{5}})}
+  
+-
+
+  
+    
+      
+        
+          
+            π
+            4
+          
+        
+        =
+        4
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        5
+        )
+        −
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        239
+        )
+      
+    
+    {\displaystyle {\frac {\pi }{4}}=4\cot ^{-1}(5)-\cot ^{-1}(239)}
+  
+-
+
+  
+    
+      
+        
+          
+            π
+            4
+          
+        
+        =
+        4
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        5
+        )
+        −
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        70
+        )
+        +
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        99
+        )
+        
+          
+            π
+            4
+          
+        
+        =
+        5
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        6
+        )
+        −
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        
+          
+            503
+            16
+          
+        
+        )
+        −
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        117
+        )
+      
+    
+    {\displaystyle {\frac {\pi }{4}}=4\cot ^{-1}(5)-\cot ^{-1}(70)+\cot ^{-1}(99){\frac {\pi }{4}}=5\cot ^{-1}(6)-\cot ^{-1}({\frac {503}{16}})-\cot ^{-1}(117)}
+  
+-
+
+  
+    
+      
+        
+          
+            π
+            4
+          
+        
+        =
+        5
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        7
+        )
+        +
+        2
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        
+          
+            79
+            3
+          
+        
+        )
+        
+          
+            π
+            4
+          
+        
+        =
+        6
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        8
+        )
+        +
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        
+          
+            99
+            5
+          
+        
+        )
+        −
+        3
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        268
+        )
+      
+    
+    {\displaystyle {\frac {\pi }{4}}=5\cot ^{-1}(7)+2\cot ^{-1}({\frac {79}{3}}){\frac {\pi }{4}}=6\cot ^{-1}(8)+\cot ^{-1}({\frac {99}{5}})-3\cot ^{-1}(268)}
+  
+-
+
+  
+    
+      
+        
+          
+            π
+            4
+          
+        
+        =
+        8
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        10
+        )
+        −
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        239
+        )
+        −
+        4
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        515
+        )
+        
+          
+            π
+            4
+          
+        
+        =
+        8
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        10
+        )
+        −
+        2
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        
+          
+            452761
+            2543
+          
+        
+        )
+        −
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        1393
+        )
+      
+    
+    {\displaystyle {\frac {\pi }{4}}=8\cot ^{-1}(10)-\cot ^{-1}(239)-4\cot ^{-1}(515){\frac {\pi }{4}}=8\cot ^{-1}(10)-2\cot ^{-1}({\frac {452761}{2543}})-\cot ^{-1}(1393)}
+  
+-
+
+  
+    
+      
+        
+          
+            π
+            4
+          
+        
+        =
+        8
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        10
+        )
+        −
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        100
+        )
+        −
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        515
+        )
+        −
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        
+          
+            371498882
+            3583
+          
+        
+        )
+        
+          
+            π
+            4
+          
+        
+        =
+        12
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        18
+        )
+        +
+        3
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        70
+        )
+        +
+        5
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        99
+        )
+        +
+        8
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        307
+        )
+      
+    
+    {\displaystyle {\frac {\pi }{4}}=8\cot ^{-1}(10)-\cot ^{-1}(100)-\cot ^{-1}(515)-\cot ^{-1}({\frac {371498882}{3583}}){\frac {\pi }{4}}=12\cot ^{-1}(18)+3\cot ^{-1}(70)+5\cot ^{-1}(99)+8\cot ^{-1}(307)}
+  
+-
+
+  
+    
+      
+        
+          
+            π
+            4
+          
+        
+        =
+        12
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        18
+        )
+        +
+        8
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        99
+        )
+        +
+        3
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        239
+        )
+        +
+        8
+        
+          cot
+          
+            −
+            1
+          
+        
+        ⁡
+        (
+        307
+        )
+      
+    
+    {\displaystyle {\frac {\pi }{4}}=12\cot ^{-1}(18)+8\cot ^{-1}(99)+3\cot ^{-1}(239)+8\cot ^{-1}(307)}
+  
+
+
+== Giải tích ==
+Các công thức trong giải tích sau dùng góc đo bằng radian
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+          
+            
+              sin
+              ⁡
+              (
+              x
+              )
+            
+            x
+          
+        
+        =
+        1
+        ,
+      
+    
+    {\displaystyle \lim _{x\rightarrow 0}{\frac {\sin(x)}{x}}=1,}
+  
+
+  
+    
+      
+        
+          lim
+          
+            x
+            →
+            0
+          
+        
+        
+          
+            
+              1
+              −
+              cos
+              ⁡
+              (
+              x
+              )
+            
+            x
+          
+        
+        =
+        0
+        ,
+      
+    
+    {\displaystyle \lim _{x\rightarrow 0}{\frac {1-\cos(x)}{x}}=0,}
+  
+
+  
+    
+      
+        
+          
+            d
+            
+              d
+              x
+            
+          
+        
+        sin
+        ⁡
+        (
+        x
+        )
+        =
+        cos
+        ⁡
+        (
+        x
+        )
+      
+    
+    {\displaystyle {d \over dx}\sin(x)=\cos(x)}
+  
+Các đẳng thức sau có thể suy ra từ trên và các quy tắc của đạo hàm:
+
+  
+    
+      
+        
+          
+            d
+            
+              d
+              x
+            
+          
+        
+        cos
+        ⁡
+        (
+        x
+        )
+        =
+        −
+        sin
+        ⁡
+        (
+        x
+        )
+      
+    
+    {\displaystyle {d \over dx}\cos(x)=-\sin(x)}
+  
+
+  
+    
+      
+        
+          
+            d
+            
+              d
+              x
+            
+          
+        
+        tan
+        ⁡
+        (
+        x
+        )
+        =
+        
+          sec
+          
+            2
+          
+        
+        ⁡
+        (
+        x
+        )
+      
+    
+    {\displaystyle {d \over dx}\tan(x)=\sec ^{2}(x)}
+  
+
+  
+    
+      
+        
+          
+            d
+            
+              d
+              x
+            
+          
+        
+        cot
+        ⁡
+        (
+        x
+        )
+        =
+        −
+        
+          csc
+          
+            2
+          
+        
+        ⁡
+        (
+        x
+        )
+      
+    
+    {\displaystyle {d \over dx}\cot(x)=-\csc ^{2}(x)}
+  
+
+  
+    
+      
+        
+          
+            d
+            
+              d
+              x
+            
+          
+        
+        sec
+        ⁡
+        (
+        x
+        )
+        =
+        sec
+        ⁡
+        (
+        x
+        )
+        tan
+        ⁡
+        (
+        x
+        )
+      
+    
+    {\displaystyle {d \over dx}\sec(x)=\sec(x)\tan(x)}
+  
+
+  
+    
+      
+        
+          
+            d
+            
+              d
+              x
+            
+          
+        
+        csc
+        ⁡
+        (
+        x
+        )
+        =
+        −
+        csc
+        ⁡
+        (
+        x
+        )
+        cot
+        ⁡
+        (
+        x
+        )
+      
+    
+    {\displaystyle {d \over dx}\csc(x)=-\csc(x)\cot(x)}
+  
+
+  
+    
+      
+        
+          
+            d
+            
+              d
+              x
+            
+          
+        
+        arcsin
+        ⁡
+        (
+        x
+        )
+        =
+        
+          
+            1
+            
+              1
+              −
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {d \over dx}\arcsin(x)={\frac {1}{\sqrt {1-x^{2}}}}}
+  
+
+  
+    
+      
+        
+          
+            d
+            
+              d
+              x
+            
+          
+        
+        arctan
+        ⁡
+        (
+        x
+        )
+        =
+        
+          
+            1
+            
+              1
+              +
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {d \over dx}\arctan(x)={\frac {1}{1+x^{2}}}}
+  
+Các biểu thức về tính tích phân có thể tìm tại danh sách tích phân với hàm lượng giác và danh sách tích phân với hàm lượng giác ngược.
+
+
+== Hàm lượng giác nghịch đảo ==
+Các hàm lượng giác tuần hoàn, do vậy để tìm hàm nghịch đảo, cần giới hạn miền của hàm. Dươi đây là định nghĩa các hàm lượng giác nghịch đảo:
+Các hàm nghịch đảo có thể được ký hiệu là sin−1 hay cos−1 thay cho arcsin và arccos. Việc dùng ký hiệu mũ có thể gây nhầm lẫn với hàm mũ của hàm lượng giác.
+Các hàm lượng giác nghịch đảo cũng có thể được định nghĩa bằng chuỗi vô hạn:
+
+  
+    
+      
+        
+          
+            
+              
+                arcsin
+                ⁡
+                z
+              
+              
+                =
+              
+              
+                z
+                +
+                
+                  (
+                  
+                    
+                      1
+                      2
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      z
+                      
+                        3
+                      
+                    
+                    3
+                  
+                
+                +
+                
+                  (
+                  
+                    
+                      
+                        1
+                        ⋅
+                        3
+                      
+                      
+                        2
+                        ⋅
+                        4
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      z
+                      
+                        5
+                      
+                    
+                    5
+                  
+                
+                +
+                
+                  (
+                  
+                    
+                      
+                        1
+                        ⋅
+                        3
+                        ⋅
+                        5
+                      
+                      
+                        2
+                        ⋅
+                        4
+                        ⋅
+                        6
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      z
+                      
+                        7
+                      
+                    
+                    7
+                  
+                
+                +
+                ⋯
+              
+            
+            
+              
+              
+                =
+              
+              
+                
+                  ∑
+                  
+                    n
+                    =
+                    0
+                  
+                  
+                    ∞
+                  
+                
+                
+                  (
+                  
+                    
+                      
+                        (
+                        2
+                        n
+                        )
+                        !
+                      
+                      
+                        
+                          2
+                          
+                            2
+                            n
+                          
+                        
+                        (
+                        n
+                        !
+                        
+                          )
+                          
+                            2
+                          
+                        
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      z
+                      
+                        2
+                        n
+                        +
+                        1
+                      
+                    
+                    
+                      (
+                      2
+                      n
+                      +
+                      1
+                      )
+                    
+                  
+                
+              
+            
+          
+        
+        
+        
+        
+          |
+          z
+          |
+        
+        <
+        1
+      
+    
+    {\displaystyle {\begin{matrix}\arcsin z&=&z+\left({\frac {1}{2}}\right){\frac {z^{3}}{3}}+\left({\frac {1\cdot 3}{2\cdot 4}}\right){\frac {z^{5}}{5}}+\left({\frac {1\cdot 3\cdot 5}{2\cdot 4\cdot 6}}\right){\frac {z^{7}}{7}}+\cdots \\&=&\sum _{n=0}^{\infty }\left({\frac {(2n)!}{2^{2n}(n!)^{2}}}\right){\frac {z^{2n+1}}{(2n+1)}}\end{matrix}}\,\quad \left|z\right|<1}
+  
+
+  
+    
+      
+        
+          
+            
+              
+                arccos
+                ⁡
+                z
+              
+              
+                =
+              
+              
+                
+                  
+                    π
+                    2
+                  
+                
+                −
+                arcsin
+                ⁡
+                z
+              
+            
+            
+              
+              
+                =
+              
+              
+                
+                  
+                    π
+                    2
+                  
+                
+                −
+                (
+                z
+                +
+                
+                  (
+                  
+                    
+                      1
+                      2
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      z
+                      
+                        3
+                      
+                    
+                    3
+                  
+                
+                +
+                
+                  (
+                  
+                    
+                      
+                        1
+                        ⋅
+                        3
+                      
+                      
+                        2
+                        ⋅
+                        4
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      z
+                      
+                        5
+                      
+                    
+                    5
+                  
+                
+                +
+                
+                  (
+                  
+                    
+                      
+                        1
+                        ⋅
+                        3
+                        ⋅
+                        5
+                      
+                      
+                        2
+                        ⋅
+                        4
+                        ⋅
+                        6
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      z
+                      
+                        7
+                      
+                    
+                    7
+                  
+                
+                +
+                ⋯
+                )
+              
+            
+            
+              
+              
+                =
+              
+              
+                
+                  
+                    π
+                    2
+                  
+                
+                −
+                
+                  ∑
+                  
+                    n
+                    =
+                    0
+                  
+                  
+                    ∞
+                  
+                
+                
+                  (
+                  
+                    
+                      
+                        (
+                        2
+                        n
+                        )
+                        !
+                      
+                      
+                        
+                          2
+                          
+                            2
+                            n
+                          
+                        
+                        (
+                        n
+                        !
+                        
+                          )
+                          
+                            2
+                          
+                        
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      z
+                      
+                        2
+                        n
+                        +
+                        1
+                      
+                    
+                    
+                      (
+                      2
+                      n
+                      +
+                      1
+                      )
+                    
+                  
+                
+              
+            
+          
+        
+        
+        
+        
+          |
+          z
+          |
+        
+        <
+        1
+      
+    
+    {\displaystyle {\begin{matrix}\arccos z&=&{\frac {\pi }{2}}-\arcsin z\\&=&{\frac {\pi }{2}}-(z+\left({\frac {1}{2}}\right){\frac {z^{3}}{3}}+\left({\frac {1\cdot 3}{2\cdot 4}}\right){\frac {z^{5}}{5}}+\left({\frac {1\cdot 3\cdot 5}{2\cdot 4\cdot 6}}\right){\frac {z^{7}}{7}}+\cdots )\\&=&{\frac {\pi }{2}}-\sum _{n=0}^{\infty }\left({\frac {(2n)!}{2^{2n}(n!)^{2}}}\right){\frac {z^{2n+1}}{(2n+1)}}\end{matrix}}\,\quad \left|z\right|<1}
+  
+
+  
+    
+      
+        
+          
+            
+              
+                arctan
+                ⁡
+                z
+              
+              
+                =
+              
+              
+                z
+                −
+                
+                  
+                    
+                      z
+                      
+                        3
+                      
+                    
+                    3
+                  
+                
+                +
+                
+                  
+                    
+                      z
+                      
+                        5
+                      
+                    
+                    5
+                  
+                
+                −
+                
+                  
+                    
+                      z
+                      
+                        7
+                      
+                    
+                    7
+                  
+                
+                +
+                ⋯
+              
+            
+            
+              
+              
+                =
+              
+              
+                
+                  ∑
+                  
+                    n
+                    =
+                    0
+                  
+                  
+                    ∞
+                  
+                
+                
+                  
+                    
+                      (
+                      −
+                      1
+                      
+                        )
+                        
+                          n
+                        
+                      
+                      
+                        z
+                        
+                          2
+                          n
+                          +
+                          1
+                        
+                      
+                    
+                    
+                      2
+                      n
+                      +
+                      1
+                    
+                  
+                
+              
+            
+          
+        
+        
+        
+        
+          |
+          z
+          |
+        
+        <
+        1
+      
+    
+    {\displaystyle {\begin{matrix}\arctan z&=&z-{\frac {z^{3}}{3}}+{\frac {z^{5}}{5}}-{\frac {z^{7}}{7}}+\cdots \\&=&\sum _{n=0}^{\infty }{\frac {(-1)^{n}z^{2n+1}}{2n+1}}\end{matrix}}\,\quad \left|z\right|<1}
+  
+
+  
+    
+      
+        
+          
+            
+              
+                arccsc
+                ⁡
+                z
+              
+              
+                =
+              
+              
+                arcsin
+                ⁡
+                
+                  (
+                  
+                    z
+                    
+                      −
+                      1
+                    
+                  
+                  )
+                
+              
+            
+            
+              
+              
+                =
+              
+              
+                
+                  z
+                  
+                    −
+                    1
+                  
+                
+                +
+                
+                  (
+                  
+                    
+                      1
+                      2
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      z
+                      
+                        −
+                        3
+                      
+                    
+                    3
+                  
+                
+                +
+                
+                  (
+                  
+                    
+                      
+                        1
+                        ⋅
+                        3
+                      
+                      
+                        2
+                        ⋅
+                        4
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      z
+                      
+                        −
+                        5
+                      
+                    
+                    5
+                  
+                
+                +
+                
+                  (
+                  
+                    
+                      
+                        1
+                        ⋅
+                        3
+                        ⋅
+                        5
+                      
+                      
+                        2
+                        ⋅
+                        4
+                        ⋅
+                        6
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      z
+                      
+                        −
+                        7
+                      
+                    
+                    7
+                  
+                
+                +
+                ⋯
+              
+            
+            
+              
+              
+                =
+              
+              
+                
+                  ∑
+                  
+                    n
+                    =
+                    0
+                  
+                  
+                    ∞
+                  
+                
+                
+                  (
+                  
+                    
+                      
+                        (
+                        2
+                        n
+                        )
+                        !
+                      
+                      
+                        
+                          2
+                          
+                            2
+                            n
+                          
+                        
+                        (
+                        n
+                        !
+                        
+                          )
+                          
+                            2
+                          
+                        
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      z
+                      
+                        −
+                        (
+                        2
+                        n
+                        +
+                        1
+                        )
+                      
+                    
+                    
+                      2
+                      n
+                      +
+                      1
+                    
+                  
+                
+              
+            
+          
+        
+        
+        
+        
+          |
+          z
+          |
+        
+        >
+        1
+      
+    
+    {\displaystyle {\begin{matrix}\operatorname {arccsc} z&=&\arcsin \left(z^{-1}\right)\\&=&z^{-1}+\left({\frac {1}{2}}\right){\frac {z^{-3}}{3}}+\left({\frac {1\cdot 3}{2\cdot 4}}\right){\frac {z^{-5}}{5}}+\left({\frac {1\cdot 3\cdot 5}{2\cdot 4\cdot 6}}\right){\frac {z^{-7}}{7}}+\cdots \\&=&\sum _{n=0}^{\infty }\left({\frac {(2n)!}{2^{2n}(n!)^{2}}}\right){\frac {z^{-(2n+1)}}{2n+1}}\end{matrix}}\,\quad \left|z\right|>1}
+  
+
+  
+    
+      
+        
+          
+            
+              
+                arcsec
+                ⁡
+                z
+              
+              
+                =
+              
+              
+                arccos
+                ⁡
+                
+                  (
+                  
+                    z
+                    
+                      −
+                      1
+                    
+                  
+                  )
+                
+              
+            
+            
+              
+              
+                =
+              
+              
+                
+                  
+                    π
+                    2
+                  
+                
+                −
+                (
+                
+                  z
+                  
+                    −
+                    1
+                  
+                
+                +
+                
+                  (
+                  
+                    
+                      1
+                      2
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      z
+                      
+                        −
+                        3
+                      
+                    
+                    3
+                  
+                
+                +
+                
+                  (
+                  
+                    
+                      
+                        1
+                        ⋅
+                        3
+                      
+                      
+                        2
+                        ⋅
+                        4
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      z
+                      
+                        −
+                        5
+                      
+                    
+                    5
+                  
+                
+                +
+                
+                  (
+                  
+                    
+                      
+                        1
+                        ⋅
+                        3
+                        ⋅
+                        5
+                      
+                      
+                        2
+                        ⋅
+                        4
+                        ⋅
+                        6
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      z
+                      
+                        −
+                        7
+                      
+                    
+                    7
+                  
+                
+                +
+                ⋯
+                )
+              
+            
+            
+              
+              
+                =
+              
+              
+                
+                  
+                    π
+                    2
+                  
+                
+                −
+                
+                  ∑
+                  
+                    n
+                    =
+                    0
+                  
+                  
+                    ∞
+                  
+                
+                
+                  (
+                  
+                    
+                      
+                        (
+                        2
+                        n
+                        )
+                        !
+                      
+                      
+                        
+                          2
+                          
+                            2
+                            n
+                          
+                        
+                        (
+                        n
+                        !
+                        
+                          )
+                          
+                            2
+                          
+                        
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    
+                      z
+                      
+                        −
+                        (
+                        2
+                        n
+                        +
+                        1
+                        )
+                      
+                    
+                    
+                      (
+                      2
+                      n
+                      +
+                      1
+                      )
+                    
+                  
+                
+              
+            
+          
+        
+        
+        
+        
+          |
+          z
+          |
+        
+        >
+        1
+      
+    
+    {\displaystyle {\begin{matrix}\operatorname {arcsec} z&=&\arccos \left(z^{-1}\right)\\&=&{\frac {\pi }{2}}-(z^{-1}+\left({\frac {1}{2}}\right){\frac {z^{-3}}{3}}+\left({\frac {1\cdot 3}{2\cdot 4}}\right){\frac {z^{-5}}{5}}+\left({\frac {1\cdot 3\cdot 5}{2\cdot 4\cdot 6}}\right){\frac {z^{-7}}{7}}+\cdots )\\&=&{\frac {\pi }{2}}-\sum _{n=0}^{\infty }\left({\frac {(2n)!}{2^{2n}(n!)^{2}}}\right){\frac {z^{-(2n+1)}}{(2n+1)}}\end{matrix}}\,\quad \left|z\right|>1}
+  
+
+  
+    
+      
+        
+          
+            
+              
+                arccot
+                ⁡
+                z
+              
+              
+                =
+              
+              
+                
+                  
+                    π
+                    2
+                  
+                
+                −
+                arctan
+                ⁡
+                z
+              
+            
+            
+              
+              
+                =
+              
+              
+                
+                  
+                    π
+                    2
+                  
+                
+                −
+                (
+                z
+                −
+                
+                  
+                    
+                      z
+                      
+                        3
+                      
+                    
+                    3
+                  
+                
+                +
+                
+                  
+                    
+                      z
+                      
+                        5
+                      
+                    
+                    5
+                  
+                
+                −
+                
+                  
+                    
+                      z
+                      
+                        7
+                      
+                    
+                    7
+                  
+                
+                +
+                ⋯
+                )
+              
+            
+            
+              
+              
+                =
+              
+              
+                
+                  
+                    π
+                    2
+                  
+                
+                −
+                
+                  ∑
+                  
+                    n
+                    =
+                    0
+                  
+                  
+                    ∞
+                  
+                
+                
+                  
+                    
+                      (
+                      −
+                      1
+                      
+                        )
+                        
+                          n
+                        
+                      
+                      
+                        z
+                        
+                          2
+                          n
+                          +
+                          1
+                        
+                      
+                    
+                    
+                      2
+                      n
+                      +
+                      1
+                    
+                  
+                
+              
+            
+          
+        
+        
+        
+        
+          |
+          z
+          |
+        
+        <
+        1
+      
+    
+    {\displaystyle {\begin{matrix}\operatorname {arccot} z&=&{\frac {\pi }{2}}-\arctan z\\&=&{\frac {\pi }{2}}-(z-{\frac {z^{3}}{3}}+{\frac {z^{5}}{5}}-{\frac {z^{7}}{7}}+\cdots )\\&=&{\frac {\pi }{2}}-\sum _{n=0}^{\infty }{\frac {(-1)^{n}z^{2n+1}}{2n+1}}\end{matrix}}\,\quad \left|z\right|<1}
+  
+Chúng cũng có thể được định nghĩa thông qua các biểu thức sau, dựa vào tính chất chúng là đạo hàm của các hàm khác.
+
+  
+    
+      
+        arcsin
+        ⁡
+        
+          (
+          x
+          )
+        
+        =
+        
+          ∫
+          
+            0
+          
+          
+            x
+          
+        
+        
+          
+            1
+            
+              1
+              −
+              
+                z
+                
+                  2
+                
+              
+            
+          
+        
+        
+        
+          d
+        
+        z
+        ,
+        
+        
+          |
+        
+        x
+        
+          |
+        
+        <
+        1
+      
+    
+    {\displaystyle \arcsin \left(x\right)=\int _{0}^{x}{\frac {1}{\sqrt {1-z^{2}}}}\,\mathrm {d} z,\quad |x|<1}
+  
+
+  
+    
+      
+        arccos
+        ⁡
+        
+          (
+          x
+          )
+        
+        =
+        
+          ∫
+          
+            x
+          
+          
+            1
+          
+        
+        
+          
+            1
+            
+              1
+              −
+              
+                z
+                
+                  2
+                
+              
+            
+          
+        
+        
+        
+          d
+        
+        z
+        ,
+        
+        
+          |
+        
+        x
+        
+          |
+        
+        <
+        1
+      
+    
+    {\displaystyle \arccos \left(x\right)=\int _{x}^{1}{\frac {1}{\sqrt {1-z^{2}}}}\,\mathrm {d} z,\quad |x|<1}
+  
+
+  
+    
+      
+        arctan
+        ⁡
+        
+          (
+          x
+          )
+        
+        =
+        
+          ∫
+          
+            0
+          
+          
+            x
+          
+        
+        
+          
+            1
+            
+              1
+              +
+              
+                z
+                
+                  2
+                
+              
+            
+          
+        
+        
+        
+          d
+        
+        z
+        ,
+        
+        ∀
+        x
+        ∈
+        
+          R
+        
+      
+    
+    {\displaystyle \arctan \left(x\right)=\int _{0}^{x}{\frac {1}{1+z^{2}}}\,\mathrm {d} z,\quad \forall x\in \mathbb {R} }
+  
+
+  
+    
+      
+        arccot
+        ⁡
+        
+          (
+          x
+          )
+        
+        =
+        
+          ∫
+          
+            x
+          
+          
+            ∞
+          
+        
+        
+          
+            1
+            
+              
+                z
+                
+                  2
+                
+              
+              +
+              1
+            
+          
+        
+        
+        
+          d
+        
+        z
+        ,
+        
+        z
+        >
+        0
+      
+    
+    {\displaystyle \operatorname {arccot} \left(x\right)=\int _{x}^{\infty }{\frac {1}{z^{2}+1}}\,\mathrm {d} z,\quad z>0}
+  
+
+  
+    
+      
+        arcsec
+        ⁡
+        
+          (
+          x
+          )
+        
+        =
+        
+          ∫
+          
+            x
+          
+          
+            1
+          
+        
+        
+          
+            1
+            
+              
+                |
+              
+              z
+              
+                |
+              
+              
+                
+                  
+                    z
+                    
+                      2
+                    
+                  
+                  −
+                  1
+                
+              
+            
+          
+        
+        
+        
+          d
+        
+        z
+        ,
+        
+        x
+        >
+        1
+      
+    
+    {\displaystyle \operatorname {arcsec} \left(x\right)=\int _{x}^{1}{\frac {1}{|z|{\sqrt {z^{2}-1}}}}\,\mathrm {d} z,\quad x>1}
+  
+
+  
+    
+      
+        arccsc
+        ⁡
+        
+          (
+          x
+          )
+        
+        =
+        
+          ∫
+          
+            x
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              −
+              1
+            
+            
+              
+                |
+              
+              z
+              
+                |
+              
+              
+                
+                  
+                    z
+                    
+                      2
+                    
+                  
+                  −
+                  1
+                
+              
+            
+          
+        
+        
+        
+          d
+        
+        z
+        ,
+        
+        x
+        >
+        1
+      
+    
+    {\displaystyle \operatorname {arccsc} \left(x\right)=\int _{x}^{\infty }{\frac {-1}{|z|{\sqrt {z^{2}-1}}}}\,\mathrm {d} z,\quad x>1}
+  
+Công thức trên cho phép mở rộng hàm lượng giác nghịch đảo ra cho các biến phức:
+
+  
+    
+      
+        arcsin
+        ⁡
+        (
+        z
+        )
+        =
+        −
+        i
+        log
+        ⁡
+        
+          (
+          i
+          
+            (
+            z
+            +
+            
+              
+                1
+                −
+                
+                  z
+                  
+                    2
+                  
+                
+              
+            
+            )
+          
+          )
+        
+      
+    
+    {\displaystyle \arcsin(z)=-i\log \left(i\left(z+{\sqrt {1-z^{2}}}\right)\right)}
+  
+
+  
+    
+      
+        arccos
+        ⁡
+        (
+        z
+        )
+        =
+        −
+        i
+        log
+        ⁡
+        
+          (
+          z
+          +
+          
+            
+              
+                z
+                
+                  2
+                
+              
+              −
+              1
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \arccos(z)=-i\log \left(z+{\sqrt {z^{2}-1}}\right)}
+  
+
+  
+    
+      
+        arctan
+        ⁡
+        (
+        z
+        )
+        =
+        
+          
+            i
+            2
+          
+        
+        log
+        ⁡
+        
+          (
+          
+            
+              
+                1
+                −
+                i
+                z
+              
+              
+                1
+                +
+                i
+                z
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \arctan(z)={\frac {i}{2}}\log \left({\frac {1-iz}{1+iz}}\right)}
+  
+
+
+== Một số đẳng thức ==
+Xem thêm Đẳng thức lượng giác
+Xem thêm Danh sách tích phân với hàm lượng giác, Danh sách tích phân với hàm lượng giác ngược
+
+  
+    
+      
+        sin
+        ⁡
+        
+          (
+          x
+          +
+          y
+          )
+        
+        =
+        sin
+        ⁡
+        x
+        cos
+        ⁡
+        y
+        +
+        cos
+        ⁡
+        x
+        sin
+        ⁡
+        y
+      
+    
+    {\displaystyle \sin \left(x+y\right)=\sin x\cos y+\cos x\sin y}
+  
+
+  
+    
+      
+        sin
+        ⁡
+        
+          (
+          x
+          −
+          y
+          )
+        
+        =
+        sin
+        ⁡
+        x
+        cos
+        ⁡
+        y
+        −
+        cos
+        ⁡
+        x
+        sin
+        ⁡
+        y
+      
+    
+    {\displaystyle \sin \left(x-y\right)=\sin x\cos y-\cos x\sin y}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        
+          (
+          x
+          +
+          y
+          )
+        
+        =
+        cos
+        ⁡
+        x
+        cos
+        ⁡
+        y
+        −
+        sin
+        ⁡
+        x
+        sin
+        ⁡
+        y
+      
+    
+    {\displaystyle \cos \left(x+y\right)=\cos x\cos y-\sin x\sin y}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        
+          (
+          x
+          −
+          y
+          )
+        
+        =
+        cos
+        ⁡
+        x
+        cos
+        ⁡
+        y
+        +
+        sin
+        ⁡
+        x
+        sin
+        ⁡
+        y
+      
+    
+    {\displaystyle \cos \left(x-y\right)=\cos x\cos y+\sin x\sin y}
+  
+
+  
+    
+      
+        sin
+        ⁡
+        x
+        +
+        sin
+        ⁡
+        y
+        =
+        2
+        sin
+        ⁡
+        
+          (
+          
+            
+              
+                x
+                +
+                y
+              
+              2
+            
+          
+          )
+        
+        cos
+        ⁡
+        
+          (
+          
+            
+              
+                x
+                −
+                y
+              
+              2
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \sin x+\sin y=2\sin \left({\frac {x+y}{2}}\right)\cos \left({\frac {x-y}{2}}\right)}
+  
+
+  
+    
+      
+        sin
+        ⁡
+        x
+        −
+        sin
+        ⁡
+        y
+        =
+        2
+        cos
+        ⁡
+        
+          (
+          
+            
+              
+                x
+                +
+                y
+              
+              2
+            
+          
+          )
+        
+        sin
+        ⁡
+        
+          (
+          
+            
+              
+                x
+                −
+                y
+              
+              2
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \sin x-\sin y=2\cos \left({\frac {x+y}{2}}\right)\sin \left({\frac {x-y}{2}}\right)}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        x
+        +
+        cos
+        ⁡
+        y
+        =
+        2
+        cos
+        ⁡
+        
+          (
+          
+            
+              
+                x
+                +
+                y
+              
+              2
+            
+          
+          )
+        
+        cos
+        ⁡
+        
+          (
+          
+            
+              
+                x
+                −
+                y
+              
+              2
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \cos x+\cos y=2\cos \left({\frac {x+y}{2}}\right)\cos \left({\frac {x-y}{2}}\right)}
+  
+
+  
+    
+      
+        cos
+        ⁡
+        x
+        −
+        cos
+        ⁡
+        y
+        =
+        −
+        2
+        sin
+        ⁡
+        
+          (
+          
+            
+              
+                x
+                +
+                y
+              
+              2
+            
+          
+          )
+        
+        sin
+        ⁡
+        
+          (
+          
+            
+              
+                x
+                −
+                y
+              
+              2
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \cos x-\cos y=-2\sin \left({\frac {x+y}{2}}\right)\sin \left({\frac {x-y}{2}}\right)}
+  
+
+  
+    
+      
+        tan
+        ⁡
+        x
+        +
+        tan
+        ⁡
+        y
+        =
+        
+          
+            
+              sin
+              ⁡
+              
+                (
+                x
+                +
+                y
+                )
+              
+            
+            
+              cos
+              ⁡
+              x
+              cos
+              ⁡
+              y
+            
+          
+        
+      
+    
+    {\displaystyle \tan x+\tan y={\frac {\sin \left(x+y\right)}{\cos x\cos y}}}
+  
+
+  
+    
+      
+        tan
+        ⁡
+        x
+        −
+        tan
+        ⁡
+        y
+        =
+        
+          
+            
+              sin
+              ⁡
+              
+                (
+                x
+                −
+                y
+                )
+              
+            
+            
+              cos
+              ⁡
+              x
+              cos
+              ⁡
+              y
+            
+          
+        
+      
+    
+    {\displaystyle \tan x-\tan y={\frac {\sin \left(x-y\right)}{\cos x\cos y}}}
+  
+
+  
+    
+      
+        cot
+        ⁡
+        x
+        +
+        cot
+        ⁡
+        y
+        =
+        
+          
+            
+              sin
+              ⁡
+              
+                (
+                x
+                +
+                y
+                )
+              
+            
+            
+              sin
+              ⁡
+              x
+              sin
+              ⁡
+              y
+            
+          
+        
+      
+    
+    {\displaystyle \cot x+\cot y={\frac {\sin \left(x+y\right)}{\sin x\sin y}}}
+  
+
+  
+    
+      
+        cot
+        ⁡
+        x
+        −
+        cot
+        ⁡
+        y
+        =
+        
+          
+            
+              −
+              sin
+              ⁡
+              
+                (
+                x
+                −
+                y
+                )
+              
+            
+            
+              sin
+              ⁡
+              x
+              sin
+              ⁡
+              y
+            
+          
+        
+      
+    
+    {\displaystyle \cot x-\cot y={\frac {-\sin \left(x-y\right)}{\sin x\sin y}}}
+  
+
+
+== Xem thêm ==
+Lượng giác
+Hàm lượng giác
+
+
+== Chú thích ==
+
+
+== Tham khảo ==

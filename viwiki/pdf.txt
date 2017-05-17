@@ -1,0 +1,26 @@
+PDF (viết tắt từ tên tiếng Anh Portable Document Format, Định dạng Tài liệu Di động) là một định dạng tập tin văn bản khá phổ biển của hãng Adobe Systems. Tương tự như định dạng Word (.doc), PDF hỗ trợ văn bản thô (text) cùng với phông chữ, hình ảnh đồ họa, âm thanh và nhiều hiệu ứng khác. Tuy nhiên, việc hiển thị văn bản PDF không phụ thuộc vào môi trường làm việc của người sử dụng (cấu hình máy, phần mềm và hệ điều hành). Không như văn bản Word, một văn bản PDF, trong hầu hết các trường hợp, sẽ được hiển thị giống nhau trên những môi trường làm việc khác nhau. Chính vì ưu điểm này, định dạng PDF đã trở nên phổ biển cho việc phát hành sách, báo hay các tài liệu khác qua mạng Internet.
+Để đọc được tập tin PDF trên máy vi tính, bạn phải có một phần mềm hỗ trợ định dạng này. Phần mềm phổ biến hiện nay là Adobe Reader hay Foxit Reader.
+
+
+== Lịch sử ==
+Việc phổ biến định dạng PDF trong thời gian đầu tương đối chậm . Những phiên bản đầu tiên của PDF không hỗ trợ siêu liên kết bên ngoài, làm giảm tính hữu dụng của nó trên web. Kích thước tập tin tăng lên so với văn bản thuần cũng có nghĩa là thời gian để tải xuống một tài liệu PDF sẽ lâu hơn, đây cũng là một vấn đề với những modem chậm thời đó.
+Adobe sớm cung cấp miễn phí chương trình Acrobat Reader (bây giờ là Adobe Reader) và tiếp tục hỗ trợ định dạng PDF nguyên mẫu. Cuối cùng PDF trở thành định dạng chuẩn cho những tài liệu in được trên web.
+Định dạng PDF được thay đổi nhiều lần khác nhau và hiện tại vẫn tiếp tục được phát triển. Dưới đây là chín phiên bản ứng với các phiên bản của Acrobat.
+(1993) – PDF 1.0 / Acrobat 1.0
+(1994) – PDF 1.1 / Acrobat 2.0
+(1996) – PDF 1.2 / Acrobat 3.0
+(1999) – PDF 1.3 / Acrobat 4.0
+(2001) – PDF 1.4 / Acrobat 5.0
+(2003) – PDF 1.5 / Acrobat 6.0
+(2005) – PDF 1.6 / Acrobat 7.0
+(2006) – PDF 1.7 / Acrobat 8.0
+(2008) – PDF 1.7, Adobe Extension Level 3 / Acrobat 9.0
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+PDF Association - The PDF Association is the industry association for software developers producing or processing PDF files.
+Adobe PDF 101: Summary of PDF
+Adobe: PostScript vs. PDF – Official introductory comparison of PS, EPS vs. PDF.

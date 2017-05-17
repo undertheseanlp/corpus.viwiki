@@ -1,0 +1,34 @@
+Máy in laser (đọc là máy in la-de) là một loại máy in thông dụng có khả năng in rất nhanh các văn bản có chất lượng cao trên giấy trắng. Cùng với máy photocopy kỹ thuật số và máy in đa chức năng (Multifunctionprinters = MFPs), máy in thực thi một quá trình in xerographic nhưng khác với máy photocopy tỷ biến ở chỗ hình ảnh trên giấy được in bằng việc quét trực tiếp các chùm tia la-de hướng sang thụ quan ánh sáng của máy.
+
+
+== Cấu tạo ==
+1. Nguồn laser.
+2.Hộp mực.
+3.Gương quét đa giác.
+4.Trống in.
+5.Trục sấy
+
+
+== Nguyên tắc hoạt động ==
+- Là một trong những máy in tĩnh điện gián tiếp.
+- Phần quan trọng nhất của máy in laser là trống cảm quang được phủ một lớp phim hợp chất selen nhạy sáng có đặc điểm là trong bóng tối nó có điện trở rất cao và hoạt động như một tụ điện.
+- Trống được tích điện cao thế khi lăn qua dây tích điện.
+
+
+=== Hoạt động ===
+Tia laser được quét lên trống cảm quang qua gương đa giác quay liên tục-> tia laser lần lượt quét lên bề mặt trống.(Tia này có cường độ mạnh hay yếu tùy thuộc vào độ đậm nhạt của từng điểm ảnh và nó chiếu lên bề mặt trống làm giảm điện trở của lớp phim trên đó).
+Tại những vị trí khác nhau tia laser chiếu có cường độ khác nhau -> có điện trở khác nhau -> khi lăn qua dây tích điện cao thế sẽ có điện tích lớn nhỏ khác nhau.
+Những vị trí điện tích thấp (~0) thì không hút mực,còn những vị trí có điện tích cao sẽ hút mực.
+Lượng mực nhiều hay ít tùy vào cường độ của điểm tích điện khi trống lăn qua hộp mực tạo nên nội dung của trang cần in.
+Khi giấy lăn qua trống, nội dung của trang cần in được truyền lên giấy.
+Bột mực được nấu chảy khi tờ giấy đi qua trục sấy. Nhiệt độ của trục sấy khoảng 260oC và cùng với lực ép của trục sấy mực in nóng chảy sẽ được ấn chặt lên giấy.
+Máy in laser màu có nguyên tắc làm việc tương tự như máy in laser đen trắng, chỉ khác là thay vì có hộp mực cho các màu cơ bản: đen, vàng, Magenta và Cyan, phối hợp các màu này sẽ cho phép in màu thần kì.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Is Your Printer Spying On You? (by EFF)
+Detailed description, modelling and simulation of the electrophotographic print process (technical; 7.2MB)
+Những điều cần biết khi muốn mua máy in laser màu

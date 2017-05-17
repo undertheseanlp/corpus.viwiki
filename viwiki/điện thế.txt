@@ -1,0 +1,123 @@
+Trong điện học, điện thế là trường thế vô hướng của điện trường; tức là gradien của điện thế là vectơ ngược hướng và cùng độ lớn với điện trường.
+Cũng như mọi trường thế vô hướng, điện thế có giá trị tùy theo quy ước điện thế của điểm lấy mốc. Trong kỹ thuật điện và điện tử học, khái niệm hiệu điện thế hay điện áp thường được dùng khi so sánh điện thế giữa hai điểm, hoặc nói về điện thế của một điểm khi lấy điểm kia là mốc có điện thế bằng 1.
+Như mọi trường vectơ có dạng tỷ lệ nghịch với bình phương khoảng cách (ví dụ lực hấp dẫn), trường véctơ cường độ điện trường là một trường vectơ bảo toàn. Điều này nghĩa là mọi tích phân đường của vectơ cường độ điện trường E từ vị trí r0 đến r:
+
+  
+    
+      
+        
+          ∫
+          
+            
+              
+                r
+              
+              
+                0
+              
+            
+          
+          
+            
+              r
+            
+          
+        
+        
+          E
+        
+        ⋅
+        d
+        
+          
+            r
+          
+          ′
+        
+      
+    
+    {\displaystyle \int _{\mathbf {r} _{0}}^{\mathbf {r} }\mathbf {E} \cdot d\mathbf {r} '}
+  
+Đều có giá trị không phụ thuộc vào đường đi cụ thể từ r0 đến r.
+Như vậy tại mỗi điểm r đều có thể đặt giá trị gọi là điện thế:
+
+  
+    
+      
+        ϕ
+        (
+        
+          r
+        
+        )
+        =
+        ϕ
+        (
+        
+          
+            r
+          
+          
+            0
+          
+        
+        )
+        +
+        
+          ∫
+          
+            
+              
+                r
+              
+              
+                0
+              
+            
+          
+          
+            
+              r
+            
+          
+        
+        
+          E
+        
+        ⋅
+        d
+        
+          
+            r
+          
+          ′
+        
+      
+    
+    {\displaystyle \phi (\mathbf {r} )=\phi (\mathbf {r} _{0})+\int _{\mathbf {r} _{0}}^{\mathbf {r} }\mathbf {E} \cdot d\mathbf {r} '}
+  
+Với Φ(r0) là giá trị điện thế quy ước ở mốc r0.
+Trong hệ đo lường quốc tế, điện thế
+
+đo bằng Volt (viết tắt là V).
+
+
+== Phân loại ==
+Việc phân loại hiệu điện thế phụ thuộc vào ứng dụng cụ thể và quy ước của từng quốc gia.
+Trong truyền tải điện công nghiệp ở Việt Nam, EVN quy ước:
+Nguồn điện lưới nhỏ hơn 1 kV là hạ thế
+Từ 1kV đến 66kV là trung thế
+Lớn hơn 66kV là cao thế
+Cụ thể theo , lưới truyền tải điện ở Việt Nam năm 1993 là:
+Cao thế có 4 mức: 66kV, 110kV, 220kV và 500kV
+Trung thế có 5 mức: 6kV, 10kV, 15kV, 22kV và 35 kV
+Hạ thế có 2 mức: 0,4kV và 0,2kV
+Trong mục tiêu đồng bộ lưới điện đến năm 2010, tại Việt Nam sẽ có:
+Cao thế có 4 mức: 66kV, 110kV, 220kV và 500kV
+Trung thế có 2 mức: 22kV và 35 kV
+Hạ thế có 1 mức: 0,4kV
+Theo , hành lang an toàn lưới điện ở Việt Nam có quy định lớn hơn 1000V là cao thế.
+Đối với đồ điện dân dụng, trong bóng hình tivi, điện thế 15-22kV được gọi là cao áp.
+
+
+== Tham khảo ==

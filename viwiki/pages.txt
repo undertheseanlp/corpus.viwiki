@@ -1,0 +1,14 @@
+Pages là một ứng dụng soạn thảo văn bản và thiết kế trang phát triển bởi Apple Inc., nằm trong bộ ứng dụng iWork chạy trên hệ điều hành OS X lẫn iOS. Phiên bản đầu tiên được công bố ngày 11/1/2005 và phát hành một tháng sau đó.
+Pages được Apple quảng cáo là một ứng dụng dễ thao tác cho phép người dùng soạn thảo văn bản một cách nhanh chóng.
+
+
+== Đặc trưng ==
+Là một ứng dụng soạn thảo và tạo trang gồm: hơn 140 phông mẫu; giao diện đơn giản chỉ gồm một thanh công cụ chứa toàn bộ thao tác trong chương trình; khả năng xử lý thuật toán cao cấp với Mac OS X's Grapher; chế độ "Toàn màn hình" cho phép người sử dụng tập trung dễ dàng vào văn bản; tương thích tốt với Numbers và Keynote;... Pages cho phép nhiều người làm việc trên văn bản và sẽ tô mỗi phần thay đổi của mỗi người bằng một màu khác nhau. Hoạt động kèm với iTunes, iMovie, iPhoto, Aperture, cho phép chèn nhạc, hình, phim trực tiếp vào văn bản.
+Pages có thể đọc các file.docx (Microsoft Word),.pdf,... và lưu lại với đuôi file tương tự.
+
+
+== Tính tương thích ==
+Cho tới 11/2012 thì Pages vẫn chỉ được xem như là phần mềm "nội bộ" của Apple vì chỉ có thể chạy trên OS X, không đọc được các file văn bản khác cũng như không thể được đọc bởi các phần mềm tương tự.
+
+
+== Tham khảo ==

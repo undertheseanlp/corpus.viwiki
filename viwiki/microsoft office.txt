@@ -1,0 +1,112 @@
+Microsoft Office là một bộ phần mềm văn phòng dành cho máy tính cá nhân, máy chủ và là các dịch vụ chạy trên hệ điều hành Microsoft Windows và Mac OS X. Office được giới thiệu lần đầu vào ngày 1 tháng 8 năm 1989, được tiếp thị như tên của một gói các ứng dụng, phiên bản đầu tiên bao gồm Microsoft Word, Microsoft Excel và Microsoft Powerpoint. Office hiện được hơn một tỷ người sử dụng trên thế giới. Phiên bản hiện tại là Office 365 dành cho Windows 10, được phát hành vào ngày 22 tháng 9 năm 2015 và Office 365 dành cho Mac OS X, phát hành vào ngày 9 tháng 7 năm 2015.
+
+
+== Lịch sử ==
+Năm 1995, Microsoft Office ra đời với phiên bản đầu tiên là Office 97.
+Vào năm 2000, ra mắt phiên bản Office 2000.
+Đến năm 2001,khi Windows XP ra mắt, Microsoft ra mắt phiên bản Microsoft Office XP.
+Năm 2003, ra mắt phiên bản Office 2003, giống phiên bản Office XP nhưng có những thay đổi đặc biệt phù hợp cho người dùng.
+Năm 2007, ra mắt phiên bản Office 2007, có sự thay đổi về giao diện lẫn tính năng phù hợp.
+Năm 2010, Office 2010 có thay đổi đặc biệt so với bản 2007 nên dễ sử dụng.
+Năm 2013 và năm 2016, bản Office 2013 và 2016 có những tính năng mới giúp sử dụng đơn giản, trực quan hơn. Hai phiên bản trên có giao diện đơn giản, nhưng có tương đồng về tính năng.
+
+
+== Các phiên bản ==
+
+
+=== Windows ===
+
+
+=== Mac OS ===
+
+
+== Các tiện ích ==
+
+
+=== Tiện ích Desktop ===
+
+
+====  ====
+
+
+===== Một số phiên bản =====
+
+
+===== Word =====
+
+Microsoft Word là một chương trình soạn thảo văn bản khá phổ biển hiện nay của công ty phần mềm nổi tiếng Microsoft. Nó cho phép người dùng làm việc với văn bản thô (text), các hiệu ứng như phông chữ, màu sắc, cùng với hình ảnh đồ họa (graphics) và nhiều hiệu ứng đa phương tiện khác (multimedia) như âm thanh, video khiến cho việc soạn thảo văn bản được thuận tiện hơn.
+Microsoft Word còn có phiên bản dành cho các hệ điều hành khác như Mac OS hay OS/2.
+
+
+==== Excel ====
+
+Microsoft Excel là chương trình xử lý bảng tính nằm trong bộ Microsoft Office của hãng phần mềm Microsoft.
+Trước đây, Microsoft đã giới thiệu một phần mềm bảng tính được gọi là Multiplan vào năm 1982, phần mềm rất được phổ biến trên hệ điều hành CP/M, nhưng trên MS-DOS thì nó đã không còn được như vậy. Điều đó đã thúc đẩy sự phát triển 1 chương trình bảng tính mới mang tên Excel với khẩu hiệu "'do everything 1-2-3 does and do it better'". Phiên bản đầu tiên của Excel được phát hành lần đầu tiên trên máy MAC năm 1985 và trên Windows (đánh số 2.0 xếp ngang hành với MAC và được tích hợp với môi trường run-time của windows) vào tháng 11 năm 1987. Lotus đã quá chậm trong việc phát hành 1-2-3 cho Windows và cho đến cuối năm 1988, Excel bắt đầu bán được nhiều hơn so với 1-2-3 và giúp Microsoft đạt được vị trí hãng phát triển phần mềm hàng đầu. Trung bình cứ 2 năm Microsoft lại ra mắt phiên bản mới của Excel 1 lần hoặc lâu hơn. Phiên bản hiện thời là Excel 16 hay còn gọi là Microsoft Excel 2016.
+
+
+==== PowerPoint ====
+
+Microsoft PowerPoint là một chương trình trình diễn tập tin trong máy do hãng Microsoft phát triển. PowerPoint là một phần của gói ứng dụng văn phòng Microsoft Office.
+Không có PowerPoint 5.0, 6.0 hoặc 7.0 cho Mac. Sở dĩ không có phiên bản 5.0 hoặc 6.0 là vì Windows 95 ra đời cùng với Word 7.0. Tất cả các sản phẩm Office 95 đều có khả năng nhúng và liên kết đối tượng 2 — tức là tự động chuyển dữ liệu giữa các chương trình khác nhau — và PowerPoint 7.0 cùng thời với Word 7.0. Sở dĩ không có phiên bản 7.0 cho Mac để tương ứng với 7.0 cho Windows hoặc PowerPoint 97 .
+
+
+==== Khác ====
+Access
+Publisher
+InfoPath
+OneNote
+Outlook
+Project
+Visio
+Accounting
+Communicator
+Document Imaging
+Document Scanning
+Groove
+Interconnect
+Picture Manager
+
+
+=== In ấn ===
+Document Image Writer
+
+
+=== Máy chủ ===
+SharePoint Server
+Excel Services
+InfoPath Forms Services
+
+Communications Server
+Forms Server
+Groove Server
+Project Server
+Project Portfolio Server
+PerformancePoint Server
+
+
+=== Tiện ích web ===
+Microsoft Office Live
+Office Web Apps
+Microsoft Office Live Meeting
+Microsoft Office Online
+Microsoft Update
+
+
+== Yêu cầu phần cứng ==
+
+
+== Xem thêm ==
+Hệ điều hành
+Danh sách ứng dụng văn phòng
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Microsoft Office (for Windows)
+Microsoft Office 2008 (for Mac OS X)
+MSDN Office Developer Center
+Fluent interface of 2007 Office system
+Microsoft Office Converters and Viewers
+Tài liệu hướng dẫn

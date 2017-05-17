@@ -1,0 +1,14 @@
+Microsoft Word, còn được biết đến với tên khác là Winword, là một chương trình soạn thảo văn bản khá phổ biển hiện nay của công ty phần mềm nổi tiếng Microsoft. Nó cho phép người dùng làm việc với văn bản thô (text), các hiệu ứng như phông chữ, màu sắc, cùng với hình ảnh đồ họa (graphics) và nhiều hiệu ứng đa phương tiện (multimedia) khác như âm thanh, video khiến cho việc soạn thảo văn bản được thuận tiện hơn. Ngoài ra cũng có các công cụ như kiểm tra chính tả, ngữ pháp của nhiều ngôn ngữ khác nhau để hỗ trợ người sử dụng.
+Các phiên bản của Word thường lưu tên tập tin với đuôi là .doc, hay .docx đối với các phiên bản từ Word 2007 trở đi. Hầu hết các phiên bản của Word đều có thể mở được các tập tin văn bản thô (.txt) và cũng có thể làm việc với các định dạng khác, chẳng hạn như xử lý siêu văn bản (.html), thiết kế trang web.
+
+
+== Lịch sử phát triển ==
+Microsoft Word còn có phiên bản dành cho các hệ điều hành khác như Mac OS hay OS/2.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+ Phương tiện liên quan tới Microsoft Word tại Wikimedia Commons
+Website chính thức

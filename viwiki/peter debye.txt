@@ -1,0 +1,35 @@
+Peter Debye ForMemRS(tên đầy đủ: Peter Joseph William Debye (tiếng Hà Lan: Petrus Josephus Wilhelmus Debije); sinh ngày 24 tháng 3 năm 1884 - mất ngày 2 tháng 11 năm 1966 là nhà hóa học, vật lý và đoạt Giải Nobel hóa học người Hà Lan. Ông là viện sĩ của Viện Hàn lâm Giáo hoàng về Khoa học. Ông là đoạt Giải Nobel Hóa học năm 1936. Công trình khoa học giúp ông đoạt giải thưởng nổi tiếng này là nghiên cứu về momen lưỡng cực, sự khuếch tán của tia X và điện tử các chất khí. Ngoài ra, ông còn có những nghiên cứu về photon. Năm 1910, Peter Debye suy luận ra định luật Planck cho bức xạ vật đen từ một giả thiết tương đối đơn giản. Ông đã đúng khi phân tách trường điện từ trong một hốc thành những mode Fourier, và giả sử rằng năng lượng trong một mode bất kỳ là bội nguyên lần của 
+  
+    
+      
+        h
+        ν
+      
+    
+    {\displaystyle h\nu }
+  , với 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+   là tần số của mode điện từ. Định luật Planck cho bức xạ vật đen trở thành tổng hình học của các mode này. Tuy vậy, cách tiếp cận của Debye đã không suy luận ra được công thức đúng cho thăng giáng năng lượng của bức xạ vật đen, mà Einstein đã thu được từ năm 1909. Để tưởng nhớ tới ông, Giải Peter Debye đã được lập ra.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Debye Biography – Institute of Chemistry, Hebrew University
+Debye Biography – Nobel Prize
+Debye Biography – NNDB
+Debye Biography – IUCR
+Museum Boerhaave Negen Nederlandse Nobelprijswinnaars
+Deutsche Physikalische Gesellschaft (DPG)
+Kennislink
+Dr. Rispens research
+Debye Institute
+Oral History interview transcript with Peter Debye 3 & ngày 4 tháng 5 năm 1962, American Institute of Physics, Niels Bohr Library and Archives
+National Academy of Sciences Biographical Memoir

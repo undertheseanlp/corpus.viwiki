@@ -1,0 +1,38 @@
+Megabyte là một đơn vị thông tin hoặc dung lượng tin học bằng với 10002 byte hoặc 10242 byte, tùy vào ngữ cảnh. Trong vài trường hợp hiếm, nó dùng để chỉ 1000×1024 bytes. Megabyte thường được viết tắt là MB (không nhầm lẫn với Mb, dùng để chỉ megabit). Thuật ngữ này được đặt ra vào năm 1970.
+
+
+== Định nghĩa ==
+Thuật ngữ "megabyte" dễ nhầm lẫn vì nó thường được dùng để chỉ 10002 byte lẫn 10242 byte. Sự rắc rối này xuất phát từ sự thỏa hiệp của biệt ngữ kỹ thuật của các bội số của byte cho nhu cầu thể hiện các số ở dạng lũy thừa của 2 nhưng chưa có tên. Vì 1024 (210) gần bằng 1000 (103), những bội số SI tương ứng gần bằng số đó bắt đầu được sử dụng như bội số nhị phân "xấp xỉ". Vài năm trước, các tiêu chuẩn và cơ quan chính phủ bao gồm IEC, IEEE, EU, và NIST, đã nhắc đến sự nhập nhằng này bằng cách khuyến khích sử dụng megabyte để mô tả bằng đúng 10002 byte và "mebibyte" để mô tả 10242 byte. Sự thay thế này được phản ánh trong các dự án phần mềm ngày càng nhiều, nhưng phần lớn các chương trình quản lý tập tin vẫn biểu thị kích thước bằng "megabyte" ("MB").
+Thuật ngữ này vẫn còn nhập nhằng và nó có thể theo bất kỳ một trong các "định nghĩa" dưới đây:
+1.000.000 byte (10002, 106): Đây là định nghĩa được đề nghị bởi SI (Hệ thống đo lường quốc tế) và IEC. Định nghĩa này được dùng trong ngữ cảnh mạng máy tính và phần lớn đơn vị lưu trữ, cụ thể là ổ cứng, bộ nhớ flash, và DVD, và cũng đường dùng chính xác với những cách sử dụng khác của tiền tố SI trong tính toán, như Megahertz trong tốc độ xung CPU hay Đo lường hiệu suất.
+1.048.576 byte (10242, 220): Định nghĩa này được dùng khi đề cập đến bộ nhớ máy tính, nhưng phần lớn phần mềm hiển thị kích thước tập tin hoặc dung lượng đĩa, bao gồm chương trình quản lý tập tin cũng sử dụng định nghĩa này.
+1.024.000 byte (1000×1024): Định nghĩa này được dùng để mô tả dung lượng được định dạng của đĩa mềm "1,44 MB" 3,5 inch, thực ra có dung lượng 1,44 kKiB (kilo-kibibytes), tức là 1.440×1.024 byte, hay 1.474.560 byte.
+
+
+== Ví dụ về Megabyte ==
+Dựa trên những phương pháp nén và định dạng tập tin, một megabyte dữ liệu có thể bằng:
+1000×1000 điểm ảnh của ảnh bitmap với độ sâu màu 8 bit (1 byte).
+1 phút nhạc nén MP3 128 kilobit trên giây kbps kylobyte per second.
+5,7 giây của âm thanh CD không nén
+100 trang chỉ gồm ký tự khoảng trắng (space) ở phông chữ 12 trong OpenOffice.org
+1 quyển sách đặc trưng ở dạng chữ (500 trang × 2000 ký tự)
+3 giây phim ở chất lượng DVD
+
+
+== Xem thêm ==
+Tiền tố nhị phân
+kilobyte
+gigabyte
+mebibyte
+megabit
+orders of magnitude (data)
+
+
+== Liên kết ngoài ==
+Historical Notes About The Cost Of Hard Drive Storage Space
+the megabyte (established definition in Networking and Storage industries; from whatis.com)
+International Electrotechnical Commission definitions
+IEC prefixes and symbols for binary multiples
+
+
+== Tham khảo ==

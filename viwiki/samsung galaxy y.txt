@@ -1,0 +1,43 @@
+Samsung Galaxy Y (GT-S5360) là điện thoại thông minh Android của Samsung, công bố vào tháng 8 năm 2011. Tính năng chính của nó là kết nối 3G với tốc độ lên đến 7.2Mbit/s và Wifi.
+
+
+== Tính năng ==
+Galaxy Y sử dụng Android 2.3.5 Gingerbread OS với giao diện TouchWiz độc quyền từ Samsung, tích hợp sẵn các ứng dụng mạng xã hội và các tính năng đa phương tiện, bao gồm Google Voice Search, và kênh âm thanh cải tiến 5.1. Có một jack âm thanh chuẩn 3.5 mm 4-pin. Thiết bị sử dụng vi xử lý 832 MHz ARMv6, 290 MB bộ nhớ trong và hỗ trợ lên đến 32 GB lưu trữ ngoài thông qua thẻ nhớ microSD. Điện thoại có máy ảnh 2 MP, màn hình độ phân giải 240x320 đa chạm cùng với bàn phím tùy biến SWYPE. Điện thoại cung cấp tùy chọn kết nối như HSDPA 3G lên đến 7.2Mbit/s và kết nối Wifi. Chiếc điện thoại cũng cung cấp điều khiển từ xa cho phép khóa thiết bị, theo dõi và xóa dữ liệu từ xa.
+
+
+=== Bộ xử lý ===
+Galaxy Y sử dụng 832 MHz ARMv6 cùng với Broadcom VideoCore IV.
+
+
+=== Bộ nhớ ===
+Galaxy Y hỗ trợ 290 MB RAM và 190 MB bộ nhớ trong và thẻ microSDHC (lên đến 32 GB).
+
+
+=== Màn hình ===
+Galaxy Y sử dụng màn hình 76,2 milimét (3,00 in) QVGA (240*320) TFT LCD cảm ứng điện dung với mật độ điểm ảnh (PPI) là 133.
+
+
+=== Máy ảnh ===
+Đằng sau thiết bị là máy ảnh 2-megapixel fixed-focus không có flash có thể quay video độ phân giải tối đa QVGA. Galaxy Y không có máy trước.
+
+
+== Biến thể ==
+Thiết bị bao gồm bảy biến thể: S5360L, S5360B (Brazil), S5360T, S5363, S5367, S5368, và S5369. Sự khác nhau đó là băng thông, SAR levels, màu sắc, vỏ thiết kế, dịch vụ vận chuyển và thuế. S5360L (châu Mỹ La Tinh) hỗ trợ băng thông 850 và 1900 MHz UMTS. S5363 thường được xem là biến thể của nhà mạng được đổi tên. S5369 là bản khóa mạng ở thị trường Ý.
+S5367 là Galaxy Y TV, phát hành vào tháng 4 năm 2012. Nó là biến thể được phân biệt bằng thiết bị thu TV kĩ thuật số; một số tính năng khác bao gồm thẻ nhớ 2 GB MicroSD, hỗ trợ đa chạm, và máy ảnh 3.15 Mpix.
+
+
+== Xem thêm ==
+Samsung Galaxy (series)
+Samsung Galaxy Y Pro DUOS
+Samsung Galaxy Pocket
+
+
+== Them khảo ==
+
+
+== Liên kết ==
+Full phone specifications
+GSMArena page on Galaxy Y
+Google Play
+Android Website
+Features Galaxy Y

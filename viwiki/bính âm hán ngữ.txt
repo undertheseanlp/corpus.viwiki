@@ -1,0 +1,168 @@
+Phương án phát âm tiếng Hán (giản thể: 汉语拼音方案, phồn thể: 漢語拼音方案, Hán Việt: Hán ngữ bính âm phương án, bính âm: pīnyīn), nói tắt là bính âm hoặc phanh âm, là cách thức sử dụng chữ cái Latinh để thể hiện cách phát âm các chữ Hán trong tiếng phổ thông Trung Quốc, tác giả là Chu Hữu Quang. Bính âm được phê chuẩn năm 1958 và được thi hành năm 1979 tại Cộng hòa Nhân dân Trung Hoa. Nó đã thay thế các hệ thống Latinh hóa cũ hơn như Wade-Giles (1859, sửa đổi năm 1912) và Hệ thống phiên âm Bưu điện, và thay thế chú âm phù hiệu trong việc dạy cách đọc chữ Hán tại Trung Quốc đại lục.
+
+
+== Tổng quan ==
+Cho tới nay, bính âm Hán ngữ đã được sử dụng như một hệ thống chuyển tự Latinh chữ Hán trong việc dạy và học Hán ngữ tiêu chuẩn tại Singapore, Malaysia, CHND Trung Hoa, Trung Hoa Dân Quốc, Hồng Kông, Ma Cao. Năm 1979, Tổ chức tiêu chuẩn hoá quốc tế (ISO) đã chọn bính âm làm hệ thống Latinh hóa chuẩn cho Hán ngữ (ISO-7098:1991). Bính âm đã trở thành một công cụ hữu dụng trong việc học tiếng Trung Quốc.
+Vào cuối thập niên 1990, Trung Hoa Dân quốc (Đài Loan) đã lập ra bính âm thông dụng (通用拼音 tōngyòng pīnyīn, Hán Việt: "Thông dụng bính âm") dựa trên bính âm và có một số khác biệt so với phiên âm Hán ngữ. Hệ thống này được sử dụng chính thức tại Đài Loan. Từ ngày 1 tháng 1 năm 2009, bính âm Hán ngữ đã trở thành hệ chuyển tự Latinh tiếng Trung tiêu chuẩn của Đài Loan.
+
+
+== Bảng chữ cái ==
+Bính âm sử dụng 26 chữ cái Latinh. Trong đó chữ cái V chỉ dùng để phiên âm tiếng nước ngoài, tiếng dân tộc thiểu số và tiếng địa phương.
+
+
+== Nguyên âm ==
+Hệ thống ngữ âm Trung Quốc có 36 nguyên âm (vận mẫu), gồm 6 nguyên âm đơn, 13 nguyên âm kép, 16 nguyên âm mũi và 1 nguyên âm uốn lưỡi. Các nguyên âm này được thể hiện như sau trong bính âm.
+
+
+=== Nguyên âm đơn ===
+a: cách phát âm: mồm há to, lưỡi xuống thấp. Là nguyên âm dài, không tròn môi. Cách phát âm gần giống "a" trong tiếng Việt.
+o: cách phát âm: lưỡi rút về phía sau, gốc lưỡi nâng cao ở vị trí giữa, hai môi tròn và nhô ra một tí. Là nguyên âm dài, tròn môi. Cách phát âm hơi giống "ô" trong tiếng Việt.
+e: cách phát âm: lưỡi rút về phía sau, gốc lưỡi nâng cao ở vị trí giữa, mồm há vừa. Là nguyên âm dài, không tròn môi. Cách phát âm hơi giống "ơ" và "ưa" trong tiếng Việt.
+i: cách phát âm: đầu lưỡi dính với răng dưới, phía trước mặt lưỡi nâng sát ngạc cứng, hai môi giẹp, bành ra. Là nguyên âm dài, không tròn môi. Cách phát âm hơi giống "i" trong tiếng Việt.
+u: cách phát âm: gốc lưỡi nâng cao, lưỡi rút về phía sau, hai môi tròn, nhô ra trước. Là nguyên âm dài, tròn môi. Cách phát âm hơi giống "u" trong tiếng Việt.
+ü: cách phát âm: đầu lưỡi dính với răng dưới, phía trước mặt lưỡi nâng sát ngạc cứng, hai môi tròn, nhô ra trước. Là nguyên âm dài, tròn môi. Cách phát âm hơi giống "uy" trong tiếng Việt.
+
+
+=== Nguyên âm kép ===
+ai: cách phát âm: phát nguyên âm "a" trước, sau đó dần dần chuyển sang phát nguyên âm "i". Cách phát âm gần giống âm "ai" trong tiếng Việt.
+ei: cách phát âm: phát nguyên âm "e" trước, sau đó lập tức chuyển sang phát nguyên âm "i". Cách phát âm gần giống âm "ây" trong tiếng Việt.
+ao: cách phát âm: phát nguyên âm "a" trước, sau đó dần dần chuyển sang phát nguyên âm "o". Cách phát âm gần giống âm "ao" trong tiếng Việt.
+ou: cách phát âm: phát nguyên âm "o" trước, sau đó lập tức chuyển sang phát nguyên âm "u". Cách phát âm gần giống âm "âu" trong tiếng Việt.
+ia: cách phát âm: phát nguyên âm "i" trước, sau đó lập tức chuyển sang phát nguyên âm "a". Trong tiếng Việt không có âm tương tự nhưng phát âm hơi na ná âm "ia".
+ie: cách phát âm: phát nguyên âm "i" trước, sau đó lập tức chuyển sang phát nguyên âm "e". Cách phát âm gần giống âm "ia" trong tiếng Việt.
+ua: cách phát âm: phát nguyên âm "u" trước, sau đó lập tức chuyển sang phát nguyên âm "a". Cách phát âm gần giống âm "oa" trong tiếng Việt.
+uo: cách phát âm: phát nguyên âm "u" trước, sau đó dần dần chuyển sang phát nguyên âm "o". Cách phát âm gần giống âm "ua" trong tiếng Việt.
+üe: cách phát âm: phát nguyên âm "ü" trước, sau đó dần dần chuyển sang phát nguyên âm "e". Cách phát âm gần giống âm "uê" trong tiếng Việt.
+iao: cách phát âm: phát nguyên âm "i" trước, sau đó lập tức chuyển sang phát nguyên âm kép "ao". Cách phát âm gần giống âm "eo" trong tiếng Việt.
+iou: cách phát âm: phát nguyên âm "i" trước, sau đó lập tức chuyển sang phát nguyên âm kép "ou". Cách phát âm na ná âm "iêu" trong tiếng Việt.
+uai: cách phát âm: phát nguyên âm "u" trước, sau đó lập tức chuyển sang phát nguyên âm kép "ai". Cách phát âm gần giống âm "oai" trong tiếng Việt.
+uei: cách phát âm: phát nguyên âm "u" trước, sau đó lập tức chuyển sang phát nguyên âm kép "ei". Cách phát âm na ná âm "uây" trong tiếng Việt.
+
+
+=== Nguyên âm er ===
+Phát nguyên âm "e" trước, sau đó, lưỡi dần dần cuốn lên. "er" là một nguyên âm đặc biệt. "er" là một âm tiết riêng, không thể ghép với bất cứ nguyên âm và phụ âm nào. Chữ này tương đương với chữ "ai" trong tiếng Việt.
+
+
+=== Nguyên âm mũi ===
+an: phát nguyên âm a trước, sau đó, chuyển sang phát phụ âm n. cách phát âm gần giống "an" trong tiếng Việt.
+en: phát nguyên âm "e" trước, sau đó chuyển sang phát phụ âm "n". Cách phát âm gần giống âm "ơn" trong tiếng Việt.
+in: phát nguyên âm "i" trước, sau đó chuyển sang phát phụ âm "n". Cách phát âm gần giống âm "in" trong tiếng Việt
+ün: phát nguyên âm "ü" trước, sau đó chuyển sang phát phụ âm "n". Cách phát âm na ná âm "uyn" trong tiếng Việt.
+ian: phát nguyên âm "i" trước, sau đó chuyển sang phát nguyên âm mũi "an". Cách phát âm gần giống âm "iên" trong tiếng Việt.
+uan: phát nguyên âm "u" trước, sau đó chuyển sang phát nguyên âm mũi "an". Cách phát âm gần giống âm "oan" trong tiếng Việt.
+üan: phát nguyên âm "ü" trước, sau đó chuyển sang phát nguyên âm mũi "an". Cách phát âm gần giống âm "oen" trong tiếng Việt.
+uen (un): phát nguyên âm "u" trước, sau đó chuyển sang phát phụ âm "en". Cách phát âm gần giống âm "uân" trong tiếng Việt.
+ang: phát nguyên âm "a" trước, sau đó, chuyển sang phát âm "ng". Cách phát âm gần giống "ang" trong tiếng Việt.
+eng: phát nguyên âm "e" trước, sau đó, chuyển sang phát âm "ng". Cách phát âm gần giống "ơng" trong tiếng Việt.
+ing: phát nguyên âm "i" trước, sau đó, chuyển sang phát âm "ng". Cách phát âm gần giống "inh" trong tiếng Việt.
+ong: phát nguyên âm o trước, sau đó, chuyển sang phát âm "ng". Cách phát âm na ná "ung" trong tiếng Việt.
+iong: phát nguyên âm "i" trước, sau đó, chuyển sang phát nguyên âm mũi "ung". Cách phát âm giống với âm "ung" trong tiếng Việt.
+iang: phát nguyên âm "i" trước, sau đó, chuyển sang phát nguyên âm mũi "ang". Cách phát âm gần giống "eng" trong tiếng Việt.
+uang: phát nguyên âm "u" trước, sau đó, chuyển sang phát nguyên âm mũi "ang". Cách phát âm gần giống "oang" trong tiếng Việt.
+ueng: phát nguyên âm "u" trước, sau đó, chuyển sang phát nguyên âm mũi "eng". Cách phát âm na ná "uâng" trong tiếng Việt.
+
+
+=== Âm ng ===
+Cách đọc như sau: gốc lưỡi nâng cao, dính chặt vào ngạc mềm, lưỡi con rủ xuống, không khí từ hang mũi toát ra. Cách phát âm gần giống "ng" trong tiếng Việt. "ng" chỉ có thể đứng sau nguyên âm mà không thể đứng trước nguyên âm như tiếng Việt.
+
+
+== Phụ âm ==
+Hệ thống ngữ âm Trung Quốc có 21 phụ âm (thanh mẫu), trong đó có 18 phụ âm đơn, 3 phụ âm kép, trong phụ âm đơn có một phụ âm uốn lưỡi:
+b: là âm môi môi. Cách phát âm: hai môi dính tự nhiên, sau đó tách ra, luồng không khí từ hang mồm thoát ra. Là một âm tắc, vô thanh, không bật hơi. Cách phát âm gần giống "p" trong tiếng Việt.
+p: là âm môi môi. Cách phát âm: hai môi dính tự nhiên, sau đó tách ra, luồng không khí từ hang mồm thoát ra. Là một âm tắc, vô thanh, có bật hơi. Trong tiếng Việt không có âm tương tự. Cách phát âm nhẹ hơn âm "p" nhưng nặng hơn âm "b" của tiếng Việt.
+m: là âm môi môi. Cách phát âm: hai môi dính tự nhiên, luồng không khí từ hang mồm thoát ra. Là một âm mũi, hữu thanh. Cách phát âm gần giống "m" trong tiếng Việt.
+f: là âm môi răng. Cách phát âm: môi dưới dính nhẹ với răng trên, luồng không khí từ khe giữa răng và môi thoát ra. Là một âm xát, vô thanh. Cách phát âm gần giống "ph" trong tiếng Việt.
+d: là âm đầu lưỡi giữa. Cách phát âm: đầu lưỡi dính vào lợi trên, hình thành trở ngại, sao đó bỗng hạ thấp, luồng không khí từ hang mồm thoát ra. Là một âm tắc, vô thanh, không bật hơi. Cách phát âm gần giống "t" trong tiếng Việt.
+t: là âm đầu lưỡi giữa. Cách phát âm: đầu lưỡi dính vào lợi trên, hình thành trở ngại, sao đó bỗng hạ thấp, luồng không khí từ hang mồm thoát ra. Là một âm tắc, vô thanh, có bật hơi. Cách phát âm gần giống "th" trong tiếng Việt.
+n: là âm đầu lưỡi giữa. Cách phát âm: đầu lưỡi dính vào lợi trên, hình thành trở ngại, luồng không khí từ hang mũi thoát ra. Là một âm mũi, hữu thanh. Cách phát âm gần giống "n" trong tiếng Việt.
+l: là âm đầu lưỡi giữa. Cách phát âm: đầu lưỡi dính vào lợi trên, luồng không khí từ hai mép lưỡi thoát ra. Là một âm biên, hữu thanh. Cách phát âm gần giống "l" trong tiếng Việt.
+g: là âm gốc lưỡi. Cách phát âm: gốc lưỡi áp vào ngạc mềm, hình thành trở ngại, sau đó bỗng tách ra, luồng không khí từ hang mồm thoát ra. Là một âm tắc, vô thanh, không bật hơi. Cách phát âm gần giống "c", "k" trong tiếng Việt.
+k: là âm gốc lưỡi. Cách phát âm: gốc lưỡi áp vào ngạc mềm, hình thành trở ngại, sau đó bỗng tách ra, luồng không khí từ hang mồm thoát ra. Là một âm tắc, vô thanh, có bật hơi. Cách phát âm gần giống "kh" trong tiếng Việt.
+h: là âm gốc lưỡi. Cách phát âm: gốc lưỡi nâng cao, nhưng không áp vào ngạc mềm, hình thành trở ngại, luồng không khí từ giữa thoát ra. Là một âm xát, vô thanh. Cách phát âm gần giống "h" trong tiếng Việt.
+j: là âm mặt lưỡi. Cách phát âm: mặt lưỡi áp nhẹ vào ngạc cứng, sau đó tách ra, luồng không khí từ giữa thoát ra. Là một âm bán tắc, vô thanh, không bật hơi. Cách phát âm gần giống "ch" trong tiếng Việt.
+q: là âm mặt lưỡi. Cách phát âm: mặt lưỡi áp nhẹ vào ngạc cứng, sau đó tách ra, luồng không khí từ giữa thoát ra. Là một âm bán tắc, vô thanh, có bật hơi. Cách phát âm khá giống với âm sch trong tiếng Đức hoặc đọc như "sờ chờ" trong tiếng Việt.
+x: là âm mặt lưỡi. Cách phát âm: mặt lưỡi nâng cao sát ngạc cứng, luồng không khí từ giữa thoát ra. Là một âm xát, vô thanh. Cách phát âm gần giống "x" trong tiếng Việt.
+z: là âm đầu lưỡi trước. Cách phát âm: đầu lưỡi áp vào lợi trên, sau đó tách ra một tí, luồng không khí từ giữa thoát ra. Là một âm bán tắc, vô thanh, không bật hơi. Cách phát âm na ná "ch" trong tiếng Việt.
+c: là âm đầu lưỡi trước. Cách phát âm: đầu lưỡi áp vào lợi trên, sau đó tách ra một tí, luồng không khí từ giữa thoát ra. Là một âm bán tắc, vô thanh, có bật hơi. Cách đọc như chữ "x" ở một số vùng miền.
+s: là âm đầu lưỡi trước. Cách phát âm: đầu lưỡi nâng sát lợi trên, luồng không khí từ giữa thoát ra. Là một âm xát, vô thanh. Cách phát âm hơi giống "x" trong tiếng Việt.
+r: là âm đầu lưỡi sau. Cách phát âm: đầu lưỡi nâng sát ngạc cứng trước, luồng không khí thoát ra mồm thoe một đường nhỏ và hẹp. Là một âm xát, hữu thanh, lúc phát âm phải uốn lưỡi. Cách phát âm hơi giống "r" trong tiếng Việt.
+zh: là phụ âm kép. Là âm đầu lưỡi sau. Cách phát âm: đầu lưỡi áp vào ngạc cứng trước, sau đó tách ra một tí, luồng không khí thoát ra hang mồm. Là một âm bán tắc, vô thanh, không bật hơi, lúc phát âm phải uốn lưỡi. Cách phát âm hơi giống "tr" trong tiếng Việt.
+ch: là phụ âm kép. Là âm đầu lưỡi sau. Cách phát âm: đầu lưỡi áp vào ngạc cứng trước, sau đó tách ra một tí, luồng không khí thoát ra hang mồm. Là một âm bán tắc, vô thanh, có bật hơi, lúc phát âm phải uốn lưỡi. Cách phát âm như âm "xờ chờ" trong tiếng Việt.
+sh: là phụ âm kép. Là âm đầu lưỡi sau. Cách phát âm: đầu lưỡi áp vào ngạc cứng trước, luồng không khí thoát ra mồm theo một đường nhỏ và hẹp. Là một âm xát, vô thanh, lúc phát âm phải uốn lưỡi. Cách phát âm hơi giống "s" trong tiếng Việt.
+
+
+== Dấu thanh ==
+
+
+=== Ký hiệu dấu thanh ===
+Hệ thống ngữ âm tiếng Trung phổ thông có 4 thanh điệu cơ bản. Trong bính âm, các thanh điệu này được ký hiệu là:
+Thanh thứ nhất: cũng gọi là "âm bình", là thanh cao, rất đều. Gần giống thanh "ngang" trong tiếng Việt. Ký hiệu trong bính âm là "¯". Trong chú âm, thanh "ngang" lại không có ký hiệu.
+Thanh thứ hai: cũng gọi là "dương bình", là thanh cao, đều, từ thấp lên cao. Gần giống thanh "sắc" trong tiếng Việt. Ký hiệu trong bính âm là "´".
+Thanh thứ ba: cũng gọi là "thượng thanh", là thanh thấp, xuống thấp lại lên cao. Gần giống thanh "hỏi" trong tiếng Việt. Ký hiệu trong bính âm là "ˇ".
+Thanh thứ tư: cũng gọi là "khứ thanh", là thanh từ cao xuống thấp. Ngắn và nặng hơn thanh "huyền", dài và nhẹ hơn thanh "nặng" trong tiếng Việt. Ký hiệu trong bính âm là "ˋ".
+Ngoài ra còn một thanh nữa, gọi là thanh "nhẹ" (輕聲, khinh thanh). Thanh này chỉ dùng khi muốn làm nhẹ một âm phía trước. Trong bính âm, thanh nhẹ không có ký hiệu, nhưng trong chú âm thì nó được ký hiệu là "." (dấu khuyên nhỏ).
+
+
+=== Cách đánh dấu thanh ===
+Dấu 4 thanh điệu trong hệ thống bính âm phải đánh trên nguyên âm chủ yếu của một âm tiết (tức là một chữ):
+Cách đánh dấu của nguyên âm đơn: dấu trực tiếp đánh trên nguyên âm đơn:
+
+"a": dấu trực tiếp đánh trên nguyên âm "a"
+"o": dấu trực tiếp đánh trên nguyên âm "o"
+"e": dấu trực tiếp đánh trên nguyên âm "e"
+"i": dấu trực tiếp đánh trên nguyên âm "i"
+"u": dấu trực tiếp đánh trên nguyên âm "u", "ü": dấu trực tiếp đánh trên nguyên âm "ü"
+
+Cách đánh dấu của nguyên âm kép và nguyên âm mũi:
+nếu trong nguyên âm kép hoặc nguyên âm mũi có nguyên âm đơn "a", thì dấu đánh trên nguyên âm "a". Ví dụ: "ai", "ao", "an", "ang", dấu đánh trên nguyên âm "a".
+Nếu trong nguyên âm kép hoặc nguyên âm mũi không có nguyên âm đơn "a", thì dấu đánh trên nguyên âm "o". Ví dụ: "ou", "ong", "iou", "iong", "uo", dấu đánh trên nguyên âm "o".
+Nếu trong nguyên âm kép hoặc nguyên âm mũi không có nguyên âm đơn "a", thì dấu đánh trên nguyên âm "e". Ví dụ: "ei", "en", "eng", "ie", "uei", "uen", "ueng", "üe", dấu đánh trên nguyên âm "e".
+Nguyên âm kép "iu", dấu đánh trên nguyên âm "u".
+Nguyên âm kép "ui", dấu đánh trên nguyên âm "i", dấu chấm trên nguyên âm "i" phải bỏ đi.
+
+
+== Quy tắc viết chữ ==
+Các nguyên âm "ü", "üe", "üan", "ün", khi ghép với các phụ âm "j", "q", "x" lúc viết phải bỏ hai dấu chấm trên nguyên âm "ü". Ví dụ: ju jue juan jun qu que quan qun xu xue xuan xun.
+Các nguyên âm "ü". "üe", khi ghép với phụ âm "l", "n", lúc viết hai dấu chấm trên nguyên âm "ü" phải giữ nguyên. Ví dụ: nü, nüe, lü, lüe.
+Nếu trước nguyên âm "u" không ghép với phụ âm, lúc viết phải thêm bán nguyên âm "w" ở phía trước:u-wu.
+Các nguyên âm "ua", "uo", "uai", "uei", "uan", "uen", "uang", "ueng", nếu phía trước không ghép với phụ âm khi viết bỏ chữ "u" ở phía trước, thay bằng bán nguyên âm "w". Ví dụ: ua - wa, uo - wo, uai - wai, uei - wei, uan - wan, uen - wen, uang - wang ueng - weng.
+Nguyên âm "ü" chỉ có thể ghép với 5 phụ âm "n", "l", "j", "q", "x".
+Nguyên âm "iou", nếu phía trước ghép với phụ âm, lúc viết phải bỏ "o" ở giữa. Ví dụ: qiū, niú, jiú, liù.
+Các nguyên âm: "i", "in", "ing", nếu phía trước không ghép với phụ âm, lúc viết phải thêm bán nguyên âm "y" ở trước, ví dụ:i - yi, in - yin, ing - ying.
+Các nguyên âm "ia", "ie", "iao", "iou", "ian", "iang", "iong", nếu phía trước không ghép với phụ âm, lúc viết phải thay nguyên âm "i" bằng chữ cái "y", ví dụ: ia - ya, ie - ye, iao - yao, iou - you, ian - yan, iang - yang, iong - yong.
+Các nguyên âm "uei". "uen" nếu phía trước ghép với phụ âm, lúc viết phải bỏ "e" ở giữa đi. Ví dụ: ruì, lún, dùn.
+Các âm tiết có nguyên âm "a", "o", "i" đứng đầu, khi đặt phía sau âm tiết khác, nếu xuất hiện hiện tượng ranh giới giữa hai âm tiết bị lẫn lộn phải dùng dấu cách âm (') tách ra. Ví dụ;
+
++) píng'ān (平安), có nghĩa là bình an, từ này có hai âm tiết, âm tiết sau có nguyên âm "a" đứng đầu nếu không dùng dấu cách âm tách ra có khi đọc thành "pín gān" không có nghĩa gì.
++) jiāo'ao (驕傲) có nghĩa là kiêu ngạo, từ này có hai âm tiết, âm tiết sau có nguyêm âm "a" đứng đầu, nếu không dùng dấu cách âm tách ra thì rất khó đọc.
+
+Những danh từ riêng như tên người, địa danh, cơ quan, đoàn thể, đảng phái... chữ cái đầu phải viết hoa. Chữ cái đứng đầu mỗi câu, mỗi đoạn phải viết hoa.
+
+
+== Cách ngắt chữ ==
+Tiếng Hán là ngôn ngữ đơn âm tiết, vì thế quy tắc cơ bản để ngắt chữ trong bính âm Hán ngữ là ngắt sau mỗi từ đơn. Trong trường hợp các danh từ cố hữu được tạo nên từ nhiều từ đơn thì hết cả danh từ mới ngắt.
+
+
+== Gõ trên máy tính ==
+Do bính âm Hán ngữ dùng ký tự latinh, nên vấn đề khó khăn chỉ là thể hiện được thanh điệu. Đối với các văn bản dạng html, có thể gõ ra các ký hiệu thanh điệu với UTF-8 trong Unicode hoặc với GB2312 của Trung Quốc. Trong các trường hợp khác, người ta phải dùng con số để thể hiện thanh điệu. Ví dụ: để gõ bính âm của câu 我是越南人 (Tôi là người Việt Nam), nếu không gõ được Wǒ shì Yuènánrén, thì có thể gõ Wo3 shi4 Yue4nan2ren2.
+
+
+== Xem thêm ==
+Phiên âm Hán Việt
+Phiên thiết Hán Việt
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+Trương Văn Giới, Lê Khắc Kiều Lục, 301 câu đàm thoại tiếng Hoa
+Tân Hán ngữ giáo trình
+Bính âm Hán ngữ
+
+
+== Liên kết ngoài ==
+Chuyển đổi online chữ Hán sang bính âm
+Chuyển đổi online bính âm thể hiện thanh điệu bằng số sang bính âm thể hiện thanh điệu bằng dấu.
+New Edition Hanyu Pinyin Syllable Table
+Phần mềm chuyển đổi chữ Hán sang bính âm

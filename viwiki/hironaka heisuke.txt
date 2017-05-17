@@ -1,0 +1,38 @@
+Hironaka Heisuke (広中 平祐 (Quảng Trung Bình Hữu), Hironaka Heisuke sinh 9 tháng 4 năm 1931) là nhà toán học Nhật Bản.Ông từng thất bại trong kỳ thi tuyển sinh vào Đại học Hiroshima, nhưng một năm sau ông đã trúng tuyển vào trường Đại học Kyoto. Sau khi tốt nghiệp Đại học Kyoto, ông làm luận án tiến sĩ ở Đại học Harvard dưới sự hướng dẫn của giáo sư Oscar Zariski.
+Ông được trao Huy chương Fields năm 1970. Ông được trao giải này vì năm 1964 ông đã chứng minh được các điểm kì dị của một đa tạp đại số trên trường đặc số 0 đều giải được. Có nghĩa là bất kì đa tạp đại số nào cũng có thể thay thế bởi một đa tạp tương đương không chứa điểm kì dị.
+Hironaka là giáo sư nhiều năm tại Đại học Harvard và tại các trường đại học Nhật Bản. Ông cũng là giáo sư trường Đại học quốc gia Seoul ở Hàn Quốc. Ông đã từng gây quỹ cho việc giáo dục toán học.
+Hironaka lập gia đình với bà Hironaka Wakako, một chính trị gia và họ có hai người con.
+
+
+== Các sách được dịch ra tiếng Anh ==
+Formal functions and formal imbeddings / by Heisuke Hironaka and Hideyuki Matsumura (1967)
+On the characters 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+   and 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+   of singularities / by Heisuke Hironaka
+Introduction to the theory of infinitely near singular points / Heisuke Hironaka (1974)
+The theory of the maximal contact / José M. Aroca, Heisuke Hironaka and José L. Vicente (1975)
+Desingularization theorems / Jose M. Aroca, Heisuke Hironaka and Jose L. Vicente (1977)
+Geometric singularity theory / editors of the volume, Heisuke Hironaka, Stanisław Janeczko (2004)
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Hironaka Heisuke tại Mathematics Genealogy Project
+O'Connor, John J.; Robertson, Edmund F., “Hironaka Heisuke”, Bộ lưu trữ lịch sử toán học MacTutor 
+Jackson, Allyn; Phỏng vấn với Hironaka Wakako; Notices of the American Mathematical Society; vol. 52, no. 9 (tháng 10 năm 2005).

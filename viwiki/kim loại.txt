@@ -1,0 +1,139 @@
+Trong hóa học, kim loại (tiếng Hy Lạp là metallon) là nguyên tố có thể tạo ra các ion dương (cation) và có các liên kết kim loại, và đôi khi người ta cho rằng nó tương tự như là cation trong đám mây các điện tử. Các kim loại là một trong ba nhóm các nguyên tố được phân biệt bởi độ ion hóa và các thuộc tính liên kết của chúng, cùng với các á kim và các phi kim. Trong bảng tuần hoàn các nguyên tố, đường chéo vẽ từ bo (B) tới poloni (Po) chia tách các kim loại với các phi kim. Các nguyên tố trên đường này là các á kim, đôi khi còn gọi là bán kim loại; các nguyên tố ở bên trái của đường này là kim loại; các nguyên tố ở góc trên bên phải đường này là các phi kim.
+Các phi kim phổ biến hơn các kim loại trong tự nhiên, nhưng các kim loại chiếm phần lớn vị trí trong bảng tuần hoàn, khoảng 80 % các nguyên tố là kim loại. Một số kim loại được biết đến nhiều nhất là nhôm, đồng, vàng, sắt, chì, bạc, titan, urani và kẽm.
+Các thù hình của kim loại có xu hướng có ánh kim, dễ kéo, dễ dát mỏng và là chất dẫn điện và nhiệt tốt, trong khi đó các phi kim nói chung là dễ vỡ (đối với phi kim ở trạng thái rắn), không có ánh kim, và là chất dẫn nhiệt và điện kém.
+
+
+== Thuộc tính vật lý ==
+Các kim loại có những đặc trưng sau: chúng thông thường có ánh kim, có khối lượng riêng tương đối lớn, dễ kéo dài và dát mỏng, thông thường có điểm nóng chảy cao, cứng, có khả năng dẫn nhiệt và điện tốt. Các thuộc tính này chủ yếu là do mỗi nguyên tử chỉ có liên kết lỏng lẻo với các điện tử ở lớp ngoài cùng của nó (các điện tử hóa trị); vì thế các điện tử hóa trị tạo ra một lớp mây xung quanh các ion kim loại. Phần lớn các kim loại về mặt hóa học là ổn định, với ngoại lệ đáng kể là các kim loại kiềm và kim loại kiềm thổ, chúng nằm ở tận cùng bên trái trong bảng tuần hoàn và có độ hoạt động hóa học rất mạnh. Nói chung kim loại là những nguyên tố mà nguyên tử của nó dễ nhường electron hóa trị để trở thành ion dương. Nguyên tử kim loại không thể nhận thêm electron, vì thế không bao giờ trở thành ion âm.
+Hầu hết kim loại ở thể rắn tại nhiệt độ tiêu chuẩn (0 C), trừ thuỷ ngân (Hg)và Copernixi (Cn) là ở thể lỏng ở nhiệt độ phòng. Trong tự nhiên,chỉ có một số ít kim loại như vàng,platin,...tồn tại ở dạng tự do,hầu hết các kim loại còn tồn tại ở dạng hợp chất.
+
+
+== Hợp kim ==
+Đọc bài chính về Hợp kim
+Hợp kim là hỗn hợp hai hay nhiều nguyên tố mà trong đó có một kim loại là thành phần chính. Phần lớn các kim loại tinh khiết hoặc là quá mềm, giòn, hoặc phản ứng hóa học quá mạnh và không có ứng dụng thực tiễn. Kết hợp các kim loại với những tỉ lệ khác nhau tạo ra hợp kim nhằm thay đổi các đặc tính của kim loại tinh khiết và tạo ra các đặc tính mong muốn. Mục đích chính của việc tạo thành hợp kim là giảm độ giòn, tăng độ cứng, giảm thiểu sự ăn mòn, hoặc có khi nhằm tạo ra màu sắc hay ánh kim mong muốn. Một số ví dụ của hợp kim là thép (sắt và carbon), đồng thau (đồng và kẽm), đồng thiếc (đồng và thiếc) và hợp kim dura (nhôm và đồng). Một số hợp kim được đặc biệt thiết kế cho một số ứng dụng với yêu cầu rất khắt khe, như máy bay phản lực, có thể chứa trên 10 nguyên tố.
+
+
+== Tính chất hóa học ==
+Phần lớn các kim loại hoạt động hóa học khá mạnh, phản ứng với oxi trong không khí để tạo thành oxit sau một khoảng thời gian khác nhau (ví dụ như sắt bị rỉ suốt mấy năm nhưng kali bùng cháy chỉ trong vài giây). Kim loại kiềm phải ứng mãnh liệt nhất, kế tiếp là kim loại kiềm thổ. Ví dụ:
+
+  
+    
+      
+        4
+        N
+        a
+        +
+        
+          O
+          
+            2
+          
+        
+        →
+        2
+        N
+        
+          a
+          
+            2
+          
+        
+        O
+      
+    
+    {\displaystyle 4Na+O_{2}\rightarrow 2Na_{2}O}
+   (Natri oxit)
+
+  
+    
+      
+        2
+        C
+        a
+        +
+        
+          O
+          
+            2
+          
+        
+        →
+        2
+        C
+        a
+        O
+      
+    
+    {\displaystyle 2Ca+O_{2}\rightarrow 2CaO}
+   (Canxi oxit)
+
+  
+    
+      
+        4
+        A
+        l
+        +
+        3
+        
+          O
+          
+            2
+          
+        
+        →
+        2
+        A
+        
+          l
+          
+            2
+          
+        
+        
+          O
+          
+            3
+          
+        
+      
+    
+    {\displaystyle 4Al+3O_{2}\rightarrow 2Al_{2}O_{3}}
+   (Nhôm oxit)
+
+Những kim loại chuyển tiếp bị oxi hóa trong thời gian dài hơn (như sắt, đồng, chì, niken). Một số khác, như paladi, bạch kim hay vàng, không hề phản ứng. Một số kim loại hình thành một lớp màng oxit vững chắc trên bề mặt của chúng khiến phân tử oxi không thể xuyên qua được làm cho chúng vẫn giữ được ánh kim và tính dẫn điện tốt qua hàng thập kỷ (như nhôm, một số loại thép và titan). Các oxit của kim loại mang thuộc tính bazơ (trái ngược với các oxit phi kim, vốn mang tính axit).
+Sơn hay phủ một lớp oxit lên kim loại là một cách khá hiệu quả nhằm ngăn ngừa sự ăn mòn. Tuy nhiên, phải chọn một kim loại hoạt động mạnh hơn trong dãy điện hóa kim loại để phủ lên, đặc biệt khi lớp phủ có thể bị mẻ. Nước và hai kim loại tạo nên một pin điện hóa, và nếu lớp phủ kém hoạt động hơn vật phủ thì lớp phủ thực ra sẽ đẩy nhanh sự ăn mòn.
+
+
+== Phân loại ==
+
+
+=== Kim loại cơ bản ===
+Trong hóa học, cụm từ "kim loại cơ bản" được dùng để ám chỉ các kim loại bị oxi hóa hoặc ăn mòn khá dễ dàng và phản ứng khác nhau với axit clohidric loãng để tạo ra hydro. Một số ví dụ là sắt, niken, chì và kẽm. Đồng được xem là một kim loại cơ bản khi nó bị oxi hóa khá dễ dàng, mặc dù nó không phản ứng với HCl. Thông thường, cụm từ này trái nghĩa với kim loại hiếm. Ngoài ra có hai loại khác: kim loại đen và kim loại màu. Trong giả kim thuật, kim loại cơ bản là một kim loại thông dụng và rẻ tiền, đối lập với kim loại quý như vàng hay bạc. Suốt một thời gian dài, mục tiêu của các nhà giả kim thuật là tạo ra kim loại quý (thể loại gồm phần lớn kim loại màu) từ kim loại cơ bản.
+
+
+=== Kim loại đen ===
+Gồm sắt, titan, crôm, và nhiều kim loại đen khác. Kim loại đen là kim loại màu đen, có nguồn gốc từ hai trăm triệu năm trước. Nhà địa lý học (có bản ghi: nhà bác học) Lê Quý Đôn tìm thấy nó năm 1743, lúc ông 17 tuổi. Ông cùng cha là Lê Trọng Thứ đi tìm cổ vật.
+
+
+=== Kim loại màu ===
+Gồm bạc, vàng, đồng, kẽm, và nhiều kim loại màu khác. Kim loại màu là kim loại có các màu như màu vàng, màu ghi (bạc), đồng,.... Kim loại màu không có màu đen như kim loại đen
+
+
+=== Kim loại đúc nên đồ vật ===
+Trong ngành đúc tiền xưa, các đồng xu được định giá bằng lượng kim loại quý mà chúng chứa. Kim loại này được gọi tắt là kim loại đúc.
+
+
+== Dãy điện hóa chuẩn của kim loại ==
+Dãy điện hóa chuẩn của kim loại là dãy những cặp oxi hóa-khử của kim loại được sắp xếp theo chiều thế điện cực chuẩn (E0Mn+/M (V)) của các cặp oxi hóa-khử tăng dần. Dưới đây là dãy điện hóa của một số kim loại thông dụng.
+
+
+== Tồn tại trong tự nhiên ==
+Sắt là thành phần chính của lõi Trái Đất. Trong lớp vỏ Trái Đất, lượng kim loại nhỏ hơn phi kim, hầu hết các kim loại có dạng hợp chất trong các khoáng sản, quặng; một số kim loại tồn tại ở dạng nguyên chất (kim loại quý) như vàng, bạc, đồng, platin,...
+Dãy kim loại phụ:K->Na->Ba->Ca->Mg->Al->Zn->Fe->Ni->Sn->Pb->H->Cu->Hg->Ag->Pt->Au (có thể đọc theo Tiếng Việt là: Khi nào bạn cần mua áo giáp sắt nhớ sang phố hỏi cửa hàng Á Phi Âu) dãy hoạt động hóa học của kim loại (đầy đủ): Li - K - Ba - Ca - Na - Mg - Al - Mn - Zn - Cr - Fe2+ - Co2+ - Ni - Sn - Pb - Fe3+/Fe -(H)- Cu - Fe3+/Fe2+ - Hg+ - Ag - Hg2+ - Pt - Au (Khi nào bạn cần may áo giáp sắt nhớ sang phố hỏi cửa hàng Á Phi Âu)
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

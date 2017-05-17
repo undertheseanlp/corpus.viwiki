@@ -1,0 +1,67 @@
+Bảng mẫu tự ngữ âm quốc tế hay Bảng ký hiệu ngữ âm quốc tế (viết tắt IPA từ tiếng Anh International Phonetic Alphabet) là hệ thống các ký hiệu ngữ âm được các nhà ngôn ngữ học tạo ra và sử dụng nhằm thể hiện các âm tiết trong mọi ngôn ngữ của nhân loại một cách chuẩn xác và riêng biệt. Nó được phát triển bởi Hội Ngữ âm Quốc tế (ban đầu là Hội Giáo viên Ngữ âm – Dhi Fonètik Tîcerz' Asóciécon) với mục đích trở thành tiêu chuẩn phiên âm cho mọi thứ tiếng trên thế giới.
+Nguyên tắc của IPA nói chung là để cung cấp một ký hiệu độc nhất cho mỗi âm đoạn, trong khi tránh những đơn âm được viết bằng cách kết hợp hai mẫu tự khác nhau (như th và ph trong tiếng Việt) và tránh những trường hợp có hai cách đọc đối với cùng một cách viết. Theo nguyên tắc này, mỗi mẫu tự trong bảng chỉ có duy nhất một cách đọc và không phụ thuộc vào vị trí của nó trong từ. Do đó, hệ thống này đòi hỏi rất nhiều mẫu tự khác nhau. Để học cách sử dụng hệ thống này thường phải qua một khóa đào tạo chuyên sâu về IPA từ các trường Đại học lớn trên thế giới. Vì hệ thống âm khá nhiều và phức tạp. Các trường Đại học lớn ở Châu Âu như Đại học Marburg, Đại học Newcastle có dạy về IPA cho sinh viên chuyên ngành Ngôn ngữ học.
+
+
+== Các phụ âm pulmonic ==
+
+
+=== Một vị trí phát âm ===
+Bảng phụ âm pulmonic bao gồm phần nhiều phụ âm và được xếp từng dòng chỉ cách phát âm và từng cột chỉ đặc tính phát của âm, ví dụ: âm mũi là âm vang lên ở mũi, âm bật là âm được tạo ra bằng cách chặn dòng khí và thả lỏng để khí bật ra phát ra âm. Bảng chính của bao gồm các phụ âm chỉ có một vị trí phát âm.
+Lưu ý:
+Các dấu sao (*) chỉ đến những phụ âm chưa có chữ IPA chính thức. Xem các bài được liên kết dùng dấu sao để biết về những chữ ad hoc có sẵn trong các tài liệu.
+Các dấu chữ thập (†) chỉ đến những chữ IPA chưa được hỗ trợ chính thức trong Unicode. Kể từ tháng 5 năm 2005, âm vỗ môi răng có vấn đề này do chữ v đặc biệt mới được chấp nhận: . Trong khi chờ đợi, chữ izhitsa (ѵ) được sử dụng ở đây do nhìn giống chữ chính xác, và những phông ngữ âm học của SIL hỗ trợ ký tự đúng trong Khu vực Sử dụng Cá nhân ().
+Ở những ô có 2 chữ bên cạnh nhau (các obstruent), chữ bên phải là [phụ âm hữu thanh]. Riêng các phụ âm họng [ɦ], [h], [ʔ] không là phụ âm hữu thanh. Ở những ô kia (các sonorant), chữ duy nhất là phụ âm hữu thanh.
+Tuy mỗi vị trí phát âm phụ âm đầu lưỡi (trừ âm xát) chỉ có một chữ, nhưng khi ấy một ngôn ngữ nào đó, các chữ tiêu biểu cho âm răng, chân răng, và chân răng sau, tùy ngôn ngữ.
+Các ô được tô đậm chỉ đến phụ âm không thể phát âm.
+Các chữ [ʁ], [ʕ], và [ʢ] có thể là âm xát hữu thanh hay âm tiếp cận.
+Các âm xát [ʃ ʒ], [ɕ ʑ], và [ʂ ʐ] được phân biệt phần lớn do hình dạng của lưỡi, thay vì vị trí của nó.
+Chưa biết đến ngôn ngữ nào có âm mũi môi răng [ɱ] là âm vị.
+
+
+=== Hơn một vị trí phát âm ===
+Lưu ý:
+[ɧ] được miêu tả là "[ʃ] và [x] cùng lúc". Tuy nhiên, cách giải thích này bị bàn cãi. Xem bài Âm xát vòm – vòm mềm vô thanh để biết thêm chi tiết.
+
+
+== Các phụ âm không pulmonic ==
+Lưu ý:
+Tất cả những âm mút có hơn một vị trí phát âm và cần hay chữ: một âm tắc vòm mềm hay lưỡi nhỏ, và một chữ cho âm sau: [k͡ǂ, ɡ͡ǂ, ŋ͡ǂ, q͡ǂ, ɢ͡ǂ, ɴ͡ǂ] v.v., hay [ǂ͡k, ǂ͡ɡ, ǂ͡ŋ, ǂ͡q, ǂ͡ɢ, ǂ͡ɴ]. Nếu không có chữ tiêu biểu cho âm lưỡi giữa, thường có thể nhận [k].
+Những chữ tiêu biểu cho các âm khép vô thanh [ƥ, ƭ, ƈ, ƙ, ʠ] không còn được hỗ trợ bởi IPA, tuy nó vẫn còn trong Unicode. Thay vì sử dụng các chữ này, IPA sử dụng chữ tương đương và dấu vô thanh: [ɓ̥, ʛ̥], v.v.
+Tuy nó chưa được nhận trong ngôn ngữ nào, và vì đó không được "nhận rõ ràng" bởI IPA, chữ âm khép quặt lưỡi hữu thanh, [ᶑ], được hỗ trợ trong Phần phụ Ngữ âm Mở rộng Unicode (Unicode Phonetic Extensions Supplement), được thêm vào phiên bản 4,1 của Tiêu chuẩn Unicode, hay có thể được viết bằng hai ký tự [ɗ̢].
+Chữ âm tống ra thường được sử dụng để tiêu biểu cho các âm sonorant họng nhưng pulmonic, như là [mʼ], [lʼ], [wʼ], [aʼ], nhưng cách viết các âm này chính xác hơn là ([m̰], [l̰], [w̰], [a̰]) có dấu kẹt.
+
+
+== Các nguyên âm ==
+Xem biểu đồ nguyên âm trong hình
+
+Lưu ý:
+Biểu đồ mô tả lại vòm miệng với tỷ lệ phía trên cùng là 4, chiều cao bên phải là 3, ở dưới là 2. Vị trí các nguyên âm thể hiện vị trí mà âm đó được phát ra.
+Khi nào có hai ký tự bên cạnh nhau, ký tự bên phải là nguyên âm tròn môi; [ʊ] cũng làm là nguyên âm tròn môi. Các ký tự kia không tròn môi.
+Chưa xác định ngôn ngữ nào có [ɶ] là âm vị riêng.
+[a] là nguyên âm trước chính thức, nhưng các nguyên âm mở trước và giữa gần nhau lắm, và [a] thường được sử dụng cho nguyên âm mở giữa.
+[ʊ] và [ɪ] được viết là [ɷ] và [ɩ] trong những phiên bản IPA cũ.
+
+
+== Ứng dụng của IPA ==
+Bảng mẫu tự phiên âm quốc tế được ứng dụng trong việc học một ngôn ngữ mới về khả năng phát âm và khả năng nghe. Nó cũng được dùng trong việc huấn luyện giọng nói cho các diễn viên để có một giọng nói truyền cảm hoặc thay đổi giọng điệu của ngôn ngữ, ví dụ: tiếng anh giọng Anh và tiếng Anh giọng Mỹ. IPA có thể giúp sử dụng khẩu hình miệng, môi, răng, lưỡi đúng vị trí và cách điều khiển dòng khí để tạo ra âm thanh chuẩn khi học ngoại ngữ. Ở Châu Âu, các trường đại học lớn như Đại học Marburg và Đại học NewCastle có dạy về IPA cho ngành Ngôn ngữ học.
+Trong tiếng Anh chỉ có 26 ký tự chữ viết để kết hợp thành chữ viết, nhưng có tới 44 âm khác biệt kết hợp tạo thành ngôn ngữ nói. Chính vì vậy Bảng phiên âm tiếng Anh Phonetics ra đời để chuẩn hóa hệ thống phiên âm cho các từ điển. Bảng phiên âm tiếng Anh Phonetics dựa trên Bảng phiên âm quốc tế và có sự khác nhau giữa một số từ đối với tiếng Anh giọng Mỹ và tiếng Anh giọng Anh. Phiên âm tiếng Anh Phonetics là một cách tiếp cận nhanh chóng và phù hợp cho người học ngoại ngữ vì có thể phân biệt chính xác các âm và bắt chước lại giống y hệt.
+
+
+== Chú thích ==
+
+
+== Xem thêm ==
+Thuật ngữ ngữ âm học
+Khóa học miễn phí Phonetics, Phonology and Transcription của Đại học Marburg
+Phonetics Hệ thống âm của tiếng Anh Mỹ
+Video dạy Bảng phiên âm quốc tế của Đại học NewCastle
+
+
+== Liên kết ngoài ==
+Trang chủ của Hội Phiên âm Quốc tế
+Gentium, phông chữ quốc tế được vẽ thành thạo, có chữ Latinh, Hy Lạp, và Kirin và kiểu chữ thẳng và xiên; bao gồm IPA, nhưng chưa bao gồm các chữ thanh và chữ âm vỗ môi răng mới.
+Charis SIL, phông chữ quốc tế đầy đủ (chữ Latinh, Hy Lạp, và Kirin; kiểu thẳng, xiên, và đậm) có các chữ thanh và dấu phụ dựng sẵn trên nguyên âm IPA, chữ âm vỗ môi răng, và nhiều ký tự ngữ âm không chuẩn.
+Doulos SIL, phông chữ giống Times hay Times New Roman. Nó bao gồm các ký tự của Charis SIL, nhưng chỉ có kiểu chữ thẳng.
+Bàn phím trên mạng
+Bàn phím và công cụ phát âm máy tính
+Bảng IPA bằng Unicode và XHTML/CSS

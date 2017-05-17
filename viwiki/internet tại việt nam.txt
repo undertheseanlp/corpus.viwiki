@@ -1,0 +1,163 @@
+Internet tại Việt Nam được coi như chính thức bắt đầu từ cuối năm 1997. Ngày 19 tháng 11 năm 1997 là ngày đầu Việt Nam được hòa vào mạng Internet toàn cầu.
+
+
+== Lịch sử ==
+Rob Hurle, giáo sư tại Đại học Quốc gia Australia (ANU), được xem là người đầu tiên đặt nền móng cho sự phát triển Internet tại Việt Nam với việc trình bày ý tưởng của mình với các sinh viên Việt Nam đã từng du học tại Úc và mang một chiếc "modem" to bằng "cục gạch" sang Việt Nam năm 1991 để thử nghiệm. Sau đó, ông Rob Hurle cùng với ông Trần Bá Thái, Viện Công nghệ thông tin tại Hà Nội (IOIT) tiến hành thí nghiệm kết nối các máy tính ở Úc và Việt Nam thông qua đường dây điện thoại, ông cũng viết một phần mềm mới cho hệ thống UNIX để có thể sử dụng modem liên lạc sang Việt Nam. Thí nghiệm thành công và năm 1992, IOIT Hà Nội có hộp thư điện tử riêng với "đuôi" ở tận Úc (.au) để trao đổi e-mail với ông Rob và có lẽ đó là lần đầu tiên người ở Việt Nam gửi e-mail ra nước ngoài. Tháng 9 năm 1993, ông Rob và một đồng nghiệp Việt kiều ở Đại học Tasmania tới Hà Nội dự hội thảo để bàn về kế hoạch phát triển Internet tại Việt Nam. Năm 1994, với tiền tài trợ của Chính phủ Úc, ông Rob và các đồng nghiệp tại ANU mua tặng Khoa Lịch sử Trường Đại học Tổng hợp Hà Nội 1 chiếc máy tính đầu tiên tại Việt Nam và modem và thực hiện việc kết nối Internet qua cổng.au. Ông Rob cũng là một trong những người đầu tiên nghĩ tới và được ủy quyền việc đăng ký tên miền .vn cho VN thay cho tên miền.au (Australia). Đến năm 1995, nhu cầu sử dụng Internet tại Việt Nam tăng quá lớn và tiền tài trợ từ Chính phủ Úc không còn đủ chi dụng, nên bắt đầu thu tiền của người VN sử dụng Internet và thương mại hóa Internet, ông Rob và các đồng nghiệp ở IOIT bắt đầu hợp tác với Tổng công ty Bưu chính Viễn thông Việt Nam (VNPT) để phát triển dịch vụ.
+Như vậy, sau 2 năm thử nghiệm cung cấp dịch vụ điện thư, vào năm 1994, Viện Công nghệ thông tin IOIT (qua công ty NetNam được họ thành lập) trở thành nhà cung cấp dịch vụ Internet đầu tiên tại Việt Nam, với dịch vụ thư điện tử dưới tên miền quốc gia .vn. Các dịch vụ dựa trên thư điện tử như diễn đàn, liên lạc nội bộ, thư viện điện tử... được cung cấp cho hàng ngàn khách hàng chỉ sau 1 năm giới thiệu. Các dịch vụ khác như thiết kế Web, FTP, TelNet... được NetNam cung cấp đầy đủ khi Internet được chính thức cho phép hoạt động tại Việt Nam từ 1997.
+Tháng 11 năm 1997, VNPT, NetNam, và 3 công ty khác trở thành những nhà cung cấp dịch vụ Internet (ISP) đầu tiên tại Việt Nam.
+Trước đó, việc thử nghiệm Internet ở Việt Nam xảy ra ở bốn địa điểm như sau:
+Viện Công nghệ thông tin thuộc Trung tâm Khoa học tự nhiên và Công nghệ quốc gia hợp tác với Đại học Quốc gia Australia để phát triển thử nghiệm mạng Varenet vào năm 1994.
+Trung tâm thông tin Khoa học công nghệ Quốc gia thuộc Bộ Khoa học công nghệ và Môi trường liên kết với mạng Toolnet thuộc Amsterdam (Hà Lan) vào năm 1994.
+Trung tâm Khoa học và công nghệ thuộc Sở Khoa học công nghệ và Môi trường TP HCM liên kết với nút mạng ở Singapore vào năm 1995 với tên gọi là mạng HCMCNET.
+Công ty Điện toán và Truyền số liệu (VDC) thuộc Tổng công ty Bưu chính Viễn thông (VNPT) tại hai địa điểm Hà Nội và Thành phố Hồ Chí Minh thông qua hai cổng quốc tế 64 Kb/giây kết nối Internet Sprintlink (Mỹ) vào năm 1996.
+Internet Việt Nam cũng nhận được nhiều trợ giúp từ nước ngoài để phát triển, như năm 2010, Bill Gates, giúp đỡ Việt Nam 30 triệu đôla Mỹ để phát triển Internet tại vùng thôn quê 
+
+
+== Phát triển ==
+
+
+=== Giai đoạn 2000 - 2010 ===
+Vào ngày 17/10/2000, Chỉ thị số 58-CT/TW được phê duyệt bởi ông Phạm Thế Duyệt, thường trực Bộ Chính trị Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam về việc "Đẩy mạnh ứng dụng và phát triển công nghệ thông tin phục vụ sự nghiệp công nghiệp hoá, hiện đại hoá".
+Khoảng thời gian từ tháng 1 đến tháng 2 năm 2001, lần đầu tiên ở Việt Nam, cơ quan an ninh bắt hai hacker là Phan Quang Trung và Nguyễn Đắc Thuận ở Thành phố Hồ Chí Minh vì hành vi đánh cắp mật khẩu và phát tán trên mạng.
+Ngày 14/7/2005, ký kết thông tư liên tịch 02/2005/TTLT về quản lý đại lý Internet do Bộ Bưu chính Viễn thông, Bộ Văn hóa-Thông tin, Bộ Công an và Bộ Kế hoạch và Đầu tư ban hành 
+Năm 2007, các hình thức kinh doanh quán cà phê Internet được khai trương tại Thành phố Hồ Chí Minh và Hà Nội .
+Ngày 09/10/2010, Đại hội thành lập Hiệp hội Internet Việt Nam (VIA) diễn ra tại Hà Nội nhằm lập ra ban lãnh đạo nhiệm kỳ đầu tiên và đồng thời ra mắt Ban chấp hành của Hiệp hội chính thức số lượng thành viên là 33.
+
+
+=== Giai đoạn 2011 - đến nay ===
+Số người dùng tại Việt Nam tính đến thời điểm cuối tháng 7 năm 2011 đã vượt 31 triệu người, trong đó có tới 4 triệu người dùng Internet băng rộng. Số lượng người dùng Internet đông đảo được xem là nền tảng tiềm năng, tạo ra cơ hội và nhiều thách thức để phát triển thương mại điện tử ở Việt Nam.
+Theo thống kê của Tổng cục Thống kê vào tháng 3 năm 2012, số người sử dụng Internet ở Việt Nam đã đạt đạt 32,1 triệu người với số thuê bao Internet trên cả nước ước tính đạt 4,2 triệu thuê bao (so sánh với 134 triệu thuê bao điện thoại, bao gồm: 15,3 triệu thuê bao cố định và 118,7 triệu thuê bao di động) 
+
+
+== Chất lượng Internet Việt Nam ==
+
+Theo khảo sát của hãng khảo sát thị trường Internet Pando Networks (Mỹ), năm 2011 Việt Nam đạt tốc độ kết nối Internet trung bình 374 KBps (1 B bằng khoảng 8 b), nhanh nhất khu vực Đông Nam Á, đứng thứ 3 ở Châu Á, sau Hàn Quốc (2.202 KBps) và Nhật Bản (1.364 KBps) (và sau Nga, Đài Loan, Hồng Kông). Còn theo báo cáo của Akamai, hãng khảo sát Internet của Mỹ, cuối năm 2011 tốc độ đường truyền Internet Việt Nam đạt khoảng 1,7 Mbps, xếp hạng 32/50 quốc gia được khảo sát và thấp hơn mức trung bình trên thế giới (2,6 Mbps).
+Theo NetIndex (trang web, tính toán theo kết quả đo của Speedtest.net) cho biết: cuối năm 2011 tốc độ tải xuống Internet Việt Nam ở mức 9,79 Mbps (39/180 quốc gia) và tốc độ tải lên là 5,47 Mbps (đứng thứ 22/180 quốc gia).
+Những trục trặc đường truyền không ổn định và sự cố đứt tuyến cáp quang đường biển (Asia America Gateway) luôn gây ảnh hưởng đến chất lượng Internet tại Việt Nam trong việc liên lạc, trao đổi thông tin với nước ngoài trên các dịch vụ web, email, video.
+Vào 13h30 ngày 08/03/2011, tuyến cáp quang biển AAG (Asia America Gateway) bị đứt đã tác động không nhỏ tới việc cung cấp dịch vụ của một số ISP ở Việt Nam như FPT Telecom, Viettel Telecom, VDC.
+Vào lúc 21h45 ngày 28/09/2011, sự cố đứt cáp quang biển Liên Á đã xảy ra làm chất lượng Internet bị chậm đối khách hàng dùng dịch vụ của EVN Telecom.
+
+
+== Thói quen người dùng ==
+
+Internet đã vượt báo giấy và radio để trở thành phương tiện thông tin phổ biến tại Việt Nam theo cuộc khảo sát của Net Index vào năm 2011. Theo đó, thư điện tử (60%) và tin nhắn (73%) là hai phương tiện kết nối trực tuyến thịnh hành. Xem tin tức trên mạng, truy cập trang chủ các cổng thông tin và sử dụng công cụ tìm kiếm là ba hoạt động trực tuyến phổ biến nhất lần lượt chiếm 97%, 96% và 96% số người tham gia. Số lượng người dùng tham gia mạng xã hội tăng từ 41% năm 2010 lên 55% năm 2011.
+Theo cuộc khảo sát hành vi người dùng sử dụng Internet tại Việt Nam năm 2011 do Consumer Probe thực hiện dưới sự ủy nhiệm của PC Tools cho thấy người dùng ở Việt Nam còn thiếu kỹ năng và kiến thức về an toàn trực tuyến. Theo khảo sát, có hơn 3/4 số người tham gia (chiếm khoảng 77%) dùng một mật khẩu truy nhập cho tất cả các tài khoản của mình trên Internet. Trong khi đó số người lên mạng ở các tiệm dịch vụ Internet, nơi không an toàn là 41%.
+Mặc dù dân số chưa phải là cao so với thế giới nhưng Việt Nam lại là quốc gia có số lượng người dùng tìm kiếm về sex nhiều nhất thế giới năm 2007 đến 2010, theo thống kê từ khóa của Google. Hà Nội là thành phố có nhiều người tìm sex nhất thế giới năm 2010.
+Việc nghiện Internet và trò chơi trực tuyến đang trở nên phổ biến ở trẻ em Việt Nam do "thiếu sân chơi", thiếu các phương tiện và cơ sở giải trí khác và "muốn thể hiện cái tôi" trên không gian ảo. Hậu quả của nó rất nặng nề và tác động trực tiếp đến bản thân người nghiện, gia đình và xã hội. Hiện nay, ở Việt Nam vẫn chưa có trung tâm cai nghiện Internet và trò chơi trực tuyến.
+
+
+== ISP Việt Nam ==
+
+Internet Việt Nam chính thức xuất hiện ngày 19/11/1997, khi đó đặt dưới sự quản lý duy nhất của một IPX là VNPT.
+Các nhà cung cấp dịch vụ (ISP) Việt Nam:
+Tập đoàn Bưu chính Viễn thông Việt Nam VNPT
+Tổng Công ty Viễn thông Quân đội - Viettel
+Công ty FPT thuộc Bộ Khoa học và Công nghệ
+NetNam thuộc Viện Công nghệ thông tin - Viện Khoa học và công nghệ Việt Nam
+Công ty Cổ phần Dịch vụ Bưu chính Viễn thông Sài Gòn - SPT
+Công ty Cổ phần Viễn thông Hà Nội
+Tổng Công ty Truyền thông Đa phương tiện VTC
+Công ty Cổ phần Viễn thông Di động Toàn cầu (G-Tel)
+Công ty Thông tin Viễn thông Điện lực (EVNTelecom)
+Công ty Thông tin Điện tử Hàng hải Việt Nam(Vishiped)
+Công ty Điện toán và Truyền số liệu VDC
+Công ty cổ phần Hạ tầng viễn thông CMC (CMC TI)
+
+
+== Quản lý Internet ==
+Thời gian đầu, Tổng công ty nhà nước VNPT quản lý máy chủ Hệ thống tên miền quốc gia (DNS) và tên miền.vn, từ năm 2000 chuyển giao qua Trung tâm Internet Việt Nam, khi Trung tâm này được nhà nước Việt Nam thành lập 
+Internet ở Việt Nam hiện nay do Trung tâm Internet Việt Nam (VNNIC), một đơn vị trực thuộc Bộ Thông tin và Truyền thông quản lý.
+VNNIC thành lập vào ngày 28/04/2000 có nhiệm vụ thực hiện các chức năng như sau:
+Quản lý, phân bổ, giám sát và thúc đẩy việc sử dụng nguồn tài nguyên tên miền, địa chỉ, số hiệu mạng Internet tại Việt Nam
+Thông tin hướng dẫn, thống kê về mạng Internet
+Tham gia các hoạt động quốc tế về Internet.
+
+
+=== Hệ thống máy chủ tên miền quốc gia ===
+Hệ thống máy chủ tên miền quốc gia do Trung tâm Internet Việt Nam phụ trách bao gồm việc quản lý không gian tên miền cấp quốc gia .vn đồng thời nhận yêu cầu, phản hồi các truy vấn tên miền .vn.
+Hệ thống bao gồm các cụm máy chủ như sau:
+Trong nước: 2 cụm máy chủ tại Thành phố Hồ Chí Minh; 2 cụm máy chủ tại Hà Nội và 1 cụm máy chủ đặt tại Đà Nẵng.
+Ngoài nước: 2 cụm máy chủ ở các nơi trên thế giới.
+
+
+=== Kiểm duyệt ===
+
+Chính quyền Việt Nam kiểm duyệt việc truy cập Internet một cách rộng rãi, dùng nhiều biện pháp, cả về pháp lý lẫn kỹ thuật. Công trình nghiên cứu OpenNet Initiative của Đại học Harvard, Đại học Toronto, Đại học Oxford và Đại học Cambridge đánh giá mức kiểm duyệt của Việt Nam trong lĩnh vực chính trị là "sâu rộng" (pervasive), trong khi tổ chức Ký giả không biên giới mấy năm liền liệt kê Việt Nam trong danh sách 10 nước "kẻ thù của Internet". Nỗ lực của chính phủ Việt Nam để quản lý, kiểm tra, và giám sát việc sử dụng Internet còn được gọi là "bức tường lửa tre" ("bamboo firewall").
+Trong khi chính quyền Việt Nam cho rằng các nỗ lực kiểm duyệt Internet là để bảo vệ người dùng khỏi phải đối mặt với các nội dung tục tĩu hay "đồi trụy", phần lớn các website bị kiểm duyệt chứa các nội dung nhạy cảm về chính trị hay tôn giáo mà có thể thách thức sự thống trị của Đảng Cộng sản Việt Nam. Các báo của nhà nước cũng liên tục đả phá và lên án các trang cá nhân  Theo nghiên cứu của OpenNet, các website bị chặn hầu hết có nội dung về các hoạt động chống đối của người Việt hải ngoại, các tổ chức báo chí hải ngoại hay tổ chức độc lập, nhân quyền, hay các đề tài tôn giáo hoặc bất đồng chính kiến. Năm 2010, Bộ phận an ninh mạng của tập đoàn Google cho hay đã phát hiện ra chiến dịch tấn công các trang web nhạy cảm chính trị bằng tiếng Việt và hãng bảo mật McAfee cáo giác tin tặc có thể có liên hệ với chính phủ Việt Nam. Một số mạng xã hội, như Facebook, đôi khi cũng gặp vấn đề truy cập. Chính quyền đã công khai phá sập một số website hay trang blog với nội dung "không phù hợp", trong khi một số website đối lập bị tin tặc tấn công. Tổ chức Ân xá Quốc tế cũng đã đưa ra nhiều trường hợp các nhà hoạt động Internet bị bắt giữ vì các hoạt động trên mạng.
+
+
+=== Các văn bản pháp luật ===
+Nghị định số 72/2013/NĐ-CP ngày 15 tháng 07 năm 2013 của Chính phủ về Quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng.
+Quyết định số 18/QĐ-VNNIC ngày 10/1/2011 của Giám đốc Trung tâm Internet Việt Nam quy định thời điểm cho phép đăng ký lại các tên miền ".vn" không còn nhu cầu sử dụng đề nghị trả lại, tên miền hết thời hạn sử dụng mà không đóng tiếp phí duy trì.
+Thông tư số 189/2010/TT-BTC ngày 24/11/2010 của Bộ Tài chính quy định về phí, lệ phí tên miền quy định mức thu, chế độ thu, nộp và quản lý sử dụng phí, lệ phí tên miền quốc gia và địa chỉ Internet của Việt Nam.
+Quyết định số 73/QĐ-VNNIC ngày 17/3/2010 của Giám đốc Trung tâm Internet Việt Nam hướng dẫn xử lý tên miền quốc gia ".vn" có tranh chấp.
+Quyết định số 196/QĐ-VNNIC ngày 6/8/2010 của Giám đốc Trung tâm Internet Việt Nam quy định hướng dẫn việc đăng ký và quản lý sử dụng địa chỉ IP/số hiệu mạng tại Việt Nam.
+Nghị định 28/2009/NĐ-CP ngày 20/3/2009 của Chính phủ quy định xử phạt vi phạm hành chính trong quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin điện tử trên Internet
+Thông tư số 09/2008/TT-BTTTT ngày 24 tháng 12 năm 2008 của Bộ Thông tin và Truyền thông hướng dẫn về quản lý và sử dụng tài nguyên Internet.
+Chỉ thị số 03/2008/CT-BTTTT ngày 6/5/2008 của Bộ trưởng Bộ Thông tin và Truyền thông về việc thúc đẩy sử dụng địa chỉ Internet thế hệ mới IPv6.
+Quyết định số 848/1997/QĐ-BNV(A11) ngày 23/10/1997 của Bộ trưởng Bộ Nội vụ quy định về biện pháp và trang thiết bị kiểm tra, kiểm soát đảm bảo an ninh quốc gia trong hoạt động Internet ở Việt Nam.
+
+
+== An ninh mạng ==
+
+Theo khảo sát của hãng an ninh máy tính McAfee, .vn là tên miền quốc gia cấp cao nhất nguy hiểm nhất trong năm 2010 vì việc đăng ký tên miền dễ dàng, giá rẻ và nguy cơ bị bắt rất thấp. Các nhà nghiên cứu của McAfee đã tìm thấy 58% tên miền.vn bị đánh giá là "nguy hiểm". Điều này hết sức bất ngờ vì một năm trước đó, năm 2009, mức độ nguy hiểm của tên miền.vn chỉ có 0,9% và đứng thứ 39 trên thế giới, mà đến năm 2010 đã nhảy vọt lên 29,4%.
+Năm 2011 đã có đã có hàng nghìn website của Việt Nam bị tấn công và cũng ghi nhận 64,2 triệu lượt máy tính ở Việt Nam bị nhiễm độc virus máy tính, 38.961 dòng virus xuất hiện mới. Theo tin hãng bảo mật Symantec, số lượng máy chủ, hosting độc hại của Việt Nam nhiều thứ 11 trên thế giới 
+Vào đầu tháng 2 năm 2012, một nhóm hacker tự xưng là LulzSec của Việt Nam đã tấn công hệ thống diễn đàn vào công ty an ninh mạng BKAV để trả thù việc một "hacker trong sạch" đã xâm nhập vào hệ thống BKAV trước đó nhưng chỉ lại một tập tin có nội dung là "hacked:))" trên trang con của BKAV là webscan.vn.
+Xu hướng gần đây của các nhóm hacker Việt Nam là mượn danh các nhóm hacker tên tuổi của nước ngoài như "Anonymous" và "LulzSec" để tạo thanh thế cho riêng mình. Hơn nữa, trên trang blog của nhóm "Anonymous Việt Nam" đã kêu gọi tấn công vào các trang web tại Việt Nam vì thể hiện tinh thần "chính nghĩa" của mình.
+
+
+== Tin học hóa xã hội ==
+
+
+=== Giáo dục và Đào tạo ===
+
+Theo chỉ thị số 58-CT/TW ban hành ngày 17/10/2000 của Bộ Chính trị đã nêu: "Đẩy mạnh ứng dụng công nghệ thông tin trong công tác giáo dục và đào tạo ở các cấp học, bậc học, ngành học. Phát triển các hình thức đào tạo từ xa phục vụ cho nhu cầu học tập của toàn xã hội. Đặc biệt tập trung phát triển mạng máy tính phục vụ cho giáo dục và đào tạo, kết nối Internet tới tất cả các cơ sở giáo dục và đào tạo".
+Bộ Giáo dục và Đào tạo cũng đã đề ra các điều khoản triển khai chương trình đào tạo trực tuyến (E-Learning) trên Internet ở quy mô trường học như là một phần của công tác triển khai công nghệ thông tin năm học 2008-2009.
+Tại Việt Nam hiện nay, Internet đang ngày càng đóng vai trò chủ chốt trong lĩnh vực giáo dục và đào tạo. Việc áp dụng Internet vào lĩnh vực này đã thúc đẩy một bước tiến lớn mạnh mẽ mang tri thức phổ cập đến công dân trong xã hội. Theo khảo sát, Việt Nam đã có gần 9.000 trường học ở các bậc học khác nhau trên cả nước được VNPT hỗ trợ kết nối Internet nếu tính đến thời điểm năm 2009.
+
+
+=== Chính phủ điện tử ===
+Chính phủ Việt Nam từ lâu đã mong tiến dần đến chính phủ điện tử và nối mạng liên kết các hoạt động hành chính nhà nước. Tuy nhiên, sau sự thất bại của Đề án 112 (Đề án Tin học hóa hành chính nhà nước) năm 2006, tiến trình này đã chậm lại.
+
+
+== Văn hóa Internet ==
+Tại Việt Nam, văn hóa người dùng Internet đang gặp nhiều thách thức khi các vấn đề spam, quảng cáo và nói tục, tung tin đồn nhảm trên các diễn đàn, blog và mạng xã hội kèm theo việc a dua, "ném đá hội đồng" vẫn đang là vấn đề lớn với xã hội cũng như các nhà quản lý. Tránh các vấn đề xã hội, chính trị bị kiểm duyệt gắt nên các trang web thường "câu khách truy cập" bằng cách tạo tin đồn, tung tin scandal, đôi khi bôi nhọ hay tin đồn nhảm nặc danh về những người của công chúng để thu hút người ham vui hay tò mò, "người ta có thể thoải mái tung tin, bởi chẳng cần phải "có lửa thì mới có khói" mà người ta làm luôn cả việc "đốt lửa cho có khói" để tung hỏa mù"" và "chính những chuyện đồn thổi vỉa hè hay những pha lộ hàng, tung ảnh nóng đang dẫn showbiz Việt đi vào quỹ đạo "lá cải" một cách ngoạn mục" và không quan tâm đến thiệt hại cho người khác. Ngoài ra còn tìm kiếm sex, khiêu dâm và tung ảnh nóng, phim đen (nhất là quay và phát tán phim cá nhân làm hại nạn nhân, như trường hợp phim đen cá nhân của Yến Vy và Hoàng Thùy Linh) và vi phạm bản quyền khi lưu chuyền qua mạng những tài sản sở hữu trí tuệ trái phép.
+Việc "ném đá hội đồng" được nhận định là sự phản đối một cách gay gắt về một quan điểm của một cá nhân, tập thể nào đó mà trái ngược với góc nhìn nhận của đa số lớn hơn trên Internet thông qua hình thức đăng tải bình luận. Hình thức này có thể bị đẩy lên cao trào khi có sự trợ giúp của các thành viên hoặc người dùng quá khích, khi dùng những lời lẽ "cay độc" để chỉ trích thậm tệ các cá nhân, tập thể khác có ý kiến khác với mình hoặc về một quan điểm, cách thức giải quyết hoạt động của vấn đề nào đó, và có thể kích thích, kêu gọi đám đông hưởng ứng và tạo thành phong trào a dua, hùa theo. Một ví dụ cụ thể đó là sự việc anh chàng có nickname "Kẹo Mút Chơi Bời" đã đăng tải một đoạn thông tin trên trang Facebook của mình về vụ việc gây tai nạn chết người. Ngay sau đó, "Kẹo Mút Chơi Bời" đã bị cộng đồng "ném đá" thậm chí nhiều người hăm họa tính mạng.
+
+
+== Các câu nói sự ra đời của Internet tại Việt Nam ==
+Vào năm 1999, trong chuyến gặp gỡ em trai tổng thống Mỹ G.Bush là Thống đốc Bang Florida Jeb Bush, Nguyên Thứ trưởng Bộ Khoa học và Công nghệ Chu Hảo đã có câu nói ấn tượng "Cờ Việt Nam hiện lên trong phòng Thống đốc bang Florida, Mỹ" với tâm trạng "hân hoan và tràn đầy tự hào".
+Nguyên Thứ trưởng Bộ Bưu chính Viễn thông Mai Liêm Trực: "Báo điện tử ra đời làm tôi vững tin vào việc mở cửa Internet hơn".
+"Đối với người dân Việt Nam thì Internet không phải là mạng toàn cầu (world wide web) mà là chờ đợi toàn cầu (world wide wait)" được nói bởi ông Jordan Ryans để chỉ đến sự chậm chạp về chất lượng và dịch vụ Internet Việt Nam vào năm 2003.
+
+
+== Các nhân vật có tầm ảnh hưởng đến sự phát triển Internet tại Việt Nam ==
+Vào ngày 28/11/2007, báo Bưu điện Việt Nam cùng Câu lạc bộ Nhà báo Công nghệ thông tin Việt Nam bình chọn, công bố 10 nhân vật có ảnh hướng lớn và sâu sắc đến sự phát triển Internet ở Việt Nam như sau:
+Mai Liêm Trực, nguyên tổng cục trưởng Tổng cục Bưu điện.
+Trần Bá Thái, Giám đốc Công ty NetNam.
+Vũ Hoàng Liên, Giám đốc Công ty Điện toán và truyền số liệu VDC.
+Đặng Hữu, nguyên trưởng ban chỉ đạo công nghệ thông tin của cơ quan Đảng Cộng sản Việt Nam.
+Chu Hảo, nguyên thứ trưởng Bộ Khoa học công nghệ.
+Nguyễn Quang A, nguyên chủ tịch Hội Tin học Việt Nam.
+Trương Gia Bình, Chủ tịch Hội đồng quản trị, Tổng giám đốc tập đoàn FPT.
+Đỗ Trung Tá, nguyên bộ trưởng Bưu chính viễn thông, nay là Bộ Thông tin và Truyền thông.
+Trương Đình Anh, Tổng giám đốc Công ty Cổ phần viễn thông FPT (FPT Telecom).
+Nguyễn Khánh, nguyên phó thủ tướng.
+
+
+== Chú thích ==
+
+
+== Xem thêm ==
+Tên miền Việt Nam
+Trang web
+Công nghệ thông tin
+Bộ Thông tin và Truyền thông (Việt Nam)
+Nhà cung cấp dịch vụ Internet
+Tên miền tiếng Việt
+Giáo dục trực tuyến
+Chính phủ điện tử
+
+
+== Liên kết ngoài ==
+Cập nhật tốc độ đường truyền VN, theo netindex

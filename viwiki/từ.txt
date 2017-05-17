@@ -1,0 +1,49 @@
+Từ là đơn vị sẵn có trong ngôn ngữ. Từ là đơn vị nhỏ nhất, cấu tạo ổn định, mang nghĩa hoàn chỉnh, được dùng để cấu thành nên câu. Từ có thể làm tên gọi của sự vật (danh từ), chỉ các hoạt động (động từ), trạng thái, tính chất (tính từ)... Từ là công cụ biểu thị khái niệm của con người đối với hiện thực.
+Trong ngôn ngữ học, từ là đối tượng nghiên cứu của nhiều cấp độ khác nhau, như cấu tạo từ, hình thái hoc, ngữ âm học, phong cách học, cú pháp học...
+
+
+== Đơn vị cấu tạo ==
+Đơn vị cơ sở để cấu tạo từ tiếng Việt là các tiếng, cái mà ngữ âm học vẫn gọi là các âm tiết.
+Mặc dù nguyên tắc phổ biến là các từ được cấu tạo từ các hình vị, nhưng hình vị trong các ngôn ngữ khác nhau có thể không như nhau.
+Tiếng của tiếng Việt có giá trị tương đương như hình vị trong các ngôn ngữ khác, và người ta cũng gọi chúng là các hình tiết (morphemesyllable) – âm tiết có giá trị hình thái học.
+Xét về ý nghĩa, về giá trị ngữ pháp, về năng lực tham gia cấu tạo từ... không phải tiếng (hình tiết) nào cũng như nhau.
+Trước hết có thể thấy ở bình diện nội dung:
+Sự tranh luận về giá trị và ý nghĩa của tiếng, thực sự chỉ tập trung ở những tiếng thuộc loại b. và c., nhất là loại c. Tuy nhiên, tư cách và giá trị tương đương với hình vị trong tiếng Việt vẫn có thể chứng minh được (mặc dù chưa thực sự có sức thuyết phục tuyệt đối cho tất cả mọi trường hợp) qua các hiện tượng tách rời, lặp, chen thành tố, rút gọn... Ví dụ:
+Mặt khác, cũng cần thấy rằng các tiếng thuộc loại c. này không chiếm số lượng nhiều trong tiếng Việt; và đa số trong số đó lại thuộc nguồn gốc ngoại lai. Chúng thuộc phạm vi ở vùng biên chứ không phải ở vùng tâm của tiếng Việt. Hơn nữa, mặt dù chưa có những chứng cứ đầy đủ về mặt tâm lý ngôn ngữ học, nhưng chúng ta cũng phải lưu ý đến một điều là: trong ứng xử ngôn ngữ, dường như người Việt luôn luôn có tâm lý chờ đợi ở mỗi tiếng (bất kể tiếng đó như thế nào) một phần nghĩa nào đấy; hoặc sẵn sàng cấp cho nó một nghĩa nào đấy. Nếu không vậy thì làm sao người ta có thể chấp nhận được những tiếng, những câu như sau: "Trời đất khen sao khéo khéo phòm" của Hồ Xuân Hương?
+Nói tóm lại, trong Việt ngữ học hiện nay, nếu lấy tiêu chí "có chỉ ra, có quy chiếu vào đối tượng nào, khái niệm nào hay không" thì người ta vẫn quen phân loại và gọi các tiếng thuộc loại a. kể trên là loại tiếng có nghĩa; còn các tiếng thuộc loại b. và c. là tiếng vô nghĩa.
+Về năng lực hoạt động ngữ pháp, có thể căn cứ vào tiêu chí: "có khả năng hoạt động tự do hay không" để chia các tiếng thành hai loại:
+Tuy nhiên, ranh giới của các loại tiếng không phải là hoàn toàn tuyệt đối. Cần phải lưu ý đến những trường hợp trung gian giữa loại này với loại kia, phạm vi này với phạm vi kia.
+
+
+== Phương thức cấu tạo ==
+Từ tiếng Việt được cấu tạo hoặc là bằng các dùng một tiếng, hoặc là tổ hợp các tiếng lại theo lối nào đó.
+Phương thức dùng một tiếng làm một từ sẽ cho ta các từ đơn (còn gọi là từ đơn tiết). Vậy từ đơn ở đây được hiểu là những từ cấu tạo bằng một tiếng.
+Phương thức tổ hợp (ghép) các tiếng lại, mà giữa các tiếng (thành tố cấu tạo) đó có quan hệ về nghĩa với nhau, sẽ cho ta những từ gọi là từ ghép. Dựa vào tính chất của mối quan hệ về nghĩa giữa các thành tố cấu tạo, có thể phân loại từ ghép tiếng Việt như sau:
+Từ ghép đẳng lập. Đây là những từ mà các thành tố cấu tạo có quan hệ bình đẳng với nhau về nghĩa. Ở đây, có thể lưu ý tới hai khả năng.
+Từ ghép chính phụ. Những từ ghép mà có thành tố cấu tạo này phụ thuộc vào thành tố cấu tạo kia, đều được gọi là từ ghép chính phụ. Thành tố phụ có vai trò phân loại, chuyên biệt hoá và sắc thái hoá cho thành tố chính. Ví dụ: tàu hoả, đường sắt, sân bay, hàng không, nông sản, cà chua, máy cái, dưa hấu, cỏ gà... xấu bụng, tốt mã, lão hoá... xanh lè, đỏ rực, ngay đơ, thằng tắp, sưng vù...
+Phương thức tổ hợp các tiếng trên cơ sở hoà phối ngữ âm cho ta các từ láy (còn gọi là từ lấp láy, từ láy âm).
+Từ láy tiếng Việt có độ dài tối thiểu là hai tiếng, tối đa là bốn tiếng và còn có loại ba tiếng. Tuy nhiên, loại đầu tiên là loại tiêu biểu nhất cho từ láy và phương thức láy của tiếng Việt.
+Một từ sẽ được coi là từ láy khi các yếu tố cấu tạo nên chúng có thành phần ngữ âm được lặp lại; nhưng vừa có lặp (còn gọi là điệp) vừa có biến đổi (còn gọi là đối). Ví dụ: đỏ đắn: điệp ở âm đầu, đối ở phần vần. Vì thế, nếu chỉ có điệp mà không có đối (chẳng hạn như: người người, nhà nhà, ngành ngành... thì ta có dạng láy của từ chứ không phải là từ láy. Kết hợp tiêu chí về số lượng tiếng với cách láy, có thể phân loại từ láy như sau:
+Từ láy gồm hai tiếng (cũng gọi là từ láy đôi) có các dạng cấu tạo sau:
+Láy hoàn toàn. Gọi là láy hoàn toàn nhưng thực ra bộ mặt ngữ âm của hai thành tố (hai tiếng) không hoàn toàn trùng khít nhau, chỉ có điều là phần đối của chúng rất nhỏ khiến người ta vẫn nhận ra được hình dạng của yếu tố gốc trong yếu tố được gọi là yếu tố láy. Có thể chia các từ láy hoàn toàn thành ba lớp nhỏ hơn:
+Láy bộ phận. Những từ láy nào chỉ có điệp ở phần âm đầu, hoặc điệp ở phần vần thì được gọi là láy bộ phận. Căn cứ vào đó, có thể chia từ láy bộ phận thành hai lớp.
+Từ láy ba và bốn tiếng được cấu tạo thông qua cơ chế cấu tạo từ láy hai tiếng. Tuy vậy, từ láy ba tiếng dựa trên cơ chế láy hoàn toàn, còn từ láy bốn lại dựa trên cơ chế láy bộ phận là chủ yếu. Ví dụ: khít khìn khịt, sát sàn sạt, dửng dừng dưng, trơ trờ trờ... đủng đà đủng đỉnh, lếch tha lếch thếch, linh tinh lang tang, vội vội vàng vàng...
+Trên thực tế, số lượng từ láy ba tiếng và bốn tiếng không nhiều. Mặt khác, có thể coi chúng chỉ là hệ quả, là bước "tiếp theo" trên cơ chế láy của từ láy hai tiếng mà thôi. Từ láy ba là láy toàn bộ kèm theo sự biến thanh và biến vần (ví dụ: nhũn – nhũn nhùn nhùn; xốp – xốp xồm xộp...). Nhiều khi ta gặp những "cặp bài trùng" giữa từ láy hai tiếng và ba tiếng như: sát sạt – sát sàn sạt; trụi lủi – trụi thui lủi; nhũn nhùn – nhũn nhùn nhùn; khét lẹt – khét lèn lẹt... Từ láy bốn tiếng thì tình hình cấu tạo có đa tạp hơn. Có thể là:
+Ngoài ra, còn có một số từ khác không cấu tạo theo các cách nêu trên; hoặc từ một từ gốc có thể cấu tạo hai từ láy bốn tiếng chứ không phải chỉ có một. Chẳng hạn: bù lu bù loa; bông lông ba la... hoặc bắng nhắng – bắng nha bắng nhắng; bắng nhắng bặng bặng nhặng...
+Sự biểu đạt ý nghĩa của từ láy rất phức tạp và rất thú vị, nhất là ở nhiều nhóm từ cùng có khuôn cấu tạo lại có thể có những điểm giống nhau nào đó về nghĩa. Điều này cần được khảo sát riêng tỉ mỉ hơn.
+Từ các kiểu từ đã trình bày trên đây, tiếng Việt còn có một lớp từ mà người bản ngữ hiện nay không thấy giữa các thành tố cấu tạo (các tiếng) của chúng có quan hệ gì về ngữ âm hoặc ngữ nghĩa. Vì vậy, từ góc độ phân loại, cần tách chúng ra và gọi là cáctừ ngẫu hợp với ngụ ý: các tiếng tổ hợp với nhau ở đây một cách ngẫu nhiên. Lớp từ này có thể bao gồm:
+Bộ phận từ này trong những năm gần đây có xu hướng gia tăng do các mối quan hệ quốc tế mở rộng, tạo điều kiện cho sự tiếp xúc, vay mượn và du nhập từ ngữ, nhất là trong lĩnh vực thông tin, khoa học và kĩ thuật.
+
+
+== Biến thể của từ ==
+Trong hoạt động của mình, một số từ tiếng Việt có thể có biến động về cấu trúc. Tuy nhiên, cần nói rằng đó không phải là những biến dạng theo nguyên tắc hình thái học như các dạng thức khác nhau của từ trong ngôn ngữ biến hình. Ở đây chúng thường chỉ được coi là dạng lâm thời biến động hoặc dạng "lời nói" của từ. Có nghĩa rằng, những biến động ấy không đều đặn, không thường xuyên ở tất cả mọi từ. Chúng chỉ lâm thời xảy ra ở một số từ trong một số trường hợp sử dụng mà thôi. Đại thể có những dạng biến động như sau:
+Biến một từ có cấu trúc lớn, phức tạp hơn sang cấu trúc nhỏ, đơn giản hơn. Thực chất đây là sự rút gọn một từ dài thành từ ngắn hơn. Ví dụ:
+Xu hướng biến đổi này không có tính bắt buộc, không đều đặn ở mọi từ, và nhiều khi chỉ vì lý do tiết kiệm trong ngôn ngữ. Không phải ngày nay tiếng Việt mới có hiện tượng rút gọn như vậy, mà những cặp từ song song tồn tại giữa một bên là từ đa tiết với một bên là từ đơn tiết chứng tỏ rằng hiện tượng này đã có từ lâu. Chẳng hạn:
+Rất nhiều tên gọi các tổ chức chính trị, xã hội, tôn giáo, các danh nhân, địa danh... trong tiếng Việt ngày nay đã được rút gọn lại như vậy
+Xu hướng biến đổi một từ đơn giản thành một từ có cấu trúc phức tạp hơn, trong tiếng Việt hiện nay không thấy có. Rất có thể vì nó trái với nguyên tắc tiết kiệm mà người sử dụng ngôn ngữ thường xuyên phải tính đến.
+Lâm thời phá vỡ cấu trúc của từ, phân bố lại yếu tố tạo từ với những yếu tố khác ngoài từ chen vào. Ví dụ:
+Sự biến đổi theo kiểu này rất đa dạng, nhằm nhiều mục đích. Cũng có khi người nói, với dụng ý ít nhiều mang tính chơi chữ, đã phá vỡ cấu trúc từ để dùng yếu tố tạo từ với tư cách như một từ. Ví dụ:
+(1) Đồng không con đóm lập loè (Tản Đà)
+
+
+== Tham khảo ==

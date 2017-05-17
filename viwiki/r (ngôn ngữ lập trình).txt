@@ -1,0 +1,79 @@
+R là một ngôn ngữ lập trình và môi trường phần mềm dành cho tính toán và đồ họa thống kê. Đây là một bản hiện thực ngôn ngữ lập trình S với ngữ nghĩa khối từ vựng lấy cảm hứng từ Scheme. R do Ross Ihaka và Robert Gentleman tạo ra tại Đại học Auckland, New Zealand, đến nay do R Development Core Team chịu trách nhiệm phát triển. Tên của ngôn ngữ một phần lấy từ chữ cái đầu của hai tác giả (Robert Gentleman và Ross Ihaka), một phần cũng là cách chơi chữ từ tên S.
+Ngôn ngữ R đã trở thành một tiêu chuẩn trên thực tế (de facto) giữa các nhà thống kê cho thấy sự phát triển của phần mềm thống kê, và được sử dụng rộng rãi để phát triển phần mềm thống kê và phân tích dữ liệu.
+R là một bộ phận của dự án GNU. Mã nguồn của nó được công bố tự do theo Giấy phép Công cộng GNU, và có các phiên bản dịch sẵn cho nhiều hệ điều hành khác nhau. R sử dụng giao diện dòng lệnh, tuy cũng có một vài giao diện đồ họa người dùng dành cho nó.
+
+
+== Tính năng ==
+R có chứa nhiều loại kỹ thuật thống kê (mô hình hóa tuyến tính và phi tuyến, kiểm thử thống kê cổ điển, phân tích chuỗi thời gian, phân loại, phân nhóm, v.v.) và đồ họa. R, giống như S, được thiết kế xoay quanh một ngôn ngữ máy thực thụ, và nó cho phép người dùng thêm các tính năng bổ sung bằng cách định nghĩa các hàm mới. Cũng có một số khác biệt quan trọng đối với S, nhưng nhiều mã viết bằng S vẫn chạy được mà không cần thay đổi. Nhiều hệ thống trong R được viết bằng chính ngôn ngữ của nó, giúp cho người dùng dễ theo dõi các giải thuật. Để thực hiện công việc chuyên về tính toán, R có thể liên kết được với ngôn ngữ C, C++ và Fortran để có thể được gọi trong khi chạy. Người dùng thông thạo có thể viết mã C để xử lý trực tiếp các đối tượng của R.
+R cũng có tính mở rộng cao bằng cách sử dụng các gói cho người dùng đưa lên cho một số chức năng và lĩnh vực nghiên cứu cụ thể. Do được thừa hưởng từ S, R có nền tảng lập trình hướng đối tượng mạnh hơn đa số các ngôn ngữ tính toán thống kê khác. Việc mở rộng R cũng dễ dàng nhờ các luật đóng khối từ vựng.
+Một điểm mạnh khác của R là nền tảng đồ họa của nó, có thể tạo ra những đồ thị chất lượng cao cùng các biểu tượng toán học. R cũng có đinh dạng văn bản riêng tương tự như LaTeX, dùng để cung cấp tài liệu hướng dẫn toàn diện, có trực tuyến ở các định dạng khác nhau và cả bản in.
+Dù R được dùng chủ yếu bởi những nhà thống kê và những người sử dụng khác đòi hỏi một môi trường tính toán thống kê và phát triển phần mềm, nó cũng có thể dùng làm một công cụ tính toán ma trận tổng quát với các kết quả đo đạc cạnh tranh so với GNU Octave và đối thủ thương mại của nó, MATLAB. Giao diện RWeka đã được thêm vào phần mềm khai phá dữ liệu phổ biến Weka, cho phép đọc/ghi định dạng arff vì vậy cho phép sử dụng tính năng khai phá dữ liệu trong Weka và thống kê trong R.
+
+
+== Ví dụ ==
+Các ví dụ sau minh họa cho cú pháp cơ bản của ngôn ngữ và cách dùng giao diện dòng lệnh.
+
+> x <- c(1,2,3,4,5,6)   # Tạo tập hợp có thứ tự
+> y <- x^2              # Bình phương các phần tử trong x
+> mean(y)               # Tính trung bình số hoc của y
+[1] 15.16667
+> var(y)                # Tính phương sai mẫu
+[1] 178.9667
+> summary(lm(y ~ x))    # Ước lượng mô hình hồi quy tuyến tính
+
+Call:
+lm(formula = y ~ x)
+
+Residuals:
+1       2       3       4       5       6
+3.3333 -0.6667 -2.6667 -2.6667 -0.6667  3.3333
+
+Coefficients:
+Estimate Std. Error t value Pr(>|t|)
+(Intercept)  -9.3333     2.8441  -3.282 0.030453 *
+x             7.0000     0.7303   9.585 0.000662 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 3.055 on 4 degrees of freedom
+Multiple R-squared: 0.9583,     Adjusted R-squared: 0.9478
+F-statistic: 91.88 on 1 and 4 DF,  p-value: 0.000662
+
+> par(mfrow=c(2, 2))    # Gọi đồ thị kích thước 2x2
+> plot(lm(y ~ x))       # Vẽ đồ thị dự đoán của mô hình hồi quy
+
+
+== Các mốc quan trọng ==
+Một số mốc quan trọng trong quá trình phát triển.
+Phiên bản 0.16 – Đây là bản alpha cuối cùng do Ihaka và Gentleman phát triển. Đa số các tính năng cơ bản trong "Sách Trắng" đã được hiện thực. Danh sách gửi thư bắt đầu vào ngày 1 tháng 4 năm 1997.
+Phiên bản 0.49 – 23 tháng 4 năm 1997 – Đây là bản phát hành mã nguồn cũ nhất, và dịch trên một số hệ điều hành tương tự Unix. CRAN được bắt đầu vào ngày này, với 3 trang gương ban đầu chứa 12 gói. Phiên bản alpha của R dành cho Microsoft Windows và Mac OS đã được đưa lên một thời gian ngắn sau phiên bản này.
+Phiên bản 0.60 – 5 tháng 12 năm 1997 – R trở thành một phần chính thức của Dự án GNU. Mã nguồn được lưu giữ và bảo trì trên CVS.
+Phiên bản 1.0.0 – 29 tháng 2 năm 2000 – Được các nhà phát triển xem là đủ ổn định để sử dụng đại trà.
+Phiên bản 1.4.0 – Các phương thức S4 được giới thiệu và phiên bản đầu tiên dành cho Mac OS X được phát hành ngay sau đó.
+Phiên bản 2.0.0 – Giới thiệu lazy loading, cho phép tải nhanh dữ liệu mà ít tốn bộ nhớ.
+Phiên bản 2.1.0 – Hỗ trợ mã hóa UTF-8, và bắt đầu quốc tế hóa và bản địa hóa cho các ngôn ngữ khác nhau.
+Phiên bản 2.9.0 – Gói 'Matrix' giờ là gói đề nghị chứa trong bản phân phối R cơ bản.
+
+
+== Giao diện ==
+
+
+=== Giao diện đồ họa ===
+R Studio - Môi trường phát triển tích hợp đa nền tảng, (có thể chạy trên một máy linux từ xa)
+Deducer - Giao diện hướng - menu
+Java GUI for R ( JGR) - trình biên tập và terminal R viết trên Java
+Rattle GUI - giao diện dựa trên RGtk2, thiết kế riêng cho Khai thác dữ liệu
+R Commander
+Revolution Analytics -
+RGUI
+RKWard
+RWeka - hỗ trợ tính năng khai thác dữ liệu trong Weka và phân tích thống kê trong R
+
+
+== Liên kết ngoài ==
+The R Project for Statistical Computing (trang dự án chính của R)
+Wessa.net R-Framework Statistics and Forecasting
+R tại DMOZ
+
+
+== Tham khảo ==

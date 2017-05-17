@@ -1,0 +1,22 @@
+Một Hệ quản trị cơ sở dữ liệu quan hệ (tiếng Anh: relational database management system, viết tắt RDBMS) là một hệ quản trị cơ sở dữ liệu (database management system) dựa trên mô hình quan hệ được Edgar F. Codd giới thiệu.
+
+
+== Lịch sử của thuật ngữ ==
+
+
+== Sự sử dụng hiện tại ==
+
+
+== Xem thêm ==
+Danh sách các hệ quản trị cơ sở dữ liệu quan hệ
+Danh sách các hệ quản trị cơ sở dữ liệu SQL
+So sánh các hệ quản trị dữ liệu quan hệ
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Database Debunkings - Critical point of view that argues that it is important that the predicate relational should be reserved for those database systems that are fully faithful to the relational model.
+SQL Server, DB2, and Oracle có thật sự là hệ quản trị cơ sở dữ liệu quan hệ? - Bài viết của Itoi Blomgren, Michiko. (2003)
+Lược sử quản lý công nghệ thông tin và Hệ quản trị cơ sở dữ liệu quan hệ - Tóm lược lịch sử của công nghệ cơ sở dữ liệu quan hệ hiện đại.

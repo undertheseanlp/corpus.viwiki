@@ -1,0 +1,34 @@
+Một soạn thảo quan trọng, có sẵn trên một số bàn phím máy tính, là một loại đặc biệt của các phím bổ trợ được tín hiệu các phần mềm để giải thích các trình tự sau đây của hai (hoặc hơn) các phím tắt như một sự kết hợp để sản xuất một nhân vật không được tìm thấy trực tiếp trên bàn phím. Ví dụ, ấn tượng sáng tác tiếp theo là A và E có thể sản xuất từ lắp ghép æ, trong khi sáng tác nổi bật tiếp theo là O và sau đó C có thể mang lại © (vòng C, biểu tượng bản quyền).
+Các phím soạn thảo có thể được tìm thấy trên các LK201 gia đình của bàn phím từ Tổng công ty Thiết bị kỹ thuật số và kế thừa của nó. Điều quan trọng cũng có thể được tìm thấy trên bàn phím từ Sun Microsystems. Tuy nhiên, bất kỳ phím trên bàn phím có thể được cấu hình để phục vụ như là một phím soạn thảo, miễn là chức năng được hỗ trợ bởi phần mềm được sử dụng.
+
+
+== Cách sử dụng ==
+Các phím soạn thảo là khác nhau từ một khóa sửa đổi lần điển hình (chẳng hạn như AltGr hoặc Tùy chọn ⌥) trong đó, hơn là bị ép và tổ chức trong khi quan trọng khác là tấn công, nó được nhấn và phát hành trước khi tấn công các phím được sửa đổi. Thông thường, hệ thống văn bản nhập cảnh không chỉ ra rằng bất kỳ phím đã được ép cho đến khi các nhân vật bao gồm xuất hiện sau khi ký tự cuối cùng của một chuỗi được xác định trước. Do đó, các phím soạn thảo cũng có thể được mô tả như là một loại chung chung phím chết. Điều gì làm cho các phím soạn thảo khác nhau từ một khóa chết trong khi mỗi phím chết chỉ có thể được sử dụng để đính kèm một dấu phụ cụ thể để thư cơ sở khác nhau, các phím soạn thảo có thể được sử dụng để sản xuất bất kỳ loại của một nhân vật hỗ trợ bộ ký tự và phông chữ sử dụng. Bằng cách này, một loạt rộng lớn hơn của các ký tự đặc biệt có thể được thực hiện trên một bàn phím với một số giới hạn của các phím.
+Trong một ý nghĩa lỏng lẻo, nhân vật được sản xuất với một chuỗi phím soạn thảo có thể được xem như là một nhân vật precomposed, nhưng nó không cần phải là kỹ thuật phân huỷ hoặc có bất kỳ giống hình ảnh với các nhân vật thường được sản xuất bằng các phím tương tự (nghĩa là không có nổi bật phím soạn thảo đầu tiên). Tuy nhiên, thường có một số loại của một hiệp hội giúp làm cho dãy phím dễ nhớ hơn. Ví dụ, gõ Soạn tiếp theo T và sau đó, H có thể sản xuất tiếng Iceland (cũng như Bắc Âu và tiếng Anh) thư þ (gai), ngữ âm tương ứng với các digraph thứ, ví dụ, điều.
+
+
+== Soạn quan trọng trong hệ thống máy tính khác nhau ==
+Các phím soạn thảo được biết đến như "Multi_key" trong hệ thống cửa sổ X, và phải được giải thích bởi chương trình khách hàng (thường Xlib), không phải là máy chủ. XFree86 và X.Org máy chủ, bố trí bàn phím có một biến thể bản đồ Multi_key một số trọng điểm, thường (trên bàn phím máy tính) hoặc là các phím Windows, hoặc ⇧ phím Shift' + AltGr hoặc đôi khi ⇧ phím Shift + chuột phải Ctrl.Nó cũng có thể được quy định tại XkbOptions. Multi_key cũng có thể được chỉ định với các tiện ích xmodmap. Lưu ý rằng nó được phổ biến cho ⇧ phím Shift + AltGr được ánh xạ tới các phím soạn thảo, nhưng cho AltGr + ⇧ Shift để được ánh xạ tới sửa đổi lần "bàn phím mức độ" thứ tư. (lần đầu tiên ba cấp độ tương ứng với tổ chức không bổ, Shift ⇧, và AltGr.) Vì vậy, ví dụ như biểu tượng bản quyền, © có thể được đánh máy bằng cách sử dụng các phím soạn thảo như ⇧ Shift + AltGr + o,c, hoặc bằng cách sử dụng các mức độ sửa đổi lần 4 là AltGr + ⇧ Shift + c.
+ISO / IEC 9995 -7 giao cho khoá này một biểu tượng đồ họa ⎄, tồn tại trong Unicode U 2384 kể từ khi phiên bản 3.0.0 của tiêu chuẩn. [3] Tuy nhiên, biểu tượng này không xuất hiện để được sử dụng bởi ngành công nghiệp.
+Ban đầu các dấu hiệu tiền tệ trên bàn phím đã được quốc hữu hoá, và không phải tất cả các bàn phím được bán trên thế giới có một dấu đô la ($), điều này giải thích lý do tại sao nó xuất hiện có, mặc dù nó là một phần của bất kỳ tiêu chuẩn [ ai? ] bàn phím từ những năm 1990. Đặc biệt là sáng tác trình tự đã không còn làm việc [ khi ] trên hiện đại [ đó? ] hệ thống. Trình tự dấu gạch chéo ngược lịch sử nhân chứng của các tình huống tương tự cho khoá này và vẫn làm việc trên hệ thống hiện đại.
+Microsoft Windows không sử dụng một phím soạn thảo như vậy, nhưng một vài chương trình như PuTTY cung cấp soạn hỗ trợ quan trọng. Ngoài ra còn có một số mã nguồn mở tiện ích (như AllChars) và bố trí bàn phím cài đặt có sẵn, có thi đua các phím soạn thảo bằng cách sử dụng một chìa khóa sửa đổi lần lựa chọn như kiểm soát hoặc AltGr.
+
+
+== Kết hợp soạn thảo thông thường ==
+Bảng hiển thị dưới đây chứa các thành phần phổ biến hiện nay cho Xorg 7. Các thành phần khác có thể làm việc, dựa trên de-facto Sun / tháng 12 / Falco tiêu chuẩn. Riêng đối với hệ thống hiện đại có hỗ trợ tùy biến trình tự soạn thảo và Unicode, bảng sẽ được hoàn toàn đầy đủ. Với số lượng lớn các trình tự cho phép và số lượng lớn các ký tự có sẵn trong Unicode, một danh sách đầy đủ sẽ rất dài. Nó có thể được duyệt trên mạng tại hay địa phương. Có một dự án để thu thập và duy trì được xác định sử dụng phần mở rộng
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Linux Compose Key Sequences with equivalent unicode mappings
+XFree86 Compose Key character map by XFree86
+Everything2's list of Compose Key combinations
+SUN's Compose Key combinations used under CDE
+Setting up Compose Key in the X Window System
+AllChars, an open-source utility that emulates the Compose key under MS-Windows
+JLG Extended Keyboard Layout - yet another utility based on the Compose Key mechanism under Windows
+Installable keyboard layouts for Windows with source for editing in the MSKLC keyboard editor
+Accent Composer - Compose accented characters and other symbols under Microsoft Windows. Unicode compatible
+Compose key sequences used in GNOME/GTK

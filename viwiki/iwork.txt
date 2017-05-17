@@ -1,0 +1,18 @@
+iWork là một bộ ứng dụng văn phòng được phát triển bởi Apple Inc. cho hệ điều hành macOS và iOS của họ, và cũng có sẵn trên những nền tảng khác thông qua trang web iCloud.
+Nó bao gồm Keynote, một ứng dụng trình chiếu; trình soạn thảo văn bản và xuất bản Pages; và ứng dụng bảng tính Numbers. Nó thường được xem như là một bộ phần mềm văn phòng prosumer hướng tới người dùng người dùng gia đình và kinh doanh nhỏ, với các tính năng ít hơn so với các đối thủ như Microsoft's Office for Mac và dự án mã nguồn mở LibreOffice (và thực tế các phiên bản trước đó của chính nó), nhưng có một giao diện người dùng đơn giản, hỗ trợ màn hình cảm ứng mạnh mẽ và được xây dựng trong các liên kết với các dịch vụ tài liệu lưu trữ iCloud của Apple và các ứng dụng quản lý hình ảnh Aperture và iPhoto của họ. mục tiêu thiết kế của Apple trong việc tạo ra iWork đã cho phép người dùng Mac cho dễ dàng tạo ra các tài liệu hấp dẫn và bảng tính, sử dụng các thư viện hệ điều hành MacOS của rộng phông chữ, kiểm tra chính tả tích hợp, các API đồ họa tinh vi và khung tự động hóa AppleScript của nó.
+Các ứng dụng Microsoft Office tương đương với Pages, Numbers, và Keynote là Word, Excel,và PowerPoint. Mặc dù các ứng dụng Microsoft Office không thể mở tài liệu iWork, iWork các ứng dụng iWork có thể xuất tài liệu từ các định dạng gốc của chúng (.pages,.numbers,.key) sang định dạng Microsoft Office (.doc,.xls,.ppt, etc.) cũng như sang đinh dạng PDF.
+Ứng dụng lâu đời nhất trong iWork là Keynote, flần đầu tiên được phát hành như một ứng dụng độc lập vào năm 2003. Pages đã được phát hành với việc phát hành iWork đầu tiên vào năm 2005; Numbedduwwocjw bổ sung năm 2007 cùng với iWork '08. bản phát hành tiếp theo, iWork '09, cũng bao gồm quyền truy cập vào iWork.com, dịch vụ beta cho phép người dùng tải lên và chia sẻ tài liệu, bây giờ đã tích hợp vào iCloud của Apple. Một port cho iOS được phát hành năm 2010 cho iPad đầu tiên và đã được cập nhật thường xuyên kể từ đó. Năm 2013, Apple đã phát hành một phiên bản OS X mới và iWork cho iCloud, một bộ các ứng dụng web đa nền tảng nhân bản các phiên bản phần mềm bản địa.
+iWork ban đầu được bán như một bộ dành với $79, và sau đó là $19.99 cho mỗi ứng dụng trên OS X và $9.99 một ứng dụng cho iOS. Apple đã công bố trong tháng 10/2014 rằng các thiết bị iOS mua từ tháng 9/2014 trở đi và máy tính OS X mua từ tháng 10/2014 trở đi, dù mới hay tân trang lại, có đủ điều kiện để tải về miễn phí của tất cả ba ứng dụng iWork. iWork for iCloud, cũng kết hợp một dịch vụ lưu trữ tài liệu, là miễn phí cho tất cả các chủ sở hữu của một tài khoản iCloud.
+Tháng 9/2016, Apple thông báo rằng các tính năng cộng tác thời gian thực sẽ có sẵn cho tất cả các ứng dụng iWork.[32]
+
+
+== Xem thêm ==
+Danh sách các bộ ứng dụng văn phòng
+So sánh các bộ ứng dụng văn phòng
+OpenOffice.org
+LibreOffice
+Microsoft Office
+iCloud
+
+
+== Chú thích ==

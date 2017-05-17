@@ -1,0 +1,195 @@
+Windows XP là một hệ điều hành do Microsoft sản xuất dành cho các máy tính cá nhân chạy trên các bộ xử lý x86 và IA-64 (mã phiên bản là 5.1), hướng tới các máy tính dùng trong gia đình và kinh doanh, máy tính xách tay, và trung tâm phương tiện. Tên "XP" là cách viết ngắn gọn của "experience". Windows XP là hệ điều hành kế nhiệm của cả Windows 2000 và Windows Me, và là hệ điều hành đầu tiên của Microsoft hướng đến người tiêu dùng được xây dựng trên nhân và kiến trúc của Windows NT. Windows XP được ra mắt vào ngày 25 tháng 10 năm 2001, và cho tới tháng 1 năm 2006, trên 400 triệu bản đã được bán ra, theo như ước tính của một chuyên gia IDC. XP được kế nhiệm bởi Windows Vista, được phát hành cho các nhà bán lẻ vào ngày 8 tháng 11 năm 2006, và phát hành rộng rãi vào ngày 30 tháng 1 năm 2007. Việc bán trực tiếp Windows XP qua kênh bán lẻ và OEM đã ngưng vào ngày 30 tháng 6 năm 2008, mặc dù vẫn có thể mua được Windows XP từ các Nhà xây dựng hệ thống (OEM nhỏ hơn bán máy tính lắp ráp) cho đến ngày 31 tháng 7 năm 2009 hoặc bằng cách mua Windows Vista Ultimate hoặc Business rồi hạ cấp xuống Windows XP.
+
+
+== Tình trạng ==
+Microsoft đã ngừng hỗ trợ cập nhật cho Windows XP vào ngày 8 tháng 4 năm 2014, tuy nhiên họ vẫn cho phép người dùng tiếp tục cập nhật thông qua PCMover Express.
+
+
+== Các phiên bản ==
+Windows XP bao gồm các phiên bản sau:
+Starter Edition: Phiên bản rút gọn, lược bỏ các tính năng cao cấp, không cầu kì về giao diện, gọn nhẹ, thích hợp với các máy netbook có cấu hình thấp.
+Home Edition: Lược bỏ một số tính năng nâng cao như Backup.
+Professional: có đầy đủ các tính năng của tất cả các phiên bản kia cộng lại, giúp người dùng có được một sức mạnh toàn năng trong trao đổi thông tin và giải trí mọi lúc mọi nơi, hướng tới các cá nhân, tổ chức muốn một giải pháp trọn vẹn cho việc hoạt động máy vi tính của họ. Các chức năng kết nối mạng văn phòng cũng như kết nối mạng đầy đủ, hướng tới các công ty lớn, các doanh nhân thường xuyên làm việc với máy vi tính để trao đổi dữ liệu.
+Phiên bản phổ biến của hệ điều hành này là Windows XP Home Edition, nhắm đến người dùng gia đình, và Windows XP Professional, cung cấp thêm một số tính năng như hỗ trợ tên miền Windows Server và hỗ trợ hai bộ vi xử lý vật lý, nhắm đến người dùng cần chức năng, kinh doanh và khách hàng là công ty lớn. Windows XP Media Center Edition có thêm các tính năng giải trí đa phương tiện nâng cao khả năng ghi hình và xem các chương trình TV, xem phim DVD, và nghe nhạc. Windows XP Tablet PC Edition được thiết kế để chạy các ứng dụng dùng bút cảm ứng xây dựng trên nền hệ Máy tính bảng. Windows XP sau đó còn được phát hành thêm cho hai kiểu kiến trúc nữa, Windows XP 64-bit Edition dành cho các bộ xử lý IA-64 (Itanium) và Windows XP Professional x64 Edition dành cho x86-64. Cũng có Windows XP Embedded, một phiên bản là bộ phận cấu thành của Windows XP Professional, và các phiên bản dành riêng cho từng thị trường như Windows XP Starter Edition.
+Windows XP nổi tiếng nhờ tính ổn định và hiệu năng được nâng cao so với các phiên bản 9x của Microsoft Windows. Nó có giao diện người dùng đồ họa được thiết kế lại đáng kể, một sự thay đổi mà theo Microsoft là thân thiện với người dùng hơn các phiên bản trước của Windows. Một khả năng quản lý phần mềm mới có tên Side-by-Side Assembly được giới thiệu để tránh trường hợp "DLL hell" (một trường hợp tai họa cho các phiên bản 9x hướng người tiêu dùng của Windows. Nó cũng là phiên bản Windows đầu tiên sử dụng tính năng kích hoạt sản phẩm để chống lại các bản sao chép bất hợp pháp, một sự hạn chế không thích hợp với một số người dùng và những người ủng hộ quyền riêng tư. Windows XP cũng bị một số người dùng chỉ trích vì các lỗ hổng bảo mật, tích hợp quá nhiều các ứng dụng mặc định như Internet Explorer 6 và Windows Media Player. Các phiên bản sau với Service Pack 2, và Internet Explorer 7 đã giải quyết một số các lo ngại này.
+Trong quá trình phát triển, dự án được đặt tên mã là "Whistler", đặt theo Whistler, British Columbia, nơi nhiều nhân viên Microsoft trượt tuyết tại khu trượt tuyết Whistler-Blackcomb.
+Vào cuối tháng 2 năm 2009, Windows XP vẫn là hệ điều hành được sử dụng nhiều nhất trên thế giới với thị phần 63.53% (đã giảm nhiều so với con số 85% vào tháng 12 năm 2006).
+
+
+== Thị trường ==
+
+Hai phiên bản lớn nhất là Windows XP Home Edition, thiết kế cho người dùng gia đình, và Windows XP Professional, dành cho doanh nghiệp và người dùng yêu cầu chức năng. XP Professional có các tính năng nâng cao mà người dùng gia đình bình thường sẽ không dùng đến. Tuy nhiên, các tính năng này không nhất thiết là không tồn tại trong XP Home. Chúng thường được tắt, nhưng vẫn ở đó và có thể hoạt động. Các phiên bản này được bán lẻ tại các quầy bán phần mềm máy tính, và được cài đặt sẵn trên các máy tính do những nhà sản xuất máy tính lớn bán ra. Vào giữa năm 2008, cả hai phiên bản này vẫn tiếp tục được bán. Phiên bản thứ ba, có tên gọi Windows XP Media Center Edition được giới thiệu vào năm 2002 và được cập nhật hàng năm cho đến năm 2006 để bổ sung các tính năng phương tiện kỹ thuật số mới, phát truyền hình và Media Center Extender. Không giống bản Home và Professional, nó không được bán ở các kệ bán lẻ, mà chỉ bán thông qua các kênh OEM, hoặc được cài đặt sẵn trên các máy tính được quảng bá là "máy tính trung tâm giải trí".
+Ngoài ra, còn có hai phiên bản 64-bit khác, một được thiết kế đặc biệt cho các máy trạm trên nền Itanium, ra mắt vào năm 2001 trong cùng khoảng thời gian với các phiên bản Home và Professional, nhưng đã bị dừng phát hành một vài năm sau đó khi hãng bán phần cứng Itanium dừng bán các máy thuộc dòng máy trạm do số lượng bán ra thấp. Cái còn lại, có tên là Windows XP Professional x64 Edition, hỗ trợ cho bộ mở rộng x86-64 của kiến trúc Intel IA-32. x86-64 do AMD hiện thực với tên "AMD64", có trong các con chip Opteron và Athlon 64 của AMD, và được Intel hiện thực với tên "Intel 64" (trước đây có tên IA-32e và EM64T), có trong Pentium 4 trở về sau.
+
+Windows XP Tablet PC Edition được giới thiệu dành cho một loại máy tính notebook/laptop được thiết kế đặc biệt có tên là máy tính bảng. Nó tương thích với màn hình cảm ứng, hỗ trợ ghi chép viết tay và màn hình nằm đứng.
+Microsoft cũng phát hành Windows XP Embedded, một phiên bản dành một số thiết bị điện tử người dùng cụ thể, hộp tiếp sóng, kiosk/ATM, thiết bị y tế, máy trò chơi điện tử cầm tay, quầy thu tiền, và các thành phần VoIP. Vào tháng 7 năm 2006, Microsoft phát hành Windows Fundamentals for Legacy PCs, một phiên bản thin client của Windows XP Embedded nhắm đến các đời máy cũ (như dòng Pentium nguyên thủy). Nó chỉ dành cho các khách hàng Bảo hiểm Phần mềm. Hệ điều hành này dành cho những khách hàng doanh nghiệp muốn nâng cấp lên Windows XP để tận dụng tính bảo mật và khả năng quản lý của nó, nhưng không đủ tiền để mua phần cứng mới.
+
+
+=== Các phiên bản dành cho các thị trường nhất định ===
+Windows XP Starter Edition là một phiên bản giá thấp của Windows XP dành cho các thị trường Thái Lan, Thổ Nhĩ Kỳ, Malaysia, Indonesia, Nga, Ấn Độ, Colombia, Brasil, Argentina, Peru, Bolivia, Chile, México, Ecuador, Uruguay và Venezuela. Nó tương tự như Windows XP Home, nhưng giới hạn cho những phần cứng cấp thấp, chỉ có thể chạy 3 chương trình một lúc, và có một số tính năng khác được mặc định tắt hoặc gỡ bỏ. Các phiên bản của mỗi quốc gia cũng được đình chỉnh dành riêng cho quốc gia đó, trong đó có hình nền là địa điểm nổi tiếng tại quốc gia đó, các tính năng trợ giúp được bản địa hóa để giúp đỡ những người không biết tiếng Anh, và các thiết lập mặc định khác giúp dễ dùng hơn so với khi cài đặt Windows XP thông thường. Ví dụ như phiên bản Malaysia có hình nền là không ảnh của Kuala Lumpur.
+Vào tháng 3 năm 2004, Ủy ban châu Âu đã phạt Microsoft 497 triệu euro và ra lệnh cho công ty này phải cung cấp một phiên bản Windows không có Windows Media Player. Ủy ban kết luận rằng Microsoft "đã vi phạm luật cạnh tranh của Liên minh châu Âu bằng cách đẩy sự độc quyền trong thị trường hệ điều hành dành cho máy tính để bàn sang thị trường dành cho hệ điều hành máy chủ phục vụ nhóm làm việc và trình chơi nhạc". Sau khi kháng án không thành vào năm 2004 và 2005, Microsoft đã có thỏa thuận với Ủy ban sẽ phát hành một phiên bản thể theo bàn án của tòa, Windows XP Edition N. Phiên bản này không có Windows Media Player, thay vào đó, nó khuyến khích người dùng tự chọn và tải về trình chơi nhạc của riêng họ. Microsoft muốn đặt tiên cho phiên bản này là Reduced Media Edition, nhưng tổ chức thi hành của EU đã phản đối và đề nghị tên Edition N, với chỉ N có nghĩa là "not with Media Player" (không có Media Player) cho cả phiên bản Home và Professional của Windows XP. Vì nó được bán ngang giá với phiên bản có Windows Media Player, Dell, Hewlett-Packard, Lenovo và Fujitsu Siemens đã không dùng nó trong sản phẩm. Tuy nhiên, Dell có đưa ra hệ điều hành này một thời gian ngắn. Tỷ lệ người dùng hệ điều hành này thấp, với chỉ 1.500 đơn vị được bán cho OEM, và không thấy có báo cáo về số lượng bán cho người tiêu dùng.
+Vào tháng 12 năm 2005, Ủy ban Thương mại Công bằng Hàn Quốc đã yêu cầu Microsoft bán các phiên bản Windows XP và Windows Server 2003 không có Windows Media Player hoặc Windows Messenger. Giống như phán quyết của Ủy ban châu Âu, phán quyết này dựa trên hoàn cảnh Microsoft đã lạm dụng vị trí thống trị của mình trong thị trường để đẩy các sản phẩm khác vào tay người dùng. Tuy nhiên, không giống như quyết định của châu Âu, Microsoft còn bị buộc phải rút các phiên bản Windows không phù hợp ra khỏi thị trường Hàn Quốc. Quyết định này khiến cho Microsoft phải phát hành các biến thể "K" và "KN" của các phiên bản Home và Professional vào tháng 8 năm 2006.
+Cũng cùng năm đó, Microsoft cũng phát hành hai phiên bản Windows XP Home Edition nhắm tới mô hình ra giá dựa trên thuê bao và trả tiền khi xài. Các phiên bản này, được phát hành như một phần của sáng kiến FlexGo của Microsoft, được dùng kèm với một thành phần phần cứng để hạn chế thời gian sử dụng Windows. Thị trường mục tiêu là những nền kinh tế đang nổi như Brasil hay Việt Nam.
+
+
+=== Ngôn ngữ ===
+Windows XP có nhiều phiên bản ngôn ngữ. Ngoài ra, gói MUI và Language Interface Pack dùng để dịch giao diện người dùng cũng có ở một số ngôn ngữ.
+
+
+== Các tính năng mới và được cải tiến ==
+
+Windows XP đã ra mắt một số tính năng mới cho dòng Windows, trong đó có:
+Tiến trình khởi động và ngủ đông nhanh hơn
+Khả năng loại bỏ một trình điều khiển thiết bị mới hơn để thay bằng một trình cũ hơn (có tên driver rollback), nếu khi cập nhật trình điều khiển cho ra kết quả không mong muốn
+Một giao diện mới, được cho là thân thiện với người dùng hơn, trong đó có nền tảng để phát triển các chủ đề (theme) cho môi trường để bàn
+Fast user switching, cho phép người dùng lưu trạng thái hiện tại và các ứng dụng đang mở để cho phép người dùng khác đăng nhập mà không làm mất thông tin
+Cơ chế hiển thị font ClearType, được thiết kế để tăng tính dễ đọc trên các màn hình LCD và các màn hình tương tự
+Tính năng Remote Desktop, cho phép người dùng kết nối với một máy tính đang chạy Windows XP Pro thông qua mạng hoặc Internet và truy cập các ứng dụng, tập tin, máy in, và thiết bị của máy đó
+Hỗ trợ hầu hết các loại modem DSL và kết nối mạng không dây, cũng như nối mạng thông qua FireWire và Bluetooth.
+
+
+== Giao diện người dùng ==
+Windows XP đưa ra một giao diện người dùng đồ họa dựa trên tác vụ mới. Trình đơn Start và khả năng tìm kiếm được thiết kế lại và thêm vào nhiều hiệu ứng hình ảnh, trong đó có:
+Hình chữ nhật lựa chọn màu xanh mờ trong Explorer
+Đổ bóng cho tên biểu tượng trên màn hình desktop
+Thanh ngang dựa trên tác vụ trong các cửa Explorer ("tác vụ thường dùng")
+Khả năng nhóm các nút trên thanh tác vụ đại diện cho các cửa sổ của một ứng dụng thành một nút duy nhất
+Khả năng khóa thanh tác vụ và các thanh công cụ khác để ngăn các thay đổi vô ý
+Làm nổi bật các chương trình vừa mới thêm vào trình đơn Start
+Tạo bóng dưới các trình đơn (Windows 2000 có bóng dưới con trỏ, nhưng không có bóng dưới trình đơn)
+Windows XP phân tích tác động của các hiệu ứng hình ảnh lên hiệu năng và dùng nó để xác định có nên kích hoạt chúng không, do đó ngăn ngừa các tính năng mới ngốn quá nhiều tài nguyên xử lý. Người dùng cũng có thể điều chỉnh các thiết lập này. Một số hiệu ứng, như trộn alpha (trong suốt rồi giảm dần), được xử lý hoàn toàn bởi các loại card đồ họa mới. Tuy nhiên, nếu card đồ họa không có khả năng trộn alpha, hiệu năng có thể bị ảnh hưởng đáng kể, và Microsoft khuyến cáo nên tắt tính năng này bằng tay. Windows XP thêm các khả năng để Windows có thể sử dụng "Kiểu Thị giác" để thay đổi giao diện người dùng. Tuy nhiên, các kiểu thị giác phải được Microsoft ký tên mã hóa thì mới chạy được. Luna là tên của kiểu thị giác mới đi kèm với Windows XP, và được kích hoạt mặc định đối với các máy có bộ nhớ RAM video hơn 64 MiB. Luna dùng để chỉ một kiểu thị giác cụ thể, chứ không phải tất cả các tính năng giao diện mới của Windows XP. Một số người dùng "vá" tập tin uxtheme.dll hạn chế khả năng sử dụng kiểu thị giác trên Windows XP.
+Ngoài các chủ đề đi kèm với Windows XP, có một chủ đề trước đó không được phát hành với thanh tác vụ màu xanh đen và thanh cửa sổ tương tự với Windows Vista có tên "Royale Noir" có sẵn để tải về, mặc dù nó không chính thức. Microsoft đã chính thức phát hành một phiên bản chỉnh sửa của chủ đề này với tên chủ đề "Zune", để chào mừng sự ra mắt máy chơi nhạc bỏ túi Zune vào tháng 11 năm 2006. Sự khác nhau duy nhất là cảm giác bóng như gương kèm với một thanh tác vụ màu đen thay vì màu xanh đen và nút Start màu cam thay vì màu xanh lá cây. Ngoài ra, chủ đề "Royale" của Media Center, được kèm trong các phiên bản Media Center, cũng có sẵn để tải về và có thể dùng trên mọi phiên bản Windows XP.
+Hình nền mặc định, Bliss, là ảnh phong cảnh ở Thung lũng Napa bên ngoài Napa, California theo định dạng BMP, có những ngọn đồi và bầu trời xanh với các đám mây tầng tích và mây ti.
+Giao diện Windows 2000 "cổ điển" cũng có thể dùng thay thế nếu muốn. Một số tiện ích của bên thứ ba có thể dùng để bổ sung hàng trăm kiểu thị giác. Microsoft đã cấp phép công nghệ cho hãng tạo ra WindowBlinds và Stardock để tạo ra các kiểu thị giác trong XP.
+
+
+== Yêu cầu hệ thống ==
+
+Yêu cầu hệ thống của Windows XP Home và Professional như sau:
+
+Chú giải 1: Mặc dù đây là tốc độ bộ xử lý tối thiểu mà Microsoft đưa ra để chạy Windows XP, vẫn có thể cài đặt và chạy hệ điều hành trên các bộ xử lý IA-32 cũ hơn như Pentium không có bộ lệnh MMX hoặc SSE.
+Chú giải 2: "Với nhiều công việc như duyệt Web, thư điện tử, và các hoạt động khác, 64 MB RAM sẽ cung cấp trải nghiệm người dùng tương đương hoặc cao hơn Windows Me chạy trên cùng phần cứng".
+
+
+== Các gói dịch vụ ==
+Microsoft thỉnh thoảng phát hành các service pack dành cho hệ điều hành Windows cũng hãng để sửa các lỗi và thêm tính năng. Mỗi service pack là một gói lớn gồm tất cả các service pack trước đó cùng với những bản vá, do đó chỉ cần cài đặt những service pack mới nhất. Bạn cũng không cần phải gỡ bỏ các service pack cũ hơn trước khi cài một bản service pack mới.
+Các chi tiết về service pack phía dưới chỉ dùng cho phiên bản 32-bit. Windows XP Professional x64 Edition dựa trên Windows Server 2003 Service Pack 1 và đã được gọi là "SP1" trong thuộc tính hệ thống ngay bản phát hành đầu tiên. Nó được cập nhật cùng bản service pack lẫn vá khẩn cấp chung với phiên bản x64 của Windows Server 2003.
+
+
+=== Gói dịch vụ 1 ===
+
+Gói dịch vụ 1 (SP1) dành cho Windows XP được phát hành vào ngày 9 tháng 9 năm 2002. Nó có các bản sửa lỗi bảo mật hậu-RTM và bản sửa lỗi khẩn cấp, các cập nhật tương thích, hỗ trợ tùy chọn .NET Framework, kích hoạt các công nghệ dành cho thiết bị mới như máy tính bảng, và một phiên bản Windows Messenger 4.7 mới. Tính năng mới đáng chú ý nhất là hỗ trợ USB 2.0 và tiện ích Set Program Access and Defaults nhắm đến những sản phẩm ẩn nằm ở giữa. Người dùng có thể điều khiển ứng dụng mặc định sẽ sử dụng cho các hoạt động như lướt web và tin nhắn nhanh, cũng như ẩn truy cập đến một số chương trình đóng gói của Microsoft. Tiện ích này lần đầu tiên xuất hiện trong hệ điều hành Windows 2000 Service Pack 3. Bản Service Pack này mặc định hỗ trợ SATA và ổ cứng có dung lượng hơn 137GB (hỗ trợ LBA). Máy ảo Java của Microsoft, không có trong phiên bản RTM, đã xuất hiện trong bản Service Pack này. Sự hỗ trợ cho IPv6 cũng được ra mắt trong Service Pack này.
+Vào ngày 3 tháng 2 năm 2003, Microsoft phát hành Service Pack 1a (SP1a). Lần phát hành này bỏ đi máy ảo Java của Microsoft do kết quả vụ kiện với Sun Microsystems.
+
+
+=== Gói dịch vụ 2 ===
+
+Gói dịch vụ (SP2) (tên mã "Springboard") được phát hành vào ngày 6 tháng 4 năm 2004 sau một vài lần trì hoãn, tập trung vào tính bảo mật. Không giống như các service pack khác, SP2 bổ sung nhiều chức năng mới cho Windows XP, trong đó có tường lửa nâng cao, tăng cường hỗ trợ Wi-Fi, như tương thích với mã hóa WPA, với tiện ích thuật sĩ, trình khóa quảng cáo popup dành cho Internet Explorer 6, và hỗ trợ Bluetooth. Màn hình chào mừng mới xuất hiện trong quá trình khởi động nhân đã bỏ các phụ đề "Professional", "Home Edition" và "Embedded" vì Microsoft đã giới thiệu thêm các phiên bản Windows XP khác trước khi phát hành SP2. Thanh đang tải màu xanh lá cây trong Home Edition và màu vàng trong Embedded được thay bằng thanh màu xanh, như trong bản Professional và các phiên bản khác của Windows XP, như vậy màn hình khởi động của tất cả các phiên bản hệ điều hành đã hoàn toàn giống nhau. Màu sắc ở những chỗ khác, như Control Panel và các công cụ Help and Support, vẫn giữ nguyên như trước.
+Service Pack 2 cũng thêm các cải tiến bảo mật mới, bao gồm chỉnh sửa lớn đối với trình tường lửa đi kèm được đổi tên thành Windows Firewall và đã được kích hoạt mặc định, Data Execution Prevention, hỗ trợ phần cứng tốt hơn trong NX bit có thể ngăn được một số dạng tấn công tràn bộ đệm. Ngoài ra, hỗ trợ socket thô cũng bị loại bỏ (để hạn chế thiệt hại do máy tính ma tạo ra). Hơn thế, bản service pack này đã cải tiến một số tính năng bảo mật cho email và duyệt web. Windows XP Service Pack 2 đưa vào Windows Security Center, hiển thị tổng quan tình trạng bảo mật của hệ thống, trong đó có tình trạng của phần mềm diệt virus, Windows Update, và Windows Firewall mới. Các ứng dụng diệt virus và tường lửa của bên thứ ba có thể giao tiếp với Security Center mới này.
+Vào ngày 10 tháng 8 năm 2007, Microsoft thông báo một cập nhật nhỏ cho Service Pack 2, có tên Service Pack 2c (SP2c). Bản cập nhật này sửa vấn đề có quá ít khóa sản phẩm cho Windows XP. Bản cập nhật này chỉ dành cho các nhà xây dựng hệ thống từ nhà phân phối của họ cho Windows XP Professional và Windows XP Professional N. SP2c phát hành vào tháng 9 năm 2007.
+
+
+=== Gói dịch vụ 3 ===
+Windows XP Gói dịch vụ 3 (SP3) được phát hành cho nhà sản xuất vào ngày 21 tháng 4 năm 2008 và cho công chúng thông qua Microsoft Download Center và Windows Update vào ngày 6 tháng 5 năm 2008.
+Bộ service pack này bắt đầu tự động yêu cầu người dùng cập nhật thông qua Automatic Update vào ngày 10 tháng 7 năm 2008. Microsoft đã đăng một bản tổng quan về các tính năng trong đó liệt kê chi tiết các tính năng mới có thể tải độc lập như các bản cập nhật cho Windows XP, cũng như các tính năng backporting từ Windows Vista. Trong SP3, có tổng cộng 1.174 lỗi được sửa. Service Pack 3 có thể cài đặt trên hệ thống bằng Internet Explorer 6 hoặc 7, và Windows Media Player phiên bản 9 trở lên. Internet Explorer 7 không đi kèm trong SP3.
+
+
+==== Các tính năng mới trong Gói dịch vụ 3 ====
+Tự động bật chức năng dò lỗ đen
+Trình Network Access Protection
+Ủy nhiệm thư Security Service Provider 
+Tùy chọn bảo mật dễ hiểu hơn giao diện Group Policy/Local Security Policy
+Bản Microsoft Kernel Mode Cryptographic Module được cập nhật, được chứng nhận FIPS 140-2 (giải thuật SHA-256, SHA-384 và SHA-512) 
+Cài đặt mà không đòi khóa sản phẩm khi cài đặt trên các phiên bản bán lẻ và OEM
+
+
+==== Các bản cập nhật đã phát hành trước đó ====
+Service Pack 3 cũng đưa vào một số bản cập nhật quan trọng trước đó dành cho Windows XP, nhưng đã không kèm trong SP2 gồm:
+Windows Imaging Component 
+Cập nhật IPSec Simple Policy để đơn giản hóa việc khởi tạo và bảo trì các bộ lọc IPSec 
+Background Intelligent Transfer Service (BITS) 2.5
+MSXML 6.0 SP2 và XMLLite
+Microsoft Management Console 3.0
+Cập nhật Dịch vụ Credential Roaming (Digital Identity Management Service)
+Remote Desktop Protocol 6.1
+Peer Name Resolution Protocol 2.1
+Cập nhật Network Diagnostics
+Cập nhật WPA2 Update (KB893357)
+Mặc dù đến nay các bản service pack đều mang tính tích lũy, khi cài đặt SP3 trên hệ điều hành Windows XP có sẵn vẫn yêu cầu máy tính ít nhất đã phải cài đặt Service Pack 1.
+Service Pack 3 có các bản cập nhật cho các thành phần hệ điều hành của phiên bản Windows XP Media Center Edition (MCE) và Windows XP Tablet PC Edition, và cập nhật bảo mật cho.NET Framework phiên bản 1.0, được kèm trong những SKU của Windows XP này. Tuy nhiên, nó không kèm theo các cập nhật cho ứng dụng Windows Media Center trong Windows XP MCE 2005, SP3 cũng bỏ đi các cập nhật bảo mật cho Windows Media Player 10, mặc dù trình duyệt này được kèm trong Windows XP MCE 2005 . Address Bar DeskBand trên Thanh tác vụ không còn kèm trong SP3 do hạn chế về pháp lý.
+
+
+== Vòng thời gian hỗ trợ ==
+Việc hỗ trợ cho Windows XP không có service pack đã kết thúc vào ngày 30 tháng 9 năm 2004 và hỗ trợ cho Windows XP Service Pack 1 và 1a kết thúc vào ngày 10 tháng 10 năm 2006.
+Windows XP Service Pack 2 được nghỉ vào ngày 13 tháng 7 năm 2010, gần sáu năm sau khi ra đời. Theo thời gian biểu do Microsoft công bố, công ty sẽ ngừng việc cấp phép Windows XP cho các hãng OEM và ngưng việc bán lẻ hệ điều hành vào ngày 30 tháng 6 năm 2008, 17 tháng sau khi phát hành Windows Vista. Tuy nhiên, hãng đã công bố một ngoại lệ vào ngày 3 tháng 4 năm 2008, đối với các hãng OEM cài đặt cho các máy PC giá cực thấp (ULCPC) thì hoặc là hạn chót là 30 tháng 6 năm 2010, hoặc một năm sau khi ra mắt phiên bản dành cho máy khách đầu tiếp theo của Windows, Windows 7—tùy theo ngày nào đến sau.
+Vào ngày 14 tháng 4 năm 2009, Windows XP bắt đầu giai đoạn "Hỗ trợ mở rộng" và kéo dài trong 5 năm cho đến ngày 8 tháng 4 năm 2014.
+
+
+== Các chỉ trích phổ biến ==
+
+
+=== Vấn đề bảo mật ===
+Windows XP thường xuyên bị chỉ trích vì sự nhạy cảm với phần mềm độc hại, virus, trojan, và sâu. Các vấn đề bảo mật tựu trung lại đều bị quy về lý do là một cách mặc định, người dùng luôn nhận được một tài khoản quản trị cung cấp quyền truy cập không giới hạn đến những thứ nằm sâu trong hệ thống. Nếu tài khoản quản trị đó bị xâm nhập, không còn thứ gì có thể ngăn cản việc điều khiển máy tính bị lây nhiễm đó.
+Windows, với thị phần rất lớn, từ trước tới nay luôn là mục tiêu lý tưởng của những kẻ viết virus. Các lỗ hổng bảo mật thường không lộ diện cho đến khi chúng bị khám phá, gây khó khăn để phòng ngừa. Microsoft đã nói rằng việc phát hành các bản vá để sửa các lỗ hổng bảo mật thường lại chính là nguyên nhân phát tán sự khai thác các lỗ hổng tương tự, vì các cracker sẽ khám phá ra những vấn đề mà miếng vá đó sẽ sửa chữa, rồi sau đó thực hiện tấn công các hệ thống chưa được vá. Microsoft khuyến cáo tất cả các hệ thống cần bật chức năng tự động cập nhật để ngăn ngừa hệ thống khỏi bị tấn công do vì một lỗi chưa được vá, nhưng một số phòng ban IT của doanh nghiệp cần phải kiểm tra các bản cập nhật trước khi cài chúng lên toàn hệ thống để dự đoán các vấn đề tương thích với những phần mềm tự viết và các cơ sở hạ tầng. Thời gian trì hoãn này cũng kéo dài khoảng thời gian thiếu an toàn của hệ thống khi có một bản vá được phát hành.
+
+
+=== Hiệu năng của giao diện người dùng ===
+Những lời chỉ trích cho rằng giao diện người dùng mặc định của Windows XP (Luna) đã tăng thêm sự hỗn loạn về hình ảnh và hao phí không gian màn hình trong khi không đưa ra chức năng nào mới và chạy còn chậm hơn. Những người dùng than phiền như vậy có thể chuyển lại về chủ đề Windows Cổ điển.
+
+
+=== Sự tích hợp các tính năng của hệ điều hành ===
+Theo vụ Hoa Kỳ kiện Microsoft mà kết quả là Microsoft bị tuyên bố có trách nhiệm trong việc lạm dụng tính độc quyền trong thị trường hệ điều hành để lấn lướt các đối thủ trong thị phần khác, Windows XP đã chuốc lấy rắc rối khi tích hợp các ứng dụng người dùng như Windows Media Player và Windows Messenger vào hệ điều hành, cũng như mối liên kết chặt chẽ giữa chúng với dịch vụ Windows Live ID.
+
+
+=== Tương thích ngược ===
+Một số người dùng chuyển từ Windows 9x sang XP không thích việc Windows XP thiếu hỗ trợ DOS. Mặc dù XP có khả năng chạy các chương trình DOS trong máy DOS ảo, nó vẫn gặp vấn đề khi chạy các chương trình DOS cũ. Điều này xảy ra chủ yếu do nó là một hệ thống Windows NT và không dùng DOS làm hệ điều hành nền tảng, và rằng kiến trúc Windows NT khác biệt với Windows 9x. Một số chương trình DOS không thể chạy thực sự trên XP, đáng chú ý nhất là các chương trình dựa vào việc truy cập trực tiếp vào phần cứng, có thể chạy trong các trình giả lập, như DOSBox, hoặc các máy ảo, như VMware, Microsoft Virtual PC hay VirtualBox.
+
+
+=== Kích hoạt và xác minh sản phẩm ===
+
+
+==== Kích hoạt sản phẩm ====
+Để giảm tình trạng vi phạm bản quyền, Windows XP đã giới thiệu chức năng kích hoạt sản phẩm. Việc kích hoạt đòi hỏi máy tính hoặc người dùng phải kích hoạt sản phẩm với Microsoft (có thể trực tuyến hoặc qua điện thoại) trong một khoản thời gian nhất định để có thể tiếp tục sử dụng hệ điều hành. Nếu hệ thống máy tính của người dùng có sự thay đổi—ví dụ, nếu hai hoặc nhiều thành phần hệ thống tương ứng khác được nâng cấp—Windows sẽ quay trở lại trạng thái chưa kích hoạt và sẽ yêu cầu kích hoạt lại trong một khoảng thời gian quy định trước. Nếu người dùng cố gắng tái kích hoạt quá nhiều lần hệ thống sẽ từ chối kích hoạt trực tuyến. Người dùng khi đó phải liên hệ với Microsoft qua điện thoại, để giải thích tại sao điều đó xảy ra, rồi mới lấy được một mã kích hoạt mới.
+Tuy nhiên, việc kích hoạt chỉ áp dụng cho những bản sao Windows dành cho nhà bán lẻ và "hãng lắp ráp hệ thống". Những bản "OEM trung thành" (được các hãng máy tính lớn sử dụng) dùng cách thay thế là khóa một chữ ký đặc biệt trong BIOS máy tính (và sẽ yêu cầu kích hoạt nếu hệ điều hành được chuyển sang một hệ thống có bo mạch chủ không có chữ ký) và các bản cấp phép theo gói thì không cần phải kích hoạt gì cả. Vô hình trung điều hành đã dẫn tới việc những kẻ vi phạm bản quyền chỉ cần sử dụng những bản sao cấp phép theo gói kèm với các khóa cấp phép theo gói được phán tán rộng rãi trên Internet.
+
+
+==== Kiểm tra khóa sản phẩm ====
+Bên cạnh việc kích hoạt, các bản service pack Windows XP sẽ từ chối cài đặt trên các hệ thống Windows có khóa sản phẩm được nhận biết là đang được dùng phổ biến trong các bản cài đặt phi pháp. Những khóa sản phẩm này thực ra là duy nhất trong mỗi một bản Windows đóng hộp (hoặc đóng gói) và ghi kèm trong tài liệu hướng dẫn sử dụng, nhưng một số khóa sản phẩm đã bị đăng lên Internet rồi sau đó được sử dụng trong nhiều bản cài đặt phi pháp. Các service pack còn chứa một danh sách các khóa kiểu này và sẽ không cập nhật các bản Windows XP đang dùng chúng.
+Microsoft đã phát triển một bộ máy xác minh khóa mới dành cho Windows XP Service Pack 2 có thể kiểm tra các khóa lậu, thậm chí nhũng khóa chưa từng được sử dụng trước đây. Sau khi bị những nhà tư vấn bảo mật phản đối vì sợ việc từ chối không cho các máy vi phạm cài các bản cập nhật bảo mật có thể dẫn đến hậu quả rộng cho cả những người sở hữu hợp pháp, Microsoft đã quyết định tắt cơ chế xác minh khóa mới này. Service Pack 2 chỉ kiểm tra một danh sách nhỏ các khóa thường dùng như trong Service Pack 1. Điều này có nghĩa là tuy Service Pack 2 không cài trên các bản Windows sử dụng tập khóa sao chép cũ, những máy dùng khóa mới được đăng vẫn có thể cập nhật hệ thống của họ được.
+
+
+==== Windows Genuine Advantage ====
+
+Trong nỗ lực nhằm kiềm chế vi phạm bản quyền dựa trên các khóa cấp phép theo gói bị rò rỉ hoặc tạo ra trên mạng, Microsoft đã cho mắt Windows Genuine Advantage (WGA). WGA bao gồm hai phần, một công cụ xác minh phải dùng khi tải một số thứ từ Microsoft và một hệ thống thông báo người dùng. WGA dành cho Windows được tiếp nối bằng các hệ thống xác minh dành cho Internet Explorer 7, Windows Media Player 11, Windows Defender, và Microsoft Office 2007. Gần đây Microsoft đã gỡ bỏ xác minh WGA ra khỏi bản cài đặt Internet Explorer 7 nói rằng mục đích của sự thay đổi này là để đưa IE7 đến với mọi người dùng Windows.
+Nếu khóa giấy phép bị đánh giá là không thật, nó sẽ hiển thị một màn hình mè nheo thường xuyên yêu cầu người dùng mua giấy phép từ Microsoft. Thêm vào đó, người dùng bị hạn chế khi truy cập vào Microsoft Update để tải các bản cập nhật bảo mật, và như vậy, các bản cập nhật nâng cao mới và các sản phẩm Microsoft khác sẽ không thể được tải về hoặc cài đặt nữa. Vào ngày 26 tháng 8 năm 2008, Microsoft đã phát hành chương trình kích hoạt WGA mới hiển thị một màn hình nền màu đen nếu máy tính không vượt qua được cuộc xác minh. Hình nền có thể được đổi, nhưng sẽ quay về đen sau 60 phút.
+Những chỉ trích phổ biến đối với WGA gồm có việc Microsoft miêu tả nó là "Bản cập nhật bảo mật tối quan trọng", khiến cho Automatic Updates mặc định tải nó về mà người dùng không tài nào can thiệp được, hành vi của nó giống như một phần mềm gián điệp liên tục "gọi về" Microsoft mỗi khi máy tính kết nối vào Internet, việc không thông báo cho người dùng cuối viết WGA đang thực sự làm cái gì sau khi được cài đặt (đã được sửa trong bản cập nhật 2006), không cung cấp một phương cách gỡ bỏ hợp lý trong suốt bản thử nghiệm beta (người dùng được cung cấp hướng dẫn gỡ bỏ bằng tay nhưng không hoạt động cho đến bản chính thức), và sự nhạy cảm của nó đối với sự thay đổi hệ thống phần cứng dẫn đến đòi tái kích hoạt liên tục đối với một số nhà phát triển.
+Nói một cách thẳng thắn, việc tải về hay cài đặt Thông báo đều không phải bắt buộc; người dùng có thể thay đổi thiết lập của Automatic Updates của họ để cho phép họ chọn tải về và cài đặt bản cập nhật nào. Nếu bản cập nhật đã được tải về rồi, người dùng có thể chọn không chấp nhận EULA bổ sung đi theo Thông báo. Trong cả hai trường hợp đó, người dùng cũng có thể yêu cầu bản cập nhật không được hiển thị nữa. Các Cập nhật Bảo mật Tối quan trọng mới hơn vẫn có thể cài đặt mà không hiển thị yêu cầu WGA nữa. Tuy nhiên thiết lập này sẽ chỉ có tác dụng trên phiên bản hiện tại của Thông báo, do đó nó có thể xuất hiện lại nếu có phiên bản mới. Vào năm 2006, Microsoft đã có dính líu tới một vụ kiện ở California, về việc công ty đã vi phạm các luật chống phần mềm gián điệp của tiểu bang với chương trình Windows Genuine Advantage Notifications của nó.
+
+
+==== 'Bẻ khóa' bảo vệ ====
+Những chương trình "tạo khóa", thường được gọi là "keygen", hiện có để tạo ngẫu nhiên các khóa sản phẩm của Windows XP (do đó, không còn các khóa thường dùng để có thể cấm) rồi sau đó kích hoạt Windows mà không cần phải liên hệ với Microsoft. Những khóa này có thể có hoặc không cho phép người dùng nhận được các bản cập nhật mặc dù Microsoft đã cho phép tải về và cài đặt các bản cập nhật bảo mật quan trọng thông qua Windows Update và trang tải về của nó, thậm chí trong các bản ăn cắp bản quyền và không thật của Windows. Ngoài ra, cũng tồn tại nhiều phiên bản WGA bị bẻ khóa, cho phép một máy tính đang chạy một bản Windows không chính hãng vẫn được xem là bản thật và có thể truy cập tất cả bản cập nhật và cải tiến củ Windows.
+
+
+== Đánh giá người dùng ==
+Windows XP được xem là một trong những HĐH thành công nhất của Microsoft."Giới IT vẫn rất thích hệ điều hành Windows XP, họ nói rằng nó rất tốt và không muốn từ bỏ nó."
+
+
+== Xem thêm ==
+Danh sách các hệ điều hành
+So sánh các hệ điều hành
+Lịch sử hệ điều hành
+
+
+== Sách ==
+Microsoft Windows XP Plain & Simple - J. Joyce and M. Moon, Microsoft Press, USA, 2005. ISBN 0-7356-2112-8
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Trang chủ Microsoft Windows XP
+Sử dụng hệ điều hành Windows XP
+Microsoft Windows XP Reviewers Guide - August 2001 (PDF format)
+Làm sao để cài đặt Windows XP
+Windows XP Việt Nam (tiếng Việt)

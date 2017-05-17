@@ -1,0 +1,27 @@
+Một bộ ứng dụng văn phòng là một bộ sưu tập các phần mềm năng suất đóng gói (một bộ ứng dụng) nhằm hỗ trợ cho công việc của các nhân viên văn phòng. Các thành phần thường được phân phối với nhau, có một giao diện người dùng phù hợp và thường có thể tương tác với nhau, đôi khi theo những cách mà hệ điều hành bình thường sẽ không cho phép.
+Bộ ứng dụng văn phòng sớm nhất cho máy tính cá nhân là Starburst vào đầu năm 1980, bao gồm trình xử lý văn bản WordStar, cùng với các ứng dụng CalcStar (bảng tính) và DataStar (cơ sở dữ liệu). Various other suites arose in the 1980s, and over the course of the 1990s Microsoft Office came to dominate the market, a position it retains tính đến năm 2016.
+
+
+== Các thành phần chính ==
+Hiện nay bộ ứng dụng văn phòng bao gồm nhiều thành phần khác nhau. Nhưng thông thường nó gồm những ứng dụng chính sau:
+Trình soạn thảo văn bản
+Trình xử lý bảng tính
+Phần mềm trình chiếu
+Một số thành phần khác:
+Phần mềm Cơ sở dữ liệu
+Ứng dụng đồ họa (trình biên tập đồ họa raster, trình biên tập đồ họa vector, trình xem ảnh)
+Phần mềm Desktop publishing
+Phần mềm lập biểu đồ
+Email client
+Ứng dụng truyền thông
+Ứng dụng quản lý dự án
+
+
+== Xem thêm ==
+LibreOffice
+OpenOffice.Org
+WPS Office
+Microsoft Office
+
+
+== Chú thích ==

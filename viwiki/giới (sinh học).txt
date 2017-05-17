@@ -1,0 +1,52 @@
+Trong phân loại sinh học, một giới (kingdom hay regnum) là một đơn vị phân loại ở cấp cao nhất (theo lịch sử), hoặc là cấp ngay dưới lãnh giới (trong hệ thống ba lãnh giới mới). Mỗi giới được chia thành các nhóm nhỏ hơn, gọi là ngành (nói chung là "phylum" nhưng đối với thực vật thì hay dùng "division"). Hiện tại, các tài liệu về phân loại tại Hoa Kỳ sử dụng hệ thống 6 giới:
+Animalia - Động vật
+Plantae -Thực vật
+Fungi - Nấm
+Protista - Sinh vật Nguyên sinh
+Archaea - Vi khuẩn cổ
+Bacteria - Vi khuẩn
+Trong khi đó, các tài liệu tương tự tại Anh và Australia lại sử dụng hệ thống 5 giới:
+Animalia - Động vật
+Plantae -Thực vật
+Fungi - Nấm
+Protista - Sinh vật Nguyên sinh
+Monera - Giới Khởi sinh
+Carolus Linnaeus đã phân biệt hai giới của sự sống: Animalia cho động vật và Vegetabilia cho thực vật (Linnaeus cũng xem xét các khoáng vật và đặt chúng trong giới thứ ba, gọi là Mineralia). Linnaeus phân chia mỗi giới thành các lớp, sau này được gộp lại thành các phylum cho động vật và division cho thực vật. Khi các sinh vật đơn bào lần đầu tiên được phát hiện, chúng được phân chia giữa hai giới: dạng có thể vận động trong ngành động vật Protozoa, còn các dạng tảo màu và vi khuẩn thuộc về ngành thực vật gọi là Thallophyta hay Protophyta. Tuy nhiên, một lượng lớn các dạng rất khó để xếp đặt, hoặc được các tác giả khác nhau đặt vào các giới khác nhau. Ví dụ, chi tảo có thể vận động như Euglena và niêm khuẩn dạng giống như trùng biến hình. Kết quả là Ernst Haeckel đã đề xuất việc tạo ra giới thứ ba, gọi là Protista cho chúng.
+
+
+== Hai siêu giới, bốn giới ==
+Việc phát hiện ra vi khuẩn có cấu trúc tế bào khác biệt cơ bản với các sinh vật khác - tế bào vi khuẩn có 1 hay 2 lớp màng nằm tại hay gần với bề mặt của nó, trong khi các sinh vật khác có cấu trúc phức tạp hơn với nhân và các cơ quan tử khác được phân chia bằng các màng nội tế bào — đã dẫn tới việc nhà vi sinh vật học Edouard Chatton đề xuất việc phân chia sự sống thành các sinh vật có nhân vào Eukaryota và các sinh vật không nhân vào Prokaryota.
+Đề xuất của Chatton đã không được chọn ngay, hệ thống điển hình hơn là của Herbert Copeland, trong đó ông xếp các sinh vật nhân sơ (Prokaryota) vào một giới riêng, ban đầu gọi là Mychota nhưng sau đó được gọi là Monera hay Bacteria. Hệ thống bốn giới của Copeland đặt tắt cả các sinh vật nhân chuẩn mà không là động vật hay thực vật vào giới Protista.
+Dần dần, một điều trở nên rõ ràng là các khác biệt giữ sinh vật nhân chuẩn/sinh vật nhân sơ có tầm quan trọng như thế nào, và Stanier cùng C.B. van Niel đã truyền bá đề xuất của Chatton trong thập niên 1960.
+
+
+== Năm giới ==
+Robert Whittaker đã công nhận một giới bổ sung cho nấm là Fungi. Kết quả là Hệ thống năm giới, được đề xuất năm 1968, đã trở thành tiêu chuẩn phổ biến và với một số cải tiến vẫn còn được sử dụng trong rất nhiều tác phẩm về sinh học, hoặc tạo thành nền tảng cho các hệ thống nhiều giới mới hơn. Nó dựa chủ yếu vào các khác biệt trong cách thức lấy các chất dinh dưỡng:
+Plantae chủ yếu là sinh vật đa bào tự dưỡng.
+Animalia là sinh vật đa bào dị dưỡng
+Fungi là sinh vật đa bào hoại sinh.
+Hai giới còn lại, Protista và Monera, bao gồm các quần thể đơn bào và tế bào đơn giản.
+
+
+== Sáu giới ==
+Trong những năm khoảng 1980 nổi lên tầm quan trọng của phát sinh loài học và việc định nghĩa lại các giới như là các nhóm đơn ngành, là các nhóm hợp thành từ các sinh vật có mối quan hệ tương đối gần gũi nhau. Animalia, Plantae, Fungi nói chung đã được quy về các nhóm cốt lõi của các dạng có quan hệ gần gũi, còn các dạng khác được đặt trong Protista. Dựa trên các nghiên cứu rARN, Carl Woese đã phân chia Prokaryota (giới Monera) thành hai giới, gọi là Eubacteria (vi khuẩn thật sự) và Archaebacteria (vi khuẩn cổ). Carl Woese đã cố gắng thiết lập hệ thống Ba Giới Chính (Urkingdom) trong đó Thực vật, Động vật, Sinh vật nguyên sinh, Nấm được gộp lại trong một giới chính của tất cả các dạng sinh vật nhân chuẩn. Eubacteria và Archaebacteria tạoh thành hai urkingdom khác. Việc sử dụng ban đầu của các "hệ thống sáu giới" là sự hòa trộn hệ thống năm giới kinh điển và hệ thống ba giới của Woese. Những hệ thống sáu giới như vậy đã trở thành tiêu chuẩn trong nhiều tác phẩm.
+Một loạt các giới sinh vật nhân chuẩn mới cũng được đề xuất, nhưng phần lớn hoặc là nhanh chóng bị coi là không hợp lệ, bị hạ xuống cấp ngành hay lớp, hoặc bị hủy bỏ. Giới duy nhất vẫn còn được sử dụng khá rộng rãi là giới Chromista do Cavalier-Smith đề xuất, bao gồm các sinh vật như tảo bẹ (Laminariales), tảo cát (Bacillariophyceae), thủy khuẩn (Oomycetes). Vì thế sinh vật nhân chuẩn được phân chia thành 3 nhóm chủ yếu là dị dưỡng (Animalia, Fungi, Protozoa) và 2 nhóm chủ yếu là quang hợp, (Plantae, bao gồm cả tảo đỏ, tảo lục và Chromista. Tuy nhiên, nó không được sử dụng rộng rãi do sự không chắc chắn về tính đơn ngành của hai giới cuối cùng này.
+Woese nhấn mạnh sự giống nhau về gen so với biểu hiện và hành vi ra ngoài, dựa trên so sánh các gen của ARN ribosome ở mức phân tử để xếp loại các thể loại phân loại. Thực vật trông không giống như động vật, nhưng ở mức tế bào thì cả hai nhóm đều là sinh vật nhân chuẩn, có cơ cấu tổ chức hạ tế bào tương tự, bao gồm nhân tế bào, cái mà Eubacteria và Archaebacteria không có. Quan trọng hơn, thực vật, động vật, nấm, sinh vật nguyên sinh là tương tự nhau trong cấu trúc gen của chúng ở mức phân tử, dựa trên các nghiên cứu rARN, hơn là giống với Eubacteria hay Archaebacteria. Woese cũng phát hiện ra rằng tất cả các sinh vật nhân chuẩn, gộp lại với nhau như là một nhóm, về mặt di truyền là có quan hệ họ hàng gần gũi với Archaebacteria hơn là quan hệ của nhóm này với Eubacteria. Điều này có nghĩa là Eubacteria và Archaebacteria là các nhóm tách rời ngay cả khi so sánh với Eukaryota. Vì thế, Woese đã thiết lập hệ thống ba vực, cho rằng tất cả các dạng Eukaryota là có quan hệ di truyền gần gũi hơn khi so sánh với mối quan hệ di truyền với Eubacteria hay Archaebacteria, mà không có sự thay thế các "hệ thống sáu giới" với hệ thống ba giới. Hệ thống ba vực là "hệ thống sáu giới" trong đó hợp nhất các giới của Eukaryota thành vực Eukarya, dựa trên sự tương tự gen tương đối của chúng khi so sánh với vực Bacteria và vực Archaea. Woese cũng công nhận rằng giới Protista không là nhóm đơn ngành và có thể phân chia tiếp ở mức giới. Ví dụ, một số tác giả chia giới Protista ra thành Protozoa và Chromista.
+
+
+== Tổng quan ==
+
+Lưu ý rằng sự tương đương trong bảng trên là không hoàn hảo. Ví dụ Haeckell đặt tảo đỏ (Florideae của Haeckell, hiện nay là Florideophyceae) và tảo lục-lam (Archephyta của Haeckell; hiện nay là Cyanobacteria) trong Plantae của ông, nhưng trong phân loại hiện nay chúng được coi là thuộc về Protista và Bacteria. Tuy nhiên, bảng này cho thấy sự đơn giản hóa hữu ích; các vực trong bảng được coi là của Chatton, trên thực tế ông không phân cấp cho hai nhóm này và cũng không đặt tên chính thức cho chúng.
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Miêu tả theo nhánh học
+Hệ thống hóa
+
+
+== Liên kết ngoài ==
+Khái niệm năm giới
+Phân loại của Whittaker

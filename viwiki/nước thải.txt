@@ -1,0 +1,133 @@
+Nước thải là nước được thải ra sau khi đã sử dụng, hoặc được tạo ra trong một quá trình công nghệ và không còn có giá trị trực tiếp đối với quá trình đó nữa. Nước thải có thể có nguồn gốc từ hoạt động của các hộ gia đình, công nghiệp, thương mại, nông nghiệp, nước chảy tràn bề mặt, nước mưa bão, dòng vào cống ngầm hoặc nước thấm qua.
+Nước thải đô thị thường được chuyển tải kết hợp trong một hệ thống thoát nước hoặc cống rãnh vệ sinh và được xử lý tại nhà máy xử lý nước thải. Nước thải được xử lý được thải vào nơi tiếp nhận qua một đường ống nước thải. Nước thải được tạo ra ở khu vực không tiếp cận được với hệ thống thoát nước sẽ được xử lý bằng hệ thống xử lý nước tại chỗ. Hệ thống này thông thường bao gồm một bể phốt, ruộng tiêu nước, và một đơn vị xử lý tại chỗ. Việc quản lý nước thải thuộc về sự bao quát toàn bộ điều kiện hệ thống vệ sinh, giống như quản lý chất bài tiết của con người, chất thải rắn, nước mưa bão.
+Nước cống là một loại nước thải bao gồm nước thải từ các hộ gia đình và do đó nhiễm bẫn từ nhà vệ sinh của người dân. Nhưng nước cống về lâu dài cũng được sử dụng là giá trị trung bình cho bất cứ loại nước thải nào. Hệ thống thoát nước là cơ sở hạ tầng vật lý, bao gồm đường ống, máy bơm, tấm chắn, mương rãnh,.. được sử dụng để chuyển tải nước thải từ nơi phát sinh đến nơi xử lý hoặc loại bỏ.
+
+
+== Xuất xứ ==
+Nước thải có thể đến từ:
+Chất thải của con người
+Rò rỉ bể phốt
+Xả bể phốt
+Nước cống
+Nước rửa (cá nhân, quần áo, sàn nhà, nấu ăn,...) và bùn rác
+Lượng nước mưa thu được trên mái nhà, sân bãi...
+Nước ngầm xâm nhập vào cống
+Phần dư của sản xuất chất lỏng
+Dòng chảy nước mưa ở khu đô thị từ đường, bui đậu xe, mái nhà, vỉa hè...
+Sự xâm nhập của nước biển (nồng độ cao muối và vi khuẩn)
+Sự xâm nhập trực tiếp của nước sông (nồng độ vi sinh vật cao)
+Sự xâm nhập trực tiếp của các chất lỏng nhân tạo (vứt bỏ trái phép các loại thuốc trừ sâu, dầu đã qua sử dụng,..)
+Hệ thống thoát nước đường cao tốc
+
+
+== Phân loại ==
+Thông thường nước thải được phân loại theo nguồn gốc phát sinh ra nó:
+Nước thải sinh hoạt: nước thải từ các khu dân cư, khu vực hoạt động thương mại, khu vực công sở, trường học và các cơ sở tương tự khác.
+Nước thải công nghiệp (hay còn gọi là nước thải sản xuất): nước thải từ các nhà máy đang hoạt động hoặc trong đó nước thải công nghiệp là chủ yếu.
+Nước thấm qua: lượng nước thấm vào hệ thống ống bằng nhiều cách khác nhau, qua các khớp nối, các ống có khuyết tật hoặc thành hố gas hay hố xí.
+Nước thải tự nhiên: nước mưa được xem như nước thải tự nhiên ở những thành phố hiện đại, chúng được thu gom theo hệ thống riêng.
+Nước thải đô thị: là một thuật ngữ chung chỉ chất lỏng trong hệ thống cống thoát của thành phố, thị xã; đó là hỗn hợp của các loại chất thải trên.
+
+
+== Thành phần ==
+Thành phần của nước thải rất đa dạng. Có thể bao gồm danh sách dưới đây:
+Nước (hơn 95%), thường được thêm vào trong quá trình dội rác thải xuống đường cống;
+Các tác nhân gây bệnh như vi khuẩn, virus, prion, giun sán;
+Các vi khuẩn vô hại;
+Các chất hữu cơ như phân, lông, tóc, thực phẩm, nguyên liệu thực vật, mùn...;
+Các chất hữu cơ hòa tan như u-rê, đường, protein hòa tan, dược phẩm...;
+Các hạt thể vô cơ như cát, sạn sỏi, hạt kim loại, gốm sứ...;
+Các chất vô cơ hòa tan như amoniac, muối, xianua, H2S, thyoxinat,...;
+Động vật như động vật nguyên sinh, côn trùng...;
+Băng vệ sinh, bao cao su, tã, bơm kim tiêm, đồ chơi trẻ em, xác động vật, thực vật...;
+Các khí hydro sunfua, metan, cacbonic...;
+Các hệ nhũ tương như sơn, chất kết dính, màu nhuôm tóc,...;
+Các chất độc như thuốc trừ sâu, thuốc diệt cỏ, thuốc độc...;
+Dược phẩm, hóc môn và các chất độc hại khác.
+
+
+== Chỉ tiêu chất lượng ==
+
+
+==== Giá trị tối đa cho phép của các thông số ô nhiễm trong nước thải sinh hoạt ====
+Giá trị tối đa cho phép của các thông số ô nhiễm trong nước thải sinh hoạt khi thải ra nguồn nước tiếp nhận nước thải không vượt quá giá trị Cmax được tính toán như sau:
+Cmax = C x K
+Trong đó:
+Cmax là nồng độ tối đa cho phép của thông số ô nhiễm trong nước thải sinh hoạt khi thải ra nguồn nước tiếp nhận, tính bằng miligam trên lít nước thải (mg/l);
+C là giá trị nồng độ của thông số ô nhiễm quy định tại Bảng 1 mục 2.2.
+K là hệ số tính tới quy mô, loại hình cơ sở dịch vụ, cơ sở công cộng và chung cư quy định tại mục 2.3.
+Không áp dụng công thức tính nồng độ tối đa cho phép trong nước thải cho thông số pH và tổng coliforms.
+
+
+==== Giá trị C của các thông số ô nhiễm làm cơ sở tính toán giá trị tối đa cho phép trong nước thải sinh hoạt. ====
+Giá trị C của các thông số ô nhiễm làm cơ sở tính toán giá trị tối đa cho phép Cmax trong nước thải sinh hoạt khi thải ra các nguồn nước tiếp nhận nước thải được quy định tại Bảng 1.
+Bảng 1 - Giá trị các thông số ô nhiễm làm cơ sở tính toán giá trị tối đa cho phép trong nước thải sinh hoạt
+Trong đó:
+- Cột A quy định giá trị C của các thông số ô nhiễm làm cơ sở tính toán
+giá trị tối đa cho phép trong nước thải sinh hoạt khi thải vào các nguồn nước được dùng cho mục đích cấp nước sinh hoạt (có chất lượng nước tương đương cột A1 và A2 của Quy chuẩn kỹ thuật quốc gia về chất l ượng nước mặt).
+- Cột B quy định giá trị C của các thông số ô nhiễm làm cơ sở tính toán giá trị tối đa cho phép trong nước thải sinh hoạt khi thải vào các nguồn nước không dùng cho mục đích cấp nước sinh hoạt (có chất lượng nước tương đương cột B1 và B2 của Quy chuẩn kỹ thuật quốc gia về chất l ượng nước mặt hoặc vùng nước biển ven bờ).
+Để đánh giá chất lượng môi trường nước người ta phải căn cứ vào một số chỉ tiêu như chỉ tiêu vật lý, hóa học, sinh học. Qua các thông số trong nước sẽ cho phép ta đánh gia mức độ ô nhiễm hoặc hiệu quả của phương pháp xử lí."
+
+
+=== Các chỉ tiêu vật lý ===
+Nhiệt độ: Nhiệt độ của nước tự nhiên phụ thuộc vào điều kiện khí hậu thời tiết hay môi trường của khu vực. Nhiệt độ nước thải công nghiệp đặc biệt là nước thải của nhà máy nhiệt điện, nhà máy hạt nhân thường cao hơn từ 10-150C so với nước thường. Nước nóng có thể gây ô nhiễm hoặc có lợi tùy theo mùa và vị trí địa lý. Vùng có khí hậu ôn đới nước nóng có tác dụng xúc tiến sự phát triển của vi sinh vật và các quá trình phân hủy. Nhưng ở những vùng nhiệt đới nhiệt độ cao của nước sông hồ sẽ làm thay đổi quá trình sinh, hóa, lý học bình thường của hệ sinh thái nước, làm giảm lượng oxy hòa tan vào nước và tăng nhu cầu oxy của cá lên 2 lần. Một số loài sinh vật không chịu được nhiệt độ cao sẽ chết hoặc di chuyển đi nơi khác, nhưng có một số loài khác lại phát triển mạnh ở nhiệt độ thích hợp;
+Màu sắc: Nước có thể có màu, đặc biệt nước thải thường có màu đen hoặc nâu - Các chất hữu cơ trong xác động, thực vật phân rã tạo thành; - Nước có sắt và mangan ở dạng keo hoặc hòa tan; - Nước có chất thải công nghiệp (crom, tannin, lignin); Màu của nước thường được phân thành hai dạng: màu thực do các chất hòa tan hoặc dạng hạt keo, màu biểu kiến là màu của các chất lơ lửng trong nước tạo nên. Trong thực tế người ta xác định màu thực của nước, nhưng thường dùng ở đây là phương pháp so màu với các dung dịch chuẩn là clorophantinat coban;
+Độ đục: Độ đục của nước do các hạt lơ lửng, các chất hữu cơ phân hủy hoặc do giới thủy sinh gây ra. Độ đục làm giảm khả năng truyền ánh sáng trong nước, ảnh hưởng khả năng quang hợp của các sinh vật tự dưỡng trong nước, gây giảm thẩm mỹ và làm giảm chất lượng của nước khi sử dụng. Vi sinh vật có thể bị hấp phụ bởi các hạt rắn lơ lửng sẽ gây khó khăn khi khử khuẩn. Độ đục càng cao nước nhiễm bẩn càng lớn;
+Mùi vị: Nước sạch là nước không mùi vị. Khi bắt đầu có mùi thì đó là biểu hiển của hiện tượng ô nhiễm. Trong nước thải mùi rất đa dạng tùy thuộc vào lượng và đặc điểm của chất gây ô nhiễm;
+
+
+=== Các chỉ tiêu hóa học và sinh học ===
+Độ pH: Giá trị pH của nước thải có ý nghĩ quan trọng trong quá trình xử lý. Giá trị pH cho phép ta lựa chọn phương pháp thích hợp hoặc điều chỉnh lượng hóa chất cần thiết trong quá trình xử lý nước. Các công trình xử lý nước bằng phương pháp sinh học thường hoạt độ pH từ 6,5 – 9. Môi trường tối ưu nhất để vi khuẩn phát triển thường là 7 – 8. Các nhóm vi khuẩn khác nhau có giới hạn pH khác nhau;
+Chỉ số DO: Là lượng oxi hòa tan để duy trì sự sống cho các sinh vật dưới nước. Bình thường oxi hòa tan trong nước khoảng 8 – 10 mg/l, chiếm 70 – 80% khi oxi bão hòa. Mức oxi hòa tan trong nước tự nhiên và nước thải phụ thuộc vào mức độ ô nhiễm chất hữu cơ, các hoạt động của thế giới thủy sinh, các hoạt động hóa sinh, hóa học và vật lý của nước. Trong môi trường nước bị ô nhiễm nặng, oxi được dùng nhiều cho các quá trình hóa sinh và xuất hiện hiện tượng thiếu oxi trầm trọng;
+Chỉ số BOD (nhu cầu oxy hóa sinh học-Biochemical Oxygen Demand): Là lượng oxy cần thiết để oxy hóa các chất hữu cơ trong nước bằng vi sinh vật (chủ yếu là vi khuẩn) hoại sinh, hiếu khí. Quá trình này được gọi là quá trình oxy hóa sinh học. Một quá trình đòi hỏi thời gian dài ngày vì phải phụ thuộc vào bản chất của chất hữu cơ, vào chủng loại vi sinh vật, nhiệt độ nguồn nước. Bình thường 70% nhu cầu oxy được sử dụng trong 5 ngày đầu nên thường phân tích là BOD5, 20% trong 5 ngày tiếp theo, 99% ở ngày thứ 20 và 100% ở ngày thứ 21;
+Chỉ số COD (nhu cầu oxy hóa học-Chemical oxygen Demand): Là lượng oxy cần thiết cho quá trình oxy hóa hóa học các chất hữu cơ trong nước thành CO2 và H2O bởi một tác nhân oxi hóa mạnh. COD biểu thị lượng chất hữu cơ có thể oxy hóa bằng con đường hóa học. Chỉ số COD có giá trị cao hơn BOD vì nó bao gồm cả lượng chất hữu cơ không bị oxy hóa bằng vi sinh vật. Có thể xác định hàm lượng COD bằng phương pháp trắc quang với lượng dư dung dịch K2Cr2O7 là chất oxy hóa mạnh để oxy hóa các chất hữu cơ trong môi trường axit với xúc tác là Ag2SO4. Ngoài ra, có thể xác định hàm lượng COD bằng phương pháp độ chuẩn, ở phương pháp này lượng CrO2 dư được chuẩn bằng dung dịch Feroin;
+Chỉ số vệ sinh (E-coli): trong nước thải đặc biệt là nước thải sinh hoạt, nước thải bệnh viện, nước thải vùng du lịch, dịch vụ, khu chăn nuôi,… nhiễm nhiều vi sinh vật có sẵn trong phân người và phân xúc vật. Trong đó có thể có nhiều loài vi khuẩn gây bệnh đặc biệt là bệnh về đường tiêu hóa như: tả, lị, thương hàn, các vi khuẩn gây ngộ độc thực phẩm. E-coli là vi khuẩn phổ biến trong nước thải, nó có thể sông trong điều kiện khắc nghiệt của môi trường ngoài cũng như trong phòng thí nghiệm. Chính vì vậy người ta đã chọn E-coli là chỉ tiêu đánh giá chất lượng nước thải;
+
+
+== Xử lý ==
+Có nhiều quá trình được sử dụng để làm sạch nước thải tùy theo loại và mức độ nhiễm bẩn. Nước thải có thể được xử lí trong các nhà máy xử lý trong các nhà máy xử lí nước thải bao gồm các quy trình xử lí vật lý, hóa học và sinh học.
+
+
+=== Xử lý nước thải bằng phương pháp vật lý ===
+Nước thải công nghiệp cũng như nước thải sinh hoạt thường chứa các chất tan và không tan ở dạng lơ lửng. Các tạp chất lơ lửng có thể ở dạng rắn và lỏng, chúng tạo với nước thành dung dịch huyền phù. Để tách rác và các hạt lơ lửng ra khỏi nước thải, thông thường người ta sử dụng các quá trình cơ học: lọc qua song chắn hoặc lưới, lắng dưới tác dụng của lực trọng trường hoặc lực li tâm và lọc. Việc lựa chọn phương pháp xử lý tùy thuộc vào các hạt, tính chất vật lý, nồng độ hạt lơ lửng, lưu lượng nước thải và mức độ là sạch cần thiết. Xử lí bằng phương pháp cơ nhằm loại bỏ và tách các chất không hòa tan và các chất ở dạng keo ra khỏi nước thải. Những công trình xử lí cơ học bao gồm:
+Song chắn rác (lưới lược thô) vận hành thủ công;
+Lưới chắn rác (lưới lược tinh) vận hành tự động;
+Bể điều hòa ổn định lưu lượng;
+Bể lắng đợt 1, bể lắng đợt 2 tách cặn lơ lửng;
+Phương pháp xử lí cơ học có thể loại bỏ được đến 60% các tạp chất không tan và giảm chất ô nhiễm có khả năng phân hủy sinh học BOD đến 20%. 
+
+
+=== Xử lí nước thải bằng phương pháp hóa lý ===
+Xử lí nước thải bằng công nghệ hấp phụ: được sử dụng rộng rãi để làm sạch triệt để nước thải khỏi các chất hữu cơ hòa tan sau khi xử lý sinh học cũng như xử lý cục bộ khi trong nước thải có chứa một hàm lượng rất nhỏ các chất đó. Những chất này không phân hủy bằng con đường sinh học và thường có độc tính cao. Nếu các chất cần khử bị hấp phụ tốt và khi chi phí riêng lượng chất hấp phụ không lớn thì việc áp dụng phương pháp này là hợp lý hơn cả.
+Xử lí nước bằng công nghệ trao đổi ion: xử lý nước thải bằng công nghệ trao đổi ion được ứng dụng để làm sạch nước hoặc nước thải khỏi các kim loại như Zn, Cu, Cr, Ni, Pb, Hg, Cd, Mn,… cũng như các hợp chất của asen, photpho, xyanua và chất phóng xạ; Phương pháp này cho phép thu hồi các chất và đạt được mức độ làm sạch cao. Vì vậy nó là một phương pháp được ứng dụng rộng rãi để tách muối trong xử lý nước và nước thải; Bản chất của quá trình trao đổi ion là 1 quá trình trong đó các ion trên bề mặt của chất rắn trao đổi với ion có cùng điện tích trong dung dịch khi tiếp xúc với nhau. Các chất này được gọi là các ionit (chất trao đổi ion), chúng hoàn toàn không tan trong nước. Các chất trao đổi ion có khả năng trao đổi các ion dương từ dung dịch điện ly gọi là các anionit và chúng mang tính kiềm; Nếu các ionit nào đó trao đổi cả cation và anion thì người ta gọi chúng là ionit lưỡng tính. Các chất trao đổi ion có thể là các chất vô cơ hoặc hữu cơ có nguồn gốc tự nhiên hay tổng hợp nhân tạo.
+Xử lí nước thải bằng công nghệ keo tụ tạo bông: Các hạt trong nước thiên nhiên thường đa dạng về chủng loại và kích thước, có thể bao gồm các hạt từ sét, mùn, vi sinh vật, sản phẩm hữu cơ phân hủy,… kích thước hạt có thể dao động từ vài micromet đến vài milimet. Bằng phương pháp xử lí cơ học chỉ có thể loại bỏ được những hạt có kích thước lớn hơn 1mm. với những hạt có kích thước lớn hơn 1mm, nếu dùng quá trình lắng tĩnh thì phải tốn thời gian rất dài và khó đạt hiệu quả xử lí cao, do đó cần phải áp dụng phương pháp xử lí hóa lý; Mục đích quá trình keo tụ tạo bông: để tách các hạt cặn có kích thước 0,001 m không thể tách loại bằng quá trình lý học thông thường như lắng, lọc hoặc tuyển nổi. Cơ chế quá trình keo tụ tạo bông:
+Quá trình nén lớp điện tích kép, giảm thế điện đông zeta nhờ ion trái dấu.
+Quá trình keo tụ do hấp phụ ion trái dấu trên bề mặt, trung hòa điện tích.
+Cơ chế hấp phụ-tạo cầu nối;
+Xử lí nước thải bằng công nghệ thẩm thấu: Các kỹ thuật như điện thẩm tích, thẩm thấu ngược, siêu lọc và các quá trình tương tự khác đóng vai trò quan trọng trong xử lí nước thải. Màng được định nghĩa là lớp đóng vai trò ngăn cách giữa các pha khác nhau, có thể là chất rắn, gel (chất keo) trương nở do dung môi hoặc chất lỏng. Việc ứng dụng màng để tách các chất, phụ thuộc vào độ thấm của các hợp chất qua màng;
+
+
+=== Xử lí nước thải bằng công nghệ sinh học ===
+Được ứng dụng để xử lý các chất hữu cơ hòa tan có trong nước thải cũng như một số chất vô cơ như H2S, sunfit, ammonia, nito,… dựa trên cơ sở hoạt động của vi sinh vật để phân hủy chất hữu cơ gây ô nhiễm. Vi sinh vật sử dụng các chất hữu cơ và một số khoáng chất làm thức ăn để sinh trưởng và phát triển. Một các tổng quát, phương pháp sử lý sinh học có thể chia làm 2 loại:
+Phương pháp kỵ khí:sử dụng nhóm vi sinh vật kỵ khí, hoạt động trong điều kiện không có oxy;
+Phương pháp hiếu khí:sử dụng nhóm vi sinh vật hiếu khí, hoạt động trong điều kiện cung cấp oxy liên tục. Quá trình phân hủy các chất hữu cơ nhờ vi sinh vật gọi là quá trình oxy hóa sinh hóa;
+Để thực hiện quá trình này, các chất hữu cơ hòa tan, cả chất keo và các chất phân tán nhỏ trong nước thải cần di chuyển vào bên trong tế bào vi sinh vật theo 3 giai đoạn chính sau:
+Chuyển các chất ô nhiễm từ pha lỏng tới bề mặt tế bào vi sinh vật;
+Khuếch tán từ bề mặt tế bào qua màng bán thấm do sự chênh lệch nồng độ bên trong và bên ngoài tế bào;
+Chuyển hóa các chất trong tế bào vi sinh vật, sản sinh lượng và tổng hợp tế bào mới;
+Nước thải đô thị, nước thải nông nghiệp, nước thải công nghiệp đều có những quy trình xử lí riêng; Đối với nước thải đô thị, việc sử dụng bể phốt và các thiết bị xử lý nước thải tại chỗ phổ biến rộng rãi ở một số vùng nông thôn; Một hệ thống xử lí hiếu khí là quá trình bùn hoạt tính, dựa trên việc duy trì và tuần hoàn một sinh khối phức tạp gồm vi sinh vật có khả năng hấp thụ và hấp thụ các chất hữu cơ trong nước thải. Quy trình xử lí nước thải hiếu khí cũng được áp dụng rộng rãi trong xử lí nước thải công nghiệp và bùn sinh học. Nước thải sau xử lí còn được tái sử dụng cho sinh hoạt. Các công trình đầm lấy cũng đang được sử dụng..
+
+
+== Tái sử dụng ==
+Nước thải được xử lý có thể được tái sử dụng trong công nghiệp (ví dụ ở tháp làm mát), nạp bổ sung các tầng ngậm nước, trong nông nghiệp và phục hồi các hệ sinh thái tự nhiên. Trong nhiều trường hợp còn có thể được sử dụng để làm nước uống. Đã có một số công nghệ có thể xử lí nước thải để sử dụng. Kết hợp của nhiều công nghệ này có thể đáp ứng các tiêu chuẩn nghiêm ngặt về xử lí và đảm bảo rằng nước được xử lí an toàn vệ sinh, có nghĩa là không có vi khuẩn và vi rút. Dưới đây là một số công nghệ điển hình: ozon hóa, lọc siêu lọc, điều trị hiếu khí (bioreactor màng), thấm thấu chuyển tiếp, thẩm thấu ngược, oxy hóa tiên tiến. Một số hoạt động đòi hỏi nước không tinh khiết, trong những trường hợp này, nước thải có thể được tái sử dụng với ít hoặc không qua xử lí. Ví dụ: nước sử dụng trong nhà vệ sinh có thể làm sạch bằng cách sử dụng greywater từ phòng tắm và vòi hoa sen được xử lí sơ bộ hoặc không xử lí;
+
+
+=== Nông nghiệp ===
+Có thể sử dụng nước đã xử lí để tưới tiêu. Thuận lợi: chi phí thấp, có thể cung cấp liên tục với bất kì điều kiện thời tiết, khí hậu và tiết kiệm nguồn nước sạch. Nguồn nước tưới tiêu này có ích cho thực vật vì trong thành phần có chứa các chất dinh dưỡng như nito, photpho và kali. Thực tế, khoảng 90% nước thải sản xuất trên toàn cầu vẫn không được xử lí, gây ô nhiễm nguồn nước rất lớn, đặc biệt là các nước có thu nhập thấp. Ngày càng có nhiều khu vực sử dụng nước thải không qua xử lý để tưới. Các thành phố cung cấp thị trường sinh lợi cho sản phẩm tưới, vì vậy sẽ hấp dẫn đối với nông dân. Tuy nhiên vì nông nghiệp phải cạnh tranh với nguồn nước ngày càng khan hiếm với người sử dụng trong ngành và người sử dụng thành phố, thường không có phương án nào thay thế cho người nông dân nhưng phải sử dụng nước ô nhiễm đô thị trực tiếp để làm nước;
+
+
+=== Rủi ro về sức khỏe ===
+Nước thải hỗn hợp của thành phố có thể chứa hỗn hợp các chất ô nhiễm hóa học và sinh học. Ở các quốc gia có thu nhập thấp, thường có nhiều mầm bệnh xuất phát từ phân, trong khi các nước đang phát triển, nơi phát triển công nghiệp vượt quá quy định về môi trường, có nguy cơ ngày càng tăng từ hóa chất vô cơ và hữu cơ. Tổ chức Y Tế thế giới, phối hợp với tổ chức Nông Lương LHQ (FAO) và Chương trình Môi Trường Liên Hợp Quốc (UNEP), đã đưa ra hướng dẫn sử dụng nước thải an toàn vào năm 2006.  Các hướng dẫn này ủng hộ một cách tiếp cận “rào cản nhiều” đối với việc sử dụng nước thải, ví dụ bằng cách khuyến khích nông dân áp dụng các hành vi giảm nguy cơ khác nhau. Bao gồm việc ngừng tưới vài ngày trước khi thu hoạch để cho mầm bệnh chết đi dưới ánh mặt trời, sử dụng nước cẩn thận để không gây ô nhiễm các loại rau, làm sạch rau bằng cách tẩy uế hoặc cho phép bùn thải được sử dụng trong nông trại để khô trước khi sử dụng như một phần của con người.
+
+
+== Tham khảo ==

@@ -1,0 +1,33 @@
+Tuần là một đại lượng về thời gian quy định 7 ngày làm 1 tuần, hay 10 ngày theo lịch cũ. Một tuần gồm có 7 thứ (Thứ hai, Thứ ba, Thứ tư, Thứ năm, Thứ sáu, Thứ bảy và Chủ nhật). Một tháng gồm có 4 tuần, Một năm có 52 tuần hoặc 53 tuần.
+Theo lịch cổ của Trung Quốc thì 01 tuần là 10 ngày và một tháng có 3 tuần gồm thượng tuần (tương đương từ ngày 1 đến ngày 10 của tây lịch), trung tuần (tương đương từ ngày 11 đến ngày 20) và hạ tuần (tương đương từ ngày 21 đến ngày 30)
+
+
+== Định nghĩa và khoảng thời gian ==
+Một tuần được quy định là một khoảng thời gian gồm 7 ngày, trừ lúc quy ước giờ mùa hè hoặc giây nhuậnː
+1 tuần = 7 ngày = 168 giờ = 10080 phút = 604800 giây
+Theo quy định của lịch Gregoryː
+1 năm gồm 52 tuần cộng thêm một ngày (2 ngày nếu như đó là năm nhuận)
+1 week = 1600⁄6957 ≈ 22.9984% của một tháng được tính trung bình
+Trong cách tính của loại lịch trên, có 365,2425 ngày, tức là có 52 71⁄400 hay là xấp xỉ 52,1775 tuần (không giống với lịch Julius có 365,25 ngày, tương đương với 52 5⁄28 hay 52,1786 tuần, tức là nó không được biểu diễn bởi một sự khai triển thập phân xác định). Thực sự thì dôi ra 20,871 tuần trong 400 năm lịch Gregory, vì vậy ngày 7 tháng 3 năm 1617 là một ngày thứ Ba giống ngày 7 tháng 3 năm 2017.
+Nếu căn cứ theo quỹ đạo của Mặt Trăng, một tuần là 23,659% của một quỹ đạo quay của nó hoặc là 94,637% của một phần tư của chu kỳ đó.
+Theo dòng lịch sử, hệ thống chữ cái của Chúa (các chữ cái từ A đến G được sử dụng để xác định các ngày trong tuần của một năm đã xác định) đã được sử dụng để thuận tiện cho việc tính toán. Một ngày trong tuần được xác định bằng việc sử dụng số chỉ ngày Julian của một ngày (viết tắt trong tiếng Anh là JD, gồm các số nguyên dựa vào các thời gian phổ quát được tính bắt đầu vào ban ngày): cụ thể là thêm một ngày vào số dư sau khi chia số chỉ ngày Julian cho 7 thì ta sẽ được số chỉ số thứ tự của một ngày trong tuần. Ví dụ, số chỉ ngày Julian của ngày 7 tháng 3 năm 2017 là 2457820. Chia số này cho 7 thì sẽ được số dư là 1. Lấy 1 cộng 1 thì sẽ được 2. Số thứ tự 2 thì chỉ có thể là ngày thứ Ba.
+
+
+== Tên gọi ==
+Từ chỉ tuần trong tiếng Anh là week. Xuất phát của nó là từ wice trong tiếng Anh cổ, một từ có nguồn gốc từ một tiền tố của tiếng Proto-Germanic: wikōn-. Tiền tố này lại có xuất phát từ tiền tố wik- (có nghĩa là chuyển động, thay đổi). Từ tiếng Germanic này có một nguồn gốc ý nghĩa rộng hơn trước khi có sự chấp nhận của lịch La Mã, có lẽ là "những sự tiếp nối", được gợi ý bởi ngôn ngữ Gothic khi nó gọi từ taxis (có nghĩa là "trật tự") trong cuốn Sách phúc âm của Luke 1:8 bằng từ wikō.
+Một tuần có 7 ngày được đặt tên theo nhiều ngôn ngữ khác nhau dựa vào con số 7. Chẳng hạn trong tiếng Hy Lạp có từ ἑβδομάς, trong tiếng Latin là từ septimana và các biến thể của từ này trong các ngôn ngữ Romance. Trong tiếng Anh, có một thuật ngữ có chức năng tương tự: sennight hay sen'night. Đó là viết tắt của từ seven-night (có thể so sánh với trường hợp của từ fortnight). Thuật ngữ này vẫn được sử dụng đến tận đầu thế kỷ 19, điển hình trong các bức thư của Jane Austen. Thuật ngữ này vẫn tồn tại cho đến thế kỷ 20 và nó vẫn được sử dụng như là một biểu hiện của chủ nghĩa hoài cổ.
+Còn trong các ngôn ngữ Slavic có cấu trúc tъ(žь)dьnь (trong ngôn ngữ Serbia-Croatia là тједан, trong tiếng Ukraina là тиждень, trong tiếng Séc là týden còn trong tiếng Ba Lan là tydzień). Cấu trúc này gồm tъ có nghĩa là cái này và dьnь có nghĩa là ngày. Tuy nhiên, cũng có một cấu trúc khác được dùng để gọi tên trong tuần gồm нєдѣлꙗ (viết theo ký tự Latin là nedělja, đây là một từ mượn và chuyển dịch từ tiếng Latin feria) và седмица (viết theo ký tự Latin là sedmitsa, một từ cũng tương tự từ ἑβδομάς của tiếng Hy Lạp chỉ từ "số bảy"). Còn tiếng Hán có cấu trúc 星期 như để ám chỉ một tuần là một đơn vị đo thời gian của hành tinh".
+
+
+== Xem thêm ==
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Tuần lễ tại Từ điển bách khoa Việt Nam
+Week (chronology) tại Encyclopædia Britannica (tiếng Anh)

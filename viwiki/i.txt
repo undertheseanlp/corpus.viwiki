@@ -1,0 +1,30 @@
+I, i là chữ thứ chín trong phần nhiều chữ cái dựa trên Latinh và là chữ thứ 12 trong chữ cái tiếng Việt, đến từ chữ iôta của tiếng Hy Lạp và được dùng cho âm /i/. Tiếng Latinh và tiếng Hy Lạp cận đại đã đặt thêm âm /j/ cho chữ này. Trong tiếng Xê-mit, /j/ là lối phát âm của chữ jôd (có lẽ có nghĩa đầu tiên là một "cánh tay với bàn tay"); trong khi âm /i/ chỉ có trong những câu từ ngôn ngữ khác.
+Trong tin học:
+Trong Unicode mã của I là U+0049 và của i là U+0069.
+Trong ASCII mã của I là 73 và của i là 105 (thập phân); hay tương ứng với nhị phân là 01001001 và 01101001.
+Trong EBCDIC mã của I là 201 và của i là 137.
+Trong HTML và XML mã của I là "& #73;" và i là "& #105;".
+Thẻ <i> là một thẻ HTML để thể hiện (các) ký tự nghiêng.
+Ký tự i cũng hay được sử dụng làm tham biến đếm của vòng lặp For... trong các ngôn ngữ lập trình.
+
+Trong toán học:
+i là đơn vị số ảo – hay i² = -1.
+I biểu thị khoảng cách đơn vị, một tập hợp kín chứa mọi số thực trong đoạn [0, 1].
+I biểu thị ma trận đồng nhất thức.
+Trong các số La Mã, I có giá trị bằng 1.
+I là tập hợp các số vô tỉ
+
+Trong vật lý và công nghệ điện, I thông thường là tham biến của cường độ dòng điện. Đơn vị ảo được biểu diễn bằng j.
+Trong hóa học, I là ký hiệu của iốt.
+Trong hóa sinh học, I là ký hiệu của isoleucin.
+Trong công nghệ cấu trúc, I được sử dụng cho mômen quán tính.
+
+Trong kinh tế học, I được dùng để biểu thị cho đầu tư.
+Theo mã số xe quốc tế, I được dùng cho Ý (Italia).
+I được gọi là India trong bảng chữ cái âm học NATO.
+Trong bảng chữ cái Hy Lạp, I tương đương với Ι và i tương đương với ι.
+Trong bảng chữ cái Cyrill, I tương đương với И và i tương đương với и.
+Trong bảng chữ cái Thổ Nhĩ Kỳ, chữ I có chấm ở trên và chữ I không có chấm coi như hai chữ riêng, và hai đó có thể là chữ hoa (I, İ) hoặc chữ thường (ı, i).
+
+
+== Tham khảo ==

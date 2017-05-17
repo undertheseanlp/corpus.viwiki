@@ -1,0 +1,25 @@
+Mã bưu chính là một chuỗi ký tự viết bằng chữ, hoặc bằng số hay tổ hợp của số và chữ, được viết bổ sung vào địa chỉ nhận thư với mục đích tự động xác định điểm đến cuối cùng của thư tín, bưu phẩm.
+Mỗi quốc gia có một hệ thống ký hiệu mã bưu chính riêng. Mỗi mã bưu chính trong một quốc gia, ký hiệu cho một địa phận bưu điện duy nhất. Địa phận bưu điện có thể là một làng nhỏ, một thành phố nhỏ, một quận của một thành phố lớn. Những mã số đặc biệt đôi khi được sử dụng cho địa chỉ của các tổ chức có số lượng bưu phẩm lớn, như cơ quan chính phủ hay tập đoàn thương mại lớn. Ví dụ hệ thống Cedex của Pháp.
+Đức là quốc gia đầu tiên áp dụng hệ thống mã bưu chính năm 1941. Anh và Mỹ áp dụng theo lần lượt các năm 1959 và 1963. Tới tháng 2 năm 2005, có 117 quốc gia trong tổng số 190 nước thành viên của Liên minh Bưu chính Thế giới (UPU) có hệ thống mã số bưu điện. Một số quốc gia chưa áp dụng gồm Ireland (sẽ có hệ thống mã số năm 2008), Hồng Kông, Panama, v.v. Việt Nam bắt đầu triển khai việc sử dụng mã bưu chính từ năm 2004.
+
+
+== Cách sử dụng ==
+Mỗi hệ thống bưu chính có cách thức và quy định để gán mã bưu chính riêng. Ở các nước nói tiếng Anh, mã số này được ghi sau địa chỉ nhận thư. Các nước Châu Âu thì quy định ghi mã số bưu điện trước tên thành phố, thị trấn hay khu dân cư.
+Tại một số quốc gia như ở châu Âu lục địa, nơi nhiều nước cho cấu trúc mã bưu chính khá tương đồng nhau, việc ghi mã số quốc gia trước mã số bưu điện là cần thiết để tránh nhầm lẫn. Các mã số này dựa trên mã biển phương tiện giao thông, ví dụ "D" cho Đức, "F" cho Pháp. Tuy vậy, thực tế áp dụng cho thấy cách ghi này không phổ biến. Khi gửi thư tới địa chỉ quốc tế, mã số bưu điện được ghi cùng với tên quốc gia nhận thư. Ví dụ:
+"ENGLAND – SW1A 1AA" – Mã số bưu điện cung điện Buckingham, London, Anh quốc.
+"75005 FRANCE, Paris" – Mã số bưu điện của Điện Panthéon Paris.
+Đa số các hệ thống mã bưu chính sử dụng dạng số. Một số quốc gia sử dụng cả số và chữ cho hệ thống mã bưu chính là: Andorra, Argentina, Bermuda, Brunei, Canada, Jamaica, Malta, Moldova, Hà Lan, Anh quốc, Venezuela.
+
+
+== Mã bưu điện Hoa Kỳ ==
+
+Cục Bưu điện Hoa Kỳ sử dụng hệ thống ZIP code có 5 số từ năm 1963. Hệ thống được mở rộng vào những năm 1980 với bộ mã ZIP+4.
+
+
+== Mã bưu chính Việt Nam ==
+
+Vào năm 2004, theo quyết định của Bộ Bưu chính Viễn thông, Việt Nam triển khai sử dụng mã số bưu chính trên cơ sở thông lệ quốc tế và hướng dẫn của Liên minh Bưu chính Thế giới. Cơ cấu mã bưu chính bao gồm tối thiểu tập hợp 6 ký tự số, nhằm xác định vị trí địa lý của tỉnh, thành phố, quận hay huyện và của cụm địa chỉ phát hoặc một địa chỉ phát cụ thể trong phạm vi toàn quốc.
+Mã Bưu chính được Bưu điện Việt Nam công bố năm 2009, danh bạ mã bưu chính Việt Nam có thể tìm thấy tại http://postcode.vnpost.vn
+
+
+== Chú thích ==

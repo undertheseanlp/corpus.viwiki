@@ -1,0 +1,5 @@
+Giấy phép BSD thuộc họ các giấy phép phần mềm tự do. Đầu tiên nó được dùng cho BSD và các hệ điều hành tương tự Unix.
+Giấy phép này có một số ràng buộc so với các giấy phép khác ví dụ như Giấy phép Công cộng GNU.
+
+
+== Tham khảo ==

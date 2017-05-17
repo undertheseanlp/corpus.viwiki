@@ -1,0 +1,45 @@
+Tiếng Ả Rập (tiếng Ả Rập: العَرَبِيَّة, Al-ʻarabiyyah [ʔalʕaraˈbijːah]  ( listen) or tiếng Ả Rập: عَرَبِيّ ʻarabiyy [ʕaraˈbijː]  ( listen)) là một ngôn ngữ Trung Semit đã được nói từ thời kỳ đồ sắt tại tây bắc bán đảo Ả Rập và nay là lingua franca của thế giới Ả Rập. Ả Rập là một thuật ngữ ban đầu được dùng để mô tả những nhóm người sống trong vùng từ Lưỡng Hà ở phía đông tới dãy núi Anti-Liban ở phía tây, và từ tây bắc bán đảo Ả Rập tới Sinai ở phía nam.
+Một số dạng tiếng Ả Rập không thể thông hiểu lẫn nhau. Điều này có nghĩa là nếu chỉ xem xét về mặt ngôn ngữ học, tiếng Ả Rập thực chất gồm nhiều hơn một ngôn ngữ, nhưng chúng thường được gộp chung vào nhau vì lý do chính trị và tôn giáo. Nếu xem như một ngôn ngữ, tiếng Ả Rập được nói bởi 422 triệu người (bản ngữ và phi bản ngữ) trong thế giới Ả Rập, khiến nó trở thành một trong những ngôn ngữ phổ biến nhất thế giới. Nếu được chia ra nhiều ngôn ngữ, thì thứ tiếng phổ biến nhất sẽ là tiếng Ả Rập Ai Cập với 89 triệu người nói—vẫn nhiều hơn bất kỳ ngôn ngữ Phi-Á nào. Tiếng Ả Rập còn là ngôn ngữ hành lễ của 1,6 tỷ người Hồi giáo. Đây cũng là một trong sáu ngôn ngữ chính thức của Liên Hiệp Quốc.
+Ngôn ngữ viết hiện đại (Tiếng Ả Rập chuẩn hiện đại) xuất phát từ tiếng Ả Rập kinh Qur’an (được gọi tiếng Ả Rập cổ điển hay tiếng Ả Rập Qur’an). Nó được giảng dạy rộng rãi trong trường học và đại học, và được dùng ở nhiều mức độ tại nơi làm việc, chính phủ, và trong truyền thông. Hai dạng ngôn ngữ viết này (tiếng Ả Rập chuẩn hiện đại, và tiếng Ả Rập cổ điển) được gọi chung là tiếng Ả Rập văn học, là ngôn ngữ chính thức của 26 quốc gia và ngôn ngữ hành lễ của Hồi giáo. Tiếng Ả Rập chuẩn hiện đại phần nhiều có cùng ngữ pháp với tiếng Ả Rập Qur'an, với phần từ vựng không thay đổi nhiều. Tuy vậy, nó đã loại bỏ những từ vựng không còn tồn tại trong ngôn ngữ nói nữa, đồng thời tiếp nhận từ vựng cho các khái niệm trong thời kỳ hậu Qur'an và đặc biệt thời hiện đại.
+Tiếng Ả Rập được viết bằng chữ Ả Rập, một hệ chữ abjad và được viết từ phải sang trái.
+
+
+== Tham khảo ==
+
+Bateson, Mary Catherine (2003), Arabic Language Handbook, Georgetown University Press, ISBN 0878403868 
+Gregersen, Edgar A. (1977), Language in Africa, CRC Press, ISBN 0677043805 
+Grigore, George (2007), L'arabe parlé à Mardin. Monographie d'un parler arabe périphérique, Bucharest: Editura Universitatii din Bucuresti, ISBN 9789737372499 
+Hanna, Sami A.; Greis, Naguib (1972), Writing Arabic: A Linguistic Approach, from Sounds to Script, Brill Archive, ISBN 9004035893 
+Hetzron, Robert (1997), The Semitic languages , Taylor & Francis, ISBN 9780415057677  Bảo trì CS1: Văn bản dư (link)
+Haywood; Nahmad (1965), A new Arabic grammar, London: Lund Humphries, ISBN 085331585X 
+Kaplan, Robert B.; Baldauf, Richard B. (2007), Language Planning and Policy in Africa, Multilingual Matters, ISBN 1853597260 
+Kaye, Alan S. (1991), “The Hamzat al-Waṣl in Contemporary Modern Standard Arabic”, Journal of the American Oriental Society (American Oriental Society) 111 (3): 572–574, doi:10.2307/604273, JSTOR 10.2307/604273 
+Lane, Edward William (1893), [[Arabic English Lexicon]] , New Delhi: Asian Educational Services, ISBN 8120601076  
+Mumisa, Michael (2003), Introducing Arabic, Goodword Books, ISBN 8178982110 
+Procházka, S. (2006), “"Arabic"”, Encyclopedia of Language and Linguistics (ấn bản 2) 
+Thelwall, Robin (2003), “Handbook of the International Phonetic Association a guide to the use of the international phonetic alphabet”, Handbook of the International Phonetic Association (Cambridge, UK: Cambridge), ISBN 0-521-63751-1  
+Steingass, F. (1993), Arabic-English Dictionary, Asian Educational Services, ISBN 9788120608559 
+Traini, R., Vocabolario di arabo, Rome: I.P.O.  
+Versteegh, Kees (1997), The Arabic Language, Edinburgh University Press, ISBN 9004177027 
+Vaglieri, Laura Veccia, Grammatica teorico-pratica della lingua araba, Rome: I.P.O. 
+Watson, Janet (2002), The Phonology and Morphology of Arabic, New York: Oxford University Press, ISBN 0198241372 
+Wehr, Hans (1952), Arabisches Wörterbuch für die Schriftsprache der Gegenwart: Arabisch-Deutsch , Harassowitz, ISBN 3447019980 
+Wright, John W. (2001), The New York Times Almanac 2002, Routledge, ISBN 1579583482 
+
+
+== Liên kết ngoài ==
+
+Tài liệu
+An encyclopedic reference work cataloging all of the world’s 6,909 known living languages including Arabic
+Arabic grammar online
+A Review of Arabic Language Books and Methods
+Arabic natural language processing publications
+Arabic: a Category III language Languages which are exceptionally difficult for native English speakers
+Dr. Habash's Introduction to Arabic Natural Language Processing
+Dr. Shaalan's talk about Rule-based approach in Arabic NLP: Tools, Systems and Resources
+
+Công cụ
+Lane's Arabic-English Lexicon - An 8-volume, 3000-page dictionary in PDF format.
+Google Ta3reeb – Google Transliteration
+Transliteration Arabic language pronunciation applet
+Realtime Arabic transliteration

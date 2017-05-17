@@ -1,0 +1,8 @@
+Microsoft Servers (trước đây gọi là Windows Server System) là một thương hiệu bao gồm các dòng sản phẩm máy chủ của Microsoft. Có các dòng sản phẩm như
+Server
+Ofice Sever là dòng sản phẩm tương tác với Microsoft Office
+System Center là một tập hợp các sản phẩm máy chủ đặc biệt nhằm giúp các quản trị viên CNTT của công ty quản lý các mạng lưới máy chủ và máy khách hệ thống Windows.
+Cloud là dòng sản phẩm điện toán đám mây.
+
+
+== Tham khảo ==

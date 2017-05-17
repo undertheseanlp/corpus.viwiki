@@ -1,0 +1,76 @@
+Windows 7 (từng có tên mã là Blackcomb và Vienna) là thế hệ hệ điều hành kế tiếp của dòng họ hệ điều hành Microsoft Windows, được phát triển bởi hãng phần mềm Microsoft dành cho các loại máy tính cá nhân, bao gồm máy tính để bàn, máy tính xách tay, máy tính bảng và các máy tính doanh nghiệp, được phát hành trên toàn thế giới vào ngày 22 tháng 10 năm 2009.
+Microsoft tuyên bố trong năm 2007 rằng họ đang lên kế hoạch phát triển Windows 7 trong khoảng thời gian 3 năm bắt đầu từ sau khi thế hệ tiền nhiệm của nó được phát hành, Windows Vista. Microsoft cũng tuyên bố thời điểm phát hành cuối cùng sẽ được quyết định dựa trên chất lượng của sản phẩm này.
+Không giống hệ điều hành tiền nhiệm, Windows 7 là một bản nâng cấp lớn hơn từ Vista, với mục đích có thể tương thích đầy đủ với các trình điều khiển thiết bị, ứng dụng, và phần cứng đã tương thích với Windows Vista. Những giới thiệu về hệ điều hành này của Microsoft trong năm 2008 tập trung vào khả năng hỗ trợ tiếp xúc đa điểm, một Windows Shell mới được thiết kế lại với một taskbar mới, một hệ thống mạng gia đình có tên gọi HomeGroup, và các cải tiến về hiệu suất. Một số ứng dụng đi kèm trong những thế hệ trước của Microsoft Windows, điển hình nhất là Windows Movie Maker và Windows Photo Gallery, không có sẵn trong hệ điều hành này; thay vào đó, chúng được cung cấp riêng rẽ (miễn phí) như một phần của bộ Windows Live Essentials.
+
+
+== Quá trình phát triển ==
+
+
+=== Quá trình ban đầu ===
+Ban đầu, một phiên bản Windows mang tên mã Blackcomb được dự định là phiên bản kế tiếp của Windows XP và Windows Server 2003. Những tính năng mới cơ bản được thiết kế cho Blackcomb bao gồm điểm nhấn trong khả năng tìm kiếm và truy vấn dữ liệu, và một hệ thống lưu trữ cấp tiến mang tên WinFS nhằm phục vụ cho kế hoạch này. Nhưng sau đó, Blackcomb bị trì hoãn dẫn đến hãng phải công bố một bản phát hành quá độ nhỏ hơn có tên mã "Longhorn" vào năm 2003. Tuy nhiên, đến giữa năm 2003, Longhorn đã đạt được một số tính năng nguyên được dự định dành cho Blackcomb. Sau khi ba loại virus khai thác được lỗ hổng ở các hệ điều hành Windows trong một khoảng thời gian ngắn năm 2003, Microsoft đã thay đổi ưu tiên phát triển bản phát hành này, hoãn lại một số thành quả phát triển chính của Longhorn nhằm phát triển một bản vá dịch vụ (service pack) mới cho Windows XP và Windows Server 2003. Quá trình phát triển Longhorn (Windows Vista) được tái khởi động vào tháng 9 năm 2004.
+Đầu năm 2006, Blackcomb được đổi tên thành Vienna, và một lần nữa thành Windows 7 vào năm 2007. Năm 2008, Microsoft công bố Windows 7 cũng sẽ là tên chính thức của hệ điều hành này. Bản phát hành ra bên ngoài đầu tiên dành cho các đối tác của Microsoft được đưa ra vào tháng 1 năm 2008 có tên phiên bản Milestone 1 (build 6519).
+
+
+=== Những phiên bản kế tiếp ===
+Bill Gates trong một cuộc phỏng vấn với Newsweek, đã cho biết phiên bản kế tiếp của Windows sẽ "chú tâm hơn vào người dùng". Gates còn cho biết Windows 7 cũng sẽ tập trung vào việc cải thiện hiệu suất làm việc; Steven Sinofsky sau đó đã mở rộng điểm này, giải thích trên blog Engineering Windows 7 (Công trình Windows 7) rằng hãng đang sử dụng nhiều công cụ truy vấn mới để đo hiệu suất của nhiều phân vùng thuộc hệ điều hành dựa trên cơ sở thực tế, giúp xác định vị trí những đoạn mã kém hiệu quả từ đó ngăn chặn sự suy giảm hiệu suất.
+Phó Chủ tịch có thâm niên của Microsoft Bill Veghte tuyên bố Windows 7 sẽ không có những vấn đề về khả năng tương thích đối với Windows Vista như Vista từng có đối với các phiên bản trước đó. Nói về Windows 7, ngày 16 tháng 10 năm 2008, Giám đốc điều hành Microsoft Steve Ballmer cũng một lần nữa khẳng định sự tương thích giữa Vista và Windows 7. Ballmer còn xác nhận mối liên hệ giữa Vista và Windows 7, chỉ ra rằng Windows 7 chính là một phiên bản cải tiến của Vista.
+
+
+== Bản Beta ==
+
+
+=== Bị rò rỉ trên Internet ===
+Ngày 27 tháng 12 năm 2008, Windows 7 Beta đã bị rò rỉ trên Internet. Theo như một bài kiểm thử hiệu suất thực hiện bởi ZDNet, Windows 7 Beta đã vượt trội so với cả Windows XP và Vista trên nhiều phần then chốt, như về thời gian khởi động và tắt máy, làm việc với các tệp tin và tải các tài liệu; ngoài ra, còn vượt trội về các tiêu chuẩn PC Pro đối với các hoạt động văn phòng điển hình, biên tập video, còn lại đều tương đồng với Vista (bỏ một số phần gây khó chịu cho người dùng như UAC so với Vista) và chậm hơn Windows XP. Ngày 7 tháng 1 năm 2009, phiên bản 64-bit của Windows 7 Beta (build 7000) cũng bị rò rỉ trên nhiều trang web.
+
+
+=== Bản Beta chính thức ===
+Bản beta chính thức, được công bố tại hội chợ CES 2009, được thiết kế cho hai người mua là MSDN và TechNet vào ngày 7 tháng 1 năm 2009 và được rút gọn cho cộng đồng tải về dùng thử tại Microsoft TechNet vào ngày 9 tháng 1 năm 2009 trước khi bị thu hồi và thay thế bằng thông điệp sẽ sớm có mặt. Các máy chủ đã gặp phải khó khăn trước số lượng đông đảo người dùng muốn tải về dùng thử bản beta, mặc dù hãng rõ ràng có nhiều kinh nghiệm trong vấn đề này. Microsoft đã đưa thêm vào các máy chủ phụ để đáp ứng khối lượng nhu cầu khổng lồ từ cộng đồng người dùng. Do nhu cầu cao hơn dự tính, Microsoft đã quyết định loại bỏ giới hạn chỉ cho phép 2,5 triệu lượt tải ban đầu và cho phép cộng đồng tải về đến hết 24 tháng 1 năm 2009, rồi một lần nữa gia hạn đến ngày 10 tháng 2.Còn đối với các tệp tin DVD image còn đang được tải về dang dở hoặc bị tạm dừng có thể tải tiếp tục đến ngày 12 tháng 2.
+
+
+== Bản RC ==
+Kế tiếp sau bản beta là bản RC (Release Candidate). Windows 7 chỉ có duy nhất 1 bản RC, không giống như dự đoán của nhiều người. Sau ngày 20 tháng 8 năm 2009, Microsoft đã chính thức dừng hoạt động cấp phép download bản Windows 7 RC của mọi cá nhân trên toàn thế giới. Bản RC FDA đã hết hiệu lực vào ngày 1 tháng 6 năm 2010, và trước đó đúng 3 tháng, từ ngày 1 tháng 3 năm 2010, hệ điều hành đã lên tiếng cảnh báo Windows sắp hết hiệu lực và khuyên người dùng nâng cấp lên phiên bản hoàn chỉnh để sử dụng lâu dài.
+Mới nhất, trên mạng đã rò rỉ phiên bản RTM (Release To Manufacture) có mã (Build) 7600. Đây là phiên bản được Microsoft phân phối đến các công ty máy tính để bán lẻ, nhưng cũng đã bị một số hacker tung lên mạng. Đầu tiên là bản RTM tiếng Trung Quốc, rồi không lâu sau là các phiên bản của các ngôn ngữ phổ thông khác như Anh, Pháp, Nga cũng đã xuất hiện đầy rẫy. Cho đến thời điểm này, việc tải về một phiên bản Windows 7 RTM còn dễ hơn cả các bản trước của nó. Phiên bản RTM này đã hoàn toàn hoàn thiện các tính năng, ít xung đột hơn so với bản Beta và RC. Bản 7600 được sử dụng mãi mãi chứ không giới hạn thời gian như Beta và RC.
+Không chỉ có 3 mã sản phẩm Windows 7 được biết đến, mà trên mạng còn tồn tại rất nhiều phiên bản có mã khác nhau của Windows 7 như 6068, 7057, 7077, 7201, 7300, 7260,... Đây đều là các bản thử nghiệm tiếp theo của Microsoft đối với Windows 7 nhưng họ không có tuyên bố chính thức. Những phiên bản mang mã hiệu này được phân phối cho một số lượng rất giới hạn các cá nhân đã được lựa chọn. Các phiên bản này phản ánh những gì diễn ra trên Windows 7 trước khi các bản chính thức là 7000, 7100 và 7600 ra đời.
+Microsoft đã ấn định ngày phát hành chính thức của Windows 7 là vào ngày 22 tháng 10 năm 2009 trên toàn thế giới. Ngày 24 tháng 7 năm 2009 tại Việt Nam, nhân buổi công bố bản Windows 7 RTM đã đến tay các nhà sản xuất máy tính Việt Nam, Microsoft Việt Nam cũng chính thức thông báo rằng Việt Nam cũng sẽ không lỗi hẹn với Windows 7.
+
+
+== Các phiên bản ==
+Windows 7 sẽ bao gồm các phiên bản sau, gần giống với Windows Vista:
+Starter Edition: Phiên bản rút gọn các tính năng cao cấp, không cầu kì về giao diện, gọn nhẹ, thích hợp với các máy netbook, hướng tới đối tượng là người mua mới netbook, người mới làm quen với máy vi tính, người có thu nhập thấp.
+Home Basic: Lược bỏ một số các chức năng giải trí nâng cao (như Media Center) ở bản Home Premium, thích hợp với các loại netbook, máy tính cá nhân, công ty vừa và nhỏ, hướng tới đối tượng là người mua mới netbook, gia đình có thu nhập trung bình. Không có chủ đề dạng Aero.
+Home Premium: Các chức năng giải trí, giao tiếp, kết nối ở mức khá tốt, thích hợp với các máy netbook thế hệ mới, máy tính cá nhân (PC), máy tính xách tay (Laptop), hướng tới người sử dụng là các hộ gia đình, công ty vừa và nhỏ.
+Professional: Các chức năng kết nối mạng văn phòng cũng như kết nối mạng đầy đủ, hướng tới các công ty lớn, các doanh nhân thường xuyên làm việc với máy vi tính để trao đổi dữ liệu.
+Ultimate và Enterprise: Tập hợp đầy đủ các chức năng của tất cả các phiên bản kia cộng lại, giúp người dùng có được một sức mạnh toàn năng trong trao đổi thông tin và giải trí mọi lúc mọi nơi, hướng tới các cá nhân, tổ chức muốn một giải pháp trọn vẹn cho việc hoạt động máy vi tính của họ. Điểm khác biệt gần như duy nhất của Ultimate và Enterprise nằm ở chỗ Enterprise mang đến giải pháp về giá và hỗ trợ toàn diện hơn Ultimate. Vì vậy, Ultimate hướng đến các cá nhân sử dụng, còn Enterprise hướng vào môi trường có tính chất cộng đồng, tương tự như Professional. Cùng với đó, trong khi Ultimate là phiên bản thương mại toàn cầu, còn Enterprise không được bán lẻ mà chỉ dành cho các tổ chức đặt mua với số lượng lớn.
+Thin PC: Dành cho máy có cấu hình thấp (nhẹ gần bằng Windows XP), tất nhiên sẽ bị lượt bỏ một số phần không cần thiết lắm trong Windows.
+
+
+== Yêu cầu phần cứng ==
+Microsoft đã đưa ra một số chi tiết khuyến cáo đối với hệ thống sử dụng cho Windows 7. Microsoft mới đây khẳng định rằng, Windows 7 sử dụng nhân của Windows Vista để làm nền phát triển nên các chi tiết cấu hình gần giống với Vista, nhưng sử dụng ít không gian đĩa cứng hơn.
+
+Yêu cầu bổ sung để sử dụng tính năng nhất định:
+Chế độ Windows XP (Professional, Ultimate and Enterprise): Yêu cầu thêm 1 GB RAM và thêm 15 GB dung lượng ổ đĩa cứng còn trống. Và yêu cầu một bộ xử lý có hỗ trợ ảo hóa phần cứng
+Windows Media Center (bao gồm trong Home Premium, Professional, Ultimate và Enterprise), yêu cầu một bộ thu TV để nhận và ghi lại chương trình TV
+
+
+== Các gói dịch vụ ==
+
+
+=== Gói dịch vụ 1 ===
+Windows 7 SP1 đã ra mắt bản beta vào 12/7/2010. Bản chính thức được phát hành vào ngày 9/2/2011. Người dùng có thể cập nhật tự động bản SP1 qua Windows Update hoặc tải về trực tiếp. Các đĩa cài đặt Windows 7 cũng đã được nâng cấp lên bản SP1.
+
+
+== Xem thêm ==
+Microsoft
+Windows 98
+Windows 2000
+Windows XP
+Windows Vista
+
+
+== Nguồn tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang web giới thiệu Windows 7 (tiếng Anh)
+Trang web giới thiệu Windows 7 (tiếng Việt)
+Trang web của Windows 7 (tiếng Anh)

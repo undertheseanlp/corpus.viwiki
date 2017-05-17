@@ -1,0 +1,9 @@
+EDGE (Enhanced Data Rates for GSM Evolution), đôi khi còn gọi là Enhanced GPRS (EGPRS), là một công nghệ di động được nâng cấp từ GPRS cho phép truyền dữ liệu với tốc độ có thể lên đến 384 kbit/s cho người dùng cố định hoặc di chuyển chậm và 144kbit/s cho người dùng di chuyển tốc độ cao. Trên đường tiến đến 3G, EDGE được biết đến như một công nghệ 2.75G. Thực tế bên cạnh điều chế GMSK, EDGE dùng phương thức điều chế 8-PSK để tăng tốc độ dữ liệu truyền. Chính vì thế, để triển khai EDGE, các nhà cung cấp mạng phải thay đổi trạm phát sóng BTS cũng như là thiết bị di động so với mạng GPRS.
+
+
+== Đặc điểm ==
+EDGE cung cấp cho chúng ta một tốc độ dữ liệu gấp 3 lần tốc độ GPRS. Khi sử dụng EDGE nhà điều hành có thể quản lý và phục vụ được hơn gấp 3 lần số thuê bao đối với GPRS, và gấp 3 lần giá trị dữ liệu trên một thuê bao, thêm một dung lượng đáng kể cho truyền thông thoại. EDGE sử dụng cấu trúc khung dữ liệu, kênh lô-gic,và băng thông sóng mang 200 kHz giống như TDMA (Đa-truy-nhập-phân-chia-theo-thời-gian) dùng trong mạng GSM hiện nay, cho phép nó phủ sóng trực tiếp trên nền GSM hiện có. Đối với một số mạng GSM/GPRS hiện nay, EDGE thực chất chỉ là một sự nâng cấp phần mềm.
+EDGE cho phép truyền tải các dịch vụ di động tiên tiến như tải video, clip nhạc, tin nhắn đa phương tiện hoàn hảo, truy cập internet, e-mail di động tốc độ cao.
+
+
+== Tham khảo ==

@@ -1,0 +1,241 @@
+Sukhoi Su-27 (Су-27 trong Bảng chữ cái Kirin) (tên ký hiệu của NATO 'Flanker' - kẻ tấn công sườn) là một máy bay tiêm kích phản lực Xô Viết độc đáo được thiết kế bởi Phòng thiết kế Sukhoi (SDB) và được sản xuất năm 1977. Nó là đối thủ trực tiếp của những loại máy bay chiến đấu thế hệ thứ tư của Hoa Kỳ (gồm F-14 Tomcat, F-15 Eagle, F-16 Fighting Falcon và F/A-18 Hornet). Su-27 có tầm hoạt động lớn, trang bị vũ khí hạng nặng, và cực kỳ cơ động nhanh nhẹn linh hoạt. Nhiệm vụ chính của Su-27 là thực hiện các chuyến bay trong các nhiệm vụ chiếm ưu thế trên không, nhưng nó cũng có thể thực hiện gần như mọi nhiệm vụ chiến đấu.
+Từ thiết kế cơ bản của Su-27, nhiều phiên bản khác đã được chế tạo và nâng cấp liên tục nhằm thực hiện những nhiệm vụ khác nhau:
+Su-30 là một mẫu máy bay tiêm kích đa nhiệm hai chỗ ngồi, bay trong mọi thời tiết, chuyên thực hiện các nhiệm vụ không chiến và đánh chặn từ xa.
+Su-33 'Flanker-D' là một mẫu máy bay tiêm kích đánh chặn phòng thủ hạm đội được phát triển từ thiết kế của Su-27 và được trang bị trên các tàu sân bay. Sự khác nhau chính bao gồm móc hãm ở đuôi và cánh mũi.
+Su-34 'Fullback' là phiên bản thiên về ném bom chống các mục tiêu mặt đất và mặt biển, được trang bị vỏ giáp mạnh, buồng lái mở rộng và tải trọng vũ khí được tăng cường
+Su-35 'Flanker-E' và Su-37 'Flanker-F' là các phiên bản tiêm kích phòng thủ trên không cải tiến có những tính năng vượt trội trong mọi mặt như động cơ chỉnh hướng phụt 3D, radar đối không mạnh, tên lửa đối không tầm siêu xa.
+Tính đến tháng 5/2016, đã có khoảng 1.850 chiếc Su-27 và các phiên bản phát triển từ nó được sản xuất, nhiều hơn cả số lượng tiêm kích đối thủ F-15 Eagle được Mỹ sản xuất (1.712 chiếc). Số lượng các phiên bản của Su-27 được sản xuất sẽ tiếp tục gia tăng trong tương lai nhờ những đơn hàng mới, trong khi F-15 Eagle thì đã ngừng sản xuất.
+
+
+== Phát triển ==
+
+
+=== Bối cảnh ===
+
+Năm 1969, Liên bang Xô viết biết rằng Không quân Hoa Kỳ đã lựa chọn McDonnell Douglas để sản xuất loại Máy bay Chiến đấu Thí nghiệm (sẽ trở thành loại F-15 Eagle sau này). Để đáp trả mối đe dọa tương lai đó, người Xô viết đã lập ra chương trình PFI (perspektivnyi frontovoy istrebitel, "Máy bay tiêm kích chiến thuật tiên tiến"), để chế tạo một loại máy bay có thể đương đầu với loại máy bay tiêm kích mới của Hoa Kỳ.
+Tuy nhiên, vào năm 1971 người Xô Viết nhận thấy loại máy bay PFI có giá thành quá đắt mà họ lại rất cần một số lượng lớn, và chương trình máy bay PFI đã bị chia thành TPFI (Tyazholyi Perspektivnyi Frontovoi Istrebitel, có nghĩa là "Máy bay tiêm kích chiến thuật tiên tiến hạng nặng") và LPFI (Legkiy Perspektivnyi Frontovoi Istrebitel, có nghĩa là "Máy bay tiêm kích chiến thuật hạng nhẹ"). Chương trình TPFI tương tự như Chương trình F-X của Mỹ, và F-15 là kết quả của chương trình này. Trong khi chương trình LPFI lại tương tự như Chương trình LWF, mà kết quả của LWF là F-16 Fighting Falcon và Northrop YF-17, từ YF-17 đã dẫn đến loại F/A-18 Hornet. Sukhoi OKB nhận được chương trình TPFI, và Mikoyan-Gurevich đảm nhận phát triển LPFI.
+Vì cùng được xuất phát từ một chương trình đã nghiên cứu trước đó nên Su-27 và MiG-29 có hình dạng bên ngoài khá giống nhau. Su-27 được thiết kế như một máy bay chiến đấu và đánh chặn tầm xa, còn MiG-29 được thiết kế trong vai trò máy bay hỗ trợ chiến thuật tầm ngắn.
+
+
+=== Giai đoạn thiết kế ===
+Thiết kế của Sukhoi, dần được thay đổi để phản ánh tham vọng Liên Xô về một loại máy bay vượt xa F-15, và mẫu đầu tiên có tên gọi là T-10 (thiết kế máy bay cánh tam giác thứ 10 của Sukhoi), cất cánh lần đầu ngày 20 tháng 5 năm 1977. Chiếc máy bay này có cánh tam giác lớn, rút ngắn, với hai động cơ tách rời và một cánh đuôi kép. Khoảng 'rỗng' giữa hai động cơ, tương tự loại F-14 Tomcat, vừa có tác dụng như một bề mặt tạo lực nâng phụ vừa có tác dụng che chắn vũ khí khỏi sự phát hiện của radar. Khi đang được phát triển, mẫu thiết kế của Sukhoi đã bị vệ tinh gián điệp phát hiện khi thực hiện chuyến bay thử tại Trung tâm thử nghiệm bay Zhukovsky gần thị trấn Ramenskoe, dẫn tới việc nó bị tạm đặt mật danh Ram-K. Phương Tây tin rằng Ram-K đã được phát triển thành hai phiên bản: một máy bay chiến đấu cánh cụp cánh xoè với chức năng tương tự Grumman F-14 và một phiên bản máy bay tiêm kích đánh chặn cánh cứng 2 chỗ, trên thực tế trở thành loại Mikoyan MiG-31 không hề liên quan.
+T-10 đã bị các nhà quan sát phương Tây phát hiện và đặt tên ký hiệu 'Flanker-A'). Sự phát triển T-10 được đánh dấu bởi nhiều vấn đề nghiêm trọng, ví dụ như tai nạn rơi máy bay ngày 7 tháng 5 năm 1978. Những thiết kế khác được đưa ra thay thế, và một phiên bản đã được sửa đổi rất nhiều có tên gọi là T-10S, cất cánh lần đầu ngày 20 tháng 4 năm 1981. Cả phiên bản này cũng gặp phải nhiều vấn đề kỹ thuật dẫn tới một vụ tai nạn khác ngày 23 tháng 12 năm 1981.
+Việc chế tạo Su-27 (thỉnh thoảng gọi là Su-27S, tên ký hiệu của NATO 'Flanker-B') và bắt đầu hoạt động trong VVS diễn ra khoảng năm 1984, dù những khó khăn trong chế tạo khiến nó không thể xuất hiện cho tới tận năm 1986. Su-27 đã hoạt động trong cả Quân chủng Phòng không Xô Viết (PVO) và Hàng không Tiền tuyến. Khi hoạt động trong Lực lượng phòng không Xô viết (V-PVO), vai trò chủ yếu của nó là đánh chặn thay thế các loại máy bay cũ như Sukhoi Su-15 và Tupolev Tu-28.
+Dù 'Flanker' có khả năng mang các loại vũ khí không đối đất, khi hoạt động trong Hàng không Tiền tuyến, vai trò chủ yếu của nó không phải là hỗ trợ trên không cũng không phải là chiếm ưu thế trên không ở chiến trường mà là ngăn chặn trên không, với nhiệm vụ vượt qua đường giới tuyến quân địch (có thể là NATO) để tấn công máy bay tiếp dầu và máy bay AWACS. Những nhà hoạch định kế hoạch Xô viết biết rằng các lực lượng NATO sở hữu nhiều kỹ thuật ưu thế trong các lĩnh vực đó, và tin rằng việc tấn công trực tiếp vào đó sẽ hạn chế khả năng duy trì và mở rộng các chiến dịch không quân của NATO. Su-27 vẫn giữ vai trò đó khi hoạt động tại Cộng đồng Quốc gia Độc lập, và những phiên bản sau này được sửa đổi để mang tên lửa chống AWACS tầm xa mới Novator KS-172 AAM-L.
+Từ năm 1986, một chiếc Su-27 đặc biệt được gọi tên P-42, chế tạo lại từ nguyên mẫu T-10S-3 và giảm trọng lượng tối đa, đã lập kỷ lục đầu tiên trong một loạt các kỷ lục khác được thiết lập về tính năng hoạt động, vận tốc lên cao và độ cao, chiếc máy bay này đã lập ra 27 kỷ lục mới trong khoảng thời gian từ 1986 tới 1988.
+
+
+== Thiết kế ==
+
+
+=== Độ cơ động ===
+
+Thiết kế căn bản của Su-27 về mặt khí động học tương tự MiG-29, nhưng lớn hơn. Đây là một loại máy bay rất lớn, và để giảm trọng lượng cấu trúc đến mức tối thiểu, nó sử dụng nhiều titanium (khoảng 30%, nhiều hơn bất kỳ một loại máy bay cùng thời). Vật liệu composite không được sử dụng. Cánh xuôi sau đi vào thân tại những diềm cánh trước và về cơ bản là kiểu cánh tam giác, dù các đầu cánh được đặt các giá treo tên lửa hay các thiết bị đối phó điện tử (ECM). Tuy nhiên Su-27 không hoàn toàn là kiểu máy bay cánh tam giác vì nó vẫn giữ các cánh đuôi ngang truyền thống, với hai cánh đuôi đứng phía trên động cơ, kết hợp với những cánh thăng bằng ở bụng để tăng khả năng ổn định mỗi bên của máy bay.
+Động cơ phản lực của Su-27 là loại Lyulka AL-31F, khoảng cách giữa 2 động cơ khá lớn, vừa để an toàn vừa để đảm bảo không gián đoạn luồng khí xuyên qua những khe lấy không khí. Khoảng không giữa 2 động cơ cũng cung cấp thêm lực nâng, giảm bớt trọng tải cho cánh. Cánh của cánh quạt động cơ có thể di chuyển trong các khe hút không khí cho phép máy bay đạt tốc độ Mach 2+, và giúp duy trì luồng khí vào động cơ luôn ổn định khi máy bay đang ở góc tấn lớn. Một màn chắn ở mỗi đầu vào khe hút khí ngăn không cho các vật thể lạ bị hút vào động cơ trong khi máy bay cất cánh.
+Su-27 là máy bay đầu tiên của Liên Xô có hệ thống điều khiển fly-by-wire, được phát triển dựa vào kinh nghiệm thiết kế của Sukhoi T-4 - một dự án máy bay ném bom. Kết hợp với lực ép lên cánh tương đối thấp và hệ thống điều khiển bay cơ bản mạnh, nó làm cho máy bay nhanh nhẹn một cách khác thường, máy bay vẫn có thể kiểm soát ở tốc độ rất thấp và góc đụng lớn, hoặc tắt động cơ đột ngột khi bổ nhào và thực hiện các kỹ thuật bay nhào lộn. Trong một triển lãm hàng không, Su-27 đã trình diễn một động tác bay có tên gọi Cobra - rắn hổ mang (Rắn hổ mang Pugachev) hay bay với vận tốc thấp - nói tóm tắt là máy bay bay duy trì với vận tốc thấp ở góc 120°. Lực đẩy có hướng cũng được kiểm soát (và được hoàn thiện trên Su-30MKI và Su-37), cho phép máy bay tiêm kích thực hiện những động tác quay khó liên tục gần như không theo một bán kính cố định nào, kết hợp với những động tác nhào lộn thẳng đứng trong khi máy bay đang chuyển động.
+Các loại máy bay cùng thời của Mỹ như F-15 đều không có khả năng thực hiện thao tác bay “Rắn hổ mang Pugachev”. Khi xem thao tác cơ động này, các phi công Mỹ đã kinh ngạc là tại sao máy bay không bị vỡ tan trong không trung.
+Phiên bản hải quân của 'Flanker' là Su-27K (hay còn gọi là Su-33), được gắn thêm cánh mũi để tăng lực nâng, giảm quãng đường cất cánh (rất quan trọng vì Su-33 được trang bị trên tàu sân bay Admiral Kuznetsov, mà tàu sân bay này lại không được trang bị máy phóng máy bay). Những cánh mũi này cũng được lắp trên một số phiên bản Su-30, Su-35 và Su-37.
+Ngoài những cải tiến thêm vào để tăng tính nhanh nhẹn, Su-27 sử dụng thể tích lớn bên trong để chứa nhiên liệu, nó có sức chứa nhiên liệu rất lớn. Trong mức mang nhiên liệu cực đạt cho phép, nó có thể mang 9.400 kg (20.700 lb) nhiên liệu, trong khi bình thường nó có thể mang 5.270 kg (11.620 lb) nhiên liệu.
+
+
+=== Vũ khí ===
+Su-27 được trang bị vũ khí với một pháo đơn 30 mm Gryazev-Shipunov GSh-30-1 trong mạn phải thân máy bay, và có tới 10 điểm treo tên lửa và các vũ khí khác. Tên lửa trang bị tiêu chuẩn của Su-27 cho không chiến là Vympel R-73 (AA-11 Archer), Vympel R-27 (AA-10 'Alamo'), sau này là các kiểu tên lửa được mở rộng tầm bay và hệ thống dẫn đường bằng tia hồng ngoại. Những phiên bản Flanker hiện đại (như Su-30, Su-35, Su-37) có thể mang tên lửa Vympel R-77 (AA-12 Adder).
+Máy tính trên khoang của Su-27 lại ngang bằng về hiệu suất và bộ nhớ so với F-15 của Mỹ. Nhưng máy tính của Su-27 hiệu quả hơn khi giải quyết các bài toán điều khiển máy bay và hỏa lực, đó là nhờ trình độ rất cao của các chuyên gia lập trình Nga.
+Su-27 có hệ thống hiển thị trước buồng lái (HUD) và hệ thống hiển thị ngắm bắn trên mũ của phi công kết nối với nhau, và chúng tương thích với tên lửa R-73, sự nhanh nhẹn cùng các yếu tố khác đã làm Su-27 trở thành một trong số máy bay không chiến tầm gần tốt nhất thế giới. Radar ban đầu được trang bị là Phazotron N-001 (NATO 'Slot Back'), là một radar xung doppler khả năng theo dõi trong khi đang quét, nhưng bộ xử lý của nó tương đối cổ, làm cho nó trở nên dễ dàng bị tổn thương với những báo động sai và mù mục tiêu. Su-30 và Su-35 có radar cao cấp có tầm quét lớn hơn là Phazotron 'Bars' N-011M, với một hệ thống điện tử quét mạng bị động rất nhạy, cải thiện tầm quét, có thể theo dõi nhiều mục tiêu cùng lúc.
+Radar là một vấn đề phát triển chính cho Su-27. Nhu cầu ban đầu của Liên Xô rất tham vọng, họ yêu cầu một radar có khả năng giao chiến được với nhiều mục tiêu, có thể phát hiện và theo dõi mục tiêu là những máy bay ném bom từ khoảng cách 200 km (những mục tiêu có diện tích phản xạ sóng radar RCS là 16 m², đó là những máy bay ném bom đối thủ của Tu-16). Những điều này vượt xa so với tầm tìm kiếm của radar APG-63 trang bị cho F-15 (khoảng 180 km đối với những mục tiêu có RCS là 100 m²) và nói chung có thể so sánh được với radar mảng pha Zaslon nặng 1 tấn sử dụng trên MiG-31.
+Để đạt được điều này với một trọng lượng hợp lý, đội thiết kế đã tính toán radar sử dụng kỹ thuật quét điện tử cho độ cao và quét bằng cơ khí cho góc phương vị. Không may, thiết kế này đòi hỏi quá nhiều các thiết bị tinh vi hiện đại mà công nghiệp vi điện tử của Liên Xô trong thập niên 1970 chưa đạt được, do đó vào năm 1982, chương trình Myesch gốc phải hủy bỏ và một mảng ăng-ten thay thế ít năng lực hơn đã được lựa chọn. Để bù đắp cho thời gian đã lãng phí, nhiều công nghệ hoàn thiện từ radar N019 Topaz bao gồm một phiên bản mở rộng của mảng ăngten gương kép (cassegraine) quay trên MiG-29 đã được sử dụng, và do đó sản phẩm radar N001 chia sẻ bộ xử lý tín hiệu số TS100 cũng được sử dụng trên radar N019 Topaz, trong khi N001V, mẫu kế thừa của N001 dùng chung bộ xử lý tín hiệu số với N019M, mẫu kế thừa của N019. Radar chỉ đạt được tầm dò tìm là 140 km với những mục tiêu có kích thước như Tu-16, và chỉ có khả năng phát hiện và theo dõi trên một mục tiêu. Dù vậy, radar vào lúc đầu vẫn được chấp nhận về độ tin cậy và điều này đã giúp N001 được trang bị cho máy bay tiêm kích, nửa thập niên sau khi chiếc Su-27 đầu tiên đi vào hoạt động năm 1986.
+Seri radar N001 đầu tiên, Tikhomirov (NIIR) N001 (NATO 'Slot Back'), là một thiết bị xung Doppler với khả năng theo dõi trong khi quét, nhưng bộ xử lý của nó tương đối cũ, khiến nó dễ tạo báo động nhầm và điểm mù lớn, cũng như khó sử dụng. Trong những năm sau đó, dưới sự phát triển của tổng công trình sư thiết kế radar N001 là Giáo sư Viktor Konstantinovitch Grishin, radar N001 đã được nâng cấp nhiều lần, với các phiên bản N001V, N001VE, N001VEP, tất cả những phiên bản này đều đã được trang bị cho các máy bay, bao gồm cả phiên bản xuất khẩu của Su-27. Giáo sư V.K. Grishin là tổng công trình sư của radar mảng pha bị động Zalson S-800 trên MiG-31, và những kinh nghiệm này sau đó đã góp phần vào việc thiết kế các radar mảng pha thay thế cho seri N001.
+Hiển nhiên rằng không có nhiều lý do cho bất kỳ cải tiến quan trọng nào cho seri radar N001 nữa, vì máy bay Su-30 và Su-35/37 đã được trang bị radar Tikhomirov (NIIR) 'Bars' (Panther) N011M cao cấp với quét mảng pha điện tử bị động, tăng tầm hoạt động, phát hiện và theo dõi nhiều mục tiêu, và rất nhạy. Radar Bars (Panther) được lên kế hoạch sẽ bị thay thế bởi một mẫu còn hiện đại và cao cấp hơn, đó là radar mảng pha Irbis (Snow leopard)-E trong tương lai gần. Radar Irbis-E có khả năng rất mạnh, có thể theo dõi mục tiêu có RCS 3 m² (cỡ máy bay F-16) ở tầm 400 km và mục tiêu có RCS 0.01 m² (cỡ máy bay tàng hình) ở tầm 90 km. Đối thủ của Tikhomirov (NIIR) là Phazotron (NIIP) cũng đã giới thiệu mẫu radar tương tự với quét mảng điện tử bị động.
+Su-27 có 1 hệ thống tìm kiếm và theo dõi bằng tia hồng ngoại (IRST) ở phía trước buồng lái hay còn được gọi là "con ngươi", nó cũng được kết nối với hệ thống kính trắc viễn laser. Hệ thống này có thể được nối với radar, hay sử dụng độc lập cho hoạt động tấn công "lén lút" với tên lửa hồng ngoại (như R-73 và R-27T/ET). Nó cũng điều khiển pháo, cung cấp sự chính xác tốt hơn so với một radar ngắm bắn. Thậm chí, hệ thống này cho phép Su-27 có khả năng phát hiện và giao chiến với các loại máy bay tàng hình như F-22, F-35 từ cự ly tới vài chục km (máy bay tàng hình được thiết kế để có mức độ bộc lộ trước radar rất thấp, nhưng chúng vẫn phát ra tia hồng ngoại như máy bay thường do đều phải sử dụng động cơ phản lực tỏa ra nhiều nhiệt). Tiêu biểu là các hệ thống OLS-30 (trang bị trên Su-30MKK), OLS-35 (trang bị trên Su-35) đã đạt tầm phát hiện máy bay địch tới 90 km, trong khi hệ thống mới hơn (OLS-50M) được phát triển từ năm 2010 có cự ly phát hiện còn cao hơn nữa, có thể tới 150 km. Với tín hiệu hồng ngoại thu được cùng tên lửa "bắn và quên" (như R-73), Su-27 có thể nhắm bắn máy bay tàng hình từ cự ly khá xa, bất kể việc máy bay địch có bị phát hiện trên radar hay không.
+
+
+== Lịch sử hoạt động ==
+
+Su-27, dù có khả năng không chiến tốt, nó chỉ được trông thấy trong những hoạt động nhỏ từ khi nó được đưa vào hoạt động. Ngoại lệ đáng chú ý duy nhất là trong thời gian Chiến tranh Eritrea-Ethiopia (1998-2000), khi đó một số chiếc Su-27A đã được sử dụng triệt để bởi Ethiopia trong nhiệm vụ CAP (Combat Air Patrol - Tuần tra chiến đấu trên không) và hộ tống cho MiG-21 và máy bay ném bom MiG-23. Trong quá trình phục vụ, Su-27 của Ethiopia đã bắn hạ 2 chiếc MiG-29 của Eritrea; một số chiếc Flanker được điều khiển bởi phi công Nga và phi công Ukrainia, người ta cho rằng những phi công đến từ Nga và Ukraina đã điều khiển những chiếc Su-27 và MiG-29 đó (một số bị buộc tội làm lính đánh thuê). Một phi công của Ethiopia tên là Aster Tolossa đã trở thành người phụ nữ đầu tiên của Châu Phi giành chiến thắng trong không chiến.
+Tháng 8/1992, các phi công của Trung tâm huấn luyện chiến đấu của Không quân Nga ở Lipetsk đã bay Su-27UB sang ơcăn cứ không quân Langley, bang Virgimia, theo lời mời của phía Mỹ. Hai bên đã quyết định tiến hành “cuộc diễn tập chung” ở cách xa bờ biển 200 km. Theo kịch bản đề xuất, ban đầu 1 chiếc F-15D phải tìm cách thoát khỏi sự truy đuổi của Su-27UB, sau đó các máy bay sẽ đổi vai cho nhau và Su-27 phải thoát khỏi sự truy đuổi của F-15. Một chiếc F-15C cũng cất cánh để quan sát cuộc tập trận.
+Đầu tiên, chiếc F-15D đã cố bứt khỏi Su-27 ở chế độ tăng lực toàn phần, nhưng Su-27 vẫn bám cứng chiếc F-15 bằng cách sử dụng chế độ tăng lực cực tiểu và lực đẩy không tăng lực tối đa. Sau khi các máy bay đổi chỗ cho nhau, Su-27 đã bật tăng lực toàn phần và lập tức thoát khỏi F-15D với vòng lượn và lấy độ cao gắt, khiến F-15 tụt lại phía sau. Sau vòng lượn, chiếc Su-27UB bám ngay vào đuôi chiếc F-15, và đã “bắn rơi” chiếc chiếc F-15C đang quan sát ở phía sau. Sau khi hạ chiếc F-15 thứ nhất, Su-27 bắt vào máy ngắm chiếc F-15D hai chỗ ngồi và "bắn hạ" luôn nó. Trận không chiến kết thúc, Su-27UB đã hạ cả 2 chiếc F-15 nhờ khả năng cơ động rất tốt của mình.
+Máy bay chiến đấu Su-27 được tạp chí hàng không hàng đầu trên thế giới Flight International đánh giá là máy bay chiến đấu tốt nhất thế kỷ 20.
+
+
+== Các sự kiện và tai nạn ==
+9 tháng 9 năm 1990: Tại triển lãm hàng không Salgareda, Ý, 2 người bị thiệt mạng (phi công Rimantas Stankevičius + 1 khán giả).
+12 tháng 12 năm 1995, đội bay biểu diễn có tên Russkie Vityazi (hiệp sĩ Nga) của Nga đang trên đường trở về nước sau khi tham dự biểu diễn hàng không tại Malaysia thì gặp tai nạn khi ghé qua căn cứ Cam Ranh để tiếp nhiên liệu. Chiếc IL-76 đột ngột trở hướng trong điều kiện mây mù làm ba chiếc Su-27 bay kèm theo đâm vào núi gần Cam Ranh làm bốn phi công Nga thiệt mạng. [1][2].
+27 tháng 7 năm 2002: Thảm họa triển lãm hàng không Sknyliv tại Lviv, Ukraina - 78 người xem bị thiệt mạng (Video)
+16 tháng 8 năm 2009: hai chiếc máy bay chiến đấu Su-27 bay tập chuẩn bị cho Triển lãm hàng không MAKS-2009 của Không quân Nga đã rơi do đâm vào nhau, làm một phi công thiệt mạng là Ðại tá Igor Tkachenko tại phía đông nam thủ đô Moskva. Hai máy bay bị nạn rớt xuống làng Belozerikha làm cháy 3 ngôi nhà và 5 người bị thương vì trúng những mảnh vụn trong đó một phụ nữ bị phỏng nặng. Đội bay biểu diễn Hiệp sĩ Nga, đã không tham dự Ðại hội Hàng không Moskva 2009 sau tai nạn đó.
+1 tháng 7 năm 2007, 1 chiếc Sukhoi Su-27SK của Không quân Nhân dân Việt Nam bị rơi xuống biển trong một cuộc huấn luyện tại Cam Ranh.
+Năm 2011, một chiếc Su-27 SM đã bị rơi tại Vladivostok khi đang chuẩn bị hạ cánh. Nguyên nhân là do một hệ thống điều khiển bị hỏng.
+28 tháng 6 năm 2012, một chiếc chiến đấu cơ phản lực Su-27UB của Không quân Nga đã gặp tai nạn ở khu vực Petrozavodsk, phía Đông Bắc nước Cộng hòa Karelia thuộc Nga, may mắn, hai phi công nhảy thoát an toàn. Đại diện Không quân Nga, Đại tá Vladimir Drik cho biết, tất cả các chuyến bay của Su-27 đều bị tạm hoãn sau khi chiếc Su-27UB gặp tai nạn
+15 tháng 6 năm 2012, Trung đoàn không quân tiêm kích 940 thuộc Không quân Nhân dân Việt Nam đưa máy bay Su-27 ra quần đảo Trường Sa làm nhiệm vụ tuần tra, lần đầu tiên Trung đoàn không quân tiêm kích 940 đưa tiêm kích Su-27 từ căn cứ ở miền Trung ra tuần tiễu. Khu vực Quần đảo Trường Sa là khu vực đang có tranh chấp nên ngay sau đó Trung Quốc phản đối Việt Nam đưa máy bay tuần tiễu Trường Sa.
+Tính đến tháng 6/2016, sau gần 40 năm phục vụ trên khắp thế giới, đã có 43 chiếc Su-27 bị rơi do tai nạn. So với gần 1.100 chiếc Su-27 được chế tạo thì tỷ lệ rơi do tai nạn là 4%, đây là tỷ lệ rất thấp so với những máy bay cùng thời của phương Tây như F-15 Eagle (tỷ lệ rơi do tai nạn là 10,1%), F-16 Fighting Falcon (tỷ lệ rơi do tai nạn là 14,4%), F/A-18 Hornet (tỷ lệ rơi do tai nạn là 12%).
+Tỷ lệ này cũng cho thấy độ bền bỉ trước điều kiện khắc nghiệt, khả năng bảo dưỡng dễ dàng của máy bay Su-27 so với những đối thủ từ phương Tây. Tuy nói là dễ dàng nhưng đến năm 2016 thì trên thế giới chỉ có Nga, Ukraine, Belarus, Trung Quốc và Nhà máy sửa chữa máy bay A32 thuộc Quân chủng Phòng không-Không quân (Việt Nam) là làm chủ hoàn toàn quy trình sửa chữa và tăng tổng niên hạn của máy bay Su-27.
+
+
+== Các phiên bản ==
+
+
+=== Thời kỳ Xô Viết ===
+
+T10 ("Flanker-A"): Mẫu đầu tiên.
+T10S: Nguyên mẫu cải tiến, có nhiều điểm giống với mẫu sản xuất.
+P-42: Phiên bản đặc biệt chế tạo để phá các kỷ lục tốc độ leo lên. Vũ khí, radar và lớp sơn ngụy trang bị loại bỏ, giảm trọng lượng xuống còn 14.100 kg. Nó còn có động cơ cải tiến.
+Su-27: Seri tiền sản xuất chế tạo với số lượng nhỏ, trang bị động cơ AL-31.
+Su-27S (Su-27 / "Flanker-B"): Phiên bản sản xuất một chỗ đầu tiên với động cơ cải tiến AL-31F. Tên gọi "T10P" đôi khi được sử dụng cho Su-27S một chỗ loại bỏ khả năng tấn công thứ yếu.
+Su-27UB ("Flanker-C"): Phiên bản sản xuất 2 chỗ đầu tiên, được chuyển đổi cho hoạt động huấn luyện.
+Su-27SK: Su-27 một chỗ xuất khẩu.
+Su-27UBK: Su-27UB hai chỗ xuất khẩu.
+Su-27K (Su-33 / "Flanker-D"): Phiên bản một chỗ trang bị cho tàu sân bay, với cánh gấp, móc hãm, thiết bị giúp tăng tốc khi cất cánh, chế tạo với số lượng nhỏ. Nó theo sau mẫu máy bay biểu diễn thí nghiệm "T10K".
+
+
+=== Thời kỳ hậu Xô Viết ===
+Su-27PD: Phiên bản thao diễn một chỗ với những cải tiến như cần tiếp nhiên liệu trên không.
+Su-27PU (Su-30): Phiên bản 2 chỗ sản xuất hạn chế với các cải tiến như cần tiếp nhiên liệu trên không, hệ thống điện tử điều khiển chiến đấu, hệ thống điều khiển bay mới và các cải tiến khác.
+Su-30M / Su-30MK: Phiên bản 2 chỗ đa chức năng thế hệ tiếp theo. Vài chiếc Su-30M đã được chế tạo cho Không quân Nga đánh giá vào giữa thập niên 1990, dù chẳng có gì trở thành kết quả. Phiên bản xuất khẩu là Su-30MK.
+Su-30MKA: Phiên bản xuất khẩu cho Algérie.
+Su-30MKI (Flanker-H): Về thực chất là Su-30MK cải tiến cho Không quân Ấn Độ, với cánh mũi, động cơ đẩy vec-tơ, hệ thống điện tử mới, và khả năng đa nhiệm.
+Su-30MKK (Flanker-G): Su-30MK cho không quân Trung Quốc, với hệ thống điện tử nâng cấp của Nga và khả năng đa nhiệm, không có cánh mũi hay động cơ đẩy vec-tơ. Hải quân Trung Quốc cũng mua "Su-30MK2" nâng cao khả năng tấn công tàu chiến.
+Su-30MKM: Mẫu sao chép của Su-30MKI với hình dạng đặc riêng biệt cho Malaysia.
+Su-30KN (Flanker-B Mod. 2): Phiên bản một chỗ cải tiến với hệ thống điện tử nổi bật cho phép Su-30KN thực hiện những chức năng mới, hầu hết liên quan đến dẫn đường.
+Su-30KI (Flanker-B Mod. 2): Phiên bản một chỗ cải tiến với những đặc tính của Su-30MK cho Indonesia, tiếp sau những bước đi của một chiếc máy bay đánh giá "Su-27SMK" bay vào giữa thập niên 1990.
+Su-27M (Su-35 / 37, Flanker-E/F): Seri những mẫu thao diễn cải tiến bắt nguồn từ Su-27S một chỗ đa vai trò. Seri này cũng bao gồm mẫu thao diễn "Su-35UB" hai chỗ.
+
+Su-27SM (Flanker-B Mod. 1): Su-27S nâng cấp cho Nga, được trang bị với các công nghệ mới áp dụng trên các mẫu Su-27M (Su-35).
+Su-27SM2: Su-27SM trang bị động cơ Salyut AL-31F-M1.
+
+Su-27SKM: Máy bay tiêm kích đa vai trò một chỗ cho xuất khẩu. Nó bắt nguồn từ Su-27SK nhưng bao gồm những nâng cấp về buồng lái, hệ thống phòng vệ tác chiến điện tử tinh vi và hệ thống tiếp nhiên liệu trên không.
+Su-27UBM: Phiên bản Su-27UB nâng cấp.
+Su-32 (Su-27IB): Phiên bản tấn công tầm xa 2 chỗ song song trong buồng lái mũi có hình dạng thú mỏ vịt. Nguyên mẫu của Su-32FN và Su-34 Fullback
+Su-27KUB: Về cơ bản là Su-27K một chỗ trang bị trên tàu sân bay với buồng lái song song, sử dụng để huấn luyện trên tàu sân bay hay như một máy bay đa vai trò.
+Su-27BM (Su-35): Còn được gọi là "The Last Flanker", đây là phát triển mới nhất của dòng Sukhoi Flanker. Nó nổi bật với hệ thống điện tử và radar mới. Radar PESA Irbis-E rất mạnh với khả năng theo dõi mục tiêu có RCS 3 m² ở tầm 400 km và mục tiêu RCS 0.01 m² ở tầm 90 km.
+
+
+== Các quốc gia sử dụng ==
+
+Khoảng 680 chiếc Su-27 đã được chế tạo tại Liên Xô và Nga. Con số này chỉ bao gồm Su-27 mà không bao gồm những mẫu phát triển sau này. Ngoài ra, khoảng 300 chiếc Shenyang J-11 (phiên bản của Su-27) đã được chế tạo bởi Trung Quốc (tính tới 2015) sao chép bất hợp pháp.
+
+
+=== Các quốc gia đang sử dụng ===
+ Angola
+Khoảng 8 chiếc Su-27 và 27UB.
+ Belarus
+Có thể có 25 chiếc đang hoạt động.
+ Trung Quốc
+Trung Quốc đã mua 76 chiếc tiêm kích Su-27 từ Nga trước khi ký một thỏa thuận vào năm 1998 để chế tạo SU-27 tạo Trung Quốc với tên gọi Shenyang J-11 (khoảng 276 chiếc đã được chế tạo tính đến năm 2014). Năm 2006, Trung Quốc cũng đã mua 100 chiếc Sukhoi Su-30MKK/MK2 (Modernizirovannyi Kommercheskiy Kitaiskiy - phiên bản nâng cấp thương mại cho Trung Quốc) cho Không quân Quân giải phóng Nhân dân. Trung Quốc cũng dự tính mua 48 chiếc Sukhoi Su-33 cho Hải quân để trang bị trên tàu sân bay mới của Trung Quốc, tuy nhiên hợp đồng mua Su-33 đã không được tiếp tục do Trung Quốc đã tập trung vào nghiên cứu phiên bản Su-33 nội địa với tên gọi Shenyang J-15.
+ Eritrea
+Khoảng 8 chiếc Su-27SK/27UB đã tới Eritrea năm 2003.
+ Ethiopia
+15 chiếc
+ Ấn Độ
+Sau nhiều năm thương lượng, Ấn Độ cuối cùng đã đặt mua 40 chiếc Su-30MKI với động cơ AL-31FP mạnh hơn, hệ thống điện tử cao cấp, cánh mũi và động cơ đẩy vec-tơ. Hindustan Aeronautics cũng có một giấy phép để sản xuất 140 chiếc đến năm 2020.
+ Indonesia
+Indonesia có 2 Su-27SK và 2 Su-30MK để thay thế A-4 Skyhawk. Trong giai đoạn 2007-2009, Không quân Indonesia sẽ có 3 Su-27SKM và 3 Su-30MK2 để tăng số lượng Su-27 sử dụng trong biên chế.
+ Kazakhstan
+sử dụng khoảng 30 chiếc
+ Malaysia
+Không quân Hoàng gia Malaysia đặt mua 18 chiếc Su-30MKM năm 2003 có giá trị là 900 triệu USD, đã được giao hàng. Su-30MKM trang bị các loại tên lửa hiện đại đời mới như AA-10, AA-12 và AA-11, ngoài ra còn có vũ khí không đối đất bao gồm tên lửa không điều khiển và bom. Su-30MKM của Malaysia còn có cánh mũi và động cơ đẩy vec-tơ để tăng độ cơ động nhanh nhẹn.
+ Nga
+449 đang hoạt động trong Không quân Nga. Nga đang nâng cấp lên tiêu chuẩn Su-27SM, bao gồm buồng lái kính và hệ thống lái fly-by-wire số. Radar nâng cấp với một mảng pha (giống như Pero) cho phép tăng tầm hoạt động. Hệ thống bảo vệ và dẫn đường cũng được nâng cấp, cũng như hệ thống tấn công. Ngoài Su-27, Nga còn có 19 Su-30, 28 Su-33, 30 Su-34 và 11 Su-35.
+ Ukraina
+80 .
+ Uzbekistan
+có 25 chiếc đang hoạt động.
+ Venezuela
+xxxxthumb|Su-27SK của Không quân Nhân dân Việt NamKhông quân Venezuela có 24 chiếc Su-30MK2 trong một hợp đồng trị giá 1.5 tỉ USD.
+ Việt Nam
+Không quân Nhân dân Việt Nam có 7 chiếc Su-27 SK, 3 chiếc Su-27 UBK, 2 chiếc Su-27 PU, tổng cộng là 12 chiếc Su-27 (1 chiếc SK bị rơi tại Cam Ranh năm 2007). Có 2 chiếc PU là do ngày 16/2/1997, trên đường vận chuyển thì hai chiếc Su-27 UBK mang số hiệu 8524 và 8525 bị hư hại nặng phía bên trái. Nga phải đền bù cho phía Việt Nam 2 chiếc Su-27PU. Không quân Nhân dân Việt Nam cũng sở hữu 36 chiếc Su-30MK2V (là phiên bản nâng cấp của Su-27).
+ Hoa Kỳ
+2 chiếc Su-27 đã được chuyển đến Mỹ năm 1995, được dùng để huấn luyện.
+
+
+=== Quốc gia sử dụng trước đây ===
+ Liên Xô
+Không quân Xô viết và Quân chủng Phòng không Xô viết
+
+
+== Thông số kỹ thuật (Sukhoi Su-27) ==
+
+
+=== Đặc điểm riêng ===
+Phi hành đoàn:1
+Chiều dài: 21.9 m (72 ft)
+Sải cánh: 14.7 m (48 ft 3 in)
+Chiều cao: 5.93 m (19 ft 6 in)
+Diện tích cánh: 62 m² (667 ft²)
+Trọng lượng rỗng: 16.380 kg (36.100 lb)
+Trọng lượng cất cánh: 23.000 kg (50.690 lb)
+Trọng lượng cất cánh tối đa: 33.000 kg (62.400 lb)
+Động cơ: 2× Saturn/Lyulka AL-31F, 122.8 kN (27.600 lbf) mỗi chiếc
+
+
+=== Hiệu suất bay ===
+Vận tốc cực đại: Mach 2.35 (2.500 km/h, 1.550 mph)
+Tầm bay chiến đấu:
+Trên biển: 1.340 km
+Trên đất liền: 3.530 km
+
+Trần bay: 18.500 m (60.700 ft)
+Vận tốc bay lên: 325 m/s (64.000 ft/min)
+Áp lực lên cánh: 371 kg/m² (76 lb/ft²')
+Lực đẩy/trọng lượng: 1.07
+
+
+=== Vũ khí ===
+1x pháo 30 mm GSh-30-1 với 150 viên đạn
+8.000 kg (17.600 lb) vũ khí trên 10 giá treo ngoài
+Mang được 6 tên lửa không đối không tầm trung R-27, 4 tên lửa không đối không tầm nhiệt tầm gần R-73
+Su-27SM nâng cấp có thể mang được R-77 thay cho R-27
+
+Su-27IB có thể sử dụng để phóng tên lửa chống bức xạ Kh-31, tên lửa không đối đất Kh-29L/T (điều khiển bằng laser/TV, có thể chiếu lên mũ), bom KAB-150 và UAB-500 điều khiển bằng laser, TV hay IR
+
+
+== Trò chơi máy tính và Phim ==
+Su-27 giữ vai chính trong game mô phỏng bay Su-27 Flanker và Flanker 2.0
+Su-27 đã xuất hiện trong phim Stealth.
+
+
+== Tham khảo ==
+
+Modern Combat Aircraft: Reference guide pp. 50–51 Minsk, "Elida", 1997, ISBN 985-6163-10-2. (tiếng Nga)
+Comprehensive Russian Military Analysis, warfare.ru.
+
+
+== Liên kết ngoài ==
+http://www.knaapo.ru/eng/
+http://www.irkut.com/en/
+Russkiye Vityazi (Russian Knights) Acrobatic Team
+GlobalSecurity.org
+Sukhoi Su-27 page by the Federation of American Scientists
+Sukhoi Flankers - The Shifting Balance of Regional Air Power
+The Su-27SKM
+Su-27SК Sukhoi
+Su-27SК Russia Military Analysis
+Asia's Advanced Flankers
+Su-27 free walkaround (37 shots)
+Máy bay chiến đấu dòng Su của Nga
+Mỹ công nhận máy bay Nga dòng Su vượt trội hơn F-16 và F-15
+https://books.google.com.vn/books?id=qU4uE-A1pUAC&pg=PA78&lpg=PA78
+Giới thiệu sơ Su-27 1
+Giới thiệu sơ Su-27 2
+Giới thiệu sơ Su-27 3
+Giới thiệu sơ Su-27 4
+
+
+== Chủ đề liên quan ==
+
+
+=== Máy bay có cùng sự phát triển ===
+Sukhoi Su-30
+Sukhoi Su-30MKI
+Sukhoi Su-30MKK
+Sukhoi Su-32
+Sukhoi Su-33
+Sukhoi Su-34
+Sukhoi Su-35
+Sukhoi Su-37
+Sukhoi Su-47
+Shenyang J-11
+
+
+=== Máy bay có tính năng tương đương ===
+F-15 Eagle
+F/A-18 Hornet
+Panavia Tornado

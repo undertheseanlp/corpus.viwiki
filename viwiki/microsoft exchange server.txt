@@ -1,0 +1,19 @@
+Microsoft Exchange Server là phần mềm máy chủ thư điện tử được phát triển bởi Microsoft. Đây là chương trình máy chủ chạy trên Windows Server và là thành viên của dòng máy chủ Microsoft. Exchange Server bắt đầu phát triển từ tháng 4 năm 1993, và được hoàn thành vào cuối năm 1996.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+"Microsoft Exchange"
+"EHLO - The Exchange Team Blog"
+"A brief history of time - Exchange Server way" Written by the Exchange Team
+"Microsoft TechNet - Exchange Server Home"
+"Exchange Server Supportability Matrix"
+"OpenChange: a portable Open Source implementation of Microsoft Exchange Server and Exchange protocols."
+"Evaluation of Microsoft Exchange 2010 Beta at IT Reviews ngày 27 tháng 7 năm 2009"
+"Windows Phone 7 - Exchange Setup Guide"
+"Evolution Windows NSIS Installer"
+"Licensing of Microsoft Server Products"
+Exchange Web Forms
+Exchange Server Tutorials

@@ -1,0 +1,54 @@
+CRC (Cyclic Redundancy Check) là một loại hàm băm, được dùng để sinh ra giá trị kiểm thử, của một chuỗi bit có chiều dài ngắn và cố định, của các gói tin vận chuyển qua mạng hay một khối nhỏ của tệp dữ liệu. Giá trị kiểm thử được dùng để dò lỗi khi dữ liệu được truyền hay lưu vào thiết bị lưu trữ. Giá trị của CRC sẽ được tính toán và đính kèm vào dữ liệu trước khi dữ liệu được truyền đi hay lưu trữ. Khi dữ liệu được sử dụng, nó sẽ được kiểm thử bằng cách sinh ra mã CRC và so khớp với mã CRC trong dữ liệu.
+CRC rất phổ biến, vì nó rất đơn giản để lắp đặt trong các máy tính sử dụng hệ cơ số nhị phân, dễ dàng phân tích tính đúng, và rất phù hợp để dò các lỗi gây ra bởi nhiễu trong khi truyền dữ liệu.
+
+
+== Giới thiệu ==
+CRC là một loại mã phát hiện lỗi. Cách tính toán của nó giống như phép toán chia số dài trong đó thương số được loại bỏ và số dư là kết quả, điểm khác biệt ở đây là sử dụng cách tính không nhớ (carry-less arithmetic) của một trường hữu hạn. Độ dài của số dư luôn nhỏ hơn hoặc bằng độ dài của số chia, do đó số chia sẻ quyết định độ dài có thể của kết quả trả về. Định nghĩa đối với từng loại CRC đặc thù quyết định số chia nào được sử dụng, cũng như nhiều ràng buộc khác.
+Mặc dù các mã CRC có thể xây dựng được bằng cách sử dụng bất kỳ trường hữu hạn nào, nhưng tất cả các mã CRC thường dùng đều sử dụng trường hữu hạn GF(2). Đây là trường hai phần tử, thường được ký hiệu là 0 và 1, phù hợp với kiến trúc máy tính. Phần còn lại của bài viết sẽ chỉ đề cập đến những mã CRC thuộc dạng này, nhưng nguyên tắc thì khái quát hơn.
+Một lý do quan trong lý giải sự phổ biến của mã CRC trong phát hiện sự thay đổi ngẫu nhiên của dữ liệu là hiệu suất đảm bảo. Điển hình, một mã CRC n bit, được áp dụng cho một đoạn dữ liệu có độ dài tùy ý, sẽ phát hiện được bất kỳ lỗi tín hiệu đơn nào có độ dài không quá n bit (nói cách khác, bất kỳ sự biến đổi đơn lẻ nào có chiều dài không quá n bit của dữ liệu), và sẽ phát hiện một phần 1-2-n của tất cả các lỗi tín hiệu có độ dài dài hơn thế. Các lỗi trong cả các kênh truyền dữ liệu và phương tiện bộ nhớ từ dẫn đến phân bố không ngẫu nhiên (v.d, "bursty"), làm cho các đặc tính của CRC trở nên hữu dụng hơn những mã khác như Multiple Parity checks.
+Hệ thống tìm lỗi đơn giản nhất, bit parity (xét chẵn lẻ), thực ra là một mã CRC ở dạng tầm thường: sử dụng số chia độ dài 2 bit là 11.
+
+
+== Tính toán CRC ==
+
+Để tính toán một mã nhị phân n bit CRC, xếp các bít biểu diễn đầu vào thành một hàng, và đặt mẫu (n+1) bit biểu diễn số chia của CRC (gọi là một "đa thức") vào bên dưới bên trái ở cuối hàng. Sau đây là phép tính đầu tiên để tính một hàm CRC 3 bít:
+Dãy số đầu vào:
+
+11010011101100 
+
+11010011101100 000 <--- Đầu vào (thêm vào bên phải dãy 3 bit 0)
+1011               <--- Số chia (4 bit = 3 + 1 bit)
+------------------
+01100011101100 000 <--- Kết quả (--> Lại đưa vào đầu vào của phép tính tiếp theo)
+
+Nếu dãy nhị phân đầu vào bên trên có bít cực tả (đầu tiên bên trái) là 0, không làm gì hết và dịch số chia sang phải một bít. Nếu dãy nhị phân đầu vào bên trên có bít cực tả là 1, lấy dãy số đầu vào trừ đi số chia (hay nói cách khác, lấy từng bít ở dãy số đầu vào trên trừ đi từng bít ở số chia). Số chia sau đó dịch vị trí 1 bít sang phải, quá trình cứ tiếp diễn như vậy đến khi số chia chạm tới tận cùng bên phải của dãy số đầu vào. Đây là phép tính cuối cùng:
+
+00000000000101 000 <--- Kết quả của phép nhân
+           101 1   <--- Số chia
+------------------
+00000000000000 100 <--- Số dư (3 bits)
+
+Do cực tả của số chia sẻ làm các bít tương ứng của dãy số đầu vào trở về 0 qua mỗi lần dịch, khi quá trình này kết thúc, chỉ còn những bít ở dãy đầu vào có thể không là 0 trở thành n bit cuối bên phải của dãy số. n bit này là số dư của bước chia, và cũng sẽ là giá trị hàm CRC (trừ khi hàm CRC được chọn đặc biệt được gọi cho một số công đoạn tiền xử lý).
+
+
+== Những hàm CRC thường dùng và được tiêu chuẩn hóa ==
+Các dạng mã kiểm soát lỗi CRC (cyclic redundancy check) được chia thành nhiều tiêu chuẩn, chúng không được tiêu chuẩn hóa thống nhất cho 1 thuật toán nào ở mỗi mức độ trên toàn cầu: có 3 đa thức CRC-12, ít nhất 8 biến thể có trong tài liệu của CRC-16, và 3 biến thể của CRC-32 được biết đến. Các đa thức thường được xem như không phải là tối ưu có thể. Trong những năm từ 1993 đến 2004, Koopman, Castagnoli và một số nhà khoa học đã tiến hành tìm kiếm trong không gian các đa thức lên đến 16, và không gian 24 và 32 bit, tìm các ví dụ có hiệu suất tốt hơn nữa (trong các điều kiện quãng cách Hamming cho một bức tin có kích thước cho trước) so với các đã thức trong các giao thức trước đó, và xuất bản những kết quả tốt nhất trong số chúng với mục đích cải thiện năng lực tìm lỗi cho cac tiêu chuẩn trong tương lai.
+Không phải ngẫu nhiên mà đa thức phổ biển CRC-32, được IEEE giới thiệu và được dùng trong V.42, Ethernet, FDDI và ZIP và các file PNG cũng như nhiều ứng dụng khác, là một đa thức sinh ra từ mã Hamming và được chọn để tìm lỗi trong các kênh truyền thông. Dù vậy, nó còn có hiệu suất tốt hơn với đa thức Castagnoli CRC-32C sử dụng ở iSCSI trong các môi trường Internet SCSI.
+Bảng dưới đây chỉ liệt kê những đa thức của những thuật toán đa dạng đang được sử dụng.
+Đã từng tồn tại, nhưng không còn sử dụng trong công nghệ—hầu hết được thay thế bằng các hàm mật mã băm (cryptographic hash functions):
+CRC-128 (IEEE)
+CRC-256 (IEEE)
+
+
+=== Xung đột mã CRC ===
+
+
+== Xem thêm ==
+Danh sách các thuật toán kiểm thử
+Bit chẵn lẻ
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

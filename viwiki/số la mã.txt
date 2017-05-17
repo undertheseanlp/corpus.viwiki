@@ -1,0 +1,44 @@
+Số La Mã hay chữ số La Mã là hệ thống chữ số cổ đại, dựa theo chữ số Etruria. Hệ thống chữ số La Mã dùng trong thời cổ đại đã được người ta chỉnh sửa sơ vào thời Trung Cổ để biến nó thành dạng mà chúng ta sử dụng ngày nay. Hệ thống này dựa trên một số ký tự nhất định được coi là chữ số sau khi được gán giá trị.
+Số La Mã được sử dụng phổ biến ngày nay trong những bản kê được đánh số (ở dạng sườn bài), mặt đồng hồ, những trang nằm trước phần chính của một quyển sách, tam nốt hợp âm trong âm nhạc phân tích, việc đánh số ngày ra mắt của phim, những lãnh đạo chính trị tiếp nối nhau, hoặc trẻ em trùng tên, và việc đánh số cho một số hoạt động nào đó, như là Thế vận hội Olympic và giải Super Bowl.
+
+
+== Cách viết ==
+:
+Nhiều ký hiệu có thể được kết hợp lại với nhau để chỉ các số với các giá trị khác chúng. Thông thường người ta quy định các chữ số I, X, C, M, không được lặp lại quá ba lần liên tiếp; các chữ số V, L, D không được lặp lại quá một lần liên tiếp. Chính vì thế mà có 6 nhóm chữ số đặc biệt được nêu ra trong bảng sau:
+Người ta dùng các chữ số I, V, X, L, C, D, M, và các nhóm chữ số IV, IX, XL, XC, CD, CM để viết số La Mã. Tính từ trái sang phải giá trị của các chữ số và nhóm chữ số giảm dần. Một vài ví dụ:
+III hay iii cho ba. Đôi khi, ký tự cuối cùng là "j" thay vì là "i", thường là trong các đơn thuốc.
+VIII hay viii cho tám
+XXXII hay xxxii cho ba mươi hai
+XLV hay xlv cho bốn mươi lăm
+MMMDCCCLXXXVIII hay mmmdccclxxxviii cho ba nghìn tám trăm tám mươi tám
+MMMCMXCIX hay mmmcmxcix cho ba nghìn chín trăm chín mươi chín
+I chỉ có thể đứng trước V hoặc X, X chỉ có thể đứng trước L hoặc C, C chỉ có thể đứng trước D hoặc M.
+Đối với những số lớn hơn (4000 trở lên), một dấu gạch ngang được đặt trên đầu số gốc để chỉ phép nhân cho 1000:
+V cho năm nghìn
+X cho mười nghìn
+L cho năm mươi nghìn
+C cho một trăm nghìn
+D cho năm trăm nghìn
+M cho một triệu
+Đối với những số rất lớn thường không có dạng thống nhất, mặc dù đôi khi hai gạch trên hay một gạch dưới được sử dụng để chỉ phép nhân cho 1.000.000. Điều này có nghĩa là X gạch dưới (X) là mười triệu.
+
+
+== Số La Mã ==
+Chữ số La Mã vẫn tiếp tục được sử dụng cho đến khi đế chế La Mã suy tàn và cho đến thế kỉ 14 thì nó đã không còn được sử dụng rộng rãi bởi tính tiện dụng của chữ số Ả Rập (chính là các chữ số chúng ta sử dụng ngày nay được tạo thành bởi các số từ 0 đến 9), tuy nhiên nó vẫn còn được sử dụng trong việc đánh số trên mặt đồng hồ, âm nhạc, các sự kiện lớn và đánh dấu thứ tự những người lãnh đạo chính trị.
+
+
+== Xem thêm ==
+Chữ số Ả-rập
+Chữ số Trung Quốc
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Online Converter for Decimal/Roman Numerals (JavaScript, GPL)
+Web Based Converter - Decimal to Roman Numerals
+Roman Numeral Conversion Exercises (Java)
+Why do clocks with Roman numerals use "IIII" instead of "IV"?: FAQ #1
+"Romance in Numbers" by Paul Niquette
+Conversion algorithm and demonstration program (with source code)

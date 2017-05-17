@@ -1,0 +1,142 @@
+Bing (trước đây là Live Search, Windows Live Search và MSN Search) là bộ máy tìm kiếm web (được quảng cáo là một bộ máy "ra quyết định"), đại diện cho công nghệ tìm kiếm hiện nay của Microsoft. Được Giám đốc Điều hành của Microsoft Steve Ballmer tiết lộ vào ngày 28 tháng 5 năm 2009 tại hội nghị All Things D tại San Diego, Bing là một sự thay thế cho Live Search; bộ máy tìm kiếm này được đưa lên trực tuyến hoàn toàn vào ngày 3 tháng 6 năm 2009.
+
+
+== Lịch sử ==
+
+
+=== MSN Search ===
+
+MSN Search đã là một bộ máy tìm kiếm của Microsoft bao gồm một bộ máy tìm kiếm, sắp chỉ mục, và web crawler. MSN Search ra mắt đầu tiên vào mùa thu năm 1998 và dùng kết quả tìm kiếm do Inktomi trả về. Vào đầu năm 1999, MSN Search ra mắt một phiên bản hiển thị danh sách từ Looksmart phối hợp với các kết quả từ Inktomi ngoại trừ một thời điểm ngắn trong năm 1999 khi trang này sử dụng kết quả từ AltaVista. Kể từ khi Microsoft nâng cấp MSN Search để có thể trả về kết quả của bộ máy tìm kiếm do chính Microsoft xây dựng (danh sách các địa chỉ web với những bản xem thử nội dung trùng hợp với truy vấn của người dùng), chỉ mục của nó được cập nhật hàng tuần hoặc thậm chí hàng ngày. Việc nâng cấp bắt đầu dưới dạng chương trình beta vào tháng 11 năm 2004 (dựa trên vài năm nghiên cứu), và ra mắt bản beta vào tháng 2 năm 2005. Tìm kiếm hình ảnh do bên thứ ba thực hiện, Picsearch. Dịch vụ cũng bắt đầu cung cấp kết quả tìm kiếm của nó cho các cổng máy tìm kiếm khác nhằm cạnh tranh mạnh hơn trên thị trường.
+
+
+=== Windows Live Search ===
+Bản beta công cộng đầu tiên của Windows Live Search được tiết lộ vào ngày 8 tháng 3 năm 2006, bản cuối cùng phát hành vào ngày 11 tháng 9 năm 2006 thay thế hoàn toàn MSN Search. Bộ máy tìm kiếm mới cho người dùng khả năng tìm những loại thông tin cụ thể bằng cách dùng các tab tìm kiếm bao gồm Web, tin tức, hình ảnh, âm nhạc, máy tính để bàn, nội bộ, và Microsoft Encarta. Windows Live Search đặt mục tiêu sẽ có trên 2,5 tỷ truy vấn trên toàn cầu mỗi tháng "hữu ích hơn với việc cung cấp cho người dùng sự truy cập cải tiến vào thông tin và những câu trả lời chính xác hơn cho câu hỏi của họ". Một trình đơn cấu hình cũng có để thay đổi bộ máy tìm kiếm mặc định trong Internet Explorer.
+Trong quá trình chuyển đổi từ MSN Search sang Windows Live Search, Microsoft đã ngưng sử dụng Picsearch làm nhà cung cấp tìm kiếm hình ảnh cho họ và bắt đầu thực hiện tự tìm kiếm hình ảnh, sử dụng giải thuật tìm kiếm hình ảnh của riêng mình.
+
+
+=== Live Search ===
+
+Vào ngày 21 tháng 3 2007, có thông báo rằng Microsoft sẽ tách sự phát triển Live Search ra khỏi gia đình dịch vụ Windows Live. Live Search sẽ được tích hợp và trở thành một phần của Live Search and Ad Platform dẫn đầu bởi Satya Nadella, một phần của nhánh Platform và Hệ thống của Microsoft. Là một phần của sự thay đổi này, Live Search sẽ được thống nhất với Microsoft adCenter.
+Một loạt quá trình tái cấu trúc và hợp nhất các kết quả tìm kiếm từ Microsoft đã được thực hiện khi bộ máy mang nhãn hiệu Live Search. Vào ngày 23 tháng 5 năm 2008, Microsoft thông báo ngưng Live Search Books và Live Search Academic và tích hợp tất cả kết quả tìm kiếm học thuật và sách vào bộ tìm kiếm bình thường, do đó nó cũng đóng luôn Live Search Books Publisher Program. Không lâu sau đó, Windows Live Expo được ngưng vào ngày 31 tháng 7 năm 2008. Live Search Macros, một dịch vụ cho phép người dùng tạo bộ máy tìm kiếm điều chỉnh của họ hoặc sử dụng các macro khác do người khác tạo ra, cũng bị ngưng ngay sao đó. Vào ngày 15 tháng 5 năm 2009, Live Product Upload, một dịch vụ cho phép các thương gia tải thông tin sản phẩm của họ lên Live Search Products, bị dừng. Sự tái cấu trúc cuối cùng xảy ra với Live Search QnA khi dịch vụ này chuyển tên thành MSN QnA vào ngày 18 tháng 2 năm 2009, tuy nhiên nó cũng bị dừng vào ngày 21 tháng 5 năm 2009.
+Microsoft nhận ra rằng sẽ vẫn tồn tại vấn đề về nhãn hiệu khi nào từ "Live" vẫn còn nằm trong tên dịch vụ. Với nỗ lực tạo ra một định danh mới cho các dịch vụ tìm kiếm của Microsoft, Live Search được chính thức thay thế bằng Bing vào ngày 3 tháng 6 năm 2009.
+
+
+== Tính năng của Bing ==
+
+
+=== Tính năng giao diện ===
+Hình nền về các nơi trên thế giới thay đổi hàng ngày có các thông tin mà bạn có thể xem bằng cách rê chuột lên hình ảnh.
+Phân đề mục nội dung của kết quả (tách các phần riêng cho hình nền, bản đồ, thời tiết, trang hâm mộ, v.v.)
+Khung duyệt trang bên trái. Bao gồm điều hướng và, trên các trang kết quả, sẽ liên quan đến các tìm kiếm và tìm kiếm trước
+Xem thử mở rộng ở bên phải với danh sách các url tương ứng hoặc quan trọng trong một bài
+Liên kết con. Trên một số kết quả nhất định, trang kết quả tìm kiếm cũng hiển thị các liên kết đề mục bên trong một trang (Wikipedia)
+Mở rộng xem đối với thông tin từ bên thứ ba có thể xem được từ Bing. Cách này hoạt động được với trang Wikipedia
+
+
+=== Tính năng phương tiện ===
+Xem thử thu nhỏ video, khi rê chuột lên biểu tượng thu nhỏ video, đoạn video sẽ tự động chơi
+Tìm kiếm hình ảnh từ trang kết quả hình ảnh liên tục cuộn có các thiết lập thay đổi được như kích thước, trình bày, màu sắc, kiểu và người.
+Tìm kiếm video với thiết lập thay đổi được độ dài, kích thước màn hình, độ phân giải và nguồn
+
+
+=== Thông tin tìm kiếm cải tiến ===
+Tỷ số thể thao và thống kê về Đội bóng và Cầu thủ
+Liệt kê khác sạn trong thành phố
+Liệt kê các hãng kinh doanh
+Liệt kê về người
+Bộ sưu tập
+Trích dẫn tài chính
+Thông tin xe cộ
+Thông tin giao thông hiện tại
+Tìm kiếm địa phương hóa cho nhà hàng và dịch vụ
+Các bình luận về nhà hàng
+Xếp hạng người nổi tiếng (xRank)
+Tin tức về người nổi tiếng
+Các bộ phim đang chiếu trong khu vực
+Phép tính (2 * pi * 24) 
+Câu trả lời thức thời (What is the capitol of Germany ?)
+So trùng đúng nhất (cùng với các trang tương tự)
+Thông tin giá vé máy bay và tình trạng chuyến bay
+Mua hàng và Bing Cashback
+Thông tin sức khỏe
+Dò tình trạng gói hàng
+
+
+== Các sản phẩm tìm kiếm ==
+Ngoài các công cụ để tìm kiếm trang web, Bing còn cung cấp các tìm kiếm sau:
+
+
+=== Dịch vụ Webmaster ===
+Bing cho phép chủ trang web quản lý tình trạng web crawler của website của chính họ thông qua Bing Webmaster Center. Ngoài ra, người dùng cũng có thể đưa nội dung vào Bing thông qua các cách sau:
+Bing Local Listing Center cho phép doanh nghiệp thêm danh sách doanh nghiệp vào Bing Maps và Bing Local
+Soapbox on MSN Video cho phép người dùng tải video để tìm qua Bing Videos
+
+
+=== Dịch vụ cho di động ===
+Bing Mobile cho phép người dùng thực hiện truy vấn tìm kiếm trên thiết bị di động của họ, hoặc thông qua trình duyệt di động hoặc một ứng dụng di động tải về được. Tại Hoa Kỳ, Microsoft cũng điều hành một số điện thoại miễn phí (1-800-BING-411) để hỗ trợ có tên Bing 411.
+
+
+== Thanh công cụ và Gadget ==
+
+
+=== Toolbars ===
+Cả Windows Live Toolbar và MSN Toolbar sẽ đều do Bing trợ lực và nhằm cung cấp cho người dùng một cách thuận tiện để truy cập các kết quả Bing. Cùng với việc ra mắt Bing, MSN Toolbar 4.0 sẽ được phát hành trong đó đưa vào các tính năng mới liên quan đến Bing như thông báo Bing cashback.
+
+
+=== Gadget ===
+Bing Gadget là một gadget Windows Sidebar sử dụng Bing để lấy kết quả tìm kiếm người dùng và hiển thị chúng trực tiếp trên gadget. Một gadget khác, Bing Maps Gadget hiển thị tình trạng giao thông theo thời gian thực dùng Bing Maps. Gadget cung cấp đường tắt đến hướng di chuyển, tìm kiếm cục bộ và xem giao thông toàn màn hình. Tuy nhiên, chỉ có dữ liệu giao thông của 23 thành phố của Mỹ là được hỗ trợ, gồm Atlanta, Boston, Chicago, Denver, Detroit, Houston, Los Angeles, Milwaukee, New York, Oklahoma City, Philadelphia, Phoenix, Pittsburgh, Portland, Providence, Sacramento, Salt Lake City, San Diego, San Francisco, Seattle, St. Louis, Tampa, và Washington DC.
+Vào ngày 30 tháng 10 năm 2007, cả hai gadget đều bị bỏ ra khỏi Windows Live Gallery do có lo ngại về vấn đề bảo mật. Gadget Bing Maps được đưa ra để tải về vào ngày 24 tháng 1 năm 2008 đã giải quyết vấn đề bảo mật này.
+
+
+== Quảng bá ==
+
+
+=== Live Search ===
+Since 2006, Microsoft had conducted a number of tie-ins and promotions for promoting Microsoft's search offerings. These include:
+Dịch vụ tìm kiếm A9 của Amazon và trang tìm kiếm giao tiếp thử nghiệm Ms. Dewey lấy tất cả kết quả từ bộ máy tìm kiếm của Microsoft vào lúc đó, Live Search. Sự phối hợp này bắt đầu vào ngày 1 tháng 5 năm 2006.
+Search and Give - một website quảng bá ra mắt vào ngày 17 tháng 1 năm 2007 trong đó mọi tìm kiếm thực hiện từ một cổng điện tử đặc biệt sẽ quyên góp cho tổ chức UNHCR dành cho trẻ em tỵ nạn, ninemillion.org. Reuters AlertNet báo cáo vào năm 1007 rằng số tiền quyên góp là 0,01 đô mỗi lần tìm kiếm, với tối thiểu là 100.000 đô la và tối đa là 250.000 đô la (tương đương 25 triệu tìm kiếm). Theo website dịch vụ này bị ngưng vào ngày 1 tháng 6 năm 2009, đã quyên được hơn 500.000 đô la cho các quỹ và trường học.
+Live Search Club - một website quảng bá nơi người dùng có thể giành giải bằng cách chơi trò chơi xếp chữ tạo ra truy vấn tìm kiếm trên dịch vụ tìm kiếm khi đó Live Search. Website này bắt đầu vào tháng 4 năm 2007 và đã được đổi tên thành Club Bing
+Big Snap Search - một website quảng bá tương tự như Live Search Club. Website này bắt đầu vào tháng 2 năm 2008, nhưng bị dừng sau một thời gian ngắn.
+Live Search SearchPerks! - một website quảng bá cho phép người dùng chuộc lại vé để giành giải trong khi sử dụng bộ máy tìm kiếm của Microsoft. Website này bắt đầu vào ngày 1 tháng 10 năm 2008 và ngưng vào 15 tháng 4 năm 2009.
+
+
+=== Bing ===
+Việc quảng bá Bing sẽ tiêu tốn 80 triệu đến 100 triệu đô la để quảng bá trực tuyến, TV, ấn phẩm, và quảng cáo trên radio tại Hoa Kỳ. Người ta báo cáo rằng các mẩu quảng cáo sẽ không sử dụng các bộ máy trình duyệt đối thủ như Google hay Yahoo! một cách trực tiếp theo tên, mà thay vào đó sẽ cố gắng thuyết phục người dùng chuyển sang Bing bằng cách tập trung vào các tính năng tìm kiếm độc đáo của Bing.
+
+
+== Nguồn gốc tên gọi ==
+Từ "bing" là một từ tượng thanh, một từ mô phỏng âm thanh. Thông qua nghiên cứu Microsoft đã quyết định rằng cái tên Bing sẽ dễ nhớ, ngắn, dễ phát âm, và nó sẽ dùng làm URL tốt trên khắp thế giới. Từ này làm mọi người nhớ tới âm thanh tạo ra trong "khoảnh khắc khám phá và ra quyết định".
+Qi Lu, chủ tịch Dịch vụ Trực tuyến Microsoft, cũng thông báo rằng tên tiếng Trung chính thức của Bing là bì yìng (giản thể: 必应; phồn thể: 必應, tất ứng), có nghĩa là "chắc chắn hồi đáp".
+Trong khi được thử nghiệm nội bộ trong nhân viên Microsoft, tên mã của Bing là Kumo, đến từ từ tiếng Nhật có nghĩa là nhện hoặc mây, ý nhắn đến cách bộ máy tìm kiếm "đóng mạng nhện" các tài nguyên Internet để đưa chúng vào cơ sở dữ liệu, hoặc là điện toán đám mây.
+Bing cũng có thể được diễn dịch như một tên viết tắt đệ quy cho Bing Is Not Google (Bing không phải là Google).
+
+
+== Chỉ trích ==
+
+
+=== Nội dung video người lớn ===
+Công cụ tìm kiếm video của Bing có chế độ xem thử các video khiêu dâm. Chỉ cần tắt chức năng tìm kiếm an toàn, người dùng có thể tìm kiếm và xem các video khiêu dâm bằng cách rà chuột lên biểu tượng thu nhỏ.
+Vì các video được chơi bên trong Bing thay vì tại site chúng lưu trữ, các video không nhất thiết bị cấm theo bộ lọc quản lý dành cho cho phụ huynh. Các chương trình giám sát được thiết kế để báo cho phụ huynh rằng các trang mà con họ xem dường như chỉ báo là "Bing.com" thay vì trang thực sự lưu trữ video. Tình huống tương tự là các bộ lọc của công ty, nhiều bộ lọc cũng bị lừa vì tính năng này. Người dùng không cần phải rời trang Bing để xem các video đó.
+Microsoft phản hồi trong một bài blog vào ngày 4 tháng 6 với một cách đi vòng. Bằng cách thêm "&adlt=strict" vào cuối câu truy vấn và bất kể thiết lập ra sao cho phiên làm việc đó, nó sẽ trả về kết quả y như thiết lập chế độ tìm kiếm an toàn cao nhất. Câu truy vấn sẽ có dạng: http://www.bing.com/videos/search?q=adulttermgoeshere&adlt=strict (phân biệt hoa thường).
+
+
+== Xem thêm ==
+Windows Live
+Google search
+Yahoo! Search
+Google Custom Search
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Bing
+Bing for Mobile
+Discover Bing
+Decision Engine
+Bing team blog
+Bing vs Google - compare search results
+Bing vs Google vs Yahoo vs Ask - compare all the search engines in tabs
+Search, done fast - Bing results are previewed in separate frames for speedier searches
+Bản mẫu:Bing

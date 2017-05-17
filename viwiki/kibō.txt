@@ -1,0 +1,47 @@
+Kibō (Hy vọng) là tên một phòng thí nghiệm của Nhật Bản và là một thành phần của trạm không gian quốc tế ISS. Tên đầy đủ của phòng thí nghiệm này là Module thí nghiệm Nhật Bản (Japanese Experiment Module JEM).
+
+
+== Các bộ phận ==
+KIBO là một hệ thống phức tạp có thể thực hiện nhiều chức năng khác nhau. Một cách tổng quát, các bộ phận của KIBO gồm có: Module điều áp (Pressurized Module PM), tiện ích bên ngoài (Exposed Facility EF), Module hậu cần thực nghiệm - phần điều áp (Experiment Logistics Module - Pressurized Section ELM-PS), Module hậu cần thực nghiệm - phần bên ngoài (Experiment Logistics Module - Exposed Section ELM-ES) và một hệ thống tay máy điều khiển từ xa (Japanese Experiment Module Remote Manipulator System JEMRMS)
+
+
+=== PM ===
+PM có kích cỡ tương tự như một xe du lịch cỡ lớn, là module điều áp lớn nhất trên ISS. Nó có thể chứa được tối đa 23 giá (rack). PM được ghép vào mạn trái của module Harmony. Nó có một CBM (Common Berthing Mechanism - Cơ cấu ghép nối chung) chủ động ở phía trên làm chỗ để ghép ELM-PS, một cơ cấu ghép nối để nối với EF. Nó cũng có một nút không khí (airlock) để vận chuyển giữa bên trong PM và EF bên ngoài.
+
+
+=== EF ===
+EF cung cấp một cơ sở đa chức năng trong đó các trọng tải thí nghiệm và hệ thống có thể được triển khai và hoạt động trong môi trường chân không của không gian. Các trọng tải được gắn lên EF nhờ vào hệ thống JEMRMS. EF được gắn với PM và có một chỗ để ghép với ELM-ES.
+
+
+=== ELM-PS ===
+Được gắn vào PM. Nó đóng vai trò như là gian tích trữ điều áp cho KIBO. Các dụng cụ bảo trì, mẫu thí nghiệm và các món đồ dự trữ khác đều được chứa bên trong bộ phận này. Nó có thể tích bé hơn so với PM và có thể chứa được 8 giá.
+
+
+=== ELM-EF ===
+Được gắn vào bên ngoài EF, ELM-ES cung cấp không gian tích trữ cho các trọng tải và vật mẫu thí nghiệm của EF. ELM-ES có thể chứa tối đa 3 trọng tải thí nghiệm.
+
+
+=== JEMRMS ===
+Đây là một hệ thống cánh tay robot được thiết kế để hỗ trợ và thực hiện các thao tác thí nghiệm cũng như các công việc bảo trì cho phần tiện ích bên ngoài (EF) của KIBO. Nó bao gồm 2 cánh tay, một cánh tay chính dài 10 m dùng để mang các đồ vật lớn và một cánh tay nhỏ dài 2 m dùng cho các đồ vật nhỏ và cần thao tác chính xác hơn. Cả 2 cánh tay đều có 6 khớp nối độc lập tạo ra sự vận động rất uyển chuyển, giống như cánh tay người. Cả hai cánh tay này đều có trang bị camera giúp các phi hành gia dễ dàng hơn khi điều khiển cánh tay từ bên trong trạm. Trạm điều khiển của hệ thống này gọi là bảng điều khiển JEMRMS là một giá riêng bên trong PM của KIBO. Các cánh tay robot này giúp các phi hành gia vận chuyển các đồ vật bên ngoài giữa EF và ELM-ES.
+
+
+== Lắp ghép vào trạm ISS ==
+
+Do khối lượng và kích thước quá lớn, toàn bộ phòng thí nghiệm KIBO không thể được phóng lên trong một sứ mệnh tàu con thoi mà phải qua ba sứ mệnh con thoi khác nhau. Phần đầu tiên của phòng thí nghiệm được đưa lên quỹ đạo là ELM-PS trong sứ mệnh xây dựng trạm 1J/A hay STS-123 của tàu Endeavour vào tháng 3 năm 2008. Nó được ghép vào một vị trí tạm thời ở phía trên module Harmony. Module điều áp chính PM và hệ thống cánh tay robot JEMRMS được mang lên trạm vào tháng 6 năm 2008 trong sứ mệnh 1J STS-124 của tàu con thoi Discovery. Trong sứ mệnh này, PM được ghép vào phía bên trái của Harmony với JEMRMS được gắn vào phía bên ngoài của PM. Cũng trong sứ mệnh này ELM-PS được chuyển từ vị trí tạm thời ở phía trên Harmony tới vị trí chính thức ở phía trên PM. Các bộ phận còn lại của phòng thí nghiệm là EF và ELM-ES sẽ được đưa lên trạm trong sứ mệnh xây dựng trạm 2J/A STS-127 của tàu con thoi Endeavour dự kiến sẽ diễn ra vào tháng 6 năm 2009.
+
+
+== Trung tâm điều khiển sứ mệnh KIBO ==
+
+Hoạt động của KIBO được giám sát và điều khiển từ trung tâm xúc tiến và tích hợp trạm không gian (Space Station Integration and Promotion Center) thuộc trung tâm không gian Tsukuba của JAXA tại Tsukuba, Nhật Bản và trung tâm điều khiển sứ mệnh thuộc trung tâm không gian Johnson của NASA ở Houston, Hoa Kỳ. Một đội điều khiển bay của JAXA gồm các nhân viên chỉ huy chuyến bay và 50 nhân viên điều khiển bay sẽ đảm trách 10 lĩnh vực kỹ thuật khác nhau giúp KIBO hoạt động ổn định.
+
+
+== Xem thêm ==
+ISS
+JAXA
+
+
+== Tham khảo ==
+
+ Phương tiện liên quan tới Japanese Experiment Module tại Wikimedia Commons
+STS-123 Presskit
+STS-124 Presskit

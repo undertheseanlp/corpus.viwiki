@@ -1,0 +1,63 @@
+Kana (仮名 (giả danh)/ かな, Kana) là hệ thống văn tự ký hiệu âm tiết trong tiếng Nhật, một phần của hệ thống chữ viết tiếng Nhật, đối lập với hệ thống chữ Hán tượng hình ở Nhật Bản là kanji (漢字). Có ba loại chữ kana: chữ thảo hiện đại hiragana (ひらがな), trước đây được gọi là một loại chữ viết cho phụ nữ; chữ góc cạnh hiện đại katakana (カタカナ); và cách ký âm cũ của kanji được gọi là man’yōgana (万葉仮名) vốn là tổ tiên của cả hai loại trên. Hentaigana (変体仮名, "kana biến thể") là biến thể lịch sử của hiragana tiêu chuẩn hiện đại. Trong tiếng Nhật hiện đại, hiragana và katakana có bộ ký tự tương ứng trực tiếp (các bộ ký tự khác nhau biểu diễn cùng một âm thanh).
+Katakana với một vài bổ sung cũng được sử dụng để viết tiếng Ainu. Chữ viết kana Đài Loan được sử dụng trong tiếng Phúc Kiến Đài Loan như một kiểu chú thích (furigana) cho các chữ Hán trong thời kỳ Đài Loan chịu sự đô hộ của Nhật Bản.
+Mỗi kí tự kana (en:syllabogram) tương ứng với một âm thanh trong tiếng Nhật. Các kí tự này luôn tuân theo thứ tự phụ âm (từ đây viết tắt là C (consonant) - âm tiết đầu) với nguyên âm (từ đây viết tắt là V (vowel) - âm tiết trung tâm), như ka, ki, etc., hay nguyên âm, như a, i, etc., với ngoại lệ duy nhất của tự vị phụ âm cho âm tiết đuôi giọng mũi thường được Latin hoá như âm n. Cấu trúc này được một số học giả đưa vào hệ thống mora thay vì syllabic, bởi vì nó đòi hỏi sự kết hợp của hai âm để biểu diễn một âm tiết CVC với đuôi (tức là CVn, CVm, CVng), một âm tiết CVV với hạt nhân phức tạp (tức là các nguyên âm dài phức tạp hoặc biểu cảm), hoặc một một âm tiết CCV với âm đầu phức tạp (tức là bao gồm một âm lướt, CyV, CwV).
+Do số lượng âm đơn ở Nhật rất hạn chế, cũng như cấu trúc âm tiết tương đối cứng nhắc, hệ thống kana là một đại diện rất chính xác cho ngôn ngữ nói tiếng Nhật.
+
+
+== Bảng chữ tiếng Nhật ==
+Bảng chữ Hiragana và Katakana hiện đại đều không có chữ kana đại diện cho âm ye, yi hay wu. Tuy nhiên, người ta tin rằng âm ye đã từng tồn tại trước tiếng Nhật Kinh điển (trước khi bảng tự kana ra đời), và thường được biểu diễn (với mục đích kiến thiết) bằng chữ kanji 江. Trong thời kỳ sau này, chữ we (viết bằng katakana ヱ và hiragana ゑ) được công nhận có âm là [jɛ], như được mô tả trong các tài liệu châu Âu trước thời kỳ 1600, nhưng sau này được nhập chung với nguyên âm e và biến mất khỏi bảng chữ cái vào năm 1946. "Ye" trong bảng chữ hiện đại thường được biểu diễn là いぇ or イェ.
+Dù không còn là một bộ phận của bảng chữ cái chuẩn, nhưng cả wi và we vẫn đôi khi được dùng như một cách tu từ, như trong ウヰスキー có nghĩa là "whiskey," và ヱビス với nghĩa là Yebisu, một nhãn hiệu bia.
+
+
+== Một số cách dùng ==
+
+
+=== Ghép âm ===
+Với i い:
+I ghép âm được với cột a, u, và o.
+Ví dụ:
+はい (hai - tức là "vâng"),
+ちいさい 小さい (chiisai - tức là "nhỏ")
+
+Với n ん:
+N ghép âm được với tất cả các chữ cái trong bảng trừ を.
+Ví dụ:
+さんご 珊瑚 (sango - tức là "san hô")
+ラン (ran - tức là "hoa lan")
+
+
+=== Trường âm ===
+Trường âm là khi ta đọc phải kéo dài âm đó ra.
+Trường âm của Hiragana là a, i, u, e, o (あ,い,う,え,お) làm trường âm cho các cột của nó (ngoại trừ を và ん).
+Lưu ý là âm i (い) còn làm trường âm cho cột e và âm u (う) còn làm trường âm cho cột o.
+(thường thì những người chưa học tiếng Nhật hay đọc nhầm âm ei (えい) thành "ây" và âm ou (おう) thành "âu", chủ yếu do họ đọc theo romaji hơn là đọc theo hiragana).
+Ví dụ: こおり／氷 ("koori"- băng);
+せんせい／先生 ("sensei" - tiên sinh; thầy cô giáo, đọc là "xên-xê-ê" chứ không phải "xên-xây").
+Trường âm của Katakana chỉ là dấu gạch ngang ―.
+Ví dụ:キ― ("kii" - key(phím, khóa))
+
+
+=== Xúc âm (âm ngắt) ===
+Xúc âm được biểu thị bằng chữ "tsu" nhỏ (っ). Khi đọc ta phải gấp đôi phụ âm đứng sau nó và không được đọc lên chữ tsu.
+Ví dụ:きって 切手(kitte - "tem")
+
+
+=== Ảo âm ===
+Ảo âm được biểu thị bằng ya, yu, yo nhỏ "ゃゅょ".
+Ví dụ:
+ひゃく 百(hyaku - "một trăm")
+ききょう 桔梗 (kikyou - "hoa cát cánh")
+でんしゃ電車 (densha - "tàu điện")
+Ngoài ra còn có các âm không thông dụng khác:
+fa (ファ), fi (フィ), fe (フェ), fo (フォ)
+tsa (ツァ), kwa (クァ), ti (ティ), tu (トゥ)
+di (ディ), du (ドゥ)
+va (ヴァ), vi (ヴィ), ve (ヴェ), vo (ヴォ)
+Ví dụ:
+ファン (fan "người hâm mộ")
+フィリピン (firipin "nước Phillippin")...
+Các liên kết:
+Kana Trích từ sách (PDF)
+
+
+== Tham khảo ==

@@ -1,0 +1,42 @@
+Phần mềm tự do nguồn mở (tiếng Anh: Free and open-source software (Viết tắt là F/OSS, FOSS) hoặc free/libre/open-source software (viết tắt là FLOSS)) là phần mềm thỏa mãn cả 2 yếu tố: tự do và nguồn mở.
+Ở Việt Nam, Phần mềm tự do nguồn mở là thuật ngữ được khuyến khích sử dụng gần đây, thay thế cho hai thuật ngữ là phần mềm tự do và phần mềm nguồn mở, đặc biệt là thuật ngữ mã nguồn mở bởi vì sự bó hẹp của nó.
+Phần mềm tự do nguồn mở cung cấp cho người sử dụng 4 quyền: quyền sử dụng (use), sao chép (copy), nghiên cứu (study), sửa đổi (change). Điều này đang được ngày càng nhiều người dùng cá nhân cũng như các doanh nghiệp thừa nhận.
+Trong bối cảnh từ "free" trong tiếng Anh bị lẫn lộn giữa "miễn phí" và "tự do", tổ chức Free Software Foundation (Viết tắt là SFS) - một tổ chức ủng hộ sáng kiến phần mềm nguồn mở - lưu ý rằng free hiểu theo nghĩa "tự do" (theo kiểu "độc lập - tự do - hạnh phúc") chứ không phải "miễn phí" (theo kiểu "miễn phí không mất tiền"), bởi "tự do" giá trị hơn "miễn phí".
+FOSS là một thuật ngữ bao gồm bao gồm cả phần mềm tự do và phần mềm nguồn mở, mặc dù mô tả mô hình phát triển tương tự, nhưng khác nhau về văn hóa và triết lý sử dụng làm nền tảng. Phần mềm tự do tập trung vào triết lý về các quyền tự do mà nó mang lại cho người sử dụng, trong khi đó phần mềm nguồn mở tập trung vào các cảm nhận thế mạnh của mô hình phát triển ngang hàng của nó . FOSS là một thuật ngữ có thể được sử dụng mà không thiên vị đặc biệt đối với một trong hai cách tiếp cận chính.
+
+
+== Lịch sử ==
+
+
+=== Tên gọi ===
+
+
+==== Phần mềm tự do (Free software) ====
+
+
+==== Phần mềm nguồn mở (Open Source) ====
+"Open Source" được hiểu là "nguồn mở" (Có nhiều dạng "nguồn mở", trong trường hợp này là Phần mềm), tuy nhiên ở Việt Nam đôi khi nó bị hiểu sai thành "mã nguồn mở" (nghĩa hẹp hơn rất nhiều).
+
+
+==== Phần mềm tự do nguồn mở (FOSS) ====
+
+
+==== FLOSS ====
+
+
+== Tính hai mặt của FOSS ==
+
+
+=== Vấn đề bản quyền ===
+
+
+== Được các chính phủ thông qua ==
+
+
+== Chú thích ==
+
+
+== Nguồn tham khảo ==
+
+
+== Liên kết ngoài ==

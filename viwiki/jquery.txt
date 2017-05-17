@@ -1,0 +1,17 @@
+JQuery thư viện JavaScript đa trình duyệt được thiết kế để đơn giản hóa lập trình phía máy người dùng của HTML , phát hành vào tháng 1 năm 2006 tại BarCamp NYC bởi John Resig. Được sử dụng bởi hơn 52% trong 10.000 truy cập nhiều nhất các trang web, jQuery là thư viện JavaScript phổ biến nhất được sử dụng ngày nay 
+jQuery miễn phí, mã nguồn mở phần mềm, kép cấp phép theo MIT Giấy phép GNU General Public License, phiên bản 2  jQuery của được để làm cho nó dễ dàng hơn để di chuyển một tài liệu, chọn DOM các yếu tố, tạo ra hoạt hình s, xử lý Sự kiện, và phát triển Ajax ứng dụng. jQuery cũng cung cấp khả năng cho các nhà phát triển để tạo ra plug-in s trên đầu trang của thư viện JavaScript. Điều này cho phép các nhà phát triển để tạo ra trừu tượng hóa ở mức độ thấp tương tác và hình ảnh động, hiệu ứng tiên tiến và vật dụng cao cấp, chủ đề có thể. Cách tiếp cận mô-đun để thư viện jQuery cho phép tạo ra các công cụ mạnh mẽ và năng động web và các ứng dụng web.
+Microsoft và Nokia đã công bố kế hoạch bó jQuery trên nền tảng của họ, Microsoft đang áp dụng ban đầu trong vòng Visual Studio  cho sử dụng trong Microsoft của ASP.NET AJAX khuôn khổ và ASP.NET MVC Framework trong khi Nokia đã tích hợp nó vào nền tảng Web Run-Time phát triển widget của họ  jQuery có cũng được sử dụng trong MediaWiki http://www.mediawiki.org/wiki/JQuery 
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+
+
+== Liên kết ngoài ==
+Website chính thức
+Quick API Reference
+jQuery UI
+Dmitri Gaskin (speaker) (ngày 3 tháng 4 năm 2008). jQuery (YouTube). Google Tech Talks. Truy cập ngày 4 tháng 5 năm 2009. 
+Bản mẫu:ECMAScript Bản mẫu:Application frameworks Bản mẫu:Widget toolkits

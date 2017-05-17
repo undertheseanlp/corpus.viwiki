@@ -1,0 +1,112 @@
+Trong thiết kế, tương tác giữa con người- máy tính và sự phát triển phần mềm. Thiết kế tương tác thường được viết tắt là IxD, được định nghĩa là sự ứng dụng của thiết kế tương tác giữa các sản phẩm kỹ thuật số, môi trường, hệ thống, các dịch vụ." Giống như nhiều lĩnh vực thiết kế khác, thiết kế tương tác cũng có sự quan tâm đến hình thức nhưng trọng tâm chính vẫn là chú trọng vào phản ứng của người dùng. Điều mà thể hiện một cách rõ ràng, thiết kế tương tác khác với lĩnh vực khoa học, kỹ thuật là thiết kế tương tác là sự tổng hợp và mang tính giả thuyết hơn là chú trọng vào bản chất thực tế của sự vật.
+Thiết kế tương tác tập trung chủ yếu vào thỏa mãn nhu cầu và mong muốn của phần lớn những đối tượng sẽ dùng sản phẩm, nghiên cứu phần mềm cụ thể thì tập trung chủ yếu vào một nhóm đối tượng cụ thể.
+
+
+== Lịch sử ==
+Thuật ngữ thiết kế tương tác được đặt ra đầu tiên bởi Bill Moggridge và Bill Verplank vào giữa những năm 1980, sau đấy khoảng 10 thì các nhà thiết kế khác mới bắt đầu sử dụng nó. Đối với Verplank nó là một sự thích ứng của thuật ngữ "khoa học máy tính" đối với những lĩnh vực thiết kế chuyên nghiệp. Đối với Moggridge nó là một sự vượt trội so với soft-face cái mà Moggridge chỉ ra vào năm 1984 đề cập đến sự ứng dụng của thiết kế công nghiệp đối với những sản phẩm phần mềm lưu trữ.
+Trương trình học thuật đầu tiên chính thức được đặt tên là" thiết kế tương tác" được tổ chức tại trường đại học Carnegie Mellon University vào năm 1994 với tên gọi là thạc sĩ chuyên ngành thiết kế tương tác. Khi chương trình này bắt đầu nó chủ yếu tập trung vào thiết kế giao diện màn hình nhưng ngày nay nó tập trung nhiều vào những khía cạnh lớn hơn của sự tương tác – con người, các tổ chức văn hóa, dịch vụ và hệ thống.
+Năm 1990 Gillian Crampton Smith thành lập Computer-related Design MA tại Royal College of Art (RCA), London và được đổi tên thành Thiết kế Tương tác. vào năm 2005, Được đứng đầu bởi giáo sư Anthony Dunne. Vào năm 2001, Crampton Smith đã giúp thành lập học viện Thiết Kế Tương Tác Ivrea, một học viện nhỏ ở miền bắc nước Ý chỉ tập trung vào thiết kế tương tác; Học viện này chuyển đến Milan vào năm 2005và các khóa học được sát nhập với Domus Academy. In 2007, Năm 2007 một trong số những người đầu tiên có liên quan đến IDII đã thành lập Copenhagen Institute of Interaction Design (CIID).
+Năm 1998 Swedish Foundation for Strategic Research thành lập " The Interactive Institute" – một học viện nghiên cứu Thụy Điển trong lĩnh vực thiết kế tương tác.
+Ngày nay thiết kế tương tác được dạy ở rất nhiều trường trên toàn thế giới. Nó thường xuyên được thảo luận ở các hội thảo như là Gamification 2013 được tổ chức tại University of Waterloo Stratford Campus, tại đó tác giả Stephen P. Anderson đã thảo luận về sự hấp dẫn thiết kế tương tác, một cách tiếp cận mới đối với thiết kế trang web và sự tương tác dựa trên các giai đoạn của sự hấp dẫn.
+
+
+== Các phương pháp nghiên cứu ==
+
+
+=== Thiết kế định hướng mục tiêu ===
+Thiết kế định hướng mục tiêu quan tâm chủ yếu đến thỏa mãn nhu cầu và mong muốn của những người sẽ tương tác với sản phẩm và dịch vụ.."
+Alan Cooper lập luận trong cuốn sách The Inmates Are Running the Asylum rằng chúng ta cần có một cách tiếp cận mới đối với việc làm sao để giải quyết những vấn đề cơ bản của các phần mềm tương tác. Những vấn đề gặp phải đối với việc thiết kế giao diện máy tính thì về cơ bản khác với những thách thức chúng ta phải đối mặt khi thiết kế giao diện cho sản phẩm những thứ mà không bao gồm phần mềm ví dụ như cái búa, đinh… Alan đã đưa ra khái niệm về sự xung đột về mặt nhận thức, nhờ đó mà chúng ta xử lý sự việc một cách có lý trí khi mà chúng thật sự phức tạp đến nỗi chúng ta không thể lúc nào cũng hiểu cách mà chúng phản ứng. Những giao diện máy tính thì đủ phức tạp để được xử lý theo cách này.
+Nó cũng được lập luận rằng chúng ta phải hoàn toàn thấu hiểu những mục đích của người sử dụng "cả cá nhân và mục đích" để mà giải quyết vấn đề trong khả năng tốt nhất có thể vì vậy cách tiếp cận hiện tại thì hướng tới giải quyết những vấn đề một cách riêng lẻ, từ khía cạnh của một doanh nghiệp hoặc những bên liên quan khác.
+
+
+=== Đặc tính ảo (personas) ===
+Thiết kế định hướng mục tiêu được giải thích trong cuốn sách the Inmates Are Running the Asylum cho việc sử dụng của "đặc tính ảo", cái mà được tạo sau khi phỏng vấn một số lượng người sử dụng nhất định 
+Mục tiêu của một đặc tính ảo là để " phát triển sự miêu tả chính xác về người dùng của chúng ta và những điều mà người dùng mong muốn đạt được". phương pháp tốt nhất như đã được miêu tả the Inmates Are Running the Asylum là tạo ra những người sử dụng với tên và những thông tin đi kèm, người mà đại diện cho người sử dụng thật của một sản phẩm nhất định. Những người sử dụng này thì không phải là ảo mà nó được xem xét như là sản phẩm của một quá trình điều tra. Lý do cho việc tạo dựng những thông tin đi kèm cho một đặc tính ảo là để làm cho chúng đang tin hơn. Vậy chúng có thể được coi như một con người thực sự và có quyền đòi hỏi nhu cầu. đặc tính ảo cũng giúp cho việc loại trừ những thuộc tính mà có thể gán cho một cá nhân cụ thể.
+
+
+=== Định dạng nhận thức ===
+Mô hình định dạng nhận thức cung cấp một nhóm từ chuyên dụng để đánh giá và thay đổi những giải pháp thiết kế cụ thể. Định dạng nhận thức được thiết kế như là một cách tiếp cận dễ dàng với việc phân tích chất lượng của thiết kế hơn là hiểu chi tiết cụ thể. Chúng cung cấp một vốn từ chung cho việc thảo luận rất nhiều yếu tố trong phần chú thích, UI hoặc là thiết kế ngôn ngữ lập trình. 
+Những định dạng cung cấp các miêu tả ở cấp độ cao của giao diện và người sử dụng tương tác với nó như thế nào. Ví dụ như tính thống nhất, sự điều hành phần cứng, tính linh động hoặc là những sự cam kết sớm. những khái niệm này hỗ trợ cho việc tạo ra những thiết kế mới từ thiết kế có sẵn thông qua các thao tác thiết kế như là việc chỉnh sửa các vị trí của thiết kế trong một định dạng cụ thể
+
+
+=== Thiết kế tương tác cảm xúc ===
+Thông qua quá trình thiết kế tương tác, những nhà thiết kế phải nhận thức được những khía cạnh chính trong những thiết kế của họ cái mà ảnh hưởng đến phản ứng cảm xúc của những khách hàng mục tiêu. Nhu cầu cho những sản phẩm để truyền tải những cảm xúc tích cực và tránh những cảm xúc tiêu cực là yếu tố quan trọng trong việc thành công của sản phẩm. những khía cạnh này bao gồm tích cực, tiêu cực, động viên, học hỏi, sáng tạo, xã hội và những tác động mang tính chất thuyết phục và một vài thứ khác. Một phương pháp có thể giúp truyền tải những khía cạnh này là sử dụng những giao diện. Trong phần mềm, ví dụ việc sử dụng của những biểu tưởng và hình ảnh động và âm thanh có thể giúp giao tiếp. một giai đoạn của quá trình điều hành, tạo một cảm giác của sự giao tiếp và phản hồi. những khía cạnh về mặt giao diện như là phông, màu chữ, đồ họa có thể tác động đến sự truyền tải của giao diện. các nghiên cứu đã chỉ ra rằng những khía cạnh cảm xúc có thế tác động đến nhận thức của người dùng về sự tiện dụng.
+Lý thuyết về cảm xúc và thỏa mãn tồn tại để giải thích cho những phản ứng của con người đối với việc sử dụng của những sản phẩm mang tính tương tác. Chúng bao gồm mô hình thiết kế cảm xúc của Don Norman, mô hình niềm vui của Patrick Jordan và công nghệ.
+
+
+== 5 định dạng của thiết kế tương tác ==
+Các mô hình của thiết kế tương tác lần đầu tiên dc giới thiệu trong cuốn sách Designing interactions.Gillian Crampton Smith đã tuyến bô rằng có 4 mô hình đối vơi 1 ngôn ngữ thiết kế tương tác A fifth dimension was added by Kevin Silver. Mô hình thứ 5 đã được thêm bới Kevin silver.
+
+
+=== 1 Ngôn từ ===
+Mô hình này nhận định những sự tương tác. Ngôn từ là sự tương tác mà ng sử dụng dùng trong quá trình tương tác.
+
+
+=== 2 Những sự đại diện ảo ===
+Những sự đại diện ảo là những cái mà ng dùng tương tác trên bề mặt giao diện. nó có thể bảo gồm mà ko giới hạn vơi biểu đồ, biểu tượng, đồ họa, bản in.
+
+
+=== 3 Đối tượng vật lý hay không gian ===
+Không gian với người sử dụng tương ứngng là một định dạng thứ ba của thiết kế tương tác. Nó chỉ rõ không gian hoặc mục đích " vớiđối tượng nào hoặc trong không gian nàongười sử dụng tương tác"
+
+
+=== Thời gian ===
+Một số ví dụ của việc này là "nội dung thay đổi theo thời gian như âm thanh, video, hoặc hình ảnh động"
+
+
+=== 5 Hành vi ===
+Hành vi chỉ ra hành vi của người sử dụng trong tương tác với giao diện và họ phản ứng với nó như thế nào
+
+
+== Hiệp hội thiết kế tương tác ==
+Hiệp hội thiết kế tương tác(The Interaction Design Association) (IxDA) đã được thành lập vào năm 2003 để phục vụ cộng đồng Thiết kế Tương tác toàn cầu. Các tổ chức hiện có 50.000 thành viên và 140 nhóm địa phương trên khắp thế giới. Nó tạo ra tương tác, các hội nghị tương tác thiết kế hàng năm, và giải thưởng tương tác.
+
+
+== Xem thêm ==
+Interaction Design Foundation
+Chief Experience Officer (CXO)
+Data presentation architecture
+Information architecture
+Hardware Interface design
+Human interface guidelines (user friendly computer application designs)
+Instructional design
+Interaction design pattern
+Interactive systems engineering
+Interactivity
+Interface design
+Kinetic user interface
+Mobile interaction
+Service design
+Sonic interaction design
+Transgenerational design
+Usability
+User experience design
+User-centered design
+Web literacy (Creating interactive experiences on the web)
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Lal, Raj (2013). Digital Design Essentials: 100 Ways to Design Better Desktop, Web, and Mobile Interfaces. Rockport Publishers. ISBN 1-592-53803-7. 
+Bolter, Jay D.; Gromala, Diane (2008). Windows and Mirrors: Interaction Design, Digital Art, and the Myth of Transparency. Cambridge, Massachusetts: MIT Press. ISBN 0-262-02545-0. 
+Buchenau, Marion; Suri, Jane Fulton. Experience Prototyping. DIS 2000. ISBN 1-58113-219-0. 
+Buxton, Bill (2005). Sketching the User Experience. New Riders Press. ISBN 0-321-34475-8. 
+Dawes, Brendan (2007). Analog In, Digital Out. Berkeley, California: New Riders Press. 
+Goodwin, Kim (2009). Designing for the Digital Age: How to Create Human-Centered Products and Services. ISBN 978-0-470-22910-1. 
+Houde, Stephanie; Hill, Charles (1997). “What Do Prototypes Prototype?”. Trong Helander, M; Landauer, T; Prabhu, P. Handbook of Human–Computer Interaction (ấn bản 2). Elsevier Science. 
+Jones, Matt & Gary Marsden: Mobile Interaction Design, John Wiley & Sons, 2006, ISBN 0-470-09089-8.
+Kolko, Jon (2009). Thoughts on Interaction Design. ISBN 978-0-12-378624-1. 
+Laurel, Brenda; Lunenfeld, Peter (2003). Design Research: Methods and Perspectives. MIT Press. ISBN 0-262-12263-4. 
+Tinauli, Musstanser; Pillan, Margherita (2008). “Interaction Design and Experiential Factors: A Novel Case Study on Digital Pen and Paper”. Mobility '08: Proceedings of the International Conference on Mobile Technology, Applications, and Systems. New York: ACM. doi:10.1145/1506270.1506400. ISBN 978-1-60558-089-0. 
+Norman, Donald (1988). The Design of Everyday Things. New York: Basic Books. ISBN 978-0-465-06710-7. 
+Raskin, Jef (2000). The Humane Interface. ACM Press. ISBN 0-201-37937-6. 
+Saffer, Dan (2006). Designing for Interaction. New Riders Press. ISBN 0-321-43206-1. 
+
+
+== Liên kết ngoài ==
+Interaction-Design.org – A peer-reviewed encyclopedia, a comprehensive bibliography, and a calendar of interaction design events
+Design Patterns in Interaction Design
+Designing Interactions: Interviews – conversations with key figures in interaction design
+Introducing Interaction Design – Boxes and Arrows

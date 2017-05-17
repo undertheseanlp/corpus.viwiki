@@ -1,0 +1,75 @@
+USB (Universal Serial Bus) là một chuẩn kết nối tuần tự đa dụng trong máy tính. USB sử dụng để kết nối các thiết bị ngoại vi với máy tính, chúng thường được thiết kế dưới dạng các đầu cắm cho các thiết bị tuân theo chuẩn cắm-và-chạy mà với tính năng cắm nóng thiết bị (nối và ngắt các thiết bị không cần phải khởi động lại hệ thống).
+
+
+== Những đặc trưng của USB ==
+USB có những đặc trưng sau đây:
+Cho phép mở rộng 127 thiết bị kết nối cùng vào một máy tính thông qua một cổng USB duy nhất (bao gồm các hub USB);
+Những sợi cáp USB riêng lẻ có thể dài tới 5 mét; với những hub, có thể kéo dài tới 30 mét (6 sợi cáp nối tiếp nhau thông qua các hub) tính từ đầu cắm trên máy tính.
+Với USB 2.0 chuẩn tốc độ cao, đường truyền đạt tốc độ tối đa đến 480 Mbps.
+Cáp USB gồm hai sợi nguồn (+5V và dây chung GND) cùng một cặp gồm hai sợi dây xoắn để mang dữ liệu.
+Trên sợi nguồn, máy tính có thể cấp nguồn lên tới 500mA ở điện áp 5V một chiều (DC).
+Những thiết bị tiêu thụ công suất thấp (ví dụ: chuột, bàn phím, loa máy tính công suất thấp...) được cung cấp điện năng cho hoạt động trực tiếp từ các cổng USB mà không cần có sự cung cấp nguồn riêng (thậm chí các thiết bị giải trí số như SmartPhone, PocketPC ngày nay sử dụng các cổng USB để sạc pin). Với các thiết bị cần sử dụng nguồn công suất lớn (như máy in, máy quét...) không sử dụng nguồn điện từ đường truyền USB như nguồn chính của chúng, lúc này đường truyền nguồn chỉ có tác dụng như một sự so sánh mức điện thế của tín hiệu. Hub có thể có nguồn cấp điện riêng để cấp điện thêm cho các thiết bị sử dụng giao tiếp USB cắm vào nó bởi mỗi cổng USB chỉ cung cấp một công suất nhất định.
+Những thiết bị USB có đặc tính cắm nóng, điều này có nghĩa các thiết bị có thể được kết nối (cắm vào) hoặc ngắt kết nối (rút ra) trong mọi thời điểm mà người sử dụng cần mà không cần phải khởi động lại hệ thống.
+Nhiều thiết bị USB có thể được chuyển về trạng thái tạm ngừng hoạt động khi máy tính chuyển sang chế độ tiết kiệm điện.
+
+
+== Kết nối USB - máy tính ==
+Khi một máy tính được cấp nguồn, nó truy vấn tất cả thiết bị được kết nối vào đường truyền và gán mỗi thiết bị một địa chỉ. Quy trình này được gọi là liệt kê – những thiết bị được liệt kê khi kết nối vào đường truyền. Máy tính cũng tìm ra từ mỗi thiết bị cách truyền dữ liệu nào mà nó cần để hoạt động:
+Ngắt - Một thiết bị như chuột hoặc bàn phím, gửi một lượng nhỏ dữ liệu, sẽ chọn chế độ ngắt.
+Hàng loạt - Một thiết bị như một chiếc máy in, nhận dữ liệu trong một gói lớn, sử dụng chế độ truyền hàng loạt. Một khối dữ liệu được gửi đến máy in (một khối 64 byte) và được kiểm tra để chắc chắn nó chính xác.
+Đẳng thời - Một thiết bị truyền dữ liệu theo chuỗi (lấy ví dụ như loa) sử dụng chế độ đẳng thời - kết nối liên tục. Những dòng dữ liệu giữa thiết bị và máy trong thời gian thực, và không có sự sửa lỗi ở đây.
+Máy tính có thể gửi lệnh hay truy vấn tham số với điều khiển những gói tin.
+Khi những thiết bị được liệt kê, máy tính sẽ giữ sự kiểm tra đối với tổng băng thông mà tất cả những thiết bị đẳng thời và ngắt yêu cầu. Chúng có thể tiêu hao tới 90% của băng thông 480 Mbps cho phép.
+Sau khi 90% được sử dụng, máy tính sẽ từ chối mọi truy cập của những thiết bị đẳng thời và ngắt khác. Điều khiển gói tin và gói tin cho truyền tải hàng loạt sử dụng phần băng thông còn lại (ít nhất 10%).
+USB chia băng thông cho phép thành những khung, và máy tính điều khiển những khung đó. Khung chứa 1.500 byte, và một khung mới bắt đầu mỗi mili giây. Thông qua 1 khung, những thiết bị đẳng thời và ngắt lấy được một vị trí do đó chúng được đảm bảo băng thông mà chúng cần. Truyền tải hàng loạt và điều khiển truyền tải sử dụng phần còn lại.
+
+
+== USB 2.0 ==
+
+USB phiên bản 2.0 được đưa ra vào tháng 4 năm 2000(lúc đó windows 2000) cũng sẽ sớm tương thích với USB 2.0 vì hệ điều hành windows 2000) và xem như bản cải tiến của USB 1.1.
+USB 2.0 (USB với loại tốc độ cao) mở rộng băng thông cho ứng dụng đa truyền thông và truyền với tốc độ nhanh hơn 50 lần so với USB 1.1. Để có sự chuyển tiếp các thiết bị mới, USB 2.0 có đầy đủ khả năng tương thích với những thiết bị USB trước đó và cũng hoạt động tốt với những sợi cáp, đầu cắm dành cho cổng USB trước đó.
+Hỗ trợ ba chế độ tốc độ (1,5 Mbps; 12 Mbps và 480 Mbps), USB 2.0 hỗ trợ những thiết bị chỉ cần băng thông thấp như bàn phím và chuột, cũng như thiết bị cần băng thông lớn như webcam, máy quét, máy in, máy quay và những hệ thống lưu trữ lớn. Sự phát triển của chuẩn USB 2.0 đã cho phép những nhà phát triển phần cứng phát triển các thiết bị giao tiếp nhanh hơn, thay thế các chuẩn giao tiếp song song và tuần tự cổ điển trong công nghệ máy tính. USB 2.0 và các phiên bản kế tiếp của nó trong tương lai sẽ giúp các máy tính có thể đồng thời làm việc với nhiều thiết bị ngoại vi hơn.
+Hiện nay, nhiều máy tính cùng tồn tại song song hai chuẩn USB 2.0 và 3.0, người sử dụng nên xác định rõ các cổng 2.0 để sử dụng hiệu quả. Thông thường hệ điều hành Windows vista có thể cảnh báo nếu một thiết bị USB 1.1 được cắm vào cổng USB 2.0.
+
+
+== USB 3.0 ==
+USB phiên bản 3.0 được đưa ra vào cuối năm 2012 (là windows 8 đã được ra đời). USB 3.0 là phiên bản lấy từ nền tảng USB 2.0 với tốc độ đáng kinh ngạc,nhanh hơn USB 2.0 gấp 10 lần. USB 3.0 rất dễ phân biệt USB 2.0 ở chỗ màu đen và xanh da trời bên trong cổng của nó.
+
+
+== Hub USB ==
+
+Phần lớn những máy tính ta mua ngày nay có hai hoặc nhiều hơn một chút (có thể là 8 đến 10) đầu cắm USB được thiết kế sẵn trên các cổng xuất vào/ra hoặc các đầu cắm trên bo mạch chủ. Tuy nhiên người sử dụng có thể sử dụng các thiết bị ngoại vi hơn số cổng sẵn có qua khả năng mở rộng thiết bị trên các cổng USB thông qua các USB hub.
+Các hub này có thể mở rộng ra rất nhiều cổng và nếu chúng được cung cấp nguồn điện từ bên ngoài (sử dụng các bộ adapter cấp nguồn riêng) sẽ cho phép các thiết bị USB sử dụng năng lượng từ hub mà không bị hạn chế bởi công suất giới hạn trên cổng USB trên máy tính.
+Các USB hub hiện nay rất đa dạng về chủng loại, chuẩn hỗ trợ, số cổng mở rộng, hình dạng và thiết kế tích hợp. Nhiều thiết bị ngoại vi đã tích hợp các hub giúp cho người sử dụng dễ dàng cắm các thiết bị kết nối qua cổng USB, màn hình máy tính, bàn phím máy tính...cũng có thể được tích hợp USB hub.
+Lưu ý: Một số thiết bị ngoại vi sử dụng các cổng USB để cấp nguồn cho chúng (như các ổ đĩa cứng gắn ngoài không có nguồn độc lập) với yêu cầu cắm vào đồng thời hai cổng USB thì điều này có nghĩa rằng chúng cần một công suất lớn hơn so với khả năng cung cấp của một cổng USB trên máy tính. Nếu sử dụng USB hub loại không có nguồn điện ngoài thì cũng trở thành vô nghĩa bởi đầu cắm còn lại của thiết bị ngoại vi này chỉ dùng để lấy điện. Sự vô ý này của rất nhiều người sử dụng đã làm hư hỏng bo mạch chủ bởi sự cung cấp điện năng quá tải giới hạn cho mỗi đầu ra USB.
+
+
+== Các thiết bị hoặc phương thức hỗ trợ giao tiếp USB ==
+Chuột
+Bàn phím
+Máy in
+Máy quét
+Xbox one
+Webcam
+Modem giao tiếp thông qua USB thay cho cổng RJ-45 thông thường, thường thấy ở các modem ADSL hiện nay.
+Loa: Một số loại chỉ loa công suất thấp chỉ lấy nguồn từ đầu cắm USB (chúng vẫn cắm đường tín hiệu âm thanh từ bo mạch âm thanh thông thường, một số loại loa công suất cao chỉ lấy tín hiệu từ USB (chúng sử dụng nguồn điện riêng).
+Điện thoại VoIP: Điện thoại gọi thông qua Internet.
+Kết nối với các điện thoại di động, Điện thoại thông minh (SmartPhone), Thiết bị hỗ trợ cá nhân...
+Kết nối với những thiết bị lưu trữ mở rộng như: ổ Zip, ổ cứng gắn ngoài, ổ quang gắn ngoài, Ổ USB...
+Kết nối mạng giữa hai máy tính thông qua cáp USB.
+Các bộ chuyển đổi cổng: USB thành RS-232; USB thành PS/2; USB thành cổng Print truyền thống...
+Các bộ điều hợp sử dụng chuẩn giao tiếp USB: Hồng ngoại, bluetooth, Wifi...
+Các thiết bị nghiên cứu khoa học sử dụng giao tiếp USB để kết nối với máy tính.
+
+
+== Xem thêm ==
+Kết nối có dây
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Tiếng Anh:
+Home of USB Implementers Forum, Inc.
+Intel Universal Host Controller Interface (UHCI)

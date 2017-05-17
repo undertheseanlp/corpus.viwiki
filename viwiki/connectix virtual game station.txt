@@ -1,0 +1,17 @@
+Virtual Game Station (VGS) là một trình giả lập của Connectix cho phép các trò chơi của Sony PlayStation chơi được trên máy vi tính. Lần đầu tiên nó ra mắt là cho máy Macintosh, năm 1999. VGS tạo ra bởi Aaron Giles. Trình giả lập CPU được biên dịch lại bởi Eric Traut.
+Phát hành trong thời điểm Sony PlayStation đứng đầu về mức độ phổ biến, Virtual Game Station là trình giả lập PlayStation đầu tiên, cho bất kỳ nền tảng nào, cho phép các trò chơi chạy ở tốc độ tối đa ở các máy tính mạnh nhất, và trình giả lập này có thể chơi hầu hết các trò chơi cho PlayStation. Nó được quảng cáo là có thể chạy mức tối đa trên hệ thống iMac G3/233 MHz (dựa vào phần cứng đồ họa ATi), và trong một số trường hợp nó có thể chạy với tốc độ 200 MHz trên hệ thống 604el. Sự ra đời của sản phẩm này là một biến chuyển lớn về các trò chơi có mặt trên Macintosh từ rất ít, cho đến bộ sưu tập các trò chơi Playstation. Đồ họa có thể hiển thị toàn màn hình, ở tốc độ tối đa. Một vài tay cầm dạng Playstation có mặt trong VGS. Chức năng thiếu hụt duy nhất là không nhận được sức rung của DualShock hoặc súng ánh sáng.
+VGS thực chất được thiết kế cho hệ NTSC nhưng sau này đã có thêm hệ PAL cho các trò chơi. Như PS1, chỉ có những trò chơi phát hành cho VGS mới chạy được, các đĩa sao cóp sẽ không chơi được, nhưng nó cũng không quá lâu để các tin tặc ra mắt phiên bản "Mod Chipped" cho phép chơi đĩa sao cóp. Phiên bản VGS 1.1 và 1.2 đã cố gắng làm cho việc chỉnh sửa để chơi đĩa sao cóp khó khăn hơn nhưng không thành, các phiên bản cho phép chơi đĩa cóp vẫn được ra mắt. VGS được phổ biến mạnh mẽ, và giá của nó chỉ bằng một nửa giá của PS1 và không đòi hỏi phần cứng đặc biệt nào. VGS sau này được phát triển cho Microsoft Windows. Nó trở nên kém phổ biến hơn bởi có sự cạnh tranh của các trình giả lập khác như Bleem!, mặc dù nó có tính tương thích cao hơn.
+Sony thấy được VGS như một mối nguy hại, và đệ đơn kiện  chống lại sự vi phạm bản quyền của Connectix. Trường hợp này đã kết thúc sự ân huệ đối với Connectix, Connectix đã không bán được sản phẩm trong thời gian chờ đợi vì Sony đã tuyên bố lệnh cấm của tòa [2]. Sau này, Sony mua lại VGS từ Connectix và kết thúc sự phát triển của nó. Nhưng trong thời gian này PS2 đã gần ra mắt và PlayStation đã không còn đứng đầu nữa, mọi người đã chuyển sang chờ hệ máy mới.
+
+
+== Dẫn chứng ==
+
+
+== Xem thêm ==
+PlayStation
+Connectix
+Kỹ thuật phân tích ngược
+Bleem
+
+
+== Liên kết ngoài ==

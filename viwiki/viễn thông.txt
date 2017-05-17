@@ -1,0 +1,112 @@
+Viễn thông là việc truyền dẫn thông tin giao tiếp qua một khoảng cách đáng kể để về địa lý.
+Vào thời xưa, viễn thông gồm việc dùng các tín hiệu hình ảnh, chẳng hạn như đèn hiệu, tín hiệu khói, điện báo semaphore, tín hiệu cờ, quang báo, hoặc tin nhắn âm thanh như tiếng trống, tiếng tù và, tiếng còi.
+Thời hiện đại, viên thông là việc dùng các thiết bị điện như máy điện báo, điện thoại, máy telex, cũng như dùng thông tin liên lạc vi ba, vô tuyến, sợi quang và kết hợp với vệ tinh thông tin và Internet.
+Cuộc cách mạng trong ngành viễn thông không dây bắt đầu vào thập niên 1900 với những phát triển tiên phong trong lĩnh vực vô tuyến và thông tin liên lạc không dây nhờ Nikola Tesla và Guglielmo Marconi. Marconi đã giành giải Nobel Vật lý năm 1909 cho những nỗ lực của ông. Các nhà phát minh và phát triển tiên phong đáng chú ý khác trong lĩnh vực điện và điện tử gồm Charles Wheatstone và Samuel Morse (điện báo), Alexander Graham Bell (điện thoại), Edwin Armstrong, và Lee de Forest (vô tuyến), cũng như John Logie Baird và Philo Farnsworth (truyền hình).
+Dung lượng hiệu dụng của thế giới để trao đổi thông tin qua mạng viễn thông hai chiều đã tăng từ 281 petabyte thông tin (đã nén tối ưu) năm 1986 lên 471 petabyte vào năm 1993, và tới 2,2 exabyte (đã nén tối ưu) vào năm 2000, cho đến năm 2007 thì lên tới 65 exabyte (đã nén tối ưu). Lượng thông tin này tương đương với 2 trang báo cho mỗi người trong một ngày vào năm 1986 và toàn bộ 6 tờ báo cho mỗi người một ngày vào năm 2007. Với sự tăng trưởng này, viễn thông đóng một vai trò ngày càng quan trọng trong nền kinh tế thế giới và doanh thu của ngành công nghiệp viễn thông toàn thế giới ước tính đạt 3,85 nghìn tỷ USD vào năm 2008. Doanh thu dịch vụ của ngành công nghiệp viễn thông toàn cầu ước tính đạt 1,7 nghìn tỷ USD năm 2008 và dự kiến đạt 2,7 nghìn tỷ USD vào năm 2013.
+
+
+== Nguồn gốc từ ngữ ==
+Từ viễn thông (telecommunication trong tiếng Anh) đã được chuyển thể từ télécommunication trong tiếng Pháp. Đây là từ ghép của tiền tố Hy Lạp tele- (τηλε-), có nghĩa là "xa", và từ communicare trong tiếng Latin có nghĩa là "chia sẻ". Từ tiếng Pháp télécommunication lần đầu tiên xuất hiện tại French Grande École "Telecom ParisTech", trước đây còn được gọi là "École nationale supérieure des télécommunications" vào năm 1904 bởi kỹ sư và tiểu thuyết gia người Pháp Édouard Estaunié.
+
+
+== Những khái niệm cơ bản ==
+
+
+=== Thành phần chính ===
+Một hệ thống viễn thông bao gồm ba thành phần chính:
+Bộ phát nhận thông tin vào và chuyển thành tín hiệu;
+Môi trường truyền dẫn truyền tín hiệu đi;
+Bộ thu nhận tín hiệu và chuyển thành thông tin hữu ích.
+Chẳng hạn, trong hệ thống truyền hình, tháp truyền hình là một bộ phát, không gian xung quanh là môi trường truyền dẫn, tivi là bộ thu. Thông thường trong các hệ thống viễn thông khác, một thiết bị vừa là bộ phát vừa là bộ thu, ví dụ điện thoại di động là một bộ thu phát. Thông tin thông qua đường dây điện thoại được gọi là thông tin điểm-điểm là do nó được thực hiện giữa một bộ phát và một bộ thu. Thông tin thông qua hệ thống truyền hình là thông tin quảng bá là do nó được thực hiện giữa một bộ phát mạnh và nhiều bộ thu.
+
+
+=== Tương tự-số ===
+Tín hiệu có thể là tương tự hoặc số. Tương ứng ta có hệ thống viễn thông số và hệ thống viễn thông tương tự.
+Một tín hiệu tương tự thay đổi liên tục phụ thuộc vào thông tin cần truyền. Trong tín hiệu số, thông tin được mã hóa thành những giá trị rời rạc (ví dụ như 0 và 1). Trong suốt quá trình truyền và nhận, thông tin truyền bằng tín hiệu tương tự chắc chắn sẽ bị suy giảm bởi những nhiễu vật lý không mong muốn (đầu ra của máy phát không bị nhiễu). Bình thường, nhiễu trong tín hiệu truyền thông được nhận biết như tăng hoặc giảm tín hiệu ban đầu một cách hoàn toàn ngẫu nhiên. Kiểu nhiễu này được gọi là "additive noise", nghĩa là nhiễu có thể có lợi hoặc có hại trong những khoảng thời gian khác nhau. Nhiễu không phải là "additive noise" sẽ khó hơn trong việc miêu tả hoặc phân tích, những kiểu nhiễu này sẽ không được đề cập ở đây.
+Ngược lại, trong truyền thông số, dù xảy ra nhiễu, những thông tin được mã hóa trong tín hiệu vẫn còn nguyên vẹn. Khả năng kháng nhiễu là ưu điểm của truyền thông số so với truyền thông tương tự.
+
+
+=== Mạng ===
+Một tập hợp các bộ phát, bộ thu hoặc bộ thu phát thông tin với nhau được gọi là một mạng. Mạng thông tin số có thể bao gồm một hay nhiều router (bộ định tuyến) để định tuyến thông tin đến đúng người nhận. Mạng thông tin tương tự có thể bao gồm một hay nhiều tổng đài dùng để thiết lập kết nối giữa các người dùng. Trong cả hai mạng repeater (bộ lặp) có thể dùng đến để khuếch đại hoặc tái tạo tín hiệu khi tín hiệu được truyền đi xa. Thiết bị này dùng để giảm suy hao bộ thu có thể phân biệt và tách được tín hiệu ra khỏi nhiễu.
+
+
+=== Kênh truyền ===
+Một kênh truyền là một phần trong môi trường truyền dẫn được dùng để truyền một kênh thông tin. Chẳng hạn, một trạm vô tuyến phát quảng bá ở tần số 90.1 MHz trong khi một trạm khác phát quảng bá ở tần số 94.5 MHz. Trong trường hợp ghép kênh phân chia tần số này, môi trường truyền dẫn được chia thành các phần có tần số khác nhau. Trong ghép kênh phân chia thời gian người ta cũng sử dụng cách chia theo thời gian.
+
+
+== Lịch sử ==
+Viễn thông là một thuật ngữ liên quan tới việc truyền tin và tín hiệu. Ngay từ ngày xa xưa, những người tiền sử đã biết dùng khói để báo hiệu, những người thổ dân ở những hòn đảo xa xôi dùng các cột khói để liên lạc, báo hiệu và truyền tin. Mai An Tiêm dùng dưa hấu để truyền tin về đất liền,... có thể nói thuật ngữ viễn thông đã có từ xa xưa.
+Tuy nhiên có thể nói, khái niệm viễn thông được chính thức sử dụng khi cha đẻ của máy điện báo Samuel Finley Breese Morse sau bao ngày đêm nghiên cứu vất vả, ông đã sáng chế chiếc máy điện báo đầu tiên. Bức điện báo đầu tiên dùng mã Morse được truyền đi trên trái đất từ Nhà Quốc hội Mỹ tới Baltimore cách đó 64 km đã đánh dấu kỷ nguyên mới của viễn thông. Trong bức thông điệp đầu tiên này Morse đã viết "Thượng đế sáng tạo nên những kỳ tích".
+Nói đến lịch sử của Viễn thông, không thể không nhắc đến Alexander Graham Bell, ông là người đầu tiên sáng chế ra điện thoại. Để tưởng nhớ ông, ngày 7 tháng 8 năm 1922 mọi máy điện thoại trên nước Mỹ đều ngừng hoạt động để tưởng nhớ và bày tỏ lòng biết ơn nhà khoa học xuất sắc A.G Bell (1847 - 1922).
+Trên quy mô xã hội, nếu điện tín (1884), điện thoại (1876), radio (1895) và vô tuyến truyền hình (1925) đã làm thay đổi cách giao tiếp trong quan hệ con người thì sự xuất hiện của vệ tinh viễn thông (1960) sợi quang học (1977), công nghệ không dây đã làm nên một hệ thần kinh thông minh nhạy bén trên trái đất. Có thể nói lĩnh vực viễn thông đã làm thay đổi bộ mặt, tính cách của trái đất, đã hiện thực hóa khả năng liên kết của mỗi người của mỗi quốc gia, gắn kết mọi người với nhau nhờ một mạng lưới viễn thông vô hình và hữu hình trên khắp trái đất và vũ trụ. Sự hội tụ trong lĩnh vực viễn thông Cùng với sự phát triển của xã hội, nhu cầu sử dụng và truyền dữ liệu của con người cũng tăng lên theo hàm số mũ. Ngành VT đóng góp vai trò lớn lao trong việc vận chuyển đưa tri thức của loài người đến mỗi người, thúc đẩy quá trình sáng tạo đưa thông tin khắp nơi về các ngành lĩnh vực khoa học, các thông tin giải trí cũng như thời sự khác. Viễn thông đem lại sự hội tụ, hay sự thống nhất về các loại hình dịch vụ truyền dữ liệu dịch vụ như thoại, video (truyền hình quảng bá và truyền hình theo yêu cầu), và dữ liệu Internet băng rộng thúc đẩy ngành công nghệ thông tin phát triển lên một mức cao hơn với đa dạng các loại hình dịch vụ và chi phí rẻ hơn. Mạng viễn thông giúp người sử dụng có thể gọi điện thoại qua mạng Internet, có thể xem hình ảnh của bạn bè trên khắp thế giới, có thể chia sẻ nguồn dữ liệu, có thể thực hiện những giao dịch mua bán tới mọi nơi trên thế giới một cách đơn giản. Viễn thông ngày càng tạo nên một thế giới gần hơn hội tụ cho tất cả mọi người.
+
+
+== Viễn thông hiện đại ==
+
+
+=== Điện thoại ===
+Xem thêm thông tin: Video phone
+Đối với hệ thống điện thoại có dây truyền thống, người sử dụng ở bên chủ gọi quay số (gửi số bằng xung) hoặc bấm số (gửi số bằng tone) của bên bị gọi. Bên chủ gọi sẽ được kết nối với bên bị gọi thông qua một số tổng đài. Tiếng nói được thu bằng một micrô nhỏ nằm trong ống nghe, chuyển thành tín hiệu điện và truyền tới tổng đài gần nhất. Tín hiệu này sẽ được chuyển thành tín hiệu số để truyền đến tổng đài kế tiếp. Ở đầu người nghe, tín hiệu điện sẽ được chuyển thành tín hiệu âm thanh và phát ra ở ống nghe.
+Hầu hết điện thoại cố định là điện thoại tương tự. Các cuộc gọi ở cự li ngắn (cùng một tổng đài) có thể chỉ sử dụng tín hiệu tương tự. Đối với cuộc gọi đường dài, tín hiệu được biến thành tín hiệu số để truyền đi xa. Tín hiệu số có thể được truyền đi chung với dữ liệu Internet, giá rẻ hơn, và có thể phục hồi lại khi truyền qua một khoảng cách xa trong khi đó tín hiệu tương tự thì không tránh khỏi bị nhiễu làm sai lệch.
+Điện thoại di động ra đời đã tác động nhiều lên mạng viễn thông. Ở một số nước, số lượng thuê bao điện thoại di động còn nhiều hơn điện thoại cố định.
+Mạng viễn thông đã trải qua nhiều tiến bộ vượt bậc khi xuất hiện những công nghệ mới. Vào thập niên 90, thông tin quang được chấp nhận và sử dụng rộng rãi. Ưu điểm của nó là tốc độ truyền dẫn được tăng lên rất cao. Để có được điều này là do vài nguyên nhân. Thứ nhất, sợi quang nhỏ hơn rất nhiều so với các loại cáp trước đó. Thứ hai, không có hiện tượng xuyên âm nên hàng trăm sợi quang có thể được gộp chung lại thành một sợi cáp. Thứ ba, những công nghệ ghép kênh đã tăng tốc độ truyền dẫn trên sợi quang theo cấp số nhân.
+Tín hiệu thoại sau khi được số hóa sẽ trở thành những mẫu có dung lượng một byte. Các mẫu của mỗi cuộc điện thoại sẽ được xếp cạnh và xen kẽ nhau theo một trật tự nhất định để truyền đi xa. Kỹ thuật này gọi là phân kênh theo thời gian (TDM).
+
+
+=== Vô tuyến truyền hình ===
+Xem thêm thông tin: Truyền hình giao thức Internet và Hội nghị truyền hình
+phương thức truyền hình ảnh và âm thanh từ xa đến người xem qua làn sóng mặt đất hoặc vệ tinh mà không cần đến dây cáp dẫn tín hiệu. Theo phương thức này, tín hiệu hình ảnh và âm thanh được điều chế vào một sóng cao tần và được khuếch đại đến một mức cần thiết để phát đi đến máy thu thông qua mạng máy phát trên mặt đất hoặc máy phát trực tiếp trên vệ tinh. Trong VTTH áp dụng nguyên tắc truyền liên tục hình ảnh đối tượng [nguyên tắc do nhà khoa học người Bồ Đào Nha Paiva (A. de Paiva) đề xuất vào cuối thế kỉ 19, và độc lập với ông là nhà khoa học Nga Bakhơmetievưi (P. I. Bakhmet'evyj)]: ở trạm truyền, hình ảnh đối tượng được biến đổi liên tục thành các tín hiệu điện tử (phân tích hình ảnh) chuyển theo kênh thông vào các máy thu; ở đó, lại thực hiện việc biến đổi ngược lại (tổng hợp hình ảnh). VTTH đã được phát triển cùng với việc sử dụng phân tích và tổng hợp thiết bị quang cơ, và mở đầu là một kĩ sư người Đức Nipkôp (P. G. Nipkow) vào năm 1884. Giữa những năm 30 thế kỉ 20, đã xuất hiện những hệ thống đầu tiên VTTH điện tử. Sự phát triển của hệ thống hiện đại VTTH gắn liền với việc nâng cao độ nét hình ảnh, độ chống nhiễu và tác động tầm xa. Từ giữa những năm 80 của thế kỉ 20, hệ thống VTTH kĩ thuật số đã bắt đầu được ứng dụng
+
+
+=== Internet ===
+
+
+=== Mạng nội bộ ===
+Còn có tên gọi là mạng LAN.
+
+
+== Kinh tế ==
+Các doanh nghiệp trong ngành viễn thông được phân biệt giữa những nhà vận hành các mạng lưới viễn thông (carrier), doanh nghiệp cung cấp dịch vụ (service provider) và doanh nghiệp cung cấp các giải pháp viễn thông (supplier).
+Một số nhà cung cấp dịch vụ viễn thông ở Việt Nam:
+Tập đoàn Bưu chính Viễn thông Việt nam
+Công ty cổ phần viễn thông FPT
+Tập đoàn Viễn thông Quân đội
+Công ty Thông tin Điện tử Hàng hải Việt Nam
+Công ty Cổ phần Dịch vụ Bưu chính Viễn thông Sài Gòn
+Công ty Viễn thông Hà Nội
+10 doanh nghiệp viễn thông lớn nhất thế giới là:
+NTT, Nhật
+Deutsche Telekom, Đức
+Verizon, Mỹ
+France Télécom, Pháp
+Vodafone, Anh
+NTT DoCoMo, Nhật
+SBC Communications, Mỹ
+Telecom Italia, Ý
+British Telecom, Anh
+Telefónica, Tây Ban Nha
+Thời điểm: tháng 11 năm 2004 theo doanh thu. Nguồn: [1]
+10 nhà cung cấp trang thiết bị lớn nhất cho doanh nghiệp viễn thông là
+Alcatel
+Ericsson
+Lucent Technologies
+Motorola
+Nokia
+Nortel đước đây là Nortel Networks
+Siemens
+Marconi
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Tạp chí Bưu chính Viễn thông
+ATIS Telecom Glossary
+Communications Engineering Tutorials
+Federal Communications Commission
+Unified Communications
+IEEE Communications Society
+International Telecommunication Union
+Ericsson's Understanding Telecommunications at archive.org (Ericsson removed the book from their site in September 2005)
+VoIP, Voice over Internet Protocol and Internet telephone calls

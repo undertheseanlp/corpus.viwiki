@@ -1,0 +1,108 @@
+Xem các bài liên quan Điốt tại Điốt (định hướng)
+
+LED (viết tắt của Light Emitting Diode, có nghĩa là điốt phát quang) là các điốt có khả năng phát ra ánh sáng hay tia hồng ngoại, tử ngoại. Cũng giống như điốt, LED được cấu tạo từ một khối bán dẫn loại p ghép với một khối bán dẫn loại n.
+
+
+== Lịch sử ==
+
+
+=== Những phát hiện sơ khai ===
+
+Hiện tượng biến điện thành ánh sáng được H. J. Round phát hiện đầu tiên vào năm 1907 ở phòng thí nghiệm Marconi. Ông đã dùng 1 dây dẫn và tinh thể Silic các-bua(SiC). Oleg Vladimirovich Losev, nhà nghiên cứu người Nga công bố lần đầu tiên đã tạo ra LED trên tạp chí khoa học Nga, Đức và Anh. Tuy nhiên không có thực tế hóa trong mấy thập kỷ kế tiếp. Rubin Braunstein, công ty Radio Corporation of America, phát hiện có bức xạ hồng ngoại trên hợp chất GaAs và các hợp chất khác vào năm 1955. Braunstein đã thí nghiệm trên các điốt GaSb, GaAs, indium phosphide (InP), và silicon-germanium (SiGe) ở nhiệt độ phòng và ở 77 độ K.
+Năm 1961, các nhà thí nghiệm người Mỹ Robert Biard và Gary Pittman, làm việc ở Texas Instruments,[15] cũng phát hiện GaAs phát ra tia hồng ngoại khi có dòng điện chạy qua và đã nhận bằng phát minh LED hồng ngoại.
+LED đầu tiên phát ra ánh sáng có thể nhìn thấy là loại LED đỏ, do Nick Holonyak, Jr. phát hiện, vào năm 1962 khi đang làm việc cho General Electric Company.[5] Holonyak đã báo cáo hiện tượng này trong lá thư anh gởi cho tạp chí Applied Physics Letters vào ngày 01-12-1962. [16] Holonyak được xem là cha đẻ của LED.[17] M. George Craford,[18], một sinh viên tốt nghiệp trước Holonyak, đã phát minh ra LED vàng đầu tiên và đã cải thiện thêm độ sáng lên 10 lần cho LED đỏ cũng như LED đỏ-cam vào năm 1972.[19] Vào năm 1976, T. P. Pearsall lần đầu tiên đã tạo ra LED công suất cao, hiệu suất cao cho cáp quang nhờ vào việc sáng chế ra vật liệu bán dẫn mới có khả năng phát ra sóng điện từ phù hợp cho cáp quang.[20]
+
+
+=== Quá trình thương mại hóa ===
+LED đầu tiên được thương mại hóa để thay thế cho đèn chỉ thị làm bằng đèn dây tóc, nê-on và màn hình bảy đoạn. Đầu tiên là các thiết bị mắc tiền trong phòng thí nghiệm. Sau đó là tivi, rađiô, điện thoại, máy tính và thậm chí là đồng hồ. Đến năm 1968, LED cực kì mắc, cỡ 200 đôla Mỹ mà lại ít ứng dụng. Năm 1968, Công ty Monsanto là công ty đầu tiên sản xuất LED hàng loạt dùng gali asen phốt pho (GaAsP). Năm này, Hewlett Packard cũng giới thiệu LED làm từ GaAsP do công ty Monsanto cung cấp. Các LED này là LED đỏ và có thấu kính nhựa đi kèm trên từng chữ số để có thể dùng trong màn hình máy tính và chỉ đủ sáng để làm đèn chỉ thị. Thời gian sau đó thì LED vàng, cam.. cũng trở nên phổ biến. Năm 1970, LED thật sự đã được thương mại hóa thành công khi công ty Fairchild Semiconductor bán ra thị trường 5 xu Mỹ cho mỗi bóng LED. Công ty này đã sản xuất bằng quy trình Planar do tiến sĩ Jean Hoerni phát minh khi làm việc cho họ. Sự kết hợp giữa quy trình Planar và các phương pháp đóng gói giúp nhóm trưởng Thomas Brandt của công ty Fairchild đã có được khả năng giảm thiểu giá thành cần thiết. Các phương pháp này vẫn được các công ty dùng để sản xuất LED hiện nay.
+
+Ngành công nghệ vật liệu cho LED đã phát triển ngày càng mạnh mẽ. Công suất ngày càng tăng nhưng hiệu suất, độ tin cậy vẫn đạt được mức có thể chấp nhận. Việc phát minh và phát triển LED trắng công suất cao nhanh chóng thay thế đèn dây tóc, đèn huỳnh quang. LED ngày này đa số là cỡ 5mm T1¾ và 3mm T1. Tuy nhiên, xu hướng công suất ngày càng lớn nên các kiểu đóng gói khác cũng được phát triển để đáp ứng yêu cầu tỏa nhiệt. LED công suất cao ngày nay cấu trúc bên trong rất phức tạp nhưng bề ngoài thì như các LED thời ban đầu.
+
+
+=== LED xanh da trời và LED trắng ===
+LED xanh da trời làm từ InGaN được phát minh đầu tiên do Shuji Nakamura của công ty Nichia Corporation vào năm 1994. Hai kỹ thuật mấu chốt là cấy GaN trên lớp nền Saphia và tạo lớp bán dẫn P từ GaN(do Isamu Akasaki và H. Amano phát triển ở Nagoya). Năm 1995, Alberto Barbieri tại phòng thí nghiệm ĐH Cardiff đã nghiên cứu và giới thiệu LED "tiếp xúc trong suốt" có công suất, hiệu suất cao bằng cách dùng Indi thiếc ôxít. Sự ra đời của LED xanh da trời cộng với LED hiệu suất cao nhanh chóng dẫn đến sự ra đời LED trắng đầu tiên dùng Y3Al5O12:Ce. Hợp chất này có tên khác là YAG, là lớp phủ để trộn ánh sáng vàng với ánh sáng xanh da trời cho ra ánh sáng trắng. Năm 2006, Nakamura được trao giải thưởng công nghệ thiên nhiên kỷ cho phát minh này.
+Hiệu suất, công suất của LED tăng theo hàm mũ, gấp đôi sau mỗi 3 năm kể từ năm 1960, tương tự như định luật Moore. Sự phát triển LED nói chung đã đóng góp cho sự phát triển song song giữa các công nghệ bán dẫn, khoa học vật liệu và quang học. Người ta đã đặt tên nó là định luật Haitz, lấy từ tên của tiến sĩ Roland Haitz.
+Năm 2001 và 2002, quy trình cấy GaN lên chất nền SiO2 được hiện thực. Tháng 1 năm 2012, LED công suất lớn theo công nghệ này được thương mại hóa. Tin đồn là dùng tấm đế SiO2 6inch(15.24 cm) thay vì tấm đế Saphia(Nhôm ôxít) 2inch(5.08 cm) sẽ làm giảm 90% giá thành.
+
+
+== Hoạt động ==
+
+
+=== Về mặt điện tử ===
+Hoạt động của LED giống với nhiều loại điốt bán dẫn.
+Khối bán dẫn loại p chứa nhiều lỗ trống tự do mang điện tích dương nên khi ghép với khối bán dẫn n (chứa các điện tử tự do) thì các lỗ trống này có xu hướng chuyển động khuếch tán sang khối n. Cùng lúc khối p lại nhận thêm các điện tử (điện tích âm) từ khối n chuyển sang. Kết quả là khối p tích điện âm (thiếu hụt lỗ trống và dư thừa điện tử) trong khi khối n tích điện dương (thiếu hụt điện tử và dư thừa lỗ trống).
+Ở biên giới hai bên mặt tiếp giáp, một số điện tử bị lỗ trống thu hút và khi chúng tiến lại gần nhau, chúng có xu hướng kết hợp với nhau tạo thành các nguyên tử trung hòa. Quá trình này có thể giải phóng năng lượng dưới dạng ánh sáng (hay các bức xạ điện từ có bước sóng gần đó).
+Hầu hết các vật liệu làm LED có chiết suất rất cao, tức là hầu hết ánh sáng phát ra sẽ quay ngược vào bên trong thay vì phát ra ngoài không khí. Do đó công nghệ trích xuất ánh sáng từ LED cũng rất quan trọng, cần rất nhiều sự nghiên cứu và phát triển.
+
+
+=== Chiết suất ===
+Các chất bán dẫn như SiO2 có chiết suất rất cao khi chưa có lớp tráng phủ. Điều này sẽ ngăn cản phô ton đi ra khỏi chất bán dẫn. Đặc điểm này ảnh hưởng đến hiệu suất LED và tế bào quang điện. Chiết suất của SiO2 là 3.96(590 nm), còn không khí là 1.0002926.
+Nói chung, chỉ có những phô ton vuông góc với mặt bán dẫn hoặc góc tới cỡ vài độ thì mới có thể thoát ra ngoài. Những phô ton này sẽ tạo thành 1 chùm sáng dưới dạng hình nón. Những phô ton không thể thoát ra ngoài sẽ chui ngược vào bên trong chất bán dẫn.
+Những phô ton phản xạ toàn phần có thể thoát ra ngoài qua các mặt khác của chất bán dẫn nếu góc tới đủ nhỏ và chất bán dẫn đủ trong suốt để không hấp thụ hoàn toàn các phô ton. Tuy nhiên, với LED đều vuông góc ở tất cả các mặt thì ánh sáng hoàn toàn không thể thoát ra và sẽ biến thành nhiệt làm nóng chất bán dẫn.
+Hình dáng lý tưởng cho phép tối đa phát sáng là dạng vi cầu, là các hình cầu có kích thước siêu nhỏ từ 1 μm đến 1000 μm. Ánh sáng sẽ phát ra từ điểm trung tâm và điện cực cũng phải chạm điểm trung tâm. Tất cả ánh sáng phát ra sẽ vuông góc toàn bộ bề mặt quả cầu, do đó sẽ không có phản xạ. Bán cầu cũng có thể cho kết quả tương tự nếu mặt lưng hoàn toàn phẳng để phản xạ hoàn toàn các tia phát về phía mặt lưng.
+
+
+=== Lớp tráng phủ ===
+Rất nhiều LED được bọc bằng 1 vỏ nhựa màu hoặc trong suốt vì 3 mục đích
+hàn LED vào bảng mạch sẽ dễ hơn.
+dây dẫn bên trong LED rất mỏng sẽ được bảo vệ tốt hơn.
+lớp nhựa sẽ đóng vai trò như là môi trường trung gian. Chiết suất của vỏ nhựa sẽ thấp hơn chiết suất bán dẫn nhưng cao hơn không khí
+Lý do thứ ba sẽ gia tăng khả năng phát sáng của LED vì nó sẽ như 1 thấu kính phân kỳ, cho phép ánh sáng có góc tới cao hơn góc tới hạn có thể lọt ra ngoài không khí.
+
+
+=== Hiệu suất và các thông số hoạt động ===
+LED dùng làm chỉ thị có công suất chỉ cỡ 30-60 mili oát. Năm 1999, Philips Lumileds giới thiệu LED có thể hoạt động liên tục với công suất 1W. Nó dùng 1 đế bán dẫn lớn hơn rất nhiều so với LED chỉ thị. Thêm nữa là có bộ phận tản nhiệt bằng kim loại.
+Một trong những ưu điểm của LED là có hiệu suất chiếu sáng cao. LED trắng nhanh chóng bắt kịp và vượt qua hiệu suất của đèn dây tóc.
+Năm 2002, Lumileds chế tạo thành công LED 5W với hiệu suất chiếu sáng từ 18-22 lumen/oát. Để so sánh, đèn dây tóc 60-100W có hiệu suất cỡ 15lm/W, còn đèn huỳnh quang tốt thì 100lm/W. Một vấn đề khá cũ là hiệu suất giảm nhanh khi tăng dòng qua LED
+Tháng 9 năm 2003, một loại LED xanh da trời được công ty Cree giới thiệu phát ra 24 mW với dòng điện là 20mA. Điều này có nghĩa là 1 bóng LED trắng sẽ có 65lm/W với dòng 20mA. Đây chính là LED trắng có hiệu suất cao nhất thời đó, hơn 4 lần so với đèn dây tóc.
+Năm 2006, họ giới thiệu sản phẩm mẫu đạt kỷ lục mới cho hiệu suất của LED trắng là 131lm/W với dòng điện 20mA. Năm này, công ty Nichia Corporation giới thiệu LED trắng với hiệu suất 150lm/W cũng với dòng điện 20mA.
+Năm 2011, Xlamp XM-L, 1 dòng sản phẩm của hãng Cree phát ra 100lm/W với công suất 10W, hiệu suất là 160lm/W nếu công suất là 2W.
+Năm 2012, Cree giới thiệu LED trắng hiệu suất 254lm/W. Trong thực tế, LED chiếu sáng có công suất từ 1W trở lên, dòng tiêu thụ điển hình là 350mA.
+Chú ý là hiệu suất nói trên chỉ tính riêng cho LED và dưới môi trường nhiệt độ thấp trong phòng thí nghiệm. Trên thực tế, nhiệt độ cao và mạch nguồn cho LED cũng có thất thoát năng lượng nên hiệu suất thấp hơn nhiều.
+Tháng 3 năm 2012, cree tuyên bố LED mẫu đã đạt được 208lm/W với nhiệt độ phòng, nhiệt độ màu là 4579K.
+
+
+=== Tuổi thọ ===
+Bán dẫn nói chung và LED nói riêng rất bền khi dòng tiêu thụ nhỏ và ở nhiệt độ thấp. Nhiều LED sản xuất năm 1970-1980 vẫn còn cho tới ngày nay. Tuổi thọ thường là 25.000 cho đến 100.000 giờ nhưng nhiệt độ cao và dòng tiêu thụ cao thì tuổi thọ sẽ giảm nhanh chóng.
+Dạng hư hỏng chung của LED(và điốt la-de) là sẽ dần giảm độ sáng, hiệu suất. Hư hỏng đột ngột dù hiếm nhưng cũng xảy ra. Các LED đỏ thời kì đầu tuổi thọ khá ngắn. Với sự phát triển LED công suất cao, LED hiện đại phải chịu nhiệt độ cao hơn, dòng tải cao hơn ngày xưa. Điều này có thể làm giảm tuổi thọ nhanh chóng. Để phân loại LED theo tuổi thọ, người đưa ra khái niệm L70 và L50, nghĩa là thời gian để hiệu suất chiếu sáng còn 70% và 50%.
+Như các loại đèn khác, LED cũng phụ thuộc vào nhiệt độ. Hầu hết các nhà sản xuất đều công bố thông số cho nhiệt độ phòng 25 °C. LED ngoài trời như đèn giao thông hoặc chiếu sáng công cộng nơi có nhiệt độ quá thấp hoặc quá cao có thể giảm độ sáng hoặc có thể làm hư hỏng LED.
+LED tăng độ sáng ở nhiệt độ thấp tùy loại cụ thể, thường là -30 °C. Do đó LED có thể là sự lựa chọn tốt để chiếu sáng ở kho lạnh của siêu thị và tuổi thọ sẽ cao hơn các loại đèn khác. Vì LED ít phát nhiệt hơn đèn dây tóc nên sẽ có hiệu suất cao hơn ở những nơi dùng máy lạnh. Tuy nhiên cũng vì ít phát ra hơi nóng nên LED có thể không dùng được ở những nơi có tuyết rơi dày. Để giải quyết vấn đề này, người ta có thể thêm một mạch điện tạo sức nóng. Thêm nữa, một nghiên cứu vừa thành công tạo ra một loại tản nhiệt truyền nhiệt vào khu vực thích hợp bên trong đèn LED.
+
+
+== Màu sắc và vật liệu ==
+LED truyền thống được làm từ một số chất bán dẫn vô cơ. Bảng dưới đây trình bày các loại màu sắc cùng với bước sóng, điện áp và vật liệu:
+
+
+=== LED xanh da trời và LED tia cực tím ===
+
+LED xanh da trời hiện tại dựa trên chất bán dẫn có vùng cấm rộng như GaN (gallium nitride) và InGaN (indium gallium nitride). Chúng có thể được gắn chung với LED xanh lá và LED đỏ để tạo ánh sáng trắng dù LED trắng ngày nay ít dùng cách này.
+LED xanh da trời đầu tiên do Jacques Pankove làm bằng chất gallium nitride vào năm 1971 ở RCA Laboratories. Tuy nhiên ánh sáng của nó quá yếu nên không dùng được trên thực tế và sau đó nghiên cứu về gallium nitride không có tiến triển gì nhiều. Vào tháng 8 năm 1989, công ty Cree Inc. bán ra LED xanh da trời đầu tiên dùng chất bán dẫn có vùng cấm gián tiếp, silíc các-bua. LED bằng SiC có hiệu suất rất thấp, không quá 0.03%.
+Cuối thập niên 1980, đột phá trong nghiên cứu màng mỏng GaN epitaxial và cấy p-type  đã dẫn tới một kỷ nguyên mới cho các thiết bị quang điện dựa trên GaN. Trên nền tảng này, vào năm 1993 LED xanh nước biển có độ sáng cao đã được hiện thực. do Shuji Nakamura của công ty Nichia Corporation dùng gallium nitride.
+Cuối thập kỷ 1990, LED xanh da trời đã được phổ biến rộng rãi. Chúng có một hoặc nhiều lớp kích hoạt InGaN quantum wells được kẹp giữa các lớp dày bằng GaN, gọi là lớp che phủ. Bằng cách thay đổi tỷ lệ In-Ga trong lớp InGaN quantum wells, về lý thuyết có phát ra ánh sáng từ màu tím cho đến màu hổ phách. Thay đổi tỷ lệ Al/Ga trong Aluminium gallium nitride (AlGaN) rồi dùng làm lớp che phủ và lớp kích hoạt có thể tạo được LED tia cực tím. Tuy nhiên cách này vẫn chưa có được hiệu suất cũng như độ chín muồi của công nghệ InGaN/GaN (LED xanh lá, xanh da trời). Nếu dùng GaN làm lớp kích hoạt quantum well layers thì có thể sẽ tạo được LED phát ra ánh sáng gần khu vực tia cực tím, đỉnh cực đại nằm gần 365 nm. LED xanh lá làm từ InGaN/GaN có độ sáng, hiệu suất bỏ xa so với làm từ các chất không phải hợp chất của Nitơ nhưng hiệu suất vẫn còn quá thấp so với yêu cầu thực tế cho 1 hệ thống chiếu sáng công suất lớn.
+Với hợp chất nitrít có chứa nhôm, thường là AlGaN và AlGaInN, có thể phát ra bước sóng ngắn hơn tia cực tím. Các LED cực tím đang trở nên phổ biến trên thị trường. LED có bước sóng gần tia cực tím bước sóng từ 375–395 nm giá rẻ đã có trên thị trường như các đèn soi chống tiền giả, công văn giả. Các điốt có bước sóng ngắn hơn vẫn còn mắc nhưng cũng đã có trên trị trường với bước sóng nhỏ hơn 247 nm. Vì độ nhạy sáng của vi sinh vật gần bằng với phổ hấp thụ của ADN, đỉnh ở gần 260 nm, các LED cực tím từ 250–270 nm sẽ trở thành thiết bị khử trùng trong tương lai. Các nghiên cứu gần đây cho thấy LED cực tím kiểu A (365 nm) đã trở thành thiết bị khử trùng hiệu quả.
+Bước sóng ngắn hơn tia cực tím đã đạt được trong phòng thí nghiệm dùng aluminium nitride (210 nm), boron nitride (215 nm) and kim cương (235 nm).
+Năm 2011, Zhong Lin Wang của Viện công nghệ Georgia đã phát hiện ra dùng dây kẽm ôxít siêu nhỏ có thể tăng hiệu suất của LED áp điện phát tia cực tím lên 4 lần, từ 2% lên 8%.
+
+
+== Tính chất ==
+Tùy theo mức năng lượng giải phóng cao hay thấp mà bước sóng ánh sáng phát ra khác nhau (tức màu sắc của LED sẽ khác nhau). Mức năng lượng (và màu sắc của LED) hoàn toàn phụ thuộc vào cấu trúc năng lượng của các nguyên tử chất bán dẫn.
+LED thường có điện thế phân cực thuận cao hơn điốt thông thường, trong khoảng 1,5 đến 3 V. Nhưng điện thế phân cực nghịch ở LED thì không cao. Do đó, LED rất dễ bị hư hỏng do điện thế ngược gây ra.
+
+
+== Ứng dụng ==
+
+Trước đây: một bộ phận rất nhỏ của công nghệ LED được ứng dụng trong một số lĩnh vự như bộ phận hiển thị trong các thiết bị điện, điện tử, đèn quảng cáo, trang trí, đèn giao thông.
+Có nghiên cứu về các loại LED có độ sáng tương đương với bóng đèn bằng khí neon. Đèn chiếu sáng bằng LED được cho là có các ưu điểm như gọn nhẹ, bền, tiết kiệm năng lượng.
+Các LED phát ra tia hồng ngoại được dùng trong các thiết bị điều khiển từ xa cho đồ điện tử dân dụng.
+LED còn được sử dụng để cung cấp ánh sáng bổ sung cho thực vật, nhất vào giao đoạn nảy mầm và ra hoa.
+Ngày nay (khoảng từ 2010 - 2015): Tại Việt Nam công nghệ LED đã có những bước nhảy vọt trong ứng dụng vào thị trường dân dụng & công nghiệp một cách rộng rãi. Cụ thể trong từng lĩnh vực là:
+Chiếu sáng dân dụng: Đèn LED được ứng dụng mạnh mẽ vào lĩnh vực trang trí nội thất hiện đại và cổ điển, trang trí ngoại thất, tiểu cảnh, sân vườn,...
+Chiếu sáng công nghiệp: Vì có chi phí cao nên mặc dù hiểu rõ được tính ưu việt của công nghệ LED, nhưng chỉ một bộ phận nhỏ các nhà doanh nghiệp nước ngoài có năng lực về tài chính mới dám lựa chọn giải pháp chiếu sáng bằng công nghệ LED cho các nhà xưởng sản xuất của doanh nghiệp mình.
+
+
+== Xem thêm ==
+Laser led bán dẫn
+Laser điốt
+
+
+== Tham khảo ==

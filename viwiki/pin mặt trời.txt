@@ -1,0 +1,57 @@
+Pin năng lượng Mặt trời hay pin mặt trời hay pin quang điện (Solar panel) bao gồm nhiều tế bào quang điện (solar cells) - là phần tử bán dẫn có chứa trên bề mặt một số lượng lớn các cảm biến ánh sáng là điốt quang, thực hiện biến đổi năng lượng ánh sáng thành năng lượng điện. Cường độ dòng điện, hiệu điện thế hoặc điện trở của pin mặt trời thay đổi phụ thuộc bởi lượng ánh sáng chiếu lên chúng. Tế bào quang điện được ghép lại thành khối để trở thành pin mặt trời (thông thường 60 hoặc 72 tế bào quang điện trên một tấm pin mặt trời). Tế bào quang điện có khả năng hoạt động dưới ánh sáng mặt trời hoặc ánh sáng nhân tạo. Chúng có thể được dùng như cảm biến ánh sáng (vd cảm biến hồng ngoại), hoặc các phát xạ điện từ gần ngưỡng ánh sáng nhìn thấy hoặc đo cường độ ánh sáng.
+Sự chuyển đổi này thực hiện theo hiệu ứng quang điện. Hoạt động của pin mặt trời được chia làm ba giai đoạn:
+Đầu tiên năng lượng từ các photon ánh sáng được hấp thụ và hình thành các cặp electron-hole trong chất bán dẫn.
+Các cặp electron-hole sau đó bị phân chia bởi ngăn cách tạo bởi các loại chất bán dẫn khác nhau (p-n junction). Hiệu ứng này tạo nên hiệu điện thế của pin mặt trời. 
+Pin mặt trời sau đó được nối trực tiếp vào mạch ngoài và tạo nên dòng điện. 
+Các pin năng lượng Mặt trời có nhiều ứng dụng trong thực tế. Do giá thành còn đắt, chúng đặc biệt thích hợp cho các vùng mà điện lưới khó vươn tới như núi cao, ngoài đảo xa, hoặc phục vụ các hoạt động trên không gian; cụ thể như các vệ tinh quay xung quanh quỹ đạo trái đất, máy tính cầm tay, các máy điện thoại cầm tay từ xa, thiết bị bơm nước... Các Pin năng lượng Mặt trời được thiết kế như những modul thành phần, được ghép lại với nhau tạo thành các tấm năng lượng Mặt trời có diện tích lớn, thường được đặt trên nóc các tòa nhà nơi chúng có thể có thể đó ánh sáng nhiều nhất, và kết nối với bộ chuyển đổi của mạng lưới điện. Các tấm pin Mặt Trời lớn ngày nay được lắp thêm bộ phận tự động điều khiển để có thể xoay theo hướng ánh sáng, giống như loài hoa hướng dương hướng về ánh sáng Mặt Trời.
+
+
+== Lịch sử của pin mặt trời ==
+Hiệu ứng quang điện được phát hiện đầu tiên năm 1839 bởi nhà vật lý Pháp Alexandre Edmond Becquerel lúc ông 19 tuổi khi đang làm thí nghiệm tại phòng nghiên cứu của cha. Willoughby Smith nhắc đến phát minh này trong một bài báo xuất bản ngày 20 tháng 2 năm 1873 trên tạp chí Nature. Tuy nhiên cho đến 1883 một pin năng lượng mới được tạo thành, bởi Charles Fritts, ông phủ lên mạch bán dẫn selen một lớp cực mỏng vàng để tạo nên mạch nối, thiết bị chỉ có hiệu suất 1%. Năm 1888, nhà vật lý học người Nga Aleksandr Stoletov tạo ra tấm pin đầu tiên dựa vào hiệu ứng quang điện được phát hiện bởi Heinrich Hertz trước đó vào năm 1887.
+Albert Einstein đã giải thích được hiệu ứng quang điện vào năm 1905, công trình đã giúp ông giành giải Nobel vật lý năm 1921.
+Vadim Lashkaryov phát hiện ra phân lớp p-n trong CuO và bạc sul-phát vào năm 1941.
+Russell Ohl được xem là người tạo ra pin năng lượng Mặt trời đầu tiên năm 1946. Sven Ason Berglund đã có phương pháp liên quan đến việc tăng khả năng cảm nhận ánh sáng của pin.
+Pin mặt trời đầu tiên có khả năng ứng dụng được ra mắt vào 25/4/1954 tại Bell Laboratories bởi Daryl Chapin, Calvin Souther Fuller và Gerald Pearson.
+Pin mặt trời bắt đầu được quan tâm đặc biệt khi kết hợp với vệ tinh Vanguard I năm 1958.
+
+
+== Nền tảng ==
+Tìm hiểu về pin Mặt trời, thì cần một chút lý thuyết nền tảng về vật lý chất bán dẫn. Để đơn giản, miêu tả sau đây chỉ giới hạn hoạt động của một pin năng lượng tinh thể silic.
+Nguyên tố Silic thuộc nhóm IVA trong bảng tuần hoàn các nguyên tố hóa học, tức là có 4 electron lớp ngoài cùng. Silic nguyên tố không tìm thấy trong tự nhiên mà tồn tại dạng hợp chất phân tử ở thể rắn. Cơ bản có 2 loại chất rắn silicon, là đa thù hình (không có trật tự sắp xếp) và tinh thể (các nguyên tử sắp xếp theo thứ tự dãy không gian 3 chiều). Pin năng lượng Mặt trời phổ biến nhất là dạng đa tinh thể silicon.
+Silic là vật liệu bán dẫn. Nghĩa là trong thể rắn của silic, tại một tầng năng lượng nhất định, electron có thể đạt được, và một số tầng năng lượng khác thì không được. Đơn giản hiểu là có lúc dẫn điện, có lúc không dẫn điện. Lý thuyết này căn cứ theo thuyết cơ học lượng tử.
+Ở nhiệt độ phòng thí nghiệm (khoảng 28 °C), Silic nguyên chất có tính dẫn điện kém (cơ học lượng tử giải thích mức năng lượng Fermi trong tầng trống). Trong thực tế, để tạo ra các phân tử silic có tính dẫn điện tốt hơn, chúng được thêm vào một lượng nhỏ các nguyên tử nhóm III hay V trong bảng tuần hoàn hóa học. Các nguyên tử này chiếm vị trí của nguyên tử silic trong mạng tinh thể, và liên kết với các nguyên tử silic bên cạnh tương tự tạo thành một mạng silic (mạng tinh thể). Tuy nhiên các phân tử nhóm III có 3 electron ngoài cùng và nguyên tử nhóm V có 5 electron ngoài cùng, vì thế nên có chỗ trong mạng tinh thể có dư electron còn có chỗ thì thiếu electron. Vì thế các electron thừa hay thiếu electron (gọi là lỗ trống) không tham gia vào các kết nối mạng tinh thể. Chúng có thể tự do di chuyển trong khối tinh thể. Silic kết hợp với nguyên tử nhóm III (nhôm hay gali) được gọi là loại bán dẫn p bởi vì năng lượng chủ yếu mang điện tích dương (positive), trong khi phần kết hợp với các nguyên tử nhóm V (phốt pho, asen) gọi là bán dẫn n vì mang năng lượng âm (negative). Lưu ý rằng cả hai loại n và p có năng lượng trung hòa, tức là chúng có cùng năng lượng dương và âm, loại bán dẫn n, loại âm có thể di chuyển xung quanh, tương tự ngược lại với loại p.
+
+
+== Vật liệu và hiệu suất ==
+Đã có nhiều loại vật liệu khác nhau được thử nghiệm chế tạo pin Mặt trời. Có hai tiêu chuẩn đánh giá, là hiệu suất và giá cả.
+Hiệu suất là tỉ số giữa năng lượng điện từ và năng lượng ánh sáng Mặt trời. Vào buổi trưa một ngày trời trong, ánh Mặt trời tỏa nhiệt khoảng 1000 W/m². trong đó 10% hiệu suất của 1 module 1 m² cung cấp năng lượng khoảng 100 W. hiệu suất của pin Mặt trời thay đổi từ 6% từ pin Mặt trời làm từ silic không thù hình, và có thể lên đến 30% hay cao hơn nữa.
+Có nhiều cách để nói đến giá cả của hệ thống cung cấp điện (chính xác là phát điện), là tính toán cụ thể giá thành sản xuất trên từng kilo Watt giờ điện (kWh). Hiệu năng của pin Mặt trời tạo dòng điện với sự bức xạ của Mặt trời là 1 yếu tố quyết định trong giá thành. Nói chung, với toàn hệ thống, là tổ hợp các tấm pin Mặt trời, thì hiệu suất là rất quan trọng. Và để tạo nên ứng dụng thực tế cho pin năng lượng, điện năng tạo nên có thể nối với mạng lưới điện sử dụng dạng chuyển đổi trung gian; trong các phương tiện di chuyển, thường sử dụng hệ thống ắc quy để lưu trữ nguồn năng lượng chưa sử dụng đến. Các pin năng lượng thương mại và hệ thống công nghệ cho nó có hiệu suất từ 5% đến 15%. Giá của 1 đơn vị điện từ 50 Eurocent/kWh (Trung Âu) giảm xuống tới 25 eurocent/kWh trong vùng có ánh Mặt trời nhiều.
+Ngày nay thì vật liệu chủ yếu chế tạo pin Mặt trời (và cho các thiết bị bán dẫn) là silic dạng tinh thể. Pin Mặt trời từ tinh thể silic chia ra thành 3 loại:
+Một tinh thể hay tinh thể đơn (module) sản xuất dựa trên quá trình Czochralski. Đơn tinh thể loại này có hiệu suất tới 16%. Chúng thường rất đắt tiền do được cắt từ các thỏi silic hình ống, các tấm đơn thể này có các mặt trống ở góc nối các module.
+Đa tinh thể làm từ các thỏi đúc - đúc từ silic nung chảy cẩn thận được làm nguội và làm rắn. Các pin này thường rẻ hơn các đơn tinh thể, tuy nhiên hiệu suất kém hơn. Tuy nhiên chúng có thể tạo thành các tấm vuông che phủ bề mặt nhiều hơn đơn tinh thể bù lại cho hiệu suất thấp của nó.
+Dải silic tạo từ các miếng phim mỏng từ silic nóng chảy và có cấu trúc đa tinh thể. Loại này thường có hiệu suất thấp nhất, tuy nhiên loại này rẻ nhất trong các loại vì không cần phải cắt từ thỏi silicon.
+Nền tảng chế tạo dựa trên Công nghệ sản suất tấm mỏng, có độ dày 300 μm và xếp lại để tạo nên các module tạo thành các loại pin trên.
+
+
+== Sự chuyển đổi ánh sáng ==
+Khi một photon chạm vào một mảnh silic, một trong hai điều sau sẽ xảy ra:
+Photon truyền trực xuyên qua mảnh silic. Điều này thường xảy ra khi năng lượng của photon thấp hơn năng lượng đủ để đưa các hạt electron lên mức năng lượng cao hơn.
+Năng lượng của photon được hấp thụ bởi silic. Điều này thường xảy ra khi năng lượng của photon lớn hơn năng lượng để đưa electron lên mức năng lượng cao hơn.
+Khi photon được hấp thụ, năng lượng của nó được truyền đến các hạt electron trong mạng tinh thể. Thông thường các electron này lớp ngoài cùng, và thường được kết dính với các nguyên tử lân cận vì thế không thể di chuyển xa. Khi electron được kích thích, trở thành dẫn điện, các electron này có thể tự do di chuyển trong bán dẫn. Khi đó nguyên tử sẽ thiếu 1 electron và đó gọi là "lỗ trống". Lỗ trống này tạo điều kiện cho các electron của nguyên tử bên cạnh di chuyển đến điền vào "lỗ trống", và điều này tạo ra lỗ trống cho nguyên tử lân cận có "lỗ trống". Cứ tiếp tục như vậy "lỗ trống" di chuyển xuyên suốt mạch bán dẫn.
+Một photon chỉ cần có năng lượng lớn hơn năng lượng đủ để kích thích electron lớp ngoài cùng dẫn điện. Tuy nhiên, tần số của Mặt trời thường tương đương 6000°K, vì thế nên phần lớn năng lượng Mặt trời đều được hấp thụ bởi silic. Tuy nhiên hầu hết năng lượng Mặt trời có tác dụng nhiệt nhiều hơn là năng lượng điện sử dụng được.
+
+
+== Xem thêm ==
+Tấm năng lượng Mặt trời
+Điốt quang
+Công nghệ thân thiện môi trường
+Năng lượng Mặt trời
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Pin mặt trời tại Từ điển bách khoa Việt Nam
+Solar cell tại Encyclopædia Britannica (tiếng Anh)
+Việt Nam khuyến khích đầu tư điện Mặt trời

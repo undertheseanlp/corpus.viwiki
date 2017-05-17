@@ -1,0 +1,103 @@
+Khủng hoảng tài chính Hoa Kỳ 2007-2009 là cuộc khủng hoảng trong nhiều lĩnh vực tài chính (tín dụng, bảo hiểm, chứng khoán) diễn ra từ năm 2007 cho đến tận nay. Cuộc khủng hoảng này bắt nguồn từ cuộc khủng hoảng tín dụng nhà ở thứ cấp. Và bản thân nó lại là nguồn gốc trực tiếp của cuộc khủng hoảng tài chính toàn cầu 2007-2010.
+
+
+== Nguyên nhân ==
+
+
+=== Chứng khoán hóa ===
+
+Các sản phẩm chứng khoán hóa xuất hiện từ đầu thập niên 1970 và phát triển mạnh trong môi trường chính sách tiền tệ được nới lỏng từ năm 2001.
+Chứng khoán hóa và việc ra đời các sản phẩm của quá trình này như chứng khoán đảm bảo bằng tài sản thế chấp (MBS), giấy nợ đảm bảo bằng tài sản (CDO) và các loại tương tự là một phát minh lớn về công cụ tài chính. Tuy nhiên, vì có ít nhất tới 4 loại chủ thể kinh tế liên quan đến chứng khoán hóa (thay vi 2 loại chủ thế kinh tế là người thế chấp - đi vay và tổ chức tín dụng cho vay - nhận thế chấp như giao dịch tín dụng truyền thống), vì sự xuất hiện của bảo hiểm cho các sản phẩm chứng khoán hóa như hợp đồng hoán đổi tổn thất tín dụng (CDS), vì sự ra đời của các thể chế như các thể chế mục đích đặc biệt (SPV) và những công cụ đầu tư kết cấu (SIV) để mua bán MBS và CDO, nên đã tồn tại những rủi ro hệ thống bao gồm cả rủi ro đạo đức và lựa chọn trái ý. Trong khi đó, mô hình giám sát tài chính của Hoa Kỳ trước khủng hoảng không đủ năng lực giám sát các rủi ro này.
+Những rủi ro mang tính hệ thống đã tồn tại và một khi sự cố đối với bong bóng thị trường tài sản xảy ra thì những rủi ro này sẽ làm mất lòng tin ghê gớm của các bên liên quan. Thêm vào đó, việc thực hành cho vay liên ngân hàng sẽ làm cho những tổn thất tín dụng lây lan ra toàn hệ thống ngân hàng; một ngân hàng phá sản sẽ kéo theo nhiều ngân hàng khác phá sản. Và mất lòng tin ở người gửi tiền gây ra đột biến rút tiền gửi còn làm cho tình hình thêm nghiêm trọng và diễn ra nhanh chóng hơn.hkh
+Thực tế, thị trường nhà ở bắt đầu tự điều chỉnh từ năm 2005 khiến cho giá nhà đất giảm và chất lượng tài sản đảm bảo cho các MBS và các CDO giảm theo. Rủi ro mang tính hệ thống đã làm cho khủng hoảng tín dụng nhà ở thứ cấp nổ ra vào tháng 5 năm 2006 khi mà nhiều tổ chức phát hành MBS và CDO cũng như một số tổ chức tài chính mà trong danh mục tài sản của mình có nhiều MBS và CDO sụp đổ. Tiếp theo đó, khủng hoảng tài chính nổ ra vào tháng 8 năm 2007 khi đến lượt cả các SPV và SIV cũng sụp đổ, rồi phát triển thành khủng hoảng tài chính toàn cầu từ tháng 9/2008 khi cả những tổ chức tài chính khổng lồ như Lehman Brothers sụp đổ.
+
+
+=== Bong bóng thị trường nhà ở ===
+
+Sau khi bong bóng Dot-com vỡ vào năm 2001 và suy thoái kinh tế hiện rõ sau sự kiện 11 tháng 9, Cục Dự trữ Liên bang Hoa Kỳ đã có những biện pháp tiền tệ để cứu nền kinh tế nước này khỏi suy thoái, đó là hạ lãi suất cho vay qua đêm liên ngân hàng.. Chỉ trong thời gian ngắn từ tháng 5 năm 2001 đến tháng 12 năm 2002, lãi suất liên ngân hàng giảm 11 đợt từ 6,5% xuống còn 1,75%. Tín dụng thứ cấp cũng giảm lãi suất theo. Điều này kích thích sự phát triển của khu vực bất động sản và ngành xây dựng làm động lực cho tăng trưởng kinh tế. Trong môi trường tín dụng dễ dãi, những tổ chức tài chính đã có xu hướng cho vay mạo hiểm, kể cả cho những người nhập cư bất hợp pháp vay. Hệ quả là vay và đi vay ồ ạt nhằm mục đích đầu cơ dẫn tới hình thành bong bóng nhà ở. Năm 2005, có tới 28% số nhà được mua là để nhằm mục đích đầu cơ và 12% mua chỉ để không. Năm này, bong bóng nhà ở này phát triển đến mức cực đại và vỡ. Từ quý IV năm 2005 đến quý I năm 2006, giá trị trung vị của giá nhà giảm 3,3%. Thời điểm đó, tổng giá trị lũy tích các khoản tín dụng nhà ở thứ cấp lên đến 600 tỷ dollar.
+Sau khi bong bóng nhà ở vỡ, các cá nhân gặp khó khăn trong việc trả nợ. Nhiều tổ chức tín dụng cho vay mua nhà gặp khó khăn vì không thu hồi được nợ. Giá nhà ở giảm nhanh khiến cho các loại giấy nợ đảm bảo bằng tài sản (CDO - viết tắt của collateralized debt obligations) và chứng khoán đảm bảo bằng tài sản thế chấp (MBS - viết tắt của mortgage-backed security) do các tổ chức tài chính phát hành bị giảm giá nghiêm trọng. Kết quả là bảng cân đối tài sản của các tổ chức này xấu đi và xếp hạng tín dụng của họ bị các tổ chức đánh giá đánh tụt. Cuộc khủng hoảng tín dụng nhà ở thứ cấp nổ ra.
+Nguyên Chủ tịch Fed Alan Greenspan sau này thừa nhận rằng ông đã không nhận thức hết quy mô của thị trường tín dụng nhà ở thứ cấp.
+
+
+== Diễn biến của khủng hoảng ==
+
+Tháng 8 năm 2007, một số tổ chức tín dụng của Mỹ như New Century Financial Corporation phải làm thủ tục xin phá sản. Một số khác thì rơi vào tình trạng cổ phiếu của mình mất giá mạnh như Countrywide Financial Corporation. Nhiều người gửi tiền ở các tổ chức tín dụng này đã lo sợ và đến rút tiền, gây ra hiện tượng đột biến rút tiền gửi khiến cho các tổ chức đó càng thêm khó khăn. Nguy cơ khan hiếm tín dụng hình thành. Cuộc khủng hoảng tài chính thực thụ chính thức nổ ra.
+Từ Mỹ, rối loạn này lan sang các nước khác. Ở Anh quốc, ngân hàng Northern Rock bị chao đảo vì người gửi tiền xếp hàng đòi rút tiền gửi của mình ra.
+Trước tình hình đó, Cục Dự trữ Liên bang Mỹ đã tiến hành các biện pháp nhằm tăng mức độ thanh khoản của thị trường tín dụng chẳng hạn như thực hiện nghiệp vụ thị trường mở mua vào các loại công trái Mỹ, trái phiếu cơ quan chính phủ Mỹ và trái phiếu cơ quan chính phủ Mỹ đảm bảo theo tín dụng nhà ở. Tháng Chín 2007, Cục Dự trữ Liên bang còn tiến hành giảm lãi suất cho vay qua đêm liên ngân hàng (Fed fund rates) từ 5,25% xuống 4,75%. Trong khi đó, Ngân hàng Trung ương châu Âu đã bơm 205 tỷ Dollar Mỹ vào thị trường tín dụng để nâng cao mức thanh khoản.
+Tháng 12 năm 2007, cuộc khủng hoảng tiến sang nấc trầm trọng hơn khi những báo cáo kinh tế cuối năm cho thấy sự điều chỉnh của thị trường bất động sản diễn ra lâu hơn dự tính và quy mô của khủng hoảng cũng rộng hơn dự tính. Tình trạng đói tín dụng trở nên rõ ràng. Hệ thống dự trữ liên bang cố gắng giảm mạnh lãi suất liên ngân hàng vào tháng 12/2007 và tháng 2 năm 2008 nhưng không có hiệu quả như mong đợi.
+Tháng 3 năm 2008, Ngân hàng dự trữ liên bang New York cố cứu Bear Sterns, nhưng không nổi. Công ty này chấp nhận để JP Morgan Chase mua lại với giá 10 dollar một cổ phiếu, nghĩa là thấp hơn rất nhiều với giá 130,2 dollar một cổ phiếu lúc đắt giá nhất trước khi khủng hoảng nổ ra. Việc Ngân hàng dự trữ liên bang New York cứu không nổi Bear Sterns và buộc lòng để công ty này bị bán đi với giá quá rẻ đã khiến cho sự lo ngại về năng lực can thiệp của chính phủ cứu viện các tổ chức tài chính gặp khó khăn. Sự sụp đổ của Bear Stern đã đẩy cuộc khủng hoảng lên nấc thang trầm trọng hơn.
+Tháng 8 năm 2008, đến lượt Lehman Brothers, một tổ chức tài chính vào loại lớn nhất và lâu đời nhất của Mỹ, bị phá sản. Tiếp sau Lehman là một số công ty khác. Tháng 9 năm 2008, Thượng viện Hoa Kỳ thông qua Đạo luật Ổn định Kinh tế Khẩn cấp 2008 cho phép bộ trưởng Tài chính Hoa Kỳ chi tới 700 tỷ USD cứu nền tài chính của nước này bằng cách mua lại các khoản nợ xấu của ngân hàng, đặc biệt là các chứng khoán đảm bảo bằng bất động sản.
+
+
+== Tác động ==
+
+
+=== Đối với Hoa Kỳ ===
+
+Cuộc khủng hoảng này là nguyên nhân chính làm cho kinh tế Hoa Kỳ rơi vào suy thoái từ tháng 12 năm 2007. NBER dự đoán đây sẽ là đợt suy thoái nghiêm trọng nhất ở Hoa Kỳ kể từ sau Chiến tranh thế giới thứ hai. Bình quân mỗi tháng từ tháng 1 tới tháng 9 năm 2008, có 84 nghìn lượt người lao động Hoa Kỳ bị mất việc làm.
+Hàng loạt tổ chức tài chính trong đó có những tổ chức tài chính khổng lồ và lâu đời bị phá sản đã đẩy kinh tế Hoa Kỳ vào tình trạng đói tín dụng. Đến lượt nó, tình trạng đói tín dụng lại ảnh hưởng đến khu vực sản xuất khiến doanh nghiệp phải thu hẹp sản xuất, sa thải lao động, cắt giảm các hợp đồng nhập đầu vào. Thất nghiệp gia tăng ảnh hưởng tiêu cực đến thu nhập và qua đó tới tiêu dùng của các hộ gia đình lại làm cho các doanh nghiệp khó bán được hàng hóa. Nhiều doanh nghiệp bị phá sản hoặc có nguy cơ bị phá sản, trong đó có cả 3 nhà sản xuất ô tô hàng đầu của Hoa Kỳ là General Motors, Ford Motor và Chrysler LLC. Các nhà lãnh đạo 3 hãng ô tô này đã nỗ lực vận động Quốc hội Hoa Kỳ cứu trợ, nhưng không thành công. Hôm 12 tháng 12 năm 2008, GM đã phải tuyên bố tạm thời đóng cửa 20 nhà máy của hãng ở khu vực Bắc Mỹ. Tiêu dùng giảm, hàng hóa ế thừa đã dẫn tới mức giá chung của nền kinh tế giảm liên tục, đẩy kinh tế Hoa Kỳ tới nguy cơ có thể bị giảm phát.
+Cuộc khủng hoảng còn làm cho dollar Mỹ lên giá. Do dollar Mỹ là phương tiện thanh toán phổ biến nhất thế giới hiện nay, nên các nhà đầu tư toàn cầu đã mua dollar để nâng cao khả năng thanh khoản của mình, đẩy dollar Mỹ lên giá. Điều này làm cho xuất khẩu của Hoa Kỳ bị thiệt hại.
+Xem thêm: Khủng hoảng ngành chế tạo ô tô Hoa Kỳ 2008-2010.
+
+
+=== Đối với thế giới ===
+
+Hoa Kỳ là thị trường nhập khẩu quan trọng của nhiều nước, do đó khi kinh tế suy thoái, xuất khẩu của nhiều nước bị thiệt hại, nhất là những nước theo hướng xuất khẩu ở Đông Á. Một số nền kinh tế ở đây như Nhật Bản, Đài Loan, Singapore và Hong Kong rơi vào suy thoái. Các nền kinh tế khác đều tăng trưởng chậm lại.
+Châu Âu vốn có quan hệ kinh tế mật thiết với Hoa Kỳ chịu tác động nghiêm trọng cả về tài chính lẫn kinh tế. Nhiều tổ chức tài chính ở đây bị phá sản đến mức trở thành khủng hoảng tài chính ở một số nước như Iceland, Nga. Các nền kinh tế lớn nhất khu vực là Đức và Ý rơi vào suy thoái, và Anh, Pháp, Tây Ban Nha cùng đều giảm tăng trưởng. Khu vực đồng Euro chính thức rơi vào cuộc suy thoái kinh tế đầu tiên kể từ ngày thành lập.
+Các nền kinh tế Mỹ Latinh cũng có quan hệ mật thiết với kinh tế Hoa Kỳ, nên cũng bị ảnh hưởng tiêu cực khi các dòng vốn ngắn hạn rút khỏi khu vực và khi giá dầu giảm mạnh. Ecuador tiến đến bờ vực của một cuộc khủng hoảng nợ.
+Kinh tế các khu vực trên thế giới tăng chậm lại khiến lượng cầu về dầu mỏ cho sản xuất và tiêu dùng giảm cũng như giá dầu mỏ giảm. Điều này lại làm cho các nước xuất khẩu dầu mỏ bị thiệt hại. Đồng thời, do lo ngại về bất ổn định xảy ra đã làm cho nạn đầu cơ lương thực nổ ra, góp phần dẫn tới giá lương thực tăng cao trong thời gian cuối năm 2007 đầu năm 2008, tạo thành một cuộckhủng hoảng giá lương thực toàn cầu. Nhiều thị trường chứng khoán trên thế giới gặp phải đợt mất giá chứng khoán nghiêm trọng. Các nhà đầu tư chuyển danh mục đầu tư của mình sang các đơn vị tiền tệ mạnh như dollar Mỹ, yên Nhật, franc Thụy Sĩ đã khiến cho các đồng tiền này lên giá so với nhiều đơn vị tiền tệ khác, gây khó khăn cho xuất khẩu của Mỹ, Nhật Bản, Thụy Sĩ và gây rối loạn tiền tệ ở một số nước buộc họ phải xin trợ giúp của Quỹ Tiền tệ Quốc tế. Hàn Quốc rơi vào khủng hoảng tiền tệ khi won liên tục mất giá từ đầu năm 2008.
+Xem thêm: Khủng hoảng tài chính 2007-2010.
+
+
+== Phản ứng của chính phủ Hoa Kỳ ==
+
+
+=== Cục Dự trữ Liên bang ===
+
+Ngay khi khủng hoảng tín dụng nhà ở thứ cấp nổ ra, Fed bắt đầu can thiệp bằng cách hạ lãi suất và tăng mua MBS. Đến khi tình hình phát triển thành khủng hoảng tài chính từ tháng 8 năm 2007, Cục Dự trữ Liên bang Hoa Kỳ (Fed) đã tiếp tục tiến hành các biện pháp nới lỏng tiền tệ để tăng thanh khoản cho các tổ chức tài chính. Cụ thể là lãi suất cho vay qua đêm liên ngân hàng đã được giảm từ 5,25% qua 6 đợt xuống còn 2% chỉ trong vòng chưa đầy 8 tháng (18/9/2007-30/4/2008). Lãi suất này sau đó còn tiếp tục giảm và đến ngày 16/12/2008 chỉ còn 0,25%, mức lãi suất gần 0 hiếm thấy.
+Fed còn thực hiện nghiệp vụ thị trường mở (mua lại các trái phiếu chính phủ Hoa Kỳ mà các tổ chức tài chính nước này có) và hạ lãi suất tái chiết khấu. Giữa tháng 12 năm 2008, Fed tuyên bố có kế hoạch thực hiện chính sách nới lỏng tiền tệ mặt lượng.
+Tháng 12 năm 2007, Chính phủ Hoa Kỳ đã lập ra và giao cho Fed chủ trì chương trình Term Auction Facility để cấp các khoản vay ngắn hạn có kỳ hạn từ 28 đến 84 ngày theo lãi suất cao nhất mà các tổ chức tài chính trả qua đấu giá. Tính đến tháng 11 năm 2008, đã có 300 tỷ dollar được FED đem cho vay theo chương trình này. FED còn tiến hành cho vay thế chấp đối với các tổ chức tài chính với số tiền tổng cộng tới 1,6 nghìn tỷ tính đến tháng 11 năm 2008.
+
+
+=== Chính phủ ===
+
+Ngày 13 tháng 2 năm 2008, Tổng thống George W. Bush đã ký Economic Stimulus Act of 2008 theo đó chính phủ sẽ áp dụng một chương trình kích cầu tổng hợp trị giá 168 tỷ dollar chủ yếu dưới hình thức hoàn thuế thu nhập cá nhân.
+Trước tình hình khủng hoảng tài chính nghiêm trọng, chính quyền Bush đã trình quốc hội thông qua gói tài chính 700 tỷ dollar. Ban đầu Hạ viện Hoa Kỳ do Đảng Dân chủ Hoa Kỳ chiếm đa số bác bỏ vì cho rằng không thể phí tiền để cứu không được quá nhiều tổ chức tài chính gặp khó khăn. Song sau khi kế hoạch sử dụng 700 tỷ dollar được điều chỉnh sang hướng chi cho cả các chương trình phục vụ đông đảo người dân nhằm kích thích tiêu dùng (như trợ giúp cho người thất nghiệp, hỗ trợ dinh dưỡng cho người nghèo và người thu nhập thấp, phát triển cơ sở hạ tầng), qua đó vực dậy nền kinh tế, nó đã được Thượng viện thông qua. Ngày 3 tháng 10 năm 2008, Tổng thống Bush đã ký Emergency Economic Stabilization Act of 2008 cho phép thực hiện gói kích thích 700 tỷ dollar này.
+
+
+=== Kế hoạch của Barack Obama ===
+
+Barack Obama, tổng thống thứ 44 của Hoa Kỳ, sau khi trúng cử đã nêu ra một chương trình kích thích kinh tế trong đó Hoa Kỳ sẽ tiến hành kích cầu bằng:
+Những dự án phát triển cơ sở hạ tầng chưa từng có kể từ thập niên 1950;
+Nâng cấp hệ thống sử dụng năng lượng của các văn phòng cơ quan chính phủ Hoa Kỳ theo hướng tiết kiệm năng lượng; Đầu tư lớn cho phát triển công nghệ nhất là thông tin y tế điện tử, hệ thống máy tính cho các trường phổ thông và phát triển mạng Internet băng thông rộng;
+Cấp thêm ngân sách cho Chương trình bảo hiểm y tế (Medicaid).
+Cấp thêm 50 tỷ dollar ngoài khoản 20 tỷ dollar đã được đồng ý cho ngành công nghiệp ô tô với điều kiện là ngành này phải cải tổ đáng kể.
+
+
+=== The Obama-Biden Plan ===
+
+Chương trình nghị sự phục hồi kinh tế của Tổng thống và Phó Tổng thống mới có nội dung:
+Hành động khẩn cấp để tạo việc làm cho người Mỹ;
+Trợ giúp khẩn cấp cho các hộ gia đình gặp khó khăn;
+Trợ giúp trực tiếp và khẩn cấp cho người sở hữu nhà, thay vì cứu trợ các tổ chức tài chính cho vay nhà ở thế chấp vô trách nhiệm;
+Phản ứng nhanh, mạnh với khủng hoảng tài chính bằng tất cả các công cụ mà nước Mỹ có.
+Ngày 17 tháng 2 năm 2009, Barack Obama đã ký American Recovery and Reinvestment Act. Đạo luật này cho phép Chính phủ thực hiện gói kích thích thứ hai kể từ khi khủng hoảng nổ ra. Gói kích thích này trị giá 787 tỷ dollar.
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Khủng hoảng kinh tế châu Á 1997
+Khủng hoảng tín dụng nhà ở thứ cấp
+Khủng hoảng ngành chế tạo ô tô Hoa Kỳ 2008-2010
+Khủng hoảng tài chính toàn cầu năm 2008
+
+
+== Liên kết ngoài ==
+Báo Kinh tế & Đô thị: "Năm 2008: TTCK Mỹ– thành quả tăng điểm 6 năm "tan thành mây khói"."
+VnExpress: "Chứng khoán thế giới 'thở phào' khi năm 2008 kết thúc."
+President George W. Bush's Address to the Nation
+Trần Văn Thọ và Trần Lê Anh (2008), "Cuộc khủng hoảng hình thành như thế nào?" Báo Thanh Niên.
+Trần Văn Thọ và Trần Lê Anh (2008), "Giải cứu" Báo Thanh Niên.
+Trần Văn Thọ và Trần Lê Anh (2008), "Kinh tế Mỹ sẽ đi về đâu?" Báo Thanh Niên.

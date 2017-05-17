@@ -1,0 +1,12 @@
+Bit viết tắt của Binary digIT là đơn vị thông tin. Một bit có thể nhận một trong hai giá trị: 0 hoặc 1. Nó có thể được biểu diễn theo nhiều cách khác nhau. Có thể là trạng thái đóng hay mở của mạch điện, một vệt khắc bằng tia laser trên bề mặt đĩa CD v.v... Các bit có thể dùng để thể hiện số tự nhiên trong hệ nhị phân.
+
+
+== Xem thêm ==
+byte
+octet
+nibble
+Hệ nhị phân
+qubit
+
+
+== Tham khảo ==

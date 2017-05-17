@@ -1,0 +1,67 @@
+Hợp đồng là một cam kết giữa hai hay nhiều bên (pháp nhân) để làm hoặc không làm một việc nào đó trong khuôn khổ pháp luật. Hợp đồng thường gắn liền với dự án, trong đó một bên thỏa thuận với các bên khác thực hiện dự án hay một phần dự án cho mình. Và cũng giống như dự án, có dự án chính trị xã hội và dự án sản xuất kinh doanh, hợp đồng có thể là các thỏa ước dân sự về kinh tế (hợp đồng kinh tế) hay xã hội.
+Hợp đồng có thể được thể hiện bằng văn bản hay bằng lời nói có thể có người làm chứng, nếu vi phạm hợp đồng hay không theo cam kết thì 2 bên sẽ cùng nhau ra tòa và bên thua sẽ chịu mọi phí tổn.
+
+
+== Sử dụng ==
+Nội dung cơ bản nhất cấu thành hợp đồng là chào mời của một bên và chấp thuận của bên kia. Thông thường, một hợp đồng được làm bằng văn bản. Các hợp đồng dân sự mang tính xã hội, như: hợp đồng cho tặng, thừa kế (di chúc), v.v... Các hợp đồng kinh tế ví dụ như hợp đồng mua sắm hay thuê dịch vụ hay vật dụng hàng hóa, hợp đồng bảo hiểm, tín dụng ngân hàng, v.v...
+
+
+== Cấu trúc ==
+Trong một hợp đồng làm bằng văn bản, các nội dung cần thiết được thể hiện là:
+Tên và thông tin địa chỉ các bên
+Thông điệp nêu rõ sự đồng ý trên thỏa thuận
+Nội dung và phạm vi công việc thực hiện/hàng hóa được mua bán
+Giá cả và số lượng hàng hóa
+Quy cách hàng hóa
+Thời điểm và phương thức giao hàng
+Phương thức giải quyết tranh chấp, luật áp dụng và tòa thụ lý nếu có tranh tụng
+Bảo mật thông tin
+Các điều khoản chung và thời hiệu hợp đồng
+
+
+== Hợp đồng dân sự xã hội ==
+Hợp đồng dân sự là sự thoả thuận giữa các bên về việc xác lập, thay đổi và chấm dứt quyền và nghĩa vụ dân sự.
+
+
+== Hợp đồng kinh tế ==
+
+
+=== Hợp đồng mua bán hàng hoá ===
+
+
+=== Hợp đồng bảo hiểm ===
+
+
+=== Hợp đồng phân phối, đại lý và trung gian ===
+
+
+=== Hợp đồng sở hữu trí tuệ ===
+
+
+=== Hợp đồng liên doanh ===
+
+
+=== Hợp đồng hàng hải (Vận đơn, Hợp đồng thuê tàu) ===
+
+
+=== Hợp đồng lao động ===
+
+
+=== Các loại hợp đồng dự án xây dựng ===
+Hợp đồng kinh tế là hợp đồng dân sự được thỏa thuận bằng văn bản giữa hai bên về việc xác lập, thay đổi hoặc chấm dứt quyền, nghĩa vụ, trách nhiệm của các bên để thực hiện một, một số hay toàn bộ công việc trong hoạt động xây dựng và thực hiện kế hoạch của mình.
+Năm 1999, Hiệp hội Quốc tế các Kỹ sư Tư vấn (FIDIC) công bố các mẫu hợp đồng tiêu chuẩn sau:
+Hợp đồng xây dựng (hợp đồng giao nhận thầu xây lắp) áp dụng cho các dự án xây lắp công trình xây dựng hoặc công trình kỹ thuật, mà đã được thiết kế trước bởi chủ đầu tư hay nhà tư vấn đại diện của chủ đầu tư, giao cho nhà thầu thi công thực hiện xây dựng và lắp đặt.
+Hợp đồng Thiết kế-Xây dựng: Chủ đầu tư thỏa thuận giao cho nhà thầu thiết kế và thi công xây lắp một dự án xây dựng.
+Hợp đồng tổng thầu EPC (Kỹ thuật-Mua sắm-Xây dựng)/chìa khóa trao tay (turnkey projects). Loại hợp đồng này, nhà thầu chịu trách nhiệm toàn bộ về thiết kế, mua sắm và thi công công trình, thực hiện tất cả các công việc về kỹ thuật, mua sắm, xây dựng và lắp đặt dây chuyền công nghệ của một nhà máy, dự án kết cấu hạ tầng. Nhà thầu cung cấp một công trình trang bị đầy đủ, sẵn sàng đưa vào hoạt động. Chủ đầu tư chỉ còn mỗi việc là "vặn chìa khóa" để sử dụng.
+Hợp đồng ngắn gọn áp dụng cho các công trình kiến trúc hay công trình kỹ thuật có giá trị vốn tương đối nhỏ, công việc tương đối đơn giản, lặp đi lặp lại hay công việc làm trong một thời gian ngắn.
+Các mẫu hợp đồng xây dựng tiêu chuẩn này của FIDIC thường được áp dụng cho các dự án xây dựng quốc tế, các dự án xây dựng sử dụng vốn ODA.
+
+
+== Tham khảo ==
+
+Sách Điều kiện hợp đồng FIDIC của Hiệp hội Quốc tế các Kỹ sư Tư vấn.
+Trang web của Trung tâm trọng tài quốc tế Việt Nam
+
+
+== Xem thêm ==
+Chế định hợp đồng trong Luật dân sự Việt Nam

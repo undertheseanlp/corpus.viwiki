@@ -1,0 +1,64 @@
+Thiên hà Xoáy Nước (còn gọi là Messier 51a, M51a, hay NGC 5194) là thiên hà xoắn ốc tương tác thiết kế lớn nằm cách Ngân Hà xấp xỉ 31 triệu năm ánh sáng trong chòm sao Lạp Khuyển. Đây là một trong những thiên hà nổi tiếng trên bầu trời. Thiên hà này và thiên hà đồng hành (NGC 5195) có thể được các nhà thiên văn nghiệp dư quan sát dễ dàng, thậm chí có thể nhìn chúng qua ống nhòm. Thiên hà Xoáy Nước cũng là mục tiêu quan sát đối với các nhà thiên văn, khi họ nghiên cứu về cấu trúc của thiên hà (đặc biệt là các nhánh xoắn ốc và thiên hà tương tác).
+
+
+== Phát hiện ==
+
+Charles Messier phát hiện ra thiên hà Xoáy Nước vào năm 1774 và ông ký hiệu nó là M51 trong danh lục của minh. Thiên hà đồng hành với nó, NGC 5195, được Pierre Méchain phát hiện ra năm 1781. Tuy vậy cho đến tận năm 1845 người ta mới nhận ra là thiên hà này có cấu trúc xoắn ốc. Người phát hiện ra điều này là Lord Rosse bằng sử dụng kính thiên văn phản xạ 72-inch (~1,83 m) ở Lâu đài Birr, Ireland. Thỉnh thoảng, M51 được coi là cặp thiên hà, và trong một số trường hợp người ta gọi chúng lần lượt là M51A (NGC 5194) và M51B (NGC 5195).
+Năm 2005, supernova (SN 2005cs) đã được quan sát thấy trong thiên hà Xoáy Nước với cấp sao biểu kiến cực đại của siêu tân tinh bằng 14.
+
+
+== Đặc điểm ==
+Nhờ quan sát được SN 2005cs mà người ta ước lượng khoảng cách đến thiên hà là 23 Mly (không có số liệu chính xác về khoảng cách do việc đo đạc đến các thiên hà ở xa là khó), và đường kính góc xấp xỉ 11,2′, và đường kính của đĩa thiên hà vào khoảng 76.000 năm ánh sáng. Khối lượng của nó vào khoảng 160 tỷ lần khối lượng Mặt Trời.
+
+Người ta cho rằng tồn tại một lỗ đen được bao xung quanh bởi các vành bụi nằm ở tâm thiên hà. Vành bụi chính có hướng gần như vuông góc với nhánh xoắn ốc phẳng của thiên hà. Một vành bụi khác cắt chéo vành bụi chính và có một cặp nón chứa các nguyên tử bị ion hóa mở rộng từ trục của vành bụi chính.
+
+
+=== Cấu trúc xoắn ốc ===
+M51A có cấu trúc xoắn ốc điển hình với những vùng sản sinh sao trên những nhánh này. Người ta cho rằng cấu trúc xoắn ốc này cũng bị ảnh hưởng bởi sự tương tác giữa nó và thiên hà M51B.
+
+
+== Hình ảnh và quan sát ==
+Nằm trong chòm sao Lạp Khuyển, M51 có thể tìm thấy với mốc là ngôi sao Alkaid (hay Eta Ursae Majoris, Dao Quang) trong mảng sao Bắc Đẩu, sau đó dịch về hướng đông nam 3,5°. Xích vĩ của thiên hà gần +47° nên đối với những người quan sát bên trên vĩ độ 43° Bắc thiên hà này không bao giờ lặn xuống dưới đường chân trời; nó nằm trên cao trên toàn bán cầu bắc do vậy có thể quan sát nó ở những giờ đầu tiên trong mùa đông cho đến những giờ cuối của mùa xuân. Ở các vĩ độ thấp hơn hay ở bán cầu nam sẽ rất khó quan sát nó.
+M51 hiện lên qua kính nhòm trong điều kiện bầu trời tối tốt và có thể phân giải thành các chi tiết với một kính thiên văn nghiệp dư. Khi nhìn qua kính 100 mm những phác họa cơ bản và thiên hà đồng hành với nó sẽ hiện lên. Khi bầu trời tối đen, bằng một kính thiên văn có thị kính 150 mm thì cấu trúc nội tại xoắn ốc của M51 sẽ hiện lên. Với những kính lớn hơn (>300 mm) và quan sát trong điều kiện bầu trời tối, những dải xoắn ốc khác nhau hiện lên nổi bật với đặc điểm các vùng HII trong chúng, avà M51 hiện lên cùng với thiên hà đồng hành M51B.
+Như thường lệ đối với các thiên hà, việc quan sát thấy sự mở rộng thật sự của cấu trúc thiên hà chỉ có thể thu được qua các ảnh khảo sát, với thời gian phơi sáng lâu sẽ lộ ra vùng tinh vân mở rộng vượt ra ngoài cấu trúc đĩa thiên hà.
+Tháng 1 năm 2005 đội di sản Hubble (Hubble Heritage Team) dựng lên một bức ảnh độ phân giải 11477x7965 pixel (ảnh trong hộp thông tin ở trên) về M51 sử dụng thiết bị ACS trên kính Hubble.
+
+
+== Sự hình thành sao ==
+Induced spiral structure in the larger galaxy isn't the only effect of the interaction. Significant compression of hydrogen gas occurs that leads to the development of starbirth regions. In pictures of M51 these show up as the bright blue 'knots' throughout the spiral arms.
+Generally speaking, hydrogen gas is the most common component of the interstellar medium (the vast space between stars and planetary systems in galaxies). It exists primarily in its atomic and molecular form, and forms huge clouds throughout the entire galaxy. When large sources of gravitational pull pass nearby, such as other galaxies, gravitational interactions produce compression (density) waves that sweep through these hydrogen clouds. This causes some regions of the previously diffuse gas to compress into tight pockets of opaque and dense gas, these are dust lanes one so often sees in the spiral arms. In regions where the concentration and density of gas reaches a critical value, further collapse under its own gravitational pull occurs, and stars are born at the center of the collapse, where the gas is compressed so strongly that fusion initiates.
+When this happens, these new-born stars gobble up huge amounts of gas causing them to expand, shine even hotter, and finally sweep away the surrounding layers of dust and gas by increasing efflux of the stellar wind. The gigantic proportions of the clouds out of which they are born means stars seldom, if ever, are created in isolation. Thus regions of several hot young stars emit sufficient light energy that they can be seen in the high resolution pictures of M51 across millions of lightyears distance.
+For an example of such a formation in our own galaxy, see M16, the Eagle Nebula.
+
+
+== Thiên hà đồng hành ==
+
+Decades ago, it was not known with certainty whether the companion galaxy NGC 5195 was a true companion, or another galaxy passing at a distance. The advent of radio astronomy and subsequent radio images of M51 unequivocally demonstrated the reality of the interaction.
+Recent simulations bear out that M51's spiral structure was caused by NGC 5195 passing through the main disk of M51 about 500 to 600 million years ago. In this model, NGC 5195 came from behind M51 through the disk towards the observer and made another disk crossing as recently as 50 to 100 Myrs ago until it is where we observe it to be now, slightly behind M51.
+
+
+== Nhóm thiên hà ==
+The Whirlpool Galaxy is the brightest galaxy in the M51 Group, a small group of galaxies that also includes M63 (the Sunflower Galaxy), NGC 5023, and NGC 5229. This small group may actually be a subclump at the southeast end of a large, elongated group that includes the M101 Group and the NGC 5866 Group, although most group identification methods and catalogs identify the three groups as separate entities.
+
+
+== Xem thêm ==
+Thiên thể Messier
+Đại Danh lục Mới
+Danh sách thiên hà
+NGC 5195 – thiên hà đồng hành với NGC 5194
+NGC 5457 – một thiên hà xoắn ốc thiết kế lớn
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+M51: Calar Alto Observatory
+SEDS: Spiral Galaxy M51
+NASA's APOD: The Whirlpool Galaxy in Dust and Stars (4/10/01)
+NightSkyInfo.com – The Whirlpool Galaxy
+Whirlpool Galaxy at ESA/Hubble
+The Whirlpool Galaxy (Messier 51(a)/NGC 5194)
+M51 The Whirlpool Galaxy
+
+Thiên hà Xoáy Nước trên WikiSky: DSS2, SDSS, IRAS, Hydrogen α, X-Ray, Astrophoto, Sky Map, Bài viết và hình ảnh

@@ -1,0 +1,35 @@
+Một múi giờ là một vùng trên Trái Đất mà người ta quy ước sử dụng cùng một thời gian tiêu chuẩn, thông thường được nói đến như là giờ địa phương. Về lý thuyết, các đồng hồ tại vùng này luôn chỉ cùng một thời gian.
+Trên Trái Đất, thời gian biến đổi dần dần từ Tây sang Đông. Tại một thời điểm xác định, có vùng đang là buổi sáng, có vùng khác lại đang là buổi tối. Trong lịch sử, người ta dùng vị trí Mặt Trời để xác định thời gian trong ngày (gọi là giờ Mặt Trời), và các thành phố nằm ở các kinh tuyến khác nhau có thời gian trên đồng hồ khác nhau. Khi ngành đường sắt và viễn thông phát triển, sự biến đổi liên tục về giờ giấc giữa các kinh tuyến gây trở ngại đáng kể. Các múi giờ được sinh ra để giải quyết phần nào vấn đề này. Các đồng hồ của từng vùng được lấy đồng bộ bằng thời gian tại kinh tuyến trung bình đi qua vùng. Mỗi vùng như vậy là một múi giờ.
+Có thể dùng 24 đường kinh tuyến chia bề mặt Trái Đất ra làm 24 phần bằng nhau, giúp cho chênh lệch giờ giữa các múi giờ là 1 giờ, một con số thuận tiện. Tuy nhiên, việc phân chia trên chỉ là cơ sở chung; các múi giờ cụ thể được xây dựng dựa trên các thỏa ước địa phương, có yếu tố quan trọng của việc thống nhất lãnh thổ quốc gia. Do vậy trên bản đồ thế giới, có thể thấy rất nhiều ngoại lệ, và chênh lệch giờ giữa một số múi giờ có thể không bằng 1 giờ.
+Mọi múi giờ trên Trái Đất đều lấy tương đối so với giờ UTC (xấp xỉ bằng giờ GMT trong lịch sử) là giờ tại kinh tuyến số 0, đi qua Đài thiên văn Hoàng gia Greenwich, Greenwich, Luân Đôn, Anh.
+Một số địa phương có thể thay đổi múi giờ theo mùa. Ví dụ như, vào mùa hè, một số nước ôn đới hoặc gần vùng cực thực hiện quy ước giờ mùa hè, chỉnh giờ sớm lên một giờ. Điều này khiến chênh lệch giờ giữa các địa phương thêm phức tạp.
+
+
+== Lịch sử ==
+Múi giờ đầu tiên trong lịch sử được ngành đường sắt Anh đặt ra vào ngày 1 tháng 12 năm 1847, gọi là múi giờ GMT. Các đồng hồ trong vùng này đều chỉ cùng giờ với đồng hồ đặt tại đường kinh tuyến đi qua Đài thiên văn Hoàng gia Greenwich. Ngày 23 tháng 8 năm 1852, tín hiệu thời gian được truyền lần đầu bằng điện tín từ Đài thiên văn Greenwich. Đến năm 1855, 98% các đồng hồ công cộng tại nước Anh có cùng giờ GMT, tuy nhiên phải đến ngày 2 tháng 8 năm 1880 thì giờ này mới được chính thức đưa vào luật.
+Đến năm 1929, đa số các nước áp dụng các múi giờ chênh nhau 1 giờ. Năm 1950, các múi giờ được ghi kèm thêm chữ cái viết hoa: Z cho múi giờ số không, A đến M (trừ J) cho các múi giờ phía Đông, N đến Y cho các múi giờ phía Tây.
+Trước năm 1967, Việt Nam lấy giờ Bắc Kinh làm chuẩn cho âm lịch. Ngày 8 tháng 8 năm 1967, nước Việt Nam Dân chủ Cộng hòa ban hành đổi lịch dùng múi giờ GMT +7 làm chuẩn. Vì thế hai miền nam bắc Việt Nam đón Tết Mậu Thân hai ngày khác nhau (miền bắc ngày 29 tháng 1 trong khi miền nam thì ngày 30 tháng 1).
+Ngày 1 tháng 1 năm 1972, một hội nghị quốc tế về thời gian đã thay GMT bằng Giờ Phối hợp Quốc tế (UTC), được giữ bởi nhiều đồng hồ nguyên tử quanh thế giới. UT1 được dùng, thay GMT, để tượng trưng cho "thời gian Trái Đất quay". Giây nhuận được thêm hay bớt vào UTC để giữ nó không khác UT1 nhiều quá 0,9 giây.
+Hiện nay, Việt Nam dùng múi giờ UTC +7.
+
+
+== Bảng các múi giờ trên Trái Đất ==
+Trong bảng dưới đây, chênh giờ so với UTC được thể hiện qua con số ở giữa ký hiệu múi giờ. Ví dụ:
+UTC - 9:30 Y muộn giờ hơn so với UTC là 9 giờ 30 phút
+UTC + 8:45 H sớm giờ hơn so với UTC là 8 giờ 45 phút
+
+
+== Xem thêm ==
+UTC
+GMT
+
+
+== Tham khảo ==
+
+(bằng tiếng Anh)
+Howse, Derek. Greenwich Time and the Discovery of the Longitude. Oxford: Oxford University Press, 1980. ISBN 0-19-215948-8.
+
+
+== Liên kết ngoài ==
+(bằng tiếng Anh)
+World Time Server

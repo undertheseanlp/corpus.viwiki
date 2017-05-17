@@ -1,0 +1,12 @@
+Shigefumi Mori (森重文, Mori Shigefumi ?, sinh ngày 23 tháng 02 năm 1951) là một nhà toán học Nhật Bản, nổi tiếng với công việc của mình trong hình học đại số, đặc biệt là liên quan đến việc phân loại ba nếp gấp.
+Ông khái quát phương pháp cổ điển để phân loại các bề mặt đại số để phân loại các đại số ba nếp gấp. Phương pháp cổ điển sử dụng các khái niệm về mô hình tối thiểu của bề mặt đại số. Ông thấy rằng các khái niệm về mô hình tối thiểu có thể được áp dụng cho ba nếp gấp cũng như nếu chúng ta cho phép một số dị thường trên chúng.
+Mở rộng các kết quả Mori tới các chiều cao hơn ba được gọi là chương trình Mori và vào năm 2006, là một lĩnh vực cực kỳ tích cực của hình học đại số.
+Ông đã được trao huy chương Fields năm 1990 tại Đại hội Quốc tế Các nhà toán học.
+Ông được giáo sư thỉnh giảng tại đại học Harvard trong 1977-1980, viện nghiên cứu cao cấp Princeton giai đoạn 1981-1982, đại học Columbia các năm 1985-1987 và đại học Utah trong thời gian trong thời gian 1987-1989 và một lần nữa trong thời gian 1991-1992. Ông là một giáo sư tại đại học Kyoto từ năm 1990.
+
+
+== Tham khảo ==
+
+O'Connor, John J.; Robertson, Edmund F., “Mori Shigefumi”, Bộ lưu trữ lịch sử toán học MacTutor 
+Mori Shigefumi tại Mathematics Genealogy Project
+Heisuke Hironaka, The work of Shigefumi Mori. Fields Medallists Lectures, Michael F. Atiyah (Editor), Daniel Iagolnitzer (Editor); World Scientific Publishing, 2007. ISBN 981-02-3117-2

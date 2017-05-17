@@ -1,0 +1,144 @@
+S&P 500 (viết đầy đủ trong tiếng Anh là Standard & Poor's 500 Stock Index - Chỉ số cổ phiếu 500 của Standard & Poor) là một chỉ số cổ phiếu dựa trên cổ phiếu phổ thông của 500 công ty có vốn hóa thị trường lớn nhất niêm yết trên NYSE hoặc NASDAQ. Tỉ lệ và loại cổ phiếu sử dụng để tính toán chỉ số S&P 500 được quyết định bởi hãng S&P Dow Jones Indices. Điều này khiến chỉ số S&P 500 khác với các chỉ số thị trường chứng khoán khác của Mĩ như chỉ số công nghiệp Dow Jones hay chỉ số Nasdaq Composite. Chỉ số S&P 500 là một trong những chỉ số khách quan và được quan tâm nhất, rất nhiều nhà đầu tư coi đây là thước đo tốt nhất của thị trường chứng khoán Mĩ cũng như là một chỉ số chủ đạo của nền kinh tế . Ủy ban nghiên cứu kinh tế quốc gia cũng xác nhận giá trị cổ phiếu phổ thông là nhân tố hàng đầu của mỗi chu kì kinh tế .
+S&P 500 được phát triển và cập nhật bởi liên doanh S&P Dow Jones Indices, với chủ sở hữu lớn nhất là tập đoàn McGraw Hill Financial. Ngoài S&P 500, McGraw Hill còn phát hành rất nhiều chỉ số chứng khoán khác như S&P MidCap 400, S&P SmallCap 600 và S&P Composite 1500. S&P 500 là một chỉ số tỉ lệ giá thị trường (capitalization-weighted index hay market-value-weighted index) và có nhiều mã giao dịch như: ^GSPC, INX, và $SPX.
+
+
+== Lịch sử ==
+Hãng đánh giá tín nhiệm Standard & Poor giới thiệu chỉ số chứng khoán đầu tiên vào năm 1923. Chỉ số S&P 500 ra đời vào ngày mùng 4 tháng 3 năm 1957. Công nghệ thời đó cho phép chỉ số này được tính toán và niêm yết công khai theo thời gian thực. Bao gồm cả cổ phiếu tăng trưởng và cổ phiếu đầu tư giá trị, chỉ số S&P 500 được sử dụng rông rãi như một công cụ để tính toán giá trị chung của cổ phiếu trên thị trường.
+S&P 500 đạt chỉ số nội nhật cao nhất (trong vòng hơn 7 năm) là 1,552.87 vào ngày 24 tháng 3 năm 2000 trong giai đoạn Bong bóng Dot-com, sau đó mất khoảng 50% giá trị, xuống còn 768.63 vào mùng 10 tháng 10 năm 2002 trong cuộc suy thoái chứng khoáng năm 2002. Ngày 30 tháng 5 năm 2007, chỉ số S&P 500 đóng cửa ở mức 1,530.23, đạt mức kỉ lục trong vòng hơn 7 năm sau đó. Mặc dù, S&P 500 phá kỉ lục mới với mức 1,576.09 ngày 11 tháng 10 năm 2007, sau khi cán mốc 1,565.15 ngày mùng 9 tháng 10, S&P 500 kết thúc năm 2007 ở 1,468.36 điểm, chỉ thấp hơn mức đóng cửa năm 1999. Chưa đầy một tháng sau, S&P 500 rớt xuống còn 1,400 điểm, thấp nhất trong vòng 5 năm.
+Giữa năm 2007, cuộc Khủng hoảng tài chính Hoa Kỳ 2007-2009 lan rộng ra toàn bộ khu vực tài chính Mĩ. Vào tháng 9 năm 2008, khởi đầu một giai đoạn biến động bất thường, tình hình trở nên khẩn cấp với mức trồi sụt kỉ lục lên tới 100 điểm và cũng là mức dao động cao nhất kể từ năm 1929. Ngày 20 tháng 11 năm 2008, S&P 500 đóng cửa ở 752.44, thấp nhất kể từ đầu năm 1997. Sự hồi phục khiêm tốn trong những ngày còn lại vấn khiến S&P 500 kết thúc năm với mức suy giảm 45.5%. Đây cũng là mức suy giảm lớn nhất kể từ sau năm 1931, khi thị trường mất hơn 50% giá trị. Cuối năm 2008, khủng hoảng tài chính năm 2008 tiếp tục kéo thị trường đi xuống đến đầu năm 2009. S&P 500 gần như đã chạm mức thấp nhất trong vòng 13 năm, đóng cửa ở 676.53 điểm ngày mùng 9 tháng 3 năm 2009.
+Ngày 23 tháng 3 năm 2009, S&P 500 hồi phục 20% giá trị và cán mốc 822.92, kéo theo chỉ số công nghiệp Dow Jones tăng điểm ngay sau đó. Kết thúc năm 2009, S&P 500 đạt 1,115.10 điểm, mức cao thứ hai trong suốt thập kỉ. Mặc dù tiếp tục trải qua một vài biến động đáng kể khác do bất ổn tài chính và chính trị, S&P 500 tiếp tục xu hướng hồi phục, kết thúc năm 2012 S&P 500 đạt mức cao thứ ba trong lịch sử, 1,426.22 điểm. 28 tháng 3 năm 2013 và mùng 10 tháng 4, S&P 500 lần lượt đạt mức đóng cửa cao nhất và chỉ số nội nhật cao nhất kể từ năm 2007. Ngày 3 tháng 5 năm 2013, hơn 13 năm sau lần đầu tiên vượt mốc 1500 điểm, S&P 500 đã phá vỡ mốc 1600 lần đầu trong lịch sử, đạt 1,614.42 điển. Đây là cột mốc đầu tiên trong ba cột mốc 100 điểm của chỉ số này trong năm 2013: 1700 vào ngày mùng 1 tháng 8, và 1800 vào 22 tháng 11.
+Các dấu mốc kỉ lục của chỉ số S&P 500
+
+
+== Tiêu chuẩn lựa chọn ==
+Các cổ phiếu thành phần phục vụ tính toán chỉ số S&P 500 được lựa chọn bởi một hội đồng. Điều này tương tự với chỉ số công nghiệp Dow Jones, nhưng khác với một số chỉ số khác được quy định chặt chẽ theo luật như Russell 1000. Khi xem xét để thêm một cổ phiếu mới, hội đồng này sẽ đánh giá giá trị của công ty đó theo tám tiêu chuẩn cơ bản: vốn hóa thị trường, tính thanh khoản, trụ sở công ty, số lượng cổ phiếu công chúng, nhóm ngành, năng lực tài chính, thời gian niêm yết giao dịch và cổ phiếu niêm yết.
+Hội đồng chọn lựa các công ty là đại diện cho các ngành công nghiệp trong nền kinh tế Hoa Kỳ để tính toán chỉ số S&P 500. Để vào danh sách tính toán S&P 500, mỗi công ty phải thỏa mãn các yêu cầu về khả năng thanh khoản:
+vốn hóa thị trường lớn hơn hoặc bằng 4 tỷ đô la Mĩ
+annual dollar value traded to float-adjusted market capitalization is greater than 1.0
+khối lượng cổ phiểu giao dịch hàng tháng trong vòng 6 tháng liên tiếp cho đến ngày tiến hành đánh giá phải đặt từ 250,000 trở lên.
+Chứng khoán phải được niêm yết công khai trên sàn NYSE (NYSE Arca hay NYSE MKT) hoặc sàn NASDAQ (NASDAQ Global Select Market, NASDAQ Select Market hay the NASDAQ Capital Market). Những chứng khoán không đủ tiêu chuẩn để đưa vào danh sách là limited partnerships, master limited partnerships, OTC bulletin board issues, closed-end funds, ETFs, ETNs, royalty trusts, tracking stocks, preferred stock, unit trusts, equity warrants, convertible bonds, investment trusts, ADRs, ADSs and MLP IT units.
+Cần phân biệt danh sách của S&P 500 với Fortune 500, Fortune 500 chỉ là danh sách của 500 công ty đại chúng lớn nhất nước Mĩ, sắp xếp theo tổng thu nhập, mà không quan tâm đến cổ phiếu của công ty đó có niêm yết công khai hay không (nếu không niêm yết công khai, cổ phiếu được gọi là không thanh khoản). Fortune cũng không điều chỉnh danh sách nhằm mục đích đại diện cho ngành công nghiệp của Mĩ, đồng thời cũng không tính đến các công ty đăng ký thành lập ngoài lãnh thổ Hoa Kỳ.
+S&P 500 bao gồm cả các công ty ngoài Hoa Kỳ (27 kể từ ngày 23 tháng 12 năm 2013), bất kể đó là công ty đã từng thành lập tại Hoa Kỳ nhưng thực hiện đảo ngược công ty, hay công ty đó không thành lập tại Hoa Kỳ.
+
+
+== Cổ phiếu thành phần ==
+
+
+== Các phiên bản ==
+Chỉ số "S&P 500" thông thường được trích dẫn dưới dạng chỉ số tỉ lệ thu hồi vốn; ngoài ra, còn có các phiên bản "tỉ lệ lợi nhuận" và "tỉ lệ lợi nhuận sau thuế". Các phiên bản này khác nhau ở cách ghi nhận cổ tức. Chỉ số "tỉ lệ thu hồi vốn" không xét đến tỉ lệ cổ tức; nó chỉ thể hiện sự thay đổi về giá của từng cổ phiếu thành phần. Chỉ số tỉ suất lợi nhuận phản ánh hiệu quả tái đầu tư của cổ tức. Chỉ số "tỉ lệ lợi nhuận sau thuế" cũng phản ánh hiệu quả tái đầu tư của cổ tức nhưng sau khi khấu trừ thuế thu nhập.
+
+
+== Tỉ lệ ==
+Trước kia, chỉ số S&P 500 được xác định theo phương pháp tỉ lệ giá trị vốn hóa; tức là, sự biến động của một cổ phiếu có vốn hóa thị trường (giá cổ phiếu nhân với số lượng cổ phiếu phát hành ra công chúng) lớn sẽ có ảnh hưởng lớn hơn đến giá trị chung của chỉ số so với các cổ phiếu có giá trị vốn hóa nhỏ.
+Hiện nay, S&P 500 được tính toán theo phương pháp "tỉ lệ cổ phiếu công chúng". Tức là, Standard & Poor's sẽ xác định giá trị thị trường của mỗi công ty liên quan đến chỉ số S&P 500 mà chỉ quan tâm đến số lượng cổ phiếu được phát hành ra công chúng (còn gọi là "cổ phiếu công chúng"). Đây là kết quả sau hai lần chuyển đổi, lần đầu vào ngày 18 tháng 3 năm 2005 và lần thứ hai là vào 16 tháng 9 năm 2005.
+
+
+== Cập nhật chỉ số ==
+Để đảm bảo luôn theo sát tình hình thực tế, chỉ số S&P 500 luôn được điều chỉnh để thể hiện sự tác động đến giá trị thị trường của các quyết sách của cổ đông công ty, như phát hành thêm cổ phiếu, chia cổ tức và các quyết định cơ cấu lại công ty như sát nhập hoặc chia tách. Thêm vào đó, để đảm bảo luôn là chỉ thị của thị trường chứng khoán Mĩ, các cổ phiếu thành phần sẽ được cập nhật liên.
+Tuy nhiên để ngăn chặn sự thay đổi chỉ bắt nguồn từ các hoạt động tài chính của doanh nghiệp, tất cả các hoạt động tác động đến giá trị thị trường của S&P 500 đều được điều chỉnh thông qua một ước số. Ngoài ra, khi một công ty tụt hạng và bị thay thế bởi một công ty khác với giá trị vốn hóa thị trường khác, ước số này cũng được điều chỉnh để giá trị của S&P 500 là không đổi. Tuy nhiên, người ta chỉ điều chỉnh ước số sau khi kết thúc phiên giao dịch và sau khi tính toán giá trị S&P 500. Các hoạt động của một công ty yêu cầu phải điều chỉnh ước số vô cùng đa dạng và được liệt kê trong bảng dưới đây:
+
+
+== Công thức tính ==
+Để tính giá trị của chỉ số S&P 500, người ta lấy tổng giá trị vốn hóa thị trường của 500 cổ phiếu chia cho một thừa số, hay còn được gọi là Divisor(Ước số). Ví dụ, nếu tổng giá trị vốn hóa thị trường của 500 cổ phiếu thành phần là 13 nghìn tỷ đô la Mĩ và ước số là 8.933 tỉ, thì chỉ số S&P 500 có giá trị là 1,455.28. Mặc dù, tổng giá trị vốn hóa của chỉ số S&P 500 được công bố công khai trên trang web của Standard & Poor's, giá trị của ước số lại được hãng giữ bí mật. Tuy nhiên, giá trị này luôn xấp xỉ ở mức 8.9 tỉ.
+Công thức tính toán chỉ số S&P 500 là:
+
+  
+    
+      
+        
+          Index Level
+        
+        =
+        
+          
+            
+              ∑
+              
+                (
+                
+                  
+                    P
+                    
+                      i
+                    
+                  
+                
+                ⋅
+                
+                  
+                    Q
+                    
+                      i
+                    
+                  
+                
+                )
+              
+            
+            
+              D
+              i
+              v
+              i
+              s
+              o
+              r
+            
+          
+        
+      
+    
+    {\displaystyle {\text{Index Level}}={\sum \left({P_{i}}\cdot {Q_{i}}\right) \over Divisor}}
+  
+Trong đó P là giá của mỗi cổ phiếu thành viên, Q là số lượng cổ phiếu công chúng mỗi loại.
+Ước số sẽ được điều chỉnh trong một số trường hợp như phát hành cổ phiếu, chia tách công ty hoặc các thay đổi tương đương về cơ cấu công ty, để đảm bảo rằng những sự kiện này sẽ không ảnh hưởng trực tiếp đến chỉ số cuối cùng.
+
+
+== Tần suất cập nhật ==
+Chỉ số S&P 500 được cập nhật 15 giây một lần trong suốt phiên giao dịch và được công bố rộng rãi bởi hãng Reuters America, Inc., một chi nhánh của hãng Thomson Reuters Corporation.
+
+
+== Đầu tư ==
+Rất nhiều quỹ chỉ số và quỹ hoán đổi danh mục theo dấu sự biến động (trước phí) của chỉ số S&P 500 bằng cách nắm giữ cùng loại cổ phiếu với cùng tỉ lệ như danh sách của S&P 500. Nhiều quỹ tương hỗ khác sử dụng S&P 500 như một mốc chuẩn. Kết quả là nếu cổ phiếu của một công ty được đưa vào danh sách của S&P 500 thì cổ phiếu đó sẽ tăng giá, vì các quỹ đầu tư chỉ số phải mua các loại cổ phiếu này để tiếp tục theo dấu S&P 500. Các nhà quản lý quỹ tương hỗ thường cung cấp dịch vụ quỹ đầu tư chỉ số theo dấu S&P 500, trong đó tiên phong chính là quỹ Vanguard 500 của tập đoàn The Vanguard Group năm 1976. Rất nhiều quỹ lương hưu cũng cung cấp các hình thức đầu tư như vậy. Ví dụ như, quỹ Thrift Savings Plan's C Fund theo dấu tỉ suất lợi nhuận của chỉ số S&P 500.
+Ngoài việc đầu tư vào các quỹ tương hỗ theo dấu S&P 500, nhà đầu tư cũng có thể mua chứng chỉ quỹ của các quỹ hoán đổi danh mục (ETF) which represents ownership in a portfolio of the equity securities that comprise the Standard & Poor's 500 Index. Exchange Traded Funds track the S&P 500 index and may be used to trade the index. Một số quỹ ETF theo dấu S&P 500 được liệt kê dưới đây.
+S&P 500 ETFs are available on the London Stock Exchange e.g. iShares S&P 500 (LSE:IUSA) and Vanguard S&P 500 (LSE:VUSA).
+In the derivatives market, the Chicago Mercantile Exchange (CME) offers futures contracts (ticker symbols /SP for the full-sized contract and /ES for the E-mini contract that is one-fifth the size of /SP) that track the index and trade on the exchange floor in an open outcry auction, or on CME's Globex platform, and are the exchange's most popular product. Additionally, the Chicago Board Options Exchange (CBOE) offers options on the S&P 500 as well as S&P 500 ETFs, inverse ETFs and leveraged ETFs.
+
+
+== Thống kê thị trường ==
+
+
+=== Các dấu mốc ===
+
+Ngày 11 tháng 10 năm 2007, chỉ số S&P lập kỉ lục về chỉ số nội nhật với mức 1,576.09. Ngày 28 tháng 3 năm 2013, S&P phá vỡ kỉ lục giá trị đóng cửa với mức điểm 1,565.15, lấy lại toàn bộ giá trị đã mất do ảnh hưởng của khủng hoảng tài chính. Tuy nhiên, để lập kỉ lục mới it would need to close well above the 2,000 level to set new inflation-adjusted highs (không xét đến cổ tức) so với lần đầu tiên phá mốc 1500 điểm của năm 2000.
+
+
+=== Tỉ suất lợi nhuận hàng năm ===
+
+
+== Xem thêm ==
+Chỉ số chỉ thị nền kinh tế của Conference Board
+Chỉ số bình quân công nghiệp Dow Jones
+Danh sách 500 công ty S&P
+E-mini S&P
+Quỹ hoán đổi danh mục
+Fortune 500
+FTSE 100
+Quỹ đầu tư chỉ số
+S&P 100
+S&P 400
+S&P 600
+S&P 1500
+Standard & Poor's
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+CNN Money page for SPX
+Standard & Poor's page on S&P 500 index
+S&P 500 Fact Sheet (PDF)
+Logarithmic Chart of S&P 500 (1950-present) at Yahoo! Finance
+s&p 500 Training
+Bản mẫu:Các chỉ số thị trường chứng khoán

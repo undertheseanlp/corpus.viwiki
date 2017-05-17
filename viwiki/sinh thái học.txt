@@ -1,0 +1,71 @@
+Sinh thái học là môn khoa học nghiên cứu về sự phân bố và sinh sống của những sinh vật sống và các tác động qua lại giữa các sinh vật và môi trường sống của chúng. Các chủ đề mà các nhà sinh thái học quan tâm như đa dạng sinh học, phân bố, giá trị (sinh khối), số lượng (quần thể) của các sinh vật, cũng như sự cạnh tranh giữa chúng bên trong và giữa các hệ sinh thái. Môi trường sống của một sinh vật hàm chứa:
+Tổng hòa các nhân tố vật lý như khí hậu và địa lý được gọi là ổ sinh thái và
+Các sinh vật khác sinh sống trong cùng ổ sinh thái.
+Các hệ sinh thái thường được nghiên cứu ở nhiều cấp độ khác nhau từ cá thể và các quần thể cho đến các hệ sinh thái và sinh quyển. Sinh thái học là môn khoa học đa ngành, nghĩa là dựa trên nhiều ngành khoa học khác nhau.
+
+
+== Đối tượng nghiên cứu ==
+Đối tượng nghiên cứu tất cả các mối quan hệ giữa sinh vật và môi trường:
+Đơn vị tổ chức: Nguyên tử - Phân tử - Tế bào - Mô - Cơ quan - Cá thể - Quần thể -Quần xã - Hệ sinh thái.(tế bào là đơn vị cơ bản).
+Đối tượng: Cá thể, Quần thể, Quần xã, Hệ sinh thái.
+Nghiên cứu đặc điểm của các nhân tố môi trường ảnh hưởng đến đời sống của các sinh vật và sự thích nghi của chúng với các điều kiện ngoại cảnh khác nhau.
+Nghiên cứu nhịp điệu sống của cơ thể liên quan đến các chu kỳ ngày đêm và các chu kỳ địa lý của quả đất và sự thích ứng của các sinh vật.
+Nghiên cứu điều kiện hình thành quần thể, những đặc điểm cơ bản và mối quan hệ trong nội bộ quần thể (như phân bố, mật độ, sinh trưởng, sinh sản, tử vong…) giữa quần thể với môi trường thể hiện trong sự biến động và điều chỉnh số lượng cá thể.
+Nghiên cứu các đặc điểm cấu trúc của các quần xã, mối quan hệ giữa trong nội bộ quần thể khác nhau, quá trình biến đổi của các quần xã theo không gian và thời gian qua các loại hình diễn thế (succession).
+Nghiên cứu sự chuyển hoá vật chất và năng lượng trong quần xã, giữa quần xã và ngoại cảnh, thể hiện trong các chuỗi và lưới thức ăn, các bậc dinh dưỡng và sự hình thành những hình tháp sinh thái về số lượng và năng lượng.
+Nghiên cứu những nhân tố vô cơ cần thiết cho sinh vật, tham gia vào chu trình sinh địa hoá trong thiên nhiên; từ đó xác định rõ mối tương quan trong hệ sinh thái để nghiên cứu năng suất sinh học của các hệ sinh thái khác nhau.
+Nghiên cứu cấu trúc của sinh quyển gồm những vùng địa lý sinh vật lớn trên trái đất, cung cấp những hiểu biết tương đối đầy đủ về thế giới của chúng ta.
+Ứng dụng các kiến thức về sinh thái học vào việc tìm hiểu tài nguyên thiên nhiên, phân tích những sai lầm của con người trong việc sử dụng phung phí tài nguyên, làm ô nhiễm môi trường và những hậu quả tai hại; từ đó đề ra các biện pháp phục hồi tài nguyên sinh vật, bảo vệ môi trường đáp ứng nhu cầu cần thiết cho sản xuất, sinh hoạt, thẩm mĩ, nghỉ ngơi…và giữ cân bằng sinh thái.
+Thông qua các kiến thức về sinh thái học đóng góp tích cực vào công việc giáo dục dân số.
+
+
+=== Đa dạng sinh học ===
+
+Đa dạng sinh học miêu tả sự đa dạng về sự sống từ cấp độ gen đến hệ sinh thái và trải rộng trên nhiều tổ chức sinh học. Thuật ngữ này có nhiều cách giải thích, cũng đồng nghĩa với việc có nhiều cách đo đạc, đặc tính hóa và thể hiện tổ chức phức tạp của nó. Đa dạng sinh học bao gồm đa dạng loài, đa dạng hệ sinh thái, và đa dạng gen và các nhà khoa học quan tâm đến cách mà sự đa dạng này ảnh hưởng đến các quá trình sinh thái phức tạo vận hành trong và giữa các mức tương ứng này. Đa dạng sinh học đóng vai trò quan trọng trong dịch vụ sinh thái mà theo định nghĩa là nhằm duy trì và cải thiện chất lượng sống của con người. Phòng chống tuyệt chủng loài là một cách để bảo tồn đa dạng sinh học và mục đích còn lại là những kỹ thuật được áp dụng để bảo tồn đa dạng gen, môi trường sống và khả năng các loài di trú. Ưu tiên bảo tồn và kỹ thuật quản lý đòi hỏi nhiều cách tiếp cận và sự quan tâm khác nhau để giải quyết phạm vi đầy đủ về sinh thái học của đa dạng sinh học. Nguồn vốn tự nhiên hỗ trợ quần thể trong việc duy trì các dịch vụ hệ sinh thái và sự di cư của loài ám chỉ là một cơ chế mà theo đó sự mất đi cách dịch vụ này xảy ra. Sự hiểu biết về đa dạng sinh học có những ứng dụng thực tế đối với những người quy hoạch bảo tồn ở cấp độ loài và hệ sinh thái khi họ đưa ra các đề xuất quả lý cho các công ty tư vấn, chính phủ và công nghiệp.
+
+
+=== Sinh cảnh ===
+
+Sinh cảnh của một loài miêu tả môi trường theo đó loài được biết là có mặt ở đó và kiểu cộng đồng của loài đó được hình thành. Cụ thể hơn, "các sinh cảnh có thể được định nghĩa là một khu vực trong môi trường mà tập hợp nhiều chiều khác nhau, mỗi chiều đặc trưng cho một biến môi trường hữu cơ hoặc vô cơ; đó là bất cứ thành phần hoặc các đặc tính của môi trường liên quan trực tiếp (ví dụ như sinh khối và chất lượng thức ăn) hoặc gián tiếp (ví dụ như độ cao) để sử dụng một vị trí của động vật " Thay đổi sinh cảnh cung cấp dấu hiệu quan trọng về sự cạnh tranh trong tự nhiên nơi mà những thay đổi về số cá thể liên quan đến môi trường sống mà hầu hết các cá thể khác của loài đó chiếm dụng. Ví dụ, một quần thể loài thằn lằn nhiệt đới (Tropidurus hispidus) có cơ thể phẳng tương đối với các quần thể chính sống ở vùng savan mở. Quần thể sống ở nơi lộ các đá biệt lập ẩn trong các hang hốc thì cơ thể dẹt của nó cung cấp một lợi thế chọn lọc. Những thay đổi về sinh cảnh cũng xuất hiện trong lịch sử phát triển của động vật lưỡng cư và công trùng khi chuyển từ sinh cảnh nước sang trên cạn.
+
+
+=== Hốc sinh thái ===
+
+Khái niệm được đưa ra năm 1917, nhưng G. Evelyn Hutchinson đã đưa ra một khái niệm tiên tiến hơn vào năm 1957 khi giới thiệu khái niệm được chấp nhận rộng rãi: "là một tập hợp các sinh học và phi sinh học mà trong đó các loài có thể tồn tại và duy trì quy mô quần thể ổn định." Hốc sinh thái là một khái niệm chính trong hệ sinh thái của sinh vật và được chia nhỏ thành hốc cơ bản và hốc realized niche. Hốc cơ bản là một tập hợp các điều kiện môi trường mà một loại có thể tồn tại. Hốc thực tế là tập hợp các điều kiệu sinh thái môi trường xét thêm mà theo đó một loài vẫn tồn tại. Hốc sinh thái Hutchinsonian được định nghĩa thiên về mặt kỹ thuật hơn đó là "một không gian Euclid nhiều chiều mà các chiều của nó được định nghĩa là các biến của môi trường và kích thước của chúng là một hàm của các giá trị môi trường mà có thể giả định là một sinh vật có thể phát triển tích cực."
+
+
+== Ý nghĩa của nghiên cứu sinh thái học ==
+Cơ sở khoa học cho việc bảo vệ và sử dụng hợp lý nguồn tài nguyên thiên nhiên
+Ngăn ngừa ô nhiễm môi trường
+Cơ sở khoa học xây dựng mối quan hệ giữa con người và thế giới tự nhiên
+
+
+== Từ nguyên ==
+Thuật ngữ oekologie được nhà sinh học người Đức Ernst Haeckel nghĩ ra năm 1866 dựa trên từ gốc Hy Lạp là oikos (mang nghĩa "trong nhà") và logos (mang nghĩa "môn khoa học"), hay "môn khoa học nghiên cứu ngôi nhà tự nhiên". Thuật ngữ này là nguồn gốc của tên gọi cho bộ môn sinh thái học trong nhiều ngôn ngữ phương Tây.
+
+
+== Xem thêm ==
+Sinh học
+Đa dạng sinh học
+Phong trào sinh thái học
+Phong trào bảo tồn
+Danh sách các chủ đề môi trường
+Danh sách các tổ chức môi trường
+Giáo dục bảo vệ môi trường (tài liệu tại Wikibooks: b:Giáo dục bảo vệ môi trường cho học sinh phổ thông cơ sở, b:Giáo dục bảo vệ môi trường cho học sinh phổ thông trung học)
+Phong trào môi trường
+Công nghệ môi trường
+Môi trường luận
+
+
+== Ghi chú ==
+
+
+== Chú thích ==
+
+
+== Tài liệu ==
+Từ điển môi trường và phát triển bền vững Anh-Việt và Việt-Anh: Khoảng 2500 thuật ngữ, có giải thích. Đặng Mộng Lân (ch.b), Lê Mạnh Chiến, Nguyễn Ngọc Hải. Nhà xuất bản Khoa học và Kỹ thuật, 2001, 453tr
+Tài nguyên môi trường và phát triển bền vững. Lê Huy Bá (ch.b), Vũ Chí Hiếu, Võ Đình Long. Nhà xuất bản Khoa học và Kỹ thuật, 2002, 522tr
+
+
+== Liên kết ngoài ==

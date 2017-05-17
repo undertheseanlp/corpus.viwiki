@@ -1,0 +1,30 @@
+Samsung Galaxy Note 4 là điện thoại lai máy tính bảng chạy hệ điều hành Android sản xuất bởi Samsung Electronics. Galaxy Note 4 đã được công bố trong buổi họp báo tại IFA Berlin vào 3 tháng 9 năm 2014. Nó kế nhiệm cho Samsung Galaxy Note 3.
+
+
+== Thông số kỹ thuật ==
+
+
+=== Phần cứng ===
+Samsung Galaxy Note 4 có màn hình 2.560×1.440 Quad HD (QHD) 5,7 inch với mật độ điểm ảnh 515 ppi. Note 4 bao gồm 2 biến thể, một là sử dụng vi xử lý lõi-tứ Snapdragon 805 với Adreno 420 GPU, hai là ARMv8-A Exynos 7 Octa của Samsung với hai cụm bao gồm 4 lõi Cortex-A57 1.9 GHz và 4 lõi Cortex-A53 1.3 GHz. GPU trong chip Exynos là Mali-T760. Cả hai biến thể đều có RAM 3GB LPDDR3 RAM và bộ nhớ trong 32GB. Samsung giới thiếu bút S-pen mới nhận dạng nghiêng và xoay nhưng các tính năng này chưa được triển khai hoặc chưa được hỗ trợ. Mặt sau của Note 4 giống với mặt sau của Note 3, với kết cấu giả da (mặc dù không còn những đường chỉ như trước). Note 4 có thiết kế khung nhôm mới, có nét tương đồng với Samsung Galaxy Alpha. Một số nhà phê bình đã nhận xét rằng thiếu chứng nhận IP67 (chống bụi và nước), giống như thiết bị S5.
+Note 4 có cổng sạc USB 2.0 thay vì USB 3.0 (trên Note 3 và S5), một tính năng mới gọi là Sạc nhanh, Samsung tuyên bố có thể sạc điện thoại từ 0% đến 50% trong vòng 30 phút. Nó có một số cảm biến độc đáo như cảm biến UV và cảm biến đo nhịp tim...
+
+
+=== Phần mềm ===
+Samsung Galaxy Note 4 được cài sẵn Android Kitkat 4.4.4 với giao diện Touchwiz Nature UX 3.0. Tuy nhiên một số báo cáo cho rằng nó có thể cập nhật phiên bản mới nhất của Android, Android Lollipop, vào đầu tháng 12.
+
+
+=== Máy ảnh ===
+Máy ảnh chính (đằng sau) của Note 4 sở hữu máy ảnh 16MP tự động lấy nét, tính năng Smart OIS (tự động ổn định hình ảnh) và quay video 4K với 30fps và 1080p với 60fps và hiệu ứng chậm 120fps ở độ phân giải 720p. Máy ảnh thứ hai (đằng trước) sở hữu máy ảnh 3.7MP với f1.9 có thể chụp ảnh với độ phân giải QHD.
+
+
+== Kết nối với Samsung VR ==
+Samsung Galaxy Note 4 có thể được lắp vào Samsung Gear VR, sản phẩm đã được tạo ra với sự hợp tác của Oculus VR. Nó tương tự như dự án Google Cardboard, tuy nhiên, nó chỉ được tao ra cho điện thoại thông minh. Bên cạnh đó: màn hình Samsung Galaxy Note 3 được sử dụng cho bộ phát triển của Occulus Rift thứ 2.
+
+
+== Liên kết ngoài ==
+Trang web chính thức của Samsung Galaxy Note 4
+Trang web chính thức của Samsung Galaxy Note 4 tại Việt Nam
+Hình ảnh chi tiết của Samsung Galaxy Note 4
+
+
+== Tham khảo ==

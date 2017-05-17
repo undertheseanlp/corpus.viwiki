@@ -1,0 +1,32 @@
+Kilôwatt giờ, hay Kilowatt giờ, (ký hiệu kW·h, kW h) là đơn vị của năng lượng bằng 1000 watt giờ hay 3,6 megajoule.
+Năng lượng theo watt giờ là tích của công suất đo bằng watt và thời gian đo bằng giờ.
+Kilôwatt giờ phổ biến nhất được biết đến như một đơn vị thanh toán cho năng lượng cung cấp cho người tiêu dùng bằng các thiết bị điện.
+
+
+== Định nghĩa ==
+Đơn vị tiêu chuẩn của năng lượng trong hệ đo lường quốc tế (SI) là joule (J), bằng một watt giây.
+Ngược lại, một watt bằng 1 J/s. Một kilowatt giờ bằng 3,6 megajoule, đó là lượng năng lượng được chuyển đổi nếu công thực hiện với tốc độ trung bình trong một giờ bằng một nghìn watt.
+
+
+== Ví dụ ==
+Một máy sưởi có công suất 1000 watt (1 kilowatt), hoạt động trong một giờ sẽ tiêu thụ 1 kilowatt giờ (tương đương 3.600 kilo joule) năng lượng.
+Sử dụng một bóng đèn 60 watt trong một giờ sẽ tiêu thụ 0,06 kilowatt giờ điện. Và bật liên tục trong một nghìn giờ sẽ tiêu thụ hết 60 kilowatt giờ điện.
+Nếu một bóng đèn 100 watt bật một giờ một ngày và 30 ngày trong một tháng, năng lượng tiêu thụ sẽ là 100 W × 30 h = 3000 W·h = 3 kW·h, tương đương với 10,8 triệu joule.
+
+
+== Chuyển đổi ==
+Để đổi một đại lượng được đo theo đơn vị ghi ở cột trái sang đơn vị ghi ở hàng trên, nhân đại lượng đó với hệ số ở trong ô hàng và cột giao với nhau.
+
+
+== Xem thêm ==
+Ampe giờ
+Kilowatt
+Watt
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Power and Energy in the Home: The Trustworthy Cyber Infrastructure for the Power Grid (TCIP) group at the University of Illinois at Urbana-Champaign has developed an applet which illustrates the consumption and cost of energy in the home, and allows the user to see the effects of manipulating the flow of electricity to various household appliances.
+Prices per kilowatt hour in the USA, Energy Information Administration

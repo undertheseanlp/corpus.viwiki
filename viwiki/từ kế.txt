@@ -1,0 +1,132 @@
+Từ kế hay máy đo từ là thiết bị dùng để đo đạc cường độ và có thể cả hướng của từ trường trong vùng đặt cảm biến từ trường.
+Cảm biến từ trường hoạt động dựa trên nhiều hiệu ứng khác nhau của từ trường tác động lên vật chất, để cho ra biểu hiện có thể định lượng được, và ở các từ kế hiện đại thì biểu hiện này là tín hiệu điện.
+Từ kế được ứng dụng trong nghiên cứu địa vật lý để đo từ trường của Trái Đất, Mặt Trời, hành tinh, vệ tinh. Trong phòng thí nghiệm vật lý thì từ kế được dùng trong xác định tính chất từ của mẫu vật, và trong khảo sát các quá trình hoặc hiện tượng vật lý, hóa học, sinh học,... trong quan hệ với từ trường.
+
+
+== Lịch sử ==
+Carl Friedrich Gauß là người chế ra từ kế đầu tiên năm 1832 khi ông là Giám đốc Đài quan sát địa từ ở Göttingen. Từ kế này có một thanh nam châm treo trên sợi dây bằng vàng nằm ngang. Sự khác biệt về dao động khi thanh được từ hóa và khi nó được khử từ cho phép tính ra giá trị tuyệt đối của cường độ từ trường Trái Đất.
+Đơn vị CGS của mật độ từ thông được đặt tên là gauss để vinh danh ông, định nghĩa là 1 maxwell mỗi cm vuông, và bằng 1 × 10−4 Tesla trong hê đơn vị SI.
+
+
+== Đặc trưng kỹ thuật ==
+Các máy đo hiện đại biến đổi trường thành tín hiệu điện. Sự biến thiên của từ trường và sự di chuyển của phương tiện đo dẫn đến tín hiệu thu được ở máy đo biến đổi theo thời gian. Vì thế nó có đặc trưng chung của thiết bị đo đạc thực hiện rời rạc hóa một quá trình thời gian.
+Nhịp lấy mẫu (Sample rate): Quãng thời gian giữa hai lần cho ra số liệu. Nó xác định khoảng cách điểm đo khi phương tiện đo di chuyển.
+Băng thông (Bandwidth): Thể hiện đáp ứng khi trường thay đổi, ví dụ khi tàu đo di chuyển hoặc khi bão từ. Băng thông hẹp sẽ vướng vào giới hạn Nyquist (Nyquist limit) khi trường biến đổi nhanh.
+Độ phân giải (Resolution): Sự thay đổi nhỏ nhất của trường có thể đo.
+Sai số tuyệt đối (Absolute error): Sự khác biệt giữa trung bình số đo với trường thật sự.
+Độ trôi (Drift): Sự thay đổi tham số theo thời gian.
+Ổn định nhiệt (Thermal stability): Sự phụ thuộc kết quả đo với nhiệt độ.
+Tiếng ồn (Noise): Nhiễu trong so sánh với tín hiệu trường.
+Độ nhạy (Sensitivity): Đại lượng lớn hơn tiếng ồn và độ phân giải.
+Lỗi định hướng (Heading error): Sự thay đổi số đo khi thay đổi định hướng cảm biến máy đo.
+Vùng chết (Dead zone): Vùng góc định hướng không đo được, thường có ở các từ kế proton và lượng tử.
+Dung sai gradient (Gradient tolerance): Khả năng đo tin cậy khi có gradient trường.
+Ngoài ra còn có dải nhiệt độ và áp suất làm việc như mọi máy móc khác.
+
+
+== Phân loại Từ kế ==
+Có sự khác nhau về tiêu chí phân loại.
+Phân loại theo công dụng:
+Từ kế trong phòng thí nghiệm có độ nhạy, độ chính xác cao, đo được trường lớn hay cực nhỏ và tất nhiên có thể rất cồng kềnh. Chúng phục vụ đo mẫu vật hay khảo sát các quá trình vật lý, hóa học, sinh học,... trong quan hệ với từ trường.
+Từ kế di động có kích thước, độ nhạy, dải đo thích hợp để đo từ trường Trái Đất hay trong vũ trụ.
+Phân loại theo đo thành phần trường:
+Từ kế vô hướng đo giá trị trường toàn phần T.
+Từ kế vector đo giá trị thành phần trường dọc theo phương nào đó, chẳng hạn phương thẳng đứng Z, phương nằm ngang H, hay nằm ngang theo kinh vĩ tuyến X, Y.
+Phân loại theo cách thức đo trường:
+Từ kế đo tuyệt đối (Absolute) cho ra giá trị thật.
+Từ kế đo tương đối (Relative) cho ra số đọc biểu kiến và phải tính toán theo các tham số kiểm chuẩn để thu được giá trị trường.
+
+
+== Các kiểu Từ kế ==
+
+
+=== Máy đo từ fluxgate ===
+
+Máy đo từ fluxgate hay từ kế kiểu sắt từ, được phát triển trong Thế chiến II để phát hiện tàu ngầm. Nó là từ kế vector tương đối, đo thành phần trường dọc theo trục vật lý của đầu thu, do đó đầu thu cần phải được định hướng. Trên mặt đất, đầu thu được định hướng theo phương thẳng đứng để đo thành phần Z (của vector trường từ), hay nằm ngang để đo thành phần H.
+Khi bố trí nhiều đầu dò ở các vị trí khác nhau như dàn đo trên máy bay hay tàu biển, thì sự chênh lệch giá trị (tức gradient) trường là chỉ báo rằng bên dưới đang có vật thể nhiễm từ. Nhờ đó phát hiện được các tàu ngầm không được khử từ tốt.
+Đầu thu fluxgate 3 thành phần, có 3 cảm biến vuông góc lẫn nhau, là kết cấu chủ yếu để lập ra la bàn từ, cũng như để đo từ trường trong vũ trụ trên các phi thuyền không gian.
+
+
+=== Máy đo từ proton ===
+
+Máy đo từ proton (Proton Magnetometer), còn gọi là Từ kế Tuế sai Proton (Proton Precession Magnetometer) hay Từ kế Cộng hưởng từ hạt nhân, là từ kế vô hướng tuyệt đối, đo trường toàn phần T. Nó hoạt động dựa trên đo tần số tín hiệu tuế sai của proton (tức hạt nhân Hydro 1H1) khi trục quay của proton định hướng lại theo trường từ.
+Các máy kiểu cũ dùng dòng một chiều DC để từ hóa proton. Các máy kiểu mới thì dùng dòng xoay chiều để định hường proton theo hiệu ứng Overhauser (Nuclear Overhauser effect) và do đó được gọi là từ kế hiệu ứng Overhauser. Máy được dùng trong đo từ trường Trái Đất.
+
+
+=== Máy đo từ lượng tử ===
+
+Máy đo từ lượng tử hay Từ kế kiểu bơm quang học (Optically Pumped Magnetometer), là từ kế vô hướng tuyệt đối, đo trường toàn phần T. Máy hoạt động dựa trên quan sát hiện tượng phân tách mức năng lượng lượng tử của điện tử trong trường hạt nhân khi có trường từ ngoài T. Các nguyên tố nhạy thường dùng là Cesi, Rubidi, Kali, Heli nên thường gọi theo tên nguyên tố, ví dụ Từ kế Cesium. Máy có độ nhạy dưới 0,001 nT, một kỳ đo dài cỡ 0,3 sec.
+Nguyên lý hoạt động của máy còn được giải thích theo lý thuyết Cộng hưởng từ điện tử (Electron magnetic resonance, EMR), tức là thay cho proton thì trong máy này dùng hạt điện tử, và có hệ số tỷ lệ tần số với từ trường cao hơn. Tuy nhiên cách thức "từ hóa" các điện tử là bơm quang học lại có dáng dấp của cơ học lượng tử.
+Lý thuyết Cộng hưởng từ cũng được vận dụng để chế tạo các máy đo từ trường cực lớn hay nhỏ, trong đó dùng hạt cơ bản khác làm phần tử nhạy, dùng trong phòng thí nghiệm hay tại các Trung tâm nghiên cứu hạt cơ bản.
+
+
+=== Từ kế vector Heli ===
+Từ kế vector Heli (Helium Vector Magnetometer, HVM) là một loại từ kế lượng tử dùng nguyên tố quan sát là heli. Kích thích heli thực hiện bằng ion hóa. Nó có thể đo từ trường nhỏ, và được dùng trên phi thuyền để đo từ trường và đảm nhận vai trò phân cỡ cho từ kế fluxgate 3 thành phần.
+
+
+=== Từ kế hiệu ứng Hall ===
+Từ kế hiệu ứng Hall hoạt động dựa theo hiệu ứng Hall trong chất bán dẫn. Nó là từ kế vector tương đối, dùng cho đo từ trường mạnh.
+
+
+=== Linh kiện điện trở từ tính ===
+Sự phụ thuộc điện trở của dải màng permalloy (NiFe) vào từ trường được sử dụng để chế ra điện trở từ tính làm cảm biến từ. Nó được đặt vào mạch tích hợp, kể cả dạng 3 trục để xác định từ trường trong các ứng dụng đơn giản. Nó có đáp ứng nhanh, có thể cấp số liệu ở nhịp 1 ms.
+
+
+=== Từ kế mẫu rung ===
+
+Từ kế mẫu rung (Vibrating Sample Magnetometer, VSM) hoạt động theo nguyên tắc cảm ứng điện từ. Nó đo mômen từ của mẫu vật cần đo trong từ trường ngoài. Máy được sử dụng trong phòng thí nghiệm.
+
+
+== Ứng dụng ==
+
+
+=== Quân sự ===
+Máy dò dị thường từ (Magnetic anomaly detection, MAD) để nhận dạng các tàu ngầm dùng trong hoạt động quân sự.
+Các la bàn fluxgate thì được gắn cùng các sonar trong dãy thiết bị do thám hỗn hợp thả xuống biển, để cung cấp vị trí đặt đầu thu.
+Một số mìn, thủy lôi khởi động nổ bằng từ trường khi tàu vỏ sắt lại gần, tức là chúng có lắp từ kế đơn giản. Trong khi đó, các tàu ngầm phải định kỳ thực hiện khử từ (Degaussing), nhằm lẩn tránh bị phát hiện cũng như để tránh kích nổ loại thủy lôi từ trường nói trên.
+
+
+=== Nghiên cứu không gian ===
+Các từ kế được chế thích hợp cho nghiên cứu không gian gọi là Spacecraft magnetometer đặt trên các phi thuyền để đo từ trường quanh các hành tinh, vệ tinh. Thường dùng từ kế fluxgate ba thành phần kết hợp với từ kế vector Heli.
+Mỹ và Nga thực hiện đo từ trường quanh Trái Đất từ năm 1960.
+Năm 1979 NASA và USGS thực hiện Magsat 
+Vệ tinh của Đức CHAMP đo từ trường và trọng trường từ 2001 đến 2010.
+Vệ tinh của Danish Ørsted hoạt động từ 1999 đến nay.
+Phi vụ Swarm của European Space Agency với 3 vệ tinh, thực hiện 2013.
+Vệ tinh địa tĩnh nghiên cứu môi trường GOES
+Các phi vụ không gian Mariner 2, Mariner 10, Cassini–Huygens nghiên cứu sao Thổ (Saturn), Mercury MESSENGER.
+Nhờ đó từ trường quanh Trái Đất, mặt trăng, mặt trời, sao Hỏa (Mars), sao Kim (Venus) đã được nghiên cứu.
+
+
+=== Khảo sát địa vật lý ===
+Từ kế được ứng dụng rộng rãi trong khảo sát địa vật lý. Chúng thường được lắp đặt trên máy bay, tàu thuyền, ô tô, hay đi bộ, để đo đạc và phát hiện dị thường từ.
+Trong Vật lý Địa cầu, việc nghiên cứu dị thường khu vực, ví dụ các dị thường dạng dải song song với các sống núi giữa đại dương là dấu hiệu quan trọng trong xác minh sự tách giãn đáy đại dương, phần trọng tâm của thuyết kiến tạo mảng.
+Thăm dò từ trên mặt đất hoặc ở vùng biển thì phục vụ nghiên cứu địa chất, tìm kiếm khoáng sản đặc biệt là quặng sắt.[1].
+Từ kế cũng được sử dụng trong quá trình khoan định hướng để nhận dạng góc phương vị của cần khoan gần choòng khoan. Đó là từ kế fluxgate ba thành phần, lắp đặt đồng thời với gia tốc kế trong cần khoan vì thế có thể nhận biết được độ nghiêng và góc phương vị của choòng khoan.
+Từ kế cũng được sử dụng để khảo sát ở các di chỉ khảo cổ, tìm tàu chìm hay các vật bị chôn vùi, tìm vật chưa nổ (UXO),...
+
+
+=== Dân sự ===
+Trong những năm gần đây từ kế đã được thu nhỏ đến mức mà có thể được kết hợp trong mạch tích hợp với chi phí rất thấp, và đang gia tăng sử dụng như la bàn trong các thiết bị tiêu dùng như điện thoại di động và máy tính bảng.
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Từ trường Trái Đất
+Dị thường từ
+Thăm dò từ
+Từ hóa dư
+Cổ địa từ
+
+
+== Liên kết ngoài ==
+Earthquake forecasting techniques and more research on the study of electromagnetic fields
+Dan's Homegrown Proton Precession Magnetometer Page
+USGS Geomagnetism Program
+A home built PPM that actually works
+Earth's Field NMR (EFNMR)
+Magnetic archaeological prospection (Swedish National Heritage Board)
+Magnetometer - Measuring the magnetic field of Earth
+Space-based magnetometers

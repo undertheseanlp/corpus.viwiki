@@ -1,0 +1,100 @@
+Thủy điện là nguồn điện có được từ năng lượng nước. Đa số năng lượng thủy điện có được từ thế năng của nước được tích tại các đập nước làm quay một tuốc bin nước và máy phát điện. Kiểu ít được biết đến hơn là sử dụng năng lượng động lực của nước hay các nguồn nước không bị tích bằng các đập nước như năng lượng thuỷ triều. Thủy điện là nguồn năng lượng có thể hồi phục.
+Năng lượng lấy được từ nước phụ thuộc không chỉ vào thể tích mà cả vào sự khác biệt về độ cao giữa nguồn và dòng chảy ra. Sự khác biệt về độ cao được gọi là áp suất. Lượng năng lượng tiềm tàng trong nước tỷ lệ với áp suất. Để có được áp suất cao nhất, nước cung cấp cho một turbine nước có thể được cho chảy qua một ống lớn gọi là ống dẫn nước có áp (penstock).
+Ngoài nhiều mục đích phục vụ cho các mạng lưới điện công cộng, một số dự án thủy điện được xây dựng cho những mục đích thương mại tư nhân. Ví dụ, việc sản xuất nhôm đòi hỏi tiêu hao một lượng điện lớn, vì thế thông thường bên cạnh nhà máy nhôm luôn có các công trình thủy điện phục vụ riêng cho chúng. Tại Cao nguyên Scotland đã có các mô hình tương tự tại Kinlochleven và Lochaber, được xây dựng trong những năm đầu thế kỷ 20. Tại Suriname, đập hồ van Blommestein và nhà máy phát điện được xây dựng để cung cấp điện cho ngành công nghiệp nhôm Alcoa.
+Ở nhiều vùng tại Canada (các tỉnh bang British Columbia, Manitoba, Ontario, Québec và Newfoundland và Labrador) thủy điện được sử dụng rất rộng rãi tới mức từ "hydro" đã được dùng để chỉ bất kỳ nguồn điện nào phát ra từ nhà máy điện. Những nhà máy phát điện thuộc sở hữu nhà nước tại các tỉnh đó được gọi là BC Hydro, Manitoba Hydro, Hydro One (tên chính thức "Ontario Hydro"), Hydro-Québec và Newfoundland và Labrador Hydro. Hydro-Québec là công ty sản xuất thủy điện lớn nhất thế giới, với tổng công suất lắp đặt năm 2005 đạt 31.512 MW.
+
+
+== Tầm quan trọng ==
+Thủy điện, sử dụng động lực hay năng lượng dòng chảy của các con sông hiện nay chiếm 20% lượng điện của thế giới. Na Uy sản xuất toàn bộ lượng điện của mình bằng sức nước, trong khi Iceland sản xuất tới 83% nhu cầu của họ (2004), Áo sản xuất 67% số điện quốc gia bằng sức nước (hơn 70% nhu cầu của họ). Canada là nước sản xuất điện từ năng lượng nước lớn nhất thế giới và lượng điện này chiếm hơn 70% tổng lượng sản xuất của họ.
+Ngoài một số nước có nhiều tiềm năng thủy điện, năng lực nước cũng thường được dùng để đáp ứng cho giờ cao điểm bởi vì có thể tích trữ nó vào giờ thấp điểm (trên thực tế các hồ chứa thủy điện bằng bơm – pumped-storage hydroelectric reservoir - thỉnh thoảng được dùng để tích trữ điện được sản xuất bởi các nhà máy nhiệt điện để dành sử dụng vào giờ cao điểm). Thủy điện không phải là một sự lựa chọn chủ chốt tại các nước phát triển bởi vì đa số các địa điểm chính tại các nước đó có tiềm năng khai thác thủy điện theo cách đó đã bị khai thác rồi hay không thể khai thác được vì các lý do khác như môi trường.
+
+
+== Ưu điểm ==
+
+Lợi ích lớn nhất của thủy điện là hạn chế được giá thành nhiên liệu. Các nhà máy thủy điện không phải chịu cảnh tăng giá của nhiên liệu hóa thạch như dầu mỏ, khí thiên nhiên hay than đá, và không cần phải nhập nhiên liệu. Các nhà máy thủy điện cũng có tuổi thọ lớn hơn các nhà máy nhiệt điện, một số nhà máy thủy điện đang hoạt động hiện nay đã được xây dựng từ 50 đến 100 năm trước. Chi phí nhân công cũng thấp bởi vì các nhà máy này được tự động hoá cao và có ít người làm việc tại chỗ khi vận hành thông thường.
+Các nhà máy thủy điện hồ chứa bằng bơm hiện là công cụ đáng chú ý nhất để tích trữ năng lượng về tính hữu dụng, cho phép phát điện ở mức thấp vào giờ thấp điểm (điều này xảy ra bởi vì các nhà máy nhiệt điện không thể dừng lại hoàn toàn hàng ngày) để tích nước sau đó cho chảy ra để phát điện vào giờ cao điểm hàng ngày. Việc vận hành cách nhà máy thủy điện hồ chứa bằng bơm cải thiện hệ số tải điện của hệ thống phát điện.
+Những hồ chứa được xây dựng cùng với các nhà máy thủy điện thường là những địa điểm thư giãn tuyệt vời cho các môn thể thao nước, và trở thành điểm thu hút khách du lịch. Các đập đa chức năng được xây dựng để tưới tiêu, kiểm soát lũ, hay giải trí, có thể xây thêm một nhà máy thủy điện với giá thành thấp, tạo nguồn thu hữu ích trong việc điều hành đập.
+
+
+== Nhược điểm ==
+Xem thêm thông tin: Tác động môi trường của hồ chứa nước
+
+Trên thực tế, việc sử dụng nước tích trữ thỉnh thoảng khá phức tạp bởi vì yêu cầu tưới tiêu có thể xảy ra không trùng với thời điểm yêu cầu điện lên mức cao nhất. Những thời điểm hạn hán có thể gây ra các vấn đề rắc rối, bởi vì mức bổ sung nước không thể tăng kịp với mức yêu cầu sử dụng. Nếu yêu cầu về mức nước bổ sung tối thiểu không đủ, có thể gây ra giảm hiệu suất và việc lắp đặt một turbine nhỏ cho dòng chảy đó là không kinh tế.
+Những nhà môi trường đã bày tỏ lo ngại rằng các dự án nhà máy thủy điện lớn có thể phá vỡ sự cân bằng của hệ sinh thái xung quanh. Trên thực tế, các nghiên cứu đã cho thấy rằng các đập nước dọc theo bờ biển Đại Tây Dương và Thái Bình Dương của Bắc Mỹ đã làm giảm lượng cá hồi vì chúng ngăn cản đường bơi ngược dòng của cá hồi để đẻ trứng, thậm chí ngay khi đa số các đập đó đã lắp đặt thang lên cho cá. Cá hồi non cũng bị ngăn cản khi chúng bơi ra biển bởi vì chúng phải chui qua các turbine. Điều này dẫn tới việc một số vùng phải chuyển cá hồi con xuôi dòng ở một số khoảng thời gian trong năm. Các thiết kế turbine và các nhà máy thủy điện có lợi cho sự cân bằng sinh thái vẫn còn đang được nghiên cứu.
+Sự phát điện của nhà máy điện cũng có thể ảnh hưởng đến môi trường của dòng sông bên dưới. Thứ nhất, nước sau khi ra khỏi turbine thường chứa rất ít cặn lơ lửng, có thể gây ra tình trạng xối sạch lòng sông và làm sạt lở bờ sông. Thứ hai, vì các turbine thường mở không liên tục, có thể quan sát thấy sự thay đổi nhanh chóng và bất thường của dòng chảy. Tại Grand Canyon, sự biến đổi dòng chảy theo chu kỳ của nó bị cho là nguyên nhân gây nên tình trạng xói mòn cồn cát ngầm. Lượng oxy hoà tan trong nước có thể thay đổi so với trước đó. Cuối cùng, nước chảy ra từ turbine lạnh hơn nước trước khi chảy vào đập, điều này có thể làm thay đổi số lượng cân bằng của hệ động vật, gồm cả việc gây hại tới một số loài. Các hồ chứa của các nhà máy thủy điện ở các vùng nhiệt đới có thể sản sinh ra một lượng lớn khí methane và carbon dioxide. Điều này bởi vì các xác thực vật mới bị lũ quét và các vùng tái bị lũ bị tràn ngập nước, mục nát trong một môi trường kỵ khí và tạo thành methane, một khí gây hiệu ứng nhà kính mạnh. Methane bay vào khí quyển khí nước được xả từ đập để làm quay turbine. Theo bản báo cáo của Uỷ ban Đập nước Thế giới (WCD), ở nơi nào đập nước lớn so với công suất phát điện (ít hơn 100 watt trên mỗi km2 diện tích bề mặt) và không có việc phá rừng trong vùng được tiến hành trước khi thi công đập nước, khí gas gây hiệu ứng nhà kính phát ra từ đập có thể cao hơn những nhà máy nhiệt điện thông thường. Ở các hồ chứa phương bắc Canada và Bắc Âu, sự phát sinh khí nhà kính tiêu biểu chỉ là 2 đến 8% so với bất kỳ một nhà máy nhiệt điện nào.
+Một cái hại nữa của các đập thủy điện là việc tái định cư dân chúng sống trong vùng hồ chứa. Trong nhiều trường hợp không một khoản bồi thường nào có thể bù đắp được sự gắn bó của họ về tổ tiên và văn hoá gắn liền với địa điểm đó vì chúng có giá trị tinh thần đối với họ. Hơn nữa, về mặt lịch sử và văn hoá các địa điểm quan trọng có thể bị biến mất, như dự án Đập Tam Hiệp ở Trung Quốc, đập Clyde ở New Zealand và đập Ilisu ở đông nam Thổ Nhĩ Kỳ.
+Một số dự án thủy điện cũng sử dụng các kênh, thường để đổi hướng dòng sông tới độ dốc nhỏ hơn nhằm tăng áp suất có được. Trong một số trường hợp, toàn bộ dòng sông có thể bị đổi hướng để trơ lại lòng sông cạn. Những ví dụ như vậy có thể thấy tại Sông Tekapo và Sông Pukaki. Tại Việt Nam đã có một số thủy điện đổi dòng, như thủy điện An Khê - Kanak đổi dòng sông Ba gây thảm họa khô hạn cho vùng hạ lưu và đang là đề tài tranh cãi .
+Những người tới giải trí tại các hồ chứa nước hay vùng xả nước của nhà máy thủy điện có nguy cơ gặp nguy hiểm do sự thay đổi mực nước, và cần thận trọng với hoạt động nhận nước và điều khiển đập tràn của nhà máy.
+Việc xây đập tại vị trí địa lý không hợp lý có thể gây ra những thảm hoạ như vụ Đập Vajont tại Ý, gây ra cái chết của 2001 người năm 1963.
+
+
+== Các số liệu về thuỷ điện ==
+
+
+=== Cũ nhất ===
+
+Cragside, Rothbury, Anh Quốc hoàn thành năm 1870.
+Appleton, Wisconsin, Hoa Kỳ hoàn thành năm 1882, một bánh xe nước trên sông Fox cung cấp nguồn thủy điện đầu tiên để thắp sáng cho hai nhà máy giấy và một ngôi nhà, hai năm sau Thomas Edison đã trưng bày đèn sợi đốt trước công chúng. Chỉ trong khoảng vài tuần sau sự kiện này, một nhà máy phát điện cũng đã đi vào hoạt động thương mại tại Minneapolis.
+Duck Reach, Launceston, Tasmania. Hoàn thành năm 1895. Nhà máy thủy điện sở hữu nhà nước đầu tiên tại Nam Bán Cầu. Cung cấp điện thắp sáng đường phố cho thành phố Launceston.
+Decew Falls 1, St. Catharines, Ontario, Canada hoàn thành 25 tháng 8 năm 1898. Thuộc sở hữu của Ontario Power Generation. Bốn tổ máy vẫn đang hoạt động.
+
+
+=== Các nhà máy thuỷ điện lớn nhất ===
+Tổ hợp La Grande tại Québec, Canada, là hệ thống nhà máy thủy điện lớn nhất thế giới. Bốn tổ máy phát điện của tổ hợp này có tổng công suất 16.021 MW. Chỉ riêng nhà máy Robert Bourassa có công suất 5.616 MW. Tổ máy thứ chín (Eastmain-1) hiện đang được xây dựng và sẽ cung cấp thêm 480 MW. Một dự án khác trên Sông Rupert, hiện đang trải qua quá trình đánh giá môi trường, sẽ có thêm hai tổ máy với tổng công suất 888 MW.
+Mọi người cho rằng Nhà máy thủy điện cổ nhất Hoa Kỳ nằm tại Claverack Creek, ở Stottville, NY 11721. Chiếc tuốc bin, do Morgan Smith sản xuất, được hoàn thành năm 1869 và lắp đặt 2 năm sau đó. Đây là việc lắp đặt một trong những bánh xe nước sớm nhất trong lịch sử Hoa Kỳ. Ngày nay nó thuộc sở hữu của Edison Hydro.
+Các nhà máy trên được xếp hạng theo công suất tối đa.
+
+
+=== Đang tiến hành ===
+Na Hang, Sơn La, Bản Vẽ
+
+
+=== Các nước có công suất thuỷ điện lớn nhất ===
+Canada, 341.312 GWh (66.954 MW đã lắp đặt)
+Hoa Kỳ, 319.484 GWh (79.511 MW đã lắp đặt)
+Brasil, 285.603 GWh (57.517 MW đã lắp đặt)
+Trung Quốc, 204.300 GWh (65.000 MW đã lắp đặt)
+Nga, 169.700 GWh (46.100 MW đã lắp đặt) (2005)
+Na Uy, 121.824 GWh (27.528 MW đã lắp đặt)
+Nhật Bản, 84.500 GWh (27.229 MW đã lắp đặt)
+Ấn Độ, 82.237 GWh (22.083 MW đã lắp đặt)
+Pháp, 77.500 GWh (25.335 MW đã lắp đặt)
+Đây là những số liệu của năm 1999 và gồm cả những nhà máy thuỷ điện tích năng.
+
+
+== Thủy điện tại Việt Nam ==
+
+Theo bộ Xây dựng, hiện ở Việt Nam có khoảng 260 công trình thủy điện đang được khai thác và 211 công trình đang thi công xây dựng.
+Theo Thứ trưởng Bộ Nông nghiệp và Phát triển Nông thôn Hoàng Văn Thắng, hiện cả nước có hơn 6.500 hồ chứa thủy lợi với tổng dung tích 11 tỷ m³ nước, trong đó có hơn 560 hồ chứa lớn, còn lại đều là loại hồ chứa nhỏ.
+Theo TS. Nguyễn Thanh Giang, "do thiếu quy hoạch chung nên các công trình thủy điện không có lưu lượng xả để duy trì dòng chảy, do việc xây hồ chứa chưa quan tâm đến chức năng phòng chống lũ và cấp nước cho hạ du nên hạn hán và lũ lụt đã không chỉ là thiên tai mà còn do nhân tai." 
+Tuy nhiên về trách nhiệm quản lý các hồ, đập này, Thứ trưởng Bộ Công thương Nguyễn Cẩm Tú cho biết: "Trong quản lý an toàn đập thủy điện, đến nay vẫn chưa phân định rõ thẩm quyền và trách nhiệm của Bộ Công thương, UBND các tỉnh, thành trong việc phê duyệt phương án phòng chống lụt bão".
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+New Scientist report on greenhouse gas production by hydroelectric dams
+International Water Power and Dam Construction Venezuela country profile
+International Water Power and Dam Construction Canada country profile
+Tremblay, Varfalvy, Roehm and Garneau. 2005. Greenhouse Gas Emissions - Fluxes and Processes, Springer, 732 p.
+
+
+== Xem thêm ==
+Năng lượng thuỷ triều
+Tennessee Valley Authority
+Thuỷ điện tích năng
+Tác động môi trường của hồ chứa nước
+Thủy điện ở lưu vực sông Mê Kông
+
+
+== Liên kết ngoài ==
+Hydroelectric power
+World Commission on Dams report on environmental and social effects of large dams, including discussion of greenhouse gas emissions
+Edith Irvine Collection of photographs which includes the Electra Power Project, the first hydroelectric project in California located at Mokelumne Hill, California
+Hydro Quebec
+CBC Digital Archives – Hydroelectricity: The Power of Water
+University of Washington Libraries Digital Collections – Seattle Power and Water Supply Collection Historical photographs and pamphlets documenting the construction of hydroelectric power and water supply facilities built in Washington State from the late 1890s to the 1950s including the Snoqualmie Falls Power Plant, the Electron Plant, the Skagit River Hydroelectric Project, and the Cedar River water supply system.
+The Federal Energy Regulatory Commission (FERC) Federal Agency that regulates more than 1500 hydropower dams in the United States.
+Hydropower Reform Coalition A U.S.-based coalition of more than 130 national, state, and local conservation and recreation groups that seek to protect and restore rivers affected by hydropower dams.
+Bản mẫu:Energy Conversion Bản mẫu:Sustainability and energy development group

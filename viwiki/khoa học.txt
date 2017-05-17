@@ -1,0 +1,134 @@
+Khoa học (tiếng Anh: science) là toàn bộ hoạt động có hệ thống nhằm xây dựng và tổ chức kiến thức dưới hình thức những lời giải thích và tiên đoán có thể kiểm tra được về vũ trụ. Thông qua các phương pháp kiểm soát, nhà khoa học sử dụng cách quan sát các dấu hiệu biểu hiện mang tính vật chất và bất thường của tự nhiên nhằm thu thập thông tin, rồi sắp xếp các thông tin đó thành dữ liệu để phân tích nhằm giải thích cách thức hoạt động, tồn tại của sự vật hiện tượng. Một trong những cách thức đó là phương pháp thử nghiệm nhằm mô phỏng hiện tượng tự nhiên dưới điều kiện kiểm soát được và các ý tưởng thử nghiệm. Tri thức trong khoa học là toàn bộ lượng thông tin mà các nghiên cứu đã tích lũy được. Định nghĩa về khoa học được chấp nhận phổ biến rằng khoa học là tri thức tích cực đã được hệ thống hóa.
+Trong tiếng Việt, "khoa học", "kỹ thuật", và "công nghệ" đôi khi được dùng với nghĩa tương tự nhau hay được ghép lại với nhau (chẳng hạn "khoa học kỹ thuật"). Tuy vậy, khoa học khác với kỹ thuật và công nghệ. Kỹ thuật là việc ứng dụng kiến thức khoa học, kinh tế, xã hội, và thực tiễn để thiết kế, xây dựng, và duy trì các cấu trúc, máy móc, thiết bị, hệ thống, vật liệu, và quá trình. Còn công nghệ là sự tạo ra, sự biến đổi, sử dụng, và kiến thức về các công cụ, máy móc, kỹ thuật, kỹ năng nghề nghiệp, hệ thống, và phương pháp tổ chức, nhằm giải quyết một vấn đề, cải tiến một giải pháp đã tồn tại, đạt được một mục đích, hay thực hiện một chức năng cụ thể.
+
+
+== Lịch sử khoa học ==
+
+Khoa học theo nghĩa rộng đã tồn tại trước kỷ nguyên hiện đại, và trong nhiều nền văn minh cổ, nhưng khoa học hiện đại đánh dấu một bước phát triển vượt bật khác biệt rất xa trong cách tiếp cận của nó so với thời kỳ trước đó. Những thành công từ những kết quả mà nó mang lại đã làm cho định nghĩa khoa học theo nghĩa chặt chẽ hơn thì nó gắn liền với giai đoạn hiện này. Từ trước kỷ nguyên hiện đại rất lâu, cũng có một bước chuyển biến quan trong khác đó là sự phát triển triết học tự nhiên cổ đại trong thế giới nói tiếng Hy Lạp cổ.
+
+
+==== Tiền triết học ====
+Khoa học theo nghĩa nguyên thủy của nó là một từ chỉ kiến thức hơn là một từ chỉ việc theo đuổi kiến thức. Đặc biệt, nó là một loại kiến thức mà con người có thể giao tiếp và chia sẻ với nhau. Ví dụ như kiến thức về sự vận động của những vật trong tự nhiên đã được thu thập trong thời gian dài trước khi được chép thành lịch sử và dẫn đến sự phát triển tư duy trừu tượng phức tạp, như được thể hiện qua công trình xây dựng các loại lịch phức tạp, các kỹ thuật chế biến thực vật có độc để có thể ăn được, và các công trình xây dựng như các kim tự tháp. Tuy nhiên, không có sự phân định rõ ràng giữa kiến thức về những điều thực tế đã diễn ra trong mỗi cộng đồng và các kiểu kiến thức chung khác như thần thoại hoặc truyền thuyết.
+
+
+==== Nghiên cứu triết học về tự nhiên ====
+
+Trước khi phát minh hay khám phá ra khái niệm về "tự nhiên" (tiếng Hy Lạp cổ phusis), của các nhà triết học tiền Socratic, các từ tương tự có khuynh hướng được dùng để miêu tả "cách" tự nhiên mà một cái cây phát triển, và ví dụ như "cách" mà một bộ tộc tôn thờ một vị thần đặc biệt nào đó. Vì lẽ đó, có thể xem những người này là những nhà triết học đầu tiên theo nghĩa hẹp, và cũng là những người đầu tiên phân biệt rõ ràng giữa "tự nhiên" và "tục lệ" theo. Do đó, khoa học đã được phân biệt là kiến thức về tự nhiên, và những gì là sự thật đối với mỗi cộng đồng, và tên gọi của việc theo đuổi những kiến thức như thế là triết học — lĩnh vực của những nhà vật lý-triết học đầu tiên. Họ chủ yếu là những người suy đoán hoặc các nhà lý thuyết, đặc biệt quan tâm đến thiên văn học. Ngược lại, việc cố gắng sử dụng kiến thức về tự nhiên để bắt trước tự nhiên được nhìn thấy bởi các nhà khoa học cổ điển như là một điều thích thú phù hợp hơn đối với các nghệ nhân hạng thấp hơn.
+
+
+== Phân loại cơ bản ==
+
+Các lĩnh vực khoa học thường được chia thành 4 nhóm:
+Khoa học tự nhiên: nghiên cứu các hiện tượng tự nhiên (kể cả đời sống sinh học)
+Khoa học xã hội: nghiên cứu hành vi con người và xã hội
+Khoa học hình thức: bao gồm toán học
+Khoa học ứng dụng: nghiên cứu và ứng dụng
+Những nhóm chính là khoa học thực nghiệm, trong đó kiến thức phải được dựa trên những hiện tượng quan sát được và có khả năng được thử nghiệm để kiểm nghiệm tính đúng đắn của nó bởi các nhà nghiên cứu khác nhau làm việc trong cùng điều kiện. Ngoài ra còn có các ngành liên quan được nhóm lại thành các khoa học liên ngành và khoa học ứng dụng, chẳng hạn như khoa học kỹ thuật và khoa học sức khỏe. Các thể loại khoa học này có thể bao gồm các yếu tố của các ngành khoa học khác nhưng thường có thuật ngữ và cơ quan chuyên môn riêng.
+Khoa học thuần túy là các môn học bao gồm các phương diện triết lý, tôn giáo, khoa học, tín ngưỡng, xã hội học, nhân chủng học, chính trị học, luận lý học, đạo đức học, tâm lý học, phân tâm học, thần kinh bệnh học, ngôn ngữ học, tôn giáo học huyền bí học. Khoa học ứng dụng là khoa học chính xác sử dụng các kiến thức thuộc một hay nhiều lĩnh vực của khoa học tự nhiên và khoa học xã hội để giải quyết những vấn đề thực tế. Nó có liên hệ mật thiết hoặc đồng nhất với kỹ nghệ. Khoa học ứng dụng có thể sử dụng để phát triển công nghệ.
+Toán học, được phân loại là khoa học thuần túy, có cả sự tương đồng và khác biệt với các ngành khoa học tự nhiên và xã hội. Nó tương tự như khoa học thực nghiệm ở chỗ nó bao gồm một phương pháp nghiên cứu khách quan, thận trọng và có hệ thống lĩnh vực kiến thức. Nó là khác nhau vì để xác minh kiến thức, toán học sử dụng phương pháp tiên nghiệm hơn là phương pháp thực nghiệm. Khoa học thuần túy, trong đó bao gồm các số liệu thống kê và logic, có vai trò quan trọng đối với các ngành khoa học thực nghiệm. Các tiến bộ trong khoa học thuần túy thường dẫn đến những tiến bộ lớn trong các ngành khoa học thực nghiệm. Các ngành khoa học thuần túy rất cần thiết trong việc hình thành các giả thuyết, lý thuyết và định luật, cả hai phát hiện và mô tả bằng làm thế nào sự việc xảy ra (khoa học tự nhiên) và con người suy nghĩ và hành động như thế nào (khoa học xã hội).
+
+
+== Triết học khoa học ==
+
+
+== Khoa học thực nghiệm ==
+
+"Nếu một người bắt đầu bằng một sự chắc chắn, anh ta sẽ kết thúc trong sự hoài nghi; nhưng nếu bắt đầu bằng nội dung nghi ngờ, anh ta sẽ kết thúc trong sự chắc chắn." —Francis Bacon (1605) The Advancement of Learning, Book 1, v, 8 
+
+Một quan điểm hoài nghi, cần sự chứng minh, là những gì đã được thực hiện bằng thực tiễn trong khoảng 10.000 năm trước đây, với Alhazen, Doubts Concerning Ptolemy, theo Bacon (1605), và C. S. Peirce (1839–1914), họ đã ghi nhận rằng một cộng đồng sau đó sẽ thành lập để giải quyết những điểm nghi ngờ này. Các phương pháp tìm tòi/tìm hiểu một vấn đề đã được biết trong hàng ngàn năm, và đã triển khai từ lý thuyết thành thực tiễn. Ví dụ như dùng cách đo lường là cách tiếp cận thực tế để giải quyết các tranh chấp trong cộng đồng.
+John Ziman chỉ ra rằng việc nhận dạng yếu tố liên chủ thể là nền tảng cho sự sáng tạo của tất cả tri thức khoa học. Ziman cho thấy làm thế nào mà các nhà khoa học có thể xác định được những yếu tố liên quan này qua nhiều thế kỷ: Needham 1954 (minh họa trang 164) cho thấy làm thế nào các nhà thực vật học phương tây được đào tạo ngày nay có thể xác định loài Artemisia alba từ các ảnh được chụp từ các loại được liệu của Trung Quốc từ thế kỷ 16, và Ziman xem khả năng này là 'khả năng chấp nhận' ('perceptual consensibility'). Ziman sau đó thực hiện consensibility, dẫn đến điểm đồng thuận, rồi tiêu chuẩn đánh giá về kiến thức đáng tin cậy.
+
+
+=== Đo lường ===
+
+Đo lường cung cấp các chuẩn mực về độ lớn trong quan sát và thí nghiệm, là một bước quan trọng trong nghiên cứu khoa học (khoa học tự nhiên và khoa học xã hội).
+Trong vật lý và công nghệ, đo lường được thực hiện bằng cách so sánh giữa đại lượng vật lý cần đo với đại lượng vật lý cùng thể loại, nhưng ở những điều kiện tiêu chuẩn (thường là không thay đổi theo thời gian) gọi là đơn vị đo. Việc đo này đem lại một con số thể hiện mối liên hệ về độ lớn giữa đại lượng cần đo và đơn vị đo. Đồng thời, nếu có thể, đo lường cũng cho biết sai số của con số trên (sai số phép đo).
+
+
+=== Đơn vị SI ===
+
+
+=== Toán học và khoa học thuần túy ===
+
+Toán học là thành phần thiết yếu trong khoa học. Một trong những chức năng quan trọng của toán học trong khoa học là nó đóng vai trò trong việc thể hiện những "mô hình" khoa học. Việc quan sát và thu thập các số liệu đo đạc, cũng như các giả thiết và dự đoán, thường đòi hỏi việc sử dụng nhiều kiến thức về toán học. Ví dụ như số học, đại số, hình học, lượng giác và vi tích phân tất cả đều cần thiết cho vật lý học.
+Những ứng dụng của khoa học máy tính nhằm mô phỏng các hiện trạng của thế giới thực giúp cho con người hiểu rõ hơn về các vấn đề khoa học hơn là cách tiếp cận chỉ từ toán học thuần túy. Theo Society for Industrial and Applied Mathematics, công cụ tính toán bằng máy tính hiện quan trọng như học thuyết và thí nghiệm trong tri thức khoa học tiên tiến.
+
+
+=== Phương pháp khoa học ===
+
+
+== Cộng đồng khoa học ==
+Cộng đồng khoa học là nhóm bao gồm tất cả các nhà khoa học, trong đó có các nhóm nhỏ các nhà khoa học làm việc chuyên về các lĩnh vực khoa học, và trong các tổ chức cụ thể; bao gồm các hoạt động liên ngành và xuyên tổ chức.
+
+
+=== Các tổ chức khoa học ===
+
+Các cộng đồng học thuật với mục đích trao đổi thông tin và phát huy tư tưởng khoa học và thực nghiệm đã tồn tại từ thời kỳ Phục Hưng. Viện nghiên cứu cổ nhất còn tồn tại là Accademia dei Lincei ở Ý, viện này được thành lập năm 1603. Viện hàn lâm khoa học quốc gia là các tổ chức khoa học đặc biệt và chỉ có ở một số quốc gia, như sớm nhất là Royal Society của Anh thành lập năm 1660 và của Pháp là Académie des Sciences thành lập năm 1666.
+
+
+=== Văn liệu khoa học ===
+Có nhiều dạng văn liệu khoa học được xuất bản. Các tạp chí khoa học có mục đích truyền thông và ghi nhận những kết quả nghiên cứu được thực hiện ở các trường đại học và những cơ sở (viện) có chức năng nghiên cứu khác. Các tạp chí khoa học đầu tiên là Journal des Sçavans sau đó là Philosophical Transactions, đã bắt đầu xuất bản năm 1665. Kể từ đó, tổng số các hoạt động xuất bản theo định kỳ tăng lên đều. Đến năm 1981, theo ước tính, số tạp chí khoa học và công nghệ đã xuất bản là 11.500. Thư viện Y quốc gia Hoa Kỳ (United States National Library of Medicine) hiện có số đầu mục tạp chí là 5.516 bao gồm các bài báo liên quan đến khoa học đời sống. Mặc dù các tạp chí được viết bằng 39 ngôn ngữ khác nhau, nhưng có đến 91% số bài báo được viết bằng tiếng Anh.
+
+
+== Xem thêm ==
+Lịch sử khoa học
+Khoa học tự nhiên
+Khoa học xã hội
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+(bằng tiếng Việt)
+Khoa học và các khoa học: La science et les sciences. Gilles-Gaston Granger; Phan Ngọc, Phan Thiều dịch. Nhà xuất bản Thế giới, 1995, 147tr, (Tôi biết gì? Que sais-je? Bộ sách giới thiệu những kiến thức thời đại)
+Danh từ, thuật ngữ khoa học công nghệ và khoa học về khoa học. B.s: Đỗ Công Tuấn (ch.b), Nguyễn Tiến Đức, Lê Thị Hoài An. Nhà xuất bản Khoa học kỹ thuật, Trung tâm văn hóa ngôn ngữ Đông Tây, 2001, 179tr
+Từ điển khoa học và kỹ thuật Anh-Việt: Khoảng 95.000 mục từ. B.s: Trương Cam Bảo, Nguyễn Văn Hồi, Phương Xuân Nhàn. Nhà xuất bản Khoa học và Kỹ thuật, 2002, 1220tr
+(bằng tiếng Anh)
+The origins of modern science 1300 - 1800. H. Butterfield - New York: The Macmillan company, c 1958, x, 242tr
+Science in History. J. D. Bernal - 4th ed. - Cambridge: The M.I.T Press, c 1969, Tr. 695-1003, XXV
+The history of science in western civilization. L. Pearce Williams, Henry John Steffens University press of America, 1977
+Studies in history of sciences. Ed.: S. Chatterfee,. - Calcutta: The Asiatic society, 1997, XIII, 240tr
+Feyerabend, Paul (2005). Science, history of the philosophy, as cited in Honderich, Ted (2005). The Oxford companion to philosophy. Oxford Oxfordshire: Oxford University Press. ISBN 0199264791. OCLC 173262485.  of. Oxford Companion to Philosophy. Oxford.
+Feynman, R.P. (1999). The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman. Perseus Books Group. ISBN 0465023959. OCLC 181597764. 
+Papineau, David. (2005). Science, problems of the philosophy of., as cited in Honderich, Ted (2005). The Oxford companion to philosophy. Oxford Oxfordshire: Oxford University Press. ISBN 0199264791. OCLC 173262485. 
+Parkin, D (1991). “Simultaneity and Sequencing in the Oracular Speech of Kenyan Diviners”. Trong Philip M. Peek. African Divination Systems: Ways of Knowing. Indianapolis, IN: Đại học Indiana Press. .
+Stanovich, Keith E (2007). How to Think Straight About Psychology. Boston: Pearson Education. 
+
+
+== Đọc thêm ==
+Augros, Robert M., Stanciu, George N., "The New Story of Science: mind and the universe", Lake Bluff, Ill.: Regnery Gateway, c1984. ISBN 0-89526-833-7
+Baxter, Charles "Myth versus science in educational systems"PDF (66.4 KB)
+Becker, Ernest (1968). The structure of evil; an essay on the unification of the science of man. New York: G. Braziller. 
+Cole, K. C., Things your teacher never told you about science: Nine shocking revelations Newsday, Long Island, New York, 23 tháng 3 năm 1986, pg 21+
+Feynman, Richard "Cargo Cult Science"
+Gopnik, Alison, "Finding Our Inner Scientist", Daedalus, Winter 2004.
+Krige, John, and Dominique Pestre, eds., Science in the Twentieth Century, Routledge 2003, ISBN 0-415-28606-9
+Kuhn, Thomas, The Structure of Scientific Revolutions, 1962.
+McComas, William F. "The principal elements of the nature of science: Dispelling the myths"PDF (189 KB) Rossier School of Education, University of Southern California. Direct Instruction News. Spring 2002 24–30.
+Obler, Paul C.; Estrin, Herman A. (1962). The New Scientist: Essays on the Methods and Values of Modern Science. Anchor Books, Doubleday.  
+Thurs, Daniel Patrick (2007). Science Talk: Changing Notions of Science in American Popular Culture. New Brunswick, NJ: Rutgers University Press. tr. 22–52. ISBN 978-0-8135-4073-3. 
+Levin, Yuval (2008). Imagining the Future: Science and American Democracy. New York, Encounter Books. ISBN 1-59403-209-2
+Stephen Gaukroger. The Emergence of a Scientific Culture: Science and the Shaping of Modernity 1210-1685. Oxford, Clarendon Press, 2006, 576 pp.
+
+
+== Liên kết ngoài ==
+Thư viện khoa học VLOS
+Tin tức
+Nature News. Science news by the journal Nature
+New Scientist. An weekly magazine published by Reed Business Information
+ScienceDaily
+Science Newsline
+Sciencia
+Discover Magazine
+Irish Science News from Discover Science & Engineering
+Science Stage Scientific Videoportal and Community
+Tài liệu
+Euroscience:
+Euroscience Open Forum (ESOF)
+
+Science Council
+Science Development in the Latin American docta
+Classification of the Sciences Dictionary of the History of Ideas
+"Nature of Science" University of California Museum of Paleontology
+United States Science Initiative. Selected science information provided by U.S. Government agencies, including research and development results.

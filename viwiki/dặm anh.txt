@@ -1,0 +1,69 @@
+Mile (dặm Anh đôi khi được gọi tắt là dặm, tuy nhiên cũng nên phân biệt với một đơn vị đo lường cổ được người Việt và người Hoa sử dụng cũng được gọi là dặm) là một đơn vị chiều dài, thường được dùng để đo khoảng cách, trong một số hệ thống đo lường khác nhau, trong đó có Hệ đo lường Anh, Hệ đo lường Mỹ và mil của Na Uy/Thụy Điển. Chiều dài của mỗi hệ chênh lệch nhau, nhưng nói chung là hơn 1 km và dưới 3 km. Trong các ngữ cảnh tiếng Anh hiện nay mile có thể là:
+Dặm pháp định bằng 5.280 feet (khoảng 1.609 m), hoặc 63360 inch
+Hải lý (nautical mile) bằng chính xác 1.852 m (khoảng 6.076 feet).
+Có nhiều cách viết tắt cho mile: mi, ml, m, M. NIST hiện nay sử dụng và đề nghị cách viết tắt "mi", nhưng dặm trên giờ thường được viết ngắn lại là "mph", "m.p.h." hoặc "MPH" thay vì "mi/h".
+
+
+== Mile nguyên thủy ==
+Đơn vị khoảng cách gọi là mile được sử dụng lần đầu bởi những người La Mã để chỉ một khoảng cách là 1000 pace (bước chạy) (1 pace là 2 step - hay bước đi, 1000 pace trong tiếng Latin là mille passus) hoặc 5000 feet La Mã, và tương ứng với khoảng 1480 mét, hoặc 1618 yard hiện đại.
+Định nghĩa hiện nay của một mile là 5.280 feet (chứ không phải 5000 như thời La Mã). Tỷ lệ này có từ thế kỷ 13, và sau được xác nhận bởi quy định pháp luật dưới triều đại Nữ hoàng Elizabeth I. Việc điều chỉnh chiều dài của mile là để thích ứng với rod, một đơn vị chiều dài nằm trong các văn bản pháp luật cổ của Anh (xem thảo luận về furlong).
+
+
+== Các loại mile ==
+Trong cách dùng ngày nay, có nhiều khoảng cách khác nhau được định nghĩa là mile.
+Nó bắt nguồn từ Đạo luật của nghị viện Anh vào năm 1592 dưới thời trị vì của Elizabeth I của Anh. Luật này định nghĩa Mile pháp định là 5.280 feet hoặc 1.760 yard; hoặc 63.360 inch. Lý do xuất hiện những con số khá bất quy tắc này là do 5280 feet tạo thành từ tám furlong (chiều dài vết xe tạo ra trước khi ngựa đổi hướng, furlong = furrow (vết xe) + long (dài)). Đến lượt 1 furlong bằng 10 chain (xích) (xích của viên thanh tra, được dùng cho đến khi dụng cụ đo bằng laser thay thế); một chain bằng 22 yard và một yard bằng 3 feet, do đó thành ra là 5280 feet. 22 yard cũng là chiều dài của sân thi đấu môn cricket, một trò chơi bắt nguồn từ Anh và vẫn còn được chơi ở một số nước trước đây là một phần của Đế quốc Anh.
+Trước khi có đạo luật của nghị viện Anh thì chiều dài của mile chưa thống nhất. Mile của người Ireland bằng 2240 yard (6720 ft) và mile của người Scotland, được gọi là Mile Hoàng gia ở Edinburg, là khoảng cách từ Lâu đài đến Cung điện Holyroodhouse, và bằng 1976 yard (5928 ft). Ở Anh, một dặm La Mã bằng 5.000 feet cũng thường được dùng, một chiều dài không chẵn cho furlong và yard (5000 ft = 1666 2/3 yard). Vào những năm 1500, sự đo đạc bản đồ chính xác đã bắt đầu phổ biến, như bản đồ Các Hạt ở nước Anh của Saxton. Do đó, một dặm tiêu chuẩn trở thành vấn đề quan trọng hơn bao giờ hết, đã dẫn đến Đạo luật Nghị viện. Nó cũng liên quan đến khả năng thu thuế, vì một chuẩn đo thống nhất trên toàn quốc sẽ là cần thiết để tránh những tranh cãi trong từng vùng về chiều dài và diện tích.
+Ngày nay, dặm pháp định quốc tế đã được thống nhất trên khắp thế giới. Mile được định nghĩa chính xác là 1.760 yard quốc tế (bằng 0,9144 m) và do đó bằng chính xác 1.609,344 mét (hay 1,609344 km). Một kilômét bằng 0,621371192 dặm. Mile này cũng được dùng ở Hoa Kỳ và Vương quốc Liên hiệp Anh và Bắc Ireland như một phần của Hệ đo lường Mỹ và Hệ đo lường Anh. Các thành phần của dặm pháp định quốc tế cũng giống như Đạo luật Nghị viện Anh vào năm 1592, đó là 8 furlong, 80 chain hoặc 5.280 feet quốc tế.
+Tất cả sự chuyển đổi sang hệ mét đều theo một thỏa thuận quốc tế được tạo ra vào năm 1960, đó là một inch bằng chính xác 25,4 milimét (2,54 xentimét). Có 12 inch trong một foot và tất cả các sự chuyển đổi từ feet sang mét (và ngược lại) đều theo chuẩn đó.
+Dặm khảo sát Hoa Kỳ dựa trên một inch được định nghĩa chính xác là 1 mét = 39,37 inch. Mile này đo được 5.280 feet khảo sát của Mỹ, hoặc xấp xỉ 1.609,347 mét. Vì vậy dặm quốc tế chênh lệch với dặm khảo sát với tỷ lệ 1 dặm pháp định: 0,999 998 dặm khảo sát. Dặm khảo sát được dùng trong Hệ thống Khảo sát Đất đai Công cộng của Hoa Kỳ.
+
+
+=== Hải lý ===
+
+Hải lý hay Dặm biển (nautical mile) trước đây được định nghĩa bằng chiều dài góc 1 phút của cung kinh tuyến (hoặc là bất kỳ vòng tròn lớn nào) của Trái Đất. Mặc dù khoảng cách này thay đổi tùy vào vĩ độ của kinh tuyến (hoặc vòng tròn lớn) nơi đang sử dụng, trung bình nó khoảng 6.076 feet (khoảng 1852 m hoặc 1,15 dặm pháp định).
+Hải lý trên giờ có tên là knot (tiếng Việt gọi là gút hay nút).
+Những người đi biển sử dụng com-pa để "bước đi" trên đường thẳng nối giữa hai điểm cần đo, sau đó đặt com-pa mở vào thước đo độ vĩ ở góc bản đồ, từ đó đọc được khoảng cách tính theo hải lý. Vì ngày nay ta biết rằng Trái Đất hình ellipsoid chứ không phải hình cầu, nên cách tính khoảng cách hải lý như thế sẽ khác nhau khi thay đổi từ xích đạo lên các địa cực. Ví dụ, sử dụng WGS84 Ellipsoid, Mô hình Trái Đất được chấp nhận phổ biến hiện nay, 1 phút vĩ độ tại xích đạo WGS84 là 6.087 feet và tại địa cực là 6.067 feet.
+Ở Mỹ, một hải lý được định nghĩa vào thế kỷ thứ 19 là 6.080,2 feet (1.853,249 m), trong khi ở Anh Hải lý Hải quân được định nghĩa là 6.080 feet (hay 1.853,184 m), tương đương với 1 phút độ vĩ theo các vĩ tuyến ở phía Nam nước Anh. Những nước khác có những định nghĩa khác về hải lý, nhưng hiện nay nó đã được định nghĩa trên toàn thế giới là bằng chính xác 1.852 mét.
+Hải lý hầu như được sử dụng trên toàn thế giới khi du hành bằng đường hàng không, hàng hải, và các lĩnh vực liên quan đến hàng hải vì mối liên hệ của nó với độ và phút của độ vĩ và khả năng sử dụng thước đo tỷ lệ vĩ độ của bản đồ để đo khoảng cách.
+Một thuật ngữ khác - dặm biển - vẫn còn được sử dụng cho khoảng cách của một phút độ vĩ.
+
+
+== Những dặm khác ==
+Dặm La mã (tiếng Latin: mille passus, số nhiều milia passuum), bằng 1000 bước kép (passus, số nhiều passūs) mỗi bước bằng 5 feet La Mã (pēs, số nhiều pedēs). Chiều dài của nó là 5.000 feet La Mã, khoảng gần chính xác 1500 m.
+Dặm Đan Mạch (tiếng Đan Mạch: mil) bằng với 7.532 mét (hoặc 24.000 feet Đan Mạch hay 12.000 alen).
+Dặm dữ liệu được dùng trong các vật thể liên quan đến radar và bằng 6.000 feet (1,8288 kilômét).
+Dặm Hà Lan (dặm "Hollandic") bằng xấp xỉ một phần mười chín độ (~5,8 kilômét).
+Dặm Hà Lan (hay dặm "Netherlandic") bằng chính xác 1 kilômét trong Hệ Mét của Hà Lan 1820-1870.
+Dặm Đức được tính bằng một phần 15 độ (và do đó bằng bốn lần hải lý hoặc 6,4 kilômét).
+Dặm Ireland bằng 2.240 yard (2.048,256 m).
+Dặm Ý còn được gọi là dặm La Mã (~1,52 kilômét hay 0,944 dặm pháp định) là một ngàn bước, mỗi bước là 5 feet La Mã (foot La mã bằng một phần 5 của một inch ngắn hơn foot London).
+Thuật ngữ Dặm Metric được dùng trong thể thao như môn điền kinh và trượt băng tốc độ để chỉ khoảng cách là 1,5 kilômét. Ở các giải thi đấu ở cấp phổ thông ở Mỹ, thuật ngữ này đôi khi được dùng cho một cuộc đua dài 1,6 kilômét.
+mil của Na Uy/Thụy Điển (dặm Thụy Điển, hiện được dùng ở Na Uy và Thụy Điển) được định nghĩa bằng 10 kilômét từ ngày 1 tháng 1 năm 1889, khi hệ mét được giới thiệu tại Thụy Điển. mil, đơn vị tồn tại trước khi hệ mét ra đời, trước đây có tên là rast, nghĩa là ngừng, nghỉ, dài khoảng 11,3 kilômét ở Na Uy (xem Dặm dài ở dưới) và 10.688,54 mét ở Thụy Điển, đại diện cho khoảng cách thích hợp giữa hai chặng nghỉ khi đi bộ. Trong các tình huống thông thường và không chính xác liên quan đến những khoảng cách dài hơn vài cây số, theo một quy định, mil được dùng thay vì kilômét. Nó cũng được dùng phổ biến để đo mức tiêu thụ nhiên liệu của xe cộ; lít trên mil có nghĩa là số lít nhiên liệu tiêu thụ trên mỗi 10 kilômét [1].
+Dặm Ba Lan gần bằng dặm Hà Lan.
+Dặm Scotland bằng 1.976,5 yard (1,807.3116 m).
+Dặm dài, được sử dụng trước đây bởi người Na Uy, Thụy Điển và Hungary, gần bằng một dặm Đức rưỡi hoặc khoảng 11 kilômét.
+Đơn vị tương ứng của Phần Lan, virsta, là 1068,8 m. Mười virsta tạo thành một peninkulma (có nghĩa là "tầm nghe của chó săn", khoảng cách xa nhất có thể nghe được tiếng sủa của chó trong không khí), 10,688 km. Ngày nay peninkulma để chỉ 10 km trong cách dùng thông dụng của Phần Lan (giống như mil trong cách dùng của Na Uy và Thụy Điển).
+Dặm của người bơi là 1500 mét hoặc 30 vòng trong một hồ 25 mét. Nó có thể chuyển đổi (thô) thành 1650 yard trong hồ nước 25 yard (33 vòng), khoảng cách chuẩn trong các cuộc thi Liên trường Đại học ở Hoa Kỳ.
+Dặm quốc gia được sử dụng thông tục để chỉ một khoảng cách rất dài.
+
+
+== Xem thêm ==
+Đo khối lượng và chiều dài cổ
+Dãy Fibonacci ứng dụng: chuyển đổi sang kilômét
+Dặm bốn phút
+Hệ đo lường Anh
+League
+Đo khối lượng và chiều dài trung cổ
+Dặm vuông
+Hệ đo lường Mỹ
+
+
+== Tham khảo ==
+'Of Divers Measures', in Laurence Echard, 1741, The Gazetteer's or Newsman's Interpreter, London: Ballard et al. (xuất bản lần đầu vào 1703)
+
+
+== Liên kết ngoài ==
+Bảng Đơn vị Đo lường Chung NIST
+Đổi đơn vị trực tuyến
+Hải lý ở Freeport, New York
+Đổi dặm sang km

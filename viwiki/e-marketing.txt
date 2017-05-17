@@ -1,0 +1,31 @@
+E-marketing (Internet marketing hay online marketing), hay tiếp thị trực tuyến là hoạt động tiếp thị cho sản phẩm và dịch vụ thông qua mạng kết nối toàn cầu Internet. Các dữ liệu khách hàng kỹ thuật số và các hệ thống quản lý quan hệ khách hàng điện tử (ECRM) cũng kết hợp với nhau trong việc tiếp thị Internet.
+Sự xuất hiện của Internet đã đem lại nhiều lợi ích như chi phí thấp để truyền tải thông tin và truyền thông (media) đến số lượng lớn đối tượng tiếp nhận, thông điệp được truyền tải dưới nhiều hình thức khác nhau như văn bản, hình ảnh, âm thanh, phim và trò chơi. Với bản chất tương tác của E-marketing, đối tượng nhận thông điệp có thể phản hồi tức khắc hay giao tiếp trực tiếp với đối tượng gửi thông điệp. Đây là lợi thế lớn của tiếp thị trực tuyến so với các loại hình khác.
+Tiếp thị trực tuyến kết hợp tính sáng tạo và kỹ thuật của Internet, bao gồm thiết kế, phát triển, quảng cáo và bán hàng. Tiếp thị trực tuyến bao gồm các hình thức như tiếp thị qua công cụ tìm kiếm (search engine marketing - SEM), tiếp thị hiển thị (display marketing), tiếp thị qua mạng xã hội (social media marketing), tiếp thị nội dung (content marketing), tiếp thị qua thư điện tử (e-mail marketing), tiếp thị liên kết (affiliate marketing), v.v... Hình thức tiếp thị di động (mobile marketing) đang phát triển mạnh mẽ.
+Tiếp thị trực tuyến gắn với mạng Internet và có phạm vi hẹp hơn tiếp thị số (digital marketing). Chẳng hạn, tin nhắn quảng cáo SMS thuộc tiếp thị số nhưng không phải là tiếp thị trực tuyến. Tuy nhiên, hai khái niệm này có xu hướng đồng nhất với sự phát triển của Internet vạn vật (Internet of Things).
+
+
+== Ưu điểm ==
+Một trong những lợi thế lớn của E-marketing là sự sẵn sàng của lượng lớn thông tin. Người tiêu dùng có thể truy cập thông tin sản phẩm và thực hiện giao dịch, mua bán mọi lúc mọi nơi. Doanh nghiệp sử dụng e-makerting có thể tiết kiệm được chi phí bán hàng như chi phí thuê mặt bằng, giảm số lượng nhân viên bán hàng,.. E-marketing còn giúp doanh nghiệp tiếp cận với thị trường rộng lớn cũng như phát triển ra toàn cầu. Ngoài ra, so sánh với các phương tiện khác như in ấn, báo đài, truyền hình, e-marketing có lơi thế rất lớn về chi phí thấp. 
+Các hoạt động E-marketing khi triển khai có thể dễ dàng theo dõi và đánh giá. Ví dụ với Website, dịch vụ ‘Web analytic' cho phép theo dõi số lượng người truy cập, nội dung quan tâm từ đó có thể đánh giá thông điệp truyền đi có đúng với ước muốn của khách hàng không. Theo dự đoán, E-marketing ngày càng phát triển mạnh hơn so với các loại hình khác. 
+
+
+== Hạn chế ==
+Tuy nhiên, E-marketing vẫn có một số hạn chế. Thứ nhất, về phương diện kỹ thuật, E-marketing đòi hỏi khách hàng phải sử dụng các kỹ thuật mới và không phải tất cả mọi đối tượng khách hàng có thể sử dụng chúng. Đường truyền tốc độ chậm cũng là một tác nhân gây khó khăn. Ngoài ra, nếu công ty xây dựng Website lớn và phức tạp để quảng bá sản phẩm, nhiều khách hàng sẽ gặp khó khăn khi sử dụng Website cũng như tải thông tin về với đường truyền chậm hay vào các thiết bị di động. Thứ hai, về phương diện bán hàng, khách hàng không thể chạm, nếm, dùng thử hay cảm nhận sản phẩm trước khi mua trực tuyến.
+
+
+== Sự ảnh hưởng đến công nghiệp ==
+E-marketing đã và đang có ảnh hưởng rộng lớn với nhiều ngành công nghiệp như âm nhạc, ngân hàng, thương mại, cũng như bản thân ngành công nghiệp quảng cáo.
+Trong ngành công nghiệp âm nhạc, nhiều khách hàng mua và tải các bản nhạc qua Internet thay vì mua CD. Ngày càng nhiều ngân hàng cung cấp các dịch vụ trực tuyến. Dịch vụ ngân hàng trực tuyến được cho rằng sẽ hấp dẫn khách hàng hơn khi họ không phải đến các chi nhánh ngân hàng để thực hiện.
+Hiện tại, hơn 150 triệu người Mỹ sử dụng dịch vụ ngân hàng trực tuyến và tốc độ tăng trưởng ngày càng cao. Sự cải thiện tốc độ kết nối Internet là nguyên nhân chính cho sự tăng trưởng này. 44% những cá nhân sử dụng Internet thực hiện các giao dịch với ngân hàng qua Internet.
+Đấu giá qua Internet cũng đang trở nên phổ biến. Những mặt hàng hiếm trước đây chỉ có thể tìm ở các chợ trời nay đang được rao bán trên eBay. Trang Web nay cũng có ảnh hưởng mạnh đến giá cả. Người mua và người bán thường tham khảo giá trên eBay trước khi đến chợ trời và giá trên eBay thường trở thành giá mà sản phẩm được bán. Ngày càng nhiều người bán hàng ở chợ trời rao bán hàng trên eBay và điều hành công việc kinh doanh ở nhà.
+Sự ảnh hưởng của E-marketing lên nền công nghiệp quảng cáo ngày càng lớn. Chỉ trong vài năm, quảng cáo trực tuyến tăng trưởng đều đặn đến hàng chục tỷ USD. Theo báo cáo của Pricewaterhouse Coopers, thị trường E-marketing Mỹ trị giá tổng cộng 16,9 tỷ USD trong năm 2006.
+
+
+== Tiếp thị trực tuyến ở Việt Nam ==
+Thị trường tiếp thị trực tuyến ở Việt Nam phát triển khá nhanh. Những hình thức quảng cáo phổ biến bao gồm quảng cáo hiển thị và quảng cáo qua công cụ tìm kiếm. Quảng cáo qua mạng xã hội và quảng cáo qua di động đang tăng trưởng mạnh mẽ. Google và Facebook là hai doanh nghiệp chiếm thị phần lớn nhất.
+
+
+== Xem thêm ==
+
+
+== Tham khảo ==

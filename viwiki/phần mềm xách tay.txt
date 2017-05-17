@@ -1,0 +1,49 @@
+Portable application, còn gọi là portable software, tạm dịch là phần mềm xách tay, là phần mềm không cần phải cài đặt vào máy tính mà có thể trực tiếp chạy từ thiết bị lưu trữ ngoại vi như CD-ROM, USB flash drive, thẻ nhớ hay thậm chí từ đĩa mềm, có khả năng chạy được trên nhiều máy tính. Nói như vậy không có nghĩa là phần mềm xách tay có thể hoạt động được trên những hệ điều hành khác nhau, nền tảng khác nhau hoặc những máy tính không đủ đáp ứng yêu cầu về phần cứng (Ví dụ: Một phần mềm xách tay vốn được tạo ra từ phần mềm gố chỉ tương thích với hệ điều hành Linux thì không thể hoạt động trong hệ điều hành Windows).
+Một số gọi portable software là standalone.
+
+
+== Portable Software cho môi trường Windows ==
+Phần lớn phần mềm viêt́ cho Microsoft Windows không được thiết kế để có thể portable hóa. Windows registry, nơi quản các thư viện liên kết động .dll luôn luôn yêu cầu đăng ký thông tin về phần mềm trước khi sử dụng. Một số phần mềm lớn như ví dụ như Adobe Photoshop và Microsoft Word luôn sử dụng bộ đăng ký, và lưu trữ các tệp thông tin tại thư mục "My Documents" hoặc "Documents and Settings".
+Để có thể tạo ra các ứng dụng portable, các nhà lập trình phải làm cho phần mềm của họ có thể được chuyển khỏi máy tính một cách "sạch sẽ". Điều này đồng nghĩa với việc ứng dụng khoong được sử dụng registry hay lưu trữ các tập tin vào bất kỳ thư mục nào trên máy tính ngoài thư mục ứng dụng được cài đặt.
+Khi được cài đặt vào các thiết bị lưu trữ có thể tháo rời, chương trình cần lưu các cấu hình trong một tập tin INI file (hoặc các file cấu hình tương tự) thay vì registry.
+Cũng có phương thức khác cũng có thể được sử dụng để biến ứng dụng thành ứng dụng portable trong môi trường Windows mà không đòi hỏi thay đổi về mã nguồn. Thông qua sử dụng ảo hóa, truy cập tới file system và registry của ứng dụng sẽ bị chặn lại và chuyển hướng. Lớp ảo hóa này sẽ chặn tất cả các lệnh truy cập mà có thể làm ứng dụng không portable được và chuyển hướng tới các tập tin trong thư mục cài đặt của ứng dụng. Phương thức này cho phép không thay đổi ứng dụng mà có thể cung cấp khả năng portable.
+
+
+== Portable Software cho môi trường Macintosh ==
+Rất nhiều ứng dụng cho máy tính Macintosh OS X có một mức độ portable sẵn có vì chúng được cài đặt thông qua kéo thả thay vì sử dụng các bộ Installer. Tuy nhiên nhiều ứng dụng khác không thực sự portable vì chúng lưu trữ các file cấu hình trên đĩa lắp trong nơi hệ điều hình được cài đặt. Các ứng dụng Mac được thiết kế với mục đích portable sẽ lưu trữ cấu hình tại ổ đĩa mà ứng dụng được chạy..
+
+
+== Ứng dụng của phần mềm Portable ==
+Ứng dụng Portable xuất hiện để đáp ứng nhu cầu của các cá nhân là người sử dụng cuối cùng cũng như nhu cầu của các doanh nghiệp.
+Đối với các cá nhân, cùng với việc sử dụng thẻ nhớ xách tay USB chứa các dữ liệu cá nhân, họ có nhu cầu có thể truy cập dữ liệu này từ bất kỳ nơi nào trên bất kỳ máy tính nào. Vì vậy họ cần có các ứng dụng có khả năng chạy từ ổ đĩa USB trong đó lưu trữ mọi cấu hình mà họ đã thiết lập. Một số phần mềm được thiết kế cho mục đích này và do vậy có khả năng portable.
+Đối với các doanh nghiệp, việc quản trị cài đặt, cấu hình, nâng cấp, bảo dưỡng cho các ứng dụng trong một môi trường có hàng trăm hay hàng nghìn máy tại các địa điểm khác nhau là một vấn đề khó khăn. Chúng ta có thể tưởng tượng một ngân hàng hoạt động trên quy mô cả nước với hàng nghìn chi nhánh và hàng chục nghìn máy lẻ và họ muốn nâng cấp một phần mềm. Để làm được điều này, theo cách thông thường, sẽ phải tới từng máy tính một và thực hiện các thao tác cài đặt và cấu hình trên máy tính đó. Phần mềm Portable sẽ giải quyết hiệu quả bài toán này thông qua việc thực hiện và cài đặt trên 1 máy và sau đó copy phần mềm đó tới tất cả các máy mà không cần phải cấu hình.
+
+
+== Vấn đề bản quyền ==
+Vi phạm bản quyền là một vấn đề khá phổ biến trong các phần mềm xách tay nhờ khả năng "copy và chạy" của phần mềm portable. Các nhóm cung cấp phần mềm vi phạm bản quyền có xu hướng cung cấp phần mềm dưới dạng portable vì chúng được download nhiều hơn do dễ sử dụng, thường có dung lượng lớn hơn và vì vậy có doanh thu hoặc nhiều điểm hơn tại các máy chủ hosting. So với cách cung cấp phần mềm vi phạm bản quyền theo cách thông thường gồm phần cài đặt chính thức của phần mềm và số serial đăng ký, phần mềm tạo số serial tự động hoặc một bản chương trình đã bẻ khóa, phân phối phần mềm vi phạm bản quyền dưới dạng portable có nhiều ưu điểm hơn với người sử dụng cuối như không phải cài đặt, đảm bảo khả năng chạy là 100% cũng như với người cung cấp như bắt buộc phải tải 100 ứng dụng, giấu được cách bẻ khóa, lưu danh v.v. Rất nhiều phần mềm của các công ty lớn, rất quen thuộc và có giá trị khá cao "bị portable hóa", ví dụ như Microsoft Office; Adobe Photoshop CS2,3; Nero; Norton Antivirus. Nói chính xác, portable chỉ là một dạng phát hành khác của các phần mềm vi phạm bản quyền và vi phạm bản quyền hay không là do người sử dụng cuối cùng.
+
+
+== Tạo phần mềm portable sử dụng Thinstall ==
+Thinstall là giải pháp đơn giản để biến đổi một phần mềm Windows sang dạng portable. Để tạo một phần mềm Portable, chỉ cần thực hiện các thao tác sau:
+1. Chạy Thinstall và quét cấu hình hệ thống (Pre-install scan). Thông thường một phiên bản sạch của điều hành được sử dụng để đảm bảo tất cả thay đổi sau này sẽ được phát hiện. Thinstall sẽ quét và lưu giữ một ảnh chụp của hệ thống hiện tại gồm các tập tin trên đĩa và trạng thái registry
+2. Cài đặt và cấu hình ứng dụng: Cài đặt và cấu hình ứng dụng như bình thường
+3. Chạy Thinstall và quét lại cấu hình hệ thống (Post-install scan). Thinstall quét lại hệ thống, phát hiện ra các tập tin và khóa registry đã bị thay đổi trong quá trình cài đặt và đưa vào một thư mực riêng.
+4. Chạy file batch để biên dịch ứng dụng portable. Phần mềm biên dịch sẽ gộp các file và khóa registry ở bước 3 vào một hệ điều hành ảo và gộp vào một file.
+5. Phát hành file đã được biên dịch
+
+
+== Tham khảo thêm ==
+Danh sách các phần mềm xách tay
+Danh sách trò chơi trên máy tính (xách tay)
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+klik - Portable Software cho HĐH Linux
+OS X Portable Applications - FreeSMUG.org - Mac OS X Portable Software.
+Portable Freeware - Chỉ là danh sách các phần mềm có thể portable hóa.
+Tuuko-Free Portable Software - Chỉ là danh sách các phần mềm có thể portable hóa.
+Thinstall-Thinstall là công nghệ ảo hóa ứng dụng hàng đầu trong môi trường Windows.
+Hướng dẫn tạo ứng dụng Portable Tạo ứng dụng Portable đơn giản sử dụng Thinstall.

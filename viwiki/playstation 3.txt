@@ -1,0 +1,40 @@
+PlayStation 3 (プレイステーション 3,, Pureisutēshon Surī, nhãn hiệu PLAYSTATION 3, thường gọi tắt PS3) là video game console thế hệ thứ bảy. Nó là thành công của PlayStation và PlayStation 2 và cạnh tranh với Xbox 360 của Microsoft và Wii của Nintendo.
+PS3 được phát hành ngày 11 tháng 11 năm 2006 tại Nhật Bản, và ngày 17 tháng 11 năm 2006 tại Hoa Kỳ, Canada, Hồng Kông, và Đài Loan. Nó được phát hành vào tháng 3 năm 2007 tại châu Âu và Úc.
+
+
+== Công nghệ ==
+PlayStation 3 dùng bộ xử lý (BXL) Cell do IBM, Sony, và Toshiba phát triển. Chip này có 9 processors. Công nghệ Cell có thể xử lý nhanh gấp 10 lần các bộ xử lý trước nên PS3 có khả năng chạy đồng thời nhiều chương trình.
+Khả năng đồ họa trong PS3 tinh tế đến mức cho phép đổ bóng theo sự thay đổi của các vật thể và có khả năng tạo sự phản chiếu của ánh sáng trong mắt nhân vật. Đó là nhờ sức mạnh của BXL đồ họa RSX, dựa trên công nghệ của NVIDIA với 512 MB bộ nhớ và khả năng xử lý điểm ảnh 128 bit, độ phân giải 1080 p.
+RSX được sản xuất bằng công nghệ 90 nm với 8 lớp và hơn 300 triệu transistor.
+PS3 được trang bị chip nhớ XDR RAM 512MB của Samsung có tốc độ 9,6 GB/s đạt tốc độ trung bình 4,8 GB/s ở hiệu điện thế 1,8 v.
+Playstation 3 được trang bị ổ cứng 80GB.
+PS3 khi mới sản xuất mạnh đến mức hầu như chẳng có cỗ máy pc nào mạnh hơn nó và đến khoảng 4 năm sau cũng chỉ có khoảng 10% máy PC có cấu hình mạnh hơn PS3 vào thời điểm bấy giờ
+Với cổng Ethernet tích hợp, game thủ có thể vừa chơi, vừa chat hay lướt web, xem hình, nghe nhạc. Điều đặc biệt là PS3 có thể chơi những trò được thiết kế cho dòng Playstation và Playstation 2.
+Nhờ firmware mới nhất từ Sony và tính năng OtherOS, người dùng còn có thể cài Linux trên PS3, biến nó thành một chiếc PC với đầy đủ các tính năng như chơi nhạc, xem phim. Trên Linux, việc emulate Windows XP trên PS3 đã được thực hiện thành công. vào năm 2010 sony đã loại bỏ tính năng hệ điều hành khác vì lý do bảo mật và giảm thiểu việc hack chỉnh sửa hệ thống.
+
+
+== Tay cầm điều khiển ==
+
+Ban đầu Sony dự định cho ra mắt loại tay "Boomerang" mới. Nhưng sau đó kế hoạch này đã bị huỷ bỏ. PlayStation 3 tiếp tục được bán kèm với loại tay cầm điều khiển của PlayStation truyền thống để đảm bảo tính tương thích với tay của PlayStation 2 và PlayStation 1. Với cùng kiểu dáng cũng như số nút điều khiển, người sử dụng có thể dùng tay cầm điều khiển của PlayStation 1 và 2 trên PlayStation 3, giúp tiết kiệm một khoản chi phí đáng kể. Nhưng 8/5/2006, CEO Kutaragi của Sony hé lộ tay cầm PS3 mới với giá gần 50$
+
+
+== Hack ==
+Sau nhiều năm nghiên cứu, cuối cùng Geohotz (hacker đã hack iPhone) đã hack thành công PS3, cho phép người chơi dùng đĩa lậu để chơi. Nhờ một thiết bị có tên USB Jail Break, người sử dụng có thể dùng đĩa lậu để chơi online trên PlayStation Network.
+
+
+== Rắc rối ==
+Phát hành cùng thời gian với máy Wii của Nintendo, nhưng số lượng máy PS3 bán ra trên thị trường khi đó thấp hơn so với các hệ máy khác. Nguyên nhân chủ yếu là do giá thành của máy và số lượng đầu game ít phong phú. Tuy nhiên sau một thời gian thì PlayStation 3 cũng đã khắc phục được nhược điểm này khi giảm được 70% chi phí sản xuất cùng giá thành cũng như có nhiều tựa game hơn, sau đó số lượng bán ra đã gần bắt kịp với Xbox 360.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Trang chủ PlayStation 3 Hoa Kỳ
+Trang chủ PlayStation 3 Úc
+Trang chủ PlayStation 3 châu Âu
+Trang chủ PlayStation 3 Anh
+Trang sản phẩm PlayStation
+Trang quảng cáo PS3
+Hướng dẫn sử dụng PlayStation 3
+Open Platform cho PlayStation 3

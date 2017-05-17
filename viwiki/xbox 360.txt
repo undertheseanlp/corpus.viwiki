@@ -1,0 +1,144 @@
+Nối tiếp máy Xbox, Xbox 360 là máy chơi game console do tập đoàn Microsoft sản xuất và phát triển. Cùng với 2 đối thủ là máy PlayStation 3 của Sony và máy Wii của Nintendo, Xbox 360 thuộc thế hệ máy console thứ 7. Xbox 360 chính thức được tiết lộ trên MTV vào ngày 12 tháng 5 năm 2005. Một tháng sau, tại triển lãm video game thường niên Electronic Entertainment Expo (E3), Microsoft trình làng Xbox 360 với nhiều thông tin chi tiết về hệ máy đồng thời công bố các tựa game sắp phát hành khi ra mắt máy. Máy được bán trên toàn thế giới ngay sau thời điểm phát hành, trừ thị trường Nhật Bản.
+Tính năng nổi bật của Xbox 360 là dịch vụ trực tuyến Xbox Live. Gồm 2 phiên bản miễn phí và thuê bao, Xbox Live cho người dùng khả năng thi đấu trực tuyến; tải về trò chơi hay bản dùng thử trò chơi mới; xem trailer, mua và xem bản thu sóng trực tuyến các chương trình TV, âm nhạc và phim ảnh qua các cổng Xbox Video và Xbox Music; và truy cập những dịch vụ nội dung bên thứ ba qua các ứng dụng thu sóng truyền thông. Bên cạnh những tính năng đa phương tiện trực tuyến, Xbox còn cho phép thu sóng phát hình trực tiếp từ máy vi tính.
+Tại buổi trình diễn của họ tại E3 vào ngày 14 tháng 10 năm 2010, Microsoft đã công bố model máy Xbox 360 với thiết kế mới và có thể được bán ra ngay vào ngày hôm sau. Máy console mới này có thiết kế mỏng hơn so với các bản đời đầu, tích hợp Wi-Fi 802.11 b/g/n Wi-Fi, đầu ra âm thanh TOSLINK S/PDIF, năm cổng USB 2.0 so với ba của bản cũ, có ổ cứng dung lượng 250GB và cổng AUX đặc biệt. Các model Xbox 360 cũ hơn đã bị ngừng phát triển từ thời điểm này. Cũng tại triển lãm E3 năm 2013, Microsoft đã công bố phiên bản Xbox 360 mới hơn thiết kế nhỏ gọn hơn nhiều so với đời trước, bộ nhớ trong 4GB và mã tồn kho (Stock keeping unit-SKU) rẻ hơn.
+Hệ máy kế nhiệm của nó, Xbox One, được Microsoft giới thiệu ngày 21 tháng 5 năm 2013, khoảng 0h ngày 22 tháng 5 theo giờ Việt Nam.
+
+
+== Lịch sử ==
+
+
+=== Phát triển ===
+Từ đầu năm 2003, ý tưởng về thế hệ Xbox kế tiếp đã được thai nghén, với các tên gọi trong thời gian sản xuất là Xbox Next, Xenon, Xbox 2, Xbox FS hoặc NextBox. Tháng 2 năm 2003, Phó Chủ tịch Microsoft J Allard lãnh đạo đội ngũ bắt đầu cho kế hoạch phát triển nền máy tính Xenon. Trong tháng này có hai sự kiến chính xảy ra: Microsoft đã tổ chức sự kiện tại Bellevue, Washington với sự tham gia của khoảng 400 người để tuyển người hỗ trợ cho dự án; Peter Moore, cựu Chủ tịch của Sega chi nhánh tại Mỹ, đầu quân cho Microsoft. Vào ngày 12 tháng 8 năm 2003, ATI thoả thuận sẽ sản xuất bộ vi xử lý đồ hoạ cho máy console mới, và vụ hợp tác làm ăn này được công bố trên báo chí 2 ngày sau đó.. Trước ngày ra mắt của Xbox 360, một vài bản Alpha test của máy được phát hiện sử dụng phần cứng Power Mac G5 của Apple. Sở dĩ có lý do như vậy bởi vì bộ vi xử lý của PowerPC 970 (hay Power Mac G5) sử dụng chung kiến trúc PowerPC mà bộ vi xử lý Xbox 360 cuối cùng sẽ sử dụng là Xenon của IBM. Bộ nhân của vi xử lý Xenon đã được thay đổi chút ít so với kiến trúc Cell Processor PPE của PlayStation 3. Theo David Shippy and Mickie Phipps, các nhân viên của IBM đã "lẩn trốn" công việc của họ khỏi hai đối tác của công ty là Toshiba và Sony trong việc sản xuất Cell Processor.
+
+
+=== Ra mắt ===
+Xbox 360 được phát hành vào ngày 22 tháng 11 năm 2005 tại Mỹ và Canada; ngày 2 tháng 12 năm 2005 châu Âu và ngày 10 tháng 12 năm 2005 tại Nhật Bản. Máy sau đó được ra mắt tại Mexico, Brazil, Chile, Colombia, Hong Kong, Singapore, Hàn Quốc, Đài Loan, Australia, New Zealand, Nam Phi, Ấn Độ và Nga. Trong năm đầu tiên có mặt trên thị trường, Xbox 360 đã hiện diện tại 36 quốc gia, nhiều hơn sự ra mắt của bất cứ hệ máy console nào trong một năm.
+
+
+=== Di sản và kế thừa ===
+
+Mặc dù không phải là máy bán chạy nhất trong số những máy console thế hệ thứ bảy, Xbox 360 có doanh số cao hơn đáng kể so với máy tiền nhiệm của nó, và vẫn được đánh giá là sự thành công của Microsoft trong thị trường máy chơi game và đưa hãng trở thành ông lớn trong ngành này, cùng với Nintendo và Sony tạo thành thế chân vạc. Máy giá rẻ Nintendo Wii tạo được cú hit trong giới công nghệ khi mới ra mắt, nhưng sau đó đã vấp phải những khó khăn về sau khi thiếu những tựa game hay từ các bên thứ ba; và máy kế nhiệm của nó là Nintendo WiiU lại không gây ra được tiếng vang khi trình làng vào năm 2012. PlayStation 3 của Sony thì khá chật vật trong khoảng thời gian đầu do giá bán tương đối cao, sinh sau đẻ muộn và thiếu những tựa game độc quyền chất lượng, và nó phải mất một khoảng thời gian dài để bắt kịp với hai máy đổi thủ.
+Điểm mạnh của Xbox 360 là có những tựa game nổi danh đến từ cả bên thứ nhất và bên thứ ba. Đến tháng 3 năm 2008, Xbox 360 đạt chỉ số 7,5 trò chơi trên 1 máy tại Mỹ, tương tự là 7,0 tại châu Âu so với 3,8 (PlayStation 3) và 3,5 (Wii), theo lời Microsoft. Hơn nữa, trong giai đoạn 2006-2007, các game đa nền tảng được ưu ái hơn trên Xbox 360 so với PlayStation 3 do ban đầu các nhà phát triển gặp khó khăn khi lập trình trên hệ máy của Sony.
+TechRadar tôn vinh Xbox 360 là hệ máy console có sức ảnh hưởng mạnh nhất do nó chú trọng truyền tải phương tiện kỹ thuật số, dịch vụ chơi online Xbox Live và tính năng thành tựu (achievement). Trong quãng thời gian tồn tại, thương hiệu Xbox đã phát triển từ một máy thuần chơi game sang một cỗ máy đa phương tiện mạnh mẽ, biến nó thành một "môi trường điện toán phòng khách". Cùng với sự ra đời của Kinect sau 5 năm Xbox 360 xuất hiện trên thị trường đã góp phần nối dài vòng đời của máy thêm vài năm.
+Microsoft ra mắt hệ máy kế nhiệm của Xbox 360 là Xbox One tại E3 2013. Cho dù hệ máy mới được tiết lộ, song Xbox 360 được dự đoán sẽ tiếp tục được hỗ trợ đến năm 2017.
+
+
+== Cấu hình máy ==
+
+Ở bên trong, Xbox 360 sử dụng bộ vi xử lý 3 nhân 64-bit của IBM có tên gọi Xenon, với mỗi nhân có thể xử lý đồng thời 2 luồng, do đó bộ mạch có thể xử lý đến 6 luồng. Trong khi bo mạch đồ hoạ của Xbox do Nvidia sản xuất, thì ATI lãnh trách nhiệm sản xuất mạch đồ hoạ cho hệ máy tiếp theo nó có tên gọi Xenos. GPU này tương đương với ATI Radeon 1800XT, có thêm 10 MB eDRAM (ngoài 512MB dùng chung giữa bo mạch đồ họa và hệ thống).
+Nhìn chung cấu hình Xbox 360 cao hơn Wii, nhưng yếu hơn một chút so với PlayStation 3. Chip của Xbox 360 chỉ có 3 lõi định mức 3.2 Ghz, trong khi PlayStation 3 là 9 lõi cũng định mức 3.2 Ghz (1 lõi 3,2 GHz nền "Power Processing Element" (PPE) và 8 chip Synergistic Processing Elements), tuy nhiên do kiến trúc khác nhau nên hiệu năng của Cell chỉ hơn khoảng 2 lần so với CPU của Xbox 360., trong khi bo mạch đồ họa của PlayStation 3 tương đương nVidia Geforce 7800GT nhưng chỉ có 256 MB bộ nhớ.
+
+
+=== Rắc rối ===
+
+Kể từ khi ra mắt vào năm 2005, Xbox 360 thường xuyên vướng vào các rắc rối kỹ thuật.
+Để hỗ trợ cho khách hàng, Microsoft tăng thời gian bảo hành cho máy lên 3 năm cho những lỗi hư hại phần cứng được báo cáo là lỗi "Hư hỏng ổ cứng tổng quát" (General Hardware Failure). Đây là lỗi nghiêm trọng, phát sinh ở các máy Xbox 360 đời trước Xbox 360 S. Khi dính lỗi, máy xuất hiện 3 vòng tròn đỏ báo hiệu phần cứng bị lỗi do máy bị quá nhiệt trong thời gian dài, gây hư hỏng vật lý, buộc người dùng phải đem máy đi bảo hành. Chính vì vậy lỗi còn có tên là "Vòng tròn đỏ chết chóc" (Red Ring of Death) ăn theo "Màn hình xanh chết chóc" của Windows. Vào tháng 4 năm 2009, những máy bị lỗi mã E74 sẽ được hưởng chế độ bảo hành này. Sự gia tăng quyền hạn bảo hành này không áp dụng cho những máy bị lỗi mã không thuộc E74.
+Từ năm 2008 trở đi hãng Microsoft đã cho ra bản Xbox mới mang mã Jasper, với thay đổi lớn nhất là giảm kích thước quy trình sản xuất CPU-GPU xuống còn 65 nm, tăng lỗ thông hơi trên các góc và cạnh của CPU và GPU cũng như dán chặt hơn để tránh tình trạng chúng bị lệch khỏi bo mạch khi nhiệt độ tăng, và bổ sung thêm một GPU, nhờ đó giảm nhiệt độ cũng như điện năng tiêu thụ.
+Năm 2010, Microsoft tung model Slim được thiết kế mới hoàn toàn; đời máy này và bản Jasper của Xbox 360 nguyên mẫu được coi là khắc phục triệt để lỗi quá nhiệt. Với việc phát hành model mới này, quyền bảo hành của máy này không bao gồm việc gia tăng hạn bảo hành với lỗi Hư hỏng ổ cúng tổng quát. Khi quá nhiệt, nút nguồn trên đời máy Xbox 360 mới sẽ hiển thị màu đỏ, khác với đời máy trước một phần ba vòng tròn xung quanh nút nguồn sẽ phát sáng đỏ khi quá nhiệt. Hệ thống sẽ cảnh bảo người dùng về việc máy sẽ ngừng hoạt động cho đến khi hệ thống nguội lại, trong khi đèn flash trên nút nguồn sẽ chớp tắt xanh đỏ báo hiệu cho "Hư hỏng ổ cứng tổng quát".
+
+
+== Các phụ kiện ==
+Rất nhiều các phụ kiện được thiết kế cho Xbox 360, chẳng hạn như tay cầm không dây và có dây, vỏ ngoài trang trí thân máy, tai nghe để nói chuyện, webcam để gọi video call, ván nhảy và Gamercize để tập thể dục, 3 kích cỡ thẻ nhớ và 5 kích cỡ ổ cứng (20, 60, 120, 250 (đầu tiên chỉ có ở Nhật Bản, sau đó mới có mặt ở các quốc gia khác) và 320GB) và các trang/thiết bị khác, tất cả đều được thiết kế sao cho phù hợp với console.
+
+
+=== Tay cầm điều khiển ===
+Tay cầm điều khiển của Xbox 360 là bộ phận điều khiển chính của máy, được giới thiệu vào E3 2005. Tay cầm này có 2 phiên bản: có dây và không dây. Tay cầm Xbox cũ không tương thích với máy. Tuy nhiên thì tay cầm của Xbox 360 lại tương thích với PC, và đối với bản không dây thì máy tính cần cắm bộ thu có tên Wireless Gaming Receiver. Phiên bản không dây cần 2 cục pin AA hoặc bộ pin sạc để hoạt động. Phiên bản có dây thì có thể cắm dây vào bất cứ cổng USB nào trên máy, hoặc vào bộ chia cổng USB đã đính kèm.
+Thiết kế
+Tay cầm Xbox 360 có 7 nút bấm vật lý, 2 cần analog và nút điều hướng D-pad. Mặt bên phải của tay cầm có 4 nút bấm kỹ thuật số: nút "A" xanh lá cây, nút "B" đỏ, nút "Y" hổ phách và nút "X" màu xanh dương. Bên dưới tay phải là 1 cần analog, bên trái nó là D-pad. Mặt tay trái của tay cầm là 1 cần analog nữa. Cả 2 cần analog này đều có thể nhấn vào được để kích hoạt thêm 1 nút bấm bên dưới. Ở trung tâm trên mặt tay cầm là các nút kỹ thuật số "Start", "Back" và "Guide". Trên mặt nút "Guide" được dán nhãn Xbox, và nó còn có công dụng sáng đèn cho biết tay cầm này là vị trí thứ mấy trong số các tay cầm được kết nối vào console. Trên mỗi vai của tay cầm có nút bấm vai và nút cò.
+
+Các màu chuẩn
+
+
+=== Kinect ===
+
+Kinect là một "trải nghiệm chơi game và giải trí không tay cầm" cho Xbox 360. Lần đầu tiên được công bố vào ngày 1 tháng 6 năm 2009 tại Electronic Entertainment Expo dưới tên mã Project Natal (Dự án Natal). Thiết bị ngoại vi này hoạt động không cần đến cần điều khiển mà hoạt động dựa vào những cử động, lệnh thoại và đưa ra hình ảnh, vật thể. Kinect tương thích với tất cả với các model Xbox 360, Để hoạt động, thiết bị cần kết nối với các model nguyên bản thông qua USB, với model Slim là thông qua một sợi dây nối chuyên dụng; và power adapter chính cung cấp nguồn điện. Tại buổi thuyết trình tại CES 2010, Robbie Bach và CEO Microsoft Steve Ballmer nói rằng Kinect sẽ được bán vào mùa nghỉ lễ trong năm (từ tháng 11 đến tháng 1) và sẽ hoạt động với tất cả các hệ máy Xbox 360. Tên gọi chính thức và thời điểm bán ra là 4 tháng 11 năm 2010 được thông báo vào ngày 13 tháng 6 năm 2010, tại sự kiện họp báo của Microsoft ở E3 2010.
+
+
+== Phần mềm ==
+
+
+=== Dashboard ===
+Giao diện người dùng đồ họa (GUI) của Xbox 360 là Xbox 360 Dashboard. Ban đầu nó là giao diện theo phong cách thẻ với 5 "Blades" (trước là 4) và được thiết kế bởi AKQA và Audiobrain. Nó có thể tự khởi động khi bật máy mà không cần có đĩa bên trong, hay khi khay đĩa đang mở. Nhưng người dùng có quyền lựa chọn console sẽ làm gì khi có đĩa game trong khay. Khi bấm vào nút Xbox Guide trên cần phím, phiên bản đơn giản hoá của Dashboard sẽ xuất hiện. Bản Dashboard này hiện tên người dùng, tin nhắn mới và danh sách bạn bè. Nó cũng cho phép cài đặt cá nhân và nhạc, bổ sung cho tính năng gọi thoại và video, và trở về Dashboard chính từ trong game.
+Kể từ khi ra mắt, Microsoft đã phát hành vài bản nâng cấp cho phần mềm Dashboard. Những bản nâng cấp này bao gồm thêm những tính năng mới, nâng cao tính năng Xbox Live, khả năng chơi lại giải trí đa phương tiện, khả năng tương thích với các trang/thiết bị mới và sửa chữa lỗi. Những bản nâng cấp này là bắt buộc nếu người dùng muốn sử dụng Xbox Live, và trong quá trình nâng cấp người chơi không thể sử dụng máy cho đến khi quá trình hoàn tất.
+
+
+==== New Xbox Experience ====
+Tại E3 2008, Microsoft giới thiệu giao diện mới cho Xbox 360 là "New Xbox Experience" (NXE) (tạm dịch:Trải nghiệm Xbox mới). Bản nâng cấp này giúp cho việc điều hướng dễ dàng hơn. GUI sử dụng Twist UI, đã từng xuất hiện ở Windows Media Center và Zune. Xbox Guide (bản Dashboard đơn giản hoá) vẫn giữ những tính năng cũ với giao diện giống như Blade ngày trước. Các mục chính của Dashboard đã được sắp xếp theo phương thẳng đứng, không còn nằm ngang như các Blade cũ.
+NXE còn có vài tính năng mới. Người dùng có thể cài game từ đĩa vào ổ cứng. Điều này làm giảm thời gian tải game, giảm tiếng ồn từ việc đọc đĩa và hạn chế hư mắt đọc. Hệ thống Community mới được cài sẵn cho phép sáng tạo các "Avatar" kỹ thuật số. Avatar là tượng trưng cho người sở hữu máy, được dùng ở nhiều hoạt động khác như chia sẻ ảnh, xuất hiện khi chơi game arcade hay game kinect. Bản update ra mắt ngày 19 tháng 11 năm 2008.
+Trong khi những bản cập nhật của hệ thống trước được cài ở bộ nhớ trong máy, lần đầu tiên NXE yêu cầu người chơi phải có ít nhất 128 MB thẻ nhớ hoặc ổ cứng.
+
+
+==== Modern UI ====
+Sau đó Microsoft tung ra bản nâng cấp lớn cho Xbox 360 Dashboard vào ngày 6 tháng 12 năm 2011. Bản nâng cấp này bao gồm các tính năng mới:
+Sử dụng giao diện theo ngôn ngữ thiết kế Metro (nay là Modern) mà Microsoft đang theo đuổi, thay thế cho hệ thống Menu chạy dọc như trước, các thẻ phân loại Home, Social, Game, Video trên Xbox 360 Dashboard được chuyển thành hàng ngang.
+Lưu trữ trên mây để thuận tiện cho việc lưu trữ save game và hồ sơ cá nhân.
+Dịch vụ truyền hình Xbox TV và video trực tuyến (tuỳ quốc gia).
+Tìm kiếm bằng giọng nói Bing.
+Xem video trên Youtube và hỗ trợ tốt hơn cho ra lệnh giọng nói trên Kinect.
+
+
+=== Đa phương tiện ===
+Xbox 360 hỗ trợ video định dạng Windows Media Video (WMV) (bao gồm Truyền hình độ nét cao và chuẩn PlaysForSure của Microsoft), cũng như định dạng H.264 và MPEG-4. Bản nâng cấp Dashboard vào tháng 12 năm 2007 hỗ trợ thêm video định dạng MPEG-4 ASP. Máy console này còn có thể trình chiếu ảnh trong bộ sưu tập hình ảnh với nhiều hiệu ứng chuyển cảnh; hỗ trợ nghe nhạc với trình phát nhạc sử dụng được thông qua nút Xbox Guide. Người dùng có thể nghe nhạc trong khi đang chơi game hay ở ngoài Dashboard.
+Nhạc, hình ảnh và video có thể chơi từ USB chuẩn, bộ nhớ Xbox 360 (gồm thẻ nhớ hoặc ổ cứng) và máy chủ hoặc máy tính có cài Windows Media Center hay Windows XP chạy Service Pack 2 hoặc cao hơn được kết nối trong mạng nội bộ ở chế độ truyền streaming. Bởi vì Xbox 360 dùng phiên bản AV Universal Plug and Play (UPnP) đã chỉnh sửa, một vài máy chủ UPnP thay thế như uShare (một phần của dự án GeeXboX), MythTV có thể được truyền phương tiện đến Xbox 360, cho phép sử dụng những tính năng tương đương trên những máy tính, máy chủ không chạy Windows. Chính vì thế, máy có thể chơi được những tập tin có độ phân giải cao như HD, một vài codec như (MPEG-2, MPEG-4, WMV), và một vài định dạng thùng chứa (WMV, MOV, TS).
+Đến ngày 27 tháng 10 năm 2009, người dùng tại Vương quốc Liên hiệp Anh và Bắc Ireland và Ireland có thể xem trực tiếp và kênh truyền hình theo yêu cầu của Sky television.
+Tại Consumer Electronics Shows năm 2007, 2008, và 2009, Microsoft thông báo dịch vụ truyền hình giao thức Internet (IPTV) có thể được sử dụng trên Xbox 360. Năm 2007, chủ tịch công ty Bill Gates chia sẻ rằng IPTV trên Xbox 360 dự kiến sẽ đến tay người dùng vào mùa nghỉ lễ, sử dụng Microsoft TV IPTV Edition. Năm 2008, Gates và Giám đốc bộ phận giải trí và thiết bị Robbie Bach công bố hợp tác với tập đoàn BT tại Anh, trong đó dịch vụ BT Vision sử dụng nền IPTV Microsoft Mediaroom tiên tiến hơn có thể được xem trên Xbox 360, dự định ra mắt vào giữa năm. Tuy nhiên, đầu kỹ thuật số của BT Vision lại không xuất hiện trên máy vì hạn chế dung lượng bộ nhớ. Cuối cùng vào năm 2010, trong khi giới thiệu phiên bản 2.0 của Microsoft Mediaroom, CEO Microsoft Steve Ballmer nhắc đến dịch vụ IPTV của AT&T U-verse có thể hoạt động trên Xbox 360 như là một set-top box. Đến tháng 1 năm 2010, truyền hình giao thức Internet trên Xbox 360 đã được triển khai bên ngoài các thử nghiệm giới hạn.
+Vào năm 2012, Microsoft phát hành Live Event Player, cho phép các sự kiện như game show truyền hình, các cuộc thi sắc đẹp, nhạc hội, tin tức và sự kiện thể thao có thể được truyền tải lên máy console thông qua Xbox Live. Sự kiện đầu tiên được truyền lên Live là Revolver Golden Gods 2012, bản tin truyền thông vắn tắt của Microsoft tại E3 2012 và cuộc thi Hoa hậu Mỹ Teen 2012.
+
+
+=== Cộng đồng XNA ===
+Cộng đồng XNA là một tính năng cho phép người dùng Xbox 360 nhận được những trò chơi do cộng đồng sáng tạo, hợp tác với Microsoft XNA Game Studio, từ XNA Creators Club. Các trò chơi được viết kịch bản, phát hành và phân phối thông qua đơn vị quản lý của cộng đồng. Cộng đồng XNA cung cấp kênh giao hàng trò chơi kỹ thuật số mà không cần trả tiền thuế. Tuy nhiên doanh thu của XNA lại không đạt được kỳ vọng ban đầu, mặc dù vẫn có một số game Xbox Live Indie (game được phát triển độc lập) tạo được tiếng vang lớn.
+
+
+== Các dịch vụ ==
+
+
+=== Xbox Live ===
+Khi vừa phát hành Xbox 360, dịch vụ chơi game trực tuyến Xbox Live tạm dừng hoạt động trong 24 tiếng và trải qua một đợt nâng cấp lớn. Đợt nâng cấp này bổ sung dịch vụ Xbox cơ bản Live Silver (nay là Xbox Live Free) không cần trả phí, bên cạnh dịch vụ cao cấp cần trả tiền (sau đổi tên là Gold). Xbox Live Free bao gồm tất cả SKU của console. Người dùng có thể tạo hồ sơ cá nhân, gửi tin nhắn và trò chuyện với người khác, và truy cập Xbox Live Arcade và Marketplace của Microsoft. Với tài khoản Free, người dùng không được chơi game trực tuyến. Tuy nhiên có một số trò chơi không có quy định nghiêm ngặt như trò Viva Piñata; một số trò chơi thì có riêng mã kích hoạt chơi trực tuyến kèm theo hộp đĩa như các game từ EA Sports. Xbox Live còn hỗ trợ giọng nói, một tính năng có trong Xbox Live Vision.
+Xbox Live Gold có các tính năng tương tự như Free nhưng hỗ trợ khả năng chơi game trực tuyến nếu không có sự can thiệp từ bên thứ ba. Người dùng có quyền giữ thông tin cá nhân, danh sách bạn bè và trò chơi khi nâng cấp lên Xbox Live Gold. Để thực hiện quá trình này, người dùng cần kết nối tài khoản Windows Live ID với gamertag trên Xbox.com. Khi Xbox Live Gold được kích hoạt, người dùng cần cung cấp thông tin hộ chiếu và bốn mã số cuối trong thẻ tín dụng để phục vụ cho việc xác minh tài khoản và thanh toán tiền. Dịch vụ này có khoản phí phải đóng hằng năm là US$49.99, C$59.99, NZ$90.00, GB£39.99, hoặc €59.99. Đến tháng 6 năm 2013, Xbox Live đã có tổng cộng 31 triệu người đăng ký.
+
+
+=== Xbox Live Marketplace ===
+Xbox Live Marketplace là một chợ ảo thiết kế cho máy cho phép người dùng tải nội dung trực tuyến, có thể là trò chơi hoặc khuyến mãi. Một số có niêm yết giá, còn một số thì không có. Đó có thể là phim hoặc trailer game, bản dùng thử game, game Xbox Live Arcade, chủ đề cho Dashboard, các phụ trợ cho trò chơi (vật phẩm, quần áo, cấp độ,...). Tính năng này hỗ trợ trên cả hai dịch vụ Free và Gold. Máy cần có dung lượng vừa đủ, có thể là ổ cứng hoặc thẻ nhớ ngoài, để lưu trữ những sản phẩm từ  Nếu muốn tải về những sản phẩm cần trả tiền, người dùng cần mua Microsoft Points và các vật dụng đều niêm yết giá theo Microsoft Points. Microsoft Points có thể mua bằng thẻ trả trước với các mệnh giá 1600 và 4000; hoặc bằng thẻ tín dụng với giá trị là 500, 1,000, 2,000 và 5,000. Người dùng còn có thể "mua sắm" trên máy tính qua trang web của Xbox Live Marketplace. Khoảng 70% người sử dụng Xbox Live đều đã từng mua sắm trên chợ ảo này.
+
+
+=== Xbox Live Arcade ===
+Xbox Live Arcade là dịch vụ trực tuyến dùng để phân phối những trò chơi tải về cho Xbox và Xbox 360. Bên cạnh những game arcade cổ điển như ''Pac-man'', dịch vụ còn cung cấp những trò chơi khác như Assault Heroes. Xbox Live Arcade còn phân phối những game từ các máy console khác như Castlevania: Symphony of the Night trên máy PlayStation, Zuma trên máy PC. Dịch vụ này bắt đầu hoạt động từ ngày 3 tháng 11 năm 2004, sử dụng đĩa DVD để tải và các trò chơi có giá từ 5 đến 15 đô-la Mỹ. Ngày 22 tháng 11 năm 2005, khi Xbox 360 phát hành, Xbox Live Arcade được bổ sung vào và giờ đây nó được tích hợp vào Dashboard. Những trò chơi này hướng đến người chơi phổ thông, với những dòng game có tiếng như Geometry Wars, Street Fighter II' Hyper Fighting, và Uno. Ngày 24 tháng 3 năm 2010, Microsoft ra mắt Game Room. Đây là dịch vụ chơi game cho Xbox 360 và Windows, cho phép người chơi thi đấu game arcade và game console trong một máy arcade ảo.
+
+
+=== Xbox Live Video ===
+Microsoft trình làng Xbox Video Marketplace vào ngày 6 tháng 11 năm 2006, và phát hành ngày 22 tháng 11, nhân ngày kỷ niệm 1 năm ra mắt máy console. Dịch vụ này cho phép người dùng tại Mỹ tải về những show truyền hình và phim với độ nét cao HD hoặc độ nét thường SD. Các nội dung tại đây không thể xem trực tuyến mà bắt buộc phải tải về, ngoại trừ những đoạn video ngắn. Phim còn có thể được thuê, và sẽ hết hạn trong 14 ngày hoặc sau khi phim đã chiếu được 24 tiếng. Những video tải về sử dụng âm thanh vòm 5.1 và được mã hoá dưới định dạng VC-1, độ phân giải 720p với bitrate là 6.8 Mbit/s. Các nhà đài như MTV, VH1, Comedy Central, Turner Broadcasting, và CBS cung cấp các chương trình truyền hình, còn phim do Warner Bros., Paramount, và Disney phân phối.
+
+
+=== Xbox Music ===
+Xbox Music cung cấp hơn 30 triệu bài hát, và có thể được mua về thông qua Xbox Music Store. Đây là dịch vụ kế nhiệm của Zune, và Zune bị khai tử để nhường chỗ cho Xbox Music với lý do là Microsoft muốn thương hiệu "Xbox" xuất hiện nhiều hơn trên các dịch vụ của họ. Microsoft xây dựng hệ thống này để cạnh tranh trực tiếp với Apple's iTunes Store, Amazon MP3, Spotify, Deezer và các dịch vụ streaming khác.
+
+
+=== Xbox SmartGlass ===
+Xbox SmartGlass là một tính năng mới cho phép người dùng tương tác với console bằng máy tính, máy tính bảng hoặc điện thoại. Ứng dụng này có mặt trên các thiết bị chạy hệ điều hành Windows 8, Windows RT, Androd (trên 4.0), Windows Phone (trên 7.5) và iOS (trên 5). Đây được xem là cách điều khiển máy theo phương pháp mới giống như một chiếc điều khiển từ xa.
+
+
+== Đón nhận ==
+
+
+=== Doanh thu ===
+Máy Xbox 360 được sản xuất trước ngày bán chỉ trong vòng 69 ngày, và Microsoft không có đủ hàng để phân phối cho các khách hàng đặt trước tại châu Âu và Bắc Mỹ. 40 000 máy được rao bán trên trang đấu giá eBay ngay trong tuần lễ giao hàng cho người dùng đặt trước, chiếm 10% tổng đơn đặt hàng. Đến cuối năm, Microsoft bán tổng cộng 1,5 triệu máy, bao gồm 900 000 ở Bắc Mỹ, 500 000 ở châu Âu và 100 000 ở Nhật Bản.
+Ngày 13 tháng 2 năm 2008, Microsoft thông báo họ gặp tình trạng hết hàng tại Mỹ vào tháng 1 năm 2008, và có thể phải kéo đến tận tháng 2. Theo thống kê từ công ty nghiên cứu thị trường NPD Group, Xbox 360 đứng ở vị trí thứ 2 sau máy Wii về doanh thu tại Mỹ trong nhiều tháng từ khi có cuộc đua "tam mã" của Xbox 360, Wii và PlayStation 3. Ngày 14 tháng 5 năm 2008, Microsoft tuyên bố 10 triệu máy Xbox 360 đã được tiêu thụ, và đây là "máy console đầu tiên trong thế hệ hiện" tại vượt qua mốc 10 triệu máy bán ra tại Mỹ. Mặc dù bị Wii lật đổ ngôi vương tại sân nhà vào tháng 6 năm 2008, nhưng doanh thu Xbox 360 đã "hạ đo ván" Wii và leo lên lại vị trí số 1 vào tháng 11 năm 2011.
+
+
+==== Nhật Bản ====
+
+Trong khi doanh số của máy Xbox khá tệ tại Nhật Bản, chỉ với 2 triệu máy được bán ra trong 3 năm có mặt (từ 2002 đến 2005), doanh thu của Xbox 360 tại thị trường này còn tệ hại hơn cả máy tiền nhiệm của nó. Trong vòng 6 năm từ 2005 đến 2011, Microsoft chỉ bán được 1,5 triệu máy Xbox 360. Đây được xem là sự thất bại của Xbox 360 tại thị trường này.
+Tạp chí Edge trong một báo cáo vào tháng 8 năm 2011 chỉ ra rằng, sự thiếu quan tâm ban đầu dẫn đến thất bại trong doanh thu của máy tại Nhật Bản. Microsoft đã không thể xâm nhập và thống trị thị trường nội địa của 2 kình địch Sony và Nintendo, khiến cho các nhà bán lẻ quay lưng với họ và trong vài trường hợp việc bán máy Xbox 360 đã bị đình chỉ tại nơi này. Ngoài ra còn phải kể đến tâm lý của người tiêu dùng. Đối với người Nhật, đồ Nhật sản xuất ra luôn là tốt nhất. Microsoft đã không thể thuyết phục mọi người rằng Xbox tốt hơn PlayStation.
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Website chính thức
+Hỗ trợ Xbox 360 của Microsoft
+Blog của đội ngũ sản xuất Xbox
+Xbox 360 tại DMOZ

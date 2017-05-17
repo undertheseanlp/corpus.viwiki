@@ -1,0 +1,64 @@
+Windows 8 là hệ điều hành được phát triển bởi Microsoft cho máy tính cá nhân, là một phần của họ hệ điều hành Windows NT. Quá trình phát triển của Windows 8 được bắt đầu trước ngày ra mắt của người tiền nhiệm của nó, Windows 7, vào năm 2009. Nó được công bố ở sự kiện CES 2011, và sau đó là sự ra mắt của 3 phiên bản thử nghiệm từ tháng 9 năm 2011 đến tháng 5 năm 2012. Được đưa ra hãng vào ngày 01-08-2012, và được ra mắt vào 26-10-2012. Vào 17-10-2013, Microsoft phát hành Windows 8.1.
+
+
+== Phát hành ==
+Trong năm 2011, ra mắt các phiên bản beta của Windows 8, còn các bản RTM được phát hành trong năm 2012. Tuy nhiên vào lúc này, các bản sao chép không hợp pháp đã có mặt trên các mạng chia sẻ ngang hàng. Phần lớn các bản này là sao chép từ các bản xây dựng mà một số nhân viên Microsoft sở hữu. Microsoft đã phát triển Windows 8 Genuine Center để đối phó với sự phát tán các phiên bản lậu của Windows 8.
+Microsoft cho biết sẽ ra mắt Windows 8 vào cuối tháng 10/2012 và bản cho các nhà sản xuất phần cứng (RTM) sẽ được chuyển cho các đối tác vào đầu tháng 8/2012. RTM xác nhận hệ điều hành đã sẵn sàng để Microsoft cung cấp cho các nhà sản xuất thiết bị gốc (OEM) - như Hewlett-Packard, Dell và Lenovo - để họ có thể bắt đầu cài đặt trên các máy tính mới.
+Windows 8 chính thức được phát hành vào ngày 26-11-2012 cùng với nhiều thay đổi so với các hệ điều hành Windows trước đó.
+
+
+== Lịch sử ==
+Trong Triển lãm Điện tử Tiêu dùng quốc tế (CES) 2011 tại Las Vegas, Nevada, Microsoft thông báo rằng phiên bản Windows 8 sẽ hỗ trợ hệ thống trên một vi mạch (SoC) và bộ vi xử lý ARM cho nhu cầu di động.
+Một bản xây dựng 32-bit Milestone 1, build 7850, với ngày xây dựng là 22 tháng 9 năm 2010, đã rò rỉ trên BetaArchive, một cộng đồng trên mạng, và đã tiếp tục rò rỉ trên các mạng chia sẻ ngang hàng vào 12 tháng 4 năm 2011. Milestone 1 gồm có Windows Explorer với giao diện ribbon, một trình đọc PDF tên Modern Reader, một trình quản lý ứng dụng mới có tên Modern Task Manager, và một trình thiết lập ảnh ISO.
+Một bản xây dựng 32-bit Milestone 2, build 7955, rò rỉ trên BetaArchive vào 25 tháng 4 năm 2011. Các tính năng của phiên bản này gồm một giao diện đăng nhập mới và nhiều thứ khác.
+Một bản xây dựng 64-bit Milestone 3, build 7959, rò rỉ trên BetaArchive vào 1 tháng 5 năm 2011. Bản xây dựng này gây chú ý bởi là bản Windows Server 8 đầu tiên bị rò rỉ, cũng như là bản xây dựng 64-bit đầu tiên.
+Một bản xây dựng Milestone 3, build 7971, được phát hành cho một số bên thân cận với Microsoft vào 29 tháng 3 năm 2011 nhưng đã được giữ trong vòng bảo mật tối đa. Tuy nhiên, một vài hình ảnh cũng đã bị lộ. Lúc này, giao diện "Windows 7 Basic" đã có một nét hao hao với giao diện trong suốt (Aero) nhưng vẫn giữ được thiết kế không tăng tốc phần cứng, và đã hỗ trợ hình ảnh thu nhỏ trên thanh tác vụ. Những viền nút "đóng, phóng to, và thu nhỏ" đã bị bỏ đi, chỉ còn lại những biểu tượng này.
+Một bản xây dựng 64-bit Milestone 3, build 7989, bị lộ trên BetaArchive vào 18 tháng 6 năm 2011 sau khi các hình ảnh về bản này bị rò rỉ vào ngày trước đó. Tính năng SMS, bàn phím ảo mới, màn hình khởi động mới, hiệu ứng trong suốt trong giao diện cơ bản, dịch vụ định vị, Hyper-V 3.0, và Powershell 3.0 đã được thêm vào bản này.
+Một tính năng mới trong các bản rò rỉ là màn hình Welcome mới, một mẫu cài đặt đóng gói tên là AppX dựa theo Silverlight, và một thiết lập cho phép tự động điều chỉnh màu sắc giao diện tùy theo hình nền. Ngoài ra trong các bản rò rỉ còn bao gồm một phiên bản của Internet Explorer, có vẻ giống với phiên bản di động của trình duyệt này, nhưng dùng hệ thống render Trident và tùy chọn "Hybrid Boot" sử dụng "tính năng ngủ đông (hibernation) tiên tiến" khi tắt máy nhằm giảm thiểu thời gian khởi động. Một tính năng khác nữa là khả năng tạo một Nơi làm việc di động (Portable Workspace), cài đặt Windows 8 lên thiết bị lưu trữ USB.
+Tại Diễn đàn Người phát triển Windows ở Tokyo vào 23 tháng 5 năm 2011, CEO Microsoft Steve Ballmer tuyên bố rằng phiên bản tới của Windows sẽ ra mắt vào năm tới (năm 2012).
+"Và, với thế hệ mới của hệ thống Windows, ra đời vào năm tới, sẽ có nhiều thứ nữa xuất hiện."
+Tuy nhiên, công ty đã nhanh chóng sửa sai Ballmer vào buổi chiều hôm đó, trong một thông báo của công ty.
+"Chúng tôi đã tuyên bố không đúng. Chúng tôi đang háo hức mong chờ một thế hệ phần cứng mới của Windows 7 vốn sẽ có mặt vào năm tài chính kế tiếp. Lúc này, chúng tôi chưa chính thức công bố bất kỳ thời điểm phát hành hay tên gọi nào của phiên bản Windows sắp tới."
+Ngày 1 tháng 6 năm 2011, Microsoft chính thức vén màn Windows 8 và một trong các tính năng mới của nó ở Hội chợ công nghệ Computex 2011 ở Đài Bắc (Đài Loan) và tại Hội nghị D9 ở California (Hoa Kỳ). Tính năng chính được trình diễn và giới thiệu là giao diện người dùng mới.
+Microsoft sẽ giới thiệu nhiều cải tiến và tính năng của Windows 8 tại hội nghị người phát triển BUILD, dự định khai mạc ngày 13 tháng 9 năm 2011.
+
+
+== Tính năng ==
+Windows 8 bổ sung thêm giao diện người dùng mới là Modern UI được thiết kế theo lối phẳng hóa và tối ưu cho các thao tác chạm bên cạnh giao diện Desktop truyền thống. Khi Windows mới được khởi động, màn hình Start sẽ hiện ra thay cho màn hình Desktop thường thấy. Trên màn hình bắt đầu là các Live Tile của ứng dụng Modern, Live Tile này sẽ liên tục chuyển động để cập nhật thông tin mà người dùng không cần phải mở ứng dụng. Khi nhấn chuột vào một ô Live Tile, ứng dụng Modern sẽ được mở ra dưới dạng toàn màn hình và thường có giao diện tối ưu cho cảm ứng.
+Để trở lại giao diện Desktop thông thường và truy cập các ứng dụng Desktop, người dùng cần chọn ô Desktop trên màn hình Start. Tuy nhiên, nút Start trên thanh Taskbar đã bị loại bỏ và không còn Start Menu như những phiên bản Windows trước. Để mở lại màn hình Start, người dùng cần di chuyển chuột vào phía dưới bên trái màn hình.
+Tuy nhiên, các ứng dụng Modern chỉ có thể hiển thị khi độ phân giải của màn hình có chiều ngang lớn hơn 1024 và chiều dọc lớn hơn 768 và hoạt động tốt nhất trên màn hình 16:9. Thấp hơn độ phân giải này, ví dụ màn hình có độ phân giải 1024×600 sẽ không thể mở bất cứ ứng dụng Modern nào và chỉ có thể mở được các ứng dụng Desktop truyền thống. Tính năng hiển thị song song hai ứng dụng Modern cũng chỉ hoạt động khi màn hình có độ phân giải 1366×768 trở lên.
+Mike Angiulo xác nhận tại Computex 2011 rằng Windows 8 sẽ sử dụng OEM Activation 3.0 thay vì Windows 7 OEM Activation 2.1, điều làm cho nó khó bị bẻ khóa hơn.
+Windows 8 có một nền tảng phát triển mới, theo Phó Giám đốc Microsoft Julie Larson-Green, người nhắc đến ứng dụng thời tiết và nói rằng ứng dụng này dùng "nền tảng phát triển mới của chúng tôi, nó dựa trên HTML5 và JavaScript."
+
+
+== Yêu cầu hệ thống ==
+
+
+=== Máy tính cá nhân ===
+Yêu cầy phần cứng của Windows 8 cao hơn một it so với yêu cầu phần cứng của Windows 7. Bộ vi xử lý phải hỗ trợ PAE, NX bit, và SSE2. Ứng dụng trên Windows Store yêu cầu màn hình có đọ phân giải 1024x768; màn hình có độ phân giải 1366×768 hoặc cao hơn để sử dụng chức năng Snap. Để nhậnđược chứng chỉ tương thích với Windows 8, Microsoft yêu cầu hệ thống x86 có thể tiếp tục từ chế độ chờ trong vòng 2 giây trở xuống.
+
+
+=== Máy tính bảng và thiết bị lai ===
+Yêu cầu mới được áp dụng để phù hợp với sự ra mắt cua Windows 8.1. Vào năm 2014, tất cả thiết bị phải bao gồm webcam 720p (HD) và loa, microphone với chất lượng cao hơn, tất cả các thiết bị hỡ trợ Wi-fi thì cũng phải hỗ trợ Bluetooth. Vào năm 2015, tất cả cacthieest đã nhận được chứng chỉ phải bao gồm chip Trusted Platform Module 2.0.
+
+
+== Gói dịch vụ và cập nhật ==
+Vào tháng 10 năm 2013, Windows 8.1 được ra mắt, là phiên bản nâng cấp của Windows 8 với sự trở lại của nút Start, bổ sung thêm ô Live Tile cỡ lớn, khả năng hiển thị song song 3 ứng dụng Modern một lúc và nhiều tính năng khác.
+
+
+== Xem thêm ==
+Hệ điều hành
+Windows Server 2012
+Windows 7
+Windows XP
+Windows Vista
+Microsoft
+Windows 8.1
+
+
+== Liên kết ngoài ==
+Windows 8 Press Release
+Windows Newsroom: Video Gallery
+
+
+== Tham khảo ==

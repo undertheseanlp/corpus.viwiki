@@ -1,0 +1,51 @@
+GLONASS (tiếng Nga: ГЛОбальная НАвигационная Спутниковая Система - ГЛОНАСС; chuyển tự: Global'naya Navigatsionnaya Sputnikovaya Sistema) là hệ thống vệ tinh định vị toàn cầu của Liên bang Nga, tương tự như GPS (NAVSTAR) của Hoa Kỳ hay Galileo của Liên minh châu Âu.
+Nền của hệ là 24 vệ tinh, chuyển động trên bề mặt Quả Đất theo 3 mặt quỹ đạo với góc nghiêng 64,8°, và độ cao 19100 km.
+Vệ tinh đầu tiên của GLONASS được Liên Xô đưa lên quỹ đạo ngày 12 tháng 10 năm 1982, vào ngày 24 tháng 9 năm 1993 hệ chính thức được đưa vào sử dụng.
+
+
+== Các nguyên lý làm việc ==
+Các vệ tinh của hệ GLONASS liên tục phóng ra các tín hiệu định vị theo 2 dạng: tín hiệu định vị chính xác chuẩn (Ch) ở tần số L1 (1,6 GHz) và tín hiệu định vị chính xác cao (C) ở tần số L1 và L2 (1,2 GHz). Thông tin, cung cấp bởi tín hiệu định vị Сh, mở cho tất cả người dùng trên nền toàn cầu và liên tục và đảm bảo khi dùng máy thu GLONASS, khả năng xác định:
+các tọa độ ngang với độ chính xác 50–70 m (độ tin cậy 99,7%);
+các tọa độ đứng với độ chính xác 70 m (độ tin cậy 99,7%);
+các véc-tơ thành phần của vận tốc với độ chính xác 15 cm/s (độ tin cậy 99,7%)
+thời gian chính xác với độ chính xác 0,7 mcs (độ tin cậy 99,7%).
+Các độ chính xác này có thể tăng lên đáng kể, nếu dùng phương pháp định vị vi phân và/hay các phương pháp đo bổ sung đặc biệt.
+Tín hiệu C về cơ bản, được chỉ định dành cho các nhu cầu của Bộ Quốc phòng Nga, và việc sử dụng trái phép không được khuyến khích. Câu hỏi về việc cung cấp tín hiệu C cho nhu cầu dân sự đang trong tình trạng xem xét.
+Để xác định các tọa độ không gian và thời gian chính xác cần nhận và xử lý các tín hiệu định vị từ không ít hơn 4 vệ tinh GLONASS. Khi nhận các tín hiệu sóng định vị GLONASS máy thu, dùng các phương pháp kỹ thuật sóng đã biết, đo các độ dài đến các vệ tinh nhìn thấy và đo các vận tốc chuyển động của chúng.
+
+
+== Các lần phóng ==
+25 tháng 12 năm 2005, 8:07 Moskva, từ sân bay vũ trụ Baykonur, tên lửa mang Proton-K, đưa lên quỹ đạo một vệ tinh GLONASS và 2 vệ tinh GLONASS-M với nguồn mở sử dụng để làm đủ nhóm GLONASS.
+26 tháng 12 năm 2006, tên lửa mang Proton-K, đưa lên quỹ đạo 3 vệ tinh GLONASS-M.
+2007, có kế hoạch phóng 2 tên lửa mang Proton với 3 vệ tinh GLONASS-M trong mỗi cái
+2008, phóng tên lửa mang Proton với 3 vệ tinh GLONASS-M và tên lửa mang Sojuz với 2 máy vũ trụ GLONASS-K mới.
+
+
+== GLONASS ngày nay ==
+Vào thời điểm này nhóm vệ tinh gồm 26 vệ tinh, gồm 21 vệ tinh đang hoạt động, còn 3 cái chuẩn bị đưa vào hoạt động và 2 dùng để dự phòng thay thế. Số lượng này chưa đủ để bao phủ toàn bộ bề mặt Quả Đất (cần tối thiểu 24 vệ tinh hoạt động cùng một lúc).
+Độ mở tích phân GLONASS trên Quả Đất: 80%
+Độ mở tích phân GLONASS trên Nga: 94%
+Đứt quãng tối đa của sự định vị trên Quả Đất: 2.4 giờ
+Đứt quãng tối đa của sự định vị trên Nga: 0.5 giờ
+Để tăng số lượng vệ tinh lên 18 trên lãnh thổ Nga để việc định vị liên tục được đảm bảo 100%. Trên phần còn lại của quả đất theo đây sự ngắt trong việc định vị có thể đạt đến полутора часов. Việc định vị liên tục thực sự trên toàn bộ khu vực của quả đất được bảo đảm trên nhóm quỹ đạo từ 24 vệ tinh.
+Các máy vũ trụ làm việc trong thời gian hiện tại gồm 6 vệ tinh «GLONASS-M», (1 phóng vào năm 2003, 2 — vào 2005, 3 — vào 2006), có thời gian bảo hành tồn tại tích cực là 7 năm. Các vệ tinh này, khác với các máy thế hệ trước, phóng 2 tín hiệu dành cho các nhu cầu dân dụng, cho phép tăng độ chính xác của việc xác định vị trí.
+Tương ứng với yêu cầu của Tổng thống LB Nga nhóm tối thiểu từ 18 vệ tinh cần hoàn tất vào năm 2007. Nhóm đầy đủ từ 24 vệ tinh tương ứng với chương trình liên bang «Hệ định vị toàn cầu» cần hoàn tất vào năm 2010.
+Các vệ tinh «GLONASS-М» trong thành phần nhóm quỹ đạo sẽ nằm, như tối thiểu, đến năm 2015. Các thử nghiệm bay của các vệ tinh негерметичных thế hệ mới «GLONASS-K» với các đặc tính tốt hơn (thời gian bảo hành tăng lên 10 năm và tần số thứ ba của L-диапазон dành cho các nhu cầu dân dụng) cần được bắt đầu vào năm 2008. Vệ tinh này sẽ nhẹ hơn 2 lần so với thế hệ trước (ví dụ 700 kg so với 1415 kg ở «GLONASS-M»)
+Trong tương lai, sau khi hoàn tất nhóm quỹ đạo từ 24 vệ tinh, để đảm bảo sự cung cấp của nó cần thực hiện mỗi năm 1 cuộc phóng 2 vệ tinh «GLONASS-К» trên tên lửa mang «Sojuz», để giảm khấu hao sử dụng.
+Ngày 29 tháng 11 năm 2006, bộ trưởng Quốc phòng Sergey Ivanov, trong chuyến thăm Học viện định vị sóng và thời gian Nga, thông báo rằng hệ GLONASS trong thời gian tới sẽ dùng cho dân sự.
+
+
+== Sự cố 2010 ==
+3 vệ tinh định vị GLONASS - M phóng lên quỹ đạo ngày 5 tháng 12 năm 2010 từ sân bay vũ trụ Baikonur đã rơi xuống ngoài khơi quần đảo Hawaii, Thái Bình Dương do lỗi ở tên lửa đẩy Proton làm chệch hướng khi rời khỏi bệ phóng một góc 8 độ so với dự kiến.
+
+
+== Xem thêm ==
+Danh sách các cuộc phóng vũ trụ của Nga
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Bản mẫu:Các hệ thống định vị
+GLONASS

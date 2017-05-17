@@ -1,0 +1,22 @@
+Tại Hoa Kỳ, Cục Quản lý và Ngân sách (OMB) đã đưa ra một định nghĩa chính thức về các vùng đô thị. Những vùng đô thị này được gọi là các "Vùng thống kê đô thị" (Metropolitan Statistical Areas hay viết tắt là MSA) và "Vùng thống kê kết hợp" (Combined Statistical Areas hay viết tắc là CSA). Định nghĩa trước đây của Vùng thống kê đô thị là "Vùng thống kê đô thị chuẩn" (Standard Metropolitan Statistical Area hay viết tắt là SMSA). Các Vùng thống kê đô thị bao gồm các quận và những đơn vị tương đương quận. Tại vùng Tân Anh, vì tầm quan trọng lớn hơn của các thị trấn đối với các quận nên các vùng tương tự cũng được định nghĩa dựa vào các đơn vị thị trấn được biết như là Vùng thị trấn và thành phố Tân Anh Cát Lợi (New England City and Town Area hay viết tắt là NECTA).
+Các Vùng thống kê đô thị Hoa Kỳ được hoạch định dựa trên cơ bản của một vùng thành thị trung tâm là một vùng liên tiếp có mật độ dân số tương đối cao. Các quận có vùng thành thị cốt lõi được gọi là các quận trung tâm của Vùng đô thị. Các quận bao quanh khác (được biết như là các quận ngoại ô) có thể được cộng vào Vùng thống kê đô thị nếu các quận này có mối quan hệ kinh tế và xã hội mạnh mẽ với các quận trung tâm, được tính qua việc đáp xe hàng ngày ra vào các quận trung tâm và công ăn việc làm. Ghi chú là một số vùng nằm bên trong các quận ngoại ô này có thể thật sự là những vùng nông thôn tự nhiên.
+Vùng thống kê đô thị được dùng cho các mục đích chính thức nhưng chúng không phải là cách để ước tính dân số đô thị duy nhất. Các con số chính xác đối với một số vùng đô thị vẫn còn bị tranh cãi và có một số trường hợp, các nguồn thống kê danh tiếng lại cung cấp các con số sai khác đến hàng triệu. Các trường hợp đáng tranh cãi nhất gồm có Vùng Đại Los Angeles, Vùng Vịnh San Francisco, và Đại Cleveland. Các định nghĩa chính thức được dùng cho Điều tra dân số Hoa Kỳ lần cuối thường hay khác những lần điều tra dân số trước đây, làm cho việc so sánh gặp nhiều khó khăn thậm chí là giữa các con số chính thức của các năm khác nhau (so sánh năm 2000 với năm 1990, Baltimore bị tách rời khỏi Washington, D.C. nhưng West Palm Beach lại được kết hợp lại với Miami-Fort Lauderdale làm cho có con số sai khác khá lớn trong việc xếp hạng cả hai vùng đô thị này).
+Cho đến thời điểm tháng 6 năm 2003, hiện tại có thêm một xếp loại mới, đó là "Phân vùng đô thị" (Metropolitan Division). Cụm từ "phân vùng đô thị" được dùng để chỉ một quận hay một nhóm gồm nhiều quận liên tục nằm sát nhau mà phục vụ như một vùng công ăn việc làm rõ rệt trong một vùng thống kê đô thị có tổng dân số ít nhất là 2,5 triệu. Mặt dù một phân vùng đô thị là một phân vùng của một vùng thống kê đô thị lớn hơn nhưng nó thường có chức năng như một vùng văn hóa, kinh tế, xã hội riêng biệt trong vùng đô thị lớn hơn.
+
+
+== 25 vùng đô thị hàng đầu đông dân nhất Hoa Kỳ ==
+Sau đây là danh sách gồm 25 vùng thống kê đô thị đông dân nhất tại Hoa Kỳ (một số vùng đô thị còn có những phân vùng đô thị) theo Cục điều tra dân số Hoa Kỳ ước tính cho đến ngày 1 tháng 7 năm 2007:
+Để biết hết tất cả các Vùng thống kê đô thị Hoa Kỳ, xin xem Danh sách các vùng thống kê đô thị Hoa Kỳ.
+Để biết danh sách gồm các vùng đô thị kết hợp, xin xem Danh sách các vùng thống kê điều tra dân số sơ khởi của Hoa Kỳ.
+
+
+== Ghi chú ==
+
+
+== Liên kết ngoài ==
+Table 1. Annual Estimates of the Population of Metropolitan and Micropolitan Statistical Areas: ngày 1 tháng 4 năm 2000 to ngày 1 tháng 7 năm 2005
+U.S. Census 2000 Metropolitan Area Rankings; ranked by population
+U.S. Census 2000 Metropolitan Area Rankings
+Definitions of all Metropolitan Statistical Areas, Metropolitan Divisions
+U.S. Census Metropolitan Area Estimates (1990s)
+U.S. Census Metropolitan and Micropolitan Statistical Area Definitions

@@ -1,0 +1,158 @@
+Creative Commons (viết tắt CC) (Tài sản sáng tạo công cộng) là một tổ chức phi lợi nhuận tập trung vào việc mở rộng số lượng tác phẩm có tính sáng tạo mà người khác có thể tạo lại hoặc chia sẻ. Tổ chức đã ban hành một số giấy phép bản quyền được biết với tên gọi Giấy phép Creative Commons. Những giấy phép này, tùy thuộc vào từng loại, chỉ giữ lại một số quyền nào đó (hoặc giữ lại quyền gì) đối với tác phẩm.
+
+
+== Mục tiêu ==
+
+Những giấy phép Creative Commons cho phép người giữ bản quyền trao cho cộng đồng tất cả hoặc một phần quyền lợi của họ trong khi vẫn giữ lại cho mình một số quyền thông qua các mô hình ghi giấy phép và thỏa thuận khác nhau trong đó có dâng tặng vào phạm vi công cộng hoặc điều khoản giấy phép nội dung mở. Mục đích là để tránh những vấn đề mà luật bản quyền hiện tại tạo khi chia sẻ thông tin.
+Dự án cung cấp một vài giấy phép tự do mà người sở hữu bản quyền có thể sử dụng khi phát hành tác phẩm của họ trên mạng. Nó cũng cung cấp siêu dữ liệu RDF/XML để mô tả giấy phép và tác phẩm, giúp cho việc tự động xử lý và tìm kiếm các tác phẩm có ghi giấy phép được dễ dàng hơn. Creative Commons cũng cung cấp giao ước "Bản quyền của Người sáng lập", dùng để tái sáng tạo những tác động của Bản quyền Hoa Kỳ gốc do những người sáng lập Hiến pháp Hoa Kỳ sáng tạo ra.
+Tất cả những nỗ lực này, và các nỗ lực khác nữa, nhằm chống lại tác động của những điều mà Creative Commons cho rằng đó là văn hóa cấp phép đang dần khó khăn hơn và đang lấn át. Theo như lời của Lawrence Lessig, người sáng lập ra Creative Commons và nguyên Chủ tịch Hội đồng, nó là "một thứ văn hóa mà ở đó những người sáng tạo chỉ có thể tạo ra thứ gì đó với sự cho phép từ đấng tối cao, hoặc từ người sáng tạo ra nó trước đây". Lessig bảo vệ quan điểm của mình rằng văn hóa hiện đại bị những người phân phát nội dung truyền thống lấn át để duy trì và tăng cường sự độc quyền của họ đối với những sản phẩm văn hóa như âm nhạc đại chúng hoặc điện ảnh đại chúng, và rằng Creative Commons có thể cung cấp những thay thế khác cho những hạn chế này.
+
+
+== Lịch sử ==
+
+Trước khi Giấy phép Creative Commons xuất hiện đã có Giấy phép Xuất bản Mở và Giấy phép Văn bản tự do GNU (GFDL). GFDL chủ yếu tập trung vào giấy phép cấp cho các văn bản mô tả phần mềm, nhưng nó cũng được sử dụng bởi những dự án không liên quan đến phần mềm như Wikipedia. Giấy phép Xuất bản Mở hiện hầu như không còn tồn tại, và người sáng tạo ra nó đã khuyên các dự án mới không nên sử dụng nó nữa. Cả hai giấy phép này đều chứa những phần tùy chọn, mà theo ý kiến của những nhà phê bình, khiến cho nó ít "tự do" hơn. Giấy phép GFDL khác với CC ở chỗ nó yêu cầu tác phẩm ghi giấy phép phải được phân phối ở dạng "trong suốt", có nghĩa là không được có yếu tố sở hữu và/hoặc yếu tố bí mật.
+Creative Commons chính thức thành lập năm 2001 tại San Francisco. Lawrence Lessig, sáng lập viên và cựu chủ tịch, đã khởi đầu tổ chức như một cách phụ trợ để đạt được mục tiêu trong vụ kiện Tòa án Tối cao, Eldred kiện Ashcroft. Loạt giấy phép Creative Commons đầu tiên được xuất bản vào ngày 16 tháng 12 năm 2002. Chính bản thân dự án đã được vinh danh vào năm 2004 với Giải thưởng Nica Vàng tại Prix Ars Electronica, với thể loại "Tầm nhìn Mạng".
+Creative Commons lần đầu tiên được đưa ra toàn án vào đầu năm 2006, khi người quay phim ngắn Adam Curry kiện một tờ báo Hà Lan đã xuất bản hình của ông đăng trên trang Flickr mà chưa xin phép. Bức hình được ghi giấy phép Creative Commons NonCommercial (phi thương mại). Tuy lời phán quyết có lợi cho Curry, tờ báo vẫn tránh được việc phải trả tiền bồi thường cho ông ta miễn là họ không lặp lại sự vi phạm. Một phân tích về phán quyết nói rằng, "Quyết định của Tòa án Hà Lan đặc biệt đáng chú ý vì nó khẳng định rằng những điều kiện của giấy phép Creative Commons tự động được áp dụng do những nội dung ghi giấy phép của nó, và gắn điều này với người sử dụng nội dung đó thậm chí không cần sự đồng ý, hoặc để ý đến nó, hoặc những điều kiện mà giấy phép đặt ra"
+Vào ngày 15 tháng 12 năm 2006, Giáo sư Lessig nghỉ chức chủ tịch và chỉ định Joi Ito làm chủ tịch mới, trong một buổi lễ diễn ra ở Second Life.
+
+
+== Địa phương hóa ==
+Giấy phép Creatvie Commons gốc không địa phương hóa được viết theo định hướng của hệ thống luật pháp Hoa Kỳ, do đó lời lẽ có thể không tương thích với những quy định khác nhau theo từng nước và khiến cho giấy phép không thể thi hành được theo những luật pháp khác nhau. Để giải quyết vấn đề này, Creative Commons Quốc tế bắt đầu cho ra những giấy phép khác nhau để phù hợp với luật pháp từng nước và luật riêng tư. Đến tháng 1 năm 2007, đã có 34 giấy phép cụ thể theo từng luật, với 9 loại luật khác đang trong quá trình soạn thảo, và ngày càng nhiều nước tham gia vào dự án.
+
+
+== Những dự án đang sử dụng giấy phép Creative Commons ==
+Vài triệu nội dung trên web sử dụng giấy phép Creative Commons. Nội dung Chung được thiết lập bởi Jeff Kramer với sự hợp tác từ Creative Commons, và hiện được duy trì bởi các tình nguyện viên.
+
+
+=== Các ví dụ về phạm vi áp dụng CC ===
+
+Danh sách sau cung cấp một số ví dụ ngắn về những dự án ghi giấy phép CC sử dụng giấy phép Creative Commons đối với đa số các nội dung của nó.
+Cổng thông tin, tập hợp và lưu trữ
+Flickr, Internet Archive, Wikimedia Commons, Ourmedia, deviantART, ccMixter
+Ấn bản chính quy
+Public Library of Science, Proceedings of Science, Sino-Platonic Papers
+Tài liệu mang tính hướng dẫn
+MIT OpenCourseWare, Clinical Skills Online, MIMA Music, Second Life Open SLedware
+Nội dung hợp tác
+Wikinews, Wikivoyage, Memory Alpha, Uncyclopedia, Jurispedia, Microsoft Developer Network, Open Architecture Network và những người khác.
+Blogs, Videoblogs, và Podcasts
+Groklaw, This Week in Tech,: Rocketboom, Jet Set Show, newspaperindex
+Báo chí
+Báo 20 minutes, Tạp chí Blast
+Bản đồ
+OpenStreetMap
+Văn hóa tiến bộ
+Jamendo, BeatPick, Revver, GarageBand.com, blip.tv
+Phản văn hóa
+Star Wreck
+Điện ảnh
+Elephants Dream
+Bumper stickers
+Bumperactive
+Khiêu dâm
+The Good Girl
+
+
+=== Nhãn hiệu thu âm ===
+BeatPick
+Comfort Stand Recordings
+Jamendo
+Kahvi Collective
+Krayola Records
+LOCA Records
+Magnatune
+OnClassical
+Opsound
+Small Brain Records
+Quote Unquote Records
+Thinner/Autoplate
+Vosotros Music
+
+
+== Công cụ để tìm các nội dung giấy phép CC ==
+Trang tìm kiếm của Creative Commons
+Tìm kiếm Creative Commons của Yahoo
+Common Content
+Trình duyệt Mozilla Firefox với chức năng tìm kiếm Creative Commons mặc định
+The Internet Archive - Dự án để duy trì một lưu trữ các tài nguyên đa phương tiện, trong đó có nội dung có bản quyền CC
+Ourmedia - Lưu trữ tập tin do Internet Archive hỗ trợ
+ccHost - Phần mềm máy chủ web do ccmixter và Open Clip Art Library sử dụng
+MusiCC - "Your Free Social Booking"
+
+
+=== Âm thanh và âm nhạc ===
+Cộng đồng Electrobel - Hơn 10.000 bài hát điện tử được phát hành dưới giấy phép CC.
+iRATE radio
+Adrenalinic Sound - Italy
+Gnomoradio
+Starfrosch Blog Cộng đồng MP3 với Phần Creative Commons khổng lồ
+BeatPick Trang nhạc ghi giấy phép CC
+Jamendo - Kho album nhạc có giấy phép Creative Commons
+CC:Mixter - Trang cộng đồng Creative Commons Remix.
+Date a Conocer - Một kho nhạc của Tây Ban Nha phát hành dưới các giấy phép Creative Commons
+
+
+=== Hình ảnh ===
+Everystockphoto.com - Bộ tìm kiếm và đánh dấu thành viên cho các hình Creative Commons [3]
+Open Clip Art Library
+
+
+== Chỉ trích ==
+Trong năm đầu tiên của tổ chức, Creative Commons đã trải qua một giai đoạn "tuần trăng mật" với rất ít lời chỉ trích. Tuy nhiên gần đây, những lời chỉ trích tập trung vào những bước đi của Creative Commons và làm thế nào nó có thể tồn tại với những giá trị và mục tiêu của mình. Các phê bình có thể chia làm hai loại than phiền về việc thiếu:
+Đạo đức - Những người thuộc nhóm này chỉ trích Creative Commons thất bại trong việc đặt ra tiêu chuẩn tối thiểu cho các giấy phép, hoặc vì các giấy phép không dựa trên tinh thần đạo đức. Những nhóm người này tranh cãi rằng Creative Commons nên định nghĩa, và đáng ra phải định nghĩa rồi, một tập các quyền tự do và quyền lợi căn bản mà tất cả các giấy phép CC đều phải gán. Những điều khoản này có thể là hoặc không có cùng sự tự do căn bản như là trung tâm của phong trào phần mềm miễn phí. Cụ thể hơn, Richard Stallman đã phê phán những giấy phép mới không cho phép quyền tự do sao chép tác phẩm để phục vụ cho mục đích phi thương mại, và đã nói rằng ông sẽ không ủng hộ tổ chức Creative Commons nữa, vì giấy phép đã từ chối cung cấp điều kiện này như quyền tự do chung căn bản. Tuy nhiên, hiện nay Creative Commons đã bỏ những giấy phép đó, và tất cả những giấy phép hiện nay của họ đều cho phép quyền tự do tối thiểu này.
+Chính trị - Với mục tiêu là phân tích một cách sâu sắc sự thành lập của phong trào Creative Commons và đưa ra những bài phê bình cao độ (như Berry & Moss 2005, Geert Lovink, phong trào Văn hóa Tự do). Một trong những quan tâm đáng chú ý trong kiểu phê bình này là về vai trò mà Creative Commons đáng đóng như một bộ lọc đoàn thể vô ý thức. Như đã nói trong Martin Hardie và "Sự thờ bái Creative License", "Khi một người kiểm tra kỹ lưỡng về loại 'quyền tự do' chính xác nào là cao nhất để đi với những giấy phép này, họ có thể nhanh chóng khám phá ra rằng họ chủ yếu thiết lập những công cụ để làm lợi cho những hội viên mới của công ty".
+Cách nghĩ thông thường - Những người này thường rơi vào loại "nó không cần thiết" hoặc "nó vứt bỏ quyền lợi của người dùng" (xem Toth 2005 hoặc Dvorak 2005).
+Chuyên gia bản quyền - Những người này thường được lãnh đạo bởi ngành công nghiệp nội dung và tranh cãi rằng Creative Commons không hiệu quả, hoặc nó đang xem nhẹ vấn đề bản quyền (Nimmer 2005).
+
+
+== Xem thêm ==
+Giấy phép Creative Commons
+Danh sách những tác phẩm dưới giấy phép Creative Commons
+Copyleft
+FairShare
+Nội dung tự do
+Phần mềm tự do
+Miễn phí khác với Tự do
+Nội dung mở
+Mã nguồn mở
+Phạm vi công cộng
+Science Commons
+Share-alike
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Creative Commons and Creative Commons Wiki
+A short Flash animation describing Creative Commons
+International Commons: Creative Commons initiatives outside the United States
+ccPublisher -(a tool to tag files with a Creative Commons license and upload them to the Internet Archive)
+Plugin for Mozilla Firefox -(displays Creative Commons attributes in the status bar)
+Common Content -- "a catalog of works licensed in the Creative Commons"
+Yahoo! Search for CC content
+Creative Commons Explained: Lawrence Lessig on The Hour with George Stroumboulopoulos
+
+
+=== Bài báo ===
+"The Commons: The Commons as an Idea - Ideas as a Commons" -(article by David M. Berry about the commons and ideas)
+"BBC to Open Content Floodgates The BBC's Creative Archive project" -(article in Wired magazine on the BBC's use of Creative Commons licenses)
+"Creative Commons: Let’s be creative together" -(from "Framasoft")
+"Take My Music... Please" -(a Newsweek article about Creative Commons by Brian Braiker)
+"Creative Commons Humbug" -(critical article in PC Magazine by John C. Dvorak)
+"Creative Humbug" -(critical article by Péter Benjamin Tóth)
+"Creative Humbug? Bah the humbug, let’s get creative!" -(response to Tóth's criticism by Mia Garlick)
+
+Berry, D. M. & Moss, G. (2005). On the "Creative Commons": a critique of the commons without commonality. Free Software Magazine. No. 5.
+Berry, D. M & Moss, G. (2005). Libre Commons = Libre Culture + Radical Democracy. Noema. No. 44.
+Fitzgerald, Michael (2005), Copyleft hits a Snag. Technology Review
+Hill, Benjamin Mako. (2005). Towards a Standard of Freedom: Creative Commons and the Free Software Movement.
+Nimmer, Raymond (2005). Open source license proliferation, a broader view
+Orlowski, Andrew (2005). On Creativity, Computers and Copyright. The Register
+Tóth, Péter Benjamin. (2005). Creative Humbug: Personal feelings about the Creative Commons licenses
+Richard Stallman explains his disagreement with Creative Commons
+A Debian Developer gives his summary of problems discussed on the debian-legal mailing list (note that this comments on the outdated 2.0 versions of the licenses)
+"Why the BBS Documentary is Creative Commons" by Jason Scott
+Greentown article Overview of copyright history from 1556 leading to Creative
+Möller, Erik (2006). The Case for Free Use: Reasons Not to Use a Creative Commons NC License. Open Source Jahrbuch 2006.
+Find music for your broadcast & avoid paying HUGE royalties.

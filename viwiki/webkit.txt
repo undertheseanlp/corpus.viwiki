@@ -1,0 +1,73 @@
+WebKit là một khung ứng dụng nguồn mở cung cấp các thành phần cần thiết để xây dựng một trình duyệt web. WebKit được Apple Inc. chính thức nhận từ thư viện phần mềm KHTML của trình duyệt Konqueror để sử dụng như là một cỗ máy cho trình duyệt của hệ điều hành Mac OS X là Safari và được tiếp tục phát triển bởi dự án KDE, Apple, Nokia, Google, Torch Mobile và một số khác. Nó đã được chuyển thể sang rất nhiều nền tảng khác và bây giờ được dùng như là cỗ máy kết xuất của rất nhiều phần mềm khác nhau. WebKit là nguồn mở; các thành phần WebCore và JavaScriptCore được sử dụng và được bảo hộ bởi giấy phép GNU Lesser General Public License, và cả bộ WebKit có thể sử dụng với giấy phép kiểu BSD.
+
+
+== Lịch sử ==
+
+
+=== Nguồn gốc ===
+WebKit bắt đầu khởi công từ năm 2002 khi Apple Inc. tạo một dự án phần mềm fork từ dự án của KDE là cỗ máy bố cục HTML KHTML và Cỗ máy JavaScript của KDE (KJS). Các nhà phát triển Apple giải thích trong một e-mail gửi tới các nhà phát triển KDE rằng các bộ máy này cho phép phát triển dễ hơn các công nghệ khác vì tính nhỏ gọn (ít hơn 140,000 dòng mã nguồn), thiết kế sáng sủa và hợp chuẩn. KHTML và KJS đã được chuyển thể sang Mac OS X với sự giúp đỡ của thư viện chuyển đổi và đổi tên thành WebCore và JavaScriptCore. JavaScriptCore được thông báo đến danh sách thư của KDE vào tháng 6 năm 2002, cùng với bản ra mắt đầu tiên với những thay đổi của Apple. WebCore được thông báo tại Macworld Expo vào tháng 1 năm 2003 bởi Apple CEO Steve Jobs với đợt phát hành của trình duyệt Safari. JavaScriptCore lần đầu tiên được phát hành kèm với Mac OS X v10.2 để sử dụng như là một bộ khung riêng để chạy ứng dụng Sherlock, trong khi WebCore lần đầu đi kèm với bản beta đầu tiên của Safari. Mac OS X v10.3 là hệ điều hành đầu tiên của Apple có WebKit, mặc dù nó đã xuất hiện trước đó ở một số ít bản 10.2.
+Tuy vậy, việc trao đổi các bản vá mã nguồn giữa hai phiên bản KHTML đã trở nên khó khăn do hai bên có cách viết mã khác nhau. Một lý do nữa là vì Apple làm việc với phiên bản KHTML của họ một năm trước khi đưa fork cho công chúng.
+Khó chịu về điều đó, dự án KDE đã có thể kết hợp các thay đổi đó để củng cố tốc độ kết xuất của KHTML và thêm vào các chức năng, bao gồm việc vượt qua bài kiểm tra Acid2. Konqueror 3.5 đã vượt qua bài kiểm tra Acid2, phiên bản được ra mắt sau khi Apple mở hệ thống CVS và Cơ sở dữ liệu lỗi phần mềm cho WebKit.
+Theo Apple, một số thay đổi gặp rắc rối với các tính năng đặc trưng của Mac OS X (vd., Objective-C, KWQ, các hàm gọi Mac OS X) không có trong KHTML của KDE, cần có một chiến lược phát triển khác.
+
+
+=== Tranh cãi ===
+Tại một thời điểm các nhà phát triển KHTML nói rằng họ không thể chấp nhận được những thay đổi của Apple và cho rằng mối quan hệ hai bên là một "thất bại cay đắng". Apple đã gửi các sửa đổi của họ trong một gói các bản vá lỗi lớn chứa rất nhiều sửa đổi lớn với tài liệu không tương xứng, thường dùng để thêm vào các chức năng trong tương lai. Dù vậy, các bản vá này đã gây khó khăn cho các nhà phát triển KDE để tích hợp chúng vào KHTML. Đi xa hơn nữa, Apple còn đòi hỏi các nhà phát triển KDE ký vào bản cam kết không tiết lộ trước khi xem mã nguồn của Apple kể cả việc họ không truy cập được vào cơ sở dữ liệu lỗi của Apple.
+Trong khoảng thời gian ly khai được mọi người biết đến, nhà phát triển KDE pipitas gửi viết một bài cho rằng các nhà phát triển KHTML đã cố gắng thêm các sửa đổi tăng cường của Safari (nhưng không phải tất cả) từ WebCore về KHTML, và họ cũng luôn luôn ủng hộ các cải tiến của Apple và đến bây giờ vẫn thế. Bài viết cũng nói đến việc Apple đã bắt đầu liên hệ với các nhà phát triển KHTML để thảo luận về việc cải thiện mối quan hệ giữa hai bên và việc hợp tác trong tương lai.
+Từ khi tin tức về bản fork xuất hiện tren báo chí, Apple đã cung cấp bản chi tiết những thay đổi trong KHTML của họ ở một kho chứa CVS. Bắt đầu từ lúc mã nguồn của Apple xuất hiện trên CVS, các nhà phát triển của cả hai bên đã tăng cường hợp tác. Rất nhiều nhà phát triển KHTML đã trở thành nhà phê bình và là người gửi bản Apple WebKit lên kho chứa SVN.
+Đội phát triển WebKit cũng đã hồi sửa lại những sửa đổi đặc trưng của Apple về mã gốc của WebKit và củng cố khả năng tương thích đa nền tảng cho WebKit.
+
+
+=== Nguồn mở ===
+Vào ngày 7 tháng 6, 2005, nhà phát triển Safari Dave Hyatt thông báo trên blog của anh rằng Apple đã mở mã nguồn WebKit (trước đó, chỉ có WebCore và JavaScriptCore là nguồn mở) và cho phép truy cập vào cây CVS của WebKit và công cụ Bugzilla. Tin này cũng được thông báo trong Hội nghị các nhà phát triển thế giới của Apple năm 2005 bởi tổng chủ tịch kỹ sư phần mềm Apple Bertrand Serlet.
+Vào giữa tháng 12 năm 2005 việc hỗ trợ cho định dạng SVG đã được cho vào bản chuẩn và vào gần tháng 1 năm 2006 mã nguồn đã được chuyển từ CVS thành Subversion. Tháng tiếp theo trang mạng Ars Technica gửi một bài viết thông báo rằng đội ngũ phát triển KDE muốn chuyển từ KHTML sang WebKit.
+
+
+=== Phát triển sau này ===
+Vào tháng 11 năm 2007, dự án thông báo rằng đã hoàn thành hỗ trợ cho các phương tiện chức năng của HTML 5, cho phép các đoạn video nhúng được dựng hình và điều khiển trong WebKit.
+Vào ngày 2 tháng 6, 2008, dự án WebKit thông báo rằng họ đã viết lại JavaScriptCore thành "SquirrelFish", một trình thông dịch bytecode. Dự án tiếp tục phát triển nó thành SquirrelFish Extreme (viết tắt SFX), ra mắt vào ngày 18 tháng 9, 2008, hoạt động bằng cách biên dịch JavaScript thành mã máy, việc từ bỏ thông dịch bytecode đã giúp tăng tốc các đoạn mã JavaScript. Trước đây SFX chỉ hỗ trợ kiến trúc x86, nhưng vào cuối tháng 1 năm 2009 SFX đã có thể chạy trong Mac OS X với kiến trúc x86-64 và nó đã vượt qua tất cả các bài kiểm tra trên nền tảng này.
+
+
+== Sử dụng ==
+WebKit được sử dụng như là một cỗ máy dựng hình cho Safari chạy trên Mac OS X, Windows và iPhone OS. Các ứng dụng khác trên Mac OS X cũng có thể sử dụng WebKit, như trình khách e-mail của Apple Mail và Entourage của Microsoft phiên bản 2008, cả hai dùng WebKit để dựng hình các nội dung HTML bên trong ứng dụng của mình.
+Các trình duyệt web mới cũng sử dụng WebKit là Shiira và Chrome, ngoài ra một số trình duyệt khác dùng WebKit để thay thế cỗ máy dựng hình mặc định của nó như OmniWeb, iCab và Epiphany. Epiphany hỗ trợ cả Gecko và WebKit ở một số thời điểm, nhưng đội ngũ phát triển cho rằng vòng đời ra mắt của Gecko và việc lập kế hoạch phát triển cho nó có thể trở nên nặng nề, kém hiệu quả.
+
+
+=== Chuyển hệ ===
+Vài tuần sau khi Hyatt công bố việc mở mã nguồn WebKit, Nokia thông báo rằng đã chuyển hệ WebKit để chạy trên hệ điều hành Symbian và phát triển một trình duyệt dựa tren WebKit cho các điện thoại của họ, sau này được đặt tên là Web Browser for S60. Apple cũng đã chuyển hệ WebKit để chạy trên iOS (Apple) dành cho iPhone và iPod Touch, được dùng để hiển thị nội dung trong trình duyệt và trình khách thư điện tử, Android sử dụng WebKit là nền tảng cho trình duyệt web của nó, và Palm Pre, ra mắt tháng 6 năm 2009, có giao diện dựa trên WebKit.
+Vào tháng 6 năm 2007, Apple thông báo rằng WebKit đã được chuyển hệ sang cho Microsoft Windows như là một phần của Safari. Việc chuyển hệ cũng đang được tiếp tục cho các hệ điều hành nguồn mở như Syllable, Haiku và AROS.
+WebKit cũng đã được chuyển thể sang rất nhiều bộ công cụ khác nhau, như bộ công cụ GTK+,, bộ công cụ Qt và Adobe Integrated Runtime. Qt Software đã đóng gói kèm WebKit trong phiên bản 4.4 của Qt. WebKit của Qt cũng được Konqueror sử dụng trong KDE 4.1. Cũng có một dự án đồng bộ hoá với WebKit (tài trợ bởi Pleyo) gọi là Origyn Web Browser, cung cấp một nền tảng thống nhất của WebKit để nhúng vào các ứng dụng hệ thống nhanh và dễ dàng hơn. Bản chuyển thể này được dùng trong các hộp set-top, PMP và cả AmigaOS và AROS. Bản chuyển cho MorphOS từ OWB đang được phát triển.
+
+
+== Các thành phần ==
+
+
+=== WebCore ===
+WebCore là thư viện bố cục, dựng hình, và mẫu đối tượng văn bản (DOM) cho HTML và SVG, phát triển bởi dự án WebKit. Toàn bộ mã nguồn của nó được bảo hộ dưới giấy phép LGPL. Khung WebKit bọc WebCore và JavaScriptCore, cung cấp API C-hướng đối tượng trở thành dựa trên C++ của bộ máy WebCore và JavaScriptCore, cho phép kết nối đến các ứng dụng dựa trên Cocoa API; các phiên bản sau này bao gồm các đa nền tảng trừu tượng, và rất nhiều các bản chuyển thể cung cấp sử dụng các API.
+WebKit vượt qua bài kiểm tra Acid2, và vào tháng 9 năm 2008, các bản cập nhật hàng đêm (bao gồm Safari 4) vượt qua bài kiểm tra Acid3 một cách dễ dàng, với cách dựng hình pixel-perfect và không có vấn đề không phụ thuộc vào phần cứng.
+
+
+=== JavaScriptCore ===
+JavaScriptCore là một khung cung cấp một cỗ máy JavaScript để yểm trợ cho WebKit, và cung cấp sử dụng kiểu ngôn ngữ này bên trong Mac OS X. JavaScriptCore có nguồn gốc chính thức từ cỗ máy JavaScript của KDE (KJS) (là một phần của dự án KDE) và thư viện biểu thức chính quy PCRE. Từ khi khởi công từ KJS và PCRE, JavaScriptCore được bổ trợ rất nhiều cùng với hiệu năng vượt trội.
+
+
+=== Drosera ===
+Drosera là trình dò bọ cho JavaScript đi kèm với các bản cập nhật hàng đêm của WebKit. Nó được đặt tên theo Drosera, một họ cây ăn thịt (v.d. cây ăn bọ). Drosera đã được thay thế bởi chức năng tương tự có trong Web Inspector.
+
+
+=== SunSpider ===
+
+Một bộ ứng dụng dùng để kiểm tra hiệu năng của JavaScript trong các tác vụ khác có liên quan đến JavaScript ở thế giới thực, như vẽ màn hình, mã hoá và trộn chữ. Bộ công cụ này tỏ ra cân đối và ổn định. Nó được phát hành bởi đội ngũ phát triển Apple WebKit vào tháng 12 năm 2007. Ứng dụng được đón nhận nồng nhiệt, và các nhà phát triển trình duyệt khác dùng nó để so sánh hiệu năng JavaScript giữa các trình duyệt.
+
+
+== Xem thêm ==
+So sánh các cỗ máy bố cục
+Danh sách các trình duyệt dựa trên KHTML và WebKit
+Danh sách các cỗ máy bố cục đồ hoạ
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang chính thức của dự án nguồn mở WebKit

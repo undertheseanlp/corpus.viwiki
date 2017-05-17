@@ -1,0 +1,246 @@
+Xem chi tiết xếp hạng HDI tại: Danh sách các quốc gia theo thứ tự về Chỉ số phát triển con người
+
+Chỉ số phát triển con người (Human Development Index - HDI) là chỉ số so sánh, định lượng về mức thu nhập, tỷ lệ biết chữ, tuổi thọ và một số nhân tố khác của các quốc gia trên thế giới. HDI giúp tạo ra một cái nhìn tổng quát về sự phát triển của một quốc gia. Chỉ số này được phát triển bởi một kinh tế gia người Pakistan là Mahbub ul Haq và nhà kinh tế học người Ấn Độ Amartya Sen vào năm 1990.
+
+
+== Quan điểm phát triển con người ==
+Phát triển con người chính là, và phải là, sự phát triển mang tính nhân văn. Đó là sự phát triển vì con người, của con người và do con người.
+Quan điểm phát triển con người nhằm mục tiêu mở rộng cơ hội lựa chọn cho người dân và tạo điều kiện để họ thực hiện sự lựa chọn đó (có nghĩa là sự tự do). Những lựa chọn quan trọng nhất là được sống lâu và khỏe mạnh, được học hành và có được một cuộc sống ấm no.
+Năm đặc trưng của quan điểm phát triển con người là:
+Con người là trung tâm của sự phát triển.
+Người dân vừa là phương tiện vừa là mục tiêu của phát triển.
+Việc nâng cao vị thế của người dân(bao hàm cả sự hưởng thụ và cống hiến).
+Chú trọng việc tạo lập sự bình đẳng cho mọi người dân về mọi mặt: tôn giáo, dân tộc, giới tính, quốc tịch...
+Tạo cơ hội lựa chọn tốt nhất cho người dân về: kinh tế, chính trị, xã hội, văn hóa...
+
+
+== Cách tính HDI (mới) ==
+HDI là một thước đo tổng quát về phát triển con người. Nó đo thành tựu trung bình của một quốc gia theo ba tiêu chí sau:
+Sức khỏe (LEI): Một cuộc sống dài lâu và khỏe mạnh, đo bằng tuổi thọ trung bình.
+Tri thức (EI): Được đo bằng số năm đi học bình quân (MYSI) và số năm đi học kỳ vọng (EYSI).
+Thu nhập: Mức sống đo bằng GNI bình quân đầu người (II).
+Chỉ số của các tiêu chí trên được tính bằng các công thức sau: (cách tính này được UNDP áp dụng từ năm 2010)
+Chỉ số tuổi thọ trung bình (LEI) được đo bằng tuổi thọ trung bình của một quốc gia.
+
+  
+    
+      
+        L
+        E
+        I
+        =
+        
+          
+            
+              
+                
+                  LE
+                
+              
+              −
+              20
+            
+            
+              85
+              −
+              20
+            
+          
+        
+      
+    
+    {\displaystyle LEI={\frac {{\textrm {LE}}-20}{85-20}}}
+  
+Chỉ số học vấn (EI) là trung bình cộng của chỉ số đi học bình quân và chỉ số đi học kỳ vọng.
+
+  
+    
+      
+        E
+        I
+        =
+        
+          
+            
+              
+                
+                  MYSI
+                
+              
+              +
+              
+                
+                  EYSI
+                
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle EI={\frac {{\textrm {MYSI}}+{\textrm {EYSI}}}{2}}}
+  
+Trong đó:
+Chỉ số năm đi học bình quân (MYSI) được tính là: 
+  
+    
+      
+        M
+        Y
+        S
+        I
+        =
+        
+          
+            
+              MYS
+            
+            15
+          
+        
+      
+    
+    {\displaystyle MYSI={\frac {\textrm {MYS}}{15}}}
+  
+Chỉ số năm đi học kỳ vọng (EYSI) được tính là: 
+  
+    
+      
+        E
+        Y
+        S
+        I
+        =
+        
+          
+            
+              EYS
+            
+            18
+          
+        
+      
+    
+    {\displaystyle EYSI={\frac {\textrm {EYS}}{18}}}
+  
+Chỉ số GNI bình quân đầu người (II)
+
+  
+    
+      
+        I
+        I
+        =
+        
+          
+            
+              ln
+              ⁡
+              (
+              
+                
+                  GNI/ng
+                
+              
+              )
+              −
+              ln
+              ⁡
+              (
+              100
+              )
+            
+            
+              ln
+              ⁡
+              (
+              75.000
+              )
+              −
+              ln
+              ⁡
+              (
+              100
+              )
+            
+          
+        
+      
+    
+    {\displaystyle II={\frac {\ln({\textrm {GNI/ng}})-\ln(100)}{\ln(75.000)-\ln(100)}}}
+  
+Từ 3 chỉ số trên, ta có công thức tính chỉ số HDI như sau:
+
+  
+    
+      
+        
+          
+            HDI
+          
+        
+        =
+        
+          
+            
+              
+                
+                  LEI
+                
+              
+              ⋅
+              
+                
+                  EI
+                
+              
+              ⋅
+              
+                
+                  II
+                
+              
+            
+            
+              3
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\textrm {HDI}}={\sqrt[{3}]{{\textrm {LEI}}\cdot {\textrm {EI}}\cdot {\textrm {II}}}}.}
+  
+LE: Tuổi thọ trung bình
+MYS: Số năm đi học bình quân (số năm mà một người trên 25 tuổi đã bỏ ra trong giáo dục chính quy)
+EYS: Số năm đi học kỳ vọng (số năm học dự kiến cho trẻ em dưới 18 tuổi)
+GNI/ng: Tổng sản lượng quốc gia bình quân đầu người được tính theo sức mua tương đương quy ra đôla Mỹ.
+
+
+== Chỉ số HDI năm 2015 ==
+
+Báo cáo Phát triển Con người 2015 được UNDP (Chương trình Phát triển Liên Hiệp Quốc) công bố vào ngày 14 tháng 12 năm 2015, các giá trị trong bảng được tính toán dựa trên cơ sở dữ liệu năm 2014. Dưới đây là danh sách 49 nước có chỉ số rất cao: 
+Chú giải:
+ = tăng.
+ = giữ nguyên.
+ = giảm.
+Số trong ngoặc là số hạng điều chỉnh của một quốc gia (tăng hoặc giảm) so với năm 2014.
+Chú ý: Do Macau và Đài Loan không phải là thành viên của UNDP, nên HDI của 2 nước này không được UNDP tính toán. Việc tính toán chỉ số HDI ở Macau và Đài Loan là do chính phủ hai nước thực hiện.
+
+
+== Xem thêm ==
+Danh sách các quốc gia theo thứ tự về Chỉ số phát triển con người
+Chỉ số nghèo khổ (Human Poverty Index) - HPI-1, HPI-2
+Chỉ số phát triển về giới (The gender-related development index)-GDI
+Chỉ số vị thế về giới (The gender empowerment measure)-GEM
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Bảng xếp hạng HDI thế giới
+UNDP Việt Nam
+2006 Báo cáo năm 2006 của Liên Hiệp Quốc về Chỉ số phát triển con ngườiPDF (7.88 MiB)
+Báo cáo năm 2005 của Liên Hiệp Quốc về Chỉ số phát triển con người (PDF)

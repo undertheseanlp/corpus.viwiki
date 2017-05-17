@@ -1,0 +1,53 @@
+Freedesktop.org (fd.o) là một dự án làm việc trên các cơ sở khả năng tương tác và chia sẻ công nghệ cho các phần mềm môi trường desktop miễn phí cho hệ thống X Window (X11) trên Linux và hệ điều hành tương tự Unix. Nó được thành lập bởi Havoc Pennington từ Red Hat vào háng 3 năm 2000.
+Dự án tập trung vào người sử dụng. Có rất nhiều framework phát triển cho X, và điều này là không thay đổi. Dự án tìm cách bảo đảm rằng những khác biệt trong khuôn khổ phát triển không sử dụng có thể nhìn thấy.
+Những dự án sử dụng rộng rãi phần mềm miễn phí X cho desktop như GNOME, KDE và Xfce đang cộng tác với dự án freedesktop.org. Năm 2006, dự án phát hành Portland 1.0 (xdg-utils), một tập hợp các giao diện chung cho các môi trường desktop.
+freedesktop.org trước đây được biết như là X Desktop Group, và từ viết tắt "XDG" vẫn còn phổ biến trong công việc của họ.
+
+
+== Các dự án đang lưu trữ ==
+freedesktop.org cung cấp lưu trữ cho một số dự án có liên quan. Chúng bao gồm:
+X.Org Server: thi hành các tham chiếu chính thức của X11. Phiên bản hiện tại là một phân nhánh của XFree86 trước khi nó được thay đổi giấy phép thứ 2.
+D-Bus, một bus thông báo giống như DCOP của KDE hoặc Bonobo của GNOME
+Drag-and-drop: X kéo-thả vẫn không làm việc một cách nhất quán.
+HAL (Hardware Abstraction Layer) ilà một lớp điều hành qua hệ thống nhất quán, nó đã bị phản đối và thay thế bởi udev.
+Fontconfig là một thư viện cho phát hiện phông chữ, tên thay thế, etc.
+Xft, phông chữ chống-biệt bằng cách sử dụng thư viện FreeType, chứ không phải là lõi phông của X cũ.
+Cairo, một thư viện đồ họa véc tơ với hỗ trợ qua thiết bị đầu ra.
+Direct Rendering Infrastructure, hay DRI, là một giao diện được sử dụng trong hệ thống X Window để cho phép các ứng dụng người dùng truy cập vào phần cứng video mà không yêu cầu dữ liệu được thông qua thông qua các X Server.
+GStreamer là platform đa phương tiện..
+Mesa 3D, một thực hiện OpenGL.
+XCB, một sự thay thế Xlib.
+GTK-Qt công cụ, một công cụ GTK+ 2 sử dụng Qt để vẽ các vật dụng, cung cấp cùng một giao diện ứng dụng KDE và GTK+2.
+Poppler, một thư viện hiển thị PDF.
+Wayland, một máy chủ hiển thị nhẹ mà có ý định cung cấp kinh nghiệm giao diện hoàn hảo (người sử dụng không bao giờ có thể nhìn thấy rách, tụt hậu, vẽ lại và rung) cho các desktop Linux.
+Ngoài ra, Avahi (một thực hiện Zeroconf miễn phí) bắt đầu như là một dự án fd.o nhưng đã di chuyển đến nơi khác.
+
+
+== Mục tiêu tuyên bố ==
+Mục đích của dự án không phải là để làm luật tiêu chuẩn chính thức. Thay vào đó, nó nhằm mục đích để nắm bắt các vấn đề khả năng tương tác nhiều trước đó trong quá trình này.
+Thu thập các chi tiết kỹ thuật hiện có, tiêu chuẩn và các văn bản liên quan đến khả năng tương tác desktop X và làm cho chúng có sẵn trong một vị trí trung tâm;
+Thúc đẩy phát triển các chi tiết kỹ thuật và tiêu chuẩn mới được chia sẻ giữa nhiều desktop X;
+Tích hợp các tiêu chuẩn desktoop cụ thể vào các tiêu chuẩn nỗ lực rộng lớn hơn, chẳng hạn như Linux Standard Base và ICCCM;
+Làm việc về việc thực hiện các tiêu chuẩn trong X desktop cụ thể;
+Phục vụ như là một diễn đàn trung lập để chia sẻ ý tưởng về công nghệ desktop X;
+Thực hiện công nghệ hơn nữa khả năng tương tác desktop X với các desktop X miễn phí nói chung;;
+Thúc đẩy X desktop và X desktop chuẩn cho các tác giả ứng dụng, cả thương mại và tình nguyện viên;
+Giao tiếp với các nhà phát triển hạt nhân hệ điều hành miễn phí, hệ thống X Window, các bản phân phối OS miễn phí, và như vậy để giải quyết các vấn đề liên quan đến desktop;
+Cung cấp kho lưu trữ nguồn (git và CVS), web hosting, Bugzilla, mailing lists và các nguồn lực khác cho các dự án phần mềm miễn phí làm việc hướng tới các mục tiêu trên.
+
+
+== Xem thêm ==
+GNOME
+KDE
+GTK+
+Qt
+
+
+== Chú thích ngoài ==
+
+Notes
+The Big freedesktop.org Interview (Rayiner Hashem & Eugenia Loli-Queru, OSNews, ngày 24 tháng 11 năm 2003)
+
+
+== Liên kết ngoài ==
+Project home page (wiki-based)

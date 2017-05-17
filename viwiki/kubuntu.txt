@@ -1,0 +1,53 @@
+Kubuntu là một sản phẩm phái sinh chính thức của hệ điều hành Ubuntu, sử dụng môi trường giao diện đồ họa KDE thay vì GNOME. Đây là một bộ phận của dự án Ubuntu và sử dụng cùng hệ thống bên dưới. Người dùng có thể chuyển đổi qua lại giữa màn hình chính KDE (kubuntu-desktop) vừa chạy màn hình chính Gnome (ubuntu-desktop) trên cùng một máy. Các gói phần mềm trong Kubuntu dùng chung kho phần mềm với Ubuntu. Hệ điều hành này cũng được phát hành thường xuyên y hệt như như Ubuntu.
+
+
+== Tên gọi ==
+"Kubuntu", phát âm /kuːˈbuːntuː/, có nghĩa là "hướng tới nhân loại" trong tiếng Bemba, được sinh ra từ chữ ubuntu ("nhân loại"). Chữ K ở đầu đại diện cho giao diện/ứng dụng KDE mà Kubuntu dựa vào đó để vận hành. Một cách tình cờ, Kubuntu cũng có nghĩa là "tự do" trong tiếng Kirundi.
+
+
+== Khác biệt với Ubuntu ==
+Bản cài đặt bình thường của Ubuntu sử dụng môi trường GNOME, các ứng dụng và gói GTK+/GNOME (ví dụ như phần mềm Evolution), và các công cụ quản trị nền GTK+/GNOME (như Synaptic Package Manager). Ngược lại, bản cài đặt bình thường của Kubuntu sử dụng môi trường KDE, các ứng dụng và gói KDE/Qt (như Kontact), và công cụ quản trị KDE/Qt (như KPackageKit). Tuy vậy, người dùng Kubuntu có thể cài đặt và sử dụng bất kỳ gói nền GNOME/GTK nào có trong kho phần mềm Ubuntu, và người dùng Ubuntu/GNOME, tương tự như vậy, có thể cài đặt bất kỳ gói nền KDE/Qt nào. Người dùng có thể cài đặt Ubuntu rồi sau đó thêm KDE vào, hoặc cài đặt toàn bộ gói môi trường Kubuntu 'metapackage' lên trên Ubuntu. (Tuy nhiên, vẫn có một số bất lợi khi cài và sử dụng chung môi trường GNOME lẫn KDE, như tăng lượng sử dụng đĩa và bộ nhớ khi chạy cả GTK/GNOME và Qt/KDE.)
+Môi trường Kubuntu hoàn toàn có thể tùy chỉnh được. Ban đầu, nó được thiết kế để thuận tiện cho những người dùng chuyển từ các hệ điều hành khác (như Microsoft Windows) với việc thể hiện cách trình bày giao diện tương tự, đến nay KDE 4 Plasma Desktop đã đưa vào cơ chế gói xoay quanh các widget để cho phép người dùng đưa vào tính năng tương tự như mọi hệ điều hành khác và cũng tạo ra những tính năng mới mới khác chưa từng có ở đâu. Hiệu ứng 3 chiều cũng có trong bản cài đặt KDE4 chuẩn.
+
+
+== Hình ảnh ==
+
+
+== Phát hành ==
+Kubuntu có cùng hệ thống đặt tên/đánh phiên bản với Ubuntu, mỗi lần phát hành đều có tên mã, và số phiên bản dựa vào năm và tháng phát hành. Canonical là hãng cung cấp sự hỗ trợ và các bản cập nhật bảo mật cho hầu hết các phiên bản Kubuntu trong vòng 18 tháng sau khi phát hành. Có cả Desktop CD và CD thay thế (cài đặt) dành cho nền x86 lẫn AMD64. Có thể đặt hàng CD Kubuntu qua dịch vụ Shipit. Kubuntu có thể cài đặt bằng phiên bản KDE 3.5 hoặc KDE 4.x.
+
+
+== Yêu cầu cấu hình ==
+Phiên bản máy tính của để bàn mà Kubuntu hiện đang hỗ trợ là các kiến trúc Intel x86 và AMD64. Một số bản phát hành còn hỗ trợ thêm kiến trúc SPARC., PowerPC, IA-64 (Itanium), và PlayStation 3 (mặc dù do việc cập nhật chính thức phần dẻo từ Sony vào tháng 4 năm 2010, người dùng PS3 không còn chạy hệ điều hành khác trên máy của họ được nữa - tính năng này trước đây vẫn được OtherOS hỗ trợ). Vì Kubuntu thực chất là Ubuntu sử dụng môi trường để bàn KDE, bất kỳ phiên bản nào có trong Ubuntu đều có trong Kubuntu.
+Yêu cầu cấu hình hệ thống tối thiểu để cài đặt trên máy để bàn là bộ xử lý x86 300 MHz, 64 MB RAM, 4 GB ổ cứng còn trống, và cạc video có hỗ trợ VGA ở độ phân giải 640x480. Cấu hình đề nghị dành cho cài đặt trên máy tính để bàn là bộ xử lý x86 700 MHz, 384 MB RAM, 8 GB ổ cứng còn trống, và cạc video hỗ trợ VGA với độ phân giải 1024×768. Bản cài đặt máy chủ đòi hỏi bộ xử lý x86 300 MHz, 64 MB RAM, và một cạc video hỗ trợ VGA ở độ phân giải 640×480.
+*Ghi chú: Nếu muốn sử dụng "hiệu ứng hình ảnh", cần phải hỗ trợ GPU.
+
+
+== Đón nhận ==
+Nghị viện Pháp đã thông báo vào năm 2006 rằng họ sẽ chuyển hơn 1.000 máy trạm sang Kubuntu trước tháng 6 năm 2007.
+Kubuntu hiện đã được dùng trong tất cả 1100 trường công tại Quần đảo Canary.
+Cụm kết xuất của Weta Digital gồm 35.000 máy là những máy tính chạy Kubuntu.
+
+
+== Xem thêm ==
+Debian
+KDE
+Ubuntu
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+Kubuntu Shipit FAQ
+Ubuntu Homepage
+Kubuntu Homepage
+
+
+== Liên kết ngoài ==
+Trang web chính thức
+Hướng dẫn sử dụng Kubuntu (không chính thức)—tài liệu trợ giúp, mẹo, câu hỏi và hướng dẫn phần mềm
+Diễn đàn Kubuntu (không chính thức)
+Bản mẫu:DistroWatch
+Hình chụp màn hình Kubuntu tại TCS
+Bản mẫu:Linux distributions

@@ -1,0 +1,66 @@
+Bada (cách điệu: bada, phát âm /ˈbɑːdɑː/) là một nền tảng phần mềm cho thiết bị di động do Samsung Electronics phát triển. bada được thiết kế để sử dụng trong các dòng điện thoại thông minh cao cấp và trung cấp. Samsung cho rằng bada sẽ nhanh chóng thay thế các chức năng tư hữu của điện thoại, chuyển đổi điện thoại cấp thấp thành điện thoại thông minh. Điều này sẽ khiến các khách hàng sử dụng các thiết bị cầm tay của Samsung chuyển sang dùng điện thoại thông minh.
+Bada được đặt tên theo cụm từ tiếng Hàn 바다 (bada), mang nghĩa là đại dương hoặc biển.
+
+
+== Lịch sử ==
+Samsung giới thiêu nền tảng Bada vào ngày 10 tháng 11 năm 2009. Sau khi đó, các công ty Twitter, EA, Capcom, Gameloft, và Blockbuster giới thiệu sự hỗ trợ của họ đối với nền tảng bada. Sau khi thông báo, Wave S8500 lần đầu tiên xuất hiện tại Đại hội Di động Thế giới 2010 ở Tây Ban Nha vào tháng 2 năm 2010. Vào thời điểm này đã có khoảng 10 ứng dụng phát triển cho bada như Asphalt 5 của Gameloft.
+Samsung bắt đầu cung cấp SDK cho Bada cho các lập trình viên. Trong thời gian tháng 5 năm 2010, Samsung phát hành SDK 1.0.0b2, tiếp tới là 1.0.0b3 và cuối tháng 5 năm 2010. Thêm vào đó, Samsung tổ chức cuộc thi phát triển ứng dụng cho bada với giải thưởng 2.700.000 USD.
+Điện thoại chạy Bada đầu tiên là Wave S8500, ra mắt vào ngày 1 tháng 6 năm 2010.
+
+
+== Phiên bản ==
+Samsung S8500 Wave ra mắt với phiên bản Bada 1.0. Không lâu sau khi ra mắt, Samsung phát hành phiên bản 1.0.2, trong đó bao gồm sửa chữa nhỏ cho người dùng châu Âu. Phiên bản cuối cùng 1.2 đã phát hành cho Samsung S8530 Wave II. Phiên bản alpha của Bada 2.0 được giới thiệu vào ngày 15 tháng 2 năm 2011, với Samsung S8530 Wave II
+Hiện thiết bị cầm tay hàng đầu Bada là Samsung Wave 3 S8600, chạy 2.0
+
+
+== Samsung Apps ==
+Cùng với sự phát hành của Samsung Wave, Samsung mở cửa gian hàng ứng dụng quốc tế, Samsung Apps, cho nền tảng Bada. Samsung Apps có hơn 2.400 ứng dụng. Cửa hàng này cũng có sẵn trên điện thoại Android của Samsung.
+
+
+== Kiến trúc ==
+Bada, theo như định nghĩa của Samsung, không phải là một hệ điều hành, nhưng là một nền tảng có nhân có thể cấu hình, cho phép sử dụng nhân Linux hoặc các hệ điều hành thời gian thực (RTOS). Nhân Linux thường được dùng nhiều hơn cho các điện thoại thông minh cao cấp, trong khi RTOS thường có trong các smartphone tầm trung do có chân bộ nhớ nhỏ hơn.
+Mức trên của hệ lõi có Device, Service, và Framework Layers respectively. Device Layer cung cấp các chức năng cơ bản như đồ họa, giao thức, gọi điện, bảo mật.... Service Layer cung cấp các chức năng đặc trưng như SNS, bản đồ, mua ứng dụng. Để cung cấp các chức năng này, Samsung cung cấp các bộ điều hành bada Server. Lớp trên cùng, Framework Layer, cung cấp các API viết bằng C++ cho các nhà phát triển.
+bada cung cấp rất nhiều cách điều khiển giao diện người dùng cho nhà phát triển: gồm các UI cơ bản như Listbox, Color Picker, Tab, vv. Thêm vào đó, nó có trình duyệt web dựa trên WebKit có hỗ trợ Adobe Flash phiên bản 9. Cả WebKit và Flash có thể nhúng vào bên trong các ứng dụng.
+bada hỗ trợ khá nhiều các chức năng dựa trên phần cứng khác như: đa cảm biến, như cảm biến chậm, điều khiển rung, nhận diện khuôn mặt, gia tốc kế, từ kế, độ nghiêng, và GPS, có thể kết hợp với các ứng dụng, và đa cảm biến.
+Các ứng dụng thuần được viết bằng C++ với SDK của bada, Eclipse. Các công cụ GNU được dùng để biên dịch và sửa lỗi. IDE còn có trình xây dựng UI, nơi các lập trình viên có thể kéo thả các control vào ứng dụng của mình. Để kiểm tra và dò bọ IDE có một trình mô phỏng để có thể chạy thử các ứng dụng.
+
+
+== Bada 2.0 ==
+Phiên bản Bada 2.0 được trưng bày tại IFA 2011 ở Berlin và phát hành vào cuối tháng 12 năm 2011 với rất nhiều chức năng mới và cải tiến so với phiên bản 1.2, như sau:
+Hỗ trợ toàn bộHTML5
+Khả năng tương thích WAC 2.0
+Đa nhiệm đầy đủ
+Công nghệ Wifi-Direct
+Adobe Flash lite 4 (phiên bản Flash Player điện thoại, hỗ trợ Action script 3.0 của Adobe Flash 10 và 11)
+Dolphin Browser 3.0 với quản lý tải xuống
+Smart-wallpapers
+Text-to-speech
+Speech to text
+Vocal commands based trên Vlingo
+Thông báo Push
+NFC
+Chính sách bảo mật mới và chức năng bảo vệ
+Quản lý máy ảnh mới
+GUI mới
+OpenAL
+bao gồm các ứng dụng và dịch vụ độc quyền như ChatON, Caster, Music Hub
+
+
+== Tương lai ==
+Trong tương lai, Samsung sẽ hợp nhất hai hệ điều hành của họ lại với nhau là bada và Tizen, một hệ điều hành có sự hợp tác và hỗ trợ của nhiều phía như Intel, Huawei, Đây được xem là một quyết định sáng suốt của Samsung để họ không còn bị lệ thuộc vào Google.
+
+
+== Chỉ trích bada ==
+Một số bài báo đã đăng tin về việc chỉ trích bada:
+Các nhà phát triển lo lắng về nền tảng mới và hỏi "tại sao cần có nền tảng khác?". Samsung trả lời rằng bada sẽ là một trong những nền tảng chính khi mà Samsung sẽ sản xuất điện thoại chạy nó.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Website chính thức
+bada Developers - trang chính thức cho nhà phát triển
+bada dev - trang cho nhà phát triển
+Samsung bada blog tiếng Nga
+Samsung's Mobile World Congress portal

@@ -1,0 +1,59 @@
+Samsung Galaxy Note là smartphone/máy tính bảng hybrid ("phablet" - (Ph)one T(ablet) hoặc "tablet phone") chạy hệ điều hành Android, giới thiệu vào tháng 10 năm 2011 và được chú ý vì màn hình kích thước 5.3-inch —giữa các thiết bị thông thường, và tablet màn hình lớn—và nó bao gồm stylus.
+
+
+== Lịch sử ==
+Galaxy Note công bố bởi Samsung during IFA 2011 ở Berlin. Nó được phát hành tại Đức vào cuối tháng 10 năm 2011, và một số quốc gia khác sau đó. Vào cuối tháng 11, nó có mặt hầu hết các thị trường chính, bao gồm khu vực Đông Á, châu Âu và Ấn Độ.
+Vào tháng 12 năm 2011, Samsung công bố 1 triệu chiếc Galaxy Notes được xuất ra trong vòng chưa đầy hai tháng, và một biến thể Bắc Mỹ được phát hành vào tháng 2 năm 2012. Vào tháng 1 năm 2012, phiên bản Mỹ của Galaxy Note được trưng bày tại 2012 CES ở Las Vegas, cho phép báo chí có cái nhìn đầu tiên về thiết bị mới.
+Tính đến quý I 2012 từ tháng 1 đến tháng 3, 5 triệu chiếc đã được bán ra. Tính đến 1 tháng 6 năm 2012, Samsung công bố rằng 7 triệu chiếc đã được xuất xưởng. Tính đến 15 tháng 8 năm 2012, Samsung công bố rằng 10 triệu thiết bị đã được bán.
+
+
+== Phần cứng và phần mềm ==
+Thông số phần cứng của thiết bị bao gồm:
+Một vi xử lý lõi-kép 1.4 GHz ARM Cortex A9 Exynos 4210 SoC hoặc 1.5 GHz Qualcomm MSM8660 Snapdragon SoC S3 (AT&T, SK Telecom, KT, LG U+, docomo)
+Mali 400MP GPU (Exynos)/Adreno 220 (Snapdragon)
+Màn hình 5.29" HD Super AMOLED với RGBG-Matrix (Pentile) và độ phân giải WXGA (1.280 x 800)
+Máy ảnh chính 8-megapixel có thể quay video 1080p, và máy ảnh trước 2-megapixel
+802.11 a/b/g/n (2.4/5 GHz) hỗ trợ cho Wi-Fi
+Quad-band HSPA+ 21Mbit/s 850/900/1900/2100 hỗ trợ mạng, hỗ trợ LTE cho Hàn Quốc, Nhật Bản, và biến thể Bắc Mỹ
+Định vị toàn cầu sử dụng cả hai hệ thống a-GPS và GLONASS.
+
+
+=== Nhập văn bản ===
+Văn bản có thể được nhập bằng cách sử dụng các giao thức như: một bàn phím trên màn hình, với nhận dạng chữ viết sử dụng bút stylus, và sử dụng bàn phím Swype, thay kế trực tiếp một từ với sự di chuyển ngón tay hoặc lướt bút stylus và giữ phím cứng.
+
+
+=== Máy ảnh ===
+Thiết bị có máy ảnh chính 8-megapixel (2.448 x 3.264 pixel) với flash ở mặt sau, và máy ảnh trước 2-megapixel (1.200 x 1.600 pixels), chủ yếu dùng để gọi video. Máy ảnh chính có thể quay video 1080p ("Full HD") với 30 khung/giây. Ứng dụng sửa chữa hình ảnh và video được cài đặt sẵn trên thiết bị.
+
+
+== Biến thể ==
+Galaxy Note được chủ yếu với phần thân màu đen (Samsung gọi là "xanh carbon"), nhưng màu khác của phần thân cũng được làm sẵn, bao gồm màu trắng and pink.
+Các biến thể sau đây của Galaxy Note đã sản xuất là:
+GT-N7000 — Nguyên bản, với vi xử lý lõi-kép 1.4 GHz Cortex A9
+GT-N7000B — Chỉ bán ở Australia và Thái Lan, phiên bản này được tối ưu hóa cho 850 MHz 3G band.
+GT-N7005 — Chỉ bán ở Hồng Kông và Singapore, phiên bản này trông giống như SGH-i717, nhưng với 1800/2600 MHz LTE thay vì 700/1700 của AT&T.
+SHV-E160K, SHV-E160L, SHV-E160S — phiên bản LTE với khả năng kết nối tốc độ cao, độc quyền ở Hàn Quốc. Thông số kỹ thuật tương tự như phiên bản AT&T của Mỹ. Nó được trang bị vi xử lý lõi-kép Qualcomm Snapdragon S3 (APQ8060 1.5 GHz), Adreno 220 GPU và hỗ trợ TV bao gồm FM radio. Thiết kế bên ngoài tương tự như bản N7000 ở mặt trước (nó có các phím vật lý thay vì phím cảm ứng điện dung).
+SGH-I717 — Phiên bản LTE phát hành độc quyền tại Mỹ và Canada.
+SC-05D — Phiên bản LTE phát hành bởi NTT DoCoMo, Nhật Bản. Nó trang bị vi xử lý lõi-kép Qualcomm Snapdragon S3 (APQ8060 1.5 GHz) và Adreno 220 GPU. Thông số kỹ thuật và thiết kế khác tương tự như phiên bản quốc tế N7000.
+SGH-T879 — phiên bản T-Mobile USA của Galaxy Note đã phát hành 6 tháng trước bản AT&T vào tháng 8 năm 2012, nó có thông số kỹ thuật tương tự SGH-I717 nhưng không hỗ trợ LTE. Phiên bản này được cài đặt sẵn Android 4.0 khi vẫn còn trong hộp.
+GT-I9220 — phiên bản WCDMA phát hành độc quyền cho China Unicom.
+GT-I9228 — phiên bản TD-SCDMA phát hành độc quyền cho China Mobile.
+SCH-I889 — phiên bản CDMA2000 phát hành độc quyền cho China Telecom.
+
+
+== Galaxy Note II ==
+
+Kế thừa cho Galaxy Note là Galaxy Note II, đã chính thức được công bố tại một sự kiện "Samsung Unpacked" ở Berlin vào 29 tháng 8 năm 2012. Chiếc điện thoại mới có vi xử lý lõi-tứ 1.6 GHz Exynos 4412, 2 GB RAM (không điện thoại Samsung nào trước đó có 2GB, ngoại trừ i9305 Hàn Quốc) và dung lượng pin 3.100 mAh. Tên mã sản phẩm của thiết bị này là GT-N7100. Sự khác biệt lớn nhất so với Note nguyên bản bao gồm: màn hình 5.55 inch với độ phân giải 1.280x720 (được cải thiện với thiết kế ma trận PenTile và tỉ lệ màn hình 16:9 chứ không phải 16:10 của Note nguyên bản), Bluetooth Low Energy, tuổi thọ pin kéo dài hơn, và thêm một số tính năng mới cho S Pen. Bộ nhớ trong là 16, 32 hoặc 64 GB. Màu gồm Cẩm thạch trắng hoặc xám titan. Note II chạy hệ điều hành Android 4.1.1 Jelly Bean của Google.
+
+
+== Dòng sản phẩm Galaxy Note ==
+
+Samsung Galaxy Note 10.1 không phải là một biến thể, nhưng là một sản phẩm khác trùng với dòng Galaxy Note.
+Samsung Galaxy Note 8.0, tên mã Kona, là 8-inch Samsung Galaxy Note đã được khẳng định bởi người đứng đầu bộ phân di động tại Samsung sẽ xuất hiện lần đầu tiên tại Mobile World Congress 2013.
+
+
+== Tham khảo ==
+
+
+== Liên kết ==
+Website chính thức

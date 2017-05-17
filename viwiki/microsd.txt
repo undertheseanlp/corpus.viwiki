@@ -1,0 +1,71 @@
+microSD là một định dạng thẻ nhớ dùng bộ nhớ flash có thể tháo ra được. Nó xuất phát từ SanDisk TransFlash và sử dụng phần lớn trong các điện thoại di động, nhưng cũng có thể dùng trong các thiết bị GPS, máy nghe nhạc bỏ túi, máy chơi game và các thiết bị USB Flash.
+Hiện tại nó là thẻ nhớ thương mại nhỏ nhất trong năm 2008. Với kích thước 15mm × 11mm × 0.7mm (bằng một cái móng tay), bằng một phần tư kích cỡ thẻ SD. Có các đầu chuyển cho phép thẻ microSD dùng trong các thiết bị hỗ trợ SD, miniSD, hoặc thẻ MemoryStick Duo, tuy vậy nhưng chúng không tương thích hoàn toàn.
+TransFlash và microSD là như nhau (mỗi cái có thể sử dụng trong các thiết bị hỗ trợ cái kia), ngoại trừ microSD hỗ trợ SDIO, cho phép sử dụng các thiết bị không là thẻ nhớ như Bluetooth, GPS, và Near Field Communication devices.
+Vào tháng 3 năm 2008, microSD có dung lượng từ 64MB đến 8GB. SanDisk đang làm việc cho phiên bản 16GB, được mong chờ trong hè 2008. Các thẻ 4GB và lớn hơn chỉ có mặt ở các thẻ SDHC.
+Vào năm 2014,SanDisk chính thức cho ra mắt thẻ nhớ microSDXC UHS-1 128GB và đây là thẻ nhớ có dung lượng cao nhất tính đến thời điểm hiện tại, đạt tốc độ truyền tải 104MB/s, thiết kế bằng kĩ thuật độc quyền với 16 chip để nhớ, chồng lên nhau theo chiều dọc.
+
+
+== Nhà sản xuất hỗ trợ ==
+Định dạng microSD hỗ trợ phần lớn bởi các nhà sản xuất điện thoại di động, đi đầu là Motorola. Garmin sản xuất bộ nhận tín hiệu GPS trên thẻ microSD.
+
+
+=== Các thiết bị ===
+Archos: 605 WiFi (phiên bản flash 4GB), 405
+Alcatel: OT-E801, OT-C717 Black Soft Touch
+BenQ-Siemens: EF61, E71, EF81, EL71, S82, SFG75, S88, CL71
+BlackBerry: 8100, 8120, 8130 (Pearl), 8300 (Curve), 8310, 8320, 8800, 8820, 8830 (World Edition)
+E-TEN: glofiish X500, glofiish X500+, glofiish M700, glofiish X800
+FIC: Neo 1973T
+Garmin hand-held GPS: Edge 605, 705, eTrex Vista Cx/HCx, Legend Cx/HCx, Venture Cx/HCx, GPSMAP 60Cx, 60Csx, 76Cx, 76Csx, StreetPilot i2, i3, etc.
+HTC: Hermes (TyTN) (có các tên khác như: O2 XDA trion, T-Mobile MDA Vario II, Vodafone 1605 VPA Compact III, Vodafone 1210, Orange SPV M3100, Orange SPV E650, Dopod CHT 9000, Dopod 838 Pro, hTc Z, Qtek 9600, i-mate JasJam, Cingular 8525, Swissom XPA v1605, SoftBank X01HT, UTStarcom 6800), Monet (also badged as Virgin Lobster 700TV), HTC P3300 (hay O2 XDA Orbit, T-Mobile MDA Compact III), HTC StrTrk, Cingular 3100, Cingular 3125, HTC MTeoR, P4350 (Herald), TyTN II (Kaiser), S710 (hay: HTC Vox, Orange SPV E650, Vodafone v1415) HTC Touch Cruise
+i-mate: Smartflip, JasJam
+JVC: GZ-HD5, GZ-HD6
+Kyocera: KX55XO, Slider Sonic, Slider Remix
+LG Electronics: LG UX-260 {RUMOR} AX8600, LG Shine CU720, KU250, KU311, U8360, U8380, U8500, U880, VX8300, Chocolate (VX8500), LG Chocolate (VX8550), Chocolate (VX8600), VX8700, LG Venus (VX8800), VX9400, VX9900 (enV), VX10000 (Voyager), LX550 (Fusic), LX570 (Muziq),CE500, CU320, CU500/TU500, LG Trax (CU575, L600v, Prada Phone KE850, Viewty KU990
+Motorola: V360, E398, V635, V710, A780, E815, A840, E770, E815, E895, C975, V975, C980, V980, A1000, A1200, M1000,Maxx Ve E1000, V1000, ROKR, V1050, V1150, SLVR L7, Motorola L7e, E1060, E1120, RAZR (V3i, V3m, V3r, V3t, V3x, V3xx, V6), i870, i880, i876, i876w, i885, i580, A1200, KRZR (K1, K1m, K3), Z3, Z6, Z8, L7, Moto Q9h, Q9c
+NEC: N908
+Thiết bị lưu trữ cho Nintendo DS (vd M3 Simply)
+Nokia: 2100, 2130, 3109c, 3110c, 3250, 3500c, 5200, 5300, 5310, 5500, 5610, 5700, 6085, 6110 Navigator, 6120/6121 Classic, 6125, 6131/6126/6133, 6151, 6233, 6234, 6265i, 6275i, 6300, 6301, 6500 Slide, 6288, 6555, 7373, 7390, E50, E51, E61i, E65, E90, N73, N75, N76, N78 N81, N82, N95, N96, N97
+O2: O2 Ice, O2 Cocoon, Xda Orbit, Xda Exec, Xda Mini S, Xda Trion, Xda Stellar
+Orange: Berlin
+Palm: Centro
+Patriot: PC133
+Pantech: Duo 810C
+Pioneer: AVIC-S1 Mobile Navigation System
+Sagem: My V-76, My X 6-2, My501C, My401C, My411X, My511x
+Samsung: SGH-D600, SGH-D807, SGH-D820, SGH-D900, SGH-D900i, SGH-E210, SGH-E250, SGH-E590, SGH-E900,SGH-F330 SGH-Z230, SGH-ZV40, SGH-Z300, SGH-Z400, SGH-Z500, SGH-Z700, SGH-ZM60, SGH-i300, SGH-i320, SGH-i320N, SGH-i600, SGH-i607, SGH-P850, SGH-D510, SGH-X700, SGH-E870, SGH-E770, SGH-E900, SGH-S500i, SGH-X800, SGH-zx10, SPH-A920/MM-A920, SPH-A940, SPH-M610, SPH-M620 (UpStage), SPH-M500, SCH-A950, SCH-A930, Flipshot, SCH-A990, SCH-i760, SCH-U540, SCH-U550, SCH-U740, SGH-T439, SGH-T809, SGH-T609, SGH-T519, SGH-T629, a9, SGH-U600, SGH-U700, SGH-U900, SGH-A707(SYNC), SGH-E490, SGH-T729 (Blast), SGH-a516
+SanDisk Sansa: e200 series, c200 series, Express, Fuze, View
+Sanyo: SCP-8400, SCP-8500 (Katana DLX)
+Song: Song DIC 338/A138
+Sony Ericsson: K850 (M2/microSD combo slot), XPERIA X1
+T-Mobile: Dash (Smartphone), Wing (Smartphone), Sidekick 3
+Vodafone: Vodafone 1210, Vodafone 716, Vodafone 810
+Các thiết bị Navman GPS sử dụng thẻ microSD để lưu trữ bản đồ.
+Phần lớn các thiết bị hỗ trợ SD/miniSD có thể hỗ trợ thẻ microSD bằng cách sử dụng đầu chuyển (thường bán kèm với thẻ microSD), nhưng không hỗ trợ chung cho tất cả. SanDisk đã có một danh sách các điện thoại hỗ trợ thẻ nhớ [1] (in PDF format). This gives the type of the memory card slot and lists the support for still-image cameras, video capture and music.
+Máy nghe nhạc MP3 SanDisks e200 hỗ trợ cắm thẻ microSD, cho phép nâng tổng dung lượng lưu trữ lên 2GB. [2]
+Các máy nghe nhạc MP3 RCA Pearl (TH1100, TH1101 và TH1102) hỗ trợ thẻ microSD để nâng tổng dung lượng lưu trữ. [3]
+
+
+== So sánh ==
+
+
+== Xem thêm ==
+So sánh các loại thẻ nhớ
+Thẻ MiniSD
+Thẻ SD
+
+
+== Dẫn chứng ==
+
+
+== Liên kết ngoài ==
+SanDisk microSD and microSDHC Product Page
+Micro-SD Card Information
+Apacer microSD Product Page
+SimpleTech microSD Product Page
+Kingmax Digital microSD Product Page
+SD Card Association
+PhysOrg article about SanDisk's 512 MB microSD card release
+microSD pictures and descriptions
+Micro SD Explained
+Bản mẫu:Thẻ nhớ

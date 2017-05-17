@@ -1,0 +1,113 @@
+Windows Live Messenger (WLM), hay vẫn được gọi bằng tên trước đây của nó MSN Messenger (gọi tắt là MSN), là một trình nhắn tin nhanh dành cho Windows XP, Windows Server 2003, Windows Vista, và Windows Mobile, phát hành lần đầu vào 13 tháng 12 năm 2005 bởi Microsoft. Nó là một bộ phận của nhóm các dịch vụ trực tuyến Windows Live của Microsoft. Phiên bản hiện tại là Windows Live Messenger 8.1, được phát hành vào 29 tháng 1 năm 2007. Phiên bản 8.5 Beta đã được phát hành vào 31 tháng 5 năm 2007.
+"MSN Messenger" (hay chỉ là "MSN") thường được dùng để chỉ Microsoft Network (những giao thức và máy chủ giúp hệ thống vận hành), mà để chỉ chương trình cụ thể nào cả. Các công ty có thể tích hợp Live Communication Server và Active Directory với mạng nhờ vào chương trình trên máy. Phần lớn các máy loại đa giao thức có thể kết nối đến dịch vụ.
+
+
+== Các tính năng mới của Windows Live Messenger ==
+So với các tính năng đã có của MSN Messenger, Windows Live Messenger vượt trội hơn ở những tính năng sau:
+
+
+=== Chia sẻ thư mục ===
+Tính năng Sharing Folder (Chia sẻ thư mục) của Windows Live Messenger là một tính năng thay thế cho phương pháp phân phối tập tin "truyền trực tiếp". Khi một người dùng muốn gửi một tập tin cho người dùng khác trong sổ địa chỉ, cửa sổ "sharing folder" xuất hiện, và trình bày tất cả các tập tin đã chia sẻ trước đây.
+Khi tập tin được thêm vào "sharing folder" dành cho một người cụ thể đó, tập tin sẽ được tự động truyền tới máy tính tương ứng khi họ online. Điều này có nghĩa là thư mục gọi là "được chia sẻ" giữa hai máy tính. Nếu một người xóa một tập tin, tập tin đó cũng sẽ bị xóa khỏi thư mục được chia sẻ của máy tính tương ứng.
+Để tối thiểu nguy cơ nhiễm virus khi truyền, tính năng "sharing folder" được gắn kèm một chương trình diệt virus. Tính năng "sharing folder" chỉ có thể dùng được trên máy tính có ổ cứng được định dạng theo NTFS.
+
+
+=== Cuộc gọi từ PC tới điện thoại ===
+
+Ngoài tính năng PC-tới-PC đã được hỗ trợ trong các phiên bản khác, Windows Live Messenger nay đã hỗ trợ cuộc gọi PC-tới-điện thoại với Windows Live Call. Ở Mỹ, tính năng này được hỗ trợ bởi Verizon, với thương hiệu "Verizon Web Calling". Tính năng này chỉ có ở một số nước, gồm có Hoa Kỳ, Anh, Pháp, Đức, Hà Lan, Áo, Ireland, Phần Lan, Bỉ, Tây Ban Nha và Ý.
+
+
+=== Tin nhắn Offline (ngoại tuyến) ===
+Không giống các phiên bản trước, giờ đây người dùng có thể bắt đầu cuộc nói chuyện ngay cả khi trạng thái của người đó được đặt là "Xuất hiện offline", giống như Yahoo! Messenger. Nếu bạn đang nói chuyện với một ai đó đang dùng chương trình MSN Messenger cũ, họ sẽ mất đi khả năng nói chuyện với bạn sau một khoảng thời gian ngắn không hoạt động, do chương trình của họ cho rằng bạn đã offline. Vì hiện nay Windows Live Messenger đã có phiên bản cho điện thoại di động, một trào lưu mới gửi tin nhắn qua Windows Live Messenger như một cách để có các tin nhắn chữ SMS miễn phí đang xuất hiện.
+
+
+=== Trò chơi và ứng dụng ===
+
+Có nhiều trò chơi và ứng dụng có sẵn trên Windows Live Messenger và có thể truy cập bằng cách nhấn vào biểu tượng trò chơi và thách thức "người bạn" của mình.
+
+
+=== Khởi đầu i’m ===
+Khởi đầu i’m là một chương trình mới của Microsoft ra đời vào tháng 5 năm 2007, kết nối người dùng với chín tổ chức hoạt động xã hội thông qua Windows Live Messenger. Mỗi khi người dùng có một cuộc hội thoại sử dụng i’m, Hãng Microsoft sẽ chia sẻ một phần doanh thu quảng cáo của chương trình cho tổ chức mà người dùng chọn. Không có mức trần cho số tiền quyên tặng cho mỗi tổ chức. Càng nhiều cuộc đàm thoại i’m; càng có nhiều tiền được hiến tặng cho một trong chín tổ chức đó. Mỗi tổ chức tham dự được đảm bảo một khoảng quyên góp tối thiểu là $100.000 trong năm đầu tiên của chương trình. Hiện chưa có thời gian kết thúc của chương trình. Khởi đầu i’m chỉ hoạt động với phiên bản Windows Live Messenger mới nhất 8.1 và 8.5 beta. Chương trình tồn tại ở 50 bang và thủ đô của Hoa Kỳ.
+
+
+=== Xbox 360 ===
+Bản hỗ trợ Windows Live Messenger cho Xbox 360 đã được phát hành trong danh sách Mùa xuân 2007 vào ngày 9 tháng 5 năm 2007. Nó có tên không chính thức là Windows Live Messenger 360.
+Những ai đang dùng Windows Live Messenger có thể nhìn thấy Gamertags của người bạn đăng nhập vào Xbox Live, bao gồm cả trò chơi mà họ đang chơi. Người dùng Xbox 360 có thể chat khi đang chơi (hoặc khi đang xem phim). Mặc dù chỉ hỗ trợ ký tự, Microsoft đã nói rằng âm thanh và video sẽ được hỗ trợ trong các bản cập nhật tới.
+Cũng để thích hợp với việc phát hành bản tích hợp Windows Live Messenger với Xbox Live, Microsoft đã tiết độ một bộ adaptor bàn phím mới gọi là Xbox 360 Chatpad để dễ nhập ký tự. Thiết bị bàn phím nối với tay cầm điều khiển Xbox 360 chuẩn thông qua đường tai nghe và cung cấp một bàn phím kiểu QWERTY với 47 phím. Vẫn có thể sử dụng các bàn phím USB khác cho Xbox 360.
+Đối với những người dùng có "tài khoản trẻ nhỏ" (tài khoản được dùng cho trẻ em dưới 18 tuổi), tính năng Windows Live Messenger sẽ bị tắt. Hiện nay không có cách nào tránh khỏi chuyện này do hệ thống Xbox 360 Gamertag hiện không thể thay đổi hay cập nhật khi người dùng muốn đổi ID hay đến tuổi trưởng thành. Một giải pháp đang được lên kế hoạch cho bản cập nhật Xbox 360 Hè 2007.
+
+
+=== Những thay đổi khác ===
+
+Trạng thái "On the phone" (Bận nghe điện thoại) trong phiên bản trước đã được đổi tên thành "In a call" do việc thêm Windows Live Call vào.
+Tên thân mật của các liên lạc cá nhân có thể được tinh chỉnh xuất hiện khác đi so với liên lạc đó đã thiết lập.
+Tin nhắn từ những liên lạc nay đã có thể được gán thời điểm.
+Windows Live Messenger có khả năng tắt tên liên lạc nếu cùng một người viết nhiều tin nhắn. Nếu điều đó xảy ra, tên liên lạc sẽ chỉ xuất hiện một lần ở tin nhắn đầu tiên. Tuy nhiên, nếu tin nhắn được gán thời điểm, và thời gian thay đổi, tên của liên lạc sẽ xuất hiện cùng với thời gian mới.
+Bảng chọn màu có thể được điều chỉnh cho cả chương trình, bao gồm cửa sổ trạng thái, mà không chỉ cửa sổ hội thoại. Một trình đơn cọ vẽ được đặt bên dưới hộp tin nhắn cá nhân trong Windows Live Messenger, để cho phép lựa chọn màu sắc.
+Microsoft Passport đã được thay thế bằng Windows Live ID.
+Tìm kiếm Word wheel với danh sách liên lạc.
+Trong version 8.1, hình ảnh và tin nhắn cá nhân của một người được lưu trữ trên máy chủ, do đó một người có thể đăng nhập ở bất cứ đâu, hình ảnh và tin nhắn sẽ vẫn xuất hiện. Tuy nhiên, tất cả các máy tính phải có tối thiểu là phiên bản 8.1 để tính năng này hoạt động.
+
+
+== Giao thức ==
+Windows Live Messenger sử dụng Microsoft Notification Protocol (MSNP - Giao thức Thông báo Microsoft) thông qua TCP (và được tùy chọn thông qua HTTP để đối phó với proxy) kết nối vào.NET Messenger Service—một dịch vụ cung cấp thông qua cổng 1863 của messenger.hotmail.com. Phiên bản hiện nay là 15 (MSNP15), được dùng bởi Windows Live Messenger và những chương trình khác của hãng thứ 3. MSNP15 giới thiệu một cơ chế xác nhận khác hẳn. Giao thức không hoàn toàn bí mật; Microsoft đã tiết lộ phiên bản 2 (MSNP2) cho các nhà phát triển vào năm 1999 trong một Bản nháp Internet, nhưng chưa bao giờ công bố các phiên bản từ 8 trở đi, nên cú pháp những lệnh mới từ phiên bản 8 đến 14 chỉ được biết khi sử dụng trình phân tích gói dữ liệu như Wireshark.
+
+
+== Cạnh tranh ==
+Những đối thủ đáng gờm nhất của Windows Live Messenger là AIM và ICQ (cả hai đều của AOL), Yahoo! Messenger, Skype, Pidgin (trước đây là Gaim) và chương trình dựa trên Jabbers trong đó có Google Talk.
+Ở Trung Quốc, một chương trình tin nhắn nhanh có tên QQ được vùng vượt trội. Mặc dù được sử dụng ít bên ngoài Trung Quốc, số lượng người dùng nội địa có khoảng 226 triệu người. Tuy nhiên, sự phổ biến của nó đang dần yếu đi, vì sự xâm nhập vào thị trường Trung Quốc của MSN Messenger. Đến nay, MSN Messenger đã chiếm 17 phần trăm thị trường Trung Quốc.
+
+
+== Các trình bổ sung của hãng thứ ba ==
+Vài trình bổ sung thú vị hiện có để tinh chỉnh Windows Live Messenger, cho phép tính năng ẩn, hoặc mở rộng độ tương thích:
+A-Patch (trang web)
+Messenger Plus! Live (trang web)
+WLM OSD Plugin — Hiển trị trên màn hình (trang web)
+StuffPlug (trang web)
+Mess Patch (trang web)
+
+
+== phiên bản ==
+
+
+=== MSN Messenger ===
+
+Trước khi sản phẩm được đổi tên thành Windows Live Messenger, nó được đặt tên là "MSN Messenger" từ 1999 để 2006. Trong thời gian đó, Microsoft phát hành bảy phiên bản chính như sau. Phiên bản đầu tiên của MSN Messenger Service, phiên bản 1.0 (1.0.0863), được phát hành ngày 22 Tháng Bảy 1999. Nó bao gồm các tính năng cơ bản, chẳng hạn như tin nhắn văn bản đơn giản và liên hệ với một danh sách đơn giản. Khi lần đầu tiên được phát hành, nó tính năng hỗ trợ truy cập vào mạng AIM của America Online. Mỹ trực tuyến liên tục cố gắng để ngăn chặn Microsoft có quyền truy cập vào dịch vụ của họ cho đến khi cuối cùng các tính năng đã được gỡ bỏ, và nó đã không có bề mặt trong bất kỳ phiên bản sau của phần mềm. AOL đã làm điều này bằng cách khai thác một lỗi tràn bộ đệm trong AIM, làm cho nó thực hiện một bit của mã máy được gửi bởi máy chủ. Khi mã này chạy, nó quyết định nếu khách hàng là AIM và gửi tin nhắn lại để xác minh khách hàng. Kể từ đó, các phần mềm đã chỉ được phép kết nối với các dịch vụ riêng của mình, đòi hỏi phải có một tài khoản Windows Live ID (NET Passport tại thời điểm đó) để kết nối. Microsoft phát hành bản cập nhật lớn đầu tiên, phiên bản 2.0 (2.0.0083), ngày 16 tháng 11 năm 1999. Nó bao gồm một biểu ngữ quảng cáo luân phiên và khả năng để tùy chỉnh sự xuất hiện của cửa sổ chat. Nó đến như là một tùy chọn cài đặt cho Windows Me. Phiên bản này được làm theo các năm tiếp theo của phiên bản 3.0 (3.0.0080), được phát hành ngày 29 tháng năm 2000. Nó bao gồm chuyển file và từ PC đến PC và PC-to-phone khả năng âm thanh với Net2Phone, một trong các nhà cung cấp chưa cấp phát chính thức đầu tiên. Cùng với việc phát hành của Windows XP đến phiên bản 4.6 của MSN Messenger, vào ngày 23 tháng 10 năm 2001. Nó bao gồm những thay đổi lớn về giao diện người dùng, khả năng nhóm liên lạc, hỗ trợ cho các cuộc hội thoại bằng giọng nói. Trong phiên bản này, phần mềm máy khách được đổi tên từ "Dịch vụ MSN Messenger" để chỉ "MSN Messenger", trong khi các dịch vụ cơ bản đã được gọi là "NET Messenger Service". Phiên bản này chỉ tương thích với Windows 95, 98, Windows ME, NT 4.0, Windows 2000, bởi vì Microsoft đã cung cấp một chương trình thu nhỏ mới cho Windows XP, được gọi là Windows Messenger, nó ban đầu được dự định để thay thế MSN Messenger với trên Windows XP. Đó là chiến lược thay đổi khi phiên bản 5.0 của MSN Messenger được phát hành vào ngày 24 tháng 10 năm 2002. Đây là phiên bản đầu tiên đã được cho phép được cài đặt cùng với Windows Messenger trên Windows XP. Nó bao gồm UPnP (Universal Plug and Play) dựa trên chuyển file, thay đổi nhỏ để các tác phẩm nghệ thuật giao diện người dùng, và một giao diện Windows Media Player plug-in. Các năm tiếp theo, phiên bản 6.0 của MSN Messenger đã được phát hành ngày 17 tháng 7 năm 2003. MSN Messenger 6.0 là một đại tu lớn của toàn bộ nền tảng, nâng cấp giao diện đơn giản dựa trên văn bản bao gồm các yếu tố tùy biến như biểu tượng cảm xúc, avatar cá nhân, và nguồn gốc. Một bản cập nhật, phiên bản 6.1, tập trung vào cải tiến cho cửa sổ hội thoại, cho phép người sử dụng để ẩn khung cửa sổ và thanh menu, và cũng có khả năng thay đổi màu sắc chủ đề. Màu sắc chủ đề có thể được thiết lập khác nhau cho mỗi người dùng. Một cập nhật, phiên bản 6.2, được phát hành ngày 22 Tháng Tư năm 2004, và nó là phiên bản cuối cùng của loạt MSN 6 Messenger. Những thay đổi đáng chú ý nhất là một nhóm điện thoại di động chuyên dụng cho các số liên lạc điện thoại di động, gỡ rối kết nối, và các tính năng khởi động trang web đã được đổi tên thành Fun & Games. MSN Messenger nhận được một nâng cấp lớn cho phiên bản 7.0 vào ngày 07 Tháng Tư năm 2005. Phiên bản này mang lại nháy mắt tính năng mà trước đây chỉ có sẵn trong threedegrees. Phiên bản này cũng được quảng cáo mặt hàng để bán cho bạn bao gồm cả hình ảnh hiển thị sống động, biểu tượng cảm xúc và hình nền. Phong cách cửa sổ danh sách liên lạc cũng được cập nhật để phù hợp với các cửa sổ tin nhắn tức thời. Phiên bản này cũng giới thiệu các tính năng Xbox tích hợp Live. Đây là phiên bản mới nhất của MSN Messenger chạy trên Windows 98 và Windows Me. Phiên bản này cũng giới thiệu mực kỹ thuật số và hỗ trợ nhận dạng chữ viết tay. Phiên bản mới nhất của MSN Messenger trước khi thay đổi tên, phiên bản 7.5, được phát hành ngày 23 tháng 8 năm 2005. Các tính năng mới bao gồm các tính năng hình nền động và xử lý giao thức "msnim", cho phép các trang web để cung cấp các liên kết tự động thêm một số liên lạc hoặc bắt đầu cuộc hội thoại. Ngoài ra, một clip thoại tính năng mới cho phép người dùng giữ phím F2 và ghi lại tin nhắn cho tối đa là 15 giây và gửi nó đến người nhận. Cửa sổ cho cuộc hội thoại đã được thay đổi một chút với một nút video được thêm vào. Phiên bản này cũng giới thiệu trình cài đặt Windows cho tính năng tự động cập nhật của nó. MSN Messenger phiên bản 7.5 vẫn có thể được chạy bằng cách thay đổi các thiết lập tương thích với Windows 2000.
+
+
+=== Windows Live Messenger 8.0 ===
+
+Là một phần của nỗ lực Microsoft Live Windows, đổi tên nhiều dịch vụ và các chương trình hiện có MSN, MSN Messenger đã được đổi tên thành "Windows Live Messenger" bắt đầu với phiên bản 8.0. Các phiên bản beta đầu tiên mới được đổi tên thành Windows Live Messenger, Beta 1, đã được phát hành vào ngày 13 tháng 12 năm 2005. Thay đổi và bổ sung chủ yếu bao gồm tin nhắn offline, một tùy chọn để thay đổi chủ đề màu sắc của các cửa sổ, tách gửi và hộp tìm kiếm, bánh xe từ một hộp tìm kiếm trong cửa sổ chính, và các chi tiết bổ sung cho các địa chỉ liên lạc khi lơ lửng trên tên của họ trong cửa sổ danh sách liên lạc. Các phiên bản beta thứ hai của version 8.0, Beta 2, được phát hành vào ngày 26 Tháng Hai năm 2006. Chủ đề chung của phiên bản này đã được cải thiện, sửa chữa và cải thiện một số nơi nhỏ hơn trong chương trình. Thay đổi và bổ sung chủ yếu bao gồm việc giới thiệu Windows Live Contacts, tái áp chuyển tập tin duy nhất, cải thiện "Thêm Liên hệ" hộp thoại, chủ đề màu sắc được cải thiện, thay đổi nhỏ trong cửa sổ hội thoại, và quay trở lại của biểu tượng trạng thái "Bận" sao để biểu tượng dấu gạch ngang bình thường. Phiên bản beta cuối cùng, Beta 3, được phát hành vào ngày 02 tháng 5 năm 2006. Thay đổi và bổ sung chủ yếu bao gồm các biểu tượng mới cho chương trình, gọi điện thoại PC-to-phone, nhìn một cập nhật cho cửa sổ Windows Gọi sống, hình ảnh hiển thị mặc định mới, Hôm nay Windows Live, cải tiến các nhóm tin nhắn liên tiếp từ mỗi liên lạc, Rhapsody hội nhập ở Mỹ, và một tùy chọn cho âm thanh được chỉnh sửa và / hoặc tắt. Phát hành chính thức của Windows Live Messenger phiên bản 8.0 vào ngày 19 tháng 6 năm 2006. Mặc dù không có thay đổi đáng chú ý đã được thực hiện giữa Beta 3 và phiên bản cuối cùng, các thay đổi từ MSN Messenger Windows Live Messenger đưa thêm một số thay đổi, chẳng hạn như tùy biến cho các biệt danh liên lạc cá nhân, timestamps về tin nhắn, khả năng nhìn thấy tên của số liên lạc chỉ một lần nếu cùng một người viết nhiều tin nhắn trong một hàng, và phối màu cho toàn bộ ứng dụng. Hệ thống xác thực chính, Microsoft Passport Network, được thay thế bằng Windows Live ID cùng một lúc. Một làm mới phiên bản 8.0 được phát hành vào ngày 10 tháng 8 năm 2006. Nó bao gồm âm thanh và video cải tiến và sửa lỗi nhỏ.
+
+
+=== Windows Live Messenger 8.1 ===
+
+Phiên bản cuối cùng của 8.1
+Phát hành vào 29 tháng 1 2007. Không có những sự thay đổi thực sự so với bản Beta 1 refresh.
+Windows Live Messenger 8.5
+
+Beta 1
+Vào 27 tháng 5 năm 2007, LiveSide báo cáo một bản Windows Live Messenger bị lộ ra, bằng tiếng Tây Ban Nha. Bản beta tiếng Anh sau đó được phát hành vào 31 tháng 5 năm 2007 cho Hoa Kỳ, Anh, Ấn Độ, Pháp, Nhật Bản, Đức, Trung Quốc và Tây Ban Nha. Phiên bản cập nhật phát hành vào 21 tháng 6 năm 2007, để kiểm tra các nâng cấp đã được cài bằng Microsoft Update.
+
+
+== Xem thêm ==
+So sánh các chương trình tin nhắn nhanh
+Microsoft Messenger cho Mac
+Windows Live Call
+
+
+=== Các chương trình khác ===
+Adium (Mac OS X)
+Meetro (Mac OS X & Windows)
+Pidgin (Formerly Gaim) (nhiều platform)
+Miranda IM
+Naim (dòng lệnh)
+Trillian (Windows)
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Inside Windows Live Messenger — Windows Live Messenger Blog
+MSN Messenger for other devices — Pocket PC, Pocket PC Phone Edition and Smartphone versions.

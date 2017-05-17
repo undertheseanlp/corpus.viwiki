@@ -1,0 +1,722 @@
+Phân số là sự biểu diễn số hữu tỉ dưới dạng tỉ lệ của hai số nguyên, trong đó số ở trên được gọi là tử số, còn số ở dưới được gọi là mẫu số. Điều kiện bắt buộc là mẫu số phải khác 0.
+
+Với tử số là a và mẫu số là b, b khác 0, a,b là số nguyên. Phân số còn được hiểu là một dạng số được dùng để biểu thị tỉ lệ của một đại lượng này so sánh với một đại lượng khác. Ví dụ như:
+Một nửa cái bánh có thể biểu thị bằng phân số:
+
+  
+    
+      
+        
+          
+            1
+            2
+          
+        
+        =
+        0
+        ,
+        5
+      
+    
+    {\displaystyle {\frac {1}{2}}=0,5}
+  
+
+Một phần ba cái bánh có thể biểu thị bằng phân số:
+
+  
+    
+      
+        
+          
+            1
+            3
+          
+        
+        =
+        0
+        ,
+        33333...
+      
+    
+    {\displaystyle {\frac {1}{3}}=0,33333...}
+  
+
+Một phần tư bánh có thể biểu thị bằng phân số:
+
+  
+    
+      
+        
+          
+            1
+            4
+          
+        
+        =
+        0
+        ,
+        25
+      
+    
+    {\displaystyle {\frac {1}{4}}=0,25}
+  
+
+Trọn một cái bánh có thể biểu thị bằng phân số:
+
+  
+    
+      
+        
+          
+            4
+            4
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle {\frac {4}{4}}=1}
+  
+
+
+== Phân số và phép chia số tự nhiên ==
+Một phép chia có thể viết ra được là phân số: có tử số là số bị chia, mẫu số là số chia. Ví dụ:
+
+  
+    
+      
+        a
+        :
+        b
+        =
+        
+          
+            a
+            b
+          
+        
+      
+    
+    {\displaystyle a:b={\frac {a}{b}}}
+  
+
+
+== Tính chất ==
+
+  
+    
+      
+        
+          
+            1
+            a
+          
+        
+        =
+        
+          a
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{a}}=a^{-1}}
+  
+
+  
+    
+      
+        
+          
+            a
+            a
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle {\frac {a}{a}}=1}
+  
+
+  
+    
+      
+        
+          
+            a
+            1
+          
+        
+        =
+        a
+      
+    
+    {\displaystyle {\frac {a}{1}}=a}
+  
+
+
+== Phân số tối giản ==
+
+Phân số tối giản là phân số mà có tử số và mẫu số không thể cùng chia hết cho số nào ngoại trừ số 1 (hoặc -1 nếu lấy các số âm). Nói cách khác phân số a/b là tối giản nếu a và b là nguyên tố cùng nhau, nghĩa là a và b có ước số chung lớn nhất là 1.
+Một phân số chưa tối giản có thể chuyển về dạng tối giản bằng cách chia tử số và mẫu số của phân số cho ước số chung lớn nhất của chúng. Có thể dùng thuật toán Euclid hoặc tách số thành các thừa số nguyên tố để tìm ước số chung lớn nhất trên.
+
+
+== So sánh hai phân số ==
+
+
+=== Khác tử và mẫu ===
+Nếu có hai phân số 
+  
+    
+      
+        
+          
+            a
+            b
+          
+        
+      
+    
+    {\displaystyle {\frac {a}{b}}}
+   và 
+  
+    
+      
+        
+          
+            c
+            d
+          
+        
+      
+    
+    {\displaystyle {\frac {c}{d}}}
+  
+
+  
+    
+      
+        
+          
+            a
+            b
+          
+        
+        =
+        
+          
+            c
+            d
+          
+        
+      
+    
+    {\displaystyle {\frac {a}{b}}={\frac {c}{d}}}
+   khi 
+  
+    
+      
+        a
+        ×
+        d
+        =
+        b
+        ×
+        c
+      
+    
+    {\displaystyle a\times d=b\times c}
+  
+
+
+=== Cùng mẫu ===
+Nếu có hai phân số 
+  
+    
+      
+        
+          
+            a
+            b
+          
+        
+      
+    
+    {\displaystyle {\frac {a}{b}}}
+   và 
+  
+    
+      
+        
+          
+            c
+            b
+          
+        
+      
+    
+    {\displaystyle {\frac {c}{b}}}
+  
+
+  
+    
+      
+        
+          
+            a
+            b
+          
+        
+        <
+        
+          
+            c
+            b
+          
+        
+      
+    
+    {\displaystyle {\frac {a}{b}}<{\frac {c}{b}}}
+   khi a<c.
+Nếu tử số nhỏ hơn thì giá trị nhỏ hơn.
+
+
+=== Cùng tử ===
+Nếu có hai phân số 
+  
+    
+      
+        
+          
+            a
+            b
+          
+        
+      
+    
+    {\displaystyle {\frac {a}{b}}}
+   và 
+  
+    
+      
+        
+          
+            a
+            c
+          
+        
+      
+    
+    {\displaystyle {\frac {a}{c}}}
+  
+
+  
+    
+      
+        
+          
+            a
+            c
+          
+        
+        <
+        
+          
+            a
+            b
+          
+        
+      
+    
+    {\displaystyle {\frac {a}{c}}<{\frac {a}{b}}}
+   khi b<c.
+Nếu mẫu số lớn hơn thì giá trị nhỏ hơn
+
+
+=== Tổng hợp toàn bộ ===
+
+
+== Phép toán hai phân số ==
+
+
+=== Phép cộng ===
+Muốn cộng hai phân số có cùng mẫu, ta chỉ việc cộng tử số với nhau và để nguyên mẫu số.
+Muốn cộng hai phân số khác mẫu số, ta quy đồng mẫu số rồi cộng bình thường. Ví dụ:
+
+  
+    
+      
+        
+          
+            a
+            b
+          
+        
+        +
+        
+          
+            c
+            d
+          
+        
+        =
+        
+          
+            
+              a
+              d
+              +
+              b
+              c
+            
+            
+              b
+              d
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {a}{b}}+{\frac {c}{d}}={\frac {ad+bc}{bd}}}
+  
+
+
+=== Phép trừ ===
+Muốn trừ hai phân số có cùng mẫu, ta chỉ việc trừ tử số với nhau và để nguyên mẫu số.
+Muốn trừ hai phân số khác mẫu số, ta quy đồng mẫu số rồi trừ bình thường. Ví dụ:
+
+  
+    
+      
+        
+          
+            a
+            b
+          
+        
+        −
+        
+          
+            c
+            d
+          
+        
+        =
+        
+          
+            
+              a
+              d
+              −
+              b
+              c
+            
+            
+              b
+              d
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {a}{b}}-{\frac {c}{d}}={\frac {ad-bc}{bd}}}
+  
+
+
+=== Phép nhân ===
+Chỉ nhớ kiến thức: Muốn nhân hai phân số, ta chỉ cần nhân tử số với tử số, mẫu số với mẫu số. Ví dụ:
+
+  
+    
+      
+        
+          
+            a
+            b
+          
+        
+        ×
+        
+          
+            c
+            d
+          
+        
+        =
+        
+          
+            
+              a
+              c
+            
+            
+              b
+              d
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {a}{b}}\times {\frac {c}{d}}={\frac {ac}{bd}}}
+  
+
+
+=== Phép chia ===
+- Muốn chia hai phân số, ta lấy phân số thứ nhất nhân với phân số thứ hai đảo ngược. Ví dụ:
+
+  
+    
+      
+        
+          
+            a
+            b
+          
+        
+        :
+        
+          
+            c
+            d
+          
+        
+        =
+        
+          
+            a
+            b
+          
+        
+        ×
+        
+          
+            d
+            c
+          
+        
+        =
+        
+          
+            
+              a
+              d
+            
+            
+              b
+              c
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {a}{b}}:{\frac {c}{d}}={\frac {a}{b}}\times {\frac {d}{c}}={\frac {ad}{bc}}}
+  
+
+
+=== Tổng hợp ===
+
+
+== Phân số âm ==
+
+  
+    
+      
+        
+          
+            
+              −
+              a
+            
+            b
+          
+        
+        =
+        
+          
+            a
+            
+              −
+              b
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {-a}{b}}={\frac {a}{-b}}}
+  
+
+  
+    
+      
+        
+          
+            
+              −
+              a
+            
+            
+              −
+              b
+            
+          
+        
+        =
+        
+          
+            a
+            b
+          
+        
+      
+    
+    {\displaystyle {\frac {-a}{-b}}={\frac {a}{b}}}
+  
+
+
+== Biểu diễn thập phân ==
+Phân số thập phân là một phân số có mẫu số là 10n.
+
+  
+    
+      
+        
+          
+            3
+            10
+          
+        
+      
+    
+    {\displaystyle {\frac {3}{10}}}
+  
+
+  
+    
+      
+        
+          
+            5
+            100
+          
+        
+      
+    
+    {\displaystyle {\frac {5}{100}}}
+  
+
+  
+    
+      
+        
+          
+            45
+            
+              1
+              
+                
+                  
+                    000...000
+                    ⏟
+                  
+                
+                
+                  n
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {45}{1\underbrace {000...000} _{n}}}}
+  
+
+
+== Hỗn số ==
+
+Nếu tử lớn hơn mẫu, ta có thể viết bằng hỗn số:
+
+  
+    
+      
+        
+          
+            8
+            5
+          
+        
+        =
+        1
+        
+          
+            3
+            5
+          
+        
+      
+    
+    {\displaystyle {\frac {8}{5}}=1{\frac {3}{5}}}
+  
+Cách đổi ra phân số:
+
+  
+    
+      
+        a
+        
+          
+            b
+            c
+          
+        
+        =
+        
+          
+            
+              a
+              c
+              +
+              b
+            
+            c
+          
+        
+      
+    
+    {\displaystyle a{\frac {b}{c}}={\frac {ac+b}{c}}}
+  
+
+
+== Xem thêm ==
+Số tự nhiên
+Số chẳn
+Số lẻ
+Số nguyên
+Phân số
+Số vô tỷ
+Số hữu tỷ
+Số phức
+Số nguyên Gauss
+Số nguyên Eisenstein
+Số vô tỷ Quadratic
+Căn của đơn vị
+Gaussian period
+Số Pisot-Vijayaraghavan
+Số Salem
+Hỗn số
+Số học
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+“Fraction, arithmetical”. The Online Encyclopaedia of Mathematics. 
+Weisstein, Eric W., "Fraction" từ MathWorld.
+“Fraction”. Encyclopedia Britannica. 
+“Fraction (mathematics)”. Citizendium. 
+“Fraction”. PlanetMath.

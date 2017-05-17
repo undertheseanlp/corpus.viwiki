@@ -1,0 +1,29 @@
+FreeMarker là một hệ bản mẫu web (Web Template System) cho nền tảng Java, mục đích ban đầu dùng để tạo dựng web động với kiến trúc MVC. Tuy vậy, bởi bản chất là một hệ bản mẫu không phụ thuộc vào servlet, HTTP hay HTML, nên FreeMarker thường được sử dụng để tạo dựng mã nguồn, cấu hình tập tin hoặc e-mail. FreeMarker là một phần mềm tự do.
+
+
+== Lược sử ==
+Đến năm 2004, FreeMarker từng có một lịch sử phát triển khá sôi nổi, do các kỳ thay đổi mô hình phát triển và nhiều lần thay đổi đáng kể khác. FreeMarker 1 (hiện nay được biết đến với tên gọi FreeMarker Classic), một dự án riêng biệt, được khởi đầu bởi Benjamin Geer và Mike Bayer.
+Từ năm 2002, Jonathan Revusky lãnh đạo dự án mới FreeMarker 2, bắt đầu một chuỗi với những điều chỉnh tương đối. Lý do chính cho những thay đổi này là để giúp bộ khung chặt chẽ hơn, như việc phát việc và khắc phục các lỗi typo và các lỗi đặc thù khác. Also, automatic object wrapping was introduced, along with gradual advancement of the type system of the template language. Ngôn ngữ này cũng được bổ sung nhiều tính năng người dùng mạnh mẽ, như khả năng lập trình mạnh hơn và áp dụng xử lý khái niệm không gian tên. FreeMarker phát hành phiên bản 2.3 khá ổn định vào qúy 3 năm 2004. Đến năm 2016, sản phẩm này đã có thể đáp ứng tiêu chí tương tích bản cũ (backward compatibility). Trong tương lai, những bản cập nhật mới cho FreeMarker 2 được hứa hẹn sẽ làm giảm khả năng tương thích bản cũ này.
+Cuối năm 2015, FreeMarker được chuyển giao cho Quỹ Phần mềm Apache (Apache Software Foundation), bắt buộc nó phải thỏa mãn các tiêu chí của Apache Incubator (dự án phải được phát triển đầy đủ để được xem như một dự án Apache hoàn chỉnh).
+
+
+== Thí dụ ==
+Với bản mẫu dưới đây:
+
+FreeMarker sẽ dựng thành:
+
+Các biến "name" và "messages" lấy giá trị từ ngoài bản mẫu, nên lập trình viên khi thiết kế bản mẫu chỉ cần quan tâm tới cách thể hiện của bản mẫu mà không cần để ý tới giá trị của biến. Bản mẫu không thay đổi cho dù giá trị biến được truyền từ cơ sở dữ liệu, cookie hay là kết quả của một biểu thức nào đó. API (lớp) Java của các gía trị được ẩn trong FreeMarker thông qua kỹ thuật cuộn đối tượng (object wrapping). Thí dụ, "messages" có thể là một danh sách (list) hoặc mảng (array) những bean Java có thuộc tính (property) "from" và "body", nhưng nó cũng có thể là một kiểu dữ liệu nào đó khác mà bản mẫu vẫn không bị ảnh hưởng (as long as a proper object wrapper is used).
+
+
+== Xem thêm ==
+JSP
+Apache Velocity
+Thymeleaf
+
+
+== Liên kết ngoài ==
+FreeMarker
+Online FreeMarker template tester
+FreeMarker Classic
+FMPP, is a FreeMarker-based text file PreProcessor
+web-mode.el, emacs major mode for editing FreeMarker templates

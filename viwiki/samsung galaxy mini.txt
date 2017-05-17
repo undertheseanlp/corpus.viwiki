@@ -1,0 +1,43 @@
+Samsung Galaxy Mini (GT-S5570[B/L/i]) là điện thoại thông minh sản xuất bởi Samsung chạy hệ điều hành Android. Nó được công bố và phát hành bởi Samsung vào mùa xuân năm 2011. Trên một số thị trường khác nó được gọi là Samsung Galaxy Next/Pop. Nó hiện có sẵn 4 màu; xám thép, trắng, xanh và cam. Các thiết bị tương tự khác bán tại Mỹ là Samsung Dart dành riêng cho T-Mobile. Các phần nút đã được thay đổi để phù hợp với dòng điện thoại Galaxy. Các chức năng FM radio đã được bỏ đi.
+Bản kế thừa Samsung Galaxy Mini 2, đã được phát hành bởi Samsung cải tiến bộ xử lý so với bản gốc.
+
+
+== Tính năng ==
+Galaxy Mini là smartphone 3.5G cung cấp bốn băng tần GSM và được công bố với hai băng tần HSDPA (900/2100 MHz) với 7.2 Mbit/s. Màn hình 3,14 in (80 mm)-đường chéo TFT LCD với độ phân giải QVGA 240×320 pixels hỗ trợ lên đến 256,000 màu.
+Galaxy Mini được giới thiệu như một điện thoại thông minh, và nó (tính đến ngày 13 tháng 5 năm 2011) là một trong những điện thoại Android rẻ nhất thị trường.
+Galaxy Mini ban đầu chạy Android 2.2 Froyo, nhưng tháng 5 năm 2011, Samsung công bố rằng Galaxy Mini (cùng với sản phẩm Galaxy khác) sẽ chính thức nâng cấp lên Android 2.3 Gingerbread. Bản nâng cấp chính thức lên Android 2.3.6 (Gingerbread) được phát hành thông qua Samsung Kies vào 9 tháng 12 năm 2011 đối với một số nhà mạng di động. Galaxy Mini cũng có thể flash một số ROM tuỳ chọn như CyanogenMod phát hành (mặc dù không chính thức hỗ trợ từ Samsung) nơi mà tên mã là tass. Phiên bản chính thức hỗ trợ của CyanogenMod trên Galaxy Mini vào tháng 8 năm 2012 là CyanogenMod 7.2. Nó chạy CyanogenMod 10 nhưng nó không chính thức hỗ trợ do vấn đề ổn định. Nó có thể ép xung lên 800 MHz với SetCPU.
+
+
+=== Các tính năng chính ===
+Chạm 2 ngón (2 ngón tay)
+Hỗ trợ bốn băng thông GSM và hai băng thông 3G
+7.2 Mbit/s HSDPA
+WiFi 802.11 (b/g/n)
+Bluetooth công nghệ v 2.1
+USB 2.0 (Tốc độ cao)
+3,14 in (80 mm) 256K-màu QVGA TFT cảm ứng
+Vi xử lý ARMv6 600 MHz, 384 MB RAM (có sẵn 279 MB RAM)
+Adreno 200 GPU
+Android OS v2.2 (Froyo) với TouchWiz v3.0 UI, nâng cấp lên v2.3.6 (Gingerbread) có sẵn tại một số vùng.
+160 MB bộ nhớ trong, khe cắm MicroSD, bao gồm thẻ 2 GB
+3.15 Mpixel máy ảnh tiêu cự với nhãn địa điểm
+GPS thu với A-GPS
+FM radio với RDS và Radio Text (không có sẵn trên bản "Dart".)
+3.5 mm audio jack
+Chỉnh sửa tài liệu
+Gia tốc và cảm biến tiệm cận
+Swype virtual keyboard
+Cổng MicroUSB (sạc và chuyển dữ liệu) và stereo Bluetooth 2.1
+SNS (Social networking service) integration
+Chỉnh sửa ảnh/Video
+
+
+== Xem thêm ==
+Android
+
+
+== Tham khảo ==
+
+
+== Liên kết ==
+Website chính thức

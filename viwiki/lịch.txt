@@ -1,0 +1,102 @@
+Lịch là một hệ thống để đặt tên cho các chu kỳ thời gian, thông thường là theo các ngày. Các tên gọi này được biết đến như là tên của ngày tháng cụ thể nào đó trong từng loại lịch (ví dụ ngày 19 tháng 2 năm 2005). Các ngày tháng cụ thể có thể dựa trên sự chuyển động thấy được của các thiên thể. Lịch cũng là một thiết bị vật lý (thông thường là trên giấy) để minh họa cho hệ thống (ví dụ- lịch để bàn) – và đây cũng là cách hiểu thông dụng nhất của từ lịch.
+Như là một tập hợp con, 'lịch' được sử dụng để biểu thị danh sách của một tập hợp cụ thể nào đó của các sự kiện đã được lập kế hoạch (ví dụ, lịch xét xử).
+
+
+== Các hệ thống lịch ==
+Các loại lịch được sử dụng hiện nay trên Trái Đất phần lớn là dương lịch, âm lịch, âm dương lịch hay lịch tùy ý.
+Âm lịch được đồng bộ theo chuyển động của Mặt Trăng (các tuần trăng); một ví dụ là lịch Hồi giáo.
+Dương lịch dựa trên thay đổi thấy được theo mùa, được đồng bộ theo chuyển động biểu kiến của Mặt Trời; một ví dụ là lịch Ba Tư.
+Âm dương lịch là lịch được đồng bộ theo cả chuyển động của Mặt Trăng và chuyển động biểu kiến của Mặt Trời; một ví dụ là lịch Do Thái.
+Lịch tùy ý không được đồng bộ theo Mặt Trăng hay Mặt Trời; ví dụ như tuần hay ngày Julius được sử dụng bởi các nhà thiên văn học.
+Đã từng có một vài loại lịch có lẽ được đồng bộ theo chuyển động của Kim Tinh, chẳng hạn như các loại lịch Ai Cập cổ đại; việc đồng bộ theo chuyển động của Kim Tinh chủ yếu diễn ra ở các nền văn minh gần đường xích đạo.
+
+
+=== Dương lịch ===
+
+
+==== Các ngày sử dụng trong dương lịch ====
+Dương lịch gắn mỗi ngày tháng cụ thể cho từng ngày mặt trời. Một ngày có thể là chu kỳ giữa bình minh và hoàng hôn, với chu kỳ kế tiếp là đêm, hoặc nó có thể là chu kỳ của hai sự kiện giống nhau và kế tiếp nhau, chẳng hạn hai hoàng hôn kế tiếp. Độ dài khoảng thời gian kế tiếp nhau của hai sự kiện như vậy có thể cho phép thay đổi chút ít trong suốt cả năm, hoặc nó có thể là trung bình của ngày mặt trời trung bình. Các dạng khác của lịch có thể sử dụng ngày mặt trời.
+
+
+==== Các lịch Julius và Gregory ====
+Dưới thời Cộng hòa La Mã, dương lịch Julius đã được chấp thuận. Số ngày trong tháng của nó là dài hơn so với chu kỳ của Mặt Trăng, vì thế nó không thuận tiện để theo dõi các pha của Mặt Trăng, nhưng nó là đủ tốt để theo dõi thay đổi của các mùa. Mỗi năm trong lịch có 365 ngày, ngoại trừ mỗi năm thứ tư là năm nhuận có 366 ngày. Vì thế năm trung bình của lịch này là 365,25 ngày.
+Không may là năm chí tuyến Trái Đất là nhỏ hơn một chút so với 365,25 ngày (nó xấp xỉ 365,2422 ngày), vì thế lịch này mặc dù chậm nhưng cũng lệch dần với sự đồng bộ theo mùa. Vì lý do này, sau này lịch Gregory đã được chấp thuận bởi phần lớn các quốc gia ở phương Tây, bắt đầu từ năm 1582, và từ đó nó đã trở thành lịch phổ biến và thông dụng nhất trên thế giới. Đáng chú ý là đế chế Nga đã từ chối thay đổi từ lịch Julius sang lịch Gregory cho đến tận cuộc Cách mạng tháng Mười Nga năm 1917, khi những người bôn sê vích đã chuyển sang sử dụng lịch Gregory. Vì thế, ngày tháng trong lịch sử Nga hoặc được ghi cả hai số liệu của hai loại lịch này hoặc được ghi chú rõ là theo lịch nào để tránh nhầm lẫn.
+
+
+==== Cải cách trong tương lai ====
+Có nhiều đề nghị cải cách lịch, chẳng hạn như lịch thế giới hay lịch cố định quốc tế (lịch vĩnh viễn quốc tế). Liên hiệp quốc đã cân nhắc đến việc xem xét các loại lịch cải cách này trong những năm thập niên 1950, nhưng các đề nghị này đã đánh mất phần lớn sự phổ biến của chúng.
+
+
+=== Âm lịch ===
+
+Không phải tất cả các loại lịch đều sử dụng năm mặt trời như là đơn vị tính. Âm lịch là một trong số các loại lịch khác đó mà ngày trong tháng được tính theo các pha trong chu kỳ của Mặt Trăng. Vì độ dài của tháng Mặt Trăng không phải là một phần thập phân hữu tỷ của độ dài năm chí tuyến nên năm âm lịch thuần túy nhanh chóng sai lệch với sự thay đổi mùa. Tuy nhiên nó là bất biến khi xem xét trong tương quan với một số hiện tượng khác, chẳng hạn như thủy triều (con nước). Âm dương lịch là một biến thái của âm lịch nhưng có tính đến sự bù lại cho các sai lệch này bằng cách bổ sung thêm một tháng để có thể điều chỉnh các tháng tương đối phù hợp theo mùa.
+Âm lịch được cho là lịch cổ nhất được phát minh bởi loài người. Những người Cro-Magnon được coi là đã phát minh ra âm lịch vào khoảng 32.000 năm TCN.
+
+
+=== Lịch tài chính ===
+
+Lịch tài chính (chẳng hạn như lịch 5/4/4) cố định mỗi tháng ở một con số cụ thể của tuần để thuận tiện trong so sánh từ tháng qua tháng, từ năm qua năm. Tháng Một luôn luôn có chính xác 5 tuần (từ Chủ Nhật đến thứ Bảy), tháng Hai có 4 tuần, tháng Ba có 4 tuần, v.v. Lưu ý rằng loại lịch này nói chung cần bổ sung tuần thứ 53 cứ sau mỗi 5 đến 6 năm, nó có thể được thêm vào tháng 12 hoặc không, phụ thuộc vào cách thức mà tổ chức sử dụng những ngày này. Có một tiêu chuẩn quốc tế để thực hiện điều này (tuần ISO). Tuần ISO chạy từ thứ Hai đến Chủ Nhật và tuần 1 luôn luôn là tuần chứa ngày 4 tháng 1 của lịch Gregory.
+
+
+== Các phân chia trong lịch ==
+Gần như mọi loại lịch đều nhóm một số các ngày kế tiếp nhau thành "tháng" và các tháng thành "năm". Trong dương lịch, năm xấp xỉ bằng năm chí tuyến Trái Đất (là khoảng thời gian Trái Đất cần để thực hiện đủ một chu kỳ các mùa), thông thường được sử dụng để làm thuận tiện cho việc lập kế hoạch của các hoạt động sản xuất trong nông nghiệp. Trong âm lịch, tháng có độ dài xấp xỉ một chu kỳ của Mặt Trăng.
+Các ngày kế tiếp nhau có thể được nhóm thành các chu kỳ khác, chẳng hạn như tuần.
+Vì số lượng ngày trong năm chí tuyến không phải là một số nguyên, dương lịch phải có số lượng ngày khác nhau tùy theo từng năm. Điều này có thể thực hiện được với năm nhuận. Điều tương tự cũng diễn ra với tháng của âm lịch hay của âm dương lịch. Tất cả những cái này được gọi chung là nhuận.
+Các nền văn hóa có thể định nghĩa các đơn vị thời gian khác, chẳng hạn như tuần hay quý, để phục vụ cho mục đích lập biểu thời gian để điều chỉnh các hoạt động cơ bản mà trong trường hợp đó tháng hay năm không phù hợp cho lắm.
+
+
+== Các loại lịch khác ==
+
+
+=== Lịch hoàn thiện và không hoàn thiện ===
+Lịch có thể là hoàn thiện hay không hoàn thiện. Lịch hoàn thiện là lịch cung cấp cách để đặt tên cho từng ngày kế tiếp nhau, trong khi lịch không hoàn thiện thì không làm được như vậy. Lịch sớm nhất của người La Mã chẳng hạn đã không có cách để gọi ngày trong các tháng mùa đông, ngoài cách gọi cả mớ là "mùa đông", là một ví dụ của lịch không hoàn thiện, trong khi lịch Gregory là một ví dụ của lịch hoàn thiện.
+
+
+=== Lịch thực dụng, lý thuyết và hỗn hợp ===
+Lịch có thể là thực dụng, lý thuyết hay hỗn hợp.
+Lịch thực dụng là lịch dựa trên các quan sát, một ví dụ là lịch tôn giáo của đạo Hồi và lịch tôn giáo của đạo Do Thái trong thời kỳ Thánh Đường. Những loại lịch như thế còn gọi là lịch quan sát hay lịch thiên văn. Ưu điểm: là nó có độ chính xác hoàn hảo và vĩnh cửu. Khuyết điểm: là một ngày tháng cụ thể nào đó diễn ra khi nào rất khó xác định trước.
+Lịch lý thuyết là loại lịch dựa trên một tập hợp các quy tắc chặt chẽ; một ví dụ là lịch Do Thái. Những loại lịch như thế còn gọi là lịch quy tắc hay lịch số học. Ưu điểm: là dễ dàng tìm thấy khi nào diễn ra một ngày cụ thể nào đó. Khuyết điểm: là có độ chính xác không hoàn hảo. Ngoài ra, nếu cố gắng tạo ra lịch chính xác hơn, thì độ chính xác của nó cũng bị sai theo thời gian do sự thay đổi của sự tự quay của Trái Đất. Điều này giới hạn thời gian sống của lịch lý thuyết chỉ trong vài nghìn năm. Sau đó, các quy tắc cần phải được sửa đổi theo các quan sát có từ khi phát minh ra lịch, tạo ra một loại lịch hỗn hợp.
+Lịch hỗn hợp tổ hợp các nét đặc trưng của lịch thực dụng và lịch lý thuyết. Nó thông thường có nguồn gốc là lịch lý thuyết nhưng được điều chỉnh một cách thực dụng khi một số các loại hình bất đồng bộ xuất hiện rõ nét; sự chuyển đổi từ lịch Julius sang lịch Gregory là một ví dụ.
+Lịch Gregory, như là một ví dụ cuối cùng, là một loại dương lịch hoàn thiện và hỗn hợp.
+
+
+== Sử dụng ==
+Sử dụng cơ bản nhất của lịch là để xác định ngày: để có thể thông báo và/hoặc chấp thuận các sự kiện tương lai và ghi chép lại các sự kiện đã xảy ra. Các ngày có thể có ý nghĩa đối với các mùa thông thường, tôn giáo hay xã hội. Ví dụ, lịch cung cấp cách thức để xác định ngày nào là những ngày lễ tôn giáo hay ngày lễ công cộng, những ngày nào đánh dấu sự bắt đầu hay kết thúc của các chu kỳ hoạt động sản xuất-kinh doanh, cũng như ngày nào là có giá trị pháp lý như ngày hết hạn trong các hợp đồng hay ngày nộp thuế. Cũng có lịch còn cung cấp thêm thông tin khác có ích chẳng hạn như thông tin về ngày hay mùa của nó.
+Lịch được sử dụng như là một phần của hệ thống duy trì thời gian hoàn hảo: ngày tháng và thời gian của một ngày cùng nhau chỉ ra các thời điểm theo thời gian. Trong thế giới hiện đại, các loại lịch đã không còn là một phần quan trộng trong hệ thống ấy, do sự ra đời của các loại đồng hồ có độ chính xác cao đã làm cho khả năng ghi chép thời gian là độc lập với các sự kiện thiên văn.
+
+
+=== Sử dụng hiện tại ===
+Lịch được sử dụng rộng rãi nhất ngày nay là lịch Gregory, trên thực tế nó là tiêu chuẩn quốc tế, và nó được sử dụng ở mọi nơi trên khắp thế giới cho các mục đích thông thường, bao gồm cả Trung Quốc và Ấn Độ là những quốc gia trước đây sử dụng lịch khác. Lịch Do Thái là lịch chính thức của chính quyền Israel, nhưng lịch Gregory được sử dụng rộng rãi hơn trong kinh doanh ở Israel và càng ngày càng được ưa chuộng hơn. Lịch Ba Tư được sử dụng ở Iran và Afghanistan. Lịch Hồi giáo được sử dụng bởi những người theo đạo Hồi trên toàn thế giới. Các loại lịch Trung Quốc, Hêbrơ, Hindu và lịch Julius cũng được sử dụng rộng rãi trong các mục đích tôn giáo và/hoặc xã hội.
+Mặc dù nói chung lịch Gregory được sử dụng rộng rãi nhưng các loại lịch khác cũng được sử dụng, chẳng hạn như lịch tài chính.
+
+
+== Xem thêm ==
+Danh sách lịch
+Năm phụng vụ
+Lịch các thánh
+Lịch Kitô giáo
+Tính ngày trong tuần
+Chu kỳ
+Lịch Run
+Lịch Cộng hòa Pháp
+Lịch tường
+Wikipedia:WikiProject Calendars
+
+
+== Tham khảo ==
+
+Calendrical Calculations; Nachum Dershowitz and Edward M. Reingold; Cambridge University Press, 1997; ISBN 0-521-56474-3; Book Info; Online Calculator
+A comparative Calendar of the Iranian, Muslim Lunar, and Christian Eras for Three Thousand Years; Ahmad Birashk; Mazda Publishers, 1993; ISBN 0-939214-95-4
+The Comprehensive Hebrew Calendar; Arthur Spier; Feldheim Publishers, 1986; ISBN 0-87306-398-8
+High Days and Holidays in Iceland; Árni Björnsson; Mál og menning, 1995; ISBN 9979-3-0802-8
+Explanatory Supplement to the Astronomical Almanac; P. Kenneth Seidelmann, ed.; University Science Books, 1992; ISBN 0-935702-68-7; Chapter 12: Calendars by L. E. Doggett
+Sun, Moon, and Sothis; Lynn E. Rose; Kronos Press, 1999; ISBN 0-917994-15-9
+Untersuchungen zur Geschichte der Tibetischen Kalenderrechnung; Dieter Schuh; Franz Steiner Verlag GMBH, 1973
+Frequently Asked Questions about Calendars: [1]
+DMOZ Calendars and Timekeeping category: [2]
+DateDex: Calendar Directory
+A calendar.
+
+
+== Liên kết ngoài ==
+Event Calendar based on Wikipedia Content

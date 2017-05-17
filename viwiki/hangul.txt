@@ -1,0 +1,310 @@
+Chosŏn'gŭl – tiếng Triều Tiên: 조선글(âm Việt: Chô-Xon-KưL; tiếng Hán: 朝鮮言 - Triều Tiên ngôn); Latinh cải tiến: Joseon(-)geul; McCune-Reischauer: Chosŏn'gŭl, tức Hangul  – tiếng Hàn: 한글 (âm Việt: Han-KưL; Latinh cải tiến: Han(-)geul; McCune-Reischauer: Han'gŭl; Hanja: 諺文– là bảng chữ cái tượng thanh của người Triều Tiên dùng để viết tiếng Triều Tiên, khác với hệ thống chữ tượng hình Hancha mượn từ chữ Hán. Về các cách phát âm La tinh khác của "Hangul", xin xem mục Tên gọi dưới đây.
+Thoạt nhìn, Chosŏn'gŭl trông có vẻ như kiểu chữ biểu ý (hay có thể xem là tượng hình), thực sự nó là chữ biểu âm. Mỗi đơn vị âm tiết Chosŏn'gŭl bao gồm ít nhất hai trong số 24 tự mẫu (chamo): 14 phụ âm và 10 nguyên âm. Trong lịch sử, bảng chữ cái tiếng Triều Tiên có một số nguyên âm và phụ âm nữa. (Xem Chamo không dùng nữa.) Để tìm hiểu về cách phát âm các chữ cái này, xin xem Âm vị học.
+
+
+== Tên gọi ==
+
+
+=== Tên chính thức ===
+Tên gọi hiện nay Hangul (한글, chữ Hàn) được Ju Si-gyeong đưa ra năm 1912 vừa có nghĩa là "đại văn tự" trong tiếng Triều Tiên cổ và "văn tự Triều Tiên" trong tiếng Triều Tiên hiện đại. Nó không thể viết bằng chữ Hán được, mặc dù âm tiết đầu, Han (한), nếu dùng theo nghĩa của từ "Triều Tiên", thì có thể viết là 韓 (Hàn). Theo Bảng mẫu tự phiên âm quốc tế (IPA), nó được đọc là [hangɯl], và được phiên âm Latinh hóa thành các dạng sau:
+Hangeul, hay Han-geul, theo phương pháp phiên âm Latinh cải tiến tiếng Triều Tiên mà chính phủ Hàn Quốc sử dụng và khuyến khích sử dụng trong mọi văn bản bằng tiếng Anh. Nhiều tài liệu gần đây đã chọn cách viết này.
+Han'gŭl theo phương pháp phiên âm McCune-Reischauer. Khi dùng trong tiếng Anh thì thông thường các dấu phụ bị loại bỏ và trở thành Hangul, hay đôi khi cũng không viết hoa là hangul. Cách viết này xuất hiện trong nhiều từ điển tiếng Anh.
+Hankul theo phương pháp phiên âm Latinh hóa kiểu Yale, một cách viết phổ biến nữa trong các từ điển tiếng Anh.
+
+Tên gọi ban đầu là Huấn dân chính âm (훈민정음; Hunminjŏngŭm; 訓民正音). (Xem Lịch sử)
+Ở Cộng hòa Dân chủ Nhân dân Triều Tiên nó được gọi là Chosŏn'gŭl (조선글, chữ Triều Tiên), xem các nguyên nhân liên quan đến các tên gọi khác nhau về Triều Tiên.
+
+
+=== Các tên khác ===
+Jeong-eum, tên gọi ngắn cho Huấn dân chính âm (Xem Lịch sử)
+Urigeul (우리글 "chữ viết chúng ta") được dùng cả ở Nam và Bắc Triều Tiên, nhưng người không phải Triều Tiên không sử dụng.
+Cho tới đầu thế kỷ 20, những nho sĩ và quý tộc vẫn chuộng chữ Hán và thường bài bác Chosŏn'gŭl, họ hay gọi Chosŏn'gŭl với những tên như là:
+Eonmun (언문 諺文, nghĩa là "chữ viết thô tục").
+Amkeul (암클 "chữ viết đàn bà"), nguyên do là nữ giới thường dùng loại chữ này. 암- (có lẽ xuất phát từ chữ 陰 "âm" là tiền tố chỉ giống cái).
+Ahaegeul (아해글 "chữ viết trẻ con") vì những đứa trẻ không thể học chữ Hán cũng hay dùng Chosŏn'gŭl.
+Và một số tên gọi khác như:
+Achimgeul (아침글 "chữ viết học trong vòng một buổi sáng")
+Quốc văn (국문, 國文, Kungmun)
+Tuy nhiên, việc sử dụng chữ Hán tại Hàn Quốc ngày càng hiếm kể từ vài thập kỉ nay, và tại Cộng hòa Dân chủ Nhân dân Triều Tiên thì bị cấm hẳn, do vậy các tên gọi này ngày nay chỉ ghi nhận trong lịch sử mà không còn dùng nữa.
+
+
+== Lịch sử ==
+
+Chosŏn'gŭl được vị vua thứ tư của nhà Triều Tiên là Triều Tiên Thế Tông (1418-1450) dưới sự giúp đỡ của các nhân sĩ trong Tập hiền điện (集賢殿, 집현전. Chiphyŏnjŏn). Cũng có một số chi tiết cho thấy vua Thế Tông có lẽ được các thành viên vương tộc hỗ trợ và làm việc trong vòng bí mật vì gặp phải phản đối của tầng lớp trí thức ưu tú.
+Hệ thống chữ viết này hoàn thành vào cuối tháng 12 năm 1443 hoặc tháng 1 năm 1444, và ấn bản năm 1446 trong một tài liệu có tựa Huấn dân chính âm (Hunmin Jeong-eum) và đó cũng là tên của hệ thống ký tự mới này. Ở Hàn Quốc, ngày ấn bản của Huấn dân chính âm, 9 tháng 10, là một ngày lễ mang tên ngày Hangul tại Hàn Quốc. Tại CHDCND Triều Tiên đó là ngày 15 tháng 1.
+Một huyền thoại xưa kể rằng vua Thế Tông nhận ra các chữ viết này sau khi tìm hiểu một ma trận phức tạp, nhưng điều võ đoán này không còn giá trị nữa từ khi một tài liệu viết năm 1446 có tên gọi Huấn dân chính âm giải lệ (Hunminjŏngŭm Haerye) được phát hiện vào năm 1940. Tài liệu này giải thích cặn kẽ vì sao những chữ cái này được thiết kế. (Xem Thiết kế chamo.)
+Vua Thế Tông giải thích việc ông tạo ra chữ viết mới là vì chữ Hán (Hancha) dùng cho các văn bản tiếng Triều Tiên thường không chính xác và khó phổ cập cho tầng lớp bình dân (Huấn dân chính âm có nghĩa là "Âm chuẩn để giáo dục dân"), vì vậy người dân cần có một thứ chữ mới giúp nhanh chóng và dễ dàng xóa nạn mù chữ của họ. Huấn dân chính âm giải lệ viết rằng, một người thông minh có thể học xong Chosŏn'gŭl trong vòng một buổi sáng, còn những người khù khờ thì cũng chỉ cần mười ngày. Vào thời điểm đó, chỉ có những người đàn ông thuộc tầng lớp quý tộc (lưỡng ban) (yangban 兩班) mới được học đọc và viết Hancha. Và vì toàn bộ văn bản viết bằng Hancha nên đa số người Triều Tiên đều mù chữ.
+Chosŏn'gŭl bị tầng lớp trí thức ưu tú phản đối kịch liệt, cho rằng chỉ có Hancha mới là chữ viết hợp pháp duy nhất, đồng thời họ cũng e sợ địa vị xã hội và chính trị của họ sẽ bị Chosŏn'gŭl đe dọa. Những phản đối của Thôi Vạn Lý (崔萬里, 최만리, Ch'oe Malli) và các nhà hủ Nho khác vào năm 1444 là một ví dụ cụ thể. Dầu sao thì hệ thống ký tự mới này nhanh chóng phổ biến rộng rãi trong nhân dân, nhất là nữ giới và những nhà văn tầng lớp dưới. Tuy nhiên sau đó chính quyền phong kiến thờ ơ hơn với Chosŏn'gŭl. Trước tình hình người dân có thể nhanh chóng truyền đi các thông tin "nguy hiểm" thông qua hệ thống ký tự Chosŏn'gŭl, Yên San Quân (1494-1506), vị vua thứ 10 của nhà Triều Tiên cấm việc học và sử dụng Chosŏn'gŭl cũng như cấm hẳn các tài liệu Chosŏn'gŭl vào năm 1504, và vua Trung Tông (1506-1544) xóa bỏ luôn Bộ Hanja vào năm 1506. Đến lúc này chỉ có phụ nữ và những người không được học hành tử tế mới dùng Chosŏn'gŭl.
+Tuy nhiên, không lâu sau đó, vào cuối thế kỷ 16 Chosŏn'gŭl trở nên thịnh đạt dần cùng với sự phát triển của hai trào lưu thi ca là Kasa (歌詞) và Sijo (時調). Trong thế kỷ 17, các tiểu thuyết viết bằng Chosŏn'gŭl trở thành "mốt", mặc dù việc sử dụng Chosŏn'gŭl vẫn chưa được xem là hợp pháp.
+Vào cuối thế kỷ 19, chủ nghĩa dân tộc Triều Tiên phát triển mạnh mẽ khi Nhật Bản muốn tách Triều Tiên ra khỏi vùng ảnh hưởng của Trung Quốc. Chosŏn'gŭl từ đó trở thành một biểu tượng quốc gia dân tộc đối với một số nhà cách mạng. Cuộc cải cách Giáp Ngọ (갑오 개혁) do các nhà chính trị theo Nhật khởi xướng đưa đến việc Chosŏn'gŭl được chọn dùng trong các tài liệu chính thức lần đầu tiên vào năm 1894. Nó được dạy trong các trường phổ thông vào năm 1895, và vào năm 1896 tờ báo Độc lập tân văn (獨立新聞, 독립신문, Tongnip Sinmun) viết bằng tiếng Anh và Chosŏn'gŭl ra đời.
+Sau khi Triều Tiên bị Nhật Bản thôn tính vào năm 1910, Chosŏn'gŭl vẫn được dạy tại các trường học kèm với tiếng Nhật, tuy nhiên sau đó bị cấm vì chính sách đồng hóa văn hóa của Nhật Bản.
+
+
+== Chamo ==
+Chamo (자모; 字母) hay natsori (낱소리) nghĩa là các chữ cái cấu thành bảng chữ cái Chosŏn'gŭl.
+Có tất cả 51 chamo, trong đó 24 chữ tương đương với các chữ cái của bảng chữ cái Latinh. 27 chữ còn lại là các chữ phức gồm hai, đôi khi ba, chamo. Trong 24 chamo đơn thì 14 là phụ âm (cha-ŭm 자음, 子音) và 10 là nguyên âm (mo-eum 모음, 母音). Năm phụ âm đơn được nhân đôi để tạo thành năm phụ âm thời thái (xem dưới đây), trong khi đó 11 chữ phức khác được cấu thành từ hai phụ âm khác nhau. Mười nguyên âm chamo có thể được kết hợp để tạo thành 11 nguyên âm đôi. Dưới đây là bảng tóm tắt:
+Các chamo đang được sử dụng:
+14 phụ âm đơn: ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎ.
+5 phụ âm kép: ㄲㄸㅃㅆㅉ.
+11 phức từ phụ âm: ㄳㄵㄶㄺㄻㄼㄽㄾㄿㅀㅄ>
+6 nguyên âm đơn: ㅏㅓㅗㅜㅡㅣ
+4 nguyên âm đơn ngạc hóa bằng y: ㅑㅕㅛㅠ
+11 nguyên âm đôi: ㅐㅒㅔㅖㅘㅙㅚㅝㅞㅟㅢ
+Các chamo không còn được sử dụng:
+Những phụ âm đơn không dùng nữa là ㅿㆁㆆㅱㅸㆄ
+Những phụ âm kép không dùng nữa là ㅥㆀㆅㅹ
+Những phức từ không dùng nữa là ㅦㅧㅨㅪㅬㅭㅮㅯㅰㅲㅳㅶㅷㅺㅻㅼㅽㅾㆂㆃ, và phức từ ba ㅩㅫㅴㅵ
+Nguyên âm không dùngㆍ
+Các nguyên âm đôi không dùng ㆎㆇㆈㆉㆊㆋㆌ
+Bốn trong số các nguyên âm đơn chamo phái sinh bằng một dấu ngắn để chỉ ngạc hóa (với y đằng trước): ㅑ ya, ㅕ yeo, ㅛ yo và ㅠ yu. Bốn nguyên âm này được tính trong 24 chamo đơn vì dấu ngạc hóa bằng y nằm ngoài văn cảnh không thể hiện y. Trên thực tế, những nguyên âm với dấu y không được coi là chamo riêng biệt.
+Đối với những phụ âm đơn, ㅊ chieut, ㅋ kieuk, ㅌ tieut và ㅍ pieup là các từ phát sinh có âm bật hơi cấu thành lần lượt từ các phụ âm chính ㅈ jieut, ㄱ giyeok, ㄷ digeut và ㅂ bieup, thêm vào các dấu thể hiện âm hơi.
+Các phụ âm nhân đôi gồm hai phụ âm riêng biệt đặt song song nhau, bao gồm: ㄲ ssang-giyeok (kk: ssang- 쌍 "kép"), ㄸ ssang-digeut (tt), ㅃ ssang-bieup (pp), ㅆ ssang-siot (ss), và ㅉ ssang-jieut (jj). chamo nhân đôi không thể hiện phụ âm nhân đôi, mà thể hiện thời thái.
+Các âm của các chamo phụ âm đơn và đôi không phát âm được một mình trong văn bản thông thường.
+Về phân loại có ba loại chamo chính:
+Sơ thanh hay âm đầu (초성, 初聲, choseong): thanh mẫu của phụ âm trước nguyên âm. Loại này cũng bao gồm tất cả năm chamo nhân đôi. chamo câm ㅇ dùng để chỉ khi không có sơ thanh.
+Vị trí: đặt trên đầu, bên trái, hay góc trên bên trái của đơn vị âm tiết.
+Xem: Bảng phụ âm và nguyên âm Hangul#Sơ thanh
+
+Trung thanh hay âm giữa (중성, 中聲 jungseong): các nguyên âm bao gồm các nhân âm tiết.
+Vị trí: nằm giữa đơn vị âm tiết nếu có một chung thanh, nếu không sẽ nằm bên phải hoặc bên dưới.
+Xem danh sách các trung thanh tại #Thiết kế chamo nguyên âm
+
+Chung thanh hay âm cuối (종성, 終聲 jongseong): đuôi vần của phụ âm sau nguyên âm. Các chamo cơ bản có thể là chung thanh, và sơ thanh câm ㅇ đọc là ng ở vị trí cuối. Tuy nhiên, chỉ có chamo nhân đôi ㅆ (ss) và ㄲ (kk) là có thể ở cuối.
+Vị trí: đặt bên dưới, bên phải hay góc dưới bên phải của đơn vị âm tiết.
+Xem: Bảng phụ âm và nguyên âm Hangul#Chung thanh
+
+
+=== Thiết kế chamo ===
+Chosŏn'gŭl là kiểu chữ viết duy nhất trên thế giới thuộc loại đặc trưng. Một ký tự có thể tương ứng một từ nên có thể được coi là kiểu chữ biểu ý (hay còn gọi là chữ tượng hình như trong trường hợp dùng hancha), hay thuộc kiểu âm tiết (như kana), hay thuộc kiểu chữ viết mẫu tự (tức là dùng một bảng chữ cái gồm có nhiều phụ âm và/hoặc nguyên âm như trong trường hợp này). Chosŏn'gŭl còn hơn thế nữa khi phân biệt các tính chất ngữ âm như vị trí phát âm (môi, đầu lưỡi, vòm mềm, họng) cũng như cách phát âm (âm tắc, âm mũi, âm xuýt, âm hơi) đối với các chamo phụ âm, cũng như ngạc hóa (với âm y- đằng trước), hài hòa nguyên âm và biến đổi nguyên âm (umlaut) đối với các chamo nguyên âm.
+Chẳng hạn, chamo ㅌ t gồm có ba nét, mỗi nét đều có nghĩa: nét trên cùng để chỉ đó là âm tắc, như ㆆ ’, ㄱ g, ㄷ d, ㅂ b, ㅈ j, đều có cùng nét (chamo cuối là âm tắc sát, một chuỗi tắc-sát); nét giữa chỉ đó là âm hơi, như ㅎ h, ㅋ k, ㅍ p, ㅊ ch, cũng có nét này; và nét cong bên dưới để chỉ âm đầu lưỡi, như ㄴ n, ㄷ d, ㄹ l. Hai phụ âm, ᇰ và ᇢ, có cách phát âm kép, và có thể lần lượt dùng hai thành tố để miêu tả ([ŋ]/câm và [m]/[w]).
+Đối với chamo nguyên âm, nét chấm lúc trước (nay là nét gạch nối ngắn) cho biết nguyên âm đó có thể được ngạc hóa; nét này nếu được nhân đôi sẽ chỉ ngạc hóa thực sự (y-). Vị trí của nét này cho biết nguyên âm thuộc lớp hài hòa nguyên âm nào ("sáng" và "tối"). Đối với chamo hiện đại, một nét dọc thêm vào để chỉ umlaut, sinh ra ㅐ [ε], ㅔ [e], ㅚ [ø], ㅟ [y] từ ㅏ [a], ㅓ [ʌ], ㅗ [o], ㅜ [u]. Tuy nhiên, đây không nằm trong ý đồ ban đầu của việc thiết kế kiểu chữ viết này mà là quá trình phát triển tự nhiên ban đầu từ đuôi nguyên âm đôi trong nguyên âm ㅣ. (v.d. ㅐ [*εj], ㅚ [*oj], v.v.) Thực ra, trong các giọng Triều Tiên, kể cả giọng chuẩn Seoul, một số vẫn còn là nguyên âm đôi.
+Mặc dù việc thiết kế ra chữ viết này có thể là kiểu đặc trưng, vì các lý do thực dụng mà nó được coi như bảng chữ cái. Chẳng hạn, chamo ㅌ không đọc như ba chữ đầu lưỡi-tắc-hơi, mà chỉ là phụ âm t. Cũng như vậy, nguyên âm đôi trước đây ㅔ được đọc như một nguyên âm độc lập e.
+Bên cạnh chamo, Chosŏn'gŭl cũng dùng dấu phụ để chỉ dấu nhấn giọng (pitch accent). Một âm tiết với âm cao được đánh dấu chấm (·) bên trái của nó (khi viết theo chiều dọc); một âm tiết có âm lên cao được đánh hai dấu chấm (:). Những dấu này ngày nay không còn dùng nữa. Tuy vậy, mặc dù chiều dài nguyên âm là yếu âm vị quan trọng trong tiếng Triều Tiên, nó không thể hiện ra trong Chosŏn'gŭl, ngoại trừ những âm tiết với âm lên cao thì bắt buộc phải có nguyên âm dài.
+Mặc dù chia sẻ một vài tính chất với mẫu tự Mông Cổ (Phagspa) (tức âm vị học Ấn ), như các quan hệ giữa các chamo cùng cơ quan phát âm và nguyên tắc lập bảng chữ cái của nó, các tính chất khác thì ảnh hưởng của chữ viết Trung Quốc, như đơn vị âm tiết và các phụ âm cơ bản. Âm tắc không kêu không bật hơi như g cho ㄱ [k], d cho ㄷ [t], và b for ㅂ [p] được coi là cơ bản trong tiếng Trung Quốc, nhưng không có trong ngôn ngữ Ấn; cũng như âm xuýt s cho ㅈ [ts] và âm chảy (liquid consonant) l cho ㄹ [l]. (ㅈ được phát âm là [ts] vào thế kỷ 15.)
+Trong Huấn dân chính âm, Thế Tông giải thích cách thiết kế các phụ âm theo theo hình dáng miệng khi phát âm (nguyên tắc ngữ âm học phát âm); còn nguyên âm thì theo nguyên tắc âm và dương cũng như hài hòa nguyên âm.
+
+
+==== Thiết kế chamo phụ âm ====
+Các mẫu tự cho phụ âm thuộc năm nhóm cơ quan phát âm, mỗi nhóm có một hình cơ bản, và các mẫu tự phát sinh từ những hình này bằng cách cho thêm vào các nét phụ. Các hình cơ bản mô hình hóa các bộ phận như lưỡi, vòm miệng, răng, và cổ họng sử dụng khi tạo âm thanh.
+Các tên Triều Tiên cho các nhóm này dùng thuật ngữ ngữ âm học truyền thống bằng tiếng Hán-Hàn.
+Âm vòm mềm (아음, 牙音 a-eum: "nha âm"):
+ㄱ g [k], ㅋ k [kʰ]
+Hình cơ bản: ㄱ là hình nhìn phía bên cạnh lưỡi khi kéo về phía vòm miệng mềm. (Để minh họa xin xem liên kết ngoài phía dưới.) Mẫu tự ㅋ phái sinh từ ㄱ, với một nét phụ thể hiện sự bật hơi.
+
+Âm đầu lưỡi (설음, 舌音 seol-eum: "thiệt âm"):
+ㄴ n [n], ㄷ d [t], ㅌ t [tʰ], ㄹ r/l
+Hình cơ bản: ㄴ là hình nhìn bên cạnh đầu lưỡi khi kéo về phía ổ răng. Các mẫu tự phái sinh từ ㄴ được phát âm với cùng cách phát âm cơ bản. Nét trên của ㄷ thể hiện sự kết nối chặt với vòm miệng. Nét giữa của ㅌ thể hiện sự bật hơi. Nét trên của ㄹ thể hiện một âm vỗ của lưỡi.
+
+Âm đôi môi (순음, 唇音 sun-eum: "thần âm"):
+ㅁ m [m], ㅂ b [p], ㅍ p [pʰ]
+Hình cơ bản: ㅁ thể hiện viền ngoài của đôi môi. Nét trên của ㅂ thể hiện sự bật ra của b. Nét trên của ㅍ thể hiện sự bật hơi.
+
+Âm xuýt (치음, 齒音 chieum: "xỉ âm"):
+ㅅ s [s̬], ㅈ j [c], ㅊ ch [cʰ]
+Hình cơ bản: ㅅ ban đầu có hình như một mũi nhọn ʌ, không có chân chữ (serif) phía trên. Nó thể hiện hình nhìn bên cạnh của răng. Nét trên trong ㅈ thể hiện sự kết nối với vòm miệng. Nét trên trong ㅊ thể hiện thêm một âm bật hơi.
+
+Âm họng (후음, 喉音 hueum: "hầu âm"):
+ㅇ ng [ʔ, ŋ], ㅎ h [h]
+Hình cơ bản: ㅇ là đường viền của cổ họng. Ban đầu ㅇ là hai mẫu tự, một vòng đơn thể hiện sự câm lặng (âm trống), và một vòng tròn phía trên có nét sổ dọc phía trên, ㆁ, thể hiện âm mũi ng. Mẫu tự nay không dùng nữa là ㆆ, thể hiện âm tắc cổ họng (glottal stop), được phát âm trong cổ họng và được đóng lại thể hiện bằng nét trên, như ㄱㄷㅈ. Phái sinh từ ㆆ là ㅎ, trong đó nét dùng thêm thể hiện sự bật hơi.
+
+Thuyết ngữ âm gắn với sự phái sinh của âm tắc cổ họng ㆆ và âm hơi ㅎ từ ㅇ chính xác hơn cách dùng IPA hiện đại. Trong IPA, các âm họng đặt ở vị trí như thể có một vị trí phát âm "họng" nào đó. Tuy nhiên, một thuyết ngữ âm gần đây cho thấy âm tắc cổ họng và [h] là những đặc trưng riêng biệt của 'âm tắc' và 'âm hơi' mà không có một vị trí phát âm thực sự, như trong các thể hiện Chosŏn'gŭl của chúng dựa trên ký hiệu vòng ㅇ.
+
+
+==== Thiết kế chamo nguyên âm ====
+Các mẫu tự nguyên âm được thiết kế dựa trên ba yếu tố:
+Một nét ngang thể hiện Mặt Đất bằng phẳng, tức yếu tố âm.
+Một chấm thể hiện Mặt Trời, tức yếu tố dương. (Chấm này trở thành nét sổ ngắn khi viết bằng bút lông.)
+Một nét thẳng thể hiện Con người đứng thẳng, trung tố điều hòa cả âm và dương.
+Các chấm (ngày nay là các nét gạch ngắn) được thêm vào ba yếu tố cơ bản này để phái sinh thêm các chamo nguyên âm đơn khác.
+Nguyên âm đơn
+Mẫu tự ngang: đây là các mẫu tự nguyên âm sau.
+ㅗ o
+ㅜ u
+ㅡ eu (ŭ)
+
+Mẫu tự đứng: đây từng là các mẫu tự nguyên âm trước. (ㅓ eo đã chuyển về vị trí sau của miệng.)
+ㅏ a
+ㅓ eo (ŏ)
+ㅣ i
+
+Chamo phức. Chosŏn'gŭl không bao giờ có một âm w, ngoại trừ theo từ nguyên học Hán-Hàn. Vì o hay u trước a hay eo thành âm [w], mà không có ở đâu khác, [w] có thể được phân tích như một o hay u âm vị, như vậy không cần mẫu tự cho [w]. Tuy nhiên, cần tuân theo luật hài hòa nguyên âm ở đây: ㅜ âm với ㅓ âm; ㅏ dương với ㅗ dương. Mặt khác, chamo phức kết thúc bằng ㅣ i ban đầu là các nguyên âm đôi. Mặc dù vậy một số đã trở thành nguyên âm hoàn toàn.
+ㅐ = ㅏ + ㅣ
+ㅔ = ㅓ + ㅣ
+ㅘ = ㅗ + ㅏ
+ㅙ = ㅗ + ㅏ + ㅣ
+ㅚ = ㅗ + ㅣ
+ㅝ = ㅜ + ㅓ
+ㅞ = ㅜ + ㅓ + ㅣ
+ㅟ = ㅜ + ㅣ
+ㅢ = ㅡ + ㅣ
+
+Nguyên âm ngạc hóa: không có chamo y- trong hệ Latinh. Thay vào đó, âm này thể hiện bằng cách nhân đôi nét nối vào nét gốc.
+ㅑ = ㅏ + một nét
+ㅕ = ㅓ + một nét
+ㅛ = ㅗ + một nét
+ㅠ = ㅜ + một nét
+ㅒ = ㅐ + một nét
+ㅖ = ㅔ + một nét
+
+Người ta dùng hai phương pháp để tổ chức và phân loại các nguyên âm này là hài hòa nguyên âm và ngạc hóa y.
+Trong bảy nguyên âm, bốn có thể có âm y- đằng trước ("ngạc hóa y"). Bốn nguyên âm này được viết với một nét ngang cạnh một nét dọc: ㅓㅏㅜㅗ. (Do ảnh hưởng của thư pháp Trung Quốc, các chấm trở thành gạch nối như thế.) Ngạc hóa khi đó thể hiện bằng cách nhân đôi các nét gạch ngang này: ㅕㅑㅠㅛ. Ba nguyên âm còn lại không ngạc hóa được thì được viết bằng nét gạch đơn: ㅡㆍㅣ.
+Tiếng Triều Tiên giai đoạn này có hài hòa nguyên âm hơn ngày nay rất nhiều. Nguyên âm thay đổi tuỳ theo môi trường của chúng, và thuộc vào các nhóm "điều hòa". Điều này ảnh hưởng đến hình thái học của tiếng này, và âm vị học của tiếng Triều Tiên được miêu tả theo âm và dương: nếu một từ có nguyên âm dương ('sáng'), thì hầu hết các hậu tố cũng phải có một nguyên âm dương; tương tự, nếu một gốc có nguyên âm âm ('tối'), thì các hậu tố cũng cần âm. Có một nhóm thứ ba là nhóm "điều hòa" ('trung tính' theo thuật ngữ Tây phương) có thể đã tồn tại cùng với các nguyên âm âm hoặc dương.
+Nguyên âm trung tính trong tiếng Triều Tiên là ㅣ i. Các nguyên âm âm là ㅡㅜㅓ eu, u, eo; các chấm là theo các hướng âm là 'xuống dưới' và 'sang trái'. Các nguyên âm dương là ㆍㅗㅏ, ə, o, a, các chấm theo hướng dương là 'lên trên' và 'sang phải'. Như trình bày ở trên, Hunmin Jeong-eum (Huấn dân chính âm) nói rằng các hình của các chamo không có chấm ㅡㆍㅣ cũng được chọn để thể hiện khái niệm âm, dương, và điều hòa. (Dấu chấm ㆍ ə ngày nay không còn dùng nữa.)
+Còn có một tham số thứ ba để thiết kế chamo nguyên âm là: chọn ㅡ là hình cơ bản của ㅜ và ㅗ, cũng như ㅣ là hình cơ bản của ㅓ và ㅏ. Để hiểu thấu đáo được những đặc tính chung của các nét gạch dọc và ngang này cần hiểu phát âm chính xác của những nguyên âm này vào thế kỷ thứ 15. Cách phát âm không chắc chắn chủ yếu đối với các chamo ㆍㅓㅏ. Một vài nhà ngôn ngữ học lần lượt dựng lại các nguyên âm này thành *a, *ɤ, *e; một số khác thì thành *ə, *e, *a. Tuy nhiên, các chamo có nét sổ ngang ㅡㅜㅗ thì có vẻ như đều đã là nhưng nguyên âm sau hay nguyên âm giữa, [*ɯ, *u, *o].
+
+
+==== Thuyết của Ledyard về thiết kế chamo phụ âm ====
+
+Có một số thuyết về nguồn gốc chữ viết Chosŏn'gŭl mà vua Thế Tông tạo ra. Mặc dù chưa được công nhận rộng rãi nhưng giáo sư Gari Ledyard thuộc Đại học Columbia cho rằng có năm phụ âm phái sinh từ bảng chữ cái tiếng Mông Cổ Phagspa từ thời nhà Nguyên, còn phần còn lại thì phát sinh từ bên trong như trong Huấn dân chính âm miêu tả. Tuy thế, các phụ âm cơ bản này không phải là những mẫu tự có hình họa đơn giản nhất trong Huấn dân chính âm, mà là phụ âm cơ bản trong âm vị học tiếng Trung Quốc.
+Huấn dân chính âm nói rằng vua Thế Tông đã phỏng theo "Cổ triện" 古篆 để tạo ra Chosŏn'gŭl. Nghĩa chính của 古 là cổ không được các nhà triết học quan tâm vì Chosŏn'gŭl không có giống chức năng với triện tự 篆字 Trung Quốc. Tuy nhiên, 古 cũng còn có thể là cách chơi chữ dựa trên chữ Mông Cổ 蒙古, và 古篆 có thể là cách viết tắt của 蒙古篆字 "Mông Cổ triện tự", nghĩa là một biến thể của bảng mẫu tự Phagspa được viết cho giống chữ triện Trung Quốc. Chắc chắn là có các bản thảo Phagspa trong thư viện hoàng gia Triều Tiên, và một vài vị đại quan của Thế Tông đọc được tốt chữ viết này.
+Nếu đúng thế thì sự lảng tránh của vua Thế Tông về mối liên hệ với Mông Cổ có thể thông hiểu khi xem xét quan hệ của Triều Tiên với nhà Minh Trung Quốc sau khi nhà Nguyên sụp đổ, cũng như giới trí thức khinh miệt coi người Mông Cổ như "mọi rợ".
+Theo Ledyard, năm mẫu tự mượn đơn giản nhất về hình họa cho phép tạo ra các chamo phức và để chỗ để phái sinh ra các âm tắc hơi ㅋㅌㅍㅊ. Nhưng ngược lại với cách truyền thống, các âm không tắc (ng ㄴㅁ và ㅅ) phái sinh bằng cách bỏ các nét trên của các mẫu tự này. Dù dễ dàng phái sinh ㅁ từ ㅂ bằng cách bỏ nét trên, nhưng phái sinh ㅂ từ ㅁ không dễ vì ㅂ không tương tự như các âm tắc khác.
+Cách giải thích về âm ng cũng khác so với cách truyền thống. Nhiều từ Trung Quốc bắt đầu bằng âm ng, nhưng vào thời vua Thế Tông, âm ng hoặc là câm hoặc là được phát âm là [ŋ] tại Trung Quốc, và trở thành âm câm khi tiếng Triều Tiên mượn các từ này. Hình họa của âm ng (nét sổ đứng bên trái bằng cách bỏ nét trên của ㄱ) lẽ ra cũng trông tương tự nhu nguyên âm ㅣ [i]. Giải pháp của Thế Tông đã giải quyết cả hai vấn đề: nét sổ dọc từ ㄱ được thêm vào ký hiệu vòng ㅇ để tạo thành ᇰ (một vòng tròn với một dọc đứng bên trên), mang cả âm [ŋ] ở giữa và cuối từ, và ở đầu từ thì câm. (Ngày này giữa ㅇ và ᇰ không còn khác sự biệt.)
+Thêm vào đó, cách tạo ra các mẫu tự không dùng nữa ᇢᇦᇴ w, v, f (dùng cho sơ thanh tiếng Trung Quốc vi phi phu 微非敷), bằng cách thêm một vòng tròn nhỏ dưới ㅁㅂㅍ (m, b, p), tương tự như thêm vòng nhỏ vào ba biến thể của h trong Phagspa. Trong Phagspa, vòng này cũng thể hiện w sau các nguyên âm. Sơ thanh tiếng Trung Quốc 微 vi dùng để chỉ âm m hoặc w trong các phương ngôn khác nhau, và điều này cũng được phản ánh trong việc chọn ㅁ [m] với ㅇ (trong [w] Phagspa) là các thành phần của Chosŏn'gŭl ᇢ, cho các mẫu tự khác cấu thành từ hai thành tố để ghi nhận hai cách phát âm địa phương.
+Cuối cùng, đa phần các mẫu tự Chosŏn'gŭl đi mượn có cấu trúc hình học đơn giản, ít nhất là lúc ban đầu, nhưng ㄷ d [t] luôn có một hình môi nhỏ nhô ra từ góc trên bên trái, giống như mẫu tự Phagspa d [t]. Tính chất này có thể thấy trong mẫu tự tiếng Tạng d, ད.
+Xem chi tiết tại Gari Ledyard.
+
+
+=== Thứ tự chamo ===
+Bảng chữ cái Chosŏn'gŭl không để lẫn phụ âm và nguyên âm như các bảng chữ cái Tây phương (bảng chữ cái Latinh và bảng chữ cái Cyrill). Thay vào đó, thứ tự là theo kiểu Ấn, đầu tiên là các phụ âm vòm mềm, sau đó là âm đầu lưỡi, âm môi, âm xuýt, v.v. Tuy nhiên, các phụ âm đặt trước nguyên âm chứ không phải là sau như trong tiếng Phạn và tiếng Tạng.
+Thứ tự hiện nay do Thôi Thế Trân (崔世珍, Ch'oe Sechin) đưa ra và năm 1527. Việc này có trước khi có các phụ âm thời thái và các chamo kép thể hiện chúng. Sự hợp hai mẫu tự ㅇ và ㆁ cũng chỉ có sau khi thiết lập thứ tự bảng chữ cái hiện nay. Do vậy, khi các chính quyền Hàn Quốc và CHDCND Triều Tiên chính thức đưa Chosŏn'gŭl vào dùng rộng rãi thì họ đã sắp thứ tự khác hẳn nhau: phía Hàn Quốc thì nhóm các mẫu tự tương đồng vào cùng nhóm, còn Triều Tiên thì đặt các mẫu tự mới vào cuối bảng.
+
+
+==== Trật tự tại Hàn Quốc ====
+Thứ tự hiện nay của các chamo phụ âm là:
+ㄱ ㄲ ㄴ ㄷ ㄸ ㄹ ㅁ ㅂ ㅃ ㅅ ㅆ ㅇ ㅈ ㅉ ㅊ ㅋ ㅌ ㅍ ㅎ
+Chamo phụ âm kép được đặt ngay sau chamo đơn mà chúng dựa trên. Không phân biệt giữa ㅇ câm và ㅇ giọng mũi.
+Thứ tự của chamo nguyên âm là:
+ㅏ ㅐ ㅑ ㅒ ㅓ ㅔ ㅕ ㅖ ㅗ ㅘ ㅙ ㅚ ㅛ ㅜ ㅝ ㅞ ㅟ ㅠ ㅡ ㅢ ㅣ
+Các nguyên âm đơn trước, với các mẫu tự phái sinh tùy theo thể của chúng: đầu tiên là thêm i, sau đó ngạc hóa, rồi đến ngạc hóa với i thêm vào. Nguyên âm đôi bắt đầu bằng w- được xếp thứ tự tùy theo phát âm của nó là ㅏ hay ㅓ với một nguyên âm thứ hai, không như các hai chữ một âm (digraph) riêng biệt.
+
+
+==== Trật tự tại Triều Tiên ====
+Triều Tiên áp dụng một trật tự cổ truyền.
+Thứ tự hiện nay của các chamo phụ âm là:
+(rỗng) ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㅇ ㅈ ㅊ ㅋ ㅌ ㅍ ㅎ ㄲ ㄸ ㅃ ㅆ ㅉ (ㅇ rỗng)
+Mẫu tự ㅇ đầu tiên là ㅇ ng âm mũi, là âm cuối trong tiếng Triều Tiên hiện nay. ㅇ nếu dùng ở đầu một từ thì lại đặt sau ㅉ vì nó là một mẫu tự giữ chỗ.
+Lưu ý là các mẫu tự "mới" tức là các phụ âm kép và nguyên âm phức, được đặt vào cuối bảng chữ cái, trước mẫu tự ㅇ rỗng, nhằm để tránh thay đổi thứ tự truyền thống đối với phần còn lại của bảng chữ cái.
+Thứ tự hiện nay của các chamo nguyên âm là:
+ㅏ ㅑ ㅓ ㅕ ㅗ ㅛ ㅜ ㅠ ㅡ ㅣ ㅐ ㅒ ㅔ ㅖ ㅚ ㅟ ㅢ ㅘ ㅝ ㅙ ㅞ
+Tất cả các chữ đôi một âm và ba chữ một âm (trigraph), gồm cả nguyên âm đôi cổ ㅐ và ㅔ, được đặt ngay sau các nguyên âm cơ bản, như vậy gần như duy trì thứ tự truyền thống trong bảng chữ cái của Thôi.
+
+
+=== Tên Chamo ===
+Trật tự Chosŏn'gŭl được gọi là "trật tự ganada" (가나다 순), đặt theo ba chamo đầu (g, n, và d) nối vào nguyên âm đầu tiên (a). Chamo được Thôi Thế Trân đặt tên vào năm 1527. Triều Tiên đặt tên cho các mẫu tự khi chính thức sử dụng Chosŏn'gŭl.
+
+
+==== Tên chamo phụ âm ====
+Sau đây là tên chính thức của các phụ âm hiện nay, các tên này có hai âm tiết và có phụ âm ở đầu lẫn cuối:
+Toàn bộ chamo ở Triều Tiên, cũng như tất cả chamo dùng tại Hàn Quốc trừ ba mẫu tự thuộc danh pháp cổ truyền, đều có tên gọi dưới dạng chữ cái + i + eu + chữ cái. Ví dụ, Thôi viết bieup với hancha 非 (bi, phi) 邑 (eup, ấp). Tên gọi của g, d, và s là ngoại lệ vì không có hancha cho euk, eut, và eus. 役 (yeok, dịch) được dùng thay cho euk. Cũng vì không có hancha kết thúc bằng t hay s, Thôi đã chọn hai hancha đọc theo chú giải tiếng Triều Tiên, 末 kkeut ("mạt" tức cuối) và 衣 os ("y" tức áo).
+Ban đầu, Thôi đặt tên cho j, ch, k, t, p, và h theo kiểu một âm tiết không theo quy tắc là ji, chi, ki, ti, pi, và hi, vì chúng không nên được dùng như phụ âm cuối như đặc tả trong Huấn dân chính âm. Tuy nhiên sau khi xác lập quy tắc chính tả mới vào năm 1933, trong đó cho phép tất cả các phụ âm có thể trở thành phụ âm cuối, thì các tên gội đã đổi thành dạng hiện nay.
+Phụ âm chamo kép đi trước tên phụ âm chính bằng các từ 쌍 ssang, nghĩa là "song" (đôi), hay 된 doen tại Triều Tiên nghĩa là "mạnh". Từ đó:
+Tại Triều Tiên, một cách nữa để gọi chamo là theo dạng tên mẫu tự + eu (ㅡ), ví dụ, 그 geu cho chamo ㄱ, 쓰 sseu cho chamo ㅆ, v.v.
+
+
+==== Tên chamo nguyên âm ====
+Tên các chamo nguyên âm đơn giản với phụ âm rỗng ㅇ ieung đặt trước nguyên âm đó:
+
+
+=== Chamo không dùng nữa ===
+Một số chamo ngày nay không dùng nữa, bao gồm các mẫu tự dùng để ghi các âm Triều Tiên không còn trong ngôn ngữ ngày nay nữa, cũng như các mẫu tự để ghi âm các bảng vần (韻圖) tiếng Trung Quốc mà chưa bao giờ còn dùng trong tiếng Triều Tiên. Một vài mẫu tự cổ hay gặp là,
+ㆍ hay 丶 ə (arae-a 아래아 "a thấp hơn"): đọc như [ʌ] IPA, gần giống eo ngày nay.
+Ə là dạng trung thanh trong nhóm, hoặc được thấy như nguyên âm đôi ㆎ area-ae. Từ ahə ("trẻ con"), ban đầu được viết bằng mẫu tự này, đã bị đổi thành ai (아이).
+
+ㅿ z (bansios 반시옷): một âm khá lạ, phát âm có lẽ như [ʝ͂] IPA (một âm sát vòm mũi hóa).
+ㆆ ’ (yeorin-hieuh 여린히읗 "hieuh nhẹ" hay doen-ieung 된이응 "ieung mạnh"): âm tắc cổ họng, "nhẹ hơn ㅎ và khàn hơn ㅇ".
+ㆁ ng (yet-ieung 옛이응): mẫu tự chamo nguyên thủy cho [ŋ]; ngày này đã hợp vào với ㅇ ieung. (Trên vài phông chữ (fontface) trên máy tính, yet-ieung trông như phiên bản bẹt hơn của ieung, tuy thế dạng đúng của là với một đỉnh dài hơn trong bản có chân chữ của ieung.)
+ㅸ β (gabyeoun-bieup 가벼운비읍): [f] IPA. Mẫu tự này trông có vẻ như dạng hai chữ một âm bieup và ieung, có thể phức tạp hơn. Trong phần này, có ba chamo ít phổ biến hơn dùng cho các âm trong bảng vần tiếng Trung Quốc, ᇢ w ([w] hay [m] IPA), ᇴ f, và ㅹ ff theo lý thuyết [v̤].
+Ngoài ra còn có hai chamo kép không dùng nữa là,
+ㆅ x (ssanghieuh 쌍히읗 "hieuh đôi"): [ɣ̈ʲ] hoặc [ɣ̈] IPA.
+ㆀ (ssang-ieung 쌍이응 "ieung đôi"): chamo khác dùng trong bảng vần.
+Trong hệ Chosŏn'gŭl nguyên thể, chamo đôi dùng để ghi các phụ âm tiếng Trung Quốc "giọng đục" (thì thào), và không dùng cho tiếng Triều Tiên. Sau này một quy ước tương tự được đưa ra để ghi các phụ âm "thời thái".)
+
+Cũng có các phức từ phụ âm không còn tồn tại trong tiếng Triều Tiên nữa, như ㅴ bsg và ㅵ bsd, cũng như nguyên âm đôi chỉ được dùng để biểu đạt các trung thanh tiếng Trung như ㆇ, ㆈ, ㆊ, ㆋ.
+Một số chamo ghi các âm trong tiếng Triều Tiên cổ vẫn còn được vài phương ngữ của tiếng Triều Tiên sử dụng; trong khi các chamo để phiên tiếng Hán cổ thì mất dần theo thời gian.
+
+
+== Cấu trúc âm tiết ==
+Ngoại trừ một số hình vị ngữ pháp được sử dụng vào buổi ban đầu của Chosŏn'gŭl, không có chamo nào có thể đứng một mình để biểu diễn tiếng Hàn. Thay vào đó, chamo được nhóm thành từng đơn vị âm tiết chứa, ít nhất, một thanh mẫu ở đầu (sơ thanh) và một nhân âm tiết ở giữa (trung thanh). Khi một âm tiết không có phụ âm ở đầu, thì ký tự rỗng ㅇ ieung được dùng đệm vào. Không dùng âm đệm khi không có âm đuôi (chung thanh).
+Ký tự rỗng có nguồn gốc chỉ vì thế, nhưng vì cũng chỉ dùng để ở ví trí đầu, và phụ âm ng trở thành câm khi đứng đầu giống như khi thêm một gạch nhỏ vào ký tự rỗng, nên cả 2 thường được xem là giống nhau.
+Các đơn vị âm tiết thường được tạo thành từ hai hay ba chamo:
+Hai chamo: sơ thanh (một phụ âm hay nhóm phụ âm, hay ký tự rỗng ㅇ) + trung thanh (một nguyên âm hay nguyên âm đôi)
+Ba chamo: sơ thanh + trung thanh + chung thanh (một phụ âm hay một nhóm phụ âm)
+Việc thay thế, hay "chồng" các chamo vào trong đơn vị âm tiết tuân theo tập quy luật sau:
+Thành phần của chamo phức được viết từ trái sang phải. Hai phần phức tạp nhất: ㅄ, ㅝ, v.v. (Các kết hợp đã lỗi thời thì phức tạp hơn: ㅵ, ㆋ, v.v.)
+Mọi nguyên âm Chosŏn'gŭl hiện đại đều có hoặc một gạch dọc hoặc ngang.
+chamo nguyên âm dọc được viết bên phải của sơ thanh: ㅣ i.
+chamo nguyên âm ngang được viết bên dưới sơ thanh: ㅡ eu.
+Khi một chamo nguyên âm có cả thành phần ngang và dọc, nó sẽ bao quanh sơ thanh tính từ dưới sang bên phải: ㅢ ui.
+
+chamo cuối, nếu có một, được thêm vào ở dưới đáy. Điều này được gọi là 받침 batchim "nền hỗ trợ".
+Các đơn vị luôn được viết theo trật tự phát âm, sơ thanh-trung thanh-chung thanh. Vì vậy,
+Âm tiết với chamo nguyên âm ngang được viết trên xuống: 읍 eup.
+Âm tiết với chamo nguyên âm dọc và chung thanh đơn giản được viết theo chiều đồng hồ: 쌍 ssang.
+Âm tiết với chamo nguyên âm bao quanh có chiều là (xuống-phải-xuống): 된 doen.
+Âm tiết với âm cuối phức được viết từ trái sang phải ở đáy: 밟 balp.
+
+Đơn vị âm tiết tạo thành được viết trong hình nhữ nhật có cùng kích thước và hình dạng như một hancha, vì thế khi nhìn vào có thể nhầm lẫn là một Hán tự hancha.
+Không tính chamo đã lỗi thời, thì có khoảng 11,571 khối Hangul.
+Đã từng có vài thay đổi nhỏ trong thế kỉ 20 khi bỏ đi các khối âm tiết và viết chamo riêng rẽ thành hàng ngang như phương Tây: ㄱㅡㄷ geut. Tuy nhiên, việc dùng khối đơn vị làm cho Chosŏn'gŭl trở nên dễ đọc hơn, vì mỗi âm tiết có hình dạng duy nhất. Bây giờ phép chính tả của Chosŏn'gŭl là trực quan (morphophonology) (xem ở dưới), nghĩa là các từ Chosŏn'gŭl có hình dạng dễ nhận biết. Đây là một sự trợ giúp lớn người đọc; tương tự như vậy, lợi thế trong việc nhận dạng các từ giống nhau đã giúp cho kiểu chữ viết toàn phụ âm (abjad) Semit không cần tới nguyên âm trong cả nghìn năm. Trên thực tế, những người thường đọc tiếng Trung Quốc và tiếng Hàn thường cho rằng đọc các chuỗi các ký tự trong bảng chữ cái như tiếng Anh như thể đọc một bảng Morse, vì thế việc chuyển cách ghi tiếng Hàn sang dạng ngang không được nhiều người ủng hộ.
+
+
+== Chính tả ==
+Mãi cho tới thế kỉ 20, chưa có phép chính tả chính thức nào được thiết lập. Do cách nối vần, sự đồng hóa mạnh phụ âm, các giọng địa phương khác nhau cùng nhiều lý do khác, một từ trong tiếng Hàn có thể có nhiều cách đánh vần. Vua Thế Tông có vẻ thích cách đánh vần đa âm vị (morphophonemic spelling) (thể hiện hình thái học bên dưới) hơn là dùng dạng đơn âm vị (thể hiện âm thanh thực sự). Tuy nhiên, vào thời kì đầu của nó, Chosŏn'gŭl bị ảnh hưởng mạnh bởi cách đánh vần đơn âm vị. Trải qua hàng thế kỉ, phép chính tả đã dần trở thành đa âm, trước hết ở danh từ, sau đó đến động từ. Ngày nay trên thực tế, nó là chủ yếu đa âm vị.
+Các phát âm và dịch nghĩa:
+[mo.tʰa.nɯn.sa.ɾa.mi]
+một người không thể làm được
+Phép chính tả đơn âm vị:
+모타는사라미
+/mo.tʰa.nɯn.sa.la.mi/
+Phép chính tả đa âm vị:
+못하는사람이
+|mos.ha.nɯn.sa.lam.i |
+Chú giải âm vị-âm vị:
+Sau cải cách Giáp Ngọ vào năm 1894, nhà Triều Tiên và sau này là Đế quốc Đại Hàn bắt đầu sử dụng Chosŏn'gŭl trong mọi tài liệu chính thức. Dưới sự quản lý của triều đình, cách sử dụng đúng Chosŏn'gŭl, bao gồm phép chính tả, được thảo luận mãi cho tới khi Hàn Quốc bị đô hộ (日韓併合條約) bởi Nhật Bản vào năm 1910.
+Triều Tiên Tổng Đốc Phủ (朝鮮総督府) người Nhật đã thiết lập cách viết kết hợp giữa Hancha và Chosŏn'gŭl, giống chữ viết bên Nhật. Chính phủ đã chỉnh sửa lại cách đánh vần vào năm 1912, 1921 và 1930, để hướng về dạng đơn âm vị.
+Hiệp hội Hangul do Ju Si-gyeong sáng lập đã đề nghị một phép chính tả mới, mạnh về đa âm vị (morphophonemic) vào năm 1933, và đã trở thành khuôn mẫu cho các phép chính tả hiện đại ở cả Bắc và Nam Triều Tiên. Sau khi Triều Tiên chia đôi, phép chính tả ở phía Bắc và Nam đều có những sự thay đổi riêng rẽ. Sách hướng dẫn chính tả Chosŏn'gŭl được gọi là Hangeul matchumbeop, được chỉnh sửa lần cuối ở Hàn Quốc và được Bộ Giáo dục phát hành là vào năm 1988.
+
+
+=== Cách viết pha trộn ===
+Vào thời Nhật Bản đô hộ, hancha được dùng cho các gốc từ vựng (danh từ và động từ), và Chosŏn'gŭl cho các từ văn phạm và biến tố, cũng như kanji và kana dùng trong tiếng Nhật. Dù vậy, hancha bị cấm dùng hẳn tại CHDCND Triều Tiên, và ở Hàn Quốc thì chỉ được dùng trong ngoặc để chú giải tên riêng và để phân biệt các từ đồng âm khác nghĩa.
+Các chữ số Ả Rập cũng được dùng với Chosŏn'gŭl, chẳng hạn 2005년 7월 5일 (ngày 5 tháng 7, năm 2005).
+Các chữ Latinh, đôi khi cũng có các mẫu tự trong các bảng chữ cái khác có thể tìm thấy trong các văn bản tiếng Triều Tiên với mục đích minh họa, hoặc các từ mượn chưa thể bản địa hóa được.
+
+
+== Kiểu viết ==
+Chosŏn'gŭl có thể viết dọc hoặc viết ngang. Kiểu viết truyền thống là theo kiểu Trung Quốc tức là viết từ trên xuống dưới và từ phải qua trái. Cách viết ngang theo kiểu viết Latinh được Ju Si-gyeong khởi xướng và ngày càng phổ biến.
+Trong Huấn dân chính âm, Chosŏn'gŭl được in theo kiểu không chân (sans-serif) bằng các đường có góc cạnh với độ đầy đều đặn. Kiểu này thấy trong các sách ấn hành trước năm 1900, và có thể còn thấy trong các tượng hay cột chạm.
+Qua hàng thế kỷ, cách viết bằng bút lông theo kiểu thư pháp ngày càng dùng nhiều, với cách dùng nét và góc cạnh như thư pháp Trung Quốc. Kiểu viết này gọi là myeongjo (tiếng Trung Quốc 明朝, Minh triều, Tiếng Nhật minchō), và ngày nay vẫn còn được dùng trong sách báo, tạp chí và phông chữ trong máy tính.
+Một kiểu không chân với các đường có độ dày đều đặn phổ biến hơn khi viết bằng bút chì hay bút mực và là kiểu chữ phổ biến trong các trình duyệt Web.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Korean Hangul Language Learning Software
+ReadWrite Korean - Hangul Learning Software
+The Korean Ministry of Culture and Tourism's article on Hangul
+Hangul lessons
+List of syllables and Romanization: Wikisource
+Browser and Hangul
+Korean alphabet and pronunciation
+Jamo in Unicode (177 KByte PDF)
+Hangul syllables (7 MByte PDF)
+The Revised Romanization of Korean
+The National Academy of the Korean Language
+Hangeul2Konglish – Hangul romanization utility (freeware)
+
+
+== Xem thêm ==
+Tiếng Triều Tiên
+Tiếng Triều Tiên dùng trong máy tính
+bảng chữ cái
+ký tự (grapheme)
+hệ thống chữ viết
+Latinh hóa tiếng Triều Tiên
+Romaja
+Các ngôn ngữ của Trung Quốc
+Các chủ đề về Triều Tiên
+Thành Tam Vấn

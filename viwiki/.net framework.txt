@@ -1,0 +1,89 @@
+.NET Framework là một nền tảng lập trình và cũng là một nền tảng thực thi ứng dụng chủ yếu trên hệ điều hành Microsoft Windows được phát triển bởi Microsoft. Các chương trình được viết trên nền.NET Framework sẽ được triển khai trong môi trường phần mềm (ngược lại với môi trường phần cứng) được biết đến với tên Common Language Runtime (CLR). Môi trường phần mềm này là một máy ảo trong đó cung cấp các dịch vụ như an ninh phần mềm (security), quản lý bộ nhớ (memory management), và các xử lý lỗi ngoại lệ (exception handling).
+.NET framework bao gồm tập các thư viện lập trình lớn, và những thư viện này hỗ trợ việc xây dựng các chương trình phần mềm như lập trình giao diện; truy cập, kết nối cơ sở dữ liệu; ứng dụng web; các giải thuật, cấu trúc dữ liệu; giao tiếp mạng... CLR cùng với bộ thư viện này là 2 thành phần chính của.NET framework.
+.NET framework đơn giản hóa việc viết ứng dụng bằng cách cung cấp nhiều thành phần được thiết kế sẵn, người lập trình chỉ cần học cách sử dụng và tùy theo sự sáng tạo mà gắn kết các thành phần đó lại với nhau. Nhiều công cụ được tạo ra để hỗ trợ xây dựng ứng dụng.NET, và IDE (Integrated Developement Environment) được phát triển và hỗ trợ bởi chính Microsoft là Visual Studio.
+
+
+== Lịch sử phát triển ==
+
+
+=== .NET Framework 1.0 ===
+Đây là phiên bản đầu tiên của.NET framework, nó được phát hành vào năm 2002 cho các hệ điều hành Windows 98, NT 4.0, 2000 và XP. Việc hỗ trợ chính thức từ Microsoft cho phiên bản này kết thúc vào 10/7/2007, tuy nhiên thời gian hỗ trợ mở rộng được kéo dài đến 14/7/2009.
+
+
+=== .NET Framework 1.1 ===
+Phiên bản nâng cấp đầu tiên được phát hành vào 4/2003. Sự hỗ trợ của Microsoft kết thúc vào 14/10/2008, và hỗ trợ mở rộng được định đến 8/10/2013.
+Những thay đổi so với phiên bản 1.0:
+Tích hợp hỗ trợ mobile ASP.NET (trước đây chỉ là phần mở rộng tùy chọn)
+Thay đổi về kiến trúc an ninh - sử dụng sandbox khi thực thi các ứng dụng từ Internet.
+Tích hợp hỗ trợ ODBC và cơ sở dữ liệu Oracle
+.NET Compact Framework
+Hỗ trợ IPv6 (Internet Protocol version 6)
+Vài thay đổi khác trong API
+
+
+=== .NET Framework 2.0 ===
+Kể từ phiên bản này,.NET framework hỗ trợ đầy đủ nền tảng 64-bit. Ngoài ra, cũng có một số thay đổi trong API; hỗ trợ các kiểu "generic"; bổ sung sự hỗ trợ cho ASP.NET; .NET Micro Framework - một phiên bản.NET framwork có quan hệ với Smart Personal Objects Technology.
+
+
+=== .NET Framework 3.0 ===
+Đây không phải là một phiên bản mới hoàn toàn, thực tế chỉ là một bản nâng cấp của.NET 2.0. Phiên bản 3.0 này còn có tên gọi khác là WinFX, nó bao gồm nhiều sự thay đổi nhằm hỗ trợ việc phát triển và chuyển đổi (porting) các ứng dụng trên Windows Vista. Tuy nhiên, không có sự xuất hiện của.NET Compact Framework 3.0 trong lần phát hành này.
+Bốn thành phần chính trong phiên bản 3.0:
+Windows Presentation Foundation (WPF - tên mã là Avalon): Đây là một công nghệ mới, và là một nỗ lực của Microsoft nhằm thay đổi phương pháp hay cách tiếp cận việc lập trình một ứng dụng sử dụng giao diện đồ họa trên Windows với sự hỗ trợ của ngôn ngữ XAML.
+Windows Communication Foundation (WCF - tên mã là Indigo): Một nền tảng mới cho phép xây dựng các ứng dụng hướng dịch vụ (service-oriented).
+Windows Workflow Foundation (WF): Một kiến trúc hỗ trợ xây dựng các ứng dụng workflow (luồng công việc) một cách dễ dàng hơn. WF cho phép định nghĩa, thực thi và quản lý các workflow từ cả cách nhìn theo hướng kĩ thuật và hướng thương mại.
+Windows CardSpace (tên mã là InfoCard): một kiến trúc để quản lý định danh (identity management) cho các ứng dụng được phân phối.
+Ngoài ra Silverlight (hay WPF / E), một phiên bản nhánh.NET Framework hỗ trợ các ứng dụng trên nền web, được Microsoft tạo ra để cạnh tranh với Flash.
+Có thể minh học.NET 3.0 bằng một công thức đơn giản:
+.NET 3.0 =.NET 2.0 + WPF + WCF + WF + WCS 
+
+
+=== .NET Framework 3.5 ===
+Được phát hành vào 11/2007, phiên bản này sử dụng CLR 2.0. Đây có thể được xem là tương đương với phiên bản .NET Framework 2.0 SP1 và .NET Framework 3.0 SP1 cộng lại. .NET Compact Framework 3.5 được ra đời cùng với phiên bản.NET framework này.
+Các thay đổi kể từ phiên bản 3.0:
+Các tính năng mới cho ngôn ngữ C# 3.0 và VB.NET 9.0
+Hỗ trợ Expression Tree và Lambda
+Các phương thức mở rộng (Extension methods)
+Các kiểu ẩn danh (Anonymous types)
+LINQ
+Phân trang (paging) cho ADO.NET
+API cho nhập xuất mạng không đồng bộ (asynchronous network I/O)
+Peer Name Resolution Protocol resolver
+Cải thiện WCF và WF
+Tích hợp ASP.NET AJAX
+Namespace mới System.CodeDom
+Microsoft ADO.NET Entity Framework 1.0
+Cũng như phiên bản 3.0, có thể minh họa sự thay đổi của.NET 3.5 bằng công thức:
+.NET 3.5 =.NET 3.0 + LINQ + ASP.NET 3.5 + REST 
+
+
+=== .NET Framework 4.0 ===
+Phiên bản beta đầu tiên của.NET 4 xuất hiện vào 5/2009 và phiên bản RC (Release Candidate) được ra mắt vào 2/2010. Bản chính thức của.NET 4 được công bố và phát hành cùng với Visual Studio 2010 vào 12/4/2010.
+Các tính năng mới được Microsoft bổ sung trong.NET 4:
+Dynamic Language Runtime
+Code Contracts
+Managed Extensibility Framework
+Hỗ trợ các tập tin ánh xạ bộ nhớ (memory-mapped files)
+Mô hình lập trình mới cho các ứng dụng đa luồng (multithreaded) và bất đồng bộ (asynchronous)
+Cải thiện hiệu năng, các mô hình workflow.
+
+
+=== .NET Framework 4.5 ===
+Những thông tin đầu tiên của.NET 4.5 được Microsoft công bố vào 14/9/2011 tại BUILD Windows Conference, và nó chính thức được ra mắt vào 15/8/2012 .
+Kể từ phiên bản này, Microsoft bắt đầu cung cấp 2 gói cài đặt riêng biệt, gói đầy đủ và gói giản chức năng client profiles .
+
+
+== Xem thêm ==
+ASP.NET
+C Sharp
+CodePlex
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Cổng thông tin.Net Framework dành cho cộng đồng lập trình viên
+Những tính năng mới có trong.Net Framework 4.0
+Khái niệm căn bản về.Net Framework
+Trung tâm phát triển khung lập trình.NET
+Trang blog của đội BCL (Base Class Library)

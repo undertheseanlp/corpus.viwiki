@@ -1,0 +1,30 @@
+Samsung Galaxy Note 10.1 là chiếc máy tính bảng có kích thước 10.1 inch được Samsung Electronics nghiên cứu, thiết kế và phát triển. Chiếc máy tính bảng này chạy hệ điều hành Android 4.1.2 và sở hữu khả năng đa nhiệm tốt như xem phim, chơi nhạc và lướt web. Đây là sản phẩm thứ hai thuộc dòng Samsung Galaxy Note, đi kèm với bút stylus S-Pen, thiết bị đầu vào nhằm xử lý những nhiệm vụ như ghi chú và phác thảo.
+
+
+== Chi tiết ==
+Note 10.1 ra mắt lần đầu tiên vào ngày 27 tháng 02 năm 2012 tại Mobile World Congress (MWC) ở Barcelona, Tây Ban Nha, với bộ vi xử lý lõi kép 1.4 GHz. Sau đó, Note 10.1 lần lượt ra mắt tại Đức, Vương quốc Ả rập Xê-út và Các tiểu vương quốc Ả Rập thống nhất vào ngày 06 tháng 08 năm 2012. Phiên bản chính thức của chiếc máy tính bảng này sử dụng bộ vi xử lý lõi tứ Exynos 1.4 GHz  với ba lựa chọn bộ nhớ trong 16,32 và 64 GB cũng như RAM DDR3 2GB. Note 10.1 chính thức bán tại Mỹ, Vương Quốc Anh và Hàn Quốc vào ngày 16 tháng 8.
+Galaxy Note 10.1 có khả năng nâng cấp lên phiên bản Android 4.1 Jelly Bean , sử dụng Wifi hoặc thông qua Samsung Kies. Samsung thiết kế giao diện của chiếc máy tính bảng này với phần mềm TouchWiz UX. Một số ứng dụng của Samsung cho phép người dùng sử dụng tính năng "Split screen" trong đó hai ứng dụng sẽ dùng chung màn hình.
+
+
+== Tính năng ==
+ChatON có những tính năng cơ bản bao gồm tự động kết bạn, chat đa phương tiện, cũng như các tính năng mới như My Page, Voice/video chat, và phiên dịch. Chức năng chính của ChatOn được chia thành Multimedia, Group Chat, Trunk và Animation message. ChatON có thể gửi tin nhắn, hình ảnh, video và âm thanh thông qua chức năng Multimedia. Người dùng thiết lập các thông tin cá nhân trong My Page. Họ có thể tạo ra các Chat Room bằng cách chọn nhiều hơn hai người bạn. Tất cả các nội dung đã được chia sẻ trong mỗi đoạn hội thoại sẽ được lưu vào Trunk. Animation message có thể biến các hình vẽ đơn giản thành những đoạn video sống động. Phiên bản cập nhật gần đây nhất của Samsung có thêm các tính năng S-Voice, gia tăng tính năng của S-Pen, …
+
+
+== Đón nhận từ thị trường ==
+Note 10.1 nhận được những đánh giá tốt từ giới công nghệ. David Oliver của tờ tạp chí công nghệ Wired UK đánh giá Note 10.1 đạt điểm 9 trên 10. Note 10.1 được ca ngợi bởi tính đa dạng, bộ vi xử lý tốc độ nhanh, giao diện có thể viết trực tiếp, thẻ nhớ có thể mở rộng, camera chất lượng và được đánh giá là một đối thủ mạnh khi so với iPad. TechCrunch cho rằng chiếc máy tính bảng này "tuyệt vời và xuất sắc" với nhiều ứng dụng được tối ưu để sử dụng S-pen.
+Tuy nhiên, trang web The Verge chỉ chấm chiếc máy tính này 5.4 trên 10, kết luận đây là "một chiếc máy tính bảng đáng thất vọng" và cho rằng Note 10.1 "hoạt động kém". Engadget, mặc dùng ca ngợi khả năng của Wacom S-pen, nhưng lại cảm thấy "chiếc máy tính này quá thương mại".
+
+
+== Xem thêm ==
+Samsung Galaxy Note series
+Samsung Electronics
+Samsung Galaxy Note 8.0
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Official website
+Galaxy Note 10.1 GT-N8000 User Manual
+Galaxy Note 10.1 Wifi Starter Guide

@@ -1,0 +1,17 @@
+.gh là tên miền Internet cấp cao nhất dành cho quốc gia (ccTLD) của Ghana.
+
+
+== Các tên miền cấp 2 ==
+com.gh cho công ty
+edu.gh cho trường học
+gov.gh cho chính quyền
+org.gh cho tổ chức
+mil.gh cho quân đội
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+IANA .gh whois information
+.gh domain registration website

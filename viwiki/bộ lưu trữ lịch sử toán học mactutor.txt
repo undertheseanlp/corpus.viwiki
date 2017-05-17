@@ -1,0 +1,16 @@
+Bộ lưu trữ Lịch sử Toán học MacTutor (tiếng Anh: MacTutor History of Mathematics archive) là một trang web do John J. O'Connor và Edmund F. Robertson trông nom gìn giữ, thuộc Đại học St Andrews ở Scotland.
+Bộ lưu trữ này gồm các tiểu sử chi tiết về nhiều nhà toán học trong lịch sử và đương thời, cũng như các thông tin về các đường cong (toán học) nổi tiếng và nhiều chủ đề trong lịch sử toán học.
+"Bộ lưu trữ Lịch sử Toán học" là một phần trong một dự án lớn hơn của các tác giả trên, gọi là Hệ toán học MacTutor (Mathematical MacTutor system), một cơ sở dữ liệu HyperCard 18-megabyte.
+Bộ lưu trữ này bao gồm một phạm vi rộng lớn các chủ đề toán học, tuy nội dung của nó nghiêng về các quan tâm và đam mê của các tác giả. Chúng tập trung vào các lãnh vực mà O'Connor và Robertson cho rằng máy vi tính - và đặc biệt các khả năng đồ họa của máy vi tính cá nhân của hãng Apple Macintosh - có thể cho một tầm nhìn sâu vào nội dung bên trong mà các phương tiện khác không có. Vì thế - thêm vào các chủ đề giải tích mà ta hy vọng có thể tìm thấy trong bất kỳ phần mềm toán học nào - MacTutor đặc biệt quan tâm tới hình học, đại số (và đặc biệt, lý thuyết nhóm), lý thuyết đồ thị, lý thuyết số cũng như các cột thống kê, ma trận và giải tích phức.
+
+
+== Tham khảo ==
+
+Review and description of the MacTutor at the CM magazine (Volume III Number 17 25 tháng 4 năm 1997)
+Short review of the MacTutor at Convergence MAA
+
+
+== Liên kết ngoài ==
+MacTutor History of Mathematics archive
+Mathematical MacTutor system
+MacTutor Awards

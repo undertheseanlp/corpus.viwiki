@@ -1,0 +1,131 @@
+Cầu Mỹ Thuận là cây cầu dây văng bắc qua sông Tiền, nối liền hai tỉnh Tiền Giang và Vĩnh Long, Việt Nam. Cầu nằm cách Thành phố Hồ Chí Minh 125 km về hướng Tây Nam, trên Quốc lộ 1A, là trục giao thông chính của vùng đồng bằng sông Cửu Long. Đây là cầu dây văng đầu tiên của Việt Nam.
+
+
+== Vị trí dự án ==
+Cầu Mỹ Thuận nối liền giữa hai tỉnh Tiền Giang và Vĩnh Long. Đầu cầu phía Bắc thuộc xã Hòa Hưng, huyện Cái Bè, tỉnh Tiền Giang; đầu cầu phía Nam thuộc xã Tân Hòa, thành phố Vĩnh Long, tỉnh Vĩnh Long. Vượt qua sông Tiền nối với tỉnh Tiền Giang.
+
+
+== Nguồn vốn ==
+
+Năm 1950, Hoa Kỳ đã từng có ý định cung cấp vốn cho chính quyền Sài Gòn xây dựng cây cầu nhưng thất bại. Giữa thập niên 1960, công ty Nippon Koei (Nhật Bản) đã hoàn thành thiết kế đồ án và được lựa chọn nhưng dự án bị hủy do khó khăn về tài chính. Theo chương trình AusAid của chính phủ Australia, dự án cầu Mỹ Thuận có tổng nguồn vốn đầu tư là 90,86 triệu đô la Úc (tương đương khoảng 2.000 tỷ đồng), trong đó Chính phủ Úc tài trợ 66%, vốn đối ứng phía Việt Nam là 34%  đã thành công. Việt Nam đang chuẩn bị nguồn vốn tiếp tục xây dựng cầu Mỹ Thuận 2 có đường dành riêng cho tuyến metro với tổng mức đầu tư dự kiến hơn 7.000 tỷ đồng.
+
+
+== Quy mô và tiêu chuẩn kỹ thuật ==
+
+
+=== Thông tin chung ===
+Loại cầu: cầu treo dây văng theo hình rẻ quạt (semi-hanp) với hai mặt phẳng dây cách nhau 18,6m;
+Tổng chiều dài cầu: 1.535,2m;
+Phần cầu chính dây văng: 660m;
+Phần cầu dẫn: 875,2m (gồm 22 nhịp);
+Tải trọng thiết kế: theo tiêu chuẩn AUSROADS-92 của Úc, có so sánh và kiểm toán với tải trọng H30-XB80 theo tiêu chuẩn 22 TCN 18-79 của Việt Nam;
+Độ dốc dọc cầu: 5%;
+Lực va xô tàu, vuông góc với tim cầu: 32,000 KN (xuôi dòng), 15,000 KN (ngược dòng);
+Song song với tim cầu: 16,000 KN (xuôi dòng), 7,500 KN (ngược dòng);
+Khổ thông thuyền: 37,5m x 110m;
+Khổ cầu 4 làn xe cơ giới, 2 lề bộ hành tổng cộng rộng 23m.
+
+
+=== Kết cấu dầm ===
+Dầm cầu cấu tạo bê tông DƯL grade 50, gồm 2 dầm biên, các dầm ngang, bản mặt cầu thi công theo phương pháp đúc hẫng. Dầm biên cao 1760mm rộng 1200-1400mm, bản mặt cầu dày 250mm.
+Dầm biên được treo bằng 4 x 32 bó cáp, mỗi bó gồm từ 22 đến 69 tao 15,2mm, mỗi tao gồm 7 sợi đặt trong ống HPDE có màu để trang trí. Mỗi bó cáp một đầu neo vào dầm, đầu neo vào tháp, có dự trữ hệ thống chống rung cho cáp.
+
+
+=== Tháp cầu ===
+Tháp cầu hình chữ H bằng bê tông cốt thép grade 50 cao 123,5 m (tính từ đỉnh bệ cọc); 84,43m (tính từ mặt cầu). Kết cấu móng trụ tháp gồm 16 cọc khoan nhồi có đường kính 2,5m hạ đến cao độ -90m (tháp bờ Bắc) và -100m (tháp bờ Nam), cao độ đáy bệ phần đặc là + 1m, ống vách đặt tới cao độ -35m (tháp bờ Bắc) và -40m (tháp bờ Nam).
+
+
+=== Trụ neo ===
+Đặt tại hai đầu cầu chính để chống dịch chuyển cho tháp. Thân trụ neo gồm hai cột bê tông cốt thép ứng suất trước bê tông mác 400, kích thước 1500x3500mm. Trụ neo không có xà mũ, thân cột liên kết trực tiếp với kết cấu nhịp. Móng trụ neo gồm 2 cọc khoan nhồi đường kính 2,5m mỗi trụ đặt ở độ sâu -60 (bờ Bắc); -74 và -84 (bờ Nam).
+
+
+=== Hệ cáp dây văng ===
+Sơ đồ bố trí dây văng cầu Mỹ Thuận theo hình rẻ quạt (semi-hanp) với hai mặt phẳng dây cách nhau 18.6m. Các cặp dây văng (thượng, hạ lưu) được bố trí đối xứng qua mặt phẳng thẳng đứng đi qua ti dọc của cầu. Góc nghiêng của dây văng so với phương nằm ngang nhỏ nhất (dây văng ngoài cùng) là 31.031o, và lớn nhất (dây văng gần tháp cầu nhất của nhịp biên) là 77.39o. Dây văng ngoài cùng của hai nhịp biên được liên kết với hệ dầm cầu tại điểm cách tim trụ neo 5,0m về phía cầu dẫn.
+Toàn cầu có 128 dây văng chia thành 8 nhóm, mỗi nhóm có 16 dây. Dây văng ngoài cùng nhịp biên có số tao lớn nhất (68 tao), dây văng thuộc nhíp chính gằn tháp cầu nhất có số tao nhỏ nhất (22 tao). Các tao cáp kiểu Freyssinet 7 sợi, đường kính danh định 15,2mm.
+
+
+== Kết cấu cầu dẫn ==
+
+
+=== Kết cấu nhịp ===
+Mỗi bên gồm 9 nhịp 40m, 1 nhịp 38,8m và 1 nhịp 43, 8m đều dạng dầm BTDƯL đơn giản lắp ghép kiểu "Super Tee" (có hình hộp hở) cao 1750mm, rộng 2140 đến 2810mm đặt cách nhau 2160mm, bê tông mác 32. Riêng nhịp 43,8m gồm đầu hẫng 5m từ nhịp cầu chính và nhịp dầm đơn giản 38,8m. Mặt cầu đổ tại chỗ dày 20 cm tại đầu dầm và 15 cm tại giữa dầm (để khắc phục độ vồng ngược khi căng cốt thép). Bản đổ liên tục nhiệt trên 11 nhịp.
+
+
+=== Mố cấu ===
+Mố cầu bằng BTCT trên 14 cọc thép f 600mm, dài từ 35 đến 37m, trên đoạn 3m đầu đổ BTCT độn ruột cấp 32.
+
+
+=== Trụ cầu ===
+Trụ cầu bằng BTCT, thân trụ gồm hai cột BTCT hình chữ nhật kích thước mỗi cột 1200 x 3500mm cao. Mỗi trụ gồm hai nhóm cọc tách riêng, mỗi nhóm gồm 10 cọc 40x40cm; chiều dài cọc tại các trụ từ 33,2 - 41,2m.
+
+
+== Các công trình phụ ==
+
+
+=== Gối cầu ===
+Với cầu chính và tại mố dùng loại gối chậu (sliding pot bearing);
+Với cầu dẫn dùng loại gối cao su (Eslastomeric bearing)
+
+
+=== Khe co dãn ===
+Khe co giãn đặt tại mố và tại chỗ tiếp ráp giữa cầu chính và cầu dẫn (loại SD 800) và tại mố (loại SD 320) loại khe co giãn cao su.
+
+
+=== Hệ thống thoát nước từ mặt cầu ===
+Ống thoát nước cách nhau 5,2m được bố trí trên mặt cầu sát gờ lề bộ hành, cầu chính nước thoát trực tiếp xuống lòng sông. Trên cầu dẫn, nước thoát xuống đất, qua bể lắng để xử lý trước khi thải ra sông.
+
+
+=== Dải phân cách giữa cầu ===
+Dải phân cách bằng bê tông được đổ ngay tại chỗ, lan can hai bên làn xe cơ giới bằng bê tông và thép, lan can cho người đi bộ bằng thép mạ kẽm.
+
+
+=== Hệ thống cấp điện ===
+Hai trạm biến thế 560 KVA đặt tại hai bờ sông;
+Trạm điều khiển chính tại mỗi máy;
+Hệ dây cáp điện đặt trong ống, nằm trong dải phân cách hoặc dưới sàn.
+
+
+=== Đèn chiếu sáng và an toàn ===
+Cột điện đặt tại dải phân cách giữa;
+Đèn báo hiệu đường sông;
+Đèn trang trí đặt trên mặt phẳng dây cáp;
+Đèn báo máy bay đặt trên đỉnh tháp;
+Đèn báo trong tháp;
+Đèn báo sương mù đặt tại đài cọc.
+
+
+=== Hệ thống chữa cháy ===
+Hệ thống ống dẫn nước từ bờ sông phía Nam;
+Một trạm bơm điện;
+Một hệ thống dẫn nước từ trạm bơm lên cầu;
+Van tăng áp suất tại đầu sàn cầu chính.
+
+
+== Đường dẫn hai đầu cầu ==
+Rộng 21,5m gồm 4 làn xe cơ giới 2 x 8m, hai làn xe thô sơ 2 x 2m, dải phân cách giữa 0,6m lề đất 2 x 0,6m. Hai bên có bố trí đường gom chạy song song. Do Địa chất yếu nên phải tăng nhanh độ lún cố kết bằng bấc thấm và vải địa kỹ thuật Phạm vi đường đầu cầu 166,7m (bờ Bắc) và 118m (bờ Nam)
+Kết cấu mặt đường có thể dùng một trong 2 loại:
+
+
+=== Loại A ===
+Lớp móng dưới bằng cấp phối đá dăm dày 21 cm;
+Lớp móng bằng cấp phối đá dăm cỡ nhỏ dày 30 cm;
+Lớp mặt bằng bê tông nhựa nóng dày 7 cm.
+
+
+=== Loại B ===
+Phần trên tương tự như loại A nhưng có thêm một lớp móng cấp phối đồi có CBR > 5% và lớp móng dưới có cấp phối đá dăm dày 30 cm. Nền cát đắp đạt K> 98%, CBR > 2%. Đường bộ hành có vỉa hè, kết cấu gồm hai lớp:
+Cấp phối đá dăm dày 2,5 cm
+Bê tông mác 200 dày 7,5 cm.
+
+
+== Tiến độ dự án ==
+Khởi công: 06/7/1997;
+Hoàn thành: 21/5/2000.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+My Thuan bridge gets final link
+Các hình ảnh cầu Mỹ Thuận trên trang mạng của Ausaid

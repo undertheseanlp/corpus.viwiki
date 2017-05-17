@@ -1,0 +1,28 @@
+Windows Holographic là một nền tảng tính toán thực tại hỗn hợp của hãng Microsoft, cho phép các ứng dụng trình diễn các yếu tố ảo (Microsoft gọi là "hologram" nghĩa là ảnh toàn ký) được kết hợp với các yếu tố thế giới thực mang tính chất vật lý này mà nó nhận thức để cùng tồn tại trong môi trường chia sẻ. Một biến thể của Windows dành cho máy tính thực tế tăng cường (giúp gia tăng môi trường vật lý thế giới thực với các yếu tố ảo) Windows Holographic có môi trường hoạt động tăng cường thực tại có thể chạy ở bất kỳ ứng dụng nền tảng nào của Windows. Ngoài ra, với giao diện lập trình ứng dụng Windows Holographic vốn là một phần của Universal Windows Platform, sẽ được kích hoạt trong tất cả các phiên bản Windows 10 (bao gồm cả phiên bản dành cho điện thoại và máy tính bảng nhỏ và Xbox One) các tính năng thực tại hỗn hợp có thể được bổ sung vào bất kỳ ứng dụng nền tảng nào của Windows, bao gồm một loạt các thiết bị sử dụng Windows 10.
+Microsoft đã cho ra mắt Windows Holographic nhân sự kiện "Windows 10: The Next Chapter" vào ngày 21 tháng 1 năm 2015. Nó được bố trí giới thiệu như là một phần của việc triển khai chung hệ điều hành Windows 10, và trưng bày bộ kính thông minh Microsoft HoloLens. Windows 10 bắt đầu ra mắt vào mùa hè năm 2015 bằng việc phát hành phiên bản dành cho PC, riêng HoloLens sẽ được phát hành vào một lúc nào đó.
+
+
+== Microsoft HoloLens ==
+Thiết bị hàng đầu dành cho Windows Holographic, Microsoft HoloLens là một chiếc kính thông minh không dây đóng vai trò như là một cái máy tính Windows 10 khép kín. Nó sử dụng các cảm biến tiên tiến, một màn hình gắn trên đầu đầu hiển thị hình ảnh 3D độ nét cao, và âm thanh không gian cho phép các ứng dụng thực tế tăng cường, với một giao diện người dùng tự nhiên mà người dùng tương tác với thông qua ánh mắt, giọng nói và cử chỉ. Mang mật danh "Dự án Baraboo," HoloLens được phát triển trong năm năm trước khi nó được công bố vào năm 2015, nhưng đã được hình thành trước đó như là bước ban đầu được thực hiện vào cuối năm 2007 đối với những gì sẽ trở thành nền tảng công nghệ Kinect.
+Microsoft kỳ vọng HoloLens sẽ có hiệu lực "trong khung thời gian Windows 10" và có giá trị sử dụng tại cả hai thị trường doanh nghiệp và người tiêu dùng. Một giám đốc điều hành Microsoft giấu tên cho biết rằng HoloLens sẽ có chi phí nhiều hơn so với một game console.
+
+
+== Ứng dụng ==
+Tính đến năm 2015, một số ứng dụng Windows Holographic đã được trình diễn, chủ yếu xoay quanh Microsoft HoloLens. Chúng bao gồm HoloStudio, một ứng dụng mô hình 3D có thể sản xuất ra cho máy in 3D; Holobuilder, một sự thể hiện lấy cảm hứng từ tựa game Minecraft; một thao tác ứng dụng viễn thông Skype; OnSight, một công cụ phần mềm được phát triển trong quá trình hợp tác với Phòng Thí nghiệm Sức đẩy Phản lực của NASA (JPL), và một bằng chứng về khái niệm dành cho các công cụ phần mềm công trình kiến trúc của hãng Trimble Navigation.
+OnSight tích hợp dữ liệu từ thiết bị thăm dò tự hành Curiosity nhằm mô phỏng môi trường sao Hỏa dưới dạng 3D, các nhà khoa học trên khắp thế giới có thể hình dung, tương tác, và cộng tác với nhau trong việc sử dụng các thiết bị HoloLens. OnSight có thể được sử dụng trong việc lập kế hoạch nhiệm vụ, với người sử dụng có thể lập chương trình hoạt động thăm dò tự hành bằng cách nhìn vào một mục tiêu trong quá trình mô phỏng, và sử dụng các cử chỉ để kéo lên và chọn lệnh menu. JPL đã lên kế hoạch triển khai OnSight trong sứ mệnh Curiosity và sử dụng nó để kiểm soát hoạt động thăm dò tự hành vào tháng 7 năm 2015.
+
+
+== Xem thêm ==
+
+Thực tế tăng cường
+Magic Leap
+Google Glass
+Meta (công ty)
+Technical Illusions
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Microsoft HoloLens

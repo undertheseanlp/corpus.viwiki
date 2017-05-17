@@ -1,0 +1,93 @@
+Windows Server 2012, tên mã là "Windows Server 8", là phiên bản phát hành thứ sáu của Windows Server. Nó là phiên bản Windows 8 dành cho máy chủ và là phiên bản tiếp theo của Windows Server 2008 R2. Hai phiên bản tiền phát hành, một bản xem trước cho nhà phát triển và một phiên bản beta, đã được phát hành trong quá trình phát triển. Phiên bản chính thức được phát hành rộng rãi cho các khách hàng bắt đầu từ ngày 4 tháng 9 năm 2012.
+Không giống phiên bản trước, Windows Server 2012 không hỗ trợ cho các máy tính nền tảng Itanium, và có bốn phiên bản. Nhiều tính năng đã được thêm hoặc cải thiện so với Windows Server 2008 R2 (nhiều tính năng tập trung vào điện toán đám mây), như phiên bản mới cập nhật của Hyper-V, chức năng quản lý địa chỉ IP, một phiên bản mới của Windows Task Manager, và ReFS, hệ thống tập tin mới. Windows Server 2012 đã nhận được nhiều đánh giá tốt mặc dù có cùng giao diện người dùng Metro gây tranh cãi có trên Windows 8.
+Phiên bản kế tiếp của Windows Server 2012, có tên là Windows Server 2012 R2, được phát hành cùng với Windows 8.1 vào tháng 10 năm 2013. Một gói dịch vụ, trước đó dự định là bản cập nhật Windows Server 2012 R2 Update, được phát hành vào tháng 4 năm 2014.
+
+
+== Lịch sử ==
+Windows Server 2012, có tên mã "Windows Server 8", là phiên bản phát hành thứ sáu của họ hệ điều hành Windows Server được phát triển đồng thời với Windows 8. Chỉ tới ngày 17 tháng 4 năm 2012, Microsoft mới thông báo tên sản phẩm chính thức sẽ là "Windows Server 2012".
+Microsoft giới thiệu Windows Server 2012 và bản xem trước cho nhà phát triển tại hội nghị BUILD 2011 vào ngày 9 tháng 9 năm 2011. Tuy nhiên, không giống Windows 8, phiên bản xem trước cho nhà phát triển của Windows Server 2012 chỉ dành cho những người đăng ký của MSDN. Nó bao gồm một giao diện đồ họa người dùng (GUI) dựa trên ngôn ngữ thiết kế Metro và Trình quản lý máy chủ mới, một ứng dụng đồ họa dùng để quản lý máy chủ. Vào 16 tháng 2 năm 2012, Microsoft phát hành một bản cập nhật cho bản xem trước để kéo dài ngày hết hạn từ 8 tháng 4 năm 2012 tới 15 tháng 1 năm 2013.
+Trước khi Windows Server 2012 được hoàn thiện, hai bản dựng thử nghiệm đã được phát hành công khai. Một phiên bản beta công khai của Windows Server 2012 đã được phát hành cùng với Windows 8 Consumer Preview vào ngày 29 tháng 2 năm 2012. Phiên bản Release Candidate (RC) của Windows Server 2012 được phát hành ngày 31 tháng 5 năm 2012, cùng với Windows 8 Release Preview.
+Windows Sever 2012 được phát hành cho nhà sản xuất vào 1 tháng 8 năm 2012 và được phát hành rộng rãi vào ngày 4 tháng 9 năm 2012. Tuy nhiên, không phải tất cả các phiên bản của Windows Server 2012 đều được phát hành cùng một thời điểm. Windows Server 2012 Essentials được phát hành cho nhà sản xuất vào 9 tháng 10 năm 2012 và được phát hành rộng rãi vào 1 tháng 11 năm 2012. Cho đến 23 tháng 9 năm 2012, tất cả các sinh viên đăng ký chương trình DreamSpark có thể tải về Windows Server 2012 Standard hoặc Datacenter miễn phí.
+
+
+== Các tính năng ==
+
+Windows Server 8 bao gồm một số các tính năng thay đổi.
+
+
+=== Giao diện người dùng ===
+Quản lý Server (Server Manager) được thiết kế lại để nhấn mạnh việc dễ sử dụng cho nhiều máy chủ khác nhau. Trong hệ điều hành, giống Windows 8, sử dụng Modern UI khi không được cài đặt trong chế độ Lõi Server (Server Core). Windows PowerShell trong phiên bản này có 2300 commandlets, so với khoảng 200 trong Windows Server 2008 R2. Phiên bản cũng hỗ trợ lệnh tự động hoàn thành nhiệm vụ.
+
+
+=== Quản lý tác vụ ===
+
+Windows 8 và Windows Server 8 đều bao gồm phiên bản Windows Task Manager mới so với các phiên bản Windows trước đây. Ở phiên bản mới, các tab được ẩn mặc định, khi đang hiển thị các ứng dụng. Trong tab Process, các tiến trình được hiển thị trong các độ màu vàng khác nhau, các dạng sẫm màu thể hiện việc đang sử dụng nhiều nguồn tài nguyên máy. Windows Task Manager liệt kê tên ứng dụng, trạng thái ứng dụng và tổng dữ liệu tiện ích cho CPU, bộ nhớ, ổ cứng và các tài nguyên mạng, chuyển các thông tin tiến trình được tìm thấy trong phiên bản cũ sang tab Detail. Tab Performance được chia thành CPU, bộ nhớ (RAM), ổ cứng, ethernet và các phần mạng wireless với biểu đồ cho từng phần. Tab CPU không hiển thị theo từng đồ thị riêng cho từng tiến trình trên hệ thống theo mặc định; thay vì vậy, nó có thể hiển thị dữ liệu cho mỗi nút NUMA. Khi hiển thị dữ liệu cho mỗi tiến trình riêng rẽ cho từng máy với lớn hơn 64 tiến trình, tab CPU hiển thị phần trăm sử dụng một cách đơn giản trên các biểu đồ gạch nhiệt. Màu được dùng cho các biểu đồ gạch nhiệt là màu xanh, với xanh sẫm hơn để chỉ sử dụng nhiều. Di chuyển con trỏ chuột lên bất kỳ tiến trình đều hiển thị nút NUMA của các vi xử lý và chỉ số ID. Ngoài ra, tab Setup được thêm vào để liệt kê các chương trình chạy kèm theo lúc khởi động máy. Phiên bản mới nhận dạng một ứng dụng WinRT có trạng thái "Ngưng sử dụng".
+
+
+=== Các tùy chọn cài đặt ===
+Không giống các vi xử lý trước, Windows Server 8 có thể chuyển đổi giữa Server Core và GUI (đầy đủ) các tùy chọn cài đặt mà không cần một quá trình cài lại hệ thống. Cũng có tùy chọn cài đặt tại bên thứ 3 cho phép MMC và Server Manager hoạt động, nhưng thiếu Windows Explorer hoặc các phần khác của GUI shell.
+
+
+=== Quản lý địa chỉ IP (IPAM) ===
+Windows Server 8 có một vai trò IPAM dùng để khám phá, điều chỉnh, kiểm tra và quản lý không gian địa chỉ IP được sử dụng trên mạng chung. IPAM cung cấp các server quản trị và điều chỉnh dùng giao thức Cấu hình Host động (DHCP) và Dịch vụ tên miền (DNS). IPAM bao gồm các thành phần:
+Địa chỉ IP tự động cho việc khám phá hạ tầng: IPAM khám phá các điều khiển tên miền, máy chủ DHCP, và máy chủ DNS trong vùng tên miền lựa chọn. Có thể bật và tắt việc quản lý các server này bởi IPAM.
+Quản lý, báo cáo và hiển thị không gian địa chỉ IP tùy biến: Việc hiển thị các địa chỉ IP có tùy biến cao, truy vết chi tiết và tối ưu dữ liệu được có sẵn. Không gian địa chỉ IPv4 và IPv6 được tổ chức thành các khối địa chỉ IP, vùng địa chỉ IP, và các địa chỉ IP riêng. Địa chỉ IP được tích hợp hay vùng người dùng định nghĩa có thể dùng cho việc tổ chức không gian địa chỉ IP thành mô hình phân cấp, các nhóm lôgíc.
+Kiểm tra thay đổi cấu hình server và truy vết các địa chỉ IP được sử dụng: Các sự kiện hoạt động được hiển thị trên IPAM server và các máy chủ quản lý DHCP. IPAM cũng cho phép truy vết địa chỉ IP dùng các sự kiện DHCP và người dùng đăng nhập thu thập từ máy chủ chính sách mạng (NPS), các điều khiển tên miền và server DHCP. Việc truy vết có sẵn dành cho địa chỉ IP, chỉ số ID khách, tên máy chủ hay tên người dùng.
+Điều chỉnh và quản lý DHCP và các dịch vụ DNS: IPAM cho phép các dịch vụ tự động quản lý các server DHCP và DNS băng qua vùng. Vùng DNS ở trạng thái tốt được hiển thị, và chi tiết máy chủ DHCP và vùng quản lý có sẵn được sử dụng điều khiển dòng lệnh IPAM.
+Cả IPv4 và IPv6 đều được hỗ trợ.  
+
+
+=== Active Directory ===
+Windows Server 8 có một số thay đổi trong Active Directory từ phiên bản ra đời với Windows Server 2008 R2. Dịch vụ cài tự động được thay thế bằng phần mới trong Server Manager, và Trung tâm Quản trị Active Directory được nâng cấp.
+
+
+=== Hyper-V ===
+Windows Server 8, cùng với Windows 8, chứa phiên bản Hyper-V mới, khi giới thiệu tại sự kiện Microsoft BUILD. Nhiều tính năng được thêm vào Hyper-V, bao gồm ảo hóa mạng, multi-tenancy, vùng tài nguyên lưu trữ, kết nối tiền đề chéo và lưu trữ đám mây. Thêm nữa, nhiều hạn chế trước đây trong việc tiêu thụ tài nguyên đã được nâng cấp. Mỗi máy ảo trong phiên bản Hyper-V mới có thể truy cập tới 32 tiến trình, dùng 512 gigabytes bộ nhớ ngẫu nhiên, và 16 terabytes dung lượng đĩa ảo mỗi ổ cứng ảo (dùng chuẩn mới.vhdx). Dùng 1024 máy ảo trên 1 host, và có thể là 4000 có thể kích hoạt trên mỗi failover cluster. Phiên bản Hyper-V đi kèm với phiên bản máy khách của Windows 8 cần tiến trình hỗ trợ SLAT và cho SLAT có thể được bật, trong phiên bản của Windows Server 8 chỉ cần nếu quyền RemoteFX được cài đặt.
+
+
+=== ReFS ===
+
+Resilient File System (ReFS), tên mã là "Protogon", là một hệ thống tập tin mới trong Windows Server 2012 ban đầu dành cho các máy chủ tập tin với các cải thiện so với NTFS. Các tính năng lớn mới của ReFS bao gồm:
+Cải thiện độ tin cậy cho các cấu trúc ổ đĩa
+ReFS sử dụng các cây B+ cho tất các các cấu trúc ổ đĩa bao gồm các dữ liệu metadata và dữ liệu tập tin. Các dữ liệu metadata và dữ liệu tập tin được sắp xếp vào các bảng tương tự như một cơ sở dữ liệu quan hệ. Dung lượng tập tin, số các tập tin trong một thư mục, tổng kích thước phân vùng và số các thư mục trong một ổ đĩa được giới hạn bởi các số 64-bit; chính vì vậy ReFS hỗ trợ tối đa một tập tin có kích thước là 16 Exabyte, tối đa 18.4 × 1018 thư mục và tối đa một phân vùng có kích thước 1 Yottabyte (với các cluster 64 KB) cho phép khả năng mở rộng lớn mà không có giới hạn thực tế nào trên kích thước tập tin và thư mục (vẫn áp dụng giới hạn phần cứng). Dung lượng trống sẽ được tính bởi một bộ cấp phát theo thứ bậc bao gồm ba bảng dành cho các khối lớn, trung và nhỏ. Các tên tập tin và đường dẫn tập tin đều bị giới hạn trong một chuỗi ký tự 32 KB Unicode.
+Tích hợp khả năng phục hồi
+Tương thích với các API và công nghệ hiện tại
+
+
+=== IIS 8.0 ===
+Windows Server 2012 đi kèm phiên bản 8.0 của Internet Information Services (IIS). Phiên bản mới đi kèm với nhiều tính năng như SNI, thông tin sử dụng CPU cho từng trang web cụ thể, quản lý tập trung chứng chỉ SSL, hỗ trợ WebSocket và cải thiện hỗ trợ NUMA, nhưng còn một vài thay đổi nhỏ nữa.
+
+
+=== Phần cứng ===
+Windows Server 2012 hỗ trợ các thông số phần cứng tối đa sau đây. Windows Server 2012 đã có những cải tiến so với phiên bản trước Windows Server 2008 R2:
+
+
+== Yêu cầu hệ thống ==
+Windows Server 2012 chỉ chạy trên các vi xử lý x64. Không giống phiên bản trước, Windows Server 2012 không hỗ trợ Itanium.
+Việc nâng cấp từ các phiên bản Windows Server 2008 và Windows Server 2008 R2 ađược hỗ trợ, mặc dù các nâng cấp khác từ các phiên bản tiếp theo sẽ không được hỗ trợ.
+
+
+== Các phiên bản ==
+Windows Server 2012 có bốn phiên bản: Foundation, Essentials, Standard và Datacenter.
+
+
+== Windows Server 2012 R2 ==
+Windows Server 2012 R2 được phát hành vào ngày 18 tháng 10 năm 2013. Nó đã được giới thiệu vào ngày 3 tháng 6 năm 2013 tại TechEd Bắc Mỹ. Theo bảng dữ liệu của Windows Server 2012 R2 được xuất bản ngày 31 tháng 5 năm 2013, có bốn phiên bản của hệ điều hành này: Foundation, Essentials, Standard và Datacenter. Với Windows Server 2012, hai phiên bản Datacenter và Standard đều có tính năng giống nhau, chỉ khác nhau ở giấy phép. Phiên bản Essentials có cùng tính năng với các sản phẩm Datacenter và Standard, cùng với một vài giới hạn.
+Một bản cập nhật tiếp theo, ban đầu được gọi là Windows Server 2012 R2 Update, được phát hành vào tháng 4 năm 2014.
+Windows Server 2012 R2 được kế nhiệm bởi Windows Server 2016.
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Stanek, William (2013). Windows Server 2012 Inside Out. Microsoft Press. ISBN 978-0-7356-6631-3. 
+Stanek, William (2014). Windows Server 2012 R2 Inside Out Volume 1: Configuration, Storage, & Essentials. Microsoft Press. ISBN 978-0-7356-8267-2. 
+Stanek, William (2014). Windows Server 2012 R2 Inside Out Volume 2: Services, Security, & Infrastructure. Microsoft Press. ISBN 978-0-7356-8255-9. 
+
+
+== Liên kết ngoài ==
+Website chính thức
+Windows Server 2012 R2 and Windows Server 2012 on TechNet
+Windows Server 2012 R2 on MSDN
+Windows Server 2012 on MSDN

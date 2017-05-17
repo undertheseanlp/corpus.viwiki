@@ -1,0 +1,21 @@
+Kilobyte (xuất phát từ tiền tố SI kilo-, có nghĩa là 1.000) là 1.000 byte hoặc 1.024 byte (210), tùy vào ngữ cảnh
+Nó có thể được viết tắt theo nhiều cách: K, KB, Kbyte và kB.
+
+
+== Sự nhập nhằng ==
+
+Số byte chính xác trong một kilobyte từ xưa đến nay rất nhập nhằng. Những vị trí trong các mạch bộ nhớ điện tử được xác định bằng bit vector, nên kích thước có lợi về chi phí nhất đối với mạch bộ nhớ là sử dụng tất cả các giá trị địa chỉ, hay chính là một số mũ 2 nào đó. Vì 1024 là lũy thừa của 2 và chỉ lớn hơn 1000 một ít, nên những nhà sản xuất chip nhớ cho rằng sẽ thuận tiện khi sử dụng bội số của 1024 cho những sản phẩm bán ra thị trường, coi như xấp xỉ hoặc 24 byte thừa ra là chi phí cho sản xuất. Cùng thời gian đó, những tài liệu quảng bá cho sản phẩm không có mô hình lợi về chi phí, như đĩa từ và thiết bị mạng, tiếp tục sử dụng đơn vị dựa theo đúng thập phân.
+Có người đã đề nghị sử dụng tiền tố được viết hoa K để phân biệt lượng số với tiền tố SI k, và mặc dù điều này chưa bao giờ chính thức được yêu cầu, chúng thường được dùng trong thực tế (mặc dù K đã được dùng như ký hiệu SI cho độ kelvin). Tuy nhiên, nó không thể mở rộng cho những tiền tố bậc cao hơn, vì SI đã sử dụng tiền tố m và M với nghĩa lần lượt là "nghìn" và "triệu". Cũng có những đề nghị viết hoa tất cả những tiền tố lớn hơn tiền tố cơ bản (D, H, K, M, G,...), điều này lại mâu thuẫn với ở trên.
+Những tiền tố này do đó có thể được dùng với giá trị trong hệ thập phân (lũy thừa 1000) hoặc nhị phân (lũy thừa 1024), tùy vào ngữ cảnh:
+1024 byte (210): Định nghĩa này luôn luôn được dùng để chỉ dung lượng chip bộ nhớ, và những lượng số khác dựa trên lũy thừa 2. Phần lớn phần mềm sử dụng nó để chỉ dung lượng lưu trữ. Định nghĩa này đã bị cấm tuyệt đối theo tiêu chuẩn SI, và từ năm 1998, phần lớn các tổ chức tiêu chuẩn đề nghị sử dụng thuật ngữ thay thế kibibyte (KiB). Mặc dù từ "kibibyte" ít khi nhìn thấy trong thực tế, nó đang bắt đầu được dùng bởi vài phần mềm, như BitTorrent hay Linux kernel. Tuy nhiên, theo như kiểm tra số hit trên Google, việc sử dụng đơn vị này ít hơn 0,3%.
+1000 byte (103): Định nghĩa này gắn liền với tiền tố SI, và được khuyến khích sử dụng bởi tất cả các tổ chức tiêu chuẩn quốc tế như IEC, IEEE, và ISO, với cách viết tắt là "kB". Sự phổ biến rộng rãi của định nghĩa 1024 cho bộ nhớ và kích thước tập tin có nghĩa là nếu bất kỳ ai sử dụng "kilobyte" với nghĩa là 1000 thì đó mới chính là nguyên nhân gây bối rối. Tuy nhiên, việc sử dụng 1000 rất thường xuyên khi lấy số đo kilobyte từ lượng số trong dựa trên lũy thừa 2, như bitrate (tỷ lệ bit).
+Kilobyte (viết tắt là kB với B hoa) không nên bị nhầm lẫn với thuật ngữ kilobit (viết tắt là kb với b thường).
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Orders of magnitude (data)
+Megabyte
+tiền tố SI

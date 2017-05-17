@@ -1,0 +1,78 @@
+Nước là một hợp chất hóa học của oxy và hidro, có công thức hóa học là H2O. Với các tính chất lý hóa đặc biệt (ví dụ như tính lưỡng cực, liên kết hiđrô và tính bất thường của khối lượng riêng) nước là một chất rất quan trọng trong nhiều ngành khoa học và trong đời sống. 70% diện tích của Trái Đất được nước che phủ nhưng chỉ 0,3% tổng lượng nước trên Trái Đất nằm trong các nguồn có thể khai thác dùng làm nước uống.
+Bên cạnh nước "thông thường" còn có nước nặng và nước siêu nặng. Ở các loại nước này, các nguyên tử hiđrô bình thường được thay thế bởi các đồng vị đơteri và triti. Nước nặng có tính chất vật lý (điểm nóng chảy cao hơn, nhiệt độ sôi cao hơn, khối lượng riêng cao hơn) và hóa học khác với nước thường.
+
+
+== Cấu tạo và tính chất của phân tử nước ==
+
+
+=== Hình học của phân tử nước ===
+Phân tử nước bao gồm hai nguyên tử hiđrô và một nguyên tử ôxy. Về mặt hình học thì phân tử nước có góc liên kết là 104,45°. Do các cặp điện tử tự do chiếm nhiều chỗ nên góc này sai lệch đi so với góc lý tưởng của hình tứ diện. Chiều dài của liên kết O-H là 95,84 picômét.
+
+
+=== Tính lưỡng cực ===
+
+Ôxy có độ âm điện cao hơn hiđrô. Việc cấu tạo thành hình ba góc và việc tích điện từng phần khác nhau của các nguyên tử đã dẫn đến cực tính dương ở các nguyên tử hiđrô và cực tính âm ở nguyên tử ôxy, gây ra sự lưỡng cực. Dựa trên hai cặp điện tử đơn độc của nguyên tử ôxy, lý thuyết VSEPR đã giải thích sự sắp xếp thành góc của hai nguyên tử hiđrô, việc tạo thành moment lưỡng cực và vì vậy mà nước có các tính chất đặc biệt. Vì phân tử nước có tích điện từng phần khác nhau nên một số sóng điện từ nhất định như sóng cực ngắn có khả năng làm cho các phân tử nước dao động, dẫn đến việc nước được đun nóng. Hiện tượng này được áp dụng để chế tạo lò vi sóng.
+
+
+=== Liên kết hiđrô ===
+Các phân tử nước tương tác lẫn nhau thông qua liên kết hiđrô và nhờ vậy có lực hút phân tử lớn. Đây không phải là một liên kết bền vững. Liên kết của các phân tử nước thông qua liên kết hiđrô chỉ tồn tại trong một phần nhỏ của một giây, sau đó các phân tử nước tách ra khỏi liên kết này và liên kết với các phân tử nước khác.
+
+Đường kính nhỏ của nguyên tử hiđrô đóng vai trò quan trọng cho việc tạo thành các liên kết hiđrô, bởi vì chỉ có như vậy nguyên tử hiđrô mới có thể đến gần nguyên tử ôxy một chừng mực đầy đủ. Các chất tương đương của nước, Ví dụ như đihiđrô sulfua (H2S), không tạo thành các liên kết tương tự vì hiệu số điện tích quá nhỏ giữa các phần liên kết. Việc tạo chuỗi của các phân tử nước thông qua liên kết cầu nối hiđrô là nguyên nhân cho nhiều tính chất đặc biệt của nước, ví dụ như nước mặc dù có khối lượng mol nhỏ vào khoảng 18 g/mol vẫn ở thể lỏng trong điều kiện tiêu chuẩn. Ngược lại, H2S tồn tại ở dạng khí cùng ở trong những điều kiện này. Nước có khối lượng riêng lớn nhất ở 4 độ Celcius và nhờ vào đó mà băng đá có thể nổi lên trên mặt nước; hiện tượng này được giải thích nhờ vào liên kết cầu nối hiđrô.
+
+
+== Các tính chất hóa lý của nước ==
+Cấu tạo của phân tử nước tạo nên các liên kết hiđrô giữa các phân tử là cơ sở cho nhiều tính chất của nước. Cho đến nay một số tính chất của nước vẫn còn là câu đố cho các nhà nghiên cứu mặc dù nước đã được nghiên cứu từ lâu.
+Nhiệt độ nóng chảy và nhiệt độ sôi của nước đã được Anders Celsius dùng làm hai điểm mốc cho độ bách phân Celcius. Cụ thể, nhiệt độ đóng băng của nước là 0 độ Celcius, còn nhiệt độ sôi (760 mm Hg) bằng 100 độ Celcius. Nước đóng băng được gọi là nước đá. Nước đã hóa hơi được gọi là hơi nước. Nước có nhiệt độ sôi tương đối cao nhờ liên kết hiđrô.
+Dưới áp suất bình thường nước có khối lượng riêng (tỷ trọng) cao nhất là ở 4 °C: 1 g/cm³ đó là vì nước vẫn tiếp tục giãn nở khi nhiệt độ giảm xuống dưới 4 °C. Điều này không được quan sát ở bất kỳ một chất nào khác. Điều này có nghĩa là: Với nhiệt độ trên 4 °C, nước có đặc tính giống mọi vật khác là nóng nở, lạnh co; nhưng với nhiệt độ dưới 4 °C, nước lại lạnh nở, nóng co. Do hình thể đặc biệt của phân tử nước (với góc liên kết 104,45°), khi bị làm lạnh các phân tử phải dời xa ra để tạo liên kết tinh thể lục giác mở. Vì vậy mà tỉ trọng của nước đá nhẹ hơn nước thể lỏng.
+
+Nước là một dung môi tốt nhờ vào tính lưỡng cực. Các hợp chất phân cực hoặc có tính ion như axít, rượu và muối đều dễ tan trong nước. Tính hòa tan của nước đóng vai trò rất quan trọng trong sinh học vì nhiều phản ứng hóa sinh chỉ xảy ra trong dung dịch nước.
+Nước tinh khiết không dẫn điện. Mặc dù vậy, do có tính hòa tan tốt, nước hay có tạp chất pha lẫn, thường là các muối, tạo ra các ion tự do trong dung dịch nước cho phép dòng điện chạy qua.
+Về mặt hóa học, nước là một chất lưỡng tính, có thể phản ứng như một axit hay bazơ. Ở 7 pH (trung tính) hàm lượng các ion hydroxyt (OH-) cân bằng với hàm lượng của hydronium (H3O+). Khi phản ứng với một axit mạnh hơn ví dụ như HCl, nước phản ứng như một chất kiềm:
+HCl + H2O ↔ H3O+ + Cl-
+Với ammoniac nước lại phản ứng như một axit:
+NH3 + H2O ↔ NH4+ + OH-
+
+
+== Nước trong đời sống ==
+Cuộc sống trên Trái Đất bắt nguồn từ trong nước. Tất cả các sự sống trên Trái Đất đều phụ thuộc vào nước và vòng tuần hoàn nước.
+Nước có ảnh hưởng quyết định đến khí hậu và là nguyên nhân tạo ra thời tiết. Năng lượng mặt trời sưởi ấm không đồng đều các đại dương đã tạo nên các dòng hải lưu trên toàn cầu. Dòng hải lưu Gulf Stream vận chuyển nước ấm từ vùng Vịnh Mexico đến Bắc Đại Tây Dương làm ảnh hưởng đến khí hậu của vài vùng châu Âu.
+Nước là thành phần quan trọng của các tế bào sinh học và là môi trường của các quá trình sinh hóa cơ bản như quang hợp.
+Hơn 75% diện tích của Trái Đất được bao phủ bởi nước. Lượng nước trên Trái Đất có vào khoảng 1,38 tỉ km³. Trong đó 97,4% là nước mặn trong các đại dương trên thế giới, phần còn lại, 2,6%, là nước ngọt, tồn tại chủ yếu dưới dạng băng tuyết đóng ở hai cực và trên các ngọn núi, chỉ có 0,3% nước trên toàn thế giới (hay 3,6 triệu km³) là có thể sử dụng làm nước uống. Việc cung cấp nước uống sẽ là một trong những thử thách lớn nhất của loài người trong vài thập niên tới đây. Nguồn nước cũng đã là nguyên nhân gây ra một trong những cuộc chiến tranh ở Trung Cận Đông.
+Nước được sử dụng trong công nghiệp từ lâu như là nguồn nhiên liệu (cối xay nước, máy hơi nước, nhà máy thủy điện), Như là chất trao đổi nhiệt.
+Nhà triết học người Hy Lạp Empedocles đã coi nước là một trong bốn nguồn gốc tạo ra vật chất (bên cạnh lửa, đất và không khí). Nước cũng nằm trong Ngũ Hành của triết học cổ Trung Hoa.
+Với tình trạng ô nhiễm ngày một nặng và dân số ngày càng tăng, nước sạch dự báo sẽ sớm trở thành một thứ tài nguyên quý giá không kém dầu mỏ trong thế kỷ trước. Nhưng không như dầu mỏ có thể thay thế bằng các loại nhiên liệu khác như điện, nhiên liệu sinh học, khí đốt..., nước không thể thay thế và trên thế giới tất cả các dân tộc đều cần đến nó để bảo đảm cuộc sống của mình, cho nên vấn đề nước trở thành chủ đề quan trọng trên các hội đàm quốc tế và những mâu thuẫn về nguồn nước đã được dự báo trong tương lai.
+
+
+== Đọc thêm ==
+Chiến tranh nước
+Nước uống
+Nước ngọt
+OA Jones, JN Lester and N Voulvoulis, Pharmaceuticals: a threat to drinking water? TRENDS in Biotechnology 23(4): 163, 2005
+Franks, F (Ed), Water, A comprehensive treatise, Plenum Press, New York, 1972–1982
+PH Gleick and associates, The World's Water: The Biennial Report on Freshwater Resources. Island Press, Washington, D.C. (published every two years, beginning in 1998.)
+Marks, William E., The Holy Order of Water: Healing Earth's Waters and Ourselves. Bell Pond Books (a div. of Steiner Books), Great Barrington, MA, November 2001 [ISBN 0-88010-483-X]
+Debenedetti, P. G., and Stanley, H. E.; "Supercooled and Glassy Water", Physics Today 56 (6), p. 40–46 (2003). Downloadable PDF (1.9 MB)
+
+
+=== Nước như một nguồn tài nguyên tự nhiên ===
+Anderson (1991). Water Rights: Scarce Resource Allocation, Bureaucracy, and the Environment. ISBN 0884103900. 
+Maude Barlow, Tony Clarke (2003). Blue Gold: The Fight to Stop the Corporate Theft of the World's Water. ISBN 1565848136. 
+Gleick, Peter H. The World's Water: The Biennial Report on Freshwater Resources. Washington: Island Press. ISBN 1559637927. 
+Miriam R. Lowi (1995). Water and Power: The Politics of a Scarce Resource in the Jordan River Basin. ISBN 0521431646.  (Cambridge Middle East Library)
+William E. Marks (2001). The Holy Order of Water: Healing Earths Waters and Ourselves. 
+Postel, Sandra (1997, second edition). Last Oasis: Facing Water Scarcity. New York: Norton Press. ISBN 0393034283.  
+Reisner, Marc (1993). Cadillac Desert: The American West and Its Disappearing Water. ISBN 0670199273. 
+Vandana Shiva (2002). Water Wars: Privatization, Pollution, and Profit. London: Pluto Press [u.a.] ISBN 0-7453-1837-1. OCLC 231955339. 
+Anita Roddick và đồng nghiệp (2004). Troubled Water: Saints, Sinners, Truth And Lies About The Global Water Crisis. ISBN 095439593X.  Bảo trì CS1: Định rõ "và đồng nghiệp" (link)
+Marq de Villiers (2003, revised edition). Water: The Fate of Our Most Precious Resource. ISBN 0618030093.  
+Diane Raines Ward (2002). Water Wars: Drought, Flood, Folly and the Politics of Thirst. ISBN 1573222291. 
+Worster, Donald (1992). Rivers of Empire: Water, Aridity, and the Growth of the American West. ISBN 039451680X. 
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+ Phương tiện liên quan tới Water tại Wikimedia Commons
+Nước tại Từ điển bách khoa Việt Nam
+Water tại Encyclopædia Britannica (tiếng Anh)

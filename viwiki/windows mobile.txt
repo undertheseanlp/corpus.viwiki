@@ -1,0 +1,66 @@
+Windows Mobile là một hệ điều hành loại thu gọn kết hợp với một bộ các ứng dụng cơ bản cho các thiết bị di động dựa trên giao diện lập trình ứng dụng Win32 của Microsoft. Các thiết bị chạy Windows Mobile bao gồm Pocket PC, Smartphone, Portable Media Center, và các máy tính lắp sẵn (on-board) cho một số loại ô tô. Ngoài ra, một số máy tính xách tay loại nhỏ (ultra-portable notebook) cũng có thể sử dụng hệ điều hành này.Windows Mobile được thiết kế để có giao diện và các tính năng tương tự với các phiên bản máy tính bàn dùng hệ điều hành của Windows. Xuất hiện lần đầu với tên hệ điều hành Pocket PC 2000, Windows Mobile đã được nâng cấp vài lần, phiên bản cuối cùng là Windows Mobile 6.
+
+
+== Đặc tính thông dụng ==
+Tái hiện lại cách làm việc của một máy vi tính trên thiết bị cầm tay.
+Trong hệ điều hành này có sẵn bộ office nhưng công cụ này không có đầy đủ chức năng như bộ office dành cho máy tính. Ngoài ra, người dùng windows mobile có thể lướt web bằng trình duyệt Internet Explorer dành riêng cho hệ điều hành này.
+
+
+== Nền phần cứng ==
+
+
+=== Các thiết bị sử dụng ===
+Phần lớn các thiết bị dùng Windows Mobile thường được sản xuất bởi HTC (High Tech Computer) của Đài Loan cùng các hãng khác như Samsung, Sony Ericsson, Motorola,... và một vài loại điện thoại mang tên của nhà mạng được cung cấp bởi HTC(O2 của Anh).
+
+
+== Danh sách 9 thiết bị cài Windows Mobile nổi tiếng nhất ==
+1.HTC Touch HD
+2.Samsung Omnia
+3.HTC Touch Cruise Series
+4.HTC Touch Diamond 1 & 2
+5.HTC Touch 1 & 2
+6.Motorola Q
+7.O2 Atom
+8.O2 Mini
+9.HTC Shift (UMPC-Phiên bản nâng cấp của HTC Advantage)
+
+- 3.1 Pocket PC 2000
+- 3.2 Pocket PC 2002
+- 3.3 Windows Mobile 2003
+- 3.4 Windows Mobile 2003 SE
+- 3.5 Windows Mobile 5
+- 3.6 Windows Mobile 6
+- 3.7 Windows Mobile 6.1
+- 3.8 Windows Mobile 6.5
+- 3.9 Windows Mobile 6.5.1
+- 3.10 Windows Mobile 6.5.3
+- 3.11 Windows Mobile 6.5.5
+
+
+== Phiên bản trong tương lai ==
+-Hiện tại, Microsoft đã chính thức ngưng hỗ trợ các điện thoại sử dụng Windows Mobile, và thay thế nó bằng Windows Phone.
+
+
+== Tình trạng hiện hữu và phát triển ==
+-Windows Mobile 6.5.3: Phiên bản cuối cùng của Windows Mobile, phát hành năm 2009.
+-Windows Phone: Thế hệ tiếp nối Windows Mobile, phiên bản hiện tại là Windows 10 Mobile
+
+
+== Các phần mềm tương thích ==
+Windows Mobile có chợ ứng dụng Marketplace được tích hợp mặc định và đi kèm với bộ Office bao gồm các phần mềm quen thuộc trên Windows như Word, Excel,... với một vài tính năng bị lược bỏ.
+
+
+== Windows Mobile và OS-tan ==
+
+Tại Nhật Bản, các hệ điều hành đều có một nhân vật đại diện được vẽ theo phong cách Anime nhật dựa trên các đặc điểm (Ưu; khuyết; lỗi; sự cố; giao diện; tính tương thích;...) đều được gọi chung là OS-tan trong tiếng Nhật. Windows Mobile vốn phát triển từ nền của Windows CE nên hình đại diện vẫn giữ nguyên là Windows CE với hình tiên nữ tí hon cầm cây "đũa thần USB" (USB wand).
+Giải thích: Windows CE vốn dành cho các thiết bị di động nên sử dụng hình ảnh tiên nữ tí hon nhằm thể hiện tính "di động" của mình. Đũa thần USB có nghĩa là từ phiên bản Pocket PC 2000 thì nền Windows CE đã tương thích với chuẩn USB (Universal Serial Bus). Thông thường Windows CE-tan (CE-tan) hay xuất hiện cạnh Windows ME-tan (ME-tan).
+
+
+== Đánh giá ==
+Nhìn chung, Windows Mobile được coi là một hệ điều hành thất bại toàn diện của Microsoft. Không có nhiều hãng phần cứng thực sự mặn mà với nó, trong khi giá thiết bị đầu cuối cao, và thiếu ổn định trong màn hình cảm ứng khiến hệ điều hành này chỉ đến được với một số nhỏ người dùng thiết bị di động.[cần dẫn nguồn]
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==

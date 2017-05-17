@@ -1,0 +1,154 @@
+Electron (tiếng Việt đọc là: ê lếch t-rôn hay ê lếch t-rông) còn gọi là điện tử, được biểu diễn như là e−, là một hạt hạ nguyên tử, hay hạt sơ cấp. Trong nguyên tử, electron chuyển động xung quanh hạt nhân (bao gồm các proton và neutron) trên quỹ đạo electron. Từ electron bắt nguồn từ tiếng Hy Lạp ηλεκτρον (phát âm là "êlectron") có nghĩa là "hổ phách" do người Hy Lạp cổ đại lần đầu tiên quan sát thấy khả năng hút các vật nhỏ (do lực hút tĩnh điện) của một miếng hổ phách sau khi được chà xát với lông thú.
+Các electron có điện tích và khi chúng chuyển động sẽ sinh ra dòng điện. Vì các electron trong nguyên tử xác định phương thức mà nó tương tác với các nguyên tử khác nên chúng đóng vai trò quan trọng trong hóa học.
+
+
+== Electron trong thực tế ==
+
+
+=== Phân loại electron ===
+Electron thuộc về một lớp các hạt dưới nguyên tử gọi là lepton, người ta tin rằng chúng là những hạt cơ bản (có nghĩa là chúng không thể bị phân chia thành những phần nhỏ hơn).
+Từ "hạt" có thể gây nhầm lẫn, vì cơ học lượng tử đã chỉ ra rằng electron có những tính chất như là sóng, ví dụ như trong thí nghiệm giao thoa; nó được gọi là lưỡng tính sóng-hạt.
+
+
+=== Các thuộc tính và tính chất của electron ===
+Êlectron có điện tích âm −1.602 × 10−19 coulomb, và khối lượng khoảng 9.1094 × 10−31 kg (0.51 MeV/c²), xấp xỉ 1/1836 khối lượng của proton.
+Các thuyết quỹ đạo nêu lên chuyển động của electron xung quanh hạt nhân là một chủ đề gây tranh cãi. Electron không chuyển động trên một quỹ đạo cố định mà có lẽ nó xuất hiện tại một số điểm trong khu vực xung quanh quỹ đạo hạt nhân (với xác suất khoảng 90% thời gian là trên quỹ đạo tính toán).
+Electron có spin ½, nghĩa là nó thuộc về lớp hạt fermion, hay tuân theo thống kê Fermi-Dirac.
+Trong khi phần lớn các electron tìm thấy trong nguyên tử thì một số khác lại chuyển động độc lập trong vật chất hay cùng với nhau như những chùm điện tử trong chân không. Trong một số chất siêu dẫn, các electron chuyển động theo từng cặp.
+Khi các electron chuyển động tự do theo một hướng xác định thì tạo thành dòng điện.
+Tĩnh điện không phải là dòng chuyển động của các electron. Nó chỉ tới những vật có nhiều hoặc ít electron hơn số lượng cần thiết để cân bằng với điện tích dương của hạt nhân. Khi có nhiều electron hơn proton, vật được gọi là có "tích điện âm", ngược lại khi có ít electron hơn proton, vật được gọi là có "tích điện dương". Khi số electron bằng số prôton, vật được gọi là "trung hòa" về điện.
+Các electron và positron có thể tiêu hủy lẫn nhau để sản xuất ra photon. Ngược lại, một photon cao năng lượng có thể chuyển hóa thành electron và positron bởi một quy trình gọi là sản xuất cặp.
+Electron là một hạt cơ bản – có nghĩa là nó không có cấu trúc hạ tầng (ít nhất, các thí nghiệm đã không tìm thấy và đây là lý do tốt để tin rằng nó không có). Vì vậy, nó được miêu tả như là một điểm, có nghĩa trong nó không có khoảng không. (Tuy nhiên, nếu chúng ta tiến đến thật gần một electron, chúng ta có thể nhận thấy các thuộc tính của nó (như điện tích và khối lượng) dường như đã biến đổi. Hiệu ứng này là chung cho tất cả các hạt cơ bản: vì các hạt này tác động tới những dao động trong chân không trong những vùng phụ cận chúng, vì vậy các thuộc tính được nhận thấy từ xa là tổng của các thuộc tính thực sự và các ảnh hưởng của chân không – Xem thêm tiêu chuẩn hóa.)
+Trong vật lý có một hằng số gọi là bán kính êlectron cổ điển, với giá trị là 2.8179 × 10−15 m. Lưu ý rằng đây là bán kính được suy ra từ điện tích của nó nếu như các nhà vật lý chỉ sử dụng các lý thuyết điện từ học cổ điển của động lực điện mà không có cơ học lượng tử (vì thế, nó là một khái niệm đã lỗi thời, tuy nhiên thỉnh thoảng người ta vẫn sử dụng trong tính toán).
+Vận tốc của êlectron trong chân không xấp xỉ nhưng không bao giờ bằng c, hay vận tốc ánh sáng trong chân không. điều này là do hiệu ứng của thuyết tương đối. Hiệu ứng của thuyết tương đối dựa trên một đại lượng được biết đến như là gamma hay hệ số Lorentz. Gamma là một hàm của v - vận tốc của hạt, và c. Dưới đây là công thức của gamma:
+
+  
+    
+      
+        γ
+        =
+        1
+        
+          /
+        
+        
+          
+            1
+            −
+            (
+            
+              v
+              
+                2
+              
+            
+            
+              /
+            
+            
+              c
+              
+                2
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle \gamma =1/{\sqrt {1-(v^{2}/c^{2})}}}
+  
+Năng lượng cần thiết để gia tốc một hạt thì bằng gamma trừ đi 1 lần khối lượng tĩnh. Ví dụ, máy gia tốc tại Đại học Stanford có thể gia tốc êlectron tới khoảng 51 GeV. Máy gia tốc này cung cấp gamma bằng 100.000 lần khối lượng tĩnh của êlectron là 0.51 MeV/c² (khối lượng tương đối của êlectron nhanh này là 100.000 lần khối lượng tĩnh của nó). Giải phương trình trên ta có vận tốc của êlectron nhanh nói trên là 
+  
+    
+      
+        (
+        1
+        −
+        
+          
+            1
+            2
+          
+        
+        
+          γ
+          
+            −
+            2
+          
+        
+        )
+        c
+      
+    
+    {\displaystyle (1-{\frac {1}{2}}\gamma ^{-2})c}
+   = 0.99999999995 c. (Công thức này áp dụng khi γ lớn.)
+
+
+=== Electron trong vũ trụ ===
+
+Người ta cho rằng số lượng electron để có thể bao trùm vũ trụ là 10130 (1 với 130 số 0 theo sau.)
+Người ta cho rằng số lượng electron hiện có trong vũ trụ là khoảng 1079 (1 với 79 số 0 theo sau.)
+Các dòng electron từ gió Mặt Trời tương tác với tầng cao của khí quyển Trái Đất, có thể gây nên hiện tượng phát sáng, gọi là cực quang.
+
+
+=== Electron trong cuộc sống ===
+Dòng điện cung cấp cho các thiết bị điện trong nhà và tại công nghiệp là dòng chuyển động có hướng của các electron. Ống tia âm cực của ti vi sử dụng chùm điện tử trong chân không để tạo ra hình ảnh trên màn hình lân quang. Tính chất lượng tử của electron được sử dụng trong các thiết bị bán dẫn như transistor.
+
+
+=== Electron trong công nghiệp ===
+Chùm electron được sử dụng trong hàn điện cũng như trong kỹ thuật in đá.
+
+
+== Electron trong phòng thí nghiệm ==
+
+
+=== Các thí nghiệm phát kiến ===
+Bản chất lượng tử hay rời rạc của điện tích của electron được quan sát bởi Robert Millikan trong thí nghiệm dầu nhỏ giọt năm 1909.
+
+
+=== Đo lường ===
+Spin của electron được phát hiện trong thí nghiệm Stern-Gerlach.
+Điện tích có thể đo trực tiếp bằng các électromètre.
+Dòng điện có thể đo trực tiếp bằng các galvanomètre.
+
+
+=== Sử dụng electron trong phòng thí nghiệm ===
+Kính hiển vi điện tử được sử dụng để phóng to các chi tiết tới 500.000 lần. Hiệu ứng lượng tử của êlectron được sử dụng trong Kính hiển vi quét chui hầm (Microscope à effet tunnel) để nghiên cứu các vật liệu ở thang đo kích thước nguyên tử (2x10−10 m).
+
+
+== Electron trong lý thuyết ==
+Trong cơ học lượng tử, electron được mô tả trong phương trình Dirac. Trong mô hình chuẩn của vật lý hạt, nó tạo thành một cặp trong SU(2) với neutrino, vì chúng tương tác với nhau bằng lực tương tác yếu. Electron có hai "người bạn" to lớn, với cùng điện tích nhưng khác nhau về khối lượng là: muyon và tauon.
+Trong thế giới phản vật chất, phản hạt của electron là positron. Positron có cùng các giá trị thuộc tính (khối lượng, spin, giá trị tuyệt đối của điện tích) như electron, ngoại trừ nó mang điện tích dương. Khi electron gặp positron, chúng có thể tiêu diệt lẫn nhau, tạo thành hai photon trong tia gamma, mỗi tia có năng lượng 0.511 MeV (511 keV). Xem thêm Sự hủy diệt electron-positron.
+Electron còn là yếu tố cơ bản trong điện từ trường, là lý thuyết gần đúng cho các hệ thống vĩ mô.
+
+
+== Lịch sử ==
+Electron được đề nghị bởi George Johnstone Stoney như là đơn vị điện tích trong điện hóa học, nhưng cũng nhận ra rằng nó còn là hạt hạ nguyên tử.
+Electron được khám phá bởi J.J. Thomson năm 1897 tại phòng thí nghiệm Cavendish của trường Đại học Cambridge, trong khi nghiên cứu về "tia âm cực". Chịu ảnh hưởng bởi nghiên cứu của James Clerk Maxwell, cũng như sự phát minh ra tia X, ông đã suy ra rằng tia âm cực tồn tại và là những hạt mang điện tích âm, ông gọi nó là "corpuscles".
+
+
+== Xem thêm ==
+Mô hình chuẩn
+Hạt hạ nguyên tử
+Proton
+Neutron
+Hiệu ứng quang điện
+Ánh sáng
+Danh sách các hạt
+Tia âm cực
+
+
+== Tham khảo ==
+
+Brumfiel, G. (6 tháng 1 năm 2005). "Can electrons do the splits?" Trong Nature, 433, 11.
+an article about physicist Senthil Todadri; describes efforts to reform the current understanding of electrons (tiếng Anh)
+
+
+== Liên kết ngoài ==
+Electron tại Từ điển bách khoa Việt Nam
+Electron (Subatomic particle) tại Encyclopædia Britannica (tiếng Anh)
+Particle Data Group
+Stoney, G. Johnstone, "Of the 'Electron,' or Atom of Electricity". Philosophical Magazine. Series 5, Volume 38, p. 418-420 October 1894.
+Electron tại Eric Weisstein's World of Physics

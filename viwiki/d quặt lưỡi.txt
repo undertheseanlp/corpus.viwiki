@@ -1,0 +1,6 @@
+D quặt lưỡi (Ɖ, ɖ) là chữ Latinh có nghĩa âm tắc quặt lưỡi hữu thanh [ɖ]. Dạng viết hoa được gọi D châu Phi (African D) trong tiêu chuẩn Unicode vì nó được sử dụng chủ yếu trong các ngôn ngữ châu Phi có bảng chữ cái phỏng theo bảng chữ cái mẫu châu Phi, bao gồm các tiếng Ewe, Fon, Aja, và Bassa. Dạng viết thường, tức "d có đuôi" hoặc "d có móc quặt lưỡi", cũng có nghĩa âm tắc quặt lưỡi hữu thanh trong Bảng phiên âm quốc gia. Tuy nhiên, trong các bảng phiên âm Ấn Độ, phụ âm này được ghi là chữ d có dấu nặng: ḍ.
+Dạng viết hoa dễ bị nhầm lẫn với chữ eth (Ð, ð) của các tiếng Iceland, Faroe, và Anh cổ, cũng như chữ D có dấu gạch ngang (Đ, đ) của các tiếng Việt, Serbia-Croatia, và Sami.
+Trong Unicode, dạng viết hoa Ɖ là ký tự U+0189 trong khối Latin Extended-B, trong khi dạng viết thường ɖ là U+0256 trong khối IPA Extensions.
+
+
+== Tham khảo ==

@@ -1,0 +1,11 @@
+SGML (Viết tắt của Standard Generalized Markup Language), một hệ thống tổ chức và gắn thẻ yếu tố của một tài liệu. SGML được phát triển và tiêu chuẩn hóa bởi Tổ chức Tiêu chuẩn quốc tế (ISO) vào năm 1986. SGML chính nó không chỉ định bất kỳ đặc biệt là định dạng mà nó quy định cụ thể các quy tắc cho các yếu tố gắn thẻ. Các thẻ sau đó có thể được giải thích để các yếu tố định dạng theo nhiều cách khác nhau.
+SGML được sử dụng rộng rãi để quản lý các văn bản lớn mà có thể bản sửa đổi thường xuyên và cần phải được in trong các định dạng khác nhau. Bởi vì nó là một hệ thống lớn và phức tạp, đó là chưa sử dụng rộng rãi trên máy tính cá nhân.Tuy nhiên, sự phát triển của Internet, và đặc biệt là World Wide Web, đang tạo ra đổi mới quan tâm đến SGML vì World Wide Web sử dụng HTML, mà là một cách để xác định và thông dịch thẻ theo các quy tắc SGML
+Nó là một tập hợp bao gồm các thẻ (tag) đánh dấu, các phần tử, và nhãn. Các thẻ đánh dấu được giới hạn bằng hai ký tự “<” và “>” để phân biệt với phần dữ liệu. Ngôn ngữ này sử dụng DTD (Document Type Definition), nó là một dạng tài liệu có cú pháp đặc biệt, được dùng để định nghĩa các phần tử có thể sẽ xuất hiện trong một tài liệu và trật tự sắp xếp của chúng.
+HTML là một ngôn ngữ đánh dấu dựa trên SGML được dùng để tạo ra các tài liệu hiển thị trên các trình duyệt Web. Tuy được xây dựng dựa trên SGML nhưng ngôn ngữ được sử dụng rộng rãi này lại không hoàn toàn tuân theo SGML do không cần dùng DTD cũng như nó không đòi hỏi phải tuân theo các qui luật sử dụng các phần tử trong tài liệu. Ví dụ
+HTML cho phép sử dụng một thẻ mở (<p>) mà không cần phải có một thẻ đóng (</p>).
+Do nhu cầu sử dụng ngôn ngữ đánh dấu cho những mục đích khác chứ không chỉ là hiển thị đơn thuần (như HTML), ngôn ngữ XML đã ra đời. Do XML có cấu trúc rất nghiêm ngặt và rất uyển chuyển, nên có thể được sử dụng cho nhiều mục đích khác như: thương mại điện tử, xử lý cơ sở dữ liệu v.v..
+XHTML đại diện cho sự cách mạng của HTML, nó gần như giống với HTML nhưng lại tuân theo cú pháp nghiêm ngặt của XML. XHTML được sử dụng để trình bày nội dung trên các trình duyệt Web giống như HTML đã làm.
+WML là một ngôn ngữ XML dùng một DTD riêng của nó. WML được sử dụng để soạn thảo các nội dung được sử dụng để hiển thị trên các thiết bị di động.
+
+
+== Tham khảo ==

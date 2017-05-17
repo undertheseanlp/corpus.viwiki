@@ -1,0 +1,138 @@
+BASIC là một ngôn ngữ lập trình bậc cao, đơn giản, dễ sử dụng, nhằm đơn giản hóa quá trình lập trình. BASIC được phát minh vào năm 1963 bởi các giáo sư John George Kemeny và Thomas Eugene Kurtz thuộc viện Đại học Dartmouth (Dartmouth College).
+BASIC là viết tắt của Beginner's All-purpose Symbolic Instruction Code trong tiếng Anh.
+
+
+== Lịch sử ==
+
+
+=== Bối cảnh ra đời ===
+Cho đến giữa thập niên 1960, máy tính là những công cụ khá đắt giá chỉ dùng cho các công việc có mục đích đặc biệt. Với cách xử lý theo khối (batch), những máy tính trên chỉ chạy một chương trình tại một thời điểm. Tuy vậy, trong thập niên này giá máy tính đã hạ đủ để cho các công ty nhỏ cũng có thể mua được, và tốc độ của chúng đã tăng đến mức đa số thời gian của chúng là rỗi.
+Các ngôn ngữ lập trình của thời đó thường được thiết kế giống như máy tính chạy chúng, chỉ cho các mục đích đặc thù (như xử lý các công thức khoa học, hay soạn thảo văn bản). Vì những máy chỉ xử lý một công việc như vậy có giá đắt nên có khuynh hướng chỉ quan tâm đến tốc độ xử lý của máy tính là chính. Các ngôn ngữ đặc thù đó nói chung là khó dùng và sử dụng các cú pháp khác nhau.
+Tại thời điểm đó ý tưởng hệ thống chia sẻ thời gian bắt đầu trở nên phổ biến. Trong những hệ thống như vậy thời gian xử lý của máy chủ được chia nhỏ ra và mỗi người sử dụng được một thời gian ngắn tuần tự. Sự luân chuyển đó đủ nhanh để người sử dụng sẽ có cảm giác là họ được sử dụng toàn bộ máy. Theo lý thuyết, việc chia sẻ thời gian giảm thiểu được rất nhiều chi phí khi một máy tính có thể chia sẻ cho hàng trăm người dùng.
+
+
+=== Những năm đầu - thời đại của máy vi tính ===
+Ngôn ngữ BASIC nguyên thủy được John Kemeny và Thomas Kurtz lập ra năm 1963 và được một nhóm sinh viên trường Dartmouth thực hiện dưới sự chỉ đạo của hai ông. BASIC cho phép sinh viên viết chương trình cho hệ thống chia sẻ thời gian Dartmouth. Với mục đích làm giảm bớt sự phức tạp của các ngôn ngữ cũ, BASIC được thiết kế để cho các thế hệ người sử dụng mới có thể tận dụng hệ thống chia sẻ thời gian để lập trình. BASIC đầu tiên này thường được nhắc đến như Dartmouth BASIC.
+Tám nguyên tắc khi thiết kế BASIC:
+Dễ sử dụng ngay cả với người mới học.
+Ngôn ngữ lập trình cho mọi mục đích
+Cho phép các khả năng lập trình nâng cao dành riêng cho các chuyên gia mà vẫn giữ được sự đơn giản cho người mới học.
+Có tương tác với người dùng
+Các thông báo lỗi rõ ràng và thân thiện.
+Chạy nhanh với các chương trình nhỏ
+Không cần phải hiểu biết về phần cứng máy tính
+Đứng giữa người sử dụng và hệ điều hành
+Ngôn ngữ này dựa một phần trên ngôn ngữ FORTRAN và một phần trên ngôn ngữ Algol 60, thêm vào khả năng chia sẻ thời gian, xử lý văn bản và ma trận. BASIC được cài đặt đầu tiên trên máy mainframe GE-2000 series với nhiều terminal. Khởi đầu nó là ngôn ngữ phiên dịch.
+Những người thiết kế ngôn ngữ này quyết định nó vẫn nên ở phạm vi công cộng để ngôn ngữ trở nên phổ biến. Họ cũng phổ biến nó cho các trường trung học trong vùng Dartmouth và đóng góp nhiều công sức trong việc làm tăng tiến ngôn ngữ này. Kết quả là, sự hiểu biết về BASIC trở nên tương đối phổ biến cho một ngôn ngữ máy tính và BASIC đã được cung cấp bởi một số nhà sản xuất, và trở nên khá quen thuộc trên các máy vi tính mới như dòng máy DEC PDP và Data General Nova. Ở các máy này, ngôn ngữ có khuynh hướng được cung cấp như một ngôn ngữ phiên dịch, thay vì một ngôn ngữ biên dịch.
+Vài năm sau khi được công bố, các chuyên gia máy tính đáng kính, đặc biệt là Edsger W. Dijkstra, bày tỏ ý kiến về việc dùng câu lệnh GOTO (câu lệnh này đã có trong nhiều ngôn ngữ kể cả BASIC), nâng cao các bài tập lập trình nghèo nàn. Một vài người còn chế giễu BASIC quá chậm hoặc quá đơn giản.
+
+
+=== Sự phát triển bùng nổ - Kỉ nguyên máy tính gia đình ===
+Tuy ngôn ngữ này đã được dùng trên một vài máy vi tính, nhưng việc giới thiệu máy vi tính Altair 8800 vào năm 1975 đã thực sự phổ biến BASIC. Hầu hết ngôn ngữ lập trình đều quá lớn so với bộ nhớ ít ỏi trong những máy tính này, và với việc lưu trữ chậm chạp trên băng giấy (băng audio cassette, các loại đĩa sau đó cũng không có trong nhiều năm) và với việc thiếu các ứng dụng xử lý văn bản, một ngôn ngữ nhỏ như BASIC thực sự phù hợp. BASIC cũng có lợi thế là nó khá nổi tiếng với những nhà thiết kế trẻ, những người quan tâm đến máy vi tính vào ngay thời điểm thành quả của Kemeny và Kurtz bắt đầu bị bỏ qua. Một trong những ngôn ngữ đầu tiên xuất hiện cho máy tính này là Tiny BASIC, một sự bổ sung đơn giản cho BASIC đầu tiên được viết bởi Giáo sư. Li-Chen Wang, và sau đó được chuyển sang máy Altair bởi Dennis Allison theo yêu cầu của Bob Albrecht (người sau đó đã thành lập Dr. Dobb's Journal). Thiết kế và toàn bộ mã nguồn của Tiny BASIC đã được công bố vào năm 1976 trong Dr. Dobb's Journal.
+Các công ty mới cố gắng theo đuổi sự thành công của MITS, IMSAI, North Star và Apple, do đó đã tạo ra một cuộc cách mạng máy tính gia đình; lúc đó, BASIC trở thành một phần chuẩn của tất cả máy tính nhưng lại rất ít có ở máy tính gia đình. Hầu hết xuất hiện với một trình thông dịch BASIC trong ROM. Sau đó, có nhiều triệu máy tính trên thế giới chạy BASIC, với một số lượng người dùng lớn hơn nhiều so với tất cả người dùng của các ngôn ngữ khác cộng lại.
+Năm 1975, Micro-Soft (lúc đó chỉ có hai người - Bill Gates và Paul Allen) công bố Altair BASIC. Phiên bản được viết cho máy Altair có đồng tác giả là Gates, Allen và Monte Davidoff. Các phiên bản của Microsoft BASIC sau đó bắt đầu xuất hiện trong các nền tảng khác theo bản quyền, và hàng triệu bản sao và biến thể đã sớm được sử dụng; nó trở thành một trong nhiều ngôn ngữ chuẩn của máy Apple II. Khoảng 1979, Microsoft đã thảo luận với một vài nhà bán lẻ máy vi tính, trong đó có IBM, về việc cho phép một trình thông dịch BASIC trong các máy tính của họ. Một phiên bản đã được cài trong chíp IBM PC ROM và các máy tính không dùng đĩa mềm mà tự khởi động vào BASIC.
+BASIC có nhiều phiên bản hơn bất kì ngôn ngữ lập trình nào khác. Tất cả nhưng rất ít máy tính gia đình vào thập niên 1980 có ROM - thường trú trình thông dịch BASIC.
+BBC đã công bố BBC BASIC, được phát triển cho họ bởi Acorn Computers Ltd, kết hợp thêm nhiều từ khoá cấu trúc, cũng như truy cập trực tiếp toàn diện và linh hoạt vào hệ điều hành. Nó cũng có một trình biên dịch hợp ngữ được tích hợp hoàn toàn.
+
+
+=== Sự trưởng thành - Kỉ nguyên máy tính gia đình ===
+Nhiều phiên bản BASIC mới hơn đã được sáng tạo trong thời gian này. Microsoft đã bán một vài phiên bản BASIC cho MS-DOS/PC-DOS bao gồm BASICA, GW-BASIC (một phiên bản tương thích với BASICA không cầm IBM's ROM) và Quick BASIC. Nhà phát triển Turbo Pascal Borland đã công bố Turbo BASIC 1.0 vào năm 1985 (các phiên bản kế tiếp vẫn đang được bán bởi tác giả gốc dưới tên PowerBASIC).
+Những ngôn ngữ này giới thiệu nhiều sự mở rộng dành cho BASIC của máy tính gia đình, như là cải tiến thao tác chuỗi và hỗ trợ đồ hoạ, truy cập vào tập tin hệ thống và các kiểu dữ liệu được thêm vào. Quan trọng hơn là những tiện lợi trong lập trình có cấu trúc, bao gồm việc thêm cấu trúc điều khiển và các thủ tục con riêng biệt hỗ trợ các biến cục bộ.
+Dù sao, khoảng nửa sau thập niên 1980 các máy tính mới phức tạp hơn nhiều. Cùng lúc đó, máy tính đã phát triển từ một sở thích của cá nhân trở thành công cụ được dùng chủ yếu cho các ứng dụng được viết bởi nhiều người khác, và việc lập trình được phổ biến rộng rãi, trở nên ít quan trọng hơn vì sự lớn dần lên về số lượng người dùng. BASIC bắt đầu mờ nhạt, dù cho một vài phiên bản vẫn tồn tại.
+Sự may mắn của BASIC trở lại lần nữa cùng với việc giới thiệu Visual Basic của Microsoft. Dù vậy, thật khó khi nói rằng đây là ngôn ngữ BASIC, vì sự thay đổi quan trọng về mô hình hướng tới ngôn ngữ lập trình hướng đối tượng và lập trình theo sự kiện. Trong khi điều này có thể được cho là một sự phát triển của ngôn ngữ, vài đặc điểm của Dartmouth BASIC, như đánh số dòng và từ khoá INPUT, vẫn tồn tại.
+Nhiều phiên bản BASIC khác cũng đã phát triển mạnh trong vài năm cuối, gồm Bywater BASIC, True BASIC và REALbasic. Nhiều biến thể và tài liệu khác về BASIC được tạo ra bởi những người yêu thích, những nhà phát triển chuyên môn, và những người khác, vì cũng tương đối dễ dàng để phát triển những trình thông dịch và biên dịch cho BASIC.
+
+
+== Cú pháp căn bản ==
+Trong BASIC, các câu lệnh đều được viết chữ in.
+
+
+=== Nhãn lệnh ===
+Nhãn lệnh là các số nguyên tăng dần viết ở đầu dòng lệnh, đóng vai trò là các số hiệu dòng lệnh dùng cho lệnh nhảy (GOTO). Ở các phiên bản mới của BASIC (chẳng hạn QBASIC), nhãn lệnh là không bắt buộc.
+
+Khi đánh số nhãn lệnh, thông thường người ta đánh cách quãng (chẳng hạn, 10, 20, 30,...) để thuận tiện cho việc thêm các dòng lệnh (nếu cần) về sau này. Chẳng hạn nếu muốn chèn dòng lệnh in ra thông báo trước khi in kết quả x + y thì dòng lệnh có nhãn 25 được chèn vào như sau:
+
+
+=== Tên biến ===
+Tên biến không phân biệt chữ hoa và chữ thường. Các biến ký tự và biến chuỗi cần có dấu $ ở cuối tên biến. Các biến số nguyên có thể dùng dấu % ở cuối tên biến.
+
+
+=== Chú thích ===
+Dòng chú thích bắt đầu bằng từ khóa REM
+
+
+=== Nhiều lệnh trên một dòng ===
+Dùng dấu : để phân tách các lệnh trên cùng một dòng
+
+
+=== Lệnh cơ bản ===
+
+
+==== Lệnh gán ====
+
+
+==== Lệnh INPUT ====
+Lệnh INPUT dùng để nhập giá trị biến từ bàn phím.
+
+Với dòng lệnh thứ nhất sẽ có một dấu chấm hỏi (?) hiện ra trên màn hình, chờ người dùng nhập một giá trị số vào. Dòng lệnh thứ hai sẽ làm hiện lên hai dấu chấm hỏi (??), chờ nhập hai số. Với dòng lệnh thứ ba, giữa thông báo và số nhập vào sẽ cách nhau một dấu trống. Dòng lệnh thứ tư tương tự như vậy nhưng khoảng cách là một dấu TAB.
+Ngoài ra BASIC còn có các lệnh LINE INPUT để nhập chuỗi ký tự và INPUT WAIT có nhiệm vụ chờ người dùng nhập số liệu trong một khoảng thời gian nhất định. Đối với INPUT WAIT nếu không được nhập số liệu vào thì máy sẽ dùng một giá trị định sẵn.
+
+
+==== Lệnh PRINT ====
+Lệnh này được dùng để in giá trị của biến, của biểu thức (số và chuỗi ký tự) ra tập tin, màn hình, máy in...
+
+
+==== Lệnh GOTO ====
+
+
+=== Điều kiện - rẽ nhánh ===
+
+
+==== Lệnh IF ====
+
+Riêng nếu câu_lệnh là một lệnh GOTO thì không cần THEN.
+
+
+==== Lệnh lặp ====
+Lệnh FOR
+
+Lệnh DO WHILE...LOOP
+
+Lệnh DO... LOOP WHILE
+
+Khai báo mảng
+
+Khai báo hàm
+
+Gọi chương trình con
+Trong chương trình chính
+
+Đoạn chương trình con khởi đầu bằng SUB và kết thúc bằng RETURN (trở về chương trình chính.
+
+
+== Visual Basic ==
+Tên tuổi của Basic gắn liền với Visual Basic.
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==
+Dartmouth College Computation Center (1964). A Manual for BASIC, the elementary algebraic language designed for use with the Dartmouth Time Sharing System - Sách hướng dẫn gốc của Dartmouth BASIC.
+Lien, David A. (1986). The Basic Handbook: Encyclopedia of the BASIC Computer Language (3rd ed.). Compusoft phát hành. ISBN 0-932760-33-3. Documents dialect variations for over 250 versions of BASIC.
+Kemeny, John G.; Kurtz, Thomas E. (1985). Back To BASIC: The History, Corruption, and Future of the Language. Addison-Wesley. 141 pp. ISBN 0-201-13433-0.
+Jean E. Sammet. Programming languages: History and fundamentals. Prentice-Hall, Englewood Cliffs, N.J. 1969.
+
+
+=== Các chuẩn ===
+ANSI/ISO/IEC Chuẩn cho BASIC rút gọn:
+ANSI X3.60-1978 "FOR MINIMAL BASIC"
+ISO/IEC 6373:1984 "DATA PROCESSING - PROGRAMMING LANGUAGES - MINIMAL BASIC"
+
+ANSI/ISO/IEC Chuẩn cho BASIC đầy đủ:
+ANSI X3.113-1987 "PROGRAMMING LANGUAGES FULL BASIC"
+ISO/IEC 10279:1991 "INFORMATION TECHNOLOGY - PROGRAMMING LANGUAGES - FULL BASIC"
+
+ANSI/ISO/IEC Phụ lục các module đang định nghĩa:
+ANSI X3.113 INTERPRETATIONS-1992 "BASIC TECHNICAL INFORMATION BULLETIN # 1 INTERPRETATIONS OF ANSI 03.113-1987"
+ISO/IEC 10279:1991/ Amd 1:1994 "MODULES AND SINGLE CHARACTER INPUT ENHANCEMENT"

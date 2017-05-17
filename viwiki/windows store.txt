@@ -1,0 +1,78 @@
+Windows Store là một cửa hàng ứng dụng dành cho Microsoft Windows, bắt đầu với Windows 8 và Windows Server 2012. Đây là phương thức chính để phân phối các ứng dụng Universal Windows Platform. Các ứng dụng miễn phí và trả phí đều có thể được phân phối qua Windows Store, với các ứng dụng trả tiền có giá dao động từ 0.99 tới 999.99 USD. Windows Store lần đầu hoạt động với phiên bản Windows 8 Consumer Preview vào ngày 29 tháng 2 năm 2012. Tới năm 2015, Windows Phone Store, cửa hàng Xbox Video và Xbox Music đã được sáp nhập vào Windows Store.
+So với các nền tảng tương tự khác, như Mac App Store và Google Play, Windows Store được giám sát và các ứng dụng phải được chứng thực về tính tương thích và về nội dung. Trên tổng doanh số ứng dụng, Microsoft giữ lại 30% tổng doanh thu. Trước ngày 1 tháng 1 năm 2015, phần giữ lại sẽ được giảm xuống còn 20% sau khi lợi nhuận của nhà phát triển đạt 25,000 USD.
+Theo Microsoft, tính đền 28 tháng 9 năm 2015, có hơn 669,000 ứng dụng có sẵn trên Windows Store, bao gồm các ứng dụng cho Windows NT, Windows Phone, và các ứng dụng Universal hoạt động trên cả hai nền tảng. Trò chơi, Giải trí, Sách và Tham khảo, và Giáo dục là các thể loại lớn nhất về số lượng ứng dụng và phàn lớn các nhà phát triển ứng dụng đều có 1 ứng dụng.
+
+
+== Lịch sử ==
+
+
+=== Tiền thân ===
+Microsoft trước đó duy trì một hệ thống phân phối kỹ thuật số tương tự cho phần mềm được gọi là Windows Marketplace, cho phép khách hàng mua phần mềm trực tuyến và tải về máy tính của họ. Mã sản phẩm và giấy phép được theo dõi bởi nền tảng, cho phép người dùng có thể giữ lại ứng dụng của họ khi chuyển đổi máy tính. Windows Marketplace đã ngưng vào tháng 11 năm 2008.
+
+
+=== Windows 8 ===
+Microsoft lần đầu tiên công bố một dịch vụ phân phối kỹ thuật số cho Windows tại buổi thuyết trình của mình trong hội nghị Build vào ngày 13 tháng 9 năm 2011. Thông tin chi tiết được công bố trong hội nghị cho thấy cửa hàng sẽ có thể giữ danh sách cho cả hai chứng nhận các ứng dụng Windows truyền thống, cũng như những gì được gọi là "ứng dụng Metro-style" vào thời điểm đó: Chặt chẽ sandbox phần mềm dựa trên hướng dẫn thiết kế của Microsoft được liên tục theo dõi về chất lượng và tuân thủ. Đối với người tiêu dùng, Windows Store được dự định là cách duy nhất để có được các ứng dụng Metro-style. Trong khi nó cùng được giới thiệu với phiên bản "Xem trước lập trình viên" của Windows 8, Windows Store chưa có bản sử dụng được cho đến phiên bản "Xem trước cho người dùng" của Windows 8 được ra mắt vào tháng 2 năm 2012.
+Windows Store không phải là dịch vụ phân phối kỹ thuật số duy nhất giới thiệu với Windows 8; những dịch vụ khác bao gồm Xbox Music và Xbox Video, nơi bán phương tiện truyền thông giải trí kỹ thuật số thay vì phần mềm.
+
+
+=== Windows 8.1 ===
+Một phiên bản cập nhật của Windows Store đã được giới thiệu trong Windows 8.1. Trang chủ của nó đã được tu sửa để hiển thị các ứng dụng trong các chuyên mục tập trung (như phần phổ biến, được khuyên dùng, miễn phí và trả tiền hàng đầu, và các đợt giảm giá đặc biệt) với các chi tiết mở rộng, và khả năng cho phép các ứng dụng tự động cập nhật cũng đã được thêm vào. Bản cập nhật của Windows 8.1 cũng giới thiệu những thay đổi trình bày đáng chú ý khác, bao gồm tăng danh sách ứng dụng hàng đầu cho các ứng dụng trở lại 1000 thay vì 100 ứng dụng, phần 'Chọn cho bạn', và thay đổi mặc định sắp xếp cho đánh giá được trong 'phổ biến nhất'.
+
+
+=== Windows 10 ===
+Windows Store sẽ trở thành một cửa hàng thống nhất trên mọi nền tảng của Windows 10, cung cấp ứng dụng di động, Groove Music (trước có tên Xbox Music) và Movies & TV (trước là Xbox Video).
+Ứng dụng web và các phần mềm desktop (dùng cả Win32 hay .NET Framework) có thể được đóng gói để phân phối Windows Store. Các phần mềm desktop được phân phối Windows Store sẽ được đóng gói sử dụng hệ thống App-V để cho phép sandbox.
+
+
+=== Windows Server ===
+Windows Store hiện có sẵn trong Windows Server 2012 nhưng không được cài đặt theo mặc định.
+
+
+== Chi tiết ==
+Windows Store là phương tiện chính để phân phối các ứng dụng Windows Store cho người sử dụng; lý do chính thức là để cho phép Microsoft để quét các ứng dụng để tìm các lỗi bảo mật và phần mềm độc hại. Mặc dù ứng dụng sideloading từ bên ngoài cửa hàng được hỗ trợ, không phải tất cả các máy tính chạy Windows 8 có thể làm điều đó. Hỗ trợ Out-of-box sideloading chỉ có sẵn cho các máy tính Windows 8 Enterprise đã tham gia vào một tên miền Windows. Sideloading trên Windows RT và Windows 8 Pro cũng như các máy tính Windows 8 Enterprise không có một liên kết tên miền mà cần mua giấy phép bổ sung thông qua cửa hàng Microsoft cấp phép số lượng lớn.
+Microsoft đã từng cắt giảm 30% doanh thu ứng dụng cho đến khi nó đạt đến doanh thu 25,000 USD, sau đó cắt giảm xuống 20%. Các giao dịch của bên thứ ba cũng được cho phép, trong đó có Microsoft không thực hiện cắt giảm. Các nhà phát triển cá nhân có thể đăng ký với giá 19 USD và các công ty với giá 99 USD.
+Các nhà phát triển từ 120 quốc gia có thể gửi các ứng dụng tới Windows Store. Các ứng dụng có thể hỗ trợ bất kỳ ngôn ngữ nào trong 109 ngôn ngữ, miễn là nó hỗ trợ một trong 12 ngôn ngữ cấp giấy chứng nhận ứng dụng.
+
+
+== Hướng dẫn ==
+Tương tự như Windows Phone Store, Windows Store được quy định bởi Microsoft. Các ứng viên phải được sự chấp thuận của Microsoft trước khi ứng dụng của họ trở nên có sẵn trên cửa hàng. Các ứng dụng bị cấm chứa những nội dung sau:
+Nội dung người lớn
+Phân biệt đối xử người ủng hộ, hận thù và bạo lực trên cơ sở thành viên trong một nhóm xã hội phân biệt chủng tộc, dân tộc, quốc gia, ngôn ngữ, tôn giáo, hoặc các nhóm khác, hoặc dựa trên giới tính, tuổi tác, hoặc khuynh hướng tình dục của một người
+Chứa nội dung hoặc chức năng khuyến khích, lôi kéo hoặc tạo điều kiện cho các hoạt động bất hợp pháp
+Chứa hoặc hiển thị nội dung mà một người bình thường sẽ cho là khiêu dâm
+Nói xấu, bôi nhọ hoặc vu khống, hoặc đe dọa
+Khuyến khích, tạo điều kiện hoặc lôi kéo quá mức hoặc vô trách nhiệm của sự sử dụng rượu hoặc sản phẩm thuốc lá, ma túy hoặc vũ khí
+Khuyến khích, tạo điều kiện hoặc lôi kéo bạo lực cực đoan hoặc vô cớ, vi phạm nhân quyền hoặc tạo ra hoặc sử dụng vũ khí chống lại người hoặc động vật trong thế giới thực
+Nội dung thô tục quá mức hoặc vô cớ
+Microsoft đã chỉ ra rằng nó có khả năng vô hiệu hóa từ xa và/hoặc loại bỏ các ứng dụng từ hệ thống của người sử dụng vì lý do an ninh, pháp luật; trong trường hợp các ứng dụng trả tiền thì sẽ hoàn lại tiền nếu điều này xảy ra.
+Công ty ban đầu bị chỉ trích vì không cấm đúng nội dung PEGI "18" từ Windows Store tại châu Âu, như các nhà phê bình lưu ý rằng một số tò chơi "18" được đánh giá là "trưởng thành" của ESRB (thực hiện các quy định nghiêm ngặt hơn dự định). Các hướng dẫn này được sửa đổi trong tháng 12 năm 2012 để sửa chữa sự bất thường này.
+
+
+== Cổng thông tin cho lập trình viên ==
+Windows Store cũng có một cổng thông tin dành riêng cho các lập trình viên. Mỗi ứng dụng đều có những phần cổng thông tin cho lập trình viên như sau:
+App Summary - Một trang tổng quan của một ứng dụng nhất định, bao gồm cả một biểu đồ lượt tải về, biểu đồ chất lượng, tóm tắt tài chính, và một biểu đồ doanh số bán hàng.
+App Adoption - Một trang cho thấy việc thông qua ứng dụng, bao gồm cả việc chuyển đổi, chuyển đến, và lượt tải về.
+App Ratings - Một phần phân tích xếp hạng, cũng như khả năng lọc các ý kiến ​​của một khu vực.
+App Quality - Một trang giới thiệu các ngoại lệ xảy ra trong ứng dụng
+App Finance - Một trang cho phép các nhà phát triển có thể tải về tất cả các giao dịch liên quan đến ứng dụng của họ.
+
+
+== Các công cụ cho lập trình viên ==
+Windows Store cung cấp công cụ phát triển cho các ứng dụng theo dõi trong cửa hàng. Người ta có thể theo dõi lượt tải, tài chính, lỗi, việc thông qua ứng dụng và các xếp hạng.
+Bảng điều khiển cũng trình bày một phân tích chi tiết về người dùng về thị trường, tuổi tác và khu vực, cũng như bảng xếp hạng về số lượng tải, mua hàng, và thời gian trung bình chi tiêu trong một ứng dụng. Bảng điều khiển cũng cho phép một nhà phát triển để khẳng định một tên ứng dụng lên đến 1 năm trước khi tên được trở lại tên có sẵn.
+
+
+== Xem thêm ==
+Google Play
+Allmyapps
+Windows 8
+Windows 10
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Trang mạng của Windows Store
+Trung tâm cho lập trình viên
+Trang đánh giá các ứng dụng Windows Store

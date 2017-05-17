@@ -1,0 +1,106 @@
+Máy tính xách tay hay máy vi tính xách tay (tiếng Anh: laptop computer hay notebook computer) là một máy tính cá nhân gọn nhỏ có thể mang xách được. Nó thường có trọng lượng nhẹ, tùy thuộc vào hãng sản xuất và kiểu máy dành cho các mục đích sử dụng khác nhau.
+Máy tính xách tay có đầy đủ các thành phần cơ bản của một máy tính cá nhân thông thường.
+
+
+== Lịch sử ==
+Chiếc máy tính xách tay đầu tiên trên thế giới là một chiếc Osborne 1 ra đời năm 1981.
+
+
+== Đặc điểm thiết kế ==
+Tuy có đầy đủ các chức năng như các máy tính cá nhân thông thường, nhưng máy tính xách tay với một không gian nhỏ gọn nên các đặc điểm sau có sự khác biệt so với các máy tính cá nhân. Chi tiết hơn về từng thiết bị ở các hệ thống máy tính cá nhân thông thường xem các bài riêng về chúng:
+
+
+=== Bảng mạch chủ ===
+Bo mạch chủ là phần quan trọng nhất được thiết kế các linh kiện thu nhỏ từ máy tính để bàn và được đặt vừa với không gian bên trong máy tính xách tay. Nếu một trong các thành phần máy tính xách tay bị hỏng, chủ nhân có thể tháo toàn bộ phần bo mạch và các thành phần trong máy và có thể biến nó thành máy tính để bàn nhỏ gọn, đầy đủ tính năng.
+
+
+=== Màn hình và cảm ứng ===
+Màn hình của những máy tính xách tay ngày nay luôn thuộc loại màn hình tinh thể lỏng, chúng được gắn trực tiếp với thân máy dạng gập. Một số máy tính xách tay có màn hình cảm ứng với thiết kế màn hình quay gập lại được và có loại tháo rời phần màn hình ra khỏi bàn phím và thân máy.
+
+
+=== Bộ xử lý ===
+Bộ xử lý được thiết kế riêng với sự chú trọng vào hiệu năng và tiết kiệm năng lượng, chúng có thể thay đổi tốc độ làm việc tuỳ theo yêu cầu của hệ thống. Một vài bộ vi xử lý đắt tiền như core I7 có hiệu năng gần bằng máy tính để bàn.
+
+
+=== RAM ===
+RAM: Máy tính xách tay sử dụng loại RAM (So-DIMM) dành riêng, chúng ngắn hơn (và thường rộng hơn) các thanh RAM (Long-DIMM) thông thường cho máy tính để bàn. Một vài máy tính xách tay thường được thiết kế hai khe cắm RAM để người dùng tự năng cấp.
+
+
+=== Thẻ đồ hoạ ===
+Thẻ Đồ hoạ: Thường được tích hợp trên các chipset hoặc tích hợp riêng biệt trên bo mạch chủ. Đa phần các máy tính xách tay phổ thông và tầm thấp sử dụng chức năng đồ hoạ tích hợp trên chipset và sử dụng bộ nhớ đồ hoạ đựoc lưu trữ chung RAM hệ thống. Các máy tính xách tay cao cấp thẻ đồ hoạ có thể được tách rời và gắn trực tiếp trên bo mạch chủ, chúng có thể có bộ nhớ RAM riêng hoặc sử dụng một phần RAM của hệ thống.
+
+
+=== Ổ đĩa cứng ===
+Ổ đĩa cứng của máy tính xách tay là loại ổ (2,5") có kích thước nhỏ hơn các ổ cứng của máy tính thông thường (3,5"), chúng có thể sử dụng giao tiếp ATA truyền thống hoặc SATA thông dụng. Còn có loại máy tính dùng ổ SSD, eMMC hoặc PCIe thay cho HDD.
+
+
+=== Pin và nguồn năng lượng cung cấp ===
+Nguồn là phần quan trọng nhất giúp cung cấp toàn bộ máy tính hoạt động và một phần còn lại lưu trữ vào trong pin hay còn gọi là sạc pin, nguồn thường được đặt một khối bên ngoài hay còn gọi là Adapter sạc.
+Pin là phần quan trọng thứ hai của cấu trúc máy tính xách tay và cũng là phần quan trọng nhất trong lúc máy tính khi đi mang máy di chuyển và làm việc mà không cần dùng đến nguồn điện.
+
+
+=== Tản nhiệt ===
+Vấn đề tản nhiệt luôn được chú ý đối với các máy tính nói chung, ở máy tính xách tay, do thiết kế nhỏ gọn nên càng khó khăn cho các thiết kế tản nhiệt từ các thiết bị và linh kiện trong máy. Thiết kế tản nhiệt trong máy tính xách tay thường là: Các thiết bị toả nhiệt (CPU, chipset cầu bắc, bộ xử lý đồ hoạ (nếu có) được gắn các tấm phiến tản nhiệt, chúng truyền nhiệt qua các ống dẫn nhiệt sang một khối tản nhiệt lớn mà ở đây có quạt cưỡng bức làm mát. Các thiết bị còn lại được tản nhiệt trên đường lưu thông gió (theo cách bố trí hợp lý) hút gió vào trong vỏ máy (thông qua các lỗ thoáng) để đến khối tản nhiệt chung để thổi ra ngoài bằng quạt. Quạt tản nhiệt trong máy tính xách tay được thiết kế điều khiển bằng một mạch điện (có cảm biến nhiệt ở các bộ phận phát nhiệt) để có khả năng tự điều chỉnh tốc độ theo nhiệt độ (Điều này khác với quạt tản nhiệt trên các máy tính thông thường khi chúng thường được điều khiển bằng phần mềm hoặc với các hệ thống cũ có thể chỉ quay ở một tốc độ nhất định). Máy tính xách tay Asus ROG GX700VO là máy tính xách tay đầu tiên trên thế giới dùng đế tản nhiệt bằng chất lỏng.
+
+
+=== Bàn phím ===
+Bàn phím máy tính xách tay thường không tuân theo tiêu chuẩn của các bàn phím máy tính để bàn. Máy tính xách tay lớn có phím số bên phải bàn phím, còn máy tính xách tay cỡ nhỏ phím số đặt ngay trong bàn phím. Ngoài các phím chức năng thường thấy (như F1, F2...đến F12) trên các bàn phím thông dụng của máy tính cá nhân, máy tính xách tay còn có một loạt các phím chức năng dành riêng, các phím này thường là chức năng thứ hai và chỉ được kích hoạt sau khi đã bấm phím chuyển đổi thường có ký hiệu Fn hoặc một số phím chức năng khác được làm riêng biệt tùy theo hãng sản suất.
+
+
+=== Touchpad ===
+Là bàn di chuột dùng để điều khiển con chuột trên máy tính với 2 phím trái phải như con chuột trên máy tính để bàn và nằm dưới bàn phím.
+
+
+=== Cổng kết nối ===
+Cũng như máy tính để bàn, cổng kết nối trên máy tính xách tay thường thấy như USB, VGA, HDMI, cổng âm thanh, khe cắm thẻ SD, ổ đĩa cứng,...
+
+
+=== Kết nối mạng ===
+Các máy tính xách tay hiện nay đều kết nối với mạng có dây là mạng LAN và kết nối mạng không dây là Wi-Fi.
+
+
+=== Âm thanh ===
+Loa trên máy tính xách tay là thiết bị ra phát âm thanh nhưng chúng có chất lượng và công suất tối thiểu.
+Micro trên máy tính xách tay là thiết bị dùng để nhập âm thanh (như giọng nói).
+Camera trên màn hình của máy tính xách tay là thiết bị nhập dùng để nhập hình ảnh. Vài máy tính còn thích hợp cả công nghệ quét bống mắt thông qua chiếc camera này.
+
+
+=== Hệ điều hành ===
+Hệ điều hành dành cho máy tính xách tay dùng chung với hệ điều hành trên máy tính để bàn và không riêng biệt gì nhiều.
+
+
+== Một số chức năng thường thấy ==
+Chức năng khôi phục nhanh: Để khôi phục hệ thống nhanh nhất khi xảy ra lỗi, máy tính xách tay thường được thiết kế các hình thức khôi phục hệ thống thông qua các bộ đĩa CD hoặc DVD (điều này cũng thường thấy trên một số máy tính cá nhân để bàn sản xuất đồng bộ của các hãng sản xuất phần cứng), hoặc bằng một nút (có thể có phương thức một vài thao tác) từ dữ liệu lưu sẵn trên ổ cứng (thường đặt trên các phân vùng ẩn).
+Nhận dạng vân tay: Để tăng mức độ bảo mật, máy tính xách tay được trang bị hệ thống nhận dạng vân tay, người sử dụng chỉ có thể khởi động hệ thống hoặc mua hàng trực tuyến khi nếu máy xác thực đúng vân tay của người đang sử dụng trên máy tính (vân tay được cài đặt sẵn bên trong máy).
+Nhận dạng vân mắt: Được dùng với Intel Realsense và Windows Hello trong windows 10 của microsoft. Tính năng này chỉ được thích hợp chỉ dùng với một số máy tính mới sau này.
+Tính năng bảo mật TPM: Một số máy tính doanh nhân cần bảo mật cao (TPM là con chip thích hợp trên bo mạch chủ)
+
+
+== Những chú ý với máy tính xách tay ==
+
+
+=== Tạo thuận lợi cho tản nhiệt ===
+Máy tính xách tay được thiết kế đặt trên các mặt phẳng đủ cứng vững. Các chân đế cao một khoảng nhất định tạo nên một không gian cần thiết cho lưu thông không khí. Việc đặt máy tính xách tay lên các vị trí mềm (làm các chân đế bị lún và khi này toàn bộ các mặt dưới tỳ trực tiếp vào vị trí mềm. Chính vì vậy không nên đặt máy tính xách tay lên đùi hoặc lên các đệm mút (giường) khi làm việc hoặc giải trí trong thời gian dài bởi những vị trí như vậy có thể làm bít các lỗ thông thoáng làm nguồn lưu thông gió cưỡng bức trong cơ chế tản nhiệt.
+Để tạo điều kiện cho sự tản nhiệt tốt hơn, một số hãng sản xuất thiết bị hỗ trợ máy tính đã chế tạo các tấm đế giải nhiệt cho máy tính xách tay. Chúng thường có dạng tấm thoáng (có thể gắn quạt) để tối ưu việc lưu thông gió.
+Không những có tác dụng thông gió, các tấm đế này còn tạo cho máy tính xách tay chếch lên một góc nhỏ để thuận tiện hơn cho người sử dụng khi nhập thông tin vào bàn phím và nâng cao màn hình gần hơn với tầm mắt. Một số hãng sản xuất các tấm đế này có thể kể đến là Cooler Master.
+Nếu như bắt buộc phải làm việc với các máy tính xách tay trên các nền đệm mềm thì nên đặt chúng lên một tấm bìa cứng để tạo ra một nền cứng nhằm tránh bít kín lỗ thông gió.
+
+
+=== Bảo dưỡng pin ===
+Những pin sử dụng trước đây, nhất là thế hệ nickel-cadmium hay nickel-metal-hydrid trước khi có pin lithium, yêu cầu rất khắt khe về quy trình sử dụng phóng và nạp điện. Nếu sử dụng pin không đến mức cạn đã sạc đầy trở lại có thể gây ra hiện tượng "chai" pin sau một thời gian. Các pin ngày nay (lithium) thường ít có hiện tương "chai" hơn tuy nhiên vẫn cần thực hiện bảo dưỡng pin để đảm bảo tăng tuổi thọ của pin. Các hình thức bảo dưỡng khác nhau tuỳ theo từng chế độ:
+Sau một thời gian dài không dùng pin (liên tục sử dụng nguồn điện dân dụng mà không sử dụng pin (đối với những người sử dụng máy tính xách tay tại văn phòng) thì khoảng 2 đến 3 tháng cần thực hiện bảo dưỡng một lần. Hình thức bảo dưỡng bao gồm sử dụng pin (không cắm điện) cho máy hoạt động cho đến khi còn khoảng dưới 5% (đảm bảo không hết sạch điện ở các loại pin Li-ion gây hư hỏng và chai pin) thì lại cắm điện để sạc cho đến mức đầy pin. Mức năng lượng dử dụng của pin có thể thìn thấy ngay trên máy tính đang bật.
+Trong trường hợp thường xuyên sử dụng pin kết hợp với sử dụng nguồn điện dân dụng, nên bảo dưỡng pin theo phương thức trên với thời gian ngắn hơn: Khoảng hai tuần một lần.
+Nếu các máy tính xách tay mới được sử dụng lần đầu tiên: cần được thực hiện theo hướng dẫn của nhà sản xuất như sạc pin trong vòng 3 tiếng đồng hồ sau đó bật máy (không rút dây sạc).
+
+
+=== Chống sốc ===
+Chấn động khi đầu đọc của ổ cứng đang di chuyển hoặc đang đọc bề mặt ổ đĩa đôi khi là một tai họa đối với ổ đĩa cứng. Một số biện pháp thường được áp dụng:
+Cẩn thận khi mang xách máy tính xách tay ra ngoài, đợi cho ổ đĩa cứng ngừng hoạt động (khi máy đã tắt), tránh gây tổn hại bề mặt đĩa.
+Một số hãng máy tính xách tay có thiết kế đời mới như chức năng "đóng băng hoặc treo" ổ đĩa cứng khi cảm thấy máy tính đang hoạt động có vấn đề va đập (như rơi vỡ hoặc làm rơi ly nước).
+Ngày nay, ngoài các biện pháp kể trên còn có lựa chọn sử dụng túi chống sốc, giúp giảm tác động do va đập lên máy tính xách tay tránh gây hư hai tới linh kiện bên trong cũng như bề mặt bên ngoài.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

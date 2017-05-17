@@ -1,0 +1,74 @@
+Phim hoạt hình hay phim hoạt họa là một hình thức sử dụng ảo ảnh quang học về sự chuyển động do nhiều hình ảnh tĩnh được chiếu tiếp diễn liên tục. Trong phim và trong kỹ nghệ dàn dựng, hoạt họa ám chỉ đến kỹ thuật trong đó từng khung hình của phim(frame) được chế tác riêng rẽ. Người ta có thể dùng máy tính, hay bằng cách chụp từng hình ảnh đã vẽ, đã được tô màu, hoặc bằng cách chụp những cử động rất nhỏ của các mô hình để tạo nên những hình ảnh này (xem thêm về hoạt họa dùng mô hình đất sét và hoạt hình tĩnh vật. Những hình ảnh sau đó được chụp bằng một máy quay phim hoạt họa chuyên ngành. Khi tất cả các hình ảnh được ghép vào với nhau, tạo nên một đoạn phim và được chiếu lên màn ảnh, chúng gây nên ảo giác là các cử động được chuyển động liên tục. Ảo giác này gây ra do hiện tượng gọi là sự lưu ảnh. Để làm được những phim như vậy đòi hỏi phải tốn rất nhiều công sức và sức chịu đựng dai dẳng những công việc tẻ nhạt. Hiện nay, nhờ sự phát triển trong hoạt họa máy tính, tốc độ quá trình sản xuất phim đã được tăng lên rất nhiều.
+Những định dạng tập tin đồ họa như GIF, MNG, SVG và Flash (SWF) cho phép phim hoạt họa được chiếu trên máy tính thông qua đường Internet.
+
+
+== Các kỹ thuật làm phim hoạt họa ==
+Hoạt họa truyền thống bắt đầu với từng hình ảnh đã được vẽ và tô màu rồi sau đó mới chụp chúng vào phim. Trong thập niên kỷ 1910, hai ông John Randolph Bray (1879-1978) và Earl Hurd (1880-1940) đã tạo dựng nên kỹ thuật hoạt hình trên phim xenluloit (celluloid) để tăng nhanh tốc độ quá trình làm phim bằng cách vẽ các nhân vật phim trên các miếng nhựa trong, hầu cho nhân vật có thể được chuyển động mà không cần phải vẽ lại cảnh đằng sau cho mỗi hình một. Gần đây, phong cách làm phim hoạt họa dựa trên cơ sở của việc tô màu và vẽ hình đã được tiến bộ hóa. Bộ phim hoạt họa đơn giản Simpsons hay bộ phim phác thảo Người tuyết (The Snowman) là những ví dụ.
+Hoạt họa máy vi tính được tiến bộ một cách nhanh chóng và hiện nay, các nhân vật có thể được tạo hình giống như người thật, đến nỗi người xem khó có thể phân biệt chúng với diễn viên. Kỹ thuật hoạt họa này được thực hiện bằng cách chuyển hình vẽ từ chỉ có hai chiều (2D) sang hình ba chiều (3D). Cái khác nhau giữa chúng là trong hoạt họa hình vẽ hai chiều, hiệu ứng về chiều sâu được sáng tạo tùy theo cảm hứng nghệ thuật, song trong hoạt họa ba chiều, các đối tượng ba chiều được mô hình trong một không gian ba chiều do máy tính kiến tạo, và chúng được 'chiếu sáng' và 'quay' từ một góc độ chọn trước, tương tự như trên hiện trường, trước khi chúng được 'diễn hình' (tạo ra hình ảnh từ công thức) ra từng hình đồ họa bitmap hai chiều một. Những dự đoán cho rằng các diễn viên nổi tiếng đã qua đời có thể được 'tái sinh' để diễn trong các bộ phim mới, hiện nay gây không ít suy xét đến các vấn đề đạo đức và vấn đề về bản quyền có liên quan. Việc sử dụng hoạt họa máy tính để đạt được những hiệu ứng, hầu như bất khả dĩ trong lối quay phim truyền thống, đã dẫn đến thuật ngữ "tạo hình máy tính", song thuật ngữ này không giúp người ta phân biệt được sự khác nhau giữa hoạt họa dùng máy tính, với việc ám chỉ đến những bộ phim ba chiều hoàn toàn sử dụng kỹ thuật hoạt họa.
+Hoạt họa máy tính bao gồm việc tạo mô hình, tạo động tác, sau đó cho thêm bề mặt và cuối cùng là kết xuất. Bề mặt của các mô hình được bố trí để chúng có thể tự co giãn và tự bẻ cong, thích ứng với những chuyển động của một 'mô hình khung lưới'. Việc diễn hình sau cùng biến đổi những động tác này thành một hình ảnh đồ họa bitmap. Những phát triển gần đây trong kỹ thuật diễn hình những bề mặt phức tạp, như lông và các chất liệu bề mặt khác đã cho phép người ta tạo nên những môi trường và những mô hình nhân vật hết sức giống với cảnh thật, bao gồm cả các bề mặt nhấp nhô, gấp lại và bay trong gió, với từng sợi tóc một được tính toán trong khi diễn hình.
+Bên cạnh đó, những chuyển động giống như thật lại phải do các nghệ sĩ điêu luyện sáng tạo thì mới thành công, và họ có thể làm việc này với ngay cả những mô hình đơn giản nhất. Máy tính không khác gì một dụng cụ vẽ hình phức tạp và đắt tiền, tương tự như một cái bút chì mà người ta dùng để vẽ, và ngay cả trong trường hợp nếu người ta có một chương trình ứng dụng mô phỏng vật lý phức tạp được kiến tạo hoàn hảo đến mức nó có thể mô phỏng cuộc sống thực trên thế giới một cách hoàn thiện đi chăng nữa, song nếu không có bàn tay của các nghệ sĩ hoạt họa điều hướng, thì các hình ảnh được tạo ra có lẽ cũng chẳng có tác động gì vào tình cảm người xem cả. Ảnh hưởng này phần lớn là do các nghệ thuật trong phim hoạt họa được phát sinh bắt nguồn từ chính sự lựa chọn đầy tính nghệ thuật của các nghệ sĩ làm phim hoạt họa mà ra, và máy tính hoàn toàn không thể tự nó quyết định được việc gì.
+
+
+== Lịch sử ==
+
+Phim hoạt họa vốn được sử dụng với mục đích để giải trí là chính. Song, hiện nay nó còn được phát triển và sử dụng như những công cụ giảng dạy và học tập, như sự phát triển của hoạt họa điều hướng và hoạt họa giảng dạy chẳng hạn. Phim hoạt họa còn là một hình thức nghệ thuật được công chúng tán tụng (đôi khi chúng còn được chính phủ tài trợ, như hiện tượng thường thấy ở các nước Đông Âu trong thời kỳ của Chủ nghĩa Cộng sản), và còn được quảng cáo, giới thiệu trong những đại hội phim trên toàn thế giới.
+Hình thức truyền thống nhất của phim hoạt họa, "hoạt hình" (animated cartoon), được phát triển trong những năm đầu 1900 và được ông Ubbe Ert Iwwerks, Walt Disney và những người khác tinh luyện, đến mức họ phải dùng những 24 hình vẽ riêng biệt cho một giây đồng hồ của phim hoạt họa. Kỹ thuật này được diễn tả chi tiết trong bài Hoạt họa truyền thống.
+Nguyên do việc làm phim hoạt họa là một công việc rất tốn thời gian và thường đòi hỏi kinh phí lớn để sản xuất, phần lớn các phim hoạt họa dành cho TV và cho phim điện ảnh là do các xưởng phim sản xuất. Tuy vậy, ngành phim hoạt họa độc lập cũng tồn tại và bắt đầu sớm nhất từ những năm 1910 (chẳng hạn như ông Ladislas Starevich, người tiên phong hoạt hình tĩnh vật trong thời kỳ Đế chế Nga hoàng, với nhiều phim hoạt hình được các xưởng phim tự lập (đôi khi chỉ bởi một người duy nhất) sản xuất. Một số nhà sản xuất phim hoạt họa tự lập sau này đã phát triển và sát nhập với công nghiệp phim hoạt họa chuyên ngành. Ông Bill Plympton là một trong những người làm phim hoạt họa độc lập nổi tiếng hiện nay. Hiện tại, với sự phát triển của các chương trình ứng dụng hoạt hình rẻ tiền như Macromedia Flash, cùng với sự có mặt của các tuyến phân phối miễn phí như Newgrounds và deviantART, việc trở thành một họa sĩ hoạt họa và việc cho người xem (có khả năng hàng triệu) xem những phim hoạt họa của mình, là một việc dễ dàng hơn trước rất nhiều.
+Phương pháp sử dụng kỹ thuật Hoạt họa giản thể là một hình thức để nâng cao năng lượng sản xuất, song đồng thời giảm chi phí trong việc làm phim hoạt họa, bằng cách dùng những "đường tắt" trong quá trình hoạt họa. Phương pháp này đã được UPA (United Productions of America - Xưởng phim liên hiệp của Mỹ) tiên phong và trở nên nổi tiếng bằng sự xuất hiện của xưởng phim Hanna-Barbera. Phương pháp đã được nhiều xưởng phim áp dụng để biến các phim hoạt họa từ những hình thức chỉ dành cho các rạp chiếu phim sang các phim dành cho vô tuyến truyền hình.
+
+
+== Các xưởng phim hoạt họa ==
+Các xưởng phim hoạt họa, cũng giống như các công ty phim, có thể hoặc là những nơi cung cấp công cụ dàn dựng song cũng có thể là các chủ thể tài chính. Trong một vài trường hợp, đặc biệt là trường hợp của Anime, chúng có những điểm giống nhau, tương tự như các xưởng vẽ của các họa sĩ, nơi một họa sĩ bậc thầy, hoặc một nhóm họa sĩ tài ba chăm nom công việc của những họa sĩ và những nhân viên thủ công có trình độ kém hơn, hòng giúp họ thực hiện viễn tưởng của mình.
+
+
+== Phong cách và kỹ thuật hoạt họa ==
+
+
+== Ghi chú ==
+
+
+== Xem thêm ==
+Hoạt hình
+Phim hoạt họa nhiều tập
+Anime (アニメ) (Phim hoạt họa của Nhật Bản)
+Avar (biến thiên hoạt họa)
+Biếm họa
+Hoạt họa máy vi tính
+Tạo hình máy vi tính
+Những tên tuổi lừng danh trong ngành phim hoạt họa
+Danh sách các tập phim hoạt họa trên TV
+Danh sách các trường quay phim hoạt họa
+Danh sách các đề tài liên quan đến phim ảnh
+Danh sách các loại phim
+Nắm bắt chuyển động
+Mô hình khung lưới
+Hoạt họa truyền thống
+
+
+== Tham chiếu ==
+Frank Thomas và Ollie Johnston, Disney animation: The Illusion Of Life, Abbeville 1981
+Walters Faber, Helen Walters, Algrant (Ed.), Animation Unlimited: Innovative Short Films Since 1940, HarperCollins Publishers 2004
+Trish Ledoux, Doug Ranney, Fred Patten (Ed.), Complete Anime Guide: Japanese Animation Film Directory and Resource Guide, Tiger Mountain Press 1997
+The Animator's Survival Kit, Richard Williams
+Animation Script to Screen, Shamus Culhane
+The Animation Book, Kit Laybourne
+CG101: A Computer Graphics Industry Reference. Terrence Masson Unique and personal histories of early computer animation production, plus a comprehensive foundation of the industry for all reading levels.
+
+
+== Liên kết ngoài (Tiếng Mỹ) ==
+Animation Directory tại DMOZ
+Animating Under the Camera
+Experimental Animation Techniques
+An animation about animation techniques
+Drawn Under-Camera Style Animation
+Keyframe - the Animation Resource
+Animation Nation - a forum for professional American animators
+Chronology of Animation
+Zagreb Film
+Don Markenstein's Toonopedia
+Hints and tips for the animation hobbyist
+Animation World Network
+28 Principles of Animation
+Animationmeat.com - Notes Model Sheets and Reference material by Professional Animators
+Media & Techniques in Animation
+PowerPoint Heaven - The Power to Animate Contains tutorials on creating animations for PowerPointPresentations.

@@ -1,0 +1,14 @@
+Edubuntu là một phiên bản linux dựa trên Ubuntu. Edubuntu được thiết kế để sử dụng trong các lớp học.
+
+
+== Xem thêm ==
+EduLinux
+Linux
+Danh sách các phiên bản linux
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang chính của Edubuntu

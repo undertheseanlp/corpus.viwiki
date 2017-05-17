@@ -1,0 +1,288 @@
+Trong toán học, một chuỗi Taylor của một hàm toán học khả vi thực hay phức, f định nghĩa trên miền xác định (a − r, a + r) là một chuỗi lũy thừa:
+
+  
+    
+      
+        T
+        (
+        x
+        )
+        =
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              
+                f
+                
+                  (
+                  n
+                  )
+                
+              
+              (
+              a
+              )
+            
+            
+              n
+              !
+            
+          
+        
+        (
+        x
+        −
+        a
+        
+          )
+          
+            n
+          
+        
+      
+    
+    {\displaystyle T(x)=\sum _{n=0}^{\infty }{\frac {f^{(n)}(a)}{n!}}(x-a)^{n}}
+  
+
+  
+    
+      
+        T
+        (
+        x
+        )
+        =
+        f
+        (
+        a
+        )
+        +
+        
+          
+            
+              
+                f
+                ′
+              
+              (
+              a
+              )
+            
+            
+              1
+              !
+            
+          
+        
+        (
+        x
+        −
+        a
+        )
+        +
+        ⋯
+        +
+        
+          
+            
+              
+                f
+                
+                  (
+                  n
+                  )
+                
+              
+              (
+              a
+              )
+            
+            
+              n
+              !
+            
+          
+        
+        (
+        x
+        −
+        a
+        
+          )
+          
+            n
+          
+        
+        +
+        ⋯
+      
+    
+    {\displaystyle T(x)=f(a)+{\frac {f'(a)}{1!}}(x-a)+\cdots +{\frac {f^{(n)}(a)}{n!}}(x-a)^{n}+\cdots }
+  
+Với n! là giai thừa của n và f (n)(a) là đạo hàm bậc n của f tại điểm a. Nếu a = 0, chuỗi này cũng được gọi là chuỗi Maclaurin.
+Ví dụ:
+
+  
+    
+      
+        sin
+        ⁡
+        (
+        x
+        )
+        =
+        
+          ∑
+          
+            n
+            =
+            0
+          
+          
+            ∞
+          
+        
+        (
+        −
+        1
+        
+          )
+          
+            n
+          
+        
+        
+          
+            
+              x
+              
+                2
+                n
+                +
+                1
+              
+            
+            
+              (
+              2
+              n
+              +
+              1
+              )
+              !
+            
+          
+        
+      
+    
+    {\displaystyle \sin(x)=\sum _{n=0}^{\infty }(-1)^{n}{\frac {x^{2n+1}}{(2n+1)!}}}
+  
+
+  
+    
+      
+        sin
+        ⁡
+        (
+        x
+        )
+        =
+        
+          
+            x
+            
+              1
+              !
+            
+          
+        
+        −
+        
+          
+            
+              x
+              
+                3
+              
+            
+            
+              3
+              !
+            
+          
+        
+        +
+        
+          
+            
+              x
+              
+                5
+              
+            
+            
+              5
+              !
+            
+          
+        
+        −
+        …
+        =
+        x
+        −
+        
+          
+            
+              x
+              
+                3
+              
+            
+            6
+          
+        
+        +
+        
+          
+            
+              x
+              
+                5
+              
+            
+            120
+          
+        
+        −
+        …
+      
+    
+    {\displaystyle \sin(x)={\frac {x}{1!}}-{\frac {x^{3}}{3!}}+{\frac {x^{5}}{5!}}-\ldots =x-{\frac {x^{3}}{6}}+{\frac {x^{5}}{120}}-\ldots }
+  
+Chuỗi Taylor được ứng dụng trong lý thuyết xấp xỉ, và giải tích. Nó cũng được mở rộng cho hàm số đa biến, khi coi a và r là các véctơ trên không gian của miền xác định của hàm.
+
+
+== Xem thêm ==
+Chuỗi Laurent
+Định lý Taylor
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+"Taylor Series" ở MathWorld
+Madhava of Sangamagramma
+"Discussion of the Parker-Sochacki Method"

@@ -1,0 +1,61 @@
+Hệ thống thông tin di động toàn cầu (tiếng Anh: Global System for Mobile Communications; tiếng Pháp: Groupe Spécial Mobile; viết tắt: GSM) là một công nghệ dùng cho mạng thông tin di động. Dịch vụ GSM được sử dụng bởi hơn 2 tỷ người trên 212 quốc gia và vùng lãnh thổ. Các mạng thông tin di động GSM cho phép có thể roaming với nhau do đó những máy điện thoại di động GSM của các mạng GSM khác nhau ở có thể sử dụng được nhiều nơi trên thế giới.
+GSM là chuẩn phổ biến nhất cho điện thoại di động (ĐTDĐ) trên thế giới. Khả năng phú sóng rộng khắp nơi của chuẩn GSM làm cho nó trở nên phổ biến trên thế giới, cho phép người sử dụng có thể sử dụng ĐTDĐ của họ ở nhiều vùng trên thế giới. GSM khác với các chuẩn tiền thân của nó về cả tín hiệu và tốc độ, chất lượng cuộc gọi. Nó được xem như là một hệ thống ĐTDĐ thế hệ thứ hai (second generation, 2G). GSM là một chuẩn mở, hiện tại nó được phát triển bởi 3rd Generation Partnership Project (3GPP) Đứng về phía quan điểm khách hàng, lợi thế chính của GSM là chất lượng cuộc gọi tốt hơn, giá thành thấp và dịch vụ tin nhắn. Thuận lợi đối với nhà điều hành mạng là khả năng triển khai thiết bị từ nhiều người cung ứng. GSM cho phép nhà điều hành mạng có thể sẵn sàng dịch vụ ở khắp nơi, vì thế người sử dụng có thể sử dụng điện thoại của họ ở khắp nơi trên thế giới.
+
+
+== Giao diện vô tuyến ==
+GSM là mạng điện thoại di động thiết kế gồm nhiều tế bào (cell) do đó các máy điện thoại di động kết nối với mạng bằng cách tìm kiếm các cell gần nó nhất. Các mạng di động GSM hoạt động trên 4 tần số. Hầu hết thì hoạt động ở tần số 900 MHz và 1800 MHz. Vài nước ở Châu Mỹ thì sử dụng tần số 850 MHz và 1900 MHz do tần số 900 MHz và 1800 MHz ở nơi này đã bị sử dụng trước.
+Và cực kỳ hiếm có mạng nào sử dụng tần số 400 MHz hay 450 MHz chỉ có ở Scandinavia sử dụng do các băng tần khác đã bị cấp phát cho việc khác.
+Các mạng sử dụng tần số 900 MHz thì đường lên (từ thuê bao di động đến trạm truyền dẫn uplink) sử dụng tần số trong dải 890–915 MHz và đường xuống downlink sử dụng tần số trong dải 935–960 MHz. Và chia các băng tần này thành 124 kênh với độ rộng băng thông 25 MHz, mỗi kênh cách nhau 1 khoảng 200 kHz. Khoảng cách song công (đường lên & xuống cho 1 thuê bao) là 45 MHz.
+Ở một số nước, băng tần chuẩn GSM900 được mở rộng thành E-GSM, nhằm đạt được dải tần rộng hơn. E-GSM dùng 880–915 MHz cho đường lên và 925–960 MHz cho đường xuống. Như vậy, đã thêm được 50 kênh (đánh số 975 đến 1023 và 0) so với băng GSM-900 ban đầu. E-GSM cũng sử dụng công nghệ phân chia theo thời gian TDM (time division multiplexing), cho phép truyền 8 kênh thoại toàn tốc hay 16 kênh thoại bán tốc trên 1 kênh vô tuyến. Có 8 khe thời gian gộp lại gọi là một khung TDMA. Các kênh bán tốc sử dụng các khung luân phiên trong cùng khe thời gian. Tốc độ truyền dữ liệu cho cả 8 kênh là 270.833 kbit/s và chu kỳ của một khung là 4.615 m.
+Công suất phát của máy điện thoại được giới hạn tối đa là 2 watt đối với băng GSM 850/900 MHz và tối đa là 1 watt đối với băng GSM 1800/1900 MHz.
+Mã hóa âm thanh
+GSM sử dụng khá nhiều kiểu mã hóa thoại để nén tần số audio 3,1 kHz vào trong khoảng 6.5 and 13 kbit/s. Ban đầu, có 2 kiểu mã hoá là bán tốc (haft rate -5.6 kbps)và toàn tốc (Full Rate -13 kbit/s)). Để nén họ sử dụng hệ thống có tên là mã hóa dự đoán tuyến tính (linear predictive coding - LPC).
+GSM được cải tiến hơn vào năm 1997 với mã hóa EFR (mã hóa toàn tốc cải tiến -Enhanced Full Rate), kênh toàn tốc nén còn 12.2 kbit/s. Sau đó, với sự phát triển của UMTS, EFR được tham số lại bởi kiểu mã hóa biến tốc, được gọi là AMR-Narrowband.
+Có tất cả bốn kích thước cell site trong mạng GSM đó là macro, micro, pico và umbrella. Vùng phủ sóng của mỗi cell phụ thuộc nhiều vào môi trường. Macro cell được lắp trên cột cao hoặc trên các toà nhà cao tầng, micro cell lại được lắp ở các khu thành thị, khu dân cư, pico cell thì tầm phủ sóng chỉ khoảng vài chục mét trở lại nó thường được lắp để tiếp sóng trong nhà. Umbrella lắp bổ sung vào các vùng bị che khuất hay các vùng trống giữa các cell.
+Bán kính phủ sóng của một cell tuỳ thuộc vào độ cao của anten, độ lợi anten thường thì nó có thể từ vài trăm mét tới vài chục km. Trong thực tế thì khả năng phủ sóng xa nhất của một trạm GSM là 35 km (22 dặm).
+Một số khu vực trong nhà mà các anten ngoài trời không thề phủ sóng tới như nhà ga, sân bay, siêu thị... thì người ta sẽ dùng các trạm pico để chuyển tiếp sóng từ các anten ngoài trời vào.
+
+
+== Lịch sử ==
+Vào đầu thập niên 1980 tại châu Âu người ta phát triển một mạng điện thoại di động chỉ sử dụng trong một vài khu vực. Sau đó vào năm 1982 nó được chuẩn hoá bởi CEPT (European Conference of Postal and Telecommunications Administrations) và tạo ra Groupe Spécial Mobile (GSM) với mục đích sử dụng chung cho toàn châu Âu.
+Mạng điện thoại di động sử dụng công nghệ GSM được xây dựng và đưa vào sử dụng đầu tiên bởi Radiolinja ở Phần Lan.
+Vào năm 1989 công việc quản lý tiêu chuẩn vá phát triển mạng GSM được chuyển cho viện viễn thông châu Âu (European Telecommunications Standards Institute - ETSI), và các tiêu chuẩn, đặc tính phase 1 của công nghệ GSM được công bố vào năm 1990. Vào cuối năm 1993 đã có hơn 1 triệu thuê bao sử dụng mạng GSM của 70 nhà cung cấp dịch vụ trên 48 quốc gia.
+
+
+== Cấu trúc mạng GSM ==
+
+Một mạng GSM để cung cấp đầy đủ các dịch vụ cho khách hang cho nên nó khá phức tạp vì vậy sau đây sẽ chia ra thành các phần như sau: chia theo phân hệ:
+- Phân hệ chuyển mạch NSS: Network switching SubSystem
+- Phân hệ vô tuyến RSS = BSS + MS: Radio SubSystem
+- Phân hệ vận hành và bảo dưỡng OMS: Operation and Maintenance SubSystem
+BSS Base Station Subsystem= TRAU + BSC + BTS
+
++ TRAU: bộ chuyển đổi mã và phối hợp tốc độ
++ BSC: bộ điều khiển trạm gốc
++ BTS: trạm thu phát gốc
+
+MS: chính là những chiếc di động gồm: ME và SIM
+
++ ME Mobile Equipment: phần cứng và phần mềm
++ SIM: lưu trữ các thông tin về thuê bao và mật mã / giải mật mã.
+
+Chức năng của BSC: - điều khiển một số trạm BTS xử lý các bản tin báo hiệu - Khởi tạo kết nối. - Điều khiển chuyển giao: Intra & Inter BTS HO - Kết nối đến các MSC, BTS và OMC
+Chức năng của BTS: - Thu phát vô tuyến - Ánh xạ kênh logic vào kênh vật lý - Mã hóa và giải mã - Mật mã / giải mật mã - Điều chế / giải điều chế.
+BSS nối với NSS thông qua luồng PCM cơ sở 2 Mbps
+Mạng và hệ thống chuyển mạch Network and Switching Subsystem (phần này gần giống với mạng điện thoại cố định). Đôi khi người ta còn gọi nó là mạng lõi (core network).
+Phần mạng GPRS (GPRS care network) Phần này là một phần lắp thêm để cung cấp dịch vụ truy cập Internet.
+Và một số phần khác phục vụ việc cung cấp các dịch vụ cho mạng GSM như gọi, hay nhắn tin SMS...
+Máy điện thoại - Mobile Equipment
+Thẻ SIM (Subscriber identity module)
+Modul nhận dạng thuê bao (Subscriber identity module)
+Một bộ phận quan trọng của mạng GSM là modul nhận dạng thuê bao, còn được gọi là thẻ SIM. SIM là 1 thẻ nhỏ, được gắn vào máy di động, để lưu thông tin thuê bao và danh bạ điện thoại. Các thông tin trên thẻ SIM vẫn được lưu giữ khi đổi máy điện thoại. Người dùng cũng có thể thay đổi nhà cung cấp khác, nếu đổi thẻ SIM. Một số rất ít nhà cung cấp dịch vụ mạng ngăn cản điều này bởi việc chỉ cho phép 1 máy dùng 1 SIM hay dùng SIM khác, nhưng do họ sản xuất, được gọi là tình trạng Khóa SIM. Ở Australia, Bắc Mỹ và châu Âu, một số nhà khai thác mạng viễn thông tiến hành khóa máy di động họ bán. Lý do là giá của các máy này được những nhà cung cấp đó tài trợ, và họ không muốn người dùng mua máy đó để xài cho hãng khác. Người dùng cũng có thể liên hệ với nhà sản xuất để đăng ký gỡ bỏ khóa máy. Số được khóa theo máy di động là số Nhận dạng máy di động quốc tế IMEI (International Mobile Equipment Identity), chứ không phải số thuê bao.
+Một vài nước như Bangladesh, Belgium, Costa Rica, India, Indonesia, Malaysia, và Pakistan tất cả các máy di động đều được bỏ khóa (Tất nhiên, cả Việt Nam nữa).
+
+
+=== XEM THÊM ===
+Dịch vụ vô tuyến gói tổng hợp GPRS
+
+
+== Tham khảo ==
+
+{{|de}}

@@ -1,0 +1,28 @@
+CDMA2000 (còn được gọi là IMT Multi‑Carrier (IMT‑MC) - IMT đa sóng mang) là một tiêu chuẩn công nghệ di động họ 3G, tiêu chuẩn này sử dụng kỹ thuật truy cập kênh CDMA, để gửi thoại, dữ liệu và dữ liệu báo hiệu giữa các điện thoại di động và trạm gốc. Tập các tiêu chuẩn bao gồm: CDMA2000 1X, CDMA2000 EV-DO Rev. 0, CDMA2000 EV-DO Rev. A, và CDMA2000 EV-DO Rev. B. Tất cả được phê duyệt các giao diện vô tuyến cho IMT-2000 của ITU. CDMA2000 có một lịch sử kỹ thuật tương đối dài và tương thích ngược với mạng IS-95 (cdmaOne) 2G. Tại Hoa Kỳ, CDMA2000 là thương hiệu được đăng ký của Hiệp hội Công nghiệp Viễn thông (TIA-USA). Công nghệ sau CDMA2000 là LTE.
+
+
+== 1X ==
+CDMA2000 1X (IS-2000), còn được gọi là 1x và 1xRTT, là một tiêu chuẩn giao diện vô tuyến không dây lõi CDMA2000. Tên định danh "1x", nghĩa là 'Công nghệ truyền dẫn 1 sóng mang đơn', dùng chung độ rộng thông tần số vô tuyến như IS-95: một cặp kênh vô tuyến song công tần số 1.25 MHz. 1xRTT gần như tăng gấp đôi dung lượng so với IS-95 bằng cách thêm 64 kênh lưu lượng nữa cho liên kết đường xuống, các kênh thêm này trực giao với tập 64 kênh gốc. Tiêu chuẩn 1X hỗ trợ tốc độ dữ liệu gói lê tới 153 kbps với truyền dẫn dữ liệu thực trung bình đạt 60–100 kbps trong hầu hết các ứng dụng thương mại trên thế giới. IMT-2000 cũng thực hiện các thay đổi lớp liên kết dữ liệu cho việc sử dụng nhiều hơn các dịch vụ dữ liệu, bao gồm các giao thức điều khiển truy cập liên kết và môi trường và QoS. Lớp liên kết dữ liệu IS-95 chỉ cung cấp "chuyển giao nỗ lực tốt nhất" cho dữ liệu và kênh chuyển mạch cho thoại (ví dụ, một khung thoại mỗi lần 20ms).
+
+
+== 1xEV-DO ==
+
+CDMA2000 1xEV-DO (Evolution-Data Optimized nghĩa là Cải tiến-Tối ưu hóa dữ liệu), thương viết tắt là EV-DO hoặc EV, là một tiêu chuẩn viễn thông cho truyền dẫn không dây dữ liệu qua các tín hiệu vô tuyến, thương cho truy cập Internet băng rộng. Nó sử dụng kỹ thuật ghép kênh bao gồm đa truy cập phân chia theo mã (CDMA) cũng như đa truy cập phân chia theo thời gian (TDMA) để tối đa hóa cả thông lượng của người dùng cá nhân và thông lượng hệ thống tổng thể. Nó được tiêu chuẩn hóa bởi Dự án 2 đối tác thế hệ thứ 3 (3GPP2) như là một phần của dòng tiêu chuẩn CDMA2000 và được chấp nhận bởi nhiều nhà cung cấp dịch vụ điện thoại di động trên thế giới - đặc biệt là những nhà cung cấp dịch vụ trước đó đã triển khai các mạng CDMA. Nó cũng được sử dụng trong mạng điện thoại vệ tinh Globalstar.
+
+
+== Các mạng ==
+
+Nhóm phát triển CDMA thông báo, đến tháng 11 năm 2009, có 308 nhà khai thác tại 116 quốc gia triển khai dịch vụ CDMA2000 1X và 1xEV-DO.
+
+
+== Lịch sử ==
+Công nghệ tiếp theo sau CDMA2000 là UMB (Ultra Mobile Broadband - Siêu băng rộng di động) (4G), tuy nhiên vào tháng 11 năm 2008, Qualcomm tuyên bố họ đã chấm dứt việc phát triển công nghệ UMB, thay vào đó là LTE.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+CDMA2000 Development Group (CDG)
+3GPP2 Standards and specifications
+TIA Standards documentation

@@ -1,0 +1,285 @@
+Đây là một danh sách chưa đầy đủ của các tiêu chuẩn ISO.
+Một số tiêu chuẩn được ISO/IEC JTC1 công bố, đã được đăng cho mọi người tự do truy cập
+
+
+== ISO 1–ISO 999 ==
+ISO 3 Những con số trọng dụng
+ISO 9 Tin tức và tài liệu - Chuyển tự từ hệ chữ cái Kirin sang chữ La-tinh - từ ngôn ngữ Xla-vơ sang ngôn ngữ không thuộc hệ Xla-vơ
+ISO 16:1975 Âm học – tần số tiêu chuẩn để lên dây (Tiêu chuẩn về cao độ trong âm nhạc)
+ISO 31 Đơn vị và khối lượng
+ISO 216 Cỡ giấy
+ISO 233:1984 Chuyển tự từ tiếng Ả Rập sang tiếng La-tinh
+ISO 233-2:1993 Chuyển tự từ tiếng Ả Rập sang tiếng La-tinh – Phần 2: Tiếng Ả Rập – Chuyển tự đơn giản hóa
+
+ISO 259:1984 Tài liệu – Chuyển tự từ tiếng Hê-bơ-rơ sang tiếng La-tinh
+ISO 259-2:1994 Chuyển tự từ tiếng Hê-bơ-rơ sang tiếng La-tinh – Phần 2: Chuyển tự đơn giản hóa
+
+ISO 261 ISO Kích thước cơ bản - ren đinh vít - Kế hoạch chung.
+ISO 262 ISO Kích thước cơ bản ren đinh vít - Cỡ loại chọn lọc của đinh vít, bu-lông, và đai ốc.
+ISO 639 Bảng mã tên các ngôn ngữ
+ISO 639-1 Bảng mã tên các ngôn ngữ – Phần 1: mã số sơ thảo, phiên bản 2
+ISO 639-2 Bảng mã tên các ngôn ngữ – Phần 2: mã số sơ thảo, phiên bản 3
+
+ISO/IEC 646 Các biến thể của quốc tế hóa 7 bit ASCII
+ISO 657 Các phần về thép cuộn nóng
+ISO 690 Tham khảo thư mục
+ISO 732 Nhiếp ảnh – Phim cỡ 120 và 220 – các đo lường
+ISO 838 Tiêu chuẩn dùi lỗ trên giấy lưu hồ sơ
+ISO 843:1997 Đổi chữ cái từ tiếng Hy Lạp sang tiếng La-tinh
+
+
+== ISO 1000–ISO 9999 ==
+ISO 1000 Đơn vị đo lường SI và những tiến cử về cách dùng nhiều đơn vị đo lường chuẩn xác khác nhau của nó
+ISO 1007 Loại phim 135
+ISO/IEC 1539-1 Ngôn ngữ lập trình Fortran
+ISO 1629 Thiết lập hệ thống thuật ngữ và cách đặt tên cho các hợp chất cao phân tử
+ISO/IEC 2022 Kỹ thuật tin học: Cấu trúc mã ký tự và phép mở rộng
+ISO 2108 Số thứ tự cho sách theo tiêu chuẩn quốc tế (ISBN)
+ISO 2145 Cách đánh số phần và đoạn trong các tài liệu
+ISO 2171 Ngũ cốc và những sản phẩm ngũ cốc được xay nghiền - Phương pháp xác định lượng than tổng thể
+ISO 2709 Khổ mẫu trao đổi thông tin (e.g. MARC)
+ISO 3029 Loại phim 126
+ISO 3082 Quặng sắt - lấy mẫu và quy trình chuẩn bị mẫu
+ISO 3103 Phương pháp hâm chè để kiểm tra bằng giác quan
+ISO 3166 Mã hóa tên quốc gia và các đơn vị hành chính
+ISO 3166-1 Mã hóa tên quốc gia và tên của các vùng lãnh thổ trực thuộc, xuất bản lần đầu vào năm 1974
+ISO 3166-1 lược thảo phiên bản-2 Hệ thống mã hóa tên quốc gia dùng hai ký tự
+ISO 3166-1 lược thảo phiên bản-3 Hệ thống mã hóa tên quốc gia dùng ba ký tự
+ISO 3166-1 Mã hóa tên quốc gia dùng số
+
+ISO 3166-2 Sự phân chia các đơn vị hành chính quốc gia và các vùng lãnh thổ trực thuộc.
+ISO 3166-3 Mã hóa tên quốc gia dùng số, bản mới thay thế bản ISO 3166-1, xuất bản lần đầu vào năm 1998.
+
+ISO 3297 Số ấn phẩm định kỳ theo tiêu chuẩn quốc tế (ISSN)
+ISO 3506 Tính chất chống rỉ của ốc vít thép không rỉ.
+ISO 3602 La-mã hóa tiếng Nhật
+ISO 3864 Thiết kế nhãn an toàn
+ISO 3901 Tiêu chuẩn quốc tế về số mã đánh dấu các bản thu thanh (ISRC)
+ISO 3977 Tiêu chuẩn thiết kế và thu mua các ứng dụng của máy tua-bin chạy bằng hơi đốt
+ISO 4157 Hệ thống ký hiệu các bản vẽ xây dựng
+ISO 4217 Mã số chỉ định tiền tệ
+ISO/IEC 4873:1991 Chuẩn mã trao đổi dùng nhóm mã 8-bit
+ISO 5167 Đo đạc tốc độ dòng chảy của chất lỏng dùng thiết bị đo áp xuất chênh lệch trong ống dẫn, khi ống dẫn đầy.
+ISO 5167-1 Part 1: Thuật ngữ chung, nguyên tắc và yêu cầu.
+ISO 5167-2 Part 2: Quy định riêng về màng chắn.
+ISO 5167-3 Part 3: Quy định về vòi phun và vòi phun Venturi.
+ISO 5167-4 Part 4: Quy định về vòi Venturi cổ điển.
+
+ISO 5218 Quy định mã số định hình giới tính của nhân loại
+ISO 5775 Lốp và vành xe đạp
+ISO 5800 Tốc độc phim nhiếp ảnh
+ISO 6166 Cấu trúc của hệ thống số bảo an quốc tế (ISIN)
+ISO 6344 Giấy ráp – Phân tích về cỡ hạt
+ISO 6344-1 Part 1: Kiểm nghiệm sự phân bổ cỡ hạt
+ISO 6344-2 Part 2: Xác định sự phân bổ hạt đá mạt vĩ mô P12 đến P220
+ISO 6344-3 Part 3: Xác định sự phân bổ cỡ hạt của đá mạt vĩ mô từ P240 to P2500
+
+ISO 6429 Kỹ thuật tin học: hàm khống chế các bộ mã tự
+ISO 6438 Tài liệu - Chuẩn bộ mã tự châu Phi dành cho việc trao đổi tin tức thư mục
+ISO 6709 Tiêu chuẩn định vị điểm địa hình dùng vĩ tuyến, kinh tuyến, và độ cao.
+ISO 7001 Những nhãn hiệu về tin tức công cộng
+ISO 7098 La-mã hóa tiếng Trung Quốc
+ISO 7372 Trao đổi dữ liệu thương mại
+ISO/IEC 7501-1:1997 Thẻ chứng minh thư - giấy đi đường đọc được bằng máy (Phần 1 Hộ chiếu đọc được bằng máy; Phần 2 Giấy xuất nhập cảnh đọc được bằng máy; Phần 3 Giấy đi đường hợp pháp đọc được bằng máy)
+ISO 7775 Tiêu chuẩn về thông điệp bảo an (lỗi thời - xem ISO 15022)
+ISO 7810 Tiêu chuẩn về các thẻ tài chính (thẻ tín dụng và thẻ ghi nợ)
+ISO 7811 Kỹ thuật ghi dữ liệu trên các thẻ chứng minh thư
+ISO 7816 Thẻ thông minh
+ISO 8090 Xe đạp - thuật ngữ
+ISO 8373 Vận dụng người máy công nghiệp - từ vựng
+ISO 8583 Thông điệp dùng trong thẻ giao dịch tài chính - đặc tả thông điệp trao đổi
+ISO 8583-1 Phần 1: Thông điệp, yếu tố dữ liệu và các giá trị mã
+ISO 8583-2 Phần 2: Chương trình ứng dụng và thủ tục đăng ký số mã đại diện cho cơ quan tổ chức (IIC).
+ISO 8583-3 Part 3: Thủ tục duy trì thông điệp, yếu tố dữ liệu và giá trị mã.
+
+ISO 8601 Hình thức biểu thị ngày giờ
+ISO/IEC 8613 Kiến trúc văn bản mở
+ISO/IEC 8632 Metafile của đồ họa vi tính
+ISO/IEC 8652: Kỹ thuật tin dụng - Ngôn ngữ lập trình - Ada
+ISO 8807: ngôn ngữ đặc tả kỹ thuật theo trật tự thời gian (LOTOS)
+ISO/IEC 8824 Ký hiệu cú pháp trừu tượng số một (ASN.1)
+ISO/IEC 8825 ASN.1 Luật mã hóa
+ISO 8859 mã hóa ký tự
+ISO 8859-1 Chữ La-tinh 1
+ISO 8859-2 Chữ La-tinh 2
+ISO 8859-3 Chữ La-tinh 3 hoặc "Nam Âu"
+ISO 8859-4 Chữ La-tinh 4 hoặc "Bắc Âu"
+ISO 8859-5 Chữ kirin
+ISO 8859-6 Chữ Ả-rập
+ISO 8859-7 Chữ Hy-lạp
+ISO 8859-8 Chữ Hê-bơ-rơ
+ISO 8859-9 Chữ La-tinh 5
+ISO 8859-10 Chữ La-tinh 6, sự sắp xếp lại của 8859-4
+ISO 8859-11 Chữ Thái
+ISO 8859-13 Chữ La-tinh 7 hoặc "Tiếng vùng bờ biển Ban-tích"
+ISO 8859-14 Chữ La-tinh 8 hoặc "Tiếng Xen-tơ"
+ISO 8859-15 Chữ La-tinh 9, bản duyệt lại của 8859-1
+ISO 8859-16 Chữ La-tinh 10 Những ngôn ngữ ở vùng Đông Nam châu Âu và những ngôn ngữ khác
+
+ISO 8879 Ngôn ngữ đánh dấu tổng quát chuẩn (SGML)
+ISO 9000 Hệ thống quản lý chất lượng trong môi trường sản xuất
+ISO 9001 Quản lý chất lượng
+ISO 9069 SGML Tiện nghi hỗ trợ - SGML Dạng thức trao đổi tài liệu (SDIF)
+ISO/IEC 9075 SQL
+ISO 9126 Mô hình chất lượng phần mềm.
+ISO 9241 Tính sử dụng của một trang Web (chưa được công bố vào thời điểm ngày 1 tháng 2 năm 2004
+ISO 9362 Mã số chỉ đinh ngân hàng hoặc hệ thống BIC
+ISO/IEC 9579 Truy cập cơ sở dữ liệu từ xa đối với SQL
+ISO 9660 CD-ROM hệ thống tập tin
+ISO 9899 Ngôn ngữ lập trình C
+ISO/IEC 9945 Giao thức hệ điều hành di động (POSIX)
+ISO 9984 Hệ thống đổi chữ Georgian sang chữ La-tinh
+ISO 9985 Hệ thống đổi chữ Ác-mê-ni sang chữ La-tinh
+ISO 9999 Hỗ trợ về kỹ thuật cho những người tàn phế. Phân loại và thuật ngữ.
+
+
+== ISO 10000–ISO 19999 ==
+ISO 10006 Quản lý chất lượng - Hướng dẫn về chất lượng trong quản lý đề án
+ISO 10007 Quản lý chất lượng - Hướng dẫn về quản lý cấu hình
+ISO/IEC 10021 Hệ thống trao đổi văn bản hướng thông điệp (MOTIS)
+ISO/IEC 10026 Kết nối các hệ thống mở
+ISO/IEC 10089 Kỹ thuật tin học: đĩa quang viết lại bao hộp 130 mm trong trao đổi dữ liệu - 650 MB một hộp
+ISO 10161 Các giao thức thông thư viện cho trao đổi văn bản ảo hoặc VDX
+ISO 10160 Các giao thức thông thư viện định nghĩa thuật ngữ dùng trong trao đổi văn bản ảo
+ISO/IEC 10179:1996 Ngôn ngữ trang trí và đặc tả tài liệu (DSSSL)
+ISO 10279 Ngôn ngữ lập trình BASIC
+ISO 10303 Hệ thống tự động hóa công nghiệp và sự tích hợp - dữ liệu về sản phẩm, hình thức biểu thị và trao đổi, còn được gọi là STEP, (tiếng Anh là STandard for the Exchange of Product data - tạm dịch là Tiêu chuẩn trao đổi dữ liệu về sản phẩm)
+ISO 10383 Mã hiệu cho các cơ quan thị trường chứng khoán (MIC)
+ISO 10646 Bộ mã chuẩn quốc tế (tương đương Unicode)
+ISO 10664 Đặc trưng điều hướng nội lực của Bu-lông trong ốc vít; – Đầu ốc vít Torx
+ISO 10957 Tin tức và tài liệu - Số đăng ký các sáng tác âm nhạc được in theo tiêu chuẩn quốc tế (ISMN)
+ISO 10962 Công cụ tài chính
+ISO/IEC 11172 MPEG-1
+ISO 11170:2003 Hệ truyền lực chất lỏng - Các màng lọc - Loạt các thử nghiệm chứng minh tính năng hoạt động
+ISO/IEC 11179 Kỹ thuật tin học –- Thuật ngữ quản trị được đăng ký (MDR)
+ISO/IEC 11179-1:2004 Part 1: Khung hình cấu trúc
+ISO/IEC 11179-2:2005 Part 2: Phân loại
+ISO/IEC 11179-3:2003 Part 3: Mô hình thuật ngữ quản trị được đăng ký và những thuộc tính căn bản
+ISO/IEC 11179-4:2004 Part 4: Công thức hóa và định nghĩa dữ liệu
+ISO/IEC 11179-5:2005 Part 5: Nguyên tắc điền danh và nhận dạng
+ISO/IEC 11179-6:2005 Part 6: Đăng ký
+
+ISO 11180 Ghi địa chỉ bưu điện
+ISO/IEC 11404:1996 Kiểu dữ liệu phi thuộc ngữ (Xem thêm Kiểu dữ liệu đa tính năng)
+ISO 11521 được thay thế bằng ISO 15022
+ISO/IEC 11578:1996 Kỹ thuật tin học -- Kết nối các hệ thống mở -- Kỹ thuật sử dụng viễn hàm (RPC)
+ISO 11783 còn được gọi là IsoBus - giao thức truyền thông dựa trên nền tảng J1939 cho nông nghiệp
+ISO/IEC 11801 Kỹ thuật tin học – Phương pháp lắp ráp đường dây tại cơ sở người dùng
+ISO 12006 Xây dựng nhà cửa. Tổ chức và quản lý dữ liệu trong công việc xây dựng.
+ISO 13239 Thủ tục điều khiển liên kết dữ liệu cao cấp (HDLC)
+ISO/IEC 13249 SQL Các gói trình ứng dụng và gói trình đa phương tiện
+ISO/IEC 13250 Mạng lưới kết nối tài liệu theo chủ đề
+ISO 13346 Cấu trúc tập tin và bộ đĩa của những phương tiện ghi một lần, ghi nhiều lần, mà UDF sử dụng.
+ISO 13450 Loại phim 110
+ISO 13490 Kỹ thuật tin học: Bộ đĩa và cấu trúc tập tin của đĩa CD chỉ đọc ra, hoặc đĩa CD ghi một lần, dành cho việc trao đổi dữ liệu.
+ISO 13567/1 đến 3 Phương pháp viết tài liệu cho các sản phẩm kỹ thuật; Tổ chức và đặt tên cho các tầng cho CAD (Thiết kế dùng sự hỗ trợ của máy tính)
+ISO/IEC 13568:2002 Kỹ thuật tin học – Hệ thống đặc tả chính quy dùng ký hiệu Z – Cú pháp, Hệ thống định dạng và ngữ nghĩa.
+ISO 13616 Số tài khoản nhà băng (IBAN)
+ISO/IEC 13818 MPEG-2
+ISO 14000 Tiêu chuẩn quản lý môi trường trong môi trường sản xuất.
+ISO 14443 Thẻ thông minh phi tiếp xúc, còn được gọi là RFID
+ISO/IEC 14496 MPEG-4
+ISO 14644 Phòng sạch và những môi trường kiểm soát liên quan
+ISO 14644-1:1999 Part 1: Phân loại độ sạch của không khí
+ISO 14644-2:2000 Part 2: Quy định thử nghiệm và theo dõi để chứng minh độ thích hợp với mức độ sạch đòi hỏi trong ISO14644-1
+ISO 14644-4:2001 Part 4: Thiết kế, xây dựng và khởi đầu
+
+ISO 14651 Kỹ thuật tin học: Tiêu chuẩn quốc tế về sắp đặt thứ tự và so sánh chuỗi ký tự
+ISO 14750 Kỹ thuật tin học – Phân bổ điều hành mở - Ngôn ngữ định dạng giao thức
+ISO/IEC 14755 Phương pháp nhập dữ liệu cho phép đánh các ký tự trong bộ mã UNICODE của ISO/IEC 10646
+ISO/IEC 14977 Định dạng Backus-Naur mở rộng (EBNF)
+ISO/IEC 14882 Ngôn ngữ lập trình - C++
+ISO 15000 Ngôn ngữ đánh dấu mở rộng thương mại điện tử ebXML
+ISO 15000-1:2004 Phần 1: Quy định thoả thuận và thủ tục hợp tác (ebCPP)
+ISO 15000-2:2004 Phần 2: Quy định dịch vụ thông điệp (ebMS)
+ISO 15000-3:2004 Phần 3: Quy định mô hình thông tin đăng ký (ebRIM)
+ISO 15000-4:2004 Phần 4: Quy định các dịch vụ đăng ký (ebXML)
+ISO 15000-5:2005 Phần 5: Quy định kỹ thuật của các bộ phận chính trong ebXML, phiên bản 2.01(ebCCTS)
+
+ISO 15022 Bảo an: hệ thống thông điệp
+ISO 15288 Kỹ thuật hệ thống - Chu kỳ điều hành của hệ thống
+ISO/IEC 15291: Kỹ thuật tin học – Ngôn ngữ lập trình - Quy định giao thức ngữ nghĩa của Ada (ASIS)
+ISO/IEC 15408 Tiêu chuẩn chung - tiêu chuẩn xét duyệt đối với bảo an trong kỹ thuật tin học
+ISO/IEC 15434 Ma trận dữ liệu hai chiều của mã vạch
+ISO/IEC 15444 JPEG 2000
+ISO/IEC 15445:2000 ISO HTML, một chi nhánh của HTML phiên bản 4
+ISO 15614-13:2002 Yêu cầu kỹ thuật và chất lượng kỹ thuật hàn đối với vật liệu kim loại. Thử kỹ thuật hàn.
+ISO 15686 Thời hạn dịch vụ cho những công trình xây dựng - gồm 10 phần
+ISO 15706 Tiêu chuẩn quốc tế số đăng ký những bản thu âm thanh và hình ảnh
+ISO 15707 Tiêu chuẩn quốc tế số mã đăng ký cho những tác phẩm ẩm nhạc
+ISO 15897 Tiêu chuẩn quốc tế đối với việc đăng ký mã địa phương POSIX và bộ mã tự POSIX
+ISO 15924 Mã hiệu biểu thị tên của các scripts (???)
+ISO 15930 PDF (Portable Document Format)
+ISO/IEC 15948:2003. PNG
+ISO/IEC 16262. ECMAScript
+ISO/IEC 17025 Yêu cầu chung về năng lực của các phòng thí nghiệm thử nghiệm và hiệu chuẩn
+ISO/IEC 17799 Kỹ thuật tin học: Mã thực hành cho quản lý thông tin mật
+ISO/IEC 17894 Tàu và ngành công nghiệp đóng tàu. Ứng dụng máy tính. Các nguyên tắc chung để phát triển và sử dụng hệ thống điện tử lập trình trong các ứng dụng hàng hải.
+ISO/IEC 18009: Kỹ thuật tin học – Ngôn ngữ lập trình - Ada: Đánh giá sự phù hợp của bộ điều hành ngôn ngữ (ACATS)
+ISO 18245 Tiêu chuẩn thiết lập mã quy định để định loại hàng hóa trong các dịch vụ tài chính buôn bán lẻ
+ISO 18629 Tiêu chuẩn hóa Ngôn ngữ đặc tả điều hành (PSL). (Ngôn ngữ phần mềm hỗ trợ trí tuệ nhân tạo)
+ISO 19005 PDF (Portable Document Format)
+ISO 19011 Tiêu chuẩn đánh giá hệ thống quản lý chất lượng và môi trường
+ISO 19092-1 Dịch vụ tài chính - Bảo an - Phần 1: Khuôn hình của hệ thống bảo an
+ISO 19092-2 Dịch vụ tài chính - Bảo an - Phần 2: Ngữ pháp thông điệp và quy định mật mã
+ISO 19101 Dữ liệu địa dư: Mô hình tham chiếu
+ISO 19105 Dữ liệu địa dư: Kiểm tra tính phù hợp
+ISO 19107 Dữ liệu địa dư: Giản đồ không gian
+ISO 19108 Dữ liệu địa dư: Giản đồ thời gian
+ISO 19109 Dữ liệu địa dư: Quy tắc đối với giản đồ ứng dụng
+ISO 19110 Dữ liệu địa dư: Phương pháp mục lục hóa nét đặc trưng
+ISO 19111 Dữ liệu địa dư: Đối chiếu không gian bằng tọa độ
+ISO 19111 Dữ liệu địa dư: Đối chiếu không gian bằng tên
+ISO 19113 Dữ liệu địa dư: Nguyên tắc chất lượng
+ISO 19115 Dữ liệu địa dư: Metadata
+ISO 19123 Dữ liệu địa dư: Giản đồ bao phủ
+ISO 19128 Dữ liệu địa dư: Dịch vụ bản đồ trên mạng Web
+ISO 19136 Dữ liệu địa dư: Ngôn ngữ đánh dấu địa lý
+ISO/IEC 19501 UML Ngôn ngữ mô hình hóa thống nhất
+ISO/IEC 19502 MOF (Meta-Object Facility)
+ISO/IEC 19503 XMI (XML Metadata Interchange)
+ISO/IEC 19757 Ngôn ngữ định vị giản đồ văn bản (Document Schema Definition Languages) (DSDL)
+ISO/IEC FDIC 19757-2 Kiểm chứng theo luật ngữ pháp thông thường RELAX NG
+ISO/IEC 19757-3 Kiểm chứng theo quy tắc Schematron
+
+ISO/IEC 19790 Quy tắc bảo an đối với những mô đun mật mã (xem thêm FIPS 140)
+
+
+== ISO 20000–ISO 29999 ==
+ISO/IEC 20000:2005 Hệ thống quản lý dịch vụ IT (dựa trên BS15000)
+ISO 20022 Dịch vụ tài chính - kế hoạch thông điệp công nghiệp tài chính thông dụng
+ISO/IEC TR 20943 Kỹ thuật tin học - Quy trình đồng bộ hóa nội dung của metadata đăng ký
+ISO/IEC TR 20943-1:2003 Phần 1: Phần tử dữ liệu
+ISO/IEC TR 20943-3:2004 Phần 3: Lĩnh vực giá trị
+
+ISO/IEC TR 22250 Mô tả ngôn ngữ đại diện cho XML (Regular Language description for XML - RELAX)
+ISO/IEC TR 22250-1:2002 Bộ phận chủ yếu của RELAX
+
+ISO/IEC 23270:2003 Ngôn ngữ lập trình C#
+ISO/IEC 23360 Tiêu chuẩn trên nền tảng của Linux (LSB) quy định chủ yếu, phiên bản 3.1 (được công bố tháng 12 năm 2005)
+ISO/IEC 23360-1 -- Phần 1: Quy định chung
+ISO/IEC 23360-2 -- Phần 2: Quy định cho kiến trúc IA32
+ISO/IEC 23360-3 -- Phần 3: Quy định cho kiến trúc IA64
+ISO/IEC 23360-4 -- Phần 4: Quy định cho kiến trúc AMD64
+ISO/IEC 23360-5 -- Phần 5: Quy định cho kiến trúc PPC32
+ISO/IEC 23360-6 -- Phần 6: Quy định cho kiến trúc PPC64
+ISO/IEC 23360-7 -- Phần 7: Quy định cho kiến trúc S390
+ISO/IEC 23360-8 -- Phần 8: Quy định cho kiến trúc S390X
+
+ISO/IEC 26300: Dạng văn bản mở (.odf)
+ISO/IEC 27001 Kỹ thuật tin học—Kỹ thuật bảo an—Hệ thống quản lý bảo an dữ liệu—Các quy định
+
+
+== Theo bộ tiêu chuẩn ==
+Bộ tiêu chuẩn ISO 9000 (gồm ISO 9000, ISO 9001, ISO 9004...): Hệ thống quản lý chất lượng.
+Bộ tiêu chuẩn ISO 14000 (gồm ISO 14001, ISO 14004...): Hệ thống quản lý môi trường.
+Bộ tiêu chuẩn ISO 22000 (gồm ISO 22000, ISO 22002, ISO 22003, ISO 22004, ISO 22005, ISO 22006...): Hệ thống quản lý an toàn thực phẩm.
+ISO/TS 22003:2007: Quản lý hoạt động đánh giá hệ thống an toàn thực phẩm theo tiêu chuẩn ISO 22000.
+
+ISO/IEC 17020:2012: Chuẩn mực chung cho các hoạt động của tổ chức tiến hành giám định, phiên bản cũ ban hành năm 1998, tương đương tiêu chuẩn TCVN ISO/IEC 17020:2001; Phiên bản mới ban hành ngày 1/3/2012 (bản dịch tạm thời được cung cấp bởi Đặng Khánh Hào)
+ISO/IEC 17021:2006: Hệ thống tiêu chuẩn cho các tổ chức chứng nhận.
+ISO/TS 16949: Được xây dựng bởi Hiệp hội ôtô quốc tế (IATF) - The International Automotive Task Force. Tiêu chuẩn ISO/TS 16949: 2002 là quy định kỹ thuật phù hợp với tiêu chuẩn HTQLCL ngành công nghiệp ôtô toàn cầu như: QS 9000 (Mỹ), VDA6.1 (Đức), EAQF (Pháp), AVSQ (Ý) với mục đích loại bỏ nhiều chứng nhận nhằm thỏa mãn yêu cầu của nhiều khách hàng. Đây không phải là tiêu chuẩn bắt buộc cho các nhà sản xuất ôtô trên thế giới.
+ISO 15189: Hệ thống quản lý phòng thí nghiệm y tế (yêu cầu cụ thể về năng lực và chất lượng Phòng thí nghiệm Y tế), (Phiên bản đầu tiên ban hành năm 2003, phiên bản gần đây ban hành năm 2007 và có tiêu chuẩn quốc gia của Việt Nam tương đương là TCVN 7782:2008).
+
+
+== Tham khảo ==

@@ -1,0 +1,106 @@
+Nhiệt độ là tính chất vật lý của vật chất hiểu nôm na là thang đo độ "nóng" và "lạnh". Vật chất có nhiệt độ cao hơn thì nóng hơn.
+Định nghĩa chính xác của nhiệt độ trong nhiệt động lực học dựa vào các định luật nhiệt động lực học, miêu tả bên dưới đây.
+Nhiệt độ được đo bằng nhiệt kế. Nhiệt độ được đo bằng các đơn vị khác nhau và có thể biến đổi bằng các công thức. Trong hệ đo lường quốc tế, nhiệt độ được đo bằng đơn vị Kelvin, ký hiệu là K. Trong đời sống ở Việt Nam và nhiều nước, nó được đo bằng độ C (1 độ C trùng 274,15 K)(Chú thích: 1 độ C bằng 1 K,, hai thang đo này cùng mức chia, chỉ có vạch xuất phát cách nhau 273.15 độ thôi, CHÚ Ý là không dùng chữ "độ K" (hoặc "⁰K") khi ghi kèm số, chỉ ký hiệu K thôi, ví dụ 45K, 779K, chứ không ghi 45 độ K (hoặc 45⁰K), và đọc là 45 Kelvin, 779 Kelvin, chứ không phải "45 độ Kelvin",...). Trong đời sống ở nước Anh, Mỹ và một số nước, nó được đo bằng độ F (1 độ F trùng 255,927778 K)(xin chú thích: ⁰F = (1,8 x ⁰C) + 32, hay 1 độ C bằng 1.8 độ F, nhưng mức xuất phát thang đo khác nhau, tính ra nhiệt độ cơ thể người khoảng hơn 98 ⁰F).
+
+
+== Các định nghĩa ==
+
+
+=== Dựa vào định luật 1 nhiệt động lực học ===
+Một cách định nghĩa nhiệt độ là dựa vào cân bằng nhiệt động. Nếu hai hệ vật chất được cho tiếp xúc với nhau, các tính chất của chúng có thể thay đổi do trao đổi nhiệt năng hay tổng quát là năng lượng. Theo thời gian trôi qua, trao đổi này chậm dần rồi ngừng lại và tính chất của hai hệ không biến đổi nữa, hai hệ đạt đến cân bằng nhiệt động với nhau.
+Định luật 1 nhiệt động lực học phát biểu: "nếu hai hệ nhiệt động lực, A và B, ở trạng thái cân bằng nhiệt động với hệ nhiệt động lực thứ ba, C, thì A và B cũng ở trạng thái cân bằng nhiệt động với nhau". Định luật này rút ra từ quan sát thực nghiệm, chứ không có cơ sở lý thuyết. Cả ba hệ A, B và C đều ở cùng trạng thái cân bằng nhiệt động, nên ta có thể đặt một tính chất chung cho trạng thái đó. Nó gọi là nhiệt độ.
+Như vậy nhiệt độ là đặc tính xác định trạng thái cân bằng của hệ nhiệt động lực. Tuy nhiên cũng cần lưu ý khi phát triển khái niệm nhiệt độ cho hệ không ở trạng thái cân bằng nhiệt.
+
+
+=== Dựa vào định luật 2 nhiệt động lực học ===
+Định luật hai nhiệt động lực học hay, chính xác hơn, cơ học thống kê cho ta định nghĩa về nhiệt độ của một hệ nhiệt động, dựa trên khái niệm "cơ bản hơn" entropy:
+
+  
+    
+      
+        
+          
+            1
+            T
+          
+        
+        =
+        
+          
+            
+              d
+              S
+            
+            
+              d
+              E
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{T}}={\frac {dS}{dE}}}
+  
+Ở đây, T là nhiệt độ của hệ, S là entropy của hệ, là hàm của năng lượng E của hệ. Như vậy, nghịch đảo nhiệt độ là độ thay đổi của entropy theo năng lượng.
+
+
+== Sử dụng trong khoa học ==
+
+Nhiều tính chất vật lý của vật liệu như các pha rắn, lỏng, khí hoặc plasma, tỷ trọng, độ hòa tan, áp suất hơi, và độ dẫn diện phụ thuộc vào nhiệt độ. Nhiệt độ cũng đóng vài trong quan trọng trong việc xác định tốc độ và khả năng phản ứng hóa học xảy ra. Nhiệt độ cũng xáv định sự phát xạ nhiệt phát ra từ một bề mặt. Một ứng dụng của hiệu ứng này là bóng đèn dây tóc, trong bóng đèn các sợi tungsten được nung bóng bằng điện đến một nhiệt độ đủ để phát ra ánh sáng nhìn thấy.
+
+
+== Các thang đo nhiệt độ ==
+Thang đo nhiệt độ quốc tế năm 1990 (ITS-90) xác định cả Nhiệt độ quốc tế Kelvin, ký hiệu là T90, và Nhiệt độ quốc tế Celsius, ký hiệu là t90. Mối quan hệ giữa T90 và t90 là giống nhau giống như giữa T và t, có nghĩa là:
+t90 / °C = T90 / K – 273,15 (2)
+Đơn vị đo đại lượng vật lý T90 là kelvin, ký hiệu là K, và Đơn vị đo đại lượng vật lý t90 là độ Celsius, ký hiệu là °C, như trong trường hợp đối với nhiệt độ nhiệt động lực T và nhiệt độ Celsius t.
+
+
+== Nhiệt dung ==
+
+Khi một mẫu vật được gia nhiệt, có nghĩa là nó nhận thêm năng lượng nhiệt từ một nguồn bên ngoài, một phần nhiệt đưa vào được chuyển thành động năng, phần còn lại được chuyển thành các dạng khác của nội năng, tính chất này tùy thuộc vào loại vật liệu. Lượng nhiệt đưa vào (
+  
+    
+      
+        Δ
+        Q
+      
+    
+    {\displaystyle \Delta Q}
+  ) được phân chia theo sự thay đổi nhiệt độ quan sát được gọi là nhiệt dung (C) của vật liệu.
+
+  
+    
+      
+        C
+        =
+        
+          
+            
+              Δ
+              Q
+            
+            
+              Δ
+              T
+            
+          
+        
+      
+    
+    {\displaystyle C={\frac {\Delta Q}{\Delta T}}}
+  
+Nếu nhiệt dung được xác định đối với một loại vật chất, thì nhiệt dung riêng là số đo lượng nhiệt cần để tăng nhiệt độ của một lượng đơn vị trên một đơn vị nhiệt. Ví dụm để tăng nhiệt độ của nước lên 1K cần 4186 (J/kg).
+
+
+== Xem thêm ==
+Nhiệt độ màu
+Nhiệt độ Planck
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+An elementary introduction to temperature aimed at a middle school audience
+from Oklahoma State University
+Average yearly temperature by country A tabular list of countries and Thermal Map displaying the average yearly temperature by country

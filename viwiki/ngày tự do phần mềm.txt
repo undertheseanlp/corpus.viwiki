@@ -1,0 +1,17 @@
+Software Freedom Day (SFD) là một lễ kỷ niệm hàng năm trên toàn thế giới của phần mềm tự do mã nguồn mở. SFD là một nỗ lực giáo dục công cộng, không chỉ để tôn vinh các chuẩn mực của phần mềm tự do mã nguồn mở, mà còn khuyến khích việc sử dụng nó vì lợi ích chung.
+Software Freedom Day được thành lập năm 2004 và lần đầu tiên được tổ chức ngày 28 tháng 8/2004 với 70 tổ chức tham gia. Kể từ thời gian đó nó đã phát triển phổ biến với hơn 300 đội đến từ hơn 60 quốc gia trong ngày lễ lần 2, tổ chức vào ngày 10 tháng 9 năm 2005. Trong năm 2008, hơn 500 đội của hơn 90 quốc gia trên toàn thế giới tổ chức kỷ niệm SFD. Nhà tài trợ chính cho 2005-2006 là Canonical Ltd, công ty phát triển dự án Ubuntu, một bản phân phối Linux. Từ năm 2006 trở đi, nó đã được quyết định sẽ được tổ chức vào ngày thứ bảy thứ ba của mỗi tháng chín: 15 tháng 9 năm 2007, 20 tháng 9 năm 2008, ngày 19 tháng 9 năm 2009, v.v... Do đó, đôi khi trùng với ngày Tọa đàm Quốc tế Talk Like a Pirate Day.
+
+
+== Software Freedom Quốc tế ==
+"Software Freedom Quốc tế" là một tổ chức phi lợi nhuận hoạt động như tổ chức chính thức của sự kiện, và cho phép tổ chức quyên góp và giao kết hợp đồng tài trợ và đặt hàng và vận chuyển vật liệu qua tài khoản chính thức. Họ đã thông báo kế hoạch xin miễn thuế, để các đóng góp được khấu trừ. Để phân biệt nó với các sự kiện riêng của mình, các tổ chức đỡ đầu đã gọi nó là "Phần mềm Tự do Quốc tế (SFI).
+Quyết định chính liên quan đến SFD được thực hiện do Ban giám đốc SFI:
+Pia Waugh (Chủ tịch) - Linux Australia
+Henrik Nilsen Omma - dự án TheOpenCD
+Matt Oquist (Treasurer), tốt nghiệp ĐH Tufts University, nhân viên Exeter, NH School DistrictPhil Harper - dự án TheOpenCD
+Benjamin Mako Hill, tổ chức Free Software Foundation
+Sidsel Jensen, DKUUG
+Frederick Noronha, Goa SFD Team
+Joe Olutuase, of Knowledge House Africa
+
+
+== Tham khảo ==

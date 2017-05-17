@@ -1,0 +1,66 @@
+Chứng khoán là bằng chứng xác nhận quyền và lợi ích hợp pháp của người sở hữu đối với tài sản hoặc phần vốn của tổ chức phát hành. Chứng khoán được thể hiện bằng hình thức chứng chỉ, bút toán ghi sổ hoặc dữ liệu điện tử. Chứng khoán bao gồm các loại: cổ phiếu, trái phiếu, chứng chỉ quỹ đầu tư, chứng khoán phái sinh. Thực chất chứng khoán là một loại hàng hóa đặc biệt.
+Chứng khoán là một phương tiện hàng hóa trừu tượng có thể thỏa thuận và có thể thay thế được, đại diện cho một giá trị tài chính. Chứng khoán gồm các loại: chứng khoán cổ phần (ví dụ cổ phiếu phổ thông của một công ty), chứng khoán nợ (như trái phiếu nhà nước, trái phiếu công ty...) và các chứng khoán phái sinh (như các quyền chọn, hợp đồng quy đổi - Swap, hợp đồng tương lai, Hợp đồng kỳ hạn). Ở các nền kinh tế phát triển, loại chứng khoán nợ là thứ có tỷ trọng giao dịch áp đảo trên các thị trường chứng khoán. Còn ở những nền kinh tế nơi mà thị trường chứng khoán mới được thành lập, thì loại chứng khoán cổ phần lại chiếm tỷ trọng giao dịch lớn hơn.Trong tiếng Việt, chứng khoán còn được hiểu theo nghĩa hẹp là chứng khoán cổ phần và các chứng khoán phái sinh, ví dụ như trong từ "sàn giao dịch chứng khoán".
+Công ty hay tổ chức phát hành chứng khoán được gọi là đối tượng phát hành.
+Chứng khoán có thể được chứng nhận bằng một tờ chứng chỉ (certificate), bằng một bút toán ghi sổ (book-entry) hoặc dữ liệu điện tử.
+
+
+== Chứng khoán cổ phần ==
+
+Chứng khoán cổ phần là những giấy tờ, bút toán ghi sổ hoặc dữ liệu điện tử, lưu hành trên thị trường và chứng nhận quyền sở hữu một phần tài sản của đối tượng nắm giữ giấy tờ.
+
+
+== Chứng khoán nợ ==
+Chứng khoán nợ là những giấy tờ, chứng chỉ điện tử hoặc bút toán ghi sổ có, lưu hành trên thị trường, chứng nhận mối quan hệ chủ nợ của người nắm giữ giấy tờ, chứng chỉ đó đối với người phát hành.
+Chứng khoán nợ thường tồn tại dưới nhiều dạng khác nhau, như trái phiếu (bond), chứng khoán dạng nợ (debenture) và giấy tờ (note), các công cụ thị trường tiền (money market instruments), các công cụ tài chính phái sinh (financial derivatives).
+
+
+=== Trái phiếu ===
+
+Trái phiếu là dạng nợ do nhà nước (trung ương lẫn địa phương), công ty, thể chế tài chính phát hành mà trên tờ phiếu có xác nhận việc người phát hành nợ người nắm giữ trái phiếu và nghĩa vụ trả nợ cả gốc lẫn lãi vào một thời điểm sau khi phát hành và kỳ hạn tới thời điểm đó.
+Và trái phiếu có 2 loại là trái phiếu chính phủ và trái phiếu tư nhân (có thể của tổ chức, công ty...).
+
+
+=== Chứng khoán dạng nợ ===
+
+Chứng khoán nợ là dạng nợ dài hạn thường do nhà nước hoặc công ty lớn phát hành để huy động ngân sách hoặc vốn. Nó cũng tương tự như trái phiếu, chỉ khác ở điều kiện đảm bảo và các vấn đề liên quan.
+
+
+=== Công cụ thị trường tiền ===
+
+Công cụ thị trường tiền là những giấy tờ cho phép người nắm giữ chúng quyền được hưởng vô điều kiện một lượng thu nhập cố định bằng tiền, được đảm bảo trong một thời gian nhất định.
+
+
+=== Công cụ tài chính phái sinh ===
+
+Đây là những công cụ tiền tệ thứ cấp có giá trị thị trường, cho phép người nắm giữ chúng quyền mua hoặc bán các chứng khoán gốc. Những công cụ tài chính phái sinh cơ bản là quyền chọn, tương lai, hoán đổi, v.v.
+
+
+== Chứng khoán lai ==
+Chứng khoán lai là dạng trung gian giữa chứng khoán cổ phần và chứng khoán nợ. Ví dụ như: Cổ phiếu ưu đãi, cố phiếu chuyển đổi, trái phiếu chuyển đổi,...
+
+
+== Thị trường chứng khoán ==
+
+Thị trường chứng khoán (securities market) là nơi trao đổi các chứng khoán. Thị trường chứng khoán giúp những người thiếu vốn huy động được vốn và người có vốn chuyển vốn của mình thành vốn đầu tư. Vì thế, thị trường chứng khoán còn được gọi là thị trường vốn.
+Theo đối tượng trao đổi, thị trường chứng khoán có thể phân làm hai loại cơ bản, đó là thị trường cổ phiếu (stock market) và thị trường trái phiếu (bond market). Về mặt không gian, không có sự phân biệt hai thị trường này. Sở giao dịch chứng khoán và các công ty chứng khoán đều tổ chức trao đổi cả cổ phiếu lẫn trái phiếu và các loại chứng khoán khác.
+Theo tính chất của chứng khoán, thị trường chứng khoán có thể phân làm loại thị trường sơ cấp và thị trường thứ cấp.
+
+
+=== Thị trường cổ phiếu ===
+
+Thị trường cổ phiếu là nơi trao đổi những cổ phiếu do các công ty phát hành và các phái sinh của chúng.
+
+
+=== Thị trường trái phiếu ===
+
+Thị trường trái phiếu là nơi người ta mua và bán các chứng khoán nợ, chủ yếu là trái phiếu.
+
+
+== Thuật ngữ chứng khoán ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Ủy ban Chứng khoán Nhà nước Việt Nam

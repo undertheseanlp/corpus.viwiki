@@ -1,0 +1,86 @@
+Thư rác, thư linh tinh, hay còn dược dùng dưới tên gốc Anh ngữ là spam hay spam mail, là các thư điện tử vô bổ thường chứa các loại quảng cáo được gửi một cách vô tội vạ và nơi nhận là một danh sách rất dài gửi từ các cá nhân hay các nhóm người và chất lượng của loại thư này thường thấp. Đôi khi, nó dẫn dụ người nhẹ dạ, tìm cách đọc số thẻ tín dụng và các tin tức cá nhân của họ.
+
+
+== Đặc điểm ==
+
+Người dùng hộp thư có thể có cảm giác bị "tra tấn" bằng các thư điện tử quảng cáo. Các spam thì vô hại nhưng mỗi ngày nhiều người có thể vì các spam mail này mà bị đầy cả hộp thư. Trong năm 2003, khi các phần mềm chống spam chưa phổ biến và cỡ của các hộp thư điện tử còn giới hạn thì đã có rất nhiều người dùng email phải nhận cả trăm spam trong một ngày mà chỉ có đúng vài nội dung khác nhau. Tại sao các spam lại lặp đi lặp lại một cái thư quảng cáo cả chục lần cho một hộp thư? Một lý do là các hãng quảng cáo muốn dùng hiệu ứng tâm lý. Khi hình ảnh sản phẩm nào đó cứ đập vào mắt người đọc mãi thì đến lúc cần mua một thứ có chức năng tương tự (hay cùng loại) thì chính hình ảnh thương hiệu của cái spam mail sẽ hiện đến trong óc người đó trước tiên. Lý do khác là kích thích sự tò mò của người dùng email muốn đọc thử một spam xem có nội dung gì bên trong.
+Spam mail không có "độc tính", hiểu theo nghĩa có hại cho máy tính, mà chỉ đôi khi làm người chủ hộp thư khó chịu hoặc đôi khi làm cho các thư từ khác quan trọng hơn thay vì nhận được thì lại bị trả về cho người gửi vì lý do hộp thư người nhận đã quá đầy!
+Tuy nhiên, không thể tránh được các spam mail có nội dung khiêu khích hay lợi dụng. Việc quan trọng nhất của ngưòi dùng hộp thư là đừng bao giờ trả lời hay xác nhận bất kì gì mà các thư này yêu cầu và việc đơn giản là xóa chúng đi.
+Như vậy, thư nhũng lạm có thể xem là một loại thư rác có mang thêm những tính năng phiền nhiễu đến cho người chủ hộp thư và người tạo ra các thư nhũng lạm đã lợi dụng chức năng của hệ thống thư điện tử (hay hệ thống mạng) bởi vì chúng được gửi đi với số lượng rất lớn đến nhiều nơi và gửi nhiều lần trong thời gian ngắn.
+Các chi phí chuyển thư, chứa thư và xử lý thư nhũng lạm thuộc về người dùng hay tổ chức cung ứng Webmail. Tuy nhiên cần phân biệt rõ rằng hoàn toàn hơp pháp khi có các email tiếp thị.
+Những người gửi spam thường ngụy tạo những thông tin giả như là tên, địa chỉ, số điện thoại... để đánh lừa các ISP. Họ cũng thường dùng số giả hay số ăn cắp của các thẻ tín dụng để chi trả cho các tài khoản. Việc này cho phép họ di chuyển thật nhanh từ một tài khoản này sang tài khoản khác mỗi lần bị phát hiện và bị đóng tài khoản bởi các chủ ISP.
+Người gửi spam cũng có thể đột nhập vào giao thức thư điện tử (SMTP) để đánh lừa rằng các spam đến từ một địa chỉ email khác.
+Gần đây, tác nhân gửi spam còn dùng cả các loại virus mạng trên hệ thống Windows (như là virus Zombie) nhằm gửi truyền đi các spam.
+
+
+== Các biện pháp loại bỏ thư nhũng lạm ==
+
+Dùng chức năng lọc: Nhiều nơi cung cấp phần mềm điện thư cũng đã có sẵn bộ lọc (filter) để loại bỏ các spam mail này trước khi tới tay người nhận một cách chủ động nhưng các lọc này không tuyệt hảo.
+Hầu hết các email client như là MS Outlook, AOL có thêm chức năng cho phép chúng ta cài lại một số dấu hiệu và loại bỏ spam mail qua các thực đơn sẵn có.
+Một số cơ sở thương mại cũng đã có các dịch vụ để giúp người tiêu dùng dẹp bỏ nạn spam mail bằng cách tung ra thị trường các loại phần mềm (bộ lọc) chống spam. Tuy nhiên không phải phần mềm nào dược bán ra cũng hoạt động hữu hiệu. Hai hãng có sản phẩm chống spam mạnh là Norton AntiSpam và Qurb.
+Sử dụng WebMail: Thay vì dùng các hộp thư thông thường thì có thể dùng các dịch vụ cung cấp email qua Internet. Bằng cách này thì trách nhiệm lọc spam mail được giao về cho các dịch vụ cung cấp. Tuy nhiên, không chắc dịch vụ nào cũng làm tốt nhiệm vụ. Nghĩa là họ có thể không làm gì cả để lọc các spam mail. Trong các dịch vụ kiểu này thì có Mailblocks Extended Servivce khá hữu hiệu. Dẫu sao, người mua dịch vụ phải trả cước phí hàng tháng nào đó cho công tác này.
+Người dùng Internet và những người quản lý hệ thống đã phát triển nhiều kỹ thuật để ngăn, lọc, hay cấm các spam thâm nhập vào các hộp thư. Hầu hết các ISP cấm việc dùng dịch vụ của họ để gửi spam. Cũng có nhiều tổ chức hay người tình nguyện đứng ra lo việc ngăn chận spam như là Brightmail, Postini, và nhiều DNSBL.
+Một số chính phủ trong đó đi tiên phong là Hoa Kỳ đã có biện pháp mạnh mẽ hơn để bảo vệ người tiêu dùng bằng cách ra các đạo luật phạt vạ khắt khe các cơ sở hay cá nhân dùng spam mail. Tuy nhiên nhược điểm của phương án này là 3/4 các spam lại không dược gửi ra trong nước mà là chúng đến từ những nơi chưa có lệnh cấm.
+Hiện tại đang có nhiều nỗ lực để phát triển những tiêu chuẩn về thư điện tử mới ngõ hầu chấm dứt tình trạng này. Một khi các tiêu chuẩn đó được công nhận thì khái niệm spam sẽ không còn thông dụng nữa.
+
+
+== Các đặc trưng của spam ==
+
+
+=== Việc thu thập các địa chỉ ===
+Để gửi spam, người gửi cần phải có một số lượng lớn địa chỉ email của người dự tính sẽ nhận thư. Vì các spam được gửi một cách vô tội vạ, vô trách nhiệm, nên danh sách địa chỉ được thu thập về để gửi của một thư nhũng lạm có thể lên đến hàng chục triệu—Trong đó, không ít địa chỉ là không hợp lệ hay không thể gửi đến được (các địa chỉ email cũ không còn người dùng nữa chẳng hạn).
+Spam có nhiều đặc điểm khác với các thư trực tiếp tiếp thị (direct marketing). Một trong các điểm này là nó không tốn thêm tiền khi gửi với một số lượng người nhận lớn hơn. Bởi vậy, nó không có sự tuyển lựa người nhận là ai. Do đó, các spam có thể có các thứ tiếng mà người nhận không thể đọc được hay chúng đưọc gửi đến ngay cả các postmaster hoặc được gửi trùng lặp nhiều lần tới cùng một địa chỉ.
+Các địa chỉ email có thể thu thập về bằng nhiều cách. Hai cách chung nhất là
+Phổ biến là việc dùng các địa chỉ được đăng bởi những người chủ để dùng trong các mục tiêu khác nhau. Thí dụ như địa chỉ của các nhóm Google thường là mục tiêu của những người làm spam. Hoặc người làm spam có tên đăng ký trong các danh sách bàn thảo qua thư điện tử (discussion mailing lists). Nhiều chương trình tiện ích có thể dùng để tìm ra các địa chỉ trên các trang web.
+Một phương pháp khác nữa để tìm địa chỉ gửi là thâm nhập vào các tài khoản bằng cách dùng máy tính để mò tìm tên và mật khẩu của một tài khoản trong các hệ thống email dùng phương pháp tấn công kiểu từ điển. Ngoài ra, các tên thông dụng (ví dụ John, Smith, Steve,...) có thể ghép thành một địa chỉ đúng trong nhiều ngàn tên miền và sẽ có xác suất thành công rất cao.
+
+
+=== Những kỹ thuật dùng để gửi spam ===
+Trước đây, khi spam được gửi từ người tạo ra spam thì chắc chắn ISP sẽ bị phát hiện ra từ việc phản ánh của những người nhận spam. Do dó, kĩ thuật cơ bản của việc gửi thư nhũng lạm là gửi các spam bằng máy tính của người khác để dấu hành vi của mình.
+Trong thập niên 1990, cách chung nhất để gửi spam là lợi dụng các ngưng đọng thư mở. Bởi vì các máy chủ thư điện tử kiểu này có cấu hình để chuyển các mẫu thông tin gửi tới nó từ bất kì nơi nào đến bất kì người nhận nào (mà không kiểm soát). Đây cũng là cách thiết trí mặc định của các kiến trúc SMTP nguyên thuỷ. SMTP đã được thiết kế trước khi có spam nên không lường được hiệu quả này và đã bị lạm dụng bởi spam. Người gửi spam có thể dùng một loại văn lệnh để gửi spam qua các ngưng đọng thư mở này.
+Như là các nỗ lực ngăn chận đầu tiên, các DNSBL như là MAPS RBL đã cho phép việc từ chối các thư gửi từ những ngưng đọng thư mở.
+Sau đó một vài năm, việc khai thác các ngưng đọng thư mở không còn hiệu quả thì đã xuất hiện các phương pháp khác, trong đó, quan trọng là việc dùng các proxy mở. Các proxy mở này sẽ nối máy khách vào một máy chủ bất kì mà không cần kiểm lại chủ quyền sử dụng và cũng không giới hạn các quyền hạn truy cập khác. Như vậy, người tạo spam có thể chỉ thị một proxy mở để nối vào một máy chủ điện thư và gửi spam qua đó. Các máy chủ đã làm công việc kết nối với proxy không phải người chủ spam.
+Bên cạnh đó, người ta còn lợi dụng các dịch vụ thiếu an toàn để gửi spam. Thí dụ: FormMail.pl là một bài văn lệnh CGI cho phép các trang WEB gửi email trả lời từ một mẫu điền HTML. Nhiều phiên bản của chương trình này cho phép người dùng chuyển hướng email đến một địa chỉ tùy ý. Spam được gửi kiểu này thường có dòng mở đầu là: Below is the result of your feedback form.
+Ngày nay, những người tạo spam thay vì dùng các biện pháp kể trên, đã chuyển sang thiết kế các con virus để khai thác các proxy và các công cụ gửi spam khác. Hàng trăm ngàn máy tính có thể bị nhiễm. Hầu hết các spam virus trong năm 2003 là các Windows email, bao gồm họ virus Sobig và Mimail.
+Ngoài ra, các chủ spam còn dùng đến một thủ đọan khác là tấn công vào các DNSBL và các nguồn chống spam. Trong năm 2003 nhiều DNSBL đã bị tấn công.
+
+
+== Lịch sử của spam mail ==
+Có nhiều tác giả đã không thống nhất với nhau trong lịch sử của SPAM Mail.
+Có lẽ SPAM Mail đã có từ năm 1978, được gửi đi bởi hãng DEC trên hệ thống ARPANET trong một thư mời mọi người ở vùng biển miền Tây Hoa kỳ đến gặp tại California.
+Một số tài liệu cho rằng chữ SPAM bắt nguồn từ chữ Shoulder Pork and hAM"/"SPiced hAM một loại đồ ăn trưa đóng hộp của hãng Hormel Foods.
+Ngày 12 tháng 4 năm 1994 rất nhiều người đã nhận được một mẫu quảng cáo vô bổ từ hai luật sư Laurence Canter và Martha Siegel. Đây không phải là lần đầu tiên các thư quảng cáo được tung ra nhưng lại là lần đầu tiên chữ spam được dùng rộng rãi. (Xem thêm tài liệu Anh ngữ [1] và [2]).
+Nội dung chính của bức thư như sau:
+Green Card Lottery 1994 May Be The Last One!
+THE DEADLINE HAS BEEN ANNOUNCED.
+The Green Card Lottery is a completely legal program giving away a certain annual allotment of Green Cards to persons born in certain countries. The lottery program was scheduled to continue on a permanent basis. However, recently, Senator Alan J Simpson introduced a bill into the U. S. Congress which could end any future lotteries. THE 1994 LOTTERY IS SCHEDULED TO TAKE PLACE SOON, BUT IT MAY BE THE VERY LAST ONE.
+PERSONS BORN IN MOST COUNTRIES QUALIFY, MANY FOR FIRST TIME.
+The only countries NOT qualifying are: Mexico; India; P.R. China; Taiwan, Philippines, North Korea, Canada, United Kingdom (except Northern Ireland), Jamaica, Domican Republic, El Salvador and Vietnam.
+Lottery registration will take place soon. 55,000 Green Cards will be given to those who register correctly. NO JOB IS REQUIRED.
+THERE IS A STRICT JUNE DEADLINE. THE TIME TO START IS NOW!!
+For FREE information via Email, send request tocslaw@indirect.com...
+Phần mềm chống spam mail đầu tiên xuất hiện vào năm 1997 bởi công ty Goo Software. Phần mềm này được viết cho máy Apple có tên gọi là Spam Blaster. Vào khoảng 2001 thì các phần mềm chống spam xuất hiện ồ ạt trên thị trường cho Windows.
+
+
+== Khái niệm tương cận ==
+Junk mail, bulk mail, hay thư rác.
+Virus
+
+
+== Xem thêm ==
+Hacker
+Sâu máy tính
+Virus (máy tính)
+
+
+== Tham khảo ==
+
+Understanding Spam Filters -- Sandy Berger
+Understanding SPAM
+Hiểu Biết Sơ Đẳng về Virus, Spam Mail, và Spyware -- Võ Quang Nhân Bài viết do tác giả hiệu chỉnh và gửi đăng
+Origin of the term "spam" to mean net abuse
+A brief history of spam
+History Of Spam
+E-mail spam
+Bulk mail
+A Brief History of Anti-Spam

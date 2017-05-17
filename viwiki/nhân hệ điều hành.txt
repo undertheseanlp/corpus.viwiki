@@ -1,0 +1,24 @@
+Nhân hệ điều hành (tiếng Anh: Kernel) là thành phần trung tâm của hầu hết các hệ điều hành máy tính. Nó có nhiệm vụ quản lý các tài nguyên hệ thống (liên lạc giữa các thành phần phần cứng và phần mềm). Thông thường, với vai trò một thành phần cơ bản của một hệ điều hành, nhân có thể cung cấp các tầng trừu tượng mức thấp nhất cho các tài nguyên máy tính (đặc biệt là bộ nhớ, CPU, và các thiết bị vào ra mà phần mềm ứng dụng cần điều khiển để thực hiện các chức năng của mình. Nhân hệ điều hành thường cung cấp các tiện ích xử lý này cho các tiến trình của các phần mềm ứng dụng qua các cơ chế liên lạc giữa các tiến trình (inter-process communication) và các hàm hệ thống (system call).
+Các nhân khác nhau thực hiện các tác vụ của hệ điều hành theo các cách khác nhau, tùy theo thiết kế và cài đặt. Các nhân kiểu nguyên khối (Monolithic kernel) thực hiện các nhiệm vụ của mình bằng cách thực thi toàn bộ mã hệ điều hành trong cùng một địa chỉ bộ nhớ để tăng hiệu năng hệ thống. Trong khi đó các nhân loại nhỏ (Microkernel) chạy hầu hết các dịch vụ tại không gian người dùng (user space) với mục đích tăng khả năng bảo trì và tính mô đun của hệ điều hành. Có nhiều thiết kế nằm ở giữa hai thái cực này ví dụ như (Hybrid kernel) là nhân tự động phân luồng.
+
+
+== Khái quát chung ==
+Trong một định nghĩa về 'nhân hệ điều hành' Jochen Liedtke đã tuyên bố rằng "sử dụng thường xuyên để biểu thị cho một phần của hệ điều hành có tính bắt buộc và chia sẻ với tất cả các phần mềm khác."
+Hầu hết các hệ điều hành đều dựa trên cơ sở là nhân. Sự tồn tại của nhân hệ điều hành là hệ quả tất yếu của việc thiết kế hệ thống máy tính thành một chuỗi các tầng trừu tượng để phù hợp trong các tiến trình xử lý công việc trên máy tính được đơn giản hóa (đối với con người) nhưng dần phức tạp hóa (đối với máy tính). Ở mỗi tầng trừu tượng ở cấp phức tạp thấp hơn (đối với máy tính) lại dựa vào các chức năng của chính các tầng ngay trên chúng (các tầng phức tạp lớn hơn đối với máy tính) để xử lý. Nhân hệ điều hành dưới một khía cạnh nào đó là một cái tên đơn giản biếu thị cho tầng trừu tượng ở mức thấp nhất được xử lý trong các phần mềm trước khi đi qua trình biên dịch ngôn ngữ assembly sang ngôn ngữ máy và đưa đến phần cứng của máy tính để thi hành. Trong một số loại phần mềm nhằm tránh sự sử dụng nhân hệ điều hành hoặc bỏ qua nhân hệ điều hành để đưa trực tiếp đến thi hành phần cứng, người ta sẽ thiết kế toàn bộ phần mềm trong một hệ thống mà không sử dụng đến các tầng trừu tượng (có thể hiểu là tầng trừu tượng ở mức thấp tương đương với nhân nên bỏ qua nhân); điều này sẽ làm gia tăng sự phức tạp của việc thiết kế, lập trình ra phần mềm. Việc thiết kế phần mềm bỏ qua nhân này được ví như tạo ra một hệ thống đơn giản nhất (đối với máy tính) có tính khả thi cao và có thể thực thi các phần mềm.
+Trong khi được biết đến với cái tên phổ biến nhân hệ điều hành, những cách gọi mới mẻ cho bộ phần tương tự của hệ thống máy tính được biết đến như hạt nhân - nucleus hay là lõi - core, (Chú ý rằng, bất cứ khi nào từ core cũng được sử dụng có liên quan tới bộ nhớ chính của hệ thống máy tính, bởi vì các máy tính ra đời trước sử dụng một dạng của bộ nhớ được gọi là core memory), và được hình thành một cách sáng tạo như những vùng chỉ chứa những yếu tố cần thiết, cốt lõi của một hệ điều hành.
+Trong hầu hết các trường hợp, boot loader bắt đầu thực thi nhân hệ điều hành trong supervisor mode, Nhân hệ điều hành sau đó được nạp phần đầu của nó và thi hành tiến trình đầu tiên. Sau khi khởi động hoàn tất, nhân hệ điều hành không được thực thi ngay lập tức, nó chỉ nằm trong lời trả lời cho sự kiện bên ngoài(Ví dụ:, thông qua hàm hệ thống,các ứng dụng sẽ yêu cầu dịch vụ từ nhân hệ điều hành, hoặc thông qua ngắt được sử dụng bởi phần cứng để thông báo cho nhân hệ điều hành về các sự kiện xảy ra). Ngoài ra, nhân hệ điều hành còn đặc biệt cung cấp một vòng lặp được thực thi bất cứ lúc nào mà không có tiến trình nào được thực thi; nó thường được gọi là tiến trình nhàn rỗi.
+
+
+== Chú thích ==
+Về các chú thích dẫn đến nguồn, xem danh sách tham khảo tại mục dưới.
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Andrew Tanenbaum, Operating Systems - Design and Implementation (Third edition);
+Andrew Tanenbaum, Modern Operating Systems (Second edition);
+Daniel P. Bovet, Marco Cesati, The Linux Kernel;
+David A. Peterson, Nitin Indurkhya, Patterson, Computer Organization and Design, Morgan Koffman (ISBN 1-55860-428-6);
+B.S. Chalk, Computer Organisation and Architecture, Macmillan P.(ISBN 0-333-64551-0).

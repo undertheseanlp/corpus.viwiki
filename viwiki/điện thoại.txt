@@ -1,0 +1,93 @@
+Điện thoại là thiết bị viễn thông dùng để trao đổi thông tin, thông dụng nhất là truyền giọng nói - tức là "thoại" (nói), từ xa giữa hai hay nhiều người. Điện thoại biến tiếng nói thành tín hiệu điện và truyền trong mạng điện thoại phức tạp thông qua kết nối để đến người sử dụng khác. Hệ thống thực hiện công năng như vậy có hai hợp phần cơ bản:
+Thiết bị đầu cuối, thường gọi bằng chính tên "điện thoại", thực hiện biến tiếng nói thành tín hiệu điện để truyền đi, và biến tín hiệu điện nhận được thành âm thanh.
+Mạng điện thoại điều khiển kết nối và truyền dẫn, thực hiện nối những người dùng liên quan với nhau và truyền dẫn tín hiệu.
+Sự phát triển của kỹ thuật dẫn đến ngày nay mạng điện thoại có nhiều công năng hơn, như truyền fax, internet,... và bên cạnh đôi dây nối truyền thống thì có những cách thức phương tiện truyền dẫn mới.
+
+
+== Giới thiệu ==
+Có bốn cách điện thoại kết nối vào mạng điện thoại sử dụng ngày nay: phương pháp truyền thống điện thoại cố định, dùng dây điện kết nối truyền tín hiệu vào một vị trí cố định; loại điện thoại không dây, dùng cả sóng vô tuyến truyền tín hiệu tương tự hoặc kỹ thuật số; điện thoại vệ tinh, dùng vệ tinh liên lạc; và VoIP (điện thoại qua giao thức Internet), dùng với kết nối Internet băng thông rộng.
+Giữa hai người dùng, việc truyền nhận qua mạng có thể dùng cáp quang, kết nối điểm-điểm sóng vi ba hay qua vệ tinh.
+Cho đến gần đây, từ "điện thoại" chỉ dùng để nói tới điện thoại có dây. Điện thoại mẹ con và điện thoại di động hiện nay khá phổ biến ở nhiều nơi, với điện thoại di động có triển vọng thay thế điện thoại có dây. Không như điện thoại di động, điện thoại mẹ con cũng phụ thuộc điện thoại có dây vì nó chỉ có ích trong một khoảng cách nhỏ chung quanh trạm phát được kết nối với dây điện thoại.
+Việc xác định người phát minh ra điện thoại (Antonio Meucci hay Johann Philipp Reis hoặc Alexander Graham Bell) vẫn còn tranh cãi.
+
+
+== Lịch sử ==
+
+
+=== Những phát triển ban đầu ===
+
+
+==== Nguyên tắc ====
+Từ những chiếc điện thoại thô sơ ban đầu và cách chuyển mạch bằng nhân công, ta có thể nêu cụ thể một cuộc điện đàm như sau:
+Một thuê bao A gọi cho một thuê bao B thì tín hiệu (cụ thể là giọng nói) của thuê bao A được chuyển đổi thành tín hiệu điện và chuyển đến tổng đài. Ở đây một nhân viên trực tổng đài có nhiệm vụ gạt cần chuyển mạch sang thuê bao B và cuộc điện đàm được diễn ra. Nhưng nếu thuê bao B đang bận thì cuộc điện thoại đó sẽ bị rớt.
+Năm 1854 Pháp mới bắt đầu có điện tín.
+Charles Bourseul lúc bấy giờ là nhân viên hành chính về điện tín viết bài trong báo l'Illustration: "Từ ngày 26/08/1854 đây là nguyên tắc cho máy điện thoại"
+Năm 1860, một giáo viên  người Ðức Philippe Reiss thực hiện một máy có thể truyền những âm thanh về nhạc bằng cách dùng điện
+Ông đã thành công trong việc kinh doanh máy của ông nhưng nó vẫn còn yếu kém và không có khả năng truyền lời nói. Tuy nhiên ông Reiss đã tiến đến rất gần cái có thể gọi là điện thoại. Phát minh của P. Reiss được trình bày tại Mỹ
+Hai người Mỹ, Alexander Graham Bell và Eliza Gray cuối cùng thực hiện được máy điện thoại. Graham Bell làm được nhiều mẫu máy truyền âm thanh và năm 1875 cho ra đời hệ thống điện tín hoàn chỉnh. Elisha Gray làm việc cùng lĩnh vực và ngày 14/02/1876, cả hai cùng trình bằng sáng chế  điện thoại của họ.
+Lịch sử chỉ giữ lại tên của Bell bởi vì sau cuộc tranh chấp pháp luật, Bell được thắng kiện với bằng  phát minh số 174465 ngày 7/03/1876.
+Tuy nhiên không  một điện thoại nào dùng được. Phải đợi đến  tháng 6 năm 1876 người ta mới thấy lần đầu tiên điện thoại hoạt động tại hội chợ triễn lãm ở Philadelphie. Ðiện thoại vào Hoa Kỳ từ năm 1877 sau khi hãng Bell Telephon Company sáng lập.
+Cùng năm 1877, Western Union Telegraph yêu cầu Thomas A. Edison làm một điện thoại khác để chống lại Bell Company. Edison bắt đầu từ máy của Reiss và nghiên cứu cho ra một máy phát có điện trở thay đổi nhạy hơn của Bell, và trở thành microphone đầu tiên bằng graphite, ngày 27/04/1877
+Vài tuần sau, ngày 9/7/1877, Bell giới thiệu Hand Telephone
+Cuối năm 1877, Frédérick Gower, người Mỹ, cải thiện máy của Bell và hệ thống của ông được lắp đặt tại Paris năm 1879. Ðó là  trung tâm điện thoại đầu tiên của nước Pháp.
+
+
+=== Cuộc gọi đầu tiên ===
+Cuộc gọi đầu tiên được thực hiện giữa nhà phát minh Alexander Graham Bell và người trợ lý của ông ngồi cách đó 4,5 m vào ngày 10/3/1876 với mẩu hội thoại ngắn ngủi: “Watson, anh đến đây nhé, tôi có việc cần!” là sự kiện lịch sử đánh dấu chính thức sự ra đời của chiếc điện thoại liên lạc.
+
+
+==== Cuốn danh bạ điện thoại đầu tiên ====
+Tổng đài điện thoại đầu tiên được đi vào hoạt động là tại New Haven, bang Connecticut, Mỹ. Vào ngày 21/2/1878, cuốn danh bạ điện thoại đầu tiên trên thế giới được xuất bản bởi công ty điện thoại New Haven với 1 trang duy nhất liệt kê tên của 50 người đã quyên góp cho công ty nhưng không hề có một số điện thoại nào kèm theo.
+Nó chủ yếu được dùng để ghi nhận công lao của những nhà tài trợ, hoàn toàn khác xa với mục đích tra cứu của những cuốn sổ danh bạ mà ngày nay chúng ta vẫn dùng.
+Những chiếc điện thoại thời kỳ đầu chỉ để dành cho những người giàu có sử dụng và hiếm thấy có những thiết kế đa dạng mà hầu hết đều rất kiểu cách và cầu kì với nét đặc trưng là có 2 đầu: một ống nói và ống nghe.
+
+
+==== Bốt điện thoại ra đời ====
+Chiếc bốt điện thoại khi mới ra đời đã từng được xem là một xu hướng trong tương lai khi mà chúng giúp bạn có thể gọi cho bất cứ ai khi đi trên đường.
+
+
+=== Lịch sử gần đây ===
+
+
+==== Điện thoại trong xe ====
+Khi các mẫu điện thoại tiến gần hơn tới “mốc” di động, chúng đã dần trở nên nhỏ gọn hơn để có thể gắn vào trong xe và thực sự trở nên tiện ích rất nhiều với người sử dụng. Có thể là bây giờ, chúng ta nhìn lại thì điện thoại được “tích hợp” trong xe chỉ là một thứ công nghệ thô sơ, lạc hậu vô cùng nhưng vào thời kì đó, đây thực sự là một cuộc cách mạng trong công nghệ.
+
+
+==== Điện thoại di động ====
+Chiếc điện thoại đầu tiên được cho là “di động” được quảng cáo vào năm 1967 với tên gọi là “Carry phone” đánh dấu một bước tiến gần hơn đến mẫu điện thoại di động nguyên bản. Mang danh là di động nhưng việc sử dụng nó thì vô cùng bất tiện khi người ta cứ phải vác “kè kè” bên mình một chiếc hộp máy to sụ nặng tới 4,5 kg. Giá thành lại rất cao nên nó hầu như không được phổ biến rộng rãi cho đến khi phiên bản nhỏ gọn của nó được tung ra thị trường.
+
+
+==== Điện thoại cầm tay ====
+Vào ngày 3/4/1973, mẫu điện thoại cầm tay đầu tiên Motorola Dyna Tac do nhà phát minh Martin Cooper của hãng sáng chế được “trình làng” thực sự đã làm công chúng kinh ngạc và đầy sửng sốt. Tuy nhiên, khi đó chúng đơn thuần là một màn trình diễn công nghệ mới chứ chưa thể được dùng để thay thế hoàn toàn cho điện thoại cố định. Hình dáng ban đầu của chúng trông giống như một “cục gạch” nặng nề với hình dáng thô kệch và vô cùng bất tiện khi mang theo mình.
+
+
+==== Dòng điện thoại thông minh Smart Phone ====
+Chiếc điện thoại Iphone của Apple thực sự là một sự sáng tạo đột phá về kiểu dáng với nét đặc trưng là màn hình cảm ứng siêu nhạy giúp người sử dụng có thể thao tác dễ dàng chỉ bằng việc “lướt” nhẹ các ngón tay. Nó tạo nên cơn sốt chưa từng có khi xuất hiện vào năm 2007 và khởi đầu cho một cuộc cạnh tranh quyết liệt giữa các hãng trong phân khúc dòng điện thoại smartphone.
+Nhưng thực ra những đóng góp của Apple với công nghệ màn hình cảm ứng phải được ghi nhận từ năm 1983 với mẫu điện thoại để bàn cảm ứng Ciara, tiền đề cho một bước tiến lớn trong ngành công nghệ thông tin.
+
+
+== Điện thoại thông minh (smartphone) ==
+Hiện nay có những hãng smartphone nổi tiếng như Apple, Samsung với những siêu phẩm như IPhone, Samsung Galaxy, Samsung Galaxy Note.
+
+
+== Điện thoại sử dụng IP ==
+Thuật ngữ điện thoại IP (IP Telephony) thường dùng để chỉ phương pháp kết nội máy điện thoại tới tổng đài hoặc trung kế sử dụng Giao thức Internet hay phương pháp truyền tín hiệu thoại (VoIP) qua giao thức Internet VoIP. Tuy vậy, trên thực tế, thông thường hai khái niệm vẫn được dùng lẫn cho nhau.
+Điện thoại truyền thống dựa trên công nghệ chuyển mạch (curcuit switching) và vì vậy đòi hỏi phải có đường kết nối trực tiếp và dành riêng cho mỗi điểm dầu cuối. Chi phí lắp đặt, bảo dưỡng lớn cũng như khó thêm, bớt, thay đổi hay di chuyển thiết bị đầu cuối. Ngược lại, công nghệ IP là công nghệ chuyển gói tin (packet switching) cho phép sử dụng chung một đường kết nối cho nhiều kênh thoại hoặc kết hợp cùng với dữ liệu mang lại tính kinh tế cao hơn cũng như cho phép thêm, bớt, thay đổi, di chuyển thiết bị đầu cuối dễ dàng.
+Thay vì việc sử dụng một đường kết nối trực tiếp và dành riêng để nối máy điện thoại tới hệ thống chuyển mạch như tổng đài hoặc trung kế (PaBX), điện thoại IP sử dụng kết nối Ethernet của mạng IP cho mục đích này. Điện thoại có thể được kết nối tới PaBX thông qua hạ tầng mạng LAN hoặc mạng WAN. Một số nhà cung cấp viễn thông còn cung cấp dịch vụ SIP qua đó thuê bao có thể nối trức tiếp máy điện thoại vào Internet. Đầu cuối của công nghệ điện thoại IP thường là các máy điện thoại được thiết kế riêng hoặc một phần mềm chạy trên máy tính. Chi phí để triển khai điện thoại IP thường lớn hơn so với điện thoại thường nhưng ngược lại, chi phí vận hành, quản lý, khai thác sẽ giảm đáng êể đồng thời chất lượng cuộc gọi và khả năng sử dụng điện thoại và tiếp nhận cuộc gọi được tăng lên.
+
+Công nghệ Truyền giọng nói qua IP (VoIP) chủ yếu liên quan tới việc chuyển các tín hiệu thoại thành các gói tin IP và truyền qua hạ tầng Internet. Một số ví dụ như các dịch vụ 171, 177, 178, Skype, Yahoo Voice v.v. Tùy theo dịch vụ, người sử dụng có thể sử dụng điện thoại bình thường vẫn có thể tận dụng được lợi thế về chi phí do điện thoại Internet mang lại. Lợi ích chính của VoIP là mang lại lựa chọn cho khách hàng về một dịch vụ thoại có chất lượng thấp hơn nhưng cũng có chi phí rẻ hơn và thường áp dụng cho các dịch vụ Điện thoại đường dài.
+
+
+== Bài liên quan ==
+Điện thoại di động
+VoIP
+Mã vùng (điện thoại)
+Bưu điện
+Smartphone
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+Lịch sử điện thoại

@@ -1,0 +1,8 @@
+Google Gears là một phần mềm được cung cấp bởi Google cho phép tạo ra những ứng dụng web mạnh mẽ, bằng cách thêm các tính năng vào trong trình duyệt của bạn."  Released under the BSD license, Gears là một phần mềm mã nguồn mở.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Trang chủ Gears

@@ -1,0 +1,18 @@
+Windows 98 (tên mã Memphis) là một hệ điều hành giao diện đồ họa được Microsoft giới thiệu vào ngày 25 tháng 6 năm 1998.
+Hệ điều hành này là một phiên bản nâng cấp của Windows 95. Cũng như Windows 95, hệ điều hành này là một hệ thống pha trộn 16-bit/32-bit. Hệ điều hành này hỗ trợ tốt hơn các thiết bị phần cứng AGP, USB... Giống với phiên bản Windows 95 trước đó, Internet Explorer tiếp tục được tích hợp vào trong giao diện Windows Explorer (đây là thành phần được gọi là Active Desktop).
+
+
+== Windows 98 Second Edition ==
+Windows 98 Second Edition (thường gọi "Windows 98 SE") là phiên bản nâng cấp của Windows 98. Windows 98 Second Edition được Microsoft giới thiệu vào ngày 5 tháng 5 năm 1999. Internet Explorer 5.0 đã được đưa vào Windows 98 Second Edition thay thế cho Internet Explorer 4.0 của Windows 98.
+
+
+== Xem thêm ==
+Windows
+Microsoft
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+http://www.microsoft.com/windows98/ Trang web về Windows 98 của Microsoft.

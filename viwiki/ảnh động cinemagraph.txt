@@ -1,0 +1,35 @@
+Ảnh động Cinemagraph là khái niệm mới ra đời từ năm 2011. Được lưu dưới dạng.gif (Graphics Interchange Format), tuy nhiên Ảnh động Cinemagraph có thể tùy biến vùng tĩnh – vùng động chứ không trông giống như file.gif truyền thống. Để tạo Ảnh động Cinemagraph, người chụp có thể sử dụng máy ảnh chuyên nghiệp, máy ảnh số kết hợp với các phần mềm hậu kỳ. Hiện nay, một số các ứng dụng còn cho phép chụp và lưu ảnh động ngay trên điện thoại thông minh. Tháng 7 năm 2013, Nokia Việt Nam chính thức đăng ký thực hiện Kỷ Lục Ảnh Động Việt Nam với 20,000 tấm ảnh động được chụp bằng điện thoại Nokia Lumia.
+1. Phân loại
+a. Ảnh động truyền thống
+
+Ảnh.gif thông thường là những bức ảnh được hình thành từ những chuyển động liên tục do nhiều bức ảnh ghép lại bởi các phần mềm chuyên dụng như: Easy GIF animator, Photoscape hoặc Photoshop. Hoặc do việc cắt và xử lý từ một video, clip.
+
+b. Ảnh động Cinemagraph
+
+Điểm khác biệt lớn nhất của ảnh động Cinemagraph với ảnh động truyền thống là khả năng tùy biến vùng chuyển động và vùng không chuyển động. Nhờ đó cho ra đời nhiều hiệu ứng sáng tạo hơn ảnh động truyền thống. Dạo gần đây, các nhà phát triển ứng dụng đã phối hợp cùng các hãng điện thoại để đưa khả năng này vào các điện thoại thông minh, phục vụ nhu cầu của người dùng. Năm 2012, ứng dụng chụp Ảnh động Cinemagraph trên nền tảng Windows Phone lần đầu ra mắt, qua đó người dùng có thể mở rộng hay thu hẹp vùng chuyển động để tạo ra ảnh động Cinemagraph nhanh chóng và đơn giản.
+
+2. Lịch sử hình thành
+
+File ảnh động đầu tiên trên thế giới được ghi nhận là bức ảnh: "Horse in Motion" do Eadweard Muybridge thực hiện vào những năm 1878, cách đây 135 năm. Bức ảnh này được tạo ra bởi việc ghép nhiều chuyển động liên tục kế tiếp nhau. Đây được xem là tiền đề cho công nghệ sản xuất phim trên thế giới những năm sau này.
+Năm 1895, hai anh em Auguste và Louis Lumière trở thành những nhà làm phim đầu tiên trên thế giới khi họ kết hợp với Léon Bouly, người nắm bằng sáng chế ra chiếc máy quay phim với cái tên Cinématographe. Cinématographe - theo tiếng Hi Lạp nghĩa là "ghi lại hành động" là một thiết bị 3 trong 1 có thể ghi âm, xây dựng và tạo ra các ảnh chuyển động - chức năng này về sau được phát triển bởi anh em nhà Lumière.
+Năm 2011, nhiếp ảnh gia thời trang Jamie Beck phối hợp với Kevin Burg, chuyên viên thiết kế website cho ra mắt một loạt những bức ảnh GIF tuyệt đẹp gọi là "Cinemagraph". Sự kết hợp này đã tạo ra một bước đột phá trong nghệ thuật nhiếp ảnh, vì nó "nhiều hơn một bức ảnh, nhưng không hẳn là một đoạn video", Jamie Beck đã khéo léo tạo ra những vùng "động trong tĩnh" để có các file.gif đầy tính nghệ thuật. Những bức ảnh Cinemagraph này từ lâu đã được giới chuyên môn đánh giá cao về tính nghệ thuật và sự sáng tạo độc đáo khi kết hợp nghệ thuật với công nghệ. Chi tiết xem tại http://cinemagraphs.com/
+Kể từ đó, khái niệm Cinemagraph trở nên thông dụng hơn. Hiện nay, Cinemagraph được xem như một loại hình nghệ thuật nhiếp ảnh mà các công ty quảng cáo đang bắt đầu áp dụng rộng rãi nhằm tạo nên khác biệt.
+3. Quá trình tạo ảnh động Cinemagraph
+
+Có nhiều cách để tạo ảnh động Cinemagraph. Trong khuôn khổ bài viết đề cập đến cách tạo ảnh động Cinemagraph theo cách truyền thống (phần màu xanh lá) và giới thiệu ứng dụng chụp ảnh động trên Windows Phone thông qua QR code dưới đây:
+
+Ngoài những tính năng cơ bản để tạo ảnh động Cinemagraph, ứng dụng này còn giúp tùy chỉnh tốc độ của chuyển động, thay đổi màu sắc và nhiều hiệu ứng khác để các người dùng nghiệp dư có thể cho ra đời tác phẩm đẹp mắt.
+4. Tài liệu tham khảo
+^ Flock, Elisabeth (ngày 12 tháng 7 năm 2011). "Cinemagraph: What it looks like when a photo moves". Washington Post BlogPost. Truy cập ngày 29 tháng 7 năm 2011.
+^ Alexander, Iain (ngày 8 tháng 7 năm 2011). "NYC Photographer Jamie Beck Discusses The Cinemagraph". Film Industry Network.
+^ Cohen, Joshua (ngày 10 tháng 7 năm 2011). "Cinemagraph are Animated Gifs for Adults". Tubefilter News. Truy cập ngày 29 tháng 7 năm 2011.
+^ "Eadward Muybridge (1830-1904)". International Photography Hall of Fame. Truy cập 2010-02-03.
+^ "Chapter 11". Precinema History. Truy cập 2010-02-04.
+^ a b Leslie, Mitchell. "The Man Who Stopped Time". Stanford Alumni Magazine. Truy cập 2010-02-03.
+^ Louis Lumiere, The Lumiere Cinematograph. In:Fielding, Raymond (1979). A technological history of motion pictures and television: an anthology from the pages of the Journal of the Society of Motion Picture and Television Engineers. University of California Press. pp. 49–51. ISBN 0-520-03981-5.
+^ a b Cinematograph, Louis Lumière. "1936 the Lumière Cinematograph." SMPTE Journal 105, no. 10 (ngày 1 tháng 10 năm 1996): 608–611.
+^ "Machines". Who's Who of Victorian Cinema. British Film Institute.
+^ a b Gomery, Professor Douglas, and Clara Pafort-Overduin. Movie History: A Survey. Taylor & Francis, 2011. Chardère, B.; Borgé, G. and M. (1985). Les Lumière, Paris: Bibliothèque des Arts. ISBN 2-85047-068-6 (Language: French) Chardère, B. (1995). Les images des Lumière, Paris: Gallimard. ISBN 2-07-011462-7 (Language: French) Cook, David (2004). A History of Narrative Film (4th ed. ed.). New York: W. W. Norton. ISBN 0-393-97868-0. Rittaud-Hutinet, Jacques. (1985). Le cinéma des origines, Seyssel: Champ Vallon. ISBN 2-903528-43-8 (Language: French) Mast, Gerald; and Bruce F. Kawin (2006). A Short History of the Movies (9th ed. ed.). New York: Pearson Longman. ISBN 0-321-26232-8.
+
+
+== Tham khảo ==

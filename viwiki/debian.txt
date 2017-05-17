@@ -1,0 +1,86 @@
+Debian (phát âm /ˈdɛbiən/) là một hệ điều hành máy tính do phổ biến Dự án Debian xây dựng, là bản phân phối phần mềm tự do được phát triển từ sự cộng tác của các tình nguyện viên trên khắp thế giới. Kể từ lúc bắt đầu đến nay, hệ thống chính thức phát hành dưới tên gọi Debian GNU/Linux, được xây dựng dựa trên nhân Linux với nhiều công cụ cơ bản của hệ điều hành, lấy từ dự án GNU. Hiện tại có các phiên bản Debian dựa trên các hạt nhân khác, gồm có nhân của GNU Hurd, NetBSD và FreeBSD.
+Debian có tiếng về mối liên kết chặt chẽ với triết lý Unix và phần mềm tự do. Nó cũng có tiếng về sự phong phú cho các chọn lựa: phiên bản phát hành hiện tại có hơn 29000  gói phần mềm cho 11 kiến trúc máy tính, từ kiến trúc ARM thường gặp ở các hệ thống nhúng và kiến trúc máy tính lớn s390 của IBM cho đến các kiến trúc thường gặp trên máy tính cá nhân hiện đại như x86 và PowerPC.
+Debian được hỗ trợ nhờ các khoản quyên góp thông qua tổ chức Software in the Public Interest, một tổ chức bảo trợ phi lợi nhuận cho các dự án phần mềm tự do.
+
+
+== Lịch sử ==
+Debian được thành lập vào năm 1993 bởi Ian Murdock khi còn là sinh viên tại Đại học Purdue. Ian Murdock viết Tuyên ngôn Debian kêu gọi xây dựng một bản phân phối Linux được quản lý theo phong cách mở, trong tinh thần của Linux và GNU. Tên "Debian" được Ian Murdock đặt ra bằng cách kết hợp tên của bạn gái lúc bấy giờ (bây giờ là vợ) của anh là Debra với tên của chính anh Ian.
+
+
+== Đặc điểm ==
+Hiện tại có rất nhiều hệ điều hành Linux được xây dựng dựa trên Debian GNU/Linux, trong đó có Ubuntu, Linux Mint, Knoppix, MEPIS, DreamLinux, Damn Small Linux và các hệ điều hành khác.
+Debian nổi tiếng với hệ thống quản lý gói của nó, mà cụ thể APT (công cụ quản lý gói cao cấp, Advanced Packaging Tool), chính sách nghiêm ngặt đối với chất lượng các gói và bản phát hành, cũng như tiến trình phát triển và kiểm tra mở. Cách thức làm việc này đã giúp cho việc nâng cấp giữa các bản phát hành và việc cài đặt hay gỡ bỏ các gói phần mềm được dễ dàng hơn.
+
+
+== Phát hành ==
+Các phiên bản của Debian vẫn được lấy tên mã (code name) theo các nhân vật phim hoạt hình Toy Story. Hiện nay phiên bản stable (ổn định) là Lenny, và phiên bản testing (thử nghiệm) là Squeeze. Phiên bản unstable (không ổn định) luôn luôn mang tên là sid (tên cậu bé hàng xóm phá phách trong phim Toy Story).
+Phiên bản stable là phiên bản phát hành chính thức. Phiên bản testing là phiên bản sẽ trở thành phiên bản chính thức sau khi Debian xác nhận là đã chạy ổn định. Phiên bản sid là phiên bản rolling (quay), tức là luôn luôn ở trạng thái phát triển liên tục.
+
+
+=== Các bản trong chế độ bảo trì ===
+Debian luôn luôn có ít nhất 3 bản trong chế độ bảo trì tích cực, gọi là "stable", "testing" và "unstable".
+stable (ổn định)
+Đây là bản được phát hành chính thức mới nhất của Debian, được xem là bản ổn định và dùng cho môi trường sản xuất.
+testing (thử nghiệm)
+Bản này chứa các gói chưa được chấp nhận vào "stable" nhưng đang được xếp hàng để vào đó. Ưu điểm của bản này là nó có các phiên bản phần mềm gần đây, khuyết điểm chính là nó chưa được kiểm tra hoàn toàn và không được nhóm an ninh của Debian hỗ trợ.
+unstable (không ổn định)
+Đây là nơi việc phát triển Debian tích cực diễn ra. Thông thường bản này được các nhà phát triển hoặc những người muốn dùng phần mềm mới nhất sử dụng.
+
+
+=== Lịch sử phát hành ===
+
+
+=== Các kho gói phần mềm ===
+Bản hướng dẫn phần mềm tự do Debian (DFSG) tuân thủ nghiêm ngặt định nghĩa của phần mềm tự do (FOSS), mặc dù hệ điều hành này chưa nhận được sự công nhận của Free Software Foundation vì sự tích chứa các phần mềm độc quyền trong các kho gói phần mềm. Những gói phần mềm không tự do này được tách rà thành kho phần mềm riêng có tên gọi là non-free. Danh sách các kho phần mềm khác của Debian:
+contrib chứa các phần mềm đã đạt được tiêu chuẩn DFSG, nhưng không đáp ứng với các tiêu chuẩn phần mềm tự do khác.Ví dụ, phần mềm bị phụ thuộc vào phần mềm độc quyền nào đó.
+experimental chứa các gói phần mềm thử nghiệm. Đây không phải là một kho gói phần mềm hoàn thiện: các phần mềm trong kho này có thể phụ thuộc vào các goi trong kho unstable.
+backports chứa các phần mềm mới,chủ yếu dàng những hệ điều hành Debian ổn định.
+oldstable (còn gọi là lenny) chứa các phần mềm cho hệ điều hanh Debian cũ.
+
+
+== Cài đặt phần mềm ==
+
+
+=== dpkg, cài đặt các gói phần mềm.deb ===
+dpkg - là một chương trình dòng lệnh quản lý các gói phần mềm trên Debian. Chương trình này giúp người dùng cài đặt và xoá bỏ các gói phần mềm dạng.deb.Hiện nay có phiên bản đồ họa của phần mềm này mang tên GDebi.
+
+
+=== APT, cài đặt phần mềm từ các kho trên mạng ===
+APT - là một chương trình có chức năng tương tự với dpkg. Nhưng khác với dpkg, APT biết cài đặt và cập nhật các gói phần mềm từ các kho trên mang.
+
+
+== Tổ chức ==
+
+
+=== Trưởng dự án ===
+Ian Murdock (tháng 8 năm 1993 – tháng 3 năm 1996), nhà thành lập Debian Project
+Bruce Perens (tháng 4 năm 1996 – tháng 12 năm 1997)
+Ian Jackson (tháng 1 năm 1998 – tháng 12 năm 1998)
+Wichert Akkerman (tháng 1 năm 1999 – tháng 3 năm 2001)
+Ben Collins (lập trình viên) (tháng 4 năm 2001 – tháng 4 năm 2002)
+Bdale Garbee (tháng 3 năm 2002 – tháng 3 năm 2003)
+Martin Michlmayr (tháng 3 năm 2003 – tháng 3 năm 2005)
+Branden Robinson (tháng 4 năm 2005 – tháng 4 năm 2006)
+Anthony Towns (tháng 4 năm 2006 – tháng 4 năm 2007)
+Sam Hocevar (tháng 4 năm 2007 – tháng 4 năm 2008)
+Steve McIntyre (tháng 4 năm 2008 – tháng 4 năm 2010)
+Stefano Zacchiroli (tháng 4 năm 2010 – Hiện tại)
+
+
+=== Quản lý phát hành ===
+Brian C. White (1997 – 1999)
+Richard Braakman (1999 – 2000)
+Anthony Towns (2000 – 2004)
+Steve Langasek, Andreas Barth and Colin Watson (2004 – 2007)
+Andreas Barth and Luk Claes (2007 – 2008)
+Luk Claes and Marc Brockschmidt (2008 – 2009)
+Luk Claes and Adeodato Simó (2009 – 2010)
+Adam D. Barratt and Neil McGovern (2010 – Hiện tại)
+
+
+== Chú thích ==
+
+
+== Liên kết bên ngoài ==
+Trang web chính thức của dự án Debian
+Debian GNU/Linux trên DistroWatch

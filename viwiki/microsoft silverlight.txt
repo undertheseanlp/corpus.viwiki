@@ -1,0 +1,28 @@
+Microsoft Silverlight là một nền tảng ứng dụng (application framework) để viết và chạy các ứng dụng Internet phong phú với sự nhấn mạnh về đa phương tiện, hình động, và đồ họa, với các tính năng và mục đích tương tự như của Adobe Flash. Môi trường thời gian chạy (hệ thống thực thi) cho Silverlight có sẵn như là một plug-in cho hầu hết các trình duyệt web. Trong khi những phiên bản đầu của Silverlight tập trung vào dòng phương tiện truyền thông (streaming media), các phiên bản hiện tại hỗ trợ đa phương tiện, đồ họa và hoạt hình (animation), và cung cấp cho các nhà phát triển hỗ trợ cho ngôn ngữ CLI và công cụ phát triển.
+Phiên bản hiện tại 4 được phát hành vào tháng 4 năm 2010. Nó tương thích với nhiều trình duyệt web được sử dụng trên hệ điều hành Microsoft Windows và Mac OS X. Các thiết bị di động, bắt đầu với điện thoại Windows Phone 7 và Symbian (seri 60), có khả năng được hỗ trợ trong năm 2010. Một phần mềm miễn phí có tên là Moonlight, do Novell hợp tác phát triển cùng Microsoft để Silverlight có thể hoạt động tương thích với Linux, FreeBSD và các nền tảng mã nguồn mở khác. Tuy nhiên đến tháng 5 năm 2012, dự án đã bị dừng do không được phổ biến.
+
+
+== Tổng quan ==
+Được phát triển từ nền tảng Windows Presentation Foundation (WPF), Silverlight hỗ trợ Đồ họa máy tính và đa phương tiện. Giao diện trong Silverlight được định nghĩa bằng Extensible Application Markup Language (XAML - phát âm: zammel) và hoạt động dựa trên nền.NET framework rút gọn (nhằm giảm dung lượng cài đặt). XAML được phát triển dựa trên XML, các thẻ (elements) tương đương với các lớp (classes) và thuộc tính của thẻ (attributes) là thuộc tính của lớp (properties).
+Silverlight hỗ trợ phát video và audio chuẩn H.264, Advanced Audio Coding, Windows Media Video (WMV), Windows Media Audio (WMA) và MPEG Layer III (MP3).
+
+
+== Đóng gói và thực thi ==
+Dự án Silverlight được viết dựa trên nền.NET và thường được xây dựng bằng Visual Studio. Ngoài ra, Microsoft cũng cung cấp Microsoft Expression Blend để hỗ trợ thiết kế giao diện. Ứng dụng Silverlight được đóng gói thành tập tin ZIP với phần mở rộng là.XAP, gói này bao gồm tập tin AppManifest.XAML để khai báo các thông tin cơ bản, và danh sách các thư viện.NET (tập tin với phần mở rộng là DLL) được sử dụng trong chương trình. Ứng dụng được triển khai bằng cách nhúng thẻ object vào mã nguồn HTML. Khi người dùng truy cập đến trang có sử dụng Silverlight, tập tin XAP sẽ được tự động tải về và chạy trên trình duyệt phía máy trạm.
+Ví dụ:
+
+ <object data="data:application/x-silverlight-2," 
+         type="application/x-silverlight-2" 
+         width="100%" height="100%">
+         <param name="source" value="MySilverLightControl.xap"/>
+ </object>
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Website chính thức
+Silverlight product page on Microsoft.com
+Silverlight Developers Center on MSDN
+Silverlight Developer Network Việt Nam

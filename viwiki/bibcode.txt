@@ -1,0 +1,6 @@
+Bibcode là một chuỗi ký tự nhận dạng được sử dụng cho một số hệ cơ sở dữ liệu thiên văn nhằm xác định tài liệu tham khảo. Bibcode được phát triển bằng sử dụng dữ liệu SIMBAD và NASA/IPAC Extragalactic Database (NED), nhưng hiện tại nó đã được sử dụng cho dữ liệu rộng hơn, ví dụ trong Hệ cơ sở dữ liệu thiên văn vật lý của NASA (NASA Astrophysics Data System). Mã này gồm 19 ký tự cố định với dạng tổng quát sau
+YYYYJJJJJVVVVMPPPPA,
+trong đó YYYY là bốn số của năm tham khảo và JJJJJ là mã dành cho tài liệu tham khảo được xuất bản ở đâu. Trong trường hợp là tạp chí, VVVV là số thứ tự của tập tạp chí, M ám chỉ phần trong tạp chí xuất bản (ví dụ, L cho phần bài viết công bố kết quả nghiên cứu-letters section), PPPP là số trang bắt đầu của bài viết đó và A là chữ cái đầu tiên trong last name của tên tác giả đầu tiên của bài báo. Dấu chấm (.) được sử dụng để lấp đầy những trường không có hoặc đệm vào những trường quá ngắn; việc đệm các dấu chấm được đặt vào bên phải đối với mã xuất bản và bên trái đối với số tập tạp chí và số trang. Ví dụ như sau:
+
+
+== Tham khảo ==

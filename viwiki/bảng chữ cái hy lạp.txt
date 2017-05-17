@@ -1,0 +1,34 @@
+Bảng chữ cái Hy Lạp là hệ thống 24 ký tự được dùng để viết tiếng Hy Lạp từ cuối thế kỷ thứ 9 trước Công nguyên hoặc đầu thế kỷ thứ 8 trước Công nguyên. Theo nghĩa hẹp đây là bảng chữ cái đầu tiên và lâu đời ghi mỗi nguyên âm và phụ âm bằng một biểu tượng riêng. Nó cũng được sử dụng như vậy cho đến ngày nay. Những chữ cái này cũng được dùng trong bảng số Hy Lạp từ thế kỷ thứ 2 trước Công nguyên.
+Bảng chữ cái Hy Lạp được kế thừa từ Bảng chữ cái Phoenicia, và nó không hề liên quan đến hệ thống chữ viết trước của Hy Lạp là Linear B hay Cypriot. Nó cũng là nền tảng cho nhiều bảng chữ cái khác ở châu Âu và Trung Đông, bao gồm cả bảng chữ cái Latinh. Ngoài việc được sử dụng để viết tiếng Hy Lạp hiện đại, ngày nay các chữ cái này cũng được dùng như những biểu tượng Toán và khoa học, Vật lý hạt trong Vật lý, hay tên các ngôi sao, tên của các cơn bão nhiệt đới siêu cấp và trong những mục đích khác.
+
+
+== Ký tự chính ==
+Dưới đây là bảng chữ cái Hy Lạp, cùng với dạng của nó sau khi đã chuyển tự. Bảng này cũng cung cấp các ký tự Phoenicia tương ứng với mỗi chữ cái Hy Lạp. Phát âm sử dụng Bảng mẫu tự phiên âm quốc tế.
+
+
+== Ký tự không dùng nữa ==
+Những chữ cái sau đây không nằm trong bảng chữ cái Hy Lạp tiêu chuẩn, nhưng đã được sử dụng vào thời tiền cổ và trong một số thổ ngữ nhất định. Những chữ cái: digamma, stigma, heta, san, koppa, sampi, sho; cũng được sử dụng trong bảng số Hy Lạp.
+
+
+== Tham khảo ==
+Elsie, Robert (1991). “Albanian Literature in Greek Script: the Eighteenth and Early Nineteenth-Century Orthodox Tradition in Albanian Writing” (PDF 0.0 bytes). Byzantine and Modern Greek Studies 15 (20). 
+Humez, Alexander; Nicholas Humez (1981). Alpha to omega: the life & times of the Greek alphabet. Godine. ISBN 0-87923-377-X.   — A popular history, more about Greek roots in English than about the alphabet itself.
+Jeffery, Lilian Hamilton (1961). The local scripts of archaic Greece: a study of the origin of the Greek alphabet and its development from the eighth to the fifth centuries B.C. Oxford. ISBN 0-19-814061-4. 
+Macrakis, Michael S. (ed.) (1996). Greek letters: from tablets to pixels: proceedings of a conference sponsored by the Greek Font Society. Oak Knoll. ISBN 1-884718-27-2.  — Includes papers on history, typography, and character coding by Hermann Zapf, Matthew Carter, Nicolas Barker, John A. Lane, Kyle McCarter, Jerôme Peignot, Pierre MacKay, Silvio Levy, et al.
+Hansen and Quinn (1992 - especially noted for an excellent discussion on traditional accents and breathings, as well as verbal formation). Greek - An Intensive Course, Second Revised Edition. Fordham University Press.  
+Powell, Barry B. (1991). Homer and the Origin of the Greek Alphabet.  — discusses dating, early inscriptions, and ties to origin of texts of Homer. ISBN 0-521-58907-X
+Macrakis, Stavros M. (1996). Character codes for Greek: Problems and modern solutions.  — Includes discussion of the Greek alphabet used for languages other than Greek.
+C. J. Ruijgh (1998) Sur la date de la création de l’alphabet grec. Mnemosyne 51, 658–687
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+U0370.pdf Phạm vi Hy Lạp (tiếng Anh)
+Examples of Greek handwriting (tiếng Anh)
+Greek Unicode Issues (tiếng Anh)
+Unicode FAQ - Greek Language and Script (tiếng Anh)
+Unicode alphabetic test for Greek Unicode range (tiếng Anh)
+Unicode numeric test for Greek Unicode range (tiếng Anh)
+Unicode review for all Greek-related Unicode ranges (tiếng Anh)

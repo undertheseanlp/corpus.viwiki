@@ -1,0 +1,23 @@
+Samsung Galaxy Tab 2 7.0 là máy tính bảng 7-inch chạy hệ điều hành Android sản xuất và phân phối bởi Samsung Electronics. Samsung Galaxy Tab 2 thuộc thế hệ thứ hai của dòng máy tính bảng Samsung Galaxy Tab series, bao gồm bản 10.1-inch, Galaxy Tab 2 10.1. Nó được công bố vào 13 tháng 2 năm 2012, và phát hành tại Mỹ vào 22 tháng 4 năm 2012. Nó là kết thừa của Samsung Galaxy Tab 7.0 Plus.
+
+
+== Lịch sử ==
+Galaxy Tab 2 7.0 được công bố vào 13 tháng 2 năm 2012. Nó được ra mắt cùng với Galaxy Tab 2 10.1 tại Mobile World Conference 2012. Mặc dù ban đầu họ dự định phát hành vào tháng 3, nhưng họ đã không làm vậy, với Samsung giải thích rằng sự chậm trễ này nguyên nhân là vấn đề không xác định với Ice Cream Sandwich và buộc họ phải phát hành vào cuối tháng 4. Samsung sau đó xác nhận rằng Galaxy Tab 2 7.0 sẽ phát hành vào 22 tháng 4, với mức giá $250 cho bản 8GB.
+
+
+== Tính năng ==
+Galaxy Tab 2 7.0 ban đầu ra mắt mới Android 4.0 Ice Cream Sandwich. Bản cập nhật Android 4.1.1 Jelly Bean được phát hành sau đó. Samsung tùy biến giao diện người dùng với TouchWiz UX. Cũng như các ứng dụng từ Google, bao gồm Google Play, Gmail và YouTube, nó cho phép truy cập đến ứng dụng Samsung như ChatON, S Suggest và All Share Play.
+Galaxy Tab 2 7.0 có bản WiFi, biến thể WiFi với IR Blaster, và 3G & WiFi. Bộ nhớ trong từ 8 GB đến 32 GB tùy theo mẫu, với thẻ nhớ mở rộng microSD. Nó có màn hình 7-inch PLS LCD với độ phân giải 1.024x600 pixel, và cùng với hai máy ảnh trước-sau.
+Một tính năng bổ sung của Samsung là "Tìm điện thoại của tôi" cho phép theo dõi vị trí thiết bị di động của bạn nếu nó bị mất.
+Thiết bị này sử dụng các kết nối độc quyền của Samsung để kết nối sạc cáp USB/dữ liệu. Ngoài ra một bộ chuyển đổi có thể được sử dụng được thêm vào như USB OTG cho phép máy tính bảng lưu trữ như thiết bị USB. Các thiết bị USB Mass Storage có thể được đính kèm không cần phải cài thêm trình điều khiển. Ngoài ra hỗ trợ cho bàn phím và chuột có thế với cổng USB HID.
+
+
+== Đón nhận ==
+Galaxy Tab 2 7.0 đã được đón nhận theo hướng tính cực. The Verge - nhà phê bình David Pierce đã nhận xét, "Tab 2 mạnh hơn Kindle Fire hoặc máy tính bảng Nook, và bởi vì nó chạy phiên bản đầy đủ của Android nó là thiết bị có nhiều khả năng hơn nếu bạn quan đâm đến nhiều hơn là đọc." Cà Pierce và James Stables của TechRadar đều khen ngợi kích thước và cân nặng của thiết bị, cũng như mức giá thấp so với máy tính bảng đầy đủ khác. Đã có một số chỉ trích về chất lượng màn hình của nó, với Stables mô tả nó như là "đần độn và không phản hồi", và chuyên gia đánh giá David Ludlow so sánh độ phân giải thấp của nó với 2012 Google Nexus 7, mặc dù không nhìn thấy ấn tượng.
+
+
+== Tham khảo ==
+
+
+== Liên kết ==
+Website chính thức

@@ -1,0 +1,47 @@
+Bowling (còn gọi là Bóng gỗ) là một trò chơi giải trí mà mỗi người chơi ném một quả bóng nặng cho chạy trên một đường băng dài, phẳng để làm đổ những chai gỗ (ky) đứng ở cuối đường với mục đích làm sao chỉ ném ít lần nhất mà làm đổ tất cả chai gỗ. Ngày nay, bowling được xem là một môn thể thao.
+
+
+== Lịch sử ==
+Trò chơi Bowling được phổ biến vào cuối thế kỷ 19. Lần đầu tiên xuất hiện thể loại 10 ky (trước đây chỉ có 9 ky), đã có các tiêu chuẩn về ky, đường băng, bóng và luật chơi thống nhất. Cuối thập niên 1930 xuất hiện máy tự động xếp ky và đưa bóng trở lại.
+
+
+== Giới thiệu ==
+
+
+=== Đường băng ===
+Đường băng phẳng không mấp mô, làm từ vật liệu chống va chạm và được bôi một loại dầu đặc biệt. Trên đường băng có vạch biên và các dấu khác nhau. Vạch đầu tiên là vạch ngang cấm không được chạm khi ném bong, tiếp theo là 7 mũi tên được chia ra các khoang cách khác nhau để giúp người chơi căn cho chuẩn. Cuối cùng là Kegel xếp theo thứ tự từ 1 đến 10.
+
+
+=== Bóng ===
+Bóng bowling được làm từ vật liệu cứng (hầu như là làm từ plastic), có cân nặng và màu khác nhau. Cân nặng của bóng đo bằng pound và độ nặng bóng được đánh dấu bằng số ghi trên bóng. Nhẹ nhất là bóng số 6, nặng nhất là số 16 (7,3 kg). Bóng có 3 lỗ để cho ngón tay vào giữ. Trước khi chơi nên chọn bóng đúng cân nặng và các lỗ vừa với ngón tay để không bị chặt quá hoặc rộng quá.
+
+
+=== Ky ===
+Ky (kegel) được làm từ vật liệu bền và có cùng một cỡ và được xếp tự động trên đường băng. Mỗi kegel có một vị trí nhất định đánh theo số.
+
+
+== Cách tính điểm ==
+Trong 1 game có 10 frame, mỗi 1 frame bạn có 2 lần cơ hội cho việc đánh ngã hoàn toàn 10 Pin (1 Pin được tính là 1 điểm) Nếu lần đầu tiên bạn đánh ngã ngay 10 pin thì gọi là "Strike" nếu sau 2 lần ném mới đổ tất 10 Pin thì gọi là "Spare" còn sau cả 2 lần mà vẫn còn pin thì frame đó gọi là frame open.
+1.Frame Strike: ngoài 10 điểm bạn có được do đánh ngã 10 Pin trong lần ném đầu tiên của frame này, bạn sẽ được hưởng quyền cộng tất cả số Pin ngã từ 2 cú ném tiếp theo vào frame này (tối đa 1 frame là 30 điểm).
+2. Frame Spare: Ngoài 10 điểm có được do đánh ngã 10 Pin sau 2 lần ném trong frame này, bạn được hưởng quyền cộng toàn bộ số điểm từ cú ném kế tiếp vào frame này (điểm tối đa frame spare là không quá 20 điểm).
+3. Frame Open: Sau 2 lần ném mà vẫn chưa ngã hết số Pin thì điểm ở frame này sẽ tương đương với số Pin bạn ném ngã sau 2 lần ném, và quyền duy nhất bạn được hưởng là ném banh ở frame kế tiếp (nếu trong game đó bạn vẫn còn frame chưa thực hiện).
+Đến frame thứ 10 thì cách tính điểm cũng như trên Tổng điểm tối đa cho 1 game là 300 điểm.
+
+
+== Giày chơi Bowling ==
+Là loại giày có đế bên chân trượt làm bằng da mềm (nếu ném bóng bằng tay phải thì chân trái sẽ là chân trượt), và chiếc còn lại đế giày được làm bằng plastic dẻo mềm. Và cấu trúc giày sẽ ngược lại nếu thuận tay trái.
+Tùy thuộc vào các trung tâm chơi Bowling, cho thuê giày có thể là một khoản phí khác.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Automatic scorer
+Battle of the Bowling Alley, so named for the narrow valley north of Taegu, South Korea (dubbed the "Bowling Alley"), where United Nations forces defeated North Korean forces early in the Korean War
+Fédération Internationale des Quilleurs (FIQ), the top international bowling organization
+New Zealand Indoor Bowls
+Pinsetter
+Skee ball — a game that plays similar to bowling
+Skittles, the sport from which alley-based bowling originated
+Bowls, Lawn Bowling

@@ -1,0 +1,55 @@
+Fedora, trước đây gọi là Fedora Core, là một Bản phân phối Linux dựa trên RPM Package Manager, được phát triển dựa trên cộng đồng theo "Dự án Fedora (Fedora Project) và được bảo trợ bởi Red Hat.
+Dự án Fedora nhắm tới mục đích tạo ra một hệ điều hành mã nguồn mở hoàn chỉnh để sử dụng cho các mục đích tổng quát. Fedora được thiết kế để có thể dễ dàng cài đặt với chương trình cài đặt mang giao diện đồ họa. Các gói phần mềm bổ sung có thể tải xuống và cài đặt một cách dễ dàng với công cụ yum. Các phiên bản mới hơn của Fedora có thể được phát hành mỗi 6 hoặc 8 tháng.
+Tên gọi Fedora Core là nhằm mục đích phân biệt giữa gói phần mềm chính của Fedora với các gói phần mềm phụ trội, bổ sung cho Fedora.
+Hỗ trợ kỹ thuật của Fedora đa số là đến từ cộng đồng (mặc dù Red Hat có hỗ trợ kỹ thuật cho Fedora nhưng không chính thức).
+Fedora còn được gọi là Fedora Linux, nhưng đây không phải là tên gọi chính thức của nó.
+
+
+== Các đặc điểm ==
+Fedora Core sử dụng GNOME như là môi trường đồ hoạ mặc định. Bên cạnh đó người dùng cũng có thể lựa chọn các môi trường làm việc khác như KDE, XFCE, hay đơn giản hơn nữa với các trình quản lý cửa sổ như icewm, fluxbox,...
+Một số công cụ quản trị của Fedora Core được viết bằng Python - một ngôn ngữ kịch bản hướng đối tượng. Ví dụ điển hình là công cụ yum, dùng để quản lý và cài đặt các gói phần mềm theo định dạng RPM.
+
+
+== Các phiên bản ==
+
+
+=== Hiện có ===
+Hiện nay Fedora đã có phiên bản thứ 16 chính thức và có thể tải về tại website của dự án. Phiên bản 8, 9, 10, 11, 12, 13, 14 và 15 cũng đã được tung ra trước đó.
+Từ phiên bản 7 trở đi, dự án chính thức mang tên Fedora.
+Fedora Core 6 (FC6, tên phát hành là Zod), được phát hành vào ngày 24 tháng 10 năm 2006. Phiên bản này tích hợp GNOME 2.16, KDE 3.5.4, Xorg 7.1, GCC 4.1.1 và nhân Linux (Linux kernel) phiên bản 2.6.18.
+Phiên bản mới này có cải thiện về giao diện (font DejaVu mới, "puplet" - một biểu tượng thông báo update ở góc màn hình...); các chương trình ứng dụng được áp dụng DT_GNU_HASH; trình cài đặt Anaconda cho phép tải xuống các gói phần mềm không có sẵn trong bộ cài bằng cách thêm vào các kho YUM khác nhau, hỗ trợ IPv6; nhân 2.6.18 dùng chung cho các bộ xử lý SMP và UP.
+Fedora Core 5 (FC5, tên phát hành là Bordeaux), được phát hành vào ngày 20 tháng 3 năm 2006. Phiên bản này tích hợp GNOME 2.14, KDE 3.5.1, Xorg 7.0, GCC 4.1 và nhân Linux (Linux kernel) phiên bản 2.6.16
+Fedora Core 4 (FC4, tên phát hành là Stentz), được phát hành vào ngày 13 tháng 6 năm 2005. Phiên bản này hỗ trợ các loại vi xử lý i386, AMD64 và PowerPC. Phiên bản này tích hợp GNOME 2.10, KDE 3.4, GCC 4.0 và nhân Linux (Linux kernel) 2.6.11
+Fedora Core 3 (FC3, tên phát hành là Heidelberg), được phát hành vào ngày 8 tháng 11 năm 2004. Phiên bản này hỗ trợ các loại vi xử lý i386 và AMD64. Phiên bản này tích hợp GNOME 2.8, KDE 3.3.0, X.Org Server 6.8.1 và nhân Linux (Linux kernel) 2.6.9
+
+Fedora Core 2 (FC2, tên phát hành là Tettnang), được phát hành và ngày 18 tháng 5 năm 2004. Phiên bản này tích hợp GNOME 2.6, KDE 3.2.1, SELinux và nhân Linux (Linux kernel) 2.6 Đây là phiên bản đầu tiên sử dụng X.Org Server thay thế cho XFree86. Phiên bản này đã bị phàn nàn khá nhiều vì các sự cố khi chạy song song với Windows XP.
+Fedora Core 1 (FC1, tên mã là Cambridge, tên phát hành là Yarrow), được phát hành vào ngày 6 tháng 11 năm 2003. Phiên bản này được phát triển từ Red Hat Linux 9 và được tích hợp hệ thống cập nhật tự động Yum cùng với các hỗ trợ cho máy vi tính xách tay. Một phiên bản dành cho AMD64 đã xuất hiện vào tháng 3 năm 2004.
+
+
+=== Bảng so sánh các phiên bản đã có ===
+
+
+=== Các phiên bản dự kiến phát hành ===
+
+
+== Fedora Core và Red Hat Enterprise Linux ==
+Fedore Core là kết quả của một chiến lược kinh doanh mới của công ty Red Hat vào năm 2003. Red Hat đã tách dòng Red Hat Linux trước đó thành 2 dòng mới. Fedora Core là dòng sản phẩm được cung cấp miễn phí và Red Hat Enterprise Linux là dòng sản phẩm thương mại.
+
+
+== Xem thêm ==
+Linux
+Red Hat Enterprise Linux
+Danh sách các bản phân phối Linux
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+http://www.redhat.com/Fedora/
+Cách cài đặt Fedora Core 6 & mọi thứ liên quan
+Cách cài đặt Fedora Core 5 & mọi thứ liên quan
+Tiến trình cài đặt Fedora Core 5 tại Wikibook
+Tải xuống Fedora Core
+Truy cập CVS của Fedora Core
+Bản livecd dựa trên FC6 với hỗ trợ tiếng Việt

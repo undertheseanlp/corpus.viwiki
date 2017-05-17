@@ -1,0 +1,23 @@
+Ubuntu MATE là một bản phân phối Linux  phát sinh từ Ubuntu. Khác biệt chính  giữa bản phân phối này so với Ubuntu là nó sử dụng môi trường desktop MATE làm giao diện đồ họa người dùng mặc định (dựa trên GNOME 2 vốn được sử dụng trên Ubuntu 11.04 về trước) thay cho Unity làm giao diện mặc định trên Ubuntu.
+Dự án Ubuntu MATE được thành lập bởi Martin Wimpress và Alan Pope và bắt đầu như là một phái sinh không chính thức của Ubuntu, sử dụng Ubuntu 14.10 làm nền tảng cho bản phát hành đầu tiên; một bản phát hành ngay sau 14.04 LTS một thời gian ngắn. Đến tháng 2/2015, Ubuntu MATE nhận được hỗ trợ chính thức của Canonical Ltd. từ bản phát hành 15.04 Beta 1. Ngoài  IA-32 và x86-64 là những nền tảng hỗ trợ ban đầu, Ubuntu MATE cũng hỗ trợ cho các nền tảng PowerPC và ARMv7 (trên Raspberry Pi 2 và 3).
+Vào tháng 4 năm 2015, Ubuntu MATE tuyên bố hợp tác với hãng phân phối máy tính Anh Quốc Entroware, cho phép khách hàng của Entroware  có thể mua desktop và laptop cà sẵn Ubuntu MATE với các hỗ trợ đầy đủ. Một số giao dịch phần cứng khác đã được công bố sau đó..
+
+
+== Phát hành ==
+
+
+== Xem thêm ==
+GTK+
+Linux Mint
+MATE
+Ubuntu GNOME
+Ubuntu Unity
+Xubuntu
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Website chính thức
+Ubuntu MATE trên DistroWatch

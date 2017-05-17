@@ -1,0 +1,6 @@
+Microsoft Internet Explorer 5 (viết tắt IE5) là một trình duyệt web đồ hoạ của Microsoft, chủ yếu dành cho Microsoft Windows, nhưng cũng có bản dành cho Apple Macintosh, Sun Solaris, và HP-UX. (Xem thêm Internet Explorer trên Mac hay trên Unix.)
+Nó là một trong những nguyên nhân của trận chiến trình duyệt.
+Internet Explorer 5 chiến 50% thị trường vào đầu năm 2000, đi đầu trong những trình duyệt web như IE4 và Netscape. Bản 5.x chiếm 80% thị trường vào tháng 8 năm 2001 khi ra mắt Internet Explorer 6. 5.0x và 5.5 đã được thay thế bởi Internet Explorer 6.0
+
+
+== Tham khảo ==

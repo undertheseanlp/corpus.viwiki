@@ -1,0 +1,38 @@
+Samsung Galaxy Note 7 (tên thương hiệu và thị trường là Samsung Galaxy Note7) là một phablet điện thoại thông minh chạy Android được phát triển và sản xuất bởi Samsung Electronics. Chiếc điện thoại là kế thừa sự thành công của Samsung Galaxy Note 5 trong năm 2015, đã được công bố bởi Samsung vào ngày 2 tháng 8 năm 2016 tại sự kiện Galaxy Unpacked ở New York, Mỹ, trực tiếp sự kiện tại London và Rio. Nó được phát hành vào 19 tháng 8 năm 2016 ở Mỹ và dự kiến sẽ phát hành vào ngày 2 tháng 9 năm 2016 ở châu Âu. Hiện giờ Samsung Galaxy Note7 vẫn đang được Samsung tiếp tục thu hồi do vấn đề cháy nổ pin nghiêm trọng.
+Samsung công bố vào ngày 11 Tháng 10 năm 2016, kết thúc sản xuất Galaxy Note 7. Tập đoàn này kêu gọi hãy tắt các điện thoại Galaxy Note 7 ngay cả các điện thoại đã được thay pin và không nên dùng chúng nữa.
+
+
+== Thông số kỹ thuật ==
+
+
+=== Phần cứng ===
+Samsung Galaxy Note 7 có màn hình 5.7-inch AMOLED cong với độ phân giải 2.560 x 1.440 pixel. Nó có bộ nhớ trong 64GB (khoảng 53GB khả dụng cho người dùng) và bao gồm khe thẻ nhớ microSD lên đến 256GB. Galaxy Note 7 là điện thoại Galaxy đầu tiên có tính năng quét mống mắt]], nó có thể mở điện thoại. Samsung Galaxy Note 7 còn là điện thoại Samsung đầu tiên trang bị USB Type-C. Phiên bản ở Hàn Quốc có điều khiển TV. Không có cổng IR, nhận radio.
+Galaxy Note 7 sử dụng SoC Exynos 8890 Octa trên phiên bản quốc tế, trong khi ở Mỹ và Trung Quốc sẽ sử dụng Snapdragon 820 SoC. Thiết bị có 4GB LPDDR4 RAM.
+
+
+=== Máy ảnh ===
+Galaxy Note 7 module máy ảnh giống như dòng Galaxy S7. Nó có 12 megapixel với khẩu độ f/1.7. Máy ảnh có chức năng quay 4K (2160p) với 30FPS, 1080p với 30/60fps và 720p slow-mo @ 240fps. Máy ảnh trước 5 megapixel cảm biến ISOCELL với khẩu độ f/1.7 và góc mở rộng. Cả hai máy ảnh đều có HDR tự động.
+
+
+=== Phần mềm ===
+Samsung Galaxy Note 7 phát hành với Android 6.0.1 Marshmallow và dự kiến sẽ nhận cập nhật Android 7.0 sớm sau khi phát hành và là điện thoại đầu tiên được thiết kế lại giao diện người dùng Touchwiz của Samsung, tên là "Grace UX".
+
+
+=== Bộ nhớ ===
+Galaxy Note 7 trang bị bộ nhớ trong 64GB cùng với thẻ nhớ ngoài micro-SD.
+
+
+=== Phát hành ===
+Số lượng đặt hàng trước ở Hàn Quốc đã phá vỡ kỷ lục với 200.000 đơn đặt hàng trước chỉ trong 2 ngày. Samsung Canada tuyên bố rằng số lượng đặt hàng trước ở Canada "rất sôi nổi". Do nhu cầu tại một số quốc gia như Malaysia, Hà Lan, Nga và Ukraine dẫn đến sự trì hoãn đến tháng 9 do thiếu hụt nguồn cung.
+
+
+== Ngưng bán toàn cầu ==
+Đầu tháng 9 năm 2016, Samsung tạm thời ngưng bán Galaxy Note7 vì sự cố liên quan đến pin. Sau khi họ đã thay pin được cải thiện mới cho các điện thoại này đã được giao hàng trong chương trình đổi pin vì nguy cơ bốc cháy, sau khi đã thu hồi và được đổi trả thiết bị Galaxy Note 7 an toàn thì lại xuất hiện thêm trường hợp lỗi liên quan đến pin của Galaxy Note 7 đã đổi trả. Vào ngày 11 tháng 10 năm 2016, Samsung công bố kết thúc sản xuất Galaxy Note7, bởi vì chúng có vấn đề kỹ thuật liên quan đến pin. Tập đoàn này kêu gọi hãy tắt các điện thoại Galaxy Note 7 nguyên gốc, cả các điện thoại đã được thay pin và không nên dùng chúng nữa. Vào ngày 22/1/2017 Samsung công bố nguyên nhân lỗi pin.
+
+
+== Tham khảo ==
+
+
+== Liên kết ==
+Trang chủ Samsung: http://www.samsung.com/global/galaxy/galaxy-note7/
+Chi tiết thông số kỹ thuật tại PDAdb.net

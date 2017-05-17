@@ -1,0 +1,246 @@
+Các linh kiện điện tử là các phần tử rời rạc cơ bản có những tính năng xác định được dùng cho ghép nối thành mạch điện hay thiết bị điện tử.
+
+
+== Phân loại ==
+Phân loại linh kiện điện tử có thể có nhiều tiêu chí khác nhau. Song với ý nghĩa phục vụ cho phân tích mạch và khả năng mô hình hoá thành mạch tương đương để tính toán được các tham số mà mạch điện thiết kế ra có thể đạt được, thì sự phân loại theo tác động tới tín hiệu điện được quan niệm là hợp lý nhất. Trong phân loại này thì bỏ qua tác động đến dòng nguồn nuôi DC nếu không có sự cần thiết phải ghi chú, như công suất lớn, toả nhiệt, gây nhiễu,...
+Linh kiện chủ động là loại tác động phi tuyến lên nguồn nuôi AC/DC để cho ra nguồn tín hiệu mới, trong mạch tương đương thì biểu diễn bằng một máy phát tín hiệu, như diode, transistor,...
+Linh kiện bị động không cấp nguồn vào mạch, nói chung có quan hệ tuyến tính với điện áp, dòng, tần số, như điện trở, tụ điện, cuộn cảm, biến áp,...
+Linh kiện điện cơ tác động điện liên kết với cơ học, như thạch anh, rơle, công tắc,...
+Vì rằng không có vật liệu nào có tính năng vật lý lý tưởng và không có sự tuyến tính lý tưởng, nên những linh kiện như "điện trở điện áp" nằm vào giữa các phân loại hàn lâm.
+
+
+== Linh kiện chủ động ==
+
+
+=== Linh kiện bán dẫn ===
+
+
+==== Điốt ====
+
+Điốt, chỉnh lưu, cầu chỉnh lưu
+Điốt Schottky: Điốt có tiếp giáp kim loại-bán dẫn và cho ra điện áp rơi phân cực thuận thấp
+Điốt Zener: Điốt ổn áp.
+Điốt TVS (Transient voltage suppression diode): Điốt dùng cho mạch hạn chế điện áp.
+Varicap hay Varactor: Điốt biến dung dùng làm tụ điện.
+LED (Light-emitting diode): Điốt phát sáng.
+laser: (LD)-laser diode- Điốt phát quang nhờ bức xạ cưỡng bức.
+Photodiode: Điốt quang (cảm quang).
+Avalanche photodiode: Điốt cảm quang làm việc ở miền gần đánh thủng.
+Pin mặt trời, photovoltaic cell, PV array hoặc panel: biến ánh sáng thành điện tích.
+
+DIAC, Điốt Trigger (SIDAC) – thường dùng cho khởi SCR
+Điốt ổn dòng (Constant-current): ít dùng.
+Bơm nhiệt điện (Peltier cooler) – một loại bơm nhiệt bán dẫn (semiconductor heat pump)
+
+
+==== Transistor ====
+
+Transistor:
+Transistor lưỡng cực (BJT, hoặc gọn là "transistor") – NPN hoặc PNP
+Phototransistor: transistor có cửa sổ ở vỏ để ánh sáng chiếu được vào base, dùng như Photodiode
+Transistor Darlington, Sziklai pair (complementary Darlington) – NPN hoặc PNP: transistor ghép.
+IGBT (Insulated-gate bipolar transistor): transistor có cực điều khiển cách ly.
+
+Transistor hiệu ứng trường (FET, Field-effect transistor):
+JFET (Junction Field-Effect Transistor) kênh N hoặc P
+MOSFET (Metal Oxide Semiconductor FET) kênh N hoặc P
+MESFET (MEtal Semiconductor FET)
+HEMT (High electron mobility transistor)
+
+Thyristor:
+SCR (Silicon-controlled rectifier)
+TRIAC (TRIode for Alternating Current) – Bidirectional SCR
+UJT (Unijunction transistor)
+Programmable Unijunction transistor (PUT)
+SIT (Static induction transistor)
+SITh (Static induction thyristor)
+
+
+==== Mạch tích hợp ====
+
+IC Digital
+IC Analog
+Các modul chế sẵn: modul cấp nguồn, modul tần số chuẩn, modul hiển thị,...
+Cảm biến hiệu ứng Hall – cảm biến từ trường (Hall effect sensor)
+
+
+=== Quang điện tử, hiển thị ===
+Opto-Isolator, Photocoupler, Optocoupler
+Opto switch, Opto interrupter, Optical switch, Optical interrupter, Photo switch, Photo interrupter
+CRT (Cathode ray tube)
+LCD (preformed characters, dot matrix) (passive, TFT)
+Neon (individual, 7 segment display)
+LED (individual, 7 segment display, starburst display, dot matrix)
+Flap indicator (numeric, preprinted messages)
+Màn hình plasma (dot matrix)
+
+
+=== Đèn điện tử chân không ===
+
+Các đèn (ống điện tử) đã lỗi thờiː Diode, Triode, Tetrode, Pentode, Hexode, Pentagrid, Octode,...
+Đèn vi sóng (Microwave)
+Klystron: đèn khuếch đại vi sóng công suất cực lớn, dùng ở trạm phát/chuyển tiếp sóng trong phát thanh hoặc thông tin liên lạc, kể cả liên lạc với vệ tinh.
+Magnetron: đèn phát vi sóng, ví dụ trong lò vi sóng.
+Đèn Traveling-wave
+
+Đèn quang điện (Phototube), Photodiode: cảm quang, hiện dùng trong phát hiện ánh sáng cực yếu, cỡ vài photon.
+Đèn nhân quang điện (Photomultiplier tube, PMT): cảm quang có kèm dynode để khuếch đại.
+Vacuum fluorescent display (VFD) – một dạng màn hiện CRT không quét cỡ nhỏ, đã lỗi thời.
+Đèn phát tia X: dùng ở máy chiếu X-quang trong y tế, phân tích hóa,...
+
+
+=== Nguồn điện ===
+Pin, Ắc quy các loại
+Pin mặt trời
+Pin nhiệt (Thermoelectric generator, Seebeck generator) – phát điện khi có gradient nhiệt
+
+
+== Linh kiện thụ động ==
+
+
+=== Điện trở ===
+
+
+=== Tụ điện ===
+
+Tụ điện tích hợp
+Tụ điện MIS: tụ điện được chế tạo theo công nghệ bán dẫn, gồm 3 lớp kim loại - điện môi - chất bán dẫn (metal-isolator-semiconductor), trong đó điện môi là polyme.
+Tụ điện trench
+
+Tụ điện cố định
+Tụ điện gốm (Ceramic): tụ có điện môi chế tạo theo công nghệ gốm.
+Tụ điện màng (film): tụ có điện môi là màng plastic (plastic film).
+Tụ điện mica: tụ có điện môi là mica.
+Tụ hóa: hay tụ điện điện phân (electrolytic capacitor), dùng chất điện phân phù hợp với kim loại dùng làm anode để tạo ra cathode, nhằm đạt được lớp điện môi mỏng và điện dung cao.Tụ hóa nhôm: có anode (+) làm bằng nhôm.
+Tụ hóa tantali: có anode (+) làm bằng tantali.
+Tụ hóa niobi: có anode (+) làm bằng niobi.
+Tụ polyme, tụ OS-CON: dùng điện phân là polyme dẫn điện.
+
+Siêu tụ điện (Supercapacitor, Electric double-layer capacitor - EDLS)Siêu tụ điện Nanoionic: chế tạo theo công nghệ lớp kép nano để đạt mật độ điện dung cực cao.
+Siêu tụ điện Li ion (LIC): chế tạo theo công nghệ lớp kép lai để đạt mật độ điện dung siêu cao.
+
+Tụ điện vacuum: điện môi chân không (lỗi thời).
+
+Tụ điện biến đổi: tụ thay đổi được điện dung.
+Tụ điện tuning: tụ thay đổi dải rộng dùng trong mạch điều hưởng
+Tụ điện trim: tụ thay đổi dải hẹp để vi chỉnh
+Tụ điện vacuum biến đổi (lỗi thời).
+
+Tụ điện ứng dụng đặc biệt:
+Tụ điện filter: tụ lọc nhiễu, có một bản cực làm vỏ nối mát, bản cực kia có hai đầu nối.
+Tụ điện phát sáng (Light-emitting): tụ phát sáng khi tích điện?
+Tụ điện motor: tụ dùng cho để khởi động và tạo từ trường xoay cho motor.
+Tụ điện photoflash: tụ dùng cho đèn flash như đèn flash máy ảnh, cần đến phóng điện nhanh.
+
+Dãy tụ điện (network, array): các tụ được nối sẵn thành mảng.
+Varicap: Điốt bán dẫn làm việc ở chế độ biến dung.
+
+
+=== Cảm ứng từ điện ===
+Cuộn cảm
+Chấn lưu
+Điện trở cảm ứng điện
+Ampe kế hiệu ứng hall
+
+
+=== Memristor ===
+
+
+=== Networks ===
+
+
+=== Transducer, cảm biến ===
+
+Cảm biến quang học hay sóng điện từ nói chung
+Cảm biến nhiệt hồng ngoại, nhiệt chuyển động
+Cảm biến tiệm cận từ
+Cảm biến tiệm cận sóng âm
+Cảm biến biến dạng
+Cảm biến góc xoay
+Cảm biến rung
+Cảm biến gia tốc
+Cảm biến la bàn
+Cảm biến từ thông
+Cảm biến gas, ethanol, chất khí
+Cảm biến đo hạt bụi, khói
+Cảm biến lửa
+Một số cảm biến có thể dùng linh kiện chuyên dụng, hoặc dùng linh kiện phát để thu 1 dạng năng lượng tín hiệu từ một nguồn phát cùng loại.
+
+
+=== Antenna ===
+
+Antenna Lưỡng cực
+Yagi
+Phased array
+Antenna vòng (Loop antenna)
+Antenna Parabolic dish
+Log-periodic dipole array
+Biconical
+Feedhorn
+
+
+== Linh kiện điện cơ ==
+Cápː Power cord, Patch cord, Test lead
+
+
+=== Phần tử gốm áp điện ===
+Crystal (thạch anh) – Ceramic crystal phát tần số chính xác
+Ceramic resonator – Ceramic crystal phát tần số bán chính xác
+Ceramic filter - phần tử lọc bằng gốm, lọc tín hiệu xoay chiều có tần số ổn định (trong thực tế nó như Ceramic resonator)
+Surface acoustic wave (SAW) filters
+Ultrasonic motor – Motor áp điện (piezoelectric effect)
+Còi gốm (Piezo buzzer)
+Microphone gốm
+
+
+=== Đầu nối ===
+Terminal
+Connector
+Socket
+Screw terminal
+Terminal Blocks
+Pin header
+
+
+=== Chuyển mạch, công tắc ===
+
+Switch – Manually
+Electrical description: SPST, SPDT, DPST, DPDT, NPNT (general)
+Technology: slide switch, toggle switch, rocker switch, rotary switch, pushbutton
+
+Keypad
+DIP switch - dãy công tắc được chế với hàng chân kiểu DIP như vi mạch logic
+Footswitch
+Knife switch – Switch with unenclosed conductors
+Micro switch – công tắc kích hoạt cơ học với tác động tự khớp (snap)
+Limit switch – công tắc kích hoạt cơ học với cảm nhận giới hạn dịch chuyển
+Công tắc thuỷ ngân (Mercury switch): công tắc phản ứng với độ nghiêng, làm giọt thủy ngân cắt mạch điện
+Công tắc lực ly tâm (Centrifugal switch)
+Rơ le – công tắc điều khiển bằng điện
+Reed switch – công tắc từ trường
+Thermostat – công tắc nhiệt
+Humidistat – công tắc độ ẩm
+
+
+=== Cầu chì, bảo vệ ===
+Cầu chì – bảo vệ mạch một lần quá dòng, dùng dây chì đứt mạch khi nóng chảy
+Circuit breaker – bảo vệ mạch nối lại được bằng cơ học
+Resettable fuse or PolySwitch – bảo vệ mạch nối lại được bằng mạch bán dẫn (solid state device)
+Ground-fault protection, residual-current device – bảo vệ mạch nối đất
+Metal oxide varistor (MOV), surge absorber (hấp thụ quá áp), Điốt TVS – bảo vệ mạch tránh quá áp
+Inrush current limiter – bảo vệ mạch tránh dòng điện cao xâm nhập
+Đèn phóng điện khí (Gas discharge tube) – bảo vệ mạch tránh điện áp cao
+Khe đánh lửa (Spark gap) – bảo vệ mạch tránh điện áp quá cao.
+Chống sét (Lightning arrester)
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Ký hiệu điện tử
+Sơ đồ mạch điện
+Electronic components' Datasheets
+
+
+== Liên kết ngoài ==

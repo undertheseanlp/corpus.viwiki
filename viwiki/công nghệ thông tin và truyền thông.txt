@@ -1,0 +1,54 @@
+Công nghệ thông tin và truyền thông, thường được gọi là ICT, là cụm từ thường dùng như từ đồng nghĩa rộng hơn cho công nghệ thông tin (IT), nhưng thường là một thuật ngữ chung để nhấn mạnh vai trò của truyền thông hợp nhất và sự kết hợp của viễn thông (đường dây điện thoại và tín hiệu không dây), hệ thống quản lý tòa nhà thông minh và hệ thống nghe-nhìn trong công nghệ thông tin hiện đại. ICT bao gồm tất cả các phương tiện kỹ thuật được sử dụng để xử lý thông tin và trợ giúp liên lạc, bao gồm phần cứng và mạng máy tính, liên lạc trung gian cũng như là các phần mềm cần thiết. Mặt khác, ICT bao gồm IT cũng như là điện thoại, phương tiện truyền thông, tất cả các loại xử lý âm thanh và video, điều khiển dựa trên truyền tải và mạng và các chức năng giám sát. Cách diễn tả này xuất hiện lần đầu tiên vào năm 1997 trong một báo cáo của Dennis Stevenson gửi chính phủ Anh và được lan truyền rộng rãi trong các tài liệu mới của Chương trình giảng dạy Quốc gia Anh vào năm 2000.
+Tại Việt Nam, ngày 27 tháng 7 năm 2007 chính phủ Việt Nam thành lập Bộ Thông tin và Truyền thông để quản lý lĩnh vực này. Sau đó các Sở Thông tin và Truyền thông trên các tỉnh thành cả nước để thực hiện chức năng quản lý nhà nước về báo chí; xuất bản; bưu chính và chuyển phát; viễn thông và Internet; truyền dẫn phát sóng; tần số vô tuyến điện; công nghệ thông tin, điện tử; phát thanh và truyền hình và cơ sở hạ tầng thông tin truyền thông quốc gia; quản lý nhà nước các dịch vụ công trong các ngành, lĩnh vực thuộc phạm vi quản lý nhà nước của Bộ. (trước đây thuộc Bộ Văn hóa).
+Những năm trước tại Việt Nam dùng từ Viễn thông (dịch từ telecommunication trong tiếng Anh, télécommunication tiếng Pháp). Nhưng hiện nay đã chuyển qua dùng từ Truyền thông để thay thế.
+ICT thường được sử dụng trong "lộ trình ICT" (ICT roadmap) để trình bày đường lối phát triển cho những tổ chức có các nhu cầu về công nghệ thông tin và truyền thông.
+Cụm từ ICT giờ đây cũng được sử dụng để ám chỉ đến sự gắn kết của nghe-nhìn và mạng điện thoại với mạng máy tính qua một đường dây đơn hoặc hệ thống liên kết. Có những biện pháp khuyến khích kinh tế lớn (tiết kiệm được một số tiền khổng lồ qua việc loại trừ mạng điện thoại) để kết hợp nghe nhìn, quản lý tòa nhà và mạng điện thoại với hệ thống mạng máy tính sử dụng một hệ thống cáp thống nhất, phân phối và quản lý tín hiệu. Điều này dần dần đã thúc đẩy sự tăng trưởng của các tổ chức với cụm từ ICT trong tên để chỉ ra chuyên môn của họ trong việc xử lý và gắn kết các hệ thống mạng khác nhau.
+"ICT" được sử dụng như là một thuật ngữ chung cho tất cả các loại công nghệ cho phép người dùng tạo, truy cập và thao tác với thông tin. ICT là một sử kết hợp của công nghệ thông tin và công nghệ truyền thông. Trong một thế giới ngày càng gắn kết với nhau, sự tương tác giữa các thiết bị, hệ thống và con người đang tăng lên đáng kể. Các doanh nghiệp cần phải đáp ứng các nhu cầu của nhân viên và khách hàng của họ để cho phép tiếp cận nhiều hơn với các hệ thống và thông tin. Tất cả những nhu cầu liên lạc phải được truyền đi theo một cách thống nhất. Bằng cách cung cấp cơ sở hạ tầng có thể mở rộng, những mô hình điện toán đám mây cho phép các công ty làm việc thông minh hơn nhờ vào việc truy cập công nghệ và thông tin thông minh và hiệu quả về chi phí hơn. Nền tảng kết hợp này đã giảm thiểu chi phí và nâng cap năng suất giữa các doanh nghiệp và hơn thế nữa. Một phần của lộ trình công nghệ thông tin và truyền thông nên được củng cố về cơ sở hạ tầng, trong khi đó thêm vào những lợi ích cho người dùng trong việc hợp tác, gửi tin, sắp xếp lịch, tin nhắn tức thời (IM), âm thanh, video, và hội nghị qua Web. Điện toán đám mây làm cho việc vận chuyển và tiêu thụ năng lượng trong IT trở nên hiệu quả hơn và đưa ICT lên một tầm cao mới.
+
+
+== ICT trong cộng đồng ==
+Công nghệ thông tin giờ đây đã có mặt ở nhiều phương diện trong cuộc sống hàng ngày của chúng ta từ thương mại đến giải trí và thậm chí cả văn hóa. Ngày nay, điện thoại di động, máy tính để bàn, thiết bị cầm tay, thư điện tử và việc sử dụng Internet đã trở thành tâm điểm trong văn hóa và cộng đồng của chúng ta. ICT đã tạo nên một xã hội toàn cầu, nơi mà mọi người có thể tương tác và liên lạc với nhau một cách nhanh chóng và hiệu quả.
+ICT đã đóng góp vào sự xóa bỏ rào cản ngôn ngữ. Ví dụ những công cụ (ICT) như thư điện tử, tin nhắn tức thời (IM), chat room và các mạng xã hội như Facebook, Twitter, Skype và iPhone, điện thoại di động và những ứng dụng tương tự. Một bất lợi là những người thuộc thế hệ trước đây khó mà bắt kịp với những thay đổi của công nghệ ngày nay. Sự phản kháng với thay đổi và không có khả năng theo kịp với sự tiến hóa nhanh chóng của công nghệ cần được chú ý. Nhiều người trong xã hội không có điều kiện để tận hưởng công nghệ hiện có. Lý do có thể là sự nghèo khó, vị trí địa lý hoặc thiếu tiếp cận với công nghệ.
+
+
+== ICT trong giáo dục ==
+Trong các hệ thống giáo dục trên toàn cầu hiện nay, ICT không được thực thi rộng rãi như ở những lĩnh vực khác, như kinh doanh. Có nhiều lý do khác nhau cho lỗ hổng của những công nghệ này trong giáo dục. Nhiều chuyên gia cho rằng chi phí cao trong việc trang bị đã không tạo điều kiện cho các trường học tiếp cận với công nghệ này trong lớp học. Các chuyên gia khác lại cho rằng theo tính chất xã hội của những hệ thống giáo dục hiện nay, nó đòi hỏi đáng kể sự liên lạc cá nhân giữa giáo viên và học sinh của họ, điều này làm cho những công nghệ không được hỗ trợ tốt trong lớp học.
+
+
+=== Sử dụng ===
+Việc sử dụng ICT trong giáo dục đã mở rộng hơn với việc trang bị cho lớp học máy vi tính và kết nối Internet. Sự đa dạng của ICT hiện có trong các trường đại học có thể được thực hiện để nâng cao kinh nghiệm học tập của các sinh viên trong rất nhiều cách. Những trường đại học này hầu hết thực hiện ICT để hoàn thành những mục tiêu sau:
+Tăng cơ hội kết nối mạng: ICT giúp kết nối các trường với nhau, cũng như những cá nhân trong các trường. Khả năng kết nối thực sự quan trọng cho các học sinh, sinh viên vùng xa ở các nước đang phát triển.
+Cung cấp giáo dục từ xa: Với sự xuất hiện của ICT, việc học dần dần diễn tra trên Web. Kết quả là, ICT đã thay thế cho thư gửi từ trường học.
+Bổ sung cho học tập truyền thống: Một trong các lợi ích phổ biến của ICT trong giáo dục là việc cho các sinh viên sử dụng những chương trình như là Microsoft Word để trình bày bài tập viết tay truyền thống.
+
+
+=== Lợi thế ===
+Như với các công nghệ khác được thực hiện trong giáo dục hàng năm, ICT đã tạo lợi thế cho cả học sinh và giáo viên khi kết hợp thành công trong môi trường học tập. Lấy ví dụ như:
+Tăng khả năng tiếp cận tài nguyên: Không giống như lớp học truyền thống được khóa lại vào cuối ngày, ICT cho phép các sinh viên truy cập những tài nguyên học tập bất cứ lúc nào. Điều này làm tăng sự tiếp cận đến những tài nguyên đặc biệt có giá trị đối với những sinh viên có nhu cầu đặc biệt và những sinh viên sống ở vùng xa hoặc những nước đang phát triển.
+Trải nghiệm học tập tương tác: Nhiều giáo viên truyền đạt thông tin cho các sinh viên qua bài giảng. ICT cho phép sinh viên truy cập thông tin qua video, podcast và nhiều phương tiện tương tác khác mà nó tạo ra một trải nghiệm học tập hấp dẫn cho các sinh viên.
+Học tập lấy sinh viên làm trung tâm: Trong một lớp học truyền thống, sinh viên không thể kiểm soát được việc những bài học được xây dựng như thế nào. Qua ICT, sinh viên đã có thể kiểm soát được trải nghiệm học tập của mình. Ngoài ra sinh viên còn có thể quyết định khi nào học, và những nội dung trong bài sẽ được trình bày như thế nào.
+
+
+=== Bất lợi ===
+Mặc dù ICT có thể nâng cao việc học bằng nhiều cách nhưng vẫn có một số bất lợi đi kèm với việc thực hiện những công nghệ tinh vi này trong các trường và đại học trên khắp thế giới. Ví dụ như:
+Chi phí cao: Thực hiện ICT trong giáo dục có thể rất tốn kém vì việc nâng cấp cơ sở hạ tầng hiện tại, huấn luyện giáo viên và phát triển nội dung khóa học. Việc tài trợ cho những dự án này thường khan hiếm, nên làm cho vấn đề càng tệ hơn.
+Huấn luyện giáo viên: Nhiều giáo viên không quen với việc sử dụng ICT trong lớp học và không thể phối hợp với những công nghệ này vào kinh nghiệm sư phạm có sẵn của họ. Để thành công, việc áp dụng ICT trong giáo dục cần phải được hỗ trợ của những giáo viên có tay nghề.
+Không chắc chắn về tỉ lệ thành công: Hiện tại, không có công trình nghiên cứu lớn nào được thực hiện để cho thấy việc áp dụng ICT trong giáo dục có đem lại kết quả đáng kể trong thành tích học tập của học sinh hay không, làm cho ban quản lý của trường ngại đầu tư vào những công nghệ này.
+Dù đã có những nghiên cứu hiện tại và nghiên cứu dựa trên bằng chứng, tương lai của ICT trong giáo dục vẫn chưa thể chắc chắn được. Nghiên cứu bổ sung là cần thiết để hiểu rõ hơn nếu có một liên kết tồn tại giữa việc sử dụng ICT trong giáo dục và sự cải thiện việc học của học sinh.
+
+
+== Nghề nghiệp ==
+Có rất nhiều cơ hội nghề nghiệp cho cả những chuyên viên ICT mới bắt đầu và đã có kinh nghiệm. Những người quản lý hệ thống thông tin máy tính giám sát tất cả những khía cạnh của một tổ chức, như việc phát triển phần mềm, bảo mật mạng và các hoạt động Internet. Những người thích thiết kế chương trình phần mềm có thể chú ý đến một công việc như là một lập trình viên máy tính. Làm việc theo nhóm rất cần thiết cho các Kỹ sư phần mềm máy tính, những người làm việc với một nhóm lớn để giải quyết vấn đề và tạo ra sản phẩm mới. Thậm chí những người đi du lịch hoặc liên lạc từ xa phải báo cáo cho đội hoặc ban quản lý. Những người quản trị cơ sở dữ liệu (DBA) sử dụng phần mềm để lưu trữ và quản lý thông tin. Họ cũng thiết lập cơ sở dữ liệu và có trách nhiệm giữ cho hệ thống vận hành hiệu quả. Những chuyên viên thống kê thu thập dữ liệu và xử lý chúng, tìm ra những khuôn mẫu giải thích hành vi hoặc mô tả thế giới như nó hiện tại.
+
+
+== Xem thêm ==
+Công nghệ thông tin và truyền thông dành cho phát triển
+
+
+== Tham khảo ==
+
+
+== Xuất bản ==
+
+
+== Liên kết ngoài ==

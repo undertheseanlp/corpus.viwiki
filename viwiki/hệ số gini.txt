@@ -1,0 +1,293 @@
+Hệ số Gini dùng để biểu thị độ bất bình đẳng trong phân phối thu nhập. Nó có giá trị từ 0 đến 1 và bằng tỷ số giữa phần diện tích nằm giữa đường cong Lorenz và đường bình đẳng tuyệt đối với phần diện tích nằm dưới đường bình đẳng tuyệt đối. Hệ số này được phát triển bởi nhà thống kê học người Ý Corrado Gini và được chính thức công bố trong bài viết năm 1912 của ông mang tên "Variabilità e mutabilità". Chỉ số Gini (Gini Index) là hệ số Gini được thể hiện dưới dạng tỷ lệ phần trăm, được tính bằng hệ số Gini nhân với 100.
+Hệ số Gini (hay còn gọi là hệ số Loren) là hệ số dựa trên đường cong Loren (Lorenz) chỉ ra mức bất bình đẳng của phân phối thu nhập giữa cá nhân và hệ kinh tế trong một nền kinh tế.
+
+
+== Khái quát ==
+Hệ số Gini thường được sử dụng để biểu thị mức độ bất bình đẳng trong phân phối thu nhập giữa các tầng lớp cư dân. Số 0 tượng trưng cho sự bình đẳng thu nhập tuyệt đối (mọi người đều có cùng một mức thu nhập), số 1 tượng trưng cho sự bất bình đẳng thu nhập tuyệt đối (một người có toàn bộ thu nhập, trong khi tất cả mọi người khác không có thu nhập).
+Hệ số Gini cũng được dùng để biểu thị mức độ chênh lệch về giàu nghèo. Khi sử dụng hệ số Gini trong trường hợp này, điều kiện yêu cầu phải thỏa mãn không tồn tại cá nhân nào có thu nhập ròng âm. Hệ số Gini còn được sử dụng để đo lường sự sai biệt của hệ thống xếp loại trong lĩnh vực quản lý rủi ro tín dụng.
+Tuy hệ số Gini đã lượng hóa được mức độ bất bình đẳng về sự phân phối thu nhập, nhưng các nhà kinh tế nhận thấy, hệ số Gini mới chỉ phản ánh được mặt tổng quát nhất của sự phân phối thu nhập, trong một số trường hợp, chưa đánh giá được các vấn đề cụ thể.
+
+
+== Cách tính ==
+Gọi diện tích giữa đường bình đẳng tuyệt đối và đường Lorenz là A, phần diện tích bên dưới đường cong Lorenz là B, hệ số Gini là G. Ta có: G = A/(A+B).
+Vì A+B = 0,5 (do đường bình đẳng tuyệt đối hợp với trục hoành một góc 45°), nên hệ số Gini: G = A/(0,5) = 2A = 1-2B.
+Nếu đường cong Lorenz được biểu diễn bằng hàm số Y=L(X), khi đó giá trị của B là hàm tích phân:
+
+  
+    
+      
+        G
+        =
+        1
+        −
+        2
+        
+          ∫
+          
+            0
+          
+          
+            1
+          
+        
+        L
+        (
+        X
+        )
+        
+        d
+        X
+      
+    
+    {\displaystyle G=1-2\int _{0}^{1}L(X)\,dX}
+  
+Trong một số trường hợp, đẳng thức này có thể dùng để tính toán hệ số Gini trực tiếp không cần đến đường cong Lorenz.
+Vídụ:
+- Gọi dân số là 
+  
+    
+      
+        
+          y
+          
+            i
+          
+        
+      
+    
+    {\displaystyle y_{i}}
+  , với 
+  
+    
+      
+        i
+        =
+        1
+      
+    
+    {\displaystyle i=1}
+   đến 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   và y thỏa thứ tự không giảm 
+  
+    
+      
+        (
+        
+          y
+          
+            i
+          
+        
+        ≤
+         
+        
+          y
+          
+            i
+            +
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle (y_{i}\leq \ y_{i+1})}
+  
+
+  
+    
+      
+        G
+        =
+        
+          
+            1
+            n
+          
+        
+        (
+        n
+        +
+        1
+        −
+        2
+        
+          
+            
+              
+                ∑
+                
+                  i
+                  =
+                  1
+                
+                
+                  n
+                
+              
+              (
+              n
+              +
+              1
+              −
+              i
+              )
+              
+                y
+                
+                  i
+                
+              
+            
+            
+              
+                ∑
+                
+                  i
+                  =
+                  1
+                
+                
+                  n
+                
+              
+              
+                y
+                
+                  i
+                
+              
+            
+          
+        
+        )
+      
+    
+    {\displaystyle G={1 \over n}(n+1-2{\sum _{i=1}^{n}(n+1-i)y_{i} \over \sum _{i=1}^{n}y_{i}})}
+  
+- Với hàm xác suất rời rạc f(y), i = 1 đến n, là các điểm có xác suất khác 0 và được sắp theo thứ tự tăng dần 
+  
+    
+      
+        (
+        
+          y
+          
+            i
+          
+        
+        <
+         
+        
+          y
+          
+            i
+            +
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle (y_{i}<\ y_{i+1})}
+  , khi đó:
+
+  
+    
+      
+        G
+        =
+        1
+        −
+        
+          
+            
+              
+                ∑
+                
+                  i
+                  =
+                  1
+                
+                
+                  n
+                
+              
+              f
+              (
+              
+                y
+                
+                  i
+                
+              
+              )
+              (
+              
+                S
+                
+                  i
+                  −
+                  1
+                
+              
+              +
+              
+                S
+                
+                  i
+                
+              
+              )
+            
+            
+              
+                ∑
+                
+                  i
+                  =
+                  1
+                
+                
+                  n
+                
+              
+              
+                y
+                
+                  i
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle G=1-{\sum _{i=1}^{n}f(y_{i})(S_{i-1}+S_{i}) \over \sum _{i=1}^{n}y_{i}}}
+  
+
+
+== Hệ số Gini trên thế giới hiện nay ==
+
+
+== Ứng dụng ==
+Chương trình phát triển Liên Hiệp Quốc gần đây trong năm 2009, công bố bản báo cáo về khoảng cách thu nhập của thế giới. Công cụ thông thường để tính toán về sự bất bình đẳng là hệ số Gini. Hệ số này càng cao, xã hội càng thiếu công bằng. Kết quả năm nay cho thấy, Đan Mạch là một trong những nền kinh tế phát triển nhất thế giới và đồng thời cũng có khoảng cách thu nhập thấp nhất thế giới. Hệ số Gini của quốc gia Bắc Âu này chỉ là 24,7%. Tại châu Á, quốc gia có khoảng cách giàu - nghèo thấp nhất là Nhật Bản với hệ số Gini là 24,9%.
+
+
+== Xem thêm ==
+Danh sách các quốc gia theo chỉ số bình đẳng thu nhập
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Hệ số GINI theo thành thị nông thôn và vùng, 2002,2004
+Một số vấn đề về toàn cầu hoá

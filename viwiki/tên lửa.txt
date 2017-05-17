@@ -1,0 +1,101 @@
+Tên lửa (Hán-Việt: hỏa tiễn) là một khí cụ bay, có hoặc không có điều khiển, chỉ sử dụng một lần, chuyển động nhờ sức đẩy theo nguyên tắc phản lực do khí phụt ra từ động cơ tên lửa (xem thêm Định luật 3 Newton).
+Trong tiếng Anh, người ta phân biệt hai loại tên lửa.
+Loại thứ nhất là rocket (đôi khi được phiên sang tiếng Việt là "rốc két"), dùng nhiên liệu rắn và không có điều khiển.
+Loại thứ hai là missile, có thể dùng nhiên liệu rắn hoặc lỏng và có hệ điều khiển.
+Tuy nhiên, sự phân biệt này chỉ áp dụng đối với trường hợp các vũ khí chứ không áp dụng đối với các tên lửa dân sự hoặc tên lửa dùng để phóng tàu vũ trụ lên quỹ đạo.
+Có rất nhiều loại tên lửa và có nhiều kích cỡ khác nhau, từ loại rất nhỏ đến các loại tên lửa cực lớn như các tên lửa dùng để phóng các tàu vũ trụ.
+
+
+== Từ nguyên ==
+Từ "tên lửa" xuất phát từ từ Hán-Việt "hỏa tiễn" ("hỏa" có nghĩa "lửa", "tiễn" có nghĩa "tên"). Hỏa tiễn ban đầu là những mũi tên buộc liều cháy. Mũi tên được phóng đi (chẳng hạn bằng cung) đem theo lửa để đốt mục tiêu. Loại "hỏa tiễn" này khác hoàn toàn với hỏa tiễn hiện đại: lấy "hỏa" đẩy "tiễn" đi. Người ta đã dùng từ "tên lửa" hay "hỏa tiễn" để chỉ thứ đạn phản lực chỉ vì chúng cũng để lại cái đuôi sáng rất ấn tượng như hỏa tiễn thời cổ.
+
+
+== Các thành phần cơ bản ==
+Đầu đạn: là thành phần chứa chất nhồi (chất nổ, đầu đạn hạt nhân), hiệu quả của tên lửa phụ thuộc vào hiệu quả tiêu diệt mục tiêu của đầu đạn tại mục tiêu xác định.
+Thân có hình dạng khí động: Là hình dạng thiết kế tạo cho thân tên lửa có lực cản không khí nhỏ nhất để có thể bay xa.
+Hệ thống điều khiển: Là hệ thống giữ cho tên lửa ổn định trong khi bay (con quay, cánh tên lửa) và tác động làm thay đổi hướng và độ cao của tên lửa theo tín hiệu nhận được từ hệ thống chỉ huy để bay đến mục tiêu cần tiêu diệt.
+Hệ thống dẫn đường: lazer, ra đa, cảm ứng hồng ngoại
+Hệ thống đẩy: Là hệ thống cung cấp lực đẩy cho tên lửa, thông thường nó là các động cơ phản lực....
+Cơ cấu bảo hiểm và điểm hỏa: Là bộ phận làm cho đầu đạn của tên lửa hoạt động tại một thời điểm nhất định theo yêu cầu.
+Hệ thống cung cấp điện: Là hệ thống tạo ra điện áp cung cấp cho các hệ thống trên boong làm việc như: hệ thống dẫn hướng, hệ thống điều khiển, cơ cấu bảo hiểm và điểm hỏa hoạt động, v.v..
+Nhiên liệu: nhiên liệu rắn, hiđrô lỏng, oxi lỏng, cồn...
+
+
+== Phân loại tên lửa ==
+Tên lửa có thể phân loại theo nhiều tiêu chuẩn phân loại:
+
+
+=== Theo công dụng ===
+Tên lửa chiến đấu
+Tên lửa huấn luyện
+Tên lửa nghiên cứu khoa học
+tên lửa vũ trụ để du hành vũ trụ (còn gọi là tên lửa mang, tên lửa đẩy hay tên lửa chuyển tải)
+
+
+=== Theo hệ thống điều khiển ===
+Tên lửa có điều khiển: quỹ đạo bay hoặc các tham số khác được hiệu chỉnh trong quá trình bay có thể được điều khiển theo nhiều phương thức như theo chương trình cài đặt sẵn (tự lập), điều khiển từ xa, tự dẫn...
+Tên lửa không điều khiển: không có tác động nào hiệu chỉnh quỹ đạo và các tham số khi bay.
+
+
+=== Theo số tầng ===
+
+tên lửa một tầng
+tên lửa nhiều tầng
+Khi tên lửa đang hoạt động, nhiên liệu (và do đó trọng lượng) nhiên liệu giảm dần, khiến cho trọng lượng vô ích (phần vỏ của bình chứa nhiên liệu) tăng dần lên. Vì thế càng về cuối hành trình, hiệu suất sức đẩy của tên lửa giảm đi. Vì thế khi thiết kế tên lửa, thùng nhiên liệu được ráp bởi nhiều phần (gọi là các tầng), và chúng được vứt khỏi tên lửa khi nhiên liệu trong phần đó vừa cạn
+Do vậy loại tên lửa này phần cánh dẫn hướng thường nằm ở phía trước, và trên mỗi tầng đều có các cánh ổn định để thay thế cho các cánh trên các tầng bị mất
+
+
+=== Theo đầu đạn ===
+tên lửa mang đầu đạn hạt nhân
+tên lửa mang đầu đạn thông thường
+
+
+=== Theo tầm hoạt động ===
+tên lửa tầm ngắn
+tên lửa tầm trung
+tên lửa tầm xa
+tên lửa vượt đại châu (còn gọi là tên lửa đạn đạo liên lục địa có thể bắn đến mọi điểm trên Trái Đất)
+SRBM - Short Range Ballistic Missile < 1,000 km
+MRBM - Medium Range Ballistic Missile 1,000-2,500 km
+IRBM - Intermediate Range Ballistic Missile 2,500-3,500 km
+LRICBM - Limited Range Intercontinental Ballistic Missile 3,500-8,000 km
+FRICBM - Full Range Intercontinental Ballistic Missile 8,000-12,000 km
+(Theo http://www.fas.org)
+
+
+=== Theo quy mô nhiệm vụ ===
+Tên lửa chiến lược: là loại tên lửa đạn đạo loại lớn mang đầu đạn hạt nhân sức huỷ diệt cực lớn dùng để huỷ diệt các thành phố, cơ sở hạ tầng... của đối phương, quy mô huỷ diệt của nó có vai trò quyết định kết cục chiến tranh. Đương lượng nổ của đầu đạn tên lửa chiến lược phải tính bằng megaton.
+Tên lửa chiến thuật: mang đầu đạn hạt nhân để tiêu diệt các lực lượng quân sự của đối phương trong một khoảng chiến trường nhỏ hẹp, đương lượng nổ chỉ tính bằng kiloton.
+
+
+=== Theo đặc tính quỹ đạo và đặc điểm cấu tạo ===
+Tên lửa đạn đạo (còn gọi là tên lửa đường đạn): là loại tên lửa có phần lớn quỹ đạo tuân theo phương trình của vật dưới tác động của trường trọng lực. Loại tên lửa này không bị tác động bởi lực nâng khí động học, thường được phóng thẳng đứng vượt ra khỏi tầng khí quyển đậm đặc và thâm nhập vũ trụ như một tên lửa vũ trụ.
+Tên lửa hành trình còn gọi là tên lửa cruise, tên lửa cruidơ, tên lửa có cánh hay tên lửa tuần kích: là loại tên lửa có độ cao trong phạm vi tầng khí quyển thấp, luôn chịu tác động của lực nâng khí động học, bay theo cao độ địa hình.
+
+
+=== Theo nơi phóng và vị trí mục tiêu ===
+tên lửa đất đối đất
+tên lửa đất đối không
+tên lửa đất đối hải
+tên lửa hàng không (gồm 3 loại: tên lửa không đối không, tên lửa không đối đất, tên lửa không đối hải)
+tên lửa hải đối không
+tên lửa hải đối hải
+tên lửa hải đối đất
+
+
+=== Theo đối tượng tác chiến ===
+tên lửa phòng không
+tên lửa chống tăng
+tên lửa chống ra-đa
+tên lửa chống tên lửa
+tên lửa chống ngầm (còn gọi là tên lửa - ngư lôi)
+
+
+== Xem thêm ==
+Danh sách các tên lửa
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

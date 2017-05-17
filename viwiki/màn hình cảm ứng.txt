@@ -1,0 +1,13 @@
+Màn hình cảm ứng là một thiết bị sử dụng trong máy tính hoặc các thiết bị thông minh. Thiết bị bao gồm:
+Một màn hình hiển thị thông thường như LCD, LED, OLED.
+Một lớp cảm ứng trong suốt phía trên bề mặt màn hình để thay thế cho chuột máy vi tính. Lớp cảm ứng là một ma trận xác định vị trí chạm lên trên màn hình.
+Một tấm kính ngoài.
+Lớp cảm ứng có nhiều loại:
+Cảm ứng điện trở 5 lớp. Đây là lớp cảm ứng sử dụng trên nguyên lý tăng trở kháng của ma trận dây dẫn để cảm nhận được vị trí bấm nhấn trên màn hình. Lớp cảm ứng này chỉ cảm nhận được 1 điểm tại cùng một thời điểm nhấn. Lớp cảm ứng này cần lực nhấn lên trên bề mặt.
+Cảm ứng điện dung. Lớp cảm ứng này xuất hiện sau. Nguyên lý của loại cảm ứng này sử dụng trên việc thay đổi điện dung bề mặt khi chạm trên ma trận điện dung. Ưu điểm của cảm ứng điện dung là không cần lực tác động lên lớp cảm ứng nên rất nhạy và cảm nhận được nhiều điểm (tối thiểu 3 điểm) cùng tại một thời điểm.
+Cảm ứng hồng ngoại. Đây là loại cảm ứng xuất hiện đầu tiên với việc sử dụng một ma trận các tia hồng ngoại không nhìn thấy đan xen trên bề mặt của màn hình hiển thị. Bộ thu nhận tín hiệu hồng ngoại tính toán để xác định vị trí được nhấn và gửi tín hiệu cho bộ xử lý.
+Cảm ứng sóng âm bề mặt. Loại cảm ứng này sử dụng một sóng vô tuyến bước sóng ngắn. Nguyên lý hoạt động giống cảm ứng hồng ngoại.
+Việc sử dụng màn hình cảm ứng hiện nay ngày càng phổ biến. Chúng ta có thể tìm thấy ở các máy vi tính.
+
+
+== Tham khảo ==

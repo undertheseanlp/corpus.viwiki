@@ -1,0 +1,43 @@
+Giấy phép Công cộng GNU Hạn chế (tiếng Anh: GNU Lesser General Public License, viết tắt LGPL) là một giấy phép phần mềm miễn phí được xuất bản bởi Quỹ Phần mềm Tự do (FSF). Nó được xây dựng dựa trên một sự thỏa hiệp giữa Giấy phép Công cộng GNU (GPL) có tính copyleft mạnh mẽ và các giấy phép hạn chế khác như các giấy phép BSD và MIT. Giấy phép được xuất bản năm 1991 với tên gọi GNU Library General Public License (tạm dịch "Giấy phép Công cộng Thư viện GNU") và có phiên bản 2 cho đồng nhất với GPL phiên bản 2. LGPL được sửa đổi nhỏ trong phiên bản 2.1, xuất bản năm 1999, khi nó được đổi tên là GNU Lesser General Public License để phản ánh quan điểm của FSF cho rằng tất cả các thư viện nên sử dụng giấy phép này. Phiên bản 3 của LGPL xuất bản năm 2007 dưới dạng một danh sách các quyền có hiệu lực với GPL phiên bản 3.
+LGPL thiết lập các hạn chế copyleft trên chương trình quản lý bởi nó nhưng không áp dụng những hạn chế này cho các phần mềm chỉ kết nối với chương trình. Tuy nhiên, có một số hạn chế trên phần mềm này.Bản mẫu:Elucidate
+LGPL được sử dụng chủ yếu cho các thư viện phần mềm, mặc dù nó cũng được sử dụng bởi các chương trình ứng dụng stand-alone khác, tiêu biểu như Mozilla và OpenOffice.org.
+
+
+== Những sự khác biệt so với GPL ==
+Sự khác biệt chính giữa GPL và LGPL là LGPL cho phép sản phẩm được kết nối với một (trong trường hợp là một thư viện, 'được sử dụng bởi') một chương trình non-(L)GPLed, bất kể đó là một phần mềm miễn phí hay phần mềm có bản quyền. Phần mềm non-(L)GPLed có thể được phân phối dưới bất kỳ điều khoản sử dụng nào nếu nó không phải là phần mềm thứ cấp. Nếu nó là phần mềm thứ cấp, thì điều khoản của chương trình phải cho phép "sửa đổi vì mục đích sử dụng của khách hàng và kỹ thuật dịch ngược để sửa lỗi những sửa đổi này." Một phần mềm sử dụng một chương trình LGPL là một phần mềm thứ cấp hay không là mang tính chất pháp lý. Một chương trình standalone kết nối động tới một thư viện thông qua một .so, .dll, hoặc tương tự thì không được gọi là phần mềm thứ cấp (như định nghĩa bởi LGPL). Nó sẽ thuộc về danh mục một "phần mềm sử dụng thư viện". Đoạn trích sau đây là từ mục 5 của LGPL phiên bản 2.1:
+Một chương trình không chứa một phần được xây dựng từ Thư viện, nhưng được thiết kế để làm việc với thư viện bằng cách dịch hoặc kết nối với nó được gọi là "phần mềm có sử dụng thư viện." Những phần mềm kiểu này không phải là phần mềm thứ cấp của Thư viện, và do vậy không thuộc phạm vi của Giấy phép này.
+Tóm lại, nếu đó là "một phần mềm sử dụng thư viện" thì phần mềm phải được liên kết với một phiên bản mới của LGPL-covered program. Để làm việc này, cách thông thường nhất là sử dụng một "thư viện dùng chung để kết nối". Cách khác là một thư viện kết nối động cũng được phép nếu như cả mã nguồn hoặc các file liên kết được cung cấp.
+Một đặc tính khác của LGPL là có thể dùng để chuyển bất kỳ phần mềm LGPL nào sang một phần mềm GPL. Đặc điểm này rất có lợi cho việc sử dụng trực tiếp mã nguồn LGPL trong các thư viện và phần mềm GPL, hoặc dùng để tạo ra một phiên bản mới của mã nguồn mà không thể được sử dụng trong các sản phẩm có bản quyền.
+
+
+== Lựa chọn cấp phép phần mềm dưới dạng GPL hay LGPL ==
+Tên ban đầu "GNU Library General Public License" tạo ra cảm giác rằng FSF khuyến khích các thư viện nên sử dụng LGPL và các chương trình nên sử dụng GPL. Tháng 2 năm 1999, Richard Stallman viết bài luận với chủ để Tại sao bạn không nên sử dụng Lesser GPL cho thư viện tiếp theo của bạn giải thích rằng LGPL chưa được kiểm tra để loại bỏ những phần đã bị thay thế, và không nên luôn sử dụng LGPL cho tất cả các thư viện:
+Kiểu giấy phép nào phù hợp cho một thư viện là vấn đề chiến lược... Sử dụng GPL nguyên bản cho một thư viện sẽ tạo lợi thế cho những người phát triển phần mềm miễn phí so với những người phát triển phần mềm có bản quyền: một thư viện họ có thể sử dụng trong khi người phát triển phần mềm thu phí không thể có được... Khi phần mềm có bản quyền có thể có các tính năng của một thư viện miễn phí thông qua các thư viện khác... thì thư viện này không tạo ra lợi thế gì đặc biệt cho phần mềm miễn phí, do vậy tốt hơn hết là sử dụng Lesser GPL cho thư viện đó.
+Thêm vào đó, Stallman và FSF đôi khi còn ủng hộ các giấy phép có ít hạn chế hơn LGPL. Một ví dụ điển hình là sự ủng hộ của Stallman cho việc sử dụng giấy phép BSD-style cho các thư viện của dự án Vorbis.
+
+
+== Ngôn ngữ lập trình ==
+Giấy phép sử dụng thuật ngữ chủ yếu dùng cho các ứng dụng viết bằng ngôn ngữ lập trình C hoặc các biến thể của nó. Franz Inc. thêm phần phần giới thiệu cho giấy phép để giải thích thuật ngữ cho ngôn ngữ Lisp. LGPL với phần giới thiệu này thường được gọi là LLGPL.
+
+
+=== LGPL về vấn đề kế thừa lớp ===
+Có một số quan ngại về tính phù hợp của các lớp hướng đối tượng trong các phần mềm LGPL'd được kế thừa bởi mã nguồn non-(L)GPL. Trang web chính thức của GNU đã có giải thích về vấn đề này:
+LGPL không có kế hoạch cho kế thừa, bởi vì điều này là không cần thiết. Kế thừa tạo ra các sản phẩm dẫn xuất theo cách tương tự như liên kết đơn giản, và LGPL cho phép các công trình kế thừa kiểu này giống như với các gọi hàm cơ bản.
+
+
+== Xem thêm ==
+
+Affero General Public License
+Free Software licensing
+GNU Free Documentation License
+GNU General Public License
+GNAT Modified General Public License
+GPL linking exception
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang Web chính thức của LGPL
+Derivative Works

@@ -1,0 +1,20 @@
+Danh sách các ứng dụng Google cho Android liệt kê các ứng dụng di động được phát triển bởi Google cho hệ điều hành Android của hãng. Tất cả các ứng dụng này đều có thể tải về miễn phí từ Google Play Store. Một số các thiết bị này có thể được cài đặt sẵn trên một số thiết bị, tùy theo hãng sản xuất và phiên bản Android. Một số ứng dụng, như Google Keyboard, không được hỗ trợ trên các thiết bị Android phiên bản cũ hơn.
+
+
+== Đã ngừng ==
+Google Voice (xem Hangouts Dialer)
+Google Body
+Google Currents
+Google Maps Navigation
+Google Voice Search (hợp nhất với Google Now)
+Quickoffice
+Google Listen
+Google Reader
+
+
+== Xem thêm ==
+Danh sách các sản phẩm Google
+Google Mobile Services
+
+
+== Ghi chú ==

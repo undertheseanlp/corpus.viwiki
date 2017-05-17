@@ -1,0 +1,134 @@
+Trong toán học, một phép tính R được coi là giao hoán nếu đổi thứ tự tính thì kết quả vẫn không thay đổi. Ví dụ, phép toán hai ngôi R, thực hiện trên hai phần tử đầu vào a và b, được xem là giao hoán khi:
+a R b = b R a.
+
+
+== Ví dụ ==
+
+
+=== Các phép toán có tính giao hoán ===
+Phép cộng trên tập các số thực là một phép tính giao hoán vì:
+a + b = b + a
+Một phép tính giao hoán cho phép ta thực hiện phép tính theo bất kỳ thứ tự nào. Do đó, khi cộng nhiều con số, ta có thể cộng theo bất kỳ thứ tự nào, số nào trước, số nào sau cũng được.
+Phép nhân số thực là một phép tính giao hoán vì:
+a × b = b × a
+Phép giao trên các tập hợp là một phép tính giao hoán::A ∩ B = B ∩ A
+
+
+=== Các phép toán không có tính giao hoán ===
+Phép trừ số thực là một phép tính không giao hoán vì:
+a - b ≠ b - a
+Vì vậy, khi học tính trừ, ta tách riêng số trừ với số bị trừ.
+Phép nhân hữu hướng hai vectơ là một phép tính không giao hoán, vì:
+v × w = -w × v ≠ w × v
+
+
+== Toán tử giao hoán ==
+Một toán tử là phép toán tác động lên một hàm số bất kì và cho ra một hàm số mới. Ví dụ:
+A f(x,y,z) = g(x,y,z)
+thể hiện toán tử A tác dụng lên f(x,y,z) tạo ra hàm g(x,y,z). Một số loại toán tử thường gặp như toán tử đạo hàm, A = 
+  
+    
+      
+        d
+        
+          /
+        
+        d
+        x
+      
+    
+    {\displaystyle d/dx}
+  , hay toán tử Laplace, A = 
+  
+    
+      
+        
+          d
+          
+            2
+          
+        
+        
+          /
+        
+        d
+        
+          x
+          
+            2
+          
+        
+        +
+        
+          d
+          
+            2
+          
+        
+        
+          /
+        
+        d
+        
+          y
+          
+            2
+          
+        
+        +
+        
+          d
+          
+            2
+          
+        
+        
+          /
+        
+        d
+        
+          z
+          
+            2
+          
+        
+      
+    
+    {\displaystyle d^{2}/dx^{2}+d^{2}/dy^{2}+d^{2}/dz^{2}}
+  
+Hai toán tử có tính giao hoán khi thứ tự của hai toán tử này tác động lần lượt lên một hàm không ảnh hưởng đến kết quả cho ra. Nói chung hai toán tử bất kỳ thường không giao hoán, vì thứ tự tác động là quan trọng.
+Giao hoán tử của hai toán tử A và B, là toán tử được định nghĩa là:
+[A,B] = A B - B A
+Ở đây xảy ra hai trường hợp:
+[A,B] = A B - B A ≠ 0 - hai toán tử A, B không giao hoán với nhau.
+[A,B] = A B - B A = 0 - hai toán tử A, B giao hoán với nhau.
+Đây gọi là hệ thức giao hoán giữa hai toán tử.
+Một số hệ quả
+[A,B] + [B,A] = 0
+[A,A] = 0
+[A,B+C] = [A,B] + [B,C]
+[A+B,C] = [A,C] + [B,C]
+[A,BC] = [A,B]C + B[A,C]
+[AB,C] = [A,C]B + A[B,C]
+[A,[B,C]] + [C,[A,B]] + [B,[C,A]] = 0
+
+
+== Trong cơ học lượng tử ==
+Trong cơ học lượng tử, mỗi phép đo đều ứng với một toán tử, và kết quả đo thu được khi tác động toán tử lên hàm sóng của hệ vật chất. Hai phép đo không thể được đo cùng lúc với sai số bằng 0 nếu hai toán tử ứng với chúng không giao hoán với nhau. Đây là nội dung của nguyên lý bất định Heisenberg.
+
+
+== Xem thêm ==
+Phép toán hai ngôi
+Kết hợp
+Phân phối
+Giao hoán tử
+
+
+== Tham khảo ==
+
+Commutators in Quantum Mechanics, David Sherrill, 2006-08-15
+Foundations of Quantum Mechanics: From Photons to Quantum Computers, Reinhold Blümel
+
+
+== Liên kết ngoài ==
+[Heisenberg Uncertainty Principle|http://chemistry.illinoisstate.edu/standard/che460/handouts/460hup.pdf]

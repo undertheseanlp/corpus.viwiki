@@ -1,0 +1,20 @@
+Trong toán học, trường vector là một kết cấu trong giải tích vector gán tương ứng mỗi vector cho mọi điểm trong một (phần) không gian Euclid.
+Các trường vector thường được dùng trong vật lý để miêu tả, ví dụ, tốc độ và hướng của một chất lưu trong không gian, hoặc độ lớn và hướng của một lực nào đó, như lực từ hay lực hấp dẫn, khi nó thay đổi tùy thuộc vào vị trí.
+
+
+== Xem thêm ==
+Trường vô hướng
+Giải tích vector
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Vector field -- Mathworld
+Vector field -- PlanetMath
+3D Magnetic field viewer
+Vector Field Simulation Java applet illustrating vectors fields
+Vector fields and field lines
+Vector field simulation An interactive application to show the effects of vector fields
+Trường vectơ trên Từ điển bách khoa Việt Nam

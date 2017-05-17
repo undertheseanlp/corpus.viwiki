@@ -1,0 +1,6 @@
+Trong kỹ thuật ảnh kỹ thuật số, một pixel hay điểm ảnh (tiếng Anh: pixel hay pel, viết tắt picture element) là một điểm vật lý trong một hình ảnh raster, hoặc một khối màu rất nhỏ và là đơn vị cơ bản nhất để tạo nên một bức ảnh kỹ thuật số. Địa chỉ của một điểm ảnh tương ứng với tọa độ vật lý ITS. Pixel LCD được sản xuất trong một mạng lưới hai chiều, và được sử dụng dấu chấm hoặc đại diện hình vuông trong thường, nhưng điểm ảnh CRT tương ứng với cơ chế thời gian của chúng và tỷ lệ quét. 1 pixel không có kích thước cố định.
+Mỗi điểm ảnh là một mẫu của một hình ảnh ban đầu, nhiều điểm ảnh hơn thường cung cấp đại diện chính xác hơn của bản gốc. Cường độ của mỗi điểm ảnh có thể thay đổi. Hình ảnh trong hệ thống màu sắc, màu sắc thường là ba hoặc bốn đại diện trong cường độ thành phần như màu đỏ, xanh lá cây, và màu xanh, hoặc màu lục lam, đỏ tươi, màu vàng, và màu đen. Hầu hết các chương trình ứng dụng đồ họa đều diễn tả độ phân giải của hình ảnh bằng pixel dimensions - kích thước pixel, với số đo chiều ngang đi trước.
+Trong số các pixel có nhiều thông tin được lưu trữ khác nhau.
+
+
+== Tham khảo ==

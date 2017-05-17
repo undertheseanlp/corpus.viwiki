@@ -1,0 +1,140 @@
+Thiết lập bảng Ban đầu-Phản ứng-Cân bằng là một việc không thể thiếu nhằm xác định sự thay đổi nồng độ các chất trong một cân bằng hóa học. Trong tiếng Anh: ICE là tên ghép các chữ cái đầu với "Initial (Ban đầu), Change (Thay đổi: phản ứng), Equilibrium" (Đạt cân bằng). Bảng này được dùng để theo dõi quá trình biến đổi của lượng chất và để thiết lập biểu thức tính hằng số cân bằng. Thông thường, một phản ứng cân bằng được viết trong dạng bảng Phương trình-Ban đầu-Phản ứng-Cân bằng (tiếng Anh: RICE table với "Reaction (Phản ứng)).
+
+
+== Ví dụ ==
+Xét quá trình phân ly của một axit yếu HA trong dung môi nước. Bằng cách nào ta có thể xác định độ pH? Đầu tiên chúng ta sẽ viết phương trình phản ứng và sau đó viết theo hàng tương ứng với các chất trong cân bằng các dữ liệu:
+
+Ở hàng đầu, ký hiệu BĐ, diễn tả trạng thái ban đầu của hỗn hợp các chất: nồng độ axit là a và khi chưa bắt đầu phân ly thì nồng độ A- và H+ bằng 0.
+Ở hàng thứ hai, ký hiệu PỨ, cho ta thấy số lượng axit phân ly, nồng độ của nó thay đổi một lượng -x và nồng độ của cả A- và H+ tăng thêm một lượng +x. Số liệu này do phương trình dẫn ra.
+Hàng thứ ba, ký hiệu CB, là tổng của hai hàng bên trên. Hàng này chỉ rõ nồng độ của các chất tại thời điểm cân bằng được thiết lập.
+Nhìn bảng, ta có thể nhận ra nồng độ tại cân bằng của [H+] là x.
+Một phản ứng cân bằng được đặc trưng bởi một hằng số cân bằng (tại điều kiện xác định), với hằng số này ta có thể suy ra được con số x.
+
+  
+    
+      
+        
+          K
+          
+            a
+          
+        
+        =
+        
+          
+            
+              [
+              
+                H
+                
+                  +
+                
+              
+              ]
+              [
+              
+                A
+                
+                  −
+                
+              
+              ]
+            
+            
+              [
+              H
+              A
+              ]
+            
+          
+        
+      
+    
+    {\displaystyle K_{a}={\frac {[H^{+}][A^{-}]}{[HA]}}}
+  
+Thế các nồng độ tại thời điểm cân bằng vào biểu thức trên và tính toán.
+
+  
+    
+      
+        
+          K
+          
+            a
+          
+        
+        =
+        
+          
+            
+              x
+              .
+              x
+            
+            
+              a
+              −
+              x
+            
+          
+        
+        ;
+        
+          x
+          
+            2
+          
+        
+        +
+        x
+        
+          K
+          
+            a
+          
+        
+        −
+        a
+        
+          K
+          
+            a
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle K_{a}={\frac {x.x}{a-x}};x^{2}+xK_{a}-aK_{a}=0}
+  
+Với con số a cho trước và biết hằng số Ka, phương trình sẽ cho ra nghiệm x. Tính toán pH = -lg[H+] = -lgx. Rồi chúng ta kiểm tra nghiệm x phải thoả: |x| ≤ |a|
+Khi độ điện ly quá bé, a >> x thì ta viết gọn biểu thức thành
+
+  
+    
+      
+        
+          K
+          
+            a
+          
+        
+        =
+        
+          
+            
+              x
+              .
+              x
+            
+            a
+          
+        
+      
+    
+    {\displaystyle K_{a}={\frac {x.x}{a}}}
+  
+từ đó dẫn đến pH= 1/2(pKa - lga). Phương pháp xấp xỉ này được áp dụng khi giá trị pKa lớn hơn 2.
+
+
+== Chú thích ==

@@ -1,0 +1,36 @@
+Wikimedia Commons (cũng được gọi tắt là Commons hay Wikicommons) là kho hình ảnh, âm thanh, và tập tin phương tiện khác có nội dung tự do. Dự án này trực thuộc Quỹ Hỗ trợ Wikimedia. Các tập tin được truyền lên kho này được sử dụng ở các wiki khác của Wikimedia, kể cả Wikipedia, Wikibooks, và Wikinews, giống như các tập tin được truyền thẳng lên các wiki đó.
+Dự án này do Erik Möller đề nghị vào tháng 3 năm 2004 và mở cửa ngày 7 tháng 9 năm 2004. Kho dùng chung này được thiết lập với một lý do quan trọng là để không cần phải làm việc nhiều lần quá giữa các dự án và phiên bản ngôn ngữ của Wikimedia, bởi vì một tập tin phải được truyền lên nhiều lần trên nhiều wiki riêng trước khi Commons được thành lập. Tính năng để sử dụng những tập tin của Commons ở dự án nào của Wikimedia được thực hiện và bật lên vào tháng 10 năm 2004.
+Vẫn có thể truyền tập tin thẳng lên một wiki riêng, nhưng tại vì Commons có quy định tác quyền ngặt hơn phần nhiều dự án khác, tính năng truyền lên vẫn được giữ ở những wiki đó để truyền lên những tập tin không được vào Commons, như là hình ảnh được sử dụng hợp lý. Vào năm 2006, Wikimedia Commons nói riêng không cho phép truyền lên tập tin dưới điều kiện sử dụng hợp lý hay giấy phép phi tự do, chẳng hạn như các giấy phép mà hạn chế sử dụng thương mại hoặc cấm làm tác phẩm phái sinh. Các giấy phép hợp với dự án có Giấy phép Văn bản Tự do GNU (GFDL) và các loại giấy phép Attribution (ghi công) và ShareAlike (phát hành cùng giấy phép) của Creative Commons; dự án này cũng nhận các tập tin thuộc phạm vi công cộng và các tập tin mà Wikimedia giữ quyền.
+
+
+== Hình ảnh tiêu biểu ==
+
+
+== Các mốc đạt được ==
+30 tháng 11 năm 2006, 1 triệu tập tin phương tiện.
+9 tháng 10 năm 2007, 2 triệu tập tin phương tiện.
+16 tháng 7 năm 2008, 3 triệu tập tin phương tiện.
+4 tháng 3 năm 2009, 4 triệu tập tin phương tiện.
+2 tháng 9 năm 2009, 5 triệu tập tin phương tiện.
+27 tháng 1 năm 2010, 1 triệu thành viên đăng ký và 8 triệu trang.
+31 tháng 1 năm 2010, 6 triệu tập tin phương tiện.
+17 tháng 7 năm 2010, 7 triệu tập tin phương tiện.
+1 tháng 1 năm 2011, 8 triệu tập tin phương tiện.
+23 tháng 2 năm 2011, 9 triệu tập tin phương tiện.
+15 tháng 4 năm 2011, 11 triệu tập tin phương tiện.
+
+
+== Chú thích ==
+
+
+== Xem thêm ==
+Creative Commons, dự án cung cấp nhiều loại giấy phép nội dung tự do và thư mục về tác phẩm có nội dung tự do
+Lưu trữ Internet, có sưu tập video trên mạng lớn nhất mà có thể truy nhập miễn phí
+Dự án Gutenberg, sưu tập văn kiện lớn nhất có nội dung tự do (có cả sách và bản nhạc)
+Ourmedia, lưu trữ tư liệu thuộc sở hữu cộng đồng
+
+
+== Liên kết ngoài ==
+
+Wikimedia Commons (tiếng Anh; phiên bản tiếng Việt đã lỗi thời)
+Wikimedia Commonplace, công cụ để truyền tập tin lên Wikimedia Commons, chạy trên Windows

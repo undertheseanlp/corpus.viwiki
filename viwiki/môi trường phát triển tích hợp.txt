@@ -1,0 +1,32 @@
+Môi trường phát triển tích hợp (tiếng Anh: Integrated Development Environment; viết tắt: IDE) còn được gọi là "Môi trường thiết kế hợp nhất" (tiếng Anh: Integrated Design Environment) hay "Môi trường gỡ lỗi hợp nhất" (tiếng Anh: Integrated Debugging Environment) là một loại phần mềm máy tính có công dụng giúp đỡ các lập trình viên trong việc phát triển phần mềm.
+Các môi trường phát triển hợp nhất thường bao gồm:
+
+Một trình soạn thảo mã (source code editor): dùng để viết mã.
+Trình biên dịch (compiler) và/hoặc trình thông dịch (interpreter).
+Công cụ xây dựng tự động: khi sử dụng sẽ biên dịch (hoặc thông dịch) mã nguồn, thực hiện liên kết (linking), và có thể chạy chương trình một cách tự động.
+Trình gỡ lỗi (debugger): hỗ trợ dò tìm lỗi.
+Ngoài ra, còn có thể bao gồm hệ thống quản lý phiên bản và các công cụ nhằm đơn giản hóa công việc xây dựng giao diện người dùng đồ họa (GUI).
+Nhiều môi trường phát triển hợp nhất hiện đại còn tích hợp trình duyệt lớp (class browser), trình quản lý đối tượng (object inspector), lược đồ phân cấp lớp (class hierarchy diagram),... để sử dụng trong việc phát triển phần mềm theo hướng đối tượng.
+
+Phân theo số lượng các ngôn ngữ được hỗ trợ, ta có thể chia các môi trường phát triển hợp nhất được sử dụng rộng rãi ngày nay thành hai loại:
+
+Môi trường phát triển hợp nhất một ngôn ngữ: làm việc với một ngôn ngữ cụ thể, ví dụ: Microsoft Visual Basic 6.0 IDE.
+Môi trường phát triển hợp nhất nhiều ngôn ngữ: có thể làm việc với nhiều ngôn ngữ lập trình, ví dụ: Eclipse IDE, NetBeans, Microsoft Visual Studio.
+
+
+== Lịch sử ==
+Khi các thế hệ máy tính đầu tiên ra đời, lập trình viên không có cách nào để viết ra các chương trình trên các máy này. Việc "viết chương trình" trong thời gian này gắn liền với việc phải thay đổi cấu trúc, linh kiện,... của cả máy, hoặc đục lỗ lên những tấm thẻ để biểu thị cho những thông tin nào đó. Ví dụ: để thay đổi mã lệnh cho máy tính đa chức năng đầu tiên là ENIAC (do hai kĩ sư người Mỹ J. W. Machily và J. Presper Eckret chế tạo vào năm 1946), các nhà chế tạo phải thiết kế lại ENIAC.
+Sau đó, khi màn hình ra đời và việc phát triển có thể được thực hiện trên các thiết bị đầu cuối (terminal), các môi trường phát triển hợp nhất mới ra đời. BASIC là ngôn ngữ đầu tiên có một môi trường phát triển hợp nhất cho riêng mình. Tuy nhiên, môi trường này (một phần của Hệ thống chia sẻ thời gian Dartmouth) hoàn toàn dựa trên giao diện ký tự, và cũng không có nhiều tính năng so với các môi trường phát triển đồ họa ngày nay. Dù vậy, nó cũng đã tích hợp trình soạn thảo, quản lý tập tin, biên dịch, dò lỗi và thực thi.
+Trước đây, khi chưa có hệ thống cửa sổ (như Microsoft Windows và X11, giao diện của các môi trường phát triển hợp nhất hoàn toàn dựa trên văn bản. Người dùng phải sử dụng các phím chức năng, phím nóng để thực hiện tất cả các công việc. Turbo Pascal là một môi trường phát triển điển hình thuộc loại này. Theo dòng phát triển của lịch sử, ngày nay, hầu hết các môi trường phát triển hợp nhất đều có giao diện đồ họa và được tích hợp ngày càng nhiều chức năng.
+Ngày nay, khái niệm "Môi trường phát triển hợp nhất" được phân biệt với khái niệm "công cụ soạn thảo văn bản" (như vi, emacs trên Linux). Khi nói đến "môi trường phát triển hợp nhất", các lập trình viên thường nghĩ ngay đến chương trình mà với đó, hầu hết công việc của họ - như viết, chỉnh sửa mã, biên dịch, triển khai và gỡ lỗi - đều có thể được thực hiện.
+Những lập trình viên chuyên nghiệp thường sử dụng các môi trường phát triển hợp nhất để phát triển ứng dụng. Họ tận dụng chúng để làm tăng tính hiệu quả và giảm thời gian thực hiện công việc của mình. Ngoài ra, người mới học cũng có thể tận dụng những tiện ích của các môi trường phát triển hợp nhất để giảm bớt thời gian học của mình, vì những cấu hình, những dòng lệnh phức tạp (mà nếu không có môi trường phát triển hợp nhất phải thực hiện bằng tay) đều đã được che giấu và tự động hóa, ta chỉ cần bấm nút là mọi việc có thể được thực hiện.
+Trong thời gian gần đây, người ta thấy nổi lên các môi trường phát triển hợp nhất nguồn mở (Open Source IDE), như NetBeans, Eclipse. Các môi trường phát triển loại này ngày càng thông dụng, nhất là trong cộng đồng nguồn mở.
+
+
+== Xem thêm ==
+Danh sách các môi trường phát triển tích hợp
+So sánh giữa các môi trường phát triển tích hợp
+Bộ công cụ phát triển phần mềm (SDK)
+
+
+== Tham khảo ==

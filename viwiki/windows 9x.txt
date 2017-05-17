@@ -1,0 +1,19 @@
+Windows 9x là một thuật ngữ chung chỉ một dòng các hệ điều hành máy tính Microsoft Windows được sản xuất từ năm 1995 đến năm 2000, được dựa trên hạt nhân Windows 95 và nền móng của MS-DOS, cả hai đều được cập nhật trong các phiên bản tiếp theo. Dòng Windows 9x bao gồm tất cả các phiên bản của Windows 95 và Windows 98. Windows ME cũng đôi lúc được xếp vào nhóm này.
+Windows 9x được chủ yếu biết đến do được sử dụng nhiều trên các máy tính để bàn. Năm 1998, Windows chiếm 82% thị phần hệ điều hành.
+Các phiên bản phát hành nội bộ cho các phiên bản Windows 9x là 4.x. Các phiên bản Windows dựa trên MS-DOS trước sử dụng các số hiệu phiên bản từ 3.2 trở xuống. Windows NT, được nhắm tới những người dùng chuyên nghiệp, cũng sử dụng các số tương tự nhưng tách biệt giữa 3.1 và 4.0.
+Phiên bản cuối cùng của Windows 9x là Windows ME, được phát hành vào tháng 9 năm 2000 với số hiệu phiên bản nội bộ là 4.9. Tất cả các phiên bản sau này của Windows, bắt đầu từ Windows 2000 và Windows XP được dựa trên mã nguồn cơ sở của Windows NT.
+
+
+== Xem thêm ==
+So sánh các hệ điều hành
+Cấu trúc Windows 9x
+Windows
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+ Học liệu liên quan tới Windows 9x tại Wikiversity
+ Basic Computing Using Windows/Appendices/Dual Booting trên Wikibooks
+ Operating System Design/Case Studies/Windows 9x trên Wikibooks

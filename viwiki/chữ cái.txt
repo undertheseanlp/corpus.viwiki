@@ -1,0 +1,25 @@
+Một chữ cái là một đơn vị của hệ thống viết theo bảng chữ cái, như bảng chữ cái Hy Lạp và các bảng chữ cái phát sinh từ nó. Mỗi chữ cái trong ngôn ngữ viết thường đại diện cho một âm vị (âm thanh) trong ngôn ngữ nói. Những ký hiệu viết trong các hệ thống viết khác đại diện cho cả âm tiết hoặc như trong chữ tượng hình, đại diện cho một từ.
+
+
+== Một số chữ cái ==
+Bảng chữ cái tiếng Việt (23 chữ cái): A, B, C, D, Đ, E, G, H, I, K, L, M, N, O, P, Q, R, S, T, U, V, X, Y. Nếu kể cả dấu âm thì ta có thêm 06 nguyên âm biến thể là: Ă, Â, Ê, Ô, Ơ, Ư thành 29 và thêm 11 phụ âm ghép: CH,GI,GH,KH,NH,NG,NGH,PH,QU,TH,TR thành ra 40.
+Bảng chữ cái Syria: (đọc từ phải sang trái) ܐ, ܒ, ܓ, ܕ, ܗ, ܘ, ܙ, ܚ, ܛ, ܝ, ܟܟ, ܠ, ܡܡ, ܢܢ, ܣ, ܥ, ܦ, ܨ, ܩ, ܪ, ܫ, ܬ.
+Bảng chữ cái Cyril: А, Б, В, Г, Ґ, Д, Е, Є, Ж, З, И, І, Ї, Й, К, Л, М, Н, О, П, Р, С, Т, У, Ф, Х, Ц, Ч, Ш, Щ, Ю, Я, Ъ, Ь, Ђ, Љ, Њ, Ћ, Џ, Ы.
+Bảng chữ cái Hy Lạp: Α, Β, Γ, Δ, Ε, Ζ, Η, Θ, Ι, Κ, Λ, Μ, Ν, Ξ, Ο, Π, Ρ, Σ, Τ, Υ, Φ, Χ, Ψ, Ω.
+Bảng chữ cái Hebrew: (đọc từ phải sang trái) א, ב, ג, ד, ה, ו, ז, ח, ט, י, כ, ל, מ, נ, ס, ע, פ, צ, ק, ר, ש, ת.
+Bảng chữ cái Latinh: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z.
+
+
+== Đọc thêm ==
+Daniels, Peter T., and William Bright, eds. 1996. The World's Writing Systems. ISBN 0-19-507993-0.
+Powell, Barry B. 1991. Homer and the Origin of the Greek Alphabet. ISBN 978-0-521-58907-9 | ISBN 0-521-58907-X.
+Robinson A. 2003, "The Origins of writing" in David Crowely and Paul Heyer 'Communication in History: Technology, Culture, Society' (fourth edition) Allyn and Bacon Boston pp 34–40
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Bảng chữ cái tiếng Anh
+Unicode Code Charts
+LetterCount.com Count the number of letters in a document

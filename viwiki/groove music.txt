@@ -1,0 +1,54 @@
+Groove Music (trước đây là Xbox Music và Zune Music và cũng có tên là Microsoft Groove) là một dịch vụ streaming nhạc kỹ thuật số được phát triển bởi Microsoft cho phép streaming nhạc thông qua đăng ký hoặc mua hàng thông qua Windows Store. Dịch vụ này được dựa trên web và cũng có sẵn qua các ứng dụng cho dòng sản phẩm Microsoft Windows và Xbox, cũng như Android và iOS. Groove nay đã có hơn 38 triệu bài hát.
+
+
+== Lịch sử ==
+Microsoft trước đó đã đầu tư vào các dịch vụ nhạc với nhãn hiệu Zune. Zune Music Marketplace đã bao gồm 11 triệu bài hát. Dòng các máy nghe nhạc Zune và cửa hàng Zune đã không được thành công, và nhãn hiệu này đã bị ngừng vào đầu những năm 2010, mặc dù nó vẫn tiếp tục có mặt trên nhiều thiết bị và Zune Music Pass vẫn cho phép truy cập không giới hạn các bài hát với giá 9.99 USD mỗi tháng.
+Trong lúc đó, Microsoft đang nhấn mạnh tới sức mạnh của nhãn hiệu Xbox của họ vì tính hấp dẫn của nó đối với người tiêu dùng. Công ty đã mở rộng các dịch vụ đa phương tiện qua Xbox Live để đi kèm thêm các dịch vụ như một cửa hàng video và chợ trò chơi trực tuyến. Họ đã quyết định sẽ giới thiệu một dịch vụ nhạc mới để xây dựng dựa trên những tính năng sẵn có trên.
+Microsoft giới thiệu dịch vụ mới của mình trong cuộc họp báo của họ tại Electronic Entertainment Expo 2012 vào ngày 4 tháng 6. Xbox Music được bắt đầu cùng với dịch vụ Xbox Video vào ngày 16 tháng 10 năm 2012.
+Vào ngày 6 tháng 7 năm 2015, Microsoft công bố việc thay đổi nhãn hiệu từ Xbox Music thành Groove để gắn với việc phát hành Windows 10 sắp được diễn ra. Nhãn hiệu mới sử dụng thương hiệu "Groove" mà Microsoft trước đó đã sử dụng cho một sản phẩm khác không có liên quan Microsoft Office Groove (bây giờ là OneDrive for Business). Joe Belfiore giải thích việc đổi nhãn hiệu nhằm tách dịch vụ này ra khỏi dòng sản phẩm Xbox, khiến nó bao gồm cả các nền tảng không phải Xbox khác.
+Vào ngày 17 tháng 9 năm 2015, theo một bản cập nhật hệ thống cho Xbox 360, tên của ứng dụng đã thay đổi theo nhãn hiệu mới. Ứng dụng cho Xbox One trước đó cũng được thay đổi trong một bản cập nhật.
+
+
+== Tính năng ==
+Groove Music Pass là một dịch vụ đăng ký cho phép streaming không giới hạn các nội dung có trong dịch vụ. Trước đó còn có một dịch vụ streming được hỗ trợ bởi quảng cáo nhưng đã bị ngừng từ ngày 1 tháng 12 năm 2014. Nhạc cũng có thể được mua trực tiếp từ Windows Store.
+Các bài hát mà người dùng đã mua, và các danh sách phát bao gồm những bài hát có sẵn trên dịch vụ có thể được đồng bộ qua OneDrive và được truy cập nhừ nhiều thiết bị. Các bài hát trong thư viện cục bộ của người dùng trên một PC Windows 8.1 có thể được khớp lại và có sẵn cho các thiết bị khác nếu nó có sẵn trên Groove Music Pass. Việc tải lên nhạc không phải của Groove cũng sẽ có sẵn trên Windows 10.
+Các "trạm radio" tùy chỉnh có thể được tạo ra sử dụng các bài hát liên quan tới các bài hát mà người dùng đã chọn. Các bài hát có thể được tải về để nghe ngoại tuyến trên điện thoại thông minh.
+Bản cập nhật Anniversary Update của Windows 10 cho phép người dùng ẩn những tính năng yêu cầu Groove Music Pass khỏi giao diện.
+
+
+=== Groove Music Pass ===
+Groove Music Pass (trước đây là Xbox Music Pass và Zune Music Pass) là một dịch vụ đăng ký trả tiền cho phép người dùng nghe các bài nhạc đã đăng ký của họ trên bất cứ thiết bị nào đã cài đặt dịch vụ. Dịch vụ này tại Hoa Kỳ cho phép đăng ký hàng tháng hoặc thường niên. Người dùng có thể dùng thử dịch vụ trong một tháng, nhưng những người dùng trước đó đã dùng thử dịch vụ Zune Music Pass trước khi đổi tên sẽ không được tham gia chương trình dùng thử này.
+
+
+=== Lưu trữ đám mây ===
+Groove Music cho phép người dùng tạo các bộ sưu tập các bài hát và danh sách phát được lưu trữ trên đám mây và có thể được truy cập trên tất cả các thiết bị được hỗ trợ. Các bài hát có thể được thêm vào từ Groove Music Store hoặc được khớp lại (các bài hát trong Groove Music Catalog) với các bài hát được lưu cục bộ trong máy của người dùng hoặc được tải lên tài khoản Microsoft OneDrive của người dùng.
+
+
+=== Các API cho nhà phát triển ===
+API Groove Music cho phép nhà phát triển truy cập vào các dịch vụ web RESTful để tận dụng kho nội dung và các tính năng của dịch vụ trong ứng dụng hoặc trang web của họ.
+
+
+== Các nền tảng hỗ trợ ==
+Ứng dụng Groove có sẵn cho Windows 8, Windows 8.1, Windows 10, Windows Phone, Xbox 360, Xbox One, Android và iOS. Dịch vụ này cũng có một phiên bản nền web.
+
+
+== Có sẵn tại các quốc gia ==
+Các quốc gia được sử dụng dịch vụ Groove bao gồm:
+
+
+== Xem thêm ==
+
+Microsoft Movies & TV
+Bing Audio
+MixRadio
+TuneCore
+Windows Media Player
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Website chính thức
+Groove Music web player
+Bản mẫu:Nền tảng phân phối nhạc kỹ thuật số

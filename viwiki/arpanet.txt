@@ -1,0 +1,166 @@
+Mạng lưới Advanced Research Projects Agency Network - viết tắt là ARPANET (dịch là Mạng lưới cơ quan với các đề án nghiên cứu tân tiến.) do ARPA (Defense Advanced Research Projects Agency - dịch là Cơ quan với các đề án nghiên cứu tân tiến của Bộ Quốc phòng) Mỹ xây dựng. Bộ Quốc phòng Hoa Kỳ là cơ quan có mạng lưới dùng công nghệ chuyển mạch gói đầu tiên hoạt động, và là cha đẻ của mạng lưới Internet toàn cầu hiện nay.
+Thời kỳ đó công nghệ chuyển mạch gói (Packet switching), bây giờ là nền tảng cơ bản cho cả truyền thông dữ liệu và âm thanh trên toàn thế giới, là một quan niệm mới, quan trọng trong công nghệ truyền thông dữ liệu. Trước đó, công nghệ truyền thông dữ liệu dựa trên công nghệ chuyển mạch kênh (circuit switching), tương tự như trong hệ thống điện thoại cũ, một mạch chuyên dụng được sử dụng trong toàn bộ thời gian của cuộc gọi, và chỉ có thể truyền thông được với một người duy nhất ở bên kia đầu dây.
+Với công nghệ chuyển mạch gói, một hệ thống truyền thông có thể kết nối với nhiều máy, trên cùng một đường dây, bằng cách nhóm dữ liệu lại thành các gói. Không những đường dây kết nối có thể được dùng chung (như một lá thư có thể cùng một lúc được gửi đến nhiều nơi), song mỗi một gói dữ liệu còn có thể được định tuyến biệt lập với những gói dữ liệu khác. Đây chính là ưu điểm lớn nhất.
+
+
+== Lịch sử của ARPANET ==
+Ý tưởng đầu tiên về một mạng lưới máy tính cho phép truyền thông giữa nhiều người dùng được J.C.R. Licklider, hồi đó làm việc tại công ty Bolt, Beranek and Newman (BBN), phát biểu trong một loạt những bản ghi nhớ, bàn luận về quan niệm một "Mạng lưới ngân hà". Ý tưởng này bao gồm hầu hết tất cả những gì là Internet hiện nay.
+Vào tháng 10 năm 1962, Licklider được đề bạt là chủ nhiệm chương trình "Khoa học hành vi, mệnh lệnh và điều khiển" tại ARPA của bộ quốc phòng Mỹ (tên gọi lúc đó). Ông thuyết phục Ivan Sutherland và Bob Taylor rằng đây là một ý tưởng quan trọng, mặc dù ông đã rời ARPA trước khi những công việc thi hành ảo mộng của ông được thực hiện.
+ARPA và Taylor tiếp tục quan tâm đến việc kiến tạo một mạng lưới truyền thông vi tính, một phần vì muốn cho phép những nhà nghiên cứu mà ARPA tài trợ, trên nhiều địa điểm khác nhau, tiếp tục được dùng các máy tính mà ARPA cung cấp, phần khác nhanh chóng sản xuất các phần mềm, cùng những kết quả nghiên cứu, được công bố và sử dụng rộng rãi. Taylor có ba thiết bị cuối (terminals) trong văn phòng của mình, kết nối với ba máy vi tính khác nhau do DARPA tài trợ: một cái dành cho SDC (System Development Corporation| - tạm dịch là Công ty xây dựng hệ thống) Q-32 tại Santa Monica, một cái dành cho Project Genie (tạm dịch là "Đề án thần đồng") tại Trường đại học California (University of California, Berkeley) và một cái dành cho Multics tại MIT (Massachusetts Institute of Technology - tạm dịch là "Học viện khoa học và kỹ thuật Massachusetts"). Taylor sau này nhớ lại:
+"Với mỗi một thiết bị đầu cuối, tôi có một bộ lệnh người dùng riêng. Nếu tôi đang nói chuyện với một người ở S.D.C trên mạng, mà tôi muốn nói chuyện với một người mà tôi biết ở M.I.T về cuộc hội thoại tôi đang có, tôi phải đứng dậy, rời khỏi thiết bị cuối với người ở S.D.C, sang bên thiết bị đầu cuối kia, nối máy để liên lạc với họ.
+Tôi nói, "thật là phiền hà!", hiển nhiên là chúng ta biết nên phải làm gì. Trong khi anh có ba thiết bị cuối, đáng ra, anh chỉ cần có một thiết bị cuối, mắc nối với bất cứ nơi nào mà anh muốn, nơi anh có thể tương tác dùng máy tính, mà thôi. Ý tưởng đấy chính là mạng ARPAnet." [1].
+Hầu như trong cùng một thời điểm, một số người đã (tự bản thân) tìm ra những khía cạnh khác nhau của cái mà về sau này được gọi là "chuyển mạch gói"; Những người làm nên ARPANET sau này, đã tổng hợp ý kiến từ những nguồn sáng tạo khác nhau trên đây, mà thiết kế nên mạng lưới của mình.
+
+
+== Nguồn gốc của ARPANET ==
+Cuối năm 1966, Taylor mời Larry Roberts từ MIT, đang làm việc tại Phòng thí nghiệm Lincoln (Lincoln Laboratory), đến ARMA làm chủ nhiệm đề án kiến tạo một mạng lưới truyền thông. Roberts đã từng trải và có ít nhiều kinh nghiệm trong vấn đề này: hai năm trước đó, đầu năm 1965, trong khi đang làm việc tại MIT ở Phòng thí nghiệm Linh-côn, ông đã kết nối TX-2 với Q-32 của Công ty xây dựng hệ thống (System Development Corporation), dùng đường dây điện thoại, chỉ đạo một số những thí nghiệm đầu tiên về việc kết nối truyền thông hai máy vi tính theo phương pháp trên. Ý tưởng đầu tiên của Roberts về mạng lưới của ARPA là kết nối các máy tính phân hưởng thời gian (time-sharing) trực tiếp vào với nhau, dùng đường dây điện thoại.
+Tại một cuộc họp ở Trường đại học Michigan (University of Michigan), thuộc Ann Arbor, Michigan, vào đầu năm 1967, nhiều người tham dự đã biểu lộ thái độ lạnh nhạt với ý kiến muốn họ gánh vác trách nhiệm quản lý đường dây kết nối trực tiếp vào máy vi tính của họ. Một trong những người tham dự, Wesley Clark nảy ra sáng kiến dùng một số máy vi tính nhỏ biệt lập, quản lý các mạch truyền thông; những máy vi tính nhỏ này sẽ được gắn vào một máy vi tính phân hưởng thời gian lớn mainframe, là những máy chủ yếu được gắn vào mạng ARPANET. Khái niệm này cho phép đại bộ phận những công việc tỉ mỉ điều hành mạng lưới được loại bỏ khỏi các máy mainframe; việc này đồng thời còn có nghĩa là những thất thường trong thực thi của mỗi cá nhân máy chủ, không gây ảnh hưởng đến hoạt động đúng đắn trên tổng thể của mạng lưới, và DARPA hoàn toàn làm chủ mạng lưới của chính mình.
+Kế hoạch ban đầu của ARPANET bắt nguồn từ nền tảng căn bản trên, với một số nhóm nghiên cứu (working group) làm việc trên một khía cạnh kỹ thuật cụ thể, và họ thường nhóm họp trong thời gian cuối mùa xuân và mùa hè năm 1967.
+Roberts lúc đó tiến hành viết bản "Kế hoạch dành cho ARPANET" ("a plan for the ARPANET") và đệ trình nó tại hội nghị chuyên đề ở Gatlinburg, Tennessee hồi tháng 10 năm 1967. Đồng thời Roger Scantlebury, làm việc với nhóm Donald Davies tại NPL, cũng đệ trình trong hội nghị lúc đó. (Roberts trước đó đã từng chạm trán với Davies trong một hội nghị ở Anh Quốc, về phân hưởng thời gian (time-sharing), hồi tháng 11 năm 1965.) Ông (Roger) bàn luật về ý tưởng chuyển mạch gói của Davies với Roberts, và giới thiệu với Roberts các tìm tòi của Paul Baran.
+Ảnh hưởng của tất cả những sự kiện trên vẫn chưa được tỏ tường, và có một vài điểm đáng tranh cãi; các bản ghi nhớ của những người tham gia trong tiến trình để lại những thông tin đối lập, lắm lúc chúng còn đối lập với chính những thông tin họ viết trước đó. Ý kiến chung của các nhà lịch sử cho rằng cả bốn người (Baran, Kleinrock, Davies và Roberts) đều có những đóng góp một cách đáng kể:
+Davies là công cụ truyền đạt hiểu biết về chuyển mạch gói, mà ông và Baran đã sáng tạo, cho Lawrence Roberts 1
+Ý tưởng về mạng lưới truyền thông của Roberts đã bị thay đổi trong cuộc bàn luận với Scantlebury... Theo sự diễn tả của ông sau này, sau cuộc họp ở Gatlinburg và trở về Hoa-Thịnh-Đốn, bản báo cáo của Baran đã gây ảnh hưởng đến [Roberts]2
+Kleinrock là người, mà người ta cho rằng, gây ảnh hưởng tới những suy nghĩ trước đây của Roberts, về mạng lưới truyền thông vi tính.... Sự am hiểu về truyền thông dữ liệu của Baran đã làm cho [Roberts] phải suy nghĩ.... Văn bản mà Scantlebury đệ trình tại Gatlinburg, thay mặt cho cống hiến của Anh Quốc, quả nhiên cũng có gây ảnh hưởng ít nhiều. 3
+
+
+== Sự nảy sinh của ARPANET ==
+Vào mùa hè năm 1968, một kế hoạch kỹ lưỡng đã hoàn thành, và sau khi được ARPA chấp thuận, một bản Phác thảo về đề xuất nhận thầu (Request For Quotation - viết tắt là RFQ) đã được gửi đến 140 nhà thầu khoán, là những người có khả năng tham gia đấu giá. Đa số các nhà thầu khoán cho rằng bản đề xuất thầu khoán này là một bản kỳ dị, ngoài sức tưởng tượng. Chỉ có 12 công ty gửi giá đấu lên, trong đó, 4 giá đấu được coi là khả quan. Đến cuối năm, số chủ thầu khoán được thanh lọc xuống chỉ còn hai, và sau nhiều cuộc đàm phán, cuối cùng vào ngày mùng 7 tháng 4 năm 1969, người ta đã chọn BBN là người đứng chủ thầu.
+Đề xuất của BBN theo rất sát dự án của Roberts. Bản đề xuất kiến nghị một mạng lưới các máy vi tính nhỏ, được gọi là Bộ xử lý thông điệp giao diện (Interface Message Processor) (thường được gọi là IMP). Các máy IMP, tại mỗi cơ sở, thực hiện chức năng "lưu trữ và tiếp tới" chuyển mạch gói. Chúng được liên kết với nhau bằng các bộ điều giải modem. Các bộ điều giải này được nối vào các đường dây thuê bao (với tốc độ ban đầu là 50 kbit/giây). Các máy chủ (host computers) được nối với các máy IMP thông qua một giao diện nối chuỗi bit (bit-serial interfaces) tùy biến, để kết nối với HEO.
+Lúc đầu BBN chọn một phiên bản vững chắc máy vi tính DDP-516, của Honeywell, để tạo nên thế hệ máy IMP đầu tiên. Máy 516 nguyên chỉ được cài đặt với 24 Kilo byte dung lượng đơn vị bộ nhớ (nhưng có khả năng khuếch trương, tăng dung lượng bộ nhớ lên cao hơn), và 16 kênh đơn vị truy cập trực tiếp bộ nhớ điều khiển nén kênh trực tiếp (Direct Multiplex Control - viết tắt là DMC). Họ dùng các giao diện tùy biến để kết nối chúng với mỗi máy chủ và bộ điều giải (modem) dùng DMC. Ngoài những đèn hiệu đã có sẵn trên bảng đằng trước máy 516, người ta còn gắn thêm 24 đèn hiệu, trình báo hiện trạng của các kênh truyền thông trong máy IMP. Mỗi máy IMP có thể hỗ trợ được bốn máy chủ (hosts) và đồng thời có thể truyền thông với tới sáu máy IMP khác ở xa, thông qua các đường dây thuê bao.
+Một đội (đầu tiên chỉ có bảy người) tại BBN, với sự giúp đỡ rất nhiều của những chi tiết trong cố gắng đưa ra giải pháp đối với đề xuất khoán thầu RFQ mà họ đã làm, đã nhanh chóng kiến tạo được những bộ máy làm việc đầu tiên. Toàn bộ hệ thống, bao gồm cả phần cứng và một phân mềm đầu tiên trên thế giới về chuyển mạch gói, đã được thiết kế và lắp ráp trong vòng chín tháng.
+
+
+== Sự triển khai đầu tiên của ARPANET ==
+Mạng ARPANET đầu tiên chỉ có bốn máy IMP. Những máy này được sắp đặt tại:
+Trường đại học California (UCLA), nơi Leonard Kleinrock thành lập một Trung tâm đo lường mạng lưới truyền thông (Network Measurement Center) (với máy SDS Sigma 7 là máy tính đầu tiên được gắn vào tại đó).
+Trung tâm nghiên cứu phát triển (Augmentation Research Center) tại Học viện nghiên cứu Stanford (Stanford Research Institute - viết tắt là SRI) nơi Douglas Engelbart hệ thống NLS nổi tiếng, một phiên bản quan trọng của hệ thống siêu văn bản (hypertext) trước đây (với máy tính SDS 940 điều hành NLS, được đặt tên là "Genie", là máy chủ đầu tiên được gắn vào).
+Trường đại học California (University of California) tại Santa Barbara, với máy IBM 360/75 của Trung tâm toán học tương tác (Culler-Fried Interactive Mathematics Centre) gắn vào.
+Chi nhánh đồ thị (Graphics Department) của Trường đại học Utah (University of Utah), nơi Ivan Sutherland đã chuyển đi (vì máy PDP-10, dùng hệ điều hành TENEX, của công ty DEC (Digital Equipment Corporation|)).
+Kết nối đầu tiên với ARPANET được thực hiện vào ngày 29 tháng 10 năm 1969, giữa IMP tại UCLA và IMP tại SRI. Toàn bộ 4 nút của mạng lưới đã được kết nối vào ngày 5 tháng 12 năm 1969 [2].
+
+
+== Sự phát triển giao thức và phần mềm ==
+Giao thức 1822 là giao thức dùng kết nối các máy chủ với nhau trong mạng ARPANET, cho phép chúng truyền thông qua lại, giữa máy nọ và máy kia. Đây là giao thức các máy chủ dùng, để gửi thông điệp sang các IMP của mạng ARPANET. Giao thức này được thiết kế hầu cho sự giao thông giữa các máy trở nên mạch lạc, không có sự nhập nhằng, và đồng thời ủng hộ nhiều cấu trúc máy khác nhau. Trên cơ bản mà nói, một thông điệp của giao thức 1822 sẽ bao gồm một định vị về thể loại của thông điệp đang gửi, một con số địa chỉ của máy chủ, và một trường dữ liệu. Để gửi một thông điệp sang một máy chủ khác, máy gửi thông điệp phải khuôn thức một thông điệp dữ liệu, ghép địa chỉ của máy chủ và dữ liệu mà nó cần gửi vào thông điệp, sau đó, truyền thông điệp qua giao diện phần cứng của giao thức 1822. Máy IMP quản lý việc đảm bảo một thông điệp được gửi tới đích, bằng cách truyền thông điệp sang một máy chủ, kết nối với mình tại cơ sở, hoặc truyền sang một máy IMP khác. Khi thông điệp đã được phân phát đến đích, máy IMP gửi một thông điệp chứng nhận (còn được gọi là sẵn sàng nhận thông điệp mới - tiếng Anh là "Ready for Next Message", viết tắt là RFNM).
+Khác với gram dữ liệu (datagrams) trong Internet hiện đại, ARPANET được thiết kế để truyền thông điệp 1822 một cách đáng tin cậy, và trong trường hợp xấu nhất, nó có thể báo cho một máy chủ biết, nếu một thông điệp đã bị thất lạc. Tuy vậy, giao thức 1822 đã không chứng minh được tính thích hợp của nó, đối với việc cân nhắc và xử lý nhiều tổ hợp kết nối, giữa nhiều chương trình ứng dụng khác nhau, trên cùng một máy chủ. Vấn đề này đã được giải quyết trong giao thức Chương trình ứng dụng xử lý mạng lưới truyền thông (Network Control Program - viết tắt là NCP). NCP cung cấp phương tiện tiêu chuẩn để thiết lập một kết nối truyền thông đảm bảo, có khả năng khống chế điều khiển luồng dữ liệu, truyền thông dữ liệu hai chiều, giữa các quy trình xử lý khác nhau, trên những máy chủ khác nhau. Giao thức NCP cho phép chương trình ứng dụng phần mềm kết nối liên thông với nhau trên mạng ARPANET, thực thi những giao thức truyền thông ở tầng cấp cao hơn. Đây chính là một ví dụ điển hình của "giao thức tầng cấp" mà sau này được áp dụng vào mô hình OSI.
+Vào năm 1983, giao thức TCP/IP thay thế NCP, trở thành giao thức chủ yếu của mạng ARPANET, và ARPANET trở nên một phần của Internet mới ra đời.
+
+
+=== Các chương trình ứng dụng ===
+Năm 1971, Ray Tomlinson, lúc đó đang làm việc tại BBN, đã gửi một bức thư điện tử (email) đầu tiên [3]. Đến năm 1973, bản quy định giao thức truyền tập tin đã được hoàn thành và thực thi, cho phép việc truyền tập tin qua ARPANET xảy ra. Tại thời điểm này, 75% lượng giao thông trên mạng ARPANET là giao thông của thư điện tử.
+Quy định về giao thức truyền âm thanh trên mạng (Network Voice Protocol) cũng đã được hoàn thành (RFC 741), và sau đó đã được thực thi, song những cuộc gọi hội thảo (conference calls) trên mạng ARPANET không cho kết quả mĩ mãn, vì những lý do về kỹ thuật. Phải mất mấy chục năm sau việc truyền âm thanh dùng giao thức IP (Voice over Internet Protocol - viết tắt là VoIP) mới thực hiện được.
+Một ứng dụng điển hình của mạng truyền thông này đối với quân sự, trong cuộc "Chiến tranh lạnh", là khả năng cho phép các chi nhánh của chính phủ, tiếp tục giữ liên lạc và kết nối với nhau, trong hoàn cảnh bị tấn công bằng hạt nhân nguyên tử từ phía Liên bang Xô Viết, là lúc toàn bộ mạng lưới truyền thông trực tiếp bị phá hủy hoàn toàn. Đây là một thế lợi lớn trong trường hợp tại họa về hạt nhân nguyên tử xảy ra, đặc biệt là khả năng cho phép lực lượng quân đội tiếp tục phối hợp để tấn công hoặc tự vệ.
+
+
+== Sự phát triển của mạng lưới ==
+Tháng 3 năm 1970, ARPANET đã lan đến bờ biển phía Đông Hoa Kỳ, và một máy IMP của chính công ty BBN cũng được lắp nối vào mạng lưới này. Từ đó trở đi, mạng lưới lan rộng nhanh chóng: tại thời điểm tháng 6 năm 1970, mạng lưới đã có đến 9 IMP, rồi nhân lên thành 13 máy vào tháng 12 năm 18 máy vào tháng 9 năm 1971 (lúc này đã có đến 23 máy chủ được kết nối vào mạng lưới ARPANET. Các máy này được đặt tại các trường đại học và trung tâm nghiên cứu của chính phủ), 29 máy IMP vào hồi tháng 8 năm 1972, và 40 máy vào tháng 9 năm 1973.
+Lúc đó, hai liên kết nối với vệ tinh nhân tạo đã được cộng thêm vào mạng lưới, một cái ngang qua biển Thái Bình dương đến Hawaii, và một cái ngang qua Đại Tây dương đến Na Uy (Norwegian Seismic Array). Từ Na Uy, một mạng lưới trên mặt đất đã cho phép một máy IMP ở Luân Đôn được gắn vào mạng lưới đang trên đà phát triển.
+Đến tháng 6 năm 1974, mạng lưới đã có 46 máy IMP tất cả, và tăng lên 57 IMP vào tháng 7 năm 1975. Vào năm 1981, số lượng các máy chủ trong mạng lưới đã tăng lên đến 213, cứ sau khoảng chừng 20 ngày là có một máy mới được thêm vào mạng lưới.
+Sau khi ARPANET đã khởi công và hoạt động được vài năm, ARPA lùng tìm một cơ quan hòng giao phó việc điều hành mạng lưới cho họ. Nhiệm vụ chính của ARPA là cung cấp hỗ trợ tài chính cho những nghiên cứu tân tiến nhất, và phát triển mở mang, chứ không phải là điều hành một phương tiện truyền thông. Cuối cùng, vào tháng 7 năm 1975, mạng lưới đã được trao cho Cơ quan truyền thông quân đội (Defense Communications Agency), một bộ phận của Bộ Quốc phòng Mỹ.
+Vào năm 1984, bộ phận mạng lưới ARPANet của quân đội Mỹ đã được phân tách ra thành một mạng lưới riêng, gọi là MILNET.
+
+
+== Những phát triển của phần cứng sau này ==
+Năm 1970, các mạch điện nối các máy IMP đã được cải tiến, nâng tốc độ truyền thông cao nhất lên đến 230.4 kbit/giây, song do những cân nhắc giữa giá thành và sức điều hành của các máy IMP, những khả năng mới này hầu như chẳng bao giờ được dùng đến.
+Năm 1971 được chứng kiến việc sử dụng những máy H-316, kém sức chịu đựng hơn và do vậy nhẹ hơn rất nhiều, làm các máy IMP. Những máy này còn có thể được cài đặt như một thiết bị đầu cuối IMP (Terminal IMP, viết tắt là TIP), và mỗi máy có thể hỗ trợ nhiều nhất là 63 thiết bị cuối nối tiếp dùng hệ mã ASCII (ASCII serial terminals), thông qua bộ điều khiển đa tuyến (multi-line controller), thay thế cho một máy chủ. Máy 316 có khả năng hoà hợp cao hơn so với máy 516, và vì vậy việc duy trì sự hoạt động của máy đỡ tốn kém hơn, dễ dàng hơn. Vào thời điểm năm 1973, các máy 316 được dùng làm TIP, mỗi máy được cài đặt 40 Kbyte dung lượng bộ nhớ. Dung lượng này có thể được tăng lên đến 32KByte, nếu máy là một IMP, và 56KByte nếu máy là một TIP.
+Trong năm 1975, những máy IMP làm bằng Honeywell (DDP-516) cuối cùng được thay thế bằng những máy Pluribus đa xử lý (multi-processor) của BBN. Những máy ấy cuối cùng cũng bị thay thế bới các máy C/30, là những máy được ưa chuộng hơn, do BBN kiến tạo.
+Sau sự xuất hiện của NSFNet, những máy IMP và TIP dần dần bị rút lui trong khi ARPANET bắt đầu ngưng hoạt động. Đến cuối năm 1989, một số những máy IMP trước đây, vẫn còn được giữ lại và phục vụ.
+
+
+== Mạng lưới ARPANET và những tấn công hạt nhân nguyên tử ==
+Có một lời đồn, nửa hư nửa thực, được lan truyền về mạng lưới ARPANET, rằng mạng lưới này được thiết kế để phòng chống các cuộc tấn công hạt nhân nguyên tử. Hiệp hội Internet đã có một bài viết về sự hội nhập các sáng kiến trong kỹ thuật, để tạo nên mạng lưới ARPANET, nhan đề: Lược tả lịch sử của Internet (A Brief History of the Internet), trong đó có câu:
+Thông qua một nghiên cứu của Research AND Development (RAND), một lời đồn giả dối đã được truyền tụng, rằng ARPANET, ở một mức độ nào đấy, được xây dựng như một mạng lưới có sức chịu đựng cuộc chiến tranh vũ khí hạt nhân. Đối với ARPANET, đây là một lời truyền tụng hoàn toàn sai sự thật. Tuy trong nội dung những bản thiết kế sau này về Internet, những người thiết kế có nhấn mạnh đến tính bền bỉ, khả năng sống còn, bao gồm cả khả năng chịu đựng được những mất mát lớn trong cấu trúc của mạng lưới, nhưng chỉ có bản nghiên cứu của RAND về kỹ thuật truyền âm bảo an (secure voice) - hoàn toàn không có liên quan đến ARPANET - là cân nhắc đến chiến tranh hạt nhân mà thôi.
+Huyền thoại về việc ARPANET được xây dựng, để có thể chịu đựng nổi những cuộc tấn công hạt nhân nguyên tử, vẫn còn ghi một dấu ấn mạnh mẽ, và hình như còn là một ý tưởng lôi cuốn - đương nhiên còn là một câu chuyện "hấp dẫn" nữa - đến độ mọi người từ chối việc tin nó là một câu chuyện hoang đường. Dù có thế nào đi chăng nữa, lời đồn ấy là một lời đồn không có sự thật, trừ phi ai đó cho rằng bản nghiên cứu của RAND có những ý kiến ảnh hưởng trực tiếp đến việc xây dựng ARPANET. ARPANET được thiết kế nhằm mục đích chống đỡ những tổn thất trong mạng lưới truyền thông, song nguyên nhân chính lại thực ra là, các nút chuyển mạch và những đường dây liên kết mạng, không được đảm bảo cho lắm, ngay cả khi không có những cuộc tấn công hạt nhân nguyên tử.
+Ông Charles Herzfeld, giám đốc của ARPA từ năm 1965 đến năm 1967, đã từng nói đến sự hữu hạn của các tài nguyên trong máy vi tính, và từ đó nảy sinh ra việc kiến tạo ARPANET.
+Sự khởi công xây dựng mạng lưới ARPANET không phải là để xây dựng một hệ thống khống chế và mệnh lệnh có thể chịu đựng được những tấn công hạt nhân nguyên tử, như nhiều người lầm tưởng. Đương nhiên một hệ thống như vậy là một quan tâm lớn của quân đội, song nhiệm vụ của ARPA không phải là xây dựng một hệ thống như vậy. Thực tế cho thấy rằng chúng tôi sẽ bị khiển trách nghiêm trọng, nếu chúng tôi làm như vậy. ARPAnet được xây dựng trên nên tảng của sự trăn trở về số lượng hữu hạn những máy tính có năng lực cao trong nước, dùng trong việc nghiên cứu. Nhiều quan sát nghiên cứu viên đáng được phép truy cập vào những máy như vậy lại không thể làm được, vì sự ngăn cách về địa lý.
+
+
+== Chuyện vặt ==
+Vào ngày 26 tháng 3 năm 1976 Nữ hoàng Elizabeth đệ nhị của Anh quốc gửi lá thư Hoàng gia đầu tiên từ Tổ chức ra-da và hiệu lệnh của Hoàng gia (Royal Signals and Radar Establishment).
+
+
+== Hồi tưởng ==
+Sự hộ trợ và phong cách quản lý của ARPA là chủ chốt trong sự thành công của ARPANET. Bản "Báo cáo hoàn thành công trình ARPANET", được công bố dưới sự liên kết của BBN and ARPA, có viết như sau trong phần kết luận:
+.. lời thích hợp để kết thúc bản báo cáo này là "chương trình ARPANET cho chúng ta những kinh nghiệm quý giá, cống hiến trực tiếp vào sự hỗ trợ và vững mạnh của khoa học điện toán, để từ đó mạng lưới truyền thông này có thể đâm chồi nảy lộc". 4
+
+
+== Tham chiếu trong phim ảnh và báo chí ==
+Trong trò chơi điện tử Metal Gear Solid 3: Snake Eater, một nhân vật với cái tên là Sigint tham dự vào việc xây dựng mạng lưới ARPANET sau những sự việc được diễn tả trong trò chơi.
+Trong tiểu thuyết Doctor Who Past Doctor Adventures - Blue Box - sáng tác năm 2003 nhưng cốt truyện đặt trong thời điểm năm 1981, có một nhân vật tiên đoán rằng, đến năm 2000 sẽ có bốn trăm máy được gắn vào mạng ARPANET.
+
+
+== Xem thêm ==
+Lịch sử của Internet (History of the Internet)
+Mạng lưới máy tính: Sứ giả của sự chia sẻ tài nguyên (Computer Networks: The Heralds of Resource Sharing) - 1972 Tài liệu.
+
+
+== Ghi chú ==
+Chú giải 1:  Abbate, Inventing the Internet (Sáng tạo Internet), trang 8
+Chú giải 2:  Norberg, O'Neill, Transforming Computer Technology (Biến đổi kỹ thuật điện toán), trang 166
+Chú giải 3:  Hafner, Where Wizards Stay Up Late, (Nơi các thiên tài thức khuya) trang 69, 77
+Chú giải 4:  A History of the ARPANET (Lịch sử của ARPANET), Chương III, trang 132, Phần 2.3.4
+
+
+== Đọc thêm ==
+Arthur Norberg, Judy E. O'Neill, Transforming Computer Technology: Information Processing for the Pentagon, 1962-1982 (Johns Hopkins University, 1996) pp. 153–196
+Biến đổi kỹ thuật điện toán: Xử lý tin học trong Lầu Năm Góc, 1962-1982 (Trường đại học Johns Hopkins, 1996) trang 153-196.
+Tác giả: Arthur Norberg và Judy E. O'Neill
+A History of the ARPANET: The First Decade (Bolt, Beranek and Newman, 1981)
+Lịch sử của mạng ARPANET: Thập kỷ niên đầu tiên (Công ty BBN, 1981)
+Katie Hafner, Where Wizards Stay Up Late: The Origins of the Internet (Simon and Schuster, 1996)
+Nơi các thiên tài thức khuya: nguồn gốc của Internet (Nhà xuất bản 'Simon and Schuster', 1996)
+Tác giả: Katie Hafner
+Janet Abbate, Inventing the Internet (MIT Press, Cambridge, 1999) pp. 36–111
+Sáng tạo Internet (Báo của trường đại học MIT tại thành phố Cambridge, 1999) trang 36-111.
+Tác giả: Janet Abbate
+Peter H. Salus, Casting the Net: from ARPANET to Internet and Beyond (Addison-Wesley, 1995)
+Quăng lưới: từ ARPANET đến Internet và hơn thế nữa (Nhà xuất bản Addison-Wesley, 1995)
+Tác giả: Peter H. Salus
+M. Mitchell Waldrop, The Dream Machine: J. C. R. Licklider and the Revolution That Made Computing Personal (Viking, New York, 2001)
+Cái máy của mơ tưởng: J. C. R. Licklider và cuộc cách mạng làm ra máy tính cá nhân (Nhà xuất bản Viking, thành phố Nữu Ước, 2001).
+Tác giả: M. Mitchell Waldrop
+
+
+=== Nhưng công trình tham chiếu kỹ thuật chi tiết ===
+Larry Roberts and Tom Merrill, Toward a Cooperative Network of Time-Shared Computers (Fall AFIPS Conference, October 1966)
+Tiến đến một mạng lưới cộng tác các máy tính phân thì (Hội nghị Fall AFIPS, tháng 10 năm 1966).
+Tác giả: Larry Roberts và Tom Merrill
+Larry Roberts, Multiple computer networks and intercomputer communication (ACM Symposium on Operating System Principles. October 1967)
+Tổ hợp của nhiều mạng lưới vi tính và sự truyền thông liên kết giữa các máy vi tính (Hội nghị chuyên đề về Nguyên tắc hệ điều hành của ACM, tháng 10 năm 1967).
+Tác giả: Larry Roberts
+D. W. Davies, K. A. Bartlett, R. A. Scantlebury, and P. T. Wilkinson. A digital communications network for computers giving rapid response at remote terminals (ACM Symposium on Operating Systems Principles. October 1967)
+Mạng lưới truyền thông dùng kỹ thuật số cho những máy tính có độ phản ứng nhanh biểu hiện tại các thiết bị cuối (Hội nghị chuyên đề về Nguyên tắc hệ điều hành của ACM, tháng 10 năm 1967).
+Tác giả: D. W. Davies, K. A. Bartlett, R. A. Scantlebury, và P. T. Wilkinson.
+Frank Heart, Robert Kahn, Severo Ornstein, William Crowther, David Walden, The Interface Message Processor for the ARPA Computer Network (1970 Spring Joint Computer Conference, AFIPS Proc. Vol. 36, pp. 551–567, 1970)
+Bộ điều hành thông điệp giao diện cho mạng lưới vi tính của ARPA (Hội nghị của Spring Joint Computer, biên bản lưu của AFIPS, tập 36, trang 551-567, năm 1970).
+Tác giả: Frank Heart, Robert Kahn, Severo Ornstein, William Crowther và David Walden
+Stephen Carr, Stephen Crocker, Vinton Cerf. Host-Host Communication Protocol in the ARPA Network (1970 Spring Joint Computer Conference, AFIPS Proc. Vol 36, pp. 589–598, 1970)
+Giao thức truyền thông từ máy chủ đến máy chủ trong mạng lưới ARPA (Hội nghị của Spring Joint Computer, biên bản lưu của AFIPS tập 36, trang 589-598, năm 1970).
+Tác giả: Stephen Carr, Stephen Crocker và Vinton Cerf
+Severo Ornstein, Frank Heart, William Crowther, S. B. Russell, H. K. Rising, and A. Michel, The Terminal IMP for the ARPA Computer Network (1972 Spring Joint Computer Conference, AFIPS Proc. Vol. 40, pp. 243–254, 1972)
+Thiết bị cuối IMP trong mạng lưới vi tính của ARPA (Hội nghị của Spring Joint Computer, biên bản lưu của AFIPS, tập 40, trang 243-254, năm 1972).
+Tác giả: Severo Ornstein, Frank Heart, William Crowther, S. B. Russell, H. K. Rising, và A. Michel
+John McQuillan, William Crowther, Bernard Cosell, David Walden, and Frank Heart, Improvements in the Design and Performance of the ARPA Network (1972 Fall Joint Computer Conference, AFIPS Proc. Vol. 41, Pt. 2, pp. 741–754, 1972)
+Những cải tiến trong thiết kế và hiệu xuất của mạng lưới do ARPA xây dựng (Hội nghị của Fall Joint Computer, biên bản lưu của AFIPS tập 41, phần 2, trang 741-754, năm 1972).
+Tác giả: John McQuillan, William Crowther, Bernard Cosell, David Walden, và Frank Heart
+Feinler, E.; Postel, Jon B. ARPANET Protocol Handbook (Network Information Center, Menlo Park, 1978)
+Sổ tay giao thức của ARPANET (Trung tâm tin tức về mạng lưới truyền thông, Menlo Park, năm 1978).
+Tác giả: Feinler, E.; Postel và Jon B.
+Lawrence Roberts, The Evolution of Packet Switching (Proceedings of the IEEE, November, 1978)
+Sự tiến hóa của chuyển mạch gói dữ liệu (Biên bản lưu của IEEE, tháng 11 năm 1978)
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+ARPANET Maps 1967 to 1977
+Looking back at the ARPANET effort
+The Computer History Museum Images of ARPANET from 1964 onwards.
+A Brief History of the Internet
+Paul Baran and the Origins of the Internet
+Leonard Kleinrock's Personal History/Biography
+Personal anecdote of the first message ever sent over the ARPANET
+Len Kleinrock on the Origins (subscribers only)
+Internet Chronology by Larry Roberts
+The Faces in Front of the Monitors
+Computer Networks: The Heralds of Resource Sharing (1972 ARPANET documentary film viewable online at Google Video)

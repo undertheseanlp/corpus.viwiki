@@ -1,0 +1,234 @@
+ICOM Incorporated (アイコム株式会社, Aikomu Kabushiki-gaisha) (TYO: 6820) là một nhà sản xuất quốc tế các thiết bị thu / phát vô tuyến, thành lập vào năm 1954 với tên giao dịch ban đầu là "IEW". Hiện nay, các sản phẩm của nhà sản xuất này bao gồm các mảng thiết bị sử dụng cho vô tuyến nghiệp dư, phi công, công cụ liên lạc hàng hải, ứng dụng chuyên nghiệp di động mặt đất và phục vụ những người đam mê dò sóng vô tuyến.
+Trụ sở của ICOM đặt tại Osaka, Nhật Bản, và các chi nhánh tại Mỹ (ở Bellevue, bang Washington), Canada (ở Delta, British Columbia), Úc (Melbourne, Victoria), New Zealand (Auckland), United Kingdom (Kent, Anh), Pháp (Toulouse), Tây Ban Nha (Barcelona) và tại Trung Quốc (Bắc Kinh).
+
+
+== Lịch sử ==
+Năm 1954, Tokuzo Inoue thành lập công ty "Inoue Electric Works", (viết tắt là IEW), tại thị trấn Kyoto Yamashiro, quận Sagara, Nhật Bản
+Năm 1970, chuyển trụ sở công ty về Osaka
+Năm 1978, đổi tên công ty như hiện tại: "ICOM", trong đó "I" -viết tắt tên người sáng lập Tokuzo Inoue, "com" -viết tắt của "truyền thông"
+Năm 2001, niêm yết tại thị trường chứng khoán Tokyo
+
+
+== Công nghệ ==
+
+
+=== IDAS ===
+IDAS  là sự thực thi Icom's của giao thức NXDN cho sản phảm vô tuyến số hóa song công dành cho Vô tuyến di động mặt đất dùng riêng (PLMR - Private Land Mobile Radio) trong thương mại và hệ thống thông tin an toàn công cộng cấp thấp. NXDN là một tiêu chuẩn kỹ thuật dùng giao diện không gian chung (CAI - Common Air Interface) cho truyền thông di động. Nó được kết hợp phát triển bởi Icom Incorporated và Kenwood Corporation.
+
+
+=== D-STAR ===
+ICOM đã phát triển hệ thống vô tuyến mở D-STAR dựa trên kỹ thuật vô tuyến số hóa do Liên minh vô tuyến nghiệp dư Nhật Bản phát triển. Hệ thống này được thiết kế để cung cấp các thông tin liên lạc thoại và dữ liệu tiên tiến trên đài phát thanh nghiệp dư bằng cách sử dụng các tiêu chuẩn mở.
+
+
+== Các sản phẩm ==
+
+ICOM sản xuất máy bộ đàm vô tuyến song công và máy thu sử dụng trong các nghiệp vụ thông tin hàng hải, hàng không, ứng dụng vô tuyến nghiệp dư, di động mặt đất , và ứng dụng FRS / GMRS. Một số loại bộ đàm do ICOM sản xuất, tương thích với hệ thống trung kế của Motorola và SmarTrunk.
+
+
+=== Bộ thu phát vô tuyến cao tần (HF) nghiệp dư ===
+IC-7000
+IC-701
+IC-703
+IC-706
+IC-707
+IC-718
+
+IC-720
+IC-7200
+IC-720A
+IC-725
+IC-726
+IC-728
+IC-729
+IC-730
+IC-732
+IC-735
+IC-736
+IC-737
+IC-737A
+IC-738
+IC-740
+IC-7400
+IC-745
+IC-746
+IC-746Pro
+
+IC-751
+IC-751A
+IC-756
+IC-756Pro
+IC-756ProII
+IC-756ProIII
+IC-7600
+
+IC-761
+IC-765
+IC-7700
+IC-775DSP
+IC-7800
+IC-781
+
+
+=== Bộ thu phát di động dải VHF/UHF nghiệp dư ===
+IC-F121
+IC-2820H
+IC-1271A
+IC-1275A
+IC-2000H
+IC-201
+IC-202
+IC-202S
+IC-207H
+IC-207H
+IC-208H
+IC-2100H
+IC-211
+IC-215
+IC-2200H
+IC-228A & H
+IC-229A/H
+IC-22A
+IC-22S
+IC-22U / IC-24E
+IC-230
+IC-2330A
+IC-2340H
+IC-2350H
+IC-2400A
+IC-2410H
+IC-245
+IC-251A
+IC-255A
+IC-25A
+IC-260A
+IC-2700H
+IC-2710
+IC-2710H
+IC-271A/H
+IC-2720
+IC-2720H
+IC-2725E
+IC-275A/H
+IC-27A/H
+IC-2800
+IC-2800H
+IC-2800H
+IC-281H
+IC-2820H
+IC-28A/H
+IC-290A/H
+IC-3200A
+IC-3210A
+IC-3230
+IC-375A
+IC-37A/H
+IC-38A
+IC-402
+IC-451A
+IC-45A
+IC-471A/H
+IC-475A/H
+IC-47A/H
+IC-490A
+IC-501
+IC-502
+IC-502A
+IC-505
+IC-551
+IC-551D
+IC-560
+IC-575H
+IC-71
+IC-820H
+IC-821
+IC-821H
+IC-901A/E
+IC-910H
+IC-970
+IC-970H
+IC-Delta 100
+IC-E208
+IC-F521
+IC-V8000
+ID-1
+ID-800
+ID-880
+
+
+=== Bộ thu phát cầm tay dải VHF/UHF nghiệp dư ===
+IC-V80
+IC-V85
+IC-w31a
+Icom 2GXAT
+Icom 3AT
+Icom A24LI
+Icom E90
+Icom F3GS
+IC-2E
+IC-02AT
+IC-03AT
+IC-24 AT
+IC-2AT
+IC-2GAT
+IC-2GXAT
+IC-2iA
+IC-2SE
+IC-2SRA, (4SRA)
+IC-32AT
+IC-3AT
+IC-3SAT
+IC-4SA
+IC-80AD
+IC-91
+IC-91AD
+
+IC-92AD
+IC-DELTA1A
+IC-E7
+IC-E90
+IC-F30GS
+IC-H16
+IC-M3
+IC-O3AT
+IC-P7A
+IC-Q7A
+IC-T22A
+IC-T22H
+IC-T2H
+IC-T3H
+IC-T70A
+IC-T7H
+IC-T81A/E
+IC-T90A
+IC-U82
+IC-V21AT
+IC-V68
+IC-V8
+IC-V80
+IC-V82
+IC-W21A
+IC-W2A
+IC-W32A
+IC-Z1A
+Icom P2AT
+Icom P3AT
+Icom P4AT
+Icom Q7A
+Icom T21A
+Icom T8a
+Icom µ2AT
+
+
+== Một số hình ảnh ==
+
+
+== Liên kết ngoài ==
+(tiếng Anh) Trang tin điện tử ICOM Toàn cầu
+Trang chủ Icom tại Mỹ
+
+
+== Chú thích ==
+
+
+== Xem thêm ==
+Danh sách công ty điện tử Nhật Bản

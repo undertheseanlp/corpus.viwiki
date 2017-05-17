@@ -1,0 +1,17 @@
+Flock là một trình duyệt web được xây dựng trên nền tảng mã nguồn mở Firefox của Mozilla. Flock v2.5 chính thức phát hành ngày 19 tháng 5, 2009.
+Flock được tải xuống miễn phí, và hỗ trợ Microsoft Windows, Mac OS X, và nền Linux.
+
+
+== Giải thưởng ==
+Sau khi thoát khỏi beta, Flock đã đạt một số giải thưởng:
+Webby Award trong mạng xã hội, 2008
+SXSW giải thưởng cộng đồng, 2008 
+Open Web Award cho Ứng dụng và Widget, 2007 
+"Eddy Winner": Giải thưởng Flock 2.0 24th Annual Macworld Editors' Choice
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang chủ của Flock

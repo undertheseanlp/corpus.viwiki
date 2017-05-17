@@ -1,0 +1,165 @@
+Microsoft Windows (hoặc đơn giản là Windows) là tên của một họ hệ điều hành dựa trên giao diện người dùng đồ hoạ được phát triển và được phân phối bởi Microsoft. Nó bao gồm một vài các dòng hệ điều hành, mỗi trong số đó phục vụ một phần nhất định của ngành công nghiệp máy tính. Các dòng Windows hiện tại gồm Windows NT, Windows Embedded và Windows Phone; chúng có thể bao gồm các phân họ, VD: Windows Embedded Compact (Windows CE) hoặc Windows Server. Các dòng Windows đã bị ngừng gồm Windows 9x và Windows Mobile.
+Microsoft giới thiệu một môi trường điều hành có tên là Windows vào 20 tháng 11 năm 1985 như một giao diện hệ điều hành đồ hoạ cho MS-DOS để đáp ứng với sự quan tâm ngày càng tăng với các giao diện người dùng đồ hoạ (GUI). Microsoft Windows dần chiếm ưu thế trong thị trường máy tính cá nhân thế giới với hơn 90% thị phần, vượt qua Mac OS, đã được giới thiệu năm 1984. Tuy nhiên, từ 2012, thị phần của nó đã bị tụt lại so với Android, sau đó trở thành hệ điều hành phổ biến nhất năm 2014, khi tính tất cả các nền tảng máy tính mà Windows chạy (giống như Android); vào 2014, số thiết bị Windows đã bán ít hơn 25% của Android.
+Tính đến năm tháng 3 năm 2016, phiên bản Windows gần đây nhất cho các máy tính cá nhân, máy tính bảng, điện thoại thông minh và các thiết bị nhúng là Windows 10. Phiên bản gần đây nhất cho máy chủ lần lượt là Windows Server 2012 R2. Cũng có một phiên bản Windows đặc biệt chạy trên máy chơi game console Xbox One.
+
+
+== Các dòng sản phẩm chính ==
+
+
+=== Theo mục đích tiếp thị ===
+Microsoft, nhà phát triển của Windows, đã đăng ký nhiều nhãn hiệu, mỗi nhãn hiệu nhằm biểu thị cho một họ hệ điều hành Windows được nhắm vào một phần cụ thể của ngành công nghiệp máy tính. TÍnh đến năm 2014, các họ Windows đang được phát triển tích cực là:
+Windows NT: Được bắt đầu dưới dạng một họ hệ điều hành với Windows NT 3.1, một hệ điều hành cho máy chủ và máy trạm. Nay nó được phân ra thành ba họ hệ điều hành con được phát hành gần như cùng lúc và chia sẻ chung một hạt nhân
+Windows RT: Hệ điều hành cho các máy tính cá nhân. Phiên bản mới nhất là Windows 10. Sẽ là rất khó cho những người nào không hiểu biết về chủ đề này trong việc nhận dạng các thành viên trong họ này nếu chỉ nhìn qua tên bởi chúng không được đặt tên theo bất cứ một quy luật nào; ví dụ như Windows Vista, Windows 7, Windows 8/8.1 và Windows RT đếu thuộc họ này nhưng Windows 3.1 thì lại không. Đối thủ chính của họ này là hệ điều hành OS X của Apple Inc.
+Windows Server: Hệ điều hành dành cho máy chủ. Phiên bản mới nhất là Windows Server 2012 R2. Không giống như các phiên bản cho khách hàng, các hệ điều hành trong họ này đều được đặt tên theo một quy luật. Đối thủ chính của họ này là hệ điều hành Linux.
+Windows PE: Một phiên bản nhẹ của Windows được tạo ra để vận hành như một hệ điều hành trực tiếp, được sử dụng để cài đặt Windows trên các máy tính hoàn toàn mới (đặc biệt khi phải cài đặt nhiều máy tính cùng lúc), hoặc sử dụng với mục đích phục hồi hoặc sửa lỗi. Phiên bản mới nhất là Windows PE 10.0.10586.0.
+
+Windows Embedded: Ban đầu, Microsoft phát triển Windows CE dưới dạng một hệ điều hành mục đích chung cho tất cả các thiết bị có tài nguyên quá hạn chế để được gọi là một chiếc máy tính đầy đủ. Tuy nhiên, rốt cục Windows CE được đổi tên thành Windows Embedded Compact và được xếp lại dưới thương hiệu Windows Compact cũng được bao gồm Windows Embedded Industry, Windows Embedded Professional, Windows Embedded Standard, Windows Embedded Handheld và Windows Embedded Automotive.
+Các họ Windows sau không còn được phát triển nữa:
+Windows 9x: Hệ điều hành được nhắm vào thị trường tiêu dùng. Họ này đã bị ngừng phát triển do làm việc không còn hiệu quả. (PC World còn gọi phiên bản cuối của nó, Windows ME, là một trong những sản phẩm tệ nhất mọi thời đại.) Microsoft nay dùng Windows NT cho thị trường tiêu dùng.
+Windows Mobile: Phiên bản trước của Windows Phone, là một hệ điều hành cho điện thoại di động. Phiên bản đầu tiên có tên là Pocket PC 2000; phiên bản thứ ba, Windows Mobile 2003 là phiên bản đầu tiên có thương hiệu Windows Mobile. Phiên bản cuối cùng là Windows Mobile 6.5.
+Windows Phone: Hệ điều hành chỉ được bán cho các nhà sản xuất điện thoại thông minh. Phiên bản đầu tiên là Windows Phone 7, tiếp theo sau bởi Windows Phone 8, và phiên bản cuối Windows Phone 8.1. Nó đã được kế nhiệm bới Windows 10 Mobile
+
+
+== Lịch sử ==
+
+Thuật ngữ Windows mô tả chung bất kỳ hoặc tất cả thế hệ hệ điều hành của Microsoft. Những sản phẩm này thường được phân loại như sau:
+
+
+=== Các phiên bản đầu tiên ===
+
+Tháng Chín năm 1981, Chase Bishop, một kĩ sư tin học đã thiết kế mẫu thiết bị điện tử đầu tiên và dự án "Interface Manager" được bắt đầu. Nó được công bố vào tháng 11 năm 1983 dưới cái tên "Windows" (cửa sổ), nhưng Windows 1.0 lại không được ra mắt cho đến Tháng Mười Một 1985. Windows 1.0 được cho là cạnh tranh với hệ điều hành của Apple nhưng lại ít phổ biến hơn. Windows 1.0 không phải là một hệ điều hành hoàn chỉnh, đúng hơn, nó là bản mở rộng của MS-DOS. Giao diện của Windows 1.0 thường được biết đến với cái tên MS-DOS Executive. Các tiện ích bao gồm Máy tính, Lịch, Cardfile (trình quản lý thông tin cá nhân), trình xem bộ nhớ tạm, Đồng hồ, Bảng điều khiển (Control Panel), Notepad, Paint (Vẽ), Trò chơi Reversi, Dòng lệnh và Viết. Windows 1.0 không cho phép chồng xếp các cửa sổ. Chỉ có một số hộp thoại mới được chồng lên các cửa sổ khác.
+Windows 2.0 ra mắt vào Tháng Mười Hai 1987 và còn phổ biến hơn người tiền nhiệm. Các tính năng bao gồm cải thiện giao diện và quản lý bộ nhớ.Windows 2.0 cho phép các cửa sổ xếp chồng lên nhau. Sự thay đổi này khiến Apple cáo buộc Microsoft vi phạm bản quyền của Apple. Windows 2.0 còn thêm vào các phím tắt bằng bàn phím và có thể sử dụng với bộ nhớ ngoài.
+Windows 2.1 ra mắt với 2 phiên bản: Windows/286 và Windows/386. Windows/386 sử dụng chế độ ảo hóa 8086 của Intel 80386 để chạy nhiều chương trình DOS. Windows/286, đúng như tên gọi, chạy trên Intel 8086 và Intel 80286. Nó chạy trên chế độ thực nhưng có thể dùng vùng bộ nhớ lớn.
+
+
+=== Windows 3.x ===
+
+Windows 3.0 được ra mắt vào năm 1990 đã cải tiến thiết kế, chủ yếu nhờ dung lượng bộ nhớ ảo và VxDs cho phép Windows chia sẻ các thiết bị tùy ý giữa các chương trình đa nhiệm DOS.Các ứng dụng trên Windows 3.0 có thể chạy trong chế độ bảo vệ giúp cho chúng truy cập đến một vài megabyte bộ nhớ mà không cần phải tham gia vào quá trình bộ nhớ ảo. Windows 3.0 cũng thêm vào một số cải tiến mới cho giao diện người dùng. Microsoft viết lại các hoạt động quan trọng từ C sang hợp ngữ. Windows 3.0 là phiên bản Windows đầu tiên đạt được thành công thương mại lớn. bán được 2 triệu bản trong 6 tháng đầu.
+Windows 3.1 phát hành rộng rãi vào 1 tháng 3 năm 1992 cho thấy một sự đổi mới. Tháng Tám 1993, Windows cho Workgroups, một phiện bản đặc biệt kèm theo giao thức mạng ngang hàng và cái tên Windows 3.11 được ra mắt và được bán cùng Windows 3.1. Các hỗ trợ cho Windows 3.1 kết thúc vào 31 tháng 12 năm 2001.
+Windows 3.2, được phát hành năm 1994, là một phiên bản cập nhật cho phiên bản tiếng Trung của Windows 3.1. Bản cập nhật chỉ được phát hành cho phiên bản ngôn ngữ này, và cũng chỉ sửa các lỗi liên quan đến hệ thống viết phức tạp của tiếng Trung. Windows 3.2 được bán ra rộng rãi bởi các hãng sản xuất máy tính với một phiên bản MS-DOS 10 đĩa cùng có ký tự tiếng Trung Giản thể trong các đầu ra cơ bản và một số tiện ích đã được biên dịch.
+
+
+=== Windows 9x ===
+
+Phiên bản tiêu dùng theo định hướng lớn tiếp theo và có lẽ là lớn nhất của Windows là Windows 95, được ra mắt vào 24 tháng 8 năm 1995. Trong khi vẫn phụ thuộc vào MS-DOS, Windows 95 được giới thiệu là hỗ trợ các ứng dụng 32-bit, phần cứng Plug and Play, đa nhiệm ưu tiên, tên tệp tin dài đến 255 ký tự và cung cấp tăng tính ổn định hơn người tiền nhiệm. Windows 95 cũng giới thiệu một giao diện mới, hướng tới đối tượng, thay thế Trình quản lý chương trình bằng Menu Start, thanh điều hướng và Windows Explorer. Windows 95 là một thành công thương mại lớn cho Microsoft; Ina Fried của CNET nhận xét rằng "vào thời điểm Windows 95 cuối cùng cũng bị khai tử trên thị trường năm 2001, nó đã trở thành vật bất ly thân với mọi máy tính để bàn khắp thế giới." Microsoft đã phát hành 4 bản OSR (OEM Service Releases) cho Windows 95 mỗi bản tương đương với 1 bản service pack. Bản OSR đầu tiên phiên bản đầu tiên của Windows được đi kèm với trình duyệt web của Microsoft, Internet Explorer. Hỗ trợ chính cho Windows 95 kết thúc vào 31 tháng 12 năm 2000 và hỗ trọ mở rộng kết thúc vào 31 tháng 12 năm 2001.
+Windows 95 được tiếp nối bằng sự ra mắt của Windows 98 vào 25 tháng 6 năm 1998, giới thiệu Windows Driver Model, hỗ trợ các thiết bị USB tổng hợp, ACPI, chế độ ngủ đông và các thiết lập đa màn hình. Windows 98 cũng kèm theo Internet Explorer 4. Tháng Năm 1999, Microsoft ra mắt Windows 98 Second Edition, một bản cập nhật cho Windows 98. Windows 98 SE thêm vào Internet Explorer 5 và Windows Media Player 6.2 cùng với một số nâng cấp khác. Hỗ trợ chính cho Windows 98 kết thúc vào 30 tháng 6 năm 2002 và hỗ trợ mở rộng kết thúc vào 11 tháng 7 năm 2006.
+Ngày 14 Tháng Chín 2000, Microsoft ra mắt Windows ME (Millennium Edition), phiên bản Windows dựa trên nền DOS cuối cùng. Windows ME kết hợp cải tiến giao diện trực quan của nó từ Windows 2000 dựa trên nền Windows NT, có thời gian khởi động nhanh hơn các phiên bản trước (tuy nhiên, nó yêu cầu loại bỏ các khả năng truy cập vào một chế độ thực môi trường DOS, loại bỏ khả năng tương thích với một số chương trình cũ), mở rộng chức năng đa phương tiện (bao gồm Windows Media Player 7, Windows Movie Maker và Windows Image Acquisition để nhận ảnh từ máy scan và máy ảnh kỹ thuật số), một số tiện ích tuỳ chọn như Bảo vệ tập tin hệ thống (System File Protection) và Khôi phục hệ thống (System Restore) và cập nhật các công cụ mạng ở nhà. Tuy nhiên, Windows ME đã phải đối mặt với những lời chỉ trích do tốc độ và sự bất ổn định của nó, cùng với vấn đề tương thích phần cứng và sự loại bỏ hỗ trợ chế độ thực nền DOS. PC World đã cho Windows ME là hệ điều hành tồi nhất mà Microsoft đã từng phát hành, và là sản phẩm công nghệ tồi thứ 4 mọi thời đại.
+
+
+=== Windows NT ===
+
+
+==== Các phiên bản đầu tiên ====
+Tháng Mười Một 1988, một nhóm lập trình từ Microsoft bắt đầu làm việc với một phiên bản mới của IBM và OS/2 của Microsoft với cái tên "NT OS/2". NT OS/2 được dự định là một hệ điều hành bảo mật, nhiều người dùng với khả năng tương thích POSIX nhân di động với khả năng đa nhiệm ưu tiên và hỗ trợ nền tảng đa nhân. Tuy nhiên với thành công của Windows 3.0, nhóm NT đã quyết định làm lại dự án với bản 32-bit của Windows API với cái tên Win32 thay vì OS/2. Win32 duy trì cấu trúc tương tự như Windows API (cho phép ứng dụng Windows hiện có thể dễ dàng được chuyển đến các nền tảng khác) nhưng vẫn hỗ trợ nhân NT đã có. Sau khi được phê duyệt bởi các nhân viên của Microsoft, các lập trình viên tiếp tục với bản gọi là Windows NT, phiên bản 32-bit đầu tiên của Windows. Tuy nhiên, IBM đã phản đối những thay đổi trên và cuối cùng tự tiếp tục phát triển OS/2 theo riêng họ.
+Bản phát hành đầu tiên của hệ điều hành này, Windows NT 3.1 (được đặt tên để liên kết với Windows 3.1) được phát hành tháng 7 năm 1993, với các phiên bản cho các máy trạm để bàn và máy chủ. Windows NT 3.5 được phát hành tháng 9 năm 1994, tập trung cải thiện hiệu suất và hỗ trợ NetWare của Novell, và được tiếp nối bởi Windows NT 3.51 vào tháng 5 năm 1995, bao gồm một số cải thiện và hỗ trợ cấu trúc PowerPC. Windows NT 4.0 được phát hành tháng 6 năm 1996, giới thiệu một giao diện được thiết kế mới của Windows 95 lên dòng NT. Ngày 17 tháng 2 năm 2000, Microsoft phát hành Windows 2000, phiên bản kế tiếp NT 4.0. Cái tên Windows NT đến lúc đó đã bị lược đi nhằm tập trung nhiều hơn nữa vào nhãn hiệu Windows.
+
+
+==== Windows XP ====
+
+Phiên bản lớn tiếp theo của Windows, Windows XP được ra mắt vào 25 tháng 10 năm 2001. Windows XP được giới thiệu để nhằm hợp nhất dòng Windows 9x hướng tới người tiêu dùng với cấu trúc được giới thiệu trong Windows NT, một thay đổi mà Microsoft đã hứa hẹn sẽ cung cấp một hiệu suất tốt hơn so với các phiên bản trước dựa trên DOS. Windows XP cũng giới thiệu một giao diện người dùng được thiết kế mới (bao gồm menu Start được cập nhật và một phiên bản Windows Explorer được "hướng tới các tác vụ"), các tính năng đa phương tiện và mạng, Internet Explorer 6, tích hợp với dịch vụ .NET Passport của Microsoft, các chế độ giúp tương thích với các phần mềm được thiết kế cho các phiên bản Windows trước, và tính năng Remote Assistance.
+Windows XP được phân phối và bán lẻ theo 2 phiên bản chính: phiên bản "Home" hướng tới người tiêu dùng, còn bản "Professional" hướng tới môi trường doanh nghiệp và người dùng chuyên nghiệp, và còn kèm theo các tính năng mạng và bảo mật tuỳ chọn. Hai phiên bản trên sau đó được đi kèm với bản "Media Center" (dành cho PC để giải trí tại nhà với trọng tâm là hỗ trợ chơi DVD, card TV, chức năng ghi hình DVR và điều khiển từ xa) và bản "Tablet PC" (được thiết kế cho các thiết bị di động đáp ứng thông số kỹ thuật của nó cho một máy tính bảng, hỗ trợ bút cảm ứng) Hỗ trợ chính cho Windows XP kết thúc vào 14 tháng 4 năm 2009. Hỗ trợ mở rộng kết thúc vào 8 tháng 4 năm 2014.
+Sau Windows 2000, Microsoft còn đổi kế hoạch ra mắt cho các hệ diều hành máy chủ; phiên bản cho máy chủ của Windows XP, Windows Server 2003 được ra mắt vào tháng 4 năm 2003. Phiên bản tiếp theo của nó là Windows Server 2003 R2 ra mắt vào tháng 12 năm 2005.
+
+
+==== Windows Vista ====
+
+Sau một quá trình lập trình dài, Windows Vista được ra mắt vào 30 tháng 11 năm 2006 cho cấp phép số lượng lớn và vào 30 tháng Giêng 2007 cho người tiêu dùng. Nó chứa một số tính năng mới như giao diện mới, đặc biệt tập trung vào bảo mật. Nó được chia ra thành nhiều phiên bản và là đề tài của nhiều lời chỉ trích. Phiên bản cho máy chủ, Windows Server 2008 được ra mắt vào năm 2008.
+
+
+==== Windows 7 ====
+
+Ngày 22 tháng 7 năm 2009, Windows 7 và Windows Server 2008 R2 ra mắt bản RTM, và được ra mắt chính thức vào 22 tháng 10 năm 2009. Windows 7 được dự định là tập trung hơn, là bản nâng cấp lớn vào dòng Windows, với mục tiêu là tương thích với các ứng dụng và phần cứng mà Windows Vista đã tương thích. Windows 7 hỗ trợ cảm ứng đa điểm, giao diện cải tiến với thanh điều hướng mới, hệ thống mạng nhà gọi là HomeGroup và cải thiện hiệu năng.
+
+
+==== Windows 8 và 8.1 ====
+
+Windows 8, kế nhiệm Windows 7, được chính thức ra mắt vào 26 tháng 10 năm 2012. Một số thay đổi đáng kể đã được thực hiện trên Windows 8, bao gồm giao diện Metro mới (sau đổi thành Modern vì lý do bản quyền) thích hợp cho các thiết bị cảm ứng như máy tính bảng và máy tính AIO. Các thay đổi này bào gồm màn hình Start sử dụng các ô lớn để dễ dàng hơn trong cảm ứng và hiển thị các thông tin cập nhật, các ứng dụng mới được thiết kế dành riêng cho cảm ứng. Các thay đổi khác gồm tăng độ liên kết với các dịch vụ đám mây và các nền tảng trực tuyến khác (như mạng xã hội và 2 dịch vụ của Microsoft: SkyDrive và Xbox Live), cửa hàng Windows Store để phân phối các ứng dụng, và một biến thể khác là Windows RT sử dụng cho các thiết bị ARM. Một bản cập nhật của Windows 8 là Windows 8.1 ra mắt vào 17 tháng 10 năm 2013, thêm nhiều tính năng mới như các kích cỡ ô vuông mới, liên kết với SkyDrive nhiều hơn,...
+
+
+==== Windows 10 ====
+
+Ngày 30 Tháng 9 năm 2014, Microsoft giới thiệu Windows 10 là sự kế thừa cho Windows 8.1. Nó được phát hành vào cuối năm 2015 và nhằm tới những thiếu sót trong giao diện người dùng đầu tiên được giới thiệu với Windows 8. Những thay đổi bao gồm sự trở lại của Start Menu, một hệ thống Desktop ảo, và khả năng chạy các ứng dụng Windows Store trong cửa sổ trên máy tính để bàn hơn là trong chế độ toàn màn hình. Windows 10 được thông báo là sẽ được cập nhật miễn phí cho các máy tính Windows 7 và Windows 8.1 đủ điều kiện từ ứng dụng 'Get Windows 10' (cho Windows 7, Windows 8.1) hoặc Windows Update (Windows 7)
+Ngày 12 tháng 11 năm 2015, một bản cập nhật cho Windows 10, phiên bản 1511, đã được phát hành. Bản cập nhật này có thể được kích hoạt với một mã sản phẩm của cả các phiên bản Windows 7, 8 hoặc 8.1 cũng như mã sản phẩm Windows 10. Các tính năng bao gồm các biểu tượng và menu chuột phải mới, trình quản lý máy in mặc định, cho phép mở rộng số lượng các ô xếp trong menu Start, tính năng Find My Device, và cập nhật cho Edge.
+
+
+==== Hỗ trợ đa ngôn ngữ ====
+Hỗ trợ đa ngôn ngữ được tích hợp trong Windows. Ngôn ngữ của cả bàn phím và giao diện có thể được thay đổi qua mục Region and Language (Vùng và ngôn ngữ) trong Control Panel (Panen Điều khiển). Các thành phần cho tất cả các ngôn ngữ nhập vào được hỗ trợ, như các bộ gõ, được tự động cài đặt trong quá trình cài đặt Windows (trong Windows XP về trước, các tập tin cho các ngôn ngữ Đông Á, như tiếng Trung, và các ngôn ngữ bố cục phải qua trái, như tiếng Ả Rập, có thể phải cài đặt riêng biệt, cũng từ trong Control Panel). Các bộ gõ bên thứ ba cũng có thể được cài đặt nếu người dùng thấy bộ gõ có sẵn không đủ cho nhu cầu của họ.
+Các ngôn ngữ giao diện cho hệ điều hành có thể được tải về miễn phí, nhưng một số ngôn ngữ bị giới hạn trong một số phiên bản nhất định của Windows. Các gói Language Interface Pack (Gói Ngôn ngữ Giao diện - LIP) được phát hành và có thể được tải về từ Trung tâm Tải xuống của Microsoft và được cài đặt cho bất cứ phiên bản Windows nào (từ XP về sau) - các gói này biên dịch gần hết, nhưng không phải tất cả, giao diện của Windows, và yêu cầu một ngôn ngữ gốc nhất định (ngôn ngữ mà Windows đi kèm lúc đầu). Các gói này được sử dụng cho hầu hết ngôn ngữ tại các thị trường đang phát triển. Các gói Full Language Pack (Gói Ngôn ngữ Đầy đủ), biên dịch toàn bộ hệ điều hành, chỉ có sẵn cho một số phiên bản Windows (các phiên bản Ultimate và Enterprise của Windows Vista và 7, và tất cả các phiên bản Windows 8, 8.1 và RT ngoại trừ Single Language). Chúng không yêu cầu một ngôn ngữ gốc nào cụ thể, và thường được dùng cho các ngôn ngữ phổ biến hơn cả như tiếng Pháp hay tiếng Trung. Các ngôn ngữ này không thể được tải về qua Trung tâm Tải xuống, nhưng có thể được tải về qua dịch vụ Windows Update dưới dạng bản cập nhật tùy chọn (trừ Windows 8).
+Ngôn ngữ giao diện của các ứng dụng đã cài đặt không bị ảnh hưởng bởi các thay đổi về ngôn ngữ giao diện Windows. Điều này phụ thuộc vào các nhà phát triển ứng dụng đó.
+Windows 8 và Windows Server 2012 giới thiệu một Language Control Panel (Panen Điều khiển Ngôn ngữ) mới, nơi cả ngôn ngữ giao diện cà ngôn ngữ nhập có thể thay đổi cùng lúc, và các gói ngôn ngữ, bất kể thuộc loại nào, đều có thể được tải về từ một vị trí trung tâm. Ứng dụng PC Settings trong Windows 8.1 và Windows Server 2012 R2 cũng bao gồm một trang cài đặt cho việc này. Thay đổi ngôn ngữ giao diện cũng sẽ thay đổi ngôn ngữ của các ứng dụng Windows Store đã được cài đặt sẵn (như Thư, Bản đồ và Tin tức) và một số các ứng dụng do Microsoft phát triển khác (như Remote Desktop). Những giới hạn trên cho các gói ngôn ngữ vẫn có hiệu lực, ngoại trử việc các gói ngôn ngữ đầy đủ có thể được cài đặt cho bất kì phiên bản nào ngoại trừ Single Language, nhằm hướng tới các thị trường đang phát triển.
+
+
+==== Nền tảng hỗ trợ ====
+Windows NT hỗ trợ một vài nền tảng khác nhau trước khi các máy tính cá nhân dựa trên x86 thống trị thế giới chuyên nghiệp. Windows NT 4.0 và các phiên bản trước hỗ trợ PowerPC, DEC Alpha và MIPS R4000. (Mặc dù một số nền tảng này thực hiện tính toán 64-bit, hệ điều hành lại xử lý chúng như 32-bit.) Tuy nhiên, Windows 2000, phiên bản kế tiếp Windows NT 4.0, ngừng hỗ trợ cho tất cả các nền tảng trên ngoại trừ thế hệ thứ ba của x86 (còn gọi là IA-32) hoặc mới hơn trong chế độ 32-bit. Dòng sản phẩm khách hàng của họ Windows NT vẫn chạy trên IA-32, cho dù dòng Windows Server đã ngừng hỗ trợ nền tảng này từ phiên bản Windows Server 2008 R2.
+Với sự giới thiệu nền tảng Intel Itanium (IA-64), Microsoft đã phát hành các phiên bản Windows mới để hỗ trợ nền tảng này. Các phiên bản Itanium của Windows XP và Windows Server 2003 được phát hành cùng với phiên bản x86 chính. Windows XP 64-Bit Edition, phát hành năm 2005, là hệ điều hành khách hàng cuối cùng hỗ trợ Itanium. Dòng Windows Server tiếp tục hỗ trợ nền tảng này cho tới phiên bản Windows Server 2012; Windows Server 2008 R2 là hệ điều hành Windows cuối cùng hỗ trợ cấu trúc Itanium.
+Vào ngày 25 tháng 4 năm 2005, Microsoft phát hành Windows XP Professional x64 Edition và Windows Server 2003 x64 Edition để hỗ trợ x86-64 (hoặc đơn giản là x64), thế hệ thứ tám của cấu trúc x86. Windows Vista là phiên bản khách hàng đầu tiên của Windows NT được cùng phát hành cả hai phiên bản IA-32 và x64 editions. x64 vẫn đang được hỗ trợ.
+Một phiên bản Windows 8 có tên là Windows RT được tạo ra dành cho các máy tính với cấu trúc ARM và khi ARM vẫn được sử dụng cho các điện thoại thông minh Windows với Windows 10, các máy tính bảng Windows RT sẽ không được cập nhật.
+
+
+=== Windows CE ===
+
+Windows CE (Windows Embeded Compact) là một phiên bản Windows chạy trên các máy tính gọn nhẹ như thiết bị định vị vệ tinh và điện thoại di động.Windows Embedded Compact được dựa trên hạt nhân riêng của nó, có tên là Windows CE.
+Windows CE được sử dụng trong Dreamcast cùng với hệ điều hành độc quyền của Sega dành cho giao diện điều khiển. Windows CE là cốt lõi mà từ đó Windows Mobile xuất hiện. Người kế nhiệm của nó, Windows Phone 7 dựa trên thành phần của cả Windows CE 6.0 và Windows CE 7.0. Tuy nhiên, Windows Phone 8 lại dựa trên nhân NT của Windows 8.
+Không nên nhầm lẫn giữa Windows XP Embedded hay Windows NT 4.0 Embedded (2 phiên bản mô-đun của Windows dựa trên nhân WIndows NT) với Windows CE.
+
+
+=== Xbox OS ===
+
+Xbox OS là một tên chưa chính thức được đặt cho phiên bản Windows chạy trên Xbox One. Phiên bản này chú trọng vào việc ảo hóa (sử dụng Hyper-V) khi mà có ba hệ điều hành cùng chạy cùng một lúc, bao gồm hệ điều hành chính, hệ điều hành thứ hai được thiết kế cho trò chơi và một môi trường tương tự Windows hơn cho các ứng dụng. Microsoft cập nhật HĐH của Xbox One mỗi tháng, và những bản cập nhật này có thể được tải về tử dịch vụ Xbox Live và có thể được cập nhật sau, hoặc sử dụng các ảnh đĩa hồi phục ngoại tuyến đã được tải về qua một chiếc PC. Phần lõi dựa trên Windows 10 mới đã thay thế phần dựa trên Windows 8 trong bản cập nhật này, và hệ thống mới này đôi khi được gọi là "Windows 10 trên Xbox One" hoặc "OneCore". Hệ thống của Xbox One cũng cho phép tương thích ngược với Xbox 360, và hệ thống của Xbox 360 cũng tương thích ngược với phiên bản Xbox nguyên gốc.
+
+
+== Thời biểu ==
+
+
+== Thị phần sử dụng và doanh số các thiết bị ==
+
+Theo Net Applications, Windows là họ hệ điều hành được sử dụng nhiều nhất cho máy tính cá nhân cho tới tháng 6 năm 2016 với gần 90% thị phần sử dụng. Nếu tính cả máy tính cá nhân với các thiết bị khác, v.d như các thiết bị di động, vào tháng 7 năm 2016, theo StatCounter, cũng phân tích theo việc sử dụng trên web, các HĐH Windows chiếm 46,87% thị phần sử dụng, so sánh với 36,48% của Android, 12.26% của iOS, và 4.81% của OS X.
+Tính theo số thiết bị được cài đặt sẵn hệ điều hành, trên điện thoại thông minh, Windows Phone là HĐH được cài đặt sẵn nhiều thứ ba (2.6%) sau Android (82.8%) và iOS (13.9%) trong quý hai năm 2015 theo IDC. Nếu tính cả PC và thiết bị di động, trong năm 2014 các HĐH Windows được cài đặt sẵn nhiều thứ hai (333 triệu thiết bị, hay 14%) sau Android (1.2 tỷ, 49%) và nhiều hơn iOS và Mac OS cộng lại (263 triệu, 11%).
+
+
+== Bảo mật ==
+Phiên bản tiêu dùng của Windows được thiết kế ban đầu cho tính dễ sử dụng trên máy tính một người dùng mà không cần kết nối mạng, và không có tính năng bảo mật được xây dựng từ đầu. Tuy nhiên, Windows NT và những người kế nhiệm của nó được thiết kế cho bảo mật (bao gồm cả trên mạng) và máy tính đa người dùng, nhưng ban đầu không được thiết kế với an ninh Internet, kể từ khi nó được phát triển đầu tiên vào đầu những năm 1990, việc sử dụng Internet ít phổ biến hơn.
+Những vấn đề thiết kế kết hợp với lỗi lập trình và sự phổ biến của Windows khiến nó trở thành mục tiêu của virus và sâu máy tính. Tháng Sáu 2005, Counterpane Internet Security của Bruce Schneier báo cáo rằng trong 6 tháng có tới hơn 1000 mẫu virus và sâu mới. Năm 2005, Kaspersky tìm thấy khoảng 11.000 các chương trình độc hại và virus, Trojan,... cho Windows.
+Microsoft thường tung ra các bản vá lỗi qua Windows Update khoảng 1 tháng một lần (thường vào ngày thứ Ba thứ hai của tháng), còn một vài các cập nhật quan trọng thường được tung ra sớm hơn khi cần. Trong các phiên bản từ Windows 2000 SP3 trở lên, các bản cập nhật có thể được tự động tải xuống và cài đặt khi người dùng cho phép. Kết quả là các Gói dịch vụ (Service Pack) 2 cho Windows XP và 1 cho Windows Server 2003 được cài đặt nhanh chóng hơn nhiều.
+Trong khi các dòng Windows 9x được cung cấp tùy chọn có các thông tin cho nhiều người dùng, chúng không có khái niệm về quyền truy cập, và không cho phép truy cập đồng thời; và như vậy không phải là hệ điều hành đa người dùng thực sự. Ngoài ra, các HĐH này chỉ thực hiện bảo vệ bộ nhớ một phần. Việc này đã bị chỉ trích nhiều vì sự thiếu an toàn.
+Dòng hệ điều hành Windows NT thì ngược lại, là hệ điều hành đa người dùng thực sự và thực hiện bảo vệ bộ nhớ tuyệt đối. Tuy nhiên, rất nhiều lợi thế của một hệ điều hành đa người dùng thực sự đã được vô hiệu hóa bởi một thực tế là, trước Windows Vista, tài khoản người dùng đầu tiên được tạo ra trong quá trình cài đặt là một tài khoản quản trị, mà đó cũng là mặc định cho tài khoản mới. Mặc dù Windows XP đã có tài khoản hạn chế, đa số người dùng gia đình không thay đổi một loại tài khoản có ít quyền - một phần do số lượng các chương trình không cần yêu cầu quyền quản trị - và vì vậy hầu hết người dùng gia đình vẫn chạy tài khoản quản trị.
+Windows Vista đã thay đổi điều này bằng cách giới thiệu một hệ thống đặc quyền cao được gọi là User Account Control (UAC). Khi đăng nhập như một người dùng chuẩn, một phiên đăng nhập được tạo ra và một thẻ chỉ chứa các đặc quyền cơ bản nhất được đưa ra. Bằng cách này, các phiên đăng nhập mới sẽ không có khả năng làm những thay đổi ảnh hưởng đến toàn bộ hệ thống. Khi một ứng dụng yêu cầu đặc quyền cao hơn hoặc "Run as administrator" được nhấp, UAC sẽ yêu cầu để xác nhận, và nếu đồng ý (bao gồm cả thông tin quản trị nếu tài khoản yêu cầu độ cao không phải là một thành viên của nhóm quản trị viên), bắt đầu quá trình sử dụng các mã thông báo không hạn chế.
+
+
+=== Windows Defender ===
+Ngày 06 tháng 1 năm 2005, Microsoft phát hành phiên bản Beta của Microsoft AntiSpyware, dựa trên bản phát hành trước đó Giant AntiSpyware. Ngày 14 tháng 2 năm 2006, Microsoft AntiSpyware đã trở thành Windows Defender với việc phát hành bản Beta 2. Windows Defender là một chương trình phần mềm miễn phí được thiết kế để bảo vệ chống lại phần mềm gián điệp và phần mềm không mong muốn. Người dùng Windows XP và Windows Server 2003 có bản sao chính hãng của Microsoft Windows có thể tự do tải chương trình từ trang web của Microsoft và Windows Defender như một phần của Windows Vista và 7. Trong Windows 8, Windows Defender và Microsoft Security Essentials được kết hợp thành một chương trình duy nhất, có tên là Windows Defender. Nó dựa trên Microsoft Security Essentials, vay mượn những tính năng và giao diện người dùng. Mặc dù nó được kích hoạt theo mặc định, nó có thể được tắt để sử dụng một giải pháp chống virus khác. Windows Malicious Software Removal Tool và Microsoft Safety Scanner là hai sản phẩm bảo mật miễn phí khác được cung cấp bởi Microsoft.
+
+
+== Chương trình giả lập ==
+Chương trình giả lập cho phép người sử dụng chạy các chương trình ứng dụng của Windows mà không cần có Windows.
+Wine – phần mềm mã nguồn mở có chức năng tương đương của các hàm Windows API, cho phép vài chương trình ứng dụng Windows chạy trên nền x86 Unix, bao gồm cả Linux.
+Cedega (trước đây gọi là WineX) – là một nhánh của Wine thuộc sở hữu của TransGaming Technologies, được thiết kế chuyên để chạy các trò chơi viết cho Microsoft Windows trên Linux
+Mono và CLI chung mã nguồn – hệ thống tương đương với cơ sở Microsoft.NET.
+ReactOS – hệ điều hành mã nguồn mở được phát triển với mục tiêu là tương thích với các chương trình và trình điều khiển thiết bị của Windows NT, mặc dù vậy hiện tại vẫn còn đang trong giai đoạn phôi thai.
+Freedows và Alliance OS – một dự án có nhiều tham vọng, dự định là một bản sao của Windows và bổ sung thêm nhiều tính năng lợi ích nhưng đã thất bại.
+Project David – một dự án đầy tham vọng và đã gây nhiều tranh cãi với mục đích là giả lập hoàn toàn để các chương trình Windows có thể chạy trên các hệ điều hành khác.
+CrossOver Office của Codeweavers, cũng giả lập được hoàn toàn để các chương trình Windows có thể chạy trên các hệ điều hành khác.
+Captive NTFS – một phần mềm gói, dạng nguồn mở có tính tương thích cao hơn cho hệ NTFS.
+E/OS – với mục tiêu có thể chạy bất kì chương trình thuộc hệ điều hành nào mà không cần phải cài đặt thêm hệ điều hành đó
+
+
+== Xem thêm ==
+Windows 8
+Windows 7
+Windows Phone
+Windows NT
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Website chính thức (tiếng Việt)
+Blog chính thức (tiếng Anh)
+
+Mạng nhà phát triển Microsoft
+Windows Client Developer Resources
+Thời biểu lịch sử Microsoft Windows
+Pearson Education, InformIT – Lịch sử Microsoft Windows
+Microsoft Windows 7 cho Chính phủ
+Thủ Thuật Windows, tổng hợp mẹo vặt dùng trong Windows

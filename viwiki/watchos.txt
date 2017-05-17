@@ -1,0 +1,8 @@
+watchOS (trước đây là cách điệu là Watch OS) là hệ điều hành của Apple Watch, phát triển bởi Apple Inc. Nó dự trên hệ điều hành iOS và một vài tính năng tương tự như iOS. Nó được phát hành lần đầu vào 24 tháng 4 năm 2015, cùng với Apple Watch. Apple Watch hiện là thiết bị duy nhất chạy watchOS. Hàm API được gọi là WatchKit. Tại WWDC 2015 watchOS 2 với những cải tiến lớn như hỗ trợ ứng dụng thứ ba được duyệt qua và phát hành vào mùa thu 2015.
+
+
+== Xem thêm ==
+Android Wear – Android
+
+
+== Tham khảo ==

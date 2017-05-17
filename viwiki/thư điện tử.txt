@@ -1,0 +1,97 @@
+Thư điện tử, hay email (từ chữ electronic mail), đôi khi được dịch không chính xác là điện thư, là một hệ thống chuyển nhận thư từ qua các mạng máy tính.
+Email là một phương tiện thông tin rất nhanh. Một mẫu thông tin (thư từ) có thể được gửi đi ở dạng mã hoá hay dạng thông thường và được chuyển qua các mạng máy tính đặc biệt là mạng Internet. Nó có thể chuyển mẫu thông tin từ một máy nguồn tới một hay rất nhiều máy nhận trong cùng lúc.
+Ngày nay, email chẳng những có thể truyền gửi được chữ, nó còn có thể truyền được các dạng thông tin khác như hình ảnh, âm thanh, phim, và đặc biệt các phần mềm thư điện tử kiểu mới còn có thể hiển thị các email dạng sống động tương thích với kiểu tệp HTML.
+
+Nơi cung ứng phần mềm cũng như phương tiện chuyển thư điện tử gọi là nhà cung ứng dịch vụ thư điện tử (email sevice provider).
+
+Các dịch vu thư điện tử có thể được cung ứng miễn phí hay có lệ phí tuỳ theo nhu cầu và mụch đích của ngưòi dùng. Ngày nay, email thường được cung cấp kèm với các phương tiện Internet khi người tiêu dùng ký hợp đồng với các dịch vụ Internet một cách miễn phí.
+
+
+== Đặc điểm của thư điện tử khi so sánh với bưu chính thông thường ==
+Thay vì viết thư bằng giấy mực và bút thì người gửi chỉ cần gõ chữ từ bàn phím của máy tính và biết dùng một phần mềm thư điện tử (email program).
+Lá thư được gửi trên hệ thống bưu chính là vật liệu không cần máy nhận hay máy gửi. Trong khi đó, nếu gửi thư điện tử, chỉ có các tín hiệu điện mã hoá nội dung bức thư điện tử được truyền đi đến máy nhận. Do đó, chỉ có nội dung hay cách trình bày lá thư điện tử là được bảo toàn. Trong khi đó, dùng đường bưu điện người ta có thể gửi đi các vật liệu hàm chứa thêm nội dung hay ý nghĩa khác. Điều này có thể rất quan trọng đối với nhiều người.
+Vận tốc truyền thư điện tử chỉ vài giây đến vài phút và chi phí rất nhỏ không đáng kể so với gửi qua đường bưu điện.
+Dùng thư điện tử thì bất kỳ lúc nào cũng có thể mở phần mềm thư điện tử ra đọc nên tiện lợi hơn là việc phải bỏ thư ở các thùng thư. Đồng thời, vì mỗi người dùng thư đều phải nhập mật khẩu vào máy nên thư điện tử sẽ khó bị người ở chung đọc lén so với thư gửi bưu điện. Nhưng ngược lại, các tay tin tặc xa lạ có thể xâm nhập vào hệ thống thư điện tử của cá nhân nếu như các mật mã hay các hệ thống an toàn phần mềm bị bẻ gãy.
+Khối lượng gửi và nhận thư điện tử có thể nhiều hơn thư bưu điện rất nhiều lần. Đối với các dịch vụ thư điện tử mới thì dung lượng có thể lên đến hàng Gbyte như dịch vụ của Gmail chẳng hạn, hay nhiều hơn. Số thư có thể dự trữ trong dung lượng này tương đương với vài bộ tự điển bách khoa.
+Các trường hợp thư phá hoại trên hệ thống bưu điện (như là thư có bột antrax, thư bom,...) rất hiếm có nhưng có thể gây thương vong. Ngược lại, hệ thống thư điện tử, không thể gây thương tích mà thường rất phải đương đầu với nhiều vấn nạn như virus máy tính, các thư nhũng lạm (spam mail), các thư quảng cáo (advertisement mail) và các thư khiêu dụ tình dục (pornography mail), đặc biệt là cho trẻ em, thì lại rất nhiều. Đối với các loại thư độc hại (malicious mail) này người dùng cần phải cài đặt thêm các tiện ích hay chức năng lọc (sẵn có trong phần mềm hay phải mua thêm) để giảm trừ. Tuy nhiên, một điều chắc chắn là không có công cụ phần mềm nào là tuyệt hảo.
+
+Hộp thư là nơi cất giữ các thư từ với địa chỉ hẳn hoi. Tương tự, trong hệ thống thư điện tử, thì hộp thư này tương đương với phần dữ liệu chứa nội dung các email cộng với địa chỉ của người chủ thư điện tử. Điểm khác biệt ở đây là hộp thư điện tử sẽ có nhiều chức năng hơn là việc xoá bỏ các thư cũ.
+Mỗi người có thể có một hay nhiều địa chỉ email (và phải được đăng ký qua một hệ thống nào đó). Mỗi hộp thư sẽ có một địa chỉ phân biệt không bao giờ trùng với địa chỉ email khác.
+Như vậy có thể hoàn toàn không nhầm lẫn khi dùng danh từ hộp thư điện tử hay hòm thư điện tử (email account) để chỉ một phần mềm email đã được đăng ký dùng để nhận và gửi email cho một cá nhân.
+
+
+== Cấu trúc chung của một địa chỉ email ==
+Một địa chỉ email sẽ bao gồm ba phần chính có dạng Tên_định_dạng_thêm tên_email@tên_miền
+Phần tên_định_dạng_thêm: Đây là một dạng tên để cho người đọc có thể dễ dàng nhận ra người gửi hay nơi gửi. Tuy nhiên, trong các thư điện tử người ta có thể không cần cho tên định dạng và lá thư điện tử vẫn được gửi đi đúng nơi. Ví dụ: Trong địa chỉ gửi thư tới viết dưới dạng Nguyễn Thị A nguyenthia111@yahoo.com hay viết dưới dạng nguyenthia111@yahoo.com thì phần mềm thư điện tử vẫn hoạt động chính xác và gửi đi đến đúng địa chỉ.
+
+Phần tên_miền: Đây là tên miền của nơi cung cấp dịch vụ thư điện tử. Ngay sau phần tên_email bắt đầu bằng chữ "@" nối liền sau đó là tên miền.
+
+
+== Các chức năng có thể có của một hộp thư điện tử ==
+
+Ngoài chức năng thông thường để nhận và soạn thảo email, các phần mềm thư điện tử có thể còn cung cấp thêm những chức năng khác như là:
+Lịch làm việc (calendar): người ta có thể dùng nó như là một thời khoá biểu. Trong những phần mềm mạnh, chức năng này còn giữ nhiệm vụ thông báo sự kiện đã đăng ký trong lịch làm việc trước giờ xảy ra cho người chủ hộp thư.
+Sổ địa chỉ (addresses hay contacts): dùng để ghi nhớ tất cả các địa chỉ cần thiết cho công việc hay cho cá nhân.
+Sổ tay (note book hay notes): để ghi chép, hay ghi nhớ bất kì điều gì.
+Công cụ tìm kiếm thư điện tử (find hay search mail).
+Để hiểu hết tất cả các chức năng của một phần mềm thư điện tử người dùng có thể dùng chức năng giúp đỡ (thường có thể mở chức năng này bằng cách nhấn nút <F1> bên trong phần mềm thư điện tử).
+
+
+== Những thuật ngữ thường thấy trong một phần mềm thư điện tử bằng Anh ngữ ==
+
+
+=== Các mệnh lệnh Anh ngữ để đi vào các ngăn chứa thư ===
+Đây thực ra chỉ là các ngăn chứa thư từ đã được phân loại theo tình trạng của các email cho tiện dùng. Người chủ thư có thể tự mình xếp loại các mail này hay chúng được xếp một cách tự động (do cài đặt hay do mặc định).
+Inbox có nghĩa là Hộp thư nhận hay Hộp thư vào: Đây là ngăn đựng các thư mới nhận về.
+Outbox có nghĩa là Hộp thư gửi hay Hộp thư ra: Đây là ngăn đựng các thư đang chờ được gửi đi. Thông thường, nếu hệ thống email hoạt động tốt thì các thư nằm trong hộp này chỉ trong thời gian rất ngắn (vài giây đến vài phút là tối đa). Do đó, ngăn chứa này thường là một ngăn trống.
+Draft có nghĩa là Ngăn nháp: Để chứa các email chưa hoàn tất hay đã hoàn tất nhưng chủ thư chưa muốn gửi đi.
+Trash, Trash can hay Deleted Item có nghĩa là Ngăn xóa: Còn có thể gọi là Thùng rác hay Ngăn thư đã xóa. Đây là chỗ dự phòng tạm thời chứa các email đã xóa bỏ trong một thời gian. Chức năng này tiện lợi để phục hồi hay đọc lại các thư điện tử cần thiết đã lỡ tay bị xóa.
+Sent, sent Messages hay Sent Item có nghĩa là Ngăn đã gửi: Nơi này dùng để chứa các thư đã gửi.
+Junk hay Bulk có nghĩa là Ngăn thư linh tinh: Đây là nơi chứa các mail đã được lọc và bị loại ra một cách tự động, còn được gọi là Thùng thư rác hay Ngăn chứa tạp thư. Thường thì nơi này sẽ chứa các thư quảng cáo, các thư nhũng lạm, các thư được gởi đến một số lượng lớn địa chỉ có cùng một nội dung, hay các loại thư độc hại ...
+
+
+=== Các mệnh lệnh Anh ngữ thường thấy trong một phần mềm thư điện tử ===
+New hay compose có nghĩa là Thảo thư mới: Đây là mệnh lệnh cho phép bắt đầu soạn thảo một email mới.
+Send có nghĩa là Gửi: Mệnh lệnh này sẽ tức khắc gửi thư tới các địa chỉ trong phần To, CC, và BCC.
+Save as Draft hay Save Draft có nghĩa là Lưu bản nháp: Mệnh lệnh này sẽ giúp lưu giữ lá thư đang soạn thảo và đưa vào ngăn chứa Darft để có thể dùng lại về sau.
+Attach hay Attach Files có nghĩa là Đính kèm: Đây là lệnh để người soạn email có thể gửi đính kèm theo lá thư các tập tin khác. Các tập tin này không giới hạn kiểu cấu trúc của nó, nghĩa là chúng có thể là các loại tập tin hình vẽ, phim, nhạc,... và ngay cả virus máy tính.
+
+
+=== Các thuật ngữ Anh ngữ thông dụng trong một thư điện tử ===
+To có nghĩa là Đến: Chỗ chứa địa chỉ của các người nhận.
+CC (từ chữ carbon copies) có nghĩa là Gửi kèm: Đây là chỗ chứa thêm địa chỉ gửi kèm, ngoài địa chỉ chính trong phần To bên trên. Các hộp thư nhận sẽ đọc được các địa chỉ người gửi và các địa chỉ gửi kèm này.
+BCC (từ chữ blind carbon copies) có nghĩa là Gửi kèm kín: Đây cũng là chỗ ghi các địa chỉ mà lá thư sẽ được gửi kèm tới, nhưng các địa chỉ này sẽ được dấu kín không cho những người trong phần To hay phần CC biết là có sự đính kèm đến các địa chỉ nêu trong phần BCC.
+Subject có nghĩa là Đề mục: Chỗ này thường để tóm tắt ý chính của lá thư hay chỗ ghi ngắn gọn điều quan trọng trong thư.
+
+
+== Phương thức hoạt động của một hệ thống thư điện tử ==
+
+Hoạt động của hệ thống email hiện nay có thể được minh họa qua phân tích một ví dụ như sau
+Nguyễn dùng MUA của mình để soạn một lá thư có địa chỉ người nhận là Trần với địa chỉ là Tran@b.org. Nguyễn nhấn nút Send và phần mềm thư điện tử của Nguyễn áp dụng SMTP để gửi mẫu thông tin (lá thư) đến MTA, hay máy chủ thư điện tử, của Nguyễn. Trong ví dụ thì máy chủ này là smtp.a.org được cung cấp từ dịch vụ Internet của Nguyễn.
+MTA này sẽ đọc địa chỉ chỗ nhận (tran@b.org) và dựa vào phần tên miền nó sẽ tìm hỏi địa chỉ của tên miền này, nơi có máy chủ sẽ nhận email gửi đến, qua Hệ thống Tên miền.
+Máy chủ DNS của b.org là ns.b.org sẽ trả lời về một bản ghi trao đổi thư từ, đây là bảng ghi chỉ ra cách thức làm thế nào định tuyến cho email này. Trong ví dụ thì mx.b.org là máy chủ từ dịch vụ cung ứng Internet của Trần.
+smtp.a.org gửi mẫu thông tin tới mx.b.org dùng giao thức SMTP, điều này sẽ phân phối lá thư đến hộp thư của Trần.
+Khi đọc Trần ra lệnh nhận thư trên máy (MUA) của Trần, điều này tạo ra việc lấy về mẫu thông tin bằng cách áp dụng giao thức POP3.
+Trong trường hợp Nguyễn không có MUA mà chỉ dùng Webmail chẳng hạn thì bước 1 sẽ không xảy ra tức là MTA của Nguyễn sẽ làm việc trực tiếp. Tương tự cho trường hợp Trần không có MUA riêng.
+
+
+== Các giao thức ==
+SMTP (từ chữ Simple Mail Transfer Protocol) -- hay là giao thức chuyển thư đơn giản. Đây là một giao thức lo về việc vận chuyển email giữa các máy chủ trên đường trung chuyển đến địa chỉ nhận cũng như là lo việc chuyển thư điện tử từ máy khách đến máy chủ. Hầu hết các hệ thống thư điện tử gửi thư qua Internet đều dùng giao thức này. Các mẫu thông tin có thể được lấy ra bởi một email client. Những email client này phải dùng giao thức POP hay giao thức IMAP.
+IMAP (từ chữ Internet Message Access Protocol) -- hay là giao thức truy nhập thông điệp (từ) Internet. Giao thức này cho phép truy nhập và quản lý các mẫu thông tin về từ các máy chủ. Với giao thức này người dùng email có thể đọc, tạo ra, thay đổi, hay xoá các ngăn chứa, các mẫu tin đồng thời có thể tìm kiếm các nội dung trong hộp thư mà không cần phải tải các thư về.
+Phiên bản mới nhất của IMAP là IMAP4 tương tự nhưng có nhiều chức năng hơn giao thức POP3. IMAP nguyên thuỷ được phát triển bởi đại học Standford năm 1986.
+POP (từ chữ Post Office Protocol) -- hay là giao thức phòng thư. Giao thức này được dùng để truy tìm các email từ một MTA. Hầu hết các MUA đều dùng đến giao thức POP mặc dù một số MTA cũng có thể dùng giao thức mới hơn là IMAP.
+Hiện có hai phiên bản của POP. Phiên bản đầu tiên là POP2 đã trở thành tiêu chuẩn vào thập niên 80, nó đòi hỏi phải có giao thức SMTP để gửi đi các mẫu thông tin. Phiên bản mới hơn POP3 có thể được dùng mà không cần tới SMTP.
+
+
+== Đọc thêm ==
+Lịch sử thư điện tử
+Máy tính
+Internet
+
+
+== Tham khảo ==
+
+Email: What it is and How it Works -- Heinz Tschabitscher
+Understanding Email Restrictions
+Understanding Email Services What are they and what do you need? -- Erik Kangas, President, Lux Scientiae
+Understanding Email Addresses

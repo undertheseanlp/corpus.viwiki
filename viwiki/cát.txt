@@ -1,0 +1,63 @@
+Cát là vật liệu dạng hạt nguồn gốc tự nhiên bao gồm các hạt đá và khoáng vật nhỏ và mịn. Khi được dùng như là một thuật ngữ trong lĩnh vực địa chất học, kích thước cát hạt cát theo đường kính trung bình nằm trong khoảng từ 0,0625 mm tới 2 mm (thang Wentworth sử dụng tại Hoa Kỳ) hay từ 0,05 mm tới 1 mm (thang Kachinskii sử dụng tại Nga và Việt Nam hiện nay). Một hạt vật liệu tự nhiên nếu có kích thước nằm trong các khoảng này được gọi là hạt cát. Lớp kích thước hạt nhỏ hơn kế tiếp trong địa chất học gọi là đất bùn (Mỹ) với các hạt có đường kính nhỏ hơn 0,0625 mm cho tới 0,004 mm hoặc bụi (Nga) với các hạt có đường kính nhỏ hơn 0,05 mm cho tới 0,001 mm. Lớp kích thước hạt lớn hơn kế tiếp là sỏi/cuội với đường kính hạt nằm trong khoảng từ 2 mm tới 64 mm (Mỹ) hay từ 1 tới 3 mm (Nga). Xem thêm bài kích thước hạt để biết thêm về các tiêu chuẩn được sử dụng. Khi cọ xát giữa các ngón tay thì cát tạo ra cảm giác sàn sạn (chứ không như đất bùn tạo cảm giác trơn như bột).
+
+
+== Phân loại theo kích thước ==
+Dựa trên kích thước hạt, cát được phân chia tiếp thành các lớp phụ.
+(*): đơn vị tính mm
+Các kích thước này dựa trên thang đo kích thước trầm tích Φ, trong đó kích thước tính theo Φ = -log cơ số 2 của kích thước tính bằng mm. Trong thang đo Wentworth, giá trị của Φ cho cát nằm trong khoảng từ -1 tới +4, với sự phân chia các lớp phụ nằm tại các số nguyên.
+
+
+== Thành phần ==
+
+Thành phần phổ biến nhất của cát tại các môi trường đất liền trong lục địa và các môi trường không phải duyên hải khu vực nhiệt đới là silica (điôxít silic hay SiO2), thường ở dạng thạch anh, là chất với độ trơ về mặt hóa học cũng như do có độ cứng đáng kể, nên có khả năng chống phong hóa khá tốt.
+Tuy nhiên, thành phần hợp thành của cát có sự biến động lớn, phụ thuộc vào các nguồn đá và các điều kiện khác tại khu vực. Các loại cát trắng tìm thấy ở các vùng duyên hải nhiệt đới và cận nhiệt đới là đá vôi bị xói mòn và có thể chứa các mảnh vụn từ san hô hay mai (vỏ) của động vật cùng các vật liệu hữu cơ hay có nguồn gốc hữu cơ khác. Các đụn cát thạch cao ở Di tích quốc gia White Sands tại bang New Mexico (Hoa Kỳ) nổi tiếng vì màu trắng chói của nó. Acco (arkose) là cát hay sa thạch với hàm lượng fenspat đáng kể, có nguồn gốc từ quá trình phong hóa và xói mòn của đá granit (thường là cận kề). Một vài loại cát còn chứa manhếtit, chlorit, glauconit hay thạch cao. Cát giàu manhếtit có màu từ sẫm tới đen, giống như cát có nguồn gốc từ đá bazan núi lửa và opxidian (obsidian). Cát chứa chlorit-glauconit thông thường có màu xanh lục (còn được gọi là cát lục), như cát có nguồn gốc từ bazan (dung nham) với hàm lượng olivin lớn. Nhiều loại cát, đặc biệt cát ở Nam Âu, chứa các tạp chất sắt trong các tinh thể thạch anh của cát, tạo ra cát có màu vàng sẫm. Cát trầm lắng tại một số khu vực chứa ngọc hồng lựu và một số khoáng vật có sức kháng phong hóa tốt, bao gồm một lượng nhỏ các loại đá quý.
+Cát được gió và nước vận chuyển đi và trầm lắng thành các dạng bãi biển, bãi sông, cồn cát, đụn cát, bãi cát ngầm v.v.
+
+
+== Nghiên cứu cát ==
+Nghiên cứu các hạt cát riêng lẻ có thể giúp phát hiện nhiều thông tin lịch sử như nguồn gốc và hình thức vận chuyển hạt cát. Cát thạch anh mới bị phong hóa gần đây từ các tinh thể thạch anh trong đá granit hay gơnai thường sắc nhọn và góc cạnh. Nó thường được sử dụng trong vật liệu xây dựng để sản xuất bê tông hay trong làm vườn với vai trò của vật liệu bổ sung vào đất để làm xốp các lớp đất sét. Cát bị vận chuyển đi xa nhờ gió và/hoặc nước sẽ thuôn hơn, với các kiểu mài mòn đặc trưng trên bề mặt hạt cát. Cát sa mạc thường là thuôn tròn.
+
+
+== Sử dụng ==
+
+Cát được sử dụng trong xây dựng và làm đường giao thông như là vật liệu tạo nền móng và vật liệu xây dựng trong dạng vữa (cùng vôi tôi hay xi măng).
+Một vài loại cát (như cát vàng) là một trong các thành phần chủ yếu trong sản xuất bê tông.
+Cát tạo khuôn là cát được làm ẩm bằng nước hay dầu và sau đó tạo hình thành khuôn để đúc khuôn cát. Loại cát này phải chịu được nhiệt độ và áp suất cao, đủ xốp để thoát khí và có kích thước hạt nhỏ, mịn, đồng nhất, không phản ứng với kim loại nóng chảy.
+Là một trong các thành phần chủ yếu để sản xuất thủy tinh.
+Cát đã phân loại bằng sàng lọc cũng được dùng như là một vật liệu mài mòn trong đánh bóng bề mặt bằng phun cát áp lực cao hay trong các thiết bị lọc nước.
+Các xí nghiệp sản xuất gạch ngói có thể dùng cát làm phụ gia để trộn lẫn với đất sét và các vật liệu khác trong sản xuất gạch.
+Cát đôi khi dược trộn lẫn với sơn để tạo ra bề mặt ráp cho tường và trần cũng như sàn chống trượt trong xây dựng.
+Các loại đất cát thích hợp cho một số loại cây trồng như dưa hấu, đào, lạc cũng như là vật liệu được ưa thích trong việc tạo nền móng cho các trang trại chăn nuôi bò sữa vì khả năng thoát nước tốt của nó.
+Cát được sử dụng trong việc tạo cảnh quan như tạo ra các ngọn đồi và núi nhỏ, chẳng hạn trong xây dựng các sân golf.
+Cát được dùng để cải tạo các bãi tắm.
+Các bao cát được dùng để phòng chống lũ lụt và chống đạn.
+Xây dựng lâu đài cát cũng là một hoạt động khá phổ biến. Có nhiều cuộc thi về nghệ thuật xây dựng các lâu đài cát.
+Hoạt hình cát là một kiểu nghệ thuật biểu diễn và là công cụ kỹ thuật để sản xuất phim hoạt hình.
+Các bể nuôi sinh vật cảnh đôi khi cũng dùng cát và sỏi.
+Trong giao thông đường bộ và đường sắt người ta đôi khi sử dụng cát để cải thiện khả năng bám đường của bánh xe trong một số điều kiện thời tiết khắc nghiệt.
+Cát còn dùng để chữa cháy ở một số nơi như cây xăng, trạm phòng cháy chữa cháy
+
+
+== Nguy hiểm ==
+
+Cát nói chung là không gây độc cho sức khỏe, nhưng người ta vẫn phải cẩn thận trong một số hoạt động có sử dụng cát, chẳng hạn như trong việc đánh bóng bề mặt bằng phun cát áp lực cao. Những người làm việc với cát trong hoạt động như vậy cần đeo kính bảo hộ và khẩu trang để tránh cát bắn vào mắt hay hít thở phải bụi cát. Những người bị phơi nhiễm dài hạn trước bụi silica có thể bị mắc bệnh bụi phổi, một loại bệnh phổi do hít thở phải các hạt silica mịn. Các MSDS cho silica đều thông báo rằng "hít thở quá mức silica kết tinh gây ra các e ngại nghiêm trọng về sức khỏe".[1]
+Cát thể tạo thành cát lún trong các khu vực dư thừa nước với áp suất căng lớn, do nó bị chảy nhão ra. Khi khô đi nó tạo thành các vật cản đối với các sinh vật bị nhốt trong đó, thường làm cho chúng bị chết.
+
+
+== Xem thêm ==
+Kích thước hạt
+Cát lún
+Sa thạch
+Bão cát
+Đảo cát
+Cát nhựa đường
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Beach Sand: What It Is, Where It Comes From and How It Gets Here—Beaufort County Library

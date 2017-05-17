@@ -1,0 +1,24 @@
+Duo là một ứng dụng video chat di động được phát triển bởi Google, có mặt trên cả hai nền tảng Android và iOS. Nó được ra mắt tại Google I/O vào ngày 18 tháng 5 năm 2016 cùng với Allo, một ứng dụng nhắn tin tức thời. Duo được phát hành tại Hoa Kỳ vào ngày 16 tháng 8 năm 2016, và được phát hành toàn cầu vài ngày sau đó. Duo nhanh chóng trở thành ứng dụng miễn phí số một trên Google Play sau hai ngày đầu được phát hành.
+
+
+== Tính năng ==
+Các tính năng của ứng dụng bao gồm:
+Video HD 720p
+Tối ưu hóa cho mạng di động băng thông thấp. Ứng dụng tối ưu WebRTC và sử dụng QUIC qua UDP, đồng thời tối ưu hơn nữa bằng việc giảm chất lượng video dựa vào chất lượng mạng.
+"Knock Knock" – một tính năng chỉ dành cho Android sẽ hiển thị một hình xem trước trực tiếp của người gọi trước khi người nhận nghe máy, mà theo Google là để "khiến các cuộc gọi giống như là một lời mời hơn là một sự ngắt quãng"
+Mã hóa đầu-cuối được kích hoạt theo mặc định
+Hỗ trợ Google Assistant.
+Sử dụng số điện thoại để người dùng dàng gọi dễ dàng gọi mọi người trong danh bạ
+Tự động chuyển giữa WiFi và dữ liệu di động
+
+
+== Xem thêm ==
+Google Allo
+Google Hangouts
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Website chính thức

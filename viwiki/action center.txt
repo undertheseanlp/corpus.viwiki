@@ -1,0 +1,15 @@
+Action Center là một trung tâm thông báo được đi kèm với Windows Phone 8.1, Windows 10 và Windows 10 Mobile. Nó được giới thiệu lần đầu với Windows Phone 8.1 vào tháng 7 năm 2014, và được xuất hiện trên các máy tính cá nhân với phiên bản Windows 10 vào ngày 29 tháng 7 năm 2015.
+Action Center thay thế thanh charms trong Windows 10.
+
+
+== Tính năng ==
+Action Center cho phép gắn tới bốn nút cài đặt nhanh, và người dùng Windows 10 có thể mở rộng để xem tất cả các nút cài đặt nhanh còn lại. Các thông báo được sắp xếp vào các thể loại bởi ứng dụng, và người dùng có thể trượt sang phải để xóa thông báo. Action Center cũng hỗ trợ các thông báo tương tác hành động với Windows 10. Trong phiên bản cho di động, người dùng có thể trượt từ cạnh trên màn hình xuống để mở Action Center, và các tính năng khác được giới thiệu trong Windows Phone 8.1 bao gồm khả năng thay đổi các cài đặt đơn giản như âm lượng. Thiết kế mới của khu vực thông báo cho phép người dùng thực hiện các tác vụ như thay đổi mạng không dây, bật/tắt Bluetooth và Chế độ máy bay, và truy cập "Chế độ lái xe", tất cả từ bốn hộp cài đặt có thể tùy chỉnh ở phía trên màn hình, trong khi bên dưới bốn hộp được sắp xếp theo chiều ngang này bao gồm các tin nhắn văn bản và thông báo từ các mạng xã hội. Trên phiên bản desktop, người dùng có thể mở Action Center bằng cách nhấn vào biểu tượng của nó trên thanh tác vụ, hoặc trượt từ phía bên phải màn hình sang.
+Microsoft thông báo tại Microsoft Build 2016 rằng Cortana sẽ có thể đồng bộ các thông báo giữa các Actions Center của Windows 10 Mobile và Windows 10, và Cortana cũng sẽ có thể đồng bộ thông báo từ các thiết bị Android tới Action Center của Windows 10.
+
+
+== Xem thêm ==
+Notification Center (iOS và OS X)
+Notification Service
+
+
+== Tham khảo ==

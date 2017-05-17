@@ -1,0 +1,39 @@
+Flappy Bird (tạm dịch là "chú chim vỗ cánh") là một trò chơi điện tử trên điện thoại do Nguyễn Hà Đông, một developer ở Hà Nội, Việt Nam phát triển, và do dotGEARS, một studio phát triển game quy mô nhỏ, hoạt động độc lập có trụ sở tại Việt Nam phát hành vào năm 2013. Trò chơi được trình bày theo phong cách side-scroller (phong cách game với các đối tượng được nhìn thấy ở mặt bên (side-view) và di chuyển từ cạnh trái sang cạnh phải của màn hình), trong đó người chơi điều khiển một chú chim, cố gắng vượt qua các hàng ống màu xanh lá cây mà không chạm vào chúng. Nguyễn Hà Đông tạo ra Flappy Bird trong vòng một vài ngày, sử dụng một nhân vật chú chim mà anh đã thiết kế cho một dự án trò chơi bị hủy bỏ vào năm 2012.
+Ban đầu, Flappy Bird được phát hành vào tháng 5 năm 2013 trên nền iOS5, sau đó nâng cấp cho hệ máy iOS6 và mới hơn vào tháng 9 năm 2013. Vào tháng 1 năm 2014, trò chơi bất ngờ trở nên nổi tiếng, đứng đầu bảng thể loạt miễn phí trên iTunes App Store của Mỹ và Trung Quốc và sau đó là trên UK App Store khi nó được mệnh danh là "trò Angry Birds mới". Vào cuối tháng 1, Flappy Bird là ứng dụng được tải về nhiều nhất trên App Store cũng như trên Google Play
+Flappy Bird đã bị chỉ trích về mức độ khó của trò chơi, cũng như các cáo buộc về sao chép hình ảnh, âm thanh cũng như cách vận hành của một số trò chơi khác, cũng như tính gây nghiện của trò chơi này. Việc Flappy Bird bỗng nhiên nhảy vọt từ vị trí 1454 lên số 1 vào đầu năm 2014 chỉ trong vòng 26 ngày cũng gây nghi ngờ.
+Flappy Bird đã bị gỡ xuống trên App Store và Google Play bởi tác giả của nó vào ngày 10 tháng 2 năm 2014, do những tội lỗi của nó - mà như tác giả cảm thấy - là gây nghiện và bị lạm dụng quá mức. Độ nổi tiếng và việc gỡ xuống đột ngột của trò chơi khiến cộng đồng sôi sục, thậm chí những chiếc điện thoại đã cài sẵn Flappy Bird được rao bán trên mạng Internet với giá cao Các trò chơi tương tự Flappy Bird trở nên nổi tiếng trên iTunes App Store sau khi trò chơi này bị gỡ bỏ, và cả Apple và Google đã gỡ bỏ những trò chơi từ chợ ứng dụng vì lý do quá giống với nguyên tác. Trò chơi cũng đã được phân phối thông qua các kênh không chính thức trên nhiều nền tảng.
+Tháng 8 năm 2014, một phiên bản chỉnh sửa của Flappy Bird mang tên Flappy Birds Family được phát hành độc quyển cho Amazon Fire TV. Bay Tek Games cũng cho ra mắt một phiên bản trò chơi hành động Flappy Bird thanh toán bằng tiền xu.
+
+
+== Mục tiêu ==
+Mục tiêu của trò chơi là điều khiển một chú chim bay qua những cái ống. Nếu chú chim chạm vào chướng ngại vật thì trò chơi sẽ kết thúc. Mỗi khi chú chim vượt qua một cặp ống thì người chơi nhận được một điểm. Nó sử dụng đồ họa tương tự như Super Mario Bros., với một hệ thống điều khiển vô cùng đơn giản.
+
+
+== Đón nhận ==
+Huffington Post gọi ứng dụng này là "một trò chơi điên rồ, khó chịu, khó nhằn và gây bực bội khi kết hợp một đường cong khó siêu dốc với đồ họa nhàm chán, xấu xí và chuyển động giật". Tuy nhiên, một đánh giá tích cực hơn đến từ Jenifer Whiteside của Amongtech.com, cho rằng nó có thể che mờ đi Candy Crush Saga như là một tựa game phổ biến nhất 2014 vì tính gây nghiện của nó.
+Độ khó của trò chơi thường gây ra sự tức giận cho người chơi, một trong số đó tuyên bố anh ta đã mất đến nữa giờ để giành được năm điểm. Phiên bản trên Android dễ chơi hơn một chút so với phiên bản trên iOS, theo người sáng tạo ra trò chơi. Flappy Bird cũng được mệnh danh là "Ma túy trên App Store".
+IGN cho trò chơi này 5.4 điểm trên 10, cho rằng tuy nó gây nghiện nhưng cũng nông cạn, cực kỳ đơn điệu, thiếu sáng tạo, không có sự tiến triển, và chỉ là thứ để giết thời gian. Khung cảnh trong trò chơi được cho là giống Super Mario, còn nhân vật chính thì giống con cá một mắt hơn là chim. Người đánh giá Vince Ingenito cho rằng Flappy Bird có thể hút hồn người chơi, hoặc khiến họ nhấn lên màn hình vài cái rồi xóa đi trong vòng 2 phút. Một số người dùng IGN đã lên tiếng phản đối bài đánh giá của Vince Ingenito, bình luận rằng IGN không nên phí thời gian viết bài đánh giá "thứ rác rưởi" này.
+Theo đánh giá của Patrick O'Rourke, biên tập viên chuyên về công nghệ và các trò chơi của Canada.com thì Flappy Bird là một trò chơi tồi tệ và thuộc loại dở nhất mà anh ta từng chơi.
+
+
+== Tranh cãi ==
+The Daily Telegraph đặt dấu hỏi về sự nổi tiếng bất thường của trò chơi, khi mà nó chẳng được chú ý gì trong nhiều tháng sau khi phát hành vào tháng 5 năm 2013, nhưng đến tháng 1 năm 2014 lại đột ngột nhảy từ vị trí số 1454 trong bảng (thống kê của GB Family) lên số 1 chỉ trong vòng 26 ngày (1 tháng 1 đến 27 tháng 1). Tờ Telegraph nghi ngờ tác giả đã tự tạo những lượt truy cập giả nhằm đẩy trò chơi của mình lên vị trí cao hơn trên bảng xếp hạng của các cửa hàng phần mềm. Nguyễn Hà Đông đã từ chối không bình luận về vấn đề này khi được hỏi.
+Kotaku nhấn mạnh rằng chẳng có gì trong trò chơi này là nguyên bản, và cáo buộc Flappy Bird đã nhái Super Mario từ cảnh vật trong trò chơi, những ống cống màu xanh, đến tạo hình con chim.
+Biên tập viên Patrick O'Rourke của Canada.com cáo buộc Flappy Bird đã bắt chước gần như giống hệt trò chơi tên Piou Piou vs. Cactus (được phát hành cho iOS và Android vào năm 2011). Một số trang tin của Pháp như 20 Minutes, Metronews cũng nghi ngờ Flappy Bird là "hàng nhái" bởi nó "giống đến mức kỳ lạ" Piou Piou vs. Cactus từ cách chơi (gõ gõ vào màn hình) đến tạo hình con chim (màu vàng với cái mỏ to màu đỏ), và các chướng ngại (màu xanh lá).
+Kek, tác giả người Pháp của trò chơi Piou Piou vs. Cactus cũng đã lên tiếng về sự tương đồng quá lớn giữa hai trò chơi (Flappy Bird ra đời sau Piou Piou vs. Cactus khoảng 2 năm). Khi Kek liên hệ với Nguyễn Hà Đông thì Đông nói rằng "không hề biết gì về Piou Piou vs. Cactus". Pocket Gamer cho rằng có lẽ đủ chứng cứ để khẳng định Flappy Bird là game nhái, nhưng Kek nói anh ta sẽ không kiện ra tòa mà sẽ dùng số tiền và thời gian đi thưa kiện để đầu tư làm game mới thì hơn.
+
+
+== Bị "khai tử" ==
+Vào lúc 2:09 sáng ngày 9 tháng 2 năm 2014, giờ Việt Nam, Nguyễn Hà Đông tuyên bố trên tài khoản Twitter của mình là "trong 22 tiếng tới, tôi sẽ gỡ trò 'Flappy Bird' xuống. Tôi không thể chịu đựng nổi nữa." Trước đó Đông đã viết "Flappy Bird là một thành công của tôi. Nhưng nó cũng đã phá hoại cuộc sống đơn giản của tôi. Thế nên giờ đây, tôi rất ghét nó."
+Ngày 10/2/2014, Dong Nguyen gỡ Flappy Bird.
+Sau đó, Kotaku có bài xin lỗi cha đẻ Flappy Bird.
+Trong một lá thư gửi cho tờ Wall Street Journal, người phát ngôn Yasuhiro Minagawa của Nintendo nhấn mạnh rằng hãng không có lời than phiền nào liên quan đến game Flappy Bird.
+Ông nói: “Mặc dù chúng tôi thường không bình luận gì về tin đồn và những nghi vấn, nhưng chúng tôi đã bác bỏ nghi ngờ này.” Trước đây có những thông tin không xác thực nói rằng Nintendo đang muốn kiện Flappy Bird vì sử dụng những hình ảnh tương tự như trò chơi nổi tiếng Super Mario Bros, và đó cũng là một trong những lý do khiến tác giả Nguyễn Hà Đông quyết định gỡ bỏ Flappy Bird ra khỏi các kho ứng dụng App Store cũng như Google Play.
+Trong những dòng tweet, Đông chia sẻ rằng trò chơi này bị gỡ đơn giản là do nó “làm hỏng cuộc đời đơn giản” của anh và những áp lực từ báo chí, không phải vì vấn đề pháp lý hay bản quyền. Tuy nhiên theo dư luận đánh giá anh còn bị áp lực từ chính sự than phiền của phụ huynh game thủ, game khiến người chơi dễ nóng giận, ức chế đập phá máy và đồ đạc - Tạo ra game là giúp người chơi thư giãn bớt căng thẳng nhưng game này lại đem lại tiêu cực cho xã hội và cuộc sống của anh. Tuy nhiên không thể không công nhận trò chơi của anh đã tạo cảm hứng cho rất nhiều studio game độc lập phát triển mạnh mẽ sau khi thấy được sự thành công vang dội và khoản thu nhập khổng lồ do game đem lại. Hà Đông cũng khẳng định không bán game của mình cho bất kì công ty nào.
+
+
+== Khởi động lại ==
+Trong một cuộc phỏng vấn mới đây với tờ Rolling Stone, Nguyễn Hà Đông cho biết anh đang cân nhắc đến việc đưa Flappy Bird trở lại.
+
+
+== Chú thích ==

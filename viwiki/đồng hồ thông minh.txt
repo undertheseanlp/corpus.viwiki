@@ -1,0 +1,61 @@
+Đồng hồ thông minh hay còn gọi là smartwatch là đồng hồ đeo tay vi tính hóa với chức năng như tăng cường thời gian duy trì và thường được so sánh với thiết bị kỹ thuật số cá nhân (PDA). Trong khi những phiên bản đầu tiên có thể thực hiện những công việc cơ bản như tính toán, dịch hay chơi trò chơi thì đồng hồ thông minh hiện đại là một chiếc "máy tính đeo tay" hiệu quả. Rất nhiều đồng hồ thông minh chạy các ứng dụng điện thoại di động, trong khi đó một số lượng nhỏ chạy hệ điều hành của điện thoại di động hoạt động như các máy nghe nhạc hiện đại, cung cấp khả năng nghe đài, nghe nhạc và thu hình các tập tin cho người dùng thông qua một tai nghe Bluetooth. Một số dòng đồng hồ thông minh, còn được gọi là điện thoại đồng hồ, trang bị đầy đủ tính năng điện thoại di động có thể thực hiện hoặc trả lời các cuộc gọi điện thoại.
+Đồng hồ thông minh có thể bao gồm các tính năng như một máy ảnh, dụng cụ đo gia tốc, nhiệt kế, máy đo độ cao, thước đo, la bàn, đồng hồ bấm giờ, máy tính, điện thoại di động, màn hình cảm ứng, định vị GPS, bản đồ, đồ họa, loa, lịch, đồng hồ, SDcard, đồng hồ thông minh được công nhận là một thiết bị lưu trữ bằng máy tính và có chức năng sạc pin. Đồng hồ thông minh có thể được điều khiển thông qua tai nghe không dây, màn hình điều khiển, tia hồng ngoại, tai nghe, bộ điều biến, hoặc các thiết bị khác.
+Một số loại đồng hồ thông minh có chức năng "đồng hồ thể thao" với các tính năng theo dõi hoạt động như trong đồng hồ GPS (loại đồng hồ thể thao đặc biệt được thiết kế cho một loại thể thao) với môn lặn, thể thao ngoài trời. Chức năng có thể bao gồm các chương trình đào tạo (khoảng thời gian), thời gian một vòng, hiển thị tốc độ, đơn vị GPS theo dõi, thời gian lặn, theo dõi nhịp tim, khả năng tương thích cảm biến Cadence, và khả năng tương thích với các chuyển động thể dục thể thao.
+Giống như các loại máy tính khác, một chiếc đồng hồ thông minh có thể thu thập thông tin từ các cảm biến bên trong hoặc bên ngoài. Nó có thể kiểm soát, hoặc lấy dữ liệu từ dụng cụ hoặc các máy tính khác. Nó có thể hỗ trợ công nghệ không dây như Bluetooth, Wi-Fi và GPS.
+
+
+== Lịch sử ==
+
+
+=== Những năm đầu ===
+Chiếc đồng hồ kỹ thuật số đầu tiên Pulsar ra mắt vào năm 1972 được sản xuất bởi Hamilton Watch Company. Thương hiệu "Pulsar" được mua lại bởi Seiko năm 1978. Năm 1982, đồng hồ Pulsar (NL C01) được phát hành có thể lưu trữ 24 số, đây là chiếc đồng hồ đầu tiên với bộ nhớ có thể lập trình. Với sự ra đời của máy tính cá nhân vào những năm 1980, Seiko bắt đầu phát triển đồng hồ với khả năng tính toán. Đồng hồ Data 2.000 đi kèm với một bàn phím bên ngoài để nhập dữ liệu. Dữ liệu được đồng bộ hóa từ bàn phím đến đồng hồ thông qua khớp nối điện từ (nối không dây). Cái tên bắt nguồn từ khả năng lưu trữ 2000 ký tự. D409 là dòng Seiko đầu tiên với khả năng nhập dữ liệu trên bề mặt (thông qua một bàn phím nhỏ) và màn hình ma trận điểm. Bộ nhớ nhỏ với 112 chữ số. Được phát hành lần đầu vào năm 1984 với màu vàng, màu bạc và màu đen. Những mô hình này được tiếp nối bởi nhiều người khác trong những năm 1980, đáng chú ý nhất là "RC Series":
+Trong những năm 1980, Casio đã bắt đầu thành công khi đưa ra thị trường dòng sản phẩm "đồng hồ máy tính", khi thêm vào khả năng tính toán. Đáng chú ý nhất là ngân hàng hệ thống dữ liệu Casio. Tân phẩm "đồng hồ trò chơi", chẳng hạn như đồng hồ trò chơi Nelsonic, cũng đã được sản xuất bởi Casio và các công ty khác.
+
+
+=== Dòng Seiko RC ===
+RC-1000 Wrist Terminal là mô hình Seiko đầu tiên giao tiếp được với một máy tính và được phát hành vào năm 1984. Nó tương thích với hầu hết các máy tính cá nhân phổ biến của thời gian đó, bao gồm cả Apple II, II + và IIe, Commodore 64, máy tính IBM, NEC 8201, máy tính màu Tandy, Model 1000, 1200, 2000 và TRS-80 Model I, III, 4 và 4p.
+RC-20 Wrist Computer được phát hành vào năm 1985 dưới tên thương hiệu chung "Seiko Epson". Nó có bộ vi xử lý SMC84C00 8-bit Z-80; 8 KB ROM và 2 KB bộ nhớ RAM. Ứng dụng cho lập kế hoạch, ghi nhớ, thời gian trên thế giới và 4 tính năng của máy tính(cộng, trừ, nhân, chia). Màn hình đa tiết điểm LCD hiển thị 42 × 32 điểm ảnh, và quan trọng hơn là màn hình cảm ứng. Giống như RC-1000, nó có thể được kết nối với một máy tính cá nhân thông qua dây cáp phù hợp. Điểm đáng chú ý ở chỗ nó có thể được lập trình, mặc dù màn hình nhỏ và lưu trữ có hạn đã hạn chế nghiêm trọng phát triển ứng dụng của nó.
+Biểu đồ RC-4000  Data phát hành vào năm 1985, được mệnh danh là "thiết bị đầu cuối máy tính nhỏ nhất thế giới". Nó có 2 KB dung lượng lưu trữ. RC-4500 (1985), còn được gọi là Wrist Mac, có các tính năng giống như RC-4000, nhưng sáng hơn, màu sắc sặc sỡ hơn.
+
+
+=== Đồng hồ Linux ===
+Đồng hồ thông minh Linux đầu tiên được trình bày tại IEEE ISSCC2000, 07 tháng 2 năm 2000, Steve Mann đã được đặt tên là "cha đẻ của máy tính có thể đeo". Đồng hồ thông minh Linux cũng xuất hiện trên trang bìa và bài viết chính của trang LJ Issue 75.
+Tháng 6 năm 2000, IBM trưng bày mẫu thử nghiệm đồng hồ đeo tay chạy Linux. Phiên bản ban đầu chỉ pin chỉ có 6 tiếng, mà sau này được mở rộng đến 12 tiếng. Nó gồm 8MB bộ nhớ và chạy Linux 2.2. Thiết bị này sau đó đã được nâng cấp với dụng cụ đo gia tốc, cơ cấu rung, vân tay cảm ứng. IBM bắt đầu cộng tác với Citizen Watch Co để tạo ra các "WatchPad". Các tính năng WatchPad 1,5 là 320 × 240 màn hình QVGA và chạy Linux 2.4. Nó cũng có phần mềm lịch, Bluetooth, 8 MB RAM và 16 MB bộ nhớ flash. Citizen hy vọng tiếp thị đến sinh viên và doanh nhân, với giá bán lẻ khoảng 399 USD. Tuy nhiên, dự án này đã bị dừng lại vào khoảng năm 2001-2002.
+
+
+=== 2003 ===
+
+Công ty đồng hồ Fossil, Inc. phát hành Fossil Wrist PDA chạy Palm OS.
+
+
+=== 2004 ===
+Microsoft phát hành đồng hồ thông minh SPOT. SPOT là viết tắt của Smart Personal Objects Technology, một sáng kiến ​​của Microsoft để cá nhân hoá các thiết bị điện tử gia dụng và các thiết bị khác. Chiếc đồng hồ này được kỳ vọng có thể cung cấp thông tin trong nháy mắt, nơi các thiết bị khác sẽ phải cần nhúng và thao tác nhiều hơn. SPOT Watch có độ phân giải đơn sắc 90 × 126 điểm ảnh màn hình.
+
+
+=== 2013 ===
+Thiết bị phân tích người dùng Avi Greengart, từ công ty nghiên cứu Current Analysis, cho rằng năm 2013 có thể là "năm của đồng hồ thông minh", "thiết bị đủ nhỏ và đủ rẻ" và nhiều người tiêu dùng sở hữu điện thoại thông minh muốn tương thích với thiết bị đeo. Google Glass một dạng công nghệ đeo, có thể phát triển thành một ngành kinh doanh trị giá 6 tỷ USD hàng năm và theo các báo cáo của truyền thông tháng 7 năm 2013 cho thấy rằng phần lớn nhà sản xuất thiết bị điện tử  lớn đã đánh giá thấp công dụng đồng hồ thông minh tại thời điểm công bố. Giá bán lẻ của một chiếc đồng hồ thông minh có thể là hơn 300 USD, cộng thêm chi phí dữ liệu, trong khi chi phí tối thiểu của các thiết bị điện thoại thông minh liên kết có thể là 100USD.
+Tính đến 05 tháng 7 năm 2013, danh sách các công ty được tham gia vào các hoạt động phát triển đồng hồ thông minh bao gồm Acer, Apple, BlackBerry, Foxconn / Hon Hai, Google, LG, Microsoft, Qualcomm, Samsung, Sony và Toshiba. Một số thiếu sót đáng chú ý trong danh sách này bao gồm HP, HTC, Lenovo, và Nokia. Nhà báo khoa học và công nghệ Christopher Mims xác định các điểm sau đây liên quan đến tương lai của smartwatches:
+Kích thước vật lý của đồng hồ thông minh có thể sẽ lớn.
+Tuổi thọ pin không đủ là một vấn đề đang diễn ra cho các nhà phát triển đồng hồ thông minh. Tuổi thọ pin của thiết bị tại thời điểm công bố là 3-4 ngày và tuổi thọ sẽ giảm bớt nếu chức năng được bổ sung thêm.
+Công nghệ màn hình mới sẽ được phát minh là kết quả của nghiên cứu về đồng hồ thông minh.
+Mức độ thành công của đồng hồ thông minh là không thể đoán trước.
+S.T. của Acer Liew cho biết trong một cuộc phỏng vấn với trang web tiện ích Anh Pocket-Lint, "... Tôi nghĩ rằng tất cả các công ty tiêu dùng nên nhìn vào thiết bị đeo. Thiết bị đeo không phải là mới... nó chỉ đã không phát nổ theo cách mà nó cần. Nhưng cơ hội của hàng tỷ đô la xứng đáng cho ngành công nghiệp".
+Tính đến 04 tháng 9 năm 2013, ba loại đồng hồ thông minh mới đã được đưa ra: Samsung Galaxy Gear, Sony SmartWatch 2, và Qualcomm Toq PHTL.
+Trong một cuộc phỏng vấn tháng 9 năm 2013, người sáng lập Pebble, Eric Migicovsky nói rằng công ty của ông không quan tâm đến bất kỳ sự chào hàng nào nhưng tiết lộ trong một cuộc phỏng vấn tháng 11 năm 2013 rằng công ty của ông đã bán được 190.000 mô hình đồng hồ thông minh, phần lớn trong số đó đã được bán sau chiến dịch Kickstarter.
+
+
+== So sánh phần cứng đồng hồ thông minh ==
+
+
+== Danh sách đồng hồ thông minh đã sản xuất ==
+
+
+== So sánh đồng hồ thông minh ==
+
+
+== Xem thêm ==
+Moto 360
+Samsung Gear S
+
+
+== Tham khảo ==

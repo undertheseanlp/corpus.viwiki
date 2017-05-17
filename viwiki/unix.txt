@@ -1,0 +1,79 @@
+Unix hay UNIX là một hệ điều hành máy tính viết vào những năm 1960 và 1970 do một số nhân viên của công ty AT&T Bell Labs bao gồm Ken Thompson, Dennis Ritchie và Douglas McIlroy. Từ góc nhìn người dùng chuyên nghiệp và lập trình viên, hệ thống Unix có đặc điểm là thiết kế theo module, đôi khi còn được gọi là triết lý Unix, nghĩa là hệ điều hành cung cấp một tập hợp các công cụ đơn giản, và mỗi công cụ chỉ thực hiện những chức năng giới hạn và được định nghĩa rõ ràng, với hệ thống file hợp nhất là phương tiện chính để giao tiếp và phần lập trình vỏ và ngôn ngữ lệnh kết hợp các công cụ để thực hiện các chức năng phức tạp.
+Ngày nay hệ điều hành Unix được phân ra thành nhiều nhánh khác nhau, nhánh của AT&T, nhánh của một số nhà phân phối thương mại và nhánh của những tổ chức phi lợi nhuận.
+Unix có thể chạy trên nhiều loại máy tính khác nhau, từ những máy tính cá nhân cho đến các máy chủ dịch vụ. Nó là một hệ điều hành đa nhiệm (có thể cùng lúc thực hiện nhiều nhiệm vụ) hỗ trợ một cách lý tưởng đối với các ứng dụng nhiều người dùng. Unix được viết bằng ngôn ngữ lập trình C, một ngôn ngữ rất mạnh và mềm dẻo. Unix hỗ trợ các ứng dụng mạng và hỗ trợ nhiều môi trường lập trình khác nhau. Với hàng trăm lệnh và một số lượng rất lớn các tùy chọn, Unix thực sự là một khó khăn đối với người mới bắt đầu. Với sự phát triển của các shell Unix hệ điều hành này đã trở nên phổ dụng hơn trong lĩnh vực điện toán.
+Vì Bell Laboratories bị cấm không cho phép tiếp thị Unix vì lệnh chống độc quyền đối với AT&T nên Unix đã được cung cấp miễn phí cho các trường đại học trên toàn Bắc Mỹ từ năm 1976. Năm 1979 Đại học California tại Berkeley đã xây dựng một phiên bản của Unix dùng cho các máy tính VAX. Sau khi đã được ưa thích trong các lĩnh vực công nghệ, AT&T đã giành được quyền tiếp thị đối với Unix và đã cho ra đời System V vào năm 1983. Cho đên nay Unix vẫn được sử dụng rất rộng rãi trong thị trường dành cho máy chủ. Đã có nhiều phiên bản phát triển khác nhau, trong đó có Linux.
+Unix là một trong những hệ điều hành 64 bit đầu tiên. Hiện nay Unix được sử dụng bởi nhiều công ty tập đoàn lớn trên thế giới vì mức độ bảo mật của nó tương đối cao.
+
+
+== Lịch sử ==
+UNIX bắt nguồn từ một đề án nghiên cứu trong Bell Labs của AT&T vào năm 1969. Lúc đó Ken Thomson, Dennis Ritchie và những người khác nữa làm ra trên máy PDP-7 một thứ mà bây giờ gọi là UNIX. Chữ UNIX ban đầu viết là Unics là một kiểu chơi chữ của các tác giả khi so sánh sản phẩm của họ với hệ điều hành Multics lúc bấy giờ. Unics là chữ viết tắt của Uniplexed Information and Computing System.
+Trong 10 năm đầu, việc phát triển UNIX giới hạn bên trong Bell Labs là chính. Những phiên bản trong thời gian này được gọi là Version n (Vn) và được chạy trên PDP-11 (16-bit) rồi kế đó là VAX (32-bit).
+Năm 1973, V4 được viết bằng C. Đây là sự kiện đáng chú ý nhất trong lịch sử hệ điều hành này vì nó làm cho UNIX có thể được chuyển sang các phần cứng mới trong vòng vài tháng.
+Năm 1976, V6 được phát miễn phí cho các trường đại học.
+Năm 1979, V7 được phát hành rộng rãi với giá $100 cho các trường đại học và $21,000 cho những thành phần khác. V7 là phiên bản căn bản cho các phiên bản sau này của UNIX.
+Sau khi phát hành V7, AT&T lập ra UNIX Support Group (USG) để khai thác UNIX như là một sản phẩm thương mại. Sau này USG đổi thành UNIX System Laboratories (USL). Bell Labs và USL cùng tiếp tục phát triển UNIX. Các phiên bản System III và System V của USL được phát hành rộng rãi và gây ảnh hưởng chính đến các hệ thống sau này. Trong khi đó đóng góp của Bell Labs là các công cụ phát triển như SCCS, và named pipes.
+
+
+=== BSD ===
+Từ năm 1977, Computer Systems Research Group (CSRG) của trường đại học California, Berkeley được quyền sử dụng code của UNIX để phát triển ra nhãn hiệu UNIX khác là BSD (Berkeley Software Distribution). BSD phát triển từ version 1 đến version cuối cùng 4.4 năm 1992.
+Khi AT&T bắt đầu khai thác UNIX như sản phẩm thương mại thì tiền bản quyền UNIX tăng lên nhanh chóng làm cho Berkeley phải đặt kế hoạch thay mã nguồn của AT&T bằng mã riêng. Việc này tốn rất nhiều thời gian và không kịp hoàn thành khi Berkeley bị ngưng tài trợ nghiên cứu hệ điều hành, CSRG giải tán.
+BSD UNIX và AT&T UNIX là hai dòng chính của UNIX. BSD giúp cho UNIX trở nên phổ biến và có nhiều đóng góp về mặt kỹ thuật như: csh, termcap, curses, vi, TCP/IP socket, long file name, symbolic link.
+
+
+=== Các hãng phát triển khác ===
+Workstation: Trong thập niên 1980, các hãng khác (chủ yếu là các hãng chế tạo workstation) cũng thực hiện các UNIX của riêng họ dựa vào bản quyền của AT&T. Đó là Sun với SunOS, DEC với Ultrix, HP với HP-UX, IBM với AIX, Silicon Graphics với IRIX, Microsoft với Xenix, SCO với SCO-Xenix, SCO-UNIX. Năm 1985, Sun giới thiệu NFS.
+Free UNIX: Ngoài ra còn có những bản UNIX không cần license chạy trên PC, trong đó thường gặp nhất là Linux. Linux nguyên thủy được viết bởi Linus Torvalds ở Helsinki, bây giờ được phát triển tiếp bởi một cộng đồng rất đông.
+Một bản UNIX free khác là FreeBSD, bắt nguồn từ BSD.
+Các version khác nhau của UNIX làm cho UNIX trở nên không thống nhất. Do đó, các tiêu chuẩn được hình thành để phần nào chuẩn hoá UNIX. Các tiêu chuẩn đó thường là do một nhóm các hãng liên minh lại đặt ra, ví dụ OSF, X/Open. IEEE đưa ra POSIX (Portable Operating System Interface). Sau khi tham gia OSF, DEC ngừng phát triển Ultrix, chỉ làm ra UNIX theo tiêu chuẩn OSF/1 của OSF.
+Năm 1992, AT&T bán quyền khai thác UNIX cho Novell. Novell được quyền thu tiền bản quyền trên mỗi bản UNIX của các hãng khác bán ra. Novell phát hành sản phẩm UNIX tên là UnixWare. Cuối năm 1993, Novell nhường quyền khai thác nhãn hiệu UNIX lại cho X/Open. UnixWare được bán lại cho SCO.
+
+
+== Thiết kế ==
+Lịch sử phát triển gắn chặt với ngôn ngữ C. Ngôn ngữ C được thiết kế cho UNIX và được thực hiện đầu tiên trên UNIX. Hầu hết các chương trình ứng dụng trên UNIX được viết bằng C.
+
+
+=== Multiplatform ===
+Đặc tính multiplatform có từ rất sớm, gần như từ đầu. Được thực hiện trên hầu hết các máy từ 16-bit đến 64-bit.
+
+
+=== 64-bit ===
+Mặc dù hầu hết các processor mới ngày nay có hoặc sẽ có kiến trúc 64-bit, các hệ điều hành lại chậm chân hơn. Một trong những lý do là chưa có nhiều chương trình ứng dụng đòi hỏi khả năng 64-bit. Xu hướng hiện nay của các hệ điều hành nói chung, trong đó có UNIX là cung cấp khả nâng 64-bit để nâng cao thành tích của các chương trình ứng dụng.
+Khả năng 64-bit gồm có:
+File system lớn hơn hạn chế 4GB của 32-bit. Trong khía cạnh này sự thay đổi từ 32-bit lên 64-bit không lớn đối với hệ điều hành và chương trình ứng dụng.
+File lớn: Thay đổi này ảnh hưởng đáng kể đến ứng dụng vì vấn đề tương thích binary code.
+64-bit networking: NFS version 3 dùng số 64-bit để chỉ kích thước file. Kích thước file có thể lên đến 263-1 bytes và truy xuất file với offset 64-bit.
+Bộ nhớ vật lý: Hệ điều hành quản lý được hơn 4GB bộ nhớ vật lý, đem lại lợi ích khi nhiều ứng dụng chạy cùng lúc cần nhiều hơn 4GB bộ nhớ (mỗi ứng dụng không dùng quá 4GB) và kích thước bộ nhớ vật lý thật sự lớn hơn 4GB. Lợi ích đó là hệ điều hành không phải swap memory.
+Bộ nhớ ảo: Cho phép mỗi ứng dụng truy xuất hơn 4GB bộ nhớ ảo. Chức năng này sẽ tăng thành tích cho các ứng dụng cần dữ liệu lớn hơn 2-4GB.
+Trong tương lai việc định địa chỉ 64-bit có thể dùng để tạo ra một mô hình bộ nhớ phẳng trải ra trên nhiều máy trong mạng (cluster), như vậy việc phát triển các ứng dụng phân tán sẽ đơn giản hơn.
+
+
+=== Symmetrical multi processor và cluster ===
+Hầu hết các hãng làm UNIX đều cung cấp khả năng multi processor và những thread của cùng một ứng dụng có thể thực hiện đồng thời trên những processor khác nhau. Những hệ điều hành UNIX có thể làm việc có hiệu quả đến vài chục processor.
+
+
+=== Quản lý đĩa cứng ===
+Các khả năng dưới đây mới có trên một số UNIX:
+Tự động khôi phục dữ liệu trong file system sau khi có sự cố: Journaled File System.
+Tự động di chuyển file giữa các physical volume để cân bằng hoạt động của các volume.
+Undelete.
+Defragmentation.
+Parallel file system: tận dụng khả năng SMP để xử lý nhiều yêu cầu I/O cùng lúc trên nhiều processor.
+
+
+=== Networking ===
+UNIX cung cấp khả năng networking rất mạnh, đặc biệt trong việc kết nối giữa các hệ thống từ nhiều nhà sản xuất khác nhau. Giao thức chuẩn là TCP/IP. Xu hướng hiện nay là:
+Kết nối với PC LAN: Novell NetWare và Windows NT.
+Cung cấp các giao thức liên quan đến Internet: PPP, SMTP, POP3, IMAP4, HTTP.
+
+
+=== Bảo mật ===
+Các hãng đã thực hiện các khả năng an toàn đến mức C2 theo tiêu chuẩn của National Computer Security Center (Mỹ). Xu hướng hiện nay là, song song với việc cung cấp thêm các công cụ trợ giúp. Một số hãng nâng mức an toàn lên mức B.
+
+
+=== Công cụ quản lý hệ thống ===
+Trước đây UNIX nổi tiếng là kém về các công cụ quản lý hệ thống. Người quản trị hệ thống phải sửa rất nhiều các thông số khó nhớ, khó hiểu trong rất nhiều configuration file nằm rải rác trong máy.
+Hiện nay nhiều công cụ quản lý theo kiểu GUI đã giúp người quản trị hệ thống rất nhiều. Xu hướng chung là tạo ra một bộ công cụ để quản lý hệ thống một cách tiện lợi dễ dàng.
+UNIX còn cung cấp những công cụ quản lý hệ thống hữu hiệu dựa trên giao diện kiểu ký tự. Những công cụ như vậy cho phép quản lý hệ thống từ xa qua telnet một cách hiệu quả.
+
+
+== Chú thích ==

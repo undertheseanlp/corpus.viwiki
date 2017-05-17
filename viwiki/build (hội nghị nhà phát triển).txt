@@ -1,0 +1,67 @@
+Microsoft Build (thường được cách điệu thành //build/) là một sự kiện hội nghị thường niên được tổ chức bởi Microsoft, dành cho các nhà phát triển phẩn mềm và web sử dụng Windows, Windows Phone, Microsoft Azure và các công nghệ khác của Microsoft. Lần đầu được tổ chức vào năm 2011, nó kế tiếp các sự kiện nhà phát triển trước đó của Microsoft, Professional Developers Conference (một sự kiện không thường xuyên về việc phát triển phần mềm cho hệ điều hành Windows) và MIX (nhắm tới việc phát triển web trọng tâm vào các công nghệ của Microsoft như Silverlight và ASP.net).
+
+
+== Các sự kiện ==
+
+
+=== 2011 ===
+Build 2011 được tổ chức từ ngày 13 tháng 9 đến ngày 16 tháng 9 năm 2011 tại Anaheim, California. Hội nghị chủ yếu tập trung vào Windows 8, Windows Server 2012 và Visual Studio 2012; phiên bản Developer Preview của chúng cũng được phát hành trong hội nghị. Những người tham gia cũng nhận được một chiếc máy tính bảng Samsung cài đặt sẵn bản dựng Windows 8 "Developer Preview".
+
+
+=== 2012 ===
+Được tổ chức trong khuôn viên của Microsoft tại Redmond từ ngày 30 tháng 10 đến ngày 2 tháng 11 năm 2012, hội nghị Build năm 2012 tập trung vào hệ điều hành Windows 8 vừa phát hành, cùng với Windows Azure và Windows Phone 8. Những người tham gia nhận được một chiếc máy tính bảng Surface RT với Touch Cover, một chiếc điện thoại thông minh Nokia Lumia 920, và 100GB lưu trữ miễn phí trên SkyDrive.
+
+
+=== 2013 ===
+Build 2013 được tổ chức từ ngày 26 tháng 6 tới ngày 28 tháng 6 năm 2013 tại Moscone Center (Bắc và Nam) ở San Francisco. Hội nghị được chủ yếu dùng để hé lộ bản cập nhật Windows 8.1 cho Windows 8. Mỗi người tham dự nhận được một chiếc Surface Pro, Acer Iconia W3 (máy tính bảng Windows 8 màn hình 8 inch đầu tiên) với một bàn phím Bluetooth, một năm sử dụng Adobe Creative Cloud và 100GB lưu trữ SkyDrive miễn phí.
+
+
+=== 2014 ===
+Build 2014 được tổ chức tại Moscone Center (Tây) ở San Francisco từ ngày 2 tháng 4 đến ngày 4 tháng 4 năm 2014. Ngày và địa điểm tổ chức Build 2014 bị lộ trên trang web của Microsoft vào ngày 12 tháng 12 năm 2013, nhưng sau đó đã bị gỡ xuống. Microsoft cuối cùng thông báo chính thức về ngày và địa điểm vào ngày hôm sau. Những người tham gia nhận được một chiếc Xbox One và một phiếu quà tặng Microsoft Store trị giá 500$.
+Nổi bật:
+Windows Display Driver Model 2.0 và DirectX 12
+Microsoft Cortana
+Windows Phone 8.1
+Bản cập nhật Windows 8.1 Spring Update
+Windows miễn phí trên tất cả thiết bị có màn hình dưới 9" và trên IoT
+Tiện ích và liên kết ứng dụng Bing
+.NET Native (Thông báo, Trang sản phẩm)
+.NET Compiler Platform (Roslyn)
+Visual Studio 2013 Update 2 RC
+Team Foundation Server 2013 Update 2 RTM
+TypeScript 1.0
+.NET Foundation
+
+
+=== 2015 ===
+Build 2015 được tổ chức tại Moscone Center (Tây) ở San Francisco từ 29 tháng 4 tới ngày 1 tháng 5 năm 2015. Phí đăng ký là 2095$, vé được bán bắt đầu từ 9:00 PST vào thứ Năm, 22 tháng 1 và đã "hết vé" trong chưa đến một giờ với số lượng người tham gia chưa thể xác định được. Những người tham gia nhận được một chiếc ultrabook HP Spectre x360 miễn phí.
+Nổi bật:
+Windows 10
+Windows 10 Mobile
+Microsoft HoloLens và Windows Holographic 
+Windows Server 2016
+Microsoft Exchange Server 2016
+Visual Studio 2015
+Visual Studio Code
+
+
+=== 2016 ===
+Build 2016 được tổ chức tại Moscone Center ở San Francisco từ ngày 30 tháng 3 đến ngày 1 tháng 4 năm 2016. Giá vé đã tăng thêm 100$ so với năm ngoái. Vé đã được bán hết trong 5 phút. Không giống những năm trước, người tham gia không nhận được quà tặng thiết bị nào.
+Nổi bật:
+Windows Subsystem for Linux
+Bot trò chuyện Microsoft Cortana trên Skype
+"Power of the Pen and the PC"
+.NET Standard Library
+ASP.NET Core
+Phần mở rộng cho trình duyệt Edge
+Xamarin
+Máy ảo iOS trên Windows
+miễn phí cho các cá nhận và nhóm nhỏ
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Website chính thức
+Build Event on MSDN Channel 9

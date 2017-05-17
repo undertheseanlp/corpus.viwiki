@@ -1,0 +1,23 @@
+Gemeinsame Normdatei (bằng tiếng Đức, viết tắt GND, tạm dịch: Hồ sơ chuẩn chung) là một hồ sơ tiêu đề chuẩn quốc tế với mục đích tổ chức tên cá nhân, tiêu đề chủ đề (subject heading) và tên tổ chức từ biên mục thư viện. Chủ yếu người ta dùng GND để để lưu hồ sơ trong các thư viện và kho lưu trữ. Hiện nay, GND được hợp tác quản lý giữa Thư viện Quốc gia Đức và nhiều mạng lưới thư viện quản lý. Giấy phép sử dụng GND là CC0.
+GND bắt đầu hoạt động từ tháng 4 năm 2012 và tích hợp nội dung của những hồ sơ tiêu đề chuẩn đã chấm dứt hoạt động sau:
+Personennamendatei (bằng tiếng Đức, viết tắt: PND, tạm dịch: Hồ sơ tiêu đề chuẩn tên)
+Gemeinsame Körperschaftsdatei (bằng tiếng Đức, viết tắt: GKD, tạm dịch: Hồ sơ tiêu đề chuẩn tổ chức)
+Schlagwortnormdatei (bằng tiếng Đức, viết tắt: SWD, tạm dịch: Hồ sơ tiêu đề chuẩn tiêu đề chủ đề)
+Einheitssachtitel-Datei des Deutschen Musikarchivs (bằng tiếng Đức, viết tắt: DMA-EST, tạm dịch: Hồ sơ tiêu đề chuẩn của Thư viện Quốc gia Đức)
+Khi ra mắt vào ngày 5 tháng 4 năm 2012, GND đã có 9.493.860 hồ sơ, bao gồm 2.650.000 tên đã được cá nhân hóa.
+
+
+== Các thể loại ==
+GND có sáu "thể loại" (high-level entity, tạm dịch: thực thể cấp cao) chính:
+
+
+== Xem thêm ==
+Virtual International Authority File (VIAF)
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Trang thông tin về GND, Thư viện Quốc gia Đức (tiếng Anh)
+Tìm kiếm thông qua OGND Trung tâm Dịch vụ Thư viện Baden-Württemberg (tiếng Anh)

@@ -1,0 +1,269 @@
+Chỉ số nghèo (tiếng Anh:Human Poverty Index-HPI) một chỉ số của mức sống trong một quốc gia, được Liên hợp quốc phát triển để bổ sung cho Chỉ số phát triển con người (HDI-Human Development Index) và lần đầu tiên được báo cáo như là một phần của Báo cáo phát triển con người năm 1997. Nó được coi là phản ánh rõ nét về mức độ thiếu thốn ở các nước phát triển hơn là chỉ số HDI. Từ năm 2010, chỉ số này được Liên hợp quốc thay thế bằng Chỉ số nghèo khổ đa chiều (MPI- Multidimensional Poverty Index).
+HPI là chỉ số đo lường mức độ nghèo khổ của con người trên ba phương diện cơ bản: tuổi thọ, hiểu biết và mức sống. Chỉ số này ở một quốc gia càng cao thì chứng tỏ tình trạng đói nghèo của quốc gia đó càng nghiêm trọng. Liên hợp Quốc sử dụng HPI-1 cho các nước đang phát triển, HPI-2 cho các nước OECD. Ở các nước đang phát triển, UNDP đưa ra công thức đo lường chỉ số này như sau:
+
+
+== Đối với các nước đang phát triển (HPI-1) ==
+HPI-1 = 
+  
+    
+      
+        
+          
+            [
+            
+              
+                1
+                3
+              
+            
+            
+              (
+              
+                P
+                
+                  1
+                
+                
+                  α
+                
+              
+              +
+              
+                P
+                
+                  2
+                
+                
+                  α
+                
+              
+              +
+              
+                P
+                
+                  3
+                
+                
+                  α
+                
+              
+              )
+            
+            ]
+          
+          
+            
+              1
+              α
+            
+          
+        
+      
+    
+    {\displaystyle \left[{\frac {1}{3}}\left(P_{1}^{\alpha }+P_{2}^{\alpha }+P_{3}^{\alpha }\right)\right]^{\frac {1}{\alpha }}}
+  
+Trong đó:
+
+  
+    
+      
+        
+          P
+          
+            1
+          
+        
+      
+    
+    {\displaystyle P_{1}}
+  : tỷ lệ người không sống đến 40 tuổi.
+
+  
+    
+      
+        
+          P
+          
+            2
+          
+        
+      
+    
+    {\displaystyle P_{2}}
+  : tỷ lệ người trưởng thành mù chữ.
+
+  
+    
+      
+        
+          P
+          
+            3
+          
+        
+      
+    
+    {\displaystyle P_{3}}
+  : tỷ lệ phần trăm dân số không được tiếp cận với nguồn nước sạch và tỷ lệ trẻ em suy dinh dưỡng.
+
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  : 3
+Giá trị HPI càng cao thì mức độ nghèo đói càng lớn; ngược lại HPI càng nhỏ thì mức độ nghèo đói càng thấp, nếu HPI về đến giá trị 0 thì về cơ bản quốc gia đó không còn tình trạng nghèo đói. Đấy là lập luận về mặt lý thuyết, còn trên thực tế chỉ có thể không còn người nghèo tuyệt đối, song không bao giờ hết nghèo tương đối do khoảng cách thu nhập và mức sống của các nhóm dân cư của từng quốc gia vẫn tồn tại.
+Một điểm cần lưu ý là khi nghiên cứu chỉ tiêu HPI, có thể cảm giác nó không liên quan nhiều lắm tới nhu cầu chi tiêu hay thu nhập của gia đình, nhưng trên thực tế các chỉ tiêu thành phần của HPI có liên quan chặt chẽ đến nhu cầu chi tiêu và thu nhập của con người. Nếu thu nhập thấp, nhu cầu chi tiêu không đảm bảo sẽ làm cho sự thiếu hụt trong việc tiếp cận đến các dịch vụ xã hội như y tế, giáo dục… tăng lên. Chính mối quan hệ đó nói lên bản chất và tính đa dạng của nghèo đói.
+
+
+== Đối với những nước có nguồn thu nhập cao được chọn từ Tổ chức Hợp tác và Phát triển Kinh tế (HPI-2) ==
+HPI-2 = 
+  
+    
+      
+        
+          
+            [
+            
+              
+                1
+                4
+              
+            
+            
+              (
+              
+                P
+                
+                  1
+                
+                
+                  α
+                
+              
+              +
+              
+                P
+                
+                  2
+                
+                
+                  α
+                
+              
+              +
+              
+                P
+                
+                  3
+                
+                
+                  α
+                
+              
+              +
+              
+                P
+                
+                  4
+                
+                
+                  α
+                
+              
+              )
+            
+            ]
+          
+          
+            
+              1
+              α
+            
+          
+        
+      
+    
+    {\displaystyle \left[{\frac {1}{4}}\left(P_{1}^{\alpha }+P_{2}^{\alpha }+P_{3}^{\alpha }+P_{4}^{\alpha }\right)\right]^{\frac {1}{\alpha }}}
+  
+
+  
+    
+      
+        
+          P
+          
+            1
+          
+        
+      
+    
+    {\displaystyle P_{1}}
+  : Tỷ lệ trẻ sinh ra không sống đến 60 tuổi (%)
+
+  
+    
+      
+        
+          P
+          
+            2
+          
+        
+      
+    
+    {\displaystyle P_{2}}
+  : Tỷ lệ người trưởng thành thiếu kỹ năng đọc viết chức năng
+
+  
+    
+      
+        
+          P
+          
+            3
+          
+        
+      
+    
+    {\displaystyle P_{3}}
+  : Dân số có mức thu nhập dưới 50% của mức trung bình
+
+  
+    
+      
+        
+          P
+          
+            4
+          
+        
+      
+    
+    {\displaystyle P_{4}}
+  : Tỷ lệ thất nghiệp dài hạn (kéo dài trên 12 tháng)
+
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  : 3
+Báo cáo năm 2007-2008, dưới đây là danh sách 19 trong 22 quốc gia có Chỉ số phát triển con người cao nhất (với các quốc gia có số chỉ số nghèo đói thấp nhất ở trên cùng):
+Ba quốc gia còn lại trong top 22 là Iceland, New Zealand và Liechtenstein.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+http://hdr.undp.org/en/statistics/understanding/indices/hpi/
+http://hdr.undp.org/en/media/HDR_20072008_EN_Indicator_tables.pdf
+http://hdr.undp.org/en/media/HDR_20072008_Tech_Note_1.pdf
+http://hdr.undp.org/en/media/hdr_20072008_en_complete.pdf
+A map of world poverty that includes human poverty index Development Economics
+List of Global Development Indexes and Rankings

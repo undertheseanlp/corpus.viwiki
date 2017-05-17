@@ -1,0 +1,28 @@
+Windows 95 là một phiên bản trong chuỗi các phiên bản hệ điều hành Windows của tập đoàn Microsoft, được cung cấp vào ngày 24 tháng 8 năm 1995, với tên mã là Chicago.
+Windows 95 được thừa hưởng những tính chất ưu việt của các hệ điều hành trước, như giao diện đồ họa tương tác, cho đến nay vẫn được sử dụng trong phiên bản mới nhất, Windows 10, cộng thêm nhiều tính năng mới; như hỗ trợ rộng rãi các thiết bị hơn, hỗ trợ thiết bị kết nối qua cổng USB, được kèm thêm phiên bản Internet Explorer 4, hỗ trợ các ứng dụng 32 bit, hỗ trợ tên tập tin dài đến 255 ký tự.
+Windows 95 mở đầu cho việc sử dụng nút Start, thanh taskbar trong giao diện GUI của Microsoft, điều vẫn tồn tại trong các hệ điều hành về sau, cho đến Windows Vista nút Start được thay bằng biểu tượng lá cờ Windows.
+
+
+== Quảng bá ==
+Khi Windows 95 được tung ra thị trường, Windows 95 nhận được sự đón nhận rộng rãi, như ban nhạc The Rolling Stones đã biểu diễn một buổi hòa nhạc với bài hát "Start Me Up" (nhắc đến nút Start). Nó được biết nhiều đến nỗi Microsoft đã phải trả cho ban nhạc này 8 triệu đô la trong chiến dịch quảng bá Windows 95. Microsoft đã dành 300 triệu đô la trong chiến dịch quảng bá cho tính ưu việt của hệ điều hành này.
+Tại Thành phố New York, ở tòa nhà Empire State đã treo một lá cờ biểu tượng của Windows. Ở Toronto, 300 tấm pano đã được treo trên Tháp CN.
+
+
+== Các ấn bản ==
+Windows 95 Retail
+Windows 95 Retail SP1 4.00.950a
+OEM Service Release 1 4.00.950A
+OEM Service Release 2 4.00.950B
+OEM Service Release 2.1 4.00.950B
+OEM Service Release 2.5
+
+
+== Xem thêm ==
+Microsoft
+Windows 98
+Windows XP
+Windows Vista
+Windows 7
+
+
+== Tham khảo ==

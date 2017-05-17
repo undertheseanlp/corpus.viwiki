@@ -1,0 +1,232 @@
+Sukhoi Su-30 (tên ký hiệu của NATO: "Flanker-C") là máy bay chiến đấu đa năng được phát triển bởi Công ty hàng không Sukhoi của Nga và đưa vào hoạt động năm 1996. Nó là loại máy bay chiến đấu đa chức năng tốc độ siêu âm có thể đảm nhiệm cả nhiệm vụ chiếm ưu thế trên không và nhiệm vụ cường kích (tấn công mặt đất, mặt biển).
+Đây là một phiên bản hiện đại hóa của Su-27UB và có vài phiên bản khác. Seri Su-30K và Su-30MK đều có những thành công trong thương mại. Sự khác nhau về tên gọi là do các phiên bản được sản xuất bởi 2 công ty con đang có sự cạnh tranh - KnAAPO và Irkut, cả 2 đều nằm dưới sự điều khiển của tập đoàn Sukhoi. KnAAPO sản xuất Su-30MKK và Su-30MK2, chúng được thiết kế và bán cho Trung Quốc và Việt Nam. Irkut sản xuất seri Su-30MK tầm xa đa chức năng, mà bao gồm cả Su-30MKI, một mẫu máy bay được phát triển cho Không quân Ấn Độ và những thiết kế từ Su-30MKI, như Su-30MKM, Su-30MKA được xuất khẩu cho riêng Malaysia, Algérie.
+
+
+== Phát triển ==
+
+
+=== Mẫu máy bay tiêm kích đánh chặn tầm xa Su-27PU ===
+
+Trong khi nguyên bản gốc Su-27 có tầm hoạt động khá tốt, nó vẫn bị coi là không có đủ tầm hoạt động để thực hiện các nhiệm vụ phòng không của PVO Strany (từ viết ngắn cho "Protivovozdushnaya Oborona" — "Phòng Không"), các hoạt động phòng không bao trùm lên toàn bộ lãnh thổ rộng lớn của Liên Xô. Do đó, việc phát triển bắt đầu vào năm 1986 đối với Su-27PU, một phiên bản cải tiến của Su-27 có khả năng hoạt động như một máy bay tiêm kích đánh chặn tầm xa hay sở chỉ huy trên không. Phiên bản huấn luyện chiến đấu Su-27UB hai chỗ được lựa chọn như một nền tảng cơ sở cho Su-27PU, vì nó có hiệu suất và đặc tính của một chiếc Su-27 một chỗ, và khi thực hiện các nhiêm vụ tầm xa đòi hỏi phải có 2 phi công, điều này giúp cho hiệu suất tác chiến của máy bay tăng lên. Mẫu thuyết trình "chứng minh khái niệm" bay vào ngày 6 tháng 6 năm 1987, và chuyến bay này đã thành công, dẫn đến việc phát triển tiếp theo trên 2 nguyên mẫu Su-27PU. Chiếc Su-27PU đầu tiên bày tại Irkutsk vào ngày 31 tháng 12 năm 1989, và chiếc đầu tiên trong 3 chiếc tiền sản xuất đã bay vào ngày 14 tháng 4 năm 1992.
+Để Su-27UB thích nghi trong vai trò mới, máy bay được trang bị hệ thống tiếp nhiên liệu trên không có thể mở ra thu lại, để tăng thêm tầm hoạt động, cần tiếp nhiên liệu nằm ở bên trái mũi máy bay, để lắp thêm hệ thống này thì hệ thống IRST đã phải chuyển sang cạnh phải của máy bay.
+Hệ thống điện tử được thay đổi, được điều chỉnh sử dụng thiết bị truyền đạt thông tin riêng và dẫn đường để chỉ huy đội hình bay của máy bay đánh chặn Su-27 một chỗ. Buồng lái phía sau được trang bị màn hình hiển thị CRT khổ lớn, cung cấp thông tin hướng dẫn với các thông tin chiến thuật về mục tiêu và máy bay đang điều khiển. Hệ thống dẫn đường và fly-by-wire đã được nâng cấp. Nó trang bị một radar nâng cấp NIIP N001, cung cấp thông tin cho nhiệm vụ tấn công mặt đất, tìm đường và khả năng theo dõi tấn công nhiều mục tiêu cùng lúc trên không. Su-30 có một phanh hơi đằng sau buồng lái.
+Sukhoi đưa ra Su-27PU được sử dụng như một "máy bay chiến đấu kiểm soát trên không", một loại AWACS mini, với người lái sau sẽ sử dụng radar và hệ thống kết nối dữ liệu đẻ kiểm soát những máy bay chiến đấu khác. Tuy nhiên PVO không quan tâm đến việc mua SU-27PU.
+5 chiếc Su-27PU đã được chế tạo, với tên gọi mới là "Su-30" cuối cùng được trang bị trong biên chế của PVO với vai trò máy bay huấn luyện. Những máy bay này được chuyển giao cho Trung đoàn không quân tiêm kích đánh chặn số 54 đóng tại căn cứ huấn luyện cao cấp tại Savostleyka bắt đầu vào năm 1996.
+Theo một tạp chí nghiên cứu kỹ thuật của Đức, những chiếc Su-30 của Ấn Độ, phiên bản MKI là những máy bay tiêm kích-bom chiến đấu tốt nhất từng được chế tạo trên thế giới trong thập niên 1990-2000, kết hợp rất tốt khả năng thao diễn xuất sắc, tầm bay xa, hệ thống tác chiến hiện đại và tải trọng vũ khí lớn. Máy bay này đã thay đổi mọi sự cân bằng trong bối cảnh Nam Á trong khi giá thành khá rẻ (khoảng 30-45 triệu USD/chiếc, chỉ bằng 40% so với giá một chiếc F-15 của Mỹ), nhiều quốc gia rất quan tâm đến loại máy bay này. Số lượng Su-30 được Nga xuất khẩu tính đến năm 2014 là gần 400 chiếc, đưa loại máy bay này trở thành máy bay chiến đấu được xuất khẩu nhiều nhất của Nga kể từ thời kỳ hậu Xô viết.
+
+
+== Thiết kế ==
+Một phiên bản Su-30M đa chức năng 2 chỗ đã được đề nghị chuyển cho Không quân Nga sử dụng và có thể một vài chiếc khác cũng đã được sản xuất giữa những năm 1990 để đánh giá.
+Sukhoi đã được đề nghị một phiên bản xuất khẩu là Su-30MK, "MK" có nghĩa là "Modernizirovannyi Kommercheskiy" (Modernized Commercial - Thương mại hóa). Sukhoi đã mang một chiếc Su-30MK thao diễn đến Triển lãm hàng không Paris vào năm 1993.
+Một chiếc Su-30MK tối ưu hóa khả năng thao diễn, cũng đã được sản xuất lại từ chiếc Su-27PU sản xuất trước đó, nó xuất hiện vào năm 1994.
+
+
+=== Máy bay chiến đấu đa chức năng linh hoạt ===
+Su-30MK có khả năng thực hiện các nhiệm vụ đa dạng khác nhau, trong bất kỳ điều kiện thời tiết, môi trường khắc nghiệt, bất kể ngày hay đêm và khoảng cách.
+Đây là máy bay đa chức năng được trang bị đầy đủ phù hợp với toàn bộ một chuỗi những kịch bản chiến thuật và hoạt động chiến đấu, nó được thay đổi từ nhiệm vụ không chiến (bao gồm chiếm ưu thế trên không, phòng không, tuần tra trên không và hộ tống), thành tấn công mặt đất, chống hệ thống phòng không của địch (SEAD), ngăn chặn trên không, hỗ trợ mặt đất và tấn công mục tiêu trên biển. Đồng thời, Su-30MK có thể thực hiện chống gây nhiễu điện tử ECCM và cảnh báo sớm trên không, cũng như ra lệnh và điều khiển một nhóm thực hiện nhiệm vụ chung.
+
+
+=== Góc tấn ===
+Hình dạng khí động học của Su-30MK cho phép nó dễ dàng thay đổi các động tác khi bay. Để tăng hiệu suất nâng và khả năng bay thao diễn của máy bay, cánh mũi đã được trang bị. Nó có thể tự động điều chỉnh độ lệch để đảm bảo khả năng kiểm soát bay tại những góc tấn lớn. Tuy nhiên, cánh mũi chỉ được trang bị trên một số phiên bản của Su-30 như Su-30MKI.
+
+
+=== Động tác bay rắn hổ mang Pugachev ===
+Hình dạng khí động học tổng hợp, được kết hợp với khả năng kiểm soát điều chỉnh hướng phụt của động cơ, đã mang đến những khả năng thao diễn bay chưa từng có và những đặc trưng cất cánh và hạ cánh độc nhất vô nhị. Trang bị với hệ thống lái số fly-by-wire, Su-30MK có khả năng thực hiện vài động tác thao diễn mà chỉ có thể thực hiện được trên những máy bay chiến đấu hiện đại của Nga. Bao gồm động tác rắn hổ mang Pugachev và biểu diễn quay tròn, máy bay quay 360° trong khi đang bay lên hoặc lao xuống trên một mặt phẳng mà không bị mất độ cao. Trong động tác thao diễn bay bổ nhào quay tròn có điều khiển, máy bay thực hiện vài vòng quay đầy đủ trong mặt phẳng ngang, với tốc độ gần về không, lúc này động cơ bị tắt, sau đó nó được khởi động lại để lấy lại độ cao cho máy bay.
+
+
+=== Động cơ ===
+Động cơ của máy bay là 2 động cơ phản lực cánh quạt tỷ lệ vòng thấp Saturn AL-31FP. Cung cấp lực đẩy sau khi đốt nhiên liệu lần 2 là 245 kN (25.000 kgf), đạt vận tốc Mach 2, nó có tốc độ 1.350 km/h tại độ cao thấp, và vận tốc leo cao là 230 m/s.
+Nó có thể mang thông thường 5.270 kg nhiên liệu trong các thùng chứa (không tính nhiên liệu trong các thùng chứa phụ), Su-30MK có khả năng thực hiện liên tục nhiệm vụ trong 4.5 giờ trong phạm vi 3.000 km. Trong khi bay, nếu được tiếp nhiên liệu trên không thì nó có thể duy trì 10 giờ bay nhiệm vụ với tầm bay là 8.000 km trên độ cao hành trình từ 11 đến 13 km.
+Khả năng bay xa đã tăng đáng kể những chọn lựa nhiệm vụ. Những sứ mệnh có thể thay đổi từ tuần tra, hộ tống thành đánh chặn tầm xa và những cuộc tấn công không đối đất.
+
+
+==== Hệ thống điều khiển hướng phụt động cơ 2D ====
+Các miệng ống phụt của động cơ có thể uốn xuống hoặc bẻ lên, thay đổi hướng chênh lệch 15° (với những trục quay được định vị tại vị trí góc 32° ở mỗi động cơ) cho phép điều khiển lực đẩy theo mọi hướng. Phụ thuộc vào động tác thao diễn sẽ được thực hiện, những góc lệch có thể được điều khiển để tạo lực đẩy như ý muốn, những miệng ống động cơ có thể được đồng bộ hóa hoặc khác với những thao tác của cánh đuôi nằm ngang của máy bay. Phiên bản Su-30MKI có hệ thống điều khiển hướng phụt động cơ 2D (2D TVC - 2D Thrust Vectoring Control) đầu tiên.
+
+
+=== Phi hành đoàn ===
+Phi hành đoàn 2 người đã làm tăng đáng kể những khả năng chiến đấu, do phân công hơp lý công việc giữa các phi công. Trong khi phi công đầu tiên lái máy bay, điều khiển vũ khí và thực hiện các động tác thao diễn dogfight, phi công thứ 2 sử dụng các thiết bị điện tử để xác định mục tiêu cho các vũ khí dẫn đường không đối không và không đối đất tầm xa, theo dõi màn hình chiến thuật để đảm bảo nhận thức về vị trí của máy bay, thực hiện lệnh và điều khiển trong khi thực hiện nhiệm vụ theo nhóm.
+
+
+=== Hệ thống điện tử ===
+Radar: nó có thể lựa chọn một trong số các loại radar xung Doppler sau: N001VE, Phazotron N010 Zhuk-27, N011M BARS (radar quét mảng pha điện tử bị động). N011M BARS có khả năng phát hiện và theo dõi mục tiêu mạnh, lên đến 15 mục tiêu trên không, trong khi có thể đồng thời tấn công 4 mục tiêu trong số đó. Radar N011M BARS có thể dò tìm các mục tiêu lớn trên biển trong khoảng cách lên đến 400 km (248.5 mi), máy bay ném bom cỡ lớn ở cự ly 200 km và các mục tiêu là tiêm kích cỡ nhỏ trong khoảng cách 120 km (74.5 mi). Khả năng này vượt trên radar APG-63V(1) trang bị cho F-15C/D Eagle của Mỹ (tầm phát hiện mục tiêu trên không là 110–160 km tùy kích thước mục tiêu, theo dõi 14 mục tiêu và đồng thời tấn công 4 mục tiêu trong số đó).
+Hệ thống điện tử khác bao gồm một hệ thống ngắm bắn và dẫn đường tích hợp, với một hệ thống dẫn đường con quay laser; hệ thống hiển thị trên mũ phi công, màn hình hiển thị trước buồng lái HUD, màn hình LCD hiển thị đa chức năng với khả năng hiển thị trộn lẫn hình ảnh; và một hệ thống GPS (tương thích GLONASS/NAVSTAR).
+Hệ thống dò tìm tia hồng ngoại và laser để tìm kiếm và điều khiển vũ khí tấn công các mục tiêu kích thước nhỏ. Hệ thống này rất hữu dụng trong việc đối phó với các mục tiêu mà radar khó phát hiện như máy bay tàng hình (máy bay tàng hình được thiết kế để có mức độ bộc lộ trước radar rất thấp, nhưng mức độ phát ra tia hồng ngoại thì vẫn tương tự như máy bay thường do đều phải sử dụng động cơ phản lực tỏa ra nhiều nhiệt).
+Máy bay được cung cấp phương tiện chống gây nhiễu điện tử ECCM và đối phó với các thiết bị điện tử quang học của đối phương.
+Máy bay có chế độ lái tự động trong mọi giai đoạn bay, gồm bay thấp trong mọi địa hình, bay riêng và theo nhóm chống lại mục tiêu trên không - mặt đất - trên biển. Hệ thống điều khiển tự động được kết nối với hệ thống dẫn đường để đảm bảo máy bay bay đúng đường, tự động tiếp cận địch, tìm được đường về căn cứ và hạ cánh tự động.
+
+
+== Thàch tích trong các cuộc tập trận ==
+Su-30 chưa từng tham gia không chiến trong một cuộc chiến tranh thực sự. Tuy nhiên, nó đã chứng tỏ được khả năng trong các cuộc tập trận với tỷ lệ chiến thắng rất cao, ngay cả trước những loại tiêm kích tiên tiến của phương tây như F-15 Eagle, F-16 Falcon, Eurofighter Typhoon...
+Năm 2002, các chuyên gia tạp chí Mỹ Aviation Week&Space Technology là ông David A. Fulghum và Douglas Barrie đã nêu phân tích của mình rằng “Lần nào Su-30MK cũng đánh bại F-15C (Su-30MK Beats F-15C Every Time), trong đó viết rằng, trong các trận tập không chiến diễn ra trên bầu trời St Louis (một cơ sở bay thử nghiệm của công ty Boeing Mỹ), Su-30 đã giành ưu thế trước F-15 nhờ khả năng cơ động cao của mình.
+Tại cuộc tập trận Cope India 2004, các tiêm kích Su-30MKI của Không quân Ấn Độ (IAF) đã thực hiện các trận đánh tập kiểm tra chống các tiêm kích F-15C của Không quân Mỹ (USAF). Kết quả đáng kinh ngạc là 9:1 nghiêng về phía các phi công Ấn Độ (1 chiếc Su-30MKI có thể đổi 9 chiếc F-15). Một sĩ quan Không quân Mỹ cho biết: phi công Ấn Độ đã điều khiển chiếc Su-30MKI thực hiện thao tác cơ động “Rắn hổ mang Pugachev”, giảm tốc độ xuống bằng 0 trong khoảng thời gian vài giây khiến radar trên khoang chiến đấu cơ Mỹ bị mất dấu đối thủ, và đó là khoảng thời gian đủ để Su-30 tiêu diệt F-15.
+Phía Mỹ lý giải rằng luật chơi hạn chế khả năng thắng của họ. Phía Ấn Độ khi tập trận đã lấy 18 chiếc máy bay (gồm 6 chiếc Su-30MKI và 12 chiếc MiG-21 Bison) để đấu với 6 chiếc F-15C của Mỹ và phía Ấn Độ cũng yêu cầu Mỹ không được dùng radar AESA. Mỹ cũng không được mô phỏng bắn tên lửa ngoài tầm nhìn (BVR) (do yêu cầu của Ấn Độ không sử dụng tên lửa tầm xa AMRAAM) và người Ấn đã gửi các phi công giàu kinh nghiệm nhất của mình để chiến đấu chống lại người Mỹ trong khi phía Mỹ chọn một phi đội tiêu chuẩn có sự kết hợp giữa các phi công có kinh nghiệm và chưa có kinh nghiệm. Phi công Mỹ cũng cho rằng một loại máy bay khác của đối thủ cũng rất ghê gớm với F-15C là MiG-21 Bison, một phiên bản nâng cấp của MiG-21 sản xuất tại Nga, do loại máy bay này có độ bộc lộ radar thấp, vận tốc cao và rất linh hoạt
+Cuộc tập trận Cope India 2004 lần 2 thì có sự tham gia của máy bay Su-30K, phiên bản trang bị radar kiểu cũ NIIP N001 dành cho các thế hệ đầu tiên của Su-27/30. Lần này thì cả 2 bên đều được mô phỏng bắn tên lửa ngoài tầm nhìn (BVR) để tận dụng mọi khả năng của radar. Mặc dù Su-30K có thông số kỹ chiến thuật thua sút hẳn so với Su-30MKI, nhưng máy bay vẫn thể hiện khả năng tác chiến hiệu quả so với các máy bay Mỹ F-15C. Su-30 chiếm ưu thế đến 90% trong các trận cận chiến là điều không gây sự bất ngờ lớn, do các tính năng khí động học của Su-30 hơn hẳn F-15. Tuy nhiên, Su-30K đã gây sự ngạc nhiên lớn khi nó cũng chiếm ưu thế trong các trận không chiến tầm trung ngoài tầm nhìn (BVR) trước F-15C. Phi công Ấn Độ, sử dụng tất cả những tính năng kỹ thuật của radar N001, đã dành chiến thắng khi quyết định phóng các tên lửa tầm trung trong chế độ dẫn đường tấn công nhiều mục tiêu cùng một lúc. Thất bại trong cả 2 nội dung (đánh xa và cận chiến) trước Su-30K đã khiến Mỹ phải đẩy nhanh quá trình chế tạo F-22 Raptor
+Năm 2005, Su-30K tiếp tục tập trận với các máy bay tiêm kích hỗn hợp của Pháp bao gồm có Mirage 2000C, Mirage 2000-5, Mirage 2000N trong khuôn khổ cuộc diễn tập Garuda-II. Theo các nguồn tin từ Pháp, Su-30K thực hiện nhiệm vụ đánh chặn tốt hơn Mirage-2000С và thua sút hơn so với máy bay Mirage-2000-5 mới hơn có sử dụng radar RDY. Trong các trận không chiến tầm gần, Su-30K giành thắng lợi thuyết phục.
+Trong cuộc tập trận Cope India 2005, bản tin Inside Air Force của Không quân Mỹ sau đó đã nêu những số liệu gây kinh ngạc: các máy bay Su-30MKI, MiG-27, MiG-29 và thậm chí cả MiG-21 (bản cải tiến Bison) của không quân Ấn Độ đã thắng lợi với tỷ số cao trước các loại máy bay chủ lực của Không quân Mỹ là F-15C/D Eagle và. Trong đó, Su-30MKI đã giành thắng lợi trong đa số các cuộc giao chiến với cả F-16 và F-15 của Không quân Mỹ. Washington ProFile đã gọi thành công của các máy bay Nga là “điều hoàn toàn bất ngờ” đối với các phi công Mỹ.
+Trong cuộc diễn tập không quân Anh - Ấn Indra Dhanush 2006, có sự tham gia của Su-30MKI và máy bay tiêm kích đánh chặn Tornado F3. Cả hai bên đều thống nhất không công bố kết quả của các cuộc không chiến, nhưng theo nhận xét của phi công Hoàng gia Anh, được phía Ấn Độ cho phép bay thử trên Su-30MKI, loại máy bay này hơn hẳn máy bay của Anh về các tính năng kỹ chiến thuật.
+Sau cuộc tập trận không quân Red Flag 2008 tại Mỹ, tạp chí hàng không uy tín của Anh Flight đã tổ chức cho các độc giả website của mình bầu chọn loại máy bay tiêm kích tốt nhất thế giới từ một danh sách 3 ứng cử viên hàng đầu là Su-30MKI, F-15 và F-22 Raptor. Kết quả là Su-30MKI đã được bầu chọn là loại máy bay tiêm kích tốt nhất thế giới, hơn cả máy bay tiêm kích thế hệ 4 F-15 và máy bay tiêm kích thế hệ 5 là F-22 khi giành được 59% số phiếu bầu; so với 37% của F-22 và 4% của F-15.
+Theo chuyên gia Simha, sự yếu kém của các phi công Mỹ trong tập trận cũng là do các chiến thuật đã cũ kỹ của họ, vốn được sử dụng trong các cuộc không chiến từ thời Chiến tranh Lạnh. Trong cuộc tập trận này, một viên đại tá Mỹ đã nhấn mạnh một vài thiếu sót của Su-30 như các vấn đề hiệu suất kém trong không chiến 1 chọi 1 với F-15 khiến chỉ sau một vài ngày, Ấn Độ không muốn "1 vs 1" nữa. Tuy nhiên, viên đại tá Hoa Kỳ này đã nhầm lẫn về một số tuyên bố của ông, bao gồm cả động cơ của Su-30MKI và radar của Mig-21, có lẽ viên đại tá này đã dựa vào những dữ liệu cũ ở trong thư viện
+Tháng 4-2012, trong đợt huấn luyện chiến đấu của không quân đa quốc gia tại Malaysia, Su-30MKM đã giành thắng lợi liên tiếp khi đối đầu với các máy bay khác tham gia huấn luyện không chiến. Trong một tình huống luyện tập, Su-30MKI phải đấu với F-15C của không quân Mỹ cất cánh từ căn cứ Okinawa của Nhật Bản lên đánh chặn. 2 loại máy bay tiến hành không chiến và Su-30MKI đã bắn hạ mục tiêu F-15C. Chỉ huy trưởng của liên đội không quân số 18 của Mỹ đã thán phục Su-30MKI vì đã thể hiện tính năng cơ động và khả năng tác chiến tuyệt vời so với các loại máy bay đồng hạng.
+Tháng 7/2015, trong đợt tập trận tại Anh, các tiêm kích Su-30MKI của Không quân Ấn Độ (IAF) đã thực hiện các trận đánh tập kiểm tra chống các tiêm kích Eurofighter Typhoon của Không quân Anh. Tỷ số là 12:0 nghiêng về phía các phi công Ấn Độ (12 chiếc Eurofighter Typhoon đã bị "bắn hạ" trong khi Su-30 MKI không có thiệt hại). Trong 1 tình huống không chiến, 1 chiếc Su-30MKI đã đối đầu với 2 chiếc Eurofighter Typhoon cùng một lúc, và nó đã bắn hạ cả 2 chiếc.
+
+
+=== Lịch sử chiến đấu ===
+Ngày 10-19/11/2014, Không quân Uganda điều 4 máy bay Sukhoi Su-30MK2 sang sân bay quốc tế Juba thuộc Nam Sudan nhằm hỗ trợ cho Quân đội Giải phóng Nhân dân Sudan (SPLA) chống lại lực lượng nổi dậy.
+Khoảng 21h07 ngày 17/9/2015, một chiến đấu cơ Su-30 của Không quân Venezuela chở theo hai phi công là Ronald Ramirez và Jackson Garcia đã rơi xuống đất gần biên giới với Colombia trong khi đánh chặn máy bay của bọn buôn lậu ma túy.
+Bộ QP Nga xác nhận ngày 1/10/2015 rằng Nga đã điều Hơn 50 chiến đấu cơ và trực thăng của Không quân Nga trong đó có 4 chiếc Sukhoi Su-30SM đến căn cứ ở Latakia, Syria nhằm hỗ trợ quân chính phủ Syria SAA (Syrian Arab Army) chống lại lực lượng Nhà nước Hồi giáo tự xưng ISIS. Những máy bay Su-30SM của Nga sẽ đảm nhận nhiệm vụ không kích các mục tiêu trên mặt đất, bảo vệ trên không cho các cường kích Su-25, Su-24 không kích và ngăn chặn các máy bay nước ngoài xâm phạm không phận Syria trong bối cảnh cuộc nội chiến ở Syria nổ ra từ năm 2011 giữa quân đội của tổng thống Syria Bashar Al-Assad (đồng minh của Nga ở Trung Đông) và các lực lượng nổi dậy gồm Quân đội tự do Syria (FSA), Al-Nursa (một nhánh của Al-Qeada ở Syria) được Mỹ và phương Tây hậu thuẫn vẫn chưa có dấu hiệu kết thúc.
+
+
+== Sự kiện và tai nạn ==
+12 tháng 6 năm 1999: Triển lãm hàng không Paris (Video)
+10 tháng 6 năm 2006: Le Bourget, Triển lãm hàng không Paris, Pháp, một chiếc Su-30MK của Nga bị rơi - cả hai phi công đều nhảy dù an toàn, không ai dưới mặt đất bị thương.[3]
+14 tháng 6 năm 2016: Một máy bay tiêm kích Su-30MK2V của Không quân Việt Nam xuất phát từ sân bay Sao Vàng (Thọ Xuân - Thanh Hóa) để thực tập huấn luyện, sau đó đã mất liên lạc khi cách đất liền ở Diễn Châu (Nghệ An) khoảng 25 km. Một phi công tử nạn.
+Tính từ khi ra đời đến tháng 6/2016, sau 20 năm phục vụ trên khắp thế giới, đã có 17 chiếc Su-30 bị rơi do tai nạn: 6 chiếc của Không quân Ấn Độ, 3 chiếc của Không quân Nga, 2 chiếc của Không quân Trung Quốc, 2 chiếc của Uganda, 1 chiếc của Venezuala, 1 chiếc của Malaysia, 1 chiếc của Bolivia và 1 chiếc của Việt Nam. So với 540 chiếc Su-30 được chế tạo thì tỷ lệ rơi do tai nạn là 3,1%, đây là tỷ lệ rất thấp so với những máy bay cùng thời của phương Tây như F-15 Eagle (tỷ lệ tai nạn là 10,1%), F-16 Fighting Falcon (tỷ lệ tai nạn là 14,4%), F/A-18 Hornet (tỷ lệ tai nạn là 12%).
+
+
+== Các phiên bản Su-30 ==
+Su-27PU
+Máy bay tiêm kích đánh chặn tầm xa dựa trên Su-27UB huấn luyện hai chỗ. Sau đổi tên thành Su-30.
+Su-30
+Máy bay thử nghiệm tĩnh với cánh mũi.
+Su-30K
+Phiên bản thương mại của Su-30 cơ bản. 50 chiếc đã được bán cho Ấn Độ và sau đó được nâng cấp thành Su-30MKI.
+Su-30KI
+Một phiên bản đề nghị của Sukhoi nâng cấp máy bay một chỗ Su-27S của Không quân Nga. Cũng có một phiên bản xuất khẩu trong kế hoạch cho Indonesia, 24 chiếc được đặt hàng nhưng sau đó hủy bỏ do khủng hoảng tài chính châu á 1997.
+Su-30KN
+Phiên bản nâng cấp chiến đấu 2 chỗ của Su-27UB, Su-30 và Su-30K.
+Su-30M
+Về bản chất là Su-27PU nâng cấp, đây là máy bay đa chức năng đúng nghĩa đầu tiên trong gia đình Su-27.
+Su-30MK
+Phiên bản thương mại của Su-30M, được xuất hiện vào năm 1993.
+Su-30MKI
+Hợp tác phát triển với công ty Hindustan Aeronautics Limited của Ấn Độ để sản xuất máy bay Su-30MK cho Không quân Ấn Độ. Nó được trang bị động cơ đẩy vec-tơ (Thrust Vectoring Control (TVC)) và cánh mũi. Trang bị với một hệ thống điện tử phức hợp đa quốc gia từ Israel, Ấn Độ, Nga và Pháp.
+Su-30MKK
+Phiên bản xuất khẩu cho Trung Quốc.
+Su-30MKM
+Phiên bản dựa trên MKI, đây là một phiên bản chuyên dụng cho Không quân Hoàng gia Malaysia với một số bộ phận tương tự như MKI, nhưng có hệ thống điện tử kết hợp giữa Pháp, Nam Phi và Nga. Nó có màn hình hiển thị trước mũi (HUD) hiện đại, hệ thống dẫn đường hồng ngoại tiên tiến (NAVFLIR) và thiết bị Damocles Laser Designation (LDP - thiết bị chỉ thị mục tiêu bằng laser) từ Thales Group của Pháp, cảm biến cảnh báo tên lửa MAW-300 (MAWS) và cảm biến cảnh báo laser (LWS) từ SAAB AVITRONICS (Nam Phi)[4], cũng như radar NIIP N011M BARS PESA, hệ thống tác chiến điện tử (EW), và buồng lái kính của Nga.[5]
+Su-30MKV
+xxxxthumb|Su-30MK2V của Không quân Nhân dân Việt NamPhiển bản xuất khẩu cho Venezuela có nhiều điểm giống với Su-30MK2. Có 2 chiếc được tham gia vào Lễ duyệt binh ở Caracas vào tháng 7-2006, những chiếc máy bay này được KNAAPO sản xuất và có số hiệu là 0460 và 1259. Venezuela xác nhận rằng những chiếc Su-30 được Venuela mua là Su-30MK2
+Su-30MK2
+Su-30MKK nâng cấp hệ thống điện tử cho phép hỗ trợ tên lửa chống tàu
+Su-30MK2V
+Phiên bản Su-30MK2 xuất khẩu đặc biệt dành riêng cho Việt Nam với những cải tiến phụ cho phù hợp với nhu cầu tác chiến trên biển nhiệt đới và hệ thống điện tử nội địa của không quân nga không dành cho bản xuất khẩu.
+Su-30MK3
+Su-30MKK với radar Zhuk MSE và hỗ trợ tên lửa chống tàu Kh-59MK.
+Su-30MKA
+Phiên bản xuất khẩu cho Algérie có nhiều điểm tương tự như MKI, nhưng phần lớn hệ thống điện tử trang bị của Pháp và Nga. Nó sẽ được trang bị các thiết bị hiển thị phía trước buồng lái và đa chức năng từ Thales Group và Sagem của Pháp.
+Su-30M2
+
+Phiên bản nâng cấp từ Su-30MK2 dùng cho không quân Nga do KnAAPO chế tạo. Hoàn thành thử nghiệm cấp nhà nước lần đầu vào năm 2010. Đây được coi là phiên bản Su-30 mạnh nhất hiện nay, trang bị động cơ đẩy vec-tơ (Thrust Vectoring Control (TVC)) giống như Su-30MKI và radar Irbis-E giống như Su-35. Không quân Nga sẽ nhận 16 chiếc nhằm thay thế cho các loại Su-27UB đã cũ, chúng được dùng để huấn luyện phi công Su-35 và Su-30SM.
+Su-30SM
+Phiên bản nâng cấp từ Su-30MKI do tập đoàn Irkut sản xuất cho Không quân Nga. Một hợp đồng 60 chiếc Su-30SM đã được ký kết vào tháng 3 năm 2012 và dự kiến chúng sẽ được chuyển giao vào năm 2016. Bay lần đầu tiên vào ngày 21 tháng 9 năm 2012. Có hệ thống rađa, liên lạc, phân biệt bạn-thù được cải thiện, ghế phóng thoát hiểm và vũ khí mới. So với Su-30MKI, Su-30SM thay thế hầu hết các linh kiện nước ngoài bằng các sản phẩm nội địa do Nga sản xuất, tuy nhiên nhiều linh kiện như hệ thống định vị và màn hình hiển thị thì vẫn nhập từ Pháp.
+
+
+== Các quốc gia sử dụng ==
+
+ Algérie
+Không quân Algérie sử dụng 44 chiếc Su-30MKA.
+ Trung Quốc
+Không quân Quân giải phóng Nhân dân (PLAAF) có 76 chiếc Su-30MKK (tiếng Nga: Modernizirovannyi Kommercheskiy Kitaya; Modernized Commercial China; Phiên bản thương mại hóa dành cho Trung Quốc). PLAAF cũng có các phi đội Su-27. Lô đầu tiên trong 38 chiếc được giao vào 20 tháng 12 năm 2000 và kết thúc vào năm 2001. Lô thứ hai trong 38 chiếc được đặt hàng năm 2001 và bắt đầu giao hàng năm 2003.
+Không quân Hải quân Quân giải phóng Nhân dân sử dụng 24 chiếc Su-30MK2. Những máy bay này được đặt mua vào tháng 1 năm 2003 và giao hàng vào tháng 8 năm 2004.
+ Ấn Độ
+Không quân Ấn Độ, sau những năm đàm phán đã quyết định đặt mua 50 máy bay Su-30 và giành được giấy phép từ Sukhoi và Nga để sản xuất thêm 140 chiếc Su-30MKI nữa tại Ấn Độ. Công ty Hindustan Aeronautics Limited (HAL) của Ấn Độ là hãng sản xuất Sukhoi Su-30 với quy mô lớn trên thế giới. Ấn Độ đang mong chờ sẽ có được 230 chiếc Su-30MKI tính đến cuối năm 2015.
+ Indonesia
+Không quân Indonesia có 5 chiếc Su-27SK & 5 chiếc Su-30MK2
+ Malaysia
+Không quân Hoàng gia Malaysia sau chuyến tham quan những chiếc Su-30MKI của Ấn Độ, đã ký một thỏa thuận mua 18 chiếc Sukhoi Su-30MKM (M-Malaysia) vào tháng 5 năm 2003. 2 chiếc Su-30MKM đầu tiên đã được chính thức chấp nhận tại Irkutsk vào 23 tháng 5 2007, sau đó những máy bay này đã đến căn cứ không quân Gong Kedak vào ngày 21 tháng 6. Phi đội đầy đủ gồm 18 máy bay đã hoạt động vào cuối năm 2008. Một phần của thỏa thuận, Nga sẽ gửi một phi hành gia của Malaysia đến ISS.
+ Uganda
+Không quân Ugandan đặt mua 8 chiếc Su-30MK2 với tổng trị giá là 744 triệu USD.
+ Nga
+Không quân Nga có ít nhất 19 chiếc đang phục vụ.
+ Venezuela
+Không quân Venezuela và chính phủ Venezuela vào 14 tháng 6 2006, đã thông báo đặt mua 24 chiếc Su-30MK2. 2 chiếc Su-30MK2 đầu tiên đã được giao vào tháng 12 năm 2006 trong khi 8 chiếc khác được giao trong năm 2007, 10 chiếc khác được giao năm 2008 và 4 chiếc còn lại sẽ theo lịch trình sẽ giao cuối năm 2008.
+ Việt Nam
+Tới năm 2016, Không quân Nhân dân Việt Nam đã có 36 chiếc Su-30MK2V.
+
+
+== Thông số kỹ thuật (Su-27PU/Su-30) ==
+
+Dữ liệu lấy từ KNAAPO Su-30MK page, Sukhoi Su-30MK page, Gordon and Davidson
+
+
+=== Đặc điểm riêng ===
+Phi hành đoàn: 2
+Chiều dài: 21.935 m (72.97 ft)
+Sải cánh: 14.7 m (48.2 ft)
+Chiều cao: 6.36 m (20.85 ft)
+Diện tích cánh: 62.0 m² (667 ft²)
+Trọng lượng rỗng: 17.700 kg (39.021 lb)
+Trọng lượng cất cánh: 24.900 kg (54.900 lb)
+Trọng lượng cất cánh tối đa: 34.500 kg (76.060 lb)
+Động cơ: 2× động cơ phản lực cánh quạt đẩy tỷ lệ đường vòng thấp AL-31FL
+Lực đẩy: 7.600 kgf (74.5 kN, 16.750 lbf) mỗi chiếc
+Lực đẩy khi đốt nhiên liệu phụ trội: 12.500 kgf (122.58 kN, 27.560 lbf) mỗi chiếc
+
+
+=== Hiệu suất bay ===
+Vận tốc cực đại: Mach 2.0 (2.120 km/h, 1.320 mph)
+Tầm bay: 3.000 km (1.620 dặm)
+Trần bay: 17.300 m (56.800 ft)
+Vận tốc bay lên: 230 m/s (45.275 ft/min)
+Áp lực lên cánh: 401 kg/m² (82.3 lb/ft²)
+Lực đẩy/trọng lượng: 0.89
+
+
+=== Vũ khí ===
+Su-27PU có 8 giá treo vũ khí, trong khi Su-30MK có 12 giá treo vũ khí: 2 giá treo ở đầu cánh 3 giá treo dưới mỗi cánh, dưới mỗi động cơ có 1, và 2 giá treo tại điểm tiếp giáp giữa động cơ và cánh. Mọi phiên bản có thể mang 8 tấn vũ khí (phiên bản Su-30MKK được một số nguồn cho rằng có thể mang 12 tấn vũ khí nhờ sử dụng một số bộ phận làm bằng composite khiến khung thân nhẹ hơn).
+1× pháo GSh-30-1 30 mm 150 viên đạn
+Tên lửa không đối không: 6× R-27ER1 (AA-10C), 2× R-27ET1 (AA-10D), 6× R-73E (AA-11), 6× RVV-AE (AA-12)
+Tên lửa không đối đất: 6× Kh-31P/Kh-31A tên lửa chống radar, 6× Kh-29T/L tên lửa dẫn đường bằng laser, 2× Kh-59ME, 1x Kh-41
+Bom: 6× KAB 500KR, 3× KAB-1500KR, 8× FAB-500T, 28× OFAB-250-270
+
+
+== Tham khảo ==
+
+Gordon, Yefim and Davidson, Peter. Sukhoi Su-27 Flanker, Specialty Press, 2006. ISBN 978-1-58007-091-1.
+
+
+== Liên kết ngoài ==
+[6]
+Su-30MK page on Sukhoi.org
+Su-30 page on FAS.org
+Su-30 page on GlobalSecurity.org
+Su-30 page on Milavia.net
+Su-30MK page on Airforce-Technology.com
+Sukhoi Flankers - The Shifting Balance of Regional Air Power
+Su-27 Series at Greg Goebel's AIR VECTORS
+Su-30 page on Veniks Aviation
+Su-30 page on Fighter Tactics Academy site
+Asia's Advanced Flankers on ausairpower.net
+Sukhoi Su-30 Videos
+Video on YouTube
+Su-30 Videos
+Malaysian SU-30MKM
+Su-30 bay biểu diễn
+
+
+== Nội dung liên quan ==
+
+
+=== Máy bay có cùng sự phát triển ===
+Sukhoi Su-27
+Sukhoi Su-33
+Sukhoi Su-34
+Sukhoi Su-35
+Sukhoi Su-37
+Shenyang J-11
+
+
+=== Máy bay có tính năng tương đương ===
+Eurofighter Typhoon
+F-15E Strike Eagle
+F/A-18E/F Super Hornet
+Mikoyan MiG-29M2
+
+
+=== Danh sách tiếp theo ===
+
+
+=== Xem thêm ===
+Danh sách máy bay chiến đấu
+Danh sách các máy bay chiến đấu Liên bang Xô viết và CIS

@@ -1,0 +1,113 @@
+Windows Media Player (tiếng Anh của Trình chơi phương tiện Windows, viết tắt WMP) là một trình đa phương tiện hỗ trợ miễn phí của Microsoft Windows để chơi các phương tiện số đồng thời là một thư viện phương tiện. Windows Media Player là phần mềm được tự động cài ngay khi bạn cài hệ điều hành Windows của Microsoft.
+Windows Media Player có thể chạy trên máy tính cá nhân cài hệ điều hành Windows, Mac OS X, Solaris, hay cũng như trên Pocket PC và các thiết bị sử dụng Windows Mobile khác. Tuy có thể chạy trên Mac OS X nhưng hiện nay Microsoft đã chính thức cho ngừng phát triển phiên bản mới dành cho hệ điều hành này và chỉ cho người dùng tải về phiên bản mới nhất là 9.0.
+Bên cạnh chức năng của một chương trình chơi phương tiện, Windows Media Player còn có khả năng rip nhạc từ đĩa compact và đồng bộ dữ liệu với các thiết bị chơi nhạc hoặc các thiết bị di động khác.
+Windows Media Player được thay thế cho Media Player, một chương trình chơi nhạc và hình ảnh đơn giản thời kỳ đầu của Microsoft.
+Định tập tin mặc định của Windows Media Player là WMV (Windows Media Video & Audio), WMA (Windows Media Audio) và ASF (Advanced Streaming Format). Ngoài ra Windows Media Player cũng hỗ trợ danh mục trình diễn theo định dạng XML gọi là WPL (Windows Playlist).
+
+
+== Tính năng ==
+Chơi âm thanh, video, hình ảnh với khả năng nhảy tới, lui chọn thời điểm, xem nhanh hay chậm.
+Hỗ trợ chơi các tập tin trên máy, trực tuyến cũng như tải về.
+
+Có thể chuyển qua Mini mode. Mini mode được đặt ở taskbar của máy và có những nút cần thiết nhất để dùng WMP
+Hỗ trợ bất cứ phương tiện codec nào và nội dung định dạng sử dụng những bộ lọc đặc biệt DirctX.
+Có các tính năng quản lý phương tiện với thư viện phương tiện được tích hợp, lập danh mục, sắp xếp theo album, nghệ sĩ, thể loại, ngày phát hành,...
+Video Smoothing sử dụng phép nội suy, tự động thêm các khung hình tạo hiệu ứng khiến việc chơi video trở nên mượt mà hơn đối với những tập tin có tỷ lệ cũng như tốc độ khung hình thấp.
+Kết hợp bộ cân bằng âm thanh đồ họa 10 dải băng và SRS WOW. Windows Media Player cũng có thể gắn các plug-in hỗ trợ quá trình phát âm thanh và hình ảnh.1
+http://www.gezginler.net/modules/mydownloads/singlefile.php?download=windows-media-player&lid=2499
+
+
+== Windows Media Player 11 ==
+Windows Media Player 11 là phiên bản mới nhất của WMP. Phiên bản này dành cho Windows XP và Windows Vista. Phiên bản này đã có rất nhiều sự thay đổi so với phiên bản cũ. Media Library không còn được xếp theo thứ tự từ trên xuống dưới (tree-based listing). Những thể loại hay những playlist không còn để ở bên trái mà ở bên phải. Những icons rất sinh động và thumbnails có hình của album hay là hình khác do người sử dụng tự chọn. Nếu như mà bài hát không có tên album, ca sĩ, nhạc sĩ, năm phát hành, hoặc là hình của album thì Windows Media Player có thể tự động thêm vào nếu có sẵn trong máy hay là nó có thể tự tìm. Windows Media Player 11 có thêm Windows Media Format 11.
+Những chức năng khác:
+Stacking - stacking có những sự miêu tả sống động về tổng số album ở trong một thể loại hoặc folder. Càng nhiều files thì cái stack sẽ lớn hơn.
+Word Wheel - khi đi tìm bất cứ thứ gì trong WMP, bạn không cần đợi để nhấn Enter key để thấy được kế quả. Kết quả sẽ tự động hiện ra phía dưới khi bạn nhấn bất cứ chữ gì.
+CD Burning - khi burn, số lượng MB sẽ tự động hiện ra.
+URGE - là cửa hàng bán nhạc mới của Microsoft và MTV được đi cùng với Windows Media Player.
+Có thể rip audio CDs qua WAV.
+Có thể nối kết với lạ những cửa hàng bán nhạc online.
+Dics Spanning sẽ cắt burn list ra làm hai nếu đĩa không còn chỗ để chứa.
+Microsoft phát hành beta của Windows Media Player11 cho Windows XP vào ngày 17/5/2006 và bản beta thứ hai ngày 31/8/2006. Bản chính thức của Windows Media Player 11 ra ngày 30/10/2006 và Windows Vista mới sẽ có sẵn WMP 11. Microsoft phải phát hành riêng một phiên bản của Windows Vista mà không có Windows Media Player cho châu Âu vì luật không tin vào Microsoft của họ. Phiên bản này tên là "Windows Vista N".
+
+
+== Windows Media Player 12 ==
+Phát hành tháng 10 năm 2008 Trong Hội nghị phát triển chuyên môn (Professional Developers Conference) là một phần đi kèm trong Windows 7. Không được tải về và sử dụng trong các phiên bản trước.
+Windows Media Player 12 hỗ trợ thêm cho H.264 và định dạng video MPEG 4 Part-2, audio AAC và 3GP, định dạng container MP4 và MOV. Microsoft đã công nhận AVCHD là một trong những triển khai phổ biến các chương trình mã hóa H.264, có phần đuôi là m2ts và mts trước khi đăng ký trong hệ thống. Windows Media Player 12 có thể chỉ mục nội dung của tập tin này, trong khi Windows Explorer có khả năng tạo hình thu nhỏ cho mỗi clip.
+Giao diện của Windows Media Player 12 được thiết kế lại đáng kể.
+
+
+==== Tính năng đã bị hủy ====
+Advanced Tag Editor cho phép người dùng siêu chỉnh sửa các thông tin của tệp.
+Khả năng hiển thị lời bài hát tĩnh.
+Menu ngữ cảnh Tìm trong thư viện đã loại bỏ. Thay vào đó, nó được tích hợp vào thư viện nhạc trong Windows 7.
+
+
+=== Pocket PC / Smartphone ===
+Microsoft đã phát hành những phiên bản khác cho Pocket PC chỉ có Pocket PC / Windows Mobile là vẫn được Microsoft tiếp tục phát triển phiên bản mới.
+
+
+== Zune ==
+Zune thật ra là một version khác của WMP. Nhưng Windows Media Player cần có bộ lọc DirectShow thì mới coi được AAC, MPEG-4 và H.264 media. Zune thì có sẵn DirectShow decoders cho AAC (nhưng không tốt lắm) (.mp4,.m4a,.m4b,.mov), MPEG-4 (.mp4,.m4v,.mov) và H.264 (.mp4,.m4v,.mov).
+
+
+=== Mac OS X ===
+
+Windows Media Player 9 là phiên bản cuối cùng của media player mà Microsoft phát hành cho Mac OS X vì có rất nhiều người sử dụng của Mac OS X nói là phiên bản cho Mac OS X không có hỗ trợ nhiều định dạng (format), thiếu ổn định và thiếu tính năng. Phiên bản cũng không có những tính năng căn bản mà Windows Media Player 9 cho Windows có. Microsoft đã tuyên bố ngưng phát triển kể từ ngày 12-01-2006. Thay vào đó, Microsoft sẽ cung cấp một plugin (gọi là WMV Player) cho phép trình QuickTime của Apple có thể chơi được một số định dạng của Windows Media. Những người sử dụng Mac cũng có thể dùng VLC Media Player. VLC Media Player hỗ trợ WMV-3 / WMV-9 / VC-1 Windows Media files.
+
+
+== Lịch sử phát hành ==
+
+
+=== 1998 ===
+
+25 tháng 6 Windows Media Player 6.1
+
+
+=== 2000 ===
+
+17 tháng 7 Windows Media Player 6.3 cho Mac OS
+17 tháng 7 Windows Media Player 6.3 cho Solaris
+17 tháng 7 Windows Media Player 7 cho Windows 98 và Windows 2000
+14 tháng 9 Windows Media Player 7.0 cho Windows Me gói sẵn với hệ điều hành
+12 tháng 12 Windows Media Player 7 cho Pocket PC
+
+
+=== 2001 ===
+
+24 tháng 7 Windows Media Player 7.0.1 cho Mac OS
+25 tháng 10 Windows Media Player 8 cho Windows XP gói sẵn với hệ điều hành khi phát hành
+
+
+=== 2002 ===
+8 tháng 1 Windows Media Player 7.1 cho Mac OS
+
+
+=== 2003 ===
+
+27 tháng 1 Windows Media Player 9 cho Windows 98 Second Edition, Windows Me, và Windows 2000 và bản riêng lẻ cho Windows XP
+23 tháng 6 Windows Media Player 9 cho Pocket PC
+7 tháng 11 Windows Media Player 9 cho Mac OS X
+
+
+=== 2004 ===
+
+10 tháng 8 Windows Media Player 9 cho Windows XP Service Pack 2 gói sẵn với hệ điều hành khi phát hành
+Tháng 10 Windows Media Player 10 cho Windows XP gói sẵn với Windows XP Media Center Edition 2005, khi phát hành vào 10/12/2004. Windows Media Player 10 Mobile cho Pocket PC và SmartPhone. Bao gồm trong Windows Mobile 5.0
+
+
+=== 2006 ===
+
+17 tháng 5 Windows Media Player 11 công bố bản thử nghiệm cho Windows XP
+
+Windows Media Player version 7.0 (và cũ hơn) cho Windows bao gồm phiên bản 6.4 như một ứng dụng riêng lẻ, có thể truy xuất bằng cách gọi tập tin mplayer2.exe trong thư mục cài đặt.
+
+
+=== 2009 ===
+29 tháng 10 Windows Media Player 12 đã ra mắt trong Windows 7. Được coi như là một tính năng có trong Windows 7 và không được tải về cho các phiên bản Windows trước.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang web chính thức của Microsoft Windows Media

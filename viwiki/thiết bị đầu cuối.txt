@@ -1,0 +1,13 @@
+Trong viễn thông (telecommunication), từ thiết bị đầu cuối có những nghĩa sau đây:
+Thiết bị truyền thông ở hai đầu dây liên kết mối giao thông, giúp cho các trạm thông nối hoàn thành nhiệm vụ định trước.
+Thiết bị, trong các hệ thống tiếp âm radio, dùng để thu và phát số liệu. Nên phân biệt sự khác nhau của thiết bị này với các thiết bị dùng để tiếp các tín hiệu đã được giải điều biến lại để khôi phuc tín hiệu gốc.
+Các tổng đài điện thoại và điện tín (switchboards - trung tâm chuyển mạch) cùng những linh kiện trung tâm khác, nơi mạch truyền thông kết thúc.
+
+
+== Xem thêm ==
+Thiết bị cuối xử lý số liệu (Data terminal equipment), một thiết bị ở cuối đường dây chuyển đổi những tin tức của người dùng sang tín hiệu để truyền qua đường dây, hoặc chuyển đổi những tín hiệu thu được thành tin tức người ta có thể dùng được.
+Thiết bị đầu cuối là những thiết bị như: Máy điện thoại, máy tính, máy fax... Thiết bị đầu cuối có nhiệm vụ giải mã những tín hiệu và mã do tổng đài hoặc trung tâm chuyển mạch chuyển đến, Ta có thể hiểu thiết bị đầu cuối là một trong 3 thành phần quan trọng trong hệ thống viễn thông sau: Hệ thống tổng đài và hệ thống truyền dẫn.
+Federal Standard 1037C
+
+
+== Tham khảo ==

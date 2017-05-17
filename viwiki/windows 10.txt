@@ -1,0 +1,55 @@
+Windows 10 là phiên bản kế tiếp của hệ điều hành Microsoft Windows và Windows Phone được tiết lộ vào 30 tháng 9 năm 2014 và đã được công bố chính thức vào ngày 21 tháng 1 năm 2015
+Lần đầu được giới thiệu vào tháng 4 năm 2014 tại hội nghị BUILD, Windows 10 nhắm đến những thiếu sót trong giao diện người dùng của Windows 8, cải thiện trải nghiệm người dùng cho các thiết bị không có màn hình cảm ứng, như máy tính bàn hoặc máy tính xách tay, bao gồm sự trở lại của Start Menu đã từng thấy ở Windows 7, tính năng Desktop ảo, và khả năng để chạy những ứng dụng Modern trong những cửa sổ nằm trên Desktop thay vì luôn chạy ở chế độ toàn màn hình như trước kia. Các máy chạy Windows 7 SP1, Windows 8.1 with Update 1 sẽ được nâng cấp trực tiếp lên Windows 10 qua Windows Update.
+
+
+== Lịch sử ==
+Windows 10 đã xuất hiện vào 29/7/2015. Microsoft giới thiệu các phiên bản sớm của hệ điều hành cho những người đam mê qua Chương trình Người dùng Nội bộ Windows, mời khách hàng đóng góp vào sự phát triển và tương lai của Windows 10. Các thiết bị trên toàn thế giới được kết nối ở mức cao và chia sẻ nội dung, Windows 10 làm việc để làm cho sự cộng tác đó liền mạch và thú vị.
+Chương trình Người dùng Nội bộ Windows đóng vai trò quan trọng trong việc làm cho Windows 10 trở nên tuyệt vời. Người dùng Nội bộ khám phá và phản hồi các bản dựng xem trước, điều này nghĩa là Microsoft có thể phát triển các giải pháp theo phản hồi trực tiếp từ những người tiêu dùng sử dụng Windows hàng ngày. Nó được phát hành chính thức theo cách bình thường, gần như phát hành một phiên bản thử nghiệm mới. Ngay sau khi khởi động lần đầu trên máy tính của người dùng, Windows 10 bắt đầu được cập nhật.
+Từ động thái của Microsoft, các nhà bình luận cho rằng sẽ không còn chuyện cài đặt các gói cập nhật lớn Service Pack như trước. Mọi người sẽ dần quen với sự thường xuyên cập nhật của Windows, giống như trình duyệt Chrome của Google. Số hiệu phiên bản Windows sẽ không quan trọng như trước. Có thể Windows 10 là tên gọi cuối cùng, phiên bản Windows mới nhất bao giờ cũng vẫn là Windows 10. Hoặc mọi người sẽ dần quen với tên gọi Windows không có số hiệu phiên bản.
+Microsoft không muốn thị trường Windows tiếp tục bị phân mảnh thành nhiều phiên bản. Cho đến gần đây, các phiên bản Windows 8, Windows 8.1, Windows 7, Windows Vista và Windows XP hoặc xưa hơn vẫn còn lưu hành trên khắp thế giới và nhiều người vẫn còn trung thành với phiên bản cũ. Điều này gây rắc rối cho Microsoft và cho người phát triển ứng dụng. Người phát triển ứng dụng luôn phải phân vân lựa chọn mục tiêu: tạo ra ứng dụng cho phiên bản Windows mới nhất hoặc cho phiên bản Windows phổ biến nhất hoặc cố gắng "gom góp" cả những người còn dùng Windows XP.
+Sự đa dạng không mong muốn của thị trường Windows xuất phát từ lề lối phát hành Windows trong quá khứ. Người dùng Windows cá nhân thường mua máy tính cài sẵn Windows, chứ không mua Windows riêng rẽ. Sau vài năm, khi có phiên bản Windows mới, phần lớn người dùng vẫn đợi đến khi mua máy tính mới, có sẵn Windows mới. Những người bỏ tiền nâng cấp ngay Windows trên máy tính cũ chỉ là thiểu số. Do vòng đời máy tính khoảng 5-6 năm, phiên bản Windows trên máy tính của người dùng thường có tuổi thọ chừng ấy năm. Phiên bản Windows cũ luôn "sống lâu, sống khỏe" hơn hẳn dự định của Microsoft.
+Windows 10 đang thay đổi lề lối cũ. Microsoft cho phép người dùng Windows 7/8/8.1 nâng cấp miễn phí lên Windows 10 trong một năm đầu từ ngày phát hành. Với máy tính dùng Windows 10, Microsoft sẽ liên tục cho cập nhật miễn phí để máy tính luôn dùng phiên bản Windows mới nhất cho đến khi máy tính không dùng được nữa. Nói khác đi, đối với người dùng cá nhân, việc nâng cấp Windows trên máy tính cũ sẽ không còn cần thiết. Họ sẽ gián tiếp trả tiền cho Microsoft khi mua máy tính mới (vì nhà sản xuất máy tính phải mua Windows từ Microsoft). Với người dùng doanh nghiệp, Microsoft có chính sách riêng. Người dùng doanh nghiệp có quyền quyết định một phần đối với tiến trình cập nhật Windows, nhằm bảo đảm những ứng dụng nghiệp vụ luôn hoạt động thông suốt.
+
+
+== Tính năng ==
+
+
+=== Giao diện người dùng và Desktop ===
+
+Giao diện người dùng của Windows 10 được thiết kế trước hết để tối ưu hóa trải nghiệm của nó dựa trên loại thiết bị và trình nhập liệu có sẵn, mang đến một "trải nghiệm đúng trên đúng thiết bị và đúng thời điểm." Cho những thiết bị không có màn hình cảm ứng, một biến thể của Menu Start trước kia được sử dụng làm một phần của giao diện người dùng, đem đến cả một danh sách ứng dụng truyền thống cùng một hộp tìm kiếm của phía bên trái, cùng với các Live Tile phong cách Windows 8 ở phía bên phải. Một hệ thống Desktop ảo mới được gọi là "Task View" cũng đã được bổ sung; tương tự như tính năng Exposé của OS X, nháy chuột vào nút Task View trên Thanh tác vụ hoặc trượt từ phía bên trái màn hình sang sẽ hiển thị mọi cửa sổ đang mở trên Desktop, cho phép người dùng chuyển giữa các cửa sổ, chia các cửa sổ về hai phía màn hình, hoặc chuyển qua lại các Desktop ảo. Các ứng dụng Modern trước đây chỉ có thể chạy trên chế độ toàn màn hình, giờ đây có thể chạy trên các cửa sổ nằm trên Desktop. Khi các ứng dụng Modern được chạy theo cách này, một trình đơn "App Commands" nằm trên thanh tiêu đề của cửa sổ được sử dụng để kích hoạt các tính năng đã từng thấy trên Thanh Charm.
+Màn hình Bắt đầu vẫn được sử dụng, nhưng có thêm cột ở phía bên trái của màn hình để hiển thị lối tắt và nút "Tất cả ứng dụng", tương tự như Menu Bắt đầu.Surface Pro 3 và một số tablet lai laptop khác khi được kết nối với bàn phím, người dùng sẽ được hỏi có tiếp tục sử dụng giao diện thân thiện với cảm ứng, hay chuyển sang chế độ tối ưu cho chuột và bàn phím.
+
+
+=== Thành phần giao diện hệ thống ===
+Windows 10 sẽ đến cùng với DirectX 12;GDC với khả năng tránh cho CPU và card đồ họa bị quá tải.Command Prompt có thêm tính năng ngắt dòng của dữ liệu đầu ra và khả năng để sử dụng các phím tắt như dán (paste) văn bản bằng cách sử dụng tổ hợp phím Ctrl+V
+Điểm nhấn của Windows 10 là có thể được cài đặt trên Windows PC,Windows Phone,Windows Embedded và Xbox One, cũng như trên các sản phẩm mới của Microsoft như Surface Hub và HoloLens. Các sản phẩm này có một điểm chung là các ứng dụng và Windows Store có cấu trúc được phát triển trên nên tảng Windows Runtime sẽ giống như Windows 8. Windows 10 cung cấp nhiều tính năng mới, ví dụ như sự xuất hiện của Cortana (trợ lý ảo từng được giới thiệu trên Windows Phone), hệ thống thông báo có thể được đồng bộ trên nhiều thiết bị, tính năng mới của Xbox Live. Windows 10 cũng sẽ ra mắt trình duyệt web mới mang tên Microsoft Edge (tên mã Project Spartan) để thay thế cho Internet Explorer.
+
+
+=== Hệ thống bảo mật ===
+Windows 10 kết hợp công nghệ xác thực đa yếu tố dựa trên tiêu chuẩn của Liên Minh FIDO. Hệ điều hành bao gồm cải thiện hỗ trợ cho việc xác thực sinh trắc học thông qua Windows Hello và nền tảng Hộ chiếu; các thiết bị hỗ trợ camera cho phép người dùng đăng nhập qua nhận diện khuông mặt hoặc quét mống mắt.
+
+
+== Sự xuất hiện của trình duyệt Microsoft Edge ==
+
+Trong buổi ra mắt Windows 10, Microsoft cho biết, sẽ có một trình duyệt web mới thay thế cho Internet Explorer, gây sốc với quyết định "khai tử" Internet Explorer (IE) và thay vào đó là một sản phẩm hoàn toàn mới - Project Spartan. Theo ý tưởng ban đầu của hãng, đây sẽ là trình duyệt không chỉ được sử dụng trên Windows 10 của máy tính, mà còn được dùng trên Windows 10 dành cho máy tính bảng, và smartphone... Trình duyệt này hoạt động trên các bản build từ 10049 trở đi. Tại hội nghị Microsoft Build 2015, khi Windows 10 chính thức ra mắt vào cuối mùa hè năm 2015, Project Spartan sẽ được đổi tên thành Microsoft Edge. Microsoft Edge vẫn sử dụng biểu tượng chữ “e” quen thuộc của Internet Explorer, nhưng đã có một sự chỉnh sửa nho nhỏ trên biểu tượng này để tạo sự mới mẻ. Hướng tới đối tượng chủ yếu là các doanh nghiệp và được thiết kế với nhiều cải tiến mới vô cùng hữu dụng (tương tác giọng nói Cortana, new tab, tính năng ghi chú đặc biệt ngay trên website,...) nhưng vẫn chú trọng, tập trung vào tiêu chí đơn giản, hỗ trợ người dùng một cách tối đa. Ngoài ra, Microsoft Edge còn có cả một kho ứng dụng của riêng mình, với rất nhiều những tiện ích mở rộng nhằm giúp người dùng nâng cao khả năng trải nghiệm khi duyệt web đồng thời khẳng định chất lượng của một trình duyệt hiện đại.
+Đại diện của Microsoft, ông Joe Belfiore đã từng phát biểu trong buổi giới thiệu Microsoft Edge tại Hội nghị BUILD 2015 rằng: "Edge là trình duyệt phục vụ nhu cầu của người dùng cuối". Điều đó có nghĩa, hãng đã có những thay đổi, điều chỉnh nhất định để trình duyệt mặc định mới nhất cho Windows 10 này có thể tương thích, sử dụng tất cả những extension mà người dùng của Firefox và Chrome đã vô cùng quen thuộc. Có thể nói, với những gì mà trình duyệt này đang sở hữu, cộng thêm việc Microsoft đang "rục rịch" lấn sân để phát triển ứng dụng đa nền tảng, Microsoft Edge hứa hẹn sẽ trở thành "đối thủ" ngang tầm với hai trình duyệt được sử dụng nhiều nhất hiện nay.
+
+
+== Lỗi ==
+Máy tính chạy Windows 10 sẽ yêu cầu được khởi động lại sau khi tải xong bản cập nhật KB3081424(một cập nhật quan trọng) để cài đặt bản cập nhật này. Tuy nhiên, quá trình khởi động lại không chỉ diễn ra một lần mà nó có thể xảy ra liên tục cho tới khi Windows 10 hiện thông báo cập nhật thất bại (Hiện tượng này chỉ xảy ra thường xuyên đối với Windows 10 build 10240)
+
+
+== Tiếp nhận ==
+
+
+=== Tên gọi ===
+Tuy nhiên, một thành viên trên diễn đàn Reddit, người tự xưng là một nhà phát triển của Microsoft, có câu trả lời thuyết phục hơn. Thực ra, Windows mới có tên Windows 10 để tránh nhầm lẫn nếu đặt tên là Windows 9. Bởi vì, họ muốn chỉ đọc một vài chữ đầu tiên của tên hệ điều hành đang dùng là có thể biết người dùng đang sử dụng phiên bản Windows nào, trong khi đó, nếu đặt tên cho hệ điều hành mới là Windows 9, họ có thể nhầm lẫn sang Windows 95 hoặc Windows 98.
+Đó cũng như một dạng thảm họa y2k, vì các nhà lập trình không nghĩ rằng kế hoạch đặt tên cho Windows có thể vướng vào tình huống kiểu "Windows 9x", đồng thời các nhà lập trình cũng không muốn phải đưa thêm các đoạn mã mới để tránh tình thế nhầm lẫn "Windows 9" hay "Windows 95" hay "Windows 98". Tất nhiên, những suy đoán này chỉ là một lý thuyết chưa được chứng minh và Microsoft có thể cũng không bao giờ đưa ra lý do thực sự.
+
+
+== Xem thêm ==
+Lịch sử hệ điều hành
+Các thủ thuật sử dụng Windows 10
+
+
+== Tham khảo ==

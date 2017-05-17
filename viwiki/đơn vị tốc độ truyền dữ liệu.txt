@@ -1,0 +1,28 @@
+Hiện nay, có hai loại đơn vị đo tốc độ đường truyền dữ liệu được sử dụng là 2 khái niệm hoàn toàn khác nhau nhưng lại dễ khiến cho nhiều người nhầm lẫn vậy chúng khác nhau như thế nào, hay cùng tìm hiểu về nó nào
+
+
+== Megabit trên giây ==
+Megabit trên giây (tiếng Anh: megabit per second; viết tắt là Mbps), là đơn vị đo tốc độ truyền dẫn dữ liệu, tương đương 1.000 kilobit trên giây hay 1.000.000 bit trên giây.
+Băng thông của dịch vụ Internet dân dụng thường được đo bằng Mbit/s.
+Đa số các ứng dụng video được đo bằng Mbit/s:
+32 kbit/s – chất lượng videophone
+2 Mbit/s – chất lượng VHS
+8 Mbit/s – chất lượng DVD
+27 Mbit/s – chất lượng HDTV
+
+
+== Megabyte trên giây ==
+Một đơn vị đo tốc độ truyền dẫn dữ liệu khác là megabyte trên giây (MBps hoặc MB/s), bằng:
+1 megabyte/s (1MBps) = 1024 Kilobytes/s (1024 KBps) = 1024*1024 Bytes/s = 1024*1024*8 bits/s
+Nhiều giao diện dữ liệu máy tính được đo bằng MB/s:
+PATA 33-133 MB/s
+SATA 150-300 MB/s
+PCI 133-533 MB/s
+
+
+== Tránh nhầm lẫn ==
+Không nên nhầm lẫn giữa một megabyte trên giây và một megabit trên giây:
+Chắc hẳn các bạn thường tự hỏi vì sao mạng nhà mình là gói 10 "Mê" mà tốc độ hiển thị trên chương trình IDM chỉ 1,2-1,3 "Mê". Chỉ khác nhau giữa chữ B viết hoa và chữ b viết thường nhưng nó là 2 khái niệm hoàn toàn khác nhau và dễ khiến cho nhiều người nhầm lẫn. Các nhà mạng thường quy định tốc độ mạng là Mbps. Nhưng tốc độ Download của chương trình Internet Download Manager là MBps. Chắc các bạn cũng biết 1Byte = 8bit, vì vậy nên 1MBps = 8Mbps Đó là lý do vì sao trên chương trình IDM chỉ hiển thị tốc độ truyền dữ liệu chỉ khoảng 1.2 Mbps
+
+
+== Tham khảo ==

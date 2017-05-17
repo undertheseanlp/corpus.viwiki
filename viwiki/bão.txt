@@ -1,0 +1,53 @@
+Bão là trạng thái nhiễu động của khí quyển và là một loại hình thời tiết cực đoan.
+Ở Việt Nam, thuật ngữ "bão" thường được hiểu là bão nhiệt đới, là hiện tượng thời tiết đặc biệt nguy hiểm chỉ xuất hiện trên các vùng biển nhiệt đới, thường có gió mạnh và mưa lớn. Tuy thế, thuật ngữ này rộng hơn bao gồm cả các cơn dông và các hiện tượng khác hiếm gặp ở Việt Nam như bão tuyết, bão cát, bão bụi...
+Bão là xoáy thuận quy mô synop (500–1000 km) không có front, phát triển trên miền biển nhiệt đới hay cận nhiệt đới ở mực bất kỳ và có hoàn lưu xác định.
+Trong không gian ba chiều, bão là một cột xoáy khổng lồ, ở tầng thấp (khoảng 0–3 km) không khí nóng ẩm chuyển động xoắn trôn ốc ngược chiều kim đồng hồ (ở Bắc Bán Cầu) hội tụ vào tâm, chuyển động thẳng đứng lên trên trong thành mắt bão và toả ra ngoài ở trên đỉnh theo chiều ngược lại. Ở chính giữa trung tâm của cơn bão không khí chuyển động giáng xuống, tạo nên vùng quang mây ở mắt bão.
+Các thành phần chính của bão bao gồm các dải mưa ở rìa ngoài, mắt bão nằm ở chính giữa và thành mắt bão nằm ngay sát mắt bão.
+Giá trị khí áp nhỏ nhất tại tâm bão và tăng dần ra phía rìa bão. Càng vào gần tâm, cường độ gió bão càng mạnh, khu vực tốc độ gió mạnh nhất cách tâm bão khoảng vài chục km. Vào vùng mắt bão gió đột ngột yếu hẳn, tốc độ gió gần bằng không. Khi qua khỏi vùng mắt bão gió lại đột ngột mạnh lên nhưng có hướng ngược lại, đây chính là tính chất ảnh hưởng nguy hiểm nhất của bão.
+
+
+== Các loại bão ==
+Bão tuyết: là hiện tượng tuyết rơi rất dày kèm theo gió mạnh. Thường xuất hiện ở các nước đới lạnh hoặc đới ôn hòa.
+Lốc cát: còn gọi là quỷ cát, là hiện tượng cát cuốn lên rất cao, xảy ra vào giữa trưa, ở những vùng sa mạc.
+Tố: là hiện tượng gió tăng tốc một cách đột ngột, đi kèm với những cơn dông mạnh
+Dông: là loại bão có đi kèm sấm sét, mưa to hoặc thậm chí mưa đá, vòi rồng.
+Lốc xoáy
+Bão lửa
+Bão nhiệt đới
+
+
+== Bão nhiệt đới ==
+Xem bài chính bão nhiệt đới
+Các cơn bão thường hình thành khi một tâm áp thấp phát triển với một hệ thống áp cao xung quanh nó. Sự kết hợp của các lực đối nghịch có thể sinh ra gió và hình thành các đám mây bão, chẳng hạn mây vũ tích.
+Một định nghĩa khí tượng chặt về một cơn bão là có cấp gió Beaufort lớn hơn hoặc bằng 10, (89 km/h). Ở Việt Nam, gió xoáy có cấp Beaufort từ 6 đến 7 trên một diện rộng gọi là áp thấp nhiệt đới. Gió xoáy từ cấp 8 trở lên trên một diện rộng, có thể kèm theo mưa lớn gọi chung là bão.
+Ngoài thang sức gió Beaufort, còn dùng các thang khác như thang bão Saffir-Simpson. Ở Việt Nam, do hầu như không có bão mạnh đến mức cần sử dụng thang bão Saffir-Simpson, nên người ta chỉ cần sử dụng thang sức gió Beaufort để mô tả sức mạnh của chúng là đủ. Các thang sức gió giúp phân loại bão theo cường độ gió kéo dài, theo áp suất tâm bão, theo mức độ tàn phá, mức độ gây ngập lụt...
+
+
+== Các giai đoạn bão (xoáy thuận nhiệt đới) ==
+Vùng áp thấp (low pressure area): có vùng áp thấp trên bản đồ khí áp bề mặt, nhưng vị trí trung tâm không thể xác định được
+Áp thấp nhiệt đới (Tropical Depression): vị trí trung tâm có thể xác định được, nhưng Vmax < 34 kt
+Bão tố nhiệt đới (Tropical Storm - TS): Vmax 34-47 kt ("storm" gốc từ tiếng Hà Lan là "giông tố", tiếng Trung là "cuồng phong", ở đây tạm dịch là "bão tố"
+Bão tố nhiệt đới dữ dội (severe TS): Vmax 48-63 kt
+Bão cuồng phong (Typhoon): Vmax => 64 kt. Có cơn bão quá mạnh người ta gọi là "siêu bão" (supertyphoon).
+
+
+== Bão trong vũ trụ ==
+Xem bài chính bão trong vũ trụ
+Bão trong vũ trụ là dòng các vật chất trôi dạt trong vũ trụ, tập trung chuyển động tương đối theo cùng một hướng. Trong khoa học khí tượng-thiên văn, bão trong vũ trụ thường được hiểu là các bão vật chất chuyển động trong phạm vi Hệ Mặt Trời. Ví dụ như Vết Đỏ Lớn trên Sao Mộc hay Cơn Bão Trẻ.
+
+
+== Bão từ ==
+
+
+== Xem thêm ==
+
+Thang sức gió Beaufort
+Thang bão Saffir-Simpson
+Bão Damrey (bão số 7 năm 2005)
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Dự báo thời tiết bão lụt Việt Nam

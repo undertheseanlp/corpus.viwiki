@@ -1,0 +1,33 @@
+Trong các máy tính cá nhân sử sụng hệ điều hành Windows của Microsoft hay MS-DOS, những ký tự đặc biệt thích hợp với cách trình bày bàn phím kiểu QWERTY hiện nay có thể được gõ bằng cách kết hợp phím Alt và các phím số. Kỹ thuật này được gọi là mã Alt. Ví dụ:
+
+* à = ALT + 133
+* é = ALT + 130
+* í = ALT + 161
+* ó = ALT + 162
+* á = ALT + 160
+* ú = ALT + 163
+* ü = ALT + 129
+* ¡ = ALT + 173
+* ¿ = ALT + 168
+* ñ = ALT + 164
+* Ñ = ALT + 165
+* Á = ALT + 0193
+* É = ALT + 0201
+* Í = ALT + 0205
+* Ó = ALT + 0211
+* Ú = ALT + 0218
+* Ü = ALT + 0220
+* © = ALT + 0169
+* ® = ALT + 0174
+* ™ = ALT + 0153
+v.v...
+
+Các liên kết giữa phím số và phím chữ dựa vào các mã mặc định trước. Ở hệ điều hành Windows, việc thêm số 0 đứng đầu các số thường sử dụng mã ANSI hơn là mã OEM. Ở các hệ thống sử dụng trong Hoa Kỳ, bảng mã ANSI là mã Windows-1252 và bảng mã OEM là bảng mã 437. Hầu hết các hệ thống ở Tây Âu thì bảng mã OEM được dùng là bảng mã 850.
+Nếu phím Num Lock không được kích hoạt, việc sử dụng mã Alt có thể gây nên các kết quả không mong muốn ở một số ứng dụng (ví dụ như Alt + 4 có tác dụng như Alt + [mũi tên trái] làm trình duyệt Web quay về trang vừa mới xem). Vì vậy, việc kích hoạt phím Num Lock là cần thiết cho việc sử dụng mã Alt.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Mã Alt

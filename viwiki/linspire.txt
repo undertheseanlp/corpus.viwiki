@@ -1,0 +1,47 @@
+Linspire, trước đây là LindowsOS là bản phân phối linux dựa trên Debian, và sau này là Ubuntu. Linspire được phát hành bởi Linspire, Inc. và tập trung vào tính dễ sử dụng, nhắm mục tiêu người sử dụng máy tính gia đình. Bản phát hành ổn định cuối cùng của Linspire là phiên bản 6.0, được phát hành vào tháng 10/2007.
+Ngày 1/7/2008, các cổ đông Linspire đã bỏ phiếu để đổi ten công ty thành Digital Cornerstone, và tất cả các tài sản được mua lại bởi Xandros.
+Ngày 8/8/2008, Andreas Typaldos, CEO của Xandros, thông báo rằng Xandros sẽ ngừng tài trợ cho Linspire; Freespire đã thay đổi base code từ Debian sang Ubuntu; và các thương hiệu Linspire sẽ chấm dứt tồn tại.
+
+
+== Lịch sử ==
+
+Có trụ sở tại San Diego, California, Lindows, Inc. được thành lập vào tháng 8/2001 bởi Michael Robertson ới mục tiêu phát triển một hệ điều hành dựa trên Linux có khả năng chạy các ứng dụng của Microsoft Windows. Nó dựa trên khả năng tương thích Windows trên các Wine API. Công ty sau đó đã từ bỏ cách tiếp cận này ủng hộ cố gắng để làm cho các ứng dụng Linux dễ dàng để tải về, cài đặt và sử dụng. Cuối cùng một chương trình tên là "CNR" đã được phát triển: dựa trên Advanced Packaging Tool của Debian, nó cung cấp một giao diện người dùng đồ họa dễ dàng sử dụng một hệ thống gói phần mềm chỉnh sửa cho một khoản phí hàng năm. Phát hành công khai đầu tiên của Lindows là phiên bản 1.0, phát hành vào cuối năm 2001.
+Năm 2002 Microsoft đã kiện Lindows, Inc. tuyên bố tên Lindows chứa một vi phạm thương hiệu Windows của họ. Đơn kiện của Microsoft đã bị tòa án từ chối, trong đó khẳng định rằng Microsoft đã sử dụng các thuật ngữ windows để mô tả các giao diện đồ họa người dùng trước khi sản phẩm Windows được phát hành, và rằng các kỹ thuật window đã được triển khai bởi Xerox và Apple Computer nhiều nắm trước đó. Microsoft tìm cách tái thẩm và sau này đã bị hoãn trong tháng 2/2004, được cung cấp để giải quyết các trường hợp. Như một phần của việc giải quyết cấp giấy phép, Microsoft trả khoảng 20 triệu USD, và Lindows, Inc. chuyển giao thương hiệu Lindows sang cho Microsoft và đổi tên nó thành Linspire, Inc.
+Ngày 15/6/2005, Michael Robertson trở thành CEO của Linspire, Inc. Ông tiếp tục làm chủ tịch và bị thay thế bởi CEO by Kevin Carmony. Carmony đã từ chức tại Linspire 31/7/2007.
+Linspire đã trở thành một thành viên của Interop Vendor Alliance được sáng lập năm 2006.
+Ngày 08/2/2007 Linspire, Inc. và Canonical Ltd, nhà tài trợ chính cũng như phát triển của hệ điều hành Ubuntu, đã công bố kế hoạch cho một quan hệ đối tác công nghệ mới, với Linspire nhằm "bắt đầu căn cứ... [của họ] cung cấp máy tính để bàn Ubuntu Linux."
+Ngày 13/6/2007, Linspire và Microsoft ã công bố một thỏa thuận hợp tác khả năng tương tác với một tập trung vào khả năng tương thích định dạng tài liệu, tin nhắn tức thì, phương tiện truyền thông kỹ thuật số, tìm kiếm trên web, và bằng sáng chế cam cho khách hàng của Linspire. Thỏa thuận này đã bị chỉ trích, đáng chú ý nhất của trang web Groklaw disingenuously ngắn ngủi và hạn chế, và ngược lại tinh thần của GNU General Public License. Kevin Carmony, ột trong những "Linspire Letters," thường xuyên khẳng định rằng thỏa thuận sẽ "mang nhiều hơn sự lựa chọn cho máy tính để bàn Linux người dùng [và]... cung cấp một kinh nghiệm Linux "tốt hơn"."
+Linspire căn cứ tên mã sản phẩm cá được tìm thấy gần trụ sở của họ: Linspire/LindowsOS 4.5 là mã có tên là Coho; Linspire Five-0 (5.0 and 5.1), Freespire 1.0, Marlin; Freespire 2.0 và Linspire 6.0, Skipjack.
+
+
+== CNR ==
+
+CNR của Linspire (ban đầu là Click'N'Run) là một dịch vụ phân phối phần mềm dựa trên APT của Debian. Nó được thiết kế để phục vụ như là một phương tiện dựa vào GUI, người dùng có thể truy cập tải về và cài đặt các ứng dụng khác nhau, cả tự do lẫn sở hữu độc quyền. Các dịch vụ cho phép người dùng để cài đặt các ứng dụng có sẵn bằng cách sử dụng một nhấp chuột duy nhất. CNR cũng bao gồm một tập hợp các phần mềm Click and Buy (CNB), bao gồm nhiều ứng dụng thương mại cho các thành viên tốc độ giảm giá. CNR đã có trên 38,000 gói phần mèm khác nhau, ừ các ứng dụng đơn giản cho các tác phẩm thương mại chính như Win4Lin và StarOffice. CNR là ban đầu đăng ký, dựa với 2 tầng: dịch vụ cơ bản có giá 20$ mỗi năm, và dịch vụ vàng, ới đặc trưng giảm giá trên một số các ứng dụng thương mại,, 50$. Năm 2006, Linspire đã thông báo rằng các dịch vụ cơ bản là miễn phí.
+Linspire đã có kế hoạch để cổng CNR cho bản phân phối Ubuntu. Công ty đã công bố ngày 24/4/2006 rằng CNR sẽ được phát hành theo một giấy phép mã nguồn mở. Việc phát hành CNR miễn phí đến khách hàng đã được chọn để trùng với việc phát hành Freespire 2.0 và Linspire 6.0. Ngày 23/1/2007, Linspire đã thông báo rằng nó dự định để cung cấp CNR phân phối Linux khác, cả dựa trên APT cũng như dựa trên RPM, bao gồm Debian, Fedora, OpenSUSE Fedora_Core và Ubuntu. Hỗ trợ này đã được dự kiến sẽ xuất hiện ở giữa năm 2007. Ngày 8/2/2007, Linspire, Inc. công bố một quan hệ đối tác với Canonical Ltd., nhà phân phối Ubuntu Linux. Thỏa thuận này sẽ thấy Linspire và Freespire di chuyển từ quá trình phát hành Debian không thể đoán trước để sang chu kỳ phát hành nữa năm của Ubuntu. Nó được dự định rằng Ubuntu chính sẽ trở thành bản phân phối Linux đầu tiên mở dịch vụ Click'N'Run bên cạnh Linspire.
+
+
+== Freespire ==
+
+Trong tháng 8/2005, Andrew Betts phát hành Freespire, một Live CD dựa trên Linspire. Một số người dùng nhầm đây cho một sản phẩm từ Linspire, Inc. Linspire, Inc. cung cấp cho người dùng một "Linspire miễn phí" (mua giảm giá với $0) bằng cách sử dụng các phiếu giảm giá mã "Freespire" cho đến tháng 9/2005. Ngày 24/4/2006, Linspire công bố dự án riêng của mình tên là "Freespire". Điều này theo mô hình phát hành theo định hướng cộng đồng của Red Hat và Novell ở dạng Fedora và openSUSE. Freespire là một cộng đồng thúc đẩy và - hỗ trợ dự án gắn với phân phối Linspire thương mại, và bao gồm các yếu tố trước đây độc quyền từ Linspire, ví như CNR Client, trong khi các yếu tố khác, mà giấy phép Linspire, Inc. nhưng không sở hữu, giống như các thư viện tương thích Windows Media Audio vẫn còn đóng cửa-nguồn. Do đó, có hai phiên bản của Freespire, một với các thư viện nguồn đóng, và một, được gọi là Freespire OSS Edition, bao gồm chỉ các thành phần mã nguồn mở. Freespire 1.0 được phát hành ngày 7/8/2006, ba tuần trước thời hạn. Nó được biết rằng Freespire sẽ thay đổi code base của nó từ Ubuntu sang Debian trên bất kỳ bản phát hành trong tương lai. Vào ngày 10/7/2007 Linspire phát hành Linspire 6.0, dựa trên Freespire 2.0.
+
+
+== Đóng góp ==
+Linspire, Inc. Tài trợ các dự án mã nguồn mở bao gồm cả ứng dụng nhắn tin tức thời Pidgin và Kopete, trình duyệt web Mozilla Firefox , hệ thống tập tin ReiserFS, trình biên soạn website Nvu WYSIWYG, và websites KDE-Apps.org và KDE-Look.org. Trong quá khứ, Linspire đã tổ chức một số sự kiện Linux và mã nguồn mở, ví dụ như Desktop Linux Summit, DebConf và hội nghị KDE Developers Conference.
+
+
+== Chỉ trích ==
+Linspire đã nhận được một số sự chỉ trích từ các cộng đồng phần mềm tự do. Điều này đã bao gồm những lời chỉ trích bao gồm cả phần mềm sở hữu độc quyền, với người sáng lập GNU Richard Stallman nhận xét: "Không có phát hành GNU/Linux khác có backslided cho đến nay từ tự do. Chuyển đổi từ MS Windows, Linspire không mang lại cho bạn sự tự do, nó chỉ giúp bạn một bậc thầy khác nhau." Ngoài ra, sau này Freespire thông báo ban đầu Pamela Jones của trang web Groklaw xuất bản một bài viết tựa đề "Freespire: A Linux Distro For When You Couldn't Care Less About Freedom;"(Freespire: một Linux Distro để khi bạn không thể chăm sóc ít hơn về sự tự do) đó là rất quan trọng của Linspire, Inc., các dự án của Freespire, trong đó thành phần mã nguồn đóng cửa và quảng cáo của họ như là một điểm thuận lợi; một hành động cô phân loại như là bỏ qua các giá trị cộng đồng FOSS trong một "cộng đồng thúc đẩy" các phân phối, khẳng định rằng "phần mềm tự do không phải là về trình điều khiển sở hữu độc quyền" và rằng "độc quyền codec, trình điều khiển và ứng dụng không phải là mã nguồn mở hay mở trong bất kỳ cách nào." trong phản ứng của, Linspire, Inc. CEO Kevin Carmony nói thông qua một nhà báo trên trang web Linspire rong mười năm tổ chức, cộng đồng FOSS đã có những lợi ích tương đối ít, mà nhiều người sử dụng đang sử dụng phần mềm độc quyền, và mặc dù một số sẽ tổ chức ra, hầu hết muốn có một cái gì đó mà làm việc chứ không phải là không có gì. Ông cũng khẳng định rằng công ty tin tưởng vào phần mềm mã nguồn mở, nhưng cũng sự tự do của cá nhân để chọn phần mềm bất cứ điều gì họ muốn.
+
+
+== Xem thêm ==
+Linux
+Danh sách các phiên bản linux
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+
+Website chính thức
+LugRadio podcast featuring an interview with Kevin Carmony

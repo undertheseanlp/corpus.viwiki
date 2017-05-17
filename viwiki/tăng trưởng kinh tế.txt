@@ -1,0 +1,67 @@
+Tăng trưởng kinh tế là sự gia tăng của tổng sản phẩm quốc nội (GDP) hoặc tổng sản lượng quốc gia (GNP) hoặc quy mô sản lượng quốc gia tính bình quân trên đầu người (PCI) trong một thời gian nhất định.
+Sự tăng trưởng kinh tế phụ thuộc vào hai quá trình: sự tích luỹ tài sản (như vốn, lao động, và đất đai) và đầu tư những tài sản này một cách có năng suất hơn. Tiết kiệm và đầu tư là trọng tâm, nhưng đầu tư phải hiệu quả thì mới đẩy mạnh tăng trưởng. Chính sách chính phủ, thể chế, sự ổn định chính trị và kinh tế, đặc điểm địa lý, nguồn tài nguyên thiên nhiên, và trình độ y tế và giáo dục, tất cả đều đóng vai trò nhất định ảnh hưởng đến tăng trưởng kinh tế.
+
+
+== Tăng trưởng và phát triển ==
+Quy mô của một nền kinh tế thể hiện bằng tổng sản phẩm quốc nội (GDP) hoặc tổng sản phẩm quốc gia (GNP), hoặc tổng sản phẩm bình quân đầu người hoặc thu nhập bình quân đầu người (Per Capita Income, PCI).
+Tổng sản phẩm quốc nội (Gross Domestic Products, GDP) hay tổng sản phẩm trong nước là giá trị tính bằng tiền của tất cả sản phẩm và dịch vụ cuối cùng được sản xuất, tạo ra trong phạm vi một nền kinh tế trong một thời gian nhất định (thường là một năm tài chính).
+Tổng sản phẩm quốc gia (Gross National Products, GNP) là giá trị tính bằng tiền của tất cả sản phẩm và dịch vụ cuối cùng được tạo ra bởi công dân một nước trong một thời gian nhất định (thường là một năm). Tổng sản phẩm quốc dân bằng tổng sản phẩm quốc nội cộng với thu nhập ròng.
+Tổng sản phẩm bình quân đầu người là tổng sản phẩm quốc nội chia cho dân số. Tổng thu nhập bình quân đầu người là tổng sản phẩm quốc gia chia cho dân số.
+Tăng trưởng kinh tế là sự gia tăng của GDP hoặc GNP hoặc thu nhập bình quân đầu người trong một thời gian nhất định. Tăng trưởng kinh tế thể hiện sự thay đổi về lượng của nền kinh tế. Tuy vậy ở một số quốc gia, mức độ bất bình đẳng kinh tế tương đối cao nên mặc dù thu nhập bình quân đầu người cao nhưng nhiều người dân vẫn sống trong tình trạng nghèo khổ.
+Phát triển kinh tế mang nội hàm rộng hơn tăng trưởng kinh tế. Nó bao gồm tăng trưởng kinh tế cùng với những thay đổi về chất của nền kinh tế (như phúc lợi xã hội, tuổi thọ, v.v.) và những thay đổi về cơ cấu kinh tế (giảm tỷ trọng của khu vực sơ khai, tăng tỷ trọng của khu vực chế tạo và dịch vụ). Phát triển kinh tế là một quá trình hoàn thiện về mọi mặt của nền kinh tế bao gồm kinh tế, xã hội, môi trường, thể chế trong một thời gian nhất định nhằm đảm bảo rằng GDP cao hơn đồng nghĩa với mức độ hạnh phúc hơn.
+
+
+== Đo lường tăng trưởng kinh tế ==
+Để đo lường tăng trưởng kinh tế có thể dùng mức tăng trưởng tuyệt đối, tốc độ tăng trưởng kinh tế hoặc tốc độ tăng trưởng bình quân hàng năm trong một giai đoạn.
+Mức tăng trưởng tuyệt đối là mức chênh lệch quy mô kinh tế giữa hai kỳ cần so sánh.
+Tốc độ tăng trưởng kinh tế được tính bằng cách lấy chênh lệch giữa quy mô kinh tế kỳ hiện tại so với quy mô kinh tế kỳ trước chia cho quy mô kinh tế kỳ trước. Tốc độ tăng trưởng kinh tế được thể hiện bằng đơn vị %.
+Biểu diễn bằng toán học, sẽ có công thức:
+
+y = dY/Y × 100(%),
+
+trong đó Y là quy mô của nền kinh tế, và y là tốc độ tăng trưởng. Nếu quy mô kinh tế được đo bằng GDP (hay GNP) danh nghĩa, thì sẽ có tốc độ tăng trưởng GDP (hoặc GNP) danh nghĩa. Còn nếu quy mô kinh tế được đo bằng GDP (hay GNP) thực tế, thì sẽ có tốc độ tăng trưởng GDP (hay GNP) thực tế. Thông thường, tăng trưởng kinh tế dùng chỉ tiêu thực tế hơn là các chỉ tiêu danh nghĩa.
+
+
+== Lý thuyết tăng trưởng kinh tế ==
+Để giải thích nguồn gốc của tăng trưởng kinh tế các nhà kinh tế học dùng các mô hình kinh tế.
+Mô hình David Ricardo (1772-1823) với luận điểm cơ bản là đất đai sản xuất nông nghiệp (R, Resources) là nguồn gốc của tăng trưởng kinh tế. Nhưng đất sản xuất lại có giới hạn do đó người sản xuất phải mở rộng diện tích trên đất xấu hơn để sản xuất, lợi nhuận của chủ đất thu được ngày càng giảm dẫn đến chí phí sản xuất lương thực, thực phẩm cao, giá bán hàng hóa nông phẩm tăng, tiền lương danh nghĩa tăng và lợi nhuận của nhà tư bản công nghiệp giảm. Mà lợi nhuận là nguồn tích lũy để mở rộng đầu tư dẫn đến tăng trưởng. Như vậy, do giới hạn đất nông nghiệp dẫn đến xu hướng giảm lợi nhuận của cả người sản xuất nông nghiệp và công nghiệp và ảnh hưởng đến tăng trưởng kinh tế. Nhưng thực tế mức tăng trưởng ngày càng tăng cho thấy mô hình này không giải thích được nguồn gốc của tăng trưởng.
+Mô hình hai khu vực tăng trưởng kinh tế dựa vào sự tăng trưởng hai khu vực nông nghiệp và công nghiệp trong đó chú trọng yếu tố chính là lao động (L labor), yếu tố tăng năng suất do đầu tư và khoa học kỹ thuật tác động lên hai khu vực kinh tế. Tiêu biểu cho mô hình hai khu vực là mô hình Lewis, Tân cổ điển và Harry T. Oshima.
+Mô hình Harrod-Domar nguồn gốc tăng trưởng kinh tế là do lượng vốn (yếu tố K, capital) đưa vào sản xuất tăng lên.
+Mô hình Robert Solow (1956) với luận điểm cơ bản là việc tăng vốn sản xuất chỉ ảnh hưởng đến tăng trưởng kinh tế trong ngắn hạn mà không ảnh hưởng trong dài hạn, tăng trưởng sẽ đạt trạng thái dừng. Một nền kinh tế có mức tiết kiệm cao hơn sẽ có mức sản lượng cao hơn không ảnh hưởng đến tăng trưởng kinh tế trong dài hạn (tăng trưởng kinh tế bằng không (0)).
+Mô hình Kaldor tăng trưởng kinh tế phụ thuộc phát triển kỹ thuật hoặc trình độ công nghệ.
+Mô hình Sung Sang Parknguồn gốc tăng trưởng là tăng cường vốn đầu tư quốc gia cho đầu tư con người.
+Mô hình Tân cổ điển nguồn gốc của tăng trưởng tùy thuộc vào cách thức kết hợp hai yếu tố đầu vào vốn(K) và lao động (L).
+Trước Keynes, kinh tế học cổ điển và tân cổ điển không phân biệt rành mạch tăng trưởng kinh tế với phát triển kinh tế. Hơn nữa, ngoại trừ Schumpeter, các trường phái trên đều không coi trọng vai trò của tiến bộ kỹ thuật đối với tăng trưởng kinh tế.
+Lý thuyết tăng trưởng kinh tế của kinh tế học vĩ mô Keynes tiêu biểu là mô hình Harrod-Domar. Mô hình này dựa trên hai giả thiết căn bản: (1) giá cả cứng nhắc, và (2) nền kinh tế không nhất thiết ở tình trạng toàn dụng lao động. Nguồn gốc tăng trưởng kinh tế là do lượng vốn (yếu tố K, capital) đưa vào sản xuất tăng lên. Từ đó, họ suy luận ra được rằng một khi nền kinh tế đang ở trạng thái tăng trưởng cân bằng mà chuyển sang trạng thái tăng trưởng không cân bằng thì sẽ càng ngày càng không cân bằng (mất ổn định kinh tế).
+Trong khi đó, lý thuyết tăng trưởng tân cổ điển xây dựng mô hình của mình dựa trên hệ giả thiết mà hai giả thiết căn bản là: (1) giá cả linh hoạt, và (2) nền kinh tế ở trạng thái toàn dụng lao động. Mô hình tăng trưởng kinh tế của họ cho thấy, khi nền kinh tế đang ở trạng thái tăng trưởng cân bằng mà chuyển sang trạng thái tăng trưởng không cân bằng thì đó chỉ là nhất thời, và nó sẽ mau chóng trở về trạng thái cân bằng.
+
+
+== Các nhân tố của tăng trưởng kinh tế ==
+Sau khi nghiên cứu về tăng trưởng kinh tế của các nước phát triển lẫn các nước đang phát triển, những nhà kinh tế học đã phát hiện ra rằng động lực của phát triển kinh tế phải được đi cùng trên bốn bánh xe, hay bốn nhân tố của tăng trưởng kinh tế là nguồn nhân lực, nguồn tài nguyên, tư bản và công nghệ. Bốn nhân tố này khác nhau ở mỗi quốc gia và cách phối hợp giữa chúng cũng khác nhau đưa đến kết quả tương ứng.
+Nguồn nhân lực: chất lượng đầu vào của lao động tức là kỹ năng, kiến thức và kỷ luật của đội ngũ lao động là yếu tố quan trọng nhất của tăng trưởng kinh tế. Hầu hết các yếu tố khác như tư bản, nguyên vật liệu, công nghệ đều có thể mua hoặc vay mượn được nhưng nguồn nhân lực thì khó có thể làm điều tương tự. Các yếu tố như máy móc thiết bị, nguyên vật liệu hay công nghệ sản xuất chỉ có thể phát huy được tối đa hiệu quả bởi đội ngũ lao động có trình độ văn hóa, có sức khỏe và kỷ luật lao động tốt. Thực tế nghiên cứu các nền kinh tế bị tàn phá sau Chiến tranh thế giới lần thứ II cho thấy mặc dù hầu hết tư bản bị phá hủy nhưng những nước có nguồn nhân lực chất lượng cao vẫn có thể phục hồi và phát triển kinh tế một cách ngoạn mục. Một ví dụ là nước Đức, "một lượng lớn tư bản của nước Đức bị tàn phá trong Đại chiến thế giới lần thứ hai, tuy nhiên vốn nhân lực của lực lượng lao động nước Đức vẫn tồn tại. Với những kỹ năng này, nước Đức đã phục hồi nhanh chóng sau năm 1945. Nếu không có số vốn nhân lực này thì sẽ không bao giờ có sự thần kỳ của nước Đức thời hậu chiến."
+Nguồn tài nguyên thiên nhiên: là một trong những yếu tố sản xuất cổ điển, những tài nguyên quan trọng nhất là đất đai, khoáng sản, đặc biệt là dầu mỏ, rừng và nguồn nước. Tài nguyên thiên nhiên có vai trò quan trọng để phát triển kinh tế, có những nước được thiên nhiên ưu đãi một trữ lượng dầu mỏ lớn có thể đạt được mức thu nhập cao gần như hoàn toàn dựa vào đó như Ả rập Xê út. Tuy nhiên, các nước sản xuất dầu mỏ là ngoại lệ chứ không phải quy luật, việc sở hữu nguồn tài nguyên thiên nhiên phong phú không quyết định một quốc gia có thu nhập cao. Nhật Bản là một nước gần như không có tài nguyên thiên nhiên nhưng nhờ tập trung sản xuất các sản phẩm có hàm lượng lao động, tư bản, công nghệ cao nên vẫn có nền kinh tế đứng thứ hai trên thế giới về quy mô.
+Tư bản: là một trong những nhân tố sản xuất, tùy theo mức độ tư bản mà người lao động được sử dụng những máy móc, thiết bị...nhiều hay ít (tỷ lệ tư bản trên mỗi lao động) và tạo ra sản lượng cao hay thấp. Để có được tư bản, phải thực hiện đầu tư nghĩa là hy sinh tiêu dùng cho tương lai. Điều này đặc biệt quan trọng trong sự phát triển dài hạn, những quốc gia có tỷ lệ đầu tư tính trên GDP cao thường có được sự tăng trưởng cao và bền vững. Tuy nhiên, tư bản không chỉ là máy móc, thiết bị do tư nhân dầu tư cho sản xuất nó còn là tư bản cố định xã hội, những thứ tạo tiền đề cho sản xuất và thương mại phát triển. Tư bản cố định xã hội thường là những dự án quy mô lớn, gần như không thể chia nhỏ được và nhiều khi có lợi suất tăng dần theo quy mô nên phải do chính phủ thực hiện. Ví dụ: hạ tầng của sản xuất (đường giao thông, mạng lưới điện quốc gia...), sức khỏe cộng đồng, thủy lợi....
+Công nghệ: trong suốt lịch sử loài người, tăng trưởng kinh tế rõ ràng không phải là sự sao chép giản đơn, là việc đơn thuần chỉ tăng thêm lao động và tư bản, ngược lại, nó là quá trình không ngừng thay đổi công nghệ sản xuất. Công nghệ sản xuất cho phép cùng một lượng lao động và tư bản có thể tạo ra sản lượng cao hơn, nghĩa là quá trình sản xuất có hiệu quả hơn. Công nghệ phát triển ngày càng nhanh chóng và ngày nay công nghệ thông tin, công nghệ sinh học, công nghệ vật liệu mới... có những bước tiến như vũ bão góp phần gia tăng hiệu quả của sản xuất. Tuy nhiên, thay đổi công nghệ không chỉ thuần túy là việc tìm tòi, nghiên cứu; công nghệ có phát triển và ứng dụng một cách nhanh chóng được là nhờ "phần thưởng cho sự đổi mới" - sự duy trì cơ chế cho phép những sáng chế, phát minh được bảo vệ và được trả tiền một cách xứng đáng.
+
+
+== Hạch toán tăng trưởng kinh tế ==
+
+
+== Hạn chế của các chỉ tiêu tăng trưởng kinh tế ==
+Các chỉ tiêu đo lường mức tăng trưởng kinh tế được sử dụng làm thước đo trình độ phát triển nền kinh tế một cách cụ thể, dễ hiểu và nó trở thành mục tiêu phấn đấu của một chính phủ vì nó là tiêu chí để người dân đánh giá hiệu quả điều hành đất nước của chính phủ.
+Nhưng tăng trưởng kinh tế không phản ảnh được chính xác phúc lợi của các nhóm dân cư khác nhau trong xã hội, chênh lệch giàu nghèo có thể tăng lên, chênh lệch giữa nông thôn và thành thị có thể tăng cao và bất bình đẳng xã hội cũng có thể tăng. Tăng trưởng có thể cao nhưng chất lượng cuộc sống có thể không tăng, môi trường có thể bị hủy hoại, tài nguyên bị khai thác quá mức, cạn kiệt, nguồn lực có thể sử dụng không hiệu quả, lãng phí.
+
+
+== Xem thêm ==
+Tổng sản phẩm quốc nội
+Tổng thu nhập quốc dân
+Mô hình tăng trưởng Solow Handiven
+Phát triển kinh tế
+
+
+== Tham khảo ==
+Samuelson Paul A., Nordhalls William D, Kinh tế học, Nhà xuất bản Tài chính (2007).
+Begg David, Fischer Stanley, Dornbusch Rudiger, Kinh tế học, Nhà xuất bản Thống kê (2007).
+
+
+== Chú thích ==

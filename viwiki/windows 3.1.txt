@@ -1,0 +1,11 @@
+Windows 3.1x (tên mã Janus) là một loạt hệ điều hành 16-bit được Microsoft sản xuất để sử dụng trên máy tính cá nhân. Bắt đầu với Windows 3.1, phiên bản lần đầu tiên được bán ra trong tháng 4 năm 1992 như là một bản kế nhiệm của Windows 3.0. Các phiên bản tiếp theo đã được phát hành giữa năm 1992 và 1994 cho đến khi các hệ điều hành này được Windows 95 thay thế. Trong suốt vòng đời của nó, Windows 3.1 giới thiệu một số cải tiến cho nền tảng dựa vào MS-DOS, bao gồm cải thiện sự ổn định hệ thống, hỗ trợ mở rộng cho đa phương tiện, phông chữ TrueType, và mạng workgroup.
+
+
+== Đọc thêm ==
+Windows for Workgroups Resource Kit
+Bản mẫu:Kb
+Bản mẫu:Kb
+Bản mẫu:Kb
+
+
+== Tham khảo ==

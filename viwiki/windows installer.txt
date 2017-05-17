@@ -1,0 +1,107 @@
+Windows Installer (tên cũ Microsoft Installer, tên mã là Darwin) là một thành phần phần mềm và giao diện lập trình ứng dụng (API) của Windows được sử dụng cho các quá trình cài đặt, bảo trì và gỡ bỏ của các phần mềm. Thông tin cài đặt và các tập tin cài đặt được đóng gói trong các gói cài đặt, các cơ sở dữ liệu có được cấu trúc trong các Kho Cấu trúc COM (các tệp MSI). Windows Installer đã thay đổi rất nhiều thứ từ người tiền nhiệm của nó - Setup API. Các tính năng mới bao gồm khung GIAO DIỆN và chế độ tự động tạo ra trình tự gỡ bỏ. Windows Installer đóng vai trò là một khung cài đặt tự động (giống như InstalleShield và NSIS).
+Trước khi ra mắt Windows Store, Microsoft khuyến khích bên thứ ba sử dụng cửa Windows Installer làm khung cài đặt cơ sở cho mọi phần mềm, để chúng đồng bộ hóa chuẩn hơn với các bộ cài đặt khác cũng như giữ cho cơ sở dữ liệu an toàn bên trong. Tính năng quan trọng như quay ngược lại, và quản lý phiên bản phụ thuộc vào một sở dữ liệu nội bộ phù hợp để hoạt động hiệu quả. Hơn nữa, Windows Installer tạo điều kiện vận hành những nguyên tắc đặc quyền tối thiểu bằng cách thực hiện phần mềm cài đặt qua proxy những người dùng không có đặc quyền.
+
+
+== Cấu trúc logic của các gói ==
+Một gói mô tả cách cài đặt của một hay nhiều sản phẩm đầy đủ và được xác định một cách phổ quát bởi một mã số GUID Nhiều thành phần được nhóm lại thành thành tính năng, và một sản phẩm được cấu thành từ các tính năng đó. Windows Installer không xử lý về sự phụ thuộc giữa các sản phẩm.
+
+
+=== Sản phẩm ===
+Một chương trình đã được cài đặt và có thể chạy (hoặc tập hợp chương trình) được gọi là một sản phẩm. Một sản phẩm là được xác định một cách độc nhất bởi một mã số GUID (thuộc tính ProductCode) cho phép nó có thẩm quyền được định danh trên toàn thế giới. Số GUID kết hợp với số phiên bản (thuộc tính ProductVersion) cho phép quản lý việc phát hành các tệp và khóa đăng ký của sản phẩm.
+Một gói bao gồm những gói logic và các siêu dữ liệu có liên quan đến cách gói thực thi khi chạy. Ví dụ, việc thay đổi một tập tin thực thi EXE trong sản phẩm có thể yêu cầu thay đổi ProductCode hoặc ProductVersion để quản lý việc phát hành. Trong trường hợp chỉ đơn thuần thay đổi hoặc thêm một điều kiện khởi động (nhưng phần còn lại giống chính xác như ở phiên bản cũ) thì vẫn bị yêu cầu các thay đổi PackageCode để phát hành tập MSI.
+
+
+=== Tính năng ===
+Một tính năng là một sự phân cấp của nhóm các thành phần. Một tính năng có thể có một số lượng bất kỳ thành phần khác cũng như các thành phần con. Các gói nhỏ hơn có thể bao gồm một tính năng duy nhất. Các bộ cài đặt phức tạp hơn thường cho người dùng lựa chọn "cài đặt tùy chỉnh" để chọn tính năng được cài đặt hoặc gỡ bỏ.
+Tác giả  của gói định nghĩa các tính năng của sản phẩm. Ví dụ đối với việc cài đặt một bộ xử lý văn bản, có thể đặt các tập tin cốt lõi của chương trình vào một tính năng và các tệp trợ giúp, kiểm tra chính tả và mô-đun văn phòng khác vàocác tính năng bổ sung.
+
+
+=== Thành phần ===
+Một thành phần là đơn vị cơ bản của một sản phẩm. Mỗi thành phần được Windows Installer xử lý như một đơn vị. Trình cài đặt không thể chỉ cài đặt chỉ một phần của một thành phần. Các thành phần có thể chứa tệp chương trình, thư mục, thành phần COM, khóa registry và các shortcut. Người dùng không trực tiếp tương tác với các thành phần.
+Các thành phần được xác định trên toàn cầu bởi GUIDs; Do đó cùng một thành phần có thể được chia sẻ giữa một số tính năng của cùng một gói hoặc nhiều gói, lý tưởng thông qua việc sử dụng các mô-đun hợp nhất.
+
+
+=== Đường dẫn chính ===
+Một đường dẫn chính là một tệp cụ thể, khoá registry hoặc nguồn dữ liệu ODBC mà tác giả của gói đã chỉ định là quan trọng cho một thành phần nhất định. Bởi vì một tập tin là loại phổ biến nhất của đường dẫn quan trọng, thuật ngữ tập tin khóa thường được sử dụng. Một thành phần chỉ có thể chứa nhiều nhất một đường dẫn chính; Nếu một thành phần không có đường dẫn chính rõ ràng, thư mục đích của thành phần được coi là đường dẫn chính. Khi một chương trình MSI được khởi chạy, Windows Installer kiểm tra sự tồn tại của các đường dẫn chính. Nếu có sự không khớp giữa trạng thái hệ thống hiện tại và giá trị được chỉ định trong gói MSI (ví dụ: thiếu tệp khóa), tính năng liên quan được cài đặt lại. Quá trình này được gọi là tự chữa bệnh hoặc tự sửa chữa. Hai thành phần khác nhau không nên sử dụng chung một đường dẫn chính.
+
+
+== Các giai đoạn thiết lập ==
+
+
+=== Giao diện người dùng ===
+Giai đoạn giao diện người dùng thường truy vấn hệ thống mục tiêu, hiển thị thuật sĩ cài đặt và cho phép người dùng thay đổi các tùy chọn khác nhau ảnh hưởng đến việc cài đặt.
+Tuy nhiên, trình tự giao diện người dùng không nên thực hiện bất kỳ thay đổi nào đối với hệ thống, vì những lý do sau:
+Một người dùng có thể cài đặt hoặc gỡ cài đặt gói MSI ở chế độ thụ động hoặc chế độ im lặng, bỏ qua giai đoạn này hoàn toàn. (Chế độ thụ động bỏ qua giai đoạn giao diện người dùng nhưng hiển thị thanh tiến trình đồ hoạ Chế độ im lặng không hiển thị gì) Trong quá trình cài đặt, thông tin thu thập được trong giai đoạn này có thể được cung cấp trước bằng giao diện dòng lệnh.
+Chuỗi giao diện người dùng chạy với đặc quyền của người dùng, và không phải với các đặc quyền nâng cao được yêu cầu trong quá trình cài đặt.
+
+
+=== Thực hiện ===
+Khi người dùng nhấp vào nút "Cài đặt" trong một trình cài đặt MSI điển hình, quá trình cài đặt sẽ tiến hành đến giai đoạn Thực hiện, trong đó các thành phần phần mềm sẽ được cài đặt thực sự. Giai đoạn Thực hiện làm thay đổi hệ thống, nhưng nó không hiển thị bất kỳ phần tử giao diện người dùng nào.
+Giai đoạn Thực hiện diễn ra trong hai bước:
+Chế độ tức thì. Trong giai đoạn này, Windows Installer nhận các hướng dẫn từ người dùng hoặc ứng dụng để cài đặt hoặc gỡ bỏ các tính năng của sản phẩm. Các yêu cầu gây ra việc thực hiện các trình tự các hành động truy vấn cơ sở dữ liệu cài đặt để xây dựng một script nội bộ mô tả giai đoạn thực hiện chi tiết.
+Chế độ hoãn lại. Trong giai đoạn này, kịch bản được xây dựng trong chế độ ngay lập tức được thực hiện trong ngữ cảnh của dịch vụ Windows Installer đặc quyền. Kịch bản phải được thực hiện bởi một tài khoản đặc quyền vì sự không đồng nhất của các kịch bản trong đó một hoạt động thiết lập được bắt đầu. Ví dụ: đặc quyền nâng cao là cần thiết cho việc phục vụ yêu cầu cài đặt theo yêu cầu từ những người dùng không có đặc quyền. Tuy nhiên, để chạy với các đặc quyền cao cấp, gói này phải được triển khai bởi một quản trị viên cục bộ hoặc do một quản trị viên hệ thống quảng cáo sử dụng Group Policy.
+
+
+=== Quay ngược lại ===
+Tất cả các hoạt động cài đặt diễn ra theo kiểu giao dịch. Nói cách khác, đối với mỗi thao tác mà Windows Installer thực hiện, nó sẽ tạo ra một thao tác hoàn tác tương tự có thể phục hồi thay đổi được thực hiện cho hệ thống. Trong trường hợp có bất kỳ hành động kịch bản nào không thành công trong quá trình hoãn thực hiện hoặc hoạt động bị huỷ bỏ bởi người sử dụng, tất cả các hành động được thực hiện cho đến khi điểm đó được cuộn lại, phục hồi hệ thống về trạng thái ban đầu. Các hành vi Windows Installer chuẩn sẽ tự động ghi thông tin vào một kịch bản rollback; Các tác giả gói tạo các hành động tuỳ chỉnh để thay đổi hệ thống mục tiêu cũng nên tạo các hành động trả về tương ứng (cũng như các hành động gỡ bỏ và gỡ bỏ cài đặt-rollback). Là một tính năng thiết kế, nếu được áp dụng chính xác cơ chế này cũng sẽ lật lại việc gỡ bỏ không thành công một ứng dụng sang trạng thái làm việc tốt.
+
+
+== Các tính năng khác ==
+
+
+=== Quảng cáo ===
+Windows Installer có thể chỉ quảng cáo một sản phẩm chứ không thực sự cài đặt nó. Sản phẩm sẽ xuất hiện cài đặt cho người dùng, nhưng nó sẽ không được cài đặt cho đến khi nó được chạy lần đầu tiên bằng cách kích hoạt một điểm nhập cảnh (bằng phím tắt của trình đơn Start, bằng cách mở một tài liệu mà sản phẩm được cấu hình để xử lý, Hoặc bằng cách gọi một lớp COM được quảng cáo). Một gói có thể được quảng cáo bởi một quản trị viên sử dụng Group Policy hoặc cơ chế triển khai khác hoặc bằng cách chạy msiexec executable với / jm (cho mỗi máy quảng cáo) hoặc / ju (cho mỗi người dùng quảng cáo) chuyển đổi. Một số gói MSI có trong InstallShield có thể ngăn cản việc sử dụng các tính năng này và các tính năng MSI gốc khác. 
+Người dùng phải có quyền quản trị viên để hoàn tất việc cài đặt quảng cáo.
+
+
+=== Cài đặt theo yêu cầu ===
+Tương tự như quảng cáo, nó cài đặt một tính năng ngay sau khi dùng sử dụng nó lần đầu tiên.
+
+
+=== Cài đặt quản trị ===
+Cài đặt quản trị tạo ra một hình ảnh nguồn không nén cho một sản phẩm, thường được sử dụng để cài đặt hoặc chạy một ứng dụng từ một vị trí mạng. Một cài đặt quản trị không phải là một cài đặt điển hình, vì nó không tạo ra bất kỳ phím tắt nào, đăng ký các máy chủ COM, tạo một mục trong Add or Remove Programs, và tương tự. Thông thường một cài đặt quản trị viên cho phép người dùng cài đặt sản phẩm theo cách mà các tính năng của nó chạy từ nguồn cài đặt không nén.
+Các cài đặt quản trị cũng hữu ích khi tạo một bản vá Windows Installer vì điều này đòi hỏi các hình ảnh không nén của các phiên bản trước đó và hiện tại của một sản phẩm để tính các sự khác biệt tập tin nhị phân. Một cài đặt hành chính được thực hiện bằng cách chạy tập tin thực thi msiexec với công tắc / a.
+
+
+=== Hành động tùy chỉnh ===
+Nhà phát triển gói cài đặt có thể viết mã để phục vụ cho mục đích của chúng, được phân phối dưới dạng DLL, EXE, VBScript hoặc JavaScript. Điều này có thể được thực hiện trong quá trình cài đặt trình tự, bao gồm cả khi người dùng nhấp vào một nút trong giao diện người dùng, hoặc trong InstallExecuteSequence. Tác vụ tùy chỉnh thường xác thực các khóa cấp phép sản phẩm hoặc khởi tạo các dịch vụ phức tạp hơn. Nhà phát triển thường cung cấp các hành động tùy chỉnh nghịch đảo để sử dụng trong quá trình gỡ cài đặt.
+Msiexec cung cấp một cách để phá vỡ sau khi tải một thư viện DLL hành động tùy chỉnh cụ thể nhưng trước khi gọi hành động.
+
+
+=== Hợp nhất mô-đun và thực thi lồng nhau ===
+Gói Windows Installer có thể chứa một gói khác sẽ được cài đặt vào cùng một thời điểm. Đây là những lý tưởng cung cấp như là một thành phần tập tin.msm, nhưng cũng có thể là một chương trình thực thi riêng biệt sẽ được giải nén từ gói cài đặt trong InstallExecuteSequence và có thể chạy ngay lập tức. Tệp này sau đó có thể được xóa trước khi kết thúc InstallExecuteSequence, và vì vậy là lý tưởng để sử dụng với các trình cài đặt cũ hơn.
+
+
+=== Tính tương thích với các tính năng của Windows ===
+Windows Installer 4.0, được bán kèm theo Windows Vista, kết hợp các khả năng để tận dụng tính năng Kiểm soát Tài khoản Người dùng (UAC). Nếu một ứng dụng có thể được cài đặt mà không cần tới đặc quyền nâng cao, gói MSI của nó có thể được đánh dấu như vậy, do đó cho phép cài đặt mà không nhắc người dùng cho các thông tin đăng nhập của Quản trị viên. Windows Installer cũng hoạt động kết hợp với Restart Manager; Khi cài đặt hoặc cập nhật một ứng dụng hoặc thành phần hệ thống với chế độ giao diện người dùng "đầy đủ", người dùng sẽ được hiển thị một danh sách các ứng dụng bị ảnh hưởng có thể được tắt, và sau đó khởi động lại sau khi các tập tin đã được cập nhật. Hành động của trình cài đặt chạy ở chế độ im lặng thực hiện các ứng dụng này khởi động lại tự động. Dịch vụ hệ thống và các ứng dụng khay có thể được khởi động lại theo cách này.
+
+
+== Phát triển gói cài đặt ==
+Tạo một gói cài đặt cho một ứng dụng mới không phải là một việc dễ dàng. Cần phải xác định tệp nào phải được cài đặt, ở đâu và với những khoá đăng ký nào. Bất kỳ hoạt động không-theo-chuẩn nào cũng có thể được thực hiện bằng cách sử dụng Tác vụ tùy chỉnh, thường được phát triển trong DLL. Có một số sản phẩm thương mại và phần mềm miễn phí để hỗ trợ tạo các gói MSI, bao gồm cả Visual Studio (lên đến VS 2010), InstallShield và WiX. Ở mức độ khác nhau, giao diện người dùng và hành vi có thể được cấu hình để sử dụng trong các tình huống ít phổ biến hơn như cài đặt không giám sát. Sau khi chuẩn bị, gói cài đặt được "biên dịch" bằng cách đọc hướng dẫn và tệp từ máy địa phương của nhà phát triển và tạo tệp.msi.
+Giao diện người dùng (hộp thoại) được trình bày khi bắt đầu cài đặt có thể được thay đổi hoặc được cấu hình bởi kỹ sư thiết lập phát triển trình cài đặt mới. Có một ngôn ngữ giới hạn các nút, trường văn bản và nhãn có thể được sắp xếp theo một chuỗi các hộp thoại. Gói trình cài đặt phải có khả năng chạy mà không có giao diện người dùng, cho cái gọi là "cài đặt không giám sát".
+
+
+=== Xác nhận ICE ===
+Microsoft cung cấp một bộ Đánh giá sự nhất quán nội bộ (ICE) có thể được sử dụng để phát hiện các vấn đề tiềm ẩn với cơ sở dữ liệu MSI. Các quy tắc ICE được kết hợp thành các tệp CUB, là các tệp MSI bị xoá đi chứa các hành động tuỳ chỉnh để kiểm tra nội dung của cơ sở dữ liệu MSI mục tiêu cho các cảnh báo và lỗi xác thực. Xác nhận ICE có thể được thực hiện với các công cụ Platform SDK Orca và msival2, hoặc với các công cụ xác nhận vận chuyển với các môi trường tác giả khác nhau.
+Ví dụ, một vài quy tắc ICE là:
+ICE09: Xác nhận rằng bất kỳ thành phần nào dành cho thư mục System được đánh dấu là vĩnh viễn.
+ICE24: Xác nhận rằng mã sản phẩm, phiên bản sản phẩm và ngôn ngữ sản phẩm có các định dạng thích hợp.
+ICE33: Xác nhận rằng bảng Registry không được sử dụng cho dữ liệu phù hợp hơn cho một bảng khác (Class, Extension, Verb, v.v.).
+Giải quyết các cảnh báo và lỗi của ICE là một bước quan trọng trong quá trình phát hành.
+
+
+== Các phiên bản ==
+
+
+== Các công cụ ==
+
+
+== Đọc thêm ==
+Cài đặt
+Danh sách phần mềm tạo bộ cài đặt
+Hệ thống quản lý gói
+Windows Installer CleanUp Utility
+Tệp ZAP - một cách để thực hiện một cài đặt ứng dụng khi không tồn tại tệp MSI.
+
+
+== Tham khảo ==

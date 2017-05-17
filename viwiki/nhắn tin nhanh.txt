@@ -1,0 +1,14 @@
+Nhắn tin nhanh (hay tin nhắn tức khắc, trò chuyện trực tuyến, chát - từ chat trong tiếng Anh, IM viết tắt của Instant Messaging), là dịch vụ cho phép hai người trở lên nói chuyện trực tuyến với nhau qua một mạng máy tính.
+Mới hơn IRC, nhắn tin nhanh là trò chuyện mạng, phương pháp nói chuyện phổ biến hiện nay. Nhắn tin nhanh dễ dùng hơn IRC, và có nhiều tính năng hay, như khả năng trò chuyện nhóm, dùng biểu tượng xúc cảm, truyền tập tin, tìm dịch vụ và cấu hình dễ dàng bản liệt kê bạn bè.
+Nhắn tin nhanh đã thúc đẩy sự phát triển của Internet trong đầu thập niên 2000.
+
+
+== Giao thức - phần mềm ==
+Có nhiều cách để thực hiện nhắn tin nhanh, thông qua các dịch vụ như IRC, hay các dịch vụ của Yahoo!, Microsoft, do nhắn tin nhanh hỗ trợ rất nhiều giao thức khác nhau. Một số người dùng bị giới hạn vì sử dụng ứng dụng khách chỉ truy cập một giao thức/mạng IM, như MSN hay Yahoo!.
+Một giao thức phổ biến đó là giao thức XMPP (Jabber). Đây là giao thức mở, an toàn, và máy chủ nào hỗ trợ giao thức này đều có thể kết nối được với nhau. Ứng dụng khách Jabber có khả năng truy cập mọi giao thức/mạng IM: MSN Messenger, Yahoo!, AIM, ICQ, Gadu-Gadu, ngay cả IRC và SMS. Chỉ một chương trình Jabber có thể nói chuyện với bạn bè trên mọi mạng.
+Có một số ứng dụng khách Jabber là phần mềm tự do đa nền tảng và đã dịch sang tiếng Việt Psi, Gaim và JWC
+hat. Cũng có Gossip dành cho hệ điều hành Linux/UNIX.
+Ứng dụng nhắn tin nhanh có khả năng VoIP, nói chuyện trực tiếp qua máy tính, như điện thoại.
+
+
+== Tham khảo ==

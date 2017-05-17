@@ -1,0 +1,18 @@
+Chỉ số trung bình công nghiệp Dow Jones hay Chỉ số bình quân công nghiệp Dow Jones (tiếng Anh: Dow Jones Industrial Average, viết tắt DJIA, còn gọi Dow 30, Dow Jones công nghiệp, hoặc Dow Jones; phát âm như "Đao Giôn"; NYSE: DJI) là một trong vài chỉ số thị trường chứng khoán được tạo ra bởi Charles Dow, chủ báo The Wall Street Journal và đồng sáng lập viên của công ty Dow Jones & Company vào thế kỷ 19. Dow tập hợp chỉ số này để đánh giá khu vực công nghiệp của thị trường chứng khoán tại Hoa Kỳ. Nó là chỉ số Mỹ lâu đời thứ hai, chỉ sau Chỉ số Trung bình Vận tải Dow Jones, cũng do Dow tạo ra.
+Chỉ số tính giá trị của 30 công ty cổ phần lớn nhất và có nhiều cổ đông nhất trong nước Mỹ. Tuy tên có phần "công nghiệp", ít trong những thành phần ngày nay còn có liên quan đến công nghiệp nặng. Chỉ số này được tính theo bình quân gia quyền giá (price-weighted average). Để chỉnh lại chỉ số sau các việc tách cổ phần và các sửa đổi khác, chỉ số sử dụng bình quân gia quyền (weighted average), thay vì tính số bình quân các giá chứng khoán thành phần. Tổng của các giá thành phần được chia bằng ước số thay đổi lúc nào mà một chứng khoán thành phần được tách hoặc trả cổ tức bằng cổ phần, để tính ra giá trị của chỉ số. Tại vì hiện nay ước số ít hơn một, giá trị của chỉ số cao hơn tổng các giá thành phần.
+
+
+== Xem thêm ==
+NASDAQ-100
+Nasdaq Composite
+NYSE Composite
+Russell 2000
+S&P 500
+Wilshire 5000
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang chủ các chỉ số Dow Jones (tiếng Anh)

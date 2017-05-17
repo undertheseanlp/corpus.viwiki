@@ -1,0 +1,105 @@
+Máy bay tàng hình (còn gọi là phi cơ tàng hình hay không hạm tàng hình) là một loại máy bay, hơn hẳn những máy bay thông dụng khác, áp dụng công nghệ tàng hình để chống lại việc bị phát hiện từ ra đa. Máy bay tàng hình đóng vai trò nổi bật nhất trong cuộc Chiến tranh vùng Vịnh.
+
+
+== Điều kiện tàng hình ==
+
+
+=== Radar ===
+Một nhược điểm lớn của radar đó là nó chỉ phát hiện ra đối phương khi sóng phản xạ (phản xạ lại từ đối phương) cùng phương với sóng tới (là sóng mà radar phát ra) và nếu mặt cát tán xạ trên máy bay càng nhỏ thì khả năng phát hiện ra của radar càng thấp.
+
+
+== Các phương pháp có thể tàng hình ==
+
+
+=== Lựa chọn vật liệu ===
+Vật liệu làm khung của máy bay tàng hình thì có nhiều, chủ yếu là nguyên liệu phức hợp gồm carbon trộn với nhựa cây. Vật liệu phức hợp kiểu như thế này có đặc điểm là cứng, nhẹ, có thể hấp thụ được sóng của radar.. Còn phải kể thêm rằng máy bay ném bom tàng hình B-2 của Mỹ có cỏ ngoài sử dụng vật liệu kiểu tổ ong làm lớp vải lót để giảm thiểu tối đa khả năng phạn xạ của sóng radar. Để thu được hiệu quả cao nhất, người ta cờn sơn ngoài chiếc máy bay một lớp sơn tàng hình bằng bột mịn niken, coban hoặc kim loại-kim loại đã bị oxy hóa. Lớp sơn này có thể làm tổn thương sóng radar, có tác dụng làm trong sóng. Ngoài ra, cũng phải kể tới một chất liệu của muối kiềm chuyển sóng radar thành nhiệt năng và không thể phản xạ lại.
+
+
+=== Kết cấu ===
+Đây cũng là yếu tố không thể không đề cập đến nếu nói về máy bay tàng hình. Phải nhớ rằng, kết cấu ngoại hình đặc biệt cũng có thể làm máy bay tàng hình được. Thông thường, thân máy bay có hình trụ tròn và thân, cánh, đuôi tạo thành một kết cấu liên kết liên tiếp, đều có thể làm cho sóng radar sinh ra quay trở lại radar và thu sóng phản xạ của anten. Các nhà thiết kế máy bay tàng hình nếu biến đổi hình trụ tròn của máy bay thành hình mặt cắt, hình chóp nhọn, hoặc biến phần nối giữa cánh và thân thành hình ống tròn, tạo nên sự hòa hợp giữa thân và cánh, không bố trí giá thân và cánh theo đạn đạo, bỏ đuôi cánh, sử dụng đuôi chữ V lệch,... thì có thể phá vỡ sự phản hồi sóng radar, làm cho sóng phản xạ yếu đi, thậm chí hầu như không có.
+
+
+=== Thoát khỏi con mắt khác ngoài radar ===
+
+
+==== Tia hồng ngoại ====
+Để có thể tàng hình với tia hồng ngoại, người ta có trí miệng nhận và thoát khí của động cơ máy bay ở phần đỉnh và tại lỗ thoát khí lại lắp đặt máy thải khí và thiết bị hút nhiệt để thải nguồn nhiệt ở miệng động cơ.
+
+
+==== Tiếng ồn ====
+Để giải quyết vấn đề này, người ta có thể dùng thiết bị hút âm hoặc thiết kế loại động cơ có âm thanh rất nhỏ.
+
+
+== Lợi ích của những mẫu máy bay tàng hình ==
+Một số lượng máy bay tàng hình nhỏ có thể thay thế một toán lớn những phi cơ bình thường mà vẫn có thể tạo được hiệu quả chiến đấu tương đương, có khi còn cao hơn. Biện pháp này đôi khi giúp tiết kiệm đáng kể ngân sách quân đội sau một thời gian dài sử dụng.
+Máy bay tàng hình cho phép người ta tấn công vào những điểm mục tiêu quan trọng, trong khi vẫn che giấu được hành vi của mình. Bởi vì không ai có thể phát hiện ra hay ít nhất là biết được kẻ tấn công, những người trong cuộc có thể từ chối bình luận và từ đó tránh được chiến tranh.
+Khả năng chiến đấu của máy bay tàng hình có thể làm tê liệt bộ phận chỉ huy và reo rắc hoang mang cho đối phương vì họ không thể biết liệu những đợt không kích khác đã được tiến hành hay chưa; từ đó đưa họ đến việc xem xét giải pháp ngoại giao. Dù vậy, lập luận này được một số người bác bỏ là chưa chắc chắn.
+Sự sản xuất và vận hành mẫu chiến đấu cơ tàng hình này có thể gây động lực cho đối thủ trong quyết định của họ về việc tiến hành chạy đua vũ trang với mục đính tạo ra những máy bay tương tự. Điều này có thể làm suy yếu nền kinh tế (có thể giả sử là yếu hơn) của họ, tức là tạo thuận lợi cho kẻ thù. Chương trình Chiến lược phòng ngự kế hoạch ("Chiến tranh giữa các vì sao") của Hoa Kỳ thực hiện năm 1980 cũng để đạt mục đính tương tự nhằm chống lại Liên Xô.
+
+
+== Hạn chế của các máy bay tàng hình ==
+
+
+=== Bất ổn của mẫu thiết kế ===
+Khi thiết kế các máy bay tàng hình, người ta thường chú tâm vào việc giảm tối thiểu mức độ phản hồi sóng điện từ bất thường của vật thể (Radar Cross Section: mặt cắt ra đa) hơn là hoàn thiện chúng về mặt khí động học. Những máy bay tàng hình cao cấp (như chiếc F-117 và B-2) không ổn định về khí động học trên cả ba trục và đòi hỏi hiệu chỉnh liên tục từ hệ thống điều khiển với giao tiếp được điện tử hóa (fly-by-wire system) để có thể tiếp tục vận hành trên không trung. Phần lớn các máy bay chiến đấu không tàng hình hiện nay (như F-16 Fighting Falcon, Su-27 Flanker, Eurofighter Typhoon, JAS 39 Gripen, Dassault Rafale) chỉ vận hành không ổn định trên một hay hai trục mà thôi. Máy bay tàng hình cần rất nhiều hệ thống điều khiển với giao tiếp được điện tử hóa để đảm bảo an toàn nên thường gây tốn thêm chi phí đồng thời làm mẫu máy bay tăng thêm trọng lượng. Trong trường hợp có xung điện từ mạnh (hiện tượng nổ hạt nhân trong khí quyển), sẽ tác động đến các bộ phận điều khiển và có thể gây những hậu quả rất nghiêm trọng cho các phi cơ tàng hình, như rơi máy bay. Tuy vậy, điều này rất khó có thể xảy ra nhờ vào các thiếc kế chống tác động của các thiết bị điện tử được tiến hành bởi Không quân Hoa Kỳ.
+
+
+=== Khả năng không chiến ===
+Máy bay tàng hình chịu nhiều bất lợi lớn khi bị phát hiện bởi kẻ thù. Các mẫu máy bay tàng hình hoàn toàn hiện nay (F-117 và B-2) thiếu các thùng chất đốt phụ, do nhiệt độ từ khí thải của chúng có thể làm tăng mặt cắt ra đa và các dấu vết nhạy cảm với tia hồng ngoại của máy bay. Vì bất lợi đó mà các phi cơ này không thể vượt qua tốc độ âm thanh mà tẩu thoát một cách nhanh chóng. Điều này khiến chúng dễ bị tấn công bởi các máy bay đánh chặn, loại máy bay có khả năng đạt tới tốc độ Mach 2 (tốc độ siêu thanh 2) hoặc cao hơn nhờ có thùng chất đốt phụ. Hình dạng kỳ dị của các máy bay tàng hình còn làm giảm đi sự nhanh nhẹn của chúng trong các cuộc không không chiến, và do vậy, làm tăng nguy cơ bị tiêu diệt của chúng bởi pháo tự động từ các phản lực cơ truyền thống, cho dù mặt cắt ra đa thấp và lá chắn hồng ngoại có hiệu quả thế nào đi chăng nữa trong việc ngăn chặn khả năng khóa mục tiêu của tên lửa. Về hỏa lực, chiếc F-117 có thể mang theo hai quả tên lửa không-đối-không để tự vệ, nhưng thường không hiệu quả (hệ quả của tính linh hoạt thấp); chiếc B-2 thì không thể mang theo bất kỳ một loại vũ khí không-đối-không nào.
+
+
+=== Sự rò rỉ sóng điện từ và sóng hồng ngoại ===
+Sự điện toán hóa ở mức độ cao cùng một số lượng lớn các thiết bị điện tử được lắp đặt trong máy bay tàng hình làm chúng dễ trở thành mục tiêu bởi các sự phát hiện thụ động. Thiết bị dã chiến di động Tamara được sản xuất bởi Cộng Hòa Séc có thể bắt được những rò rỉ điện từ rất nhỏ, thậm chí là từ các máy bay có lá chắn tốt nhất. Các máy dò Tamara cung cấp cự ly tổng quát / thông tin về khoảng cách cho các radar phòng không, để rồi các radar này sẽ tiến hành khóa mục tiêu bằng cách sử dụng phép quét hội tụ cao.
+Máy bay tàng hình được thiết kế để có mức độ bộc lộ trước radar rất thấp, nhưng mức độ phát ra tia hồng ngoại thì vẫn tương tự như máy bay thường do đều phải sử dụng động cơ phản lực tỏa ra nhiều nhiệt. Do vậy, nếu đối phương sử dụng các thiết bị trinh sát, phát hiện tín hiệu hồng ngoại thì vẫn có thể phát hiện máy bay tàng hình (các thiết bị loại này hiện nay đã có thể phát hiện tín hiệu hồng ngoại tỏa ra từ máy bay địch ở cự ly tới vài chục km).
+
+
+=== Chi phí bảo dưỡng ===
+Các máy bay tàng hình là những thiết bị đòi hỏi bảo trì ở mức độ cao. Tính chất của vỏ máy bay quyết định hiệu quả tàng hình của nó, bằng cách làm chệch hướng xung lực radar nhờ vào đặc trưng hình học của khung máy bay và / hoặc vào sự hấp thụ sóng điện từ nhờ lớp sơn bề mặt được cấu tạo từ những vi cầu ferit-than chì. Các cửa sổ buồng lái được dát một lớp kim loại mỏng bằng vàng và idium. Nếu vỏ máy bay bị đâm thủng bởi một viên sỏi bắn lên từ đường băng, hay nếu mưa lớn làm hư hại các lớp sơn trên, mức độ phản hồi sóng điện từ bất thường của máy bay sẽ có thể tăng đột ngột. Các máy bay tàng hình thường được vận hành từ các căn cứ nhà, nơi có những nhà kho được trang bị điều hòa nhiệt độ có khả năng cung cấp những điều kiện bảo trì và cất giữ tối ưu. Dù cho khả năng duy trì và số lượng khung máy bay có phát triển tăng vọt theo chiều tích cực từ những năm cuối thập niên 90, giá thành của máy bay, chi phí của việc thiết lập những thiết bị chất lượng cao ở căn cứ nhà, và của những đợt xuất kích đi xa được thực hiện để chống lại những mục tiêu hải ngoại từ quê nhà vẫn còn là một gánh nặng kinh tế lớn cho những nước đang vận hành máy bay tàng hình.
+
+
+=== Các mẫu bay dễ bị công kích ===
+Các máy bay tàng hình vẫn có nguy cơ bị phát hiện một cách tức thì trước, trong khi và sau khi nó sử dụng vũ khí. Bởi vì các đầu đạn tàng hình (các loại bom có giảm mặt cắt ra đa và tên lửa hành trình) nói chung là vẫn chưa có sẵn, nên tất cả các loại quân trang cho máy bay đều phải được mang ở bên trong thân của máy bay để tránh việc tăng mặt cắt ra đa. Ngay khi cửa chứa bom được mở ra, chỉ số RCS của máy bay sẽ tăng gấp bội và thậm chí một hệ thống radar đời cũ cũng có thể xác định được vị trí của nó. Các phi công điều khiển máy bay tàng hình nhận được một khoá huấn luyện đặc biệt để giảm thiểu sự phản hồi sóng của vũ khí trong vòng 15-25 giây. Đối với các oanh tạc cơ (bán tàng hình) thể hệ thứ 4 và thứ 5, vũ khí không đối đất được mang chủ yếu trên các khoang chứa vũ khí bên ngoài, chấp nhận nguy cơ bị phát hiện cao hơn. Khoang vũ khí bên trong được dành riêng cho các loại tên lửa chống máy bay khác nhau.
+
+
+=== Giới hạn về sức tải ===
+Bởi vì tất cả các máy bay tàng hình hoàn toàn đều mang vũ khí ở bên trong thân nên lượng đầu đạn vũ trang có thể sử dụng được là hạn chế. Chiếc F-117 chỉ mang được hai quả bom laser trên thân, đòi hỏi tin tức tình báo phải ở mức độ tin cậy cao để có thể thực hiện thành công phi vụ. Bên ngoài phạm vi chiến tranh truyền thống, các máy bay này còn có thể thả các lực lượng đặc biệt xuống vùng địch, các đơn vị này sẽ thâm nhập lãnh thổ của địch và nhận diện các mục tiêu có giá trị chiến lược cho việc tấn công bằng bom laser bởi các máy bay tàng hình.
+Chiếc B-2 Spirit tải theo một lượng lớn bom, nhưng cũng vì vậy mà nó có tốc độ thấp (gần tốc độ âm thanh), dẫn đến việc kéo dài thời gian thực hiện phi vụ. Ví dụ sẽ là 18 - 24 tiếng đồng hồ nếu nó bay nửa vòng trái đất để tấn công các mục tiêu ở hải ngoại. Bởi vậy việc lên kế hoạch chi tiết và thu thập các thông tin tình báo một cách đúng lúc là tối quan trọng cho sự thành công của mỗi lần xuất kích. Trong trường hợp các mục tiêu di động có thể bị tấn công, chiếc Spirit sẽ phải tin vào các thông tin từ vệ tinh hay làm theo chỉ dẫn của các hoa tiêu để đảm bảo thực hiện thành công hành trình bay.
+
+
+=== Chi phí ===
+Các máy bay tàng hình thường có một khả năng vận hành tối đa hạn chế. Dù chiếc B-2 Spirit có thể năng thả quân khí tiếp tế lên bất kì một dặm vuông nào trên bề mặt địa cầu trong vòng 12 giờ, về phương diện vận hành, nó trở nên bất tiện bởi hai nhân tố: giá cả thay thế quá cao (khoảng 2 tỷ USD/chiếc). Các loại máy bay mới như F-22 Raptor tuy có giá rẻ hơn nhưng vẫn lên tới 400 triệu USD/chiếc, vượt ngoài tầm cho phép của GDP của một số quốc gia, điều này dẫn đến một sự phân tích đầy thách thức về hiểm họa / thuận lợi khi xem xét việc triển khai của nó.
+Máy bay tàng hình vẫn có thể được thấy bởi mắt thường, khiến quá trình triển khai của nó phụ thuộc nào thời tiết và thời điểm trong ngày. Những nhiệm vụ tầm xa và đặc tính tránh xa các thiết bị radar làm cho không quỹ đạo, quỹ đạo hạ cánh và cất cánh của nó có thể được dự đoán một cách dễ dàng hơn. Trong khi chiếc máy bay có thể ngụy trang tốt, các vật dụng tiếp tế rất có thể làm lộ sự hiện diện của nó.
+
+
+== Các biện pháp chống máy bay tàng hình ==
+Xét về phương diện lý thuyết, tồn tại một số phương pháp phát hiện máy bay tàng hình từ xa nhưng chưa có cách nào trong số đó từng được áp dụng trong thực tế chiến đấu. Các công ty tuyên bố là đã phát triển được những hệ thống như vậy nhưng chưa thể thử nghiệm sản phẩm của mình trên những chiếc máy bay tàng hình thật sự (hoặc đã thử nghiệm nhưng kết quả được giữ bí mật).
+
+
+=== Dò tìm xung động trong không khí ===
+Úc và Nga tuyên bố rằng họ đã phát triển được một kỹ thuật xử lý cho phép có thể bắt được các chấn động trong không khí phát ra từ máy bay ở một tầm xa tương đối (có thể chống lại công nghệ tàng hình). Ví dụ, Chương trình radar vượt quá đường chân trời Jindalee của Australia được cho là có thể phát hiện ra máy bay tàng hình thông qua sự hỗn loạn không khí yếu do một máy bay tạo ra mà không cần biết tới những công nghệ tàng hình của nó [1].
+
+
+=== Sóng phản hồi ===
+Radar thụ động, radar bán tĩnh và đặc biệt là hệ thống đa tĩnh được tin tưởng là có thể phát hiện máy bay tàng hình tốt hơn so với các radar đơn tĩnh thường, bởi vì công nghệ tàng hình phản hồi năng lượng các bước sóng của máy phát, điều này mặt khác làm tăng mặt cắt ra đa một cách hiệu quả, nó là thứ mà các radar thụ động tìm kiếm. Một hệ thống có thể sử dụng các tín hiệu từ cả sóng TV băng tần thấp và sóng radio FM (các giải tần thấp này có thể gây ra sự cộng hưởng mặt cắt ra đa) hoặc điện thoại di động.
+
+
+=== Radar bước sóng dài ===
+Radar bước sóng dài cỡ mét có khả năng phát hiện máy bay tàng hình tốt hơn nhiều so với radar thường (sử dụng bước sóng cỡ cm). Một hệ thống SA-3 của Nam Tư, dù cũ kỹ nhưng nhờ sử dụng radar loại này đã bắn hạ thành công một chiếc F-117 của Mỹ vào năm 1999.
+
+
+=== Phát hiện tín hiệu hồng ngoại (IRST) ===
+Máy bay tàng hình được thiết kế để có mức độ bộc lộ trước radar rất thấp, nhưng mức độ phát ra tia hồng ngoại thì vẫn tương tự như máy bay thường do đều phải sử dụng động cơ phản lực tỏa ra nhiều nhiệt. Do vậy, nếu sử dụng các thiết Tìm kiếm và theo dõi bằng tia hồng ngoại thì vẫn có thể phát hiện máy bay tàng hình (các thiết bị loại này hiện nay đã có thể phát hiện tín hiệu hồng ngoại tỏa ra từ máy bay địch ở cự ly tới vài chục km).
+Những máy bay sử dụng hệ thống IRST hiện đại nhất được biết đến là các phiên bản Sukhoi Su-27 của Nga. Hệ thống OLS-35 trang bị trên Su-35 được tuyên bố có thể phát hiệu tín hiệu hồng ngoại phát ra từ máy bay địch ở cự ly tới 90 km, trong khi những hệ thống mạnh hơn vẫn đang được phát triển liên tục. Với tia hồng ngoại phản hồi cùng tên lửa "bắn và quên", máy bay sử dụng công nghệ này có thể nhắm bắn máy bay tàng hình mà không phải sử dụng tín hiệu radar dò tìm.
+
+
+=== Tìm kiếm bằng quang học ===
+Máy bay tàng hình "biến mất" trước radar nhưng nó không tàng hình về quang học, tức là vẫn quan sát được bằng mắt thường. Do vậy, các máy bay trang bị hệ thống tìm kiếm mục tiêu bằng quang học, các trạm quan sát sử dụng kính viễn vọng vẫn có thể phát hiện ra máy bay tàng hình từ cự ly vài km tới vài chục km (tùy thuộc vào điều kiện thời tiết, ngày hoặc đêm).
+
+
+== Ứng dụng của không hạm tàng hình ==
+
+
+== Các mẫu máy bay tàng hình ==
+
+
+== Tham khảo ==

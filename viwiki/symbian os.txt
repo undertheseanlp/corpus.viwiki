@@ -1,0 +1,95 @@
+Symbian là hệ điều hành được viết và sử dụng cho một số điện thoại di động. Symbian được sử dụng nhiều nhất bởi các điện thoại cao cấp của Nokia. Hãng này đã rất thành công với hệ điều hành này và có thời đã giúp Symbian trở thành hệ điều hành dành cho thiết bị di động phổ biến nhất thế giới. Tuy nhiên hiện nay(tính đến tháng 9/2012), Symbian đã đi vào giai đoạn thoái trào do không cạnh tranh nổi với các hệ điều hành mới tân tiến hơn như Ios, Android... Số người dùng càng ngày càng ít khiến thị phần Symbian thu hẹp và trở nên khiêm tốn so với các nền tảng khác.
+Đến ngày 25/1/2013, tập đoàn Nokia đã chính thức khai tử nền tảng Symbian sau khi hãng này "mua đứt" Symbian từ tháng 6/2008. Thiết bị cuối cùng chạy Symbian là Nokia 808 pureview.
+
+
+== Quá trình phát triển ==
+Symbian được hỗ trợ nhiều nhất bởi hãng điện thoại Nokia. Hãng này đã tích hợp Symbian vào hầu hết điện thoại cao cấp của mình. Trong khoảng thời gian từ 2003-2007, Nokia và Symbian hết sức thành công với doanh số cao và Symbia được coi là biểu tượng cao cấp. Các điện thoại tiêu biểu phải kể đến Nokia 6600 và Nokia 7610. Ngoài Nokia, Sony Ericsson cũng có những model dùng Symbian rất được chú ý như P900, P910i. Các hãng khác như Samsung, Motorola cũng có một vài model sử dụng Symbian nhưng không thực sự thành công lắm.
+
+
+== Ưu và khuyết điểm ==
+Ở thời kỳ hoàng kim thì Symbian được đánh giá là thân thiện, dễ sử dụng, thông minh, dễ tùy biến, nhiều ứng dụng... Tuy nhiên càng về sau, khi các hệ điều hành iOS của Apple và Android của Google phổ biến hơn thì Symbian đánh mất dần các lợi thế. Nó trở thành một hệ điều hành lạc hậu, trì trệ, kém chuyên nghiệp...
+Điểm yếu nhất của Symbian, ngay cả khi nó đang thịnh hành, là sự không tương thích giữa các phiên bản(phiên bản ra sau mới hơn lại không chạy được ứng dụng cho phiên bản trước), dẫn đến khó khăn cho các nhà phát triển phần mềm của hãng thứ 3, từ đó cũng khiến phần mềm dành cho Symbian tuy nhiều mà ít, vì cùng là Symbian nhưng lại không chạy được cùng một phần mềm. Chính vì vậy, các thiết bị mới ra của Symbian cũng được đón nhận dè dặt hơn, do người tiêu dùng lo ngại không kiếm được những ứng dụng yêu thích mà họ đang dùng trên thiết bị Symbian cũ. Đối với giới chuyên môn thì đó là cách phát triển nghiệp dư, thiếu tầm nhìn... và cũng là một trong những nguyên nhân hạ gục Symbian, khi các hệ điều hành cạnh tranh có tính tương thích ngược rất tốt.
+Một điểm nữa, là hầu hết các thiết bị chạy Symbian đều gắn với phiên bản hệ điều hành của nó vĩnh viễn, người dùng không thể nâng cấp hệ điều hành trên thiết bị cũ của mình lên phiên bản mới, việc đó càng khiến Symbian trở nên phân mảnh, thiếu thân thiện và bó buộc hơn. Những thiết bị Symbian cuối cùng đã khắc phục được nhược điểm đó nhưng lúc này Android và Ios đã trở nên quá phổ biến.
+Nhiều chuyên gia cho rằng Nokia và Symbian đã bỏ lỡ cơ hội của mình, khi không xây dựng một hệ sinh thái thực sự vững chắc xung quanh Symbian khi nó còn thống trị. Các thiết bị càng ra đời sau càng khó kiếm ứng dụng tiện ích do sự thay đổi và cải tổ trong lòng Symbian. Vô số ứng dụng cũ được viết trong thời kỳ hoàng kim không thể sử dụng được, và vì vậy chúng chẳng giúp ích gì cho các thiết bị mới. Mọi chuyện có lẽ sẽ khác nếu tất cả các thiết bị Symbian đều tương thích với nhau.
+
+
+== Các điện thoại dùng Symbian ==
+Danh sách:
+
+
+=== Nokia ===
+Nokia 3650
+Nokia 9210i
+Nokia 6600
+Nokia 7650
+Nokia 3660
+Nokia 7700
+Nokia 9500
+Nokia 6260
+Nokia 6288
+Nokia 9300
+Nokia 6670
+Nokia 6680
+Nokia 6681
+Nokia 5230
+Nokia 5233
+Nokia 5235
+Nokia N90
+Nokia N70
+Nokia 3250
+Nokia N71
+Nokia N72
+Nokia N73
+Nokia N73 Music Edition
+Nokia N8
+Nokia N91
+Nokia N91 8GB
+Nokia N92
+Nokia N93
+Nokia 9300i
+Nokia ￼￼￼￼E61￼￼
+￼￼Nokia E50
+Nokia E60
+Nokia E61i
+Nokia E65
+Nokia E7
+Nokia 8800 Sirocco Edition
+Nokia 5500 Sport
+Nokia 3250 Xpress Music
+Nokia N77
+Nokia N78
+Nokia E7
+Nokia E90 Communicator
+Nokia N70 Music Edition
+Nokia N8
+Nokia N81 8GB
+Nokia N95
+Nokia N95 8GB
+Nokia N96
+Nokia N97
+Nokia 7610
+Nokia 5610 Xpress Music
+Nokia 5800 XpressMusic
+Nokia 5800 Navigation
+Nokia C2-03
+Nokia C5-00
+Nokia C5-03
+Nokia C5-06
+Nokia X6-00
+Nokia X7
+Nokia 6120c
+Nokia 5130-c
+Nokia E63
+Nokia E66
+Nokia PureView 808
+
+
+=== Sony Ericsson ===
+P900
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang chủ

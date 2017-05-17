@@ -1,0 +1,25 @@
+Email client (từ kỹ thuật là Mail User Agent (MUA), trong tiếng Việt là trình duyệt mail) là một phần mềm máy tính được dùng để truy cập và quản lý email của người dùng.
+Các mail client phổ biến bao gồm Microsoft Outlook, IBM Lotus Notes, Mozilla Thunderbird,, Evolution và Apple Inc.'s Mail.
+Một ứng dụng web cung cấp các dịch vụ quản lý tin nhắn, các thành phần, và các tính năng nhận mail đôi khi cũng được em là một trình duyệt mail, nhưng thường được gọi là webmail. Các webmail phổ biến gồm Gmail, Lycos Mail, Mail.com, Outlook.com và Yahoo! Mail.
+
+
+== Giao thức ==
+Trong khi các giao thức phổ biến để lấy email bao gồm POP3 và IMAP4, gửi mail thường được thực hiện bằng cách sử dụng giao thức SMTP.
+Một tiêu chuẩn quan trọng được hỗ trợ bởi hầu hết các email clients là MIME, được sử dụng để gửi email đính kèm tập tin nhị phân. File đính kèm là các tập tin không phải là một phần của email, nhưng được gửi đi với email.
+Hầu hết các email clients sử dụng một User-Agent.
+
+
+=== Số cổng ===
+Email servers và clients theo quy ước sử dụng các số cổng TCP trong bảng sau. Đối với MSA, IMAP and POP3, các bảng báo cáo cũng lầcc nhãn mà một mail client sử dụng để truy vấn các bản ghi SRV và khám phá cả các tên máy chủ và số cổng của các dịch vụ tương ứng.
+
+
+== Xem thêm ==
+SMTP
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Best Email Clients for Windows
+Email Clients for MAC OS X

@@ -1,0 +1,143 @@
+Skype (phiên âm quốc tế: [skɪp]) là một mạng điện thoại Internet ngang hàng được thành lập bởi Niklas Zennström và Janus Friis, cũng là những người thành lập ra ứng dụng chia sẻ tập tin Kazaa và ứng dụng truyền hình ngang hàng Joost. Nó cạnh tranh với những giao thức VoIP mở hiện nay như SIP, IAX, và H.323. Skype Group, đã được mua lại với giá 2,6 tỉ $ bởi eBay vào tháng 9 năm 2005, có trụ sở đặt tại Luxembourg, với các văn phòng đại diện ở London, Tallinn, Praha và San Jose, California.
+
+Skype đã phát triển nhanh chóng về cả lượng người dùng và phát triển phần mềm từ khi ra mắt, cả dịch vụ miễn phí và dịch vụ trả tiền. Hệ thống liên lạc Skype nổi bật nhờ các tính năng thuộc nhiều lĩnh vực, bao gồm hội nghị thoại và hình ảnh miễn phí, khả năng sử dụng công nghệ (phân bố) ngang hàng để vượt qua vấn đề về tường lửa và NAT, sử dụng kỹ thuật mã hóa mạnh và trong suốt và khả năng cực mạnh chống lại việc biên dịch ngược phần mềm hay giao thức.
+Ngày 10 tháng 5 năm 2011, tập đoàn Microsoft đã mua lại Skype với giá US$8,5 tỷ.
+
+
+== Hệ thống và Phần mềm ==
+
+
+=== Công nghệ ===
+
+Điểm khác nhau chủ yếu giữa Skype và các chương trình VoIP đó là Skype hoạt động theo mô hình mạng ngang hàng, chứ không theo mô hình chủ-khách truyền thống. Thư mục người dùng của Skype hoàn toàn phân rã và phân bố trên các node mạng, điều đó có nghĩa là mạng có thể mở rộng dễ dàng (tính đến thời điểm hiện tại đã có trên 300 triệu người dùng trên toàn thế giới và trong năm 2012 đã có hơn 3 tỉ giờ gọi qua Skype) mà không đòi hỏi một cơ sở hạ tầng tập trung phức tạp và đắt tiền.
+Skype cũng tìm đường cho các cuộc gọi thông qua những máy ngang hàng để dễ vượt qua NAT đối xứng và tường lửa. Tuy nhiên, điều này đặt thêm một gánh nặng cho người nào kết nối Internet mà không có NAT, vì băng thông của máy tính và mạng của họ được dùng để tìm đường cho các cuộc gọi của người dùng khác.
+Giao diện lập trình ứng dụng (API) của chương trình Skype mở mạng cho những nhà phát triển phần mềm. Skype API cho phép các chương trình khác sử dụng mạng Skype để lấy thông tin "trang trắng" và quản lý cuộc gọi.
+Mã nguồn của Skype là mã nguồn đóng, và giao thức không được chuẩn hóa. Giao diện người dùng Windows được phát triển bằng Pascal sử dụng Delphi, phiên bản Linux được viết bằng C++ với Qt, và phiên bản Mac OS X được viết bằng Objective-C với Cocoa. Vài phần của chương trình sử dụng Internet Direct (Indy), một thư viện truyền socket mã nguồn mở.
+
+
+=== Bảo mật ===
+Giao tiếp an toàn là một đặc tính của Skype. Việc mã hóa không thể bật hoặc tắt. Người dùng không có vai trò trong quá trình mã hóa và do đó không phải động tới vấn đề hạ tầng khóa công cộng. Skype được báo cáo là sử dụng những giải thuật mã hóa mạnh mẽ, và có sẵn phổ biến.
+
+
+==== Tổng quan ====
+Mã nguồn của Skype là có sở hữu và mã nguồn đóng, và Skype không hề có kế hoạch trở thành phần mềm mã nguồn mở, theo như trích dẫn sau:
+
+"Chúng tôi có thể làm như vậy nhưng chỉ khi chúng tôi thiết kế lại phương thức làm việc của nó và bây giờ chúng tôi lại không có thời gian."
+– Niklas Zennstrom, đồng sáng lập Skype, trả lời cho mô hình bảo mật của Skype
+
+Một cuốn sách của Nhà xuất bản Que, Skype: The Definitive Guide ("Skype: Hướng dẫn tổng quát") đã chỉ ra rằng:
+Skype có thể sử dụng băng thông của người dùng khác. (Mặc dù điều này được phép trong EULA, không có cách nào có thể xác định được có bao nhiêu băng thông được dùng theo cách này). Có khoảng 20.000 supernode so với hàng triệu người dùng đăng nhập. Skype Guide for network administrators [1] (Skype Hướng dẫn cho các nhà quan trị mạng) nói rằng supernode chỉ mang lưu lượng điều khiển tới 5 kbyte/s và các bộ tiếp nối (relay) có thể mang lưu lượng dữ liệu dùng dùng khác lên đến 10 kbyte/s (cho một cuộc gọi truyền hình). Một bộ tiếp nối không nên dùng cho hơn một "kết nối chuyển tiếp".
+Chức năng truyền tập tin của Skype không chứa bất cứ giao diện lập trình được nào cho các sản phẩm chống virus, mặc dù Skype nói rằng họ đã kiểm tra sản phẩm của họ bằng những sản phẩm "Giáp" chống virus.
+Sự thiếu rõ ràng về nội dung có nghĩa là tường lửa và các nhà quản trị hệ thống không thể chắc chắn được Skype đang làm gì. (Sự kết hợp nghiên cứu kỹ thuật đảo và được mời cho rằng Skype không hề làm điều gì thù địch). Các quy định về tường lửa cho bảng ip được cung cấp cho các công ty để khóa Skype.
+Sự liên lạc thật sự của bất kỳ cuộc hội thoại Skype nào đó được báo cáo là khá an toàn; cả phân tích về mật mã học cũng kết luận rằng Skype đã tận dụng tốt các kỹ thuật mã hóa hiện đại và đã viết những dòng mã giải thuật mã hóa một cách đúng đắn trong phần mềm.
+
+
+==== Sử dụng tài nguyên ====
+
+Skype truy cập vào ổ cứng vài lần mỗi phút Điều này có thể được xác định bằng cách quan sát hoạt động của đèn LED của ổ cứng, hoặc bằng cách sử dụng một chương trình giám sát truy cập tập tin như FileMon. Tùy thuộc vào băng thông internet, một số người dùng nào đó được chọn bởi phần mềm để đóng vai trò là "supernode". Dưới những điều kiện nhất định, Skype được cho là sẽ sẵn sàng chấp nhận hàng ngàn kết nối, nhưng đã nói rằng tự giới hạn đến 40 kb/s tải lên và tải xuống.
+
+
+==== Tính bí mật của dữ liệu ====
+Skype nói rằng giao thức thiết lập phiên có sở hữu là hiệu quả và ngăn ngừa cả tấn công man-in-the-middle và tấn công replay. Phần mềm không tự chứng nhận có nghĩa là nó cần phải kết nối và đăng nhập vào một máy chủ Skype tập trung để chứng nhận mỗi một khóa công cộng của người dùng.
+Skype hiện cho phép nhiều đăng nhập đồng thời: Nếu một kẻ tấn công có thể có được mật khẩu đăng nhập của người dùng, kẻ tấn công đó có thể đăng nhập như người dùng đó, và thay đổi trạng thái của họ thành "Ẩn". Sau đó, các phiên nói chuyện liên quan đến người dùng thật có thể được sao chép lại vào tài khoản "ma" của hacker. Nếu giả sử người dùng giữ cho mật khẩu của anh/chị ta an toàn, điều này không còn là vấn đề nữa.
+
+
+==== Sự xác thực danh tính người dùng ====
+Skype cung cấp một hệ thống đăng ký không quản lý cho người dùng: việc đăng ký không cần phải có bằng chứng (với nghĩa là thẻ chứng minh do nhà nước cấp) về danh tính của người dùng. Điều này có hai cách thực hiện: bạn có thể sử dụng hệ thống một cách an toàn mà không phải để lộ ra danh tính thực của mình cho người khác trong hệ thống, nhưng mặt khác bạn không thể đảm bảo người bạn đang nói chuyện thực sự là họ ở đời thực. Mặt tiêu cực của chuyện này đó là dễ dàng sử dụng tên cá nhân (chứ không phải danh tính) của một người đáng tin cậy làm nickname Skype và lừa người dùng ngây thơ lộ ra thông tin hoặc chạy một chương trình gửi đến cho họ.
+Cần chú ý rằng hành động này phổ biến ở tất cả các dịch vụ cung cấp theo kiểu số: những ngoại lệ là những chứng nhận từ cơ quan chứng nhận với tất cả những trở ngại ai cũng biết.
+
+
+=== Các sự kiện chính ===
+
+Các phiên bản hiện giờ có cho các hệ điều hành Microsoft Windows [2000, XP và CE (Pocket PC)], Mac OS X và GNU/Linux. Phiên bản Linux chạy trên FreeBSD thông qua lớp tương thích mã nhị phân Linux của nó; phiên bản Fedora Core hoạt động tốt, nếu người dùng bật micro trong phần thiết lập âm thanh GNOME. Phiên bản Symbian hiện đang được phát triển.
+
+
+=== Các thay đổi chi tiết ===
+
+Các thay đổi Windows
+Các thay đổi Mac
+Các thay đổi Linux
+
+
+=== Sử dụng và lưu lượng ===
+
+Người sử dụng có thể đăng ký hơn 1 tài khoản, và không thể nhận biết được ai có nhiều tài khoản.
+Theo báo cáo đã có 17,443,598 người sử dụng Skype online vào ngày 11 tháng 5 năm 2009.
+Lưu lượng đường truyền thông của Skype vô cùng lớn và đã trở thành chương trình truyền tải lớn nhất thế giới. . Lưu lượng từ máy tính tới máy tính giữa người dùng Skype trong năm 2005 tương đương chiếm 2,9% lưu lượng truyền tải quốc tế trong năm 2005 và xấp xỉ 4,4% tổng lưu lượng quốc tế (264 tỉ phút) năm 2006. Năm 2008, khoảng 8% các cuộc gọi quốc tế được thực hiện bởi Skype.
+Skype phối hợp vài tính năng để che lấp đi đường truyền của họ, nhưng nó không thiết kế đặc biệt để cản trở phân tích lưu lượng và do đó không cung cấp liên lạc nặc danh. Một số nhà nghiên cứu có thể làm mờ đi lưu lượng để nó không thể nhận ra được ngay cả sau khi truyền thông qua mạng mạng nặc danh [2].
+SkypeNOW! là một dịch vụ mà Skype cung cấp cho các khách hàng sử dụng mạng Vodafone ở Nam Phi. Với dịch vụ này, người sử dụng Vodafone có thể thực hiện các cuộc gọi quốc tế Skype không dây.
+
+
+== Tính năng ==
+
+
+=== SkypeOut ===
+
+SkypeOut cho phép người dùng Skype gọi cho số điên thoại truyền thống, bao gồm điện thoại di động, với một mức phí. Mức phí này thấp nhất vào khoảng 0,024 dollar Mỹ một phút cho phần lớn các nước phát triển, và cao nhất là 2.142 dollar Mỹ một phút cho cuộc gọi đến vùng phụ thuộc Diego Garcia. Bắt đầu từ tháng 1 năm 2007, Skype cũng tính tiền tương đương với 0,039 Euro cho mỗi cuộc gọi SkypeOut, cộng thêm với mức phí thông thường. Sau 180 ngày mà không thực hiện cuộc gọi SkypeOut, số tiền Skype sẽ hết hạn. Vào tháng 30 tháng 1 năm 2007, các cuộc gọi tới Canada và Mỹ không còn miễn phí nữa.
+Chất lượng dịch vụ không được đảm bảo và có thể rớt, đứt kết nối và có vấn đề về nén âm thanh.
+
+
+=== SkypeIn ===
+SkypeIn cho phép người dùng Skype nhận cuộc gọi trên máy tính được gọi bằng những thuê bao điện thoại thường tới số điện thoại Skype, Hiện nay cho phép người dùng thuê bao cho các số ở Úc, Brasil, Đan Mạch, Cộng hòa Dominica, Estonia, Phần Lan, Pháp, Đức, Hồng Kông, Nhật Bản, Ba Lan, Thụy Điển, Thụy Sĩ, Liên hiệp Anh và Bắc Ireland, România và Hoa Kỳ.
+Ví dụ như, một người dùng ở San Francisco có thể tạo một số địa phương ở Helsinki. Người gọi từ Helsinki chỉ phải trả mức giá nội địa cho cuộc gọi tới số đó.
+
+
+== Những chỉ trích ==
+Skype đã bị chỉ trích vì sử dụng giao thức có sở hữu, thay vì một chuẩn mở như H.323, Inter-Asterisk eXchange, hay SIP, bởi vì điều này khiến cho các nhà phát triển khác khó khăn hơn, nếu không nói là không thể, giao tiếp với Skype. Có người bán tán rằng quyết định đó là để ngăn cản các đối thủ cạnh tranh khác của SkypeOut.
+Do cách thiết kế giao thức của Skype, nếu tiếp cận vào một kết nối mạng không giới hạn thì người dùng Skype có thể trở thành một supernode. Những supernode này sẽ cùng nắm giữ mạng ngang hàng và cung cấp dữ liệu tìm đường cho những máy khách khác đằng sau những tường lửa nghiêm ngặt hơn, do đó có thể sử dụng một lượng rất lớn băng thông. Chính vì lý do đó, một vài nhà cung cấp mạng, như các trường đại học, cấm sử dụng Skype.
+Một bản báo cáo của hãng thứ ba chuyên phân tích bảo mật và phương pháp luận của Skype đã được giới thiệu tại Đại hội Mũ đen châu Âu 2006. Nó phân tích Skype và có những quan sát sau:
+Sử dụng quá nhiều các kỹ thuật chống gỡ lỗi (debug) (dùng để ngăn cản sự phát triển của các chương trình thay thế hay các công cụ xâm nhập (hack))
+Sử dụng nhiều mã làm rối (làm chậm kỹ thuật dịch ngược, hạn chế mô tả chương trình trong tập tin thực thi được)
+Giữ các mẩu hội thoại trên mạng, thậm chí khi "để không" (idle) (thậm chí đối với những máy không phải là supernode. Có thể được dùng để duyệt NAT)
+Không tin vào bất cứ chương trình nào khác liên lạc với Skype
+Có khả năng xây dựng một mạng Skype song song
+Thiếu tính riêng tư (Skype giữ những khóa cho phiên giải mã)
+Tràn chồng (heap overflow) trong Skype
+Skype khiến cho việc tăng cường chính sách bảo mật (của công ty) thêm khó khăn
+"Không có cách nào biết được nó có/sẽ có "cửa sau" (backdoor) hay không"
+SkypeOut tính phí theo phút, trái ngược với xu thế tính cước hiện nay ở những điện thoại thông thường. Ở một số nước, nhiều cuộc gọi được tính cước với một khoảng tiền cố định mỗi cuộc gọi. Theo cách này, những cuộc gọi dài bị SkypeOut tính mắc, trong khi rẻ hơn nếu nói chuyện ngắn.
+Hơn nữa, cũng dấy lên những than phiền về sự hỗ trợ khách hàng ít ỏi của Skype. Vào tháng 6 năm 2007, Skype vẫn không cung cấp một cách trực tiếp để liên lạc với dịch vụ hỗ trợ khách hàng, chỉ dựa trên cổng thông tin wen cho tất cả các vấn đề liên quan. Cụ thể là, những khách hàng đã trả tiền dịch vụ như SkypeOut, thường diễn tả sự thất vọng với việc thiếu hồi đáp của Skype, cho rằng họ không quan tâm hoặc không cung cấp đủ sự hồi đáp cho các lời than phiền về những vấn đề cụ thể nào đó, như không tính hóa đơn đúng. Ví dụ, những khách hàng đã than phiền về các khoản tính phí không rõ ràng của Skype. Trong một vài trường hợp, khi những lần tính phí đó đột ngột trả lại lời lại, thì đa số chúng được xếp vào loại phí ẩn.
+Khi Skype 2.0 được phát hành, AMD đã sắp đặt một vụ kiện cho rằng phần mềm chỉ cho phép cuộc gọi hội nghị 10 bên trên bộ xử lý Intel nhân đôi, trong khi những bộ xử lý khác, bao gồm tất cả các con chip của AMD, chi được cho phép cuộc gọi hội nghị 5 bên.
+Sự phê phán khác của Skype là vấn đề lọc nội dung. Đặc biệt là ở Trung Quốc.
+Trong khi có phiên bản chạy trên Windows, Mac OS X và Linux (i386 platform), không có phiên bản Skype chạy trên Palm OS, được sử dụng trong những thiết bị di động như điện thoại thông minh Treo 700p cũng như phiên bản Powerpc của Linux.
+Ngoài ra, Skype không hỗ trợ Windows Vista (“at least not fully”. ). Vấn đề này còn làm phức tạp thêm với sự thật là Skype chưa từng thông báo bất kỳ ngày phát hành (hay phiên bản) Skype nào tương thích với Vista, mặc dù Vista đã có mặt trên thị trường vào ngày 30 tháng 1 năm 2007. Điều này có thể cản trở các khách hàng dựa vào Skype có thể chuyển sang Vista hoàn toàn.
+Skype đã bị chỉ trích trong cộng đồng Linux vì những lỗi và trì hoãn trong các phiên bản Linux [3].
+Cũng có những chỉ trích về việc Skype phong tỏa hoặc không cho phép tài khoản người dùng sử dụng dịch vụ SkypeOut [4].
+Cũng vậy, khi sử dụng SkypeOut để gọi cuộc gọi tính phí người nghe, người dùng có thể gặp phải sự suy giảm chất lượng cuộc gọi khi sử dụng bàn phím để nhập số vào hệ thống tự động.
+Skype cũng bị phát hiện là truy cập vào dữ liệu BIOS để xác định máy tính cá nhận và cung cấp sự bảo vệ DRM cho các plug-in.
+
+
+== Skype group (công ty) ==
+Vào ngày 14 tháng 10 2005, eBay đã mua lại công ty với giá 1,9 tỷ € bằng tiền mặt và chứng khoán, cộng với một khoản 1,5 tỷ € tiền thưởng nếu đạt được mục tiêu đề ra đến năm 2008.
+
+
+== Xem thêm ==
+Giao thức Skype
+Thông tin hiện hữu
+VoIP
+So sánh các phần mềm VoIP
+
+Tin nhắn nhanh
+So sánh các chương trình tin nhắn nhanh
+So sánh các giao thức tin nhắn nhanh
+
+Hội nghị truyền hình
+Giao tiếp an toàn
+Yahoo! Voice
+Windows Live Call
+AIM Phoneline
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+(tiếng Anh) Trang chính thức của Skype
+(tiếng Việt) Cả thế giới cùng đàm thoại miễn phí với Skype
+(tiếng Anh) Scientific Research on Skype (Reverse Engineering, etc.)
+White paper on Skype, focus on supernodes
+Skype Security Evaluation by Tom Berson (Anagram Laboratories)
+Skype vs Vonage So sánh ngắn Skype và Vonage
+Skype bảo mật, làm rối và bảo vệ khỏi các kỹ thuật dịch ngược phân tích tại hội nghị Mũ đen 2006
+So sánh nhà cung cấp dịch vụ VoIP So sánh Skype và Vonage với các nhà cung cấp dịch vụ VoIP ít tên tuổi hơn
+Skype VoIP User Guide, FAQ, Hints and Resources Có những thông tin khó tìm cho người dùng

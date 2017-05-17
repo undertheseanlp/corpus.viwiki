@@ -1,0 +1,21 @@
+Swift là một ngôn ngữ lập trình hướng đối tượng dành cho việc phát triển iOS và OS X, được giới thiệu bởi Apple tại hội nghị WWDC 2014. Swift được mong đợi sẽ tồn tại song song cùng Objective-C, ngôn ngữ lập trình hiện tại dành cho các hệ điều hành của Apple. Swift được thiết kế là một ngôn ngữ có khả năng phòng chống lỗi cao. Nó được biên dịch với trình biên dịch LLVM. Một tài liệu 500 trang về Swift cũng được phát hành tại WWDC, miễn phí trên iBooks Store.
+Ngày 2 tháng 6 năm 2014, ứng dụng WWDC conference trở thành ứng dụng Swift đầu tiên được phát hành.
+
+
+== Mã Nguồn Ví Dụ ==
+
+
+== Xem thêm ==
+AppleScript
+Xcode
+Objective-C
+Rust
+Go
+ngôn ngữ D
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Swift at Apple.com

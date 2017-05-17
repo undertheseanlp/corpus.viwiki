@@ -1,0 +1,31 @@
+Ethnologue: Languages of the World là một xuất bản phẩm điện tử với nội dung là các số liệu thống kê về ngôn ngữ và phương ngữ trên thế giới. Nó cung cấp thông tin về số lượng người sử dụng một ngôn ngữ, nơi sử dụng, phương ngữ, mối quan hệ ngôn ngữ học, bản dịch của Kinh thánh trong ngôn ngữ đó và ước lượng khả năng tồn tại của ngôn ngữ. Ấn bản 17 ra mắt năm 2013 thống kê 7.105 ngôn ngữ và phương ngữ. Các ấn bản từ 16 trở về trước được xuất bản dưới dạng bản in.
+
+
+== Tổng quan ==
+Ethnologue là xuất bản phẩm của SIL International (tên cũ là Summer Institute of Linguistics) - một tổ chức cung cấp dịch vụ ngôn ngữ học Kitô giáo nghiên cứu nhiều ngôn ngữ thiểu số. Xuất bản phẩm này còn làm việc với các cộng đồng ngôn ngữ để dịch các phần của Kinh Thánh ra ngôn ngữ bản xứ.
+Năm 1984, Ethnologue ấn hành hệ thống mã ba chữ cái có tên gọi "SIL code" nhằm nhận diện các ngôn ngữ. Bộ mã này vượt xa quy mô so với tiêu chuẩn quốc tế ISO 639-1 ra đời trước đó. Năm 2002, Tổ chức tiêu chuẩn hóa quốc tế mời Ethnologue hợp tác tích hợp hệ thống mã của họ cho tương thích với mã quốc tế. Kết quả là hiện nay Ethnologue đang sử dụng tiêu chuẩn ISO 639-3.
+Về cách hiểu "phương ngữ", Ethnologue đã nêu quan điểm ở đầu xuất bản phẩm "Không phải mọi học giả đều chia sẻ bộ tiêu chuẩn chung phân biệt 'ngôn ngữ' với 'phương ngữ'". Ethnologue tuân theo tiêu chuẩn do ISO 639-3 ấn định
+Bên cạnh việc chọn tên chính cho một ngôn ngữ, Ethnologue còn cung cấp cho độc giả một số danh xưng mà người sử dụng ngôn ngữ, các chính phủ, người nước ngoài và các nước láng giềng dùng để gọi ngôn ngữ đó. Nó cũng cho biết lịch sử hình thành tên gọi của ngôn ngữ, dù cho tên gọi đó có tư cách chính thức, có hợp với đường lối chính trị hay có tính công kích.
+Tác giả William Bright - khi còn làm biên tập biên của tạp chí học thuật Language: Journal of the Linguistic Society of America - đã cho rằng Ethnologue là thứ "không thể thiếu được đối với bất cứ kệ sách tham khảo nào về các ngôn ngữ trên thế giới".
+
+
+== Các ấn bản ==
+Ethnologue ấn bản mới được xuất bản định kỳ khoảng bốn năm một lần. Dưới đây là bảng liệt kê các ấn bản:
+
+
+== Thống kê họ ngôn ngữ ==
+Cách phân loại ngôn ngữ của Ethnologue dựa theo cách phân loại của William Bright (1992) trong bộ sách bốn tập Oxford International Encyclopedia of Linguistics (Nhà xuất bản Đại học Oxford, ISBN 9780195051964) nhưng đi xa hơn do dựa vào nhiều nghiên cứu cá nhân khác.
+
+
+== Xem thêm ==
+Danh sách ngôn ngữ
+Danh sách hệ ngôn ngữ
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Website The Ethnologue (tiếng Anh)
+How Linguists and Missionaries Share a Bible of 6,912 Languages, The New York Times, 19 tháng 7 năm 2005 (tiếng Anh)
+Ethnologue 13 (1996), mã ngôn ngữ và tên gọi (tiếng Anh)

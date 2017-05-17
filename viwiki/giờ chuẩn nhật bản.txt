@@ -1,0 +1,4 @@
+Giờ chuẩn Nhật Bản hay JST (Japan Standard Time) là múi giờ tiêu chuẩn của Nhật Bản và nhanh hơn UTC 9 tiếng. Ví dụ, khi UTC là 0h (00:00) thì ở Nhật là 9h sáng (09:00) theo giờ chuẩn của Nhật. Giờ tiêu chuẩn của Nhật không có giờ mùa hè. Giờ chuẩn Nhật Bản giống với giờ chuẩn Triều Tiên, giờ chuẩn Đông Indonesia và giờ Yakutsk. Trong thế chiến II, giờ tiêu chuẩn Nhật Bản thường được gọi là Giờ tiêu chuẩn Tokyo trong các văn bản của phương Tây.
+
+
+== Tham khảo ==

@@ -1,0 +1,22 @@
+Samsung Galaxy S5 là điện thoại thông minh Android của Samsung Electronics, đóng vai trò thừa kế cho Samsung Galaxy S4. Thông báo vào thang 1 2014, nó được dự kiến sẽ ra mắt vào Mobile World Congress thường niên tại Barcelona, Tây Ban Nha, từ 24 đến 27 tháng 2 và công bố toàn thế giới vào tháng 4. Lee Young Hee của Samsung cho biết sự kế thừa thành công của Galaxy Gear (Gear 2), sẽ được ra mắt cùng lúc với S5.
+
+
+== Thông số kỹ thuật ==
+
+
+=== Phần cứng và thiết kế ===
+Sự tiến hóa trong thiết kế của S5 phụ thuộc vào thiết kế của S4, với tổng thể, được làm từ polycarbonate mang một vẻ "quyến rũ hiện đại", và nắp lưng có thể thay thế. Không giống như sản phẩm trước, mặt sau của S5 sử dụng nhựa mềm chất lượng cao, và các họa tiết chấm tròn. S5 có chứng nhận IP67 chống bụi, và ngâm trong nước ở độ sâu 1 mét (3 ft 3 in) lên đến 30. S5 sẽ có sẵn màu đen, xanh, vàng, và trắng. Màn hình của S5 rộng 5,1 inch (130 mm) 1080p tấm nền Super AMOLED, lớn hơn S4 một chút, và cho phép tự động cân bằng trắng và điều chỉnh gam màu. Bên dưới màn hình là ba nút; gồm một nút "Home" vật lý nằm ở chính giữa có nhận diện vân tay bằng cách vuốt lên nó, cùng với nút "ứng dụng hiện tại" và "trở lại" cảm ứng điện dung; cùng với giao diện người dùng Android 4.0, S5 không sử dụng phím "Menu" như người tiền nhiệm của nó, mặc dù cách bố trí của nó còn đảo ngược so với thiết bị Android (như HTC One X và Galaxy Nexus, nơi mà phím "trở lại" nằm bên trái nút "Home"). S5 bao gồm máy ảnh 16 megapixel chính, cung cấp quay video 4K, tự động lấy nét (có thể lấy nét chỉ trong 0,3 giây), ảnh và video HDR, và cảm biến hình ảnh với công nghệ "Isocell" của Samsung, cô lập các điểm ảnh cá nhân trong cảm biến để nâng cấp khả năng nắm bắt ánh sáng. Samsung tuyên bố rằng máy ảnh sẽ tốt hơn và nhanh hơn so với S4 và có thể quay video 4K. Kế bên flash của máy ảnh chính của thiết bị là cảm biến đo nhịp tim có thể sử dụng như một phần của phần mềm S Health.
+Sức mạnh của S5 là chip Snapdragon 801 2,5 GHz lõi tứ với 2 GB RAM. Mặc dù không được nhắc đến trong suốt buổi thuyết trình, một biến thể với Exynos 2,1 GHz tám lõi sẽ được phát hành trên thị trường nhưng chưa được xác định. Về kết nối, nó hỗ trợ 802.11ac MIMO Wi-Fi và LTE. S5 có pin 2.800 mAH; phần mềm nó có chế độ "Ultra Power Saving" để kéo dài thời lượng pin; khi kích hoạt, tất cả các quy trình không cần thiết sẽ bị vô hiệu hóa. Samsung tuyên bố rằng với Ultra Power Saving, S5 với 10% pin còn lại có thể kéo dài thêm 24 giờ ở chế độ chờ.
+
+
+=== Phần mềm ===
+S5 cài sẵn hệ điều hành Android 4.4.2 "KitKat" và giao diện TouchWiz của Samsung. Không như TouchWiz trên S4, TouchWiz của S5 có một giao diện tinh tế hơn, mặc dù một số khía cạnh bị ảnh hưởng đến một số thỏa thuận bằng sáng chế với Google, mà yêu cầu Samsung ít thay đổi "cải cách" giao diện Android trên TouchWiz. S5 thêm tính năng "My Magazine" của Galaxy Note 3 trang cuối cùng bên trái của màn hình chủ, menu cài đặt được cập nhật dựa trên giao diện mới, có thêm chế độ Kid Mode, công cụ "Download Booster" cho phép tải tập tin lớn được chia trên LTE và Wi-Fi nâng cấp tốc độ, trong khi đó ứng dụng S Health có chức năng mở rộng, tích hợp bộ cảm biến nhịp tim mới trên thiết bị, cùng với đồng hồ thông minh Gear 2 và Gear Fit theo dõi hoạt động mới.
+Galaxy S5 có một số tính năng bảo mật mới. Quét vân tay sử dụng để mở khóa, trong khi SDK có sẵn cho nhà phát triển thứ ba cung cấp chức năng vân tay cho ứng dụng của họ; PayPal sẽ tích hợp hỗ trợ cảm biến vân tay để xác nhận mua hàng trực tuyến. S5 có thêm tính năng "Private Mode", cho phép người dùng có thể ẩn ứng dụng hoặc tập tin mà không thể đăng nhập nếu thiếu xác nhận. Ứng dụng máy ảnh được cập nhật với menu mới "Shot & More" cho phép người dùng có thể chỉnh sửa ảnh sau khi chụp, và chế độ lấy nét sau.
+
+
+== Tham khảo ==
+
+
+== Liên kết ==
+Website chính thức
+Trang web chính thức Samsung Galaxy S5 tại Vietnam

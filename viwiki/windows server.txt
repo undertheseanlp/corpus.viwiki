@@ -1,0 +1,30 @@
+Windows Server là một nhánh của hệ điều hành máy chủ được sản xuất bởi tập đoàn Microsoft. Tất cả đều thuộc Microsoft Servers.
+
+
+== Thành viên ==
+Nhánh này bao gồm các hệ điều hành sau:
+Windows 2000 Server
+Windows Server 2003
+Windows Server 2008
+Windows HPC Server 2008
+
+Windows Server 2008 R2
+Windows Server 2012
+Windows Server 2012 R2
+Windows Server 2016
+Microsoft cũng sản xuất Windows Small Business Server và Windows Essential Business Server (đã ngừng phát triển), phần mềm đóng gói bao gồm hệ điều hành Windows Server và một vài sản phẩm Windows Servers khác.
+
+
+== Các hệ điều hành máy chủ khác ==
+Những hệ điều hành sau không thuộc họ Windows Server nhưng được thiết kế cho các máy chủ.
+Windows Home Server, là hệ điều hành máy chủ tại nhà dành cho chia sẻ tập tin, phân luồng, lưu trữ tự động và kết nối từ xa.
+Windows Home Server 2011
+
+Windows MultiPoint Server, một hệ điều hành dành cho máy tính có nhiều kết người người dùng đồng thời.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Website chính thức

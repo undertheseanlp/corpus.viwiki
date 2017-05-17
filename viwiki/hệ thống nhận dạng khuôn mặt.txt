@@ -1,0 +1,129 @@
+Hệ thống nhận dạng khuôn mặt là một ứng dụng máy tính tự động xác định hoặc nhận dạng một người nào đó từ một bức hình ảnh kỹ thuật số hoặc một khung hình video từ một nguồn video. Một trong những cách để thực hiện điều này là so sánh các đặc điểm khuôn mặt chọn trước từ hình ảnh và một cơ sở dữ liệu về khuôn mặt.
+Hệ thống này thường được sử dụng trong các hệ thống an ninh và có thể được so sánh với các dạng sinh trắc học khác như các hệ thống nhận dạng vân tay hay tròng mắt.
+
+
+== Kỹ thuật ==
+
+
+=== Truyền thống ===
+Một số thuật toán nhận dạng khuôn mặt xác định các đặc điểm khuôn mặt bằng cách trích xuất các ranh giới, hoặc đặc điểm, từ một hình ảnh khuôn mặt của đối tượng. Ví dụ, một thuật toán có thể phân tích các vị trí tương đối, kích thước, và/hoặc hình dạng của mắt, mũi, gò má, và cằm. Những tính năng này sau đó được sử dụng để tìm kiếm các hình ảnh khác với các tính năng phù hợp. Các thuật toán bình thường hóa một bộ sưu tập các hình ảnh khuôn mặt và sau đó nén dữ liệu khuôn mặt, chỉ lưu dữ liệu hình ảnh nào là hữu ích cho việc nhận dạng khuôn mặt. Một hình ảnh mẫu sau đó được so sánh với các dữ liệu khuôn mặt. Một trong những hệ thống thành công sớm nhất dựa trên các kỹ thuật phù hợp với mẫu áp dụng cho một tập hợp các đặc điểm khuôn mặt nổi bật, cung cấp một dạng đại diện của khuôn mặt được nén.
+Các thuật toán nhận dạng có thể được chia thành hai hướng chính, là hình học, đó là nhìn vào tính năng phân biệt, hoặc trắc quang (đo sáng), là sử dụng phương pháp thống kê để 'chưng cất' một hình ảnh thành những giá trị và so sánh các giá trị với các mẫu để loại bỏ chênh lệch.
+Các thuật toán nhận dạng phổ biến bao gồm Principal Component Analysis (Phép phân tích thành phần chính) sử dụng các khuôn mặt riêng, Linear Discriminate Analysis (Phân tích biệt tuyến tính), Elastic Bunch Graph Matching sử dụng thuật toán Fisherface, các mô hình Markov ẩn, Multilinear Subspace Learning (Luyện nhớ không gian con đa tuyến) sử dụng đại diện cơ căng, và theo dõi liên kết động thần kinh.
+
+
+=== Nhận dạng 3-chiều ===
+Một xu hướng mới nổi lên, tuyên bố cải thiện được độ chính xác, là nhận dạng khuôn mặt ba chiều. Kỹ thuật này sử dụng các cảm biến 3D để nắm bắt thông tin về hình dạng của khuôn mặt. Thông tin này sau đó được sử dụng để xác định các tính năng đặc biệt trên bề mặt của một khuôn mặt, chẳng hạn như các đường viền của hốc mắt, mũi và cằm.
+Một lợi thế của nhận dạng khuôn mặt 3D là nó không bị ảnh hưởng bởi những thay đổi trong ánh sáng như các kỹ thuật khác. Nó cũng có thể xác định một khuôn mặt từ một loạt các góc nhìn, trong đó có góc nhìn nghiêng. Các điểm dữ liệu ba chiều từ một khuôn mặt cải thiện lớn độ chính xác cho nhận dạng khuôn mặt. Nghiên cứu 3D được tăng cường bởi sự phát triển của các bộ cảm biến tinh vi giúp nắm bắt hình ảnh chụp khuôn mặt 3D được tốt hơn. Các cảm biến hoạt động bằng cách chiếu ánh sáng có cấu trúc lên gương mặt. Hàng chục hoặc nhiều hơn nữa các bộ cảm biến hình ảnh này có thể được đặt lên trên cùng một con chip CMOS-mỗi cảm biến sẽ thu một phần khác nhau của hình ảnh.
+Ngay cả một kỹ thuật 3D hoàn hảo cũng có thể gặp khó khăn bởi các sắc thái biểu cảm trên gương mặt. Để đạt được mục tiêu đó một nhóm tại Technion (viện công nghệ Israel tại Haifa) đã áp dụng các công cụ từ hình học metric để giải quyết các biểu lộ cảm xúc như phép đẳng cự Một công ty có tên Vision Access tạo ra một giải pháp vững chắc cho nhận dạng khuôn mặt 3D. Công ty này sau đó đã được mua lại bởi công ty truy cập sinh trắc học Bioscrypt Inc. Công ty đã phát triển một phiên bản được gọi là 3D FastPass.
+
+
+=== Phân tích kết cấu da ===
+Một xu hướng mới nổi sử dụng các chi tiết hình ảnh của da, được chụp trong các hình ảnh kỹ thuật số hoặc máy scan tiêu chuẩn. Kỹ thuật này được gọi là phân tích kết cấu da, đưa các đường đặc trưng, hình dạng, và các điểm nốt trên làn da của một người vào một không gian toán học.
+Các thử nghiệm đã chỉ ra rằng với việc bổ sung các phân tích cấu trúc của da, hiệu quả trong việc nhận ra khuôn mặt có thể tăng 20-25 phần trăm.
+
+
+== Phần mềm ==
+Phần mềm với khả năng nhận dạng khuôn mặt nổi bật bao gồm:
+digiKam (KDE)
+iPhoto (Apple)
+OpenCV (Open Source)
+Photoshop Elements (Adobe Systems)
+Picasa (của Google)
+Picture Motion Browser (Sony)
+Windows Live Photo Gallery (Microsoft)
+
+
+== Người dùng và các triển khai nổi bật ==
+Khu Newham của Luân Đôn, ở Anh, trước đây đã thử nghiệm một hệ thống nhận dạng khuôn mặt được xây dựng thành hệ thống camera quan sát cả khu phố.
+Cảnh sát Liên bang Đức sử dụng một hệ thống nhận dạng khuôn mặt để cho phép các khách hàng tình nguyện vượt qua các điểm kiểm soát biên giới hoàn toàn tự động tại sân bay quốc tế Frankfurt Rhein-Main. Khách hàng phải là công dân của Liên minh châu Âu, hoặc công dân Thụy Sĩ. Kể từ năm 2005, Văn phòng Cảnh sát hình sự Liên bang Đức cung cấp nhận dạng khuôn mặt tập trung đối với hình thẻ cho tất cả các cơ quan cảnh sát Đức.
+Hệ thống nhận dạng cũng được sử dụng bởi các casino để bắt những kẻ gian lận hoặc những cá nhân nằm trong danh sách đen khác.
+Dịch vụ Hải quan Úc và New Zealand có một hệ thống xử lý biên giới tự động gọi SmartGate sử dụng nhận dạng khuôn mặt. Hệ thống so sánh gương mặt của cá nhân với các hình ảnh trong các microchip hộ chiếu điện tử, xác nhận rằng người giữ hộ chiếu là chủ sở hữu hợp pháp.
+Mạng Tư pháp Pennsylvania tìm kiếm hình ảnh hiện trường vụ án và cảnh quay camera quan sát trong cơ sở dữ liệu hình thẻ của đối tượng bắt giữ trước đó. Hàng loạt các tình huống nhạy cảm đã được giải quyết kể từ khi hệ thống đi vào hoạt động vào năm 2005. Các cơ quan thực thi pháp luật khác ở Hoa Kỳ, bao gồm toà án Los Angeles, sử dụng cơ sở dữ liệu hình thẻ vào công việc điều tra pháp y của họ. Tính đến năm 2013, không có cơ sở dữ liệu thống nhất toàn quốc về hình ảnh khuôn mặt nào được lập cụ thể, nhưng có một số nỗ lực để tạo ra một hệ thống như vậy.
+Bộ Ngoại giao Hoa Kỳ điều hành một trong các hệ thống nhận dạng khuôn mặt lớn nhất trên thế giới với hơn 75 triệu bức ảnh được chủ động sử dụng để xử lý visa.
+Sân bay Quốc tế Tocumen ở Panama điều hành một hệ thống giám sát toàn sân bay sử dụng hàng trăm camera nhận dạng khuôn mặt trực tiếp để xác định các cá nhân đi qua sân bay.
+
+
+=== Tác dụng khác ===
+Ngoài việc được sử dụng cho các hệ thống an ninh, nhà chức trách đã tìm thấy một số ứng dụng khác cho các hệ thống nhận dạng khuôn mặt. Trong khi triển khai sau sự kiện 11 tháng 9 trước đó cũng đã được công bố thử nghiệm, triển khai gần đây hơn hiếm khi được biết do tính chất bí mật của chúng.
+Tại Super Bowl XXXV trong tháng 1 năm 2001, cảnh sát ở Vịnh Tampa, Florida đã sử dụng phần mềm nhận dạng khuôn mặt Viisage để tìm kiếm tên tội phạm và khủng bố tiềm năng có mặt tại sự kiện này. 19 người có hồ sơ tội phạm vị thành niên đã có khả năng xác định.
+Trong cuộc bầu cử tổng thống năm 2000, chính phủ Mexico sử dụng phần mềm nhận dạng khuôn mặt để ngăn chặn gian lận bầu cử. Một số cá nhân đã đăng ký bầu cử dưới nhiều tên khác nhau, trong một nỗ lực để đặt được nhiều phiếu. Bằng cách so sánh hình ảnh gương mặt mới cho những người đã có trong cơ sở dữ liệu của cử tri, chính quyền đã có thể giảm các cử tri trùng lặp. Công nghệ tương tự đang được sử dụng ở Hoa Kỳ để ngăn chặn những người lấy thẻ căn cước giả và giấy phép lái xe.
+Ngoài ra còn có một số ứng dụng tiềm năng của nhận dạng khuôn mặt hiện đang được phát triển. Ví dụ, công nghệ này có thể được sử dụng như một biện pháp an ninh tại các máy ATM. Thay vì sử dụng một thẻ ngân hàng hoặc số nhận dạng cá nhân, máy ATM sẽ chụp một hình ảnh của khuôn mặt của khách hàng, và so sánh nó với các bức ảnh của chủ tài khoản ngân hàng trong cơ sở dữ liệu để xác nhận danh tính của khách hàng.
+Hệ thống nhận dạng khuôn mặt được sử dụng để mở khóa các phần mềm trên các thiết bị di động. Một ứng dụng trên Android Marketplace được phát triển một cách độc lập gọi là Visidon AppLock dùng điện thoại tích hợp máy ảnh để chụp ảnh của người dùng. Nhận dạng khuôn mặt được sử dụng để đảm bảo chỉ có người này mới có thể sử dụng ứng dụng nào đó mà họ chọn để đảm bảo bí mật.
+Nhận diện khuôn mặt và nhận dạng khuôn mặt được tích hợp vào các ứng dụng iPhoto cho Macintosh, để giúp người dùng tổ chức và chú thích các bộ sưu tập của họ.
+Ngoài ra, thêm vào tính năng sinh trắc học, các máy ảnh kỹ thuật số hiện đại thường kết hợp một hệ thống phát hiện khuôn mặt, cho phép máy ảnh tập trung và đo lường độ phơi sáng trên khuôn mặt của đối tượng, do đó đảm bảo lấy được rõ nét bức chân dung của người được chụp. Một số máy ảnh, còn tích hợp tính năng phát hiện nụ cười, hay tự động chụp một bức ảnh thứ hai, nếu một người nào đó nhắm mắt trong thời gian chụp.
+Do hạn chế của một số của hệ thống nhận dạng vân tay, hệ thống nhận dạng khuôn mặt được sử dụng như là một cách khác để chấm công người lao động tại nơi làm việc trong các giờ quy định.
+Một ứng dụng khác có thể là một thiết bị cầm tay để hỗ trợ những người bị chứng mất khả năng nhận diện khuôn mặt trong việc nhận ra người quen của họ.
+
+
+== Ưu điểm và nhược điểm ==
+
+
+=== So với các công nghệ khác ===
+Trong số các kỹ thuật sinh trắc học, nhận dạng khuôn mặt có thể không đáng tin cậy và hiệu quả nhất. [49] Tuy nhiên, một trong những lợi thế quan trọng là nó không đòi hỏi sự hợp tác của các đối tượng thử nghiệm. Các hệ thống thiết kế được lắp đặt tại các sân bay, khu chung cư, và những nơi công cộng khác có thể xác định các cá nhân giữa đám đông, mà không bỏ sót một ai. Sinh trắc học khác như dấu vân tay, quét mống mắt, và nhận dạng giọng nói không thể thực hiện được như vậy. Tuy nhiên, câu hỏi đã được đặt ra về hiệu quả của phần mềm nhận dạng khuôn mặt trong trường hợp của an ninh đường sắt và sân bay.
+
+
+=== Nhược điểm ===
+Nhận dạng khuôn mặt không phải là hoàn hảo và khó khăn để thực hiện trong các điều kiện nhất định. Ralph Gross, một nhà nghiên cứu tại Viện Mellon Robotics Carnegie, mô tả một trở ngại liên quan đến các góc nhìn của khuôn mặt: "Nhận dạng khuôn mặt đã thực hiện được khá tốt ở phía mặt trước và phía chênh lệch 20 độ, nhưng ngay sau khi bạn đi về phía góc khuất, thì nó có vấn đề."
+Các điều kiện khác mà nhận dạng khuôn mặt không làm việc tốt bao gồm thiếu ánh sáng, đeo kính mát, tóc dài, hoặc các đối tượng khác mà một phần khuôn mặt bị che, và các hình ảnh độ phân giải thấp.
+Một bất lợi nghiêm trọng là nhiều hệ thống sẽ kém hiệu quả nếu biểu hiện khuôn mặt khác nhau. Ngay cả một nụ cười lớn, cũng có thể làm cho hệ thống giảm tính hiệu quả. Ví dụ: Canada hiện nay cho phép biểu lộ nét mặt trung tính trong ảnh chụp hộ chiếu.
+Ngoài ra còn có sự không thống nhất trong các dữ liệu được sử dụng bởi các nhà nghiên cứu. Các nhà nghiên cứu có thể sử dụng bất cứ nơi nào từ nhiều đối tượng khác nhau cho đến điểm số của các đối tượng, và một vài trăm bức hình cho tới hàng ngàn bức hình. Điều quan trọng là các nhà nghiên cứu cho phép những bộ dữ liệu mà họ sử dụng cũng có thể được sử dụng bởi người khác, hoặc có ít nhất một bộ dữ liệu chuẩn.
+Ngày 18/1/2013 các nhà nghiên cứu Nhật Bản đã tạo ra một tấm che mặt riêng tư sử dụng ánh sáng gần dãi hồng ngoại làm cho bộ mặt bên dưới không thể nhận ra bởi phần mềm nhận dạng khuôn mặt.
+
+
+=== Hiệu quả ===
+Các nhà phê bình của công nghệ này phàn nàn rằng, kế hoạch Khu phố London của Newham chưa bao giờ nhận dạng được một tội phạm đơn lẻ, mặc dù nhiều tên tội phạm trong cơ sở dữ liệu của hệ thống sống ở Borough và hệ thống đã làm việc trong nhiều năm. "Không phải một lần, theo như cảnh sát biết, đã hệ thống nhận diện khuôn mặt tự động Newham đã phát hiện ra một mục tiêu sống." Thông tin này dường như mâu thuẫn với tuyên bố rằng hệ thống đã được ghi nhận với việc giảm 34% tội phạm (do vậy tại sao nó đã được tung ra để Birmingham cũng có). Tuy nhiên nó có thể được giải thích bởi quan điểm rằng khi công chúng thường xuyên được nghe kể rằng họ đang bị theo dõi bởi công nghệ nhận dạng khuôn mặt tiên tiến, sự sợ hãi này riêng nó cũng có thể làm giảm tỷ lệ tội phạm, cho dù các hệ thống nhận dạng khuôn mặt kỹ có làm việc về mặt kỹ thuật hay không. Điều này đã là cơ sở cho việc đưa vào nhiều hệ thống bảo mật nhận dạng khuôn mặt khác, nơi mà bản thân công nghệ không làm việc đặc biệt tốt nhưng nhận thức của người sử dụng về công nghệ lại đóng vai trò then chốt.
+Một thí nghiệm vào năm 2002 bởi sở cảnh sát địa phương ở Tampa, Florida, đã có kết quả đáng thất vọng tương tự.
+Một hệ thống tại sân bay Logan ở Boston đã bị đóng cửa vào năm 2003 sau khi không thực hiện được bất kỳ phát hiện nào trong suốt thời gian thử nghiệm hai năm.
+
+
+=== Vấn đề về tính riêng tư ===
+Các tổ chức quyền công dân, và các nhà vận động quyền riêng tư như EFF (Electronic Frontier Foundation) và ACLU (American Civil Liberties Union) bày tỏ lo ngại rằng sự riêng tư đang được tổn hại bằng cách sử dụng các công nghệ giám sát. Một số người sợ rằng nó có thể dẫn đến một "xã hội giám sát toàn diện," với chính phủ và các cơ quan khác có khả năng biết nơi ở và hoạt động của tất cả các công dân suốt ngày đêm. Những kiến ​​thức này đã được, đang được, và có thể tiếp tục được triển khai để ngăn chặn các sự xâm phạm quyền công dân của các chính sách nhà nước hoặc từ các công ty, tập đoàn. Nhiều cơ cấu quyền lực tập trung với khả năng giám sát đã lạm dụng đặc quyền truy cập của họ để duy trì sự kiểm soát của bộ máy chính trị và kinh tế, và để ngăn chặn những cải cách dân túy.
+Nhận dạng khuôn mặt có thể được sử dụng không chỉ để xác định một cá nhân, mà còn để tìm ra dữ liệu cá nhân khác liên quan đến một cá nhân - ví dụ như hình ảnh có tính cá nhân, blog bài viết, hồ sơ mạng xã hội, hành vi trên mạng, đi lại vv - tất cả thông qua đặc điểm khuôn mặt của họ. Hơn nữa, các cá nhân có khả năng hạn chế để tránh hoặc ngăn chặn việc theo dõi nhận dạng khuôn mặt, trừ khi họ che giấu khuôn mặt của mình. Điều này về cơ bản là thay đổi động lực của sự riêng tư hàng ngày bằng cách cho phép bất kỳ nhà tiếp thị, cơ quan chính phủ, hay người lạ ngẫu nhiên thu thập bí mật danh tính và thông tin cá nhân liên quan bất kỳ của cá nhân nào bởi các hệ thống nhận dạng khuôn mặt.
+Phương tiện truyền thông các trang web xã hội như Facebook có số lượng rất lớn các bức ảnh của người dân, chú thích bằng tên. Điều này đại diện cho một cơ sở dữ liệu mà có thể được sử dụng (hoặc bị lạm dụng) bởi các chính phủ cho các mục đích nhận dạng khuôn mặt.
+Trong tháng 7 năm 2012, một cuộc điều trần được tổ chức trước Tiểu ban về Riêng tư, Công nghệ và Luật của Ủy ban Tư pháp, Thượng viện Hoa Kỳ, để giải quyết các vấn đề xung quanh những công nghệ nhận dạng khuôn mặt để bảo vệ cho sự riêng tư và tự do dân sự.
+
+
+== Lịch sử ==
+Những người tiên phong trong tự động nhận dạng khuôn mặt bao gồm Woody Bledsoe, Helen Chan Wolf, và Charles Bisson.
+Trong năm 1964 và 1965, Bledsoe, cùng với Helen Chan và Charles Bisson, bắt đầu ý tưởng sử dụng máy tính để nhận ra khuôn mặt của con người (Bledsoe 1966a, 1966b; Bledsoe và Chan 1965). Ông rất tự hào về công việc này, nhưng do kinh phí được cung cấp bởi một cơ quan tình báo giấu tên mà không cho phép công khai, rất ít tác phẩm đã được xuất bản. Với một cơ sở dữ liệu lớn các hình ảnh (thực tế là một cuốn sách ảnh thẻ) và một bức ảnh, vấn đề là phải lựa chọn từ cơ sở dữ liệu là một tập hợp nhỏ các hồ sơ hình ảnh như vậy có chứa các hình ảnh ăn khớp với bức ảnh đưa ra. Sự thành công của phương pháp này có thể được đo bằng tỷ lệ danh sách câu trả lời trên số lượng các hồ sơ trong cơ sở dữ liệu. Bledsoe (1966a) đã mô tả những khó khăn sau đây:
+Dự án này đã được dán nhãn "man-machine" bởi vì con người trích xuất tọa độ của một tập hợp các đặc điểm từ các hình ảnh, sau đó được máy tính sử dụng để nhận dạng. Sử dụng một graphic tablet (GRAFACON hoặc RAND TABLET), các toán tử sẽ trích xuất các tọa độ của các đặc điểm như tâm của con ngươi, các góc bên trong mắt, góc ngoài của mắt, điểm widows peak và... Từ những tọa độ này, một danh sách 20 khoảng cách, như chiều rộng của miệng và khoảng cách giữa 2 mắt, từ con ngươi đến con ngươi sẽ được tính toán. Các toán tử có thể xử lý khoảng 40 hình ảnh một giờ. Khi xây dựng các cơ sở dữ liệu, tên của người trong bức ảnh đã được gắn liền với danh sách của các khoảng cách tính toán và được lưu trữ trong máy tính. Trong giai đoạn nhận dạng, tập hợp các khoảng cách được so sánh với khoảng cách tương ứng cho mỗi bức ảnh, cho ra một khoảng cách giữa các bức ảnh và các bản ghi cơ sở dữ liệu. Các hồ sơ gần nhất được trả về.
+Bởi vì không chắc rằng bất kỳ hai hình ảnh sẽ khớp nhau khi xoay đầu, nghiêng hoặc cúi đầu, và tỉ lệ (khoảng cách tới máy ảnh), mỗi bộ khoảng cách được chuẩn hóa để đại diện cho khuôn mặt theo hướng nhìn từ phía trước. Để thực việc chuẩn hóa này, chương trình đầu tiên cố gắng để xác định độ nghiêng, xoay đầu, và cúi đầu. Sau đó, sử dụng các góc độ này, máy tính sẽ xóa những biến dạng này trên các khoảng cách tính toán. Để tính toán các góc, các máy tính phải biết được dạng hình học ba chiều của đầu. Vì đầu thực tế là không có sẵn, Bledsoe (1964) sử dụng một đầu tiêu chuẩn từ việc đo đạc trên bảy đầu.
+Sau đó Bledsoe rời PRI vào năm 1966, công việc này được tiếp tục tại Viện nghiên cứu Stanford, chủ yếu bởi Peter Hart. Trong các thí nghiệm thực hiện trên một cơ sở dữ liệu hơn 2.000 bức ảnh, máy tính luôn vượt trội so với con người khi thể hiện cùng một nhiệm vụ nhận dạng (Bledsoe 1968). Peter Hart (1996) phấn khởi nhớ lại dự án với giọng xúc động, "Nó thực sự làm việc!"
+Đến khoảng năm 1997, hệ thống được phát triển bởi Christoph von der Malsburg và các sinh viên sau đại học của trường Đại học Bochum ở Đức và Đại học Nam California tại Mỹ đã thể hiện vượt trội so với hầu hết các hệ thống của Viện Công nghệ Massachusetts và Đại học Maryland xếp hạng theo sau. Hệ thống Bochum được phát triển thông qua tài trợ bởi Phòng Thí Nghiệm Nghiên cứu Quân đội Hoa Kỳ. Phần mềm này được bán với cái tên ZN-Face và sử dụng bởi các khách hàng như Deutsche Bank và các nhà điều hành sân bay và các địa điểm đông đúc khác. Phần mềm này "đủ mạnh mẽ để nhận dạng được gương mặt từ các góc nhìn ít lý tưởng hơn. Nó cũng thường xuyên có thể nhận dạng được gương mặt mặc dù có những trở ngại như ria mép, râu, thay đổi kiểu tóc và thậm chí đeo kính râm".
+Trong khoảng tháng 1 năm 2007, tìm kiếm hình ảnh đã là "dựa trên ký tự xung quanh bức ảnh", ví dụ, đoạn văn kế bên đề cập đến các nội dung hình ảnh. Công nghệ Polar Rose có thể đoán từ một bức ảnh, trong khoảng 1,5 giây, bất kỳ người nào sẽ trông như thế nào trong không gian ba chiều, và khẳng định rằng họ "sẽ yêu cầu người dùng nhập tên của những người mà họ nhận ra trong ảnh online" để giúp xây dựng một cơ sở dữ liệu. Identix, một công ty từ Minnesota, đã phát triển một phần mềm là FaceIt. FaceIt có thể nhận ra khuôn mặt của một ai đó trong đám đông và so sánh nó với cơ sở dữ liệu trên toàn thế giới để nhận dạng và đặt tên cho một khuôn mặt. Phần mềm được viết để phát hiện nhiều đặc điểm trên khuôn mặt người. Nó có thể phát hiện khoảng cách giữa hai mắt, chiều rộng của mũi, hình dạng của xương gò má, độ dài của đường viền của hàm dưới và nhiều đặc điểm khác trên khuôn mặt. Nó thực hiện điều này bằng cách đưa hình ảnh của khuôn mặt vào một faceprint, một mã số đại diện cho gương mặt của con người. Phần mềm nhận dạng khuôn mặt trước kia thường phải dựa trên một hình ảnh 2D với người cần nhận dạng gần như phải trực tiếp đối mặt với máy ảnh. Bây giờ, với FaceIt, một hình ảnh 3D có thể được so sánh với một hình ảnh 2D bằng cách chọn 3 điểm cụ thể trên tấm hình 3D và chuyển đổi nó thành một hình ảnh 2D sử dụng một thuật toán đặc biệt có thể được quét qua hầu như tất cả các cơ sở dữ liệu.  
+Năm 2006, các thuật toán nhận dạng khuôn mặt mới nhất đã được đánh giá trong Face Recognition Grand Challenge (FRGC). Hình ảnh gương mặt, hình ảnh scan gương mặt 3D và ảnh iris độ phân giải cao, được sử dụng trong các bài kiểm tra. Kết quả cho thấy rằng các thuật toán mới là chính xác hơn 10 lần so với các thuật toán nhận dạng khuôn mặt của năm 2002 và chính xác hơn 100 lần so với các thuật toán của năm 1995. Một số thuật toán đã có thể nhận dạng tốt hơn người tham gia trong việc nhận diện khuôn mặt và duy nhất có thể xác định từng người trong các cặp song sinh giống hệt nhau. 
+Các đánh giá và các vấn đề thách thức do Chính phủ Hoa Kỳ tài trợ đã giúp thúc đẩy 2 vấn đề hiệu năng và "cấp phóng đại" trong các hệ thống nhận dạng khuôn mặt. Từ năm 1993, tỷ lệ lỗi của hệ thống nhận diện khuôn mặt tự động đã giảm bởi một yếu tố của 272. Việc giảm áp dụng cho các hệ thống phù hợp với những người có hình thẻ được chụp trong studio hay những nơi chụp hình thẻ. Định luật Moore, nói rằng tỷ lệ lỗi giảm một nửa mỗi hai năm một lần.
+Hình ảnh độ phân giải thấp của khuôn mặt có thể được tăng cường bằng cách sử dụng khuôn mặt ảo giác. Các cải tiến cao hơn trong hình có độ phân giải cao, máy ảnh megapixel trong vài năm gần đây đã giúp giải quyết vấn đề thiếu độ phân giải.
+
+
+== Xem thêm ==
+Ứng dụng của AI
+Các ứng dụng của trí tuệ nhân tạo
+Nhận dạng biển số tự động
+Công nghệ sinh trắc học trong kiểm soát truy cập
+Coke Zero Facial Profiler
+Thị giác máy tính
+Eigenface
+Phát hiện khuôn mặt
+Nhận diện khuôn mặt
+Thử nghiệm so sánh gương mặt Glasgow
+Nhận dạng Iris
+MALINTENT
+Giám sát hàng loạt
+Trích xuất thông tin từ Multimedia
+Nghiên cứu không gian con đa tuyến
+Nhận dạng mẫu, suy diễnvà lý luận
+Quét võng mạc
+So sánh mẫu
+Nhận dạng khuôn mặt ba chiều
+So sánh mạch máu
+Xử lý máy tính của ngôn ngữ cơ thể
+
+
+== Tham khảo ==
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==

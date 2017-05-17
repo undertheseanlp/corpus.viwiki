@@ -1,0 +1,18 @@
+Ghostscript là một thư viện phần mềm để thao tác với các file Postscript và PDF.
+Bản quyền của Ghostscript thuộc về Artiflex Software Inc., tuy vậy vẫn có GPL Ghostscript là phần mềm tự do phát hành với giấy phép GPL của GNU.
+Ngoài ra còn có AFPL Ghostscript phát hành dưới giấy phép AFPL (hạn chế hơn giấy phép GPL).
+
+
+== Thành phần ==
+Ghostscript bao gồm:
+Một trình thông dịch ngôn ngữ Postscript và định dạng PDF
+Một bộ thư viện viết bằng ngôn ngữ C thực hiện các nhiệm vụ cơ bản (hiển thị, nén/giải nén,...) của các định dạng PS và PDF.
+Các thủ tục chuyển đổi qua lại giữa PS và PDF.
+
+
+== GSview ==
+
+GSview là giao diện của Ghostscript, thường được dùng như phần mềm xem file PS và PDF trong môi trường Windows. Phiên bản hiện hành của GSview (tính đến 18 tháng 11 năm 2007) là 4.9. Ta cần cài đặt Ghostscript trước GSview.
+
+
+== Chú thích ==

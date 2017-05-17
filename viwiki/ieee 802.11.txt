@@ -1,0 +1,47 @@
+IEEE 802.11 là một tập các chuẩn của tổ chức IEEE (tiếng Anh: Institute of Electrical and Electronic Engineers) bao gồm các đặc tả kỹ thuật liên quan đến hệ thống mạng không dây. Chuẩn IEEE 802.11 mô tả một giao tiếp "truyền qua không khí" (tiếng Anh: over-the-air) sử dụng sóng vô tuyến để truyền nhận tín hiệu giữa một thiết bị không dây và tổng đài hoặc điểm truy cập (tiếng Anh: access point), hoặc giữa 2 hay nhiều thiết bị không dây với nhau (mô hình ad-hoc).
+
+
+== Lịch sử ==
+Năm 1985, Ủy ban Liên lạc Liên bang Mỹ FCC (tiếng Anh: Federal Communications Commission) quyết định "mở cửa" một số băng tần của giải sóng không dây, cho phép sử dụng chúng mà không cần giấy phép của chính phủ.
+Các giải sóng này, gọi là các "băng tần rác" (900 MHz, 2.4 GHz, 5.8 GHz), được phân bổ cho các thiết bị sử dụng vào các mục đích ngoài liên lạc, chẳng hạn như lò vi sóng sử dụng các sóng vô tuyến để đun nóng thức ăn. FCC đã đưa các băng tần này vào phục vụ mục đích liên lạc dựa trên cơ sở: bất cứ thiết bị nào sử dụng những dải sóng đó đều phải đi vòng để tránh ảnh hưởng của việc truy cập từ các thiết bị khác. Điều này được thực hiện bằng công nghệ gọi là phổ rộng (vốn được phát triển cho quân đội Mỹ sử dụng), có khả năng phát tín hiệu vô tuyến qua một vùng nhiều tần số, khác với phương pháp truyền thống là truyền trên một tần số đơn lẻ được xác định rõ.
+Trước đó, các nhà cung cấp thiết bị không dây dùng cho mạng cục bộ LAN (tiếng Anh: Local Area Network) như Proxim và Symbol ở Mỹ đều phát triển những thiết sản phẩm độc quyền, tức là thiết bị của hãng này không thể giao tiếp được với của hãng khác. Nhờ sự thành công của mạng hữu tuyến Ethernet, một số công ty bắt đầu nhận ra rằng việc xác lập một chuẩn không dây chung là rất quan trọng. Vì người tiêu dùng khi đó sẽ dễ dàng chấp nhận công nghệ mới nếu họ không còn bị bó hẹp trong sản phẩm và dịch vụ của một hãng cụ thể.
+Năm 1988, công ty NCR, vì muốn sử dụng dải tần "rác" để liên thông các máy rút tiền qua kết nối không dây, đã yêu cầu một kỹ sư của họ có tên Victor Hayes tìm hiểu việc thiết lập chuẩn chung. Ông này cùng với chuyên gia Bruce Tuch của Trung tâm nghiên cứu Bell Labs đã tiếp cận với Tổ chức IEEE, nơi mà một tiểu ban có tên 802.3 đã xác lập ra chuẩn mạng cục bộ Ethernet phổ biến hiện nay. Một tiểu ban mới có tên 802.11 đã ra đời và quá trình thương lượng hợp nhất các chuẩn bắt đầu.
+Năm 1997, tiểu ban này đã phê chuẩn một bộ tiêu chí cơ bản, cho phép mức truyền dữ liệu 2Mbps, sử dụng một trong 2 công nghệ dải tần rộng là frequency hopping (tránh nhiễu bằng cách chuyển đổi liên tục giữa các tần số radio) hoặc direct-sequence transmission (phát tín hiệu trên một dải gồm nhiều tần số).
+Chuẩn mới chính thức được ban hành năm 1997 và các kỹ sư ngay lập tức bắt đầu nghiên cứu một thiết bị mẫu tương thích với nó. Sau đó có 2 phiên bản chuẩn, 802.11b (hoạt động trên băng tần 2,4 GHz) và 802.11a (hoạt động trên băng tần 5,8 GHz), lần lượt được phê duyệt tháng 12 năm 1999 và tháng 1 năm 2000. Sau khi có chuẩn 802.11b, các công ty bắt đầu phát triển những thiết bị tương thích với nó. Tuy nhiên, bộ tiêu chí này quá dài và phức tạp với 400 trang tài liệu và chuyện tương thích vẫn còn là vấn đề. Vì thế, vào tháng 8 năm 1999, có 6 công ty bao gồm Intersil, 3Com, Nokia, Aironet (về sau được Cisco sáp nhập), Symbol và Lucent liên kết với nhau để tạo ra Liên minh tương thích Ethernet không dây WECA (tếng Anh: Wireless Ethernet Compatibility Alliance). Mục tiêu của tổ chức này là xác nhận thiết bị không dây của những nhà cung cấp phải tương thích thực sự với nhau, đơn giản hóa những tiêu chí của IEEE 802.
+
+
+== Kiến trúc ==
+Chuẩn 802.11 cũng như các chuẩn khác trong họ IEEE 802, nó tập trung vào 2 tầng thấp nhất trong mô hình OSI – là tầng vật lý (tiếng Anh: physical) và tầng liên kết dữ liệu (tiếng Anh: datalink). Do đó, tất cả hệ thống mạng theo chuẩn 802 đều có 2 thành phần chính là MAC (Media Access Control) và PHY (Physical). MAC là một tập hợp các luật định nghĩa việc truy xuất và gửi dữ liệu, còn chi tiết của việc truyền dẫn và thu nhận dữ liệu là nhiệm vụ của PHY.
+
+
+=== Tầng MAC ===
+Mạng wireless cho phép người truy cập mạng di động – và tầng MAC là nơi hiện thực tính năng này. Do đó, khác với đặc tả của chuẩn IEEE 802 về tầng MAC của các mạng có dây truyền thống – tầng MAC của chuẩn 802.11 sẽ có thêm nhiều tính năng phức tạp hơn nhiều.
+
+
+=== Tầng PHY ===
+Do tính đặc thù của mạng không dây là tầng PHY dựa trên sóng vô tuyến nên trong tầng PHY sẽ có nhiều vấn đề và kỹ thuật hiện thực khác hơn nhiều so với mạng có dây.
+
+
+== Các thiết bị dùng trong mạng không dây ==
+
+
+=== Access Point ===
+Access Point (điểm truy cập) cung cấp 1 ngõ truy cập cho client khi muốn kết nối vào WLAN. Đây là 1 thiết bị thuộc dạng bán song công (tiếng Anh: half-duplex), hoạt động tương đương như một Switch Ethernet thông minh.
+
+
+=== Wireless Bridge ===
+Wireless bridge (birdge không dây) cung cấp 1 kết nối giữa 2 segment LAN có dây, và nó được sử dụng cả trong mô hình điểm-điểm lẫn điểm-đa điểm. Nó là một thiết bị hoạt động ở tầng 2 theo kiểu half-duplex.
+
+
+=== Ăngten ===
+
+Ăngten (antenna) là một thiết bị dùng để chuyển đổi tín hiệu cao tần trên đường truyền thành sóng truyền trong không khí. Dải sóng điện từ phát ra từ antenna được gọi là beam hay lobe. Có 3 loại RF antenna phổ biến là omni-directional (truyền tín hiệu theo mọi hướng), semi-directional (truyền tín hiệu theo một hướng), và highly-directional (truyền tín hiệu điểm-điểm). Mỗi loại lại có nhiều kiểu antenna khác nhau, mỗi kiểu có những tính chất và công dụng khác nhau. Các antenna có độ lợi lớn cho vùng phủ sóng rộng hơn antenna có độ lợi thấp với cùng một mức công suất.
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+Matthew S. Gast. 802.11® Wireless Networks: The Definitive Guide. O’Reilly.
+Janice Reynolds. Going Wi-Fi-A Practical Guide to Planning and Building an 802.11 Network. CMP Books.
+cwna. Certified Wireless Network Administrator - Official Study Guide. Planet3 Wireless, Inc.

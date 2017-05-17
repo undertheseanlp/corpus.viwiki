@@ -1,0 +1,37 @@
+Ngưỡng nghèo hay mức nghèo, là mức chi dùng tối thiểu, được xác định như tổng số tiền chi cho giỏ hàng tiêu dùng trong thời hạn nhất định, bao gồm một lượng tối thiểu lương thực thực phẩm và đồ dùng cá nhân, cần thiết để bảo đảm cuộc sống và sức khỏe một người ở tuổi trưởng thành, và các khoản chi bắt buộc khác.
+Người ở ngưỡng nghèo là người có tổng thu nhập tương đương với tổng chi dùng tối thiểu đó.
+Nhiều nước trên thế giới ấn định ngưỡng nghèo thành một điều luật. Ở các nước phát triển ngưỡng nghèo cao hơn đáng kể so với các nước đang phát triển. Hầu như mọi xã hội đều có các công dân đang sống nghèo khổ.
+
+
+== Chuẩn nghèo tại Việt nam ==
+Tại Việt nam ngưỡng nghèo được đánh giá thông qua chuẩn nghèo, dựa trên các tính toán của các cơ quan chức năng như Tổng cục Thống kê hay Bộ Lao động-Thương binh và Xã hội (MOLISA).
+Chuẩn nghèo theo Tổng cục Thống kê được xác định dựa trên cách tiếp cận của Ngân hàng Thế giới (WB), gồm hai mức:
+nghèo lương thực thực phẩm: tổng chi dùng chỉ tính riêng cho phần lương thực thực phẩm, làm sao để đảm bảo lượng dinh dưỡng tối thiểu cho một người là 2100 kcal/ngày đêm;
+nghèo chung: tổng chi dùng cho cả giỏ hàng tiêu dùng tối thiểu, được xác định bằng cách ước lượng tỷ lệ: 70% chi dùng dành cho lương thực thực phẩm, 30% cho các khoản còn lại.
+Theo cách xác định trên, năm 1998 chuẩn nghèo lương thực thực phẩm của Việt nam bằng 107 234 VND/tháng; chuẩn nghèo chung bằng 149 156 VND/tháng . Năm 2006 các mức chuẩn này đã được xác định lại và bằng ? Để đánh giá chính xác ngưỡng nghèo cho các thời điểm, các mức chuẩn cần hiệu chỉnh lại theo chỉ số giá tiêu dùng.
+Chuẩn nghèo của Bộ Lao động-Thương binh và Xã hội được xác định một cách tương đối bằng cách làm tròn số và áp dụng cho từng khu vực và vùng miền khác nhau (nông thôn miền núi, hải đảo, nông thôn đồng bằng, thành thị)
+
+
+== Tỷ lệ nghèo của xã hội ==
+Ngưỡng nghèo là công cụ để đo tỷ lệ nghèo trong xã hội – một chỉ số quan trọng phản ánh mức sống của xã hội về mặt thu nhập cá nhân. Tỷ lệ nghèo là tỷ lệ số hộ có thu nhập dưới hoặc bằng chuẩn nghèo đối với toàn bộ số hộ trong quốc gia.
+Các cải cách kinh tế-xã hội như phúc lợi xã hội và bảo hiểm thất nghiệp được tiến hành dựa trên những phản ánh của các chỉ số như ngưỡng nghèo và tỷ lệ nghèo.
+
+
+== Các yếu tố của ngưỡng nghèo ==
+Việc xác định ngưỡng nghèo thường được thực hiện bằng cách tìm ra tổng chi phí cho tất cả các sản phẩm thiết yếu mà một người lớn trung bình tiêu thụ trong một năm. Phương pháp tiếp cận này dựa trên cơ sở rằng cần một mức chi tiêu tối thiểu để đảm bảo duy trì cuộc sống. Đây đã là cơ sở ban đầu của ngưỡng nghèo ở Hoa Kỳ, mức chuẩn này đã được nâng lên theo lạm phát. Trong các nước đang phát triển, loại chi dùng đắt nhất trong các khoản là trả cho thuê nhà (giá thuê căn hộ). Do đó, các nhà kinh tế đã đặc biệt chú ý đến thị trường bất động sản và giá thuê nhà vì ảnh hưởng mạnh mẽ của chúng lên ngưỡng nghèo. Các yếu tố cá nhân thường được nghiên cứu như vị trí trong gia đình: người đó có phải là bố mẹ, người già, trẻ con, kết hôn hay không, v.v.
+
+
+== Các vấn đề trong việc sử dụng ngưỡng nghèo ==
+Sử dụng ngưỡng nghèo thường có vấn đề vì có một mức thu nhập tiệm cận trên ngưỡng này về bản chất không khác mấy so với mức thu nhập tiệm cận dưới: các hiệu ứng tiêu cực của nghèo có xu hướng liên tục hơn là rời rạc và mức thu nhập thấp tương tự tác động những người khác nhau theo những cách khác nhau. Để vượt qua được điều này, các chỉ số nghèo đói đôi khi được sử dụng thay vì ngưỡng nghèo; xem income inequality metrics.
+Một ngưỡng nghèo dựa trên phương pháp tiêu chuẩn đánh giá thu nhập định lượng, hay dựa trên số lượng thuần túy. Nếu các chỉ số phát triển con người khác như y tế và giáo dục được sử dụng thì các chỉ số này phải được định lượng, chứ không chỉ là một nhiệm vụ (kể cả đạt được) đơn giản.
+
+
+== Nghèo tuyệt đối ==
+nghèo tuyệt đối(absolute poverty) là thước đo những người dưới 1 ngưỡng nghèo nhất định, tính chung cho toàn thể nhân loại, không kể không gian hay thời gian.Nó được xác định bằng số thu nhập cho 1 cá nhân đủ khả năng đáp ứng những nhu cầu cơ bản để tồn tại, như thức ăn, nơi ở, quần áo,...Ngưỡng nghèo tuyệt đối thường dùng của WB là 1-2 USD/ngày(tính theo PPP).
+
+
+== Nghèo tương đối ==
+là tình trạng sống dưới 1 mức tiêu chuẩn sống có thể chấp nhận được tại 1 địa điểm và thời gian xác định.Như vậy, nghèo tương đối có sự khác biệt tùy theo đặc điểm kinh tế, văn hóa-xã hội, quan niệm của từng quốc gia, khu vực, vùng miền khác nhau.
+
+
+== Nguồn tham khảo ==

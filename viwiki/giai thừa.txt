@@ -1,0 +1,2054 @@
+Trong toán học, giai thừa là một toán tử một ngôi trên tập hợp các số tự nhiên. Cho n là một số tự nhiên dương, "n giai thừa", ký hiệu n! là tích của n số tự nhiên dương đầu tiên:
+
+n! = n.(n-1).(n-2)....4.3.2.1
+
+Đặc biệt, với n = 0, người ta quy ước 0! = 1. Ký hiệu n! được dùng lần đầu bởi Christian Kramp vào năm 1808.
+
+
+== Định nghĩa đệ quy ==
+Ta có thể định nghĩa đệ quy (quy nạp) n! như sau
+0! = 1
+(n + 1)! =n! × (n + 1) với n> 0
+Ví dụ: 3! = 2! x 3 = 6 (vì 2! = 1.2=2)
+
+
+== Một số tính chất của giai thừa ==
+Giai thừa có tốc độ tăng nhanh hơn hàm mũ nhưng chậm hơn hàm mũ hai tầng (abc) có cùng cơ số và mũ.
+
+  
+    
+      
+        log
+        ⁡
+        n
+        !
+        =
+        
+          ∑
+          
+            x
+            =
+            1
+          
+          
+            n
+          
+        
+        log
+        ⁡
+        x
+        .
+      
+    
+    {\displaystyle \log n!=\sum _{x=1}^{n}\log x.}
+  
+
+  
+    
+      
+        
+          ∫
+          
+            1
+          
+          
+            n
+          
+        
+        log
+        ⁡
+        x
+        
+        d
+        x
+        ≤
+        
+          ∑
+          
+            x
+            =
+            1
+          
+          
+            n
+          
+        
+        log
+        ⁡
+        x
+        ≤
+        
+          ∫
+          
+            0
+          
+          
+            n
+          
+        
+        log
+        ⁡
+        (
+        x
+        +
+        1
+        )
+        
+        d
+        x
+      
+    
+    {\displaystyle \int _{1}^{n}\log x\,dx\leq \sum _{x=1}^{n}\log x\leq \int _{0}^{n}\log(x+1)\,dx}
+  
+
+  
+    
+      
+        n
+        log
+        ⁡
+        
+          (
+          
+            
+              n
+              e
+            
+          
+          )
+        
+        +
+        1
+        ≤
+        log
+        ⁡
+        n
+        !
+        ≤
+        (
+        n
+        +
+        1
+        )
+        log
+        ⁡
+        
+          (
+          
+            
+              
+                n
+                +
+                1
+              
+              e
+            
+          
+          )
+        
+        +
+        1.
+      
+    
+    {\displaystyle n\log \left({\frac {n}{e}}\right)+1\leq \log n!\leq (n+1)\log \left({\frac {n+1}{e}}\right)+1.}
+  
+
+  
+    
+      
+        e
+        
+          
+            (
+            
+              
+                n
+                e
+              
+            
+            )
+          
+          
+            n
+          
+        
+        ≤
+        n
+        !
+        ≤
+        e
+        
+          
+            (
+            
+              
+                
+                  n
+                  +
+                  1
+                
+                e
+              
+            
+            )
+          
+          
+            n
+            +
+            1
+          
+        
+        .
+      
+    
+    {\displaystyle e\left({\frac {n}{e}}\right)^{n}\leq n!\leq e\left({\frac {n+1}{e}}\right)^{n+1}.}
+  
+
+  
+    
+      
+        n
+        !
+        ≈
+        
+          
+            2
+            π
+            n
+          
+        
+        
+          
+            (
+            
+              
+                n
+                e
+              
+            
+            )
+          
+          
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle n!\approx {\sqrt {2\pi n}}\left({\frac {n}{e}}\right)^{n}.}
+   (Công thức Stirling).
+
+  
+    
+      
+        n
+        !
+        >
+        
+          
+            2
+            π
+            n
+          
+        
+        
+          
+            (
+            
+              
+                n
+                e
+              
+            
+            )
+          
+          
+            n
+          
+        
+        .
+      
+    
+    {\displaystyle n!>{\sqrt {2\pi n}}\left({\frac {n}{e}}\right)^{n}.}
+  
+
+  
+    
+      
+        log
+        ⁡
+        n
+        !
+        ≈
+        n
+        log
+        ⁡
+        n
+        −
+        n
+        +
+        
+          
+            
+              log
+              ⁡
+              (
+              n
+              (
+              1
+              +
+              4
+              n
+              (
+              1
+              +
+              2
+              n
+              )
+              )
+              )
+            
+            6
+          
+        
+        +
+        
+          
+            
+              log
+              ⁡
+              (
+              π
+              )
+            
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle \log n!\approx n\log n-n+{\frac {\log(n(1+4n(1+2n)))}{6}}+{\frac {\log(\pi )}{2}}.}
+  
+Đây là công thức ước lượng của Srinivasa Ramanujan.
+
+
+== Các hệ thức sử dụng ký hiệu giai thừa ==
+Công thức tính số tổ hợp:
+
+  
+    
+      
+        
+          C
+          
+            n
+          
+          
+            k
+          
+        
+        =
+        
+          
+            
+              n
+              !
+            
+            
+              k
+              !
+              (
+              n
+              −
+              k
+              )
+              !
+            
+          
+        
+        (
+        0
+        <
+        k
+        ≤
+        n
+        )
+      
+    
+    {\displaystyle C_{n}^{k}={\frac {n!}{k!(n-k)!}}(0<k\leq n)}
+  
+Công thức tính số chỉnh hợp:
+
+  
+    
+      
+        
+          A
+          
+            n
+          
+          
+            k
+          
+        
+        =
+        
+          
+            
+              n
+              !
+            
+            
+              (
+              n
+              −
+              k
+              )
+              !
+            
+          
+        
+        (
+        0
+        <
+        k
+        ≤
+        n
+        )
+      
+    
+    {\displaystyle A_{n}^{k}={\frac {n!}{(n-k)!}}(0<k\leq n)}
+  
+
+
+== Mở rộng cho tập số rộng hơn ==
+Theo công thức đệ quy nói trên, thì ta có 0! = 1, còn các giai thừa của số âm không tồn tại. Như vậy giai thừa trên tập số nguyên đã giải quyết xong.
+Một vấn đề được đặt ra: phải mở rộng giai thừa cho tập số rộng hơn. Nhưng làm thế nào?
+
+
+=== Công thức Gamma ===
+Là công thức mang tên một chữ cái Hy Lạp do nhà toán học Pháp, Adrien-Marie Legendre đề ra. Hàm số này có dạng sau:
+
+  
+    
+      
+        Γ
+        (
+        z
+        )
+        =
+        
+          ∫
+          
+            0
+          
+          
+            ∞
+          
+        
+        
+          t
+          
+            z
+            −
+            1
+          
+        
+        
+          e
+          
+            −
+            t
+          
+        
+        
+        
+          
+            d
+          
+        
+        t
+      
+    
+    {\displaystyle \Gamma (z)=\int _{0}^{\infty }t^{z-1}e^{-t}\,{\rm {d}}t}
+  
+Bằng phương pháp tích phân từng phần ta có được:
+
+  
+    
+      
+        Γ
+        (
+        z
+        +
+        1
+        )
+        =
+        z
+        
+        Γ
+        (
+        z
+        )
+        
+        .
+      
+    
+    {\displaystyle \Gamma (z+1)=z\,\Gamma (z)\,.}
+  
+Khi đó ta có:
+
+  
+    
+      
+        z
+        !
+        =
+        Γ
+        (
+        z
+        +
+        1
+        )
+        .
+        
+      
+    
+    {\displaystyle z!=\Gamma (z+1).\,}
+  
+Sau này Euler và Weierstrass đã biến đổi lại thành:
+
+  
+    
+      
+        Γ
+        (
+        z
+        )
+         
+        =
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            
+              
+                n
+                
+                  z
+                
+              
+              n
+              !
+            
+            
+              
+                ∏
+                
+                  k
+                  =
+                  0
+                
+                
+                  n
+                
+              
+              (
+              n
+              +
+              k
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \Gamma (z)\ =\lim _{n\to \infty }{\frac {n^{z}n!}{\prod _{k=0}^{n}(n+k)}}}
+  
+Tính chất quan trọng nhất của nó đã được chính Euler chứng minh, đó là:
+
+  
+    
+      
+        Γ
+        (
+        z
+        )
+         
+        Γ
+        (
+        1
+        −
+        z
+        )
+         
+        =
+        
+          
+            π
+            
+              sin
+              ⁡
+              (
+              
+                π
+              
+              z
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \Gamma (z)\ \Gamma (1-z)\ ={\frac {\pi }{\sin({\pi }z)}}}
+  
+Thay z = 1/2 ta thu được:
+
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              1
+              2
+            
+          
+          )
+        
+         
+        =
+        
+          
+            π
+          
+        
+      
+    
+    {\displaystyle \Gamma \left({\frac {1}{2}}\right)\ ={\sqrt {\pi }}}
+  
+Một công thức khác cũng không kém phần quan trọng là:
+
+  
+    
+      
+        Γ
+        (
+        z
+        )
+        
+        Γ
+        
+          (
+          z
+          +
+          
+            
+              1
+              m
+            
+          
+          )
+        
+        
+        Γ
+        
+          (
+          z
+          +
+          
+            
+              2
+              m
+            
+          
+          )
+        
+        ⋯
+        Γ
+        
+          (
+          z
+          +
+          
+            
+              
+                m
+                −
+                1
+              
+              m
+            
+          
+          )
+        
+        =
+        (
+        2
+        π
+        
+          )
+          
+            (
+            m
+            −
+            1
+            )
+            
+              /
+            
+            2
+          
+        
+        
+        
+          m
+          
+            1
+            
+              /
+            
+            2
+            −
+            m
+            z
+          
+        
+        
+        Γ
+        (
+        m
+        z
+        )
+        
+        .
+      
+    
+    {\displaystyle \Gamma (z)\;\Gamma \left(z+{\frac {1}{m}}\right)\;\Gamma \left(z+{\frac {2}{m}}\right)\cdots \Gamma \left(z+{\frac {m-1}{m}}\right)=(2\pi )^{(m-1)/2}\;m^{1/2-mz}\;\Gamma (mz)\,.}
+  
+Hai công thức dưới đây là do Gauss chứng minh:
+
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              1
+              2
+            
+          
+          +
+          n
+          )
+        
+        =
+        
+          
+            
+              (
+              2
+              n
+              )
+              !
+            
+            
+              
+                4
+                
+                  n
+                
+              
+              n
+              !
+            
+          
+        
+        
+          
+            π
+          
+        
+        =
+        
+          
+            
+              (
+              2
+              n
+              −
+              1
+              )
+              !
+              !
+            
+            
+              2
+              
+                n
+              
+            
+          
+        
+        
+        
+          
+            π
+          
+        
+        =
+        
+          
+            π
+          
+        
+        ⋅
+        
+          [
+          
+            
+              
+                (
+              
+              
+                
+                  n
+                  −
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                n
+              
+              
+                )
+              
+            
+          
+          n
+          !
+          ]
+        
+      
+    
+    {\displaystyle \Gamma \left({\frac {1}{2}}+n\right)={(2n)! \over 4^{n}n!}{\sqrt {\pi }}={\frac {(2n-1)!!}{2^{n}}}\,{\sqrt {\pi }}={\sqrt {\pi }}\cdot \left[{n-{\frac {1}{2}} \choose n}n!\right]}
+  
+
+  
+    
+      
+        Γ
+        
+          (
+          
+            
+              1
+              2
+            
+          
+          −
+          n
+          )
+        
+        =
+        
+          
+            
+              (
+              −
+              4
+              
+                )
+                
+                  n
+                
+              
+              n
+              !
+            
+            
+              (
+              2
+              n
+              )
+              !
+            
+          
+        
+        
+          
+            π
+          
+        
+        =
+        
+          
+            
+              (
+              −
+              2
+              
+                )
+                
+                  n
+                
+              
+            
+            
+              (
+              2
+              n
+              −
+              1
+              )
+              !
+              !
+            
+          
+        
+        
+        
+          
+            π
+          
+        
+        =
+        
+          
+            π
+          
+        
+        
+          /
+        
+        
+          [
+          
+            
+              
+                (
+              
+              
+                
+                  −
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                n
+              
+              
+                )
+              
+            
+          
+          n
+          !
+          ]
+        
+      
+    
+    {\displaystyle \Gamma \left({\frac {1}{2}}-n\right)={(-4)^{n}n! \over (2n)!}{\sqrt {\pi }}={\frac {(-2)^{n}}{(2n-1)!!}}\,{\sqrt {\pi }}={\sqrt {\pi }}/\left[{-{\frac {1}{2}} \choose n}n!\right]}
+  
+
+
+=== Giai thừa với số thực ===
+
+Theo công thức tương ứng giữa giai thừa với công thức Gamma, các nhà toán học đã đề ra công thức Pi có dạng sau:
+
+  
+    
+      
+        z
+        !
+        =
+        Π
+        (
+        z
+        )
+        =
+        Γ
+        (
+        z
+        +
+        1
+        )
+        
+        .
+      
+    
+    {\displaystyle z!=\Pi (z)=\Gamma (z+1)\,.}
+  
+Như vậy:
+
+  
+    
+      
+        (
+        −
+        0
+        ,
+        5
+        )
+        !
+        =
+        Π
+        
+          (
+          −
+          
+            
+              1
+              2
+            
+          
+          )
+        
+        =
+        Γ
+        
+          (
+          
+            
+              1
+              2
+            
+          
+          )
+        
+        
+        .
+      
+    
+    {\displaystyle (-0,5)!=\Pi \left(-{\frac {1}{2}}\right)=\Gamma \left({\frac {1}{2}}\right)\,.}
+  
+
+  
+    
+      
+        (
+        n
+        −
+        0
+        ,
+        5
+        )
+        !
+        =
+        Π
+        
+          (
+          n
+          −
+          
+            
+              1
+              2
+            
+          
+          )
+        
+        =
+        Γ
+        
+          (
+          n
+          +
+          
+            
+              1
+              2
+            
+          
+          )
+        
+        
+        .
+      
+    
+    {\displaystyle (n-0,5)!=\Pi \left(n-{\frac {1}{2}}\right)=\Gamma \left(n+{\frac {1}{2}}\right)\,.}
+  
+
+  
+    
+      
+        (
+        −
+        n
+        −
+        0
+        ,
+        5
+        )
+        !
+        =
+        Π
+        
+          (
+          −
+          n
+          −
+          
+            
+              1
+              2
+            
+          
+          )
+        
+        =
+        Γ
+        
+          (
+          −
+          n
+          +
+          
+            
+              1
+              2
+            
+          
+          )
+        
+        
+        .
+      
+    
+    {\displaystyle (-n-0,5)!=\Pi \left(-n-{\frac {1}{2}}\right)=\Gamma \left(-n+{\frac {1}{2}}\right)\,.}
+  
+Ví dụ:
+
+  
+    
+      
+        Γ
+        
+          (
+          4.5
+          )
+        
+        =
+        3.5
+        !
+        =
+        Π
+        
+          (
+          3.5
+          )
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        ⋅
+        
+          
+            3
+            2
+          
+        
+        ⋅
+        
+          
+            5
+            2
+          
+        
+        ⋅
+        
+          
+            7
+            2
+          
+        
+        
+          
+            π
+          
+        
+        =
+        
+          
+            
+              8
+              !
+            
+            
+              
+                4
+                
+                  4
+                
+              
+              4
+              !
+            
+          
+        
+        
+          
+            π
+          
+        
+        =
+        
+          
+            105
+            16
+          
+        
+        
+          
+            π
+          
+        
+        ≈
+        11.63.
+      
+    
+    {\displaystyle \Gamma \left(4.5\right)=3.5!=\Pi \left(3.5\right)={1 \over 2}\cdot {3 \over 2}\cdot {5 \over 2}\cdot {7 \over 2}{\sqrt {\pi }}={8! \over 4^{4}4!}{\sqrt {\pi }}={105 \over 16}{\sqrt {\pi }}\approx 11.63.}
+  
+
+  
+    
+      
+        Γ
+        
+          (
+          −
+          2.5
+          )
+        
+        =
+        (
+        −
+        3.5
+        )
+        !
+        =
+        Π
+        
+          (
+          −
+          3.5
+          )
+        
+        =
+        
+          
+            2
+            
+              −
+              1
+            
+          
+        
+        ⋅
+        
+          
+            2
+            
+              −
+              3
+            
+          
+        
+        ⋅
+        
+          
+            2
+            
+              −
+              5
+            
+          
+        
+        
+          
+            π
+          
+        
+        =
+        
+          
+            
+              (
+              −
+              4
+              
+                )
+                
+                  3
+                
+              
+              3
+              !
+            
+            
+              6
+              !
+            
+          
+        
+        
+          
+            π
+          
+        
+        =
+        −
+        
+          
+            8
+            15
+          
+        
+        
+          
+            π
+          
+        
+        ≈
+        −
+        0.9453.
+      
+    
+    {\displaystyle \Gamma \left(-2.5\right)=(-3.5)!=\Pi \left(-3.5\right)={2 \over -1}\cdot {2 \over -3}\cdot {2 \over -5}{\sqrt {\pi }}={(-4)^{3}3! \over 6!}{\sqrt {\pi }}=-{8 \over 15}{\sqrt {\pi }}\approx -0.9453.}
+  
+
+
+=== Giai thừa với số phức ===
+
+Công thức chính để tính giai thừa trong trường hợp này là ước lượng Laurent:
+
+  
+    
+      
+        Γ
+        (
+        z
+        )
+        =
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            ∞
+          
+        
+        
+          
+            
+              
+                Γ
+                
+                  (
+                  k
+                  )
+                
+              
+              (
+              1
+              )
+            
+            
+              k
+              !
+            
+          
+        
+        
+          z
+          
+            k
+            −
+            1
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle \Gamma (z)=\sum _{k=0}^{\infty }{\frac {\Gamma ^{(k)}(1)}{k!}}z^{k-1}\,,}
+  
+với |z| < 1. Khai triển ra ta có bảng các hệ số như sau:
+Ở đây 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+   là hằng số Euler - Mascheroni còn 
+  
+    
+      
+        ζ
+      
+    
+    {\displaystyle \zeta }
+   là hàm zeta Riemann.
+
+
+== Các khái niệm tương tự ==
+
+
+=== Giai thừa nguyên tố (primorial) ===
+Xem Giai thừa nguyên tố.
+
+
+=== Giai thừa kép ===
+Có thể coi n! là tích n phần tử đầu của cấp số cộng với phần tử đầu bằng 1 và công sai bằng 1. Mở rộng với công sai bằng 2 ta có:
+Giai thừa kép là tích n phần tử đầu của cấp số cộng với phần tử đầu 1 và công sai là 2.
+
+  
+    
+      
+        n
+        !
+        !
+        =
+        
+          {
+          
+            
+              
+                
+                  1
+                  ,
+                  
+                  
+                   
+                
+                
+                
+                  
+                    khi 
+                  
+                  n
+                  <=
+                  1
+                  ;
+                
+              
+              
+                
+                  n
+                  (
+                  n
+                  −
+                  2
+                  )
+                  !
+                  !
+                
+                
+                
+                  
+                    khi 
+                  
+                  n
+                  ≥
+                  2.
+                  
+                  
+                
+              
+            
+          
+          
+        
+      
+    
+    {\displaystyle n!!=\left\{{\begin{matrix}1,\qquad \quad \ &&{\mbox{khi }}n<=1;\\n(n-2)!!&&{\mbox{khi }}n\geq 2.\qquad \qquad \end{matrix}}\right.}
+  
+Ví dụ:
+8!! = 2 · 4 · 6 · 8 = 384
+9!! = 1 · 3 · 5 · 7 · 9 = 945.
+
+Dãy các giai thừa kép đầu tiên là:
+
+Định nghĩa trên có thể mở rộng cho các số nguyên âm như sau:
+
+  
+    
+      
+        (
+        n
+        −
+        2
+        )
+        !
+        !
+        =
+        
+          
+            
+              n
+              !
+              !
+            
+            n
+          
+        
+      
+    
+    {\displaystyle (n-2)!!={\frac {n!!}{n}}}
+  
+Các giai thừa kép nguyên âm lẻ đầu tiên với n= -1, -3, -5, -7,...là
+1, -1, 1/3, -1/15...
+Các giai thừa kép của số nguyên âm chẵn là không xác định.
+Một vài đẳng thức với giai thừa kép:
+
+  
+    
+      
+        n
+        !
+        =
+        n
+        !
+        !
+        (
+        n
+        −
+        1
+        )
+        !
+        !
+        
+      
+    
+    {\displaystyle n!=n!!(n-1)!!\,}
+  
+
+  
+    
+      
+        (
+        2
+        n
+        )
+        !
+        !
+        =
+        
+          2
+          
+            n
+          
+        
+        n
+        !
+        
+      
+    
+    {\displaystyle (2n)!!=2^{n}n!\,}
+  
+
+  
+    
+      
+        (
+        2
+        n
+        +
+        1
+        )
+        !
+        !
+        =
+        
+          
+            
+              (
+              2
+              n
+              +
+              1
+              )
+              !
+            
+            
+              (
+              2
+              n
+              )
+              !
+              !
+            
+          
+        
+        =
+        
+          
+            
+              (
+              2
+              n
+              +
+              1
+              )
+              !
+            
+            
+              
+                2
+                
+                  n
+                
+              
+              n
+              !
+            
+          
+        
+      
+    
+    {\displaystyle (2n+1)!!={(2n+1)! \over (2n)!!}={(2n+1)! \over 2^{n}n!}}
+  
+Cũng nên phân biệt n!! với (n!)!.
+
+
+=== Giai thừa bội ===
+Ta có thể tiếp tục mở rộng với các giai thừa bội ba (n!!!),bội bốn (n!!!!)....
+Tổng quát, giai thừa bội k ký hiệu là n!(k), được định nghĩa đệ quy như sau
+
+  
+    
+      
+        n
+        
+          !
+          
+            (
+            k
+            )
+          
+        
+        =
+        
+          {
+          
+            
+              
+                
+                  1
+                  ,
+                  
+                  
+                   
+                
+                
+                
+                  
+                    khi 
+                  
+                  0
+                  ≤
+                  n
+                  <
+                  k
+                  ;
+                
+              
+              
+                
+                  n
+                  (
+                  n
+                  −
+                  k
+                  )
+                  
+                    !
+                    
+                      (
+                      k
+                      )
+                    
+                  
+                  ,
+                
+                
+                
+                  
+                    khi 
+                  
+                  n
+                  ≥
+                  k
+                  .
+                  
+                   
+                   
+                  
+                
+              
+            
+          
+          
+        
+      
+    
+    {\displaystyle n!^{(k)}=\left\{{\begin{matrix}1,\qquad \qquad \ &&{\mbox{khi }}0\leq n<k;\\n(n-k)!^{(k)},&&{\mbox{khi }}n\geq k.\quad \ \ \,\end{matrix}}\right.}
+  
+
+
+=== Siêu giai thừa(superfactorial) ===
+Neil Sloane và Simon Plouffe đã định nghĩa siêu giai thừa (năm 1995) là tích của n giai thừa đầu tiên. Chẳng hạn, siêu giai thừa của 4 là
+
+  
+    
+      
+        
+          s
+          f
+        
+        (
+        4
+        )
+        =
+        1
+        !
+        ×
+        2
+        !
+        ×
+        3
+        !
+        ×
+        4
+        !
+        =
+        288
+        
+      
+    
+    {\displaystyle \mathrm {sf} (4)=1!\times 2!\times 3!\times 4!=288\,}
+  
+Tổng quát
+
+  
+    
+      
+        
+          s
+          f
+        
+        (
+        n
+        )
+        =
+        
+          ∏
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        k
+        !
+        =
+        
+          ∏
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          k
+          
+            n
+            −
+            k
+            +
+            1
+          
+        
+        =
+        
+          1
+          
+            n
+          
+        
+        ⋅
+        
+          2
+          
+            n
+            −
+            1
+          
+        
+        ⋅
+        
+          3
+          
+            n
+            −
+            2
+          
+        
+        ⋯
+        (
+        n
+        −
+        1
+        
+          )
+          
+            2
+          
+        
+        ⋅
+        
+          n
+          
+            1
+          
+        
+        .
+      
+    
+    {\displaystyle \mathrm {sf} (n)=\prod _{k=1}^{n}k!=\prod _{k=1}^{n}k^{n-k+1}=1^{n}\cdot 2^{n-1}\cdot 3^{n-2}\cdots (n-1)^{2}\cdot n^{1}.}
+  
+Các siêu giai thừa đầu tiên bắt đầu từ n = 0) là
+1, 1, 2, 12, 288, 34560, 24883200,... (dãy A000178 trong OEIS)
+Vào năm 2000, tư tưởng này được Henry Bottomley mở rộng thành siêu giả giai thừa (superduperfactorial) là tích của n siêu giai thừa đầu tiên. Những giá trị đầu tiên của chúng là (bắt đầu từ n = 0):
+1, 1, 2, 24, 6912, 238878720, 5944066965504000,...
+và tiếp tục đệ quy với siêu giai thừa bội (multiple-level factorial) trong đó siêu giai thừa bội cấp m của n là tích của n siêu giai thừa bội cấp(m − 1), nghĩa là
+
+  
+    
+      
+        
+          m
+          f
+        
+        (
+        n
+        ,
+        m
+        )
+        =
+        
+          m
+          f
+        
+        (
+        n
+        −
+        1
+        ,
+        m
+        )
+        
+          m
+          f
+        
+        (
+        n
+        ,
+        m
+        −
+        1
+        )
+        =
+        
+          ∏
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          k
+          
+            
+              
+                (
+              
+              
+                
+                  n
+                  −
+                  k
+                  +
+                  m
+                  −
+                  1
+                
+                
+                  n
+                  −
+                  k
+                
+              
+              
+                )
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {mf} (n,m)=\mathrm {mf} (n-1,m)\mathrm {mf} (n,m-1)=\prod _{k=1}^{n}k^{n-k+m-1 \choose n-k}}
+  
+trong đó 
+  
+    
+      
+        
+          m
+          f
+        
+        (
+        n
+        ,
+        0
+        )
+        =
+        n
+      
+    
+    {\displaystyle \mathrm {mf} (n,0)=n}
+   for 
+  
+    
+      
+        n
+        >
+        0
+      
+    
+    {\displaystyle n>0}
+   and 
+  
+    
+      
+        
+          m
+          f
+        
+        (
+        0
+        ,
+        m
+        )
+        =
+        1
+      
+    
+    {\displaystyle \mathrm {mf} (0,m)=1}
+  .
+
+
+=== Giai thừa trên ===
+
+  
+    
+      
+        
+          x
+          
+            
+              n
+              ¯
+            
+          
+        
+        =
+        x
+        (
+        x
+        +
+        1
+        )
+        (
+        x
+        +
+        2
+        )
+        ⋯
+        (
+        x
+        +
+        n
+        −
+        1
+        )
+        =
+        
+          
+            
+              (
+              x
+              +
+              n
+              −
+              1
+              )
+              !
+            
+            
+              (
+              x
+              −
+              1
+              )
+              !
+            
+          
+        
+      
+    
+    {\displaystyle x^{\overline {n}}=x(x+1)(x+2)\cdots (x+n-1)={\frac {(x+n-1)!}{(x-1)!}}}
+  
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Tính toán của giai thừa

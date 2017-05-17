@@ -1,0 +1,312 @@
+Cờ vây (Hán-Nôm: 碁圍), là một trò chơi trên bàn cờ và là môn thể thao trí tuệ dành cho hai người chơi. Ngay từ lúc đầu, cờ vây được đánh giá rất cao vì chú trọng đến phương pháp luận. Nhà vô địch cờ vua Emanuel Lasker đã nói: "Cờ vua chỉ hạn chế cho nhân loại sống trên Trái Đất, trong khi cờ vây vượt khỏi thế giới này. Nếu một hành tinh nào có những sinh vật biết lý luận thì ở đó họ phải biết đánh cờ vây." Cờ vây chủ yếu thịnh hành ở các quốc gia Á Đông, nhất là Trung Quốc, Nhật Bản, Hàn Quốc. Hiện nay nó đã được truyền bá rộng rãi sang phương Tây. Có một điều đáng nói là người phương Tây biết đến cờ vây chủ yếu qua sự tiếp xúc các kỳ sư và tài liệu Nhật Bản, cho nên ở phương Tây các thuật ngữ cờ vây phần nhiều được ghi bằng tiếng Nhật.。
+
+
+== Giới thiệu ==
+
+
+=== Mục đích của ván cờ ===
+Cờ vây có mục đích duy nhất là chiếm được nhiều "đất", càng rộng càng tốt. Chuyện bắt quân cũng cần nhưng được xem là thứ yếu. Thế trận trên bàn cờ vây có khả năng biến hoá cao với các đám quân và "vùng đất". Người chơi cờ vây thường tính trước nhiều nước không chỉ cho một nhóm quân mà có thể cả chục nhóm quân nằm xen kẽ phức tạp trên bàn cờ. Từ đó, cờ vây còn được nhìn nhận không phải là một chiến trường đánh phá, tiêu diệt mà là một dạng kiến thiết, xây dựng, khai phá, mở rộng phạm vi. Cờ vây khác so với các loại cờ khác là người chơi được phép nhường lượt đi của mình cho đối phương, nhất là lúc tàn cuộc và nhận ra rằng nếu mình đi thì chỉ làm cho mình bị thiệt hại, còn khi nào thấy cần thì đi tiếp. Đến khi cả hai bên đều thấy đi tiếp là vô ích, ván cờ sẽ được thỏa thuận dừng tại đây, hai bên cùng đếm "đất" để xác định thắng thua, mỗi điểm trong vùng đất sẽ được tính là một "mục" và ai nhiều "mục" hơn sẽ thắng. Trước khi đếm "đất" hai bên trao trả "tù binh" (những quân cờ bị bắt) rồi đặt các "tù binh" vào "đất" của mình, như vậy số "mục" của mỗi phe sẽ bị giảm nhiều nếu phe đó có nhiều quân bị bắt làm tù binh. Với bàn cờ chuẩn (19 x 19) thì sau khi đếm xong, bên Trắng được cộng thêm năm mục rưỡi do bên Trắng luôn là bên đi sau.
+
+
+=== Bàn cờ và quân cờ ===
+Theo bàn cờ nguyên thủy đã tìm thấy vào năm 1977 ở Nội Mông, trong một ngôi mộ cổ đời nhà Liêu, có một bàn cờ ngang dọc chỉ có 13x13 tạo thành 169 giao điểm. Năm 1971, bàn cờ đào được ở Hồ Nam, trong một ngôi mộ đời nhà Đường, có bàn cờ lại chia lưới 15x15. Năm 1952, ở Vọng Đô, Hà Bắc, Trung Quốc, trong một ngôi mộ thời Đông Hán có một bàn cờ lại chia lưới 17x17...Tuy những bàn cờ đó khác nhau về số nước đi nhưng tựu chung lại đều chia lưới theo số lẻ (13, 15, 17...). Bàn cờ 19 đường phát hiện sớm nhất vào khoảng đời nhà Tùy.
+Quân cờ và bàn cờ vây được sáng tạo trên cơ sở của thuyết Âm Dương và vũ trụ quan của người xưa. Bàn cờ ngày nay có 19 đường kẻ ngang và 19 đường kẻ dọc tạo thành 361 giao điểm tượng trưng cho 361 ngày âm lịch. Bốn góc của bàn cờ tượng trưng cho bốn mùa xuân, hạ, thu, đông. Các quân cờ có hình tròn dẹt, giống hình cúc áo, 181 quân màu đen và 180 quân màu trắng. Quân cờ chỉ được nhấc ra hoặc đặt vào bàn cờ, chứ không dịch chuyển như trong cờ vua hoặc cờ tướng. Trên bàn cờ thường có 9 chấm đen gọi là các sao nhỏ giúp người chơi dễ nhận định hướng vị trí vì bàn cờ quá rộng. Điểm ở chính giữa bàn gọi là "thiên nguyên". Tám điểm ở 4 phía xung quanh bàn cờ gọi là "sao biên" và "sao góc". Vị trí ở gần vùng giữa bàn gọi là "cao" còn vị trí gần biên và góc là "thấp". Trong một ván cờ, số khả năng biến hóa có thể xảy ra là 
+  
+    
+      
+        
+          10
+          
+            761
+          
+        
+      
+    
+    {\displaystyle 10^{761}}
+  . Với số giây trong 3 năm là không đến 
+  
+    
+      
+        
+          10
+          
+            8
+          
+        
+      
+    
+    {\displaystyle 10^{8}}
+  , nếu 10 tỉ người, mỗi người sắp 1 ván cờ trong 1 giây thì số ván cờ sắp được trong 3 năm cũng chỉ là 
+  
+    
+      
+        
+          10
+          
+            17
+          
+        
+      
+    
+    {\displaystyle 10^{17}}
+  . Để so sánh thêm, con số đó trong cờ vua là nằm trong khoảng 
+  
+    
+      
+        
+          10
+          
+            43
+          
+        
+      
+    
+    {\displaystyle 10^{43}}
+   và 
+  
+    
+      
+        
+          10
+          
+            50
+          
+        
+      
+    
+    {\displaystyle 10^{50}}
+  ; và những nhà vật lý đã từng ước tính là không có nhiều hơn 
+  
+    
+      
+        
+          10
+          
+            90
+          
+        
+      
+    
+    {\displaystyle 10^{90}}
+   proton trên thế giới hữu hình này.，战国时期的弈秋是见于史籍的第一位棋手，最早的围棋文物可以追溯到战国時期
+
+
+== Lịch sử ==
+
+Cờ vây là loại cờ cổ, được chơi cách đây khoảng hơn 4000 năm. Khởi thủy của môn cờ bắt đầu từ giấc mơ của vua Nghiêu về việc xem chơi cờ giữa Hoàng Đế (người mở đầu thời Ngũ Đế) với vị tiên Dung Thành. Nhà vua đang thấy tiên Dung Thành chơi một loại cờ gồm một bàn cờ và các quân trắng đen bèn thỉnh cầu tiên dạy cờ cho mình. Đang chơi cờ hay bỗng vua Nghiêu tỉnh lại. Nhà vua ngẫm ra thấy hay quá bèn tìm cách nhớ lại và bổ khuyết thêm các quy tắc, luật lệ và sáng tạo ra môn cờ vây, vì mục đích của nó là vây chiếm lãnh thổ, đất đai. Sau đó, cờ vây được thái tử Đan Chu, con của vua Nghiêu truyền bá khắp thiên hạ. Trong truyện Tam Quốc Diễn Nghĩa của La Quán Trung, Quan Công đã chơi cờ vây với thuộc hạ trong khi để cho Hoa Đà nạo xương cánh tay chữa vết thương. Vi kỳ ngày xưa gọi là "dịch" (弈), được viết với bộ "củng". Trong những sách cổ của Trung Hoa như Tả Truyện, Luận Ngữ, Mạnh Tử đã nhắc nhiều đến "dịch" nhưng từ đời nhà Hán trở đi, thì cái tên vi kỳ ngày càng thông dụng. Hứa Thuận trong Thuyết Văn Giải Tự có chép "dịch, vi kỳ dã".
+Cờ vây hiện nay rất phổ biến ở vùng Đông Á. Nhật Bản hiện nay là nước có số người chơi cờ rất cao. Cờ vây đã tới Nhật vào thế kỷ 7 và tới đầu thế kỷ 13, nó đã được chơi rộng rãi khắp mọi nơi trên đất nước này. Sự phát triển của Internet cũng đã làm cho nó phổ biến hơn trên khắp thế giới và đến nay đã có 36 triệu người yêu thích môn cờ này (thống kê của Hiệp hội cờ Vây nghiệp dư thế giới năm 1999).
+Môn cờ vây cũng đã được người Việt Nam biết tới từ lâu, nhưng qua thời gian, chiến tranh nên đã hầu như không còn ai biết cách chơi. Nó được phổ biến lại tại Việt Nam vào năm 1993 nhân dịp có một giảng viên không chuyên từ Trung Quốc sang giảng dạy giúp cho ngành Thể dục thể thao Hà Nội.
+Cờ vây có từ xa xưa, nhưng luật của nó lại không hề bị biến đổi theo thời gian như những trò chơi cổ khác. Lý do là luật chơi của cờ vây hết sức đơn giản, người nào cũng có thể chơi được, không cần đến trí thông minh ưu việt. Trong cờ vây, quân nào cũng như quân nào, giá trị y hệt nhau, không quân nào có tên tuổi, không có vua, có tướng. Tướng, vua được biết như chính người chơi cờ vậy. Cờ vây, như đã biết, muốn biết chơi thì quá dễ, nhưng để chơi tới được thành "cao cờ" thì rất khó. Khi chơi cờ vây cũng giống như khi ra trận đánh giặc. Bàn cờ là chiến trường và mục đích là chiếm lấy lãnh thổ. Một kỳ thủ cờ vây thực sự biết quý trọng từng quân cờ và luôn đặt hết tâm quyết vào mỗi nước đi.
+
+
+== Nguyên tắc chơi ==
+
+Luật chơi cờ vây rất đơn giản, điều chủ chốt chỉ cần nắm vững là ai chiếm được nhiều đất thì người đó thắng.
+Khí: Các giao điểm trống nằm ngay cạnh quân cờ gọi là "khí" của quân cờ đó. Quân cờ đứng ở giữa bàn có 4 "khí", đứng ở biên có 3 "khí" và đứng ở góc có 2 "khí". Nếu một quân hoặc một nhóm quân không còn "khí", quân đó hoặc nhóm quân đó sẽ bị bắt và đưa ra khỏi bàn cờ. Nếu quân đó hoặc nhóm quân đó chỉ còn một "khí", điều đó có nghĩa là nó đang bị đe dọa, đang bị "đả cật" và sẽ bị đối phương bắt ngay sau nước đi tiếp theo.
+Những chấm trắng và đen ở hình bên là "khí" của quân trắng và quân đen. "Khí" có thể cùng được chia sẻ giữa hai loại quân. Nếu quân trắng được đặt vào nơi có "khí" chung của hai nhóm quân, hai nhóm quân trắng sẽ được nối với nhau thành một. Quân của đối phương sẽ bị bắt khi nó không còn "khí".
+Nếu một người chơi đoạt nốt "khí" cuối cùng của một quân hay nhóm quân của đối phương, anh ta sẽ nhấc quân đó ra khỏi bàn cờ và những quân cờ đó dùng để trao đổi tù binh khi tính điểm.
+Hình bên chỉ ra một đám quân đen và đám quân trắng. Nếu đang ở trong tình huống này, mà quân trắng được đặt vào điểm A, toàn bộ quân đen sẽ bị bắt và bị đưa ra khỏi bàn cờ. Phần đất có được lúc này thuộc về quân trắng.
+Tự tử: Trong luật chơi cũng không cho phép việc chiếm nốt "khí" cuối cùng của chính quân hay nhóm quân của bạn, trừ phi việc này dùng để bắt một vài quân bao vây của đối phương. Những quân chắc chắn đã chết, chạy đến đâu cũng không thoát gọi là quân "chết kỹ thuật" và được bỏ ra lúc hết ván.
+Quy tắc Kiếp: Nếu bạn bắt một quân, sẽ có thể xảy ra một trường hợp: bên đen có thể chơi ở điểm b và bắt bên trắng điểm a. Tiếp theo, đến lượt đi của bên trắng. Lúc này, bên trắng lại có thể đặt quân tại điểm a và bắt bên đen, điều này có thể dẫn đến việc quay trở lại như tình huống ban đầu. Trường hợp này được gọi là "kiếp" (劫, コウ, kō). Để tránh việc này xảy ra lặp đi lặp lại, người ta đã đặt ra một quy tắc là "kiếp". Quy tắc này nói rằng, không được phép lặp lại một trạng thái(vị trí quân và lượt đi) đã có trước đây ở bàn cờ, trừ trường hợp 2 người cùng nhường lượt đi. Nếu bên đen bắt bên trắng ở a, bên trắng không được phép bắt lại bên đen ngay lập tức mà cần phải đặt quân ở nơi nào đó khác. Điều này sẽ dẫn tới khả năng là bên đen sẽ đặt tiếp quân tại b để tránh bị bên trắng bắt. Nếu bên đen không đi nước nào khác, bên trắng có thể bắt lại quân đen, bởi vì bây giờ, vị trí trên bàn cờ đã thay đổi, không giống như trước.
+Đe dọa kiếp: Đây là một phương thức hay khi bị "kiếp" trong những tình thế quan trọng, liên quan đến sự sống chết của một đám quân lớn. Nếu bị "kiếp" như vậy, hãy đặt quân của bạn vào những ô có thể "đả cật" (chẹt) các đám quân lớn quân đối phương mà thực tế quân của bạn sẽ chết. Đối phương sẽ phải chọn một trong hai trường hợp: Hoặc ăn đám lớn của bạn và bạn ăn đám lớn mà bạn vừa chẹt, hoặc ăn quân mà bạn vừa chẹt để cứu đám quân của mình.
+Tạo mắt: Khi một đám quân trong vùng của đối phương và không có đường thoát, để có thể sống, đám quân đó cần tạo ít nhất hai mắt nhỏ. Một mắt nhỏ là có 1 đến 2 khí trống. Một mắt lớn là có nhiều hơn 2 khí và có thể coi là 1 vùng đất. Thông thường, muốn chỉ cần tạo 1 mắt lớn cần tạo trên 5 khí ở góc và biên và trên 6 khí ở trung tâm thì sẽ có nhiêu khả năng sống vì khi bị xâm nhập sẽ dễ dàng tạo mắt nhỏ.
+Chấp quân: Các đấu thủ chơi cờ vây có thể đa dạng về trình độ. Người chơi giỏi hơn có thể chơi handicap (chấp quân) với người chơi kém hơn, từ đó có thể khiến cuộc chơi thú vị hơn cho cả hai người chơi, người chơi kém hơn sẽ học được rất nhiều từ cách đi của người chơi giỏi hơn và sẽ giúp họ nâng cao trình độ chơi cờ của mình. Thông thường, số quân chấp nhiều nhất là 9 quân và người chơi kém hơn sẽ chơi quân màu đen. Những quân được chấp thường có một số vị trí xác định trên bàn cờ. Sau khi những quân cờ này được đặt lên bàn cờ, quân trắng bắt đầu nước đi đầu tiên.
+
+
+== Phân hạng người chơi ==
+Đẳng cấp của cờ vây phân biệt trên 2 hệ thống riêng biệt. Đó là hệ thống đẳng cấp nghiệp dư và đẳng cấp chuyên nghiệp:
+
+
+=== Nghiệp dư ===
+Cấp (級): Từ người mới bắt đầu chơi đến người chơi trung bình được chia thành nhiều cấp. Cấp mạnh nhất thường là cấp 1, càng yếu, số cấp càng cao. Chữ "cấp" thường được viết tắt là k
+Ví dụ: Nếu thang nghiệp dư có 30 cấp từ 1 đến 30 thì cấp yếu nhất là 30k, cấp mạnh nhất là 1k.
+Đẳng (段): Ký hiệu là d; chỉ những người có sức cờ mạnh, phát triển các kĩ năng ở mức độ cao, sử dụng các thao tác nhuần nhuyễn. Trái với kyu, khi càng mạnh số đẳng càng cao. Ví dụ: 2d thì mạnh hơn 1d và 4d mạnh hơn 2d.
+Để phân biệt với đẳng chuyên nghiệp, ta gọi đây là đẳng nghiệp dư.
+Thực chất sự ra đời của dan không chuyên nhằm phân hóa rõ ràng hơn khoảng cách chênh lệch giữa các trình độ. Không phải nước nào cũng công nhận kì thủ cờ vây chuyên nghiệp nên việc ra đời hệ thống không chuyên trên đáp ứng thực tế là có những kì thủ không chuyên rất mạnh thắng được những tay chuyên nghiệp.
+Chênh lệch trình độ của mỗi bậc trong đẳng cấp nghiệp dư là 1 quân chấp, hay còn gọi là Handicap, chênh lệch càng nhiều thì số quân chấp càng nhiều, tuy nhiên tối đa số quân chấp của một trận đấu là 9. Trong cờ vây người cầm quân đen được đánh trước vì vậy để công bằng người cầm quân trắng được cộng tầm 5,5 đến 6,5 điểm tùy theo cách tính theo luật Trung Quốc hay Nhật Bản. Điểm cộng đó gọi là komi.
+
+
+=== Chuyên nghiệp ===
+Cấp: có lẽ chỉ có từ 5k đến 1k (1 là cao nhất). Hệ thống cấp của chuyên nghiệp nhằm chỉ đến những người sắp sửa bước vào thế giới chuyên nghiệp của cờ vây, có thể họ đang rèn luỵện, học tập trong các trường dạy cờ nổi tiếng.
+Đẳng: Để phân biệt với đẳng không chuyên, người ta thường ký hiệu là p. Kì thủ được gọi là chuyên nghiệp khi được hiệp hội cờ vây của nước sở tại cấp chứng chỉ khẳng định trình độ chuyên môn.
+
+
+=== So sánh ===
+Ở trình độ không chuyên, sức cờ thể hiện rõ ràng qua con số. Đối với chuyên nghiệp, thứ hạng lại không thể hiện điều đó. Tuy nhiên không có nghĩa là tay cờ vây không chuyên hạng 30k không thể thắng các tay cờ vây 5p. Các kì thủ không chuyên giỏi nhất có thể thắng các kì thủ chuyên nghiệp có cấp hạng cao. Điều này là bình thường, đơn giản: cờ vây cũng là một môn thể thao. Và trong thể thao, không thể nói trước điều gì.
+
+
+== Các giai đoạn của một ván cờ ==
+
+Sự mềm dẻo, khôn ngoan, nhẫn nại, biết bỏ cái nhỏ để giành cái lớn, biết hy sinh tiểu tiết để giành đại cục nhằm dẫn tới thắng lợi, được đối phương "tâm phục khẩu phục" được xem là cốt lõi của cờ vây.
+Ván cờ vây được chia thành 3 giai đoạn, gọi là: Bố cục, Trung bàn (còn gọi là Trung bàn chiến - vì ở giai đoạn này thường xảy ra chiến đấu kịch liệt), và Quan tử.
+
+
+=== Bố cục (布局) ===
+Đây là giai đoạn ra quân trong cờ vây. Đây là giai đoạn quyết định cả bộ mặt của ván cờ sau này. Phần lớn trong khai cuộc, người ta tìm cách "án ngữ" chỉ vùng đất lớn trên bàn cờ bằng 1 đến 2 con; sau đó sẽ phát triển dần. Thông thường, các kì thủ bắt đầu bằng việc chiếm góc mà phần lớn là vào sao.
+Khai cuộc cực kì khó, đơn giản vì bàn cờ vây có rất nhiều điểm để đặt quân. Để hỗ trợ cho các kì thủ nghiệp dư, nhiều cao thủ chuyên nghiệp đã nghiên cứu, sáng tác ra các thế khai cuộc gọi là định cục. Định cục liên tục phát triển và đổi mới.
+
+
+=== Trung bàn chiến ===
+Ở phần này, chủ yếu hai bên tập trung vào việc tranh giành đất đai, bắt đầu tính tới các vùng tranh chấp, tìm cách đặt quân như thế nào để hạn chế sự bành trướng của đối phương, chuẩn bị vây bắt quân đối phương. Những quân bị đối phương vây sẽ bị tiêu diệt nếu không tạo được hai mắt. Nếu quân đã bị bao vây, cần phải tìm cách dàn quân bên trong để tạo ra các "mắt".
+Trung bàn là nơi thể hiện rõ nhất tinh hoa của trí sáng tạo, trí khôn ngoan và sức cờ dẻo dai. Có những người thậm chí có thể dự đoán được sự quan trọng của quân đến 60 nước cờ. Do kết quả cờ vây được quyết định bởi điểm số mục nên các kì thủ sử dụng nhiều cách thức: hoặc nhảy phá đất đối phương, tiêu diệt quân, hoặc vây chắc đất... để giành phần thắng. Ở trung bàn, nhiều cuộc đuổi bắt lớn tới mức chỉ cần thất bại, người chơi tự chịu thua mà không cần đến giai đoạn Quan tử.
+Hầu hết các ván cờ nổi tiếng đều nhờ kĩ năng điêu luyện của các kì thủ thể hiện trong giai đoạn Trung bàn này
+
+
+=== Thâu quan ===
+Sau khi qua trung cuộc, các vùng lãnh thổ của cả hai đấu thủ tạm thời xác định, ít có khả năng tạo ra những thay đổi lớn về tương quan thế lực của 2 bên, việc hoàn chỉnh lãnh thổ chỉ còn là những việc nhỏ chi tiết, đó chính là giai đoạn tàn cuộc gọi là thâu quan. Các quân cờ thường được sắp xếp lại để tạo thành những hình đơn giản, thuận tiện cho việc xác định lãnh thổ và tính điểm.
+
+
+== Máy tính với cờ vây ==
+Do cờ vây có nhiều quân hơn và nhiều ô đi hơn, độ phức tạp của cờ vây vượt xa cờ vua/cờ tướng và chương trình máy tính rất khó để chơi tốt. Sau khi Deep Blue đánh bại nhà vô địch thế giới cờ vua Garry Kasparov, đích tiếp theo của trí tuệ nhân tạo là chương trình cờ vây có thể thắng nhà vô địch.
+Tháng 10 năm 2015, chương trình cờ vây DeepMind của Google đã đánh bại Fan Hui, người từng 3 lần vô địch môn cờ vây khu vực châu Âu.
+Ngày 9/3/2016  hệ thống trí tuệ nhân tạo AlphaGo của Google đã thách thức kỳ thủ cờ vây người Hàn Quốc Lee Sedol trong một trận đấu 5 ván. Kết quả bất ngờ, trí tuệ nhân tạo đã giành chiến thắng sau khi thắng cả 3 ván đầu tiên. Kì thủ đã vô cùng sốc vì trước đó đã rất tự tin rằng có thể giành chiến thắng mang về giải thưởng 1 triệu USD. Lee gỡ lại ván thứ 4, ván đấu AlphaGo cầm quân đen. Bước sang ván thứ 5, Lee Sedol lại tiếp tục tạo ra bất ngờ khi quyết định cầm quân đen, do anh nhận thấy AlphaGo chơi không tốt khi phải cầm quân đen ở ván thứ 4. Tuy có chiếm được đôi chút lợi thế ở khu phía Nam bàn cờ, nhưng cuối cùng Lee Sedol vẫn phải chịu thất bại chung cuộc 4-1, khi AlphaGo hoàn toàn làm chủ thế trận. Có đôi luồng thông tin về việc AlphaGo thua ở ván thứ 4 do mắc phải lỗi giống con người - Quá tự tin - nhưng thông tin này chưa được kiểm chứng và chưa có nguồn tin chính thức từ đội ngũ thiết kế.
+
+
+== Một số loại cờ khác gần giống cờ vây ==
+Cờ Othello: cờ này có hình dáng quân cờ cũng tương tự như cờ vây, các quân cờ hình tròn dẹt giống hệt nhau, mỗi quân có màu đen và trắng ở mỗi mặt. Các quân cờ được đặt vào những ô cờ, chứ không phải đặt vào những điểm giao nhau như trong cờ vây. Tuy nhiên, cờ này có luật chơi đơn giản hơn và mục đích là biến các quân cờ đối thủ thành quân cờ của mình, càng nhiều càng tốt. Khi bắt được quân cờ của bên kia, quân cờ đó sẽ được lật mặt và trở thành quân cờ bên này.
+Gomoku, Pente và Renju (Renju còn gọi là 連珠五子棋, Liên Châu Ngũ Tử Kỳ, Five in a Row...): Những cờ này có hình dáng quân cờ cũng tương tự như cờ vây, có các quân cờ màu trắng và quân cờ màu đen, bàn cờ chia lưới 19x19 hoặc 15x15. Trong những trò chơi này, mục đích là tạo thành một dãy có 5 quân cờ cùng màu, đứng liên tiếp cạnh nhau (tương tự cờ Caro của Việt Nam). Những trò chơi này không có nhiều chiến thuật bằng cờ vây.
+Connect6: giống ba trò chơi vừa nêu ở trên, nhưng mục đích có khác, thay vì tạo 5 quân sẽ là tạo được 6 quân liên tục trên cùng một hàng.
+
+
+== Thành ngữ trong cờ vây ==
+Góc vàng, biên bạc, giữa cỏ khô
+Vi kì dị học nan tinh (cờ vây dễ học mà khó giỏi)
+
+
+== Các danh thủ cờ vây ==
+
+
+=== Quốc tế ===
+Ki Young Kim, Hàn Quốc. Ông Kim chỉ là kỳ thủ nghiệp dư bình thường ở Hàn Quốc, nhưng đã đến Việt Nam mở 1 hội quán cờ vây từ năm 1995-1998, địa chỉ 16 Lê Thị Riêng, quận 1, thành phố Hồ Chí Minh.
+Xem danh sách các danh thủ cờ vây
+
+
+=== Việt Nam ===
+Nam kỳ thủ:
+Hoàng Nam Thắng, Đà Nẵng, quán quân giải Vô địch Quốc gia năm 2001.
+Lê Mai Duy, Thành phố Hồ Chí Minh, quán quân giải Vô địch Quốc gia năm 2002, 2004, 2005, 2006.
+Trần Chí Thành, Tp Hồ Chí Minh, á quân giải Vô địch Quốc gia năm 2002.
+Trần Anh Tuấn, Tp Hồ Chí Minh, huy chương đồng giải Vô địch Quốc gia năm 2002.
+Trần Anh Tuấn, Tp Hồ Chí Minh, quán quân giải Vô địch Quốc gia năm 2003.
+Lê Mai Duy, Tp Hồ Chí Minh, á quân giải Vô địch Quốc gia năm 2003.
+Trần Trung Tín, Tp Hồ Chí Minh, huy chương đồng, giải Vô địch Quốc gia năm 1999, 2003.
+Đoàn Vũ Chung, Hà Nội, nhận được chứng chỉ 2d từ Nihon Kiin năm 1998
+Vũ Thiện Bảo, Hà Nội, nhận được chứng chỉ 1d từ Nihon Kiin năm 1998
+Nữ kỳ thủ:
+Ngô Thị Thanh Thủy, Tp Hồ Chí Minh, vô địch giải Vô địch Quốc gia năm 2001.
+Nguyễn Thị Hương, Hà Nội, á quân giải Vô địch Quốc gia năm 2001.
+Nguyễn Thị Hương, Hà Nội, quán quân giải Vô địch Quốc gia năm 2002
+Nguyễn Thị Hồng Anh, Kiên Giang, á quân giải Vô địch Quốc gia năm 2002, 2006.
+Nguyễn Thị Hồng Anh, Kiên Giang, quán quân giải Vô địch Quốc gia năm 2003, 2004, 2005.
+Ngô Thị Thanh Thủy, Tp Hồ Chí Minh, á quân giải Vô địch Quốc gia năm 2003.
+Trần Thanh Mai, Hà Nội, quán quân giải vô địch quốc gia năm 2006
+
+
+== Triết lý và giai thoại trong cờ vây ==
+Âu Dương Tu đời nhà Tống có viết trong Tân Ngũ Đại Sử:
+Việc trị nước cũng không khác gì đánh cờ vây, biết cách dùng, biết cách đặt cho đúng chỗ thì thắng, không biết cách dùng, cách đặt thì thua.
+Lục Cửu Uyên, một lý học gia người Trung Hoa, treo bàn cờ trên tường và trầm tư suy nghĩ, sau hai ngày có thốt ra một câu:
+Cờ vây so với hà đồ cũng chẳng có khác gì nhau.
+Vào đời nhà Tấn, ở núi Tín An, quận Thạch Thất, có một tiều phu tên là Vương Chất. Khi đi vào rừng đốn củi như mọi hôm, ông thấy có hai đứa bé ngồi đánh cờ. Ông được đưa cho một vật nhỏ như hạt táo, ăn vào để không cảm thấy đói. Hai đứa bé thì đánh cờ, còn Vương Chất ngồi chống búa xem. Sau thời gian khá lâu, một đứa bé chỉ vào ông và nói rằng, cán búa của ngươi mục rồi kìa. Sau khi hết ván cờ, Vương Chất trở về quê cũ thì mọi thứ đã thay đổi khác, do lúc này ông đã 100 tuổi. (Lạn Kha tiên khách)
+
+
+== Cờ vây trong lĩnh vực khác ==
+
+
+=== Trong thơ ===
+...Khi hương sớm khi trà trưa
+Bàn Vây điểm nước, đường tơ họa đàn
+Khi chén rượu, khi cuộc cờ
+Khi xem hoa nở, khi chờ trăng lên....
+
+Trích Truyện Kiều của Nguyễn Du
+
+...Tìm nơi tịch mịch, chốn vườn thơm
+Xem cuộc cờ vây nơi ngõ ẩn...
+
+Trích thơ của Ngô Thì Nhậm
+
+Vi kỳ nhàn đắc địa,
+Đối tửu tuý vi hương.
+(Chơi cờ vây, nhàn là nơi đắc địa,
+Uống rượu với bạn, say là quê nhà.)
+
+Trích thơ "Thôn quê"-Nguyễn Xưởng-thời nhà Trần
+
+
+=== Trong ca dao, tục ngữ ===
+
+Nỗi về nỗi ở chưa xong
+Bối rối trong lòng như đánh cờ vây.
+
+
+=== Trong văn xuôi ===
+Danh thủ cờ vây của Kawabata Yasunari
+Thiếu nữ đánh cờ vây của Sơn Táp (Shan Sa), một nữ nhà văn người Pháp gốc Trung Quốc.
+Thiên Long bát bộ, truyện của Kim Dung.
+Tam Quốc Diễn Nghĩa của La Quán Trung.
+
+
+=== Trong điện ảnh ===
+Tể tướng Lưu gù, phim truyền hình Trung Quốc nhiều tập
+Anh hùng (Hero), đạo diễn Trương Nghệ Mưu, Trung Quốc.
+A Beautiful Mind, đạo diễn Ron Howard.
+Hikaru no Go, phim hoạt hình của Nhật Bản.
+Mikan no taikyoku, (1982) của Trung Quốc hợp tác với Nhật Bản.
+The Go Master, (2006) của Trung Quốc - về cuộc đời của Go Seigen.
+Hồi đáp 1988 (2015), drama Hàn Quốc - về nhân vật kỳ thủ cờ vây Choi Teak.
+
+
+== Tham khảo ==
+
+
+== Sách đọc thêm ==
+Nguyễn Duy Chính, Cờ vây. Trong tài liệu này có hai bản kỳ phổ hiếm có, Lạn Kha Phổ và Ẩu Huyết Phổ.
+Bozulich, Richard (2001), The Go Player's Almanac (ấn bản 2), Kiseido Publishing Company, ISBN 4-906574-40-8 
+Brooks, E Bruce (2007), Warring States Project Chronology #2, truy cập ngày 30 tháng 11 năm 2007 
+Fairbairn, John (1992), A Survey of the best in Go Equipment  in Bozulich 2001—pp. 142–155
+Fairbairn, John (1995), Go in Ancient China, truy cập ngày 2 tháng 11 năm 2007 
+Fairbairn, John (2000), History of Go in Korea, truy cập ngày 6 tháng 11 năm 2007 
+Fairbairn, John; Hall, T Mark (2007), The GoGoD Encyclopaedia, Games of Go on Disc 
+Kim, Janice; Jeong, Soo-hyun (1994), Learn to Play Go, Good Move Press, ISBN 0-9644796-1-3 
+Lasker, Edward (1960) [1934], Go and Go-Moku, Courier Dover Publications, ISBN 0486206130 
+Masayoshi, Shirakawa (2005), A Journey In Search of the Origins of Go, Yutopian Enterprises, ISBN 1889554987 
+Matthews, Charles (tháng 9 năm 2002), Sufficient but Not Necessary: Two Eyes and Seki in Go, University of Cambridge, truy cập ngày 31 tháng 12 năm 2007  
+Peng, Mike; Hall, Mark (1996), “One Giant Leap For Go” (PDF), Svenks Go Tidning 96 (2): 7–8, truy cập ngày 12 tháng 11 năm 2007 
+Pinckard, William (1989), “The Four Accomplishments”, trong Richard Bozulich, Japanese Prints and the World of Go, truy cập ngày 2 tháng 11 năm 2007 
+Potter, Donald L. (1984), “Go in the Classics”, Go World (Tokyo: Ishi Press) (37): 16–18, truy cập ngày 2 tháng 11 năm 2007 
+Potter, Donald L. (1985), “Go in the Classics (ii): the Tso-chuan”, Go World (Tokyo: Ishi Press) (42): 19–21, truy cập ngày 2 tháng 11 năm 2007 
+
+
+== Đọc thêm ==
+Sách giới thiệu:
+Bradley, Milton N. Go for Kids, Yutopian Enterprises, Santa Monica, 2001 ISBN 978-1-889554-74-7.
+Cho, Chikun. Go: A Complete Introduction to the Game, Kiseido Publishers, Tokyo, 1997, ISBN 978-4-906574-50-6.
+Cobb, William. The Book of Go, Sterling Publishers, 2002, ISBN 978-0-8069-2729-9.
+Iwamoto, Kaoru. Go for Beginners, Pantheon, New York, 1977, ISBN 978-0-394-73331-9.
+Kim, Janice, and Jeong Soo-hyun. Learn to Play Go series, five volumes: Good Move Press, Sheboygan, Wisconsin, second edition, 1997. ISBN 0-9644796-1-3.
+Matthews, Charles. Teach Yourself Go, McGraw-Hill, 2004, ISBN 978-0-07-142977-1.
+Shotwell, Peter. Go! More than a Game, Tuttle Publishing, Boston, 2003. ISBN 0-8048-3475-X.
+Lịch sử:
+Boorman, Scott A. (1969), The Protracted Game: A Wei Ch'i Interpretation of Maoist Revolutionary Strategy, New York, NY: Oxford University Press, ISBN 9780195014938 
+De Havilland, Augustus Walter (1910), The ABC of Go: The National War Game of Japan, Yokohama, Kelly & Walsh, OCLC 4800147 
+Korschelt, Oscar (1966), The Theory and Practice of Go, C.E. Tuttle Co, ISBN 9780804805728 
+Smith, Arthur (1956), The Game of Go: The National Game of Japan, C.E. Tuttle Co, OCLC 912228 
+
+
+== Xem thêm ==
+Cờ úp
+Cờ tư lệnh
+Cờ cá ngựa
+Cờ vua
+Cờ tướng
+Cờ Othello
+Shogi
+Renju (Cò cai ro)
+
+
+== Liên kết ngoài ==
+Sách nhập môn cờ vây tiếng Việt - trình độ dưới 2d có thể tham khảo
+Lịch sử Cờ vây ở Trung Quốc, Triều Tiên và Nhật
+Cờ thế cờ vây
+Thư viện cờ vây tiếng Anh

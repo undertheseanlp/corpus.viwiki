@@ -1,0 +1,26 @@
+Bảng chữ cái Phoenicia, gọi theo quy ước là bảng chữ cái Proto-Canaanite cho văn bản xuất hiện trước 1050 TCN, là bảng chữ cái lâu đời nhất được xác minh. Bảng chữ cái Phoenicia có 22 chữ cái, tất cả đều là phụ âm, và được mô tả như là một abjad, với matres lectionis được sử dụng cho một số nguyên âm trong một số phiên bản sau đó. Nó được sử dụng cho các văn bản của người Phoenix,một ngôn ngữ Semitic Bắc, được sử dụng bởi các nền văn minh Phoenicia.
+Bảng chữ cái Phoenicia có nguồn gốc từ chữ tượng hình Ai Cập  và trở thành một trong những hệ chữ viết được sử dụng rộng rãi nhất, được các thương gia Phoenician phổ biến trên toàn vùng Địa Trung Hải, nơi mà nó đã tiến hóa và đã được đồng hóa bởi nhiều nền văn hóa khác nhau. Bảng chữ cái Paleo-Hebrew đã được lấy trực tiếp từ bảng chữ cái Phoenicia. Một bảng chữ cái phái sinh là bảng chữ cái Aram, đó là tổ tiên của bảng chữ cái Ả Rập hiện đại. Bảng chữ cái Modern Hebrew là một biến thể phong cách của bảng chữ cái Aram. Bảng chữ cái Hy Lạp (và các bản mở rộng của nó như bảng chữ cái tiếng Latinh, Cyrillic, và Coptic) đã được cũng xuất phát từ bảng chữ cái Phoenicia.
+
+
+== Tham khảo ==
+
+
+== Sách tham khảo ==
+Jean-Pierre Thiollet, Je m'appelle Byblos, H & D, Paris, 2005. ISBN 2-ngày 99 tháng 4 năm 4266
+Maria Eugenia Aubet, The Phoenicians and the West Second Edition, Cambridge University Press, London, 2001.
+Daniels, Peter T., et al. eds. The World's Writing Systems Oxford. (1996).
+Jensen, Hans, Sign, Symbol, and Script, G.P. Putman's Sons, New York, 1969.
+Coulmas, Florian, Writing Systems of the World, Blackwell Publishers Ltd, Oxford, 1989.
+Hock, Hans H. and Joseph, Brian D., Language History, Language Change, and Language Relationship, Mouton de Gruyter, New York, 1996.
+Fischer, Steven R., A History of Writing, Reaktion Books, 2003.
+Markoe, Glenn E., Phoenicians. University of California Press. ISBN 0-520-22613-5 (2000) (hardback)
+Ancient Hebrew and Aramaic on Coins, reading and transliterating Proto-Hebrew, online edition. (Judaea Coin Archive)
+
+
+== Liên kết ngoài ==
+Ancient Scripts.com (Phoenician)
+Omniglot.com (Phoenician alphabet)
+official Unicode standards document for Phoenician (PDF file)
+Free-Libre GPL2 Licensed Unicode Phoenician Font
+GNU FreeFont Unicode font family with Phoenician range in its serif face.
+Phönizisch TTF-Font.

@@ -1,0 +1,53 @@
+Galaxy Nexus (GT-I9250) là một điện thoại thông minh có màn hình cảm ứng chạy hệ điều hành Android được đồng phát triển Google và Samsung Electronics. Nó là chiếc điện thoại thông minh thứ ba thuộc dòng Google Nexus, là một nhóm các thiết bị điện tử tiêu dùng Android được sản xuất bởi các đối tác nhà sản xuất phụ tùng gốc. Nó là thiết bị kế nhiệm hai chiếc điện thoại chủ lực của Google, Nexus One và Nexus S.
+Galaxy Nexus có màn hình Super AMOLED độ nét cao (1280 × 720) với bề mặt kính cong Dragontrail, một máy ảnh cái tiến, và là thiết bị đầu tiên chạy hệ điều hành Android phiên bản 4.0 Ice Cream Sandwich. Tên gọi của nó là kết quả của sự hợp tác thương hiệu giữa Samsung Galaxy và thương hiệu điện thoại thông minh Google Nexus. Tuy nhiên nó được gọi là Galaxy X ở Brazil do vấn đề nhãn hiệu trên thương hiệu "Nexus".
+Galaxy Nexus được Google và Samsung công bố cùng nhau vào ngày 19 tháng 10 năm 2011 ở Hồng Kông. Nó được phát hành ở thị trường châu Âu vào ngày 11 tháng 11 năm 2011. Nó là một trong số ít các điện thoại được Android Open Source Project khuyến cáo sử dụng để xây dựng Android từ mã nguồn. Từ ngày 29 tháng 10 năm 2012, Galaxy Nexus không còn có mặt để bán trên gian hàng của Google Play nữa theo sự ra mắt của thiết bị kế nhiệm nó, LG Nexus 4.
+
+
+== Lịch sử ==
+Kế hoạch của Google để tiếp tục dòng sản phẩm Nexus và mang thế hệ Nexus thứ ba ra thị trường đã được xác nhận bởi phó chủ tịch cấp cao phụ trách nền tảng di động của Google Andy Rubin vào tháng 5 năm 2011. Samsung mobile đưa ra một video quảng cáo cho phần "Google Episode" của sự kiện Unpacked vào ngày 11 tháng 10 nhưng sau đó hoãn ngày công bố sản phẩm lại (tới ngày 19 tháng 10) để tỏ lòng tôn trọng khi Steve Jobs qua đời vào ngày 5 tháng 10.
+Trước khi có thông cáo chính thức, nó còn được gọi là Google "Nexus Prime" bởi công chúng và phương tiện truyền thông. Đã có tin tức rò rỉ lặp lại về các chi tiết gần như chính xác của thiết bị này. Chiếc điện thoại được công bố chính thức vào ngày 19 tháng 10 năm 2011 ở Hong Kong, với tên chính thức là "Galaxy Nexus".
+
+
+== Phần cứng ==
+
+
+== Phần mềm ==
+
+
+=== Google Wallet ===
+Galaxy Nexus là một trong số ít các thiết bị chính thức hỗ trợ Google Wallet. Biến thể cho nhà mạng Verizon là phiên bản duy nhất không hỗ trợ Google Wallet một cách chính thức. Tính năng không được hỗ trợ này đã gây ra một cuộc tranh cãi giữa người dùng Hoa Kỳ. Verizon bảo vệ cho hành động của họ với lời giải thích rằng Galaxy Nexus sử dụng một "yếu tố bảo mật." Tuy nhiên, có thể side load Google Wallet, cài đặt và nó hoạt động tốt. Cần phải cẩn thận khi sử dụng pin chính hãng có tích hợp với NFC, bởi vì ăng-ten NFC nằm ở trong viên pin.
+
+
+== Sự có mặt ==
+
+
+=== Châu Âu ===
+
+
+=== Nam Mĩ ===
+
+
+==== Vụ kiện cấm bán ====
+
+
+=== Asia-Pacific ===
+
+
+== Biến thể ==
+
+
+== Phụ kiện ==
+
+
+== Sự đón nhận ==
+
+
+== Xem thêm ==
+So sánh các điện thoại thông minh
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Video giới thiệu chính thức trên YouTube

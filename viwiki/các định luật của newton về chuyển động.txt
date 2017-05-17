@@ -1,0 +1,384 @@
+Bài này nói về các định luật Newton trong cơ học. Xem các định luật khác mà Newton đã phát biểu cho các lĩnh vực khác tại định luật Newton (định hướng)
+Các định luật của Newton về chuyển động (gọi tắt là các định luật Newton) là tập hợp ba định luật cơ học phát biểu bởi nhà bác học người Anh Isaac Newton, đặt nền tảng cho cơ học cổ điển (còn gọi là cơ học Newton). Các định luật Newton được công bố lần đầu tiên năm 1687 trong cuốn Philosophiae Naturalis Principia Mathematica (Các nguyên lý toán học trong triết học tự nhiên, vật lý từng được xem là môn triết học về tự nhiên). Ba định luật cơ bản này cùng với một định luật nổi tiếng khác của Newton, định luật vạn vật hấp dẫn, lần đầu tiên giải thích khá thuyết phục các quan sát của Kepler về chuyển động của các hành tinh.
+Ba định luật của Newton về chuyển động được phát biểu (lần đầu tiên) như sau:
+Định luật 1 Newton: Nếu một vật không chịu tác dụng của lực nào hoặc chịu tác dụng của các lực có hợp lực bằng không thì nó giữ nguyên trạng thái đứng yên hoặc chuyển động thẳng đều.
+Định luật 2 Newton: Gia tốc của một vật cùng hướng với lực tác dụng lên vật. Độ lớn của gia tốc tỉ lệ thuận với độ lớn của lực và tỉ lệ nghịch với khối lượng của vật.
+Định luật 3 Newton: Trong mọi trường hợp, khi vật A tác dụng lên vật B một lực, thì vật B cũng tác dụng lại vật A một lực. Hai lực này có cùng giá trị, cùng độ lớn, nhưng ngược chiều.
+Trải qua mấy thế kỷ, mặc dù ba định luật của Newton được phát biểu theo nhiều hình thức khác nhau nhưng bản chất không có gì thay đổi.
+
+
+== Định luật 1 ==
+Định luật 1 Newton bắt nguồn từ một phát biểu trước đó của Galileo Galilei và còn được gọi là định luật quán tính.
+Định luật quán tính nêu lên một đặc tính quan trọng của một vật chuyển động, đó là khuynh hướng giữ nguyên trạng thái chuyển động (quán tính). Trạng thái chuyển động ở đây được đặc trưng bởi vận tốc (hay tổng quát là động lượng) của chuyển động. Nếu không chịu tác dụng bởi một tổng hợp lực có giá trị khác không thì một vật đang đứng yên sẽ đứng yên mãi mãi, và một vật đang chuyển động sẽ chuyển động thẳng đều mãi mãi.
+Định luật 1 chỉ ra rằng lực không phải là nguyên nhân cơ bản gây ra chuyển động của các vật, mà đúng hơn là nguyên nhân gây ra sự thay đổi trạng thái chuyển động (thay đổi vận tốc/động lượng của vật).
+Nếu không xét tới các lực quán tính, định luật 1 của Newton chỉ nghiệm đúng trong các hệ quy chiếu quán tính, tức là hệ quy chiếu có vận tốc không đổi. Nếu áp dụng định luật này đối với các hệ quy chiếu phi quán tính, chúng ta phải thêm vào lực quán tính. Khi đó, tổng lực bằng lực cơ bản cộng lực quán tính.
+Trong thực tế, không có hệ quy chiếu nào là hệ quy chiếu quán tính hoàn toàn. Tuy nhiên, trong nhiều trường hợp cụ thể, một hệ quy chiếu có thể coi gần đúng là hệ quy chiếu quán tính. Ví dụ, khi xét chuyển động của các vật trên bề mặt Trái đất, người ta thường xem hệ quy chiếu gắn với mặt đất như một hệ quy chiếu quán tính.
+
+
+== Định luật 2 ==
+Định luật 2 Newton được viết dưới dạng toán học như sau:
+
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                
+                  
+                    p
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}={\frac {d{\vec {p}}}{dt}}}
+  
+Với:
+
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}}
+   là tổng ngoại lực tác dụng lên vật (trong SI, lực đo bằng đơn vị N)
+
+  
+    
+      
+        
+          
+            
+              p
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {p}}}
+   là động lượng của vật (trong SI, động lượng đo bằng đơn vị kg m/s)
+t là thời gian (trong SI, thời gian đo bằng đơn vị s)
+Phương trình toán học trên đưa ra một định nghĩa cụ thể và chính xác cho khái niệm lực. Lực, trong vật lý, được định nghĩa là sự thay đổi của động lượng trong một đơn vị thời gian. Như vậy, tổng ngoại lực tác dụng lên một vật tại một thời điểm nhất định (lực tức thời) được biểu thị bởi tốc độ thay đổi động lượng của vật tại thời điểm đó. Động lượng của vật biến đổi càng nhanh khi ngoại lực tác dụng lên vật càng lớn và ngược lại.
+Ngoài việc đưa ra định nghĩa cho lực, định luật 2 Newton còn là nền tảng của định luật bảo toàn động lượng và định luật bảo toàn cơ năng. Hai định luật này có ý nghĩa quan trọng trong việc đơn giản hóa nghiên cứu về chuyển động và tương tác giữa các vật.
+
+
+=== Định luật 2 Newton trong cơ học cổ điển ===
+Trong cơ học cổ điển, khối lượng có giá trị không đổi, bất kể chuyển động của vật. Do đó, phương trình định luật 2 Newton trở thành:
+
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                
+                  
+                    p
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          
+            
+              d
+              m
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        m
+        
+          
+            
+              d
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}={\frac {d{\vec {p}}}{dt}}={\frac {dm{\vec {v}}}{dt}}=m{\frac {d{\vec {v}}}{dt}}}
+  
+
+  
+    
+      
+        
+          
+            
+              F
+              →
+            
+          
+        
+        =
+        m
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}=m{\vec {a}}}
+  
+Với:
+m là khối lượng của vật (trong SI, khối lượng đo bằng đơn vị kg)
+
+  
+    
+      
+        
+          
+            
+              a
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {a}}}
+   là gia tốc của vật (trong SI, gia tốc đo bằng đơn vị m/s2).
+Như vậy trong cơ học cổ điển, tổng ngoại lực bằng tích của khối lượng và gia tốc.
+Cũng trong cơ học cổ điển, khi không xét tới lực quán tính, định luật 2, giống như định luật 1, chỉ đúng trong hệ quy chiếu quán tính. Khi áp dụng cho hệ quy chiếu không quán tính, cần thêm vào lực quán tính.
+
+
+=== Định luật 2 Newton trong thuyết tương đối hẹp ===
+Trong thuyết tương đối hẹp, định luật 2 Newton được mở rộng để áp dụng cho liên hệ giữa lực-4 và động lượng-4 hay gia tốc-4:
+
+  
+    
+      
+        
+          F
+          
+            a
+          
+        
+        =
+        
+          
+            
+              d
+              
+                P
+                
+                  a
+                
+              
+            
+            
+              d
+              τ
+            
+          
+        
+      
+    
+    {\displaystyle F^{a}={\frac {dP^{a}}{d\tau }}}
+  
+
+  
+    
+      
+        
+          F
+          
+            a
+          
+        
+        =
+        
+          m
+          
+            0
+          
+        
+        
+          A
+          
+            a
+          
+        
+      
+    
+    {\displaystyle F^{a}=m_{0}A^{a}}
+  
+
+
+== Định luật 3 ==
+Định luật 3 Newton chỉ ra rằng lực không xuất hiện riêng lẻ mà xuất hiện theo từng cặp động lực-phản lực. Nói cách khác, lực chỉ xuất hiện khi có sự tương tác qua lại giữa hai hay nhiều vật với nhau. Cặp lực này, định luật 3 nói rõ thêm, là cặp lực trực đối. Chúng có cùng độ lớn nhưng ngược chiều nhau.
+Trong tương tác giữa hai vật A và B, nếu A tác dụng một lực 
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            A
+            B
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}_{AB}}
+   lên B, thì B cũng gây ra một lực 
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            B
+            A
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}_{BA}}
+   lên A và
+
+  
+    
+      
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            A
+            B
+          
+        
+        =
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            B
+            A
+          
+        
+      
+    
+    {\displaystyle {\vec {F}}_{AB}={\vec {F}}_{BA}}
+  .
+Hơn nữa, trong tương tác, A làm thay đổi động lượng của B bao nhiêu thì động lượng của A cũng bị thay đổi bấy nhiêu theo chiều ngược lại.
+
+
+== Xem thêm ==
+Cơ học cổ điển
+Hệ quy chiếu
+Lực quán tính
+Vận tốc
+Gia tốc
+Động lượng
+Định luật bảo toàn động lượng
+Định luật bảo toàn cơ năng
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

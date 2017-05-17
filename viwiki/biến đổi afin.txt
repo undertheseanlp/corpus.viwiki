@@ -1,0 +1,92 @@
+Trong hình học, một phép biến đổi afin hay ánh xạ afin (tiếng Latin, affinis, nghĩa là "được kết nối với") giữa hai không gian vector bao gồm một biến đổi tuyến tính đi kèm bởi một phép tịnh tiến:
+
+  
+    
+      
+        x
+        ↦
+        A
+        x
+        +
+        b
+        .
+      
+    
+    {\displaystyle x\mapsto Ax+b.}
+  
+Với hữu hạn chiều, mỗi biến đổi afin được cho bởi ma trận A và một vectơ b, hay viết dưới dạng là ma trận A kèm theo cột bổ sung b. Một biến đổi afin tương ứng với phép nhân một ma trận và cộng thêm một vectơ, và có thể hiểu đơn giản biến đổi afin tương ứng với phép nhân ma trận thông thường nếu gộp ma trận A và vectơ cột b bằng cách thêm một hàng ở cuối ma trận với chỉ toàn số 0 ngoại trừ một số 1 ở bên phải ở cột của vectơ b:
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  A
+                
+                
+                  b
+                
+              
+              
+                
+                  0..0
+                
+                
+                  1
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}A&b\\0..0&1\end{bmatrix}}}
+  
+trong khi đó, thành phần 1 thì được thêm vào đáy của các vector cột:
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  x
+                
+              
+              
+                
+                  1
+                
+              
+            
+            ]
+          
+        
+      
+    
+    {\displaystyle {\begin{bmatrix}x\\1\end{bmatrix}}}
+  
+(tọa độ đồng nhất).
+Biến đổi afin chỉ có thể đảo ngược khi và chỉ khi A là nghịch đảo được. Các biến đổi afin có thể nghịch đảo tạo thành nhóm afin, nhóm này nhận nhóm tuyến tính chung (general linear group) bậc n làm nhóm con và chính nó cũng là nhóm con của nhóm tuyến tính chung bậc n+1.
+Biến đổi tương đồng tạo thành nhóm con với A là giá trị vô hướng nhân với một ma trận trực giao. Khi và chỉ khi định thức của A là 1 hay -1 thì phép biển đổi bảo toàn diện tích; chúng cũng tạo thành một nhóm con. Kết hợp cả 2 điều kiện chúng ta có isometry, là nhóm con của cả hai khi A là ma trận trực giao.
+Mỗi nhóm này có một nhóm con các phép biến đổi mà đảm bảo bảo toàn hướng: là những cái mà khi định thức của A là dương.
+
+
+== Xem thêm ==
+Ma trận biến đổi cho một biến đổi afin
+Biểu diễn ma trận cho một phép tịnh tiến
+Nhóm afin
+Hình học afin
+Biến đổi tương đồng
+Phép chiếu 3D
+
+
+== Tham khảo ==

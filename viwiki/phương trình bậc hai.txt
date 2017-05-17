@@ -1,0 +1,1212 @@
+Trong đại số sơ cấp, phương trình bậc hai là phương trình có dạng:
+
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        +
+        c
+        =
+        0
+      
+    
+    {\displaystyle ax^{2}+bx+c=0}
+  
+với x là ẩn số chưa biết và a, b, c là các số đã biết sao cho a khác 0. Nếu a = 0 thì phương trình sẽ chuyển về dạng bậc nhất, không còn là bậc hai. Các số a, b, và c là những hệ số của phương trình và có thể phân biệt bằng cách gọi tương ứng hệ số bậc hai, hệ số bậc một, và hằng số hay số hạng tự do.
+Vì phương trình bậc hai chỉ có một ẩn nên nó được gọi là phương trình "đơn biến". Phương trình bậc hai chỉ chứa lũy thừa của x là các số tự nhiên, bởi vậy chúng là một dạng phương trình đa thức, cụ thể là phương trình đa thức bậc hai do bậc cao nhất là hai.
+Các cách giải phương trình bậc hai phổ biến là nhân tử hóa (phân tích thành nhân tử), phương pháp phần bù bình phương, sử dụng công thức nghiệm, hoặc đồ thị. Giải pháp cho các vấn đề tương tự phương trình bậc hai đã được con người biết đến từ năm 2000 trước Công Nguyên.
+
+
+== Giải phương trình bậc hai ==
+
+Một phương trình bậc hai với các hệ số thực hoặc phức có hai đáp số, gọi là các nghiệm. Hai nghiệm này có thế phân biệt hoặc không, và có thể là thực hoặc không.
+
+
+=== Phân tích thành nhân tử bằng cách kiểm tra ===
+Phương trình bậc hai ax2 + bx + c = 0 có thể viết được thành (px + q)(rx + s) = 0. Trong một vài trường hợp, điều này có thể thực hiện bằng một bước xem xét đơn giản để xác định các giá trị p, q, r, và s sao cho phù hợp với phương trình đầu. Sau khi đã viết được thành dạng này thì phương trình bậc hai sẽ thỏa mãn nếu px + q = 0 hoặc rx + s = 0. Giải hai phương trình bậc nhất này ta sẽ tìm ra được nghiệm.
+Với hầu hết học sinh, phân tích thành nhân tử bằng cách kiểm tra là phương pháp giải phương trình bậc hai đầu tiên mà họ được tiếp cận. Nếu phương trình bậc hai ở dạng x2 + bx + c = 0 (a = 1) thì có thể tìm cách phân tích vế trái thành (x + q)(x + s), trong đó q và s có tổng là b và tích là c (đây đôi khi được gọi là "quy tắc Viet") Ví dụ, x2 + 5x + 6 viết thành (x + 3)(x + 2). Trường hợp tổng quát hơn khi a ≠ 1 đòi hỏi nỗ lực lớn hơn trong việc đoán, thử và kiểm tra; giả định rằng hoàn toàn có thể làm được như vậy.
+Trừ những trường hợp đặc biệt như khi b = 0 hay c = 0, phân tích bằng kiểm tra chỉ thực hiện được đối với những phương trình bậc hai có nghiệm hữu tỉ. Điều này có nghĩa là đa phần các phương trình bậc hai phát sinh trong ứng dụng thực tiễn không thể giải được bằng phương pháp này.
+
+
+=== Phần bù bình phương ===
+
+Trong quá trình hoàn thành bình phương ta sử dụng hằng đẳng thức:
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        2
+        h
+        x
+        +
+        
+          h
+          
+            2
+          
+        
+        =
+        (
+        x
+        +
+        h
+        
+          )
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle x^{2}+2hx+h^{2}=(x+h)^{2},}
+  
+một thuật toán rạch ròi có thể áp dụng để giải bất kỳ phương trình bậc hai nào. Bắt đầu với phương trình bậc hai dạng tổng quát ax2 + bx + c = 0
+Chia hai vế cho a, hệ số của ẩn bình phương.
+Trừ c/a mỗi vế.
+Thêm bình phương của một nửa b/a, hệ số của x, vào hai vế, vế trái sẽ trở thành bình phương đầy đủ.
+Viết vế trái thành bình phương của một tổng và đơn giản hóa vế phải nếu cần thiết.
+Khai căn hai vế thu được hai phương trình bậc nhất.
+Giải hai phương trình bậc nhất.
+Tiếp theo là ví dụ minh họa việc sử dụng thuật toán này. Giải phương trình 2x2 + 4x − 4 = 0
+
+  
+    
+      
+        1
+        )
+         
+        
+          x
+          
+            2
+          
+        
+        +
+        2
+        x
+        −
+        2
+        =
+        0
+      
+    
+    {\displaystyle 1)\ x^{2}+2x-2=0}
+  
+
+  
+    
+      
+        2
+        )
+         
+        
+          x
+          
+            2
+          
+        
+        +
+        2
+        x
+        =
+        2
+      
+    
+    {\displaystyle 2)\ x^{2}+2x=2}
+  
+
+  
+    
+      
+        3
+        )
+         
+        
+          x
+          
+            2
+          
+        
+        +
+        2
+        x
+        +
+        1
+        =
+        2
+        +
+        1
+      
+    
+    {\displaystyle 3)\ x^{2}+2x+1=2+1}
+  
+
+  
+    
+      
+        4
+        )
+         
+        
+          
+            (
+            x
+            +
+            1
+            )
+          
+          
+            2
+          
+        
+        =
+        3
+      
+    
+    {\displaystyle 4)\ \left(x+1\right)^{2}=3}
+  
+
+  
+    
+      
+        5
+        )
+         
+        x
+        +
+        1
+        =
+        ±
+        
+          
+            3
+          
+        
+      
+    
+    {\displaystyle 5)\ x+1=\pm {\sqrt {3}}}
+  
+
+  
+    
+      
+        6
+        )
+         
+        x
+        =
+        −
+        1
+        ±
+        
+          
+            3
+          
+        
+      
+    
+    {\displaystyle 6)\ x=-1\pm {\sqrt {3}}}
+  
+Dấu cộng-trừ "±" biểu thị rằng cả x = −1 + √3 và x = −1 − √3 đều là nghiệm của phương trình.
+
+
+=== Công thức nghiệm ===
+
+Có thể áp dụng phương pháp phần bù bình phương để rút ra một công thức tổng quát cho việc giải phương trình bậc hai, được gọi là công thức nghiệm của phương trình bậc hai. Giờ là phần chứng minh tóm tắt. Bằng khai triển đa thức, dễ thấy phương trình dưới đây tương đương với phương trình đầu:
+
+  
+    
+      
+        
+          
+            (
+            x
+            +
+            
+              
+                b
+                
+                  2
+                  a
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        =
+        
+          
+            
+              
+                b
+                
+                  2
+                
+              
+              −
+              4
+              a
+              c
+            
+            
+              4
+              
+                a
+                
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \left(x+{\frac {b}{2a}}\right)^{2}={\frac {b^{2}-4ac}{4a^{2}}}.}
+  
+Lấy căn bậc hai của hai vế rồi chuyển x về một bên, ta được:
+
+  
+    
+      
+        x
+        =
+        
+          
+            
+              −
+              b
+              ±
+              
+                
+                  
+                    b
+                    
+                      2
+                    
+                  
+                  −
+                  4
+                  a
+                  c
+                   
+                
+              
+            
+            
+              2
+              a
+            
+          
+        
+        .
+      
+    
+    {\displaystyle x={\frac {-b\pm {\sqrt {b^{2}-4ac\ }}}{2a}}.}
+  
+Một số nguồn tài liệu, đặc biệt là tài liệu cũ, sử dụng tham số hóa phương trình bậc hai thay thế như ax2 + 2bx + c = 0 hoặc ax2 − 2bx + c = 0 , ở đây b có độ lớn bằng một nửa và có thể mang dấu ngược lại. Các dạng nghiệm là hơi khác, còn lại thì tương đương.
+Còn một số cách rút ra công thức nghiệm có thể tìm thấy trong tài liệu. Các cách chứng minh này là đơn giản hơn phương pháp phần bù bình phương tiêu chuẩn.
+Một công thức ít phổ biến hơn, như dùng trong phương pháp Muller và có thể tìm được từ công thức Viet:
+
+  
+    
+      
+        x
+        =
+        
+          
+            
+              −
+              2
+              c
+            
+            
+              b
+              ±
+              
+                
+                  
+                    b
+                    
+                      2
+                    
+                  
+                  −
+                  4
+                  a
+                  c
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle x={\frac {-2c}{b\pm {\sqrt {b^{2}-4ac}}}}.}
+  
+Một tính chất của công thức này là khi a = 0 nó sẽ cho ra một nghiệm hợp lệ, trong khi nghiệm còn lại có chứa phép chia cho 0, bởi khi a = 0 thì phương trình bậc hai sẽ chuyển về bậc nhất có một nghiệm. Ngược lại, công thức phổ biến chứa phép chia cho 0 ở cả hai trường hợp.
+
+
+=== Phương trình bậc hai rút gọn ===
+Việc rút gọn phương trình bậc hai để cho hệ số lớn nhất bằng một đôi khi là tiện lợi. Cách làm là chia cả hai vế cho a, điều này luôn thực hiện được bởi a khác 0, ta được phương trình bậc hai rút gọn:
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        p
+        x
+        +
+        q
+        =
+        0
+        ,
+      
+    
+    {\displaystyle x^{2}+px+q=0,}
+  
+trong đó p = b/a và q = c/a. Công thức nghiệm của phương trình này là:
+
+  
+    
+      
+        x
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          (
+          −
+          p
+          ±
+          
+            
+              
+                p
+                
+                  2
+                
+              
+              −
+              4
+              q
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle x={\frac {1}{2}}\left(-p\pm {\sqrt {p^{2}-4q}}\right).}
+  
+
+
+=== Biệt thức ===
+
+Trong công thức nghiệm của phương trình bậc hai, biểu thức dưới dấu căn được gọi là biệt thức và thường được biểu diễn bằng chữ D hoa hoặc chữ delta hoa (Δ) trong bảng chữ cái Hy Lạp:
+
+  
+    
+      
+        Δ
+        =
+        
+          b
+          
+            2
+          
+        
+        −
+        4
+        a
+        c
+        .
+      
+    
+    {\displaystyle \Delta =b^{2}-4ac.}
+  
+Phương trình bậc hai với các hệ số thực có thể có một hoặc hai nghiệm thực phân biệt, hoặc hai nghiệm phức phân biệt. Trong trường hợp này biệt thức quyết định số lượng và bản chất của nghiệm. Có ba trường hợp:
+Nếu Δ dương (Δ > 0), phương trình có hai nghiệm phân biệt:
+
+  
+    
+      
+        
+          
+            
+              −
+              b
+              +
+              
+                
+                  Δ
+                
+              
+            
+            
+              2
+              a
+            
+          
+        
+        
+        
+          và
+        
+        
+        
+          
+            
+              −
+              b
+              −
+              
+                
+                  Δ
+                
+              
+            
+            
+              2
+              a
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle {\frac {-b+{\sqrt {\Delta }}}{2a}}\quad {\text{và}}\quad {\frac {-b-{\sqrt {\Delta }}}{2a}},}
+  
+
+cả hai đều là nghiệm thực. Đối với những phương trình bậc hai có hệ số hữu tỉ, nếu Δ là một số chính phương thì nghiệm là hữu tỉ; còn với những trường hợp khác chúng có thể là các số vô tỉ.
+Nếu Δ = 0, phương trình có một nghiệm thực:
+
+  
+    
+      
+        −
+        
+          
+            b
+            
+              2
+              a
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle -{\frac {b}{2a}},}
+  
+
+hay đôi khi còn gọi là nghiệm kép.
+Nếu Δ âm (Δ < 0), phương trình không có nghiệm thực, thay vào đó là hai nghiệm phức phân biệt
+
+  
+    
+      
+        
+          
+            
+              −
+              b
+            
+            
+              2
+              a
+            
+          
+        
+        +
+        i
+        
+          
+            
+              −
+              Δ
+            
+            
+              2
+              a
+            
+          
+        
+        
+        
+          và
+        
+        
+        
+          
+            
+              −
+              b
+            
+            
+              2
+              a
+            
+          
+        
+        −
+        i
+        
+          
+            
+              −
+              Δ
+            
+            
+              2
+              a
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {-b}{2a}}+i{\frac {\sqrt {-\Delta }}{2a}}\quad {\text{và}}\quad {\frac {-b}{2a}}-i{\frac {\sqrt {-\Delta }}{2a}}}
+  
+
+là những số phức liên hợp, còn i là đơn vị ảo.
+Vậy phương trình có nghiệm phân biệt khi và chỉ khi Δ khác 0, có nghiệm thực khi và chỉ khi Δ không âm (Δ ≥ 0) .
+
+
+=== Diễn giải bằng hình học ===
+Hàm số f(x) = ax2 + bx + c là hàm số bậc hai. Đồ thị của bất kỳ hàm bậc hai nào cũng đều có một dạng chung được gọi là parabol. Vị trí, hình dạng, kích cỡ của parabol phụ thuộc vào giá trị của a, b, và c. Nếu a > 0, prabol có một điểm cực tiểu và bề lõm hướng lên trên; nếu a < 0, parabol có một điểm cực đại và bề lõm hướng xuống dưới (xem hình 1, a). Cực điểm của parabol ứng với đỉnh của nó; điểm này có hoành độ 
+  
+    
+      
+        
+          x
+          =
+          
+            
+              
+                
+                  −
+                  b
+                
+                
+                  2
+                  a
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle x={\tfrac {-b}{2a}}}
+  , tính x rồi thế vào hàm số ta sẽ tìm được giá trị tung độ. Đồ thị giao trục tung tại điểm có tọa độ (0, c).
+Các nghiệm của phương trình bậc hai ax2 + bx + c = 0 tương ứng là các nghiệm của hàm số f(x) = ax2 + bx + c bởi chúng là những giá trị của x để cho f(x) = 0. Nếu a, b, và c là những số thực và miền xác định của hàm f là tập hợp số thực thì nghiệm của f là hoành độ của giao/tiếp điểm của đồ thị với trục hoành (xem hình 3).
+
+
+=== Nhân tử hóa đa thức bậc hai ===
+Biểu thức
+
+  
+    
+      
+        x
+        −
+        r
+      
+    
+    {\displaystyle x-r}
+  
+là nhân tử của đa thức
+
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        +
+        c
+      
+    
+    {\displaystyle ax^{2}+bx+c}
+  
+khi và chỉ khi r là một nghiệm của phương trình bậc hai
+
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        +
+        c
+        =
+        0.
+      
+    
+    {\displaystyle ax^{2}+bx+c=0.}
+  
+Từ công thức nghiệm ta có
+
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        +
+        c
+        =
+        a
+        
+          (
+          x
+          −
+          
+            
+              
+                −
+                b
+                +
+                
+                  
+                    
+                      b
+                      
+                        2
+                      
+                    
+                    −
+                    4
+                    a
+                    c
+                  
+                
+              
+              
+                2
+                a
+              
+            
+          
+          )
+        
+        
+          (
+          x
+          −
+          
+            
+              
+                −
+                b
+                −
+                
+                  
+                    
+                      b
+                      
+                        2
+                      
+                    
+                    −
+                    4
+                    a
+                    c
+                  
+                
+              
+              
+                2
+                a
+              
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle ax^{2}+bx+c=a\left(x-{\frac {-b+{\sqrt {b^{2}-4ac}}}{2a}}\right)\left(x-{\frac {-b-{\sqrt {b^{2}-4ac}}}{2a}}\right).}
+  
+Trong trường hợp đặc biệt b2 = 4ac (hay Δ = 0) phương trình chỉ có một nghiệm phân biệt, có thể nhân tử hóa đa thức bậc hai thành
+
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        +
+        c
+        =
+        a
+        
+          
+            (
+            x
+            +
+            
+              
+                b
+                
+                  2
+                  a
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+        .
+      
+    
+    {\displaystyle ax^{2}+bx+c=a\left(x+{\frac {b}{2a}}\right)^{2}.}
+  
+
+
+== Lịch sử ==
+Ngay từ năm 2000 trước Công Nguyên, các nhà toán học Babylon đã có thể giải những bài toán liên quan đến diện tích và các cạnh của hình chữ nhật. Có bằng chứng chỉ ra thuật toán này xuất hiện từ triều đại Ur thứ ba. Theo ký hiệu hiện đại, các bài toán này thường liên quan đến việc giải hệ gồm hai phương trình:
+
+  
+    
+      
+        x
+        +
+        y
+        =
+        p
+        ,
+         
+         
+        x
+        y
+        =
+        q
+      
+    
+    {\displaystyle x+y=p,\ \ xy=q}
+  
+tương đương với phương trình:
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        +
+        q
+        =
+        p
+        x
+      
+    
+    {\displaystyle x^{2}+q=px}
+  
+Các bước giải được người Babylon đưa ra như sau:
+Tính p/2.
+Bình phương kết quả tìm được.
+Trừ đi q.
+Tính căn bậc hai bằng bảng căn bậc hai.
+Cộng kết quả của bước (1) và (4) để tìm x. Điều này về cơ bản là tương đương với việc tính 
+  
+    
+      
+        x
+        =
+        
+          
+            p
+            2
+          
+        
+        +
+        
+          
+            
+              
+                (
+                
+                  
+                    p
+                    2
+                  
+                
+                )
+              
+              
+                2
+              
+            
+            −
+            q
+          
+        
+      
+    
+    {\displaystyle x={\frac {p}{2}}+{\sqrt {\left({\frac {p}{2}}\right)^{2}-q}}}
+  
+Ở Babylon, Ai Cập, Hy Lạp, Trung Quốc, và Ấn Độ, phương pháp hình học được sử dụng để giải phương trình bậc hai. Tài liệu Berlin Papyrus của người Ai Cập có từ thời Trung vương quốc (từ năm 2050 đến 1650 trước CN) có chứa lời giải của phương trình bậc hai hai số hạng. Trong nguyên bản kinh Sulba Sutras, khoảng thế kỷ 8 trước CN, phương trình bậc hai dạng ax2 = c và ax2 + bx = c được khảo sát bằng phương pháp hình học. Các nhà toán học Babylon từ khoản năm 400 trước CN và các nhà toán học Trung Quốc từ khoảng năm 200 trước CN đã sử dụng phương pháp phân chia hình học để giải các phương trình bậc hai với nghiệm dương. Cuốn Cửu chương toán thuật của người Trung Quốc có ghi những quy tắc của phương trình bậc hai. Trong những phương pháp hình học thuở đầu này không xuất hiện một công thức tổng quát. Tới khoảng năm 300 trước CN, nhà toán học Hy Lạp Euclid đã cho ra một phương pháp hình học trừu tượng hơn. Với cách tiếp cận hoàn toàn bằng hình học, Pythagoras và Euclid đã tạo dựng một phương pháp tổng quan để tìm nghiệm của phương trình bậc hai. Trong tác phẩm Arithmetica của mình, nhà toán học Hy Lạp Diophantus đã giải phương trình bậc hai, tuy nhiên chỉ cho ra một nghiệm, kể cả khi cả hai nghiệm đều là dương.
+Vào năm 628 CN, Brahmagupta, một nhà toán học Ấn Độ đưa ra lời giải rõ ràng đầu tiên (dù vẫn chưa hoàn toàn tổng quát) cho phương trình bậc hai ax2 + bx = c như sau: "Nhân số tuyệt đối (c) với bốn lần hệ số bình phương, cộng với bình phương hệ số số hạng ở giữa; căn bậc hai toàn bộ, trừ đi hệ số số hạng ở giữa, rồi chia cho hai lần hệ số bình phương là giá trị." (Brahmasphutasiddhanta, Colebrook translation, 1817, tr 346) Điều này tương đương:
+
+  
+    
+      
+        x
+        =
+        
+          
+            
+              
+                
+                  4
+                  a
+                  c
+                  +
+                  
+                    b
+                    
+                      2
+                    
+                  
+                
+              
+              −
+              b
+            
+            
+              2
+              a
+            
+          
+        
+        .
+      
+    
+    {\displaystyle x={\frac {{\sqrt {4ac+b^{2}}}-b}{2a}}.}
+  
+Thủ bản Bakhshali ra đời ở Ấn Độ vào thế kỷ 7 CN có chứa một công thức đại số cho việc giải phương trình bậc hai, cũng như những phương trình vô định. Muhammad ibn Musa al-Khwarizmi đi xa hơn trong việc cung cấp một lời giải đầy đủ cho phương trình bậc hai dạng tổng quát, ông cũng đã mô tả phương pháp phần bù bình phương và thừa nhận rằng biệt thức phải dương, điều đã được 'Abd al-Hamīd ibn Turk (Trung Á, thế kỷ 9) chứng minh. Turk là người đưa ra những biểu đồ hình học chứng minh rằng nếu biệt thức âm thì phương trình bậc hai vô nghiệm. Trong khi bản thân al-Khwarizmi không chấp nhận nghiệm âm, các nhà toán học Hồi giáo kế tục ông sau này đã chấp nhận nghiệm âm cũng như nghiệm vô tỉ. Cá biệt Abū Kāmil Shujā ibn Aslam (Ai Cập, thế kỷ 10) là người đầu tiên chấp nhận các số vô tỉ (thường ở dạng căn bậc hai, căn bậc ba hay căn bậc bốn) là nghiệm hay là hệ số của phương trình bậc hai. Nhà toán học Ấn Độ thế kỷ thứ 9 Sridhara đã viết ra các quy tắc giải phương trình bậc hai.
+Nhà toán học người Do Thái Abraham bar Hiyya Ha-Nasi (thế kỷ 12, Tây Ban Nha) là tác giả cuốn sách đầu tiên của người châu Âu có chứa lời giải đầy đủ cho phương trình bậc hai dạng tổng quát. Giải pháp của Ha-Nasi dựa nhiều vào tác phẩm của Al-Khwarizmi. Lần đầu tiên hệ số âm của 'x' xuất hiện trong tác phẩm của nhà toán học người Trung Quốc Yang Hui (1238–1298 CN), dù vậy ông cho điều này là từ nhà toán học Liu Yi ở thời trước đó. Vào năm 1545 Gerolamo Cardano biên soạn các tác phẩm liên quan đến phương trình bậc hai. Công thức nghiệm cho mọi trường hợp lần đầu đạt được bởi Simon Stevin vào năm 1594. Năm 1637 René Descartes công bố tác phẩm La Géométrie trong đó có chứa công thức nghiệm mà chúng ta biết ngày nay. Lời giải tổng quát xuất hiện lần đầu trong tài liệu toán học hiện đại vào năm 1896, bởi Henry Heaton.
+
+
+== Công thức Viète ==
+Công thức Viète cho ta thấy quan hệ đơn giản giữa các nghiệm của đa thức với các hệ số của nó. Trong trường hợp phương trình bậc hai một ẩn, chúng được phát biểu như sau:
+Nếu 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+      
+    
+    {\displaystyle x_{1}}
+   và 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+      
+    
+    {\displaystyle x_{2}}
+   là hai nghiệm của phương trình 
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        x
+        +
+        c
+        =
+        0
+        
+        (
+        a
+        ≠
+        0
+        )
+      
+    
+    {\displaystyle ax^{2}+bx+c=0\,(a\neq 0)}
+   thì: 
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  
+                    x
+                    
+                      1
+                    
+                  
+                  +
+                  
+                    x
+                    
+                      2
+                    
+                  
+                  =
+                  S
+                  =
+                  −
+                  
+                    
+                      b
+                      a
+                    
+                  
+                
+              
+              
+                
+              
+              
+                
+                  
+                    x
+                    
+                      1
+                    
+                  
+                  
+                    x
+                    
+                      2
+                    
+                  
+                  =
+                  P
+                  =
+                  
+                    
+                      c
+                      a
+                    
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}x_{1}+x_{2}=S=-{\frac {b}{a}}\\\\x_{1}x_{2}=P={\frac {c}{a}}\\\end{cases}}}
+  
+
+
+== Các trường hợp nhận biết đặc biệt ==
+Khi phương trình bậc hai đã cho có dấu hiệu sau:
+
+  
+    
+      
+        a
+        +
+        b
+        +
+        c
+        =
+        0
+      
+    
+    {\displaystyle a+b+c=0}
+   (với a,b và c là các hệ số của phương trình bậc 2, a khác 0) thì lúc đó nghiệm của phương trình là: 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        =
+        1
+        ;
+        
+        
+          x
+          
+            2
+          
+        
+        =
+        
+          
+            c
+            a
+          
+        
+      
+    
+    {\displaystyle x_{1}=1;\,x_{2}={\frac {c}{a}}}
+  .
+
+  
+    
+      
+        a
+        −
+        b
+        +
+        c
+        =
+        0
+      
+    
+    {\displaystyle a-b+c=0}
+   (với a,b và c là các hệ số của phương trình bậc 2, a khác 0) thì lúc đó nghiệm của phương trình là: 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        =
+        −
+        1
+        ;
+        
+        
+          x
+          
+            2
+          
+        
+        =
+        −
+        
+          
+            c
+            a
+          
+        
+      
+    
+    {\displaystyle x_{1}=-1;\,x_{2}=-{\frac {c}{a}}}
+  
+Nếu 
+  
+    
+      
+        a
+        c
+        <
+        0
+      
+    
+    {\displaystyle ac<0}
+   (tức a và c trái dấu nhau) thì phương trình luôn luôn có 2 nghiệm phân biệt.
+
+
+== Chủ đề liên quan ==
+Phương trình
+Phương trình tuyến tính
+Phương trình bậc ba
+Phương trình bậc bốn
+Phương trình bậc năm
+Lý thuyết cơ bản của đại số
+Hàm số bậc hai
+Đường cong bậc hai
+Mặt bậc hai
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Quadratic Equation Solver
+Solve Quadratic equations, see work shown and draw graphs
+Bài giảng về mặt bậc hai trong không gian

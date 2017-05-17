@@ -1,0 +1,20 @@
+Hàng rào điện tử McNamara là tên gọi cho hệ thống các phương tiện điện tử phát hiện thâm nhập được quân đội Mỹ sử dụng dọc theo khu phi quân sự ở Vĩ tuyến 17 và đường mòn Hồ Chí Minh như một biện pháp trinh sát mặt đất tự động nhằm phát hiện các hoạt động vận chuyển của Quân đội Nhân dân Việt Nam lưu thông qua khu vực này trong thời kỳ chiến tranh Việt Nam. Tuy nhiên, công trình này đã xem như bị phá sản từ sau năm 1968, sau khi Quân đội Nhân dân Việt Nam mở cuộc Tổng tiến công Mậu Thân và cuộc tấn công căn cứ Khe Sanh.
+Hàng rào điện tử McNamara được quyết định xây dựng từ tháng 6 năm 1966 dưới sự chỉ đạo trực tiếp của bộ trưởng quốc phòng Mĩ Robert McNamara, bao gồm hệ thống 17 căn cứ quân sự, kết hợp với hệ thống vật cản (hàng rào dây thép gai, bãi mìn...), các thiết bị trinh sát điện tử mặt đất và trên không (rađa, máy cảm ứng âm thanh, cảm ứng địa chấn...), được bố trí liên hoàn trong khu vực có chiều rộng 10–20 km, dài khoảng 100 km từ cảng Cửa Việt lên đường 9, tới biên giới Việt Nam – Lào, sang Mường Phìn (Lào). Công trình tiêu tốn 2 tỉ Mỹ kim (tương đương 12 tỷ USD theo thời giá 2015) dù trước khi khởi công, McNamara chỉ ước tính tốn kém khoảng 1 tỷ Mỹ kim.
+Các máy phát hiện thâm nhập thường theo nguyên lý phát hiện địa chấn, vì vậy chúng có tên gọi kết thúc bằng 3 chữ SID (Seismic Intrusion Detector). Các máy này dùng để phát hiện thâm nhập bằng đường bộ. Loại máy được biết đến nhiều nhất, thường được gọi là "cây nhiệt đới" (ADSID hay Air Delivered Seismic Intrusion Detector), được thả từ trên máy bay để đầu nhọn có cảm biến địa chấn cắm vào trong đất. Phần thấy được còn lại trên mặt đất là ăng-ten. Có loại máy phát hiện địa chấn có kèm thêm bộ phận thu truyền âm thanh để trạm trinh sát kiểm tra đối tượng gây địa chấn là người hay xe vận tải (ACOUSID).
+Ngoài các máy phát hiện địa chấn thả từ máy bay còn có các máy có tính năng tương tự do binh lính triển khai, thường dùng trong các hoạt động chiến thuật phục vụ canh phòng hay phục kích (GSID hay Ground Seismic Intrusion Detector, PSID hay Patrol Seismic Intrusion Detector và HANDSID).
+Ở các vùng bùn nước nhiều, không thể dùng máy phát hiện địa chấn, quân đội Mỹ dùng máy phát hiện thâm nhập EMID (Electro-Magnetic Intrusion Detector) hoạt động theo nguyên tắc phát hiện nhiễu loạn cường độ sóng phản xạ. Tuy nhiên trên thực tế hầu như người ta không phát hiện thấy sử dụng loại máy này.
+Cùng với các máy phát hiện, hệ thống còn có các máy thu (hiển thị kết quả phát hiện) xách tay dùng cho các hoạt động chiến thuật, các trạm chuyển tiếp sóng vô tuyến điện có và không người trông coi, các trạm thu ghi và phân tích kết quả phát hiện để có tin tình báo cấp chiến trường.
+Sau khi việc xây dựng Hàng rào McNamara bị huỷ bỏ, một kế hoạch mới cũng sử dụng đến các thiết bị điện tử - Chiến dịch Igloo White - đã được tiến hành. Theo tài liệu tham khảo thì trong khoảng thời gian của chương trình Igloo White, từ 1968 đến 1971, Mỹ đã chi 1,7 tỷ đô-la cho mạng lưới 20.000 máy phát hiện rải trên đường mòn HCM ở Lào. Một Trung tâm Cảnh giới Xâm nhập (ISC hay Infiltration Surveillance Center) đặt tại căn cứ không quân Mỹ tại Nakhon Phanom, Thái Lan với diện tích 18.500 mét vuông, được trang bị máy tính IBM 360-65 thuộc loại hiện đại nhất khi đó làm nhiệm vụ thu nhận, lưu trữ và xử lý dữ liệu nhận được từ các máy phát hiện.
+Khi quân đội Mỹ rút khỏi chiến tranh Việt Nam, thực hiện Hiệp định Paris 1973, hệ thống các phương tiện phát hiện thâm nhập đang có trong lãnh thổ Việt Nam được chuyển giao cho quân đội Sài Gòn.
+
+
+== Tham khảo ==
+Special Operations Forces and Elusive Enemy Ground Targets: Lessons from Vietnam and the Persian Gulf War, William Rosenau, ISBN 0-8330-3071-X, MR-1408-AF, © 2001. [1]
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+The McNamara Line
+http://home.att.net/~c.jeppeson/igloo_white.html

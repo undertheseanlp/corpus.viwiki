@@ -1,0 +1,34 @@
+Process Explorer is a phần mềm miễn phí cho Microsoft Windows do Sysinternals tạo ra, và được tập đoàn Microsoft mua lại.
+Process Explorer là tiện ích theo dõi và kiểm tra hệ thống, có thể sử dụng như một công cụ gỡ rối cho các phần mềm cũng như các vấn đề phát sinh của hệ thống. Có thể dùng như một tiện ích thay thế task manager của Windows.
+Process Explorer có thể được sử dụng để theo dõi về các vấn đề. Ví dụ như, xem tiến trình nào đang chạy, theo dõi những tệp tin đang được mở bởi các chương trình, hiện dòng lệnh đã được sử dụng để khởi động chương trình. Nó cũng được dùng như Task Manager để quản lý tài khoản từng chương trình chiếm dụng, thiết lập mức độ ưu tiên của từng tiến trình,v.v...
+Process Explorer là một trong những tiện ích quản lý vào theo dõi hệ thống sẵn dùng tại Microsoft Sysinternals website.
+Hiện nay Process Explorer làm việc trên Windows 9x/Me, Windows NT 4.0, Windows 2000, Windows XP, Windows Server 2003, Windows Vista, Windows 7 bao gồm cả các phiên bản 64-bit.
+
+
+== Chức năng ==
+Xem các quá trình theo cấu trúc cây.
+Có khả năng hiện biểu tượng và tên nhà sản xuất của từng quá trình.
+Có khả năng tạm dừng/tiếp tục một quá trình.
+Diệt một cây quá trình.
+Tìm kiếm dll, tài nguyên đang bị chiếm giữ, giải phóng tài nguyên bị chiếm giử.
+Đặt mức độ ưu tiên cho các tiến trình
+Đồ thị trạng thái ở khay hệ thống
+Khởi chạy các tiến trình với quyền hạn chế/ nâng cao.
+
+
+== Xem thêm ==
+Process Monitor
+Tập tinMon
+RegMon
+Windows Task Manager
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Sysinternals Suite Bộ công cụ Sysinternals.
+Process Explorer Official Webpage Microsoft Retrieved on ngày 29 tháng 12 năm 2008
+Using Process Explorer to tame svchost.exe - Advanced topics ngày 9 tháng 2 năm 2008
+Process Explorer Part 2 ngày 10 tháng 2 năm 2008
+Process Explorer Guide for Newbies ngày 27 tháng 2 năm 2009

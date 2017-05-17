@@ -1,0 +1,125 @@
+Trong sinh học, lão hóa (tiếng Anh: senescence, xuất phát từ senex trong tiếng Latin có nghĩa là "người già", "tuổi già") là trạng thái hay quá trình tạo nên tuổi tác, già nua.
+Lão hóa tế bào là một hiện tượng khi các tế bào phân lập trở nên hạn chế khả năng phân chia trong môi trường nuôi cấy. Lão hóa cơ thể đề cập đến quá trình trưởng thành và già nua của sinh vật. Những quá trình này không liên quan đến cơ chế apoptosis (chết tế bào theo chương trình).
+
+Tuổi già của sinh vật thường kèm theo biểu hiện giảm khả năng chống chọi với stress, mất dần cân bằng nội môi và tăng nguy cơ mắc bệnh tật. Do đó, cái chết là một kết cục cuối cùng của lão hóa. Một số nhà khoa học trong lĩnh vực biogerontology cho rằng tuổi già bản thân nó là một loại bệnh và có thể cứu chữa được, mặc dù đây là một vấn đề đang tranh cãi.
+Người ta đã xác định một số yếu tố di truyền và môi trường tác động đến quá trình lão hóa ở các sinh vật mô hình, điều này đem lại hy vọng có thế làm chậm, giữ hoặc phục hồi lại sự lão hóa ở con người. Ví dụ, chế độ ăn kiêng (khoảng 30% nhu cầu thường nhật) đã kéo dài tuổi thọ của nấm men, sâu, ruồi, chuột và khỉ. Một vài gene cần thiết cho quá trình này đã được xác định và việc sửa đổi các gene này cũng đem lại tác dụng như ăn kiêng. Chất Resveratrol, một loại polyphenol có trong rượu vang đỏ cũng cho thấy khả năng kéo dài tuổi thọ của nấm men, sâu và ruồi. Khói thuốc lá là một yếu tố thúc đẩy sự lão hóa, những người hút thuốc thường già nhanh hơn những người không hút.
+
+
+== Giả thuyết về quá trình lão hóa ==
+Nguyên nhân gây lão hóa được giải thích bằng nhiều thuyết khác nhau: thuyết di truyền, thuyết gốc tự do,... Ngoài ra, hiện tượng lão hóa có liên quan đến đột biến gen còn gây hội chứng già trước tuổi hay liên quan đến tuổi thọ con người. Quá trình lão hóa diễn ra ở mọi cơ quan trong cơ thể và gây ra những hậu quả rất nghiêm trọng. Tuy nhiên nếu thực hiện tích cực một số biện pháp, chúng ta có thể trì hoãn quá trình lão hóa. Tại các nước tiên tiến như Nhật Bản, các kiến thức về sự lão hóa được phổ biến rộng rãi cho người dân và các biện pháp này đã giúp cho tuổi thọ của người Nhật kéo dài đến 86 tuổi. Ở Hàn Quốc, các dược thảo chống lão hóa như nhân sâm, dinh dưỡng, thuốc bổ dưỡng, thể dục, các yếu tố gây ra lão hóa... được phổ cập cho người dân và đã giúp kéo dài tuổi thọ đến 78,5 tuổi. Các danh nhân Hy Lạp có các nhân tố di truyền tốt hầu hết đều có tuổi thọ rất cao, Pythagoras sống gần 80 tuổi, Sophocles thọ gần 90 tuổi. Triết gia nổi tiếng như Gorgias 107 tuổi, Democritus 90 tuổi, Platon 80 tuổi, Diogenes thành Sinope 89 tuổi, Cleanthes 99 tuổi.
+Ở Việt Nam, lão hóa là một trong những vấn đề đang rất được quan tâm, tuy nhiên tài liệu và thông tin về lão hóa còn rất giới hạn.
+
+
+=== Thuyết di truyền ===
+Thuyết di truyền có lẽ là thuyết khoa học nhất. Theo thuyết này thì con người có sẵn trong các tế bào của mình một chương trình – mang trong các "gen". Các gen hoạt động theo thứ tự, bất di bất dịch: sinh, lão, bệnh, tử.
+Các tế bào soma của người bình thường đều có một đời sống có giới hạn. Thông thường tế bào chết đi sau 40-60 chu kì sao chép. Thời gian sống của mỗi tế bào được quyết định về di truyền học bởi hai hệ thống độc lập với nhau.
+1.Hệ thống kiểm soát đời sống tế bào nhờ quà trình làm hao mòn các telomere ở các đầu tận cùng nhiễm sắc thể:
+Ở động vật có vú, các đầu tận nhiễm sắc thể được bảo vệ bằng các telomere (theo tiếng Hy Lạp, telo có nghĩa là cuối, còn mere là phần), tức là những cấu trúc đặc biệt được hình thành bởi các chuỗi TTAGGG lặp lại kế tiếp nhau. Ở người các chuỗi lặp lại của telomere có từ 5000 đến 15000 base. Telomere có nhiệm vụ bảo đảm sự bền vững của nhiễm sắc thể, chống lại thoái hóa có hại, chống lại sự tái tổ hợp sai lạc và có vai trò điều hòa gen.
+Mỗi lần phân chia, các nhiễm sắc thể đều mất một số lượng nhỏ ADN của telomere, khoảng chừng 50-100 base. Khi các telomere trở nên quá ngắn thì các nhiễm sắc thể sẽ kém bền vững, chúng không thể bám vào được màng nhân tế bào, bị dính vào nhau và có hình dạng kì dị. Hậu quả là các tế bào không thể phân chia được nữa. Các nhà nghiên cứu đang bắt đầu đánh giá kích thước của telomere như một " thước đo" chuẩn xác tuổi thọ của các tế bào. Tuy nhiên enzym telomerase hoạt động ở tế bào mầm và tế bào ung thư, giúp cho tế bào phân chia liên tục bằng cách kéo dài các chuỗi ADN của telomere, khiến cho tế bào trở nên "bất tử".
+Cấu tạo của telomerase: telomerase của người gồm 2 tiểu đơn vị là hTR và hTERT. hTR (human template for replication) là ARN làm khuôn để sao chép, hTERT (human telomerase reverse trancriptase) là protein xúc tác sự polymer hóa nucleotid. Thành phần ARN của telomerase người có chừng 445 nucleotid, trong đó các nucleotid 46-56 là vị trí gắn vào đầu cùng của telomere, và đó là khuôn để từ đó thêm vào các ADN của telomere. Trong việc kéo dài telomere, đầu tiên telomerase sẽ nhận dạng đầu cùng của telomere thông qua các hoạt động giữa telomere và cả 2 tiểu đơn vị hTR và hTERT của telomerase, nhận dạng xong thì thêm chuỗi sáu base TTAGGG của telomere, như vậy là kéo dài thêm một telomere và cứ thế tiếp tục.
+2.Hệ thống kiểm soát sự tiến triển chu kì tế bào thông qua các gen p53, ADN- PK và INK4:
+Gen ADN- PK sửa chữa những gen bị tổn thương.
+Trong khi gen p53 không cho các gen bị tổn thương tự nhân lên. Khi có một biến cố lớn trong tế bào, protein p53 còn gọi là "vệ sĩ của bộ gene" sẽ phát đi một hiệu lệnh để tế bào này tự hủy. Các nhà khoa học cũng cho biết rằng các yếu tố lối sống ảnh hưởng đến cơ chế hoạt động bình thường của gen p53. Việc tránh các chất độc hại tác động đến p53 là một bước đi quan trọng tiến tới một lối sống lành mạnh hơn.
+Protein p16INK4a là sản phẩm chính từ sự mã hóa của gen INK4, còn được gọi là protein ức chế ung thư p16INK4a. Protein này có vai trò trong sự điều hòa chu trình tế bào khi ở dạng liên kết và làm bất hoạt các dạng CDK vòng khác nhau. Sự biểu hiện p16INK4a sẽ gia tăng theo tuổi tác và quá trình biểu hiện này thì liên quan đến quá trình già hoá của tế bào và được thừa nhận là chi phối tới quá trình lão hóa. Khi càng lớn tuổi thì nồng độ p16INK4a sẽ càng cao. Kết quả nghiên cứu từ các tế bào có các nguồn gốc khác nhau như tủy xương, tuyến nội tiết ở tụy. Cũng như não cho thấy là p16INK4a đã chi phối quá trình lão hóa bằng cách giới hạn sự tự làm mới của các tế bào có khả năng nhân đôi.
+
+
+=== Thuyết gốc tự do ===
+Các phản ứng sinh hóa bên trong tế bào "phóng" ra các gốc tự do (radical libre, free radical). Thực chất một gốc tự do là một nguyên tử oxy "không ổn định", sẵn sàng bám vào các phân tử quanh nó (để trở thành ổn định), Thuyết này phát xuất từ ý kiến của BS. Denham Harman (Trường Đại học Nebraska) đưa ra hồi 1950: các gốc tự do là nguyên nhân chính gây xáo trộn hoạt động của các ty lạp thể (mitochondries), bám vào các ADN. Nguyên liệu chính của các mật mã di truyền, gây đột biến bên trong các tế bào….Nói một cách khác là các gốc tự do là nguyên nhân của sự tự hủy hoại, của sự lão hóa ở cấp tế bào.
+Gốc tự do là những tiểu phân hóa học (phân tử, nguyên tử, ion) có một nguyên tử đơn độc ở lớp ngoài cùng. Với áp lực mạnh của điện tử đơn độc, gốc tự do có khả năng tương tác với tất cả các phân tử của những tế bào bên cạnh nó, phá vỡ hoàn toàn màng tế bào, làm hư hại gen di truyền hoặc hủy hoại toàn bộ tế bào. Nó làm tế bào già đi và gây ra các bệnh lý tim mạch, viêm khớp, bệnh dạ dày- ruột, đục thủy tinh thể,thoái hóa võng mạc, bệnh phổi, tiểu đường, ung thư, sa sút trí tuệ, parkinson, suy giảm hệ thống miễn dịch…
+Gốc tự do sinh ra do chính hoạt động sống của mỗi tế bào và do tác động của môi trường sống (tia phóng xạ, các bức xạ có năng lượng cao, tia tử ngoại, bụi, các chất độc). Thông thường, chúng được sinh ra với lượng rất nhỏ và bị phá hủy ngay bởi các hệ thống chống gốc tự do của cơ thể. Nhưng khi hệ thống bảo vệ này bị quá tải hay rối loạn (do môi trường ô nhiễm, tân lý căng thẳng, tuổi tác…), quá trình lão hóa và các bệnh lý sẽ tiến triển rất nhanh.
+Gốc tự do và hiện tượng nhăn da:
+Các phân tử của chất tạo keo collagen (vốn đứng riêng rẽ với nhau) bị các gốc tự do dán vào nhau, gây nên những "liên kết chéo" (cross- linkage): cấu trúc căn bản của collagen bị xáo trộn. Các tế bào của mô liên kết chịu trách nhiệm bài tiết và trùng tu collagen cũng bị hư hại… nên da mất dần tình đàn hồi. Các vết nhăn xuất hiện. Biết rằng mô liên kết là cái nền chung cho hết thảy các loại mô trong cơ thể thì ta hiểu vai trò của các gốc tự do trong sự lão hóa của cơ thể. Nhưng mâu thuẫn thay, gốc tự do rất cần thiết cho đời sống, nhờ có gốc tự do mà các bạch cầu bám vào được các vi khuẩn và siêu vi để tiêu diệt chúng! Nhưng tế bào cũng sản xuất ra các chất kháng oxy (anti- oxydants) và sự sống bên trong tế bào được thể hiện bởi sự xuất hiện liên tục của hai chất – gốc tự do và kháng oxy - trong khoảnh khắc ngắn ngủi (1/1000 giây đồng hồ)!
+
+
+=== Thuyết kích tố ===
+Thuyết này dựa vào nhận xét rằng mọi giai đoạn của đời sống đều do kích tố điều hành. Lúc nhỏ có kích tố tăng trưởng. Từ tuổi dậy thì có các kích tố nam, nữ. Khi sự bài tiết các kích tố yếu đi thì cơ thể già dần. Còn nhiều loại kích tố khác cũng ảnh hưởng tới sự lão hóa, ví dụ như DHEA và Melatonin.
+Đáng chú ý nhất là hormone tăng trưởng hGH.
+Hormone tăng trưởng được sản xuất ở tuyến yên. Các nhà khoa học đã khám phá một yếu tố quan trọng liên quan mật thiết với tuổi già, đó là sự thiếu hụt hormone tăng trưởng hGH. Việc tìm ra các chất kích thích cơ thể sản xuất hGH đã tạo niềm hy vọng về chuyện đảo ngược quá trình lão hóa. hGH được phóng thích bởi tuyến yên từ lúc mới sinh cho đến khi cao tuổi. Sau khi vào máu, nó nhanh chóng đến gan để được chuyển thành chất DGF-1, DGF-2. Đây là những phân tử truyền tin và được xem là "yếu tố tăng trưởng", kích thích sự phát triển các phần khác nhau của cơ thể.
+Phân tử hGH (Hình 1.1) là một chất đạm (protein) được tạo bởi một chuỗi 190 amino acid và có phân tử lượng là 22 kilo daltons5 (khoảng 120 lần phân tử lượng của thuốc Aspirin).
+Giống như các hormone khác, lượng hGH phóng thích vào hệ tuần hoàn sẽ đạt tối đa lúc 20 tuổi và sau đó giảm dần. Đến tuổi 60 thì lượng hGH chỉ bằng khoảng 15-20% so với lúc trẻ. hGH giúp tăng chiều dài xương đến tuổi 20 (vì vậy qua tuổi này chúng ta không thể cao hơn); một số người cao to bất thường là do tình trạng cường hGH làm cơ thể phát triển quá mức. Nó cũng làm tăng tổng hợp protein trong tế bào, giúp cho cơ rắn chắc, phục hồi sự hư hỏng của da và tim, chống lại sự thoái hóa của tế bào, từ đó ngăn chặn được sự lão hóa. hGH được phóng thích từ tuyến yên vào máu trong khi ngủ. Khi trẻ đang tuổi lớn, hGH sẽ giúp các chất dinh dưỡng hấp thu và chuyển tới xương, cơ, các mô khác mà không tích tụ thành mở (còn ở người cao tuổi thì hay tích tụ thành mỡ). Hormon này kích thích sự tổng hợp collagen – một chất có tính đàn hồi giúp tạo sự khỏe mạnh, dẻo dai cho sụn, gân, dây chằng và xương. Khi tuổi cao, việc giảm collagen dẫn đến nhăn da, yếu cơ xương khớp…
+
+Việc tổng hợp hGH rất khó khăn và tốn kém. Trước đây, người ta chỉ sản xuất hGH để điều trị những vấn đề đặc biệt do thiếu hụt hGH. Vào giữa những năm 1980, công ty Genetech và Eli Lilly đã tổng hợp được hGH thông qua kỹ thuật ADN. Năm 1989, các nhà khoa học ở bệnh viện St.Thomas (London,Anh) do bác sĩ Franco Salomon chủ trì đã tiêm hGH cho 24 người trưởng thành bị cắt tuyến yên do khối u trong 6 tháng. Kết quả là họ tăng trọng lượng nhưng lượng mỡ và cholesterol trong máu giảm. Salomon và cộng sự tiếp tục nghiên cứu để tìm hiểu xem tại sao hGH lại có tác dụng trên những người trưởng thành, bởi từ trước tới nay người ta cho rằng hGH không có tác dụng gì đối với đối tượng này nên mới bị giảm đi.
+Douglas Crist, một chuyên gia ở Đại học Y khoa New Mexico đã tiêm hGH cho 8 vận động viên điền kinh (5 nam, 3 nữ tuổi 22-23) ba lần một tuần trong 6 tuần. Kết quả thể hình phát triển rất tốt, khối lượng cơ bắp tăng thêm nhưng lượng mỡ giảm, chỉ số cơ/mỡ đạt mức lý tưởng.
+Đối với người lớn tuổi, việc bổ sung hGH cho kết quả rất tốt. Tiến sĩ lão khoa Julian Whitaker thuộc viện Wellness ở California cho rằng những khám phá về hGH thực sự là một cuộc cách mạng. Nghiên cứu của bác sĩ Beng Ale Bengtsson ở Thụy Sĩ cũng cho kết quả tương tự về tác dụng của hGH trên người già. Khó khăn lớn nhất là sản phẩm tổng hợp hGH còn quá đắt tiền, chỉ mới có thể dùng trong nghiên cứu. Vì vậy, các nhà khoa học đã nỗ lực tìm kiếm nhằm đưa ra các sản phẩm có thể áp dụng một cách rộng rãi, và người ta đã tìm ra được hai chất: Alpha-GPC và Somabol. Alpha-GPC là một chất chiết xuất từ đậu nành, được chứng minh là có kích thích tuyến yên tiết ra hGH và cũng có thể ức chế vùng dưới đồi trong việc tiết somatostatin (chất ngăn cản việc sản xuất hGH). Somabol là toàn bộ nhóm yếu tố tăng trưởng như EGF, FGF, TGF, được chiết xuất từ lòng đỏ trứng hữu cơ. Như đã nêu trên, khi hGH được phóng thích vào máu, chúng sẽ đến gan và được chuyển hóa thành các yếu tố tăng trưởng và chính các yếu tố này mới có hoạt tính sinh học của hormone tăng trưởng.
+
+
+=== Thuyết miễn dịch ===
+Cơ thể sinh ra đã được trang bị một hệ thống phòng thủ chống sự xâm nhập của các vật lạ. Đó là sự miễn dịch. Miễn dịch bảo vệ cơ thể bằng nhiều cách. Có thể là các bạch cầu trực tiếp tấn công, vô hiệu hóa vi trùng, nấm bệnh. Có thể là các bạch cầu đặc biệt tạo ra chất kháng thể, lưu thông trong máu và vô hiệu hóa tác nhân ngoại nhập. Lý thuyết này dựa vào hai nhận xét: thứ nhất là với tuổi già, cơ thể sản xuất ít kháng thể đồng thời phẩm chất cũng kém, thứ hai là với tuổi già, cơ thể đôi khi lại tạo ra kháng thể chống lại chính các phân tử cấu tạo cơ thể, đưa tới bệnh hoạn, suy yếu. Như trường hợp viêm khớp ở người cao tuổi. Một thí dụ nữa là khi bị bệnh cảm cúm thì sức chịu đựng của người cao tuổi kém người trẻ và lâu bình phục hơn.
+
+
+=== Thuyết về sự lầm lẫn ===
+Sự lầm lẫn có thể do:
+Sự hư hao, cơ thể với các chức năng hao mòn theo thời gian vì những va chạm, xâm lấn. Nếu không được tu bổ, chữa trị thì cơ thể sẽ bị tiêu hủy. Thuyết này được bác học người Đức August Weismann đưa ra năm 1882. Theo ông ta, sự chết xảy ra vì khi một mô hư hao không bao giờ tự nó tân trang được. Sự hư hao tả tơi còn làm xói mòn các diễn tiến sinh hóa bình thường trong cơ thể. Theo Dan Georgakas, cơ thể già vì thường xuyên bị tác hại bởi các áp lực từ bên ngoài như xúc động, va chạm thực chất, nhiễm độc ]]môi trường]].
+Phản ứng tròng tréo:Chất tròng tréo thường thường là một hóa chất cột hai phân tử riêng rẽ với nhau. Sự tròng tréo (cross linkage) chất đạm làm tổn thương mô và tế bào, ngăn cản sự thu nhập chất dinh dưỡng, giảm bài tiết chất phế thải, đưa tới sự suy yếu cơ thể. Sự tròng tréo thường thấy ở các phân tử đạm trong chất tạo keo khiến cho da khô, nhăn, không đàn hồi. Thuyết này cũng liên hệ tới sự sử dụng chất đường. Khi đường vào máu, nó sẽ bám vào chất đạm, làm đạm chuyển sang màu vàng, không dùng được và thành nguy hiểm cho cơ thể.
+
+
+=== Thuyết về sự tích lũy những sai lầm ===
+Để tăng trưởng, cơ thể liên tục biến chế các phân tử đạm và ADN. Nhưng những phần tử này không phải lúc nào cũng được sản xuất hoàn hảo. Có nhiều tổn thương trong việc tổng hợp chất đạm, tạo ra chất đạm bất thường mà khi tích tụ với nhau sẽ gây hư hao cho tế bào, mô và các bộ phận. Theo thuyết này, khi ta về già thì cơ thể dễ phạm các lỗi lầm kể trên, đưa đến sự già.
+Trong quá trình biến hóa của từng tế bào, có sự tích lũy các chất phế thải. Sự tích lũy này có thể xem như một phần của tiến trình lão hóa. Về phía các tế bào không có khả năng phân thân như tế bào cơ tim, thận và não, có một sự tích lũy dần dần của nhiều chất liệu mà các khoa học gia có thể nhận ra dưới kính hiển vi nhờ một phương pháp nhuộm màu đặc biệt. Một trong những chất đó là "lipofuscin", một chất mềm biểu hiện tình trạng "hao mòn tả tơi" của mô bào về già. Khoa học chưa tìm được nguồn gốc và ảnh hưởng của lipofuscin, mà chỉ biết rằng nó tích lũy trong não bộ người già và có thể loại khỏi cơ thể bằng vài dược phẩm. Người ta cũng đang nghiên cứu coi sự loại trừ này có lợi hoặc có hại cho cơ thể.
+Trong tế bào và mô lành mạnh luôn luôn có một sự luân chuyển các thành phần hệ trọng như: diệu tố, kích thích tố, và hóa chất dẫn truyền tín hiệu thần kinh. Trong mỗi quá trình luân chuyển thường có khả năng xảy ra những sai lầm. Nếu những sai lầm đó tích lũy tới một mức độ cao thì tế bào hoặc mô trở thành bất khả dụng và có thể chết. Ví dụ nếu một hóa chất ở tế bào não bộ bị suy thoái thì dù cho những tế bào đó còn sống nhưng não bộ cũng mất chức năng điều khiển các bộ phận trong cơ thể.
+Nếu những tế bào khiếm khuyết sinh sôi nảy nở thì dù cho chúng không nằm trong những cơ quan điều khiển cơ thể, toàn bộ cơ thể cũng có thể bị hủy hoại dẫn đến tử vong, như trường hợp các bệnh ung thư.
+
+
+=== Tích trữ những đột biến ===
+Thuyết này liên quan tới các tế bào thân (somatic cells) là loại tế bào luôn luôn sinh sản và hủy diệt. Gen trong tế bào bị ảnh hưởng của các tác nhân nguy hại như tia phóng xạ, hóa chất độc, thay đổi cấu tạo, khiến tế bào hư hao, chức năng lệch lạc, cơ thể kém hoạt động. Sự đột biến có thể truyền sang thế hệ kế tiếp của tế bào.
+
+
+== Liên quan đến đột biến gen ==
+
+
+=== Hội chứng già trước tuổi ===
+Nhóm nghiên cứu phát hiện ra 18 trong số 20 bệnh nhân già trước tuổi đều bị đột biến ở gen lamin A, thuộc nhiễm sắc thể số một. Tại đó, trật tự của hai đơn vị ADN cơ bản là guanine và adenine bị đổi chỗ cho nhau.
+Tiến sĩ Maria Eriksson thuộc nhóm nghiên cứu nói: "Ban đầu, chúng tôi không thể tin được kết quả này, làm sao một đột biến nhỏ như thế lại dẫn đến hậu quả khủng khiếp nhường ấy". Bà cho biết lamin A, hay còn gọi là LMNA còn liên quan đến sáu căn bệnh khác.
+Căn bệnh lão hóa ở trẻ em, hay còn gọi là hội chứng già trước tuổi Hutchingson-Gilford, lần đầu tiên được phát hiện vào năm 1886. Bệnh nhân không phát hiện vào lúc mới sinh mà phải 18 tháng sau đó mới có các triệu chứng của tuổi già, như bị lão hóa, còi cọc, da nhăn nheo, mặt nhỏ, quai hàm to gần bằng đầu, xương trở nên giòn, bị hói vào lúc 4 tuổi, cơ quan nội tạng rệu rã và thường tử vong ở tuổi 13 vì những bệnh của người già như bệnh tim, đột quỵ. Chiều cao của trẻ không quá 1m và chỉ cân nặng khoảng 13-15 cân. Tuy nhiên, trẻ mắc căn bệnh này thường có trí thông minh trên mức bình thường.
+Ví dụ như trường hợp mắc bệnh của cậu bé John Tacket, 15 tuổi, bang Michigan, Mỹ. Cậu chỉ cao khoảng 1m. Tacket học lớp 9, rất giỏi môn toán và chơi trò pool chuyên nghiệp. Tuy nhiên, Tacket bị đau thắt ngực – một triệu chứng của bệnh tim chỉ xuất hiện ở người già vào khoảng 60-70 tuổi.
+Trước đây, có giả thiết cho rằng bệnh này mang tính di truyền (đột biến trong tinh trùng của người cha truyền vào phôi của con). Tuy nhiên nghiên cứu mới đã cho thấy bệnh này mang tính tự phát.
+Trên thế giới, cứ khoảng 4-8 triệu trẻ em thì có một trường hợp bị lão hóa sớm. Chính vì thế việc nghiên cứu bệnh này rất khó vì số bệnh nhân trong một thời điểm là có hạn.
+Bên cạnh việc phát hiện ra tác nhân gây lão hóa ở trẻ, nghiên cứu này còn giúp các nhà khoa học hiểu rõ hơn về quá trình phát triển tuổi già bình thường. Trong thời gian tới, các nhà khoa học sẽ tập trung tìm ra loại thuốc có khả năng lặp lại trật tự của gen lamin A.
+
+
+=== Đột biến gen tạo nên sự trường thọ ===
+Các nhà khoa học đã tìm thấy một đột biến gen chung trên những người sống lâu trăm tuổi. Phát hiện này có thể là chìa khóa quan trọng để tìm ra cách thức tránh được sự lão hóa.
+Trong nghiên cứu trên 52 cụ già Ý, đều thọ hơn trăm tuổi, các nhà nghiên cứu tại Viện Công nghệ California ở Pasadena (Mỹ) nhận thấy: 17% trong số này có chứa đột biến C150T trong ADN ty thể (loại ADN nằm ngoài nhân tế bào). Trong khi đó, chỉ có 3,4% trong số 117 người dưới tuổi 99 là chứa đột biến trên, nghĩa là chỉ bằng một phần trăm.
+Theo các nhà nghiên cứu, dường như đột biến C150T đã kích thích sự tái tạo của ADN ty thể, cho phép cơ thể thay thế những tế bào già nua một cách nhanh hơn.
+Để kiểm tra xem đột biến trên có phải là do di truyền hay không, các nhà khoa học đã nghiên cứu mẫu tế bào da của những người thí nghiệm được thu thập hai lần cách nhau 9-19 năm. Trên một số người, cả hai mẫu đều chứa đột biến, trong khi những người khác đột biến xuất hiện sau. Điều đó chứng tỏ, đột biến này có thể di truyền, cũng có thể phát sinh trong quá trình sống.
+
+
+== Những giả thuyết tiến hóa ==
+Sự lão hóa xảy ra rất khác nhau giữa các loài và cả trong cùng một loài. Nhìn theo góc độ tiến hóa thì loài nào càng ít thiên địch càng sống lâu. Lý do là sự đóng góp của từng cá thể vào sự tiến hóa của loài chỉ quan trọng cho đến khi cá thể đó hoàn tất quá trình sinh sản, truyền lại vốn di truyền cho thế hệ kế tiếp. Tất cả các đột biến gây chết trước khi một cá thể có thể sinh sản đều bị chọn lọc tự nhiên loại bỏ nhanh chóng, nhưng các đột biến gây chết ở tuổi sau sinh sản thì không bị chọn lọc. Càng ít thiên địch, độ tuổi sinh sản càng được kéo dài, chọc lọc tự nhiên càng có cơ hội loại bỏ những đột biến gây bất lợi ở độ tuổi cao. Ví dụ, chuột và dơi rất giống nhau, cùng kích thước, nhưng dơi sống 30 năm, chuột sống chỉ 2-3 năm. Chim thường sống lâu, chim biển là sống lâu hơn cả.
+
+
+== Điều hòa gene ==
+Lão hóa còn do điều hòa biểu hiện gene. Có một số gene được cho là có vai trò quan trọng trong quá trình lão hóa. Nghiên cứu ở nấm men (Saccharomyces cerevisiae, ruồi dấm (Drosophila melanogaster) và giun Caenorhabditis elegans cho thấy có ít nhất hai con đường lão hóa liên quan đến gene Sir2 và nhóm gene chống oxy hóa (như gene mã hóa cho superoxide dismutase ở nấm men).
+
+
+== Lão hóa tế bào ==
+Lão hóa tế bào là hiện tượng tế bào không còn khả năng phân chia. Tuy nhiên, không phải ở tế bào nào cũng có hiện tượng lão hóa. Sinh vật đơn bào phân chia bằng trực phân, nguyên phân không có hiện tượng này. Ở một số loài như bọt biển, san hô và tôm hùm cũng không có lão hóa tế bào (tuy nhiên chúng có thiên địch và bệnh tật, nên vẫn chết, tôm hùm sẽ lớn mãi nếu không có gì "trở ngại", con lớn kỉ lục cũng cỡ 20 kg). Ở các sinh vật mà tế bào lão hóa, những tế bào này sẽ phân chia đến giai đoạn "hậu-nguyên phân" (post-mitosis), khi đó chúng mất khả năng phân chia. Tại sao? Vấn đề còn đang trong giai đoạn nghiên cứu. Tuy nhiên, quan niệm được chấp nhận rộng rãi là sự lão hóa của tế bào có vai trò quan trọng trong việc ngăn chặn sự phát triển của ung thư. Khi tế bào sinh dưỡng nguyên phân liên tục sẽ có sai sót trong quá trình sao chép DNA, sai sót này tích tụ qua nhiều lần nguyên phân sẽ có nguy cơ biến tế bào thành tế bào ung thư nếu nó không bị lão hóa, ngừng phân chia và cuối cùng là chết đi. Gần đây, telomere (đầu mút của nhiễm sắc thể) được cho là giữ vai trò trong việc giới hạn số lần phân chia của tế bào.
+
+
+== Tác dụng của hóa chất ==
+Lão hóa có thể được gây ra do các tổn thương hóa học. Các đại phân tử sinh học như protein cấu trúc hay DNA có thể bị tổn thương do các tác nhân hóa học như ôxy (còn gọi là ôxy hóa), đường và căng thẳng gây ra sự lão hóa. Các tổn thương có thể có là phá vỡ mạch đa phân, tạo liên kết chéo giữa các polymer sinh học, hay gắn các gốc hóa học lạ vào phân tử sinh học. Được nói đến nhiều nhất là tác hại của các gốc tự do.
+
+
+== Tham khảo ==
+
+Đoàn Yên (1998), Lão hóa, Nhà xuất bản Y học Hà Nội, tr. 350-517
+Nguyễn Hữu Chấn (2000), Những vấn đề hóa sinh hiện đại, Nhà xuất bản Khoa học và kỹ thuật, tr. 220-240
+Braunwald Isselbacher, Martin Wilson, Kasper Fauci (2004), Các nguyên lý y học nội khoa, tập 1, Nhà xuất bản Y Học, tr.820-832
+http://www.medinet.hochiminhcity.gov.vn/data/news/2003/12/1822/xxdinhduonghoplyonguoicaotuoi.htm
+http://saigon.vnn.vn/read.php?id=7971
+Tiến trình lão hoá - Cân bằng giữa quá trình tự làm mới và lão hóa
+Thuốc cải lão hoàn đồng của thế kỷ 21: Kích thích tố tăng trưởng?
+http://www.vnexpress.net/Vietnam/Suc-khoe/2003/11/3B9CD38C/
+http://vnexpress.net/Vietnam/Suc-khoe/2004/03/3B9D01D6/
+http://www.vnexpress.net/Vietnam/Suc-khoe/2005/02/3B9DBC4A/
+
+
+== Liên kết ngoài ==
+Lão hóa tại Từ điển bách khoa Việt Nam
+Tiến trình lão hoá - Cân bằng giữa quá trình tự làm mới và lão hóa (VLOS)
+Mechanisms of Aging Ben Best.
+senescence.info
+AgeLab (MIT).
+Aging because body loses genetic info
+The Longevity Meme (Longevity Activism)
+See the artproject "Dialogue with the High Age"

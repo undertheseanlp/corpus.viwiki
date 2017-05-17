@@ -1,0 +1,29 @@
+Bit chẵn lẻ (tiếng Anh: parity bit) là một bit dùng để báo hiệu số lượng bit có giá trị bằng 1(2) trong một nhóm bit cho trước là một số chẵn hay là một số lẻ. Bit chẵn lẻ được sử dụng như là một mã dùng để phát hiện lỗi đơn giản nhất.
+Có hai loại mã chẵn lẻ: bit chẵn lẻ dùng quy luật số chẵn (even parity bit) và bit chẵn lẻ dùng quy luật số lẻ (odd parity bit). Bit chẵn lẻ dùng quy luật số chẵn có giá trị bằng 1(2) khi số lượng các bit 1, trong một nhóm bit cho trước, là một số lẻ (và khi cộng thêm bit chẵn lẻ vào, tổng số lượng bit có giá trị bằng 1(2) là một số chẵn). Ngược lại, bit chẵn lẻ dùng quy luật số lẻ có giá trị bằng 1(2) nếu số lượng các bit 1, trong một nhóm bit cho trước, là một số chẵn (và khi cộng thêm bit chẵn lẻ vào, tổng số bit có giá trị bằng 1(2) là một số lẻ). Bit chẵn lẻ dùng quy luật chẵn là một trường hợp đặc biệt của kỹ thuật kiểm tra độ dư tuần hoàn (cyclic redundancy check - CRC). Trong CRC, bit CRC được kiến tạo bằmg cách dùng đa thức (polynomial) x+1.
+
+
+== Phát hiện lỗi ==
+Nếu một số lẻ lượng các bit (bao gồm cả bit chẵn lẻ), bị đảo lộn trong khi truyền thông một nhóm bit, thì bit chẵn lẻ sẽ có giá trị không đúng, và do đó báo hiệu rằng lỗi trong truyền thông đã xảy ra. Với lý do này, bit chẵn lẻ còn được gọi là một mã phát hiện lỗi, song nó không phải là một mã sửa lỗi, vì nó chẳng có cách nào xác định được vị trí của bit bị lỗi cả. Khi lỗi bị phát hiện, dữ liệu thu được phải bị bỏ đi và phải được truyền thông lại từ đầu. Trên kênh truyền có độ nhiễu cao, việc truyền tải dữ liệu thành công là một việc rất hao tốn thời gian, và đôi khi, việc truyền thông còn hầu như không thể thực hiện được nữa. Bit chẵn lẻ có một ưu điểm: nó là một mã tốt nhất chiếm chỉ một bit và chỉ dùng vài cồng XOR (XOR gate) để tạo giá trị mà thôi. Xin xem thêm mã Hamming để biết thêm về các mã sửa lỗi khác.
+
+
+== Ứng dụng ==
+Do đặc tính đơn giản của nó, bit chẵn lẻ được dùng trong rất nhiều ứng dụng phần cứng, những nơi mà việc tái diễn các thao tác khi có trục trặc xảy ra là một việc có thể thực hiện được, hoặc những nơi mà việc phát hiện lỗi đơn thuần là một việc có lợi. Lấy ví dụ, mạch nối SCSI (SCSI bus) dùng bit chẵn lẻ để phát hiện lỗi trong truyền thông, và rất nhiều các phần lưu trữ trong bộ nhớ các lệnh vi xử lý (microprocessor instruction cache) cũng dùng bit chẵn lẻ để bảo trợ hoạt động của nó nữa. Do các dữ liệu trong I-cache chỉ là một bản sao của bộ nhớ chính (main memory), nội dung của nó có thể được xóa đi, nạp lại nếu dữ liệu ở trong chẳng may bị thoái hóa (corrupted).
+Trong truyền thông dữ liệu nối tiếp (serial data transmission), dạng thức dữ liệu được dùng phổ thông nhất là dạng thức 7 bit, với một bit chẵn lẻ dùng quy luật số chẵn, một Start bit và một hoặc hai Stop bit để đánh dấu/đồng bộ điểm bắt đầu cũng như kết thúc một byte dữ liệu trong chuỗi bit trên đường truyền. Dạng thức này thích ứng hầu hết các dạng thức 7-bit ký tự ASCII dưới hình thức byte 8-bit. Một byte dữ liệu trên đường truyền nối tiếp sẽ gồm 01 Start bit (bắt đầu), 7 bit dữ liệu, một parity bit và 01 Stop bit (kết thúc). Byte là một hình thức tiện lợi để biểu đạt dữ liệu. Những dạng thức khác cũng có thể thực hiện được, như dạng thức 8 bit dữ liệu cộng với một bit chẵn lẻ có thể dùng để chuyên chở tất cả các giá trị byte 8-bit.
+Trong ngữ cảnh của truyền thông nối tiếp (serial communication), bit chẵn lẻ thường được phát sinh và kiểm tra bởi phần cứng giao thức - chẳng hạn như UART - và khi thu nhận, CPU có thể sử dụng kết quả nhận được (và hệ điều hành nữa) thông qua bit báo tình hình (status bit) trong thanh ghi của phần cứng giao thức. Việc khôi phục lại sau khi tình trạng lỗi xảy ra thường được thi hành bằng cách tái truyền dữ liệu, và chi tiết của việc này thường là do phần mềm phụ trách (ví dụ dùng các thường trình nhập/xuất (I/O routine) của hệ điều hành).
+
+
+=== Khối chẵn lẻ ===
+Khối chẵn lẻ (parity block) được dùng trong một số cấu hình RAID, và bằng cách dùng các khối chẵn lẻ, người ta đạt được tính dư thừa. Nếu một trong các ổ đĩa ở trong dãy đĩa bị hỏng, người ta có thể dùng các khối dữ liệu và các khối chẵn lẻ trong các đĩa còn làm việc để kiến tạo lại dữ liệu bị thất lạc (dữ liệu này nguyên ở trong cái đĩa bị hỏng).
+Trong biểu đồ vẽ sẵn dưới đây, mỗi cột là biểu tượng của một ổ đĩa. Giả sử A1 = 00000111, A2 = 00000101, và A3 = 0000000. Ap - phát sinh do xử lý XOR giữa A1, A2, và A3 - sẽ có giá trị bằng 00000010. Nếu ổ đĩa thứ hai bị hỏng và giá trị A2 không thể truy cập được, thì giá trị này có thể được kiến tạo lại bằng xử lý XOR A1, A3, và Ap như sau:
+A1 XOR A3 XOR Ap = 00000101
+
+       RAID Array
+ A1        A2        A3
+ Ap        B1        B2
+ Bp        C1        C2
+ C3        C4        Cp
+
+Lưu ý: Các khối dữ liệu được đánh dấu theo hình thức A# (# ám chỉ một con số), khối chẵn lẻ là Ap (p = parity).
+
+
+== Ghi chú ==

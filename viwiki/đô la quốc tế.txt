@@ -1,0 +1,8 @@
+Đô la quốc tế là một đơn vị tiền tệ giả định. Nó có sức mua ngang bằng sức mua của đô la Mỹ tại một thời điểm nhất định. Nó chính là dollar Mỹ quy đổi theo tỷ giá hối đoái sức mua tương đương (PPP). Nó cho thấy một đơn vị tiền tệ nội địa có giá trị quốc tế thế nào trong phạm vi biên giới của một quốc gia. Nó dùng để so sánh giữa các quốc gia hoặc giữa các thời điểm. Ví dụ, so sánh tổng sản phẩm quốc nội bình quân đầu người giữa nhiều nước bằng dollar quốc tế, chứ không phải đơn giản dựa trên tỷ giá hối đoái, sẽ cho một thước đo có giá trị hơn để so sánh mức sống.
+Thuật ngữ này, mặc dù không được dùng phổ biến, song đôi khi lại được dùng bởi các tổ chức quốc tế như Nhóm Ngân hàng Thế giới và Quỹ Tiền tệ Quốc tế khi công bố các thống kê.
+Các con số thể hiện bằng dollar quốc tế không thể được chuyển đổi sang một đơn vị tiền tệ quốc gia khác sử dụng tỷ giá hối đoái thị trường hiện hành; thay vào đó chúng phải được chuyển đổi bằng cách dùng tỷ giá hối đoái PPP của nước đó.
+
+
+== Tham khảo ==
+
+World Bank use of the term under definition of Purchasing Power Parity

@@ -1,0 +1,51 @@
+Linux Mint là một bản phân phối Linux dựa trên nền tảng Ubuntu. Linux Mint có thêm nhiều tính năng mà Ubuntu không có như nhiều phần mềm được cài đặt sẵn, kể cả các phần mềm không phải mã nguồn mở như Java và Adobe Flash; và một số phần mềm được tạo ra bởi Linux Mint, như mintInstall, mintUpdate, mintNanny,...
+Phiên bản đầu tiên của Linux Mint là Ada, ra mắt vào 2006. Phiên bản ổn định mới nhất (17.3) là Rosa. Tên của các phiên bản Linux Mint được sắp xếp theo bảng chữ cái.
+
+
+== Lịch sử ==
+Dự án Linux Mint được khởi động vào năm 2006 với phiên bản đầu tiên (1.0) là "Ada". Đến phiên bản 2.0 "Barbara", Linux Mint mới bắt đầu được chú ý tới. Từ năm 2006 đến 2008, bản phân phối này đã đưa ra nhiều phiên bản mới: 2.1 "Bea", 2.2 "Bianca", 3.0 "Cassandra", 3.1 "Celena" và 4.0 "Daryna".
+Kể từ phiên bản 2.0 dựa trên Ubuntu 6.10, Linux Mint đã phát triển riêng không dựa vào Ubuntu, nhưng vẫn đảm bảo độ tương thích với Ubuntu cho đến phiên bản 5 "Elyssa". Sau đó, để tăng tính tương thích giữa Linux Mint và Ubuntu, Linux Mint đã chuyển sang xây dựng trực tiếp trên các phiên bản Ubuntu tương ứng, và thời gian đưa ra phiên bản mới khoảng một tháng sau khi Ubuntu được phát hành (tức là vào tháng 5 và tháng 11).
+Vào năm 2010 Linux Mint cho ra mắt Linux Mint Debian Edition, được xây dựng trực tiếp trên Debian chứ không phải trên Ubuntu như các phiên bản chính.
+Tên của các phiên bản Linux Mint được đặt theo bảng chữ cái, là tên nữ và kết thúc bằng a, ví dụ như Petra (16), Olivia (15), Nadia (14), Maya (13), Lisa (12). Linux Mint Debian chỉ được đặt tên theo năm và tháng phát hành, ví dụ như 201304.
+
+
+== Các tính năng ==
+Linux Mint chủ yếu sử dụng các phần mềm miễn phí và mã nguồn mở. Tuy nhiên, khác với nhiều bản phân phối Linux khác, một số phần mềm không phải mã nguồn mở như các codec âm thanh và video, Java, Flash và các phông chữ cơ bản của Microsoft cũng được cài đặt sẵn.
+Ngoài ra, Linux Mint còn có nhiều ứng dụng được cài sẵn khác như LibreOffice, Mozilla Firefox, Mozilla Thunderbird, GIMP, Transmission, XChat...
+
+
+=== Phần mềm được phát triển bởi Linux Mint ===
+Cinnamon, một môi trường làm việc dựa trên GNOME Shell phiên bản 3.
+mintInstall, chương trình quản lý phần mềm.
+mintMenu, một menu cải tiến với các chức năng cài đặt và xóa bỏ phần mềm, tìm kiếm phần mềm...
+mintNanny, chương trình chặn tên miền trên toàn hệ thống, có trong Linux Mint từ phiên bản 6 trở đi.
+mintUpload, trình quản lý tải lên.
+mintBackup, công cụ sao lưu các tập tin và danh sách phần mềm đã cài đặt.
+mintUpdate, công cụ cập nhật hệ thống, có chức năng đánh giá sự an toàn của các gói phần mềm cập nhật.
+mintWelcome, màn hình chào mừng của Linux Mint, bao gồm đường dẫn tới trang chủ của Linux Mint, diễn đàn Linux Mint, nơi tải hướng dẫn sử dụng, một số mẹo vặt...
+mintDesktop, công cụ cài đặt màn hình Desktop trong các phiên bản GNOME 2 và MATE.
+mintConstructor, dùng để sửa đổi đĩa cài đặt Linux Mint, dùng cho các nhà phát triển, không được cài sẵn nhưng có thể tải về từ các kênh phần mềm.
+Mint GNOME Shell Extension (MGSE) là một số phần mở rộng cho GNOME Shell để mang lại một số tính năng có ở GNOME 2 nhưng không có ở GNOME 3. MGSE đã dừng phát triển, thay vào đó là Cinnamon.
+
+
+=== Cài đặt ===
+Linux Mint có thể được cài đặt từ đĩa CD hoặc USB lên các hệ điều hành 32 bit và 64 bit, tuy nhiên, ở các phiên bản gần đây, kích cỡ file.ISO đã vượt quá dung lượng của đĩa CD. [1] Người dùng có thể cài đặt Linux Mint ngay trong Windows bằng cách sử dụng mint4win.
+
+
+== Các phiên bản ==
+Linux Mint có nhiều phiên bản dựa trên Ubuntu và Debian, sử dụng nhiều môi trường làm việc khác nhau theo từng phiên bản.
+
+
+=== Phiên bản chính ===
+Đây là phiên bản dựa trên Ubuntu. Trong Linux Mint 14 "Nadia", người sử dụng có thể lựa chọn giữa các môi trường làm việc Cinnamon, MATE, KDE hay Xfce. [2]
+
+
+=== OEM ===
+Linux Mint cũng cung cấp phiên bản OEM cho các nhà phân phối. Phiên bản này cho phép tên người dùng và các tuỳ chọn khác được thiết đặt sau khi cài đặt. [3]
+
+
+=== Linux Mint Debian Edition ===
+Linux Mint Debian Edition được xây dựng dựa trên Debian Testing, cung cấp các gói cập nhật (Update Pack) cho người dùng để đảm bảo tính ổn định của hệ thống. [4] Phiên bản này có sẵn với hai môi trường làm việc: Cinnamon và MATE.
+
+
+== Tham khảo ==

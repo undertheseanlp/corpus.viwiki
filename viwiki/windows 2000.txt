@@ -1,0 +1,17 @@
+Windows 2000 là một dòng hệ điều hành của Microsoft dùng cho máy tính cá nhân, máy tính văn phòng, máy tính xách tay và máy chủ, Ra mắt ngày 17/2/2000, Windows 2000 là sản phẩm kế tiếp Windows NT 4.0. Theo sau là Windows XP cho máy tính để bàn vào tháng 10/2001 và Windows Server 2003 cho máy chủ vào tháng 4/2003. Windows Me được phát hành 7 tháng sau Windows 2000 và 1 năm trước Windows XP, nhưng không phải là sản phẩm kế tiếp Windows 2000. Windows Me dành cho gia đình, trong khi Windows 2000 được thiết kế dành cho công việc. Có 4 bản Windows 2000 từ thấp đến cao: Professional, Server, Advanced Server, và Datacenter Server. Microsoft còn phát hành Windows 2000 Advanced Server Limited Edition và Windows 2000 Datacenter Server Limited Edition vào năm 2001 để chạy trên nền tảng Intel x64.
+
+
+== Lịch sửSửa đổi ==
+Windows 2000 được xây dựng dựa trên hệ điều hành Windows NT. Ban đầu nó được gọi là Windows NT 5 nhưng Microsoft đổi tên thành Windows 2000 vào ngày 27/10/1998. Nó cũng là phiên bản Windows đầu tiên không có tên mã. Phiên bản thử nghiệm đầu tiên được ra mắt ngày 27/9/1997. Nhiều phiên bản thử nghiệm nữa cũng được ra mắt cho đến bản Beta 3 ngày 29/4/1999. Microsoft ra mắt ba phiên bản nữa từ tháng 7 đến tháng 9/1999. Microsoft phát hành Windows 2000 cho các đối tác ngày 12/12/1999. Phiên bản đầy đủ được phát hành vào 17/2/2000 và được xem là phiên bản Windows chạy ổn định nhất. Vào ngày 29/2/2000, Microsoft phát hành Windows 2000 Datacenter. Microsoft phát hành Service Pack 1 (SP1) vào ngày 15/8/2000, Service Pack 2 (SP2) vào ngày 16/5/2001, Service Pack 3 (SP3) vào ngày 29/8/2002 và Service Pack 4 (SP4) vào 26/6/2003. Microsoft nói rằng họ sẽ không phát hành Service Pack 5, nhưng thay vào đó, họ đã phát hành một bản cập nhật cho Service Pack 4. Microsoft đã thay thế Windows 2000 Server bằng Windows Server 2003, và Windows 2000 Professional bằng Windows XP Professional. Windows Neptune được phát triển từ 1999. Nó đáng lẽ ra là phiên bản gia đình của Windows 2000. Tuy nhiên, chỉ một bản trước thử nghiệm (alpha) được tạo ra. Thay vào đó, Microsoft phát hành Windows Me và dự án Windows Neptune được nhập vào dự án Windows XP. Chức năng duy nhất của Neptune được tích hợp trong Windows 2000 là khả năng nâng cấp Windows 95, Windows 98, và hỗ trợ hệ thống quản lý tập tin FAT32. Nhiều lỗ hổng bảo mật đã được phát hiện ra trong Windows 2000. Code Red và Code Red II là 2 sâu máy tính nổi tiếng nhất thông qua lỗi dịch vụ định vị tập tin của IIS trong Windows 2000 để tạo ra một lỗi bảo mật. Vào tháng 8/2003, hai sâu máy tính là Sobig và Blaster tấn công hàng triệu máy tính dùng Microsoft Windows và gây rất nhiều phiền toái cho những người quản trị mạng dùng Windows 2000. Điều này khiến cho nhiều đối tác của Microsoft và các chính phủ nghiên cứu cẩn thận về các lỗi bảo mật của Microsoft.
+
+
+== Tham khảoSửa đổi ==
+
+
+== Liên kết ngoàiSửa đổi ==
+Microsoft
+Windows 2000 official product page
+Windows 2000 Professional feature list
+Windows 2000 Server comparison chart
+Windows 2000 Server information at Technet
+Official support page

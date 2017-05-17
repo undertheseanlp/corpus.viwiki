@@ -1,0 +1,21 @@
+Biểu đồ dưới đây là danh sách sơ lược các quốc gia theo hệ số bất bình đẳng thu nhập (hệ số Gini). Danh sách này do Liên Hiệp Quốc và Cục tình báo Trung ương Mỹ CIA cung cấp. Một quốc gia có hệ số Gini càng gần 0 thì nền kinh tế càng bình đẳng giữa người giàu và người nghèo, còn ngược lại hệ số này càng gần 100 thì càng bất bình đẳng. (Chú ý: các số liệu khác nhau cho các ước tính trong bảng có thể cho các hướng so sánh.)
+
+
+== Danh sách theo chỉ số bình đẳng thu nhập ==
+Hệ số R/P: Tỷ số thu nhập trung bình của giàu nhất/nghèo nhất (richest/poorest).
+LHQ R/P: Số liệu của Liên Hiệp Quốc về tỷ số R/P, mức 10% và 20% dân
+World Bank Gini
+CIA R/P Số liệu CIA The World Factbook
+CIA Gini, The World Factbook
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Lists of countries and territories
+Danh sách quốc gia theo tính tự do kinh tế
+
+
+== Liên kết ngoài ==
+The World Distribution of Household Wealth

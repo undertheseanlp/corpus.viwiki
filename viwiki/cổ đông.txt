@@ -1,0 +1,26 @@
+Cổ đông (tiếng Anh: Shareholder) là cá nhân hay tổ chức nắm giữ quyền sở hữu hợp pháp một phần hay toàn bộ phần vốn góp (cổ phần) của một công ty cổ phần. Chứng chỉ xác nhận quyền sở hữu này gọi là cổ phiếu. Về bản chất, cổ đông là thực thể đồng sở hữu công ty cổ phần chứ không phải là chủ nợ của công ty đó do vậy quyền lợi và nghĩa vụ của họ gắn liền với kết quả hoạt động của doanh nghiệp.
+
+
+== Các loại cổ đông ==
+Các loại cổ đông thường được phân biệt bằng quyền cũng như nghĩa vụ gắn liền với loại cổ phiếu mà họ sở hữu.
+Cổ đông sáng lập: là những cổ đông đầu tiên góp vốn để hình thành nên công ty cổ phần.
+Cổ đông đặc biệt: là cổ đông (thường là Nhà nước) mặc dù chỉ nắm một số lượng cổ phần rất ít ỏi chỉ mang tính chất tượng trưng nhưng có quyền phủ quyết trong một số quyết sách quan trọng (được quy định trong điều lệ công ty) của công ty cổ phần. Loại cổ đông này còn gọi là cổ đông ưu đãi biểu quyết và loại cổ phần mà cổ đông đặc biệt nắm giữ gọi là cổ phần vàng
+Cổ đông ưu đãi: là những cổ đông được ưu tiên một quyền nào đó (thường là quyền hưởng một tỷ lệ cổ tức cố định trước khi lợi nhuận được phân phối cho các cổ đông khác, quyền nhận lại giá trị của cổ phần khi có yêu cầu). Đi kèm với quyền ưu tiên, cổ đông ưu đãi thường bị hạn chế các quyền khác (ví dụ quyền ứng cử vào bộ máy quản trị của công ty, quyền biểu quyết...).
+Cổ đông thường: là các cổ đông còn lại.
+Một cách phân loại khác là căn cứ tỷ lệ cổ phần mà cổ đông nắm giữ, theo cách này cổ đông được phân loại thành cổ đông lớn và cổ đông thiểu số. Tỷ lệ để có thể coi là cổ đông lớn thường do điều lệ công ty cổ phần quy định trên cơ sở tuân thủ luật pháp.
+
+
+== Quyền cơ bản của cổ đông ==
+Quyền bỏ phiếu: Với số cổ phiếu tương ứng, cổ đông có thể bỏ phiếu hay thông qua đại diện do cổ đông uỷ quyền một cách hợp pháp để bỏ phiếu quyết định những vấn đề quan trọng trong hoạt động của công ty cổ phần như đường lối, chiến lược kinh doanh, phân phối lợi nhuận, tăng hoặc giảm vốn điều lệ....trong kỳ họp (hoặc lấy ý kiến bằng văn bản) đại hội đồng cổ đông. Những vấn đề phải do đại hội đồng cổ đông quyết định được quy định trong bản điều lệ của công ty.
+Quyền nhận cổ tức từ lợi nhuận của công ty; nhận phần giá trị tài sản còn lại của công ty khi công ty giải thể hoặc phá sản. Tỷ lệ nhận tương ứng với tỷ lệ cổ phần của cổ đông. Khi công ty phá sản, giải thể, cổ đông chỉ có thể được nhận giá trị tài sản còn lại của công ty sau khi công ty đã thực hiện thanh toán các khoản nợ: nộp thuế, trả lương cho người lao động, trả nợ vay, trả nợ cho đối tác cung ứng hàng hóa, dịch vụ..... Nói một cách khác, quyền của cổ đông đối với tài sản của công ty cổ phần có thứ tự ưu tiên xếp sau các chủ nợ của công ty đó.
+Quyền lựa chọn: lựa chọn mua thêm cổ phần của công ty khi công ty tăng vốn điều lệ, chuyển đổi cổ phần ưu đãi thành cổ phần thường...
+Quyền chuyển nhượng cổ phần mình đang nắm giữ, một số cổ đông như cổ đông sáng lập... có thể bị hạn chế thực hiện quyền này bởi một số điều kiện.
+
+
+== Xem thêm ==
+Công ty cổ phần
+Cổ phần
+Cổ phiếu
+
+
+== Tham khảo ==

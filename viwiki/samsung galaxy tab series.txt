@@ -1,0 +1,87 @@
+Samsung Galaxy Tab là dòng thiết bị máy tính bảng Android tầm trung trở lên sản xuất bởi Samsung. Mẫu đầu tiên trong dòng thiết bị này là Samsung Galaxy Tab 7-inch, được giới thiệu lần đầu tiên vào 2 tháng 9 năm 2010 tại sự kiện IFA ở Berlin. Kể từ khi đó đã có một số mẫu được phát hành, bao gồm các thiết bị có màn hình 7.7, 8.9 và 10.1-inch. Wifi Tabs bao gồm hệ thống GPS trong khi 3G/ 4G Tabs có chức năng gọi thoại.
+
+
+== Sản phẩm ==
+
+
+=== Samsung Galaxy Tab ===
+
+
+==== Galaxy Tab / Galaxy Tab 7.0 ====
+
+Galaxy Tab đầu tiên (được đổi tên thành Galaxy Tab 7.0 cùng với việc phát hành các sản phẩm 7.7, 8.9, và 10.1) được giới thiệu vào 2 tháng 9 năm 2010 tại sự kiện IFA ở Berlin. Nó có bộ xử lý lõi đơn 1 GHz Exynos, và màn hình TFT LCD 7-inch với độ phân giải 1024 x 600 pixels. Sử dụng hệ điều hành mở Android 2.2 Froyo với một số giao diện tùy chỉ và ứng dụng. Hầu hết các ứng dụng trên Android 2.2 được phát triển dựa trên các nguyên tắc của Google dành cho Android để hiện thị tốt trên các thiết bị màn hình lớn như Samsung Galaxy Tab, theo Samsung. Tháng 5 2011 theo báo cáo rằng Android Gingerbread 2.3.3 có sẵn tại Ý, với các khu vực khác dự kiến sẽ ra sau. Một số cập nhật quốc tế đã được thực hiện và tháng 2 năm 2012, Android phiên bản Gingerbread 2.3.6 đã có mặt.
+Trong suốt 2011 International Consumer Electronics Show (CES), Verizon Wireless và Samsung Telecommunications America (Samsung Mobile) thông báo rằng đó là 4G LTE mới - Cho phép Samsung Galaxy Tab có tính năng truy cập vào Verizon Wireless mạng đ động băng thông rộng 4G LTE và máy ảnh chính 5-megapixel sẽ có mặt
+
+
+==== Galaxy Tab 7.0 Plus ====
+
+Galaxy Tab 7.0 Plus là bản kế thừa thành công của Galaxy Tab đầu tiên. Nó là thiết bị có độ phân giải bằng với người tiền nhiệm của nó là 1024 x 600, nhưng sử dụng tấm nền PLS. Ngoài ra nó còn đi kèm với Android 3.2 Honeycomb đã được cài sẵn bao gồm các phiên bản mới hơn, tăng thêm sức mạnh phần cứng. Thiết bị mới bao gồm vi xử lý lõi kép 1.2 GHz, 16 GB hoặc 32 GB bộ nhớ trong, và 2-megapixel máy ảnh trước và 3-megapixel máy ảnh sau. Thiết bị nhỏ hơn phiên bản đời đầu, kích thước 193.5 x 122.4 x 9.9 mm và nặng chỉ 345 grams. Nó chạy Android 3.2 Honeycomb, với giao diện tùy biến TouchWiz của Samsung, nó có thể nâng cấp lên Android 4.1.2 Jelly Bean.
+
+
+==== Galaxy Tab 7.7 ====
+
+Trong suốt IFA 2011 ở Berlin, Samsung thông báo Galaxy Tab 7.7 mới, với vi xử lý lõi kép 1.4 GHz, 1 GB RAM, hỗ trợ 32 GB thẻ nhớ microSD (chỉ có thể trên một số loại), pin 5,100 mAh,với máy ảnh trước 2-megapixel và 3-megapixel máy ảnh sau với flash. Gồm bản 16 GB, 32 GB và 64 GB. Kích thước thiết bị 196.7 x 133 x 7.89 mm (7.75 x 5.24 x 0.31 inches) và nặng 335 g (11.8 oz) giúp nó thân thiện hơn khi sử dụng một tay hơn một số sản phẩm lớn hơn của Samsung và các nhà sản xuất khác. Nó chạy Android 3.2 Honeycomb, với giao diện tùy biến TouchWiz của Samsung, có thể nâng cấp lên Android 4.0 Ice Cream Sandwich. Galaxy Tab 7.7 phát hành tại Mỹ bởi Verizon vào 1 tháng 3 năm 2012.
+
+
+==== Galaxy Tab 8.9 ====
+
+Galaxy Tab 8.9 được công bố tại sự kiện CTIA Wireless Convention vào tháng 3 năm 2011. Nó được hỗ trợ bộ xử lý Nvidia Tegra 2 và trên Galaxy Tab 10.1, với máy ảnh chính 3-megapixel và pin 6100 mAh. Thiết bị có kích thước 230.9 x 157.8 x 8.6 mm và nặng 470gr. Nó chạy Android 3.2 Honeycomb, với giao diện tùy biến TouchWiz của Samsung, có thể nâng cấp lên Android 4.0 Ice Cream Sandwich. Galaxy Tab 8.9 phát hành vào 2 tháng 10 năm 2011 tại Mỹ.
+
+
+==== Galaxy Tab 10.1 ====
+
+Tại sự kiện Mobile World Congress vào năm 2011 Samsung trưng bàu sản phẩm Galaxy Tab mới với màn hình lớn hơn 10.1-inch HD và bộ xử lý nhanh hơn, chạy hệ điều hành mở Android 3.0 Honeycomb của Google. Nó được phát hành tại Mỹ vào tháng 3 năm 2011 và châu Âu vào tháng 4. Tuy nhiên, sau khi iPad 2 phát hành, một số chi tiết kĩ thuật được mô tả là "không đủ"  bởi phó chủ tịch điều hành mảng di động của Samsung.
+Điều này dẫn đến sự ra đời của một sản phẩm mỏng hơn 10.1-inch tại sự kiện Samsung Unpacked trong suốt CTIA Wireless Convention vào tháng 3 năm 2011, cùng với sản phẩm 8.9 inch, đẩy ngày phát hành sớm hơn vào 8 tháng 6 tại Mỹ và "sớm hơn mùa hè" cho các sản phẩm sau này. Mặc dù không thông tin nào về sự chậm trễ ngày phát hành ở châu Âu, có thông báo rằng các thiết kế trước đó, nhìn thấu tại sự kiện Mobile World Congress, sẽ được bán với nhãn hiệu là "Samsung Galaxy Tab 10.1v".
+Galaxy Tab 10.1 chạy Android 3.2 Honeycomb, với giao diện tùy biến TouchWiz của Samsung. Được nâng cấp lên Android 4.0 Ice Cream Sandwich.
+
+
+===== Galaxy Tab 10.1v =====
+Galaxy Tab 10.1v dự kiến được phát hành tại Anh bởi Vodafone.
+
+
+=== Samsung Galaxy Tab 2 ===
+
+Dòng Galaxy Tab 2 gồm 2 phiên bản Galaxy Tab 2 7.0 và 10.1 và mục đích ngầm vào ngân sách thị trường. Máy ảnh trước chất lượng đã giảm xuống thành VGA, máy ảnh sau fixed focus, chip set là TI OMAP4430 lõi kép 1.0 GHz, và mỏng, nhẹ hơn. Ngoài ra, 5 GHz WiFi đã được giảm xuống. Bản 10.1-inch giá bản lẻ là $399 và 7.0-inch giá bán lẻ là $249. Cả hai sử dụng giao diện tùy biến TouchWiz của Samsung cho Android 4.0 Ice Cream Sandwich, và được nâng cấp lên Android 4.1 and 4.2.2 Jelly Bean.
+
+
+=== Samsung Galaxy Tab 3 ===
+
+Dòng Galaxy Tab 3 bao gồm 3 phiên bản Galaxy Tab 3 7.0, 8.0 và 10.1 và mục đích ngầm vào ngân sách thị trường trong khi dòng Galaxy Note phục vụ thị trường cao cấp. Galaxy Tab 3 7.0 được công bố vào cuối tháng 4 năm 2013. Galaxy Tab 3 8.0 và 10.1 được công bố Computex vào tháng 6 năm 2013. Tất cả 3 thiết bị lấy cảm hứng từ ngôn ngữ thiết kế Samsung Galaxy S4 và các thiết bị công bố gần đây Samsung. Bản 7.0 giá bán lẻ là $199, 8.0 là $299 và 10.1 là $399.
+
+
+=== Samsung Galaxy Tab 4 ===
+Dòng Galaxy Tab 4 được công bố vào 1 tháng 4 năm 2014. Tất cả máy tính bảng sẽ thay thế cho 3 máy tính bảng Galaxy Tab 3. Tất cả các máy tính bảng đều giống nhau như vi xử lý 1.2 GHz lõi-tứ và 1.5GB RAM. Samsung Galaxy Tab 4 sẽ phát hành vào Q2 2014.
+
+
+=== Samsung Galaxy Tab Pro ===
+
+Dòng Galaxy Tab Pro là dòng sản phẩm cao cấp có tên là Samsung Galaxy Tab Pro 8.4, Samsung Galaxy Tab Pro 10.1, và Samsung Galaxy Tab Pro 12.2 nhắm đến dòng sản phẩm cao cấp của máy tính bảng Samsung Galaxy cùng với Samsung Galaxy Note tablets namely the Samsung Galaxy Note 12.2 được công bố trong suốt sự kiện Consumer Electrics Show 2014 tại Las Vegas.
+
+
+=== Máy tính bảng Samsung khác ===
+
+
+==== Galaxy Note ====
+
+Sau khi ra mắt bản đầu tiên và thứ hai của phablets Galaxy Note, sau đó vào 2012 Samsung phát hành máy tính bảng Note 10.1 với màn hình 10.1-inch và bút stylus và tháng 5 năm 2013, phát hành Note 8.0 máy tính bảng với màn hình 8-inch trong khi sau đó tháng 9 năm 2013, công bố sự thành công của Galaxy Note 10.1 đời đầu được thay thế bởi "Galaxy Note 10.1 2014 Edition" ra mắt cùng lúc với phablet Galaxy Note 3 và đồng hồ thông minh Galaxy Gear.
+
+
+==== Nexus 10 ====
+
+Máy tính bảng thứ hai của dòng Nexus, Nexus 10 được công bố bởi Google vào 29 tháng 10 năm 2012. Nó là máy tính bảng 10.1-inch sản xuất bởi Samsung, với màn hình PLS LCD 2560x1600 và bộ xử lý lõi kép 1.7 GHz. Nexus 10 chạy Android 4.3 Jelly Bean, và nó có bản 16 và 32 GB.
+
+
+== So sánh ==
+
+
+== Xem thêm ==
+Samsung Galaxy S series
+Samsung Galaxy Note series
+Android OS
+Máy tính bảng
+
+
+== Tham khảo ==
+
+
+== Liên kết ==

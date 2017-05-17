@@ -1,0 +1,135 @@
+Động vật bò sát (danh pháp khoa học: Reptilia) là các động vật bốn chân có màng ối (nghĩa là các phôi thai được bao bọc trong màng ối). Ngày nay, chúng còn lại các đại diện của 4 bộ còn sống sót là:
+Crocodilia: gồm các loài cá sấu thực sự, cá sấu caiman và cá sấu Mỹ, có 23 loài
+Sphenodontia (các loài tuatara ở New Zealand): 2 loài
+Squamata: gồm các loài thằn lằn, rắn và amphisbaenia ("bò sát giống bọ"), có khoảng 7.900 loài
+Testudines: gồm các loài rùa, ba ba, vích, đồi mồi v.v., có khoảng 300 loài
+Động vật bò sát được tìm thấy gần như ở mọi nơi trên thế giới, ngoại trừ châu Nam Cực, mặc dù khu vực phân bổ chính của chúng là các vùng nhiệt đới và cận nhiệt đới. Mặc dù tất cả hoạt động trao đổi chất trong các tế bào sản sinh ra một nguồn năng lượng nhất định, nhưng phần lớn các loài bò sát ngày nay không sản sinh ra đủ năng lượng để duy trì một thân nhiệt ổn định và vì thế chúng còn được gọi là "động vật máu lạnh" (ectothermic), ngoại lệ duy nhất là rùa da (Dermochelys coriacea). Thay vì thế, chúng dựa trên việc thu và mất nhiệt từ môi trường để điều chỉnh nhiệt độ bên trong của chúng, chẳng hạn bằng cách di chuyển ra chỗ có ánh nắng hay chỗ có bóng râm, hoặc bằng cách tuần hoàn máu có ưu đãi — chuyển máu nóng vào phần trung tâm của cơ thể, trong khi đẩy máu lạnh ra các khu vực ngoại biên. Trong môi trường sinh sống tự nhiên của chúng, phần lớn các loài là rất lão luyện trong công việc này, và chúng có thể thường xuyên duy trì nhiệt độ tại các cơ quan trung tâm trong một phạm vi dao động nhỏ, khi so sánh với các loài động vật có vú và chim, hai nhóm còn sống sót của "động vật máu nóng". Trong khi sự thiếu hụt cơ chế điều chỉnh thân nhiệt bên trong đã làm chúng phải chịu một cái giá đáng kể cho việc này thông qua các hành vi, thì ở mặt khác nó cũng đem lại một số lợi ích đáng kể như cho phép động vật bò sát có thể tồn tại ở những khu vực ít thức ăn hơn so với các loài chim và động vật có vú có kích thước tương đương, là những động vật phải dành hầu hết nguồn năng lượng thu nạp được cho việc giữ ấm cơ thể. Trong khi về cơ bản thì động vật máu nóng di chuyển nhanh hơn so với động vật máu lạnh thì những loài thằn lằn, cá sấu hay rắn khi tấn công con mồi lại là những động vật di chuyển cực nhanh.
+Ngoại trừ một số ít thành viên trong bộ Rùa (Testudines), thì tất cả các loài bò sát đều có vảy che phủ.
+Phần lớn các loài bò sát là động vật đẻ trứng. Tuy nhiên, nhiều loài trong nhóm Squamata lại có khả năng sinh ra con non. Điều này có thể là thông qua cơ chế đẻ trứng thai (nghĩa là con non phát triển trong vỏ trứng bên trong cơ thể mẹ trước khi sinh ra), hoặc đẻ con (con non được sinh ra không cần trứng có vỏ chứa canxi). Nhiều loài đẻ con nuôi dưỡng bào thai của chúng thông qua các dạng nhau thai khác nhau, tương tự như ở động vật có vú (Pianka & Vitt, 2003, các trang 116-118). Chúng thường cũng có sự chăm sóc ban đầu đáng kể cho các con non mới sinh.
+
+
+== Phân loại bò sát ==
+
+Từ quan điểm của phân loại học cổ điển, bò sát bao gồm tất cả các loài động vật có màng ối còn lại sau khi trừ đi chim và động vật có vú. Vì thế bò sát đã được định nghĩa như là một tập hợp các loài động vật bao gồm cá sấu, cá sấu Mỹ, tuatara, thằn lằn, rắn, thằn lằn có gai, rùa, được nhóm cùng nhau như là lớp Reptilia (từ tiếng Latinh repere, "trườn, bò"). Nó vẫn là định nghĩa thông thường của thuật ngữ này.
+Tuy nhiên, trong những năm gần đây, nhiều nhà phân loại học đã bắt đầu cho rằng các đơn vị phân loại phải đảm bảo yếu tố đơn ngành, nghĩa là đơn vị phân loại đó phải bao gồm tất cả các hậu duệ từ một dạng cụ thể nào đó. Bò sát theo như định nghĩa ở phần trên là một nhóm cận ngành, do nó đã loại ra cả chim và động vật có vú, mặc dù cả hai lớp này cũng đều phát triển và tiến hóa từ bò sát nguyên thủy. Colin Tudge đã viết (bản dịch):
+Động vật có vú là một nhánh đơn ngành, và vì thế các nhà miêu tả nhánh học là vui mừng khi biết rằng đơn vị phân loại truyền thống Mammalia; và cả chim đều là các nhánh đơn ngành, nói chung được quy cho đơn vị phân loại chính thức Aves. Mammalia và Aves trên thực tế là các phân nhánh trong nhánh lớn của Amniota (động vật có màng ối). Nhưng lớp truyền thống Reptilia lại không phải là một nhánh đơn ngành. Nó chỉ đơn thuần là một đoạn của nhánh Amniota: đoạn này là phần còn lại sau khi đã loại trừ Mammalia và Aves. Nó không thể được định nghĩa theo các đặc trưng được chia sẻ trong nhóm đang nghiên cứu mà không có ở các nhóm ngoài, theo như đúng cách. Thay vì thế, nó được định nghĩa bằng tổ hợp của các đặc trưng mà nó có lẫn với các đặc trưng mà nó không có: Bò sát là động vật có màng ối, không có cả lông mao lẫn lông vũ. Tốt nhất, các nhà miêu tả theo nhánh gợi ý là chúng ta nên nói về lớp Reptilia truyền thống là 'các động vật có màng ối, không là chim và không là động vật có vú'. (Tudge, trang 85)
+Với cùng dấu hiệu đó, lớp Amphibia (động vật lưỡng cư) trở thành Amphibia*, do từ một số động vật lưỡng cư cổ đại đã sinh ra tất cả các động vật có màng ối; và ngành Crustacea (động vật giáp xác) trở thành Crustacea*, do từ nó có thể đã sinh ra côn trùng và động vật nhiều chân (động vật trăm chân và nghìn chân). Nếu chúng ta tin, giống như một số (không phải tất cả) các nhà động vật học đã tin, thì động vật nhiều chân đã sinh ra côn trùng, khi đó họ phải gọi chúng là Myriapoda*....bằng quy ước này thì Reptilia không có dấu hoa thị là từ đồng nghĩa với Amniota, và bao gồm cả chim và động vật có vú, trong đó Reptilia* nghĩa là các động vật có màng ối không là chim, không là động vật có vú. (Tudge, trang 85)
+Các dẫn chiếu gần đây ở cấp độ đại học, chẳng hạn Benton (2004) [1], đã đưa ra một thỏa hiệp khác bằng cách áp dụng các cấp bậc truyền thống để chấp nhận các mối quan hệ phát sinh loài. Trong trường hợp này, bò sát thuộc về lớp Sauropsida (mặt thằn lằn), và các bò sát giống như động vật có vú thuộc về lớp Synapsida (một cung bên hay cung thú), với chim và động vật có vú đã tách ra thành các lớp truyền thống của chúng.
+
+
+=== Các nhóm bò sát ===
+Phân loại dưới đây là sự mở rộng của lớp Reptilia để chứa cả các tổ tiên đã tuyệt chủng của chim và động vật có vú, phù hợp với quan điểm của phát sinh chủng loài học. Như vậy, nó là tương đương với Động vật có màng ối (Amniota).
+Lớp Synapsida: Mặt thú
+Bộ Pelycosauria*
+Bộ Therapsida
+Lớp Mammalia
+
+Lớp Sauropsida: Mặt thằn lằn
+Họ Captorhinidae (tuyệt chủng)
+Họ Protorothyrididae - Hylonomus (tuyệt chủng)
+Phân lớp Anapsida
+Họ Mesosauridae (tuyệt chủng)
+Bộ Procolophonia - bao gồm cả Pareiasaur (tuyệt chủng)
+ ? Bộ Testudines - Các loài rùa, ba ba, vích, đồi mồi
+
+Phân lớp Diapsida
+Siêu bộ Ichthyopterygia - Ichthyosaur (tuyệt chủng)
+Cận lớp Lepidosauromorpha
+Siêu bộ Sauropterygia - Plesiosaur (tuyệt chủng)
+Siêu bộ Lepidosauria
+Bộ Sphenodontia - Tuatara
+Bộ Squamata - Thằn lằn và rắn
+
+Cận lớp Archosauromorpha
+Bộ Crocodilia - Cá sấu
+Bộ Pterosauria - Pterodactyl (tuyệt chủng)
+Siêu bộ Dinosauria - Khủng long
+Lớp Aves - Chim
+
+
+=== Cây họ hàng ===
+
+
+== Sự tiến hóa của bò sát ==
+
+Hylonomus là bò sát cổ nhất đã biết, và chúng dài khoảng 20–30 cm (8-12 inch). Westlothiana đã được cho là bò sát cổ nhất, nhưng ngày nay người ta cho rằng chúng có quan hệ họ hàng gần gũi với động vật lưỡng cư hơn là so với động vật có màng ối. Petrolacosaurus và Mesosaurus là các ví dụ khác. Những động vật đầu tiên được coi là "bò sát" thực thụ (Sauropsida) được phân loại như là Anapsida (phân lớp không cung), chúng có hộp sọ liền khối với các hốc chỉ dành cho mũi, mắt, tủy sống, v.v. Các loài rùa được coi là những động vật còn sống sót thuộc về phân lớp Anapsida, do chúng chia sẻ cấu trúc hộp sọ như thế; nhưng điểm này sau đó đã gây ra tranh cãi, với một số người cho rằng rùa đã trở lại với trạng thái nguyên thủy này nhằm hoàn thiện áo giáp của chúng. Cả hai luồng ý kiến đều có các chứng cứ hỗ trợ đủ mạnh, và mâu thuẫn này vẫn chưa được giải quyết.
+Chỉ một thời gian ngắn sau khi có những bò sát thực sự đầu tiên, hai nhánh đã được tách ra, một nhánh dẫn tới Anapsida, chúng đã không phát triển các hốc khác trên hộp sọ của mình. Nhánh kia là Diapsida (phân lớp Hai cung), chúng có được một cặp lỗ trên hộp sọ của mình ngay phía sau mắt, cùng với cặp lỗ thứ hai nằm cao hơn phía trên hộp sọ. Diapsida lại chia nhánh một lần nữa thành hai dòng trực hệ, là cận lớp Lepidosauromorpha (các đại diện ngày nay còn lại là rắn, thằn lằn và thằn lằn gai lưng (tuatara), cũng như chứa cả các loài bò sát biển (đang tranh cãi) đã tuyệt chủng trong đại Trung Sinh) và cận lớp Archosauromorpha (các đại diện ngày nay còn tồn tại chỉ là cá sấu và chim, nhưng đã từng chứa cả thằn lằn có cánh (bộ Pterosauria) và khủng long (bộ Dinosauria)).
+Những động vật có màng ối với hộp sọ liền khối đầu tiên cũng sinh ra một nhánh khác, đó là Synapsida (lớp Một cung hay lớp Mặt thú). Synapsida đã phát triển một cặp lỗ trong hộp sộ của chúng ngay phía sau mắt (tương tự như ở Diapsida), được sử dụng vừa là để làm nhẹ hộp sọ vừa để tăng không gian cho các cơ quai hàm. Synapsida cuối cùng tiến hóa thành động vật có vú, và thông thường được coi là các loài bò sát trông tương tự động vật có vú, mặc dù chúng không phải là các thành viên thực sự của lớp Sauropsida.
+
+
+=== Sự tuyệt chủng của khủng long ===
+Cuối kỷ Creta, nhiều loài động vật bò sát bị tuyệt chủng, trong đó có khủng long. Chỉ một số loài có kích thước nhỏ sống sót như rắn, rùa biển... và một số dạng sau này tiến hóa thành chim và thú. Sự kết thúc của "Thời đại bò sát" mở ra "Thời đại của Thú". Mặc dù vậy, bò sát vẫn là một nhóm động vật chính trong hệ sinh thái, đặc biệt là ở vùng nhiệt đới. Có khoảng 8.200 loài bò sát đang tồn tại (trong số đó gần một nửa là rắn), trong khi thú có 5.400 loài (trong số đó hai phần ba là các loài Gặm nhấm và các loài dơi). Nhóm phân loại hiện nay có số lượng cao nhất có nguồn gốc từ bò sát là các loài chim với trên 9.000 loài.
+
+
+== Các hệ thống trong cơ thể ==
+
+
+=== Tuần hoàn ===
+
+Phần lớn các loài bò sát có hệ tuần hoàn thông qua tim ba ngăn, bao gồm 2 tâm nhĩ và 1 tâm thất được phân chia một cách thay đổi. Thông thường có một cặp động mạch chủ. Mặc dù điều đó, nhưng do động lực học chất lỏng của luồng máu thông qua tim, nên đã có rất ít sự pha trộn của máu giàu ôxy và máu nghèo ôxy trong tim ba ngăn. Ngoài ra, luồng máu có thể bị ngăn lại để đổi hướng hoặc là máu nghèo ôxy tới các cơ quan khác trong cơ thể hoặc là máu giàu ôxy tới phổi, điều này giúp cho bò sát khả năng kiểm soát cao hơn đối với luồng chảy của máu của chúng, cho phép chúng có sự điều chỉnh thân nhiệt có hiệu quả hơn cũng như tăng thời gian lặn dưới nước lâu hơn đối với các loài sinh sống dưới nước. Tuy nhiên, ở đây có một vài ngoại lệ thú vị đối với bò sát. Ví dụ, các loài cá sấu có tim bốn ngăn phức tạp một cách đáng ngạc nhiên nhưng có khả năng hoạt động như là tim ba ngăn khi chúng lặn dưới nước. Ngoài ra, người ta cũng phát hiện ra rằng một số loài rắn và thằn lằn (chẳng hạn kỳ đà và trăn) có tim ba ngăn nhưng có thể hoạt động tựa như tim bốn ngăn khi co bóp. Điều này là có thể được là do dải cơ phân chia tâm thất trong kỳ tâm trương và phân chia hoàn toàn nó trong kỳ tâm thu. Do dải cơ này, một số bò sát trong nhóm Squamata này có thể tạo ra các chênh lệch áp suất tâm thất tương tự như ở tim của chim và động vật có vú.
+
+
+=== Hô hấp ===
+Tất cả bò sát đều sử dụng phổi để thở. Tuy nhiên, ở các loài rùa sống dưới nước chúng còn phát triển lớp da dễ thấm khí hơn, và thậm chí đối với một số loài còn có cả mang trong khu vực hậu môn của chúng (xem Orenstein, 2001). Mặc dù có các cơ chế thích nghi như vậy, nhưng quá trình hô hấp vẫn không thể thực hiện được hoàn hảo mà không có phổi. Sự thông khí tại phổi được thực hiện rất khác nhau trong mỗi nhóm bò sát chính. Ở Squamata thì các phổi được thông khí gần như là chỉ bằng hệ thống cơ quanh trục. Đây cũng là hệ thống cơ được sử dụng khi chúng vận động. Do sự ép buộc này, phần lớn bò sát thuộc nhóm Squamata buộc phải nín thở khi phải chạy nhanh. Tuy nhiên, một số loài đã tìm ra cách đi vòng qua điều đó. Các loài kỳ đà, và một số ít loài thằn lằn khác đã tận dụng cơ chế bơm miệng (thở bằng miệng) như là sự bổ sung cho "hô hấp trục" thông thường của chúng. Điều này cho phép chúng thu đủ lượng không khí cần thiết cho phổi khi phải vận động mạnh, và vì thế chúng duy trì được các hoạt động hô hấp trong một thời gian dài. Thằn lằn tegu được biết đến như là có được loại cơ tựa như cơ hoành, nó ngăn cách khoang phổi ra khỏi khoang chứa nội tạng khác. Trong khi nó không thực sự có khả năng chuyển động, nhưng nó cho phép thổi phồng phổi nhiều hơn, bằng cách giảm khối lượng của nội tạng đè lên phổi (Klein và những người khác, 2003). Cá sấu có cơ hoành thực sự giống như ở động vật có vú. Sự khác biệt là ở chỗ các cơ của cơ hoành cá sấu kéo xương mu (một phần của khung xương chậu, nó là chuyển động được ở cá sấu) trở lại, làm cho gan chuyển động xuống dưới và vì thế tăng không gian tự do cho phổi nở rộng. Kiểu thiết lập cơ hoành như thế này được coi là "pít-tông gan".
+Các loài rùa thở như thế nào hiện vẫn đang là chủ đề để nghiên cứu. Tới nay, chỉ một số ít loài rùa được nghiên cứu tường tận đủ để đưa ra ý tưởng rùa thở thế nào. Các kết quả chỉ ra rằng rùa nói chung có nhiều giải pháp cho vấn đề này. Vấn đề là ở chỗ phần lớn các mai rùa là cứng nhắc và không cho phép bất kỳ kiểu mở rộng và co bóp nào mà các động vật có màng ối khác đã sử dụng để thông khí cho phổi của chúng. Một số loài rùa như ba ba lưng dẹp Ấn Độ (Lissemys punctata) có tấm cơ làm màng bao phổi. Khi nó co bóp, ba ba có thể hít thở. Khi nghỉ ngơi, con ba ba này có thể co các chi lại vào trong khoang cơ thể và đẩy không khí ra khỏi phổi. Khi nó kéo dài các chi ra thì áp suất bên trong phổi bị giảm xuống và con ba ba có thể hít không khí vào. Phổi của rùa gắn liền với mặt trong của mai, và phần đáy của phổi gắn liền (thông qua mô kết nối) với phần còn lại của nội tạng. Bằng cách sử dụng một loạt các cơ đặc biệt (có tác dụng như cơ hoành), rùa có khả năng xô đẩy nội tạng của nó lên và xuống, tạo ra sự hô hấp có hiệu quả, do pần nhiều trong các cơ này có các điểm gắn kết được kết nối với các chi trước (trên thực tế, nhiều cơ mở rộng vào các túi chứa chi trong quá trình co bóp). Sự hô hấp trong quá trình vận động đã được nghiên cứu ở ba loài, và chúng thể hiện các kiểu hô hấp khác nhau. Vích (Chelonia mydas) cái trưởng thành không hít thở khi chúng bò dọc theo bãi biển nơi làm tổ của chúng. Chúng nín thở khi vận động trên mặt đất và hít thở khi dừng lại. Rùa hộp Bắc Mỹ (chi Terrapene) thở liên tục trong khi vận động, và chu kỳ thông khí không khớp với các chuyển động của chi (Landberg và những người khác, 2003). Có lẽ chúng sử dụng các cơ bụng để thở trong khi vận động. Loài cuối cùng được nghiên cứu là rùa tai đỏ (Trachemys scripta elegans), nó cũng hít thở khi vận động, nhưng chúng có hơi thở nhỏ hơn trong khi vận động khi so sánh với hơi thở trong những khoảng dừng ngắn giữa các vận động, chỉ ra rằng có thể có sự can thiệp cơ học giữa các chuyển động của chi và hệ thống hô hấp. Các loài rùa hộp cũng được quan sát thấy có hít thở khi rụt vào bên trong mai của chúng (cùng cuốn sách đó).
+Phần lớn bò sát thiếu vòm miệng thứ cấp, nghĩa là chúng phải nín thở khi nuốt thức ăn. Các loài cá sấu đã tiến hóa vòm miệng thứ cấp bằng chất xương cho phép chúng vẫn tiếp tục thở được trong khi vẫn ở dưới nước (và bảo vệ não của chúng khỏi những va đạp trong khi vật lộn với con mồi). Thằn lằn chân ngắn (họ Scincidae) cũng đã có vòm miệng thứ cấp bằng xương, ở các mức độ khác nhau. Rắn lại có cách tiếp cận khác là mở rộng khí quản của chúng. Phần mở rộng khí quản của chúng phình ra tương tự như một ống nhỏ nhiều thịt và cho phép chúng nuốt các con mồi lớn hơn mà không bị ngạt thở.
+Ngoài ra, cá sấu còn được biết đến như là "khóc" khi ăn. Nhiều chuyện kể trong dân gian đã gắn liền với thực tế ngạc nhiên này, chẳng hạn như là do cá sấu cảm thấy có tội khi ăn, nhưng trên thực tế, chúng tiết nước mắt ra là để giải phóng các chất lỏng ra khỏi cơ thể nhằm giữ chỗ cho không khí để có thể thở. Việc này cũng là do một thực tế là khoang mũi của cá sấu là rất nhỏ.
+
+
+=== Bài tiết ===
+Sự bài tiết được thực hiện chủ yếu là bằng hai quả thận nhỏ. Ở các loài bò sát Hai cung (Diapsida) thì axít uric là chất thải chính có chứa nitơ. Rùa, tương tự như động vật có vú, chủ yếu là bài tiết ra urê. Không giống như thận của động vật có vú và chim, thận của bò sát không có khả năng tạo ra nước tiểu có nồng độ urê cao hơn so với dịch lỏng trong cơ thể. Có điều này là do chúng thiếu cấu trúc đặc biệt tại các nephron như của chim và động vật có vú, gọi là vòng Henle. Do điều này, nhiều loài bò sát sử dụng ruột kết và lỗ huyệt để hỗ trợ việc tái hấp thụ nước. Một số loài còn có khả năng lấy nước lưu trữ trong bàng quang. Lượng muối dư thừa cũng được bài tiết ra nhờ các tuyến muối ở khoang mũi hay lưỡi ở một số loài bò sát.
+
+
+=== Thần kinh ===
+Hệ thần kinh của bò sát tiến hóa hơn so với động vật lưỡng cư. Chúng có 12 cặp dây thần kinh hộp sọ.
+
+
+=== Sinh sản ===
+Phần lớn động vật bò sát sinh sản hữu tính. Gần như tất cả các bò sát đực, ngoại trừ rùa, có một ống kép giống như cơ quan sinh dục gọi là bán dương vật (hemipenes). Các loài rùa đực có một dương vật. Tất cả các loài rùa đều đẻ trứng, không giống như một số loài thằn lằn và rắn có khả năng sinh ra con non. Hoạt động sinh sản diễn ra thông qua một lỗ huyệt (cloaca), lối ra/vào duy nhất ở gốc đuôi, tại đó sự bài tiết chất thải cũng như sinh sản diễn ra.
+Sinh sản vô tính đã được ghi nhận ở một số họ thuộc bộ Squamata như 6 họ thằn lằn và 1 họ rắn. Trong một số loài bò sát thuộc bộ này thì các bò sát cái có khả năng sinh ra bản sao lưỡng bội đơn tính từ con mẹ. Sự sinh sản vô tính diễn ra ở một số loài thạch sùng và tắc kè (họ Gekkonidae), và hoạt động này là khá phổ biến ở thằn lằn tegu (họ Teiidae, đặc biệt là chi Aspidocelis) và thằn lằn chính thức (họ Lacertidae, chi Lacerta). Sinh sản vô tính cũng được cho là có ở tắc kè hoa (họ Chamaeleonidae), kỳ nhông (họ Agamidae), thằn lằn đêm (họ Xantusiidae) và rắn giun (họ Typhlopidae).
+Trứng có màng ối được bao phủ bằng lớp vỏ chứa canxi hay vỏ da. Các màng ối, màng đệm và niệu nang đều có trong thời kỳ sự sống ở dạng phôi thai. Không có giai đoạn ấu trùng trong quá trình phát triển.
+
+
+== Kỹ năng tự vệ ==
+
+Nhiều loài bò sát nhỏ như rắn và thằn lằn sống trên mặt đất hoặc dưới nước có nguy cơ bị các loại động vật ăn thịt săn bắt và ăn thịt. Vì vậy trốn tránh kẻ thù là hình thức phổ biến nhất trong kỹ năng tự vệ của các loài bò sát. Hầu hết các loài rắn và thằn lằn nhận biết từ dấu hiệu đầu tiên của mối nguy hiểm bằng lông tơ, trong khi đó rùa và cá sấu sẽ lao vào nước và lặn đi mất.
+Bò sát cũng có thể tránh đối đầu bằng cách ngụy trang. Bằng cách sử dụng một loạt các màu xám, xanh và nâu, những loài động vật này có thể hòa lẫn đáng kể vào nền của môi trường tự nhiên.
+Nếu nguy hiểm phát sinh một cách bất ngờ, cá sấu, rùa, một số loài thằn lằn, và một số loài rắn sẽ rít thật to khi phải đối mặt với kẻ thù. Thằn lằn dễ rụng phần ngọn của đuôi để thoát thân.
+Nếu các phương thức này không ngăn chặn kẻ thù, các loài khác nhau sẽ áp dụng chiến thuật phòng thủ khác nhau. Một số loài có thể cắn, một số sẽ sử dụng đầu để đe dọa, một số đuổi kẻ thù lên cạn, trong khi đó một số loài có thể dùng nọc độc.
+
+
+== Xem thêm ==
+Danh sách bò sát
+Dạng người bò sát
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+
+
+== Tài liệu ==
+Colin Tudge (2000). The Variety of Life. Ấn bản Đại học Oxford. ISBN 0-19-860426-2.
+Benton, M. J. (2004), Vertebrate Paleontology, ấn bản lần thứ 3. Blackwell Science Ltd.
+Pianka, Eric; Vitt, Laurie (2003). Lizards Windows to the Evolution of Diversity. University of California Press. tr. 116–118. ISBN 0-520-23401-4. 
+Mazzotti, Frank; Ross, Charles (ed) (1989). "Structure And Function" Crocodiles and Alligators. Facts on File. ISBN 0-8160-2174-0. 
+Wang, Tobias; Altimiras, Jordi; Klein, Wilfried; Axelsson, Michael (2003). “Ventricular haemodynamics in Python molurus: separation of pulmonary and systemic pressures”. The Journal of Experimental Biology 206: 4242–4245.  
+Klein, Wilfried; Abe, Augusto; Andrade, Denis; Perry, Steven (2003). “Structure of the posthepatic septum and its influence on visceral topology in the tegu lizard, Tupinambis merianae (Teidae: Reptilia)”. Journal of Morphology 258 (2): 151–157.  
+Orenstein, Ronald (2001). Turtles, Tortoises & Terrapins: Survivors in Armor. Firefly Books. ISBN 1-55209-605-X. 
+Landberg, Tobias; Mailhot, Jeffrey; Brainerd, Elizabeth (2003). “Lung ventilation during treadmill locomotion in a terrestrial turtle, Terrapene carolina”. Journal of Experimental Biology 206 (19): 3391–3404.  
+Pough, Harvey; Janis, Christine; Heiser, John (2005). Vertebrate Life. Pearson Prentice Hall. ISBN 0-13-145310-6. 
+Laurin, Michel và Gauthier, Jacques A.: Diapsida. Lizards, Sphenodon, crocodylians, birds, and their extinct relatives, Phiên bản ngày 22 tháng 6 năm 2000; một phần của Dự án Web Cây phát sinh sự sống
+
+
+== Liên kết ngoài ==
+
+Website về cây phát sinh sự sống
+Cơ sở dữ liệu bò sát tại EMBL
+HC Network
+Phát sinh loài của bò sát
+Trang về bò sát
+Sinh học và bảo tồn bò sát
+ReptilesWeb.com, một cổng tin tức phi lợi nhuận cho những người yêu thích bò sát trên khắp thế giới
+Hình ảnh bò sát tại Biocrawler.com
+Bảo vệ bò sát ở Ấn Độ

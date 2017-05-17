@@ -1,0 +1,125 @@
+Hóa học, một nhánh của khoa học tự nhiên, là ngành nghiên cứu về thành phần, cấu trúc, tính chất, và sự thay đổi của vật chất. Hóa học nói về các nguyên tố, hợp chất, nguyên tử, phân tử, và các phản ứng hóa học xảy ra giữa những thành phần đó.
+Hóa học đôi khi được gọi là "khoa học trung tâm" vì nó là cầu nối các ngành khoa học tự nhiên khác như vật lý học, địa chất học và sinh học.
+
+
+== Lịch sử ==
+
+Hóa học phát triển từ giả kim thuật, đã được thực hành từ hàng ngàn năm trước như ở Trung Hoa, Châu Âu và Ấn Độ.
+Khoa giả kim thuật nghiên cứu về vật chất, nhưng thế giới của những nhà giả kim thuật đều dựa trên kinh nghiệm thực tế và công thức bắt nguồn từ thực hành chứ không dựa vào những nghiên cứu khoa học. Mục đích của họ là một chất gọi là "Hòn đá phù thủy" dùng để biến đổi những chất như chì thành vàng. Các nhà giả kim thuật đã tiến hành rất nhiều thí nghiệm để tìm ra chất này và qua đó họ đã phát triển nhiều dụng cụ mà ngày nay vẫn còn được sử dụng trong kỹ thuật hóa học.
+Tuy nhiên, không một nhà giả kim thuật nào tìm ra được hòn đá phù thủy và trong thế kỷ thứ 17, các phương pháp làm việc của khoa giả kim thuật được thay đổi bằng những phương pháp khoa học. Một phần kiến thức của các nhà giả kim thuật đang được sử dụng bởi các nhà hóa học, những người làm việc dựa vào kết luận hợp lý dựa trên những gì mà họ quan sát được chứ không dựa vào ý nghĩ biến hóa chì thành vàng.
+Thuật ngữ 'Hóa học' có nguồn gốc từ tiếng Hy Lạp χημεία chimeía (nghệ thuật về kim loại). Phát âm của từ mang nghĩa Hóa học được sử dụng ngày nay có lẽ lần đầu tiên được sử dụng bởi Johann Joachim Lange khoảng năm 1750-1753.
+Lịch sử của hóa học có thể được coi như bắt đầu từ lúc Robert Boyle tách hóa học từ khoa giả kim thuật trong tác phẩm The Skeptical Chemist (Nhà hóa học hoài nghi) vào năm 1661 nhưng thường được đánh dấu bằng ngày Antoine Lavoisier tìm ra khí ôxy vào năm 1783.
+Hóa học có bước phát triển mạnh và phân hoá vào thế kỷ 19. Những nghiên cứu của Justus von Liebig về tác động của phân bón đã thành lập ra ngành Hóa nông nghiệp và cung cấp nhiều nhận thức cho ngành hóa vô cơ. Cuộc tìm kiếm một hóa chất tổng hợp thay thế cho chất màu indigo dùng để nhuộm vải là bước khởi đầu của những phát triển vượt bậc cho ngành hóa hữu cơ và dược. Một đỉnh cao trong sự phát triển của ngành hóa học chính là phát minh bảng tuần hoàn nguyên tố của Dmitri Ivanovich Mendeleev và Lothar Meyer. Mendelev đã sử dụng quy luật của bảng tuần hoàn để tiên đoán trước sự tồn tại và tính chất của các nguyên tố germanium, gallium và scandium vào năm 1870. Gallium được tìm thấy vào năm 1875 và có những tính chất như Mendeleev đã tiên đoán trước.
+Nghiên cứu trong hóa học đã phát triển trong thời kỳ chuyển tiếp sang thế kỷ 20 đến mức các nghiên cứu sâu về cấu tạo nguyên tử đã không còn là lãnh vực của hóa học nữa mà thuộc về vật lý nguyên tử hay vật lý hạt nhân. Mặc dù vậy, các công trình nghiên cứu này đã mang lại nhiều nhận thức quan trọng về bản chất của sự biến đổi chất hóa học và của các liên kết hóa học. Các động lực quan trọng khác bắt nguồn từ những khám phá trong vật lý lượng tử thông qua mô hình quỹ đạo điện tử.
+
+
+== Tầm quan trọng ==
+
+
+=== Đời sống ===
+Phản ứng hóa học xảy ra trong cuộc sống hằng ngày ví dụ như trong lúc nấu ăn, làm bánh hay rán mà trong đó các biến đổi chất xảy ra một cách rất phức tạp đã góp phần tạo nên hương vị đặc trưng cho món ăn. Thêm vào đó thức ăn được phân tách ra thành các thành phần riêng biệt và cũng được biến đổi thành năng lượng.
+
+
+=== Liên hệ với khoa học khác ===
+Hóa học nghiên cứu về tính chất của các nguyên tố và hợp chất, về các biến đổi có thể có từ một chất này sang một chất khác, tiên đoán trước tính chất của những hợp chất chưa biết đến cho tới nay, cung cấp các phương pháp để tổng hợp những hợp chất mới và các phương pháp đo lường hay phân tích để tìm các thành phần hóa học trong những mẫu thử nghiệm.
+Mặc dù tất cả các chất đều được cấu tạo từ một số loại "đá xây dựng" tương đối ít, tức là từ khoảng 80 đến 100 nguyên tố trong số 118 nguyên tố được biết đến nhưng sự kết hợp và sắp xếp khác nhau của các nguyên tố đã mang lại đến vài triệu hợp chất khác nhau, những hợp chất mà đã tạo nên các loại vật chất khác nhau như nước, cát (chất), mô sinh vật và mô thực vật. Thành phần của các nguyên tố quyết định các tính chất vật lý và hóa học của các chất và làm cho hóa học trở thành một bộ môn khoa học rộng lớn.
+Cũng như trong các bộ môn khoa học tự nhiên khác, thí nghiệm trong hóa học là cột trụ chính. Thông qua thí nghiệm, các lý thuyết về cách biến đổi từ một chất này sang một chất khác được phác thảo, kiểm nghiệm, mở rộng và khi cần thiết thì cũng được phủ nhận.
+Tiến bộ trong các chuyên ngành khác nhau của hóa học thường là các điều kiện tiên quyết không thể thiếu cho những nhận thức mới trong các bộ môn khoa học khác, đặc biệt là trong các lãnh vực của sinh học và y học, cũng như trong lãnh vực của vật lý (Ví dụ như việc chế tạo các chất siêu dẫn mới). Hóa sinh, một chuyên ngành rộng lớn, đã được thành lập tại nơi giao tiếp giữa hóa học và sinh vật học và là một chuyên ngành không thể thiếu được khi muốn hiểu về các quá trình trong sự sống, các quá trình mà có liên hệ trực tiếp và không thể tách rời được với sự biến đổi chất.
+Đối với y học thì hóa học không thể thiếu được trong cuộc tìm kiếm những thuốc trị bệnh mới và trong việc sản xuất các dược phẩm. Các kỹ sư thường tìm kiếm vật liệu chuyên dùng tùy theo ứng dụng (vật liệu nhẹ trong chế tạo máy bay, vật liệu xây dựng chịu lực và bền vững, các chất bán dẫn đặc biệt tinh khiết,...). Ở đây bộ môn khoa học vật liệu đã phát triển như là nơi giao tiếp giữa hóa học và kỹ thuật.
+
+
+=== Trong công nghiệp ===
+Công nghiệp hóa học là một ngành kinh tế rất quan trọng. Công nghiệp hóa học sản xuất các hóa chất cơ bản như axít sunfuric hay amoniac, thường là nhiều triệu tấn hằng năm, cho sản xuất phân bón và chất dẻo và các mặt khác của đời sống và sản xuất công nghiệp. Mặt khác, ngành công nghiệp hóa học cũng sản xuất rất nhiều hợp chất phức tạp, đặc biệt là dược phẩm. Nếu không có các hóa chất được sản xuất trong công nghiệp thì cũng không thể nào sản xuất máy tính hay nhiên liệu và chất bôi trơn cho công nghiệp ô tô.
+
+
+== Phân ngành ==
+Hóa học được chia ra theo loại chất nghiên cứu mà quan trọng nhất là cách chia truyền thống ra làm Hóa hữu cơ (Hóa học nghiên cứu về những hợp chất của cacbon) và Hóa vô cơ (Hóa học của những nguyên tố và hợp chất không có chuỗi cacbon).
+Một cách chia khác là chia Hóa học theo mục tiêu thành Hóa phân tích (phân chia những hợp chất) và Hóa tổng hợp (tạo thành những hợp chất mới).
+Một số chuyên ngành quan trọng khác của Hóa học là: Hóa sinh, Hóa-Lý, Hóa lý thuyết bao gồm ngành Hóa lượng tử, Hóa thực phẩm, Hóa lập thể, và Hóa dầu.
+
+
+== Khái niệm quan trọng ==
+Mô hình hiện tại về cấu trúc nguyên tử là mô hình cơ học lượng tử. Hóa học truyền thống bắt đầu với sự nghiên cứu về các hạt cơ bản, nguyên tử, phân tử, hợp chất, kim loại, tinh thể và các tập hợp vật chất khác. Loại vật chất này có thể nghiên cứu ở dạng rắn, lỏng hoặc khí ở dạng riêng biệt hoặc kết hợp. Tương tác hóa học, phản ứng và biến đổi được nghiên cứu trong hóa học thường là kết quả của sự tương tác giữa các nguyên tử làm sắp xếp lại các liên kết hóa học giữ các nguyên tử đi cùng nhau.
+Phản ứng hóa học là một dạng biến đổi của một số chất thành một hoặc nhiều chất khác. Nền tảng của biến đổi hóa học là tái sắp xếp các electron trong các liên kết hóa học giữa các nguyên tử. Nó có thể được biểu diễn bằng phương trình hóa học. Số nguyên tử bên phải và trái của phương trình biến đổi hóa học là bằng nhau. Tùy loại phản ứng hóa học, một chất có thể diễn ra và năng lượng thay đổi kèm theo tuân thủ theo các nguyên tắc nhất định được gọi là các quy luận hóa học.
+Năng lượng và entropy là yếu tố quan trọng không thay đổi trong hầu hết các nghiên cứu hóa học. Các chất hóa học được phân loại theo cấu trúc, pha cũng như thành phần hóa học. Các chất này được phân tích bằng các công cụ của hóa phân tích, như quang phổ và sắc ký. Các nhà khoa học nghiên cứu liên quan đến hóa học được gọi là nhà hóa học. Hầu hết các nhà hóa học chuyên nghiên cứu về một hoặc nhiều lĩnh vực. Nhiều khái niệm quan trọng trong nghiên cứu hóa học như:
+
+
+=== Thuật ngữ ===
+Bài chính: Thuật ngữ hóa
+Thuật ngữ là cách đặt tên rõ ràng cho các hợp chất. Các hợp chất hữu cơ có tên theo thuật ngữ hữu cơ, và các hợp chất vô cơ có tên theo thuật ngữ vô cơ.
+
+
+=== Nguyên tử ===
+Bài chính: Nguyên tử
+Nguyên tử là thành phần nhỏ nhất trong hóa học. Nó được xem là nhỏ nhất vì đối với hóa học, nguyên tử không thể bị chia nhỏ hơn được nữa. Nguyên tử bao gồm hơn 100 nguyên tử các loại.
+
+
+=== Nguyên tố ===
+Bài chính: Nguyên tố.
+Nguyên tố là tập hợp những nguyên tử đồng vị, có cùng số proton nhưng khác số nơtron. Có khoảng 110 nguyên tố hóa học, số thứ tự nguyên tố trong bảng tuần hoàn chính là số hạt proton trong hạt nhân nguyên tử. Ví dụ: nguyên tố Hydrô là tập hợp 3 loại đồng vị của nguyên tử hydrô gồm các nguyên tử có 1 proton trong hạt nhân và những nguyên tử có 92 proton trong hạt nhân thuộc nguyên tố urani.
+
+
+=== Hợp chất ===
+Bài chính: Hợp chất hóa học.
+Một hợp chất trong hóa học là một chất có tỷ lệ cố định của các nguyên tố cấu thành và có một cấu tạo nhất định quyết định các tính chất hóa học. Ví dụ như nước là một hợp chất có hiđrô và ôxy với tỷ lệ 2:1. Các hợp chất được tạo thành và biến đổi thông qua các phản ứng hóa học.
+
+
+=== Phân tử ===
+Bài chính: Phân tử.
+Phân tử là phần nhỏ nhất không thể chia cắt được nữa của một hợp chất tinh khiết mà vẫn giữ được các tính chất hóa học đồng nhất. Một phân tử chứa đựng 2 hay nhiều nguyên tử liên kết với nhau. Phân tử biểu hiện sự liên kết của nguyên tử.
+
+
+=== Ion ===
+Bài chính: Ion.
+Ion là một chất có tích điện hay một nguyên tử hay phân tử đã mất đi hay có thêm một điện tử. Cation tích điện dương (Ví dụ như cation của natri Na+) và anion tích điện âm (Ví dụ clorua Cl-) tạo thành muối trung tính (Ví dụ như natri clorua). Hyđroxyt (OH-) hay phosphat (PO43-) là các ví dụ cho ion nhiều nguyên tử không bị chia cắt trong các phản ứng axít-bazơ.
+
+
+=== Liên kết hóa học ===
+Bài chính: Liên kết hóa học.
+Liên kết hóa học là liên kết giữa các nguyên tử trong phân tử hay trong tinh thể. Trong nhiều hợp chất đơn giản, thuyết liên kết hóa trị và khái niệm về số ôxi hóa có thể được ứng dụng để tiên đoán rất nhiều cấu trúc của ion. Tuy nhiên Thuyết liên kết hóa trị không giải thích được cấu tạo của các hợp chất phức tạp hơn như các hợp chất phức của kim loại và người ta phải cần đến các lý thuyết khác dựa trên cơ sở của hóa lượng tử như thuyết quỹ đạo phân tử.
+
+
+=== Trạng thái vật chất ===
+Bài chính: Trạng thái vật chất.
+Trong vật lý và hóa học, một trạng thái vật chất, hay một pha của vật chất, là một tập hợp các điều kiện vật lý và hóa học mà ở đó vật chất có các tính chất lý hóa đồng nhất.
+
+
+=== Phản ứng hóa học ===
+Bài chính: Phản ứng hóa học.
+Phản ứng hóa học là các biến đổi trong cấu trúc của các phân tử. Trong phản ứng hóa học các phân tử liên kết với nhau tạo thành các phân tử lớn hơn hay bị phá vỡ ra thành 2 hay nhiều phân tử nhỏ hơn. Các phản ứng hóa học thường bao hàm việc tạo thành hay phá vỡ các liên kết hóa học.
+
+
+=== Hóa lượng tử ===
+Bài chính: Hóa lượng tử.
+Hóa lượng tử miêu tả vật chất trong thế giới hóa học trên cơ sở của Cơ học lượng tử. Về nguyên tắc có thể dùng lý thuyết này để miêu tả tất cả các hệ thống hóa học. Tuy nhiên, do sự phức tạp của việc giải Phương trình Schrödinger của Cơ học lượng tử, chỉ một số ít các hệ phân tử, nguyên tử đơn giải được nghiên cứu chi tiết. Các hệ thống phức tạp hơn được nghiên cứu qua việc giải gần đúng với các giả thiết điều kiện biên tối giản của phương trình sóng Schrodinger.
+
+
+=== Các định luật ===
+Khái niệm cơ bản nhất trong hóa học là định luật bảo toàn khối lượng (không có thay đổi về số lượng của vật chất trong một phản ứng hóa học). Vật lý hiện đại đã chỉ ra rằng chính năng lượng mới được bảo toàn và đồng thời năng lượng và khối lượng có liên hệ trực tiếp với nhau, một thuyết quan trọng trong ngành hóa hạt nhân. Định luật bảo toàn năng lượng cũng là định luật cơ sở của nhiều lý thuyết quan trọng khác của cân bằng hóa học, nhiệt động lực học và động lực học hóa học
+Các định luật khác của hóa học phát sinh từ định luật bảo toàn khối lượng. Định luật tỷ lệ xác định của Joseph Proust cho rằng các hóa chất tinh khiết được cấu tạo từ nguyên tử của các nguyên tố với một công thức cố định. Định luật tỷ lệ bội số của John Dalton cho rằng các nguyên tử của một nguyên tố này hiện diện trong chất với một tỷ lệ nhất định là các số nguyên nhỏ nhất (Ví dụ O và H tồn tại trong phân tử nước theo tỷ lệ 1:2).
+Các định luật hiện đại của hóa học định nghĩa mối quan hệ giữa năng lượng và sự biến đổi.
+Sự biến đổi từ cấu trúc này sang cấu trúc khác cần dùng đến năng lượng để vượt qua rào cản năng lượng, Hóa học gọi là Hàng rào thế năng hay Năng lượng hoạt hóa. Năng lượng cần dùng này có thể là năng lượng nội tại bên trong của chính các phân tử hay từ một nguồn bên ngoài. Tốc độ của sự biến đổi phụ thuộc nhiều vào Năng lượng hoạt hóa. Năng lượng hoạt hóa càng cao thì sự biến đổi xảy ra càng chậm vào ngược lại.
+Định đề Hammond-Leffler cho rằng cấu trúc của các phân tử tại trạng thái chuyển tiếp trong các phản ứng hóa học sẽ tương tự với sản phẩm hay hóa chất khởi đầu có năng lượng bên trong gần giống nhất.
+Tất cả các quy trình hóa học đều có thể đảo ngược được mặc dù một vài quy trình cần nhiều năng lượng đến mức về cơ bản chúng không đảo ngược được.
+Sự cân bằng hóa học là một trạng thái mà ở đó vận tốc của quá trình biến đổi thuận bằng với vận tốc của quá trình đảo ngược, nghĩa là vận tốc sinh ra một chất cân bằng với vận tốc của quá trình làm tiêu hao chất đó thành các sản phẩm ban đầu. Nếu có một sự tác động làm phá vỡ cân bằng này, thì sự biến đổi sẽ được thực hiện theo hướng chống lại sự thay đổi này nhằm thiết lập một cân bằng hóa học mới.
+
+
+== Xem thêm ==
+Bảng tuần hoàn
+Hợp chất hóa học
+Nhà hóa học
+Khoa học tự nhiên
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+
+(bằng tiếng Việt)
+Hóa học cho mọi người - mọi nhà: Trọn bộ 4 tập. B.Đ. Stêrin, L.IU Alikberôva; Người dịch: Nguyễn Thị Quyên. Nhà xuất bản Khoa học và Kỹ thuật, 2000
+
+
+== Liên kết ngoài ==
+Hoá học tại Từ điển bách khoa Việt Nam
+Chemistry tại Encyclopædia Britannica (tiếng Anh)

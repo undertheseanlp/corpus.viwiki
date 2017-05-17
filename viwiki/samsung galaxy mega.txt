@@ -1,0 +1,54 @@
+Samsung Galaxy Mega là điện thoại thông minh/máy tính bảng lai chạy hệ điều hành Android sản xuất bởi Samsung. Nó được công bố vào 11 tháng 4 năm 2013. Phiên bản đầu tiên màn hình 6,3 in (160 mm) và phiên bản thứ hai là 5,8 in (150 mm). Các thông số kĩ thuật trên Mega tương đương với các điện thoại tầm trung như màn hình 1,280 x 720, bộ xử lý lõi kép 1.7 GHz và máy ảnh 8-megapixel. Nó chạy Android 4.2.2 "Jelly Bean", và bộ nhớ trong là 8 hoặc 16GB. Samsung Galaxy Mega dự kiến sẽ cập nhật lên Android 4.4 "Kit Kat".
+
+
+== Tính năng ==
+Multi-window – Khả năng chia màn hình
+Home Screen có sẵn trong chế độ nằm ngang
+Group Play — Liên kết với các thiết bị Galaxy khác để chia sẻ hình ảnh hoặc tao hiệu ứng vòng sử dụng mỗi loa của từng thiết bị
+Air View — Di chuột trên các ứng dụng hỗ trợ để xem trước các thông tin. (bản 6,3 model chỉ ở chế độ đứng)
+S Memo — Ứng dụng Samsung Note. Tạo chữ viết tay bằng chính tay bạn, ký tự với bàn phím, và nhúng âm thanh hoặc hình ảnh.
+S Voice – Trợ lý cá nhân.
+S Translator — Ứng dụng dịch thuật, hỗ trợ 9 ngôn ngữ.
+Smart Stay — Sử dụng camera phía trước để theo dõi ánh mắt của bạn, và sẽ tự động tắt nếu bạn không nhìn vào màn hình.
+IR blaster (bản 6,3)
+Smart dual sim (bản 5,8)
+
+
+== Phần mềm ==
+Galaxy Mega phần lớn tương tự như Galaxy S4, và hai tính năng chia sẻ tương tự. Người dùng có thể tùy chỉnh màn hình khóa và truy cập nhanh chóng vào cài đặt từ thanh thông báo thả xuống. Một tính năng khác bao gồm Air View, cho phép người dùng xem trước email và hình ảnh khi lướt ngón tay trên màn hình, và WatchON, cho phép người trung điều khiển truyền hình bằng điện thoại của mình. Nó cũng bao gồm Multi Window, cho phép người dùng có thể sử dụng nhiều ứng dụng một lúc trên cùng một màn hình, đó là tính năng được tăng cường trên điện thoại 6,3-inch LCD (720 x 1.280). S Translator cung cấp nhanh và dễ, và ChatON cho phép người dùng chia sẻ màn hình với người khác.
+Máy ảnh chính 8-megapixel với nhiều chế độ chụp ảnh như Panorama và Sound & Shot. Tính năng Story Album lấy ảnh để tạo nên một cuốn nhật ký. Mega chạy Android 4.2.2 (Jelly Bean). Người dùng có thể lưu trữ nhạc, hình ảnh và video với bộ nhớ mở rộng 64 GB thông qua microSD card. Pin 3,200-mAh có thể thay thế có thể sử dụng trong ngày chỉ một lần sạc. Galaxy Mega là dụng vi xử lý lõi kép 1,7-GHz Qualcomm MSM8930 Pro với 1,5GB VRAM.
+
+
+== Thiết kế ==
+Galaxy Mega có kích thước 6,6 x 3,46 x 0,31 inches, như các điện thoại thông minh khác, bao gồm Samsung Note II (5,9 x 3,2 x 0,37 inches), Samsung Galaxy S4 (130g, 5,31 x 2,69 x 0,25 inches), HTC One (144g, 5,31 x 2,63 x 0,28 inches) và Motorola Moto X (136g, 5,1 x 2,6 x 0,22-0,4 inches). Nó nặng 201g, nhưng vẫn thấy nhẹ mặc dù kích thước của nó.
+
+
+== Hệ điều hành ==
+Samsung Galaxy Mega chạy Android Jelly Bean 4.2.2 với giao diện TouchWiz của Samsung. Chế độ Multi Window của Samsung là trước và giữa trên thiết bị. Tương tự như các điện thoại Galaxy khác, bạn có thể tùy chỉnh màn hình khóa của Mega với widgets và các phím tắt. Bảy màn hình home có sẵn cho người dùng. 16 nút cài đặt nhanh trên thanh thông báo kéo cho phép người dùng chuyển đổi tính năng bao gồm kết nối Wi-Fi và Smart Stay độc quyền. Các nút này có thể sắp xếp lại được bằng các nhấp vào nút bên phải trên thanh thông báo kéo xuống.
+Samsung Galaxy Mega sẽ nhận được cập nhật Android 4.4 cùng với Samsung Galaxy S4 Mini.
+
+
+== Biến thể ==
+GT-I9150 – màn hình 5,8-inch, 1,4 GHz CPU, 1,5 GB RAM, 8 GB bộ nhớ trong - không hỗ trợ LTE - không hỗ trợ đa SIM
+GT-I9152 - màn hình 5,8-inch, 1,4 GHz CPU, 1,5 GB RAM, 8 GB bộ nhớ trong - không hỗ trợ LTE - không hỗ trợ đa SIM
+GT-I9200 - màn hình 6,3-inch, 1,7 GHz CPU, 1,5 GB RAM, 8 GB hoặc 16 GB bộ nhớ trong - không hỗ trợ LTE - không hỗ trợ đa SIM
+GT-I9205 - màn hình 6,3-inch, 1,7 GHz CPU, 1,5 GB RAM, 8 GB hoặc 16 GB bộ nhớ trong - hỗ trợ LTE – không hỗ trợ đa SIM
+Chỉ có GT-I9152 hỗ trợ đa SIM. Chỉ có GT-I9205 hỗ trợ LTE (i.e. 4G-LTE support) và không có FM Radio. Bản AT&T của GT-I9205 được biết như SGH-i527.
+
+
+== Hình ảnh ==
+
+
+== Xem thêm ==
+Samsung Galaxy S4
+Samsung Galaxy S series
+Android
+
+
+== Tham khảo ==
+
+
+== Liên kết ==
+Samsung press release
+Video review by GSM Arena
+Samsung Galaxy Mega Phablet Debuts Information Week

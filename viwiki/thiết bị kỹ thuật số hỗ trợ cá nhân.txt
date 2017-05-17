@@ -1,0 +1,84 @@
+Thiết bị kỹ thuật số hỗ trợ cá nhân thường được gọi là PDA (tiếng Anh: Personal Digital Assistant) là các thiết bị cầm tay vốn được thiết kế như một cuốn sổ tay cá nhân và ngày càng tích hợp thêm nhiều chức năng. Một PDA cơ bản thường có đồng hồ, sổ lịch, sổ địa chỉ, danh sách việc cần làm, sổ ghi nhớ, và máy tính bỏ túi.
+
+
+== Lịch sử ==
+Thuật ngữ PDA được John Sculley đưa ra lần đầu tiên vào ngày 7 tháng 1, 1992 tại hội chợ Consumer Electronics Show tổ chức ở Las Vegas, Nevada, để chỉ thiết bị cầm tay Newton PDA của hãng Apple. Tuy nhiên các thiết bị trước đó như Psion hay Sharp Wizard có thể coi như một PDA.
+
+
+== Phân loại ==
+Trước đây PDA thường chia làm 2 dòng chính là Palm và Pocket PC, đây là cách phân loại dựa trên hệ điều hành của máy sử dụng. Các tính năng hiện đại ngày nay làm cho việc phân loại khá khó khăn và gây nhiều bàn cãi.
+Nếu phân loại theo hệ điều hành thì có thể chia làm các loại:
+Máy sử dụng hệ điều hành Palm OS của Palm, Inc., đại diện có thể là Tréo 650 sử dụng hệ điều hành Palm OS 5.4 có tính năng điện thoại hay Tungsten T5 không có điện thoại sử dụng hệ điều hành Palm OS 5.2.
+Máy sử dụng hệ điều hành Windows Mobile hay Pocket PC của Microsoft, đại diện có thể là các dòng máy iPaq của HP; iPaq 6365 sử dụng hệ điều hành Windows Mobile Pocket 2003 có tính năng điện thoại iPaq rx 3471 Windows Mobile Pocket 2003Se không có phone hay các máy của hãng O2 đều có tính năng điện thoại; hoặc O2 Xphone SmartPhone sử dụng hệ điều hành Windows 2003 Smartphone Edition.
+Máy sử dụng hệ điều hành BlackBerry của hãng Research In Motion.
+Máy sử dụng hệ điều hành Symbian với đại diện tiêu biểu là Nokia 9500 sử dụng hệ điều hành Symbian OS 7.0S, Series 80; P910i của Sony Ericsson sử dụng hệ điều hành Symbian OS, Series 70.
+Máy sử dụng hệ điều hành IOS với tiêu biểu là Iphone của hãng Apple Inc.
+Máy sử dụng hệ điều hành Android của Google với tiêu biểu là Galaxy của hãng Samsung hay Desire của HTC hay Droid của Motorola
+Ngoài ra còn các máy dùng một số hệ điều hành khác như Motorola E680 dùng Linux Handheld
+Loại 1 và 2 thiên về hỗ trợ cá nhân nên các tính năng điện thoại chưa tốt, loại 3 và 4 dung hòa giữa hỗ trợ cá nhân và điện thoại, loại 5 và 6 thì do tiến bộ về công nghệ, đã trở nên vượt trội cả khả năng hỗ trợ cá nhân và tính năng điện thoại. Ios và Android(hiện có thêm Windows phone của Microsoft) đã khiến cho các thiết bị chỉ hỗ trợ cá nhân trở nên không còn cần thiết. Thực tế là hiện nay(2014) đã không còn sản phẩm hỗ trợ cá nhân thuần túy nào tồn tại trên thị trường.
+Nếu phân loại theo loại chip thì có mấy loại:
+Intel XScale
+Texas Instruments TI Omap
+Samsung
+Qualcomm
+
+
+== Các tính năng điển hình ==
+Nhiều PDA có thể vào mạng thông qua Wi-Fi, Bluetooth hay GPRS. Một đặc điểm quan trọng của các PDA là chúng có thể đồng bộ dữ liệu với PC. Hiện tại ngoài tính năng hỗ trợ cá nhân như trên PDA còn giúp nghe nhạc, ghi âm, xem phim, gọi điện thoại, chụp ảnh, quay phim, tìm đường, điều khiển các thiết bị điện tử từ xa và có các cổng giao tiếp truyền thống như USB, các loại thẻ nhớ và cổng hồng ngoại. Cũng có thể gọi điện thoại với giao tiếp không dây dùng chuẩn GSM/GPRS hay CDMA.
+Một PDA điển hình có một màn hình cảm ứng (touch screen) để nhập dữ liệu, một khe cắm cạc bộ nhớ dành cho các thiết bị lưu trữ dữ liệu và một cổng hồng ngoại (IrDA port) để nối mạng. Các PDA thế hệ sau thường được tích hợp cả Wi-fi và Bluetooth.
+
+
+=== Màn hình cảm ứng ===
+Nhiều PDA thời kỳ đầu, chẳng hạn Palm Pilot, có màn hình cảm ứng để tương tác với người dùng, với chỉ một vài phím dành cho các phím tắt gọi các chương trình thường dùng. Các PDA dùng màn hình cảm ứng, trong đó có các thiết bị Windows Pocket PC, thường có một bút stylus để viết trên màn hình. Hoạt động tương tác thường được thực hiện qua việc chạm vào màn hình để kích hoạt các nút bấm hoặc lựa chọn trình đơn, và kéo bút stylus để đánh dấu văn bản khi soạn.
+Việc nhập dữ liệu văn bản thường được thực hiện bằng một trong hai cách:
+Sử dụng một bàn phím ảo, trong đó bàn phím được hiện trên màn hình, người dùng chạm bút vào các chữ cái hiện trên đó. Riêng Iphone của hãng Mac Apple trình làng từ quý 3 - 2007 cũng sử dụng bàn phím ảo, nhưng đặc biệt là dòng máy này sử dụng màn hình cảm ứng điện dung, chỉ có thể dùng tay để sử dụng bàn phím ảo, và màn hình cảm sẽ cảm nhận vùng bạn chạm ngón tay vào có trung tâm là phím nào để nhận biết phím đó.
+Sử dụng công nghệ nhận dạng chữ cái hoặc từ, trong đó các chữ cái hoặc các từ được viết trên màn hình, sau đó được "dịch" thành các chữ cái trong trường văn bản hiện đang được kích hoạt. Mặc dù có các dự án phát triển và nghiên cứu chính xác, kiểu nhập dữ liệu này vẫn đòi hỏi sự kiên nhẫn của người dùng, do nó thường khá là không chính xác.
+Các PDA dành cho sử dụng trong kinh doanh, trong đó có BlackBerry và Treo, có bàn phím đầy đủ, vành trượt (scroll wheel) và vành ngón cái (thumb wheel) để phục vụ cho việc nhập và định hướng dữ liệu, bên cạnh với việc hỗ trợ nhập dữ liệu từ màn hình cảm ứng. Còn có các loại bàn phím kích thước đầy đủ gấp được và cắm được trực tiếp vào PDA để cho phép gõ phím theo kiểu thông thường. BlackBerry còn có các chức năng bổ sung chẳng hạn như các phím liên quan đến thư điện tử và ứng dụng
+
+
+=== Cạc bộ nhớ ===
+Đa số PDA có một dạng khe cắm cạc bộ nhớ nào đó. Khe cắm SD (Secure Digital) là loại khe cắm chuẩn cho PDA. Mặc dù ban đầu được thiết kế cho bộ nhớ, trong những năm gần đây, việc phát minh ra chuẩn SDIO đã cho phép những thứ như cạc Wi-Fi và Webcam cũng cắm được vào khe cắm này. Các khe cắm Compact Flash được dùng trong nhiều PDA để cung cấp thêm khả năng mở rộng. Ví dụ, một khe dành cho bộ nhớ, khe kia dành cho Wi-Fi. Một số PDA còn có một cổng USB, chủ yếu dành cho USB flash drive.
+
+
+=== Nối mạng ===
+Mỗi PDA đều có một cổng hồng ngoại để nối mạng. Điều này cho phép liên lạc giữa hai PDA, giữa một PDA và một thiết bị dùng cổng hồng ngoại, hoặc giữa một PDA và một máy tính có adapter hồng ngoại. Hầu hết PDA hiện đại còn có khả năng kết nối không dây theo công nghệ Bluetooth mà nhiều điện thoại di động, tai nghe và các thiết bị định vị toàn cầu sử dụng.
+
+
+=== Đồng bộ hóa ===
+Một chức năng quan trọng của PDA là đồng bộ hóa dữ liệu với một máy tính cá nhân. Điều này cho phép các thông tin địa chỉ liên lạc lưu trữ trong các phần mềm chẳng hạn như Microsoft Outlook hay ACT! cập nhật cơ sở dữ liệu tại PDA. Dữ liệu được đồng bộ hóa đảm bảo rằng PDA có một danh sách chính xác các địa chỉ liên lạc, các cuộc hẹn và thư điện tử, cho phép người dùng truy nhập cùng một thông tin trên PDA cũng như trên máy tính cá nhân.
+Việc đồng bộ hóa còn ngăn được mất mát thông tin lưu trên thiết bị trong trường hợp nó bị mất, bị lấy trộm, hoặc bị hủy. Một ưu điểm khác là việc nhập dữ liệu trên PC thường nhanh hơn nhiều, do nhập dữ liệu qua một màn hình cảm ứng vẫn chưa thật tối ưu. Do đó, việc truyền dữ liệu tới một PDA qua một máy tính nhanh hơn nhiều so với việc phải nhập bằng tay tất cả dữ liệu vào thiết bị cầm tay.
+Đa số PDA có sẵn khả năng đồng bộ hóa với một PC. Điều này được thực hiện qua các phần mềm đồng bộ hóa được cung cấp kèm theo thiết bị, chẳng hạn HotSync Manager đi cùng Palm OS, hoặc Microsoft ActiveSync đi kèm Windows Mobile.
+
+
+=== Tùy biến người dùng ===
+Cũng như đối với máy tính cá nhân, có thể cài đặt các phần mềm bổ sung lên hầu hết các PDA. Phần mềm có thể được mua hoặc tải xuống từ Internet. Gần như tất cả các PDA cũng đều hỗ trợ việc bổ sung một số dạng phần cứng. Loại thông dụng nhất là khe cắm cạc bộ nhớ, thiết bị này cho phép người dùng có thêm không gian lưu trữ chuyển đổi được trên các thiết bị cầm tay của mình. Ngoài ra còn có các bàn phím mini có thể nối với một số PDA để nhập dữ liệu văn bản nhanh hơn. PDA với Bluetooth còn có thể sử dụng các thiết bị Bluetooth như tai nghe, chuột và bàn phím gấp được.
+Riêng sản phẩm nổi đình đám của Iphone được Apple cho ra mắt năm 2007 thì không chỉ nổi bật ở màn hình cảm ứng nhiệt mà còn đặc biệt ở ứng dụng Installer, khi cài vào Iphone thì người dùng có thể tải và cài đặt thêm ứng dụng mà mình thích thông qua Wi-Fi.
+
+
+== Sản phẩm ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Tiếng Việt:
+Diễn đàn kỹ thuật PDA của người Việt Nam
+Diễn đàn cộng đồng người dùng thiết bị cầm tay tại Việt Nam
+Dự Án Việt Hóa Điện Thoại Linux (Motorola E680i/A780)
+Handhelds Club
+Tiếng Anh:
+Collection of links to PDA sites
+PDA cortex The Journal of Mobile Informatics A Site dedicated to the use of PDAs in Nursing and Nursing Informtics
+The evolution of PDAs, 1975-1995
+Palm vs PocketPC Differences
+Wikipedia on your PDA
+port of Linux for the Nintendo DS
+PDAid, Help for all PDAs
+PDA Hotspots Sites suitable for small screen PDA's
+Linux on PDAs and Handheld PCs
+Repair and upgrade instructions for PDAs
+medPDA.net Medical application reviews, news, discussions.
+PalmFLYING.com Site that focuses on using PDAs in Aviation.
+Wapedia.mobi - Wikipedia for PDAs and mobile phones
+Wikipedia on your PDA and from CD, DVD

@@ -1,0 +1,45 @@
+CorelDRAW là một phần mềm biên tập đồ họa vectơ được phát triển và tiếp thị bởi Corel Corporation ở Ottawa, Canada. Đây cũng là tên của Bộ công cụ đồ họa Corel. Phiên bản mới nhất có tên là X8 (thực chất là phiên bản 18), được xuất xưởng năm 2016.
+
+
+== Các hệ thống được hỗ trợ ==
+Ngay từ lúc đầu, CorelDRAW được thiết kế cho Windows của Microsoft và hiện nay cũng chỉ khả dụng trên hệ điều hành Windows. Phiên bản mới nhất có tên là X8 (thực chất là phiên bản 18), được xuất xưởng năm 2016. Phiên bản này có những điểm mới là tương thích với Windows 10, hỗ trợ độ phân giải 4K và có tính năng Font Management (quản lý Font)
+Các phiên bản cho Macintosh (Mac OS Classic và Mac OS X) và Linux cũng đã từng một lần được xuất xưởng, nhưng những sản phẩm này hiện thời không còn được tiếp tục phát triển. Phiên bản cuối cùng cho Linux là phiên bản 9, ra đời năm 2000. Phiên bản cuối cùng cho Macintosh là phiên bản 11, ra đời năm 2001.
+Cho đến phiên bản 5, CorelDraw cũng được thiết kế cho OS/2.
+
+
+== Lịch sử phát triển ==
+Năm 1985, Tiến sĩ Michael Cowpland thành lập hãng Corel để bán các hệ thống desktop publishing dựa trên các phần cứng của Intel.
+Năm 1987, Corel thuê hai kỹ sư phần mềm Michel Boullion và Pat Beirne để phát triển một chương trình minh họa dựa trên vectơ để đóng gói với các hệ thống xuất bản desktop. Chương trình này - CorelDRAW - được xuất bản lần đầu tiên năm 1989 và được đón nhận một cách nồng nhiệt; với lý do này, Corel sau đó đã chỉ tập trung vào việc phát triển CorelDRAW.
+
+
+== Các đặc điểm ==
+Có rất nhiều sự sáng tạo trong thiết kế của CorelDRAW: một công cụ biên tập nút hoạt động trên nhiều đối tượng khác nhau, căn lề chữ, stroke-before-fill, fill/stroke nhanh, các palette chọn màu, các phép chiếu và các phép điền gradient phức tạp.
+CorelDRAW đã tự phân biệt mình với các đối thủ cạnh tranh bằng nhiều cách. Điều đầu tiên đó là định hình một bộ công cụ đồ họa hơn chỉ là một chương trình đồ họa vectơ. Thứ hai, gói phần mềm này luôn luôn chứa một bộ sưu tập lớn các loại phông chữ và các hình vẽ thiết kế sẵn.
+Đối thủ cạnh tranh chính của CorelDRAW là Adobe Illustrator. Mặc dù đây đều là những chương trình minh họa dựa trên vectơ, nhưng người sử dụng đều có cảm nhận khác nhau về hai chương trình này. Ví dụ, CorelDRAW có thể làm việc với tài liệu nhiều trang; Illustrator chỉ làm việc đơn trang nhưng cho phép chia trang thành theo nhiều lựa chọn in khác nhau nên có thể in trên nhiều trang. Thêm nữa, trong khi Illustrator có thể đọc được định dạng tập tin của CorelDRAW và ngược lại, việc chuyển đổi này không phải lúc nào cũng suôn sẻ. Đặc điểm này làm cho người sử dụng khó khăn trong việc chuyển đổi giữa hai chương trình này.
+
+
+== Bộ công cụ đồ họa CorelDRAW ==
+Thời gian trôi đi, có thêm nhiều thành phần bổ trợ được thiết kế để đóng gói cùng với CorelDRAW. Danh sách các gói phần mềm được đóng gói thường thay đổi theo từng phiên cản. Có nhiều chức năng chính vẫn còn được giữ nguyên từ phiên bản này đến phiên bản khác, ngoài một số chức năng như: PowerTRACE (bộ chuyển đổi từ ảnh bitmap sang đồ họa vectơ), PHOTO-PAINT (bộ biên tập đồ họa bitmap), và CAPTURE (tiện ích chụp màn hình).
+Phiên bản hiện thời của CorelDRAW Graphics Suite X8 chứa các gói sau:
+CorelDRAW® X8: Phần mềm biên tập đồ họa vectơ và chỉnh sửa trang.
+Corel® PHOTO-PAINT™ X8: Phần mềm chỉnh sửa ảnh.
+Corel® CAPTURE™ X8: Cho phép nhiều chế độ thu nhận hình ảnh.
+Corel® CONNECT™: Công cụ tìm kiếm nội dung.
+Corel® PowerTRACE™ X8: Chuyển đổi ảnh raster sang đồ họa vectơ.
+Corel® Website Creator™*: Công cụ thiết kế Website.
+PhotoZoom Pro 4†: Công cụ cho việc mở rộng hình ảnh kỹ thuật số.
+ConceptShare™: Công cụ tương tác trực tuyến.
+Corel cũng xuất bản một số các phần mềm đồ họa dưới tên Corel Painter.
+
+
+== Xem thêm ==
+Danh sách các phần mềm đồ họa vectơ
+So sánh các phân mềm đồ họa vectơ
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang chủ Corel
+Giới thiệu Giáo trình Corel

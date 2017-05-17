@@ -1,0 +1,34 @@
+Chương trình Windows Insider (Chương trình Người dùng nội bộ Windows) của Microsoft cho phép người dùng đăng ký sử dụng các phiên bản phát hành sớm của hệ điều hành Windows trước đó chỉ dành cho các nhà phát triển. Nó đã được giới thiệu vào 30 tháng 9 năm 2014 cùng với Windows 10. Đến cuối năm 2014 hơn 1.5 triệu người đã cài đặt bản xem trước của Windows 10. Vào 12 tháng 2 năm 2015, Microsoft sử dụng chương trình này để cung cấp bản xem trước cho phiên bản di động của Windows 10. Microsoft công bố rằng chương trình Windows Insider vẫn sẽ tiếp tục sau bản ra mắt chính thức của Windows 10 cho các bản cập nhật sau này. Dona Sarkar là trưởng nhóm Windows Insider Program của Microsoft.
+
+
+== Lịch sử ==
+Microsoft ban đầu khởi động chương trình Windows Insider cho những người dùng thử doanh nghiệp và các bên kỹ thuật để thử nghiệm các tính năng mới cho nhà phát triển và thu thập phản hồi để cải thiện các tính năng được xây dựng trên Windows 10, và cho tới thời điểm ra mắt chính thức hệ điều hành Windows 10 cho PC đã có tổng cộng 5 triệu người dùng Windows Insider đã đăng ký trên cả Windows 10 và Windows 10 Mobile và những Người dùng nội bộ này là những người được nhận bản phát hành chính thức của Windows 10 đầu tiên.
+Với sự ra mắt của Windows 10, ứng dụng Windows Insider đã được tích hợp trong phần Cài đặt khiến nó trở thành một thành phần được tích hợp sẵn trong Windows 10, làm cho việc cài đặt các bản dựng xem trước Windows Insider trở thành một tính năng tùy chọn có thể được truy cập trực tiếp trong hệ điều hành Windows 10 mà không cần cài đặt một ứng dụng riêng biệt.
+
+
+== Các vòng phát hành ==
+Các bản cập nhật xem trước của Windows 10 được phát hành cho những người thử nghiệm dưới nhiều vòng khác nhau, Người dùng Windows Insider trong vòng fast nhận các bản cập nhật nhanh hơn những người trong vòng slow nhưng có thể gặp nhiều lỗi và các vấn đề khác hơn. Vào tháng 2 năm 2016, Microsoft giới thiệu vòng release preview mới cho Windows Insider.
+
+
+== Danh sách các thiết bị di động được hỗ trợ ==
+Microsoft ban đầu phát hành các bản Windows 10 Insider Preview (trước đó là Windows 10 Technical Preview) cho các điện thoại Lumia cụ thể và dần dần ra mắt cho nhiều thiết bị hơn trong suốt giai đoạn thử nghiệm. Sau khi nhiều người dùng Windows Insider chỉnh sửa số model được hiển thị trên điện thoại của họ và tải các bản xem trước kỹ thuật của Windows 10 trên các thiết bị không được hỗ trợ, Microsoft đã đáp lại bằng việc chặn các bản xem trước cho tất cả các mẫu không được hỗ trợ. Để quay lại phiên bản Windows Phone 8.1, Microsoft đã phát hành công cụ Windows Phone Recovery Tool gỡ bỏ Windows 10 và khôi phục lại bản phần mềm và firmware được ra mắt chính thức mới nhất.
+Bản xem trước 10080, ra mắt ngày 14 tháng 5 năm 2015, là bản dựng đầu tiên hỗ trợ thiết bị không phải Lumia, chiếc HTC One M8 for Windows. Sau đó Xiaomi, công ty đang hợp tác với Microsoft, phát hành bản ROM của Windows 10 tới chiếc Mi 4 vào 1 tháng 6 năm 2015. Bản ROM này lúc đó chỉ được phát hành cho một số người dùng tại Trung Quốc. Bản 10080 và 10166 cũng hỗ trợ thêm các thiết bị Lumia thế hệ thứ tư (dòng x40); vì vậy, tất cả các điện thoại Lumia Windows Phone 8 và về sau đã hỗ trợ bản xem trước.
+Vào tháng 8 năm 2015, Microsoft thông báo dù tất cả thiết bị Windows Phone, bao gồm các thiết bị từ các đối tác phần cứng mới của Microsoft đã được giới thiệu vào năm trước sẽ được cập nhật bản Windows 10 Mobile chính thức, không phải tất cả sẽ nhận các bản xem trước qua chương trình Insider. Tuy nhiên, lúc đó họ không cung cấp thêm thông tin nào về việc thêm các thiết bị mới vào chương trình, dấu hiệu của việc Windows 10 Mobile chưa đi vào giai đoạn hoàn thiện. Microsoft thay vào đó tập trung vào các thiết bị được cài đặt sẵn Windows 10 Mobile, bao gồm 2 chiếc điện thoại cao cấp Lumia 950 và Lumia 950 XL, và 2 chiếc điện thoại giá rẻ Lumia 550 và Lumia 650. Sau đó, các thiết bị Windows 10 mới này cũng bắt đầu nhận các bản xem trước qua chương trình Insider, bắt đầu từ bản 10586 vào ngày 4 tháng 12 năm 2015. Chiếc LG Lancet phiên bản Windows Phone cũng nhận bản cập nhật này nhưng không còn được cập nhật sau đó nữa.
+Ngày 19 tháng 2 năm 2016, Microsoft ra mắt bản xem trước Windows 10 Mobile "Redstone" đầu tiên, bản 14267. Từ bản dựng này, các bản xem trước sau này sẽ chỉ dành cho các thiết bị đã đang chạy phiên bản không qua chương trình Insider, ngoại trừ bản ROM cho Mi4. Tiếp tục sau đó, bản 14291 được phát hành cho các thiết bị Windows 10 sẵn có vào 17 tháng 3 năm 2016 cùng với phiên bản RTM của Windows 10 Mobile cho các điện thoại Lumia thế hệ thứ ba và thứ tư. Trong tuần kế tiếp, nó tiếp tục được phát hành cho các thiết bị Lumia cũ hơn vừa nhận bản Windows 10 Mobile chính thức ngoài các thiết bị đã được cài đặt Windows 10 Mobile trước đó.
+
+
+== Hệ điều hành được hỗ trợ ==
+Windows 10
+Windows 10 Mobile
+Windows Server 2016
+
+
+== Xem thêm ==
+Microsoft Developer Network
+Microsoft Garage
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

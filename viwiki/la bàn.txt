@@ -1,0 +1,35 @@
+La bàn là dụng cụ dùng để xác định phương hướng trong không gian nhất định.
+La bàn được ứng dụng nhiều trong các hoạt động đi biển, vào rừng, sa mạc, hướng bay của máy bay, tàu thủy, tàu ngầm, tên lửa, tàu vũ trụ,...
+La bàn từ hoạt động dựa theo từ trường Trái Đất thì dùng cho xác định các hướng Bắc, Nam, Đông, Tây ở trên mặt Trái Đất. Trên các phi thuyền bay trong vũ trụ thì phải dùng la bàn không từ tính, để định hướng theo một đối tượng chỉ hướng nào đó, ví dụ hướng về phía Mặt Trời.
+
+
+== Lịch sử ==
+Người Trung Quốc đã phát minh một dạng sơ khai của la bàn vào khoảng thời nhà Hán, tuy rằng ban đầu nó được dùng trong các nghi thức bói toán chứ không phải đề chỉ hướng. Về sau La bàn được ứng dụng rộng rãi trong ngành hàng hải ở thời nhà Tống để chỉ hướng, việc mà trước đó thường dựa vào việc xem thiên văn. Loại la bàn quen thuộc với thủy thủ được phát minh tại châu Âu vào khoảng năm 1190
+
+
+== Cấu tạo ==
+
+
+=== La bàn từ ===
+La bàn từ hay La bàn theo cách gọi thông thường, dùng kim nam châm đặt trên trụ xoay để nam châm định hướng được trong từ trường Trái Đất. Tất cả được đặt trong vỏ hay hộp đựng ngoài.
+Vỏ hay hộp đựng KIM XOAY hình tròn, được phân chia theo ly giác - hay 360 Độ - Miếng kim loại có từ tính, được mài giũa thành hình lá, dẹt, mỏng, nhẹ, hình dạng như cây kim ở 2 đầu. Chính giữa hơi to hơn, có khoan một phần ở trung tâm cây kim cho lõm vào; Trung tâm của vỏ hộp đựng có một cây kim ngắn cố định. Trên cây kim cố định này của vỏ hộp - Kim la bàn xoay và kim xoay theo một hướng nhất định - BẮC NAM - Hướng BẮC thường được đánh dấu bằng sơn màu đỏ. Hướng NAM đánh dấu sơn màu xanh (hoặc màu trắng).
+Mặt kính của hộp đựng kim La Bàn.
+Các phụ kiện khác để cầm La bàn và dây ngắm với khe và tiêu điểm được thiết kế bên ngoài mặt kính, giúp cho việc đo - ngắm và tính toán được nhanh chóng, dễ dàng hơn.
+
+
+=== La bàn con vụ ===
+La bàn con vụ (Gyrocompass) và Con quay hồi chuyển (Gyroscope) là la bàn không dùng từ trường mà duy trì định hướng bằng con quay theo hiệu ứng con vụ. Nó giữ định hướng trục con quay kể từ khi bắt đầu quay và chưa chịu lực nào đó tác động vào. Nhược điểm là luôn phải cấp điện năng để con vụ duy trì sự quay. Nếu ngừng quay thì định hướng bị phá bỏ không khôi phục được.
+Nó được sử dụng trong các tàu bay (quân sự), tàu ngầm, tên lửa, tàu vũ trụ,...
+
+
+=== La bàn GPS ===
+La bàn GPS hoạt động dựa trên Hệ thống Định vị Toàn cầu (Global Positioning System, GPS), và là một menu sử dụng của máy thu GPS. Nhờ đạt được độ chính xác định vị tọa độ cao mà máy thu GPS có thể tính được tốc độ và phương vị di chuyển.
+Nó chỉ ra hướng bắc thật (bắc địa lý, True north]). Các máy thu GPS hiện có ở dạng máy cầm tay trang bị cho cá nhân, hoặc dạng lắp trong các điện thoại di động cấp cao. Để hoạt động được thì vị trí đo phải nhận được sóng từ ít nhất 3 vệ tinh của Hệ thống Định vị Toàn cầu, và người sử dụng phải di chuyển. Nó bị lỗi nếu ở trong nhà, trong rừng rậm,...
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Lịch sử La Bàn Từ
+Sổ tay hiệu chỉnh la bàn từ

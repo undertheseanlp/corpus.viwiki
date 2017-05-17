@@ -1,0 +1,10 @@
+Tên miền mil là tên miền cấp cao nhất có tài trợ (sTLD) trong Hệ thống Tên Miền của Internet cho Bộ quốc Phòng Hoa Kỳ và các thành viên con hoặc các tổ chức có liên quan. Tên miền này là có nguồn gốc từ từ quân đội (military trong tiếng Anh). Nó là một trong những tên miền TLDs (tên miền cấp cao nhất, top-level domains trong tiếng Anh) đầu tiên được tạo ra vào tháng 1 năm 1985.
+Hoa Kỳ là một nước duy nhất có một tên miền TLD cấp cho quân đội của mình, được xem là một di sản của quân đội Hoa Kỳ trong vai trò tạo ra Internet. Các nước khác thường sử dụng SLD (tên miền cấp hai, Second-level domain) cho mục đích này, ví dụ như, mod.uk cho Bộ quốc Phòng của Vương quốc Anh. Canada, sử dụng norad.mil (tên miền cấp hai) của Hoa Kỳ (.mil là tên miền thuộc sở hữu của Hoa Kỳ), như việc họ cùng nhau hoạt động trong Bộ Chỉ huy Phòng không Bắc Mỹ.
+Mặc dù có một tên miền sTLD, nhưng quân đội Mỹ cũng sử dụng tên miền.com cho một số trang web tuyển dụng, như goarmy.com cũng như cho trang web của Defense Commissary Agency: www.commissassaries.com của và hầu hết không chiếm đoạt quỹ instrumentalities như quân sự khai với tiểu các tổ chức và quân sự trao đổi. Ngoài ra, quân đội Mỹ còn sử dụng tên miền .edu cho các học viện của mình: Học viện quân sự West Point Hoa Kỳ , Học viện bảo vệ bờ biển Hoa Kỳ, Học viện hải quân Hoa Kỳ, và  Học viện không quân Hoa Kỳ. Trang chủ của Bộ quốc Phòng Hoa Kỳ sử dụng tên miền .gov: www.defense.gov và sử dụng ít nhất ba tên miền SLD (tên miền cấp hai) thuộc mil (quốc phòng, bộ quốc phòng, và lầu năm góc) chuyển hướng về tên miền chính: www.defense.gov.
+Tuần duyên Hoa Kỳ sử dụng tên miền .mil giống như các phục vụ quân sự khác, mặc dù trong một số thời gian theo luật định thời bình thì Tuần Duyên Hoa Kỳ nằm dưới sự quản lý của Bộ An ninh Nội địa Hoa Kỳ.
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==

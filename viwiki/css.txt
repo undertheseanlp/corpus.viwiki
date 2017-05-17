@@ -1,0 +1,47 @@
+Trong tin học, các tập tin định kiểu theo tầng – dịch từ tiếng Anh là Cascading Style Sheets (CSS) – được dùng để miêu tả cách trình bày các tài liệu viết bằng ngôn ngữ HTML và XHTML. Ngoài ra ngôn ngữ định kiểu theo tầng cũng có thể dùng cho XML, SVG, XUL. Các đặc điểm kỹ thuật của CSS được duy trì bởi World Wide Web Consortium (W3C). Thay vì đặt các thẻ quy định kiểu dáng cho văn bản HTML (hoặc XHTML) ngay trong nội dung của nó, bạn nên sử dụng CSS.
+
+
+== Tác dụng của CSS ==
+Hạn chế tối thiểu việc làm rối mã HTML của trang Web bằng các thẻ quy định kiểu dáng (chữ đậm, chữ in nghiêng, chữ có gạch chân, chữ màu), khiến mã nguồn của trang Web được gọn gàng hơn, tách nội dung của trang Web và định dạng hiển thị, dễ dàng cho việc cập nhật nội dung.
+Tạo ra các kiểu dáng có thể áp dụng cho nhiều trang Web, giúp tránh phải lặp lại việc định dạng cho các trang Web giống nhau.
+
+
+== Sử dụng CSS ==
+Có 3 cách để sử dụng CSS.
+"Inline CSS": Áp dụng trực tiếp trên một đối tượng nhất định bằng thuộc tính style:
+
+"Internal CSS": Đặt CSS ở đầu trang Web để áp dụng kiểu dáng cho toàn bộ trang ấy, khi đó chỉ cần đặt đoạn CSS vào trong cặp thẻ <style> rồi đặt vào trong phần header của Web (giữa <head> và </head>):
+
+"External CSS": Đặt các thuộc tính CSS vào một tệp tin riêng biệt (*.css), khi đó có thể tham chiếu đến từ nhiều trang Web khác nhau:
+
+Ví dụ về nội dung tệp style.css:
+
+Tham chiếu tới tệp tin CSS trên từ trang Web bằng đoạn mã (mã có thể nằm ngoài thẻ <head>):
+
+
+== Mức độ ưu tiên của CSS ==
+Mức độ ưu tiên khi áp dụng CSS như sau:
+External CSS < Internal CSS < Inline CSS
+Có thể hiểu rằng mã CSS nào "gần" với tag nhất thì sẽ được ưu tiên áp dụng hơn cả.
+
+
+== Cú pháp ==
+Cú pháp cơ bản:
+
+Chú thích: Bạn có thể soạn chú thích cho CSS nhằm tiện cho việc tham khảo hoặc tra cứu về sau. Cú pháp của chú thích trong CSS như sau
+
+Ví dụ minh họa về mã CSS:
+
+
+== CSS Selector ==
+CSS Selector dùng để xác định đoạn mã CSS tương ứng được bao trong phần từ { đến } sẽ được áp dụng cho những thành phần nào trong trang Web.
+Như ví dụ ở đoạn mã trên, ta có thể thấy dạng CSS Selector đơn giản nhất là CSS Selector theo tag body.
+
+
+== Tham khảo ==
+
+
+== Nghiên cứu thêm ==
+
+
+== Liên kết ngoài ==

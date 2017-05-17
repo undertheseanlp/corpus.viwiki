@@ -1,0 +1,49 @@
+Dung nham là đá nóng chảy trào ra từ núi lửa trong quá trình phun trào. Khi phun trào từ núi lửa, nó ở thể lỏng ở nhiệt độ khoảng 700 °C đến 1.200 °C (1.300 °F đến 2.200 °F). Mặc dù, dung nham khá nhớt, cao hơn nước khoảng 100.000 lần, nó có thể chảy trên một quãng đường dài trước khi đông nguội thành đá, do các đặc điểm thixotropic và shear thinning của nó.
+Dòng dung nham là dòng chảy của dung nham, được tạo ra trong quá trình phun trào êm đềm (không phải phun nổ). Khi ngừng chảy, dung nham hóa rắn tạo thành đá mácma phun trào. Thuật ngữ dòng dung nham thường được gọi tắt là dung nham. Từ dung nham là Hán Việt 熔 (nóng chảy) 岩 (nham thạch). Phun nổ tạo ra hỗn hợp tro núi lửa và các mảnh vụn được gọi là tephra. Từ 'lava' (dung nham) xuất phát từ tiếng Ý và có thể có nguồn gốc từ tiếng Latin của labes có nghĩa là rơi, trượt. Thuật ngữ này được Francesco Serao sử dụng đầu tiên khi viết về phun trào magma của Vesuvius từ 14 tháng 5 đến 4 tháng 6 năm 1737. Serao đã mô tả "một dòng dung nham sọc" giống như dòng nước và bùn sau các trận mưa lớn.
+
+
+== Thành phần của dung nham ==
+
+Nhìn chung, thành phần của dung nham sẽ quyết định tính chất của nó hơn là nhiệt độ khi phun trào. Các đá mácma được hình thành từ dung nham có thể được phân loại theo 3 nhóm dựa trên thành phần hóa học: felsic, trung gian, và mafic, tuy nhiên thành phần này cũng có khuynh hướng liên quan đến nhiệt độ mácma, độ nhớt và cơ chế phun trào.
+Dung nham felsic như ryolit và dacit đặc biệt hình thành từ lava spine, lava dome hay 'coulees' (là dung nham dày và ngắn) và liên quan với các trầm tích mảnh vụn (pyroclastic). Hầu hết các dòng dung nham felsic đều có độ nhớt rất cao, và đặc biệt là các mảnh vụn khi chúng phun trào, tạo ra các dăm kết dạng khối. Độ nhớt và độ bền cao là do thành phần hóa học của chúng chứa nhiều silica, nhôm, kali, natri, và canxi tạo thành một chất lỏng polymer hóa giàu fenspat và thạch anh có độ nhớt cao hơn các loại mácma khác. Mácma felsic có thể phun trào ở nhiệt độ từ dưới 650 đến 750 °C. Dung nham ryolit bất thường (>950 °C) có thể chảy xa hàng km như ở đồng bằng sông Snake, tây bắc Hoa Kỳ.
+Dung nham trung gian hay andesit có ít nhôm và silica và thường có nhiều magiê và sắt. Dung nham trung gian tạo thành các vòm andesit và dung nham khối, thường tạo thành các bậc của núi lửa hỗn hợp như ở Andes. Các dung nham nghèo nhôm và silica hơn dung nham felsic thường nóng hơn (trong khoảng 750 đến 950 °C), chúng có khuynh hướng ít nhớt hơn. Nhiệt độ lớn hơn làm phá hủy các liên kết polymer trong mácma, làm chúng có ứng xử giống chất lưu hơn và cũng có khuynh hướng hình thành các ban tinh. Do có thành phần sắt và magiê cao hơn nên chúng nguội sẽ tạo thành các khối đá có màu tối hơn, thường là các khoáng vật amphibol hoặc pyroxen ở dạng ban tinh.
+Dung nham mafic hay dung nham bazan đặc trưng bởi hàm lượng sắt, và magiê cao, và nhiệt độ khi phun trào thường trên 950 °C. Mácma bazan có sắt và magiê cao còn nhôm và silica tương đối thấp, chúng làm giảm mức độ polymer hóa ở trạng thái nóng chảy. Nhờ có nhiệt độ cao hơn, độ nhớt có thể tương đối thấp, mặc dù vẫn cao hơn độ nhớt của nước hang ngàn lần. Cấp độ polymer thấp và nhiệt độ cao thuận lợi cho sự khuếch tán hóa học, vì vậy thường thấy các ban tinh định hình tốt và lớn trong dung nham mafic. Dung nham bazan có khuynh hướng tạo ra các núi lửa dạng khiên mỏng hoặc 'đồng bằng bazan', bởi vì các dùng dung nham tích tụ trên một diện rộng sau khi núi lửa phun trào. Bề dày của dung nham bazan đặc biệt là độ dốc nhỏ, có thể lớn hơn bề dày của dòng dung nham đang chảy, do dung nham bazan bị 'giãn nở' khi phun trào từ dưới mặt đất lên (áp suất và nhiệt độ cao hơn trong lòng đất). Hầu hết dung nham bazan thuộc các kiểu a'a hay 'pahoehoe', hơn là dung nham khối. Ở dưới nước, chúng có thể tạo thành 'dung nham dạng gối', tương tự như kiểu dung nham entrail-type pahoehoe trên cạn.
+Dung nham siêu mafic như komatiit có hàm lượng mácma magiê cao tạo thành boninit có nhiệt độ phun trào cực kỳ cao. Komatiit chứa hơn 18% magiê ôxít, và nhiệt độ khi phun trào khoảng 1.600 °C. Ở nhiệt độ này, sẽ không có cấu tạo polymer trong hợp chất khoáng vật, tạo thành chất lưu có độ linh động cao với độ nhớt thấp giống như nước. Hầu hết dung nham siêu mafic được hình thành trước Proterozoic, một số tích mácma siêu mafic có tuổi Phanerozoic. Không có các komatiit hiện đại vì manti Trái Đất quá nguội để tạo ra mácma có magiê cao.
+
+
+=== Ứng xử của dung nham ===
+
+Độ nhớt của dung nham là yếu tố quan trọng bởi vì nó xác định cách mà dung nham ứng xử. Dung nham có độ nhớt cao như ryolit, dacit, andesit và trachyt, với dung nham bazan nguội cũng khá nhớt là những loại có độ nhớt thấp phun trào tạo ra bazan, carbonatit và đôi khi là andesit.
+Dung nham độ nhớt cao thể hiện các ứng xử như:
+có khuynh hướng chảy chậm, clog, và tạo thành các khối bán rắn ngăn cản dòng chảy,
+có khuynh hướng giữ khí tạo thành các vesicle trong đá khi chúng dâng lên bề mặt.
+liên quan đến các vụ phun nổ (phreatic) cùng với các dòng tuff và pyroclastic.
+Dung nham độ nhớt cao thường không chảy như chất lỏng mà tạo thành tro mảnh vụn phun nổ hoặc tích tụ tephra. Tuy nhiên, dung nham độ nhớt degassed or one phun trào ở điều kiện nào đó nóng hơn bình thường có thể tạo ra thành dòng.
+Dung nham có độ nhớt thấp thể hiện các ứng xử như:
+có khuynh hướng dễ chảy, tạo thành puddles, kênh, và song đá nóng chảy,
+có khuynh hướng dễ giải phóng khí khi các khí nàu được sinh ra,
+các vụ phun trào hiếm khi tạo ra pyroclastic và thường xảy ra êm ả,
+các núi lửa có khuynh hướng tạo thành các riêng rộng hơn là các dạng hình nón có bậc
+Có 3 dạng dòng dung nham độ nhớt thấp: ʻaʻā, pāhoehoe, và dung nham gối. Chúng được miêu tả liên quan đến các dòng dung nham bazan ở Hawaii (được đề cập ở các mục sau).
+Dung nham cũng có thể chứa một số thành phần khác, đôi khi bao gồm các tinh thể rắn của nhiều khoáng vật khác nhau, các mảnh vụn của đá có trước hay còn gọi là xenolith và các mảnh vụn của những dòng dung nham hóa rắn trước đó.
+
+
+== Hình dạng núi lửa ==
+
+Ứng xử vật lý của dung nham tạo ra các hình dạng vật lý của dòng dung nham hoặc của núi lửa. Các dòng dung nham banzan mang tính chất lưu càng nhiều thì có khuynh hướng tạo ra các thể giống như các tấm mỏng, ngược lại thì tạo ra các dạng khối, bướu.
+Các đặc điểm tổng quát của núi lửa học có thể được sử dụng để phân loại các núi lửa lớn và cung cấp thông tin về các vụ phun trào tạo các dòng dung nham, thậm chí đối với các tầng dung nham đã bị chôn vùi hoặc bị biến chất.
+
+Dòng dung nham thông thường sẽ có đỉnh chứa mảnh vụn hoặc là phát triển dạng dung nham gối, autobreccia và loại mảnh vụn của khoáng ʻaʻā và dòng chảy nhớt, hoặc là chứa lỗ hổng như scoria hoặc pumice. Trên mặt của dòng dung nham sẽ có xu hướng biến thành thủy tinh, do nguội lạnh nhanh khi tiếp xúc với không khí hoặc nước.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+USGS definition of ʻAʻā
+USGS definition of Pāhoehoe
+Volcanic landforms of Hawaiʻi
+USGS hazards associated with lava flows
+Hawaiian Volcano Observatory Volcano Watch newsletter article on Nyiragongo eruptions, 31 tháng 1 năm 2002
+Google Maps Plot of World Volcanoes
+National Geographic lava video Truy cập 23 tháng 8 năm 2007

@@ -1,0 +1,26 @@
+Thị giác máy tính (tiếng Anh: computer vision) là một lĩnh vực bao gồm các phương pháp thu nhận, xử lý ảnh kỹ thuật số, phân tích và nhận dạng các hình ảnh và, nói chung là dữ liệu đa chiều từ thế giới thực để cho ra các thông tin số hoặc biểu tượng, ví dụ trong các dạng quyết định. Việc phát triển lĩnh vực này có bối cảnh từ việc sao chép các khả năng thị giác con người bởi sự nhận diện và hiểu biết một hình ảnh mang tính điện tử. Sự nhận diện hình ảnh có thể xem là việc giải quyết vấn đề của các biểu tượng thông tin từ dữ liệu hình ảnh qua cách dùng các mô hình được xây dựng với sự giúp đỡ của các ngành lý thuyết học, thống kê, vật lý và hình học. Thị giác máy tính cũng được mô tả là sự tổng thể của một dải rộng các quá trình tự động và tích hợp và các thể hiện cho các nhận thức thị giác.
+Thị giác máy tính là một môn học khoa học liên quan đến lý thuyết đằng sau các hệ thống nhân tạo có trích xuất các thông tin từ các hình ảnh. Dữ liệu hình ảnh có thể nhiều dạng, chẳng hạn như chuỗi video, các cảnh từ đa camera, hay dữ liệu đa chiều từ máy quét y học. Thị giác máy tính còn là một môn học kỹ thuật, trong đó tìm kiếm việc áp dụng các mô hình và các lý thuyết cho việc xây dựng các hệ thống thị giác máy tính.
+Các lĩnh vực con của thị giác máy tính bao gồm tái cấu trúc cảnh, dò tìm sự kiện, theo dõi video, nhận diện bố cục đối tượng, học, chỉ mục, đánh giá chuyển động và phục hồi ảnh.
+
+
+== Các lĩnh vực liên quan ==
+Các lĩnh vực liên quan của trí tuệ nhân tạo giải quyết các vấn đề như lên kế hoạch tự động hay các suy tính cho các hệ thống robot để dò đường ở một môi trường nào đó. Sự hiểu biết chi tiết của các môi trường này được yêu cầu để dò đường thông qua chúng. Thông tin về môi trường có thể được cung cấp bởi một hệ thống thị giác máy tính, hoạt động như các cảm biến và cung cấp thông tin mức độ cao về môi trường và robot.
+Trí tuệ nhân tạo và thị giác máy tính chia sẻ các chủ đề như nhận dạng mẫu và các kỹ thuật học. Kết quả là thị giác máy tính đôi khi được xem là một phần của lĩnh vực trí tuệ nhân tạo hay lĩnh vực khoa học máy tính nói chung.
+Thị giác máy tính theo một cách nào đó là sự đảo ngược của đồ họa máy tính. Trong khi đồ họa máy tính sản sinh hình ảnh từ mô hình 3D, thì thị giác máy tính lại thường sản sinh ra các mô hình 3D từ dữ liệu hình ảnh. Có một khuynh hướng kết hợp 2 môn học này, ví dụ như khám phá trong tăng cường thực tế.
+
+
+== Xem thêm ==
+Mạng nơ-ron nhân tạo
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Thị giác máy là gì - Nhật Quang Mvtec
+USC Iris computer vision conference list
+Computer vision papers on the web A complete list of papers of the most relevant computer vision conferences.
+Computer Vision Online News, source code, datasets and job offers related to computer vision.
+Keith Price's Annotated Computer Vision Bibliography
+CVonline Bob Fisher's Compendium of Computer Vision.
+The British Machine Vision Association Supporting computer vision research within the UK via the BMVC and MIUA conferences, Annals of the BMVA open-source journal, BMVA Summer School and one-day meetings

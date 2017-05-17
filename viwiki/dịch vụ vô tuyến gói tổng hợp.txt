@@ -1,0 +1,73 @@
+Dịch vụ vô tuyến gói tổng hợp (tiếng Anh: General Packet Radio Service (GPRS)) là một dịch vụ dữ liệu di động dạng gói dành cho những người dùng Hệ thống thông tin di động toàn cầu (GSM) và điện thoại di động IS-136. Nó cung cấp dữ liệu ở tốc độ từ 56 đến 114 kbps.
+GPRS có thể được dùng cho những dịch vụ như truy cập Giao thức Ứng dụng Không dây (WAP), Dịch vụ tin nhắn ngắn (SMS), Dịch vụ nhắn tin đa phương tiện (MMS), và với các dịch vụ liên lạc Internet như email và truy cập World Wide Web. Dữ liệu được truyền trên GPRS thường được tính theo từng megabyte đi qua, trong khi dữ liệu liên lạc thông qua chuyển mạch truyền thống được tính theo từng phút kết nối, bất kể người dùng có thực sự đang sử dụng dung lượng hay đang trong tình trạng chờ. GPRS là một dịch vụ chuyển mạch gói nỗ lực tối đa, trái với chuyển mạch, trong đó một mức Chất lượng dịch vụ (QoS) được bảo đảm trong suốt quá trình kết nối đối với người dùng cố định.
+Các hệ thống di động 2G kết hợp với GPRS thường được gọi là "2.5G", có nghĩa là, một công nghệ trung gian giữa thế hệ điện thoại di động thứ hai (2G) và thứ ba (3G). Nó cung cấp tốc độ truyền tải dữ liệu vừa phải, bằng cách sử dụng các kênh Đa truy cập theo phân chia thời gian (TDMA) đang còn trống, ví dụ, hệ thống GSM. Trước đây đã có suy nghĩ sẽ mở rộng GPRS để bao trùm những tiêu chuẩn khác, nhưng thay vào đó những mạng đó hiện đang được chuyển đổi để sử dụng chuẩn GSM, do đó GSM là hình thức mạng duy nhất sử dụng GPRS. GPRS được tích hợp vào GSM Release 97 và những phiên bản phát hành mới hơn. Ban đầu nó được Viện tiêu chuẩn Viễn thông châu Âu (ETSI) đặt tiêu chuẩn, nhưng nay là Dự án Đối tác Thế hệ thứ ba (3GPP).
+
+
+== Cơ bản ==
+Thông thường, dữ liệu GPRS được tính theo kilobyte thông tin truyền nhận, trong khi kết nối dữ liệu theo dạng chuyển mạch được tính theo giây. Cách tính sau không phù hợp vì ngay cả khi không có dữ liệu truyền dẫn, những người dùng tiềm năng khác vẫn không thể tận dụng được băng thông.
+Phương pháp đa truy cập dùng trong GSM kết hợp GPRS dựa trên song công chia theo tần số (FDD) và đa truy cập theo phân chia thời gian (TDMA). Trong suốt một phiên kết nối, người dùng được gán cho một cặp kênh tần số tải lên và tải xuống. Cái này sẽ phối hợp với ghép kênh thống kê theo miền thời gian, có nghĩa là liên lạc theo chế độ gói tin, điều này sẽ giúp cho vài người dùng có thể chia sẻ cùng một kênh tần số. Các gói này có độ dài cố định, tùy theo khoảng thời gian GSM. Tải xuống sử dụng định thời gói theo cơ chế tới trước làm trước (FIFO), trong khi tải lên sử dụng mô hình rất giống với reservation ALOHA. Điều này có nghĩa là slotted Aloha (S-ALOHA) được dùng để tham vấn chỗ trống trong bước tranh chấp, và sau đó dữ liệu thật sự được truyền bằng cách sử dụng TDMA động với định thời đến trước làm trước.
+GPRS ban đầu hỗ trợ (theo lý thuyết) Giao thức Internet (IP), Giao thức điểm-điểm (PPP) và kết nối X.25. Cái cuối cùng đã được dùng cho các ứng dụng như thiết bị đầu cuối để thanh toán không giây, mặc dù nó đã bị bỏ ra khỏi tiêu chuẩn. X.25 vẫn có thể được hỗ trợ trên PPP, hay thậm chí IP, nhưng để làm điều này cần phải có một bộ định tuyến (router) để thực hiện việc kết hợp hoặc cơ chế thông tin được tích hợp vào thiết bị đầu cuối như UE(User Equipment). Trên thực tế, khi điện thoại di động có tích hợp trình duyệt được sử dụng, IPv4 đã được tận dụng. Trong chế độ này PPP thường không được nhà sản xuất điện thoại di động hỗ trợ, trong khi IPv6 còn chưa phổ biến. Nhưng nếu điện thoại di động được dùng làm modem kết nối với máy tính, PPP được dùng để gắn IP vào điện thoại. Điều này cho phép DHCP gán một địa chỉ IP và sau đó sử dụng IPv4 vì địa chỉ IP do thiết bị di động sử dụng thường là địa chỉ động.
+Loại A
+Có thể kết nối vào dịch vụ GPRS và dịch vụ GSM (thoại, SMS), cùng lúc cả hai. Những thiết bị như vậy đã có mặt trên thị trường.
+Loại B
+Có thể kết nối vào dịch vụ GPRS và dịch vụ GSM (thoại, SMS), nhưng chỉ dùng một trong hai dịch vụ vào một thời điểm. Trong khi dùng dịch vụ GSM, dịch vụ GPRS bị ngưng, GPRS sau đó sẽ tự động được tiếp tục sau khi dịch GSM kết thúc. Phần lớn thiết bị di động GPRS thuộc Loại B.
+Loại C
+Được kết nối với hoặc dịch vụ GPRS hoặc dịch vụ GSM (thoại, SMS). Phải được chuyển bằng tay giữa hai dịch vụ.
+Một thiết bị Loại A đúng nghĩa có thể cần phải truyền tải trên hai tấn số khác nhau cùng một lúc, và do đó sẽ cần hai sóng vô tuyến. Để tránh yêu cầu quá tốn kém này, một thiết bị di động GPRS có thể hiện thực tính năng chế độ truyền tải kép (DTM). Một điện thoại tương thích DTM có thể dùng đồng thời thoại và dữ liệu dạng gói, cùng với sự hỗ trợ từ mạng để đảm bảo rằng không nhất thiết phải truyền tải trên hai tần số khác nhau cùng một lúc. Những điện thoại như vậy được xem là Loại A "giả", đôi khi còn được gọi là "loại A đơn giản".
+GPRS là một công nghệ mới mà tốc độ của nó phụ thuộc trực tiếp vào số khoảng thời gian TDMA được cung cấp, nó sẽ nhỏ dần tùy vào (a) điện thoại đó hỗ trợ đến đâu và (b) khả năng tối đa của điện thoại di động, được gọi là GPRS Multislot Class.
+
+
+=== Bảng mã ===
+
+Tốc độ truyền tải cũng phụ thuộc vào kênh mã hóa đang dùng. Bộ mã ít mạnh nhất, nhưng nhanh nhất (CS-4) được sử dụng gần một trạm truyền nhận cơ sở (BTS), trong khi bộ mã mạnh nhất (CS-1) được dùng khi trạm di động cách quá xa BTS.
+Sử dụng CS-4 có thể đạt được tốc độ người dùng là 20,0 kbit/s trên một khoản thời gian. Tuy nhiên, sử dụng bộ mã này độ bao phủ di động chỉ bằng 25% bình thường. CS-1 có thể đạt được tốc độ người dùng chỉ 8,0 kbit/s trên một khoản thời gian, nhưng có 98% độ bao phủ thông thường. Thiết bị mạng mới hơn có thể tự động thay đổi tốc độ truyền dẫn tùy vào vị trí của điện thoại.
+Giống như CSD, HSCSD cũng hình thành mạch và thường được tính theo phút. Đối với một ứng dụng như tải xuống, HSCSD có thể được ưa thích hơn, vì dữ liệu chuyển mạch thường được ưu tiên hơn là dữ liệu chuyển mạch gói trên mạng di động, và có chỉ có khoảng vài giây là không có dữ liệu nào được truyền tải.
+
+GPRS dựa theo gói. Khi TCP/IP được dùng, mỗi điện thoại có thể có một hoặc nhiều địa chỉ IP được thiết lập. GPRS sẽ lưu trữ và chuyển các gói IP đến điện thoại khi đổi điện thoại (khi bạn chuyển sang sử dụng điện thoại khác). Thời gian ngưng do nhiễu vô tuyến có thể được TCP diễn dịch thành mất mát gói tin, và gây ra tình trạng thắt cổ chai tạm thời đối với tốc độ truyền tải.
+
+
+== Dịch vụ và phần cứng ==
+Dịch vụ dữ liệu GSM nâng cấp lên GPRS cung cấp:
+Dịch vụ nhắn tin đa phương tiện (MMS)
+Push to talk trên điện thoại PoC / PTT
+Nhắn tin nhanh và Presence -- Làng không dây
+Ứng dụng Internet dành cho Thiết bị thông minh thông qua Giao thức Ứng dụng Không dây (WAP)
+Dịch vụ Điểm-điểm (PTP): làm việc thông qua internet (giao thức IP)
+Dịch vụ tin nhắn ngắn (SMS)
+Khả năng tăng cường trong tương lai: dễ thêm các chứng năng mới, như có dung lượng cao hơn, nhiều người dùng hơn, các truy cập mới, các giao thức mới, các mạng vô tuyến mới.
+
+
+=== Modem USB GPRS ===
+Các modem USB GPRS sử dụng giao diện tương tự như thiết bị đầu cuối USB 2.0 về sau, định dạng dữ liệu V.42bis, và RFC 1144 và ăng-ten gắn ngoài. Modem có thể được gắn vào cạc (dành cho laptop) hoặc thiết bị USB gắn ngoài tương tự như chuột máy tính về hình dạng và kích thước.
+GPRS có thể được dùng như sóng mang SMS. Nếu SMS trên GPRS được dùng, tốc độ truyền tải SMS có thể đạt đến 30 tin nhắn SMS một phút. Tốc độ nhanh hơn nhiều so với SMS thông thường trên GSM, khi đó tốc độ truyền tải SMS chỉ khoảng 6 đến 10 tin SMS một phút
+
+
+== Tính sẵn có ==
+Ở nhiều khu vực, như Pháp, nhà điều hành điện thoại đã tính cước HPRS khá rẻ (so với truyền dữ liệu GSM trước đây, CSD và HSCSD). Một vài nhà cung cấp điện thoại di động đề nghị một mức giá cố định khi truy cập Internet, trong khi một số khác tính tiền dựa theo dữ liệu truyền nhận, thường tính tròn theo 100 kilobyte.
+Trong thời hoàng kim của GPRS ở những nước phát triển, khoảng năm 2005, giá chuẩn thay đổi từ €0,24 mỗi megabyte đến hơn €20 mỗi megabyte. Ở những nước đang phát triển, giá cả chênh lệch nhiều, và thay đổi thường xuyên. Một số nhà cung cấp mạng cho truy cập miễn phí trong khi họ đã quyết định mức giá, như Togocel.tg ở Togo, Tây Phi, một số khá tính giá quá cao, như Tigo của Ghana tới một dollar Mỹ một megabyte hay Indonesia là $3 một megabyte. Mero Mobile của Nepal tính tiền người dùng tới lượng trần, sau đó miễn phí. Vào năm 2008, truy cập dữ liệu ở Canada vẫn khá mắc. Ví dụ, Fido tính $0.05 một kilobyte, hoặc $50 một megabyte.
+Thẻ SIM trả trước cho phép khác du lịch mua truy cập Internet trong thời hạn ngắn.
+Tốc độ tối đa của kết nối GPRS trong năm 2003 tương đương với kết nối modem trong mạng điện thoại tương tự có dây, khoảng 32 đến 40 kbit/s, tùy vào điện thoại sử dụng. Độ trễ là rất cao; một ping đi vòng mất khoảng 600 đến 700 ms và thường đạt đến 1s. GPRS nói chung có độ ưu tiên thấp hơn thoại, và do đó chất lượng kết nối cũng thay đổi lớn.
+Để thiết lập một kết nối GPRS cho một modem không dây, người dùng phải xác định một APN, có thể là tên người dùng và mật khẩu, và rất hiếm, địa chỉ IP, tất cả đều do nhà cung cấp dịch vụ cung cấp.
+Các thiết bị được cải tiến ngầm/RTT (như thông qua tính năng chế độ UL TBF mở rộng) hiện đã xuất hiện rộng rãi. Tương tự, sự nâng cấp các tính năng mạng đã có một vài nhà cung cấp. Với những sự cải tiến này thời gian đi vòng có thể giảm xuống, dẫn đến tăng đáng kể tốc độ truyền dẫn ở mức ứng dụng.
+
+
+== Xem thêm ==
+CDMA
+EDGE
+UMTS
+Mạng hạt nhân GPRS
+SNDCP
+Hệ thống con đa phương tiện IP
+HSDPA
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+3GPP AT command set for user equipment (UE)
+GPRS security information tại Wayback Machine (lưu trữ ngày 9 tháng 2 năm 2008)
+Free GPRS resources
+GSM World, the trade association for GSM and GPRS network operators.
+Palowireless GPRS resource center
+GPRS attach and PDP context activation sequence diagram

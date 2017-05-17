@@ -1,0 +1,106 @@
+Cơ quan nghiên cứu và phát triển hàng không vũ trụ (kanji: 宇宙航空研究開発機構, âm Hán Việt: Vũ trụ hàng không nghiên cứu khai phát cơ quan, romaji: Uchū-Kōkū-Kenkyū-Kaihatsu-Kikō, tên giao dịch tiếng Anh: Japan Aerospace Exploration Agency, viết tắt là JAXA) của Nhật Bản được thành lập vào ngày 1 tháng 10 năm 2003 là một pháp nhân hành chính độc lập có chức năng là nghiên cứu, phát triển, thám hiểm và khai thác tiềm năng vũ trụ. JAXA có trách nhiệm nghiên cứu, phát triển và phóng các vệ tinh vào quỹ đạo, và tham gia vào nhiều phi vụ khác như thám hiểm thiên thạch (asteroid) và có thể là một chuyến bay có người lái lên Mặt Trăng.
+
+
+== Lịch sử ==
+
+Vào 1 tháng 10 năm 2003, ba tổ chức quốc gia của Nhật được sáp nhập để tạo thành JAXA: Viện Khoa học Vũ trụ (thuộc Bộ Giáo dục, Khoa học và Văn hóa (Nhật Bản)), Viện Công nghệ Vũ trụ Hàng không, và Cục Phát triển Vũ trụ.
+Trước khi sáp nhập, ISAS chịu trách nhiệm về các nghiên cứu không gian và các hành tinh khác, trong khi NAL chuyên về các lãnh vực hàng không. NASDA, được thành lập 1 tháng 10 năm 1969, đã phát triển tên lửa, vệ tinh, và cũng đã đóng Mô đun thí nghiệm Nhật Bản (Japanese Experiment Module), dự tính sẽ được phóng và ghép vào Trạm vũ trụ Quốc tế (International Space Station) trong các chuyến bay lắp ghép ISS của các tàu con thoi vào năm 2008. Trụ sở cũ của NASDA nằm tại nơi bây giờ là Trung tâm vũ trụ Tanegashima, trên đảo Tanegashima, 115 kilomete về phía nam của Kyūshū. NASDA cũng huấn luyện các nhà du hành vũ trụ, những người bay trên các tàu con thoi của Hoa Kỳ.
+
+
+== Các tên lửa ==
+JAXA sử dụng tên lửa H-IIA (H "hai" A) phát triển từ NASDA trước đây để phóng các vệ tinh thử nghiệm, vệ tinh thời tiết, v.v. Các phi vụ khoa học như thiên văn tia X, JAXA sử dụng tên lửa nhiên liệu rắn M-V từ ISAS trước đây. Thêm vào đó, JAXA đang phát triển cùng với IHI, Lockheed Martin, và Galaxy Express Corporation (GALEX), tên lửa GX. Tên lửa GX sẽ là tên lửa đầu tiên trên thế giới sử dụng khí tự nhiên hóa lỏng (liquefied natural gas - LNG) như là nhiêu liệu đẩy. Với các thí nghiệm trên thượng tầng khí quyển JAXA sử dụng các tên lửa SS-520, S-520, và S-310.
+
+
+== Thành tựu ==
+Trước khi JAXA được thành lập, ISAS khá thành công trong các chương trình kính viễn vọng không gian sử dụng tia X trong suốt những năm 1980 và 90. Một lãnh vực khác Nhật cũng khá thành công là Giao thoa với đường nền cực dài (Very Long Baseline Interferometry - VLBI) với phi vụ HALCA. Các nghiên cứu quan sát mặt trời và từ trường quyển (magnetosphere) cũng khá thành công.
+NASDA chủ yếu hoạt động trong các kỹ thuật truyền thông sử dụng vệ tinh. Từ lúc thị trường vệ tinh Nhật Bản là mở hoàn toàn, lần đầu tiên một công ty Nhật trúng một hợp đồng cho một vệ tinh dân sự là chỉ vào năm 2005. Một mặt khác được NASDA tập trung là quan sát thời tiết của Trái Đất.
+
+
+== Phát triển việc phóng và các phi vụ ==
+
+
+=== Lịch sử tên lửa ===
+Nhật Bản phóng vệ tinh đầu tiên Ohsumi vào năm 1970 với tên lửa M-4 của ISAS. Không giống như tên lửa nhiên liệu rắn, Nhật Bản chọn một con đường chậm hơn với kỹ thuật tên lửa nhiên liệu lỏng. Ban đầu NASDA sử dụng các kiểu của Mỹ. Kiểu đầu tiên phát triển ở Nhật là H-II giới thiệu vào năm 1994. Tuy nhiên vào cuối những năm 90 với hai lần phóng H-II thất bại, kỹ thuật tên lửa của Nhật bị chỉ trích.
+
+
+=== Các phi vụ H-IIA đầu tiên ===
+Chuyến bay vũ trụ đầu tiên của Nhật dưới sự lãnh đạo của JAXA, một vụ phóng tên lửa H-IIA vào 29 tháng 11năm2003, đã kết thúc thất bại do các vấn đề về áp suất. Sau 15 tháng ngưng, JAXA phóng thành công một tên lửa H-IIA từ Trung tâm vũ trụ Tanegashima, đặt một vệ tinh vào quỹ đạo vào 26 tháng 2 năm 2005.
+
+
+== Các chuyến bay liên hành tinh ==
+Những chuyến bay đầu tiên của Nhật Bản vượt khỏi quỹ đạo Trái Đất là vào năm 1985 với các vệ tinh quan sát sao chổi Halley mang tên Suisei và Sakigake. Để chuẩn bị cho tương lai, ISAS thử nghiệm các cú nhảy quỹ đạo Trái Đất với vệ tinh Hiten vào năm 1990.
+Các chuyến bay liên hành tinh hiện nay vẫn ở tại ISAS dưới khung của tổ chức JAXA. Hayabusa (hiện tại),SELENE, Planet-C, BepiColombo, Hayabusa 2 (đang phát triển)?
+
+
+=== Thám hiểm thiên thạch nhỏ: phi vụ Hayabusa ===
+Vào 9 tháng 5 2003, Hayabusa (nghĩa là, Peregrine falcon), được phóng từ một tên lửa M-V. Mục đích của phi vụ này là thu nhặt mẫu đất đá từ một thiên thạch. Tàu vũ trụ tự động dự tính là sẽ gặp thiên thạch vào tháng 11 năm 2005, và quay trở lại Trái Đất với mẫu đất đá từ thiên thạch vào tháng 7 năm 2007. Người ta tin chắc rằng là con tàu đã hạ cánh thành công trên thiên thạch vào 20 tháng 11 2005, sau một số rối loạn thông tin ban đầu. Vào 26 tháng 11 2005, Hayabusa thành công trong việc tiếp cận nhẹ nhàng, nhưng liệu nó có thu nhập mẫu đất đá hay không thì không ai biết. Hayabusa dự tính sẽ quay lại Trái Đất vào năm 2010.
+
+
+=== Nghiên cứu về buồm mặt trời ===
+
+Vào 9 tháng 8 năm 2004, ISAS đã phóng thành công hai kiểu buồm mặt trời từ một tên lửa siêu thanh. Một kiểu buồm có dạng ba lá được mở ra ở độ cao 122 km và một kiểu buồm hình quạt được mở ra ở độ cao 169 km. Cả hai loại buồm này đều sử dụng màng mỏng 7.5 micrometre.
+ISAS lại thử buồm mặt trời một lần nữa như là một phần phụ của chuyến bay Astro-F (Akari) vào ngày 22 tháng 2 năm 2006. Tuy nhiên buồm mặt trời đã không mở ra hoàn toàn. ISAS lại thử buồm mặt trời trên một phần của phi vụ Solar-B phóng vào 23 tháng 9 năm 2006, nhưng liên lạc với vệ tinh đã bị mất. Mục đích là có một chuyến bay bằng buồm mặt trời về Sao Mộc sau năm 2010.
+
+
+== Chương trình thiên văn ==
+Phi vụ thiên văn đầu tiên của Nhật là vệ tinh tia X mang tên Hakucho (Corsa-B), được phóng năm 1979. Sau đó ISAS chuyển sang quan sát mặt trời, thiên văn vô tuyến thông qua VLBI trong không gian và thiên văn giao thoa. Hiện tại: Suzaku, Akari, Hinode. Đang phát triển: ASTRO-G
+
+
+=== Thiên văn tia hồng ngoại ===
+Phi vụ thiên văn hồng ngoại đầu tiên của Nhật là kính viễn vọng dài 15 cm IRTS là một phần của vệ tinh đa năng SFU vào năm 1995. Trong suốt 1 tháng trên quỹ đạo IRTS đã quét qua 7% bầu trời trước khi SFU bị đưa xuống mặt đất bởi tàu con thoi. Trong những năm 1990 JAXA cũng ủng hộ các trạm mặt đất cho chương trình Đài thiên văn hồng ngoại (Infrared Space Observatory - ISO) của ESA.
+Bước kế tiếp của JAXA là vệ tinh Akari, với tên gọi trước khi phóng là ASTRO-F. Vệ tinh này được phóng vào 21 tháng 2 năm 2006. Nhiệm vụ của nó là quan sát thiên văn bằng một kính viễn vọng 68 cm sử dụng tia hồng ngoại. Đây là lần đầu tiên toàn bộ bầu trời được quan sát kể từ phi vụ IRAS vào năm 1983. (Một vệ tinh nhỏ nặng 3.6 kg có tên CUTE-1.7 cũng được thả ra từ cùng một tên lửa phóng.) [1]
+JAXA cũng đang nghiên cứu và phát triển thêm để tăng cường tính năng của các thiết bị làm lạnh cơ học cho các chuyến phóng vệ tinh hồng ngoại trong tương lai SPICA. Điều này sẽ cho phép họ phóng lên mà không cần helium lỏng. SPICA có cùng kích thước với Trạm quan sát không gian Herschel của ESA, nhưng được dự tính với nhiệt độ khoảng 4.5 K lạnh hơn. Vụ phóng này dự tính vào năm 2015, tuy nhiên phi vụ chưa được cấp ngân sách hoàn toàn. ESA và NASA có thể đóng góp mỗi nơi một thiết bị quan sát.e.html
+
+
+=== Thiên văn tia X ===
+Từ năm 1979 Nhật đã bỏ gần 20 năm liên tục quan sát thiên văn dùng kính viễn vọng tia X đặt trên các vệ tinh Hakucho, Tenma, Ginga và Asca. Tuy nhiên vào năm 2000 việc phóng vệ tinh quan sát dùng tia X Astro-E đã thất bại.
+Vào 10 tháng 7năm 2005, JAXA cuối cùng đã phóng được một vệ tinh mang kính viễn vọng tia X với phi vụ mang tên ASTRO-E II (Suzaku). Có 3 thiết bị trên vệ tinh này: một quang phổ tia X (XRS), một máy chụp quang phổ tia X (XIS), và một máy phát hiện tia X cứng (HXD).
+Chi tiết thêm có ở ASTRO-E II (Suzaku).
+
+
+=== Thiên văn mặt trời ===
+Thiên văn mặt trời của Nhật bắt đầu từ những năm 1980 với phi vụ ASTRO-A. Vệ tinh Hinode (Solar-B), theo sau vệ tinh hợp tác giữa Nhật/US/UK Yohkoh (Solar-A), được phóng vào 23 tháng 9 năm 2006.[2][3]
+
+
+== Các thử nghiệm kỹ thuật ==
+
+Một trong các nhiệm vụ chính của cơ quan NASDA trước đây là thử nghiệm những kỹ thuật không gian mới, chủ yếu là ở trong lãnh vực truyền thông. Vệ tinh thử nghiệm đầu tiên là ETS-I, được phóng vào năm 1975. Tuy nhiên trong suốt những năm 1990 NASDA bị nhiều vụ việc không may mắn xung quanh các phi vụ ETS-VI và COMETS.
+Tuy nhiên việc thử nghiệm các kỹ thuật truyền thông vẫn là một nhiệm vụ chính của JAXA hợp tác với NICT. Hiện tại: ETS-VIII, OICETS, Đang phát triển: WINDS, QZSS-1
+
+
+== Các chương trình quan sát Trái Đất ==
+Các vệ tinh quan sát Trái Đất đầu tiên của Nhật được phóng lên là MOS-1a và MOS-1b phóng vào năm 1987 và 1990. Trong những năm 1990 và đầu những năm 2000 chương trình này bị chỉ trích nặng nề, vì cả hai vệ tinh Adeos (Midori) và Adeos 2 (Midori 2) đều bị hỏng chỉ sau 10 tháng trên quỹ đạo. Các vệ tinh: ALOS (hiện tại) GOSAT, GCOM-W (đang phát triển)
+
+
+== Các vệ tinh khác của JAXA đang được sử dụng ==
+
+Exos-D (Akebono) quan sát aurora, từ năm 1989.
+GEOTAIL vệ tinh quan sát từ trường quyển (từ 1992)
+DRTS Vệ tinh trung chuyển thông tin (Kodama), từ 2002. (dự kiến sẽ kéo dài 7 năm)
+Vệ tinh Akatsuki của JAXA đi vào quỹ đạo của Sao Kim vào tháng 12 năm 2015, sau 5 năm kể từ ngày rời bệ phóng.
+Các phi vụ đang hợp tác với NASA là Phi vụ đo lượng mưa nhiệt đới (Tropical Rainfall Measuring Mission-TRMM), Vệ tinh quan sát Trái Đất Aqua.
+
+
+== Các trung tâm nghiên cứu ==
+JAXA có nhiều trung tâm nghiên cứu ở nhiều địa điểm khắp Nhật Bản, và một số trụ sở ở nước ngoài. Tổng hành dinh đặt tại Chofu, Tokyo. Nó cũng có
+Trung tâm nghiên cứu quan sát Trái Đất
+(Earth Observation Research Center- EORC), Tokyo
+Trung tâm quan sát Trái Đất (Earth Observation Center-EOC) ở Hatayama
+Trung tâm thử nghiệm Noshiro (NTC) - thành lập năm 1962. Tiến hành phát triển và thử các loại động cơ tên lửa.
+Trung tâm khinh khí cầu Sanriku (SBC) - Các khinh khí cầu được phóng lên từ nơi này từ năm 1971.
+Trung tâm động cơ đẩy trong không gian Kakuda (KSPC) - dẫn đầu trong việc phát triển các loại động cơ tên lửa. Chủ yếu là phát triển các động cơ nhiên liệu lỏng.
+Khu Sagamihara (ISAS) - Phát triển các thiết bị thử nghiệm cho tên lửa và vệ tinh. Cũng là nơi có các tòa nhà hành chính.
+Trung tâm không gian Tanegashima
+Trung tâm không gian Tsukuba (TKSC) ở Tsukuba. Đây là trung tâm của mạng lưới không gian Nhật Bản. Nó tham dự vào việc nghiên cứu và phát triển vệ tinh và tên lửa, theo dõi đường bay và điều khiển các vệ tinh. Nó phát triển các thiết bị thí nghiệm cho Mô đun thí nghiệm Nhật Bản ("Kibo"). Huấn luyện cho các phi hành gia cũng diễn ra ở đây.
+Trung tâm không gian Uchinoura
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+JAXA
+"JAXA 2025" Presentation
+RAND Report on Japan's Space Program, 2005
+CSIS Report on US-Japan Space Policy Cooperation, 2003
+GOSAT satellite

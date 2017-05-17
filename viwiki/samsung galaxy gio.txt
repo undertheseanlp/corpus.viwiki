@@ -1,0 +1,29 @@
+Samsung Galaxy Gio là điện thoai thông minh sản xuất bởi Samsung chạy hệ điều hành Android.
+Nó được công bố vào năm 2011 tại Mobile World Congress là một trong những điện thoại thông minh tầm thấp của Samsung, cùng với Galaxy Ace, Galaxy Fit và Galaxy Mini.
+Galaxy Gio ra mắt tại Canada vào tháng 8 năm 2011. Ban đầu sẵn có cho Bell Canada, Gio sớm có mặt tại Virgin Mobile Canada và Solo Mobile. Tháng 12 2011, Galaxy Gio có sẵn tại Mỹ, với tên Samsung Repp tại U.S. Cellular.
+Vào đầu tháng 8 năm 2011, Samsung chính thức phát hành cập nhật Gingerbread thông qua Kies. Tháng 9 2011, Samsung phát hành cập nhật ở Hà Lan với mã "PDA:KPS PHONE:KPA CSC:KP1 (XEN)".
+
+
+== Tính năng ==
+
+
+=== Phần cứng ===
+Thiết bị có màn hình cảm ứng điện dung đa chạm 3,2 in (8,1 cm) HVGA, máy ảnh 3.2-megapixel với auto focus, và vi xử lý 800 MHz Qualcomm MSM7227 Turbo (ARMv6), 278 MB RAM, 158 Mb bộ nhớ trong, 3G HSPA+, FM Radio, GPS, Wi-Fi 802.11 b/g/n, và pin 1350 mAh.
+
+
+=== Phần mềm ===
+Galaxy Gio ban đầu chạy Android 2.2 Froyo, với giao diện tuỳ chỉnh TouchWiz của Samsung nhưng người dùng có thể nâng cấp lên Android 2.3.6 thông qua Samsung Kies và hiện nay (tháng 10 năm 2012) Android 2.3.6 có thể được cài đặt sẵn trên Gios bán trên toàn cầu. Một số thay đổi từ cập nhật 2.3.6 là màn hình khoá mới, phone icon mới, hiệu ứng ánh sáng màu xanh khi kéo xuống và một số thay đổi khác trên System UI. Android 4.1 cho Gio chưa được cung cấp bởi Samsung do cấu hình phần cứng không đủ mạnh, nhưng có thể nâng cấp thông qua Root và ClockworkMod Recovery.
+
+
+== Xem thêm ==
+Samsung Galaxy
+Galaxy Nexus
+
+
+== Tham khảo ==
+
+
+== Liên kết ==
+Official website
+How to root the Samsung Galaxy Gio S5660
+Wiki explaining the status of CyanogenMod for Samsung Galaxy Gio (german)

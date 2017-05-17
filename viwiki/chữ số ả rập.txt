@@ -1,0 +1,43 @@
+Chữ số Ả Rập (còn gọi là chữ số Ấn Độ hay chữ số Hindu) là bộ ký hiệu được phổ biến nhất để tượng trưng cho số. Chúng được xem là một trong những thành quả quan trọng nhất trong toán học.
+
+
+== Lịch sử ==
+Cụm từ "chữ số Ả Rập" thật sự là tên sai, vì hệ chữ số này không được người Ả Rập sáng chế hay dùng rộng rãi. Thay vào đó, chúng được phát triển tại Ấn Độ bởi những người Hindu vào khoảng 400 TCN. Tuy thế, vì người Ả Rập đã truyền hệ chữ số này vào các nước Tây phương sau khi chúng được lan tràn đến Ba Tư, hệ chữ số này được có tên "Ả Rập". Người Ả Rập gọi hệ chữ số này "chữ số Ấn Độ" (أرقام هندية, arqam hindiyyah).
+
+Những bản khắc đầu tiên sử dụng số 0 bằng tiếng Ấn Độ đã được tìm thấy vào khoảng những năm 400. Mã số học của Aryabhata cũng đại diện cho kiến thức về ký hiệu số 0. Vào thời Bhaskara I (thế kỷ thứ 7), hệ đếm cơ số 10 với 9 ký tự đã được sử dụng rộng rãi ở Ấn Độ, và khái niệm số 0 (đại diện bởi một dấu chấm) cũng đã được biết đến (xem thêm Vāsavadattā của Subandhu, hay định nghĩa của Brahmagupta). Cũng có giả thuyết rằng ký tự 0 được phát minh ra vào thế kỷ đầu tiên, khi triết học của Phật giáo về shunyata (Không tính) đang thịnh hành.
+Bạn có thể đọc thêm về cách các chữ số được phổ biến đến Ả Rập trong "Bảng niên đại của các học giả", do al-Qifti viết vào cuối thế kỉ 12 nhưng đã được chú thích từ các nguồn tài liệu trước đó (xem thêm [1]):
+...vào năm 776 một người từ Ấn Độ tự giới thiệu mình đến vị Caliph al-Mansur, người này khá thông thạo học thuyết về phương pháp tính toán liên quan đến chuyển động các thiên thể, có cách để tính các phương trình dựa trên nửa dây cung (về cơ bản là hình sin) tính trên từng nửa độ... Al-Mansur ra lệnh dịch quyển sách của người này sang tiếng Ả Rập. Nhờ vậy, dựa trên bản dịch này, người Ả Rập đã có cơ sở vững chắc để tính toán sự vận động của các hành tinh...
+Cuốn sách trên do các nhà học giả Ấn Độ giới thiệu, khá phù hợp với cuốn Brahmasphutasiddhanta (Sự hình thành của Vũ trụ) được nhà toán học Ấn Độ Brahmagupta viết năm 628 đã sử dụng các ký hiệu số học của người Hindu với ký tự số 0.
+Hệ thống chữ số cùng được hai nhà toán học Ba Tư là Al-Khwarizmi (tác giả cuốn sách "Về phép tính với số học của người Hindu" viết năm 825) và nhà toán học Ả Rập là Al-Kindi (tác giả của bốn tập sách "Sử dụng chữ số của người Ấn Độ" Ketab fi Isti'mal al-'Adad al-Hindi năm 830. Xem [2]) biết đến. Chính hai nhà toán học này đã phổ biến rộng rãi hệ thống chữ số Ấn Độ sang Trung Đông và phía Tây. Vào thế kỉ thứ 10, các nhà toán học Trung Đông đã mở rộng hệ cơ số 10 để bao gồm cả phần thập phân, đã được nhà toán học Syria là Abu'l-Hasan al-Uqlidisi ghi lại trong tài liệu của mình năm 952-953.
+Fibonacci, nhà toán học người Ý theo học tại Béjaïa (Algérie) đã khuyến khích sử dụng chữ số Ả Rập ở châu Âu trong cuốn sách Liber Abaci được xuất bản năm 1202. Tuy nhiên hệ thống chữ số này không được phổ biến rộng rãi ở châu Âu cho đến khi người ta phát minh ra kĩ thuật in (Xem Bản đồ thế giới năm 1482 theo thuyết Ptolemy do Lienhart Holle in tại Ulm, hoặc Bảo tàng Gutenberg tại Mainz, Đức.)
+Trong thế giới Ả Rập—cho đến thời hiện đại—hệ thống chữ số Ả Rập chỉ được các nhà toán học sử dụng. Các nhà khoa học Hồi giáo sử dụng hệ thống chữ số Babylon, và các nhà buôn sử dụng hệ thống chữ số tương tự như hệ thống chữ số Hi Lạp và hệ thống chữ số Do Thái. Do vậy, ngay cả trước khi Fibonacci mà hệ thống chữ số Ả Rập đã được sử dụng rộng rãi.
+
+
+== Mô tả ==
+
+Bộ chữ số Ả Rập là bộ chữ số vị trí (giá trị đại diện thay đổi theo vị trí) với 10 ký tự đại diện cho 10 số.
+
+
+== Xem thêm ==
+Chữ số Trung Quốc
+Chữ số La Mã
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Unicode reference charts:
+Arabic (See codes U+0660-U+0669, U+06F0-U+06F9)
+Devanagari (See codes U+0966-U+096F)
+Tamil (See codes U+0BE6-U+0BEF)
+
+History of the Numerals
+The Evolution of Numbers
+Indian numerals:
+Arabic numerals:
+Hindu-Arabic numerals:
+
+Learn Arabic Online - Numerals page at http://St-Takla.org
+[1] - The Arabic numeral system by: J J O'Connor and E F Robertson
+[2] http://www.levity.com/alchemy/islam13.html

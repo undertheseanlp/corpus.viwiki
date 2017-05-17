@@ -1,0 +1,19 @@
+Cú pháp học nghiên cứu những quy tắc kết hợp từ, nhóm từ thành các kết cấu biểu đạt nghĩa trong các câu ở ngôn ngữ tự nhiên. Có hai hệ thống cú pháp chính là VO (động từ-tân ngữ) và OV (tân ngữ-động từ). Trong các hệ thống này lại có các tiểu hệ thống liên quan đến vị trí của chủ ngữ. Tiếng Việt thuộc loại SVO. Thuật ngữ "cú pháp" còn được sử dụng trong logic học và các ngành ngôn ngữ nhân tạo như ngôn ngữ máy tính.
+
+
+== Đọc thêm ==
+Brown, Keith; Jim Miller (eds.) (1996). Concise Encyclopedia of Syntactic Theories. New York: Elsevier Science. ISBN 0-08-042711-1.  
+Carnie, Andrew (2006). Syntax: A Generative Introduction. Oxford: Wiley-Blackwell. ISBN 1405133848. 
+Freidin, Robert; Howard Lasnik (eds.) (2006). Syntax. Critical Concepts in Linguistics. New York: Routledge. ISBN 0-415-24672-5.  
+Graffi, Giorgio (2001). 200 Years of Syntax. A Critical Survey. Studies in the History of the Language Sciences 98. Amsterdam: Benjamins. ISBN 90-272-4587-8. 
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+The syntax of natural language (Beatrice Santorini & Anthony Kroch, University of Pennsylvania)
+Isac, Daniela; Charles Reiss (2008). I-language: An Introduction to Linguistics as Cognitive Science. Oxford University Press. ISBN 978-0199534203.  
+Various syntactic constructs used in computer programming languages
+The journal Syntax
+What is Syntax? at WiseGeek

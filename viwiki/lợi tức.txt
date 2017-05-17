@@ -1,0 +1,31 @@
+Lợi tức là một khái niệm trong kinh tế học dùng để chỉ chung về những khoản lợi nhuận (lãi, lời) thu được khi đầu tư, kinh doanh hay tiền lãi thu được do cho vay hoặc gửi tiết kiệm tai ngân hàng. Trong các trường hợp khác nhau, thì lợi tức có tên gọi khác nhau, trong đầu tư chứng khoán, lợi tức có thể gọi là cổ tức, trong tiền gửi tiết kiệm, tiền gửi kỳ hạn, nó gọi là lãi hay tiền lãi, còn trong các hoạt động đầu tư kinh doanh khác, lợi tức có thể gọi là lợi nhuận, lời...
+
+
+== Thuật ngữ ==
+Lợi tức là một khái niệm được xem xét dưới hai góc độ khác nhau gồm góc độ của người cho vay và của người đi vay.
+Ở góc độ người cho vay hay nhà đầu tư vốn, lợi tức là số tiền tăng thêm trên số vốn đầu tư ban đầu trong một khoảng thời gian nhất định. Khi nhà đầu tư đem đầu tư một khoản vốn, nhà đầu tư sẽ thu được một giá trị trong tương lai lớn hơn giá trị đã bỏ ra ban đầu và khoản chênh lệch này được gọi là lợi tức.
+Ở góc độ người đi vay hay người sử dụng vốn, lợi tức là số tiền mà người đi vay phải trả cho người cho vay (là người chủ sở hữu vốn) để được sử dụng vốn trong một thời gian nhất định. Trong thời gian cho vay, người cho vay có thể gặp phải những rủi ro như: người vay không trả lãi hoặc không hoàn trả vốn vay. Những rủi ro này sẽ ảnh hưởng đến mức lợi tức mà người cho vay dự kiến trong tương lai. Khoản tiền đi vay (hay bỏ ra để cho vay) ban đầu gọi là vốn gốc. Số tiền nhận được từ khoản vốn gốc sau một khoản thời gian nhất định gọi là giá trị tích luỹ. Tỷ suất lợi tức (lãi suất) là tỷ số giữa lợi tức thu được (phải trả) so với vốn đầu tư (vốn vay) trong một đơn vị thời gian. Đơn vị thời gian là năm (trừ trường hợp cụ thể khác).
+
+
+== Kinh tế chính trị Marx-Lenin ==
+
+Trong kinh tế chính trị Marx-Lenin, lợi tức là một thuật ngữ dùng để chỉ một phần của lợi nhuận bình quân mà tư bản đi vay trả cho tư bản cho vay về quyền sở hữu tư bản để được quyền sử dụng tư bản trong một thời gian nhất định. Lợi tức được Marx ký hiệu là z. Người cho vay và người đi vay thỏa thuận với nhau về tỷ suất lợi tức (là tỷ lệ phần trăm giữa tổng số lợi tức và số tư bản tiền tệ cho vay trong một thời gian nhất định, ký hiệu là z'). z' = %100.CVKz. trong đó: KCV là số tư bản cho vay. Tỷ suất lợi tức phụ thuộc vào tỷ suất lợi nhuận bình quân và quan hệ cung - cầu về tư bản cho vay. Giới hạn vận động của tỷ suất lợi tức là: 0 < z' < p'.
+
+
+== Trong hoạt động kinh doanh ==
+Lợi tức thực hiện cả năm là kết quả kinh doanh của doanh nghiệp, bao gồm lợi tức hoạt động kinh doanh và hoạt động khác. Lợi tức hoạt động kinh doanh là khoản chênh lệch giữa tổng doanh thu bán sản phẩm, hàng hoá, dịch vụ trừ đi giá thành toàn bộ sản phẩm hàng hoá, dịch vụ đã tiêu thụ và thuế theo quy định của pháp luật (trừ thuế lợi tức).
+Lợi tức hoạt động khác bao gồm:
+Lợi tức hoạt động tài chính là số thu lớn hơn chi của các hoạt động tài chính, bao gồm các hoạt động cho thuê tài sản, mua, bán trái phiếu, chứng khoán, mua bán ngoại tệ, lãi tiền gửi ngân hàng thuộc vốn kinh doanh, lãi cho vay thuộc các nguồn vốn và quỹ, lãi cổ phần và lãi do góp vốn liên doanh, hoàn nhập số dư khoản dự phòng giảm giá đầu tư chứng khoán ngắn hạn, dài hạn.
+Lợi tức của hoạt động bất thường là khoản thu nhập bất thường lớn hơn các chi phí bất thường, bao gồm các khoản phải trả không có chủ nợ, thu hồi lại các khoản nợ khó đòi đã được duyệt bỏ (đang theo dõi ngoài bảng cân đối kế toán, các khoản vật tự, tài sản thừa sau khi đã bù trừ hao hụt mất mát các vật tư cùng loại, chênh lệch thanh lý, nhượng bán tài sản (là số thu về nhượng bán trừ giá trị còn lại trên sổ sách kế toán của tài sản và các chi phí thanh lý, nhượng bán), các khoản lợi tức các năm trước phát hiện năm nay, số dư hoàn nhập các khoản dự phòng giảm giá hàng tồn kho, phải thu khó đòi, khoản tiền trích bảo hành sản phẩm còn thừa khi hết hạn bảo hành.
+
+
+== Tham khảo ==
+
+Giáo trình Kinh tế học Chính trị Mác – Lê nin (tái bản), Hội đồng Trung ương chỉ đạo biên soạn giáo trình Quốc gia các bộ môn khoa học Mác – Lê nin, Tư tưởng Hồ Chí Minh, Nhà xuất bản Chính trị quốc gia - Sự thật, Hà Nội, năm 2005
+Kinh tế Chính trị Mác – Lênin (in lần thứ 2 có sửa chữa, bổ sung), Vũ Anh Tuấn, Phạm Quang Phân, Tô Đức Hạnh, Nhà xuất bản Tổng hợp, thành phố Hồ Chí Minh, năm 2007
+100 câu hỏi và bài tập kinh tế chính trị Mác – Lênin (tái bản lần thứ 5), An Như Hải, Nhà xuất bản Lý luận chính trị, Hà Nội, năm 2008
+Chính trị, Bộ Giáo dục và Đào tạo – Chủ biên: Lê Thế Lạng, Nhà xuất bản Chính trị quốc gia - Sự thật, Hà Nội, năm 2004 (tái bản có bổ sung, sửa chữa)
+
+
+== Xem thêm ==
+Lợi nhuận

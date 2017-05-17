@@ -1,0 +1,117 @@
+Google Nexus là một dòng thiết bị di động chạy hệ điều hành Android do Google hợp tác sản xuất cùng một đối tác OEM. Các thiết bị trong dòng Nexus đều sử dụng Android không bị thay đổi bởi nhà sản xuất hoặc nhà mạng (như bị thay đổi giao diện người dùng đồ họa chẳng hạn), và có bootloader có thể dễ dàng mở khóa để cho phép người dùng lập trình hoặc điều chỉnh sâu hơn. Các thiết bị Nexus luôn là thiết bị Android đầu tiên nhận được bản cập nhật hệ điều hành. Galaxy Nexus là một trong số ít điện thoại thông minh mà Dự án mã nguồn mở Android khuyến cáo nên sử dụng khi muốn phát triển phần mềm cho Android. Tính đến tháng 11 năm 2012, thiết bị mới nhất trong dòng này là điện thoại Nexus 4 của Google cộng tác với LG, và máy tính bảng Nexus 7 và Nexus 10 của Google cộng tác lần lượt với Asus và Samsung.
+
+
+== Điện thoại thông minh ==
+
+
+=== Nexus One ===
+
+Nexus One do HTC sản xuất và được ra mắt vào tháng 1 năm 2010 với vai trò là chiếc điện thoại Nexus đầu tiên. Nexus One được phát hành cùng với Android 2.1 Eclair, và được cập nhật vào tháng 5 năm 2010 để trở thành điện thoại đầu tiên chạy Android 2.2 Froyo. Sau này điện thoại còn được cập nhật lên Android 2.3 Gingerbread. Google đã thông báo ngừng hỗ trợ Nexus One, do GPU (Adreno 200) của nó quá yếu để phân giải bộ tăng tốc 2D mới trong giao diện của Android 4.0 Ice Cream Sandwich. Nexus S và các mẫu mới hơn đều có phần cứng được thiết kế để xử lý bộ phân giải mới này.
+
+
+=== Nexus S ===
+
+Nexus S, do Samsung sản xuất, được phát hành vào tháng 12 năm 2010 trùng với dịp ra mắt Android 2.3 Gingerbread. Trong tháng 12 năm 2011, nó được cập nhật lên Android 4.0 Ice Cream Sandwich, và đa số các biến thể về sau lại tiếp tục được cập nhật lên Android 4.1 Jelly Bean vào tháng 7 năm 2012.
+
+
+=== Galaxy Nexus ===
+
+Galaxy Nexus, do Samsung sản xuất, ra mắt vào tháng 11 năm 2011 (phiên bản GSM, Mỹ phát hành phiên bản Verizon ngày 15 tháng 12 cùng năm) ngay dịp phát hành Android 4.0 Ice Cream Sandwich. Nó được nâng cấp lên phiên bản phần mềm Android 4.1 mới nhất vào giữa tháng 7 năm 2012. Thiết bị này tại Brasil có tên gọi là Galaxy X do đã có hãng khác sử dụng thương hiệu "Nexus".
+
+
+=== Nexus 4 ===
+
+Nexus 4 là điện thoại thông minh dòng Google Nexus do LG sản xuất. Nó là thiết bị Android đầu tiên chạy phiên bản cập nhật Android 4.2 Jelly Bean. Nexus 4 có màn hình cảm ứng 4.7" Corning Gorilla Glass 2 (phân giải 1.280 x 768 pixel), bộ xử lý bốn nhân Qualcomm Snapdragon S4 Pro APQ8064 1.5 GHz, máy ảnh chính 8 MP, máy ảnh trước 1.3 MP, và là thiết bị Nexus đầu tiên có khả năng sạc không dây, và cũng là điện thoại thông minh Nexus đầu tiên được bán với giá thấp hơn giá sản xuất, một kiểu bán hàng đã từng thực hiện với máy tính bảng Nexus 7.
+
+
+=== Nexus 5 ===
+
+Nexus 5 là điện thoại thông minh, một lần nữa được sản xuất bởi LG, được lên lịch bán vào 31 tháng 10 năm 2013 giá $349 tại cửa hàng Google Play. Nó là thiết bị đầu tiên chạy Android 4.4, tên là KitKat. Nexus 5 có những đặc điểm sau đây:
+Màn hình: 4,95" Corning Gorilla Glass, 3 IPS LCD cảm ứng, độ phân giải 1.920 × 1.080 pixel
+Vi xử lý: 2,26 GHz Krait 400 lõi tứ Qualcomm Snapdragon 800 SoC
+Máy ảnh: máy ảnh sau 8 MP với ổn định hình ảnh, 1,3 MP máy ảnh trước
+Pin: 2,300 mAh lithium polymer
+Bộ nhớ: 16 hoặc 32 GB
+Kết nối: 4G LTE, sạc wireless, 802.11 a/b/g/n/ac Wi-Fi, Bluetooth 4.0
+
+
+=== Nexus 6 ===
+
+Nexus 6 là điện thoại thông minh phát triển bởi Motorola Mobility, chạy Android Lollipop 5.0. Nó được công bố vào 15 tháng 10 năm 2014.
+Màn hình: 5.96" 1.440×2.560 pixel (493 ppi) màn hình Quad HD AMOLED
+Vi xử lý: Qualcomm Snapdragon 805 - Lõi tứ 2.7 GHz
+Máy ảnh chính: 13 MP với ống kính f/2.0 hỗ trợ OIS
+Máy ảnh trước: 2 MP
+Pin: 3220 mAh với Công nghệ sạc nhanh
+GPU: Adreno 420
+Bộ nhớ: 32 hoặc 64 GB
+RAM: 3 GB
+Loa: loa kép ở mặt trước
+
+
+== Máy tính bảng ==
+
+
+=== Nexus 7 ===
+
+
+==== Thế hệ đầu tiên ====
+
+Vào 27 tháng 6 năm 2012, tại buổi thuyết trình I/O 2012, Google giới thiệu Nexus 7, một máy tính bảng 7-inch với độ phân giải 1.280×800 pixel, phát triển và sản xuất với Asus. Phát hành vào tháng 7 /2012, nó là thiết bị đầu tiên chạy Android 4.1, và cung cấp nội dung có sẵn thông qua Google Play, bao gồm e-book, ứng dụng, nhạc, và video.
+
+
+==== Thế hệ thứ hai ====
+
+Vào 24 tháng 7 năm 2013, tại buổi họp báo "Bữa sáng cùng với Sundar Pichai" của Google, Pichai giới thiệu Nexus 7 thế hệ thứ hai, một lần nữa đồng phát triển với Asus. Vẫn duy trì với Google Nexus truyền thống, nó được phát hành cùng với phiên bản OS mới nhất, Android 4.3. Nó được bán ra vào 26 tháng 7 năm 2013 tại một số nhà bán lẻ và trên cửa hàng Google Play ở Mỹ. Vào 20 tháng 11 năm 2013, nó có sẵn trên cửa hàng Google Play ở Hồng Kông và Ấn Độ. Cùng ngày, sạc không dây Nexus có sẵn tại Mỹ và Canada.
+
+
+=== Nexus 10 ===
+
+Nexus 10, máy tính bảng 10-inch do Samsung sản xuất, được giới thiệu vào cuối tháng 10 năm 2012 qua bức ảnh chụp của giám đốc điều hành Google, Vic Gundotra, cùng với nhiều thông tin rò rỉ về cấu hình và loạt ảnh của nó. Thiết bị có thiết kế tương tự Samsung Galaxy Note 10.1, với màn hình 10.1 inch 2560×1600, lưu trữ 16 GB hoặc 32 GB, chạy Android 4.2, và bộ xử lý hai nhân 1.7 GHz Exynos 5. Nexus 10 ban đầu được dự kiến ra mắt trong hội nghị của Google vào ngày 29 tháng 10 năm 2012, nhưng sau đó bị hoãn do sự cố Bão Sandy.
+
+
+=== Nexus 9 ===
+
+Nexus 9 là máy tính bảng 9-inch chạy Android 5.0, phát triển hợp tác giữa Google và HTC. Nó được công bố vào 15 tháng 10 năm 2014.
+Màn hình 8.9"
+64-bit NVIDIA Tegra K1 "Denver"
+Loa kép ở mặt trước HTC BoomSound
+
+
+== Các thiết bị khác ==
+
+
+=== Nexus Q ===
+
+Nexus Q là thiết bị giải trí thu phát trực tiếp qua Internet chạy Android và tích hợp với Google Play, bán với giá 299 USD tại Mỹ.
+Sau những phàn nàn về tính năng không tương xứng với giá cả, Nexus Q đã bị Google ngưng bán vô thời hạn với lời giải thích Google muốn làm cho nó thành một sản phẩm "còn tốt hơn nữa".
+
+
+=== Nexus Player ===
+
+Nexus Player là một thiết bị TV của Google và ASUS. Nó là thiết bị đầu tiên chạy Android TV. Nó được công bố vào 15 tháng 10 năm 2014.
+1.8 GHz Quad Core,Intel Atom Processor
+802.11ac 2x2 (MIMO)
+HDMI out
+2 AAA batteries
+Gamepad (phụ kiện chơi Game mua thêm)
+
+
+== Tên gọi ==
+Tên gọi "Nexus" xuất phát từ động từ Latin "nectere", nghĩa là "gắn kết".
+
+
+== Xem thêm ==
+Root (Android)
+Lịch sử các phiên bản Android
+CyanogenMod
+Chromebook
+
+
+== Tham khảo ==
+Review nexus 5
+
+
+== Liên kết ngoài ==
+Website chính thức
+Definition of Google Experience Device

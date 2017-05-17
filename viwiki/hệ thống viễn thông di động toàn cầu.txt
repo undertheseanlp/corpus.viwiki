@@ -1,0 +1,31 @@
+Hệ thống viễn thông di động toàn cầu (UMTS) là một trong các công nghệ di động 3G. UMTS dựa trên nền tảng CDMA băng rộng (WCDMA), được chuẩn hóa bởi Tổ chức các đối tác phát triển 3G (3GPP), và là lời đáp của châu Âu cho yêu cầu phát triển 3G đối với hệ thống di động tổ ong của tổ chức ITU IMT2000. UMTS đôi khi còn được gọi là 3GSM, để chỉ sự kết hợp về bản chất công nghệ 3G của UMTS và chuẩn GSM truyền thống.
+
+
+== Lịch sử ==
+Ngay từ đầu những năm 90 của thế kỷ 20, Hiệp hội Tiêu chuẩn Viễn thông châu Âu (ETSI) đã bắt đầu trưng cầu phương án kỹ thuật của tiêu chuẩn3G và "vội vàng" gọi chung kỹ thuật 3G là UMTS (Universal Mobile Telecommunications Systems) có nghĩa là các hệ thống thông tin di động đa năng. CDMA băng rộng (WCDMA) chỉ là một trong các phương án được khuyến nghị (băng rộng lên tới 5 MHz).
+Sau đó sự tham gia tích cực của Nhật Bản vào việc xây dựng các tiêu chuẩn này đã thúc đẩy nhanh chóng sự phát triển của công nghệ3G trên phạm vi toàn cầu. Năm 1998, châu Âu và Nhật đạt được sự nhất trí về những tham số chủ chốt của Khuyến nghị CDMA băng rộng và đưa nó trở thành phương án kỹ thuật dùng giao diện không gian FDD (ghép tần số song công - Frequency Division Duplex) trong hệ thống UMTS. Và từ đó phương án kỹ thuật này được gọi là WCDMA để nêu rõ sự khác biệt với tiêu chuẩn CDMA băng hẹp của Mỹ (băng rộng chỉ có 1,25 MHz).
+Tiếp tục phát triển một cách logic, UMTS trở thành một trong những tiêu chuẩn 3G của tổ chức tiêu chuẩn hoá thế giới 3GPP (Tổ chức những người bạn hợp tác về 3G) và không chỉ định nghĩa giao diện không gian; chủ thể của nó bao gồm các khuyến nghị về các giao diện và một loạt các quy phạm kỹ thuật về các mạch kết nối và mạch phân nhóm nòng cốt củaCDMA.
+UMTS là viết tắt của Universal Mobile Telecommunication System. UMTS là mạng di động thế hệ thứ 3 (3G) sử dụng kỹ thuật trải phổ W(wideband)-CDMA. UMTS được chuẩn hóa bởi tổ chức 3GPP. UMTS đôi khi còn được gọi là 3GSM để chỉ khả năng "interoperability" giữa GSM và UMTS. UMTS được phát triển lên từ các nước sử dụng GSM. UMTS sử dụng băng tầng khác với GSM.
+
+
+== Đặc trưng ==
+UMTS, dùng công nghệ CDMA băng rộng WCDMA, hỗ trợ tốc độ truyền dữ liệu lên đến 21 Mbps (về lý thuyết, với chuẩn HSPDA). Thực tế, hiện nay, tại đường xuống, tốc độ này chỉ có thể đạt 384 kbps (với máy di động hỗ trợ chuẩn R99), hay 7.2 Mbps (với máy di động hỗ trợ HSPDA). Dù sao, tốc độ này cũng lớn hơn khá nhiều so với tốc độ 9.6 kbps của 1 đơn kênh GSM hay 9.6 kbps của đa kênh trong HSCSD (14.4 kbit/s của CDMAOne) và một số công nghệ mạng khác.
+Nếu như thế hệ 2G của mạng tổ ong là GSM, thì GPRS được xem là thế hệ 2.5G. GPRS, dùng chuyển mạch gói, khác so với chuyển mạch kênh (dành kênh riêng) của GSM, hỗ trợ tốc độ dữ liệu cao hơn (lý thuyết đạt: 140.8 kbit/s, thực tế, khoảng 56 kbit/s). E-GPRS hay EDGE, được xem là thế hệ 2.75G, là sự cải tiến về thuật toán mã hóa. GPRS dùng 4 mức mã hóa (coding schemes; CS-1 to 4), trong khi EDGE dùng 9 mức mã hóa và điều chế (Modulation and Coding Schemes; MCS-1 to 9). Tốc độ truyền dữ liệu thực của EDGE đạt tới 180 kbit/s.
+Từ năm 2006, mạng UMTS được nhiều quốc gia nâng cấp lên, với chuẩn HSPDA, được xem như mạng 3.5G. Hiện giờ, HSPDA cho phép tốc độ truyền đường xuống đạt 21 Mbps. Dài hơi hơn, một nhánh của tổ chức 3GPP lên kế hoạch phát triển mạng 4G, với tốc độ 100 Mbit/s đường xuống và 50 Mbit/s đường lên, dùng công nghệ giao diện vô tuyến dựa trên Ghép kênh tần số trực giao.
+Mạng UMTS đầu tiên triển khai năm 2002 nhấn mạnh tới các ứng dụng di động như: TV di động hay thoại Video. Tuy nhiên, kinh nghiệm triển khai ở Nhật và một số nước khác cho thấy rằng, nhu cầu người dùng với thoại Video là không cao. Hiện tại, tốc độ truyền dữ liệu cao của UMTS thường dành để truy cập Internet.
+
+
+== Công nghệ ==
+
+UMTS kết hợp giao diện vô tuyến WCDMA, TD-CDMA, hay TD-SCDMA, lõi Phía ứng dụng di động của GSM (MAP), và các chuẩn mã hóa thoại của GSM.
+UMTS (W-CDMA) dùng các cặp kênh 5 MHz trong kỹ thuật truyền dẫn UTRA/FDD. Ban đầu, băng tần ấn định cho UMTS là 1885–2025 MHz với đường lên (uplink) và 2110–2200 MHz cho đường xuống (downlink). Ở Mỹ, băng tần thay thế là 1710–1755 MHz (uplink) và 2110–2155 MHz (downlink), do băng tần 1900 MHz đã dùng.
+UMTS là một mạng RAN (mạng truy nhập vô tuyến) thay vì GERAN như của GSM/EDGE. UMTS và GERAN có thể dùng chung mạng lõi CN, và cho phép chuyển mạch thông suốt giữa các RAN nếu cần. Mạng lõi CN có thể kết nối đến nhiều mạng đường trục khác nhau như của Internet và ISDN. UMTS (cũng như GERAN) gồm 3 lớp thấp nhất của mô hình truyền thông OSI. Lớp mạng (OSI 3) gồm giao thức Quản lý tài nguyên vô tuyến RRM, quản lý các kênh sóng mang (bearer channels) giữa máy di động và mạng.
+
+
+== Kiến trúc mạng UMTS ==
+
+Như hình vẽ thể hiện, Mạng UMTS bao gồm 2 phần, phần truy nhập vô tuyến (UMTS Terrestrial Radio Access Network – UTRAN) và phần mạng lõi (core). Phần truy nhập vô tuyến bao gồm Node B và RNC. Còn phần core thì có core cho data bao gồm SGSN, GGSN; Phần core cho voice thì có MCS và GMSC.
+Phần kiến trúc mạng UMTS khá dài, mời các bạn xem thêm tại:
+
+
+== Tham khảo ==

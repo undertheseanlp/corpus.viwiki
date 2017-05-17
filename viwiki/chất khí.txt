@@ -1,0 +1,20 @@
+Các chất khí là tập hợp các nguyên tử hay phân tử hay các hạt nói chung trong đó các hạt có thể tự do chuyển động trong không gian. Lực tương tác giữa các hạt rất yếu, và các hạt chủ yếu tương tác với nhau qua va chạm ngẫu nhiên, hoặc với thành chứa. Các hạt chuyển động với tốc độ và hướng ngẫu nhiên, và các vận tốc của các hạt chỉ thay đổi đáng kể thông qua các va chạm ngẫu nhiên với nhau hoặc với thành vật chứa.
+Các chất khí trong cuộc sống thường được coi là một trong bốn trạng thái vật chất quan trọng nhất. Các trạng thái kia là chất rắn, chất lỏng và plasma. Các chất thông thường thường tồn tại ở trạng thái rắn ở nhiệt độ thấp, chuyển sang trạng thái lỏng ở nhiệt độ cao hơn (thông qua hiện tượng nóng chảy), rồi sang trạng thái khí khi nhiệt độ được tiếp tục nâng lên (hiện tượng bay hơi), và cuối cùng là sang trạng thái plasma ở nhiệt độ đủ cao. Cũng có những chất có thể Bản mẫu:Chất khí và chất lỏng và chất rắnchuyển ngay từ trạng thái rắn sang trạng thái khí ở điều kiện thích hợp (hiện tượng thăng hoa).
+Mặc dù chuyển động của các hạt trong chất khí là ngẫu nhiên, vận tốc của chúng có thể được mô tả theo thống kê bằng các phân bố như phân bố Maxwell-Boltzmann, phân bố Fermi hay phân bố Bose. Các phân bố này cho thấy sự phụ thuộc của dải biến đổi của vận tốc, cũng như vận tốc trung bình, vào nhiệt độ. Nhiệt độ càng cao thì vận tốc trung bình của các hạt
+
+
+== Xem thêm ==
+Trạng thái vật chất
+Khí lý tưởng
+Thuyết động học phân tử
+
+
+== Tham khảo ==
+
+John D. Anderson. Modern Compressible Flow: Third Edition New York, NY: McGraw-Hill, 2004. ISBN 0-07-124136-1
+Philip Hill and Carl Peterson. Mechanics and Thermodynamics of Propulsion: Second Edition Addison-Wesley, 1992. ISBN 0-201-14659-2
+John D. Anderson. Fundamentals of Aerodynamics: Fourth Edition New York, NY: McGraw-Hill, 2007. ISBN 978-0-07-295046-5 ISBN 0-07-295046-3
+National Aeronautics and Space Administration (NASA). Animated Gas Lab. Truy cập February, 2008.
+Georgia State University. HyperPhysics. Truy cập February, 2008.
+Antony Lewis WordWeb. Truy cập February, 2008.
+Northwestern Michigan College The Gaseous State. Truy cập February, 2008.

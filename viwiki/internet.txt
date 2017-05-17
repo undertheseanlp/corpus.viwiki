@@ -1,0 +1,92 @@
+Internet, còn được viết là in-tơ-nét, là một hệ thống thông tin toàn cầu có thể được truy nhập công cộng gồm các mạng máy tính được liên kết với nhau. Hệ thống này truyền thông tin theo kiểu nối chuyển gói dữ liệu (packet switching) dựa trên một giao thức liên mạng đã được chuẩn hóa (giao thức IP). Hệ thống này bao gồm hàng ngàn mạng máy tính nhỏ hơn của các doanh nghiệp, của các viện nghiên cứu và các trường đại học, của người dùng cá nhân và các chính phủ trên toàn cầu.
+
+
+== Lợi ích ==
+Mạng Internet mang lại rất nhiều tiện ích hữu dụng cho người sử dụng, một trong các tiện ích phổ thông của Internet là hệ thống thư điện tử (email), trò chuyện trực tuyến (chat), công cụ tìm kiếm (search engine), các dịch vụ thương mại và chuyển ngân và các dịch vụ về y tế giáo dục như là chữa bệnh từ xa hoặc tổ chức các lớp học ảo. Chúng cung cấp một khối lượng thông tin và dịch vụ khổng lồ trên Internet.
+Nguồn thông tin khổng lồ kèm theo các dịch vụ tương ứng chính là hệ thống các trang Web liên kết với nhau và các tài liệu khác trong WWW (World Wide Web). Trái với một số cách sử dụng thường ngày, Internet và WWW không đồng nghĩa. Internet là một tập hợp các mạng máy tính kết nối với nhau bằng dây đồng, cáp quang, v.v.; còn WWW, hay Web, là một tập hợp các tài liệu liên kết với nhau bằng các siêu liên kết (hyperlink) và các địa chỉ URL và nó có thể được truy nhập bằng cách sử dụng Internet. Trong tiếng Anh, sự nhầm lẫn của đa số dân chúng về hai từ này thường được châm biếm bằng những từ như "the intarweb". Tuy nhiên việc này không có gì khó hiểu bởi vì Web là môi trường giao tiếp chính của người sử dụng trên Internet. Đặc biệt trong thập kỷ đầu của thế kỷ 21 nhờ sự phát triển của các trình duyệt web và hệ quản trị nội dung nguồn mở đã khiến cho website trở nên phổ biến hơn, thế hệ web 2.0 cũng góp phần đẩy cuộc cách mạng web lên cao trào, biến web trở thành một dạng phần mềm trực tuyến hay phần mềm như một dịch vụ.
+Cách thức thông thường để truy cập Internet là không dây, vệ tinh và qua điện thoại cầm tay, IPad, IPhone, Samsung Galaxy và một số dòng điện thoại cảm ứng khác.
+
+
+== Các trình duyệt Web phổ biến ==
+Các chương trình duyệt Web thông dụng hiện nay là:
+Internet Explorer, Microsoft Edge có sẵn trong Microsoft Windows, của Microsoft
+Mozilla Firefox của Tập đoàn Mozilla
+Google Chrome của Google
+Netscape Navigator của Netscape
+Opera của Opera Software
+Safari trong Mac OS X, macOS, iOS của Apple Computer
+Maxthon của MySoft Technology
+Avant Browser của Avant Force (Ý).
+
+
+== Lịch sử ==
+
+Tiền thân của mạng Internet ngày nay là mạng ARPANET. Cơ quan quản lý dự án nghiên cứu phát triển ARPA thuộc bộ quốc phòng Mỹ liên kết 4 địa điểm đầu tiên vào tháng 7 năm 1969 bao gồm: Viện nghiên cứu Stanford, Đại học California, Los Angeles, Đại học Utah và Đại học California, Santa Barbara. Đó chính là mạng liên khu vực (Wide Area Network - WAN) đầu tiên được xây dựng.
+Thuật ngữ "Internet" xuất hiện lần đầu vào khoảng năm 1974. Lúc đó mạng vẫn được gọi là ARPANET. Năm 1983, giao thức TCP/IP chính thức được coi như một chuẩn đối với ngành quân sự Mỹ và tất cả các máy tính nối với ARPANET phải sử dụng chuẩn mới này. Năm 1984, ARPANET được chia ra thành hai phần: phần thứ nhất vẫn được gọi là ARPANET, dành cho việc nghiên cứu và phát triển; phần thứ hai được gọi là MILNET, là mạng dùng cho các mục đích quân sự.
+Giao thức TCP/IP ngày càng thể hiện rõ các điểm mạnh của nó, quan trọng nhất là khả năng liên kết các mạng khác với nhau một cách dễ dàng. Chính điều này cùng với các chính sách mở cửa đã cho phép các mạng dùng cho nghiên cứu và thương mại kết nối được với ARPANET, thúc đẩy việc tạo ra một siêu mạng (SuperNetwork). Năm 1980, ARPANET được đánh giá là mạng trụ cột của Internet.
+Mốc lịch sử quan trọng của Internet được xác lập vào giữa thập niên 1980 khi tổ chức khoa học quốc gia Mỹ NSF thành lập mạng liên kết các trung tâm máy tính lớn với nhau gọi là NSFNET. Nhiều doanh nghiệp đã chuyển từ ARPANET sang NSFNET và do đó sau gần 20 năm hoạt động, ARPANET không còn hiệu quả đã ngừng hoạt động vào khoảng năm 1990.
+Sự hình thành mạng xương sống của NSFNET và những mạng vùng khác đã tạo ra một môi trường thuận lợi cho sự phát triển của Internet. Tới năm 1995, NSFNET thu lại thành một mạng nghiên cứu còn Internet thì vẫn tiếp tục phát triển.
+Với khả năng kết nối mở như vậy, Internet đã trở thành một mạng lớn nhất trên thế giới, mạng của các mạng, xuất hiện trong mọi lĩnh vực thương mại, chính trị, quân sự, nghiên cứu, giáo dục, văn hoá, xã hội... Cũng từ đó, các dịch vụ trên Internet không ngừng phát triển tạo ra cho nhân loại một thời kỳ mới: kỷ nguyên thương mại điện tử trên Internet.
+
+
+== Sự xuất hiện của WWW ==
+Năm 1991, Tim Berners Lee ở Trung tâm nghiên cứu nguyên tử châu Âu (Cern) phát minh ra World Wide Web (WWW) dựa theo một ý tưởng về siêu văn bản được Ted Nelson đưa ra từ năm 1985. Có thể nói đây là một cuộc cách mạng trên Internet vì người ta có thể truy cập, trao đổi thông tin một cách dễ dàng.
+Năm 1994 là năm kỉ niệm lần thứ 25 ra đời ARPANET, NIST đề nghị thống nhất dùng giao thức TCP/IP. WWW đã trở thành dịch vụ phổ biến thứ 2 sau dịch vụ FTP. Những hình ảnh video đầu tiên được truyền đi trên mạng Internet.
+
+
+== Các ISP ==
+ISP (Internet Service Provider) là nhà cung cấp dịch vụ Internet. Các ISP phải thuê đường và cổng của một IAP. Các ISP có quyền kinh doanh thông qua các hợp đồng cung cấp dịch vụ Internet cho các tổ chức và các cá nhân.
+Các loại ISP dùng riêng được quyền cung cấp đầy đủ các dịch vụ Internet. Điều khác nhau duy nhất giữa ISP và ISP riêng là không cung cấp dịch vụ Internet vào mục đích kinh doanh. Người dùng chỉ cần thoả thuận với một ISP hay ISP riêng nào đó về các dịch vụ được sử dụng và thủ tuc thanh toán được gọi là thuê bao Internet.
+
+
+=== Một số mốc thời gian ===
+
+
+==== Thời kỳ phôi thai ====
+Năm 1969 Bộ Quốc phòng Mĩ đã xây dựng dự án ARPANET để nghiên cứu lĩnh vục mạng, theo đó các máy tính được liên kết với nhau và sẽ có khả năng tự định đường truyền tin ngay sau khi một phần mạng đã được phá hủy.
+Năm 1972 trong 1 cuộc hội nghị quốc tế về truyền thông máy tính, Bob Kahn đã trình diễn mạng ARPANET liên kết 40 máy thông qua các bộ xử lý giao tiếp giữa các trạm cuối Terminal Interface Processor-TIP. Cũng năm này nhóm interNET Working Group (INWG)do Vinton Cerf làm chủ tịch ra đời nhằm đáp ứng nhu cầuthiết lập giao thức bắt tay(agreed-upon). Năm 1972 cũng là năm Ray Tomlinson đã phát minh ra E-mail để gửi thông điệp trên mạng.Từ đó đến nay, E-mail là một trong những dich vụ được dùng nhiều nhất
+Năm 1973, một số trường đại học của Anh và của Na Uy kết nối vào ARPANET. Cũng vào thời gian đó ở đại học Harvard, Bob Metcalfe đã phác họa ra ý tưởng về Ethernet(một giao thức trong mạng cục bộ).
+Tháng 9/1973 Vinto Cerf và Bob Kahn đề xuất những cơ bản của Internet.Đó chính là những nét chính của giao thức TCP/IP
+Năm 1974 BBN đã xây dựng giao thức ứng dụng Telnet cho phép sử dụng máy tính từ xa.
+Năm 1976 phòng thí nghiệm của hãng AT&T phát minh ra dịch vụ truyền tệp cho mạng FTP
+Năm 1978 Tom Truscott và Steve Bellovin thiết lập mạng USENET dành cho những người sử dụng UNIX. Mạng USENET là một trong những mạng phát triển sớm nhất và thu hút nhiều người nhất.
+Năm 1979 ARPA thành lập ban kiểm soát cấu hình Internet.
+Năm 1981 ra đời mạng CSNET(Computer Science NETwork) cung cấp các dịch vụ mạng cho các nhà khoa học ở trường đại học mà không cần truy cập vào mạng ARPANET.
+Năm 1982 các giao thức TCP và IP được DAC và ARPA dùng đối với mạng ARPANET.Sau đó TCP/IP được chọn là giao thức chuẩn.
+Năm 1983 ARPANET được tách ra thành ARPANET và MILNET.MILNET tích hợp với mạng dữ liệu quốc phòng, ARPANET trở thành 1 mạng dân sự.Hội đồng các hoạt động Internet ra đời, sau này được đổi tên thành Hội đồng kiến trúc Internet.
+
+
+=== Thời kỳ bùng nổ lần thứ nhất của Internet ===
+Năm 1986 mạng NSFnet chính thức được thiết lập, kết nối năm trung tâm máy tính.Đây cũng là năm
+có sự bùng nổ kết nối, đặc biệt là ở các trường đại học.Như vậy là NSF và ARPANET song song tồn tại theo cùng 1 giao thức, có kết nối với nhau.
+Năm 1990, với tư cách là 1 dự án ARPANET dừng hoạt động nhưng mạng do NSF và ARPANET tạo ra đã
+được sử dụng vào mục đích dân dụng, đó chính là tiền thân của mạng Internet ngày nay.Một số hãng lớn bắt đầu tồ chức kinh doanh trên mạng.
+Đến lúc này đối tượng sử dụng Internet chủ yếu là những nhà nghiên cứu và dịch vụ phổ biến nhất là E-mail va FTP.Internet là 1 phương tiện đại chúng.
+
+
+==== Thời kỳ bùng nổ lần thứ hai với sự xuất hiện của WWW ====
+Năm 1991 Tim Berners Lee ở trung tâm nghiên cứu nguyên tử châu Âu CERN phát minh ra World Wide Web (WWW) dựa theo ý tưởng về siêu văn bản được Ted Nelson đưa ra từ năm 1985. Có thể nói đây là 1 cuộc cách mạng trên Internet vì người ta có thể truy cập, trao đổi thông tin một cách dễ dàng, nhanh chóng.
+Cũng vào thời gian này NSFnet backbone được nâng cấp đạt tốc độ 44736Mbps. NSFnet truyền 1 tỉ tỉ byte/tháng và 10 tỉ gói tin/tháng.
+Năm 1994 là năm kỉ niệm lần thứ 25 ra đời ARPANET, NIST đề nghị thống nhất dùng giao thức TCP/IP.WWW trở thành dịch vụ phổ biến thứ hai sau dịch vụ FTP.Những hình ảnh video đầu tiên được truyền đi trên mạng Internet. WWW vượt trội hơn FTP và trở thành dịch vụ có số lưu thông lớn nhất căn cứ trên số lượng gói tin truyền và số byte truyền.Các hệ thống quay số trực tuyến truyền thống như CompuServe, AmericanOnline, Prodigy bắt đầu khả năng kết nối Internet.
+Tháng 10 năm 1994 Tập đoàn truyền thông Netscape cho ra đời phiên bản beta của trình duyệt Navigator 1.0 nhưng còn cồng kềnh và chạy rất chậm.
+Hai công ty trở thành đối thủ của nhau, cạnh tranh thị trường trình duyệt.Ngày 11 tháng 6 năm 1997,Netscape công bố phiên bản trình duyệt 4.0.Ngày 30 tháng 10 cũng năm đó có Microsoft cũng cho ra đời trình duyệt của mình phiên bản 4.0.
+Tháng 7 năm 1996,công ty Hotmail bắt đầu cung cấp dịch vụ Web Mail.Sau 18 tháng đã có 12 triệu người sử dụng và vì thế đã được Microsoft mua lại với giá 400 triệu USD.
+Năm 1996, triển lãm Internet World Exposition là triển lãm thế giới đầu tiên trên mạng Internet.
+
+
+==== Mạng không dây ngày càng phổ biến ====
+Năm 1985,Cơ quan quản lý viễn thông của Mĩ quyết định mở cửa một số băng tần của giải phóng không dây, cho phép người sử dụng chúng mà không cần giấy phép của chính phủ.Đây là bước mở đầu cho các mạng không dây ra đời và phát triển rất nhanh.Ban đầu các nhà cung cấp các thiết bị không dây dùng cho mạng LAN như Proxim và Symbol ở Mĩ đều phát triển các sản phẩm độc quyền, không tương thích với các sản phẩm của các công ty khác. Điều này dẫn đến sự cần thiết phải xác lập 1 chuẩn không dây chung.
+Năm 1997, một tiểu ban đã tiến hành thương lượng hợp nhất các chuẩn và đã ban hành chuẩn chính thức IEE 802.11.Sau đó là chuẩn 802.11b và chuẩn 802.11a lần lượt được phê duyệt vào các năm 1999 và năm 2000.
+Tháng 8 năm 1999 sáu công ty gồm Intersil, 3Com, Nokia, Aironet, Symbol và Lucent liên kết tạo thành liên minh tương thích Ethernet không dây VECA. Thuật ngữ WiFi ra đời, là tên gọi thống nhất để chỉ công nghệ kết nối cục bộ không dây đã được chuẩn hóa.
+
+
+== Kiểm duyệt Internet ==
+Một số quốc gia đã sử dụng nhiều biện pháp khác nhau để thực hiện công tác kiểm duyệt, lọc thông tin thông qua các nhà cung cấp dịch vụ Internet, như tại Trung Quốc, Syria, Triều Tiên, Việt Nam. 
+
+
+== Xem thêm ==
+World Wide Web
+Danh sách quốc gia theo số lượng người sử dụng Internet
+
+
+== Tham khảo ==

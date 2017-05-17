@@ -1,0 +1,35 @@
+Samsung Galaxy Note 3 là điện thoại lai máy tính bảng chạy hệ điều hành Android sản xuất bởi Samsung Electronics. Galaxy Note 3 đã được công bố trong buổi họp báo tại IFA Berlin vào 4 tháng 9 năm 2013, với bản quốc tế được phát hành vào cuối tháng. Nó đóng vai trò là người kế nhiệm của Galaxy Note II, Note 3 được thiết kế nhẹ hơn, và thiết kế cao cấp hơn dòng máy trước Galaxy Note series (với mặt sau là nhựa giả da và mép giả kim loại), và mở rộng trên bút stylus và chức năng đa nhiệm trong phần mềm của nó—bao gồm một bánh xe điều hướng mới cho ứng dụng kích hoạt bằng bút, cùng với các ứng dụng bật lên và mở rộng chức năng đa cửa sổ. Samsung bán 5 triệu đơn vị Galaxy Note 3 trong tháng đầu tiên and broke 10 million units sales in just 2 months.
+
+
+== Thông số kỹ thuật ==
+
+
+=== Phần cứng ===
+Thiết kế của Galaxy Note 3 dự định mang đến một sản phẩm cao cấp, một cái nhìn "thời thượng" so với các thiết bị Samsung khác. Mặc dù thiết kế của nó vẫn giữ chất liệu nhựa cao cấp như các thiết bị hiện tại của Samsung, Galaxy Note 3 có viền giả kim loại và mặt sau được làm bằng nhựa giả da với vân chỉ. Với độ dày 8,3 mm (0,33 in), nó mỏng và nhẹ hơn Galaxy Note II. Phiên bản LTE của Galaxy Note 3 sử dụng chip 2.3 GHz lõi-tứ Snapdragon 800, trong khi bản quốc tế GSM sử dụng 8-lõi Exynos 5420, bao gồm 4 lõi 1.9 GHz Cortex-A15 và 4 lõi 1.3 GHz Cortex-A7. Thiết bị bao gồm RAM 3 GB of, màn hình 5.7-inch 1080p Super AMOLED, máy ảnh chính 13-megapixel có thể quay phim 1080p với 60 fps và độ phân giải 4K với 30 fps (giới hạn mức 5 phút), bộ nhớ trong 32 hoặc 64 GB, và pin 3200 mAh.
+Cũng như các thiết bị khác của dòng Galaxy Note, Galaxy Note 3 đi kèm với bút S Pen stylus, đã được cập nhật sử dụng hình dạng đối xứng hơn. Galaxy Note 3 là điện thoại thông minh đầu tiên hỗ trợ USB 3.0, cho phép chuyển đổi dữ liệu nhanh và sạc khi kết nối với cổng tương thích.
+Galaxy Note 3 có sẵn với màu đen, trắng, và hồng. Vào tháng 12 năm 2013, Samsung giới thiệu ba màu mới cho một số thị trường; đen với viền vàng, trắng với viền vàng, và đỏ với viền bạc.
+
+
+=== Phần mềm ===
+Galaxy Note 3 ra mắt cùng với Android 4.3 "Jelly Bean" và giao diện người dùng tùy biến của Samsung TouchWiz. Thêm một số tính năng mới cho bút của Note 3; khi rút bút ra khỏi máy (hoặc nhấn nút trên thân bút khi đang lướt trên màn hình) sẽ kích hoạt trình đơn dạng bánh "Air Command" cung cấp các phím tắt cho bút định hướng đến như Action Memos (ghi chú dán trên màn hình sử dụng nhận diện chữ viết để phát hiện nội dung của họ và cung cấp các hoạt động có liên quan, như tìm kiếm địa chỉ trên Google Maps hoặc quay số điện thoại), Screen Write (mở rộng chú thích), Pen Window (cho phép người dùng vẽ một cửa sổ bật lên để chạy một ứng dụng nhất định bên trong đó), công cụ tìm kiếm S Finder, và Scrapbook. Chức năng đa cửa sổ cũng được cập nhật với mở rộng hỗ trợ ứng dụng, khả năng chạy nhiều trường hợp trong một ứng dụng, và khả năng kéo thả nội dung giữa các ứng dụng. Thiết bị cũng đi kèm với ứng dụng tin tức tổng hợp được biết đến My Magazine, truy cập bằng cách vuốt đến trang dưới cùng của màn hình, và cập nhật cho S Note.
+Vào 13 tháng 1 năm 2014, bản cập nhật Android 4.4 "KitKat" có sẵn thông qua Samsung Kies ở Ba Lan cho bản LTE. Bản cập nhật thêm vào giao diện người dùng một phím tắt máy ảnh ở góc màn hình khóa, tùy chọn cho cài đặt mặt định launcher và ứng dụng tin nhắn, hỗ trợ in, và một trình đơn cài đặt vị trí mới theo dõi và kiểm soát việc sử dụng theo dõi vị trí của ứng dụng. 4.4 cũng thay đổi đáng kể đến việc lưu trữ thứ cấp trên thiết bị vì lý do bảo mật; úng dụng truy cập trên thẻ SD bị hạn chế, chỉ có thư mục ứng dụng củ thể, trong khi truy cập vào các lưu trữ nội bộ chính vẫn được cho phép. Mặc dù điều này đã tồn tại từ Android 3.0 "Honeycomb", OEMs như Samsung trước đó đã sửa lại các bản phân phối của Android để giữ lại điều đó, cho phép ứng dụng có thể truy cập không giới hạn vào nội dung thẻ SD.
+
+
+== Phát hành ==
+Samsung đã giới thiệu Galaxy Note 3 với công bố tại sự kiện Samsung Unpacked vào 4 tháng 9 năm 2013 tại IFA Berlin, với khẩu hiệu "Note the date." Bản Galaxy Note 3 quốc tế được phát hành vào 25 tháng 9 năm 2013 trên hơn 140 quốc gia, trong khi Mỹ và Nhật Bản phát hành vào tháng 10 năm 2013. Tất cả Galaxy Note 3 sẽ bao gồm một năm đăng ký Evernote Premium miễn phí.
+Phiên bản châu Mỹ và châu Âu của Galaxy Note 3 thực hiện khóa hệ thống tại một số vùng; yêu cầu SIM sử dụng trên bản châu Âu và Bắc Mỹ phải từ nhà mạng của vùng đó. Trong khi đó phát ngôn viên của Samsung tuyên bố các khóa sẽ được loại bỏ sau khi SIM hợp lệ được sử dụng. Mặc dù lập trình viên XDA Developers đã phát triển công cụ xóa nhà mạng mà hệ thống sử dụng, nó đòi hỏi điện thoại đã được root. Một phát ngôn viên tuyên bố rằng hệ thống chủ yếu ngăn chặn hành vi "chợ đen" mua đi bán lại, mặc dù một số nhà phê bình nghi ngờ rằng nhà mạng đã có thể yêu cầu Samsung để thực hiện tính năng ràng buộc này lên người dùng trong khi họ đang du lịch bằng cách ngăn chặn họ dùng SIM địa phương. Samsung chỉ thực hiện chính sách tương tự trên Galaxy S III, Note II, S4, và S4 Mini sản xuất sau tháng 7 năm 2013.
+
+
+== Đón nhận ==
+
+
+=== Trước phát hành ===
+Sau khi nó được tiết lộ, The Verge khen ngợi sự cải tiến phần cứng và phần mềm của Galaxy Note 3. Thiết kế tổng thể của nó được cho là "gắn kết" mặc dù vẫn tiếp tục sử dụng nhựa, và những thay đổi trong thiết kế bút stylus cũng được ghi nhận. Tuy nhiên, ứng dụng My Magazine đã bị phê bình như một quảng cáo. TechRadar cho rằng Galaxy Note 3 là một sự cải tiến so với người tiền nhiệm (bao gồm phần cứng nhanh hơn và màn hình lớn hơn), nhưng chỉ trích thiết kế của nó chưa như mong muốn "khéo léo và cao cấp" trong cuộc sống như đã quảng cáo.
+
+
+== Xem thêm ==
+Samsung Galaxy S series
+Samsung Galaxy Note series
+
+
+== Tham khảo ==

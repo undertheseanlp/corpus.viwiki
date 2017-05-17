@@ -1,0 +1,86 @@
+Canonical Ltd. là một công ty tư nhân được thành lập và được tài trợ bởi doanh nhân người Nam Phi Mark Shuttleworth để hỗ trợ thương mại và dịch vụ cho Ubuntu Linux và các dự án liên quan. Canonical có nhân viên tại hơn 30 quốc gia và duy trì các văn phòng ở London, Boston, Đài Bắc, Montreal, Thượng Hải, São Paulo và Đảo Man.
+
+
+== Các dự án ==
+Canonical Ltd. đã tạo ra và duy trì một số dự án. Chủ yếu là các phần mềm tự do/mã nguồn mở (FOSS) hoặc công cụ được thiết kế để cải thiện sự hợp tác giữa các nhà phát triển phần mềm tự do và những người đóng góp.
+
+
+=== Phần mềm mã nguồn mở ===
+Gia đình Ubuntu của các bản phân phối Linux:
+Ubuntu, bản phân phối Linux dựa trên Debian với desktop Unity (trước đây là GNOME)
+Kubuntu, Hệ thống lõi Ubuntu với desktop KDE Plasma thay cho Unity
+Xubuntu, Hệ thống lõi Ubuntu với desktopnhẹ nhàng Xfce thay cho Unity
+Lubuntu, Hệ thống lõi Ubuntu với desktop LXDE thay cho Unity
+Edubuntu, Hệ thống lõi Ubuntu được cải thiện đặc biệt cho các môi trường giáo dục hoặc hệ thống yếu
+Gobuntu (đã ngừng phát triển), một biến thể đơn giản của Ubuntu bao gồm hoàn toàn phần mềm tự do
+Ubuntu JeOS, một biến thể hiệu quả của Ubuntu cấu hình đặc biệt cho các thiết bị gia dụng ảo
+
+Bazaar, sửa đổi phân cấp hệ thống điều khiển
+Storm, một quan hệ đối tượng ánh xạ cho Python, part of the Launchpad codebase
+Upstart, một thay thế dựa trên sự kiện cho các daemon init
+Quickly
+Ubuntu Software Center
+
+
+=== Các dự án và dịch vụ khác ===
+
+Landscape, một trang web độc quyền phục vụ cho quản lý tập trung của các hệ thống Ubuntu.
+Launchpad một trang web tập trung có chứa các ứng dụng một số thành phần web được thiết kế để làm cho sự hợp tác giữa các dự án phần mềm tự do dễ dàng hơn:
+Rosetta, một công cụ dịch thuật trực tuyến để giúp bản địa hóa phần mềm (cf. the Rosetta Stone)
+Malone (như trong "Bugsy Malone"), một hợp tác lỗi tracker cho phép liên kết với các trackers lỗi khác
+Soyuz, amột công cụ để tạo ra các tùy chỉnh, phân phối, chẳng hạn như Kubuntu và Xubuntu.
+Code, lưu trữ các phân nhánh của Bazaar
+Answers, hỗ trợ theo dõi
+Blueprints, một công cụ cho kế hoạch các tính năng của phần mềm
+PPA, gói lưu trữ cá nhân
+
+Ubuntu One, một dịch vụ cho đồng bộ hóa tập tin và các ứng dụng khác
+Canonical ung cấp một số kỹ thuật cốt lõi để Linaro đầu tư vào các dự án thượng nguồn.
+
+
+== Kế hoạch kinh doanh ==
+Trong một cuộc phỏng vấn với Guardian trong tháng 5/ 2008, Mark Shuttleworth cho biết rằng mô hình kinh doanh và dịch vụ cung cấp được cung cấp bởi Canonical và giải thích rằng Canonical vẫn chưa có lợi nhuận. Canonical cũng tuyên bố nó sẽ chờ đợi cho các doanh nghiệp để có lợi nhuận trong vòng một 3-5 năm. Ông coi Canonical là định vị bản thân như nhu cầu cho các dịch vụ liên quan đến phần mềm miễn phí tăng. Chiến lược này đã được so sánh với chiến lược kinh doanh của Red Hat trong những năm 1990. Tuy nhiên, trong một bài viết trên New York Times vào đầu năm 2009, Shuttleworth cho biết rằng doanh thu của Canonical đã "leo" tới 30 triệu USD, công ty có điểm lãi.
+Trong năm 2007, Canonical tung ra một cửa hàng trực tuyến quốc tế bán các dịch vụ hỗ trợ và các hàng hóa mang nhãn hiệu Ubuntu; Sau này trong năm 2008 nó mở rộng với một cửa hàng cụ thể tại Hoa Kỳ được thiết kế để giảm thời gian lô hàng. Vào cùng thời gian này, Ubuntu thế giới đã được đăng ký nhãn hiệu trong kết nối.với quần áo và phụ kiện.
+
+
+== Các công ty con ==
+Canonical Group Ltd có trụ sở tại City of Westminster.
+Canonical USA Inc. có trụ sở ở Lexington, Massachusetts.
+Canonical China Ltd (tiếng Trung: 科能软件股份有限公司) trụ sở tại Thượng Hải.
+Canonical Brasil Ltda trụ sở ở São Paulo.
+Canonical Canada Ltd trụ sở ở Montréal.
+Canonical Ltd Taiwan Br. (tiếng Trung: 英屬曼島商肯諾有限公司臺灣分公司) trụ sở ở Taipei.
+
+
+== Nhân viên ==
+
+Canonical có hơn 500 nhân viên  với văn phòng chính ở tầng thứ 27 của Millbank Tower gần Westminster, London. Vào mùa hè năm 2006, Canonical đã mở một văn phòng ở Montreal đến nhà hoạt động toàn cầu hỗ trợ và dịch vụ của mình. Taipei 101 cũng là nơi có một văn phòng của Canonical. Ngoài ra còn có một đội ngũ OEM ở Lexington, Massachusetts.
+
+
+=== Hiện nay ===
+Nhân viên đáng chú ý hiện nay của Canonical bao gồm:
+Mark Shuttleworth, người sáng lập của dự án Ubuntu, thành viên duy trì Debian của Apache và sáng lập của Thawte Consulting (2004–). CEO từ tháng 3/2010.
+Jane Silber, CEO từ tháng 3 năm 2010; nguyên COO và lãnh đạo của dự án Ubuntu One
+Jono Bacon, của LugRadio fame, là lãnh đạo cộng đồng Ubuntu (2006–)
+Stuart Langridge, còn là của LugRadio fame (2009–)
+John D. Bernard, chịu trách nhiệm cho tất cả các khai thác thị trường chính (2009–)
+
+
+=== Trước đây ===
+Nhân viên trước đây đáng chú ý:
+Ben Collins, cựu lãnh đạo dự án Debian và là nhà phát triển kernel(2006–2009)
+Dave Miller, nổi tiếng với Bugzilla, nhân viên số 1 (2004)
+Jeff Waugh, nhân viên số 3, nhà phát triển GNOME và Planet aggregator, phát triển kinh doanh (2004–2006)
+Benjamin Mako Hill, nhà phát triển cốt lõi và cộng đồng điều phối viên (2004–2005)
+Ian Jackson, nhà phát triển của dpkg và là cựu lãnh đạo dự án Debian (2005–2007)
+Lars Wirzenius, đóng góp đầu tiên cho Linux kernel và là đồng nghiệp cũ của Linus Torvalds (2007–2009)
+Scott James Remnant, trước đây là một nhà bảo trì Debian và GNU maintainer của GNU Libtool và đồng tác giả của các tập hợp dữ liệu Planet. Tại Canonical, ông phát triển Upstart (2004–2011).
+Matt Zimmerman, trước đây là thành viên của nhóm bảo mật Debian. Làm việc tại Canonical như Giám đốc kỹ thuật Ubuntu (2004–2011).
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+
+Website chính thức

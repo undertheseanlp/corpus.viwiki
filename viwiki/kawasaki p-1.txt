@@ -1,0 +1,59 @@
+Kawasaki XP-1 (tên cũ P-X) là một loại máy bay quân sự của Nhật Bản, hiện vẫn đang được phát triển, nó sẽ được dùng để thay thế cho loại máy bay tuần tra biển P-3C của Lực lượng phòng vệ trên biển Nhật Bản.
+
+
+== Tính năng kỹ chiến thuật (XP-1) ==
+Dữ liệu lấy từ flightglobal.com
+Đặc điểm tổng quát
+Kíp lái: Tổ bay: 2 Sĩ quan vận hành: 11
+Chiều dài: 38 m (124 ft 8 in)
+Sải cánh: 35,4 m (114 ft 8 in)
+Chiều cao: 12,1 m (39 ft 4 in)
+Trọng lượng cất cánh tối đa: 79.700 kg (176.000 lb)
+Động cơ: 4 × IHI Corporation XF7-10 kiểu turbofan, 13.500 lbs (60 kN) mỗi chiếc
+Hiệu suất bay
+Vận tốc cực đại: 996 km/h (538 knot, 619 mph)
+Vận tốc hành trình: 833 km/h (450 knot, 516 mph)
+Tầm bay: 8.000 km (4.320 nm, 4,970 mi)
+Trần bay: 44.200 ft (13.520 m)
+Trang bị vũ khí
+Bom: 20.000+ lb (9.000+ kg)
+Tên lửa: AGM-84 Harpoon, ASM-1C, AGM-65 Maverick
+Sonobuoy: 30+ Pre-loaded, 70+ Deployable from inside
+Khác: Ngư lôi MK-46 và Type 97 và (G-RX5), mìn, bom chìm
+Hệ thống điện tử
+Radar: Toshiba, hệ thống radar quét mảng pha điện tử chủ động
+Sonar: NEC, hệ thống dẫn đường âm thanh
+Hệ thống chồng tàu ngầm:SHINKO ELECTRIC CO.LTD., hệ thống định hướng chiến đấu tiên tiến
+Khác: Mitsubishi, đối kháng điện tử (CMD, RWR, MWS, ESM)
+
+
+== Xem thêm ==
+Máy bay có sự phát triển liên quan
+Kawasaki C-2
+Kawasaki YPX
+Máy bay có tính năng tương đương
+BAE Systems Nimrod MRA4
+Boeing P-8 Poseidon
+Lockheed P-3 Orion
+Bombardier Aerospace DHC-8-MPA-D8
+Breguet Atlantique
+EADS CASA C-295 MPA
+Ilyushin Il-38
+Danh sách khác
+Danh sách máy bay của Nhật Bản
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Technical Research and Development Institute, Ministry of Defense (Japanese)
+TRDI News(Japanese)
+Reference of TRDI Defense Technology Symposium 2007(P-1&F7-10's data is S2&G7)
+Policy assessments database at H19(P-1's data is No1)
+Policy assessments database at H13(P-1's data is No15)
+Kawasaki Sky-High Expectations for Japan’s P-X and C-X Aircraft, Kawasaki Heavy Industries Scope Quarterly Newsletter No.73 October 2007
+Asagumo graph(Japanese)
+KHI (Kawasaki) P-X Project in CASR
+Pictures of Kawasaki XP-1
+Youtube video of first Kawasaki XP-1 flight

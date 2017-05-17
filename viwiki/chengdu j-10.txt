@@ -1,0 +1,114 @@
+Tiêm 10 (Trung văn giản thể: 歼-10) là một máy bay tiêm kích đa nhiệm vụ được hợp tác thiết kế cùng Công nghiệp Hàng không Israel và do Tập đoàn công nghiệp hàng không Thành Đô (tên tiếng Hán: 成都飛機公司; tên tiếng Anh:Chengdu Aircraft Industry Corporation, CAC) thuộc Cộng hoà Nhân dân Trung Hoa sản xuất cung cấp cho Không quân Quân Giải phóng Nhân dân. Được thiết kế vừa là máy bay tiêm kích vừa là máy bay ném bom hạng nhẹ, J-10 sử dụng được cho các phi vụ ở mọi thời tiết, đêm và ngày. Cộng hòa Nhân dân Trung Hoa dự tính có thể xuất khẩu loại máy bay này như một mẫu thay thế cho các nước sử dụng F-16 nhưng chỉ tốn có nửa giá. Tuy nhiên kế hoạch này không được thành công lắm vì có quá nhiều máy bay F-16 cũ đã qua sử dụng được bán với giá thấp hơn J-10 trên thị trường.
+
+
+== Lịch sử ==
+Chương trình sản xuất được thai nghén từ đầu thập kỷ 1980, để đối trọng với các máy bay tiêm kích thế hệ thứ tư mới đang được Liên bang Xô viết đưa ra ở thời điểm ấy (là loại MiG-29 và Su-27). Ban đầu được thiết kế với vai trò trọng yếu là chống máy bay chiến đấu, sau này nó được sửa đổi thành máy bay đa năng có thể đảm đương cả hai nhiệm vụ không chiến (tiêm kích) và tấn công mặt đất (cường kích). Từng có dư luận cho rằng loại J-10 dựa trên nguyên mẫu hiện đã bị huỷ bỏ của Israel là loại Lavi.
+Được bảo mật thiết kế rất chặt chẽ, nhiều chi tiết của chiếc J-10 hiện vẫn chưa được tiết lộ và chúng là mục tiêu của rất nhiều lời đồn đại. Giáo sư David L. Shambaugh đã thông báo rằng chiếc J-10 được phát triển dựa trên một chiếc F-16A/B duy nhất có được từ Pakistan vào đầu thập kỷ 1990. Chuyến bay đầu tiên của chiếc J-10 diễn ra năm 1996, nhưng chương trình này đã bị hoãn lại một thời gian khá dài vì một vụ tai nạn nghiêm trọng năm 1997. Vụ tai nạn này được cho là do lỗi hệ thống fly-by-wire. (Ghi chú, có bằng chứng, dù chưa được xác nhận, rằng chỉ một mẫu sản xuất từng cất cánh; những chiếc khác chỉ được dùng cho thử nghiệm trên mặt đất. Vì thế, không hề có vụ rơi máy bay nào xảy ra.) Một mẫu đã cất cánh năm 1998, tái khởi động việc thử nghiệm bay của nó. J-10 được đưa vào sử dụng trong Không quân Quân đội Giải phóng Nhân dân năm 2004.
+Jane's Defence Weekly ngày 9 tháng 1 năm 2006 từng thông báo rằng một phiên bản hiện đại hơn của loại J-10 đang được đặt kế hoạch triển khai, "tên hiệu Super-10, với một động cơ khoẻ hơn, hệ thống Kiểm soát hướng phụt, khung khoẻ hơn và radar mạng phase chủ động.
+Cho tới giờ loại J-10 chỉ được xuất khẩu cho Pakistan dưới tên hiệu FC-20. Tổng thống Pakistan, Tướng Pervez Musharraf, từng tiết lộ về cơ sở sản xuất bí mật loại J-10 & JF-17 vào cuối tháng 2 năm 2006. Ông cũng ngồi trên buồng lái của cả hai loại máy bay này. Trên đường về ông đã nói với báo chí rằng ông đã thăm cơ sở sản xuất J-10 và rằng người Trung Quốc đã đề nghị bán loại máy bay này cho Pakistan. Sau này ông đã nói rằng Pakistan và lực lượng không quân của họ chắc chắn sẽ cân nhắc điều này. Ngày 12 tháng 4, 2006 nội các Pakistan đã thông qua việc đặt mua ít nhất 36 chiếc J-10 dưới tên hiệu FC-20. Trong một cuộc phỏng vấn gần đây, Thống chế lực lượng Không quân Tanvir Mahmood Ahmad đã nói rằng nhiều chiếc FC-20 nữa cũng sẽ được đặt mua. Pakistan là nước nhập khẩu lớn nhất các loại vũ khí quân sự từ Trung Quốc. Lực lượng không quân nước này hiện sử dụng hơn 180 máy bay F-7 do Trung Quốc sản xuất. Hơn nữa, Pakistan là thành viên sở hữu 50% cổ phần trong các dự án sản xuất hai loại máy bay phản lực huấn luyện FC-1/JF-17 Thunder và K-8 Karakorum.
+
+
+== Thiết kế ==
+J-10 là loại máy bay một chỗ ngồi, cánh tam giác được trang bị một động cơ AL-31FN cánh quạt phản lực (công xuất tĩnh tối đa 12.500 kgf (123 kN, 27.600 lbf)) do Nga thiết kế. Khung máy bay có cánh đuôi đứng lớn và các cánh mũi (canard) ở gần vị trí buồng lái. Cửa hút khí hình chữ nhật, nằm bên dưới thân. Có lẽ có sử dụng vật liệu composite và một số loại kim loại thông thường trong chế tạo. Tính năng được cho là tương đương lớp sau loại F-16, dù khả năng thao diễn có thể ưu việt hơn (có thể ở mức một số loại máy bay chiến đấu thế hệ thứ năm lớp đầu của phương Tây. Vòm kính buồng lái kiểu bong bóng nổi cho phép phi công có tầm quan sát tối đa 360 độ.
+Tháng 11 năm 2005 đã có thông báo rằng những chiếc động cơ AL-31FN kiểm soát hướng phụt đầu tiên đã được chuyển từ Nga tới để lắp cho những chiếc J-10. Chuyến hàng thứ hai được cho là sẽ tới nơi vào cuối năm đó, và số còn lại được giao vào giữa năm 2006. ngày 9 tháng 1 năm 2006, có tin cho rằng những động cơ mới đó trên thực tế được đánh ký hiệu AL-31FN M1, và sẽ được sử dụng trên một phiên bản J-10 mới và hiện đại hơn là "Super-10". Không cần biết cuối cùng chúng sẽ được sử dụng ra sao nhưng những động cơ kiểm soát hướng phụt sẽ làm tăng đáng kể tính năng thao diễn của loại J-10.
+Trung Quốc đã đạt được những tiến bộ trong việc phát triển loại động cơ cánh quạt phản lực WS-10A 'Taihang' của riêng họ. Hiện đã có những kế hoạch sản xuất các biến thể tương lai loại J-10 và J-11 lắp động cơ WS-10A một bản sao chép động cơ AL-31F của Nga. Tuy nhiên việc không thể giảm thiểu trục trặc của loại động cơ WS-10 này nên loại máy bay này vẫn phải lắp động cơ AL31FN-S3 của Nga. Cho đến khi vấn đề được giải quyết, việc phát triển J-10B không thể được hoàn thành vì loại máy bay này vốn được thiết kế nâng cấp chỉ để thích hợp cho việc lắp động cơ nội địa.
+
+
+== Điện tử ==
+Một hệ thống fly-by-wire số bốn kênh tính hiệu giúp phi công điều khiển máy bay. Thông tin sẽ được cung cấp cho phi công thông qua ba màn hình tinh thể lỏng Hiển thị Đa chức năng trong buồng lái. Thanh điểu khiển kiểu phương tây HOTAS (Hands On Throttle And Stick) cũng được tích hợp trong thiết kế chiếc J-10.
+Kiểu radar lắp đặt trên chiếc J-10 hiện vẫn chưa được công bố: những loại có thể được sử dụng là RP-35 của Nga, EL/M-2035 của Israel, Grifo 2000 của Italia và loại JL-10A tự sản xuất trong nước. (ghi chú, có lẽ phiên bản sản xuất được lắp đặt loại radar kiểm soát bắn 147x của NRIET) Một hệ thống ECM (đối phó điện tử) có lẽ cũng được tích hợp, gồm cả các thiết bị làm nhiễu.
+Ghi chú: Năm 2005, radar kiểm soát bắn JL-10A đã được lắp đặt cho loại JH-7A (JH-7, đợt đánh giá, sử dụng Type 232H FCR). Một số bằng chứng cho thấy Type 1421 phát triển từ loại trên lắp đặt cho những chiếc J-8 đã từng được lựa chọn. Nó có thể là KLJ-3 FCR.
+
+
+== Các biến thể ==
+J-10: Kiểu đa nhiệm vụ, một ghế ngồi tuần tra.
+J-10S: Phiên bản hai ghế ngồi, dùng trong huấn luyện và có thể cả tấn công mặt đất.
+J-10B: Phiên bản một ghế ngồi cải tiến, đặc biệt với khe hút gió kiểu DSI, trang bị thêm đầu dò EOTS/IRST. Theo các chuyên gia, những cải tiến được thực hiện trên J-10B lại vô hình trung biến nó thành một máy bay nhào lộn chứ không phải là một chiến cơ thực thụ như thiết kế trưởng Zhang vẫn tự hào. Trong biến thể J-10B, nhà sản xuất đã loại bỏ cửa hút khí kiểu cũ để thay thế bằng kiểu cửa hút khí khuếch tán siêu âm. Kiểu thiết kế này giúp cho máy bay có khả năng thao diễn tốt với tốc độ cao, song lại khiến J-10B kém ổn định và yêu cầu cần phải có phần mềm điều khiển bay phức tạp.
+Các biến thể khác: Một biến thể có thể là phiên bản đặc biệt dành cho hải quân trên hàng không mẫu hạm và kiểu "tàng hình" hai động cơ.
+
+
+== Vũ khí ==
+Hai cánh có 11 mấu cứng có thể mang tới 4.500 kg (9.900 lb) vũ khí, thùng nhiên liệu, và thiết bị ECM. Thiết bị bên trong gồm một pháo 23mm, nằm trong thân. Vũ khí mang ngoài có thể là: tên lửa không đối không hồng ngoại tầm ngắn (PL-8 của Trung Quốc, hay R-73 của Nga), tên lửa tầm trung dẫn đường bằng radar (PL-11 và PL-12 của Trung Quốc, hay R-77 của nga), bom dẫn đường hay không dẫn đường laser, tên lửa chống tàu (YJ-9K Trung Quốc), và các tên lửa chống bức xạ (YJ-9).
+
+
+== Tai nạn ==
+Hiện có 4 vụ tai nạn được biết đến của loại máy bay này vì Cộng hòa nhân dân Trung Hoa không muốn gây chú ý cho các nước mà Trung Quốc muốn chào bán loại máy bay này vì nó sẽ ảnh hưởng dến doanh số xuất khẩu tiềm năng. Nguồn tin đưa tin về tai nạn gần nhất nói là 200 chiếc J-10 được chế tạo có khả năng hoạt động không được như dự kiến thiết kế. Và con số bị rơi thật sự bị tin là nhiều hơn số được công bố..
+
+
+== Xuất khẩu ==
+Trung Quốc muốn thúc đẩy bán J-10 ra thị trường quốc tế, Pakistan-Trung Quốc đã ký kết thỏa thuận sơ bộ mua loại máy bay chiến đấu mới này vào năm 2009, tổng giá trị của hợp đồng cuối cùng dự kiến là 1,4 tỷ USD. Nhưng do lý do kinh tế khiến cho Pakistan có thể không mua 36 máy bay chiến đấu đa năng J-10B của Trung Quốc theo kế hoạch.
+
+
+== Đặc điểm kỹ thuật (Chengdu J-10A) ==
+
+
+=== Đặc điểm riêng ===
+Tổ lái: 1
+Dài: 15,49 m (50,82 ft)
+Sải cánh: 9,75 m (31,99 ft)
+Chiều cao: 5,43 m (17,81 ft)
+Diện tích cánh: 33,1 m² (356,3 ft²)
+Trọng lượng rỗng: 9.750 kg (21.495 lb)
+Trọng lượng tải: 12.400 kg (28.600 lb)
+Trọng tải vũ khí: 6.000 kg (13.200 lb)
+Trọng lượng cất cánh tối đa: 19.277 kg (42.500 lb)
+Động cơ: 1 × Saturn-Lyulka AL-31FN hay WS-10A
+Công suất đốt khô: 79,43 kN/89,17 kN (17.860 lbf/19.000 lbf)
+Công suất sau lần đốt nhiên liệu thứ hai: 125 kN/130 kN (27.999 lbf/29.000 lbf)
+
+
+=== Hiệu suất bay ===
+Vận tốc tối đa: Mach 2.2 khi bay cao và Mach 1.2 khi bay biển
+Bán kính chiến đấu: 1.600 km (khi được tiếp nhiên liệu trên không), 550 km (khi không được tiếp nhiên liệu trên không)
+Tầm bay tuần tra: 1.850 km
+Trần bay: 18.000 m (59.055 ft)
+Lực nâng của cánh: 381 kg/m² (78 lb/ft²)
+Lực đẩy/trọng lượng: 1,024 (AL-31); 1,085 (WS-10A)
+
+
+=== Vũ trang ===
+Pháo: 1×pháo 23mm Type 23 2 nòng
+Giá treo vũ khí: 11 (3× dưới mỗi cánh, 5× dưới thân máy bay). Mang được 6000 kg vũ khí
+Rốc két: Rocket 90 mm
+Tên lửa:
+Tên lửa không đối không:PL-8, PL-9, PL-11, PL-12
+Tên lửa không đối đất: PJ-9, YJ-9K, YJ-91
+Bom: Bom dẫn đường LT-2 và LS-6
+Có thể mang 3 thùng nhiên liệu phụ
+
+
+=== Hệ thống điện tử ===
+Ra đa mảng pha
+Ra đa điều khiển hỏa lực NRIET KLJ-10
+Thiết bị tìm kiếm mục tiêu bằng hồng ngoại Type Hongguang-I
+Hệ thống phòng vệ BM/KG300G
+Thiết bị điện tử trinh sát KZ900
+Thiết bị chuyển hướng tấn công Blue Sky
+Thiết bị hướng dẫn tấn công bằng laser và hồng ngoại FILAT (Forward-looking Infra-red Laser Attack Targeting)
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+
+
+== Chủ đề liên quan ==
+Máy bay có hình dạng tương đương:
+Dassault Rafale
+Eurofighter Typhoon
+IAI Lavi
+Saab JAS-39 Gripen
+HAL Tejas
+Máy bay có tính năng tương đương:
+Dassault Mirage 2000
+F-16 Fighting Falcon
+F/A-18F Super Hornet
+MiG-29 Fulcrum
+Mitsubishi F-2

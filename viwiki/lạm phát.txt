@@ -1,0 +1,290 @@
+Trong kinh tế vĩ mô (macroeconomics), lạm phát là sự tăng mức giá chung của hàng hóa và dịch vụ theo thời gian. và sự mất giá trị của một loại tiền tệ. Khi so sánh với các nước khác thì lạm phát là sự giảm giá trị tiền tệ của một quốc gia này so với các loại tiền tệ của quốc gia khác. Theo nghĩa đầu tiên thì người ta hiểu lạm phát của một loại tiền tệ tác động đến phạm vi nền kinh tế một quốc gia, còn theo nghĩa thứ hai thì người ta hiểu lạm phát của một loại tiền tệ tác động đến phạm vi nền kinh tế sử dụng loại tiền tệ đó. Phạm vi ảnh hưởng của hai thành phần này vẫn là một vấn đề gây tranh cãi giữa các nhà kinh tế học vĩ mô. Ngược lại với lạm phát là giảm phát. Một chỉ số lạm phát bằng 0 hay một chỉ số dương nhỏ thì được người ta gọi là sự "ổn định giá cả".
+
+
+== Lịch sử ==
+
+Các gia tăng số lượng tiền hoặc trong cung tiền tổng thể (hoặc giảm giá tiền của các phương tiện trao đổi) đã xảy ra ở nhiều xã hội khác nhau trong suốt lịch sử, bằng sự thay đổi với các hình thức khác nhau của tiền được sử dụng. Ví dụ, khi vàng được sử dụng như tiền tệ, chính phủ có thể thu thập tiền vàng, làm tan chảy chúng ra, trộn chúng với các kim loại khác như bạc, đồng, chì, và phát hành lại chúng ở cùng một giá trị danh nghĩa. Bằng cách pha loãng vàng với kim loại khác, chính phủ có thể phát hành thêm tiền xu mà không cần phải tăng số lượng vàng được sử dụng để làm ra chúng. Khi chi phí của mỗi đồng xu vàng được hạ xuống theo cách này, lợi nhuận của chính phủ là từ sự gia tăng trong quyền lực lãnh chúa. Thực hành này sẽ làm tăng cung tiền nhưng đồng thời giá trị tương đối của mỗi đồng xu vàng sẽ bị hạ xuống. Vì giá trị tương đối của các đồng tiền trở nên thấp hơn, người tiêu dùng sẽ cần phải cung cấp thêm tiền để đổi lấy hàng hóa và dịch vụ tương tự như trước đây. Những hàng hóa và dịch vụ sẽ trải nghiệm một sự gia tăng giá cả vì giá trị của mỗi đồng tiền bị giảm đi.
+Nhà Tống Trung Quốc giới thiệu việc thực hành in tiền giấy để tạo ra sắc lệnh tiền tệ trong thế kỷ 11 và, theo Daniel Headrick, "tiền giấy cho phép các chính phủ chi tiêu nhiều hơn so với họ nhận được trong các loại thuế... trong thời kỳ chiến tranh, và nhà Tống đã thường xuyên có chiến tranh, thâm hụt chi tiêu như vậy đã gây ra lạm phát phi mã." Vấn đề lạm phát tiền giấy vẫn tiếp tục sau triều đại nhà Tống. Peter Bernholz viết rằng "từ đó, hầu hết các triều đại Trung Quốc đến nhà Minh đều bắt đầu bằng cách phát hành một số tiền giấy ổn định, có thể chuyển đổi và kết thúc với lạm phát rõ rệt do lưu thông ngày càng tăng số lượng tiền giấy để tài trợ cho thâm hụt ngân sách."
+Dưới triều đại nhà Nguyên Mông Cổ, chính phủ đã chi rất nhiều tiền chống lại các cuộc chiến tranh tốn kém, và đã phản ứng bằng cách in nhiều tiền hơn, dẫn đến lạm phát. Vấn đề lạm phát trở nên nghiêm trọng nên người dân đã ngừng sử dụng tiền giấy, thứ tiền mà họ coi như "giấy vô giá trị." Lo sợ sự lạm phát mà đã cản trở triều đại nhà Nguyên, nhà Minh ban đầu đã từ chối việc sử dụng tiền giấy, chỉ sử dụng đồng tiền xu. Triều đại này đã không phát hành tiền giấy cho đến 1375.
+Trong lịch sử, lan truyền vàng hoặc bạc vào một nền kinh tế cũng dẫn đến lạm phát. Từ nửa sau của thế kỷ 15 đến nửa đầu thế kỷ 17, Tây Âu đã trải qua một chu kỳ lạm phát lớn được gọi là "cách mạng giá cả", với giá cả trung bình tăng gấp sáu lần, có lẽ, sau hơn 150 năm. Điều này phần lớn do các dòng đột ngột của vàng và bạc từ Tân thế giới chảy vào Habsburg Tây Ban Nha. Bạc lan rộng trong suốt một Châu Âu đói tiền mặt trước đây và gây ra lạm phát trên diện rộng. Các yếu tố nhân khẩu học cũng góp phần tăng áp lực lên giá cả, với mức tăng trưởng dân số châu Âu sau suy giảm dân số do đại dịch Cái chết đen.
+Đến thế kỷ XIX, các nhà kinh tế phân loại ba yếu tố riêng biệt mà gây ra một tăng hoặc giảm giá cả hàng hóa: một sự thay đổi trong giá trị hoặc chi phí sản xuất hàng hóa, một sự thay đổi trong giá tiền mà sau đó là thường biến động trong giá hàng hóa của nội dung kim loại trong tiền tệ, và sự mất giá đồng tiền từ một cung tiền gia tăng liên quan đến số lượng của hỗ trợ cho tiền tệ này bằng kim loại có thể chuộc lại. Theo sự gia tăng của tiền giấy được in trong Nội chiến Hoa Kỳ, thuật ngữ "lạm phát" bắt đầu xuất hiện như một tham chiếu trực tiếp đến mất giá đồng tiền xảy ra khi số lượng tiền giấy có thể chuộc lại vượt xa số lượng kim loại có sẵn để chuộc lại chúng. Tại thời điểm đó, thuật ngữ lạm phát chỉ sự mất giá của đồng tiền, và không chỉ sự tăng giá hàng hoá.
+Mối quan hệ này giữa sự dư thừa cung tiền giấy và một mất giá kết quả trong giá trị của chúng đã được ghi nhận bởi các nhà kinh tế cổ điển trước đó như David Hume và David Ricardo, những người sẽ chuyển sang xem xét và tranh luận những tác động của việc mất giá tiền tệ (sau này được gọi là lạm phát tiền tệ) có trên giá hàng hoá (sau này gọi là lạm phát giá cả, và cuối cùng chỉ gọi là lạm phát).
+Việc áp dụng sắc lệnh tiền tệ của nhiều quốc gia, từ thế kỷ thứ 18, đã gây ra nhiều biến thể lớn hơn trong việc cung cấp tiền có thể. Kể từ đó, sự gia tăng rất lớn trong việc cung cấp tiền giấy đã diễn ra tại một số quốc gia, tạo ra các siêu lạm phát - các kịch bản của tỷ lệ lạm phát cực cao hơn nhiều so với những tỉ lệ lạm phát được quan sát trong thời gian trước đó của tiền tệ hàng hóa. Siêu lạm phát tại Cộng hòa Vây-ma của Đức là một ví dụ đáng chú ý.
+
+
+== Các định nghĩa liên quan ==
+Thuật ngữ "lạm phát" ban đầu được chỉ các gia tăng trong số lượng tiền trong lưu thông, và một số nhà kinh tế vẫn sử dụng từ này theo cách này. Tuy nhiên, hầu hết các nhà kinh tế hiện nay sử dụng thuật ngữ "lạm phát" để chỉ một sự gia tăng trong mức giá. Sự gia tăng cung tiền có thể được gọi là lạm phát tiền tệ, để phân biệt với sự tăng giá cả, mà cũng có thể được gọi cho rõ ràng là 'lạm phát giá cả'. Các nhà kinh tế nói chung đều đồng ý rằng về lâu dài, lạm phát là do tăng cung tiền.
+Các khái niệm kinh tế khác liên quan đến lạm phát bao gồm: giảm phát - một sụt giảm trong mức giá chung; thiểu phát - giảm tỷ lệ lạm phát; siêu lạm phát - một vòng xoáy lạm phát ngoài tầm kiểm soát; tình trạng lạm phát - một sự kết hợp của lạm phát, tăng trưởng kinh tế chậm và thất nghiệp cao, và tái lạm phát - một nỗ lực nâng cao mức giá chung để chống lại áp lực giảm phát.
+Vì có thể có nhiều cách đo lường mức giá cả, có thể có nhiều đo lường của lạm phát giá cả. Thường xuyên nhất, thuật ngữ "lạm phát" đề cập đến một sự gia tăng chỉ số giá mở rộng đại diện cho mức giá tổng thể đối với hàng hóa và dịch vụ trong nền kinh tế. Chỉ số giá tiêu dùng (CPI), chỉ số giá chi tiêu tiêu dùng cá nhân (PCEPI) và số giảm phát GDP là một số ví dụ về các chỉ số giá mở rộng. Tuy nhiên, "lạm phát" cũng có thể được sử dụng để mô tả một sự tăng mức giá trong một tập hợp hẹp của tài sản, hàng hóa, dịch vụ trong nền kinh tế, chẳng hạn như hàng hóa (bao gồm thực phẩm, nhiên liệu, kim loại), các tài sản hữu hình (như bất động sản), các tài sản tài chính (như cổ phiếu, trái phiếu), dịch vụ (chẳng hạn như giải trí và chăm sóc sức khỏe), hoặc lao động. Chỉ số CRB-Reuters (CCI), Chỉ số giá sản xuất và Chỉ số chi phí nhân công (ECI) là những ví dụ của chỉ số giá hẹp được sử dụng để đo lường lạm phát giá cả trong các lĩnh vực cụ thể của nền kinh tế. Lạm phát cơ bản là một thước đo lạm phát cho một tập hợp con của giá tiêu dùng không bao gồm giá thực phẩm và năng lượng, tăng và giảm hơn so với các giá cả khác trong ngắn hạn. Cục dự trữ liên bang đặc biệt quan tâm đến tỷ lệ lạm phát cơ bản để có được một ước tính tốt hơn về xu hướng lạm phát dài hạn trong tương lai tổng thể.
+
+
+== Đo lường ==
+
+chỉ số giá tiêu dùng (CPI). đo lường sự tăng hoặc giảm giá của một giỏ cố định hàng hoá và dịch vụ của theo thời gian, được mua bởi một "người tiêu dùng điển hình". CPI đo giá của hàng hóa sản xuất trong nước và hàng hóa nhập khẩu.
+Để minh họa cho phương pháp tính, vào tháng 1 năm 2007, chỉ số giá tiêu dùng của Mỹ là 202,416, và vào tháng 1 năm 2008 là 211,080. Công thức để tính toán tỷ lệ phần trăm lạm phát hàng năm bằng chỉ số CPI trong suốt năm 2007 là
+
+  
+    
+      
+        
+          (
+          
+            
+              
+                211.080
+                −
+                202.416
+              
+              202.416
+            
+          
+          )
+        
+        ×
+        100
+        %
+        =
+        4.28
+        %
+      
+    
+    {\displaystyle \left({\frac {211.080-202.416}{202.416}}\right)\times 100\%=4.28\%}
+  
+Kết quả là tỷ lệ lạm phát đối với CPI trong khoảng thời gian một năm này là 4,28%, có nghĩa là mức giá chung cho người tiêu dùng điển hình của Mỹ đã tăng khoảng bốn phần trăm trong năm 2007.
+Chỉ số giá bán lẻ cũng là một thước đo lạm phát được sử dụng trong Vương quốc Anh. Nó là rộng hơn so với chỉ số CPI và chứa một giỏ lớn hơn của hàng hóa và dịch vụ.
+Các chỉ số giá khác được sử dụng rộng rãi cho việc tính toán lạm phát giá cả bao gồm:
+Chỉ số giá sản xuất (PPI) đo lường sự thay đổi trung bình trong giá nhà sản xuất trong nước nhận được cho đầu ra của họ. Điều này khác với chỉ số CPI trong đó trợ cấp giá, lợi nhuận và thuế có thể làm cho số tiền nhận của nhà sản xuất khác với những gì người tiêu dùng trả. Ngoài ra còn thường có một sự chậm trễ giữa sự gia tăng chỉ số PPI và bất kỳ sự gia tăng cuối cùng nào trong chỉ số CPI. Chỉ số giá sản xuất đo áp lực được đưa vào sản xuất do chi phí nguyên liệu của họ. Điều này có thể được "truyền" cho người tiêu dùng, hoặc nó có thể được hấp thụ bởi lợi nhuận, hoặc được bù đắp bởi năng suất ngày càng tăng. Ở Ấn Độ và Hoa Kỳ, một phiên bản cũ của PPI được gọi là Chỉ số giá bán buôn.
+Chỉ số giá hàng hóa, đo lường giá của một lựa chọn các mặt hàng. Hiện nay chỉ số giá hàng hóa được gia quyển bằng tầm quan trọng tương đối của các thành phần đối với chi phí "tất cả trong" một nhân công.
+Chỉ số giá cơ bản: vì giá thực phẩm và dầu có thể thay đổi nhanh chóng do sự thay đổi trong điều kiện cung và cầu trong thị trường thực phẩm và dầu, nó có thể khó phát hiện các xu hướng dài hạn trong mức giá khi những giá này được bao gồm. Vì vậy hầu hết cơ quan thống kê cũng báo cáo một đo lường 'lạm phát cơ bản', trong đó loại bỏ các thành phần dễ bay hơi nhất (như thực phẩm và dầu) khỏi một chỉ số giá rộng như chỉ số CPI. Vì lạm phát cơ bản là ít bị ảnh hưởng bởi nguồn cung ngắn hạn và điều kiện nhu cầu tại các thị trường cụ thể, các ngân hàng trung ương dựa vào nó để đo lường tốt hơn các tác động lạm phát của chính sách tiền tệ hiện tại.
+Các đo lường lạm phát phổ biến khác là:
+Hệ số giảm phát GDP đo sự tăng hoặc giảm giá của tất cả hàng hóa và dịch vụ mà các doanh nghiệp có quốc tịch khác nhau được sản xuất và phục vụ trong lảnh thổ một quốc gia. Bộ Thương mại Mỹ công bố một loạt số giảm phát GDP của Mỹ, được định nghĩa là số đo GDP danh nghĩa chia cho số đo GDP thực tế của nó.
+Lạm phát khu vực Cục Thống kê lao động phân các tính toán CPI-U xuống cho các vùng khác nhau của Mỹ.
+Lạm phát lịch sử Trước khi thu thập dữ liệu kinh tế phù hợp đã trở thành tiêu chuẩn cho các chính phủ, và với mục đích so sánh tuyệt đối, chứ không phải là tiêu chuẩn tương đối của cuộc sống, nhiều nhà kinh tế đã tính toán con số lạm phát được ban cho. Hầu hết các dữ liệu lạm phát trước đầu thế kỷ 20 được quy gán dựa trên chi phí hàng hóa được biết đến, chứ không phải biên soạn vào thời điểm đó. Nó cũng được sử dụng để điều chỉnh cho sự khác biệt trong tiêu chuẩn thực sự của cuộc sống cho sự hiện diện của công nghệ.
+Lạm phát giá tài sản là sự gia tăng quá mức trong giá tài sản thực và tài chính, chẳng hạn như cổ phần (vốn) và bất động sản. Trong khi không có chỉ số chấp nhận rộng rãi của loại hình này, một số ngân hàng trung ương đã cho rằng sẽ là tốt hơn khi nhằm mục đích bình ổn đo lường lạm phát mức giá chung rộng lớn hơn bao gồm một số giá tài sản, thay vì chỉ ổn ​​định CPI và lạm phát cơ bản. Lý do là bằng việc việc tăng các lãi suất khi giá cổ phiếu hoặc giá bất động sản tăng, và làm giảm chúng khi giá tài sản giảm, ngân hàng trung ương có thể thành công hơn trong việc tránh bong bóng và bị treo giá tài sản.
+
+
+=== Các vấn đề trong đo lường ===
+Đo lường lạm phát trong một nền kinh tế đòi hỏi phải có phương tiện. Mục tiêu của việc phân biệt những thay đổi trong giá danh nghĩa trên một tập hợp chung của hàng hoá và dịch vụ, và phân biệt với những thay đổi giá do những thay đổi trong giá trị như khối lượng, chất lượng hay hiệu suất. Ví dụ, nếu giá của 10 pao ngô có thể thay đổi từ 0,90 USD đến 1,00 USD trong suốt một năm, không có thay đổi về chất lượng, thì chênh lệch giá này đại diện cho lạm phát. Tuy nhiên, sự thay đổi mức giá đơn lẻ này sẽ không đại diện cho lạm phát chung trong một nền kinh tế tổng thể. Để đo lường lạm phát tổng thể, sự thay đổi giá của một "giỏ" lớn hàng hóa và dịch vụ đại diện được đo. Đây là mục đích của một chỉ số giá, đó là giá kết hợp của một "rổ" nhiều hàng hóa và dịch vụ. Giá kết hợp là tổng giá cả gia quyền của các mặt hàng trong "rổ". Một giá cả gia quyền được tính bằng cách nhân đơn giá của một mặt hàng với số lần mua tiêu dùng trung bình mặt hàng đó. Giá cả gia quyền là một phương tiện cần thiết để đo lường tác động của các thay đổi đơn giá cụ thể đối với lạm phát tổng thể của nền kinh tế. Chỉ số giá tiêu dùng, ví dụ, sử dụng dữ liệu thu thập bởi các khảo sát hộ gia đình để xác định tỷ lệ của tổng chi tiêu của người tiêu dùng điển hình được chi cho hàng hóa và dịch vụ cụ thể, trọng lượng và giá trung bình của những mặt hàng phù hợp. Những mức giá bình quân gia quyền này được kết hợp để tính toán giá tổng thể. Để liên hệ tốt hơn các thay đổi giá theo thời gian, chỉ số này thường chọn giá một "năm cơ sở" và gán cho nó một giá trị 100. Chỉ số giá trong những năm tiếp theo sau đó được thể hiện trong mối quan hệ với giá năm cơ sở. Trong khi so sánh các đo lường lạm phát đối với các thời gian khác nhau người ta cũng phải đi vào xem xét các hiệu ứng cơ bản của lạm phát.
+Các đo lường lạm phát thường được sửa đổi theo thời gian, hoặc là cho gia quyền tương đối của hàng hóa trong giỏ, hoặc trong cách thức mà hàng hóa và dịch vụ từ hiện tại được so sánh với hàng hóa và dịch vụ trong quá khứ. Theo thời gian, điều chỉnh được thực hiện cho các loại hàng hóa và dịch vụ được lựa chọn để phản ánh những thay đổi trong các loại hàng hóa, dịch vụ mua của người tiêu dùng điển hình. Sản phẩm mới có thể được giới thiệu, các sản phẩm cũ biến mất, chất lượng sản phẩm hiện tại có thể thay đổi, và sở thích của người tiêu dùng có thể thay đổi. Cả các loại hàng hóa và dịch vụ được bao gồm trong "rổ" và giá cả gia quyền được sử dụng trong các đo lường lạm phát sẽ được thay đổi theo thời gian để bắt kịp với các thay đổi thị trường.
+Các con số lạm phát thường điều chỉnh theo mùa để phân biệt ​​các thay đổi giá cả theo chu kỳ dự kiến. Ví dụ, chi phí sưởi ấm nhà dự kiến ​​sẽ tăng trong những tháng lạnh hơn, và điều chỉnh theo mùa thường được sử dụng khi đo lường lạm phát để bù đắp cho các gai nhọn chu kỳ trong nhu cầu năng lượng, nhiên liệu. Các con số lạm phát có thể được tính trung bình hoặc bị các kỹ thuật thống kê loại bỏ nhiễu thống kê và biến động. của các giá cả cụ thể.
+Khi xem xét lạm phát, các tổ chức kinh tế có thể chỉ tập trung vào một số loại giá cả, hoặc chỉ số đặc biệt, chẳng hạn như chỉ số lạm phát cơ bản được sử dụng bởi các ngân hàng trung ương để xây dựng chính sách tiền tệ.
+Hầu hết các chỉ số lạm phát được tính từ trung bình gia quyền của các thay đổi giá cả được lựa chọn. Điều này nhất thiết phải giới thiệu biến dạng, và có thể dẫn đến các tranh chấp mang tính hợp pháp về việc tỷ lệ lạm phát thực sự là bao nhiêu. Vấn đề này có thể được khắc phục bằng cách bao gồm tất cả các thay đổi về giá có sẵn trong tính toán, và sau đó chọn giá trị trung bình. Trong một số trường hợp khác, các chính phủ có thể cố ý báo cáo sai tỷ lệ lạm phát, ví dụ, chính phủ Argentina đã bị chỉ trích bởi các thao túng dữ liệu kinh tế, chẳng hạn như số liệu lạm phát và GDP, cho lợi ích chính trị và giảm thanh toán của mình trong nợ quốc gia tính theo chỉ số lạm phát.
+
+
+== Ảnh hưởng ==
+
+
+=== Các ảnh hưởng chung ===
+Sự gia tăng trong mức giá chung hàm ý giảm sức mua của đồng tiền. Có nghĩa là, khi mức chung của giá cả tăng lên, mỗi đơn vị tiền tệ mua được ít hàng hóa và dịch vụ hơn. Ảnh hưởng của lạm phát được phân bố không đều trong nền kinh tế, và kết quả là có những chi phí ẩn để một số và lợi ích cho người khác điều này làm giảm sức mua của tiền bạc. Ví dụ, với lạm phát, những phân đoạn trong xã hội mà sở hữu tài sản vật chất, chẳng hạn như bất động sản, chứng khoán vv, được hưởng lợi từ giá/giá trị cổ phần của họ đi lên, trong khi những người tìm kiếm để có được chúng sẽ cần phải trả nhiều tiền hơn. Khả năng của họ để làm như vậy sẽ phụ thuộc vào mức độ mà thu nhập của họ là cố định. Ví dụ, sự gia tăng trong thanh toán cho người lao động và người về hưu thường tụt hậu so với lạm phát, và cho một số người có thu nhập cố định. Ngoài ra, các cá nhân hoặc tổ chức có tài sản tiền mặt sẽ phải trải nghiệm một sự suy giảm sức mua của đồng tiền. Tăng mức giá (lạm phát) làm xói mòn giá trị thực của tiền (đồng tiền chức năng) và các mặt hàng khác có tính chất tiền tệ cơ bản. Khách nợ có khoản nợ được với lãi suất danh nghĩa cố định của lãi suất sẽ giảm lãi suất "thực sự" như tỷ lệ lạm phát tăng. Lãi suất thực tế trên một khoản vay là lãi suất danh nghĩa trừ đi tỉ lệ lạm phát. Công thức R = NI xấp xỉ với câu trả lời đúng miễn là cả hai lãi suất danh nghĩa và tỷ lệ lạm phát là nhỏ. Phương trình chính xác là r = n/i khi r, n và i được thể hiện như tỷ lệ (ví dụ như 1.2 cho 20%, 0,8 -20%). Ví dụ, khi tỷ lệ lạm phát là 3%, một khoản vay với lãi suất danh nghĩa 5% sẽ có một tỷ lệ lãi suất thực tế khoảng 2%. Bất kỳ sự gia tăng bất ngờ nào trong tỷ lệ lạm phát sẽ làm giảm lãi suất thực. Các ngân hàng và cho vay khác điều chỉnh cho rủi ro lạm phát này bằng cách bao gồm cả phí bảo hiểm rủi ro lạm phát với các khoản vay lãi suất cố định, hoặc cho vay với tỷ lệ điều chỉnh.
+
+
+=== Các ảnh hưởng tích cực ===
+Điều chỉnh thị trường lao động
+tiền lương danh nghĩa là chậm để điều chỉnh. Điều này có thể dẫn đến sự mất cân bằng kéo dài và thất nghiệp cao trong thị trường lao động. Vì lạm phát cho phép tiền lương thực tế giảm ngay cả khi tiền lương danh nghĩa được giữ không đổi, lạm phát vừa phải cho phép thị trường lao động đạt được trạng thái cân bằng nhanh hơn.
+Dự phòng cơ động
+Các công cụ cơ bản để kiểm soát cung tiền là khả năng thiết lập tỷ lệ chiết khấu, tỷ lệ mà tại đó các ngân hàng có thể vay từ ngân hàng trung ương, và nghiệp vụ thị trường mở, đó là những can thiệp của ngân hàng trung ương vào thị trường trái phiếu với mục đích ảnh hưởng đến lãi suất danh nghĩa. Nếu một nền kinh tế thấy mình trong một cuộc suy thoái với lãi suất đã thấp, hoặc thậm chí, lãi suất danh nghĩa bằng không, thì ngân hàng không thể cắt giảm các tỷ lệ hơn nữa (vì lãi suất danh nghĩa âm là không thể) để kích thích nền kinh tế - tình trạng này được biết đến như một bẫy thanh khoản. Mức độ vừa phải của lạm phát có xu hướng đảm bảo rằng lãi suất danh nghĩa ở trên không đủ để nếu có nhu cầu ngân hàng có thể cắt giảm lãi suất danh nghĩa.
+Hiệu ứng Mundell–Tobin
+Nhà kinh tế đoạt giải Nobel Robert Mundell lưu ý rằng lạm phát vừa phải sẽ khiến người gửi tiết kiệm thay thế cho vay đối với một số tiền nắm giữ như một phương tiện để tài trợ cho chi tiêu trong tương lai. Thay thế đó có thể làm cho lãi suất thực tế thanh toán bù trừ thị trường giảm. Lãi suất thực thấp hơn có thể sẽ gây ra vay nhiều hơn để đầu tư tài chính. Tương tự, người đoạt giải Nobel James Tobin lưu ý rằng lạm phát như vậy sẽ có thể làm cho các doanh nghiệp đầu tư thay thế trong vốn vật chất (nhà máy, thiết bị, kho tàng) cho số dư tiền trong danh mục đầu tư tài sản của họ. Thay thế đó có nghĩa là sự lựa chọn làm các khoản đầu tư với tỉ lệ lợi nhuận thấp hơn hoàn vốn thực tế. (Tỷ suất hoàn vốn này thấp hơn bởi vì các khoản đầu tư với tỉ lệ hoàn vốn cao hơn đã được thực hiện trước đây.) Hai tác động có liên quan này được gọi là hiệu ứng Mundell-Tobin. Trừ khi nền kinh tế đã đầu tư quá mức theo các mô hình của lý thuyết tăng trưởng kinh tế, mà đầu tư tăng thêm đó do hiệu ứng này có thể sẽ được xem là tích cực.
+Bất ổn định với giảm phát
+Nhà kinh tế S.C. Tsaing lưu ý rằng một khi giảm phát đáng kể được dự kiến, hai tác động quan trọng sẽ xuất hiện; cả hai có kết quả là việc nắm giữ tiền thay thế cho vay như một phương tiện để tiết kiệm. Tác động đầu tiên là giá cả liên tục giảm và dẫn đến khuyến khích tích trữ tiền sẽ gây ra bất ổn do sự sợ hãi khả năng tăng, trong khi các tích trữ tiền tăng giá trị, mà giá trị của những tích trữ này có rủi ro, vì mọi người nhận ra rằng một phong trào trao đổi các cất giấu tiền này thành hàng hóa và tài sản thực tế sẽ nhanh chóng thúc đẩy giá cả tăng lên. Bất kỳ trào lưu chi tiêu nào cho những tích trữ này "một khi bắt đầu sẽ có thể trở thành một trận tuyết lở rất lớn, mà có thể hung hăng một thời gian dài trước khi nó chi tiêu cho chính mình." Do đó, một chế độ giảm phát lâu dài có thể bị gián đoạn bởi các gai nhọn có tính chu kỳ của lạm phát nhanh chóng và các gián đoạn kinh tế thực sự tiếp theo. Lạm phát trung bình và ổn định sẽ có thể tránh một hình răng cưa của các biến động giá.
+Không hiệu quả thị trường tài chính với giảm phát
+Tác động thứ hai được lưu ý bởi Tsaing là khi những người tiết kiệm đã thay thế giữ tiền cho vay trên các thị trường tài chính, vai trò của các thị trường này trong việc hướng các tiết kiệm vào kênh đầu tư bị suy yếu. Với lãi suất danh nghĩa định hướng về không, hoặc gần bằng không, từ sự cạnh tranh với một tài sản tiền lợi nhuận cao, sẽ không có cơ chế giá trong bất cứ điều gì còn lại của các thị trường này. Với các thị trường tài chính bị cho chết một cách hiệu quả, giá cả các hàng hóa còn lại và tài sản vật lý sẽ di chuyển theo các hướng ngoan cố. Ví dụ, một mong muốn tăng thêm để tiết kiệm không có thể đẩy lãi suất tiếp tục xuống (và do đó khuyến khích đầu tư) mà thay vào đó sẽ gây ra hiện tượng tích trữ tiền bạc, dẫn dắt giá tiêu dùng tiếp tục đi xuống và làm cho đầu tư sản xuất hàng tiêu dùng do đó kém hấp dẫn. Lạm phát vừa phải, một khi kỳ vọng của nó được kết hợp vào lãi suất danh nghĩa, sẽ cung cấp dự phòng cho các lãi suất này để cả đi lên và đi xuống để đáp ứng với sự thay đổi các cơ hội đầu tư, hoặc các sở thích của người gửi tiết kiệm, và do đó cho phép các thị trường tài chính hoạt động một cách bình thường hơn.
+
+
+=== Các ảnh hưởng tiêu cực ===
+Tỷ lệ lạm phát cao hoặc không thể đoán trước được coi là có hại cho nền kinh tế. Chúng thêm sự thiếu hiệu quả trong thị trường, và làm cho nó khó khăn cho các công ty với ngân sách hoặc kế hoạch dài hạn. Lạm phát có thể hoạt động như một lực cản đối với năng suất do các công ty buộc phải chuyển các nguồn lực từ các sản phẩm và dịch vụ để tập trung vào lợi nhuận và thua lỗ từ lạm phát tiền tệ. Không chắc chắn về sức mua tương lai của tiền không khuyến khích đầu tư và tiết kiệm. Và lạm phát có thể áp đặt tăng thuế ẩn, do thu nhập tăng cao đẩy người nộp thuế vào thuế suất thuế thu nhập cao hơn trừ khi khung thuế được chỉnh theo lạm phát.
+Với lạm phát cao, sức mua được phân phối lại từ những người thu nhập danh nghĩa cố định, chẳng hạn như một số người nghỉ hưu có lương hưu không được lập chỉ mục với mức giá, hướng tới những người có thu nhập biến đổi mà thu nhập của họ có thể giữ cho tốc độ tốt hơn với lạm phát. Phân bố lại sức mua này cũng sẽ xảy ra giữa các đối tác thương mại quốc tế. Nơi các tỷ giá cố định được áp dụng, lạm phát cao hơn trong một nền kinh tế hơn một nơi khác sẽ gây ra xuất khẩu của nền kinh tế đầu tiên trở nên đắt hơn và ảnh hưởng đến cán cân thương mại. Cũng có thể có tác động tiêu cực đối với thương mại từ một sự bất ổn gia tăng trong trao đổi tiền tệ do lạm phát không thể đoán trước.
+Lạm phát đẩy chi phí
+Lạm phát cao có thể nhắc nhở nhân viên yêu cầu tăng lương nhanh chóng, để theo kịp với giá tiêu dùng. Trong lý thuyết lạm phát đẩy chi phí, lương tăng lần lượt có thể giúp lạm phát nhiên liệu. Trong trường hợp thương lượng tập thể, tăng lương sẽ được thiết lập như là một hàm của những kỳ vọng lạm phát, mà sẽ cao hơn khi lạm phát cao. Điều này có thể gây ra một vòng xoáy tiền lương. Trong một nghĩa nào đó, lạm phát đem lại kỳ vọng tiếp tục lạm phát, mà điều này đem lại lạm phát tiếp tục.
+Tích trữ
+Người ta mua hàng hóa lâu bền và/hoặc không dễ hư hỏng và các hàng hóa khác như các tồn trữ của cải, để tránh những tổn thất dự kiến ​​từ sức mua suy giảm của tiền bạc, tạo ra tình trạng thiếu thốn do hàng hóa bị tích trữ.
+Tình trạng bất ổn xã hội và các cuộc khởi nghĩa
+Lạm phát có thể dẫn đến các cuộc biểu tình lớn và các cuộc cách mạng. Ví dụ, lạm phát và cụ thể là lạm phát thực phẩm được coi là một trong những lý do chính gây ra cách mạng Tunisia năm 2010-2011 và cách mạng Ai Cập năm 2011, theo một số nhà quan sát bao gồm Robert Zoellick, chủ tịch của Ngân hàng Thế giới. Tổng thống Tunisia Zine El Abidine Ben Ali đã bị lật đổ, Tổng thống Ai Cập Hosni Mubarak cũng bị lật đổ chỉ sau 18 ngày kể từ ngày các cuộc biểu tình, và các cuộc tuần hành nhanh chóng lan rộng ở nhiều nước Bắc Phi và Trung Đông.
+Siêu lạm phát
+Nếu lạm phát bị hoàn toàn ngoài tầm kiểm soát (trong chiều hướng tăng), nó hết sức có thể cản trở hoạt động bình thường của nền kinh tế, làm tổn thương khả năng cung cấp hàng hóa. Siêu lạm phát có thể dẫn đến việc từ bỏ việc sử dụng đồng tiền của đất nước, dẫn đến thiếu hiệu quả của hàng đổi hàng.
+Hiệu quả phân bổ
+Một sự thay đổi trong cung cấp hoặc nhu cầu cho một tốt bình thường sẽ gây ra giá tương đối của nó thay đổi, báo hiệu cho người mua và người bán rằng họ nên tái phân bổ nguồn lực để đáp ứng với các điều kiện thị trường mới. Nhưng khi giá thay đổi liên tục do lạm phát, các thay đổi giá cả do các tín hiệu giá tương đối chính hãng rất khó để phân biệt với những thay đổi giá do lạm phát chung, vì vậy các tác nhân chậm để đối phó với chúng. Kết quả là một mất mát hiệu quả phân bổ.
+Chi phí da giày
+Lạm phát cao làm tăng chi phí cơ hội của việc nắm giữ số dư tiền mặt và có thể gây ra cho người đến một phần lớn tài sản của họ trong các tài khoản thanh toán. Tuy nhiên, vì tiền mặt vẫn cần thiết để thực hiện các giao dịch này có nghĩa là nhiều "chuyến đi đến ngân hàng" hơn là cần thiết để rút tiền, tốn kém nhiều "da giày" với mỗi chuyến đi.
+Chi phí Menu
+Với lạm phát cao, các doanh nghiệp phải thay đổi giá của họ thường xuyên để theo kịp với những thay đổi nền kinh tế. Nhưng giá thường thay đổi bản thân nó là một hoạt động tốn kém cho dù rõ ràng, cũng như sự cần thiết phải in thực đơn mới, hoặc ngầm, như với thêm thời gian và nỗ lực cần thiết để thay đổi giá liên tục.
+Chu kỳ kinh doanh
+Theo Lý thuyết Chu kỳ kinh doanh Áo, lạm phát đặt ra chu kỳ kinh doanh. Các nhà kinh tế Áo giữ điều này là ảnh hưởng tác hại nhất của lạm phát. Theo lý thuyết Áo, lãi suất thấp giả tạo và sự gia tăng liên quan đến cung cấp tiền dẫn đến liều lĩnh, vay đầu cơ, dẫn đến các cụm đầu tư hiểm độc, mà cuối cùng phải được thanh lý khi chúng trở nên không bền vững.
+
+
+== Nguyên nhân ==
+Trong lịch sử, rất nhiều tài liệu kinh tế đã quan tâm đến những câu hỏi về hiệu quả những gì gây ra lạm phát và những gì nó có. Có những trường phái khác nhau về tư tưởng như các nguyên nhân của lạm phát. Phần lớn có thể được chia thành hai khu vực chính: lý thuyết chất lượng của lạm phát và lý thuyết số lượng của lạm phát. Lý thuyết chất lượng của lạm phát dựa trên sự mong đợi của một đồng tiền chấp nhận bán để có thể trao đổi tiền tệ sau một thời gian đối với hàng hoá là mong muốn như một người mua. Lý thuyết số lượng của lạm phát dựa trên các phương trình lượng tiền, có liên quan cung tiền, vòng quay của nó, và giá trị danh nghĩa của trao đổi. Adam Smith và David Hume đã đề xuất một lý thuyết số lượng của lạm phát với tiền bỏ ra, và một lý thuyết chất lượng của lạm phát sản xuất. Hiện nay, lý thuyết số lượng tiền tệ được chấp nhận rộng rãi như là một mô hình chính xác của lạm phát trong thời gian dài. Do đó, hiện nay là thỏa thuận rộng rãi giữa các nhà kinh tế rằng về lâu dài, tỉ lệ lạm phát cơ bản phụ thuộc vào tốc độ tăng trưởng cung tiền liên quan đến sự tăng trưởng của nền kinh tế. Tuy nhiên, trong tình trạng lạm phát ngắn hạn và trung hạn có thể bị ảnh hưởng bởi nguồn cung cấp và nhu cầu áp lực trong nền kinh tế, và chịu ảnh hưởng của độ đàn hồi tương đối của tiền lương, giá cả và lãi suất. Các câu hỏi liệu những tác động ngắn hạn kéo dài đủ lâu là quan trọng là chủ đề trung tâm của cuộc tranh luận giữa người theo chủ nghĩa tiền tệ và các nhà kinh tế học Keynes. Trong chủ nghĩa tiền tệ giá và lương điều chỉnh một cách nhanh chóng đủ để làm cho các yếu tố khác chỉ đơn thuần là hành vi biên trên một chung xu hướng trực tuyến. Trong quan điểm học thuyết Keynes, giá cả và tiền lương điều chỉnh ở mức độ khác nhau, và những khác biệt này có đủ các hiệu ứng trên sản lượng thực tế là "lâu dài" theo quan điểm của những người trong một nền kinh tế.
+
+
+=== Quan điểm của học thuyết Keynes ===
+Kinh tế học Keynes đề xuất rằng những thay đổi trong cung tiền không trực tiếp ảnh hưởng đến giá cả, và rằng lạm phát có thể nhìn thấy là kết quả của các áp lực trong nền kinh tế tự thể hiện mình trong giá.
+Có ba loại chính của lạm phát, như một phần của những gì Robert J. Gordon gọi là "mô hình tam giác": 
+Lạm phát cầu kéo là do lượng cầu lớn hơn lượng cung dẫn đến các doanh nghiệp tăng giá hàng hóa dịch vụ, vv. Lạm phát nhu cầu khuyến khích tăng trưởng kinh tế vì nhu cầu quá mức và các điều kiện thị trường thuận lợi sẽ kích thích đầu tư và mở rộng.
+Lạm phát chi phí đẩy,còn gọi là "lạm phát sốc cung," là do khi chính phủ cắt giảm thuế hay tăng chi tiêu dùng thường xuyên dẫn đến thâm hụt ngân sách, phá giá tiền tệ phát sinh thuế lạm phát làm tăng giá nguyên liệu đầu vào dẫn tới sự phá sản doanh nghiệp làm tổng cung sụt giảm (sản lượng tiềm năng). Điều này có thể là do thiên tai. Ví dụ, giảm đột ngột trong việc cung cấp dầu, dẫn đến giá dầu tăng lên, có thể gây ra lạm phát chi phí đẩy. Các nhà sản xuất dầu cho người mà dầu là một phần chi phí của họ sau đó có thể chuyển thông tin này cho người tiêu dùng dưới hình thức giá tăng lên. Một ví dụ khác xuất phát từ tổn thất được bảo hiểm bất ngờ cao, hoặc là hợp pháp (thảm họa) hoặc gian lận (mà có thể là đặc biệt phổ biến trong thời kỳ suy thoái).
+Lạm phát vốn có được gây ra bởi kỳ vọng thích nghi, và thường được liên kết với "vòng xoáy giá/lương". Nó liên quan đến công nhân cố gắng giữ tiền lương của họ với giá (trên tỷ lệ lạm phát), và các công ty chuyển những chi phí lao động cao hơn này cho khách hàng của họ như giá cao hơn, dẫn đến một "vòng luẩn quẩn". Lạm phát vốn có phản ánh các sự kiện trong quá khứ, và do đó có thể được xem như lạm phát nôn nao.
+Lý thuyết cầu kéo nói rằng lạm phát tăng tốc khi tổng cầu tăng vượt quá khả năng của nền kinh tế để sản xuất (sản lượng tiềm năng của nó). Do đó, bất kỳ yếu tố nào làm tăng tổng cầu đều có thể gây ra lạm phát. Tuy nhiên, về lâu dài, tổng cầu có thể được tổ chức trên năng lực sản xuất chỉ bằng cách tăng lượng tiền trong lưu thông nhanh hơn so với tốc độ tăng trưởng thực của nền kinh tế. Một nguyên nhân khác (mặc dù ít phổ biến) có thể là một sự suy giảm nhanh chóng trong nhu cầu đối với tiền bỏ ra, như đã xảy ra ở châu Âu trong Black Death, hoặc trong vùng lãnh thổ bị Nhật Bản chiếm đóng ngay trước sự thất bại của Nhật Bản trong năm 1945.
+Ảnh hưởng của tiền trên lạm phát là rõ ràng nhất khi các chính phủ tài trợ cho chi tiêu trong một cuộc khủng hoảng, chẳng hạn như một cuộc chiến tranh dân sự, bằng cách in tiền quá mức. Điều này đôi khi dẫn đến lạm phát phi mã, một điều kiện mà giá có thể tăng gấp đôi trong một tháng hoặc ít hơn. Cung tiền cũng được cho là đóng một vai trò quan trọng trong việc xác định mức độ vừa phải của lạm phát, mặc dù có sự khác biệt về quan điểm về tầm quan trọng của nó. Ví dụ: các nhà kinh tế theo chủ nghĩa tiền tệ tin rằng liên kết là rất mạnh mẽ, các nhà kinh tế Keynes, ngược lại, thường nhấn mạnh vai trò của tổng cầu trong nền kinh tế chứ không phải là cung tiền trong việc xác định lạm phát. Có nghĩa là, đối với phái Keynes, cung tiền chỉ là một yếu tố quyết định của tổng cầu.
+Một số nhà kinh tế phái Keynes cũng không đồng ý với quan điểm cho rằng ngân hàng trung ương hoàn toàn kiểm soát cung tiền, cho rằng ngân hàng trung ương có ít kiểm soát, do cung tiền thích nghi với nhu cầu cho tín dụng ngân hàng được phát hành bởi ngân hàng thương mại. Điều này được gọi là lý thuyết của tiền nội sinh, và đã được ủng hộ mạnh mẽ bởi những người sau Keynes từ những năm 1960. Nó ngày nay đã trở thành một trọng tâm của những người ủng hộ quy tắc Taylor. Vị trí này không được chấp nhận phổ biến - các ngân hàng tạo ra tiền bằng cách làm ra các khoản vay, nhưng tổng khối lượng các khoản vay này giảm đi khi lãi suất thực tăng. Như vậy, các ngân hàng trung ương có thể ảnh hưởng đến việc cung cấp tiền bằng cách làm cho tiền rẻ hơn hoặc đắt hơn, do đó tăng hoặc giảm sản xuất.
+Một khái niệm cơ bản trong phân tích lạm phát là mối quan hệ giữa lạm phát và thất nghiệp, được gọi là đường cong Phi-líp. Mô hình này cho thấy rằng có một đánh đổi giữa sự ổn định giá cả và việc làm. Vì vậy, một số mức độ lạm phát có thể được xem là hấp dẫn để giảm thiểu tình trạng thất nghiệp. Mô hình đường cong Phillips mô tả tốt kinh nghiệm của Mỹ vào những năm 1960 nhưng không thành công để mô tả sự kết hợp của lạm phát tăng cao và kinh tế trì trệ (đôi khi được gọi là tình trạng lạm phát) có trải nghiệm trong những năm 1970.
+Như vậy, kinh tế vĩ mô hiện đại mô tả lạm phát bằng cách sử dụng đường cong Phillips rằng các thay đổi (nên sự đánh đổi giữa các thay đổi lạm phát và thất nghiệp) vì những vấn đề như các cú sốc cung và lạm phát trở thành xây dựng cho các hoạt động bình thường của nền kinh tế. Các đề cập trước đây đến các sự kiện như cú sốc dầu lửa những năm 1970, trong khi những đề cập sau này đến vòng xoáy giá/lương ốc và các kỳ vọng lạm phát ngụ ý rằng nền kinh tế bị lạm phát "một cách bình thường". Như vậy, đường cong Phi-líp chỉ đại diện cho thành phần cầu kéo của mô hình tam giác.
+Một khái niệm khác cần lưu ý là sản lượng tiềm năng (đôi khi được gọi là "tổng sản phẩm quốc nội tự nhiên"), một mức độ của GDP, khi nền kinh tế đang ở mức sản xuất tối ưu của nó được thể chế và tự nhiên. (Mức độ sản lượng này tương ứng với Tỷ lệ thất nghiệp không đẩy mạnh lạm phát, NAIRU, hoặc tỷ lệ thất nghiệp "tự nhiên" hoặc tỷ lệ thất nghiệp đầy đủ việc làm). Nếu GDP vượt quá tiềm năng của nó (và thất nghiệp là dưới NAIRU), lý thuyết này nói rằng lạm phát sẽ tăng tốc do các nhà cung cấp tăng giá của họ và lạm phát tích hợp nặng hơn. Nếu GDP giảm xuống dưới mức tiềm năng của nó (và thất nghiệp là trên NAIRU), lạm phát sẽ giảm tốc do các nhà cung cấp cố gắng để điền vào công suất dư thừa, bằng cách giảm giá và phá hoại lạm phát có sẵn.
+Tuy nhiên, một vấn đề với lý thuyết này cho mục đích hoạch định chính sách là mức độ chính xác của sản lượng tiềm năng (và của NAIRU) nói chung là không rõ và có xu hướng thay đổi theo thời gian. Lạm phát cũng có vẻ hành động một cách không đối xứng, tăng nhanh hơn so với giảm. Tệ hơn, nó có thể thay đổi vì chính sách: ví dụ, tỷ lệ thất nghiệp cao dưới thời Thủ tướng Anh Margaret Thatcher có thể đã dẫn đến sự gia tăng trong NAIRU (và giảm tiềm năng) bởi vì nhiều người thất nghiệp tự thấy mình như thất nghiệp cơ cấu (xem thêm thất nghiệp), không thể tìm được việc làm phù hợp với kỹ năng của họ. Một gia tăng trong thất nghiệp cơ cấu ngụ ý rằng một tỷ lệ phần trăm nhỏ của lực lượng lao động có thể tìm việc làm ở NAIRU, nơi nền kinh tế tránh vượt qua ngưỡng vào lĩnh vực thúc đẩy lạm phát.
+
+
+==== Thất nghiệp ====
+Một kết nối giữa lạm phát và thất nghiệp đã được rút ra từ sự xuất hiện của thất nghiệp quy mô lớn trong thế kỷ 19, và các kết nối tiếp tục được rút ra hôm nay. Tuy nhiên, tỷ lệ thất nghiệp thường chỉ ảnh hưởng đến lạm phát trong ngắn hạn nhưng không lâu dài. Về lâu dài, các vận tốc của tiền các biện pháp cung cấp như vận tốc MZM ("đáo hạn không tiền," đại diện cho tiền mặt và tiền gửi nhu cầu tương đương) là dự đoán lạm phát xa hơn so với tỷ lệ thất nghiệp thấp.
+Trong kinh tế học Mác-xít, thất nghiệp phục vụ như một đội quân lao động dự bị, kiềm chế lạm phát tiền lương. Trong thế kỷ 20, các khái niệm tương tự trong Kinh tế học Keynes bao gồm NAIRU (Tỷ lệ thất nghiệp không gia tăng lạm phát) và đường cong Phillips.
+
+
+=== Quan điểm của Chủ nghĩa tiền tệ ===
+
+Những người theo chủ nghĩa tiền tệ tin rằng yếu tố quan trọng nhất ảnh hưởng đến lạm phát hay giảm phát là tốc độ cung tiền tăng lên hoặc co lại. Họ coi chính sách tài khóa, hoặc chi tiêu chính phủ và thuế, là không có hiệu quả trong việc kiểm soát lạm phát. Theo nhà kinh tế theo chủ nghĩa tiền tệ nổi tiếng Milton Friedman,"Lạm phát là luôn luôn có và ở khắp mọi nơi là một hiện tượng tiền tệ." Tuy nhiên, một số người theo chủ nghĩa tiền tệ sẽ chấp nhận điều này bằng cách làm một ngoại lệ cho các trường hợp rất ngắn hạn.
+Những người theo chủ nghĩa tiền tệ khẳng định rằng các nghiên cứu thực nghiệm lịch sử tiền tệ cho thấy lạm phát luôn luôn là một hiện tượng tiền tệ. Thuyết số lượng tiền tệ, chỉ đơn giản nói rằng bất kỳ thay đổi nào trong số lượng tiền trong một hệ thống sẽ làm thay đổi mức giá. Lý thuyết này bắt đầu với phương trình trao đổi:
+
+  
+    
+      
+        M
+        V
+        =
+        P
+        Q
+      
+    
+    {\displaystyle MV=PQ}
+  
+ở đây
+
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   là số lượng tiền danh nghĩa.
+
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   là vòng quay tiền tệ trong các tiêu dùng cuối cùng;
+
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   là mức giá chung;
+
+  
+    
+      
+        Q
+      
+    
+    {\displaystyle Q}
+   là một chỉ số của giá trị thực tế của các tiêu dùng cuối cùng;
+Trong công thức này, mức giá chung có liên quan đến mức độ hoạt động kinh tế thực (Q), lượng tiền (M) và vòng quay của tiền (V). Công thức này là một đồng nhất thức vì vòng quay của tiền (V) được định nghĩa là tỷ lệ chi tiêu danh nghĩa cuối cùng (
+  
+    
+      
+        P
+        Q
+      
+    
+    {\displaystyle PQ}
+  ) với số lượng tiền (M).
+Những người theo chủ nghĩa tiền tệ cho rằng vòng quay của tiền không bị ảnh hưởng bởi chính sách tiền tệ (ít nhất là trong thời gian dài), và giá trị thực của sản lượng được xác định trong thời gian dài bởi năng lực sản xuất của nền kinh tế. Theo các giả định, động lực chính của sự thay đổi trong mức giá chung là thay đổi trong lượng tiền. Với vòng quay ngoại sinh (có nghĩa là, vòng quay được xác định bên ngoài và không bị ảnh hưởng bởi chính sách tiền tệ), cung tiền xác định giá trị sản lượng danh nghĩa (bằng chi phí cuối cùng) trong ngắn hạn. Trong thực tế, vòng quay không phải là ngoại sinh trong ngắn hạn, và do đó, công thức không nhất thiết có nghĩa là một mối quan hệ ngắn hạn ổn định giữa cung tiền và sản lượng không đáng kể. Tuy nhiên, về lâu dài, những thay đổi trong vòng quay được giả định được xác định bởi sự phát triển của các cơ chế thanh toán. Nếu vòng quay tương đối không bị ảnh hưởng bởi chính sách tiền tệ, tỷ giá dài hạn của tăng giá (tỷ lệ lạm phát) bằng với tỷ lệ dài hạn tăng trưởng của cung tiền cộng với lãi dài hạn ngoại sinh của tốc độ phát triển trừ đi thời gian dài tốc độ tăng trưởng của sản lượng thực tế.
+
+
+=== Quan điểm của Lý thuyết kỳ vọng hợp lý ===
+
+Lý thuyết kỳ vọng hợp lý cho rằng tác nhân kinh tế tìm cách hợp lý trong tương lai khi cố gắng tối đa hóa phúc lợi của họ, và không đáp ứng chỉ với chi phí cơ hội và áp lực trước mắt. Theo quan điểm này, trong khi thường căn cứ vào trọng tiền, kỳ vọng và chiến lược trong tương lai cũng là quan trọng đối với lạm phát.
+Một sự khẳng định cốt lõi của lý thuyết kỳ vọng hợp lý là tác nhân kinh tế sẽ tìm cách "đón đầu" các quyết định của ngân hàng trung ương bằng cách hành động bằng cách thực hiện những dự đoán lạm phát cao hơn. Điều này có nghĩa rằng các ngân hàng trung ương phải thiết lập sự tin cậy của họ trong cuộc chiến chống lạm phát, hoặc tác nhân kinh tế sẽ đặt cược rằng các ngân hàng trung ương sẽ mở rộng cung tiền nhanh chóng, đủ để ngăn chặn suy giảm, thậm chí tại các chi phí làm tăng lạm phát. Vì vậy, nếu một ngân hàng trung ương có tiếng là "mềm dẻo" đối với lạm phát, khi công bố một chính sách chống lạm phát mới với các tác nhân kinh tế tăng trưởng tiền tệ hạn chế sẽ không tin rằng chính sách này sẽ vẫn tồn tại; kỳ vọng lạm phát của họ vẫn ở mức cao, và do đó sẽ lạm phát. Mặt khác, nếu các ngân hàng trung ương có tiếng là "cứng rắn" đối với lạm phát, thì một thông báo chính sách như vậy sẽ được tin tưởng và kỳ vọng lạm phát sẽ giảm xuống nhanh chóng, do đó cho phép lạm phát nó đi xuống nhanh chóng với sự gián đoạn kinh tế tối thiểu.
+
+
+=== Các quan điểm không chính thống ===
+Cũng còn có các học thuyết không chính thống khác mà giảm nhẹ hoặc từ chối quan điểm của Keynes và những người theo chủ nghĩa tiền tệ.
+
+
+==== Quan điểm của trường phái Áo ====
+
+Trường phái Áo khẳng định rằng lạm phát là sự gia tăng cung tiền, giá tăng chỉ là hậu quả và sự khác biệt ngữ nghĩa này là rất quan trọng trong việc xác định lạm phát. Trường phái Áo nhấn mạnh rằng lạm phát ảnh hưởng đến giá mức độ khác nhau (tức là giá tăng mạnh trong một số lĩnh vực hơn trong các lĩnh vực khác của nền kinh tế). Lý do cho sự chênh lệch là tiền dư thừa sẽ được tập trung vào một số lĩnh vực, chẳng hạn như nhà ở, cổ phiếu hoặc chăm sóc sức khỏe. Bởi vì có sự khác nhau này, trường phái Áo cho rằng mức giá tổng hợp có thể là rất sai lầm khi quan sát những tác động của lạm phát. Các nhà kinh tế Áo đo lường lạm phát bằng cách tính toán sự phát triển của các đơn vị tiền mới có sẵn để sử dụng ngay lập tức trong trao đổi, đã được tạo ra theo thời gian. 
+Các phê bình quan điểm của trường phái Áo chỉ ra rằng lựa chọn thay thế ưa thích của họ với tiền tệ đại diện nhằm ngăn chặn lạm phát, tiền tệ được bảo đảm hàng hóa, có khả năng tăng cung với tốc độ khác hơn tăng trưởng kinh tế. Do đó nó đã được chứng minh là giảm phát cao và mất ổn định, kể cả trong trường hợp nó gây ra và kéo dài suy thoái.
+
+
+==== Học thuyết Hóa đơn thực tế ====
+
+Trong bối cảnh của một cơ sở tiền đồng cố định đối với tiền, một trong những tranh cãi quan trọng là giữa lý thuyết số lượng tiền và học thuyết hóa đơn thực tế (RBD). Trong bối cảnh đó, lý thuyết số lượng áp dụng cho mức độ kế toán dự trữ phân đoạn đã cho phép chống lại tiền đồng, vàng nói chung, bị nắm giữ bởi ngân hàng. Các trường phái kinh tế tiền tệ và hoạt động ngân hàng tranh luận RBD, các ngân hàng cũng sẽ có thể phát hành tiền tệ chống lại các hóa đơn trao đổi, đó là các "hóa đơn thực tế" mà họ mua từ các thương gia. Lý thuyết này là quan trọng vào thế kỷ 19 trong cuộc tranh luận giữa các trường phái "hoạt động ngân hàng" và "tiền tệ" về tính đúng đắn của tiền tệ, và trong sự hình thành của Dự trữ Liên bang. Theo sau sự sụp đổ của bản vị vàng quốc tế sau năm 1913, và di chuyển theo hướng thâm hụt tài chính của chính phủ, RBD vẫn là một chủ đề nhỏ, chủ yếu quan tâm trong các bối cảnh hạn chế, chẳng hạn như các vị tiền tệ. Nó được nắm một cách chung trong danh tiếng ốm yếu ngày hôm nay, với Frederic Mishkin, một thống đốc của Dự trữ Liên bang đi xa đến mức nói rằng nó đã bị "hoàn toàn mất uy tín."
+Các cuộc tranh luận giữa các trường phái tiền tệ, hoặc lý thuyết số lượng, và hoạt động ngân hàng ở Anh trong thế kỷ 19 tiên báo câu hỏi hiện nay về độ tin cậy của tiền trong hiện tại. Trong thế kỷ 19 trường phái hoạt động ngân hàng có ảnh hưởng lớn hơn trong chính sách của Hoa Kỳ và Anh, trong khi trường phái tiền tệ đã có nhiều ảnh hưởng "ở châu lục", đó là ở các nước ngoài Anh, đặc biệt trong Liên minh tiền tệ Latin và liên minh tiền tệ Scandinavia trước đó.
+
+
+==== Lý thuyết chống cổ điển hay lý thuyết ủng hộ ====
+Một vấn đề khác liên quan đến kinh tế chính trị cổ điển là giả thuyết chống cổ điển của tiền bạc, hay "lý thuyết ủng hộ". Lý thuyết ủng hộ lập luận rằng giá trị của tiền được xác định bởi các tài sản và nợ phải trả của cơ quan phát hành. Không giống như Lý thuyết số lượng của kinh tế chính trị cổ điển, lý thuyết ủng hộ lập luận rằng cơ quan phát hành có thể phát hành tiền mà không gây ra lạm phát, miễn là các tổ chức phát hành tiền có đủ tài sản để chuộc lại. Có rất ít các nhà lý luận ủng hộ, làm cho lý thuyết số lượng trở thành lý thuyết thống trị giải thích lạm phát.
+
+
+== Kiểm soát lạm phát ==
+Có nhiều phương pháp và chính sách đã và đang được sử dụng để kiểm soát lạm phát.
+
+
+=== Kích thích tăng trưởng kinh tế ===
+Nếu tăng trưởng kinh tế phù hợp với sự tăng trưởng của cung tiền, lạm phát sẽ có thể không xảy ra khi các nhân tố khác cũng cân bằng nhau. Một số lượng lớn các yếu tố có thể ảnh hưởng đến tốc độ của cả hai. Ví dụ: đầu tư trong sản xuất thị trường, cơ sở hạ tầng, giáo dục, và chăm sóc y tế dự phòng tất cả có thể tăng trưởng một nền kinh tế với số lượng lớn hơn chi tiêu đầu tư.
+
+
+=== Chính sách tiền tệ ===
+
+Ngày nay, công cụ chính để kiểm soát lạm phát là chính sách tiền tệ. Hầu hết các ngân hàng trung ương được giao nhiệm vụ giữ lãi suất cho vay liên ngân hàng ở mức thấp, thường là cho một tỷ lệ mục tiêu khoảng 2% đến 3% mỗi năm, và trong một phạm vi lạm phát mục tiêu thấp, ở đâu đó trong khoảng từ 2% đến 6% mỗi năm. Một lạm phát dương thấp thường là mục tiêu, do các điều kiện giảm phát được xem là nguy hiểm cho sức khỏe của nền kinh tế.
+Có một số phương pháp đã được đề xuất để kiểm soát lạm phát. Các ngân hàng Trung ương như Cục Dự trữ Liên bang Mỹ có thể ảnh hưởng đến lạm phát ở một mức độ đáng kể thông qua thiết lập lãi suất và thông qua các hoạt động khác. Các lãi suất cao và tốc độ tăng trưởng cung tiền chậm chạp là những cách truyền thống thông qua đó ngân hàng trung ương chống lại hoặc ngăn chặn lạm phát, mặc dù chúng có cách tiếp cận khác nhau. Ví dụ, một số theo một mục tiêu lạm phát đối xứng trong khi những phương pháp khác chỉ kiểm soát lạm phát khi nó lên trên một mục tiêu, cho dù rõ ràng hay ngụ ý.
+Những người theo chủ nghĩa tiền tệ nhấn mạnh việc duy trì tốc độ tăng trưởng tiền ổn định, và sử dụng chính sách tiền tệ để kiểm soát lạm phát (tăng lãi suất, làm chậm sự gia tăng cung tiền). Những người theo học thuyết Keynes nhấn mạnh việc giảm tổng cầu trong quá trình mở rộng kinh tế và việc gia tăng nhu cầu trong thời kỳ suy thoái để giữ lạm phát ổn định. Kiểm soát tổng cầu có thể đạt được bằng cách sử dụng cả chính sách tiền tệ và chính sách tài khóa (tăng thuế hoặc giảm chi tiêu của chính phủ để giảm cầu).
+
+
+=== Tỷ giá hối đoái cố định ===
+
+Dưới một chế độ tỷ giá hối đoái cố định, đồng tiền của một quốc gia được gắn về giá trị với một đồng tiền khác hoặc một rổ tiền tệ khác (hoặc đôi khi đến một thước đo giá trị, chẳng hạn như vàng). Một tỷ giá hối đoái cố định thường được sử dụng để ổn định giá trị đồng tiền, đối diện đồng tiền mà nó cố định vào. Nó cũng có thể được sử dụng như một phương tiện để kiểm soát lạm phát. Tuy nhiên, vì giá trị của đồng tiền tham chiếu tăng lên và hạ xuống, do đó, đồng tiền không ổn định so với nó. Điều này về cơ bản có nghĩa là tỷ lệ lạm phát của nước có chế độ tỷ giá hối đoái cố định bị xác định bởi tỷ lệ lạm phát của nước mà đồng tiền này cố định vào. Ngoài ra, tỷ giá hối đoái cố định ngăn chặn chính phủ trong việc sử dụng chính sách tiền tệ trong nước để đạt được sự ổn định kinh tế vĩ mô.
+Theo thỏa thuận Bretton Woods, hầu hết các nước trên thế giới đã có đồng tiền được cố định với đồng đô-la Mỹ. Lạm phát hạn chế này tại các quốc gia, nhưng cũng đẩy họ đến việc tiếp xúc với nguy cơ của các tấn công đầu cơ. Sau khi thỏa thuận Bretton Woods bị phá vỡ trong những năm 1970, các quốc gia dần dần chuyển sang tỷ giá hối đoái thả nổi. Tuy nhiên, trong phần sau của thế kỷ 20, một số nước trở lại tỷ giá hối đoái cố định như một phần của một nỗ lực để kiềm chế lạm phát. Chính sách sử dụng một tỷ giá hối đoái cố định để kiểm soát lạm phát này đã được sử dụng ở nhiều quốc gia ở Nam Mỹ trong phần sau của thế kỷ 20 (ví dụ: Argentina (1991-2002), Bolivia, Brazil và Chile
+
+
+=== Bản vị vàng ===
+
+Bản vị vàng là một hệ thống tiền tệ trong đó phương tiện trao đổi phổ biến của một vùng là tiền giấy mà thường có thể chuyển đổi tự do với một lượng cố định được đặt ra từ trước của vàng. Bản vị này quy định cụ thể cách mà sự ủng hộ vàng sẽ được thực hiện, bao gồm cả số lượng tiền vàng trên một đơn vị tiền tệ. Loại tiền tệ chính nó không có giá trị bẩm sinh, nhưng được chấp nhận bởi các thương nhân vì nó có thể được hoàn trả lại cho tiền vàng tương đương. Một Mỹ chứng nhận bạc, ví dụ, có thể được hoàn trả cho một phần bạc thực tế.
+Bản vị vàng đã bị bỏ rơi một phần thông qua việc áp dụng quốc tế của Hệ thống Bretton Woods. Theo hệ thống này tất cả các loại tiền tệ chính khác bị buộc ở mức giá cố định với đồng đô-la Mỹ, mà bản thân nó đã gắn liền với vàng ở mức 35 USD một ounce. Hệ thống Bretton Woods bị phá vỡ vào năm 1971, làm cho hầu hết các nước chuyển sang tiền tệ sắc lệnh - tiền tệ được hỗ trợ chỉ bởi luật pháp của đất nước đó.
+Theo Lawrence H. White, một Giáo sư Lịch sử kinh tế F.A. Hayek "người làm nên giá trị cho truyền thống Áo", các nền kinh tế dựa trên bản vị vàng hiếm khi gặp lạm phát trên 2 phần trăm mỗi năm. Tuy nhiên, trong lịch sử, Mỹ đã nhìn thấy lạm phát hơn 2% vài lần và đỉnh điểm lạm phát cao hơn theo bản vị vàng khi so sánh với lạm phát sau bản vị vàng. Dưới một bản vị vàng, tỷ lệ lạm phát (hoặc giảm phát) dài hạn sẽ có thể bị xác định bởi tốc độ tăng trưởng của nguồn cung vàng so với tổng sản lượng. Các phê bình cho rằng điều này sẽ gây ra biến động tùy ý trong tỷ lệ lạm phát và chính sách tiền tệ về cơ bản sẽ được xác định bằng việc khai thác vàng.
+
+
+=== Kiểm soát tiền lương và giá cả ===
+
+Một phương pháp khác đã được thử trong quá khứ là kiểm soát tiền lương và giá cả ("chính sách thu nhập"). Việc kiểm soát tiền lương và giá cả kết hợp với phân phối đã thành công trong môi trường chiến tranh. Tuy nhiên, việc sử dụng chúng trong các bối cảnh khác là hỗn hợp hơn rất nhiều. Thất bại đáng chú ý của việc sử dụng bao gồm áp đặt kiểm soát tiền lương và giá cả năm 1972 bởi Richard Nixon. Ví dụ thành công hơn bao gồm Hòa ước giá cả và thu nhập tại Úc và Thỏa hiệp Wassenaar tại Hà Lan.
+Nói chung, kiểm soát tiền lương và giá cả được coi là một biện pháp tạm thời và đặc biệt, chỉ có hiệu quả khi kết hợp với các chính sách được thiết kế để làm giảm những nguyên nhân cơ bản của lạm phát trong chế độ kiểm soát tiền lương và giá cả, ví dụ, chiến thắng cuộc chiến đang chiến đấu. Chúng thường có tác dụng hư hỏng, do các tín hiệu méo mó mà chúng gửi cho thị trường. Giá thấp giả tạo thường gây ra phân phối và sự thiếu hụt và khuyến khích đầu tư trong tương lai, dẫn đến tình trạng thiếu nhưng xa hơn. Phân tích kinh tế thông thường là bất kỳ sản phẩm hoặc dịch vụ mà dưới giá đều được tiêu thụ quá nhiều. Ví dụ, nếu giá chính thức của bánh mì là quá thấp, sẽ có quá ít bánh mì với giá chính thức, và có quá ít đầu tư trong việc làm bánh mì của thị trường để đáp ứng nhu cầu trong tương lai, do đó làm trầm trọng thêm các vấn đề trong lâu dài.
+Kiểm soát tạm thời có thể bổ sung cho một cuộc suy thoái như là một cách để chống lạm phát: điều khiển làm cho suy thoái kinh tế hiệu quả hơn như một cách để chống lạm phát (làm giảm sự cần thiết phải tăng tỷ lệ thất nghiệp), trong khi suy thoái kinh tế ngăn chặn các loại biến dạng mà kiểm soát gây ra khi nhu cầu cao. Tuy nhiên, nói chung những lời khuyên của các nhà kinh tế không phải là áp đặt kiểm soát giá cả mà là tự do hóa giá cả bằng cách giả định rằng nền kinh tế sẽ điều chỉnh và từ bỏ hoạt động kinh tế mang lại lợi nhuận. Hoạt động thấp hơn sẽ đặt nhu cầu ít hơn bất cứ điều gì trên mặt hàng được dẫn dắt lạm phát, cho dù lao động, tài nguyên, và lạm phát sẽ giảm với tổng sản lượng kinh tế. Điều này thường tạo ra một cuộc suy thoái nghiêm trọng, như năng lực sản xuất được phân bổ lại và do đó thường rất phổ biến với những người mà sinh kế bị phá hủy (xem phá hủy sáng tạo).
+
+
+=== Trợ cấp chi phí sinh hoạt ===
+
+Sức mua thực tế của các khoản thanh toán cố định đang bị xói mòn bởi lạm phát trừ khi chúng được điều chỉnh lạm phát để giữ giá trị thực sự không đổi. Ở nhiều nước, hợp đồng lao động, trợ cấp hưu trí, và các quyền lợi của chính phủ (ví dụ như an sinh xã hội) được gắn với một chỉ số chi phí sinh hoạt, thường đến chỉ số giá tiêu dùng. Một trợ cấp chi phí sinh hoạt (COLA) điều chỉnh lương dựa trên những thay đổi trong chỉ số chi phí sinh hoạt. Tiền lương thường được điều chỉnh hàng năm trong nền kinh tế lạm phát thấp. Trong khi lạm phát phi mã nó được điều chỉnh thường xuyên hơn. Chúng cũng có thể được gắn với một chỉ số giá sinh hoạt mà thay đổi theo vị trí địa lý khi di chuyển nhân viên.
+Khoản điều chỉnh hàng năm trong hợp đồng lao động có thể chỉ định hồi tố hoặc tăng tỷ lệ phần trăm tương lai trong lương công nhân mà không bị ràng buộc với bất kỳ chỉ số nào. Những gia tăng trả tiền được đàm phán này được gọi một cách thông tục là các điều chỉnh chi phí sinh hoạt ("COLA") hoặc gia tăng chi phí sinh hoạt vì sự tương đồng của chúng với các gia tăng gắn liền với các chỉ số được xác định bên ngoài.
+
+
+== Xem thêm ==
+Giảm phát
+Phòng hộ lạm phát
+Danh sách các quốc gia theo tỷ lệ lạm phát
+Đo lường giá trị kinh tế theo thời gian
+Đường cong Phi-líp
+Kiểm soát giá cả
+Sức mua
+Giá trị thực tế và giá trị danh nghĩa
+Kinh tế nhà nước ổn định
+Chi phí phúc lợi của lạm phát
+Danh sách các quốc gia theo tỉ lệ lạm phát 2010
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==

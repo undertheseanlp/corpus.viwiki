@@ -1,0 +1,25 @@
+Để tạo liên kết trong tới bài viết này, bạn cần sử dụng tên bài gốc là Wolfram Alpha
+Wolfram|Alpha (hay còn được viết là WolframAlpha hoặc Wolfram Alpha) là một máy trả lời do Wolfram Research phát triển. Đây là một dịch vụ trực tuyến có nhiệm vụ trả lời các câu hỏi nhập vào trực tiếp bằng cách tính toán câu trả lời từ các dữ liệu có cấu trúc, chứ không chỉ cung cấp một danh sách các tài liệu hoặc trang có web có thể chứa câu trả lời như cách máy tìm kiếm thường làm. Website này được Stephen Wolfram công bố vào tháng 3 năm 2009, và được phát hành cho công chúng ngày 15 tháng 5 năm 2009.
+
+
+== Công nghệ ==
+Wolfram|Alpha được viết ra bằng 5 triệu dòng mã Mathematica (sử dụng webMathematica và gridMathematica) và chạy trên 10.000 CPU (dù con số này đã nâng lên vào ngày ra mắt).
+
+
+== Ra mắt ==
+Tiến trình chuẩn bị để ra mắt bắt đầu vào lúc 0 giờ ngày 16 tháng 5 năm 2009 theo giờ UTC và được phát sóng trực tiếp trên kênh Justin.tv. Kế hoạch là sẽ phát hành dịch vụ ra công chúng vài giờ sau đó, được dự đoán sẽ chịu lượng tải rất lớn. Dịch vụ chính thức ra mắt vào ngày 18 tháng 5 năm 2009.
+Wolfram Alpha đã nhận được những lời nhận xét khác nhau. Wolfram Alpha bảo vệ cho quan điểm về tiềm năng của mình, một số người thậm chí còn cho rằng cách nó quyết định câu trả lời quan trọng hơn sự hiệu quả như hiện nay.
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Mathematica
+
+
+== Liên kết ngoài ==
+Trang web chính thức.
+Wolfram Alpha đang đến, blog của Stephen Wolfram.
+Đoạn phim ra mắt được lưu trữ.
+Bản mẫu:Computable knowledge

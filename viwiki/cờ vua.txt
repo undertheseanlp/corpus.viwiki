@@ -1,0 +1,245 @@
+Cờ vua, trước kia còn được gọi là Cờ quốc tế, là một trò chơi trên bàn và là một môn thể thao trí tuệ cho 2 người chơi. Ngày nay, cờ vua là một trong những trò chơi phổ biến nhất thế giới với hàng triệu người tại nhà riêng, trong câu lạc bộ, trực tuyến, từ xa và trong các giải đấu. Trò chơi này diễn ra trên một bảng hình vuông, gọi là bàn cờ, gồm 8 hàng (đánh số từ 1 đến 8) và 8 cột (đánh các chữ cái từ a đến h), tạo ra 64 ô hình vuông với các màu đậm và nhạt xen kẽ nhau, với mỗi người chơi sẽ có ô màu nhạt ở hàng cuối cùng bên tay phải của mình khi ngồi vào bàn chơi cờ. Mỗi người sẽ bắt đầu ván cờ với 16 quân cờ và sẽ lần lượt đi các quân của mình sau khi đối phương đã đi xong một nước (hoàn thành nước đi). Các quân cờ của mỗi bên bao gồm 8 Tốt , 2 Mã , 2 Tượng , 2 Xe , 1 Hậu  và 1 Vua . Người cầm quân trắng luôn là người đi đầu tiên; người kia cầm quân đen. Các quân Hậu và Xe được gọi là quân nặng, còn Tượng và Mã được gọi là quân nhẹ.
+Truyền thống của thi đấu cờ đã xuất hiện từ thế kỷ 16. Ngày nay, cờ vua được công nhận là một môn thể thao chính thức bởi Ủy ban Olympic Quốc tế. Nhà vô địch Cờ vua Thế giới đầu tiên, Wilhelm Steinitz đã giành danh hiệu này năm 1886. Hiện nay Magnus Carlsen là đương kim vua cờ.
+Các nhà lý thuyết đã sáng tạo ra rất nhiều chiến thuật và chiến lược kể từ khi bắt đầu có cờ vua. Nhiều khía cạnh nghệ thuật cũng được tìm thấy trong cờ thế.
+Một trong những mục tiêu ban đầu của các nhà khoa học máy tính là tạo nên các máy tính biết đánh cờ vua. Cờ vua ngày nay bị ảnh hưởng rõ ràng bởi các chương trình chơi cờ cũng như khả năng chơi cờ trực tuyến. Năm 1997, Deep Blue trở thành chương trình đầu tiên đánh bại được một kiện tướng thế giới khi nó đánh bại Garry Kasparov.
+
+
+== Giới thiệu ==
+
+Cờ vua không phải là một trò chơi may rủi; nó dựa thuần túy vào chiến thuật và chiến lược. Tuy thế, trò chơi này rất phức tạp đến mức thậm chí cả những người chơi hay nhất cũng không thể tính hết tất cả mọi phương án: mặc dù chỉ có 64 ô và 32 quân cờ trên bàn cờ nhưng số lượng nước đi có thể được thì còn vượt cả số lượng các nguyên tử có trong vũ trụ (xem Số Shannon).
+Cờ vua là một trong những trò chơi trí tuệ phổ biến nhất thế giới; nó được nói đến không chỉ như là một trò chơi mà còn là nghệ thuật, khoa học và thể thao. Cờ vua đôi khi được nhìn nhận như là trò chơi chiến tranh trừu tượng; cũng như là "các cuộc đấu trí tuệ", và việc chơi cờ vua được coi như là một cách để rèn luyện tư duy và bản lĩnh. Cờ vua được chơi để tiêu khiển cũng như để thi đấu trong các câu lạc bộ cờ vua, các giải đấu, chơi trực tuyến và chơi theo cách gửi thư. Rất nhiều biến thể và các trò chơi tương tự như cờ vua được chơi trên toàn thế giới. Trong số đó phổ biến nhất theo trật tự giảm dần về số người chơi là cờ tướng (ở Trung Quốc, Việt Nam v.v), Shogi (ở Nhật Bản) và Janggi (ở Triều Tiên).
+
+
+== Lịch sử ==
+Bài chính: Nguồn gốc cờ vua
+
+Nhiều quốc gia cho rằng họ là nơi phát minh ra cờ vua trong dạng phôi thai nào đó. Phổ biến nhất thì người ta tin rằng cờ vua có nguồn gốc từ Ấn Độ, tại đó nó được gọi là chaturanga (saturanga) và có lẽ ra đời vào khoảng thế kỷ 6.
+Một thuyết khác cho rằng cờ vua sinh ra từ trò chơi tương tự của cờ Trung Quốc, hoặc ít nhất là từ tổ tiên của cờ tướng, là môn đã tồn tại ở Trung Quốc kể từ thế kỷ 2 TCN. Joseph Needham và David Li là hai trong số nhiều học giả theo thuyết này.
+Cờ vua sau đó được phổ biến về phía tây tới châu Âu và về phía đông tới Nhật Bản, sinh ra các biến thể trên đường đi của nó. Từ Ấn Độ nó đã tới Ba Tư, ở đây các thuật ngữ của nó được phiên âm sang tiếng Ba Tư và tên gọi của nó đổi thành chatrang.
+Từ Ba Tư nó đi vào thế giới Hồi giáo, tại đây tên gọi của các quân cờ chủ yếu vẫn giữ các dạng Ba Tư trong thời kỳ Hồi giáo ban đầu của nó. Tên gọi của nó trở thành shatranj, được phiên theo tiếng Tây Ban Nha là ajedrez và trong tiếng Hy Lạp là zatrikion, nhưng trong phần lớn các nước châu Âu khác nó được thay thế bằng phiên bản Ba Tư của từ shāh = "vua".
+Có một thuyết cho rằng việc thay đổi tên diễn ra bởi vì trước khi cờ vua tới châu Âu thì các nhà buôn đã tới châu Âu và mang theo các quân vua được trang trí như là các đồ vật hiếm và cùng với chúng là tên gọi shāh, tên gọi này đã bị người châu Âu phát âm sai theo nhiều cách khác nhau.
+Chiếu bí: Trong tiếng Anh là checkmate là từ dịch ra của cụm từ shāh māt, trong tiếng Ba Tư có nghĩa là "vua hết đường". Trong tiếng Ả Rập nó có nghĩa là "shāh bị chết", nhưng shāh không phải là một từ Ả Rập thông dụng để chỉ "vua" (ngoại trừ đôi khi trong cờ vua).
+Xe: Trong tiếng Anh là rook. Nó có được thông qua tiếng Ả Rập từ chữ rukh trong tiếng Ba Tư, có nghĩa là "xe ngựa kéo", nhưng cũng có nghĩa là "má" (một phần của mặt) và còn có nghĩa là một con chim huyền thoại với sức mạnh gọi là roc.
+Tượng: Trong tiếng Anh là bishop. Tiếng Ả Rập al-fīl (từ tiếng Ba Tư pīl) có nghĩa là "voi", nhưng ở châu Âu và phần phía tây của thế giới Hồi giáo khi đó người ta biết rất ít hoặc không biết gì về voi và tên gọi của quân cờ đến với Tây Âu theo dạng Latinh alfinus và tương tự, một từ không có nghĩa gì (trong tiếng Tây Ban Nha, nó tiến hóa thành tên gọi alfil). Tên gọi bishop của người Anh là một sự đổi tên được sáng tạo ra theo hình dáng quy ước của nó. Tuy thế, tại Nga thì tên gọi của quân cờ này là slon = "voi".
+Hậu: Trong tiếng Anh là queen. Tiếng Ba Tư farzīn = vizia - quan chức cao cấp trong thế giới Hồi giáo cổ, tương tự như tể tướng đã trở thành tiếng Ả Rập firzān, nó đến châu Âu trong các dạng như alfferza, fers v.v. nhưng sau đó được thay thế thành "hậu".
+Trò chơi này đã phổ biến trong thế giới Hồi giáo sau khi những người theo đạo Hồi xâm lược Ba Tư. Cờ vua đến Nga theo đường Mông Cổ mà tại đó người ta chơi cờ vua từ đầu thế kỷ 7. Nó đã được người Moor đưa vào Tây Ban Nha trong thế kỷ 10, và đã được miêu tả trong bản viết tay nổi tiếng thế kỷ 13 về cờ vua, cờ thỏ cáo và trò chơi xúc xắc có tên gọi Libro de los juegos. Cờ vua cũng đi theo đường bộ xuyên qua Siberi tới Alaska.
+
+
+== Nguyên lý chơi ==
+
+
+=== Các quy tắc của cờ vua ===
+
+Để có thêm chi tiết về chủ đề này, xem Quy tắc cờ vua.
+Khi một ván cờ vua bắt đầu, một người chơi sẽ cầm quân đen và người chơi còn lại cầm quân trắng. Việc chọn lựa ai sẽ cầm quân đen hay trắng phụ thuộc vào thể thức chơi là giải trí hay thi đấu trong hệ thống có tổ chức. Nó có thể là do hai người thỏa thuận (giải trí) hoặc do quyết định của trọng tài trong giải đấu [1]. Bên cầm quân trắng luôn luôn được đi trước và do đó có một ưu thế nhỏ so với bên cầm quân đen. Các quân cờ cần phải xếp trên bàn cờ tiêu chuẩn với ô nằm ở hàng cuối cùng bên tay phải người chơi bao giờ cũng có màu nhạt.
+Các quân cờ có nước đi khác nhau.
+Xe (ký hiệu quốc tế R - Rook) di chuyển theo các đường thẳng dọc theo cột hay hàng tới ô còn trống mà không có quân nào cản trên đường đi hay tới ô bị quân đối phương chiếm giữ (ăn quân) nhưng không thể vượt qua quân đang đứng ở ô đó. Ngoại lệ duy nhất là trường hợp nhập thành. Khi đó nó có thể nhảy qua quân Vua của mình để đứng cạnh nó. Chỉ có Xe mới có nước đi như thế. Xem thêm nhập thành.
+Tượng (ký hiệu quốc tế B - Bishop) di chuyển theo đường chéo tới ô có cùng màu với nguyên lý tương tự như Xe tới ô còn trống hay ô bị quân đối phương chiếm giữ (ăn quân).
+Hậu (ký hiệu quốc tế Q - Queen) có nước đi là tổ hợp đơn giản của chuyển động của Xe và Tượng. Trong một nước đi nó có thể di chuyển theo đường chéo hoặc đường thẳng dọc theo cột hay hàng, với nguyên lý đi và ăn quân giống như Tượng và Xe.
+Mã (ký hiệu quốc tế N - Knight) có thể di chuyển tới ô còn trống hay ô bị quân đối phương chiếm giữ (ăn quân) theo dạng hình chữ L (hình chữ nhật 3×2 hay 2×3). Quân Mã không bị cản như trong cờ tướng.
+Tốt (không cần ký hiệu) có thể di chuyển thẳng về phía trước chỉ một ô một lần tới ô còn trống (đi mà không ăn quân), nhưng khi di chuyển quân để ăn quân đối phương thì đi chéo. Ví dụ, Tốt trắng tại ô c4 có quyền ăn quân đối phương tại b5 hoặc d5 nếu một trong hai ô này có quân đối phương chiếm hoặc di chuyển xuống ô c5 nếu ô này còn trống, trừ hai trường hợp sau:
+Nó có thể di chuyển 1 hoặc 2 ô nếu nó đi từ vị trí xuất phát ban đầu tới ô chưa bị chiếm giữ, nhưng không thể nhảy qua một quân khác để tới ô đó. Ví dụ Tốt trắng tại g2 có thể đi tới g3 hoặc g4 nếu đây là nước đi đầu tiên của nó và các ô này chưa bị chiếm giữ, nhưng nó không thể đi tới g4 nếu ô g3 đã có một quân nào đó chiếm giữ.
+Trong trường hợp khi một quân Tốt nào đó của bên trắng đạt tới hàng 5 (ví dụ tới ô e5) và quân Tốt thuộc một trong hai cột của bên đen nằm ngay bên cạnh cột mà Tốt trắng này đang chiếm giữ (trong trường hợp đã cho là cột d và cột f) đi từ vị trí xuất phát đầu tiên (d7 hay f7) nhảy liền 2 ô tới ô d5/f5 thì Tốt trắng tại vị trí e5 ngay tại nước đi sau đó có quyền ăn Tốt đen tại ô d5/f5 và di chuyển tiếp tới ô d6/f6. Quyền này sẽ tự động mất, nếu tại nước đi ngay sau đó quân trắng di chuyển quân khác. Tương tự như vậy cho Tốt đen khi nó đã chiếm giữ hàng 4. Đây là trường hợp mà trong cờ vua người ta gọi là bắt tốt qua đường (en passant).
+Tốt còn một đặc điểm nữa là khi nó di chuyển đến hàng cuối cùng thì người chơi có quyền phong cấp cho nó thành bất kỳ quân nặng hay nhẹ nào (Hậu, Xe, Tượng, Mã).
+Vua (ký hiệu quốc tế là K - King) là quân quan trọng nhất, nếu mất Vua thì người chơi thua cuộc. Mỗi lần đi nó có thể ăn quân hoặc di chuyển sang các ô bao quanh ô mà nó hiện tại đang chiếm giữ, nhưng không thể tới ô mà quân của mình đang chiếm giữ hay các ô bị quân đối phương kiểm soát. Ngoại lệ duy nhất là trường hợp nhập thành. Khi đó nó có thể di chuyển qua hai ô đồng thời với việc di chuyển quân Xe của mình để quân Xe đó đứng bên cạnh nó về phía cột trung tâm. Ký hiệu của nhập thành là 0-0 (nhập thành gần) và 0-0-0 (nhập thành xa). Xem thêm nhập thành.
+Lưu ý: Khi thực hiện nhập thành trên thực tế, theo luật của FIDE, bao giờ cũng phải di chuyển Vua trước và thực hiện bằng một tay duy nhất.
+
+Khi ăn quân đối phương, quân tấn công sẽ di chuyển tới ô đó và thay thế cho quân đối phương tại vị trí này, bắt tốt qua đường (en passant) là ngoại lệ duy nhất. Quân bị ăn được loại ra khỏi bàn cờ. Vua không thể không bảo vệ khỏi nước chiếu, do đó khi bị chiếu thì người chơi phải thực hiện các biện pháp nhằm cứu Vua (di chuyển Vua khỏi vị trí bị chiếu, ăn quân đang chiếu hay dùng quân khác của mình cản đường chiếu nếu có thể). Nếu không thể có nước đi để cứu Vua thì người chơi bị chiếu bí và thua cuộc.
+Các ván cờ không phải bao giờ cũng kết thúc bằng chiếu bí. Có thể một bên xin thua, có thể thua do hết giờ hoặc phạm luật chơi. Có thể xảy ra các ván cờ hòa. Một ván cờ vua là hòa khi: do thỏa thuận của hai bên do không bên nào dám mạo hiểm hay khi không đủ lực lượng để chiếu hết, rơi vào trạng thái hết nước đi (stalemate), cả hai bên lặp lại nước đi ba lần hay luật 50 nước đi (perpetual check).
+
+
+=== Chiến lược và chiến thuật ===
+Để có thêm chi tiết, xem Chiến lược và chiến thuật cờ vua.
+Khai cuộc là một loạt các nước đi lúc bắt đầu chơi, thông thường là được ghi nhớ sẵn, điều này giúp cho người chơi xây dựng các thế đứng và phát triển quân để chuẩn bị cho giai đoạn trung cuộc. Các thế khai cuộc thông thường được xây dựng trên nguyên tắc chiếm giữ phần trung tâm bàn cờ (gồm 4 ô trung tâm e4, e5, d4 và d5), phát triển quân, bảo vệ vua và tạo ra một cấu trúc tốt đủ mạnh. Quan điểm của cờ vua hiện đại cho rằng việc kiểm soát trung tâm không chỉ là bằng các Tốt mà còn nhờ sức mạnh của các quân khác. Một cách rất quan trọng để bảo vệ Vua và triển khai nhanh quân Xe là nhập thành nhằm đưa Vua vào vị trí khó bị tấn công, tuy nhiên không phải trong bất kỳ ván cờ nào cũng cần nhập thành. Xem thêm Danh sách các khai cuộc cờ vua để có thêm thông tin.
+
+Việc lượng giá quân cờ là một phần quan trọng khi thực hiện việc đổi quân trong cờ vua. Các lượng giá khác nhau không đáng kể trong các sách dạy chơi cờ vua, nhưng nói chung thì người ta cho rằng Hậu trị giá 9 điểm, Xe trị giá 5 điểm, Tượng và Mã đều trị giá 3 điểm và Tốt trị giá 1 điểm. Do việc mất Vua tương đương với thua cờ nên giá trị của nó là vô hạn, trong cờ tàn nó khoảng 3,5 điểm. Trong lập trình cờ vua, thường người ta cho Vua một giá trị rất lớn nào đó (chẳng hạn 2000 điểm). Giá trị thực sự và tầm quan trọng của quân cờ thực ra là không thể chỉ gán đơn giản như vậy do nó còn phụ thuộc vào thế cờ. Ví dụ một quân Xe đang nằm ở vị trí xấu không có giá trị bằng một con Mã đang có thế đứng tốt. Nếu một người chơi thực hiện việc thí quân (cho phép đối phương bắt quân có trị giá cao của mình) thì thông thường họ sẽ bỏ qua các giá trị danh định dành cho quân đó để đổi lấy các ưu thế về chiến lược hay ưu thế về vị trí của các quân đang tấn công.
+Một số nguyên lý cơ bản về thế cờ phổ biến đối với phần lớn các chiến thuật cờ và bẫy cờ như: Nĩa [còn gọi là đòn đôi] (tiếng Anh: fork) là một tình huống khi một quân di chuyển tới vị trí mà nó uy hiếp hai hay nhiều quân của đối phương cùng một lúc. Nó thông thường là rất khó cho đối phương để bảo vệ cả hai quân của mình trong cùng một nước đi. Ghim [còn gọi là giằng quân] (tiếng Anh: pin) cũng có thể sử dụng để ngăn chặn đối phương di chuyển quân bằng cách đe dọa gián tiếp bất kỳ quân nào đứng sau quân bị ghim nếu quân bị ghim đó di chuyển. Xiên (tiếng Anh:skewer) là một tình huống ngược với ghim khi quân có giá trị cao hơn đang bị tấn công và nó lại đứng trước quân ít giá trị. Một loại hình khác là một quân di chuyển ra khỏi vị trí mà nó đang đứng để mở đường cho quân khác tấn công gọi là "mở đường bắt quân". Các nguyên lý chiến thuật khác còn có: nước trung gian (dịch của zwischenzug trong tiếng Đức, có nghĩa là khi một bên đe dọa tấn công một mục tiêu nào đó, thay vì bảo vệ mục tiêu thì đối phương phản công vào mục tiêu khác nhằm giảm áp lực lên các quân đang bị tấn công của mình), xói chân (tức là khi quân đối phương được bảo vệ bằng ít lực lượng hơn so với lực lượng tấn công thì người ta thường tìm cách đổi quân để thu được ưu thế về lực lượng, chủ yếu là đánh vào các quân bảo vệ để đánh mất sự ràng buộc bảo vệ của chúng), quá tải (tức là khi một quân bị hãm vào thế phải chống đỡ và bảo vệ nhiều mục tiêu) và che mặt (khi người chơi di chuyển một quân vào vị trí mà nếu đối phương bắt quân đó bằng bất kỳ quân nào đều dẫn đến tình trạng mà lực lượng của người đó sẽ có lợi thế hơn hẳn trong các nước đi tiếp sau đó như phong Tốt thành Hậu, bắt được quân có giá trị hơn do nó đã bị mất sự bảo vệ).
+Trong quá trình tàn cuộc các Tốt và Vua trở nên tương đối mạnh hơn do khi đó lực lượng quân nặng và nhẹ của cả hai bên đều suy giảm rõ rệt. Cả hai bên khi đó đều có xu hướng di chuyển Tốt thật nhanh nhằm phong cấp cho nó. Nếu một người chơi có ưu thế rõ rệt về lực lượng thì việc chiếu bí chỉ là vấn đề thời gian và ván cờ sẽ kết thúc nhanh chóng, nhưng nếu ván cờ là tương đối cân bằng về lực lượng thì việc nắm chiến thuật cờ tàn là rất quan trọng. Trong các giải cờ tính giờ thì việc kiểm soát nhịp độ (thời gian cho mỗi nước đi) là cực kỳ quan trọng khi còn ít quân trên bàn cờ. Trong nhiều trường hợp, người chơi có ưu thế về lực lượng nhưng lại thua cờ do hết thời gian. Ngoài ra khi lực lượng không đủ để chiếu bí và cả hai đã thực hiện đủ số nước đi quy định theo thời gian mà không có sự di chuyển quân Tốt thì ván cờ dẫn đến hòa. Ví dụ người chơi còn 1 Vua và 2 Mã thì trong phần lớn các trường hợp không thể chiếu bí đối phương chỉ còn 1 Vua (có một thế ngoại lệ).
+
+
+=== Các biến thể của hình thức chơi ===
+Bên cạnh thể thức chuẩn của cờ vua còn phổ biến nhiều thể thức khác trong các cuộc chơi cờ.
+Cờ nhanh là một thể thức của cờ vua trong đó thời gian chơi bị giới hạn cho mỗi người chơi trong một khoảng ngắn. Nói chung mỗi bên chỉ có từ 3 đến 15 phút (5 phút là phổ biến nhất) cho toàn bộ các nước đi. Thể thức nhanh hơn là cờ chớp. Thời gian ở đây ít hơn 3 phút. Cờ nhanh đòi hỏi người chơi phải suy nghĩ nhanh nếu không họ có thể thua vì hết giờ. Khi chơi cờ nhanh các máy tính có ưu thế hơn so với người.
+Khi hai người ở xa nhau họ vẫn có khả năng chơi cờ với nhau. Cờ thư tín là loại hình cờ vua được chơi thông qua thư từ, thư điện tử hay các máy chủ cờ vua thư tín đặc biệt. Ngày nay, cờ vua thông thường được chơi trên Internet thông qua Câu lạc bộ cờ vua Internet, Yahoo! Games hay các máy chủ khác.
+
+
+== Cờ vua hiện đại ==
+
+Ban đầu các quân cờ của người châu Âu có nhiều giới hạn về nước đi. Tượng chỉ có thể đi bằng cách nhảy chính xác qua 2 ô theo đường chéo, Hậu chỉ có thể di chuyển theo đường chéo là một ô, Tốt không thể di chuyển 2 ô trong nước đi đầu tiên của nó và không có nhập thành. Cuối thế kỷ 15, các quy tắc hiện đại đối với các nước đi cơ bản đã được chấp nhận từ Ý: quân Tốt có khả năng đi hai ô nếu đang ở vị trí xuất phát (nhảy) và khả năng bắt quân theo kiểu "bắt tốt qua đường" (en passant), Tượng có được nước đi như ngày nay và Hậu đã trở thành quân mạnh nhất; do đó cờ vua hiện đại được nói đến như là "cờ của quân Hậu", "cờ Hậu điên". Trò chơi này kể từ đó đã gần giống như cờ ngày nay. Các quy tắc hiện nay đã được hoàn thiện xong vào đầu thế kỷ 19, ngoại trừ các điều kiện chính xác là một cờ hòa.
+Thiết kế quân cờ phổ biến nhất là bộ cờ "Staunton", được Nathaniel Cook tạo ra năm 1849, được một kì thủ hàng đầu vào thời đó là Howard Staunton phổ biến và được Liên đoàn cờ vua thế giới chính thức công nhận năm 1924.
+Tổ chức quốc tế về cờ là FIDE, đã tổ chức giải vô địch thế giới trong hàng chục năm. Xem Giải vô địch cờ vua thế giới để có thêm chi tiết và hiểu sâu thêm về lịch sử của nó. Phần lớn các quốc gia cũng có tổ chức cờ vua quốc gia. Mặc dù hiện nay cờ vua không phải là một môn thể thao trong Thế vận hội, nhưng nó có Thế vận hội cờ vua riêng (Olympiad cờ vua), tổ chức 2 năm một lần theo thể thức thi đấu đồng đội.
+
+
+== Ký hiệu ==
+Cho đến những năm 1970, ít nhất là tại các nước nói tiếng Anh, các cuộc đấu cờ vua được ghi chép lại và xuất bản bằng cách sử dụng ký hiệu cờ vua miêu tả. Nó đã được thay thế bằng ký hiệu cờ vua đại số cô đọng hơn. Một số loại ký hiệu khác đã được sinh ra, dựa trên cơ sở ký hiệu cờ vua đại số, để ghi chép các ván cờ trong các định dạng phù hợp với các xử lý trên máy tính. Trong số đó, Portable Game Notation (PGN, Ký pháp trận đấu khả chuyển) là phổ biến nhất. Bên ngoài việc ghi lại các ván cờ còn có ký hiệu Forsyth-Edwards để ghi lại các thế đặc biệt. Nó có ích nhằm tạm hoãn ván cờ để có thể hồi phục lại sau này hoặc để chuyển các vấn đề về thế cờ mà không cần có biểu đồ.
+
+
+== Cờ vua trên máy tính ==
+
+Bài chính: Cờ vua máy tính
+Đã từng là trò chơi trí tuệ chỉ dành cho con người, ngày nay cờ vua được cả người lẫn máy tính chơi. Đầu tiên, việc máy tính chơi cờ chỉ là điều hiếu kỳ, nhưng hiện nay các chương trình cờ vua tốt nhất - như Shredder, Fritz v.v. - đã trở nên mạnh hơn con người, đặc biệt là trong cờ nhanh, kể cả khi nó được chạy trên các máy tính thông thường.
+Garry Kasparov, khi còn là số một thế giới về cờ vua, đã chơi một trận đấu 6 ván với máy tính chơi cờ của IBM có tên gọi là Deep Blue trong tháng 2 năm 1996. Deep Blue đã gây sốc cả thế giới khi thắng ván đầu tiên trong Deep Blue - Kasparov, 1996, Ván 1, nhưng Kasparov đã thắng trận khi thắng 3 và hòa 2 ván tiếp theo.
+Trận tái đấu 6 ván diễn ra tháng 5 năm 1997 đã có phần thắng nghiêng về máy (về thực tế là một Deep Blue cải tiến) và sau đó IBM tuyên bố cho nghỉ. Trong tháng 10 năm 2002, Vladimir Kramnik đã hòa trong một trận đấu 8 ván với chương trình Deep Fritz. Năm 2003, Kasparov hòa cả trận 6 ván với chương trình Deep Junior trong tháng 2, và trận 4 ván với X3D Fritz trong tháng 11.
+Máy tính chơi cờ Hydra là hậu duệ có trí tuệ của Deep Blue; và có lẽ nó mạnh hơn Deep Blue. Tháng 6 năm 2005, Hydra đã thắng oanh liệt trên số 7 thế giới khi đó là đại kiện tướng Michael Adams trong một trận đấu 6 ván với tỷ số 5,5-0,5.
+Thất bại của Kasparov trước Deep Blue đã sinh ra một ý tưởng sáng tạo những biến thể cờ vua trong đó trí tuệ con người có thể vượt trội so với khả năng tính toán của máy tính và cố gắng của lập trình viên. Cụ thể là Arimaa, cũng được chơi trên bàn cờ tiêu chuẩn 8×8, là một loại trò chơi mà trong đó con người có thể đánh bại những cố gắng cao nhất của các lập trình viên, thậm chí ngay cả khi chơi rất nhanh.
+
+
+== Các biến thể của cờ vua ==
+Để có thêm thông tin, xem Biến thể cờ vua.
+Các biến thể của cờ vua được tạo ra từ cờ vua nhưng ở đây trò chơi này được chơi trên các bàn cờ khác, đặc biệt là quân cờ kỳ dị hay các quy luật khác. Có trên 1.500 biến thể khác nhau. Bobby Fischer nhấn mạnh tầm quan trọng các biến thể và đã phát minh ra Cờ vua ngẫu nhiên Fischer (FRC) trong lễ khai mạc cờ vua thông thường năm 1996. Cờ vua ngẫu nhiên Fischer và các biến thể khác với các vị trí khởi đầu khác nhau được tạo ra bằng cách xáo trộn vị trí nguyên thủy cho từng ván. Xem thêm Danh sách các biến thể.
+
+
+== Xem thêm ==
+Cờ tướng
+Ván cờ mẫu giải thích về cờ vua thông qua các minh họa đơn giản.
+Thuật ngữ cờ vua
+Cờ thế và Câu đố cờ vua
+Những cách chơi cờ vua: Cờ thư tín, Cờ nhanh, Cờ chớp nhoáng, Cờ chấp cây, Cờ chấp nước, Đánh nhiều người, Cờ mù, Cờ người
+Các máy chủ Internet chơi cờ vua: Câu lạc bộ cờ vua Internet, FICS, InstantChess.com, ChessWorld.net
+Hệ số ELO
+Các tổ chức hành chính:
+Liên đoàn Cờ vua Quốc tế (FIDE)
+Hiệp hội Cờ vua Chuyên nghiệp (PCA) (do Kasparov lập nên để ly khai FIDE)
+Liên đoàn Cờ vua Anh
+Liên đoàn Cờ vua Mỹ
+
+Các ký hiệu cờ vua trong Unicode
+Cờ vua và toán học
+Danh sách các chủ đề cờ vua
+Danh sách các giải vô địch cờ vua quốc gia
+
+
+=== Các ván cờ nổi tiếng ===
+Bowdler - Conway, London, 1788, thí dụ nổi tiếng về thí hai Xe.
+Ván cờ bất tử giữa Adolf Anderssen và Lionel Kieseritzky (1851)
+Ván cờ vĩnh cửu giữa Adolf Anderssen và Jean Dufresne (1852)
+Ván cờ Opera giữa Paul Morphy và hai người, Karl-công tước xứ Brunswick người Đức và nhà quý tộc Pháp Count Isouard (1858)
+Lasker - Bauer, Amsterdam, 1889, thí dụ nổi tiếng về thí hai Tượng.
+Ván cờ thế kỷ giữa Bobby Fischer và Donald Byrne (1956)
+Trận đấu thế kỷ giữa Bobby Fischer và Boris Spassky, 1972.
+Deep Blue - Kasparov, 1996, Ván 1.
+Deep Blue - Kasparov, 1997, Ván 6.
+Kasparov chống lại Thế giới, trong đó nhà vô địch khi đó chơi theo đường Internet, chống lại phần còn lại của thế giới năm 1999.
+Kasparov - Topalov, Wijk aan Zee, 1999, thí xe với 15+ nước tổ hợp hy sinh bắt buộc.
+
+
+=== Lịch sử của cờ vua ===
+Lịch sử cờ vua
+Giải vô địch cờ vua thế giới
+Các nhà chơi cờ vĩ đại nhất
+Nguồn gốc cờ vua
+Cờ vua trong văn học
+Cờ vua trong văn học Ả Rập
+Lý thuyết Cox-Forbes
+
+Cờ vua tại châu Âu
+Thế vận hội cờ vua
+Các kỷ lục thế giới về cờ vua
+
+
+=== Các nhà vô địch cờ vua thế giới ===
+Bài chính: Giải vô địch cờ vua thế giới
+Không chính thức nhưng được công nhận rộng rãi như là nhà vô địch (thời kỳ trước khi có giải vô địch):
+Philidor
+Howard Staunton
+Adolf Anderssen
+Paul Morphy
+Các nhà vô địch chính thức (của FIDE):
+Wilhelm Steinitz
+Emanuel Lasker
+José Raúl Capablanca
+Alexander Alekhine
+Max Euwe
+Mikhail Botvinnik
+Vassily Smyslov
+Mikhail Tal
+Tigran Petrosian
+Boris Spassky
+Bobby Fischer
+Anatoly Karpov
+Garry Kasparov
+Vladimir Kramnik
+Viswanathan Anand
+Magnus Carlsen
+Các nhà vô địch thế giới của PCA:
+Garry Kasparov
+Vladimir Kramnik
+Các nhà vô địch thế giới của FIDE thời hậu-Kasparov:
+Alexander Khalifman
+Viswanathan Anand
+Ruslan Ponomariov
+Rustam Kasimdzhanov
+Veselin Topalov
+Năm 2006 FIDE đã tổ chức trận đấu thống nhất các danh hiệu vô địch cờ vua giữa vô địch cờ truyền thống Vladimir Kramnik và Veselin Topalov. Kết quả là Vladimir Kramnik đã chiến thắng bằng cờ nhanh sau khi hoà cờ chính thức 6-6 để giành ngôi vô địch thế giới thống nhất lần đầu tiên.
+
+
+=== Luật cờ vua ===
+Luật Cờ vua FIDE áp dụng cho mọi cuộc đấu trên bàn cờ. Văn bản bằng tiếng Anh là văn bản gốc của Luật Cờ Vua, được thông qua tại Hội nghị FIDE lần thứ 71 tại Istanbul (Thổ Nhĩ Kỳ) vào tháng 11 năm 2000 và có hiệu lực từ ngày 01 tháng 7 năm 2001.
+Xem tại đây.
+
+
+=== Các sách, báo về cờ vua ===
+Các bài báo về cờ vua
+Các thư viện cờ
+Tập hợp các ván cờ
+Hướng dẫn khai cuộc
+
+
+== Tham khảo ==
+
+^ Hướng dẫn cờ vua của Mark Weeks tại About.com
+Tarrasch, Siegbert (1994). The Game of Chess, Algebraic Edition. Hays Publishing. ISBN 1-880673-94-0. 
+Wolff, Patrick (1991). The Complete Idiot's Guide to Chess (ấn bản 3). Alpha Books. ISBN 1-59257-316-9. 
+Hooper, David; Whyld, Kenneth (1992). The Oxford Companion to Chess (ấn bản 2). Nhà xuất bản Đại học Oxford. ISBN 0-19-866164-9. 
+Tái bản: (1996) ISBN 0-19-280049-3
+
+
+=== Tổng quan ===
+Lý thuyết khai cuộc trong sách Wiki về cờ vua
+Website chính thức của FIDE
+Các quy tắc chính thức của FIDE
+Website chính thức của ECU
+Liên đoàn Cờ Việt Nam
+The International Correspondence Chess Federation
+Free Internet Correspondence Chess & Go Server
+Liên đoàn cờ vua Mỹ
+Liên đoàn cờ vua máy tính Thụy Điển
+Tin tức cờ vua của Chessbase
+Tạp chí cờ vua của Anh
+Giải quyết các vấn đề tương tác trong cờ vua
+Chú giải các ván và các bài giảng của các kiện tướng
+Trang về các biến thể cờ vua
+Các quân cờ vua kỳ dị của Tim Krabbé
+Trang cờ vua Ed's Ever - bài giảng, các vấn đề, biếm họa, hài hước, ảnh, câu đố v.v.
+WikiTeX chess - Hỗ trợ sửa các ván cờ trực tiếp trong các bài Wiki.
+Công cụ cờ vua cho người lập Web
+Liên đoàn trò chơi máy tính quốc tế
+Nghệ thuật cờ vua
+Lưu trữ cờ vua của Pitt Chess
+Tin mới về cờ vua và chơi cờ trí tuệ nhân tạo (AI)
+Đánh cờ như thế nào? Dành cho những người tập chơi.
+Ảnh về bàn và quân cờ. Ảnh để sử dụng tự do trong các ấn phẩm và các website về cờ vua.
+
+
+=== Các phần mềm có thể tải về ===
+Chủ yếu tại SCID,PGN hay CBF.
+Trực tuyến theo năm, người chơi, khai cuộc cho các ván cờ v.v.
+Tìm kiếm theo khai cuộc, người chơi, kết quả, vị trí v.v
+Các thể loại trò chơi theo mã của ECO. (tiếng Pháp)
+Tìm các ván cờ gần đây nhất
+Sách khai cuộc của Chessbase
+Các nguồn sử dụng
+Lưu trữ về cờ vua của International Correspondance Chess Federation.
+
+
+== Xem thêm ==
+Cờ tướng
+Cờ cá ngựa
+Cờ tư lệnh
+Cờ úp
+Shogi
+Cờ vây
+Renju (cờ ca rô)
+
+
+== Liên kết ngoài ==

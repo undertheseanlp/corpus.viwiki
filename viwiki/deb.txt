@@ -1,0 +1,47 @@
+DEB hay .deb là phần mở rộng của định dạng đóng gói phần mềm Debian và cũng là tên thường gọi cho các gói nhị phân tương tự. Giống như phần "Deb" của thuật ngữ Debian, nó bắt nguồn từ tên gọi của Debra, là bạn gái và bây giờ vợ cũ của người sáng lập của Debian là Ian Murdock.
+Các gói tin Debian cũng được sử dụng trong các bản phân phối dựa trên Debian, chẳng hạn như Ubuntu và những bản phân phối khác.
+
+
+== Thiết kế ==
+
+Các gói tin Debian tuân theo chuẩn nén ar của Unix bao gồm 2 file nén tar. Một lưu giữ các thông tin điều khiển và một chứa dữ liệu cài đặt.
+dpkg cung cấp các tính năng cơ bản cho cài đặt và thao tác với các file.deb. Thông thường, người dùng cuối không trực tiếp quản lý các gói tin với dpkg thay vào đó là trình quản lý gói tin APT hoặc các APT front-ends như synaptic hay KPackage.
+Các gói Debian có thể được chuyển đổi thành các gói khác và ngược lại bằng cách dùng alien, và tạo ra từ mã nguồn bằng cách sử dụng CheckInstall hoặc Debian Package Maker.
+Một số lõi gói Debian có sẵn như là udeb ("micro debs"), à thường được sử dụng để khởi tạo một cài đặt Debian. Mặc dù những file này sử dụng phần mở rộng tên file là udeb, chúng tuân thủ các đặc điểm kỹ thuật cấu trúc tương tự như các tập tin deb thông thường. Tuy nhiên, không giống như các đối tác deb, các gói udeb chỉ chứa các file chức năng cần thiết. Trong đó, các tập tin tài liệu thường được loại bỏ. Các gói udeb không được cài đặt vào hệ thống Debian tiêu chuẩn.
+
+
+== Thực hiện ==
+Từ Debian 0.93, một tập tin deb được thực hiện như một file nén ar. Nội dung kinh điển của kho lưu trữ này gồm ba tập tin::
+debian-binary: số phiên bản của đin dạng deb. Nó là"2.0" cho phiên bản hiệ tại của Debian.
+control.tar.gz: tất cả các gói siêu thông tin. Nó thông báo với dpkg cấu hình khi các gói phần mềm đang được cài đặt.
+data.tar, data.tar.gz, data.tar.bz2, data.tar.lzma or data.tar.xz: các file cài đặt thực tế.
+Các file nhị phân debian phải là mục đầu tiên trong kho lưu trữ, nếu không nó sẽ không được công nhận là một gói phần mềm Debian.
+
+
+== Xem thêm ==
+Danh sách định dạng nén
+AppStream
+Debian
+Getdeb
+dpkg
+PackageKit
+RPM Package Manager
+CheckInstall
+SuperDeb
+jigdo
+
+
+== Liên kết ngoài ==
+Debian Policy Manual
+Debian FAQ: Basics of the Debian package management system
+Article on what to do with deb files
+JDeb Cross platform Ant task và Maven plugin to build Debian packages.
+ant-deb-task An Ant task that allows you to create Debian.deb packages on any platform where Java is available.
+How to create / manipulate a.deb file of a compiled application
+How to make deb packages
+Debian Binary Package Building HOWTO
+Building Debian packages
+Debian binary package and unofficial repository howto
+
+
+= Chú thích =

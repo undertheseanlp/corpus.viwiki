@@ -1,0 +1,37 @@
+Windows Live Mail (trước đây có tên Windows Live Mail Desktop) là một chương trình đọc e-mail trong nhóm sản phẩm Windows Live của Microsoft. Microsoft dự định dùng nó để thay thế cho Outlook Express trên Windows XP và Windows Mail trên Windows Vista. Nó sẽ có nhiều tính năng bao gồm cả các tính năng của Windows Mail và khả năng tích hợp với Windows Live Hotmail.
+
+
+== Tổng quan ==
+Windows Live Mail đang được phát triển bởi đội ngũ đã viết Windows Mail. Theo bài viết trên blog của một nhân viên Microsoft vào ngày 3 tháng 3, 2006  nó sẽ gồm tất cả các tính năng mới trong Windows Mail, đồng thời còn có các tính năng sau:
+Phong cách trình bày đồng nhất với Windows Live
+Đồng bộ hóa với Windows Live Contacts
+Hỗ trợ feed RSS, tính năng này đòi hỏi phải sử dụng tính tương thích RSS của Internet Explorer 7, bao gồm khả năng trả lời trực tiếp thông qua email đến tác giả của mục xuất hiện trong RSS feed, cũng như kết hợp nhiều feed vào trong một thư mục
+Danh sách thư nhiều dòng, giống như trong Outlook
+Sử dụng biểu tượng vui trong email và các chức năng khác
+Kiểm tra chính tả
+Những thư mục thư đến khác nhau cho những tài khoản POP khác nhau
+Hỗ trợ thư có hình ảnh tốt hơn (PhotoMail)
+Phiên bản công cộng của Windows Live Mail đã được phát hành cho các nước Hoa Kỳ, Anh, Ấn Độ, Pháp, Nhật, Đức, Trung Quốc và Tây Ban Nha.
+
+
+== Bản mới nhất ==
+Bản beta công cộng hiện nay của phần mềm là 12.0.1184. Giao diện đã có nhiều tiến bộ, bao gồm cửa sổ đăng nhập mới. Cũng có những thay đổi so với bản thử nghiệm trước và có thể sẽ có mặt trong phiên bản chính thức, bao gồm:
+Hỗ trợ Windows Aero trong Windows Vista
+Cài đặt và tích hợp Windows Live mới
+Giống với Outlook Express và Windows Mail hơn
+Hiệu suất và độ ổn định đã được tăng cường
+Không có quảng cáo (Active Search vẫn kèm theo nhưng có thể tắt kích hoạt)
+
+
+== Xem thêm ==
+Windows Live
+Windows Live Hotmail
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+"More than mail" — Nhóm viết blog Windows Live Mail
+Các ảnh chụp màn hình khác của Windows Live Mail
+TECH REVIEW - Windows Live Mail Desktop Review

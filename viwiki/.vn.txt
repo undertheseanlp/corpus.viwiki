@@ -1,0 +1,69 @@
+.vn là tên miền quốc gia cấp cao nhất (ccTLD) và là tên miền cấp 2 của Việt Nam.
+Trước năm 2007, tên miền.vn được cung cấp chủ yếu bởi VNNIC (VNNIC). Từ đầu năm 2007, VNNIC đã chuyển giao việc đăng ký tên miền.vn cho một số nhà cung cấp dịch vụ khác để tập trung vào công tác quản lý. Từ ngày 30 tháng 9 năm 2007 trở đi các tên miền.vn sẽ được duy trì qua các nhà cung cấp này. Danh sách các nhà đăng ký được đăng trên trang chủ của VNNIC.
+Các tên miền dùng chung dưới tên miền cấp 2 được gọi là tên miền cấp 3 và được phân loại như dưới đây:
+
+
+== Các tên miền cấp 3 phổ biến ==
+Tên miền cấp 3 là tên miền dưới ".vn" bao gồm tên miền cấp 3 không phân theo lĩnh vực và tên miền cấp 3 dùng chung (gSLD) phân theo lĩnh vực, những tên miền khác do Bộ Thông tin và Truyền thông quy định:
+com.vn Dành cho tổ chức, cá nhân hoạt động thương mại.
+biz.vn Dành cho các tổ chức, cá nhân hoạt động kinh doanh, tương đương với tên miền COM.VN.
+edu.vn Dành cho các tổ chức, cá nhân hoạt động trong lĩnh vực giáo dục, đào tạo.
+gov.vn Dành cho các cơ quan, tổ chức nhà nước ở trung ương và địa phương.
+net.vn Dành cho các tổ chức, cá nhân hoạt động trong lĩnh vực thiết lập và cung cấp các dịch vụ trên mạng.
+org.vn Dành cho các tổ chức hoạt động trong lĩnh vực chính trị, văn hoá, xã hội.
+int.vn Dành cho các tổ chức quốc tế tại Việt Nam.
+ac.vn Dành cho các tổ chức, cá nhân hoạt động trong lĩnh vực nghiên cứu.
+pro.vn Dành cho các tổ chức, cá nhân hoạt động trong những lĩnh vực có tính chuyên ngành cao.
+info.vn Dành cho các tổ chức, cá nhân hoạt động trong lĩnh vực sản xuất, phân phối, cung cấp thông tin.
+health.vn Dành cho các tổ chức, cá nhân hoạt động trong lĩnh vực dược, y tế.
+name.vn Dành cho tên riêng của cá nhân tham gia hoạt động Internet.
+mil.vn Dành cho các tổ chức quân đội và quốc phòng.
+
+
+== Các tên miền cấp 3 dưới tên miền cấp 2 dùng riêng ==
+Là các tên miền cấp 3 do Nhà đăng ký quản lý và cung cấp ra cộng đồng hoặc sử dụng cho các mục đích riêng. VD:
+idn.vn Internationalized domain name.
+Theo quy định tại điểm 2.2,e) Khoản 2, Mục II Thông tư số 09/2008/TT-BTTTT ngày 24 tháng 12 năm 2008 của Bộ Thông tin và Truyền thông, chỉ có Nhà đăng ký tên miền ".vn" mới được cấp tên miền cấp 3 dưới tên miền cấp 2 ".vn" dùng riêng của mình cho các tổ chức, cá nhân khác.
+1/ Nhà đăng ký tên miền ".vn" muốn cung cấp tên miền cấp 3 dưới tên miền cấp 2 dùng riêng của mình ra cộng đồng phải đăng ký danh sách tên miền cấp 2 cụ thể với VNNIC và chuẩn bị sẵn sàng cơ sở hạ tầng DNS, hệ thống cơ sở dữ liệu quản lý thông tin chủ thể đăng ký tên miền theo quy định tại Điểm 4.2, Khoản 4, Mục II của Thông tư. Việc cấp phát tên miền cấp 3 dưới tên cấp 2 ".vn" dùng riêng chỉ được phép triển khai sau khi VNNIC đã thẩm định, phê duyệt.
+2/ Các Tổ chức muốn cung cấp tên miền cấp 3 dưới tên miền cấp 2 ".vn" dùng riêng của mình ra cộng đồng, phải đăng ký với VNNIC để trở thành Nhà đăng ký tên miền ".vn".
+
+
+== Tên miền tiếng Việt ==
+
+Tên miền tiếng Việt là tên miền.vn có sử dụng ký tự tiếng Việt Unicode. Cho đến trước thời điểm được cấp tự do miễn phí, Tên miền tiếng Việt không có chức năng đầy đủ của tên miền, chỉ có chức năng duy nhất là redirect đến tên miền Việt Nam chính thức. Tên miền tiếng Việt được cấp lần đầu tiên vào tháng 3 năm 2007, cho đến hết năm 2010 mới có 3534 tên miền được cấp phát.
+Kể từ ngày 01/01/2011 Trung tâm Internet Việt Nam (VNNIC) ngừng tiếp nhận các yêu cầu đăng ký tên miền tiếng Việt kèm theo tên miền truyền thống ".vn" để chuẩn bị triển khai cấp tự do, miễn phí tên miền tiếng Việt theo quy định về phí, lệ phí tên miền tại Thông tư số 189/2010/TT-BTC ngày 24/11/2010 của Bộ Tài chính:
+Lộ trình cấp miễn phí tên miền tiếng Việt được thực hiện qua 02 giai đoạn:
+Giai đoạn ưu tiên (sunrise period): Triển khai từ ngày 10 tháng 1 năm 2011 đến hết ngày 27 tháng 4 năm 2011.
+Giai đoạn tự do: Triển khai từ ngày 28 tháng 4 năm 2011.
+Thông tin chi tiết được cung cấp tại Website http://tenmientiengviet.vn, hoặc http://tênmiềntiếngviệt.vn
+Kể từ khi được tách khỏi tên miền truyền thống, tên miền tiếng Việt đã được chú ý và có chỗ đứng riêng, chỉ trong 3 ngày 10, 11, 12 tháng 1 năm 2011, đã có hơn 1000 đơn đăng ký tên miền tiếng Việt được nộp lên VNNIC
+
+
+== Ưu điểm ==
+Theo quy định của Luật Công nghệ thông tin Việt Nam: Tên miền là tài sản quốc gia. Sử dụng tên miền được pháp luật Việt Nam bảo hộ. Chỉ cần cung cấp đầy đủ giấy tờ đăng ký là chủ thể có thể toàn quyền quản lý, hoàn toàn không có chuyện bị đánh cắp tên miền.
+
+
+== Giới hạn ==
+Việc đăng ký tên miền sử dụng mẫu khai, bắt buộc phải có chứng minh thư hoặc hộ chiếu.
+Việc thay đổi thông tin tên miền phải khai báo qua biểu mẫu hoặc thực hiện online.
+
+
+== Xử lý tranh chấp ==
+Luật Công nghệ Thông tin số 67/2006/QH11 ngày 29 tháng 6 năm 2006 của Quốc hội đã quy định về các hình thức giải quyết tranh chấp về đăng ký, sử dụng tên miền quốc gia Việt Nam ".vn" như sau:
+Thông qua thương lượng, hòa giải
+Thông qua Trọng tài thương mại
+Khởi kiện tại Tòa án
+
+
+== Tham khảo thêm ==
+Trung tâm Internet Việt Nam
+Internet tại Việt Nam
+Tên miền tiếng Việt
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+whois của IANA về.vn
+Trung tâm Internet Việt Nam (VNNIC)

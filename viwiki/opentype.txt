@@ -1,0 +1,71 @@
+OpenType là một định dạng phông chữ cho máy tính có thể mở rộng. Nó được xây dựng dựa trên TrueType, giữ lại cấu trúc cơ bản TrueType và thêm nhiều cấu trúc dữ liệu phức tạp trong việc quy định hành vi typographic. OpenType là thương hiệu đã đăng ký của Microsoft Corporation.
+Các đặc điểm kỹ thuật nảy mầm tại Microsoft, Adobe Systems cũng đóng góp đến thời điểm công bố vào năm 1996.
+Bởi vì hỗ trợ nhiều và linh hoạt các typographic, trong đó có quy định để xử lý các hành vi đa dạng của hệ thống văn bản tất cả thế giới, phông chữ OpenType được sử dụng phổ biến hiện nay trên các nền tảng máy tính lớn.
+
+
+== Lịch sử ==
+Nguồn gốc của OpenType đến từ nỗ lực của Microsoft trong việc cấp phép kiểu chữ GX Typography công nghệ nâng cao của Apple trong năm 1990. Cuộc đàm phán thất bại, thúc đẩy Microsoft mô phỏng lại với công nghệ riêng của mình, được gọi là "TrueType Open" năm 1994. Adobe gia nhập cùng Microsoft với các cố gắng trong năm 1996, bổ sung các hỗ trợ cho công nghệ phác thảo hình tượng được sử dụng trong font Type 1 của họ.
+Những nỗ lực này đã của cả Microsoft và Adobe nhằm thay thế cả các định dạng font TrueType của Apple và Type 1 ("PostScript") của Adobe. Cần một định dạng phông chữ biểu cảm hơn để xử lý các kiểu chữ tốt và tính chất phức tạp của nhiều hệ thống chữ viết của thế giới, hai công ty kết hợp các công nghệ cơ bản của cả hai định dạng và thêm phần mở rộng mới nhằm giải quyết những hạn chế với những định dạng. Tên OpenType đã được lựa chọn cho các công nghệ kết hợp, và công nghệ này đã được công bố vào cuối năm đó.
+
+
+=== Open Font Format ===
+Adobe và Microsoft tiếp tục phát triển và hoàn thiện OpenType trong thập kỷ tới. Sau đó, vào cuối năm 2005, OpenType bắt đầu chuyến sang một tiêu chuẩn mở theo Tổ chức Tiêu chuẩn hóa Quốc tế (ISO) cùng với nhóm MPEG, vốn trước đó (năm 2003) đã thông qua OpenType 1.4 bởi các tham chiếu cho MPEG-4. Việc áp dụng các tiêu chuẩn mới đã được thông qua tháng 3/2007 như là ISO Standard ISO/IEC 14496-22 (MPEG-4 Part 22) và được gọi là Open Font Format (OFF, không nên nhầm lẫn với Web Open Font Format). Đôi khi còn được gọi là "Open Font Format Specification" (OFFS). Các tiêu chuẩn ban đầu về kỹ thuật tương đương với các đặc tả của OpenType 1.4, với những thay đổi ngôn ngữ phù hợp tiêu chuẩn ISO. Ấn bản thứ hai của Open Font Format đã được xuất bản trong năm 2009 (ISO / IEC 14496-22: 2009) và đã được tuyên bố là "về kỹ thuật tương đương" với "đặc tả định dạng font OpenType". Từ đó, Open Font Format và đặc tả OpenType tiếp tục được duy trì đồng bộ. OFF là tiêu chuẩn công bố công khai, tự do.
+Đến năm 2001, hàng trăm phông chữ OpenType có trên thị trường. Adobe đã hoàn tất chuyển đổi toàn bộ thư viện chữ của họ sang OpenType vào cuối năm 2002. As of early 2005, đã có khoảng 10,000 fonts OpenType, với các thư viện Adobe bao gồm khoảng một phần ba tổng số. Đến năm 2006, tất cả các phông chữ đúc chủ yếu và nhiều font khác đã phát triển các font trong định dạng OpenType.
+
+
+=== OpenType Collections ===
+Trong năm 2014, Adobe tuyên bố thành lập OpenType Collections (OTCs). Một file OTC (phần mở rộng.otc) bao gồm nhiều file OpenType(phần mở rộng.otf) được đóng gói lại. Điều này cho phép lưu trữ hiệu quả hơn. Ví dụ, file OTC của Noto fonts CJK OTC là ~10MB nhỏ hơn tổng của bốn file OTF riêng biệt mà nó gồm. Ngoài ra, file OTF có thể chứa tối đa 65.535 hình tượng; việc sử dụng một OTC khắc phục hạn chế này.
+
+
+== Miêu tả ==
+
+OpenType sử dụng cấu trúc sfnt của một font TrueType,  nhưng nó bổ sung thêm một số tùy chọn smartfont đó tăng cường khả năng hỗ trợ typographic và ngôn ngữ của font.
+Các dữ liệu phác thảo hình tượng trong một phông chữ OpenType fcó thể là một trong hai định dạng: hoặc định dạng TrueType phác thảo trong một bảng 'glyf', hoặc phác thảo Compact Font Format (CFF) otrong một bảng 'CFF '. (Tên bảng 'CFF' là bốn ký tự, kết thúc bằng một ký tự trắng) Dữ liệu phác thảo CFF được dựa trên ngôn ngữ định dạng font PostScript Type 2. Tuy nhiên, các đặc tả OpenType không hỗ trợ việc sử dụng PostScript phác thảo trong một file font TrueType Collection.
+Đối với nhiều mục đích, chẳng hạn như bố trí, nó không có vấn đề gì với các định dạng dữ liệu phác thảo, nhưng đối với một số mục đích khác, chẳng hạn như rasterisation, nó là đáng kể. Các tiêu chuẩn OpenType không xác định các định dạng dữ liệu phác thảo: đúng hơn, nó thể chứa bất kỳ của một số tiêu chuẩn hiện hành. Đôi khi thuật ngữ như "OpenType (PostScript flavor)", "Type 1 OpenType", "OpenType CFF", hay "OpenType (TrueType flavor)" được sử dụng để chỉ ra các phác thảo định dạng một file font OpenType đặc biệt.
+Chứa các bảng mã ký tự Unicode vì vậy nó có thể hỗ trợ bất kỳ kịch bản viết (hoặc nhiều kịch bản cùng một lúc).
+Chưa lên đến 65,536 glyphs.
+Nâng cao chữ in "bố trí" các tính năng quy định vị trí và thay thế các rendered glyphs. Tính năng thay thế bao gồm các chữ ghép; tính năng định vị bao gồm kerning, vị trí đánh dấu, và đặc điểm kỹ thuật cơ bản.
+Đa nền tảng, có thể được sử dụng mà không cần chỉnh sửa cho Mac OS, Windows và các hệ thống Unix.
+Nếu không có glyphs bổ sung hoặc tính năng typographic mở rộng được thêm vào, font OpenType CFF có thể nhỏ hơn đáng kể hơn so với Type 1 của chúng.
+
+
+== So sánh với các định dạng khác ==
+So với "GX Typography" của Apple—bây giờ được gọi là Apple Advanced Typography (AAT)—và với công nghê Graphite của SIL, OpenType là ít linh hoạt trong lựa chọn typographic, nhưng tốt hơn trong tùy chọn ngôn ngữ liên quan và hỗ trợ. Tuy nhiên, OpenType đã được áp dụng rộng rãi hơn AAT và Graphite, mặc dù AAT là công nghệ cũ.
+Các công nghệ phần mềm tự do Graphite được đóng gói với các máy tính để bàn xuất bản và biên tập tài liệu phần mềm, LibreOffice (nó được bao gồm trong cả các bản phân phối Windows và Linux, nhưng không phải với Mac, đã có sẵn AAT).
+Từ góc nhìn của một nhà phát triển font, OpenType trong nhiều tình huống thông thường là dễ phát triển hơn AAT và Graphite. Đầu tiên, sự thay thế khai bao và định vị đơn giản của OpenType dễ hiểu hơn so với bảng trạng thái phức tạp hơn của AAT hay các mô tả ngôn ngữ tương tự cú pháp của C trong Graphite. Thứ hai, Thứ hai, chiến lược của Adobe cấp phép miễn phí mã nguồn phát triển cho phát triển font chữ riêng của mình, AFDKO (Adobe Font Development Kit for OpenType), cho phép các ứng dụng chỉnh sửa font bên thứ ba như FontLab và FontMaster hỗ trợ dễ dàng. Mặc dù hỗ trợ mã hóa ký tự theo định hướng của Adobe không phải là hình ảnh như một công cụ riêng của Microsoft, VOLT (Visual OpenType Layout Tool),  tích hợp với các công cụ được sử dụng để làm các phông chữ đã được đón nhận.
+khác biệt nữa là một framework hỗ trợ OpenType (giống như Microsoft’s Uniscribe) yêu cầu kiến thức tốt về về các vấn đề xử lý ngôn ngữ đặc biệt để xử lý (ví dụ: tiếng Ả Rập). Với AAT hay Graphite, các nhà phát triển font có để đóng gói tất cả những chuyên môn trong các phông chữ. Điều này có nghĩa rằng AAT và Graphite có thể xử lý bất kỳ ngôn ngữ tùy ý, nhưng nó đòi hỏi phải làm việc nhiều hơn và chuyên môn từ các nhà phát triển font. Mặt khác, phông chữ OpenType là dễ dàng hơn để thực hiện, nhưng chỉ có thể hỗ trợ bố trí văn bản phức tạp nếu các ứng dụng hoặc hệ điều hành biết cách xử lý chúng.
+Trước khi hỗ trợ OpenType, Adobe Adobe thúc đẩy nhiều phông chữ chính và phông chữ chuyên môn cho các kiểu chữ cao cấp. Nhiều font chính thiếu các điều khiển cho glyphs thay thế và các ngôn ngữ được cung cấp bởi OpenType, nhưng cung cấp quá trình chuyển đổi trơn tru giữa các kiểu trong một font family. Font chuyên môn được dự định như font bổ sung, bao gồm tất cả các ký tự đặc biệt không có trong Adobe Standard Encoding – gạch nối, phân số, ký tự nhỏ... – đã được đặt trong các font chuyên môn thay thế. Sử dụng trong các ứng dụng đã khó, với, ví dụ, gõ một Z khiến các chữ ghép tạo thành ffl. In modern OpenType fonts all these glyphs are encoded with their Unicode indices and selection method (i.e. under what circumstances that glyph should be used).
+
+
+== OpenType Feature File (.fea) ==
+OpenType features are tedious to define using a GUI. Consequently, Adobe standardized a text specification format for feature files, which typically have a name ending in a .fea extension. These files can be compiled into the binary font container (.ttf or .otf) using Adobe FDK (AFDKO), FontLab or FontForge. The latter program implements a few features that are documented in the Adobe standard but are not implemented by AFDKO.
+
+
+== Xem thêm ==
+Uniscribe (Engine rendering văn bản đa ngôn ngữ cho Windows)
+Windows Presentation Foundation (Windows API đầu tiên hỗ trợ OpenType gần hàn thiện)
+Apple Type Services for Unicode Imaging (Engine rendering văn bản đa ngôn ngữ cho Macintosh)
+WorldScript (Old Macintosh multilingual text rendering engine)
+Pango (Engine rendering văn bản đa ngôn ngữ mãn nguồn mở)
+XeTeX Một hệ thống sắp chữ miễn phí dựa trên sự hợp nhất TeX with Unicode và công nghệ font Mac OS X.
+International Components for Unicode (Kiến trúc đa ngôn ngữ mã nguồn mở với một thư viện bố trí font)
+Embedded OpenType
+Typography
+Bitstream Panorama
+FreeType
+WOFF (Web Open Font Format), một định dạng font web có chứa một font OpenType với siêu dữ liệu
+Noto fonts
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+The OpenType Specification (Microsoft)
+Adobe – Fonts: OpenType
+Typo.cz Information on Central European typography and fonts
+Diacritics Project — All you need to design a font with correct accents
+Bitstream Panorama: Line layout engine for worldwide text layout, multilanguage, multilingual fonts, and international complex scripts
+D-Type Font Engine and Text Layout Module — Portable software components for OpenType font rasterization and text layout
+Adobe Font Development Kit for OpenType (AFDKO)
+Microsoft TrueType and OpenType Font Development Tools

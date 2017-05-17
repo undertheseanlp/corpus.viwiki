@@ -1,0 +1,13 @@
+Siêu văn bản (tiếng Anh: hypertext) là văn bản của một tài liệu có thể được truy tìm không theo tuần tự. Người đọc có thể tự do đuổi theo các dấu vết liên quan qua suốt tài liệu đó bằng các mối liên kết xác định sẵn do người sử dụng tự lập nên.
+Trong một môi trường ứng dụng siêu văn bản thực sự, người đọc có thể trỏ vào chỗ tô sáng (highlight) bất kì từ nào của tài liệu và tức khắc nhảy đến những tài liệu khác có văn bản liên quan đến nó. Cũng có những lệnh cho phép người đọc tự tạo cho riêng mình những dấu vết kết hợp qua suốt tài liệu. Các trình ứng dụng dùng siêu văn bản rất hữu ích trong trường hợp phải phải làm việc với số lượng văn bản lớn, như các bộ từ điển bách khoa và các bộ sách nhiều tập.
+
+
+== Một số ngôn ngữ siêu văn bản tiêu biểu ==
+HTML (Hypertext Markup Language) - Ngôn ngữ đánh dấu siêu văn bản
+HTML là loại ngôn ngữ dùng để định dạng dữ liệu. Tất cả các trang web bạn đang duyệt đều được tạo nên từ các thẻ HTML. Dù website của bạn được lập trình bằng ngôn ngữ nào đi nữa, thì khi được trả về trình duyệt web, bạn sẽ chỉ nhận được các mã HTML. Ví dụ để định dạng một đoạn văn bản bạn sử dụng cặp thẻ , để xuống dòng bạn sử dụng thẻ </br>
+. HTML cùng với HTTP tạo nên nền móng của một loại dịch vụ mà chúng ta gọi là web như ngày nay.
+XML (Extensible Markup Language) - Ngôn ngữ đánh dấu có thể mở rộng
+Khác với HTML, XML không định nghĩa bất cứ thẻ nào cả. Tất cả các thẻ và ý nghĩa của chúng đều do bạn tạo ra. XML được tạo ra để xác định dữ liệu và do đó được dùng như một công cụ để truyền tải dữ liệu có cấu trúc giữa các ứng dụng, đặc biệt là ứng dụng WEB.
+
+
+== Tham khảo ==

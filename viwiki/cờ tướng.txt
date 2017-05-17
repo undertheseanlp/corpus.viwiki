@@ -1,0 +1,298 @@
+Cờ tướng (chữ Hán gọi là 象棋, phiên âm Hán Việt là tượng kỳ tức "cờ hình tượng"), hay còn gọi là cờ Trung Hoa (Tiếng Anh: Chinese Chess) vì nó được phổ biến ra thế giới từ Trung Quốc và cũng được coi là "quốc hồn quốc túy" của nước này (nhưng theo phương Tây thì nó có nguồn gốc từ Ấn Độ), là một trò chơi trí tuệ dành cho hai người, là loại cờ được chơi phổ biến nhất thế giới cùng với cờ vua.
+
+
+== Giới thiệu ==
+
+
+=== Mục đích của ván cờ ===
+Ván cờ được tiến hành giữa hai người, một người cầm quân Trắng (hay Đỏ), một người cầm quân Đen (hay Xanh lục). Mục đích của mỗi người là tìm mọi cách đi quân trên bàn cờ theo đúng luật để chiếu bí hay bắt Tướng (hay Soái, hoặc Suý) của đối phương và giành thắng lợi.
+
+
+=== Bàn cờ và quân cờ ===
+
+Bàn cờ là một hình chữ nhật do 9 đường dọc và 10 đường ngang cắt nhau vuông góc tại 90 điểm hợp thành. Một khoảng trống gọi là sông (hay hà) nằm ngang giữa bàn cờ, chia bàn cờ thành hai phần đối xứng bằng nhau. Mỗi bên có một cung Tướng hình vuông (Cửu cung) do 4 ô hợp thành tại các đường dọc 4, 5, 6 kể từ đường ngang cuối của mỗi bên, trong 4 ô này có vẽ hai đường chéo xuyên qua.
+Theo quy ước, khi bàn cờ được quan sát chính diện, phía dưới sẽ là quân Trắng (hoặc Đỏ), phía trên sẽ là quân Đen (hoặc Xanh lục). Các đường dọc bên Trắng (Đỏ) được đánh số từ 1 đến 9 từ phải qua trái. Các đường dọc bên Đen (Xanh lục) được đánh số từ 9 tới 1 từ phải qua trái.
+Mỗi ván cờ lúc bắt đầu phải có đủ 32 quân, chia đều cho mỗi bên gồm 16 quân Trắng (Đỏ) và 16 quân Đen (Xanh lục), gồm 7 loại quân. Tuy tên quân cờ của mỗi bên có thể viết khác nhau (ký hiệu theo chữ Hán) nhưng giá trị và cách đi quân của chúng lại giống nhau hoàn toàn. Bảy loại quân có ký hiệu và số lượng cho mỗi bên như sau:
+
+
+== Lịch sử ==
+
+Đây loại cờ có từ khoảng thế kỷ 7. Cờ tướng được bắt nguồn từ Saturanga, một loại cờ cổ được phát minh ở Ấn Độ từ thế kỷ 5 đến thế kỷ 6 (trước cờ tướng khoảng 200 năm). Chính Saturanga được phát minh từ Ấn Độ, sau đó đi về phía tây, trở thành cờ vua và đi về phía Đông trở thành cờ tướng. Người Trung Quốc cũng đã thừa nhận điều này.
+Cờ tướng cổ đại không có quân Pháo. Các nhà nghiên cứu đều thống nhất là quân Pháo được bổ sung từ thời nhà Đường (sau năm 618), là quân cờ ra đời muộn nhất trong bàn cờ tướng, bởi cho tới thời đó, con người mới tìm ra vũ khí pháo để sử dụng trong chiến tranh.
+Tuy nhiên, người Trung Hoa đã cải tiến bàn cờ Saturanga như sau:
+Họ không dùng "ô", không dùng hai màu để phân biệt ô, mà họ chuyển sang dùng "đường" để đặt quân và đi quân. Chỉ với động tác này, họ đã tăng thêm số điểm đi quân từ 64 của Saturanga lên 81.
+Đã là hai quốc gia đối kháng thì phải có biên giới rõ ràng, từ đó, họ đặt ra "hà", tức là sông. Khi "hà" xuất hiện trên bàn cờ, 18 điểm đặt quân nữa được tăng thêm. Như vậy, bàn cờ tướng bây giờ đã là 90 điểm so với 64, đó là một sự mở rộng đáng kể. Tuy nhiên, diện tích chung của bàn cờ hầu như không tăng mấy (chỉ tăng thêm 8 ô) so với số điểm tăng lên tới một phần 3.
+Đã là quốc gia thì phải có cung cấm (宮) và không thể đi khắp bàn cờ như kiểu trò chơi Saturanga được. Thế là "Cửu cung" đã được tạo ra. Điều này thể hiện tư duy phương Đông hết sức rõ ràng.
+Bàn cờ Saturanga có hình dáng quân cờ là những hình khối, nhưng cờ Tướng thì quân nào trông cũng giống quân nào, chỉ có mỗi tên là khác nhau, lại được viết bằng chữ Hán. Đây có thể là lý do khiến cờ tướng không được phổ biến bằng cờ vua, chỉ cần liếc qua là có thể nhận ra đâu là Vua, đâu là Hoàng hậu, kỵ sĩ, v.v. Tuy nhiên, đối với người Trung Hoa thì việc thuộc mặt cờ này là không có vấn đề gì khó khăn. Có lẽ việc cải tiến này cũng một phần là do điều kiện kinh tế bấy giờ chưa sản xuất được bộ cờ có hình khối phức tạp như cờ vua. Cờ tướng không phải là một trò chơi sang trọng, muốn tạo ra một bàn cờ tướng cực kỳ đơn giản, chỉ cần lấy que vạch xuống nền đất cũng xong, còn cờ vua thì mất công hơn nhiều khi phải tạo ra các ô đen/trắng xen kẽ nhau.
+Gần đây ngày càng có nhiều ý kiến đề nghị cải cách hình dáng các quân cờ tướng và trên thực tế người ta đã đưa những phác thảo của những bộ quân mới bằng hình tượng thay cho chữ viết, nhất là khi cờ tướng được chơi ở những nước không sử dụng tiếng Trung Quốc.
+Với sự thay đổi bố cục bàn cờ, người Trung Hoa đã phải có những điều chỉnh để lấy lại sự cân bằng cho bàn cờ. Đó chính là những ngoại lệ mà người chơi phải tự nhớ. (Xem thêm phần Mã, Tướng).
+
+
+== Xuất xứ tên gọi ==
+Bàn cờ tướng thật sự là một trận địa sinh động, có tầng có lớp và thật hoàn hảo: đủ các binh chủng trên chiến trường, công có, thủ có, các quân được chia thành ba lớp xen kẽ hài hoà. Lại còn có cả sông, cung cấm. Hình tượng quốc gia hoàn chỉnh, có vua tôi, có 5 binh chủng, có quan ở nhà, quân ra trận v.v..., vừa có ý nghĩa, vừa mang sắc thái phương Đông rõ nét, vì vậy người Trung Hoa đặt tên cho cờ này là Tượng kỳ (象棋) với ý nghĩa cờ hình tượng (theo chữ Hán) chứ không phải vì có quân tượng (voi) trên bàn cờ.
+Cũng có một số tài liệu lý giải rằng, vì Trung Hoa không có voi, khi tiếp nhận Saturanga thấy trong các quan có quân voi lạ nên người Trung Hoa bèn gọi là "tượng kỳ" để kỷ niệm một loại cờ lạ có con voi. Như thế có người suy ra "tượng kỳ" có nghĩa là cờ voi.
+Tại Việt Nam thì từ xưa tới nay vẫn gọi là cờ tướng do trong bàn cờ quân Tướng là quan trọng nhất.
+
+
+== Nguyên tắc chơi ==
+
+
+== Các quân cờ ==
+
+
+=== Tướng (Soái) ===
+
+Ở Trung Hoa, vua là thiên tử (con trời), do vậy, nếu nhắc tới vua thì phải tôn kính, sùng bái.Quân cờ quan trọng nhất, vốn tên là vua nhưng các nhà cải cách đã cải tên từ "vua" thành "tướng" hay "soái" cho quân này để phù hợp với việc kiêng húy của chế độ phong kiến. Tuy nhiên, đó chỉ là cách thay đổi tên, thay đổi bề ngoài, hình thức mà thôi, chứ quân cờ này thực chất vẫn là vua, vì quân này chỉ ở trong cung, có hai Tượng và Sĩ kè kè bên cạnh bảo vệ mọi lúc mọi nơi, và mất quân này đồng nghĩa với việc thua ván cờ. Vì vậy, chữ Tướng ở đây chỉ là danh nghĩa.
+Tướng chỉ được đi ngang hay đi dọc từng bước một trong phạm vi cung tướng.Tính theo khả năng chiến đấu thì Tướng là quân yếu nhất do chỉ đi nước một và bị giới hạn trong cung. Tuy nhiên trong nhiều tình huống, đặc biệt khi cờ tàn đòn "lộ mặt tướng" (xem ở dưới) lại tỏ ra rất mạnh. Lúc này Tướng mạnh ngang với Xe.
+Tướng được chốt chặt trong cung và có tới 2 Sĩ và Tượng canh gác hai bên. Chính điều này làm cho ván cờ trở nên khó phân thắng bại, cơ may hoà cờ là rất lớn. Từ một thực tế như vậy, luật "lộ mặt Tướng" được thiết lập: một bên Tướng đã chiếm được một lộ rồi mà Tướng bên kia có mặt ra lộ ấy mà không có ít nhất một quân khác che chắn ở giữa là bị thua ngay lập tức. Việc này làm cờ tướng có nhiều biến hóa thắng bại, với Tướng có giá trị như Xe khi chiếm hẳn một cột.
+
+
+=== Sĩ ===
+
+Trong cờ vua, quân cố vấn được đổi thành quân Hậu. Trong cờ tướng, quân Sĩ có vai trò "hộ giá" cho Tướng. Chúng đứng ngay sát cạnh Tướng, chỉ đi từng bước một và đi theo đường chéo trong Cửu cung. Như vậy, chúng chỉ di chuyển và đứng tại 5 điểm và được coi là quân cờ yếu nhất. Sĩ có chức năng trong việc bảo vệ Tướng, mất Sĩ được cho là nguy hiểm khi đối phương còn đủ 2 Xe hoặc dùng Xe Mã Tốt tấn công. Bỏ Pháo ăn Sĩ rồi dùng 2 Xe tấn công là đòn chiến thuật thường thấy. Khi còn Pháo thì phải chú ý giữ Sĩ để làm ngòi cho Pháo tấn công.
+
+
+=== Tượng (Tịnh) ===
+
+Quân Tượng đứng bên cạnh quân Sĩ và tương đương với Tượng trong cờ vua. Quân này đi theo đường chéo của hình vuông gồm 2 ô cờ. Chúng không được qua sông, chúng có nhiệm vụ ở lại bên này sông để bảo vệ vua. Chỉ có 7 điểm mà Tượng có thể di chuyển tới và đứng ở đó.
+Tượng sẽ không di chuyển được đến vị trí đã nêu nếu có 1 quân đặt tại vị trí giữa của hình vuông 2 ô. Khi đó ta gọi là Tượng bị cản và vị trí cản được gọi là "mắt Tượng".
+Tượng được tính là mạnh hơn Sĩ một chút. Một Tốt qua hà được đổi lấy 1 Sĩ hay Tượng. Tuy nhiên khả năng phòng thủ của Tượng được tính nhỉnh hơn nên nếu Sĩ là 2 thì Tượng là 2,5. Nói chung mất Tượng cờ dễ nguy khi đối phương có Pháo.
+
+
+=== Xe (Xa) ===
+
+Quân Xe đi và ăn theo một đường thẳng đứng hoặc ngang giống quân Xe trong cờ vua. Xe được coi là quân cờ mạnh nhất, kiêm cả công lẫn thủ (đơn xe sát vạn). Giá trị của Xe thường tính là bằng 2 pháo hoặc pháo mã.
+Khai cuộc thường tranh đưa các quân Xe ra các đường dọc thông thoáng, dễ phòng thủ và tấn công.
+
+
+=== Pháo ===
+
+Quân Pháo đi giống quân Xe, theo chiều thẳng đứng hoặc ngang, nhưng nếu ăn quân thì phải có 1 quân đứng làm "ngòi" (kể cả của mình hay của đối phương).
+Cờ tướng cổ đại không có quân Pháo. Các nhà nghiên cứu đều nhất trí là quân Pháo được bổ sung từ thời nhà Đường. Đây là quân cờ ra đời muộn nhất trên bàn cờ tướng vì tới thời đó, pháo được sử dụng trong chiến tranh với hình thức là một loại máy dùng để bắn những viên đá to. Bấy giờ, từ Pháo trong chữ Hán được viết với bộ "thạch", nghĩa là đá. Cho đến đời nhà Tống, khi loại pháo mới mang thuốc nổ được phát minh thì quân Pháo đã được viết lại với bộ "hỏa".
+Do đặc điểm phải có ngòi, Pháo thường dùng Tốt của quân mình trong khai cuộc, hoặc dùng chính Sĩ Tượng của mình làm ngòi để chiếu hết tướng đối phương trong cờ tàn. Quân Pháo có quyền lực mạnh ở lúc khai cuộc, lúc bàn cờ còn nhiều quân, nhưng quyền lực của Pháo giảm dần về sau khi số quân làm ngòi giảm bớt.
+Trên thực tế thì có tới 70% khai cuộc là dùng Pháo đưa vào giữa dọa bắt tốt đầu của đối phương, gọi là thế Pháo đầu. Đối phương có thể dùng Pháo đối lại cũng vào giữa. Kéo Pháo cùng bên gọi là trận Thuận Pháo, kéo Pháo vào ngược bên nhau gọi là trận Nghịch Pháo (hay Liệt Pháo).
+
+
+=== Mã ===
+
+Quân Mã trong cờ tướng đi theo hình chữ L 2x1, với bước đi thẳng sau đó đi một bước chéo. Nếu khi đi thẳng có 1 ô ở vị trí đó thì Mã không đi được, gọi là Mã bị cản.
+
+Mã do không đi thẳng, lại có thể bị cản nên mức độ cơ động của quân này kém hơn Xe và Pháo. Khi khai cuộc, Mã kém hơn Pháo do bị cản nhiều. Khi tàn cuộc, Mã trở nên mạnh hơn Pháo do dễ đi hơn và Pháo thì ít ngòi hơn.
+
+
+=== Tốt (Binh) ===
+
+Quân Tốt có 5 quân giống nhau, chúng đi thẳng và ăn thẳng theo chiều dọc khi ở bên phần đất của bên mình.Khi Tốt qua được sông, chúng có thể đi và ăn theo chiều ngang. Hai tốt qua sông đứng cạnh nhau gọi là tốt huynh đệ và có sức mạnh cỡ một quân pháo hoặc mã.
+Khi đi đến hết bàn cờ, lúc này, chúng được gọi là Tốt lụt.
+Trong khai cuộc, việc thí tốt là chuyện tương đối phổ biến. Ngoại trừ việc phải bảo vệ tốt ở giữa (còn gọi là tốt đầu), các quân tốt khác thường xuyên bị xe pháo mã ăn mất. Việc mất mát một vài Tốt ngay từ đầu cũng được xem như việc thí quân trong cờ tướng chứ không là "thảm họa" như trong cờ vua.
+Đến cờ tàn, giá trị của quân tốt tăng nhanh và số lượng tốt khi đó có thể đem lại thắng lợi hoặc chỉ hòa cờ. Khi đó việc đưa được tốt qua sông và tới gần cung tướng của đối phương trở nên rất quan trọng. Tốt khi đến hàng sát cuối, ép sát cung tướng được coi là mạnh như Xe.
+
+
+== Cách ghi nước đi ==
+Trong các thế cờ, để ghi lại vị trí và sự dịch chuyển quân cờ, người ta thường ghi lại các nước đi như sau:
+Dấu chấm (.) là tấn
+Dấu gạch ngang (–) là đi ngang (bình)
+Dấu gạch chéo (/) là lùi (thoái)
+Mỗi nước được ghi theo thứ tự: số thứ tự nước đi, tên quân cờ, vị trí và sự dịch chuyển quân cờ. Ví dụ, nước đầu, Đỏ đi Pháo 2 bình 5, bên Đen mã 8 tấn 7 thì ghi:
+P2-5 M8.7
+Nước thứ hai, Đỏ đưa Pháo ở cột 8 lùi 1 bước, Đen đưa Tốt cột 7 lên một bước.
+P8/1 B7.1
+Nếu Pháo (hay Mã, Xe) nằm trên một đường thì ghi Pt là Pháo trước, Ps là Pháo sau.
+Nếu có 3 Tốt nằm trên cùng một cột thì ký hiệu Bt (Binh trước), Bg (Binh giữa), Bs (Binh sau).
+
+
+== Các giai đoạn của một ván cờ ==
+
+Người ta thường chia ván cờ ra làm ba giai đoạn: khai cuộc, trung cuộc và tàn cuộc.
+
+
+=== Khai cuộc ===
+Thường khai cuộc được tính trong khoảng 5-12 nước đầu tiên. Các nghiên cứu mới cho biết khai cuộc đóng góp rất quan trọng vào khả năng thắng của một ván cờ. Khai cuộc có thể đóng góp đến 40% trong khi trung cuộc và tàn cuộc đóng góp 30% mỗi giai đoạn.
+Có rất nhiều dạng khai cuộc khác nhau, nhưng nói chung, có thể chia khai cuộc thành 2 loại chính: khai cuộc Pháo đầu và khai cuộc không Pháo đầu.
+
+
+==== Khai cuộc Pháo đầu ====
+Tên của các khai cuộc được đặt tuỳ theo cách đi của bên đi sau, chỉ nêu vài loại chính:
+Thuận Pháo
+Nghịch Pháo (Liệt Pháo)
+Bán đồ Liệt Pháo
+Pháo đầu đối Bình phong Mã: đây là khai cuộc phổ biến nhất.
+Pháo đầu đối Phản cung Mã
+Pháo đầu đối Đơn đề Mã
+Pháo đầu đối Phi Tượng
+Pháo đầu đối Uyên ương Pháo
+Pháo đầu đối Quy bối Pháo
+
+
+==== Khai cuộc không Pháo đầu ====
+Tiến Tốt (Tiên nhân chỉ lộ)
+Khởi Mã cuộc: bao gồm nhảy mã trong (rất phổ biến) và nhảy mã biên (ít dùng)
+Phi Tượng cuộc
+Quá cung Pháo
+Sĩ Giác Pháo
+Quá cung Liễm Pháo
+
+
+=== Trung cuộc ===
+Khai cuộc và tàn cuộc do có vị trí và số lượng quân cờ có thể quy chung về một số dạng chính nên người ta đã nghiên cứu và tổng kết được các dạng như trên. Còn ở trung cuộc, thế cờ lúc này theo kiểu "trăm hoa đua nở" nên chủ yếu vận dụng các chiến thuật cơ bản như:
+Bắt đôi: cùng một lúc đuổi bắt hai quân.
+Nội kích: đánh từ phía trong.
+Kích thẳng vào Tướng.
+Tả hữu giáp công: kích vào cả hai cánh cùng một lúc.
+Chiếu tướng bắt quân.
+Điệu hổ ly sơn: làm cho một quân hay Tướng phải rời vị trí của nó.
+Dẫn dụ: đây là đòn thu hút quân đối phương đến vị trí dễ bị công kích hoặc bị vây hãm, sau đó kết hợp với chiến thuật bịt chắn lối đi, đường rút của đối phương.
+Tạo ách tắc: dùng chiến thuật thí quân để gây ách tắc, hết đường cựa của đối phương.
+Ngăn trở, chia cắt: đòn này thường dùng cách thí quân để làm sự liên lạc giữa các quân bị cắt đứt.
+Khống chế: chiến thuật này ngằm ngăn trở tầm hoạt động và sự cơ động của đối phương.
+Dịch chuyển: chiến thuật này chú ý đến sự linh hoạt của các quân.
+Bao vây.
+Trợ sức: các quân trợ sức cho nhau để cùng chiếu.
+Vu hồi: đánh vòng từ phía sau.
+Qua lại: chiến thuật này dùng để thủ thế hay công sát.
+Quấy nhiễu.
+Vây điểm diệt viện: vây chặt quân nào đó của đối phương rồi đánh quân tới cứu viện.
+Nước đợi chờ: đi nước không có tác dụng để nhường đối phương, làm đối phương hết nước đi mà thua cờ.
+Giam quân: khi một bên đang trong tình thế nguy hiểm, nhưng sử dụng một nước khéo léo giam quân mạnh của đối phương (có thể dùng cách thí quân), sau đó dùng các quân còn lại để gỡ bí.
+Vừa đỡ vừa chiếu lại.
+Vừa đỡ vừa trả đòn.
+
+
+=== Tàn cuộc ===
+Tàn cuộc là giai đoạn tổng số quân cờ, đặc biệt là quân tấn công (Xe, Pháo, Mã, Tốt) cả hai bên còn rất ít.
+
+
+== Các hình thức chơi cờ tướng khác ==
+
+
+=== Cờ thế ===
+
+Chơi cờ thế là hình thức chơi cờ mà bàn cờ lúc ban đầu đã có sẵn các thế cờ, quân cờ đang ở các vị trí như trong một ván cờ dang dở, mức độ thế cờ từ dễ đến khó và người chơi phải thắng được sau một số nước đi được yêu cầu từ trước. Cờ thế hay được thấy ở các lễ hội dân gian.
+
+
+=== Cờ bỏi ===
+Cờ bỏi cũng là một hình thức đánh cờ, nhưng bàn cờ sẽ là một cái sân rộng có kẻ ô, các quân cờ được ghi lên các tấm biển bằng gỗ, gắn vào các cột dài chừng 1 mét, có đế, được đặt lên các vị trí trên sân. Người đánh phải tự nhấc quân cờ để đi, trước khi đi quân, phải có hiệu lệnh bằng trống bỏi. Từng đôi một vào thi đấu ở sân cờ. Thực chất đây là một bàn cờ lớn và nhiều người có thể cùng xem được.
+
+
+=== Cờ người ===
+
+Trong các lễ hội dân gian vùng đồng bằng Bắc Bộ, cờ người là một trong những cuộc thi đấu thu hút được rất nhiều người đến xem và cổ vũ. Thông thường, nơi diễn ra trận cờ người là sân đình của làng. Quân cờ là những nam thanh nữ tú được làng kén chọn, vừa phải đẹp người, vừa phải đẹp nết. Tướng được phục trang như sau: đội mũ tướng, soái, mặc triều phục bá quan văn võ, chân đi hài thêu, lọng che. Sĩ đội mũ cánh chuồn có tua vàng. Mỗi người trong đội cờ cầm một chiếc trượng phía trên có gắn biểu tượng quân cờ được trạm trổ tinh xảo, sơn son thếp vàng lộng lẫy. Đội nam mặc áo đỏ, đội nữ mặc áo vàng với thắt lưng theo lối xưa.
+Trước khi vào vị trí của mỗi người trên sân cờ, cả đội cờ múa theo tiếng trống, đàn, phách. Sau khi quân cờ đã vào các vị trí, một hồi trống dài nổi lên, hai đấu thủ cờ mặc áo dài, khăn xếp xuất hiện để được giới thiệu danh tính, mỗi người cầm một cây cờ đuôi nheo ngũ sắc nhỏ để chỉ huy trận đánh. Quanh sân, hàng trong thì khán giả ngồi, hàng ngoài đứng, chăm chú thưởng thức ván cờ và bàn tán râm ran. Khi cờ đến hồi gay cấn, cả sân xôn xao, một nước xuất thần, cả sân đều ồ lên khoái trá. Nếu quân cờ nào đó đi hơi chậm là có tiếng trống bỏi lanh canh vui tai nhắc nhở "cắc...tom tom". Bên lề sân có một cái trống to thỉnh thoảng được gióng lên một hồi điểm cho những nước đi. Khi Tướng bị chiếu, tiếng trống dồn dập, đám đông lại càng đông hơn, đã náo nhiệt lại càng náo nhiệt thêm. Đặc biệt hơn trong một số lễ hội, thỉnh thoảng người ta còn đọc những lời thơ ứng khẩu bình những nước đi trong sân trên chiếc loa ở sân.
+Nữ thi sĩ Hồ Xuân Hương có bài thơ vinh cuộc cờ người, có những câu sau:
+Chàng với thiếp đêm khuya trằn trọc,
+Ðốt đèn lên đánh cuộc cờ người.
+Hẹn rằng đấu trí mà chơi,
+Cấm ngoại thủy không ai được biết.
+.....
+Khi vui nước nước non non,
+Khi buồn lại giở bàn son quân ngà.
+
+
+=== Cờ tưởng ===
+
+Cờ tưởng là hình thức đánh cờ bằng trí tưởng tượng, không nhìn bàn cờ thật. Kiểu chơi này thường đòi hỏi người chơi phải có trình độ cao, nhớ được các nước đi, thế cờ hiện tại. Quốc tế đại sư Tưởng Xuyên của Trung Quốc hiện đang giữ kỷ lục thế giới về cờ tưởng.
+
+
+=== Cờ một thế trận ===
+Cờ một thế trận là trong ván cờ, chỉ được chơi một thế trận như: Thuận Pháo,... Các ván cờ thường khởi đầu với những chiêu thức cũ, nhưng sau đó là rất nhiều phương án khác đa dạng độc đáo, biến hoá kỳ ảo. Giải cờ này hay được tổ chức tại Trung Quốc.
+
+
+=== Cờ chấp ===
+Chấp quân: Quân bị chấp sẽ được bỏ ra ngoài bàn cờ ngay từ đầu. Thường là chấp Xe, Pháo, 2 Mã và 1 Mã.
+Chấp nước đi: Người được chấp sẽ được đi một vài nước trước, rồi mới đến lượt người chấp. Quân đi trước sẽ không được ăn quân hoặc qua sông. Thường là chấp 1-2-3 nước đi trước. Từ chuyên dùng gọi là chấp 1-2-3 tiên.
+Trên thực tế có thể phối hợp cả 2 loại chấp trên, như chấp Mã và đi trước 2 nước (Mã 2 tiên).
+
+
+=== Cờ úp ===
+Cờ úp là hình thức đánh cờ khi mà 15 quân mỗi bên được úp ngược hoặc úp một cái nắp nhựa lên và sắp xếp ngẫu nhiên trừ quân tướng. Khi sắp cờ các quân cờ của mỗi bên xáo trộn ngẫu nhiên, bị úp sau đó sắp theo thế trận cờ tướng thông thường.
+Nước đi đầu tiên của quân cờ úp phải tuân theo luật đi của quân cờ tại vị trí mà nó đang chiếm giữ. VD: quân bị úp đang ở vị trí của quân tốt thì phải đi theo nước của quân tốt. Sau khi đi một quân cờ úp thì quân đó sẽ lật ngửa để xem nó là quân nào và từ đó trở đi quân đó đi theo luật của quân cờ ngửa.
+Luật bổ sung:
+Quân sĩ không bị giới hạn trong cấm cung mà có thể đi khắp bàn cờ theo luật đi chéo của nó.
+Quân tượng không bị giới hạn bên phần "sân nhà" mà có thể đi sang lãnh thổ đối phương.
+Quân tốt (chốt) có thể xuất phát từ dưới đường biên ngang bên phần sân nhà và đi thẳng lên, đến khi qua sông thì được đi ngang.
+So với cờ tướng thì cờ úp có nước đi phong phú và đa dạng hơn (trong một vài tình huống nguy cấp, chỉ cần mở đúng quân cờ là có thể thay đổi cục diện ván đấu), vì cờ tướng úp có thêm sĩ và tượng chiếu bắt tướng được.
+
+
+=== Cờ Tam quốc ===
+
+Là loại cờ dành cho 3 người chơi, luật chơi và số quân của mỗi bên như nhau, không khác gì với cờ tướng bình thường. Bàn cờ thường là hình lục giác, bên nào bị mất Tướng trước thì quân bên đó sẽ được sáp nhập vào quân đã chiếm quân đó, nước bị chiếm sẽ bị người chơi của nước chiếm điều khiển tùy ý (tức là một người chơi sẽ có 2 tướng, 4xe,...). Sau khi có 1 nước chiếm được một nước rồi thì quân bên kia sẽ chơi thế trận 1 chọi 2, bên quân chiếm được hai nước nếu bị chiếm một nước thì vẫn có thể sử dụng nước mình đã chiếm mà chơi tiếp.
+
+
+== Thành ngữ trong cờ tướng ==
+
+Mã nhật, Tượng điền, Xe liền, Pháo cách.
+Cờ tàn, Pháo hoàn.
+Khuyết Sĩ kỵ song Xe Mã.
+Khuyết Tượng kỵ Pháo.
+Nhất Sĩ chòi góc, cóc sợ Mã công.
+Mã nhập cung Tướng khốn cùng.
+Xe mười Pháo bảy Mã ba.
+Nhất Xe sát vạn.
+Cờ bí dí Tốt.
+Nhất chiếu, nhất cách (đi một nước khác sau mỗi lần chiếu, cầu hòa).
+Được thế bỏ Xe cũng tốt, mất tiên khí tử toi công.
+Nhất tốt độ hà, bán xa chi lực (một Tốt sang sông có sức mạnh bằng nửa Xe).
+Pháo đầu Xuất tướng Xe đâm thọc.
+Pháo đầu, Mã đội, Tốt lên hà (Pháo đầu, Mã đội, Tốt lội qua sông).
+Pháo giáp Mã.
+Mất Xe không bằng què Tượng.
+Quan kỳ bất ngữ.
+Hạ thủ bất hoàn.
+Khuyết Sĩ kỵ Tốt đâm thọc.
+Và còn rất nhiều nữa.
+
+
+== Các câu đối và thơ về cờ tướng ==
+Câu đối:
+Thơ:
+
+Quan kỳ bất ngữ chân quân tử
+Hạ thủ vô hồi đích trượng phu
+
+(Xem cờ không nói mới thật quân tử Nhấc tay không hoãn mới đúng trượng phu)
+
+
+== Các nhà vô địch cờ tướng Việt Nam ==
+
+
+== Kỷ lục cờ tướng ==
+Chơi cờ tưởng: Ngày 27 tháng 1 năm 2013 Quốc tế Đại sư Trung Quốc Tưởng Xuyên đã thi đấu cờ tưởng với 22 kỳ thủ có đẳng cấp. Kết quả, sau gần 8 giờ đồng hồ (từ 8h30 phút đến 16h12 phút) anh đã thắng 16 và hoà 6, không thua ván nào 
+Chơi cờ đồng loạt: Ngày 30 tháng 5 năm 1996, Từ Thiên Hồng, danh thủ cờ tướng Trung Quốc, một mình đấu cùng lúc với 100 đối thủ. Cuộc đấu cờ dài 9 giờ 28 phút với kết quả: ông thắng 83 ván, hoà 16 ván và thua 1 ván.
+
+
+== Các giai thoại về cờ tướng ==
+Giai thoại "Thua cờ mất Hoa Sơn": Hoa Sơn là một quả núi cao ở Trung Quốc. Ván cờ được chơi giữa một bên là Triệu Khuông Dẫn và một bên là Hy di Đạo sĩ Trần Đoàn.
+Giai thoại "Chuyện ở Bích Mai Trang": Bích Mai Trang là ngôi biệt thự ở bên bờ con sông đào phía bắc kinh thành Huế xưa. Ván cờ được chơi giữa một bên là cụ Trịnh, chủ ngôi biệt thự trên, một lão kỳ thủ trứ danh với Trà Hương, một nữ kỳ thủ trẻ.
+Giai thoại "Chu Tấn Trinh đánh cờ": Chu Tấn Trinh là một kỳ thủ trứ danh người Trung Quốc, ông đã chơi một ván cờ nổi tiếng với vị sư trụ trì ngôi chùa cổ.
+Giai thoại "Ván cờ giữa Cao Bá Quát và vua Tự Đức".
+
+
+== Xem thêm ==
+
+
+=== Các loại cờ khác ===
+Cờ úp
+Cờ tư lệnh
+Cờ vua
+Shogi
+Cờ vây
+Renju (cờ ca rô)
+
+
+=== Các danh thủ cờ tướng ===
+Kỳ thủ nam Việt Nam: Mai Thanh Minh, Trịnh A Sáng, Đặng Hùng Việt, Nguyễn Thành Bảo,...
+Kỳ thủ nữ Việt Nam: Lê Thị Hương, Ngô Lan Hương,...
+Kỳ thủ nam Trung Quốc: Hồ Vinh Hoa, Liễu Đại Hoa, Hứa Ngân Xuyên.
+Kỳ thủ nữ Trung Quốc: Đường Đan
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Chinese chess (board game) tại Encyclopædia Britannica (tiếng Anh)
+Cờ tướng tại Từ điển bách khoa Việt Nam
+Liên đoàn Cờ Việt Nam
+Rules, openings, strategy, ancient manuals
+An Introduction to Xiangqi for Chess Players
+Presentation, rules, history and variants of xiangqi

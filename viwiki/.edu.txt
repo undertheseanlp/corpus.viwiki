@@ -1,0 +1,18 @@
+.edu (education - giáo dục) là một tên miền cấp cao nhất dùng chung dùng cho các tổ chức giáo dục, đào tạo, được sử dụng ban đầu tại Hoa Kỳ.
+
+
+== Lịch sử ==
+Ra đời vào tháng 1, năm 1985, .edu là một trong những tên miền cấp cao nhất ra đời sớm nhất, nguyên với mục đích làm tên miền cho các tổ chức, cơ sở giáo dục - đào tạo bất kỳ đâu trên thế giới. Ngày 24 tháng 4, năm 1985, những tên miền: cmu.edu, berkeley.edu, columbia.edu, purdue.edu, rice.edu, và ucla.edu trở thành 6 tên miền đầu tiên được đăng ký sử dụng .edu. Ngoại trừ một số ít ngoại lệ, chỉ có các tổ chức giáo dục tại Hoa Kỳ mới đăng ký các tên miền như vậy; những tổ chức giáo dục ở các nước khác thường sử dụng tên miền .edu đi liền với tên miền quốc gia cấp cao nhất tương ứng với quốc gia đó (Ví dụ: edu.vn ở Việt Nam, edu.cn ở Trung Quốc...). Một số quốc gia sử dụng tên miền cấp 2 để làm tên miền cho các tổ chức giáo dục (Ví dụ như: .edu.mx tại México, .edu.au tại Úc, .ac.uk và .sch.uk và .ed.uk tại Anh) và một số quốc gia khác thậm chí chỉ sử dụng tên miền quốc gia (Ví dụ như: Canada, Đức, Pháp). Tại Đức, tên miền cấp 2 thường được gán thêm một tiền tố ở trước cho biết tính chất của tổ chức (Ví dụ: uni chỉ Universität, fh chỉ Fachhochschule, do đó các tên miền có dạng www.uni-erfurt.de hay www.fh-erfurt.de...)
+Một số tên miền .edu không thuộc Mỹ ví dụ như polytechnique.edu của Pháp, tên miền solvay.edu của Bỉ, tên miền kit.edu của Đức, marianopolis của Canada, korteboskolan.edu của Thụy Điển, tên miền của Đại học Công Catalan upc.edu, uni-pr.edu của Kosovo, au.edu của Thái Lan.... Nhiều tổ chức giáo dục có tên miền gốc là một tên miền cấp 2 nhưng có một trang nhân bản có tên miền .edu, ví dụ như tên miền oxford.edu liên kết đến ox.ac.uk, open.edu liên kết đến open.ac.uk,...
+
+
+== Xem thêm ==
+Tên miền cấp cao nhất.
+Tên miền quốc gia cấp cao nhất.
+.com
+.net
+.org
+.vn - tên miền quốc gia Việt Nam.
+
+
+== Tham khảo ==

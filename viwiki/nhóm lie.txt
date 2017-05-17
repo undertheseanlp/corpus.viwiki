@@ -1,0 +1,176 @@
+Trong toán học, một nhóm Lie, được đặt tên theo nhà toán học người Na Uy là Sophus Lie (IPA pronunciation: [liː], đọc như là "Lee"), là một nhóm (group) cũng là một đa tạp khả vi (trơn) (differentiable manifold), với tính chất là phép toán nhóm tương thích với cấu trúc khả vi. Nhóm Lie đại diện cho lý thuyết phát triển nhất của các đối xứng liên tục. Điều này đã làm nhóm Lie trở thành một công cụ gần như cho tất cả các ngành toán học hiện đại, và vật lý lý thuyết hiện đại, đặc biệt là trong lý thuyết hạt cơ bản.
+Vì nhóm Lie là một đa tạp khả vi, nó có thể được nghiên cứu bằng cách sử dụng giải tích vi phân (differential calculus), điều này không làm được với các nhóm topo tổng quát hơn. Một trong những ý tưởng chính trong lý thuyết về nhóm Lie, đề xuất bởi Sophus Lie, là thay thế cấu trúc toàn cục, nhóm, bằng một phiên bản mang tính địa phương của nó hay còn gọi là phiên bản đã được làm tuyến tính hóa, mà Lie gọi là một nhóm cực nhỏ. Phiên bản này bây giờ được biết đến như là đại số Lie.
+Nhóm Lie đã cung cấp một phương tiện tự nhiên để phân tích các đối xứng liên tục của các phương trình vi phân (lý thuyết Picard-Vessiot), trong một cách thức như các nhóm hoán vị (permutation group) được sử dụng trong lý thuyết Galois để phân tích các đối xứng rời rạc của các phương trình đại số.
+
+
+== Lịch sử ban đầu ==
+Theo Hawkins, một sử gia toán học, Sophus Lie tự cho là mùa đông năm 1873–1874 là năm khai sinh lý thuyết nhóm liên tục của ông. Một số ý tưởng ban đầu của Lie được phát triển khi hợp tác chặt chẽ với Felix Klein. Lie khẳng định rằng các kết quả chính đã được chứng minh vào năm 1884. Tuy nhiên, trong suốt những năm 1870 tất cả các bài báo của ông (ngoại trừ các bài đầu tiên) được xuất bản trong các tạp chí bằng tiếng Na Uy, đã làm chậm đi sự công nhận của các công trình của ông trên toàn bộ châu Âu. Vào năm 1884 một nhà toán học trẻ người Đức, Friedrich Engel, đến làm việc với Lie để viết nên một luận án có hệ thống về lý thuyết nhóm liên tục của ông. Từ cố gắng này đã phát sinh ra bộ sách ba tập Theorie der Transformationsgruppen (Lý thuyết của các nhóm biến đổi), xuất bản năm 1888, 1890, và 1893.
+Các ý tưởng của Lie không phải là đứng đơn độc so với phần còn lại của toán học. Thật ra, những nghiên cứu của ông về hình học của các phương trình vi phân được khởi nguồn từ các tác phẩm của Carl Gustav Jacobi, về lý thuyết phương trình vi phân riêng phần bậc 1 và các phương trình của cơ học cổ điển. Đa số các tác phẩm của Jacobi được xuất bản sau khi ông qua đời vào những năm 1860, đã được rất nhiều người chú ý ở Pháp và Đức. Ý tưởng ban đầu của Lie là phát triển một lý thuyết về các đối xứng của các phương trình vi phân để đạt đến những điều mà Evarist Galois đã làm được cho các phương trình đại số: nghĩa là, phân loại chúng theo lý thuyết nhóm. Các nguyên nhân khác để nghiên cứu các nhóm liên tục đến từ các ý tưởng của Bernhard Riemann, trên nền tảng của hình học, và các phát triển thêm của Klein. Do đó ba ý tưởng lớn của toán học trong thế kỉ 19 đã được tổng hợp lại bởi Lie để tạo ra lý thuyết mới của ông: ý tưởng của sự đối xứng, đã được làm mẫu bởi Galois thông qua khái niệm đại số của một nhóm; lý thuyết hình học và các lời giải tường minh (explicit) của các phương trình vi phân của cơ học, được tính ra bởi Poisson và Jacobi; các hiểu biết mới về hình học phát triển lên từ các công trình của Plücker, Möbius, Grassmann và những người khác, được dồn lại trong các tầm nhìn mang tính cách mạng của Riemann trong ngành này.
+Mặc dù ngày nay Sophus Lie được công nhận một cách đúng đắn là người sáng lập ra lý thuyết về các nhóm liên tục, một bước phát triển lớn trong sự phát triển của lý thuyết cấu trúc, mà có nhiều ảnh hưởng lớn đến các phát triển sau này của toán học, được tạo ra bởi Wilhelm Killing, người vào năm 1888 xuất bản bài báo đầu tiên trong chuỗi bài báo nhan đề Die Zusammensetzung der stetigen endlichen Transformationsgruppen (The composition of continuous finite transformation groups). Các công trình của Killing, sau này được tu chỉnh lại và tổng quát hóa bởi Elie Cartan, dẫn đến việc phân loại đại số Lie nửa đơn, lý thuyết của Cartan về các không gian đối xứng, và miêu tả của Hermann Weyl về biểu diễn của nhóm Lie compact và nửa đơn sử dụng highest weights.
+
+
+== Khái niệm về một nhóm Lie, và các khả năng phân loại ==
+Các nhóm Lie có thể được xem như là họ của các phép đối xứng biến đổi một cách trơn tru. Ví dụ như là các phép quay xung quanh một trục cho trước. Điều cần phải được hiểu là bản chất của các phép biến đổi 'nhỏ' này, ở đây là các phép quay với các góc cực nhỏ, nối kết các phép biến đổi lân cận nhau. Cấu trúc toán học nắm bắt cấu trúc này được gọi là một đại số Lie (màLie gọi là "những nhóm cực nhỏ" ("infinitesimal groups"). Nó có thể được định nghĩa bởi vì các nhóm Lie là các đa tạp (manifold), và các không gian tiếp tuyến (tangent space)tại từng điểm cũng định nghĩa được.
+Đại số Lie của bất kì một nhóm Lie compact nào (very roughly: one for which the symmetries form a bounded set) cũng có thể được phân tích ra được thành một tổng trực tiếp (direct sum) của một đại số Lie giao hoán và một số nhóm Lie đơn (simple Lie group) khác. Cấu trúc của một đại số Lie abelian là không có gì đáng nói; cái đáng để ý là tổng của các nhóm đơn. Do đó câu hỏi đặt ra là: Các đại số Lie đơn của một nhóm compact là gì? Câu trả lời là hầu hết nó thuộc về 4 gia đình vô hạn, các "đại số Lie cổ điển" An, Bn, Cn và Dn, và chúng có những mô tả khá đơn giản dưới dạng các phép đối xứng trong không gian Euclid. Nhưng cũng có chỉ 5 "đại số Lie ngoại lệ" không rơi vào bất kì các gia đình này. E8 là gia đình lớn nhất trong các gia đình này.
+
+
+== Ví dụ ==
+Ví dụ, các ma trận khả nghịch 2×2 định nghĩa trên toàn trường số thực,
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  a
+                
+                
+                  b
+                
+              
+              
+                
+                  c
+                
+                
+                  d
+                
+              
+            
+            ]
+          
+        
+        ,
+        
+        a
+        d
+        −
+        b
+        c
+        ≠
+        0
+        ,
+      
+    
+    {\displaystyle {\begin{bmatrix}a&b\\c&d\end{bmatrix}},\qquad ad-bc\neq 0,}
+  
+tạo thành một nhóm với phép nhân, được ký hiệu bởi GL2(R), là một ví dụ cổ điển của một nhóm Lie; nó là một đa tạp trong không gian 4-chiều. Các giới hạn thêm trên các ma trận 2×2 biểu diễn các phép quay cho chúng ta một nhóm con, được ký hiệu là SO2(R), cũng là một nhóm Lie; mặt đa tạp của đó là 1-chiều, vòng tròn đơn vị, với góc quay là tham số. Trong ví dụ thứ 2 này chúng ta có thể viết một phần tử của nhóm như là
+
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  cos
+                  ⁡
+                  λ
+                
+                
+                  −
+                  sin
+                  ⁡
+                  λ
+                
+              
+              
+                
+                  sin
+                  ⁡
+                  λ
+                
+                
+                  cos
+                  ⁡
+                  λ
+                
+              
+            
+            ]
+          
+        
+        ,
+      
+    
+    {\displaystyle {\begin{bmatrix}\cos \lambda &-\sin \lambda \\\sin \lambda &\cos \lambda \end{bmatrix}},}
+  
+và quan sát rằng phần tử nghịch đảo của phần tử với tham số λ chỉ đơn giản là phần tử với tham số −λ, trong khi phần tử tích của hai phần tử với tham số λ và μ được cho bởi λ+μ; và do đó 2 toán tử của nhóm đều liên tục, như là được yêu cầu.
+
+
+== Định nghĩa ==
+Một nhóm Lie thực là một nhóm mà cũng là một đa tạp trơn (smooth manifold) hữu hạn chiều, mà trong đó các phép toán nhân và phép nghịch đảo là các biến đổi trơn.
+Có một số khái niệm liên quan khá gần với khái niệm này. Một nhóm Lie phức được định nghĩa một cách tương tự sử dụng đa tạp phức hơn là các đa tạp thực (ví dụ: SL2(C)), và tương tự người ta có thể định nghĩa được một nhóm Lie p-adic trên các số p-adic. Một nhóm Lie vô hạn chiều được định nghĩa với một cách tương tự với việc cho phép đa tạp ẩn bên dưới định nghĩa được phép vô hạn chiều. Các nhóm ma trận hoặc là nhóm đại số nói một cách nôm na là các nhóm của các ma trận, (ví dụ, nhóm trực giao và nhóm symplectic) đưa ra các ví dụ thường gặp nhất của nhóm Lie.
+Có thể định nghĩa tương tự nhiều nhóm Lie trên các trường hữu hạn, và những nhóm này đưa ra các ví dụ của các nhóm đơn hữu hạn. Người ta có thể thay đổi định nghĩa bằng cách sử dụng các đa tạp tô pô hay đa tạp giải tích (topological or analytic manifolds) thay vì các đa tạp trơn, nhưng hóa ra là các định nghĩa này không đưa ra thêm điều gì mới: Gleason, Montgomery và Zippin chứng minh trong những năm của thập kỉ 1950 rằng nếu 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   là một đa tạp topo với các phép toán trên nhóm liên tục, thì tồn tại chính xác một cấu trúc giải tích trên G để biến đổi nó thành một nhóm Lie (xem bài toán thứ năm của Hilbert và phỏng đoán Hilbert-Smith).
+Ngôn ngữ của lý thuyết phạm trù cung cấp định nghĩa rõ ràng cho nhóm Lie: nhóm Lie là một đối tượng nhóm trong phạm trù các đa tạp trơn. Đây là tính chất quan trọng, do nó cho phép các nhà toán học tổng quát hóa khái niệm nhóm Lie thành siêu nhóm Lie.
+
+
+== Các ví dụ của các nhóm Lie ==
+Sau đây là một ví dụ của các nhóm Lie và mối quan hệ của chúng đến các ngành khác của toán học và vật lý học.
+Không gian Euclid Rn là một nhóm Lie abelian (với phép cộng vectơ như là phép toán trên nhóm đó).
+Nhóm GLn(R) của các ma trận khả nghịch (dưới phép nhân ma trận) là một nhóm Lie với số chiều là n2, được gọii là nhóm tuyến tính tổng quát. Nó có nhóm con là SLn(R) của các ma trận với định thức bằng 1 cũng là một nhóm Lie, được gọi là nhóm tuyến tính đặc biệt.
+Nhóm trực giao On(R) là một nhóm Lie được biểu diễn bởi các ma trận trực giao. Nó bao gồm các phép quay và các phép phản xạ của một không gian vectơ n-chiều. Nó có một nhóm con SOn(R) của các ma trận với định thức 1, được gọi là nhóm trực giao đặc biệt hay là nhóm quay.
+Nhóm unitary U(n) là một nhóm compact với số chiều n2 biểu diễn bởi các ma trận unitary. Nó có một nhóm con SU(n) với các phần tử với định thức bằng 1, được gọi là nhóm unitary đặc biệt.
+Nhóm spin là các phủ kép (double cover) của nhóm trực giao đặc biệt (special orthogonal group), sử dụng trong việc nghiên cứu fermion trong lý thuyết trường lượng tử (quantum field theory)
+Nhóm Sp2n(R) của tất cả các ma trận bảo toàn một dạng symplectic là một nhóm Lie gọi là nhóm symplectic.
+Các mặt cầu S0, S1, và S3 có thể được làm thành nhóm Lie bằng cách xác định chúng với số thực, số phức, hay quaternion với giá trị 1. Không có mặt cầu nào khác là nhóm Lie. Nhóm Lie S1 đôi khi được gọi là nhóm hình tròn (circle group).
+Nhóm của các ma trận n nhân n tam giác góc trên (upper triangular n by n matrices) là một nhóm Lie giải được với số chiều bằng n(n + 1)/2.
+Nhóm Lorentz và nhóm Poincare, các isometries của không thời gian, là các nhóm Lie 6 và 10 chiều được sử dụng trong thuyết tương đối hẹp.
+Nhóm Heisenberg là một nhóm Lie 3 chiều, sử dụng trong cơ học lượng tử.
+Nhóm U(1)×SU(2)×SU(3) là một nhóm Lie có 1+3+8=12 chiều là một nhóm chuẩn (gauge group) của mô hình tiêu chuẩn (standard mode)l, với số chiều tương ứng với 1 photon + 3 vector boson + 8 gluoncủa mô hình tiêu chuẩn (standard model).
+Nhóm metaplectic là một nhóm Lie 3 chiều là phủ kép của SL2(R) và được sử dụng trong lý thuyết modular form. Nó không thể được biểu diễn như các ma trận hữu hạn.
+Nhóm Lie ngoại lệ của kiểu G2, F4, E6, E7, E8 có số chiều 14, 52, 78, 133, và 248. Cũng có nhóm E7½ với số chiều 190.
+
+Nhiều ví dụ khác trong bảng các nhóm Lie và danh sách các nhóm Lie đơn và nhóm ma trận.
+Có vài cách tiêu chuẩn để tạo thành các nhóm Lie mới dựa trên các nhóm cũ:
+Tích của hai nhóm Lie là một nhóm Lie.
+Any closed subgroup of a Lie group is a Lie group.
+The quotient of a Lie group by a closed normal subgroup is a Lie group.
+The universal cover of a connected Lie group is a Lie group. For example, the group R is the universal cover of the circle group S1.
+Vài ví dụ các nhóm không phải là nhóm Lie:
+Nhóm vô hạn chiều, ví dụ như là nhóm dưới phép cộng của một không gian vector vô hạn chiều. Chúng không phải là các nhóm Lie bởi vì chúng không phải là các đa tạp hữu hạn chiều.
+Một số nhóm hoàn toàn rời rạc (totally disconnected), như là nhóm Galois của một mởi rộng vô hạn của các trường, or the additive group of the số p-adic. These are not Lie groups because their underlying spaces are not real manifolds. (Some of these groups are "p-adic Lie groups".)
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Lie group (mathematics) tại Encyclopædia Britannica (tiếng Anh)
+Bài này có sử dụng tài liệu từ Lie group tại PlanetMath, với giấy phép sử dụng GFDL.
+Adams, John Frank (1969), Lectures on Lie Groups, Chicago Lectures in Mathematics, Chicago: Univ. of Chicago Press, ISBN 0-226-00527-5 .
+Borel, Armand (2001), Essays in the history of Lie groups and algebraic groups, History of Mathematics 21, Providence, R.I.: American Mathematical Society, ISBN 978-0-8218-0288-5, MR 1847105 
+Bourbaki, Nicolas, Elements of mathematics: Lie groups and Lie algebras . Chapters 1–3 ISBN 3-540-64242-0, Chapters 4–6 ISBN 3-540-42650-7, Chapters 7–9 ISBN 3-540-43405-4
+Chevalley, Claude (1946), Theory of Lie groups, Princeton: Princeton University Press, ISBN 0-691-04990-4 .
+P. M. Cohn (1957) Lie Groups, Cambridge Tracts in Mathematical Physics.
+J. L. Coolidge (1940) A History of Geometrical Methods, pp 304–17, Oxford University Press (Dover Publications 2003).
+Bản mẫu:Fulton-Harris
+Robert Gilmore (2008) Lie groups, physics, and geometry: an introduction for physicists, engineers and chemists, Cambridge University Press ISBN 9780521884006.
+Hall, Brian C. (2003), Lie Groups, Lie Algebras, and Representations: An Elementary Introduction, Springer, ISBN 0-387-40122-9 .
+F. Reese Harvey (1990) Spinors and calibrations, Academic Press, ISBN 0-12-329650-1.
+Hawkins, Thomas (2000), Emergence of the theory of Lie groups, Sources and Studies in the History of Mathematics and Physical Sciences, Berlin, New York: Springer-Verlag, ISBN 978-0-387-98963-1, MR 1771134  Borel's review
+Helgason, Sigurdur (2001), Differential geometry, Lie groups, and symmetric spaces, Graduate Studies in Mathematics 34, Providence, R.I.: American Mathematical Society, ISBN 978-0-8218-2848-9, MR 1834454 
+Knapp, Anthony W. (2002), Lie Groups Beyond an Introduction, Progress in Mathematics 140 (ấn bản 2), Boston: Birkhäuser, ISBN 0-8176-4259-5 .
+Nijenhuis, Albert (1959). “Review: Lie groups, by P. M. Cohn”. Bulletin of the American Mathematical Society 65 (6): 338–341. doi:10.1090/s0002-9904-1959-10358-x. 
+Rossmann, Wulf (2001), Lie Groups: An Introduction Through Linear Groups, Oxford Graduate Texts in Mathematics, Oxford University Press, ISBN 978-0-19-859683-7 . The 2003 reprint corrects several typographical mistakes.
+Sattinger, David H.; Weaver, O. L. (1986). Lie groups and algebras with applications to physics, geometry, and mechanics. Springer-Verlag. ISBN 3-540-96240-9. 
+Serre, Jean-Pierre (1965), Lie Algebras and Lie Groups: 1964 Lectures given at Harvard University, Lecture notes in mathematics 1500, Springer, ISBN 3-540-55008-9 .
+Stillwell, John (2008). Naive Lie Theory. Springer. ISBN 0-387-98289-2. 
+Heldermann Verlag Journal of Lie Theory
+Warner, Frank W. (1983), Foundations of differentiable manifolds and Lie groups, Graduate Texts in Mathematics 94, New York Berlin Heidelberg: Springer-Verlag, ISBN 978-0-387-90894-6, MR 0722297 
+Steeb, Willi-Hans (2007), Continuous Symmetries, Lie algebras, Differential Equations and Computer Algebra: second edition, World Scientific Publishing, ISBN 981-270-809-X .
+Lie Groups. Representation Theory and Symmetric Spaces Wolfgang Ziller, Vorlesung 2010

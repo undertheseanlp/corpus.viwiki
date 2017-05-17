@@ -1,0 +1,170 @@
+Bài này nói về một tính chất vật lý của vật liệu. Các nghĩa khác xem bài Chiết suất (định hướng).
+Chiết suất của một vật liệu là tỷ số giữa tốc độ ánh sáng trong chân không và tốc độ pha của bức xạ điện từ trong vật liệu. Nó thường được ký hiệu là n.
+Tốc độ pha của một đoàn sóng là tốc độ di chuyển của đỉnh sóng; cũng là tốc độ di chuyển của pha của đoàn sóng. Tốc độ này đối nghịch với tốc độ nhóm là tốc độ di chuyển của biên độ đoàn sóng. Tốc độ nhóm thể hiện tốc độ di chuyển của thông tin (hay năng lượng) mang theo bởi đoàn sóng vật lý. Tốc độ nhóm luôn nhỏ hơn tốc độ ánh sáng trong chân không, như các thí nghiệm đã cho thấy; còn tốc độ pha có thể lớn hơn tốc độ ánh sáng trong chân không.
+
+
+== Trong định luật Snell ==
+Theo định luật Snell, chiết suất có thể được tính bằng tỉ số giữa sin của góc tới và sin của góc khúc xạ, biểu hiện mức độ gãy khúc của tia sáng (hay bức xạ điện từ nói chung) khi chuyển từ một môi trường vật chất này sang một môi trường vật chất khác [1].
+Công thức trên có thể được suy ra từ phát biểu Fermat của Pierre de Fermat: ánh sáng luôn đi theo đường đi tốn ít thời gian nhất trong các môi trường.
+
+
+== Liên hệ với tính chất điện từ ==
+Chiết suất của vật liệu được liên hệ với các tính chất điện từ của vật liệu qua:
+
+  
+    
+      
+        n
+        =
+        
+          
+            
+              ϵ
+              
+                r
+              
+            
+            
+              μ
+              
+                r
+              
+            
+          
+        
+      
+    
+    {\displaystyle n={\sqrt {\epsilon _{r}\mu _{r}}}}
+  
+với εr là hằng số điện môi (hay độ điện thẩm tương đối) của vật liệu, và μr là hằng số từ môi (hay độ từ thẩm tương đối) của vật liệu.
+Đối với các vật liệu không có từ tính, μr rất gần 1, nên n xấp xỉ bằng 
+  
+    
+      
+        
+          
+            
+              ϵ
+              
+                r
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\sqrt {\epsilon _{r}}}}
+  .
+
+
+== Tốc độ ánh sáng ==
+Theo định nghĩa, chiết suất của môi trường là:
+
+  
+    
+      
+        n
+        =
+        
+          
+            c
+            v
+          
+        
+      
+    
+    {\displaystyle n={\frac {c}{v}}}
+  
+với v là tốc độ pha của bức xạ điện từ trong môi trường tại một tần số nhất định (đơn sắc).
+Thông thường, bức xạ điện từ đi trong môi trường chậm hơn trong chân không và n>1. Tuy vậy, tại một số điều kiện nhất định, (như gấn hấp thụ cộng hưởng hay đối với tia X), n có thể nhỏ hơn 1. Điều này không mâu thuẫn với thuyết tương đối, một lý thuyết khẳng định rằng thông tin không đi nhanh hơn c, vì tốc độ pha không thể hiện tốc độ truyền thông tin.
+Đôi khi có thể định nghĩa, chiết suất nhóm dựa vào tốc độ nhóm (tốc độ lan truyền thông tin):
+
+  
+    
+      
+        
+          n
+          
+            g
+          
+        
+        =
+        
+          
+            c
+            
+              v
+              
+                g
+              
+            
+          
+        
+      
+    
+    {\displaystyle n_{g}={\frac {c}{v_{g}}}}
+  ,
+với vg là tốc độ nhóm.
+Tốc độ pha của bức xạ điện từ bị chậm lại trong vật chất thông thường vì tương tác giữa bức xạ điện từ và các điện tích (chủ yếu là điện tử) trong nguyên tử hay phân tử của vật chất. Điện trường dao động của sóng điện từ gây nên sự dao động tương ứng của các điện tích. Các dao động của các điện tích bị chậm pha hơn so với dao động của điện trường, do quán tính của các điện tích. Sự dao động của các điện tích lại gây ra bức xạ điện từ, ở cùng pha với dao động này, và trễ pha so với dao động điện trường ban đầu.
+Tổng hợp các bức xạ của các điện tích tạo nên một sóng điện từ lan truyền cùng tần số nhưng với bước sóng ngắn hơn bức xạ ban đầu, do đó tốc độ pha chậm hơn. Hướng lan truyền của các bức xạ do dao động điện tích tập trung theo hướng lan truyền ban đầu. Tuy vậy, các điện tích dao động cũng gây ra bức xạ theo các hướng khác, nguyên chính gây nên hiện tượng tán xạ.
+Các nghiên cứu mới cho thấy chiết suất âm có thể tồn tại. Hiện tượng này hiếm gặp, mới thấy ở các vật liệu meta, cho thấy khả năng chế tạo các thấu kính hoàn hảo hoặc các hiện tượng hiếm như nghịch đảo định luật Snell.
+
+
+== Tán sắc ==
+Chiết suất được định nghĩa với tốc độ pha bức xạ điện từ trong vật liệu tại một tần số nhất định. Chiết suất của cùng một vật liệu có thể thay đổi tùy theo tần số bức xạ điện từ. Hiện tượng này được biết đến, trong quang học, là tán sắc. Đây là nguyên nhân khiến lăng kính tách ánh sáng trắng thành phổ màu sắc, các giọt nước tạo nên cầu vồng. Nó cũng gây ra hiện tượng sắc sai trong thấu kính.
+Thông thường, trong vùng phổ bức xạ điện từ mà ở đó vật liệu tương đối trong suốt, chiết suất tăng nhẹ theo tần số bức xạ. Gần nơi vật liệu hấp thụ mạnh, liên hệ giữa chiết suất với tần số khá phức tạp, theo liên hệ Kramers-Kronig, và có thể giảm theo tần số.
+Phương trình Sellmeier là một công thức suy ra từ thực nghiệm, mô tả tương đối tốt sự tán sắc của vật liệu. Các hệ số Sellmeier thường được cho kèm theo chiết suất khi mô tả vật liệu quang học.
+
+
+== Hấp thụ ==
+Các vật liệu trong thực tế có thể hấp thụ năng lượng của bức xạ điện từ và chuyển hóa thành dạng năng lượng khác (như nhiệt năng). Hai nguyên nhân chính cho sự chuyển hóa năng lượng là hấp thụ lưỡng cực điện (nguyên nhân làm thức ăn nóng trong lò vi sóng) độ dẫn điện một chiều khác không của vật liệu thực tế (không có vật liệu nào là chất cách điện hoàn hảo). Để thể hiện sự hấp thụ của lan truyền bức xạ trong vật liệu, chiết suất có thể được viết dưới dạng số phức:
+
+  
+    
+      
+        
+          
+            
+              n
+              ~
+            
+          
+        
+        =
+        n
+        −
+        i
+        κ
+      
+    
+    {\displaystyle {\tilde {n}}=n-i\kappa }
+  
+Với, n theo định nghĩa bên trên, và κ là hệ số thất thoát, thể hiện phần năng lượng bức xạ bị chuyển hóa thành dạng khác, hoặc theo bị tán xạ chệch hướng, i là căn bậc hai của -1. Cả n và κ đều phụ thuộc tần số (tán sắc).
+Phần thực và phần ảo của chiết suất phức liên hệ với nhau qua liên hệ Kramers-Kronig. Có thể tính được chiết suất phức, theo liên hệ vơi tần số, qua phổ hấp thụ của vật liệu.
+Các vật liệu ít hấp thụ (có độ trong suốt cao) như thủy tinh thường là chất cách điện tốt đồng thời có mức độ hấp thụ lưỡng cực điện thấp ở tần số thấp. Tuy nhiên khi tần số tăng, như tới tần số của ánh sáng, hập thụ lưỡng cực điện tăng khiến vật liệu này giảm độ trong suốt.
+
+
+== Môi trường không đẳng hướng ==
+Chiết suất trong một số môi trường có thể phụ thuộc vào hướng phân cực và phương chiếu của ánh sáng hay bức xạ điện từ nói chung. Môn quang học tinh thể nghiên cứu các hiện tượng này. Để mô tả sự phụ thuộc theo hướng một cách tổng quát, khái niệm chiết suất được thay bằng hằng số lưỡng cực điện, một tensơ hạng 2 (ma trận có kích thước 3 nhân 3), có giá trị trùng với chiết suất theo các phương chính trong tinh thể.
+Trong các vật liệu quang từ hay vật liệu quang hoạt, các phương chính trong tinh thể được biểu diễn bằng số phức (tương ứng với phân cực elíp), và hằng số lưỡng cực điện là Hermitian phức nếu bỏ qua hấp thụ. Các vật liệu này không tuân theo đối xứng nghịch đảo thời gian và có thể dùng để xây dựng chất cách điện Faraday.
+
+
+== Môi trường không đồng nhất ==
+Trong một số môi trường không đồng nhất, chiết suất thay đổi chậm tù điểm này đến điểm khác. Môn học nghiên cứu các môi trường này là quang học chiết suất biến đổi. Ánh sáng hay bức xạ điện từ di chuyển trong môi trường như vậy sẽ đi theo đường cong, hoặc bị hội tụ hay phân kỳ. Ví dụ như không khí bị hun nóng tại gần mặt đất ở sa mạc có thể tạo ảo ảnh quang học nhờ bẻ cong tia sáng đến từ mây trời. Hiệu ứng này có thể được dùng để làm thấu kính, một số sợi quang học hoặc các thiết bị quang học khác.
+
+
+== Môi trường phi tuyến ==
+Một số vật liệu khi được đặt trong các môi trường đặc biệt (như trong điện trường mạnh) hoặc được chiếu bởi ánh sáng hay bức xạ điện từ cường độ cao (như từ nguồn laser hay maser) có thể bị thay đổi chiết suất tùy thuộc vào tác động của môi trường hay cường độ sáng. Môn học nghiên cứu các hiện tượng này là quang học phi tuyến. Nếu chiết suất biến đổi theo hàm bậc hai với biên độ ánh sáng (tuyến tính với cường độ ánh sáng), hiện tượng này được gọi là hiệu ứng Kerr và gây ra các hiện tượng như chùm sáng tự hội tụ hay tự biến pha. Nếu chiết suất biến đổi tuyến tính với biên độ ánh sáng (chỉ xảy ra với vật liệu không có đối xứng nghịch), hiện tượng được biết đến với tên gọi hiệu ứng Pockels.
+
+
+== Ứng dụng ==
+Chiết suất của vật liệu là một trong những tính chất quan trọng nhất khi thiết kế các hệ thống quang học sử dụng hiện tượng khúc xạ. Nó được dùng để tính tiêu cự cho thấu kính hay độ phân giải của lăng kính.
+Đo đạc chiết suất có thể giúp suy ra nồng độ các dung dịch, như nồng độ đường (xem Brix), hay độ tinh khiết của hỗn hợp trong hóa học. Số lượng hồng cầu trong máu cũng có thể được ước lượng khi quan sát ánh sáng đỏ xuyên qua mạch máu và đo chiết suất phức của máu.
+
+
+== Xem thêm ==
+Khúc xạ
+Phương trình Sellmeier
+
+
+== Tham khảo ==

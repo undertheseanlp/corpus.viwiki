@@ -1,0 +1,54 @@
+dpkg là phần mềm làm nền tảng cho các hệ thống quản lý gói tin trên hệ điều hành tự do nguồn mở Debian và các phát sinh từ nó. dpkg được sử dụng để cài đặt, gỡ bỏ, và cung cấp thông tin về các gói .deb.
+dpkg (Debian Package) là một công cụ cấp thấp. APT (Advanced Packaging Tool), một công cụ cấp cao hơn,được sử dụng nhiều hơn dpkg vì nó có thể tim các gói gói tin từ xa và giải quyết các gói tin có quan hệ phức tạp, chẳng hạn như các gói tin phụ thuộc. Frontends cho APT như aptitude (ncurses) và synaptic (GTK+) được sử dụng các giao diện thân thiện của chúng.
+Các gói tin Debian "dpkg" cung cấp ứng dụng dpkg, cũng như một số chương trình khác cần thiết cho chức năng run-time của hệ thống đóng gói, bao gồm cả dpkg-deb, dpkg-split, dpkg-query, dpkg-statoverride, dpkg-divert and dpkg-trigger. 37/5000 Nó cũng bao gồm các chương trình như update-alternatives and start-stop-daemon. Chương trình install-info được dùng trong hầu như tất cả các gói, nhưng sau đó đã bị gỡ bỏ và bây giờ phát triển và phân phối riêng biệt. Các gói Debian "dpkg-dev" bao gồm rất nhiều các công cụ xây dựng được mô tả ở dưới.
+
+
+== Lịch sử ==
+dpkg ban đầu được tạo ra bởi Matt Welsh, Carl Streeter và Ian Murdock, đầu tiên là một ứng dụng Perl, và sau đó được viết lại phần lớn bằng C bởi Ian Jackson năm 1994. Tên gọi dpkg ban đầu là viết tắt cho "Debian package", nhưng ý nghĩa của cụm từ đó đã phát triển đáng kể.
+
+
+== Ví dụ việc sử dụng ==
+Để cài đặt một gói tin.deb:
+
+dpkg -i debFileName
+
+Với debFileName là tên của gói cài đặt.
+Danh sách các gói cài đặt có thể được có được với:
+
+dpkg -l [optional pattern]
+
+Để gỡ bỏ một gói tin:
+
+dpkg -r packagename
+
+
+== Công cụ phát triển ==
+dpkg-dev có chứa một loạt công cụ phát triển được yêu cầu để giải nén, build và tải lên các gói mã nguồn Debian. Chúng bao gồm:
+dpkg-source đóng gói và giải nén các tập tin mã nguồn của một gói Debian.
+dpkg-gencontrol đọc thông tin từ một nguồn cây Debian giải nén và tạo ra một gói điều khiển gói nhị phân, tạo ra một mục cho vấn đề này Debian/file.
+dpkg-shlibdeps tính toán các phụ thuộc của chạy đối với các thư viện với.
+dpkg-genchangesđọc thông tin từ một nguồn cây Debian giải nén mà sau khi xây dựng tạo ra một tập tin điều khiển (.changes).
+dpkg-buildpackage là một kịch bản kiểm soát có thể được sử dụng để xây dựng các gói tự động.
+dpkg-distaddfile bổ sung một file đầu vào debian / tập tin.
+dpkg-parsechangelog rđọc các tập tin thay đổi (changelog) của một nguồn cây Debian giải nén và tạo ra một đầu ra chuẩn bị thuận tiện với các thông tin cho những thay đổi đó.
+
+
+== Cơ sở dữ liệu ==
+Các cơ sở dữ liệu dpkg nằm trong /var/lib/dpkg; "trạng thái" tập tin chứa danh sách các phần mềm được cài đặt trên hệ thống hiện tại. Không có thông tin về kho trong cơ sở dữ liệu này.
+
+
+== Xem thêm ==
+Advanced Packaging Tool
+Alien
+Debian build toolchain
+RPM, cho các hệ thống có nguồn gốc từ RedHat
+opkg, cho việc cài đặt Linux bị lưu trữ hạn chế.
+wpkg, cho hệ thống Microsoft Windows.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Website chính thức
+Mailing list

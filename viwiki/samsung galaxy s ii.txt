@@ -1,0 +1,190 @@
+Samsung Galaxy S II là điện thoại thông minh cảm ứng dạng thanh, chạy hệ điều hành Android. Nó được thiết kế, phát triển, và bán ra bởi Samsung Electronics. Nó có đủ ác tính năng bổ sung, mở rộng phần cứng, và hình dáng tổng thể được thiết kế lại so với người tiền nhiệm Samsung Galaxy S, kế thừa thành công vang dội của nó là Samsung Galaxy S III vào tháng 5 năm 2012. S II chạy HĐH Android 2.3 "Gingerbread", có thể nâng cấp lên Android 4.0.4 "Ice Cream Sandwich", và hiện tại bản nâng cấp cao nhất là Android 4.1.2 "Jelly Bean".
+Samsung công bố SII vào 13 tháng 2 năm 2011 tại Mobile World Congress (MWC). Nó là một trong những điện thoại mỏng nhất lúc đó, với độ dày ở điểm mỏng nhất là 8,49 mm, ngoài hai chỗ nhô lên có độ mỏng là 9,91 mm. Galaxy S II sử dụng vi xử lý 1,2 GHz lõi-kép "Exynos" (SoC), 1 GB RAM, màn hình WVGA Super AMOLED Plus 10,8 cm (4,3 in) và máy ảnh 8-megapixel kèm đèn flash, có thể quay video chất lượng cao 1080p. Nó là một trong những thiết bị đầu tiên có MHL, có thể xuất video 1080p không nén đến MHL đến TV hoặc MHL đến thiết bị HDMI. USB On-The-Go (USB OTG) cũng được hỗ trợ trên SII.
+Pin người dùng lên đến 10 giờ sử dụng liên tục, hoặc 2 ngày cho tác vụ nhẹ. Theo Samsung, Galaxy S II có thể cho 9 giờ trò chuyện với mạng 3G và 18,3 giờ với mạng 2G.
+Galaxy S II được kế nhiệm bởi chiếc Samsung Galaxy S III vào tháng 5 năm 2012.
+
+
+== Phát hành ==
+Galaxy S II được phát hành chính thức trên toàn thế giới bắt đầu từ tháng năm 2011, từ hơn 140 nhà cung cấp trong khoảng 120 quốc gia. Vào ngày 9 tháng 5 năm 2011, Samsung thông báo rằng họ đã nhận được lượng đơn đặt hàng trước cho 3 triệu chiếc Galaxy SII trên toàn cầu.
+Một thời gian sau khi phát hành của thiết bị, Samsung cũng đã phát hành một biến thể của Galaxy SII, đó là Galaxy R sử dụng chipset Nvidia Tegra 2.
+Samsung cũng báo cáo vận chuyển miễn phí Galaxy SII cho một số nhà phát triển CyanogenMod (đặc biệt là những người duy trì các phương thức cho phép Galaxy S khả năng chạy CyanogenMod).
+
+
+== Tính năng ==
+
+
+=== Phần mềm và dịch vụ ===
+Galaxy S II đã được phát hành với Android 2.3 "Gingerbread". Các nhà phát hành ở Mỹ bắt đầu giao hàng với các phiên bản cập nhật nhẹ như Android 2.3.5. Phiên bản chạy Android 2.3.6 đã sẵn có trên toàn cầu vào ngày 12 tháng 12 năm 2011. Ngày 13 tháng 3 năm 2012, Samsung bắt đầu tung ra bản nâng cấp lên Android 4.0.3 "Ice Cream Sandwich" [23] thông qua phần mềm quản lý điện thoại KIES của họ để sử dụng tại Hàn Quốc, Hungary, Ba Lan và Thụy Điển. người Nga nhận được bản cập nhật vào ngày 05 tháng 7 năm 2012, trong khi phần còn lại của châu Âu nhận bản cập nhật vào ngày 01 tháng 8 năm 2012. Vào tháng 02 năm 2013, Samsung đã bắt đầu tung ra bản cập nhật Android 4.1.2 "Jelly Bean" cho thiết bị.
+Galaxy SII sử dụng giao diện người dùng TouchWiz 4.0, theo nguyên tắc tương tự như TouchWiz 3.0 trên Galaxy S, với những cải tiến mới, chẳng hạn như tăng tốc phần cứng. Nó cũng hỗ trợ cử chỉ tương tác dựa trên tùy chọn gọi là "chuyển động" (trong số những thứ khác) cho phép người dùng phóng to thu nhỏ bằng cách đặt hai ngón tay lên màn hình và hoặc nghiêng về phía thiết bị hoặc ra khỏi chính họ để phóng to hoặc thu nhỏ. Tính năng cử chỉ hoạt động trên cả trình duyệt web và hình ảnh trong bộ sưu tập được sử dụng trong thiết bị này. "Xoay" trên TouchWiz 4.0 cho phép sự chuyển động của các widget và các phím tắt biểu tượng giữa các màn hình, bằng cách cho chúng được tổ chức và di chuyển từ bên này sang bên kia màn hình chính. Quản lý cử chỉ dựa trên các widget là một phương pháp lựa chọn mới bên cạnh các phương pháp hiện có của cách cách sắp xếp hoặc vuốt giữa các màn hình chính. Các bản cập nhật Android 4.1 mang lại cho SII những tính năng của TouchWiz Nature và các tính năng khác của Galaxy S III, như Direct Call, Pop-up Play, Smart Stay, và chế độ Easy.
+Bốn ứng dụng Samsung Hub mới được tiết lộ vào năm 2011 MWC: Social Hub, được tích hợp các dịch vụ mạng xã hội phổ biến thành một nơi khá hơn trong các ứng dụng riêng biệt, Readers Hub cung cấp khả năng truy cập, đọc và tải báo điện tử, sách điện tử hoặc tạp chí từ một lựa chọn trên toàn thế giới, Music Hub (hợp tác với 7Digital) là một cửa hàng ứng dụng để tải về và mua các bài nhạc trên các thiết bị, và Game Hub (hợp tác với Gameloft, [28]) là một cửa hàng ứng dụng để tải về và mua trò chơi. các ứng dụng bổ sung bao gồm Kies 2.0, Kies Air, AllShare (đối với DLNA), Voice Recognition, Google Voice Translator, [30] Google Maps với tính năng Latitude, Places, Navigation (beta) và quản lý điện thoại thất lạc, Adobe Flash 10.2, ứng dụng QuickOffice và 'QuickType' bởi Swype.
+Trước khi ra mắt, đã có thông báo rằng Samsung đã tiến hành các bước để kết hợp phần mềm doanh nghiệp cho người dùng doanh nghiệp, trong đó bao gồm On Device Encryption, AnyConnect VPN của Cisco, quản lý thiết bị, Cisco WebEx, Juniper, và quản lý thiết bị từ xa từ Sybase.
+Galaxy SII đi kèm với hỗ trợ nhiều định dạng tập tin đa phương tiện và các bộ codec. Đối với âm thanh nó hỗ trợ FLAC, WAV, Vorbis, MP3, AAC, AAC +, eAAC +, WMA, AMR-NB, AMR-WB, MID, AC3, XMF. Đối với các định dạng video và codec nó hỗ trợ MPEG-4, H.264, H.263, DivX HD / XviD, VC-1, 3GP (MPEG-4), WMV (ASF) cũng như AVI (DivX)), MKV, FLV và Sorenson codec. Để phát video H.264, các thiết bị hữu hỗ trợ mã hóa 8-bit cùng với video lên đến 1080p HD.
+
+
+=== Phần cứng và thiết kế ===
+
+Galaxy S II sở hữu bộ xử lý lõi kép ARM Cortex-A9 1,2 GHz sử dụng trên một chip (SoC) Exynos 4210 của Samsung mà trước đây có tên mã là "Orion". Thương hiệu Exynos là nguồn gốc của nhiều đồn đoán liên quan đến thương hiệu "Hummingbird" SoC lõi đơn trước đây của Samsung Galaxy S. Exynos 4 lõi kép 45 nm (trước đây Exynos 4210) sử dụng GPU Mali-400 MP của ARM. GPU đồ họa này được cung cấp bởi ARM, là một động thái đến từ PowerVR GPU của Samsung Galaxy S.
+Các chip Exynos 4210 hỗ trợ công nghệ SIMD ARM (còn được biết đến như là Media Processing Engine hoặc tập lệnh 'NEON'), và cho một lợi thế đáng kể về hiệu suất trong các tình huống thực hiện quan trọng như giải mã tăng tốc cho nhiều codec đa phương tiện và các định dạng (ví dụ, On2 của VP6 / 7 / 8 hoặc các định dạng Real).
+GPU Mali 400 trong Exynos 4210 SoC là một trong những GPU chỉ cung cấp năng lượng thiết bị Android mà không hỗ trợ GL_RGB đệm Objects (FBOs), chỉ GL RGBA. Những chiếc Galaxy S II mới hơn (9100G) chạy trên PowerVR SGX540, không bị vấn đề này.
+Vào năm 2011 đại diện game Hội nghị phát triển ARM đã chứng minh việc phát video với tốc độ khung hình 60fps trong môi trường lập thể 3D chạy trên cùng một Mali-400 MP và Exynos SoC. Họ nói rằng tốc độ khung hình sẽ có thể tăng lên 70fps nếu sử dụng cổng HDMI 1.4.
+Những uảng cáo cho chiếc điện thoại Motorola Atrix trong tháng 6 năm 2011 nói rằng Atrix là "điện thoại thông minh mạnh mẽ nhất thế giới". Vào tháng 8 năm 2011, Cơ quan Tiêu chuẩn Quảng cáo Anh phán quyết rằng Atrix là không mạnh mẽ được như Galaxy SII do bộ vi xử lý của chiếc SII nhanh hơn.
+Một phiên bản mới hơn của Samsung Galaxy S II với tên mã i9100G sử dụng chip xử lý lõi kép 1,2 GHz TI OMAP 4430 với bộ xử lý đồ họa PowerVR SGX540.
+Galaxy S II có 1 GB RAM và 16 GB bộ nhớ trong. Trong ngăn chứa pin có một khe cắm thẻ nhớ ngoài microSD có khả năng dạng và sử dụng thẻ nhớ 64 GB microSDXC.
+Samsung Galaxy S II sử dụng màn hình cảm ứng điện dung 108,5 mm (4,27 in) WVGA (800 x 480) Super AMOLED Plus được bao phủ bởi kính cường lực chống thấm dầu Gorilla Glass. Màn hình là một bản nâng cấp của người tiền nhiệm của nó, và "Plus" có nghĩa là màn hình hiển thị đã được nâng cấp với ma trận PenTile để hiển thị khung ma trận RGB với kết quả là các sub-pixel được gia tăng thêm 50%. Điều này được thực hiện để giảm đi sự vỡ hình ảnh và làm sắc nét văn bản. Ngoài ra, Samsung đã tuyên bố rằng Super AMOLED Plus tiết kiệm năng lượng hơn 18% hơn so với các màn hình Super AMOLED cũ hơn. Một số chiếc SII gặp vấn đề hiển thị, một vài người sử dụng báo cáo màn hình bị ám "màu vàng" trên cạnh dưới bên trái của màn hình khi màn hình đang hiển thị nền màu xám trung tính.
+Galaxy S II sử dụng phần cứng âm thanh của Yamaha, trong khi người tiền nhiệm Galaxy S sử dụng WM8994 DAC của Wolfson. Các phản hồi từ người dùng trên các diễn đàn Internet cũng như một đánh giá chuyên sâu tại trang Clove đã thể hiện chất lượng âm thanh kém của chip Yamaha so với các chip Wolfson đặc trưng trong bản gốc Galaxy S.
+Trên mặt sau của thiết bị là một camera 8-megapixel với cảm biến ánh sáng, đi kèm là đèn flash LED đơn, có thể ghi video ở độ phân giải độ nét cao 1080p với 30 khung hình mỗi giây. Ngoài ra còn có một camera 2-megapixel cho các cuộc gọi video, chụp ảnh selfie cũng như quay video nói chung, với độ phân giải tối đa 640x480 (VGA).
+Galaxy SII là một trong những thiết bị Android đầu tiên hỗ trợ nguyên bản NFC. Ngay sau chiếc Google Nexus S là thiết bị điện thoại thông minh có NFC đầu tiên. Người ta được biết là phiên bản SII tại Anh Quốc không có chip NFC, sau đó vào cuối năm 2011 người ta đã ra một phiên bản SII khác có trang bị NFC.
+Samsung cũng đã có một công nghệ kết nối độ nét cao mới được gọi là di động độ nét cao Link (MHL). Các điểm mạnh chính của MHL là nó được tối ưu hóa cho các thiết bị di động bằng cách cho phép pin của thiết bị được sạc trong lúc đang chơi nội dung đa phương tiện. Ở Galaxy SII, Cổng micro-USB theo chuẩn công nghiệp được bố trí phía dưới của thiết bị có thể được sử dụng để một kết nối MHL xuất hình ảnh ra TV, kết nối với một màn hình bên ngoài, chẳng hạn như một TV độ nét cao.
+Các chuẩn micro USB trên thiết bị này cũng hỗ trợ chuẩn USB OTG có nghĩa là Galaxy S II có thể hoạt động như một thiết bị 'host' theo cùng một cách như các máy tính để bàn trong việc cho phép các thiết bị USB bên ngoài được cắm vào và sử dụng. Những thiết bị USB bên ngoài thường bao gồm các ổ đĩa flash USB và các ổ đĩa cứng gắn ngoài (được cấp nguồn riêng). Đã có một cuộc biểu tình video trên YouTube yêu cầu chức năng OTG phải có sẵn với một micro USB thông thường (B-type) OTG adapter. Các video trên YouTube cùng đi vào để đề cập đến một thử nghiệm thành công hoàn thành trên một ổ đĩa cứng 2 TB USB bên ngoài (yêu cầu nguồn điện riêng), tuy nhiên người ta đã thất bại khi cố gắng để kết nối chiếc SII với bàn phím hoặc chuột USB. Hiện tại thì chỉ các ổ cứng với định dạng FAT32 là được Galaxy SII hỗ trợ.
+Chiếc SII có một lỗ cắm tai nghe 3.5 mm TRRS nằm ở bên trên và một cổng kết nối micro USB nằm ở phía dưới.
+Con chip Broadcom BCM4330 kết hợp tích hợp 802.11n Wi-Fi, Bluetooth 4.0 + HS và FM radio. Những chiếc SII phát hành cho thị trường Mỹ không có tính năng FM. BCM4330 hỗ trợ Wi-Fi Direct cho phép các thiết bị giao tiếp trực tiếp với nhau mà không cần phải tương tác qua các điểm truy cập. Tuy chip BCM4330 hỗ trợ Bluetooth 4.0, Galaxy S2 bị giới hạn sử dụng Bluetooth 3.0 vì khi đó phiên bản ROM Android 4.1.2 phát hành bởi Samsung chỉ hỗ trợ Bluetooth 3.0 (chuẩn Bluetooth 4.0 được giới thiệu trong phiên bản Android 4.3), tuy nhiên việc nâng cấp lên firmware thay thế là thực sự cần thiết.
+Các phụ kiện có sẵn cho Samsung Galaxy SII bao gồm:
+Một dock kết nối để sạc pin và xuất âm thanh nghe-nhìn.
+Một cáp MHL tận dụng cổng micro USB của thiết bị để xuất HDMI.
+Bộ chuyển đổi USB OTG để sử dụng với các thiết bị USB bên ngoài như ổ đĩa flash USB.
+Bút Stylus để sử dụng trên màn hình điện dung của thiết bị. Việc hỗ trợ bút stylus trên Galaxy SII là một ý tưởng tiền thân của Samsung Galaxy Note.
+Một số nhà sản xuất đã phát hành một loạt các vỏ ốp lưng cho Galaxy SII.
+Một tai nghe Samsung mang nhãn hiệu Bluetooth cho thực hiện cuộc gọi điện thoại.
+Một cặp loa cầm tay chạy bằng cổng USB của điện thoại.
+Một bộ công cụ để gắn xe hơi để sử dụng bảng điều khiển của điện thoại, cho phép định vị GPS sử dụng điện thoại.
+
+
+== Các biến thể ==
+
+
+=== Galaxy S II - Model GT-I9100G ===
+Samsung Galaxy S II GT-I9100G được phát hành vào cuối năm 2011, và thường được bán thay vì bản gốc GT-I9100 tại một số thị trường nhất định (chủ yếu là ở châu Á và một bộ phận châu Âu). Tổng quan về Samsung Galaxy S II GT-I9100G có thể được nhìn thấy trên trang web chính thức của Samsung. Nó được nổi bật với SoC Texas Instruments OMAP4430 thay vì Exynos 4210 trong GT-I9100. Còn lại thì về tổng thế nó giống với GT-I9100, vì có cùng vi xử lý lõi kép tốc độ 1.2 GHz, công nghệ vi xử lý ARM Cortex A9. Tuy nhiên, các SoC có thiết kế khác nhau và GPU Mali-400 đã được thay thế bởi GPU PowerVR SGX 540. Sự khác biệt trong SoC này làm cho biến thể này không tương thích với ROM tùy chỉnh dành cho I9100, nhưng nó đã đạt được hỗ trợ hậu mãi riêng một cách đều đặn (chẳng hạn như hỗ trợ từ CyanogenMod) do sự phát triển dễ dàng và sự cởi mở của nền tảng TI OMAP.
+
+
+=== Australia ===
+
+
+==== Telstra and Vodafone Australia - Models GT-I9100T ====
+Galaxy S II (Model GT-I9100T) được bán bởi Telstra, Vodafone Australia và một lượng nhất định các hãng khác ngoài nước Úc và hầu như giống với phiên bản I9100 về thiết kế cũng như tính năng.
+
+
+==== Telstra and Optus - Model GT-I9210T ====
+Ở Australia Galaxy thì S II 4G (Model GT-I9210T) sử dụng bộ vi xử lý Qualcomm và hỗ trợ mạng Telstra và Optus '4G. Tuy nhiên, phiên bản này không hỗ trợ radio analog và truyền thông kỹ thuật số.
+
+
+=== Canada ===
+
+
+==== Bell Mobility - Models GT-I9100M and SGH-I757M ====
+Bell Galaxy S II (Model GT-I9100M) giống hệt với phiên bản quốc tế, ngoại trừ mã của nó là GT I9100M. Tất cả các ROM tùy chỉnh chạy trên các phiên bản quốc tế đều có thể được flash lên model Galaxy S II này.
+Samsung Galaxy S II HD LTE Bell (Model SGH-I757M) giống hệt với chiếc Galaxy SII Skyrocket HD của AT&T do đó tạo ra một biến thể của model Hàn Quốc là Galaxy S II HD LTE. Một sự khác biệt giữa model của Hàn Quốc và các model Bell là không có nút home vật lý, thay vào đó, model này sử dụng bốn nút cảm ứng điện dung. Đặc điểm kỹ thuật của model này giống với model của Hàn Quốc. Tuy nhiên, thiết bị này được cài đặt để chạy với nhiều tần số sóng khác nhau.
+
+
+==== Rogers - Models SGH-I727R and SGH-I927 ====
+Những chiếc Galaxy S II LTE của Rogers (Model SGH-I727R) giống hệt với Skyrocket của AT&T, và cũng đi kèm với một màn hình 4,52 inch, dung lượng pin lớn hơn (1.850 mAh), kèm theo đó là bộ vi xử lý Qualcomm 1,5 GHz.
+Galaxy S Glide Rogers (Model SGH-I927) là model với các thông số kỹ thuật tương tự như Captivate Glide của AT & T, ngoại trừ logo hãng ở mặt sau thay vì ở phía trên mặt trước.
+Rogers ra mắt Samsung Galaxy S II LTE, ra mắt vào mùa thu năm 2011, ngay sau khi ra mắt mạng LTE của mình ở Toronto.
+Lưu ý rằng Galaxy S II LTE có một số model khác nhau: I9210 và ra sau đó và chỉ trong thị trường lựa chọn, bao gồm Canada và Hàn Quốc.
+
+
+==== Telus Mobility - Model SGH-T989D ====
+Chiếc Galaxy S II X sử dụng mạng 4G của Telus Mobility (Model SGH-T989D) có sử dụng vi xử lý Qualcomm 1,5 GHz lõi kép, màn hình lớn hơn (4,52 inch) và viên pin dung lượng 1.850 pin mAh, dày 9,4 mm và có thiết kế khác so với bản quốc tế. Có một đai viền chrome xung quanh mép và nhựa giả da ở mặt sau thiết bị. Thay vì nút Home cứng, nó cũng có bốn nút điện dung chuẩn. Các bộ vi xử lý Qualcomm cho phép sử dụng mạng tốc độ cao 42 Mbit/s HSPA + với tốc độ tải nhanh trong khi các mẫu sử dụng vi xử lý Samsung Exynos không thể. Nó được phát hành vào ngày 28 Tháng mười 2011.
+Một công ty con của Telus, Koodo Mobile, cũng cung cấp các mẫu riêng với mã SGH-T989D.
+
+
+=== Trung Quốc ===
+
+
+==== Trung Quốc - Model GT-I9108 (China Mobile), GT-i9100G, SCH-i919 (Duos) ====
+Samsung Galaxy S II (Model GT-I9108) được phát hành tại Trung Quốc vào cuối năm 2011 và được bán tại China Mobile. Nó giống hệt với GT-I9100G, đều có Soc Texas Instruments OMAP4430 với bộ xử lý lõi kép ARM Cortex A9 1,2 GHz cùng bộ xử lý đồ họa PowerVR SGX 540. Tuy nhiên, GT-I9108 có hỗ trợ TD-SCDMA thay cho WCDMA trong các biến thể khác. GT-I9108 là một model dạng địa phưong và có sẵn vài ROM tùy chỉnh riêng.
+China Telecom thiết kế bởi LTE Design, Ap Qualcomm Snapdragon MSM8660 & hai sim GSM + CDMA.
+
+
+=== Châu Âu - Model GT-I9100P ===
+Samsung Galaxy S II (Model GT-I9100P) được phát hành vào cuối năm 2011. Nó sở hữu phần cứng tương tự như GT-I9100 kèm theo chip NFC và pin (pin trên model này đặc biệt hơn bởi nó tích hợp ăng ten). Để kích hoạt NFC, người dùng phải cập nhật firmware sử dụng phiên bản P. Bất kỳ firmware I9100 nào cũng đều có thể được sử dụng, nhưng sẽ không hỗ trợ NFC trên model này.
+
+
+=== India ===
+
+
+==== Model: GT-i9100 ====
+GT-i9100 là một model không sim phát hành vào ngày 2 tháng 5 năm 2011 và chỉ hỗ trợ 2G/3G.
+
+
+=== Japan ===
+
+
+==== KDDI AU - Model: ISW11SC ====
+Những chiếc Galaxy S II WiMAX của KDDI Au (Model: ISW11SC) được phát hành lần đầu vào ngày 20 Tháng 1 năm 2012 với chỉ một phiên bản màu Noble Black. Sau đó, model màu Trắng Gốm cũng được phát hành ngày 24 tháng 3 và cuối cùng là model màu Shiny Magenta ngày 20 tháng 7 năm 2012. Các Galaxy SII model ISW11SC hiện đang chạy Android 4.0.4 thông qua bản cập nhật OTA từ firmware gốc 2.3.6. Chúng sử dụng CPU Exynos 4210 lõi kép 1,4 GHz và chipset modem Qualcomm QSC6085 hoạt động ở băng tần 192 MHz. Nó có 1 GB RAM và 16 GB bộ nhớ trong (tuy nhiên khi bán ra người dùng chỉ còn 11 GB trống), hỗ trợ mở rộng bộ nhớ lên đến 64 GB thông qua khe cắm microSD. Thiết bị sở hữu viên pin 1850mAh. Các ISW11SC có màn hình HD 1280x720 Samsung SUPER AMOLED rộng 4,7 inch. Kết nối bao gồm CDMA 800 MHz / 2100 MHz; 3G EV-DO Rev A; Wi-Fi 802.11 chuẩn a/b/g/n 2,4 GHz / 5 GHz; 3.0 và một modem WiMAX tích hợp với tốc độ lên đến 40Mbit/s download và 15.4Mbit/s upload. Giống như hầu hết các mẫu điện thoại nội địa Nhật Bản, ISW11SC bán ra với nhiều ứng dụng Nhật Bản cài sẵn. Điện thoại hỗ trợ tính năng NFC tương thích về mặt kỹ thuật với FeliCa RFID (chẳng hạn như với PASMO và hệ thống thanh toán SUICA) Tuy nhiên, các phần mềm không hỗ trợ ví tiền di động "Osaifu Keitai"của Nhật Bản và do đó điện thoại không thể được sử dụng để thực hiện các giao dịch với NFC Ở Nhật.
+
+
+==== NTT DoCoMo - Model SC-02C ====
+NTT DoCoMo ra mắt nhiều biến thể của Galaxy S II (Model SC-02C) vào ngày 23 tháng 6 năm 2011 để tiếp nối chiếc DoCoMo Galaxy S (Model SC-02B). The SC-02C hỗ trợ truyền hình sóng mặt đất 1seg, cũng như các phần mềm i-mode cho các tiết bị DoCoMo, như là i-channel, BeeTV, MelodyCall và tiện ích điều hướng bản đồ DoCoMo. The SC-02C chạy bằng vi xử lý lõi kép Samsung Exynos 4210 Orion 1.2 GHz (S5PC210). The SC-02C sử dụng hệ thống nhập liệu Wnn Japanese.
+
+
+=== Hàn Quốc ===
+Tất cả các biến thể được tối ưu hóa để sử dụng với các nhà mạng Hàn Quốc do có hệ thống nhập liệu Hàn Quốc dành cho các điện thoại cơ bản, layout bàn phím ảo Dubeolsik và một bộ thu sóng T-DMB ở vị trí anten FM.
+
+
+==== KT - Model SHW-M250K ====
+Các biến thể KT, Galaxy S II KT (Model SHW-M250K) sử dụng Wi-Fi CM KT thay vì Wi-Fi CM của Android để kết nối với mạng Wi-Fi. Các tính năng bổ sung cho người dùng KT được cài đặt sẵn theo mặc định.
+
+
+==== LG U+ - Model SHW-M250L ====
+Thay vì WCDMA và HSPA, biến thể LG U+ của Galaxy S II (Model SHW-M250L) sử dụng EV-DO Rev.B (KPCS 1,8 GHz) để thích ứng với công nghệ mạng được triển khai bởi LG U+. Các SHW-M250L hơi dày (9,4 mm) so với biến thể của SK Telecom và các biến thể của KT (8.89 mm). Các tính năng bổ sung cho người dùng LG U+ được cài đặt sẵn theo mặc định.
+
+
+==== SK Telecom - Model SHW-M250S ====
+Biến thể của SK Telecom (Model SHW-M250S) sử dụng hệ thống SK-MMS thay cho hệ thống OMA-MMS để gửi tin nhắn đa phương tiện. Các tính năng bổ sung cho người dùng SK Telecom được cài đặt theo mặc định.
+
+
+=== Hoa Kỳ ===
+
+
+==== AT&T - Models SGH-I777, SGH-I727 and SGH-I927 ====
+AT & T Mobility bắt đầu cung cấp phiên bản đầu tiên của Galaxy S II (Model SGH-I777) vào ngày 02 tháng 10 năm 2011. Trước khi phát hành, tên mã của phiên bản đầu tiên của AT & T Mobility là "Attain" (từ Samsung).
+Các biến thể AT & T Mobility duy trì màn hình hiển thị 4,3 inch như phiên bản quốc tế, nhưng có bốn nút điện dung thay vì hai nút điện dung và một phím home cứng. Nó cũng có khả năng kết nối NFC.
+AT & T Mobility giới thiệu một biến thể thứ hai của thiết bị được gọi là Galaxy S II Skyrocket (Model SGH-I727) vào 6 tháng 11 năm 2011. Trước khi phát hành, phiên bản thứ hai này đã có tên mã là "Skyrocket" (từ Samsung). Model này cũng tương tự như Samsung Galaxy S II LTE quốc tế và đáng chú ý là nó có một anten thu sóng LTE. Sự tích hợp này khiến nhà mạng đã phải thay đổi vi xử lý của thiết bị từ Exynos thành Snapdragon MSM8660 của Qualcomm vì khi đó các chip Exynos không hỗ trợ LTE. Model này có màn hình 4,52 inch như biến thể của Sprint. Skyrocket hỗ trợ Near Field Communications (NFC).
+AT & T Mobility cũng đã giới thiệu một biến thể thứ ba gọi là Captivate Glide (Model SGH-I927) vào 20 tháng 11 năm 2011. Các Captivate Glide khác với hai model còn lại của AT & T Mobility chủ yếu là do có thêm bàn phím vật lý QWERTY dạng trượt. Các Captivate Glide cũng bao gồm vi xử lý lõi kép Tegra 2 1 GHz thay vì một bộ xử lý Exynos 1,2 GHz. Màn hình của biến thể thứ ba này là Super AMOLED thay vì Super AMOLED Plus và kích thước màn hình bị giảm xuống còn 4 inch.
+
+
+==== Sprint - Model SPH-D710 ====
+Các biến thể Galaxy S II của Sprint (Model SPH-D710) ban đầu được phát hành với tên gọi Galaxy S II Epic 4G Touch và sau đó được đổi tên thành Galaxy S II 4G. Trước khi phát hành, phiên bản của Sprint có tên mã là "Within" của Samsung. Những chiếc SPH-D710 đầu tiên lên kệ Sprint vào ngày 16 Tháng 9 năm 2011, điều đó giúp Sprint trở thành nhà mạng đầu tiên tại Hoa Kỳ cung cấp một biến thể của S II. SPH-D710 có sẵn cho khách hàng Sprint với ba màu: đen, xám titan hoặc màu trắng.
+Các biến thể của Sprint có những khác biệt quan trọng so với các phiên bản quốc tế. Chúng bao gồm radio WiMax 2500 MHz. Màn hình hiển thị trên biến thể của Sprint là 4,52 inch. Các biến thể của Sprint có bốn nút cảm ứng điện dung thay vì hai nút điện dung và phím home cứng trên các phiên bản quốc tế. Những khác biệt khác bao gồm một đèn thông báo LED và viên pin 6,66 pin Wh.
+Biến thể của Sprint không được trang bị NFC, không giống như các biến thể bên T-Mobile và AT & T Mobility.
+Galaxy S II 4G là một thiết bị màn hình cảm ứng duy nhất, không giống như chiếc Epic 4G, sở hữu thêm một bàn phím QWERTY vật lý.
+Ngày 28 tháng 3 năm 2013, bản cập nhật Android 4.1.2 Jelly Bean (GB27) được phát hành thông qua phần mềm Samsung Kies. Tính đến tháng 02 năm 2014, không có thêm bất kỳ thông tin nào xác nhận việc cập nhật cho biến thể này.
+Tính đến nay, chiếc Galaxy S II 4G đã nhận được 7 bản cập nhật của Samsung kể từ khi được phát hành đầu tiên vào ngày 16 tháng 9 năm 2011.
+Sprint đã thông báo rằng vào ngày 6 tháng 11 năm 2015 thì mạng Sprint WiMAX sẽ ngừng hoạt động có hiệu quả và loại bỏ chức năng 4G trên model SPH-D710. Người dùng vẫn có thể truy cập dịch vụ dữ liệu bằng cách sử dụng mạng 3G.
+
+
+==== Boost Mobile and Virgin Mobile USA ====
+Các công ty con của Sprint là Boost Mobile cung cấp một biến thể Sprint SPH-D710 4G với hai tùy chọn màu: xám titan hoặc màu trắng. Virgin Mobile cũng ra mắt một biến thể là chiếc Galaxy S II (Model i9210).
+Boost Mobile bắt đầu bán Samsung Galaxy S II 4G vào ngày 6 tháng 9 năm 2012 với giá $369,99. Virgin Mobile USA bắt đầu phát hành 4G Galaxy S II ngày 15 Tháng 10 năm 2012 với giá $369,99.
+Vào tháng 3 năm 2013, các biến thể của Boost Mobile và Virgin Mobile cũng được cập nhật Android 4.1.2 Jelly Bean cùng với các biến thể của Sprint.
+
+
+==== T-Mobile - Model SGH-T989 ====
+T-Mobile USA đã bắt đầu lấy đơn đặt hàng trước cho biến thể của mình (Model SGH-T989) kể từ ngày 11 tháng 10 năm 2011 và bắt đầu bán nó tại các cửa hàng vào ngày 12 Tháng 10 năm 2011. Trước khi phát hành, biến thể của thiết bị T-Mobile là có tên mã là "Hercules" của Samsung.
+Các biến thể T-Mobile có sự khác biệt quan trọng quan trọng so với phiên bản quốc tế của Galaxy S II. Các biến thể T-Mobile sử dụng bộ xử lý lõi kép Qualcomm Snapdragon APQ8060 (S3) 1,5 GHz, trái ngược với xử lý lõi kép Exynos 1,2 GHz của phiên bản quốc tế vì bộ xử lý Exynos không tương thích với mạng HSPA+ 42Mbit/s của T-Mobile. Radio trên biến thể này hỗ trợ UMTS băng tần I (2100 MHz), II (1900 MHz), IV (1700 MHz) và V (850 MHz). Màn hình hiển thị của các biến thể T-Mobile rộng 4,52 inch, lớn hơn so với phiên bản quốc tế. Các biến thể T-Mobile cũng dùng bốn nút cảm ứng điện dung, tương tự như các biến thể của Sprint và AT&T. Biến thể này sử dụng GPU Adreno 220 mạnh mẽ và hỗ trợ bản ROM Android 4.4.4 phiên bản T-Mobile, giống như các phiên bản AT & T, cũng hỗ trợ Near Field Communications (NFC) vì chip NFC đã được tích hợp trong pin.
+Tính đến ngày 8 tháng 3 năm 2013, model của T-Mobile có thể được cập nhật cho Android 4.1.2 Jelly Bean thông qua Samsung Kies.
+
+
+==== U.S. Cellular - Model SCH-R760 ====
+Biến thể của US Cellular (Model SCH-R760) tương đương với biến thể của Sprint, ngoại trừ một vài đặc điểm kỹ thuật; các biến thể US Cellular không bao gồm radio Wimax 2500 MHz MHz.
+
+
+== Galaxy S II Plus - Model GT-I9105/P ==
+Galaxy S II Plus được công bố tại CES 2013. Chiếc điện thoại này có SoC Broadcom BC28155 với bộ vi xử lý lõi kép 1,2 GHz và một GPU VideoCore IV HW thay vì Mali 400MP trong bản gốc Galaxy S II. Thiết bị sở hữu 1GB bộ nhớ RAM, nhưng chỉ có 8Ghuwxbooj nhớ trong. Nó có thân máy dẻo kiểu hyperglazed (giống như Samsung Galaxy S III) và được bán ra với hai màu: Chic White và Dark Blue. Chiếc điện thoại này ban đầu chạy trên Android 4.1.2 "Jelly Bean" với TouchWiz Nature UX của Samsung. Bản cập nhật Android 4.2.2 có sẵn ở một số nước. Cũng phát hành là một mô hình I9105P, hỗ trợ NFC.
+
+
+== Đón nhận ==
+Các bài đánh giá về Galaxy S II thực sự là rất tích cực trên toàn thế giới. Nó đã được vinh danh bằng giải thưởng Global Mobile MWC là "Smartphone của năm 2012". Engadget cho Galaxy SII điểm 9/10, gọi đó là "điện thoại thông minh chạy Android tốt nhất " và "có thể là điện thoại thông minh tốt nhất". CNET UK cho Galaxy SII một đánh giá khả quan là điểm 4,5/5, và mô tả nó là "một trong những điện thoại di động mỏng nhất, nhẹ nhất mà chúng tôi từng có đặc quyền để giữ." TechRadar đánh giá Galaxy SII là 5/5 sao và mô tả các thiết bị như một mà "thiết lập một quán bar mới cho điện thoại thông minh trong năm 2011." Pocketnow đã bị "ấn tượng" bởi tốc độ của trình duyệt web. SlashGear rằng các thiết bị "đặt mốc cho điện thoại thông minh nói chung." GSMArena chỉ ra nhược điểm nhỏ là "làm hoàn toàn bằng nhựa" và là thiết bị cầm tay có "không có phím máy ảnh chuyên dụng", nhưng vẫn gọi điện thoại "mạnh mẽ một cách cực độ" và kết luận: "Chúng ta không thể tìm ra chiếc điện thoại nào tốt hơn flagship mới của Samsung nếu chúng ta phải tìm ra điện thoại thông minh tốt nhất."
+Sau khoảng hơn một tháng kể từ khi ra mắt, hơn 1 triệu chiếc Samsung Galaxy S II đã được kích hoạt tại Hàn Quốc. Trên thế giới, 3 triệu chiếc đã được bán ra trong 55 ngày. Sau 85 ngày kể từ ngày phát hành đầu tiên, Samsung tuyên bố lô hàng toàn cầu của Galaxy S II là 5 triệu chiếc và 10 triệu chiếc sau 5 tháng. Do sức bán mạnh mẽ của loạt Galaxy, Samsung đã vượt Apple trong doanh số bán điện thoại thông minh trong quý 3 năm 2011, với tổng thị phần 23,8%, so với của Apple 14,6%.
+
+
+== Kế nhiệm ==
+Chiếc điện thoại kế nhiệm Galaxy S II là chiếc Galaxy S III, được công bố tại London vào ngày 3 tháng 5 năm 2012 và được bán ra từ ngày 29 tháng 5 năm 2012 với 10 triệu đơn đặt hàng trước.
+
+
+== Tham khảo ==
+
+
+== Liên kết ==
+ Phương tiện liên quan tới Samsung Galaxy S II I9100 tại Wikimedia Commons
+Website chính thức

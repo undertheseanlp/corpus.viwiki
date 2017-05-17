@@ -1,0 +1,27 @@
+Trình duyệt web là một phần mềm ứng dụng cho phép người sử dụng xem và tương tác với các văn bản, hình ảnh, đoạn phim, nhạc, trò chơi và các thông tin khác ở trên một trang web của một địa chỉ web trên mạng toàn cầu hoặc mạng nội bộ. Văn bản và hình ảnh trên một trang web có thể chứa siêu liên kết tới các trang web khác của cùng một địa chỉ web hoặc địa chỉ web khác. Trình duyệt web cho phép người sử dụng truy cập các thông tin trên các trang web một cách nhanh chóng và dễ dàng thông qua các liên kết đó. Trình duyệt web đọc định dạng HTML để hiển thị, do vậy một trang web có thể hiển thị khác nhau trên các trình duyệt khác nhau.
+
+
+== Các trình duyệt Web hiện nay ==
+Một số trình duyệt web hiện nay cho máy tính cá nhân bao gồm Internet Explorer, Mozilla Firefox, Safari, Google Chrome,Opera., Avant Browser, Maxthon, Konqueror, Lynx, Flock, Arachne, Epiphany, K-Meleon, Midori và AOL Explorer.
+Một số trình duyệt web hiện nay cho điện thoại di động bao gồm Mozilla Firefox, Safari, Google Chrome, Opera, UCWeb
+
+
+== Các giao thức và các chuẩn ==
+Trình duyệt web thường giao tiếp với máy chủ web bằng việc sử dụng HTTP (giao thức truyền siêu văn bản) để lấy về các trang web. HTTP cho phép các trình duyệt web gửi thông tin đến các máy chủ web, cũng như lấy các trang web về. HTTP được sử dụng rộng rãi nhất là HTTP/1.1, được định nghĩa đầy đủ ở RFC 2616. HTTP/1.1 có những chuẩn riêng mà Internet Explorer không hỗ trợ đầy đủ, nhưng hầu hết các trình duyệt web khác đều hỗ trợ đủ.
+Các trang được định vị bằng cách thức của một URL (bộ định vị tài nguyên chung) (RFC 1738), được coi như là một địa chỉ, bắt đầu bằng cụm http: để truy cập HTTP. Nhiều trình duyệt cũng hỗ trợ các kiểu URL khác và giao thức tương ứng, như gopher: cho Gopher (một giao thức siêu liên kết có thứ bậc), ftp: cho FTP (giao thức truyền file), rtsp: cho RTSP (giao thức streaming thời gian thực), và https: cho HTTPS (một phiên bản được mã hoá SSL của HTTP).
+Định dạng file của một trang web thường là HTML (ngôn ngữ đánh dấu siêu văn bản) và được xác định bởi giao thức HTTP sử dụng kiểu nội dung MIME. Phần lớn các trình duyệt hỗ trợ nhiều định dạng file khác bên cạnh HTML, như là các định dạng ảnh JPEG, PNG, GIF... và có thể mở rộng để hỗ trợ nhiều hơn nhờ sử dụng các plug-in. Sự kết hợp của kiểu nội dung HTTP và đặc tả giao thức URL cho phép các nhà thiết kế trang web có thể đưa ảnh, hoạt hình, video, âm thanh và đa phương tiện được streaming vào trang web, hoặc có thể truy cập chúng thông qua trang web.
+
+
+== Lịch sử ==
+
+
+== Xem thêm ==
+Danh sách các trình duyệt web
+So sánh các trình duyệt web
+Thị phần trình duyệt web
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==

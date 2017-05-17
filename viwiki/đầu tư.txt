@@ -1,0 +1,53 @@
+Đầu tư có ý nghĩa khác nhau trong [tài chính] và kinh tế học
+Trong kinh tế học, đầu tư có liên quan đến tiết kiệm và trì hoãn tiêu thụ. Đầu tư có liên quan đến nhiều khu vực của nền kinh tế, chẳng hạn như quản lý kinh doanh và tài chính dù là cho hộ gia đình, doanh nghiệp, hoặc chính phủ.
+Trong tài chính, đầu tư là đặt tiền vào một tài sản với kỳ vọng của vốn đánh giá cao, thường là trong tương lai dài hạn. Điều này có thể được hoặc không được hỗ trợ bởi nghiên cứu và phân tích. Hầu hết hoặc tất cả các hình thức đầu tư liên quan đến một số hình thức rủi ro, chẳng hạn như đầu tư vào cổ phần, bất động sản và thậm chí các chứng khoán lãi suất cố định mà có thể, ngoài những điều khác, rủi ro lạm phát.
+Ngược lại bỏ tiền vào một cái gì đó với một niềm hy vọng của lợi ích ngắn hạn, có hoặc không có phân tích kỹ lưỡng, là cờ bạc hay đầu cơ. Thể loại này sẽ bao gồm hầu hết các dạng của phái sinh, kết hợp một yếu tố rủi ro không là ngôi nhà dài hạn đối với tiền, và đặt cược vào con ngựa. Nó cũng sẽ bao gồm mua, ví dụ, một cổ phần công ty với hy vọng một lợi ích ngắn hạn mà không có ý định giữ nó trong thời gian dài. Theo giả thuyết thị trường hiệu quả, tất cả các đầu tư có rủi ro ngang nhau sẽ có ​​sẽ có cùng tỷ lệ thu hồi vốn dự kiến: đó là để nói rằng có một sự đánh đổi giữa rủi ro và hoàn vốn kỳ vọng. Nhưng điều đó không ngăn cản một người đầu tư trong các tài sản rủi ro trong dài hạn với hy vọng được hưởng lợi từ sự đánh đổi này. Việc sử dụng phổ biến thuật ngữ đầu tư để mô tả đầu cơ cũng đã có một ảnh hưởng trong đời sống thực tế nữa: nó làm giảm khả năng của nhà đầu tư phân biệt đầu tư và đầu cơ, giảm nhận thức của nhà đầu tư về rủi ro liên quan đến đầu cơ, tăng vốn dành cho đầu cơ, và giảm vốn khả dụng để đầu tư.
+
+
+== Trong kinh tế học hay kinh tế học vĩ mô ==
+Trong lý thuyết kinh tế hay kinh tế học vĩ mô, đầu tư là số tiền mua một đơn vị thời gian của hàng hóa không được tiêu thụ mà sẽ được sử dụng cho sản xuất trong tương lai (chẳng hạn: vốn). Ví dụ như xây dựng đường sắt hay nhà máy. Đầu tư trong vốn con người bao gồm chi phí học bổ sung hoặc đào tạo trong công việc. Đầu tư hàng tồn kho là sự tích tụ của các kho hàng hóa; nó có thể là tích cực hay tiêu cực, và nó có thể có dụng ý hoặc không có dụng ý. Trong đo lường thu nhập và sản lượng quốc gia, "tổng đầu tư" (được biểu diễn bởi biến số I) còn là một thành phần của tổng sản phẩm quốc nội (GDP), được đưa ra trong công thức GDP = C + I + G + NX, ở đây C là tiêu dùng, G là chi tiêu chính phủ, và NX là xuất khẩu ròng, là sự khác biệt giữa xuất khẩu và nhập khẩu, X − N. Do đó đầu tư là tất cả những gì còn lại của tổng chi phí sau khi tiêu dùng, chi tiêu chính phủ, và xuất khẩu ròng được trừ (tức là I = GDP − C − G − NX).
+Đầu tư cố định không dùng để ở (như nhà máy mới) và đầu tư khu dân cư (nhà ở mới) kết hợp với đầu tư tích trữ để làm thành I. "Đầu tư ròng" trừ khấu hao ra khỏi tổng đầu tư. Đầu tư cố định ròng là giá trị của sự gia tăng ròng trong tồn trữ vốn mỗi năm.
+Đầu tư cố định, như chi tiêu trong một khoảng thời gian ("mỗi năm"), không phải là vốn. Quy mô thời gian của đầu tư làm cho nó là một luồng. Ngược lại, vốn là một kho— đó là, đầu tư ròng được tích lũy vào một thời điểm (chẳng hạn như ngày 31 tháng 12).
+Đầu tư thường được mô hình hóa như một hàm của thu nhập và lãi suất, được đưa ra bởi mối quan hệ I = f(Y, r). Một gia tăng trong thu nhập khuyến khích đầu tư cao hơn, trong khi một lãi suất cao hơn có thể không khuyến khích đầu tư do nó trở nên tốn kém hơn để vay tiền. Ngay cả khi một doanh nghiệp lựa chọn để sử dụng quỹ riêng của mình trong một khoản đầu tư, lãi suất đại diện cho một chi phí cơ hội của đầu tư các quỹ này thay vì việc cho vay ra số tiền đó để có tiền lãi. 
+
+
+== Trong tài chính ==
+Trong tài chính, đầu tư là việc mua một tài sản hay mục với hy vọng rằng nó sẽ tạo ra thu nhập hoặc đánh giá cao trong tương lai và được bán với giá cao hơn. Nó thường không bao gồm tiền gửi tại ngân hàng hay tổ chức tương tự. Thuật ngữ đầu tư thường được sử dụng khi đề cập đến một triển vọng dài hạn. Điều này là trái ngược với làm trao đổi hoặc đầu cơ, đó là thực hành ngắn hạn liên quan đến một mức độ rủi ro cao hơn rất nhiều. Tài sản tài chính có nhiều hình thức và có thể từ các trái phiếu chính phủ siêu an toàn hoàn vốn thấp tới các cổ phiếu quốc tế phần thưởng cao nhưng rủi ro cao hơn nhiều. Một chiến lược đầu tư tốt sẽ đa dạng hóa các danh mục đầu tư theo nhu cầu cụ thể. Nhà đầu tư nổi tiếng và thành công nhất của mọi thời đại là Warren Buffett. Trong tháng 3 năm 2013 tạp chí Forbes đã xếp hạng Warren Buffett là số 2 trong danh sách Forbes 400 của họ. Buffett đã tư vấn trong rất nhiều bài báo và các cuộc phỏng vấn rằng một chiến lược đầu tư tốt là dài hạn và lựa chọn các tài sản phải đầu tư đòi hỏi thẩm định. Edward O. Thorp là một nhà quản lý quỹ phòng hộ rất thành công trong các năm 1970 và 1980 mà nói về một cách tiếp cận tương tự. Một điều khác mà cả hai đều có điểm chung là một cách tiếp cận tương tự đối với quản lý tiền đầu tư. Cho dù các yếu tố cơ bản được lựa chọn thành công như thế nào, nếu thiếu một chiến lược quản lý tiền đúng đắn, tiềm năng đầy đủ của tài sản không thể đạt được. Cả hai nhà đầu tư đã được chứng minh là sử dụng các nguyên tắc từ chuẩn mực Kelly đối với việc quản lý tiền. Nhiều máy tính tương tác mà sử dụng chuẩn mực Kelly có thể được tìm thấy trên mạng.
+Ngược lại, chi phí đô la (hoặc bảng Anh, vv) trung bình và định thời thị trường là các cụm từ thường được sử dụng trong tiếp thị của các đầu tư tập thể và có thể được cho là liên quan với đầu cơ.
+Các đầu tư thường được thực hiện gián tiếp thông qua các tổ chức trung gian, chẳng hạn như các quỹ hưu trí, ngân hàng, môi giới, và công ty bảo hiểm. Các tổ chức này có thể hồ tiền nhận được từ một số lượng lớn các cá nhân vào các quỹ như các tín thác đầu tư, tín thác đơn vị, SICAV, vv để thực hiện đầu tư quy mô lớn. Mỗi nhà đầu tư cá nhân sau đó có yêu cầu gián tiếp hoặc trực tiếp đến tài sản đã mua, chịu các khoản phí áp bởi các trung gian, có thể là lớn và đa dạng. Nó thường không bao gồm tiền gửi tại ngân hàng hay tổ chức tương tự. Đầu tư thường liên quan đến đa dạng hóa tài sản để tránh rủi ro không cần thiết và không hiệu quả.
+
+
+== Lịch sử ==
+Quy chuẩn Hammurabi (khoảng năm 1700 trước Công nguyên) cung cấp một khuôn khổ pháp lý cho đầu tư, thiết lập một phương tiện cho việc cầm cố tài sản thế chấp bằng việc hệ thống hóa quyền con nợ và chủ nợ liên quan đến đất cầm cố. Hình phạt đối với vi phạm nghĩa vụ tài chính là không nghiêm trọng như những tội ác liên quan đến chấn thương hoặc tử vong.
+Vào đầu những năm 1900 người mua cổ phiếu, trái phiếu và các chứng khoán khác được mô tả trong phương tiện truyền thông, các học viện, và thương mại như các nhà đầu cơ. Đến những năm 1950, thuật ngữ đầu tư đã đến để biểu thị kết thúc có tính conversative hơn của phổ chứng khoán, trong khi đầu cơ được áp dụng bởi các nhà môi giới tài chính và các cơ quan quảng cáo của họ cho các chứng khoán có rủi ro cao hơn nhiều thịnh hành vào thời điểm đó. Kể từ nửa cuối của thế kỷ 20, các thuật ngữ đầu cơ và nhà đầu cơ đã đề cập đặc biệt tới các mạo hiểm có rủi ro cao hơn.
+
+
+== Các loại đầu tư ==
+Các loại đầu tư gồm:
+
+
+=== Đầu tư truyền thống ===
+
+
+=== Đầu tư thay thế ===
+
+
+== Xem thêm ==
+Tài sản
+Rủi ro
+Đầu tư thay thế
+Đa dạng hóa đầu tư
+Đầu tư trực tiếp nước ngoài
+Danh sách các quốc gia theo tổng đầu tư cố định tính bằng tỷ lệ phần trăm của GDP
+Danh sách các chủ đề kinh tế học
+Mortgage investment corporation
+Tỷ suất hoàn vốn
+Đầu tư trách nhiệm xã hội
+Quỹ đầu tư đặc biệt
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Investing tại DMOZ

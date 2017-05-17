@@ -1,0 +1,111 @@
+Ubuntu (phát âm IPA uːˈbuːntuː) là một hệ điều hành máy tính dựa trên Debian GNU/Linux, một bản phân phối Linux thông dụng. Tên của nó bắt nguồn từ "ubuntu" trong tiếng Zulu, có nghĩa là "tình người", mô tả triết lý ubuntu: "Tôi được là chính mình nhờ có những người xung quanh," một khía cạnh tích cực của cộng đồng. Mục đích của Ubuntu bao gồm việc cung cấp một hệ điều hành ổn định, cập nhật cho người dùng thường, và tập trung vào sự tiện dụng và dễ dàng cài đặt. Ubuntu đã được đánh xếp hạng là bản phân phối Linux thông dụng nhất cho máy tính để bàn, chiếm khoảng 30% số bản Linux được cài đặt trên máy tính để bàn năm 2007.
+Ubuntu là phần mềm mã nguồn mở tự do, có nghĩa là người dùng được tự do chạy, sao chép, phân phối, nghiên cứu, thay đổi và cải tiến phần mềm theo điều khoản của giấy phép GNU GPL. Ubuntu được tài trợ bởi Canonical Ltd (chủ sở hữu là một người Nam Phi Mark Shuttleworth). Thay vì bán Ubuntu, Canonical tạo ra doanh thu bằng cách bán hỗ trợ kĩ thuật. Bằng việc để cho Ubuntu tự do và mở mã nguồn, Canonical có thể tận dụng tài năng của những nhà phát triển ở bên ngoài trong các thành phần cấu tạo của Ubuntu mà không cần phải tự mình phát triển.
+
+
+== Lịch sử ==
+Bản phát hành đầu tiên của Ubuntu là vào 20 tháng 10 năm 2004, bắt đầu bằng việc tạo ra một nhánh tạm thời của dự án Debian Linux. Việc này đã được thực hiện để một phiên bản mới của Ubuntu có thể được phát hành mỗi 6 tháng, tạo ra một hệ điều hành được cập nhật thường xuyên hơn. Bản phát hành Ubuntu luôn gồm bản GNOME mới nhất, và được lên lịch phát hành khoảng 1 tháng sau GNOME. Khác với các nhánh có mục đích chung trước của Debian - như MEPIS, Xandros, Linspire, Progeny và Libranet, phần nhiều trong số chúng dựa vào các phần mềm bổ sung có mã đóng mô hình của một doanh nghiệp. Ubuntu lại giống với triết lý của Debian hơn và dùng các phần mềm miễn phí (libre) vào mọi thời điểm.
+Các gói của Ubuntu nói chung dựa trên các gói từ nhánh không ổn định của Debian: cả 2 bản phân phối đều dùng gói có định dạng deb của Debian và APT/Synaptic để quản lý các gói đã cài. Ubuntu đã đóng góp trực tiếp và lập tức tất cả thay đổi đến Debian, chứ không chỉ tuyên bố chúng lúc phát hành, mặc dù các gói của Debian và Ubuntu không cần thiết "tương thích nhị phân" với nhau. Nhiều nhà phát triển Ubuntu cũng là người duy trì các gói khoá (gói chủ chốt) của chính Debian. Dù sao, Ian Murdock, nhà sáng lập của Debian, đã chỉ trích Ubuntu vì sự không tương thích giữa các gói của Ubuntu và Debian, ông nói rằng Ubuntu đã làm sai lệch quá xa so với Debian Sarge, do đó không còn giữ được sự tương thích.
+Trong quá trình phát triển, dự án Ubuntu đã cho ra đời nhiều phiên bản khác nhau của Ubuntu, như Ubuntu Desktop cho máy tính để bàn, Ubuntu Netbook Remix cho netbook (đã ngừng phát triển), Ubuntu Server cho các máy chủ, Ubuntu Business Desktop Remix cho các doanh nghiệp, Ubuntu for Android và Ubuntu for Phones cho các thiết bị di động.
+
+
+== Các phiên bản Ubuntu ==
+
+
+=== Phiên bản thông thường ===
+
+Các phiên bản Ubuntu được đặt tên theo dạng YY.MM (tên), trong đó Y tương ứng với năm phát hành, và MM tương ứng với tháng phát hành. Tên trong ngoặc là tên hiệu được đặt cho phiên bản trước khi phát hành chính thức. Trong tháng 10 năm 2004, Ubuntu phát hành phiên bản đầu tiên, Ubuntu 4.10. Mỗi phiên bản Ubuntu thông thường được hỗ trợ trong vòng 9 tháng, chúng cũng được phát hành định kỳ 6 tháng 1 lần và việc nâng cấp lên phiên bản mới hoàn toàn miễn phí. Người dùng được khuyến khích nâng cấp lên phiên bản mới để có thể sử dụng các tính năng mới nhất mà ứng dụng cung cấp. Phiên bản Ubuntu chính thức mới nhất hiện tại là Ubuntu 16.04 (Vivid Vervet), phát hành tháng 4 năm 2016.
+
+
+=== Phiên bản hỗ trợ lâu dài ===
+Ubuntu cũng có những phiên bản hỗ trợ dài hạn "Long Term Support", hỗ trợ trong vòng 3 năm đối với máy tính để bàn và 5 năm đối với máy chủ. Ubuntu 12.04 (Precise Pangolin) và Ubuntu 14.04(Trusty Tahr), phát hành ngày 29, tháng 4 năm 2012 và ngày 17, tháng 4 năm 2014 là hai phiên bản còn được hỗ trợ. Bản 12.04 và 14.04 (hỗ trợ 5 năm cho cả máy tính để bàn và máy chủ) sẽ được Canonicial phát hành cập nhật lifecyle 12.04.1, 12.04.2, 12.04.3 và 12.04.4 cho Ubuntu 12.04 và 14.04.1, 14.04.2, 14.04.3 và 14.04.4 cho Ubuntu 14.04. Các phiên bản Long Term Support sẽ được ra mất mỗi 2 năm một lần, và dự kiến sẽ ra mắt bản Long Term Support tiếp theo vào tháng 4 năm 2016.
+
+
+=== Các dự án khác ===
+Có những kế hoạch cho một nhánh tên mã là Grumpy Groundhog. Nó luôn là nhánh phát triển và kiểm tra các bản không ổn định, kết thúc việc kiểm duyệt mã nguồn của nhiều phần mềm và ứng dụng để sau đó chúng được phân phối như một phần của Ubuntu. Điều này cho phép những người dùng có khả năng và các nhà phát triển kiểm tra các phiên bản mới nhất của từng phần mềm riêng lẻ khi chúng vừa xuất hiện trong ngày, mà không cần phải tự tạo các gói; việc này giúp đưa ra những cảnh báo sớm về lỗi đóng gói trên một số kiến trúc nền. Bản Grumpy Groundhog chưa bao giờ được công bố.
+Hiện tại, Ubuntu được tài trợ bởi công ty Canonical. vào ngày 8 tháng 7 năm 2005, Mark Shuttleworth và công ty Canonical đã công bố việc thành lập Quỹ Ubuntu và cung cấp nguồn quỹ ban đầu là 10 triệu dola Mỹ. Mục đích của tổ chức là bảo đảm cho việc hỗ trợ và phát triển của tất cả phiên bản Ubuntu trong tương lai.
+
+
+== Các bản phân phối dựa trên Ubuntu ==
+
+
+=== Các bản phân phối chính thức ===
+Những bản phân phối sau đây được Canonical công nhận là các bản phân phối chính thức của Ubuntu, có đóng góp quan trọng cho dự án Ubuntu:
+Kubuntu, bản phân phối Ubuntu sử dụng môi trường làm việc KDE.
+Lubuntu, phiên bản gọn nhẹ, được khuyên dùng cho các máy tính cũ, có cấu hình không cao. Lubuntu sử dụng LXDE.
+Xubuntu, bản phân phối với giao diện mặc định là Xfce.
+Mythubuntu dành cho hệ thống MythTV, thích hợp cho giải trí gia đình.
+Ubuntu Studio phục vụ cho việc chỉnh sửa video và âm thanh chuyên nghiệp, bao gồm nhiều phần mềm chỉnh sửa đa phương tiện.
+Tuy nhiên, tất cả các bản phân phối trên không được hỗ trợ tài chính từ Canonical.
+
+
+=== Các bản phân phối không chính thức ===
+Nhờ tính thân thiện và dễ sử dụng mà Ubuntu đã được dùng làm cơ sở cho rất nhiều bản phân phối Linux khác nhau. Trong đó, được sử dụng rộng rãi nhất là Linux Mint, một bản phân phối hướng tới người mới làm quen với hệ điều hành Linux, sử dụng hai môi trường làm việc truyền thống là Cinnamon và MATE trong phiên bản chính. Ngoài ra, còn có nhiều bản phân phối với các lựa chọn phần mềm, giao diện đồ hoạ khác nhau như elementary OS, Netrunner, Moon OS, Peppermint OS, Trisquel...
+
+
+== Tính năng ==
+
+
+=== Đặc điểm ===
+
+Ubuntu kết hợp những đặc điểm nổi bật chung của hệ điều hành nhân Linux, như tính bảo mật trước mọi virus và malware, khả năng tùy biến cao, tốc độ, hiệu suất làm việc, và những đặc điểm riêng tiêu biểu của Ubuntu như giao diện bắt mắt, bóng bẩy, cài đặt ứng dụng đơn giản, sự dễ dàng trong việc sao lưu dữ liệu và sự hỗ trợ của một cộng đồng người dùng khổng lồ.
+
+
+=== Cài đặt ===
+Mỗi phiên bản phát hành có một đĩa chạy trực tiếp, cho phép người dùng xem xét phần cứng của họ có tương thích với hệ điều hành hay không trước khi cài đặt lên đĩa cứng bằng phần mềm Ubiquity. Tập tin ảnh đĩa có thể được tải về từ trang chủ Ubuntu, và các đĩa cài đặt có thể được cung cấp bởi bên thứ ba. Trong phiên bản Ubuntu 12.10, tập tin ảnh đĩa chỉ có thể được ghi lên đĩa DVD, USB, hoặc đĩa cứng, vì dung lượng của nó đã vượt quá giới hạn tối đa của đĩa CD.
+Đĩa cài đặt Ubuntu yêu cầu máy tính có từ 256 MB RAM trở lên. Quá trình cài đặt Ubuntu sử dụng giao diện đồ họa, tốc độ cài đặt phụ thuộc vào cấu hình máy tính, trung bình là từ 20 - 30 phút.
+Ngoài ra, người dùng có thể cài đặt Ubuntu lên một đĩa ảo bên trong Windows bằng bộ cài đặt Wubi. Mặc dù tốc độ xử lý có thể bị giảm sút so với cài đặt đầy đủ, nhưng bù lại, cài đặt bên trong Windows không yêu cầu người dùng phải phân vùng lại đĩa cứng và có thể được gỡ bỏ dễ dàng từ ngay trong Windows.
+
+
+=== Giao diện ===
+
+Kể từ phiên bản 11.04 (Natty Narwhal), Ubuntu sử dụng giao diện đồ hoạ Unity, là một trình cắm của Compiz, thay thế cho GNOME trong các phiên bản trước đây. Unity đã từng là giao diện đồ hoạ mặc định trong Ubuntu Netbook Edition, được thiết kế với mục đích giúp người dùng tận dụng hiệu quả hơn diện tích màn hình trong các thiết bị nhỏ như netbook hay máy tính bảng, trong khi vẫn đơn giản và thân thiện với người dùng.
+Cho đến tháng 4 năm 2005, Ubuntu có một gói tùy chọn được gọi là ubuntu-calendar, gói này tải về một hình nền mới vào mỗi tháng, phù hợp với chủ đề màu nâu của giao diện. Các hình nền này thể hiện những người mẫu bán khỏa thân và nó bị chỉ trích như "risqué (khêu gợi không thích hợp, thiếu tế nhị)". Điều này dẫn đến việc tạo ra những tên giễu như "Linuxxx" hay "Bản phân phối khiêu dâm".
+Hơn thế nữa, Ubuntu hướng đến khả năng sử dụng cho người dùng khuyết tật và hỗ trợ nhiều ngôn ngữ, trong đó có tiếng Việt, với mục đích có càng nhiều người dùng càng tốt. Ngay từ phiên bản 5.04, Unicode là bảng mã mặc định.
+
+
+=== Ứng dụng ===
+
+Mặc định, Ubuntu bao gồm nhiều phần mềm mã nguồn mở trong đĩa cài đặt, để người dùng có thể sử dụng trực tiếp. Đó là bộ ứng dụng văn phòng LibreOffice(Từ phiên bản Ubuntu 10.04), trình duyệt Internet Firefox, trình quản lý thư điện tử Evolution, trình gửi tin nhắn tức thời (IM) Empathy, trình tải file torrent Tranmission và trình biên tập đồ họa GIMP. Về truyền thông đa phương tiện, Ubuntu tích hợp trình phát, rip CD Sound Juicer, trình quản lý thư viện nhạc Banshee, trình xem phim Totem Movie Player và trình ghi âm Sound Recorder. Một số ứng dụng nhỏ như chụp màn hình, máy tính toán, các trò chơi bài và trò chơi giải đố cũng có sẵn.
+Việc cài đặt ứng dụng trong Ubuntu có nhiều phương tiện, phổ biến nhất là dùng Ubuntu Sofware Center. Ngoài ra, người sử dụng có thể dùng Synaptic Package Manager công cụ nâng cao, giúp cài đặt từng gói con của ứng dụng; hoặc sử dụng các công cụ dòng lệnh như apt-get, aptitude...
+
+
+== Sự phân loại và hỗ trợ các gói ==
+
+Ubuntu phân chia tất cả phần mềm thành 4 phần, được gọi là các thành phần, để thể hiện sự khác nhau trong bản quyền và mức độ được hỗ trợ.
+Các gói được quy về các thành phần như sau:
+Phần mềm "tự do" ở đây chỉ bao gồm những phần mềm thoả yêu cầu giấy phép của Ubuntu, nói chung, tương ứng với chính sách phần mềm tự do của Debian. (Dù sao, cũng có một ngoại lệ cho Main; nó "cũng có thể bao gồm các firmware nhị phân, các phông chữ (các phần được dùng bởi các thành phần của Main) không được phép sửa đổi nếu không có sự cho phép của tác giả" khi việc phân phối lại chúng không bị gây trở ngại.")
+Phần mềm không tự do thường không được hỗ trợ (Multiverse), nhưng cũng có ngoại lệ (Restricted) cho một số phần mềm không tự do quan trọng, như trình điều khiển của các thiết bị, không có chúng, người dùng không thể sử dụng Ubuntu trên hệ thống của họ, đặc biệt là các trình điều khiển card đồ hoạ nhị phân. Mức độ hỗ trợ bị giới hạn hơn main, vì các nhà phát triển không thể truy cập vào mã nguồn.
+Thường thì Main và Restricted chứa tất cả phần mềm cho một hệ thống Linux thông thường. Các phần mềm khác có cùng chức năng và các phần mềm chuyên dụng được liệt kê trong Universe và Multiverse.
+Ngoài các kho chính thức ra còn có Ubuntu Backports, một dự án được công nhận chính thức, liệt kê các phiên bản mới hơn của một vài phần mềm nào đó chỉ có trong phiên bản không ổn định của Ubuntu. Các kho không thể bao gồm tất cả nhưng nó chứa hầu hết các gói được người dùng yêu cầu, các gói này được liệt kê chỉ khi chúng đáp ứng được các yêu cầu về chất lượng.
+
+
+=== Các phần mềm độc quyền ===
+Ubuntu có một hệ thống chứng nhận cho phần mềm của bên thứ ba. Ubuntu chứng nhận phần mềm độc quyền sẽ làm việc tốt trong Ubuntu. Dù sao, vẫn có nhiều chương trình quen thuộc với người dùng trên các hệ điều hành không tự do, như Microsoft Windows, không tương thích và chưa được Ubuntu chứng nhận. Một vài phần mềm độc quyền không giới hạn bản phân phối được đưa vào thành phần multiverse của Ubuntu. Vài ví dụ về phần mềm không được phân phối bởi Ubuntu gồm có:
+Phần mềm cho phép chơi các tập tin video DVD đã bị khóa mã vùng, bởi vì tình trạng có vấn đề về luật pháp của thư viện giải mã DVD mã nguồn mở DeCSS tại nhiều khu vực trên thế giới.
+Thư viện mã hóa và giải mã cho nhiều định dạng độc quyền (hình ảnh/âm thanh) như Windows Media.
+Một số phần mở rộng được ưa chuộng cho các trình duyệt web, như Adobe's (trước là Macromedia's) Shockwave (không có phiên bản cho Linux) và Flash (một cách khắc phục cho sự ngăn cấm việc phân phối lại đã được quy định trong thỏa thuận bản quyền cho người dùng cuối là gói multiverse "flashplugin-nonfree" (flashplugin-không tự do), gói này sẽ tự động tải Linux Flash plugin trực tiếp từ trang web của Adobe và sau đó cài đặt nó.)
+
+
+== Cấu hình tối thiểu ==
+Phiên bản Desktop của Ubuntu hiện tại hỗ trợ các máy tính cấu trúc Intel x86, AMD, và ARM. Phiên bản server cũng hỗ trợ máy có cấu trúc SPARC Cũng có bản hỗ trợ không chính thức cho các cấu trúc PowerPC, IA-64 (Itanium) và PlayStation 3. Ngoài ra, cũng có hỗ trợ không chính thức cho nền tảng PowerPC
+Cấu hình tối thiểu cho quá trình cài đặt Ubuntu Desktop là máy có RAM 256 MB, ổ cứng còn 5 Gb chỗ trống, và card màn hình VGA hỗ trợ độ phân giải 640x480 trở lên. Cấu hình khuyên dùng cho quá trình cài đặt là máy có bộ vi xử lý 700 MHz x86, RAM 384 MB, ổ cứng còn 8 GB trống, và card màn hình VGA hỗ trợ độ phân giải 1024×768.
+Cấu hình tối thiểu cho việc cài đặt phiên bản server là máy có bộ vi xử lý 300 MHz x86, RAM 256 MB, và card màn hình VGA hỗ trợ độ phân giải 640x480 trở lên.
+Những máy tính không hỗ trợ đủ cấu hình tối thiểu, được khuyên dùng Lubuntu, một bản phân phối tương tự Ubuntu nhưng dựa trên môi trường làm việc LXDE.
+* - Để sử dụng các hiệu ứng đồ họa.
+
+
+== Phản hồi ==
+Theo một khảo sát vào tháng 8 năm 2007 trên 38.500 khách ghé thăm trang DesktopLinux.com, Ubuntu là bản phân phối thông dụng nhất với 30.3% số người trả lời cho biết đã dùng nó.
+Ubuntu được trao Giải thưởng Độc giả với tư cách là bản phân phối Linux tốt nhất trong Hội thảo LinuxWorld 2005 tại Luân Đôn, thường được đánh giá tốt trong các ẩn phẩm in hoặc trực tuyến, và đã đoạt Giải thưởng Bossie 2007 của InfoWorld cho HĐH Máy trạm Mã nguồn mở Tốt nhất.
+Mark Shuttleworth cho biết đã có ít nhất tám triệu người sử dụng Ubuntu vào cuối năm 2006, với kết quả là có một số lượng lớn các trang web không-thuộc-Canonical đã được mở thêm. Số lượng người sử dụng Ubuntu, theo dự đoán, đến năm 2009 là 30 triệu người, đứng đầu trong tất cả các bản phân phối Linux.
+Từ phiên bản 11.04, Unity trở thành môi trường làm việc mặc định của Ubuntu Desktop. Do được thiết kế cho các màn hình nhỏ, có nhiều điểm không phù hợp cho các màn hình lớn của máy tính để bàn, Unity đã gây ra nhiều tranh cãi trong cộng đồng người sử dụng Ubuntu. Đã có một số lượng người dùng chuyển sang dùng các bản phân phối khác được xây dựng dựa trên Ubuntu, như Xubuntu, Lubuntu, Kubuntu hay Linux Mint.
+Trong phiên bản Ubuntu Desktop 12.10 (Quantal Quetzal), Ubuntu đã tích hợp các gợi ý tìm kiếm từ Amazon.com trong Unity. Mặc dù tính năng này có thể được vô hiệu hoá dễ dàng trong bảng điều khiển, nó đã làm Ubuntu nhận nhiều chỉ trích từ người sử dụng về việc đưa quảng cáo thương mại vào trong hệ điều hành.
+
+
+== Liên kết ngoài ==
+Ubuntu Việt Nam
+Hướng dẫn cài đặt Ubuntu 7.04
+Ubuntu guide (unofficial)—Cẩm nang, phần mềm Những câu hỏi thường gặp, và tìm mẹo có ích
+
+
+== Chú thích ==

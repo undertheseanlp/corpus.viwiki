@@ -1,0 +1,279 @@
+Chữ Quốc ngữ là hệ chữ viết thống nhất chính thức hiện nay của tiếng Việt, sử dụng ký tự La Tinh, dựa trên các bảng chữ cái của nhóm ngôn ngữ Rôman, đặc biệt là bảng chữ cái Bồ Đào Nha, với các dấu phụ chủ yếu từ bảng chữ cái Hy Lạp.
+
+
+== Bảng chữ cái ==
+Bảng chữ cái chữ quốc ngữ
+
+Mỗi chữ cái đều có hai hình thức viết lớn và nhỏ. Kiểu viết lớn gọi là "chữ hoa" (chữ in hoa, chữ viết hoa). Kiểu viết nhỏ gọi là "chữ thường" (chữ in thường, chữ viết thường).
+Có một chữ cái đã bỏ không dùng nữa là Ꞗ ꞗ ( ). Chữ này được dùng để ghi lại phụ âm /β/ của tiếng Việt trước thế kỷ 19. Phụ âm /β/ không còn tồn tại trong tiếng Việt hiện đại, nó đã biến đổi thành phụ âm "b" và "v".
+Chữ quốc ngữ có 11 chữ ghép biểu thị phụ âm gồm:
+10 chữ ghép đôi: ch, gh, gi, kh, ng, nh, ph, qu, th, tr
+1 chữ ghép ba: ngh
+Chữ ghép là tổ hợp gồm từ hai chữ cái trở lên được dùng để ghi lại một âm vị hoặc một chuỗi các âm vị có cách phát âm không giống với âm vị mà các chữ cái trong tổ hợp chữ cái đó biểu thị. Chữ ghép đôi là chữ ghép có hai chữ cái, chữ ghép ba là chữ ghép có ba chữ cái.
+Có bốn chữ ghép biểu thị phụ âm sau đây hiện nay không được sử dụng nữa do sự thay đổi của ngữ âm tiếng Việt:
+tl: Biểu thị phụ âm kép /tl/ của tiếng Việt trung đại. Phụ âm kép "tl" đã biến đổi thành phụ âm "tr" của tiếng Việt hiện đại.
+bl: Biểu thị phụ âm kép /ɓl/ của tiếng Việt trung đại. Phụ âm kép "bl" đã biến đổi thành phụ âm "tr", "gi" của tiếng Việt hiện đại.
+ml: Biểu thị phụ âm kép /ml/ của tiếng Việt trung đại. Phụ âm kép "ml" đã biến đổi thành phụ âm "nh" của tiếng Việt hiện đại.
+mnh: Biểu thị phụ âm kép /mɲ/ của tiếng Việt trung đại. Phụ âm kép "mnh" đã biến đổi thành phụ âm "nh" của tiếng Việt hiện đại.
+Tên gọi các chữ cái
+Tên gọi của hai cặp chữ cái nguyên âm "a", "ă" và "ơ", "â" chỉ khác về thanh điệu. Chúng biểu thị các biến thể dài ngắn của cùng một nguyên âm, với "a", "ă' là nguyên âm /a/, với "ơ" và "â" là nguyên âm /ə/. Vì trong tiếng Việt khi /a/ và /ə/ là âm tiết thì không có sự phân biệt về độ dài của nguyên âm nên tên gọi của hai cặp chữ cái "a", "ă" và "ơ", "â" phải mang thanh điệu khác nhau để tránh cho chúng trở thành đồng âm.
+Bốn chữ cái "f", "j", "w" và "z" không có trong bảng chữ cái quốc ngữ nhưng trong sách báo có thể bắt gặp chúng trong các từ ngữ có nguồn gốc từ các ngôn ngữ khác. Trong tiếng Việt bốn chữ cái này có tên gọi như sau:
+f: ép,ép-phờ. Bắt nguồn từ tên gọi của chữ cái này trong tiếng Pháp là "effe" /ɛf/.
+j: gi. Bắt nguồn từ tên gọi của chữ cái này trong tiếng Pháp là "ji" /ʒi/.
+w: vê kép, vê đúp. Bắt nguồn từ tên gọi của chữ cái này trong tiếng Pháp là "double vé" /dubləve/.
+z: dét. Bắt nguồn từ tên gọi của chữ cái này trong tiếng Pháp là "zède" /zɛd/
+Hiện đang có ý kiến cho rằng, cần bổ sung thêm bốn chữ cái "f", "j", "w" và "z" vào bảng chữ cái quốc ngữ để hợp thức hóa cách sử dụng để đáp ứng sự phát triển của tiếng Việt hiện đại.
+
+
+== Chữ viết tay ==
+Thể chữ viết tay của chữ cái La Tinh gồm hai loại loại lớn là thể chữ in và thể chữ thảo, mỗi thể chữ này lại bao gồm nhiều thể chữ khác nhau. Trong thể chữ in tự hình của các chữ cái gần giống như các chữ được in trên sách báo, các chữ cái được viết tách rời, không nối với nhau. Trong thể chữ thảo các chữ cái được nối liền với nhau. Thể chữ in dễ đọc nhưng viết chậm, thể chữ thảo viết nhanh hơn nhưng khó đọc hơn. Các trường học ở Việt Nam không dạy thể chữ in, chỉ dạy thể chữ thảo. Trong thực tế không như những gì được dạy ở nhà trường, hầu hết người Việt Nam viết một thứ chữ pha trộn gồm cả chữ thảo lẫn chữ in. Các chữ hoa thường được viết theo thể chữ in vì chúng dễ viết hơn.
+Thể chữ thảo được dạy trong các trường học ở Việt Nam là thể chữ tròn Anh quốc. Thể chữ tròn Anh quốc ra đời ở Anh cuối thế kỷ 17, trên cơ sở cải biến thể chữ tròn Pháp quốc (còn gọi là thể "chữ rông" ["rông" là phiên âm từ Pháp "ronde" có nghĩa là tròn, hình tròn]). Như tên gọi của nó thể chữ tròn Pháp quốc do người Pháp tạo ra. Đến thế kỷ thứ 18 thể chữ tròn Anh quốc được truyền bá và sử dụng rộng rãi khắp châu Âu, trong đó có nước Pháp, nơi cung cấp chất liệu để tạo nên thể chữ tròn Anh quốc.
+
+
+== Đối chiếu chữ quốc ngữ với ngữ âm tiếng Việt ==
+
+
+=== Phụ âm đầu ===
+Phụ âm đầu trong chữ quốc ngữ là các chữ cái phụ âm và chữ ghép đứng đầu từ. Ví dụ: xem có phụ âm đầu là x, phim có phụ âm đầu là ph. Chữ quốc ngữ có 17 chữ cái phụ âm (b, c, d, đ, g, h, k, l, m, n, p, q, r, s, t, v, x) và 11 chữ ghép (ch, gh, gi, kh, ng, ngh, nh, ph, qu, th, tr). Tất cả các chữ cái phụ âm và chữ ghép trong chữ quốc ngữ đều có thể làm phụ âm đầu.
+
+
+=== Nguyên âm ===
+Có 11 nguyên âm đơn A, Ă, Â, E, Ê, I/Y, O, Ô, Ơ, U, Ư.
+Ngoài các nguyên âm đơn, trong tiếng Việt còn có: 32 nguyên âm đôi, còn gọi là trùng nhị âm (AI, AO, AU, ÂU, AY, ÂY, EO, ÊU, IA, IÊ/YÊ, IU, OA, OĂ, OE, OI, ÔI, ƠI, OO, ÔÔ, UA, UĂ, UÂ, ƯA, UÊ, UI, ƯI,UO, UÔ, UƠ, ƯƠ, ƯU, UY) và 13 nguyên âm ba hay trùng tam âm (IÊU/YÊU, OAI, OAO, OAY, OEO, UAO, UÂY, UÔI, ƯƠI, ƯƠU, UYA, UYÊ, UYU).
+Có 12 nguyên âm: Ă, Â, IÊ, OĂ, OO, ÔÔ, UÂ, UĂ, UÔ, ƯƠ, UYÊ, YÊ bắt buộc phải thêm phần âm cuối được chia theo quy tắc đối lập bổ sung như sau:
+Bắt buộc thêm nguyên âm cuối, hoặc phụ âm cuối: Â, IÊ,UÂ,UÔ,ƯƠ,YÊ.
+Bắt buộc thêm phụ âm cuối: Ă, OĂ, OO, ÔÔ, UĂ, UYÊ.
+Có 4 nguyên âm ghép có thể đứng tự do một mình hoặc thêm âm đầu, cuối, hoặc cả đầu lẫn cuối: OA, OE, UÊ, UY.
+Như vậy ta chỉ có 29 nguyên âm ghép không thêm được phần âm cuối là: AI, AO, AU, ÂU, AY, ÂY, EO, ÊU, IA, IÊU/YÊU, IU, OI, ÔI, ƠI, OAI, OAO, OAY, OEO, ƯA, UI, ƯI, ƯU, UƠ, UAI, UÂY, UÔI, ƯƠI, ƯƠU, UYA và UYU. Trong phát âm và viết thành chữ Quốc ngữ thì việc lên xuống, kéo dài âm từ để biểu hiện từ tượng thanh, tượng hình và lớn, nhỏ... luôn là việc cần thiết.
+Có mối liên hệ phức tạp giữa nguyên âm và cách phát âm của chúng. Một nguyên âm có thể biểu thị cho vài cách phát âm khác nhau, tùy theo nó nằm trong nguyên âm đơn, đôi hay ba, và nhiều khi các cách viết nguyên âm khác nhau tượng trưng cho cùng một cách phát âm.
+Bảng sau cho biết các cách phát âm có thể tương ứng với từng cách viết nguyên âm:
+Hiện nay các nhà ngôn ngữ học chưa có sự thống nhất hoàn toàn về số lượng nguyên âm trong tiếng Việt. Tuy nhiên, quan điểm phổ biến cho rằng tiếng Việt có 13 nguyên âm đơn, 3 nguyên âm đôi và không có nguyên âm ba, gồm: /i, e, ε, ɤ, ɤˇ, a, ɯ, ă, u, o, ɔ, ɔˇ, εˇ, ie, ɯɤ, uo/.
+Bảng sau cho biết các cách viết có thể tương ứng với từng cách phát âm nguyên âm đơn:
+Bảng sau cho biết các cách viết có thể tương ứng với từng cách phát âm nguyên âm đôi và ba:
+* Nhiều khi không được công nhận là nguyên âm mà là vần, gồm nguyên âm chính và âm cuối (bán nguyên âm) i.
+** Nhiều khi không được công nhận là nguyên âm mà là vần, gồm nguyên âm chính và âm cuối (bán nguyên âm) u.
+*** Nhiều khi không được công nhận là nguyên âm mà là vần, gồm nguyên âm chính và âm cuối (bán nguyên âm) o.
+
+
+=== Dấu thanh ===
+Tiếng Việt là ngôn ngữ thanh điệu, mọi âm tiết của tiếng Việt đều luôn mang một thanh điệu nào đó. Phương ngôn tiếng Việt miền Bắc có sáu thanh điệu, phương ngôn tiếng Việt miền Trung và miền Nam có năm thanh điệu.
+
+Trừ thanh ngang không có ký hiệu riêng để biểu thị (vì vậy mà một số người gọi nó là "thanh không dấu"), chữ quốc ngữ dùng năm ký hiệu gọi là "dấu thanh" hoặc "dấu", để biểu thị thanh điệu của tiếng Việt.
+
+
+=== Các vần trong chữ Quốc ngữ (Những vần cái của tiếng Việt) ===
+
+Tiếng Việt hiện đại có khoảng 200 vần, tiếng là một âm thanh được ghi lại gọi là chữ gồm năm yếu tố: Phụ âm đầu, Âm đệm, Âm chính, Âm cuối, và thanh điệu. Vần hay còn gọi âm vận nên không có phụ âm đầu và có thể vắng mặt nhiều yếu tố trên, nhưng âm chính và thanh điệu luôn luôn phải có. Vần được chia ra như sau: 
+
+Vần đơn: Chỉ có một nguyên âm và thanh điệu (a,e,o,u,..)
+Vần ghép: Do nhiều nguyên âm hợp lại và thanh điệu mà thành (ai, ay, oai,...).Vần ghép có thể là nguyên âm đôi hoặc nguyên âm ba.
+Vần trơn: Có nguyên âm ở cuối và thanh điệu (ai, êu, oai, ươi,...).
+Vần cản: Có phụ âm theo sau và thanh điệu (ac, ach, am, an, ang, anh, ap, at,...).
++ A, Ă, Â chỉ có 24 phụ âm đầu, không có phụ âm đầu GH, K, NGH và Q. Được liệt kê các vần như sau: - A, AC, ĂC, ÂC, ACH, AI, AM, ĂM, ÂM, AN, ĂN, ÂN, ANG, ĂNG, ÂNG, ANH, AO, AP, ĂP, ÂP, AT, ĂT, ÂT, AU, ÂU, AY, ÂY.
++ E, Ê chỉ có 24 phụ âm đầu,không có phụ âm đầu C, G, NG, Q.Được liệt kê các vần như sau: - E, Ê, EC, ÊCH, EM, ÊM, EN, ÊN, ENG, ÊNH, EO, EP, ÊP, ET, ÊT, ÊU.
++ I không có phụ âm đầu C, NG, Q. G ghép với I là phụ âm ghép GI, QU ghép với I thì phải đổi I thành Y. Được liệt kê các vần như sau: I, IA, ICH, IÊC, IÊM, IÊN, IÊNG, IÊP, IÊU, IÊT, IM, IN, INH, IP, IT, IU.
++ O, Ô, Ơ chỉ có 24 phụ âm đầu, không có phụ âm đầu GH, K, NGH, Q. Được liệt kê các vần như sau: - O, Ô, Ơ, OA, OAC, OĂC, OACH, OAI, OAM, OĂM, OAN, OĂN, OANG, OĂNG, OANH, OAO, OAP, OAT, OĂT, OAY, OC, ÔC, ƠC, OE, OEM, OEN, OENG, OEO, OET, OI, ÔI, ƠI, OM, ÔM, ƠM, ON, ÔN, ƠN, ONG, ÔNG, ƠNG, OOC, ÔÔC, OONG, ÔÔNG, OP, ÔP, ƠP, OT, ÔT, ƠT.
++ U, Ư chỉ có 24 hoặc 23 phụ âm đầu, vì đa số trường hợp U ghép với C phải đổi thành Q, không có phụ âm đầu GH, K, NGH. Q ghép với U thành QU là phụ âm ghép: - U, Ư, UA, ƯA, UÂC, UÂN, UÂT, UÂY, UC, ƯC, UÊ, UÊN, UÊNH, UÊT, UI, ƯI, UM, ƯM, UN, ƯN, UNG, ƯNG, UƠ, UÔC, ƯƠC, UÔI, ƯƠI, UÔM, ƯƠM, UÔN, ƯƠN, UÔNG, ƯƠNG, ƯƠP, UÔT, ƯƠT, ƯƠU, UP, UT, ƯT, ƯU, UY, UYA, UYCH, UYÊN, UYÊT, UYN, UYNH, UYP, UYT, UYU.
++ Y, YÊM, YÊN,YÊNG, YÊT, YÊU. Ngoại trừ Y chỉ có các phụ âm đầu H, K, L, M, QU, T, (hiếm gặp với N, S, V, TH), còn lại luôn luôn là âm đầu.
+
+
+== Chính tả ==
+
+Chính tả chữ Quốc ngữ là một quy định xã hội thống nhất cần tuân theo. Ý thức viết đúng chính tả là ý thức văn hóa. Những quy tắc chính tả dưới đây đã được tham khảo rất nhiều qua những thảo luận về chính tả tiếng Việt, thậm chí đã quay ngược lại lịch sử từ năm 1902 khi Hội nghị Khảo cứu Viễn Đông được tổ chức tại đây, vấn đề về chữ Quốc ngữ đã được Ủy ban Cải cách chữ Quốc ngữ đề nghị lên chính phủ Toàn quyền lúc bấy giờ. Từ đó tới nay, đã có rất nhiều thảo luận được tổ chức nên đã giúp quy tắc chính tả tiếng Việt dần được điển chế hoá tới một mức độ khả quan hơn. Song song đó, sự phát triển của khoa học công nghệ, đặc biệt là sự chuẩn hoá của mã chữ Unicode đã mang tính quyết định trong việc hệ thống hoá những quy tắc về chính tả tiếng Việt.
+
+
+=== Quy tắc sử dụng i và y ===
+Hai chữ "i" và "y" đều được gọi là "i", khi cần phân biệt thì dựa theo hình dạng của chúng chữ "i" được gọi là "i ngắn" (vì chiều dài của nó ngắn hơn chữ "y"), chữ "y" được gọi là "y dài". Chữ "y" được vay mượn từ bảng chữ cái Hy Lạp, tên gọi của nó trong tiếng La Tinh, tiếng Bồ Đào Nha và tiếng Pháp đều có nghĩa là "chữ y Hy Lạp". Trong tiếng Hy Lạp hiện đại (thường được tính mốc là bắt đầu từ năm 1453 khi Đế quốc Đông La Mã sụp đổ) chữ "y" biểu thị nguyên âm /i/. Trong tiếng La Tinh chữ "i" (còn được viết là "j") biểu thị hai nguyên âm /ɪ/, /iː/ và phụ âm /j/. Trong chữ quốc ngữ, chữ "i" cũng được dùng để ghi lại âm vị /i/ và /j/ giống như tiếng La Tinh nhưng không phải lúc nào hai âm vị /i/ và /j/ cũng được ghi lại bằng chữ cái "i", trong một số trường hợp chúng được ghi lại bằng chữ "y".
+Các giáo sĩ phương Tây khi đặt ra chữ quốc ngữ vì sợ rằng nếu ghi nguyên âm /i/ ở đầu từ bằng chữ cái "i" thì những người biết tiếng La Tinh có thể hiểu lầm chữ "i" ở đây biểu thị phụ âm /j/ dẫn tới đọc sai từ nên đã ghi nguyên âm /i/ ở đầu từ bằng chữ cái Hy Lạp "y" (vì trong tiếng Hy Lạp hiện đại chữ cái "y" cũng biểu thị phụ âm /i/ giống như chữ cái "i" trong chữ quốc ngữ).
+Hai vần "ay" /aj/ và "ai" /aːj/ đều mang nguyên âm /a/ và bán nguyên âm /j/, cái tạo nên sự khác biệt trong cách phát âm của hai vần này là trường độ của nguyên âm /a/. Vần "ay" chứa nguyên âm a ngắn /a/, vần "ai" /aːj/ chứa nguyên âm a dài /aː/. Sự khác biệt trong cách phát âm của hai vần "ây" /əj/ và "ơi" /əːj/ cũng nằm ở trường độ của nguyên âm, vần "ây" /əj/ chứa nguyên âm ơ ngắn /ə/, vần "ơi" /əːj/ chứa nguyên âm ơ dài /əː/. Chữ quốc ngữ đã có chữ "ă" để biểu thị nguyên âm a ngắn nhưng các giáo sĩ phương Tây đã không dùng chữ này để ghi lại nguyên âm a ngắn trong vần "ay". Vì muốn hạn chế dùng các chữ cái có dấu nên họ đã dùng chữ "a" để ghi lại cả nguyên âm a dài lẫn nguyên âm a ngắn trong vần "ai" và "ay". Để phân biệt hai vần này họ dùng hai chữ cái "i" và "y" để ghi lại bán nguyên âm /j/ trong hai vần "ay" và "ai". Với vần "ai" họ dùng chữ "i", với vần "ay" họ dùng chữ "y". Hai chữ "i" và "y" ở đây ngoài việc biểu thị bán nguyên âm /j/ trong hai vần ra còn báo cho người đọc biết nguyên âm đứng trước nó là nguyên âm dài hay nguyên âm ngắn, "i" biểu thị nguyên âm dài, "y" biểu thị nguyên âm ngắn. Để cho nhất quán bán nguyên âm /j/ trong vần "ây" (chứa nguyên âm ơ ngắn) được ghi bằng chữ "y", còn trong vần "ơi" (chứa nguyên âm ơ dài) nó được ghi lại bằng chữ "i". Vần "uy" /wi/ viết là "uy", vần "ui" /uj/ viết là "ui" (uy và ui đều mang bán nguyên âm /j/, /w/ và /u/ được ghi lại bằng cùng một chữ "u" giống như các vần khác). Vần "uy" đứng sau "q" viết là "u" như châu Âu (quy).
+Ngoài các trường hợp kể trên ra, trong các trường hợp còn lại nguyên âm /i/ và bán nguyên âm /j/ phải được viết bằng chữ cái "i".
+Nguyên nhân dẫn đến việc dùng hai chữ i dài i ngắn trong chữ quốc ngữ là như trên nhưng từ thuở ban đầu của chữ quốc ngữ đến nay vì nhiều nguyên nhân như do không biết nguồn gốc của hai chữ i ngắn y dài trong chữ quốc ngữ, do thói quen cố hữu, theo thẩm mỹ quan cá nhân (thấy ở trường hợp này trường hợp kia viết với chữ i hay chữ y thì dễ nhìn hơn), bắt chước theo cách viết của người khác vân vân, nguyên tắc sử dụng i và y đặt ra lúc ban đầu liên tục bị vi phạm. Ngay cả các giáo sĩ phương Tây cũng không tuân thủ triệt để. Người ta chỉ cố gắng viết đúng y dài i ngắn để phân biệt hai vần "ay" và "ai", trong các trường hợp khác người ta tùy tiện viết y dài i ngắn theo ý mình.
+Trong phương ngữ tiếng Việt miền Nam nguyên âm /a/ luôn là một nguyên âm dài khi đứng trước bán nguyên âm /j/, không còn sự đối lập về trường độ của nguyên âm /a/ nữa, do đó "ay" và "ai" trong phương ngữ miền Nam là đồng âm, đều được phát âm là /aj/. Vì "ay" và "ai" trong phương ngữ miền Nam chỉ là hai cách viết khác nhau theo quy ước chính tả của cùng một vần nên người miền Nam hay viết sai chính tả các từ có "ay" và "ai", chỗ theo chính tả phải viết là "ay" thì lại viết "ai" và ngược lại, chỗ phải viết là "ai" thì lại viết là "ay".
+Nhằm chấm dứt tình trạng viết i ngắn i dài lung tung đã có một số người, cơ quan, tổ chức đặt ra quy tắc sử dụng i và y của riêng mình, quy định khi nào viết chữ i, khi nào viết chữ y. Các quy tắc này thường không xét đến nguyên nhân các giáo sĩ phương Tây đưa hai chữ i ngắn i dài vào chữ quốc ngữ.
+
+
+==== Quy tắc sử dụng i và y trong sách giáo khoa ====
+Nguyên âm trong các âm tiết mở, viết i ngắn: kĩ (thuật), lý (thuyết), mĩ (thuật), hi (vọng), (nghệ) sĩ,...
+Nguyên âm đứng một mình (âm tiết độc lập) thì sẽ viết i ngắn nếu là từ thuần Việt: ỉ (eo), ì (à) ì (ạch), (béo) ị, (ầm) ĩ,... và y dài, nếu là từ Hán Việt: ý (kiến), (lưu) ý, y (sĩ), (chuẩn) y...
+Nguyên âm đứng đầu âm tiết, có tổ hợp nguyên âm hoặc nguyên âm đôi, viết y dài: yêu (quý), yểu (điệu), yến (tiệc), yêng (hùng), huỳnh huỵch...
+Trong các âm tiết nửa mở, nếu là tổ hợp nguyên âm [wi], như trong các từ quy (tắc), (thâm) thúy, (ma) túy, (xương) tủy, quỵ lụy... thì viết y dài. Nếu là tổ hợp nguyên âm [uj], như trong các từ cúi (đầu), túi (quần), tủi (hổ), xúi (bẩy), (tàn) lụi... thì viết i ngắn.
+
+
+==== Kiểu mới ====
+Trừ tên riêng, đề xuất tương đối hợp lý cách dùng hai chữ i ngắn và y dài hiện nay như sau:
+Đối với các âm tiết có phụ âm đầu /ʔ/, âm đệm /Ø/, âm chính /i/ và âm cuối /Ø/, thì có hai cách viết:
+Dùng "i" trong các trường hợp từ thuần Việt, cụ thể là: i - i tờ; ì - ì, ì ạch, ì à ì ạch, ì ầm, ì oạp; ỉ - lợn ỉ, ỉ eo, ỉ ôi; í - í a í ới, í oắng, í ới; ị - ị, béo ị
+Dùng "y" trong các trường hợp còn lại (thường là từ Hán-Việt), ví dụ: y - y tế, y nguyên, y phục; ỷ - ỷ lại; ý - ý nghĩa, ý kiến...
+
+Đối với các âm tiết có âm đệm /Ø/ và âm chính /iə/ thì dùng "i". Ví dụ: chịa, đĩa, tía... kiến, miền, thiến... Trừ trường hợp có âm đầu /ʔ/ và âm cuối không /Ø/ thì dùng "y": yếm, yến, yêng, yêu...
+Đối với các âm tiết có âm đệm /w/, âm chính là /i/ hoặc /iə/ thì dùng "y". Ví dụ: huy, quý, quýt... khuya, tuya, xuya... quyến, chuyền, tuyết, thuyết...
+Việc biểu diễn nguyên âm /i/ trong các trường hợp còn lại (âm đệm /Ø/) thì dùng "i". Ví dụ: inh, ích, ít... bi, chi, hi, kì, khi, lý, mì, phi, ti, si, vi... bình, chính, hít, kim, lịm, mỉm, nín, phình, tính, sinh, vinh...
+Việc biểu diễn âm cuối /-j/ không có gì thay đổi, vẫn dùng "y" trong các trường hợp có nguyên âm chính ngắn: (bàn) tay, (thợ) may, tây, sấy... và dùng "i" trong các trường hợp còn lại: (lỗ) tai, (ngày) mai, cơi, coi, côi...
+Dùng "i" trong trường hợp các tiếng có phụ âm đầu + vần "i" (ví dụ: lý, mĩ, kĩ, thi, sĩ...) đều thống nhất viết bằng "i" (i ngắn). Ví dụ: lý luận, lý tưởng, thi sĩ, nước Mĩ, Hoa Kì, bánh mì, vua Lý Thái Tông, Lý Bí, kỉ niệm, v.v... mà không viết "y" (y dài) như trước đây. Đây là quy định của Bộ Giáo duc Việt Nam từ năm 1963  (Có lẽ tác giả đoạn này lầm lẫn 1983 - 1984 thành 1963 ?). Hiện nay Nhà xuất bản Giáo dục vẫn thực hiện nghiêm chỉnh quy định này trong việc in Sách giáo khoa các loại.
+Theo quy định của Bộ giáo dục (1984) có quy định cách viết " I " như sau:
+
+- Nếu không có sự thay đổi về âm và nghĩa, trừ trường hợp " Y " đứng sau " QU ", hầu hết các từ có âm " I " ở cuối đều được viết thống nhất bằng " I ". Thí dụ: Hi sinh, kỉ niệm, lý luận, thẩm mĩ,... - Nếu "I" hoặc "Y" đứng một mình, đứng đầu từ hoặc ở giữa từ, ta viết theo thói quen cũ. Thí dụ: ý nghĩa, y tế, yêu thương, Nguyễn Khuyến,...
+
+
+==== Kiểu cũ ====
+Cách dùng "i" hoặc "y" kiểu cũ thì thường căn cứ vào Hán Việt Từ điển của Đào Duy Anh (1931). Theo đó thì "y" được dùng thay "i" với những từ gốc Hán Việt nếu đứng sau các phụ âm h, k, l, m, t, và q (qu). Vì vậy nên có "ngựa hí", "tì tay" (gốc Nôm) nhưng "song hỷ", "tỵ nạn" (gốc Hán Việt). Những phụ âm khác thì vẫn dùng "i" như "tăng ni" chứ không có ny. Người Việt ở hải ngoại dạy tiếng Việt cho trẻ em dùng mẹo để nhớ sáu phụ âm trên bằng câu "học mau lên kẻo ta quên".
+
+
+=== Quy tắc đánh dấu thanh ===
+
+Trong các nguyên âm đôi và ba có ít nhất hai cách đặt dấu phụ lên chúng, trong đó một cách ("cách mới") dựa trên lý thuyết ngôn ngữ học.
+Trong xếp thứ tự chữ cái, các chữ cái được ưu tiên, tiếp sau là dấu âm, dấu thanh điệu, và sau cùng là chữ hoa/chữ thường. Quá trình ưu tiên này được thực hiện lần lượt trên các âm tiết. Ví dụ một từ điển sẽ xếp "tuân thủ" trước "tuần chay".
+Có nhiều quan điểm khác nhau về việc vị trí đặt dấu thanh, một trong các quan điểm đó như sau:
+Với các âm tiết [-tròn môi] (âm đệm /Ø/) có âm chính là nguyên âm đơn: Đặt dấu thanh điệu vào vị trí của chữ cái biểu diễn cho âm chính đó. Ví dụ: á, tã, nhà, nhãn, gánh, ngáng...
+Với các âm tiết [+tròn môi] (âm đệm /w/, được biểu diễn bằng "o, u") có âm chính là nguyên âm đơn thì cũng bỏ dấu thanh điệu vào vị trí chữ cái biểu diễn cho âm chính. Ví dụ: hoà, hoè, quỳ, quà, quớ, thuỷ, nguỵ, hoàn, quét, quát, quỵt, suýt, loã, tuế,...
+Với các âm tiết có âm chính là nguyên âm đôi:
+Nếu là âm tiết [-khép] (nguyên âm được viết là: "iê, yê, uô, ươ"; âm cuối được viết bằng: "p, t, c, ch, m, n, ng, nh, o, u, i") thì bỏ dấu lên chữ cái thứ hai trong tổ hợp hai chữ cái biểu diễn cho âm chính. Ví dụ: yếu, uốn, ườn, tiến, chuyến, muốn, mượn, thiện, thuộm, người, viếng, muống, cường...
+Nếu là âm tiết [+khép] (nguyên âm được viết là: "ia, ya, ua, ưa") thì nhất loạt bỏ dấu vào vị trí chữ cái thứ nhất trong tổ hợp hai chữ cái biểu diễn cho âm chính. Ví dụ: tỉa, tủa, cứa, thùa, khứa, ứa,...
+
+Phân biệt vị trí đặt dấu thanh điệu ở tổ hợp "ua" và "ia":
+Với "ia" thì phân biệt bằng sự xuất hiện hay vắng mặt của chữ cái "g" ở đầu âm tiết. Có "g" thì đặt vào "a" (già, giá, giả...), không có "g" thì đặt vào "i" (bịa, chìa, tía...). Trường hợp đặc biệt: "gịa" (trong từ "giặt gịa", có nghĩa là "giặt giũ") - cách đọc: ghép phụ âm "gi" với nguyên âm kép "ịa"; "gìn" (trong từ "giữ gìn") - cách đọc: ghép phụ âm "gi" với vần "ìn"; "gì" - cách đọc: ghép phụ âm "gi" với nguyên âm đơn "ì"; tương tự: giếng; giêng; giềng; giết; gin.
+Với "ua" thì phân biệt bằng sự xuất hiện hay vắng mặt của chữ cái "q". Có "q" thì đặt vào "a" (quán, quà, quạ...), không có "q" thì đặt vào "u" (túa, múa, chùa...). Hoặc để giản tiện cho việc làm bộ gõ, có thể coi "qu" như là một tổ hợp phụ âm đầu tương tự như "gi, nh, ng, ph, th"... Khi đó, sẽ coi "quán, quà, quạ"... như là những âm tiết có âm đệm /Ø/.
+
+Trong đời sống, hiện vẫn tồn tại hai cách đặt dấu thanh trong tiếng Việt, vẫn xuất hiện trên cùng một văn bản, làm cho văn bản đẹp hơn, vẫn không sai. Ví dụ "hòa" là một cách đặt dấu thanh khác cho "hoà", trong đó "hòa" còn gọi là cách đặt dấu thanh "cũ". Bảng sau liệt kê các trường hợp mà hai cách đặt dấu thanh khác nhau:
+
+
+=== Dấu câu ===
+Chữ quốc ngữ sử dụng các dấu câu sau đây:
+Dấu chấm, còn gọi là dấu chấm câu:.
+Dấu phẩy, còn gọi dấu phết:,
+Dấu hỏi, còn gọi là dấu chấm hỏi, dấu hỏi chấm: ?
+Dấu chấm than, còn gọi là dấu cảm thán, dấu chấm cảm (có khi được gọi tắt là "dấu cảm"):!
+Dấu ba chấm, còn gọi là dấu chấm lửng:...
+Dấu ngoặc kép, còn gọi là dấu nháy kép: " ". Trong sách báo đôi khi được thay thế bằng dấu nháy đơn ' ', dấu ngoặc nhọn kép « », dấu ngoặc nhọn đơn ‹ ›.
+Dấu chấm phẩy, còn gọi là dấu chấm phết:;
+Dấu hai chấm::
+Dấu ngoặc đơn, còn gọi là dấu ngoặc tròn: (). Đôi khi dùng thêm dấu ngoặc vuông [ ].
+Dấu gạch ngang và dấu gạch nối: -
+
+
+=== Phiên âm ===
+Theo nguyên tắc dùng Quốc ngữ để phiên âm tất cả các từ không phải quốc ngữ (nghĩa là tiếng dân tộc khác với dân tộc Kinh - kể cả tiếng nước ngoài), nếu từ đa âm tiết thì dùng dấu gạch nối, phiên âm phải theo cách phát âm của người địa phương mang từ đó. Danh từ của Trung Quốc thì phiên âm Hán Việt đối với danh từ riêng chỉ lãnh tụ và danh từ chung chỉ địa danh. Cách viết giống tên riêng Việt Nam. Thí dụ: Cơ-ho, Nơ Trang Lơng, Mát-xcơ-va, Bắc Kinh, Pa-ri, Niu-tơn, Lu-i Pa-xtơ, Luân Đôn, Thích Ca Mâu Ni,...
+Phiên âm tức là đọc và ghi lại các từ ngữ không phải là tiếng Việt bằng các âm tiết có sẵn trong tiếng Việt, có cách phát âm tương tự hoặc gần tương tự. Cho đến hiện nay vẫn tồn tại tranh cãi quanh vấn đề khi nào cần phiên âm từ ngữ không phải là tiếng Việt sang tiếng Việt, khi nào không cần, nếu phiên âm thì sẽ thực hiện như thế nào, viết bằng chữ quốc ngữ ra sao.
+Hiện tại có các tranh cãi chủ yếu như sau về phương pháp phiên âm và cách ghi lại bằng chữ quốc ngữ các từ được phiên âm:
+Có nhất thiết phải căn cứ theo cách đọc trong ngôn ngữ gốc của từ được phiên âm để phiên âm sang tiếng Việt không? Nếu không thể tìm ra được cách đọc trong ngôn ngữ gốc mà chỉ biết được một số cách đọc khác nhau trong một số ngôn ngữ thì nên dựa theo cách đọc của ngôn ngữ nào?
+Nên viết liền hay viết tách rời có dấu cách hay viết tách rời không có dấu cách các âm tiết của một từ có nhiều âm tiết? Ví dụ như: nên viết là "phốt-pho", "phốtpho" hay "phốt pho"? Nếu viết liền thì làm thế nào để phân biệt các âm tiết, không bị đọc sai. Ví dụ như: "Xuphanuvông" đọc là "Xu-pha-nu-vông" hay "Xu-phan-u-vông"?
+Với địa danh không phải ở Trung Quốc nhưng lâu nay được mọi người quen gọi bằng tên gọi Hán Việt có cần dịch lại cho sát hơn với tên gọi trong ngôn ngữ gốc không? Ví dụ như Thổ Nhĩ Kỳ, Pháp, Đức...
+Với những từ gốc Hán thì trường hợp nào nên phiên âm theo âm Hán Việt, trường hợp nào nên phiên âm theo cách đọc trong tiếng Trung Quốc? Nếu phiên âm theo âm Hán Việt nhưng không thể biết được từ cần phiên âm có âm Hán Việt là gì thì sẽ phải dịch như thế nào?
+Nếu từ cần phiên âm mang một thanh điệu mà tiếng Việt không có thì từ này khi phiên âm sang tiếng Việt nên cho nó mang thanh điệu gì?
+Tiếng Việt là ngôn ngữ có thanh điệu. Một từ trong tiếng Việt luôn luôn phải mang một thanh điệu nào đó, không có từ không có thanh điệu. Nếu từ được phiên âm không mang thanh điệu thì khi phiên âm sang tiếng Việt có thể cấp phát thanh điệu tùy ý cho chúng được không? Nếu không thì nên mang thanh điệu gì?
+
+
+== Nguồn gốc một số chữ cái chữ quốc ngữ ==
+ă: Vay mượn từ tiếng La Tinh. Trong tiếng La Tinh dấu âm ngắn (˘) được thêm vào phía trên các chữ cái nguyên âm để biểu thị nguyên âm ngắn, "ă" biểu thị nguyên âm ngắn /a/. Nguyên âm ngắn và nguyên âm dài có cách phát âm giống nhau nhưng thời gian phát âm của nguyên âm dài dài hơn nguyên âm ngắn. "Ă" không được coi là một chữ cái trong bảng chữ cái tiếng La Tinh. Chữ quốc ngữ dùng chữ "ă" để biểu thị nguyên âm ngắn /a/ khi có sự phân biệt về độ dài của nguyên âm /a/. Ví dụ: [kan] và [kaːn]) được lần lượt ghi lại bằng chữ quốc ngữ là "căn" và "can".
+â: Vay mượn từ tiếng Bồ Đào Nha. Trong tiếng Bồ Đào Nha "â" biểu thị nguyên âm /ɐ/ và /ɐ̃/. Hai nguyên âm /ɐ/ và /ɐ̃/ trong tiếng Bồ Đào Nha là nguyên âm đọc mạnh, dấu mũ (ˆ) phía trên chữ a biểu thị độ cao của chúng. "Â" không được coi là một chữ cái trong bảng chữ cái tiếng Bồ Đào Nha. Chữ quốc ngữ dùng chữ "â" để biểu thị nguyên âm ngắn /ə/ khi có sự phân biệt về độ dài của nguyên âm /ə/, dấu mũ (ˆ) phía trên chữ a biểu thị đây là nguyên âm dài. Nguyên âm ngắn và nguyên âm dài có cách phát âm giống nhau nhưng thời gian phát âm của nguyên âm dài dài hơn nguyên âm ngắn. Ví dụ: [kən] và [kəːn]) lần lượt được ghi bằng chữ quốc ngữ là "cân" và "cơn".
+c: Vay mượn từ tiếng Bồ Đào Nha. Trong tiếng Bồ Đào Nha chữ "c" khi đứng trước "a", "o", "u" sẽ biểu thị phụ âm /k/, khi đứng trước "e", "i" sẽ biểu thị phụ âm /s/. Chữ quốc ngữ dùng chữ "c" để biểu thị phụ âm /k/. Vì trong tiếng Bồ Đào Nha chữ "c" khi đứng trước "e", "i" sẽ biểu thị phụ âm /s/ nên để tránh cho những người biết tiếng biết Bồ Đào Nha khỏi đọc sai, trong chữ quốc ngữ phụ âm đầu /k/ được ghi lại bằng chữ "c" khi sau nó là nguyên âm "a", "ă", "â", "o", "ô", "ơ", "u", "ư", ghi bằng chữ "k" nếu sau nó là nguyên âm "e", "ê", "i". Ví dụ: /kɛɔ/ được ghi lại bằng chữ quốc ngữ là "keo", không được viết là "ceo".
+ch: Vay mượn từ tiếng Bồ Đào Nha. Trong tiếng Bồ Đào Nha chữ cái ghép đôi "ch" biểu thị phụ âm /ʃ/. Chữ quốc ngữ đã mượn chữ cái ghép đôi "ch" của tiếng Bồ Đào Nha để ghi một phụ âm trong tiếng Việt có cách phát âm gần giống với phụ âm /ʃ/ trong tiếng Bồ Đào Nha là /c/.Phương ngữ miền Nam có sự lẫn lộn "CH" thành "T" cho phụ âm cuối.
+d: Trong hầu hết các hệ thống chữ viết dựa trên chữ La Tinh chữ "d" thường dùng để ghi lại phụ âm /d/ hoặc /d̪/ nhưng vì trong tiếng Việt trung đại (và cả tiếng Việt hiện đại) không có hai phụ âm này nên chữ "d" được dùng để ghi lại một phụ âm trong tiếng Việt trung đại có cách phát âm gần giống là /ð/. Phụ âm /ð/ không còn tồn tại trong tiếng Việt hiện đại, nó đã biến đổi thành phụ âm /z/ trong phương ngữ Bắc và phụ âm /j/ trong phương ngữ Nam.
+đ: Chữ này được tạo thành bằng cách thêm một nét gạch ngang ngắn vào chữ "d" để ghi lại phụ âm /ɗ/, ý là cách phát âm của phụ âm /ɗ/ có phần giống với phụ âm /d/ và /t/.
+ê: Vay mượn từ tiếng Bồ Đào Nha. Trong tiếng Bồ Đào Nha "ê" biểu thị nguyên âm /e/ và nguyên âm đôi /əj/. Nguyên âm /e/ trong tiếng Bồ Đào Nha là nguyên âm đọc nặng, dấu mũ (ˆ) phía trên chữ e biểu thị độ cao của nó. "Ê" không được coi là một chữ cái trong bảng chữ cái tiếng Bồ Đào Nha. Chữ quốc ngữ dùng chữ "ê" để biểu thị nguyên âm /e/ và /ə/ (trong nguyên âm đôi "iê" /iə/).
+g: Vay mượn từ tiếng Bồ Đào Nha. Trong tiếng Bồ Đào Nha chữ cái "g" khi đứng trước "a", "o", "u" sẽ biểu thị phụ âm /ɡ/, khi đứng trước "e", "i" sẽ biểu thị phụ âm /ʒ/. Chữ quốc ngữ mượn chữ cái "g" của tiếng Bồ Đào Nha để ghi lại một phụ âm trong tiếng Việt có cách phát âm gần giống với /ɡ/ là /ɣ/. Vì trong tiếng Bồ Đào Nha chữ cái "g" khi đứng trước "e", "i" sẽ biểu thị phụ âm /ʒ/ nên để tránh cho người biết tiếng Bồ Đào Nha khỏi đọc sai chữ quốc ngữ chữ ghép đôi "gh" mượn từ tiếng Ý để ghi lại /ɣ/ khi sau nó là nguyên âm "e", "ê", "i". Ví dụ: /ɣo/, /ɣe/ lần lượt được ghi bằng chữ quốc ngữ ghi là "gỗ", "ghế", không viết là "ghỗ", "gế".
+gh: Vay mượn từ tiếng Ý. Trong tiếng Ý chữ cái "g" biểu thị phụ âm /ɡ/ khi đứng trước "a", "o", "u", biểu thị phụ âm /d͡ʒ/ khi đứng trước "e", "i". Phụ âm /ɡ/ khi đi với nguyên âm "e", "i" sẽ được ghi lại bằng "gh". Chữ quốc ngữ mượn chữ "g" của tiếng Bồ Đào Nha để ghi lại phụ âm /ɣ/ của tiếng Việt. Trong tiếng Bồ Đào Nha cũng có hiện tượng "g" khi đứng trước "e", "i" đọc khác với "g" đứng trước "a", "o", "u". Để tránh cho những người biết tiếng Bồ Đào Nha và tiếng Ý khỏi đọc sai, trong chữ quốc ngữ phụ âm /ɣ/ sẽ được ghi lại bằng chữ ghép đôi "gh" mượn từ tiếng Ý khi sau nó là nguyên âm "e", "ê", "i". Ví dụ: /ɣe/, /ɣo/ lần lượt được ghi bằng chữ quốc ngữ ghi là "ghế" "gỗ", không viết là "gế", "ghỗ".
+gi: Vay mượn từ tiếng Ý. Trong tiếng Ý chữ cái "g" biểu thị phụ âm /ɡ/ khi đứng trước "a", "o", "u", biểu thị phụ âm /d͡ʒ/ khi đứng trước "e", "i". Khi sau "g" là "i", sau "i" là "a", "o", "u" thì "i" không ghi lại âm vị nào, nó chỉ đóng vai trò là một chỉ báo về cách phát âm của chữ "g" đứng trước nó, cho biết rằng chữ "g" ở đây biểu thị phụ âm /d͡ʒ/ chứ không phải là /ɡ/. Vì phụ âm /ʝ/ của tiếng Việt trung đại có cách phát âm gần giống với phụ âm /d͡ʒ/ của tiếng Ý nên chữ quốc ngữ đã mượn "gi" của tiếng Ý để ghi lại phụ âm /ʝ/ và âm tiết /ʝi/ của tiếng Việt trung đại. Trong phương ngữ Bắc và phương ngữ Nam của tiếng Việt hiện đại phụ âm /ʝ/ không còn tồn tại, nó đã biến đổi thành phụ âm /z/ trong phương ngữ Bắc và phụ âm /j/ trong phương ngữ Nam. Ngày nay, "dàn" và "giàn", "dì" và "gì" trong hai phương ngữ Bắc và Nam là đồng âm.
+i: Không rõ từ đâu trong phương ngữ miền Nam, nếu ghép với một phụ âm cuối thì đa số đọc thành "Ư" ngoại trừ "M". Thí dụ: Inh/ưn,it/ưt,ích/ứt
+k: Vay mượn từ tiếng Hy Lạp. Trong tiếng Hy Lạp chữ cái "k" biểu thị phụ âm /k/. Trong chữ quốc ngữ phụ âm đầu /k/ được ghi lại bằng chữ "k" khi sau nó là nguyên âm "e" /ɛ/, "ê" /e/, "i/y" /ɛ/, ghi bằng chữ "c" khi sau nó là nguyên âm "a", "ă", "â", "o", "ô", "ơ", "u", "ư". Mục đích là để tránh cho những người biết tiếng Bồ Đào Nha khỏi đọc sai vì trong tiếng Bồ Đào Nha chữ "c" khi đứng trước ba chữ "e", "i", "y" sẽ biểu thị phụ âm /s/, chứ không phải là phụ âm /k/.
+kh: Bắt nguồn từ cách chuyển tự các phụ âm bật hơi của tiếng Hy Lạp cổ đại sang chữ La Tinh. Các phụ âm bật hơi trong tiếng Hy Lạp cổ đại được chuyển tự sang chữ La Tinh bằng cách lấy một chữ cái biểu thị một phụ âm có cách phát âm tương tự với phụ âm cần chuyển tự nhưng không bật hơi rồi thêm chữ "h" vào phía sau. Phụ âm bật hơi /kʰ/ của tiếng Hy Lạp cổ đại (trong tiếng Hy Lạp được ghi bằng chữ "χ") được chuyển tự sang tiếng La Tinh thành "ch". Tiếng Việt trung đại cũng có phụ âm /kʰ/. Chữ quốc ngữ đã phỏng theo cách thức chuyển tự trên để ghi lại phụ âm /kʰ/ của tiếng Việt trung đại bằng chữ cái ghép đôi "kh" (chữ cái ghép đôi "ch" đã dùng để ghi lại một phụ âm khác của tiếng Việt). Trong tiếng Việt hiện đại phụ âm /kʰ/ không còn tồn tại trong phương ngữ Bắc, nó đã biến đổi thành phụ âm /x/, phương ngữ Nam thì vẫn còn phụ âm này.
+nh: Vay mượn từ tiếng Bồ Đào Nha. Trong tiếng Bồ Đào Nha và quốc ngữ chữ cái ghép đôi "nh" đều biểu thị phụ âm /ɲ/.
+ô: Vay mượn từ tiếng Bồ Đào Nha. Trong tiếng Bồ Đào Nha chữ o với dấu mũ dấu mũ (ˆ) "ô" biểu thị nguyên âm /o/. Nguyên âm /o/ trong tiếng Bồ Đào Nha là nguyên âm đọc nặng, dấu mũ (ˆ) phía trên chữ o biểu thị độ cao của nó. "Ô" không được coi là một chữ cái trong bảng chữ cái tiếng Bồ Đào Nha. Chữ quốc ngữ cũng dùng chữ "ô" đề biểu thị nguyên âm /o/ giống như trong tiếng Bồ Đào Nha.
+ph: Bắt nguồn từ cách chuyển tự các phụ âm bật hơi của tiếng Hy Lạp cổ đại sang chữ La Tinh. Các phụ âm bật hơi trong tiếng Hy Lạp cổ đại được chuyển tự sang chữ La Tinh bằng cách lấy một chữ cái biểu thị một phụ âm có cách phát âm tương tự với phụ âm cần chuyển tự nhưng không bật hơi rồi thêm chữ "h" vào phía sau. Phụ âm bật hơi /pʰ/ của tiếng Hy Lạp cổ đại (trong tiếng Hy Lạp được ghi bằng chữ "φ") được chuyển tự sang tiếng La Tinh thành "ph". Tiếng Việt trung đại cũng có phụ âm /pʰ/ nên chữ quốc ngữ đã mượn chữ cái ghép đôi "ph" để ghi lại /pʰ/ của tiếng Việt trung đại. Phụ âm /pʰ/ không còn tồn tại trong tiếng Việt hiện đại, nó đã biến đổi thành phụ âm /f/.
+s: Vay mượn từ tiếng Bồ Đào Nha. Đa số phát âm sai "S" thành "X".
+th: Bắt nguồn từ cách chuyển tự các phụ âm bật hơi của tiếng Hy Lạp cổ đại sang chữ La Tinh. Các phụ âm bật hơi trong tiếng Hy Lạp cổ đại được chuyển tự sang chữ La Tinh bằng cách lấy một chữ cái biểu thị một phụ âm có cách phát âm tương tự với phụ âm cần chuyển tự nhưng không bật hơi rồi thêm chữ "h" vào phía sau. Phụ âm bật hơi /tʰ/ của tiếng Hy Lạp cổ đại (trong tiếng Hy Lạp được ghi bằng chữ "τ") được chuyển tự sang tiếng La Tinh thành "th". Tiếng Việt cũng có phụ âm /tʰ/ nên chữ quốc ngữ đã mượn chữ cái ghép đôi "th" để ghi lại phụ âm /tʰ/ của tiếng Việt.Người Thủ Dầu Một xưa kia đa số phát âm sai "TH" thành "KH".
+x: Vay mượn từ tiếng Bồ Đào Nha. Trong tiếng Bồ Đào Nha chữ cái "x" khi đứng đầu từ luôn biểu thị phụ âm /ʃ/. Chữ quốc ngữ dùng chữ "x" để ghi lại một phụ âm của tiếng Việt trung đại có cách phát âm gần giống với phụ âm /ʃ/ là /ɕ/. Phụ âm /ɕ/ không còn tồn tại trong tiếng Việt hiện đại, nó đã biến đổi thành phụ âm /s/.
+
+
+== Lịch sử ==
+
+
+=== Thời kỳ đầu ===
+Chữ Quốc ngữ được phổ biến sâu rộng và định chế vào khoảng thế kỷ 19 và 20 nhưng đã xuất hiện phôi thai từ lâu, có lẽ ngay từ năm 1533 khi giáo sĩ phương Tây tên là I-nê-khu đi từ đường biển vào truyền đạo Thiên Chúa ở tỉnh Nam Định (giáo phận Bùi Chu). Các giáo sĩ Tây phương đầu tiên đến Việt Nam và giao tiếp với người Việt rồi vì nhu cầu học hỏi ngôn ngữ Việt (lúc đó còn dùng chữ Hán và chữ Nôm) để giao tiếp với người bản xứ mà bắt đầu ghi lại bằng cách phiên âm tiếng Việt dưới dạng chữ La tinh. Trước tiên là các giáo sĩ Bồ Đào Nha dòng Phanxicô; kế đến là các giáo sĩ Tây Ban Nha dòng Đa Minh rồi dòng Tên. Sang thế kỷ 17 thì số văn tịch ghi lại dấu vết loại chữ này càng nhiều, kèm theo những biến đổi hoàn chỉnh với ký hiệu thanh giọng thêm chính xác. Tên tuổi những giáo sĩ đã tiên phong góp công trong việc hoàn chỉnh lối chữ này gồm có Gaspar do Amaral, Antonio Barbosa và Francisco de Pina.
+Giáo sĩ Đắc Lộ (tức Alexandre de Rhodes) người Pháp được coi là người có công nhiều trong việc định chế chữ quốc ngữ qua cuốn tự điển phiên âm Dictionarium Annamiticum Lusitanum et Latinum mà ông soạn và in ra năm 1651. Tuy là người Pháp nhưng ông lại dùng tiếng Bồ Đào Nha trong cuốn tự điển cùng những đóng góp của tiếng Ý và tiếng Pháp. Soạn giả còn ghi rõ ông mượn dấu sắc, huyền, ngã từ tiếng Cổ Hy Lạp mà vẫn không đủ nên phải thêm iota subscriptum (dấu nặng) và dấu hỏi để biểu lộ thanh giọng của tiếng Việt..
+So sánh ký hiệu thì âm nh theo tiếng Bồ Đào Nha; gi theo tiếng Ý; còn "ph" theo tiếng Cổ Hy Lạp.
+Các văn bản Công giáo thời kỳ này là tài liệu ghi chép quan trọng về cách phát âm của tiếng Việt cổ. Trong những tài liệu còn lưu trữ được là bản thảo "Manescrito, em que se Prou a, que a forma do Bauptisma Pronunciada em Lingoa Annamica he Verdadeira" do giáo sĩ Giovanni Filippo de Marini (1608-1682) người Ý thuộc dòng Tên, sang đến Đàng Ngoài giảng đạo năm khoảng thập niên 1650, thì lối viết chữ Quốc ngữ ở giai đoạn đó như sau:
+
+Tau rửa mầi nhân danh Cha, ủa Con, ủa Spirite Santo. Tau lấy tên Chúa, tốt tên, tốt danh, tốt tiếng, vô danh, cắt ma, cắt xác, Blai có ba hồn bảy uía, Chúa Bloy Ba Ngôy nhẩn danh...
+
+
+=== Thế kỷ 19 ===
+
+Một mốc quan trọng của chữ Quốc ngữ là cuốn tự điển của giáo sĩ Jean-Louis Taberd, in năm 1838, căn cứ vào những sửa chữa của Giám mục Bá Đa Lộc.
+Cuốn tự điển của Bá Đa Lộc được soạn từ năm 1773 đến 1815 thì hoàn thành, mang tên Dictionarium Anamatico-Latinum nhưng chưa được in ra (bản viết tay nay còn giữ ở Văn khố Hội Truyền giáo Paris). Trong khi đó tự điển của Taberd mang tên Nam Việt Dương Hiệp Tự vị (tựa tiếng La Tinh cũng giống như cuốn của Bá Đa Lộc là Dictionarium Anamatico-Latinum) được in ở Serampore, Ấn Độ. Nó phản ảnh một biến chuyển quan trọng của tiếng Việt trong khoảng thời gian giữa thế kỷ 17 và thế kỷ 19. So sánh tự điển của Taberd và De Rhodes thì âm "ꞗ" () biến mất, thay thế bằng âm "v" hoặc "b". Những âm "bl", "ml", "pl", "sl", và "tl" cũng biến mất, thay thế bằng "tr", "nh", "l", "s". Dạng chính tả của chữ Quốc ngữ ở thời điểm này không khác mấy cách viết ngày nay.
+Cuốn tự điển có phần phụ lục tựa là "Lời Chúa Tàu và Người Annam vấn đáp cùng nhau" (Dialogus Inter Unum Navis Praevectum et Unum Cocincinensem), trong đó có đoạn như sau:
+
+- Ông đi viếng Quan lớn thì được song thói nước nầy chẳng cho phép thăm đờn bà.
+
+- Tôi cam lòng chìu theo quốc pháp, tôi chẳng có ý làm đều gì nghịch cùng thói phép đất nầy, có tục ngữ rằng: nhập giang tùy khúc nhập gia tùy tục.
+
+Đọc qua, ngoài một số chữ khác biệt cách viết nhưng ý đã rõ, không là trở ngại cho độc giả thế kỷ 21. Tuy nhiên vào thời điểm này phạm vi dùng chữ Quốc ngữ vẫn hạn chế trong việc ghi chép của cộng đồng Công giáo. Ngoài ra đại chúng người Việt không dùng lối chữ này.
+
+
+=== Địa vị chính thức ===
+
+Chữ Quốc ngữ trên chặng đường hơn 300 năm vẫn không được công nhận là văn tự chính thức cho tới khi người Pháp xâm lăng, chiếm lấy Nam Kỳ vào cuối thế kỷ 19. Ngày 22 tháng 2 năm 1869 Phó Đề đốc Marie Gustave Hector Ohier ký nghị định bắt buộc dùng chữ Quốc ngữ thay thế chữ Nho trong các công văn ở Nam Kỳ.
+Nghị định 82 ký ngày 6 Tháng 4, 1878 do Thống đốc Nam Kỳ Lafont ký cũng đề ra cái mốc hẹn trong bốn năm (tức năm 1882) thì phải chuyển hẳn sang chữ Quốc ngữ:
+
+Kể từ mồng một Tháng Giêng năm 1882 tất cả văn kiện chánh thức, nghị định, quyết định, lịnh, án tòa, chỉ thị... sẽ viết, ký tên và công bố bằng chữ quốc ngữ; nhân viên nào không thể viết thơ từ bằng chữ quốc ngữ sẽ không được bổ nhậm và thăng thưởng trong ngạch phủ, huyện và tổng...
+
+Ngày 1 Tháng Giêng năm 1879 thì lại có lệnh khẳng định các văn kiện chính thức phải dùng chữ Quốc ngữ. Cũng năm đó chính quyền Pháp đưa chữ Quốc ngữ vào ngành giáo dục, bắt đầu ở các thôn xã Nam Kỳ phải dạy lối chữ này. Để khuyến khích việc truyền bá chữ Quốc ngữ, nhà chức trách thuộc địa Nam Kỳ còn ra nghị định ngày 14 Tháng 6 năm 1880 giảm hoặc miễn thuế thân và miễn sưu dịch cho thân hào hương lý nếu họ biết viết chữ Quốc ngữ.
+Khi Gia Định Báo phát hành, tờ báo đầu tiên bằng tiếng Việt, thì câu văn đã thêm phần mạch lạc, chính tả không mấy khác ngữ văn ngày nay ví dụ như bản thông báo ngày 22 tháng 12 năm 1888 sau đây:
+
+Sở Thuế Chánh Ngạch. Các người thiếu thuế... đặng hay: các sổ phụ trong tháng Octobre 1888 thuế đất, thuế sanh ý, thuế ghe biển, thuế ghe sông, cùng thuế thân đã lập theo phép để trong tay quan Kho Bạc Sài Gòn và Chợ Lớn hay về việc thâu thuế. Bởi đó sức cho các người ấy phải y theo hạn trong luật dạy mà đóng các món thuế biên trong sổ ấy, bằng không thì phải cứ phép mà bắt buộc...
+
+
+=== Thế kỷ 20 ===
+
+Sang thế kỷ 20 thì chính phủ Đông Pháp mở rộng chính sách dùng chữ Quốc ngữ, giao cho Nha Học chính giảng dạy ở Bắc Kỳ từ năm 1910. Thượng thư bộ Học là Cao Xuân Dục có công văn trả lời Toàn quyền Đông Dương với ý tán đồng "cả nước cùng học chữ Quốc ngữ La Tinh, tuyển chọn các vị cử nhân, tú tài, tôn sinh, ấm sinh người bản quốc sung làm giáo sư và thành lập viện dịch chữ Quốc ngữ... Nay vâng mệnh Hoàng đế bản quốc lập ra trường chuyên dạy thứ chữ này chính là muốn thống nhất một lối dùng làm thứ chữ dạy học phổ thông." Năm 1915 thì kỳ thi Hương cuối cùng diễn ra ở Bắc Kỳ mặc cho sự chống đối của giới sĩ phu. Ở Trung Kỳ thì đạo dụ của vua Khải Định ngày 26 tháng 11 âm lịch năm Mậu Ngọ (tức ngày 28 tháng 12 năm 1918) chính thức bãi bỏ khoa cử và năm 1919 là năm cuối mở khoa thi ở Huế. Chữ Quốc ngữ từ đó trở thành phương tiện diễn đạt duy nhất của người Việt trong khi địa vị Chữ Nho và chữ Nôm càng mờ nhạt tuy chưa mất hẳn nhưng lui dần vào quá khứ.
+Trong khi đó cũng có thành phần theo Nho học nhưng hiểu được giá trị của chữ Quốc ngữ và cổ động việc thâu nhận chữ Quốc ngữ như là một cách nâng cao trình độ kiến thức đại chúng, canh tân xã hội, thức tỉnh tinh thần yêu nước và huy động động lực phản kháng của người Việt trước quyền lực của thực dân Pháp. Trong đó có nhóm Đông Kinh nghĩa thục. Việc theo học chữ Quốc ngữ theo đó thì không chỉ là phương tiện đọc và viết mà còn hàm ý vận động chính trị và vận mệnh dân tộc.
+Chữ Quốc ngữ qua những tác phẩm biên khảo, phóng sự, bình luận, du ký của những Nam Phong Tạp chí, Đông Dương Tạp chí, cùng một loạt tiểu thuyết và thơ mới của nhóm Tự lực Văn đoàn với tư tưởng mới, phong cách mới cũng và nhiều tác giả khác đã chứng minh chức năng toàn diện của chữ Quốc ngữ làm văn tự của người Việt để rồi sau năm 1945 các chính quyền kế thừa đều công nhận lối chữ này.
+
+
+== Vị thế pháp lý của chữ quốc ngữ ==
+Tuy được gọi là "chữ Quốc ngữ", nhưng hiện không rõ nó được công nhận là ở tầm quốc gia từ khi nào, mà là mặc nhiên thừa nhận là "chữ để viết Quốc ngữ". Hiến pháp nước Cộng hòa Xã hội chủ nghĩa Việt Nam 2013, chương I điều 5 mục 3 ghi là "Ngôn ngữ quốc gia là tiếng Việt", khẳng định tiếng Việt là Quốc ngữ và để trống "chữ viết".
+Từ lúc dạng chữ này ra đời đến cuối thế kỷ 19 là thời thịnh hành lâu dài của chữ Hán và ngắn ngủi của chữ Nôm (dưới triều nhà Hồ và Tây Sơn), đồng thời chính quyền phong kiến không công nhận, nên lúc đó tên gọi và vị thế không phải là "Quốc chữ".
+Sự kiện đánh dấu thuật ngữ "chữ Quốc ngữ" được sử dụng là tại thuộc địa Nam Kỳ Phó Đề đốc Marie Gustave Hector Ohier ký nghị định ngày 22/02/1869 bắt buộc dùng chữ Quốc ngữ thay thế chữ Nho trong các văn bản công vụ. Sau đó là nghị định khẳng định từ 01/01/1882 chỉ sử dụng "chữ Quốc ngữ" trong các văn bản công vụ ở thuộc địa này.
+Sang thế kỷ 20 chính phủ Đông Pháp mở rộng chính sách dùng chữ Quốc ngữ ra Bắc Kỳ.
+Theo tư liệu trong "Lễ kỷ niệm 70 năm Ngày thành lập Hội Truyền bá Quốc ngữ (25/5/1938)" do Bộ Giáo dục và Đào tạo tổ chức ngày 25/5/2008, thì Hội ra đời ngày 25/5/1938, đến ngày 29/7/1938 Thống sứ Bắc Kỳ công nhận sự hợp pháp của Hội. Đó là dấu mốc chắc chắn cho vị thế "chữ Quốc ngữ". Việc cổ động cho học "chữ Quốc ngữ" ở toàn cõi nước Việt gắn với các phong trào cải cách trong giai đoạn 1890 - 1910 như Hội Trí Tri, phong trào Duy Tân, Đông Kinh Nghĩa Thục và ngành báo chí mới hình thành, đã thừa nhận và cổ vũ học "chữ Quốc ngữ", coi là phương tiện thuận lợi cho học hành nâng cao dân trí.
+
+
+== Vị thế các chữ cái F, J, W, Z ==
+Bốn chữ cái F, J, W, Z vốn có trong tiếng Pháp, tiếng Anh hiện không được thừa nhận chính thức trong tiếng Việt cũng như trong quy ước chung chung về tiếng phổ thông.
+Tuy nhiên trong văn bản hành chính chính thức thì các chữ cái này vẫn được sử dụng để viết các tên riêng theo tiếng của các dân tộc khác nhau. Ví dụ như tên các xã Zuôih, Jơ Ngây, Za Hung,... ở huyện Nam Giang, Quảng Nam, xã Ea Wy huyện Ea H'leo, xã Cư Ê Wi huyện Cư Kuin,... ở tỉnh Đăk Lăk, huyện Cư Jút ở tỉnh Đăk Nông. Ngoài ra là cách ghép vần "phi Việt" như uôih, uôp, h'l, k't, kr,... cũng tùy nghi được sử dụng.
+Điều này thể hiện sự thiếu chặt chẽ về pháp lý, nhưng tại Việt Nam vẫn được mặc nhiên thừa nhận. Đã có ý kiến cho rằng "F, J, W, Z không thể nằm ngoài bảng chữ cái" . Nó cần thiết trong việc xây dựng tiếng phổ thông bao quát được các thành tố cơ bản trong ngôn ngữ của đất nước, đảm bảo chặt chẽ trong các văn bản pháp lý, cũng như cần đưa vào giảng dạy để học sinh đọc đúng tên quê mình. Tuy nhiên sự việc không thuộc nhóm cấp thiết và không gây chết người nên chưa có cấp nào quan tâm chỉ đạo và giải quyết. Cá biệt có học giả hàn lâm sống tại vùng người Kinh thì cho rằng tiếng Việt có chữ viết là đầy đủ rồi .
+
+
+== Hỗ trợ trên máy tính ==
+Các phông chữ Unicode chứa các chữ cái tiếng Việt; nằm rải rác trong phần "Latin Cơ bản", "Latin-1 Thêm", "Latin Mở rộng-A", "Latin Mở rộng-B", và Latin Mở rộng Thêm.
+Chữ quốc ngữ có thể được biểu thị trong ASCII dựa trên quy ước như VIQR. Trước khi Unicode được dùng rộng rãi, các phông chữ TCVN3, VNI, và VISCII cũng đã được dùng để biểu thị tiếng Việt. Ngày nay UTF-8 là mã hóa được dùng rộng rãi trên máy tính cho tiếng Việt.
+Nhiều bàn phím máy tính không hỗ trợ việc nhập trực tiếp các ký tự tiếng Việt. Điều này dẫn đến sự ra đời của các phần mềm cho phép thực hiện các phương pháp nhập ký tự tiếng Việt theo quy ước như Telex, VIQR hay VNI.
+
+
+== Xem thêm ==
+Tiếng Việt
+Âm vị học tiếng Việt
+Từ vựng tiếng Việt
+Văn học Việt Nam
+VIQR
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+
+Modern Vietnamese của Phan Văn Giưỡng Nhà xuất bản Saigon lưu chiểu 6/2009
+Sơ thảo tốc ký Việt Nam của Ngọc Quang bản quay Roneo 5/1974 và bản Phụ tên quay Roneo của CC VK nha CS đô thành Saigon.
+
+
+== Liên kết ngoài ==
+(Tiếng Việt)
+Chữ viết
+Bồ Đào Nha và chữ Quốc Ngữ trên BBC
+(Tiếng Anh)
+Scanned version of Alexandre de Rhodes' dictionary
+Vietnamese Writing System
+Essay comparing the orthography variants
+Vietnamese Unicode FAQs
+Doctoral dissertation comparing learning efficiency between quoc ngu and Chinese characters

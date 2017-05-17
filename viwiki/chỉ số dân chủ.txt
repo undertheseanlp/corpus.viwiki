@@ -1,0 +1,39 @@
+Tạp chí The Economist ở Anh đã khảo sát tình trạng dân chủ ở 167 quốc gia và cố gắng định lượng chỉ số dân chủ (DI) do bộ phận Economist Intelligence Unit Index of Democracy tiến hành dựa trên năm phân loại chung là:
+Việc tiến hành bầu cử công bằng và tự do
+Các quyền tự do của công dân
+Sự hoạt động của chính quyền
+Việc tham gia chính trị
+Văn hóa chính trị.
+Na Uy có tổng điểm số cao nhất là 9,93 trên thang số 10, ngược lại, Cộng hòa Dân chủ Nhân dân Triều Tiên cuối bảng với số điểm 1,08. Dân chủ đầy đủ, Dân chủ khiếm khuyết, và Thể chế hỗn hợp được xem là dân chủ và Chính thể chuyên chế được xem là độc tài.
+
+
+== Phương pháp đánh giá ==
+Như được mô tả trong bản báo cáo, chỉ số dân chủ được tính theo cách tính bình quân trọng lượng dựa trên trả lời của 60 câu hỏi, mỗi câu có từ hai đến ba lựa chọn để trả lời. Hầu hết các câu hỏi được các chuyên gia đánh giá; tuy nhiên, báo cáo đó không cho biết chuyên gia ngành nào, cũng như số lượng chuyên gia, hay các chuyên gia có phải là nhân viên của Tạp chí đó hay không.
+Một cách sơ lược, các câu hỏi được phân bổ vào năm loại chính. Mỗi câu trả lời được cho điểm là 0 hoặc 1, hoặc có thêm 0,5 điểm đối với ba lựa chọn. Tổng số điểm được cộng dồn vào cho từng loại, nhân với mười, rồi chia cho tổng số câu hỏi của từng loại đó.
+Ví dụ:
+Các cuộc bầu cử trong nước có tự do và công bằng hay không";
+An toàn của cử tri";
+Sự ảnh hưởng của thế lực bên ngoài đến chính quyền nước đó";
+Khả năng của công chức trong việc thực thi chính trị.
+Trung bình cộng của các chỉ số từng loại đó được làm tròn cho ta kết quả chỉ số dân chủ cho từng quốc gia.
+Dân chủ đầy đủ— có điểm từ 8 - 10.
+Dân chủ khiếm khuyết — từ 6 - 7,9.
+Thể chế hỗn hợp— từ 4 - 5,9.
+Chính thể chuyên chế— dưới 4.
+
+
+== Bảng xếp hạng 2016 ==
+Nguồn Economist Intelligence Unit EIU, xếp hạng 2016.
+
+
+== Xem thêm ==
+Dân chủ
+Tự do trên thế giới (báo cáo)
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Việt Nam xếp thứ 145 về dân chủ
+"The Economist Intelligence Unit's index of democracy" [1]

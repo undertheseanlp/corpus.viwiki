@@ -1,0 +1,126 @@
+Thiết bị vũ trụ (tiếng Anh: spacecraft; tiếng Nga: космический аппарат) là tên gọi chung của các thiết bị với chức năng là thực hiện nhiều bài toán khác nhau về không gian vũ trụ, tiến hàng nghiên cứu các công việc khác nhau trên bề mặt của những thiên thể khác nhau. Các thiết bị vũ trụ được đưa lên quỹ đạo nhờ các tên lửa đẩy.
+Thiết bị vũ trụ được dùng để vận chuyển người hay các trang bị, hàng hóa lên khoảng không ở bên ngoài tầng khí quyển Trái Đất được gọi là tàu vũ trụ. Tàu vũ trụ, còn có tên gọi là phi thuyền không gian, có 2 loại cơ bản là tàu vũ trụ có người lái như tàu Phương Đông (Liên Xô), tàu Soyuz (Nga), hệ thống tàu con thoi (Mỹ), tàu Thần Châu (Trung Quốc); tàu vận tải (tàu vũ trụ không người lái) như tàu vận tải Tiến bộ (Nga), tàu vận tải HTV (Nhật), v.v.
+Ngoài ra thiết bị vũ trụ còn bao gồm vệ tinh các loại, trạm vũ trụ ("Hòa Bình", Quốc tế), kính thiên văn không gian Hubble, kính thiên văn không gian James Webb, modul.v.v.
+
+
+== Phân loại ==
+
+
+=== Phân loại theo hoạt động ===
+Trạm vệ tinh: là các loại tàu vũ trụ chỉ được phóng và trở thành một vệ tinh nhân tạo của Trái Đất nhằm làm một trạm có khả năng kết nối với các tàu vũ trụ khác, thực hiện các thí nghiệm không gian, và có thể dùng làm trạm trung chuyển cho các chuyến phi hành có người lái vào khoảng không xa hơn của vũ trụ. Thường thì các trạm này sẽ ở lại vĩnh viễn trong quỹ đạo cho đến khi không dùng nữa. Ví dụ của loại này là Skylab, Trạm không gian quốc tế.
+Tàu thám hiểm: Đây là loại tàu vũ trụ có khả năng bay theo một quỹ đạo nào đó hoặc vượt ra khỏi tầm hút của Trái Đất. Ví dụ bao gồm các phi thuyền trong chương trình Apollo, các phi thuyền đến Sao Hỏa,...
+
+
+=== Phân loại theo chức năng ===
+Tàu mẹ (phi thuyền mẹ)
+Tàu con (phi thuyền con)
+Tàu con thoi (phi thuyền con thoi) gồm có 3 phần chính: hai tên lửa đẩy nhiên liệu rắn, thùng chứa nhiên liệu (nằm bên ngoài) để cung cấp nhiên liệu cho 3 động cơ chính của tàu trong quá trình phóng, trạm quỹ đạo (orbiter) chứa phi hành đoàn và được thiết kế để có thể kết nối vào trạm không gian. Tổng cộng có 5 tàu con thoi được đóng: Atlantis, Challenger (rơi năm 1986 trong quá trình phóng), Columbia (rơi năm 2003 trong quá trình đáp), Discovery và Endeavour.
+
+
+== Ví dụ về tàu vũ trụ ==
+Tàu vũ trụ có người lái
+
+Phi thuyền Apollo
+Phi thuyền Gemini
+Trạm Vũ trụ Quốc tế
+Mir
+Phi thuyền Mercury
+Tàu con thoi Buran
+Phi thuyền Shenzhou
+Tàu con thoi
+Soyuz
+SpaceShipOne
+Phi thuyền Voskhod
+Phi thuyền Vostok
+Tàu vũ trụ nặng nhất
+Tàu con thoi của NASA STS/Trạm quỹ đạo - 109.000 kg
+
+Phi thuyền không có người lái
+Cassini-Huygens
+Cluster
+Deep Space 1
+Deep Impact
+ESA SMART-1 Lunar Impact
+Galileo
+Genesis
+Lunar Prospector
+Mars Exploration Rover
+Mars Global Surveyor
+Mars Pathfinder
+Near Earth Asteroid Rendezvous
+New Horizons
+Tàu con thoi Buran (chỉ 1 phi vụ)
+Pioneer 10
+Pioneer 11
+Progress
+SOHO
+Stardust
+Surveyor
+WMAP
+Phi thuyền bay xa nhất
+
+Voyager 1 với 9,58 tỉ mile
+Pioneer 10 với 8,34 tỉ mile
+Voyager 2 với 7,44 tỉ mile
+Phi thuyền nhanh nhất
+Helios I & II Trạm thăm dò Mặt Trời - 158,000 mph hay 43,9 dặm/giây
+
+Phi thuyền đang được phát triển
+Automated Transfer Vehicle
+Crew Exploration Vehicle
+Kliper - của Nga
+H-II Transfer Vehicle
+Trạm thăm dò Mặt Trăng của Ấn Độ Chandrayan-1
+CNES Mars Netlander
+James Webb Space Telescope - ngưng trệ
+Kepler Mission Đi tìm hành tinh
+ESA Darwin
+NASA Dawn Mission
+Herschel Space Observatory
+Mars Science Laboratory Rover
+Phoenix Mars Scout
+Shenzhou Cargo
+Phi thuyền dân sự
+Genesis-1 (không người lái)
+Phi thuyền dân sự đang phát triển
+Bristol Ascender máy bay vũ trụ
+Rocketplane XP
+ESA Skylon SSTO
+Space Adventures Explorer rocketplane
+Space Dev Dream Chaser
+Space Ship Two
+SpaceX Dragon
+Virgin Galactic
+Các dự án phi thuyền bị hủy bỏ
+Apollo 18 đến 21
+Chương trình tàu con thoi 921-3 của Trung Quốc
+ESA Hermes
+Tàu con thoi Buran
+Soyuz Kontakt 1
+Trạm thăm dò Terrestrial Planet Finder
+ESA Kính viễn vọng Eddington
+Mars Telecom Orbiter
+Các chương trình phi thuyền của SSTO bị hủy
+RR/British Aerospace HOTOL
+ESA Hopper Orbiter
+McDonnell Douglas Clipper DC-X
+Roton Rotored-Hybrid
+Lockheed-Martin VentureStar
+
+
+== Phóng tàu vũ trụ ==
+Có hai phương pháp chính:
+Mượn phản lực của các tên lửa nằm ngoài tàu. Các tên lửa đẩy này sẽ rời tàu khi hết nhiên liệu.
+Dùng buồng phản lực riêng kết hợp với sức đẩy của tên lửa.
+
+
+== Vai trò của thám hiểm không gian ==
+Mục đích ban đầu của công cuộc thám hiểm không gian là cuộc chạy đua tranh giành ảnh hưởng trong không gian (và do đó ảnh hưởng lên toàn thế giới còn lại) giữa Liên Xô và Hoa Kỳ trong thời kỳ Chiến tranh Lạnh (1950-1990).
+Kể từ sau Chiến tranh Lạnh, các tiến bộ kỹ thuật phát triển trong các chương trình thám hiểm không gian đã được ứng dụng rộng rãi vào viễn thông dân dụng. Kính viễn vọng Hubble đẩy mạnh sự hiểu biết về các thiên hà xa xôi và các supernova; các thí nghiệm trong môi trường không trọng lực trên Trạm Vũ trụ Quốc tế (ISS) giúp tạo ra các loại hợp kim mới, v.v.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Tàu con thoi tại NASA (tiếng Anh)

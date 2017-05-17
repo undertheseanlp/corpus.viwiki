@@ -1,0 +1,19 @@
+.cr là tên miền Internet cấp cao nhất dành cho quốc gia (ccTLD) của Costa Rica.
+
+
+== Tên miền cấp 2 ==
+ac.cr: Học viện: Đại học
+co.cr: Thương mại
+ed.cr: Giáo dục: Đại học, Trung học,...
+fi.cr: Cơ quan tài chính như ngân hàng
+go.cr: Chính phủ
+or.cr: Tổ chức phi chính phủ
+sa.cr: Cơ quan y tế
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+NIC-CR Nhà đăng ký tên miền
+IANA .cr whois information

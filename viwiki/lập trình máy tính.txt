@@ -1,0 +1,53 @@
+Lập trình máy tính hay lập chương trình máy tính thường gọi tắt là lập trình (tiếng Anh: Computer programming, thường gọi tắt là programming) là việc lập ra chương trình làm việc cho máy có bộ xử lý, nói riêng là máy tính, để thực thi nhiệm vụ xử lý thông tin nào đó. Chương trình này gồm dãy các chỉ thị (hay lệnh) hợp lý để máy thực hiện theo trình tự thời gian .
+Lập trình phải thực hiện cho tất cả các hệ thống xử lý thông tin, từ các dàn máy điện toán lớn, máy tính cá nhân (PC), đến các chip điều khiển lập trình được trong các khối điều khiển thiết bị các loại như trong máy đo đạc phân tích, vũ khí có điều khiển, máy giặt, lò vi sóng,... và trong các thiết bị ngoại vi của máy tính như chip điều khiển ở card màn hình, cổng giao tiếp,...
+Dạng chương trình duy nhất mà máy tính có thể thực thi trực tiếp là ngôn ngữ máy hay mã máy, có dạng dãy các số nhị phân. Lập trình trực tiếp ở dạng mã máy là công việc tốn sức, khó kiểm tra và lệ thuộc phần cứng cụ thể. Vì thế giới lập trình phát triển ra các ngôn ngữ lập trình với hệ thống ký hiệu, từ khóa và cú pháp cụ thể để lập trình viên dễ viết mã nguồn ở dạng văn bản mà không quá lệ thuộc vào phần cứng, sau đó dịch (Compile) ra mã máy.
+Ngày nay lập trình ứng dụng trên các máy điện toán được hỗ trợ bằng các thư viện, khả năng liên kết mã phát sinh từ các ngôn ngữ khác nhau, và đặc biệt là sử dụng biểu tượng trực quan (visual) cho lập trình. Trong kỹ thuật điện toán việc lập ra bộ chương trình thường được gọi là phát triển phần mềm. Lập trình có các thành tố nghệ thuật, khoa học, toán học, và kỹ nghệ .
+
+
+== Các ngôn ngữ lập trình ==
+
+Dạng chương trình duy nhất mà máy tính có thể thực thi trực tiếp là ngôn ngữ máy hay mã máy. Nó có dạng dãy các số nhị phân, thường được ghép nhóm thành byte 8 bit cho các hệ xử lý 8/16/32/64 bit . Nội dung byte thường biểu diễn bằng đôi số hex. Để có được bộ mã này ngày nay người ta dùng ngôn ngữ lập trình để viết ra chương trình ở dạng văn bản và dùng trình dịch để chuyển sang mã máy .
+
+
+=== Mã máy ===
+Khi kỹ thuật điện toán ra đời chưa có ngôn ngữ lập trình dạng đại diện nào, thì phải lập trình trực tiếp bằng mã máy. Dãy byte viết ra được đục lỗ lên phiếu đục lỗ (punched card) và nhập qua máy đọc phiếu tới máy tính . Sau đó chương trình có thể được ghi vào băng/đĩa từ để sau này nhập nhanh vào máy tính. Ngôn ngữ máy được gọi là "ngôn ngữ lập trình thế hệ 1" (1GL, first-generation programming languages) . Lúc đó có nhiều hãng sản xuất máy tính và mã máy chưa hoàn toàn thống nhất, nên lập trình gắn liền với máy của hãng.
+
+
+=== Hợp ngữ ===
+Sau đó các mã lệnh được thay thế bằng các tên gợi nhớ và trình được lập ở dạng văn bản (text) rồi dịch sang mã máy. Hợp ngữ (assembly languages) ra đời, là "ngôn ngữ lập trình thế hệ 2" (2GL, second-generation programming languages). Lập trình thuận lợi hơn, khi dịch có thể liên kết với thư viện chương trình con ở cả dạng macro (đoạn chưa dịch) và lẫn mã đã dịch.
+Dẫu vậy người lập trình phải nắm chắc về hoạt động của hệ thống xử lý, về các thanh ghi (register), con trỏ (pointer) và vai trò của chúng thì mới tránh đựoc lỗi. Lúc này bắt đầu có sự thống nhất quốc tế về các tập lệnh cần thiết trong kỹ thuật điện toán.
+Trong kỹ thuật điện toán hợp ngữ hiện được dùng là ngôn ngữ bậc thấp (low-level programming languages) để tinh chỉnh ngôn ngữ bậc cao thực hiện truy nhập trực tiếp phần cứng cụ thể trong việc lập trình hệ thống, hoặc định tạo các hiệu ứng đặc biệt cho chương trình của mình.
+Hợp ngữ hiện là phương tiện lập trình các vi điều khiển trong bảng/khối điều khiển thiết bị điện tử các loại, từ các máy đo, vũ khí, thiết bị dân sinh như máy giặt, lò vi sóng,... Bảng lệnh của vi điều khiển này khác với của máy điện toán, nên hợp ngữ vi điều khiển cũng khác, và đơn giản hơn.
+Lập trình mã máy và hợp ngữ cho ra chương trình chạy nhanh nhất trên cùng máy tính, vì nó chứa rất ít chỉ thị thừa hay chỉ thị rác, và giảm lượng mã nhờ việc đặt giá trị các thanh ghi được làm tắt. Các ngôn ngữ bậc cao khi dịch phải bố trí nhiều chỉ thị máy đảm bảo tính khái quát cao nhất, cùng với những câu lệnh thừa của người lập trình mà khi sửa chữa chưa kịp xóa đi.
+
+
+=== Ngôn ngữ bậc cao ===
+Ngôn ngữ bậc cao (high-level programming languages) hay "ngôn ngữ lập trình thế hệ 3" (3GL, third-generation programming languages) ra đời vào những năm 1950. Đây là các ngôn ngữ hình thức, dùng trong lập trình máy điện toán và không lệ thuộc vào hệ máy tính cụ thể nào. Nó giải phóng người lập trình ứng dụng làm việc trong hệ điều hành xác định mà không phải quan tâm đến phần cứng cụ thể. Các ngôn ngữ được phát triển liên tục với các dạng và biến thể mới, theo bước phát triển của kỹ thuật điện toán.
+Những ngôn ngữ bậc cao thời kỳ đầu có FORTRAN lập ra năm 1954 , COBOL năm 1959 , BASIC năm 1963 , Pascal năm 1970 , C năm 1970 ,... Chúng có sự khác nhau về từ khóa, ký hiệu, cú pháp, và cả về tổ chức các segment dữ liệu trong bộ nhớ. Sự phát triển lập trình dẫn đến ngôn ngữ C có những ưu việt trong lập trình và quản lý dữ liệu, nên được dùng nhiều, được phát triển tiếp và thành nền ý tưởng cho phát triển nhiều ngôn ngữ mới.
+Những ngôn ngữ được dùng phổ biến hiện có ActionScript, C, C++, C#, Haskell, Java, JavaScript, Objective-C, Perl, PHP, Python, Ruby, Smalltalk, SQL, Visual Basic, và nhiều nữa .
+Ngày nay các ngôn ngữ lập trình đều cung cấp môi trường soạn thảo mã nguồn, có yểm trợ cao về kiểm tra cú pháp. Một số ngôn ngữ lưu mã nguồn ở dạng văn bản. Song một số khác, thay vì được dịch ra mã máy, lại được lưu ở dạng mã gọi là Bytecode (hoặc Portable code), và có trình thông dịch tương ứng để thực thi dạng mã này. Bytecode được sử dụng trong ngôn ngữ lập trình Java của Sun Microsystems cũng như họ ngôn ngữ lập trình .NET gần đây của Microsoft và Visual Basic trước phiên bản.NET.
+Các ngôn ngữ lập trình khác nhau hỗ trợ các phong cách lập trình khác nhau (còn gọi là các phương pháp lập trình). Một phần của công việc lập trình là việc lựa chọn một trong những ngôn ngữ phù hợp nhất với bài toán cần giải quyết. Các ngôn ngữ lập trình khác nhau đòi hỏi lập trình viên phải xử lý các chi tiết ở các mức độ khác nhau khi cài đặt các thuật toán. Thông thường, điều này dẫn tới thỏa hiệp giữa thuận lợi cho việc lập trình và hiệu quả của chương trình, hay thỏa hiệp giữa "thời gian lập trình" và "thời gian tính toán".
+
+
+== Phát triển phần mềm ==
+
+Phần mềm là danh từ chỉ một gói gồm các chương trình máy tính và dữ liệu. Tài liệu đi kèm và bản quyền phần mềm cũng được coi là một phần quan trọng của phần mềm, mặc dù chúng không liên quan đến việc lập trình.
+Quy trình xây dựng phần mềm bao gồm các công việc chính:
+Phân tích yêu cầu (requirements analysis)
+Đặc tả (specification)
+Thiết kế (design and architecture)
+Lập trình (coding)
+Biên dịch (compilation)
+Kiểm thử (testing)
+Viết tài liệu (documentation)
+Bảo trì (maintenance)
+
+
+== Chỉ dẫn ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+TechBookReport – reviews of books on computer programming

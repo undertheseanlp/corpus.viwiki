@@ -1,0 +1,128 @@
+Hệ thống Định vị Toàn cầu (tiếng Anh: Global Positioning System - GPS) là hệ thống xác định vị trí dựa trên vị trí của các vệ tinh nhân tạo, do Bộ Quốc phòng Hoa Kỳ thiết kế, xây dựng, vận hành và quản lý. Trong cùng một thời điểm, tọa độ của một điểm trên mặt đất sẽ được xác định nếu xác định được khoảng cách từ điểm đó đến ít nhất ba vệ tinh.
+Tuy được quản lý bởi Bộ Quốc phòng Hoa Kỳ, chính phủ Hoa Kỳ cho phép mọi người trên thế giới sử dụng một số chức năng của GPS miễn phí, bất kể quốc tịch nào.
+Các nước trong Liên minh châu Âu đang xây dựng Hệ thống định vị Galileo, có tính năng giống như GPS của Hoa Kỳ, dự tính sẽ bắt đầu hoạt động năm 2014.
+
+
+== Phân loại ==
+Hệ thống định vị toàn cầu của Mỹ là hệ dẫn đường dựa trên một mạng lưới 24 quả vệ tinh được Bộ Quốc phòng Hoa Kỳ đặt trên quỹ đạo không gian.
+Các hệ thống dẫn đường truyền thống hoạt động dựa trên các trạm phát tín hiệu vô tuyến điện. Được biết đến nhiều nhất là các hệ thống sau: LORAN – (LOng RAnge Navigation) – hoạt động ở giải tần 90-100 kHz chủ yếu dùng cho hàng hải, hay TACAN – (TACtical Air Navigation) – dùng cho quân đội Mỹ và biến thể với độ chính xác thấp VOR/DME – VHF (Omnidirectional Range/Distance Measuring Equipment) – dùng cho hàng không dân dụng.
+Gần như đồng thời với lúc Mỹ phát triển GPS, Liên Xô cũng phát triển một hệ thống tương tự với tên gọi GLONASS. Hiện nay Liên minh châu Âu đang phát triển hệ dẫn đường vệ tinh của mình mang tên Galileo. Trung Quốc thì phát triển hệ thống định vị toàn cầu của mình mang tên Bắc Đẩu bao gồm 35 vệ tinh.
+Ban đầu, GPS và GLONASS đều được phát triển cho mục đích quân sự, nên mặc dù chúng dùng được cho dân sự nhưng không hệ nào đưa ra sự đảm bảo tồn tại liên tục và độ chính xác. Vì thế chúng không thỏa mãn được những yêu cầu an toàn cho dẫn đường dân sự hàng không và hàng hải, đặc biệt là tại những vùng và tại những thời điểm có hoạt động quân sự của những quốc gia sở hữu các hệ thống đó. Chỉ có hệ thống dẫn đường vệ tinh châu Âu Galileo (đang được xây dựng) ngay từ đầu đã đặt mục tiêu đáp ứng các yêu cầu nghiêm ngặt của dẫn đường và định vị dân sự.
+GPS ban đầu chỉ dành cho các mục đích quân sự, nhưng từ năm 1980 chính phủ Mỹ cho phép sử dụng trong dân sự. GPS hoạt động trong mọi điều kiện thời tiết, mọi nơi trên Trái Đất, 24 giờ một ngày. Không mất phí thuê bao hoặc mất tiền trả cho việc thiết lập sử dụng GPS nhưng phải tốn tiền không rẻ để mua thiết bị thu tín hiệu và phần mềm nhúng hỗ trợ.
+
+
+== Sự hoạt động của GPS ==
+Các vệ tinh GPS bay vòng quanh Trái Đất hai lần trong một ngày theo một quỹ đạo rất chính xác và phát tín hiệu có thông tin xuống Trái Đất. Các máy thu GPS nhận thông tin này và bằng phép tính lượng giác tính được chính xác vị trí của người dùng. Về bản chất máy thu GPS so sánh thời gian tín hiệu được phát đi từ vệ tinh với thời gian nhận được chúng. Sai lệch về thời gian cho biết máy thu GPS ở cách vệ tinh bao xa. Rồi với nhiều quãng cách đo được tới nhiều vệ tinh máy thu có thể tính được vị trí của người dùng và hiển thị lên bản đồ điện tử của máy.
+Máy thu phải nhận được tín hiệu của ít nhất ba vệ tinh để tính ra vị trí hai chiều (kinh độ và vĩ độ) và để theo dõi được chuyển động. Khi nhận được tín hiệu của ít nhất 4 vệ tinh thì máy thu có thể tính được vị trí ba chiều (kinh độ, vĩ độ và độ cao). Một khi vị trí người dùng đã tính được thì máy thu GPS có thể tính các thông tin khác, như tốc độ, hướng chuyển động, bám sát di chuyển, khoảng hành trình, quãng cách tới điểm đến, thời gian Mặt Trời mọc, lặn và nhiều thứ khác nữa.
+
+
+== Độ chính xác của GPS ==
+Các máy thu GPS ngày nay cực kì chính xác, nhờ vào thiết kế nhiều kênh hoạt động song song của chúng. Các máy thu 12 kênh song song (của Garmin) nhanh chóng khóa vào các quả vệ tinh khi mới bật lên và chúng duy trì kết nối bền vững, thậm chí trong tán lá rậm rạp hoặc thành phố với các toà nhà cao tầng. Trạng thái của khí quyển và các nguồn gây sai số khác có thể ảnh hưởng tới độ chính xác của máy thu GPS. Các máy thu GPS có độ chính xác trung bình trong vòng 15 mét.
+Các máy thu mới hơn với khả năng WAAS (Wide Area Augmentation System) có thể tăng độ chính xác trung bình tới dưới 3 mét. Không cần thêm thiết bị hay mất phí để có được lợi điểm của WAAS. Người dùng cũng có thể có độ chính xác tốt hơn với GPS vi sai (Differential GPS, DGPS) sửa lỗi các tín hiệu GPS để có độ chính xác trong khoảng 3 đến 5 mét. Cục Phòng vệ Bờ biển Mỹ vận hành dịch vụ sửa lỗi này. Hệ thống bao gồm một mạng các đài thu tín hiệu GPS và phát tín hiệu đã sửa lỗi bằng các máy phát hiệu. Để thu được tín hiệu đã sửa lỗi, người dùng phải có máy thu tín hiệu vi sai bao gồm cả ăn-ten để dùng với máy thu GPS của họ.
+
+
+== Các thành phần của GPS ==
+GPS hiện tại gồm 3 phần chính: phần không gian, kiểm soát và sử dụng. Không quân Hoa Kỳ phát triển, bảo trì và vận hành các phần không gian và kiểm soát. Các vệ tinh GPS truyền tín hiệu từ không gian, và các máy thu GPS sử dụng các tín hiệu này để tính toán vị trí trong không gian 3 chiều (kinh độ, vĩ độ và độ cao) và thời gian hiện tại.
+
+
+=== Phần không gian ===
+Phần không gian gồm 27 vệ tinh (24 vệ tinh hoạt động và 3 vệ tinh dự phòng) nằm trên các quỹ đạo xoay quanh trái đất. Chúng cách mặt đất 20.200 km, bán kính quỹ đạo 26.600 km. Chúng chuyển động ổn định vá quay hai vòng quỹ đạo trong khoảng thời gian gần 24 giờ với vận tốc 7 nghìn dặm một giờ. Các vệ tinh trên quỹ đạo được bố trí sao cho các máy thu GPS trên mặt đất có thể nhìn thấy tối thiểu 4 vệ tinh vào bất kỳ thời điểm nào.
+Các vệ tinh được cung cấp bằng năng lượng Mặt Trời. Chúng có các nguồn pin dự phòng để duy trì hoạt động khi chạy khuất vào vùng không có ánh sáng Mặt Trời. Các tên lửa nhỏ gắn ở mỗi quả vệ tinh giữ chúng bay đúng quỹ đạo đã định.
+
+
+=== Phần kiểm soát ===
+Mục đích trong phần này là kiểm soát vệ tinh đi đúng hướng theo quỹ đạo và thông tin thời gian chính xác. Có 5 trạm kiểm soát đặt rải rác trên trái đất. Bốn trạm kiểm soát hoạt động một cách tự động, và một trạm kiểm soát là trung tâm. Bốn trạm này nhận tín hiệu liên tục từ những vệ tinh và gửi các thông tin này đến trạm kiểm soát trung tâm. Tại trạm kiểm soát trung tâm, nó sẽ sửa lại dữ liệu cho đúng và kết hợp với hai an-ten khác để gửi lại thông tin cho các vệ tinh. Ngoài ra, còn một trạm kiểm soát trung tâm dự phòng và sáu trạm quan sát chuyên biệt.
+Trạm trung tâm cũng có thể truy cập từ các ăng-ten mặt đất của U.S. Air Force Satellite Control Network (AFSCN) và các trạm quan sát NGA (National Geospatial-Intelligence Agency). Các đường bay của vệ tinh được ghi nhận bởi các trạm quan sát chuyên dụng của Không quân Hoa Kỳ đặt ở Hawaii, Kwajalein, Đảo Ascension, Diego Garcia, Colorado Springs, Colorado và Cape Canaveral, cùng với các trạm quan sát NGA được vận hành ở Anh, Argentina, Ecuador, Bahrain, Úc và Washington DC. Thông tin đường bay của vệ tinh đi được gởi đến Air Force Space Command's MCS ở Schriever Air Force Base 25 km đông đông nam của Colorado Springs, do 2nd Space Operations Squadron (2 SOPS) của U.S. Air Force vận hành. Sau đó 2 SOPS liên lạc thường xuyên với mỗi vệ tinh GPS thông qua việc cập nhật định vị sử dụng các ăng-ten mặt đất chuyên dụng hoặc dùng chung (AFSCN)(các ăng-ten GPS mặt đất chuyên dụng được đặt ở Kwajalein, đảo Ascension, Diego Garcia, và Cape Canaveral). Các thông tin cập nhật này đồng bộ hóa với các đồng hồ nguyên tử đặt trên vệ tinh trong vòng một vài phần tỉ giây cho mỗi vệ tinh, và hiệu chỉnh lịch thiên văn của mô hình quỹ đạo bên trong mỗi vệ tinh. Việc cập nhật được tạo ra bở bộ lọc Kalman sử dụng các tín hiệu/thông tin từ các trạm quan sát trên mặt đất, thông tin thời tiết không gian, và các dữ liệu khác.
+
+
+=== Phần sử dụng ===
+Phần sử dụng là thiết bị nhận tín hiệu vệ tinh GPS và người sử dụng thiết bị này.
+Dưới đây là một số thông tin đáng chú ý về các vệ tinh GPS (còn gọi là NAVSTAR, tên gọi chính thức của Bộ Quốc phòng Mỹ cho GPS):
+Vệ tinh GPS đầu tiên được phóng năm 1978.
+Hoàn chỉnh đầy đủ 24 vệ tinh vào năm 1994.
+Mỗi vệ tinh được làm để hoạt động tối đa là 15 năm.
+Vệ tinh GPS có trọng lượng khoảng 1500 kg và dài khoảng 17 feet (5 m) với các tấm năng lượng Mặt Trời mở (có độ rộng 7 m²).
+Công suất phát bằng hoặc dưới 50 watts.
+
+
+== Tín hiệu GPS ==
+Các vệ tinh GPS phát hai tín hiệu vô tuyến công suất thấp dải L1 và L2. (dải L là phần sóng cực ngắn của phổ điện từ trải rộng từ 0,39 tới 1,55 GHz). GPS dân sự dùng tần số L1 1575.42 MHz trong dải UHF. Tín hiệu truyền trực thị, có nghĩa là chúng sẽ xuyên qua mây, thuỷ tinh và nhựa nhưng không qua phần lớn các đối tượng cứng như núi và nhà.
+L1 chứa hai mã "giả ngẫu nhiên"(pseudo random), đó là mã Protected (P) và mã Coarse/Acquisition (C/A). Mỗi một vệ tinh có một mã truyền dẫn nhất định, cho phép máy thu GPS nhận dạng được tín hiệu. Mục đích của các mã tín hiệu này là để tính toán khoảng cách từ vệ tinh đến máy thu GPS.
+Tín hiệu GPS chứa ba mẩu thông tin khác nhau – mã giả ngẫu nhiên, dữ liệu thiên văn và dữ liệu lịch. Mã giả ngẫu nhiên đơn giản chỉ là mã định danh để xác định được quả vệ tinh nào là phát thông tin nào. Có thể nhìn số hiệu của các quả vệ tinh trên trang vệ tinh của máy thu Garmin để biết nó nhận được tín hiệu của quả nào.
+Dữ liệu thiên văn cho máy thu GPS biết quả vệ tinh ở đâu trên quỹ đạo ở mỗi thời điểm trong ngày. Mỗi quả vệ tinh phát dữ liệu thiên văn chỉ ra thông tin quỹ đạo cho vệ tinh đó và mỗi vệ tinh khác trong hệ thống.
+Dữ liệu lịch được phát đều đặn bởi mỗi quả vệ tinh, chứa thông tin quan trọng về trạng thái của vệ tinh (lành mạnh hay không), ngày giờ hiện tại. Phần này của tín hiệu là cốt lõi để phát hiện ra vị trí.
+
+
+== Nguồn lỗi của tín hiệu GPS ==
+Những yếu tố có thể làm giảm tín hiệu GPS và vì thế ảnh hưởng tới chính xác bao gồm:
+Giữ chậm của tầng đối lưu và tầng ion – Tín hiệu vệ tinh bị chậm đi khi xuyên qua tầng khí quyển.
+Tín hiệu đi nhiều đường – Điều này xảy ra khi tín hiệu phản xạ từ nhà hay các đối tượng khác trước khi tới máy thu.
+Lỗi đồng hồ máy thu – Đồng hồ có trong máy thu không chính xác như đồng hồ nguyên tử trên các vệ tinh GPS.
+Lỗi quỹ đạo – Cũng được biết như lỗi thiên văn, do vệ tinh thông báo vị trí không chính xác.
+Lỗi do ảnh hưởng của bão từ, đã được thử nghiệm nhiểu lần, tùy theo cường độ của bão từ mà sai số của GPS sẽ sai từ vài chục đến hơn 100 m.
+Số lượng vệ tinh nhìn thấy – Càng nhiều quả vệ tinh được máy thu GPS nhìn thấy thì càng chính xác. Nhà cao tầng, địa hình, nhiễu loạn điện tử hoặc đôi khi thậm chí tán lá dày có thể chặn thu nhận tín hiệu, gây lỗi định vị hoặc không định vị được. Nói chung máy thu GPS không làm việc trong nhà, dưới nước hoặc dưới đất.
+Che khuất về hình học – Điều này liên quan tới vị trí tương đối của các vệ tinh ở thời điểm bất kì. Phân bố vệ tinh lý tưởng là khi các quả vệ tinh ở vị trí tạo các góc rộng với nhau. Phân bố xấu xảy ra khi các quả vệ tinh ở trên một đường thẳng hoặc cụm thành nhóm.
+Sự giảm có chủ tâm tín hiệu vệ tinh – Là sự làm giảm tín hiệu cố ý do sự áp đặt của Bộ Quốc phòng Mỹ, nhằm chống lại việc đối thủ quân sự dùng tín hiệu GPS chính xác cao. Chính phủ Mỹ đã ngừng việc này từ tháng 5 năm 2000, làm tăng đáng kể độ chính xác của máy thu GPS dân sự. (Tuy nhiên biện pháp này hoàn toàn có thể được sử dụng lại trong những điều kiện cụ thể để đảm bảo gậy ông không đập lưng ông. Chính điều này là tiềm ẩn hạn chế an toàn cho dẫn đường và định vị dân sự.)
+
+
+== Ứng dụng GPS ==
+
+
+=== Dân dụng ===
+Quản lý và điều hành xe
+1. Giám sát quản lý vận tải, theo dõi vị trí, tốc độ, hướng di chuyển,… 2. Giám sát mại vụ, giám sát vận tải hành khách,.. 3. Chống trộm cho ứng dụng thuê xe tự lái, theo dõi lộ trình của đoàn xe 4. Liên lạc, theo dõi định vị cho các ứng dụng giao hàng GPS có nhiều ứng dụng mạnh mẽ trong quản lý xe ô tô, đặc biệt là các loại xe như: Xe taxi, xe tải, xe công trình, xe bus, xe khách, xe tự lái. Với nhiều tính năng như:
+Giám sát lộ trình đường đi của phương tiện theo thời gian thực: vận tốc, hướng di chuyển và trạng thái tắt/mở máy, quá tốc độ của xe….
+Xác định vị trí xe chính xác ở từng góc đường (vị trí xe được thể hiện nháp nháy trên bản đồ), xác định vận tốc và thời gian xe dừng hay đang chạy, biết được lộ trình hiện tại xe đang đi (real time)
+Lưu trữ lộ trình từng xe và hiển thị lại lộ trình của từng xe trên cùng một màn hình
+Xem lại lộ trình xe theo thời gian và vận tốc tùy chọn
+Quản lý theo dõi một hay nhiều xe tại mỗi thời điểm
+Báo cáo cước phí và tổng số km của từng xe (ngày/tháng)
+Cảnh báo khi xe vượt quá tốc độ, vượt ra khỏi vùng giới hạn
+Chức năng chống trộm
+Khảo sát trắc địa, môi trường
+Dùng trong điều tra, khảo sát, thiết kế các công trình lâm sinh
+
+
+==== Các hạn chế trong ứng dụng dân dụng ====
+Chính phủ Hoa Kỳ kiểm soát vệc xuất khẩu một số máy thu dân dụng. Tất cả máy thu GPS có khả năng hoạt động ở độ cao trên 18 kilômét (11 mi) và 515 mét một giây (1.690 ft/s) được phân loại vào nhóm vũ khí theo đó cần phải có phép sử dụng của Bộ ngoại giao Hoa Kỳ. Những hạn chế này nhắm mục đích ngăn ngừa việc sử dụng các máy thu trong tên lửa đạn đạo, trừ việc sử dụng trong tên lửa hành trình do độ cao và tốc độ của các loại này tương tự như các máy bay.
+
+
+== Quy định pháp lý tại Việt Nam về GPS ==
+Nghị định 91/2009/NĐ-CP về thiết bị giám sát hành trình xe.
+Thông tư 14/2010/TT-BGTGT về dùng GPS giám sát hoạt động vận tải.
+Thông tư số 69/2011/TT-BNNPTNT Hướng dẫn thực hiện một số nội dung Quy chế quản lý đầu tư xây dựng công trình lâm sinh ban hành kèm theo Quyết định số 73/2010/QĐ-TTg ngày 16 tháng 11 năm 2010 của Thủ tướng Chính phủ
+
+
+== Các thiết bị ứng dụng GPS ==
+
+
+=== Trong quân sự ===
+Vũ khí hạt nhân
+Bom thông minh JDAM
+Tên lửa không đối đất
+Tên lửa tấn công đất liền
+Tên lửa hành trình
+Tên lửa đất đối đất
+Máy bay huấn luyện Mikoyan MiG-AT của Nga
+
+
+== Các hệ thống định vị khác ==
+Các hệ thống định vị vệ tinh khác được sử dụng ở một số nơi bao gồm:
+Galileo – hệ thống toàn cầu do EU và các quốc gia đối tác khác phát triển, dự kiến đưa vào sử dụng năm 2014.
+Beidou (Bắc Đẩu) – là hệ thống riêng của CHDNND Trung Hoa phát triển, phủ ở châu Á và tây Thái Bình Dương
+COMPASS – Hệ thống toàn cầu của CHDNND Trung Hoa, dự kiến đưa vào sử dụng năm 2020
+GLONASS – Hệ thống địa vị toàn cầu của Nga.
+IRNSS – Hệ thống định vị khu vực của Ấn Độ, dự kiến đưa vào sử dụng năm 2012, phủ Ấn Độ và bắc Ấn Độ Dương
+QZSS – Hệ thống định vị khu vực của Nhật Bản, phủ châu Á và châu Đại Dương.
+
+
+== Xem thêm ==
+GNSS: Hệ thống vệ tinh định vị toàn cầu
+Định vị (định hướng)
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang web chính thức

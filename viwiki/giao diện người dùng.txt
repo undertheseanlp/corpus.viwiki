@@ -1,0 +1,4 @@
+Tương tác người-máy hay giao tiếp người-máy là một phân ngành của công nghệ thông tin nghiên cứu về tương tác giữa người sử dụng và máy tính. Đây là một bộ môn liên ngành giữa khoa học máy tính và các lĩnh vực khác. Tương tác giữa người và máy thực hiện thông qua giao diện người dùng bao gồm phần cứng (v.d. các thiết bị xuất và nhập) và phần mềm (v.d. thông tin chuyển đến người dùng thế nào và ra làm sao). Người sử dụng truyền đến máy tính câu hỏi, mục tiêu hay yêu cầu thực của mình. Trong khi đó, máy tính chuyển ngược trở lại người sử dụng thông tin về trạng thái của máy tính, trả lời cho những câu hỏi người sử dụng đặt ra hay đáp ứng yêu cầu của người sử dụng.
+
+
+== Tham khảo ==

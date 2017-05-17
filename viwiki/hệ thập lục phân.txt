@@ -1,0 +1,177 @@
+Trong toán học và trong khoa học điện toán, hệ thập lục phân (hay hệ đếm cơ số 16, tiếng Anh: hexadecimal), hoặc chỉ đơn thuần gọi là thập lục, là một hệ đếm có 16 ký tự, từ 0 đến 9 và A đến F (chữ hoa và chữ thường như nhau). Hệ thống thập lục phân hiện dùng, được công ty IBM giới thiệu với thế giới điện toán vào năm 1963. Một phiên bản cũ của hệ thống này, dùng các con số từ 0 đến 9, và các con chữ A đến F, đã được sử dụng trong máy tính Bendix G-15, ra mắt năm 1956.
+Ví dụ, số thập phân 79, với biểu thị nhị phân là 01001111, có thể được viết thành 4F trong hệ thập lục phân (4 = 0100, F = 1111).
+Chú ý trong bảng sau: hex = thập lục phân
+dec = thập phân
+oct = bát phân
+
+
+== Từ nguyên ==
+
+
+=== Anh ngữ ===
+Chính IBM đã lựa chọn tiền tố hexa, thay vì sexa của tiếng Latinh. Cái tên hexadecimal là một cái tên xa lạ, vì hexa nguyên có gốc từ hexi (έξι) trong tiếng Hy Lạp và có nghĩa là "sáu", còn decimal lại có gốc Latinh và có nghĩa là "mười". Có thể hexa cũng đã được lấy từ tiếng Latinh, song chữ deka của Hy Lạp lại gần với chữ decem của Latinh hơn, nên có một số ý kiến cho rằng cách đặt tên này có sự bất nhất nào đấy. Một từ cổ hơn nữa là sexidecimal nghe có vẻ Latinh nhưng không đúng (từ Latinh đúng là sedecim, có nghĩa là 16). Từ này đã được đổi vì một số người cho rằng việc dùng từ này là quá mạo hiểm, vì từ này còn có một nghĩa khác là "gốc 60". Tuy vậy, chữ sexagesimal (gốc 60) vẫn còn giữ lại được nhóm tiền tố của nó. Trong tài liệu trước đây của máy tính Bendix, từ sexadecimal cũng có được dùng đến. Ông Steven Schwartzman có ghi lại: "Vì từ hexadecimal là một từ tương đối dài, nên nhiều khi nó được viết tắt là hex". Từ hexadecimal - thập lục phân - là một từ bất thường, vì nó là từ ghép bởi tiết tố của hai thứ tiếng Latinh và Hy Lạp. Từ nguyên gốc Latinh phải là sexadecimal, song những kẻ tấn công máy tính (computer hackers), có thể bị gợi ý và dẫn dụ bằng từ này mà gọi tắt nó thành sex. Giáo sư và nhà khoa học máy tính Donald Knuth có chỉ ra rằng theo đúng nghĩa của từ thì tên của nó phải là senidenary, một từ gốc Latinh với nghĩa là "nhóm 16". Những từ binary (nhị phân), ternary (tam phân) và quaternary (tứ phân) đều được tổ hợp từ gốc Latinh cả, và theo đúng nghĩa thì từ decimal (thập phân) đáng ra phải là denary (hệ mười).
+Mấy năm trước đây, một hệ thống các ký tự khác của hệ thập lục phân, rõ ràng, không nhập nhèm, đã được đề cử. (Cf. Hexadecimal time)
+
+
+== Biểu thị số thập lục phân ==
+Một vài con số thập lục phân hầu như hoàn toàn giống với những con số trong hệ thập phân (kể cả đối với con người và máy vi tính). Vì thế mà chúng thường được ký hiệu theo một quy tắc nhất định.
+Dưới dạng in ấn, ký hiệu của hệ thường được chỉ định bởi một hậu tố, chẳng hạn 5A316, 5A3SIXTEEN, hoặc 5A3HEX.
+Trong các ngôn ngữ lập trình cho máy vi tính - hầu như luôn luôn dùng văn bản đơn thuần (plain text), không hề có sự phân biệt về chữ viết trên, hoặc chữ viết dưới như trong in ấn - rất nhiều cách để đánh dấu số hệ thập lục phân đã xuất hiện. Những cách đánh dấu này còn được thấy trong chữ in, đặc biệt là những nội dung có liên quan đến một ngôn ngữ lập trình.
+Một số ký dụng thường thấy trong ngôn ngữ:
+Ada và VHDL gói những số thập lục phân dùng gốc của hệ, điểm chỉ bằng con số biểu đạt gốc, chẳng hạn "16#5A3#". (Chú ý: Ada chấp nhận phương thức ký dụng này cho các hệ, từ nhị phân cho đến thập lục phân, cho cả hai loại số nguyên (integer) và số thực (real)).
+C và những ngôn ngữ lập trình có ngữ pháp tương ứng (như C++, C#, Java và Javascript) dùng tiền tố "0x" cho các số thập lục phân, chẳng hạn "0x5A3". Số không (0) dẫn đầu được dùng để bộ thanh lọc mã (parser) có thể trực tiếp nhận biết một con số, trong khi chữ "x" đại biểu cho chữ hexadecimal (thập lục phân) - (đối chiếu với 0 đại diện cho bát phân (octal)). Chữ "x" trong tiền tố "0x" có thể được viết hoa (0X) hoặc viết thường (0x), song thường thấy được viết thường.
+Các shell của *nix (phần mềm dùng để thao tác các mệnh lệnh với máy tính, trong các hệ điều hành tương tự như UNIX) dùng mã escape bằng tổ hợp ký tự "\x0FF" trong các biểu thức (expression), và dùng "0xFF" đối với các hằng số (constant).
+Trong HTML, những ký hiệu hệ thập lục phân cũng được biểu thị với cách dùng chữ "x": &#x5a3; sẽ tương đương như &#1443; – với trình duyệt web của bạn ֣ và &#1443 theo thứ tự; (dấu trong tiếng Hebrew Hebrew accent munah). Các mã chỉ định màu sắc dùng hệ thập lục phân thường được biểu đạt với tiền tố "#", chẳng hạn "#FFFFFF" (màu trắng).
+Một vài ngôn ngữ assembly chỉ định thập lục phân bằng cách cho thêm chữ "h" vào đuôi (nếu con số bắt đầu bằng một chữ, đồng thời đứng sau một con số 0, chỉ định rằng nó là một con số), chẳng hạn "0A3Ch", "5A3h".
+Postscript chỉ định thập lục phân dùng tiền tố "16#".
+Common Lisp dùng tiền tố "#x" hoặc "#16r".
+Pascal, và các assembler khác (AT&T, Motorola), và một vài phiên bản BASIC dùng tiền tố "$", chẳng hạn "$5A3".
+Ngôn ngữ lập trình Smalltalk dùng tiền tố "16r". Chú ý Smalltalk còn chấp nhận biểu thức <gốc hệ số>r<dãy các con số> - gốc hệ số là một số từ 2 trở lên (ví dụ: 2r1110 bằng 10r14 hoặc 16rE), với sự hạn chế trên thực tiễn vì các ký tự và con số đều nằm trong các ký tự của bộ ASCII, 0-9 và A-Z. Một số phiên bản của Smalltalk cho phép các con số thập phân đứng sau dấu chấm "." biểu đạt số chấm động thập lục phân (floating point number) (và các gốc hệ số khác nữa).
+Một số phiên bản BASIC, đặc biệt là những ngôn ngữ là biến thể của nó do Microsoft tạo ra như QBasic và Visual Basic, các tiền tố để biểu đạt số thuộc hệ thập lục phân, như "&H", ví dụ: "&H5A3"; những cái khác như BBC BASIC chỉ dùng "&" (được dùng để biểu đạt hệ bát phân (octal) trong BASIC của Microsoft).
+Những ký hiệu như X'5A3' cũng đôi khi được thấy; PL/I dùng ký hiệu như vậy.
+Donald Knuth giới thiệu cách dùng các loại chữ khác nhau để biểu diễn cơ số của hệ đếm trong sách của ông The TeXbook. Trong hệ thống ký hiệu của ông, số thập lục phân được biểu đạt bằng những dòng chữ kiểu chữ đánh máy (typewriter type), ví dụ: 5A3
+
+Vì không có một quy định thống nhất nào nên tất cả những quy ước trên đều được dùng, đôi khi, ngay cả trong cùng một bài viết. Song vì quy ước của chúng khá rõ ràng và biệt lập nên ít khi có những trắc trở xảy ra.
+Ký hiệu thường dùng (và thường gặp) nhất là tiền tố "0x" hoặc ký hiệu viết số 16 xuống dưới (subscript-based), đều chỉ số thập lục phân. Chẳng hạn cả hai số 0x2BAD và 2BAD16 đều cùng đại diện cho số thập phân 11181 (hoặc 1118110).
+Trong những thời kỳ đầu của lịch sử máy tính, sự lựa chọn những con chữ từ A đến F để thay thế cho những con số tiếp theo, chưa được chấp nhận trên toàn thế giới. Trong những năm sau 1950, một số công trình cài đặt máy tính, ưa lựa chọn cách dùng các số từ 0 đến 5, cùng với một cơ cấu mã (macron), để biểu thị giá trị từ 10 đến 15. Những người dùng máy tính Bendix thì lại dùng chữ "U" đến chữ "Z".
+
+
+== Ứng dụng ==
+Hệ thập lục phân được dùng phổ biến trong lập trình HTML và CSS (tạm dịch là Chương mục định hình tuần tự). Những lập trình này dùng bộ tam kết thập lục phân (hex triplet) biểu thị màu sắc trong các trang web, bắt đầu bằng một dấu "#". Dấu này còn được dùng để biểu thị các số thập lục phân nửa. Khi biểu thị màu sắc với 24 bit, công thức #RRGGBB ("Đỏ, Vàng, Xanh") được dùng để thể hiện. Trong công thức này, "RR" (tiếng Anh là "Red Red") biểu thị phân hợp màu đỏ, "GG" ("Green Green") biểu thị phân hợp màu vàng (đáng ra phải gọi là màu xanh lá cây, song gọi là vàng để phân biệt với phân hợp tiếp theo, màu xanh lam), và "BB" ("Blue Blue") biểu thị phân hợp màu xanh (lam) của tổ hợp tam phần, đại diện cho sắc độ của một màu. Lấy ví dụ, một dáng màu đỏ với giá trị thập phân (238, 9, 63) được mã hóa sang hệ thập lục phân là #EE093F. Công thức này được sao chép từ tổ chức màu sắc trong hệ thống cửa sổ X (X Window System).
+Hệ thập phân còn được dùng trong kỹ thuật máy tính trên nhiều khía cạnh chung chung khác, và là một phương pháp thông thường nhất để biểu đạt giá trị của một byte, dùng dãy các ký tự (string), mà con người ai cũng có thể đọc được. Tất cả các giá trị của một byte (bao gồm 256 giá trị) đều có thể được biểu thị bằng hệ thập lục phân. Một số người cho rằng phương pháp dùng hệ ASCII 8-bit, để biểu thị giá trị, là một phương pháp khả thi, song phương pháp này không toàn diện, vì hệ ASCII còn bao gồm những ký tự không in được (còn gọi là các ký tự điều khiển (control characters)), không thích hợp cho mục đích.
+Trong các dòng liên kết nối URL, những chữ đặc biệt có thể được biểu thị bằng cách dùng mã thập lục phân, dẫn đầu bằng dấu phần trăm (%), chẳng hạn http://vi.wikipedia.org/wiki/Trang%20Ch%C3%ADnh.
+Công thức quy định cách viết địa chỉ IPv6, đại diện mỗi nhóm số gồm 16 bit, bằng những số thập lục phân, hòng làm cho việc đọc, và sao chép các địa chỉ dài 128-bit được dễ dàng hơn.
+
+
+== Phân số ==
+Tương tự như các hệ đếm khác, hệ thập lục phân cũng có thể dùng để biểu thị phân số (vulgar fraction), song chu kỳ thập phân tái diễn (recurring digits) thường xảy ra, do số 16 chỉ có một thừa số nguyên tố:
+Do cơ số 16 là bình phương của 4 (4²), phân số thập lục phân có chu kỳ lặp lại cá biệt, xảy ra nhiều lần hơn, so với những số thập phân. Chu kỳ thập phân xảy ra khi mẫu số, với thừa số thấp nhất (denominator in lowest terms), có một thừa số nguyên tố không thấy ở trong hàng cơ số. Trong trường hợp số thập lục phân, tất cả những phân số có mẫu số không phải là tích của một số mũ 2, sẽ tạo nên một chu kỳ thập phân tái diễn.
+
+
+== Hài hước ==
+Hệ thập lục phân đôi khi được dùng trong các trò đùa cợt của các lập trình viên, vì một số từ có thể được tạo dựng bằng các con số thập lục phân. Một số từ này trong tiếng Anh là "dead" (chết), "beef" (thịt bò), "babe" (người yêu bé bỏng) và, với những thế tự phù hợp, từ "c0ffee" (cà phê). Trang này là một ví dụ điển hình những trò đùa cợt này. Do khả năng dễ nhận biết của những từ sắp xếp kiểu này, kiểm duyệt cài đặt (debugging setup) thường dùng chúng để ráp giá trị khởi đầu cho những tiểu tiết trong bộ nhớ, giúp các lập trình viên tìm ra những tiểu tiết chưa được ráp giá trị khởi đầu (not initialised). Một số người thêm chữ "H" vào đằng sau một con số để biểu thị con số ấy là một số thập lục phân. Quy luật này cũng đôi khi được dùng trong ngữ pháp của ngôn ngữ lập trình assembly cổ của Intel. Với đuôi "H", người ta có thể viết những từ và câu mới, chẳng hạn 1517ADEADB17CH.
+Một ví dụ nữa là con số ma (magic number) trong các tiệp của hệ thống phân bổ FAT Mach-O và các chương trình Java, con số đó là "CAFEBABE" (cô bé quán cà phê).
+Cái ngân phiếu của Knuth có giá trị là một đô la trong hệ thập lục phân (256 xu = 162), tức là $2.56.
+Bảng liệt kê sau đây chính là một trò đùa với hệ thập lục phân:
+
+3x12=36
+2x12=24
+1x12=12
+0x12=18
+
+Ba hàng đầu tiên là tích của số 12, trong khi hàng cuối cùng "0x12" trong thập lục phân lại là 18.
+Giá trị 0xdeadbeef ("ox dead beef" - trâu chết [thành] thịt bò) đôi khi được gài vào bộ nhớ chưa được ráp giá trị khởi đầu (uninitialized memory).
+
+
+== Triển khai sang hệ nhị phân ==
+Khi làm việc với máy vi tính, chúng ta thường phải xử lý dữ liệu nhị phân, song xử lý con số trong hệ thập lục phân lại dễ dàng hơn so với hệ nhị phân (toàn số chỉ có 0 và 1) rất nhiều. Trong khi chúng ta thông thuộc với hệ thập phân hơn các hệ cơ số khác, việc biến đổi số từ hệ nhị phân sang hệ thập lục phân lại dễ hơn là việc biến chúng sang hệ thập phân, vì mỗi một số thập lục phân tương đương với 4 bit nhị phân (410).
+Hãy thử cân nhắc việc biến đổi số 11112 sang hệ thập phân. Vì mỗi vị trí của một con số trong hệ nhị phân (cơ số 2) chỉ cho phép giá trị 0 hay 1 mà thôi, việc định giá trị của con số tại vị trí ấy, tính từ bên phải, là một việc tương đối dễ dàng:
+00012 = 110
+00102 = 210
+01002 = 410
+10002 = 810
+Vì vậy:
+Đây là một con tính đơn giản, nhưng cũng đã đòi hỏi bốn tính cộng, trong khi với một chút luyện tập, 11112 có thể được chuyển thẳng sang F16 mà chỉ cần một phép tính (xem Biểu thị số thập lục phân). Khi số nhị phân là một số lớn, việc đổi chúng sang số thập phân là một việc dài dòng, tẻ nhạt. Khi đổi số nhị phân sang thập lục phân, chúng ta chỉ đơn giản chia nhóm các con số thành những nhóm 4, chuyển mỗi nhóm 4 này thành một số thập lục phân, giữ nguyên vị trí tương ứng của nhóm. Ví dụ sau đây chứng tỏ việc chuyển nhị phân sang thập phân dài dòng như thế nào:
+So sánh ví dụ trên với việc chuyển cùng con số sang hệ thập lục phân:
+Chúng ta cũng có thể đổi thẳng từ hệ thập lục phân quay trở lại nhị phân như ví dụ trên.
+Dùng số bát phân cũng là một cách hữu dụng để xử lý dữ liệu trong máy vi tính (nhóm 3 bit thay vì nhóm 4); song, cái lợi lớn nhất của thập lục phân so với bát phân là, để biểu thị một byte (octet), chúng ta chỉ cần đúng 2 con số thập lục phân là đủ. Điều này có nghĩa là nếu chúng ta có giá trị của một word (thường là 4 byte), việc nhận ra giá trị riêng của từng byte một là một việc khá dễ dàng; ngược lại, nếu chúng ta có giá trị của từng byte một, chúng ta cũng có thể dễ dàng ráp chúng lại thành một word.
+
+
+== Đổi gốc từ các hệ số khác ==
+
+
+=== Phép chia lấy số dư trong cơ số nguồn ===
+Phương pháp đổi một số sang hệ thập lục phân được thực hiện tương tự như phương pháp được áp dụng cho các hệ cơ số khác, bằng cách sử dụng phép chia lấy số nguyên và số dư trong hệ cơ số nguồn. Trên lý thuyết, phương pháp này có thể áp dụng được với bất cứ (một cặp) hệ cơ số nào. Song nói chung theo thói quen sử dụng của con người và trong kỹ thuật máy tính, phương pháp này được áp dụng với hệ thập phân và nhị phân. (Đối với hệ nhị phân, người ta còn có những phương pháp nhanh gọn hơn nữa.)
+Chẳng hạn, nếu lấy d là số thập phân cần phải được đổi, thì dãy số hihi-1...h2h1 là những con số để biểu diễn số ở hệ thập lục phân tương ứng. Với cách tính dãy h như sau:
+
+1. Hi:= d mod 16
+("mod" (modulus (tiếng Anh)): phép chia lấy dư, thực hiện phép chia số nguyên và lấy kết quả là số dư - chẳng hạn 17 mod 5 = 2 vì 17/5 = 3, dư 2.)
+
+2. 
+  
+    
+      
+        
+          
+            
+              
+                D
+                :=
+                
+                  
+                    
+                      d
+                      −
+                      
+                        h
+                        
+                          i
+                        
+                      
+                    
+                    16
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}D:={\frac {d-h_{i}}{16}}\end{matrix}}}
+  
+3. Nếu d == 0 thì kết quả là dãy số h); nếu không, quay trở lại bước 1.
+
+Phần sau đây giới thiệu chu trình của thuật toán trên, lập trình bằng ngôn ngữ JavaScript, dùng để biến bất cứ một số thập phân nào sang hệ thập lục phân, kết quả trả về là một string (dãy các ký tự). Mục đích của ví dụ là minh họa chu trình của thuật toán (có thể dựa vào đấy để áp dụng cho các công dụng xử lý khác). Để áp dụng thuật toán này với dữ liệu cụ thể, có thể dùng các toán tử trong phép toán thao tác bit.
+
+Cần lưu ý rằng cơ số "16" dùng ở trên có thể được thay thế bằng bất cứ cơ số nào (chẳng hạn hệ nhị phân (2), tam phân (3), bát phân (8) v.v..). Sau đây là thủ tục được minh họa bằng ngôn ngữ C++ để in ra một số ở hệ bất kì tương ứng với một số thập phân nhận vào.
+
+
+=== Phép cộng và tính nhân trong hệ thập lục phân ===
+Chúng ta có thể biến đổi bằng cách phân giải giá trị của vị trí của từng con số (hàng đơn vị, hàng chục, hàng trăm trong hệ thập phân chẳng hạn), rồi biến mỗi giá trị ấy sang giá trị tương ứng của hệ thập lục phân, sau đó làm phép cộng hay nhân trên con số ấy để được kết quả trong hệ thập lục phân. (khi làm tính nhân, nên có sẵn một bảng cửu chương trong hệ tương ứng (thập lục phân) để dễ đối chiếu - vì đa số chỉ biết bảng cửu chương trong hệ thập phân mà thôi). (Number system - Computer Methods in Chemical Engineering)
+Ví dụ: 12310 + 45610
+
+          10010 + 2010 + 310
+        + 40010 + 5010 + 610
+       ----------------------
+     hay
+           6416 + 1416 + 316
+        + 19016 + 3216 + 616
+       ----------------------
+          1F416 + 4616 + 916
+
+           11   (Nhớ)
+         -------------
+           1F416        50010
+         +  4616       + 7010 
+             916          910 
+          -----         -----
+           24316        57910
+
+
+=== Phép đổi thông qua hệ nhị phân ===
+Vì máy vi tính nói chung dùng hệ nhị phân, nên phương pháp đổi của máy thường là thông qua hệ nhị phân trước đã, sau đó dùng sự thông nối trực tiếp giữa thập lục phân và nhị phân, mà đổi sang hệ thập lục phân.
+
+
+== Hệ thập lục phân trong con mắt của giới báo chí và phim ảnh ==
+Trong bộ phim hoạt họa nhiều tập The Simpsons, tập có tựa đề Treehouse of Horror VI (Ngôi nhà kinh dị trên cây VI), nhân vật Homer lọt vào tầng không gian thứ 3, (Homer³), một dãy các số thập lục phân (46 72 69 6e 6b 20 52 75 6c 65 73 21) bồng bềnh trên không tại "vùng đất của không gian 3 chiều " (3-D land). Đối chiếu những giá trị thập lục phân này trong bản ASCII cho chúng ta các con chữ mà khi ghép lại, nó biến thành một dòng chữ tiếng Anh "Frink rules!" (ngoại trừ hai dấu ngoặc kép mà thôi) - nghĩa là "Frink trị vì!" hoặc "Frink là vua".
+Trong chương trình TV ReBoot, có một nhân vật với cái tên Hexadecimal (hệ thập lục phân).
+
+
+== Xem thêm ==
+Số Hex
+Hệ thập phân
+Hệ nhị phân
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Intuitor Hex Headquarters - Trang đặc biệt dành cho việc khuyến cáo, đổi hệ số thập phân truyền thống sang hệ thập lục phân.
+Các phương pháp biến đổi đơn giản
+Leet Key, một phần lắp ráp phụ của Firefox hỗ trợ việc biến đổi, cùng việc đánh máy chữ, giữa ASCII và số thập lục phân.
+Bits of Meaning (pdf) - Giới thiệu về số học điện toán trong máy Bendix G-15 của IBM
+Hexadecimal basics - Căn bản về số thập lục phân
+Hexadecimal Numbers Guide - Hướng dẫn về số thập lục phân
+Hexadecimal Colors - Biểu đạt màu sắc dùng hệ thập lục phân.

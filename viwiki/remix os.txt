@@ -1,0 +1,14 @@
+Remix OS là một hệ điều hành máy tính cho máy tính cá nhân. Nó được dựa trên Cấu trúc ARM và được cài đặt sẵn trên một số thiết bị bên thứ nhất và bên thứ ba. Vào tháng 1 năm 2016 Jide công bố một phiên bản Beta của hệ điều hành của họ gọi là Remix OS for PC, được dựa trên Android-x86 — một phiên bản x86 của hệ điều hành Android — và có thể dược tải về miễn phí. từ website của họ. Remix OS for PC cho phép người dùng chạy các ứng dụng Android trên bất cứ PC Intel tương thích nào. Phiên bản beta của Remix OS for PC cho phép cài đặt trên ổ đĩa cứng, hỗ trợ 32-bit, hỗ trợ UEFI và cập nhật qua OTA. Ngoại trừ các bộ phận có giấy phép phần mềm tự do đều có mã nguồn được tải lên Github., không giống như Android-x86, mã nguồn của Remix OS không được công bố công khai.
+Google Mobile Services (GMS) đã bị loại bỏ khỏi Remix Mini sau bản cập nhật Remix OS: 2.0.307 mà Jide cho rằng là để 'đảm bảo một trải nghiệm đồng nhất khắp tất cả các thiết bị Android.' Các bình luận sau đó cho rằng có một vấn đề tương thích với một số ứng dụng khiến Google yêu cầu không cài đặt sẵn GMS.
+
+
+== Lịch sử phiên bản ==
+Lịch sử các phiên bản Remix OS được chia thành 3 thể loại chính. Remix OS for PC, Remix OS for Remix Ultratablet và Remix OS for Remix Mini:
+Remix OS for PC:
+Remix Ultratablet:
+Remix Mini:
+Một thiết bị Remix OS 3.0, máy tính bảng Remix Pro 2-in-1, cũng đã được công bố. Tuy nhiên, chưa có tính năng nào mới được thể hiện.
+Phiên bản cuối cùng là 3.0.207.
+
+
+== Tham khảo ==

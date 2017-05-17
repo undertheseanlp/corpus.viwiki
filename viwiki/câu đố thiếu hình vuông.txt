@@ -1,0 +1,82 @@
+Câu đố thiếu hình vuông là một ảo ảnh (quang học) được sử dụng trong toán học sơ cấp để giúp học sinh tranh luận về các hình vẽ trong môn hình học. Nó miêu tả hai cách sắp xếp các hình, mỗi cách sắp xếp tạo ra một tam giác vuông cạnh 13×5, nhưng một tam giác bị khuyết một hình vuông cạnh 1×1 trong nó.
+
+
+== Lời giải ==
+
+Chìa khóa để giải câu đố này là thực chất không một tam giác 13×5 nào được ghép từ các hình nhỏ có cùng tổng diện tích với tổng diện tích các hình ghép lại.
+Bốn hình (màu vàng, đỏ, xanh và xanh lá cây) có tổng diện tích là 32 đơn vị diện tích, nhưng các tam giác cạnh đáy 13 và chiều cao 5 lại có diện tích là 
+  
+    
+      
+        S
+        =
+        
+          
+            
+              13
+              ⋅
+              5
+            
+            2
+          
+        
+        =
+        32.5
+      
+    
+    {\displaystyle S={\frac {13\cdot 5}{2}}=32.5}
+   đơn vị diện tích. Mặt khác tam giác màu xanh da trời có tỉ số hai cạnh là 5:2 (=2.500:1), trong khi tam giác màu đỏ có tỉ số 8:3 (≈2.667:1), và rõ ràng là hai tam giác này không đồng dạng với nhau. Vì thế khi kết hợp lại trong tam giác 13×5, cạnh huyền của tam giác này bị lệch đi, không thẳng.
+
+Lượng bị lệch đi được làm tròn bằng 1/28 đơn vị, và rất khó có thể nhìn thấy trên hình vẽ của câu đố này. Chú ý tới điểm lưới nơi hai cạnh huyền đỏ và cạnh huyền màu xanh da trời gặp nhau, và so sánh nó với cùng điểm này trên hình của tam giác 13×5 kia; cạnh huyền của nó hơi nằm bên trên điểm lưới này. Khi ghép hai hình 13×5 này đè lên nhau, nhìn ở phía cạnh huyền ta sẽ thấy 1 hình bình hành rất dẹt tạo bởi các cạnh huyền của hai tam giác đỏ và xanh da trời với diện tích đúng bằng diện tích của hình vuông 1×1, bằng với diện tích bị "thiếu" từ hình 13×5 thứ hai.
+Theo Martin Gardner, câu đố này được Paul Curry, một nhà ảo thuật nghiệp dư ở thành phố New York, nghĩ ra năm 1953. Tuy vậy, nguyên lý của nghịch lý phân chia hình đã được biết đến từ thập niên 1860.
+Các kích thước nguyên của các hình nhỏ trong câu đố (2, 3, 5, 8, 13) là các số liên tiếp trong dãy Fibonacci. Nhiều câu đố chia hình hình học khác dựa trên cơ sở của một vài tính chất đơn giản của dãy số Fibonacci nổi tiếng.
+
+
+== Câu đố tương tự ==
+
+Một phiên bản khác của câu đố này là (miêu tả trong ảnh động) sử dụng bốn hình tứ giác có diện tích bằng nhau và một hình vuông nhỏ, để tạo thành một hình vuông lơn hơn. Khi bốn tứ giác nội tiếp này quanh xung quanh tâm đường tròn nội tiếp của chúng, chúng phủ kín lên hình vuông nhỏ, mặc dù dường như tổng diện tích các hình là không thay đổi. Nghịch lý này được giải thích là thực ra các cạnh của hình vuông lớn sau khi quay 4 hình là hơi nhỏ hơn so với hình vuông lớn ban đầu. Nếu 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   là độ dài cạnh hình vuông lớn và 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   là góc giữa hai cạnh đối diện của mỗi tứ giác, thì tỉ số diện tích giữa hình vuông lớn và tổng diện tích 4 hình tứ giác là 
+  
+    
+      
+        
+          sec
+          
+            2
+          
+        
+        ⁡
+        θ
+        −
+        1
+      
+    
+    {\displaystyle \sec ^{2}\theta -1}
+  . Với θ = 5°, tỉ số này xấp xỉ 1.00765, hay tương ứng với sự khác nhau 0.8%.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+A printable Missing Square variant with a video demonstration.
+Curry's Paradox: How Is It Possible? at cut-the-knot
+Triangles and Paradoxes at archimedes-lab.org
+The Triangle Problem or What's Wrong with the Obvious Truth
+Jigsaw Paradox
+The Eleven Holes Puzzle

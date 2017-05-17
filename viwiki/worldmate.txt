@@ -1,0 +1,12 @@
+WorldMate là tên một phần mềm phổ biến dùng cho các máy PDA.
+WorldMate có nhiều phiên bản, trong đó, có phiên bản dành cho Windows Mobile, Symbian, Blackberry, Palm OS, JM2E hay phiên bản dùng trên máy tính cá nhân. Dịch vụ trực tuyến.
+Phần mềm này có thể cho phép người dùng biết thông tin cập nhật về thời tiết, về các chuyến bay, có các công cụ để quy đổi các đơn vị đo lường khác nhau, danh mục đồ dùng để phục vụ cho một chuyến đi, quy đổi tiền theo tỷ giá cập nhật qua Internet.
+Các dịch vụ thông thường được cập nhật qua Internet, chỉ có một số dịch vụ đặc biệt là thu tiền.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang chủ
+WorldMate Live: Phần mềm miễn phí nhật ký hành trình du lịch

@@ -1,0 +1,36 @@
+Windows NT là một họ các hệ điều hành được sản xuất bởi Microsoft, với phiên bản đầu tiên được phát hành vào tháng 7 năm 1993. Đây là một hệ điều hành vi xử lý độc lập, đa nhiệm và đa người dùng.
+Phiên bản đầu tiên của Windows NT là Windows NT 3.1 được sản xuất cho các máy trạm và máy chủ. Nó từng được dự định bổ sung cho các phiên bản khách hàng của Windows (bao gồm từ Windows 1.0 tới Windows 3.1x) đang dựa trên MS-DOS. Dần dần, họ Windows NT đã được mở rộng thành dòng sản phẩm hệ điều hành có mục đích chung của Microsoft dành cho tất cả các loại máy tính cá nhân, vượt lên dòng Windows 9x.
+"NT" trước đó thường được coi là từ viết tắt của cụm từ "New Technology" (Công nghệ mới) nhưng tới nay không còn mang bất cứ ý nghĩa cụ thể nào. Bắt đầu từ Windows 2000, cụm từ "NT" đã bị lược bỏ khỏi tên sản phẩm và chỉ còn được ghi lại trong các dòng mã phiên bản sản phẩm.
+NT ban đầu là phiên bản thuần 32-bit của Windows, trong khi các phiên bản hướng tới khách hàng của nó, Windows 3.1x và Windows 9x, là các hệ điều hành lai 16-bit/32-bit. Nó là một hệ điều hành đa nền tảng. Ban đầu, nó hỗ trợ một vài nền tảng CPU, bao gồm IA-32, MIPS, DEC Alpha, PowerPC và sau đó là Itanium. Các phiên bản mới nhất nay đã hỗ trợ x86 (cụ thể hơn là IA-32 và x64) và ARM. Các tính năng chủ yếu của họ Windows NT bao gồm Windows Shell, Windows API, Native API, Active Directory, Group Policy, Hardware Abstraction Layer, NTFS, BitLocker, Windows Store, Windows Update, và Hyper-V.
+
+
+== Các phiên bản phát hành ==
+
+
+== Nền tảng hỗ trợ ==
+
+
+=== Nền tảng 32-bit ===
+
+
+=== Nền tảng 64-bit ===
+
+
+=== Yêu cầu phần cứng ===
+
+
+== Xem thêm ==
+Microsoft Windows
+Cấu trúc Windows NT
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Windows (official page), Microsoft .
+Russinovich, Mark, “Windows NT and VMS: The Rest of the Story”, Win 2000 (discussion of ancestry of NT), Bản gốc lưu trữ ngày 3 tháng 5 năm 2002 .
+A Brief History of the Windows NT Operating System (fact sheet), Microsoft PressPass, 1998, Bản gốc lưu trữ ngày 10 tháng 6 năm 2004 .

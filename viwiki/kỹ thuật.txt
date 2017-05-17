@@ -1,0 +1,29 @@
+Kỹ thuật (tiếng Anh: engineering), có khi còn gọi là ngành kỹ sư, là việc ứng dụng kiến thức khoa học, kinh tế, xã hội, và thực tiễn để thiết kế, xây dựng, và duy trì các cấu trúc, máy móc, thiết bị, hệ thống, vật liệu, và quá trình. Kỹ thuật có thể bao gồm việc sử dụng sự hiểu biết sâu sắc để tìm ra, tạo mô hình, và thay đổi quy mô một giải pháp hợp lý cho một vấn đề hay một mục tiêu. Ngành kỹ thuật vô cùng rộng, nó bao gồm một loạt các lĩnh vực kỹ thuật đặc thù hơn, mỗi lĩnh vực nhấn mạnh đến những lĩnh vực công nghệ và những kiểu ứng dụng riêng. Những người hành nghề kỹ thuật được gọi là kỹ sư.
+Tổ chức ECPD của các kỹ sư Hoa Kỳ định nghĩa "kỹ thuật" là "Việc ứng dụng một cách sáng tạo những nguyên lý khoa học vào việc thiết kế hay phát triển các cấu trúc, máy móc, công cụ, hay quy trình chế tạo, hay những công trình sử dụng chúng một cách riêng lẻ hay kết hợp với nhau; hay vào việc xây dựng hay vận hành những đối tượng vừa kể với sự ý thức đầy đủ về thiết kế của chúng; hay để dự báo hoạt động của chúng dưới những điều kiện vận hành nhất định; tất cả những việc vừa kể với sự chú ý đến chức năng đã định, đặc điểm kinh tế của sự vận hành, hay sự an toàn đối với sinh mạng và của cải"
+Trong tiếng Việt, các từ "khoa học", "kỹ thuật", và "công nghệ" đôi khi được dùng với nghĩa tương tự nhau hay được ghép lại với nhau (chẳng hạn "khoa học kỹ thuật", "kỹ thuật công nghệ"). Tuy vậy, kỹ thuật khác với khoa học và công nghệ. Khoa học là toàn bộ hoạt động có hệ thống nhằm xây dựng và tổ chức kiến thức dưới hình thức những lời giải thích và tiên đoán có thể kiểm tra được về vũ trụ. Công nghệ là sự tạo ra, sự biến đổi, sử dụng, và kiến thức về các công cụ, máy móc, kỹ thuật, kỹ năng nghề nghiệp, hệ thống, và phương pháp tổ chức, nhằm giải quyết một vấn đề, cải tiến một giải pháp đã tồn tại, đạt được một mục đích, hay thực hiện một chức năng cụ thể.
+
+
+== Những ngành chính ==
+Kỹ thuật là một ngành rộng và thường được chia thành nhiều ngành con. Những ngành này liên quan đến những lĩnh vực công việc kỹ thuật khác nhau. Mặc dù ban đầu người kỹ sư có thể được đào tạo trong một ngành cụ thể, trong suốt sự nghiệp của mình người này có thể trở thành người làm việc liên quan đến nhiều ngành và trong những lĩnh vực công việc khác nhau. Kỹ thuật thường được xem là có bốn ngành chính: và các ngành kỹ thuật hệ thống, liên ngành.
+Kỹ thuật cơ khí: Thiết kế những hệ thống vật lý hay cơ học, như hệ thống cung cấp điện và năng lượng, sản phẩm hàng không và không gian, hệ thống vũ khí, phương tiện vận tải, động cơ đốt trong, bộ nén khí, tàu điện...
+Kỹ thuật hóa học: Ứng dụng những nguyên lý vật lý, hóa học, sinh học, và kỹ thuật trong việc thực hiện những quá trình hóa học ở quy mô sản xuất thương mại, như lọc đầu, chế tạo vật liệu và thiết bị ở kích thước micromét, lên men, sản xuất các phân tử sinh học.
+Kỹ thuật xây dựng: Thiết kế và xây dựng những công trình công cộng và cho tư nhân, như hạ tầng cơ sở (sân bay, đường bộ, đường sắt, hệ thống cấp nước và hệ thống xử lý nước, v.v...), cầu cống, đập nước, và các tòa nhà.
+Kỹ thuật điện: Thiết kế và nghiên cứu những hệ thống điện và điện tử khác nhau, như mạch điện, máy phát điện, động cơ điện, thiết vị điện từ hay điện cơ, thiết bị điện tử, mạch điện tử, cáp quang, thiết bị điện quang, hệ thống máy tính, hệ thống thông tin liên lạc, công cụ, những bảng điều khiển...
+Kỹ thuật hệ thống: Phân tích, Thiết kế và Điều khiển hệ thống kỹ thuật. Nó tập trung vào khoa học và công nghệ của hệ thống công nghiệp. Nó nhấn mạnh đến việc phân tích và thiết kế hệ thống để sản xuất hàng hóa và dịch vụ một cách hiệu quả.
+Kỹ thuật tích hợp liên ngành: Kỹ thuật hàng không vũ trụ; Kỹ thuật nông nghiệp; Kỹ thuật ứng dụng; Kỹ thuật y sinh; Kỹ thuật sinh học; Kỹ thuật dịch vụ tòa nhà; Kỹ thuật năng lượng; Kỹ thuật đường sắt; Kỹ thuật công nghiệp; Kỹ thuật Cơ điện tử; Kỹ thuật quản lý; Kỹ thuật quân sự; Kỹ thuật nano; Kỹ thuật hạt nhân; Kỹ thuật dầu khí; Kỹ thuật dệt may.
+
+
+== Chú thích ==
+
+
+== Đọc thêm ==
+
+
+== Liên kết ngoài ==
+National Academy of Engineering (NAE) (Viện Hàn lâm Kỹ thuật Hoa Kỳ).
+American Society for Engineering Education (ASEE) (Hội Giáo dục Kỹ thuật Hoa Kỳ).
+Engineering in History (Thư tịch về lịch sử ngành kỹ thuật). Thư viện Quốc hội Hoa Kỳ.
+ICES: Institute for Complex Engineered Systems (Viện Nghiên cứu các Hệ thống Kỹ thuật Phức tạp). Viện Đại học Carnegie Mellon, Hoa Kỳ.
+History of Engineering (Thư tịch về lịch sử ngành kỹ thuật). Viện Đại học Minnesota, Hoa Kỳ.
+Một đoạn phim trên YouTube giải thích bằng từ ngữ (tiếng Anh) đơn giản kỹ thuật là gì, và những gì không phải là kỹ thuật.
+Greatest Engineering Achievements of the 20th Century (Những thành tựu kỹ thuật vĩ đại nhất của thế kỷ 20). Viện Hàn lâm Kỹ thuật Hoa Kỳ.

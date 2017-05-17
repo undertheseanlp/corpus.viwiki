@@ -1,0 +1,11 @@
+Windows Server 2008 (đôi khi được viết tắt là Win2k8, WinServer2K8, Windows 2008 hoặc W2K8) là một trong các hệ điều hành của Microsoft Windows dành cho dòng máy chủ. Phát hành để sản xuất đại trà ngày 4 tháng 2 năm 2008, và chính thức phát hành vào ngày 27 tháng 2 năm 2008, hệ điều hành này là sự kế thừa của Windows Server 2003, phát hành gần năm năm trước đó. Một phiên bản thứ hai, tên là Windows Server 2008 R2, được phát hành để sản xuất ngày 22 tháng 7 năm 2009.
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+
+
+== Liên kết ngoài ==
+Windows Server Performance Team Blog

@@ -1,0 +1,160 @@
+Vôn, Volt, ký hiệu V, là đơn vị đo hiệu điện thế, sức điện đông được lấy tên theo nhà vật lý người Ý Alessandro Volta. 
+
+
+== Định nghĩa ==
+Một vôn là hiệu điện thế giữa hai điểm của 1 dây dẫn khi có dòng điện chạy qua với cường độ 1 ampe và cho công suất 1 watt. nó cũng bằng sự chênh lệch điện áp giữa 2 mặt phẳng vô hạn song song cách nhau 1 mét, tạo ra một điện trường có giá trị 1 newton/ 1 coulomb. Ngoài ra, nó còn là sự chênh lệch điện thế giữa 2 điểm truyền điện tích với mức năng lượng 1  joule /coulomb. Volt được tính bằng hệ đơn vị SI (m, kg, s, và A) như sau:
+
+  
+    
+      
+        
+          V
+        
+        =
+        
+          
+            potential energy
+            charge
+          
+        
+        =
+        
+          
+            
+              
+                N
+              
+              ⋅
+              
+                m
+              
+            
+            coulomb
+          
+        
+        =
+        
+          
+            
+              
+                kg
+              
+              ⋅
+              
+                m
+              
+              ⋅
+              
+                m
+              
+            
+            
+              
+                
+                  s
+                
+                
+                  2
+                
+              
+              ⋅
+              
+                A
+              
+              ⋅
+              
+                s
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                kg
+              
+              ⋅
+              
+                
+                  m
+                
+                
+                  2
+                
+              
+            
+            
+              
+                A
+              
+              ⋅
+              
+                
+                  s
+                
+                
+                  3
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\text{V}}={\frac {\text{potential energy}}{\text{charge}}}={\frac {{\text{N}}\cdot {\text{m}}}{\text{coulomb}}}={\frac {{\text{kg}}\cdot {\text{m}}\cdot {\text{m}}}{{\text{s}}^{2}\cdot {\text{A}}\cdot {\text{s}}}}={\frac {{\text{kg}}\cdot {\text{m}}^{2}}{{\text{A}}\cdot {\text{s}}^{3}}}.}
+  
+Volt cũng có thể được tính theo công thức của định luật Ohm, đinh luật Joule như sau:
+
+  
+    
+      
+        
+          V
+        
+        =
+        
+          A
+        
+        ⋅
+        Ω
+        =
+        
+          
+            W
+            A
+          
+        
+        =
+        
+          
+            J
+            C
+          
+        
+        =
+        
+          
+            eV
+            e
+          
+        
+        .
+      
+    
+    {\displaystyle {\text{V}}={\text{A}}\cdot \Omega ={\frac {\text{W}}{\text{A}}}={\frac {\text{J}}{\text{C}}}={\frac {\text{eV}}{e}}.}
+  
+
+
+== Các ước số-bội số của vôn ==
+
+
+=== Các tiền tố kết hợp với đơn vị vôn ===
+
+
+=== Bảng chuyển đổi giá trị giữa các ước số-bội số khác nhau ===
+
+
+== Tham khảo ==

@@ -1,0 +1,36 @@
+Sơ đồ mạch điện (Circuit diagram) hay sơ đồ điện, sơ đồ cơ bản, sơ đồ điện tử, là một biểu diễn đồ họa của mạch điện. Nó sử dụng các biểu tượng đồ họa tiêu chuẩn hóa gọi là ký hiệu điện tử để biểu diễn các thành phần và mối liên kết của các mạch. Trình bày của các mối liên kết giữa các thành phần mạch trong sơ đồ không nhất thiết phải tương ứng với sự sắp xếp vật lý trong thiết bị đã hoàn thành.
+Không giống như một sơ đồ khối hoặc sơ đồ bố trí, sơ đồ mạch điện cho thấy các kết nối điện thực tế. Một bản vẽ có nghĩa là để mô tả sự sắp xếp vật lý của các dây và các thành phần kết nối với nhau, được gọi là tác phẩm nghệ thuật bố trí, thiết kế vật lý, hoặc sơ đồ hệ thống dây điện (wiring diagram).
+Sơ đồ mạch điện được sử dụng cho việc thiết kế mạch, xây dựng mạch và bố trí bảng mạch in (PCB), và bảo trì các thiết bị điện và điện tử.
+Trong khoa học máy tính, sơ đồ mạch điện rất hữu ích khi biểu diễn trực quan bằng đại số Boole.
+
+
+== Ký hiệu điện tử ==
+
+Sơ đồ mạch điện là bản họa hình với các biểu tượng . Các biểu tượng này khác nhau ở các quốc gia và đã thay đổi theo thời gian, nhưng nay đã đi một mức độ tiêu chuẩn quốc tế. Các thành phần đơn giản thường có ký hiệu có chủ đích thể hiện tính năng của linh kiện. Ví dụ, biểu tượng cho điện trở thể hiện ngày xưa nó được làm bằng đoạn dây quấn sao cho không làm phát sinh điện cảm. Điện trở như vậy nay chỉ dùng cho vị trí tiêu hao điện năng cao, phần lớn khác thì dùng điện trở nhỏ carbon. Các biểu tượng tiêu chuẩn quốc tế đối với một điện trở bây giờ đơn giản là hình chữ nhật, đôi khi có giá trị trong ohms bên trong, thay vì biểu tượng zig-zag.
+Các dây nối dẫn đến biểu diễn là đường giao cắt. Soạn thảo trên máy vi tính thì kết nối của hai dây giao nhau được thể hiện bởi "dot" hoặc "blob" để chỉ một kết nối, hoặc một qua dây không nối. Nhưng photocopy bản in thì biểu diễn dot dễ bị thất lạc. Vì thế có đề nghị sử dụng biểu diễn mối nối T.
+Trên sơ đồ mạch biểu tượng cho các phần tử được đặt nhãn với mô tả hoặc tham chiếu thiết kế tương ứng với phần tử đó trong danh sách các phần tử. Ví dụ, C1 là tụ đầu tiên, L1 là điện đầu tiên, Q1 là transistor đầu tiên, R1 là điện trở đầu tiên. Lưu ý rằng chỉ số không được viết như một subscript. Thường thì giá trị hoặc loại của các phần tử được đưa ra trên biểu đồ bên cạnh các chúng, nhưng thông số kỹ thuật chi tiết thì đưa vào danh sách các phần tử.
+Quy định chi tiết cho lập tham chiếu thiết kế được nêu trong tiêu chuẩn IEC International 61.346.
+
+
+== Sắp xếp ==
+
+
+== Tác phẩm nghệ thuật ==
+Khi các sơ đồ đã hoàn tất, nó được chuyển đổi thành một bố cục để có thể chế tạo thành bảng mạch in (PCB). Việc bố trí được bắt đầu bằng quá trình Schematic capture. Kết quả là những gì được biết đến như một Tổ chuột, một mớ lộn xộn dây điện (Line) dọc ngang nhau để đến nút đích của nó. Các dây này được định tuyến hoặc bằng tay hoặc bằng công cụ tự động hóa thiết kế điện tử (EDA). Các công cụ thiết kế vi mạch bố trí và sắp xếp lại vị trí của các thành phần và tìm đường dẫn cho các kết nối đến các nút đích khác nhau. Kết quả là tác phẩm nghệ thuật (Artwork) về bố trí cuối cùng mạch tích hợp hay bảng mạch in được hoàn tất.
+Dòng chảy thiết kế tổng quát có thể như sau:
+Sơ đồ → Schematic capture → rat's nest → routing → artwork → Tạo PCB và khắc → Gắn phần tử → Thử nghiệm
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+
+
+== Liên kết ngoài ==
+Electrical Circuit's Schematic Symbols
+Circuit Symbols of Electronic Components
+Electrical & Electronic Drawing Symbols
+Collection of Electronic Symbols
+Circuit Schematic Symbols
+Collection of Electrical and Electronic Schematic Symbols

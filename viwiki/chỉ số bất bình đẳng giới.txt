@@ -1,0 +1,41 @@
+Chỉ số bất bình đẳng giới (Gender Inequality Index - GII) là một chỉ số dùng để đo sự chênh lệch giới, được Chương trình Phát triển Liên Hiệp Quốc (UNDP) đưa ra trong ấn bản kỷ niệm lần thứ 20 của Báo cáo Phát triển Con người năm 2010. Theo UNDP, chỉ số này là một thước đo hỗn hợp về sự thất bại trong phạm vi một quốc gia vì sự bất bình đẳng giới. Nó sử dụng ba khía cạnh để đo lường: sức khỏe sinh sản, sự trao quyền và sự tham gia vào thị trường lao động.
+
+
+== Cách tính ==
+Cách tính chỉ số bất bình đẳng giới cũng giống với cách tính chỉ số HDI về bất bình đẳng, được công bố trong Báo cáo Phát triển con người năm 2010, và có thể được hiểu như là mức giảm phần trăm của sự phát triển con người. Giá trị của GII nằm trong khoảng từ 0 đến 1, với 0 là 0% bất bình đẳng giới và 1 là 100% bất bình đẳng giới. Theo các nước thuộc UNDP thì bất bình đẳng giới cao cũng cho thấy sự bất bình đẳng trong việc phân phối phát triển và ngược lại.
+Có 5 bước để tính chỉ số GII:
+Bước 1: Điều chỉnh số 0: Tỉ lệ tử của phụ nữ sinh con được rút gọn một cách có hệ thống trong khoảng từ 10 đến 1000. Khoảng cách này được dựa trên giả thiết là các nước có tỉ lệ tử lớn hơn 1000 hay dưới 10 không có sự khác biệt trong việc chăm sóc sức khỏe cho phụ nữ sinh con. Các nước có tỉ lệ tử được báo cáo là 0 được tính là 0,1 dựa trên giả thiết phụ nữ có khả năng làm ảnh hưởng đến chính trị và trung bình nhân không bao giờ có giá trị 0.
+Bước 2: Tập hợp các tham số trong mỗi giới tính, sử dụng trung bình nhân: Việc tập hợp này làm cho GII trở nên nhạy cảm. Tỉ lệ tử của phụ nữ sinh con và tỉ lệ sinh sản vị thành niên phù hợp cho phụ nữ sinh nam chỉ được tổng hợp bằng 2 chiều khác.
+Bước 3: Tập hợp giữa các giới tính, sử dụng trung bình điều hòa: Để tính toán chỉ số bình đẳng giới (phân bố đều), chỉ số dành cho nam và nữ được tổng hợp lại bằng trung bình điều hòa để nắm bắt sự bất bình đẳng giới và điều chỉnh mối liên hệ giữa các chiều với nhau.
+Bước 4: Tính trung bình nhân của trung bình cộng của mỗi chỉ số: Ta có được các tiêu chuẩn tham chiếu bằng cách tổng hợp các chỉ số cho nam và nữ với trọng lượng như nhau, sau đó tập hợp các chỉ số đó trên các tham số.
+Bước 5: Tính GII: So sánh các chỉ số giới tính phân bố đều ở Bước 3 và các tiêu chuẩn có được ở Bước 4.
+
+
+=== Thay đổi trong năm 2011 ===
+Theo UNDP, đã có một sự thay đổi trong việc tính toán chỉ số GII vào năm 2011. Tỉ lệ tử của phụ nữ sinh con đã được tính là 10 trong chỉ số GII, mặc dù chỉ số này luôn nằm trong khoảng từ 0 đến 1. Để khắc phục điều này, tỉ lệ tử được rút gọn đi 10 lần (1 × 101), làm giảm giá trị GII.
+
+
+== Tổn thất vì bất bình đẳng giới ==
+
+
+=== Xếp hạng năm 2012 ===
+
+
+==== Cao nhất ====
+Những quốc gia/vùng lãnh thổ xếp hạng cao nhất xét về mặt bình đẳng giới theo chỉ số GII trong các năm 2008, 2011 và 2012.
+
+
+==== Thấp nhất ====
+Những quốc gia/vùng lãnh thổ xếp hạng thấp nhất xét về mặt bình đẳng giới theo chỉ số GII trong các năm 2008, 2011 và 2012.
+
+
+=== Xếp hạng năm 2014 ===
+
+
+==== Top 30 nước xếp hạng cao nhất ====
+
+
+==== Một số quốc gia khác ====
+
+
+== Tham khảo ==

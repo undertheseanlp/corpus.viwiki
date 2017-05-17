@@ -1,0 +1,90 @@
+Microsoft Imagine, trước đây có tên là DreamSpark, là một chương trình của Microsoft cho phép sinh viên sử dụng các công cụ phát triển và thiết kế phần mềm miễn phí. Chương trình này ban đầu có sẵn tại các trường/viện đại học tại Belarus, Bỉ, Canada, Trung Quốc, Phần Lan, Pháp, Đức, Ấn Độ, Ý, Maroc, Hà Lan, Tây Ban Nha, Thụy Điển, Thụy Sĩ, Tunisia, Liên hiệp Anh và Hoa Kỳ, nhưng tới nay đã được mở rộng tới hơn 80 quốc gia và cũng được cung cấp cho nhiều học sinh trung học. Để đăng ký, sinh viên phải truy cập trang web của Imagine và xác định danh tính của họ. Nếu một trường không được liệt kê trong danh sách có sẵn, người dùng có thể tự xác minh sinh viên của họ bằng cách tải lên giấy tờ xác nhận như thẻ căn cước công dân.
+Chương trình Imagine được công bố bởi Bill Gates với tên ban đầu là DreamSpark vào ngày 20 tháng 2 năm 2008 trong một bài phát biểu tại Đại học Stanford. Ước tính sẽ có hơn 35 triệu sinh viên sẽ được truy cập các công cụ phần mềm này miễn phí qua chương trình này. Dịch vụ này được đổi tên thành Imagine vào ngày 7 tháng 9 năm 2016, để đồng bộ với cuộc thi thường niên Imagine Cup được tổ chức bởi Microsoft.
+
+
+== Xác minh ==
+Để tải về phần mềm và lấy mã sản phẩm, các sinh viên phải xác minh tình trạng sinh viên của mình. Trên trang web Imagine, sinh viên có thể xác minh danh tính bằng thẻ ISIC, mã truy cập do quản lý trường cấp, hoặc địa chỉ thư điện tử.edu. Các sinh viên sẽ được giữ tình trạng xác minh 12 tháng sau đó. Nếu sinh viên không tìm thấy trường của mình, họ có thể tự gửi yêu cầu các minh với giấy tờ chứng minh sinh viên.
+
+
+== Các sản phẩm được cung cấp ==
+Một vài công cụ phát triển phần mềm có thể tải về thông qua chương trình, bao gồm:
+
+
+=== Các sản phẩm thương mại miễn phí qua Imagine ===
+Visual Studio Community 2015
+Microsoft SQL Server 2012
+Microsoft SQL Server 2014
+Microsoft SQL Server 2016
+Windows Server 2008 R2 Standard Edition 64-bit
+Windows Server 2012 Datacenter và Standard Editions 64-bit
+Windows Server 2012 R2 Datacenter và Standard Editions 64-bit
+Windows Server 2016
+Windows Embedded 8.1 Industry Pro
+Chỉ qua Imagine Premium:
+MS-DOS 6.22
+Windows Vista Business
+Windows 7 Professional
+Windows 8 Pro
+Windows 8.1 Pro
+Windows 10 Education
+Visual Studio 2005, 2008, 2010, 2012, 2013, 2015 All Editions
+Các chương trình từ bộ Office 2007: OneNote, Access, Groove, Visio, Project
+Các chương trình từ bộ Office 2010: OneNote, Access, SharePoint Workspace, Visio, Project
+Các chương trình từ bộ Office 2013: OneNote (nay đã được miễn phí), Access, Lync, Visio, Project
+Các chương trình từ bộ Office 2016: OneNote (nay đã được miễn phí), Access, Skype for Business, Visio, Project
+Một số máy chủ cho Office như Exchange server
+Ba ứng dụng Microsoft Office cơ bản là Word, Excel và PowerPoint không thể tải về qua Imagine: Office Home & Student 2013 hay Office 365 University cho phép sinh viên mua với giá ưu đãi. Không giống các chương trình được liệt kê ở trên, không có cách nào để truy cập các phiên bản cũ và tương thích (2010, 2007) của Office cho Word, Excel hay PowerPoint với chương trình Imagine.
+
+
+=== Các sản phẩm miễn phí cũng có thể tải về từ Imagine ===
+
+
+=== Ưu đãi ===
+Dùng thử 12 tháng Thành viên Học thuật cho XNA Creators Club
+Miễn phí $99 trên Windows Marketplace cho Mobile và phí xuất bản 100 lần đầu tiên
+Đăng ký 90 ngày miễn phí khóa đào tạo Pluralsight
+Miễn phí xuất bản ứng dụng lên Windows 8 Store
+
+
+== Các sản phẩm trước đây được phân phối ==
+Expression Studio 1 (bao gồm Web, Blend, Design, Encoder và Media)
+Expression Studio 2 (bao gồm Web, Blend, Design, Encoder và Media)
+Expression Studio 3 (bao gồm Web, Blend, Design và Encoder)
+Expression Studio 4 Ultimate (đã trở thành sản phẩm miễn phí tới 2013, đã ngừng)
+Microsoft SQL Server 2005 Developer Edition (chỉ x86)
+Microsoft SQL Server 2008 Developer Edition (x86 và x64)
+Microsoft SQL Server 2008
+SQL Server Express 2008, 2012
+Visual Studio 2005 Express
+Visual Studio 2005 Professional Edition
+XNA Game Studio 3.1
+Windows Server 2003 R2 Standard Edition (chỉ x86)
+Windows NT 4.0 Workstation
+Windows 2000 Professional
+Windows XP Professional
+Windows Server 2008 Standard Edition 32-bit
+Windows Embedded CE 6.0
+Windows Embedded Standard 7
+Windows Embedded 8 Industry Pro
+Visual Studio 2008, 2010, 2012, 2013 Professional Editions
+Visual Studio Express 2008, 2010, 2012, and 2013
+Visual Studio LightSwitch 2011
+Microsoft Robotics Developer Studio 2008 R3 và Microsoft CCR và DSS Toolkit 2008
+XNA Game Studio 4.0
+Virtual PC 2007
+Windows Phone Developer Tools
+Windows MultiPoint Mouse SDK
+Microsoft Small Basic
+Kodu Game Lab
+Microsoft Mathematics
+
+
+== Xem thêm ==
+BizSpark
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Imagine website

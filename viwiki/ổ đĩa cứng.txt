@@ -1,0 +1,369 @@
+:Xem các nghĩa có tên ổ đĩa tại bài định hướng Ổ đĩa
+
+Ổ đĩa cứng, hay còn gọi là ổ cứng (tiếng Anh: Hard Disk Drive, viết tắt: HDD) là thiết bị dùng để lưu trữ dữ liệu trên bề mặt các tấm đĩa hình tròn phủ vật liệu từ tính.
+Ổ đĩa cứng là loại bộ nhớ "không thay đổi" (non-volatile), có nghĩa là chúng không bị mất dữ liệu khi ngừng cung cấp nguồn điện cho chúng.
+Ổ đĩa cứng là một thiết bị rất quan trọng trong hệ thống bởi chúng chứa dữ liệu thành quả của một quá trình làm việc của những người sử dụng máy tính. Những sự hư hỏng của các thiết bị khác trong hệ thống máy tính có thể sửa chữa hoặc thay thế được, nhưng dữ liệu bị mất do yếu tố hư hỏng phần cứng của ổ đĩa cứng thường rất khó lấy lại được.
+Ổ đĩa cứng là một khối duy nhất, các đĩa cứng được lắp ráp cố định trong ổ ngay từ khi sản xuất nên không thể thay thế được các "đĩa cứng" như với cách hiểu như đối với ổ đĩa mềm hoặc ổ đĩa quang.
+
+
+== Tổng quan ==
+Ổ cứng thường được gắn liền với máy tính để lưu trữ dữ liệu cho dù chúng xuất hiện muộn hơn so với những chiếc máy tính đầu tiên.
+Với sự phát triển nhanh chóng của công nghệ, ổ đĩa cứng ngày nay có kích thước càng nhỏ đi đến các chuẩn thông dụng với dung lượng thì ngày càng tăng lên. Những thiết kế đầu tiên ổ đĩa cứng chỉ dành cho các máy tính thì ngày nay ổ đĩa cứng còn được sử dụng trong các thiết bị điện tử khác như máy nghe nhạc kĩ thuật số, máy ảnh số, điện thoại di động thông minh (SmartPhone), máy quay phim kĩ thuật số, thiết bị kỹ thuật số hỗ trợ cá nhân...
+Không chỉ tuân theo các thiết kế ban đầu, ổ đĩa cứng đã có những bước tiến công nghệ nhằm giúp lưu trữ và truy xuất dữ liệu nhanh hơn: ví dụ sự xuất hiện của các ổ đĩa cứng lai giúp cho hệ điều hành hoạt động tối ưu hơn, giảm thời gian khởi động của hệ thống, tiết kiệm năng lượng, sự thay đổi phương thức ghi dữ liệu trên các đĩa từ làm cho dung lượng mỗi ổ đĩa cứng tăng lên đáng kể.
+
+
+== Lịch sử phát triển ==
+
+
+=== Năm 1955 ===
+Ổ cứng đầu tiên trên thế giới có là IBM 350 Disk File được chế tạo bởi Reynold Johnson ra mắt năm 1955 cùng máy tính IBM 305. Ổ cứng này có tới 50 tấm đĩa kích thước 24" với tổng dung lượng là 5 triệu ký tự. Một đầu từ được dùng để truy nhập tất cả các tấm đĩa khiến cho tốc độ truy nhập trung bình khá thấp.
+
+
+=== Năm 1961 ===
+Thiết bị lưu trữ dữ liệu IBM 1301 ra mắt năm 1961 bắt đầu sử dụng mỗi đầu từ cho một mặt đĩa.
+Ổ đĩa đầu tiên có bộ phận lưu trữ tháo lắp được là ổ IBM 1311. Ổ này sử dụng đĩa IBM 1316 có dung lượng 2 triệu ký tự.
+
+
+=== Năm 1973 ===
+IBM giới thiệu hệ thống đĩa 3340 "Winchester", ổ đĩa đầu tiên sử dụng kĩ thuật lắp ráp đóng hộp (sealed head/disk assembly - HDA). Kĩ sư trưởng dự án/chủ nhiệm dự án Kenneth Haughton đặt tên theo "súng trường Winchester" 30-30 sau khi một thành viên trong nhóm gọi nó là "30-30" vì các trục quay 30 MB của ổ đĩa cứng. Hầu hết các ổ đĩa hiện đại ngày nay đều sử dụng công nghệ này, và cái tên "Winchester" trở nên phổ biến khi nói về ổ đĩa cứng và dần biến mất trong thập niên 1990.
+Trong một thời gian dài, ổ đĩa cứng có kích thước lớn và cồng kềnh, thích hợp với một môi trường được bảo vệ của một trung tâm dữ liệu hoặc một văn phòng lớn hơn là trong môi trường công nghiệp khắc nghiệt (vì sự mong manh), hay văn phòng nhỏ hoặc nhà riêng (vì kích cỡ quá khổ và lượng điện năng tiêu thụ). Trước thập niên 1980, hầu hết ổ đĩa cứng có các tấm đĩa cỡ 8" (20 cm) hoặc 14-inch (35 cm), cần một giá thiết bị cũng như diện tích sàn đáng kể (tiêu biểu là các ổ đĩa cứng lớn có đĩa tháo lắp được, thường được gọi là "máy giặt"), và trong nhiều trường hợp cần tới điện cao áp hoặc thậm chí điện ba pha cho những mô tơ lớn chúng dùng. Vì lý do đó, các ổ đĩa cứng không được dùng phổ biến trong máy vi tính đến tận năm 1980, khi Seagate Technology cho ra đời ổ đĩa ST-506 - ổ đĩa 5,25" đầu tiên có dung lượng 5 MB. Có một thực tế là trong cấu hình xuất xưởng, máy IBM PC (IBM 5150) không được trang bị ổ đĩa cứng.
+
+
+=== Thập niên 1990 ===
+Đa số các ổ đĩa cứng cho máy vi tính đầu thập kỷ 1980 không bán trực tiếp cho người dùng cuối bởi nhà sản xuất mà bởi các OEM như một phần của thiết bị lớn hơn (như Corvus Disk System và Apple ProFile). Chiếc IBM PC/XT được bán ra đã có một ổ đĩa cứng lắp trong nhưng xu hướng tự cài đặt nâng cấp bắt đầu xuất hiện. Các công ty chế tạo ổ đĩa cứng bắt đầu tiếp thị với người dùng cuối bên cạnh OEM và đến giữa thập niên 1990, ổ đĩa cứng bắt đầu xuất hiện trong các cửa hàng bán lẻ.
+Ổ đĩa lắp trong ngày càng được sử dụng nhiều trong PC trong khi các ổ đĩa lắp ngoài tiếp tục phổ biến trên máy Macintosh của hãng Apple và các nền tảng khác. Mỗi máy Mac sản xuất giữa giữa các năm 1986 và 1998 đều có một cổng SCSI phía sau khiến cho việc lắp đặt thêm phần cứng mới trở nên dễ dàng; tương tự như vậy, "toaster" (máy nướng bánh) Mac không có chỗ cho ổ đĩa cứng (hay trong Mac Plus không có chỗ lắp ổ đĩa cứng), các đời tiếp theo cũng vậy thế nên ổ SCSI lắp ngoài là có thể hiểu được. Các ổ đĩa SCSI lắp ngoài cũng phổ biến trong các máy vi tính cổ như loạt Apple II và Commodore 64, và cũng được sử dụng rộng rãi trong máy chủ cho đến tận ngày nay. Sự xuất hiện vào cuối thập niên 1990 của các chuẩn giao tiếp ngoài như USB và FireWire khiến cho ổ đĩa cứng lắp ngoài trở nên phổ biến hơn trong người dùng thông thường đặc biệt đối với những ai cần di chuyển một khối lượng lớn dữ liệu giữa hai địa điểm. Vì thế, phần lớn các ổ đĩa cứng sản xuất ra đều có trở thành lõi của các vỏ lắp ngoài.
+
+
+=== Ngày nay ===
+Dung lượng ổ đĩa cứng tăng trưởng theo hàm mũ với thời gian. Đối với những máy PC thế hệ đầu, ổ đĩa dung lượng 20 megabyte được coi là lớn. Cuối thập niên 1990 đã có những ổ đĩa cứng với dung lượng trên 1 gigabyte. Vào thời điểm đầu năm 2005, ổ đĩa cứng có dung lượng khiêm tốn nhất cho máy tính để bàn còn được sản xuất có dung lượng lên tới 40 gigabyte còn ổ đĩa lắp trong có dung lượng lớn nhất lên tới một nửa terabyte (500 GB), và những ổ đĩa lắp ngoài đạt xấp xỉ một terabyte. Cùng với lịch sử phát triển của PC, các họ ổ đĩa cứng lớn là MFM, RLL, ESDI, SCSI, IDE và EIDE, và mới nhất là SATA. Ổ đĩa MFM đòi hỏi mạch điều khiển phải tương thích với phần điện trên ổ đĩa cứng hay nói cách khác là ổ đĩa và mạch điều khiền phải tương thích. RLL (Run Length Limited) là một phương pháp mã hóa bit trên các tấm đĩa giúp làm tăng mật độ bit. Phần lớn các ổ đĩa RLL cần phải tương thích với bộ điều khiển nó làm việc với. ESDI là một giao diện được phát triển bởi Maxtor làm tăng tốc trao đổi thông tin giữa PC và đĩa cứng. SCSI (tên cũ là SASI dành cho Shugart (sic) Associates), viết tắt cho Small Computer System Interface, là đối thủ cạnh tranh ban đầu của ESDI. Khi giá linh kiện điện tử giảm (do nhu cầu tăng lên) các chi tiết điện tử trước kia đặt trên cạc điều khiển đã được đặt lên trên chính ổ đĩa cứng. Cải tiến này được gọi là ổ đĩa cứng tích hợp linh kiện điện tử (Integrated Drive Electronics hay IDE). Các nhà sản xuất IDE mong muốn tốc độ của IDE tiếp cận tới tốc độ của SCSI. Các ổ đĩa IDE chậm hơn do không có bộ nhớ đệm lớn như các ổ đĩa SCSI và không có khả năng ghi trực tiếp lên RAM. Các công ty chế tạo IDE đã cố gắng khắc phục khoảng cách tốc độ này bằng phương pháp đánh địa chỉ logic khối (Logical Block Addressing - LBA). Các ổ đĩa này được gọi là EIDE. Cùng lúc với sự ra đời của EIDE, các nhà sản xuất SCSI đã tiếp tục cải tiến tốc độ SCSI. Những cải tiến đó đồng thời khiến cho giá thành của giao tiếp SCSI cao thêm. Để có thể vừa nâng cao hiệu suất của EIDE vừa không làm tăng chi phí cho các linh kiện điện tử không có cách nào khác là phải thay giao diện kiểu "song song" bằng kiểu "nối tiếp", và kết quả là sự ra đời của giao diện SATA. Tuy nhiên, hiệu suất làm việc của các ổ đĩa cứng SATA thế hệ đầu và các ổ đĩa PATA không có sự khác biệt đáng kể.
+
+
+== Cấu tạo ==
+Ổ đĩa cứng gồm các thành phần, bộ phận có thể liệt kê cơ bản và giải thích sơ bộ như sau:
+Cụm đĩa: Bao gồm toàn bộ các đĩa, trục quay và động cơ.
+Đĩa từ.
+Trục quay: truyền chuyển động của đĩa từ.
+Động cơ: Được gắn đồng trục với trục quay và các đĩa.
+Cụm đầu đọc
+Đầu đọc (head): Đầu đọc/ghi dữ liệu
+Cần di chuyển đầu đọc (head arm hoặc actuator arm).
+Cụm mạch điện
+Mạch điều khiển: có nhiệm vụ điều khiển động cơ đồng trục, điều khiển sự di chuyển của cần di chuyển đầu đọc để đảm bảo đến đúng vị trí trên bề mặt đĩa.
+Mạch xử lý dữ liệu: dùng để xử lý những dữ liệu đọc/ghi của ổ đĩa cứng.
+Bộ nhớ đệm (cache hoặc buffer): là nơi tạm lưu dữ liệu trong quá trình đọc/ghi dữ liệu. Dữ liệu trên bộ nhớ đệm sẽ mất đi khi ổ đĩa cứng ngừng được cấp điện.
+Đầu cắm nguồn cung cấp điện cho ổ đĩa cứng.
+Đầu kết nối giao tiếp với máy tính.
+Các cầu đấu thiết đặt (tạm dịch từ jumper) thiết đặt chế độ làm việc của ổ đĩa cứng: Lựa chọn chế độ làm việc của ổ đĩa cứng (SATA 150 hoặc SATA 300) hay thứ tự trên các kênh trên giao tiếp IDE (master hay slave hoặc tự lựa chọn), lựa chọn các thông số làm việc khác...
+Vỏ đĩa cứng:
+Vỏ ổ đĩa cứng gồm các phần: Phần đế chứa các linh kiện gắn trên nó, phần nắp đậy lại để bảo vệ các linh kiện bên trong.
+Vỏ ổ đĩa cứng có chức năng chính nhằm định vị các linh kiện và đảm bảo độ kín khít để không cho phép bụi được lọt vào bên trong của ổ đĩa cứng.
+Ngoài ra, vỏ đĩa cứng còn có tác dụng chịu đựng sự va chạm (ở mức độ thấp) để bảo vệ ổ đĩa cứng.
+Do đầu từ chuyển động rất sát mặt đĩa nên nếu có bụi lọt vào trong ổ đĩa cứng cũng có thể làm xước bề mặt, mất lớp từ và hư hỏng từng phần (xuất hiện các khối hư hỏng (bad block))... Thành phần bên trong của ổ đĩa cứng là không khí có độ sạch cao, để đảm bảo áp suất cân bằng giữa môi trường bên trong và bên ngoài, trên vỏ bảo vệ có các hệ lỗ thoáng đảm bảo cản bụi và cân bằng áp suất.
+
+
+=== Đĩa từ ===
+Đĩa từ (platter): Đĩa thường cấu tạo bằng nhôm hoặc thuỷ tinh, trên bề mặt được phủ một lớp vật liệu từ tính là nơi chứa dữ liệu. Tuỳ theo hãng sản xuất mà các đĩa này được sử dụng một hoặc cả hai mặt trên và dưới. Số lượng đĩa có thể nhiều hơn một, phụ thuộc vào dung lượng và công nghệ của mỗi hãng sản xuất khác nhau.
+Mỗi đĩa từ có thể sử dụng hai mặt, đĩa cứng có thể có nhiều đĩa từ, chúng gắn song song, quay đồng trục, cùng tốc độ với nhau khi hoạt động.
+
+
+==== Track ====
+Trên một mặt làm việc của đĩa từ chia ra nhiều vòng tròn đồng tâm thành các track.
+Track có thể được hiểu đơn giản giống các rãnh ghi dữ liệu giống như các đĩa nhựa (ghi âm nhạc trước đây) nhưng sự cách biệt của các rãnh ghi này không có các gờ phân biệt và chúng là các vòng tròn đồng tâm chứ không nối tiếp nhau thành dạng xoắn trôn ốc như đĩa nhựa. Track trên ổ đĩa cứng không cố định từ khi sản xuất, chúng có thể thay đổi vị trí khi định dạng cấp thấp ổ đĩa (low format ).
+Khi một ổ đĩa cứng đã hoạt động quá nhiều năm liên tục, khi kết quả kiểm tra bằng các phần mềm cho thấy xuất hiện nhiều khối hư hỏng (bad block) thì có nghĩa là phần cơ của nó đã rơ rão và làm việc không chính xác như khi mới sản xuất, lúc này thích hợp nhất là format cấp thấp cho nó để tương thích hơn với chế độ làm việc của phần cơ
+
+
+==== Sector ====
+Trên track chia thành những phần nhỏ bằng các đoạn hướng tâm thành các sector. Các sector là phần nhỏ cuối cùng được chia ra để chứa dữ liệu. Theo chuẩn thông thường thì một sector chứa dung lượng 512 byte.
+Số sector trên các track là khác nhau từ phần rìa đĩa vào đến vùng tâm đĩa, các ổ đĩa cứng đều chia ra hơn 10 vùng mà trong mỗi vùng có số sector/track bằng nhau.
+Bảng sau cho thấy các khu vực với các thông số khác nhau và sự ảnh hưởng của chúng đến tốc độ truyền dữ liệu của ổ cứng Các khu vực ghi dữ liệu của ổ đĩa cứng Hitachi Travelstar 7K60 2,5".
+
+
+==== Cylinder ====
+Tập hợp các track cùng bán kính (cùng số hiệu trên) ở các mặt đĩa khác nhau thành các cylinder. Nói một cách chính xác hơn thì: khi đầu đọc/ghi đầu tiên làm việc tại một track nào thì tập hợp toàn bộ các track trên các bề mặt đĩa còn lại mà các đầu đọc còn lại đang làm việc tại đó gọi là cylinder (cách giải thích này chính xác hơn bởi có thể xảy ra thường hợp các đầu đọc khác nhau có khoảng cách đến tâm quay của đĩa khác nhau do quá trình chế tạo).
+Trên một ổ đĩa cứng có nhiều cylinder bởi có nhiều track trên mỗi mặt đĩa từ.
+
+
+=== Trục quay ===
+Trục quay là trục để gắn các đĩa từ lên nó, chúng được nối trực tiếp với động cơ quay đĩa cứng. Trục quay có nhiệm vụ truyền chuyển động quay từ động cơ đến các đĩa từ.
+Trục quay thường chế tạo bằng các vật liệu nhẹ (như hợp kim nhôm) và được chế tạo tuyệt đối chính xác để đảm bảo trọng tâm của chúng không được sai lệch - bởi chỉ một sự sai lệch nhỏ có thể gây nên sự rung lắc của toàn bộ đĩa cứng khi làm việc ở tốc độ cao, dẫn đến quá trình đọc/ghi không chính xác.
+
+
+=== Đầu đọc/ghi ===
+Đầu đọc đơn giản được cấu tạo gồm lõi ferit (trước đây là lõi sắt) và cuộn dây (giống như nam châm điện). Gần đây các công nghệ mới hơn giúp cho ổ đĩa cứng hoạt động với mật độ xít chặt hơn như: chuyển các hạt từ sắp xếp theo phương vuông góc với bề mặt đĩa nên các đầu đọc được thiết kế nhỏ gọn và phát triển theo các ứng dụng công nghệ mới.
+Đầu đọc trong đĩa cứng có công dụng đọc dữ liệu dưới dạng từ hoá trên bề mặt đĩa từ hoặc từ hoá lên các mặt đĩa khi ghi dữ liệu.
+Số đầu đọc ghi luôn bằng số mặt hoạt động được của các đĩa cứng, có nghĩa chúng nhỏ hơn hoặc bằng hai lần số đĩa (nhỏ hơn trong trường hợp ví dụ hai đĩa nhưng chỉ sử dụng 3 mặt).
+
+
+=== Cần di chuyển đầu đọc/ghi ===
+Cần di chuyển đầu đọc/ghi là các thiết bị mà đầu đọc/ghi gắn vào nó. Cần có nhiệm vụ di chuyển theo phương song song với các đĩa từ ở một khoảng cách nhất định, dịch chuyển và định vị chính xác đầu đọc tại các vị trí từ mép đĩa đến vùng phía trong của đĩa (phía trục quay).
+Các cần di chuyển đầu đọc được di chuyển đồng thời với nhau do chúng được gắn chung trên một trục quay (đồng trục), có nghĩa rằng khi việc đọc/ghi dữ liệu trên bề mặt (trên và dưới nếu là loại hai mặt) ở một vị trí nào thì chúng cũng hoạt động cùng vị trí tương ứng ở các bề mặt đĩa còn lại.
+Sự di chuyển cần có thể thực hiện theo hai phương thức:
+Sử dụng động cơ bước để truyền chuyển động.
+Sử dụng cuộn cảm để di chuyển cần bằng lực từ.
+
+
+== Nguyên lý hoạt động ==
+
+
+=== Giao tiếp với máy tính ===
+Toàn bộ cơ chế đọc/ghi dữ liệu chỉ được thực hiện khi máy tính (hoặc các thiết bị sử dụng ổ đĩa cứng) có yêu cầu truy xuất dữ liệu hoặc cần ghi dữ liệu vào ổ đĩa cứng. Việc thực hiện giao tiếp với máy tính do bo mạch của ổ đĩa cứng đảm nhiệm.
+Ta biết rằng máy tính làm việc khác nhau theo từng phiên làm việc, từng nhiệm vụ mà không theo một kịch bản nào, do đó quá trình đọc và ghi dữ liệu luôn luôn xảy ra, do đó các tập tin luôn bị thay đổi, xáo trộn vị trí. Từ đó dữ liệu trên bề mặt đĩa cứng không được chứa một cách liên tục mà chúng nằm rải rác khắp nơi trên bề mặt vật lý. Một mặt khác máy tính có thể xử lý đa nhiệm (thực hiện nhiều nhiệm vụ trong cùng một thời điểm) nên cần phải truy cập đến các tập tin khác nhau ở các thư mục khác nhau.
+Như vậy cơ chế đọc và ghi dữ liệu ở ổ đĩa cứng không đơn thuần thực hiện từ theo tuần tự mà chúng có thể truy cập và ghi dữ liệu ngẫu nhiên tại bất kỳ điểm nào trên bề mặt đĩa từ, đó là đặc điểm khác biệt nổi bật của ổ đĩa cứng so với các hình thức lưu trữ truy cập tuần tự (như băng từ).
+Thông qua giao tiếp với máy tính, khi giải quyết một tác vụ, CPU sẽ đòi hỏi dữ liệu (nó sẽ hỏi tuần tự các bộ nhớ khác trước khi đến đĩa cứng mà thứ tự thường là cache L1-> cache L2 ->RAM) và đĩa cứng cần truy cập đến các dữ liệu chứa trên nó. Không đơn thuần như vậy CPU có thể đòi hỏi nhiều hơn một tập tin dữ liệu tại một thời điểm, khi đó sẽ xảy ra các trường hợp:
+Ổ đĩa cứng chỉ đáp ứng một yêu cầu truy cập dữ liệu trong một thời điểm, các yêu cầu được đáp ứng tuần tự.
+Ổ đĩa cứng đồng thời đáp ứng các yêu cầu cung cấp dữ liệu theo phương thức riêng của nó.
+Trước đây đa số các ổ đĩa cứng đều thực hiện theo phương thức 1, có nghĩa là chúng chỉ truy cập từng tập tin cho CPU. Ngày nay các ổ đĩa cứng đã được tích hợp các bộ nhớ đệm (cache) cùng các công nghệ riêng của chúng (TCQ, NCQ) giúp tối ưu cho hành động truy cập dữ liệu trên bề mặt đĩa nên ổ đĩa cứng sẽ thực hiện theo phương thức thứ 2 nhằm tăng tốc độ chung cho toàn hệ thống.
+
+
+=== Đọc và ghi dữ liệu trên bề mặt đĩa ===
+Sự hoạt động của đĩa cứng cần thực hiện đồng thời hai chuyển động: Chuyển động quay của các đĩa và chuyển động của các đầu đọc.
+Sự quay của các đĩa từ được thực hiện nhờ các động cơ gắn cùng trục (với tốc độ rất lớn: từ 3600 rpm cho đến 15.000 rpm) chúng thường được quay ổn định tại một tốc độ nhất định theo mỗi loại ổ đĩa cứng.
+Khi đĩa cứng quay đều, cần di chuyển đầu đọc sẽ di chuyển đến các vị trí trên các bề mặt chứa phủ vật liệu từ theo phương bán kính của đĩa. Chuyển động này kết hợp với chuyển động quay của đĩa có thể làm đầu đọc/ghi tới bất kỳ vị trí nào trên bề mặt đĩa.
+Tại các vị trí cần đọc ghi, đầu đọc/ghi có các bộ cảm biến với điện trường để đọc dữ liệu (và tương ứng: phát ra một điện trường để xoay hướng các hạt từ khi ghi dữ liệu).
+Dữ liệu được ghi/đọc đồng thời trên mọi đĩa. Việc thực hiện phân bổ dữ liệu trên các đĩa được thực hiện nhờ các mạch điều khiển trên bo mạch của ổ đĩa cứng.
+
+
+== Các công nghệ sử dụng ổ đĩa cứng ==
+
+
+=== S.M.A.R.T ===
+S.M.A.R.T (Self-Monitoring, Analysis, and Reporting Technology) là công nghệ tự động giám sát, chẩn đoán và báo cáo các hư hỏng có thể xuất hiện của ổ đĩa cứng để thông qua BIOS, các phần mềm thông báo cho người sử dụng biết trước sự hư hỏng để có các hành động chuẩn bị đối phó (như sao chép dữ liệu dự phòng hoặc có các kế hoạch thay thế ổ đĩa cứng mới).
+Trong thời gian gần đây S.M.AR.T được coi là một tiêu chuẩn quan trọng trong ổ đĩa cứng. S.M.A.R.T chỉ thực sự giám sát những sự thay đổi, ảnh hưởng của phần cứng đến quá trình lỗi xảy ra của ổ đĩa cứng (mà theo hãng Seagate thì sự hư hỏng trong đĩa cứng chiếm tới 60% xuất phát từ các vấn đề liên quan đến cơ khí): Chúng có thể bao gồm những sự hư hỏng theo thời gian của phần cứng: đầu đọc/ghi (mất kết nối, khoảng cách làm việc với bề mặt đĩa thay đổi), động cơ (xuống cấp, rơ rão), bo mạch của ổ đĩa (hư hỏng linh kiện hoặc làm việc sai).
+S.M.A.R.T không nên được hiểu là từ "smart" bởi chúng không làm cải thiện đến tốc độ làm việc và truyền dữ liệu của ổ đĩa cứng. Người sử dụng có thể bật (enable) hoặc tắt (disable) chức năng này trong BIOS (tuy nhiên không phải BIOS của hãng nào cũng hỗ trợ việc can thiệp này).
+
+
+=== Ổ cứng lai ===
+Ổ cứng lai (hybrid hard disk drive) là các ổ đĩa cứng thông thường được gắn thêm các phần bộ nhớ flash trên bo mạch của ổ đĩa cứng. Cụm bộ nhớ này hoạt động khác với cơ chế làm việc của bộ nhớ đệm (cache) của ổ đĩa cứng: Dữ liệu chứa trên chúng không bị mất đi khi mất điện.
+Trong quá trình làm việc của ổ cứng lai, vai trò của phần bộ nhớ flash như sau:
+Lưu trữ trung gian dữ liệu trước khi ghi vào đĩa cứng, chỉ khi máy tính đã đưa các dữ liệu đến một mức nhất định (tuỳ từng loại ổ cứng lai) thì ổ đĩa cứng mới tiến hành ghi dữ liệu vào các đĩa từ, điều này giúp sự vận hành của ổ đĩa cứng tối hiệu quả và tiết kiệm điện năng hơn nhờ việc không phải thường xuyên hoạt động.
+Giúp tăng tốc độ giao tiếp với máy tính: Việc đọc dữ liệu từ bộ nhớ flash nhanh hơn so với việc đọc dữ liệu tại các đĩa từ.
+Giúp hệ điều hành khởi động nhanh hơn nhờ việc lưu các tập tin khởi động của hệ thống lên vùng bộ nhớ flash.
+Kết hợp với bộ nhớ đệm của ổ đĩa cứng tạo thành một hệ thống hoạt động hiệu quả.
+Những ổ cứng lai được sản xuất hiện nay thường sử dụng bộ nhớ flash với dung lượng khiêm tốn ở 256 MB bởi chịu áp lực của vấn đề giá thành sản xuất. Do sử dụng dung lượng nhỏ như vậy nên chưa cải thiện nhiều đến việc giảm thời gian khởi động hệ điều hành, dẫn đến nhiều người sử dụng chưa cảm thấy hài lòng với chúng. Tuy nhiên người sử dụng thường khó nhận ra sự hiệu quả của chúng khi thực hiện các tác vụ thông thường hoặc việc tiết kiệm năng lượng của chúng.
+Hiện tại (2007) ổ cứng lai có giá thành khá đắt (khoảng 300 USD cho dung lượng 32 GB) nên chúng mới được sử dụng trong một số loại máy tính xách tay cao cấp. Trong tương lai, các ổ cứng lai có thể tích hợp đến vài GB dung lượng bộ nhớ flash sẽ khiến sự so sánh giữa chúng với các ổ cứng truyền thống sẽ trở lên khác biệt hơn.
+
+
+== Thông số và đặc tính ==
+
+
+=== Dung lượng ===
+Dung lượng ổ đĩa cứng (Disk capacity) là một thông số thường được người sử dụng nghĩ đến đầu tiên, là cơ sở cho việc so sánh, đầu tư và nâng cấp. Người sử dụng luôn mong muốn sở hữu các ổ đĩa cứng có dung lượng lớn nhất có thể theo tầm chi phí của họ mà có thể không tính đến các thông số khác.
+Dung lượng ổ đĩa cứng được tính bằng: (số byte/sector) × (số sector/track) × (số cylinder) × (số đầu đọc/ghi).
+Dung lượng của ổ đĩa cứng tính theo các đơn vị dung lượng cơ bản thông thường: byte, kB MB, GB, TB.
+Theo thói quen trong từng thời kỳ mà người ta có thể sử dụng đơn vị nào, trong thời điểm năm 2007 người người ta thường sử dụng GB. Ngày nay dung lượng ổ đĩa cứng đã đạt tầm đơn vị TB nên rất có thể trong tương lai – theo thói quen, người ta sẽ tính theo TB.
+Đa số các hãng sản xuất đều tính dung lượng theo cách có lợi (theo cách tính 1 GB = 1000 MB mà thực ra phải là 1 GB = 1024 MB) nên dung lượng mà hệ điều hành (hoặc các phần mềm kiểm tra) nhận ra của ổ đĩa cứng thường thấp hơn so với dung lượng ghi trên nhãn đĩa (ví dụ ổ đĩa cứng 40 GB thường chỉ đạt khoảng 37-38 GB).
+
+
+=== Tốc độ quay của ổ đĩa cứng ===
+Tốc độ quay của đĩa cứng thường được ký hiệu bằng rpm (viết tắt của từ tiếng Anh: revolutions per minute) số vòng quay trong một phút.
+Tốc độ quay càng cao thì ổ càng làm việc nhanh do chúng thực hiện đọc/ghi nhanh hơn, thời gian tìm kiếm thấp.
+Các tốc độ quay thông dụng thường là:
+3.600 rpm: Tốc độ của các ổ đĩa cứng đĩa thế hệ trước.
+4.200 rpm: Thường sử dụng với các máy tính xách tay mức giá trung bình và thấp trong thời điểm 2007.
+5.400 rpm: Thông dụng với các ổ đĩa cứng 3,5" sản xuất cách đây 2-3 năm; với các ổ đĩa cứng 2,5" cho các máy tính xách tay hiện nay đã chuyển sang tốc độ 5.400 rpm để đáp ứng nhu cầu đọc/ghi dữ liệu nhanh hơn.
+7.200 rpm: Thông dụng với các ổ đĩa cứng sản xuất trong thời gian hiện tại (2007)
+10.000 rpm, 15.000 rpm: Thường sử dụng cho các ổ đĩa cứng trong các máy tính cá nhân cao cấp, máy trạm và các máy chủ có sử dụng giao tiếp SCSI
+
+
+=== Các thông số về thời gian trong ổ đĩa cứng ===
+
+
+==== Thời gian tìm kiếm trung bình ====
+Thời gian tìm kiếm trung bình (Average Seek Time) là khoảng thời gian trung bình (theo mili giây: ms) mà đầu đọc có thể di chuyển từ một cylinder này đến một cylinder khác ngẫu nhiên (ở vị trí xa chúng). Thời gian tìm kiếm trung bình được cung cấp bởi nhà sản xuất khi họ tiến hành hàng loạt các việc thử việc đọc/ghi ở các vị trí khác nhau rồi chia cho số lần thực hiện để có kết quả thông số cuối cùng.
+Thông số này càng thấp càng tốt.
+Thời gian tìm kiếm trung bình không kiểm tra bằng các phần mềm bởi các phần mềm không can thiệp được sâu đến các hoạt động của ổ đĩa cứng.
+
+
+==== Thời gian truy cập ngẫu nhiên ====
+Thời gian truy cập ngẫu nhiên (Random Access Time): Là khoảng thời gian trung bình để đĩa cứng tìm kiếm một dữ liệu ngẫu nhiên. Tính bằng mili giây (ms).
+Đây là tham số quan trọng do chúng ảnh hưởng đến hiệu năng làm việc của hệ thống, do đó người sử dụng nên quan tâm đến chúng khi lựa chọn giữa các ổ đĩa cứng. Thông số này càng thấp càng tốt.
+Tham số: Các ổ đĩa cứng sản xuất gần đây (2007) có thời gian truy cập ngẫu nhiên trong khoảng: 5 đến 15 ms.
+
+
+==== Thời gian làm việc tin cậy ====
+Thời gian làm việc tin cậy MTBF: (Mean Time Between Failures) được tính theo giờ (hay có thể hiểu một cách đơn thuần là tuổi thọ của ổ đĩa cứng). Đây là khoảng thời gian mà nhà sản xuất dự tính ổ đĩa cứng hoạt động ổn định mà sau thời gian này ổ đĩa cứng có thể sẽ xuất hiện lỗi (và không đảm bảo tin cậy).
+Một số nhà sản xuất công bố ổ đĩa cứng của họ hoạt động với tốc độ 10.000 rpm với tham số: MTBF lên tới 1 triệu giờ, hoặc với ổ đĩa cứng hoạt động ở tốc độ 15.000 rpm có giá trị MTBF đến 1,4 triệu giờ thì những thông số này chỉ là kết quả của các tính toán trên lý thuyết. Hãy hình dung số năm mà nó hoạt động tin cậy (khi chia thông số MTBF cho (24 giờ/ngày × 365 ngày/năm) sẽ thấy rằng nó có thể dài hơn lịch sử của bất kỳ hãng sản xuất ổ đĩa cứng nào, do đó người sử dụng có thể không cần quan tâm đến thông số này.
+
+
+=== Bộ nhớ đệm ===
+Bộ nhớ đệm (cache hoặc buffer) trong ổ đĩa cứng cũng giống như RAM của máy tính, chúng có nhiệm vụ lưu tạm dữ liệu trong quá trình làm việc của ổ đĩa cứng.
+Độ lớn của bộ nhớ đệm có ảnh hưởng đáng kể tới hiệu suất hoạt động của ổ đĩa cứng bởi việc đọc/ghi không xảy ra tức thời (do phụ thuộc vào sự di chuyển của đầu đọc/ghi, dữ liệu được truyền tới hoặc đi) sẽ được đặt tạm trong bộ nhớ đệm.
+Đơn vị thường tính bằng KB hoặc MB.
+Trong thời điểm năm 2007, dung lượng bộ nhớ đệm thường là 2 hoặc 8 MB cho các loại ổ đĩa cứng dung lượng đến khoảng 160 GB, với các ổ đĩa cứng dụng lượng lớn hơn chúng thường sử dụng bộ nhớ đệm đến 16 MB hoặc cao hơn. Bộ nhớ đệm càng lớn thì càng tốt, nhưng hiệu năng chung của ổ đĩa cứng sẽ chững lại ở một giá trị bộ nhớ đệm nhất định mà từ đó bộ nhớ đệm có thể tăng lên nhưng hiệu năng không tăng đáng kể.
+Hệ điều hành cũng có thể lấy một phần bộ nhớ của hệ thống (RAM) để tạo ra một bộ nhớ đệm lưu trữ dữ liệu được lấy từ ổ đĩa cứng nhằm tối ưu việc xử lý đối với các dữ liệu thường xuyên phải truy cập, đây chỉ là một cách dùng riêng của hệ điều hành mà chúng không ảnh hưởng đến cách hoạt động hoặc hiệu suất vốn có của mỗi loại ổ đĩa cứng. Có rất nhiều phần mềm cho phép tinh chỉnh các thông số này của hệ điều hành tuỳ thuộc vào sự dư thừa RAM trên hệ thống.
+
+
+=== Chuẩn giao tiếp ===
+Có nhiều chuẩn giao tiếp khác nhau giữa ổ đĩa cứng với hệ thống phần cứng, sự đa dạng này một phần xuất phát từ yêu cầu tốc độ đọc/ghi dữ liệu khác nhau giữa các hệ thống máy tính, phần còn lại các ổ giao tiếp nhanh có giá thành cao hơn nhiều so với các chuẩn thông dụng.
+Trước đây, các chuẩn ATA và SATA thế hệ đầu tiên được sử dụng phổ biến trong máy tính cá nhân thông thường trong khi chuẩn SCSI và Fibre Channel có tốc độ cao hơn được sử chủ yếu nhiều trong máy chủ và máy trạm. Gần đây, các chuẩn SATA thế hệ tiếp theo với tốc độ giao tiếp cao hơn đang được sử dụng rộng rãi trong các máy tính cá nhân sử dụng các thế hệ chipset mới.
+Bảng dưới đây so sánh các chuẩn ATA thường sử dụng nhiều với ổ đĩa cứng trong thời gian gần đây.
+
+
+=== Tốc độ truyền dữ liệu ===
+Tốc độ của các chuẩn giao tiếp không có nghĩa là ổ đĩa cứng có thể đáp ứng đúng theo tốc độ của nó, đa phần tốc độ truyền dữ liệu trên các chuẩn giao tiếp thấp hơn so với thiết kế của nó bởi chúng gặp các rào cản trong vấn đề công nghệ chế tạo.
+Các thông số sau ảnh hưởng đến tốc độ truyền dữ liệu của ổ đĩa cứng:
+Tốc độ quay của đĩa từ.
+Số lượng đĩa từ trong ổ đĩa cứng: bởi càng nhiều đĩa từ thì số lượng đầu đọc càng lớn, khả năng đọc/ghi của đồng thời của các đầu từ tại các mặt đĩa càng nhiều thì lượng dữ liệu đọc/ghi càng lớn hơn.
+Công nghệ chế tạo: Mật độ sít chặt của các track và công nghệ ghi dữ liệu trên bề mặt đĩa (phương từ song song hoặc vuông góc với bề mặt đĩa): dẫn đến tốc độ đọc/ghi cao hơn.
+Dung lượng bộ nhớ đệm: Ảnh hưởng đến tốc độ truyền dữ liệu tức thời trong một thời điểm.
+Bảng so sánh sau tốc độ giữa các vùng ở các ổ cứng khác nhau dưới đây sẽ giúp chúng ta nhận ra một số yếu tố ảnh hưởng đến tốc độ truyền dữ liệu của ổ đĩa cứng.
+Như vậy ta thấy rằng tốc độ truyền dữ liệu thực sự ở mức trung bình 42,27 MBps ở ổ đĩa có giao tiếp Ultra-ATA/100 (với tốc độ thiết kế truyền dữ liệu 100 MBps) chỉ gần bằng 1/2 so với tốc độ giao tiếp.
+
+
+=== Kích thước ===
+Kích thước của ổ đĩa cứng được chuẩn hoá tại một số kích thước để đảm bảo thay thế lắp ráp vừa với các máy tính. Kích thước ổ đĩa cứng thường được tính theo inch (")
+Kích thước vỏ ngoài các loại ổ đĩa cứng: xem bảng.
+
+
+=== Sự sử dụng điện năng ===
+Đa số các ổ đĩa cứng của máy tính cá nhân sử dụng hai loại điện áp nguồn: 5 Vdc và 12 Vdc (DC hoặc dc: Loại điện áp một chiều). Các ổ đĩa cứng cho máy tính xách tay có thể sử dụng chỉ một loại điện áp nguồn 5 Vdc. Các ổ đĩa cứng gắn trong các thiết bị số cầm tay khác có thể sử dụng các nguồn có mức điện áp thấp hơn với công suất thấp.
+Điện năng cung cấp cho các ổ đĩa cứng phần lớn phục vụ cho động cơ quay các ổ đĩa, phần còn lại nhỏ hơn cung cấp cho bo mạch của ổ đĩa cứng. Tuỳ từng loại động cơ mà chúng sử dụng điện áp 12V hoặc 5 Vdc hơn (thông qua định mức tiêu thụ dòng điện của nó tại các mức điện áp này). Trên mỗi ổ đĩa cứng đều ghi rõ các thông số về dòng điện tiêu thụ của mỗi loại điện áp sử dụng để đảm bảo cho người sử dụng tính toán công suất chung.
+Ổ đĩa cứng thường tiêu thụ điện năng lớn nhất tại thời điểm khởi động của hệ thống (hoặc thời điểm đĩa cứng bắt đầu hoạt động trở lại sau khi tạm nghỉ để tiết kiệm điện năng) bởi sự khởi động của động cơ đồng trục quay các đĩa từ, cũng giống như động cơ điện thông thường, dòng điện tiêu thụ đỉnh cực đại của giai đoạn này có thể gấp 3 lần công suất tiêu thụ bình thường.
+Ổ cứng thông thường lấy điện trực tiếp từ nguồn máy tính, với các ổ đĩa cứng ngoài có thể sử dụng các bộ cung cấp điện riêng kèm theo hoặc chúng có thể dùng nguồn điện cung cấp qua các cổng giao tiếp USB.
+
+
+=== Các thông số khác ===
+Các thông số dưới đây những người sử dụng thường ít chú ý bởi chúng thường không ảnh hưởng nhiều đến hiệu suất làm việc của ổ cứng. Các thông số này không nên lấy làm chỉ tiêu so sánh giữa các ổ đĩa cứng trong sự lựa chọn trong sự sử dụng thông thường.
+
+
+==== Độ ồn ====
+Độ ồn của ổ đĩa cứng là thông số được tính bằng dB, chúng được đo khi ổ đĩa cứng đang làm việc bình thường.
+Ổ đĩa cứng với các đặc trưng hoạt động là các chuyển động cơ khí của các đĩa từ và cần di chuyển đầu đọc, do đó chúng không tránh khỏi phát tiếng ồn. Do ổ đĩa cứng thường có độ ồn thấp hơn nhiều so với bất kỳ một quạt làm mát hệ thống nào đang làm việc nên người sử dụng có thể không cần quan tâm đến thông số này.
+Những tiếng "lắc tắc" nhỏ phát ra trong quá trình làm việc của ổ cứng một cách không đều đặn được sinh ra bởi cần đỡ đầu đọc/ghi di chuyển và dừng đột ngột tại các vị trí cần định vị để làm việc. Âm thanh này có thể giúp người sử dụng biết được trạng thái làm việc của ổ đĩa cứng mà không cần quan sát đèn trạng thái HDD.
+
+
+==== Chu trình di chuyển ====
+Chu trình di chuyển của cần đọc/ghi (Load/Unload cycle) được tính bằng số lần chúng khởi động từ vị trí an toàn đến vùng làm việc của bề mặt đĩa cứng và ngược lại. Thông số này chỉ một số hữu hạn những lần di chuyển mà có thể sau số lần đó ổ đĩa cứng có thể gặp lỗi hoặc hư hỏng.
+Sau mỗi phiên làm việc (tắt máy), các đầu từ được di chuyển đến một vị trí an toàn nằm ngoài các đĩa từ nhằm tránh sự va chạm có thể gây xước bề mặt lớp từ tính, một số ổ đĩa có thiết kế cần di chuyển đầu đọc tự động di chuyển về vị trí an toàn sau khi ngừng cấp điện đột ngột. Nhiều người sử dụng năng động có thói quen ngắt điện trong một phiên làm việc trên nền DOS (bởi không có sự tắt máy chính thống) rồi tháo ổ đĩa cứng cho các công việc khác, quá trình di chuyển có thể gây va chạm và làm xuất hiện các khối hư hỏng (bad block).
+Chu trình di chuyển là một thông số lớn hơn số lần khởi động máy tính (hoặc các thiết bị sử dụng ổ đĩa cứng) bởi trong một phiên làm việc, ổ đĩa cứng có thể được chuyển sang chế độ tạm nghỉ (stand by) để tiết kiệm điện năng nhiều lần.
+
+
+==== Chịu đựng sốc ====
+Chịu đựng sốc (Shock - half sine wave): Sốc (hình thức rung động theo nửa chu kỳ sóng, thường được hiểu là việc dao động từ một vị trí cân bằng đến một giá trị cực đại, sau đó lại trở lại vị trí ban đầu) nói đến khả năng chịu đựng sốc của ổ đĩa cứng khi làm việc.
+Với các ổ cứng cho máy tính xách tay hoặc các thiết bị kỹ thuật số hỗ trợ cá nhân hay các ổ đĩa cứng ngoài thì thông số này càng cao càng tốt, với các ổ đĩa cứng gắn cho máy tính cá nhân để bàn thì thông số này ít được coi trọng khi so sánh lựa chọn giữa các loại ổ cứng bởi chúng đã được gắn cố định nên hiếm khi xảy ra sốc.
+
+
+==== Nhiệt độ và sự thích nghi ====
+Tất cả các thiết bị dựa trên hoạt động cơ khí đều có thể bị thay đổi thông số nếu nhiệt độ của chúng tăng lên đến một mức giới hạn nào đó (sự giãn nở theo nhiệt độ luôn là một đặc tính của kim loại), do đó cũng như nhiều thiết bị khác, nhiệt độ là một yếu tố ảnh hưởng đến quá trình làm việc của ổ đĩa cứng nhất là bên trong nó các chuyển động cơ khí cần tuyệt đối chính xác.
+Nhiệt độ làm việc của ổ đĩa cứng thường là từ 0 cho đến 40 độ C, điều này thường phù hợp với nhiều môi trường khác nhau, tuy nhiên không chỉ có vậy: độ ẩm là yếu tố liên quan và kết hợp với môi trường tạo thành một sự phá hoại ổ đĩa cứng.
+Ổ cứng thường có các lỗ (chứa bộ lọc không khí) để cân bằng áp suất với bên ngoài, do đó nếu như không khí trong môi trường chứa nhiều hơi nước, sự ngưng tụ hơi nước thành các giọt hoặc đóng băng ở đâu đó bên trong ổ đĩa cứng có thể làm hư hỏng ổ nếu ta hình dung được tốc độ quay của nó lớn thế nào và khoảng cách giữa đầu từ với bề mặt làm việc của đĩa từ nhỏ đến đâu.
+Chính vì vậy trước khi đưa một ổ đĩa cứng vào làm việc lần đầu tiên (tháo bỏ vỏ nhựa bọc kín nó khi sản xuất) trong thiết bị hoặc ổ đĩa cứng đã sử dụng được đưa đến từ một môi trường khác đến một nơi làm việc mới (có nhiệt độ môi trường cao hơn), nên đặt nó vào khoang chứa trong một số thời gian nhất định trước khi kết nối các dây cấp nguồn và cáp dữ liệu để chúng làm việc.
+Thời gian thích nghi đủ lớn để để đảm bảo cho:
+Các giọt nước bị bay hơi hoặc các cụm băng tuyết biến thành hơi nước và cân bằng với môi trường bên ngoài.
+Đảm bảo sự đồng đều về môi trường bên trong và bên ngoài của ổ đĩa cứng, tránh sự biến đổi (do nhiệt độ thay đổi đột ngột) với các thiết bị cơ khí bên trong khi nhiệt độ của ổ đĩa cứng tăng lên sau một thời gian hoạt động.
+Thời gian thích nghi cần thiết: xem bảng.
+Tương tự việc đưa một máy tính xách tay từ ngoài trời ở xứ lạnh vào trong phòng làm việc ấm áp cũng nên để thời gian chờ như vậy bởi trong máy tính xách tay cũng có các ổ đĩa cứng - trừ trường hợp khi ở ngoài trời (xứ lạnh) máy đang hoạt động (đảm bảo nó không bị đóng băng tuyết bên trong ổ đĩa cứng).
+Với nhiệt độ theo bảng ta có thể thấy rằng khí hậu ở Việt Nam hoặc các nước gần xích đạo khác có nhiệt độ trung bình cao có lẽ ít cần có thời gian thích ứng trước khi đưa ổ đĩa cứng vào sử dụng (trừ những vùng có thể có nhiệt độ thấp và xuất hiện tuyết như Sa Pa ở Việt Nam)
+Với sự làm mát ổ đĩa cứng, xem thêm phần thông tin thêm của bài.
+
+
+==== Các số thông số về sản phẩm ====
+Phần dưới đây giải thích một số thông số khác của các ổ đĩa cứng.
+Model: Ký hiệu về kiểu sản phẩm của ổ đĩa cứng, model có thể được sử dụng chung cho một lô sản phẩm cùng loại có các đặc tính và thông số giống như nhau. Thông thường mỗi hãng có một cách ký hiệu riêng về thông số model để có thể giải thích sơ qua về một số thông số trên ổ đĩa cứng đó.
+Serial number: Mã số sản phẩm, mỗi ổ đĩa cứng có một số hiệu này riêng. Thông số này thường chứa đựng thông tin đã được quy ước riêng của hãng sản xuất về thời gian sản xuất hoặc đơn thuần chỉ là thứ tự sản phẩm khi được sản xuất.
+Firmware revision: Thông số về phiên bản firmware đang sử dụng hiện thời của ổ đĩa cứng. Thông số này có thể thay đổi nếu người sử dụng nâng cấp các phiên bản firmware của ổ đĩa cứng (nhưng việc nâng cấp này thường rất hiếm khi xảy ra).
+Một số hãng sản xuất phần mềm có thể sử dụng các thông số trên của ổ đĩa cứng để nhận dạng tình trạng bản quyền của phần mềm trên duy nhất một máy tính, tuy nhiên cách này không được áp dụng rộng rãi do việc đăng ký phức tạp, không thuận tiện cho quá trình nâng cấp ổ đĩa cứng của người sử dụng.
+
+
+== Thiết đặt các chế độ hoạt động của đĩa cứng ==
+
+
+=== Thiết đặt phần cứng thông qua cầu đấu ===
+Cầu đấu (tạm dịch từ jumper) là một bộ phận nhỏ trên ổ đĩa cứng, chúng có tác dụng thiết đặt chế độ làm việc của các ổ đĩa cứng.
+
+
+==== Thiết đặt kênh ====
+Lựa chọn các kênh trên cable IDE: Các ổ đĩa cứng theo chuẩn giao tiếp ATA thường sử dụng hai kênh (trên cùng một cáp truyền dữ liệu), chúng có thể được đặt là kênh chính (Master) hoặc kênh phụ (Slave). Việc thiết lập chỉ đơn giản cần cắm các cầu đấu vào đúng vị trí của chúng trên các chân cắm. Về vị trí, chúng luôn được hướng dẫn trên phần nhãn hoặc viết tắt cạnh cầu đấu như sau: MA (hoặc chỉ M): Master, SL (hoặc chỉ S): Slave; CS (hoặc chỉ C): Cable select (tự động lựa chọn theo cáp truyền dữ liệu).
+Để giúp ổ đĩa cứng hoạt động tốt hơn, nên chọn các ổ đĩa cứng chứa các phân vùng có cài hệ điều hành làm kênh chính, các ổ đĩa cứng vật lý có tính dùng phụ, dùng cho lưu trữ hoặc các tập tin không được truy cập thường xuyên nên đặt tại ổ phụ (slave).
+
+
+==== Thiết đặt chuẩn giao tiếp ====
+Một số ổ đĩa cứng sử dụng giao tiếp SATA thế hệ thứ 2 (300 MBps) có thể hoạt động phù hợp hơn với bo mạch chủ chỉ hỗ trợ giao tiếp SATA thế hệ đầu tiên (150 MBps) bằng cách đổi các cầu đấu thiết đặt. Hướng dẫn về cách đổi có thể được ghi trên nhãn đĩa hoặc chỉ có thể tìm thấy trong các phần hướng dẫn tại website của hãng sản xuất.
+
+
+=== Thiết đặt phần mềm ===
+Thiết đặt phần mềm ở đây là các cài đặt, phân hoạch trên các ổ đĩa cứng giúp cho ổ đĩa cứng làm việc. Trong phạm vi bài viết về Ổ đĩa cứng, các mục dưới đây được trình bày tóm lược.
+
+
+==== Phân vùng (Partition) ====
+Phân vùng (partition): là tập hợp các vùng ghi nhớ dữ liệu trên các cylinder gần nhau với dung lượng theo thiết đặt của người sử dụng để sử dụng cho các mục đích sử dụng khác nhau.
+Sự phân chia phân vùng giúp cho ổ đĩa cứng có thể định dạng các loại tập tin khác nhau để có thể cài đặt nhiều hệ điều hành đồng thời trên cùng một ổ đĩa cứng. Ví dụ trong một ổ đĩa cứng có thể thiết lập một phân vùng có định dạng FAT/FAT32 cho hệ điều hành Windows 9X/Me và một vài phân vùng NTFS cho hệ điều hành Windows NT/2000/XP/Vista với lợi thế về bảo mật trong định dạng loại này (mặc dù các hệ điều hành này có thể sử dụng các định dạng cũ hơn).
+Phân chia phân vùng không phải là điều bắt buộc đối với các ổ đĩa cứng để nó làm việc (một vài hãng sản xuất máy tính cá nhân nguyên chiếc chỉ thiết đặt một phân vùng duy nhất khi cài sẵn các hệ điều hành vào máy tính khi bán ra), chúng chỉ giúp cho người sử dụng có thể cài đặt đồng thời nhiều hệ điều hành trên cùng một máy tính hoặc giúp việc quản lý các nội dung, lưu trữ, phân loại dữ liệu được thuận tiện và tối ưu hơn, tránh sự phân mảnh của các tập tin.
+Những lời khuyên dưới đây giúp sử dụng ổ đĩa cứng một cách tối ưu hơn:
+Phân vùng chứa hệ điều hành chính: Thường nên thiết lập phân vùng chứa hệ điều hành tại các vùng chứa phía ngoài rìa của đĩa từ (outer zone) bởi vùng này có tốc độ đọc/ghi cao hơn, dẫn đến sự khởi động hệ điều hành và các phần mềm khởi động và làm việc được nhanh hơn. Phân vùng này thường được gán tên là C .
+Phân vùng chứa hệ điều hành không nên chứa các dữ liệu quan trọng bởi chúng dễ bị virus tấn công (hơn các phân vùng khác), việc sửa chữa khắc phục sự cố nếu không thận trọng có thể làm mất toàn bộ dữ liệu tại phân vùng này.
+Phân vùng chứa dữ liệu thường xuyên truy cập hoặc thay đổi: Những tập tin đa phương tiện (multimedia) nếu thường xuyên được truy cập hoặc các dữ liệu làm việc khác nên đặt tại phân vùng thứ hai ngay sau phân vùng chứa hệ điều hành. Sau khi quy hoạch, nên thường xuyên thực thi tác vụ chống phân mảnh tập tin trên phân vùng này.
+Phân vùng chứa dữ liệu ít truy cập hoặc ít bị sửa đổi: Nên đặt riêng một phân vùng chứa các dữ liệu ít truy cập hoặc bị thay đổi như các bộ cài đặt phần mềm. Phân vùng này nên đặt sau cùng, tương ứng với vị trí của nó ở gần khu vực tâm của đĩa (inner zone).
+Có nhiều phần mềm có thể sử dụng để quy hoạch các phân vùng đĩa cứng: fdisk trong DOS, Disk Management của Windows (2000, XP) và một số phần mềm của các hãng khác, nhưng có thể chúng chỉ đơn thuần là tạo ra các phân vùng, xoá các phân vùng mà không thay đổi kích thước phân vùng đang tồn tại, chúng thường làm mất dữ liệu trên phân vùng thao tác. Partition Magic (hiện tại của hãng Symantec) thường được nhiều người sử dụng bởi tính năng mạnh mẽ, giao diện thân thiện (sử dụng chuột, giống các phần mềm trong môi trường 32 bit) và đặc biệt là không làm mất dữ liệu khi thao tác với các phân vùng
+
+
+==== Định dạng của phân vùng ====
+Lựa chọn định dạng các phân vùng là hành động tiếp sau khi quy hoạch phân vùng ổ đĩa cứng. Tuỳ thuộc vào các hệ điều hành sử dụng mà cần lựa chọn các kiểu định dạng sử dụng trên ổ đĩa cứng. Một số định dạng sử dụng trong các hệ điều hành họ Windows có thể là:
+FAT (File Allocation Table): Chuẩn hỗ trợ DOS và các hệ điều hành họ Windows 9X/Me (và các hệ điều hành sau). Phân vùng FAT hỗ trợ độ dài tên 11 ký tự (8 ký tự tên và 3 ký tự mở rộng) trong DOS hoặc 255 ký tự trong các hệ điều hành 32 bit như Windows 9X/Me. FAT có thể sử dụng 12 hoặc 16 bit, dung lượng tối đa một phân vùng FAT chỉ đến 2 GB dữ liệu.
+FAT32 (File Allocation Table, 32-bit): Tương tự như FAT, nhưng nó được hỗ trợ bắt đầu từ hệ điều hành Windows 95 OSR2 và toàn bộ các hệ điều hành sau này. Dung lượng tối đa của một phân vùng FAT32 có thể lên tới 2 TB (2.048 GB).
+NTFS (Windows New Tech File System): Được hỗ trợ bắt đầu từ các hệ điều hành họ NT/2000/XP/Vista. Một phân vùng NTFS có thể có dung lượng tối đa đến 16 exabytes.
+exFAT (extended File Allocation Table): được thiết kế đặc biệt cho các ổ flash USB.
+Không chỉ có thế, các hệ điều hành họ Linux sử dụng các loại định dạng tập tin riêng.
+
+
+==== Format ====
+Format là sự định dạng các vùng ghi dữ liệu của ổ đĩa cứng. Tuỳ theo từng yêu cầu mà có thể thực hiện sự định dạng này ở các thể loại cấp thấp hay sự định dạng thông thường.
+
+
+===== Format cấp thấp =====
+Format cấp thấp (low-level format) là sự định dạng lại các track, sector, cylinder (bao gồm cả các ‘khu vực" đã trình bày trong phần sector). Format cấp thấp thường được các hãng sản xuất thực hiện lần đầu tiên trước khi xuất xưởng các ổ đĩa cứng. Người sử dụng chỉ nên dùng các phần mềm của chính hãng sản xuất để format cấp thấp (cũng có các phần mềm của hãng khác nhưng có thể các phần mềm này không nhận biết đúng các thông số của ổ đĩa cứng khi tiến hành định dạng lại).
+Khi các ổ cứng đã làm việc nhiều năm liên tục hoặc có các khối hư hỏng xuất hiện nhiều, điều này có hai khả năng: sự lão hoá tổng thể hoặc sự rơ rão của các phần cơ khí bên trong ổ đĩa cứng. Cả hai trường hợp này đều dẫn đến một sự không đáng tin cậy khi lưu trữ dữ liệu quan trọng trên nó, do đó việc định dạng cấp thấp có thể kéo dài thêm một chút thời gian làm việc của ổ đĩa cứng để lưu các dữ liệu không mấy quan trọng. Format cấp thấp giúp cho sự đọc/ghi trên các track đang bị lệch lạc trở thành phù hợp hơn khi các track đó được định dạng lại (có thể hiểu đơn giản rằng nếu đầu đọc/ghi bắt đầu làm việc dịch về một biên phía nào đó của track thì sau khi format cấp thấp các đầu đọc/ghi sẽ làm việc tại tâm của các track mới).
+Không nên lạm dụng format cấp thấp nếu như ổ đĩa cứng của bạn đang hoạt động bình thường bởi sự định dạng lại này có thể mang lại sự rủi ro: Sự thao tác sai của người dùng, các vấn đề xử lý trong bo mạch của ổ đĩa cứng. Nếu như một ổ đĩa cứng xuất hiện một vài khối hư hỏng thì người sử dụng nên dùng các phần mềm che giấu nó bởi đó không chắc đã do sự hoạt động rơ rão của phần cứng.
+Một người viết bài này đã sử dụng một ổ đĩa cứng từ những năm 1995 cho đến nay nhưng chưa thấy có hiện tượng rơ rão cơ khí như nhắc đến trong bài.
+
+
+===== Format thông thường =====
+Định dạng mức cao (high-level format) là các hình thức format thông thường mà đa phần người sử dụng đã từng thực hiện (chúng chỉ được gọi tên như vậy để phân biệt với format cấp thấp) bởi các lệnh sẵn có trong các hệ điều hành (DOS hoặc Windows), hình thức format này có thể có hai dạng:
+Format nhanh (quick): Đơn thuần là xoá vị trí lưu trữ các ký tự đầu tiên để hệ điều hành hoặc các phần mềm có thể ghi đè dữ liệu mới lên các dữ liệu cũ. Nếu muốn format nhanh: sử dụng tham số " /q" với lệnh trong DOS hoặc chọn "quick format" trong hộp lựa chọn của lệnh ở hệ điều hành Windows.
+Format thông thường. Xoá bỏ các dữ liệu cũ và đồng thời kiểm tra phát hiện khối hư hỏng (bad block), đánh dấu chúng để chúng không còn được vô tình sử dụng đến trong các phiên làm việc sắp tới (nếu không có sự đánh dấu này, hệ điều hành sẽ ghi dữ liệu vào khối hư hỏng mà nó không báo lỗi - tuy nhiên khi đọc lại dữ liệu đã ghi đó mới là vấn đề nghiêm trọng).Đối với bộ nhớ Flash thì cũng không nên format nhiều dễ làm hỏng ổ đĩa.
+
+
+===== Tham số khi format =====
+Ở dạng format cấp thấp, các thông số thiết đặt phần nhiều do phần mềm của hãng sản xuất xác nhận khi bạn nhập vào các thông số nhìn thấy được trên ổ đĩa cứng (Model, serial number...) nên các thông số này cần tuyệt đối chính xác nhằm tránh sự thất bại khi tiến hành.
+Ở dạng format thông thường, nếu là hình thức format nhanh (quick) thì các thông số được giữ nguyên như lần format gần nhất, còn lại có một thông số mà người tiến hành format cần cân nhắc lựa chọn là kích thước đơn vị (nhỏ nhất) của định dạng là cluster (trong Windows XP mục Allocation unit size trong hộp thoại lựa chọn format).
+Kích thước cluster có thể lựa chọn bắt đầu từ 512 byte bởi không thể nhỏ hơn kích thước chứa dữ liệu của một sector (với kích thước một sector thông dụng nhất là 512 byte). Các kích thước còn lại có thể là: 1024, 2048, 4096 với quy định giới hạn của từng loại định dạng (FAT/FAT32 hay NTFS).
+Sự lựa chọn quan trọng nhất là phân vùng cần định dạng sử dụng chủ yếu để chứa các tập tin có kích thước như thế nào. Để hiểu hơn về lựa chọn, xin xem một ví dụ sau: Nếu lưu một tập tin text chỉ có dung lượng 1 byte (bạn hãy thử tạo một tập tin text và đánh 1 ký tự vào đó) thì trên ổ đĩa cứng sẽ phải dùng đến ít nhất 512 byte để chứa tập tin này với việc lựa chọn kích thước đơn vị là 512 byte, còn nếu lựa chọn cluster bằng 4096 byte thì kích thước lãng phí sẽ là 4096 - 1 = 4095 byte.
+Nếu như lựa chọn kích thước cluster có kích thước khá nhỏ thì các bảng FAT hoặc các tập tin MFT (Master File Table) trong định dạng NTFS lại trở lên lớn hơn.
+Như vậy ta nhận thấy: Nếu ổ đĩa cứng sử dụng cho các tập tin do các phần mềm văn phòng thường ngày (Winword, bảng tính excel...), nên chọn kích thước nhỏ: 1024 hoặc 2048 byte. Nếu chứa các tập tin là dạng các bộ cài đặt phần mềm hoặc các tập tin video, nên chọn kích thước này lớn hơn. Đặc biệt ở các ổ cứng nhỏ dành cho thiết bị di động thì sự lựa chọn thường là 512 byte (đây cũng thường là lựa chọn khi format các loại thẻ nhớ).
+Windows có thể cho bạn biết một tập tin kích thước thực (size) của nó và kích thước chứa trên đĩa (size on disk) của nó bằng cách bấm chuột phải và chọn Properties. Điều này giúp bạn có thể nhận ra sự lãng phí đã nêu
+Phần mềm Partition Magic của Symantec có thể so sánh việc lựa chọn kích thước các cluster trên một phân vùng tồn tại dữ liệu.
+
+
+== Ứng dụng ==
+Ổ đĩa cứng được sử dụng chủ yếu trên các máy tính như: máy tính cá nhân, máy tính xách tay, máy chủ, máy trạm…
+Với các thiết bị lưu trữ dữ liệu chuyên dụng như: các thiết bị sao lưu dữ liệu tự động hoặc các thiết bị sao lưu dữ liệu dùng cho văn phòng/cá nhân bán trên thị trường hiện nay đều sử dụng các ổ đĩa cứng. Khi ổ đĩa cứng có dung lượng ngày càng lớn, chi phí tính theo mỗi GB dữ liệu rẻ đi khiến chúng hoàn toàn có thể thay thế các hệ thống sao lưu dữ liệu dự phòng trước đây như: băng từ (mà ưu điểm nổi bật của chúng là chi phí cho mỗi GB thấp).
+Ngày nay, một số hãng sản xuất ổ đĩa cứng đã có thể chế tạo các đĩa cứng rất nhỏ. Các ổ đĩa cứng nhỏ này có thể được sử dụng thiết bị kỹ thuật số hỗ trợ cá nhân, thiết bị cầm tay, điện thoại di động, máy ảnh số, máy nghe nhạc cá nhân, tai nghe không dây, máy quay phim kỹ thuật số (thay cho băng từ và đĩa quang với ưu thế về tốc độ ghi và sự soạn thảo hiệu ứng tức thời)...
+Những thiết bị gia dụng mới xuất hiện đáp ứng nhu cầu của con người cũng được sử dụng các ổ đĩa cứng như: Thiết bị ghi lại các chương trình ti vi cho phép người sử dụng không bỏ sót một kênh yêu thích nào bởi chúng ghi lại một kênh thứ hai trong khi người sử dụng xem kênh thứ nhất, hoặc đặt lịch trình ghi lại khi vắng nhà.
+
+
+== Một số thông tin và ghi chú trong bài ==
+Nhiều người sử dụng thường gọi ổ C, ổ D…nhưng thực chất chúng chỉ là các phân vùng (partition) trong ổ đĩa cứng để tiện cho việc phân chia khu vực lưu trữ dữ liệu theo các mục đích riêng. Cách hiểu này nhiều khi được sử dụng ở các bài viết chính thống, tuy nhiên ở các bài viết cẩn thận, người truyền đạt thường sử dụng từ "ổ vật lý" để nói đến toàn bộ khối ổ đĩa cứng, nhằm tránh sự hiểu nhầm đến các "ổ luận lý".
+Một số người sử dụng đã làm mát ổ đĩa cứng bằng cách gắn các quạt làm mát thổi trực tiếp vào bo mạch của chúng (thổi từ dưới lên, có một số nơi lại bán sẵn các vỉ làm mát kiểu này), điều này hoàn toàn không cần thiết bởi bo mạch của ổ đĩa thường không tiêu thụ công suất quá lớn khiến các linh kiện của chúng nóng lên và bo mạch được làm mát không thể hấp thụ nhiệt từ các đĩa từ, động cơ của ổ đĩa cứng. Mặt khác điều này còn làm cho bo mạch chứa nhiều bụi sau một thời gian làm việc, chúng có thể trở thành môi trường dẫn điện nếu thời tiết trở nên ẩm thấp. Cách tốt để tản nhiệt ổ đĩa cứng là thổi không khí vào chúng từ phía trên hoặc phía ngang. Một số vỏ máy tính đã thiết kế quạt làm mát thổi song song với ổ đĩa cứng lấy gió từ phía mặt trước của thùng máy.
+Trong quá trình làm việc, hệ điều hành hoặc các phần mềm kiểm tra đĩa cứng, nếu chúng đọc và ghi dữ liệu tại một vị trí nào đó không thành công trong vài lần, chúng sẽ đánh dấu "khối hư hỏng" vào đó nhằm tránh sự ghi dữ liệu tiếp theo vào vị trí này. Nhiều trường hợp bởi một lý do khác mà hệ điều hành có thể đánh dấu sai.
+
+
+== Các hãng sản xuất ==
+Có rất nhiều hãng, công ty sản xuất ổ đĩa cứng, có thể kể đến một số thương hiệu như sau (sắp xếp ngẫu nhiên không theo quy luật):IBM, Seagate, Hitachi, Western Digital.
+
+
+== Xem thêm ==
+Ổ đĩa mềm
+Ổ USB
+
+
+== Tham khảo ==
+Cấu trúc máy tính và thiết bị ngoại vi. Nguyễn Nam Trung. Nhà xuất bản Khoa học Kỹ thuật 2000
+Upgrading and Repairing Pcs, 17th Edition. Scott Mueller (tiếng Anh).
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Vietnamnet (23/9/2004): Thử thách lớn cho ổ cứng nhỏ
+Video minh hoạ về công nghệ ghi dữ liệu trên ổ đĩa cứng (phương ghi: vuông góc vs song song)

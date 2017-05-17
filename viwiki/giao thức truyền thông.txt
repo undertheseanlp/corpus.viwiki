@@ -1,0 +1,25 @@
+Giao thức giao tiếp hay còn gọi là Giao thức truyền thông, Giao thức liên mạng, Giao thức tương tác, Giao thức trao đổi thông tin (tiếng Anh là communication protocol) - trong công nghệ thông tin gọi tắt là giao thức (protocol), tuy nhiên, tránh nhầm với giao thức trong các ngành khác - là một tập hợp các quy tắc chuẩn dành cho việc biểu diễn dữ liệu, phát tín hiệu, chứng thực và phát hiện lỗi dữ liệu - những việc cần thiết để gửi thông tin qua các kênh truyền thông, nhờ đó mà các máy tính (và các thiết bị) có thể kết nối và trao đổi thông tin với nhau. Các giao thức truyền thông dành cho truyền thông tín hiệu số trong mạng máy tính có nhiều tính năng để đảm bảo việc trao đổi dữ liệu một cách đáng tin cậy qua một kênh truyền thông không hoàn hảo.
+Có nhiều giao thức được sử dụng để giao tiếp hoặc truyền đạt thông tin trên Internet, dưới đây là một số các giao thức tiêu biểu:
+TCP (Transmission Control Protocol): thiết lập kết nối giữa các máy tính để truyền dữ liệu. Nó chia nhỏ dữ liệu ra thành những gói (packet) và đảm bảo việc truyền dữ liệu thành công.
+IP (Internet Protocol): định tuyến (route) các gói dữ liệu khi chúng được truyền qua Internet, đảm bảo dữ liệu sẽ đến đúng nơi cần nhận.
+HTTP (HyperText Transfer Protocol): cho phép trao đổi thông tin (chủ yếu ở dạng siêu văn bản) qua Internet.
+FTP (File Transfer Protocol): cho phép trao đổi tập tin qua Internet.
+SMTP (Simple Mail Transfer Protocol): cho phép gởi các thông điệp thư điện tử (e-mail) qua Internet.
+POP3 (Post Office Protocol, phiên bản 3): cho phép nhận các thông điệp thư điện tử qua Internet.
+MIME (Multipurpose Internet Mail Extension): một mở rộng của giao thức SMTP, cho phép gởi kèm các tập tin nhị phân, phim, nhạc,... theo thư điện tử.
+WAP (Wireless Application Protocol): cho phép trao đổi thông tin giữa các thiết bị không dây, như điện thoại di động.
+
+
+== Xem thêm ==
+Giao thức truyền thông (Connection-oriented protocol)
+Giao thức phi kết nối (Connectionless protocol)
+Giao thức đường hầm (Tunneling protocol)
+Kiến trúc mạng
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+W3C, liên đoàn lập ra nhiều tiêu chuẩn về Internet (tiếng Anh)
+Chỉ mục giao thức mạng máy tính (tiếng Anh)

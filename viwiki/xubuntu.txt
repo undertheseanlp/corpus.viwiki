@@ -1,0 +1,5 @@
+Xubuntu là 1 nhánh của hệ điều hành Ubuntu do công ty Canonical Ltd phát triển. Xubuntu sử dụng công nghệ Xfce desktop environment, thay vì dùng Unity của Ubuntu.
+Tên Xubuntu là kết hợp giữa hai chữ Xfce và Ubuntu.
+
+
+== Tham khảo ==

@@ -1,0 +1,64 @@
+Advanced Packaging Tool, hay APT, là phần mềm miễn phí dùng để quản lý việc cài đặt phần mềm trên Linux. APT làm đơn giản các thủ tục quản lý phần mềm trên các máy tính tựa Unix bằng cách tự động hóa việc tải về, cấu hình và cài đặt các gói phần mềm, cả ở dạng biên dịch sẵn (dạng binary) hoặc biên dịch mã nguồn.
+APT ban đầu được thiết kế như là một giao diện cho dpkg để làm việc với các gói .deb của Debian, nhưng nó cũng đã được thay đổi để có thể làm việc với hệ thống RPM thông qua apt-rpm. Dự án Fink đã chuyển APT lên hệ điều hành Mac OS X với một số chức năng quản lý gói, và APT cũng đã có trên OpenSolaris (bao gồm bản phân phố Nexenta OS).
+
+
+== Cách sử dụng ==
+"apt" không phải là một chương trình, nó chỉ là tên của một gói chứa tập hợp các công cụ (và các thư viện cần thiết) để thực hiện chức năng của nó. Phần quan trọng nhất của APT là các hàm thư viện C++ (nằm trong một gói khác có tên là libapt) dùng bởi các phần mềm giao diện người dùng cuối có liên quan để xử lý các gói, thí dụ như apt-get và apt-cache. Nó được dùng phổ biến như là một thí dụ về sự đơn giản và thống nhất; apt-get và apt-cache là phần "quan trọng" trong tất cả các phiên bản Debian, do đó nó được cài đặt mặc định trong Debian. APT về mặt chức năng có thể xem như là một giao diện đầu cuối của dpkg, và thân thiện hơn so với dselect. Trong khi dpkg chỉ thực hiện trên từng gói, APT quản lý các mối quan hệ (đặc biệt là sự phụ thuộc) giữa các gói, cũng như là quản lý nguồn phần mềm và quản lý phiên bản (theo dõi các bản phát hành và version pinning).
+APT thường được ca ngợi như là một chức năng tốt nhất của Debian.
+Một chức năng chính của APT là các nó gọi dpkg - nó thực hiện sắp xếp phân cấp danh sách các gói để có thể cài đặt hoặc gỡ và gọi dpkg theo một trình tự tốt nhất. Một số trường hợp nó sử dụng tham số --force của dpkg. Tuy nhiên, nó chỉ làm vậy khi không thể tìm được cách buộc dpkg phải thực thi.
+Lệnh apt-get được sử dụng nhiều nhất là apt-get install tên gói (thông thường tên gói chỉ đơn giản là tên của một ứng dụng có thể chạy được, apt-get update, apt-get upgrade và apt-get dist-upgrade.
+
+
+=== Cài đặt phần mềm ===
+
+
+=== Update, upgrade và dist-upgrade ===
+
+
+== Cấu hình và các tập tin ==
+
+
+== Các nguồn phần mềm ==
+
+
+== Giao diện người dùng cuối ==
+
+Có nhiều giao diện người dùng cuối cho APT. Các giao diện này cung cấp các tính năng cài đặt cao cấp và giao diện trực quan. Có nhiều chương trình:
+Synaptic Package Manager, giao diện đồ họa trên GTK+ / KDE
+aptitude
+KPackage, một phần của KDE
+Adept Package Manager, giao diện đồ họa cho KDE (deb, rpm, bsd)
+PackageKit, một giao diện người dùng cuối freedesktop.org.
+gdebi, công cụ dựa trên GTK, hỗ trợ cho Ubuntu.
+apt-cdrom, để thêm CDROM mới vào danh sách sources.lists (danh sách các kho phần mềm). Cần phải sử dụng apt-cdrom để thêm CD vào hệ thống APT, nó không thể làm bằng tay.
+apt-zip, dùng apt với thiết bị lưu trữ ngoài, đặc biệt là đĩa USB.
+apt:foo tải và cài đặt phần mềm bằng cách click chuột vào địa chỉ web (thử nghiệm).
+Các giao diện người dùng cuối APT có thể:
+tìm các gói phần mềm mới;
+nâng cấp gói phần mềm;
+cài đặt và gỡ các gói;
+nâng cấp toàn bộ hệ thống lên phiên bản mới.
+Các giao diện người dùng cuối của APT có thể liệt kê các gói phụ cần phải cài đặt hoặc nâng cấp, gợi ý cho người quản trị các gói mới cần phải cài, tự động cài đặt các gói phụ thuộc và gỡ các file, gói không còn sử dụng.
+
+
+== Lịch sử ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+apt-get Manual page
+APT HOWTO
+apt-cache
+apt.conf
+apt_preferences
+Python-apt
+Using apt offline
+apt-zip:
+Offline functionality.
+Web user interface for offline Debian.
+
+pypt-offline
+Adding source lists using apt-setup
+apt-cdrom

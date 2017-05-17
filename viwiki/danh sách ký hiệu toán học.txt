@@ -1,0 +1,35 @@
+Danh sách này bao gồm những ký hiệu thông thường trong toán học. Các ký hiệu này thường được sử dụng để biểu thị các công thức toán học hoặc để thay thế cho các hằng số toán học.
+
+
+== Ký hiệu thường gặp ==
+
+
+== Ký hiệu phương trình ==
+
+
+== Ký hiệu chỉ hướng ==
+
+
+== Dấu ngoặc ==
+
+
+== Các ký hiệu phi chữ cái ==
+
+
+== Các ký hiệu chữ cái ==
+
+
+=== Chữ cái kèm dấu phụ ===
+
+
+=== Ký hiệu dựa trên chữ cái Latin ===
+
+
+=== Ký hiệu dựa trên chữ cái Do Thái và Hy Lạp ===
+
+
+== Liên kết ngoài ==
+The complete set of mathematics Unicode characters
+Jeff Miller: Earliest Uses of Various Mathematical Symbols
+Numericana: Scientific Symbols and Icons
+TCAEP - Institute of Physics

@@ -1,0 +1,95 @@
+SVG (viết tắt của Scalable Vector Graphics) là một ngôn ngữ đánh dấu (markup language) XML và dùng để miêu tả các hình ảnh đồ họa véc tơ hai chiều, tĩnh và hoạt hình, thường dành cho ứng dụng trên các trang mạng. SVG thuộc tiêu chuẩn mở và được quản lý bởi tổ chức World Wide Web Consortium, một tổ chức quản lý nhiều chuẩn khác như HTML, XHTML... Các tập tin có đuôi ".svg" được mặc định hiểu là tập tin SVG. SVG có thể phóng to thu nhỏ mọi kích cỡ mà không giảm chất lượng hình ảnh. Vì thế, nó được dùng nhiều trong các bản đồ, sơ đồ.
+Đối thủ chính của SVG là Macromedia Flash, nhưng Macromedia Flash không phải là một chuẩn mở.
+
+
+== Ưu điểm ==
+Vì là định dạng đồ họa vectơ, lợi điểm của SVG là khả năng hiển thị tốt ở mọi kích cỡ và độ phân giải. Với một kích thước tương tự, một tập tin SVG có thể chứa nhiều thông tin hơn là một tập tin định dạng nhị phân khác (GIF, PNG,...).
+SVG là một chuẩn mở, nó cho phép việc tùy biến theo mục đích sử dụng một cách dễ dàng. Các hình ảnh SVG có thể được dễ dàng sửa chữa và phát triển sau này, khác với đồ họa mảng thường là sản phẩm cuối cùng của các xử lý ảnh, không chứa mã nguồn các lớp ảnh.
+Các tập tin SVG ở dạng văn bản, việc chỉnh sửa có thể thực hiện bằng các trình soạn thảo đơn giản nhất.
+
+
+== Nhược điểm ==
+SVG là ngôn ngữ không được thiết kế để sửa chữa trực tiếp trên mã nguồn. Để tạo ra các hình ảnh SVG nói chung, cần dùng các công cụ hỗ trợ.
+Dù SVG có thể là một lựa chọn cho hình ảnh của các trang mạng trong tương lai không xa, nó vẫn còn khá mới mẻ và cần sự hỗ trợ từ các trình duyệt mạng. Hiện nay Firefox đã hỗ trợ tương đối đầy đủ cho SVG, tuy nhiên Internet Explorer 8 và một số trình duyệt khác cần có plug-in đặt riêng lẻ.
+
+
+== Trình duyệt và phần mềm hỗ trợ ==
+Sự phổ biến của SVG trên mạng mới ở giai đoạn bắt đầu. Lý do là các đồ họa mảng đã là thói quen khó bỏ.
+Một số wiki đã thử cho phép người sử dụng thay đổi trực tiếp mã SVG để sửa hình ảnh, tuy nhiên lợi lộc từ việc này hiện còn hạn chế. Hiện Wikipedia chỉ hỗ trợ hiển thị định dạng SVG. Tuy nhiên việc truyền lên các tập tin SVG cho Wikipedia được khuyến khích do chúng có mã nguồn mở, giúp dễ dàng được sửa chữa và phát triển sau này, khác với đồ họa mảng thường là sản phẩm cuối cùng của các xử lý ảnh, không chứa mã nguồn các lớp ảnh.
+
+
+=== Plugin ===
+Một số trình duyệt, như Internet Explorer, cần plugin để hiển thị hình ảnh ở định dạng SVG. Các plug-in hỗ trợ SVG như:
+Adobe SVGViewer
+Corel SVGViewer
+Java-based SVG toolkit
+
+
+=== Hỗ trợ trực tiếp ===
+Trình duyệt Opera từ phiên bản 8.0 Beta 3 trở đi hỗ trợ SVG 1.1 Tiny.
+Trình duyệt Mozilla Firefox từ phiên bản 1.5 Beta 1 hỗ trợ không đầy đủ cho SVG 1.1 Full.
+Trình duyệt Amaya hỗ trợ một phần SVG.
+Trình duyệt Konqueror có hỗ trợ tương đối đầy đủ qua plugin KSVG. Phiên bản 2 của plugin này sắp được cho vào hỗ trợ trực tiếp trong trình duyệt.
+Trình duyệt Safari cũng sắp dùng KSVG cho hỗ trợ trực tiếp.
+Batik SVG Toolkit có thể được dùng trong các chương trình Java để hiện thị hay xử lý hình ảnh SVG.
+
+
+=== Trên các phương tiện di động ===
+Ikivo và Bitflash hỗ trợ dùng SVG trên điện thoại di động. Bitflash và Intesis có thể dùng cho PDA. Macromedia Flash Lite của Macromedia có thể hỗ trợ SVG Tiny từ phiên bản 1.1.
+
+
+== Công cụ ==
+Các phần mềm xử lý đồ họa véc tơ như Adobe Illustrator hay Corel Draw đều hỗ trợ xuất và nhập dưới định dạng SVG.
+OpenOffice.org Draw từ phiên bản 1.1 có thể xuất tập tin SVG. Từ Draw 2.0, có thêm plugin nhập SVG.
+Inkscape, một phần mềm mã nguồn mở cho nhiều hệ điều hành xử lý đồ họa véc tơ, dùng định dạng mặc định SVG. Sodipodi một phần mềm tổ tiên của Inkscape, vẫn đang được phát triển.
+Skencil một phần mềm mã nguồn mở xử lý đồ họa véc tơ khác, cũng xuất và nhập SVG.
+SVGmaker tạo tập tin SVG từ các trình thông thường trong Windows.
+Sketsa là một phần mềm xử lý SVG có bản quyền.
+
+
+== Ví dụ ==
+
+   <?xml version="1.0" standalone="no" ?>
+   <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+   <svg width=100% height=100% version="1.1" xmlns="http://www.w3.org/2000/svg/">
+       <circle cx="50" cy="50" r="50" stroke="yellow" stroke-width="3" fill="blue" />
+   </svg>
+
+
+== Xem thêm ==
+Hỗ trợ SVG ở Wikipedia
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Chính thức
+W3C SVG
+SVG.org - Cộng đồng SVG
+SVG Wiki - Wiki của SVG
+SVGX
+Phần mềm
+Inkscape -
+Adobe SVG Plugin
+Mozilla SVG
+ksvg
+Sketsa
+BitFlash
+Chuyển sang định dạng SVG
+ASCIISvg, Javascript để vẽ hình SVG
+Thư viện
+SVG Salamander
+librsvg
+SVG Perl
+Hướng dẫn
+Pike's SVG Tutorial
+SVGBasics
+SVG Tutorial from W3School
+Các hình ảnh SVG
+Open Clip Art Library
+Sodipodi Clipart Page
+GNOME themes extras package
+Crystal Icons
+Gartoon Icons Theme
+BlueSphere Icon Theme

@@ -1,0 +1,59 @@
+Trong thế giới rộng lớn của Internet với hàng tỷ người đang sử dụng hàng ngày, phần lớn trong số họ thường đọc quảng cáo trực tuyến khi lướt web và đó là cơ hội lớn để quý khách quảng cáo tiếp thị doanh nghiệp - sản phẩm - dịch vụ trực tuyến trên Internet.
+
+
+== Định nghĩa ==
+Cũng như các loại hình quảng cáo khác, quảng cáo trên mạng nhằm cung cấp thông tin, đẩy nhanh tiến độ giao dịch giữa người mua và người bán. Nhưng quảng cáo trên Web khác hẳn quảng cáo trên các phương tiện thông tin đại chúng khác, nó giúp người tiêu dùng có thể tương tác với quảng cáo. Khách hàng có thể nhấn vào quảng cáo để lấy thông tin hoặc mua sản phẩm cùng mẫu mã trên quảng cáo đó, thậm chí họ còn có thể mua cả sản phẩm từ các quảng cáo online trên Website.
+Quảng cáo trực tuyến đã tạo cơ hội cho các nhà quảng cáo nhắm chính xác vào khách hàng của mình, và giúp họ tiến hành quảng cáo theo đúng với sở thích và thị hiếu của người tiêu dùng. Các phương tiện thông tin đại chúng khác cũng có khả năng nhắm chọn, nhưng chỉ có mạng Internet mới có khả năng tuyệt vời như thế.
+Khái niệm nhà quảng cáo ở đây được hiểu là người có chuyên môn, chịu trách nhiệm cho một thương hiệu hay sản phẩm trong việc thiết lập và giám sát một chiến dịch quảng cáo.
+
+
+== Những ưu điểm của quảng cáo trực tuyến ==
+Khả năng nhắm chọn
+Nhà quảng cáo trên mạng có rất nhiều khả năng nhắm chọn mới. Họ có thể nhắm vào các công ty, các quốc gia hay khu vực địa lý cũng như họ có thể sử dụng cơ sở dữ liệu để làm cơ sở cho tiếp thị trực tiếp. Họ cũng có thể dựa vào sở thích cá nhân và hành vi của người tiêu dùng để nhắm vào đối tượng thích hợp.
+Khả năng theo dõi
+Các nhà tiếp thị trên mạng có thể theo dõi hành vi của người sử dụng đối với nhãn hiệu của họ và tìm hiểu sở thích cũng như mối quan tâm của những khách hàng triển vọng. Ví dụ, một hãng sản xuất xe hơi có thể theo dõi hành vi của người sử dụng qua site của họ và xác định xem có nhiều người quan tâm đến quảng cáo của họ hay không?
+Các nhà quảng cáo cũng có thể xác định được hiệu quả của một quảng cáo (thông qua số lần quảng cáo được nhấn, số người mua sản phẩm, và số lần tiến hành quảng cáo,…) nhưng điều này rất khó thực hiện đối với kiểu quảng cáo truyền thống như trên tivi, báo chí và bảng thông báo.
+Tính linh hoạt và khả năng phân phối
+Một quảng cáo trên mạng được truyền tải 24/24 giờ một ngày, cả tuần, cả năm. Hơn nữa, chiến dịch quảng cáo có thể được bắt đầu cập nhật hoặc huỷ bỏ bất cứ lúc nào. Nhà quảng cáo có thể theo dõi tiến độ quảng cáo hàng ngày, xem xét hiệu quả quảng cáo ở tuần đầu tiên và có thể thay thế quảng cáo ở tuần thứ hai nếu cần thiết. Điều này khác hẳn kiểu quảng cáo trên báo chí, chỉ có thể thay đổi quảng cáo khi có đợt xuất bản mới, hay quảng cáo tivi với mức chi phí rất cao cho việc thay đổi quảng cáo thường xuyên.
+Tính tương tác
+Mục tiêu của nhà quảng cáo là gắn khách hàng triển vọng với nhãn hiệu hoặc sản phẩm của họ. Điều này có thể thực hiện hiệu quả trên mạng, vì khách hàng có thể tương tác với sản phẩm, kiểm tra sản phẩm và nếu thoả mãn thì có thể mua. Ví dụ, một quảng cáo cho phần mềm máy tính có thể đưa khách hàng tới nơi trưng bày sản phẩm để lấy thông tin và kiểm tra trực tiếp. Nếu khách hàng thích phần mềm đó, họ có thể mua trực tiếp. Không có loại hình thông tin đại chúng nào lại có thể dẫn khách hàng từ lúc tìm hiểu thông tin đến khi mua sản phẩm mà không gặp trở ngại nào như mạng Internet. sa
+
+
+== Cách tính phí quảng cáo ==
+
+
+=== CPD ===
+CPD (Cost per Duration), tức tính tiền theo thời gian đăng banner. Với hình thức này, nhà quảng cáo thường đặt các banner (dạng gif, flash hay video) lên các website nổi tiếng như VnExpress, Dân trí... Quảng cáo dạng này thường áp dụng cho các tập đoàn, công ty có ngân sách quảng cáo lớn vì hình thức quảng cáo này rất đắt. Quảng cáo CPD thường chiu sự chia sẻ, tức 1 vị trí trên 1 website thường được chia sẻ với nhiều khách hàng khác (thường là 3).
+Hình thức CPD bắt gặp hầu hết trên các website lớn của Việt Nam. Vì hình thức này về kỹ thuật khá đơn giản, hầu như các website không cần báo cáo số liệu cho khách hàng của mình, chỉ dựa vào thời gian, vị trí & kích thước hiển thị để tính giá trị hợp đồng.
+
+
+=== CPM ===
+CPM (Cost per Impression), tính tiền dựa trên mỗi 1000 lượt views. Một hợp đồng quảng cáo mua 7000 CPM, giá mỗi CPM tối thiểu là 7.000vnđ => giá trị hợp đồng là =7.000x7.000=49.000.000 vnđ, và banners (logo, sản phẩm) của bạn đủ 7 triệu lượt views thì sẽ hết hạn (chú ý 1 người có thể view tối đa 20 lần, nên con số 5 triệu lượt views ở đây chắc chắn không phải là 5 triệu người). Hình thức này CPM cũng có thể là các banner dạng file gif, flash, video,... với dạng này, sản phẩm hay logo của bạn có thể xuất hiện ở 1 hay nhiều vị trí khác nhau trên 1 hay nhiều websites, trong khi quảng cáo CPD thì đặt trên 1 vị trí cố định trên 1 website. Cũng giống như quảng cáo CPD, CPM cũng chỉ phù hợp cho các đối tượng muốn quảng bá thương hiệu, các công ty có ngân sách quảng cáo lớn.
+Với hình thức này, việc tính toán số liệu phức tạp hơn, đặc biệt với hình thức này, khách hàng có thể mua theo hình thức chạy mỗi ngày bao nhiêu tiền hay muốn 1 người chỉ nhìn thấy bao nhiêu lần cho mỗi banner của mình.
+Vì độ phức tạp của số liệu, nên hình thức này ngoài các hãng quảng cáo lớn của nước ngoài như Yahoo, thì ở Việt Nam mới chỉ có AdMicro thuộc tập đoàn VCCorp là cung cấp hình thức quảng cáo này. Có thể sử dụng dịch vụ Google Adwords dạng Display Networld để áp dụng. Với hệ thống hàng trăm ngàn website liên kết với Google.
+
+
+=== CPC ===
+CPC (Cost per Click) hay PPC (Pay per Click) đều là một, có nghĩa là bạn chỉ phải trả tiền cho mỗi click từ khách hàng tiềm năng của mình. Hình thức quảng cáo này thường có định dạng hỗn hợp gồm jpg, text (logo, sản phẩm + mô tả về sản phẩm). Hình thức CPC thường có vị trí không đẹp & kích thước nhỏ, hình thức này chủ yếu nhắm đến đối tượng bán lẻ, bán hàng trực tuyến. Giá mỗi click thường từ vài nghìn cho đến vài chục nghìn tuỳ nhà cung cấp & tuỳ từng website. Quảng cáo CPC thường gặp vấn đề spam click, việc tính toán cũng rất phức tạp, nên hiện tại các nhà quảng cáo thường tìm đến các sản phẩm của nước ngoài như Google Adwords hay Facebook Ads, có điều giá mỗi click thường khá cao & yêu cầu bạn phải có thẻ tín dụng để nạp tiền.
+
+
+=== CPA ===
+CPA (Cost Per Action hoặc Cost Per Acquisition) hay PPP (Pay Per Performance), là hình thức nhà quảng cáo trả tiền cho bên đăng quảng cáo dựa trên số lần khách hàng thực hiện một hành động như đăng ký tài khoản, mua hàng,... Hình thức này nhà quảng cáo có thể đo đếm hiệu quả trong mối liên hệ với số tiền bỏ ra chính xác hơn nên có thể là xu hướng trong tương lai.
+CPI
+CPI (Cost Per Install), là hình thức nhà quảng cáo ứng dụng điện thoại di động trả tiền cho bên đăng quảng cáo dựa trên số lần cài đặt của ứng dụng. Hình thức này thường dùng cho các ứng dụng app di động, game di động.
+
+
+== Xem thêm ==
+Internet
+Quảng cáo
+SEO
+Thương mại điện tử
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+Sáu bước quảng cáo trực tuyến
+Cơ hội lớn cho quảng cáo trực tuyến tại VN
+Quảng cáo trực tuyến ở Việt Nam: Thị trường tiềm năng còn bỏ ngỏ

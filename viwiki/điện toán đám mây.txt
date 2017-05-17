@@ -1,0 +1,60 @@
+Điện toán đám mây (tiếng Anh: cloud computing), còn gọi là điện toán máy chủ ảo, là mô hình điện toán sử dụng các công nghệ máy tính và phát triển dựa vào mạng Internet. Thuật ngữ "đám mây" ở đây là lối nói ẩn dụ chỉ mạng Internet (dựa vào cách được bố trí của nó trong sơ đồ mạng máy tính) và như một liên tưởng về độ phức tạp của các cơ sở hạ tầng chứa trong nó. Ở mô hình điện toán này, mọi khả năng liên quan đến công nghệ thông tin đều được cung cấp dưới dạng các "dịch vụ", cho phép người sử dụng truy cập các dịch vụ công nghệ từ một nhà cung cấp nào đó "trong đám mây" mà không cần phải có các kiến thức, kinh nghiệm về công nghệ đó, cũng như không cần quan tâm đến các cơ sở hạ tầng phục vụ công nghệ đó. Theo tổ chức Xã hội máy tính IEEE "Nó là hình mẫu trong đó thông tin được lưu trữ thường trực tại các máy chủ trên Internet và chỉ được được lưu trữ tạm thời ở các máy khách, bao gồm máy tính cá nhân, trung tâm giải trí, máy tính trong doanh nghiệp, các phương tiện máy tính cầm tay,...". Điện toán đám mây là khái niệm tổng thể bao gồm cả các khái niệm như phần mềm dịch vụ, Web 2.0 và các vấn đề khác xuất hiện gần đây, các xu hướng công nghệ nổi bật, trong đó đề tài chủ yếu của nó là vấn đề dựa vào Internet để đáp ứng những nhu cầu điện toán của người dùng. Ví dụ, dịch vụ Google AppEngine cung cấp những ứng dụng kinh doanh trực tuyến thông thường, có thể truy nhập từ một trình duyệt web, còn các phần mềm và dữ liệu đều được lưu trữ trên các máy chủ.
+
+
+== Khái niệm đơn giản ==
+Thuật ngữ cloud computing ra đời giữa năm 2007 không phải để nói về một trào lưu mới, mà để khái quát lại các hướng đi của cơ sở hạ tầng thông tin vốn đã và đang diễn ra từ mấy năm qua.  Quan niệm này có thể được diễn giải một cách đơn giản: các nguồn điện toán khổng lồ như phần mềm, dịch vụ và các dịch vụ sẽ nằm tại các máy chủ ảo (đám mây) trên Internet thay vì trong máy tính gia đình và văn phòng (trên mặt đất) để mọi người kết nối và sử dụng mỗi khi họ cần. Với các dịch vụ sẵn có trên Internet, doanh nghiệp không phải mua và duy trì hàng trăm, thậm chí hàng nghìn máy tính cũng như phần mềm. Họ chỉ cần tập trung vào kinh doanh lĩnh vực riêng của mình bởi đã có người khác lo cơ sở hạ tầng và công nghệ thông tin thay họ. Google, theo lẽ tự nhiên, nằm trong số những hãng ủng hộ điện toán máy chủ ảo tích cực nhất bởi hoạt động kinh doanh của họ dựa trên việc phân phối các cloud (virtual server). Đa số người dùng Internet đã tiếp cận những dịch vụ đám mây phổ thông như e-mail, album ảnh và bản đồ số.
+
+
+== Lịch sử ==
+Thuật ngữ điện toán đám mây xuất hiện bắt nguồn từ ứng dụng điện toán lưới (grid computing) trong thập niên 1980, tiếp theo là điện toán theo nhu cầu (utility computing) và phần mềm dịch vụ (SaaS).
+Điện toán lưới đặt trọng tâm vào việc di chuyển một tải công việc (workload) đến địa điểm của các tài nguyên điện toán cần thiết để sử dụng. Một lưới là một nhóm máy chủ mà trên đó nhiệm vụ lớn được chia thành những tác vụ nhỏ để chạy song song, được xem là một máy chủ ảo.
+Với điện toán đám mây, các tài nguyên điện toán như máy chủ có thể được định hình động hoặc cắt nhỏ từ cơ sở hạ tầng phần cứng nền và trở nên sẵn sàng thực hiện nhiệm vụ, hỗ trợ những môi trường không phải là điện toán lưới như Web ba lớp chạy các ứng dụng truyền thống hay ứng dụng Web 2.0.
+
+
+== Tóm tắt đặc điểm ==
+
+
+=== So sánh ===
+Điện toán máy chủ ảo thường bị lẫn lộn với điện toán lưới, ("một dạng của điện toán phân tán trong đó tồn tại một 'siêu máy tính ảo', là sự bao gồm một cụm mạng máy tính, những máy tính liên kết mềm, hoạt động phối hợp để thực thi những tác vụ cực lớn"), điện toán theo nhu cầu (utility computing) ("khối những tài nguyên máy tính, như các bộ xử lý và bộ nhớ, trong vai trò một dịch vụ trắc lượng tương tự với các công trình hạ tầng kỹ thuật truyền thống chẳng hạn như điện lực hay mạng điện thoại") và điện toán tự trị (autonomic computing) ("những hệ thống máy tính có khả năng tự quản lý"). Thực ra nhiều hệ thống điện toán máy đám mây ngày nay được trang bị hệ thống lưới, có tính năng tự trị và được tiếp thị giống như những tiện ích, nhưng điện toán đám mây có thể được nhìn nhận như một bước phát triển tự nhiên tiếp theo từ mô hình lưới-theo nhu cầu. Nhiều kiến trúc đám mây thành công có cơ sở hạ tầng không quy tập hay ít quy tập hay những hệ thống tiếp thị trong đó có mạng ngang hàng như BitTorrent và Skype và điện toán tình nguyện như SETI@home.
+
+
+=== Kiến trúc ===
+
+Đại bộ phận hạ tầng cơ sở của điện toán đám mây hiện nay là sự kết hợp của những dịch vụ đáng tin cậy được phân phối thông qua các trung tâm dữ liệu (data center) được xây dựng trên những máy chủ với những cấp độ khác nhau của các công nghệ ảo hóa. Những dịch vụ này có thể được truy cập từ bất kỳ đâu trên thế giới, trong đó Đám mây là một điểm truy cập duy nhất cho tất cả các máy tính có nhu cầu của khách hàng. Các dịch vụ thương mại cần đáp ứng yêu cầu chất lượng dịch vụ từ phía khách hàng và thông thường đều đưa ra các mức thỏa thuận dịch vụ (Service level agreement). Các tiêu chuẩn mở (Open standard) và phần mềm mã nguồn mở (open source software) cũng góp phần phát triển điện toán máy chủ ảo.
+
+
+=== Các đặc tính ===
+Như vậy, trước đây để có thể triển khai một ứng dụng (ví dụ một trang Web), bạn phải đi mua/thuê một hay nhiều máy chủ (server), sau đó đặt máy chủ tại các trung tâm dữ liệu (data center) thì nay điện toán đám mây cho phép bạn giản lược quá trình mua/thuê đi. Bạn chỉ cần nêu ra yêu cầu của mình, hệ thống sẽ tự động gom nhặt các tài nguyên rỗi (free) để đáp ứng yêu cầu của bạn. Chính vì vậy, có thể kể đến một vài lợi ích cơ bản của điện toán đám mây như sau:
+Sử dụng các tài nguyên tính toán động (Dynamic computing resources): Các tài nguyên được cấp phát cho doanh nghiệp đúng như những gì doanh nghiệp muốn một cách tức thời. Thay vì việc doanh nghiệp phải tính toán xem có nên mở rộng hay không, phải đầu tư bao nhiêu máy chủ thì nay doanh nghiệp chỉ cần yêu cầu "Hey, đám mây, chúng tôi cần thêm tài nguyên tương đương với 1 CPU 3.0 GHz, 128GB RAM…" và đám mây sẽ tự tìm kiếm tài nguyên rỗi để cung cấp cho bạn.
+Giảm chi phí: Doanh nghiệp sẽ có khả năng cắt giảm chi phí để mua bán, cài đặt và bảo trì tài nguyên. Rõ ràng thay vì việc phải cử một chuyên gia đi mua máy chủ, cài đặt máy chủ, bảo trì máy chủ thì nay bạn chẳng cần phải làm gì ngoài việc xác định chính xác tài nguyên mình cần và yêu cầu. Quá tiện!.
+Giảm độ phức tạp trong cơ cấu của doanh nghiệp: Doanh nghiệp sản xuất hàng hóa mà lại phải có cả một chuyên gia IT để vận hành, bảo trì máy chủ thì quá tốn kém. Nếu khoán ngoài được quá trình này thì doanh nghiệp sẽ chỉ tập trung vào việc sản xuất hàng hóa chuyên môn của mình và giảm bớt được độ phức tạp trong cơ cấu.
+Tăng khả năng sử dụng tài nguyên tính toán: Một trong những câu hỏi đau đầu của việc đầu tư tài nguyên (ví dụ máy chủ) là bao lâu thì nó sẽ hết khấu hao, tôi đầu tư như thế có lãi hay không, có bị outdate về công nghệ hay không. Khi sử dụng tài nguyên trên đám mây thì bạn không còn phải quan tâm tới điều này nữa.
+
+
+=== Các mô hình dịch vụ ===
+Các nhà cung cấp dịch vụ điện toán đám mây cung cấp các dịch vụ của họ theo ba mô hình cơ bản:
+Cơ sở hạ tầng như một dịch vụ (IaaS - Infrastructure as a Service)
+Nền tảng như một dịch vụ (PaaS - Platform as a Service)
+Phần mềm như một dịch vụ (SaaS - Software as a Service)
+Trong đó IaaS là cơ bản nhất và mỗi mô hình cao hơn tóm tắt từ các chi tiết của những mô hình thấp hơn. Trong năm 2012, mạng lưới như một dịch vụ (NaaS - Network as a Service) và giao tiếp như một dịch vụ (CaaS - Communications as a Service) đã chính thức thêm vào bởi Hiệp hội viễn thông quốc tế (International Telecommunication Union) như là một phần của các mô hình điện toán đám mây cơ bản, các loại hình dịch vụ được công nhận của hệ sinh thái đám mây viễn thông.
+
+
+=== Các mô hình triển khai ===
+Đám mây riêng (Private cloud)
+Đám mây chung (Public cloud)
+Đám mây lai (Hybrid cloud)
+
+
+=== Các công ty ===
+Điện toán đám mây đang được phát triển và cung cấp bởi nhiều nhà cung cấp, trong đó có Amazon, Google, EXA, và Salesforce cũng như những nhà cung cấp truyền thống như Sun Microsystems, HP, IBM, Intel, Cisco và Microsoft. Nó đang được nhiều người dùng cá nhân cho đến những công ty lớn như General Electric, L'Oréal, Procter & Gamble và Valeo chấp nhận và sử dụng.
+
+
+== Xem thêm ==
+Mạng đồng đẳng
+Windows Cloud hay còn gọi là Windows Azure
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==

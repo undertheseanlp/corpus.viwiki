@@ -1,0 +1,64 @@
+Siêu tân tinh, hay sao siêu mới, là một số loại vụ nổ của sao tạo nên các vật thể rất sáng chủ yếu gồm plasma bùng lên trong một thời gian ngắn, cấp sao biểu kiến tăng lên đột ngột hàng tỉ lần, rồi giảm dần trong vài tuần hay vài tháng. Tổng năng lượng thoát ra đạt tới 1044J. Cấp sao tuyệt đối có thể đạt đến -20m.
+Có hai kiểu nổ. Trong kiểu thứ nhất, các sao khổng lồ cháy hết nhiên liệu nhiệt hạch, mất áp suất ánh sáng, và sụp đổ vào tâm dưới trọng trường của chính nó, cho đến lúc mật độ và áp suất tăng cao gây nên bùng nổ. Trong kiểu thứ hai, các sao lùn trắng hút lấy vật chất từ một sao bay quanh nó, cho đến khi đạt được khối lượng Chandrasekhar và bùng nổ nhiệt hạch. Trong cả hai kiểu này, một lượng lớn vật chất của sao bị đẩy bật ra không gian xung quanh.
+Kiểu nổ thứ nhất kết thúc một quá trình sống của một ngôi sao, kết quả có thể là nhân ngôi sao trở thành sao lùn trắng, sao neutron (pulsar, sao từ, sao hyperon hay sao quark...) hay hố đen tùy thuộc chủ yếu vào khối lượng ngôi sao. Các vật chất lớp vỏ sao bị bắn vào khoảng không giữa các vì sao trở thành tàn tích siêu tân tinh.
+
+
+== Ý nghĩa tên gọi ==
+Tên gọi siêu tân tinh hay sao siêu mới xuất phát từ việc quan sát trong lịch sử những hiện tượng hiếm có, khi một ngôi sao đột ngột bùng sáng như thể vừa sinh ra. Dựa theo cường độ sáng chúng được ghi nhận là tân tinh hoặc siêu tân tinh. Tuy nhiên, bản chất của hiện tượng siêu tân tinh là điểm kết cục của một số loại sao của quá trình tiến hóa của chúng.
+
+
+== Phân loại ==
+Siêu tân tinh được phân làm hai loại dựa trên sự có mặt hay không của các vạch hydro trên biểu đồ ánh sáng. Siêu tân tinh không chứa các vạch hydro trong quang phổ thuộc siêu tân tinh loại I, ngược lại là siêu tân tinh loại II.
+
+
+== Hình thành ==
+
+
+=== Siêu tân tinh loại Ia ===
+
+Siêu tân tinh loại I sáng cực đỉnh trong khoảng một tuần, trong 20- 30 ngày kế tiếp độ sáng của nó giảm đi khoảng 0,1m mỗi ngày, tiếp theo là 0,014m mỗi ngày. Cấp sao tuyệt đối trung bình ở điểm cực đại của các siêu tân tinh loại I là -19m, mức thay đổi cấp sao giữa các giá trị cực tiểu và cực đại khoảng 20m. Biểu đồ ánh sáng của tất cả các siêu tân tinh loại I gần giống nhau, chúng bao gồm các vạch quang phổ rộng và không có các vạch hydrô sáng. Các lớp vỏ bao quanh nhân ngôi sao bị bắn vào không gian giữa các vì sao với vận tốc 20.000 kms−1.
+Theo lý thuyết được nhiều người chấp nhận nhất thì siêu tân tinh loại Ia có được do sao lùn trắng hút dần vật chất từ sao đồng hành trong sao đôi, cho đến khi đạt được khối lượng Chandrasekhar và bùng nổ nhiệt hạch. Siêu tân tinh loại Ia phát ra nhiều năng lượng nhất trong các loại siêu tân tinh đã biết đến. Thiên thể đơn xa nhất trong vũ trụ được tìm thấy chính là một siêu tân tinh loại Ia ở khoảng cách 11 tỉ năm ánh sáng (SN 1997ff).
+
+
+=== Siêu tân tinh loại Ib và Ic ===
+Các quang phổ sớm của siêu tân tinh loại Ib và Ic không chứa các vạch Hydrô hay Silic quanh vùng 615 nanomét. Tương tự như siêu tân tinh loại II, đây là các vụ nổ của các sao siêu lớn khi đã đốt hết nguyên liệu ở các vùng nhân. Khác với siêu tân tinh loại II, các sao nguồn gốc của siêu tân tinh loại Ia và Ib bị đánh mất phần lớn các lớp vỏ của mình vì gió sao mạnh hay do tương tác với sao đồng hành của mình. Các siêu tân tinh loại Ib được coi là kết quả của sự sụp đổ các sao Wolf-Rayet. Mặc dù siêu tân tinh loại nào cũng có thể gây nên chớp gamma nếu xét về hình dạng của vụ nổ, nhưng đã có những bằng chứng cho thấy các siêu tân tinh loại Ic là tác giả của chớp gamma.
+
+
+=== Siêu tân tinh loại II ===
+Các sao có khối lượng nhỏ hơn 10 khối lượng Mặt trời, ở giai đoạn kết thúc của quá trình tiến hóa sao chúng biến thành các sao lùn trắng và có thể tiếp tục hút dần vật chất từ sao đồng hành trong sao đôi rồi bùng nổ thành siêu tân tinh loại Ia như trên.
+Các sao có khối lượng lớn hơn 10 khối lượng Mặt trời khi đốt hết nhiên liệu nhiệt hạch, nhân sao hầu như chỉ còn các nguyên tố từ các nguyên tố nặng đến các nguyên tố sắt (Fe), ngôi sao mất áp suất ánh sáng và sụp đổ vào tâm dưới trọng trường của chính nó, mật độ và áp suất tăng cao cho đến lúc gây nên bùng nổ. Các lớp vỏ bao quanh nhân ngôi sao bị bắn vào không gian với vận tốc 15.000 km/s.
+
+
+== Siêu tân tinh ở đâu trong vũ trụ ==
+
+Các siêu tân tinh loại I thường ở các quần thể sao hạng II trong các thiên hà elíp. Các siêu tân tinh loại II thường ở các quần thể sao hạng I trong các thiên hà xoắn ốc, đôi khi có ở các thiên hà không đều.
+Cho đến nay chỉ có ba vụ nổ siêu tân tinh trong Ngân hà được quan sát vào các năm 1054, 1572 và 1604. Mặc dù vậy, có nhận định rằng có một đến ba siêu tân tinh bùng sáng trong Ngân hà mỗi thế kỉ, phần lớn chúng không được quan sát được do sự hấp thụ mạnh ánh sáng của vật chất giữa các sao. Đến nay có hơn 500 vụ nổ siêu tân tinh ở các thiên hà khác được ghi nhận.
+
+
+== Cách đặt tên ==
+Các phát hiện siêu tân tinh được thông báo đến Trung tâm Điện báo Thiên văn (CBAT) thuộc Hiệp hội Thiên văn Quốc tế (IAU) sẽ được IAU ghi nhận bằng tên có từ năm phát hiện và một hay hai chữ cái. 26 siêu tân tinh đầu trong năm sẽ được ký hiệu bằng các chữ A đến Z, sau đó là AA, AB,...
+
+
+== Xem thêm ==
+Tăng tốc giãn nở vũ trụ
+Tàn tích siêu tân tinh
+Tân tinh lùn (en:Dwarf nova)
+Tân tinh quark (en:Quark-nova)
+Suy sụp hấp dẫn
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Tiếng Anh
+Siêu tân tinh tại Encyclopædia Britannica (tiếng Anh)
+Sao mới tại Encyclopædia Britannica (tiếng Anh)
+Supernova produces cosmic rays - Siêu tân tinh sản sinh tia vũ trụ BBC 4 tháng 11 năm 2004, 13:00 GMT
+List of Supernovae - Danh sách các siêu tân tinh và List of Recent Supernovae - Danh sách các siêu tân tinh gần đây, CBAT
+Dự án SNEWS (SuperNova Early Warning System) dùng máy đo neutrino để phát hiện sớm về siêu tân tinh
+Bài báo về siêu tân tinh loại Ia
+Bài báo về cơ chế nổ của siêu tân tinh loại Ia
+Bài báo về mối liên hệ giữa siêu tân tinh và neutrino
+Siêu tân tinh tại Từ điển bách khoa Việt Nam
+Sao mới tại Từ điển bách khoa Việt Nam

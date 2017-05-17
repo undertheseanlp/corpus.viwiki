@@ -1,0 +1,34 @@
+Trong phân loại sinh học, một bộ (tiếng La tinh: ordo, số nhiều ordines) là một cấp nằm giữa lớp và họ. Siêu bộ đôi khi cũng được sử dụng và nó nằm giữa lớp và bộ. Các chi tiết chính xác cho danh pháp chính thức phụ thuộc vào hệ quy tắc danh pháp được áp dụng.
+
+
+== Lịch sử ==
+Bộ là một cấp đặc biệt trong phân loại sinh học và nó có tên riêng đặc biệt để phân biệt của chính mình (chứ không phải chỉ là gọi chung cho cái gọi là chi cao hơn (genus summum)) lần đầu tiên được một nhà thực vật học người Đức là Augustus Quirinus Rivinus đề xuất trong phân loại của ông đối với thực vật (các chuyên luận trong thập niên 1690). Carolus Linnaeus là người đầu tiên áp dụng thuật ngữ này một cách ổn định trong sự phân chia của cả 3 giới trong tự nhiên (bao gồm khoáng vật, thực vật và động vật) trong cuốn Systema Naturae (1735, ấn bản lần thứ nhất) của ông.
+
+
+=== Thực vật ===
+Cần lưu ý rằng đối với thực vật của các bộ theo Linnaeus, trong Systema Naturae và trong Species Plantarum, một cách chặt chẽ là nhân tạo, được đưa ra để phân chia các lớp nhân tạo thành các nhóm nhỏ hơn mà có thể lĩnh hội được. Trong khi từ ordo lần đầu tiên được sử dụng một cách ổn định cho các đơn vị tự nhiên của thực vật, thì trong các công trình về phân loại trong thế kỷ 19, chẳng hạn như Prodromus của de Candolle và Genera Plantarum của Bentham & Hooker, nó lại thể hiện như là các đơn vị phân loại mà ngày nay người ta gán cho cấp họ (xem thêm Ordo naturalis).
+Trong các ấn phẩm về thực vật của Pháp, từ Familles naturelles des plantes (1763) của Michel Adanson cho tới cuối thế kỷ 19 thì từ famille (số nhiều: familles) đã được sử dụng như là từ tương đương trong tiếng Pháp cho từ La tinh ordo. Sự tương đương này đã được thể hiện một cách rõ ràng trong Lois de la nomenclature botanique (1868) của Alphonse Louis Pierre Pyrame de Candolle, tiền thân của Quy tắc quốc tế cho danh pháp thực vật hiện nay đang được sử dụng.
+Trong các quy tắc quốc tế đầu tiên của danh pháp thực vật năm 1906 thì từ họ (familia) đã được gán cho cấp mà người Pháp gọi là "famille", trong khi từ bộ (ordo) đã được dành cho cấp cao hơn, mà cấp này trong thế kỷ 19 thông thường hay được gọi là cohors (số nhiều: cohortes).
+
+
+=== Động vật sống ===
+Trong động vật học, các bộ theo Linnaeus đã dược sử dụng một cách ổn định hơn. Điều đó có nghĩa là các bộ trong phần động vật học của Systema Naturae là chỉ tới các nhóm tự nhiên của động vật. Một vài tên gọi các bộ của Linnaeus vẫn còn được sử dụng hiện nay (ví dụ Lepidoptera cho một bộ chứa các loài bướm đêm và bướm ngày, hay Diptera cho bộ chứa các loài ruồi, muỗi, ruồi nhuế, muỗi vằn v.v).
+
+
+== Xem thêm ==
+Cấp bậc (thực vật học)
+Cấp bậc (động vật học)
+Quy tắc quốc tế cho danh pháp động vật (ICZN)
+Quy tắc quốc tế cho danh pháp thực vật (ICBN)
+Miêu tả theo nhánh học
+Phát sinh loài học
+Hệ thống hóa
+Phép phân loại
+Phân loại khoa học
+Phân loại virus
+
+
+== Chú thích ==
+
+
+== Tham khảo ==

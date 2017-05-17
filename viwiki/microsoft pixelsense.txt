@@ -1,0 +1,48 @@
+Microsoft Surface (Tên mã: Milan), là một sản phẩm của Microsoft, được phát triển như một công nghệ kết hợp cả phần cứng và phần mềm, cho phép người dùng, hoặc nhiều người dùng, xử lý nội dung số bằng cách sử dụng những cử động tự nhiên, ra dấu bằng tay, hoặc bằng vật chất. Sản phẩm này được công bố vào ngày 29 tháng 5 năm 2007 tại hội nghị D5, và được trông đợi sẽ được các công ty thương mại bạn hàng phát hành vào tháng 11 năm 2007. Những khách hàng đầu tiên sẽ là những cơ sở kinh doanh mến khách, như nhà hàng, khách sạn, công ty bán lẻ, và những nơi gặp gỡ giải trí công cộng.
+
+
+== Tổng quan ==
+Surface đơn giản là một máy tính chạy Windows Vista được nhét vào một cái bàn đen, phía trên là một màn hình cảm ứng 30-inch trong một khung acrylic rõ ràng. Năm máy quay có thể cảm nhận được những vật gần đó được gắn phía dưới màn hình. Người dùng có thể giao tiếp với máy bằng cách chạm hoặc rê đầu ngón tay và vật dụng như cọ vẽ dọc theo màn hình, hoặc bằng cách đặt những vật thực sự có dán nhãn mã vạch đặc biệt lên nó.
+Surface đã được tối ưu để đáp ứng 52 điểm chạm cùng một lúc. Trong buổi trình bày thử với một phóng viên, Mark Bolger, giám đốc tiếp thị của nhóm Surface Computing, đã "nhúng" ngón tay của ông vào một bảng màu trên mặt màn hình, sau đó rê nó dọc theo màn hình để vẽ một khuôn mặt cười. Sau đó ông đã dùng 10 ngón tay cùng lúc để gắn tóc cho khuôn mặt đó.
+Ngoài việc nhận dạng các di chuyển của ngón tay, Microsoft Surface còn có thể nhận dạng được vật hữu hình. Microsoft nói rằng khi một thực khách đặt lên bàn một ly rượu chẳng hạn, bàn sẽ tự động đưa ra những sự lựa chọn về rượu khác được thiết kế riêng cho thực khách đó.
+Giá cả được thông báo vào khoảng $5.000 đến $10.000 mỗi chiếc. Tuy nhiên Microsoft nói rằng họ trông đợi giá cả sẽ giảm xuống cho phù hợp với người dùng trong 3 đến 5 năm tới.
+Chiếc máy mà Microsoft ra mắt vào ngày 30 tháng 5,2007 tại hội nghị công nghệ ở Carlsbad, California, được chuẩn bị cho phát hành vào tháng 11 tại những cửa hàng T-Mobile Mỹ và những tài sản do Starwood Hotels & Resorts Worldwide Inc. và Harrah's Entertainment Inc. sở hữu.
+
+
+== Lịch sử ==
+Công nghệ đằng sau Surface có tên là đa điểm tiếp xúc. Nó có tối thiểu là 25 năm lịch sử, bắt đầu từ năm 1982, với những tác phẩm tiên phong được thực hiện tại Đại học Toronto (máy tính bảng) và Bell Labs (màn hình đa điểm tiếp xúc).
+Ý tưởng về sản phẩm của Surface được hình thành vào năm 2001 bởi Steven Bathiche của Microsoft Hardware và Andy Wilson của Microsoft Research. Vào tháng 10 năm 2001, một nhóm ảo được hình thành với Bathiche và Wilson là những thành viên chủ chốt, để mang ý tưởng sang một bước phát triển mới.
+Vào năm 2003, nhóm đã giới thiệu ý tưởng này lên Chủ tịch Microsoft Bill Gates, trong một buổi báo cáo nhóm. Sau đó, nhóm ảo được mở rộng và một prototype có tên T1 được sản xuất trong một tháng. Bản prototype dựa trên một cái bàn IKEA với một lỗ cắt ở đỉnh và một tấm bản vẽ kiến trúc được dùng như máy khuếch tán. Nhóm cũng phát triển vài ứng dụng, như pinball, trình duyệt ảnh và trò chơi đố video. Trong năm tiếp theo, Microsoft đã tạo nên hơn 85 bản prototype cho Surface. Thiết kế phần cứng cuối cùng được hoàn thành vào năm 2005.
+Một ý tưởng tương tự được dùng trong bộ phim Khoa học viễn tưởng năm 2005 The Island, bởi nhân vật "Merrick" của Sean Bean. Như được ghi trong lời bình luận DVD, đạo diễn Michael Bay đã nói rằng ý tưởng cho thiết bị đến từ sự tư vấn của Microsoft trong quá trình làm phim. Một trong những người cộng tác từ MIT của cố vấn công nghệ cho phim sau đó đã gia nhập Microsoft để làm việc cho dự án Surface.
+Surface được Giám đốc điều hành Microsoft Steve Ballmer tiết lộ vào ngày 29 tháng 5 năm 2007 trong hội nghị D: All Things Digital của Báo Wall Street tại Carlsbad, California. Surface Computing là một phần của Nhóm Microsoft's Productivity and Extended Consumer Experiences, cùng với phân nhánh Giải trí và Thiết bị. Những công ty ít ỏi đầu tiên sử dụng Surface sẽ bao gồm Harrah's Entertainment, Starwood Hotels & Resorts Worldwide, T-Mobile và một nhà phân phối, International Game Technology.
+
+
+== Tính năng ==
+
+Microsoft nhấn mạnh bốn thành phần quan trọng trong giao diện của Surface: tương tác trực tiếp, tiếp xúc đa điểm, đa người dùng, và nhận dạng đồ vật. Thiết bị cũng cho phép kéo thả những tập tin phương tiện số khi những thiết bị dùng được wi-fi đặt trên mặt bàn như Microsoft Zune, điện thoại di động, hoặc máy ảnh kỹ thuật số.
+Surface tích hợp công nghệ đa điểm tiếp xúc cho phép người dùng tương tác với thiết bị với nhiều hơn một điểm tiếp xúc. Ví dụ như sử dụng tất cả các ngón tay để vẽ thay vì chỉ một ngón. Một cách mở rộng, nhiều người dùng có thể cùng lúc tương tác với thiết bị.
+Công nghệ cho phép những đồ vật không phải kỹ thuật số có thể được dùng làm thiết bị đầu vào. Trong một ví dụ, một cái cọ vẽ bình thường đã được dùng để tạo ra một bức vẽ số trong phần mềm . Nhờ việc sử dụng các máy quay phim làm đầu vào, hệ thống giờ đây không còn phụ thuộc vào những tính chất hạn chế của một màn hình cảm ứng hoặc thiết bị cảm ứng thông thường như điện dung, điện trở, hoặc nhiệt độ của công cụ được dùng (xem Màn hình cảm ứng).
+"Giao diện" máy tính được tạo ra nhờ nguồn ánh sáng LED phát hồng ngoại gần, bước sóng 850 nanomet hướng về mặt bàn. Khi một đồ vật chạm lên mặt bàn, ánh sáng được phản chiếu đến nhiều máy quay hồng ngoại với độ phân giải lưới 1280 x 960, cho phép nó cảm nhận, và phản hồi lại đồ vật chạm lên mặt bàn.
+Surface sẽ được phát hành với những ứng dụng cơ bản, bao gồm hình ảnh, âm thanh, đặt vé ảo, và trò chơi, và người dùng có thể điều chỉnh chúng.
+
+
+== Chi tiết kỹ thuật ==
+Surface là một màn hình 30-inch (76 cm) trong một vật có dạng như cái bàn, cao 22 inch (56 cm), sâu 21 inch (106 cm), và rộng 84 inch (214 cm). Mặt bàn Surface làm bằng acrylic, và khung bên trong là thép bọc nhựa. Nền phần mềm chạy trên hệ điều hành Windows Vista và có kết nối Ethernet 10/100 có dây, kết nối không dây 802.11 b/g, và Bluetooth 2.0.
+
+
+== Xem thêm ==
+TouchLight
+Philips Entertaible
+Jefferson Y. Han
+Đa điểm tiếp xúc
+reacTable
+MPX
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Microsoft Surface
+Microsoft Surface Virtual Pressroom
+Microsoft Surface: Behind-the-Scenes First Look (with Video) at PopularMechanics.com

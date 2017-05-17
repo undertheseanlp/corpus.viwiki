@@ -1,0 +1,39 @@
+H, h là chữ thứ tám trong phần nhiều chữ cái dựa trên Latinh và là chữ thứ 11 trong chữ cái tiếng Việt.
+Trong tin học:
+Trong Unicode ký tự H có mã U+0048 và ký tự h là U+0068.
+Trong bảng mã ASCII, mã của H là 72 và h là 104 (thập phân); hay tương ứng trong số nhị phân là 01001000 và 01101000.
+Trong bảng mã EBCDIC, mã cho H là 200 và cho h là 136.
+Mã trong HTML và XML cho H là "& #72;" và cho h là "& #104;".
+
+Trong hệ đo lường quốc tế:
+H là ký hiệu của henry (đơn vị độ tự cảm điện).
+h là ký hiệu của giờ.
+Trong âm nhạc, một số quốc gia quy định H là nốt Si. Tuy nhiên đa số vẫn dùng B
+h cũng được dùng cho tiền tố héctô – hay 100.
+
+Trong vật lý học:
+h là hằng số Planck.
+h là hằng số Dirac.
+Trong nhiệt động lực học, h là enthalpy của một vật/hệ thống.
+
+Trong hóa học, H là ký hiệu cho hiđrô.
+Trong hóa sinh học, H là ký hiệu của histidin.
+Trong toán học, 
+  
+    
+      
+        
+          H
+        
+      
+    
+    {\displaystyle \mathbb {H} }
+   đại diện cho quatenion (dựa vào tên của William Rowan Hamilton).
+Chữ h bắt đầu của nhiều từ trong tiếng Pháp thường không được phát âm (h muet).
+Bom H là một loại vũ khí hạt nhân.
+Theo mã số xe quốc tế, H được dùng cho Hungary.
+H được gọi là Hotel trong bảng chữ cái âm học NATO.
+Trong bảng chữ cái Hy Lạp, đã có một thời H tương đương với Η và h tương đương với η.
+
+
+== Tham khảo ==

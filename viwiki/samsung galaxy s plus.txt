@@ -1,0 +1,15 @@
+Samsung Galaxy S Plus là điện thoại thông minh chạy hệ điều hành Android, giới thiệu vào tháng 8 năm 2011. Về mặt lý thuyết nó là một bản cập nhật nhỏ của Samsung Galaxy S. Tuy nhiên, nó không khác nhau về phần cứng.
+Galaxy S Plus sử dụng chip Qualcomm Snapdragon S2 MSM8255T với 1.4 GHz Qualcomm vi xử lý Scorpion nhanh hơn Samsung Galaxy S và đi kèm với Adreno 205 (tăng cường) GPU nó sẽ hơi chậm hơn PowerVR SGX540.
+Thiết bị này không phổ biến. Một số nhà phát triển không làm việc với thiết bị này. Nó chạy Android 2.3.3, nhưng có thể nâng cấp lên Android 2.3.6. Thiết bị này không chính thức hỗ trợ CyanogenMod phiên bản 11.0 (Android 4.4.4). Bộ vi xử lý của thiết bị có thể ép xung lên 1.8 GHz với kernel tuỳ chỉnh.
+
+
+== Xem thêm ==
+Samsung Galaxy S series
+
+
+== Tham khảo ==
+
+
+== Liên kết ==
+All Galaxy S Plus related development (XDA-Developers)
+Samsung Galaxy S Plus Jelly Bean

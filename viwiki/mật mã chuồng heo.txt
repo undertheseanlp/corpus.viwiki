@@ -1,0 +1,38 @@
+Mật mã chuồng heo  là một mật mã thay thế đơn giản, trong đó các ký tự được thay thế bằng dạng hình học của phần "chuồng" chứa ký tự đó.
+
+
+== Bảo mật ==
+Việc sử dụng các ký hiệu hình học không làm tăng thêm độ bảo mật của mật mã, thực tế mật mã chuồng heo là một dạng của mật mã dùng một bảng chữ cái. Vì thuật toán đơn giản, nó thường được giới thiệu trong các sách cho trẻ em cũng như viết thư bí mật.
+Mật mã chuồng heo có thể bị phá vỡ bằng phương pháp phân tích tần suất , hoặc đơn giản là đoán mã.
+
+
+== Lịch sử ==
+
+
+== Các biến thể ==
+
+
+== Ví dụ ==
+Với khóa trong hình đầu bài viết, thông điệp "X marks the spot" sẽ được mã hóa thành:
+
+
+== Trong văn hóa đại chúng ==
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+Barker, Wayne G. biên tập (1978). The History of Codes and Ciphers in the United States Prior to World War I. Aegean Park Press. ISBN 0894120263. 
+Gardner, Martin (1972). Codes, ciphers and secret writing. ISBN 0-486-24763-9 . 
+Kahn, David (1967). The Codebreakers. The Story of Secret Writing. Macmillan. 
+Kahn, David (1996). The Codebreakers. The Story of Secret Writing. Scribner. ISBN 0684831309. 
+Newton, David E. (1998). “Freemason's Cipher”. Encyclopedia of Cryptology. ISBN 0-87436-772-7. 
+Pratt, Fletcher (1939). Secret and Urgent: The story of codes and ciphers. Aegean Park Press. ISBN 0894122614. 
+Shulman, David; Weintraub, Joseph (1961). A glossary of cryptography. Crypto Press. tr. 44. 
+Wrixon, Fred B. (1998). Codes, Ciphers, and other Cryptic & Clandestine Communication. Black Dog & Leventhal Publishers, Inc. ISBN 1579120407. 
+
+
+== Liên kết ngoài ==
+The Elian Script is a similar grid-based cipher, used as art.
+Online Pigpen cipher tool for enciphering small messages.

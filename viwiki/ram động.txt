@@ -1,0 +1,98 @@
+Bộ nhớ truy cập ngẫu nhiên động (DRAM hay RAM động) là một loại bộ nhớ truy cập ngẫu nhiên lưu mỗi bit dữ liệu trong một tụ điện riêng biệt trên một mạch tích hợp. Vì các tụ điện bị rò điện tích nên thông tin sẽ bị mất dần trừ khi dữ liệu được nạp lại đều đặn. Đây là điểm khác biệt so với RAM tĩnh. Ưu điểm của DRAM là có cấu trúc đơn giản: chỉ cần một transistor và một tụ điện cho mỗi bit trong khi cần sáu transistor đối với SRAM. Điều này cho phép DRAM lưu trữ với mật độ cao. Vì DRAM mất dữ liệu khi không có điện nên nó thuộc loại thiết bị nhớ tạm thời.
+
+
+== Lịch sử ==
+DRAM được phát minh bởi tiến sĩ Robert Dennard tại Trung tâm nghiên cứu Thomas J. Watson IBM vào năm 1966 và được cấp bằng sáng chế năm 1968. Tụ điện đã được dùng trong những sơ đồ bộ nhớ đời đầu như: drum của Atanasoff-Berry Computer, ống Williams và ống Selectron.
+Vào năm 1969, Honeywell yêu cầu Intel chế tạo cho họ bộ nhớ DRAM sử dụng một cell 3 transistor mà họ vừa phát triển. Nó đã trở thành Intel 1102 (1024x1) vào đầu những năm 1970. Tuy nhiên 1102 gặp nhiều lỗi, điều đó khiến Intel bắt đầu làm việc trên những mẫu thiết kế có cải tiến của riêng họ (việc này được tiến hành bí mật nhằm tránh động chạm tới Honeywell). Chính điều này đã dẫn tới sự ra đời của DRAM thương mại đầu tiên có cell 1 transistor - Intel 1103 (1024x1) vào tháng 10 năm 1970 (mặc dù có chút vấn đề vì số lượng tiêu thụ thấp, mãi đến bản sửa đổi thứ 5).
+Bộ nhớ DRAM đầu tiên có nhiều địa chỉ hàng/cột là Mostek MK4096 (4096x1) năm 1973.
+
+
+== Nguyên lý hoạt động ==
+
+DRAM thường được sắp xếp trong một mảng hình chữ nhật của một phần dự trữ bao gồm một tụ điện và transistor cho mỗi bit dữ liệu. Hình bên phải là một ví dụ đơn giản với ma trận 4x4. Một số ma trận DRAM có tới hàng nghìn phần.
+Các đường ngang nối dài với mỗi hàng được gọi là đường nối. Mỗi cột của các phần được tạo thành từ hai bit- dòng, mỗi dòng kết nối với tất cả các phần lưu trữ khác trong cột (hình minh họa bên phải không bao gồm chi tiết quan trọng này). Nó thường được gọi là " + " và - đường bit " ".
+
+
+=== Hoạt động đọc một bit dữ liệu từ một phần lưu trữ Dram ===
+Các bộ khuếch đại bị ngắt kết nối
+Các dòng bit được sạc sẵn để cân bằng điện áp giữa mức cao và mức thấp. Các dòng bit thì đối xứng để giữ sự cân bằng điện dung, do đó tại thời điểm này điện áp được cân bằng.
+Mạch tích điện được tắt. Bởi vì dòng bit tương đối dài, nó ko có đủ điện dung để cân bằng điện áp được sạc sắn trong một khoảng thời gian.
+Sau đó, dòng nối của hàng muốn được kết nối cao hơn với tụ điện của tế bào lưu trữ. Điều này tạo transistor bán dẫn, chuyển điện tích từ tế bào lưu trữ tới dòng nối liên kết hoặc từ dòng nối lien kết tới tế bào lưu trữ (nếu giá trị lưu trữ là 0). Điện dung của dòng nối thì cao hơn nhiều so với điện dung trong tế bào lưu trữ,điện áp trên dòng nối tăng từ từ nếu tụ điện của tế bào lưu trữ không tích điện, và giảm nhẹ nếu tế bào lưu trữ có tích điện. Khi một dòng nối khác sẽ có một hiệu điện áp giữa hai dòng nối.
+Bộ khuếch đại bây giờ được kết nối với các cặp dòng nối. Thông tin phản hồi tích cực xuất hiện từ biến tần kết nối, do đó bộ khuếch đại hiệu điện áp nhỏ giữa dòng bit lẻ và thậm chí là hàng dòng bit của một cột cho đến khi một dòng bit đầy khi điện áp thấp nhất và cái khác thì điện áp cao nhất. Khi điều này xảy ra, hàng " mở ra "(tế bào dữ liệu đã sẵn sàng).
+Tất cả tế bào lưu trữ trong một hàng mở được cảm nhận cùng lúc, và kết quả bộ khuếch đại cảm giác được chốt. Địa chỉ cột sau đó chọn bit chốt để kết nối với dữ liệu bus bên ngoài. Đọc sự khác nhau của các cột trong cùng một hàng có thể biểu hiện mà không cần hàng mở gián đoạn, bởi vì khi một hàng mở, tất cả dữ liệu đã cảm nhận và chốt.
+Trong khi đọc các cột tronng một hàng mở đang thực hiện, dòng điện đang chảy ngược lên dòng bit từ kết quả của bộ khuếch đại và tế bào lưu trữ đang tích điện. Điều này làm mới điện trong tế bào lưu trữ bằng cách tăng điện áp trong tụ điện nếu nó có điện ban đầu, hoặc giữ cho không có điện nếu nó trống. Ghi chú là bởi vì chiều dài của dòng bit có một độ trễ khá dài để tích điện trở lại tụ điện tế bào. Nó cần một khoảng thời gian trước khi kết thúc của bộ khuếch đại cảm nhận, và do đó có sự trùng với một hoặc nhiều cột.
+Khi đọc xong tất cả các cột trong một hàng mở hiện tại, dòng nối được tắt để ngắt kết nối với tụ điện tế bào lưu trữ từ dòng bit. Bộ khuếch đại cảm nhận được tắt đi, và dòng bit được tích điện trở lại.
+
+
+=== Ghi vào bộ nhớ ===
+Để giữ dữ liệu, một hàng được mở và một bộ khuếch đại cảm nhận của cột cho sẵn thì tạm thời buộc phải tăng hoặc giảm điện áp, do đó gây ra dòng bit để tích điện hoặc không tích điện một tụ điện tế bào lưu trữ để ham muốn giá trị. Do thông tin phản hồi tích cực của bộ khuếch đại, nó sẽ giữ một dòng bit điện áp ổn định thậm chí sau khi buộc điện áp được gỡ bỏ. Trong khi ghi lên một tế bào cụ thể, tất cả cột trong một hàng sẽ cảm nhận cùng lúc giống như lúc đọc, mặc dù chỉ có điện tích một tụ điện tế bào lưu trữ của cột được thay đổi, nhưng tất cả cột sẽ được làm mới.
+
+
+=== Tốc độ làm mới ===
+Thông thường, các nhà máy chỉ định mỗi hàng phải có tụ điện tế bào lưu trữ của nó được làm mới mỗi 64 ms hoặc ít hơn, như được định nghĩa bởi JEDEC. Làm mới được cung cấp trong mỗi DRAM điều khiển tự động làm mới định kỳ, mà không có phần mềm hoặc phần cứng có thể thực hiện. Điều này làm cho mạch điều khiển thêm phức tạp, nhưng nhược điểm là nó nặng bởi thực tế là DRAM rẻ hơn nhiều so với tế bào lưu trữ and mỗi tế bào lưu trữ thì đơn giản, DRAM có nhiều dung lượng trên mỗi đơn vị bề mặt hơn SRAM.
+
+
+== Phát hiện và sửa lỗi ==
+Điện và từ tính là nguyên nhân gây ảnh hưởng bên trong hệ thống máy tính có thể dẫn đến một vài đơn vị dữ liệu của DRAM phát sinh chuyển đổi thành trạng thái ngược lại.Phần lớn các lỗi nhỏ trong các vi xử lý DRAM xảy ra như một hậu quả của bức xạ nền, chủ yếu là các nơtron từ các tia vũ trụ, nó có thể thay đổi thành phần của một hay nhiều tế bào lưu trữ hoặc gây cản trở các cho các mạch điện thường dùng để ghi hay truy xuất dữ liệu.Những nghiên cứu gần đây cho thấy sự thay đổi lớn về tỉ lệ lỗi về rối loạn dữ kiện với hơn 7 cấp độ khác nhau,phạm vi từ 1 bit lỗi/giờ/gigabyte đến 1 bit lỗi/thế kỷ/gigabyte.
+Vấn đề có thể được giảm thiểu bằng cách sử dụng bộ nhớ dư và tăng thêm hệ thống mạch điện,dùng cách này có thể tìm và sửa được những lỗi hiện có.Trong hầu hết các trường hợp,sự phát hiện và sửa lỗi hợp lý được minh chứng bằng bộ kiểm soát bộ nhớ, nó có thể tách hoặc nhóm các mạch vào một CPU;đôi khi,những yêu cầu hợp lý được thực thi một cách rõ ràng trong các vi xử lý và mô-đun của DRAM, cho phép thực hiện chức năng của bộ nhớ EEC thay cho các hệ thống EEC không đủ khả năng khác. Phần dữ liệu thêm được sử dụng để ghi lại tương ứng và cho phép các dữ liệu mất đi được xây dựng lại bằng mã sửa lỗi (EEC).Sự tương ứng này cho phép phát hiện tất cả các lỗi đơn dữ liệu. Những mã sửa lỗi thông dụng nhất,1 mã SECDEC Hamming,cho phép một lỗi đơn dữ liệu được sửa chữa,và trong một cấu hình thông thường,với một 1 bit dữ liệu thêm vào,lỗi đôi dữ liệu được tìm ra.
+Một bộ điều khiển bộ nhớ ECC khả dụng được dùng trong nhiều máy tính cá nhân hiện nay có thể phát hiện và sửa một lỗi đơn dữ liệu mỗi 64-bit,và phát hiện(nhưng không sửa)lỗi 2 bits mỗi 64-bit. Một vài hệ thống cũng "lọc" những lỗi này,bằng cách sửa phiên bản hiện tại trở lại bộ nhớ. Phần nhận biết ECC của một vài máy tính và ECC nhận biết của hệ thống,như Linux,cho phép đếm số lần phát hiện và sửa lỗi bộ nhớ,giúp hệ thống có thể nhận dạng và thay thế mô-đun bộ nhớ bị hỏng.
+
+
+== Các dạng của DRAM (RAM động) ==
+Vì lý do tài chính, phần lớn bộ nhớ trong máy tính hay các thiết bị chơi game không cầm tay như PlayStation, Xbox thường đều nằm trong RAM động (DRAM). Trong khi đó thì những phần khác của máy tính thì bộ nhớ đều hầu hết chứa trong SRAM
+Hầu hết hình dạng của DRAM là hộp nhựa chữ nhật màu đen bằng epoxy
+
+
+=== Dạng cơ bản ===
+DRAM được sản xuất dưới dạng một mạch điện tích hợp gắn với vành bên ngoài bằng nhựa có chân kim loại để kết nối và kiểm soát các loại tín hiệu. Khi mới sử dụng, DRAM dạng mạch tích hợp thường được cài đặt thẳng vào mạch chủ hay mạch mở rộng ISA nhưng về sau nó được thiết kết thành các chip đa công dụng (DIMMs, SIMMs,....). Một vài mẫu chính như
+DRAM Chip
+Dạng hai đường kẻ song song (DIP)
+Mẫu bộ nhớ DRAM
+Pin đơn (SIPP)
+Bộ nhớ đơn (SIMM)
+Bộ nhớ đôi (DIMM)
+Bộ nhớ Rambus (RIMM). Gần như tương tự với bộ nhớ DIMM nhưng được gọi la RIMM và số lượng ô nhớ của nó
+Bộ nhớ đôi dạng nhỏ (SO-DIMM).Bằng một nữa dung lượng của DIMM
+Bộ nhớ đôi Rambus dạng nhỏ (SO-RIMM). Cũng tương tự như RIMM nhưng nhỏ hơn RIMM, thường được dùng trong laptop
+
+Mẫu RAM có ngăn xếp và không có ngăn xếp
+RAM có ngăn xếp gồm hai chip RAM đặt chồng lên nhau. Nó sẽ giúp những mẫu RAM lớn có thể hoạt động dù xài những tấm siliocon mỏng và rẻ. RAM có ngăn xếp sử dụng nhiều năng lượng hơn và có xu hướng nóng hơn khi sử dụng so với loại RAM không có ngăn xếp
+RAM ngăn xếp đang ngày càng được ít sử dụng bởi hiện nay TSV ra đời vớ nhiều chức năng, chứa nhiều dữ liệu và chạy nhanh hơn
+
+
+=== Các mẫu RAM phổ biến ===
+DIP 16-pin (DRAM chip)
+SIPP 30-pin (thường dùng cho FPRAM)
+SIMM 30-pin (thường dùng cho FPRAM)
+SIMM 72-pin (thường xuất dữ liệu ra DRAM (EDO DRAM) nhưng FPRAM thì không được sử dụng phổ biến)
+DIMM 168-pin (SDRAM)
+DIMM 184-pin (DDR SDRAM)
+RIMM 184-pin (RDRAM)
+DIMM 240-pin (DDR2 SDRAM and DDR3 SDRAM)
+DIMM 288-pin (DDR4 SDRAM)
+Các mẫu SO-DIMM DRAM:
+72-pin (32-bit)
+144-pin (64-bit) dùng cho SO-DIMM SDRAM
+200-pin (72-bit) dùng cho SO-DIMM DDR SDRAM và SO-DIMM DDR2 SDRAM
+204-pin (64-bit) dùng cho SO-DIMM DDR3 SDRAM
+260-pin dùng cho SO-DIMM DDR4 SDRAM
+
+
+=== Độ lớn bộ nhớ của DRAM ===
+Bộ nhớ của DRAM luôn ở dưới dạng lũy thừa của hai. Chẳng hạn SDRAM DIMM chứa 512 MiB (mebibytes) =512 × 220 bytes = 229 bytes = 536,870,912 bytes. Hay 2 GB SDRAM module chứa 2 GiB (gibibytes) = 2 × 230 bytes = 231 bytes = 2,147,483,648 bytes.
+
+
+== Bảo mật ==
+Mặc dù RAM động thường được sử dụng khi cung cấp nặng lượng và hay thay đổi sau một khoảng thời gian ngắn (thường là 64ms) nhưng các tụ điện trong RAM động thường có xu hướng nhớ dữ liệu trong một khoảng thời gian lâu hơn và với một nhiệt độ thấp. Dưới một số điều kiện phần lớn dữ liệu trong DRAM có thể được khôi phục cho dù nó được không được làm mới trong một vài phút.
+Chức nặng này có thể đánh lừa các hệ thống bảo mật và khôi phục dữ liệu chứa trong bộ nhớ mặc dù cho rằng dữ liệu đó đã bị xóa (như do vần đề cúp điện nếu chúng ta khởi động lại máy làm nguội con chip đồng thời chuyển đến một máy tính khác). Một cuộc tấn công như thế có thể đánh lừa việc mã hóa của hệ thống trong máy. Chẳng hạn như các nguồn mở TrueCrypt, Microsoft's BitLocker Drive Encryption và Apple's FileVault. Những cuộc tấn công như vậy được gọi là "khởi động và làm nguội ".
+
+
+== So sánh với các loại bộ nhớ khác ==
+
+
+== Xem thêm ==
+RAM
+RAM tĩnh
+
+
+== Tham khảo ==

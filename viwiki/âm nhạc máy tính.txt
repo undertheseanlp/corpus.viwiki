@@ -1,0 +1,23 @@
+Âm nhạc máy tính là hình thức sử dụng công nghệ để sáng tác, hỗ trợ các nhạc sĩ, thậm chí lập trình để máy tính có thể tự tạo nên các sản phẩm âm nhạc với các phần mềm chuyên dụng. Khái niệm này bao gồm một số lý thuyết và áp dụng những phần mềm công nghệ vào các khái niệm âm nhạc cơ bản nhằm tạo nên âm thanh tổng hợp, nhịp đếm kỹ thuật số, thiết kế hòa âm, hiệu ứng âm thanh phát, âm học và thẩm âm học. Âm nhạc máy tính chính là nền móng cho sự ra đời của âm nhạc điện tử và những thử nghiệm và cải tiến đầu tiên của các nhạc cụ điện tử vào cuối thế kỷ 20.
+Tới thập niên 2000, với sự phổ biến rộng khắp của máy tính cá nhân tiện nghi tốc độ xử lý cao, cùng sự phát triển của kỹ thuật phòng thu và thu âm kỹ thuật số từ Garageband tới Protools, khái niệm này được nhắc tới để miêu tả âm nhạc được tạo nên từ công nghệ kỹ thuật số.
+
+
+== Tham khảo ==
+
+
+== Thư mục ==
+Ariza, C. 2005. "Navigating the Landscape of Computer-Aided Algorithmic Composition Systems: A Definition, Seven Descriptors, and a Lexicon of Systems and Research." In Proceedings of the International Computer Music Conference. San Francisco: International Computer Music Association. 765-772. Internet: http://www.flexatone.net/docs/nlcaacs.pdf
+Ariza, C. 2005. An Open Design for Computer-Aided Algorithmic Music Composition: athenaCL. Ph.D. Dissertation, New York University. Internet: http://www.flexatone.net/docs/odcaamca.pdf
+Berg, P. 1996. "Abstracting the future: The Search for Musical Constructs" Computer Music Journal 20(3): 24-27.
+Boulanger, Richard biên tập (ngày 6 tháng 3 năm 2000). The Csound Book: Perspectives in Software Synthesis, Sound Design, Signal Processing, and Programming. The MIT Press. tr. 740. ISBN 0-262-52261-6. Truy cập ngày 3 tháng 10 năm 2009. 
+Chadabe, Joel. 1997. Electric Sound: The Past and Promise of Electronic Music. Upper Saddle River, New Jersey: Prentice Hall.
+Chowning, John. 1973. "The Synthesis of Complex Audio Spectra by Means of Frequency Modulation". Journal of the Audio Engineering Society 21, no. 7:526–34.
+Collins, Nick (2009). Introduction to Computer Music. Chichester: Wiley. ISBN 978-0-470-71455-3. 
+Dodge, Charles; Jerse (1997). Computer Music: Synthesis, Composition and Performance. Thomas A. (ấn bản 2). New York: Schirmer Books. tr. 453. ISBN 0-02-864682-7. 
+Doornbusch, P. 2015. "A Chronology / History of Electronic and Computer Music and Related Events 1906 - 2015" http://www.doornbusch.net/chronology/
+Heifetz, Robin (1989). On the Wires of Our Nerves. Lewisburg Pa.: Bucknell University Press. ISBN 0-8387-5155-5. 
+Manning, Peter (2004). Electronic and Computer Music . Oxford Oxfordshire: Oxford University Press. ISBN 0-19-517085-7.  Bảo trì CS1: Văn bản dư (link)
+Perry, Mark, and Thomas Margoni. 2010. "From Music Tracks to Google Maps: Who Owns Computer-Generated Works?". Computer Law and Security Review 26: 621–29.
+Roads, Curtis (1994). The Computer Music Tutorial. Cambridge: MIT Press. ISBN 0-262-68082-3. 
+Supper, M. 2001. "A Few Remarks on Algorithmic Composition." Computer Music Journal 25(1): 48-53.
+Xenakis, Iannis (2001). Formalized Music: Thought and Mathematics in Composition. Harmonologia Series No. 6. Hillsdale, NY: Pendragon Pr. ISBN 1-57647-079-2.

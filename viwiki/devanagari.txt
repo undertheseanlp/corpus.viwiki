@@ -1,0 +1,72 @@
+Devanagari, từ ghép của "deva" (देव) và "nágari" (नगर)), cũng được gọi là Nagari (nguyên là tên của hệ thống chữ viết là khởi nguồn của Devanagari) là một hệ thống chữ cái của Ấn Độ và Nepal. Hệ thống chữ viết này được ghi từ trái sang phải, không có các chữ cái đặc biệt, và được công nhận (cùng với hầu hết các chữ viết Bắc Ấn khác, như Gujarat và Oriya) là những loại chữ viết có đầy đủ các chữ cái. Devanagari là thứ chữ viết chính dùng để ghi lại tiếng Hindi chuẩn, tiếng Marath và tiếng Nepal. Từ thế kỷ 19, nó trở thành kiểu chữ viết thông dụng nhất để viết tiếng Phạn. Devanagari cũng được sử dụng trong tiếng Bhojpur, tiếng Gujarat, tiếng Pahar (Garhwal và Kumaon), Konkan, Magah, Maithili, Marwar, Bhili, Newar, Santhal, Tharu và thỉnh thoảng trong tiếng Sindh, tiếng Dogri, tiếng Sherpa và tiếng Kashmir. Đây cũng là kiểu chữ viết trước đây của tiếng Gujarat.
+
+
+== Nguồn gốc ==
+Devanagari thuộc Hệ chữ viết Bà la môn, được sử dụng tại Ấn Độ, Nepal, Tây Tạng và Đông Nam Á. Đây là hậu duệ của chữ Gupta, cùng với Siddham và Sharada. Biến thể phía đông của Gupta được gọi là Nagari xuất hiện lần đầu từ thế kỷ thứ 8; khoảng năm 1200 chúng dần dần thay thế Siddham, vốn là thứ chữ dùng để truyền bá Phật giáo tại Đông Á; và Shara, loại chữ này hiện được dùng một cách song song tại Kashmir. Phiên bản đầu tiên của Devanagari có thể nhìn thấy trên cấu khắc Kutila của Bareilly trong thời kỳ Vikram Samvat 1094 (khoảng năm 992), thể hiện rõ việc xếp các chữ cái theo một đường nằm ngang để tạo thành một từ.
+Việc sử dụng tên gọi Devanagari chỉ mới xuất hiện gần đây và thuật ngữ cũ Nagari vẫn được sử dụng rộng rãi. Sự gia tăng của việc sử dụng thuật ngữ Devanagari có thể liên quan tới việc sử dụng loại chữ này để viết các bản văn tiếng Phạn. Việc này đã làm tăng thêm mối liên kết giữa Devanagari và tiếng Phạn và qua đó Devanagari hiện được gọi rộng rãi là chữ Phạn; tuy nhiên, trước thời thuộc địa chữ Phạn không hề có chuẩn chữ viết và được viết bằng bất kỳ thứ chữ nào quen thuộc với cư dân địa
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+Masica, Colin (1991), The Indo-Aryan Languages, Cambridge: Cambridge University Press, ISBN 9780521299442 .
+Snell, Rupert (2000), Teach Yourself Beginner's Hindi Script, Hodder & Stoughton, ISBN 9780071419840 .
+Salomon, Richard (2003), “Writing Systems of the Indo-Aryan Languages”, trong Cardona, George; Jain, Dhanesh, The Indo-Aryan Languages, Routledge, tr. 67–103, ISBN 9780415772945 .
+Verma, Sheela (2003), “Magahi”, trong Cardona, George; Jain, Dhanesh, The Indo-Aryan Languages, Routledge, tr. 498–514, ISBN 9780415772945 .
+Wikner, Charles (1996), A Practical Sanskrit Introductory .
+
+
+== Liên kết ngoài ==
+
+
+=== Thông tin về Devanagari ===
+Omniglot.com—Devanāgarī Alphabet, including classical/northern variant forms of अ (a) and related letters, झ (jh), ण (ṇ)
+AncientScripts.com—Devanāgarī Intro
+Hindi/Devanāgarī Script Tutor
+IS13194:1991 standard for "ISCII"
+Unicode Chart for Devanāgarī
+
+
+=== Phần mềm ===
+Omkarananda-ashram.org, Itranslator Free program to convert Itrans to Devanagari. Uses 16-bit Unicode-compatible fonts. Works only on Windows 2000 / XP / Server 2003.
+DMJoshi.org, To write Devanagari or Gujarati Script Devised by Dayashankar Joshi
+Merosoft.webs.com, Nepali Font Converter/Deconverter 0.3—Java Based Nepali Font Converter/Deconveter. Supports Preeti, Kantipur & Jaga—FontConverter 0.3 is the software based on java language and is used to convert non-Unicode to Unicode. This software is basically focused on Devanagari non-Unicode fonts (only for Nepali language). It works well on Preeti, Kantipur and Jaga HImali.
+Bhashaindia.com—Indic script IMEs (keyboard layouts) and other Indic-language software by Microsoft Windows.
+Devendraparakh.port5.com, HindiWriter—The Phonetic Hindi Writer with AutoWord lookup and Spellcheck for MS Word and OpenOffice.org for Windows.
+Baraha.com—Devanāgarī Input using English Keyboard
+Lipikaar.com—The indic script typing tool with support for Devanāgarī through a Windows desktop executable or Firefox Extension.
+[1]—Devawriter, comprehensive Devanagari input for Windows and Macintosh.
+
+
+==== Font ====
+Hundreds of Devanagari fonts—free download
+Unicode Compliant Open Type Fonts including ligature glyphs (TDIL Data Centre)
+Unicode Devanagari font gallery
+Download Free Marathi Fonts
+Nepali Devanagari fonts free download
+
+
+==== Tổng hợp ====
+A compilation of Tools and Techniques for Hindi Computing
+Technical information for Hindi Users srijangatha.com Hindi Portal
+Resources for typing in the Nepali language in Devanāgarī
+Resources for viewing and editing Devanāgarī
+Unicode support for Web browsers
+Creating and Viewing Documents in Devanāgarī
+
+
+==== Cách nhập dữ liệu ====
+Microsoft BhashaIndia—Indic Language Computing resources
+Online tool for English (Roman Script) to Hindi (Devanagari script) Transliteration by CDAC Mumbai
+Online tools for typing in Unicode Devanagari for the Nepali language
+Romanized Nepali Unicode Keyboard developed by OOPSLite Technologies
+IndiX, Indian language support for Linux, a site by the Indian National Centre for Software Technology
+Devanāgarī Tools: Wiki Sandbox, Devanāgarī Mail, Yahoo/Google Search & Devanāgarī Transliteration
+Online Latin to Devanāgarī transliteration tool
+Devawriter & Devawriter Pro digitisation tools.
+
+
+==== Bàn phím Devanagari ====
+TVS Devanagari Hindi keyboard with details of keyboard layout, installation instructions for Windows/Linux, shops and online purchase
+Intex Technologies Swadeshi bilingual Hindi keyboard, keyboard layout is Hindi Typewriter

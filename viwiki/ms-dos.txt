@@ -1,0 +1,20 @@
+MS-DOS /ˌɛmɛsˈdɒs/ EM-es-DOSS-' (viết tắt của Microsoft Disk Operating System, Hệ điều hành đĩa từ Microsoft) là hệ điều hành của hãng phần mềm Microsoft. Đây là một hệ điều hành có giao diện dòng lệnh (command-line interface) được thiết kế cho các máy tính họ PC (Personal Computer). MS-DOS đã từng rất phổ biến trong suốt thập niên 1980, và đầu thập niên 1990, cho đến khi Windows 95 ra đời.
+
+
+== Lịch sử ==
+Phiên bản DOS đầu tiên ra đời vào tháng 8 năm 1981, với tên chính thức là PC DOS 1.0. Tên gọi MS-DOS chỉ được biết đến kể từ tháng 5 năm 1982 (MS-DOS 1.25). Sau đó, Microsoft lần lượt cho ra đời các phiên bản tiếp theo của MS-DOS song song cùng với PC-DOS.
+MS-DOS 5.0 ra đời vào tháng 6 năm 1991. MS- DOS 6.22 ra đời tháng 6 năm 1994 là bản cuối cùng được chạy như một hệ điều hành độc lập (standalone version). Sau khi Windows 95 ra đời vào năm 1995, các phiên bản MS-DOS tiếp theo đều được phát hành đi kèm với Windows, chẳng hạn như MS-DOS 7.0 (8/1995) là nền để cho Windows 95 khởi động, và MS-DOS 8.0 đi kèm với Windows ME. Đây cũng là phiên bản cuối cùng của hệ điều hành này.
+
+
+== Đặc điểm ==
+MS-DOS là hệ điều hành đơn nhiệm. Tại mỗi thời điểm chỉ thực hiện một thao tác duy nhất. Nói một cách khác, MS-DOS chỉ cho phép chạy một ứng dụng duy nhất tại mỗi thời điểm. Điều này khác hẳn với Windows, vốn là một hệ điều hành đa nhiệm (multi-tasking) - người dùng có thể thi hành nhiều ứng dụng cùng một lúc. Mặc dù vậy, về sau người ta đã thiết kế một số ứng dụng chạy thường trú (TSR, Terminate and Stay Resident) cho MS-DOS. Các ứng dụng này có thể chạy trên nền của các ứng dụng khác, khiến người sử dụng có thể thực hiện nhiều thao tác cùng lúc. Ở Việt Nam, phần mềm chạy thường trú trên MS-DOS rất phổ biến là một chương trình hỗ trợ gõ tiếng Việt, VietRes.
+Một số môi trường làm việc đa nhiệm (multi-tasking environment) như Deskmate hay Desqview đã được thiết kế để chạy trên DOS. Những phiên bản Windows đầu tiên cũng đều phải khởi động từ dấu nhắc DOS. Tuy nhiên, ngày nay, MS-DOS đã trở nên ít phổ biến hơn. Nó chỉ còn tồn tại trong các phiên bản Windows sau này (2000, XP) dưới dạng một ứng dụng cho phép người dùng kích hoạt chế độ dòng lệnh (command prompt), và thường chỉ được dùng để thực hiện những tác vụ liên quan mật thiết đến hệ thống mà giao diện đồ họa của Windows không làm được.
+
+
+== Quản lý ổ cứng ==
+Quá trình định dạng đĩa từ (Đĩa mềm hay đĩa cứng logic) trong MS-DOS sẽ chia không gian đĩa đó ra làm 2 phần cơ bản là: Vùng hệ thống (System Area) và vùng dữ liệu (Data Area). Đồng thời hệ thống ghi các thông tin cần thiết vào vùng hệ thống để chuẩn bị cho việc lưu trữ và quản lý dữ liệu sau này.
+Vùng dữ liệu: gồm các block (cluster) có kích thước bằng nhau và được đánh địa chỉ (12 hay 16 bit)để phân biệt. Đây chính là các cluster trên đĩa.
+Vùng hệ thống: Bao gồm các thành phần như Boot Sector; bảng FAT1; bảng FAT2; Root Directory(RD). chứa các chương trình, các thông tin liên quan đến file, directory để giúp hệ điều hành quản lý các file và directory sau này.
+
+
+== Tham khảo ==

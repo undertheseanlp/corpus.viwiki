@@ -1,0 +1,75 @@
+Windows Millennium Edition, hay Windows ME (phát âm, /ˌɛm ˈiː/ em-ee), là một hệ điều hành giao diện đồ hoạ được phát hành ngày 14 tháng 9 năm 2000 bởi Microsoft và là hệ điều hành cuối cùng trong dòng Windows 9x. Nó được phát hành 7 tháng sau Windows 2000, 2 năm sau Windows 98 và 1 năm trước Windows XP. Nó được hỗ trợ cho đến hết ngày 11 tháng 7 năm 2006.
+Windows ME là sản phẩm kế tiếp Windows 98 và giống như Windows 98, nó hướng đến người dùng gia đình. Windows ME đi kèm với Internet Explorer 5.5, Windows Media Player 7, và phần mềm Windows Movie Maker, có các chức năng biên tập phim cơ bản và được thiết kế cho người dùng gia đình. Microsoft cũng nâng cấp giao diện người dùng và Windows Explorer trong Windows ME bằng giao diện và Windows Explorer lần đầu được giới thiệu ở Windows 2000, hệ điều hành dành cho người dùng văn phòng ra mắt 7 tháng trước. Windows ME có thể nâng cấp lên Internet Explorer 6 SP1 (nhưng không thể nâng cấp lên SP2 (SV1) hoặc Internet Explorer 7) và Windows Media Player 9. Microsoft .NET Framework đến phiên bản 2.0 được hỗ trợ trong Windows ME, nhưng phiên bản 2.0 SP1, 3.x, và cao hơn thì không. Office XP là phiên bản Microsoft Office cuối cùng tương thích với Windows 9x nói chung, trong đó có Windows ME.
+Windows ME là sự tiếp nối của dòng Windows 9x, nhưng hạn chế truy cập tới chế độ MS-DOS thực để làm giảm thời gian khởi động. Đây là một trong những thay đổi không hay nhất, vì những ứng dụng chạy ở chế độ này không thể chạy trong Windows ME, mặc dù có thể khởi động vào chế độ này bằng đĩa mềm.
+
+
+== Những tính năng mới và được cải tiến ==
+
+
+=== Giao diện người dùng ===
+Windows ME có một vài cải thiện về giao diện người dùng, được kế thừa từ Windows 2000, ví dụ như các bảng chọn và thanh công cụ Windows Explorer được tùy chỉnh, tính năng tự động hoàn thành trong các hộp tìm kiếm và thanh địa chỉ, hiển thị các tooltip cho các lối tắt (shortcut), sắp xếp theo tên trong các menu, thanh chứa các địa chỉ thông dụng trong hộp thoại, một số giao diện từ gói Plus! của Windows 98, các biểu tượng 16 bit màu trong vùng thông báo của thanh tác vụ.
+
+
+=== Đa phương tiện ===
+Windows Movie Maker, một chương trình biên tập video đơn giản, cho phép lưu dưới định dạng Windows Media.
+Windows Media Player 7 hỗ trợ nhiều tính năng mới như dò đài, chỉ dẫn từ WindowsMedia.com, các giao diện mới.
+Windows DVD Player hỗ trợ xem DVD không cần thông qua thẻ.
+Image Preview giúp xem trước các tập tin ảnh có định dạng.BMP,.DIB,.EMF,.GIF,.JPEG,.PNG,.TIF,.WMF. Thư mục Hình ảnh của tôi (My Pictures) cũng tích hợp tính năng xem trước ảnh.
+Trò chơi: Windows ME đi kèm với Microsoft DirectX 7.1 và nhiều trò chơi mới: Internet Backgammon, Internet Checkers, Internet Hearts, Internet Reversi, Internet Spades, Spider Solitaire và Pinball. Phiên bản DirectX cuối cùng hỗ trợ Windows ME là DirectX 9.0c.
+
+
+=== Chức năng hệ thống ===
+System Restore giúp người dùng đưa hệ thống trở về một trạng thái đã sao lưu từ trước đó.
+System File Protection đảm bảo các tập tin hệ thống không bị sửa đổi trái phép.
+Compressed Folders: Xem một tập tin nén.ZIP dưới dạng một thư mục, đồng thời có thể giải nén các tập tin chứa trong đó, hoặc tạo các tập tin nén mới.
+Help and Support: Tiện ích hỗ trợ người dùng với giao diện mới, thay cho các phiên bản HTML trong Windows 98 và 2000.
+Automatic Updates tự động cập nhật các bản sửa lỗi và phần mềm hệ thống từ trang web Windows Update.
+System Configuration Utility cho phép người dùng lấy các tập tin hệ thống từ đĩa cài đặt Windows ME để thay thế các tập tin bị hư hỏng.
+SCANDISK được chạy ngay trong Windows sau khi tắt máy không đúng cách.
+Internet Explorer phiên bản 5.5 với tính năng xem trước khi in.
+
+
+=== Chức năng hỗ trợ cho người khuyết tật ===
+On-Screen Keyboard là một bàn phím ảo trên màn hình, dùng để nhập liệu bằng chuột.
+ClickLock (kéo thả không cần nhấn giữ chuột), ẩn con trỏ khi gõ phím, hiển thị vị trí con trỏ khi ấn Ctrl.
+Con trỏ ký tự có thể được điều chỉnh cho dày hơn, giúp nó trở nên dễ nhìn hơn.
+Nhiều tùy chọn tiếp cận hơn trong các ứng dụng Máy tính (Calculator) và Kính lúp (Magnifier).
+
+
+== Các tính năng bị loại bỏ ==
+Chế độ DOS thực: Đây là thay đổi được biết đến nhiều nhất trong Windows ME. Theo Microsoft, việc loại bỏ chế độ này giúp cho Windows ME khởi động nhanh hơn. Người dùng có thể sử dụng đĩa cài đặt Windows ME hoặc đĩa khởi động Windows ME để truy cập chế độ DOS thực.
+Một số tính năng dành cho người dùng doanh nghiệp bị loại bỏ, vì Windows ME được thiết kế để sử dụng trong gia đình.
+
+
+== Chỉ trích ==
+Windows ME đã bị nhiều người dùng chỉ trích vì sự thiếu ổn định. Thậm chí, một bài viết trên tạp chí PC World còn đưa Windows ME vào vị trí thứ 4 trong danh sách 25 sản phẩm công nghệ tồi nhất mọi thời đại. Bài viết đã nói rằng "Không lâu sau khi Windows ME xuất hiện vào cuối năm 2000, nhiều người dùng đã báo cáo vấn đề khi cài đặt, chạy Windows ME, làm Windows ME gặp lỗi với phần mềm và phần cứng, và kể cả những lỗi làm cho hệ thống ngừng hoạt động."
+Tính năng khôi phục hệ thống (System Restore) đôi khi có thể khôi phục cả những virus, phần mềm độc hại mà trước đó người dùng đã gỡ bỏ, vì cách theo dõi các thay đổi của tính năng này còn khá đơn giản. Người dùng có thể gỡ bỏ phần mềm độc hại bằng cách tắt chức năng này, nhưng sẽ bị mất tất cả các điểm khôi phục hệ thống được tạo ra trước đó.
+System Restore cũng có một lỗi khiến cho nó đánh dấu sai các điểm khôi phục được tạo ra sau ngày 8/9/2001, dẫn đến việc quá trình khôi phục bị thất bại. Microsoft đã đưa ra một bản cập nhật để sửa lỗi này.
+
+
+== Liên hệ với các phiên bản Microsoft Windows khác ==
+Windows ME được ra mắt sau Windows 2000, và sau đó Windows XP đã thay thế cả hai hệ điều hành này. Windows XP được xây dựng dựa trên nền tảng Windows NT và bao gồm các tính năng của cả Windows 2000 và ME. Tất cả các hỗ trợ cho Windows ME kết thúc vào ngày 11/7/2006 cùng với Windows 98. Theo Microsoft, đây là những phiên bản Windows đã lỗi thời và sử dụng chúng có thể gây ra nhiều nguy hiểm về bảo mật cho người dùng.
+Nhiều ứng dụng cũ, đặc biệt là các trò chơi, chỉ có thể chạy được trên Windows ME mà không chạy được trên Windows 2000. Tuy nhiên với chế độ tương thích (Compatibility Mode) trên Windows XP, người dùng có thể sử dụng được các phần mềm trên.
+Windows ME không có bất kỳ gói dịch vụ nào, và là hệ điều hành Windows cuối cùng được xây dựng trên nhân Windows 9x và MS-DOS.
+
+
+== Yêu cầu hệ thống ==
+
+
+=== Cấu hình ===
+Vi xử lý: Pentium 150 MHz
+Ổ cứng: 320 MB
+RAM: 32 MB
+
+
+=== Cấu hình đề nghị ===
+Vi xử lý: Pentium II 300 MHz
+Ổ cứng: 2 GB
+RAM: 64 MB
+
+
+=== Giới hạn dung lượng RAM vật lý ===
+Windows ME hỗ trợ nhiều nhất 1.5 GB RAM.
+
+
+== Tham khảo ==

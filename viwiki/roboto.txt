@@ -1,0 +1,39 @@
+Roboto là bộ phông chữ không chân (sans-serif) loại neo-grotesque phát triển bởi Google để trở thành phông chữ hệ thống cho hệ điều hành Android.
+Google miêu tả đây là một phông chữ "hiện đại, dễ dàng tiếp cận" và "giàu xúc cảm". Toàn bộ họ phông chữ Roboto được cấp phép dưới giấy phép Apache và chính thức cho phép tải xuống miễn phí từ ngày 12 tháng 1 năm 2012, trên website Android Design vừa mới hoạt động. Bộ phông này bao gồm sáu kiểu in đậm (weight) theo mức độ đậm dần là Thin, Light, Regular, Medium, Bold và Black cùng với kiểu dáng in xiên (oblique style) kèm theo. Roboto cũng bao gồm kiểu dáng in đặc (condensed style) theo ba mức độ in đậm là Light, Regular và Bold, tất nhiên là cũng kèm theo kiểu dáng in xiên.
+
+
+== Ngôn ngữ hỗ trợ ==
+Roboto hỗ trợ những ký tự Latin, Hy Lạp (một phần) và Kirin. Trên Android, phông chữ Noto được sử dụng để hiển thị những ngôn ngữ mà Roboto không hỗ trợ, bao gồm chữ Hán (phồn thể và giản thể), Nhật, Hàn, Thái và Hindi.
+
+
+== Phát triển ==
+
+Roboto được thiết kế hoàn toàn nội bộ tại Google bởi Christian Robertson, nhà thiết kế giao diện của Google, ông là người từng phát hành phông Ubuntu Titling thông qua xưởng in chữ Betatype. Roboto được phát hành lần đầu tiên vào năm 2011 cùng với phiên bản Android 4.0 "Ice Cream Sandwich". So với phông chữ hệ thống Android trước đó là Droid–một phông không chân loại nhân văn (sans-serif humanist), thì phông Roboto có một thiết kế grotesque mạnh mẽ hơn với kiểu dáng in xiên ngã hơn kiểu dáng in nghiêng thực sự (true italic style), và một phạm vi rộng lớn những mức độ in đậm.
+
+
+=== Thiết kế lại ===
+Ngày 25 tháng 6 năm 2014, Matias Duarte công bố tại sự kiện Google I/O rằng phông chữ Roboto đã được tái thiết kế đáng kể trong phiên bản Android 5.0 "Lollipop". Những thay đổi quan trọng nhất có thể thấy trong các nét chữ (glyph): B (co lại), R, P, a (mở rộng bụng chữ), D, O, e, g (vát cong), k và những số: 1, 5, 6, 7 và 9. Bộ dấu chấm và dấu chấm đỉnh (trong ký tự i, j) đã chuyển đổi từ dạng chấm vuông sang chấm tròn.
+
+
+== Đánh giá ==
+Phông chữ Roboto nhận được những đánh giá đa dạng khi nó phát hành. Joshua Topolsky, chủ bút của cổng tin tức và truyền thông trực tuyến The Verge, miêu tả phông chữ này "sạch sẽ và hiện đại, nhưng không quá vị lai – không phải là một phông chữ khoa học viễn tưởng [dẫn đầu xu thế]". Còn nhà bình luận typography Stephen Coles của trang typographica.org cho rằng phiên bản đầu tiên của Roboto như "một Frankenfont bốn đầu", mô tả nó như một "hỗn hợp" của nhiều phong cách typography khác nhau mà không hỗ trợ hiệu quả cho nhau. Những chuyên gia thiết kế typography khác chỉ ra một lỗi sai rõ ràng trong các nét của dấu thanh, trong khi John Gruber chỉ trích Roboto là một phiên bản "ăn cướp" của phông Helvetica.
+
+
+== Sử dụng ==
+Bên cạnh là phông chữ tiêu chuẩn hệ thống cho hệ điều hành Android, thì đến năm 2013, Roboto cũng là phông chữ mặc định trong các dịch vụ khác của Google như Google+, Google Play, YouTube và Google Maps.
+Roboto Bold là phông mặc định trong game engine Unreal 4.
+Đồng thời, Roboto cũng được loan báo sẽ trở thành phông chữ mặc định trong Kodi, một phần mềm phát media miễn phí và nguồn mở.
+
+
+== Roboto Slab ==
+
+Roboto Slab là bộ phông chữ chân lớn (slab serif) dựa trên Roboto. Nó được ra mắt vào tháng 3 năm 2013, đây là phông mặc định trong dịch vụ ghi chú Google Keep của Google. Bộ phông này gồm có bốn mức độ in đậm theo hướng tăng dần là: Thin, Light, Regular và Bold. Không giống như Roboto, Roboto Slab không kèm theo kiểu dáng in xiên.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Trang tải xuống chính thức phông Roboto
+Trang tải xuống chính thức phông Roboto Condensed
+Trang tải xuống chính thức phông Roboto Slab

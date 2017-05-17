@@ -1,0 +1,148 @@
+Gây mê là các phương pháp để ngăn cho bệnh nhân có cảm giác đau trên một phần hay toàn bộ cơ thể, để giúp thực hiện các phương pháp chữa bệnh có thể gây đau đớn như phẫu thuật.
+
+
+== Lịch sử ==
+Trước năm 1846, phẫu thuật thường không nhiều, do hiểu biết về sinh lý bệnh & chỉ định để điều trị bằng phẫu thuật còn sơ đẳng. Kỹ thuật tiệt trùng & ngăn ngừa nhiễm trùng vết mổ còn chưa được biết đến, cộng thêm sự chưa làm mất cảm giác được hoàn toàn đã là một trở ngại chính. Vì tất cả những yếu tố này mà mổ thì ít, mà số tai biến hoặc người bệnh chết trong mổ lại cao. Do đặc điểm đó, phẫu thuật có xu hướng tự nhiên chỉ là mổ cấp cứu, ví dụ, cắt cụt chi khi gãy hở hoặc dẫn lưu ổ áp-xe. Mổ lớn với kỹ thuật cẩn thận không thể tiến hành trên bệnh nhân bởi không làm giảm đau được thích đáng .
+Một vài phương thức làm giảm đau cho phẫu thuật đã được dùng (như cho uống rượu say, dùng lá hasit & dẫn xuất của thuốc phiện). Thỉnh thoảng phương pháp vật lý cũng được sử dụng để làm giảm đau (như gói chân tay trong băng hoặc làm thiếu máu với một garô). Làm mất tri giác thì bằng cách đánh mạnh vào đầu hoặc bóp cổ cho nghẹt mạch máu để làm mê man, dĩ nhiên phải trả giá khá đắt. Phương pháp phổ biến nhất thường được sử dụng để đạt được yên tĩnh trong khi mổ đơn giản là dùng sức mạnh để kiềm chế bệnh nhân 
+W.T. G. Morton, một nha sĩ Boston (còn đang là một sinh viên y khoa), đã tìm hiểu những hiệu quả gây mê của ete, đánh giá nó có nhiều hứa hẹn, đã thực hành trên động vật và sau đó trên người. Cuối cùng, ông thỉnh cầu sự trình diễn để chấp nhận được sử dụng thuốc một cách công khai như một nhà gây mê phẫu thuật vào ngày 16 tháng 10 năm 1846. Henry J. Bigelow, một nhà phẫu thuật nổi tiếng có mặt trong buổi trình diễn đã bình luận, "Sự kiện tôi đã thấy hôm nay sẽ lan đi toàn thế giới". Morton được công nhận người đầu tiên phát minh trị liệu gây mê.
+Giai đoạn sau năm 1846, ete đã là một thuốc mê lý tưởng đầu tiên. Nó hỗ trợ cả hô hấp và tuần hoàn - là những đặc tính cốt tử ở thời kỳ sinh lý học con người còn chưa được hiểu biết đầy đủ. Thuốc mê tiếp theo được sử dụng rộng rãi là Clorofoc; rồi Nitrous Oxyt (mà ngày nay vẫn được sử dụng rộng rãi), và Cyclopropane có lẽ là thuốc được sử dụng rộng nhất trong gây mê cho khoảng 30 năm tiếp theo.
+Tuy nhiên, với hoàn cảnh ngày càng tăng nguy cơ cháy-nổ trong phòng mổ; Halothane, một thuốc gây mê không cháy nổ đã được giới thiệu trong thực hành lâm sàng vào năm 1956; nó đã cách mạng hóa phương thức gây mê hô hấp. Hầu hết những thuốc mới hơn đều được làm theo mẫu của Halothane.
+Các thuốc giãn cơ (neuromuscular blocking agents) như Curare, với hình thức thô đã được thổ dân Nam Mỹ dùng như một thuốc độc tẩm vào mũi tên của họ. Vào thập kỷ 1940, các nhà gây mê đã sử dụng Curare để làm giãn cơ - điều mà trước đây chỉ đạt được với mê ở mức sâu. Hơn 6 năm sau nhiều thuốc tổng hợp thay thế đã được sử dụng trên lâm sàng.
+Năm 1935, Lundy chứng minh tác dụng lâm sàng hữu ích của Thiopental, một thiobarbiturat tác dụng nhanh đã được sử dụng như một thuốc mê đơn độc, nhưng những liều đủ hiệu quả mê lại làm suy sụp trầm trọng tuần hoàn, hô hấp & hệ thần kinh... Dĩ nhiên, thiopental đến nay vẫn được chấp nhận như là một thuốc dùng để khởi mê nhanh chóng trong các phương thức gây mê.
+Các thuốc được giới thiệu trong những năm gần đây khá nhiều như: Etomidate, isoflurane, Ketamine (Corssen & Domino,1966), propofol (Key,1977)... Nhưng thuốc mê hơi mới với phương thức "Low flow"; phương thức sử dụng các opioids tác dụng ngắn truyền hằng định trong tĩnh mạch (với hoặc không dùng thuốc mê hơi hiệu lực mạnh) & Sự phối hợp như một phương thức gây mê hoàn toàn chỉ dùng các thuốc không bốc hơi (Total intravenous Anesthesia – TIVA / gây mê tĩnh mạch theo nồng độ - AIVOC), là một xu hướng được nghiên cứu, ứng dụng ngày một rộng rãi vì những ưu điểm (hiệu lực, an toàn, môi trường...) & nhờ các tiến bộ khoa học công nghệ áp dụng rộng rãi trong y tế đang là một phát triển lý thú hiện thời trong thực hành gây mê.
+
+
+=== Việt Nam ===
+Trước 1954, ở vùng kháng chiến, đa số mổ với gây tê tại chỗ bằng novocaine, ở bệnh viện hậu phương có mê ether, cloroform mask hở hoặc mask ombredane, mổ sâu dùng thêm Morphine mua ở vùng tạm chiếm. 1952 Dược sĩ Lê Quang Toàn cục quân y sản xuất được chloroform. 1953-1954 do thu được chiến lợi phẩm nên đã sử dụng gây mê tĩnh mạch bằng thiopental (nesdonal) đơn thuần, nhưng tai biến khá nhiều (một phần do dùng nồng độ cao 5%). Hồi sức cơ bản với huyết thanh tiêm dưới da, không có cơ sở nào truyền máu.
+Ở vùng tạm chiếm, có dùng tê, mê mask hở, mask Ombredane & mê ether vòng hở, nửa kín qua mask; thuốc chính là ether, chloroform, chlorua etyle, hỗn hợp Shleide, nesdonal. Thuốc hồi sức chủ yếu Subtosan truyền mạch máu. (GMHS, 1.1979).
+Năm 1956, Nguyễn Dương Quang sang Trung Quốc học gây mê hồi sức 3 tháng, và đã về Việt Nam phát triển mê nội khí quản trong phẫu thuật cắt dạ dày, ruột. Nhờ vậy, năm 1957 đã áp dụng gây mê thành công để giáo sư Tôn Thất Tùng mổ lấy được một thai đôi ở bệnh nhân 27 tuổi. Giai đoạn này thuốc dãn cơ còn dùng hãn hữu, nên thường phải mê sâu giai đoạn III3 để đặt nội khí quản và bệnh nhân tự thở trong mê là chủ yếu. Truyền máu cũng đã bắt đầu phổ biến. Năm 1957 bác sĩ Nguyễn Trinh Cơ phổ biến phương pháp tê Vichnepski & bác sĩ Nguyễn Văn Thanh báo cáo luận án tê trong xương; đã bắt đầu phát triển truyền máu động mạch, lấy máu trong ổ bụng & lồng ngực truyền lại.
+Từ năm 1957 đến 1959, hờ có nhiều đoàn chuyên gia sang giúp (bác sĩ Albadjev/Bungarie ở QYV 108 & Bệnh viện Việt Đức; bác sĩ Tiệp khắc ở Bv Hải Phòng) đã áp dụng mê nội khí quản + Thiopental + Myorelaxin tiêm từng liều nhỏ & mê hạ huyết áp chỉ huy với arfonad. Đặc biệt đã giúp đào tạo lớp bác sĩ chuyên ngành gây mê hồi sức đầu tiên của Việt nam (dân y & quân y – Nguyễn Thụ, Trần Quang Dương, Phan Đình Kỷ, Nguyễn Quang Bích, Đoàn Bá Thả) & một lớp gây mê trung cấp ở Hải phòng. 1958 bệnh viện Việt Đức đã bắt đầu mổ tim & mê hạ thể nhiệt nông.
+Năm 1960, bác sĩ Trương Công Trung (Bv 103) tiến hành tê ngoài màng cứng Dicaine; tê tuỷ sống, tê đuôi ngựa bắt đầu được phổ biến; đông miên nhân tạo được bác sĩ Hoàng Đình Cầu áp dụng để mổ phổi. 1961-1962 bác sĩ Tôn đức Lang đi học gây mê hồi sức ở Bungarie về phổ biến mê nội khí quản trẻ em, mê hạ huyết áp chỉ huy, hạ thể nhiệt nông, mê nội khí quản với ống Carlene. 1962 lớp y sĩ gây mê hồi sức đầu tiên tốt nghiệp do bác sĩ Nguyễn Thụ & Trần Quang Dương phụ trách; các bác sĩ gây mê hồi sức cũng đã bắt đầu được đào tạo có hệ thống. 1965 Bv Việt Đức lập được tuần hoàn ngoài cơ thể.
+Sau 1962, khoa Phẫu thuật - Gây mê hồi sức được thành lập ở bệnh viện Việt Đức. 1963-1965: Gây mê hạ thể nhiệt, tuần hoàn ngoài cơ thể trong mổ tim, thận nhân tạo. Năm 1967 Bộ y tế & Cục quân y chỉ thị tổ chức thành lập phòng Hồi sức tập trung.
+1967 hô hấp nhân tạo kéo dài đã được áp dụng trong điều trị mảng sườn di động. Từ 1967-1975 nhiều bác sĩ gây mê hồi sức tham gia chiến tranh chống Mỹ cứu nước & hy sinh ở các miền của đất nước (kể cả ở chiến trường B...). 1972-1974 (bác sĩ Nguyễn Tài Thu, Y sĩ Nguyễn Thí & bác sĩ Trương Hữu Tố BV103 sang Thượng hải học về châm tê...) sau đó Châm tê đã bắt đầu áp dụng trong phẫu thuật trong các bệnh viện quân & dân y. 1973-1976 có 2 hội nghị gây mê hồi sức toàn miền bắc với sự chủ trì của bác sĩ Hoàng Đình Cầu & bác sĩ Nguyễn Dương Quang.
+Trong những năm chiến tranh (1967-1975) miền bắc đã đào tạo được 150 bác sĩ gây mê hồi sức & tự đảm nhận công việc gây mê hồi sức của tất cả các chiến trường, trong cũng khoảng thời gian này miền nam chỉ có 5 bác sĩ gây mê hồi sức & đã mời tất cả đến 23 đoàn chuyên gia ngoại quốc đến giúp đỡ. Đến năm 1979 đã có tổng số 190 bác sĩ & trên 300 y sĩ gây mê hồi sức. (gây mê hồi sức, 1.1979).
+Việt Nam gia nhập Hội gây mê hồi sức thế giới năm 1986, khi Giáo sư Tôn Đức Lang tham dự hội nghị tại Cualalampua.
+Vào những năm 2000, tổng số người làm công tác gây mê: trong đó GS, PGS: TS:4 ThS:37 BsCKII:12 CKI:170 BsCKSB: 300 KTV & Cử nhân:324. Chủ tịch hội gây mê hồi sức Việt Nam hiện nay là GS Nguyễn Thụ. Đa số các bệnh viện từ tuyến huyện trở lên đã có bác sĩ GMHS & Khoa gây mê hồi sức. Các bệnh viện tuyến quân khu, quân đoàn đều đã có bác sĩ GMHS & khoa GMHS.
+Hội Hồi sức Cấp cứu đã được thành lập vào cuối năm 2000. GS Nguyễn Văn Đính làm chủ tịch.
+
+
+== Mê ==
+Mê (vô cảm toàn thân, gây mê toàn diện) là sự mất cảm giác và ý thức tạo bởi các thuốc mê khác nhau, gồm bốn hợp thành là không đau, dãn cơ, mất ý thức và quên.
+
+
+=== Giai đoạn và độ mê ===
+Giữa 1847 và 1858, John Snow đã mô tả một vài dấu hiệu giúp đỡ ông xác định chiều sâu gây mê ở những bệnh nhân được gây mê clorofoc hoặc ête. Năm 1920 Guedel A.E (sinh 1883) thêm các dấu hiệu khác, đã phác thảo bốn giai đoạn gây mê, chia giai đoạn ba (mê phẫu thuật) thành bốn mức độ.
+Điểm Guedel: là một hệ thống để mô tả những giai đoạn (stage) & các mức độ mê (plane) trong mổ. (Những giai đoạn này thấy rõ nhất với hít hơi ête & khó mô tả khi gây mê phối hợp như khi khởi mê tĩnh mạch bằng thiopental & sau đó hít thuốc mê hơi halothane…).
+Giai đoạn I: (quên & giảm đau) từ lúc bắt đầu sử dụng thuốc mê tới lúc mất ý thức - hơi thở yên tĩnh, tuy nhiên đôi khi không đều, & các phản xạ vẫn còn hiện diện.
+Giai đoạn II: (mê sảng hoặc kích thích) từ lúc mất ý thức cho đến lúc mê hoàn toàn - trong giai đoạn này BN có thể cử động chân tay, nói huyên thuyên không mạch lạc, nín thở, hoặc trở nên quá khích, nôn mửa rất nguy hiểm do hít vào chất nôn. Tránh gây kích thích ở giai đoạn này; cần nhanh chóng đưa BN qua giai đoạn III.
+Giai đoạn III: (mê phẫu thuật) bắt đầu từ khi thở đều (một cách cân đối) & mất hoàn toàn tri giác cho đến khi có dấu hiệu đầu tiên của suy hô hấp & tuần hoàn - giai đoạn này được chia ra bốn mức độ:
+Mức độ 1 - mất tất cả những cử động & hít thở trở nên cân đối (như máy). Mất phản xạ mi mắt, nhưng nhãn cầu còn hoạt động rõ. Phản xạ họng hầu mất, nhưng phản xạ thanh quản & phúc mạc vẫn còn, trương lực cơ bụng có thể đánh giá thông qua trương lực của cơ ngoại nhãn cầu.
+Mức độ 2 - nhãn cầu cố định chính giữa, kết mạc mất sáng (đục), & cơ liên sườn giảm bớt hoạt động. Hơi thở vẫn còn cân đối, dung tích lưu thông (tidal) giảm bớt, & không thay đổi nhịp hoặc biên độ khi rạch da. Đặt nội khí quản không còn gây ra co thắt thanh quản.
+Mức độ 3 - xuất hiện liệt cơ liên sườn, chỉ còn hô hấp bằng cơ hoành. Đồng tử không phản ứng với ánh sáng nữa, & toàn bộ các cơ giãn hoàn toàn.
+Mức độ 4 - mê sâu hoàn toàn, ngừng tự thở & mất cảm giác.
+Giai đoạn IV: (gần chết) với nhiều dấu hiệu nguy hiểm. Giai đoạn này được mô tả với các đặc điểm như đồng tử giãn rộng tối đa & da lạnh với màu xám tro; huyết áp tụt thường không đo được, mạch quay rất yếu hoặc không bắt được. Ngừng tim sắp xảy ra - cần giảm bớt thuốc mê ngay, thông khí phổi bằng tay với 100% oxy, & thay khí liên tục trong bóng bóp (liên tục làm rỗng bóng)...
+Mặc dù cổ điển nhưng những dấu hiệu & các giai đoạn gây mê này vẫn có thể công nhận đến chừng mực nào đó khi sử dụng nhiều loại thuốc mê thông thường, chúng không còn rõ lắm trong các kỹ thuật sử dụng thuốc mê hiện đại. Hơn nữa, Cullen & cộng sự (1972) đã chứng minh rằng không một dấu hiệu đơn lẻ nào trong các dấu hiệu chính đã được Guedel mô tả có quan hệ thoả đáng với nồng độ thuốc đo được trong phế nang khi cuộc mê đang duy trì ổn định. Do đó, chỉ thuật ngữ "giai đoạn hai" - trạng thái mê sảng khi. Chưa mê hoàn toàn còn hay dùng
+Tuy nhiên có ít trường hợp điển hình như mô tả trên. Cách thăm dò thực tế sử dụng trên lâm sàng để lượng định độ mê. Ví dụ:
+Nếu mi mắt lười nháy chạm vào lông mi (chậm nháy mắt), nếu BN còn nuốt, nếu nhịp thở còn sâu & không đều, & nếu biết rằng chưa sử dụng một lượng lớn thuốc mê – có thể đánh giá: mê phẫu thuật là chưa đạt.
+Mất phản xạ khi đụng vào lông mi (eyelash) & thể hiện hô hấp đều đăng - chỉ ra rằng đang ở giai đoạn mê phẫu thuật. (Nếu rạch da ngay lúc này, sự biểu lộ của mê "nhẹ" có thể xuất hiện: bao gồm hiện tượng tăng hô hấp hoặc tăng huyết áp; cơ hàm có thể co chặt, & thậm chí nếu mở được mồm để đặt ống vào đường thở có thể kích thích gây oẹ "nôn khan", ho, nôn, hoặc co thắt thanh quản "laryngospasm"...là còn mê nông).
+Khi gây mê sâu hơn - thì những phản ứng nêu trên giảm bớt oặc mất hẳn. Với hầu hết các thuốc mê thông thường, độ sâu mê tăng kéo theo dung tích lưu thông giảm bớt; co hẹp khí quản trở nên rõ rệt do sự tham gia của các cơ hô hấp phụ, hoạt động của cơ hoành trở nên trục trặc, & phần ngực dưới bị hạ thấp do cơ hoành lôi kéo. Khi sử dụng nhóm thuốc mê halogenated có hiệu lực mạnh, xu hướng của huyết áp rất tương quan với độ sâu của mê, & hiện tượng giảm huyết áp có thể sử dụng như một chỉ số tương đối của liều lượng.
+Những gợi ý thể hiện mê đang "nhẹ" hơn bao gồm các hiện tượng chảy nước mắt, có đọạn ngừng thở khi kích thích phúc mạc, tăng trở kháng khi bóp bóng làm đầy phổi hoặc thể hiện trên đồng hồ đo áp lực, & có các dấu hiệu của mê "nhẹ" đã liệt kê ở phần trên.
+Suy giảm hô hấp trầm trọng, ngừng thở, giảm huyết áp rõ rệt, hoặc ngừng tim - phải nhìn nhận như là dấu hiệu của mê sâu trừ phi do các nguyên nhân khác gây nên (ví dụ - tác dụng của dãn cơ, mất máu, thiếu oxy, giảm carbonic, hoặc do ảnh hưởng của phản xạ dây phế vị...).
+Như vậy, từ kinh nghiệm phối hợp với sự quan sát liên tục các phản ứng của BN khi cho thuốc mê & khi kích thích, cho phép đánh giá ước lượng độ sâu mê. Phép đo nồng độ thuốc mê cuối thì thở ra (End-tidal) có thể hữu ích trong việc đánh giá độ mê khi sử dụng các loại thuốc mê hơi.
+
+
+=== Phân loại về các phương thức gây mê ===
+Có ba phương thức chính:
+Mê thể khí (chỉ dùng thuốc mê bốc hơi đủ hiệu lực để khởi mê & duy trì mê).
+Mê cân bằng (phối hợp sử dụng thuốc mê bốc hơi, khí & thuốc mê tĩnh mạch).
+Mê hoàn toàn qua đường tĩnh mạch (chỉ phối hợp các thuốc theo đường tĩnh mạch đủ bảo đảm không đau, dãn cơ, mất ý thức & quên trong suốt cuộc mổ).
+
+
+== Tê ==
+
+
+=== Phân loại về các phương thức gây tê ===
+Tê vùng: Tê tuỷ sống. Tê ngoài màng cứng. Tê đám rối.
+Phong bế TKTV. Phong bế đám rối, hạch giao cảm cạnh sống.
+Tê thân thần kinh.
+Tê thấm ngấm, tê tại chỗ.
+Tê tĩnh mạch.
+
+
+== Các phương thức đặc biệt ==
+Châm tê là dùng kim châm cứu châm vào huyệt của hệ thống kinh lạc để tạo được cảm giác tê, làm cho BN có thể chịu được phẫu thuật trong trạng thái tỉnh. Đã được phát triển rộng khắp thế giới, Trung quốc & Việt nam là nơi có nhiều kinh nghiệm nhất.
+Mê điện cao tần – sử dụng dòng điện 10-20 mA với tần số 90–100 GHz qua các điện cực áp lên não để gây trạng thái mê phẫu thuật/do tính an toàn chưa cao nên hiện ít được phát triển & áp dụng.
+
+
+== Phương pháp chung ==
+
+
+=== Nhiệm vụ chung ===
+Phải kiểm tra trước khi BN được đưa vào phòng mổ, cần đánh giá ước lượng các nguy cơ liên quan vô cảm-phẫu thuật & chọn lựa thuốc dùng tiền mê-mê & hồi sức, cũng như kỹ thuật vô cảm.
+Phải kiểm tra so sánh chính xác lại bằng cách hỏi chính BN là họ yêu cầu mổ gì & nêu tên, tuổi của họ khi nhận hồ sơ & đưa BN vào PM.
+Phải tập hợp, lắp ráp hoàn chỉnh mọi dụng cụ cần thiết & & bắt đầu tiến hành vô cảm trước khi mổ ít nhất là 15 phút.
+Phải theo dõi liên tục BN từ lúc nhận vào phòng mổ cho tới khi đưa về giường bệnh.
+Người gây mê phải ghi nhận đầy đủ, chính xác, hoàn chỉnh phiếu vô cảm trong suốt quá trình tiến hành & lưu ý tất cả vấn đề xảy ra (để tham khảo trong trường hợp về sau có tai biến, để phân tích nguyên nhân, để giúp việc dự báo trước trong khi phẫu thuật, để thống kê, do yêu cầu pháp luật).
+
+
+=== Tổng quan ===
+Có 5 bước tiến hành trong phương pháp gây mê chung:
+Khám xét đánh giá trước mê-mổ. (Nêu tỷ mỷ trong phần khám đánh giá trước mê mổ)
+Nhận và đặt bệnh nhân lên bàn mổ; sắp xếp chuẩn bị & thiết lập các phương tiện theo dõi kiểm soát, cho thuốc tiền mê.
+Khởi mê hoặc tiến hành gây tê. Đây là giai đoạn bắt đầu từ lúc cho các thuốc mê hoặc tiến hành các kỹ thuật để tiêm thuốc tê - đến lúc đạt độ mê (giai đoạn III) hoặc tê đạt hiệu quả (không đau tới mốc yêu cầu) để có thể phẫu thuật được.Tuỳ từng kỹ thuật & thuốc sử dụng mà có cách tiến hành riêng biệt
+Duy trì mê hoặc phối hợp trong khi tê. Đây là giai đoạn phẫu thuật, yêu cầu cơ bản trong giai đoạn này là đảm bảo độ mê hoặc tê phù hợp tối ưu để thực hiện các động tác phẫu thuật & bảo vệ BN trước mọi khích thích do phẫu thuật gây ra. Tuỳ từng kỹ thuật & thuốc sử dụng mà có cách tiến hành riêng biệt
+Kết thúc mê, tê - săn sóc bệnh nhân trong và sau vô cảm. Đây là giai đoạn từ khi kết thúc các thì mổ cơ bản đến khi đưa bệnh nhân ra khỏi phòng mổ về PACU & từ đó chuyển về các nơi; đây là giai đoạn hạ dần độ mê, giảm- giải dãn cơ, phục hồi các phản xạ-tự thở-huyết động (với mê hạ HA)-nhiệt độ (với tuần hoàn NCT, mê hạ nhiệt)... Tuỳ từng kỹ thuật & thuốc sử dụng & quy định, qui chế của từng nơi mà có cách tiến hành riêng biệt.
+
+
+=== Kỹ thuật thực hành ===
+
+
+==== Thủ tục nhận bệnh ====
+Kiểm tra đúng tên - loại mổ - yêu cầu đặc biệt của loại mổ - những xét nghiệm chính về tim, phổi & tiết niệu - Giấc ngủ & đau đêm trước - thụt tháo - ngưng ăn & uống.
+
+
+==== Sắp xếp chuẩn bị & thiết lập các phương tiện ====
+Kiểm tra máy & phương tiện giúp thở, phương tiện khai thông đường thở luôn sẵn sàng hoạt động được ngay có hiệu quả & phù hợp BN; Máy hút ở tư thế sẵn sàng; Kiểm tra tháo bỏ răng giả, mắt giả. Lắp đặt các phương tiện theo dõi (mạch, huyết áp, ống nghe, ECG, thông khí, phân tích khí Oxy, CO2, nhiệt kế... tối thiểu phải có huyết áp & ống nghe). Các gối chèn, dây buộc đủ chặt mà không gây tổn thương thần kinh & tuần hoàn, ánh sáng vừa phải, không chiếu đèn thẳng vào người & mặt BN cho tới khi đã mê hoặc bắt đầu phẫu thuật
+
+
+==== Tư thế trên bàn mổ liên quan đến loại phẫu thuật ====
+Có khoảng 21 tư thế chính:
+nằm ngửa;
+ngửa đầu cao (Fowler's);
+Ngửa đầu thấp (Trendelenburg);
+Ngửa đầu cao-cổ ưỡn cong (mổ bướu);
+Ngửa thắt lưng nâng (mổ túi mật, bàng quang);
+Nằm sấp;
+Sấp đầu cao;
+Sấp đầu thấp;
+Sấp-khung chậu nâng cao;
+Sấp chân thấp;
+Sấp đầu thấp;
+Ngửa chân cao (mổ lấy sỏi thận);
+Ngửa chân cao đầu thấp (mổ lấy sỏi thận);
+Ngồi;
+Nửa ngồi;
+Sấp nghiêng trái;
+Sấp nghiêng phải;
+Nghiêng lưng ưỡn;
+Nghiêng thắt lưng nâng cao (mổ thận);
+Nghiêng trái đầu cao;
+Nghiêng phải đầu thấp.
+Tư thế ít ảnh hưởng nhất tới hô hấp & tuần hoàn là nằm ngửa, tay dọc theo thân & nếu phải dang thì không bao giờ quá 90 độ hoặc bị treo hay rơi khỏi bàn làm tổn thương tới dây TK.
+Khi thay đổi tư thế rất dễ tụt huyết áp. Một số phương pháp ngăn ngừa các bất lợi do tư thế mổ:
+Với tư thế Trendelenburg - thường làm giảm dung tích hô hấp 15% - 24%, tím mặt, cổ & tổn thương thần kinh; do đó cần thường xuyên thay đổi & trợ giúp vùng vai (tránh tổn thương đám rối thần kinh); vùng gối (bầm máu); đỡ vùng mào chậu bằng dụng cụ; dễ suy giảm tuần hoàn, ứ đọng tĩnh mạch, tăng đờm dãi.
+Tư thế nằm sấp - giảm hô hấp 10%, kê gối dưới mỗi vai & cái khác dưới khung chậu để tránh cản trở hô hấp & tuần hoàn tĩnh mạch về; ống NKQ có cuff giúp tránh trào ngược; người béo rất không phù hợp với tư thế này; khó điều khiển & kiểm soát đường thở; lật BN khi còn chưa tỉnh dễ làm tổn thương xương sọ & cổ.
+Tư thế mổ sỏi - hạn chế hô hấp 18%, hai chân không cùng mặt phẳng làm căng dây chằng khung chậu, gai mào chậu tỳ thẳng xuống bàn mổ, dây chằng ép chặt dễ vỡ tĩnh mạch; nên dùng gối hình yên ngựa đặt giữa hai chân để khắc phục bất lợi của tư thế.
+Tư thế nghiêng - hạn chế hô hấp 12%, có thể phối hợp làm giảm huyết áp. Nâng nhẹ hai chân (khoảng 10 độ) trên giường trong giai đoạn sau mổ có thể làm giảm đáng kể tai biến tắc mạch & thuyên tắc phổi.
+
+
+==== Cho thuốc tiền mê ====
+Có 3 căn nguyên chính để dùng thuốc tiền mê trước khi vô cảm. Thứ nhất là an thần: làm giảm lo sợ & làm ngắn bớt giai đoạn kích thích của gây mê. Thứ hai là tác dụng cộng thêm làm tăng hiệu lực của các thuốc giảm đau, tê, mê. Thứ ba là dự phòng & ngăn chặn trước các phản ứng xấu về sinh lý & dược lý, gây ra bởi các thuốc hoặc do kỹ thuật tiến hành (như cho co mạch để chống tụt huyết áp khi tê tuỷ; atropine khi có dùng các thuốc thường kèm theo sự suy giảm dây X; cho bacbituric để giảm thiểu hoặc trung hoà đối kháng tác dụng độc của thuốc tê; lidocain để giảm kích thích tim; hạn chế hoặc ngăn ngừa sự tăng tiết dễ dẫn đến tắc nghẽn đường thở). Các thuốc thường dùng có công hiệu để tiền mê để an thần & cộng thêm tác dụng là nhóm morphine; nhóm bacbituric; nhóm trấn tính tranquilizer (benzodiazepam...)
+Các thuốc dự phòng có nhóm co mạch (như ephedrrine); Nhóm atropine, scopolamine để giảm tiết & giảm tác dụng kích thích dây X, giảm phản xạ phó giao cảm. Các thuốc Bacbiturat để trung hoà thuốc tê. Lidocaine để giảm kích thích tim. Thuốc kháng histamine để giảm & ngăn ngừa các phản ứng dị ứng.
+
+
+==== Quá trình vô cảm ====
+Kiểm soát chắc chắn đường thở (phải hút thường xuyên & sạch máu, chất tiết, dị vật ứ đọng trong đường thở); luôn bảo đảm thông suốt đường thở (từ việc đặt nâng lưỡi tới mở khí quản nếu phù hoặc phát triển khối máu tụ trong họng hầu...); dự phòng, hạn chế chấn thương. Những sai sót nhỏ của người gây mê thường để lại những tổn thương cho bệnh nhân như chấn thương môi, lợi, răng; đau họng; trầy kết mạc mắt; các vết bầm tím trên mặt, bầm máu nơi tiêm; đau lưng sau tư thế mổ lấy sỏi; nôn & mửa.
+
+
+== Chú thích ==

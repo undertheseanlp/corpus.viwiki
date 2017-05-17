@@ -1,0 +1,120 @@
+Google Chrome là một trình duyệt web miễn phí, được phát triển bởi Google, sử dụng nền tảng V8 engine. Dự án mã nguồn mở đứng sau Google Chrome được biết với tên gọi Chromium.
+Phiên bản beta chạy trên Microsoft Windows được phát hành ngày 2 tháng 9 năm 2008 với 43 ngôn ngữ. Với sự ra đời của phiên bản ổn định chính thức 1.0.154.36 vào ngày 11 tháng 12, đã kết thúc giai đoạn thử nghiệm này. Đến tháng 6 năm 2011, trình duyệt này đã trở thành trình duyệt thông dụng thứ ba trên toàn cầu. Chỉ sau Firefox và Internet Explorer và chiếm khoảng 16,5% thị phần trình duyệt web thế giới. Phiên bản Chrome cho hệ điều hành Mac OS X và Linux được phát hành vào tháng 6 năm 2009.
+Ngày 21 tháng 5 năm 2012, Google Chrome chính thức vượt qua Internet Explorer và trở thành trình duyệt phổ biến nhất trên thế giới. Tính đến tháng 8 năm 2016, theo thống kê của StatCounter, Chrome đã có một thị phần toàn cầu khoảng 62% của trình duyệt web máy tính để bàn. Nó cũng có 50% thị phần trên tất cả các phiên bản máy tính khác cộng lại, vì nó cũng là trình duyệt phổ biến nhất cho điện thoại thông minh. Thành công của nó dẫn đến việc Google mở rộng thương hiệu "Chrome" trên các sản phẩm khác như Chromecast, Chromebook, Chromebit, Chromebox và Chromebase.
+
+
+== Lịch sử ==
+Trong sáu năm, Giám đốc điều hành của Google Eric Schmidt phản đối sự phát triển của một trình duyệt web độc lập. Ông nói rằng: "Vào thời điểm đó, Google là một công ty nhỏ", và ông đã không muốn đi qua "cuộc chiến trình duyệt khốc liệt". Tuy nhiên, sau khi đồng sáng lập Sergey Brin và Larry Page đã thuê một số nhà phát triển Mozilla Firefox và xây dựng một cuộc trình diễn của Chrome, Schmidt đã thừa nhận rằng: "Nó rất tốt mà về cơ bản đã thay đổi suy nghĩ của tôi!"
+
+
+=== Công bố ===
+Bản công bố chính thức được ấn định vào ngày 3 tháng 9 năm 2008, và các tính năng cũng như những đột phá của trình duyệt mới này được giải thích trong một cuốn truyện tranh vui của tác giả Scott McCloud, đã được gửi đến các nhà báo các blogger. Những bản sao dành cho châu Âu cũng được chuyển trong thời gian sớm, và một blogger người Đức là Phillip Lenssen tác giả trang Google Blogoscoped sau khi nhận được ngày 1 tháng 9 đã làm một bản scan gồm 38 trang và đăng trên website của blogger này. Cuốn truyện sau đó được Google đăng trên Google Books và trang chủ của Chrome đồng thời được đề cập đến trên blog chính thức của Chrome cùng với chú giải cho việc phát hành sớm.
+
+
+=== Phiên bản đầu tiên ===
+Một phiên bản thử nghiệm beta dành cho hệ điều hành Microsoft Windows đã được phát hành vào ngày 2 tháng 9 năm 2008 với 43 ngôn ngữ. Ngay sau khi ra mắt, Google Chrome đã nhanh chóng chiếm lĩnh được gần 1% thị trường trình duyệt. Google cho biết những phiên bản chạy trên các nền tảng khác và các ngôn ngữ khác sẽ sớm được ra mắt.
+Ngày 3 tháng 9, một bài tin tức trên trang Slashdot hướng sự quan tâm đến một đoạn trong các điều khoản dịch vụ của phiên bản beta đầu tiên này, dường như thừa nhận Google có bản quyền với mọi nội dung được truyền tải thông qua trình duyệt Chrome. Đoạn câu hỏi được thừa kế từ những điều khoản dịch vụ chung của Google. Trang tin The Register thì khái quát hóa đoạn nội dung đó với câu "Tác quyền của bạn tan thành mây khói" (Your copyright goes up in smoke). Vào cùng ngày, để đáp lại sự chỉ trích này, Google cho biết những ngôn từ được sử dụng trong đó là do mượn từ các sản phẩm khác, và tuyên bố loại bỏ đoạn câu hỏi đó khỏi các điều khoản dịch vụ. Google cũng lưu ý thay đổi này sẽ được "áp dụng với cả những đối tượng người dùng đã tải Google Chrome từ đó trở về trước".
+Phiên bản đầu tiên của Google Chrome đã vượt qua được 2 bài kiểm tra Acid1 và Acid2, nhưng không qua được bài kiểm tra Acid3; tuy nhiên, nó lại đạt điểm 78/100, tức là cao hơn cả 2 trình duyệt Internet Explorer 7 (14/100) và Firefox 3 (71/100) và chỉ thấp hơn Opera (85/100). Còn khi so sánh với các phiên bản thử nghiệm hoặc beta tương đương của các trình duyệt khác, Chrome có điểm số thấp hơn Firefox (85/100), Opera (91/100), và Safari (100/100), nhưng vẫn cao hơn Internet Explorer (21/100).
+
+
+=== Lịch sử phát hành ===
+Xem thêm tại đây để biết thêm thông tin chi tiết về các phiên bản đã được phát hành.
+
+
+== Kiểm nghiệm ==
+
+Việc phát hành đầu tiên của Google Chrome đã thông qua cả hai thử nghiệm về Acid1 và Acid2. Bắt đầu từ phiên bản 4.0, Chrome đã thông qua tất cả các khía cạnh thử nghiệm của Acid3.
+
+
+== Thiết kế ==
+Các mục tiêu chính trong thiết kế của Google Chrome là an toàn, tốc độ và ổn định nhưng đơn giản so với các trình duyệt đã có. Bên cạnh cũng có sự thay đổi lớn về giao diện người dùng.. Chrome được biên dịch lại từ 26 thư viện mã nguồn khác nhau lấy từ Google và các bên thứ ba như Netscape.
+
+
+=== Bảo mật ===
+Blacklist
+Google Chrome tải về theo định kỳ các bản cập nhật của danh sách đen (một cho lừa đảo trực tuyến Phishing và một cho Malware) và cảnh báo người dùng khi họ thăm một trang web độc hại. Dịch vụ này cũng được cung cấp đến người dùng qua một API miễn phí công khai được gọi là "Google Safe Browsing API". Trong tiến trình bảo trì blacklist, Google cũng gửi lưu ý đến chủ nhân của những trang web độc lưu ý đến những phần mềm độc hại trên trang của họ.
+Plugin
+Các plugin thường cần được chạy với mức độ bảo mật bằng hoặc cao hơn mức bảo mật của trình duyệt. Để giảm khả năng tấn công, plugin được chạy trong các tiến trình riêng biệt được giao tiếp với bộ render, bản thân nó phải chạy với rất ít quyền trong một tiến trình chạy theo tab. Plugin cần phải được điều chỉnh để chạy được với cấu trúc phần mềm trong khi vẫn tuân theo khái niệm quyền ít nhất.
+Chrome hỗ trợ Netscape Plugin Application Programming Interface (NPAPI), nhưng không hỗ trợ việc nhúng các Active X. Bên cạnh, Chrome cũng không có một hệ thống phần mở rộng như các file *.xpi không phụ thuộc hệ điều hành nền của Mozilla và do đó các phần mở rộng dựa vào XPI như AdBlock (cũ) và GreaseMonkey không thể chạy được với Chrome.
+
+Lướt web kín đáo
+Có một tính năng duyệt web kín đáo gọi là Chế độ Ẩn danh (Incognito) được cung cấp trong trình duyệt này. Nó ngăn trình duyệt không lưu trữ lại thông tin trong History cũng như cookies từ các trang web đã ghé thăm. Tính năng này tương tự như tính năng lướt web riêng tư đã có trong Internet Explorer 8.
+
+
+=== Tốc độ ===
+Chrome sử dụng Máy ảo Javascript, engine V8 JavaScript, có các tính năng như thế hệ mã năng động, một bộ chạy nền ẩn, và bộ thu dọn dữ liệu dư thừa Máy ảo Javascript và V8 JavaScript được công nhận là một dự án quan trọng được chia ra (giống như bộ Javascript engine Tamarin của Adobe/Mozilla) và được tiến hành bởi hai nhóm riêng biệt tại Đan Mạch. Mô hình hiện thực đã có được thiết kế "cho các chương trình nhỏ, khi mà sự vận hành và tương tác của hệ thống là không quan trọng" nhưng các ứng dụng web như Gmail "sử dụng các trình duyệt web một cách đầy đủ khi nó sử dụng mô hình DOM và Javascript". Kết quả là bộ engine V8 JavaScript, một bộ chạy nền ẩn, bộ sinh mã tự động, và bộ thu dọn dữ liệu dư thừa. Một số trang web thực hiện các bài kiểm tra điểm chuẩn bằng cách sử dụng công cụ Benchmark SunSpider JavaScript.
+
+
+=== Sự ổn định ===
+Đa tiến trình
+Nhóm Gears đã công nhận một trình duyệt đa luồng (lưu ý rằng các lỗi xảy ra với các trình duyệt đã tồn tại là sự hiện thực của nó được thừa kế chế độ đơn luồng) và Chrome đã hiện thực khái niệm này với kiến trúc đa tiến trình tương tự với cấu trúc đã được phát triển bởi Opera vào năm 1994, hoặc được hiện thực gần đây bởi Internet Explorer 8. Một tiến trình độc lập được sắp xếp vào mỗi tab hoặc plugin. Nó giúp phòng tránh các tác vụ xung đột lẫn nhau, điều này giúp cho bảo mật và tính ổn định; một người tấn công được vào một ứng dụng thì vẫn không thể chiếm quyền điều khiển của toàn bộ, và thất bại trong một ứng dụng sẽ kết thúc bằng màn hình xanh chết chóc. Phương án này sẽ xác định chính xác tài nguyên sử dụng cho mỗi tiến trình nhưng kết quả là một ít bộ nhớ bị phân mảnh trong mỗi tiến trình và chẳng bao lâu nó sẽ cần cấp phát thêm bộ nhớ.
+Quản lý tác vụ
+Chrome có một công cụ quản lý tiến trình được gọi là hộp Quản lý tác vụ, ở đó cho phép người dùng thấy trang nào chiếm dụng nhiều bộ nhớ nhất, tải về nhiều byte nhất và sử dụng CPU nhiều nhất (cũng như các plugin chạy trong mỗi tiến trình phân biệt) và cho phép bạn tắt các trang đó.
+
+
+=== Hỗ trợ ứng dụng ===
+Một tính năng của trình duyệt Chrome (được xem là một trong những lý do chính để Google tạo ra Chrome) đó là trình duyệt hiển thị ở "chế độ khung cửa sổ ứng dụng" (Application Mode). Nó không chỉ đơn giản làm một việc là dấu thanh định hướng (navigation bar), mà nó còn cho phép các trang web phá vỡ các giới hạn của khung trình duyệt hiện tại. Khung trình duyệt được tự do cho phép người dùng load lại trang, điều hướng hoặc đóng cửa sổ lại, là một điều cực kỳ tai hại đối với một ứng dụng đang chỉnh sửa những nội dung quan trọng. Mặc dù điều này chỉ là một thay đổi nhỏ, nhưng nếu thiếu nó thì có nghĩa là không có cách nào để phòng chống việc mất các dữ liệu chưa lưu lại (mà không có sự đầu tư lớn về các cấu trúc AJAX phức tạp). Các tính năng cần thiết khác như tương tác với màn hình, hỗ trợ các định dạng file và truy xuất cơ sở dữ liệu. Điều này giới hạn trình duyệt Chrome không "đụng chạm gì đến việc người dùng đang làm", và cho phép các ứng dụng web chạy như một phần mềm chạy trên máy thông thường (giống với Mozilla Prism và Fluid).
+
+
+=== Giao diện người dùng ===
+
+Giao diện sử dụng chính gồm một các nút Back (quay lại trang trước), Forward (chuyển tiếp), refresh (nạp lại), Bookmark (quản lý các địa chỉ yêu thích), Go, option (tùy chọn) và nút cancel option (hủy bỏ tùy chọn). Nút tùy chọn tương tự như Safari, trong khi vị trí của nút cấu hình thì tương tự trong Internet Explorer 7 và 8. Nút nhấn minimize, maximize và close được thiết kế theo phong cách của Windows Vista.
+Khi cửa sổ trình duyệt Chrome chưa mở rộng tối đa (maximize), các thẻ (tab bar) hiển thị dưới thanh tiêu đề của cửa sổ. Khi mở rộng tối đa, thanh tiêu đề biến mất và được thay thế hoàn toàn bởi các thẻ được đặt ở trên cùng của màn hình. Không giống các trình duyệt khác như Internet Explorer hay Firefox có chế độ toàn màn hình giúp giấu đi toàn bộ các thành phần của hệ điều hành, Chrome chỉ có thể mở rộng tối đa giống như một cửa sổ ứng dụng thông thường. Do đó, thanh task bar, system tray và start menu vẫn chiếm vùng không gian vào mọi lúc, trừ khi nó được cấu hình để tự động ẩn.
+Tương tự các phiên bản mới nhất của trình duyệt Firefox và IE cho phép người dùng điều chỉnh toàn bộ kích thước hiển thị của một trang web, Chrome chỉ cho phép thu nhỏ kích thước chữ mà thôi. Do đó, một trang web với độ rộng 800 pixel thì vẫn là 800 pixel rộng khi người dùng thu nhỏ nó lại. Chỉ có chữ hiển thị chịu ảnh hưởng của việc phóng to/thu nhỏ.
+Chrome đã thêm phần Gears để thêm các tính năng cho người phát triển mà có thể trở thành chuẩn web mới, cơ bản để xây dựng các ứng dụng web (và hỗ trợ việc offline).
+Chrome thay thế trang chủ (homepage) của trình duyệt thành một tab mới được hiển thị với tên New Tab Page. Nó hiển thị các hình thu nhỏ của chín trang web bạn hay ghé thăm nhất cùng các trang bạn hay tìm kiếm, các bookmark gần đây và các tab vừa đóng. Tính năng này xuất hiện lần đầu tiên trong trình duyệt Opera.
+Thanh định hướng (Omnibox) là một hộp chứ địa chỉ URL ở đầu mỗi tab, được xây dựng giống thanh định hướng của Opera. Nó bao gồm chức năng autocomplete, nhưng chỉ autocomplete các địa chỉ URL đã được nhập bằng tay trước đó (chứ không hiển thị toàn bộ các link), các gợi ý tìm kiếm (search suggestions), trang được ghé nhiều nhất, các trang nổi tiếng và các từ khóa đã được tìm kiếm trong history. Bộ máy tìm kiếm có thể được chụp bởi trình duyệt khi sử dụng thông qua giao diện người dùng bình thường bằng cách nhấn phím Tab.
+Các cửa sổ popup sẽ "nằm trong tab mà từ đó nó đến" và sẽ không hiển thị ra ngoài tab ngoại trừ khi người dùng rê nó ra ngoài. Cửa sổ popup sẽ không chạy trong tiến trình riêng của nó.
+Chrome sử dụng bộ máy render WebKit từ nhóm Android. Giống hầu hết các trình duyệt khác, Chrome được kiểm tra nội bộ trước khi phát hành ra ngoài với các bài test đơn vị, "tự động kiểm tra giao diện người dùng và các hành động của người dùng thông qua các đoạn script" và fuzz testing, cũng như các bài test của bộ WebKit (Chrome vượt qua lần test này tới 99%). Trình duyệt mới được kiểm tra một cách tự động qua chục trang trên tổng số hàng ngàn trang web thường được truy xuất theo bộ máy đánhs ố của Google trong vòng 20-30 phút.
+Các thanh Tab là thành phần chính của giao diện Chrome và được đưa lên trên cùng của cửa sổ hơn là đặt ở dưới thanh điều khiển (tương tự Opera). Điều thay đổi này tạo nên sự đối lập với các trình duyệt đã tồn tại đều dựa vào cửa sổ chứa tab. Tab (bao gồm cả trạng thái của chúng) cũng có thể di chuyển qua lại với nhau. Mỗi tab có một bộ điều khiển của riêng nó, bao gồm thanh Omnibox.
+Mặc định, Chrome không có thanh trạng thái hiển thị giống như các trình duyệt khác hay đặt ở phía dưới cửa sổ. Nhưng, khi con chuột di chuyển trên một đường link, địa chỉ của đường link đó sẽ xuất hiện ở dưới phía dưới bên trái của trình duyệt.
+Ngày 3 tháng 4 năm 2013, Google thông báo rằng Chrome sẽ rẽ nhánh thành phần WebCore của WebKit để tạo động cơ bố trí riêng của mình gọi là Blink trên phiên bản Chrome 28 trở đi. Mã nguồn và cấu trúc cơ bản của Blink sẽ được xây dựng trên cấu trúc hiện tại của WebKit, đon giản hóa các dòng mã lệnh từ bộ nguồn Webkit.
+
+
+=== Chủ đề ===
+Có từ Google Chrome 3.0, người dùng có thể cài đặt các chủ đề để thay đổi giao diện của trình duyệt. Nhiều chủ đề miễn phí của bên thứ ba được cung cấp trong một thư viện trực tuyến, có thể truy cập thông qua nút "Tải chủ đề" trong mục cài đặt Chrome.
+
+
+=== Theo dõi người dùng ===
+Chrome gửi các thông tin về việc sử dụng cho Google thông qua các cơ chế theo dõi người dùng qua 2 cơ chế: cho phép tùy chỉnh hoặc không cho phép tùy chỉnh.
+Một số cơ chế lưu vết có thể tùy ý được kích hoạt hoặc vô hiệu hóa thông qua giao diện khi cài đặt và hộp thoại tùy chọn của trình duyệt. Một chương trình phần mềm miễn phí có tên gọi UnChrome cũng có thể xóa thông tin clientID được lưu trên ổ cứng. Những phiên bản không chính thức, như SRWare Iron, cố gắng gỡ bỏ hoàn toàn mọi tính năng lưu vết trên khỏi trình duyệt. Tính năng RLZ cũng không có trong trình duyệt Chromium.
+
+
+== Phản hồi ==
+Nhà báo Matthew Moore của tờ Daily Telegraph nói về đánh giá chung của các nhà phê bình đối với Google Chrome vừa ra đời: "Google Chrome khá hấp dẫn, nhanh, và có một số tính năng mới rất ấn tượng, nhưng có lẽ hiện thời nó chưa phải là mối đe dọa với đối thủ Microsoft".
+Microsoft bị cho rằng "đã đánh giá thấp mối đe dọa từ Chrome" đồng thời "tự tin rằng người dùng sẽ ngả theo Internet Explorer 8." Hãng Opera Software thì cho rằng "Chrome sẽ củng cố sức mạnh trên web trong vai trò là nền tảng ứng dụng lớn nhất thế giới". Mozilla cũng phân tích việc đưa Chrome vào thị trường trình duyệt web là "không thực sự đáng ngạc nhiên", và "Chrome không có ý định cạnh tranh với Firefox", và hơn nữa, cũng không làm ảnh hưởng đến quan hệ tài chính giữa Google và Mozilla.
+
+Thiết kế của Chrome đã lấp đầy khoảng cách giữa máy tính và cái gọi là "điện toán máy chủ ảo." Với tính tương tác vào các nút bấm, Chrome cho phép bạn tạo một giao diện máy tính, các shortcut trên Start menu hay Quick Launch tới bất kỳ một trang Web hay ứng dụng Web nào, xóa đi ranh giới giữa thế giới trực tuyến và máy tính của bạn. Ví dụ, ta tạo một shortcut trên desktop tới Google Maps. Khi bạn tạo một shortcut tới một ứng dụng Web, Chrome sẽ loại đi các thanh công cụ và các thẻ ra khỏi cửa sổ, cho phép bạn có cảm giác giống như dùng một phần mềm ứng dụng hơn là một ứng dụng Web.
+
+Vào ngày 9 tháng 12 năm 2008, khi Chrome vẫn đang trong giai đoạn beta, văn phòng bảo mật thông tin Liên bang Đức (BSI) đã ra thông báo về cuộc thẩm định đầu tiên của họ đối với Chrome, bày tỏ sự quan ngại đối với những liên kết tải về trên trang Google tiếng Đức, bởi "những phiên bản beta không nên được dùng cho những ứng dụng thường dùng" và các nhà sản xuất trình duyệt nên cung cấp những hướng dẫn thích hợp về việc sử dụng phần mềm tiền phát hành. Tuy nhiên, họ cũng ca ngợi những đóng góp chuyên môn của trình duyệt này đối với việc cải thiện bảo mật trên web.
+Những vấn đề liên quan tới việc sử dụng tùy ý và truy vết của Chrome cũng được đề cập trong nhiều phương tiện thông tin khác nhau.
+
+
+=== Lỗ hổng bảo mật ===
+Không có lỗ hổng bảo mật trong Chrome đã được khai thác thành công trong ba năm tổ chức Pwn2Own 2009-2011. Tuy nhiên, tại Pwn2Own năm 2012. Chrome lần đầu tiên bị đánh bại, bởi một đội ngũ Pháp, họ đã khai thác lỗ hổng Zero-Day để điều khiển hoàn toàn của một máy tính 64-bit Windows 7 đã update bản vá đầy đủ bằng cách sử dụng một trang web bẫy vượt qua sandbox của Chrome. Nó cũng bị tổn thương hai lần tại của CanSecWest 2.012 Pwnium Phản ứng chính thức của Google cho các lỗ hổng đã được cung cấp bởi Jason vải thô dệt bằng len dài, chúc mừng các nhà nghiên cứu, ghi nhận, "Chúng tôi cũng tin rằng cả hai đệ trình là tác phẩm nghệ thuật và xứng đáng được chia sẻ và công nhận rộng lớn
+
+
+=== Những vấn đề tương thích ===
+Ngày 11 tháng 12 năm 2008, một bài báo của tạp chí CNET thông báo về những vần đề không tương thích giữa Chrome và Hotmail, đó là có thể truy cập nhưng không thể viết các email. Theo Harrison Hoffman, đồng sáng lập viên của LiveSide.net, "Đây là vấn đề dường như có thể dễ dàng được sửa chữa và có lẽ không phải là lỗi của Google". Lỗi này đã được sửa trong phiên bản 1.0.154.46. 
+
+
+== Xem thêm ==
+Trình duyệt web
+Internet Explorer
+Mozilla Firefox
+Safari
+Opera
+So sánh các trình duyệt web
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Google Chrome - tiếng Anh
+Google Chrome - tiếng Việt
+Trình duyệt Chrome của Google thân thiện với người dùng Việt Nam - VnExpress.net
+Google Chrome - ấn tượng trình duyệt web thế hệ mới Dân trí
+Những điều kỳ thú đằng sau trình duyệt Google Chrome
+Trang chủ dự án Chromium tại Google Code
+Các tính năng của Google Chrome

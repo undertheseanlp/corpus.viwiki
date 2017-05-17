@@ -1,0 +1,102 @@
+Trong toán học, một phương trình vi phân riêng phần (còn gọi là phương trình vi phân đạo hàm riêng, phương trình đạo hàm riêng, phương trình vi phân từng phần, hay phương trình vi phân riêng) là một phương trình liên hệ giữa một hàm chưa biết với các biến độc lập của nó và các đạo hàm riêng của hàm theo các biến này. Để tìm được hàm chưa biết, thường cần giải các hệ phương trình vi phân riêng phần, tức là các hệ phương trình chứa các phương trình vi phân riêng phần.
+Hệ phương trình vi phân riêng phần thường hay xuất hiện trong nhiều bài toán trong kỹ thuật hay vật lý liên quan đến chuyển động sóng của âm thanh, bức xạ điện từ, hoặc các dòng chảy, và nói chung là các hiện tượng biến đổi trong không gian và thời gian. Nhiều hiện tượng vật lý khác nhau thường có thể quy về việc giải các hệ phương trình vi phân riêng phần giống nhau, khiến cho công cụ toán học là cầu nối liên hệ và tổng quát hoá nhiều hiện tượng tự nhiên.
+
+
+== Giới thiệu ==
+Phương trình vi phân riêng phần đơn giản hay gặp trong giáo trình toán là:
+
+  
+    
+      
+        
+          
+            
+              ∂
+              u
+            
+            
+              ∂
+              x
+            
+          
+        
+        =
+        0
+        
+      
+    
+    {\displaystyle {\frac {\partial u}{\partial x}}=0\,}
+  
+với u là hàm chưa biết của x và y. Phương trình này thực tế cho biết u(x,y) không phụ thuộc vào x; và lời giải tổng quát là:
+
+  
+    
+      
+        u
+        (
+        x
+        ,
+        y
+        )
+        =
+        f
+        (
+        y
+        )
+        
+      
+    
+    {\displaystyle u(x,y)=f(y)\,}
+  
+với f là hàm bất kỳ của y. Phương trình này tương tự như phương trình vi phân thường
+
+  
+    
+      
+        
+          
+            
+              d
+              u
+            
+            
+              d
+              x
+            
+          
+        
+        =
+        0
+        
+      
+    
+    {\displaystyle {\frac {du}{dx}}=0\,}
+  
+có lời giải
+
+  
+    
+      
+        u
+        (
+        x
+        )
+        =
+        c
+        
+      
+    
+    {\displaystyle u(x)=c\,}
+  
+với c là hằng số bất kỳ không phụ thuộc vào x.
+Thí dụ này cho thấy các lời giải tổng quát của phương trình vi phân riêng phần thường chứa các hàm bất kỳ, tương tự như lời giải tổng quát của phương trình vi phân thường chứa các hằng số bất kỳ.
+Để xác định cụ thể lời giải trong dải rộng của lời giải tổng quát cho từng bài toán riêng lẻ, cần có thêm các điều kiện biên.
+
+
+== Xem thêm ==
+
+
+== Chú thích ==
+
+
+== Tham khảo ==

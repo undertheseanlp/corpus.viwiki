@@ -1,0 +1,160 @@
+Động đất hay địa chấn là sự rung chuyển của mặt đất do kết quả của sự giải phóng năng lượng bất ngờ ở lớp vỏ Trái Đất. Nó cũng xảy ra ở các hành tinh có cấu tạo với lớp vỏ ngoài rắn như Trái Đất.
+
+
+== Nguồn gốc ==
+Theo nghĩa rộng thì động đất dùng để chỉ các rung chuyển của mặt đất. Chúng gây ra bởi các nguyên nhân :
+Nội sinh: Do vận động kiến tạo của các mảng kiến tạo trong vỏ Trái đất, dẫn đến các hoạt động đứt gãy và/hoặc phun trào núi lửa ở các đới hút chìm. Xem thêm: Cấu trúc Trái Đất.
+Ngoại sinh: Thiên thạch va chạm vào Trái Đất, các vụ trượt lở đất đá với khối lượng lớn.
+Nhân sinh: Hoạt động của con người gồm cả gây rung động không chủ ý, hay các kích động có chủ ý trong khảo sát hoặc trong khai thác hay xây dựng, đặc biệt là các vụ thử hạt nhân dưới lòng đất.
+Trong quan niệm thông thường thì động đất được hiểu là các rung chuyển đủ mạnh trên diện tích đủ lớn, ở mức nhiều người cảm nhận được, có để lại các dấu vết phá hủy hay nứt đất ở vùng đó. Về mặt vật lý, các rung chuyển đó phải có biên độ đủ lớn, có thể vượt giới hạn đàn hồi của môi trường đất đá và gây nứt vỡ. Nó ứng với động đất có nguồn gốc tự nhiên, hoặc mở rộng đến các vụ thử hạt nhân. Chú ý rằng các địa chấn kế tại các trạm quan sát địa chấn được thiết kế để ghi nhận các động đất dạng như vậy, và lọc bỏ các chấn động do nhân sinh gây ra.
+Nguyên nhân tự nhiên nội sinh liên quan đến vận động của các lớp và khối của Trái Đất. Tuy rất chậm, các lớp vỏ và trong lòng Trái Đất vẫn luôn chuyển động. Khi ứng suất cao hơn sức chịu đựng của thể chất Trái Đất thì sự đứt gãy xảy ra, giải phóng năng lượng và xảy ra động đất.
+Hầu hết mọi sự kiện động đất tự nhiên xảy ra tại các đường ranh giới của các mảng kiến tạo là các phần của thạch quyển của Trái Đất. Các nhà khoa học dùng dữ kiện về vị trí các trận động đất để tìm ra những ranh giới này. Nó dẫn đến phân loại:
+Những trận động đất xảy ra tại ranh giới được gọi là động đất xuyên đĩa
+Những trận động đất xảy ra trong một đĩa (hiếm hơn) được gọi là động đất trong đĩa.
+
+
+== Đặc điểm ==
+Động đất xảy ra hằng ngày trên Trái Đất, nhưng hầu hết không đáng chú ý và không gây ra thiệt hại. Động đất lớn có thể gây thiệt hại trầm trọng về tài sản và nhân mạng bằng nhiều cách.
+Tác động trực tiếp của trận động đất là rung cuộn mặt đất (Ground roll), thường gây ra nhiều thiệt hại nhất. Các rung động này có biên độ lớn, vượt giới hạn đàn hồi của môi trường đất đá hay công trình và gây nứt vỡ. Tác động thứ cấp của động đất là kích động lở đất, lở tuyết, sóng thần, nước triều giả, vỡ đê. Sau cùng là hỏa hoạn do các hệ thống cung cấp năng lượng (điện, ga) bị hư hại.
+Trong hầu hết trường hợp, động đất tự nhiên là chuỗi các vụ động đất có cường độ khác nhau, kéo dài trong thời gian nhất định, cỡ vài ngày đến vài tháng. Trong chuỗi đó thì trận động đất mạnh nhất gọi là động đất chính (mainshock), còn những lần yếu hơn thì gọi là dư chấn. Dư chấn trước động đất chính gọi là tiền chấn (Foreshock), còn sau động đất chính gọi là "Aftershock" nhưng trong tiếng Việt hiện dùng từ "dư chấn".
+Năng lượng của động đất được trải dài trong một diện tích lớn, và trong các trận động đất lớn có thể trải hết toàn cầu. Các nhà khoa học thường có thể định được điểm mà các sóng địa chấn được bắt đầu. Điểm này được gọi là chấn tiêu (hypocentre). Hình chiếu của điểm này lên mặt đất được gọi là chấn tâm (epicentre).
+Các trận động đất xảy ra dưới đáy biển có thể gây ra lở đất hay biến dạng đáy biển, làm phát sinh sóng thần.
+
+Các nhà địa chấn phân chia ra bốn loại sóng địa chấn, được xếp thành 2 nhóm: 2 loại gọi là sóng khối (Body waves) và 2 loại gọi là sóng bề mặt (Surface waves).
+Sóng khối phát xuất từ chấn tiêu và lan truyền ra khắp các lớp của Trái Đất. Tại chấn tâm thì sóng khối lan đến bề mặt sẽ tạo ra sóng mặt. Bốn sóng này có vận tốc lan truyền khác nhau, và tại trạm quan sát địa chấn ghi nhận được theo thứ tự đi đến như sau:
+Sóng P: Sóng sơ cấp (Primary wave) hay sóng dọc (Longitudinal wave).
+Sóng S: Sóng thứ cấp (Secondary wave) hay sóng ngang (Shear wave).
+Sóng Love: Một dạng sóng mặt ngang phân cực ngang.
+Sóng Rayleigh: còn gọi là rung cuộn mặt đất (Ground roll)
+Tùy theo tình trạng ghi nhận sóng của trạm, nhà địa chấn tính ra cường độ, khoảng cách và độ sâu chấn tiêu với mức chính xác thô. Kết hợp số liệu của nhiều trạm quan sát địa chấn sẽ xác định được cường độ và tọa độ vụ động đất chính xác hơn.
+
+
+== Các thang cường độ ==
+
+
+=== Độ Richter ===
+1–2 trên thang Richter
+Không nhận biết được
+2–4 trên thang Richter
+Có thể nhận biết nhưng không gây thiệt hại
+4–5 trên thang Richter
+Mặt đất rung chuyển, nghe tiếng nổ, thiệt hại không đáng kể
+5–6 trên thang Richter
+Nhà cửa rung chuyển, một số công trình có hiện tượng bị nứt
+6–7 trên thang Richter
+7–8 trên thang Richter
+Mạnh, phá hủy hầu hết các công trình xây dựng thông thường, có vết nứt lớn hoặc hiện tượng sụt lún trên mặt đất.
+8–9 trên thang Richter
+Rất mạnh, phá hủy gần hết cả thành phố hay đô thị, có vết nứt lớn, vài tòa nhà bị lún
+>9 trên thang Richter
+Rất hiếm khi xảy ra
+>10 trên thang Richter
+Cực hiếm khi xảy ra
+
+
+=== Các thang đo khác ===
+Thang độ lớn mô men (Mw)
+Thang Rossi-Forel (viết tắt là RF)
+Thang Medvedev-Sponheuer-Karnik (viết tắt là MSK)
+Thang Mercalli (viết tắt là MM)
+Thang Shindo của cơ quan khí tượng học Nhật Bản
+Thang EMS98 tại châu Âu
+
+
+== Dự báo động đất ==
+Dự báo động đất (Earthquake prediction) là nỗ lực được nhiều thế hệ nhà địa chấn học hướng đến thực hiện, nhằm dự báo thời gian, địa điểm, cường độ và các tính trạng khác, kể cả xây dựng ra phương pháp dự báo như phương pháp VAN (VAN method). Song kết quả chính đạt được là đánh giá nguy cơ xảy ra động đật của từng vùng, thể hiện ở bản đồ phân vùng nguy cơ động đất. Hiện vẫn chưa đạt được dự báo cho từng vụ, tức nhiên là động đất là một thiên tai chưa thể dự báo trước được. Cho nên những người sống ở vùng có nguy cơ động đất không thể tránh nó được.
+Có những thông tin nói về một số loài động vật như voi, chó, chồn, mèo,... có hành vi lánh nạn trước khi xảy ra động đất và sóng thần, bằng chứng là chúng ít bị thiệt mạng trong tai biến này, song chưa được nghiên cứu đầy đủ.
+
+
+== Nên làm gì khi có động đất ==
+
+Động đất không thể dự báo trước, nên có một số điều ta có thể làm để trước, trong lúc, và sau động đất để tránh hoặc giảm thương tích và thiệt hại do động đất gây ra.
+
+
+=== Trước động đất ===
+Những vật dụng trong nhà nên được đứng vững chắc. Những thứ như tivi, gương, máy tính, v.v. nên được dán chặt vào tường để khi lung lay cũng không rớt xuống đất gây ra thương tích. Tranh, gương, v.v. nên được đặt xa giường ngủ.
+Đặt các đồ đạc nặng trong nhà như kệ sách, tủ chén, v.v. xa khỏi các cửa và những nơi thường lui tới để khi chúng ngã vẫn không làm chướng ngại lối ra. Chúng cũng nên được dính chặt vào tường.
+Vật dụng nhà bếp nên được dính chặt vào mặt đất, tường, hay mặt bàn.
+Những vật nặng hay dễ bể nên để gần mặt đất.
+Tại một nơi dễ đến, dự trữ nước uống, đồ ăn đóng hộp, đèn pin, pin, rađiô, băng, thuốc men. Thay đổi chúng thường xuyên khi hết hạn.
+Chọn một nơi tụ họp gia đình nếu mọi người không ở cùng nơi khi động đất xảy ra.
+
+
+=== Trong lúc động đất ===
+
+
+==== Trong nhà ====
+Nếu động đất xảy ra trong lúc trong nhà nên chui xuống gầm bàn.
+Tìm góc phòng để đứng. Tránh cửa kính.
+Tránh xa những vật có thể rơi xuống.
+Che mặt và đầu bằng sách, báo để khỏi bị các mảnh vụn trúng.
+Nếu mất điện, dùng đèn pin. Đừng dùng nến hay diêm vì chúng có thể gây hỏa hoạn.
+
+
+==== Trong các tòa nhà cao tầng ====
+Tuyệt đối không được dùng thang máy vì khi có động đất thì hay kèm theo mất điện và nếu dùng thang máy thì sẽ bị kẹt. Cũng không được dùng thang bộ
+Cũng nên tránh xa các khu vực có cửa kính, đèn điện treo.
+Khóa gas, mở cửa sổ hoặc cửa ra vào, xem đồng hồ nước.
+Nghiên cứu cho thấy có khá nhiều người bị thương là do cố ra khỏi tòa nhà cao tầng ngay lập tức hoặc chạy sang các chỗ khác cùng tòa nhà. Hầu hết thương vong liên quan tới động đất do bị tường đổ, các mảnh kính bị vỡ và văng vào người.
+
+
+==== Ngoài đường ====
+Tránh xa các tòa nhà và dây điện. Tìm chỗ trống để đứng.
+Nếu động đất xảy ra trong lúc lái xe, ngừng xe ở lề đường. Tránh các cột điện, dây điện, và đường cầu, không chui xuống gầm xe
+
+
+=== Sau khi có động đất ===
+Kiểm tra thử có ai bị thương không. Đừng di chuyển người bị thương trừ khi họ ở gần dây điện hay những nguy hiểm khác. Gọi cấp cứu nếu có người tắt thở. Nếu bị nhà sập, gây tiếng động để kêu cứu.
+Chuẩn bị cho các trận dư chấn, những trận động đất gây ra bởi trận động đất vừa xảy ra. Tuy chúng nhỏ hơn, chúng vẫn có thể gây ra thương tích.
+Mở rađiô để xem có tin tức khẩn cấp không.
+Động đất có thể làm đứt dây điện, gas, hay nước. Nếu ngửi thấy có mùi hôi, mở cửa sổ và tắt đường gas, đừng tắt mở máy nào hết, và ra ngoài. Thông báo các nhà chức trách.
+Đến nơi đã chọn để tụ họp và tính đầy đủ.
+
+
+== Tại Việt Nam ==
+Tại Việt Nam rất hiếm những trận động đất mạnh, do vùng bán đảo Đông Dương nằm trong một mảng kiến tạo và xa với vùng rìa mảng.
+Việt Nam từng ghi nhận 2 trận động đất mạnh là động đất Điện Biên (năm 1935) 6,75 độ Richter. Trận thứ hai là động đất Tuần Giáo (năm 1983), với cường độ 6,8 độ Richter. Những động đất này có chấn tiêu nông, nên vùng rung động phá hủy hẹp, không gây thiệt hại đáng kể.
+Vùng ngoài khơi Nam Trung Bộ, năm 1923 cũng có 1 trận động đất 6,1 độ Richter, đi cùng hiện tượng phun trào núi lửa Hòn Tro.
+
+
+=== Phòng ngừa ===
+Hiện nay Viện Vật lý địa cầu đã xây dựng 10 trạm quan sát địa chấn trên lãnh thổ Việt Nam, gửi số liệu theo thời gian thực về Viện.
+Viện cũng có quan hệ trao đổi dữ liệu với các quốc gia và vùng lãnh thổ trong khu vực, hợp tác với Trung tâm Cảnh báo sóng thần Thái Bình Dương (Pacific Tsunami Warning Center) tại Hawaii (Mỹ) và Trung tâm Báo động sóng thần Đại Tây dương (Atlantic Ocean - Tsunami Alarm System) để nhận thông tin, xử lý và đưa ra khuyến cáo.
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Địa chấn học
+Động sao (chấn động trên một số loại sao đặc)
+Danh sách các trận động đất
+Sóng địa chấn
+Độ Richter
+Hòn Tro
+Địa chấn điện
+Hệ thống cảnh báo sóng thần (Tsunami warning system)
+Trung tâm Cảnh báo sóng thần Thái Bình Dương (Pacific Tsunami Warning Center, PTWC)
+
+
+== Liên kết ngoài ==
+How to survive an earthquake - Guide for children and youth
+Earthquakes — an educational booklet by Kaye M. Shedlock & Louis C. Pakiser
+The Severity of an Earthquake
+USGS Earthquake FAQs
+IRIS Seismic Monitor - maps all earthquakes in the past five years.
+Latest Earthquakes in the World - maps all earthquakes in the past week.
+Earthquake Information from the Deep Ocean Exploration Institute, Woods Hole Oceanographic Institution
+Geo.Mtu.Edu — How to locate an earthquake's epicenter
+Photos/images of historic earthquakes
+earthquakecountry.info Answers to FAQs about Earthquakes and Earthquake Preparedness
+Interactive guide: Earthquakes - an educational presentation by Guardian Unlimited
+Geowall — an educational 3D presentation system for looking at and understanding earthquake data
+Virtual Earthquake - educational site explaining how epicenters are located and magnitude is determined
+CBC Digital Archives — Canada's Earthquakes and Tsunamis
+Earthquakes Educational Resources - dmoz
+USGS: Earthquakes for Kids
+Reports on China Sichuan earthquake 12/05/2008
+Kashmir Relief & Development Foundation (KRDF)
+PBS NewsHour - Predicting Earthquakes
+10 trận động đất kinh hoàng nhất

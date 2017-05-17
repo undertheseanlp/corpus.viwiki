@@ -1,0 +1,9 @@
+PubMed là một cơ sở dữ liệu miễn phí truy cập chủ yếu qua cơ sở dữ liệu MEDLINE về các tài liệu tham khảo và tóm tắt về các chủ đề khoa học đời sống và y sinh học. Thư việt Y học Quốc gia Hoa Kỳ (NLM) tại Viện Y tế quốc gia Hoa Kỳ duy trì hoạt động của cơ sở dữ liệu là một phần trong hệ thống truy cập thông tin Entrez. PubMed được phát hành đầu tiên vào tháng 1 năm 1996.
+
+
+== Định danh PubMed ==
+Định danh PubMed hay PMID là một số duy nhất cấp cho mỗi bản ghi PubMed.
+Việc cấp một PMID hay PMCID cho một ấn phẩm không thể cho người đọc biết điều gì về loại hay chất lượng nội dung của ấn phẩm đó. PMID được cấp cho các bức thư gởi đến biên tập viên, các ý kiến của biên tập viên, op-ed columns, và bất kỳ phần nào mà biên tập viên chọn bao gồm trong tạp chí, cũng như các bài báo được xét duyệt. Số định danh này cũng không là bằng chứng cho thấy rằng các bài báo không được rút lại do gian lận, chưa hoàn chỉnh, hoặc sai. Việc thông báo để chỉnh sửa bài báo gốc có thể được cấp số PMID.
+
+
+== Tham khảo ==

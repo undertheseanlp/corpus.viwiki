@@ -1,0 +1,38 @@
+Android Froyo là một phiên bản đã ngừng phát triển của hệ điều hành Android được Google phát triển, trải qua các phiên bản từ 2.2 tới 2.2.3. Nó được giới thiệu vào ngày 20 tháng 5 năm 2010 nhân hội nghị Google I/O 2010.
+Một trong những thay đổi nổi bật ở phiên bản Froyo là tính năng USB tethering và Wi-Fi hotspot. Các thay đổi khác là hỗ trợ dịch vụ Cloud to Device Messaging (C2DM), cho phép đẩy thông báo. Ngoài ra còn cải thiện tốc độ ứng dụng, được hiện thực thông qua biên dịch JIT.
+Vào ngày 2 tháng 11 năm 2015, Google thông báo rằng có 0.2% trong tổng số thiết bị Android truy cập Google Play đang chạy Froyo.
+
+
+== Tính năng ==
+Cách tính năng mới được giới thiệu trên Froyo là:
+Tối ưu hóa tốc độ, bộ nhớ và hiệu suất
+Cải thiện tốc độ ứng dụng, hiện thực thông qua biên dịch JIT
+Tích hợp đông cơ V8 JavaScript của Chrome vào trong ứng dụng trình duyệt
+Hỗ trợ dịch vụ Cloud to Device Messaging (C2DM) service, cho phép đẩy thông báo
+Cải thiện hỗ trợ Microsoft Exchange, bao gồm chính sách an ninh, tự động phát hiện, tìm kiếm GAL, đồng bộ lịch và xóa từ xa
+Cải thiện ứng dụng launcher vwois phím tắt đến ứng dụng Điện thoại và Trình duyệt
+Tính năng USB tethering và Wi-Fi hotspot
+Tùy chọn để vô hiệu hóa truy xuất dữ liệu qua mạng di động
+Cập nhật ứng dụng Market với tính năng cập nhật tự động và hàng loạt
+Chuyển đổi nhanh giữa nhiều ngôn ngữ bàn phím và từ điển
+Hỗ trợ Bluetooth cho xe và bàn
+Hỗ trợ mật khẩu dạng số và chữ
+Hỗ trợ tải lên tập tin trên ứng dụng Trình duyệt
+Trình duyệt sẽ hiển thị tất cả các khung của ảnh động GIF thay vì chỉ khung đầu tiên
+Hỗ trợ cài đặt ứng dụng trên thẻ nhớ mở rộng
+Hỗ trợ Adobe Flash
+Hỗ trợ hiển thị cho các thiết bị có PPI cao (đến mức 320 ppi), như màn hình 4 inch 720p screens
+Giới thiệu phần mở rộng tập tin .asec
+
+Ứng dụng xem ảnh cho phép người dùng xem chồng ảnh bằng cử chỉ zoom
+
+
+== Xem thêm ==
+Lịch sử các phiên bản Android
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+[www.android.com Android]

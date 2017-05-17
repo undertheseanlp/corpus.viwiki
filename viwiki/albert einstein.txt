@@ -1,0 +1,366 @@
+Albert Einstein (tiếng Đức: [ˈalbɐt ˈaɪnʃtaɪn]  ( nghe); 14 tháng 3 năm 1879 – 18 tháng 4 năm 1955) là nhà vật lý lý thuyết người Đức, người đã phát triển thuyết tương đối tổng quát, một trong hai trụ cột của vật lý hiện đại (trụ cột kia là cơ học lượng tử). Mặc dù được biết đến nhiều nhất qua phương trình về sự tương đương khối lượng-năng lượng E = mc2 (được xem là "phương trình nổi tiếng nhất thế giới"), ông lại được trao Giải Nobel Vật lý năm 1921 "cho những cống hiến của ông đối với vật lý lý thuyết, và đặc biệt cho sự khám phá ra định luật của hiệu ứng quang điện". Công trình về hiệu ứng quang điện của ông có tính chất bước ngoặt khai sinh ra lý thuyết lượng tử.
+Khi bước vào sự nghiệp của mình, Einstein đã nhận ra cơ học Newton không còn có thể thống nhất các định luật của cơ học cổ điển với các định luật của trường điện từ. Từ đó ông phát triển thuyết tương đối đặc biệt, với các bài báo đăng trong năm 1905. Tuy nhiên, ông nhận thấy nguyên lý tương đối có thể mở rộng cho cả trường hấp dẫn, và điều này dẫn đến sự ra đời của lý thuyết về hấp dẫn trong năm 1916, năm ông xuất bản một bài báo về thuyết tương đối tổng quát. Ông tiếp tục nghiên cứu các bài toán của cơ học thống kê và lý thuyết lượng tử, trong đó đưa ra những giải thích về lý thuyết hạt và sự chuyển động của các phân tử. Ông cũng nghiên cứu các tính chất nhiệt học của ánh sáng và đặt cơ sở cho lý thuyết lượng tử ánh sáng. Năm 1917, Einstein sử dụng thuyết tương đối tổng quát để miêu tả mô hình cấu trúc của toàn thể vũ trụ. Cùng với Satyendra Nath Bose, năm 1924-1925 ông tiên đoán một trạng thái vật chất mới đó là ngưng tụ Bose-Einstein của những hệ lượng tử ở trạng thái gần độ không tuyệt đối. Tuy cũng là cha đẻ của thuyết lượng tử, nhưng ông lại tỏ ra khắt khe với lý thuyết này. Điều này thể hiện qua những tranh luận của ông với Niels Bohr và nghịch lý EPR về lý thuyết lượng tử.
+Khi ông đang thăm Hoa Kỳ thì Adolf Hitler lên nắm quyền vào năm 1933, do vậy ông đã không trở lại nước Đức, nơi ông đang là giáo sư ở Viện Hàn lâm Khoa học Berlin. Ông định cư tại Hoa Kỳ và chính thức trở thành công dân Mỹ vào năm 1940. Vào lúc sắp diễn ra Chiến tranh thế giới lần hai, ông đã ký vào một lá thư cảnh báo Tổng thống Franklin D. Roosevelt rằng Đức Quốc xã có thể đang nghiên cứu phát triển "một loại bom mới cực kỳ nguy hiểm" và khuyến cáo nước Mỹ nên có những nghiên cứu tương tự. Thực sự, nó đã dẫn đến sự ra đời của Dự án Manhattan sau này. Einstein ủng hộ bảo vệ các lực lượng Đồng minh, nhưng nói chung chống lại việc sử dụng phát kiến mới về phân hạch hạt nhân làm vũ khí. Sau này, cùng với nhà triết học người Anh Bertrand Russell, ông đã ký Tuyên ngôn Russell–Einstein, nêu bật sự nguy hiểm của vũ khí hạt nhân. Einstein làm việc tại Viện Nghiên cứu Cao cấp ở Princeton, New Jersey cho đến khi ông qua đời vào năm 1955.
+Einstein đã công bố hơn 300 bài báo khoa học và hơn 150 bài viết khác về những chủ đề khác nhau, ông cũng nhận được nhiều bằng tiến sĩ danh dự trong khoa học, y học và triết học từ nhiều cơ sở giáo dục đại học ở châu Âu và Bắc Mỹ. Ông được tạp chí Times gọi là "Con người của thế kỷ". Những thành tựu tri thức lớn lao của ông đã khiến tên gọi "Einstein" đã trở nên đồng nghĩa với từ thiên tài
+
+
+== Tiểu sử ==
+
+
+=== Thời niên thiếu và trường học ===
+
+Albert Einstein sinh ra trong một gia đình gốc Do Thái tại thành phố Ulm, bên dòng sông Đa Nuýp, tiểu bang Baden-Württemberg, nước Đức ngày 14 tháng 3 năm 1879. Bố là ông Hermann Einstein, một kĩ sư đồng thời là nhân viên bán hàng, còn mẹ là Pauline Einstein (nhũ danh Koch). Năm 1880, gia đình chuyển đến München, tại đây bố và bác ông mở công ty Elektrotechnische Fabrik J. Einstein & Cie, chuyên sản xuất các thiết bị điện một chiều.
+Dù là dân Do Thái, gia đình Einstein không theo Do Thái giáo. Albert học trường tiểu học Công giáo lúc 5 tuổi trong vòng 3 năm. Sau đó, lên 8 tuổi, Einstein được chuyển đến trường Luitpold Gymnasium nơi cậu học tiểu học và trung học trong vòng 7 năm trước khi rời nước Đức. Mặc dù lúc còn bé Einstein nói rất khó khăn, nhưng cậu vẫn học giỏi ở trường công giáo trong các môn khoa học tự nhiên. Ông là người viết tay phải; và không có hình ảnh cụ thể nào để tin một cách rộng rãi rằng ông viết tay trái.
+Bố Einstein có lần chỉ cho cậu cái la bàn bỏ túi, và Einstein nhận thấy phải có cái gì đó làm cho kim chuyển động, mặc dù chỉ có "không gian trống rỗng" quanh cái kim. Khi lớn lên, Einstein tự làm các mô hình và thiết bị cơ học để nghịch và bắt đầu biểu lộ năng khiếu toán học của mình. Năm 1889, Max Talmud (sau đổi tên thành Max Talmey) chỉ cho cậu bé 10 tuổi Einstein những quyển sách cơ bản của khoa học, toán học và triết học, bao gồm Phê bình lý luận thuần túy của Immanuel Kant và cuốn Cơ bản của Euclid (sau này Einstein gọi là "sách hình học nhỏ thần thánh"). Talmud là một sinh viên y khoa Do thái nghèo đến từ Ba Lan. Cộng đồng người Do thái sắp xếp cho Talmud ăn cùng với Einstein vào các ngày thứ Năm trong tuần trong vòng sáu năm. Trong thời gian này Talmud đã tận tâm hướng dẫn Einstein đến với nhiều chủ đề thú vị.
+Năm 1894, công ty của bố cậu bị phá sản do ngành công nghiệp điện thay thế dòng điện một chiều (DC) bằng dòng xoay chiều (AC). Để tìm lĩnh vực kinh doanh mới, gia đình Einstein chuyển đến Ý, ban đầu đến Milan và vài tháng sau đó là Pavia. Khi gia đình chuyển đến Pavia, Einstein ở lại München để hoàn thành việc học tại Luitpold Gymnasium. Bố Einstein dự định muốn anh theo học kĩ thuật điện, nhưng Einstein tranh cãi với hội đồng giáo dục với việc học và dạy giáo điều tại đây. Sau này ông viết rằng tinh thần học và tính sáng tạo bị mất đi trong sự giới hạn của phương pháp dạy và học thuộc lòng. Cuối tháng 12 năm 1894, anh tìm cách quay trở lại với gia đình ở Pavia, với thuyết phục nhà trường cho anh nghỉ bằng cách dùng nhận xét của bác sĩ về sức khỏe của anh. Trong thời gian ở Ý, Einstein đã viết một tiểu luận khoa học ngắn với nhan đề, "Khảo cứu trạng thái Ether trong từ trường".
+Cuối hè 1895, ở tuổi 16, Einstein tham gia thi tuyển vào trường Bách khoa liên bang Thụy Sĩ ở Zurich (tên Thụy Sĩ sau này Eidgenössische Polytechnische Schule). Ông không trúng tuyển do không đạt điểm chuẩn ở một số môn, mặc dù có điểm cao ở môn Vật lý và Toán học. Theo lời khuyên của hiệu trưởng trường ETH, anh tiếp tục học trường thành bang Aargau ở Aarau, Thụy Sĩ, năm 1895-96 để hoàn thiện bậc học phổ thông. Trong khi ở trọ với gia đình giáo sư Jost Winteler, anh đã yêu cô con gái của gia đình tên là Marie. (Em gái Maja Einstein sau này lấy người con trai của Wintelet, Paul) Tháng 1 năm 1896, với sự đồng ý của bố anh, Einstein đã từ bỏ quyền công dân của vương quốc Württemberg để tránh nghĩa vụ quân sự. (Ông trở thành công dân Thụy Sĩ 5 năm sau, tháng 2 năm 1901.) Tháng 9 năm 1896, ông tốt nghiệp bậc học phổ thông của Thụy Sĩ với điểm số cao (bao gồm điểm 6 trong hai môn Vật lý và Toán học, theo thang điểm 1-6), và ở tuổi 17, anh đỗ vào chương trình cử nhân sư phạm Vật lý và Toán học của trường ETH Zürich. Marie Winteler chuyển đến làm giáo viên ở Olsberg, Thụy Sĩ.
+Trong cùng năm, Mileva Marić, người vợ tương lai của Einstein, cũng vào trường ETH để học làm giáo viên Toán và Vật lý, và là thiếu nữ duy nhất trong 6 sinh viên của lớp học. Tình bạn của hai người phát triển thành tình yêu trong các năm sau đó và họ đã cùng nhau đọc các sách Vật lý mà Einstein đang quan tâm đến. Năm 1900, Einstein tốt nghiệp cử nhân sư phạm ETH Zurich, nhưng Marić lại trượt bài thi do có điểm kém trong chuyên đề Lý thuyết hàm. Đã có những ý kiến cho rằng Mileva Marić hỗ trợ cùng Einstein trong các bài báo đột phá năm 1905, nhưng các nhà lịch sử Vật lý học không tìm thấy một chứng cứ nào cho những đóng góp của bà.
+
+
+=== Gia đình ===
+
+Cuối tháng 1 năm 1902, khi Einstein đang ở Berne, Marić đã sinh con gái đầu lòng tên là Lieserl theo như thư từ trao đổi giữa hai người; lúc đó Mileva đang ở nhà bố mẹ đẻ mình sống ở Novi Sad. Tên đầy đủ của con họ không được biết, và Lieserl sống đến khoảng sau năm 1903 do có thể bị sốt ban đỏ.
+Einstein và Marić cưới tháng 1 năm 1903. Tháng 5 năm 1904, đứa con trai đầu tiên của hai người, Hans Albert Einstein, sinh ra tại Bern, Thụy Sĩ. Con trai thứ hai của họ, Eduard Einstein sinh tại Zurich vào tháng 6 năm 1910. Năm 1914, Einstein dời đến Berlin, trong khi vợ ông ở lại Zurich cùng với các con. Marić và Einstein ly dị ngày 14 tháng 2 năm 1919, sau khi sống ly thân trong 5 năm.
+Einstein lấy người em họ hàng người Đức Elsa Löwenthal (née Einstein) vào ngày 2 tháng 6 năm 1919, sau khi có mối quan hệ với cô từ 1912. Hai người không có con chung và hai cô con gái riêng của Elsa được Albert đối xử như con đẻ, lấy họ của ông: Ilse Einstein và Margot Einstein. Năm 1935, Elsa Einstein được chẩn đoán các bệnh liên quan đến tim và thận; bà qua đời tháng 12 năm 1936.
+Albert Einstein có ba người con, Lieserl Maric (1902 – 1903?), Hans Albert Einstein (1904 – 1973) và Eduard "Tete" Einstein (1910 – 1965), nhưng chỉ có Hans Albert kết hôn và có con. Chỉ có một người con ruột của Hans Albert còn sống sót đến tuổi trưởng thành là Bernhard Caesar Einstein, một nhà vật lý.
+
+
+=== Cục bằng sáng chế ===
+
+Sau khi tốt nghiệp đại học, Einstein đã mất gần hai năm khó khăn trong việc tìm một vị trí giảng dạy, cuối cùng bố của Marcel Grossmann nhờ quen biết với giám đốc cục sáng chế đã giúp ông làm việc tại Bern, ở Cục liên bang về sở hữu trí tuệ, cục bằng sáng chế, với vị trí là người kiểm tra các bằng sáng chế. Ông đánh giá các sáng chế cho các thiết bị điện từ. Năm 1903, ông vào biên chế lâu năm của Cục sáng chế Thụy Sĩ, mặc dù ông đã vượt qua sự đề bạt cho đến khi ông "nắm bắt được công nghệ máy móc".
+Nhiều công việc của ông tại Cục liên quan đến câu hỏi về sự truyền tín hiệu điện và sự đồng bộ hóa cơ-điện của đồng hồ, hai vấn đề kĩ thuật xuất hiện rõ ràng trong các thí nghiệm tưởng tượng mà đã dẫn Einstein tới kết luận quan trọng về bản chất của ánh sáng và sự liên hệ mật thiết giữa không gian và thời gian.
+Cùng với những người bạn ông gặp ở Bern, Einstein đã thành lập một câu lạc bộ thảo luận hàng tuần về khoa học và triết học, mà ông nói đùa là "Viện hàn lâm Olympia". Họ thảo luận về các nghiên cứu của Henri Poincaré, Ernst Mach, and David Hume, mà sau này ảnh hưởng đến sự nghiệp khoa học và quan điểm triết học của Einstein.
+
+
+=== Sự nghiệp hàn lâm ===
+
+Năm 1901, ông công bố bài báo "Folgerungen aus den Kapillarität Erscheinungen" ("Các kết luận về hiện tượng mao dẫn") trên tạp chí nổi tiếng thời đó Annalen der Physik. Ngày 30 tháng 4 năm 1905, Einstein hoàn thành luận án tiến sĩ của mình dưới sự hướng dẫn của giáo sư vật lý thực nghiệm Alfred Kleiner. Einstein được trao bằng tiến sĩ tại Đại học Zurich. Luận án của ông có tiêu đề "Một cách mới xác định kích thước phân tử". Trong cùng năm, mà ngày nay các nhà khoa học gọi là Năm kỳ diệu của Einstein, ông công bố bốn bài báo đột phá, về hiệu ứng quang điện, về chuyển động Brown, thuyết tương đối hẹp, và sự tương đương khối lượng và năng lượng (E=mc2), khiến ông được chú ý tới trong giới hàn lâm trên toàn thế giới.
+Năm 1908, giới khoa học coi ông là nhà khoa học hàng đầu, và Đại học Bern mời ông về làm giảng viên của trường. Các năm sau, ông viết đơn thôi việc tại cục bằng sáng chế và cũng thôi vị trí giảng viên để đảm nhiệm chức danh Privatdozent về vật lý  tại Đại học Zurich. Ông trở thành giáo sư thực thụ tại Đại học Karl-Ferdinand (nay là Đại học Charles) ở Praha năm 1911. Năm 1914, ông trở lại Đức sau khi được bổ nhiệm làm giám đốc của Viện Kaiser Wilhelm về vật lý (1914–1932) và giáo sư tại Đại học Humboldt, Berlin, với một điều khoản đặc biệt trong bản hợp đồng cho phép ông được tự do trước những nghĩa vụ giảng dạy. Ông trở thành thành viên của Viện hàn lâm khoa học Phổ. Năm 1916, Einstein được bổ nhiệm làm chủ tịch của Hội Vật lý Đức (1916–1918).
+Trong năm 1911, dựa trên những suy luận có từ năm 1907 về nhu cầu mở rộng thuyết tương đối đặc biệt, ông đã tìm ra hiện tượng dịch chuyển đỏ do hấp dẫn và tính toán độ lệch của tia sáng phát ra từ ngôi sao ở xa sẽ bị lệch bởi trường hấp dẫn của Mặt Trời. Tuy vậy giá trị tiên đoán chỉ bằng một nửa so với giá trị chính xác sau khi ông tìm ra được phương trình trung tâm cho thuyết tương đối tổng quát (1915). Tiên đoán này được xác nhận bởi đoàn thám hiểm người Anh dẫn đầu bởi Sir Arthur Eddington trong quá trình theo dõi nhật thực vào ngày 29 tháng 5 năm 1919. Các tờ báo quốc tế nhanh chóng đăng tải sự kiện này và Einstein trở nên nổi tiếng toàn thế giới. Ngày 7 tháng 11 năm 1919, tờ báo tin tức hàng đầu của Anh The Times in một dòng chữ tựa đề trên trang nhất viết là: "Cách mạng trong Khoa học – Lý thuyết mới về Vũ trụ – Các tư tưởng của Newton đã bị lật nhào". Sau đó, rất nhiều câu hỏi xuất hiện liệu các đo đạc có đủ chính xác để công nhận tiên đoán. Cuối cùng thì những dữ liệu đo đạc của Eddington là đủ tin cậy và đoàn thám hiểm của ông thực sự đã xác nhận tiên đoán của Einstein.
+Năm 1921, Einstein nhận giải Nobel Vật lý. Do thuyết tương đối hẹp vẫn còn đang tranh cãi, nên hội đồng giải Nobel đã trao giải cho ông vì những giải thích về hiện tượng quang điện và các đóng góp cho vật lý. Ông nhận huy chương Copley từ Hội Hoàng gia năm 1925.
+
+
+=== Thăm nước ngoài ===
+Einstein đến thành phố New York lần đầu tiên vào ngày 2 tháng 4 năm 1921, ở đây ông nhận được sự chào đón trọng thể từ thị trưởng thành phố, sau đó là ba tuần thuyết giảng và gặp gỡ nhiều người. Ông trình bày một số bài giảng ở Đại học Columbia và Đại học Princeton, và ở Washington ông đi cùng các đại diện của Viện hàn lâm Khoa học Quốc gia đến thăm Nhà Trắng. Trên đường trở lại châu Âu, nhà triết học và chính khách người Anh Viscount Haldane đã mời ông tới London, nơi ông gặp một vài nhà khoa học nổi tiếng, các chính trị gia và thực hiện một bài giảng ở trường King's College.
+Năm 1922, ông đi du lịch và có các buổi phát biểu trong chuyến hành trình 6 tháng đến các nước châu Á và Palestine. Các nước ông đến bao gồm Singapore, Ceylon, và Nhật Bản, ở đây ông có một loạt các bài giảng trước hàng nghìn người dân Nhật Bản. Ông cũng đến diện kiến Nhật hoàng và hoàng hậu tại Hoàng cung. Einstein sau đó thể hiện sự cảm mến cho người Nhật trong bức thư ông gửi cho con trai mình: "Trong những người mà bố đã gặp, bố thích người Nhật Bản nhất, vì họ là những người khiêm tốn, thông minh, chu đáo, và quan tâm tới nghệ thuật." Trên hành trình đến Nhật Bản, ông cũng ghé thăm Hồng Kông và Thượng Hải, đồng thời nghe tin mình được trao giải Nobel Vật lý.
+Khi trở về, ông cũng ghé qua Palestine, lúc đó là thưộc địa của Anh, trong 12 ngày và cũng là lần viếng thăm vùng Trung Đông duy nhất của ông. Nhà tiểu sử Walter Isaacson viết "Ông được chào đón bởi sự long trọng của người Anh, như là một chính khách cao cấp hơn là một nhà vật lý lý thuyết", bao gồm một loạt pháo hiệu chào mừng khi đến dinh thự của toàn quyền Anh, Sir Herbert Samuel. Trong buổi tiếp, một đám đông đã vây quanh dinh thự để muốn trông thấy và nghe Einstein nói chuyện. Khi nói chuyện với thính giả, ông thể hiện niềm hạnh phúc của mình:
+
+"Đây là một trong những ngày ý nghĩa lớn nhất của cuộc đời tôi. Trước đây, tôi luôn cảm thấy tiếc nuối một cái gì đó trong bản sắc người Do Thái, và đó là sự lãng quên trong chính mỗi người. Ngày nay, tôi thật hạnh phúc khi chứng kiến người Do Thái đã nhận ra chính họ và hành động để cho thế giới công nhận như là một dân tộc".
+
+Ông cũng thăm Tây Ban Nha trước khi trở lại Đức. Năm 1925, ông viếng thăm Nam Mỹ bao gồm các thành phố Buenos Aires, Rio de Janeiro và Montevideo. Năm 1929, ông thăm Bỉ và hoàng gia Bỉ.
+
+
+=== Định cư tại Mỹ ===
+
+Tháng 2 năm 1933 khi đang thăm Hoa Kỳ, Einstein đã quyết định không trở lại nước Đức do Đảng Quốc xã lên nắm chính quyền. Trước đó ông đến thăm các trường đại học Hoa Kỳ vào đầu năm 1933 và chuyến thăm lần thứ ba kéo dài hai tháng ở Viện Công nghệ California ở Pasadena. Ông và bà Elsa trở lại Bỉ bằng tàu biển vào cuối tháng 3. Trong chuyến hành trình, ông nghe được tin ngôi nhà và chiếc thuyền buồm của ông ở Berlin đã bị đảng viên Quốc xã tịch thu. Khi đến Antwerp vào ngày 28 tháng 3, ông đã đến lãnh sự quán Đức và chính thức từ bỏ quyền công dân Đức.
+Đầu tháng 4, ông biết rằng chính phủ Đức đã thông qua các đạo luật ngăn cấm người Do Thái giữ bất kỳ một vị trí công việc nào, kể cả giảng viên tại các trường đại học. Một tháng sau, các công trình nghiên cứu của Einstein nằm trong mục tiêu đốt phát của đảng Quốc xã, và bộ trưởng tuyên truyền Joseph Goebbels công bố, "Tri thức Do Thái đã bị tiêu diệt."
+Ông tạm trú tại Bỉ trong một vài tháng, trước khi chuyển sang Anh. Trong một bức thư gửi cho người bạn, nhà vật lý Max Born, người cũng đã rời nước Đức và sống tại Anh, Einstein viết, "... Tôi phải thừa nhận rằng mức độ tàn bạo và hèn nhát đến một cách thật bất ngờ."
+Tháng 10 năm 1933 ông cùng bà Elsa quay trở lại Hoa Kỳ và đảm nhiệm chức vụ giáo sư tại Viện nghiên cứu cao cấp Princeton tại Princeton, New Jersey. Trường này ban đầu đề nghị ông làm việc trong thời gian một năm rưỡi. Ông vẫn chưa quyết định về tương lai của mình (có nhiều trường đại học ở châu Âu mời ông về nghiên cứu, bao gồm Oxford), nhưng đến năm 1935 ông quyết định ở lại Hoa Kỳ. Ông làm việc tại viện Princeton cho tới khi qua đời năm 1955. Tại viện cũng có các nhà khoa học lớn khác như John von Neumann và Kurt Gödel), ông cũng sớm hình thành tình bạn thân thiết với Gödel. Họ hay đi dạo những quãng đường dài để cùng nhau thảo luận về công việc của nhau. Trợ lý cuối cùng của ông là nhà vật lý Bruria Kaufman. Ở viện nghiên cứu, ông tiếp tục tập trung phát triển thuyết trường thống nhất nhưng đã không thành công. Einstein cũng luôn luôn giữ vững quan điểm của mình khi cho rằng lý thuyết cơ học lượng tử là không đầy đủ và không chứa yếu tố bất định. "Chúa không chơi xúc xắc".
+
+
+==== Chiến tranh thế giới lần II và dự án Manhattan ====
+
+Năm 1939, một nhóm các nhà khoa học Hungari bao gồm nhà vật lý Leó Szilárd cố gắng cảnh báo Washington rằng phe Quốc xã đang thực hiện các nghiên cứu bom nguyên tử. Tuy vậy cảnh báo của nhóm đã không gây sự chú ý đến giới chính trị. Einstein và Szilárd, cùng những nhà khoa học tị nạn khác gồm Edward Teller và Eugene Wigner, "coi họ có trách nhiệm để cảnh báo người Mỹ khả năng của các nhà khoa học Đức có thể chế tạo thành công bom nguyên tử, và rằng Hitler rất quyết tâm có được vũ khí như vậy." Hè 1939, vài tháng trước khi nổ ra chiến tranh ở châu Âu, Szilárd khuyên mời Einstein ký vào một bức thư gửi đến tổng thống Franklin D. Roosevelt để cảnh báo ông về khả năng này. Bức thư cũng đề cập đến chính phủ Hoa Kỳ nên chú ý tới và tham gia trực tiếp vào nghiên cứu uranium cũng như chuỗi phản ứng dây chuyền.
+Bức thư được cho là có khả năng "thúc đẩy chính phủ Hoa Kỳ chấp nhận cho phép nghiên cứu vũ khí hạt nhân". Tổng thống Roosevelt không thể gánh rủi ro khi Hitler sở hữu bom nguyên tử đầu tiên. Cùng với lá thư và buổi gặp của Einstein với Roosevelt, Hoa Kỳ tham gia vào cuộc "chạy đua" phát triển bom, tập trung vào đây rất nhiều nguồn lực tài chính, vật liệu, cơ sở cũng như các nhà khoa học lớn trong dự án Manhattan. Cuối cùng Hoa Kỳ trở thành nước duy nhất sở hữu bom nguyên tử trong thời gian chiến tranh thế giới lần II.
+Đối với Einstein, "chiến tranh là căn bệnh... [và] ông kêu gọi chống lại chiến tranh." Nhưng năm 1933, sau khi Hitler trở thành lãnh đạo tối cao ở Đức, "ông đã khẩn thiết kêu gọi các nước phương Tây chuẩn bị chống lại sự tấn công của nước Đức." Năm 1954, một năm trước khi qua đời, Einstein kể cho người bạn già của mình, Linus Pauling, "Tôi đã gây ra một trong những lỗi lầm lớn nhất trong cuộc đời — đó là khi tôi ký vào bức thư gửi tổng thống Roosevelt khuyến nghị nên chế tạo bom nguyên tử; với một số biện hộ — sẽ nguy hiểm hiểm nếu người Đức có được nó..."
+
+
+==== Công dân Mỹ ====
+
+Einstein trở thành công dân Mỹ năm 1940 sau khi quyết định nghiên cứu ở Princeton, ông thể hiện sự đánh giá cao của mình về "chế độ nhân tài" trong văn hóa Mỹ so với châu Âu. Theo Isaacson, ông nhận ra "quyền cá nhân về suy nghĩ và phát ngôn thứ mà họ thích", mà không bị rào cản xã hội, và hệ quả là, từng cá nhân được "khuyến khích" trở lên sáng tạo hơn, một đặc điểm mà họ thừa hưởng từ nền giáo dục cơ sở. Einstein viết:
+
+Sự mới mẻ đến với đất nước này là đặc điểm dân chủ trong nhân dân. Không ai hạ mình trước người khác hay tầng lớp khác... Thanh niên Mỹ có may mắn không phải đối mặt với các rắc rối từ những truyền thống lỗi thời.
+
+Là thành viên của "Hiệp hội quốc gia vì sự tiến bộ của người da màu" (NAACP) tại Princeton đấu tranh cho quyền công dân của người Mỹ gốc Phi, Einstein có trao đổi thư từ với nhà hoạt động dân chủ W. E. B. Du Bois, và năm 1946 Einstein gọi chủ nghĩa phân biệt chủng tộc ở Hoa Kỳ là "thứ bệnh tồi tệ nhất". Ông nói, "Định kiến phân biệt chủng tộc không may đã trở thành truyền thống ở Mỹ lan truyền qua từng thế hệ mà không bị phê phán. Chỉ có thể khắc phục định kiến này bằng giáo dục và giác ngộ".
+Những năm cuối đời Einstein chuyển sang lối sống chay tịnh, với lý giải "người ăn chay sống bằng hiệu ứng vật lý thuần túy trên khí chất cơ thể sẽ ảnh hưởng có lợi nhất đến đa số nhân loại".
+Sau khi Chaim Weizmann, vị tổng thống đầu tiên của Israel, qua đời tháng 11 năm 1952, thủ tướng David Ben-Gurion đã đề xuất Einstein làm tổng thống kế nhiệm, chủ yếu với vai trò danh dự. Đại sứ Israel ở Washington, Abba Eban, giải thích lời đề nghị "thể hiện sự tôn trọng sâu sắc nhất của người dân Do Thái đối với ông". Tuy thế Einstein đã từ chối lời đề nghị trong sự "xúc động sâu sắc":
+
+
+=== Qua đời ===
+Vào ngày 17 tháng 4 năm 1955, Albert Einstein bị chảy máu trong do vỡ động mạch chủ, mà trước đó đã được phẫu thuật bởi tiến sĩ Rudolph Nissen năm 1948. Ông đã viết nháp chuẩn bị cho bài phát biểu trên truyền hình kỷ niệm ngày độc lập thứ bảy của nhà nước Israel khi trên đường đến bệnh viện, nhưng ông đã không kịp hoàn thành nó. Einstein đã từ chối phẫu thuật, ông nói: "Tôi muốn đi khi tôi muốn. Thật vô vị để duy trì cuộc sống giả tạo. Tôi đã hoàn thành chia sẻ của mình, đã đến lúc phải đi. Tôi sẽ ra đi trong thanh thản." Ông mất trong bệnh viện Princeton vào sáng sớm hôm sau ở tuổi 76, nơi ông vẫn tiếp tục làm việc đến hơi thở cuối cùng. Thi thể Einstein được hỏa táng và tro được rải khắp nơi quanh vùng của Viện nghiên cứu cao cấp, Princeton, New Jersey. Trong quá trình khám nghiệm tử thi, nhà nghiên cứu bệnh học thuộc bệnh viện Princeton, Thomas Stoltz Harvey đã mổ lấy não của Einstein để bảo quản, mà không được sự cho phép của gia đình ông, với hy vọng rằng khoa học thần kinh trong tương lai có thể khám phá ra điều làm Einstein trở nên thông minh.
+
+
+== Nhận xét về Einstein ==
+Trong bài điếu văn, nhà vật lý hạt nhân Robert Oppenheimer tổng kết lại về Einstein: "Ông hầu như không có bản chất phức tạp và sự trần tục... Luôn luôn ở trong ông là sự thuần khiết tuyệt vời lúc như đứa trẻ lúc thì uyên thâm bướng bỉnh."
+Tại phần nói đầu của cuốn sách "Subtle is the Lord..." nhà vật lý và lịch sử khoa học Abraham Pais viết: Nếu được nói một câu ngắn gọn về tiểu sử Einstein, tôi có thể nói rằng "ông là con người tự do nhất mà tôi đã từng biết", và một câu về sự nghiệp khoa học của ông, tôi có thể viết "giỏi hơn bất kỳ ai trước hoặc sau ông, ông biết cách phát minh ra các nguyên lý bất biến và biết cách sử dụng các định luật thống kê".
+
+
+== Sự nghiệp khoa học ==
+Trong suốt cuộc đời ông, Einstein xuất bản rất nhiều sách và hàng trăm bài báo. Phần lớn về vật lý, nhưng một số ít bày tỏ quan điểm chính trị cánh tả về chủ nghĩa hòa bình, chủ nghĩa xã hội, và chủ nghĩa phục quốc Do thái. Ngoài các nghiên cứu của cá nhân ông, ông còn hợp tác với nhiều nhà khoa học khác về các lĩnh vực khoa học như: Thống kê Bose–Einstein, máy làm lạnh Einstein và nhiều nghiên cứu khác.
+
+
+=== Vật lý những năm 1900 ===
+Các bài báo ban đầu của Einstein bắt nguồn từ sự cố gắng chứng minh rằng nguyên tử tồn tại và có kích thước hữu hạn khác không. Tại thời điểm ông viết bài báo đầu tiên năm 1902, các nhà vật lý vẫn chưa chấp nhận hoàn toàn rằng nguyên tử tồn tại thực sự, mặc dù các nhà hóa học đã có những chứng cứ cụ thể từ các công trình của Antoine Lavoisier trước một thế kỷ. Lý do các nhà vật lý vẫn nghi ngờ vì không có một lý thuyết nào ở thế kỷ 19 có thể giải thích đầy đủ tính chất của vật chất từ các tính chất của nguyên tử.
+Ludwig Boltzmann là nhà vật lý thống kê hàng đầu của thế kỷ 19, người đã đấu tranh nhiều năm để thuyết phục cộng đồng khoa học chấp nhận nguyên tử tồn tại. Boltzmann đã đưa ra cách giải thích các định luật nhiệt động học, gợi ý rằng định luật tăng entropy có tính thống kê. Theo cách suy nghĩ của Boltzmann, entropy là logarit của số các trạng thái một hệ có được cấu hình bên trong. Lý do entropy tăng chỉ bởi vì xác suất để một hệ từ trạng thái đặc biệt với chỉ vài cấu hình bên trong chuyển sang hệ có nhiều trạng thái hơn là lớn. Trong khi cách giải thích thống kê của Boltzmann về entropy được công nhận rộng rãi ngày nay, và Einstein đã tin vào điều này, tại thời điểm đầu thế kỷ 20 nó ít được mọi người để ý đến.
+Ý tưởng thống kê được áp dụng thành công nhất khi giải thích tính chất của chất khí. James Clerk Maxwell, một nhà vật lý học hàng đầu khác, đã tìm ra định luật phân bố vận tốc của các nguyên tử trong chất khí, và ông đi đến một kết luận ngạc nhiên là tính nhớt của chất khí có thể độc lập với mật độ của nó. Về mặt trực giác, ma sát trong chất khí dường như bằng không khi mật độ đi về không, nhưng điều này không phải vậy, bởi vì đường di chuyển tự do trung bình của các nguyên tử trở lên rộng hơn tại mật độ thấp. Những thí nghiệm tiếp sau của Maxwell và vợ ông xác nhận tiên đoán kì lạ này. Các thí nghiệm khác trên chất khí và chân không, sử dụng một trống quay tách, cho thấy các nguyên tử trong chất khí có các vận tốc phân bố tuân theo định luật phân bố của Maxwell.
+Bên cạnh những thành công này, cũng có những mâu thuẫn. Maxwell chú ý rằng tại nhiệt độ thấp, lý thuyết nguyên tử tiên đoán nhiệt dung riêng quá lớn. Trong cơ học thống kê cổ điển, mọi dao động điều hòa đơn giản (chuyển động kiểu lò xo) có nhiệt năng kBT ở nhiệt độ trung bình T, do vậy nhiệt dung riêng của mọi lò xo là hằng số BoltzmannkB. Một chất rắn đơn nguyên tử với Nnguyên tử có thể được xem là N quả cầu nhỏ tương ứng với N nguyên tử gắn vào mỗi vị trí nút mạng với 3N lò xo, do vậy nhiệt dung riêng của chất rắn là 3NkB, một kết quả của định luật Dulong–Petit. Định luật đúng cho nhiệt độ phòng, nhưng không đúng đối với nhiệt độ lạnh hơn. Tại gần 0K, nhiệt dung riêng bằng không.
+Tương tự, một chất khí cấu thành từ phân tử hai nguyên tử có thể được xem là hai quả cầu gắn với nhau bởi một lò xo. Lò xo này có năng lượng kBT tại nhiệt độ cao, và cộng thêm vào một lượng nhiệt kB cho nhiệt dung riêng ở nhiệt độ khoảng 1000 độ, nhưng tại nhiệt độ thấp lượng nhiệt thêm này sẽ biến mất. Tại 0 độ, mọi nhiệt dung riêng do sự quay và rung động đều biến mất. Kết quả này mâu thuẫn với vật lý cổ điển.
+Những mâu thuẫn rõ ràng nhất là trong lý thuyết về sóng ánh sáng. Các sóng liên tục trong một hộp được coi như vô số lò xo chuyển động, mỗi cái tương ứng với sóng đứng. Mỗi sóng đứng có một nhiệt dung riêng xác định kB, do đó tổng nhiệt dung riêng của sóng liên tục giống ánh sáng trở thành vô hạn trong cơ học cổ điển. Điều này rõ ràng là vi phạm đối với định luật bảo toàn năng lượng.
+Những mâu thuẫn này dẫn đến nhiều người nói rằng nguyên tử không có tính vật lý, mà là toán học. Đáng chú ý trong số những người hoài nghi là Ernst Mach, người theo triết học thực chứng mà đã dẫn ông đến nhu cầu là nếu nguyên tử tồn tại, thì nó có thể nhìn thấy được. Mach tin rằng những nguyên tử này là một giả tưởng hữu dụng, mà trong thực tế chúng được giả sử là nhỏ vô hạn, do vậy số Avogadro là vô hạn, hoặc rất lớn để coi như vô hạn, và kB là vô cùng nhỏ. Có những thí nghiệm có thể giải thích được bằng lý thuyết nguyên tử, nhưng lại có những thí nghiệm thì không thể giải thích được, và nó vẫn luôn là thế.
+Einstein đã phản đối quan điểm này. Suốt sự nghiệp của mình, ông là một nhà duy thực. Ông tin rằng một lý thuyết phù hợp duy nhất có thể giải thích được mọi quan sát, lý thuyết này sẽ là một mô tả về cái thực sự đã diễn ra, và những điều ẩn sau nó. Từ đó ông cho rằng quan điểm về nguyên tử là đúng. Điều này dẫn ông đầu tiên đến với nhiệt động học, rồi đến vật lý thống kê, và lý thuyết nhiệt dung riêng của chất rắn.
+Năm 1905, trong khi làm việc ở phòng cấp phát bằng sáng chế, tạp chí tiếng Đức hàng đầu Annalen der Physik đã xuất bản bốn bài báo của Einstein. Bốn bài báo sau này được coi là một cuộc cách mạng trong vật lý, và năm 1905 trở thành "năm kỳ diệu của Einstein".
+
+Ngày 30 tháng 4 năm 1905, Einstein hoàn thành luận án của mình dưới sự hướng dẫn của Alfred Kleiner, giáo sư vật lý thực nghiệm. Einstein được trao bằng tiến sĩ ở Đại học Zurich. Luận án của ông với tên "Một cách mới xác định kích thước phân tử".
+
+
+=== Thăng giáng nhiệt động và vật lý thống kê ===
+
+Các bài báo sớm nhất của Einstein đề cập đến nhiệt động học. Trong đó ông cố gắng giải thích các hiện tượng từ quan điểm thống kê của nguyên tử.
+Nghiên cứu của ông trong năm 1903 và 1904 tập trung vào hiệu ứng kích thước nguyên tử hữu hạn tác động đến hiện tượng tán xạ. Giống như nghiên cứu của Maxwell, sự hữu hạn của kích thước nguyên tử dẫn đến các hiệu ứng có thể quan sát được. Nghiên cứu này nằm trong vấn đề chính của vật lý ở thời đại ông đó là tìm cách quan sát và chứng minh nguyên tử tồn tại. Chúng cũng là nội dung chính trong luận án tiến sĩ của ông.
+Kết quả chính đầu tiên của ông trong lĩnh vực này là lý thuyết thăng giáng nhiệt động. Khi ở trạng thái cân bằng, một hệ có entropy cực đại, và theo cách hiểu của thống kê, nó chỉ có thăng giáng nhỏ. Einstein chỉ ra rằng thăng giáng thống kê của vật thể vĩ mô, có thể được hoàn toàn xác định bởi đạo hàm bậc hai của entropy.
+Nghiên cứu cách kiểm tra quan hệ này, ông đã có đột phá lớn năm 1905. Ông nhận ra rằng lý thuyết này tiên đoán một hiệu ứng quan sát được cho một vật có thể di chuyển xung quanh tự do khi nằm trong môi trường nguyên tử hoạt động. Vì vật có vận tốc ngẫu nhiên do vậy nó có thể di chuyển ngẫu nhiên, giống như một nguyên tử đơn lẻ. Động năng trung bình của vật này là 
+  
+    
+      
+        
+          k
+          
+            B
+          
+        
+        T
+      
+    
+    {\displaystyle k_{B}T}
+  , và thời gian giảm thăng giáng có thể được xác định hoàn toàn bởi định luật ma sát.
+Định luật ma sát cho quả cầu nhỏ trong chất lỏng nhớt giống nước được khám phá bởi George Stokes. Ông chỉ ra đối với vận tốc nhỏ, lực ma sát tỉ lệ với vận tốc, và bán kính của hạt. Quan hệ này được sử dụng để tính toán hạt chuyển động được một quãng đường bao nhiêu trong nước do chuyển động nhiệt ngẫu nhiên của nó, và Einstein chú ý là với những quả cầu kích thước khoảng một micron, chúng có thể di chuyển với vận tốc vài micron trong một giây. Chuyển động này đã được quan sát bởi nhà thực vật học Robert Brown dưới kính hiển vi, hay chuyển động Brown. Einstein đã đồng nhất chuyển động này với tiên đoán của lý thuyết ông đưa ra. Từ thăng giáng gây ra chuyển động Brown cũng chính là thăng giáng vận tốc của các nguyên tử, nên việc đo chính xác chuyển động Brown sử dụng lý thuyết của Einstein đã cho thấy hằng số Boltzmann là khác không và cho phép đo được số Avogadro.
+Các thí nghiệm này được thực hiện vài năm sau đó, cho một ước lượng thô về số Avogadro phù hợp với ước lượng chính xác hơn của lý thuyết vật đen của Max Planck, và thí nghiệm đo điện tích của Robert Millikan. Không như các phương pháp khác, đòi hỏi của Einstein cần rất ít các điều giả sử lý thuyết hay vật lý mới, vì đã trực tiếp đo chuyển động của nguyên tử qua các hạt nhìn thấy được.
+Lý thuyết của Einstein về chuyển động Brown là bài báo đầu tiên về lĩnh vực vật lý thống kê. Nó thiết lập mối liên hệ giữa thăng giáng nhiệt động và sự tiêu tán năng lượng. Điều này được Einstein chỉ ra là đúng đối với thăng giáng độc lập thời gian, nhưng trong bài báo về chuyển động Brown ông chỉ ra rằng tỉ số nghỉ động học (dynamical relaxation rates) được tính toán từ cơ học cổ điển có thể được dùng là tỉ số nghỉ thống kê (statistical relaxation rates) để dẫn ra định luật khuếch tán động học. Những quan hệ này gọi là phương trình Einstein trong lý thuyết động học phân tử.
+Lý thuyết về chuyển động Brown đã mở đầu năm kỳ diệu của Einstein, nhưng nó cũng đóng vai trò quan trọng trong việc thuyết phục các nhà vật lý chấp nhận thuyết nguyên tử.
+
+
+=== Thí nghiệm tưởng tượng và nguyên lý vật lý tiên nghiệm ===
+Suy nghĩ của Einstein phải trải qua một sự thay đổi vào năm 1905. Ông đã hiểu rằng các tính chất lượng tử của ánh sáng có nghĩa là các phương trình Maxwell chỉ là lý thuyết xấp xỉ. Ông biết rằng các định luật mới có thể thay thế chúng, nhưng ông chưa biết làm thế nào để tìm ra các định luật này. Ông cảm thấy rằng ước đoán các mối quan hệ hình thức sẽ không đi đến đâu.
+Thay vào đó ông quyết định tập trung vào các nguyên lý tiên nghiệm, chúng nói rằng các định luật vật lý có thể được hiểu là thỏa mãn trong những trường hợp rất rộng thậm chí trong những phạm vi mà chúng chưa từng được áp dụng hay kiểm nghiệm. Một ví dụ được các nhà vật lý chấp nhận rộng rãi của nguyên lý tiên nghiệm đó là tính bất biến quay (hay tính đối xứng quay, nói rằng các định luật vật lý là bất biến nếu chúng ta quay toàn bộ không gian chứa hệ theo một hướng khác). Nếu một lực mới được khám phá trong vật lý, lực này có thể lập tức được hiểu nó có tính bất biến quay mà không cần phải suy xét. Einstein đã hướng tìm các nguyên lý mới theo phương pháp bất biến này, để tìm ra các ý tưởng vật lý mới. Khi các nguyên lý cần tìm đã đủ, thì vật lý mới sẽ là lý thuyết phù hợp đơn giản nhất với các nguyên lý và các định luật đã được biết trước đó.
+Nguyên lý tiên nghiệm tổng quát đầu tiên do Einstein tìm ra là nguyên lý tương đối, theo đó chuyển động tịnh tiến đều không phân biệt được với trạng thái đứng im. Nguyên lý này được Hermann Minkowski mở rộng cho cả tính bất biến quay từ không gian vào không-thời gian. Những nguyên lý khác giả thiết bởi Einstein và sau đó mới được chứng minh là nguyên lý tương đương và nguyên lý bất biến đoạn nhiệt của số lượng tử. Một nguyên lý tổng quát khác của Einstein, còn gọi là nguyên lý Mach, vẫn còn là vấn đề đang được tranh luận giữa các nhà khoa học.
+Việc sử dụng các nguyên lý tiên nghiệm là một phương pháp đặc biệt độc đáo trong các nghiên cứu đầu tiên của Einstein, và nó trở thành một công cụ tiêu chuẩn trong vật lý hiện đại.
+
+
+=== Lý thuyết tương đối hẹp ===
+
+Bài báo năm 1905 của ông về điện động lực học các vật thể chuyển động giới thiệu ra lý thuyết tương đối hẹp, cho thấy tốc độ ánh sáng độc lập với trạng thái chuyển động của quan sát viên đã đòi hỏi những sự thay đổi cơ bản về khái niệm của sự đồng thời. Những hề quả của kết luận này bao gồm sự giãn thời gian và co độ dài (theo hướng chuyển động) của vật thể chuyển động tương đối đối với hệ quy chiếu của quan sát viên. Bài báo này cũng bác bỏ sự tồn tại của ête (vật lý) - một trong những vấn đề lớn của thời đó.
+Trong bài báo về sự tương đương khối lượng-năng lượng, vấn đề này cũng đã được quan tâm tới trước đó bởi các khái niệm khác, Einstein đã rút ra từ các phương trình của thuyết tương đối hẹp hệ thức nổi tiếng trong thế kỷ 20: E = mc2. Hệ thức này cho thấy một khối lượng nhỏ tương đương với một năng lượng khổng lồ và nó là cơ sở cho lý thuyết năng lượng hạt nhân.
+Nhiều năm sau đó, công trình của Einstein về thuyết tương đối đặc biệt năm 1905 vẫn còn là đề tài tranh cãi, nhưng ngay từ ban đầu nó đã được các nhà vật lý lớn ủng hộ, khởi đầu là Max Planck.
+
+
+=== Photon ===
+
+Trong một bài báo năm 1905, Einstein đã đặt ra một tiên đề đó là ánh sáng bao gồm các hạt rời rạc gọi là lượng tử. Lượng tử ánh sáng của Einstein hầu như bị các nhà vật lý bác bỏ khi ông mới giới thiệu ý tưởng này, trong đó có Max Planck và Niels Bohr. Ý tưởng này chỉ được chấp nhận rộng rãi vào năm 1919, nhờ những thí nghiệm chi tiết của Robert Millikan về hiệu ứng quang điện thực hiện vào năm 1914, và phép đo sự tán xạ Compton của Arthur Compton.
+Bài báo của Einstein về các hạt ánh sáng hầu hết xuất phát từ các nghiên cứu về nhiệt động lực học. Ông không bị thúc đẩy bởi các thí nghiệm về hiệu ứng quang điện, mà không phù hợp với lý thuyết của ông trong vòng 50 năm sau. Einstein quan tâm đến entropy của ánh sáng tại nhiệt độ T, và phân nó thành hai phần bao gồm phần tần số thấp và phần tần số cao. Phần ánh sáng tần số cao được miêu tả bởi định luật Wien, có entropy giống hệt với entropy của các phân tử khí cổ điển.
+Từ entropy là số logarit của các trạng thái khả dĩ, Einstein kết luận là số các trạng thái của ánh sáng bước sóng ngắn trong một hộp với thể tích V bằng với số các trạng thái của một nhóm các hạt lượng tử trong cùng hộp. Do ông (không giống với những người khác) cảm thấy dễ chịu với cách giải thích thống kê, ông tin rằng tiên đề về ánh sáng được lượng tử hóa là một công cụ giải thích tính hợp lý cho entropy.
+Điều này dẫn ông đến liên hệ Planck–Einstein là mỗi sóng với tần số f sẽ đồng hành với một tập hợp các photon, mỗi hạt ứng với năng lượng hf, trong đó h là hằng số Planck. Ông không thể bàn luận thêm, bởi vì Einstein không dám chắc các hạt liên hệ như thế nào với sóng. Nhưng ông đề nghị là ý tưởng này có thể giải thích các kết quả thí nghiệm khác, như hiệu ứng quang điện.
+
+
+=== Lượng tử hóa dao động nguyên tử ===
+
+Eiinstein tiếp tục nghiên cứu về cơ học lượng tử vào năm 1906, tìm cách giải thích sự dị thường của nhiệt dung riêng trong các chất rắn. Đây là ứng dụng đầu tiên của lý thuyết lượng tử vào một hệ cơ học.
+Từ định luật Planck về phân bố bức xạ điện từ không cho kết quả về giá trị nhiệt dung riêng vô hạn, cùng ý tưởng này có thể được áp dụng cho chất rắn để khắc phục vấn đề nhiệt dung riêng vô hạn trong các chất này. Einstein đã chỉ ra một mô hình đơn giản với giả thuyết là chuyển động của các nguyên tử trong chất rắn bị lượng tử hóa để giải thích tại sao nhiệt dung riêng của chất rắn lại trở về không khi tiến gần đến độ không tuyệt đối.
+Mô hình của Einstein coi mỗi nguyên tử được kết nối với một lò xo tưởng tượng. Thay vì liên kết tất cả các nguyên tử với nhau, mà sẽ dẫn đến các sóng đứng với các loại tần số khác nhau, Einstein tưởng tượng ra mỗi nguyên tử được gắn tại một điểm trong không gian bởi chỉ một lò xo. Điều này không đúng về mặt vật lý, nhưng lý thuyết vẫn tiên đoán giá trị hữu hạn nhiệt dung riêng là 3NkB, do số các dao động độc lập đều giống nhau.
+Einstein từ đó giả sử là chuyển động trong mô hình này bị lượng tử hóa, tuân theo định luật Planck, do vậy mỗi chuyển động độc lập của lò xo có năng lượng bằng một số nguyên lần hf, trong đó f là tần số dao động. Với giả sử này, ông áp dụng phương pháp thống kê của Boltzmann để tính ra năng lượng trung bình của mỗi lò xo trong một khoảng thời gian. Kết quả thu được giống với kết quả của Planck cho ánh sáng: tại nhiệt độ mà kBT nhỏ hơn hf, chuyển động bị ngưng lại (đóng băng), và nhiệt dung riêng tiến về 0.
+Và Einstein kết luận là cơ học lượng tử có thể giải quyết được các vấn đề lớn trong vật lý cổ điển, như tính dị thường của nhiệt dung riêng. Các hạt hàm ý trong công thức trên bây giờ được gọi là photon. Vì mọi lò xo trong lý thuyết của Einstein đều có độ cứng như nhau, nên chúng dao động như nhau tại cùng một nhiệt độ, và điều này dẫn đến tiên đoán là nhiệt dung riêng tiến về 0 theo hàm lũy thừa khi nhiệt độ giảm đi về 0K.
+Nghiên cứu này là nền tảng của vật lý vật chất ngưng tụ sau này.
+
+
+=== Nguyên lý đoạn nhiệt và các biến tác động góc ===
+Trong thập niên 1910, lý thuyết lượng tử đã mở rộng phạm vi áp dụng cho nhiều hệ thống khác nhau. Sau khi Ernest Rutherford khám phá ra sự tồn tại các hạt nhân và đề xuất các electron có quỹ đạo quanh hạt nhân giống như quỹ đạo của các hành tinh, Niels Bohr đã áp dụng các tiên đề của cơ học lượng tử được Planck và Einstein đưa ra và phát triển để giải thích chuyển động của electron trong nguyên tử, và của bảng tuần hoàn các nguyên tố.
+Einstein đã đóng góp vào những phát triển này bằng liên hệ chúng với các tư tưởng của Wilhelm Wien năm 1898. Wien đã đưa ra giả thuyết về "bất biến đoạn nhiệt" của trạng thái cân bằng nhiệt cho phép mọi bức xạ của vật đen tại các nhiệt độ khác nhau được dẫn ra từ 'định luật dịch chuyển Wien. Einstein năm 1911 đã chú ý đến là cùng nguyên lý đoạn nhiệt này cũng chỉ ra các đại lượng bị lượng tử hóa trong chuyển động cơ học bất kì phải là bất biến đoạn nhiệt. Arnold Sommerfeld đã đồng nhất bất biến đoạn nhiệt này là biến tác dụng của cơ học cổ điển. Định luật tác dụng thay đổi được bị lượng tử hóa là nguyên lý cơ sở của thuyết lượng tử khi nó được biết từ 1900 đến 1925. (hay lý thuyết lượng tử cổ điển)
+
+
+=== Lưỡng tính sóng - hạt ===
+
+Mặc dù cục cấp bằng sáng chế đã bổ nhiệm Einstein làm nhân viên kĩ thuật kiểm tra hạng hai năm 1906, nhưng ông không hề từ bỏ sự nghiệp khoa học của mình. Năm 1908, ông trở thành giảng viên thỉnh giảng (privatdozent) tại trường Đại học Bern. Trong "über die Entwicklung unserer Anschauungen über das Wesen und die Konstitution der Strahlung" ("The Development of Our Views on the Composition and Essence of Radiation"), về sự lượng tử hóa của ánh sáng, và trong một bài báo đầu năm 1909, Einstein chỉ ra rằng lượng tử năng lượng của Planck phải có động lượng và có thể cư xử như các hạt điểm độc lập. Bài báo này đưa ra khái niệm photon (mặc dù Gilbert N. Lewis đặt tên gọi photon mãi tới năm 1926) và mở ra khái niệm lưỡng tính sóng-hạt trong cơ học lượng tử. Dựa trên ý tưởng của Planck và của Einstein về sóng có bản chất hạt, nhà vật lý Louis de Broglie đặt ra vấn đề ngược là hạt vật chất có bản chất sóng và khai sinh ra nguyên lý lưỡng tính sóng hạt của vật chất.
+
+
+=== Lý thuyết giới hạn trắng đục ===
+Einstein đã quay trở lại vấn đề nhiễu loạn nhiệt động học, với suy nghĩ tìm cách giải quyết những sự thay đổi mật độ trong chất lỏng tại điểm giới hạn của nó. Thông thường, nhiễu loạn mật độ được khử bởi đạo hàm bậc hai của năng lượng tự do theo mật độ. Tại điểm giới hạn này, đạo hàm bằng không, dẫn đến những nhiễu loạn lớn. Hiệu ứng nhiễu loạn mật độ mà theo đó mọi bước sóng của ánh sáng bị tán xạ khi đi vào môi trường khác, làm cho chất lỏng nhìn trắng như sữa. Einstein liên hệ hiện tượng này với hiện tượng tán xạ Raleigh, mà xảy ra khi độ lớn nhiễu loạn nhỏ hơn bước sóng, và hiện tượng này đã giải thích hiện tượng tại sao bầu trời có màu xanh.
+
+
+=== Năng lượng điểm không ===
+Trực giác vật lý của Einstein đã dẫn ông chú ý đến các năng lượng dao động Planck không thể có điểm không. Ông sửa lại giả thuyết Planck bằng cách cho trạng thái năng lượng thấp nhất của một đối tượng dao động bằng với 1⁄2hf, bằng một nửa khoảng năng lượng giữa hai mức. Sự thay đổi này được nghiên cứu cùng với Otto Stern, trên cơ sở của nhiệt động học phân tử hai nguyên tử mà có thể tách ra thành hai nguyên tử tự do.
+
+
+=== Nguyên lý tương đương ===
+
+Năm 1907, khi còn đang làm việc tại cuc bằng sáng chế, Einstein đã có cái mà ông gọi là "ý tưởng hạnh phúc nhất" trong đời ông. Ông nhận ra là nguyên lý tương đối có thể mở rộng sang trường hấp dẫn. Ông suy nghĩ về trường hợp thang máy chuyển động với gia tốc đều nhưng không phải đặt trong trường hấp dẫn, và ông nhận ra là nó không thể khác biệt so với trường hợp thang máy im trong trường hấp dẫn không thay đổi. Ông áp dụng thuyết tương đối hẹp để thấy tốc độ của các đồng hồ tại đỉnh thang máy gia tốc lên trên sẽ nhanh hơn tốc độ của đồng hồ ở sàn thang máy. Ông kết luận là tốc độ của đồng hồ phụ thuộc vào vị trí của chúng trong trường hấp dẫn, và hiệu giữa hai tốc độ đồng hồ tỉ lệ với thế năng hấp dẫn theo xấp xỉ bậc nhất.
+Mặc du sự xấp xỉ này là thô, nó cho phép ông tính được độ lệch của tia sáng do hấp dẫn. Điều này làm cho ông tin tưởng rằng lý thuyết vô hướng về hấp dẫn được đề xuất bởi Gunnar Nordström là không đúng. Nhưng giá trị thực cho độ lệch mà ông tính ra nhỏ đi 2 lần so với giá trị thực, do xấp xỉ ông sử dụng không còn thỏa mãn đối với các vật thể di chuyển gần vận tốc của ánh sáng. Khi Einstein hoàn thiện thuyết tương đối tổng quát, ông đã sửa lại thiếu sót này và tiên đoán được giá trị đúng của độ lệch tia sáng đi gần Mặt Trời.
+Từ Praha, Einstein đăng một bài báo về các hiệu ứng của hấp dẫn tác động lên ánh sáng, đặc biệt là dịch chuyển đỏ do hấp dẫn và độ lệch ánh sáng do hấp dẫn. Bài báo đã thúc đẩy các nhà thiên văn học xác định độ lệch tia sáng trong quá trình quan sát nhật thực.  Nhà thiên văn người Đức Erwin Finlay-Freundlich đã công bố tiên đoán của Einstein ra toàn thế giới để cộng đồng các nhà khoa học được biết đến.
+Einstein đã suy nghĩ về bản chất trường hấp dẫn trong các năm 1909-1912, nghiên cứu các tính chất của chúng bằng các thí nghiệm tưởng tượng đơn giản. Trong đó có thí nghiệm về một cái đĩa quay. Einstein tưởng tượng ra một quan sát viên thực hiện các thí nghiệm trên 1 cái bàn quay. Ông chú ý rằng quan sát viên có thể đo được một giá trị khác cho hằng số toán học pi so với trong hình học Euclid. Lý do là vì bán kính của một đường tròn là không đổi do được đo với một cái thước không bị co độ dài, nhưng theo thuyết tương đối hẹp chu vi của đường tròn dường như lớn hơn do cái thước dùng để đo chu vi bị co ngắn lại.
+Mặt khác Einstein tin tưởng rằng các định luật vật lý là cục bộ, được miêu tả bởi các hệ tọa độ cục bộ, ông kết luận rằng không thời gian có thể bị cong. Điều này dẫn ông đến nghiên cứu hình học Riemann, và hình thành lên ngôn ngữ của thuyết tương đối tổng quát.
+
+
+=== Thuyết tương đối rộng ===
+
+Năm 1912, Einstein trở lại Thụy Sĩ để nhận chức danh giáo sư tại nơi ông từng học, trường ETH. Khi ông trở lại Zurich, ngay lập tức ông đến thăm người bạn cùng lớp đại học ETH là Marcel Grossmann, bây giờ trở thành giáo sư toán học. Einstein đã hỏi Grossmann có thứ hình học miêu tả không gian cong không và ông ta đã giới thiệu cho ông hình học Riemann và tổng quát hơn là hình học vi phân. Theo đề nghị của nhà toán học người Ý Tullio Levi-Civita, Einstein bắt đầu khám phá ra sự hữu ích của nguyên lý hiệp biến tổng quát (cơ bản là sử dụng tenxơ) cho lý thuyết hấp dẫn mới của ông. Có lúc Einstein nghĩ rằng có một số sai lầm với cách tiếp cận này, nhưng sau đó ông đã quay trở lại với nó, và cuối năm 1915, ông đã công bố thuyết tương đối rộng theo dạng ngày nay của lý thuyết. Lý thuyết này giải thích hấp dẫn là do sự cong của không thời gian do vật chất, ảnh hưởng tới chuyển động quán tính của các vật chất khác. Trong chiến tranh thế giới lần thứ nhất, nghiên cứu của các nhà khoa học thuộc Liên minh trung tâm chỉ có thể được thực hiện tại các viện Hàn lâm của liên minh này, vì lý do an ninh quốc gia. Một vài nghiên cứu của Einstein đã đến được Vương quốc Anh và Hoa Kỳ thông qua nỗ lỗ lực của nhà vật lý người Áo Paul Ehrenfest và của các nhà vật lý người Hà Lan, đặc biệt là Nobel gia Hendrik Lorentz và Willem de Sitter của Đại học Leiden. Sau khi chiến tranh kết thúc, Einstein vẫn duy trì mối liên hệ của ông với trường Đại học Leiden, và nhận làm giáo sư đặc biệt cho trường này trong mười năm, từ 1920 đến 1930, Einstein thường xuyên đến Hà Lan để giảng dạy.
+
+Năm 1917, một vài nhà thiên văn học chấp nhận lời đề xuất năm 1911 của Einstein khi ông ở Praha. Đài quan sát núi Wilson ở California, Hoa Kỳ, công bố kết quả phân tích phổ của Mặt Trời cho thấy không có sự dịch chuyển đỏ do hấp dẫn. Năm 1918, Đài quan sát Lick, cũng ở California, thông báo rằng rất khó có thể bác bỏ được tiên đoán của Einstein, mặc dù kết quả của họ không được công bố.
+Tuy nhiên vào tháng 5 năm 1919, một đội các nhà thiên văn học do Arthur Stanley Eddington dẫn đầu đã xác nhận rằng tiên đoán của Einstein về sự bẻ cong của tia sáng do hấp dẫn của Mặt Trời trong khi chụp các bức ảnh trong quá trình nhật thực tại Príncipe, một hòn đảo nằm phía tây châu Phi đồng thời với một đoàn thám hiểm ở Sobral, phía bắc Brasil. Nobel gia Max Born tán dương thuyết tương đối tổng quát như là "một kỳ công lớn nhất của tư duy con người về tự nhiên"; và Nobel gia người Anh Paul Dirac nói "nó có thể là khám phá khoa học lớn nhất đã từng được phát hiện". Các phương tiện thông tin quốc tế lan truyền khám phá này khiến Einstein trở nên nổi tiếng khắp thế giới.
+Đã có những ý kiến cho rằng việc kiểm tra lại các bức ảnh của đoàn thám hiểm Eddington cho thấy độ lớn sai số của thí nghiệm bằng với kết quả thu được từ hiệu ứng mà Eddington đã đo để chứng minh, và đoàn thám hiểm người Anh năm 1962 đã kết luận là phương pháp đã đo là không đủ tin cậy. Sự bẻ cong của tia sáng trong quá trình nhật thực đã được xác nhận bởi các quan sát chính xác hơn sau đó. Về sau, nhiều thí nghiệm sau này đã xác nhận các tiên đoán của thuyết tương đối rộng. Cùng với sự mới nổi tiếng của Einstein, nhiều nhà khoa học Đức thời đó đã có những động thái để chống lại Einstein cũng như các công trình của ông.
+
+
+==== Sóng hấp dẫn ====
+Năm 1916, Einstein dự đoán tồn tại sóng hấp dẫn, những gợn sóng hình thành từ độ cong của không thời gian mà lan truyền từ nguồn ra bên ngoài như các sóng, chúng mang theo năng lượng dưới dạng bức xạ hấp dẫn. Sự tồn tại của sóng hấp dẫn theo khuôn khổ của thuyết tương đối tổng quát là do bất biến Lorentz đưa đến hệ quả của vận tốc lan truyền hữu hạn đối với các tương tác vật lý mà hấp dẫn tham gia. Ngược lại, sóng hấp dẫn không thể tồn tại trong lý thuyết hấp dẫn của Newton, khi cho rằng tương tác hấp dẫn lan truyền một cách tức thì hay với vận tốc lớn vô hạn.
+Sự phát hiện ra sóng hấp dẫn lần đầu tiên, một cách gián tiếp, đến từ những quan sát trong thập niên 1970 về cặp sao neutron quay trên quỹ đạo hẹp quanh nhau, PSR B1913+16. Quan sát cho thấy chu kỳ quỹ đạo của hệ giảm dần chứng tỏ hệ đang phát ra sóng hấp dẫn đúng như miêu tả của thuyết tương đối rộng. Dự đoán của Einstein đã được xác nhận vào ngày 11 tháng 2 năm 2016, khi các nhà khoa học thuộc nhóm LIGO công bố đã đo được trực tiếp sóng hấp dẫn lần đầu tiên, vào ngày 14 tháng 9 năm 2015, gần một trăm năm sau ngày ông đăng bài báo về sóng hấp dẫn.
+
+
+=== Vũ trụ học ===
+
+Năm 1917, Einstein đã áp dụng thuyết tương đối rộng cho mô hình cấu trúc của vũ trụ trên toàn bộ. Theo dòng suy nghĩ đương thời, ông muốn vũ trụ là vĩnh hằng và bất biến, nhưng trong thuyết mới của ông, sau một thời gian dài lực hấp dẫn có thể hút vật chất về nhau dẫn tới vũ trụ co lại. Để sửa điều này, Einstein đã thay đổi nhỏ thuyết tương đối tổng quát bằng cách đưa ra một khái niệm mới, hằng số vũ trụ học. Với một hằng số vũ trụ dương, cân bằng chống lại lực hấp dẫn, vũ trụ có thể là quả cầu tĩnh vĩnh hằng
+Einstein tin tưởng rằng một vũ trụ tĩnh có tính đối xứng cầu sẽ phù hợp về mặt triết học, bởi vì nó tuân theo nguyên lý Mach. Ông đã chỉ ra rằng thuyết tương đối tổng quát gắn chặt với nguyên lý Mach trong trường hợp mở rộng hiệu ứng kéo hệ quy chiếu bằng trường hấp dẫn từ, nhưng ông biết rằng ý tưởng của Mach sẽ không đúng nếu vũ trụ cứ mở rộng ra vô hạn. Trong một vũ trụ đóng, ông tin rằng nguyên lý Mach sẽ được thỏa mãn.
+Nguyên lý Mach cũng đã gây ra rất nhiều tranh cãi trong nhiều năm.
+
+
+=== Thuyết lượng tử hiện đại ===
+
+Năm 1917, tại đỉnh cao của công việc nghiên cứu thuyết tương đối, Einstein xuất bản một bài báo trong ''Physikalische Zeitschrift đề xuất khả năng tồn tại phát xạ kích thích, một quá trình vật lý giúp hiện thực được maser và laser. Bài báo này chỉ ra rằng tính thống kê của sự hấp thụ và bức xạ ánh sáng chỉ có thể phù hợp với định luật phân bố Planck khi sự bức xạ của ánh sáng trong một chế độ với n photon sẽ gần với tính thống kê hơn so với sự bức xạ của ánh sáng trong chế độ không có photon. Bài báo này có ảnh hưởng lớn đến sự phát triển sau này của cơ học lượng tử, bởi vì nó là bài báo đầu tiên chỉ ra tính thống kê của sự chuyển dịch trạng thái nguyên tử tuân theo những định luật đơn giản. Einstein đã phát hiện ra nghiên cứu của Louis de Broglie, và đã ủng hộ những ý tưởng của ông, khi Einstein lần đầu tiên nhận được những ý tưởng phác thảo này. Một bài báo lớn khác trong thời kì này, Einstein đã viết ra phương trình sóng cho các sóng de Broglie, trong đó Einstein đã đề xuất từ phương trình Hamilton–Jacobi của cơ học. Bài báo này đã khích lệ các nghiên cứu của Schrödinger năm 1926.
+
+
+=== Thống kê Bose–Einstein ===
+
+Năm 1924, Einstein nhận được một miêu tả về mô hình thống kê từ nhà vật lý người Ấn Độ Satyendra Nath Bose, trên cơ sở một phương pháp đếm với giả sử ánh sáng có thể được hiểu là khí của các hạt không thể phân biệt được. Einstein chú ý tới rằng thống kê của Bose có thể áp dụng cho một số nguyên tử có tính chất tương tự các hạt ánh sáng được đề xuất, và ông gửi bản dịch bài báo của Bose tới tạp chí Zeitschrift für Physik. Einstein cũng tự viết các bài báo miêu tả mô hình thống kê này và những hệ quả của nó, bao gồm hiện tượng ngưng tụ Bose-Einstein mà trong một số trường hợp đặc biệt có thể xuất hiện tại nhiệt độ rất thấp.. Cho đến tận năm 1995, vật chất ngưng tụ lần đầu tiên đã được tạo ra bằng thực nghiệm bởi Eric Allin Cornell và Carl Wieman nhờ sử dụng các thiết bị siêu lạnh được lắp đặt tại NIST–phòng thí nghiệm JILA tại Đại học Colorado ở Boulder. Thống kê Bose-Einstein bây giờ được sử dụng để miêu tả hành xử của những hạt có spin nguyên, các boson. Những phác thảo của Einstein cho nghiên cứu này có thể xem tại "Einstein Archive" trong thư viện của đại học Leiden.
+
+
+=== Giả tenxơ năng lượng động lượng ===
+
+Thuyết tương đối rộng bao gồm một không thời gian động lực, do vậy nó rất khó để tìm cách thống nhất các đại lượng bảo toàn năng lượng và động lượng. Định lý Noether cho phép những đại lượng được xác định từ hàm Lagrangian với bất biến tịnh tiến, nhưng hiệp biến tổng quát làm cho bất biến tịnh tiến trở thành một phần của đối xứng gauge. Tenxơ ứng suất - năng lượng trong phương trình trường Einstein không chứa năng lượng trường hấp dẫn, bởi vì theo nguyên lý tương đương bằng việc lựa chọn hệ quy chiếu cục bộ thích hợp, trường hấp dẫn sẽ biết mất. Năng lượng và động lượng bao hàm cả năng lượng hấp dẫn được dẫn ra từ thuyết tương đối rộng theo định lý Noether không phải là một tenxơ thực vì lý do như vậy.
+Einstein lập luận rằng điều này là đúng với những lý do cơ bản, bởi vì trường hấp dẫn có thể xuất hiện hoặc biến mất bằng cách chọn các tọa độ. Ông ủng hộ rằng giả tenxơ không hiệp biến năng lượng động lượng thực chất là cách miêu tả tốt nhất sự phân bố năng lượng và động lượng trong một trường hấp dẫn. Cách tiếp cận này đã được phát triển bởi Lev Landau và Evgeny Lifshitz, và những người khác, và đã trở thành một tiêu chuẩn.
+Việc sử dụng các đối tượng không-hiệp biến như các giả tenxơ đã bị phê phán nhiều bởi Erwin Schrödinger và những người khác năm 1917.
+
+
+=== Thuyết trường thống nhất ===
+Tiếp theo nghiên cứu của ông về thuyết tương đối tổng quát, Einstein bắt tay vào chuỗi những cố gắng để tổng quát hóa lý thuyết hình học của ông về hấp dẫn, cho phép kết hợp được với tương tác điện từ. Năm 1950, ông miêu tả "thuyết trường thống nhất" của ông trong tạp chí Scientific American với tiêu đề "Về lý thuyết tổng quát của hấp dẫn". Mặc dù ông tiếp tục được ca ngợi cho các công trình của ông, Einstein đã dần dần bị đơn độc trong con đường nghiên cứu thuyết thống nhất này, và những nỗ lực của ông đã hoàn toàn bị thất bại.
+Trong việc theo đuổi một lý thuyết thống nhất các lực cơ bản của tự nhiên, Einstein đã bỏ qua một số hướng phát triển chính của vật lý thời đó, điển hình nhất là việc nghiên cứu các lực hạt nhân mạnh và lực hạt nhân yếu, chúng chưa được hiểu triệt để cho đến tận nhiều năm sau khi ông mất. Mặt khác, các xu hướng vật lý lại chủ yếu bỏ qua các phương pháp tiếp cận của ông đối với lý thuyết thống nhất; với cơ học lượng tử là khuôn khổ chính, lý thuyết mà ông không chấp nhận hoàn toàn về tính mô tả thực tại của nó. Giấc mơ của Einstein để thống nhất mọi định luật vật lý khác với hấp dẫn đã thôi thúc một cuộc tìm kiếm hiện đại cho một lý thuyết của mọi vật và đặc biệt là thuyết dây, trong đấy các trường hình học được kết hợp với lý thuyết trường lượng tử hay hấp dẫn lượng tử.
+
+
+=== Lỗ sâu ===
+
+Trong nghiên cứu thuyết trường thống nhất, Einstein đã hợp tác với các nhà khoa học khác để đưa ra mô hình về một lỗ sâu. Mục đích của ông là thiết lập mô hình các hạt cơ bản với các tích (điện tích) của chúng như là một nghiệm của phương trình trường hấp dẫn, được đăng trong một bài báo với tiêu đề "Liệu trường hấp dẫn đóng một vai trò quan trọng trong cấu tạo của các hạt cơ bản?". Những nghiệm này cắt và dán các lỗ đen Schwarzschild để tạo ra một cầu nối giữa hai miền không gian.
+Nếu cuối một lỗ sâu mang điện tích dương, thì đầu kia của lỗ sâu phải mang điện tích âm. Những tính chất này dẫn Einstein đến sự tin tưởng rằng cặp các hạt và phản hạt có thể được miêu tả theo cách này.
+
+
+=== Lý thuyết Einstein–Cartan ===
+
+Để có thể kết hợp spin của các hạt điểm vào trong thuyết tương đối tổng quát, liên thông aphin cần được tổng quát hóa để bao gồm được phần phản xứng, gọi là tenxơ xoắn. Năm 1922 nhà toán học Élie Cartan lần đầu tiên tiếp cận với đề xuất này và tiếp tục mở rộng lý thuyết trong các năm sau. Einstein cũng tham gia vào phát triển lý thuyết này vào năm 1928 với những nỗ lực không thành công khi sử dụng tenxơ xoắn để miêu tả trường điện từ trong thuyết trường thống nhất của ông.
+
+
+=== Nghịch lý Einstein–Podolsky–Rosen ===
+
+Năm 1935, Einstein trở lại với cơ học lượng tử. Ông đã xét sự ảnh hưởng như thế nào của một hạt trong hệ hai hạt vướng víu với nhau đối với hạt kia. Ông đưa ra cùng với các cộng sự của ông rằng, bằng cách thực hiện các phép đo khác nhau trên một hạt ở rất xa, hoặc là về vị trí hoặc về động lượng, và các tính chất của hạt đối tác trong cặp vướng víu này có thể được khám phá mà không làm ảnh hưởng đến trạng thái của chính nó.
+Einstein do vậy đã sử dụng tính thực tại cục bộ để kết luận là những hạt khác có những tính chất này đã được định sẵn. Nguyên lý ông đề xuất là nếu có thể xác định được câu trả lời về vị trí hay động lượng qua phép đo một hạt đối tác, mà không ảnh hưởng đến hạt kia, thì các hạt thực sự có giá trị chính xác về vị trí hoặc động lượng, điều này mâu thuẫn với nguyên lý bất định Heisenberg.
+Nguyên lý này được rút ra từ quá trình phản bác của Einstein về cơ học lượng tử. Là một nguyên lý vật lý, nó đã được chứng minh là không tương thích với các kết quả thí nghiệm.
+
+
+=== Các phương trình chuyển động ===
+
+Thuyết tương đối rộng có hai định luật cơ bản; - phương trình trường Einstein miêu tả sự cong của không gian, và phương trình trắc địa miêu tả sự di chuyển của các hạt trong trường hấp dẫn.
+Do các phương trình trong thuyết tương đôi tổng quát là phi tuyến, một lượng năng lượng xác định một trường hấp dẫn thuần túy, giống như hố đen, sẽ di chuyển trên một quỹ đạo được xác định bởi chính phương trình trường Einstein, không cần tới các định luật mới. Vì thế EInstein đề xuất rằng quỹ đạo của một nghiệm kì dị, giống như hố đen, có thể được xác định là một đường trắc địa từ chính thuyết tương đối rộng.
+Phương trình này được Einstein, Infeld và Hoffmann viết ra cho các vật thể hạt điểm không có mô men động lượng, và bởi Roy Kerr cho các vật thể quay.
+
+
+=== Cộng tác với những nhà khoa học khác ===
+Ngoài sự cộng tác trong một thời gian dài với các nhà khoa học Leopold Infeld, Nathan Rosen, Peter Bergmann và những người khác, Einstein cũng từng cộng tác trong một thời gian ngắn với nhiều nhà khoa học.
+
+
+==== Tranh luận Bohr-Einstein ====
+
+Tranh luận Bohr-Einstein là chuỗi các sự kiện phê bình giữa hai trong số những người sáng lập ra cơ học lượng tử là Albert Einstein và Niels Bohr về bản chất thực tại của lý thuyết này. Tranh luận của hai người không chỉ có ý nghĩa trong triết học của khoa học mà còn là động lực để các nhà lý thuyết và thực nghiệm lượng tử khám phá ra những tính chất mới đồng thời bổ sung cho nền tảng lý thuyết.
+
+
+==== Thí nghiệm Einstein-de Haas ====
+
+Einstein và De Haas đã chứng tỏ rằng sự từ hóa là do chuyển động của các electron mà ngày nay được biết là spin. Để chỉ ra điều này, họ đảo ngược sự từ hóa trong một thanh thép treo trên một con lắc xoắn. Hai người quan sát thấy rằng thanh thép bị quay đi một góc, bởi vì mô men động lượng của electron bị thay đổi khi thay đổi sự từ hóa. Thí nghiệm này cần sự tinh tế, bởi vì mô men động lượng gắn với electron là nhỏ, nhưng nó cũng đủ để chứng minh chuyển động của electron vì một lý do nào đó ảnh hưởng đến sự từ hóa.
+
+
+==== Mô hình khí Schrödinger ====
+Einstein gợi ý cho Erwin Schrödinger rằng ông có thể suy lại được sự thống kê của khí Bose–Einstein bằng xét đến một hộp. Sau đó mỗi chuyển động lượng tử khả dĩ của một hạt trong một hộp được gắn với một dao động tử điều hòa độc lập. Lượng tử hóa những dao động tử này, mỗi mức có một số nguyên tương ứng, sẽ là số các hạt trong hộp.
+Phương pháp này là một phần của lượng tử hóa chính tắc, nhưng nó đi ngược lại cơ học lượng tử hiện đại. Erwin Schrödinger áp dụng điều này để dẫn ra các tính chất nhiệt động của khí lý tưởng bán cổ điển. Schrödinger đã đề nghị Einstein để đưa thêm ông vào đồng tác giả, nhưng Einstein đã từ chối lời mời này.
+
+
+== Tình yêu âm nhạc ==
+Einstein bắt đầu cảm thụ âm nhạc từ khi còn nhỏ tuổi. Mẹ ông chơi dương cầm khá giỏi và muốn ông học đàn vĩ cầm, không chỉ để truyền dẫn cho ông niềm yêu thích âm nhạc mà còn giúp ông hòa nhập với nền văn hóa Đức. Theo nhạc trưởng Leon Botstein, Einstein có thể đã bắt đầu chơi nhạc từ lúc 5 tuổi nhưng chưa thể hiện niềm thích thú với âm nhạc khi đó.
+Tuy nhiên, bước sang tuổi 13, ông được học bản sonata vĩ cầm của Mozart. "Einstein trở nên yêu thích" âm nhạc Mozart, Botstein viết, và học chơi vĩ cầm một cách tự nguyện hơn. Theo Einstein, ông tự học chơi đàn bằng cách "thực hành có hệ thống", và nói rằng "say mê là một người thầy tốt hơn ý thức trách nhiệm." Khi 17 tuổi, ông trình bày bản sonata vĩ cầm của Beethoven trong một kỳ kiểm tra âm nhạc ở Aarau, và giáo viên chấm điểm đã nhận xét khi ông kết thúc là "xuất sắc và thể hiện nội dung tuyệt vời." Điều gây ấn tượng cho người giáo viên là, theo Botstein, Einstein "thể hiện sâu sắc tình yêu âm nhạc, một phẩm chất vẫn còn đang được hình thành. Âm nhạc có một ý nghĩa kỳ lạ đối với sinh viên này."
+Botstein lưu ý rằng âm nhạc đảm nhận một vai trò quan trọng và lâu dài trong cuộc sống kể từ thời gian đó của Einstein. Mặc dù chưa lúc nào ông nghĩ rằng sẽ theo đuổi sự nghiệp âm nhạc, nhưng ông thường tham gia chơi nhạc thính phòng với một vài nghệ sĩ, thường trình diễn cho nhóm vài người bạn. Âm nhạc thính phòng là một phần trong cuộc sống của ông khi còn ở Bern, Zurich, và Berlin, nơi ông chơi nhạc cùng Max Planck và những người khác. Năm 1931, trong thời gian đến Viện Công nghệ California, ông đến thăm gia đình Zoellner ở Los Angeles và chơi một số bản nhạc của Beethoven và Mozart cùng với các thành viên của nhóm tứ tấu Zoellner. Einstein sau đó trao cho người đại diện gia đình một bức ảnh lưu niệm chụp ông cùng với chữ ký. Âm nhạc không chỉ là niềm vui thích mà còn giúp ông trong công việc. Bà Elsa nói "âm nhạc giúp ông khi đang suy nghĩ về các lý thuyết. Ông mải mê nghiên cứu, quay trở ra giải trí bằng đánh vài đoạn hợp âm piano, rồi tiếp tục trở lại công việc".
+
+
+== Quan điểm chính trị ==
+
+Einstein là người ủng hộ chủ nghĩa xã hội và phê phán chủ nghĩa tư bản. Ông phản đối phong trào Quốc xã đang tăng lúc bấy giờ và sau đó cố gắng lên tiếng giảm bớt sự náo động của việc hình thành nước Israel. Fred Jerome trong quyển Quan điểm của Einstein về nhà nước Israel và chủ nghĩa phục quốc Do Thái cho rằng Einstein là một nhà văn hóa phục quốc Do Thái, người ủng hộ ý tưởng về một tổ quốc Do Thái nhưng phản đối việc hình thành một nhà nước Do Thái ở Palestine "với đường biên giới, quân đội, và một hệ thống pháp quyền riêng." Thay vào đó, ông ủng hộ một nhà nước liên bang gồm 2 quốc gia với "cơ cấu chức năng liên tục, hỗn hợp, quản trị, kinh tế, và xã hội."
+Trong cuộc Cách mạng tháng 11 ở Đức, Einstein đã ký vào một kháng nghị làm tiền đề cho đại hội tự do và dân chủ toàn quốc, được công bố ở tờ tin tức Berliner Tageblatt vào ngày 16 tháng 11 năm 1918 và ông trở thành đảng viên của Đảng Dân chủ Đức. Sau Thế chiến thứ II, khi sự thù hằn giữa các nước đồng minh cũ trở nên căng thẳng, Einstein viết, "Tôi không biết Chiến tranh Thế giới lần thứ III người ta sẽ dùng vũ khí gì, nhưng tôi có thể nói với bạn con người có thể sử dụng vũ khí gì ở Chiến tranh Thế giới thứ IV - đá! Einstein 1949 Cùng với With Albert Schweitzer và Bertrand Russell, Einstein đã vận động để dừng việc thử nghiệm hạt nhân và bom trong tương lai. Trước lúc mất, Einstein đã ký vào bản tuyên ngôn Russell–Einstein, mà sau đó đã dẫn tới hội nghị Pugwash về Khoa học và Hòa bình Thế giới.
+Einstein là thành viên của nhiều nhóm quyền công dân, bao gồm đại hội Princeton của Hiệp hội quốc gia vì sự tiến bộ của người da màu (NAACP). khi W. E. B. Du Bois bị cáo buộc làm gián điệp Cộng sản, Einstein đã tình nguyện làm nhân chứng, và cáo buộc đã được bác bỏ ngay sau đó. Tình bạn của Einstein với nhà hoạt động Paul Robeson, người cùng với ông giữ chức đồng chủ tịch của Cuộc vận động người Mỹ chấm dứt kiểu hành hình Lynch phân biệt đối xử với người da đen, kéo dài đến 20 năm.
+Einstein từng nói "Chính trị là nhất thời, còn phương trình là vĩnh cửu." Ông đã từ chối lời đề nghị làm tổng thống Israel vào năm 1952.
+
+
+== Quan điểm tôn giáo ==
+
+Trên nghi vấn của quan điểm khoa học (quyết định luận) dẫn tới câu hỏi về lập trường của Einstein về quyết định luận thần học, liệu ông có tin vào Chúa, hay vào một vị thần nào đó hay không. Năm 1929, Einstein đã nói với giáo sĩ Do Thái Herbert S. Goldstein rằng "Tôi tin vào Chúa của Spinoza, người mà biểu lộ chính mình trong nguyên lý hài hòa của thế giới, không phải là một vị Chúa có số mệnh và hành động của một con người. " Trong một bức thư năm 1954, ông viết, "Tôi không tin vào một Chúa nhân cách hóa và tôi không bao giờ phủ định điều này và tôi đã biểu thị điều đó một cách rõ ràng." Trong một bức thư gửi triết gia Erik Gutkind, Einstein nói rõ, "Danh từ Chúa đối với tôi không gì khác ngoài sự thể hiện và là sản phẩm của sự yếu đuối của loài người, Kinh thánh là tập hợp những điều đáng kính, nhưng vẫn còn nguyên sơ, huyền ảo tuy nhiên khá là ngây ngô."
+Báo chí đã cho đăng tải lặp đi lặp lại để thể hiện Albert Einstein là một người "khiêu khích" tôn giáo với phát biểu như sau của ông:
+Ông cũng có nhắc qua một chút về đạo Phật trên tờ New York Times số ra 09.11 năm 1930 như sau:
+"Một người được giác ngộ bởi tôn giáo, đối với tôi có vẻ như là người cố gắng đến khả năng cực đại của bản thân, giải thoát mình khỏi những xiềng xích của những ham muốn ích kỷ của mình và đi sâu, chìm đắm trong những suy nghĩ, cảm xúc và nguyện vọng, những cái mà người đó luôn giữ chặt, vì giá trị của siêu-bản ngã cá nhân. Tôi thấy rằng, dường như cái quan trọng là sức mạnh của những thứ (nội dung) nằm trong siêu bản ngã... chứ không cần quan tâm đến bất kỳ một nỗ lực nào được thực hiện để thống nhất những điều này với một đấng thiên chúa, nếu không thì nó có thể không khả thi khi tính Phật và Spinoza là như loại hình tôn giáo nhân cách. Theo đó, người mộ đạo theo cảm giác (có ý thức) rằng, họ không hề nghi ngờ gì về tầm quan trọng của các đối tượng nằm trong siêu bản ngã này và về các mục tiêu, cái mà không cần và cũng không có đủ khả năng xây dựng nên dựa trên một nền tảng khoa học hợp lý... Theo cách hiểu này, tôn giáo là nỗ lực lâu đời của nhân loại để trở nên rõ ràng và được nhận thức hoàn toàn đầy đủ về những giá trị và mục tiêu, và không ngừng củng cố cũng như mở rộng ảnh hưởng của nó. Nếu mọi người quan niệm về tôn giáo và khoa học theo những định nghĩa này, thì một cuộc xung đột giữa tôn giáo và khoa học dường như là không thể. Vì đối với khoa học chỉ có thể xác định nó "là gì", chứ không phải nó "nên là gì"..."
+
+
+== Giải thưởng ==
+
+Trong cuộc đời cống hiến nghiên cứu khoa học, Albert Einstein đã nhận được nhiều giải thưởng quốc tế. Tên của ông cũng được lấy để đặt cho nhiều giải thưởng.
+Giải thưởng đoạt được
+Giải Nobel Vật lý 1921
+Huy chương Matteucci 1921
+Huy chương Copley 1925
+Huy chương Max Planck đầu tiên 1929
+The Franklin Institute Awards 1935: Albert Einstein
+Giải thưởng mang tên ông
+Giải thưởng Albert Einstein do Lewis and Rosa Strauss Memorial Fund thành lập năm 1951 nhằm trao cho các công trình vật lý lý thuyết nổi bật trong khoa học tự nhiên.
+Huy chương Albert Einstein do Hội Albert Einstein lập 1979 trao hàng năm cho những người có cống hiến xuất sắc liên quan tới công trình của Albert Einstein
+Giải Einstein của Hội Vật lý Hoa Kỳ thành lập năm 2003 trao 2 năm một lần cho những người có thành tựu nổi bật trong lãnh vực tương tác hấp dẫn.
+Giải Khoa học thế giới Albert Einstein do Hội đồng Văn hóa Thế giới lập năm 1984 trao hàng năm cho các công trình nhìn nhận và khuyến khích các người có công nghiên cứu và phát triển khoa học kỹ thuật đem lại lợi ích thiết thực cho nhân loại.
+Albert Einstein Peace Prize được khởi động từ năm 1979 nhân dịp 100 năm ngày sinh Albert Einstein, trao cho những người đã đóng góp cho hòa bình thế giới. Giải thưởng đầu tiên được trao cho Alva Reimer Myrdal
+
+
+== Vinh danh ==
+
+Để ghi nhớ công lao của Einstein, ngoài những công thức, phương trình và hiện tượng trong vật lý mang tên ông (như phương trình trường Einstein, vành Einstein...) còn có rất nhiều thứ khác được gán cho tên của ông như:
+
+Một núi lửa được phát hiện năm 1952 trên bán cầu bắc, phần không nhìn thấy của Mặt Trăng được đặt tên theo tên ông: Hố va chạm Einstein.
+Một tiểu hành tinh vòng trong vành đai chính phát hiện năm 1973 được đặt tên theo tên ông: 2001 Einstein
+Các nhà hóa học đặt tên của ông cho nguyên tố thứ 99 trong bảng tuần hoàn Einsteini.
+
+
+== Ảnh hưởng của Albert Einstein trong văn hóa ==
+
+
+== Những dấu mốc trong đời ==
+
+
+== Các bài viết ==
+Các bài báo của Albert Einstein được dùng tham khảo trong bài này. Danh sách đầy đủ các bài viết của ông có ở Danh sách các bài báo khoa học của Albert Einstein.
+
+
+== Xem thêm ==
+Các nhà vật lý
+Thuyết tương đối hẹp
+Thuyết tương đối rộng
+
+
+== Ghi chú ==
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Anhxtanh A. tại Từ điển bách khoa Việt Nam
+Albert Einstein, Thế giới như tôi thấy. Nhà xuất bản Tri Thức 2005
+Thế giới như tôi thấy The World as I See It ISBN 978-0806527901
+
+Lá thư mới tiết lộ cuộc sống tình cảm của Einstein M.T. VnExpress 11/7/2006, 09:36 GMT+7 (theo Reuters)
+(tiếng Anh)
+Albert Einstein (German-American physicist) tại Encyclopædia Britannica (tiếng Anh)
+Albert Einstein Archives, Jerusalem
+Báo cáo về Albert Einstein trên FBI
+Einstein Online.(tiếng Anh) Trang web với thông tin cơ bản về thuyết tương đối
+Einstein Archives online (tiếng Anh) Các tài liệu lưu trữ của Einstein
+Works by Albert Einstein (public domain in Canada)
+The MacTutor History of Mathematics archive, School of Mathematics and Statistics, University of St Andrews, Scotland, Tháng 4 năm 1997, truy cập 31 tháng 01 năm 2013  
+Nobelprize.org Biography: Albert Einstein
+Các công trình liên quan hoặc của Albert Einstein trên các thư viện của thư mục (WorldCat)

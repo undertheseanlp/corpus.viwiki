@@ -1,0 +1,68 @@
+Trong kỹ nghệ phần mềm, một hệ thống quản lý phiên bản (còn viết là VCS theo từ tiếng Anh version control systems) là một hệ thống lưu giữ các phiên bản của mã nguồn của sản phẩm phần mềm, giúp các lập trình viên có thể dễ dàng lấy lại phiên bản mong muốn.
+Hệ thống này có thể được sử dụng bởi một nhóm các lập trình viên, mỗi thành viên trong nhóm thường không được phép thay đổi mã nguồn của các thành viên khác, mà chỉ có thể xem. VCS cho phép người quản trị phân chia các tập tin cho từng thành viên tương ứng. Nó cũng cho phép các thành viên chia sẻ một số tập tin cho nhau trong khi phát triển. Các thành viên có thể phát hiện lỗi và sửa lỗi thuận tiện trong VCS. Trưởng nhóm phải có nhiệm vụ cập nhật lại nội dung của các tập tin đó. VCS giúp cho công việc này được thực hiện một cách tự động.
+Khi các thành viên hiệu chỉnh mã của cùng một tập tin tại cùng một thời điểm, để tránh sửa đổi mâu thuẫn, họ sẽ phải so sánh xem có gì khác biệt giữa các sửa đổi của các thành viên hay không. VCS giúp cho việc này được thực hiện tự động.
+
+
+== Các khái niệm, thuật ngữ quan trọng ==
+
+
+=== Nơi chứa ===
+Nơi chứa (repository) là một nơi chung chứa mọi bản chính (master copy) của các tập tin khi chúng được thêm vào trong cơ sở dữ liệu của một VCS.
+Có thể được lưu trữ riêng cho từng tập tin hoặc chung cho mọi tập tin.
+Trong môi trường phát triển nhóm, nơi chứa thường nằm trên một server riêng.
+Nơi chứa có thể chứa: mã nguồn, sưu liệu, các tài liệu khác (hình ảnh, âm thanh,...)
+Nơi chứa có thể chứa mọi thứ. Vậy các loại tập tin nào nên được đưa vào? Nếu không có phiên bản cập nhật của tập tin X, chúng ta không thể xây dựng được ứng dụng của mình. Khi đó X nên được cho vào trong nơi chứa.
+
+
+=== Thư mục làm việc ===
+Thư mục làm việc (working folder) là một nơi mà chúng ta lấy phiên bản của tập tin và hiệu chỉnh.
+Thư mục làm việc thường được đặt trên máy client cho từng thành viên trong khi làm việc nhóm.
+Khi các phiên bản được lấy ra, thư mục này là nơi mặc định mà một VCS sẽ dùng để chứa các bản sao phiên bản đó.
+
+
+=== Khóa ===
+Khi làm việc nhóm, các thành viên có thể hiệu chỉnh cùng một tập tin tại một thời điểm. Xung đột là chuyện hiển nhiên. Làm sao tránh xung đột? Tùy chọn khóa hay cơ chế khóa (locking) cho phép ngăn chặn xung đột. Có 2 loại khóa:
+Khóa nghiêm ngặt (strict locking): Trong khóa này, khi một tập tin được lấy ra để hiệu chỉnh, nó sẽ bị đặt thuộc tính là read-only. Do đó, thành viên có thể đọc nó nhưng không thể hiệu chỉnh nội dung của nó. Chỉ khi nào tập tin đó được cập nhật, thành viên khác mới có thể lấy ra lại.
+Vấn đề: nếu một thành viên lấy ra hiệu chỉnh quá lâu và chưa cập nhật, những thành viên khác sẽ "bó tay"!.
+Khóa tự do (optimistic locking): Khóa tự do cho phép khi một tập tin được lấy ra để sửa, các thành viên khác cũng có quyền cập nhật dữ liệu trong tập tin đó. Và khi hai thành viên cùng check in tập tin đã được hiệu chỉnh, nguyên tắc sau được thực hiện:
+Nếu 2 bản cập nhật không cùng cập nhật 1 dòng, việc cập nhật sẽ ghép 2 bản đó lại.
+Nếu 2 bản cùng cập nhật 1 dòng, VCS sẽ báo cho 2 thành viên đó và cho họ tự chọn việc cập nhật.
+
+
+=== Dự án, mô đun và tập tin ===
+Dự án là một thư mục chứa toàn bộ thông tin của các tập tin của nhóm. Một nhóm có thể thực hiện nhiều dự án khác nhau. Các dự án này có thể chia sẻ các tập tin (shared file). Mỗi VCS thường có một dự án gốc cho mọi dự án.
+Mô đun là một dự án con (sub-project) nằm trong một dự án mẹ.
+Tập tin trong dự án có thể thuộc về một hoặc nhiều dự án (shared file).
+
+
+=== Phân nhánh ===
+Khi làm việc nhóm, mọi thành viên đều có một phần mã chung, gọi là nhánh chính (mainline). Và các thành viên đều làm việc với một phần của nhánh chính. Khi có yêu cầu tách một phần mã chung đó, ví dụ như để tạo một phiên bản để thử nghiệm, các thành viên của nhóm phân phối thử nghiệm đó cần mã độc lập với nhánh chính. Giải pháp là dùng phân nhánh.
+Chia nhánh (branching) là một cơ chế của hệ thống quản lý phiên bản cho phép tách một phần của dự án ra riêng. Phần này sẽ hoạt động độc lập với dự án chung. Khi đó, việc đánh phiên bản cũng thay đổi.
+Ví dụ: nếu một tập tin A trong nhánh chính có số phiên bản là 1.14 và một nhánh mới được tạo ra, A sẽ có số phiên bản trong nhánh là 1.14.1.1. Việc hiệu chỉnh tập tin đó trong nhánh chính sẽ cho chỉ số phiên bản mới trong nhánh chính là 1.15 tuy nhiên nếu hiệu chỉnh tập tin đó trong nhánh thì nó có số phiên bản mới là 1.14.1.2.
+
+
+=== Ghép tập tin ===
+Có nhiều nhánh (branch) có thể được tách ra làm việc độc lập. Nếu họ trong khi làm thấy rằng có một số lỗi (bug) phát sinh và có ảnh hưởng tới nhánh chính. Họ sẽ làm sao để cập nhật nhanh nhất mã trong nhánh chính và dùng cách ghép tập tin (merge).
+Ghép tập tin sẽ cho phép loại bỏ được việc phải cắt dán nhiều lần trên các phiên bản khác nhau của hệ thống.
+
+
+=== Phiên bản ===
+Mỗi tập tin có thể có nhiều phiên bản (version). Các phiên bản được đánh số khác nhau. Mỗi lần chúng ta hiệu chỉnh nội dung tập tin và cập nhật vào nơi chứa của VCS, phiên bản sẽ được cập nhật.
+Một số VCS sử dụng hệ thống phiên bản 1, 2, 3,... trong khi có một số khác sử dụng hệ thống 1.0, 1.1, 1.2,... Các VCS thường lưu phiên bản cuối cùng và các thay đổi của phiên bản cuối so với phiên bản trước đó.
+Các số phiên bản (như 1.0, 1.1, hay 1.2,...) còn được gọi là revision.
+Đi đôi với số phiên bản, VCS lưu thêm các thông tin về ngày giờ cập nhật, người cập nhật và một số ghi chú nếu có.
+Một vấn đề nhỏ trong cách đánh số này là làm sao các thành viên trong nhóm biết được các phiên bản của dự án. Số phiên bản trong dự án sẽ thay đổi khi phiên bản của tập tin thay đổi. Các VCS do đó sử dụng thêm một cách ghi nhận phiên bản là đánh nhãn (labeling). Khi đó, cho dù số phiên bản của dự án thay đổi, nhãn của dự án vẫn không đổi.
+
+
+== Xem thêm ==
+Phiên bản
+CVS (Concurrent Versions System)
+Subversion
+Git
+Mercurial
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

@@ -1,0 +1,45 @@
+Trong ngành khoa học máy tính, một giải thuật tìm kiếm là một thuật toán lấy đầu vào là một bài toán và trả về kết quả là một lời giải cho bài toán đó, thường là sau khi cân nhắc giữa một loạt các lời giải có thể. Hầu hết các thuật toán được nghiên cứu bởi các nhà khoa học máy tính để giải quyết các bài toán đều là các thuật toán tìm kiếm. Tập hợp tất cả các lời giải có thể đối với một bài toán được gọi là không gian tìm kiếm. Thuật toán thử sai (brute-force search) hay các thuật toán tìm kiếm "sơ đẳng" không có thông tin sử dụng phương pháp đơn giản nhất và trực quan nhất. Trong khi đó, các thuật toán tìm kiếm có thông tin sử dụng heuristics để áp dụng các tri thức về cấu trúc của không gian tìm kiếm nhằm giảm thời gian cần thiết cho việc tìm kiếm.
+
+
+== Tìm kiếm không có thông tin ==
+Một giải thuật tìm kiếm không có thông tin là giải thuật không tính đến bản chất cụ thể của bài toán. Khi đó, các giải thuật dạng này có thể được cài đặt tổng quát, và cùng một cài đặt có thể được sử dụng trong một diện rộng các bài toán (do sử dụng trừu tượng hóa). Nhược điểm của các giải thuật này là phần lớn các không gian tìm kiếm kích thước cực kì lớn, và một quá trình tìm kiếm (đặc biệt tìm kiếm theo cây) sẽ cần một khoảng thời gian đáng kể cho các ví dụ nhỏ. Do đó, để tăng tốc độ quá trình tìm kiếm, đôi khi chỉ có thể dùng giải thuật tìm kiếm có thông tin.
+
+
+=== Tìm kiếm trên danh sách ===
+Có lẽ các giải thuật tìm kiếm trên danh sách là loại giải thuật tìm kiếm cơ bản nhất. Mục đích là tìm trong một tập hợp một phần tử chứa một khóa nào đó. Do đây là một bài toán thường gặp trong khoa học máy tính, nên độ phức tạp tính toán của các thuật toán này đã được nghiên cứu kỹ càng. Thuật toán đơn giản nhất là tìm kiếm tuyến tính. Thuật toán này kiểm tra từng phần tử trong danh sách theo thứ tự của danh sách đó. Nó có thời gian chạy khá lớn: O(n), trong đó n là số phần tử trong danh sách, nhưng có thể sử dụng thẳng cho một danh sách bất kỳ mà không cần tiền xử lý. Tìm kiếm nhị phân là một thuật toán cao cấp hơn với thời gian chạy là O(log n). Đối với các danh sách lớn, thuật toán này tốt hơn hẳn tìm kiếm tuyến tính, nhưng nó đòi hỏi danh sách phải được sắp xếp từ trước (xem thuật toán sắp xếp) và đòi hỏi khả năng truy nhập ngẫu nhiên (random access). Tìm kiếm nội suy (Interpolation search) tốt hơn tìm kiếm nhị phân đối với các danh sách rất lớn với phân bố gần đều. Giải thuật Grover là một thuật toán lượng tử cho phép tăng tốc độ gấp 4 lần so với tìm kiếm tuyến tính truyền thống trên các danh sách chưa được sắp xếp.
+Bảng băm (hash table) cũng được dùng cho tìm kiếm trên danh sách. Nó đòi hỏi thời gian hằng số trong trường hợp trung bình, nhưng lại cần nhiều phụ phí về không gian bộ nhớ và thời gian chạy O(n) cho trường hợp xấu nhất. Một phương pháp tìm kiếm khác dựa trên các cấu trúc dữ liệu chuyên biệt sử dụng cây tìm kiếm nhị phân cân bằng (self-balancing binary search tree) và đòi hỏi thời gian chạy O(log n); các giải thuật loại này có thể coi là mở rộng của tư tưởng chính về tìm kiếm nhị phân để cho phép chèn và xóa nhanh. Xem mảng liên kết (associative array) để biết thêm về các cấu trúc dữ liệu tìm kiếm trên danh sách.
+Đa số các giải thuật tìm kiếm trên danh sách, chẳng hạn tìm kiếm tuyến tính, tìm kiếm nhị phân, và cây tìm kiếm nhị phân cân bằng, có thể được mở rộng với một chút chi phí bổ sung để tìm tất cả các giá trị nhỏ hơn hoặc lớn hơn một khóa cho trước - một phép toán được gọi là tìm kiếm khoảng (range search). Bảng băm là ngoại lệ, các tìm kiếm khoảng không thể được thực hiện một cách hiệu quả trên bảng băm.
+
+
+=== Tìm kiếm trên cây ===
+Tìm kiếm trên cây là trung tâm của các kỹ thuật tìm kiếm. Các thuật toán này tìm kiếm trên các cây gồm các nút, cây này có thể là cây tường minh hoặc được xây dựng dần trong quá trình tìm kiếm. Nguyên lý cơ bản là: một nút được lấy ra từ một cấu trúc dữ liệu, các nút con của nó được xem xét và bổ sung vào cấu trúc dữ liệu đó. Bằng cách thao tác trên cấu trúc dữ liệu này, cây tìm kiếm được duyệt theo các thứ tự khác nhau, chẳng hạn theo từng mức (tìm kiếm theo chiều rộng) hoặc đi tới một nút lá trước rồi quay lui (tìm kiếm theo chiều sâu). Các ví dụ khác về tìm kiếm trên cây bao gồm: tìm kiếm lặp sâu dần, tìm kiếm chiều sâu giới hạn, tìm kiếm hai chiều và tìm kiếm chi phí đều.
+
+
+=== Tìm kiếm trên đồ thị ===
+Nhiều bài toán về lý thuyết đồ thị có thể được giải quyết bằng các thuật toán tìm kiếm, chẳng hạn thuật toán Dijkstra, thuật toán Kruskal, giải thuật láng giềng gần nhất và giải thuật Prim. Các thuật toán này có thể được coi là các mở rộng của các thuật toán tìm kiếm trên cây.
+
+
+== Tìm kiếm có thông tin ==
+Trong tìm kiếm có thông tin, người ta sử dụng một đánh giá heuristic đặc thù cho bài toán cần giải quyết với vai trò hướng dẫn cho quá trình tìm kiếm. Một cách đánh giá heuristic tốt sẽ làm cho quá trình tìm kiếm có thông tin hoạt động hiệu quả hơn hẳn một phương pháp tìm kiếm không có thông tin bất kỳ.
+Có một vài thuật toán tìm kiếm có thông tin nổi trội dành cho danh sách. Một trong số đó là một bảng băm với một hàm băm là một heuristic dựa trên bài toán đang được giải. Đa số các thuật toán tìm kiếm có thông tin đều là tìm kiếm trên cây. Trong đó có tìm kiếm theo lựa chọn tốt nhất và A*. Cũng như các thuật toán không có thông tin, các thuật toán này có thể được mở rộng để làm việc trên cả các đồ thị.
+
+
+== Tìm kiếm đối kháng ==
+Trong các trò chơi như cờ vua hay cờ tướng, có một cây trò chơi bao gồm tất cả các nước đi có thể của cả hai đấu thủ và các cấu hình bàn cờ là kết quả của các nước đi đó. Ta có thể tìm kiếm trên cây này để có được một chiến lược chơi hiệu quả. Dạng bài toán này có đặc điểm độc nhất vô nhị là ta phải tính đến mọi nước đi mà đối thủ của ta có thể sử dụng. Để làm điều này, các chương trình máy tính chơi cờ, cũng như các dạng khác của trí tuệ nhân tạo như lập kế hoạch tự động (machine planning), thường sử dụng các thuật toán tìm kiếm như thuật toán minimax, tỉa cây tìm kiếm, và tỉa cây alpha-beta (alpha-beta pruning).
+
+
+== Thỏa mãn ràng buộc ==
+Đây là một loại tìm kiếm để giải quyết các bài toán thỏa mãn ràng buộc mà trong đó, thay vì tìm một đường đi, lời giải chỉ đơn giản là một tập các giá trị được gán cho một tập các biến. Do các biến có thể được xử lý theo thứ tự tùy ý, các thuật toán thông thường dành cho tìm kiếm trên cây rất không hiệu quả. Các phương pháp giải các bài toán ràng buộc bao gồm tìm kiếm tổ hợp và quay lui, cả hai đều tận dụng các đặc điểm tự do có liên quan đến các bài toán ràng buộc.
+
+
+== Các loại khác ==
+Các thuật toán tìm xâu ký tự (String searching algorithm) tìm kiếm các mẫu trong các xâu ký tự; cây hậu tố (suffix tree) là một cấu trúc dữ liệu thông dụng có tác dụng làm tăng hiệu quả của các thuật toán này
+Giải thuật di truyền hay thuật toán gien sử dụng ý tưởng tiến hóa để làm các heuristic cho việc giảm không gian tìm kiếm
+Các thuật toán sắp xếp cần thiết cho việc thực thi một số thuật toán tìm kiếm nhất định
+Giả lập luyện thép là một thuật toán tìm kiếm xác suất
+Tìm kiếm Tabu là một kỹ thuật tránh việc các quá trình tìm kiếm rời rạc bị tắc trong các cực tiểu địa phương
+Tìm kiếm liên bang (Federated search)
+Giải thuật Minimax được tối ưu hóa bằng kỹ thuật tỉa cây alpha-beta là một thuật toán dành cho tìm kiếm các nước đi tốt trong các trò chơi tổng bằng không
+
+
+== Tham khảo ==

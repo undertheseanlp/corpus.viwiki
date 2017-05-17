@@ -1,0 +1,7 @@
+Michel Floréal Chasles (1793-1880) là nhà toán học người Pháp. Chasles là sinh viên của Trường Bách khoa Paris. Ông là tác giả của hệ thức Chasles. Hệ thức này có nội dung như sau:
+Với ba tia Ox, Oy, Oz tùy ý, ta có: sđ(Ox, Oy)+k2π=sđ(Ox, Oz)+sđ(Oz, Oy) với k thuộc Z
+(số đo của cung tròn tạo bới Ox và Oy, dù có quay bao nhiêu vòng đi nữa, cũng bằng số đo cung tròn tạo bởi Ox và Oz và tạo bởi Oz và Oy).
+Đây là hệ thức quan trọng, giúp chúng ta có thể tính toán số đo của góc lượng giác. Nhờ những cống hiến cho toán học, ông giành được huy chương Copley năm 1865. Đồng thời tên của ông được ghi trên tháp Eiffel. Ngoài ra, tên ông còn được dùng để đặt tên cho tiểu hành tinh 18510 Chasles.
+
+
+== Chú thích ==

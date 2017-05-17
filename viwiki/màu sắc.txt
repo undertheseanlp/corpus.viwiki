@@ -1,0 +1,49 @@
+Màu sắc là cảm giác mang đến cho hệ thần kinh của người từ sự kết hợp tín hiệu của ba loại tế bào cảm thụ màu ở mắt người. Cảm giác này cũng bị ảnh hưởng "dài hạn" từ trí nhớ lưu lại quá trình học hỏi từ khi lớn lên trong xã hội, và "ngắn hạn" bởi các hiệu ứng ánh sáng của phông nền.
+Màu sắc của một tia ánh sáng là cảm giác màu mà tia sáng đó gây nên ở mắt người. Màu sắc của các vật thể là màu sắc của ánh sáng xuất phát từ chúng.
+
+
+== Vật lý của màu sắc ==
+
+Các dao động của điện trường trong ánh sáng tác động mạnh đến các tế bào cảm thụ ánh sáng trong mắt người. Có 3 loại tế bào cảm thụ ánh sáng trong mắt người, cảm nhận 3 vùng quang phổ khác nhau (tức ba màu sắc khác nhau). Sự kết hợp cùng lúc 3 tín hiệu từ 3 loại tế bào này tạo nên những cảm giác màu sắc phong phú. Để tạo ra hình ảnh màu trên màn hình, người ta cũng sử dụng 3 loại đèn phát sáng ở 3 vùng quang phổ nhạy cảm của người (xem phối màu phát xạ).
+Tế bào cảm giác màu đỏ và màu lục có phổ hấp thụ rất gần nhau, do vậy mắt người phân biệt được rất nhiều màu nằm giữa màu đỏ và lục (màu vàng, màu da cam, xanh nõn chuối,...). Tế bào cảm giác màu lục và màu lam có phổ hấp thụ nằm xa nhau, nên mắt người phân biệt về các màu xanh không tốt. Trong tiếng Việt, từ "xanh" đôi khi hơi mơ hồ - vừa mang nghĩa xanh lục vừa mang nghĩa xanh lam.
+
+
+== Màu bổ túc ==
+Những cặp màu bổ túc là những cặp màu có tính tương phản mạnh, mà khi kết hợp với nhau đúng tỷ lệ, sẽ tạo ra màu trắng (theo nguyên tắc phối màu cộng) hoặc đen (theo nguyên tắc phối màu trừ). Trong hệ phối màu trừ truyền thống, được các họa sĩ sử dụng lâu nay, những cặp màu bổ túc là:
+Đỏ >< Xanh lục
+Da cam >< Xanh lam
+Vàng >< Tím
+Những màu này không thể gây cảm giác đồng thời đối với con người, chẳng hạn không thể có một màu gọi là "đỏ - lục" hoặc "vàng - tím". Điều này tương tự cảm giác về nhiệt độ, không có cảm giác nào được gọi là cảm giác "nóng - lạnh", mà là "nóng" hoặc "lạnh".
+Trong hệ phối màu cộng thì những cặp màu bổ túc là:
+Vàng >< Xanh lam
+Cánh sen >< Xanh lục
+Cánh chả >< Đỏ
+
+
+== Y học của màu sắc ==
+ Y học hiện nay cho rằng sắc màu làm cho cuộc sống mỗi con người đẹp hơn. Mỗi màu khác nhau và có một ý nghĩa khác nhau. Đây là một thứ do chính thiên nhiên ban tặng.
+
+
+== Cảm giác màu ==
+Màu sắc có 2 cảm giác: màu nóng và màu lạnh.
+Các màu có cảm giác nóng là các màu như: đỏ, vàng, cam, hồng...
+Màu có cảm giác lạnh như: xanh, lục lam.
+Riêng màu trắng và đen hội họa không coi đấy là 2 màu.
+
+
+== Tái tạo màu ==
+Phương pháp tái tạo màu trên phim đen trắng được làm như sau:
+Chụp tất cả các màu sắc trong dải phổ ánh sáng trắng với các nhiệt độ màu khác nhau mà mắt người có thể phân biệt bằng một camera với chế độ đen trắng.Và họ đã có được các giá trị độ tương phản của các màu đó dưới ánh sáng trắng với nhiều cường độ sáng khác nhau trong từng dải.
+Tiếp theo họ lưu các giá trị và mối tương quan giữa chúng với các màu sắc tương ứng trong từng dải.
+Tiếp theo họ so sánh một vật có độ tương phản "x" với độ tương phản "y" trong dải màu "A" được chụp với cường độ "b",và độ tương phản d trong dải màu "B" chụp với cường độ "m".Với giá trị x=y=d;"b" nhỏ hơn hoặc lớn hơn "m".Tuy nhiên,để biết màu thực của "x" là màu ánh xạ của "y" hay của "d",họ sẽ dùng phép thử,mỗi phép thử sẽ khiến màu sắc của cả bức tranh sai lệch hoặc hợp lý,ví dụ: bầu trời sẽ màu xanh thay vì màu đỏ,cây cỏ màu xanh lá thay vì màu hồng.Tuy vậy công nghệ này không thể tái tạo một bức ảnh ánh sáng đơn sắc mà không có bất kì các màu khác.
+
+
+== Xem thêm ==
+Danh sách màu
+Danh sách chủ đề màu
+Mù màu
+Số Hex
+Phối màu hấp thụ
+
+
+== Tham khảo ==

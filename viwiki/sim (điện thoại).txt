@@ -1,0 +1,13 @@
+SIM - viết tắt của Subscriber Identity Module, là thẻ nhớ thông minh sử dụng trên điện thoại di động, lưu trữ những thông tin như số điện thoại, mã số mạng di động, số PIN, sổ điện thoại cá nhân và các thông tin cần thiết khác khi sử dụng điện thoại. Thế hệ SIM đầu tiên - Full-size SIM (1FF)- được sản xuất và đưa vào sử dụng vào năm 1991.
+Cụ thể hơn, SIM là thẻ dùng để nhận dạng thuê bao di động, được sử dụng trong mạng điện thoại di động hệ GSM. Ở Việt Nam hiện tại có 5 mạng sử dụng công nghệ này Mobifone, Vinaphone, Viettel, Vietnamobile và Gtel.
+Mạng di động dùng công nghệ WCDMA (Wideband CDMA) cũng dùng thẻ SIM ở Việt Nam hiện nay đó là S-Fone, mạng này đều có 2 hình thức sử dụng là trực tiếp máy, và thẻ sim.
+Một thuê bao di động bao gồm thiết bị di động đầu cuối và một thẻ SIM. Nhờ có SIM mà người dùng có thể thay đổi ĐTDĐ dễ dàng, không cần đến sự hỗ trợ của nhà cung cấp dịch vụ di động.
+Thẻ SIM có bốn loại kích thước: loại lớn (1FF), loại nhỏ (2FF), loại micro (3FF), loại nano (4-FF). ID-1 SIM có kích thước bằng chiếc thẻ tín dụng, xuất hiện ở thời kỳ đầu khi mạng di động mới ra đời, dùng với các máy di động đời cũ. Còn Plug-in SIM là loại mà ngày nay ta thường dùng.
+Ngoài chức năng chính là nhận dạng thuê bao di động (đặc trưng bởi số IMSI – International Mobile Subscriber Identity), SIM còn chứa các dữ liệu khác của thuê bao như các mã số PIN, PIN2, PUK, PUK2, số của trung tâm dịch vụ nhắn tin SMS, danh bạ điện thoại… Các loại SIM đời cũ lưu được 125 số điện thoại, SIM thông thường cho phép lưu đến 250 số điện thoại, Super SIM có thể lưu 750 số điện thoại.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+ Phương tiện liên quan tới SIM cards tại Wikimedia Commons

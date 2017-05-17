@@ -1,0 +1,43 @@
+Trong nhiếp ảnh và quang học, hiệu ứng mờ viền ( /vɪnˈjɛtɪŋ/; French: "vignette") là hiện tượng giảm độ sáng hoặc bão hòa màu tại viền ngoài so với trọng tâm của bức ảnh. Từ "vignette", có nguồn gốc từ từ "vine", có nghĩa là rìa trang trí của một cuốn sách. Sau đó, thuật ngữ này được sử dụng cho các bức ảnh chân dung mà chụp rõ phần giữa, và làm mờ phần rìa. Hiện tượng tương tự cũng xảy ra khi khi chiếu hình ảnh hoặc video ra ngoài màn chiếu. Đó gọi là hiệu ứng "hotspot" ở các bộ phim gia đình (phân biệt với phim phòng chiếu) giá rẻ không được áp dụng các kỹ thuật chuyển đổi video thích hợp.
+Hiệu ứng mờ viền thường là tác động không mong muốn do cách cài đặt thông số máy ảnh và do giới hạn của ống kính. Tuy nhiên, thỉnh thoảng nó cũng được sử dụng một cách có chủ đích, nhằm thu hút sự chú ý của người xem vào trọng tâm của bức ảnh. Nhiếp ảnh gia có thể tạo hiệu ứng này bằng cách chủ động sử dụng ống kính hoặc bộ lọc thích hợp, cũng có khi bằng các biện pháp xử lý hậu kì.
+
+
+== Nguyên nhân ==
+Dựa theo các nguyên lý của hiệu ứng mờ viền, Sidney F. Ray đã chia hiệu ứng mờ viền thành các loại sau:
+Hiệu ứng mờ viền cơ học
+Hiệu ứng mờ viền quang học
+Hiệu ứng mờ viền tự nhiên
+Riêng với ảnh kỹ thuật số, còn có thêm:
+Hiệu ứng mờ viền điểm ảnh
+Riêng với ảnh chụp bằng máy cơ còn có thêm:
+Hiệu ứng mờ viền phim nhựa
+
+
+=== Hiệu ứng mờ viền cơ học ===
+Hiệu ứng mờ viền cơ học xuất hiện khi chùm sáng lệch trục phát ra từ vật chụp bị các vật khác như bộ lọc, ống kính thứ cấp, nắp ống kính không thích hợp...chắn một phần, khiến thay đổi kích thước ảnh tới độ dừng khẩu độ tương ứng góc đến lệch trục (nguyên nhân xuất phát từ đường đi của tia sáng bị chắn một phần). Hiệu ứng có thể xảy ra từ từ hoặc đột ngột – khẩu độ càng nhỏ, hiệu ứng xảy ra càng đột ngột tương ứng sự thay đổi của góc lệch trục.
+Nếu xuất hiện một phần nào đó không nhận được một tia sáng nào chiếu đến do hiệu ứng mờ viền cơ học (đường đi của tia sáng đến phần đó bị chắn hoàn toàn), thì đó gọi là giới hạn thị trường (FOV: field of view) và phần đó sẽ có màu đen.
+
+
+=== Hiệu ứng mờ viền quang học ===
+Xảy ra ở các ống kính cấu tạo bởi nhiều thấu kính, do sự khác nhau về kích thước vật lý của các thấu kính. Thấu kính rìa bị hạn chế bởi các thấu kính đằng trước, làm giảm góc mở của ống kính đối với các tia sáng lệch trục. Kết quả của hiện tượng này là cường độ ánh sáng chiếu đến giảm dần ở rìa bức ảnh. Mờ viền quang học phụ thuộc chủ yếu vào khẩu độ ống kính và thường thì có thể điều chỉnh bằng cách giảm từ 2–3 mức đóng khẩu độ. (tăng chỉ số khẩu độ tương đối.)
+
+
+=== Hiệu ứng mờ viền tự nhiên ===
+Không giống như trường hợp trước, mờ viền tự nhiên (còn gọi là nhòe sáng tự nhiên) không bắt nguồn từ việc hạn chế tia sáng chiếu đến. Độ nhòe xấp xỉ cos4, tuân theo luật nhòe sáng "cos mũ 4". Tức là, độ nhòe sáng tỉ lệ với bậc 4 cosine góc đến của tia sáng chiếu lên phim hoặc mảng sensor. Ống kính quan trắc góc rộng và ống kính ở các máy ảnh ngắm chụp (máy ảnh compact) rất hay gặp tình trạng mờ viền tự nhiên. Ống kính tele (ống kính chụp xa), ống kính góc rộng Angenieux (sử dụng một thấu kính tele lật ngược) dùng trên các máy ảnh SLR (ở Việt Nam được biết đến với tên gọi thông dụng là máy ảnh cơ), và ống kính viễn tâm nói chung ít chịu ảnh hưởng của hiện tượng mờ viền. Kính lọc GND (graduated neutral density hay gradual grey filter) và các kĩ thuật xử lý hậu kì có thể được sử dụng để chữa lỗi mờ viền tự nhiên, bởi hiện tượng này không thể sửa chữa bằng cách điều chỉnh ống kính. Một số ống kính hiện đại được đặc chế để ánh sáng chiếu đến phim là ánh sáng song song hay gần như vậy giúp loại bỏ hoặc làm giảm đáng kể hiện tượng mờ viền. Hầu hết các ống kính chế tạo cho hệ thống 4/3 là loại ống kính này, chủ yếu là ống kính viễn tâm.
+
+
+=== Hiệu ứng mờ viền điểm ảnh ===
+Hiệu ứng mờ viền điểm ảnh chỉ xảy ra ở các máy ảnh kỹ thuật số do đặc tính phụ thuộc góc chiếu đến của các bộ cảm biến số và cường độ ánh sáng thẳng góc bao giờ cũng mạnh hơn theo phương xiên. Hầu hết máy ảnh kỹ thuật số đều tích hợp bên trong một bộ xử lý ảnh để khắc phục hiệu ứng mờ viền quang học và mờ viền điểm ảnh khi chuyển đổi dữ liệu gốc nhận được từ các bộ cảm biến sang định dạng ảnh chuẩn như JPEG or TIFF. Việc tích hợp thêm một ống kính điều chỉnh siêu nhỏ ngay trước các bộ cảm biến ảnh cũng có thể khắc phục hiện tượng mờ viền điểm ảnh.
+
+
+== Hậu kỳ ==
+Vì nhiều mục đích nghệ thuật, hiệu ứng mờ viền có thể được áp dụng vào các bức ảnh vốn không bị mờ viền bằng cách sử dụng kỹ thuật Dodging and burning ở viền ngoài bức ảnh (nếu sử dụng phim) hoặc các kỹ thuật xử lý ảnh kỹ thuật số, như sử dụng một lớp phủ mờ viền. Bộ lọc Lens Correction trong Photoshop cũng có thể được tận dụng để thực hiện thủ thuật này.
+Đối với xử lý ảnh kỹ thuật số, kỹ thuật này được áp dụng khi muốn tạo ra một khung cảnh mờ ảo trên bức ảnh.
+
+
+== Xem thêm ==
+Dodging and burning
+Flat-field correction
+
+
+== Tham khảo ==

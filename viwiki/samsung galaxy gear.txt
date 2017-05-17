@@ -1,0 +1,52 @@
+Samsung Galaxy Gear là đồng hồ thông minh chạy hệ điều hành Android, được nghiên cứu và phát triển bởi Samsung Electronics. Được giới thiệu lần đầu tiên tại sự kiện Samsung Unpacked diễn ra ở Berlin vào 04/09/ 2013, thiết bị này tương thích với tất cả các dòng điện thoại thông minh Samsung Galaxy và máy tính bảng chạy hệ điều hành Android 4.3; vào thời điểm Galaxy Gear ra mắt, những dòng máy có khả năng tương thích bao gồm Galaxy Note 3 và Galaxy Note 10.1 2014 Edition.
+Galaxy Gear nhận nhiều chỉ trích từ giới chuyên môn và người dùng do cách thiết kế giao diện thiết bị, các phần mềm bổ sung, số lượng hạn chế của các ứng dụng tương thích, thời lượng pin thấp và sự phụ thuộc vào các dòng điện thoại cũng như máy tính bảng Samsung Galaxy.
+
+
+== Lịch sử ==
+
+
+=== Phát triển ===
+Ý tưởng phát triển Galaxy Gear bắt đầu từ mong muốn tạo chỗ đứng trong thị trường đồng hồ thông minh đang ngày càng tiềm năng; Đối thủ chính của Samsung, Apple được đồn thổi sẽ sớm ra mắt một dòng sản phẩm đồng hồ, trong khi dòng sản phẩm Pebble trên Kickstarter (được tiêu thụ rộng rãi trên toàn thế giới từ tháng 07/2013) đã thành công khi bước đầu thu hút sự chú ý từ người dùng về thiết bị mới mẻ này. Vào tháng 07/2013, Lee Young-hee, phó giám đốc của ngành hàng điện thoại Samsung, cho biết công ty đã nghiên cứu và phát triển một chiếc đồng hồ trong thời gian dài, và tuyên bố đây sẽ là "sản phẩm của tương lai". Vào tháng 08/2013, Bloomberg thông báo "hai nguồn tin mật" đưa ra thông tin Samsung sẽ cho ra mắt một dòng đồng hồ thông minh, dưới tên gọi "Galaxy Gear", vào ngày 04/09/2013, trong sự kiện Samsung Unpacked trước thềm triển lãm công nghệ IFA tổ chức tại Berlin. Samsung được cho rằng sẽ công bố phablet Galaxy Note 3 trong cùng sự kiện này.
+Trong một buổi phỏng vấn với tờ báo Korea Times phát hành vào ngày 27/08/2013, Lee Young-hee cho biết Galaxy Gear sẽ "nâng tầm chất lượng và đem đến những trải nghiệm mới khi sử dụng điện thoại thông minh trên nhiều phương diện", sẽ "dẫn tới một xu hướng hoàn toàn mới của công nghệ điện thoại thông minh", và "tăng thêm động lực cho ngành công nghiệp điện thoại".
+
+
+=== Xuất hiện trên thị trường ===
+Như thông tin trước đây, Samsung chính thức giới thiệu Galaxy Gear vào ngày 04/09/2013, và chính thức bán ra thị trường vào ngày 25/09/2013 (riêng với hai thị trường Mỹ và Nhật, đến tận tháng 10, Galaxy Gear mới được chào bán chính thức). Một số nhà cung cấp dịch vụ Internet không dây, như một động thái khích lệ, đã tặng kèm Galaxy Gear khi khách hàng mua Galaxy Note 3.
+Để quảng bá cho dòng Galaxy Gear, Samsung đã phát hành hai phiên bản quảng cáo trên ti vi, "Evolution" và "A Long Time Coming". Cả hai mẫu quảng cáo đều giới thiệu những thiết bị giống như đồng hồ thông minh trong những tác phẩm nổi tiếng (bao gồm Dick Tracy, Star Trek, The Jetsons, Predator, và Inspector Gadget), với câu khẩu hiệu "After all these years, it's finally real." (tạm dịch: Sau tất cả những năm dài chờ đợi, cuối cùng đã trở thành thành hiện thực)
+
+
+== Tính năng ==
+
+
+=== Phần cứng ===
+Galaxy Gear nổi bật với chip vi xử lý lõi đơn 800 MHz Exynos hệ thống tích hợp, và màn hình cảm ứng hình vuông Super AMOLED 320 pixel với mật độ điểm ảnh 277 PPI. Dây đeo được tích hợp camera 1.9 megapixel, cảm biến ánh sáng ở phía sau, khả năng tự động lấy nét, chế độ quay phim 720p, loa và hai tai nghe chống ồn. Galaxy Gear cũng sở hữu bộ nhớ trong 4 GB, RAM 512 MB, máy đo gia tốc, và con quay hồi chuyển. Thiết bị này sử dụng pin 315 mAh; Galaxy Gear không có chấu sạc mà sử dụng bộ sạc đặc biệt được trang bị Micro USB và NFC sử dụng khi thiết lập ban đầu cho thiết bị. Galaxy Gear được thiết kế tuân thủ IP55 với khả năng chống bụi và bảo vệ tạm thời khỏi thấm nước.
+Để kết nối với thiết bị nguồn, Galaxy Gear sử dụng Bluetooth low energy. Chỉ những thiết bị chạy hệ điều hành Android 4.3 và cao hơn mới hỗ trợ Bluetooth LE, do đó chỉ Galaxy Note 3 và Galaxy Note 10.1 2014 Edition, những thiết bị Samsung đầu tiên chạy 4.3, tương thích với Galaxy Gear. Ngay sau khi giới thiệu Galaxy Gear, Samsung bắt đầu hỗ trợ bản cập nhật Android 4.3 cho những thiết bị khác, chẳng hạn như Galaxy S III, S4 và Note 2, để đảm bảo khả năng tương thích với Galaxy Gear.
+
+
+=== Phần mềm ===
+
+Galaxy Gear chạy hệ điều hành Android 4.2.2 với một giao diện tối giản và được xây dựng dựa trên cử động tay của người dùng. Để kết nối với thiết bị nguồn, chẳng hạn như một chiếc điện thoại thông minh hay máy tính bảng, NFC bên trong bộ sạc Galaxy Gear sẽ kích hoạt việc cài đặt ứng dụng Gear Manager, sử dụng Bluetooth để bắt cặp và đảm bảo các kết nối sau này giữa hai thiết bị. Gear Manager dùng để tùy chỉnh các tính năng của thiết bị (ví dụ như màu sắc và hình thức hiển thị của đồng hồ) cũng như theo dõi và cài đặt các ứng dụng thông qua Samsung Apps.
+Tin báo có thể được đồng bộ từ thiết bị chính và hiển thị trên màn hình của Gear khi nhận; một đoạn giới thiệu ngắn về nội dung của tin báo sẽ được hiển thị trên đồng hồ, trong khi tính năng Smart Relay cho phép người dùng mở nội dung được hiển thị trên Gear bằng máy tính bảng hoặc điện thoại thông minh của mình. S Voice có thể dùng để thực hiện các lệnh điều khiển bằng giọng nói đơn giản cho một số ứng dụng. Người dùng có thể gọi và trả lời điện thoại bằng đồng hồ (lệnh gọi được thực hiện bằng cách thực hiện động tác kéo lên phía trên của màn hình đồng hồ), trong khi đó, công cụ "Find My Device" có thể xác định vị trí của đồng hồ bằng điện thoại hoặc máy tính bảng, cũng như sử dụng cho mục đích ngược lại.
+Galaxy Gear cho phép chụp hình, hoặc quay phim với độ dài tối đa 15 giây. Hình ảnh và phim có thể được chứa trong bộ nhớ trong của đồng hồ, hoặc ngay lập tức chuyển sang máy điện thoại, máy tính bảng đang được kết nối. Người dùng có thể ghi âm với độ dài tối đa 5 phút. Một ứng dụng của Gear cho phép điều khiển phim ảnh và nhạc chạy trên thiết bị nguồn cũng được hỗ trợ.
+Mặc dù có thể chạy các ứng dụng Android trên Gear thông qua Android Debug Bridge (ADB), việc sử dụng có thể bị ảnh hưởng bởi màn hình nhỏ và thiết bị không có khả năng kết nối trực tiếp với internet.
+
+
+== Đón nhận từ thị trường ==
+Galaxy Gear nhận chỉ trích từ giới chuyên môn và người dùng. Thiết kế của Gear cũng đối mặt với luồng ý kiến trái chiều; mặc dù được đánh giá cao bởi chất lượng, cách tích hợp các công cụ vào dây đeo bị chỉ trích do làm cho chiếc đồng hồ mất đi tính llinh hoạt (cũng như khiến người dùng không cảm thấy thoải mái khi đeo). Gear cũng bị chỉ trích do số lượng giới hạn của các ứng dụng, cùng với hệ thống báo tin không nhất quán. Những nhà chỉ trích đã đưa ra một số ví dụ của sự không nhất quán, như email tích hợp của hệ điều hành Android IMAP/POP3 có thể hiển thị một đoạn giới thiệu ngắn về nội dung của tin báo trên Galaxy Gear, trong khi Gmail chỉ có thể hiển thị một dấu hiệu icon và yêu cầu người dùng mở điện thoại để xem thông tin.
+The Verge đánh giá "khi đề cập đến thiết kế công nghiệp, kỹ thuật phần mềm không phải là một trong những thế mạnh của Samsung, do đó, Galaxy Gear là một thiết bị thiếu tin cậy và không đạt chuẩn." Khả năng trả lời điện thoại trên Gear được đánh giá cao bởi sự tiện dụng và tín hiệu cuộc gọi tốt (dẫn đến việc so sánh với thiết bị Dick Tracy), trong khi máy chụp hình của Gear cũng được ca ngợi vì chất lượng tốt đáng kinh ngạc với chỉ số megapixel thấp. Sự phụ thuộc của các thiết bị Samsung Galaxy vào các hệ điều hành khác nhau của Android cũng bị chỉ trích. Ngoài ra, thời lượng pin của Gear ngắn, được so sánh như một chiếc điện thoại thông minh hơn là đồng hồ.
+Những thiếu sót khi liên quan đến phần tin báo cũng được Samsung đề cập đến trong bản nâng cấp phần mềm đầu tiên của Galaxy Gear. Bản nâng cấp này cho phép tất cả các ứng dụng hiển thị tin báo với đoạn giới thiệu ngắn về nội dung trên Galaxy Gear.
+
+
+=== Doanh số ===
+Galaxy Gear có doanh số thấp; trong cuối tháng 10/2013, ít nhất 30% Galaxy Gear được bán từ các cửa hàng Best Buy tại Mỹ đã bị trả lại do khách hàng không cảm thấy hài lòng. Trong tháng 11/2013, Reuters công bố một nguồn tin từ Samsung cho rằng hơn 800,000 Galaxy Gears đã được bán trên toàn thế giới; tuy nhiên, một tờ báo của Hàn Yonhap phủ định thông tin này, cho rằng đây là số lượng đồng hồ đã được giao đến các cửa hàng, chứ không phải con số thật sự được bán ra.
+
+
+== Xem thêm ==
+Google Glass
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Website chính thức

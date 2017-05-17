@@ -1,0 +1,108 @@
+Mã ISO 3166-1 alpha-2 là những mã quốc gia hai ký tự trong tiêu chuẩn ISO 3166-1 để đại diện cho quốc gia và lãnh thổ phụ thuộc. Chúng được Tổ chức tiêu chuẩn hoá quốc tế (ISO) phát hành như một phần của tiêu chuẩn ISO 3166 của tổ chức. Chúng là những mã được sử dụng nhiều nhất trong các bộ mã do ISO phát hành, và được dùng nhiều cho tên miền quốc gia cấp cao nhất (với một số thay đổi). Những mã này lần đầu xuất hiện trong bộ tiêu chuẩn ISO 3166 phiên bản đầu tiên vào năm 1974.
+
+
+== Việc sử dụng và ứng dụng ==
+Những mã này được dùng trong nhiều môi trường khác nhau và cũng là một phần của những tiêu chuẩn khác. Trong một số trường hợp, chúng không được chính xác lắm.
+
+
+=== Thi hành đầy đủ ===
+Những mã 2 ký tự ISO 3166-1 được dùng trong:
+ISO 3901 — Mã thu chuẩn quốc tế
+ISO 4217 — Mã tiền tệ
+ISO 6166 — Hệ thống số nhận dạng Chứng khoán quốc tế (ISIN)
+ISO 7372 — Trao đổi dữ liệu thương mại (Danh mục phần tử dữ liệu thương mại)
+ISO 9362 — Mã SWIFT codes (Mã nhận dạng Ngân hàng)
+ISO 9375
+ISO 13616 — Số tài khoản ngân hàng quốc tế
+UN/LOCODE — Mã Liên hiệp quốc về Vị trí Thương mại và Vận tải, do implemented by the Ủy ban Kinh tế châu Âu của Liên hiệp quốc
+Đánh dấu ngôn ngữ IETF
+
+
+=== Thi hành không đầy đủ ===
+Bắt đầu từ năm 1985, mã hai ký tự đã được dùng trong hệ thống phân giải tên miền làm tên miền quốc gia cấp cao nhất (ccTLD). Ngày nay, Tổ chức cấp phát số hiệu Internet gán ccTLD, đa số theo mã ISO 3166-1 alpha-2, nhưng có một số ngoại lệ (ví dụ, Liên hiệp Vương quốc Anh và Bắc Ireland yêu cầu bảo lưu ngoại lệ .uk cho ccTLD của họ thay vì tên gốc .gb)
+Tiêu chuẩn ghi mã ST.3 của WIPO sử dụng mã alpha-2 để mã hóa các bang, những thực thể và tổ chức liên chính phủ khác (và Cơ quan Sáng chế/Thương hiệu), nhưng bao gồm một số mã thêm vào. Đối với những mã thêm vào này, xem phần Mã hiện không được phép dùng.
+Mã quốc gia NATO cũng dựa trên ISO 3166-1 alpha-2.
+
+
+== Các thay đổi ==
+Những thay đổi của ISO 3166-1 alpha-2 được ghi trong ISO 3166-3.
+
+
+== Các mã hiện nay ==
+
+
+=== Bảng giải mã ===
+Dưới đây là bảng giải mã theo màu của tất cả các yếu tố mã ISO 3166-1 alpha-2. Nhấn vào ô để xem mục tương ứng.
+
+
+=== Yếu tố mã được gán chính thức ===
+Dưới đây là danh sách đầy đủ những mã ISO 3166-1 alpha-2 bia dat, với ba cột:
+Alpha-2 – mã quốc gia 2 ký tự (với liên kết đến mã địa lý ISO 3166-2)
+Tên quốc gia – Tên ngắn bằng tiếng Anh được Cục Bảo trì ISO 3166 (ISO 3166/MA) sử dụng chính thức
+Ghi chú – Ghi chú không chính thức
+
+
+=== Yếu tố mã tự gán ===
+Những mã alpha-2 sau đây người dùng có thể tự gán: AA, từ QM đến QZ, từ XA đến XZ, và ZZ. Những yếu tố mã này tùy vào cách bố trí của người dùng nào cần thêm các tên quốc gia, vùng lãnh thổ hoặc khu vực địa lý khác vào ứng dụng ISO 3166-1 của riêng họ, và ISO 3166/MA sẽ không bao giờ dùng chúng khi cập nhật tiêu chuẩn. Ví dụ:
+UN/LOCODE gán XZ cho Các cơ sở nước trên thế giới.
+Tổng cục Hải quan của Bộ Tài chính Cộng hòa Trung Hoa đang kiểm soát Đài Loan chỉ định bốn mã sử dụng cá nhân cho nhu cầu thống kê của mình [1] [2]:
+XA – Quần đảo Ryukyu, Cộng hòa Trung Hoa chưa bao giờ xem là lãnh thổ Nhật Bản
+XB – Nevis
+XC – Tahiti
+ZZ – các quốc gia khác
+
+
+=== Yếu tố mã bảo lưu ===
+Những yếu tố mã bảo lưu là những mã, tuy không phải là mã ISO 3166-1, vẫn được sử dụng cho một số ứng dụng cùng với các mã ISO 3166. ISO 3166/MA do đó bảo lưu chúng, để không dùng chúng cho những mã ISO 3166 chính thức mới, như thế sẽ tạo ra mâu thuẫn giữa tiêu chuẩn và các ứng dụng đó. Danh sách yếu tố mã bảo lưu alpha-2 được chia thành những loại sau.
+
+
+==== Bảo lưu ngoại lệ ====
+Những mã alpha-2 được bảo lưu ngoại lệ được bảo lưu vĩnh viễn do yêu cầu của các cơ quan thành viên ISO của quốc gia, chính phủ và tổ chức quốc tế vì chúng cần thiết cho những mục đích nào đó. ISO 3166/MA chỉ cho phép sử dụng chúng với mục đích đã đề xuất. Những mã alpha-2 sau hiện đang được bảo lưu ngoại lệ:
+Ba mã sau cũng nằm trong danh sách bảo lưu ngoại lệ, cho đến khi được cập nhật từ ngày 29 tháng 3 năm 2006 đưa chúng vào mã chính thức trong tiêu chuẩn:
+
+
+==== Bảo lưu chuyển tiếp ====
+Một sự bảo lưu chuyển tiếp liên quan đến một mã trước đây hiện diện trong ISO 3166, nhưng đã bị xóa. Nó sẽ được duy trì ở đó như sự bảo lưu chuyển tiếp trong vòng ít nhất năm năm, phòng ngừa người dùng vẫn vần tham khảo đến thành phần cũ hoặc những hệ thống chưa được cập nhật mã mới. Những mã alpha-2 sau hiện đang được bảo lưu chuyển tiếp:
+
+
+==== Bảo lưu mơ hồ ====
+Những yếu tố mã alpha-2 được bảo lưu mơ hồ là những yếu tố mã được dùng để xác định những phương tiện giao thông theo như Quy ước Giao thông Đường bộ Liên hiệp quốc n ăm 1949 và 1968. Những mã này khác với những mã dùng trong ISO 3166. ISO 3166/MA hy vọng rằng những mã này cuối cùng sẽ được xóa và rằng những mã ISO 3166-1 sẽ được dùng thay thế; nhưng trong thời gian đó chúng được bảo lưu, để tránh mâu thuẫn giữa ISO 3166-1 và bản Quy ước, và để thuận tiện cho bất kỳ sự chuyển đổi nào từ mã Quy ước sang mã ISO 3166-1. Tuy nhiên, chúng có thể được gán lại bất cứ lúc nào bởi ISO 3166/MA. Những mã alpha-2 sau hiện được bảo lưu mơ hồ:
+Những mã sau đã được gán lại
+Ghi chú:
+Mã được thông báo Tổng thư ký LHQ theo Quy ước Giao thông Đường bộ năm 1949 và/hoặc 1968
+Mã được dùng cho mục đích giao thông, nhưng không được thông báo cho Tổng thư khí LHQ theo Quy ước Giao thông Đường bộ năm 1949
+Mã theo Quy ước Giao thông Đường bộ năm 1949
+Mã theo Quy ước Giao thông Đường bộ năm 1968
+Mã này được dùng để chỉ đến cả Bolivia lẫn Botswana
+
+
+==== Mã hiện không được phép dùng ====
+Ngoài ra, ISO 3166/MA đã quyết định, cho đến khi giải quyết xong, không dùng những mã alpha-2 sau theo Tiêu chuẩn ST.3 của WIPO. Tuy nhiên, quyết định này không được xếp vào bảo lưu chuyển tiếp hay mơ hồ, vì những mã này không chỉ đến quốc gia, vùng lãnh thổ hoặc khu vực địa lý nào:
+Chuẩn ST.3 của WIPO thực ra sử dụng EA để ghi mã cho Tổ chức Sáng chế Âu-Á. Tuy nhiên, ISO 3166/MA cho rằng không thể bảo đảm việc bảo lưu mã EA không cho dùng, vì nó đã được dùng cho mục đích hải quan đại diện cho Ceuta và Melilla. ISO 3166/MA đề nghị vào năm 1995 rằng EV được WIPO dùng với mục đích đại diện cho Tổ chức Sáng chế Âu-Á, đề nghị không được WIPO thực hiện.
+
+
+== Những mã đã rút ra khác ==
+
+để xem danh sách đầy đủ những mã đã rút ra
+Ngoài những mã hiện được bảo lưu chuyển tiếp và FX (đang được bảo lưu ngoại lệ), những mã alpha-2 này đã được rút ra so với phiên bản đầu tiên của ISO 3166 vào năm 1974:
+
+
+== Xem thêm ==
+ISO 3166
+ISO 3166-1
+ISO 3166-1 alpha-3, mã quốc gia 3 ký tự
+ISO 3166-1 numeric, mã quốc gia 3 chữ số
+ISO 3166-2
+ISO 3166-3
+
+
+== Nguồn và liên kết ngoài ==
+Tổ chức Tiêu chuẩn Quốc tế (ISO): Cơ quan Bảo trì
+Danh sách các quốc gia và các yếu tố mã ISO 3166-1 alpha 2 chính thức
+Bảng giải mã ISO 3166-1 alpha-2 chính thức
+CIA World Factbook, Phụ lục D – Danh sách tham khảo chéo các mã dữ liệu quốc gia (phạm vi công cộng)
+Mã quốc gia trong ISO 3166 (có cả mã đã xóa)
+Lịch sử thay đổi ISO 3166-1
+
+
+== Tham khảo ==

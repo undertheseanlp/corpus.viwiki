@@ -1,0 +1,84 @@
+Windows Live là một thương hiệu bao gồm một nhóm các dịch vụ và sản phẩm phần mềm từ Microsoft. Đa số các dịch vụ này là các ứng dụng web, có thể truy cập từ một trình duyệt web, nhưng cũng có những ứng dụng đòi hỏi phải được cài đặt. Có ba nhóm dịch vụ cơ bản: những trải nghiệm nhiều thông tin, kết nối và được bảo vệ.
+Windows Live được công bố vào 1 tháng 11 năm 2005. Vài thuộc tính của Windows Live được đặt thương hiệu khác và được tăng cường từ nhóm các dịch vụ và sản phẩm MSN của Microsoft. Tuy nhiên, MSN vẫn tồn tại song song với Windows Live như một phương tiện để gửi nội dung được lập trình sẵn (trái ngược với nội dung và truyền thông tùy biến). Mặc dù việc đặt nhãn hiệu mới có thể đưa ra sự liên kết kỹ thuật chặt chẽ hơn với hệ điều hành và dịch vụ Microsoft Windows, cả hai vẫn tồn tại độc lập với nhau. Microsoft đã nói Windows Live "là một cách để mở rộng trải nghiệm của người dùng Windows". Tuy nhiên, một vài trình duyệt dựa trên ứng dụng Windows Live nằm ngoài Windows, và Windows cũng không kèm theo ứng dụng Windows Live.
+Vài dịch vụ và chương trình Windows Live đã phát hành bao gồm bộ máy tìm kiếm Live Search, chương trình tin nhắn nhanh Windows Live Messenger, dịch vụ webmail Windows Live Hotmail, dịch vụ bảo mật máy tính Windows Live OneCare, và dịch vụ mạng xã hội Windows Live Spaces.
+Ngoài Windows Live, chủ yếu nhắm tới người dùng cá nhân, có những thuộc tính Web từ Microsoft cũng được gán nhãn "Live": Microsoft Office Live dành cho doanh nghiệp nhỏ, hệ thống chơi game nhiều người chơi và truyền tải nội dung Xbox Live dành cho Xbox và Xbox 360, và dịch vụ game nhiều người chơi Games for Windows - LIVE dành cho Microsoft Windows.
+
+
+== Các dịch vụ Windows Live ==
+
+
+=== Live Search ===
+
+Vào ngày 21 tháng 3 năm 2007, Microsoft đã quyết định tách rời sự phát triển Live Search ra khỏi gia đình Windows Live, tạo thành một phần của Live Search and Ad Platform. Live Search (trước đây là Windows Live Search và MSN Search) sẽ hợp nhất với Microsoft adCenter trong một nhóm mới lãnh đạo bởi Satya Nadella, một phần của chi nhánh Platform and Systems của Microsoft.
+Ngoài các trang web tìm kiếm, những dịch vụ khác của Live Search bao gồm:
+Live Search Academic
+Live Search Books
+Live Search Feeds
+Live Search Images
+Live Search Local
+Live Search Macros
+Live Search Maps
+Live Search News
+Live Product Search
+Live QnA
+Live Search Video
+Thêm vào đó Live Product Upload và Live Search Books Publisher Program cung cấp những dịch vụ tải lên nội dung đến người bán và người phát hành để thêm nội dung vào Live Search.
+
+
+=== Dịch vụ Windows Live Mobile ===
+
+
+=== API cho các nhà phát triển ===
+
+
+== Microsoft Live Labs ==
+Microsoft Live Labs là một nhóm giữa MSN và Microsoft Research có nhiệm vụ tập trung vào nghiên cứu ứng dụng dành cho sản phẩm và dịch vụ Internet ở Microsoft.
+Live Labs dẫn đầu bởi Ts. Gary William Flake, người trước khi gia nhập Microsoft là nhà khoa học trưởng ở Yahoo! Research Lab và là cựu trưởng nhóm nghiên cứu ở cổng điện tử Web phân nhánh Overture Services.
+Tiêu điểm của Live Labs là nghiên cứu ứng dụng và phần mềm thực tiễn trong lĩnh vực khoa học máy tính bao gồm xử lý ngôn ngữ tự nhiên, học máy, truy xuất thông tin, khai thác dữ liệu, ngôn ngữ máy tính, tính toán phân bố, v.v...
+
+
+== Theme ==
+
+
+=== Blue Vapor ===
+Đa số các ứng dụng và dịch vụ Windows Live sử dụng theme (phối màu) được biết đến như Blue Vapor (Hơi nước xanh) hay Flair.
+
+
+=== Windows Live 2.0 ===
+Với sự phát hành ảnh beta mới nhất của Windows Live Messenger 8.5, Mail, Writer và Photo Gallery, được biết đến với tên Windows Live Wave 2.0 Suite ("Wave" dùng để chỉ một nhóm hoặc một đợt sản phẩm phát hành), một theme mới cũng được phát hành để cho phép hiệu ứng trong suốt Aero trong Windows Vista. Nó cũng được thông báo là có thanh tiêu đề chuẩn được biết đến như Flair dành cho Windows Live sẽ được đổi thành một cái khác mới hơn. Sau đây là ví dụ:
+
+
+== Windows Live Butterfly ==
+Để công nhận sự đóng góp của các thử nghiệm viên beta, Microsoft đã khởi động một chương trình phần thưởng Windows Live Butterfly(trước đây là MSN Butterfly).
+Những 'con bướm' tương lai được chọn bởi những đội ngũ sản phẩm Windows Live (nội bộ Microsoft) và được đề cử cho một nhiệm kỳ tối thiểu một năm, sau đó họ phải được chọn lại bởi những đội ngũ sản phẩm nội bộ nếu không thành viên trong nhóm sẽ bị loại. Những 'con bướm' được cung cấp những phần mềm mới của Microsoft để kiểm thử trước khi bản beta được phát hành rộng rãi và được liên hệ trực tiếp với các trưởng chương trình của phần mềm Windows Live.
+Những Butterflies được chọn đã được tổ chức lại cho năm 2007.
+
+
+== Xem thêm ==
+officelive
+Xbox Live
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Bùi Thế Tâm. Hướng dẫn dùng Skydrive - ổ đĩa ảo miễn phí của Microsoft (tiếng Việt)
+Hướng dẫn sử dụng windows live (tiếng Việt)
+
+
+=== Windows Live ===
+leuxua.com tiếng việt
+Live.com Homepage
+Windows Live Betas
+LiveSide: Windows Live News
+Windows Live Blog on Windows Live Spaces
+
+
+=== Microsoft Live Labs ===
+Microsoft Live Labs
+
+
+=== Media ===
+BBC article
+CNET reviews

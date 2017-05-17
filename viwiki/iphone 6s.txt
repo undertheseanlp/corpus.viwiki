@@ -1,0 +1,30 @@
+iPhone 6S và iPhone 6S Plus (hay còn có cách viết khác là iPhone 6s và iPhone 6s Plus) là những chiếc smartphone được thiết kế bởi Apple Inc.. Chiếc iPhone 6S và iPhone 6S Plus là hai điện thoại chính đang được bán của dòng điện thoại iPhone và được giới thiệu vào 9 tháng 9 năm 2015, tại Bill Graham Civic Auditorium ở San Francisco bởi Giám đốc điều hành Tim Cook. Chiếc iPhone 6S và iPhone 6S Plus là những sản phẩm kế tiếp của iPhone 6 và iPhone 6 Plus, được ra mắt vào 2014.
+Hai chiếc iPhone 6S và iPhone 6S Plus không thay đổi gì nhiều về thiết kế so với người tiền nhiệm. Tuy nhiên, nó được trang bị nhiều tính năng mới bao gồm công nghệ cảm ứng lực mới 3D Touch, camera trước và sau đều được nâng cấp, bộ vi xử lý nhanh hơn; khung gầm mới được sử dụng vật liệu nhôm Series 7000, máy sẽ nhẹ và chịu lực uốn cong tốt hơn; cảm ứng vân tay Touch ID thế hệ thứ hai; bộ kết nối LTE và Wi-Fi tiên tiến hơn và màu hồng vàng bên cạnh các màu xám, bạc và vàng xuất hiện trên các thế hệ trước. Các thiết bị đều đã được cài đặt sẵn hệ điều hành iOS 9.
+iPhone 6S và 6S Plus đã đat kỷ lục mới về doanh thu trong hai ngày cuối tuần đầu tiên, với 13 triệu chiếc được bán, bỏ xa 10 triệu mẫu được bán của iPhone 6 và 6 Plus năm trước đó.
+
+
+== Lịch sử ==
+Trước khi chính thức được giới thiệu, hình ảnh của chiếc iPhone 6S đã bị rò rỉ trên mạng. Mặc dù không chính thức, những thông tin rò rỉ ra đã xác nhận nhiều tính năng mới của điện thoại. Những tính năng bị rò rỉ ra bao gồm hình ảnh của chiếc iPhone 6S loại 16 gigabyte, chip vi xử lý mới, ốp màu hồng vàng mới,
+Hai chiếc iPhone 6S và iPhone 6S Plus của Apple được chính thức giới thiệu vào ngày 9 tháng 9 năm 2015, trong một sự kiện mang tên là "Hey Siri, give us a hint." ở Bill Graham Civic Auditorium ở San Francisco. Khách hàng đã có thể đặt trước iPhone 6S và iPhone 6S Plus vào ngày 12 tháng 9 năm 2015. Cả hai thiết bị có mặt trong các store vào ngày 25 tháng 9 năm 2015 với mức giá khởi điểm là $199 và $299 cùng với một bản hợp đồng hai năm, $649 và $749 không có hợp đồng.
+
+
+== Thông số kỹ thuật ==
+Về phần thiết kế, iPhone 6S không có nhiều điểm khác biệt với iPhone 6, thân máy cấu thành từ loại chất liệu nhôm Series 7000 có khả năng chịu lực hơn gấp nhiều lần vốn được sử dụng bởi những Apple Watch Sport  nhằm nâng cao độ bền và độ cứng. Nó có sẵn trong màu vàng, bạc, xám và màu hồng vàng - xuất hiện lần đầu tại 6S iPhone 6S được trang bị chip vi xử lý A9, CPU mạnh hơn 70% và GPU mạnh hơn 90% so với Apple A8 trên Iphone 6. iPhone 6S được trang bị bộ nhớ RAM 2GB, nhiều hơn bất cứ sản phẩm iPhone tiền nhiệm nào, và củng cố LTE cấp Cao. Cảm ứng vân tay Touch ID cũng được nâng cấp trên phiên bản 6S, với khả năng quét vân tay tiên tiến hơn so với những phiên bản trước.
+Cho dù dung lượng pin bị giảm chút ít, nhưng Apple lại đánh giá pin của iPhone 6S và 6S Plus có tuổi thọ trung bình gần giống những người tiền nhiệm. Bộ vi xử lý A9 được duy trì lõi kép của TSMC và Samsung. Mặc dù có những tin đồn rằng phiên bản Samsung ăn pin nhiều hơn so với phiên bản của TSMC, nhưng nhiều bài test đã chỉ ra răng không có sự khác biệt đáng kể giữa hai loại chip. Cho dù không chính thức được xác thực, iPhone 6S có khả năng chịu nước nhờ những thay đổi về thiết kế bên trong, vòng đệm cao su chạy quanh thân máy và bo mạch chủ. Chi tiết này giúp hạn chế nước từ ngoài chảy vào các linh kiện điện tử bên trong
+Màn hình giữ nguyên thông số so với iPhone 6, màn hình 4.7-inch cùng độ phân giải 750p và màn hình 5.5 inch với độ phân giải 1080p (Plus). iPhone 6S được trạng bị thêm tính năng mới, được biết đến với tên gọi 3D Touch, cảm ứng nhận biết lực nhấn. Apple đưa lên iPhone 6S ba mức nhận biết lực nhấn là yếu, vừa và mạnh, mỗi lực nhấn là một tác vụ, một chức năng khác nhau đối với từng ứng dụng. 3D Touch được kết hợp với Taptic Engine sẽ phản hồi lại người dùng bằng cách rung lên. Mặc dù có nhiều điểm tương tự, tính năng khác biệt hoàn toàn công nghệ Force Touch sử dụng trên những Apple Watch và MacBook, vì nó nhạy hơn Force Touch và cảm ứng nhận được nhiều lực nhấn khác. Vì có những linh cần thiết để thực hiện tính năng 3D Touch, iPhone 6S nặng hơn so với thế hệ trước.
+Camera sau của iPhone 6S được nâng cấp với từ 8-megapixel từ các thế hệ trước lên 12 megapixel, nâng cấp. Camera trước cũng được trang bị với độ phân giải 5-megapixel. Ngoài ra, nó cũng cũng có thể quay video với độ phân giải 4K cũng như 1080p với 60 khung hình trên giây.
+Một trong những cải tiến rõ rệt so với iPhone 6 đó là iPhone 6S và 6S Plus dùng chip flash TLC NAND của SK Hynix sử dụng công nghệ NVMe, cho phép tốc độ đọc tối đa lên tới 1,840 megabytes trên giây.
+
+
+=== Phần mềm ===
+iPhone 6S được cài đặt iOS 9; hệ điều hành mới được trang bị tính năng 3D Touch cho phép sử dụng các thao tác mới, bao gồm Peek (dùng lực ngón tay nhấn nhẹ) vào để xem trước và Pop (nhấn lực mạnh hơn) thì thông tin và các tùy chọn sẽ xuất hiện, và đối với các icon cũng như tất cả ứng dụng đều sẽ hiển thị nội dung theo cách nhấn tương tự. Ứng dụng "Retina Flash" đóng vai trò như đèn flash hỗ trợ khả năng selfie khi chụp ảnh trong môi trường có ánh sáng rất yếu. Tính năng "Live Photos" cho phép chụp ảnh đồng thời quay một video ngắn về đối tượng chụp.
+
+
+== Lịch sử các sản phẩm ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+iPhone 6S / iPhone 6S Plus – trang chính thức

@@ -1,0 +1,52 @@
+Tiếng Lào (tên gốc: ພາສາລາວ; phát âm: phasa lao [pʰaːsaː laːw]) là ngôn ngữ chính thức của Lào.
+Tiếng Lào là một ngôn ngữ thuộc Ngữ chi Thái trong hệ ngôn ngữ Tai-Kadai. Tiếng Lào chịu những ảnh hưởng của tiếng Phạn. Tiếng Lào cũng là ngôn ngữ truyền thống của hoàng gia Lào, truyền đạt tư tưởng Ấn Độ giáo và Phật giáo.
+Theo Điều 89 của Hiến pháp sửa đổi năm 2003 của nước Cộng hòa Dân chủ Nhân dân Lào, bảng chữ cái Lào là bản chính thức cho ngôn ngữ chính thức, và cũng được sử dụng để ghi lại ngôn ngữ dân tộc thiểu số trong cả nước, trong khi những dân tộc có chữ riêng như Hmông vẫn có thể sử dụng chữ của mình. Bộ chữ Lào hiện có mã unicode (The Unicode Standard, Version 9.0, 2016) là dải 0E80–0EFF .
+
+
+== Phân bố ==
+Tiếng Lào có ảnh hưởng ít nhiều đến những ngôn ngữ khác trong vùng đối với các lân bang như tiếng Thái, tiếng Khmer, tiếng Việt. Lào ngữ được coi là một ngôn ngữ hỗn hợp ở bán đảo Đông Nam Á.
+Tiếng Lào có những thanh điệu và phát âm giống tiếng Thái, phần tương đồng lên đến hơn 80%. Vì vậy trong đối thoại giữa người Lào và người Thái Lan có thể hiểu nhau được.
+Tại vùng Đông Bắc Thái Lan hay thường gọi là vùng Isan, dân địa phương và người Lào có thể dễ dàng nói chuyện với nhau. Trong lịch sử phần lớn dân Isan có liên hệ với người Lào, hoặc được coi là người Lào. Nhưng nay vì lý do chính trị ngôn ngữ ở đây được nhà nước Thái Lan gọi chính thức là tiếng Isan, với cỡ 20 triệu người nói. Dẫu vậy một số văn liệu quốc tế vẫn coi vùng phân bố của tiếng Lào là "nước Lào và Đông Bắc Thái Lan với 20-25 triệu người sử dụng".
+Ở Việt Nam, tiếng Lào không được công nhận là ngôn ngữ thiểu số, tuy nhiên tiếng Lào được nói tại một số vùng núi gần biên giới Việt-Lào và người dân ở đó xem tiếng Lào là ngôn ngữ thương mại ở khu vực này.
+
+
+== Phiên âm Latin ==
+
+Phiên âm tiếng Lào ra ký tự Latin, đặc biệt là tên riêng, hiện thiếu nhất quán. Các nỗ lực thống nhất cách phiên âm gần đây đã được đưa ra, trong đó có phiên âm nhắm đến phục vụ cho viễn thông, như cho mạng di động bằng thiết bị chưa hiện được chữ Lào. Trong các văn liệu đã có thì phiên âm mỗi nơi một vẻ tùy theo đã tiếp cận nguồn nào, trong đó một số người nước ngoài đến và tự ghi tiếng Lào theo tiếp xúc của mình.
+Trước đây địa danh đến với thế giới chủ yếu thông qua các bản đồ do người Pháp lập, từ cuối thế kỷ 19 đến những năm 1940. Ban đầu chỉ có người Pháp làm và các địa danh được ghi thuần theo chữ Pháp, như mouang (muang), Louang Prabang (Luang Prabang), Sépon (sông Xê Pôn), Nam Gnouang (Nậm Nhoàng), Nam Hou (Nam Ou, Nậm U),... Về sau có các viên chức người Việt tham gia, đã dùng các dấu kiểu chữ Việt để ghi âm và thanh vốn không có trong tiếng Pháp. Tuy nhiên các tờ bản đồ được các nhóm khác nhau lập vào thời gian khác nhau nên cách ghi không nhất quán, và nhiều tên đã có ở các bản xuất trước đó thường không sửa lại. Vì thế sự lộn xộn dường như tăng thêm, như "Xê Pôn" còn được ghi là Tchepone, Sepone, Sepon, Sépon, Xépôn, Xêpôn,...
+
+Khoảng năm 1960 Ủy ban Quốc gia Lào về Địa danh (Lao Commission Nationale de Toponymie) đưa ra quy cách phiên âm, một bản mang dấu ấn tiếng Pháp  và tồn tại đến nay, như trong làm bản đồ. Năm 1966 những cơ quan Ban địa danh Hoa Kỳ (BGN, United States Board on Geographic Names) và Ủy ban thường trực về Địa danh cho sử dụng chính thức ở nước Anh (PCGN, Permanent Committee on Geographical Names for British Official Use) theo và dùng vào lập bản đồ, trong đó có bản đồ quân sự, và tên thường tham chiếu là "BGN/PCGN 1966 System" .
+Hiệp hội Thư viện Mỹ (ALA, American Library Association) và Thư viện Quốc hội Hoa Kỳ (LC, Library of Congress) dựa theo chuẩn Latin hóa ALA-LC đã lập ra phiên âm Latin cho tiếng Lào . Bản này thể hiện cách phiên âm của người nói tiếng Anh, bỏ qua các dấu ấn Pháp trong BGN/PCGN, song không phải là bản được chấp nhận rộng rãi.
+Cơ quan Liên Hiệp Quốc là Nhóm chuyên viên về Địa danh Liên Hiệp Quốc hiện đề xuất sử dụng BGN/PCGN 1966 System cho tiếng Lào .
+
+
+== Phiên âm sang tiếng Việt ==
+Hiện nay tiếng Lào được 2 'trường phái' khác nhau phiên âm, một là do các Hiệp hội Văn hóa Hữu nghị Lào - Việt thực hiện thì họ phiên sang âm tiếng Việt vì tiếng Việt gần như có khá đầy đủ các bộ âm chuẩn mà không thể phát âm sai được.
+Một trường phái khác là phiên âm sang hệ ngữ Latinh nhưng rất lung tung, cũng giống như tiếng Thái khi phiên âm sang hệ ngữ Latinh thì người ta dễ nhầm lẫn giữa các Phụ âm như 'p' có thể bị đọc thành 'f' mà cũng có thể bị đọc thành 'ph', 't' thì cũng có thể bị đọc thành 't' mà cũng có thể thành 'th'... ngoài ra sự hợp ngữ giữa các Nguyên âm cũng bị phiên rất lung tung nên khó mà đọc chuẩn xác nếu căn cứ theo phiên âm Quốc tế.
+Vì vậy, phiên âm theo tiếng Việt là cách phiên âm chuẩn nhất đối với tiếng Lào và tiếng Thái nói chung (mặc dù có nhiều bộ âm của Lào và Thái không thể phiên âm sang tiếng Việt được nhưng vẫn đạt được khoảng 85-90% so với tiếng Lào và khoảng 70-75% so với tiếng Thái thì dù sao vẫn tin cậy hơn là phiên sang các Hệ ngữ Quốc tế khác).
+Chính vì vậy, nếu học tiếng Lào và tiếng Thái qua các Ngôn ngữ khác thì sẽ cực kỳ khó khăn bởi các Ngôn ngữ khác không có thanh điệu và âm ngữ của các nước khác thường bị biến đổi khó phù hợp với các Quy tắc của tiếng Thái và tiếng Lào.
+
+
+== Phiên âm trong Wikipedia ==
+Trong Wikipedia, đặc biệt là vi-Wikipedia, thì viết tên riêng tiếng Lào không thống nhất, do mỗi biên tập viên có cách nhìn nhận khác nhau và dựa vào nguồn khác nhau. Nó dẫn đến một lượng lớn tên không thể tìm thấy trong các văn liệu tiếng Việt thông thường, và/hoặc trong văn liệu chữ Latin có tính chính thức xuất bản ở Lào.
+Ví dụ địa danh có tên "Hin Bun" ở tỉnh Khăm Muộn, theo "BGN/PCGN 1966 System", các báo tiếng Anh ở Lào, và một số bản đồ xuất bản ở Việt Nam (ví dụ bản địa hình), thì được viết là Hinboun và Khammouan. Trang "Đập Theun Hinboun" dựa theo tư liệu có gốc gác là tài liệu của dự án mà sau này là Công ty Điện lực Theun Hinboun quản lý nên đã viết đúng . Tuy nhiên tên trang "huyện Hin Bun" viết là Hinboon, và "tỉnh Khăm Muộn" là Khammuane, là cách viết không phải là chính thức ở Lào hay Việt Nam.
+
+
+== Chỉ dẫn ==
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Bảng chữ cái Lào
+Chữ Lào Latin hóa
+Địa lý Lào
+Danh sách ngôn ngữ
+Danh sách các nước theo ngôn ngữ nói
+
+
+== Liên kết ngoài ==
+
+Font tiếng Lào chuẩn Unicode dùng cho máy tính với hệ điều hành Windows. (tự do)
+Tiếng Lào Báo Ảnh Việt Nam

@@ -1,0 +1,85 @@
+Sai số là giá trị chênh lệch giữa giá trị đo được hoặc tính được và giá trị thực hay giá trị chính xác của một đại lượng nào đó.
+Khi đo đạc nhiều lần một đại lượng nào đó, thông thường dù cẩn thận đến mấy, vẫn thấy các kết quả giữa các lần đo được hầu như đều khác nhau. Điều đó chứng tỏ rằng trong kết quả đo được luôn luôn có sai số và kết quả chúng ta nhận được chỉ là giá trị gần đúng của nó mà thôi.
+Ta ký hiệu:
+∆i = X - Li gọi là sai số thực
+Vi = x - Li gọi là sai số gần đúng
+Trong đó:
+X là trị thực
+x là trị gần đúng nhất (trị xác suất)
+Li là trị đo lần thứ i
+Do điều kiện đo khác nhau, dẫn đến ∆i và Vi cũng khác nhau giữa các lần đo.
+
+
+== Nguyên nhân ==
+Có nhiều nguyên nhân gây nên sai số, nhưng chủ yếu là các nguyên nhân sau:
+Do máy móc và dụng cụ đo thiếu chính xác, thiếu tinh vi
+Do người đo với trình độ tay nghề chưa cao, khả năng các giác quan bị hạn chế
+Do điều kiện ngoại cảnh bên ngoài tác động tới, như thời tiết thay đổi, mưa gió, nóng lạnh bất thường,…
+
+
+== Phân loại ==
+Theo quy luật xuất hiện của sai số, người ta chia sai số thành các loại sau:
+
+
+=== Sai số hệ thống ===
+Giả sử dùng thước 20m để đo một đoạn thẳng nào đó, nhưng chiều dài thật của thước lúc đó lại là 20,001m. Như vậy trong kết quả một lần kéo thước có chứa 1mm, sai số này được gọi là sai số hệ thống.
+Sai số hệ thóng có 2 loại: Sai số hệ thống cố định và sai số hệ thống thay đổi.
+Sai số hệ thống là những sai số thường có trị số và dấu không đổi, được lặp đi, lặp lại trong tất cả các lần đo.
+Nguyên nhân gây ra sai số hệ thống do máy móc, dụng cụ chế tạo chưa chuẩn, đôi khi do tật của người đo. Sai số này xuất hiện có quy luật,dễ tính toán và hiệu chỉnh.
+
+
+=== Sai số ngẫu nhiên ===
+Giả sử thước có vạch chia nhỏ nhất đến 1mm, thì sai số đọc thước ở phần ước lượng nhỏ hơn mm là sai số ngẫu nhiên.
+Sai số ngẫu nhiên là những sai số mà trị số và đặc điểm ảnh hưởng của nó đến mỗi kết quả đo đạc không rõ ràng, khi thì xuất hiện thế này, khi thì xuất hiện thế kia, ta không thể biết trước trị số và dấu của nó.
+Vì vậy sai số ngẫu nhiên xuất hiện ngoài ý muốn chủ quan của con người, chủ yếu do điều kiện bên ngoài, ta khó khắc phục mà chỉ có thể tìm cách hạn chế ảnh hưởng của nó.
+Sai số ngẫu nhiên có các đặc tính sau. Sai số ngẫu nhiên có trị số và dấu xuất hiện không theo quy luật, nhưng trong cùng một điều kiện đo nhất định, sai số ngẫu nhiên sẽ xuất hiện theo những quy luật.
+Đặc tính giới hạn: Trong những điều kiện đo đạc cụ thể, trị tuyệt đối của sai số ngẫu nhiên không vượt quá một giới hạn nhất định.
+Đặc tính tập trung: Sai số ngẫu nhiên có trị tuyệt đối càng nhỏ, thì có khả năng xuất hiện càng nhiều.
+Đặc tính đối xứng: Sai số ngẫu nhiên dương và âm với trị số tuyệt đối bé có số lần xuất hiện gần bằng nhau.
+Đặc tính bù trừ: Khi số lần đo tiến tới vô cùng,thì số trung bình cộng của các sai số đo đạc ngẫu nhiên của cùng một đại lượng sẽ tiến tới không. Tức là:
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        
+          
+            
+              
+                ∑
+                
+                  i
+                  =
+                  1
+                
+                
+                  n
+                
+              
+              
+                Δ
+                
+                  i
+                
+              
+            
+            n
+          
+        
+        =
+        0
+        
+      
+    
+    {\displaystyle \lim _{n\rightarrow \infty }{\frac {\sum _{i=1}^{n}\Delta _{i}}{n}}=0\,}
+  
+
+
+== Tham khảo ==

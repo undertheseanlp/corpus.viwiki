@@ -1,0 +1,4 @@
+Âm vị là phân đoạn nhỏ nhất của âm thanh dùng để cấu tạo nên sự phân biệt giữa các cách phát âm. Do đó, âm vị là một nhóm các âm thanh với sự khác biệt tương đối nhỏ cùng đảm nhận một chức năng ý nghĩa tùy theo người nói và phương ngữ. Ví dụ, mặc dù hầu hết người bản ngữ không nhận ra, trong đa số các ngôn ngữ, k trong mỗi từ được phát âm thực sự khác biệt nhau. Ví dụ k trong kit được ký âm [kʰ] và k trong skill được ký âm /k/. Trong một số ngôn ngữ, một ký tự đại diện cho một âm vị, nhưng trong một số ngôn ngữ khác như tiếng Anh, sự tương ứng này ít khi chính xác. Ví dụ trong tiếng Anh ký tự sh đại diện cho /ʃ/, trong khi k và c đều đại diện cho âm /k/ (trong kit và cat).
+
+
+== Chú thích ==

@@ -1,0 +1,40 @@
+Năm thường được tính là khoảng thời gian Trái Đất quay xong một vòng quanh Mặt Trời. Đối với một người quan sát trên Trái Đất, điều này tương ứng với khoảng thời gian Mặt Trời hoàn thành một vòng quay dọc theo cung hoàng đạo.
+Trong thiên văn học, năm Julius là một đơn vị thời gian, định nghĩa là 365,25 ngày x 86.400 giây/ngày của hệ SI (không có giây nhuận).
+Do độ nghiêng trục của Trái Đất, quá trình một năm chứng kiến sự thay đổi tuần tự của các mùa, được đánh dấu bởi những thay đổi về thời tiết, các giờ ban ngày, thảm thực vật và khả năng sinh sản của chúng. Ở vùng ôn đới và ở xa địa cực, thường có bốn mùa được công nhận: mùa xuân, mùa hè, mùa thu và mùa đông, về mặt thiên văn được đánh dấu bởi các điểm xuân phân, hạ chí, thu phân và đông chí của đường đi của Mặt Trời, mặc dù các mùa khí hậu có độ trễ so với các dấu hiệu thiên văn trên. Trong một số khu vực nhiệt đới và cận nhiệt đới chỉ có 2 mùa: mùa mưa với mùa khô.
+Một năm dương lịch là một khoảng thời gian xấp xỉ của chu kỳ quỹ đạo của Trái Đất trong một lịch cụ thể. Một năm trong lịch Gregory (cũng như trong lịch Julius) có 365 ngày (năm thường) hoặc 366 ngày (năm nhuận). Chiều dài trung bình của năm trong lịch Gregory (hiện đại) là 365,2425 ngày (có tính đến các quy tắc năm nhuận cho 1 thiên niên kỷ).
+Từ "năm" cũng được sử dụng một cách lỏng lẻo cho các khoảng thời gian liên quan nhưng không giống hệt với năm thiên văn hoặc năm dương lịch, chẳng hạn như các năm theo mùa, năm tài chính hoặc năm học, v.v... Theo nghĩa mở rộng, năm có thể có nghĩa là chu kỳ quỹ đạo của bất cứ hành tinh nào: ví dụ, một "năm sao Hỏa" hoặc "năm sao Kim" là thời gian mà sao Hỏa hoặc sao Kim đi đủ một vòng quỹ đạo riêng. Thuật ngữ này cũng được áp dụng theo nghĩa rộng hơn cho bất kỳ thời gian dài hoặc chu kỳ nào, chẳng hạn như "Great Year".
+
+
+== Năm theo mùa ==
+Một năm theo mùa là thời gian giữa tái phát liên tiếp của một sự kiện theo mùa như lũ của một con sông, sự di cư của một loài chim, sự ra hoa của một loài thực vật, sương giá đầu tiên, hoặc các trò chơi đầu tiên dự kiến của một môn thể thao nào đó. Tất cả những sự kiện này có thể có sự khác biệt lớn trong hơn một tháng từ năm này sang năm khác.
+
+
+== Năm dương lịch ==
+
+
+== Năm thiên văn ==
+
+
+== Ký hiệu ISO ==
+Trong phụ lục thông tin, các tiêu chuẩn quốc tế ISO 80000-3 đề xuất chữ viết tắt a (tiếng Latin: annus) để đại diện cho một năm hoặc 365 hoặc 366 ngày. Trong tiếng Anh sử dụng các từ viết tắt y, yr (year) cho "năm" hoặc ya (year ago) cho "năm trước đây".
+Các bội số của năm trong biểu diễn thời gian quá khứ hoặc tuổi, thường ký hiệu là:
+Ka tức Kilo annum;
+Ma tức Mega annum;
+Ga tức Giga annum.
+Kèm theo, nhất là trong văn liệu tiếng Anh, có thể có chữ viết tắt BP: before present có nghĩa là "trước đây", "trước ngày nay".
+
+
+== Các loại năm khác ==
+
+
+=== Năm tài chính ===
+Một năm tài chính là một khoảng thời gian 12 tháng sử dụng cho tính toán báo cáo tài chính hàng năm của các doanh nghiệp và các tổ chức khác. Ở nhiều khu vực pháp lý, các quy định về kế toán yêu cầu phải lập báo cáo như vậy một lần mỗi mười hai tháng, nhưng không yêu cầu mười hai tháng tạo thành một năm dương lịch.
+Ví dụ, ở Canada và Ấn Độ năm tài chính bắt đầu từ ngày 1 tháng 4; ở Anh năm tài chính bắt đầu từ 1 tháng 4 cho mục đích báo cáo thuế công ty và báo cáo tài chính của chính phủ, nhưng bắt đầu từ ngày 6 tháng 4 cho các mục đích đánh thuế cá nhân và thanh toán các lợi ích của Nhà nước; ở Úc năm tài chính bắt đầu từ ngày 1 tháng 7; trong khi tại Hoa Kỳ năm tài chính của chính phủ liên bang bắt đầu từ ngày 1 tháng 10.
+
+
+== Sách tham khảo ==
+Fraser, Julius Thomas (1987). Time, the Familiar Stranger . Amherst: Nhà in Đại học Massachusetts. ISBN 0870235761. OCLC 15790499.  Bảo trì CS1: Văn bản dư (link)
+Whitrow, Gerald James (2003). What is Time?. Oxford: Nhà in Đại học Oxford. ISBN 0198607814. OCLC 265440481. 
+
+
+== Tham khảo ==

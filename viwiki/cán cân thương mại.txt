@@ -1,0 +1,34 @@
+Cán cân thương mại là một mục trong tài khoản vãng lai của cán cân thanh toán quốc tế. Cán cân thương mại ghi lại những thay đổi trong xuất khẩu và nhập khẩu của một quốc gia trong một khoảng thời gian nhất định (quý hoặc năm) cũng như mức chênh lệch giữa chúng (xuất khẩu trừ đi nhập khẩu). Khi mức chênh lệch là lớn hơn 0, thì cán cân thương mại có thặng dư. Ngược lại, khi mức chênh lệch nhỏ hơn 0, thì cán cân thương mại có thâm hụt. Khi mức chênh lệch đúng bằng 0, cán cân thương mại ở trạng thái cân bằng.
+Cán cân thương mại còn được gọi là xuất khẩu ròng hoặc thặng dư thương mại. Khi cán cân thương mại có thặng dư, xuất khẩu ròng/thặng dư thương mại mang giá trị dương. Khi cán cân thương mại có thâm hụt, xuất khẩu ròng/thặng dư thương mại mang giá trị âm. Lúc này còn có thể gọi là thâm hụt thương mại. Tuy nhiên, cần lưu ý là các khái niệm xuất khẩu, nhập khẩu, xuất khẩu ròng, thặng dư/thâm hụt thương mại trong lý luận thương mại quốc tế rộng hơn các trong cách xây dựng bảng biểu cán cân thanh toán quốc tế bởi lẽ chúng bao gồm cả hàng hóa lẫn dịch vụ.
+
+
+== Các yếu tố ảnh hưởng đến cán cân thương mại ==
+Nhập khẩu: có xu hướng tăng khi GDP tăng và thậm chí nó còn tăng nhanh hơn. Sự gia tăng của nhập khẩu khi GDP tăng phụ thuộc xu hướng nhập khẩu biên (MPZ). MPZ là phần của GDP có thêm mà người dân muốn chi cho nhập khẩu. Ví dụ, MPZ bằng 0,2 nghĩa là cứ 1 đồng GDP có thêm thì người dân có xu hướng dùng 0,2 đồng cho nhập khẩu. Ngoài ra, nhập khẩu phụ thuộc giá cả tương đối giữa hàng hóa sản xuất trong nước và hàng hóa sản xuất tại nước ngoài. Nếu giá cả trong nước tăng tương đối so với giá thị trường quốc tế thì nhập khẩu sẽ tăng lên và ngược lại. Ví dụ: nếu giá xa đạp sản xuất tại Việt Nam tăng tương đối so với giá xe đạp Nhật Bản thì người dân có xu hướng tiêu thụ nhiều xe đạp Nhật Bản hơn dẫn đến nhập khẩu mặt hàng này cũng tăng.
+Xuất khẩu: chủ yếu phụ thuộc vào những gì đang diễn biến tại các quốc gia khác vì xuất khẩu của nước này chính là nhập khẩu của nước khác. Do vậy nó chủ yếu phụ thuộc vào sản lượng và thu nhập của các quốc gia bạn hàng. Chính vì thế trong các mô hình kinh tế người ta thường coi xuất khẩu là yếu tố tự định.
+Tỷ giá hối đoái: là nhân tố rất quan trọng đối với các quốc gia vì nó ảnh hưởng đến giá tương đối giữa hàng hóa sản xuất trong nước với hàng hóa trên thị trường quốc tế. Khi tỷ giá của đồng tiền của một quốc gia tăng lên thì giá cả của hàng hóa nhập khẩu sẽ trở nên rẻ hơn trong khi giá hàng xuất khẩu lại trở nên đắt đỏ hơn đối với người nước ngoài. Vì thế việc tỷ giá đồng nội tệ tăng lên sẽ gây bất lợi cho xuất khẩu và thuận lợi cho nhập khẩu dẫn đến kết quả là xuất khẩu ròng giảm. Ngược lại, khi tỷ giá đồng nội tệ giảm xuống, xuất khẩu sẽ có lợi thế trong khi nhập khẩu gặp bất lợi và xuất khẩu ròng tăng lên. Ví dụ, một bộ ấm chén sứ Hải Dương có giá 115.000 VND và một bộ ấm chén tương đương của Trung Quốc có giá 33 CNY (Nhân dân tệ). Với tỷ giá hối đoái 3400 VND = 1 CNY thì bộ ấm chén Trung Quốc sẽ được bán ở mức giá 112.200 VND trong khi bộ ấm chén tương đương của Việt Nam là 115.000 VND. Trong trường hợp này ấm chén nhập khẩu từ Trung Quốc có lợi thế cạnh tranh hơn. Nếu VND mất giá và tỷ giá hối đoái thay đổi thành 3600 VND = 1 CNY thì lúc này bộ ấm chén Trung Quốc sẽ được bán với giá 118.800 VND và kém lợi thế cạnh tranh hơn so với ấm chén sản xuất tại Việt Nam.
+
+
+== Tác động của cán cân thương mại đến GDP ==
+Đối với một nền kinh tế mở, cán cân thương mại có hai tác động quan trọng: xuất khẩu ròng bổ sung vào tổng cầu (AD) của nền kinh tế; số nhân đầu tư tư nhân và số nhân chi tiêu chính phủ khác đi do một phần chi tiêu bị "rò rỉ" qua thương mại quốc tế.
+
+
+=== Xuất khẩu ròng và GDP cân bằng ===
+
+Bảng dưới đây trình bày một nền kinh tế với các bộ phận cấu thành ban đầu như một nền kinh tế đóng, sau đó bổ sung xuất khẩu, nhập khẩu cho nền kinh tế mở. Cột 1 là mức GDP ban đầu trong nền kinh tế đóng. Cột 2 là cầu trong nước bao gồm tổng tiêu dùng (C), đầu tư (I) và mua hàng hóa, dịch vụ của chính phủ (G). Cột 3 là xuất khẩu và vì xuất khẩu phụ thuộc tình hình kinh tế của các nước bạn hàng nên giả định nó không thay đổi. Cột 4 là nhập khẩu, nhập khẩu chủ yếu phụ thuộc GDP nên giả định nó luôn bằng 10% GDP. Giá trị xuất khẩu ròng tại cột 5 bằng xuất khẩu trừ đi nhập khẩu, nó mang giá trị dương nếu xuất khẩu lớn hơn nhập khẩu và ngược lại, sẽ mang giá trị âm. Sau khi cộng giá trị đóng góp của xuất khẩu ròng vào cầu nội địa để tạo thành tổng chi tiêu và chính là tổng cầu ta được giá trị ghi tại cột 6. Nền kinh tế mở đạt mức cân bằng khi tổng chi tiêu bằng GDP nghĩa là đường tổng chi tiêu cắt đường phân giác OO'(ứng với mức GDP ban đầu là 35 tỷ USD). Đó chính là điểm E trên đồ thị bên phải. Ở điểm này cầu nội địa chỉ có 31,5 tỷ USD nhưng cầu về xuất khẩu ròng (khoảng cách giữa đường C+G+I+X và đường C+G+I) là 3,5 nên tổng chi tiêu là 35 tỷ USD và đúng bằng GDP. Như vậy nền kinh tế mở có thể đạt mức sản lượng cân bằng ở mức xuất khẩu ròng khác 0. Tại điểm có mức xuất khẩu ròng bằng 0 (đường C+G+I cắt đường C+G+I+X), tổng cầu trong nước bằng với tổng cầu và đều bằng 63 tỷ USD. Về phía bên trái điểm này, cầu xuất khẩu ròng luôn dương, tổng cầu nội địa nhỏ hơn tổng chi tiêu và ở bên phải, cầu xuất khẩu ròng luôn âm, tổng cầu nội địa lớn hơn tổng chi tiêu.
+
+
+=== Số nhân trong nền kinh tế mở ===
+Trong đồ thị trên, độ dốc của đường tổng chi tiêu C+I+G+X nhỏ hơn độ dốc của đường cầu nội địa C+G+I, điều đó là do sự "rò rỉ" qua nhập khẩu. Giả sử nền kinh tế có xu hướng tiêu dùng cận biên MPC là 0,75 thì khi GDP tăng 100 USD, chi cho tiêu dùng tăng 75 USD. Nhưng cũng theo giả định trong ví dụ này, xu hướng nhập khẩu biên MPZ là 0,10 (nhập khẩu luôn bằng 10% GDP) nên chi tiêu cho nhập khẩu cũng tăng 10 USD. Do đó chi tiêu cho hàng hóa sản xuất trong nước chỉ còn tăng 65 USD mà thôi. Chính vì thế độ dốc của đường chi tiêu giảm từ 0,75 xuống còn có 0,65. Tác động của "rò rỉ" qua nhập khẩu có tác động mạnh đến số nhân của nền kinh tế. Trong nền kinh tế đóng, số nhân là 1/(1-MPC) còn trong nền kinh tế mở, do sự rò rỉ qua nhập khẩu, số nhân chỉ còn 1/(1-(MPC-MPZ)). Khi không có ngoại thương, với MPC bằng 0,75 thì số nhân là 1/(1-0,75) = 4; khi có ngoại thương số nhân chỉ còn 1/(1-(0,75-0,10)) = 2.857. Những nền kinh tế nhỏ hầu hết đều rất mở, do vậy tác động của nhập khẩu đến số nhân của nền kinh tế đặc biệt quan trọng. Từ ví dụ trên có thể dễ dàng suy ra nếu xu hướng nhập khẩu biên là 0,75 thì số nhân là 1 nghĩa là hiệu ứng số nhân đã bị triệt tiêu hoàn toàn bởi rò rỉ qua nhập khẩu.
+
+
+== Xem thêm ==
+Xuất khẩu
+Nhập khẩu
+Tài khoản vãng lai
+Nhập siêu
+
+
+== Tham khảo ==
+
+Samuelson Paul A.; Kinh tế học; Nhà xuất bản Tài chính, 2007
+Begg David, Fischer Stanley, Dornbusch Rudiger; Kinh tế học, Nhà xuất bản Thống kê, 2007

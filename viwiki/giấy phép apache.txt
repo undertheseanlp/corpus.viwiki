@@ -1,0 +1,32 @@
+Giấy phép Apache  /əˈpætʃi/ là một giấy phép phần mềm tự do của Quỹ Phần mềm Apache (Apache Software Foundation - ASF). Giấy phép Apache bắt buộc phải có thông báo bản quyền và lời phủ nhận. Tương tự như các giấy phép phần mềm tự do khác, Giấy phép Apache trao cho người dùng phần mềm quyền tự do sử dụng phần mềm với bất kỳ mục đích nào, phân phối, chỉnh sửa, và phân phối bản có sửa đổi của phần mềm, theo các điều khoản của giấy phép, mà không lo lắng tới phí bản quyền.
+Tất cả các phần mềm do ASF hoặc các dự án và vật thể của ASF đều được cấp phép theo các điều khoản của Giấy phép Apache. Một số phần mềm không phải của ASF cũng được cấp phép theo Giấy phép Apache. Đến tháng 10 năm 2012, đã có 8708 dự án đặt tại SourceForge.net được cấp phép theo các điều khoản của Giấy phép Apache. Trong một bài viết trên blog vào tháng 5 năm 2008 Google nói rằng 25.000 trong tổng số 100.000 dự án đặt trên Google Code đang sử dụng Giấy phép Apache, trong đó có hệ điều hành Android.
+
+
+== Các phiên bản ==
+Giấy phép Apache 1.0 là Giấy phép Apache gốc chỉ áp dụng cho các phiên bản cũ của các gói Apache (như phiên bản 1.2 của máy chủ web).
+Giấy phép Apache 1.1 được ASF thông qua năm 2000: Thay đổi cơ bản từ 1.0 sang 2.0 là 'khoản quảng cáo' (mục 3 giấy phép 1.0); các sản phẩm phái sinh không còn bắt buộc phải kèm lời ghi công trong các thành phần quảng cáo, mà chỉ trong hướng dẫn sử dụng mà thôi.
+ASF bắt đầu sử dụng Giấy phép Apache 2.0 vào tháng 1 năm 2004. Mục tiêu của giấy phép bao gồm giúp các dự án sử dụng giấy phép nhưng không thuộc ASF dễ dàng sử dụng, cải tiến độ tương thích với phần mềm theo GPL, cho phép giấy phép được đính vào phần tham khảo thay vì phải ghi trong mỗi tập tin, làm rõ giấy phép cho từng phần đóng góp, và bắt buộc một giấy phép bằng sáng chế cho các đóng góp có khả năng vi phạm bằng sáng chế của một người đóng góp.
+
+
+== Các điều khoản giấy phép ==
+Giấy phép Apache được xem là loại giấy phép không có nhiều ràng buộc vì nó không bắt buộc phiên bản đã thay đổi của phần mềm phải được phân phối với cùng giấy phép (không giống như các giấy phép copyleft). Trong mỗi tập tin được cấp phép, bất kỳ bản quyền, bằng sáng chế, thương hiệu, và thông báo ghi công phải được giữ nguyên trong các đoạn mã khi phát hành lại (ngoại trừ các thông báo không liên quan đến tác phẩm phái sinh); và, trong tất cả các tập tin có thay đổi, phải thêm vào một thông báo nói rằng tập tin này đã được thay đổi.
+Nếu có một tập tin văn bản NOTICE trong bản phân phối tác phẩm gốc, thì các tác phẩm phái sinh phải kèm theo bản sao của thông báo nào bên trong tập tin NOTICE đi kèm với tác phẩm phái sinh, bên trong mã nguồn hoặc tài liệu hướng dẫn sử dụng, hoặc bên trong một giao diện của tác phẩm phái sinh (tại nơi thường hiển thị thông báo của bên thứ ba).
+Nội dung của tập tin NOTICE không được thay đổi giấy phép, vì chúng chỉ mang tính thông tin thuần túy, và được phép thêm vào thông báo ghi công vào phần bổ sung của tập tin NOTICE, miễn là các thông báo này không bị hiểu thành thay đổi giấy phép. Những sự thay đổi có thể có các thông báo bản quyền phù hợp, và có thể có điều khoản giấy phép khác biệt cho phần sửa đổi.
+Trừ khi có tuyên bố khác, bất kỳ đóng góp nào do người được cấp phép gửi cho người cấp phép sẽ tuân theo các điều khoản của giấy phép mà không kèm điều khoản và điều kiện, nhưng điều này không ảnh hưởng đến các thỏa thuận riêng rẽ giữa hai bên liên quan đến phần đóng góp này.
+
+
+== Tương thích với GPL ==
+Quỹ Phần mềm Apache và Quỹ Phần mềm Tự do cùng đồng ý rằng Giấy phép Apache 2.0 là giấy phép phần mềm tự do, tương thích với phiên bản 3 của Giấy phép Công cộng GNU (GPL), có nghĩa là mã nguồn cấp phép theo GPL phiên bản 3 và Giấy phép Apache 2.0 có thể được trộn lẫn với nhau miễn là phần mềm mới được cấp phép theo giấy phép GPL phiên bản 3.
+Ngoài ra, Quỹ Phần mềm Tự do còn xem tất cả các phiên bản Giấy phép Apache (tính đến năm 2007) là tương thích với giấy phép GPL phiên bản cũ 1 và 2.
+
+
+== Xem thêm ==
+Giấy phép phần mềm tự do
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Giấy phép Apache
+Bản mẫu:Apache

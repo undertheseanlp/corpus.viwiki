@@ -1,0 +1,23 @@
+Máy chủ, máy phục vụ hay hệ thống cuối (tiếng Anh: server computer, end system) là một máy tính được nối mạng, có IP tĩnh, có năng lực xử lý cao và trên máy đó người ta cài đặt các phần mềm để phục vụ cho các máy tính khác (máy trạm) truy cập để yêu cầu cung cấp các dịch vụ và tài nguyên.
+
+
+== Các loại máy chủ ==
+Máy chủ cấp phát địa chỉ IP động
+Máy chủ cơ sở dữ liệu
+Máy chủ điều khiển tên miền
+Máy chủ proxy
+Máy chủ tập tin
+Máy chủ tên
+Máy chủ thư điện tử
+Máy chủ truyền tập tin
+Máy chủ ứng dụng
+Máy chủ web
+
+
+== Xem thêm ==
+Phần mềm phục vụ
+Siêu máy tính
+Mainframe
+
+
+== Tham khảo ==

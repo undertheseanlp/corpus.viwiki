@@ -1,0 +1,20 @@
+Trong mật mã học, một ngành toán học ứng dụng cho công nghệ thông tin, mã hóa là phương pháp để biến thông tin (phim ảnh, văn bản, hình ảnh...) từ định dạng bình thường sang dạng thông tin không thể hiểu được nếu không có phương tiện giải mã.
+Giải mã là phương pháp để đưa từ dạng thông tin đã được mã hóa về dạng thông tin ban đầu, quá trình ngược của mã hóa.
+Một hệ thống mã hóa bao gồm các thành phần:
+thông tin trước khi mã hóa, ký hiệu là P
+thông tin sau khi mã hóa, ký hiệu là C
+chìa khóa, ký hiệu là K
+phương pháp mã hóa/giải mã, ký hiệu là E/D.
+Quá trình mã hóa được tiến hành bằng cách áp dụng hàm toán học E lên thông tin P, vốn được biểu diễn dưới dạng số, để trở thành thông tin đã mã hóa C.
+Quá trình giải mã được tiến hành ngược lại: áp dụng hàm D lên thông tin C để được thông tin đã giải mã P.
+
+
+== Các hệ thống mã hóa ==
+Có hệ thống mã hóa đối xứng và hệ thống mã hóa bất đối xứng. Hai loại mã khóa này khác nhau ở số lượng khóa. Mã hóa đối xứng sử dụng cùng một khóa để mã hóa/giải mã. Trong khi đó, mã hóa bất đối xứng sử dụng hai khóa khác nhau để mã hóa và giải mã thông tin. Mỗi hệ thống mã hóa có ưu nhược điểm riêng. Mã hóa đối xứng xử lý nhanh nhưng độ an toàn không cao. Mã hóa bất đối xứng xử lý chậm hơn, nhưng độ an toàn và tính thuân tiện trong quản lý khóa cao. Trong các ứng dụng mã hóa hiện tại, người ta thường kết hợp các ưu điểm của cả hai loại mã hóa này.
+
+
+== Ứng dụng ==
+Mã hóa có vai trò rất quan trọng, đặc biệt là trong giao dịch điện tử. Nó giúp đảm bảo bí mật, toàn vẹn của thông tin, khi thông tin đó được truyền trên mạng. Mã hóa cũng là nền tảng của kĩ thuật chữ ký điện tử, hệ thống PKI...
+
+
+== Tham khảo ==

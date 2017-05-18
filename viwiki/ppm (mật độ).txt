@@ -1,0 +1,13 @@
+Trong khoa đo lường, ppm là đơn vị đo mật độ thường dành cho các mật độ tương đối thấp.
+Nó thường chỉ tỷ lệ của lượng một chất trong tổng số lượng của hỗn hợp chứa chất đó. Ở đây lượng có thể hiểu là khối lượng, thể tích, số hạt (số mol),... Khi dùng cần chỉ rõ lượng là gì.
+Giá trị của ppm là:
+ppm = 1/1 000 000 = 10-6
+Chữ ppm xuất phát từ tiếng Anh parts per million nghĩa là một phần triệu.
+
+
+== Dẫn chứng ==
+Mật độ tương đối của khí hiếm trong khí quyển có thể đo bằng ppm.
+ppm = 1µl/l = 1 mg/kg
+
+
+== Tham khảo ==

@@ -1,0 +1,21 @@
+Giấy chứng nhận xuất xứ (tiếng Anh: Certificate of Origin, thường viết tắt là C/O) là một tài liệu sử dụng trong thương mại quốc tế nhằm xác định quốc gia xuất xứ của hàng hóa.
+
+
+== Giới hạn về tính xuất xứ ==
+Về mặt lịch sử, đây là một giấy chứng nhận hàng hóa được đưa lên tàu, có xuất xứ từ một quốc gia nào đó. Nhưng tính "xuất xứ" trong một C/O không nghiễm nhiên đồng nghĩa với quốc gia xuất hàng, mà đó phải là quốc gia đã thực sự sản xuất/chế tạo hàng hóa đó. Việc này nảy sinh, khi hàng hóa không được sản xuất từ 100% nguyên liệu của quốc gia xuất hàng, hoặc quá trình chế biến và giá trị gia tăng không xuất phát từ một quốc gia duy nhất.
+Thông thường, nếu hơn 50% giá hàng bán ra xuất phát từ một nước thì nước đó được chấp nhận là quốc gia xuất xứ. Theo nhiều hiệp ước quốc tế khác, các tỉ lệ khác về mức nội hóa cũng được chấp nhận.
+Khi các nước tham gia các hiệp ước thương mại, họ có thể chấp nhận giấy Chứng nhận xuất xứ hàng hóa từ một khối thương mại (ví dụ như EU, Bắc Mỹ), thay vì một quốc gia cụ thể.
+
+
+== Ý nghĩa ==
+Chứng từ C/O có thể không được coi là một chứng từ chính thức, khi nó được chính người xuất khẩu cấp. Thông thường, nước nhập khẩu sẽ yêu cầu nhà nhập khẩu trình chứng nhận xuất xứ do một cơ quan có thẩm quyền của nước xuất khẩu cấp. Trong nhiều trường hợp, việc sử dụng chứng từ chính thức là bắt buộc, ví dụ như đối với vận tải hàng theo Hiệp ước Tự do Thương mại Bắc Mỹ hoặc để nhận được ưu đãi thuế quan từ các nước nhập khẩu về việc nhập hàng sản xuất/chế biến từ các nước kém phát triển tới các nước phát triển (thường được gọi là C/O mẫu A hay GSP form A, viết tắt từ Generalized System of Preferences Form A C/O: C/O form A của Hệ thống ưu đãi phổ cập).
+Chứng nhận xuất xứ đặc biệt quan trọng trong phân loại hàng hóa theo quy định hải quan của nước nhập khẩu và vì vậy sẽ quyết định thuế suất thuế nhập khẩu hàng hóa. C/O cũng quan trọng cho áp dụng hạn ngạch nhập khẩu và thống kê, đặc biệt là với hàng thực phẩm. C/O cũng có thể quan trọng trong các quy định về an toàn thực phẩm.
+Trước khi kết thúc giao địch hợp đồng, nhà xuất khẩu và nhà nhập khẩu nên xác định rõ là có cần C/O không, mẫu C/O nào, nội dung gì.
+Chứng nhận nhập khẩu ưu đãi là một chứng từ xác nhận hàng hóa trong một lô hàng cụ thể có xuất xứ nhất định theo các định nghĩa của một Hiệp ước thương mại tự do song phương hay đa phương nào đó. Chứng nhận này do các cơ quan hải quan của nước nhập khẩu sử dụng để quyết định liệu lô hàng nhập khẩu đó có được hưởng các ưu đãi theo các khu vực thương mại hoặc liên đoàn hải quan đặc biệt như EU hay NAFTA hay trước khi các biện pháp thuế chống phá giá được áp dụng.
+Khái niệm "nước xuất xứ" và "xuất xứ ưu đãi" khác nhau. Liên minh châu Âu thường xác định nước xuất xứ không được ưu đãi thông qua địa điểm nơi có giai đoạn sản xuất lớn diễn ra trong quá trình sản xuất sản phẩm. (Theo thuật ngữ luật: "biến đổi lớn cuối cùng").
+Một sản phẩm có xuất xứ ưu đãi hay không phụ thuộc vào các quy định mà một Hiệp ước thương mại tự do cụ thể áp dụng. Các quy định này có thể dựa theo giá trị hoặc dựa theo mức thuế và được gọi là "Quy định về xuất xứ". Quy định về xuất xứ của bất kỳ Hiệp ước Thương mại Tự do sẽ quyết định một quy tắc cho mỗi sản phẩm được sản xuất dựa theo mã xác định danh mục thuế chung. Mỗi quy tắc sẽ cung cấp nhiều lựa chọn để xác định liệu sản phẩm có xuất xứ ưu đãi hay không. Mỗi quy tắc cũng sẽ kèm theo quy tắc loại trừ trong đó xác định các trường hợp mà sản phẩm đó không được hưởng bất kỳ ưu đãi nào.
+Một ví dụ điển hình về quy tắc theo giá trị có thể có dạng: nguyên liệu thô, nhập khẩu từ các nước không phải là thành viên FTA, sử dụng trong sản xuất và không vượt quá 25% giá trị xuất xưởng (Ex-work) của hàng thành phẩm (trị giá của hàng hóa tại cổng nhà máy).
+Một ví dụ điển hình về quy tắc theo mức thuế có thể có dạng: không bao gồm nguyên liệu thô, nhập khẩu từ các nước không phải là thành viên của FTA này, sử dụng trong sản xuất mà có thể có cùng mã danh mục thuế với thành phẩm.
+
+
+== Tham khảo ==

@@ -1,0 +1,15 @@
+ISO 639-1:2002 - Codes for the representation of names of languages — Part 1: Alpha-2 code - là phần đầu tiên của chuỗi tiêu chuẩn ISO 639 do Tổ chức tiêu chuẩn hóa quốc tế ban hành dành cho mã ngôn ngữ. Phần 1 này bao quát các mã gồm hai chữ cái. Có tổng cộng 136 mã hai chữ cái được đăng ký. Các mã này đại diện cho những ngôn ngữ lớn trên thế giới.
+Nhiều website đa ngôn ngữ - chẳng hạn như Wikipedia - dùng mã ngôn ngữ theo tiêu chuẩn ISO 639-1 để làm tiền tố cho các URL dẫn đến phiên bản ngôn ngữ tương ứng trên website đó. Chẳng hạn, phiên bản tiếng Việt của Wikipedia nằm tại địa chỉ vi.wikipedia.org, do mã ISO 639-1 của tiếng Việt là vi.
+ISO 639 - tiêu chuẩn nguyên bản dành cho mã ngôn ngữ - được thông qua vào năm 1967 và được chia làm hai phần. Năm 2002, ISO 639-1 ra đời và thay thế cho tiêu chuẩn gốc. Mã cuối cùng được bổ sung vào tiêu chuẩn là mã ht đại diện cho tiếng Creole Haiti - bổ sung ngày 26 tháng 2 năm 2003. Việc sử dụng tiêu chuẩn này được Thẻ ngôn ngữ IETF khuyến khích.
+Theo nguyên tắc, người ta không thêm mã ISO 639-1 mới cho ngôn ngữ nếu đã có mã ISO 639-2 cho nó. Do đó, các hệ thốnng dùng cả ISO 639-1 và ISO 639-2 (ưu tiên ISO 639-1) không cần phải đổi mã. Nếu đang dùng một mã ISO 639-2 nào đó để đại diện cho một nhóm ngôn ngữ thì mã đó có thể bị các mã ISO 639-1 mới của một vài ngôn ngữ nhất định gạt qua.
+
+
+== Xem thêm ==
+Danh sách mã ISO 639-1
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+ISO 639-1/RA (tiếng Anh)

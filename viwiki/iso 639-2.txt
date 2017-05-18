@@ -1,0 +1,118 @@
+ISO 639-2:1998 - Codes for the representation of names of languages — Part 2: Alpha-3 code - là phần hai của chuỗi tiêu chuẩn quốc tế ISO 639 do Tổ chức tiêu chuẩn hóa quốc tế ban hành dành cho mã ngôn ngữ. Tiêu chuẩn này liệt kê các mã - còn gọi là mã "Alpha-3" - gồm ba chữ cái, đại diện cho tên ngôn ngữ. Danh sách mã ISO 639-2 gồm 464 mục.
+Thư viện Quốc hội Hoa Kỳ là cơ quan có thẩm quyền tiếp nhận đăng ký và đề nghị đưa vào tiêu chuẩn ISO 639-2; trong vai trò này, cơ quan này được ký hiệu là ISO 639-2/RA. Cơ quan này cũng có người đại diện trong Ủy ban Tư vấn Liên hợp ISO 639-RA có trách nhiệm duy trì hệ thống mã ISO 639.
+Công tác xây dựng ISO 639-2 bắt đầu từ 1989 do mã ISO 639-1 (gồm hai chữ cái) không đủ đáp ứng nhu cầu đại diện cho tên ngôn ngữ. ISO 639-2 được ra mắt lần đầu vào năm 1998.
+
+
+== Các mã B và T ==
+Mặc dù hầu hết các ngôn ngữ đều đã được cấp mã theo tiêu chuẩn ISO nhưng có 20 ngôn ngữ có đến hai mã ba chữ cái, gồm mã "thư mục" (ISO 639-2/B) xuất phát từ tên tiếng Anh của ngôn ngữ và mã "thuật ngữ" (ISO 639-2/T) xuất phát từ tên bản xứ của ngôn ngữ đó. Mỗi ngôn ngữ trong số này lại có thêm mã ISO 639-1. Thực ra trong lịch sử từng có 22 mã "thư mục", tuy nhiên do scc và scr đã bị loại nên chỉ còn 20 mã.
+Nói chung người ta thích dùng mã "thuật ngữ" hơn; tiêu chuẩn ISO 639-3 cũng dùng mã "thuật ngữ". Tuy vậy, ISO 15924 lại dẫn xuất mã từ ISO 639-2/B mỗi khi có thể được.
+
+
+== Phạm vi và kiểu ngôn ngữ mà ISO 639-2 bao trùm ==
+Phạm vi
+Ngôn ngữ đơn
+Macrolanguage
+Bộ sưu tập ngôn ngữ
+Phương ngữ
+Ngôn ngữ dành riêng sử dụng tại địa phương
+Các trường hợp đặc biệt
+Kiểu (dành cho ngôn ngữ đơn lẻ)
+Ngôn ngữ sống
+Ngôn ngữ chết (tử ngữ)
+Ngôn ngữ cổ
+Ngôn ngữ lịch sử
+Ngôn ngữ được xây dựng (constructed language)
+
+
+=== Trường hợp đặc biệt ===
+Có những mã dùng cho các trường hợp đặc biệt:
+mis là mã được ISO liệt kê là "ngôn ngữ không mã hóa" (uncoded languages)
+mul ("multiple", tạm dịch: "nhiều") là mã dùng để thể hiện rằng có nhiều ngôn ngữ được sử dụng, đồng thời hàm nghĩa rằng việc chỉ rõ cụ thể các mã ngôn ngữ tương ứng là việc làm không thiết thực.
+Các mã từ qaa đến qtz được bảo tồn và chưa dùng trong ISO
+und ("undetermined", tạm dịch: "không xác định được") là mã được dùng khi cần phải biểu thị ngôn ngữ nhưng lại không xác định được đó là ngôn ngữ gì.
+zxx là mã được ISO liệt kê là "không có nội hàm ngôn ngữ" (bổ sung ngày 11 tháng 1 năm 2006)
+
+
+=== Mã ngôn ngữ tập thể ===
+Một số mã ISO 639-2 tuy thường dùng nhưng lại không đại diện chính xác cho một ngôn ngữ cụ thể hoặc các ngôn ngữ có liên quan. Chúng được xem là mã ngôn ngữ tập thể (collective language) và bị loại khỏi tiêu chuẩn ISO 639-3. Về định nghĩa macrolanguage và ngôn ngữ tập thể, xem tại đây.
+Dưới đây là danh sách mã ngôn ngữ tập thể trong tiêu chuẩn ISO 639-2 và được liệt kê tiếp trong ISO 639-5. Ghi chú rằng có hai mã tuy được xác định là mã ngôn ngữ tập thể trong ISO 639-2 nhưng (tính đến hiện nay) lại không có trong ISO 639-5 là mã bih (Bihar, mã ISO 639-1 là bh) và mã him (Himachal).
+afa Hệ ngôn ngữ Phi-Á
+alg Ngữ tộc Algonquin
+apa Ngữ chi Apache
+art Ngôn ngữ được xây dựng
+ath Ngữ chi Athabaska
+aus Hệ ngôn ngữ Úc
+bad Hệ ngôn ngữ Banda
+bai Hệ ngôn ngữ Bamileke
+bat Nhóm ngôn ngữ gốc Balt
+ber Nhóm ngôn ngữ Berber
+bnt Hệ ngôn ngữ Bantu
+btk Hệ ngôn ngữ Batak
+cai Hệ ngôn ngữ bản xứ Trung Mỹ
+cau Hệ ngôn ngữ Á-Âu
+cel Ngữ tộc Celt
+cmc Hệ ngôn ngữ Chăm
+col Tiếng Shilluk
+cpe tiếng creole và tiếng bồi dựa trên tiếng Anh
+cpf tiếng creole và tiếng bồi dựa trên tiếng Pháp
+cpp tiếng creole và tiếng bồi dựa trên tiếng Bồ Đào Nha
+crp Ngôn ngữ Creole và tiếng bồi
+cus Ngữ tộc Cush
+day Hệ ngôn ngữ Land Dayak
+dra Hệ ngôn ngữ Dravida
+fiu Nhóm ngôn ngữ Phần Lan-Ugra
+gem Nhóm ngôn ngữ German
+ijo Hệ ngôn ngữ Ijo
+inc Ngữ chi Ấn-Nhã Lợi An
+ine Hệ ngôn ngữ Ấn-Âu
+ira Ngữ chi Iran
+iro Hệ ngôn ngữ Iroquois
+kar Ngữ chi Karen
+khi Hệ ngôn ngữ Khoisan
+kro Ngữ tộc Kru
+map Hệ ngôn ngữ Nam Đảo
+mkh Hệ ngôn ngữ Nam Á
+mno Ngữ tộc Manobo
+mun Nhóm ngôn ngữ Munda
+myn Hệ ngôn ngữ Maya
+nah Nahuatl
+nai Ngôn ngữ bản xứ Bắc Mỹ
+nic Hệ ngôn ngữ Niger-Congo
+nub Hệ ngôn ngữ Nubia
+oto Hệ ngôn ngữ Otomi
+paa Hệ ngôn ngữ Papua
+phi Ngữ tộc Philippines
+pra Ngữ tộc Prakrit
+roa Nhóm ngôn ngữ Rôman
+sai Ngôn ngữ bản xứ Nam Mỹ
+sal Hệ ngôn ngữ Salish
+sem Ngôn ngữ Semit
+sgn Ngôn ngữ ký hiệu
+sio Hệ ngôn ngữ Sioux
+sit Hệ ngôn ngữ Hán-Tạng
+sla Ngữ tộc Slav
+smi Ngữ tộc Sami
+son Ngữ tộc Songhai
+ssa Hệ ngôn ngữ Nile-Sahara
+tai Ngữ chi Thái
+tup Hệ ngôn ngữ Tupi
+tut Hệ ngôn ngữ Altai
+wak Hệ ngôn ngữ Wakash
+wen Các ngôn ngữ Sorbia
+ypk Ngữ chi Yupik
+znd Ngữ chi Zande
+
+
+== Xem thêm ==
+Danh sách mã ISO 639-2
+Mã ngôn ngữ
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Tiếng Anh
+Trang chủ ISO 639-2/RA
+Thông báo thay đổi
+Chi tiết

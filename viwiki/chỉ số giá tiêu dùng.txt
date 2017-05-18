@@ -1,0 +1,41 @@
+Chỉ số giá tiêu dùng (hay được viết tắt là CPI, từ các chữ tiếng Anh Consumer Price Index) là chỉ số tính theo phần trăm để phản ánh mức thay đổi tương đối của giá hàng tiêu dùng theo thời gian. Sở dĩ chỉ là thay đổi tương đối vì chỉ số này chỉ dựa vào một giỏ hàng hóa đại diện cho toàn bộ hàng tiêu dùng.
+Đây là chỉ tiêu được sử dụng phổ biến nhất để đo lường mức giá và sự thay đổi của mức giá chính là lạm phát (một chỉ tiêu khác để phản ánh mức giá chung là Chỉ số giảm phát tổng sản phẩm trong nước hay Chỉ số điều chỉnh GDP).
+
+
+== Phương pháp tính chỉ số giá tiêu dùng ==
+Để tính toán chỉ số giá tiêu dùng người ta tính số bình quân gia quyền theo công thức Laspeyres của giá cả của kỳ báo cáo (kỳ t) so với kỳ cơ sở. Để làm được điều đó phải tiến hành như sau:
+1. Cố định giỏ hàng hóa: thông qua điều tra, người ta sẽ xác định lượng hàng hoá, dịch vụ tiêu biểu mà một người tiêu dùng điển hình mua.
+2. Xác định giá cả: thống kê giá cả của mỗi mặt hàng trong giỏ hàng hoá tại mỗi thời điểm.
+3. Tính chi phí (bằng tiền) để mua giỏ hàng hoá bằng cách dùng số lượng nhân với giá cả của từng loại hàng hoá rồi cộng lại.
+4. Lựa chọn thời kỳ gốc để làm cơ sở so sánh rồi tính chỉ số giá tiêu dùng bằng công thức sau:
+
+Thời kỳ gốc sẽ được thay đổi trong vòng 5 đến 7 năm tùy ở từng nước.
+CPI được dùng để tính chỉ số lạm phát theo thời kỳ. Chẳng hạn, tính chỉ số lạm phát CPI năm 2011 so với năm 2010 theo công thức sau:
+
+Trên thực tế người ta có thể xác định quyền số trong tính toán chỉ số giá tiêu dùng bằng cách điều tra để tính toán tỷ trọng chi tiêu của từng nhóm hàng hoá, dịch vụ so với tổng giá trị chi tiêu. Sau đó quyền số này được dùng để tính chỉ số giá tiêu dùng cho các thời kỳ sau. CPI thường được tính hàng tháng và hàng năm. CPI còn được tính toán cho từng nhóm hàng hóa hoặc một số nhóm hàng hóa tùy theo mục đích sử dụng. Ngoài CPI người ta cũng tính toán chỉ số giá bán buôn là mức giá của giỏ hàng hóa do các doanh nghiệp mua vào, khác với CPI là giá do người tiêu dùng mua vào (giá bán lẻ). Lưu ý chỉ số giá tiêu dùng năm gốc luôn bằng 1
+
+
+== Các vấn đề gặp phải khi tính toán chỉ số giá tiêu dùng ==
+Do sử dụng giỏ hàng hoá cố định nên khi tính toán CPI có ba vấn đề chính dẫn đến hạn chế của CPI sau đây:
+1. CPI không phản ánh được độ lệch thay thế vì nó sử dụng giỏ hàng hoá cố định. Khi giá cả một mặt hàng này tăng nhanh hơn so với các mặt hàng khác thì người tiêu dùng sẽ có xu hướng ít tiêu dùng những mặt hàng đã trở nên quá đắt đỏ mà tiêu dùng nhiều những hàng hoá đỡ đắt đỏ hơn. Yếu tố này làm CPI đã đánh giá cao hơn thực tế mức giá.
+2. CPI không phản ánh được sự xuất hiện của những hàng hoá mới vì nó sử dụng giỏ hàng hoá cố định trong khi nếu có hàng hoá mới xuất hiện thì một đơn vị tiền tệ có thể mua được các sản phẩm đa dạng hơn. CPI không phản ánh được sự gia tăng sức mua này của đồng tiền nên vì thế lại đánh giá mức giá cao hơn thực tế.
+3. Không phản ánh được sự thay đổi của chất lượng hàng hoá vì nếu mức giá của một hàng hoá cụ thể nào đó tăng nhưng chất lượng cũng tăng tương ứng thậm chí tăng hơn thì trên thực tế mức giá không tăng. Chất lượng hàng hoá dịch vụ nhìn chung đều có xu hướng được nâng cao nên CPI cũng đã phóng đại mức giá.
+
+
+== Tính toán chỉ số giá tiêu dùng ở Việt Nam ==
+Việc tính toán CPI ở Việt Nam do Tổng cục Thống kê đảm nhiệm. Quyền số để tính CPI được xác định năm 2000 và bắt đầu áp dụng từ tháng 7 năm 2001. Quyền số này dựa trên kết quả của hai cuộc điều tra là Điều tra mức sống dân cư Việt Nam 1997-1998 và Điều tra kinh tế hộ gia đình năm 1999. Điều đáng chú ý là quyền số của nhóm hàng Lương thực - Thực phẩm chiếm tới 47,9% trong khi Văn hoá - Thể thao - Giải trí chỉ chiếm 3,8%.
+
+
+== Xem thêm ==
+Chỉ số giá sản xuất
+Lạm phát
+
+
+== Tham khảo ==
+
+Kinh tế vĩ mô - Chương trình sau đại học và phát triển kinh tế địa phương, Trường Đại học kinh tế quốc dân năm 2005.
+Kinh tế vĩ mô của Gregory Mankiw, Nhà xuất bản Thống kê và Đại học kinh tế quốc dân năm 1994
+
+
+== Liên kết ngoài ==
+Chỉ số giá tiêu dùng của Việt Nam (góc dưới bên trái)

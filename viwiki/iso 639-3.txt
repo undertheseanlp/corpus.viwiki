@@ -1,0 +1,45 @@
+ISO 639-3:2007 - Codes for the representation of names of languages — Part 3: Alpha-3 code for comprehensive coverage of languages - là tiêu chuẩn nằm trong chuỗi tiêu chuẩn quốc tế ISO 639 do Tổ chức Tiêu chuẩn hóa Quốc tế ban hành dành cho mã ngôn ngữ. Mỗi mã ISO 639-3 gồm ba chữ cái dùng để nhận diện ngôn ngữ. ISO 639-3 mở rộng các mã alpha-3 của ISO 639-2 nhằm mục đích bao quát toàn bộ các ngôn ngữ tự nhiên đã biết trên thế giới. Tiêu chuẩn này được ban hành vào ngày 5 tháng 2 năm 2007.
+ISO 639-3 hướng đến nhiều đối tượng sử dụng, cụ thể là các hệ thống máy tính có nhu cầu hỗ trợ nhiều ngôn ngữ. Tiêu chuẩn này cung cấp một bảng liệt kê ngôn ngữ hoàn chỉnh nhất có thể được, bao gồm các ngôn ngữ cả sống lẫn chết, cả cổ lẫn được xây dựng, cả lớn và nhỏ, cả ngôn ngữ có chữ viết lẫn không có chữ viết. Tuy nhiên, nó không bao hàm các ngôn ngữ tái cấu trúc, chẳng hạn ngôn ngữ Tiền Ấn-Âu.
+ISO 639-3 là một siêu tập hợp (superset) của ISO 639-1 và của các ngôn ngữ đơn lẻ trong ISO 639-2. ISO 639-1 và ISO 639-2 tập trung vào các ngôn ngữ lớn thường xuyên có mặt trong tổng thể kho tài liệu của thế giới. Do ISO 639-2 bao gồm các tập hợp ngôn ngữ trong khi ISO 639-3 lại không có nên ISO 639-3 không phải là một siêu tập hợp của ISO 639-2. Ngoài ra, ISO 639-3 chỉ dùng mã "thuật ngữ" (xem thêm ISO 639-2) so với ISO 639-2 dùng cả mã "thư mục" và mã "thuật ngữ".
+Tính đến tháng 4 năm 2012, tiêu chuẩn ISO 639-3 có 7.776 mục. Con số này đạt được là nhờ dựa trên nhiều nguồn khác nhau, bao gồm: các ngôn ngữ đơn lẻ trong ISO 639-2, các ngôn ngữ hiện đại trích từ xuất bản phẩm Ethnologue, các biến thể mang tính lịch sử, các ngôn ngữ cổ và các ngôn ngữ được xây dựng rút từ cơ sở dữ liệu Linguist List của nhà ngôn ngữ học Anthony Aristar cũng như các ngôn ngữ do công chúng đề xuất trong các buổi thu thập ý kiến phản hồi.
+
+
+== Không gian mã ==
+Do mã ISO 639-3 gồm ba mẫu tự trong bảng chữ cái tiếng Anh nên tổng số kết hợp khác nhau là 26 × 26 × 26 = 17576. Do ISO 639-2 định nghĩa có bốn mã đặc biệt, 520 mã dự trữ, 23 mã chỉ dành cho mã "thư mục" nên có 4 + 520 + 23 = 547 mã mà ISO 639-3 không được sử dụng. Điều này nghĩa là kho mã của ISO 639-3 chỉ có thể có tối đa gần 17030 mã. Con số này sẽ càng nhỏ đi nếu trừ đi các mã đại diện cho các tập hợp ngôn ngữ mà ISO 639-2 đã định nghĩa và các mã chưa được định nghĩa trong ISO 639-5.
+
+
+== Các Macrolanguage ==
+
+Có 56 ngôn ngữ trong ISO 639-2 được ISO 639-3 gọi là "macrolanguage".
+Một số ngôn ngữ chẳng hạn arb (tiếng Ả Rập chuẩn) được ISO 639-2 xem là phương ngữ của một ngôn ngữ (trong trường hợp này ara), nhưng trong một số ngữ cảnh nhất định thì lại được xem là ngôn ngữ riêng theo cách hiểu của ISO 639-3.
+
+
+== Ngôn ngữ tập thể ==
+
+"Một mã ngôn ngữ tập thể là một định danh đại diện cho một nhóm các ngôn ngữ đơn không được xem là một ngôn ngữ trong bất kỳ ngữ cảnh nào". Các mã này không đại diện một cách chính xác cho một ngôn ngữ hoặc một macrolanguage nhất định.
+Trong khi ISO 639-2 dùng các định danh ba chữ cái để đại diện cho các ngôn ngữ tập thể thì ISO 639-3 lại bỏ số mã này.
+
+
+== Sử dụng ==
+ISO 639-3 được dùng trong:
+Ethnologue, Linguist List
+Thẻ ngôn ngữ IETF
+Lexical Markup Framework, một tiêu chuẩn đại diện cho các từ điển mà máy đọc được
+
+
+== Mã đặc biệt ==
+ Có bốn mã được dùng trong các trường hợp không thể dùng một mã cụ thể nào được. Các mã đặc biệt này là nhằm đáp ứng chủ yếu cho các ứng dụng, chẳng hạn các cơ sở dữ liệu yêu cầu cung cấp mã ngôn ngữ theo ISO mặc cho có tồn tại mã dành cho ngôn ngữ hay là không.
+mis (viết tắt của từ miscellaneous) nhắm đến các ngôn ngữ (chưa) được đưa vào tiêu chuẩn ISO.
+mul dùng trong các trường hợp ứng dụng mà trong đó sử dụng từ hai ngôn ngữ trở lên, trong khi lại yêu cầu chỉ cung cấp một mã ngôn ngữ duy nhất.
+und dùng trong các trường hợp chưa nhận diện được ngôn ngữ, chẳng hạn do nhãn bị ghi sai hoặc chưa bao giờ được đặt nhãn. Chú ý mã này không dùng cho các trường hợp khai báo các ngôn ngữ không được chứng nhận.
+zxx dùng cho dữ liệu không phải ngôn ngữ [của con người], chẳng hạn tiếng động vật kêu.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Tiếng Anh
+ISO 639-3 Registration Authority
+FAQ, Website Thư viện Quốc hội Hoa Kỳ
+Linguist List - Danh sách ngôn ngữ cổ và ngôn ngữ tuyệt chủng

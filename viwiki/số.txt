@@ -1,0 +1,326 @@
+Số hay con số là một khái niệm trong toán học sơ cấp, đã trở thành một khái niệm phổ cập, khởi đầu trong lịch sử toán học của loài người. Số là cách thức con người ghi lại số lượng các đối tượng như công cụ sản xuất, súc vật chăn nuôi... Các dân tộc khác nhau có cách ký hiệu khác nhau, mỗi ký hiệu thường được gọi là một chữ số, hay một con số, ngày nay thường được gọi là ký số. Người ta ghép các chữ số khác nhau vào theo những quy ước nhất định để tạo thành các số. Ngày nay còn lại phổ biến là cách ghi số của người Ả Rập (0,1,2...,9), La Mã (I,V,X, L, C,..), Trung Quốc... Ngày nay số đã trở thành một trong các khái niệm cơ bản của toán học, là đối tượng nghiên cứu của hầu hết các phân ngành của toán học như lý thuyết số, giải tích, đại số, xác suất thống kê.....
+
+
+== Các loại số ==
+Các số có thể phân chia thành các tập hợp số theo các hệ thống số khác nhau.
+Số tự nhiên
+Số dương
+Số âm
+Số nguyên tố
+Số hữu tỉ
+Số vô tỉ
+Số thực
+Số phức
+Hợp số
+Số chính phương
+
+
+=== Số dương ===
+
+Số dương là số có giá trị lớn hơn 0. Số dương có thể đặt một dấu "+" ở trước nó. Chúng thuộc tập hợp số thực R.
+
+
+=== Số âm ===
+
+Số âm là số có giá trị nhỏ hơn 0. Trong toán học, số âm thường được biểu diễn bằng một dấu trừ – trước giá trị dương tương ứng.
+
+
+=== Số tự nhiên ===
+
+Loại số quen thuộc nhất với hầu như tất cả mọi người là số tự nhiên, trước kia nó được hiểu như số nguyên dương (không kể số 0), nhưng ngày nay đa số các tài liệu toán học thống nhất nó bao gồm cả số không (số nguyên không âm). Các số nguyên dương được xem như là các số để đếm.
+Trong hệ thập phân được dùng rộng rãi, các ký hiệu dùng để viết số tự nhiên là các chữ số từ 0 đến 9. Trong hệ này, mỗi vị trí tương ứng với một lũy thừa của 10, các số lớn hơn 9 được biểu diễn bởi hai hoặc nhiều hơn các chữ số. Còn có thể ghi theo các hệ cơ số khác như hệ nhị phân, hệ bát phân, hệ thập lục phân,...Tập các số tự nhiên thường được ký hiệu là 
+  
+    
+      
+        
+          N
+        
+      
+    
+    {\displaystyle \mathbb {N} }
+  .
+
+
+=== Số nguyên ===
+
+Số nguyên bao gồm các số tự nhiên và các số đối của các số tự nhiên dương. Số đối của một số tự nhiên dương n là một số khi cộng với n cho kết quả bằng không, nó thường được viết bằng cách thêm dấu "trừ" đằng trước số n. Về ý nghĩa, nếu một số dương là một khoản tiền gửi ngân hàng thì số âm là số biểu thị khoản tiền rút ra. Tập các số nguyên thường được ký hiệu là 
+  
+    
+      
+        
+          Z
+        
+      
+    
+    {\displaystyle \mathbb {Z} }
+   (viết tắt của từ Zahl trong tiếng Đức).
+
+
+=== Số nguyên tố và hợp số ===
+
+Số nguyên tố là số chỉ có 2 ước là 1 và chính nó. VD: 2, 3, 5, 7, 11, 13, 17, 19,...
+Hợp số là số có nhiều hơn 2 ước. VD: 4, 6, 8, 9, 10, 12, 14, 15, 16, 18,...
+Số 0 và số 1 không phải là số nguyên tố và cũng không phải là hợp số.
+
+
+=== Số hữu tỉ ===
+
+Một số hữu tỉ là một số có thể biểu diễn như một thương (hay phân số) của phép chia một số nguyên cho một số tự nhiên khác 0. Thường m/n là diễn tả việc chia một khối lượng nào đó thành n phần bằng nhau và chọn lấy m phần. Hai phân số khác nhau có thể biểu diễn cho cùng một số, chẳng hạn ½ và 2/4 là như nhau. Nếu giá trị tuyệt đối của m lớn hơn n thì giá trị tuyệt đối của phân số lớn hơn một. Phân số có thể dương âm hoặc bằng 0.
+
+
+=== Số vô tỉ ===
+
+Số vô tỉ là số không thể biểu diễn được thành tỉ số với tử số và mẫu số nguyên hay còn gọi là số thập phân vô hạn không tuần hoàn.
+Ví dụ:
+Số thập phân vô hạn có chu kỳ thay đổi: 0,1010010001000010000010000001... (Số thập phân vô hạn không tuần hoàn)
+Số 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+   = 1,414213...
+Số 
+  
+    
+      
+        π
+        =
+        3
+        ,
+        141592653589793...
+      
+    
+    {\displaystyle \pi =3,141592653589793...}
+  
+Số lôgarít tự nhiên e = 2,718281...
+
+
+=== Số thực ===
+
+Các số hữu tỉ (các phân số 
+  
+    
+      
+        
+          
+            m
+            n
+          
+        
+      
+    
+    {\displaystyle {\frac {m}{n}}}
+   trong đó 
+  
+    
+      
+        m
+        ∈
+        
+          Z
+        
+      
+    
+    {\displaystyle m\in \mathbb {Z} }
+  , 
+  
+    
+      
+        n
+        ∈
+        
+          N
+        
+        ,
+        n
+        >
+        0
+      
+    
+    {\displaystyle n\in \mathbb {N} ,n>0}
+  ) không đủ dùng để biểu diện các độ đo trong hình học, chẳng hạn độ dài đường chéo của một hình vuông có cạnh là 1 là 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\sqrt {2}}}
+  . Có thể chứng minh rằng, không có số hữu tỉ nào bình phương bằng 2.
+Tổng quát hơn, người ta mở rộng tập hợp số hữu tỷ thành tập hợp số trong đó mọi dãy Cauchy đều có giới hạn, tập hợp đó được gọi là tập hợp số thực.
+(Dãy {xn}n 
+  
+    
+      
+        ∈
+        
+          N
+        
+      
+    
+    {\displaystyle \in \mathbb {N} }
+   được gọi là dãy Cauchy nếu với mọi số r > 0 tồn tại số nguyên dương N sao cho với mọi m,n > N luôn có | xm − xn | < r.)
+Các số thực biểu diễn được dưới dạng phân số được gọi là các số hữu tỉ (rational). Các số thực không biểu diễn được dưới dạng phân số được gọi là các số vô tỷ (irrational).
+Tập các số thực được ký hiệu là 
+  
+    
+      
+        
+          R
+        
+      
+    
+    {\displaystyle \mathbb {R} }
+  , tập các số vô tỉ là 
+  
+    
+      
+        
+          I
+        
+      
+    
+    {\displaystyle \mathbb {I} }
+  .
+Như vậy 
+  
+    
+      
+        
+          R
+        
+        =
+        
+          Q
+        
+        ∪
+        
+          I
+        
+      
+    
+    {\displaystyle \mathbb {R} =\mathbb {Q} \cup \mathbb {I} }
+   và 
+  
+    
+      
+        
+          Q
+        
+        ∩
+        
+          I
+        
+        =
+        ∅
+      
+    
+    {\displaystyle \mathbb {Q} \cap \mathbb {I} =\emptyset }
+  .
+Tập các số thực còn được phân chia thành tập các số đại số và tập các số siêu việt.
+
+
+=== Số phức ===
+
+Tập các số phức là mở rộng đại số của tập các số thực với việc bổ sung một số mới là căn bậc hai của -1, số này được gọi là đơn vị ảo và ký hiệu là i. Khi đó tập các số phức là tập các số dạng z=a+b×i.
+Trong tập các số phức, mọi phương trình đại số bậc n có đúng n nghiệm.
+Tập các số phức được ký hiệu là 
+  
+    
+      
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {C} }
+  , như vậy quan hệ bao hàm giữa các tập hợp số đã biết là:
+
+  
+    
+      
+        
+          N
+        
+        ⊂
+        
+          Z
+        
+        ⊂
+        
+          Q
+        
+        ⊂
+        
+          R
+        
+        ⊂
+        
+          C
+        
+      
+    
+    {\displaystyle \mathbb {N} \subset \mathbb {Z} \subset \mathbb {Q} \subset \mathbb {R} \subset \mathbb {C} }
+  .
+
+
+=== Số siêu phức ===
+
+Khái niệm mở rộng của số phức từ dạng tổ hợp tuyến tính 2 chiều z = a + b.i với các hệ số thực a, b của hai đơn vị cơ sở 1 và i sang không gian vectơ n chiều với n hệ số thực x0, x1, x2,..., xn-&, của n dơn vị cơ sở 1, e1, e2, e3,..., en-1:
+z = x0.1 + x1.e1 + x2.e2 +... + xn-1.en-1
+
+
+=== Số đại số ===
+
+Số đại số là số có thể thỏa mãn (nghiệm) một phương trình đại số. Số đại số có thể là số thực hoặc số phức.
+
+
+=== Số siêu việt ===
+
+Số siêu việt là số vô tỉ (thực hoặc phức) không là nghiệm của bất ký một phương trình đại số nào. Nói theo ngôn ngữ toán tập hợp, trường số siêu việt là phần bù của trường số đại số.
+
+
+== Lịch sử số nguyên ==
+
+
+=== Lịch sử số không ===
+
+Con số "không" mà chúng ta quen và thấy mọi ngày, được ra đời khoảng 200 năm sau Thiên Chúa giáng sinh. Con số "không" đã được tượng hình do người Hindu Ấn Độ. Người Hindu là những người đầu tiên đưa ra con số này để để trình bày quan niệm "không có số lượng". Những nền văn minh trước đó, ngay cả người Hi Lạp, khái niệm "không" vẫn chưa xảy ra mặc dù rất cần có một con số để chỉ sự vắng mặt của một số đồ vật nào đó. Liên quan với khái niệm trước của con số zéro, nghĩa thứ hai là có thật, phải biết và phải được phân biệt với sự "không" (nulle, null).
+Điều rõ ràng là những dân tộc trước đây không đủ khả năng để cảm nhận sự phân biệt giữa "không" và "không có gì". Thí dụ, một người không có một sổ ngân hàng nào hết thì người đó thuộc vào hạng "không có gì", còn một người có sổ ngân hàng nhưng không có đồng nào trong công thì kết toán sẽ là "không".
+Nhưng cuối cùng các nhà toán học đã phát triển cách để viết những con số. Trước tiên ta đếm những đơn vị rồi đến bậc cao hơn là hàng chục rồi hàng chục của chục, hàng chục của chục của chục.. vân vân... Ta cũng trình bày được một trăm hai mươi ba bởi 123. Bởi vì số "mười" đóng một vai trò căn bản trong sự đo lường có lẽ bởi con người đếm bằng những ngón tay trên hai bàn tay và xem như số mười (10) là con số lớn nhất của đơn vị.
+Vi trí của con số nói lên số lượng nên gọi là cách đếm theo vị trí. Hệ thống đếm thập phân theo vị trí do người Hindus, tuy nhiên cũng trên cách xếp đặt đó trước đó hai ngàn năm người Babylone đã dùng nhưng trên căn bản 60 (thay vì 10) và dưới hình thức giới hạn vì họ chưa có số zéro.
+Có hai cách sử dụng cực kỳ quan trọng của con số zéro:
+Thứ nhất là ý niệm "không có gì" và "giá trị không" như đã trình bày thí dụ ở chương trước
+Thứ hai là để chỉ giá trị sự không có gì trong hệ thống đếm số theo vị trí. Thí dụ trong số 2106 thì ở vị trí hàng chục là có giá trị không nhưng rõ ràng là nếu so sánh 2 số 216 và 2106 là hoàn toàn khác hẳn.
+Cả hai cách dùng đều có một lịch sử không dễ gì giải thích được. Có thể do một người nào đó đã phát minh ra những ý nghĩ rồi thì mỗi người bắt đầu dùng. Cuối cùng cách sử dụng để chỉ con số zéro khác xa với khái niệm lúc đầu.
+Ngày xưa toán học dùng để chỉ những vấn đề thực tế hơn là trừu tượng như hôm nay. Phải trải qua những bước đi khổng lồ về ý tưởng để đi từ 5 "con ngựa" sang 5 "vật" rồi cuối cùng ý nghĩ trừu tượng là con số "năm". Nếu như dân tộc xưa giải đáp một bài toán về số ngựa của một nhà chăn nuôi thì chắc chắn họ sẽ không có giải đáp là sẽ có 0 con ngựa hay -23 con ngựa.
+Mặc dù người Babylone đã có hệ thống đếm giá trị theo vị trí từ trên 1000 năm nay nhưng chắc chắn là có rất nhiều sự lầm lẫn. Điều đáng kể là những có những câu văn nguyên thủy người Babylone viết bằng chữ hình góc (écriture cunéiforme) -cũng như họ đã kiếm ra con số Pi- từ thời đại Toán học Babylone. Người Babylone đã viết chữ hình góc trên những miếng đất sét không nung chín. Những ký hiệu được ấn vô những miếng đất sét. Có rất nhiều miếng đất sét mà số còn sống sót cỡ 1700 miếng trước Công Nguyên và chúng ta có thể đọc được những câu nguyên thủy.
+Lẽ đương nhiên khái niệm của họ khác với khái niệm của ta hiện nay và không trên cách đếm căn bản 10 mà là 60 như đã nói trên. Thí dụ nếu dịch con số 2106 và 216 cho họ xem thì họ sẽ hoàn toàn không phân biệt được.
+Đến năm 400 trước TC người Babylone đã để 2 số tượng trưng chêm vô nơi mà ta để con số zéro để biểu hiệu những con số 216 hay 21 hay 6. Hai số tượng trưng chêm không phải là ký hiệu duy nhất được dùng. Người ta đã tìm thấy một viên đất sét nén nơi những người Kish (một thành phố cổ xưa của Mesopotamian ở phía Đông của Babylone, bây giờ là Trung-Nam Irak) đã dùng một ký hiệu mới.
+Khoảng 700 năm trước CN, viên đất sét nén này có dùng 3 dấu móc để biểu hiệu một chỗ trống (endroit vide) cho cách trình bày vị trí. Có một dấu hiệu trên một tấm bảng cùng thời kì đó cũng dùng một dấu móc để chỉ chỗ trống. Sự bố trí chung cho cách dùng những dấu hiệu khác nhau để chỉ chỗ trống. Dấu hiệu trống đó chỉ nằm giữa hai con số chớ không bao giờ nằm hai đầu mút của con số. Như vậy ta thấy rằng với 21 và 6, sẽ không có số 216. Ta có thể giả sử rằng vì ngày trước, tình cảm xưa hơn ngữ cảnh (contexte) và đủ để chỉ những gì đã dự kiến để dùng trong những két (caisse).
+Nếu lời chỉ dẫn cho ngữ cảnh có vẻ đần độn thì ta cũng phải lưu ý rằng nhờ những lời chỉ dẫn đó đã giúp ta giải thích những con số hiện nay. Nếu tôi hỏi giá tiền xe buýt đi từ nhà tôi đến thành phố bên cạnh mà người ta trả lời là "ba năm mươi" thì tôi hiểu là 3 bảng Anh và 50 pence. Tuy nhiên cũng với câu trả lời tương tự cho câu hỏi về giá tiền chuyến bay từ Edimbourg đến New York thì tôi lại hiểu là 350 bảng Anh, như đã dự kiến. Từ việc này, ta có thể thấy cách dùng ngắn hạn của zéro để biểu hiệu một chỗ trống thì zéro không phải là một con số mà chỉ là một loại dấu chấm câu (ponctuation) để diễn tả con số chính xác.
+
+
+== Biểu diễn số ==
+Các số có thể được biểu diễn dưới dạng số thập phân hữu hạn, vô hạn tuần hoàn và không tuần hoàn.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Bài giảng Lý thuyết Số học tại trường Đại học Cần Thơ
+
+
+== Xem thêm ==

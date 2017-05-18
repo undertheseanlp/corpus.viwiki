@@ -1,0 +1,28 @@
+Trong ngữ âm học, nguyên âm hay mẫu âm là một âm thanh trong ngôn ngữ nói, như trong tiếng Việt a hay e, được phát âm với thanh quản mở, do đó không có sự tích lũy áp suất không khí trên bất cứ điểm nào ở thanh môn. Đối lập với nguyên âm là phụ âm, như t [t], có vài vị trí bị thắt lại hoặc bị đóng trên thanh quản. Theo nghĩa âm tiết, một âm mở tương đương nhưng không phải là âm tiết được gọi là bán nguyên âm. Về mặt chữ viết, có 12 nguyên âm trong tiếng Việt là a, ă, â, e, ê, i, o, ô, ơ, u, ư, y. Còn về mặt ngữ âm, có mười một nguyên âm được ghi nhận trong tiếng Việt là /i e ɛ ɐ a ə ɔ ɤ o ɯ u/ (ký âm IPA).
+
+
+== Xem thêm ==
+Phụ âm
+
+
+== Tham khảo ==
+
+Handbook of the International Phonetic Association, 1999. Cambridge University ISBN 978-0-521-63751-0
+Johnson, Keith, Acoustic & Auditory Phonetics, second edition, 2003. Blackwell ISBN 978-1-4051-0123-3
+Korhonen, Mikko. Koltansaamen opas, 1973. Castreanum ISBN 978-951-45-0189-0
+Ladefoged, Peter, A Course in Phonetics, fifth edition, 2006. Boston, MA: Thomson Wadsworth ISBN 978-1-4130-2079-3
+Ladefoged, Peter, Elements of Acoustic Phonetics, 1995. University of Chicago ISBN 978-0-226-46764-1
+Bản mẫu:SOWL
+Ladefoged, Peter, Vowels and Consonants: An Introduction to the Sounds of Languages, 2000. Blackwell ISBN 978-0-631-21412-0.
+Lindau, Mona. (1978). “Vowel features”. Language 54 (3): 541–563. doi:10.2307/412786. 
+Stevens, Kenneth N. (1998). Acoustic phonetics. Current studies in linguistics (No. 30). Cambridge, MA: MIT. ISBN 978-0-262-19404-4.
+Stevens, Kenneth N. (2000). “Toward a model for lexical access based on acoustic landmarks and distinctive features”. The Journal of the Acoustical Society of America 111 (4): 1872–1891. doi:10.1121/1.1458026. PMID 12002871. 
+Watt, D. and Tillotson, J. (2001). A spectrographic analysis of vowel fronting in Bradford English. English World-Wide 22:2, 269–302. Available at http://www.abdn.ac.uk/langling/resources/Watt-Tillotson2001.pdf
+
+
+== Liên kết ngoài ==
+IPA chart with MP3 sound files
+IPA vowel chart with AIFF sound files
+Vowel charts for several different languages and dialects measuring F1 and F2
+Materials for measuring and plotting vowel formants
+Vowels and Consonants Online examples from Ladefoged's Vowels and Consonants, referenced above.

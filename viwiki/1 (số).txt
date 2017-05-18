@@ -1,0 +1,130 @@
+1 (một) là một số tự nhiên ngay sau 0 và ngay trước 2. 1 lá số đầu tiên trong tập hợp N*.
+
+
+== Trong toán học ==
+Số 1 có một số tính chất số học đặc biệt:
+Số 1 nhân với bất cứ số nào cũng cho kết quả bằng chính số đó: 
+  
+    
+      
+        ∀
+      
+    
+    {\displaystyle \forall }
+  x, x.1 = 1.x = x
+Mọi số đều viết được dưới dạng phân số với tử số là số đó còn mẫu số là 1.
+Một số bất kì viết được dưới dạng số đó mũ 1.
+
+  
+    
+      
+        
+          a
+          
+            0
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle a^{0}=1}
+   với mọi 
+  
+    
+      
+        a
+        ≠
+         
+        0
+      
+    
+    {\displaystyle a\not =\ 0}
+  .
+
+  
+    
+      
+        
+          
+            a
+            a
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle {a \over a}=1}
+   với mọi 
+  
+    
+      
+        a
+        ≠
+         
+        0
+      
+    
+    {\displaystyle a\not =\ 0}
+  .
+
+  
+    
+      
+        
+          
+            1
+            
+              a
+            
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle {\sqrt[{a}]{1}}=1}
+   với mọi 
+  
+    
+      
+        a
+        ≠
+         
+        0
+      
+    
+    {\displaystyle a\not =\ 0}
+  
+
+  
+    
+      
+        
+          1
+          
+            a
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle 1^{a}=1}
+   với mọi 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+  .
+
+
+== Trong hóa học ==
+1 là số hiệu nguyên tử của nguyên tố Hiđrô (H).
+
+
+== Tham khảo ==

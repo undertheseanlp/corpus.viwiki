@@ -1,0 +1,21 @@
+Âm giai nửa cung hay còn gọi là âm giai đồng chuyển, âm giai bán cung hay bán âm âm giai (en:chromatic scale,zh:半 音 音 階) là 1 âm giai (gam) gồm 12 nốt cách đều nhau nửa cung (bán cung,demi-ton, semitone, half-step).
+
+Quan niệm phổ biến nhất của âm giai nửa cung trước thế kỷ 15 là âm giai nửa cung Pythagore. Do kỹ thuật điều chỉnh khác nhau, mười hai bán cung trong âm giai nửa cung này có hai cao độ hơi khác nhau. Như vậy, âm giai không hoàn toàn đối xứng. Nhiều hệ thống điều chỉnh khác, phát triển trong các thế kỷ sau đó, cũng không đối xứng như vậy. Khoảng cách cao độ tương tự nhau chỉ được cung cấp bởi hệ thống điều chỉnh bằng khí, được sử dụng rộng rãi trong âm nhạc đương đại.
+Thuật ngữ chromatic bắt nguồn từ tiếng Hy Lạp (chroma), có nghĩa là màu sắc.
+
+
+== Ký hiệu ==
+Các nhà soạn nhạc đã không nhất quán trong việc quy định ký hiệu của âm giai nửa cung, tuy nhiên các nhà lý luận âm nhạc đã chia ra làm 2 loại ký hiệu: thăng và giáng:
+
+Âm giai nửa cung giai điệu (melodic) và âm giai nửa cung hòa âm (harmonic):
+
+Âm giai nửa cung hòa âm có 1 quy ước chung cho các dấu thăng và giáng mà không phân biệt dấu hóa. Nó được tạo ra bằng cách tập hợp tất cả các nốt của âm giai trưởng và thứ, sau đó giáng bậc 2 và thăng bậc 4. Do đó các nốt được viết lại 2 lần ngoại trừ nốt khóa, nốt đầu, cuối và nốt bậc 5.
+Âm giai nửa cung giai điệu không có mẫu chung để ký hiệu, tuy nhiên hình thức của nó phụ thuộc vào dấu âm giai trưởng hoặc thứ, từ đó mà thăng hay giáng. Hình trên cho thấy không dùng 1 nốt 3 lần liên tiếp để ký hiệu (ví dụ không thể dùng sol giáng, sol, sol thăng), một nốt chỉ được dùng tối đa 2 lần.
+
+
+== Liên kết ngoài ==
+The Chromatic Scale arranged for guitar in several fingerings. (Formatted for easy printing)
+The 12 golden notes of music
+
+
+== Chú thích ==

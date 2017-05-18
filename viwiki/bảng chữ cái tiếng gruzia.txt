@@ -1,0 +1,40 @@
+Bảng chữ cái tiếng Gruzia là ba hệ thống văn bản được sử dụng để viết tiếng Gruzia: Asomtavruli, Nuskhuri và Mkhedruli. Các chữ cái của 3 hệ thống này là tương đương, có cùng tên và thứ tự chữ cái. Cả ba hệ thống này đều không phân biệt giữa chữ hoa và chữ thường. Mặc dù mỗi hệ thống vẫn tiếp tục được sử dụng, Mkhedruli (xem bên dưới) được lấy làm tiêu chuẩn cho tiếng Gruzia và các ngôn ngữ Kartvelia liên quan.
+
+
+== Thư viện ảnh ==
+Thư viện ảnh các văn bản Asomtavruli, Nuskhuri and Mkhedruli.
+
+
+=== Thư viện ảnh Asomtavruli ===
+
+
+=== Thư viện ảnh Nuskhuri ===
+
+
+=== Thư viện ảnh Mkhedruli ===
+
+
+== Tham khảo ==
+
+
+== Sách tham khảo ==
+Aronson, Howard I. (1990), Georgian: a reading grammar , Columbus, OH: Slavica 
+Shosted, Ryan K.; Chikovani, Vakhtang (2006), “Standard Georgian”, Journal of the International Phonetic Association 36 (2): 255–264, doi:10.1017/S0025100306002659 
+Javakhishvili, I. Georgian palaeography Tbilisi, 1949
+Barnaveli, T. Inscriptions of Ateni Sioni Tbilisi, 1977
+Pataridze, R. Georgian Asomtavruli Tbilisi, 1980
+Machavariani, E. Georgian manuscripts Tbilisi, 2011
+Gamkrelidze, T. Writing system and the old Georgian script Tbilisi, 1989
+Kilanawa, B. Georgian script in the writing systems Tbilisi, 1990
+Hewitt, B.G. (1995). Georgian: A Structural Reference Grammar. John Benjamins Publishing. ISBN 978-90-272-3802-3.
+Mchedlidze, T. The restored Georgian alphabet, Fulda, Germany, 2013
+
+
+== Liên kết ngoài ==
+Georgian alphabet animation on YouTube, produced by the Ministry of Education and Science of Georgia. Gives the sound of each letter, illustrates several fonts, and shows the stroke order of each letter.
+Live video of writing the letters on YouTube. Speaks the name of each letter, with some words that contain it, while writing them on ruled paper.
+Lasha Kintsurashvili and Levan Chaganava, submissions to the 2014 International Exhibition of Calligraphy
+Reference grammar of Georgian by Howard Aronson (SEELRC, Duke University)
+Georgian transliteration + Georgian virtual keyboard
+Unicode Code Chart (10A0–10FF) for Georgian scripts PDF (105 KB)
+Transliteration of Georgian PDF (105 KB)

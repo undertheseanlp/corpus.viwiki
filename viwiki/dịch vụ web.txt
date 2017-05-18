@@ -1,0 +1,9 @@
+Dịch vụ web (tiếng Anh: web service) là sự kết hợp các máy tính cá nhân với các thiết bị khác, các cơ sở dữ liệu và các mạng máy tính để tạo thành một cơ cấu tính toán ảo mà người sử dụng có thể làm việc thông qua các trình duyệt mạng.
+Bản thân các dịch vụ này sẽ chạy trên các máy chủ trên nền Internet chứ không phải là các máy tính cá nhân, do vậy có thể chuyển các chức nǎng từ máy tính cá nhân lên Internet. Người sử dụng có thể làm việc với các dịch vụ thông qua bất kỳ loại máy nào có hỗ trợ web service và có truy cập Internet, kể cả các thiết bị cầm tay. Do đó các web service sẽ làm Internet biến đổi thành một nơi làm việc chứ không phải là một phương tiện để xem và tải nội dung.
+Điều này cũng sẽ đưa các dữ liệu và các ứng dụng từ máy tính cá nhân tới các máy phục vụ của một nhà cung cấp dịch vụ web. Các máy phục vụ này cũng cần trở thành nguồn cung cấp cho người sử dụng cả về độ an toàn, độ riêng tư và khả nǎng truy nhập.
+Các máy phục vụ ứng dụng sẽ là một phần quan trọng của các web service bởi vì thường thì các máy chủ này thực hiện các hoạt động ứng dụng phức tạp dựa trên sự chuyển giao giữa người sử dụng và các chương trình kinh doanh hay các cơ sở dữ liệu của một tổ chức nào đó.
+Một số nhà quan sát ngành công nghiệp này cho rằng web service không thực sự là một khái niệm mới và phản ánh một phần không nhỏ khái niệm mạng máy tính vốn đã trở nên quen thuộc trong nhiều nǎm qua. Web service chủ yếu dựa trên một lời gọi thủ tục từ xa không chặt chẽ mà có thể thay thế các lời gọi thủ tục từ xa chặt chẽ, đòi hỏi các kết nối API phù hợp đang phổ biến hiện nay. Dịch vụ web sử dụng XML chứ không phải C hay C++, để gọi các quy trình.
+Tuy nhiên các chuyên gia khác lại cho rằng web service là một dạng API dựa trên phần mềm trung gian, có sử dụng XML để tạo phần giao diện trên nền Java 2 (J2EE) hay các server ứng dụng .NET. Giống như các phần mềm trung gian, web service sẽ kết nối server ứng dụng với các chương trình Client.
+
+
+== Tham khảo ==

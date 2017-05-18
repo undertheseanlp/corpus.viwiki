@@ -1,0 +1,52 @@
+Man'yōgana (万葉仮名, まんようがな) là một hệ thống chữ viết cổ sử dụng các ký tự tiếng Hán để diễn đạt tiếng Nhật. Hiện chưa rõ chính xác hệ thống chữ viết này được bắt đầu sử dụng vào thời gian nào, tuy nhiên chắc chắn vào giữa thế kỷ thứ 7 sau CN nó đã được đưa vào sử dụng. Tên "man'yōgana" có nguồn gốc từ tập Man'yōshū (Vạn diệp tập), một tuyển tập thơ tiếng Nhật được viết vào thời kỳ Nara bằng man'yōgana.
+
+
+== Nguyên tắc ==
+Man'yōgana thường sử dụng kanji để biểu âm (shakuon 借音: "tá âm" tức mượn âm) hơn là biểu ý (shakkun 借訓: "tá huấn" tức "mượn nghĩa"). Nhiều từ kanji có thể được dùng để diễn đạt cùng một âm tiết, được tùy chọn phụ thuộc vào văn phong cụ thể. Ví dụ, bài thơ 17/4025 Man'yōshū được viết như sau:
+Các âm mo (母, 毛) và shi (之, 思) được biểu diễn bằng nhiều ký tự. Trong khi tất cả các tiểu từ và hầu hết các từ được diễn đạt theo ngữ âm (多太 ứng với tada, 安佐 ứng với asa), các từ umi (海) và funekaji (船梶) lại được diễn tả theo mặt ngữ nghĩa.
+Trong một số trường hợp, những âm tiết đặc thù trong những từ đặc thù được biểu diễn nhất quán bằng những ký tự đặc thù. Cách dùng này có tên là Jōdai Tokushu Kanazukai. Điều này là cơ sở lịch sử về ngôn ngữ học cho quan điểm rằng một số âm sắc riêng biệt trong tiếng Nhật cổ được biểu diễn bởi các tập hợp ký tự khác nhau trong man'yōgana, đã hợp nhất từ thời gian đó.
+
+
+== Các kiểu mẫu man'yōgana ==
+Ở hệ thống man'yōgana, mỗi ký tự kanji biểu đạt một số lượng các âm tiết khác nhau tùy từng kiểu mẫu, một số trong đó tương đối dễ hiểu, nhưng nhìn chung khá rắc rối và phức tạp.
+Shakuon kana (借音仮名 - tá âm giả danh), dựa trên cách đọc on'yomi
+Một ký tự diễn đạt một âm tiết
+Sử dụng toàn bộ: 以 (い), 呂 (ろ), 波 (は)
+Sử dụng một phần: 安 (あ), 楽 (ら), 天 (て)
+
+Một ký tự diễn đạt hai âm tiết: 信 (しな), 覧 (らむ), 相 (さが)
+
+Shakkun kana (借訓仮名 - tá huấn giả danh), dựa trên cách đọc kun'yomi
+Một ký tự diễn đạt một âm tiết
+Sử dụng toàn bộ: 女 (め), 毛 (け), 蚊 (か)
+Sử dụng một phần: 石 (し), 跡 (と), 市 (ち)
+
+Một ký tự diễn đạt hai âm tiết: 蟻 (あり), 巻 (まく), 鴨 (かも)
+Một ký tự diễn đạt ba âm tiết: 慍 (いかり), 下 (おろし), 炊 (かしき)
+Hai ký tự diễn đạt một âm tiết: 嗚呼 (あ), 五十 (い), 可愛 (え), 二二 (し), 蜂音 (ぶ)
+Ba ký tự diễn đạt hai âm tiết: 八十一 (くく), 神楽声 (ささ)
+
+
+== Phát triển ==
+Các ký tự Kanji sử dụng trong man'yōgana sau này đã dẫn đến sự ra đời của hiragana và katakana. Hiragana được phát triển từ man'yōgana theo phong cách viết thảo; còn katakana được các nhà sư Phật giáo phát triển nên dựa trên các phần của các ký tự man'yōgana khi được dùng như một dạng tốc ký. Trong một số trường hợp, một ký tự man'yōgana này cho ra đời một ký tự hiragana ngày nay, nhưng một ký tự katakana có ngữ âm tương đương lại có nguồn gốc từ một ký tự man'yōgana khác; ví dụ, ký tự hiragana る (ru - rự) có nguồn gốc từ man'yōgana 留, trong khi ký tự katakana ル (ru - rự) lại bắt nguồn từ man'yōgana 流.
+Việc sử dụng nhiều từ kanji diễn đạt cho một âm tiết cho ra đời hentaigana (変体仮名 - biến thể giả danh) một hình thức trước của hiragana. Hentaigana chính thức không được sử dụng từ những năm 1900.
+Man'yōgana ngày nay vẫn còn xuất hiện trong một số tên địa danh ở Nhật Bản, đặc biệt như Kyūshū (九州). Một hệ thống tương tự man'yōgana, gọi là ateji (当て字), ngày nay vẫn tồn tại, với một số từ (gồm cả các từ mượn) được phát âm sử dụng kanji để biểu âm: ví dụ như, 倶楽部 (kurabu - câu lạc bộ), 珈琲 (kōhii - cà phê).
+
+
+== Xem thêm ==
+Tiếng Nhật
+Kana
+Kanji
+Hiragana
+Katakana
+Rōmaji
+Hentaigana
+Furigana
+Okurigana
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+(tiếng Nhật) Danh sách các man'yōgana

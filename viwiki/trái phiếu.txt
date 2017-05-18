@@ -1,0 +1,60 @@
+Trái phiếu là một chứng nhận nghĩa vụ nợ của người phát hành phải trả cho người sở hữu trái phiếu đối với một khoản tiền cụ thể (mệnh giá của trái phiếu), trong một thời gian xác định và với một lợi tức quy định. Người phát hành có thể là doanh nghiệp (trái phiếu trong trường hợp này được gọi là trái phiếu doanh nghiệp'), một tổ chức chính quyền như Kho bạc nhà nước (trong trường hợp này gọi là trái phiếu kho bạc), chính quyền (trong trường hợp này gọi là công trái hoặc trái phiếu chính phủ). Người mua trái phiếu, hay trái chủ, có thể là cá nhân hoặc doanh nghiệp hoặc chính phủ. Tên của trái chủ có thể được ghi trên trái phiếu (trường hợp này gọi là trái phiếu ghi danh) hoặc không được ghi (trái phiếu vô danh). Trái chủ là người cho nhà phát hành vay và họ không chịu bất cứ trách nhiệm nào về kết quả sử dụng vốn vay của người vay. Nhà phát hành có nghĩa vụ phải thanh toán theo các cam kết nợ được xác định trong hợp đồng vay.
+
+
+== Đặc điểm cơ bản ==
+Sau đây là các đặc điểm cơ bản của trái phiếu:
+Chủ thể phát hành trái phiếu không chỉ có Công ty, mà còn có Chính phủ Trung ương và chính quyền địa phương.
+Người mua trái phiếu chỉ là người cho chủ thể phát hành vay tiền và là chủ nợ của chủ thể phát hành trái phiếu. Khác với người mua cổ phiếu là người Chủ sở hữu Công ty.
+Thu nhập của trái phiếu là tiền lãi, là khoản thu cố định không phụ thuộc vào kết quả sản xuất kinh doanh của công ty.
+Trái phiếu là chứng khoán nợ, vì vậy khi Công ty bị giải thể hoặc phá sản thì trước hết Công ty phải có nghĩa vụ thanh toán cho các Chủ trái phiếu trước, sau đó mới chia cho các Cổ đông.
+Với những đặc điểm trên, trái phiếu có tính ổn định và chứa đựng ít rủi ro hơn cổ phiếu. Vì vậy, trái phiếu là loại chứng khoán được các nhà đầu tư ưa chuộng.
+
+
+== Đặc trưng ==
+Mệnh giá trái phiếu hay còn gọi là giá trị danh nghĩa của trái phiếu là giá trị ghi trên trái phiếu. Giá trị này được coi là số vốn gốc. Mệnh giá trái phiếu là căn cứ để xác định số lợi tức tiền vay mà người phát hành phải trả. Mệnh giá cũng thể hiện số tiền người phát hành phải hoàn trả khi trái phiếu đến hạn.
+Lãi suất danh nghĩa: Lãi suất trái phiếu thường được ghi trên trái phiếu hoặc người phát hành công bố được gọi là lãi suất danh nghĩa. Lãi suất này được xác định theo tỷ lệ phần trăm so với mệnh giá trái phiếu và cũng là căn cứ để xác định lợi tức trái phiếu.
+Thời hạn của trái phiếu là khoảng thời gian từ ngày phát hành đến ngày người phát hành hoàn trả vốn lần cuối. Trái phiếu có thời hạn khác nhau, trái phiếu trung hạn có thời gian từ 1 năm đến 5 năm. Trái phiếu dài hạn, có thời gian từ 5 năm trở lên.
+Kỳ trả lãi là khoảng thời gian người phát hành trả lãi cho người nắm giữ trái phiếu. Lãi suất trái phiếu được xác định theo năm, nhưng việc thanh toán lãi suất trái phiếu thường được mỗi năm hai hoặc một lần.
+Giá phát hành là giá bán ra của trái phiếu vào thời điểm phát hành. Thông thường giá phát hành được xác định theo tỷ lệ phần trăm (%) của mệnh giá. Tùy theo tình hình của thị trường và của người phát hành để xác định giá phát hành một cách thích hợp. Có thể phân biệt 3 trường hợp: giá phát hành bằng mệnh giá (ngang giá), giá phát hành dưới mệnh giá (giá chiết khấu)và giá phát hành trên mệnh giá (giá gia tăng).
+Dù trái phiếu được bán với giá nào (ngang giá, giá chiết khấu hay giá gia tăng), thì lợi tức luôn được xác định theo mệnh giá của trái phiếu và khi đáo hạn, người có trái phiếu sẽ được thanh toán theo mệnh giá của trái phiếu.
+
+
+== Phân loại Trái phiếu ==
+
+
+=== Phân loại theo người phát hành ===
+Trái phiếu của Chính phủ: Đáp ứng nhu cầu chi tiêu của Chính phủ, chính phủ phát hành trái phiếu để huy động tiền nhàn rỗi trong dân và các tổ chức kinh tế, xã hội. Chính phủ luôn được coi là Nhà phát hành có uy tín nhất trên thị trường; Vì vậy, Trái phiếu Chính phủ được coi là loại chứng khoán có ít rủi ro nhất.
+Trái phiếu của doanh nghiệp là những trái phiếu do doanh nghiệp nhà nước, công ty cổ phần và công ty trách nhiệm hữu hạn phát hành để tăng vốn hoạt động. Trái phiếu doanh nghiệp có nhiều loại và rất đa dạng.
+Trái phiếu của ngân hàng và các tổ chức tài chính: các tổ chức này có thể phát hành trái phiếu để tăng thêm vốn hoạt động.
+
+
+=== Phân loại lợi tức trái phiếu ===
+Trái phiếu có lãi suất cố định là loại trái phiếu mà lợi tức được xác định theo một tỷ lệ phần trăm (%) cố định tính theo mệnh giá.
+Trái phiếu có lãi suất biến đổi (lãi suất thả nổi) là loại trái phiếu mà lợi tức được trả trong các kỳ có sự khác nhau và được tính theo một lãi suất có sự biến đổi theo một lãi suất tham chiếu.
+Trái phiếu có lãi suất bằng không là loại trái phiếu mà người mua không nhận được lãi, nhưng được mua với giá thấp hơn mệnh giá (mua chiết khấu) và được hoàn trả bằng mệnh giá khi trái phiếu đó đáo hạn.
+
+
+=== Phân loại theo mức độ đảm bảo thanh toán của người phát hành ===
+Trái phiếu bảo đảm là loại trái phiếu mà người phát hành dùng một tài sản có giá trị làm vật đảm bảo cho việc phát hành. Khi nhà phát hành mất khả năng thanh toán, thì trái chủ có quyền thu và bán tài sản đó để thu hồi lại số tiền người phát hành còn nợ. Trái phiếu bảo đảm thường bao gồm một số loại chủ yếu sau:
+Trái phiếu có tài sản cầm cố là loại trái phiếu bảo đảm bằng việc người phát hành cầm cố một bất động sản để bảo đảm thanh toán cho trái chủ. Thường giá trị tài sản cầm cố lớn hơn tổng mệnh giá của các trái phiếu phát hành để đảm bảo quyền lợi cho trái chủ.
+Trái phiếu bảo đảm bằng chứng khoán ký quỹ là loại trái phiếu được bảo đảm bằng việc người phát hành thường là đem ký quỹ số chứng khoán dễ chuyển nhượng mà mình sở hữu để làm tài sản bảo đảm.
+
+Trái phiếu không bảo đảm là loại trái phiếu phát hành không có tài sản làm vật bảo đảm mà chỉ bảo đảm bằng uy tín của người phát hành.
+
+
+=== Phân loại dựa vào hình thức trái phiếu ===
+Trái phiếu vô danh là loại trái phiếu không ghi tên của người mua và trong sổ sách của người phát hành. Trái chủ là người được hưởng quyền lợi.
+Trái phiếu ghi danh là loại trái phiếu có ghi tên của người mua và trong sổ sách của người phát hành.
+
+
+=== Phân loại dựa vào tính chất trái phiếu ===
+Trái phiếu có thể chuyển đổi là loại trái phiếu của công ty cổ phần mà trái chủ được quyền chuyển sang cổ phiếu của công ty đó. Việc này được quy định cụ thể về thời gian và tỷ lệ khi mua trái phiếu.
+Trái phiếu có quyền mua cổ phiếu là loại trái phiếu có kèm theo phiếu cho phép trái chủ được quyền mua một số lượng nhất định cổ phiếu của công ty.
+Trái phiếu có thể mua lại là loại trái phiếu cho phép nhà phát hành được quyền mua lại một phần hay toàn bộ trước khi trái phiếu đến hạn thanh toán.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trái phiếu doanh nghiệp chuyển đổi: Nhiều rủi ro tiềm ẩn, Báo điện tử VNMedia, Cập nhật lúc 10 giờ 47 phút, ngày 27 tháng 02 năm 2010.

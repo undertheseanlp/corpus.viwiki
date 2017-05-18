@@ -1,0 +1,22 @@
+Âm tiết là một đơn vị cấu tạo nên một sự phối hợp trong tiếng nói. Ví dụ, từ Latinh được kết hợp từ hai âm tiết: la và tinh. Một âm tiết điển được cấu tạo từ một nhân âm tiết (thông thường nhất là một nguyên âm) và giới hạn trước và sau không bắc buộc (điển hình là các phụ âm).
+Một từ gồm một âm tiết (như nước trong tiếng Việt) được gọi là đơn âm tiết (những từ như vậy được gọi là từ đơn âm tiết), trong khi những từ gồm hai âm tiết trở lên (ví dụ tivi) được gọi là đa âm tiết (từ như vậy được gọi là từ đa âm tiết).
+
+
+== Tham khảo ==
+
+Bagemihl, Bruce (1991). “Syllable structure in Bella Coola”. Linguistic Inquiry 22: 589–646. 
+Clements, George N.; Keyser, Samuel J.. (1983). CV phonology: A generative theory of the syllable. Linguistic inquiry monographs (No. 9). Cambridge, MA: MIT Press. ISBN 0-262-53047-3 (pbk); ISBN 0-262-03098-5 (hb)
+Dell, François; Elmedlaoui, Mohamed (1985). “Syllabic consonants and syllabification in Imdlawn Tashlhiyt Berber”. Journal of African Languages and Linguistics 7: 105–130. doi:10.1515/jall.1985.7.2.105. 
+Dell, François; Elmedlaoui, Mohamed (1988). “Syllabic consonants in Berber: Some new evidence”. Journal of African Languages and Linguistics 10: 1–17. doi:10.1515/jall.1988.10.1.1. 
+Ladefoged, Peter (2001). A course in phonetics (ấn bản 4). Fort Worth: Harcourt College Publishers. ISBN 0-15-507319-2. 
+
+
+== Liên kết ngoài ==
+Online Lyric Hyphenator - Separates English text into syllables
+What is a syllable? (SIL)
+Do syllables have internal structure? What is their status in phonology? CUNY Phonology Forum
+What is a syllabic consonant? (SIL)
+What is an onset? (SIL)
+What is a rime? (SIL)
+Syllable (Lexicon of Linguistics)
+Onset (Lexicon of Linguistics)

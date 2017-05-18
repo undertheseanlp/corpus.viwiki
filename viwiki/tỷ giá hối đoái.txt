@@ -1,0 +1,125 @@
+Tỷ giá hối đoái (còn được gọi là tỷ giá trao đổi ngoại tệ, tỷ giá Forex, tỷ giá FX hoặc Agio) giữa hai tiền tệ là tỷ giá mà tại đó một đồng tiền này sẽ được trao đổi cho một đồng tiền khác. Nó cũng được coi là giá cả đồng tiền của một quốc gia được biểu hiện bởi một tiền tệ khác. Ví dụ, một tỷ giá hối đoái liên ngân hàng của yên Nhật (JPY, ¥) với đô la Hoa Kỳ (US$) là 91 có nghĩa là 91 Yên sẽ được trao đổi cho mỗi 1 USD hoặc 1 USD sẽ được trao đổi cho mỗi 91 Yên. Gọi là giá cả vì Tỷ giá hối đoái được xác định trong thị trường ngoại hối, rộng mở cho một loạt loại người mua và người bán khác nhau nơi việc trao đổi tiền tệ là liên tục: 24 giờ một ngày, ngoại trừ những ngày cuối tuần, tức là giao dịch từ 20:15 GMT Chủ nhật cho đến 22:00 GMT thứ Sáu. Tỷ giá giao ngay đề cập đến tỷ giá hối đoái hiện hành. Tỷ giá kỳ hạn đề cập đến một tỷ giá được báo giá và trao đổi hôm nay nhưng cho giao hàng và thanh toán vào một ngày trong tương lai cụ thể. Để ổn định nền kinh tế trong nước thì phải điều chỉnh giá đồng nội tệ sao cho hợp lý. Nếu đồng nội tệ lên giá sẽ làm cho hàng hóa nhập khẩu rẻ hơn, do đó người dân có xu hướng tiêu dùng hàng nhập khẩu nhiều hơn, làm hạn chế hoạt động xuất khẩu, thu hẹp sản xuất trong nước, mặc dù giảm lạm phát nhưng thất nghiệp gia tăng. Nếu đồng nội tệ mất giá, thì lạm phát lên cao.
+Trong thị trường ngoại hối bán lẻ, tỷ giá mua vào và tỷ giá bán ra khác nhau sẽ được báo giá bởi các đại lý đổi tiền. Hầu hết các trao đổi đều liên quan đến đồng nội tệ. Tỷ giá mua vào là tỷ giá mà các đại lý đổi tiền sẽ mua ngoại tệ và tỷ giá bán ra là tỷ giá mà họ sẽ bán ngoại tệ. Tỷ giá được báo giá sẽ kết hợp dự phòng cho biên của đại lý (hoặc lợi nhuận) trong trao đổi, hoặc biên có thể được phục hồi trong hình thức của một "hoa hồng" hoặc trong một số cách khác. tỷ giá khác nhau cũng có thể được báo giá cho tiền mặt (thường chỉ ghi chú), một hình thức tài liệu (chẳng hạn như các séc du lịch) hoặc điện tử (ví dụ như mua bằng thẻ tín dụng). Tỷ giá cao hơn về các giao dịch tài liệu là do thời gian và chi phí thanh toán bù trừ tài liệu bổ sung, trong khi tiền mặt có sẵn để bán lại ngay lập tức. Một số đại lý, mặt khác, lại thích các giao dịch tài liệu bởi vì những mối quan tâm an ninh với tiền mặt.
+
+
+== Thị trường ngoại hối bán lẻ ==
+Mọi người có thể cần phải trao đổi tiền tệ trong một số tình huống. Ví dụ, người có ý định du hành đến nước khác có thể mua ngoại tệ tại một ngân hàng ở đất nước của họ, nơi họ có thể mua ngoại tệ tiền mặt, séc du lịch hoặc một thẻ du hành. Từ quầy đổi tiền địa phương mà họ chỉ có thể mua ngoại tệ tiền mặt. Tại điểm đến, du khách có thể mua tiền tệ địa phương tại sân bay, hoặc từ một đại lý hoặc thông qua máy ATM. Họ cũng có thể mua đồng nội tệ ở khách sạn, quầy đổi tiền địa phương, thông qua các máy ATM, hoặc tại một chi nhánh ngân hàng. Khi họ mua hàng trong một cửa hàng và họ không có tiền tệ địa phương, họ có thể sử dụng một thẻ tín dụng, mà thẻ này chuyển đổi sang đồng nội tệ của người mua theo tỷ giá hiện hành của nó. Nếu họ có séc du lịch hoặc thẻ du lịch theo đồng nội tệ, trao đổi phi tiền tệ là cần thiết. Sau đó, nếu một du khách có bất kỳ ngoại tệ nào còn lại khi họ trở về nhà, họ có thể muốn bán nó, và họ có thể làm tại ngân hàng địa phương của họ hoặc quầy đổi tiền. Tỷ giá hối đoái cũng như phí, lệ phí có thể thay đổi đáng kể trên mỗi giao dịch này, và tỷ giá hối đoái có thể thay đổi từ ngày này sang ngày khác.
+Có những thay đổi trong tỷ giá mua vào và tỷ giá bán ra được niêm yết đối với một loại tiền tệ giữa các đại lý ngoại hối và các hình thức trao đổi, và những thay đổi này có thể là đáng kể. Ví dụ, tỷ giá hối đoái tiêu dùng được sử dụng bởi Visa và MasterCard cung cấp mức giá hối đoái có lợi nhất, theo một nghiên cứu giao dịch tiền tệ được thực hiện bởi CardHub.com. Tổ chức này đã nghiên cứu các ngân hàng của người tiêu dùng ở Mỹ, và Travelex, cho thấy rằng các mạng lưới thẻ tín dụng tiết kiệm cho du khách khoảng 8% so với các ngân hàng và khoảng 15% so với các công ty sân bay.
+
+
+== Báo giá ==
+
+Một cặp tiền tệ là báo giá các giá trị tương đối của một đơn vị tiền tệ so với một đơn vị tiền tệ khác trên thị trường ngoại hối. Báo giá EUR/USD 1,2500 có nghĩa là 1 Euro đổi được 1,2500 USD. Ở đây, EUR được gọi là "tiền tệ cơ sở" hoặc "tiền tệ đơn vị", trong khi USD được gọi là "tiền tệ điều kiện" hoặc "tiền tệ làm giá".
+Có một quy ước thị trường xác định đâu là tiền tệ cơ sở và đâu là tiền tệ điều kiện. Trong hầu hết các nơi trên thế giới, theo thứ tự là: EUR - GBP - AUD - NZD - USD - những tiền tệ khác. Theo đó, một chuyển đổi từ EUR sang AUD, EUR là tiền tệ cơ sở, là AUD là tiền tệ điều kiện và tỷ giá hối đoái cho biết bao nhiêu đô la Úc sẽ phải thanh toán để nhận được 1 Euro. Síp và Malta đã được trích dẫn như là cơ sở đối với đồng USD và những đồng tiền khác gần đây đã được gỡ bỏ khỏi danh sách này khi họ tham gia vào khu vực đồng tiền chung châu Âu.
+Ở một số vùng của châu Âu và thị trường không chuyên nghiệp ở Anh, EUR và GBP được đảo ngược để GBP được trích dẫn như là tiền tệ cơ bản đối với đồng euro. Để xác định đó là đồng tiền cơ sở khi mà cả hai đồng tiền không được liệt kê (tức là cả hai đều là "đồng tiền khác"), quy ước thị trường là sử dụng đồng tiền cơ sở mà nó đưa ra một tỷ giá lớn hơn 1,000. Điều này tránh các vấn đề làm tròn số và tỷ giá hối đoái được báo giá hơn 4 chữ số thập phân. Có một số trường hợp ngoại lệ cho quy tắc này ví dụ Nhật Bản thường báo giá tiền tệ của họ như là cơ sở đối với các đồng tiền khác.
+Các báo giá sử dụng đồng nội tệ của một quốc gia làm đồng tiền tính giá (ví dụ, EUR 0,735342 = 1,00 USD trong khu vực châu Âu) được gọi là báo giá trực tiếp hoặc báo giá làm giá (từ quan điểm của nước đó)  và được sử dụng bởi hầu hết quốc gia.
+Các báo giá sử dụng đồng nội tệ của một quốc gia là đồng tiền đơn vị (ví dụ, EUR 1.00 = 1,35991 USD trong khu vực châu Âu) được gọi là báo giá gián tiếp hoặc báo giá số lượng và được sử dụng trên báo chí Anh và cũng rất phổ biến tại Úc, Tân Tây Lan và khu vực châu Âu.
+Sử dụng báo giá trực tiếp, nếu đồng nội tệ được tăng cường (ví dụ, đánh giá cao, hoặc trở nên có giá trị hơn) thì con số tỷ giá hối đoái giảm. Ngược lại, nếu đồng tiền nước ngoài được tăng cường, con số tỷ giá hối đoái tăng và đồng nội tệ là mất giá.
+Quy ước thị trường từ đầu những năm 1980 đến năm 2006 là hầu hết các cặp tiền tệ đã được báo giá đến 4 chữ số thập phân cho các giao dịch giao ngay và lên đến 6 chữ số thập phân cho các giao dịch kỳ hạn hoặc hoán đổi. (Số thập phân thứ tư thường được gọi là một "pip"). Một ngoại lệ là tỷ giá hối đoái với giá trị dưới 1,000 mà thường được báo giá tới 5 hoặc 6 chữ số thập phân. Mặc dù không có quy định, tỷ giá hối đoái cố định với một giá trị lớn hơn 20 thường được báo giá đến 3 chữ số thập phân và các đồng tiền có giá trị lớn hơn 80 đã được báo giá đến 2 chữ số thập phân. Các tiền tệ lớn hơn 5000 thường được báo giá không có chữ số thập phân (ví dụ như Lia Thổ Nhĩ Kỳ trước đây). ví dụ (GBPOMR: 0,765432 -: 1,4436 - EURJPY: 165,29). Nói cách khác, các báo giá được đưa ra với 5 chữ số. Khi nào có tỷ giá dưới 1, các báo giá thường bao gồm 5 chữ số thập phân.
+Năm 2005 Barclays Capital đã phá vỡ quy ước bằng cách cung cấp tỷ giá hối đoái giao ngay với 5 hoặc 6 chữ số thập phân trên nền tảng xử lý điện tử của họ. Sự co lại này của spreads (sự khác biệt giữa giá bán và giá mua) cho là đòi hỏi phải có giá cả tinh vi hơn và cho các ngân hàng khả năng cố gắng và giành chiến thắng giao dịch trên các nền tảng trao đổi đa ngân hàng nơi mà tất cả các ngân hàng có thể đã và đang báo giá cùng một mức giá. Một số ngân hàng khác hiện nay đã theo hệ thống này.
+
+
+== Chế độ tỷ giá ==
+
+Mỗi quốc gia, thông qua các cơ chế khác nhau, quản lý giá trị đồng tiền của mình. Như là một phần của chức năng này, nó quyết định chế độ tỷ giá hối đoái sẽ áp dụng cho đồng tiền của mình. Ví dụ, tiền có thể được thả nổi tự do, bị chốt hay cố định, hoặc kết hợp cả hai.
+Nếu một đồng tiền là thả nổi tự do, tỷ giá hối đoái được phép thay đổi so với các đồng tiền khác và được xác định bởi các lực cung và cầu thị trường. Tỷ giá hối đoái cho các đồng tiền như vậy có khả năng thay đổi gần như liên tục như được báo giá trên các thị trường tài chính, chủ yếu là bởi các ngân hàng, trên toàn thế giới.Theo tỷ giá trực tiếp, khi tỷ giá tăng, thì một đồng đổi được ít hơn đồng ngoại tệ hay có thể nói là đồng bản tệ giảm giá.
+Một hệ thống di chuyển hoặc chốt có thể điều chỉnh là một hệ thống các tỷ giá hối đoái cố định, nhưng với một điều khoản cho việc định giá lại (thường là giảm giá) của một đồng tiền. Ví dụ, từ năm 1994 đến năm 2005, đồng Nhân dân tệ Trung Quốc (RMB) với Hoa Kỳ đô la đã bị chốt tại 8,2768 Nhân dân tệ ăn 1 đô-la. Trung Quốc không phải là quốc gia duy nhất làm điều này; từ cuối Chiến tranh Thế giới II cho đến năm 1967, tất cả các nước Tây Âu duy trì tỷ giá hối đoái cố định với đồng đô la Mỹ dựa trên hệ thống Bretton Woods. [1] Nhưng hệ thống này đã phải bị hủy bỏ do ủng hộ của các chế độ tỷ giá hối đoái dựa trên thị trường, thả nổi do áp lực thị trường và suy đoán trong những năm 1970.
+Tuy nhiên, một số chính phủ vẫn cố giữ tiền tệ của họ trong một phạm vi hẹp. Kết quả là, tiền tệ trở thành bị đánh giá quá cao hay bị đánh giá quá thấp, dẫn đến thâm hụt hoặc thặng dư trao đổi quá mức.
+
+
+== Biến động tỷ giá hối đoái ==
+Một tỷ giá hối đoái dựa trên thị trường sẽ thay đổi bất cứ khi nào các giá trị của một trong hai tiền tệ thành phần thay đổi. Một đồng tiền sẽ có xu hướng trở nên có giá trị hơn bất cứ khi nào nhu cầu cho nó lớn hơn cung cấp có sẵn. Nó sẽ trở nên ít có giá trị bất cứ khi nào nhu cầu thấp hơn cung cấp có sẵn (điều này không có nghĩa là người ta không còn muốn tiền, nó chỉ có nghĩa là họ muốn nắm giữ của cải của họ trong một số hình thức khác, có thể là một đồng tiền khác).
+Tăng nhu cầu về một loại tiền tệ có thể là do một trong hai giao dịch cầu tiền tăng hoặc một nhu cầu đầu cơ tăng đối với tiền. Nhu cầu giao dịch liên quan chặt chẽ đến mức độ hoạt động kinh doanh của một quốc gia, (GDP) tổng sản phẩm quốc nội, và mức độ việc làm. Càng nhiều người thất nghiệp, ít công chúng như một toàn thể sẽ chi tiêu vào hàng hóa và dịch vụ. Các ngân hàng trung ương thường có chút ít khó khăn điều chỉnh cung tiền có sẵn để cung cấp cho những thay đổi trong nhu cầu sử dụng tiền do các nghiệp vụ kinh doanh.
+Nhu cầu đầu cơ là khó khăn hơn nhiều đối với các ngân hàng trung ương để thích ứng, do chúng bị ảnh hưởng bởi sự điều chỉnh lãi suất. Một nhà đầu cơ có thể mua một đồng tiền nếu trả lại (có nghĩa là lãi suất) là đủ cao. Nói chung, nếu lãi suất của một quốc gia càng cao, nhu cầu đối với đồng tiền đó sẽ càng lớn. Có lập luận cho rằng đầu cơ như vậy có thể làm giảm tăng trưởng kinh tế thực sự, đặc biệt là do các nhà đầu cơ tiền tệ lớn cố tình có thể tạo ra áp lực giảm một đồng tiền bằng cách bán khống để buộc ngân hàng trung ương đó mua tiền tệ của mình để giữ cho nó ổn định. (Khi điều đó xảy ra, nhà đầu cơ này có thể mua đồng tiền trở lại sau khi nó mất giá, đóng vị trí của họ, và do đó có lợi nhuận.)
+Đối với các công ty vận tải vận chuyển hàng hóa từ một quốc gia này tới một quốc gia khác, tỷ giá hối đoái thường có thể ảnh hưởng nghiêm trọng tới họ. Vì vậy, hầu hết các nhà vận chuyển có một hệ số điều chỉnh tiền tệ (CAF) tính vào tài khoản cho những biến động này.
+
+
+== Sức mua của đồng tiền ==
+Tỷ giá hối đoái thực tế (RER) là sức mua của một đồng tiền so với các đồng tiền khác. Nó được dựa trên số giảm phát GDP đo lường mức giá tại các quốc gia trong và ngoài nước (
+  
+    
+      
+        P
+        ,
+        
+          P
+          
+            f
+          
+        
+      
+    
+    {\displaystyle P,P^{f}}
+  ), được tự đặt ra bằng một trong một năm cơ sở nhất định. Do đó, mức độ của RER được tự đặt ra tùy thuộc vào năm được chọn là năm cơ sở cho giảm phát GDP của hai nước. Những thay đổi của RER thay vào đó là thông tin về sự tiến hóa theo thời gian của giá tương đối của một đơn vị GDP ở nước ngoài trong các điều khoản của các đơn vị GDP trong nước của quốc gia. Nếu tất cả các hàng hóa được trao đổi tự do, người dân nước ngoài và trong nước mua giỏ hàng hóa giống hệt nhau, sức mua tương đương (PPP) sẽ nắm giữ số giảm phát GDP của hai nước này, và RER sẽ là không đổi và bằng một.
+
+
+== Tỷ giá hối đoái song phương và tỷ giá hối đoái hiệu quả ==
+
+Tỷ giá hối đoái song phương liên quan đến một cặp tiền tệ, trong khi tỷ giá hối đoái hiệu quả là bình quân gia quyền của một rổ ngoại tệ, và nó có thể được xem như là một số đo tổng hợp của năng lực cạnh tranh đối ngoại của quốc gia. Một tỷ giá hối đoái hiệu quả danh nghĩa (NEER) được gia quyền với tỉ lệ nghịch với khối lượng trao đổi tiệm cận. Một tỷ giá hối đoái hiệu quả thực (REER) điều chỉnh NEER bởi mức giá nước ngoài thích hợp và xả hơi bằng mức giá quốc nội. So với NEER, một GDP được gia quyền tỷ giá hối đoái hiệu quả có thể thích hợp hơn khi xem xét hiện tượng đầu tư toàn cầu.
+
+
+== Tương đương lãi suất không bị kiểm soát ==
+
+Tương đương lãi suất không bị kiểm soát (UIRP) cho rằng một sự đánh giá cao hoặc làm mất giá của đồng tiền này so với đồng tiền khác có thể bị vô hiệu hóa bởi một sự thay đổi trong sự khác biệt lãi suất. Nếu lãi suất của Mỹ tăng trong khi lãi suất của Nhật Bản vẫn không thay đổi thì đồng đô la Mỹ sẽ có thể mất giá so với đồng yên Nhật Bản bởi một số lượng ngăn chặn chênh lệch (trong thực tế điều ngược lại, sự đánh giá cao, xảy ra khá thường xuyên trong ngắn hạn, như được giải thích dưới đây). Tỷ giá hối đoái tương lai được phản ánh vào tỷ giá kỳ hạn được nói hôm nay. Trong ví dụ của chúng ta, tỷ giá hối đoái kỳ hạn của đồng đô la được cho là một sự giảm giá bởi vì nó mua được ít yên Nhật hơn trong tỷ giá kỳ hạn so với trong tỷ giá giao ngay. Đồng yên được cho là được đánh giá cao.
+UIRP không cho thấy có bằng chứng hoạt động kể từ những năm 1990. Trái với lý thuyết này, các đồng tiền có lãi suất cao thường được đánh giá cao một cách đặc trưng hơn là bị đánh giá thấp để có được lợi ích từ việc ngăn chặn lạm phát và một đồng tiền có lợi suất cao.
+
+
+== Mô hình cán cân thanh toán ==
+Mô hình cán cân thanh toán cho rằng tỷ giá hối đoái đang ở mức cân bằng nếu chúng tạo ra số dư tài khoản vãng lai ổn định. Một quốc gia với một thâm hụt trao đổi sẽ bị giảm trong dự trữ ngoại hối của nó, mà cuối cùng làm giảm (mất giá) giá trị của đồng tiền của nó. Một đồng tiền rẻ hơn (bị định giá thấp) làm cho hàng hóa của quốc gia này (xuất khẩu) có giá cả phải chăng hơn trên thị trường toàn cầu trong khi làm cho hàng nhập khẩu đắt tiền hơn. Sau một thời gian trung gian, nhập khẩu sẽ bị buộc phải giảm xuống và xuất khẩu tăng lên, do đó ổn định cán cân trao đổi và mang tiền tệ này về với trạng thái cân bằng.
+Giống như sức mua tương đương, mô hình cán cân thanh toán tập trung chủ yếu vào các hàng hóa và dịch vụ có thể trao đổi, bỏ qua vai trò ngày càng tăng của các dòng vốn toàn cầu. Nói cách khác, tiền không chỉ chạy theo hàng hóa và dịch vụ, mà còn ở một mức độ lớn hơn, theo các tài sản tài chính như cổ phiếu và trái phiếu. Dòng chảy của chúng mục tài khoản vốn của cán cân thanh toán, do đó cán cân thâm hụt trong tài khoản vãng lai. Sự gia tăng trong các dòng vốn đã làm tăng mô hình thị trường tài sản.
+
+
+== Mô hình thị trường tài sản ==
+
+Khối lượng trao đổi ngày càng tăng của các tài sản tài chính (cổ phiếu và trái phiếu) đã yêu cầu tính toán lại các tác động của nó trên tỷ giá hối đoái. Các biến số kinh tế như tăng trưởng kinh tế, lạm phát và năng suất không còn là các dẫn dắt duy nhất của các chuyển dịch tiền tệ. Tỷ lệ các giao dịch ngoại hối xuất phát từ trao đổi xuyên biên giới các tài sản tài chính đã làm lu mờ mức độ các giao dịch tiền tệ được tạo ra từ trao đổi hàng hoá và dịch vụ.
+Phương pháp tiếp cận thị trường tài sản xem tiền tệ như các giá tài sản được trao đổi trong một thị trường tài chính hiệu quả. Do đó, tiền tệ đang ngày càng thể hiện một tương quan mạnh mẽ với các thị trường khác, đặc biệt là thị trường vốn cổ phần.
+Như trên sàn giao dịch chứng khoán, tiền có thể được làm ra (hoặc mất đi) trong trao đổi bởi các nhà đầu tư và các nhà đầu cơ trong thị trường ngoại hối. Tiền tệ có thể được trao đổi trên các thị trường giao ngay và các thị trường quyền chọn ngoại hối. Các thị trường giao ngay đại diện cho tỷ giá hối đoái hiện tại, trong khi các quyền chọn là các phái sinh của tỷ giá hối đoái.
+
+
+== Thao túng tỷ giá hối đoái ==
+
+Một quốc gia có thể đạt được lợi thế trong thương mại quốc tế nếu nó thao túng thị trường ngoại hối đối với đồng tiền của mình để giữ giá trị của nó thấp một cách giả tạo, thường là bởi tham gia ngân hàng trung ương quốc gia vào hoạt động thị trường mở. Điều này đã được lập luận bởi các nhà lập pháp Mỹ rằng Cộng hòa Nhân dân Trung Hoa đã và đang hành động theo cách đó trong một thời gian dài.
+Trong năm 2010, các quốc gia khác, bao gồm Nhật Bản và Bra-xin, cố gắng phá giá đồng tiền của họ với hy vọng giảm chi phí xuất khẩu và do đó củng cố nền kinh tế ốm yếu của họ. Một tỷ giá hối đoái thấp (được định giá thấp) làm giảm giá hàng hóa của một quốc gia đối với người tiêu dùng ở các nước khác nhưng làm tăng giá hàng hóa, đặc biệt là hàng nhập khẩu, đối với người tiêu dùng trong nước đang thao túng ngoại hối.
+
+
+== Các nhân tố ảnh hưởng đến sự biến động của tỷ giá hối đoái ==
+Mức chênh lệch lạm phát giữa hai nước.
+Mức độ tăng (giảm)thu nhập quốc dân giữa hai nước.
+Mức chênh lệch lãi suất giữa hai nước.
+Những kỳ vọng về tỷ giá hối đoái trong tương lai.
+Sự can thiệp của nhà nước bằng các chính sách tỷ giá của mỗi quốc gia.
+
+
+== Các chế độ tỷ giá hối đoái ==
+Tỷ giá hối đoái cố định.
+Tỷ giá hối đoái thả nổi
+Tỷ giá hối đoái thả nổi có điều tiết
+
+
+== Các nhân tố ảnh hưởng đến tỷ giá hối đoái ==
+Mức chênh lệch lạm phát giữa các quốc gia.
+Mức độ tăng hay giảm thu nhập quốc dân giữa các nước
+Mức chênh lệch lãi suất giữa các nước.
+Những dự đoán về tỷ giá hối đoái.
+Tình trạng cán cân thanh toán quốc tế.
+Sự can thiệp của chính phủ.
+Can thiệp vào thương mại quốc tế.
+Can thiệp vào đầu tư quốc tế.
+Can thiệp trực tiếp vào thị trường ngoại hối.
+
+Các nhân tố khác:Khủng hoảng kinh tế, xã hội, đình công,thiên tai...
+
+
+== Danh sách một số loại tiền nội tệ của các quốc gia trên thế giới theo tỷ giá hối đoái ==
+tỷ giá hối đoái giữa các loại tiền nội tệ của các quốc gia so với đồng dollar Mỹ các năm 2009 và 2011 được cập nhật theo năm, lấy mốc ngày đầu tiên của mỗi năm (ngày 1 tháng 1).
+
+
+== Tham khảo ==
+
+Krugman, Paul R. and Obstfeld, Maurice (2005), International Economics: Policy and Theory, Seventh Edition, Addison Wesley.
+Oliver, Blanchard(2007) Macroeconomics, Fourth Edition
+
+
+== Liên kết ngoài ==
+Xem tỷ giá hối đoái hạch toán tại trang tin điện tử của Bộ Tài chính Việt Nam
+Tỷ giá tại trang tin điện tử của Ngân hàng Nhà nước Việt Nam

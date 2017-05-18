@@ -88,7 +88,7 @@ if __name__ == '__main__':
     wikipedia.set_lang("vi")
     load_context()
     start = time.time()
-    num_pages=10000
+    num_pages=3000
     crawl(recrawl=False, num_pages=num_pages)
     end = time.time()
     print("Get %d pages in %s seconds." % (num_pages, end - start))

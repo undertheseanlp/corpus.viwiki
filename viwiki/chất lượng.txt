@@ -1,0 +1,13 @@
+"Chất lượng" là một phạm trù phức tạp và có nhiều định nghĩa khác nhau. Có rất nhiều quan điểm khác nhau về chất lượng. Hiện nay có một số định nghĩa về chất lượng đã được các chuyên gia chất lượng đưa ra như sau:
+" Chất lượng là sự phù hợp với nhu cầu" (theo Juran - một Giáo sư người Mỹ).
+" Chất lượng là sự phù hợp với các yêu cầu hay đặc tính nhất định" Theo Giáo sư Crosby.
+" Chất lượng là sự sự thoả mãn nhu cầu thị trường với chi phí thấp nhất" Theo Giáo sư người Nhật – Ishikawa.
+Trong mỗi lĩnh vực khác nhau, với mục đích khác nhau nên có nhiều quan điểm về chất lượng khác nhau. Tuy nhiên, có một định nghĩa về chất lượng được thừa nhận ở phạm vi quốc tế, đó là định nghĩa của Tổ chức Tiêu chuẩn hoá Quốc tế. Theo điều 3.1.1 của tiêu chuẩn ISO 9000:2005 định nghĩa chất lượng là: "Mức độ đáp ứng các yêu cầu của một tập hợp có đặc tính vốn có"
+Chất lượng là khái niệm đặc trưng cho khả năng thoả mãn nhu cầu của khách hàng. Vì vậy, sản phẩm hay dịch vụ nào không đáp ứng được nhu cầu của khách hàng thì bị coi là kém chất lượng cho dù trình độ công nghệ sản xuất ra có hiện đại đến đâu đi nữa. Đánh giá chất lượng cao hay thấp phải đứng trên quan điểm người tiêu dùng. Cùng một mục đích sử dụng như nhau, sản phẩm nào thoả mãn nhu cầu tiêu dùng cao hơn thì có chất lượng cao hơn.
+Yêu cầu của khách hàng đối với sản phẩm hay dịch vụ thường là: tốt, đẹp, bền, sử dụng lâu dài, thuận lợi, giá cả phù hợp.
+
+
+== Chú thích ==
+
+
+== Tham khảo ==

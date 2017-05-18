@@ -1,0 +1,11 @@
+Chữ Braille là hệ thống chữ nổi được đa số người mù và người khiếm thị sử dụng.
+Chữ Braille được Louis Braille phát minh năm 1821. Mỗi chữ Braille được tạo thành từ 6 điểm, các điểm này được sắp xếp một trong khung hình chữ nhật gồm 2 cột và 3 dòng. Tập hợp các điểm nổi/chìm trong 6 vị trí sẽ tạo ra một bộ 64 (26) kiểu.
+
+
+== Xem thêm ==
+Hệ thống chữ nổi tiếng Việt
+
+
+== Tham khảo ==
+
+Bản mẫu:Braille Bản mẫu:Hệ thống chữ viết

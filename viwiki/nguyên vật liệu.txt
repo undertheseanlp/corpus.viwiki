@@ -1,0 +1,17 @@
+Nguyên vật liệu là đối tượng lao động do doanh nghiệp mua, dự trữ để phục vụ quá trình sản xuất, kinh doanh tạo ra sản phẩm.
+Đặc điểm:
+Các nguyên vật liệu sẽ thay đổi về hình thái, không giữ nguyên được trạng thái ban đầu khi đưa vào sản xuất.
+Các nguyên vật liệu tham gia trực tiếp vào quá trình sản xuất kinh doanh (một chu kỳ sản xuất kinh doanh).
+Toàn bộ giá trị của nguyên vật liệu được chuyển trực tiếp vào sản phẩm, là căn cứ cơ sở để tính giá thành.
+
+Phân loại nguyên vật liệu:
+Theo nguồn gốc hình thành:
+Nguyên vật liệu tự nhiên.
+Nguyên vật liệu nhân tạo.
+
+Theo công dụng kinh tế:
+Nguyên vật liệu chính.
+Nguyên vật liệu phụ.
+
+
+== Tham khảo ==

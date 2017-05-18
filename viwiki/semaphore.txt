@@ -1,0 +1,33 @@
+Semaphore hay tạm gọi là truyền tin thị giác (optical telegraph) là một công cụ dùng để truyền tin qua phương tiện tín hiệu nhìn thấy được với tháp cao cùng với các phiến quay quanh trục (pivoting blades) hay các cánh quạt (paddles), các cửa chớp (shutters) trong một hình thể ma trận (matrix), hoặc là các cờ cầm tay...Thông tin được mã hóa theo vị trí của các thành phần cơ học; nó được đọc khi các phiến hoặc cờ nằm ở một vị trí đã ấn định.
+Trong thời hiện đại, nó thường được ám chỉ đến một hệ thống truyền tín hiệu bằng hai lá cờ cầm tay. Hệ thống semaphore dùng hai cán cờ ngắn có cờ hình vuông là một trong các phần cơ bản của kỹ thuật Hướng đạo.
+Những hình thức tín hiệu thị giác khác còn có cờ hiệu hàng hải, đèn hiệu, và gương hiệu.
+Semaphore ra đời trước điện tín. Chúng nhanh hơn người đưa tin đi bằng ngựa trên một quãng đường xa, nhưng phí tổn nhiều và ít được bảo mật hơn điện tín mà thay thế nó sau đó. Khoảng cách mà một tín hiệu thị giác có thể truyền đi bị hạn chế bởi địa hình và thời tiết, vì vậy đa số các phương tiện truyền tín hiệu thị giác trong thực tế thường sử dụng nhiều trạm tiếp vận để nối liên lạc những khoảng cách xa hơn.
+
+
+== Semaphore hiện đại ==
+Hệ thống semaphore mới hơn dùng hai cờ hình vuông có cán ngắn. Một người cầm cờ giữ chúng ở các vị trí khác nhau để truyền đi các mẫu tự và các số. Người cầm cờ giữ mỗi cờ trong mỗi tay, và đưa mỗi cánh tay của mình ở một trong 7 vị trí, các vị trí kế tiếp nhau cách nhau một góc 45 độ. Trừ khi ở vị trí nghỉ, hai cờ không thể chồng lên nhau. Màu cờ thì khác nhau dựa vào tín hiệu được truyền đi ở trên biển hay trên bờ. Màu đỏ và vàng cho cờ dùng ở biển trong khi màu trắng và xanh dương được dùng trên bờ.
+
+
+==== Các mẫu tự Semaphore ====
+Các mẫu tự Semaphore sau đây được biểu thị như bạn đang đối diện với người cầm cờ:
+
+
+== Đọc thêm ==
+The Old Telegraphs, Geoffrey Wilson, Phillimore & Co Ltd 1976 ISBN 0900592796
+Faster Than The Wind, The Liverpool to Holyhead Telegraph, Frank Large, an avid publication ISBN 0952102099
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Semaphore translator (applet) Interactive and animated semaphore translation applet.
+Chappe's semaphore (an illustrated history of optical telegraphy)
+The Early History of Data Networks - England and Ireland
+The Origin of the Railway Semaphore
+The Royal Signals Org.UK Datasheets
+Webpage including a map of England's telegraph chains
+Luyện semaphore trực tuyến Học và luyện semaphore online
+Phần mềm luyện semaphore cho android Phần mềm luyện semaphore cho android
+Dịch semarphore trực tuyến
+RFC 4824 The Transmission of IP Datagrams over the Semaphore Flag Signaling System (SFSS)

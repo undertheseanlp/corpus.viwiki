@@ -1,0 +1,20 @@
+Thiết bị điện tử là các công cụ điện tử được tạo từ các vật Dẫn điện và Bán dẫn điện bao gồm:
+
+
+== Thiết bị điện tử tạo từ Dẫn điện ==
+Điện trở:r rr Thiết bị điện có khả năng làm giảm dòng điện.
+Tụ điện: T ll exhiết bị điện có khả năng lưu trữ điện dưới dạng điện trường.
+Cuộn cảm (Cuộn từ): Thiết bị điện có khả năng lưu trữ điện dưới dạng từ trường.
+Công Tắc: Thiết bị điện có khả năng đóng mở mạch điện
+Cầu Chì: Thiết bị điện có khả năng hở (ngắt) mạch điện khi dòng điện đi qua cầu chì vượt quá mức dẫn điện của cầu chì.
+Biến điện: Thiết bị điện có khả năng tăng, giảm, dẫn điện.
+
+
+== Thiết bị điện tử tạo từ Bán dẫn điện ==
+Điốt
+Tranzito
+FET, JFET, MOSFET
+IC
+
+
+== Tham khảo ==

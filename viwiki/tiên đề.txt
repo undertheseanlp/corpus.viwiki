@@ -1,0 +1,31 @@
+Một tiên đề trong toán học là một đề xuất được coi như luôn đúng mà không thể và không cần chứng minh.
+Một hệ thống tiên đề hay gọn hơn hệ tiên đề là một tập hữu hạn các tiên đề thoả mãn điều kiện là các suy diễn logic trên hệ thống tiên đề này không thể xảy ra mâu thuẫn.
+
+
+== Sự cần thiết của tiên đề ==
+Tiên đề là điều kiện cần thiết để xây dựng bất cứ một lý thuyết nào. Bất cứ một khẳng định (hay đề xuất) nào đưa ra đều cần được giải thích hay xác minh bằng một khẳng định khác. Và vì nếu một khẳng định được giải thích hay xác minh bằng chính nó thì khẳng định đó sẽ không có giá trị, nên cần có một số vô hạn các khẳng định để giải thích bất kì một khẳng định nào. Vì thế cần phải có một (hay một số) khẳng định được công nhận là đúng để làm chỗ bắt đầu và đưa quá trình suy diễn từ vô hạn về hữu hạn. Tương tự như vậy, bất cứ sự suy luận hay giao tiếp nào của con người cũng cần có điểm xuất phát chung. Tiên đề thuộc vào nhóm những yếu tố đầu tiên này. Một số yếu tố khác là: định nghĩa, quan hệ, v.v.
+Lưu ý:
+Euclid nhận thấy sự cần thiết này khi xây dựng hình học của mình, do đó ông đưa ra hệ thống tiên đề đầu tiên trong lịch sử: hệ tiên đề Euclid. Trong bộ "Cơ bản" của mình, ông nêu ra 23 định nghĩa, 5 tiên đề và 5 định đề. Sau này người ta thống nhất chung một tên gọi là tiên đề.
+Tiên đề cũng được sử dụng trong các ngành khoa học khác như: vật lý, hoá học, ngôn ngữ học, v.v.
+
+
+== Tiên đề trong toán học ==
+Nổi tiếng nhất là tiên đề V của Euclide. Nội dung của tiên đề này là: Nếu hai đường thẳng tạo với một đường thẳng thứ ba hai góc trong cùng phía có tổng nhỏ hơn 180o thì chúng sẽ cắt nhau về phía đó.
+
+
+== Tiên đề trong vật lý ==
+
+
+== Xem thêm ==
+Định nghĩa
+Hệ tiên đề Euclide
+Hệ tiên đề Hilbert
+Hệ tiên đề Einstein
+Hệ tiên đề số học
+Tiên đề chọn
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

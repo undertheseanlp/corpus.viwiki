@@ -1,0 +1,32 @@
+Trong kế toán, một tài khoản là một nhãn dùng để ghi chép lại và báo cáo về số lượng của gần như bất cứ thứ gì có giá trị bằng tiền trong doanh nghiệp. Thông thường nó là một bản ghi số tiền sở hữu hoặc nợ đối với một đối tượng cụ thể, hoặc được phân phối cho một mục đích đặc thù. Nó đại diện cho một số tiền thực tế nắm giữ hoặc đại diện cho một số lước lượng về giá trị tài sản, hoặc kết hợp những điều trên.
+
+
+== Các loại tài khoản ==
+Tài khoản Tài sản: Đại diện cho các nguồn lực kinh tế khác nhau mà doanh nghiệp sở hữu. Ví dụ như tiền mặt, tiền gửi ngân hàng, nhà cửa, kho bãi, khoản phải thu,...
+Tài sản ngắn hạn (tài khoản loại 1).
+Tài sản dài hạn (tài khoản loại 2).
+
+Tài khoản Nợ (nợ phải trả - tài khoản loại 3): Đại diện cho các loại nợ khác nhau của doanh nghiệp. Ví dụ như khoản phải trả, khoản vay, lãi phải trả,...
+Tài khoản Vốn chủ sở hữu (tài khoản loại 4): Đại diện vốn của chủ sở hữu doanh nghiệp đã góp sau khi trừ hết các khoản nợ trong tài sản, bao gồm cả lợi nhuận giữ lại và khoản dự phòng.
+Tài khoản Doanh thu (tài khoản loại 5): Đại diện cho khoản thu của doanh nghiệp. Ví dụ như doanh thu, doanh thu dịch vụ, tiền lãi nhận được,...
+Tài khoản Chi phí (chi phí sản xuất kinh doanh - tài khoản loại 6): Đại diện cho các khoản chi của doanh nghiệp trong hoạt động kinh doanh. Ví dụ như tiền điện, tiền nước, tiền thuê văn phòng, khấu hao, lãi vay, bảo hiểm,...
+Tài khoản Thu nhập khác (tài khoản loại 7).
+Tài khoản Chi phí khác (tài khoản loại 8).
+Xác định kết quả sản xuất kinh doanh (tài khoản loại 9).
+Tài khoản ngoài bảng (tài khoản loại 0)
+Tài khoản đại diện cho các giao dịch tài chính và phi tài chính của một doanh nghiệp, để xác định kết quả đầu tư của nhà đầu tư.
+
+
+== Xem thêm ==
+Kế toán
+Kế toán đơn
+Kế toán kép
+Bảng tài khoản
+
+
+== Tham khảo ==
+
+Hệ thống tài khoản mới nhất công bố theo quyết định số 15/2006/QĐ-BTC
+
+
+== Liên kết ngoài ==

@@ -1,0 +1,46 @@
+Bảng chữ cái Ả Rập (tiếng Ả Rập: أبجدية عربية ’abjadiyyah ‘arabiyyah) là hệ thống chữ viết được sử dụng cho chữ viết của nhiều ngôn ngữ ở châu Á và châu Phi, như Ả Rập và Urdu. Sau Bảng chữ cái Latinh, nó là bảng chữ cái được sử dụng rộng rãi thứ hai trên toàn thế giới. Bảng chữ cái được sử dụng đầu tiên trong các văn bản ở Ả Rập, đáng chú ý là Qurʼan,kinh thánh của đạo Hồi. Với sự truyền bá đạo Hồi, nó đã được sử dụng cho nhiều ngôn ngữ của các họ ngôn ngữ.
+
+
+== Phụ âm ==
+Bảng chữ cái tiếng Ả Rập cơ bản chứa 28 ký tự. Các bản mở rộng của tiếng Ả Rập cho các ngôn ngữ khác được thêm vào và loại bỏ một số chữ cái, như bảng chữ cái tiếng Ba Tư, Kurd Ottoman, Sindhi, Urdu, Malaysia, tiếng Pashto, và Arabi Malayalam, tất cả đều có chữ thêm như hình dưới đây. Không có khác nhau giữa chữ lớn và chữ nhỏ.
+Nhiều chữ cái nhìn tương tự nhưng được phân biệt với nhau bằng dấu chấm (i'jām) ở trên hoặc dưới trung tâm của chữ (rasm). Những dấu chấm là một phần không thể thiếu trong một chữ, dùng để phân biệt giữa các ký tự đại diện cho âm thanh khác nhau. Ví dụ, các chữ cái tiếng Ả Rập phiên âm như b và t có hình dạng cơ bản giống nhau, nhưng b có một dấu chấm ở dưới, ب, và t có hai chấm ở trên, ت.
+Cả hai dạng chữ in và viết tay của chữ Ả Rập đều là chữ thảo, với hầu hết các chữ cái trong một từ kết nối trực tiếp đến các chữ liền kề.
+
+
+=== Trật tự chữ cái ===
+Có hai trật tự chính cho bảng chữ cái tiếng Ả Rập, abjad và hija.
+Trình tự ban đầu abjadī (أبجدي), sử dụng cho các ký tự, xuất phát từ thứ tự của bảng chữ cái Phoenician, và do đó cũng tương tự như thứ tự của các bảng chữ cái có nguồn gốc từ Phoenician khác, chẳng hạn như bảng chữ cái Hebrew. Theo thứ tự này, chữ cái cũng được sử dụng như chữ số. Chúng được gọi là chữ số Abjad và nó bao gồm cùng một dạng mã / mã hóa như gematria tiếng Do Thái và isopsephy tiếng Hy Lạp.
+Trật tự sắp xếp hijā'ī (هجائي) hoặc alifbā'ī (ألفبائي) được sử dụng khi có một danh sách tên và từ được sắp xếp, như trong danh bạ, danh sách lớp học, và từ điển. Các nhóm chữ được gộp lại bởi sự giống nhau của hình dạng chữ.
+
+
+=== Abjadī ===
+Thứ tự chữ cái abjadī không phải là một sự tiếp nối lịch sử đơn giản của thứ tự chữ cái cho phía bắc Do Thái trước đó, vì nó có một vị trí tương ứng với chữ Aramaic samekh / semkat ס, nhưng không có chữ cái của bảng chữ cái tiếng Ả Rập lịch sử bắt nguồn từ chữ đó. Mất đi chữ cái samek được bù đắp bởi việc chia chữ shin ש thành hai chữ cái tiếng Ả Rập độc lập, ش (shin) và س (sin). Chữ sin được chuyển đến vị trí của chữ samek.
+Bảng chữ cái này thường được đọc như sau
+abjad hawwaz ḥuṭṭī kalaman sa‘faṣ qarashat thakhadh ḍaẓagh.
+Một cách đọc khác là
+abujadin hawazin ḥuṭiya kalman sa‘faṣ qurishat thakhudh ḍaẓugh
+Bảng chữ cái này có thể được đọc như sau:
+abujadin hawazin ḥuṭiya kalman ṣa‘faḍ qurisat thakhudh ẓaghush
+
+
+==== Hijā’ī ====
+Các từ điển hiện đại và các sách tham khảo khác không sử dụng trật tự chữ cái abjadī để sắp xếp; thay vào đó, trật tự chữ cái hijā’ī được sử dụng, trong đó các chữ cái được nhóm từng phần với nhau theo hình dạng. Điều quan trọng cần nhớ là trật tự chữ cái hijā’ī không bao giờ được sử dụng như các chữ số.
+Một dạng khác của trật tự chữ cái hijā’īđược sử dụng rộng rãi tại Maghreb cho đến gần đây, và nó đã được trật tự chữ cái Mashriqi thay thế.
+
+
+== Unicode ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Learn Arabic alphabet with audio
+A Very Creative Way to Teach Someone the Arabic Alphabet in 28 mins. - Br. Wisam Sharieff
+Interactive audio lesson for learning the Arabic alphabet
+Named Entity Recognition – for a discussion of inconsistencies and variations of Arabic written text.
+Arabetics – for a discussion of consistency and uniformization of Arabic written text.
+Learn Arabic Letters and Quran Reading
+Arabic alphabet course videos guide
+Open Source fonts for Arabic script
+Online Arabic keyboard

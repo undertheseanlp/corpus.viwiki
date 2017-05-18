@@ -1,0 +1,24 @@
+DirectWrite là một văn bản trình bày và trả về dạng glyph API của Microsoft.
+
+
+== Các ưu điểm ==
+Hỗ trợ toàn diện cho Unicode, với hơn 20 dạng mã kịch bản cung cấp mẫu và dạng trả về mỗi ngôn ngữ được dùng trong Windows. DirectWrite hỗ trợ việc đo đạc, vẽ, và hit-testing của nhiều định dạng văn bản. Hỗ trợ các tính năng Unicode bao gồm bidi, sự vỡ dòng, tính đại diện, UVS, thuộc tính hóa ngôn ngữ kịch bản hướng dẫn, số lượng thay thế, và hình glyph.
+Điểm phụ ClearType văn bản trả về hai chiều khử nhiễu răng cưa có thể tương thích với GDI/GDI+, Direct2D / Direct3D và bất kỳ công nghệ ứng dụng cụ thể.
+Hỗ trợ các tính năng đồ họa tiên tiến của dạng mở (OpenType) như dạng phong cách thay thế và dạng Swash mà chưa hỗ trợ trong GDI và Windows Forms.
+Cung cấp API trả về dạng glyph ở mức độ thấp dành cho các mẫu văn bản ưu tiên và quá trình chuyển mã Unicode sang glyph.
+
+
+== Hỗ trợ các mã kịch bản ==
+‡ Không có phông chữ mặc định trong Windows. Braille, Ogham, và Runic được hỗ trợ bằng ký tự Segoe UI
+
+
+== Xem thêm ==
+Pango là thư viện nền tảng chéo để trả về văn bản có chất lượng cao, nhấn mạnh việc hỗ trợ đa ngôn ngữ.
+Cairo là một thư viện đồ họa véc tơ dựa trên nền tảng chéo có thể trả về nội dung văn bản.
+
+
+== Liên kết ngoài ==
+MSDN: Introducing DirectWrite
+
+
+== Tham khảo ==

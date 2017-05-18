@@ -1,0 +1,26 @@
+Glottolog là một cơ sở dữ liệu thư mục của các ngôn ngữ, đặt tại Viện Max Planck về Nhân chủng học tiến hóa ở Leipzig, Đức. Nó còn ít được biết đến trên thế giới.
+Glottolog có hai thành phần:
+Danh mục Languoid là danh mục các ngôn ngữ trên thế giới và hệ ngôn ngữ;
+Langdoc là các tài liệu tham khảo.
+Nó khác với Ethnologue vốn là đã nổi tiếng, bằng nhiều phương cách tích cực hơn: nó chỉ cố gắng để chấp nhận ngôn ngữ mà các biên tập viên đã có thể khẳng định cả hai tồn tại và là khác biệt (giống chưa được xác nhận, nhưng được thừa kế từ một nguồn khác, được gắn thẻ như "giả" hay "unattested"). Nó chỉ cố gắng để phân loại ngôn ngữ vào các gia đình đã được chứng minh là có hiệu lực; thông tin thư mục được cung cấp rộng rãi, đặc biệt là cho các ngôn ngữ ít được biết đến; và, đến một mức độ hạn chế, tên gọi khác được liệt kê theo các nguồn mà sử dụng chúng.
+Trong một số trường hợp, tên ngôn ngữ được sử dụng trong các mục trong thư mục trong Langdoc được xác định bởi tiêu chuẩn ISO hoặc mã Glottolog. Đây là một lĩnh vực mở rộng đang thực hiện. Glottolog khác với những phương cách bị động khác: Đáng chú ý là nó tách biệt với một điểm vị trí duy nhất trên một bản đồ tại trung tâm địa lý của nó, tức là không cung cấp thông tin về dân tộc học hoặc nhân khẩu. Liên kết bên ngoài được cung cấp theo tiêu chuẩn ISO, Ethnologue, và cơ sở dữ liệu ngôn ngữ trực tuyến khác.
+Phiên bản 2.2 đã được công bố trực tuyến trong năm 2013, và được cấp phép theo Creative Commons Attribution-Sharealike 3.0 Unported License (Giấy phép Creative Commons). Phiên bản 2.4 đã được xuất bản vào năm 2015.
+
+
+== Các hệ và nhóm ngôn ngữ ==
+
+
+== Chỉ dẫn ==
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Danh sách ngôn ngữ
+Danh sách các nước theo ngôn ngữ nói
+
+
+== Liên kết ngoài ==
+Glottolog homepage
+Family listing

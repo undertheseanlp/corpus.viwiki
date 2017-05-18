@@ -1,0 +1,73 @@
+Euro (ký hiệu tiền tệ quốc tế: "EUR") là tiền tệ chung của 12 nước thuộc Liên minh châu Âu. Tiền giấy và tiền kim loại Euro bắt đầu được lưu hành từ ngày 1 tháng 1 năm 2002 tuy rằng loại tiền tệ này đã được đưa vào sử dụng từ ngày 1 tháng 1 năm 1999.
+
+
+== Trình bày ==
+Tiền giấy Euro có 7 mệnh giá, mỗi mệnh giá có một màu khác nhau. Các tờ tiền giấy mang hình của kiến trúc châu Âu từ các thời kỳ khác nhau trong lịch sử nghệ thuật.
+Mặt trước có hình của một hay nhiều cửa sổ hay cổng vào (ngụ ý mời chào) và mặt sau là một chiếc cầu (ngụ ý kết nối). Đó không phải là công trình kiến trúc có thật mà chỉ là tập hợp của những đặc điểm phong cách của từng thời kỳ kiến trúc một.
+Tất cả các tờ tiền giấy đều có cờ hiệu châu Âu, chữ đầu tự của Ngân hàng Trung ương châu Âu bao gồm 5 ngôn ngữ (BCE, ECB, EZB, EKT, EKP), một bản đồ châu Âu (bao gồm cả các khu hành chính hải ngoại của Pháp) ở mặt sau, tên "Euro" bằng chữ La tinh và chữ Hy Lạp, chữ ký của Giám đốc Ngân hàng Trung ương châu Âu đương nhiệm. Vì Wim Duisenberg đã trao lại chức giám đốc cho Jean-Claude Trichet trong mùa thu 2003 nên trên các tờ tiền giấy in sau này chữ ký cũng đã thay đổi. 12 ngôi sao của EU cũng có trên tờ tiền giấy Euro.
+Các tờ tiền giấy là do người Áo Robert Kalina thiết kế sau một cuộc thi trong toàn EU.
+
+
+== Các mệnh giá ==
+
+
+== Số xê ri ==
+Khác với tiền kim loại Euro các tờ tiền giấy Euro không có một mặt đặc trưng cho từng quốc gia và vì thế mà không thể nhận biết qua hình ảnh là tờ tiền giấy là của quốc gia nào. Thay vào đấy, thông tin này có trong số xê ri trên mặt sau. Mẫu tự đầu tiên của số xê ri có 12 chữ số là dấu hiệu của Ngân hàng Trung ương Quốc gia chịu trách nhiệm in tờ tiền giấy này. Ngân hàng Trung ương Quốc gia này hoặc là đã đưa tờ tiền giấy vào lưu hành trong phạm vi thẩm quyền của ngân hàng hoặc là đã cung cấp cho một Ngân hàng Trung ương Quốc gia khác để ngân hàng này đưa vào lưu hành trong phạm vi thẩm quyền của ngân hàng đó. Các mẫu tự W, K và J được dành riêng cho các quốc gia EU không tham gia vào Euro trong thời gian này.
+Sau mẫu tự của Ngân hàng Trung ương Quốc gia là một số bao gồm 10 con số và cuối cùng là một con số kiểm định. Tổng số ngang (cộng tất cả các con số của dãy số lại cho đến khi nào chỉ còn một con số) của 11 con số này là một tổng số kiểm định trong bảng phía dưới. Con số kiểm định cũng có thể được kiểm tra bằng cách thay thế mẫu tự bằng thứ tự của mẫu tự đó trong bảng chữ cái (A=1;Z=26). Tổng số ngang của các con số kể cả số thay cho chữ cái phải là 8.
+Một con số kiểm định đúng tất nhiên không phải là một sự bảo đảm là tờ tiền giấy này là tờ tiền thật. Chỉ có con số kiểm định đúng thôi thì tờ tiền giả không trở thành tờ tiền thật nhưng kinh nghiệm cho thấy nhiều người giả mạo đã in số kiểm định sai trên tờ tiền giả. Để kiểm tra tiền giả hay thật nên dùng những phương pháp khác.
+
+
+== Dấu hiệu của Ngân hàng Trung ương Quốc gia ==
+Các mẫu tự được phân phát bắt đầu từ Z (ngược với bảng chữ cái), thứ tự của các quốc gia là tên của các nước trong ngôn ngữ của từng nước. Hy Lạp đúng ra là nhận chữ W nhưng vì W không có trong bảng chữ cái của tiếng Hy Lạp nên Hy Lạp đã đổi lấy chữ Y của Đan Mạch.
+
+
+== Mã của bản in ==
+Ở mặt trước, hơi kín đáo một ít là một chuỗi ngắn bao gồm mẫu tự và số, là mã của bản in; chữ cái đầu tiên là ký hiệu của nhà in đã in tờ tiền giấy này. Ký hiệu của nhà in không trùng hợp với ký hiệu của ngân hàng trung ương quốc gia, tức là tiền giấy do một quốc gia đưa vào lưu hành có thể đã được in ở một nước khác (thí dụ như một số tờ tiền giấy của Phần Lan được in từ một nhà in của Anh).
+Các mã A, C và S được dành riêng cho các nhà in hiện thời không in tiền giấy Euro.
+Hai dấu hiệu cuối cùng của chuỗi ký hiệu ngắn này là vị trí của tờ tiền giấy trên tờ giấy in, tức là từ A1 (phía tên bên trái) đến J6 (phía dưới bên phải), tùy theo kích thước của tờ giấy in.
+Trong số này 2 nhà in của Đức chiếm phần lớn nhất trong số lượng tiến giấy được in. Trong số 14,8899 tỉ tờ tiền giấy Euro được in cho ngày 1 tháng 1 năm 2002 có 4,7829 tỉ là từ Ngân hàng Liên bang Đức.
+
+
+== Các đặc điểm chống giả mạo ==
+
+Các tờ tiền giấy Euro có nhiều đặc điểm an toàn nhằm để ngăn cản hay làm cho việc giả mạo khó khăn hơn.
+
+
+=== Các đặc điểm chung ===
+Giấy dùng để in tiền được làm từ sợi bông vải, có thể được xác minh bằng bút thử đặc biệt, nếu là tiền thật thì dùng loại bút thử này không để lại dấu vết.
+Hình chìm trên giấy.
+Dây an toàn, khi đưa giấy lên trước ánh sáng có thể nhìn thấy.
+Một vài phần của hình có thể cảm nhận được khi sờ lên.
+Một mệnh giá được in một phần ở mặt trước và một phần ở mặt sau, khi đưa lên trước ánh sáng sẽ nhìn thấy toàn phần (Hai mặt bổ sung chính xác cho nhau).
+Chữ siêu nhỏ.
+Dưới ánh sáng của tia cực tím có thể nhìn thấy các sợi có nhiều màu.
+
+
+=== Các đặc điểm của từng mệnh giá ===
+Vạch bằng lá kim loại đặc biệt có ảnh ba chiều (tiếng Anh: Hologram), khi nhìn nghiêng ảnh sẽ thay đổi giữa ký hiệu Euro và mệnh giá (ở các mệnh giá 5, 10 và 20 Euro).
+Vạch đặc biệt khi nhìn nghiên tờ tiền giấy sẽ có màu vàng với ký hiệu Euro và mệnh giá (ở các mệnh giá 5, 10 và 20 Euro).
+Ảnh ba chiều với hình của kiểu kiến trúc hay mệnh giá (ở các mệnh giá 50, 100, 200 và 500 Euro).
+Đổi màu: Khi nhìn nghiêng tờ tiền giấy màu sẽ thay đổi ở các mệnh giá lớn (ở các mệnh giá 50, 100, 200 và 500 Euro).
+
+
+=== Các đặc điểm bí mật ===
+Trên các tờ tiền giấy Euro còn có những đặc điểm an toàn bí mật (được gọi là "M-Features"). Những đặc điểm này được kiểm tra một cách tự động trong các chi nhánh của Ngân hàng Trung ương châu Âu.
+Cho đến nay các phương pháp kiểm tra này đã có thể nhận biết được tiền giả một cách chắc chắn. Mỗi một tờ tiền giấy trung bình được kiểm tra 3 tháng một lần trong một chi nhánh của Ngân hàng Trung ương châu Âu nhằm khám phá và ngăn chặn tiền giả trong lưu hành
+
+
+=== Các đặc điểm an toàn của loạt thứ hai ===
+Loạt tiền giấy Euro thứ hai sẽ từng bước thay thế các loại tiền giấy hiện nay vào năm 2008. Các tờ tiền giấy mới này có các đặc điểm an toàn mới hay được tiếp tục cải tiến. Cho đến nay vẫn chưa có thông tin chi tiết chính thức về các đặc điểm an toàn này.
+
+
+== Giả mạo ==
+Tỷ lệ tiền giấy Euro giả mạo đã tăng rõ rệt trong năm 2003, vì thế mà các đặc điểm an toàn mới hiện đang được xem xét thí dụ như việc tích hợp chip điện tử để nhận diện tiền giấy. Ngân hàng Trung ương châu Âu dự định khoảng năm 2008 sẽ lưu hành loạt tiền Euro mới có thêm nhiều đặc điểm an toàn mới nhưng hình dáng của các tờ tiền giấy sẽ không thay đổi.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Ngân hàng Trung ương châu Âu
+Trưng bày cuộc thi đua thiết kế tiền giấy Euro, bao gồm cả những mẫu không được thực hiện (tiếng Pháp)
+Eurobilltracker
+EuroTracer

@@ -1,0 +1,180 @@
+Trên máy tính, tổng hợp giọng nói là việc tạo ra giọng nói của người từ đầu vào là văn bản hay các mã hóa việc phát âm. Hệ thống này còn được gọi là văn bản-sang-tiếng nói (text-to-speech, TTS); tuy rằng không phải hệ thống tổng hợp giọng nói nào cũng có đầu vào là văn bản (nhiều hệ thống thu nhận mã hóa cách phát âm, ví dụ mã IPA, như đầu vào). Hệ thống thực hiện việc này còn gọi là máy tổng hợp giọng nói (text to speech engine), có thể là hệ thống phần mềm hoặc phần cứng.
+
+
+== Ứng dụng ==
+Các hệ thống này có nhiều ứng dụng. Ví dụ như hệ thống này có thể giúp người có thị lực kém (hoặc khiếm thị) nghe được máy đọc ra văn bản; đặc biệt là các văn bản có thể xử lý trên máy tính. Hệ thống như vậy có thể lắp đặt trong phần mềm xử lý văn bản hay trình duyệt mạng.
+
+
+== Tổng quan ==
+Một máy tổng hợp giọng nói bao gồm hai phần: ngoại diện và hậu trường. Phần ngoại diện nhận đầu vào ở dạng văn bản rồi cho đầu ra là thể hiện biểu tượng ngôn ngữ của văn bản (tức là một cách mã hóa cách phát âm văn bản). Phần hậu trường nhận lấy thể hiện biểu tượng ngôn ngữ như đầu vào và cho ra giọng nói tổng hợp ở dạng sóng âm thanh.
+Phần ngoại diện có hai nhiệm vụ chính. Trước tiên, nó nhận văn bản và chuyển đổi các ký tự như các chữ số hay cách viết tắt thành dạng viết đầy đủ. Quá trình này gọi là chuẩn hóa văn bản, hay tiền xử lý. Sau đó nó cho ra mã phát âm ứng với từng từ, rồi phân chia và đánh dấu văn bản thành từng đoạn văn, nhóm từ, mệnh đề, hay câu văn. Quá trình chuyển văn bản sang mã phát âm được gọi là văn bản-sang-âm vị. Kết hợp mã phát âm và thông tin đoạn văn tạo nên đầu ra cuối cùng thể hiện biểu tượng ngôn ngữ.
+Phần hậu trường, nhận lấy thể hiện biểu tượng ngôn ngữ rồi chuyển nó thành âm thanh. Phần này thường được gọi là máy tổng hợp. Có nhiều kỹ thuật tổng hợp, được mô tả bên dưới.
+
+
+== Lịch sử ==
+Từ lâu trước khi kỹ thuật xử lý tín hiệu bằng thiết bị điện tử hiện đại ra đời, các nhà nghiên cứu giọng nói đã cố gắng xây dựng các máy móc bắt chước giọng nói của người. Các ví dụ đầu tiên của các máy này được chế tạo bởi Gerbert ở Aurillac (1003), Albertus Magnus (1198–1280), và Roger Bacon (1214–1294).
+Năm 1779, nhà khoa học người Đan Mạch Christian Kratzenstein, lúc đó làm việc tại Viện Hàn lâm Khoa học Nga, xây dựng một mô hình có thể bắt chước giọng nói người với năm nguyên âm ([a], [e], [I], [o] và [u]). Máy này sau đó được cải tiến thành 'Máy Phát âm Cơ khí-Âm học' của Wolfgang von Kempelen ở Viên, Áo, được mô tả trong bài báo năm 1791 mang tựa đề Mechanismus der menschlichen Sprache nebst der Beschreibung seiner sprechenden Maschine ("phương pháp tạo giọng nói và mô tả máy thực hiện việc này," J. B. Degen, Wien). Máy này tạo ra mô hình của lưỡi và môi, cho phép tạo ra phụ âm thêm vào cho nguyên âm. Năm 1837 Charles Wheatstone tạo ra 'máy nói' dựa trên thiết kế của von Kempelen, và đến năm 1857 M. Faber chế tạo máy 'Euphonia'. Máy của Wheatstone lại được cải tiến năm 1923 bởi Paget.
+Những năm 1930, Phòng thí nghiệm Bell tạo ra máy VOCODER, một máy phân tích và tổng hợp giọng nói điều khiển bằng bàn phím, được mô tả là phát âm rõ ràng. Homer Dudley cải tiến cỗ máy này thành VODER, và trưng bày nó tại Triển lãm Thế giới New York 1939.
+Các máy tổng hợp giọng nói bằng kỹ thuật điện tử, trong giai đoạn này, có giọng nói không tự nhiên và khó nghe. Tuy nhiên, chất lượng tổng hợp giọng nói ngày càng được cải tiến, cho đến ngày nay giọng phát âm của nhiều hệ thống có chất lượng tương đương giọng nói của người thật.
+Các hệ thống tổng hợp giọng nói đầu tiên được tạo ra vào những năm 1950 và hệ thống hoàn chỉnh đầu tiên ra đời vào năm 1968.
+Năm 1961, nhà vật lý học John Larry Kelly, Jr dùng máy tính IBM 704 để tổng hợp giọng nói, đây là sự kiện đáng nhớ trong lịch sử của phòng thí nghiệm Bell. Máy ghi âm và tổng hợp giọng nói của Kelly tạo ra bài hát Daisy Bell, với âm nhạc phụ họa bởi Max Mathews. Vào lúc trình diễn, Arthur C. Clarke đang thăm bạn và đồng nghiệp John Pierce ở khu thí nghiệm Bell ở Murray Hill. Clarke đã bị ấn tượng mạnh bởi trình diễn của máy phát âm và đã dùng hình ảnh này trong tiểu thuyết và kịch bản phim của ông 2001: A Space Odyssey, trong đó máy tính HAL 9000 hát cùng bài hát khi nó sắp bị nhà du hành vũ trụ Dave Bowman đặt vào trạng thái ngủ.
+Công nghệ tổng hợp giọng nói đã tiến hóa nhanh kể từ đó. Hiện nay có hàng trăm hệ thống tổng hợp giọng nói, thương mại cũng như tự do (xem liên kết ngoài).
+Tuy đã đạt được thành tựu trong tổng hợp giọng nói bằng kỹ thuật điện tử, các nghiên cứu vẫn đang được tiến hành để tạo ra bộ tổng hợp giọng nói cơ học, mô phỏng thanh quản của người, dùng trong robot dạng người. Các bộ tổng hợp giọng nói điện tử bị giới hạn bởi chất lượng của loa, bộ phận cuối cùng tạo ra âm thanh, dù tín hiệu điện tử có hoàn hảo. Có hy vọng rằng bộ thanh quản cơ khí có thể tạo ra giọng nói chuẩn hơn loa thông thường.
+
+
+== Công nghệ tổng hợp giọng nói ==
+Hai tính chất quan trọng của chất lượng hệ thống tổng hợp giọng nói là mức độ tự nhiên và mức độ dễ nghe. Mức độ tự nhiên của giọng nói tổng hợp chỉ đến sự giống nhau giữa giọng tổng hợp và giọng nói tự nhiên của người thật. Mức độ dễ nghe chỉ đến việc câu phát âm có thể hiểu được dễ dàng không. Một máy tổng hợp giọng nói lý tưởng cần vừa tự nhiên vừa dễ nghe, và mục tiêu xây dựng máy tổng hợp giọng nói là làm gia tăng đến mức tối đa hai tính chất này. Một số hệ thống thiên về mức độ dễ nghe hơn, hoặc mức độ tự nhiên hơn; tùy thuộc vào mục đích mà công nghệ được lựa chọn. Có hai công nghệ chính được dùng là tổng hợp ghép nối và tổng hợp cộng hưởng tần số; ngoài ra cũng có một số công nghệ khác.
+
+
+=== Tổng hợp ghép nối ===
+Tổng hợp ghép nối dựa trên việc nối vào nhau các đoạn của một giọng nói đã được ghi âm. Thông thường, tổng hợp ghép nối tạo ra giọng nói tương đối tự nhiên. Tuy nhiên, giọng nói tự nhiên được ghi âm có sự thay đổi từ lần phát âm này sang lần phát âm khác, và công nghệ tự động hóa việc ghép nối các đoạn của sóng âm thỉnh thoảng tạo ra những tiếng cọ xát không tự nhiên ở phần ghép nối. Có ba kiểu tổng hợp ghép nối.
+
+
+==== Tổng hợp chọn đơn vị ====
+Tổng hợp chọn đơn vị dùng một cơ sở dữ liệu lớn các giọng nói ghi âm (thông thường dài hơn 1 giờ đồng hồ ghi âm). Trong lúc ghi âm, mỗi câu phát biểu được tách ra thành các đơn vị khác như: các âm tỏ lời đơn lẻ, âm tiết, hình vị, từ, nhóm từ, và câu văn. Thông thường, việc tách ra như vậy cần một máy nhận dạng tiếng nói được đặt ở chế độ khớp với văn bản viết tương ứng với đoạn ghi âm, và dùng đến hiển thị sóng âm và phổ âm thanh. Một bảng tra các đơn vị được lập ra dựa trên các phần đã tách và các thông số âm học như tần số cơ bản, thời lượng, vị trí của âm tiết, và âm tỏ lời gần đó. Khi chạy, các câu phát biểu được tạo ra bằng cách xác định chuỗi đơn vị phù hợp nhất từ cơ sở dữ liệu. Quá trình này được gọi là chọn đơn vị, và thường cần dùng đến cây quyết định để thực hiện.
+Kỹ thuật chọn đơn vị tạo ra độ tự nhiên cao do không áp dụng các kỹ thuật xử lý tín hiệu số lên các đoạn giọng nói đã ghi âm, tuy rằng một số hệ thống có thể áp dụng xử lý tín hiệu tại các đoạn nối giữa các đơn vị để làm liền mạch kết quả sau khi ghép nối. Thực tế, các hệ thống chọn đơn vị có thể tạo ra giọng nói không thể phân biệt được với người thật. Tuy nhiên, để đạt độ tự nhiên cao, thường cần một cơ sở dữ liệu lớn chứa các đơn vị để lựa chọn; có thể lên tới vài gigabyte, tương đương với hàng chục giờ ghi âm.
+
+
+==== Tổng hợp âm kép ====
+Tổng hợp âm kép dùng một cơ sở dữ liệu giọng nói nhỏ chứa tất cả các âm kép (chuyển tiếp âm thanh) xuất hiện trong ngôn ngữ đang xét. Số lượng âm kép phụ thuộc vào đặc tính ghép âm học của ngôn ngữ: tiếng Tây Ban Nha có 800 âm kép, tiếng Đức có 2500. Trong tổng hợp âm kép, chỉ có một ví dụ của âm kép được chứa trong cơ sở dữ liệu. Khi chạy, lời văn được chồng lên các đơn vị này bằng kỹ thuật xử lý tín hiệu số như mã tiên đoán tuyến tính, PSOLA hay MBROLA.
+Chất lượng của âm thanh tổng hợp theo cách này thường không cao bằng phương pháp chọn đơn vị nhưng tự nhiên hơn tổng hợp cộng hưởng tần số. Tổng hợp âm kép tạo ra các tiếng cọ xát ở phần ghép nối và đôi khi giọng nói kiểu robot do các kỹ thuật xử lý tín hiệu số gây ra. Lợi thế của phương pháp này là kích thước cơ sở dữ liệu nhỏ. Các ứng dụng thương mại của phương pháp này đang ít dần, tuy nhiên có nhiều hệ thống như thế này được phân phát tự do, và phục vụ cho nghiên cứu.
+
+
+==== Tổng hợp chuyên ngành ====
+Tổng hợp chuyên biệt ghép nối các từ và đoạn văn đã được ghi âm để tạo ra lời phát biểu. Nó được dùng trong các ứng dụng có các văn bản chuyên biệt cho một chuyên ngành, sử dụng lượng từ vựng hạn chế, như các thông báo chuyến bay hay dự báo thời tiết.
+Công nghệ này rất đơn giản, và đã được thương mại hóa từ lâu, đã đi vào các đồ vật như đồng hồ biết nói hay máy tính bỏ túi biết nói. Mức độ tự nhiên của các hệ thống này có thể rất cao vì số lượng các câu nói không nhiều và khớp với lời văn và âm điệu của giọng nói ghi âm. Tuy nhiên các hệ thống này bị hạn chế bởi cơ sở dữ liệu chuyên ngành, không phục vụ mọi mục đích mà chỉ hoạt động với các câu nói mà chúng đã được lập trình sẵn.
+
+
+=== Tổng hợp cộng hưởng tần số ===
+Tổng hợp cộng hưởng tần số không sử dụng bất cứ mẫu giọng thật nào khi chạy. Thay vào đó, tín hiệu âm thanh cho ra dựa trên một mô hình âm thanh. Các thông số như tần số cơ bản, sự phát âm, và mức độ tiếng ồn được thay đổi theo thời gian để tạo ra dạng sóng cho giọng nói nhân tạo. Phương pháp này đôi khi còn được gọi là tổng hợp dựa trên quy tắc, dù cho nhiều hệ thống ghép nối mẫu âm thanh thật cũng có dùng các thành phần dựa trên quy tắc.
+Nhiều hệ thống dựa trên tổng hợp cộng hưởng tần số tạo ra giọng nói nhân tạo, như giọng rôbốt, không tự nhiên, và phân biệt rõ ràng với giọng người thật. Tuy nhiên độ tự nhiên cao không phải lúc nào cũng là mục đích của hệ thống và hệ thống này cũng có các ưu điểm riêng của nó.
+Hệ thống này nói khá dễ nghe, ngay cả ở tốc độ cao, không có tiếng cọ xát do ghép âm tạo ra. các hệ thống này hoạt động ở tốc độ cao, có thể hướng dẫn người khiếm thị nhanh chóng dò dẫm trên máy tính, bằng cách đọc to những gì hiện ra trên màn hình. Các hệ thống này cũng nhỏ gọn hơn các hệ thống ghép nối âm, vì không phải chứa cơ sở dữ liệu mẫu âm thanh lớn. Nó có thể dùng trong các hệ thống nhúng khi bộ nhớ và tốc độ xử lý có hạn. Hệ thống này cũng có khả năng điều khiển mọi khía cạnh của tín hiệu âm thanh đi ra, no cho ra một dải rộng các lời văn và ngữ điệu, và không chỉ thể hiện được câu nói thường hay câu hỏi, mà cả các trạng thái tình cảm thông qua âm điệu của giọng nói.
+Các ví dụ về các hệ thống cho ra ngữ điệu chính xác (nhưng không cho ra ngay lập tức sau khi nhận đầu vào) là các công trình cuối những năm 1970 của đồ chơi Speak & Spell của Texas Instruments, và các trò chơi video của SEGA đầu những năm 1980 như: Astro Blaster, Zektor, Space Fury, và Star Trek. Hiện vẫn chưa có hệ thống cho ra intonation chính xác ngay sau khi nhận văn bản đầu vào.
+
+
+=== Tổng hợp mô phỏng phát âm ===
+Tổng hợp mô phỏng phát âm là các kỹ thuật tổng hợp giọng nói dựa trên mô hình máy tính của cơ quan phát âm của người và quá trình phát âm xảy ra tại đó. Hệ thống tổng hợp mô phỏng phát âm đầu tiên là ASY, thường được dùng cho các thí nghiệm trong nghiên cứu, được phát triển ở phòng thí nghiệm Haskins vào giữa những năm 1970 bởi Philip Rubin, Tom Baer, và Paul Mermelstein. ASY dựa trên mô hình cơ quan phát âm đã được tạo ra bởi phòng thí nghiệm Bell vào những năm 1960 và 1970 bởi Paul Mermelstein, Cecil Coker, và các đồng nghiệp khác. Tổng hợp mô phỏng phát âm đã từng chỉ là hệ thống dành cho nghiên cứu khoa học cho mãi đến những năm gần đây. Lý do là rất ít mô hình tạo ra âm thanh chất lượng đủ cao hoặc có thể chạy hiệu quả trên các ứng dụng thương mại. Một ngoại lệ là hệ thống dựa trên NeXT; vốn được phát triển và thương mại hóa bởi Trillium Sound Research Inc, ở Calgary, Alberta, Canada. Đây là một công ty tách ra từ Đại học Calgary nơi các nghiên cứu ban đầu đã được thực hiện. Theo sau các vụ chuyển nhượng các từng phần của NeXT (bắt đầu từ Steve Jobs vào cuối những năm 1980 và việc hợp nhất với Apple năm 1997), phần mềm của Trillium được phân phát với giấy phéo tự do GPL. Dự án gnuspeech, một dự án của GNU, tiếp tục phát triển phần mềm này. Phần mềm gốc NeXT và các chuyển đổi sang cho Mac OS/X và GNUstep trong GNU/Linux có thể tìm thấy tại trang GNU savannah; chúng đều kèm theo tài liệu hướng dẫn trực tuyến và các bài viết liên quan đến lý thuyết nền tảng của công trình. Hệ thống, vốn được thương mại hóa lần đầu vào năm 1994, tạo ra một máy tổng hợp giọng nói dựa trên mô phỏng phát âm hoàn chỉnh, dựa trên mô hình ống dẫn sóng tương đương với cơ quan phát âm của người. Nó được điều khiển bởi Mô hình Phần Riêng biệt của Carré; bản thân mô hình này lại dựa trên công trình của Gunnar Fant và các người khác ở Phòng thí nghiệm Công nghệ Giọng nói Stockholm thuộc Viện Cộng nghệ Hoàng gia Thụy Điển về tổng hợp giọng nói cộng hưởng tần số. Công trình này cho thấy các cộng hưởng tần số trong ống cộng hưởng có thể được điều khiển bằng cách thay đổi tám tham số tương đồng với các cách phát âm tự nhiên của cơ quan phát âm của người. Hệ thống bao gồm một từ điển phát âm cùng với các quy tắc phát âm tùy thuộc ngữ cảnh để giúp ghép nối âm điệu và tạo ra các tham số phát âm; mô phỏng theo nhịp điệu và ngữ điệu thu được từ các kết quả nghiên cứu ngữ âm học.
+
+
+=== Tổng hợp lai ===
+Các hệ thống tổng hợp lai kết hợp các yếu tố của tổng hợp cộng hưởng tần số với tổng hợp ghép nối để giảm thiểu các tiếng cọ xát khi ghép nối các đoạn âm thanh.
+Một ví dụ là RecSimCat, phát triển bởi Shakti Singh Parmar có thể tạo ra giọng dễ nghe và tự nhiên.
+
+
+=== Tổng hợp dựa trên HMM ===
+Tổng hợp dựa trên HMM là một phương pháp dựa vào mô hình Markov ẩn (HMM, viết tắt cho thuật ngữ tiếng Anh Hidden Markov model). Trong hệ thống này, phổ tần số của giọng nói, tần số cơ bản, và thời lượng đều được mô phỏng cùng lúc bởi HMM. Dạng sóng của giọng nói được tạo từ mô hình Markov ẩn dựa trên tiêu chí khả thực cực đại.
+
+
+== Kỹ thuật ngoại diện ==
+
+
+=== Chuẩn hóa văn bản ===
+Quá trình chuẩn hóa văn bản thường không đơn giản. Lý do là các văn bản thường chứa nhiều từ đồng tự, số và từ viết tắt đòi hỏi hiểu để diễn đạt lại trong văn bản đầy đủ.
+Trong một số ngôn ngữ, các từ có thể được phát âm khác nhau tùy theo ngữ cảnh. Đa số hệ thống tổng hợp giọng nói không tạo ra thể hiện văn phạm cho văn bản, vì quá trình này hiện chưa có công nghệ đáng tin cậy. Thay vào đó, nhiều cách lần mò được dùng để phân biệt các cách phát âm, như tìm các từ kế cận hay dùng thống kê về tần số xuất hiện.
+Việc chọn cách phát âm số cũng là một vấn đề. Lý do là cũng có nhiều cách phất âm số tùy theo văn cảnh. Như 1325 có thể đọc "một nghìn ba trăm hai mươi nhăm" nếu nó là một số tự nhiên, nhưng cũng có thể là "một ba hai năm" nếu nó là bốn số mật mã ngân khoản. Thường hệ thống tổng hợp giọng nói có thể đoán văn cảnh bằng việc quan sát các từ kế cận, các số hay dấu câu bên cạnh, hoặc dùng trường hợp mặc định khi không thể phân định.
+Tương tự, các cách viết tắt cũng có thể mang nhiều nghĩa, tùy thuộc quy ước của người viết.
+
+
+=== Văn bản sang âm vị ===
+Các hệ thống tổng hợp giọng nói dùng hai cách cơ bản để xác định cách phát âm cho một từ, một quá trình còn được gọi là chuyển đổi văn bản-sang-âm vị hay tự vị-sang-âm vị, vì âm vị là thuật ngữ dùng bởi các nhà ngôn ngữ học để mô tả các âm khác nhau trong ngôn ngữ.
+Cách thứ nhất, và đơn giản nhất, là dựa vào từ điển, sử dụng một từ điển lớn chứa tất cả các từ của một ngôn ngữ và chứa cách phát âm đúng tương ứng cho từng từ, lưu trong máy tính. Việc xác định cách phát âm đúng cho một từ chỉ đơn giản là tra trong từ điển và thay đoạn văn bản bằng mã phát âm đã ghi trong từ điển.
+Cách thứ hai là dựa trên quy tắc, sử dụng các quy tắc phát âm để tìm ra cách phát âm tương ứng cho mỗi từ phù hợp với quy tắc.
+Mỗi cách đều có ưu điểm và nhược điểm. cách dựa trên từ điển nhanh và chính xác, nhưng sẽ không hoạt động nếu từ cần phát âm không có trong từ điển và lượng từ vựng cần lưu là lớn. Cách dùng quy tắc hoạt động với mọi văn bản (miễn là phù hợp với quy tắc) nhưng độ phức tạp của các quy tắc có thể tăng cao nếu ngôn ngữ có nhiều trường hợp bất quy tắc trong phát âm. Hầu hết các hệ thống tổng hợp giọng nói đều dùng kết hợp cả hai cách.
+Một số ngôn ngữ, như tiếng Tây Ban Nha hay tiếng Việt, có hệ thống viết dựa trên cách phát âm một cách rất có quy tắc, và việc tiên đoán cách phát âm từ cách viết thường có tỷ lệ thành công cao. Các hệ thống tổng hợp giọng nói cho các ngôn ngữ này thường dùng chủ yếu cách dựa trên quy tắc, chỉ tra từ điển một vài từ đặc biệt như tên vay mượn từ nước ngoài.
+Một số ngôn ngữ khác, như tiếng Anh, có hệ thống phát âm rất bất quy tắc, thường cần hệ thống tổng hợp giọng nói dựa chủ yếu trên từ điển và dùng các quy tắc cho những từ không có trong từ điển.
+
+
+== Ngôn ngữ đánh dấu cho tổng hợp giọng nói ==
+Có nhiều ngôn ngữ đánh dấu đã được hình thành cho việc tạo giọng nói từ văn bản, phù hợp với chuẩn XML. Một ví dụ cho ngôn ngữ kiểu này là SSML được W3C đề xuất. Các ngôn ngữ đánh dấu cũ hơn có SABLE và JSML. Các ngôn ngữ này đều được đề xuất là chuẩn chung, nhưng chưa có ngôn ngữ nào được dùng đủ rộng rãi để thiết lập thành chuẩn chung.
+Một tập con của CSS 2 chứa ACSS cũng phục vụ mục đích tổng hợp giọng nói.
+Ngôn ngữ đánh dấu tổng hợp giọng nói khác với ngôn ngữ đánh dấu đàm thoại (như VoiceXML). Các ngôn ngữ đánh dấu đàm thoại, ngoài chứa các thông tin chuyển văn bản sang giọng nói, còn có các thẻ cho phép nhận dạng giọng nói, quản lý đàm thoại và thông tin về quay số điện thoại bằng âm thanh.
+
+
+== Các hệ điều hành có tổng hợp giọng nói ==
+
+
+=== Mac OS và Mac OS X ===
+
+Hệ thống tổng hợp giọng nói đầu tiên được tích hợp vào trong một hệ điều hành là Macintalk trên máy tính Macintosh của hãng Apple Inc. năm 1984. Apple Inc. là một trong những nhà sản xuất đầu tiên đưa hệ thống tổng hợp giọng nói vào các hệ điều hành thương mại. Trong những năm 1990, các giọng nói của Apple được tổng hợp từ các mẫu tự nhiên. Tuy nhiên gần đây, Apple đã thêm các mẫu giọng nói tổng hợp, là Vicki và Bruce - đặt tên theo giáo sư và nghiên cứu sinh tại khoa ngôn ngữ học UCLA, những người đã cung cấp các mô hình giọng nói này. Các phần mềm đầu tiên chỉ có ý định gây sự tò mò cho khách hàng và không được Apple hỗ trợ trực tiếp; tuy nhiên hệ thống tổng hợp giọng nói của máy tính Macintosh đã tiến hóa thành một chương trình được hỗ trợ đầy đủ cho người khiếm thị.
+
+
+=== AmigaOS ===
+Hệ điều hành thứ hai trên thị trường tích hợp hệ thống tổng hợp giọng nói là AmigaOS năm 1985. Hệ thống này được cấp phép cho Commodore International từ một bên thứ ba là một hãng phần mềm (Don't Ask Software, nay là Softvoice, Inc.) và nó có một hệ thống mô phỏng giọng người hoàn chỉnh, có cả giọng nam và giọng nữ với các âm sắc khác nhau, dùng các tính năng nâng cao của các chip điện tử trong phần cứng Amiga. Nó được chia làm hai phần: phần đọc bình luận và một thư viện dịch thuật. Phần mềm Speak Handler của Amiga có phần dịch thuật văn bản sang tiếng nói, dùng hệ thống tổng hợp âm vị ARPAbet. AmigaOS coi hệ thống tổng hợp giọng nói như một thiết bị phần cứng ảo, nên người dùng có thể chuyển tín hiệu ra từ phần mềm khác đến nó giống như đến máy in hay màn hình. Một số phần mềm trong Amiga, như trình soạn thảo văn bản, dùng nhiều hệ thống này.
+
+
+=== Microsoft Windows ===
+Các hệ điều hành Windows hiện đại dùng các hệ thống tổng hợp giọng nói dựa trên SAPI4 và SAPI5, kèm theo máy nhận dạng giọng nói. SAPI 4.0 có mặt trên các hệ điều hành như Windows 9x.
+Nhiều phần mềm, như mIRC, dùng nhiều chức năng trong SAPI 4.0 hay SAPI 5.0. Windows XP có phần mềm Narrator. Hầu hết các phần mềm tương thích với Windows như Notepad, Office hay Adobe Acrobat có thể dùng các tính năng tổng hợp giọng nói; tùy theo lựa chọn trên trình đơn sau khi đã cài đặt. Chúng cung cấp hỗ trợ cho người khiếm thị.
+Một ví dụ về việc SAPI 5 cho phép một phần mềm kết hợp công nghệ của Microsoft thành một màn hình nền có tính tương tác cao là Talking desktop. Phần mềm này kết hợp chức năng nhận dạng giọng nói với các phát âm của SAPI 5.
+Microsoft Speech Server là một gói hoàn chỉnh để tổng hợp và nhận dạng giọng nói, và có thể ứng dụng cho các hệ thống liên lạc điện thoại có máy tính dùng Windows.
+
+
+=== GNU/Linux ===
+Có rất nhiều hệ thống tổng hợp giọng nói cho GNU/Linux và đều có mã nguồn mở. Ví dụ bao gồm Festival, của Đại học Edinburgh, hay gnuspeech, của Tổ chức Phần mềm Tự do.
+
+
+=== TI-99/4 và TI-99/4A ===
+TI-99/4 (1979) và TI-99/4A (1981) có thể đọc văn bản ở chế độ đọc từng chữ và đọc cả đoạn.
+Trong máy TI Extended BASIC, lệnh CALL SAY có thể được dùng. Ví dụ, CALL SAY("I AM A TEXAS INSTRUMENTS T I 99 4 A HOME COMPUTER") sẽ khiến nó nói về bản thân với giọng Texas. Trong hệ thống này, ở chế độ đọc cả từ, các từ lạ sẽ được phát âm bằng cách đọc từng chữ cái. Ở chế độ đọc từng chữ cái, chất lượng giảm hẳn, dù hệ thống sẽ đọc bất cứ văn bản nào gửi đến nó.
+TI-99/4 (1979) và TI-99/4A (1981) chứa các bộ vi xử lý 16-bit.
+
+
+== Các phần mềm của bên thứ ba ==
+Các hệ thống phát triển bởi bên thứ ba có thể được tích hợp vào trong các hệ điều hành (trừ SAPI) là Lernout & Hauspie (LH) TTS 3000, 1st Read It Aloud!, Total Speech, PCVoz, TextAloud, Read Genius, Speech RealSpeak, IBM ViaVoice và Dolphin Orpheus [1].
+Balabolka: đáng chú ý ở khả năng mở trực tiếp nhiều định dạng tập tin doc, dox, txt, pdf, epub, odt nhanh chóng. Nó cũng có thể chuyển đổi các tập tin sang định dạng mp3, dễ dàng để nghe một tài liệu trên điện thoại hoặc máy nghe nhạc MP3. Thậm chí chuyển đổi hàng loạt tạo ra nhiều tập tin âm thanh của nhiều tài liệu.
+TypeIt ReadIt: với giao diện đơn giản và khả năng xuất văn bản của bạn vào một tập tin txt hoặc wav, đây là một phần mềm miễn phí tuyệt vời đơn giản để đọc một cách nhanh chóng. Dán (paste) bất kỳ văn bản (chữ) nào vào cửa sổ của nó, hoặc mở một tập tin txt trực tiếp. Phần mềm sử dụng giọng nói đi kèm với Windows.
+Natural Reader Free: Phiên bản miễn phí không thể xuất ra file mp3, nhưng có một giao diện đơn giản để dán và nghe đọc văn bản bằng cách nhấn vào nút play rõ ràng nhìn thấy được.
+eSpeak: phần mềm chứa nhiều giọng đọc hoàn toàn khác với những giọng có sẵn trong Microsoft Windows. Chương trình này sử dụng động cơ, bộ máy (engine) của mình. Chương trình có thể mở các tập tin txt và xuất sang định dạng wav. Nó cũng có đôi môi đáng sợ di chuyển. Đó chủ yếu là một chương trình Linux, nhưng cũng được phát triển trên các phiên bản Windows với giao diện không kém phần độc đáo.
+
+
+== Tham khảo ==
+
+
+=== Chung ===
+
+
+=== Lịch sử ===
+Dennis Klatt's History of Speech Synthesis
+History and Development of Speech Synthesis (Helsinki University of Technology)
+
+
+== Xem thêm ==
+Xử lý giọng nói;
+Nhận dạng giọng nói;
+Đọc chính tả;
+Apple PlainTalk;
+FreeTTS;
+Lernout & Hauspie;
+
+
+== Liên kết ngoài ==
+
+
+=== Chung ===
+(tiếng Anh)
+Một hệ thống tổng hợp giọng nói tự do.
+comp.speech các câu thường hỏi
+Âm thanh của bài hát biểu diễn của phòng thí nghiệm Bell năm 1962
+Pediaphon tạo tập tin MP3 từ bài viết Wikipedia.
+
+
+=== Hệ thống tự do ===
+ModelTalker
+Feed2Podcast.com
+Sapi 4.0
+Festival.
+Flite (Festival-lite).
+FreeTTS.
+MBROLA (hậu trường, 25 ngôn ngữ).
+Gnuspeech.
+Epos (tiếng Séc và Slovakia).
+HTS và công cụ tạo giọng.
+Hệ thống cho tiếng Ấn Độ, Tamil và Kannada.
+eSpeak.
+www.NewsCasta.com.
+www.vnspeech.com (NHMTTS: engine tổng hợp tiếng Việt).
+
+
+=== Thương mại ===
+Acapela Group
+AT&T

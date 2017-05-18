@@ -1,6 +1,6 @@
 # Vietnamese Wikipedia Corpus
 
-6906 documents from [Vietnamese Wikipedia](https://vi.wikipedia.org/wiki/Wikipedia_ti%E1%BA%BFng_Vi%E1%BB%87t)
+7128 documents from [Vietnamese Wikipedia](https://vi.wikipedia.org/wiki/Wikipedia_ti%E1%BA%BFng_Vi%E1%BB%87t)
 
 ## Example
 

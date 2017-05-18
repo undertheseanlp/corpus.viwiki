@@ -1,0 +1,78 @@
+Chính sách lưu thông tiền tệ hay chính sách tiền tệ (monetary policy) là quá trình quản lý cung tiền (money supply) của cơ quan quản lý tiền tệ (có thể là ngân hàng trung ương), thường là hướng tới một lãi suất mong muốn (targeting interest rate) để đạt được những mục đích ổn định và tăng trưởng kinh tế - như kiềm chế lạm phát, duy trì ổn định tỷ giá hối đoái, đạt được toàn dụng lao động hay tăng trưởng kinh tế. Chính sách lưu thông tiền tệ bao gồm việc thay đổi các loại lãi suất nhất định, có thể trực tiếp hay gián tiếp thông qua các nghiệp vụ thị trường mở; quy định mức dự trữ bắt buộc; hoặc trao đổi trên thị trường ngoại hối. nhiều vân đề khác
+Chính sách tiền tệ có thể chia làm: chính sách mở rộng và chính sách thu hẹp. Chính sách mở rộng là tăng cung tiền lên hơn mức bình thường.
+
+
+== Các dạng chính sách tiền tệ ==
+
+Chính sách hướng tới mục tiêu lạm phát hiện đang sử dụng tại Australia, Brazil, Canada, Chile, Colombia, the Czech Republic, Hungary, New Zealand, Norway, Iceland, Philippines, Poland, Sweden, South Africa, Turkey, và Anh Quốc.
+Loại chính sách tổng cung tiền (monetary aggregates) được các nước tiên tiến sử dụng trong thập niên 1980s (gồm cả Hoa Kỳ).
+Hoa Kỳ hiện tại đang sử dụng chính sách tổng hợp (mixed policy). Hoa Kỳ bắt đầu sử dụng từ những năm 1980s và nó còn có tên là "Taylor rule," theo đó đảm bảo rằng lãi suất của FED thay đổi thích ứng với các shock lạm phát và sản lượng đầu ra.
+
+
+== Các công cụ của chính sách tiền tệ ==
+Gồm có 6 công cụ sau:
+Công cụ tái cấp vốn: là hình thức cấp tín dụng của Ngân hàng Trung ương đối với các Ngân hàng thương mại. Khi cấp 1 khoản tín dụng cho Ngân hàng thương mại, Ngân hàng Trung ương đã tăng lượng tiền cung ứng đồng thời tạo cơ sở cho Ngân hàng thương mại tạo bút tệ và khai thông khả năng thanh toán của họ.
+Công cụ tỷ lệ dự trữ bắt buộc: là tỷ lệ giữa số lượng phương tiện cần vô hiệu hóa trên tổng số tiền gửi huy động, nhằm điều chỉnh khả năng thanh toán (cho vay) của các Ngân hàng thương mại.
+Công cụ nghiệp vụ thị trường mở: là hoạt động Ngân hàng Trung ương mua bán giấy tờ có giá ngắn hạn trên thị trường tiền tệ, điều hòa cung cầu về giấy tờ có giá, gây ảnh hưởng đến khối lượng dự trữ của các Ngân hàng thương mại, từ đó tác động đến khả năng cung ứng tín dụng của các Ngân hàng thương mại dẫn đến làm tăng hay giảm khối lượng tiền tệ.
+Công cụ lãi suất tín dụng: đây được xem là công cụ gián tiếp trong thực hiện chính sách tiền tệ bởi vì sự thay đổi lãi suất không trực tiếp làm tăng thêm hay giảm bớt lượng tiền trong lưu thông, mà có thể làm kích thích hay kìm hãm sản xuất. Nó là 1 công cụ rất lợi hại. Cơ chế điều hành lãi suất được hiểu là tổng thể những chủ trương chính sách và giải pháp cụ thể của Ngân hàng Trung ương nhằm điều tiết lãi suất trên thị trường tiền tệ, tín dụng trong từng thời kỳ nhất định.
+Công cụ hạn mức tín dụng: là 1 công cụ can thiệp trực tiếp mang tính hành chính của Ngân hàng Trung ương để khống chế mức tăng khối lượng tín dụng của các tổ chức tín dụng. Hạn mức tín dụng là mức dư nợ tối đa mà Ngân hàng Trung ương buộc các Ngân hàng thương mại phải chấp hành khi cấp tín dụng cho nền kinh tế.
+Tỷ giá hối đoái:Tỷ giá hối đoái là tương quan sức mua giữa đồng nội tệ và đồng ngoại tệ. Nó vừa phản ánh sức mua của đồng nội tệ, vừa là biểu hiên quan hệ cung cầu ngoại hối. Tỷ giá hối đoái là công cụ, là đòn bẩy điều tiết cung cầu ngoại tệ, tác động mạnh đến xuất nhập khẩu và hoạt động sản xuất kinh doanh trong nước. Chính sách tỷ giá tác động một cách nhạy bén đến tình hình sản xuất, xuất nhập khẩu hàng hóa, tình trạng tài chính, tiện tệ, cán cân thanh toán quốc tế, thu hút vốn đầu tư, dự trữ của đất nước. Về thực chất tỷ giá không phải là công cụ của chính sách tiền tệ vì tỷ giá không làm thay đổi lượng tiền tệ trong lưu thông. Tuy nhiên ở nhiều nước, đặc biệt là các nước có nền kinh tế đang chuyển đổi coi tỷ giá là công cụ hỗ trợ quan trọng cho chính sách tiền tệ.
+Cơ quan hữu trách về tiền tệ sử dụng chính sách tiền tệ nhằm hai mục đích: ổn định kinh tế và can thiệp tỷ giá hối đoái.
+Về ổn định kinh tế vĩ mô, nguyên lý hoạt động chung của chính sách tiền tệ là cơ quan hữu trách về tiền tệ (ngân hàng trung ương hay cục tiền tệ) sẽ thay đổi lượng cung tiền tệ. Các công cụ để đạt được mục tiêu này gồm: thay đổi lãi suất chiết khẩu, thay đổi tỷ lệ dự trữ bắt buộc, và các nghiệp vụ thị trường mở.
+
+
+=== Thay đổi lãi suất chiết khấu ===
+Xem bài chính về lãi suất chiết khấu
+Cơ quan hữu trách về tiền tệ có thể thay đổi lãi suất mà mình cho các ngân hàng vay, thông qua đó điều chỉnh lượng tiền cơ sở. Khi lượng tiền cơ sở thay đổi, thì lượng cung tiền cũng thay đổi theo. vì MS= số nhân tiền* MB mà MB=C+R với C là lượng tiền mặt và R là lượng tiền dự trữ trong các ngân hàng, khi lãi suất chiết khấu tăng sẽ làm cho lượng tiền mà các ngân hàng thu được từ việc NHTW chiết khấu các chứng từ có giá giảm xuống, khả năng cho vay của các ngân hàng giảm sút làm tổng cung tiền giảm
+
+
+=== Thay đổi tỷ lệ dự trữ bắt buộc ===
+Xem bài chính về dự trữ bắt buộc
+Các cơ quan hữu trách về tiền tệ thường quy định các ngân hàng phải gửi một phần tài sản tại chỗ mình. Khi cần triển khai chính sách tiền tệ, cơ quan hữu trách về tiền tệ có thể thay đổi quy định về mức gửi tài sản đó. Nếu mức gửi tăng lên như khi thực hiện chính sách tiền tệ thắt chặt, thì lượng tiền mà các ngân hàng còn nắm giữ sẽ giảm đi. Do đó, tiền cơ sở giảm đi,và lượng cung tiền trên thị trường cũng giảm đi.
+Công cụ mang tính chất hành chính này ngày nay ít được sử dụng ở các nền kinh tế thị trường phát triển.
+
+
+=== Tiến hành các nghiệp vụ thị trường mở ===
+Xem bài chính về nghiệp vụ thị trường mở
+Cơ quan hữu trách tiền tệ khi mua vào các loại công trái và giấy tờ có giá khác của nhà nước đã làm tăng lượng tiền cơ sở. Hoặc khi bán ra các giấy tờ có giá đó sẽ làm giảm lượng tiền cơ sở. Qua đó, cơ quan hữu trách tiền tệ có thể điều chỉnh được lượng cung tiền.
+
+
+== Mục tiêu của chính sách tiền tệ ==
+Chính sách tiền tệ nhắm vào hai mục tiêu là lãi suất và lượng cung tiền. Thông thường, không thể thực hiện đồng thời hai mục tiêu này. Chỉ để điều tiết chu kỳ kinh tế ở tình trạng bình thường, thì mục tiêu lãi suất được lựa chọn. Còn khi kinh tế quá nóng hay kinh tế quá lạnh, chính sách tiền tệ sẽ nhằm vào mục tiêu trực tiếp hơn, đó là lượng cung tiền.
+Nghiệp vụ thị trường mở là hoạt động mua và bán trái phiếu chính phủ của FED. Khi FED mua trái phiếu của công chúng, số đô-la mà nó trả cho trái phiếu làm tăng tiền cơ sở và qua đó làm tăng cung tiền. Khi FED bán trái phiếu cho công chúng, số đô-la mà nó nhận làm giảm tiền cơ sở và bởi vậy làm giảm cung tiền. Nghiệp vụ thị trường mở là công cụ chính sách được Fed sử dụng thường xuyên nhất. Trên thực tế, FED thực hiện nghiệp vụ này trên thị trường chứng khoán New York hàng ngày
+
+
+== Những tranh luận về hiệu quả của chính sách tiền tệ ==
+
+
+=== Bẫy thanh khoản ===
+Xem bài chính về Bẫy thanh khoản
+Khi ở tình trạng bẫy thanh khoản, chính sách tiền tệ sẽ không phát huy hiệu lực.
+
+
+=== Chế độ tỷ giá hối đoái cố định ===
+Ở một nền kinh tế áp dụng chế độ tỷ giá hối đoái cố định, chính sách tiền tệ sẽ bị hạn chế sử dụng, bởi bất cứ sự thay đổi nào của cung tiền cũng làm thay đổi tỷ giá hối đoái.
+
+
+=== Khi đầu tư không thay đổi theo lãi suất ===
+Chính sách tiền tệ làm thay đổi lãi suất, qua đó thay đổi đầu tư của xí nghiệp và điều chỉnh được tổng cầu. Đấy là giả thiết rằng đầu tư của xí nghiệp có phản ứng trước các thay đổi của lãi suất. Tuy nhiên, nếu đầu tư không phản ứng trước thay đổi của lãi suất, thì chính sách tiền tệ bị vô hiệu hóa. Sử dụng phép phân tích IS-LM cũng có thể thấy điều này. Khi đầu tư không phản ứng với lãi suất, đường IS trở nên thẳng đứng. Dù chính sách tiền tệ có làm dịch chuyển đường LM thế nào đi nữa, tổng cầu vẫn không thay đổi.
+Ngoài ba loại hạn chế nói trên, nếu cơ quan hữu trách tiền tệ không được hoạt động độc lập, thì chính phủ có thể can thiệp vào việc phát hành tiền tệ (chẳng hạn khi cần bù đắp thâm hụt ngân sách), khiến cho hiệu quả của chính sách tiền tệ trở nên hạn chế.
+
+
+== Tham khảo ==
+
+Mankiw, Gregory N. (2002), Macroeconomics, Fifth Edition, Worth Publishers.
+Mishkin, Frederic S. (2004), Economics of Money, Banking, and Financial Markets, Seventh Edition, Addison Wesley.
+
+
+== Xem thêm ==
+Đường LM
+Phân tích IS-LM
+Kinh tế học vĩ mô Keynes
+Chủ nghĩa tiền tệ
+Kinh tế học vĩ mô cổ điển mới
+Chính sách tài chính
+Mô hình Mundell-Fleming
+
+
+== Liên kết ngoài ==

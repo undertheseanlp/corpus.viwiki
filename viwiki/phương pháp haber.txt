@@ -1,0 +1,25 @@
+Phương pháp Haber, phản ứng Haber hay còn gọi là quy trình Haber–Bosch, là một phản ứng hóa học được áp dụng trong công nghiệp giữa khí nitơ và khí hiđrô. Đây là tiến trình chủ yếu trong công nghiệp để sản xuất ra amoniac:
+N2 + 3 H2 → 2 NH3   (ΔH = −92.4 kJ·mol−1)
+Nitơ là một chất dinh dưỡng quan trọng ảnh hướng tới sự phát triển của thực vật (như trong ADN) nhưng sự có mặt của nó lại hạn chế do chúng không thể sử dụng được trực tiếp khí nitơ. Cacbon và ô xi cũng rất quang trọng nhưng thực vật có thể lấy được từ đất và không khí. Ngay cả khi trong không khí nitơ chiếm tới 78%, phân tử N2 không thể trở thành chất dinh dưỡng cho cây trồng do 2 nguyên tử nitơ liên kết chặt với nhau qua liên kết 3 hóa trị. Nitơ phải được 'cố định', tức là chuyển thành một số dạng hợp chất sinh học, thông qua quá trình tự nhiên hay con người sản xuất. Cho tới đầu thế kỷ 20 Fritz Haber là người đầu tiên phát triển phương pháp thực tiễn để tổng hợp amoniac từ nitơ trong không khí, tạo ra loại dinh dưỡng thiết yếu bổ sung cho cây trồng. Trước khi có quy trình Haber (1910), amoniac rất khó có thể tạo ra với quy mô lớn. Cố định nitơ đã được thực hiện trên quy mô công nghiệp thông qua phương pháp Birkeland–Eyde (1903), nhưng cách sản xuất này tốn rất nhiều năng lượng.
+Các nhà khoa học ước tính công nghiệp sản xuất phân bón từ amoniac theo phương pháp Haber đã giúp duy trì nguồn thực phẩm cho khoảng một phần ba dân số trên Trái Đất. Ước tính có một nửa số protein trong cơ thể người đóng góp bởi nitơ có nguồn gốc cố định từ phản ứng này; phần còn lại từ quá trình cố định nitơ bởi vi khuẩn và vi khuẩn cổ.
+
+
+== Xem thêm ==
+Amoniac
+Sản xuất amoniac
+Sản xuất hiđrô
+Khí công nghiệp
+
+
+== Tham khảo ==
+
+“The Haber Process”. Chemguide.co.uk. 
+
+
+== Liên kết ngoài ==
+Tiến trình Haber-Bosch, một trong những phát minh quan trọng nhất của thế kỷ 20, theo như V. Smil tại tạp chí Nature, số ra ngày 29 tháng 7 năm 1999, tr 415 (Website idsia.ch do Jürgen Schmidhuber biên tập)
+Britannica guide to Nobel Prizes: Fritz Haber
+Nobel e-Museum - Tiểu sử Fritz Haber
+BASF - Fertilizer out of thin air
+Uses and Production of Ammonia
+Haber Process for Ammonia Synthesis

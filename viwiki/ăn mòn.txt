@@ -1,0 +1,27 @@
+Ăn mòn là sự phá hủy dần dần các vật liệu (thường là kim loại) thông qua phản ứng hóa học với môi trường.
+Theo nghĩa phổ biến nhất, ăn mòn có nghĩa là quá trình oxy hóa điện hóa học của kim loại trong phản ứng với các chất oxy hóa như oxy. Gỉ sắt - sự hình thành của các oxit sắt - là một ví dụ nổi tiếng của ăn mòn điện hóa. Đây là loại tổn thương thường tạo ra oxit hoặc muối của các kim loại ban đầu. Ăn mòn cũng có thể xảy ra trong các vật liệu phi kim loại, chẳng hạn như đồ gốm hoặc các polyme, mặc dù trong bối cảnh này, sự xuống cấp theo thời gian là từ phổ biến hơn. Ăn mòn làm giảm các tính chất hữu ích của vật liệu và kết cấu bao gồm sức mạnh, ngoại hình và khả năng thấm chất lỏng và chất khí.
+Nhiều cấu trúc hợp kim chỉ bị ăn mòn khi tiếp xúc với độ ẩm trong không khí, nhưng quá trình này có thể bị ảnh hưởng mạnh mẽ bởi việc tiếp xúc với các chất nhất định. Ăn mòn có thể được tập trung tại một vị trí để tạo thành lỗ thủng hoặc vết nứt, hoặc nó có thể mở rộng trên một diện tích rộng hơn hay ăn mòn bề mặt theo mọi hướng. Bởi vì ăn mòn là một quá trình kiểm soát khuếch tán, nó xảy ra trên bề mặt tiếp xúc. Kết quả là các phương pháp để làm giảm hoạt động của các bề mặt tiếp xúc như thụ động hóa và cromat hóa, có thể làm tăng sức đề kháng ăn mòn của vật liệu. Tuy nhiên, một số cơ chế ăn mòn khó nhìn thấy hơn và khó dự đoán hơn.
+
+
+== Ăn mòn điện ly ==
+
+Ăn mòn điện ly xảy ra khi hai kim loại khác nhau có những tiếp xúc vật lý hoặc điện với nhau và được đặt chìm trong một chất điện phân thông thường, hoặc khi các kim loại tương tự cũng được tiếp xúc với chất điện phân với nồng độ khác nhau. Trong một cặp kim loại như vậy, kim loại hoạt động hơn (anode) bị ăn mòn với tốc độ nhanh và các kim loại ít hoạt động hơn (cathode) bị ăn mòn với tốc độ chậm. Khi bị nhúng vào chất điện ly một cách riêng biệt thì mỗi kim loại bị ăn mòn ở tốc độ của riêng mình. Loại kim loại để sử dụng được dễ dàng xác định bằng cách dựa theo chuỗi kim loại hoạt động. Ví dụ, kẽm thường được sử dụng như một anode hy sinh cho các kết cấu thép. Ăn mòn điện ly là mối quan tâm lớn đối với các ngành công nghiệp hàng hải và bất cứ nơi nào có nước (chứa muối) trong đường ống hoặc các kết cấu kim loại.
+Các yếu tố như kích thước tương đối của anode, các loại kim loại, và các điều kiện hoạt động (nhiệt độ, độ ẩm, độ mặn, v.v...) ảnh hưởng đến ăn mòn điện ly. Tỷ lệ diện tích bề mặt của các anode và cathode trực tiếp ảnh hưởng đến tỷ lệ ăn mòn của vật liệu. Ăn mòn điện ly thường được ngăn ngừa bằng cách sử dụng các anốt hy sinh.
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Jones, Denny (1996). Principles and Prevention of Corrosion (ấn bản 2). Upper Saddle River, New Jersey: Prentice Hall. ISBN 0-13-359993-0.  Bảo trì CS1: Văn bản dư (link)
+
+
+== Liên kết ngoài ==
+Corrosion Prevention Association
+NACE International -Professional society for corrosion engineers (NACE)
+Working Safely with Corrosive Chemicals
+efcweb.org – European Federation of Corrosion
+Metal Corrosion – Corrosion Theory
+Electrochemistry of corrosion
+A 3.4-Mb pdf handbook "Corrosion Prevention and Control", 2006, 296 pages, US DoD
+How do you remove and prevent flash rust on stainless steel? Article about the preventions of flash rust

@@ -1,0 +1,22 @@
+Bài này trình bày đơn vị đo khối lượng; xem các nghĩa khác tại gam (định hướng)
+Một gam (viết tắt là g) hay gram là một đơn vị đo khối lượng bằng 1/1000 kilôgam. Trong hệ đo lường quốc tế SI, gam là đơn vị đo được suy ra từ đơn vị cơ bản kilôgam theo định nghĩa trên.
+
+
+== Một số giá trị quy đổi khối lượng tương đương ==
+1 gram = 5 carat
+1 gram = 15,4324 grain
+1 gram = 0,0352736 ounce avdp (oz)
+1 gram = 0,0321492 ounce troy (ozt)
+1 gram = 0,643014 pennyweight
+
+
+== Xem thêm ==
+Hệ đo lường quốc tế
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Gam tại Từ điển bách khoa Việt Nam
+Gram tại Encyclopædia Britannica (tiếng Anh)

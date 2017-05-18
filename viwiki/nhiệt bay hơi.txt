@@ -1,0 +1,12 @@
+Nhiệt lượng bay hơi hay nhiệt bay hơi của một hợp chất hóa học được định nghĩa là nhiệt lượng cần thiết để cung cấp cho một đơn vị đo về lượng chất đó (như đơn vị đo khối lượng hay số phân tử như mol) để nó chuyển từ trạng thái lỏng sang trạng thái khí, tại nhiệt độ bay hơi.
+Nhiệt lượng bay hơi cũng đúng bằng nhiệt lượng tỏa ra bởi một đơn vị đo lượng vật chất khi nó chuyển từ trạng thái khí sang lỏng, tại nhiệt độ ngưng tụ.
+Trong hệ thống đo lường quốc tế, đơn vị đo của nhiệt lượng bay hơi là Joule trên kilôgam, J·kg−1 hay J/kg, hoặc Joule trên mol.
+
+
+== Xem thêm ==
+Nhiệt nóng chảy
+Nhiệt dung riêng
+Nhiệt độ bay hơi
+
+
+== Tham khảo ==

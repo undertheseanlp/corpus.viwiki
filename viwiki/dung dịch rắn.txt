@@ -1,0 +1,28 @@
+Dung dịch rắn là những pha tinh thể có thành phần bao gồm thêm các nguyên tử của nguyên tố chất hòa tan, phân bố ở trong mạng tinh thể dung môi. Các nguyên tử của chất hòa tan thay thế các nguyên tử ở các nút mạng hay xen kẽ vào chỗ trống giữa các nút mạng. Trong trường hợp đầu tiên người ta gọi các tinh thể là các dung dịch rắn thay thế còn trong trường hợp thứ hai là dung dịch rắn xen kẽ.
+Nói một cách khác, dung dịch rắn là một thể rắn đồng nhất hình thành từ các pha rắn của dung dịch.
+
+
+== Đặc tính của dung dịch rắn ==
+Về mặt cấu trúc dung dịch rắn của hợp kim có kiểu mạng tinh thể vẫn là kiểu mạng của kim loại dung môi. Đặc tính cơ bản này quyết định các đặc trưng cơ lý hóa tính của dung dịch rắn, về cơ bản vẫn giữ được các tính chất cơ bản của kim loại chủ hay nền. Như vậy dung dịch rắn trong hợp kim có các đặc tính cụ thể như sau:
+Liên kết vẫn là liên kết kim loại, do vậy dung dịch rắn vẫn giữ được tính dẻo giống như kim loại nguyên chất
+Thành phần hoá học thay đổi theo phạm vi nhất định mà không làm thay đổi kiểu mạng.
+Tính chất biến đổi nhiều: Độ dẻo, độ dai, hệ số nhiệt độ điện trở giảm, điện trở độ bền, độ cứng tăng lên.
+Do các đặc tính trên nên dung dịch rắn là cơ sở của hợp kim kết cấu dùng trong cơ khí. Trong hợp kim này pha cơ bản là dung dịch rắn, nó chiếm xấp xỉ đến 90% có trường hợp đến 100%.
+
+
+== Dung dịch rắn thay thế ==
+Ở các dung dịch rắn thay thế, các nguyên tử của chất tan thông thường được phân bố thống kê trong mạng dung môi. Mạng không gian xung quanh nguyên tử chất tan xuất hiện những sai lệch cục bộ. Những sai lệch này dẫn tới sự thay đổi tính chất và sự thay đổi thông số mạng trung bình. Sự hình thành các dung dịch rắn luôn luôn kèm theo việc tăng điện trở và giảm hệ số nhiệt điện trở. Các kim loại ở dạng dung dịch rắn thường kém dẻo, luôn luôn cứng hơn và bền hơn so với các kim loại nguyên chất.
+
+
+== Dung dịch rắn xen kẽ ==
+Trong kim loại, các dung dịch rắn loại này xuất hiện khi hợp kim hóa các kim loại chuyển tiếp bằng các á kim có bán kính nguyên tử nhỏ như H, N, C, B. Những xô lệch mạng xuất hiện khi tạo thành dung dịch rắn xen kẽ vượt quá những xô lệch mạng khi tạo thành dung dịch rắn thay thế, do vậy các tính chất cũng thay đổi mạnh hơn. Theo mức độ tăng nồng độ của nguyên tố hòa tan trong dung dịch rắn mà điện trở, lực kháng từ, độ cứng và độ bền tăng, nhưng độ dẻo và độ dai giảm đi rõ rệt.
+
+
+== Tham khảo ==
+
+Vật liệu học, B.N.Arzamaxov, Nhà xuất bản Giáo dục, 2000.
+
+
+== Xem thêm ==
+Hệ keo
+Dung dịch lỏng (khái niệm thường dùng)

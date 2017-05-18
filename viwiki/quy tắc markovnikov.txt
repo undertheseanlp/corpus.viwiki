@@ -1,0 +1,23 @@
+Trong hóa học, quy tắc Markovnikov là một quan sát dựa trên quy tắc Zaitsev. Nó được nhà hóa học người Nga V. V. Markovnikov phát biểu năm 1870 . Trong các phản ứng hóa học được thấy cụ thể trong hóa hữu cơ, quy tắc này phát biểu rằng với sự bổ sung (cộng) của H-X vào anken, thì nguyên tử hiđrô (H) sẽ gắn với nguyên tử cacbon nào có ít thành phần thay thế gốc ankyl hơn (nguyên tử cacbon bậc thấp) còn nhóm halua (X) sẽ gắn với nguyên tử cacbon nào có nhiều thành phần thay thế gốc ankyl hơn (nguyên tử cacbon bậc cao).
+
+Điều tương tự là đúng khi anken phản ứng với nước trong một phản ứng cộng để tạo thành rượu. Nhóm hydroxyl (OH) liên kết với nguyên tử cacbon với số lượng liên kết cacbon-cacbon cao hơn, trong khi nguyên tử hiđrô liên kết với nguyên tử cacbon ở đầu kia của liên kết đôi (với nhiều liên kết cacbon-hiđrô hơn).
+Nền tảng hóa học của quy tắc Markovnikov là sự hình thành của cacbocation ổn định nhất trong phản ứng cộng. Sự bổ sung của hiđrô vào một nguyên tử cacbon trong anken tạo ra một điện tích dương trên nguyên tử cacbon kia, tạo ra một cacbocation trung gian. Cacbocation càng bị thay thế nhiều hơn (các liên kết mà nó có với cacbon hay với các thành phần thay thế cung cấp điện tử là nhiều hơn) thì nó càng ổn định, do cảm ứng. Sản phẩm chính của phản ứng cộng sẽ là chất được tạo thành từ chất trung gian ổn định hơn. Vì thế, sản phẩm chính của phản ứng cộng HX (trong đó X là nguyên tử nào đó có độ âm điện cao hơn H) vào anken sẽ có nguyên tử hiđrô ở vị trí ít bị thay thế hơn và thành phần X ở vị trí bị thay thế nhiều hơn. Tuy nhiên, một điều quan trọng cần lưu ý là cacbocation ít bị thay thế và kém ổn định hơn cũng được tạo ra ở một mức độ nào đó và sẽ được dùng để tạo ra sản phẩm phụ với trật tự gắn của hiđrô và X là ngược lại.
+Quy tắc này có thể phát biểu nôm na như sau: "Kẻ giàu càng giàu thêm còn kẻ nghèo càng nghèo hơn". Nguyên tử cacbon giàu thành phần thay thế sẽ thu được nhiều thành phần thay thế hơn còn nguyên tử cacbon với nhiều hiđrô sẽ nhận thêm hiđrô trong nhiều phản ứng cộng của các hợp chất hữu cơ.
+
+
+== Ngữ cảnh lịch sử ==
+Một trong những phản ứng mà Markovnikov dựa quy tắc của ông vào đó (thực hiện lần đầu tiên năm 1865) là phản ứng của iodua hiđrô (HI) với brômua vinyl (CH2=CH-Br). Trong biểu lộ khác của quy tắc của ông, ông đã quan sát thấy nguyên tử halogen (I) bổ sung thêm vào nguyên tử cacbon đã có sẵn nguyên tử halogen. Phản ứng thủy phân halua của sản phẩm tạo ra từ phản ứng ban đầu với ôxít bạc (Ag2O) ẩm để tạo ra etanal chứng minh cho kiểu thay thế 1,1.
+
+Người ta nhận thấy rằng ấn bản ban đầu năm 1870 của Markovnikov là cẩu thả và tự bản thân ông cũng không thực hiện nhiều công việc thực nghiệm. Bản thân quy tắc này chỉ xuất hiện như là chú giải trong trang thứ tư của bài báo 26 trang, điều đó lý giải tại sao quy tắc của ông phải mất 60 năm để trở nên nổi tiếng.
+
+
+== Phản quy tắc Markovnikov ==
+Cơ chế tránh cacbocation trung gian có thể phản ứng thông qua cơ chế khác, đó là chọn lọc cấu trúc, ngược lại với những gì mà quy tắc Markovnikov dự đoán, chẳng hạn như phản ứng cộng gốc tự do. Những phản ứng như thế được gọi là phản Markovnikov', do nguyên tử halogen sẽ bổ sung vào nguyên tử cacbon có ít thành phần thay thế hơn. Một lần nữa, tương tự như điện tích dương, gốc tự do là ổn định nhất khi nằm ở vị trí được thay thế nhiều hơn.
+Cách thức phản ứng phản Markovnikov được mở rộng cho các phản ứng hóa học khác hơn là chỉ có trong mỗi phản ứng cộng cho các anken. Một biểu thị của phản Markovnikov được quan sát trong phản ứng hydrat hóa của phenyl axetylen, trong đó với xúc tác là vàng (Au) sẽ cho sản phẩm là axetophenon thông thường, nhưng với xúc tácđặc biệt là ruteni thì đồng phân cấu trúc khác là 2-phenylaxetalđehyt:
+
+Cách thức phản ứng phản Markovnikov cũng có thể được biểu lộ trong các phản ứng tái sắp xếp nhất định nào đó. Trong xúc tác clorua titan (IV) (TiCl4) phản ứng thế ái lực hạt nhân chính thức tại đồng phân lập thể (enantiomer) 1 trong sơ đồ dưới đây thì hai sản phẩm racemic được tạo ra là 2a và 2b :
+
+Sự phân bố sản phẩm này có thể được giải thích bằng giả thuyết cho rằng sự mất đi nhóm hydroxy trong 1 tạo ra cacbocation A bậc ba và nó được sắp xếp lại thành cacbocation bậc hai B dường như ít thu hút hơn. Clo có thể tiếp cận trung tâm này từ hai mặt dẫn tới sự tạo ra hỗn hợp được ghi nhận lại của các đồng phân.
+
+
+== Tham khảo ==

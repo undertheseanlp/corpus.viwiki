@@ -1,0 +1,27 @@
+Darmstadti (phát âm như "đam-xtat-ti"), trước đây được gọi là ununnili, là nguyên tố hoá học tổng hợp với ký hiệu Ds (trước đây Uun) và số nguyên tử 110. Nó nằm ở vị trí nguyên tố nặng nhất trong nhóm 10 nhưng đồng vị bền đầy đủ chưa được biết đến để cho phép tiến hành các thí nghiệm để xác định vị trí của nó. Nguyên tố tổng hợp này là một trong các nguyên tử siêu nặng và được tổng hợp đầu tiên năm 1994. Đồng vị nặng và tồn tại lâu nhất là 281aDs có chu kỳ bán rã ~10 giây mặc dù có thể đây là đồng phân hạt nhân, 281bDs có chu kỳ bán rã chưa được xác nhận là khoảng 4 phút.
+
+
+== Lịch sử ==
+
+
+=== Phát hiện ===
+Darmstadti được tổng hợp đầu tiên ngày 9 tháng 11 năm 1994 tại Gesellschaft für Schwerionenforschung (GSI) ở Wixhausen, ngoại ô phía bắc của Darmstadt, Đức bởi Peter Armbruster và Gottfried Münzenberg, dưới sự hướng dẫn của giáo sư Sigurd Hofmann. Bốn nguyên tử của nó được phát hiện bằng phản ứng tổng hợp hạt nhân khi bắn phá chì-208 bằng các ion niken-62: 
+20882Pb + 6228Ni → 269110Ds + 10n
+Trong cùng loạt thí nghiệm, chính nhóm này cũng đã tiến hành phản ứng dùng các ion niken-64 nặng hơn. Theo đó, 9 nguyên tử 271Ds được phát hiện bởi sự tương quan với các tính chất phân rã sinh kèm: 
+20882Pb + 6428Ni → 271110Ds + 10n
+IUPAC/IUPAP Joint Working Party (JWP) đã công nhận nhóm GSI phát hiện ra nguyên tố này năm 2001.
+
+
+=== Đặt tên ===
+Nguyên tố 110 đầu tiên được đặt tên tạm thời là ununnilium (/ˌjuːnəˈnɪliəm/ hay /ˌʌnəˈnɪliəm/, ký hiệu Uun). Khi công nhận nhóm những người phát hiện, thì nhóm ở GSI đề nghị đặt tên là darmstadti (Ds) và wixhausi (Wi) cho nguyên tố 110 này. Họ quyết định chọn tên darmstadti, theo tên thành phố gần nơi phát hiện ra nó, Darmstadt, chứ không phải ngoại ô Wixhausen. Tên gọi của nguyên tố mới được chính thức chấp nhận ngày 16 tháng 8 năm 2003.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Darmstadtium.com
+WebElements.com: Darmstadtium
+IUPAC: Element 110 is named darmstadtium
+Apsidium: Darmstadtium 110
+[Eric Scerri, The Periodic Table, Its Story and Its Significance, Oxford University Press, 2007]

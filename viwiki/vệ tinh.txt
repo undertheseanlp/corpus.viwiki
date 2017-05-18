@@ -1,0 +1,103 @@
+Một vệ tinh là bất kỳ một vật thể nào quay quanh một vật thể khác (được coi là vật thể chính của nó). Mọi vật thể thuộc Hệ Mặt Trời, gồm cả Trái Đất, đều là vệ tinh của Mặt Trời, hay là vệ tinh của các vật thể đó, như trong trường hợp của Mặt Trăng.
+Việc định nghĩa vật thể nào là vệ tinh không phải luôn đơn giản khi xét đến một cặp hai vật thể. Bởi vì mọi vật thể đều có sức hút của trọng lực, chuyển động của vật thể chính cũng bị ảnh hưởng bởi vệ tinh của nó. Nếu hai vật thể có khối lượng tương đương, thì chúng thường được coi là một hệ đôi và không một vật thể nào bị coi là vệ tinh; một ví dụ là tiểu hành tinh kép 90 Antiope. Tiêu chuẩn chung để một vật thể được coi là vệ tinh là trung tâm khối lượng của hệ nằm bên trong vật thể chính.
+Trong cách nói thông thường, thuật ngữ "vệ tinh" thường để chỉ một vệ tinh nhân tạo, nó là một vật thể do con người chế tạo và bay quanh Trái Đất (hay một thiên thể khác). Tuy nhiên, các nhà khoa học cũng có thể sử dụng thuật ngữ đó để chỉ các vệ tinh thiên nhiên, hay các Mặt Trăng. Nói chung, trong cách dùng thông thường, "vệ tinh thiên nhiên" là thuật ngữ để chỉ các Mặt Trăng.
+
+
+== Các vệ tinh nhân tạo ==
+
+
+=== Vệ tinh nhân tạo đầu tiên ===
+Người đầu tiên đã nghĩ ra vệ tinh nhân tạo dùng cho truyền thông là nhà viết truyện khoa học giả tưởng Arthur C. Clarke vào năm 1945 ([2]). Ông đã nghiên cứu về cách phóng các vệ tinh này, quỹ đạo của chúng và nhiều khía cạnh khác cho việc thành lập một hệ thống vệ tinh nhân tạo bao phủ thế giới. Ông cũng đề nghị 3 vệ tinh địa tĩnh (geostationary) sẽ đủ để bao phủ viễn thông cho toàn bộ Trái Đất.
+Tuy nhiên, vệ tinh nhân tạo đầu tiên là Sputnik 1 được Liên bang Xô viết phóng lên ngày 4 tháng 10 năm 1957.
+
+
+=== Các loại vệ tinh ===
+
+Vệ tinh vũ trụ là các vệ tinh được dùng để quan sát các hành tinh xa xôi, các thiên hà và các vật thể ngoài vũ trụ khác.
+Vệ tinh thông tin là các vệ tinh nhân tạo nằm trong không gian dùng cho các mục đích viễn thông sử dụng sóng radio ở tần số vi ba. Đa số các vệ tinh truyền thông sử dụng các quỹ đạo đồng bộ hay các quỹ đạo địa tĩnh, mặc dù các hệ thống gần đây sử dụng các vệ tinh tại quỹ đạo Trái Đất tầm thấp.
+Vệ tinh quan sát Trái Đất là các vệ tinh được thiết kế đặc biệt để quan sát Trái Đất từ quỹ đạo, tương tự như các vệ tinh trinh sát nhưng được dùng cho các mục đích phi quân sự như kiểm tra môi trường, khí tượng học, lập bản đồ, vân vân. (Xem thêm Hệ thống quan sát Trái Đất.)
+Vệ tinh hoa tiêu (navigation satellite) là các vệ tinh sử dụng các tín hiệu radio được truyền đi theo đúng chu kỳ cho phép các bộ thu sóng di động trên mặt đất xác định chính xác được vị trí của chúng. Sự quang đãng (không có vật cản) của đường truyền và thu tín hiệu giữa vệ tinh (nguồn phát) và máy thu trên mặt đất tích hợp với những cải tiến mới về điện tử học cho phép hệ thống vệ tinh hoa tiêu đo đạc khoảng cách với độ chính xác khoảng một vài mét.
+Vệ tinh tiêu diệt là các vệ tinh được thiết kế để tiêu diệt các vệ tinh "đối phương", các vũ khí và các mục tiêu bay trên quỹ đạo khác. Một số vệ tinh này được trang bị đạn động lực, một số khác sử dụng năng lượng và/hay các vũ khí hạt nhân để phá huỷ các vệ tinh, ICBMs, MIRVs. Cả Hoa Kỳ và Liên bang Xô viết đều có các vệ tinh này. Các đường dẫn bàn luận về các "Vệ tinh tiêu diệt", ASATS (Vệ tinh chống vệ tinh) gồm USSR Tests ASAT weapon và ASAT Test. Xem thêm IMINT.
+Vệ tinh trinh sát là những vệ tinh quan sát Trái Đất hay vệ tinh truyền thông được triển khai cho các ứng dụng quân sự hay tình báo. Chúng ta hiện không biết nhiều về năng lực thực sự của các vệ tinh này vì các chính phủ điều hành chúng thường giữ tuyệt đối bí mật về thông tin cho các vệ tinh loại này.
+Vệ tinh năng lượng Mặt trời là các vệ tinh được đề xuất là sẽ bay trên quỹ đạo Trái Đất tầm cao sử dụng cách truyền năng lượng viba để chiếu năng lượng mặt trời tới những antenna cực lớn trên mặt đất, nơi nó có thể được dùng để thay thế cho những nguồn năng lượng quy ước thông thường.
+Trạm vũ trụ là các cơ cấu do con người chế tạo, được thiết kế để con người sống được trong vũ trụ. Một trạm vũ trụ được phân biệt với những tàu vũ trụ ở điểm nó không có động cơ đầy chính hay các thiết bị hạ cánh — thay vào đó, người ta dùng các thiết bị khác để vận chuyển lên và xuống trạm. Các trạm vũ trụ được thiết kế để có thể duy trì sự sống trong một khoảng thời gian trung bình trên quỹ đạo, các khoảng thời gian có thể là tuần, tháng, hay thậm chí là năm.
+Vệ tinh thời tiết là các vệ tinh có mục đích chính là để quan sát thời tiết và/hay khí hậu của Trái Đất.
+Vệ tinh thu nhỏ là các vệ tinh có trọng lượng và kích thước nhỏ hơn thông thường. Những tiêu chí xếp hạng mới để đánh giá các vệ tinh đó: tiểu vệ tinh (500–200 kg), vệ tinh siêu nhỏ (dưới 200 kg), vệ tinh cỡ nano (dưới 10 kg), vệ tinh cỡ pico (dưới 1 kg) và vệ tinh cỡ femto (dưới 100 g).
+Vệ tinh sinh học là các vệ tinh có mang các tổ chức sinh vật sống, nói chung là cho mục đích thực nghiệm khoa học.
+
+
+=== Các loại quỹ đạo ===
+Đa số các vệ tinh thường được mô tả đặc điểm dựa theo quỹ đạo của chúng. Mặc dù một vệ tinh có thể bay trên một quỹ đạo ở bất kỳ độ cao nào, các vệ tinh thường được xếp theo độ cao của chúng.
+Quỹ đạo Trái Đất tầm thấp (LEO: 200 đến 1200 km bên trên bề mặt Trái Đất)
+Quỹ đạo Trái Đất tầm trung (ICO hay MEO: 1200 đến 35786 km)
+Quỹ đạo Trái Đất đồng bộ (GSO)
+Quỹ đạo địa tĩnh (GEO: quỹ đạo đồng bộ không nghiêng, cách xích đạo Trái Đất 35 786 km)
+Quỹ đạo Trái Đất tầm cao (HEO: trên 35786 km)
+Các quỹ đạo sau là các quỹ đạo đặc biệt cũng thường được dùng để xác định đặc điểm của vệ tinh:
+Quỹ đạo Molniya
+Quỹ đạo đồng bộ Mặt Trời
+Quỹ đạo cực
+Quỹ đạo di chuyển Mặt Trăng
+Quỹ đạo di chuyển Hohmann Đối với kiểu quỹ đạo này thì vệ tinh thường là một tàu vũ trụ
+Quỹ đạo siêu đồng bộ hay quỹ đạo trôi dạt — quỹ đạo bên trên GEO. Các vệ tinh sẽ trôi dạt theo hướng tây.
+(GEO + 235 km + (1000 × CR × A/m) km)
+nếu CR là hệ số bức xạ áp suất của Mặt Trời (thường giữa 1.2 và 1.5) và A/m là vùng tương quan [m²] với tỷ lệ khối lượng [kg] khô
+
+Quỹ đạo dưới đồng bộ hay quỹ đạo trôi dạt - quỹ đạo gần nhưng bên dưới GEO. Được sử dụng cho các vệ tinh đang trải qua những thay đổi tình trạng ổn định theo hướng đông.
+Các vệ tinh cũng có thể quay quanh các điểm đu đưa.
+
+
+=== Các nước có khả năng phóng vệ tinh nhân tạo ===
+
+Danh sách này bao gồm những quốc gia có khả năng độc lập để tự phóng vệ tinh lên quỹ đạo, gồm cả việc sản xuất ra khí cụ cần thiết để phóng. Ghi chú: nhiều nước khác cũng có khả năng thiết kế hay chế tạo vệ tinh - việc này, nói chung, không tốn nhiều tiền và cũng không đòi hỏi khả năng khoa học và kỹ thuật lớn – nhưng không thể phóng chúng lên, thay vào đó họ dùng các dịch vụ phóng vệ tinh của nước ngoài. Danh sách này không nhắc tới các quốc gia đó mà chỉ liệt kê những nước có khả năng phóng vệ tinh và ngày khả năng này lần đầu tiên được thể hiện.
+
+Cả Bắc Triều Tiên và Iraq đã tuyên bố những vụ phóng vệ tinh lên quỹ đạo nhưng điều này còn chưa được xác định. Na Uy đã phóng các vệ tinh trong nước và quốc tế từ trung tâm vũ trụ của họ ở Andøya. Tới năm 2006, chỉ có tám quốc gia đã phóng các vệ tinh lên quỹ đạo một cách độc lập với phương tiện phóng của chính họ chế tạo – theo thứ tự thời gian: Liên bang Xô viết, Hoa Kỳ, Pháp, Nhật Bản, Trung Quốc, Anh, Ấn Độ và Israel. Khả năng phóng vệ tinh của Anh và Pháp hiện được quy cho Liên minh châu Âu, và khả năng của Liên bang Xô viết được chuyển cho Nga, làm giảm số lượng những thực thể chính trị với khả năng phóng vệ tinh thực tế xuống còn bảy cường quốc vũ trụ chính: Hoa Kỳ, Nga, Trung Quốc, Ấn Độ, Liên minh châu Âu, Nhật Bản – và một cường quốc vũ trụ "nhỏ": Israel. Nhiều quốc gia khác như Nam Triều Tiên, Pakistan và Brasil đang ở giai đoạn đầu chương trình phát triển khả năng phóng vệ tinh ở mức độ nhỏ của họ, và đang tìm cách trở thành các tiểu cường quốc vũ trụ - các nước khác có thể có khả năng về khoa học và công nghệ, nhưng không có khả năng kinh tế hay không có tham vọng về chính trị.
+
+
+== Vệ tinh đầu tiên của các quốc gia ==
+
+
+=== Vệ tinh nhân tạo của Việt Nam ===
+Tháng 4 năm 2008 Việt Nam đã thuê Pháp phóng thành công vệ tinh VINASAT-1 (mua của Mỹ) lên quỹ đạo địa tĩnh, với việc phóng được vệ tinh nhân tạo Việt Nam đã tiết kiệm 10 triệu USD mỗi năm. Việt Nam là nước thứ 93 phóng vệ tinh nhân tạo và là nước thứ sáu tại Đông Nam Á. Theo các nguồn thông tin nước ngoài, tổng trị giá của dự án VINASAT-1 là 250 triệu USD, trong đó bao gồm chi phí mua vệ tinh và phí phóng vệ tinh, xây dựng trạm mặt đất, bảo hiểm... Dự tính vệ tinh hoạt động được từ 15 đến 20 năm và được khoảng 20 công ty phụ trách.
+Năm 2007, sau khi được thành lập, Viện Công nghệ Vũ trụ Việt Nam đã tiến hành dự án chế tạo vệ tinh nhỏ pico (10x10x10cm, 1 kg) 
+Năm 2008, công ty FPT thành lập Phòng nghiên cứu không gian FSpace với mục tiêu thiết kế chế tạo vệ tinh nhỏ vệ tinh nano F-1 (10x10x20cm, 2 kg).
+
+Ngày 16-5-2012, 5g13p, tên lửa Arian 5 mang theo vệ tinh Vinasat-2 rời bãi phóng Kouru của Guyana, Nam Mỹ. Sau 36 phút bay, lúc 5g49p, vệ tinh Vinasat-2 rời khỏi tên lửa Arian 5, vào quỹ đạo an toàn. Vinasat-2 với nhiệm vụ và thiết kế tương tự như Vinasat-1.
+
+
+== Xem thêm ==
+
+Bảng thời gian các vệ tinh nhân tạo và các tàu thăm dò vũ trụ
+Các vệ tinh (theo ngày phóng)
+Syncom 1 (1963), 2 (1963) and 3 (1964)
+Anik 1 (1972)
+Aryabhata (1975) (Ấn Độ, phóng bởi Liên bang xô viết)
+Hermes Communications Technology Satellite (1976)
+Munin (2000) (Thụy Sĩ, phóng bởi Hoa Kỳ)
+KEO satellite - a space time capsule (2006)
+
+Các dịch vụ vệ tinh
+Điện thoại vệ tinh
+Internet vệ tinh
+Truyền hình vệ tinh
+Radio vệ tinh
+
+Vũ khí chống vệ tinh
+Vệ tinh kéo dây
+Voyager 1
+
+
+== Chú thích ==
+
+^ Hess, Wilmot (1968). The Radiation Belt and Magnetosphere. 
+
+
+== Liên kết ngoài ==
+J-Pass NASA site for satellite-watching
+heavens-above.com site for satellite-watching
+卫星的运行轨迹图 所有卫星的实时轨迹.tiếng Trung: {{{1}}}(tiếng Anh)(tiếng Tây Ban Nha)(tiếng Pháp)
+Orbitron - Satellite Tracking System Free satellite tracking software
+Satellite Tracking in Recreation Radio Amateur an excellent link to many links
+UN Office for Outer Space Affairs ensures all countries benefit from satellites
+Internet via Satellite The attraction of Satellite for professional users is the ability to establish a network specifically dimensioned for the required service in terms of demand, performance, and geographical distribution, with the ease of scalability as the market expands
+Phòng nghiên cứu FSpace và giấc mơ chế tạo vệ tinh nano đầu tiên của Việt Nam

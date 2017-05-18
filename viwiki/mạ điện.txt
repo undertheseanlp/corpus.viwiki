@@ -1,0 +1,77 @@
+Kỹ thuật mạ điện hay kỹ thuật Galvano (lấy theo tên nhà khoa học Ý Luigi Galvani), là tên gọi của quá trình điện hóa phủ lớp kim loại lên một vật.
+Trong quá trình mạ điện, vật cần mạ được gắn với cực âm catôt, kim loại mạ gắn với cực dương anôt của nguồn điện trong dung dịch điện môi. Cực dương của nguồn điện sẽ hút các electron e- trong quá trình ôxi hóa và giải phóng các ion kim loại dương, dưới tác dụng lực tĩnh điện các ion dương này sẽ di chuyển về cực âm, tại đây chúng nhận lại e- trong quá trình ôxi hóa khử hình thành lớp kim loại bám trên bề mặt của vật được mạ. Độ dày của lớp mạ tỉ lệ thuận với cường độ dòng điện của nguồn và thời gian mạ.Ví dụ: mạ đồng trong dung dịch điện môi SO42-, tại cực dương:
+Cu → Cu2+ + 2e-
+Cu2+ + SO42- → CuSO4
+CuSO4 dễ tan trong dung dịch, tại cực âm
+CuSO4 → Cu2+ + SO42-
+Cu2+ + 2e- → Cu
+Kim loại mạ thường là vàng, bạc, đồng, niken và được dùng trong việc sản xuất đồ trang sức, linh kiện điện tử, tế bào nhiên liệu, đồ gia dụng không gỉ,...
+
+
+== Lịch sử ==
+Ngành mạ điện được nhà hóa học ý Luigi V. Brugnatelli khai sinh vào năm 1805. Ông đã sử dụng thành quả của người đồng nghiệp Alessandro Volta, pin Volta để tạo ra lớp phủ điện hóa đầu tiên. Phát minh của ông không có ứng dụng trong công nghiệp trong suốt 30 năm và chỉ được nghiên cứu trong các phòng thí nghiệm. Năm 1839, hai nhà hóa học Anh và Nga khác độc lập nghiên cứu quá trình mạ kim loại đồng cho những nút bản in. Ngay sau đó, John Wright, Birmingham, Anh sử dụng Kali Xyanua cho dung dịch mạ vàng, bạc. Vào thời kì này, đó là dung dịch duy nhất có khả năng cho lớp mạ kim loại quý rất đẹp. Tiếp bước Wright, George Elkington và Henry Elkington đã nhận được bằng sáng chế kĩ thuật mạ điện vào năm 1840. Hai năm sau đó, ngành công nghiệp mạ điện tại Birmingham đã có sản phẩm mạ điện trên khắp thế giới. Cùng với sự phát triển của khoa học điện hóa, cơ chế điện kết tủa lên bề mặt kim loại ngày càng được nghiên cứu và sáng tỏ. Kĩ thuật mạ điện phi trang trí cũng được phát triển. Lớp mạ kền, đồng, kẽm, thiếc thương mại chất lượng tốt đã trở nên phổ biến từ những năm 1850. Kể từ khi máy phát điện được phát minh từ cuối thế kỉ 19, ngành công nghiệp mạ điện đã bước sang một kỉ nguyên mới. Mật độ dòng điện tăng lên, năng suất lao động tăng, quá trình mạ được tự động hóa từ một phần đến hoàn toàn. Những dung dịch cùng với các phụ gia mới làm cho lớp mạ đạt chất lượng tốt hơn. Các lớp mạ được nghiên cứu phát triển để thỏa mãn cả yêu cầu chống ăn mòn lẫn trang trí, làm đẹp... Kể từ sau chiến tranh thế giới thứ hai, người ta còn nghiên cứu thành công kĩ thuật mạ crom cứng, mạ đa lớp, mạ đồng hợp kim. mạ kền sunfamat... Nhà vật lý Mỹ Richard Feynman đã nghiên cứu thành công công nghệ mạ lên nền nhựa. Hiện nay công nghệ này đã được ứng dụng rộng rãi. Kĩ thuật mạ hiện là một trong ba quá trình trong chu trình LIGA - được sử dụng trong sản xuất robot điện tử siêu nhỏ (MEMS).
+
+
+== Sự hình thành lớp mạ điện ==
+Điều kiện tạo thành lớp mạ điện
+Mạ điện là một công nghệ điện phân. Quá trình tổng quát là: -Trên anot xảy ra quá trình hòa tan kim loại anot:
+M – ne → Mn+
+-Trên catot xảy ra quá trình cation phóng điện trở thành kim loại mạ:
+Mn+ + ne → M
+Thực ra quá trình trên xảy ra theo nhiều bước liên tiếp nhau, bao nhiều giai đoạn nối tiếp nhau như: quá trình cation hidrat hóa di chuyển từ dung dịch vào bề mặt catot (quá trình khuếch tán); cation mất lớp vỏ hidrat, vào tiếp xúc trực tiếp với bề mặt catot (quá trình hấp phụ); điện tử chuyển từ catot điền vào vành hóa trị của cation, biến nó thành nguyên tử kim loại trung hòa (quá trình phóng điện); các nguyên tử kim loại này sẽ tạo thành mầm tinh thể mới, hoặc tham gia nuôi lớn mầm tinh thể đã hình thành trước đó. Mọi trở lực của các quá trình trên đều gây nên một độ phân cực catot, (quá thế catot), tức là điện thế catot dịch về phía âm hơn một lượng so với cân bằng:
+ηc = φcb - φ = ηnđ + ηđh + ηkt
+Trong đó:
+ηc: quá thế tổng cộng ở catot
+φcb: điện thế cân bằng của catot
+φ: điện thế phân cực catot (đã có dòng i)
+ηnđ: quá thế nồng độ (phụ thuộc vào quá trình khuếch tán)
+ηđh: quá thế chuyển điện tích
+ηkt: quá thế kết tinh
+Do đó, điện kết tủa kim loại trên catot sẽ chỉ diễn ra khi nào điện thế catot dịch chuyển khỏi vị trí cân bằng về phía âm một lượng đủ để khắc phục các trở lực nói trên.
+Điều kiện xuất hiện tinh thể
+Trong điều kiện điện kết tủa kim loại trong dung dịch, yếu tố quyết định tốc độ tạo mầm tinh thể là tỷ số giữa mật độ dòng điện catot Dc và mật độ dòng trao đổi i0:
+β = Dc / i0
+Mặt khác, theo phương trình Tafel:
+η = a + b.log Dc
+Suy rộng ra, mọi yếu tố làm tăng phân cực catot đều cho lớp mạ có tinh thể nhỏ mịn, và ngược lại. Các mầm tinh thể ban đầu mới xuất hiện được ưu tiên tham gia vào mạng lưới tinh thể của kim loại nền ở vị trí có lợi nhất về mặt năng lượng. Đó là những chỗ tập trung nhiều nguyên tử láng giềng nhất, vì ở đó năng lượng dư bề mặt lớn nhất, các mối liên kết chưa được sử dụng là nhiều nhất. Nếu kim loại nền và kim loại kết tủa có cấu trúc mạng khá giống nhau về hình thái, kích thước thì cấu trúc của kim loại nền được bảo tồn và kim loại kết tủa sẽ phát triển theo cấu trúc đó (cấu trúc lai ghép (epitaxy)), xảy ra ở những lớp nguyên tử đầu tiên. Sau đó sẽ dần chuyển về cấu trúc vốn có của nó ở những lớp kết tủa tiếp theo. Trường hợp này cho lớp kim loại mạ có độ gắn bám rất tốt, xấp xỉ với độ bền liên kết của kim loại nền. Nếu thông số mạng của chúng khác khá xa nhau, hoặc bề mặt chúng có tạp chất hay chất hấp phụ, thì sự lai ghép sẽ không xảy ra. Đấy là một trong những nguyên nhân gây nên ứng suất nội và làm lớp mạ dễ bong.
+Thành phần chất điện giải
+Chất điện giải dùng trong mạ điện thường là dung dịch nước của muối đơn hay muối phức. Dung dịch muối đơn còn gọi là dung dịch axit. Cấu tử chính của dung dịch này là muối của các axit vô cơ hòa tan nhiều trong nước và phân ly hoàn toàn trong dung dịch thành các ion tự do. Ở dung dịch này, phân cực nồng độ và phân cực hóa học không lớn lắm nên lớp mạ thu được thô, to, dày mỏng không đều, rất dễ bị lỏi. Mặt khác dung dịch muối đơn cho hiệu suất dòng điện cao, và càng cao khi mật độ dòng lớn. Thường được dùng để mạ những chi tiết có hình thù đơn giản như dạng tấm, dạng hộp… Dung dịch muối phức dược tạo thành khi pha chế dung dịch từ các cấu tử ban đầu. ion kim loại mạ sẽ tạo phức với các ligan thành ion phức. hoạt độ của ion kim loại tự do giảm đi rất nhiều. do đó điện thế tiêu chuẩn dịch về phía âm rất nhiều. điều này giúp cho lớp mạ mịn, phủ kín, dày đều… được dùng để mạ các chi tiết có hình thù phức tạp… Để tăng độ dẫn điện cho dung dịch, thường pha thêm các chất điện giải trơ. Các chất này không tham gia vào quá trình catot và anot mà chỉ đóng vai trò chuyển điện trong dung dịch, làm giảm điện thế bể mạ. Các chất dẫn điện thường dùng là Na2SO4, H2SO4, Na2CO3… Để ổn định pH cho dung dịch mạ, cần phải thêm vào dung dịch chất đệm pH thích hợp để tạo môi trường thích hợp nhất cho phản ứng điện kết tủa xảy ra. Các chất hoạt động bề mặt bao gồm các chất bóng loại I, loại II, các chất thấm ướt, chất chống thụ động anot thường là những hợp chất hữu cơ, có tác dụng hấp phụ lên bề mặt phân chia pha, tham gia vào một số quá trình mong muốn, làm cho lớp mạ thu được có chất lượng tốt hơn.
+
+
+== Gia công bề mặt kim loại trước khi mạ ==
+Gia công cơ học
+Gia công cơ học là quá trình giúp cho bề mặt vật mạ có độ đồng đều và độ nhẵn cao, giúp cho lớp mạ bám chắc và đẹp. có thể thực hiện gia công cơ học bằng nhiều cách: mài, đánh bóng (là quá trình mài tinh), quay xóc đối với các vật nhỏ, chải, phun tia cát hoặc tia nước dưới áp suất cao Quá trình gia công cơ học làm lớp kim loại bề mặt sản phẩm bị biến dạng, làm giảm độ gắn bám của lớp mạ sau này. Vì vậy trước khi mạ cần phải hoạt hóa bề mặt trong axit loãng rồi đem mạ ngay.
+Tẩy dầu mỡ
+Bề mặt kim loại sau nhiều công đoạn sản xuất cơ khí, thường dính dầu mỡ, dù rất mỏng cũng đủ để làm cho bề mặt trở nên kị nước, không tiếp xúc được với dung dịch tẩy, dung dịch mạ… Có thể tiến hành tẩy dầu mỡ bằng các cách sau: Tẩy trong dung môi hữu cơ như tricloetylen C2HCl3, tetracloetylen C2Cl4, cacbontetraclorua CCl4… chúng có đặc điểm là hòa tan tốt nhiều loại chất béo, không ăn mòn kim loại, không bắt lửa. Tuy nhiên, sau khi dung môi bay hơi, trên bề mặt kim loại vẫn còn dính lại lớp màng dầu mỡ rất mỏng => không sạch, cẩn phải tẩy tiếp trong dung dịch kiềm. Tẩy trong dung dịch kiềm nóng NaOH có bổ sung thêm một số chất nhũ tương hóa như Na2SiO3, Na3PO4… Với các chất hữu cơ có nguồn gốc động thực vật sẽ tham gia phản ứng xà phòng hóa với NaOH và bị tách ra khỏi bề mặt. Với những loại dầu mỡ khoáng vật thì sẽ bị tách ra dưới tác dụng nhũ tương hóa của Na2SiO3. Tẩy trong dung dịch kiềm bằng phương pháp điện hóa, dưới tác dụng của dòng điện, oxy và hidro thoát ra có tác dụng cuốn theo các hạt mỡ bám vào bề mặt. tấy bằng phương pháp này dung dịch kiềm chỉ cần pha loãng hơn so với tẩy hóa học đã đạt hiệu quả. Tẩy dầu mỡ siêu âm là dùng sóng siêu âm với tần số dao động lớn tác dụng lên bề mặt kim loại, những rung động mạnh sẽ giúp lớp dầu mỡ tách ra dễ dàng hơn.
+Tẩy gỉ
+Bề mặt kim loại nền thường phủ một lớp oxit dày, gọi là gỉ. tẩy gỉ hóa học cho kim loại đen thường dùng axit loãng H2SO4 hay HCl hoặc hỗn hợp của chúng. Khi tẩy thường diễn ra đồng thời 2 quá trình: hòa tan oxit và kim loại nền. Tẩy gỉ điện hóa là tẩy gỉ hóa học đồng thời có sự tham gia của dòng điện. Có thể tiến hành tẩy gỉ catot hoặc tẩy gỉ anot. Tẩy gỉ anot lớp bề mặt sẽ rất sạch và hơi nhám nên lớp mạ sẽ gắn bám rất tốt. Tẩy gỉ catot sẽ sinh ra H mới sinh, có tác dụng khử một phần oxit. Hidro sinh ra còn góp phần làm tơi cơ học màng oxit và nó sẽ bị bong ra. Tẩy gỉ bằng catot chỉ áp dụng cho vật mạ bằng thép cacbon, còn với vật mạ Ni, Cr thì không hiệu quả lắm.
+Tẩy bóng điện hóa và hóa học
+Tẩy bóng điện hóa cho độ bóng cao hơn gia công cơ học. lớp mạ trên nó gắn bám tốt, tinh thể nhỏ, ít lỗ thủng và tạo ra tính chất quang học đặc biệt. Khi tẩy bóng điện hóa thường mắc vật tẩy với anot đặt trong một dung dịch đặc biệt. Do tốc độ hòa tan của phần lồi lớn hơn của phần lõm nên bề mặt được san bằng và trở nên nhẵn bóng. Cơ chế tẩy bóng hóa học cũng giống tẩy bóng điện hóa. Khi tẩy bóng hóa học cũng xuất hiện lớp màng mỏng cản trở hoặc kìm hãm tác dụng xâm thực của dung dịch với kim loại tại chỗ lõm.
+Tẩy nhẹ
+Tẩy nhẹ hay còn gọi là hoạt hóa bề mặt, nhằm lấy đi lớp oxit rất mỏng, không nhìn thấy được, được hình thành trong quá trình gia công ngay trước khi mạ. khi tẩy nhẹ xong, cấu trúc tinh thể của nền bị lộ ra, độ gắn bám sẽ tăng lên.
+
+
+== Xem thêm ==
+Anot hóa
+Mạ Crom
+Điện hóa
+Các ngành công nghiệp
+
+
+== Tham khảo ==
+
+
+=== Ghi chú ===
+
+
+=== Thư mục ===
+Dufour, Jim (2006). An Introduction to Metallurgy, 5th ed. Cameron. 
+Mohler, James B. (1969). Electroplating and Related Processes. Chemical Publishing Co. ISBN 0-8206-0037-7. 
+Todd, Robert H.; Dell K. Allen and Leo Alting (1994). “Surface Coating”. Manufacturing Processes Reference Guide. Industrial Press Inc. ISBN 0-8311-3049-0.  
+Trần Minh Hoàng. Mạ điện. Nhà xuất bản khoa học và kĩ thuật, Hà Nội, 2001.
+Trần Minh Hoàng, Nguyễn Văn Thanh, Lê Đức Tri. Sổ tay Mạ điện. Nhà xuất bản khoa học và kĩ thuật, Hà Nội, 2002.
+Trương Ngọc Liên. Điện hóa lý thuyết. Nhà xuất bản khoa học và kĩ thuật, Hà Nội, 2000
+
+
+== Liên kết ngoài ==
+Electrochemistry Encyclopedia article

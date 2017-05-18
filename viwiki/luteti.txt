@@ -1,0 +1,63 @@
+Luteti là một nguyên tố hóa học có ký hiệu Lu và số nguyên tử 71. Nó nằm trong lớp d của bảng tuần hoàn chứ không thuộc lớp f, nhưng IUPAC xếp nó vào nhóm Lantan. Nó là một trong các nguyên tố đã được xếp vào nhóm "đất hiếm". Một trong các đồng vị phóng xạ của nó (176Lu) được dùng trong công nghệ hạt nhân để các định tuổi của các thiên thạch. Luteti luôn cộng sinh với nguyên tố yttri và đôi khi được dùng trong các hợp kim và chất xúc tác trong các phản ứng hóa học khác nhau.
+
+
+== Tính chất ==
+
+
+=== Tính chất vật lý ===
+Luteti là một kim loại hóa trị 3 chống ăn mòn màu trắng bạc. Nó có bán kính nguyên tử nhỏ nhất và là nguyên tố đất hiếm nặng và cứng nhất. Luteti có điểm nóng chảy cao nhất trong nhóm Lantan, có thể liên quan đến Lanthanide contraction.
+
+
+=== Tính chất hóa học ===
+Kim loại luteti xỉ chậm trong không khí và dễ cháy ở 150 °C tạo thành luteti(III) ôxit:
+4 Lu + 3 O2 → 2 Lu2O3
+Luteti có khả năng cho điện tử và phản ứng chậm với nước lạnh và khá nhanh với nước nóng tạo thành luteti hydroxit:
+2 Lu (r) + 6 H2O (l) → 2 Lu(OH)3 (dd) + 3 H2 (k)
+Kim loại luteti phản ứng với các halogen tạo muối halugenua:
+2 Lu (r) + 3 F2 (k) → 2 LuF3 (r) [trắng]
+2 Lu (r) + 3 Cl2 (k) → 2 LuCl3 (r) [trắng]
+2 Lu (r) + 3 Br2 (k) → 2 LuBr3 (r)[trắng]
+2 Lu (r) + 3 I2 (k) → 2 LuI3 (r)nâu
+Luteti dễ hoà tan trong axit sulfuric loãng tạo thành dung dịch chứa các ion luteti(III) không màu, tồn tại ở dạng phức [Lu(OH2)9]3+:
+2 Lu (r) + 3 H2SO4 (dd) → 2 Lu3+ (dd) + 3 SO2–4 (dd) + 3 H2 (k)
+
+
+=== Các hợp chất ===
+Trong tất cả các hợp chất của nó, luteti có số ôxy hóa +3. Các dung dịch của hầu hết các muối Lu đều không màu và hình thành các tinh thể màu trắng khi khô. Các muối hòa tan như clorua (LuCl3), bromua (LuBr3), iodua (LuI3), nitrat, sulfat và axetat tạo thành các hydrat khi kết tinh. Ôxit (Lu2O3), hydroxit, florua (LuF3), cacbonat, phosphat và oxalat không hòa tan trong nước.
+Luteti tantalat (LuTaO4) là vật liệu đặc nhất có màu trắng và không phóng xạ (mật độ 9,81 g/cm3) và cũng có ý tưởng dùng làm tia X phốtpho. Thoria thì đặc hơn (10 g/cm3) và cũng có màu trắng nhưng có tính phóng xạ.
+
+
+=== Đồng vị ===
+
+Luteti tự nhiên gồm 1 đồng vị ổn định 175Lu (chiếm 97,41%) và một đồng vị phóng xạ beta 176Lu có chu kỳ bán rã 3,78×1010 năm (2,59%). Đồng vị phóng xạ này được sử dụng để định tuổi. 33 đồng vị phóng xạ đã được nhận biết, trong đó đồng vị tự nhiên ổn định nhất là 176Lu, và các đồng vị tổng hợp 174Lu có chu kỳ bán rã 3,31 năm, và 173Lu là 1,37 năm. Tất cả các đồng vị phóng xạ còn lại có chu kỳ bán rã nhỏ hơn 9 ngày, và đa số trong đó có chu kỳ bán rã nhỏ 30 phút.Nguyên tố này có 18 meta state, với trạng thái ổn định nhất là 177mLu (T½=160,4 ngày), 174mLu (T½=142 ngày) và 178mLu (T½=23,1 phút).
+Các đồng vị đã được biết đến của luteti có khối lượng nguyên tử nằm trong khoảng từ 149,973 (150Lu) đến 183,961 (184Lu). Cơ chế phân rã chủ yếu trước đồng vị ổn định phổ biến nhất, 175Lu, là bắt điện tử (với vài alpha và positron), và cơ chế chủ yếu sau là phân rã beta. Các sản phẩm phân rã chủ yếu trước 175Lu là các đồng vị của nguyên tố 70 (ytterbi) và các sản phẩm phân rã sau là các đồng vị của nguyên tố 72 (hafni).
+
+
+== Lịch sử ==
+Luteti (Latin Lutetia nghĩa là Paris) được phát hiện một cách độc lập vào năm 1907 bởi nhà khoa học Pháp Georges Urbain, nhà khoáng vật học Úc, Nam tước Carl Auer von Welsbach, và nhà hóa học Hoa Kỳ Charles James. Các nhà khoa học này tìm thấy luteti ở dạng không tinh khiết trong khoáng vật ytterbia, loại khoáng vật mà nhà hóa học Thụy Điển Jean Charles Galissard de Marignac (và hầu hết các nhà khoa học khác) cho rằng nó hoàn toàn chứa nguyên tố ytterbi.
+Việc tách luteti từ ytterbi của Marignac được miêu tả lần đầu tiên bởi Urbain và được đặt cách gọi của ông. Ông chọn các tên neoytterbi (ytterbi mới) và luteci cho cho nguyên tố mới nhưng tên neoytterbi cuối cùng đã được đổi lại cho nguyên tố ytterbi và năm 1949 nguyên tố thứ 71 được đổi thành luteti.
+Tranh cãi về người đầu tiên phát hiện đã được viết trong hai bài báo theo đó Urbain và von Welsbach cáo buộc lẫn nhau về các kết quả công bố chịu ảnh hưởng từ các nghiên cứu được công bố của nhau.
+Hội đồng Khối lượng nguyên tử (The Commission on Atomic Mass), tổ chức có trách nhiệm đặt tên cho các nguyên tố mới, đã giải quyết tranh chấp vào năm 1909 chấp nhận việc phát hiện đầu tiên của Urbain và các tên của ông ấy đặt làm tên chính thức. Vấn đề liên quan đến quyết định này là Urbain là một trong bốn thành viên của Hội đồng này.
+Welsbach đã đề xuất các tên cassiopeium cho nguyên tố 71 (theo tên của chòm sao Cassiopeia) và aldebaranium cho nguyên tố mới ytterbium nhưng các đề xuất này đã bị từ chối (mặc dù một số nhà khoa học Đức trong thập niên 1950 đã gọi nguyên tố thứ 71 là cassiopium).
+Trong khi đó, Charles James, người đã khiêm tốn đứng ngoài các cuộc tranh cãi đó, đã làm việc nhiều hơn những người khác, và chắc chắn sở hữu nguồn cung cấp luteti lớn nhất vào thời điểm đó.
+
+
+== Ứng dụng ==
+Do hiếm và giá cao, luteti có rất ít ứng dụng thương mại. Tuy nhiên, luteti không phóng xạ có thể được dùng làm chất xúc tác trong cracking dầu mỏ trong lọc dầu và cũng có thể được sử dụng trong alkyl hóa, hydro hóa, và polymer hóa.
+Các ứng dụng khác như:
+Luteti-176 (176Lu) đã được dùng để định tuổi thiên thạch.
+Luteti nhôm garnet (Al5Lu3O12) được đề xuất làm vật liệu thấu kính ngâm in thạch bản (immersion lithography) chiết suất cao.
+Luteti-177 (177Lu) được dùng làm hạt nhân phóng xạ bị bắn phá trong thí nghiệm điều trị các khối u thần kinh nội tiết.
+Luteti oxyorthosilicat chứa tạp chất Ceri (LSO) hiện tại là hợp chất thích hợp cho các máy dò trong chụp cắt lớp positron (positron emission tomography - PET.) 
+Ứng dụng làm nguồn phát tia beta, dùng luteti để kích hoạt neutron. Một lượng nhỏ luteti được cho thêm vào gadolini galli garnet (GGG) ở dạng tạp chất, chất này được dùng trong các bộ nhớ bọt từ.
+
+
+== Tham khảo ==
+
+Guide to the Elements - Revised Edition, Albert Stwertka, (Oxford University Press; 1998) ISBN 0-19-508083-1
+
+
+== Liên kết ngoài ==
+WebElements.com - Lutetium (also used as a reference)
+It's Elemental - Lutetium
+pure Lutetium >99,9% picture in the element collection from Heinrich Pniok

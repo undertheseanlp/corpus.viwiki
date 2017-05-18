@@ -1,0 +1,855 @@
+Bức xạ điện từ (hay sóng điện từ) là sự kết hợp (nhân vector) của dao động điện trường và từ trường vuông góc với nhau, lan truyền trong không gian như sóng. Sóng điện từ cũng bị lượng tử hoá thành những "đợt sóng" có tính chất như các hạt chuyển động gọi là photon.
+Khi lan truyền, sóng điện từ mang theo năng lượng, động lượng và thông tin. Sóng điện từ với bước sóng nằm trong khoảng 400 nm và 700 nm có thể được quan sát bằng mắt người và gọi là ánh sáng. Môn vật lý nghiên cứu sóng điện từ là điện động lực học, một chuyên ngành của điện từ học.
+Nhà toán học người Scotland là James Clerk Maxwell (1831-1879) đã mở rộng các công trình của Michael Faraday và nhận thấy rằng chính mối liên hệ khăng khít giữa điện và từ đã làm cho loại sóng này trở nên có thể. Những tính toán của ông chứng tỏ rằng sóng điện từ có thể truyền với vận tốc ánh sáng và điều này khiến cho ông ngờ rằng chính ánh sáng cũng là một loại sóng điện từ. Năm 1888, Heinrich Hertz đã dùng điện phát ra các sóng có tính chất giống như ánh sáng và do đó đã xác nhận những ý tưởng của Faraday và Maxwell.
+Mọi vật thể đều phát ra bức xạ điện từ, do dao động nhiệt của các phân tử hay nguyên tử hoặc các hạt cấu tạo nên chúng, với năng lượng bức xạ và phân bố cường độ bức xạ theo tần số phụ thuộc vào ở nhiệt độ của vật thể, gần giống bức xạ vật đen. Sự bức xạ này lấy đi nhiệt năng của vật thể. Các vật thể cũng có thể hấp thụ bức xạ phát ra từ vật thể khác; và quá trình phát ra và hấp thụ bức xạ là một trong các quá trình trao đổi nhiệt.
+
+
+== Phân loại ==
+
+Sóng điện từ được phân loại theo bước sóng, từ dài đến ngắn:
+
+
+== Tính chất ==
+
+
+=== Vận tốc trong chân không ===
+Trong chân không, các thí nghiệm đã chứng tỏ các bức xạ điện từ đi với vận tốc không thay đổi, thường được ký hiệu là c=299.792.458 m/s, thậm chí không phụ thuộc vào hệ quy chiếu. Hiện tượng này đã thay đổi nhiều quan điểm về cơ học cổ điển của Isaac Newton và thúc đẩy Albert Einstein tìm ra lý thuyết tương đối.
+
+
+=== Sóng ngang ===
+Sóng điện từ là sóng ngang, nghĩa là nó là sự lan truyền của các dao động liên quan đến tính chất có hướng (cụ thể là cường độ điện trường và cường độ từ trường) của các phần tử mà hướng dao động vuông góc với hướng lan truyền sóng.
+Như nhiều sóng ngang, sóng điện từ có hiện tượng phân cực.
+
+
+=== Năng lượng ===
+Năng lượng của một hạt photon có bước sóng λ là hc/λ, với h là hằng số Planck và c là vận tốc ánh sáng trong chân không. Như vậy, bước sóng càng dài thì năng lượng photon càng nhỏ.
+
+
+=== Tương tác với vật chất ===
+Trong tương tác với các nguyên tử, phân tử và các hạt cơ bản, các tính chất sóng điện từ phụ thuộc ít nhiều vào bước sóng (hay năng lượng của các photon). Dưới đây là một vài ví dụ. Xin xem chi tiết thêm ở các trang dành cho các loại sóng điện từ riêng.
+
+
+==== Radio ====
+Radio có ít tương tác với vật chất vì năng lượng của photon nhỏ. Nó có thể đi vượt qua khoảng cách dài mà không mất năng lượng cho tương tác, do vậy được sử dụng để truyền thông tin, như trong kỹ thuật truyền thanh.
+Khi thu nạp radio bằng ăng-ten, người ta tận dụng tương tác giữa điện trường của sóng với các vật dẫn điện. Các dòng điện sẽ dao động qua lại trong vật dẫn điện dưới ảnh hưởng của dao động điện trong sóng radio.
+
+
+==== Vi sóng ====
+Tần số dao động của vi sóng trùng với tần số cộng hưởng của nhiều phân tử hữu cơ có trong sinh vật và trong thức ăn. Do vậy vi sóng bị hấp thụ mạnh bởi các phân tử hữu cơ và làm chúng nóng lên khi năng lượng sóng được chuyển sang năng lượng nhiệt của các phân tử. Tính chất này được sử dụng để làm lò vi sóng.
+Điều này cũng nói lên rằng sử dụng thiết bị hay lò vi sóng thì cần đứng xa vùng có tác động của sóng lúc phát sóng, cỡ 1 m trở lên, vì các màn chắn không chắn hết được sóng. Vi sóng dư tác động lên mô của ta theo hai mức độ:
+Mức nhẹ là làm biến tính một số phân tử protein trong tế bào, tức là gây sai lệch một chút cấu trúc phân tử, nó không "chết" và vẫn tham gia được vào hoạt động sống của tế bào. Nếu sai lệch này xảy ra trong phân tử ADN là nơi chứa mã di truyền, thì gọi là biến dị, và quá trình phân bào sau đó sẽ cho ra loạt các tế bào lỗi di truyền. Khi đó nếu hệ bạch huyết không đủ mạnh để loại bỏ được những tế bào lỗi này thì chúng phát triển thành ung thư.
+Mức nặng là biến tính mạnh, phân tử không còn tham dự được vào hoạt động sống. Nếu lượng phân tử bị biến tính lớn thì tế bào chết.
+Khi có nhiều tế bào chết thì được gọi là "bỏng vi sóng". Số tế bào chết nằm xen với tế bào sống, và giảm dần từ mặt da vào đến bề dày skin, của sóng 2450 MHz là đến 17 mm. Hiện tượng này có thể xảy ra khi đặt laptop làm việc lên đùi, do quá gần vi sóng dư do laptop phát ra. Tổn thương vi sóng không hiện ra thành vùng rõ như bỏng nhiệt truyền thống, và nhiều người không nhận ra. Thông thường thì bạch cầu dọn được các tế bào chết, nhưng việc dọn các tế bào lỗi di truyền thì tùy thuộc vào khả năng của hệ thống bạch huyết của từng cá thể, để lại nguy cơ phát sinh ung thư.
+
+
+==== Ánh sáng ====
+Các dao động của điện trường trong ánh sáng tác động mạnh đến các tế bào cảm thụ ánh sáng trong mắt người. Có 3 loại tế bào cảm thụ ánh sáng trong mắt người, cảm nhận 3 vùng quang phổ khác nhau (tức ba màu sắc khác nhau). Sự kết hợp cùng lúc 3 tín hiệu từ 3 loại tế bào này tạo nên những phổ màu sắc phong phú. Để tạo ra hình ảnh màu trên màn hình, người ta cũng sử dụng 3 loại đèn phát sáng ở 3 vùng quang phổ nhạy cảm của người.
+
+
+== Lý thuyết ==
+Lý thuyết điện từ của James Clerk Maxwell đã giải thích sự xuất hiện của sóng điện từ như sau. Mọi điện tích khi thay đổi vận tốc (tăng tốc hay giảm tốc), hoặc mọi từ trường biến đổi, đều là nguồn sinh ra các sóng điện từ. Khi từ trường hay điện trường biến đổi tại một điểm trong không gian, theo hệ phương trình Maxwell, các từ trường hay điện trường ở các điểm xung quanh cũng bị biến đổi theo, và cứ như thế sự biến đổi này lan toả ra xung quanh với vận tốc ánh sáng.
+Biểu diễn toán học về từ trường và điện trường sinh ra từ một nguồn biến đổi chứa thêm các phần mô tả về dao động của nguồn, nhưng xảy ra sau một thời gian chậm hơn so với tại nguồn. Đó chính là mô tả toán học của bức xạ điện từ. Tuy trong các phương trình Maxwell, bức xạ điện từ hoàn toàn có tính chất sóng, đặc trưng bởi vận tốc, bước sóng (hoặc tần số), nhưng nó cũng có tính chất hạt, theo thuyết lượng tử, với năng lượng liên hệ với bước sóng như đã trình bày ở mục các tính chất.
+
+
+=== Phương trình Maxwell ===
+Có thể chứng minh dao động điện từ lan truyền trong không gian dưới dạng sóng bằng các phương trình Maxwell.
+Xét trường hợp điện trường và/hoặc từ trường biến đổi trong chân không và không có dòng điện hay điện tích tự do trong không gian đang xét; 4 phương trình Maxwell rút gọn thành:
+
+  
+    
+      
+        ∇
+        ⋅
+        
+          E
+        
+        =
+        0
+        
+        
+        
+         
+         
+        (
+        1
+        )
+      
+    
+    {\displaystyle \nabla \cdot \mathbf {E} =0\qquad \qquad \qquad \ \ (1)}
+  
+
+  
+    
+      
+        ∇
+        ×
+        
+          E
+        
+        =
+        −
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+        
+          B
+        
+        
+        
+        (
+        2
+        )
+      
+    
+    {\displaystyle \nabla \times \mathbf {E} =-{\frac {\partial }{\partial t}}\mathbf {B} \qquad \qquad (2)}
+  
+
+  
+    
+      
+        ∇
+        ⋅
+        
+          B
+        
+        =
+        0
+        
+        
+        
+         
+         
+        (
+        3
+        )
+      
+    
+    {\displaystyle \nabla \cdot \mathbf {B} =0\qquad \qquad \qquad \ \ (3)}
+  
+
+  
+    
+      
+        ∇
+        ×
+        
+          B
+        
+        =
+        
+          μ
+          
+            0
+          
+        
+        
+          ϵ
+          
+            0
+          
+        
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+        
+          E
+        
+        
+         
+         
+         
+        (
+        4
+        )
+      
+    
+    {\displaystyle \nabla \times \mathbf {B} =\mu _{0}\epsilon _{0}{\frac {\partial }{\partial t}}\mathbf {E} \qquad \ \ \ (4)}
+  
+Nghiệm tầm thường của hệ phương trình trên là:
+
+  
+    
+      
+        
+          E
+        
+        =
+        
+          B
+        
+        =
+        
+          0
+        
+      
+    
+    {\displaystyle \mathbf {E} =\mathbf {B} =\mathbf {0} }
+  ,
+Để tìm nghiệm không tầm thường, có thể sử dụng đẳng thức giải tích véc tơ:
+
+  
+    
+      
+        ∇
+        ×
+        
+          (
+          ∇
+          ×
+          
+            A
+          
+          )
+        
+        =
+        ∇
+        
+          (
+          ∇
+          ⋅
+          
+            A
+          
+          )
+        
+        −
+        
+          ∇
+          
+            2
+          
+        
+        
+          A
+        
+      
+    
+    {\displaystyle \nabla \times \left(\nabla \times \mathbf {A} \right)=\nabla \left(\nabla \cdot \mathbf {A} \right)-\nabla ^{2}\mathbf {A} }
+  
+Bằng cách lấy rôta hai vế của phương trình (2):
+
+  
+    
+      
+        ∇
+        ×
+        
+          (
+          ∇
+          ×
+          
+            E
+          
+          )
+        
+        =
+        ∇
+        ×
+        
+          (
+          −
+          
+            
+              
+                ∂
+                
+                  B
+                
+              
+              
+                ∂
+                t
+              
+            
+          
+          )
+        
+        
+        
+        
+        
+         
+         
+         
+        (
+        5
+        )
+        
+      
+    
+    {\displaystyle \nabla \times \left(\nabla \times \mathbf {E} \right)=\nabla \times \left(-{\frac {\partial \mathbf {B} }{\partial t}}\right)\qquad \qquad \qquad \quad \ \ \ (5)\,}
+  
+Rồi đơn giản hóa vế trái (tận dụng phương trình (1) trong quá trình đơn giản hóa):
+
+  
+    
+      
+        ∇
+        ×
+        
+          (
+          ∇
+          ×
+          
+            E
+          
+          )
+        
+        =
+        ∇
+        
+          (
+          ∇
+          ⋅
+          
+            E
+          
+          )
+        
+        −
+        
+          ∇
+          
+            2
+          
+        
+        
+          E
+        
+        =
+        −
+        
+          ∇
+          
+            2
+          
+        
+        
+          E
+        
+        
+        
+         
+        (
+        6
+        )
+        
+      
+    
+    {\displaystyle \nabla \times \left(\nabla \times \mathbf {E} \right)=\nabla \left(\nabla \cdot \mathbf {E} \right)-\nabla ^{2}\mathbf {E} =-\nabla ^{2}\mathbf {E} \qquad \quad \ (6)\,}
+  
+Và đơn giản hóa vế phải (tận dụng phương trình (4) trong quá trình đơn giản hóa):
+
+  
+    
+      
+        ∇
+        ×
+        
+          (
+          −
+          
+            
+              
+                ∂
+                
+                  B
+                
+              
+              
+                ∂
+                t
+              
+            
+          
+          )
+        
+        =
+        −
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+        
+          (
+          ∇
+          ×
+          
+            B
+          
+          )
+        
+        =
+        −
+        
+          μ
+          
+            0
+          
+        
+        
+          ϵ
+          
+            0
+          
+        
+        
+          
+            
+              ∂
+              
+                2
+              
+            
+            
+              
+                ∂
+                
+                  2
+                
+              
+              t
+            
+          
+        
+        
+          E
+        
+        
+        (
+        7
+        )
+      
+    
+    {\displaystyle \nabla \times \left(-{\frac {\partial \mathbf {B} }{\partial t}}\right)=-{\frac {\partial }{\partial t}}\left(\nabla \times \mathbf {B} \right)=-\mu _{0}\epsilon _{0}{\frac {\partial ^{2}}{\partial ^{2}t}}\mathbf {E} \qquad (7)}
+  
+Cân bằng 2 vế (6) và (7) để thu được phương trình vi phân cho điện trường:
+
+Có thể thực hiện các biến đổi tương tự như trên để thu được phương trình vi phân với từ trường:
+
+Hai phương trình vi phân trên chính là các phương trình sóng, dạng tổng quát:
+
+  
+    
+      
+        
+          ∇
+          
+            2
+          
+        
+        f
+        =
+        
+          
+            1
+            
+              
+                
+                  c
+                  
+                    0
+                  
+                
+              
+              
+                2
+              
+            
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              f
+            
+            
+              ∂
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        
+      
+    
+    {\displaystyle \nabla ^{2}f={\frac {1}{{c_{0}}^{2}}}{\frac {\partial ^{2}f}{\partial t^{2}}}\,}
+  
+với c0 là tốc độ lan truyền của sóng và f miêu tả cường độ dao động của sóng theo thời gian và vị trí trong không gian. Trong trường hợp của các phương trình sóng liên quan đến điện trường và từ trường nêu trên, ta thấy nghiệm của phương trình thể hiện điện trường và từ trường sẽ biến đổi trong không gian và thời gian như những sóng, với tốc độ:
+
+  
+    
+      
+        
+          c
+          
+            0
+          
+        
+        =
+        
+          
+            1
+            
+              
+                μ
+                
+                  0
+                
+              
+              
+                ϵ
+                
+                  0
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle c_{0}={\frac {1}{\sqrt {\mu _{0}\epsilon _{0}}}}}
+  
+Đây chính là tốc độ ánh sáng trong chân không. Nghiệm của phương trình sóng cho điện trường là:
+
+  
+    
+      
+        
+          E
+        
+        =
+        
+          
+            E
+          
+          
+            0
+          
+        
+        f
+        
+          (
+          
+            
+              
+                
+                  k
+                
+                ^
+              
+            
+          
+          ⋅
+          
+            x
+          
+          −
+          
+            c
+            
+              0
+            
+          
+          t
+          )
+        
+      
+    
+    {\displaystyle \mathbf {E} =\mathbf {E} _{0}f\left({\hat {\mathbf {k} }}\cdot \mathbf {x} -c_{0}t\right)}
+  
+Với E0 là một hằng số véc tơ đóng vai trò như biên độ của dao động điện trường, f là hàm khả vi bậc hai bất kỳ, 
+  
+    
+      
+        
+          
+            
+              
+                k
+              
+              ^
+            
+          
+        
+      
+    
+    {\displaystyle {\hat {\mathbf {k} }}}
+   là véc tơ đơn vị theo phương lan truyền của sóng, và x là tọa độ của điểm đang xét. Tuy nghiệm này thỏa mãn phương trình sóng, để thỏa mãn tất cả các phương trình Maxwell, cần có thêm ràng buộc:
+
+  
+    
+      
+        ∇
+        ⋅
+        
+          E
+        
+        =
+        
+          
+            
+              
+                k
+              
+              ^
+            
+          
+        
+        ⋅
+        
+          
+            E
+          
+          
+            0
+          
+        
+        
+          f
+          ′
+        
+        
+          (
+          
+            
+              
+                
+                  k
+                
+                ^
+              
+            
+          
+          ⋅
+          
+            x
+          
+          −
+          
+            c
+            
+              0
+            
+          
+          t
+          )
+        
+        =
+        0
+      
+    
+    {\displaystyle \nabla \cdot \mathbf {E} ={\hat {\mathbf {k} }}\cdot \mathbf {E} _{0}f'\left({\hat {\mathbf {k} }}\cdot \mathbf {x} -c_{0}t\right)=0}
+  
+
+  
+    
+      
+        
+          E
+        
+        ⋅
+        
+          
+            
+              
+                k
+              
+              ^
+            
+          
+        
+        =
+        0
+        
+        
+        
+        
+         
+         
+         
+        (
+        8
+        )
+        
+      
+    
+    {\displaystyle \mathbf {E} \cdot {\hat {\mathbf {k} }}=0\qquad \qquad \qquad \quad \ \ \ (8)\,}
+  
+
+  
+    
+      
+        ∇
+        ×
+        
+          E
+        
+        =
+        
+          
+            
+              
+                k
+              
+              ^
+            
+          
+        
+        ×
+        
+          
+            E
+          
+          
+            0
+          
+        
+        
+          f
+          ′
+        
+        
+          (
+          
+            
+              
+                
+                  k
+                
+                ^
+              
+            
+          
+          ⋅
+          
+            x
+          
+          −
+          
+            c
+            
+              0
+            
+          
+          t
+          )
+        
+        =
+        −
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+        
+          B
+        
+      
+    
+    {\displaystyle \nabla \times \mathbf {E} ={\hat {\mathbf {k} }}\times \mathbf {E} _{0}f'\left({\hat {\mathbf {k} }}\cdot \mathbf {x} -c_{0}t\right)=-{\frac {\partial }{\partial t}}\mathbf {B} }
+  
+
+  
+    
+      
+        
+          B
+        
+        =
+        
+          
+            1
+            
+              c
+              
+                0
+              
+            
+          
+        
+        
+          
+            
+              
+                k
+              
+              ^
+            
+          
+        
+        ×
+        
+          E
+        
+        
+        
+        
+        
+         
+         
+         
+        (
+        9
+        )
+        
+      
+    
+    {\displaystyle \mathbf {B} ={\frac {1}{c_{0}}}{\hat {\mathbf {k} }}\times \mathbf {E} \qquad \qquad \qquad \quad \ \ \ (9)\,}
+  
+
+(8) suy ra điện trường phải luôn vuông góc với hướng lan truyền của sóng và (9) cho thấy từ trường thì vuông góc với cả điện trường và hướng lan truyền; đồng thời E0 = c0 B0. Nghiệm này của phương trình Maxwell chính là sóng điện từ phẳng.
+
+
+=== Năng lượng và xung lượng ===
+Mật độ năng lượng của trường điện từ nói chung:
+u = (E.D + B.H)/2
+Trong chân không:
+u = (ε0|E|2 + μ0|H|2)/2
+Với sóng điện từ phẳng tuân thủ phương trình (9) nêu trên, ta thấy năng lượng điện đúng bằng năng lượng từ, và:
+u = ε0|E|2 = μ0|H|2
+
+
+== Xem thêm ==
+Phương trình truyền xạ
+Phổ điện từ
+Nguy hiểm của sóng điện từ
+Ánh sáng
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Dương Hiếu Ðấu. “Bài giảng các phương trình Maxwell và sóng điện từ”. Trường Đại học Cần Thơ. Bản gốc lưu trữ ngày 9 tháng 9 năm 2003.

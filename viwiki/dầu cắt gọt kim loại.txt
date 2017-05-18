@@ -1,0 +1,22 @@
+Dầu cắt gọt kim loại (tiếng Anh: Metalworking fluid hay Cutting fluid) là loại chất lỏng được sử dung trong gia công kim loại, nhằm làm mát và bôi trơn vị trí kim loại được gia công. Đồng thời nó cũng có tác dụng làm sạch những mảnh vụn kim loại xuất hiện trong quá trình gia công khỏi bề mặt chi tiết. Những năm gần đây, việc dùng dầu cắt mà thành phần chủ yếu là nước trở nên nhiều, nên người ta cũng gọi dầu cắt là dung dịch cắt.
+
+
+== Phân loại ==
+Dầu cắt gọt gồm hai loại chính:
+Dầu không pha: là những dầu khi sử dụng không cần pha thêm dung môi. Chúng thường được sử dụng trong những giai đoạn gia công phát sinh ít nhiệt hoặc cần bôi trơn tốt.
+Dầu pha: là những loại dầu khi sử dụng cần pha thêm dung môi (nước) để tạo thành dạng nhũ tương. Loại này thường được sử dụng trong các giai đoạn gia công phát sinh nhiệt lớn và cần mức độ bôi trơn thấp. Tùy theo yêu công công việc mà tỷ lệ dầu: nước có thể thay đổi.
+
+
+== Nguồn gốc ==
+Trong thời đại thao tác công cụ máy bằng tay, dầu cắt được sử dụng với mục đích làm giảm ma sát giữa vật cắt và dao cắt, chủ yếu là sử dụng 1 lượng nhỏ dầu cắt có tính dầu. Khi thay đổi từ dụng cụ thép gió sang dụng cụ siêu cứng, nếu máy móc trở thành thiết bị được điều khiển tự động, thì năng suất sản xuất sẽ tăng đột biến, thao tác của máy móc được tự động hoá, thì mục đích sử dụng dầu cắt bị biến đổi.
+
+
+== Hiệu quả ==
+Với việc sử dụng dầu cắt để làm mát, làm trơn điểm gia công, độ chính xác gia công và độ nhám về mặt sẽ được cải thiện, giảm được ma sát của dao cắt. Dầu cắt còn làm rửa trôi mạt cắt ra khỏi dụng cụ gia công hay vật cắt, cũng làm giảm phát sinh những sai sót gia công xảy ra do tích tụ vụn cắt. Hơn nữa, cũng giúp ích cho việc phòng tránh sự biến dạng do nhiệt của máy bởi lượng nhiệt phát sinh khi gia công. Những năm gần đây, người ta thường sử dụng phương pháp gia công bôi trơn với 1 lượng rất nhỏ dầu (Gia công MQL), hay gia công không dùng dầu cắt do liên quan đến tiết kiệm năng lượng hay việc sẽ ảnh hưởng nếu thải dầu ra môi trường. Các nhà khoa học cũng đang nghiên cứu những loại dầu như dùng dầu dạng phi dầu mỏ nhằm giảm thải ra môi trường.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Metalworking Fluids - NIOSH Workplace Safety and Health Topic - National Institute for Occupational Safety and Health

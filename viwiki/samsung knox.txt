@@ -1,0 +1,17 @@
+Samsung Knox (nhãn hiệu đăng ký Samsung KNOX) là giải pháp bảo mật dành cho doanh nghiệp trên di động.
+
+
+== Dịch vụ ==
+Samsung Knox cung cấp tính năng bảo mật cho phép nội dung doanh nghiệp hoặc cá nhân cùng tồn tại trên thiết bị cầm tay. Người dùng nhấn vào biểu tượng chuyển đổi từ cá nhân thành làm việc để sử dụng mà không bị trì hoãn hoặc chờ reboot. Nhà sản xuất tuyên bố rằng tính năng này hoàn toàn tương thích với Android, Google và sẽ cung cấp tính năng tách dữ liệu hoàn chỉnh cho công việc hoặc dữ liệu cá nhân trên thiết bị di động và "địa chỉ tất cả lỗi lỗ hổng bảo mật trên Android."
+Dịch vụ Knox là một phần của công ty Samsung for Enterprise (SAFE) dịch vụ dành cho điện thoại thông minh và máy tính bảng. Đối thủ cạnh tranh của Samsung Knox là Blackberry Balance, một dịch vụ chi dữ liệu cá nhân và công việc. Cái tên, Samsung Knox, được lấy cảm hứng từ Fort Knox.
+
+
+== Vấn đề trì hoãn ==
+Samsung lần đầu tiên công bố Knox tại MWC 2013, lần đầu tiên cài sẵn trên Samsung Galaxy S4, nhưng bị trì hoãn nên Samsung đã phát hành Knox vào cuối năm 2013. Samsung Galaxy Note 3 trở thành thiết bị đầu tiên cài sẵn Knox. Một số thiết bị khác như Samsung Galaxy S4, Samsung Galaxy S III và Samsung Galaxy Note II sẽ nhận được Samsung Knox vào cuối năm 2013 với Android 4.3 bản nâng cấp cao cấp của Samsung.
+
+
+== Tham khảo ==
+
+
+== Liến kết ==
+Website chính thức

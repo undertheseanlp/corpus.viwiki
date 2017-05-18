@@ -1,0 +1,78 @@
+Halogen (tiếng Latinh nghĩa là sinh ra muối) là những nguyên tố thuộc nhóm VII A (tức nhóm nguyên tố thứ 17 theo danh pháp IUPAC hiện đại) trong bảng hệ thống tuần hoàn các nguyên tố hóa học. Nhóm này bao gồm các nguyên tố hóa học là flo, clo, brôm, iốt, astatin và tennessine.
+
+
+== Tính chất vật lý ==
+Trong nhóm Halogen, tính chất vật lý biến đổi có quy luật: Trạng thái tập hợp, màu sắc, nhiệt độ nóng chảy, nhiệt độ sôi,...
+Flo tác dụng mãnh liệt với nước giải phóng oxi. Các Halogen khác tan tương đối ít trong nước và tan nhiều trong một số dung môi hữu cơ. Nhóm halogen bao gồm: F, Cl, Br, I còn At là nguyên tố phóng xạ.
+
+
+== Tính chất hoá học ==
+Vì lớp electron ngoài cùng có cấu hình tương tự nên các halogen có nhiều điểm giống nhau về tính chất hoá học của đơn chất cũng như về thành phần và tính chất của các hợp chất.
+Halogen có ái lực electron lớn. Nguyên tử halogen X với 7 electron lớp ngoài cùng dễ dàng thu thêm 1 electron để tạo thành ion âm X- có cấu hình electron của khí hiếm liền kề trong bảng tuần hoàn.
+Các Halogen đều có độ âm điện lớn. Độ âm điện của Flo (3,98) là lớn nhất trong tất cả các nguyên tố hoá học. Từ flo đến clo, brôm và iốt... bán kính nguyên tử tăng dần và độ âm điện giảm dần.
+Halogen là những phi kim điển hình, chúng là những chất ôxi hóa mạnh. Khả năng ôxi hoá của các halogen giảm dần từ flo đến iốt.
+Trong các hợp chất, flo luôn luôn có số ôxi hoá -1, các halogen khác ngoài số ôxi hoá -1 còn có các số ôxi hoá +1, +3, +5, +7.
+
+
+== Các phương trình hóa học ==
+AgNO3 + NaCl = AgCl + NaNO3 AgCl kết tủa màu trắng
+AgNO3 + NaBr = AgBr + NaNO3 AgBr kết tủa màu vàng nhạt
+AgNO3 + NaI = AgI + NaNO3 AgI kết tủa màu vàng đậm
+Dùng AgNO3 để nhận biết muối F-, Cl-, Br-, I-
+
+
+== Phương trình cơ bản ==
+2Na + Cl2 -> 2NaCl
+H2 + Cl2 -> 2HCl
+H2 + Br2 -> 2HBr
+H2 + F2 -> 2HF
+2Na + Br2 -> 2NaBr
+Br2 + 2NaI -> 2NaBr + I2
+Nước Clo:
+Cl2 + H2O   
+  
+    
+      
+        ⇆
+      
+    
+    {\displaystyle \leftrightarrows }
+   HCl + HClO
+Clorua vôi
+Ca(OH)2 + Cl2 -> CaOCl2 + H2O
+Muối clorat:
+3Cl2 + 6KOH -> 5KCl + KClO3 + 3H2O
+2Al + 3Cl2 -> 2AlCl3
+Dung dịch Javen:
+2NaOH + Cl2 -> NaCl + NaClO + H2O
+
+
+== Phương trình điều chế ==
+Điều chế F2
+Điện phân nóng chảy hỗn hợp KF và 2HF. H2 thoát ra ở cực âm còn F2 thoát ra ở cực dương. 2HF -(điện phân nóng chảy+KF)-> H2 + F2
+Điều chế Cl2
+K2Cr2O7 + 14HCl -> 3Cl2 + 2KCl + 2CrCl3 + 7H2O
+MnO2 + 4HCl -to> Cl2 + MnCl2 + 2H2O
+CaOCl2 + 2HCl -> CaCl2 + Cl2 + H2O
+2NaCl + 2H2O-(điện phân dung dịch có màng ngăn)-> 2NaOH + Cl2 + H2 (Dung dịch muối bão hòa)
+Điều chế Br2
+2KBr + MnO2 + 2H2SO4 -> MnSO4+K2SO4 + Br2 + 2H2O
+2AgBr -(ánh sáng)-> 2Ag + Br2
+4HBr + O2 -> 2H2O + 2Br2
+2HBr + H2SO4 -> Br2 + SO2 + 2H2O
+Điều chế I2
+NaClO + 2KI + H2O -> NaCl + I2 + 2KOH
+2KI + MnO2 + 2H2SO4 -> MnSO4+K2SO4 + I2 + 2H2O
+8HI + H2SO4 -> 4I2 + H2S + 4H2O
+2HI + 2FeCl3 -> 2FeCl2 + I2 + 2HCl
+2HI -(to trên 300 độ C)-> H2 + I2
+
+
+== Xem thêm ==
+Hợp chất của Halogen
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

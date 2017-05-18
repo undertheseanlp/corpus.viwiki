@@ -1,0 +1,1111 @@
+Độ giãn nở nhiệt là xu hướng vật chất thay đổi về thể tích khi nhiệt độ thay đổi, bởi sự truyền nhiệt.
+
+
+== Giãn nở của chất rắn ==
+Các loại vật liệu thường thay đổi kích thước của nó khi chịu tác động của nhiệt độ trong khi áp suất được giữ không đổi. Trong trường hợp đặc biệt của các vật liệu rắn, áp suất không ảnh hưởng đáng kể đến kích thước của vật thể, và vì thế đối với chất rắn không cần thiết phải xác định rằng áp suất được giữ không đổi.
+Các chất rắn kỹ thuật phổ biến thường có hệ số giãn nở nhiệt mà hệ số này không thay đổi đáng kể trong khoảng dao động nhiệt độ mà nó được thiết kế sửa dụng, ở những nơi cần độ chính xác cực kỳ cao không bắt buộc, các tính toán thực nghiệm có thể dựa trên các hằng số, giá trị trung bình, giá trị hệ số giãn nở.
+
+
+=== Giãn nở dài ===
+
+Giãn nở tuyến tính hay giãn nở dài có nghĩa là sự thay đổi theo một chiều (dài) khác với giãn nở thể tích. Đối với phép tính sắp xỉ đầu tiên, sự thay đổi chiều dài của một vật thể do giãn nở nhiệt liên quan đến sự thay đổi nhiệt độ theo một hệ số giãn nở tuyến tính. Nó là sự thay đổi chiều dài tỉ lệ với mức độ thay đổi nhiệt độ. Giả sử ảnh hưởng của áp suất là không đáng kể, chúng ta có thể viết:
+
+  
+    
+      
+        
+          α
+          
+            L
+          
+        
+        =
+        
+          
+            1
+            L
+          
+        
+        
+        
+          
+            
+              d
+              L
+            
+            
+              d
+              T
+            
+          
+        
+      
+    
+    {\displaystyle \alpha _{L}={\frac {1}{L}}\,{\frac {dL}{dT}}}
+  
+với 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   là chiều dài của vật thể và 
+  
+    
+      
+        d
+        L
+        
+          /
+        
+        d
+        T
+      
+    
+    {\displaystyle dL/dT}
+   là tốc độ thay đổi chiều dài theo biến thiên theo nhiệt độ.
+Để chuyển đổi không gian tuyến tính có thể được viết:
+
+  
+    
+      
+        
+          
+            
+              Δ
+              L
+            
+            L
+          
+        
+        =
+        
+          α
+          
+            L
+          
+        
+        Δ
+        T
+      
+    
+    {\displaystyle {\frac {\Delta L}{L}}=\alpha _{L}\Delta T}
+  
+Phương trình này có thể sử dụng khi hệ số giãn nở dài không thay đổi quá lớn so với sự thay đổi nhiệt độ 
+  
+    
+      
+        Δ
+        T
+      
+    
+    {\displaystyle \Delta T}
+  . Nếu nó thay đổi, phương trình phải được tích hợp.
+
+
+==== Ảnh hưởng của ứng suất ====
+Đối với các vật liệu rắn có chiều dài đáng kể, như các thanh hay cáp, việc ước tính sự giãn nở nhiệt có thể được miêu tả bởi ứng suất của vật liện theo 
+  
+    
+      
+        
+          ϵ
+          
+            
+              t
+              h
+              e
+              r
+              m
+              a
+              l
+            
+          
+        
+      
+    
+    {\displaystyle \epsilon _{\mathrm {thermal} }}
+   và được xác định như sau:
+
+  
+    
+      
+        
+          ϵ
+          
+            
+              t
+              h
+              e
+              r
+              m
+              a
+              l
+            
+          
+        
+        =
+        
+          
+            
+              (
+              
+                L
+                
+                  
+                    f
+                    i
+                    n
+                    a
+                    l
+                  
+                
+              
+              −
+              
+                L
+                
+                  
+                    i
+                    n
+                    i
+                    t
+                    i
+                    a
+                    l
+                  
+                
+              
+              )
+            
+            
+              L
+              
+                
+                  i
+                  n
+                  i
+                  t
+                  i
+                  a
+                  l
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \epsilon _{\mathrm {thermal} }={\frac {(L_{\mathrm {final} }-L_{\mathrm {initial} })}{L_{\mathrm {initial} }}}}
+  
+với 
+  
+    
+      
+        
+          L
+          
+            
+              i
+              n
+              i
+              t
+              i
+              a
+              l
+            
+          
+        
+      
+    
+    {\displaystyle L_{\mathrm {initial} }}
+   là chiều dài trước khi chịu tác động của nhiệt độ và 
+  
+    
+      
+        
+          L
+          
+            
+              f
+              i
+              n
+              a
+              l
+            
+          
+        
+      
+    
+    {\displaystyle L_{\mathrm {final} }}
+   là chiều dài sau khi chịu tác động của nhiệt độ.
+Đối với hầu hết chất rắn, sự giãn nở nhiệt tỉ lệ thuận với sự thay đổi nhiệt độ:
+
+  
+    
+      
+        
+          ϵ
+          
+            
+              t
+              h
+              e
+              r
+              m
+              a
+              l
+            
+          
+        
+        ∝
+        Δ
+        T
+      
+    
+    {\displaystyle \epsilon _{\mathrm {thermal} }\propto \Delta T}
+  
+Vì vậy, sự thay đổi về ứng suất hoặc nhiệt độ có thể được ước lượng theo:
+
+  
+    
+      
+        
+          ϵ
+          
+            
+              t
+              h
+              e
+              r
+              m
+              a
+              l
+            
+          
+        
+        =
+        
+          α
+          
+            L
+          
+        
+        Δ
+        T
+      
+    
+    {\displaystyle \epsilon _{\mathrm {thermal} }=\alpha _{L}\Delta T}
+  
+với
+
+  
+    
+      
+        Δ
+        T
+        =
+        (
+        
+          T
+          
+            
+              f
+              i
+              n
+              a
+              l
+            
+          
+        
+        −
+        
+          T
+          
+            
+              i
+              n
+              i
+              t
+              i
+              a
+              l
+            
+          
+        
+        )
+      
+    
+    {\displaystyle \Delta T=(T_{\mathrm {final} }-T_{\mathrm {initial} })}
+  
+là sự khác biệt nhiệt độ giữa hai mức ứng suất được ghi nhận, có thể tính theo độ C hoặc Kelvin, và 
+  
+    
+      
+        
+          α
+          
+            L
+          
+        
+      
+    
+    {\displaystyle \alpha _{L}}
+  là hệ số giãn nở dài trên 1 độ C hoặc 1K ký hiệu lần lượt là °C−1 hay K−1. Trong lĩnh vực cơ học môi trường liên tục, sự giãn nở nhiệt và những ảnh hưởng của nó được xem là eigenstrain và eigenstress.
+
+
+=== Giãn nở diện tích ===
+Hệ số giãn nở diện tích liên quan đến sự thay đổi kích thước của vật liệu theo diện tích khi chịu tác động của nhiệt độ. Nó là sự thay đổi theo tỉ lệ diện tích theo mức độ thay đổi nhiệt độ. Bỏ qua áp suất, chúng ta có thể viết:
+
+  
+    
+      
+        
+          α
+          
+            A
+          
+        
+        =
+        
+          
+            1
+            A
+          
+        
+        
+        
+          
+            
+              d
+              A
+            
+            
+              d
+              T
+            
+          
+        
+      
+    
+    {\displaystyle \alpha _{A}={\frac {1}{A}}\,{\frac {dA}{dT}}}
+  
+với 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   là diện tích tiếp xúc nhiệt của vật thể, và 
+  
+    
+      
+        d
+        A
+        
+          /
+        
+        d
+        T
+      
+    
+    {\displaystyle dA/dT}
+   là tỉ lệ thay đổi diện tích trên một đơn vị nhiệt.
+Sự thay đổi diện tích có thể được tính theo:
+
+  
+    
+      
+        
+          
+            
+              Δ
+              A
+            
+            A
+          
+        
+        =
+        
+          α
+          
+            A
+          
+        
+        Δ
+        T
+      
+    
+    {\displaystyle {\frac {\Delta A}{A}}=\alpha _{A}\Delta T}
+  
+Phương trình này có thể áp dụng cho đến khi hệ số giãn nở diện tích không thay đổi quá lớn so với sự thay đổi nhiệt độ 
+  
+    
+      
+        δ
+        T
+      
+    
+    {\displaystyle \delta T}
+  . Nếu nó thay đối lớm, phương trình phải được tính tích phân.
+
+
+=== Giãn nở thể tích ===
+Đối với chất rắn, chúng ta có thể bỏ qua ảnh hưởng của áp suất tác dụng lên vật liệu, và hệ số giãn nở thể tích có thể được viết như sau:
+
+  
+    
+      
+        
+          α
+          
+            V
+          
+        
+        =
+        
+          
+            1
+            V
+          
+        
+        
+        
+          
+            
+              d
+              V
+            
+            
+              d
+              T
+            
+          
+        
+      
+    
+    {\displaystyle \alpha _{V}={\frac {1}{V}}\,{\frac {dV}{dT}}}
+  
+với 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   là thể tích vật liệu, và 
+  
+    
+      
+        d
+        V
+        
+          /
+        
+        d
+        T
+      
+    
+    {\displaystyle dV/dT}
+   tốc độ thay đổi thể tích theo nhiệt độ.
+Điều này có nghĩa rằng thể tích của vật liệu thay đổi theo một tỷ lệ nhất định. Ví dụ, một khối thép có thể tích 1 mét khối có thể giãn nở lên thành 1.002 mét khối khi nhiệt độ tăng lên 50 K, tức theo tỉ lệ giãn nở 0,2%. Nếu chúng ta có một khối thép có thể tích 2 mét khối, cũng với cùng nhiệt độ trên thì nó có thể giãn nở thành 2,004 mét khối, tức là tỉ lệ giãn nở là 0,2%. Hệ số giãn nổ thể tích có thála2 0,2% cho 50 K, hay 0,004% K−1.
+Nếu chúng ta biết hệ số giãn nở, thì chúng ta có thể tính được sự thay đổi thể tích
+
+  
+    
+      
+        
+          
+            
+              Δ
+              V
+            
+            V
+          
+        
+        =
+        
+          α
+          
+            V
+          
+        
+        Δ
+        T
+      
+    
+    {\displaystyle {\frac {\Delta V}{V}}=\alpha _{V}\Delta T}
+  
+với 
+  
+    
+      
+        Δ
+        V
+        
+          /
+        
+        V
+      
+    
+    {\displaystyle \Delta V/V}
+   là tỉ lệ thay đổi thề tích (ví dụ 0.002) và 
+  
+    
+      
+        Δ
+        T
+      
+    
+    {\displaystyle \Delta T}
+   là sự thay đổi nhiệt độ (50 °C).
+Ví dụ nêu trên giả sử rằng hệ số giãn nở không đổi khi nhiệt độ thay đổi. Điều này không phải lúc nào cũng đúng, nhưng đúng với đối với những thay đổi nhiệt độ nhỏ, chúng ta có thể tính gần đúng. Nếu hệ số giãn nở thể tích không đổi đáng kể theo nhiệt độ, thì phương trình trên có thể được phân tích:
+
+  
+    
+      
+        
+          
+            
+              Δ
+              V
+            
+            V
+          
+        
+        =
+        
+          ∫
+          
+            
+              T
+              
+                i
+              
+            
+          
+          
+            
+              T
+              
+                f
+              
+            
+          
+        
+        
+          α
+          
+            V
+          
+        
+        (
+        T
+        )
+        
+        d
+        T
+      
+    
+    {\displaystyle {\frac {\Delta V}{V}}=\int _{T_{i}}^{T_{f}}\alpha _{V}(T)\,dT}
+  
+với 
+  
+    
+      
+        
+          α
+          
+            V
+          
+        
+        (
+        T
+        )
+      
+    
+    {\displaystyle \alpha _{V}(T)}
+   là hệ số giã nở thể tích là một hàm của nhiệt độ T, và 
+  
+    
+      
+        
+          T
+          
+            i
+          
+        
+      
+    
+    {\displaystyle T_{i}}
+  ,
+  
+    
+      
+        
+          T
+          
+            f
+          
+        
+      
+    
+    {\displaystyle T_{f}}
+   là nhiệt độ ban đầu và cuối.
+
+
+== Giãn nở đẳng áp của chất khí ==
+Đối với một khí lý tưởng, giãn nở nhiệt thể tích (như sự biến đổi tương đối về thể tích do nhiệt độ thay đổi) phụ thuộc vào kiểu quá trình mà nhiệt độ thay đổi. Hai trường hợp đơn giản là sự thay đổi đẳng áp tức áp suất không đổi, và thay đổi đoạn nhiệt, tức không có nhiệt trao đổi với môi trường.
+Định luật khí lý tưởng có thể được viết như sau:
+
+  
+    
+      
+        p
+        v
+        =
+        T
+        
+      
+    
+    {\displaystyle pv=T\,}
+  
+với p là áp suất, v là thể tích, và t là nhiệt độ tính theo đơn vị năng lượng. Viết theo phương trình logarit:
+
+  
+    
+      
+        ln
+        ⁡
+        
+          (
+          v
+          )
+        
+        +
+        ln
+        ⁡
+        
+          (
+          p
+          )
+        
+        =
+        ln
+        ⁡
+        
+          (
+          T
+          )
+        
+      
+    
+    {\displaystyle \ln \left(v\right)+\ln \left(p\right)=\ln \left(T\right)}
+  
+Theo định nghĩa về hệ số giãn nở nhiệt thể tích đẳng áp, phương trình trên được viết như sau:
+
+  
+    
+      
+        
+          γ
+          
+            p
+          
+        
+        ≡
+        
+          
+            1
+            v
+          
+        
+        
+          
+            (
+            
+              
+                
+                  ∂
+                  v
+                
+                
+                  ∂
+                  T
+                
+              
+            
+            )
+          
+          
+            p
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  d
+                  (
+                  ln
+                  ⁡
+                  v
+                  )
+                
+                
+                  d
+                  T
+                
+              
+            
+            )
+          
+          
+            p
+          
+        
+        =
+        
+          
+            
+              d
+              (
+              ln
+              ⁡
+              T
+              )
+            
+            
+              d
+              T
+            
+          
+        
+        =
+        
+          
+            1
+            T
+          
+        
+        .
+      
+    
+    {\displaystyle \gamma _{p}\equiv {\frac {1}{v}}\left({\frac {\partial v}{\partial T}}\right)_{p}=\left({\frac {d(\ln v)}{dT}}\right)_{p}={\frac {d(\ln T)}{dT}}={\frac {1}{T}}.}
+  
+Chỉ số 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   biểu thị quá trình đẳng áp.
+
+
+== Giãn nở của chất lỏng ==
+Về mặt lý thuyết, hệ số giãn nở tuyến tính có thể được đưa ra từ hệ số giãn nở thể tích (αV ≈ 3α). Tuy nhiên, đối với các chất lỏng α được tính từ việc xác định thực nghiệm của giá trị αV.
+
+
+== Giãn nở của hợp kim ==
+Sự giãn nở của các hợp phần trong hỗn hợp có thể triệt tiêu nhau như trong trường hợp invar.
+Khả năng giãn nở nhiệt của các hỗn hợp từ từ sự giãn nở của các thành phần nguyên chất trong hỗn hợp đó và sự giãn nở dư được xác định từ:
+
+  
+    
+      
+        
+          
+            
+              ∂
+              V
+            
+            
+              ∂
+              T
+            
+          
+        
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          
+            
+              ∂
+              
+                V
+                
+                  i
+                
+              
+            
+            
+              ∂
+              T
+            
+          
+        
+        +
+        
+          ∑
+          
+            i
+          
+        
+        
+          
+            
+              ∂
+              
+                V
+                
+                  i
+                
+                
+                  E
+                
+              
+            
+            
+              ∂
+              T
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\partial V}{\partial T}}=\sum _{i}{\frac {\partial V_{i}}{\partial T}}+\sum _{i}{\frac {\partial V_{i}^{E}}{\partial T}}}
+  
+
+  
+    
+      
+        α
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          α
+          
+            i
+          
+        
+        
+          V
+          
+            i
+          
+        
+        +
+        
+          ∑
+          
+            i
+          
+        
+        
+          α
+          
+            i
+          
+          
+            E
+          
+        
+        
+          V
+          
+            i
+          
+          
+            E
+          
+        
+      
+    
+    {\displaystyle \alpha =\sum _{i}\alpha _{i}V_{i}+\sum _{i}\alpha _{i}^{E}V_{i}^{E}}
+  
+
+  
+    
+      
+        
+          
+            
+              ∂
+              
+                
+                  
+                    
+                      
+                        V
+                        
+                          E
+                        
+                      
+                      ¯
+                    
+                  
+                
+                
+                  i
+                
+              
+            
+            
+              ∂
+              T
+            
+          
+        
+        =
+        R
+        
+          
+            
+              ∂
+              (
+              l
+              n
+              (
+              
+                γ
+                
+                  i
+                
+              
+              )
+              )
+            
+            
+              ∂
+              P
+            
+          
+        
+        +
+        R
+        T
+        
+          
+            
+              ∂
+              
+                2
+              
+            
+            
+              ∂
+              T
+              ∂
+              P
+            
+          
+        
+        l
+        n
+        (
+        
+          γ
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle {\frac {\partial {\bar {V^{E}}}_{i}}{\partial T}}=R{\frac {\partial (ln(\gamma _{i}))}{\partial P}}+RT{\partial ^{2} \over \partial T\partial P}ln(\gamma _{i})}
+  
+
+
+== Hệ số giãn nở nhiệt ở một số vật liệu ==
+
+Mục này tóm tắt một số hệ số giãn nở nhiệt của một vài loại vật liệu phổ biến.
+Đối với các vật liệu đẳng hướng các hệ số giãn nở nhiệt dài α và hệ số giãn nở thể tích αV có mối quan hệ αV = 3α. Đối với các chất lỏng thường hệ số giản nở thể tích được liệt kê và hệ số giãn nở dài được tính toán ở đây với mục đích so sánh.
+Đối với các loại vật liệu phổ biến như nhiều kim loại và hợp chất, hệ số giãn nở nhiệt tỉ lệ nghịch với điểm nóng chảy. Trong trường hợp đặc biệt đối với kim loại thì có mối quan hệ sau:
+
+  
+    
+      
+        α
+        ≈
+        
+          
+            0.020
+            
+              M
+              
+                P
+              
+            
+          
+        
+      
+    
+    {\displaystyle \alpha \approx {\frac {0.020}{M_{P}}}}
+  
+đối với các halua và oxit
+
+  
+    
+      
+        α
+        ≈
+        
+          
+            0.038
+            
+              M
+              
+                P
+              
+            
+          
+        
+        −
+        7.0
+        ⋅
+        
+          10
+          
+            −
+            6
+          
+        
+        
+        
+          
+            K
+          
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \alpha \approx {\frac {0.038}{M_{P}}}-7.0\cdot 10^{-6}\,\mathrm {K} ^{-1}}
+  
+Trong bảng bên dưới, phạm vi giá trị của α là từ 10−7 K−1 đối với các chất rắn cứng đến 10−3 K−1 đối với các chất lỏng hữu cơ. Hệ số α thay đổi theo nhiệt độ và một số loại vật liệu có độ dao động rất cao; xem ví dụ sự dao động so với nhiệu độ của hệ số giãn nở thể tích của polypropylen (PP) bán kến tinh ở các áp suất khác nhau, và sự dao động của hệ số giãn nở dài theo nhiệt độ của thép ở các cấp khác nhau (từ dưới lên: thép không gỉ ferrit, thép không gỉ martensit, thép cacbon, thép không gỉ duplex, thép austenit).
+(Công thức αV ≈ 3α thường dùng cho chất rắn.)
+
+
+== Tham khảo ==

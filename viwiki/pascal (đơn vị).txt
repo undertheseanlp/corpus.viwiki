@@ -1,0 +1,27 @@
+Để đọc về các sử dụng khác, xem Pascal (định hướng).
+Pascal (ký hiệu Pa) là đơn vị đo áp suất trong hệ đo lường quốc tế (SI). Nó là một đơn vị dẫn xuất trong SI nghĩa là nó được suy ra từ việc các đơn vị cơ bản.
+1 Pa = 1 N/m²
+Đơn vị đo lực(N) trong SI cũng là một đơn vị dẫn xuất nên quy về đơn vị cơ bản của SI là:
+1 Pa = 1 N/m² = 0,981kg/m s-2
+Ký hiệu Pa còn dùng để chỉ sức căng, độ dẻo, và sức giãn. Đơn vị này được đặt theo tên của Blaise Pascal, nhà toán lý học và nhà triết học nổi tiếng người Pháp.
+
+
+== Định nghĩa ==
+1 pascal là áp suất tạo ra được từ áp lực 1 niutơn tác dụng lên bề mặt có diện tích 1 mét vuông.
+1 Pa = 1 N/m²
+
+
+== Hệ thống SI ==
+
+
+==== Các tiền tố kết hợp với đơn vị pascal ====
+
+
+==== Bảng chuyền đổi giá trị giữa các ước số-bội số khác nhau ====
+
+
+== So sánh với các đơn vị áp suất khác ==
+Ví dụ:  1 Pa = 1 N/m2  = 10−5 bar  = 10,197×10−6 at  = 9,8692×10−6 atm, vân vân.Ghi chú:  mmHg là viết tắt của milimét thủy ngân.
+
+
+== Tham khảo ==

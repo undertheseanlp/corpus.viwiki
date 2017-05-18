@@ -1,0 +1,97 @@
+Phát xạ proton (còn được gọi là phóng xạ proton, proton emission) là một loại phân rã phóng xạ trong đó một proton được phóng ra từ một hạt nhân .
+Phát xạ proton là hiện tượng hiếm gặp. Những quan sát được cho thấy nó có thể xảy ra trong hai trường hợp:
+Từ một hạt nhân ở trạng thái kích thích vùng năng lượng cao sau một phân rã beta, và quá trình này được gọi là phát xạ proton beta trễ (beta-delayed proton emission);
+Từ trạng thái cơ bản, hoặc một đồng phân ở vùng thấp, của hạt nhân giàu proton, và quá trình này rất tương tự như phân rã alpha.
+Đối với proton để thoát khỏi hạt nhân, thì năng lượng tách proton phải có giá trị âm, dẫn đến nó không bị ràng buộc, và có thể theo hiệu ứng đường hầm ra khỏi nhân trong một thời gian hữu hạn.
+Phát xạ proton không gặp trong đồng vị tự nhiên. Nó có thể xảy ra thông qua các phản ứng hạt nhân, thường là sử dụng máy gia tốc hạt tuyến tính linac.
+
+
+== Thuật ngữ ==
+Theo cách diễn đạt của tiếng Việt về phân rã alpha (alpha decay) và phân rã beta (alpha decay), thì hiện tượng một proton được phóng ra từ một hạt nhân cần được diễn đạt là phân rã proton. Tuy nhiên trong văn liệu nước ngoài thì hiện tượng này được gọi trong tiếng Anh là Proton emission, tiếng Đức là Protonenemission.
+Thuật ngữ tiếng Anh Proton decay hay tiếng Đức Protonenzerfall, dịch nghĩa là phân rã proton, lại được dùng cho phản ứng dự đoán về biến đổi có thể của proton tự do ra một positron 
+  
+    
+      
+        
+          
+            e
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle {\hbox{e}}^{+}}
+   và một pion trung hòa 
+  
+    
+      
+        
+          
+            π
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle {\hbox{π}}^{0}}
+  
+
+  
+    
+      
+        
+          
+            p
+          
+          
+            +
+          
+        
+        
+        →
+        
+        
+
+        
+        
+          
+            e
+          
+          
+            +
+          
+        
+        
+        +
+        
+          
+            π
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle {\hbox{p}}^{+}\;\rightarrow \;{}{\hbox{e}}^{+}\;+{\hbox{π}}^{0}}
+  
+
+
+== Chỉ dẫn ==
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Danh sách đồng vị
+Phân rã alpha
+Phân rã beta
+
+
+== Liên kết ngoài ==
+ Nuclear Structure and Decay Data - IAEA with query on Proton Separation Energy

@@ -1,0 +1,25 @@
+Roentgeni (phát âm như "rơn-ghen-ni"; tên quốc tế: roentgenium) là nguyên tố hóa học tổng hợp có tính phóng xạ với ký hiệu Rg và số nguyên tử 111. Nó nằm ở vị trí nguyên tố nặng nhất trong nhóm 11 (IB), nhưng hiện nay đồng vị bền đầy đủ vẫn còn chưa được biết - cho phép tiến hành các thí nghiệm hóa học để xác định vị trí của nó. Roentgeni đã từng được gọi là unununi trước khi chính thức phát hiện ra nó.
+Roentgeni được tổng hợp đầu tiên năm 1994 và một số đồng vị cũng đã được tổng hợp khi phát hiện ra nó. Đồng vị bền nhất là 281Rg có chu kỳ bán rã ~20 giây, phân rã bằng cách phân hạch tự phát giống như các nguyên tố đồng nơtron N=170 khác.
+
+
+== Lịch sử ==
+
+
+=== Phát hiện ===
+Roentgeni được phát hiện chính thức bởi Peter Armbruster, Gottfried Münzenberg, và cộng sự tại Gesellschaft für Schwerionenforschung (GSI) ở Darmstadt, Đức vào ngày 8 tháng 12 năm 1994. Chỉ có 3 nguyên tử được tổng hợp (tất cả là 272Rg), bằng sự hợp hạch thu nhiệt giữa các ion niken và bismuth trong máy gia tốc tuyến tính:
+20983Bi + 6428Ni → 272111Rg + 10n
+Năm 2001, IUPAC/IUPAP Joint Working Party (JWP) kết luận rằng không có đủ bằng chứng công nhận việc phát hiện vào thời điểm đó. Nhóm GSI đã lập lại thí nghiệm vào năm 2002 và phát hiện ra 3 nguyên tử nữa. Trong báo cáo năm 2003, JWP quyết định rằng nhóm GSI nên được công nhận là những người phát hiện ra nguyên tố này.
+
+
+=== Đặt tên ===
+Tên roentgenium (Rg) do nhóm GSI đề xuất theo tên của nhà vật lý Đức Wilhelm Conrad Röntgen, và được chấp nhận vào ngày 01 tháng 11 năm 2004. Nguyên tố này trước đây được IUPAC đặt tạm theo hệ thống là unununium (unununi), viết tắt Uuu.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+WebElements.com: Roentgenium
+IUPAC: Proposal of name roentgenium for element 111
+IUPAC: Element 111 is named roentgenium
+Apsidium: Roentgenium 111

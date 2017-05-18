@@ -1,0 +1,10 @@
+Phân lớp electron trong bảng tuần hoàn các nguyên tố hóa học là một tập hợp các nhóm lân cận nhau. Các electron năng lương cao nhất tương ứng trong một nguyên tố trong cùng một phân lớp thì thuộc cùng một kiểm obitan nguyên tử. Mỗi phân lớp được đặt tên theo tính chất của orbitan của nó; do đó, các phân lớp bao gồm:
+phân lớp s
+phân lớp p
+phân lớp d
+phân lớp f
+phân lớp g (giả thiết)
+Tên phân lớp (s, p, d, f và g) xuất phát từ ký hiệu quang phổ của obitan nguyên tử tương ứng: sharp, principal, diffuse và fundamental, và cuối cùng g theo sau ký hiệu f trong bảng chữ cái.
+
+
+== Tham khảo ==

@@ -1,0 +1,6 @@
+Năng lượng ion hóa của một nguyên tử hay một phân tử là năng lượng cần thiết để tách một điện tử từ nguyên tử hay phân tử đó ở trạng thái cơ bản. Một cách tổng quát hơn, năng lượng ion hóa thứ n là năng lượng cần thiết để tách điện tử thứ n sau khi đã tách (n-1) điện tử đầu tiên.
+Theo từ điển Giáo khoa Vật lý của các tác giả Vũ Thanh Khiết,..., Nhà Xuất bản Giáo dục- năm 2007 thì năng lượng ion hoá được định nghĩa như sau:
+Năng lượng ion hóa của một nguyên tử, phân tử hoặc ion là năng lượng cần thiết để tách êlectron liên kết yếu nhất ra khỏi một hạt ở trạng thái cơ bản sao cho ion dương được tạo thành cũng ở trạng thái cơ bản. Đó là năng lượng ion hoá thứ nhất. Các giai đoạn ion hoá tiếp theo sẽ ứng với các năng lượng ion hoá thứ hai, thứ ba,...
+
+
+== Tham khảo ==

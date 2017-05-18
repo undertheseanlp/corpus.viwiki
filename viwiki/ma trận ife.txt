@@ -1,0 +1,16 @@
+Ma trận IFE hay Internal Factor Evaluation Matrix - Ma trận đánh giá các yếu tố bên trong là mô hình thường được sử dụng trong quản trị chiến lược để đo lường, đánh giá các nhân tố bên trong.
+
+
+== Cấu trúc ma trận IFE ==
+Mô hình ma trận này thường có 4 cột dọc và số cột ngang tuỳ theo nhu cầu. Cột đầu tiên chia làm 2 nhóm vấn đề chính là:
+Các điểm mạnh nội bộ (internal strength):
+Các điểm yếu nội bộ: (internal weakness):
+
+
+== Liên kết ngoài ==
+Internal Factor Evaluation Matrix
+IFE Matrix (Internal Factor Evaluation)
+Đánh giá năng lực cạnh tranh của doanh nghiệp bằng ma trận
+
+
+== Chú thích ==

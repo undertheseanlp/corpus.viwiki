@@ -1,0 +1,12 @@
+Nhiệt lượng nóng chảy hay nhiệt nóng chảy của một chất được định nghĩa là nhiệt lượng cần thiết để cung cấp cho một đơn vị đo về lượng chất đó (như đơn vị đo khối lượng hay số phân tử như mol) để nó chuyển từ trạng thái rắn sang trạng thái lỏng, tại nhiệt độ nóng chảy.
+Nhiệt lượng nóng chảy cũng đúng bằng nhiệt lượng tỏa ra bởi một đơn vị đo lượng vật chất khi nó chuyển từ trạng thái lỏng sang rắn, tại nhiệt độ đóng băng.
+Trong hệ thống đo lường quốc tế, đơn vị đo của nhiệt lượng nóng chảy là Joule trên kilôgam, J·kg−1 hay J/kg, hoặc Joule trên mol.
+
+
+== Xem thêm ==
+Nhiệt bay hơi
+Nhiệt dung riêng
+Nhiệt độ nóng chảy
+
+
+== Tham khảo ==

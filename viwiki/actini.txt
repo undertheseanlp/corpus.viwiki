@@ -1,0 +1,46 @@
+Actini (ác-ti-ni) là một nguyên tố hóa học phóng xạ, có số nguyên tử là 89 và ký hiệu là Ac, được phát hiện năm 1899. Đây là nguyên tố phi nguyên thủy đầu tiên được cô lập. Poloni, radi và radon được quan sát trước actini, nhưng mãi đến năm 1902 chúng mới được cô lập. Actini được dùng để đặt tên cho nhóm actini, một nhóm gồm 15 nguyên tố tương tự giữa actini và lawrenci trong bảng tuần hoàn.
+
+
+== Lịch sử ==
+Năm 1899, André-Louis Debierne - nhà hóa học Pháp, đã công bố tìm thấy một nguyên tố mới. Ông tách nó ra từ pitchblend và miêu tả chất này (năm 1899) tương tự như titan và (năm 1900) giống thori. Friedrich Oskar Giesel phát hiện ra actini một cách độc lập vào năm 1902 là chất tương tự như lantan và gọi nó là "emani" năm 1904. Sau khi so sánh các chất vào năm 1904, tên gọi do Debierne đặt vẫn được giữ nguyên vì nó được sử dụng lâu hơn.
+Lịch sử về phát hiện ra actini vẫn còn là nghi vấn trong nhiều thập kỷ. Trong các ấn phẩm xuất bản năm 1971 và đặc biệt sau đó vào năm 2000, nói rằng các kết quả mà Debierne công bố gây nhiều mâu thuẫn với những bài báo mà ông xuất bản trong các năm 1899 và 1900.
+
+
+== Đặc điểm ==
+Actini là một nguyên tố kim loại có màu bạc, phóng xạ. Do cường độ phóng xạ mạnh, actini phát ánh sáng xanh dương nhạt trong tối. Ứng xử hóa học của actini tương tự như của nguyên tố đất hiếm lantan.
+
+
+=== Hóa học ===
+Actini có ứng xử hóa học giống như lantan, do đó việc tách actini khỏi lantan và các nguyên tố đất hiếm khác thường có mặt trong các quặng urani là khó khăn. Sắc ký trao đổi ion và tách dung môi được áp dụng để tác chúng ra. Chỉ một số ít các hợp chất actini được biết đến, như AcF3, AcCl3, AcBr3, AcOF, AcOCl, AcOBr, Ac2S3, Ac2O3 và AcPO4. Tất cả các hợp chất đề cập ở trên cũng tương tự như các hợp chất lantan tương ứng và cho thấy actini trong hợp chất có số ôxy hóa là +3.
+
+
+=== Quan hệ với các nguyên tố trong nhóm actini ===
+Actini là nguyên tố đầu tiên và cũng là tên gọi cho nhóm Actini, tương tự như lantan đặc trưng cho nhóm Lantan. Các nguyên tố trong nhóm này đa dạng hơn so với nhóm lantan và do đó mãi đến năm 1945 khi Glenn T. Seaborg đưa ra đề xuất thay đổi quan trọng đối với bảng tuần hoàn của Mendeleev khi thêm vào nhóm Actini.
+
+
+=== Đồng vị ===
+
+Actini có mặt trong tự nhiên bao gồm một đồng vị phóng xạ 227Ac. 36 đồng vị phóng xạ được đặc trưng với đồng vị bền nhất là 227Ac có chu kỳ bán rã 21,772 năm, 225Ac có chu kỳ bán rã 10,0 ngày, và 226Ac là 29,37 giờ. Tất cả các đồng vị phóng xạ còn lại có chu kỳ bán rã nhỏ hơn 10 giờ và đa số trong đó có chu kỳ nhỏ hơn 1 phút. Đồng vị tồn tại ngắn nhất là 217Ac, nó chỉ phân hủy tạo ra tia anpha và bắt điện tử. Nó có chu kỳ bán rã 69 phần tỉ giây. Actini cũng có 2 đồng phân hạt nhân.
+227Ac được tinh chế trở nên cân bằng với các sản phẩm phân rã vào cuối ngày thứ 185, và sau đó phân rã theo chu kỳ bán rã 21,773-năm; các sản phẩm phân rã kế tiếp là một phần trong chuỗi actini. Các đồng vị actini có khối lượng nguyên tử từ 206 u (206Ac) đến 236 u (236Ac).
+
+
+=== Phân bố ===
+Actini được tìm thấy ở dạng vết trong quặng urani, nhưng phổ biến hơn khoảng vài miligram trong bức xạ neutron của 226U trong lò phản ứng hạt nhân. Kim loại actini được điều chế bằng cách giảm chất actini florua bằng hơi liti ở nhiệt độ khoảng 1100 đến 1300 °C.
+Actini cũng được tìm thấy dạng vết trong các quặng urani ở dạng 227Ac, phát tia α và β với chu kỳ bán rã 21,773 năm. Một tấn quặng urani chứa khoảng 0,1 actini. Đồng vị actini 227Ac là một đồng vị tạm thời trong dãy phân rã của chuỗi actini, với đồng vị đầu tiên là 235U (hoặc 239Pu) và kết thúc là đồng vị bền của chì 207Pb. Một đồng vị actini khác (225Ac) có mặt tạm thời trong dãy phân rã của chuỗi neptuni, bắt đầu là 237Np (hay 233U) và kết thúc là bismuth gần bền (209Bi).
+
+
+== Ứng dụng ==
+Nó phóng xạ gấp 150 lần so với radi, nên nó là một ngồn neutron có giá trị tạo ra năng lượng. Ngoài ra thì nó không có những ứng dụng quan trọng trong công nghiệp.
+225Ac được dùng trong y học để tạo ra 213Bi trong một máy phát điện có thể tái sử dụng hoặc có thể được dùng độc lập làm chất điều trị miễn dịch radio cho phép trị liệu Anpha (Targeted Alpha Therapy- TAT). 225Ac được sản suất nhân tạo đầu tiên bởi Viện nguyên tử siêu Urani (Institute for Transuranium Elements - ITU) ở Đức bằng xyclôtron và bởi tiến sĩ Graeme Melville ở Bệnh viện St George, Sydney bằng cách dùng máy gia tốc tuyến tính năm 2000.
+
+
+== Phòng ngừa ==
+227Ac phóng xạ cực mạnh, và nó tạo ra phóng xạ ảnh hưởng đến sức khỏe con người
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+WebElements.com - Actinium
+NLM Hazardous Substances Databank – Actinium, Radioactive

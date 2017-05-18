@@ -1,0 +1,23 @@
+Công tắc là tên của một thiết bị (xét trong mạch điện), hoặc một linh kiện (xét trong một thiết bị điện, sử dụng với mục đích để đóng/bật - ngắt/mở/tắt dòng điện hoặc chuyển hướng trạng thái đóng-ngắt trong tổ hợp mạch điện có sử dụng chung một công tắc. Hay rõ hơn, trong mạng điện, một công tắc có thể cùng lúc chuyển trạng thái đóng-ngắt cho 1 hoặc nhiều mạch điện thành phần. Cầu dao, khóa điện, Rơ le,... là những dạng công-tắc đặc biệt, được người Việt đặt tên riêng để phân biệt do cách chế tạo, công năng sử dụng.
+
+
+== Cấu tạo ==
+Một công tắc được cấu tạo từ 2 điểm của đường dây tải điện và cầu nối giữa chúng (giúp 2 điểm "tiếp xúc" với nhau). Công tắc có thể là công tắc đơn (2 điểm, kết nối 1-1) hoặc đa điểm (kết nối 1-n hoặc n-1 hoặc n-n hoặc n-m, trong đó n, m>1).
+
+
+== Phân biệt công tắc điện và công tắc từ ==
+Công tắc điện và công tắc từ khác nhau cơ bản ở cơ chế điều khiển sự đóng-ngắt đường dây dẫn.
+Công tắc điện hoạt động nhờ tác động cơ học di chuyển cầu nối để nối-không nối 2 tiếp điểm của mạch điện, tác động này có thể là tác động chủ động từ con người hoặc tự động nhờ cảm biến nhiệt hoặc điện;
+Công tắc từ hoạt động nhờ một mạch điều khiển khác sẽ hút/nhả 2 tiếp điểm với nhau.
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Linh kiện điện tử
+Ký hiệu điện tử
+Sơ đồ mạch điện
+
+
+== Liên kết ngoài ==

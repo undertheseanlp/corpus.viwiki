@@ -1,0 +1,63 @@
+Yttri là một nguyên tố hóa học có ký hiệu Y và số nguyên tử 39. Là một kim loại chuyển tiếp màu trắng bạc, yttri khá phổ biến trong các khoáng vật đất hiếm và hai trong số các hợp chất của nó được sử dụng làm lân quang màu đỏ trong các ống tia âm cực, chẳng hạn trong các ống dùng cho truyền hình. Nguyên tố này thông thường không tìm thấy trong cơ thể người và không đóng một vai trò sinh học nào cả.
+
+
+== Đặc trưng ==
+Yttri tương đối ổn định trong không khí, trông khá giống scandi ở bề ngoài và về tính chất hóa học thì tương tự như các nguyên tố nhóm Lantan, khi bị phơi ra ngoài ánh sáng có ánh hơi hồng. Các mảnh vụn hay phoi bào của kim loại này có thể bắt cháy trong không khí khi nhiệt độ cao trên 400 °C. Khi yttri bị chia cắt mịn thì nó rất không ổn định trong không khí. Kim loại này có tiết diện nơtron thấp để bắt giữ hạt nhân. Trạng thái ôxi hóa phổ biến nhất của yttri là +3.
+
+
+== Ứng dụng ==
+Ôxít yttri (III) là hợp chất quan trọng nhất và được sử dụng rộng rãi để tạo ra các chất lân quang YVO4:Eu và Y2O3:Eu để tạo ra màu đỏ trong các ống tia âm cực dùng cho truyền hình màu. Các ứng dụng khác có:
+Ôxít yttri dùng chế tạo các dạng ngọc hồng lựu yttri sắt làm các bộ lọc vi sóng hiệu suất cao.
+Các loại ngọc hồng lựu yttri sắt, nhôm, gadolini (ví dụ Y3Fe5O12 và Y3Al5O12) có các tính chất từ tính rất đáng chú ý. Ngọc hồng lựu yttri sắt có hiệu suất cao trong vai trò của bộ chuyển năng và truyền dẫn năng lượng âm thanh. Ngọc hồng lựu yttri nhôm có độ cứng 8,5 và cũng được sử dụng như là đá quý (kim cương giả).
+Các lượng nhỏ của yttri (0,1 tới 0,2%) đã từng được sử dụng để giảm kích thước hạt của crom, molypden, titan, zirconi. Nó cũng được dùng để tăng sức bền của các hợp kim nhôm và magiê.
+Được dùng làm chất xúc tác cho quá trình polyme hóa etylen.
+Ngọc hồng lựu yttri nhôm, Y2O3, florua yttri liti, vanadat yttri được dùng trong tổ hợp với các tác nhân kích thích (dopant) như neodymi, erbi, ytterbi trong các laze cận-hồng ngoại. Các dạng tinh thể và gốm của chúng đều được sử dụng.
+Nó được sử dụng tại các điện cực của một số loại bu gi hiệu suất cao.
+Nó được dùng để khử ôxi cho vanadi hay các kim loại phi sắt khác.
+Yttri cũng được dùng trong sản xuất măng sông cho các đèn măng sông dùng propan, thay thế cho thori là chất hơi có tính phóng xạ.
+Các tinh thể ngọc hồng lựu yttri nhôm kích thích bằng xeri (YAG:Ce) được dùng làm chất lân quang để làm các LED phát ánh sáng trắng.
+Các vi cầu Yttri-90 có tiềm năng được dùng trong điều trị ung thư biểu mô gan không thể cắt bỏ.
+Yttri được dùng như là nguyên tố "bí mật" trong chất siêu dẫn YBCO phát triển tại Đại học Houston, YBaCuO. Chất siêu dẫn này làm việc trên 90K, đáng chú ý vì nó là trên điểm sôi của nitơ lỏng (77,1K). (Y1,2Ba0,8CuO4). Vật liệu được tạo ra là khoáng vật đa tinh thể đa pha, có màu đen và lục.
+Yttri được nghiên cứu để tìm kiếm khả năng sử dụng như là tác nhân tạo hòn trong sản xuất gang mềm với độ mềm dẻo của gang tăng lên (graphit tạo thành các hòn rắn chắc thay vì các mảnh như bông để tạo ra gang mềm). Về tiềm năng, yttri có thể sử dụng trong sản xuất gốm và thủy tinh, do ôxít yttri có điểm nóng chảy cao và sức kháng va chạm cao cùng hệ số giãn nở nhiệt thấp.
+Ôxít yttri cũng được dùng để ổn định dạng hình hộp của zirconia để sử dụng trong nghề kim hoàn.
+Yttria (Ôxít yttri (III)) được dùng như là phụ gia kết dính trong sản xuất nitrua silic xốp.
+Yttri-90 được dùng trong Zevalin, là một loại thuốc trị liệu hệ miễn dịch-phóng xạ được chỉ định trong điều trị một vài loại ung thư bạch huyết phi-Hodgkin.
+
+
+== Lịch sử ==
+Yttri (đặt tên theo Ytterby, một làng ở Thụy Điển gần Vaxholm) được nhà hóa học, nhà vật lý kiêm nhà khoáng vật học người Phần Lan là Johan Gadolin phát hiện ra năm 1794. Năm 1828, Friedrich Wöhler đã cô lập nó như là chất chiết ra không tinh khiết từ yttria thông qua phản ứng khử clorua yttri khan (YCl3) bằng kali. Yttria (Y2O3) là ôxít của yttri, được Johan Gadolin phát hiện năm 1794 trong khoáng vật gadolinit lấy từ Ytterby.
+Năm 1843, nhà hóa học người Thụy Điển Carl Mosander đã chứng minh rằng yttria có thể chia ra thành các ôxít (hay các loại đất) của ba nguyên tố khác nhau. "Yttria" là tên gọi được giữ lại cho ôxít có tính bazơ nhất (chiếm khoảng 2/3), còn các ôxít kia được đổi tên thành ecbia và tecbia. Muộn hơn trong thế kỷ 19, cả hai loại "ôxít" kia cũng được chứng minh là phức tạp, mặc dù các tên gọi vẫn được giữ lại cho thành phần có tính chất đặc trưng nhất của loại "đất" đó.)
+Mỏ khai thác cạnh làng Ytterby sản sinh nhiều khoáng vật không bình thường chứa các nguyên tố đất hiếm cùng các nguyên tố khác. Các nguyên tố ecbi, tecbi, yttecbi và yttri tất cả đều được đặt tên theo tên gọi của làng nhỏ này.
+
+
+== Phổ biến ==
+
+Nguyên tố này được tìm thấy gần như trong mọi loại khoáng vật đất hiếm cũng như trong các loại quặng urani nhưng không tìm thấy ở dạng tự do trong tự nhiên. Nó được sản xuất ở quy mô thương mại bằng cách khử florua yttri (YF3) với canxi kim loại nhưng cũng có thể được sản xuất bằng các kỹ thuật khác. Nó rất khó tách ra từ các nguyên tố đất hiếm khác và khi tách được thì nó là chất bột màu xám sẫm.
+"Đất hiếm" ceria (1803) và yttria (1794) nguyên bản phản ánh sự phân chia địa hóa học lớn diễn ra giữa các nguyên tố nhóm lantan nhẹ hơn và nặng hơn do "sự teo lại lantan". Các nguyên tố nhóm lantan nhẹ hơn, với bán kính nguyên tử lớn hơn, tham dự vào các khoáng vật tại các vị trí với số phối hợp cao hơn (ví dụ monazit), trong khi các nguyên tố nhóm lantan nặng hơn nhưng bán kính nguyên tử nhỏ hơn lại ưa thích các số phối hợp thấp hơn (như trong xenotim). Các nguyên tố nhóm lantan nhẹ hơn cũng tương đối phổ biến hơn trong lớp vỏ Trái Đất khi so với các nguyên tố nhóm nặng, tương xứng với sự phổ biến trong các vẫn thạch chondrit, do sự phân đoạn kích thước. Yttri rơi vào khoảng trung bình về kích thước của nhóm nặng và vì thế chắc chắn có mặt cùng chúng trong các khoáng vật này, trong đó nó chiếm khoảng hai phần ba hỗn hợp các ôxít theo trọng lượng. Thành phần như vậy là điển hình của gadolinit, xenotim và một vài dạng đất sét hấp thụ ion.
+Các mẫu đá Mặt Trăng thu được từ chương trình Apollo có hàm lượng yttri tương đối cao.
+Xem thêm Khoáng vật yttri.
+
+
+== Đồng vị ==
+
+Yttri tự nhiên chỉ bao gồm một đồng vị (Y89). Các đồng vị phóng xạ ổn định nhất là Y88 có chu kỳ bán rã 106,65 ngày và Y91 với chu kỳ bán rã 58,51 ngày. Tất cả các đồng vị khác có chu kỳ bán rã nhỏ hơn 1 ngày, ngoại trừ Y87 với chu kỳ bán rã 79,8 giờ. Phương thức phân rã chủ yếu của các đồng vị dưới Y89 là bắt điện tử còn phương thức chủ yếu của các đồng vị trên Y89 là bức xạ beta. Hai mươi sáu đồng vị không ổn định đã được nêu đặc trưng.
+Y90 tồn tại trong cân bằng muôn thuở với đồng vị cha của nó Sr90, là sản phẩm của các vụ nổ hạt nhân.
+
+
+== Phòng ngừa ==
+Các hợp chất chứa nguyên tố này hiếm khi được bắt gặp, nhưng nên hết sức cẩn thận do chúng có độc tính cao. Các muối của yttri có thể có khả năng gây ung thư.
+
+
+== Xem thêm ==
+Hợp chất yttri
+Ecbi
+Tecbi
+Yttecbi
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+WebElements.com – Yttri
+Phòng thí nghiệm quốc gia Los Alamos – Yttri

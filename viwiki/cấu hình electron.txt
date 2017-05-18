@@ -1,0 +1,52 @@
+Cấu hình electron, hay cấu hình điện tử, nguyên tử cho biết sự phân bố các electron trong lớp vỏ nguyên tử ở các trạng thái năng lượng khác nhau hay ở các vùng hiện diện của chúng.
+
+
+== Số lượng tử và lớp ==
+Trạng thái của mỗi electron trong lớp vỏ có thể được biểu diễn qua 4 số lượng tử (cả mô hình nguyên tử Bohr và orbital):
+Theo nguyên lý Pauli, 4 số lượng tử của từng cặp electron trong nguyên tử không được trùng nhau, giải thích cho sự phân bố của chúng trong các lớp khác nhau. Điều này cũng có nghĩa là, trên cùng một phân lớp, không có 2 electron có chiều tự quay giống nhau.
+Số lượng tử chính n hình thành nên các lớp chính, trong mỗi lớp chính có n phân lớp. Các electron trên cùng một lớp thì có mức năng lượng xấp xỉ nhau, và trên cùng một phân lớp thì có năng lượng bằng nhau. Tổng số electron ở mỗi lớp chính phụ thuộc vào bộ 4 số lượng tử n, l, m và s nhưng tối đa là 2n2 electron.
+Lớp electron ngoài cùng (lớp hóa trị) của các nguyên tố chứa các electron hóa trị, các electron này quyết định các tính chất hóa học cũng như tính chất vật lý của chúng.
+
+
+== Điền electron vào các lớp ==
+
+Các electron sẽ điền theo thứ tự vào các lớp có năng lượng từ thấp đến cao, bắt đầu là lớp 1s. Ngoài ra theo quy tắc Hund, các lớp electron có cùng mức năng lượng thì ban đầu được điền đơn, sao cho số electron độc thân là lớn nhất, sau đấy mới được điền đôi.
+Sự điền electron vào các lớp không chỉ phụ thuộc vào vị trí hay khoảng cách của chúng đến hạt nhân mà còn phụ thuộc vào mức năng lượng của các lớp.
+Ví dụ: titan có Z = 22, cấu hình theo thứ tự các lớp 1s2 2s2 2p6 3s2 3p6 3d4 4s0 nhưng do năng lượng của lớp 4s thấp hơn lớp 3d nên 4 electron còn lại sẽ điền đầy vào lớp 4s (2) trước, sau đấy mới đến lớp 3d (2), cấu hình đúng của titan là 1s2 2s2 2p6 3s2 3p6 3d2 4s2
+Ngoại lệ:
+Nguyên tố lantan, Z = 57 lớp ngoài cùng 6s2 4f1, electron tự do cuối cùng điền vào 5d trước khi vào 4f, tương tự trong nguyên tử Ac thì 6d trước 5f.
+Trong nguyên tử Cr và Cu một electron trong lớp có năng lượng thấp 4s điền vào lớp có năng lượng cao hơn 3d, chúng có cấu hình lớp ngoài cùng là 3d5 4s1 và 3d10 4s1
+Các trường hợp ngoại lệ khác Nb, Mo, Tc, Ru, Rh, Pd, Ag, Ir, Pt, Au, Gd, các actini từ Ac đến Np và Cm
+
+
+== Liên hệ đến bảng tuần hoàn ==
+18 nhóm chính (nhóm mới) trong bảng tuần hoàn được phân ra dựa theo số electron trong các lớp ngoài cùng:
+lớp s: nhóm 1 (s1) - 2 (s2)
+lớp p: nhóm 13 (p1) - 18 (p6) (Trừ He, H)
+lớp d: nhóm 3 (d1) - 12 (d10)
+Số chu kỳ bằng số lớp n, với ns là lớp ???? ngoài cùng.
+
+
+== Cấu hình electron của một số nguyên tố ==
+Cấu hình electron của các nguyên tố thường được viết dưới dạng kèm theo cấu hình electron của các khí hiếm có số thứ tự nhỏ hơn đứng gần nó cộng với các lớp còn lại. Ví dụ, cấu hình electron của magiê (Z = 12): [Ne] 3s2 thì được hiểu 1s2 2s2 2p6 3s2.
+
+
+=== Khí hiếm ===
+
+
+=== Z từ 11 đến 17 ===
+
+
+=== Z từ 21 đến 31 ===
+
+
+=== Z từ 39 đến 49 ===
+
+
+== Xem thêm ==
+Bảng tuần hoàn
+Số lượng tử
+Kim loại chuyển tiếp
+
+
+== Tham khảo ==

@@ -1,0 +1,35 @@
+Thủy lực cắt phá (tiếng Anh: hydraulic fracturing, thường rút ngắn thành fracking) là kỹ thuật khai thác mỏ bằng cách dùng áp suất chất lỏng để làm nứt các tầng đá trong lòng đất. Đường nứt sẽ chạy theo mạch đất thiên nhiên, khai mở những khoáng chất vốn bị nén chặt trong lòng đất. Bằng cách bơm chất lỏng trộn với một số hóa chất và cát dưới áp suất cao vào giếng mỏ làm nứt vỡ tầng đá, một số địa chất như khí đốt và dầu mỏ có thể bơm lên được.
+Kỹ thuật thủy lực cắt phá thường được dùng khai thác ở những vùng đá phiến dầu và khí đốt than để kích thích đất đá nhả và tăng lưu lượng khoáng chất. Thủy lực cắt phá còn có ưu điểm là có thể đâm ngang trong lòng đất thay vì bị hạn chế theo chiều dọc.
+Thủy lực cắt phá được dùng từ năm 1947 nhưng lúc đầu chỉ là thí nghiệm, đến năm 1949 mới áp dụng thương mại thành công. Tính đến năm 2012 có hơn 2,5 triệu vụ khoan mỏ trên thế giới dùng kỹ thuật này để khai thác dầu mỏ và khí đốt. Riêng ở Hoa Kỳ có hơn một triệu vụ. Tuy nhiên có nơi như Pháp thì lại ban luật cấm dùng kỹ thuật này.
+Kỹ thuật thủy lực cắt phá hiện vẫn còn gây tranh cãi. Bên ủng hộ thì cho đây là động lực phát triển kinh tế bằng cách tăng hiệu lực khai thác mỏ và các chất hiđrôcacbon;  bên phản đối thì lo hậu quả tai hại môi sinh, ô nhiễm nguồn nước ngầm, ô nhiễm không khí, cạn kiệt nguồn nước ngọt, và còn có thể gây động đất cùng những tác động xấu đến sức khỏe con người.
+
+
+== Quá trình ==
+Theo Cơ quan Bảo vệ Môi sinh Hoa Kỳ (EPA), thuỷ lực cắt phá là phá trình hỗ trợ một giếng dầu, khí tự nhiên đạt được khai thác tối đa. EPA định nghĩa quá trình rộng hơn bao gồm thu thập nguồn nước, xây dựng giếng, hỗ trợ giếng, và xử lý chất thải.
+
+
+=== Phương pháp ===
+Một vết nứt thuỷ lực được tạo ra bằng cách bơm chất lỏng cắt phá vào giếng khoan với tỉ lệ đủ để tăng áp suất ở độ sâu mục tiêu (determined by the location of the well casing perforations), để tăng građien nứt vỡ (građien áp suất) của đá. građien nứt vỡ được định nghĩa là áp suất tăng lên trên đơn vị độ sâu có liên quan đến khối lượng riêng, và thường được đo bằng pound trên inch vuông, trên foot vuông, hoặc bar và các đơn vị khác. Khi đá nứt vỡ, dung dịch cắt phá thấm vào đá làm tăng dần vết nứt. Các vết vỡ được định vị khi áp suất giảm cùng với sự giảm ma sát, có liên quan đến khoảng cách từ giếng. Người vận hành thường cố duy trì "chiều rộng vết nứt", hoặc làm chậm lại sự giảm chiều rộng, bằng cách sử dụng proppant cắt phá thuỷ lực cùng với chất lỏng được bơm – , nó là một chất liệu như hạt cát, gốm, và các hạt khác, vì vậy giúp ngăn chặn vết nứt đóng lại khi ngừng bơm và áp suất bị loại bỏ. Sự nghiên cứu về sức bền của proppant trở nên quan trọng hơn ở vị trí sâu hơn vì áp suất và áp lực lên vết vỡ cao hơn. Vết vỡ được chống đỡ phải đủ độ thẩm thấu để cho phép dầu, khí, nước muối và chất lỏng cắt phá chảy đến giếng.
+Trong quá trình, dung dịch cắt phá rò rỉ (dung dịch cắt phá bị mất đi do thấm vào đá xung quanh) xảy ra. Nếu không được quản lý, nó có thể vượt quá 70% lượng dung dịch bơm vào. Việc này có thể làm phá huỷ chất nền, thay đổi cấu trúc hình học của vết vở, do đó giảm hiệu quả.
+Ví trí của một hoặc nhiều hơn các vết vỡ dọc theo hố khoan được điều khiển chặt chẽ bởi các phương pháp để bịt các lỗ hổng dung quanh hố khoan. Thuỷ lực cắt phá được thực hiện trong hố khoan được chống ống, và khu vực cần bị vỡ sẽ được tiếp cận bằng cách khoan thủng ống chống ở các vị trí đó.
+Thiết bị cắt phá thuỷ lực được sử dụng trong mỏ dầu khí thường bao gồm máy xay xi măng, một hoặc nhiều máy bơm cắt phá áp suất cao (thường là máy bơm loại triplex hoặc quintuplex) và đơn vị giám sát. Đi cùng với thiết bị là thùng chứa, hoặc các đơn vị cất giữ proppant, sắt xử lý áp suất cao, một đơn vị hoá học thêm vào, ống áp suất thấp linh động, và nhiều máy đo tốc độ dòng chảy, khối lượng riêng chất lỏng, và áp suất xử lý. Chất hoá học thêm vào thường bằng 0,5% tổng thể tích chất lỏng. Thiết bị cắt phá vận hành trong một phạm vi áp suất và tốc độ bơm, có thể lên đến 100 mêgapascal (15.000 psi) và 265 lít một giây (9,4 cu ft/s) (100 barrel trên phút).
+
+
+== Sử dụng ==
+Thuỷ lực cắt phá được sử dụng để tăng tốc độ mà chất lỏng, ví dụ như dầu, khí, nước có thể phục hồi từ vỉa chứa tự nhiên ngầm. Vỉa chứa thường là đá cát kết, đá vôi hoặc đá dolomit có độ xốp, nhưng cũng bao gồm các vỉa chứa "không thông thường" ví dụ như các tầng đá phiến sét hoặc than đá. Thuỷ lực cắt phá cho phép khai thác dầu khí tự nhiên từ các hệ tầng đá sâu dưới lòng đất (thường 2.000–6.000 m (5.000–20.000 ft)), which is greatly below typical groundwater reservoir levels. Ở độ sâu này, có thể không đủ độ thẩm thấu hoặc áp suất vỉa chứa để cho phép dầu khí tự nhiên chảy từ đá vào giếng khoan với hiệu quả kinh tế cao. Vì vậy, tạo ra vỡ truyền ở đá trong khai thác vỉa chứa đá phiến sét không thấm. Sự thẩm thấy được đo bằng đơn vị trong phạm vi từ micro darcy đến nano darcy. Vết vỡ là các đường truyền nhau liên kết một thể tích vỉa chứa lớn hơn đến giếng. Cái được gọi là "siêu cắt phá", tạo ra vết vỡ ở đá sâu hơn để giải phóng nhiều dầu khí hơn, và tăng hiệu quả. Năng suất của các hố phiến sét điển hình thường giảm sau một hoặc hai năm, nhưng thời gian khai thác một giếng có thể kéo dài đệ hàng thập kỷ.
+Trong khi mục đích công nghiệp chính của thuỷ lực cắt phá còn hỗ trợ sản xuất từ giếng dầu khí, thuỷ lực cắt phá còn được áp dụng:
+Hỗ trợ giếng nước ngầm
+Tạo điều kiện khai thác mỏ
+Như một phương tiện tăng cường xử lý chất thải, thường là chất thải hiđrôcacbon
+Xử lý chất thải bằng cách bơm sâu nó vào đá
+Đo áp lực Trái Đất
+Tạo ra điện trong hệ thống địa nhiệt tăng cường
+Tăng cường tốc độ phương pháp địa chất cô lập CO2
+Từ cuối những năm 1970, thuỷ lực cắt phá đã được sử dụng, trong một số trường hợp, tăng sản lượng nước uống từ giếng ở một số nước, bao gồm Hoa Kỳ, Úc, và Nam Phi.
+
+
+== Tác động kinh tế ==
+Thủy lực cắt phá là một yếu tố lớn làm giảm giá dầu thô vào năm 2012 từ 115 USD vào mùa hè xuống khoảng 70 USD vào mùa đông làm biến động tài chính và trật tự chính trị thế giới, tác động mạnh đến kinh tế và chính trị các nước Nga, Venezuela, và khối OPEC nói chung.
+
+
+== Tham khảo ==

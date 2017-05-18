@@ -1,0 +1,5 @@
+Mô đun Young, hay mô đun ứng suất, mô đun đàn hồi là một tính chất cơ học của các vật liệu rắn đàn hồi tuyến tính. Nó đo lực (trên một đơn vị diện tích) cần để kéo giãn (hoặc nén) một mẫu vật liệu.
+Mô đun Young được đặt theo tên nhà khoa học người Anh thế kỷ 19 là Thomas Young. Tuy nhiên, quan điểm này đã được Leonhard Euler phát triển năm 1727, và các thí nghiệm đầu tiên sử dụng quan điểm của mô đun Young theo công thức lúc đó được nhà khoa học người Ý Giordano Riccati thực hiện năm 1782, trước công trình của Young 25 năm.
+
+
+== Chú thích ==

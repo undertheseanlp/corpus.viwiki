@@ -1,0 +1,11 @@
+Liên kết cộng hóa trị phối trí (còn được biết đến như là Liên kết cộng hóa trị cho - nhận hay Liên kết phối trí) là một dạng đặc biệt của liên kết cộng hóa trị, trong đó các điện tử chia sẻ chỉ đến từ một nguyên tử duy nhất. Khi liên kết được tạo thành, độ bền của nó không khác gì so với liên kết cộng hóa trị.
+Các liên kết cộng hóa trị phối trí được tạo thành khi một bazơ Lewis (chất cung cấp điện tử) cung cấp một cặp điện tử cho axít Lewis (chất nhận điện tử) và hợp chất tạo thành sau đó được gọi là adduct.
+Các liên kết phối trí có thể tìm thấy trong nhiều chất khác nhau, chẳng hạn như trong các phân tử đơn giản như mônôxít cacbon (CO), trong đó có một liên kết phối hợp và hai liên kết cộng hóa trị thông thường giữa nguyên tử cacbon và nguyên tử ôxy, hay trong ion amôni (NH4+), trong đó liên kết phối hợp được tạo thành giữa prôton (ion H+) và nguyên tử nitơ. Các liên kết phối hợp cũng được tạo ra trong các hợp chất thiếu điện tử, chẳng hạn như trong clorua berili rắn (BeCl2), trong đó mỗi nguyên tử berili được liên kết tới bốn nguyên tử clo, hai với liên kết cộng hóa trị thông thường và hai với liên kết phối hợp, điều này sẽ tạo cho nó một cặp tám (octet) ổn định của các điện tử.
+Các liên kết phối trí cũng có thể tìm thấy trong các phức chất có sự tham gia của các ion kim loại, đặc biệt nếu chúng là các ion kim loại chuyển tiếp. Trong các phức chất này, các chất trong dung dịch hoạt động như các bazơ Lewis và cung cấp các cặp điện tử tự do của chúng cho ion kim loại, trong lượt nó hoạt động như các axít Lewis và nhận các điện tử. Các liên kết phối hợp tạo ra các hợp chất gọi là phức chất, trong khi chất cung cấp điện tử được gọi là các phối tử (ligand). Có rất nhiều hóa chất với các nguyên tử có các cặp điện tử độc thân, chẳng hạn ôxy, lưu huỳnh, nitơ và các halôgen hay các ion halogenua, mà trong dung dịch có thể cung cấp các cặp điện tử để trở thành các phối tử. Một phối tử thông thường là nước (H2O), nó sẽ tạo thành các phức chất với bất kỳ ion kim loại ngậm nước nào, chẳng hạn Cu2+, để tạo ra [Cu(H2O)4]2+ trong dung dịch nước. Các phối tử đơn giản khác là amôniắc (NH3), các ion florua (F-), clorua (Cl-) và xyanua (CN-).
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Chemguide

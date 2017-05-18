@@ -1,0 +1,99 @@
+Kính hiển vi là một thiết bị dùng để quan sát các vật thể có kích thước nhỏ bé mà mắt thường không thể quan sát được bằng cách tạo ra các hình ảnh phóng đại của vật thể đó. Kính hiển vi có thể gấp độ phóng đại bình thường lên từ 40 - 3000 lần. Kỹ thuật quan sát và ghi nhận hình ảnh bằng các kính hiển vi được gọi là kỹ thuật hiển vi (microscopy). Ngày nay, kính hiển vi có thể bao gồm nhiều loại từ các kính hiển vi quang học sử dụng ánh sáng khả kiến, cho đến các kính hiển vi điện tử, hay các kính hiển vi quét đầu dò, hoặc các kính hiển vi phát xạ quang... Kính hiển vi được sử dụng rộng rãi trong nhiều ngành như vật lý, hóa học, sinh học, khoa học vật liệu, y học và được phát triển không chỉ là công cụ quan sát mà còn là một công cụ phân tích mạnh.
+
+
+== Lịch sử ==
+
+Những kính hiển vi ban đầu được phát minh vào năm 1590 ở Middelburg, Hà Lan . Ba người thợ tạo kính là Hans Lippershey (người đã phát triển các kính viễn vọng trước đó), Zacharias Janssen, cùng với cha của họ là Hans Janssen là những người đầu tiên xây dựng nên những kính hiển vi sơ khai. Năm 1611, nhà toán học người Đức Johan Kepler (1571 - 1630) đã bỏ nhiều thời gian nghiên cứu và cải tiến tổ hợp thấu kính hội tụ và phân kỳ nói trên. Những kết quả nghiên cứu của Kepler được sử dụng cho đến bây giờ trong các loại kính hiển vi quang học hiện đại, đặc biệt là thị kính Kepler. Năm 1619, Cornelius Drebbel ở Luân Đôn đã chế tạo một kính hiểu vi phức tạp hơn bao gồm: thị kính được lắp bằng 2 thấu kính lồi, vật kính là 1 tổ hợp của kính phẳng và kính lồi, ngoài ra còn màn chắn; ảnh nhìn qua kính hiển vi này là ảnh ngược. Năm 1625, Giovanni Faber là người xây dựng một kính hiển vi hoàn chỉnh đặt tên là Galileo Galilei .
+
+Các cấu trúc của kính hiển vi quang học tiếp tục được phát triển tiếp theo đó, và kính hiển vi chỉ được sử dụng một cách phổ biến hơn ở Italia, Anh quốc, Hà Lan vào những năm 1660, 1670. Marcelo Malpighi ở Italia bắt đầu sử dụng kính hiển vi để nghiên cứu cấu trúc sinh học ở phổi. Đóng góp lớn nhất thuộc về nhà phát minh người Hà Lan Antoni van Leeuwenhoek, người đã phát triển kính hiển vi để tìm ra tế bào hồng cầu và tinh trùng và đã công bố các phát hiện này . Các phát triển ban đầu về kính hiển vi là thiết bị quang học sử dụng ánh sáng khả kiến và các thấu kính thủy tinh để quan sát.
+Đầu thế kỷ 20, kỹ thuật hiển vi tạo sự nhảy vọt với sự ra đời của các kính hiển vi điện tử, mà mở đầu là kính hiển vi điện tử truyền qua được phát minh năm 1931 bởi Max Knoll và Ernst Ruska ở Đức , và sau đó là sự ra đời của kính hiển vi điện tử quét... Cuối thế kỷ 20, một loạt các kỹ thuật hiển vi khác được phát triển như kính hiển vi quét đầu dò, hiển vi quang học trường gần...
+
+
+== Các loại kính hiển vi ==
+
+
+=== Kính hiển vi quang học ===
+
+Là nhóm kính hiển vi sử dụng ánh sáng khả kiến rọi lên vật cần quan sát, và các thấu kính thủy tinh để phóng đại thông qua các nguyên lý khúc xạ của ánh sáng qua thấu kính thủy tinh. Đây là kính hiển vi đầu tiên được phát triển. Ban đầu, người ta phải sử dụng mắt để nhìn trực tiếp hình ảnh được phóng đại, nhưng các kính hiển vi quang học hiện đại ngày nay có thể được gắn thêm các bộ phận chụp ảnh như phim quang học, hoặc các CCD camera để ghi hình ảnh, hoặc video. Các bộ phận chính của kính hiển vi quang học bao gồm:
+
+Nguồn sáng;
+Hệ hội tụ và tạo chùm sáng song song;
+Giá mẫu vật;
+Vật kính (có thể là một thấu kính hoặc một hệ thấu kính) là bộ phận chính tạo nên sự phóng đại;
+Hệ lật ảnh (lăng kính, thấu kính);
+Thị kính là thấu kính tạo ảnh quan sát cuối cùng;
+Hệ ghi ảnh.
+
+Trên nguyên lý, kính hiển vi quang học có thể tạo độ phóng đại lớn tới vài ngàn lần, nhưng độ phân giải của các kính hiển vi quang học truyền thống bị giới hạn bởi hiện tượng nhiễu xạ ánh sáng và cho bởi:
+
+  
+    
+      
+        d
+        =
+        
+          
+            λ
+            
+              2
+              N
+              A
+            
+          
+        
+      
+    
+    {\displaystyle d={\frac {\lambda }{2NA}}}
+  
+với 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+   là bước sóng ánh sáng, NA là thông số khẩu độ. Vì thế, độ phân giải của các kính hiển vi quang học tốt nhất chỉ vào khoảng vài trăm nm.
+
+
+=== Kính hiển vi quang học quét trường gần ===
+
+Kính hiển vi quang học quét trường gần (tiếng Anh: Near-field scanning optical microscope) là một kỹ thuật hiển vi quang học cho phép quan sát cấu trúc bề mặt với độ phân giải rất cao, vượt qua giới hạn nhiễu xạ ánh sáng khả kiến ở các kính hiển vi quang học truyền thống (trường xa). Kỹ thuật này được thực hiện bằng cách đặt một detector rất gần với bề mặt của mẫu vật để thu các tín hiệu từ trường phù du của sóng ánh sáng phát ra khi quét một chùm sáng trên bề mặt của mẫu vật. Với kỹ thuật này, người ta có thể chụp ảnh bề mặt với độ phân giải ngang cỡ 20 nm, phân giải đứng cỡ 2-5 nm, và chỉ phụ thuộc vào kích thước của khẩu độ .
+
+
+=== Kính hiển vi điện tử ===
+
+Là nhóm kỹ thuật hiển vi mà ở đó nguồn bức xạ ánh sáng được thay thế bằng các chùm điện tử hẹp được tăng tốc dưới hiệu điện thế từ vài chục kV đến vài trăm kV. Thay vì sử dụng thấu kính thủy tinh, kính hiển vi điện tử sử dụng các thấu kính từ để hội tụ chùm điện tử, và cả hệ được đặt trong buồng chân không cao. Có nhiều loại kính hiển vi điện tử khác nhau, tùy thuộc vào cách thức tương tác của chùm điện tử với mẫu vật như kính hiển vi điện tử truyền qua sử dụng chùm điện tử chiếu xuyên qua vật, hay kính hiển vi điện tử quét sử dụng chùm điện tử quét trên vật.
+Kính hiển vi điện tử có độ phân giải giới hạn bởi bước sóng của sóng điện tử, nhưng do sóng điện tử có bước sóng rất ngắn nên chúng có độ phân giải vượt xa các kính hiển vi quang học truyền thống, và kính hiển vi điện tử truyền qua hiện đang là loại kính hiển vi có độ phân giải tốt nhất tới cấp độ hạ nguyên tử . Ngoài ra, nhờ tương tác giữa chùm điện tử với mẫu vật, kính hiển vi điện tử còn cho phép quan sát các cấu trúc điện từ của vật rắn, và đem lại nhiều phép phân tích hóa học với chất lượng rất cao.
+
+
+=== Kính hiển vi quét đầu dò ===
+
+Kính hiển vi quét đầu dò (tiếng Anh: Scanning probe microscopy, thường viết tắt là SPM) là tên gọi chung của nhóm kính hiển vi mà việc tạo ảnh bề mặt của mẫu vật được thực hiện bằng cách quét một mũi dò nhỏ trên bề mặt của mẫu vật. Nhóm kính hiển vi này ra đời vào năm 1981 với phát minh của Gerd Binnig và Heinrich Rohrer (IBM Zürich) về kính hiển vi quét chui hầm (cả hai đã giành giải Nobel Vật lý năm 1986 cho phát minh này). Khác với các loại kính hiển vi khác như quang học, hay hiển vi điện tử, kính hiển vi quét đầu dò không sử dụng nguồn bức xạ để tạo ảnh, mà tạo ảnh thông qua tương tác giữa đầu dò và bề mặt của mẫu vật. Do đó, độ phân giải của kính hiển vi đầu dò chỉ bị giới hạn bởi kích thước của đầu dò.
+
+
+=== Kính hiển vi tia X ===
+
+
+== Hình ảnh ==
+
+
+=== Các bộ phận cơ khí của kính hiển vi ===
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Danh sách phát minh và khám phá của người Hà Lan
+
+
+== Liên kết ngoài ==
+nOOpia, nOOpia microscopy blog
+Milestones in Light Microscopy, Nature Publishing
+FAQ on Optical Microscopes
+Nikon MicroscopyU, tutorials from Nikon
+Molecular Expressions: Exploring the World of Optics and Microscopy, Florida State University.
+Microscopes made from bamboo at Nature.com
+Microscope videos
+Audio microscope glossary

@@ -1,0 +1,28 @@
+Dubni (phát âm như "đúp-ni"; tên quốc tế: dubnium) là một nguyên tố hóa học với ký hiệu Db và số nguyên tử 105. Đây là nguyên tố tổng hợp có tính phóng xạ, đồng vị bền nhất của nó là 268Db có chu kỳ bán rã 28 giờ. Đây là đồng vị tồn tại lâu nhất của nhóm nguyên tố chuyển tiếp actini và là sự phản ánh khả năng ổn định của lớp gần Z = 108 và N = 162 và sự ảnh hưởng của các hạt thừa trong phân rã hạt nhân. Các thí nghiệm hóa học đã cung cấp đủ bằng chứng cho thấy dubni thuộc nhóm 5 của bảng tuần hoàn.
+
+
+== Lịch sử ==
+Nguyên tố 105 được các nhà khoa học Nga thông báo đầu tiên trong khoảng 1968-1970 tại Viện hợp tác nghiên cứu hạt nhân (Joint Institute for Nuclear Research) ở Dubna, Nga. Năm 1968, công trình nghiên cứu dựa trên việc nhận dạng các phân rã liên quan của nguyên tố 105 để biết hạt nhân sinh đôi dùng phản ứng 243Am(22Ne,xn). Họ tìm thấy phóng xạ anpha 9,40 MeV (mêga electron vôn) và 9,70 MeV và cho là các đồng vị 260105 hoặc 261105.
+Năm 1970, họ mở rộng nghiên cứu bằng các ứng dụng sắc ký gradient nhiệt và nhận dạng bằng sự phân hạch tự phát. Họ quan sát chất hoạt động 2.2 s SF trong một mẫu nhỏ có các đặc điểm giống niobi và gán cho nó là 261DbCl5.
+Vào cuối tháng 4 năm 1970, các nhà nghiên cứu dẫn đầu là Albert Ghiorso làm việc tại đại học California, Berkeley đưa ra sự tổng hợp của 260Db một cách thuyết phục trong phản ứng:
+24998Cf + 157N → 260105Db + 4 n
+Nhóm này tuyên bố rằng 260Db phân rã sinh ra hạt anpha 9,10 MeV có chuh kỳ bán rã 1,6 giây là 256Lr. Dữ liệu phân rã đối với 256Lr trùng khớp với các giá trị tham khảo chứng minh cho các tuyên bố của họ.
+Các kết quả từ các nhà khoa học Berkeley đã không có xác nhận từ các phát hiện của các nhà khoa học Liên Xô về phân rã anpha 9,40 MeV hoặc 9,70 MeV của 260Db.
+Năm 1971, nhóm nghiên cứu người Nga đã làm lại phản ứng dùng một hệ thống cải tiến và đã xác nhận dữ liệu phân rã đối với 260Db bằng phản ứng:
+243Am + 22Ne → 260Db + 5 n
+Năm 1976, nhóm khoa học Nga tiếp tục nghiên cứu của họ về phản ứng dùng sắc ký gradient nhiệt và đã xác nhận sản phẩm 260DbBr5.
+Năm 1977, all doubt was dispelled by the L X-ray elemental detection of lawrencium isotopes from the reaction:
+249Cf + 15N → 260Db + 4 n
+Năm 1992, TWG xem xét các tuyên bố của hai nhóm nghiên cứu và kết luận rằng công nhận các kết quả phát hiện của hai nhóm.
+
+
+=== Đặt tên ===
+Nhóm nghiên cứu người Mỹ đã đề xuất đặt tên nguyên tố mới là hahnium (Ha), theo tên của nhà hóa học Đức Otto Hahn. Do đó, tên gọi này được hầu hết các nhà khoa học sử dụng và xuất hiện trong nhiều bài báo xuất bản lúc đó. Trong khi đó, các nhóm người Nga đề xuất đặt tên là nielsbohrium (Ns) theo tên nhà vật lý hạt nhân Đan Mạch Niels Bohr.
+Cuộc tranh cãi về cách đặt tên đã nổ ra giữa hai nhóm. Khi đó, IUPAC tạm đặt tên unnilpentium (Unp), là tên theo hệ thống. Những cố gắng để dung hòa vấn đề này, năm 1994, IUPAC đề xuất tên gọi là joliotium (Jl), theo tên nhà vật lý Pháp Frédéric Joliot-Curie. Hai bên phát hiện vẫn không đồng ý tên gọi cho các nguyên tố 104-106. Tuy nhiên đến năm 1997, vấn đề đã được giải quyết khi chọn tên như hiện nay dubnium (Db), theo tên thị trấm Dubna của Nga, nơi đặt trụ sở Viện hợp tác nghiên cứu hạt nhân (Joint Institute for Nuclear Research). IUPAC cho rằng phòng thí nghiệm Berkeley đã nhiều lần phát hiện ra các nguyên tố và đặt tên như berkeli, californi, americi và do đó chấp nhận các tên gọi rutherfordi và seaborgi cho các nguyên tố 104 và 106 cần được bù lại bằng cách công nhận những đóng góp của nhóm nghiên cứu người Nga trong việc phát hiện ra các nguyên tố 104, 105 và 106.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+WebElements.com - Dubnium

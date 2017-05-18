@@ -1,0 +1,81 @@
+Poloni (tên La tinh: Polonium) là một nguyên tố hóa học có ký hiệu Po và số nguyên tử 84; đây là một nguyên tố kim loại phóng xạ cao. Polonium là kim loại có màu trắng bạc, về tính chất lý học giống với chì và bitmut. Poloni không có đồng vị bền mà có ít nhất 25 đồng vị phóng xạ đã biết.
+
+
+== Một vài số liệu ==
+Nhiệt độ nóng chảy: 254 °C
+Nhiệt độ sôi: 962 °C
+Năng lượng liên kết phân tử: 812,1 kJ/mol
+
+
+== Nguồn gốc tên gọi ==
+Poloni là nguyên tố phóng xạ được hai vợ chồng nhà hoá học Marie Curie và Pierre Curie phát hiện cùng với nguyên tố phóng xạ khác là radi ở trong quặng urani vào năm 1898. Nguyên tố được đặt tên là poloni để ghi nhớ tổ quốc của bà Marie (polinia trong tiếng Latinh là Ba Lan). Bà muốn cho quốc gia này được thế giới chú ý đến vì đang bị cả Nga, Phổ và Áo cai trị thời bấy giờ.
+
+
+== Ứng dụng-Điều chế ==
+Đồng vị Po210 được dùng để làm nguồn hạt alpha. Có thể điều chế trong lò phản ứng nguyên tử (với lượng mg hoặc g) khi bắn chùm neutron vào bitmut.
+
+
+== Tính chất ==
+Poloni thể hiện rõ nhất tính kim loại trong nhóm VIA, vì thế nó tác dụng được với axit.
+
+
+=== Đồng vị ===
+
+Poloni có 33 đồng vị, tất cả chúng đều là đồng vị phóng xạ. Chúng có khối lượng nguyên tử từ 188 đến 220 u.210Po (chu kỳ bán rã 138,4 ngày) là đồng vị phổ biến nhất.209Po (chu kỳ bán rã 103 năm) và 208Po (chu kỳ bán rã 2,9 năm) có thể tạo ra từ việc bắn phá hạt alpha, proton hoặc deuteron đối với chì hoặc bismut trong máy gia tốc.
+210Po phát ra tia alpha có chu kỳ bán rã 138,4 ngày tạo ra đồng vị con bền nhất là 206Pb. 1 mg210Po phát ra các hạt alpha/1 giây bằng với lượng hạt alpha phát ra từ 4.5 gram 226Ra. Một ít curie (1 curie tương đương 37 gigabecquerels, 1 Ci = 37 GBq) của 210Po phát ra ánh sáng màu xanh do chúng làm kích thích không khí xung quanh. Một gram 210Po sinh ra 140 W năng lượng. Do nó phát ra nhiều hạt alpha, loại hạt bị ngăn chặn trong một khoảng cách rất ngắn trong môi trường đặc và giải phóng năng lượng, 210Po đã được sử dụng như nguồn nhiệt nhỏ để phát điện cho tế bào nhiệt điện trong các vệ tinh nhân tạo.
+
+
+=== Trạng thái rắn ===
+
+Poloni là nguyên tố phóng xạ có hai đồng phân kim loại. Đồng phân anpha là một vì dụ duy nhất được biết đến ở dạng cấu trúc tinh thể lập phương đơn giản trong một nguyên tử đơn, với cạnh dài 335,2 picometer; dạng beta có cấu trúc trực thoi. Cấu trúc của poloni được đặc trưng hóa bởi nhiễu xạ tia X và nhiễu xạ electron.
+210Po (là dạng phổ biến như 238Pu) có khả năng hóa hơi để trở thành dạng khí dễ dàng: nếu một mẫu poloni dạng này được nung trong không khí đến 55 °C (131 °F), 50% của nó hóa hơi trong 45 giờ để tạo thành phân tử Po2, mặc dù điểm nóng chảy của nó là 254 °C (489 °F) và điểm sôi là 962 °C (1.764 °F).
+
+
+== Tác động sinh học - Độc tính ==
+Polonium là rất nguy hiểm và không có vai trò y sinh học.Một đồng vị của nguyên tố Polonium, Polonium-210 là một chất cực độc, chỉ cần một lượng rất nhỏ cũng đủ để gây chết người. Polonium-210 gây chết người bởi nó phóng ra hạt anpha với năng lượng đủ để làm hỏng cỗ máy gien tế bào. Nó không được dùng cho phóng xạ y học như các đồng vị caesium-137 hoặc cobalt-60.
+
+
+=== Ngộ độc Polonium-210 ===
+Nạn nhân đầu tiên của chất phóng xạ Polonium chính là con gái của Bà tên Irene Joliot Curie, kết quả của một vụ nổ trong phòng thí nghiệm. Cô Irene đã chết 10 năm sau khi tại nạn xảy ra do chứng leukemia. Hiện tại, mức sản xuất Polonium trên thế giới chỉ vào khoảng 100 gram với mục đích ứng dụng vào việc khử bụi trong các kính hiển vi điện tử và trong các cân tiểu li siêu chính xác.
+Đứng về phương diện độc tố học, chất phóng xạ tạo ra những nguyên tử (atom) có khả năng ức chế tế bào của cơ thể con người, điện hoá các tế bào trên và sau cùng tiêu huỷ chúng. Đối với việc tiếp nhiễm do phóng xạ thiên nhiên ở nồng độ thấp, các tế bào bị điện hoá dược cơ thể tái tạo lại sau đó, do đó nguy cơbị ngộ độc không xảy ra.
+Tuy nhiên, khi cơ thể tiếp nhiễm một số lượng lớn phóng xạ như trường hợp của Litvinenko, cơ thể không thể tự hàn gắn và trấn áp cùng thay thế các tế bào đã bị huỷ diệt, từ đó nguy cơ tử vong rất cao. Các loại tế bào trong cơ thể bị ảnh hưởng trực tiếp và bị nhiễm độc là bạch huyết cầu (white blood cell) và tế bào sinh sản hồng huyết cầu và bạch huyết cầu.
+Sự thiếu hụt tế bào trong cơ thể là chỉ dấu đầu tiên của sự ngộ độc phóng xạ; sau đó, tế bào ruột non bị xâm nhập tạo ra sự nôn mửa kéo theo cơ thể bắt đầu bị mất nước.
+Thời gian tiếp theo, tuỳ theo cường độ bị tiếp nhiễm và thể loại phóng xạ (có thời gian bán huỷ khác nhau), phóng xạ bắt đầu tàn phá các mô cứng và mềm (hard and soft tissue) qua các chứng sau đây như: - nhức đầu, - hơi thở dồn dập, - tim đập nhanh, - ho khan (không có đàm), - lồng ngực bị đau từng cơn, - da bắt đầu chuyển sang màu xậm, - ở phần dưới da và bất cứ nơi nào trong cơ thể đều xuất hiện những hạt máu nhỏ do các tĩnh mạch bị vỡ ra, - và chứng thiếu máu trầm trọng xuất hiện.
+Trầm trọng hơn nữa, nếu bị tiếp nhiễm nặng khoảng 10 Gray (Gy- đơn vị phóng xạ), nạn nhân có thể mất mạng trong vòng hai đến bốn tuần lễ. Cường độ của mức phóng xạ tiếp nhiễm cho phép chúng ta có thể ước tính được mức nguy hai đến nạn nhân như sau: - Nếu cơ thể bị tiếp nhiễm 100 Roentgen, các chứng
+bịnh do phóng xạ bắt đầu xuất hiện; - Nếu cơ thể bị tiếp nhiễm khoảng 400 Roentgen, nửa phần cơ thể có thể bị liệt; - Nếu cơ thể bị tiếp nhiễm khoảng 100.000 Roentgen, nạn nhân bị hôn mê tức khắc và chết trong vòng một tiếng đồng hồ.
+(Đơn vị đo lường phóng xạ gồm: - Roentgen: lượng phóng xạ phóng thích do tia gamma trong 1cm3 không khí, ký hiệu là R; - Rad: lượng phóng xạ hấp thụ qua tiếp nhiễm. Đơn vị lầy dùng để ước tính lượng phóng xạ có trong cơ thể; - Gray: Ký hiệu là Gy, là đơn vị chuẩn quốc tế (SI) tương đương với 100 Rad.)
+
+
+=== Cơ chế của sự ngộ độc Polonium-210 ===
+Qua trường hợp của Litvinenko, ảnh hưởng sinh hoá học lên cơ thể của các đồng vị phóng xạ được soi rọi rõ ràng hơn vì trước đây, những việc tiếp nhiễm (nhiễm độc) cấp tính với liều lượng cao chỉ được diễn đạt qua tính toán và ước tính mà thôi.
+Trung tá Litvinenko là nạn nhân của một sự thanh trừng thường thấy dưới các chế độ độc tài toàn trị như ở Liên bang Nga hiện tại. Qua bức thư trước khi qua đời, mặc dù không nêu đích danh Putin, nhưng mọi người đều biết ông ta là kẽ chủ mưu chính trong cái chết nầy: “Ông (Putin) có thể thành công trong việc làm tôi im lặng, nhưng sự im lặng sẽ đổi lấy một giá đắt cho ông. Ông đã tự cho thấy chính ông là dã
+man và sắt máu mà thế giới đã từng phê phán ông. Ông đã mặc nhiên tự nhận là đã không tôn trọng đời sống con người, sự tự do, và bất cứ giá trị nào của thế giới văn minh”. (cần dẫn nguồn ?)
+Trở lại nguyên tố có chứa phóng xạ Polonium-210, đây là hoá chất đã từng được dùng để chế bom nguyên tử qua tính tách rời (fission) các tia alpha. Những tia nầy có đời sống bán huỷ (half life) là 138 ngày. Nguyên tố Polomium-210 sau khi tách rời tất cả tia alpha, sẽ biến thành nguyên tố chì bền vững (Lead-206) và nhân Helium cùng phóng thích ra 5,3 MeV năng lượng.
+Tia alpha rất dễ dàng bị ngăn chận bởi một mảnh giấy mỏng, do đó Polonium-210 chỉ độc hại một khi đã xâm nhập vào bên trong cơ thể qua đường khí quản hoặc thực quản mà thôi.
+Nếu Litvinenko uống vào 1 ug Po-210 dưới dạng muối citrate hay chloride (đã được các nhà khoa học phỏng đoán), thì có khoảng 3.1015 (3 ngàn ức) đồng vị phóng xạ đã vào cơ thể ông ta, một lượng đồng vị đủ để cho hàng trăm đồng vị kết hợp với mỗi tế bào của cơ thể. Ở mỗi điểm đến của tia alpha, chúng để lại một số năng lượng lớn trong một vùng nhỏ của tế bào, căn cứ vào kết quả nghiên cứu của GS Roger Howell thuộc Đại học Y khoa. Mỗi tia alpha sẽ ngăn cách tế bào tạo thành một chuỗi gốc (radical) lần lần thiêu huỷ protein của cơ thể cũng như gây thương tổn đến các chuỗi DNA.
+Litvinenko qua đời sau 22 ngày bị đầu độc, theo TS Wiley Jr. thuộc Radiation Emergency Assistance Center, Tennessee, có lẽ đến từ nguyên do là các tia alpha đã phá huỷ các tế bào gốc (stem) trong tuỷ bộ (bone marrow). Hiện tượng này làm mất sự cân bằng của số lượng hồng huyết cầu và ảnh hưởng đến các tế bào trong hệ miễn nhiễm của cơ thể.
+
+
+=== Phương pháp chữa trị ===
+Trong giai đoạn đầu sau khi bị nhiễm độc, thuốc ngăn chặn ói mửa và các loại thuốc chống đau nhức có thể được sử dụng để chống lại các dấu hiệu ban đầu qua ảnh hưởng của phóng xạ. Còn các ảnh hưởng tiếp theo, cần phải có thuốc kháng sinh mạnh trong việc trị liệu. Và nạn nhân cần phải được truyền máu để chống lại bệnh thiếu máu (anemia).
+Thông thường trong những tai nạn về phóng xạ, như trường hợp ở, Liên bang Nga cách đây hơn 20 năm, ảnh hưởng của phóng xạ vẫn còn tiếp tục, và các chứng bệnh kể trên vẫn còn hiện diện. Các cơ quan trong cơ thể bị ảnh hưởng dài hạn như các tuyến nội tiết (endocrine) và tuyến hormone bài tiết (hormone secreting). 
+Tại Chernobyl, số lượng nạn nhân bị ung thư tuyến giáp trạng (thyroid) ở Belarus, quốc gia bị ảnh hưởng nặng nhất, tăng gấp 100 lần 20 năm sau khi tai nạn xảy ra.
+Về các bịnh liên quan đến thần kinh, theo kết quả UNICEF công bố là bịnh rối loạn (disorder) về xương, bắp thịt tăng 43%, về mắt tăng 62%. Đặc biệt trong trường hợp tai nạn Chernobyl, TS George Vargo, thuộc Chương trình An toàn Hạch nhân Quốc tế (INSP) thuộc LHQ đã ra một khuyến cáo là hiện tượng suy dinh dưỡng và việc không đủ phương tiện y khoa để chữa trị như trường hợp ở Belarus cũng có thể là nguyên nhân của sự gia tăng số lượng nạn nhân, ngoài ảnh hưởng chính là do tiếp nhiễm phóng xạ.
+Riêng về ảnh hưởng đến các thế hệ về sau, hiện tại, các khoa học gia vẫn còn đang tranh cãi về ảnh hưởng của phóng xạ lên hệ thống di truyền vì DNA của người bị tiếp nhiễm bị biến thể và chuyển qua các thế hệ tiếp nối. Điều này đã được chứng nghiệm qua trường hợp, nhưng vẫn chưa có báo cáo khoa học nào về vấn đề lầy đối với nạn nhân ở  và  trong thời thế chiến thứ hai.
+
+
+===  ===
+
+
+== Tham khảo ==
+Hoá học vô cơ, tập 2, Hoàng Nhâm
+
+
+== Ghi chú ==
+
+
+== Liên kết ngoài ==
+Poloni tại Từ điển bách khoa Việt Nam
+Polonium tại Encyclopædia Britannica (tiếng Anh)
+Chemistry in its element podcast (MP3) from the Royal Society of Chemistry's Chemistry World: Polonium
+Polonium at The Periodic Table of Videos (University of Nottingham)

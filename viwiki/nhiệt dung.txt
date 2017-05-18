@@ -1,0 +1,140 @@
+Nhiệt dung là lượng nhiệt vật hoặc một khối chất thu vào hay tỏa ra để tăng hoặc giảm 1K hoặc 1 °C.
+
+
+== Công thức tính ==
+C=(độ thay đổi nhiệt lượng)/(dT)
+Trong biểu thức nhiệt lượng, nếu nhiệt độ của vật chỉ thay đổi đi một đơn vị thì biểu thức cho biết nhiệt lượng cần thiết để làm tăng nhiệt độ của một vật có khối lượng nào đó lên một độ. Nhiệt lượng này gọi là Nhiệt Dung của vật đó.
+
+
+== Nhiệt dung riêng ==
+Nhiệt dung riêng của một chất là một đại lượng vật lý có giá trị bằng nhiệt lượng cần truyền cho một đơn vị khối lượng chất đó để làm tăng nhiệt độ lên 1 °C. Trong hệ thống đo lường quốc tế, đơn vị đo của nhiệt dung riêng là Joule trên kilôgam trên Kelvin, J•kg−1•K−1 hay J/(kg•K), hoặc Joule trên mol trên Kelvin.
+Các công thức tính:
+Công thức 1: Gọi C là nhiệt dung riêng.khi đó một vật có khối lượng M ở nhiệt độ T1 cần truyền một nhiệt lượng là Q để nhiệt độ vật tăng lên T2 khi đó C có giá trị bằng:
+
+  
+    
+      
+        C
+        =
+        
+          
+            Q
+            
+              M
+              (
+              
+                T
+                
+                  2
+                
+              
+              −
+              
+                T
+                
+                  1
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle C={\frac {Q}{M(T_{2}-T_{1})}}}
+  
+Công thức 2: Giả sử vật rắn khảo sát có khối lượng M, nhiệt độ T và nhiệt dung riêng C.
+Cho vật rắn vào nhiệt lượng kế (có que khuấy) chứa nước ở nhiệt độ T1.
+Gọi: m1 là khối lượng của nhiệt lượng kế và que khuấy.
+C1 là nhiệt dung riêng của chất làm nhiệt lượng kế.
+m2 là khối lượng nước chúa trong nhiệt lượng kế.
+C2 là nhiệt dung riêng của nước.
+Nếu T >T1 thì vật rắn tỏa ra một nhiệt lượng Q và nhiệt độ vật giảm từ T xuống T2.
+Q=M.C.(T – T2)
+Đồng thời nhiệt lượng kế que khuấy và nước nhận số nhiệt lượng ấy để tăng nhiệt từ T1 đến T2.
+Q=(m1.C1+m2.C2)(T2–T1)
+Suy ra:
+
+  
+    
+      
+        C
+        =
+        
+          
+            
+              (
+              
+                m
+                
+                  1
+                
+              
+              .
+              
+                C
+                
+                  1
+                
+              
+              +
+              
+                m
+                
+                  2
+                
+              
+              .
+              
+                C
+                
+                  2
+                
+              
+              )
+              .
+              (
+              
+                T
+                
+                  2
+                
+              
+              −
+              
+                T
+                
+                  1
+                
+              
+              )
+            
+            
+              M
+              (
+              T
+              −
+              
+                T
+                
+                  2
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle C={\frac {(m_{1}.C_{1}+m_{2}.C_{2}).(T_{2}-T_{1})}{M(T-T_{2})}}}
+  
+- Nếu thể tích của hệ là một mol thì ta có nhiệt dung phân tử (tạm ký hiệu là Cmol)
++ Nhiệt dung mol đẳng tích (ký hiệu Cv) là nhiệt dung tính trong quá trình biến đổi mà thể tích của hệ không đổi và được tính bằng δ.Qv chia cho n.dT
++ Nhiệt dung mol đẳng áp (ký hiệu Cp) là nhiệt dung tính trong quá trình biến đổi mà áp suất của hệ không đổi và được tính bằng δ.Qp chia cho n.dT
+Hai nhiệt dung trên nếu tính cho một đơn vị khối lượng thì được nhiệt dung riêng đẳng tích và nhiệt dung riêng đẳng áp (giá trị của nhiệt dung riêng trong các bài tập vật lý phổ thông thường là nhiệt dung riêng đẳng áp vì trong các bài tập đó áp suất của hệ là không đổi và bằng áp suất khí quyển và ở phổ thông người ta chỉ gọi nó đơn giản là nhiệt dung riêng thôi). Nếu tính cho một mole thì được nhiệt dung phân tử (nhiệt dung mol) đẳng tích và đẳng áp, giá trị của các nhiệt dung này cho khí lý tưởng
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==

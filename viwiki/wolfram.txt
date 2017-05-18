@@ -1,0 +1,82 @@
+Wolfram (IPA: /ˈwʊlfrəm/), còn gọi là Tungsten hoặc Vonfram, là một nguyên tố hóa học có ký hiệu là W (tiếng Đức: Wolfram) và số nguyên tử 74. Là một kim loại chuyển tiếp có màu từ xám thép đến trắng, rất cứng và nặng, volfram được tìm thấy ở nhiều quặng bao gồm wolframit và scheelit và đáng chú ý vì những đặc điểm lý tính mạnh mẽ, đặc biệt nó là kim loại không phải là hợp kim có điểm nóng chảy cao nhất và là nguyên tố có điểm nóng chảy cao thứ 2 sau cacbon. Dạng volfram tinh khiết được sử dụng chủ yếu trong ngành điện nhưng nhiều hợp chất và hợp kim của nó được ứng dụng nhiều (đáng kể nhất là làm dây tóc bóng đèn điện dây đốt), trong các ống X quang (dây tóc và tấm bia bắn phá của điện tử) và trong các siêu hợp kim. Volfram là kim loại duy nhất trong loạt chuyển tiếp thứ 3 có mặt trong các phân tử sinh học.
+
+
+== Lịch sử ==
+Năm 1781, Carl Wilhelm Scheele phát hiện một axit mới là axit wolframic, có thể được chiết từ scheelite (lúc đó có tên là tungstenit). Scheele và Torbern Bergman cho rằng nó có thể tạo ra một kim loại mới bằng cách ôxy hóa axít này. Năm 1783, José và Fausto Elhuyar tìm thấy một axit được chế từ wolframit, được xác định là axit wolframic. Sau năm đó, ở Tây Ban Nha, họ đã thành công khi cô lập wolfram bằng cách ôxy hóa axít này với than củi, và họ được ghi công đã phát hiện ra nguyên tố này.
+Trong chiến tranh thế giới thứ hai, wolfram đóng vai trò quan trọng trong các giao dịch chính trị (background). Bồ Đào Nha, khi đó là nguồn cung cấp chủ yếu nguyên tố này ở châu Âu, phải chịu áp lực từ cả hai phía do họ sở hữu các mỏ quặng wolframit. Wolfram chịu được các điều kiện nhiệt độ cao và độ bền của nó trong các hợp kim làm cho nó trở thành một nguyên liệu thô quan trọng trong công nghiệp vũ khí.
+
+
+=== Từ nguyên ===
+Trong thế kỷ 16, nhà khoáng vật học Georgius Agricola đã miêu tả Freiberger, khoáng vật có mặt trong quặng thiếc ở Saxon, gây khó khăn trong việc tuyển nổi thiếc khỏi quặng thiếc. Một phần của tên gọi "Wolf" có nguồn gốc từ đây. Ông gọi khoáng vật này là lupi spuma năm 1546, nghĩa Latin là "nước bọt sói". RAM trong tiếng Đức cổ (tương ứng khoảng năm 1050 đến 1350) nghĩa là "muội than, dơ", khi ở dạng khoáng vật màu đen xám có thể dễ nghiền và thường được gọi là cacbon đen.
+Tên gọi "wolfram" được dùng đa số ở châu Âu (đặc biệt là tiếng Đức và Slav), có nguồn gốc từ khoáng vật wolframit, và tên gọi này cũng được dùng làm ký hiệu nguyên tố hóa học này W. Tên gọi "wolframit" xuất phát từ tiếng Đức "wolf rahm" ("mồ hóng của chó sói" hay "kem của chó sói"), tên gọi này được Johan Gottschalk Wallerius đổi thành tungsten năm 1747. Tên gọi này, tới lượt mình, có nguồn gốc từ "Lupi spuma", một tên gọi được Georg Agricola sử dụng từ năm 1546 để chỉ nguyên tố này, có nghĩa là "váng bọt của chó sói" hay "kem của chó sói" (từ nguyên không chắc chắn hoàn toàn), và nó ám chỉ tới một lượng lớn thiếc được sử dụng để tách kim loại này ra khỏi khoáng vật chứa nó.
+Từ "tungsten" được sử dụng trong tiếng Anh, Pháp và một số ngôn ngữ khác để chỉ tên của nguyên tố. Tungsten là tên Thụy Điển cũ được dùng để chỉ khoáng vật scheelit.
+IUPAC đặt tên nguyên tố 74 là tungsten với ký hiệu W. Tên thay thế wolfram bị loại bỏ trong phiên bản mới nhất của sách Đỏ (Nomenclature of Inorganic Chemistry. IUPAC Recommendations 2005) mặc dù việc loại bỏ này đã được thảo luận chủ yếu bởi các thành viên IUPAC Tây Ban Nha. Tên Wolfram đã được IUPAC chính thức thay thế bằng tungsten tại hội nghị lần thứ 15 của tổ chức này tại Amsterdam năm 1949.
+
+
+== Tính chất ==
+
+
+=== Tính chất vật lý ===
+Ở dạng thô, volfram là kim loại có màu xám thép, thường giòn và cứng khi gia công, nhưng nếu tinh khiết nó rất dễ gia công. Nó được gia công bằng các phương pháp rèn, kéo, ép tạo hình. Trong tất cả kim loại nguyên chất, volfram có điểm nóng chảy cao nhất (3.422 °C, 6.192 °F), áp suất hơi thấp nhất, (ở nhiệt độ trên 1.650 °C, 3.000 °F) độ bền kéo lớn nhất. và hệ số giãn nở nhiệt thấp nhất. Độ giãn nở nhiệt thấp, điểm nóng chảy và độ bền cao của volfram là do các liên kết cộng hóa trị mạnh hình thành giữa các nguyên tử volfram bởi các electron lớp 5d. Hợp kim pha một lượng nhỏ volfram của thép làm tăng mạnh tính dẻo của nó.
+Volfram tồn tại ở hai dạng tinh thể chính: α và β. Dạng α có cấu trúc tinh thể lập phương tâm khối và là một dạng bền. cấu trúc của tinh thể dạng β được gọi là lập phương A15; là một dạng kích thích, nhưng có thể đồng tồn tại với pha α ở các điều kiện phòng do sự tổng hợp không cân bằng hoặc sự ổn định hóa bởi các tạp chất. Trái ngược với dạng α có các tinh thể là các hạt có kích thước bằng nhau theo mọi hướng còn dạng β có tập hợp dạng trụ. Dạng α có điện trở thấp hơn dạng β 3 lần và thấp hơn nhiều nếu nó ở nhiệt độ chuyển tiếp siêu dẫn TC so với dạng β: khoảng 0,015 K vs. 1–4 K; hỗn hợp của 2 dạng này cho phép tạo ra các giá trị TC trung gian. Giá trị TC cũng có thể được gia tăng bằng cách tạo hợp kim volfram với các kim loại khác (như 7,9 K đối với W-Tc). Các hợp kim wokfram này đôi khi được sử dụng trong các mạch siêu dẫn nhiệt độ thấp.
+
+
+=== Đồng vị ===
+
+Wolfram tự nhiên gồm 5 đồng vị với chu kỳ bán rã đủ lâu nên chúng được xem là các đồng vị bền. Về mặt lý thuyết, tất cả 5 đồng vị có thể phân rã thành các đồng vị của nguyên tố 72 (hafni) bằng phân rã anpha, nhưng chỉ có 180W là được quan sát là có chu kỳ bán rã (1,8 ± 0,2)×1018 yr; trung bình, nó có hai phân rã anpha của 180W trong một gram wolfram tự nhiên/năm. Các đồng vị tự nhiên khác chưa được quan sát phân rã, nhưng chu kỳ bán rã của các đồng vị được hạn chế ở mức như sau
+182W, T1/2 > 8.3×1018 năm
+183W, T1/2 > 29×1018 năm
+184W, T1/2 > 13×1018 năm
+186W, T1/2 > 27×1018 năm
+30 đồng vị phóng xạ nhân tạo khác của wolfram đã được miêu tả, đồng vị bền nhất là 181W có chu kỳ bán rã 121,2 ngày, 185W là 75,1 ngày, 188W là 69,4 ngày, 178W là 21,6 ngày, và 187W là 23,72 giờ. Tất cả các đồng vị phóng xạ còn lại có chu kỳ bán rã nhỏ hơn 3 giờ, và đá số trong đó có chu kỳ bán rã nhỏ hơn 8 phút. Wolfram có 4 meta state, ổn định nhất là 179mW (T½ 6,4 phút).
+
+
+=== Tính chất hóa học ===
+Wolfram nguyên tố có khả năng chống ôxy hóa, axit, và kiềm.
+Trạng thái ôxy hóa phổ biến nhất của wolfram là +6, nhưng có thể thay đổi từ −2 đến +6. Wolfram đặc biệt kết hợp với ôxy tạo thành wolfram triôxit, WO3 màu vàng, hòa tan trong dung dịch kiềm tạo thành ion wolfram WO2−4.
+Wolfram cacbic (W2C và WC) được sản xuất bằng cách nung bột wolfram với cacbon và là những cacbic cứng nhất, WC có điểm nóng chảy 2.770 °C và 2.780 °C đối với W2C. WC là chất dẫn điện hiệu quả, nhưng W2C thì ít hơn. Wolfram cacbic có ứng xử tương tự wolfam không ở dạng hợp kim và có khả năng chống lại ăn mòn hóa học, mặc dù nó phản ứng mạnh với clo tạo thành wolfram hexaclorua (WCl6).
+Dung dịch wolfram trong nước được ghi nhận là để tạo thành axit heteropoly và các anion polyoxometalat trong các môi trường trung hòa và axit. Khi wolfamat được xử lý từ từ bằng axit, đầu tiên nó hòa tan, anion "parawolfarmat A" metastable, W7O6–24, dần dần nó chuyển sang dạng anion ít hòa tan hơn "parawolframat B", H2W12O10–42. Quá trình axit hóa sau đó tạo ra các anion netawolframat hòa tan rất cao, H2W12O6–40, sau đó đạt đến trạng thái cân bằng. Ion metawolframat tồn tại ở dạng cụm hình học của hình bát diện 12 wolfram-oxy được gọi là anion Keggin. Các anion polyoxometalat khác tồn tại ở các nhóm metastable. Khi trong cấu trúc bao gồm một nguyên tử khác như phốt pho ở vị trí của hai hydro trung tâm của metawolframat tạo ra sự đa dạng của các axit heteropoly, như axit phosphowolframic H3PW12O40.
+
+
+== Vai trò sinh học ==
+Wolfram số nguyên tử 74, là nguyên tố nặng nhất có mặt trong các cơ thể sống, nguyên tố nặng thứ 2 là iốt (Z = 53). Wolfram chưa được tìm thấy là chất cần thiết hoặc được sử dụng trong các sinh vật nhân điển hình, nhưng nó là chất dinh dưỡng thiết yếu đối với một số vi khuẩn. Ví dụ, các enzym oxidoreductase dùng wolfram tương tự như molypden bằng cách sử dụng nó trong phức chất wolfram-pterin với molybdopterin. Molybdopterin, mặc cho tên gọi của nó, không chứa molypden, nhưng có thể tạo phức chất với hoặc là molypden hoặc là wolfram để được sử dụng bởi các sinh vật. Các enzym mang wolfram thường khử các axít cacboxylic thành các aldehyt — một quá trình tổng hợp khó trong hóa và hóa sinh. Tuy nhiên, các oxidoreductase wolfram cũng có thể xúc tác quá trình ôxi hóa. Enzym cần wolfram đầu tiên được phát hiện cũng cần selen, và trong trường hợp này cặp đôi wolfram-selen có thể có chứa năng tương tự cặp đôi molypden-lưu huỳnh của các enzym cần phụ nhân tử molybden. Một trong những enzym trong họ oxidoreductase, thỉnh thoảng sử dụng dùng wolfram (các enzym formate dehydrogenase H của vi khuẩn) cũng được biết là sử dụng cặp selen-molypden của molybdopterin. Mặc dù xanthin dehydrogenase chứa wolfram từ vi khuẩn đã được tìm thấy là chứa molydopterin-wolfram và cũng như selen liên kết phi protein, nhưng phức chất molybdopterin wolfram-selen chưa được miêu tả rõ ràng.
+
+
+=== Các hiệu ứng khác về sinh hóa ===
+Trong đất, kim loại wolfram bị ôxi hóa thành anion wolframat. Nó có thể được nhập vào có chọn lọc hay không chọn lọc bởi một số sinh vật nhân sơ và có thể thay thế cho molybdat trong một số enzym nhất định. Tác động của nó tới phản ứng của các enzym này trong một trường hợp là kiềm chế còn trong một số trường hợp khác lại là tích cực.. Người ta cho rằng các enzym chứa tungstat trong sinh vật nhân chuẩn có thể là trơ. Tính chất hóa học của đất có thể xác định cách mà wolfram được polyme hóa như thế nào; các đất kiềm tạo ra các wolframat đơn phân (monome); các đất axit tạo ra các wolframat polyme.
+Natri wolframat và chì đã được nghiên cứu về ảnh hưởng của nó đến các loài giun đất. Chì được tìm thấy là gây tử vong chúng ở các liều lượng thấp còn natri wolframat thì ít độc hơn, nhưng wolframat ức chế hoàn toàn khả năng sinh sản của chúng.
+Wolfram đã được nghiên cứu là chất kìm hãm trao đổi chất đồng sinh học, với chức năng tương tự hoạt động của molypden. Người ta phát hiện rằng tetrathiowolframat có thể được dùng làm hóa chất tạo phức chất đồng sinh học, tương tự như tetrathiomolybdat.
+
+
+== Sản lượng ==
+
+Wolfram được tìm thấy trong các khoáng vật wolframit (wolframat sắt-mangan FeWO4/MnWO4), scheelit (canxi wolframat, (CaWO4), ferberit (FeWO4) và hübnerit (MnWO4). Chúng được khai thác và dùng để sản xuất khoảng 37.400 tấn wolfram/năm trong năm 2000. Trung Quốc sản xuất hơn 75% tổng sản lượng thế giới, các nước còn lại gồm Úc, Bolivia, Bồ Đào Nha, Nga, và Colombia.
+Wolfram được tách từ các quặng của nó qua nhiều công đoạn. Quặng được chuyển đổi từ từ thành wolfram(VI) ôxit (WO3), sau đó được nung với hydro hoặc cacbon tạo ra wolfram bột. Nó có thể được dùng ở dạng bột hoặc ép thành các thỏi rắn.
+Wolfram cũng có thể được tách ra bằng cách khử hydro của WF6:
+WF6 + 3 H2 → W + 6 HF
+hoặc nhiệt phân:
+WF6 → W + 3 F2 (ΔHr = +)
+Wolfram không được mua bán theo kiểu hợp đồng tương lai và không được niêm yết trên các thị trường giao dịch như London Metal Exchange. Giá của wolfram (WO3) vào khoảng 18.975 USD/tấn vào tháng 8 năm 2010.
+
+
+== Ứng dụng ==
+
+Do có chịu được nhiệt độ cao và có điểm nóng chảy cao nên wolfram được dùng trong các ứng dụng nhiệt độ cao, như dây tóc bóng đèn, ống đèn tia âm cực, và sợi ống chân không, thiết bị sưởi, và các vòi phun động cơ tên lửa.
+Do tính dẫn điện và tính trơ hóa hóa học tương đối của nó, wolfram cũng được dùng trong làm điện cực, và nguồn phát xạ trong các thiết bị chùm tia điện tử dùng súng phát xạ trường, như kính hiển vi điện tử. Trong điện tử, wolfram được dùng làm vật liệu kết nối trong các vi mạch, giữa vật liệu điện môi silic đôxít và transistor. Nó được dùng làm các màng kim (hoặc molypden) loại phủ trên miếng silicon thay thế dây dẫn được dùng trong điện tử thông thường.
+
+
+== Chỉ định ==
+Do Volfram hiếm gặp trong tự nhiên và các hợp chất của nó nhìn chung là trơ nên những ảnh hưởng của nó tới môi trường là hạn chế. Một liều gây chết trung bình LD50 tùy thuộc phần lớn vào động vật và phương pháp điều khiển và nó thay đổi từ 59 mg/kg (tĩnh mạch, thỏ rừng) đến 5000 mg/kg (bột kim loại volfram, trong phúc mạc, chuột cống).
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+WebElements.com – Tungsten
+Properties, Photos, History, MSDS
+Picture in the collection from Heinrich Pniok
+Elementymology & Elements Multidict by Peter van der Krogt – Tungsten
+Detection of the Natural Alpha Decay of Tungsten
+International Tungsten Industry Association
+http://www.tungsten.com/

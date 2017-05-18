@@ -1,0 +1,285 @@
+Điện trở suất là đại lượng đặc trưng cho khả năng cản trở dòng điện của mỗi chất. Chất có điện trở suất thấp sẽ dễ dàng cho dòng điện truyền qua (chất dẫn điện) và chất có điện trở suất lớn sẽ có tính cản trở dòng điện lớn (chất cách điện). Điện trở suất nói lên tính cản trở sự chuyển dời có hướng của các hạt mang điện của mỗi chất. Đơn vị của điện trở suất trong hệ đơn vị chuẩn SI là Ohm.met (Ω.m).
+
+
+== Định nghĩa điện trở suất ==
+Điện trở suất (thường được ký hiệu là ρ) của một dây dẫn là điện trở của một dây dẫn dài 1m có tiết diện 1m2, nó đặc trưng cho vật liệu dây dẫn đó, hay một cách tổng quát, nó được cho bởi công thức:
+
+  
+    
+      
+        R
+        =
+        ρ
+        .
+        
+          
+            l
+            S
+          
+        
+      
+    
+    {\displaystyle R=\rho .{\frac {l}{S}}}
+  
+với R là điện trở, S là tiết diện ngang(m, l là chiều dài của khối vật dẫn.(
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  )
+Định luật Ohm vi phân còn cho định nghĩa 
+  
+    
+      
+        (
+        
+          m
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle (m^{2})}
+  điện trở suất theo công thức:
+
+  
+    
+      
+        ρ
+        =
+        
+          
+            E
+            J
+          
+        
+      
+    
+    {\displaystyle \rho ={\frac {E}{J}}}
+  
+Với E là cường độ điện trường, J là mật độ dòng điện.
+Người ta còn định nghĩa điện trở suất là nghịch đảo của độ dẫn điện:
+
+  
+    
+      
+        ρ
+        =
+        
+          
+            1
+            σ
+          
+        
+      
+    
+    {\displaystyle \rho ={\frac {1}{\sigma }}}
+  
+
+
+== Điện trở suất của một số vật liệu ==
+
+
+== Sự phụ thuộc nhiệt độ của điện trở suất ==
+Nhìn chung, điện trở suất của các kim loại tăng theo nhiệt độ trong khi điện trở suất của các chất bán dẫn giảm theo nhiệt độ, và trong tất cả các trường hợp, điện trở suất của chất phụ thuộc vào các cơ chế tán xạ của điện tử trong vật liệu: tán xạ trên phonon, tán xạ sai hỏng, tán xạ trên spin. Điện trở suất còn phụ thuộc vào mật độ điện tử tự do trong chất...
+Một cách tổng quát, điện trở suất trong kim loại phụ thuộc vào nhiệt độ theo công thức Bloch-Gruneissen:
+
+  
+    
+      
+        ρ
+        (
+        T
+        )
+        =
+        ρ
+        (
+        0
+        )
+        +
+        A
+        
+          
+            (
+            
+              
+                T
+                
+                  Θ
+                  
+                    R
+                  
+                
+              
+            
+            )
+          
+          
+            n
+          
+        
+        
+          ∫
+          
+            0
+          
+          
+            
+              
+                Θ
+                
+                  R
+                
+              
+              T
+            
+          
+        
+        
+          
+            
+              x
+              
+                n
+              
+            
+            
+              (
+              
+                e
+                
+                  x
+                
+              
+              −
+              1
+              )
+              (
+              1
+              −
+              
+                e
+                
+                  −
+                  x
+                
+              
+              )
+            
+          
+        
+        d
+        x
+      
+    
+    {\displaystyle \rho (T)=\rho (0)+A\left({\frac {T}{\Theta _{R}}}\right)^{n}\int _{0}^{\frac {\Theta _{R}}{T}}{\frac {x^{n}}{(e^{x}-1)(1-e^{-x})}}dx}
+  
+với 
+  
+    
+      
+        ρ
+        (
+        0
+        )
+      
+    
+    {\displaystyle \rho (0)}
+   là điện trở suất tồn dư do tán xạ sai hỏng, A là hằng số phụ thuộc vào vận tốc của điện tử trên mặt Fermi, bán kính Debye và mật độ điện tử trong kim loại, ΘR là nhiệt độ Debye, n là số nguyên phụ thuộc vào cơ chế tương tác:
+
+n = 5 nếu điện trở suất là do tán xạ trên phonon
+n = 3 nếu điện trở là do tán xạ của các điện tử s-d (trong các kim loại chuyển tiếp)
+n = 2 nếu điện trở suất là do tương tác điện tử-điện tử
+
+Các chất siêu dẫn khi nhiệt độ giảm xuống dưới nhiệt độ tới hạn sẽ không có điện trở.
+Với các chất bán dẫn, điện trở suất giảm theo nhiệt độ theo phương trình Steinhart-Hart:
+
+  
+    
+      
+        1
+        
+          /
+        
+        T
+        =
+        A
+        +
+        B
+        ln
+        ⁡
+        (
+        ρ
+        )
+        +
+        C
+        (
+        ln
+        ⁡
+        (
+        ρ
+        )
+        
+          )
+          
+            3
+          
+        
+        
+      
+    
+    {\displaystyle 1/T=A+B\ln(\rho )+C(\ln(\rho ))^{3}\,}
+  
+Với A, B, C là các hằng số gọi là các hệ số Steinhart-Hart.
+
+
+== Điện trở suất phức ==
+Khi phân tích phản ứng của các vật liệu đối với các điện trường xoay chiều, trong các ứng dụng như chụp cắt lớp trở kháng (EIT), cần thiết phải thay thế suất điện trở bằng một đại lượng phức gọi là trở kháng suất hay suất trở kháng (khái niệm tương tự áp dụng cho trở kháng). Trở kháng suất là tổng của một phần thực (là điện trở suất) với một phần ảo (gọi là điện kháng suất (khái niệm tương tự áp dụng cho điện kháng). Độ lớn của trở kháng suất là căn bậc hai của tổng bình phương các độ lớn của điện trở suất và điện kháng suất.
+Ngược lại, trong những trường hợp như thế thì độ dẫn điện phải được biểu diễn như là một số phức (hay thậm chí như một ma trận các số phức, như trong trường hợp của các vật liệu bất đẳng hướng) gọi là độ dẫn nạp. Độ dẫn nạp là tổng của một phần thực gọi là độ dẫn điện và một phần ảo gọi là độ điện nạp theo công thức 
+  
+    
+      
+        Y
+        =
+        G
+        +
+        j
+        B
+        
+      
+    
+    {\displaystyle Y=G+jB\,}
+  , trong đó:
+Y là độ dẫn nạp, đo bằng siemens (hay mho (
+  
+    
+      
+        ℧
+      
+    
+    {\displaystyle \mho }
+  ), nghịch đảo của ohm.
+G là độ dẫn điện, đo bằng siemens.
+j là đơn vị ảo.
+B là độ điện nạp, đo bằng siemens.
+Một miêu tả khác cho phản ứng đối với dòng điện xoay chiều sử dụng độ dẫn điện thực (nhưng phụ thuộc tần số), cùng với độ điện môi thực. Độ dẫn điện lớn hơn nghĩa là tín hiệu dòng xoay chiều được vật liệu hấp thụ nhanh hơn (hay vật liệu có độ chắn điện từ cao hơn). Để có chi tiết, xem Miêu tả toán học của độ chắn điện từ.
+
+
+== Tích điện trở suất mật độ ==
+Trong một số ứng dụng khi trọng lượng của vật dẫn điện là rất quan trọng thì tích của điện trở suất với mật độ (gọi tắt là tích điện trở suất mật độ) là quan trọng hơn so với điện trở suất tuyệt đối thấp - do có thể làm cho vật dẫn điện to và dày hơn để có điện trở thấp tương đương; và khi đó vật liệu có tích điện trở suất mật độ thấp (hay tương đương với nó là tỉ số giữa độ dẫn điện và mật độ là cao) là đáng mong muốn. Chẳng hạn, để truyền tải điện năng đi xa thì nhôm thường được sử dụng nhiều hơn so với đồng do nó là nhẹ hơn để có được cùng một độ dẫn điện.
+Bạc mặc dù là kim loại dẫn điện tốt nhất đã biết, nhưng lại mật độ (khối lượng riêng) cao và như thế là kém hơn theo cách tính này. Canxi và các kim loại kiềm có các tích tốt nhất, nhưng hiếm khi được sử dụng để làm dây dẫn do chúng phản ứng nhanh với nước và ôxy. Nhôm ổn định hơn và có tích mật độ điện trở suất tốt hơn so với đồng.
+
+
+== Tham khảo ==
+
+6. Paul Tipler (2004). Physics for Scientists and Engineers: Electricity, Magnetism, Light, and Elementary Modern Physics (5th ed.). W. H. Freeman. ISBN 0-7167-0810-8. 
+
+
+== Liên kết ngoài ==
+http://www.facstaff.bucknell.edu/mastascu/eLessonsHTML/Sensors/TempR.html
+http://www.trekinc.com/pdf/1005_Resistivity_Resistance.pdf

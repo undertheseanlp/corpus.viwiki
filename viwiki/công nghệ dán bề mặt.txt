@@ -1,0 +1,11 @@
+Công nghệ dán bề mặt, hay SMT, viết tắt của các từ tiếng Anh Surface Mount Technology là thuật ngữ của chuyên ngành chế tạo điện tử, để chỉ một công nghệ chế tạo các bo mạch.
+
+
+== Lịch sử ==
+Ngành công nghiệp chế tạo điện tử đã trải qua các bước phát triển của công nghệ đóng gói các linh kiện (components). Khởi đầu từ công nghệ xuyên lỗ (through hole): các linh kiện được cắm tổ hợp lên bo mạch thông qua các lỗ xuyên trên mạch in hay PCB. Tất cả các linh kiện ở tất cả các chủng loại đều phải có chân đủ dài để có thể cắm xuyên qua bo mạch và mối hàn sẽ được thực hiện ở mặt bên kia thông qua lò hàn sóng (wave soldering) hoặc hàn tay.
+SMT là công nghệ mới hơn, trong đó các linh kiện được gắp lên (pick up) khỏi các vị trí đặt linh kiện và đặt (place) vào vị trí đúng của nó trên bản mạch in. Các máy SMT ngày nay bảo đảm cho việc pick up và place được thực hiện với sai số cực nhỏ, do bởi các máy SMT là các máy cơ khí chính xác điều khiển bằng máy tính được trang bị những công nghệ hiện đại nhất như công nghệ xử lý ảnh...
+Ngày nay, một bo mạch - tùy vào yêu cầu sử dụng được thiết kế - mà có thể chế tạo theo công nghệ xuyên lỗ, hoặc theo công nghệ SMT, hoặc kết hợp cả hai. Việc áp dụng công nghệ SMT mang lại một trình độ sản xuất tự động hóa cao độ và mang lại năng suất cũng như sự linh động cực cao trong việc thay đổi model sản xuất.
+
+
+== Các Công đoạn trong SMT ==
+LOADER->SCREEN PRINTER->SPI->CHIPMOUNTER->REFFLOW->AOI->UNLOADER->VM INSPECTION->ULTRASONIC PCB CLEANNING

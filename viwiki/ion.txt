@@ -1,0 +1,19 @@
+Ion hay điện tích là một nguyên tử hay nhóm nguyên tử bị mất hay thu nhận thêm được một hay nhiều điện tử. Một ion mang điện tích âm, khi nó thu được một hay nhiều điện tử, được gọi là anion hay điện tích âm, và một ion mang điện tích dương khi nó mất một hay nhiều điện tử, được gọi là cation hay điện tích dương. Quá trình tạo ra các ion hay điện tích gọi là ion hóa.
+Các nguyên tử hay nhóm nguyên tử bị ion hóa được biểu diễn dưới dạng các số viết nhỏ lên trên, bên phải ký hiệu của nguyên tử hay nhóm nguyên tử, thể hiện số lượng điện tử mà nó thu được hay mất đi (nếu lớn hơn 1) và dấu + hay − tùy theo nó mất hay thu được (các) điện tử. Trong trường hợp mất hay thu được chỉ một điện tử thì không cần ghi giá trị số. Ví dụ H+ hay Cl−.
+Các kim loại có xu hướng tạo ra các cation (mất đi điện tử) trong khi các phi kim loại có xu hướng tạo ra anion, ví dụ natri tạo ra cation Na+ trong khi clo tạo ra các anion Cl-.
+
+
+== Năng lượng ion hóa ==
+Năng lượng cần thiết để tạo ra cation bằng cách loại bỏ điện tử từ một nguyên tử trung hòa về điện là năng lượng ion hóa. Nói chung, năng lượng ion hóa thứ n của nguyên tử là năng lượng cần để loại bỏ điện tử thứ n sau khi n - 1 điện tử trước đã bị loại bỏ.
+Mỗi một năng lượng ion hóa kế tiếp là lớn hơn một cách đáng kể so với năng lượng ở mức trước đó. Đặc biệt, sự thay đổi năng lượng tăng lên một cách đột ngột khi các điện tử của một lớp obitan nào đó trong nguyên tử đã bị loại bỏ hết. Vì lý do này, các cation có xu hướng được tạo ra theo hướng bỏ hết các điện tử của cùng một lớp obitan. Ví dụ, natri được tìm thấy như là Na+, nhưng không phải là Na2+ vì cần năng lượng lớn để ôxi hóa. Tương tự, magiê được tìm thấy như là Mg2+, mà không phải là Mg3+, và nhôm có thể tồn tại ở dạng cation Al3+. Khi một nhóm các nguyên tử thu được các điện tử, chúng cũng trở thành các ion, chẳng hạn như SO42-.
+
+
+== Lịch sử ==
+Các ion lần đầu tiên được lý thuyết hóa bởi Michael Faraday khoảng năm 1830, để miêu tả các thành phần của phân tử mà chuyển động về phía anion hay cation. Tuy nhiên, cơ chế mà các chuyển động này có thể diễn ra đã không được miêu tả cho đến tận năm 1884 khi Svante August Arrhenius trong luận án tiến sĩ của mình trong trường đại học tổng hợp Uppsala đã miêu tả chúng. Lý thuyết của ông ban đầu đã không được chấp nhận (ông nhận được học vị tiến sĩ với điểm thấp nhất để được vượt qua) nhưng luận án tiến sĩ của ông đã đoạt giải Nobel về hóa học năm 1903.
+
+
+== Ngôn từ học ==
+Từ ion đã được đặt tên bởi Michael Faraday, từ tiếng Hy Lạp ἰόν, động tính từ thời hiện tại của ἰέναι, "chuyển động", vì thế là "người đi lại". Danh pháp này dựa trên xu hướng của các anion chuyển động về phía anốt, và của các cation chuyển động về phía catốt. Vì thế, anion (ἀνιόν) và cation (κατιόν) có nghĩa là "(một thứ) đi lên" và "(một thứ) đi xuống", một cách tương ứng, và anốt, ἄνοδος, và catốt, κάθοδος, có nghĩa là "đi lên" và "đi xuống", tương ứng từ ὁδός, "đường".
+
+
+== Tham khảo ==

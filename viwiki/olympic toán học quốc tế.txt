@@ -1,0 +1,54 @@
+Olympic Toán học Quốc tế (International Mathematical Olympiad, thường được viết tắt là IMO) là một kì thi Toán học cấp quốc tế hàng năm dành cho học sinh trung học phổ thông.
+
+
+== Lịch sử ==
+Kì thi IMO đầu tiên được tổ chức tại Rumani năm 1959 với sự tham gia của 7 quốc gia Đông Âu là chủ nhà Rumani, Bulgaria, Tiệp Khắc, Đông Đức, Hungary, Ba Lan và Liên Xô. Trong giai đoạn đầu, IMO chủ yếu là cuộc thi của các quốc gia thuộc hệ thống xã hội chủ nghĩa và địa điểm tổ chức cũng chỉ trong phạm vi các nước Đông Âu. Bắt đầu từ thập niên 1970, số lượng các đoàn tham gia bắt đầu tăng lên nhanh chóng và IMO thực sự trở thành một kì thi quốc tế về Toán dành cho học sinh.
+Cho đến nay kì thi được tổ chức liên tục hàng năm, trừ duy nhất năm 1980. Kì IMO có số lượng đoàn tham gia đông đảo nhất tính đến IMO 2011 chính là kì IMO 2011 tổ chức tại Amsterdam, Hà Lan với 101 đoàn tham dự.
+Mỗi đoàn tham dự được phép có tối đa 6 thí sinh, một trưởng đoàn, một phó đoàn và các quan sát viên. Theo quy định, thí sinh tham gia phải dưới 20 tuổi và trình độ không được vượt quá cấp trung học phổ thông (secondary school hay high school trong tiếng Anh, hay lycée trong tiếng Pháp), vì vậy một thí sinh có thể tham gia tới 5 hoặc 6 kì IMO, riêng với Việt Nam do quy định của việc chọn đội tuyển, một thí sinh chỉ tham dự được nhiều nhất là hai kì.
+
+
+== Cách thức ra đề, thi và chấm thi ==
+Mỗi bài thi IMO bao gồm 6 bài toán, mỗi bài tương đương tối đa là 7 điểm, có nghĩa là thí sinh có thể đạt tối đa 42 điểm cho 6 bài. 6 bài toán này sẽ được giải trong 2 ngày liên tiếp, mỗi ngày thí sinh giải 3 bài trong thời gian 270 phút.
+Các bài toán được lựa chọn trong các vấn đề toán học sơ cấp, bao gồm 4 lĩnh vực hình học, số học, đại số và tổ hợp. Bắt đầu từ tháng 3 hàng năm, các nước tham gia thi được đề nghị gửi các đề thi mà họ lựa chọn đến nước chủ nhà, sau đó một ban lựa chọn đề thi của nước chủ nhà sẽ lập ra một danh sách các bài toán rút gọn bao gồm những bài hay nhất, không trùng lặp đề thi IMO các năm trước hoặc kì thi quốc gia của các nước tham gia, không đòi hỏi kiến thức toán cao cấp, không quá khó hoặc quá dễ nhưng yêu cầu được thí sinh phải vận dụng hết khả năng suy luận và kiến thức toán được học. Một vài ngày trước kì thi, các trưởng đoàn sẽ bỏ phiếu lựa chọn 6 bài chính thức, chính họ cũng sẽ là người dịch đề thi sang tiếng nước mình để thí sinh có thể giải toán bằng tiếng mẹ đẻ, sau đó các vị trưởng đoàn sẽ được cách ly hoàn toàn với các thí sinh để tránh gian lận.
+Bài thi của thí sinh sẽ được ban giám khảo và trưởng đoàn của thí sinh đó chấm song song, sau đó hai bên sẽ hội ý để đưa ra kết quả cuối cùng. Giám khảo và trưởng đoàn đều có thể phản biện cách chấm của nhau để điểm bài thi đạt được là chính xác nhất. Nếu hai bên không thể đi tới đồng thuận thì người quyết định sẽ là trưởng ban giám khảo và giải pháp cuối cùng là tất cả các trưởng đoàn bỏ phiếu. Riêng bài thi của thí sinh nước chủ nhà sẽ do giám khảo đến từ các nước có đề thi được chọn chấm.
+
+
+== Giải thưởng ==
+Tại IMO việc xét giải chỉ là cho cá nhân từng thí sinh tham gia thi, còn việc xếp hạng thành tích các đoàn đều do các nước tham gia tự tính toán và không có ý nghĩa chính thức.
+Giải thưởng của IMO bao gồm huy chương vàng, huy chương bạc và huy chương đồng được trao theo điểm tổng cộng mà thí sinh đạt được. Số thí sinh được trao huy chương là khoảng một nửa tổng số thí sinh, điểm để phân loại huy chương sẽ theo nguyên tắc tỉ lệ thí sinh đạt huy chương vàng, bạc, đồng sẽ là 1:2:3. Các thí sinh không giành được huy chương nhưng giải được trọn vẹn ít nhất 1 bài (7/7 điểm) sẽ được trao bằng danh dự.
+Ngoài ra, ban tổ chức IMO còn có thể trao các giải thưởng đặc biệt cho cách giải cực kì sáng tạo hoặc tổng quát hóa vấn đề nêu ra trong bài toán. Giải này phổ biến trong thập niên 1980 nhưng gần đây ít được trao hơn, lần cuối cùng giải thưởng đặc biệt được trao là năm 2005. Thí sinh đoàn Việt Nam từng đạt giải thưởng này là Lê Bá Khánh Trình tại IMO 1979.
+
+
+== Danh sách các kì thi Olympic ==
+
+
+== Thống kê liên quan ==
+Đoàn đạt thành tích tốt nhất trong một kì IMO là đoàn Hoa Kỳ tại IMO 1994, cả 6 thành viên của đoàn này đều giành huy chương vàng với số điểm tuyệt đối 42/42. Tính chung tất cả các kì IMO thì đoàn có thành tích tốt nhất là đoàn Trung Quốc, trong 22 lần tham gia đoàn này đã đứng đầu toàn đoàn 13 lần trong đó có tới 8 lần cả 6 thí sinh Trung Quốc giành huy chương vàng (IMO các năm 1992, 1993, 1997, 2000, 2001, 2002, 2004 và 2006). Thứ tự 10 đoàn có thành tích tốt nhất là:
+
+Cho đến nay đã có hai thí sinh từng 4 lần giành huy chương vàng IMO. Người đầu tiên đạt được thành tích này là Reid Barton (đoàn Hoa Kỳ), Barton giành huy chương vàng tại các kì IMO 1998 (32 điểm), 1999 (34 điểm), 2000 (39 điểm) và 2001 (42/42 điểm). Thí sinh thứ hai là Christian Reiher (đoàn Đức) với các huy chương vàng tại IMO 2000 (31 điểm), 2001 (32 điểm), 2002 (36 điểm) và 2003 (36 điểm). Ngoài ra Reiher còn giành thêm một huy chương đồng tại IMO 1999 (15 điểm), qua đó trở thành người có thành tích cao nhất trong tất cả các kì IMO tính đến nay.
+Ciprian Manolescu (đoàn Rumani) là thí sinh giành nhiều điểm tuyệt đối (42/42) nhất trong lịch sử IMO. Trong cả ba lần tham dự IMO vào các năm 1995, 1996 và 1997, Manolescu đều giành huy chương vàng với số điểm tuyệt đối.
+Eugenia Malinnikova (đoàn Liên Xô) là thí sinh nữ có thành tích cao nhất với ba huy chương vàng tại các IMO 1989 (41 điểm), 1990 (42 điểm) và 1991 (42 điểm), tức là chỉ kém duy nhất 1 điểm so với thành tích của Manolescu.
+Đào Triết Hiên (đoàn Úc) bắt đầu tham gia thi IMO khi mới 11 tuổi vào năm 1986. Đến kì IMO 1988, Đào giành huy chương vàng năm 13 tuổi và trở thành thí sinh trẻ nhất từng giành huy chương vàng tại IMO.
+Oleg Gol'berg (đoàn Nga và Mỹ) là thí sinh duy nhất trong lịch sử IMO từng giành huy chương vàng với tư cách là thành viên hai đội tuyển khác nhau, hai huy chương vàng với đoàn Nga tại IMO 2002 (36 điểm), 2003 (38 điểm) và một với đoàn Mỹ tại IMO 2004 (40 điểm).
+
+
+== Các nhà khoa học nổi tiếng từng là thí sinh IMO ==
+Tính cho đến năm 2010, đã có tổng cộng 9 người từng là thí sinh thi IMO đã giành được giải thưởng Toán học nổi tiếng bậc nhất thế giới, Giải Fields. Danh sách cụ thể như sau:
+
+(Ghi chú: HCV, HCB, HCĐ lần lượt là huy chương vàng, huy chương bạc và huy chương đồng)
+Grigory Margulis đã giành huy chương bạc tại IMO 1962 trong thành phần đoàn Liên Xô. Ông được trao Giải Fields năm 1978, sau đó là Giải Wolf năm 2005. Margulis là một trong số ít ỏi bảy nhà toán học trên thế giới có được cả hai giải thưởng này.
+Grigori Perelman đã đạt điểm tuyệt đối 42/42 và giành huy chương vàng tại IMO 1982 trong thành phần đoàn Liên Xô. Năm 2006, ông được trao Giải Fields vì đã giải quyết được Giả thuyết Poincaré, một trong những vấn đề toán học lớn nhất của thế kỉ 20 được Henri Poincaré đề ra từ năm 1904. Bài toán này là một trong sáu bài toán được Viện Toán học Clay đặt giải 1 triệu USD cho bất kỳ ai giải được.
+Đào Triết Hiên (Terence Tao) giành huy chương vàng IMO 1988 trong thành phần đoàn Úc khi mới 13 tuổi. Cho đến nay đây vẫn là thí sinh trẻ nhất từng giành huy chương vàng trong một kì IMO. Đào được bổ nhiệm làm giáo sư Đại học California tại Los Angeles (UCLA) khi mới 24 tuổi và được đánh giá là "Mozart của toán học thế giới". Đào Triết Hiên được trao Giải Fields năm 2006 cùng với Perelman.
+Ngô Bảo Châu, giáo sư trẻ nhất Việt Nam, từng hai lần đoạt huy chương vàng IMO tại Úc (1988) và Cộng hoà Liên bang Đức (1989). Ngô Bảo Châu nổi tiếng với thành công trong việc chứng minh Bổ đề cơ bản Langlands, công trình nghiên cứu đã giúp ông nhận Giải Fields năm 2010.
+
+
+== Xem thêm ==
+Việt Nam tại Olympic Toán học Quốc tế
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Trang web chính thức của IMO
+Trang web về các kì thi Olympic quốc tế

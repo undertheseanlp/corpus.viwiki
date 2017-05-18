@@ -1,0 +1,4 @@
+Chu kỳ nguyên tố 5 là hàng thứ 5 trong bảng tuần hoàn (tiêu chuẩn), tương tự chu kỳ 4 nó gồm 18 nguyên tố: 8 ở các nhóm chính, 10 trong nhóm phụ.
+
+
+== Tham khảo ==

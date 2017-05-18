@@ -1,0 +1,32 @@
+Oganesson (phát âm "o-ga-nét-sơn"; tên quốc tế: Oganesson) là một nguyên tố tổng hợp siêu nặng trong bảng tuần hoàn có ký hiệu hóa học là Og và có số nguyên tử là 118. Đầu tiên, các nhà khoa học cho rằng nó chắc chắn có các đặc tính của nhóm của nó, nhóm khí hiếm, giống radon về các đặc tính hóa học; vì thế, một số tài liệu nghiên cứu đã gọi nó là eka-radon. Tuy nhiên, người ta phát hiện ra rằng không phải nó mà là ununquadi mới có các đặc tính giống các nguyên tố khác trong nhóm 18. Nếu phải thì ununocti là nguyên tố thể khí phóng xạ thứ hai và khí bán dẫn đầu tiên dưới điều kiện chuẩn.
+Trừ ra tính không ổn định do có lẽ phóng xạ, các nhà khoa học dự đoán là ununocti sẽ phản ứng hơn xenon và radon. Nó chắc có thể tạo thành oxit ổn định (UuoO3 v.v.) cùng với các muối clorua và florua.
+Ngày 10 tháng 10 năm 2006, các nhà khoa học của Viện liên hợp nghiên cứu hạt nhân và Phòng thí nghiệm quốc gia Lawrence Livermore làm việc tại Dubna (Nga) đã tuyên bố trong tạp chí Physical Review C rằng họ đã tạo ra nguyên tố thứ 118 trên bảng tuần hoàn, tạm được gọi ununocti, bảy năm sau khi các nhà khoa học ở Phòng thí nghiệm quốc gia Lawrence Berkeley tại California tuyên bố phát hiện ra nguyên tố này. Nhưng năm 2000, dựa trên dữ liệu giả mạo của trưởng nhóm là Victor Ninov.
+
+
+== Phát hiện ==
+Vào ngày 16 tháng 10 năm 2006, các nhà nghiên cứu làm việc tại Viện liên hợp nghiên cứu hạt nhân (JINR) tại Dubna, Nga thông báo trong Physical Review C rằng họ đã gián tiếp phát hiện ra tổng cộng ba hạt nhân của ununocti-294 (một vào năm 2002 và hai vào năm 2005) được tạo ra thông qua các va chạm của các nguyên tử californi-249 và các ion canxi-48 :
+24998Cf4820Ca → + 294118Og + 3 n.
+Do xác suất rất nhỏ của phản ứng tổng hợp (tổng hợp tiết diện là 0,5 pb = 5×10−41 m2) nên phải trên 4×1019 ion canxi cần dược bắn phá vào californi để có được chỉ 3 phản ứng tổng hợp.
+Nhóm nghiên cứu bao gồm các nhà khoa học từ JINR và Phòng thí nghiệm quốc gia Lawrence Livermore ở California, Hoa Kỳ. Các sản phẩm phân rã của 3 nguyên tử ununocti, chứ không phải chính các nguyên tử, đã được quan sát tại Dubna. Chu kỳ bán rã 0,89 ms cũng đã được quan sát: 294Uuo phân rã thành 290Lv theo phân rã alpha. Do chỉ có 3 hạt nhân nên chu kỳ bán rã đã được lấy theo thời gian tồn tại quan sát được và do vậy nó có độ tin cậy không cao: 0,89-0,31+1,07 ms.
+Sự nhận dạng ra các hạt nhân 294Og đã được kiểm tra bởi sự tạo ra một cách tách biệt của hạt nhân con được giả định là của 290Lv bằng cách bắn phá 245Cm bằng các ion của 48Ca,
+24596Cm + 4820Ca → 290116Lv + 3 n,
+và kiểm tra rằng phân rã của 290Lv phù hợp với chuỗi phân rã của hạt nhân 294Og.
+Hạt nhân con 290Lv là cực kỳ không ổn định, nó phân rã với chu kỳ bán rã 14 mili giây thành 286Fl, và nó có thể phân rã tự phát hay phân rã alpha thành 282Cn, và hạt nhân này sẽ phân rã tự phát.
+
+
+== Lịch sử ==
+Năm 1999, các nhà nghiên cứu tại Phòng thí nghiệm quốc gia Lawrence Berkeley đã thông báo về phát hiện ra các nguyên tố số 116 và 118, trong bài báo đăng trên Physical Review Letters.
+Các nhà nghiên cứu này tuyên bố rằng họ đã thực hiện phản ứng:
+8636Kr + 20882Pb → 293118Og + n.
+Năm sau, họ lại công bố lời rút lại sau khi các nhà nghiên cứu khác không thể lặp lại các kết quả. Vào tháng 6 năm 2002, viện trưởng phòng thí nghiệm này thông báo rằng tuyên bố ban đầu về phát hiện ra hai nguyên tố này đã dựa trên các dữ liệu bị giả mạo bởi trưởng nhóm Victor Ninov.
+Nhóm các nhà nghiên cứu Mỹ đã có ý định đặt tên cho nó là ghiorsium theo tên của Albert Ghiorso trước khi phải rút lại tuyên bố của mình.
+
+
+== Tên gọi ==
+Cho đến thập niên 1960 ununocti được gọi là eka-emanation (emanation là tên gọi cũ để chỉ radon). Năm 1979 IUPAC đưa ra các đề nghị gọi nguyên tố này là ununocti, tên hệ thống nguyên tố, một tên tạm thời cho đến khi phát hiện ra nguyên tố này và IUPAC quyết định đặt tên.
+Trước năm 2002, các nhà nghiên cứu ở Berkeley đã đặt tên nguyên tố này là ghiorsi (Gh) theo tên của Albert Ghiorso (thành viên của nhóm nghiên cứu).
+Những người phá người Nga đã báo cáo về sự tổng hợp ra nguyên tố này của họ vào năm 2006. Năm 2007, người đứng đầu viên nghiên cứu Nga nói rằng nhóm đã đưa ra hai tên gọi cho nguyên tố mới là Flyori theo tên của Georgy Flyorov, người sáng lập ra phòng nghiên cứu ở Dubna; và moskovi tỉnh Moskovskaya nơi đặt phòng thí nghiệm Dubna. Ông cũng chỉ ra rằng mặc dù nguyên tố được phát hiện trong sự hợp tác nghiên cứu với Mỹ, phía này đã cung cấp nguyên tố californi (Cf), nguyên tố này nên được đặt theo tên danh dự của Nga từ khi phòng thí nghiệm phản ứng hạt nhân Flerov ở JINR là cơ sở duy nhất trên thế giới có thể làm được kết quả như thế.
+Vào ngày 2/12/2016, IUPAC đã công bố chính thức tên của nguyên tố này là Oganesson cùng với 3 nguyên tố khác là Nihoni, Moscovi và Tennessine.
+
+
+== Tham khảo ==

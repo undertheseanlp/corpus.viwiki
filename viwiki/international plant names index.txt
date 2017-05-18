@@ -1,0 +1,21 @@
+International Plant Names Index (bằng tiếng Anh, viết tắt: IPNI) là một "cơ sở dữ liệu tên gọi và chi tiết thư mục cơ bản đi kèm về thực vật có hạt, dương xỉ và thạch tùng." Cơ sở dữ liệu này bao quát chủ yếu tên gọi ở cấp độ loài và chi. IPNI cũng có danh sách chuẩn hóa tên viết tắt các tác giả, ban đầu dựa trên Authors of Plant Names nhưng liên tục bổ sung tên và từ viết tắt mới. IPNI miễn phí.
+
+
+== Miêu tả ==
+IPNI là sản phẩm cộng tác giữa Vườn thực vật hoàng gia Kew (Index Kewensis), Phòng mẫu cây Đại học Harvard (Gray Herbarium Index) và Phòng mẫu cây Quốc gia Úc (Australian Plant Name Index). Cơ sở dữ liệu này là tập hợp tên gọi lấy nguồn từ ba tổ chức này, đồng thời ba tổ chức này cùng nhau hướng đến việc chuẩn hóa thông tin. Tiêu chuẩn viết tắt tên tác giả - được khuyến nghị bởi ICBN - là Authors of Plant Names của Brummitt và Powell. Có thể xem danh sách cập nhật tại IPNI.
+IPNI cung cấp tên gọi thường dùng trong các xuất bản phẩm học thuật với mục tiêu cung cấp một mục lục tên gọi đã được các xuất bản phẩm sử dụng chứ không quy định bắt buộc về mặt danh pháp thực vật học. Dự án The Plant List ra mắt năm 2010 mới có mục đích là quy định tên gọi được chấp nhận.
+
+
+== Xem thêm ==
+The Plant List
+Index Fungorum, một dự án tương tự có nội dung liệt kê tên gọi các loài nấm.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Tiếng Anh
+Website chính thức của IPNI
+Plant Name search – Tìm kiếm tên gọi thực vật trên IPNI
+Author search – Tìm kiếm tên tác giả và cách viết tắt tiêu chuẩn dành cho tên tác giả trên IPNI

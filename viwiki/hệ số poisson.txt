@@ -1,0 +1,562 @@
+Hệ số Poisson hay tỉ số Poisson (ký hiệu là 
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+  ) được đặt theo tên nhà vật lý Siméon-Denis Poisson là tỉ số giữa độ biến dạng hông (độ co, biến dạng co) tương đối và biến dạng dọc trục tương đối (theo phương tác dụng lực).
+
+Khi một mẫu vật liệu bị nén (hoặc kéo) theo một phương thì nó thường có xu hướng co lại (hoặc giãn ra) tương ứng theo phương vuông góc với phương tác dụng lực nhưng cũng có trường hợp vật liệu nở ra khi bị kéo và co lại khi bị nén. Hệ số Poisson là để miêu tả cho xu hướng này.
+Hệ số Poisson của vật liệu thông thường nằm trong khoảng (-1,0; 0,5). Hệ số Poisson của phần lớn vật liệu nằm trong khoảng (0,0; 0,5) như: bấc: gần 0; thép: 0,3; cao su: gần 0,5. Vật liệu không thể chịu nén lý tưởng khi bị biến dạng đàn hồi trong một khoảng nhỏ sẽ có hệ số Poisson bằng 0.5. Một số vật liệu có hệ số Poisson âm như các loại xốp polymer, các loại vật liệu này khi bị kéo sẽ giãn nở theo phương vuông góc với phương chịu lực.
+Giả sử vật liệu bị nén dọc trục:
+
+  
+    
+      
+        ν
+        =
+        −
+        
+          
+            
+              ε
+              
+                
+                  t
+                  r
+                  a
+                  n
+                  s
+                
+              
+            
+            
+              ε
+              
+                
+                  a
+                  x
+                  i
+                  a
+                  l
+                
+              
+            
+          
+        
+        =
+        −
+        
+          
+            
+              ε
+              
+                
+                  x
+                
+              
+            
+            
+              ε
+              
+                
+                  y
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \nu =-{\frac {\varepsilon _{\mathrm {trans} }}{\varepsilon _{\mathrm {axial} }}}=-{\frac {\varepsilon _{\mathrm {x} }}{\varepsilon _{\mathrm {y} }}}}
+  
+với:
+
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+  : hệ số Poisson,
+
+  
+    
+      
+        
+          ε
+          
+            
+              t
+              r
+              a
+              n
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{\mathrm {trans} }}
+  : biến dạng ngang (biến dạng hông) (có giá trị âm nếu chịu kéo, dương nếu chịu nén)
+
+  
+    
+      
+        
+          ε
+          
+            
+              a
+              x
+              i
+              a
+              l
+            
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{\mathrm {axial} }}
+  : biến dạng dọc trục (có giá trị dương nếu chịu kéo, âm nếu chịu nén)
+
+
+== Cơ chế ==
+Ở cấp phân tử, nguyên nhân của hiệu ứng Poisson là sự chuyển dịch giữa các phân tử và sự kéo giãn mối liên kết phân tử trong khung phân tử do ứng suất gây ra. Khi liên kết bị kéo giãn theo phương của ứng suất thì nó bị thu ngắn lại theo phương kia. Sự tổng hợp các thay đổi này trong toàn bộ khung phân tử sẽ gây ra hiệu ứng Poisson.
+
+
+== Định luật Hooke tổng quát ==
+Đối với vật liệu đẳng hướng, biến dạng của vật liệu theo một phương sẽ gây ra biến dạng theo các phương còn lại trong không gian 3 chiều. Do đó có thể tổng quát hóa định luật Hooke trong không gian:
+
+  
+    
+      
+        
+          ε
+          
+            x
+          
+        
+        =
+        
+          
+            1
+            E
+          
+        
+        
+          [
+          
+            σ
+            
+              x
+            
+          
+          −
+          ν
+          
+            (
+            
+              σ
+              
+                y
+              
+            
+            +
+            
+              σ
+              
+                z
+              
+            
+            )
+          
+          ]
+        
+      
+    
+    {\displaystyle \varepsilon _{x}={\frac {1}{E}}\left[\sigma _{x}-\nu \left(\sigma _{y}+\sigma _{z}\right)\right]}
+  
+
+  
+    
+      
+        
+          ε
+          
+            y
+          
+        
+        =
+        
+          
+            1
+            E
+          
+        
+        
+          [
+          
+            σ
+            
+              y
+            
+          
+          −
+          ν
+          
+            (
+            
+              σ
+              
+                x
+              
+            
+            +
+            
+              σ
+              
+                z
+              
+            
+            )
+          
+          ]
+        
+      
+    
+    {\displaystyle \varepsilon _{y}={\frac {1}{E}}\left[\sigma _{y}-\nu \left(\sigma _{x}+\sigma _{z}\right)\right]}
+  
+
+  
+    
+      
+        
+          ε
+          
+            z
+          
+        
+        =
+        
+          
+            1
+            E
+          
+        
+        
+          [
+          
+            σ
+            
+              z
+            
+          
+          −
+          ν
+          
+            (
+            
+              σ
+              
+                x
+              
+            
+            +
+            
+              σ
+              
+                y
+              
+            
+            )
+          
+          ]
+        
+      
+    
+    {\displaystyle \varepsilon _{z}={\frac {1}{E}}\left[\sigma _{z}-\nu \left(\sigma _{x}+\sigma _{y}\right)\right]}
+  
+với
+
+  
+    
+      
+        
+          ε
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{x}}
+  , 
+  
+    
+      
+        
+          ε
+          
+            y
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{y}}
+   and 
+  
+    
+      
+        
+          ε
+          
+            z
+          
+        
+      
+    
+    {\displaystyle \varepsilon _{z}}
+   là biến dạng theo trục 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   và 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+  ,
+
+  
+    
+      
+        
+          σ
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \sigma _{x}}
+  , 
+  
+    
+      
+        
+          σ
+          
+            y
+          
+        
+      
+    
+    {\displaystyle \sigma _{y}}
+   và 
+  
+    
+      
+        
+          σ
+          
+            z
+          
+        
+      
+    
+    {\displaystyle \sigma _{z}}
+   là ứng suất theo trục 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   và 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+  ,
+
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   là môđun đàn hồi Young (đối với vật liệu đẳng hướng môđun đàn hồi theo các trục 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   và 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+   bằng nhau)
+
+  
+    
+      
+        ν
+      
+    
+    {\displaystyle \nu }
+   là hệ số Poisson (đối với vật liệu đẳng hướng là như nhau theo các trục 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+  , 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   và 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+  )
+
+
+== Thay đổi thể tích ==
+Độ thay đổi thể tích tương đối ΔV/V của vật kiệu do bị kéo giãncó thể tính theo công thức giản lược (chỉ khi biến dạng là nhỏ):
+
+  
+    
+      
+        
+          
+            
+              Δ
+              V
+            
+            V
+          
+        
+        =
+        (
+        1
+        −
+        2
+        ν
+        )
+        
+          
+            
+              Δ
+              L
+            
+            L
+          
+        
+      
+    
+    {\displaystyle {\frac {\Delta V}{V}}=(1-2\nu ){\frac {\Delta L}{L}}}
+  
+với
+
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   thể tích
+
+  
+    
+      
+        Δ
+        V
+      
+    
+    {\displaystyle \Delta V}
+   độ thay đổi thể tích
+
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   chiều dài ban đầu
+
+  
+    
+      
+        Δ
+        L
+      
+    
+    {\displaystyle \Delta L}
+   độ thay đổi chiều dài.
+
+
+== Hệ số Poisson của một số vật liệu ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

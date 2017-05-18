@@ -1,0 +1,116 @@
+Hydro peroxid, hay Hydro peroxide (tên Việt hóa là Hidrô perôxit hay nước oxy già) có công thức hóa học H2O2), là một chất oxy hóa dạng lỏng trong suốt, nhớt hơn một chút so với nước, có các thuộc tính ôxi hóa mạnh và vì thế là chất tẩy trắng mạnh được sử dụng như là chất tẩy uế, cũng như làm chất ôxi hóa, và (đặc biệt ở nồng độ cao như HTP) làm tác nhân đẩy trong các tên lửa.
+
+
+== Sử dụng ==
+
+
+=== Trong gia đình ===
+Khi ở nồng độ thấp (dưới 5%) nó được sử dụng phổ biến để tẩy tóc người. Với nồng độ cao hơn nó có thể làm cháy da khi tiếp xúc. Ở nồng độ rất thấp (3%), nó được sử dụng trong y học để rửa vết thương và loại bỏ các mô chết. Cục quản lý thực phẩm và dược phẩm (Mỹ) đã cho phép sử dụng nước oxy già 3% ("Cấp thực phẩm", hay không có sự bổ sung các hóa chất ổn định) như là nước rửa miệng. Các dung dịch peroxide thương mại (chủ yếu là H2O2 mua từ các hiệu thuốc) là không thích hợp cho việc uống nó do chúng chứa các hóa chất bổ sung có tính độc hại.
+Một số người làm vườn và những người trồng cây thủy sinh đã nói đến giá trị của hydro peroxide trong các dung dịch nước của họ. Họ cho rằng sự phân hủy tự nhiên của nó giải phóng oxy cho cây trồng mà nó có thể làm tăng sự phát triển của rễ cũng như giúp xử lý các rễ đã thối rữa, là các tế bào chết do thiếu oxy.
+Peroxide thương mại, như các dung dịch 3% mua tại hiệu thuốc, có thể sử dụng để tẩy các vết máu khỏi quần áo và thảm.
+
+
+==== Lưu trữ ====
+
+Do hydro peroxide phân hủy khi có ánh sáng nên nó cần phải bảo quản trong điều kiện mát và tránh chiếu nắng trực tiếp. Nó cũng cần được bảo quản trong chai lọ có dãn nhãn rõ ràng, xa tầm với của trẻ em do nếu uống nhầm một lượng lớn thì nó có thể sinh ra các vấn đề với hệ tiêu hóa như bỏng, tổn thương và nôn mửa.
+Các dung dịch đậm đặc hơn, chẳng hạn 35% sẽ gây ra chết người khi uống.
+
+
+=== Ứng dụng công nghiệp ===
+Khoảng 50% sản lượng hydro peroxide của thế giới năm 1994 được sử dụng để tẩy trắng giấy và bột giấy. Các ứng dụng tẩy trắng khác ngày càng trở nên quan trọng hơn do hydro peroxide được coi là chất thay thế tốt hơn về mặt môi trường so với các chất tẩy gốc clo.
+Các ứng dụng chủ yếu khác trong công nghiệp của nó còn bao gồm cả việc sản xuất natri percacbonat và natri perborat, được sử dụng như là các chất tẩy rửa nhẹ trong các loại bột giặt để giặt là (ủi). Nó còn được sử dụng trong sản xuất các hợp chất peroxide hữu cơ nào đó như dibenzoyl peroxide, được sử dụng như là chất mồi gốc tự do trong các phản ứng trùng hợp và các phản ứng hóa học khác. Nó cũng được sử dụng để sản xuất các êpôxit chẳng hạn như propylen oxid. Phản ứng với các acid cacboxylic tạo ra các "acid per-" tương ứng; ví dụ acid peracetic sử dụng công nghiệp được điều chế theo cách này từ acid axetic. Tương tự, acid mêta-clorôperoxybenzôic (MCPBA), được sử dụng nhiều trong các phòng thí nghiệm, cũng được điều chế từ acid meta-clorôbenzôic.
+
+
+=== Tác nhân đẩy ===
+Sử dụng H2O2 như là tác nhân đẩy có một số ưu thế như sự phân hủy của nó tạo ra nước và oxy. Nhiên liệu được bơm vào trong khoang phản ứng, ở đó thông thường các chất xúc tác kim loại (đặc biệt là bạc hay bạch kim) kích thích sự phân hủy, luồng hơi nước-oxy được tạo ra hoặc là được sử dụng trực tiếp hoặc được trộn với nhiên liệu để đốt cháy. Khi là tác nhân đẩy đơn (không trộn với nhiên liệu) nó sinh ra xung lực riêng tối đa là (Isp) 161 s (1,6 kN•s/kg) làm cho nó là tác nhân đẩy hiệu suất thấp. Tên lửa đai lưng nổi tiếng của Bell sử dụng hydro peroxide làm tác nhân đẩy đơn. Khi phân hủy như là chất ôxi hóa để đốt nhiên liệu thì xung lực riêng của nó cao hơn, có thể đạt tới 350 s (3,5 kN•s/kg), phụ thuộc vào loại nhiên liệu. Peroxide đã được sử dụng rất thành công như là chất ôxi hóa cho tên lửa đẩy giá thành thấp của Anh, tên lửa Black Knight (Hiệp sĩ đen) cho các lần phóng vệ tinh của dự án Black Arrow (Mũi tên đen).
+So sánh với hidrazin, peroxide ít độc hại hơn nhưng nó cũng không mạnh bằng. Peroxide cung cấp Isp thấp hơn một chút so với oxy lỏng, nhưng là một chất dễ bảo quản, không cần làm lạnh và đậm đặc hơn và nó có thể sử dụng để chạy các tuốc bin khí nhằm tạo ra áp suất cao. Nó cũng có thể sử dụng để làm mát tái sinh các động cơ tên lửa.
+Trong những năm thập niên 1940- 1950, tuốc bin của Walter sử dụng hydro peroxide để chạy các tàu ngầm khi chúng lặn; chúng là quá ồn và có yêu cầu bảo dưỡng cao hơn khi so với hệ thống cung cấp năng lượng kiểu điêzen-điện chuyển đổi. Một số ngư lôi sử dụng hydro peroxide như là chất ôxi hóa hay tác nhân đẩy, nhưng việc sử dụng này đã bị hải quân nhiều nước dừng lại vì các lý do an toàn. Sự rò rỉ hydro peroxide đã bị coi là nguyên nhân gây ra chìm các tàu HMS Sidon 2 và Kursk. Ví dụ, hải quân Nhật Bản phát hiện ra trong các lần thử nghiệm ngư lôi là nồng độ cao của H2O2 trong các chỗ uốn vuông góc của các ống dẫn HTP có thể dẫn tới các vụ nổ của các tàu ngầm hay ngư lôi.
+Trong khi ứng dụng của nó như là tác nhân đẩy đơn cho các động cơ lớn đã bị suy giảm thì các thiết bị đẩy nhỏ (để kiểm soát tư thế) sử dụng hydro peroxide vẫn còn được sử dụng trong một số vệ tinh và đem lại ích lợi cho tàu vũ trụ, làm cho nó dễ dàng hơn trong việc điều chỉnh và an toàn hơn trong khi nạp và chứa nhiên liệu trước khi hạ cánh (khi so sánh với tác nhân đẩy đơn hidrazin). Tuy nhiên hiđrazin là tác nhân đẩy đơn phổ biến hơn trong các tàu vũ trụ vì nó có xung lực riêng cao hơn và tỷ lệ phân hủy thấp hơn.
+
+
+=== Sử dụng trong y tế ===
+Nước oxy già được sử dụng như là chất khử trùng và chất khử khuẩn trong nhiều năm. Trong khi việc sử dụng nó đã bị suy giảm trong những năm gần đây do sự phổ biến của các sản phẩm OTC có mùi vị dễ chịu hơn và có sẵn hơn thì nó vẫn được nhiều bệnh viện, bác sĩ và nha sĩ sử dụng trong việc vô trùng, làm sạch và xử lý mọi thứ từ sàn nhà đến các phẫu thuật chân răng.
+Hydro peroxide 35% cấp thực phẩm được gọi là "nước oxy già", với các giá trị y học hay trị liệu được coi như là liệu pháp hydro peroxide. Những người chủ trương sử dụng sản phẩm này cho rằng nó có thể hòa loãng và sử dụng trong "liệu pháp siêu ôxi hóa" để điều trị AIDS, ung thư và nhiều bệnh khác; một số cũng kêu ca rằng thông tin về các sử dụng có lợi của peroxide bị cấm bởi cộng đồng khoa học.
+Gần đây, các nhà thực hành y học khác cũng sử dụng các liều hydro peroxide tiêm tĩnh mạch trong nồng độ cực thấp (nhỏ hơn 1%) trong liệu pháp hydro peroxide - một hướng điều trị y học gây tranh cãi đối với ung thư. Tuy nhiên, theo Hiệp hội ung thư Mỹ, "đã không có các chứng cứ khoa học cho thấy hydro peroxide là an toàn, có hiệu quả hay có ích trong điều trị ung thư". Họ cũng khuyến cáo các bệnh nhân ung thư cần "duy trì việc chăm sóc của các bác sĩ chuyên khoa, là những người sử dụng các phương pháp điều trị đã được thử thách và các thử nghiệm điều trị đã được phê chuẩn của các điều trị mới có triển vọng".
+
+
+== Các thuộc tính vật lý ==
+
+Hydro peroxide có hình dạng "xiên lệch", do lực đẩy giữa các cặp đơn trên các nguyên tử oxy. Mặc dù trên thực tế liên kết O-O là một liên kết đơn, phân tử có rào cản cao đáng kể để thực hiện vòng quay hoàn hảo là 29,45 kJ/mol; nó có nguyên nhân là do lực đẩy của cặp đơn.
+Các góc liên kết bị ảnh hưởng chủ yếu bởi liên kết hydro, nó giải thích sự khác biệt giữa các dạng hơi và tinh thể; thực vậy người ta đã quan sát được một khoảng rộng giá trị trong các tinh thể chứa phân tử H2O2.
+
+
+== Các thuộc tính hóa học ==
+Hydro peroxide có thể phân hủy tự nhiên thành nước và oxy. Thông thường nó phản ứng như là một chất ôxi hóa, nhưng có nhiều phản ứng trong đó nó phản ứng như là chất khử, giải phóng ra oxy như là phụ phẩm. Nó cũng rất nhanh chóng tạo ra các peroxide vô cơ và hữu cơ.
+
+
+=== Phân hủy ===
+Hydro peroxide thông thường phân hủy theo phản ứng tỏa nhiệt thành nước và khí oxy một cách tự nhiên:
+2 H2O2 → 2 H2O + O2 + Nhiệt lượng
+Phản ứng này là thuận; nó có ΔH° -98,2 kJ/mol và ΔG° -119,2 kJ/mol. Tỷ lệ phân hủy phụ thuộc vào nhiệt độ, nồng độ của peroxide, cũng như là độ pH và sự có mặt của các chất ổn định hay tạp chất. Hydro peroxide kỵ với nhiều chất gây ra sự xúc tác quá trình phân hủy nó, bao gồm phần lớn các kim loại chuyển tiếp và hợp chất của chúng. Các chất xúc tác phổ biến nhất là mangan điôxít, kali pemanganat và bạc. Phản ứng y như vậy cũng được xúc tác bằng enzym catalase, tìm thấy trong gan, mà chức năng chính của nó trong cơ thể là thải loại các sản phẩm phụ độc hại trong quá trình trao đổi chất và khử oxidative stress. Sự phân hủy diễn ra nhanh hơn trong chất kiềm, vì thế acid thường được thêm vào như là chất ổn định.
+Việc đổ hydro peroxide nồng độ cao vào các chất dễ cháy có thể sinh ra sự cháy tức thì do oxy được giải phóng từ sự phân hủy hydro peroxide. Hydro peroxide nồng độ cao (viết tắt tiếng Anh: HTP high-test peroxide) cần phải lưu trữ trong các thùng chứa thông thoáng khí để ngăn ngừa việc tích lũy khí oxy nếu không sẽ dẫn tới sự phá hỏng thùng chứa. Thùng chứa phải được làm từ các vật liệu tương thích như PTFE, polyetylen hay nhôm (không sử dụng thép không gỉ tức inốc) và phải trải qua quá trình làm sạch (thụ động hóa) để loại bỏ tất cả các chất ô nhiễm trước khi đưa peroxide vào. (Lưu ý rằng polyetylen là tương thích ở nhiệt độ phòng nhưng có thể nổ cùng với peroxide khi bị cháy.)
+Khi có mặt một chất xúc tác nào đó, như Fe2+ hay Ti3+, sự phân hủy có thể diễn ra theo cách khác, với các gốc tự do như HO· (hydroxyl) và HOO· được tạo ra. Tổ hợp của H2O2 và Fe2+ được biết đến như là thuốc thử Fenton.
+
+
+=== Phản ứng ôxi hóa-khử ===
+Trong dung dịch nước, hydro peroxide có thể ôxi hóa hay khử nhiều loại ion vô cơ. Khi nó như là một chất khử thì khí oxy được tạo ra. Trong dung dịch acid ion sắt Fe2+ bị ôxi hóa thành ion sắt Fe3+,
+2 Fe2+(Dung dịch) + H2O2 + 2 H+(dung dịch) → 2 Fe3+(dung dịch) + 2H2O(lỏng)
+và sulfit (SO32−) bị ôxi hóa thành sulfat (SO42−). Tuy nhiên kali pemanganat bị khử thành mangan Mn2+ bởi tính acid của H2O2. Thú vị là dưới các điều kiện môi trườnglà kiềm thì một số trong các phản ứng này là ngược lại; Mn2+ bị ôxi hóa thành Mn4+ (trong dạng MnO2), và Fe3+ bị khử thành Fe2+.
+2 Fe3+ + H2O2 + 2 OH− → 2 Fe2+ + 2 H2O + O2
+Hydro peroxide thường xuyên được sử dụng làm chất khử trong hóa hữu cơ. Một ứng dụng là để ôxi hóa các thioête thành các sulfôxít. Ví dụ mêtyl phênyl sulfit bị ôxi hóa thành mêtyl phênyl sulfôxít trong 99% yield trong metanol trong thời gian 18 giờ (hay 20 phút với xúc tác TiCl3):
+Ph-S-CH3 + H2O2 → Ph-S(O)-CH3 + H2O
+Hydro peroxide kiềm hóa được sử dụng để êpôxit hóa các alken thiếu hụt điện tử như acid acrylic, cũng như để ôxi hóa các alkylboran thành rượu, bước thứ hai của quá trình hydroborua hóa-ôxi hóa.
+
+
+=== Tạo thành các hợp chất peroxide ===
+Hydro peroxide là một acid yếu (pH = 4,5), và nó có thể tạo ra các muối hydroperoxide hay peroxide hay các dẫn xuất của nhiều kim loại. Ví dụ, với dung dịch acid crômic (CrO3) nó có thể tạo ra peroxide màu xanh lam không ổn định CrO(O2)2. Nó cũng có thể tạo ra các peroxoanion theo phản ứng với các anion; ví dụ phản ứng với borac tạo ra natri perborat, là một chất tẩy sử dụng trong các bột giặt:
+Na2B4O7 + 4 H2O2 + 2 NaOH → 2 Na2B2O4(OH)4 + H2O
+H2O2 chuyển hóa các acid cacboxylic (RCOOH) thành các acid peroxy (RCOOOH), mà tự chúng lại được sử dụng như là các chất ôxi hóa. Hydro peroxide phản ứng với axêtôn để tạo ra axêtôn peroxide và nó tương tác với ôzôn để tạo ra hydro triôxít. Phản ứng với urê tạo ra cacbamua peroxide, được sử dụng để làm trắng răng. Cân bằng acid-bazơ với triphenylphosphin ôxít là "người vận chuyển" hữu ích của H2O2 trong một số phản ứng.
+
+
+=== Tính bazơ ===
+Hydro peroxide là một bazơ yếu hơn cả nước, nhưng nó có thể tạo ra một số sản phẩm với các acid rất mạnh. Siêu acid HF/SbF5 tạo ra các hợp chất không ổn định chứa ion (H3O2)+.
+
+
+== Sản xuất ==
+Ngày nay hydro peroxide được sản xuất gần như duy nhất chỉ bằng sự tự ôxi hóa của 2-etyl-9,10-đihydroxyanthracen thành 2-etylanthraquinon và hydro peroxide sử dụng oxy từ không khí. Dẫn xuất anthraquinon sau đó được chiết ra khỏi hỗn hợp và được khử ngược trở lại thành hợp chất đihydroxy bằng khí hydro với chất xúc tác kim loại. Phương trình tổng quan của quá trình này được đơn giản hóa như sau (dễ nhầm lẫn):
+H2 + O2 → H2O2
+Tuy nhiên tính kinh tế của công nghệ này phụ thuộc vào tính hiệu quả của quá trình tái chế quinon cũng như quá trình chiết dung dịch và của chất xúc tác cho quá trình hydro hóa.
+Trước đây các công nghệ vô cơ đã được sử dụng, bằng cách điện phân dung dịch acid sulfuric hay amoni bisulfat acid (NH4HSO4), tiếp theo là sự thủy phân của peroxyđisulfat ((SO4)2)2− được tạo ra sau khi điện phân.
+Năm 1994, sản lượng toàn thế giới của H2O2 là khoảng 1,9 triệu tấn, phần lớn trong chúng có nồng độ 70% hoặc thấp hơn. Trong năm này giá bán buôn H2O2 30% là khoảng US$0,54 một kg, tương đương với US$1,50/kg (US$0,68/ lb) trên "cơ sở 100%".
+
+
+== Nồng độ ==
+Hydro peroxide làm việc tốt nhất như là tác nhân đẩy khi ở nồng độ cực cao. Tuy nhiên, có rất ít nhà cung cấp hydro peroxide có độ tinh khiết cao, và họ cũng không thể bán với lượng lớn cho bất kỳ ai. Kết quả là những người nghiệp dư mong muốn sử dụng nó như là nhiên liệu cho tên lửa thông thường phải mua nó với nồng độ 70% hoặc thấp hơn (phần lớn trong số 30% còn lại là nước, và đôi khi còn có dấu vết của các chất ổn định, như thiếc), và sau đó tự làm tăng nồng độ của nó lên. Nhiều người thử chưng cất, nhưng điều này là cực kỳ nguy hiểm do hơi peroxide có thể kích nổ ở nhiệt độ khoảng 70 °C. Hướng tiếp cận an toàn hơn là thổi khí (trơ về mặt hóa học với các chất có trong dung dịch) qua dung dịch, tiếp theo là đóng băng phân đoạn, nhưng thậm chí khi sử dụng phương pháp này thì các tạp chất thường vẫn có thể gây nổ.
+Trong những năm thập niên 1950 HTP đã từng có sẵn hơn, nhưng do sự e ngại về an toàn nên các nhà sản xuất hàng loạt kể từ đó đã chuyển sang sản xuất H2O2 có nồng độ thấp khi có thể. Một số nhóm nghiệp dư đã biểu thị sự quan tâm của họ trong việc tự sản xuất peroxide để sử dụng cho chính họ và bán lại với một lượng nhỏ cho những người khác.
+
+
+== Các nguy hiểm ==
+Hơi hydro peroxide có thể kích nổ trên 70 °C, vì thế việc bảo quản dung dịch và hơi ở điều kiện mát là then chốt. Việc chưng cất hydro peroxide ở áp suất thường cũng rất nguy hiểm. Hơi hydro peroxide có thể tạo ra các chất nhạy nổ do tiếp xúc với các hydrocacbon như dầu mỡ. Các phản ứng nguy hiểm dao động từ bắt cháy tới nổ đã được thông báo là xuất hiện cùng với rượu, các cetone, acid cacboxylic (cụ thể là acid axêtic), các amin và phốtpho.
+Hydro peroxide, nếu đổ vào vải (hay các chất dễ cháy khác) sẽ làm bay hơi nước cho đến khi nồng độ đạt đến mức đủ lớn thì vật liệu sẽ tự động bắt cháy. Sản phẩm da nói chung chứa sắt kim loại từ quá trình thuộc da và thông thường bắt lửa rất nhanh.
+Hydro peroxide đặc (>50%) là một chất ăn mòn, và thậm chí các dung dịch mạnh để sử dụng trong gia đình cũng có thể kích thích mắt, các màng nhầy và da. Việc uống dung dịch hydro peroxide là nguy hiểm, do sự phân hủy trong dạ dày giải phóng ra một lượng khí lớn (10 lần thể tích của dung dịch 3%) dẫn tới sự chảy máu trong.
+IARC liệt kê hydro peroxide trong Nhóm 3: không được phân loại như là có tính gây ung thư đối với con người. Nghiên cứu trên chuột phát hiện ra sự tăng nguy cơ ung thư hệ tiêu hóa sau việc hấp thụ hydro peroxide, nhưng các nghiên cứu khác trên động vật đã chứng tỏ nó không thuyết phục. Hydro peroxide được sản xuất như là phụ phẩm trong việc trao đổi oxy trong cơ thể, và gần như mọi cơ thể đều có enzym có tên gọi là peroxidase để xúc tác sự phân hủy nó thành nước và oxy (xem Phân hủy trên đây).
+Sự rò rỉ của HTP (85-98% hydro peroxide) từ các ngư lôi là nguyên nhân làm nổ tàu ngầm Kursk của Nga năm 2000.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Hiệp hội đẩy tên lửa thực nghiệm
+Hydro Peroxide như là nhiên liệu PESWiki.com
+NIST Dữ liệu tham chiếu tiêu chuẩn
+Trang wiki về hóa điện toán
+Ủy ban hóa chất châu Âu
+Thẻ an toàn hóa chất quốc tế 0164
+NIOSH Hướng dẫn bỏ túi cho các nguy hiểm hóa chất
+Chuyên khảo của IARC về "Hydro Peroxide"
+General Kinetics Inc. Động cơ tên lửa hydro peroxide và thiết bị sản xuất khí
+
+
+== Tham khảo ==
+J. Drabowicz et al., in The Syntheses of Sulphones, Sulphoxides and Cyclic Sulphides, p112-116, G. Capozzi et al., eds., John Wiley & Sons, Chichester, UK, 1994. ISBN 0-471-93970-6.
+N. N. Greenwood, A. Earnshaw, Chemistry of the Elements, 2nd ed., Butterworth-Heinemann, Oxford, UK, 1997. A great description of properties & chemistry of H2O2.
+J. March, Advanced Organic Chemistry, 4th ed., p. 723, Wiley, New York, 1992.
+W. T. Hess, Hydrogen Peroxide, in Kirk-Othmer Encyclopedia of Chemical Technology, 4th edition, Wiley, New York, Vol. 13, 961-995 (1995).
+CA Cancer J Clin. 1993 Jan-Feb;43(1):47-56. "Questionable methods of cancer management: hydrogen peroxide and other 'hyperoxygenation' therapies." PMID 8422605

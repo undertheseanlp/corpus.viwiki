@@ -1,0 +1,61 @@
+Kính hiển vi lực nguyên tử hay kính hiển vi nguyên tử lực (tiếng Anh: Atomic force microscope, viết tắt là AFM) là một thiết bị quan sát cấu trúc vi mô bề mặt của vật rắn dựa trên nguyên tắc xác định lực tương tác nguyên tử giữa một đầu mũi dò nhọn với bề mặt của mẫu, có thể quan sát ở độ phân giải nanômét, được sáng chế bởi Gerd Binnig, Calvin Quate và Christoph Gerber vào năm 1986. AFM thuộc nhóm kính hiển vi quét đầu dò hoạt động trên nguyên tắc quét đầu dò trên bề mặt.
+
+
+== Nguyên lý của AFM ==
+Bộ phận chính của AFM là một mũi nhọn được gắn trên một thanh rung (cantilever). Mũi nhọn thường được làm bằng Si hoặc SiN và kích thước của đầu mũi nhọn là một nguyên tử. Khi mũi nhọn quét gần bề mặt mẫu vật, sẽ xuất hiện lực Van der Waals giữa các nguyên tử tại bề mặt mẫu và nguyên tử tại đầu mũi nhọn (lực nguyên tử) làm rung thanh cantilever. Lực này phụ thuộc vào khoảng cách giữa đầu mũi dò và bề mặt của mẫu. Dao động của thanh rung do lực tương tác được ghi lại nhờ một tia laser chiếu qua bề mặt của thanh rung, dao động của thanh rung làm thay đổi góc lệch của tia lase và được detector ghi lại. Việc ghi lại lực tương tác trong quá trình thanh rung quét trên bề mặt sẽ cho hình ảnh cấu trúc bề mặt của mẫu vật.
+Trên thực tế, tùy vào chế độ và loại đầu dò mà có thể tạo ra các lực khác nhau và hình ảnh cấu trúc khác nhau. Ví dụ như lực Van der Waals cho hình ảnh hình thái học bề mặt, lực điện từ có thể cho cấu trúc điện từ (kính hiển vi lực từ), hay lực Casmir, lực liên kết hóa học, và dẫn đến việc có thể ghi lại nhiều thông tin khác nhau trên bề mặt mẫu.
+
+
+== Các chế độ ghi ảnh ==
+AFM có thể hoạt động ở nhiều chế độ khác nhau, nhưng có thể chia thành các nhóm chế độ : Chế độ tĩnh (Contact mode), chế độ động (Non-contact mode) hoặc chế độ đánh dấu (Tapping mode)
+
+
+=== Chế độ tiếp xúc (chế độ tĩnh) ===
+Chế độ contact là chế độ mà khoảng cách giữa đầu mũi dò và bề mặt mẫu được giữ không đổi trong quá trình quét, và tín hiệu phản hồi từ tia laser sẽ là tín hiệu tĩnh. Ở khoảng cách này, lực hút sẽ trở nên mạnh và cantilever bị kéo lại rất gần bề mặt (gần như tiếp xúc). Tuy nhiên, bộ điều khiển phản hồi sẽ điều chỉnh để khoảng cách giữa mũi và bề mặt là không đổi trong suốt quá trình quét.
+
+
+=== Chế độ không tiếp xúc (chế độ động) ===
+Chế độ động (hay chế độ không tiếp xúc) là chế độ mà cantilever bị kích thích bởi ngoại lực, dao động với tần số gần với tần số dao động riêng của nó. Tần số, biên độ và pha của dao động sẽ bị ảnh hưởng bởi tương tác giữa mẫu và mũi dò, do đó sẽ có thêm nhiều thông tin về mẫu được biến điệu trong tín hiệu. Chế độ không tiếp xúc là kỹ thuật tạo ảnh độ phân giải cao đầu tiên được thực hiện trên AFM trong môi trường chân không cao.
+
+
+=== Tapping mode ===
+
+Tapping mode thực chất là một cải tiến của chế độ động không tiếp xúc. Trong chế độ này, cantilever được rung trực tiếp bằng bộ dao động áp điện gắn trên cantilever với biên độ lớn tới 100-200 nm, và tần số rất gần với tần số dao động riêng.
+
+
+== Phân tích phổ AFM ==
+Vì AFM hoạt động dựa trên việc đo lực tác dụng nên nó có một chế độ phân tích phổ, gọi là phổ lực AFM (force spectrocopy), là phổ phân bố lực theo khoảng cách : lực Van der Waals, lực Casmir, lực liên kết nguyên tử... với thời gian hồi đáp nhanh cỡ ps (10−12 giây), độ chính xác tới pN (10−12 Newton) và độ phân giải về khoảng cách có thể tới 0,1 nm. Các phổ này có thể cung cấp nhiều thông tin về cấu trúc nguyên tử của bề mặt cũng như các liên kết hóa học .
+
+
+== Lịch sử, ưu điểm và nhược điểm của AFM ==
+AFM lần đầu tiên được phát triển vào năm 1985 để khắc phục nhược điểm của STM chỉ có thể thực hiện được trên mẫu dẫn điện, bởi G. Binnig, C. F. Quate và Ch. Gerber , và đến năm 1987, T. Albrecht đã lần đầu tiên phát triển AFM đạt độ phân giải cấp độ nguyên tử , cũng trong năm đó MFM được phát triển từ AFM. Năm 1988, AFM chính thức được thương mại hóa bởi Park Scientific (Stanford, Mỹ).
+
+
+=== Ưu điểm của AFM ===
+
+AFM khắc phục nhược điểm của STM, có thể chụp ảnh bề mặt của tất cả các loại mẫu kể cả mẫu không dẫn điện.
+AFM không đòi hỏi môi trường chân không cao, có thể hoạt động ngay trong môi trường bình thường.
+AFM cũng có thể tiến hành các thao tác di chuyển và xây dựng ở cấp độ từng nguyên tử, một tính năng mạnh cho công nghệ nano. Đồng thời AFM cũng hoạt động mà không đòi hỏi sự phá hủy hay có dòng điện nên còn rất hữu ích cho các tiêu bản sinh học ,.
+
+
+=== Nhược điểm của AFM ===
+AFM quét ảnh trên một diện tích hẹp (tối đa đến 150 micromet).
+Tốc độ ghi ảnh chậm do hoạt động ở chế độ quét.
+Chất lượng ảnh bị ảnh hưởng bởi quá trình trễ của bộ quét áp điện.
+Đầu dò rung trên bề mặt nên kém an toàn, đồng thời đòi hỏi mẫu có bề mặt sạch và sự chống rung.
+
+
+== Xem thêm ==
+Kính hiển vi quét đầu dò
+Kính hiển vi quét chui hầm
+Kính hiển vi lực từ
+Kính hiển vi điện tử quét
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+SPM history
+What is an Atomic Force Microscope?
+Atomic force microscopy

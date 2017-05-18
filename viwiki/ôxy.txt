@@ -1,0 +1,161 @@
+Ôxy (bắt nguồn từ tiếng Pháp: oxygène) là nguyên tố hóa học có ký hiệu là O thuộc nhóm VI A và số hiệu nguyên tử bằng 8 trong bảng tuần hoàn các nguyên tố, nguyên tử khối bằng 16. Ôxy là nguyên tố phi kim hoạt động mạnh nó có thể tạo thành hợp chất oxit với hầu hết các nguyên tố khác. Ở điều kiện nhiệt độ và áp suất tiêu chuẩn hai nguyên tử ôxy kết hợp với nhau tạo thành phân tử ôxy không màu, không mùi, không vị có công thức O2. Ôxy phân tử (O2, thường được gọi là ôxy tự do) trên Trái Đất là không ổn định về mặt nhiệt động lực học. Sự xuất hiện trong thời kỳ đầu tiên của nó trên Trái Đất là do các hoạt động quang hợp của vi khuẩn kỵ khí (vi khuẩn cổ và vi khuẩn). Sự phổ biến của nó từ sau đó đến ngày nay là do hoạt động quang hợp của cây xanh. Ôxy là nguyên tố phổ biến xếp hàng thứ 3 trong vũ trụ theo khối lượng sau hydro và heli và là nguyên tố phổ biến nhất theo khối lượng trong vỏ Trái Đất. Khí ôxy chiếm 20,9% về thể tích trong không khí.
+Khí ôxy thường được gọi là dưỡng khí, vì nó duy trì sự sống của cơ thể con người.
+Tất cả các nhóm phân tử cấu trúc chính trong các cơ thể sống như các protein, cacbohydrat, và mỡ chứa ôxy, cũng như trong các hợp chất vô cơ quan trọng cấu tạo tạo nên các vỏ sò, răng và xương. Ôxy ở dạng O2 được tạo ra từ nước bởi vi khuẩn lam, tảo và thực vật thông qua quá trình quang hợp và được sử dụng trong quá trình hô hấp của các cơ thể sống bậc cao. Ôxy là chất độc đối với các sinh vật kỵ khí bắt buộc, là các sinh vật thống trị trong thời buổi đầu trên Trái Đất cho đến khi O2 bắt đầu tích tụ trong khí quyển cách đây 2,5 triệu năm. Một dạng khác (thù hình) của ôxy là ôzôn (O3) tích tụ tạo thành lớp ôzon, khí này giúp bảo vệ sinh quyển khỏi tia tử ngoại, nhưng nó sẽ là chất ô nhiễm nếu nó nằm gần mặt đất ở dạng sương mù. Thậm chí ở quỹ đạo Trái Đất tầm thấp, nguyên tử ôxy cũng tồn tại và làm mòn các tàu không gian.
+Ôxy được Carl Wilhelm Scheele phát hiện ở Uppsala năm 1773 hoặc sớm hơn và Joseph Priestley ở Wiltshire năm 1774 độc lập nhau, nhưng Priestley thường được cho là phát hiện ra trước bởi vi ấn phẩm của ông được xuất bản trước. Tên gọi ôxy (oxygen) được Antoine Lavoisier đặt năm 1777, các thí nghiệm của ông với ôxy đã giúp loại trừ thuyết phlogiston về sự cháy và ăn mòn phổ biến vào thời đó. Ôxy được sản xuất trong công nghiệp bằng cách chưng cất phân đoạn không khí lỏng, sử dụng zeolit để loại bỏ carbon dioxide và nitơ ra khỏi không khí, điện phân nước và các cách khác. Trong phòng thí nghiệm, người ta điều chế oxy bằng cách nhiệt phân một số chất giàu oxy như KMnO4, KClO3. Ôxy được sử dụng trong sản xuất công nghiệp (thép, nhựa và dệt); đốt nhiên liệu (nhiên liệu tên lửa); và hô hấp (hỗ trợ sự sống của con người trên tàu không gian, hay khi lặn dưới biển).
+
+
+== Các đặc trưng quan trọng ==
+
+
+=== Cấu trúc ===
+Ở nhiệt độ và áp suất tiêu chuẩn, ôxy là chất khí không màu, không mùi và không vị có công thức phân tử là O2, trong đó hai nguyên tử ôxy liên kết với nhau với cấu hình electron có spin mức 3. Liên kết này có bậc liên kết là 2 và thường được đơn giản hóa trong miêu tả như là liên kết đôi, hoặc như là tổ hợp của một liên kết có 2 electron và 2 liên kết có 3 electron.
+Ôxy mức 3 (không phải ôzôn, O3) mà là trạng thái năng lượng cơ bản của phân tử O2. Cấu hình electron của phân tử này có 2 electron không tạo cặp mà tách ra riêng lẻ chiếm 2 orbital phân tử suy biến. Các orbital này được xếp vào nhóm phản liên kết (làm suy giảm bậc liên kết từ 3 xuống còn 2), vì vậy liên kết ôxy 2 nguyên tử yếu hơn liên kết 3 của 2 nguyên tử nitơ, theo đó tất cả các orbital nguyên tử liên kết đều được lấp đầy còn các orbital phản liên kết thì không đầy.
+Ở dạng ôxy mức 3, phân tử O2 là thuận từ— Chúng tạo thành nam châm trong trường từ — do mô men từ Spin của cặp đôi electron không liên kết trong phân tử, và năng lượng trao đổi âm giữa các phân tử O2 lân cận.
+Ôxy mức đơn (singlet oxygen) là tên gọi cho các phân tử O2 ở mức năng lượng cao, ở mức đó các tất cả electron spin đều có cặp, có khuynh hướng linh động hơn đối với phân tử hữu cơ thông thường. Trong tự nhiên, singlet ôxy thường được tạo thành từ nước qua quá trình quang hợp sử dụng năng lượng mặt trời. Nó cũng được tạo ra trong tầng đối lưu bằng phản ứng quang phân ôzôn dưới ánh sáng bước sóng ngắn, và từ hệ thống miễn dịch với vai trò là nguồn ôxy chủ động. Các carotinoit trong các sinh vật quang hợp (và cũng có thể trong các động vật) đóng vai trò quan trọng trong việc hấp thu năng lượng từ singlet ôxy và chuyển hóa nó thành trạng thái ổn định không bị kích thích trước khi nó có thể gây hại cho các tế bào.
+Ôxy là một thành phần quan trọng của không khí, được sản xuất bởi cây cối trong quá trình quang hợp và là cần thiết để duy trì sự hô hấp của người và động vật. Từ ôxy có nguồn gốc từ các chữ cổ Hy Lạp, οξυς oxus (oxys là axít) và γεινομαι (geinomai là sinh ra). Tên "ôxy" được chọn vì tại thời điểm phát hiện ra nó vào cuối thế kỷ 18 người ta cho rằng mọi axít đều chứa ôxy. Còn hiện nay thì người ta đã biết rằng các axít không nhất thiết phải có ôxy trong thành phần.
+Ôxy lỏng và ôxy rắn có màu xanh nhạt và cả hai đều là chất thuận từ. Ôxy lỏng thông thường được chưng cất từng phần từ không khí hóa lỏng. Cả ôzôn lỏng và ôzôn rắn (O3) có màu xanh thẫm.
+Một thù hình khác của ôxy, oxozon, O4, mới được phát hiện gần đây là chất rắn có màu đỏ thẫm được tạo thành bằng cách ép O2 dưới áp lực 20 GPa. Các thuộc tính của nó đang được nghiên cứu để sử dụng làm nguyên liệu cho tên lửa và các ứng dụng tương tự khác, vì nó là một chất ôxi hóa mạnh hơn nhiều so với O2 hay O3.
+
+
+=== Thù hình ===
+
+Dạng thù hình phổ biến của nguyên tố ôxy trên Trái Đất được gọi là dioxygen, O2. Nó có chiều dài liên kết 121 pm và năng lượng liên kết 498 kJ·mol−1. Đây là dạng được sử dụng bởi các dạng sống phức tạp như ở động vật, trong việc hô hấp của tế bào và là dạng tồn tại chính trong khí quyển của Trái Đất.Các ứng dụng khác của dạng O2 được đề cập trong các phần còn lại của bài viết này.
+Trioxygen (O3) thường được gọi là ôzôn và là dạng thù hình rất hoạt động của ôxy chúng có thể làm phá hoại mô của phổi. Ôzôn được sinh ra từ phần trên của khí quyển khi O2 kết hợp với ôxy nguyên tử được sinh ra từ việc phân chia phân tử ôxy bởi các tia cực tím (tử ngoại). Vì ôzon hấp thụ rất mạnh trong vùng phổ tử ngoại nên tầng ôzôn của phần trên cùng tầng khí quyển có chức năng là tấm chắn bức xạ cho trái đất. Tuy nhiên, ở phần gần bề mặt Trái Đất, nó là các chất ô nhiễm được sinh ra là một sản phẩm phụ của quá trình đốt nhiên liệu động cơ. Phân tử ở trạng thái kích thích tetraoxygen (O4) được phát hiện năm 2001, và được giả thiết về sự tồn tại của nó là một trong sáu giai đoạn của ôxy rắn. Điều này được chứng minh năm 2006, nó được tạo ra bằng cách nén O2 lên 20 GPa, trong thực tế là một ô mạng thoi O8. Cấu trúc ô mạng này có khả năng có tính ôxy hóa rất mạnh hơn cả O2 hoặc O3 và ó thể được sử dụng trong nhiên liệu tên lửa. Trạng thái kim loại được phát hiện năm 1990 khi ôxy rắn được nén trên 96 GPa và nó được thể hiện năm 1998 ở nhiệt độ rất thấp, pha này trở thành chất siêu dẫn.
+
+
+=== Tính chất vật lý ===
+
+Oxy hòa tan trong nước nhiều hơn so với nitơ; nước chứa khoảng một phân tử O2 cho mỗi 2 phân tử N2, so với tỉ số trong không khí là 1:4. Độ hòa tan của ôxy trong nước phụ thuộc vào nhiệt độ, và ở 0 °C thì lượng hòa tan tăng gấp đôi (14,6 mg·L−1) so với ở 20 °C (7,6 mg·L−1). Ở nhiệt động không khí 25 °C và 1 atm, nước ngọt chứa khoảng 6,04 mililit (mL) ôxy trong một lít, trong khi đó, nước biển chứa khoảng 4,95 mL/L. Ở 5 °C, độ hòa tan tăng đến 9,0 mL/L (tăng 50% so với ở 25 °C) trong nước ngọt và 7,2 mL/L (tăng hơn 45%) đối với nước biển.
+Oxy ngưng tụ ở 90,20 K (−182.95 °C, −297.31 °F), và đóng băng ở 54,36 K (−218.79 °C, −361.82 °F). Cả hai dạng lỏng và rắn O2 là những chất trong suốt với màu xanh da trời nhạt do gây ra bởi sự hấp thụ ánh sáng đỏ (ngược lại với màu xanh da trời là do sự tán xạ Rayleigh của ánh sáng xanh). O2 tinh khiết cao thường được chưng cất phân đoạn từ không khí lỏng; Ôxy lỏng cũng có thể được sản xuất từ sự ngưng tụ không khí bằng cách sử dụng chất làm lạnh là nitơ lỏng. Nó là một chất dễ phản ứng và phải được cất giữ cách xa các vật liệu dễ cháy.
+
+
+=== Đồng vị và nguồn gốc sao ===
+
+Ôxy có mặt trong tự nhiên là hỗn hợp của 3 đồng vị bền gồm, 16O, 17O, và 18O, với 16O chiếm nhiều nhất (99,762%).
+Hầu hết 16O được tổng hợp ở giai đoạn cuối của quá trình phản ứng tổng hợp heli trong các sao lớn nhưng một số hình thành trong quá trình đốt cháy neon. 17O chủ yếu được hình thanh trong quá trìn đốt cháy hydro thành heli trong chu trình CNO, do vậy nó là đồng vị phổ biến trong các đới đốt cháy hydro của các sao. Most 18O được tạo ra khi 14N (hình thành phổ biến trong quá trình đốt cháy CNO) bắt các hạt nhân 4He, nên 18O phổ biến trong các đới giàu heli của quá trình tiến hóa sao lớn.
+14 đồng vị phóng xạ của ôxy đã được xác định. Đồng vị bền nhất là 15O với chu kỳ bán rã 122,24 giây và 14O có chu kỳ bán rã 70,606 giây. Tất cả các đồng vị phóng xạ còn là có chu kỳ bán rã dưới 27 s và phổ biến là dưới 83 milli giây. Cơ chế phân rã phổ biến nhất của các đồng vị nhẹ hơn 16O là phân rã β+ để tạo ra nitơ, và cơ chế phân rã phổ biến nhất của các đồng vị nặng hơn 18O là phân rã beta để tạo ra flo.
+
+
+=== Sự phổ biến ===
+Ôxy là nguyên tố phổ biến nhất ở vỏ Trái Đất. Ôxy là nguyên tố phổ biến thứ 3 trong vũ trụ sau hydro và heli. Khoảng 0,9% khối lượng của Mặt Trời là ôxy. Người ta ước tính nó chiếm 49,2% khối lượng của vỏ Trái Đất. và chiếm khoảng 88,8% khối lượng các đại dương (là H2O, hay nước) và 20% theo thể tích bầu khí quyển Trái Đất (là O2, ôxy phân tử, hay O3, ôzôn).
+Các hợp chất của ôxy, chủ yếu là ôxít của các kim loại, silicat (SiO44−) và cacbonat (CO32−), tìm thấy trong đất và đá. Nước đóng băng là chất rắn phổ biến trên các hành tinh khác cũng như sao chổi. Chỏm băng của Sao Hỏa là cacbon điôxít đóng băng. Hợp chất của ôxy tìm thấy trong khắp vũ trụ và quang phổ của ôxy được tìm thấy ở các ngôi sao.
+
+
+== Vai trò sinh học ==
+
+
+=== Quang hợp và hô hấp ===
+
+Trong tự nhiên, ôxy tự do được sinh ra từ việc phân giải nước trong quá trình quang hợp ôxy dưới tác động của ánh sáng. Theo một vài ước tính, tảo lục và cyanobacteria trong các môi trường biển cung cấp khoảng 70% ôxy tự do được tạo ra trên Trái Đất và phần còn lại là từ thực vật trên đất liền. Các tính toán khác về sự đóng góp từ đại dương vào ôxy trong khí quyển cao hơn, trong khi một vài ước tính thì thấp hơn, đề xuất rằng các đại dương tạo ra khoảng 45% ôxy trong khí quyển mỗi năm.
+Công thức tính đơn giản từ quá trình quang hợp là:
+
+6 CO2 + 6 H2O + photons → C6H12O6 + 6 O2
+
+Tiến hóa ôxy Photolytic xảy ra trong màng thylakoid của các sinh vật quang hợp và cần năng lượng của 4 photon. Mặc dù trải qua nhiều công đoạn, nhưng kết quả là tạo thành sự chênh lệch proton qua màng thylakoid, nó được sử dụng để tổng hợp ATP qua photophosphorylation. Phân tử O2 còn lại sau khi ôxy hóa phân tử nước được giải phóng vào khí quyển.
+Phân tử O2 là cần thiết cho việc hô hấp của tế bào trong tất cả các sinh vật hiếu khí. Ôxy được sử dụng trong mitochondria để giúp tạo ra adenosine triphosphate (ATP) trong quá trình phosphoryl hóa ôxy hóa. Phản ứng của hô hấp hiếu khí là quá trình ngược lại với quang hợp::
+
+C6H12O6 + 6 O2 → 6 CO2 + 6 H2O + 2880 kJ·mol−1
+
+Ở động vật có xương sống, O2 khuếch tán qua các màng trong phổi và đi vào các tế bào máu đỏ. Hemoglobin kết hợp với O2, làm thay đổi màu sắc của nó từ đỏ thẩm sang đỏ tươi (CO2 được giải phóng từ phần khác của hemoglobin tua hiệu ứng Bohr). Các động vật khác sử dụng hemocyanin (Mollusca và một số arthropoda) hoặc hemerythrin (nhện và tôm hùm). Một lít máu có thể hòa tan 200 cm3 O2.
+Các loại ôxy phản ứng như ion superoxide (O−2) và hydrogen peroxide (H2O2), là các sản phẩm phụ nguy hiểm của ôxy sử dụng trong sinh vật. Tuy nhiên, các bộ phận của hệ miễn dịch của các sinh vật bậc cao, tạo ra peroxide, superoxide, và ôxy nguyên tử để phá hủy các vi sinh vật xâm nhập. Loại ôxy phản ứng cũng có vai trò quan trọng trong phản ứng siêu nhạy cảm của thực vật chống lại các tác nhân gây bệnh.
+Một người trưởng thành hít 1,8-2,4 gam chất ôxy mỗi phút. Lượng này tương đương 6 triệu tấn ôxy được hít vào do con người mỗi năm.
+
+
+=== Hàm lượng trong cơ thể ===
+
+Áp suất riêng phần của ôxy tự do trong cơ thể của động vật có xương sống còn sống là cao nhất trong hệ hô hấp, và giảm dọc theo hệ động mạch, mô ngoại vi và hệ tĩnh mạch..
+
+
+=== Tạo nên khí quyển ===
+
+Khí ôxy tự do hầu như không tồn tại trong khí quyển Trái Đất trước khi archaea và vi khuẩn tiến hóa, có lẽ vào khoảng 3,5 tỉ năm trước. Ôxy tự do xuất hiện đầu tiên với một lượng lớn trong suốt đại cổ sinh (giữa 3,0 và 2,3 tỉ năm trước). Trong 1 tỉ năm đầu, bất kỳ dạng ôxy tự do được sinh ra từ các sinh vật này đã kết hợp với sắt hòa tan trong các đại dương để hình thành nên các tầng sắt tạo dãi. Khi ôxy này chìm xuống trở nên bảo hòa, ôxy tự do bắt đầu thoát ra ở dạng khí từ các đại dương cách nay 3–2,7 tỉ năm, đạt đến 10% với mức như hiện nay vào khoảng 1,7 tỉ năm trước.
+Sự có mặt của một lượng lớn ôxy hòa tan và ôxy tự do trong các đại dương và trong khí quyển có thể đã thúc đẩy các sinh vật yếm khí đang sống đến bờ vực tuyệt chủng trong suốt thảm họa Ôxy cách nay khoảng 2,4 tỉ năm. Tuy nhiên, việc hô hấp của tế bào sử dụng O2 cho phép các sinh vật hiếu khí tạo ra nhiều ATP hơn sinh vật yếm khí, giúp cho sinh vật hiếu khí chiếm phần lớn trong sinh quyển Trái Đất.
+Từ khi bắt đầu kỷ Cambri cách nay 540 triệu năm, hàm O2 dao động trong khoảng 15% và 30% theo thể tích. Càng về cuối kỷ Cacbon (300 triệu năm trước) mức O2 khí quyển đạt đến giá trị lớn nhất chiếm 35% thể tích, điều này đã góp phần làm cho côn trùng và lưỡng cư có kích thước lớn vào thời điểm đó. Hoạt động của con người như đốt 7 tỉ tấn nhiên liệu hóa thạch mỗi năm đã có ảnh hưởng rất ít đến hàm lượng ôxy tự do trong khí quyển. Với tốc độ quang hợp hiện nay, có thể sẽ mất khoảng 2.000 năm để tạo ra toàn bộ O2 trong khí quyển hiện tại.
+
+
+== Ứng dụng ==
+Ôxy được sử dụng làm chất ôxy hóa, chỉ có flo có độ âm điện cao hơn nó. Ôxy lỏng được sử dụng làm chất ôxy hóa trong tên lửa đẩy. Ôxy là chất duy trì sự hô hấp, vì thế việc cung cấp bổ sung ôxy được thấy rộng rãi trong y tế. Những người leo núi hoặc đi trên máy bay đôi khi cũng được cung cấp bổ sung ôxy. Ôxy được sử dụng trong công nghệ hàn cũng như trong sản xuất thép và rượu mêtanon.
+Ôxy, như là một chất kích thích nhẹ, có lịch sử trong việc sử dụng trong giải trí mà hiện nay vẫn còn sử dụng. Các cột chứa ôxy có thể nhìn thấy trong các buổi lễ hội ngày nay. Trong thế kỷ 19, ôxy thường được trộn với nitơ ôxít để làm các chất giảm đau.
+
+
+== Lịch sử ==
+
+
+=== Những thí nghiệm sơ khai ===
+
+
+=== Thuyết Phlogiston ===
+
+
+=== Khám phá ===
+
+Ôxy được phát hiện bởi dược sĩ người Thụy Điển Carl Wilhelm Scheele năm 1772 bằng cách đun nóng oxit đồng và một hỗn hợp vài muối nitrat. Scheele gọi oxy là "khí cháy" vì nó là khí hỗ trợ sự cháy duy nhất được phát hiện lúc đó. Ông đã viết một báo cáo về phát hiện này trong một bản thảo của mình với tựa đề Treatise trên Air và Fire, sau đó gửi cho nhà xuất bản trong năm 1775. Tài liệu này sau đó được xuất bản vào năm 1777.
+Tên hệ thống nguyên tố của ôxy là octium.
+
+
+== Hợp chất ==
+Vì thế điện âm cao của nó, ôxy tạo thành các liên kết hóa học với phần lớn các nguyên tố khác (đây chính là nguồn gốc của định nghĩa nguyên thủy của từ ôxy hóa). Các nguyên tố duy nhất có thể tránh không bị ôxy hóa chỉ là một số khí trơ. Nổi tiếng nhất trong số các ôxít tất nhiên là hiđrô ôxít, hay nước (H2O). Các chất khác cũng được nhắc đến nhiều là hợp chất của cacbon và ôxy, như cacbon điôxít (CO2), các chất như rượu (R-OH), alđêhít (R-CHO), và axít cacboxylic (R-COOH). Các gốc ôxy hóa như clorat (ClO3−), peclorat (ClO4−), crômat (CrO42−), đicrômat (Cr2O72−), pemanganat (MnO4−), và nitrat (NO3−) là những chất ôxy hóa rất mạnh. Rất nhiều kim loại như sắt chẳng hạn liên kết với các nguyên tử ôxy, tạo thành ôxít sắt (III) (Fe2O3). Ôzôn (O3) được tạo thành trong quá trình phóng tĩnh điện với sự có mặt của ôxy phân tử. Ôxy phân tử đôi (O2)2 hiện nay đã biết và tìm thấy như là một phần nhỏ trong ôxy lỏng. Các êpôxít là các ête trong đó nguyên tử ôxy là một phần của vòng gồm ba nguyên tử.
+
+
+== Phòng ngừa ==
+Ôxy có thể là một chất độc khi nó có áp suất thành phần được nâng cao. Để dễ hiểu có thể giải thích nôm na là thông thường ôxy chiếm khoảng 21% thể tích của không khí. Nếu có thể tăng lượng ôxy này lên thành 50% thì không khí khi đó sẽ không tốt cho sự hô hấp.
+Một vài dẫn xuất của ôxy, như ôzôn (O3), hiđrô perôxít H2O2 (nước ôxy già), các gốc hiđrôxyl và superôxít, cũng là những chất độc mạnh. Cơ thể động vật nói chung và con người nói riêng có cơ chế để tự bảo vệ chống lại các chất độc này. Ví dụ, glutathion có nguồn gốc tự nhiên có thể phản ứng như một chất chống ôxy hóa, cũng giống như bilirubin là chất tách ra được từ hemoglobin. Các nguồn có chứa nhiều ôxy xúc tiến sự cháy nhanh và vì vậy là vật nguy hiểm về cháy nổ với sự có mặt của các nhiên liệu. Điều này cũng đúng với các hợp chất của ôxy như clorat, peclorat, đicrômat, v.v. Các hợp chất với khả năng ôxy hóa cao thông thường có thể gây ra bỏng hóa học.
+Đám cháy, đã giết chết phi hành đoàn của tàu Apollo 1 trong khi phóng thử, đã lan quá nhanh vì áp suất của ôxy nguyên chất được sử dụng khi đó là bằng áp suất khí quyển bình thường thay vì chỉ là một phần ba lẽ ra được sử dụng cho phóng thật. (Xem thêm áp suất thành phần.)
+
+
+== Điều chế ==
+
+
+==== Trong phòng thí nghiệm ====
+Trong phòng thí nghiệm, O2 được điều chế bằng cách phân hủy những hợp chất giàu ôxi và ít bền đối với nhiệt như KMnO4(rắn),KClO3 (rắn)...
+Vd:2KMnO4 → K2MnO4 + MnO2 + O2
+6CO2 + 6H2O → C6H12O6 + 6O2
+2KClO3 → 2KCl + 3O2
+2H2O2 → 2H2O + O2
+2H2O → 2H2 + O2
+Ag2O + H2O2 → 2Ag + H2O + O2
+2KI + O3 + H2O → I2 + 2KOH + O2
+5H2O2 + 2KMnO4 + 3H2SO4 → 2MnSO4 + 5O2 + K2SO4 + 8H2O
+
+
+==== Trong công nghiệp ====
+
+Hai phương pháp chính được ứng dụng để sản xuất 100 triệu tấn O2 từ không khí dùng cho công nghiệp hàng năm. Phương pháp phổ biến nhất là chưng cất phân đoạn không khí lỏng thành nhiều thành phần khác nhau như N2 ở dạng hơi trong khi O2 thì ở dạng lỏng.
+
+Phương pháp thứ hai sản xuất khí O2 liên quan đến dòng khí khô, sạch đi qua một cặp sàng phân tử giống nhau, chúng hấp thụ nitơ và giải phóng một dòng khí có từ 90% đến 93% O2. Đồng thời khí nitơ được giải phóng khỏi lớp zeolit bảo hòa nitơ bằng cách giảm áp suất vận hành của bồng và chuyển một phần khí ôxy từ lớp sản xuất đi qua nó, theo chiều dòng ngược lại. Sau một thời gian thiết lập chu kỳ hoạt động, sự vật hành của hai lớp được thay đổi cho nhau, từ đó cho phép cung cấp liên tục khí ôxy, được bơn qua đường ống. Khí ôxy thu được càng tăng bằng các công nghệ làm lạnh (xem thêm hấp thụ chân không).
+Khí ôxy cũng có thể được tạo ra qua quá trình điện phân nước thành phân tử ôxy và hydro. Phải dùng dòng điện một chiều, vì nếu dùng dòng hai chiều, khi các khí sinh ra ở một cực sẽ giải phóng đồng thời hydro và ôxy, nếu đạt đến tỷ lệ 2:1 sẽ gây nổ. Trái với quan điểm phổ biến, tỉ lệ 2:1 được quan sát trong điện phân dòng điện một chiều của nước axít hóa không chứng minh rằng công thức hóa học thực tế của nước là H2O trừ khi giả định nào đó được thực hiện về công thức phân tử của chính hydro và ôxy. Phương pháp tương tự là nung các ôxit và ôxoaxit có xúc tác của dòng điện để tạo O2. Các chất xúc tác hóa học cũng có thể được dùng như chemical oxygen generator hay oxygen candle là các chất được dùng một phần trong việc hỗ trợ sự sống được trang bị trong các tàu ngầm, và vẫn là một phần của thiết bị chuẩn trên các chuyến bay thương mại trong trường hợp khẩn khi áp suất trong khoang máy bay giảm. Một công nghệ tách khí khác liên quan đến việc làm cho khí hòa tan vào các màng sứ dự trên zirconi điôxít bằng cách hoặc tạo áp suất cao hoặc dùng dòng điện để tạo ra khí O2 gần như tinh khiết.
+Với số lượng lớn, giá của ôxy lỏng năm 2001 vào khoảng 0,21USD/kg. Vì chi phí cơ bản trong sản xuất chủ yếu là chi phí năng lượng để hóa lỏng khí, nên chi phí sản xuất sẽ thay đổi theo chi phí năng lượng.
+Vì các lý do kinh tế, ôxy thường được vận chuyển trong các bồn ở dạng lỏng đặc biệt các xe bồn cách nhiệt đặc biệt, do một lít ôxy lỏng bằng với 840 lít khí ôxy ở áp suất khí quyển và nhiệt độ 20 °C (68 °F). Các xe bồn như thế này được dùng để nạp lại ôxy lỏng, đặt nằm ngoài các bệnh viện và các việc khác cần sử dụng một lượng lớn ôxy tinh khiết. Ôxy lỏng được đi qua bộ trao đổi nhiệt để chuyển dạng lỏng đông lạnh thành khí trước khi đi vào tòa nhà. Ôxy cũng được chứa trong các bình hình trụ tròn nhỏ hơn ở dạng khí nén; một dạng chứa hữu ích trong các ứng dụng y khoa gọn nhẹ dễ vận chuyển và trong việc cắt-hàn nguyên liệu/xì hàn.
+
+
+== Xem thêm ==
+Thử nghiệm Winkler cho ôxy hòa tan để xác định lượng ôxy hòa tan trong nước sạch.
+Sự cháy.
+Ôxy hóa.
+Vai trò của ôxy như là khí thở cho thợ lặn.
+Sự suy giảm ôxy trong thủy sinh thái học.
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+
+
+== Sách tham khảo ==
+Cook, Gerhard A.; Lauer, Carol M. (1968). “Oxygen”. Trong Clifford A. Hampel. The Encyclopedia of the Chemical Elements. New York: Reinhold Book Corporation. tr. 499–512. LCCN 68-29938. 
+Emsley, John (2001). “Oxygen”. Nature's Building Blocks: An A-Z Guide to the Elements. Oxford, England, UK: Oxford University Press. tr. 297–304. ISBN 0-19-850340-7. 
+Raven, Peter H.; Evert, Ray F.; Eichhorn, Susan E. (2005). Biology of Plants (ấn bản 7). New York: W.H. Freeman and Company Publishers. tr. 115–27. ISBN 0-7167-1007-2. 
+
+
+== Liên kết ngoài ==
+Priestley Society, Dedicated to Joseph Priestley the man who discovered oxygen; Oxygen
+Website thông tin về Joseph Priestley, người phát hiện ra ôxy và thông tin về Ôxy
+Phòng thí nghiệm quốc gia LosAlamos – Ôxy
+WebElements.com – Ôxy
+EnvironmentalChemistry.com – Ôxy
+It's Elemental – Ôxy
+Oxygen Therapy – The First 150 Years
+Độc tính của ôxy
+Phòng thí nghiệm quốc gia LosAlamos – Ôxy
+Nist atomic spectra database

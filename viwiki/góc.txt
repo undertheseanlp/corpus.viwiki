@@ -1,0 +1,213 @@
+
+== Góc ==
+Trong hình học phẳng, Góc nằm giữa hai đường thẳng cắt nhau tại một điểm. Hai đường thẳng được gọi là cạnh của góc. Giao điểm của chúng gọi là đỉnh của góc. Khi hai đường thẳng song song với nhau, không cắt nhau tại điểm nào (hoặc cũng có thể hiểu là cắt nhau tại vô cực), góc giữa chúng bằng không và không có đỉnh xác định (hoặc đỉnh ở vô cực).
+Nếu lấy một vòng tròn đơn vị có tâm tại giao điểm O của hai đường thẳng và hai đường thẳng cắt vòng tròn đơn vị tại A1, A2 và B1, B2. Góc giữa hai đường thẳng sẽ là độ dài cung nối giữa Ai và Bj, với i và j bằng 1 hoặc 2 tùy theo quy ước, chia cho đơn vị độ dài để loại bỏ thứ nguyên và nhân với hằng số tỷ lệ tùy thuộc vào đơn vị đo góc.
+Trong không gian ba chiều, góc giữa hai mặt phẳng (còn được gọi là góc khối) là phần không gian giới hạn bởi hai mặt phẳng đó, được đo bằng góc giữa hai đường thẳng trên hai mặt phẳng cùng trực giao với giao tuyến của hai mặt phẳng.
+Khái niệm góc cũng được mở rộng cho đại số tuyến tính. Để loại bỏ rắc rối trong quy ước tính góc, có thể thay các đường thẳng bằng các véctơ thể hiện không chỉ độ nghiêng mà còn cả hướng. Khi tịnh tiến các véctơ về cùng tâm O và lấy một vòng tròn đơn vị tại tâm này, các véctơ sẽ chỉ cắt vòng tròn này tại hai điểm A và B. Độ lớn góc giữa hai véctơ sẽ là độ dài cung trên vòng tròn nối A và B chia cho đơn vị độ dài.
+
+
+== Đo góc ==
+Người ta thường dùng thước đo góc để đo góc. Góc thường được quy ước đo theo chiều kim đồng hồ.
+
+
+== Đơn vị đo lường của góc ==
+
+
+=== Radian ===
+
+Trong hệ đo lường quốc tế, góc được đo bằng radian. Một radian bằng 1/Pi của nửa chu vi của vòng tròn đơn vị chia cho đơn vị độ dài.
+
+  
+    
+      
+        1
+        r
+        a
+        d
+        =
+        
+          
+            1
+            π
+          
+        
+        =
+        
+          
+            1
+            180
+          
+        
+        =
+        
+          
+            1
+            3.1415
+          
+        
+        =
+      
+    
+    {\displaystyle 1rad={\frac {1}{\pi }}={\frac {1}{180}}={\frac {1}{3.1415}}=}
+  
+
+
+=== Độ ===
+
+Độ lớn của một góc cũng được đo bằng đơn vị thông dụng là độ, có ký hiệu là °. Một độ bằng 1/360 toàn bộ chu vi của vòng tròn đơn vị chia cho đơn vị độ dài.
+
+  
+    
+      
+        
+          1
+          
+            o
+          
+        
+        =
+        
+          
+            1
+            
+              2
+              π
+            
+          
+        
+        =
+        
+          
+            1
+            360
+          
+        
+        =
+        
+          
+            1
+            
+              2
+              ×
+              3.1415
+            
+          
+        
+        =
+      
+    
+    {\displaystyle 1^{o}={\frac {1}{2\pi }}={\frac {1}{360}}={\frac {1}{2\times 3.1415}}=}
+  
+Độ dược chia thành Phút, Giây như sau
+1 Độ = 60 Phút
+1 Phút = 60 Giây
+
+
+== Các loại góc ==
+
+
+== Đại số tuyến tính ==
+Trong đại số tuyến tính; góc g; nằm giữa hai véctơ, v1 và v2, được định nghĩa qua phép nhân vô hướng của hai véctơ:
+
+  
+    
+      
+        c
+        o
+        s
+        (
+        g
+        )
+        =
+        
+          
+            
+              
+                v
+                
+                  1
+                
+              
+              .
+              
+                v
+                
+                  2
+                
+              
+            
+            
+              
+                |
+              
+              
+                v
+                
+                  1
+                
+              
+              
+                |
+              
+              
+                |
+              
+              
+                v
+                
+                  2
+                
+              
+              
+                |
+              
+            
+          
+        
+      
+    
+    {\displaystyle cos(g)={\frac {v_{1}.v_{2}}{|v_{1}||v_{2}|}}}
+  
+Với
+"." là phép nhân vô hướng hai vecto
+|vi| là độ lớn của véctơ
+cos(g) là hàm cos của góc g.
+Khi hai véctơ trực giao, góc giữa chúng là góc vuông, thì:
+v1. v2 == 0
+
+
+== Tia phân giác ==
+Tia phân giác của góc là tia nằm giữa hai cạnh của góc và tạo với hai cạnh ấy hai góc bằng nhau. Nó là quỹ tích của các điểm cách đều hai cạnh của góc.
+
+
+== Biến thay thế góc ==
+Giống như giá trị số, số đo góc cũng đó biến thế: α (alpha), β (beta), γ (gamma), δ (delta), ε (epsilon), ζ (zeta), η (eta), θ (theta), ι (iota), κ (kappa), Λ (lambda), μ (mu), ν (nu), ξ (xi), ο (omicron), ρ (rho), τ (tau), υ (upsilon), φ (phi), χ (chi), ψ (psi) và ω (omega).
+
+
+== Các tính chất của góc. ==
+Số đo góc bé không vượt quá 180o. Mỗi góc chỉ có một số đo.
+Một tia cũng là một góc và có số đo là 0 độ.
+Nếu tia OA nằm giữa Oz và Oy thì A nằm trong góc zOy.
+Nếu tia Oa nằm giữa Ox và Oy thì: xOa + aOy = xOy.
+Tia phân giác Oa của góc xOy khi:
+(1) Oa nằm giữa Ox và Oy (xOa + aOy = xOy)
+(2) Hai góc được chia ra bởi tia bằng nhau (xOa = aOy).
+Hai góc kề nhau là hai góc có cạnh chung.
+Hai góc phụ nhau có tổng số đo là góc vuông.
+Hai góc bù nhau có tổng số đo là góc bẹt.
+Hai góc kề bù là hai góc vừa kề nhau vừa bù nhau.
+Hai tia đối nhau là góc bẹt.
+
+
+== Xem thêm ==
+Góc khối
+Bài toán chia ba một góc
+
+
+== Liên kết ngoài. ==
+Góc tại Từ điển bách khoa Việt Nam Góc lượng giác tại Từ điển bách khoa Việt Nam Góc đa diện tại Từ điển bách khoa Việt Nam
+Angle trên PlanetMath.
+Weisstein, Eric W., "Angle" từ MathWorld.
+
+
+== Chú thích ==

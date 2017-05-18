@@ -1,0 +1,9 @@
+Trong hệ thống đo lường quốc tế, Kelvin là một đơn vị đo lường cơ bản cho nhiệt độ. Nó được ký hiệu bằng chữ K. Mỗi độ K trong nhiệt giai Kenvin (1K) bằng một độ trong nhiệt giai Celsius (1 °C) và 0 °C ứng với 273,15K. Thang nhiệt độ này được lấy theo tên của nhà vật lý, kỹ sư người Ireland William Thomson, nam tước Kelvin thứ nhất.
+Nhiệt độ trong nhiệt giai Kelvin đôi khi còn được gọi là nhiệt độ tuyệt đối, do 0K ứng với nhiệt độ nhỏ nhất mà vật chất có thể đạt được. Tại 0K, trên lý thuyết, mọi chuyển động nhiệt hỗn loạn đều ngừng. Thực tế chưa quan sát được vật chất nào đạt tới chính xác 0K; chúng luôn có nhiệt độ cao hơn 0K một chút, tức là vẫn có chuyển động nhiệt hỗn loạn ở mức độ nhỏ. Ngay cả những trạng thái vật chất rất lạnh như ngưng tụ Bose-Einstein cũng có nhiệt độ lớn hơn 0K. Quan sát này phù hợp với nguyên lý bất định Heisenberg; nếu vật chất ở chính xác 0K, luôn tìm được hệ quy chiếu trong đó vận tốc chuyển động của chúng là 0 và vị trí không thay đổi, nghĩa là đo được chính xác cùng lúc vị trí và động lượng của hệ, vi phạm nguyên lý bất định. Nhiệt độ của hơi nước đang sôi là 373,15K. Hay nói cách khác định nghĩa Kelvin (K) là 1/273,16 của nhiệt độ nhiệt động lực học của điểm ba (điểm ba thể hay điểm ba pha) của nước (1967).
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Bureau International des Poids et Mesures (2006). “The International System of Units (SI) Brochure” (PDF). 8th Edition. International Committee for Weights and Measures. Truy cập ngày 6 tháng 2 năm 2008.

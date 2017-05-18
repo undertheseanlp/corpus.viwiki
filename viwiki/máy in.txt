@@ -1,0 +1,90 @@
+Máy in là một thiết bị dùng để thể hiện ra các chất liệu khác nhau các nội dung được soạn thảo hoặc thiết kế sẵn.
+
+
+== Máy in văn phòng ==
+Máy in dùng trong văn phòng bao gồm nhiều thể loại và công nghệ khác nhau. Thông dụng nhất và chiếm phần nhiều nhất hiện nay trên thế giới là máy in ra giấy và sử dụng công nghệ lade.
+Đa phần các máy in được sử dụng cho văn phòng, chúng được nối với một máy tính hoặc một máy chủ dùng in chung. Một phần khác máy in được nối với các thiết bị công nghiệp dùng để trang trí hoa văn sản phẩm, in nhãn mác trên các chất liệu riêng.
+
+
+=== Máy in laser ===
+
+Máy in sử dụng công nghệ la de (Tiếng Anh: laser) là các máy in dùng in ra giấy, hoạt động dựa trên nguyên tắc dùng tia la de để chiếu lên một trống từ, trống từ quay qua ống mực (có tính chất từ) để mực hút vào trống, giấy chuyển động qua trống và mực được bám vào giấy, công đoạn cuối cùng là sấy khô mực để mực bám chặt vào giấy trước khi ra ngoài.
+Máy in lade có tốc độ in thường cao hơn các loại máy in khác, chi phí cho mỗi bản in thường tương đối thấp.
+Máy in lade có thể in đơn sắc (đen trắng) hoặc có màu sắc.
+
+
+=== Máy in kim ===
+
+Máy in kim sử dụng các kim để chấm qua một băng mực làm hiện mực lên trang giấy cần in.
+Máy in kim đã trở thành lạc hậu do các nhược điểm: In rất chậm, độ phân giải của bản in rất thấp (chỉ in được thể loại chữ, không thể in được tranh ảnh) và khi làm việc chúng rất ồn.
+Ngày nay máy in kim chỉ còn xuất hiện tại các cửa hàng, siêu thị để in các hoá đơn như một thiết bị nhỏ gọn cho các bản in chi phí thấp.
+
+
+=== Máy in phun ===
+
+Máy in phun hoạt động theo theo nguyên lý phun mực vào giấy in (theo đúng tên gọi của nó). Mực in được phun qua một lỗ nhỏ theo từng giọt với một tốc độ lớn (khoảng 5000 lần/giây) tạo ra các điểm mực đủ nhỏ để thể hiện bản in sắc nét.
+Đa số các máy in phun thường là các máy in màu (có kết hợp in được các bản đen trắng). Để in ra màu sắc cần tối thiểu 3 loại mực. Các màu sắc được thể hiện bằng cách pha trộn ba màu cơ bản với nhau.
+Trước đây các hộp mực màu của máy in phun thường được thiết kế cùng khối, tuy nhiên nếu in nhiều bản in thiên về một màu nào đó sẽ dẫn đến hiện tượng có một màu hết trước, để tiếp tục in cần thay hộp mực mới nên gây lãng phí đối với các màu còn lại chưa hết. Ngày nay các hộp màu được tách riêng biệt và tăng số lượng các loại màu để phối trộn (nhiều hơn 3 màu - không kể đến hộp màu đen) sẽ cho bản in đẹp hơn, giảm chi phí hơn trước.
+So sánh trong các thể loại máy in thì máy in phun thường có chi phí trên mỗi bản in lớn nhất. Các máy in phun thường có giá thành thấp (hơn máy in la de) nhưng các hộp mực cho máy in phun lại có giá cao, số lượng bản in trên bộ hộp mực thấp.
+
+
+=== Máy in hóa đơn ===
+Máy in hoá đơn được chế tạo nhằm mục đích in hoá đơn bằng giấy cuộn in hóa đơn, có khổ nhỏ cỡ khoảng từ 76mm – 80mm vừa đủ để in ra danh sách các món hàng và giá cả. Có thể in được nhiều Ply và cắt giấy tự động sau khi in để giao cho khách hàng một cách mau lẹ.
+
+
+== Kết nối với thiết bị khác ==
+Để thực hiện việc in ra các chế bản, máy in cần được kết nối với máy tính hoặc qua mạng máy tính hoặc thông qua các kiểu truyền dữ liệu khác.
+Kết nối với máy tính
+Máy in có thể kết nối với máy tính qua cổng LPT truyền thống hoặc các cổng USB (đa số các máy in hiện nay đều có khả năng kết nối với cổng USB của máy tính).
+Kết nối với mạng máy tính
+Máy in có thể được kết nối với mạng máy tính thông qua cổng RJ45 để chia sẻ in chung trong một mạng LAN (hoặc có thể là mạng WAN rộng lớn hơn).
+Các kiểu kết nối khác
+Một số máy in hiện nay đã hỗ trợ truyền dữ liệu thông qua bluetooth hoặc Wi-fi, điều này tạo thuận lợi cho việc in ấn từ các thiết bị di động, máy ảnnh số vốn rất phổ biến hiện nay.
+
+
+== Thiết bị đa năng ==
+Ngày nay với xu hướng tích hợp nhiều công nghệ trong một (All-in-one) chức năng in ấn cùng các tính năng khác có thể tích hợp thành một thiết bị văn phòng hoàn chỉnh. Ví dụ kết hợp chức năng in ấn, chức năng photocopy, chức năng scan, chức năng gửi và nhận fax, điện thoại... Có thể cùng có mặt trên một thiết bị mà người ta khó có thể đặt tên chính cho nó hoàn toàn theo một chức năng nào.
+
+
+== Máy in công nghiệp ==
+Khác với các máy in văn phòng phục vụ cho nhu cầu in số lượng ít nên có chi phí đầu tư thấp, giá thành sản phẩm in cao, các máy in công nghiệp được chế tạo ra cho mục đích in phổ cập với số lượng lớn, giá thành sản phẩm in thấp nhưng đòi hỏi chi phí đầu tư cao hơn.
+
+
+=== Máy in lụa ===
+
+In lụa hay in lưới dựa trên nguyên lý chỉ một phần mực in được thấm qua lưới in, in lên vật liệu in bởi trước đó, một số mắt lưới khác đã được bịt kín bởi hóa chất chuyên dùng.
+
+
+=== Máy in typo ===
+
+Máy in typo sử dụng công nghệ in cao, trong đó các phần tử in nằm cao hơn các phần không in trên khuôn in typo sẽ nhận mực khi ta chà xát mực và được truyền lên vật liệu in (giấy) khi in.
+Trong các máy in typo thế kỷ 20, phần tử in này thường được sử dụng bằng các khuôn chữ chì.
+
+
+==== Máy in flexo ====
+
+In flexo (bắt nguồn từ chữ flexible-mềm dẻo) là in typo sử dụng khuôn in là các chất dẻo tạo thành từ quá trình phơi quang hóa. In flexo thường được sử dụng để in nhãn mác đề can, thùng các tông.
+Mực in được cấp cho khuôn in nhờ trục anilox, là một trục kim loại, bề mặt được khắc lõm nhiều ô nhỏ. Trục anilox được nhúng một phần trong máng mực, mực sẽ lọt vào các ô trên bề mặt trục, phần mực nằm trên bề mặt sẽ được dao gạt mực gạt đi. Khuôn in (thường làm bằng nhựa photopolymer, bản in được chế tạo bằng quang hóa, CTP-trực tiếp từ máy tính hoặc khắc laser) sẽ tiếp xúc với trục và nhận mực từ trong các ô trên bề mặt trục in. Hình ảnh trên khuôn in là ngược chiều.
+
+
+=== Máy in offset ===
+
+Máy in offset sử dụng kỹ thuật in ấn trong đó, các hình ảnh có dính mực in được ép lên các tấm cao su rồi sau đó mới ép từ miếng cao su này lên giấy.
+
+
+=== Máy in ống đồng ===
+
+Máy in ống đồng sử dụng kỹ thuật in lõm: các phần tử in được khắc lõm vào bề mặt kim loại. Mực được cấp lên bề mặt khuôn in tràn vào các chỗ lõm của phần tử in, dao gạt gạt mực thừa ra khỏi bề mặt khuôn in. Khi ép in, mực trong các chỗ lõm dưới áp lực in sẽ truyền sang bề mặt vật liệu in.
+Khuôn in ống đồng là một trục kim loại bằng thép, bề mặt được mạ một lớp đồng mỏng. Phần tử in được khắc lên bề mặt lớp đồng này nhờ axít hoặc dùng máy khắc trục. Sau đó bề mặt lớp đồng được mạ một lớp crôm mỏng để bảo vệ.
+
+
+== Xem thêm ==
+Phối màu phát xạ
+In offset
+Máy in thẻ
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

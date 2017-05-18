@@ -1,0 +1,19 @@
+Thang độ cứng Mohs đặc trưng cho tính chất chống lại vết trầy xước trên những khoáng vật khác nhau dựa trên tính chất: khoáng vật có độ cứng lớn hơn sẽ làm trầy khoáng vật có độ cứng nhỏ hơn. Nó được nhà khoáng vật học người Đức Friedrich Mohs đưa ra vào năm 1812 và là một trong những thang đo độ cứng trong khoa học.
+Mohs dựa trên mười loại khoáng vật đã có sẵn, ngoại trừ kim cương. Độ cứng của vật liệu được đo bằng cách tìm hai loại vật liệu mà nó có thể làm trầy được và bị làm trầy. Ví dụ: nếu một vật liệu nào đó bị apatit (có độ cứng là 5) làm trầy xước nhưng không bị làm trầy bởi đá fluorit (có độ cứng là 4), thì độ cứng trong thang Mohs sẽ là 4,5.
+Thang đo độ cứng Mohs là một thang độ cứng tương đối. Nếu như corundum (độ cứng là 9) chỉ có độ cứng gấp đôi topaz (độ cứng là 8) thì kim cương (độ cứng là 10) lại có độ cứng gấp 4 lần corundum.
+
+
+== Thang cơ bản ==
+Bảng sau đây cho thấy độ cứng của 10 khoáng vật cơ bản.
+Theo như thang độ cứng Mohs, móng tay có độ cứng là 2.5, đồng xu bằng đồng có độ cứng 3.5; một lưỡi dao là 5.5; thủy tinh cửa sổ là 5.5, một thanh thép là 6.5. Sử dụng những vật liệu có độ cứng đã được biết trước sẽ cho chúng ta biết chính xác vị trí của vật liệu trên thang đo Mohs.
+
+
+== Thang sửa đổi ==
+Thang độ cứng Mohs có thể được sửa đổi để tính thêm các vật liệu có độ cứng nằm giữa các vật liệu cơ bản. Dưới đây là thang độ cứng sửa đổi của một số vật liệu thường gặp từ http://www.amfed.org/t_mohs, trang web của Hội Khoáng vật học Hoa Kỳ.
+
+
+== Xem thêm ==
+Độ cứng
+
+
+== Tham khảo ==

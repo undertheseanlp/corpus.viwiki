@@ -1,0 +1,28 @@
+Australian Plant Name Index (bằng tiếng Anh, viết tắt: APNI) là cơ sở dữ liệu trực tuyến chứa tất cả các tên gọi đã được xuất bản dành cho thực vật có mạch tại Úc. APNI có tất cả các tên gọi, cho dù đó là tên hiện hành, tên đồng nghĩa hay tên sai, đồng thời có thông tin về thư mục (các xuất bản phẩm liên quan), thông tin từ Census of Australian Vascular Plants (phân bố thực vật theo tiểu bang), liên kết đến các nguồn khác,...
+
+
+== Tổng quan ==
+Australian Plant Name Index được Phòng mẫu cây [Quốc gia] Úc công nhận là nguồn chính thống về danh pháp thực vật học của Úc. Đây là thành tố cốt lõi của Phòng mẫu cây Ảo Úc (Australia's Virtual Herbarium) - một dự án cộng tác với ngân quỹ 10 triệu đô la Úc, có mục đích cung cấp quyền truy cập trực tuyến đến dữ liệu và các bộ sưu tập mẫu vật của các phòng mẫu cây lớn của Úc.
+APNI cung cấp hai loại giao diện để truy vấn thông tin:
+Australian Plant Name Index (APNI): truy vấn đầy đủ, cung cấp đầy đủ kết quả, không tự động diễn giải
+What's Its Name (WIN): không mạnh bằng giao diện trên, cung cấp kết quả chính xác, tự động diễn giải thông tin (không phải lúc nào cũng đúng).
+Ban đầu APNI vốn dĩ là sản phẩm trí óc của Nancy Tyson Burbidge, ban đầu được xuất bản dưới dạng bản in gồm bốn tập, 3.055 trang với trên 60.000 tên gọi thực vật. Sách được tổng hợp bởi nhà thực vật học Arthur Chapman và là một phần của Australian Biological Resources Study (ABRS). Năm 1991, nó trở thành cơ sở dữ liệu trực tuyến và được giao cho Các vườn thực vật Quốc gia Úc (Australian National Botanic Gardens). Hai năm sau, Trung tâm Nghiên cứu Đa dạng sinh học Thực vật (Centre for Plant Biodiversity Research) đảm nhận nhiệm vụ duy trì cơ sở dữ liệu này.
+
+
+== Xem thêm ==
+The Plant List
+Index Kewensis
+International Plant Names Index
+Danh pháp thực vật học
+
+
+== Tham khảo ==
+
+“Australian Plant Name Index”. Bản gốc lưu trữ ngày 3 tháng 9 năm 2007. Truy cập ngày 9 tháng 9 năm 2007. 
+“The Australian Plant Name Index: an on-line resource of Australian plant names, and What's Its Name ?”. Bản gốc lưu trữ ngày 3 tháng 9 năm 2007. Truy cập ngày 9 tháng 9 năm 2007. 
+Chapman, Arthur (1991). Australian Plant Name Index (Australian Flora and Fauna Series 12—15). Canberra: Dịch vụ In ấn Chính phủ Úc. 
+
+
+== Liên kết ngoài ==
+Website chính thức của Australian Plant Name Index (APNI) (tiếng Anh)
+What's Its Name (WIN) (tiếng Anh)

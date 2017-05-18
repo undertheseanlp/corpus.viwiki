@@ -1,0 +1,18 @@
+Phản ứng oxi hóa khử bao gồm tất cả các phản ứng hóa học trong đó các nguyên tử có trạng thái oxi hóa thay đổi, phản ứng oxi hóa khử thường liên quan đến việc chuyển giao điện tử (electron) giữa các đối tượng hóa học.
+Có quá trình oxi hóa khử đơn giản, chẳng hạn như quá trình oxi hóa của cacbon tạo ra khí cacbon dioxit (CO2) hay sự khử cacbon bằng hydro sinh ra khí mêtan (CH4), hoặc cũng có thể là một quá trình phức tạp như việc oxi hóa glucoza (C6H12O6) trong cơ thể người thông qua một loạt quá trình phức tạp di chuyển các điện tử.
+Thuật ngữ "oxi hóa khử" xuất phát từ hai khái niệm liên quan đến việc di chuyển các điện tử: sự khử và sự oxi hóa. Nó có thể được giải thích một cách đơn giản như sau:
+Quá trình oxi hóa là sự mất đi các điện tử hoặc sự tăng trạng thái oxi hóa gây ra bởi một phân tử, nguyên tử, hoặc ion.
+Quá trình khử là sự tăng thêm các điện tử hoặc sự giảm trạng thái oxi hóa gây ra bởi một phân tử, nguyên tử, hoặc ion.
+
+
+== Chất oxi hóa ==
+Chất có khả năng oxi hóa các chất khác (làm cho chúng mất các điện tử) được gọi là chất oxi hóa. Các chất này loại bỏ các điện tử của một chất khác, nên được gọi là "khử".
+Chất oxi hóa thường là các chất hóa học có trạng thái oxi hóa cao (ví dụ như H2O2, MnO−4, CrO3, Cr2O2−7, OsO4 NO−3, SO2−4, ) hay chứa các nguyên tố có độ âm điện cao (như O2, F2, Cl2, Br2) nên dễ lấy được các điện tử bằng cách oxi hóa chất khác.
+
+
+== Chất khử ==
+Chất có khả năng khử chất khác (làm cho chúng nhận các điện tử) được gọi là chất khử. Chúng chuyển điện tử cho một chất khác, và do đó tự nó bị oxi hóa.
+Chất khử trong hóa học rất đa dạng. Những nguyên tố kim loại điện dương như liti, natri, magiê, sắt, kẽm, nhôm… là những tác nhân khử tốt. Các kim loại này cho đi điện tử một cách dễ dàng. Các chất chuyển hydrit như NaBH4 và LiAlH4 được sử dụng rộng rãi trong hóa học hữu cơ, chủ yếu trong việc khử các hợp chất cacbonyl để tạo ra rượu. Một phương pháp khử khác kết hợp việc sử dụng khí hydro (H2) với những chất xúc tác paladi, bạch kim hoặc niken. Việc khử dùng xúc tác được sử dụng chủ yếu trong việc khử liên kết đôi hoặc ba nguyên tử cacbon.
+
+
+== Tham khảo ==

@@ -1,0 +1,263 @@
+Mô đun cắt hay Modul ngang (Shear modulus), Modul trượt, Modul độ cứng (modulus of rigidity), ký hiệu thường gặp là G, đôi khi ký hiệu là S hoặc μ, trong khoa học vật liệu được định nghĩa là tỉ số của ứng suất cắt với các biến dạng trượt:
+
+  
+    
+      
+        G
+         
+        
+          
+            
+              
+                =
+              
+              
+                
+                  d
+                  e
+                  f
+                
+              
+            
+          
+        
+         
+        
+          
+            
+              τ
+              
+                x
+                y
+              
+            
+            
+              γ
+              
+                x
+                y
+              
+            
+          
+        
+        =
+        
+          
+            
+              F
+              
+                /
+              
+              A
+            
+            
+              Δ
+              x
+              
+                /
+              
+              l
+            
+          
+        
+        =
+        
+          
+            
+              F
+              l
+            
+            
+              A
+              Δ
+              x
+            
+          
+        
+      
+    
+    {\displaystyle G\ {\stackrel {\mathrm {def} }{=}}\ {\frac {\tau _{xy}}{\gamma _{xy}}}={\frac {F/A}{\Delta x/l}}={\frac {Fl}{A\Delta x}}}
+  
+trong đó
+
+  
+    
+      
+        
+          τ
+          
+            x
+            y
+          
+        
+        =
+        F
+        
+          /
+        
+        A
+        
+      
+    
+    {\displaystyle \tau _{xy}=F/A\,}
+   = Ứng suất cắt;
+
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   là lực tác động
+
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   là diện tích chịu tác động
+trong vùng tác động: 
+  
+    
+      
+        
+          γ
+          
+            x
+            y
+          
+        
+        =
+        Δ
+        x
+        
+          /
+        
+        l
+        =
+        tan
+        ⁡
+        θ
+        
+      
+    
+    {\displaystyle \gamma _{xy}=\Delta x/l=\tan \theta \,}
+   = Biến dạng trượt. Ở những nơi khác: 
+  
+    
+      
+        
+          γ
+          
+            x
+            y
+          
+        
+        =
+        θ
+      
+    
+    {\displaystyle \gamma _{xy}=\theta }
+  
+
+  
+    
+      
+        Δ
+        x
+      
+    
+    {\displaystyle \Delta x}
+   là độ dịch chuyển ngang
+
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+   là độ dài ban đầu.
+Đơn vị tính của Modul ngang trong hệ SI là pascal (Pa), và thường được biểu diễn với megapascal (MPa) hoặc gigapascal (GPa), hoặc ngàn bảng Anh cho mỗi inch vuông (KSI). Modul ngang luôn luôn là dương, có thứ nguyên là M1L−1T−2.
+
+
+== Giải thích ==
+Module cắt là một trong số đại lượng để đo độ cứng của vật liệu. Tất cả chúng phát sinh theo Định luật Hooke tổng quát:
+Mô đun Young mô tả phản ứng của vật liệu trước lực căng dọc một trục (như kéo ở một đầu của một sợi dây, hoặc đặt một vật nặng lên đỉnh một cột)
+Mô đun khối mô tả phản ứng của vật liệu trước áp lực đẳng áp (như áp lực ở đáy đại dương hoặc hồ bơi sâu)
+Mô đun cắt mô tả phản ứng của vật liệu trước lực đẩy ngang (như cắt bằng kéo cùn).
+Mô đun cắt có liên quan với sự biến dạng của một chất rắn khi chịu tác động một lực song song với bề mặt này, trong khi mặt đối lập của nó chịu một lực đối lập (như ma sát). Trong trường hợp khối vật liệu có dạng giống như một hình lăng trụ chữ nhật, nó sẽ biến dạng thành một hình hộp.
+Các vật liệu bất đẳng hướng như gỗ, giấy và cũng như về cơ bản là tất cả các tinh thể đơn lẻ, thể hiện các phản ứng khác nhau khi được thử nghiệm theo các hướng khác nhau. Khi đó có thể phải sử dụng biểu diễn ten xơ (tensor) toàn phần của các hằng số đàn hồi, chứ không phải là một giá trị vô hướng đơn nhất.
+Các chất lưu là vật liệu không có mô đun cắt.
+
+
+== Các quá trình sóng ==
+Trong môi trường chất rắn đồng nhất và đẳng hướng có hai loại sóng cơ học truyền qua được, là sóng dọc P (sóng áp suất) và sóng ngang S (sóng cắt). Tốc độ truyền của sóng ngang, 
+  
+    
+      
+        (
+        
+          v
+          
+            s
+          
+        
+        )
+      
+    
+    {\displaystyle (v_{s})}
+   được xác định bởi mô đun cắt,
+
+  
+    
+      
+        
+          v
+          
+            s
+          
+        
+        =
+        
+          
+            
+              G
+              ρ
+            
+          
+        
+      
+    
+    {\displaystyle v_{s}={\sqrt {\frac {G}{\rho }}}}
+  
+trong đó
+G là mô đun cắt,
+
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   là mật độ của chất rắn.
+
+
+== Mô đun cắt của các kim loại ==
+
+
+== Xem thêm ==
+Hệ số Poisson
+Mô đun Young
+Mô đun khối
+Mô đun sóng P
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

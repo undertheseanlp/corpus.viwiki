@@ -1,0 +1,19 @@
+Bức xạ mặt trời là dòng vật chất và năng lượng của Mặt Trời phát ra. Đây chính là nguồn năng lượng chính cho các quá trình phong hóa, bóc mòn, vận chuyển, bồi tụ trên Trái Đất, cũng như chiếu sáng và sưởi ấm cho các hành tinh trong hệ Mặt Trời.
+
+
+== Bức xạ hạt ==
+Bức xạ hạt hay còn gọi là gió Mặt Trời chủ yếu gồm các proton và electron. Đa phần thì chúng có hại cho các sinh vật, nhưng Trái Đất đã có tầng ozone bao phủ ngăn được phần nào ảnh hưởng có hại.
+Năng lượng bức xạ hạt của Mặt Trời thường thấp hơn năng lượng bức xạ nhiệt 107 lần, và thâm nhập vào tầng khí quyển không quá 90 km. Khi đến gần Trái Đất, nó có vận tốc tới 300-1.525 km/s và mật độ 5-80 ion/cm³
+
+
+== Bức xạ điện từ ==
+Bức xạ điện từ có hai dạng: bức xạ trực tiếp và bức xạ khuếch tán. Có bước sóng khá rộng từ bức xạ gamma đến sóng vô tuyến với năng lượng cực đại ở vùng quang phổ khả kiến. Đây chính là nguồn năng lượng chủ yêu để chiếu sáng và duy trì các hoạt động sinh hóa trên Trái Đất. Khi qua khí quyển Trái Đất, các bức xạ sóng ngắn có hại cho sự sống gần như bị tầng ozone hấp thụ hoàn toàn. Ngày nay do công nghiệp phát triển, các chất CFC thải vào khí quyển đang huỷ hoại dần dần tầng ozone, tạo ra nguy cơ bức xạ sóng ngắn sẽ tiêu diệt sự sống trên Trái Đất.
+
+
+== Năng lượng bức xạ Mặt trời ==
+Năng lượng bức xạ Mặt trời thường biểu diễn bằng cal/cm².phút
+Năng lượng bức xạ Mặt trời ở gần Trái Đất ở vào khoảng 2 cal/cm².phút (hằng số mặt trời), có phổ nằm trong dải bước sóng 0,17-4 μm với cực đại ở khoảng 0,475 μm.
+Toàn bộ Trái Đất nhận được từ Mặt Trời 2,4.1018 cal/phút, gồm 48% năng lượng thuộc dải phổ ánh sáng khả kiến (λ = 0,4-0,76 μm), 7% tia cực tím (λ < 0,4 μm) và 45% thuộc dải phổ hồng ngoại và sóng vô tuyến (λ > 0,76 μm).
+
+
+== Tham khảo ==

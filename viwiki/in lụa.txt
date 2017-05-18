@@ -1,0 +1,100 @@
+In lụa là một dạng trong kỹ thuật in ấn. In lụa là tên thông dụng do giới thợ đặt ra xuất phát từ lúc bản lưới của khuôn in làm bằng tơ lụa. Sau đó, khi mà bản lưới lụa có thể thay thế bởi các vật liệu khác như vải bông, vải sợi hóa học, lưới kim loại để làm thì tên gọi được mở rộng như là in lưới.
+
+In lụa thực hiện theo nguyên lý giống như in mực dầu trên giấy nến theo nguyên lý chỉ một phần mực in được thấm qua lưới in, in lên vật liệu in bởi trước đó, một số mắt lưới khác đã được bịt kín bởi hóa chất chuyên dùng.
+Kỹ thuật này có thể áp dụng cho nhiều vật liệu cần in như nilông, vải, thủy tinh, mặt đồng hồ, mạch điện tử, một số sản phẩm kim loại, gỗ, giấy... hoặc sử dụng thay cho phương pháp vẽ dưới men trong sản xuất gạch men.
+
+
+== Lịch sử ==
+Kỹ thuật này được Châu Âu sử dụng vào năm 1925 với việc in trên giấy, bìa, thuỷ tinh, tấm kim loại, vải giả da....
+Nhưng, hơn 1000 năm trước "người ta phát minh ra rằng sợi tơ khi kéo căng trên một khung gỗ, với hình ảnh khuôn tô gắn phía dưới khung bằng keo hồ có thể dùng để sao chép các hình ảnh nhiều lần trên nhiều vật liệu khác nhau bằng cách phết mực xuyên qua các lỗ tròn khuôn tụ".
+Những công trình nghiên cứu sử dụng vải tơ làm lưới in sau đó được tiến hành tại Pháp và Đức trong khoảng thập niên 1870. Sau đó tại Anh Quốc, vào năm 1907, Samuel Simon đã sáng chế ra quá trình làm lưới bằng các sợi tơ. Năm 1914, tại San Francisco, California, phương pháp in lưới nhiều màu được John Pilsworth phát triển.
+
+
+== Phân loại kỹ thuật in lụa ==
+Theo cách thức sử dụng khuôn in, có thể gọi tên in lụa theo các kiểu sau:
+In lụa trên bàn in thủ công
+In lụa trên bàn in có cơ khí hóa một số thao tác
+In lụa trên máy in tự động
+Theo hình dạng khuôn in, có thể phân làm 2 loại:
+In dùng khuôn lưới phẳng
+In dùng khuôn lưới tròn kiểu thùng quay
+Theo phương pháp in, có tên gọi:
+In trực tiếp: là kiểu in trên sản phẩm có màu nền trắng hoặc màu nhạt, màu nền không ảnh hưởng đến màu in
+In phá gắn: là kiểu in trên sản phẩm có nền màu, mực in phải phá được màu của nền và gắn được màu cần in lên sản phẩm, và
+In dự phòng: là in trên sản phẩm có màu nhưng không thể dùng kiểu in phá gắn được
+
+
+== Kỹ thuật ==
+
+Cho dù in thủ công, bán thủ công hay thực hiện bằng máy thì kỹ thuật in lụa cũng bao gồm những công đoạn chính như sau: làm khuôn in; chế tạo bàn in, dao gạt; pha chế chất tạo màu, hồ in; và in.
+
+
+=== Làm khuôn in ===
+Khuôn in có thể làm bằng gỗ hay kim loại, trên đó được căng tấm lưới đã tạo những lỗ trống để mực in có thể chảy qua trong quá trình in. Quá trình tạo những lỗ trống được gọi là "chuyển hình ảnh cần in" lên khuôn lưới. Thời gian đầu thợ in thường dùng phương pháp chuyển trực tiếp bằng cách vẽ lên lớp nến trắng, vẽ trên lớp đất sét hay vẽ lên lớp dầu bóng nhưng về sau người ta thường dùng hơn với phương pháp gián tiếp như là vẽ trên giấy nến hoặc là ngày nay đa số đều dùng phương pháp cảm quang.
+Vẽ trên lớp nến trắng là kỹ thuật tạo lỗ trống của lưới in bằng cách dùng bút gỗ hoặc tre khắc hoa văn lên một tấm lưới đã được nhúng vào dung môi nến nóng chảy và làm nguội.
+Vẽ trên lớp đất sét là kỹ thuật tạo lỗ trống của lưới in bằng cách dùng bút gỗ, tre hoặc kim nhọn khắc, đục lỗ theo hình dạng hoa văn trên một tấm lưới đã được nhúng vào hồ đất sét đã làm khô.
+Vẽ trên lớp dầu bóng là kỹ thuật tạo lỗ trống của lưới in bằng cách dùng bút lông vẽ hình dạng hoa văn trên một tấm lưới đã được quét một lớp dầu bóng và làm khô. Sau khi vẽ nhiều lần sẽ tạo những lỗ trống cần thiết trên bề mặt lưới.
+Vẽ trên giấy nên là phương pháp gián tiếp để tạo những lỗ trống trên bề mặt lưới in. Dùng dao "khắc" hình trên giấy nến để tạo những khoảng trống cần thiết, úp mặt giấy nến đã khắc lên lưới và dùng bản ủi làm nóng chảy nến. Sau khi để nguội, những chỗ không cần thiết sẽ được nến bít lại.
+Ngày nay, phương pháp cảm quang được xem như là phương pháp tiến bộ trong việc chế tạo bản in. Với phương pháp này có thể sao chép lại các tác phẩm nghệ thuật mà vẫn giữ được tính chân thực về đường nét của nó.
+Những bản in được họa sĩ vẽ mẫu thiết kế, thiết kế trên máy tính hoặc tách màu từ một tấm ảnh trên máy tính rồi in ra trên giấy can, mỗi màu được tách sẽ làm một phim tương ứng, phim sau đó được chuyển tải lên tấm lưới. Thao tác đó gọi là chụp bản.
+Công đoạn chụp bản được tiến hành trong buồng tối, phim đặt lên bản lưới cùng chiều với mẫu in thật, rọi đèn. Ánh sáng của đèn sẽ xuyên qua phim và đập lên lưới. Vì lưới trước đó đã được quét phủ dung dịch cảm quang nên chỉ những chỗ không bị cản bởi mực sẽ đóng rắn dưới tác dụng ánh sáng. Khi mang bản đi rửa, những chỗ không bị chiếu sáng sẽ bị rửa trôi tạo thành những khoảng trống, khi in mực in sẽ lọt qua những chỗ trống này và bắt vào sản phẩm cần in.
+Việc lựa chọn lưới in đóng vai trò quyết định đến chất lượng in ấn, nhất là độ mịn độ nét của hình ảnh cần in. Các thông số quan trong của lưới là độ mịn của lưới (ký hiệu N(chỉ số) hay T(chỉ số)) và tỷ lệ đường kính sợi lưới và chiều rộng mắt lưới. Thí dụ lưới ký hiệu T40 hay N40 có nghĩa là lưới này có 40 sợi/cm và 1600lỗ/cm2. Khi in trên giấy, thông thường chọn lưới có ký hiệu T90 - T140; khi in bao bì PVC: T120-T180; khi in vải T30-T100...
+Những dung dịch cảm quang thường dùng trong in lưới đó là dung dịch keo Crom-Gelatin hoặc dung dịch Crom-PVA:
+Dung dịch Keo Crom-Gelatin được chế tạo từ NH4)2Cr2O7 (amoni đicromat) hoặc K2Cr2O7 (kali đicromat) nồng độ 3,5% được pha với keo gelatin nồng độ 20% theo tỷ lệ 1:1.
+Dung dịch Crom-PVA được chế tạo với polyvinyl acetates 12% thêm vào dung dịch bao gồm (NH4)2Cr2O7 hoặc K2Cr2O7 (1,5g); nước (20ml) và C2H5OH:96% (7ml) theo tỷ lệ 1:1.
+Những dung dịch trên sau khi chế tạo phải được bảo quản ở nơi thích hợp vì nó là chất nhạy sáng.
+
+
+=== Bàn in, dao gạt ===
+Bàn in làm từ kim loại hoặc gỗ. Bàn in đóng vai trò quan trọng trong việc đảm bảo nét in được in chính xác, đều và đạt độ nét cao. Yêu cầu quan trọng nhất đối với bàn in là phẳng, chắc và có độ đàn hồi nhất định để khuôn in có thể tiếp xúc đều với mặt sản phẩm in. Trong những trường hợp khác nhau, bàn in có thể nằm ngang hay nghiêng góc để người thợ thao tác dễ dàng hơn.
+Dao gạt hồ in là công cụ dùng để đẩy, phết mực màu khiến mực thấm qua lưới in, chuyển mực lên sản phẩm cần in. Gọi là dao theo thuật ngữ của thợ nhưng nó có thể làm bằng bọt biển, con lăn cao su hay đơn giản là một miếng gạt cao su.
+
+
+=== Chất nhuộm màu và hồ in ===
+
+Những chất nhuộm màu trong in lụa là những hợp chất mà khi tiếp xúc với vật liệu khác thì có khả năng bắt màu và giữ màu trên vật liệu bằng các lực liên kết lý học hay hoá học.
+In lụa thường sử dụng các chất tạo màu là các hợp chất màu hữu cơ. Có thể phân làm 2 loại tan và không tan trong nước.
+Chất nhuộm màu trong nước có thể là: thuốc nhuộm trực tiếp, thuốc nhuộm axit, thuốc nhuộm hoạt tính, thuốc nhuôm bazo-cation...
+Chất nhuộm màu không tan trong nước có thể là: thuốc nhuộm hoàn nguyên không tan, thuốc nhuộm lưu huỳnh, pigmen, thuốc nhuộm azo không tan...
+Hồ in sau khi pha trộn với thuốc nhuộm được gọi là mực in, sau khi in sẽ được gắn vào sản phẩm cần in. Do đó, tuỳ loại nhóm vật liệu cần in phải có những công thúc pha chế khác nhau. Nhóm vật liệu in được phân các loại sau: vật liệu xenlulo, vật liệu tơ tằm, len; sợi hoá học và xơ tổng hợp; nhựa; gốm sứ; kim loại; thuỷ tinh...Nhung cho dù in trên chất liệu gì, hồ in cũng phải đáp ứng những yêu cầu sau:
+Phải đồng nhất về thành phần và lượng màu thích hợp để đạt cường độ màu mong muốn
+Độ đặc, đột nhớt, độ dính phải bảo đảm để dính được vào vật liệu in và cho hoạ tiết sắc nét
+Hồ phải tương đối bền khi bảo quản
+Một số hồ in cho vải cần có tính dễ trương nở khi hấp để "nhả" thuốc nhuộm cho vải, và
+Không chứa các chất có thể làm hại lưới in
+
+
+=== In ấn ===
+Sau khi định vị khuôn in lên bàn in, vật liệu cần in đặt dưới lưới in. Cho mực in thích hợp với một lượng cần thiết vào khuôn in, sau đó dùng dao gạt để mực thấm qua lưới và ăn vào sản phẩm cần in. Điều chỉnh lượng mực in, tốc độ gạt để đạt kết quả tốt nhất.
+Sau khi in, mực in chỉ mới cố định cơ học tạm thời trên vật liệu nên cần có quy trình xử lý để gắn màu cố định cho hình in. Tùy loại mực in, vật liệu in để có những cách xử lý thích hợp, như là: sấy, hấp, gia nhiệt khô, hiện màu ướt (trong dung dịch axit loãng), hay hiện màu theo phương pháp ngâm ép, cuộn ủ lạnh...
+
+
+=== Một số kiểu in đặc biệt ===
+Có thể dùng những loại mực in khác nhau, hoặc những nguyên liệu đặc biệt để tạo ra những hiệu ứng khác nhau, ví dụ như in chuyển, tạo chữ nổi, in bắn cắm lông...
+In chuyển: còn gọi là in nhiệt, in nhiệt khô, in nhiệt chuyển, in chuyển hay là in thăng hoa. Nguyên tắc chung của phương pháp này là không in trực tiếp lên sản phẩm mà in trung gian qua một lớp giấy nền, sau đó ép nóng để thuốc mực in nhả từ giấy nền bắt vào vật liệu in.
+In nổi: Trong mực in, có các chất gây nở để tạo hình nổi. Sau khi in và sấy, sản phẩm được hấp ở 130-150 °C bằng hơi nước bão hoà. Mực sẽ chuyển thành màng xốp, có hình nổi trên sản phẩm.
+In bắn cắm lông: Lông nhiều màu có chiều dài 0,3mm được đựng vào những hộp riêng. Lông được bắn qua những lỗ trên lưới in và dính vào vải đã quét nhựa bán đa tụ, quá trình này được thực hiện trong điện trường 6000V và không dùng dao gạt. Kết quả là những tấm vải có nhiều màu bằng lông mịn như tuyết nhung và nổi trên mặt vải.
+
+
+=== Văn chương ===
+Парыгин А.Б. Искусство шелкографии. ХХ век (история, феноменология. техники, имена). — СПб, 2010. — 304 с. (nga).
+Bigeleisen J. I. Screen Printing: A Contemporary Guide. – New-York, 1972. (anh).
+Caza M. La Sérigraphie – Genève: Bonvent, 1973. (pháp).
+
+
+== Chú thích ==
+
+
+== Xem thêm ==
+In thạch bản
+In phun
+In offset
+In màu
+In laser
+
+
+== Liên kết ngoài ==
+Kỹ thuật in lụa của Quang Bạch, Nhà xuất bản Thanh Niên, 2001.
+Lịch sử của lụa Искусство шелкографии. ХХ век. (nga).
+Who’s Who in Screenprinting
+Máy in lưới tại Từ điển bách khoa Việt Nam

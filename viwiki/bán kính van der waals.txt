@@ -1,0 +1,128 @@
+Bán kính van der Waals của một nguyên tử là bán kính của một hình cầu cứng, tưởng tượng được dùng để mô hình hóa cho nguyên tử đó. Bán kính van der Waals được đo đạc từ khoảng cách giữa các cặp nguyên tử không có liên kết bên trong các tinh thể.
+Bán kính van der Waals được đặt tên theo nhà bác học Johannes Diderik van der Waals, người đạt giải Nobel về Vật lý năm 1910.
+Các loại khí thực không ổn định như dự đoán. Trong một số trường hợp, độ lệch có thể rất lớn. Ví dụ, các khí lý tưởng không thể có dạng lỏng và rắn, cho dù ta có làm lạnh hay nén chúng thế nào đi nữa. Vì thế, một đề xuất thay đổi định luật khí lý tưởng 
+  
+    
+      
+        P
+        
+          
+            
+              V
+              ~
+            
+          
+        
+        =
+        n
+        R
+        T
+      
+    
+    {\displaystyle P{\tilde {V}}=nRT}
+  , đã được đưa ra. Và hữu ích, nổi tiếng nhất là phương trình trạng thái van der Waals: 
+  
+    
+      
+        
+          (
+          P
+          +
+          a
+          
+            
+              (
+              
+                
+                  n
+                  
+                    
+                      V
+                      ~
+                    
+                  
+                
+              
+              )
+            
+            
+              2
+            
+          
+          )
+        
+        (
+        
+          
+            
+              V
+              ~
+            
+          
+        
+        −
+        n
+        b
+        )
+        =
+        n
+        R
+        T
+      
+    
+    {\displaystyle \left(P+a\left({\frac {n}{\tilde {V}}}\right)^{2}\right)({\tilde {V}}-nb)=nRT}
+  , với a và b là các tham số có thể điều chỉnh từ đo đạc thực nghiệm được thực thi trên các khí thực. Các giá trị này thay đổi tùy loại khí
+Phương trình van der Waals cũng áp dụng cho vi mô. Các phân tử tương tác với nhau. Sự tương tác này là lực đẩy rất lớn với khoảng cách rất ngắn, trở thành lực hút với khoảng cách vừa, và biến mất khi ở khoảng cách xa. Định luật khí lý tưởng cần đúng trong trường hợp lực hút và lực đẩy được xem xét. Ví dụ, lực đẩy qua lại giữa các phân tử có tác dụng giữ các nguyên tử cách nhau ở một khoảng cách nhất định. Vì thế, một phần không gian không thuộc về phân tử. Và nó cần được loại trừ ra khỏi thể tích chứa (V), nghĩa là: (V - nb). Một hệ số khác được giới thiệu trong phương trình van der Waals là 
+  
+    
+      
+        a
+        
+          
+            (
+            
+              
+                n
+                
+                  
+                    V
+                    ~
+                  
+                
+              
+            
+            )
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle a\left({\frac {n}{\tilde {V}}}\right)^{2}}
+  , nhằm mô tả lực hút yếu giữa các phân tử, mà nó sẽ gia tăng khi n tăng hay V giảm, và các phân tử trở có mật độ dày đặc hơn.
+
+
+== Thể tích Van der Waals ==
+Thể tích van der Waals của một nguyên tử là thể tích của hình cầu với bán kính Van der Waals của nguyên tử đó.
+Hai nguyên tử không có liên kết hóa học với nhau thì có khoảng cách ngắn nhất nối 2 tâm của chúng, và bằng với tổng của các bán kính Van der Waals của chúng. Tuy nhiên, nếu hai nguyên tử liên kết bằng liên kết hóa trị, thì khoảng cách giữa 2 tâm sẽ nhỏ hơn.
+Vì thế, thể tích van der Waals của một phân tử với các liên kết hóa trị sẽ nhỏ hơn tổng của các thể tích van der Waals của các nguyên tử.
+Thể tích van der Waals của một hệ thống các phân tử là bằng với tổng của các thể tích van der Waals của các phân tử thành phần.
+
+
+== Xem thêm ==
+Hằng số van der Waals
+Phương trình van der Waals
+Lực Van der Waals
+Tiềm năng van der Waals
+Bề mặt van der Waals
+
+
+== Tham khảo ==
+
+L. Pauling, The Nature of the Chemical Bond, Cornell University Press, USA, 1945.
+
+
+== Liên kết ngoài ==
+van der Waals radii at Webelements
+Structural Biology Glossary: van der Waals radii

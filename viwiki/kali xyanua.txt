@@ -1,0 +1,50 @@
+Kali xyanua, xyanua kali là tên gọi của một loại hợp chất hóa học không màu của kali có công thức KCN. Nó có mùi giống như mùi quả hạnh nhân, có hình thức bề ngoài giống như đường và hòa tan nhiều trong nước. Là một trong số rất ít chất có khả năng tạo ra các phức chất của vàng (Au) hòa tan được trong nước, vì thế nó được sử dụng trong ngành kim hoàn để mạ hay đánh bóng bằng phương pháp hóa học. Đôi khi nó cũng được sử dụng trong ngành khai thác các mỏ vàng để tách vàng ra khỏi quặng vàng (mặc dù xyanua natri được sử dụng phổ biến hơn). Cho đến những năm thập niên 1970 nó còn được sử dụng trong thuốc diệt chuột.
+
+
+== Các tính chất lý hóa ==
+
+
+=== Tính chất vật lý ===
+Tinh thể màu trắng, thường ở dạng bột.
+Nhiệt độ nóng chảy: 634 °C
+Khối lượng riêng: 1,52 g/cm3
+Độ hòa tan (trong nước ở 25 °C): 71,6 g/100 g.
+Phân tử khối: 65,12 đơn vị cacbon (đvC).
+Không tan khi nhiệt độ môi trường <=0°
+
+
+=== Tính chất hóa học ===
+Có tính hoạt động hóa học cao.
+Dễ dàng phản ứng với các axit để tạo thành axit xyanic là chất độc dễ bay hơi.
+Từng được sử dụng trong công nghiệp tinh chế vàng.
+
+
+== Các hiệu ứng sinh lý học và độc tính ==
+
+
+=== Độc tính ===
+Là một chất kịch độc, gây chết người với liều lượng thấp. Chỉ cần ăn nhầm từ 200 đến 250 mg chất này thì một người khỏe mạnh có thể mất ý thức trong vòng 30 giây đến 2 phút. Sau khoảng 1 tiếng thì rơi vào trạng thái hôn mê và có thể tử vong sau khoảng 3 giờ nếu không có các biện pháp điều trị kịp thời. Theo phân loại trong hướng dẫn số 67/548/EEC của liên minh châu Âu thì nó là chất cực độc (T+). Giới hạn phơi nhiễm tối đa (PEL) của OSHA là 5 mg/m3. Còn theo quyết định số 3733/2002/QĐ-BYT ngày 10 tháng 10 năm 2002 của Bộ Y tế Việt Nam thì giới hạn này là 3 mg/m3 trong môi trường sản xuất.
+
+
+=== Cơ chế ngộ độc ===
+Giống như các hợp chất xyanua khác, xyanua kali gây độc bằng cách ngăn chặn sự trao đổi chất của tế bào. Xyanua kali có khả năng tạo liên kết hóa học với các heme trong máu (như hemoglobin), làm cho các tế bào không lấy được ôxy và bị hủy hoại.
+Các chất giải độc xyanua kali:
+Khi bị ngộ độc xyanua kali, cần sơ cứu nạn nhân bằng cách cho thở bằng khí ôxy. Trong các phân xưởng có sử dụng xyanua kali, thường có sẵn bộ cấp cứu trong trường hợp nhiễm độc, bao gồm các chất amyl nitrat, nitrít natri, xanh methylen và natri thiosulphate.
+Đường glucozơ có khả năng làm chậm lại đáng kể quá trình gây độc của xyanua kali, đồng thời bảo vệ các tế bào bằng cách tạo liên kết hóa học với xyanua kali. Tuy nhiên Glucozơ không có khả năng giải độc.
+
+
+=== Các chỉ số an toàn ===
+
+
+== Chi tiết thú vị ==
+Xyanua kali thường được sử dụng để tự tử. Ngoài ra, xyanua kali thường xuyên xuất hiện trong văn học và truyện tranh, chẳng hạn Thám tử lừng danh Conan.
+Trong thực tế nhiều hợp chất Kali được sử dụng trong các hóa chất tẩy rửa gia dụng. Tiêu chuẩn châu Âu thường kỹ càng hơn về các hợp chất Kali so với các nước khác. Tuy nhiên ở Việt Nam loại độc chất này không phải ai cũng biết và thường được làm chất tẩy rửa chính trong các chất tẩy rửa đang lan tràn trên thị trường Việt Nam.
+Điều chế xyanua
+N2 + CH4 → HCN + NH3 → NH4CN + KOH → KCN + NH3 + H2O
+
+
+== Xem thêm ==
+Xyanua
+
+
+== Ghi chú ==

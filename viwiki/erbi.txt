@@ -1,0 +1,80 @@
+Erbi là một nguyên tố hóa học thuộc nhóm Lantan, được ký hiệu Er và có số nguyên tử là 68. Nó là kim loại màu trắng bạc khi được cô lập nhân tạo, còn ở dạng tự nhiên nó luôn được tìm thấy trong các hợp chất với các nguyên tố khác trên Trái Đất. Nó là nguyên tố đất hiếm đi cùng với các nguyên tố đất hiếm khác trong khoáng vật gadolinit ở Ytterby, Thụy Điển.
+Các nguyên lý ứng dụng của Erbi liên quan đến màu hồng của ion Er3+, các ion này có tính huỳnh quang đặc biệt hữu ích trong các ứng dụng laser nhất định. Kính Erbi-doped hoặc các tinh thể có thể được sử dụng làm dụng cụ khuếch đại quang học, ở đây các ion erbi (III) được bơm quang ở khoảng 980 nm hoặc 1480 nm và sau đó phát ánh sáng kích thích ở 1530 nm. Quá trình này tạo ra sự khuếch đạo quang học laze đơn lẻ cơ học bất cho các tín hiệu truyền trong sợi quang học. Bước sóng 1550 nm đặc biệt quan trọng đối với thông tin quang vì các sợi quang học kiểu đơn tiêu chuẩn có sự mất mát cực tiểu ở bước sóng riêng biệt này. Thêm vào đó các laser sợi quang học, có nhiều ứng dụng trong quang học (i.e. dermatology, dentistry) dùng các bước sóng ion erbi 2940 nm (xem Er:Laser YAG), được hấp thụ mạnh trong nước (hệ số hấp thụ khoảng 12.000/cm).
+
+
+== Tính chất ==
+
+
+=== Tính chất vật lý ===
+
+Nguyên tố kim loại erbi tinh khiết hóa trị 3 dễ uốn (hoặc dễ định hình), mềm ổn định trong không khí, và không bị ôxy hóa nhanh như những kim loại đất hiếm khác. Các muối của nó có màu hồng, và nguyên tố này có các dãi phổ hấp thụ đặc trưng đối với ánh sáng nhìn thấy, tử ngoại, và hồng ngoại gần. Các tính chất còn lại giống với hầu hết các nguyên tố đất hiếm khác. Its Setquioxyt của nó được gọi là erbia. Các tính chất của Erbi đặc trưng bởi số lượng và loại tạp chất có mặt trong nó. Erbi chưa thấy có bất kỳ vai trò sinh học nào, nhưng người ta cho rằng nó có thể kích thích trao đổi chất.
+Erbi có tính sắt từ dưới 19 K, phản sắt từ giữa 19 và 80 K, và thuận từ trên 80 K.
+Erbi có thể tạo thành các cụm nguyên tử Er3N hình cánh quạt, với khoảng cách giữa các nguyên tử erbi là 0,35 nm. Các cụm này có thể được cô lập bằng cách gộp chúng vào trong các phân tử fullerene, được xác nhận bằng kính hiển vi điện tử truyền qua.
+
+
+=== Tính chất hóa học ===
+Kim loại erbi bị xỉn chậm trong không khí và dễ cháy để tạo thành erbi(III) ôxít:
+4 Er + 3 O2 → 2 Er2O3
+Erbi có khả năng cho điện tử (độ dươngg điện) và phản ứng chậm với nước lạnh và khá nhanh trong nước nóng tạo thành erbi hydroxit:
+2 Er (r) + 6 H2O (l) → 2 Er(OH)3 (dd) + 3 H2 (k)
+Kim loại Erbi phản ứng với tất cả halogen:
+2 Er (r) + 3 F2 (k) → 2 ErF3 (r) [hồng]
+2 Er (r) + 3 Cl2 (k) → 2 ErCl3 (r) [tím]
+2 Er (r) + 3 Br2 (k) → 2 ErBr3 (r) [tím]
+2 Er (r) + 3 I2 (k) → 2 ErI3 (r) [tím]
+Erbi dễ hòa tan trong axít sulfuric loãng tạo thành các dung dịch chứa các ion Er(III) hydrat hóa, tồn tại dạng phức hydrat màu vàng [Er(OH2)9]3+:
+2 Er (r) + 3 H2SO4 (dd) → 2 Er3+ (dd) + 3 SO42- (dd) + 3 H2 (k)
+
+
+=== Đồng vị ===
+
+Erbi tự nhiên là hợp phần của 6 đồng vị ổn định: Er-162, Er-164, Er-166, Er-167, Er-168, và Er-170 với Er-166 là phổ biến nhất chiềm 33,503%. 29 đồng vị phóng xạ đã được nghiên cứu, trong đó đồng vị ổn định nhất là Er-169 có chu kỳ bán rã 9,4 ngày, Er-172 49,3 giờ, Er-160 28,58 giờ, Er-165 10,36 giờ, và Er-171 7,516 giờ. Tất cả các đồng vị phóng xạ còn lại có chu kỳ bán rã nhỏ hơn 3,5 giờ, và đa số trong đó có chu kỳ bán rã nhỏ hơn 4 phút. Nguyên tố này có 13 meta state, với mức ổn định nhất Er-167m (t½ 2,269 giây).
+Các đồng vị của erbi có khối lượng nguyên tử từ 142,9663 u (Er-143) đến 176,9541 u (Er-177). Cơ chế phân rã chính trước đồng vị ổn định phổ biến Er-166, là bắt điện tử, và sau là phân rã beta. Các sản phẩm phân rã chính trước Er-166 là các đồng vị nguyên tố 67 (holmi), và các sản phẩm chính sau là các đồng vị nguyên tố 69 69 (thuli).
+
+
+== Lịch sử ==
+Erbi được Carl Gustaf Mosander phát hiện năm 1843. Mosander đã tách "yttria" từ khoáng vật gadolinit thành 3 phần gọi là yttria, erbia, và terbia. He đặt tên nguyên tố mới theo tên làng Ytterby, nơi có hàm lượng yttria và erbi tập trung nhiều. Tuy nhiên, erbia và terbia đã bị nhẫm lẫn vào thời điểm đó. Sau năm 1860, terbia được đổi tên thành erbia và sau năm 1877 nguyên tố được cho là erbia đã được đổi tên thành terbia. Er2O3 khá tinh khiết được tách ra một cách độc lập vào năm 1905 bởi Georges Urbain và Charles James. Kim loại nguyên chất đã không được tạo ra một cách hợp lý mãi cho đến năm 1934 khi Klemm và Bommer khử clorua khan bằng hơi kali. Chỉ trong thập niên 1990 giá erbi ôxít từ Trung Quốc giảm thấp đến mức erbi được dùng làm kính màu nghệ thuật.
+
+
+== Phân bố ==
+
+Nồng độ erbi trong vỏ Trái Đất chiếm khoảng 2,8 mg/kg và trong nước biển là 0,9 ng/L.. Với nồng độ này, nó được xếp thứ 45 về độ phong phú của các nguyên tố trong vỏ Trái Đất, và phổ biến hơn nguyên tố thường gặp là chì.
+Giống như các nguyên tố đất hiếm khác, nguyên tố này không bao giờ có mặt trong tự nhiên ở dạng tự do (tự sinh), nó được tìm thấy phổ biến trong các quặng cát monazit. Về mặt lịch sử, nó rất khó và đắt để tách ra khỏi các nguyên tố đất hiếm khác trong các quặng của chúng, nhưng công nghệ trao đổi ion đã phát triển vào cuối thế kỷ 20 đã làm giảm chi phí sản xuất của tất cả kim loại đất hiếm và các hợp chất hóa học của chúng.
+Các nguồn erbi thương mại chủ yếu từ các khoáng vật xenotim và euxenit, và gần đây, trong sét hấp phụ ion ở miền nam Trung Quốc; hệ quả là ngày nay Trung Quốc trở thành nhà cung cấp chủ yếu nguyên tố này trên toàn cầu. Trong các loại mỏ hàm lượng yttri cao này, yttri chiếm khoảng 2/3 tổng khối lượng và erbia chiếm khoảng 4-5%. Khi các quặng này hòa tan trong axit, erbia sinh ra đủ ion để tạo ra màu hồng đặc trưng cho dung dịch. Màu này tương tự như những gì Mosander và những người nghiên cứu trước đây về nhóm lantan đã thấy trong các chiết tách của họ từ khoáng vật gadolinit ở Ytterby.
+
+
+== Sản xuất ==
+Các khoáng vật được nghiền mịn cho phản ứng với axit clohydric hoặc axit sulfuric để chuyển các oxit đấy hiếm không hòa tan thành các clorua hoặc sulfat hòa tan. Nước lọc axit được trung hòa từng phần bằng natri hydroxit có pH 3-4. Thori kết tủa ở dạng hydroxit và được tách ra. Sau đó dung dịch được xử lý với ammoni oxalat để chuyển các đất hiếm thành các dạng oxalat không hòa tan tương ứng. Các oxalat được chuyển thành ôxit bằng cách xử lý nhiệt. Các ôxit được hòa tan trong axit nitric không bao gồm một trong các thành phần chính là ceri, do ôxit của nó không hòa tan trong HNO3. Sau đó dung dịch được xử lý bằng magie nitrat để tạo ra hỗn hợp muối kép kết tinh của các kim loại đất hiếm. Các muối này được tách ra bằng trao đổi ion. Trong quá trình này, các ion đất hiếm được hấp thụ vào loại nhữa trao đổi ion thích hợp qua trao đổi với các ion hydro, ammoniac hoặc đồng có mặc trong nhựa. Các ion đất hiếm sau đó được rửa chọn lọc ra khỏi nhựa bở các chất phức phù hợp. Kim loại Erbi thu được từ các ôxit và muối của nó bằng cách nung với canxi ở 1450 °C trong môi trường argon.
+
+
+== Ứng dụng ==
+Các ứng dụng hàng ngày của Erbi rất đa dạng. Nó thường được dùng làm bộ lọc ảnh, và do có khả năng đàn hồi nên nó được dùng làm phụ gia luyện kim. Các ứng dụng khác gồm:
+Dùng trong công nghệ hạt nhân làm cần điều khiển hấp thụ neutron.
+Khi cho thêm vào vanadi ở dạng hợp kim, erbi làm giảm độ cứng và tăng khả năng làm việc.
+Erbi ôxit có màu hồng, và đôi khi được dùng làm chất tạo màu cho kính, zircon lập phương và porcelain. Kính sau d8o1 thường được dùng làm kính mát và trang sức rẻ.
+Các sợi quang học thủy tinh silica chứa tạp chất được sử dụng rộng rãi trong thông tin quang học. Các sợi quang học tương tự có thể được dùng để tạo ra các tia laser quang. Sợi quang học hai tạp chất Er và Yb được dùng trong laser Er/Yb năng lượng cao, đang thay thế từ từ các laser CO2 trong các ứng dụng hàn cắt kim loại. Erbi cũng có thể được sử dụng trong các bộ khuếch đại ống dẫn sóng erbi.
+Hợp kim erbi-niken Er3Ni có nhiệt dung riêng cao bất thường ở nhiệt độ heli lỏng và được dùng trong dàn lạnh cryo; một hỗn hợp 65% Er3Co và 35% Er0,9Yb0,1Ni theo thể tích sẽ cải thiện nhiện dung riêng nhiều hơn.
+Nhiều ứng dụng trong y học (i.e. dermatology, dentistry) dùng tia ion erbi 2940 nm, sóng được hấp thụ cao trong nước. Khi năng lượng laser tích tụ trong mô ở phần nông là cách phẫu thuật laser, và việc tạo hơi nước hiệu quả bằng bằng laser để loại bỏ vôi răng trong nha khoa.
+
+
+== Chú ý ==
+Giống như các nguyên tố nhóm Latan khác, các hợp chất erbi có độc tính từ thấp đến trung bình, mặc dù độc tính của chúng chưa được nghiên cứu chi tiết.
+
+
+== Xem thêm ==
+Terbi
+Ytterbi
+Yttri
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Guide to the Elements – Revised Edition, Albert Stwertka, (Oxford University Press; 1998) ISBN 0-19-508083-1
+
+
+== Liên kết ngoài ==
+WebElements.com – Erbium (also used as a reference)
+It's Elemental – Erbium
+Chemical Elements: Erbium http://www.chemicalelements.com/elements/er.html

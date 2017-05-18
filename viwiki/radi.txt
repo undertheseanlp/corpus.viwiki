@@ -1,0 +1,66 @@
+Radi là một nguyên tố hóa học có tính phóng xạ, có ký hiệu là Ra và số hiệu nguyên tử là 88 trong bảng tuần hoàn các nguyên tố hóa học. Nó có màu trắng và dễ bị oxi hóa khi tiếp xúc với không khí sẽ chuyển sang màu đen. Radi là một kim loại kiềm thổ được tìm thấy ở dạng vết trong các quặng urani. Đồng vị bền nhất của Ra là Radi 226, có chu kỳ bán rã là 1602 năm và quá trình phân rã sẽ tạo ra khí radon.
+
+
+== Đặc điểm ==
+Ra là kim loại kiềm thổ nặng nhất có tính phóng xạ và tính chất hóa học khá giống với bari. Đây là kim loại được tìm thấy trong quặng urani và các kim loại urani khác. Các hạt phóng xạ từ radi giữ cho nhiệt độ của nó cao hơn môi trường xung quanh, thuộc ba loại: hạt alpha, hạt beta, và tia gamma.
+Kim loại radi nguyên chất có màu trắng sáng nhưng khi tiếp xúc với không khí sẽ chuyển sang màu đen (có thể tạo ra nitrit). Radi có tính phát quang (tạo ra màu xanh dương), phản ứng mạnh với nước và dầu để tạo thành radi hidroxit và hơi mạnh hơn so với phản ứng của bari. Radi thường ở trạng thái rắn.
+
+
+== Ứng dụng ==
+Các ứng dụng thực tiễn của radi được phân chia theo đặc tính phóng xạ của nó. Các đồng vị phóng xạ được phát hiện gần đây như Coban 60 và Xeri 137, đang thay thế dần radi thậm chí dẫn đến việc sử dụng hạn chế bởi vì một số đồng vị phát xạ rất mạnh không an toàn trong vận chuyển và các đồng vị mới này xuất hiện phổ biến hơn trong tự nhiên.
+Khi trộn với beri nó là nguồn nơtron dùng trong các thí nghiệm vật lý.
+
+
+== Phân bố ==
+Radi là một sản phẩm phân rã của urani và cũng được tìm thấy trong tất cả các quặng chứa urani (một tấn quặng uraninit chứa 0,0001 gram radi). Radi đầu tiên được tìm thấy trong các quặng chứa urani ở Joachimsthal, Bohemia, Cộng hòa Sec. Cát carnotit ở Colorado cũng cung cấp một số nguyên tố nhưng các quặng giàu hơn thì được tìm thấy ở Congo và khu vực Great Lakes, Canada, và cũng có thể được chiết tách từ chất thải urani. Các mỏ urani chứa lượng lớn radi được phát hiện ở Canada (Ontario), Hoa Kỳ (New Mexico, Utah, và Virginia), Australia, cũng như một số nơi khác.
+
+
+== Hợp chất ==
+
+Các hợp chất có màu ngọn lửa là crimson (đỏ hoặc crimson sắc tía) và mang đặc điểm của quang phổ điện từ. Do chu kỳ bán rã của nó ngắn và cường độ phóng xạ cao nên các hợp chất radi rất hiếm và hầu như chỉ gặp trong các quặng urani.
+radi florua (RaF2)
+radi clorua (RaCl2)
+radi bromua (RaBr2)
+radi iốđua (RaI2)
+radi ôxít (RaO)
+radi nitrua (Ra3N2)
+
+
+== Các đồng vị ==
+
+Radi (Ra) có 25 đồng vị khác nhau đã được biết đến, 4 trong số đó được tìm thấy trong tự nhiên thì 226Ra phổ biến nhất.223Ra, 224Ra, 226Ra và 228Ra tất cả được tạo ra từ phân rã của Urani (U) hoặc Thori (Th).226Ra là sản phẩm phân rã từ 238U, và là đồng vị có chu kỳ bán rã dài nhất 1602 năm; tiếp sau là 228Ra phân rã từ 232Th có chu kỳ bán rã 5,75 năm.
+
+
+== Tính phóng xạ ==
+Radi có tính phóng xạ cao hơn 1 triệu lần so với urani có cùng khối lượng. Phân rã diễn ra ít nhất là sáu giai đoạn; các sản phẩm chính của nó theo các kết quả nghiên cứu được gọi xạ khí radi (như radon)　gồm radi A (poloni), radi B (chì), radi C (bitmut), vv.... Radon là một khí nặng và sản phẩm sau nó là chất rắn. Các sản phẩm này bản thân nó cũng là các nguyên tố phóng xạ, và tất nhiên những nguyên tố tạo ra sau sẽ có khối lượng nhẹ hơn các nguyên tố phóng xạ trước đó.
+Radi giảm khoảng 1% độ hoạt động mỗi 25 năm để biến đổi thành các nguyên tố có khối lượng nguyên tử nhẹ hơn và chì là sản phẩm cuối cùng.
+Độ phóng xạ theo đơn vị SI là becquerel (Bq), tương đương với một phân rã/giây. Đơn vị Curie (ký hiệu Ci) cũng được sử dụng nhưng không thuộc hệ SI: 1 Ci = 3.7 x 1010 Bq, xấp xỉ bằng độ phóng xạ của 1 gram Ra-226.
+
+
+== Phát hiện ==
+
+Radi được Marie Curie và chồng là Pierre Curie phát hiện ngày 21 tháng 12 năm 1898 trong một mẫu uraninit. Trong lúc nghiên cứu khoáng vật học ban đầu, Curies đã tách urani từ khoáng vật này và phát hiện rằng vật liệu còn trong nó vẫn có tính phóng xạ. Họ đã tách ra một nguyên tố tương tự như bismuth từ pitchblende và tháng 7 năm 1898, sau này là poloni. Sau đó họ tách ra khỏi một hỗn hợp phóng xạ chứa hầu hết có 2 thành phần chính hồm: các hợp chất của bari, ngọn lửa cháy có màu lục sáng, và các hợp chất phóng xạ chưa biết tên có quang phổ vạch là mà carmine chưa được biết đến trước đó. Nhà Curies phát hiện các hợp chất có tính phóng xạ có đặc điểm rất giống với các hợp chất bari, trừ đặc điểm tính tan thấp hơn. Đây là đặc điểm để Curies có thể tách nó ra khỏi hợp chất phóng xạ và phát hiện ra nguyên tố mới trong hỗn hợp này. Nhà Curies đã thông báo phát hiện này đến Viện Hàn lâm Khoa học Pháp vào ngày 26 tháng 12 năm 1898. Việc đặt tên radium vào khoảng năm 1899, mượn từ tiếng Pháp radium, gốc tiếng Latinh hiện đại là radius (tia): là do đặc điểm năng lượng phát xạ của radi ở dạng tia phóng xạ.
+Năm 1910, radi đã được tách ra ở dạng kim loại nguyên chất bởi Marie Curie và André-Louis Debierne bằng phương pháp điện phân dung dịch radi clorua nguyên chất (RaCl2) dùng điện cực là thủy ngân, tạo ra hỗn hống radi–thủy ngân. Hỗn hống này sau đó được nung trong môi trường khí hidro để loại bỏ thủy ngân, còn lại kim loại radi nguyên chất. Cùng năm E. Eoler cũng đã cô lập radi bằng phương pháp nhiệt phân azua của nó, Ra(N3)2. Radi kim loại lần đầu tiên được sản xuất công nghiệp từ đầu thế kỷ 20 bởi Biraco, một thành viên của Union Minière du Haut Katanga (UMHK) tại một nhà máy ở Olen, Bỉ.
+Lịch sử phóng xạ của nguyên tố này, nhà Curies chủ yếu dựa vào đồng vị 226Ra.
+
+
+== Độ an toàn ==
+Do tiếp xúc nhiều với radi trong quá trình nghiên cứu mà Marie Curie chết là do nhiễm chất phóng xạ này.
+Radi có tính phóng xạ rất cao kể cả các sản phẩm phân rã của nó, khí radon cũng có tính phóng xạ. Radi có đặc điểm hóa học giống với canxi, nó có thể gây tổn hại lớn khi đặt nó trong xương. Việc hít, tiêm, ăn hoặc tiếp xúc với radi có thể gây ung thư và các rối loại khác. Các kho lưu giữ radi cần được thông gió để tránh tích tụ khí radon.
+Năng lượng phát xạ từ phân rã radi có thể ion hóa các chất khí, ảnh hưởng đến bản kẽm phim ảnh, hoặc làm đau rát trên da cũng như tạo ra một số ảnh hưởng bất lợi khác.
+
+
+== Tham khảo ==
+
+Albert Stwertka (1998). Guide to the Elements - Revised Edition. Nhà in Đại hocOxford University Press. ISBN 0-19-508083-1. 
+“Radium”. Los Alamos National Laboratory (Chemistry Operations). Ngày 18 tháng 12 năm 2003. Truy cập ngày 25 tháng 12 năm 2007. 
+Denise Grady (ngày 6 tháng 10 năm 1998). “A Glow in the Dark, and a Lesson in Scientific Peril”. The New York Times. Truy cập ngày 25 tháng 12 năm 2007. 
+Nanny Fröman (ngày 1 tháng 12 năm 1996). “Marie and Pierre Curie and the Discovery of Polonium and Radium”. Nobel Foundation. Truy cập ngày 25 tháng 12 năm 2007. 
+
+
+== Liên kết ngoài ==
+WebElements.com - Radium (also used as a reference)
+Lateral Science - Radium Discovery
+Photos of Radium Water Bath in Oklahoma
+NLM Hazardous Substances Databank – Radium, Radioactive
+Reproduction of a 1942 comic book ad selling a "Radiumscope" to children

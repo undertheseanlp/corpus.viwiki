@@ -1,0 +1,308 @@
+Ung thư là một nhóm các bệnh liên quan đến việc phân chia tế bào một cách vô tổ chức và những tế bào đó có khả năng xâm lấn những mô khác bằng cách phát triển trực tiếp vào mô lân cận hoặc di chuyển đến nơi xa (di căn). Hiện có khoảng 200 loại ung thư.
+
+
+== Nguyên nhân ==
+Nguyên nhân gây ung thư là sự sai hỏng của ADN, tạo nên các đột biến ở các gene thiết yếu điều khiển quá trình phân bào cũng như các cơ chế quan trọng khác. Một hoặc nhiều đột biến được tích lũy lại sẽ gây ra sự tăng sinh không kiểm soát và tạo thành khối u. Khối u là một khối mô bất thường, có thể ác tính, tức ung thư hoặc lành tính, tức không ung thư. Chỉ những khối u ác tính thì mới xâm lấn mô khác và di căn. Khái niệm ác hay lành tính ở đây nên hiểu về mặt giải phẫu bệnh học nhiều hơn là về khả năng gây chết người. Thật vậy, một người có thể sống nhiều năm với một ung thư hắc tố da, trong khi một khối u "lành tính" trong hộp sọ có thể chèn ép não gây tàn phế hoặc tử vong.
+Ung thư có thể gây ra nhiều triệu chứng khác nhau phụ thuộc vào vị trí, đặc điểm và khả năng di căn của khối u. Chẩn đoán xác định ung thư thường đòi hỏi phải sinh thiết rồi quan sát trên kính hiển vi. Người bị ung thư có thể được chữa trị bằng phẫu thuật, hóa trị liệu hoặc xạ trị liệu.
+Nếu không được chữa trị sớm, hầu hết các loại ung thư có thể gây tử vong, đây là một trong những nguyên nhân gây tử vong chính trong những nước phát triển. Hầu hết các bệnh ung thư có thể chữa trị và nhiều bệnh có thể chữa lành, nếu được phát hiện và điều trị sớm.
+Nhiều dạng ung thư có liên quan đến các yếu tố môi trường mà có thể tránh khỏi. Hút thuốc lá là một trong những yếu tố gây nguy cơ ung thư nhiều nhất.
+
+
+== Chẩn đoán ung thư ==
+Hầu hết các ung thư lần đầu được chẩn đoán dựa vào các triệu chứng xuất hiện hoặc nhờ vào quá trình tầm soát. Qua đó không thể chẩn đoán xác định được mà phải nhờ vào sinh thiết. Một số trường hợp ung thư khác được chẩn đoán tình cờ nhờ khi đang khám hoặc điều trị bệnh khác.
+
+
+=== Dấu hiệu và triệu chứng ===
+Ban đầu,hầu hết bệnh nhân ung thư không có triệu chứng lâm sàng rõ ràng. Khi xuất hiện triệu chứng rõ rệt thường là khi bệnh đã tiến triển trầm trọng. Thông thường,ung thư có thời gian ủ bệnh(tức là thời gian từ khi một tế bào bị đột biến thành tế bào ung thư đến khi các triệu chứng của bệnh được bộc lộ) khá dài, khoảng 10 năm hoặc hơn nữa tùy thể loại ung thư. Do đó cách phòng và điều trị ung thư hiệu quả nhất được khuyến cáo là nên đi khám sức khỏe định kì 6 tháng một lần.
+Do ung thư là tập hợp của nhiều dạng bệnh ung thư khác nhau nên triệu chứng của ung thư rất đa dạng và khác nhau ở tùy thể bệnh ung thư.
+Đại khái, triệu chứng của ung thư được phân làm ba nhóm chính:
+Triệu chứng tại chỗ: các khối u bất thường hay phù nề, chảy máu (hemorrhage), đau và/hoặc loét (ulcer). Chèn ép vào mô xung quanh có thể gây ra các triệu chứng như vàng da.
+Triệu chứng của di căn (lan tràn): hạch bạch huyết lớn lên, ho, ho ra máu, gan to, đau xương, gãy xương ở những xương bị tổn thương và các triệu chứng thần kinh. Đau có thể gặp ở ung thư giai đoạn tiến triển, nhưng thông thường đó không phải là triệu chứng đầu tiên.
+Triệu chứng toàn thân: sụt cân, chán ăn và suy mòn, tiết nhiều mồ hôi (đổ mồ hôi trộm), thiếu máu và các hội chứng cận u đặc hiệu, đó là tình trạng đặc biệt được gây ra bởi ung thư đang hoạt động, chẳng hạn như huyết khối (thrombosis) hay thay đổi nội tiết tố.
+Mỗi vấn đề nêu trên đều có thể gây ra bởi nhiều bệnh lý khác nhau (được xem như là chẩn đoán phân biệt). Ung thư có thể là một bệnh lý thường gặp hay hiếm gặp gây ra các triệu chứng này.
+
+
+=== Sinh thiết ===
+Một biểu hiện ung thư có thể gợi ý đến nhiều nguyên nhân khác nhau, nhưng để chẩn đoán xác định độ ác tính thì phải cần đến khám nghiệm vi thể tế bào ung thư của các nhà giải phẫu bệnh. Thủ thuật để lấy được tế bào và/hoặc các mẫu bệnh phẩm, và khám nghiệm chúng được gọi là sinh thiết. Chẩn đoán mô học sẽ xác định loại tế bào ung thư đang tiến triển, mức độ ác tính (mức độ loạn sản), sự lan tràn và kích thước của chúng. Di truyền học tế bào và hóa mô miễn dịch có thể cung cấp các thông tin về xu hướng phát triển sau này của ung thư (tiên lượng) và phương pháp điều trị tốt nhất.
+Tất cả ung thư đều có thể được chữa trị nếu như khối u được cắt bỏ hoàn toàn, và đôi khi điều này có thể thực hiện bởi sinh thiết. Khi toàn bộ khối mô tổn thương bất thường được loại bỏ, bờ của bệnh phẩm phải được khám xét cẩn thận để xác định chắc mô ác tính đã thực sự được loại bỏ. Nếu ung thư lan tràn đến vị trí khác của cơ thể (di căn), phẫu thuật cắt bỏ hoàn toàn là không thể.
+Bản chất của sinh thiết phụ thuộc vào cơ quan khám nghiệm. Nhiều sinh thiết (như là sinh thiết da, vú hay gan) có thể thực hiện ngoại trú. Sinh thiết những cơ quan khác thì được tiến hành dưới điều kiện vô cảm và phẫu thuật.
+
+
+=== Chẩn đoán giai đoạn ung thư ===
+Hiệp hội chống ung thư quốc tế đã phát triển một hệ thống phân chia giai đoạn của các khối u ác tính gọi là TNM (T: tumor - khối u, N: node - hạch lympho, M: metastasis - di căn).
+Trong một vài ung thư cụ thể, một số bảng phân loại khác lại thích hợp hơn, thí dụ hệ thống xếp loại FAB (French-American-Bristish cooperative group) dùng cho một số bệnh bạch huyết.
+
+
+=== Tầm soát ===
+Tầm soát ung thư là thử nghiêm nhằm thăm dò các dạng ung thư nghi ngờ trong quần thể dân cư. Các thử nghiệm tầm soát phù hợp phải có thể đáp ứng được cho một số lượng lớn người khỏe mạnh, an toàn, không xâm nhập đồng thời có tỷ lệ dương tính giả thấp chấp nhận được. Khi triệu chứng ung thư được phát hiện thì các phương pháp chẩn đoán kế tiếp thâm nhập hơn và có khả năng khẳng định hơn được thực hiện để xác nhận chẩn đoán.
+Tầm soát ung thư có thể giúp phát hiện sớm bệnh. Chẩn đoán sớm giúp kéo dài đời sống. Một số thử nghiệm tầm soát đã được triển khai. Tầm soát ung thư vú có thể được thực hiện bởi tự khám vú. Tầm soát bằng chụp tuyến vú phát hiện được khối u sớm hơn cả tự thăm khám, và nhiều nước sử dụng nó để tầm soát một cách hệ thống tất cả các phụ nữ trung niên. Ung thư đại trực tràng có thể được phát hiện nhờ vào xét nghiệm máu tiềm ẩn trong phân và soi đại tràng, chúng giúp làm giảm đi cả tỷ lệ mắc bệnh và tử vong nhờ phát hiện và loại bỏ các polyp tiền ác tính. Một cách tương tự, xét nghiệm tế bào học cổ tử cung (sử dụng Pap smear) giúp xác định và cắt bỏ các tổn thương tiền ung thư. Qua thời gian, những thử nghiệm như vậy đã dẫn đến giảm rõ rệt tỷ lệ ung thư cổ tử cung và tỷ lệ tử vong. Nam giới được khuyên tự khám tinh hoàn bắt đầu từ tuổi 15 để phát hiện ung thư tinh hoàn. Ung thư tiền liệt tuyến (nhiếp hộ tuyến) có thể được tầm soát nhờ vào khám trực tràng bằng ngón tay cùng với thử máu tìm kháng nguyên đặc hiệu tiền liệt tuyến (PSA).
+Tầm soát ung thư là vấn đề còn bàn cãi trong những trường hợp khi không biết chắc nó có thực sự cứu mạng sống hay không. Tranh cãi đặt ra khi không rõ là liệu lợi ích từ việc tầm soát có hơn hẳn nguy cơ của các xét nghiệm chẩn đoán tiếp theo và điều trị ung thư. Ví dụ trong trường hợp tầm soát ung thư tiền liệt tuyết, xét nghiệm PSA có thể phát hiện những ung thư nhỏ mà sẽ không bao giờ trở nên đe dọa đến tính mạng, nhưng khi đã được chẩn đoán thì sẽ dẫn đến điều trị. Tình trạng này gọi là chẩn đoán quá mức, đưa con người đối diện với nguy cơ các biến chứng của điều trị không cần thiết như là phẫu thuật hay xạ trị. Những thủ thuật tiếp theo được sử dụng để chẩn đoán ung thư tiền liệt tuyến (như sinh thiết tiền liệt tuyến) có thể gây ra các tác dụng phụ, như chảy máu và nhiễm trùng. Điều trị ung thư tiền liệt tuyến có thể dẫn đến viêc đái són (mất khả năng kiểm soát dòng nước tiểu) và rối loạn cường dương (cương không đủ cho giao hợp). Tương tự đối với ung thư vú, gần đây có những phê bình về chương trình tầm soát ung thư ở một vài nước đã gây là nhiều bất cập hơn là lợi ích thu được. Đó là vì tầm soát phụ nữ trong quần thể rộng sẽ gây ra một số lớn dương tính giả cần khảo sát tiếp theo để loại trừ ung thư, dẫn đến tăng số cần điều trị (hay số cần tầm soát) để phòng ngừa hay bắt gặp một trường hợp ung thư vú giai đoạn sớm.
+Về phương diện y tế công cộng, tầm soát ung thư cổ tử cung bằng Pap smear có hiệu quả - chi phí tốt nhất trong các dạng tầm soát ung thư vì ung thư này có yếu tố nguy cơ rõ ràng (tiếp xúc qua đường tình dục) và diễn tiến tự nhiên chậm qua nhiều năm do đó cho phép chúng ta có thời gian để tầm soát và phát hiện bệnh sớm. Hơn nữa, xét nghiệm này cũng dễ thực hiện và tương đối rẻ tiền.
+Sử dụng chẩn đoán hình ảnh để truy tầm ung thư ở những người không có triệu chứng rõ ràng cũng có những vấn đề rắc rối tương tự. Nguy cơ tăng đáng kể trong việc phát hiện những khối u mà gần đây được gọi là khối u tình cờ - đó là tổn thương lành tính được xem là ác tính để rồi trở thành điểm ngắm cho các thăm dò nguy hiểm khác.
+Vì những lý do này, điều quan trọng là lợi ích và nguy cơ của quá trình chẩn đoán và điều trị phải được cân nhắc khi tiến hành tầm soát ung thư.
+
+
+== Các loại ung thư ==
+Ung thư có thể được phân loại dựa theo tính chất giải phẫu bệnh hoặc theo cơ quan bị tổn thương.
+Các tế bào ung thư trong một khối u (bao gồm cả tế bào đã di căn) đều xuất phát từ một tế bào duy nhất phân chia mà thành. Do đó một bệnh ung thư có thể được phân loại theo loại tế bào khởi phát và theo vị trí của tế bào đó. Tuy nhiên, trong nhiều trường hợp, người ta không xác định được khối u nguyên phát.
+Ung thư biểu mô (carcinoma) có nguồn gốc từ tế bào biểu mô (ví dụ như ở ống tiêu hóa hay các tuyến tiêu hoá).
+Bệnh lý huyết học ác tính (hematological malignancy), như bệnh bạch cầu (leukemia) và u lympho bào (lymphoma), xuất phát từ máu và tủy xương.
+Ung thư mô liên kết (sarcoma) là nhóm ung thư xuất phát từ mô liên kết, xương hay cơ.
+U hắc tố do rối loạn của tế bào sắc tố.
+U quái bắt nguồn từ các tế bào mầm.
+
+
+=== Ung thư ở người lớn ===
+Ở Mỹ và các nước phát triển khác ung thư chiếm khoảng 25% trường hợp chết do mọi nguyên nhân1. Theo thống kê hàng năm thì khoảng 0,5% dân số được chẩn đoán ung thư.
+Đối với đàn ông trưởng thành ở Mỹ, các loại ung thư hay gặp là ung thư tiền liệt tuyến (33% của tất cả các loại ung thư), ung thư phổi (13%), ung thư đại trực tràng (10%), ung thư bàng quang (7%) và u hắc tố ở da (5%). Nguyên nhân tử vong do ung thư phổi hay gặp nhất (31%), sau đó là ung thư tiền liệt tuyết (10%), ung thư đại trực tràng là (10%), ung thư tụy (5%) bệnh ung thư bạch cầu (4%)1.
+Đối với phụ nữ trưởng thành ở Mỹ, ung thư vú hay gặp nhất (32% của tất cả các loại ung thư) theo sau bởi ung thư phổi (12%), ung thư đại trực tràng (11%), ung thư nội mạc tử cung (6%) và u lympho bào không Hodgkin (4%). Theo nguyên nhân tủ vong, ung thư phổi lại là dẫn đầu (27% trong tống số chết do ung thư), theo sau bởi ung thư vú (15%), ung thư trực tràng (10%), ung thư buồng trứng (6%) và ung thư tụy (6%)1.
+Những con số thông kê này thay đổi theo từng nước.
+Những ung thư khác:
+Ung thư biểu mô: ung thư da (thực tế đây là ung thư hay gặp nhất nhưng lại không được phân loại theo thống kê sức khỏe), ung thư cổ tử cung, carcinoma hậu môn, ung thư thực quản, carcinoma tế bào gan, ung thư thanh quản, carcinoma tế bào thận, ung thư dạ dày, nhiều loại ung thư tinh hoàn và ung thư tuyến giáp.
+Bệnh lý ác tính về huyết học (máu và tủy xương): leukemia (bệnh bạch cầu), u limpho bào, bệnh đa u tủy, ung thư máu
+Sarcoma (ung thư mô liên kết): sarcoma xương, sarcoma sụn, sarcoma cơ vân.
+Có nguồn gốc hỗn hợp: u não, u mô đệm đường tiêu hóa (GIST), u trung biểu mô (ở màng phổi hay màng tim), u tuyến ức, u quái, u hắc tố.
+
+
+=== Ung thư ở trẻ em ===
+Ung thư có thể xảy ra ở trẻ nhỏ và thiếu niên. Ở đó các tiến trình di truyền bất thường, mà không có khả năng bảo vệ chống lại sự phát triển bất thường của các dòng tế bào bệnh lý, xảy ra rất sớm và có thể diễn tiến rất nhanh chóng.
+Lứa tuổi có tỷ lệ ung thư cao nhất là năm đầu tiên của cuộc sống. Bệnh bạch cầu (thường là bệnh bạch cầu nguyên bào lymphô cấp - acute lymphoblastic leukemia hay ALL) là dạng ung thư hay gặp nhất ở trẻ nhũ nhi (30%), theo sau đó là ung thư hệ thần kinh trung ương và u nguyên bào thần kinh (neuroblastoma). Phần còn lại thuộc về u Wilms, u lympho bào, sarcoma cơ vân, u nguyên bào võng mạc (retinoblastoma), sarcoma xương và sarcoma Ewing1.
+Bé gái và trai có chung về tỷ lệ ung thư, nhưng trẻ nhỏ da trắng có tỷ lệ ung thư cao hơn trẻ nhỏ da đen trong hầu hết các dạng ung thư. Tỷ lệ sống sót đối với trẻ nhỏ là rất cao trong các trường hợp u nguyên bào thần kinh, u Wilms và u nguyên bào võng mạc, và tương đối cao (80%) đối với leukemia, nhưng lại không tốt đối với các loại ung thư khác.
+
+
+== Nguyên nhân và sinh lý bệnh ==
+
+
+=== Nguồn gốc của ung thư ===
+Phân chia tế bào (tăng sinh) là quá trình sinh lý xảy ra trong những điều kiện nhất định ở hầu hết các mô trong cơ thể sinh vật đa bào. Bình thường sự cân bằng giữa tốc độ của quá trình tăng sinh và quá trình chết của tế bào được điều hòa một cách chặt chẽ để đảm bảo cho tính toàn vẹn của cơ quan và mô. Khi các tế bào xảy ra những đột biến trong DNA, chúng có thể phá vỡ cơ chế điều khiển này và dẫn đến ung thư.
+Sự tăng sinh không kiểm soát và thường là nhanh chóng của tế bào sẽ tạo thành các khối u lành tính hay khối u ác tính (ung thư). Những khối u lành tính không lan tràn đến những nơi khác trong cơ thể hay xâm lấn vào các mô khác, và chúng hiếm khi đe dọa đến tính mạng trừ khi chúng chèn ép đến các cấu trúc sống còn. Các khối u ác tính có thể xâm lấn vào các cơ quan khác, lan đến những nơi xa hơn (di căn) và trở nên đe dọa đến tính mạng.
+
+
+=== Bệnh học phân tử ===
+
+Sinh ung thư (carcinogenesis) là quá trình rối loạn tốc độ phân chia tế bào do tổn thương của DNA. Do đó ung thư là một bệnh lý về gene. Thông thường, một tế bào bình thường để chuyển dạng sang tế bào ung thư phải trải qua một vài đột biến ở một số gene nhất định. Quá tình này liên quan đến cả hệ thống gene tiền ung thư (proto-oncogene) và gene áp chế ung thư (tumor suppressor gene). Gene tiền ung thư mã hoá cho nhóm protein tham gia vào quá trình hình thành những chất truyền tin (messenger) trong quá trình dẫn truyền tín hiệu tế bào. Các chất truyền tin này sẽ truyền tín hiệu "tiến hành phân bào" tới chính tế bào đó hay những thế bào khác. Do vậy, khi bị đột biến, các gene tiền ung thư sẽ biểu hiện quá mức (overexpression) các tín hiệu phân chia tế bào, và làm các tế bào tăng sinh thừa thãi, lúc này trở thành những gene ung thư (oncogene). Tuy nhiên, vì các gene ung thư thực chất là các gene cần thiết đối với quá trình phát triển, sửa chữa và hằng định nội môi của cơ thể, do đó không thể loại bỏ các gene này khỏi hệ gene nhằm làm giảm khả năng ung thư.
+Khác với gene ung thư, các gene áp chế ung thư mã hóa cho các chất truyền tin hóa học nhằm giảm hoặc ngừng quá trình phân chia của tế bào khi phát hiện thấy có sai hỏng về DNA. Đó là các enzyme đặc biệt có thể phát hiện các đột biến hay tổn thương DNA và đồng thời khích hoạt quá trình phiên mã của hệ thống enzyme sửa chữa DNA Điều này nhằm hạn chế tối đa khả năng các sai hỏng này được truyền cho thế hệ tế bào kế tiếp. Thông thường, các gene áp chế ung thư sẽ được kích hoạt khi có tổn thương DNA xảy ra, nhưng một số đột biến có thể bất hoạt protein áp chế ung thư hoặc làm mất khả năng truyền thông tin của nó. Điều này làm gián đoạn hoặc dừng cơ chế sửa chữa DNA, khi đó những tổn thương DNA được tích luỹ lại dần dần hình thành ung thư.
+Nhìn chung, điều kiện cần thiết để hình thành ung thư là phải đột biến ở cả hai nhóm gene tiền ung thư và gene áp chế ung thư. Chẳng hạn như đột biến giới hạn ở một gene ung thư sẽ bị ức chế bởi sự kiểm soát phân bào bình thường (giả thuyết Knudson hay giả thuyết 1-2 cú đánh) và các gene ức chế khối u. Và cũng vậy chỉ một đột biến gene ức chế khối u cũng không gây ra ung thư, do bởi có nhiều gene "dự phòng" cùng chức năng. Chỉ khi có đủ gene tiền ung thư bị đột biến thành gene ung thư và có đủ gene ức chế khối u bị bất hoạt hoặc tổn thương lúc đó các tín hiệu cho tế bào phát triển vượt quá các tín hiệu điều hòa thì sự phát triển tế bào sẽ nhanh chóng vượt khỏi tầm kiểm soát.
+Đột biến có thể từ các nguyên nhân khác nhau. Một số nguyên nhân riêng biệt đã được liên kết với các loại ung thư đặc hiệu. Hút thuốc lá liên quan đến ung thư phổi. Phơi nhiễm kéo dài đối với phóng xạ, đặc biệt là phóng xạ tia cực tím từ mặt trời, dẫn đến u hắc tố và các loại ung thư da khác. Hít các sợi amiăng có liên quan đến u trung biểu mô. Tổng quát hơn, các chất hóa học được gọi là chất gây đột biến (mutagen) và các gốc tự do được biết là nguyên nhân gây ra đột biến. Các dạng khác của đột biến cũng có thể gây ra bởi quá trình viêm mạn tính, vì bạch cầu hạt trung tính tiết ra các gốc tự do có thể làm tổn thương DNA. Hoán vị nhiễm sắc thể, ví dụ như nhiễm sắc thể Philadelphia, là một dạng đặc biệt của đột biến liên quan đến sự trao đổi giữa các nhiễm sắc thể khác nhau.
+Nhiều chất gây đột biến cũng là chất gây ung thư, nhưng một số chất gây ung thư không là chất gây đột biến. Ví dụ của chất gây ung thư nhưng không phải là chất gây đột biến bao gồm rượu và estrogen. Chúng được cho là thúc đẩy phát triển ung thư thông qua tác dụng kích thích tốc độ phân bào. Tốc độ phân bào nhanh chóng sẽ để lại ít khoảng cửa sổ hơn cho các enzyme sửa chữa DNA tổn thương trong quá trình sao chép DNA, và gia tăng khả năng sai lạc di truyền. Một sai lạc xảy ra trong quá trình phân bào có thể dẫn đến những tế bào nối tiếp nhận số lượng nhiễm sắc thể sai, dẫn đến dị bội nhiễm sắc thể và gây ra ung thư.
+Các đột biến cũng có thể được di truyền. Thừa hưởng các đột biến nào đó trong gene BRCA1, một gene ức chế khối u, làm cho phụ nữ dễ phát triển ung thư vú và ung thư buồng trứng. Đột biến ở gene Rb1 có thể gây ra u nguyên bào võng mạc, và các đột biến gene APC dẫn đến ung thư đại tràng.
+Một số loại virus có thể gây ra đột biến. Chúng đóng vai trò trong khoảng 15% các trường hợp ung thư. Virus khối u, chẳng hạn như retrovirus, herpesvirus và papillomavirus, thường mang một gene ung thư hoặc một gene kìm hãm quá trình ức chế khối u trong bộ gene của chúng.
+Khó có thể biết nguyên nhân đầu tiên gây ra ung thư. Tuy nhiên kỹ thuật sinh học phân tử có thể giúp xác lập đặc tính của đột biến hay sai lạc nhiễm sắc thể trong khối u, và cũng đã có tiến bộ nhanh chóng trong lĩnh vực tiên lượng dựa vào hình thái đột biến ở một số bệnh ung thư. Ví dụ như hơn phân nửa số ung thư có tổn thương gene p53, đây là gene ức chế khối u đồng thời cũng được biết như là "người bảo vệ bộ gene". Đột biến này liên quan đến tiên lượng xấu, vì tế bào của các khối u đó không đi vào quá trình apoptosis (cái chết được lập trình). Đột biến của telomerase đã loại bỏ các hàng rào hỗ trợ khác, làm tăng số lần tế bào có thể phân chia. Những đột biến khác giúp cho khối u tăng sinh mạch máu để cung cấp nhiều hơn chất dinh dưỡng, hay giúp cho việc di căn đến những nơi khác của cơ thể.
+Các tính chất đặc trưng của tế bào ác tính:
+tránh được apoptosis (chết theo chương trình)
+khả năng phát triển vô hạn (bất tử)
+tự cung cấp các yếu tố phát triển
+không nhạy cảm đói với các yếu tố chống tăng sinh
+tốc độ phân bào gia tăng
+thay đổi khả năng biệt hóa tế bào
+không có khả năng ức chế tiếp xúc
+khả năng xâm lấn mô xung quanh
+khả năng di căn đến nơi xa
+khả năng tăng sinh mạch máu
+Một tế bào thoái triển thành tế bào khối u thường không có tất cả đặc điểm này cùng một lúc, tuy nhiên hậu duệ của chúng sẽ được chọn lọc để có các đặc tính đó. Quá trình này được gọi là phát triển theo dòng (clonal evolution). Bước đầu tiên trong quá trình phát triển của một tế bào u thường là một biến đổi nhỏ trong DNA, thông thường là đột biến điểm, nó tạo ra bất ổn về di truyền trong tế bào. Sự bất ổn này có thể dẫn đến việc tế bào mất toàn bộ nhiễm sắc thể hay một vài nhiễm sắc thể tăng thêm số lượng. Cũng vậy quá trình methyl hóa DNA của tế bào thay đổi dẫn đến không kiểm soát được việc kích hoạt hay bất hoạt các gene. Tế bào có tốc độ phân chia cao, như biểu mô, tỏ ra có nguy cơ cao trở thành ung thư hơn tế bào phân chia ít hơn, như tế bào thần kinh.
+
+
+=== Hình thái học ===
+
+Mô ung thư có hình ảnh đặc biệt dưới kính hiển vi. Các đặc điểm nổi bật có thể thấy là một số lớn các tế bào phân chia, thay đổi hình dạng và kích thước nhân, thay đổi hình dạng và kích thước tế bào, mất các đặc điểm chuyên biệt của tế bào, mất cấu trúc mô bình thường, và ranh giới của khối u không rõ. Phương pháp hoá mô miễn dịch và các phương pháp phân tử khác có thể xác định chất đánh dấu đặc hiệu trên tế bào khối u, giúp cho chẩn đoán và tiên lượng.
+Sinh thiết và khám nghiệm vi thể có thể phân biệt được giữa ác tính và tăng sản. Tăng sản là trường hợp tăng sinh mô do tốc độ phân bào quá mức, làm gia tăng số lượng tế bào nhưng chúng vẫn giữ trật tự sắp xếp bình thường trong mô. Quá trình này được xem là có thể hồi phục được. Tăng sản có thể là một đáp ứng bình thường của mô đối với tác nhân kích thích, chẳng hạn như cục chai ở da.
+Loạn sản là một dạng bất thường của tăng sinh tế bào quá mức đặc trưng bởi mất đi sắp đặt bình thường của mô và cấu trúc tế bào. Thường thì những tế bào như vậy sẽ quay trở lại đặc tính bình thường của chúng, nhưng đôi khi chúng dần dần trở nên ác tính.
+Mức độ nặng nhất của loạn sản được xem như là "ung thư tại chỗ" (carcinoma in situ, trong tiếng Latinh, thuật ngữ "in situ" có nghĩa là "tại chỗ"). Ung thư biểu mô tại chỗ được xem là sự phát triển không kiểm soát của tế bào vẫn còn nằm tại vị trí nguyên thuỷ và chưa có biểu hiện xâm nhập đến nơi khác. Tuy vậy, ung thư biểu mô tại chỗ có thể phát triển thành ác tính xâm lấn và thường được phẫu thuật cắt bỏ nếu có thể.
+
+
+=== Đặc điểm di truyền ===
+Hầu hết các dạng ung thư là tự phát đơn lẻ, và không có cơ sở di truyền. Tuy nhiên một số hội chứng của ung thư đã được biết có mang yếu tố di truyền. Ví dụ như:
+Một số đột biến ở gene BRCA1 và BRCA2 liên quan đến tăng nguy cơ ung thư vú và ung thư buồng trứng
+Các khối u của các cơ quan nội tiết trong bệnh đa u tuyến nội tiết (multiple endocrine neoplasia - MEN thể 1, 2a, 2b)
+Hội chứng Li-Fraumeni (sarcoma xương, ung thư vú, sarcoma mô mềm, u não) do đột biến của p53
+Hội chứng Turcot (u não và polyp đại tràng)
+Bệnh polyp tuyến gia đình là một đột biến di truyền trong gene APC dẫn đến phát triển sớm ung thư đại tràng
+U nguyên bào võng mạc trẻ em là ung thư di truyền
+
+
+=== Môi trường và chế độ ăn uống ===
+
+Qua nhiều thập kỷ nghiên cứu, phát hiện chắc chắn nhất là sự phối hợp chặt chẽ giữa hút thuốc lá và ung thư ở các vị trí khác nhau. Hàng trăm nghiên cứu dịch tễ học đã khẳng định mối liên kết này. Dữ liệu ủng hộ thêm nữa là tỷ lệ tử vong do ung thư phổi ở Mỹ phản ảnh mức độ hút thuốc lá, trong đó sự gia tăng hút thuốc lá dẫn đến gia tăng ung thư phổi, và gần đây hơn khi hút thuốc lá giảm đi kèm với tỷ lệ tử vong do ung thư phổi giảm ở nam giới.
+Đến phân nửa số ung thư tất cả các loại có sự đóng góp của hút thuốc lá, chế độ ăn uống và ô nhiễm môi trường. Nguyên nhân chủ yếu có thể kể đến là do nguồn nước ô nhiễm và nguồn thực phẩm có chứa chất bảo quản độc hại. Ở Việt Nam, hàng ngày, người tiêu dùng phải ăn những loại thực phẩm bị tẩm độc bởi những loại hóa chất độc hại, hầu hết đều có chứa các chất bảo quản gây nguy cơ mắc bệnh ung thư cho người tiêu dùng: táo, khoai tây, lê… hàng loạt các thực phẩm, hoa quả trong nước được tẩm ướp và chế biến, bảo quản bằng hóa chất như giá đỗ, chuối, đu đủ, cà chua, mít…
+Những thứ quà vặt cho trẻ em như bim bim, bánh kẹo hay những thứ đồ chơi cho trẻ như thú nhún, cây thông Noel, Đèn lồng cũng trở nên nguy hiểm đổi với con người bởi bên trong đó là những loại hóa chất trở thành tác nhân gây ra bệnh ung thư. Ngoài ra, ung thư vú hiện đang trở thành loại bệnh thường gặp nhất ở nữ giới và được dự báo có xu hướng tiếp tục tăng.
+
+
+== Thực phẩm bẩn gây ung thư ==
+Theo tiến sĩ, bác sĩ Nguyễn Khánh Hoà - Research Asociate (Phụ tá nghiên cứu), Đơn vị nghiên cứu Đái tháo đường, khoa Y, Đại học Manitoba, Canada, những tác nhân nào gây ung thư có mặt trong thực phẩm bẩn gồm có:
+1. Độc tố của nấm: Aflatoxin–tác nhân gây ung thư thuộc nhóm 1 (Theo phân loại của IARC-WHO- Nhóm 1 là nhóm chắc chắn gây ung thư cho người.)
+2. Thuốc chống thối Formaldehyde- tác nhân gây ung thư thuộc nhóm 1
+3. Thuốc nhuộm màu Auramine O- tác nhân gây ung thư thuộc nhóm 1
+4. Thuốc trừ sâu, diệt cỏ malathion, diazinon và glyphosate "có nhiều" khả năng gây ung thư (Nhóm 2A). Hai loại còn lại, tetrachlorvinpho và parathion, được coi là “có thể” (Nhóm 2B).
+5. Một số virus viêm gan B, C. Tác nhân gây ung thư nhóm 1.
+6. Kháng sinh: Cloramphenicol- tác nhân gây ung thư nhóm 2A (Có khả năng gây ung thư cho người).
+
+
+== Điều trị ung thư ==
+Ung thư có thể được điều trị bằng phẫu thuật, hóa trị liệu, xạ trị liệu, miễn dịch trị liệu hay các phương pháp khác. Việc chọn lựa phương pháp điều trị phụ thuộc vào vị trí và độ (grade) của khối u, giai đoạn của bệnh, cũng như tổng trạng của bệnh nhân. Một số điều trị ung thư thực nghiệm cũng đang được phát triển.
+Loại bỏ hoàn toàn khối u mà không làm tổn thương phần còn lại của cơ thể là mục tiêu điều trị. Đôi khi công việc này được thực hiện bằng phẫu thuật, nhưng khả năng xâm lấn ung thư đến các mô lân cận hay lan đến nơi xa ở mức độ vi thể thường hạn chế hiệu quả diều trị. Hiệu quả của hóa trị thì hạn chế bởi độc tính đối với các mô lành khác. Xạ trị cũng gây thương tổn đến mô lành.
+Bởi vì ung thư được xem như là tập hợp các bệnh lý, nên dường như chẳng bao giờ có một phác đồ điều trị ung thư đơn lẻ so với khả năng có một phác đồ điều trị duy nhất cho tất cả các bệnh lý nhiễm trùng.
+
+
+=== Phẫu thuật ===
+Nếu khối u còn khu trú, phẫu thuật là phương pháp thường được lựa chọn. Ví dụ có phẫu thuật cắt bỏ tuyến vú ở ung thư vú, cắt bỏ tuyến tiền liệt ở ung thư tuyến tiền liệt. Mục đích của phẫu thuật là có thể cắt bỏ chỉ khối u đơn thuần hoặc toàn bộ cơ quan. Khi một tế bào ung thư phát triển thành một khối u khá lớn, việc chỉ cắt bỏ khối u đơn thuần dẫn đến tăng nguy cơ tái phát. Bờ của mô lành cũng thường được cắt bỏ để đảm bảo toàn bộ mô ung thư được loại bỏ. phương pháp này có thể gây tế bào ung thư bị biến dạng và khi ung thư đã di căn thì việc xác định được điểm xuất phát khối u là rất khó để loại bỏ hết.
+Bên cạnh việc cắt bỏ khối u nguyên phát, phẫu thuật cần thiết cho phân loại giai đoạn, ví dụ như xác định độ lan tràn của bệnh, xem thử đã có di căn đến các hạch bạch huyết vùng hay chưa. Phân loại giai đoạn cho biết tiên lượng và nhu cầu điều trị bổ sung.
+Đôi khi, phẫu thuật cần thiết cho kiểm soát triệu chứng, như chèn ép tủy sống hay tắc ruột. Đây được gọi là điều trị tạm thời.
+
+
+=== Hóa trị liệu ===
+Hóa trị liệu là điều trị ung thư bằng thuốc ("thuốc chống ung thư") có khả năng tiêu diệt tế bào ung thư. Chúng can thiệp vào phân bào theo các cách khác nhau, ví dụ như sự sao chép DNA hay quá trình phân chia các nhiễm sắc thể mới được tạo thành. Hầu hết các dạng hóa trị đều nhắm vào các tế bào phân chia nhanh chóng và không đặc hiệu cho tế bào ung thư. Vì vậy, hóa trị có khả năng làm tổn thương các mô lành, nó cũng tiêu diệt các tế bào khỏe của cơ thể trong tủy xương và tế bào tiêu hóa trong ruột. Nó cũng làm hư hại các cơ quan khác như lá lách, thận, tim, phổi... đặc biệt là các mô có tần suất thay thế nhanh chóng (ví dụ như niêm mạc ruột). Những tế bào này thường tự sửa chữa sau khi hóa trị.
+Vì một số thuốc hoạt động tốt khi phối hợp với nhau hơn là dùng đơn độc, nên hai hay nhiều thuốc thường được kết hợp cùng lúc với nhau. Đó được gọi là "hóa trị phối hợp"; hầu hết các phác đồ hóa trị ở dạng phối hợp. Ví dụ như tác dụng hỗ trợ thuốc ung thư của mật gấu ngựa
+Một kỹ thuật mới liên quan đến việc lấy mẫu mô của bệnh nhân trước khi hóa trị. Những mẫu mô này được kiểm tra để đảm bảo chúng không chứa tế bào ung thư. Mẫu mô này được phát triển nhờ vào kỹ thuật phát triển mô (tissue engineering) sau đó chúng được cấy vào lại trong cơ thể để thay thế cho mô đã bị tổn thương hay hủy hoại bằng cách nào đó bởi quá trình hóa trị liều cao. Một dạng khác của phương pháp này là dùng mẫu mô dị gen (allogenic) (lấy từ người cho khác) thay cho mô của chính bệnh nhân4.
+
+
+=== Miễn dịch trị liệu (Tăng cường hệ miễn dịch) ===
+Miễn dịch trị liệu ung thư là sử dụng cơ chế miễn nhiễm chống lại khối u. Chúng được dùng trong các dạng ung thư khác nhau, như ung thư vú (trastuzumab/Herceptin®) và leukemia (gemtuzumab ozogamicin/Mylotarg®). Các chất đó là kháng thể đơn dòng nhằm chống lại các protein đặc trưng cho các tế bào ung thư, hay các cytokine điều hoà đáp ứng của hệ miễn dịch. -Miễn dịch trị liệu là kích hoạt và làm tăng số lượng của các tế bào miễn dịch của cơ thể gọi là macrophage và tế bào "sát thủ tự nhiên" NK Cell. Macrophage là hàng rào miễn dịch đầu tiên bảo vệ và chống lại bất cứ yếu tố ngoại lai nào xâm nhập cơ thể, kể cả các tế bào ung thư. NK Cell là một tế bào miễn dịch đặc hiệu có chức năng nhận biết và tiêu diệt tế bào Ung Thư.
+
+
+=== Xạ trị liệu ===
+Xạ trị liệu (điều trị bằng tia X hay chiếu xạ) là sử dụng một dạng năng lượng (gọi là phóng xạ ion hoá) để diệt tế bào ung thư và làm teo nhỏ khối u. Xạ trị làm tổn thương hay hủy hoại các tế bào được điều trị ("mô đích") bằng cách làm tổn thương vật chất di truyền của chúng, khiến chúng không thể phát triển và phân chia. Mặc dù xạ trị làm tổn thương cả tế bào ung thư và tế bào lành, hầu hết các tế bào lành có thể hồi phục và hoạt động bình thường. Mục tiêu của xạ trị là làm tổn thương càng nhiều tế bào ung thư trong khi giới hạn tổn thương đối với mô lành lân cận.
+Xạ trị có thể được dùng để điều trị hầu hết các loại u đặc, gồm ung thư não, vú, cổ tử cung, thanh quản, tụy, tiền liệt tuyến, da, cột sống, dạ dày, tử cung hay các sarcoma mô mềm. Xạ trị cũng có thể được dùng trong leukemia và lymphoma (ung thư của tế bào tạo máu và hệ thống bạch huyết). Liều xạ trị cho mỗi vị trí tùy thuộc vào một số yếu tố như loại ung thư và có hay không khả năng mô hay cơ quan xung quanh bị tổn thương bởi xạ trị.
+
+
+=== Ức chế nội tiết tố ===
+Sự phát triển của hầu hết các mô, bao gồm ung thư, có thể được gia tăng hay bị ức chế bằng cách cung cấp hay ngăn chặn các loại hormone nào đó. Điều này cho phép một phương pháp bổ sung trong điều trị nhiều loại ung thư. Các ví dụ thông thường của khối u nhạy cảm với hormone là một số loại ung thư vú, tiền liệt tuyến, và tuyến giáp. Việc loại bỏ hay ức chế estrogen (đối với ung thư vú), testosterone (ung thư tiền liệt tuyến), hay TSH (ung thư tuyến giáp) là phương pháp điều trị bổ sung quan trọng.
+
+
+=== Kiểm soát triệu chứng ===
+Mặc dù kiểm soát triệu chứng không là cách điều trị trực tiếp lên ung thư, nó vẫn được xem là yếu tố quan trọng quyết định chất lượng sống của bệnh nhân, và giữ vai trò quan trọng trong quyết định áp dụng các điều trị khác trên bệnh nhân. Mặc dù mọi thầy thuốc thực hành đều có thể điều trị kiểm soát đau, buồn nôn, nôn, tiêu chảy, xuất huyết và các vấn đề thường gặp khác ở bệnh nhân ung thư, chuyên khoa săn sóc tạm thời (palliative care) đã xuất hiện để đáp ứng nhu cầu kiểm soát triệu chứng ở nhóm bệnh nhân này.
+Thuốc giảm đau (thường là các opioid như morphine) và thuốc chống nôn rất thường được sử dụng ở bệnh nhân có các triệu chứng liên hệ đến ung thư.
+
+
+=== Các thử nghiệm điều trị ===
+Thử nghiệm điều trị, cũng còn gọi là nghiên cứu điều trị, dùng để kiểm tra các phương pháp điều trị mới trên bệnh nhân ung thư. Mục đích của nghiên cứu này là đi tìm ra các phương pháp tốt hơn để điều trị ung thư và giúp đỡ bệnh nhân ung thư. Các thử nghiệm lâm sàng khảo sát nhiều loại điều trị như thuốc mới, phương pháp phẫu thuật hay xạ trị mới, phối hợp trị liệu mới, hoặc phương pháp điều trị mới như gene liệu pháp.
+Thử nghiệm lâm sàng là một trong các giai đoạn cuối cùng của quá trình nghiên cứu ung thư cẩn thận và lâu dài. Việc tìm kiếm phương pháp điều trị mới bắt đầu trong phòng thí nghiệm, ở đó các nhà khoa học lần đầu triển khai và kiểm tra các ý tưởng mới. Nếu một hướng nghiên cứu có triển vọng, bước kế tiếp có thể là thử nghiệm điều trị trên động vật để xem nó ảnh hưởng thế nào đến ung thư trên cơ thể sống đồng thời xem thử độc tính của nó thế nào. Dĩ nhiên, các phương pháp điều trị có kết quả tốt trong phòng thí nghiệm hay trên động vật chưa hẳn đã là tốt trên người. Nghiên cứu được thực hiện trên bệnh nhân ung thư để xác định xem các phương pháp điểu trị hứa hẹn này có an toàn và hiệu quả hay không.
+Các bệnh nhân tham gia có thể đựợc giúp đỡ về mặt cá nhân nhờ vào điều trị mà họ nhận được. Họ nhận được sự săn sóc cập nhật nhất từ các chuyên gia ung thư, và họ nhận được hoặc một phương pháp điều trị mới đang được thử nghiệm hoặc một phương pháp điểu trị tiêu chuẩn tốt nhất đang có cho bệnh lý ung thư của họ. Lẽ dĩ nhiên không có sự đảm bảo nào về các phương pháp điều trị mới hay chuẩn này mang lại kết quả tốt. Các phương pháp điều trị mới cũng có những nguy cơ không được xác định, nhưng nếu một phương pháp điều trị mới chứng minh được hiệu quả hay hiệu quả hơn phương pháp chuẩn, các bệnh nhân nghiên cứu có thể nằm trong số những người đầu tiên hưởng được lợi ích này.
+Y khoa thế giới ghi nhận một liệu pháp chữa trị ung thư xuất phát từ Việt Nam đang được nghiên cứu và thử nghiệm đó là sử dụng các chế phẩm từ nấm lim xanh – một loài nấm đặc hữu của Việt Nam. Tạp chí Tin tức Y tế xuất bản tại Mỹ số ra tháng 5/2012 cho biết các bác sĩ ở bệnh viện St. John tại Birmingham nước Anh đã thử nghiệm sử dụng nấm lim xanh trong điều trị ung thư và cho kết quả khả quan.
+
+
+=== Y học thay thế và bổ sung ===
+Y học thay thế và bổ sung (complementary and alternative medicine - CAM) là nhóm phong phú các hệ thống săn sóc sức khỏe và y tế, thực hành và sản phẩm vốn không được xem là có hiệu quả bởi các chuẩn mực của y học quy ước. Một số phương pháp điều trị không quy ước được dùng "bổ sung" cho điều trị quy ước, nhằm tạo sự thoải mái và nâng cao tinh thần cho bệnh nhân. Một số phương pháp điều trị không quy ước khác được dùng thay thế điều trị quy ước với hy vọng chữa lành ung thư.
+Các phương pháp bổ sung thông thường như cầu nguyện hay các biện pháp tâm lý như "tưởng tượng." Nhiều người cảm thấy phương pháp này mang lợi ích cho họ, nhưng hầu hết không chứng minh được tính khoa học và vì thể phải đối diện với sự hồ nghi. Các phương pháp bổ sung khác bao gồm y học cổ truyền như Đông y (thuốc nam/thuốc bắc).
+Nhiều biện pháp điều trị thay thế đã được sử dụng trong ung thư ở thế kỷ qua. Tính hấp dẫn của trị liệu thay thế đến từ các nguy cơ gây chán nản với điều trị, chi phí và tác dụng phụ của điều trị quy ước, hoặc triển vọng chữa lành thấp. Những người đề nghị các phương pháp này không thể hay không muốn chứng minh tính hiệu quả bằng các tiêu chuẩn quy ước. Các điều trị thay thế bao gồm chế độ ăn đặc biệt hoặc bổ sung thành phần thức ăn (ví dụ "chế độ ăn nho" hay điều trị vitamin liều cao), các dụng cụ điện (ví dụ "các máy xoa bóp"), các chất có công thức đặc biệt (như laetrile), sử dụng không theo quy ước các thuốc quy ước (như insulin), xổ ruột hay thụt tháo, các thao tác vật lý trên cơ thể. Một vài phương pháp điều trị này mang tính lừa dối hay xảo thuật. Tóm lại chúng được đánh giá bởi các giới hồ nghi như phương pháp lang vườn điều trị ung thư. Một danh sách có giải thích các phương pháp điều trị này có sẵn tại Quackwatch (Quan sát lang vườn) [1]. Hầu hết các thầy thuốc chống lại việc sử dụng các phương pháp này đơn độc trong điều trị các bệnh lý có khả năng tử vong như ung thư.
+
+
+== Dịch tễ học ==
+Ở các nước phương Tây như Mỹ1 và Anh2, ung thư đang vượt qua bệnh tim mạch là nguyên nhân gây chết hàng đầu. Ở nhiều quốc gia thuộc Thế giới thứ ba tỷ lệ phát hiện ung thư (đến mức có thể tính được) có vẻ thấp hơn nhiều, hầu hết do bởi tỷ lệ tử vong cao hơn vì các bệnh nhiễm trùng và chấn thương. Với sự gia tăng kiểm soát sốt rét và lao ở một số nước Thế giới thứ ba, tỷ lệ ung thư được trông đợi sẽ tăng lên; điều này được gọi là hiện tượng tảng băng trong thuật ngữ dịch tễ học.
+Dịch tễ học ung thư phản ánh sát sự phân bố yếu tố nguy cơ ở các nước khác nhau. Ung thư biểu mô tế bào gan (ung thư gan) hiếm gặp ở các nước phương Tây nhưng là ung thư chính ở Trung Quốc và các nước lân cận, hầu hết do hiện diện nội dịch của viêm gan B và aflatoxin trong dân cư. Cũng vậy, với việc hút thuốc lá đang càng ngày càng phổ biến ở các nước Thế giới thứ ba, tỷ lệ mắc ung thư phổi cũng tăng theo hướng song song.
+
+
+== Phòng ngừa ==
+
+Phòng ngừa ung thư là các biện pháp tích cực nhằm đề phòng, ngăn chặn và giảm tỷ lệ ung thư. Điều này có thể thực hiện bằng cách tránh các tác nhân sinh ung thư hay thay đổi quá trình chuyển hóa của chúng: thay đổi lối sống và chế độ ăn uống nhằm ngăn ngừa các yếu tố gây ung thư hoặc can thiệp bằng y khoa (hóa dự phòng, điều trị sang thương tiền ác tính).
+Có nhiều hứa hẹn phòng ngừa ung thư rút ra từ các nghiên cứu dịch tễ học quan sát. Các nghiên cứu này chỉ ra mối liên hệ giữa các yếu tố lối sống có thể tác động được hay phơi nhiễm môi trường với các bệnh ung thư đặc biệt. Các thử nghiệm ngẫu nhiên có kiểm soát thực hiện trên các gợi ý can thiệp rút ra từ nghiên cứu dịch tễ và phòng thí nghiệm đã đưa ra bằng chứng về giảm tỉ lệ mới mắc và tỉ lệ tử vong.
+Các ví dụ về các nguy cơ có thể tác động được gồm có uống rượu (phối hợp với tăng nguy cơ ung thư miệng, thực quản, vú và các ung thư khác), không hoạt động chân tay (phối hợp với tăng nguy cơ ung thư đại tràng, vú, và có thể các ung thư khác), tình trạng béo phì (phối hợp với ung thư đại tràng, vú, nội mạc tử cung, và có thể các ung thư khác). Dựa vào các bằng chứng dịch tễ học, ngày nay người ta cho rằng tránh uống rượu quá mức, tích cực hoạt động thể lực và duy trì trọng lượng cơ thể thích hợp có thể góp phần làm giảm nguy cơ một số ung thư; tuy nhiên khi so sánh với phơi nhiễm thuốc lá, các phương pháp này có tính hiệu quả còn khiêm tốn và độ tin cậy của bằng chứng còn thấp. Các yếu tố về lối sống và môi trường khác được biết có ảnh hưởng đến nguy cơ ung thư (có lợi hay hại) là hoạt động tình dục hay sinh sản, sử dụng hormone ngoại sinh, tiếp xúc với các phóng xạ ion hoá và tia cực tím, phơi nhiễm với hóa chất và nghề nghiệp nào đó, các tác nhân nhiễm trùng.
+Lời khuyên cho một cuộc sống lành mạnh:
+1. Tránh hút thuốc và khói
+2. Giảm tiêu thụ rượu và thức uống có cồn
+3. Mặc quần áo kín khi ra nắng, tránh ánh nắng mặt trời trực tiếp vào buổi trưa, dùng quần áo được thiết kế đặc biệt chịu được ánh nắng mặt trời, sử dụng kem chống nắng.
+4. Không sử dụng phòng tắm nắng (tanning bed) dùng tia tử ngoại.
+5. Bảo vệ bạn chống lại các bệnh nhiễm trùng có thể gây ra ung thư.
+6. Vận động và tập thể dục thường xuyên.
+7. Hàng ngày dùng nhiều các loại trái cây tươi, rau và salad.
+8. Tránh thừa cân.
+9. Khi khát, ưu tiên dùng nước thường và trà không đường.
+10. Thường xuyên kiểm tra sức khỏe và xét nghiệm sàng lọc sớm tại bác sĩ.
+
+
+=== Chế độ ăn uống và ung thư ===
+Chế độ ăn uống các thực phẩm chứa hóa chất (chất bảo quản, thuốc trừ sâu, phân bón hóa học...) làm tăng nguy cơ gây ung thư. Thói quen ăn uống thường giải thích cho sự khác biệt về tỷ lệ ung thư ở các nước (ví dụ như ung thư dạ dày hay gặp hơn ở Nhật Bản, trong khi ung thư đại tràng hay gặp hơn ở Mỹ). Các nghiên cứu đã chỉ ra rằng, người nhập cư cũng phát triển nguy cơ ung thư giống như ở đất nước mới đến của họ, gợi ý có sự kết nối giữa ăn uống và ung thư hơn là cơ sở về di truyền.
+Dù thường xuyên có các báo cáo về các chất đặc biệt (bao gồm cả thức ăn) có tác động lợi hay hại đến nguy cơ ung thư, chỉ một vài trong số chúng thiết lập được mối liên quan đến ung thư. Các báo cáo này dựa trên các nghiên cứu trong môi trường nuôi cấy tế bào hay động vật. Các lời khuyên về sức khỏe cộng đồng không nên dựa vào cơ sở các nghiên cứu này cho đến khi chúng được xác định trên các thử nghiệm quan sát (hay đôi khi là thử nghiệm can thiệp tiền cứu) trên người.
+Trường hợp của beta-carotene cho chúng ta ví dụ về sự cần thiết của thử nghiệm lâm sàng ngẫu nhiên. Các nhà dịch tễ học nghiên cứu cả hai nồng độ trong thức ăn và huyết thanh thấy rằng nồng độ cao của beta-carotene, một tiền chất của vitamin A, có liên quan đến hiệu quả phòng bệnh, làm giảm nguy cơ ung thư. Hiệu quả này thật sự đặc biệt mạnh trong ung thư phổi. Giả thuyết này đã dẫn đến một loạt các thử nghiệm ngẫu nhiên lớn ở Phần Lan và Mỹ (nghiên cứu CARET) trong suốt hai thập niên 1980 và 1990. Nghiên cứu này cung cấp cho khoảng 80.000 người hút thuốc lá hoặc đã từng hút thuốc lá các bổ sung hằng ngày về beta-carotene hoặc placebo. Ngược lại với mong đợi, những kiểm tra này cho thấy bổ sung beta-carotene không có ích lợi trong giảm tỷ lệ mắc ung thư phổi và tỷ lệ tử vong. Thực ra, nguy cơ ung thư phổi tăng nhẹ, nhưng có ý nghĩa, ở người hút thuốc lá, khiến nghiên cứu kết thúc sớm3.
+
+
+==== Một số chất chống ung thư trong thực phẩm ====
+Alliinase, Myrosinase.
+Selen.
+β-Glucan (Beta glucan).
+Alliinase, Myrosinase.
+Probiotic (vi khuẩn có lợi).
+Curcumin, Catechin, Lycopene.
+Sulforaphane (Sulphoraphane), 3,3'-Diindolylmethane (DIM), Glucoraphanin.
+
+
+==== Một số thực phẩm giúp ngăn ngừa ung thư ====
+Lá/rau: Bông cải xanh, Cải xoăn, Rau chân vịt.
+Củ: Nghệ, Tỏi, Hành tây.
+Nấm.
+Quả: Cà chua.
+Sữa chua.
+
+
+=== Các chất hóa dự phòng khác ===
+Sử dụng hằng ngày tamoxifen, một chất điều hoà chọn lọc thụ thể estrogen, cho đến 5 năm, đã tỏ ra làm giảm nguy cơ phát triển ung thư vú ở phụ nữ nguy cơ cao khoảng 50%. Axít cis-retinoic cũng tỏ ra giảm nguy cơ các ung thư nguyên phát tái phát ở các bệnh nhân ung thư nguyên phát vùng đầu - cổ. Finasteride, là chất ức chế men 5-alpha reductase, có thể hạ thấp nguy cơ ung thư tiền liệt tuyến. Các ví dụ khác về thuốc tỏ ra có hứa hẹn trong hóa dự phòng gồm thuốc ức chế men COX-2 (ức chế men cyclooxygenase liên quan đến tổng hợp prostaglandin tiền viêm).
+
+
+=== Vắc xin trong ung thư ===
+Ngày nay các nỗ lực đáng kể trong việc phát triển vaccine (để dự phòng các tác nhân lây nhiễm sinh u, cũng như phát động đáp ứng miễn dịch chống lại các epitope đặc hiệu cho ung thư) và để phát triển gene tri liệu đối với các cá thể có các đột biến di truyền hay đa hình thái khiến họ đối diện nguy cơ ung thư cao. Hiện tại không có vaccine nào được sử dụng, và hầu hết các nghiên cứu vẫn còn ở giai đoạn bắt đầu.
+
+
+=== Xét nghiệm di truyền ===
+Xét nghiệm di truyền được dùng cho cá thể nguy cơ cao, nhằm tăng cường giám sát, hóa dự phòng, hay phẫu thuật để giảm nguy cơ cho các đối tượng có xét nghiệm dương tính. Hiện tại xét nghiệm này đã có sẵn cho vài loại đột biến gene có liên quan đến ung thư.
+
+
+== Đối diện với ung thư ==
+Nhiều tổ chức địa phương cung cấp các dịch vụ thực hành và hỗ trợ khác nhau cho các bệnh nhân ung thư. Hỗ trợ gồm các hình thức nhóm hỗ trợ, tham vấn, khuyên nhủ, hỗ trợ tài chính, vận chuyển đi lại trong điều trị, hay các thông tin về ung thư. Các tổ chức lân cận, các người cung cấp các dịch vụ y tế địa phương, hay các bệnh viện khu vực là nơi tốt để tìm kiếm hỗ trợ.
+Mặc dù có một số người lưỡng lự trong việc tìm kiếm tham vấn, các nghiên cứu chỉ ra rằng có người nào đó để trao đổi giúp giảm căng thẳng tinh thần và giúp họ về mặt tinh thần và thể chất. Tham vấn cũng có thể giúp hỗ trợ tình cảm đối với bệnh nhân ung thư và giúp họ hiểu tốt hơn bệnh lý của họ. Các dạng tham vấn khác nhau là cá nhân, nhóm, gia đình và tự giúp nhau (đôi khi được gọi là tham vấn đồng hành), thăm viếng người quá cố, bệnh nhân với bệnh nhân và vấn đề tình dục.
+Nhiều tổ chức chính phủ và từ thiện được thành lập để giúp đỡ các bệnh nhân đối diện với ung thư. Các tổ chức này thường liên quan đến dự phòng ung thư, điều trị ung thư và nghiên cứu ung thư. Ví dụ như: Hội ung thư Mỹ, Tổ chức ung thư BC, Tổ chức xoa dịu ung thư Macmillan, Nghiên cứu ung thư Anh, Hội ung thư Canada, Tổ chức quốc tế nghiên cứu ung thư và Viện ung thư quốc gia (Mỹ).
+
+
+== Tác động đối với xã hội ==
+Ung thư có tiếng là căn bệnh chết chóc. Tuy nhiên điều này chỉ đúng cho một vài dạng cụ thể nào đó. Một số loại ung thư có tiên lượng còn tốt hơn các bệnh không ác tính như suy tim và tai biến mạch máu não.
+Các bệnh lý ác tính diễn tiến và lan tỏa có ảnh hưởng quan trọng đến chất lượng sống của bệnh nhân, và nhiều điều trị (như hoá trị) có thể có tác dụng phụ nặng nề. Ở giai đoạn tiến triển ung thư, nhiều bệnh nhân các săn sóc tăng cường, và ảnh hưởng đến người thân và bạn bè. Giải pháp săn sóc tạm thời có thể là săn sóc điều dưỡng nội trú vĩnh viễn hay ngắn hạn.
+
+
+== Nghiên cứu ung thư ==
+Nghiên cứu ung thư là nỗ lực khoa học nhằm tìm hiểu quá trinh bệnh lý và phát hiện các phương pháp điều trị có thể áp dụng được. Trong khi ung thư tăng theo cấp lũy tiến từ thập niên cuối của thế kỷ 20, các phương pháp điều trị mới triệt để chỉ phát hiện và giới thiệu một cách từ tốn.
+Ức chế men tyrosine kinases (imatinib và gefitinib) vào cuối thập niên 1990 được xem như là bước đột phá lớn, chúng can thiệp một cách đặc hiệu vào protein đặc hiệu của khối u. Kháng thể đơn dòng chứng tỏ là một tiến bộ lớn khác trong điều trị ung thư.
+
+
+== Hiện tình bệnh ung thư ==
+Mỗi năm, 14,1 triệu người được chẩn đoán mắc bệnh ung thư và 8,2 triệu người chết vì căn bệnh này. Trong một so sánh tổng thể, cứ 4 người chết thì có 1 chết vì bệnh có bướu. Nam giới thường mắc bệnh ung thư phổi và phế quản và ung thư tuyến tiền liệt, ở nữ giới, ung thư vú là nguyên nhân gây tử vong nhiều nhất, tiếp theo là ung thư phổi và phế quản. Hiện khoảng 23 triệu người đang sống chung với ung thư. Nếu không có các biện pháp can thiệp kịp thời thì con số này sẽ lên tới 30 triệu vào năm 2020. Những việc phòng ngừa đúng cách và sống lành mạnh có thể giảm một phần ba những trường hợp mắc bệnh, một phần ba nữa có thể giảm qua việc thường xuyên kiểm tra sức khỏe và xét nghiệm sàng lọc sớm.
+Tại các nước phát triển, ung thư là nguyên nhân gây tử vong đứng hàng thứ hai sau tim mạch. Ở các nước đang phát triển, ung thư đứng hàng thứ ba sau bệnh nhiễm trùng, ký sinh trùng và tim mạch.
+Vào Ngày ung thư thế giới năm 2010, người đoạt giải Nobel về y học Harald zur Hausen khởi xướng việc nâng cao ý thức của người dân toàn cầu, và đề nghị cha mẹ và ông bà trên thế giới nên nêu gương sống lành mạnh cho trẻ em và các cháu: "Lối sống sẽ góp phần đáng kể vào việc mà bạn và con bạn được khỏe mạnh. Ai sống phóng túng, nguy hiểm, không chỉ gây hại cho sức khỏe của chính mình, mà còn của con trẻ của mình... Một sự thay đổi lối sống lâu dài là có thể ngăn chặn khoảng một nửa trong số tất cả các bệnh ung thư".
+
+
+=== Việt Nam ===
+Theo thống kê của ngành Ung thư và Bộ Y tế, mỗi năm Việt Nam có khoảng 150 ngàn ca mới mắc và trên 75 ngàn trường hợp tử vong do ung thư. Trong bản đồ ung thư thế giới, tỷ lệ mắc ung thư ở nam giới Việt Nam được xếp vào nhóm nước cao thứ 3, với gần 200 ca mắc trên 100.000 người. Tuy nhiên, tỷ lệ nam giới tử vong do ung thư ở Việt Nam lại nằm trong nhóm nước dẫn đầu thế giới, với hơn 142 trường hợp tử vong trong số 100.000 người. Tại các nước phát triển, trên 80% ca bệnh ung thư có thể chữa khỏi được. Tại Việt Nam tỉ lệ này thấp hơn bởi lẽ, có tới 70% bệnh nhân ung thư ở Việt Nam đi khám và phát hiện ở giai đoạn muộn.
+Ước tính trong năm 2020 sẽ có ít nhất gần 200.000 ca ung thư mới mắc. Dẫn đầu ở nam là ung thư phổi, sau đó đến dạ dày, gan, đại trực tràng, thực quản, vòm, hạch, máu, tiền liệt tuyến... Tỷ lệ mắc mới ở nữ nhiều nhất lần lượt là ung thư vú, dạ dày, phổi, đại trực tràng, cổ tử cung, giáp trạng, buồng trứng...
+
+
+==== Nguyên nhân ====
+- Theo PGS. TS Trần Văn Thuấn, 80% nguyên do gây ra bệnh ung thư là do môi trường bên ngoài:
+Thuốc lá là nguyên nhân của trên 30% trong tổng số các loại ung thư bao gồm ung thư phổi. Có tới trên 90% bệnh ung thư phổi có liên quan tới thuốc lá. Bên cạnh đó, các loại ung thư khác như khoang miệng, thực quản, hà họng tinh quản, thậm chí, ung thư vú, ung thư cổ tử cung ở nữ cũng có liên quan tới thuốc lá.
+Chế độ dinh dưỡng không hợp lý, chế độ ăn có quá nhiều chất đạm, mỡ, đặc biệt là mỡ động vật, ít hoa quả và rau xanh và dùng các loại thực phẩm không rõ nguồn gốc, đặc biệt là các thực phẩm có bảo quản thuốc thực phẩm.
+Nhiễm trùng: nhiễm virut viêm gan B sẽ dẫn tới viêm gan, ung thư gan. Nhiễm virut HPV thì sẽ gây ra ung thư cổ tử cung, nhiễm vi khuẩn HP thì sẽ gây ra ung thư dạ dày.
+Khoảng 5 -10% ung thư có liên quan tới yếu tố di truyền.
+- Theo giáo sư Nguyễn Bá Đức, phó chủ tịch Hội Ung thư Việt Nam, 35% số ca mới mắc có nguyên nhân do ăn phải thực phẩm bẩn chứa chất gây ung thư.
+
+
+== Xem thêm ==
+Ung thư học
+Các phytochemical trong thực phẩm
+Ngày ung thư thế giới
+Tác nhân gây ung thư
+
+
+== Tham khảo ==
+Chú giải 1:  Jemal A, Murray T, Ward E, Samuels A, Tiwari RC, Ghafoor A, Feuer EJ, Thun MJ. Cancer statistics, 2005. CA Cancer J Clin 2005;55:10-30. Fulltext. PMID 15661684.
+Chú giải 2:  Cancer: Number one killer (ngày 9 tháng 11 năm 2000). BBC News online. Truy cập 2005-01-29.
+Chú giải 3:  Questions and Answers About Beta Carotene Chemoprevention Trials
+Chú giải 4:  Bilal A, Treating Cancer with Stem Cells, Medical Engineer, 25/07/2005 Fulltext
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+(tiếng Việt)
+Ung thư tại Từ điển bách khoa Việt Nam
+Phương pháp nào điều trị ung thư?
+(tiếng Anh)
+Ung thư tại Encyclopædia Britannica (tiếng Anh)
+Trang web về ung thư của Tổ chức Y tế Thế giới
+Making a world of difference in cancer care

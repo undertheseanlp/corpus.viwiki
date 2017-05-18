@@ -1,0 +1,299 @@
+Thăm dò điện trở (Resistivity survey), là một phương pháp của địa vật lý thăm dò, bố trí phát dòng điện vào đất đá và đo hiệu điện thế tại các vị trí thích hợp thông qua hệ thống các điện cực (gọi gọn là Hệ điện cực, Electrode array), từ đó thu được thông tin về phân bố điện trở suất thuần (Ohmic) của môi trường. Từ đó thực hiện phân tích giải đoán để xác định và phân chia đất đá theo thành phần, tính chất và trạng thái của chúng.
+Phương pháp được sử dụng cho lập bản đồ địa chất, tìm kiếm dầu khí, khoáng sản, tìm nước ngầm, khảo sát địa chất công trình, địa chất môi trường và tai biến tự nhiên, khảo cổ học, tìm vật chưa nổ (UXO)... trên đất liền và trên biển gần bờ.
+Tại Việt Nam, nhiều dạng thực hiện trên mặt đất của phương pháp này được quy chuẩn trong TCVN 9432: 2012.
+
+
+== Lịch sử ==
+Các dạng ban đầu của phương pháp điện trở được Conrad Schlumberger đưa ra từ năm 1912.
+Ngày nay phương pháp điện chiếm vị trí hàng đầu trong các phương pháp thăm dò về tính phổ biến, rẻ về mức thông tin, đa dạng kiểu đo, và còn đang phát triển kiểu đo mới.
+
+
+== Nội dung phương pháp ==
+Trong đo đạc truyền thống, thăm dò điện trở dùng nguồn điện dòng không đổi (DC), ví dụ các pin hòm (Batt.), phát dòng vào đất qua hai điện cực dòng A và B (có nước gọi là C1 và C2, Current), có Ampe kế đo dòng phát I. Tại điểm cần đo là hai điện cực thế M và N (có nước gọi là P1 và P2, Potential), và MiliVolt kế đo hiệu điện thế ∆U.
+Vì dòng điện là không đổi, nên phân bố dòng và điện thế trong đất là quá trình dừng, tức là các phân bố này được xem xét giống như với trường tĩnh điện, khi biểu diễn bằng các đường dòng (Current Flow Lines) và mặt đẳng thế (Equipotential Surfaces) thì có dạng tương tự với đường dòng và mặt đẳng thế của các điện tích điểm, cũng như áp dụng Nguyên lý chồng chập để tính toán các phân bố này.
+Gọi các khoảng cách giữa các điện cực là AM, AN, BM, BN, và nửa không gian vô hạn có điện trở suất ρ. Nếu đẩy các điện cực B và N ra cực xa (tốt nhất là ngược hướng nhau), ta sẽ đo được điện thế tại M của nguồn điểm A là 
+  
+    
+      
+        U
+        =
+        ρ
+        
+          
+            I
+            
+              2
+              π
+            
+          
+        
+        (
+        
+          
+            1
+            
+              A
+              M
+            
+          
+        
+        )
+      
+    
+    {\displaystyle U=\rho {\frac {I}{2\pi }}({\frac {1}{AM}})}
+  . Đó là hệ cực Pol - Pol hay hệ 2 cực.
+Đưa cực N lại gần M để lập ra lưỡng cực (Dipol) MN, thì hiệu điện thế đo được là 
+  
+    
+      
+        Δ
+        U
+        =
+        ρ
+        
+          
+            I
+            
+              2
+              π
+            
+          
+        
+        (
+        
+          
+            1
+            
+              A
+              M
+            
+          
+        
+        −
+        
+          
+            1
+            
+              A
+              N
+            
+          
+        
+        )
+      
+    
+    {\displaystyle \Delta U=\rho {\frac {I}{2\pi }}({\frac {1}{AM}}-{\frac {1}{AN}})}
+  . Đó là hệ cực Pol - Dipol hay hệ 3 cực.
+Với đủ 4 cực, thì hiệu điện thế đo được là 
+  
+    
+      
+        Δ
+        U
+        =
+        ρ
+        
+          
+            I
+            
+              2
+              π
+            
+          
+        
+        (
+        
+          
+            1
+            
+              A
+              M
+            
+          
+        
+        −
+        
+          
+            1
+            
+              B
+              M
+            
+          
+        
+        −
+        
+          
+            1
+            
+              A
+              N
+            
+          
+        
+        +
+        
+          
+            1
+            
+              B
+              N
+            
+          
+        
+        )
+      
+    
+    {\displaystyle \Delta U=\rho {\frac {I}{2\pi }}({\frac {1}{AM}}-{\frac {1}{BM}}-{\frac {1}{AN}}+{\frac {1}{BN}})}
+  
+Từ phép đo sẽ tính được điện trở suất
+
+  
+    
+      
+        ρ
+        =
+        k
+        
+          
+            
+              Δ
+              U
+            
+            I
+          
+        
+      
+    
+    {\displaystyle \rho =k{\frac {\Delta U}{I}}}
+  
+
+trong đó 
+  
+    
+      
+        k
+        =
+        
+          
+            
+              2
+              π
+            
+            
+              
+                
+                  1
+                  
+                    A
+                    M
+                  
+                
+              
+              −
+              
+                
+                  1
+                  
+                    B
+                    M
+                  
+                
+              
+              −
+              
+                
+                  1
+                  
+                    A
+                    N
+                  
+                
+              
+              +
+              
+                
+                  1
+                  
+                    B
+                    N
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle k={\frac {2\pi }{{\frac {1}{AM}}-{\frac {1}{BM}}-{\frac {1}{AN}}+{\frac {1}{BN}}}}}
+   cho trường hợp tổng quát, được gọi là hệ số thiết bị (geometric factor). Khi ∆U tính ra Volt, I tính ra Ampere, khoảng cách là mét, thì ρ là Ωm hay Ohm.m.
+Trong môi trường thực điện trở suất thay đổi theo cả phương thẳng đứng và phương ngang. Kết quả đo và tính như trên cho ra điện trở suất biểu kiến ρa (tiếng Anh: Apparent Resistivity, trong các văn liệu ở Việt Nam trước đây hay dùng ρK theo tiếng Nga Кажущееся Сопротивление). Các nghiên cứu lý thuyết cho thấy ρa phản ánh trung bình của khối đất đá đến độ sâu trong tầm 1/3 khoảng cách giữa điện cực dòng và thế ngắn nhất. Khoảng cách này thường được gọi là kích thước thiết bị, và độ sâu phản ánh gọi là độ sâu khảo sát. Khi môi trường có tương phản điện trở suất cao thì độ sâu khảo sát giảm hơn ở môi trường ít tương phản.
+Từ đây chia ra hai phân nhóm chính của thăm dò điện trở:
+Giữ nguyên kích thước thiết bị và đo di chuyển dọc tuyến, gọi là đo mặt cắt (Profiling) để khảo sát đến tầm sâu có chủ đích là độ sâu khảo sát. Một chuyến đo mặt cắt thực tế có thể bố trí kết hợp phù hợp để đo với nhiều kích thước thiết bị khác nhau.
+Giữ nguyên vị trí đo và tăng dần kích thước thiết bị để thu thập thông tin từ nông đến sâu, gọi là đo sâu (Sounding), các văn liệu tiếng Nga gọi là Вертикальное электрическое зондирование (đo sâu điện thẳng đứng) và viết tắt là ВЭЗ.
+Ngày nay tại các nước phát triển không thực hiện dạng đo mặt cắt đơn thuần, mà chuyển sang rải nhiều cực và thực hiện dạng hợp của mặt cắt và đo sâu, và đặt tên là ảnh điện trở (Resistivity Imaging).
+
+
+=== Các Hệ điện cực thường dùng ===
+Hệ Pol - Pol hay hệ 2 cực: Cả hai điện cực B và N đặt xa vô tận so với A và M.
+Hệ Pol - Dipol hay hệ 3 cực: Điện cực B đặt ở nơi coi là xa vô tận so với các điện cực còn lại.
+Hệ Wenner: Tất cả 4 điện cực nằm trên đường thẳng (A, M, N, B) cách đều nhau.
+Hệ Schlumberger: Cả 4 điện cực nằm trên đường thẳng (A, M, N, B), nhưng cặp M và N gần sát nhau còn A và B thì cách xa chúng (MN<<AB).
+Hệ Dipol - Dipol hay hệ lưỡng cực: Khoảng cách giữa trung điểm của cặp điện cực A, B với M, N lớn hơn độ dài lưỡng cực AB hay MN nhiều lần. Các điện cực không nhất thiết phải nằm trên một đường thẳng.
+
+
+=== Các nguồn nhiễu ===
+Điện trường thiên nhiên sinh ra do hiệu ứng điện hóa trong đất, giá trị có thể đến ±500 mV. Nó là đối tượng quan sát của thăm dò Điện trường thiên nhiên.
+Hiện tượng nạp điện của đất đá (Chargeability), là hiện tượng dẫn đến lúc đóng/cắt dòng phát thì mức điện thế không thiết lập được ngay, phải đợi một vài giây quá trình nạp hoàn tất mới đo được điện thế thật. Nó là đối tượng quan sát của thăm dò Điện phân cực kích thích.
+Điện thế phân cực tại điện cực sinh ra do hiệu ứng điện hóa khi vật kim loại là điện cực đo cắm vào đất. Nó cộng vào điện trường thiên nhiên và hiện ra ở ngõ vào máy đo. Để giảm điện thế này, sử dụng điện cực đồng, hoặc bạch kim (platin - Pt) như trong máy đo của IRIS Instruments (Pháp).
+Dòng lang thang trong đất, phát sinh do cảm ứng với thay đổi của trường điện từ do tác động của tầng điện ly và các hiện tượng điện từ khác. Nó là đối tượng quan sát của thăm dò điện từ Tellur.
+Dò điện giữa các dây phát - thu - đất: Phải khắc phục bằng dùng dây có độ cách điện cao.
+Nguồn cấp dòng phát I không ổn định: Phải khắc phục bằng dùng nguồn phát ổn định, lau sạch các điện cực phát để tiếp địa tốt, hoặc dùng nhiều điện cực đóng thành chùm tại vị trí phát, đổ nước để giảm trở tiếp địa.
+
+
+== Máy đo ==
+Trong thời gian dài từ lúc ra đời đến những năm 1970, nhiều nỗ lực đổ vào việc chế máy đo điện thế có trở kháng (Impedance) ngõ vào cao để không làm nối ngắn mạch đôi cực thu M với N, cũng như có khả năng chống nhiễu, để đo trung thực tín hiệu nhỏ. Nó dẫn đến máy đo dùng khuếch đại Đèn điện tử chân không và nặng tới chục kg, như ЭСК-1 (Liên Xô cũ), DDC-2A (Trung Quốc),... được dùng ở Việt Nam thời đó.
+Ngày nay kỹ thuật chế Vôn kế hiện số nhỏ gọn có trở kháng ngõ vào cao ra đời, và đã được vận dụng vào chế tạo máy đo. Đồng thời vận dụng kiểu phát xung đảo cực để loại trừ các nhiễu trường thiên nhiên và phân cực điện cực, cũng như để đo Phân cực kích thích. Khả năng đo điện áp nhỏ được nâng cao, dẫn đến việc giảm dòng và điện áp phát, từ đó giảm chi phí và nguy hiểm trong đo đạc.
+Các máy kiểu cổ điển nhỏ gọn và rẻ tiền, ít chức năng.
+Các máy hiện đại có thể đo đồng thời Phân cực kích thích, như DZD-6A (Trung Quốc).
+Các máy cấp cao thì có trang bị hộp chuyển mạch (Switch Box) để đo với dãy đa cực phục vụ cho dạng đo Mặt cắt ảnh điện trở và/hoặc độ nạp (Resistivity/Chargeability Imaging), như Syscal Pro của IRIS Instruments (Pháp), SuperSting của Advanced Geosciences, Inc. (AGI, Mỹ), Resecs của DMT GmbH & Co. KG (Đức), Saris của Scintrex Ltd. (Canada),... Đo đạc được tự động hóa cao, như chọn dòng, bù phông (thể thiên nhiên và phân cực điện cực), chọn thang đo, tích lũy tín hiệu đến khi đạt độ chính xác đặt trước,...
+Việc phát xung đảo cực có thực chất là sử dụng dòng điện xoay chiều AC (xung vuông). Để kết quả đo tương đương với dùng dòng điện một chiều DC, thì tần số phát phải đủ nhỏ để độ sâu thấm theo hiệu ứng skin lớn hơn kích thước thiết bị vài ba lần.
+
+
+== Mặt cắt ảnh điện ==
+Mặt cắt ảnh điện (Resistivity/Chargeability Imaging) là tên gọi của công nghệ đo điện rải đa cực, ra đời vào những năm 1990. Trong đo Mặt cắt ảnh điện, một dãy điện cực rải cách đều nhau, số lượng từ vài chục đến hàng trăm, được nối bằng các cáp nhiều ruột về hộp chuyển mạch điện tử (Switch Box). Chương trình điều hành đo sẽ căn theo chỉ định hệ cực đo, chọn ra số cực phù hợp, đo quét dọc chặng và từ “kích thước thiết bị” nhỏ đến lớn nhất có thể. Trong thực tế hệ cực Wenner dễ chọn nhất, còn hệ cực Dipol - Dipol cho kích thước thiết bị lớn nhất trên dãy cực đã rải.
+
+Cáp nối điện cực được phân đoạn từng nhóm, nhằm phục vụ thi công cuốn chiếu (hay cuốn dọc, Roll-Along) cho tuyến dài. Những đoạn ở xa trạm máy được nối về bằng hai cách:
+Dùng cáp trung chuyển (hay cáp nối dài), trạm máy cần có đủ lối vào cho chúng.
+Dùng hộp chuyển mạch quản lý nhóm tại chỗ, gọi là hộp Multinode, và các Multinode nối tiếp với nhau và về trạm máy bằng cáp riêng. Ví dụ Multinode của IRIS Instruments quản lý 16 cực, máy quản lý được 16 Multinode, cho ra tổng số là 256 cực. Đây là cách mềm dẻo, giảm trọng lượng thiết bị, và cho phép cuốn chiếu nhanh bằng cách có nhiều hơn 16 Multinode để rài cực lúc máy đang đo chặng trước.
+Đo ảnh độ nạp cần có điện cực bạch kim, và thường đo với hệ cực Wenner hay Schlumberger, vì điện thế phân cực thường rất nhỏ. Nếu đo bằng hệ cực Dipol - Dipol cần dùng dòng phát đủ lớn.
+Một số nhà địa vật lý gọi Mặt cắt ảnh điện là Electrical Resistivity Tomography (ERT), trong khi số khác chỉ gọi dạng đo Điện chiếu trường có sử dụng hố khoan là ERT.
+Tại Việt Nam Phương pháp ảnh điện được quy chuẩn trong TCVN 9433: 2012. Dạng đo ảnh điện với hệ cực Dipol - Dipol được gọi là Đo sâu lưỡng cực liên tục đều.
+
+
+== Điện chiếu trường ==
+Điện chiếu trường (Electrical Resistivity Tomography, ERT) là phương pháp đo điện có bố trí điện cực trong công trình khoan đào. Cách bố trí điện cực, đo và xử lý số liệu rất đa dạng và là vùng đất đang tìm tòi. Kết quả xử lý là ảnh của điện trở suất hoặc của điện thế quy ước. Nó phục vụ theo dõi các thân quặng hay các đới đất đá có tính chất khác thường quanh công trình khoan đào.
+Đáng chú ý nhất là đo Mặt cắt ảnh điện thẳng đứng, tương tự đo trên mặt đất với hệ cực đặt trong hố khoan.
+
+
+== Xử lý phân tích tài liệu ==
+Khi phương pháp mới ra đời, tài liệu đo mặt cắt điện trở được phân tích theo phương pháp các điểm đặc trưng để tìm ra vị trí các ranh giới ngang, và đôi khi thu được điện trở suất lớp nếu đủ dày. Tài liệu đo sâu điện trở thì phân tích bằng so sánh kết quả tại từng điểm với tập đường cong mẫu (Palette) do các nhà lý thuyết biên soạn ra, để chọn cột điện trở suất.
+Hiện nay các phần mềm phân tích đo sâu thực hiện xử lý đa điểm. Người sử dụng cần chỉ định tập con các Sounding có mô hình chờ đợi của môi trường tương tự nhau cho một phân tích. Tập con có thể là tuyến hay mảng diện tích, thậm chí tất cả số liệu của vùng. Khi đó chọn ra một điểm có đường cong biểu kiến điển hình, phân tích đơn điểm (1-D Sounding Inversion), sau đó gán mô hình thu được cho các điểm còn lại của tập, rồi phân tích đa điểm (Group Sounding Inversion).
+Vì trong phân tích tài liệu thăm dò điện thuộc nhóm đo sâu có nhiều phần giống nhau, nên nhiều hãng phần mềm gộp chung thành "phần mềm phân tích tài liệu thăm dò điện", trong đó mỗi phương pháp thăm dò chiếm 1 modul phân tích, ví dụ phần mềm IX1D của hãng Interpex (Mỹ).
+Tài liệu đo ảnh điện thường được thực hiện bằng phần mềm riêng, ví dụ Res2Dinv hay AGI EarthImager 3D.
+
+
+== Đối tượng nghiên cứu ==
+Thạch quyển
+Thủy quyển
+
+
+== Xem thêm ==
+Hệ điện cực
+Soil resistivity
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

@@ -1,0 +1,4 @@
+Chu kỳ nguyên tố 3 là hàng thứ 3 trong bảng tuần hoàn (tiêu chuẩn), giống như chu kỳ 2 nó có tất cả 8 nguyên tố: 2 có electron ngoài cùng thuộc lớp 3s và 6 lớp 3p.
+
+
+== Tham khảo ==

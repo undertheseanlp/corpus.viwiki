@@ -1,0 +1,119 @@
+Tác chiến điện tử (tiếng Anh: Electronic warfare - EW), viết tắt TCĐT, là một phương thức tác chiến, gồm tổng thể các hoạt động của quân đội, được tiến hành thống nhất theo mục đích, nhiệm vụ, địa điểm và thời gian nhằm loại trừ, ngăn cản hoặc làm giảm hiệu quả các hệ thống chỉ huy, khả năng điều khiển vũ khí bằng các phương tiện điện tử của đối phương và bảo đảm ổn định tối đa cho hoạt động của các hệ thống đó của mình trước các tác động của đối phương trong chiến tranh.
+
+
+== Nhiệm vụ tác chiến điện tử ==
+Vô hiệu hóa các hệ thống C3I: Command (chỉ huy), Control (điều khiển), Communications (truyền tin), and Intelligence (tình báo); C4IRS: Command (chỉ huy), Control (điều khiển), Communications (truyền tin), Computers (máy tính), Intelligence (tình báo), Surveillance (cảnh giới), và Reconnaissance (trinh sát) của đối phương.
+Duy trì khả năng tác chiến của hệ thống chỉ huy, điều khiển, trinh sát và thông tin liên lạc của quân nhà.
+
+
+== Vai trò ==
+Học thuyết quân sự hiện đại của Mỹ cho rằng: "Trong chiến tranh, ai khống chế được việc sử dụng phổ điện từ sẽ là người chiến thắng"; "Lịch sử chứng minh rằng chiếm ưu thế trong tác chiến điện tử dẫn đến thắng lợi trong các hoạt động quân sự".
+Trong thời đại ngày nay, khi công nghệ điện tử, thông tin, vật liệu mới đang phát triển như vũ bão, và trở thành yếu tố quyết định trong các hoạt động quân sự thì TCĐT trở thành nhân tố sống còn của chiến tranh.
+TCĐT là phương tiện nhân bội sức mạnh và là một trong 3 nhân tố then chốt của chiến tranh công nghệ cao, bao hàm cả tiến công và phòng thủ, vì thế các quốc gia cần đầu tư ngay từ thời bình và luôn sẵn sàng.
+
+
+== Các thành phần ==
+Thành phần của tác chiến điện tử bao gồm trinh sát điện tử, bảo vệ điện tử và chế áp điện tử.
+
+
+=== Trinh sát điện tử ===
+Là loại hình trinh sát quân sự dùng phương tiện điện tử, được tiến hành từ mặt đất, trên không, trên vũ trụ, trên và dưới mặt nước. Trinh sát điện tử bao gồm 6 loại trinh sát sau:
+Trinh sát vô tuyến điện
+Trinh sát vô tuyến truyền hình
+Trinh sát nhiệt (trinh sát hồng ngoại)
+Trinh sát rada
+Trinh sát âm thanh
+Trinh sát thủy âm
+
+
+=== Bảo vệ điện tử ===
+Gồm toàn bộ các hoạt động làm cho các phương tiện điện tử làm việc an toàn, ổn định, chống đối phương gây nhiễu và đánh phá, chống tự nhiễu lẫn nhau của các phương tiện điện tử.
+Chống trinh sát điện tử
+Chống chế áp điện tử
+Kiểm soát điện tử
+Dung hòa trường điện từ
+
+
+=== Chế áp điện tử ===
+Là toàn bộ các biện pháp và hoạt động làm tê liệt hoặc hạn chế hiệu quả sử dụng các phương tiện điện tử của đối phương. Gồm hai loại là chế áp cứng và chế áp mềm.
+Chế áp cứng là hành động nhằm cản trở, gây khó khăn hay tiến hành phá huỷ một phần hoặc hoàn toàn phương tiện điện tử đối phương bằng hỏa lực, bằng xung lực hoặc các dạng năng lượng khác.
+Chế áp mềm là sử dụng năng lượng điện từ trường (kể cả dạng có điều chế ở các mức độ khác nhau; được số hóa theo nhiều tiêu chuẩn khác nhau; được lập trình thành các nhóm như các gói tin (packet) hay các viên đạn điện tử - thông tin trên internet; các phần mềm virut; các câu lệnh truy vấn trên URL;...); được phát xạ, phát ra hoặc phản xạ hay sao chép lại, đánh lừa điện tử để ngăn cản, gây khó khăn hay loại trừ hoặc làm giảm hiệu quả hoạt động các phương tiện ĐT đối phương. Có các biện pháp như gây nhiễu, tao mục tiêu giả….
+Trong các phương tiện điện tử của đối phương cần chế áp, thì máy tính (PC, laptop) hay mạng máy tính là mục tiêu quan trọng nhất của TCĐT.
+Có thể nhận thấy, Mĩ và các nước đồng minh phương tây là các quốc gia có tiềm lực quân sự mạnh nhất hiện nay, cùng với đó, khả năng tác chiến điện tử của Mĩ được sự hỗ trợ của các khoa học kĩ thuật hàng đầu thế giới đem lại cho quân đội nước này khả năng lợi thế rất lớn.
+
+
+== Các phương tiện ==
+Như ta đã biết, trinh sát điện tử được thực hiện từ trên không, trên vũ trụ, trên mặt đất, và cả dưới mặt nước.
+Các bộ khí tài trinh sát và chế áp điện tử, có thể vô hiệu hóa phần lớn các loại vũ khí có điều khiển như UAV, đạn có điều khiển, máy bay và cả tên lửa hành trình.
+
+
+=== Trinh sát bằng vệ tinh ===
+Mĩ hiện là quốc gia đứng đầu về số lượng vệ tinh trên thế giới và đang chiếm ưu thế trong hoạt động trinh sát nhằm mục đích quân sự, bao gồm các vệ tinh địa tĩnh trinh sát tín hiệu SIGINT, các vệ tinh phát hiện các cuộc phóng tên lửa, các vệ tinh trinh sát chụp ảnh KH và các vệ tinh trinh sát bằng ra-đa. "Các vệ tinh gián điệp mới nhất của Mĩ có thể nhìn thấy các đường phố ở Bắc Kinh, thậm chí khi thời tiết đẹp có thể thấy tuyến đường dây cao áp của thành phố này", vệ tinh đem lại khả năng tình báo rất cao cho quân đội Mĩ. Tuy nhiên hạn chế của phương thức nàylà độ chính xác thấp, chủ yếu dùng trinh sát các mục tiêu chiến lược, cố định; phụ thuộc điều kiện khí hậu, thời tiết; do bay theo những quỹ đạo có quy luật, dễ bị phán đoán, đề phòng trước; chỉ tối ưu trong báo động sớm nhưng hạn chế trong thu thập tin tức tình báo; dễ bị gây nhiễu và mất tác dụng.
+
+
+=== Trinh sát bằng máy bay ===
+Mỹ đặc biệt đầu tư phát triển các máy bay trinh sát có và không người lái, hoạt động ở các độ cao khác nhau với nhiệm vụ và mục đích khác nhau, được hiện đại hoá về cả các phương tiện trinh sát, truyền thông cũng như khả năng tự vệ, gồm: MBTS và gây nhiễu EA-6B; Các MBTS báo động sớm AWACS (E-A3); MBTS tầm cao U-2, TR-1; RC-135 trinh sát chiến lược; Các MBTS chiến thuật EF-111, RF-4C, MBTS không người lái Predator, Global Howk… Hạn chế: phụ thuộc điều kiện thời tiết, khí hậu ở khu vực tác chiến; dễ bị đối phương phát hiện làm lộ ý đồ trinh sát hoặc bị tiêu diệt, cản phá; các MBKNL thường có đường bay ổn định, phụ thuộc nhiều vào địa hình, có thể bị đối phương đoán biết, tiêu diệt hoặc đề phòng…
+
+
+=== Trinh sát trên tàu ===
+Trinh sát trên tàu là thế mạnh của Mỹ. Với lực lượng Hải quân hùng hậu, có trang bị hiện đại và có nhiều căn cứ trên biển, Mỹ có thể tiếp cận được vào mọi bờ biển trên thế giới. Trên biển Đông và TBD, thường xuyên Hạm đội 7 của Mỹ hoạt động, trong đó có trinh sát quân sự đối với Việt Nam,trong chiến tranh Việt Nam
+Các tàu chiến chủ yếu của Mỹ đều được trang bị các hệ thống chặn bắt tín hiệu, định vị và TCĐT, giúp phát hiện các hoạt động điện tử của các tàu tuần tiễu, tàu tên lửa, tàu quét mìn của hải quân đối phương trong khu vực tác chiến Hạn chế: Khu vực hoạt động và cự ly phát hiện các mục tiêu trên biển bị ảnh hưởng của độ cong Trái Đất; khi tiếp cận vào trinh sát đối phương thường lệ thuộc vào điều kiện khu vực biển, khả năng vào được gần bờ...
+
+
+=== Trinh sát trên mặt đất ===
+Mỹ & ĐM có các trạm trinh sát SIGINT đặt tại các căn cứ mặt đất dùng chặn bắt từ xa các tín hiệu tên lửa, tín hiệu đặc biệt khác trong không gian và các trạm trinh sát ra-đa dùng phát hiện các đài ra-đa đối phương, đặt trên đất liền đảo các nước thân Mỹ.
+Mỹ có thể sử dụng hàng loạt thiết bị trinh sát và gây nhiễu sử dụng một lần, được nguỵ trang dưới các dạng thực vật, rải vào khu vực tác chiến bằng máy bay các loại. Thông tin thu được sẽ truyền về trung tâm chỉ huy hoặc tự chúng lựa chọn phương án gây nhiễu theo chương trình đã được cài đặt trước.
+Hạn chế: các thiết bị này có độ phân biệt thông tin thật, giả kém, dễ bị gây nhiễu và vô hiệu hoá khi bị phát hiện.
+Mặc dù mỗi phương pháp đều có ưu nhược điểm riêng, vì vậy hiện nay Mĩ và các đồng minh, cũng như các nước có khoa học quân sự tiên tiến khác như Nga, Trung Quốc, Ấn Độ thường sử dụng tổng hợp nhiều thiết bị trinh sát gián điệp để chụp ảnh trên không, trinh sát trên biển, theo bám thiết bị hồng ngoại, theo dỗi thay đổi từ trường, trinh sát tín hiệu điện tử…
+Việc tiến hành trinh sát và thu thập tin tức tình báo không những tập trung vào lĩnh vực quân sự mà còn mở rộng ra cả các lĩnh vực chính tri, kinh tế, khoa học công nghệ cả các góc độ cuộc sống của dân chúng.
+Trinh sát điện tử được hỗ trợ bởi các công nghệ hiện đại nhất hiện nay, nhưng không phải cứ hiện đại là có thể giành chiến thắng, lấy ví dụ trong cuộc chiến xung đột Israen- Hecbola vừa qua sự kiện tên lửa đối hạm C-802 của Hecbola bắn chìm tàu hộ tống Eliat Saaz 5 của Israen đã đặt ra nhiều câu hỏi, tại sao các phương tiện trinh sát hiện đại của Israen không phát hiện vị trí tên lửa C802, cũng như thời điểm phóng tên lửa.
+Ta thấy bất cứ phương tiện nào, dù hiện đại đến đâu đều có điểm yếu riêng và việc nghiên cứu tìm ra các điểm yếu của đối phương để tiến hành phòng chống vô hiệu hóa các thiết bị trinh sát là rất quan trọng.
+Xu hướng phát triển của các hình thức trinh sát và tác chiến điện tử nói chung
+a) Xu hướng chung:
+
+Hiện đại hoá trang thiết bị gây nhiễu nhiều chủng loại, công suất lớn, gây nhiễu trên mọi phổ tần (phổ tần rộng, đa phổ), nhiều đối tượng chế áp.
+Kết hợp các phương tiện tiến công đường không hiện đại; dùng kỹ thuật bức xạ điện từ, hồng ngoại, laze, nhiệt, vật liệu mới huỷ diệt các thiết bị điện tử của đối phương; tiến hành đồng bộ với cuộc chiến tranh không tiếp xúc.
+Trong CD "Sức mạnh đồng minh" chống NT, các hoạt động tác chiến cho thấy:
+Các phương tiện TCĐT không chỉ có khả năng phá hoại các hệ thống VTĐT mà cả các hệ thống cung cấp năng lượng bao gồm cả đường dây truyền tải…
+Mục tiêu của TCĐT và VKCNC ngoài hệ thống điều khiển chiến tranh còn cả hệ thống quản lý nhà nước, phương tiện thông tin đại chúng, hệ thống năng lượng…
+
+b) Một số hướng phát triển mới:
+Chiến tranh thông tin và chiến tranh tâm lý Phá hoại cơ sở truyền tin, phát thanh của đối phương, cắt các đường thông tin qua vệ tinh. Dùng các phương tiện phát sóng AM,FM và truyền hình với nội dung xuyên tạc sự thật, gây hoang mang cho quân đội và nhân dân, giảm lòng tin và ý chí chiến đấu cho đến thắng lợi cuối cùng.
+Chiến tranh mạng
+
+Áp dụng công nghệ mới như công nghệ nano, vật liệu mới…
+Sử dụng các vũ khí phi sát thương.
+
+c) Các biện pháp chủ yếu chống tác chiến điện tử của địch
+
+Chuẩn bị đối phó chiến tranh không tiếp xúc, bảo toàn lực lượng, làm thất bại kế hoạch đánh nhanh thắng nhanh của địch, bảo vệ các phương tiện điện tử quân sự để đánh lâu dài.
+Đầu tư vào CN-KT mới có chọn lọc, cải tiến và nâng cấp VK-TB.
+Đầu tư về con người về cả tinh thần, ý chí chiến đấu, trình độ KH-KT và chuyên môn.
+
+Từ thực tiễn những cuộc chiến tranh gần đây, cần đi sâu nghiên cứu, phân tích, tìm ra quy luật của chiến tranh để chỉ đạo kịp thời, phù hợp với thực tiễn chiến tranh bảo vệ Tổ quốc trong thời kỳ mới. Nếu biết phát huy nhân tố con người và truyền thống dân tộc thì không có máy móc nào có thể dự đoán chính xác được. Những hạn chế của các thiết bị trinh sát, kĩ thuật trinh sát cần được nghiên cứu một cách cụ thể, trên cơ sở đó tìm ra các biện pháp đối phó có hiệu quả như:
+Vận dụng tổng hợp các biện pháp chống TSĐT.
+Thực hiện "im lặng VTĐ", đồng thời sử dụng các đài nghi binh có thể làm cho hoạt động trinh sát không thể thực hiện hoặc bị rối loạn.
+Phát sóng, bộc lộ lực lượng đúng thời cơ.
+Biện pháp chiến thuật: Cơ động phòng tránh, đánh trả.
+
+
+=== Một số thiết bị gây nhiễu hệ thống điện tử ===
+Trong cuộc diễn tập chung Nga - Belarus "Lá chắn Liên minh 2015", các đơn vị tác chiến điện tử quân khu phía Tây sử dụng tổ hợp gây nhiễu tự động “Zhitel” chế áp các máy bay không người lái của đối phương giả định. Các trắc thủ xác định tần số điều khiển và truyền tải thông tin của UAV, chế áp kênh thông tin bằng biện pháp gây nhiễu. Tổ hợp “Zhitel”, khi tiến hành chế áp hệ thống điều khiển UAV đối phương, hoàn toàn không gây nhiễu cho không quân của quân ta. Quy trình sử dụng UAV có một nhược điểm quan trọng là yêu cầu hệ thống truyền thông trao đổi thông tin phải thường xuyên liên tục với các đài chỉ huy và điều hành tác chiến trên mặt đất, phương án đơn giản nhất để vô hiệu hóa UAV là gây nhiễu cắt đứt liên lạc, tổ hợp Zhitel được thiết kế cho nhiệm vụ này.
+Zhitel bản chất là tổ hợp tự động gây nhiễu R-330Z, mục đích yêu cầu nhiệm vụ: tìm kiếm, phát hiện, theo dõi và chế áp điện tử các đài thông tin vệ tinh, chế áp mạng truyền thông cơ động chuẩn kết nối GSM và GPS. Tín hiệu sẽ bị gây nhiễu trong bán kính khoảng từ 20 – 30 km từ đài phát tín hiệu.Trong khu vực này, khi khởi động chế áp điện tử, các đài thông tin liên lạc của quân ta cũng bị gây nhiễu, vì vậy khi bắt đầu chuẩn bị tấn công chế áp điện tử. Các đài thông tin và truyền thông quân ta được lệnh đưa về chế độ câm, không liên lạc và tắt nguồn. Tổ hợp “Zhitel” có khả năng cơ động cao do sau khi chế áp trang thiết bị đối phương nó cần phải nhanh chóng cơ động rời trận địa, do tín hiệu radar và sóng vô tuyên có thể bộc lộ vị trí của nó. Cơ động nhanh chính là nguyên tắc của Tác chiến Điện tử.
+Hiệu quả tác chiến của “Zhitel” đã được minh chứng trong các trận chiến ở Chesnia, khi đó mới là các phiên bản đầu tiên, đài trinh sát vô tuyên đã xác định được các cuộc gọi của nhóm chiến binh khủng bố và chuyển tọa độ vị trí cho các khẩu đội pháo binh – tên lửa. NChính tổ hợp “Zhitel” đã đóng vai trò quan trọng trong việc tiêu diệt Dzhokhar Dudayev, xác định được tọa độ điện thoại liên lạc vệ tinh của Dudayev và dẫn bắn tên lửa. Tổ hợp cũng thể hiện khả năng tác chiến mạnh mẽ trong xung đột ở Nam Ossetia, gây nhiễu khiến các UAV của Gruzia lạc hướng.
+Tháng 3/2014, ở Crimea, UAV của quân đội Mỹ, sản xuất từ Israel - MQ-5B đã bay trên bầu trời Sevastopol để thu thập thông tin, chụp ảnh quay video, tất cả dữ liệu được chuyển về cho các phi công UAV ở căn cứ trinh sát quân sự Mỹ khu vực Kirovograd (Ukraine). Đột nhiên, chiếc MQ-5B biến mất khỏi màn hình radar đồng thời cũng mất liên lạc. Tổ hợp tác chiến điện tử “Avtobaza” đã gây nhiễu cắt đứt liên lạc của chiếc drone với trung tâm chỉ huy, sau đó chiếm quyền điều khiển chiếc UAV và ra lệnh hạ cánh xuống lãnh thổ nước Nga. Một trường hợp tương tự như vậy cũng đã xảy ra ở Syria, khi đó người Mỹ cho rằng chiếc drone bị quân đội chính phủ Syria bắn rơi. Nhưng thực tế drone Mỹ đã bị bộ khí tài “Avtobaza”, do nước Nga cung cấp cho Syria, chiếm quyền điều khiển và bắt hạ cánh.
+Năm 2014, một máy bay cường kích Su-24 tiếp cận khu trục hạm USS Donald Cook của Mỹ. Thay vì tên lửa chống tàu, chiếc Su-24 mang dưới cánh bộ khí tài tác chiến điện tử Khibiny. Khi kích hoạt, khu trục hạm Mỹ mất hoàn toàn khả năng chiến đấu của tất cả các hệ thống radar, hệ thống điều khiển hỏa lực, hệ thống thông tin liên lạc, nếu trong tình huống chiến tranh thì nó coi như mất khả năng chiến đấu và sẽ bị chiếc Su-24 tiêu diệt dễ dàng. Sau đó, chiếc khu trục hạm được lệnh phải quay về Rumani.
+Ngoài những tổ hợp khí tài “Zhitel'”, “Avtobaza” “Khibiny”, Nga còn chế tạo rất nhiều các loại trang thiết bị, khí tài tác chiến điện tử khác nhau, có khả năng chiến đấu hiệu quả không chỉ chống lại các lực lượng quân sự là đối thủ tiềm năng, mà còn có khả năng vô hiệu hóa thông tin liên lạc các lực lượng, tổ chức khủng bố, bạo loạn, tội phạm khác nhau. Lực lượng đổ bộ đường không được trang bị bộ khí tài nhỏ gọn "Infauna" Khi cài đặt trong xe bọc thép, tổ hợp sẽ gây nhiễu vô tuyến trong dải tần HF và VHF, vô hiệu hóa các khối nổ tự chế hoặc nhập từ nước ngoài điều khiển vô tuyến.
+Ngoài ra, các bộ khí tài quang điện tử gây nhiễu có khả năng xác định chớp lửa của vũ khí và tự động dựng màn khói che kín mục tiêu cần bảo vệ. Trang thiết bị bảo mật thông tin liên lạc "Judoka", có khả năng phát hiện và vô hiệu hóa các thiết bị điện tử thứ ba kết nối vào hệ thống truyền tải đầu cuối của các kênh dữ liệu.
+Tổ hợp "Borisoglebsk-2" bao gồm một trạm kiểm soát tự động và bốn loại thiết bị làm nhiễu – hoạt động theo một thuật toán duy nhất, phát hiện, xác định các nguồn thu phát sóng radio ngoại lai và chế áp tự động. Tổ hợp không chỉ rất cơ động, mà khả năng tác chiến điện tử cũng rất mạnh – theo tầm xa tác động lên trang thiết bị đối phương cũng như năng lực tác chiến. Bộ khí tài TCĐT này có thể chế áp điện tử cả máy bay lẫn tên lửa hành trình.
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Cục Tác chiến Điện tử Quân đội Nhân dân Việt Nam
+
+
+== Liên kết ngoài ==
+chuyên ngành Tác chiến điện tử được đào tạo tại ĐẠI HỌC KỸ THUẬT LÊ QUÝ ĐÔN

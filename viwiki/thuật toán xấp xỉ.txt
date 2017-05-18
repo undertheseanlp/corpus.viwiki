@@ -1,0 +1,36 @@
+Trong khoa học máy tính và vận trù học, thuật toán xấp xỉ là các thuật toán tìm lời giải xấp xỉ cho các bài toán tối ưu hóa. Thuật toán xấp xỉ thường được sử dụng cho các bài toán NP-khó, hoặc các bài toán có thuật toán đa thức nhưng quá chậm cho dữ liệu lớn.
+Từ góc độ tính xấp xỉ, các bài toán NP-khó có độ khó rất khác nhau. Có những bài toán như bài toán xếp ba lô có thuật toán xấp xỉ với bất kì tỉ lệ nào lớn hơn 1 (những thuật toán như vậy gọi là PTAS). Có những bài toán khác như clique không thể tính xấp xỉ với tỉ lệ 
+  
+    
+      
+        
+          n
+          
+            1
+            −
+            ϵ
+          
+        
+      
+    
+    {\displaystyle n^{1-\epsilon }}
+   với mọi 
+  
+    
+      
+        ϵ
+        >
+        0
+      
+    
+    {\displaystyle \epsilon >0}
+   trừ phi một giả thuyết phổ biến trong lý thuyết độ phức tạp tính toán là sai.
+Nhiều bài toán NP-khó có thể được biểu diễn dưới dạng quy hoạch nguyên và giải trong thời gian lũy thừa. Nhiều thuật toán xấp xỉ xuất phát từ việc nới lỏng điều kiện nguyên và đưa về giải bài toán quy hoạch tuyến tính/quy hoạch xác định không âm/quy hoạch lồi tương ứng.
+Chứng minh không xấp xỉ được là một lĩnh vực nghiên cứu có nhiều kết quả trong lý thuyết độ phức tạp tính toán, đặc biệt là từ sau kết quả năm 1991 của Feige, Goldwasser, Lovasz, Safra, và Szegedy cho bài toán clique.
+
+
+== Các đảm bảo cho thuật toán xấp xỉ ==
+Với nhiều thuật toán xấp xỉ, ta có thể chứng minh một số tính chất của lời giải thu được so với kết quả tối ưu.
+
+
+== Ghi chú ==

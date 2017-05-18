@@ -1,0 +1,218 @@
+Urani hay uranium là nguyên tố hóa học kim loại màu trắng thuộc nhóm Actini, có số nguyên tử là 92 trong bảng tuần hoàn, được ký hiệu là U. Trong một thời gian dài, urani là nguyên tố cuối cùng của bảng tuần hoàn. Các đồng vị phóng xạ của urani có số neutron từ 144 đến 146 nhưng phổ biến nhất là các đồng vị urani-238, urani-235 và urani-239. Tất cả đồng vị của urani đều không bền và có tính phóng xạ yếu. Urani có khối lượng nguyên tử nặng thứ 2 trong các nguyên tố tự nhiên, xếp sau plutoni-244. Mật độ của urani lớn hơn mật độ của chì khoảng 70%, nhưng không đặc bằng vàng hay wolfram. Urani có mặt trong tự nhiên với nồng độ thấp khoảng vài ppm trong đất, đá và nước, và được sản xuất thương mại từ các khoáng sản chứa urani như uraninit.
+Trong tự nhiên, urani được tìm thấy ở dạng urani 238 (99,284%), urani 235 (0,711%), và một lượng rất nhỏ urani 234 (0,0058%). Urani phân rã rất chậm phát ra hạt anpha. Chu kỳ bán rã của urani 238 là khoảng 4,47 tỉ năm và của urani 235 là 704 triệu năm, do đó nó được sử dụng để xác định tuổi của Trái Đất.
+Hiện tại, các ứng dụng của urani chỉ dựa trên các tính chất hạt nhân của nó. Urani-235 là đồng vị duy nhất có khả năng phân hạch một cách tự nhiên. Urani 238 có thể phân hạch bằng neutron nhanh, và là vật liệu làm giàu, có nghĩa là nó có thể được chuyển đổi thành plutoni-239, một sản phẩm có thể phân hạch được trong lò phản ứng hạt nhân. Đồng vị có thể phân hạch khác là urani-233 có thể được tạo ra từ thori tự nhiên và cũng là vật liệu quan trọng trong công nghệ hạt nhân. Trong khi urani-238 có khả năng phân hạch tự phát thấp hoặc thậm chí bao gồm cả sự phân hạch bởi neutron nhanh, thì urani 235 và đồng vị urani-233 có tiết diện hiệu dụng phân hạch cao hơn nhiều so với các neutron chậm. Khi nồng độ đủ, các đồng vị này duy trì một chuỗi phản ứng hạt nhân ổn định. Quá trình này tạo ra nhiệt trong các lò phản ứng hạt nhân và tạo ra vật liệu phân hạch dùng làm các vũ khí hạt nhân. Urani nghèo (U-238) được dùng trong các đầu đạn đâm xuyên và vỏ xe bọc thép. Trong lĩnh vực dân dụng, urani chủ yếu được dùng làm nhiên liệu cho các nhà máy điện hạt nhân. Ngoài ra, urani còn được dùng làm chất nhuộm màu có sắc đỏ-cam đến vàng chanh cho thủy tinh urani. Nó cũng được dùng làm thuốc nhuộm màu và sắc bóng trong phim ảnh.
+Martin Heinrich Klaproth được công nhận là người đã phát hiện ra urani trong khoáng vật pitchblend năm 1789. Ông đã đặt tên nguyên tố mới theo tên hành tinh Uranus (Sao Thiên Vương). Trong khi đó, Eugène-Melchior Péligot là người đầu tiên tách kim loại này và các tính chất phóng xạ của nó đã được Antoine Becquerel phát hiện năm 1896. Nghiên cứu của Enrico Fermi và các tác giả khác bắt đầu thực hiện năm 1934 đã đưa urani vào ứng dụng trong công nghiệp năng lượng hạt nhân và trong quả bom nguyên tử mang tên Little Boy, quả bom này là vũ khí hạt nhân đầu tiên được sử dụng trong chiến tranh. Từ cuộc chạy đua vũ trang trong thời chiến tranh lạnh giữa Hoa Kỳ và Liên Xô đã cho ra hàng chục ngàn vũ khí hạt nhân sử dụng urani được làm giàu và plutoni có nguồn gốc từ urani. Việc an toàn của các vũ khí này và các vật liệu phân hạch của chúng sau sự tan rã của Liên Xô năm 1991 là một mối quan tâm đối với sức khỏe và an toàn của cộng đồng.
+
+
+== Lịch sử ==
+
+
+=== Phân hạch tự nhiên thời tiền sử ===
+
+Năm 1972, nhà vật lý người Pháp, Francis Perrin, phát hiện ra 15 lò phản ứng phân hạch hạt nhân tự nhiên cổ không còn hoạt động trong 3 khoáng sàng quặng riêng biệt ở mỏ Oklo tại Gabon, Tây Phi, hay còn gọi là các lò phản ứng hạt nhân hóa thạch Oklo. Một trong 3 khoáng sàng có tuổi 1,7 tỉ năm; vào thời điểm đó, urani-235 chiếm khoảng 3% tổng lượng urani trên Trái Đất. Hàm lượng này lớn đủ để một phản ứng dây chuyền duy trì phân hạch hạt nhân xảy ra, là yếu tố chứng minh cho các điều kiện tồn tại của chúng. Khả năng lưu giữ các sản phẩm chất thải hạt nhân bởi lớp bao bọc trầm tích đã được chính quyền liên bang Hoa Kỳ trích dẫn để chứng minh cho các điều kiện bảo quản của kho chứa chất thải hạt nhân núi Yucca.
+
+
+=== Sử dụng trước khi được phát hiện ===
+Việc sử dụng urani ở dạng ôxit tự nhiên được xác định vào khoảng năm 79 TCN, khi đó nó được dùng để tạo màu vàng cho men gốm. Năm 1912, ông R. T. Gunther thuộc Trường Đại học Oxford đã tìm thấy thủy tinh màu vàng có hàm lượng 1% urani ôxit trong một biệt thự La Mã ở mũi Posillipo, Vịnh Napoli, Ý. Từ cuối thời Trung cổ, uranit được tách từ các mỏ bạc Habsburg ở Joachimsthal, Bohemia (nay là Jáchymov thuộc Cộng hòa Séc) và được dùng làm chất tạo màu trong công nghiệp chế tạo thủy tinh ở địa phương. Vào đầu thế kỷ 19, đây là các mỏ quặng urani duy nhất được biết đến trên thế giới.
+
+
+=== Phát hiện ===
+
+Việc phát hiện ra nguyên tố này được ghi công cho nhà hóa học Đức Martin Heinrich Klaproth. Trong khi đang làm các thí nghiệm trong phòng ở Berlin năm 1789, Klaproth đã tạo ra hợp chất kết tủa màu vàng (giống natri diuranat) bằng cách hòa tan pitchblend trong axit nitric và sau đó trung hòa dung dịch bằng natri hydroxit. Klaproth cho rằng chất màu vàng đó là ôxit của một nguyên tố chưa được phát hiện và nung nó với than gỗ để thu một loại bột màu đen mà ông nghĩ rằng nó là một kim loại mới được phát hiện (nhưng thực chất là bột của một ôxit urani). Ông đặt tên nguyên tố mới theo tên hành tinh Uranus, một hành tinh vừa được William Herschel phát hiện trước đó 8 năm.
+Năm 1841, Eugène-Melchior Péligot, giáo sư hóa phân tích thuộc Trường Kỹ Nghệ Quốc gia Pháp (Conservatoire National des Arts et Métiers) ở Paris đã tách được mẫu urani kim loại đầu tiên bằng cách nung urani tetraclorua với kali.
+Antoine Henri Becquerel phát hiện ra tính phóng xạ khi sử dụng urani vào năm 1896. Becquerel phát hiện ra tính chất này tại Paris bằng cách cho một mẫu muối urani K2UO2(SO4)2 trên một tấm phim để trong ngăn kéo và sau đó ông thấy tấm phim bị mờ giống như 'bị phủ sương mù'. Ông cho rằng có một dạng ánh sáng không nhìn thấy được hoặc các tia phát ra từ urani tiếp xúc với tấm phim.
+
+
+=== Nghiên cứu phân hạch ===
+
+Năm 1934 một nhóm nghiên cứu do Enrico Fermi lãnh đạo đã phát hiện thấy việc bắn phá urani bằng neutron sẽ sản sinh ra các tia beta (electron hoặc positron sinh ra từ các nguyên tố; xem hạt beta). Các sản phẩm phân hạch đầu tiên bị nhầm lẫn là các nguyên tố mới có số nguyên tử là 93 và 94, theo đó, trưởng khoa Roma, ông Orso Mario Corbino tin rằng đó là ausoni và hesperi. Các thí nghiệm của Otto Hahn và Fritz Strassmann đã đưa đến việc phát hiện ra khả năng mà urani phân hạch thành các nguyên tố nhẹ hơn và giải phóng năng lượng liên kết, trong phòng thí nghiệm của Hahn ở Berlin. Tháng 2 năm 1939, Lise Meitner cùng người cháu là nhà vật lý Otto Robert Frisch đã công bố các giải thích về mặt vật lý, đồng thời đặt tên quá trình này là 'phản ứng phân hạch hạt nhân'. Không lâu sau đó, Fermi giả thuyết rằng sự phân hạch của urani có thể giải phóng đủ số neutron để duy trì một phản ứng phân hạch. Năm 1939, giả thuyết này được xác nhận, và nghiên cứu sau đó phát hiện rằng trung bình có khoảng 2,5 neutron được giải phóng từ mỗi lần phân hạch của đồng vị hiếm của urani là urani-235. Nghiên cứu tiếp theo phát hiện rằng đồng vị phổ biến hơn là urani-238 có thể bị chuyển đổi thành plutoni, và đồng vị này, giống như urani-235, cũng có khả năng phân hạch bằng các neutron nhiệt. Các phát hiện này đã thúc đẩy việc chế tạo vũ khí hạt nhân và điện hạt nhân ở một số quốc gia.
+Ngày 2 tháng 12 năm 1942, một nhóm nghiên cứu thuộc dự án Manhattan do Enrico Fermi lãnh đạo đã có thể bắt đầu thực hiện phản ứng hạt nhân dây chuyền nhân tạo đầu tiên tại lò phản ứng Chicago Pile-1. Tiến hành nghiên cứu trong phòng thí nghiệm dưới sự phụ trách của Stagg Field ở Đại học Chicago, nhóm này đã tạo ra những điều kiện cần thiết để một phản ứng xảy ra bằng cách lấp 360 tấn than thỏi, 53 tấn urani ôxit và 5,5 tấn urani kim loại.
+
+
+=== Chế tạo bom ===
+
+Hai loại bom nguyên tử chính được Hoa Kỳ chế tạo trong chiến tranh thế giới lần thứ 2 là: loại dựa trên nguyên liệu urani (tên "Little Boy") mà vật liệu phân hạch của nó là urani làm giàu rất cao, và loại dựa trên nguyên liệu plutoni (xem thử nghiệm Trinity và "Fat Man") theo đó plutoni được sản xuất từ urani-238. Loại bom dùng urani là vũ khí hạt nhân đầu tiên được sử dụng trong chiến tranh khi được thả xuống thành phố Hiroshima, Nhật Bản ngày 6 tháng 8 năm 1945. Vụ nổ tương đương với 12.500 tấn thuốc nổ TNT, sức công phá và làn sóng nhiệt của quả bom phá hủy gần 50.000 tòa nhà và gây thiệt mạng gần 75.000 người (xem Vụ ném bom nguyên tử xuống Hiroshima và Nagasaki). Ban đầu người ta tin rằng urani khá hiếm, và sự phổ biến vũ khí hạt nhân có thể tránh được bằng cách đơn giản là mua tất cả urani trên thị trường, nhưng chỉ trong vòng 1 thập kỉ có nhiều mỏ urani được phát hiện ở nhiều nơi trên thế giới.
+
+
+=== Dùng trong lò phản ứng hạt nhân ===
+
+Lò phản ứng hạt nhân than chì X-10 ở Phòng thí nghiệm Oak Ridge (ORNL) ở Oak Ridge, Tennessee, trước đây còn gọi là Clinton Pile và X-10 Pile, là lò phản ứng hạt nhân thứ 2 trên thế giới (sau lò phản ứng Chicago Pile của Enrico Fermi) và là lò phản ứng hạt nhân đầu tiên được thiết kế và xây dựng để vận hành liên tục. Lò phản ứng tái sinh thí nghiệm I thuộc Phòng thí nghiệm quốc gia Hoa Kỳ Idaho gần Arco, Idaho là lò phản ứng hạt nhân đầu tiên sản xuất điện vào ngày 20 tháng 12 năm 1951. Ban đầu, bốn bóng đèn 150 W được thấp sáng từ lò phản ứng, sau đó những cải tiến đã nâng sản lượng điện lên hết công suất thiết kế (sau đó, thị trấn Arco trở thành thị trấn đầu tiên trên thế giới sử dụng toàn bộ điện phát ra từ năng lượng hạt nhân). Nhà máy điện hạt nhân thương mại đầu tiên trên thế giới, Obninsk ở Liên Xô, bắt đầu phát điện bằng lò phản ứng AM-1 vào ngày 27 tháng 6 năm 1954. Các nhà máy điện hạt nhân khác vào thời đó gồm: Calder Hall ở Anh phát điện ngày 17 tháng 10 năm 1956 và nhà máy điện hạt nhân Shippingport ở Pennsylvania phát điện ngày 26 tháng 5 năm 1958. Năng lượng hạt nhân được dùng đầu tiên vào năm 1954 cho tàu ngầm năng lượng hạt nhân USS Nautilus.
+
+
+=== Ô nhiễm và di sản từ thời chiến tranh lạnh ===
+
+Các vụ thử nghiệm hạt nhân trên mặt đất do Liên Xô và Hoa Kỳ thực hiện vào thập niên 1950 và đầu thập niên 1960, và Pháp thực hiện vào thập niên 1979 và 1980 đã làm gia tăng đáng kể lượng bụi hạt nhân từ những đồng vị con của urani trên toàn thế giới. Thêm vào đó là bụi và ô nhiễm gây ra từ các vụ tai nạn hạt nhân.
+Những người khai thác mỏ urani có khả năng bị ung thư cao hơn. Ví dụ, nguy cơ ung thư phổi vượt trội ở những thợ mỏ urani người Navajo đã được ghi nhận và xác định có liên hệ với nghề nghiệp của họ. Đạo luật bồi thường phơi nhiễm phóng xạ (Radiation Exposure Compensation Act) của Hoa Kỳ năm 1990 yêu cầu trả phí bồi thường 100.000 USD cho các thợ mỏ urani được chẩn đoán là mắc bệnh ung thư hoặc các bệnh đường hô hấp khác.
+Trong thời kỳ chiến tranh lạnh giữa Hoa Kỳ và Liên Xô, những kho dự trữ urani khổng lồ chứa hàng chục ngàn vũ khí hạt nhân dùng urani làm giàu và plutoni sản xuất từ urani. Từ khi Liên Xô sụp đổ năm 1991, ước tính 540 tấn vũ khí dùng urani được làm giàu cao (đủ để sản xuất khoảng 40.000 đầu đạn hạt nhân) được cất giữ trong các cơ sở thiếu an toàn ở Nga và một số nước thuộc Liên Xô trước kia. Từ năm 1993 đến 2005, cảnh sát ở châu Á, châu Âu, và Nam Mỹ đã có ít nhất 16 lần ngăn chặn các chuyến hàng cung cấp urani hay plutoni nhập lậu, đa số trong đó có nguồn gốc từ các nước thuộc Liên Xô cũ. Từ năm 1993 đến 2005, chương trình kiểm toán, kiểm soát và bảo vệ vật liệu (Material Protection, Control, and Accounting Program) do chính phủ liên bang Hoa Kỳ điều phối đã tiêu tốn khoảng 550 triệu USD để hỗ trợ an ninh cho các kho vũ khí urani và plutoni ở Nga. Phần ngân sách này được sử dụng để cải tiến, tăng cường an ninh tại các cơ sở nghiên cứu và thiết bị lưu trữ. Tháng 2 năm 2006, tờ báo Scientific American tường thuật rằng một số an ninh thiết bị bao gồm chuỗi tường chắn liên hợp đang trong tình trạng tồi tệ do không được sửa chữa. Theo một cuộc phỏng vấn từ bài báo trên, có một thiết bị trước đó được dùng để lưu trữ các mẫu urani được làm giàu (cấp độ vũ khí) trong một buồng riêng trước dự án cải tiến; một thiết bị khác theo dõi trữ lượng đầu đạn hạt nhân đang lưu trữ bằng cách sử dụng thẻ danh mục.
+
+
+== Tính chất ==
+
+Khi được tách ra, urani là kim loại có màu trắng bạc, phóng xạ yếu, mềm hơn thép một chút, độ dương điện mạnh và độ dẫn điện kém. Nó dẻo, dễ uốn và có tính thuận từ. Kim loại urani có mật độ rất lớn, đặc hơn chì khoảng 70%, nhưng nhẹ hơn vàng.
+Urani kim loại phản ứng với hầu hết các nguyên tố phi kim và các hợp chất phi kim với mức phản ứng tăng theo nhiệt độ. Axit clohidric và axit nitric hòa tan urani, nhưng các axit không có khả năng ôxy hóa phản ứng với nguyên tố này rất chậm. Khi chia nhỏ, urani có thể phản ứng với nước lạnh; khi tiếp xúc với không khí, kim loại urani bị phủ một lớp ôxit urani màu đen. Urani trong quặng được tách bằng phương pháp hóa học và chuyển đổi thành urani ôxit hoặc các dạng khác có thể dùng trong công nghiệp.
+Urani-235 là đồng vị đầu tiên được tìm thấy có thể tự phân hạch. Các đồng vị khác có mặt trong tự nhiên có thể phân hạch nhưng không thể tự phân hạch. Tùy thuộc vào việc bắn phá bằng các neutron chậm, đồng vị urani-235 sẽ luôn phân chia thành 2 hạt nhân nhỏ hơn, giả phóng năng lượng liên kết hạt nhân và sinh nhiều neutron hơn. Nếu các neutron này được hấp thụ bởi các hạt nhân urani-235 khác, thì chuỗi phân hạch hạt nhân sẽ diễn ra và có thể gây nổ trừ khi phản ứng được làm chậm lại bởi việc điều hòa neutron, bằng cách hấp thụ chúng. Ít nhất 7 kg uranium-235 có thể sử dụng để tạo thành một quả bom nguyên tử. Little Boy là quả bom hạt nhân đầu tiên được sử dụng trong chiến tranh dựa vào sự phân hạch urani, còn vụ nổ hạt nhân đầu tiên và quả bom phá hủy Nagasaki (Fat Man) đều là bom plutoni.
+Kim loại urani có 3 dạng thù hình:
+α (trực thoi) bền với nhiệt độ lên đến 660 °C
+β (bốn phương) bền ở nhiệt độ từ 660 °C đến 760 °C
+γ (lập phương tâm khối) bền từ 760 °C đến điểm nóng chảy đây là trạng thái dẻo và dễ uốn nhất.
+
+
+== Phân bố ==
+
+
+=== Các môi trường ===
+
+Urani là một nguyên tố tự nhiên, có thể tìm thấy trong tất cả các loại đất đá và nước với hàm lượng thấp. Urani cũng là một nguyên tố có số nguyên tử cao nhất được tìm thấy trong tự nhiên với hàm lượng nhất định trong vỏ Trái Đất và luôn ở dạng hợp chất với các nguyên tố khác. Cùng với tất cả các nguyên tố khác có khối lượng nguyên tử cao hơn sắt, urani chỉ được tạo ra một cách tự nhiên trong các vụ nổ siêu tân tinh. Phân rã của urani, thori, và Kali-40 trong vỏ Trái Đất được xem là nguồn cung cấp nhiệt chính. điều này giữ cho lõi ngoài ở dạng lỏng và tạo ra các dòng đối lưu manti.
+Hàm lượng urani trung bình trong vỏ Trái Đất (tùy theo quy chiếu) là từ 2 đến 4 ppm, tương đương gấp 40 lần so với nguyên tố phổ biến là bạc. Theo tính toán thì vỏ Trái Đất từ bề mặt đến độ sâu 25 km chứa 1017 kg urani trong khi ở các đại dương có thể chứa 1013 kg. Hàm lượng urani trong đất thay đổi từ 0,7 đến 11 ppm (đến 15 ppm trong đất trồng trọt do có phốt phát từ phân bón), và hàm lượng của urani trong nước biển là 3 ppm.
+Urani phong phú hơn antimon, thiếc, cadmi, thủy ngân, hay bạc và phổ biến như arsenic hay molybden. Urani được tìm thấy trong hàng trăng mỏ khoáng uraninit (loại quặng urani phổ biến nhất), carnotit, autunit, uranophan, torbernit, và coffinit. Hàm lượng urani nhiều nhất trong các mỏ đá có phốt phát, các khoáng như lignit và cát monazit trong các quặng giàu urani (hàm lượng thương mại của các nguồn tối thiểu là 0,1% urani).
+
+Một số vi khuẩn như S. putrefaciens và G. metallireducens có khả năng khử U(VI) thành U(IV).
+Ở một số sinh vật như Trapelia involuta hoặc vi sinh vật như vi khuẩn Citrobacter có thể hấp thụ nồng độ urani cao gấp 300 lần so với môi trường xung quanh. Loài citrobacter hấp thụ các ion uranyl vào gốc glycerol phosphate (hay các phốt phát vô cơ tương tự khác). Sau một ngày, 1 gram vi khuẩn có thể tạo quanh nó một lớp vỏ 9 gram tinh thể uranyl phosphate; đều này tạo ra khả năng cho việc sử dụng các sinh vật này trong việc xử lý nước bị nhiễm phóng xạ urani bằng phương pháp sinh học.
+Trong tự nhiên, urani (VI) tạo thành các phức cacbonat có khả năng hòa tan cao trong môi trường kiềm. Điều này làm tăng khả năng di chuyển và khả năng tồn tại của urani trong đất và nước ngầm, có nguồn gốc từ các chất thải hạt nhân, gây nguy hiểm đối với sức khỏe con người. Tuy nhiên, khó có thể kết tủa urani như phốt phát khi có nhiều cacbonat trong môi trường pH kiềm. Đã có phát hiện rằng một con Sphingomonas sp. chủng BSAR-1 có thể có tác dụng như phốt phát kiềm hoạt tính cao (PhoK). Loài này đã được đưa vào ứng dụng để kết tủa sinh học urani như các loài tổng hợp phốt phát uranyl từ các dung dịch kiềm. Khả năng kết tủa được tăng cường bởi protein PhoK trong E. coli.
+Thực vật hấp thụ một số urani trong đất. Nồng độ khối lượng khô của urani trong thực vật thay đổi từ 5 đến 60 ppb, và tro của gỗ có thể có hàm lượng lên đến 4 ppm. Nồng độ khối lượng khô của urani trong thực phẩm từ thực vật mà con người ăn vào đặc biệt thấp, với khoảng từ 1 đến 2 microgram/ngày.
+
+
+=== Khai thác và sản xuất ===
+
+Sản lượng urani trên toàn thế giới năm 2009 là 50.572 tấn, trong đó 27,3% được khai thác từ các mỏ ở Kazakhstan. Các quốc gia khai thác urani khác đáng kể gồm Canada (20,1%), Úc (15,7%), Namibia (9,1%), Nga (7,0%), và Niger (6,4%).
+Quặng urani được khai thác theo nhiều cách như đào mỏ lộ thiên, tách từ đất đá và khoan mỏ (xem khai thác mỏ urani). Quặng urani cấp thấp chứa từ 0,01 đến 0,25% urano ôxít. Cần tiến hành một số đo đạc để áp dụng phương pháp phù hợp để tách kim loại từ các quặng trên. Các quặng cấp cao được tìm thấy ở bồn trũng Athabasca, Saskatchewan, Canada trung bình có thể chứa tới 23% các ôxít urani. Quặng urani được nghiền mịn thành bột, sau đó được lọc qua axít hoặc kiềm. Quá trình lọc gồm một số công đoạn như kết tủa, tách dung môi, và trao đổi ion. Hỗn hợp sau cùng được gọi là bánh vàng (yellowcake) chứa ít nhất 75% urani ôxít. Bánh vàng sau đó được xử lý nhiệt để loại bỏ các tạp chất trước khi tinh chế và chuyển đổi.
+Urani cấp thương mại có thể được tạo ra bằng cách khử các muối urani halua với các kim loại kiềm hoặc kim loại kiềm thổ. Urani kim loại cũng có thể được tạo ra bằng các điện phân của KU5 hoặc UF4, được hòa tan trong dung dịch canxi clorua (CaCl2) và natri clorua (NaCl) nóng chảy. Urani có độ tinh khiết cao được tạo ra thông qua quá trình nhiệt phân urani halua trong điện cực nóng.
+
+
+=== Tài nguyên và trữ lượng ===
+
+Ước tính có khoảng 5,5 triệu tấn quặng urani dự trữ có thể khai thác một cách kinh tế ở mức giá 130 USD/kg, trong khi có 35 tấn được xếp vào tài nguyên khoáng sản (có khả năng khai thác mang lại lợi nhuận). Ngoài ra, còn một lượng khoảng 4,6 tỉ tấn urani ước tính có mặt trong nước biển (trong thập niên 1980, các nhà khoa học Nhật Bản đã cho thấy cách khai thác urani từ nước biển bằng phương pháp trao đổi ion là có tính khả thi về mặt kỹ thuật). Đã có nhiều cuộc thí nghiệm để chiết xuất urani từ nước biển, nhưng sản phẩm thu được thấp do trong nước biển có nhiều cacbonat.
+Trong năm 2005, việc thăm dò urani trên thế giới tăng vọt gây tốn chi phí khoảng 200 triệu USD, tăng 54% so với năm trước nhờ vào việc giá urani tăng trên thị trường. Xu hướng này tiếp tục tăng trong năm 2006, khi việc chi tiêu cho quá trình thăm dò tăng kỷ lục hơn 774 triệu USD, hơn 250% so với năm 2004.
+Úc có trữ lượng quặng urani chiếm 23% trữ lượng thế giới và có mỏ urani riêng biệt lớn nhất thế giới nằm ở mỏ Olympic Dam, Nam Úc.
+Một số nhiên liệu hạt nhân có nguồn gốc từ các vũ khí hạt nhân.
+
+
+=== Cung ứng ===
+
+Năm 2005, có 17 quốc gia sản xuất urani ôxít, trong đó Canada (27,9% sản lượng thế giới) và Úc (22,8%) là các nước sản xuất nhiều nhất, theo sau là Kazakhstan (10,5%), Nga (8,0%), Namibia (7,5%), Niger (7,4%), Uzbekistan (5,5%), Hoa Kỳ (2,5%), Argentina (2,1%), Ukraina (1,9%) và Trung Quốc (1,7%). Kazakhstan tiếp tục tăng sản lượng, năm 2009 sản lượng đạt 12.826 tấn, so với Canada là 11.100 tấn và Úc là 9.430 tấn. Urani hiện có thể được sử dụng trong ít nhất 80 năm tới, mặc dù một số nghiên cứu cho biết việc đầu tư vào cuối thế kỉ 20 có thể tạo ra các vấn đề về lượng cung trong thế kỉ 21.
+
+
+== Các hợp chất ==
+
+
+=== Trạng thái ôxi hóa và ôxit ===
+
+
+==== Ôxit ====
+
+Bánh urani vàng (yellowcake) đã được nhiệt phân là sản phẩm được sản xuất công nghiệp chứa các nhóm urani có trạng thái ôxi hóa khác nhau từ thấp nhất đến cao nhất. Các hạt có thời gian lưu giữ ngắn trong lò nung sẽ ít bị ôxi hóa hơn những hạt có thời gian lưu giữ dài hơn. Hàm lượng urani thường được tính theo U3O8, kể từ những ngày thực hiện dự án Manhattan, khi đó U3O8 đã được sử dụng làm tiêu chuẩn báo cáo trong hóa phân tích.
+Các mối quan hệ pha trong tổ hợp urani-ôxi mang tính phức tạp. Các trạng thái ôxi hóa quan trọng nhất của urani là urani(IV) và urani(VI) với hai ôxit tương ứng là urani điôxit (UO2) và urani triôxit (UO3). Các urani ôxit khác gồm urani monoxit (UO), diurani pentoxit (U2O5) và urani peroxit (UO4·2H2O) đều tồn tại.
+Các dạng urani ôxit phổ biến nhất là triurani octaoxit (U3O8) và UO2. Cả hai ôxit nay đều ở dạng rắn, ít hoàn tan trong nước và tương đối bền trong nhiều kiểu môi trường. Triurani octaoxit là hợp chất urani ổn định nhất và là dạng thường gặp trong tự nhiên (tùy thuộc vào các điều kiện). Urani điôxit là dạng được dùng làm nhiên liệu hạt nhân phổ biến. Ở nhiệt độ thường, UO2 sẽ chuyển một cách từ từ thành U3O8. Do tính ổn định, các urani ôxit thường được xem là dạng hợp chất dùng để lưu trữ hoặc loại bỏ.
+
+
+==== Dịch hóa học ====
+
+Các muối của tất cả bốn trạng thái ôxi hóa là dung dịch hòa tan trong nước và có thể được nghiên cứu ở dạng dung dịch nước. Các trạng thái ôxi hóa gồm U3+ (đỏ), U4+ (lục), UO+2 (không bền) và UO22+ (vàng). Một vài hợp chất bán kim loại và rắn như UO và US tồn tại trong urani ở trạng thái ôxi hóa thông thường (II), nhưng không có các ion đơn tồn tại trong dung dịch ở trạng thái đó. Các ion U3+ giải phóng hydro từ nước vì vậy được xem là trạng thái không bền. Ion UO2+2 đặc trưng cho trạng thái ôxi hóa (VI) và tạo thành các hợp chất như uranyl cacbonat, uranyl clorua và uranyl sulfat. UO2+2 cũng tạo phức với các chất tạo phức hữu cơ, chất thường gặp nhất là uranyl axetat.
+
+
+==== Cacbonat ====
+
+Các tương tác của các ion cacbonat với urani(VI) làm cho biểu đồ Pourbaix thay đổi mạnh khi giá trị trung bình bị thay đổi từ nước sang dung dịch chứa cacbonat. Trong khi một lượng lớn cacbonat không hòa tan trong nước, urani cacbonat thỉnh thoảng hòa tan trong nước. Điều này xảy ra là do cation U(VI) có thể liên kết hai ôxit và 3 cacbonat hoặc nhiều hơn để tạo thành các phức anion.
+
+
+==== Ảnh hưởng của pH ====
+
+Các biểu đồ thành phần của urani minh họa cho đặc điểm này: khi pH của dung dịch urani(VI) tăng thì urani bị chuyển thành urani ôxit ngậm nước và với giá trị pH cao nó chuyển thành phức hydroxit anion.
+Khi cho thêm cacbonat vào, urani bị chuyển thành một dãy các phức cacbonat nếu pH tăng. Một ảnh hưởng của các phản ứng này là tăng độ hòa tan của urani khi giá trị pH nằm trong khoảng 6 đến 8, điều này có ảnh hưởng trực tiếp đến sự ổn định lâu dài của các nhiên liệu hạt nhân urani ôxit đã qua sử dụng.
+
+
+=== Hydrua, cacbic và nitrit ===
+Kim loại urani nung ở nhiệt độ 250 đến 300 °C (482 đến 572 °F) phản ứng với hydro tạo thành urani hydrua. Thậm chí ở nhiệt độ cao hơn có thể loại bỏ hydro. Tính chất này khiến cho urani hydrua trở thành một loại vật liệu tiện lợi để tạo ra bột urani phản ứng, cùng với các hợp chất khác như cacbic, nitrit, và halua. Hai dạng tinh thể của urani hydrua tồn tại là: dạng α tồn tại ở nhiệt độ thấp còn dạng β được tạo ra ở nhiệt độ trên 250 °C.
+Urani cacbic và urani nitrit là các hợp chất bán kim loại tương đối trơ, tan rất ít trong các loại axit, phản ứng với nước, và có thể đốt cháy trong không khí tạo thành U3O8. Các cacbic của urani gồm urani monocacbic (UC), urani đicacbic (UC2), và điurani tricacbic (U2C3). Cả hai hợp chất UC và UC2 được tạo thành bằng cách thêm cacbon vào urani nóng chảy hoặc urani kim loại tiếp xúc với cacbon monoxit ở nhiệt độ cao. U2C3, ổn định dưới 1800 °C, được điều chế bằng cách pha trộn hỗp hợp nóng của UC và UC2 dưới áp lực cơ học. Urani nitrit được điều chế bằng cách cho kim loại tác dụng với nitơ bao gồm urani mononitrit (UN), urani đinitrit (UN2) và điurani trinitrit (U2N3).
+
+
+=== Halua ===
+
+Tất cả urani florua được tạo ra từ urani tetraflorua (UF4); bản thân UF4 được điều chế bằng cách hydroclorua hóa urani điôxit. UF4 được khử bằng hydro ở 1000 °C tạo ra urani triflorua (UF3). Trong các điều kiện nhiệt độ và áp suất thích hợp, phản ứng của UF4 rắn với urani hexaflorua (UF6) khí có thể tạo thành các florua trung gian nhử U2F9, U4F17, và UF5.
+Ở nhiệt độ phòng, UF6 có áp suất hơi cao, nên nó được dùng vào quá trình khuếch tán khí để tách urani-235 từ đồng vị urani-238. Hợp chất này có thể được điều chế từ urani đioxit và urani hydrua theo phản ứng:
+UO2 + 4 HF → UF4 + 2 H2O (500 °C, thu nhiệt)
+UF4 + F2 → UF6 (350 °C, thu nhiệt)
+Kết quả tạo ra UF6, là chất rắn màu trắng, có tính hoạt động cao (bởi quá trình florua hóa), dễ thăng hoa (gần như ở dạng hơi lý tưởng), và là hợp chất dễ bay hơi nhất của urani.
+Một phương pháp điều chế urani tetraclorua (UCl4) là kết hợp trực tiếp clo với hoặc là kim loại urani hoặc urani hydrua. Sự khử UCl4 bởi hydro tạo ra urani triclorua (UCl3) trong khi các urani chứa số clo cao hơn được điều chế bởi phản ứng với clo bổ sung. Tất cả urani clorua phản ứng với nước và không khí.
+Các muối urani bromua và iôtua được tạo ra từ phản ứng trực tiếp của brom và iốt với urani hoặc bằng cách thêm UH3 vào các axit của nguyên tố này. Ví dụ như: UBr3, UBr4, UI3, và UI4. Urani oxyhalua có thể hòa tan trong nước, gồm UO2F2, UOCl2, UO2Cl2, và UO2Br2. Sự ổn định của các oxyhalua này giảm khi khối lượng nguyên tử của thành phần halua tăng.
+
+
+== Đồng vị ==
+
+
+=== Nồng độ trong tự nhiên ===
+
+Urani tự nhiên bao gồm ba đồng vị chính: urani-238 (99,28%), urani-235 (0,71%), và urani 234 (0,0054%). Tất cả 3 đồng vị này đều phóng xạ, phát ra các hạt anpha với ngoại lệ là ba đồng vị trên đều có xác suất phân hạch tự nhiên nhỏ hơn là phát xạ anpha.
+Urani-238 là đồng vị ổn định nhất của urani, có chu kỳ bán rã khoảng 4,468 tỉ năm, gần bằng tuổi của Trái Đất. Urani-235 có chu kỳ bán rã khoảng 7,13 triệu năm và urani-234 có chu kỳ bán rã khoảng 2,48×105 năm. Đối với urani tự nhiên, khoảng 49% tia anpha được phát ra từ mỗi U-238, 49% tương tự đối với U-234U (do sản phẩm sau được tạo thành từ sản phẩm trước) và khoảng 2% trong số đó do U-235 phát ra. Khi Trái Đất còn trẻ, có thể 1/5 urani của Trái Đất là urani-235, nhưng tỷ lệ U-234 có thể thấp hơn nhiều so với hiện nay.
+Urani-238 thường phát hạt α — trừ khi trải qua phân hạch tự nhiên — phân rã theo phân rã hạt nhân urani, với tổng cộng 18 nguyên tố, tất cả chúng cuối cùng đều phân rã thành chì-206 theo nhiều cách phân rã khác nhau.
+Chuỗi phân rã phóng xạ của U-235 có 15 nguyên tố, tất cả chúng phân rã đến cuối cùng đều tạo ra chì-207. Các hằng số phân rã trong các chuỗi này có ích để so sánh về các tỉ số của hạt nhân mẹ và hạt nhân con trong việc định tuổi bằng đồng vị phóng xạ.
+Urani-234 là nguyên tố trong chuỗi phóng xạ Urani, và phân rã thành chì-206 thông qua một chuỗi phân rã của các đồng vị có thời gian tồn tại tương đối ngắn.
+Urani-233 được tạo ra từ thori-232 khi bị bắn phá bằng neutron, thông thường trong các lò phản ứng hạt nhân, và U-233 cũng có thể phân hạch. Chuỗi phân rã của nó kết thúc bằng tali-205.
+Urani-235 là một đồng vị quan trọng được dùng trong các lò phản ứng hạt nhân và trong vũ khí hạt nhân, do nó là đồng vị urani duy nhất tồn tại ở dạng tự nhiên trên Trái Đất có khả năng tự phân hạch tạo ra các sản phẩm phân hạch bằng các neutron nhiệt.
+Urani-238 không thể phân hạch nhưng nó là một fertile isotope, bởi vì sau khi kích hoạt neutron nó có thể tạo ra plutoni-239, là một đồng vị có thể phân hạch khác. Do đó, các hạt nhân U-238 có thể hấp thụ một neutron để tạo ra đồng vị phóng xạ urani-239. U-239 phân rã beta tạo ra neptuni-239, đồng vị này cũng phân rã beta, sau đó phân rã thành plutoni-239 chỉ trong vài ngày. Pu-239 được dùng làm vật liệu phân hạch trong quả bom nguyên tử đầu tiên trong vụ thử Trinity ngày 15 tháng 7 năm 1945 ở New Mexico.
+
+
+=== Làm giàu ===
+
+Tách đồng vị là cách thức làm giàu urani-235, loại được dùng trong các vũ khí hạt nhân và trong hầu hết các nhà máy điện hạt nhân, ngoại trừ các lò phản ứng hạt nhân được làm lạnh bằng khí và các lò phản ứng hạt nhân nước nặng được điều áp. Trong các ứng dụng nói trên, việc làm giàu là để cho hầu hết các neutron được giải phóng từ sự phân hạch nguyên tử urani-235 phải ảnh hưởng đến các nguyên tử urani-235 khác để duy trì chuỗi phản ứng hạt nhân. Nồng độ và số lượng urani-235 cần thiết để đạt được yêu cầu này được gọi là khối lượng tới hạn (critical mass).
+Khi đề cập đến urani được làm giàu, tỉ lệ urani-235 thường nằm trong khoảng 3% đến 5%. Quá trình làm giàu tạo ra một lượng rất lớn urani nghèo (depleted urani) do đã tách hết urani-235, tức tỉ lệ urani-238 được gia tăng tương ứng. Khi đề cập đến việc làm nghèo urani, tức nồng độ đồng vị urani-235 không quá 0,3%. Giá của urani đã tăng kể từ năm 2001, vì thế các sản phẩm thải ra sau quá trình làm giàu chứa hơn 0,35% urani-235 được xem xét tái làm giàu. Giá của urani hexaforit nghèo vượt trên ngưỡng 130 USD/kg vào thời điểm tháng 7 năm 2007 so với 5 USD vào năm 2001.
+Quá trình xử lý ly tâm khí dùng máy ly tâm vận tốc lớn tách khí Urani hexaflorua (UF6) dựa trên sự khác biệt về khối lượng phân tử giữa 235UF6 và 238UF6 là quá trình rẻ nhất và được sử dụng rộng rãi nhất cho việc làm giàu. Quá trình khuếch tán khí từng là phương pháp hàng đầu làm giàu urani và được sử dụng trong dự án Manhattan. Trong quá trình này, urani hexaflorua được khuếch tán một cách riêng biệt thông qua lớp màng bạc-kẽm, và các đồng vị khác nhau của urani được tách ra dựa trên tốc độ khuếch tán (vì urani-238 nặng hơn nên khuếch tán chậm hơn urani-235). Phương pháp tách đồng vị laser phân tử ứng dụng tia laser có năng lượng nhất định để cắt đứt liên kết giữa urani-235 và flo. Quá trinh này làm cho urani-238 liên kết với flo và cho phép kim loại urani-235 kết tủa từ dung dịch. Một phương pháp làm giàu bằng laser khác là tách đồng vị hơi nguyên tử bằng laser (atomic vapor laser isotope separation) và ứng dụng các tia laser điều hưởng được như laser màu nhuộm. Một phương pháp khác được sử dụng là khuếch tán nhiệt chất lỏng.
+
+
+== Ứng dụng ==
+
+
+=== Quân sự ===
+
+Ứng dụng chính của urani trong lĩnh vực quân sự là làm các đầu đạn tỉ trọng cao. Loại đạn này bao gồm hợp kim urani làm nghèo (DU) với 1–2% các nguyên tố khác. Ở vận tốc tác động cao, mật độ, độ cứng và tính tự bốc cháy của đạn bắn ra có thể làm tăng sức phá hủy các mục tiêu bọc sắt hạng nặng. Xe tăng bọc sắt và các loại xe bọc thép khác có thể di chuyển cũng được làm từ các mảnh urani nghèo. Việc sử dụng DU trở thành vấn đề gây tranh cãi về chính trị và môi trường sau khi các loại đạn DU được các nước như Hoa Kỳ, Anh và nhiều nước khác sử dụng trong suốt cuộc chiến tranh vịnh Ba Tư và Balkans. Việc này đã đặt ra câu hỏi rằng liệu còn bao nhiêu hợp chất urani tồn tại trong đất (xem Hội chứng chiến tranh vùng Vịnh).
+Urani làm nghèo cũng được sử dụng làm vật liệu chống đạn, dùng trong các container để chứa và vận chuyển các vật liệu phóng xạ. Trong khi bản thân kim loại urani có tính phóng xạ, mật độ cao của urani làm cho nó có khả năng bắt giữ phóng xạ hiệu quả hơn chì từ các nguồn phóng xạ mạnh như radi. Các ứng dụng khác của DU là dùng làm đối tượng cho các bề mặt kiểm soát của phi thuyền, bệ phóng cho các phương tiện phóng trở lại (Trái Đất) và vật liệu làm khiên. Do có tỉ trọng cao, vật liệu này được tìm thấy trong các hệ thống truyền động quán tính và trong các la bàn dùng con quay hồi chuyển. DU còn được ưa chuộng hơn so với các kim loại nặng khác do khả năng dễ gia công và chi phí tương đối thấp.
+Trong giai đoạn cuối của chiến tranh thế giới thứ 2, trong chiến tranh lạnh và các cuộc chiến sau đó, urani đã được dùng làm nguyên liệu chất nổ để sản xuất vũ khí hạt nhân. Có hai loại bom phân hạch chính đã được sản xuất: một thiết bị tương đối đơn giản sử dụng urani-235 và loại phức tạp hơn sử dụng plutoni-239 gốc urani-238. Sau đó, các loại bom nhiệt hạch phức tạp hơn và mạnh hơn sử dụng plutoni trong vỏ bọc urani để tạo ra hỗn hợp triti và deuteri để chịu được phản ứng nhiệt hạch đã ra đời.
+
+
+=== Dân dụng ===
+
+Ứng dụng chủ yếu của urani trong lĩnh vực dân dụng là làm nhiên liệu cho các nhà máy điện hạt nhân. Một kg urani-235 về lý thuyết có thể tạo ra một năng lượng 80 teraJun (8×1013 Jun), giả thiết rằng chúng phân hạch hoàn toàn; mức năng lượng này tương đương 3000 tấn than.
+Các nhà máy điện hạt nhân thương mại sử dụng nhiên liệu urani đã được làm giàu với hàm lượng urani-235 khoảng 3%. Lò phản ứng CANDU là lò thương mại duy nhất có thể sử dụng nhiên liệu urani chưa được làm giàu. Nhiên liệu được sử dụng cho các lò phản ứng của Hải quân Hoa Kỳ là urani-235 đã được làm giàu rất cao. Trong lò phản ứng tái sinh (breeder-reactor), urani-238 cũng có thể được chuyển đổi thành plutoni qua phản ứng sau:
+238U (n, gamma) → 239U -(beta) → 239Np -(beta) → 239Pu.
+
+Trước khi phát hiện ra phóng xạ, urani được sử dụng chủ yếu với một lượng nhỏ trong thủy tinh vàng và đồ gốm, như thủy tinh urani và trong Fiestaware.
+
+Việc Marie Curie phát hiện và tách radi trong các quặng urani (pitchblend) đã thúc đẩy việc khai thác mỏ để tách radi, dùng để làm các loại sơn dạ quang trên các con số của đồng hồ và bàn số trên máy bay. Điều này làm cho một lượng lớn urani trở thành chất thải, vì mỗi 3 tấn urani chỉ tách ra được 1 gram radi. Lượng chất thải này đã được chuyển hướng đến ngành công nghiệp thủy tinh, làm cho thủy tinh urani rất rẻ và phổ biến. Bên cạnh thủy tinh gốm, còn có gạch urani được sử dụng phổ biến trong nhà tắm và bếp, các loại này có thể được sản xuất với nhiều màu khác nhau như lục, đen, lam, đỏ và các màu khác.
+Urani cũng được sử dụng làm hóa chất nhiếp ảnh (đặc biệt là urani nitrat để làm toner).
+Việc phát hiện ra tính phóng xạ của urani mở ra những ứng dụng thực tế và khoa học của nguyên tố này. Chu kỳ bán rã dài của đồng vị urani-238 (4,51×109 năm) làm cho nó trở nên thích hợp trong việc sử dụng để định tuổi các đá macma cổ nhất và các phương pháp định tuổi phóng xạ khác, như định tuổi urani-thori và định tuổi urani-chì. Kim loại urani được sử dụng trong máy X-quang để tạo ra tia X năng lượng cao.
+
+
+== Urani và sức khỏe con người ==
+Một người có thể tiếp xúc với urani (hoặc các hạt nhân con của nó như radon) qua việc hít bụi trong không khí hoặc qua các thực phẩm hoặc nước bị nhiễm chúng. Hàm lượng urani trong không khí thường rất nhỏ; tuy nhiên, đối với những người làm việc trong các nhà máy sản xuất phân phốt phát, hoặc sống gần các nhà máy sản xuất hoặc thử nghiệm vũ khí hạt nhân, hoặc sống hay làm việc gần những nơi từng có các trận đánh sử dụng vũ khí hạt nhân, hay gần nhà máy nhiệt điện dùng than, các cơ sở khai thác hoặc xử lý quặng urani, hoặc làm giàu urani, có thể tăng nguy cơ phơi nhiễm urani. Những ngôi nhà hoặc các công trình trên các mỏ urani (tự nhiên hoặc nhân tạo) có thể chịu nhiều tăng ảnh hưởng phơi nhiễm khí radon.
+Hầu hết urani đi vào cơ thể qua đường thực phẩm được bài tiết qua đường tiêu hóa. Chỉ có 0,5% được hấp thụ khi ở các dạng không hòa tan như các ôxit urani, ngược lại việc hấp thụ các ion uranyl có thể nhiều hơn lên đến 5%. Tuy nhiên, các hợp chất urani hòa tan có khuynh hướng đi qua cơ thể một cách nhanh chóng trong khi các hợp chất không hòa tan đặc biệt khi đi vào cơ thể ở dạng bụi trong phổi sẽ gây những biến chứng nghiêm trọng. Sau khi vào máu, urani đã được hấp thụ có khuynh hướng tích tụ sinh học và tồn tại nhiều năm trong các tế bào xương do liên hệ của urani với phốt phát.
+Urani không liên kết ở dạng các ion uranyl, các ion này tích tụ trong xương, gan, thận và các tế bào sinh sản. Urani có thể được làm sạch từ các bề mặt thép và các tầng chứa nước.
+
+
+=== Ảnh hưởng ===
+Chức năng thông thường của thận, não, gan, tim và các hệ cơ quan khác trong cơ thể có thể bị ảnh hưởng khi tiếp xúc với urani, bởi vì ngoài các phóng xạ rất yếu, urani còn là kim loại độc. Urani cũng là chất độc có khả năng tái sản xuất. Các ảnh hưởng phóng xạ phổ biến ở mức độ địa phương là phóng xạ anpha, một kiểu phân rã ban đầu của U-238, có thời gian tồn tại rất ngắn, và sẽ không xuyên qua da. Các ion uranyl (UO+2), như ở dạng uranium trioxit hay uranyl nitrate và các hợp chất hóa trị sáu khác có thể gây ra những dị tật bẩm sinh và phá hủy hệ miễn dịch của các con thú trong phòng thí nghiệm. Khi CDC xuất bản một nghiên cứu cho thấy không có dấu hiệu ung thư ở người được ghi nhận khi tiếp xúc với urani tự nhiên hoặc urani đã làm nghèo, tiếp xúc với urani và các sản phẩm phân rã của nó, đặc biệt là radon, được cho là gây ra những mối đe dọa đáng kể về sức khỏe.
+Mặc dù phơi nhiễm urani tình cờ qua đường hô hấp với urani hexafluorua nồng độ cao sẽ gây tử vong ở người, nguyên nhân chính gây tử vong liên quan đến việc tạo ra axit flohydric có độc tính cao và các muối uranyl fluorua hơn là do bản thân urani. Urani là một chất tự bốc cháy nên khi ở dạng hạt mịn nó có nguy cơ cháy trong không khí ở nhiệt độ phòng.
+
+
+== Xem thêm ==
+Viện Năng lượng nguyên tử Việt Nam
+Viện Nghiên cứu Hạt nhân Đà Lạt
+
+
+== Tham khảo ==
+
+
+== Tài liệu ==
+Emsley, John (2001). “Uranium”. Nature's Building Blocks: An A to Z Guide to the Elements. Oxford: Oxford University Press. tr. 476–482. ISBN 0198503407. Truy cập ngày 13 tháng 4 năm 2011. 
+Seaborg, Glenn T. (1968). “Uranium”. The Encyclopedia of the Chemical Elements. Skokie, Illinois: Reinhold Book Corporation. tr. 773–786. LCCCN 68-29938. 
+
+
+== Liên kết ngoài ==
+(tiếng Anh)
+Uranium (U) tại Encyclopædia Britannica (tiếng Anh)
+Uranium Resources and Nuclear Energy: Nguồn urani và năng lượng hạt nhân. Energy Watch Group, 12/2006 bản lưu 6/5/2013
+Uranium EPA-Hoa Kỳ: Thông tin phóng xạ của urani
+Giá urani Ux Consulting Company
+Uranium Maps and Statistics Bản đồ phân bố các mỏ urani trên Thế giới, 18/8/2012
+World Nuclear News Tin tức hạt nhân thế giới
+(tiếng Việt)
+Urani tại Từ điển bách khoa Việt Nam

@@ -1,0 +1,15 @@
+Quay là sự di chuyển tròn của một vật xung quanh một tâm (hay điểm) quay. Một vật thể ba chiều luôn luôn quay quanh một đường tưởng tượng gọi là trục quay. Nếu trục quay đi qua khối tâm của vật, vật đó được nói là quay quanh chính nó, hay spin. Vật quay quanh một điểm bên ngoài, ví dụ Trái Đất quay quanh Mặt Trời, nó được gọi là vòng quay quỹ đạo hoặc sự xoay vòng, đặc biệt khi nó bị ảnh hưởng dưới lực hấp dẫn.
+
+
+== Xem thêm ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Hazewinkel, Michiel biên tập (2001), “Rotation”, Encyclopedia of Mathematics, Springer, ISBN 978-1-55608-010-4 
+Product of Rotations at cut-the-knot. cut-the-knot.org
+When a Triangle is Equilateral at cut-the-knot. cut-the-knot.org
+Rotate Points Using Polar Coordinates, howtoproperly.com
+Rotation in Two Dimensions by Sergio Hannibal Mejia after work by Roger Germundsson and Understanding 3D Rotation by Roger Germundsson, Wolfram Demonstrations Project. demonstrations.wolfram.com

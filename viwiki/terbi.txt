@@ -1,0 +1,75 @@
+Terbi (tên La tinh: terbium), còn gọi là tecbi, là một nguyên tố hóa học với ký hiệu Tb và số nguyên tử 65. Terbi không được tìm thấy trong tự nhiên ở dạng nguyên chất, nhưng nó có trong nhiều loại khoáng vật, bao gồm cerit, gadolinit, monazit, xenotim và euxenit.
+
+
+== Đặc trưng ==
+
+
+=== Vật lý ===
+Nó là một kim loại đất hiếm màu trắng bạc, mềm, dẻo, dễ uốn, đủ để cắt bằng dao. Nó ổn định vừa phải trong không khí (không bị xỉn sau 19 tháng ở nhiệt độ phòng) và 2 thù hình tinh thể tồn tại, với nhiệt độ chuyển dạng là 1.289 °C.
+Cation terbi (III) là các chất huỳnh quang rực rỡ, có màu vàng chanh tươi, là kết quả của vạch bức xạ xanh lục mạnh kết hợp với các vạch khác trong phổ màu đỏ và cam. Biến thể yttrofluorit của khoáng vật fluorit có được huỳnh quang màu vàng kem một phần là do terbi. Nguyên tố này dễ bị ôxi hóa và vì thế được sử dụng ở dạng nguyên chất chỉ với mục đích nghiên cứu. Ví dụ, các nguyên tử Tb riêng lẻ đã được cô lập bằng cách cấy chúng vào các phân tử fulleren.
+Terbi có trật tự sắt từ đơn giản ở nhiệt độ dưới 219 K. Trên 219 K, nó chuyển sang trạng thái phản sắt từ xoắn ốc trong đó mọi mômen nguyên tử trong một lớp mặt phẳng cơ sở cụ thể là song song, và định hướng ở một góc cố định với các mômen của các lớp cận kề. Tính chất phản sắt từ bất thường này chuyển thành trạng thái thuận từ không trật tự ở nhiệt độ 230 K.
+
+
+=== Hóa học ===
+Trạng thái hóa trị phổ biến nhất của terbi là +3, như trong ôxít terbi (III) (Tb2O3). Trạng thái +4 được biết đến trong TbO2 và TbF4. Terbium dễ dàng cháy tạo ra hỗn hợp của các ôxít hóa trị 3 và 4:
+8 Tb + 7 O2 → 2 Tb4O7
+Trong dung dịch, terbi chỉ tạo ra các ion hóa trị 3. Terbi có độ âm điện thấp và phản ứng chậm với nước lạnh nhưng khá nhanh với nước nóng để tạo ra hiđrôxít terbi:
+2 Tb(rắn) + 6 H2O(hơi nóng) → 2 Tb(OH)3(dung dịch) + 3H2(khí)
+Terbi kim loại phản ứng với mọi halogen:
+2 Tb(rắn) + 3 F2(khí) → 2 TbF3(rắn) [màu trắng]
+2 Tb(rắn) + 3 Cl2(khí) → 2 TbCl3(rắn) [màu trắng]
+2 Tb(rắn) + 3 Br2(khí) → 2 TbBr3(rắn) [màu trắng]
+2 Tb(rắn) + 3 I2(khí) → 2 TbI3(rắn)
+Terbi hòa tan dễ dàng trong axít sulfuric loãng để tạo ra các dung dịch chứa các ion Tb (III) màu hồng nhạt, tồn tại như là các phức hợp [Tb(OH2)9]3+:
+2 Tb(rắn) + 3 H2SO4(dung dịch) → 2 Tb3+(dung dịch) + 3 SO42-(dung dịch) + 3 H2(khí)
+
+
+=== Hợp chất ===
+
+Terbi kết hợp với nitơ, cacbon, lưu huỳnh, phốtpho, bo, selen, silic và asen ở nhiệt độ cao, tạo thành các hợp chất hóa trị hai khác nhau như TbH2, TbH3, TbB2, Tb2S3, TbSe, TbTe và TbN. Trong các hợp chất này, Tb chủ yếu thể hiện hóa trị +3 và đôi khi là +2. Các halogenua terbi (II) thu được bằng cách ủ các halogenua Tb (III) với sự có mặt của Tb kim loại trong thùng chứa bằng tantali. Terbi cũng có thể tạo ra sesquiclorua Tb2Cl3, là chất có thể khử tiếp thành TbCl bằng cách ủ ở 800 °C. Clorua terbi (I) tạo thành các viên nhỏ với cấu trúc tạo lớp giống như than chì.
+Các hợp chất khác còn có:
+Clorua: TbCl3
+Bromua: TbBr3
+Iodua: TbI3
+Florua: TbF3, TbF4
+Florua terbi (IV) là tác nhân flo hóa mạnh, giải phóng ra flo nguên tử tương đối tinh khiết khi bị nung nóng  chứ không phải hỗn hợp của hơi flo giải phóng ra từ CoF3 hay CeF4.
+
+
+=== Đồng vị ===
+
+Terbi nguồn gốc tự nhiên chỉ bao gồm 1 đồng vị ổn định là Tb159. Ngoài ra, 33 đồng vị phóng xạ cũng đã được miêu tả đặc trưng, với ổn định nhất là Tb158 có chu kỳ bán rã là 180 năm, Tb157Tb có chu kỳ bán rã 71 năm và Tb160 có chu kỳ bán rã 72,3 ngày. Tất cả các đồng vị còn lại đều là đồng vị phóng xạ với chu kỳ bán rã nhỏ hơn 6,907 ngày, và phần lớn có chu kỳ bán rã không quá 24 giây. Nguyên tố này ũng có 18 trạng thái giả ổn định, với ổn định nhất là Tb156m1 (t½ 24,4 giờ), Tb154m2 (t½ 22,7 giờ) và Tb154m1 (t½ 9,4 giờ).
+Phương thức phân rã chủ yếu trước đồng vị phổ biến nhất, Tb159, là bắt điện tử, còn phương thức phân rã chủ yếu sau đồng vị phổ biến nhất là phân rã beta trừ. Sản phẩm phân rã chủ yếu trước đồng vị phổ biến nhất là các đồng vị của Gd (gadolini), còn sản phẩm phân rã chủ yếu sau đồng vị phổ biến nhất là các đồng vị của Dy (dysprosi).
+
+
+== Lịch sử ==
+Terbi được nhà hóa học người Thụy Điển là Carl Gustaf Mosander phát hiện năm 1843, ông đã phát hiện nó như là tạp chất trong ôxít yttri, Y2O3, và đặt tên cho nó theo làng Ytterby ở Thụy Điển. Nó đã không được cô lập ở dạng tinh khiết mãi cho tới phát minh ra kỹ thuật trao đổi ion gần đây.
+Ban đầu Mosander phân chia "yttria" thành ba phân đoạn, "terbia" là phân đoạn có màu hồng (do nguyên tố hiện nay gọi là erbi), và "erbia" là phân đoạn về thực chất là không màu trong dung dịch, nhưng tạo ra ôxít màu nâu. Các công nhân khi đó rất khó quan sát phân đoạn sau, nhưng phân đoạn màu hồng thì không thể bỏ sót. Các tranh cãi quay qua quay lại về việc "erbia" có tồn tại hay không. Trong sự lộn xộn đó, các tên gọi ban đầu đã bị đảo lại, và sự tráo đổi các tên gọi bị làm rối lên. Hiện nay, người ta cho rằng những công nhân này đã dùng các sulfat kép của natri và kali để loại bỏ "ceria" ra khỏi "yttria", vô tình làm mất hàm lượng terbi trong của hệ thống trong kết tủa chứa ceria. Trong bất kỳ trường hợp nào, chất hiện nay gọi là terbi chỉ chiếm khoảng 1% của yttria ban đầu, nhưng như thế đã là đủ để truyền màu hơi vàng cho ôxít. Vì thế, terbi chỉ là thành phần thiểu số trong phân đoạn terbia ban đầu, với thành phần chủ yếu là các họ hàng gần của nó như gadolini và dysprosi. Sau này, khi các nguyên tố đất hiếm khác được tách ra khỏi hỗn hợp này, bất kỳ phân đoạn nào tạo ra ôxít màu nâu đều giữ tên gọi terbia, cho tới khi cuối cùng nó là tinh khiết. Các nhà nghiên cứu trong thế kỷ 19 không có được ích lợi gì từ công nghệ huỳnh quang, mà bằng cách đó việc quan sát huỳng quang tươi màu có thể làm cho việc theo dõi dấu vết của nguyên tố này trong hỗn hợp trở nên dễ dàng hơn.
+
+
+== Phổ biến ==
+
+Terbi không được tìm thấy ở dạng tự do trong tự nhiên, nhưng nó có trong nhiều khoáng vật, như cerit, gadolinit, monazit ((Ce,La,Th,Nd,Y)PO4, chứa tới 0,03% terbi), xenotim (YPO4) và euxenit ((Y,Ca,Er,La,Ce,U,Th)(Nb,Ta,Ti)2O6, chứa tới trên 1% terbi). Mật độ phổ biến trong lớp vỏ Trái Đất là khoảng 1,2 mg/kg.
+Các nguồn thương mại giàu terbi nhất hiện tại là lớp đất sét ion hấp phụ ở miền nam Trung Quốc. Các mẫu chứa nhiều yttri từ lớp đất sét này chứa khoảng 2/3 là ôxít yttri (theo trọng lượng) và khoảng 1% terbia. Tuy nhiên, các lượng nhỏ cũng có trong bastnasit và monazit, và khi chúng được chế biến bằng chiết dung dịch để phục hồi các kim loại nặng trong nhóm Lantan dưới dạng "cô đặc samari-europi-gadolini" thì hàm lượng terbi của quặng còn lại trong đó. Do một lượng lớn bastnasit được chế biến, một tỷ lệ đáng kể (tương đối so với đất sét giàu ion hấp phụ) nhu cầu về terbi trên thế giới có nguồn gốc từ bastnasit.
+
+
+== Sản xuất ==
+Các khoáng vật chứa terbi thô nghiền nát được xử lý bằng axít sulfuric đặc nóng để tạo ra sulfat hòa tan trong nước của các kim loại đất hiếm. Nước lọc có tính axít được trung hòa một phần bằng NaOH tới khi pH đạt giá trị 3-4. Thori kết tủa khỏi dung dịch dưới dạng hiđrôxít và bị loại bỏ. Sau đó dung dịch được xử lý bằng oxalat ammoni để chuyển đổi các kim loại đất hiếm thành các dạng oxalat không hòa tan của chúng. Các oxalat được chuyển hóa thành các ôxít nhờ ủ. Các ôxít được hòa tan trong axít nitric để tiếp tục loại bỏ một trong các thành phần chính là xeri, do ôxít của nó không hòa tan trong HNO3. Terbi được tách ra ở dạng muối kép với nitrat ammoni bởi sự kết tinh.
+Phương thức hiệu quả nhất để tách các muối terbi ra khỏi dung dịch muối của các kim loại đất hiếm khác là trao đổi ion. Trong phương thức này, các ion kim loại đất hiếm được hấp thụ thành nhựa trao đổi ion thích hợp bằng trao đổi với các ion hiđrôni, ammoni hay đồng có trong nhựa. Các ion đất hiếm sau đó được rửa sạch có chọn lọc bằng các tác nhân tạo phức chất thích hợp. Giống như các kim loại đất hiếm khác, terbi kim loại được sản xuất bằng cách khử clorua hay florua khan bằng canxi kim loại. Các tạp chất canxi và tantali có thể loại bỏ bằng tái nóng chảy trong chân không, chưng cất, tạo hỗn hống hay nung chảy theo khu vực.
+
+
+== Ứng dụng ==
+Terbi được sử dụng làm tác nhân kích thích cho florua canxi, tungstat canxi và molypdat stronti, các vật liệu được sử dụng trong các thiết bị trạng thái rắn, và như là tác nhân ổn định tinh thể của các tế bào nhiên liệu khi phải làm việc ở nhiệt độ cao, cùng với ZrO2.
+Terbi cũng được sử dụng trong các hợp kim và trong sản xuất các thiết bị điện tử. Là một thành phần của Terfenol-D, terbi được sử dụng trong các thiết bị truyền động, trong các hệ thống định vị thủy âm và cảm biến của hải quân, trong thiết bị SoundBug (ứng dụng thương mại đầu tiên của nó) cũng như trong các thiết bị cơ-từ khác. Terfenol-D là hợp kim giãn nở hay co ngót trong từ trường. Nó có độ từ giảo cao nhất trong số tất cả các hợp kim đã biết.
+Ôxít terbi được sử dụng trong các chất lân quang màu xanh lục trong các đèn huỳnh quang và các ống TV màu. Các chát lân quang "xanh lục" terbi (phát màu vàng chanh tươi) được kết hợp với các chất lân quang màu xanh lam của europi hóa trị 2 và các chất lân quang màu đỏ của europi hóa trị 3 để tạo ra công nghệ chiếu sáng "ba màu". Chiếu sáng ba màu cung cấp lượng sáng cao hơn khi xét cùng một lượng điện năng đầu vào so với các đèn nóng sáng. Đây cũng là lĩnh vực tiêu thụ terbi nhiều nhất trên thế giới. Borat terbi natri được sử dụng trong các thiết bị trạng thái rắn. Huỳnh quang tươi màu cho phép sử dụng terbi làm mẫu thăm dò trong hóa sinh học, trong đó nó là gần giống như canxi về hành vi.
+
+
+== Phòng ngừa ==
+Giống như các nguyên tố trong nhóm Lantan khác, các hợp chất của terbi có độc tính từ nhẹ tới vừa phải, mặc dù mức độ độc của chúng vẫn chưa được kiểm tra chi tiết. Terbi không có vai trò sinh học nào đã biết.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+WebElements.com – Terbi
+Terbi

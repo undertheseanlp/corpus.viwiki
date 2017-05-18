@@ -1,0 +1,15 @@
+Bán kính nguyên tử của một nguyên tố hóa học là kích thước nguyên tử của nguyên tố đó, thường là khoảng cách trung bình tính từ tâm của hạt nhân nguyên tử đến ranh giới ngoài cùng của đám mây electron. Vì ranh giới này không phải là một thực thể vật lý được xác định rõ ràng, nên có nhiều định nghĩa không tương đồng về bán kính nguyên tử. Ba định nghĩa được sử dụng phổ biến về bán kính nguyên tử là bán kính Van der Waals, bán kính ion, và bán kính cộng hóa trị tương ứng với 3 kiểu liên kết hóa học.
+Tùy thuộc vào mỗi định nghĩa, thuật ngữ có thể chỉ áp dụng cho các nguyên tử bị cô lập, hoặc cũng cho các nguyên tử ở trang thái vật chất kết chặt, liên kết cộng hóa trị trong phân tử, hoặc trong các trạng thái kích thích và ion hóa; và giá trị của nó có thể được thu nhận thông qua các thí nghiệm, hoặc tính toán bằng các mô hình lý thuyết. Theo một vài định nghĩa, giá trị bán kính phụ thuộc vào trạng thái của nguyên tử.
+Các electron không có quỹ đạo nhất định, hoặc dãi được xác định rõ ràng. Thêm nữa, các vị trí của chúng phải được mô tả là phân phối xác suất là tình trạng giảm dần khi ra xa hạt nhân, mà không có ranh giới rõ rệt. Ngoài ram ở trạng thái cô đặc/nén chặt và phân tử, các đám mây electron của nguyên tử thường chồng lấn ở một mức độ nhất định, và một vài electron có thể di chuyển trên một vùng rộng lớn giữa hai hoặc nhiều nguyên tử.
+Định nghĩa phổ biến nhất, bán kính của các nguyên tử trung hòa cô lập nằm trong khoảng 30 đến 300 pm (hay 0,3 đến 3 angstrom). Tuy nhiên, bán kính của nguyên tử gấp 10.000 lần bán kính hạt nhân của nó (1–10 fm), và nhỏ hơn 1/1000 bước sóng của ánh sáng nhìn thấy (400–700 nm).
+
+
+== Bán kính nguyên tử đo thực nghiệm ==
+Bảng bên dưới thể hiện bán kính cộng hóa trị được đo đạc thực nghiệm theo xuất bản của J. C. Slater năm 1964. Đơn vị đo là picomet (pm hay 1×10−12 m,), với độ chính xác khoảng 5 pm. Tông màu tăng từ đỏ đến vàng theo chiều tăng bán kính; màu xám là không có giá trị.
+
+
+== Bán kính nguyên tử theo tính toán ==
+Bảng bên dưới thể hiện giá trị bán kính nguyên tử được tính theo mô hình toán, do Enrico Clementi và cộng sự công bố năm 1967. Đơn vị tính là picomet (pm).
+
+
+== Chú thích ==

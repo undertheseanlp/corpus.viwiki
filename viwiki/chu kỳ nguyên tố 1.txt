@@ -1,0 +1,4 @@
+Chu kỳ nguyên tố, chu kỳ tuần hoàn hay chu kỳ 1 là hàng đầu tiên trong bảng tuần hoàn (tiêu chuẩn), gồm 2 nguyên tố là H và He, chúng chỉ có 1 lớp electron là 1s.
+
+
+== Tham khảo ==

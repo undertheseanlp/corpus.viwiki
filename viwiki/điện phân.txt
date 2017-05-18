@@ -1,0 +1,29 @@
+Trong hóa học và sản xuất chế tạo, điện phân là một phương thức sử dụng một dòng điện một chiều để thúc đẩy một phản ứng hóa học mà nếu không có dòng điện nó không tự xảy ra. Điện phân có tầm quan trọng cao về mặt thương mại do nó là một khâu trong việc tách riêng các nguyên tố hóa học từ những nguồn tài nguyên trong tự nhiên như quặng bằng cách sử dụng pin điện phân. Điện áp cần thiết để hiện tượng điện phân xảy ra được gọi là thế điện phân.
+
+
+== Dương cực-Anode ==
+
+Điện cực dương (cực dương, dương cực, anốt) là điện cực nối với cực dương của nguồn điện một chiều, là nơi hút các điện tử về.
+
+
+== Âm cực-Cathode ==
+
+Điện cực âm (âm cực, cực âm, catốt) là điện cực nối với cực âm của nguồn điện một chiều, là nơi phát ra các điện tử.
+
+
+== Lịch sử ==
+Năm 1785 – Máy tạo tĩnh điện của Martinus van Marum được sử dụng để khử thiếc, kẽm, và antimon khỏi muối của chúng bằng cách điện phân.
+Năm 1800 -William Nicholson và Anthony Carlisle (xem thêm Johann Ritter), phân ly nước thành Hydrô và Ôxy.
+Năm 1807 -Kali, Canxi, Natri, Bari và Magiê được phát hiện bởi Humpry Davy nhờ điện phân.
+Năm 1886 -Flo được phát hiện bởi Henri Moissan nhờ điện phân.
+
+
+== Xem thêm ==
+Điện ly
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Giáo trình Điện phân của Võ Hồng Thái

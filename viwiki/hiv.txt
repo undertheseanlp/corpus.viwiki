@@ -1,0 +1,30 @@
+HIV (tiếng Anh: human immunodeficiency virus, có nghĩa virus suy giảm miễn dịch ở người) là một lentivirus (thuộc họ retrovirus) có khả năng gây hội chứng suy giảm miễn dịch mắc phải (AIDS), một tình trạng làm hệ miễn dịch của con người bị suy giảm cấp tiến, tạo điều kiện cho những nhiễm trùng cơ hội và ung thư phát triển mạnh làm đe dọa đến mạng sống của người bị nhiễm.
+HIV lây nhiễm vào các tế bào quan trọng trong hệ thống miễn dịch của con người như lympho bào T có tính bổ trợ (cụ thể là những tế bào T - CD4+), đại thực bào và tế bào tua. Nhiễm HIV làm giảm mạnh số lượng tế bào CD4+ thông qua 3 cơ chế chính: đầu tiên, virus trực tiếp giết chết các tế bào mà chúng nhiễm vào, sau đó làm tăng tỷ lệ chết rụng tế bào ở những tế bào bị nhiễm bệnh, bước 3 là các lympho bào T độc (CD8) giết chết những lympho bào T - CD4+ bị nhiễm bệnh. Khi số lượng các tế bào CD4+ giảm xuống dưới một mức giới hạn nào đó, sự miễn dịch qua trung gian tế bào bị vô hiệu và cơ thể dần dần yếu đi tạo điều kiện cho các nhiễm trùng cơ hội.
+
+
+== Phân loại ==
+HIV là virus thuộc chi Lentivirus, họ Ritrovirus. Các Lentivirus có nhiều đặc tính hình thái và đặc tính sinh học giống nhau. Lentivirus có thể truyền bệnh cho nhiều loài, với đặc trưng là thời gian nhiễm và ủ bệnh rất dài.
+Dòng di truyền của nó là dòng di truyền ngược chiều từ RNA sang DNA chứ không phải thuận chiều DNA sang RNA. Lentivirus truyền đi dưới dạng virus mang RNA chuỗi đơn dương (single-stranded, positive-sense) có màng bao bên ngoài. Khi xâm nhập vào tế bào đích, bộ gen trong RNA của virus được chuyển đổi (phiên mã ngược) thành DNA mạch kép bởi enzym phiên mã ngược đã được vận chuyển cùng với bộ gen của virus trong các hạt virus. DNA của virus được tạo ra sau đó được đưa vào nhân tế bào và tích hợp vào DNA của tế bào nhờ enzym integrase của virus và các cofactor của tế bào chủ. Sau khi tích hợp, virus trở thành tiềm ẩn, cho phép virus và tế bào chủ của nó có thể tránh bị hệ thống miễn dịch phát hiện. Ngoài ra, virus này có thể được sao chép, sản sinh bộ gen RNA và protein của virus, sau đó đóng gói và phát tán từ tế bào dưới dạng các hạt virus mới và bắt đầu vòng tái tạo tiếp tục.
+Hai loại HIV đã được định rõ đặc điểm: HIV-1 và HIV-2. HIV-1 là loại virus ban đầu được phát hiện và đặt tên là LAV và HTLV-III. HIV-1 độc hơn HIV-2, và là nguyên nhân của phần lớn các ca nhiễm HIV trên toàn cầu. HIV-2 có khả năng lây nhiễm thấp hơn HIV-1 cho nên nó chỉ hạn chế ở Tây Phi.
+
+
+== Cấu trúc và bộ gen ==
+
+HIV có cấu trúc không giống với các retrovirus khác. Nó có hình cầu với đường kính khoảng 120nm, nhỏ hơn khoảng 60 lần so với một tế bào hồng cầu, nhưng đối với các virus khác thì nó khá lớn. HIV chứa 2 bản sao của ARN chuỗi đơn dương mã hóa 9 gen của virus được bao bọc bởi 1 lớp vỏ (capsid) hình nón bao gồm 2.000 bản sao của các protein p24. Các RNA sợi đơn được gắn kết với những protein nucleocapsid p7 (phức hợp bao gồm acid nucleic và vỏ capsid) và những enzyme cần thiết cho sự phát triển của virus như enzyme phiên mã ngược, enzyme protease, ribonuclease và integrase. Chất gian bào gồm những protein p17 của virus bao quanh lớp vỏ capsid để bảo vệ các hạt virus (virion).
+
+
+== Xem thêm ==
+Tình dục an toàn
+Bệnh lây truyền qua đường tình dục
+
+
+== Chú thích ==
+
+Tham khảo
+
+
+== Liên kết ngoài ==
+HIV/AIDS tại DMOZ
+“AIDSinfo – HIV/AIDS Treatment Information”. US Department of Health and Human Services. Truy cập ngày 21 tháng 3 năm 2008. 
+“UNAIDS: The Joint United Nations Programme on HIV/AIDS”. UNAIDS. Truy cập ngày 21 tháng 3 năm 2008. 
+“HIV News and Resources”. The Body. Truy cập ngày 18 tháng 7 năm 2008.

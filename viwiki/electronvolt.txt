@@ -1,0 +1,15 @@
+Electronvolt hay electronvôn, ký hiệu eV, là một đơn vị đo lường năng lượng được dùng nhiều trong vật lý hạt nhân và vật lý lượng tử.
+1 eV được định nghĩa là năng lượng tương đương với thế năng tĩnh điện mà một hạt tích điện dương với điện tích bằng giá trị tuyệt đối của điện tích electron có được khi nằm trong điện thế 1 V so với một điểm làm mốc điện thế nào đó. Trong SI:
+1 eV = 1e.1V = 1,602.10-19 C.V = 1,602.10-19 A.s.V = 1,602.10-19 W.s = 1,602.10-19 J
+Các bội số thường dùng là keV, MeV, GeV.
+
+
+== Liên hệ ==
+Liên hệ với tốc độ ánh sáng và khối lượng (từ công thức E = m.c2) là
+Năng lượng E = 1 eV tương đương với khối lượng m=1eV/c2 = 1,8.10−36 kg
+
+Liên hệ với hằng số Boltzmann và nhiệt độ:
+1eV/kB = 11604,505 K
+
+
+== Tham khảo ==

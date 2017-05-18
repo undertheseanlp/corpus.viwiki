@@ -1,0 +1,127 @@
+Arado Ar 234 là máy bay ném bom trang bị động cơ phản lực được đưa vào trang bị đầu tiên trên thế giới,do công ty Arado của Đức chế tạo vào cuối Chiến tranh Thế giới II. Nó được sản xuất với số lượng hạn chế, nhiệm vụ chính là trinh sát, ngoài ra nó còn được dùng làm máy bay ném bom. Ar 234 là máy bay cuối cùng của Luftwaffe bay trên bầu trời Vương quốc Anh trong chiến tranh vào tháng 4/1945.
+
+
+== Thiết kế và phát triển ==
+Mùa thu năm 1940, Bộ Hàng không Đế chế Đức (RLM) đưa ra yêu cầu đấu thầu về một loại máy bay trinh sát tốc động cơ trang bị động cơ phản lực với tầm bay đạt 2.156 km (1.340 dặm). Hãng Arado là công ty duy nhất đấu thầu và đưa ra đề án E.370 của họ, do giáo sư Walter Blume đứng đầu. Đây là một thiết kế kiểu cánh cao trang bị động cơ Junkers Jumo 004 dưới mỗi cánh. Trọng lượng máy bay xấp xỉ khoảng 8.000 kg (17.600 lb). Để giảm trọng lượng và tối đa hóa nhiên liệu mang theo, Arado không sử dụng kiểu bánh đáp thông thường, họ sử dụng kiểu bánh đáp nhả được để cất cánh.
+Arado ước tính vận tốc tối đa của máy bay đạt 780 km/h (490 mph) ở độ cao 6.000 m (19.690 ft), trần bay đạt 11.000 m (36.100 ft) và tầm bay đạt 1.995 km (1.240 dặm). Tầm bay này ngắn hơn so với yêu cầu của RLM, nhưng RLM lại thích thiết kế này và đặt hàng chế tạo 2 mẫu thử với tên định danh là Ar 234. Máy bay được hoàn thành phần lớn vào cuối năm 1941, nhưng động cơ Jumo 004 lại chưa hoàn thành, đến tận tháng 2-1943 thì động cơ mới được hoàn thành. Khi đó bắt buộc Arado phải xem xét sử dụng những động cơ không ổn định của Junkers trong các chuyến bay thử nghiệm. Đến mùa xuân năm 1943 thì những động cơ đáp ứng yêu cầu đã được chuyển giao và Ar 234 V1 thực hiện chuyến bay đầu tiên vào ngày 15/6/1943 tại Sân bay Rheine.
+
+
+== Biến thể ==
+
+
+=== Mẫu thử ===
+Tháng 9, 4 mẫu thử đã thực hiện các chuyến bay. Mẫu thử thứ hai Arado Ar 234 V2 bị rơi vào ngày 2/10/1943 tại Rheine gần Münster do động cơ phát lửa, máy bay bị mất động cơ và rơi xuống đất từ độ cao 4.000 feet (1.200 m), khiến phi công Flugkapitän Selle thiệt mạng. 8 mẫu thử khác được lắp bộ bánh đáp đẩy và chống trượt dùng cho các chiến dịch nhưng phiên bản Ar 234A lại không được chế tạo.
+Mẫu thử số 6 và số 8 trang bị 4 động cơ phản lực BMW 003 thay vì 2 động cơ Jumo 004, mẫu thử số 6 có 4 động cơ đặt trong các vỏ riêng, mẫu thử số 8 có 4 động cơ BMW 003 chi đều đặt trong vỏ chung. Đây là những máy bay 4 động cơ phản lực đầu tiên bay. Mẫu thử Ar 234 V7 là máy bay phản lực đầu tiên thực hiện nhiệm vụ trinh sát vào ngày 2/8/1944.
+
+
+=== Ar 234B ===
+
+RLM đã thấy những hứa hẹn từ thiết kế của Arado, vào tháng 7 năm 1943 họ đã yêu cầu Arado cung cấp 2 mẫu thử thuộc một phiên bản Schnellbomber (máy bay ném bom vận tốc cao) là Ar 234B. Do máy bay tương đối nhỏ và bên trong chứa đầy các thùng nhiên liệu nên không còn chỗ cho khoang quân giới bên trong, do đó bom phải mang trên những rãnh bên ngoài. Trọng lượng tăng thêm và lực kéo của vũ khí đầy tải làm giảm vận tốc, vì vậy 2 khẩu pháo MG 151 cỡ 20 mm đặt cố định ở đuôi và được điều khiển từ xa nhằm bảo vệ từ sau cho máy bay.
+Do buồng lái ở ngay phía trước của thân máy bay, phi công không có tầm nhìn trực tiếp ở phía sau, do đó các khẩu súng được ngắm bắn qua một kính tiềm vọng đặt trên nóc buồng lái, cùng loại được dùng trên các xe tăng của Đức trong Chiến tranh Thế giới II. Hệ thống này thường bị coi là vô dụng, nhiều phi công đã bỏ các khẩu súng đi để giảm trọng lượng. Với tải trọng bom bên ngoài, việc có kiểu bánh đáp trượt (như Messerschmitt Me 163) là không thực tế, nên ở phiên bản B được sửa đổi với bộ bánh đáp kiểu thường có 3 bánh đáp. Mẫu thử thứ 9, sơn với dòng chữ Stammkennzeichen (chữ cái mã vô tuyến) PH+SQ, là chiếc Ar 234B đầu tiên, bay ngày 10/3/1944.
+Các kiểu mẫu B hơi rộng ở giữa thân để đặt bộ bánh đáp chính, thùng nhiên liệu bên trong xuất hiện trong 8 mẫu thử trước bị bỏ đi để chỗ cho bộ bánh đáp, với đầy tải bom, máy bay chỉ đạt vận tốc 668 km/h (415 mph) trên độ cao yêu cầu. Nhưng vận tốc này vẫn tốt hơn bất kỳ máy bay ném bom này của Không quân Đức vào thời điểm đó, và giúp nó trở thành máy bay duy nhất có hi vọng sống sót trở về khi chạm trán với không quân của quân Đồng minh. Tải trọng bom thông thường gồm 2 quả bom 500 kg (1.100 lb) hoặc 1 quả cỡ 1.000 kg (2.200 lb), tải trọng bom cực đại máy bay mang được là 1.500 kg (3310 lb). Nếu cuộc chiến tiếp tục, máy bay có thể được chuyển đổi để sử dụng bom điều khiển Fritz X hoặc tên lửa không đối đất Henschel Hs 293.
+Dây chuyền sản xuất Ar 234 được thiết lập, 20 chiếc B-0 tiền sản xuất được giao cho không quân Đức vào cuối tháng 6. Sau đó việc sản xuất bị chậm lại, vì các nhà máy của Arado còn phải nhận nhiệm vụ sản xuất máy bay từ những nhà máy khác bị ném bom trong Big Week, và sản xuất loại máy bay ném bom He 177 hạng nặng của Heinkel. Trong khi đó, vài mẫu thử đã được sử dụng trong vai trò trinh sát. Trong hầu hết các trường hợp, nó không bao giờ bị phát hiện, bay ở vận tốc hành trình đạt 740 km/h (460 mph) trên độ cao 9.100 m (29.900 ft), mẫu thử thứ 7 của Ar 234 đã thực hiện nhiệm vụ trinh sát đầu tiên bằng máy bay phản lực trong chiến tranh ở Anh.
+Vài chiếc Ar 234B bắt đầu hoạt động vào mùa thu và gây ấn tượng cho các phi công của Đức. Chúng khá nhanh và tính năng cơ động tốt. Do đường băng chạy đà cất cánh dài dẫn đến vài tai nạn; giải pháp khắc phục là sử dụng động cơ tên lửa để hỗ trợ cất cánh. Động cơ luôn luôn là vấn đề thực sự; chúng bị phát lửa thường xuyên và phải sửa chữa bảo trì lớn hoặc thay thế sau 10 giờ vận hành.
+Nhiệm vụ của Ar 234 trong vai trò máy bay ném bom là nhiệm vụ phá hủy Cầu Ludendorff tại Remagen. Từ ngày 7/3, khi quân đồng minh chiếm được cây cầu, cho đến ngày 17/3 khi nó bị đánh sập, cây cầu phải hứng chịu các cuộc ném bom liên tục từ máy bay Ar 234 thuộc III/KG 76 mang theo bom 1.000 kg (2.200 lb).
+Máy bay tiếp tục tham chiến rải rác cho đến khi Đức đầu hàng ngày 8/5/1945. Một số bị bắn hạ khi không chiến, do hỏa lực phòng không, hoặc bị máy bay tiêm kích của quân Đồng minh phá hủy khi đang cất cánh hoặc hạ cánh giống như những điều đã xảy ra đối với máy bay tiêm kích phản lực Messerschmitt Me 262. Vào cuối chiến tranh, hầu hết máy bay phải đậu ở dưới đường băng chờ nhiên liệu, nhưng nhiên liệu không bao giờ đến.
+Nhìn chung từ mùa hè năm 1944 cho đến khi chiến tranh kết thúc, có tổng cộng 210 chiếc được chế tạo. Tháng 2/1945, biến thể C được sản xuất. Người ta hi vọng có thể đạt sản lượng 500 chiếc mỗi tháng vào tháng 11/1945.
+Ar 234B-0: 20 chiếc thuộc lô tiền sản xuất.
+Ar 234B-1: Phiên bản trinh sát trang bị 2 máy ảnh Rb 50/30 hoặc Rb 75/30.
+Ar 234B-2: Phiên bản ném bom, tải trọng bom lớn nhất mang được là 2.000 kg (4.410 lb).
+Ngoài ra, một số ít khung thân B-2 được điều chỉnh cho vai trò tiêm kích đêm. Chúng còn được gọi là máy bay Nachtigall (Nightingale) được trang bị radar băng VHF FuG 218 "Neptun" và 2 pháo tự động MG 151/20. Thành viên thứ hai của tổ lái chịu trách nhiệm vận hành các hệ thống radar, chỗ ngồi cho phi công thứ hai rất chật chột ở phía sau. 2 trong số những máy bay tiêm kích đêm này phục vụ trong đơn vị thử nghiệm Kommando Bonow thuộc Luftflotte Reich. Sau khi thử nghiệm người ta đưa ra kết luận chúng không phù hợp cho vai trò tiêm kích đêm và ngay sau đó bị loại bỏ ra khỏi đơn vị.
+
+
+=== Ar 234C ===
+Ar 234C trang bị 4 động cơ BMW 003, 2 động cơ đặt thành một cặp dựa trên mẫu thử Ar 234 thứ 8. Lý do chính cho việc chuyển đổi này là để dành Junkers Jumo 004 cho Me 262. Thiết kế buồng lái được cải tiến, dễ sản xuất. Tốc độ bay cao hơn 20% so với phiên bản B và vận tốc leo cao nhanh hơn có nghĩa là bay hiệu quả hơn và tầm bay tăng lên.
+Dù Hauptmann Diether Lukesch chuẩn bị thành lập một phi đoàn vận hành thử nghiệm, nhưng chỉ có 14 khung thân phiên bản C được hoàn thành vào cuối chiến tranh, gần một nửa trong số đó đã được trang bị động cơ. Chuyến bay thử nghiệm vẫn chưa diễn ra khi Đức đầu hàng. 3 biến thể cơ bản của phiên bản C đã được lên kế hoạch chế tạo ban đầu.
+Ar 234C-1: Phiên bản 4 động cơ của Ar 234B-1.
+Ar 234C-2: Phiên bản 4 động cơ của Ar 234B-2.
+Ar 234C-3: Phiên bản đa dụng, trang bị 2 pháo 20 mm MG 151/20.
+Ar 234C-3/N: Phiên bản tiêm kích đêm đề xuất, trang bị 2 pháo 20 mm MG 151/20 và 2 pháo MK 108 30 mm (1.18 in), có 1 radar FuG 218 Neptun V.
+Ar 234C-4: Phiên bản trinh sát vũ trang, có 2 máy ảnh, 4 pháo 20 mm MG 151/20.
+Ar 234C-5: Phiên bản chỗ ngồi phi công cạnh nhau đề xuất. Mẫu thử thứ 28 được chuyển đổi thành biến thể này.
+Ar 234C-6: Phiên bản trinh sát 2 chỗ đề xuất. Mẫu thử thứ 29 được chuyển đổi thành biến thể này.
+Ar 234C-7: Phiên bản tiêm kích đêm, 2 phi công ngồi cạnh nhau, trang bị radar băng sóng cm FuG 245 Bremen O (30 GHz).
+Ar 234C-8: Phiên bản ném bom một chỗ đề xuất, trang bị 2 động cơ tuabin Jumo 004D, lực đẩy 1.080 kg (2.380 lb) mỗi chiếc.
+
+
+=== Ar 234D ===
+Đây là phiên bản 2 chỗ dựa trên khung thân của phiên bản B, nhưng có buồng lái 2 chỗ mới lớn hơn, dự định trang bị 2 động cơ tuabin Heinkel HeS 011. Do động cơ không có nên phiên bản này không được chế tạo.
+Ar 234D-1: Phiên bản trinh sát đề xuất. Không chế tạo.
+Ar 234D-2: Phiên bản ném bom đề xuất. Không chế tạo.
+
+
+=== Ar 234E ===
+Phiên bản E là biến thể tiêm kích hạng nặng của phiên bản D. Không được chế tạo.
+
+
+=== Ar 234P ===
+
+Phiên bản P là phiên bản tiêm kích đêm 2 chỗ, dùng động cơ và radar khác. Không được chế tạo.
+Ar 234P-1: Phiên bản 2 chỗ với 4 động cơ BMW 003A-1; 1 pháo 20 mm MG 151/20 và một pháo 30 mm (1.18 in) MK 108.
+Ar 234P-2: Cũng là phiên bản 2 chỗ, thiết kế lại buồng lái với các tấm giáp 13 mm (0.51 in).
+Ar 234P-3: P-2 trang bị động cơ HeS 011A, nhưng chỉ trang bị một trong 2 loại pháo.
+Ar 234P-4: P-3 trang bị động cơ Jumo 004D.
+Ar 234P-5: Phiên bản 3 chỗ với động cơ HeS 011A, 1 pháo 20 mm MG 151/20 và 4 pháo 30 mm (1.18 in) MK 108.
+
+
+== Quốc gia sử dụng ==
+ Germany
+Luftwaffe
+Kampfgeschwader 76 (Đơn vị máy bay ném bom)
+1.(F)/100 (Đơn vị trinh sát)
+1.(F)/123 (Đơn vị trinh sát)
+1.(F)/33 (Đơn vị trinh sát)
+
+
+== Tính năng kỹ chiến thuật (Ar 234B) ==
+
+
+=== Đặc điểm riêng ===
+Tổ lái: 1
+Chiều dài: 12,63 m (41 ft 5½ in)
+Sải cánh: 14,10 m (46 ft 3½ in)
+Chiều cao: 4,30 m (14 ft 1¼ in)
+Diện tích cánh: 26,40 m² (284,16 ft²)
+Trọng lượng rỗng: 5.200 kg (11.460 lb)
+Trọng lượng cất cánh tối đa: 9.850 kg (21.720 lb)
+Động cơ: 2 động cơ tuabin Junkers Jumo 004B-1, lực đẩy 8,80 kN (1.980 lbf) mỗi chiếc
+
+
+=== Hiệu suất bay ===
+Vận tốc cực đại: 742 km/h (461 mph) trên độ cao 6.000 m (19.700 ft)
+Tầm bay: 1.100 km (684 mi) với đầy tải
+Trần bay: 10.000 m (32.800 ft)
+Vận tốc lên cao: 10–13 m/s
+
+
+=== Vũ khí ===
+2 pháo MG 151 20 mm
+Bom: 1.500 kg (3.309 lb)
+
+
+== Xem thêm ==
+
+
+=== Máy bay có tính năng tương đương ===
+Junkers Ju 287
+
+
+=== Danh sách khác ===
+Danh sách máy bay trong Chiến tranh Thế giới II
+Danh sách máy bay ném bom
+Danh sách máy bay phản lực trong Chiến tranh Thế giới II
+
+
+== Tham khảo ==
+
+
+=== Ghi chú ===
+
+
+=== Tài liệu ===
+
+
+== Liên kết ngoài ==
+Air Vectors - Arado Ar 234
+Sole surviving example of the Ar 234-Smithsonian National Air & Space Museum
+Giới thiệu sơ Ar 234

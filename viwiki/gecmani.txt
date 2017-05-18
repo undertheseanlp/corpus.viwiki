@@ -1,0 +1,69 @@
+Gecmani là một nguyên tố hóa học trong bảng tuần hoàn có ký hiệu Ge và số nguyên tử 32. Nó là một á kim màu trắng bạc, cứng, bóng, về mặt hóa học là tương tự như thiếc. Gecmani tạo ra một lượng lớn các hợp chất hữu cơ kim loại và là vật liệu bán dẫn quan trọng được sử dụng để sản xuất transistor. Nó được đặt tên theo tên gọi của Đức trong tiếng La tinh là Germania.
+
+
+== Các đặc trưng ==
+
+Gecmani là một nguyên tố màu trắng ánh xám, cứng có nước bóng kim loại và cấu trúc tinh thể tương tự như kim cương. Ngoài ra, một điều quan trọng cần lưu ý là gecmani là chất bán dẫn, với các tính chất điện nằm giữa các kim loại và các chất cách điện. Ở trạng thái nguyên chất, á kim này là chất kết tinh, giòn và duy trì độ bóng trong không khí ở nhiệt độ phòng. Các kỹ thuật tinh chế khu vực đã dẫn tới việc sản xuất gecmani kết tinh cho ngành công nghiệp bán dẫn với hàm lượng tạp chất chỉ ở cấp độ 10−10. Cùng với gali, bitmut, antimoan và nước, nó là một trong các chất giãn nở ra khi đóng băng. Dạng ôxít, điôxít gecmani, cũng có tính chất bất thường như có chiết suất cao đối với ánh sáng nhìn thấy, nhưng lại là trong suốt với ánh sáng hồng ngoại.
+
+
+== Lịch sử ==
+Năm 1871, gecmani (tiếng La tinh germania để chỉ Đức) là một trong các nguyên tố mà Dmitri Ivanovich Mendeleev dự báo là tồn tại như là nguyên tố tương tự nhưng còn thiếu của nhóm silic (Mendeleev gọi nó là "eka-silicon"). Sự tồn tại của nguyên tố này được Clemens Winkler chứng minh năm 1886. Sự phát hiện này là sự khẳng định quan trọng cho ý tưởng về tính tuần hoàn nguyên tố của Mendeleev.
+Sự phát triển của các transistor bằng gecmani đã mở ra vô vàn ứng dụng của điện tử học trạng thái rắn. Từ năm 1950 cho tới đầu thập niên 1970, lĩnh vực này đã tạo ra một thị trường ngày càng tăng cho gecmani, nhưng sau đó silic độ tinh khiết cao đã bắt đầu thay thế gecmani trong các loại transistor, đi ốt và chỉnh lưu. Silic có các tính chất điện học tốt hơn, nhưng đòi hỏi độ tinh khiết cao hơn—một độ tinh khiết mà con người không thể đạt được ở quy mô thương mại trong giai đoạn đầu. Trong khi đó, nhu cầu về gecmani trong các mạng liên lạc viễn thông bằng cáp quang, các hệ thống quan sát ban đêm bằng hồng ngoại và các xúc tác polyme hóa đã gia tăng một cách mạnh mẽ. Các ứng dụng này chiếm tới 85% nhu cầu tiêu thụ gecmani toàn thế giới vào năm 2000. Gecmani khác với silic ở chỗ việc cung cấp silic bị hạn chế bởi năng lực sản xuất trong khi việc cung cấp gecmani bị hạn chế bởi sự hạn chế các nguồn có thể khai thác.
+
+
+== Ứng dụng ==
+Không giống như phần lớn các chất bán dẫn khác, gecmani có vùng cấm nhỏ, cho phép nó phản ứng rất hiệu quả với ánh sáng hồng ngoại. Vì thế nó được sử dụng trong các kính quang phổ hồng ngoại và các thiết bị quang học khác trong đó đòi hỏi các thiết bị phát hiện cực kỳ nhạy với tia hồng ngoại. Chiết suất của ôxít gecmani và thuộc tính tán sắc của nó làm cho gecmani là hữu ích trong các thấu kính camera góc rộng và trong kính vật của các kính hiển vi.
+Các transistor từ gecmani vẫn còn được sử dụng trong một số hộp dậm chân của các nhạc công muốn tái tạo các đặc trưng âm khác biệt cho âm "fuzz" từ thời kỳ ban đầu của rock and roll, đáng chú ý có Fuzz Face của Dallas Arbiter.
+Gecmani là vật liệu quang học hồng ngoại có tầm quan trọng cao và có thể dễ dàng cắt, đánh bóng thành các thấu kính hay cửa sổ. Cụ thể, nó được sử dụng như là thấu kính vật trong các camera nhiệt làm việc trong khoảng bước sóng 8-14 micron chụp hình nhiệt thụ động và cho hot-spot detection in military and fire fighting applications. Vật liệu này có chiết suất rất cao (4,0) và vì thế cần được bọc lót chống phản xạ. Cụ thể, lớp bọc lót chống phản xạ đặc biệt rất cứng như cacbon tựa kim cương (DLC) (chiết suất 2,0) là phù hợp tốt nhất và sản sinh ra bề mặt cứng như kim cương có thể chống chịu được các tác động môi trường khác nhau.
+Hợp kim gecmanua silic (hay "silic-gecmani", SiGe) rất nhanh chóng trở thành vật liệu bán dẫn quan trọng, dùng trong các mạch IC tốc độ cao. Các mạch IC dùng các tính chất của kết nối Si-SiGe có thể nhanh hơn nhiều so với các mạch chỉ dùng silic.
+
+Ứng dụng khác:
+Tác nhân trong sản xuất hợp kim
+Phosphor trong các đèn huỳnh quang
+Chất xúc tác
+Các thiết bị phát hiện dùng một tinh thể gecmani độ tinh khiết cao có thể nhận dạng chính xác nguồn bức xạ (ví dụ trong an ninh hàng không)
+Các đĩa bán dẫn với nền là gecmani cho các tế bào quang điện hiệu suất cao đa kết nối trong các ứng dụng cho tàu vũ trụ.
+Một vài hợp chất của gecmani có độc tính thấp đối với động vật có vú, nhưng lại có độc tính cao đối với một vài loại vi khuẩn nào đó. Tính chất này làm cho chúng trở thành có ích như là các tác nhân chữa trị bằng hóa chất.
+Các tinh thể gecmani độ tinh khiết cao được dùng trong các máy dò cho kính quang phổ gamma.
+Nghiên cứu của FDA đưa ra kết luận rằng gecmani, khi sử đụng như là chất bổ sung dinh dưỡng, "thể hiện một số nguy hiểm tiềm tàng cho sức khỏe con người".
+Trong những năm gần đây gecmani được gia tăng sử dụng trong các hợp kim của các kim loại quý. Ví dụ, trong hợp kim bạc sterling, nó được thêm vào để giảm vết bẩn màu, tăng chống xỉn màu, và làm tăng phản ứng của hợp kim đối với xơ cứng kết tủa.
+
+
+== Phổ biến ==
+
+Nguyên tố này được tìm thấy trong argyrodit (sulfua của gecmani và bạc); than đá; germanit; quặng kẽm; và một số khoáng vật khác. Xem thêm Khoáng vật gecmani
+Ở quy mô thương mại, gecmani thu được từ quặng kẽm nhờ xử lý bụi quặng nóng chảy cũng như từ các phụ phẩm sau cháy của một vài dạng than đá. Vì thế nguồn dự trữ lớn của gecmani chính là các nguồn than đá.
+Á kim này có thể tách ra từ các kim loại khác bằng cách chưng cất phân đoạn tetraclorua dễ bay hơi của nó. Kỹ thuật này cho phép sản xuất gecmani cực kỳ tinh khiết.
+
+
+== Giá cả ==
+Năm 1998 giá thành của gecmani vào khoảng 1,70$/gam. Tuy nhiên, giá thành này liên tục giảm kể từ đó:
+
+1999.....$1.400/kilôgam ($1,40/gam)
+2000.....$1.250/kilôgam ($1,25/gam)
+2001.....$890/kilôgam ($0,89/gam)
+2002.....$620/kilôgam ($0,62/gam)
+2003.....$380/kilôgam ($0,38/gam)
+2004.....$600/kilôgam ($0,60/gam)
+2005.....$660/kilôgam ($0,66/gam)
+2006.....$880/kilôgam ($0,88/gam)
+
+
+== Hợp chất ==
+Một số hợp chất vô cơ của gecmani như gecman (tetrahiđrua gecmani (GeH4), tetraclorua gecmani (GeCl4), và điôxít gecmani (gecmania) (GeO2). Một số hợp chất hữu cơ của gecmani như tetrametylgecman hay tetrametyl gecmani, (Ge(CH3)4), và tetraetylgecman hay tetraetyl gecmani, (Ge(C2H5)4). Hợp chất hữu cơ mới của gecmani gần đây (isobutylgecman ((CH3)2CHCH2GeH3), đã được thông báo là chất lỏng ít nguy hại hơn để thay thế cho khí gecman độc hại trong các ứng dụng bán dẫn.
+Xem thêm
+Hợp chất gecmani
+Gecman
+Gecmanua
+
+
+== Tính chất ==
+Gecmani nguyên chất được biết đến với việc sinh ra một cách tự phát các biến vị xoắn rất dài, còn gọi là râu gecmani. Sự phát triển của các râu này là một trong các nguyên nhân chính trong các hỏnh hóc của các điốt và transistor cũ sản xuất từ gecmani, do phụ thuộc vào việc chúng kết thúc chạm vào đâu mà điều đó có thể dẫn tới đoản mạch.
+
+
+== Tham khảo ==
+Phòng thí nghiệm quốc gia Hoa Kỳ Los Alamos – Germanium
+
+
+== Liên kết ngoài ==
+WebElements.com – Germanium

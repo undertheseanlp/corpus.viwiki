@@ -1,0 +1,56 @@
+Đisulfua cacbon hay cacbon đisulfua là một chất lỏng không màu dễ bay hơi với công thức hóa học CS2. Hợp chất này là một dung môi không phân cực, thường được sử dụng làm nguyên liệu trong tổng hợp hóa hữu cơ ở cả cấp công nghiệp. Nó có mùi giống như "ete", nhưng các mẫu công nghiệp thông thường chứa các tạp chất có mùi khó ngửi, như sulfua cacbonyl.
+
+
+== Phổ biến và sản xuất ==
+Một lượng nhỏ đisulfua cacbon được giải phóng ra từ các vụ phun trào núi lửa và các đầm lầy. CS2 từng được sản xuất bằng cách kết hợp cacbon (hay than cốc) và lưu huỳnh ở nhiệt độ cao. Phản ứng có nhiệt độ thấp, chỉ cần 600 °C sử dụng khí thiên nhiên như là nguồn cacbon với xúc tác là silica gel hay alumina:
+CH4 + 4S → CS2 + 2H2S
+Phản ứng là tương tự như phản ứng đốt cháy mêtan. Mặc dù nó là đồng electron với điôxít cacbon, nhưng CS2 rất dễ bắt cháy:
+CS2 + 3O2 → CO2 + 2SO2
+
+
+== Phản ứng ==
+So sánh với CO2, CS2 là hoạt hóa hơn về phía ái lực hạt nhân và rất dễ dàng bị khử. Các khác biệt này trong độ hoạt hóa có thể coi là do khả năng cung cấp π yếu hơn của các trung tâm sulfido, làm cho cacbon trở thành ái lực điện tử hơn. Nó được sử dụng rộng rãi trong tổng hợp các hợp chất hữu cơ chứa lưu huỳnh như metham natri, một chất xông đất và được sử dụng rộng rãi trong sản xuất vải viscoza mềm.
+
+
+=== Thêm vào các chất ái lực hạt nhân ===
+Các chất ái lực hạt nhân như các amin tạo ra các dithiocacbamat:
+2R2NH + CS2 → [R2NH2+][R2NCS2−]
+Các xanthat tạo thành một cách tương tự từ các alkoxit:
+RONa + CS2 → [Na+][ROCS2−]
+Phản ứng này là nền tảng của sản xuất xenluloza tái sinh, thành phần chính của viscoza, rayon và xenlophan. Cả xanthat và thioxanthat tương ứng (sinh ra từ xử lý CS2 với các thiolat natri) đều được sử dụng như là tác nhân tách đãi trong chế biến, xử lý khoáng vật.
+Sulfua natri tạo ra trithiocacbonat:
+Na2S + CS2 → [Na+]2[CS32−]
+
+
+=== Clo hóa ===
+Clo hóa CS2 là phương thức chính tạo ra tetraclorua cacbon:
+CS2 + 3Cl2 → CCl4 + S2Cl2
+Phản ứng này thông qua hợp chất trung gian là thiophotgen, CSCl2.
+
+
+=== Hóa học điều hợp ===
+CS2 là phối thể cho nhiều phức chất kim loại, tạo thành các phức chất pi. Một ví dụ là CpCo(η2-CS2)(PMe3).
+
+
+== Có sẵn thương mại ==
+CS2, là chất dễ bắt cháy và có nhiệt độ tự kích cháy thấp, không thể dễ dàng vận chuyển bằng các phương tiện vận tải thông thường. Xuất khẩu toàn thế giới của hóa chất này là không đáng kể.
+
+
+=== Mẫu cơ sở nitơ lỏng nén ===
+Công ty Alfa Aesar là công ty đầu tiên giới thiệu đisulfua cacbon trong dạng chai nén chứa dung dịch nitơ lỏng nén, tác nhân kết đôi, chất ổn định và đisulfua cacbon, với hàm lượng đisulfua cacbon hoạt hóa là 85%. Hòa loãng với nitơ làm cho dung dịch trở thành không bắt cháy. Tuy nhiên, năm 2007 Alfa Aesar đã ngừng bán các mẫu đisulfua cacbon.
+
+
+== Tác động tới sức khỏe ==
+Ở nồng độ cao, đisulfua cacbon có thể đe dọa tới tính mạng do nó ảnh hưởng tới hệ thần kinh. Dữ liệu an toàn có ý nghĩa đến từ công nghiệp sản xuất rayon viscoza, nơi mà cả đisulfua cacbon lẫn một lượng nhỏ H2S có thể hiện diện.
+
+
+== Xem thêm ==
+Subsulfua cacbon
+Selenua cacbon
+
+
+== Ghi chú ==
+
+
+== Liên kết ngoài ==
+NPI: Đisulfua cacbon

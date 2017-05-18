@@ -1,0 +1,46 @@
+Meitneri (phát âm như "may-nơ-ri"; tên quốc tế: meitnerium) là nguyên tố hóa học tổng hợp có ký hiệu Mt và số nguyên tử 109. Nó nằm ở vị trí nguyên tố nặng nhất trong nhóm 9 (VIII) trong bảng tuần hoàn, nhưng đồng vị đủ bền chưa được biết đến thời điểm này, khi đó sẽ cho phép các thí nghiệm hóa học xác định vị trí của nó, không giống với các nguyên tố nhẹ hơn cạnh nó. Nó được tổng hợp đầu tiên năm 1982 và hiện nay đã biết được một số đồng vị của nó. Đồng vị nặng và ổn định nhất được cho là Mt-278 có chu kỳ bán rã ~8 giây.
+
+
+== Lịch sử ==
+
+
+=== Phát hiện ===
+Meitneri được nhóm nghiên cứu người Đức dẫn đầu là Peter Armbruster và Gottfried Münzenberg phát hiện ngày 29 tháng 8 năm 1982 tại Viện nghiên cứu hạt ion nặng (Gesellschaft für Schwerionenforschung) ở Darmstadt. Nhóm này đã bắn phát hạt nhân bitmut-209 bằng hạt nhân sắt-58 được gia tốc và phát hiện một nguyên tử riêng biệt của đồng vị meitneri-266:
+20983Bi + 5826Fe → 266109Mt + n
+
+
+=== Đặt tên ===
+Nguyên tố 109 trước đây được gọi là Unnilennium, với ký hiệu Une.
+Về mặt lịch sử, nguyên tố 109 được đề cập là eka-iridi.
+Tên meitnerium (Mt) được đề xuất đặt theo tên nhà vật lý Úc Lise Meitner. Năm 1997, tên gọi chính thức được IUPAC chấp thuận.
+
+
+=== Các thí nghiệm trong tương lai ===
+Nhóm nghiên cứu ở RIKEN, Nhật Bản đã chỉ ra rằng một phần nghiên cứu đang thực hiện của họ sử dụng hạt nhân bị bắn phát là 248Cm, họ có thể nghiên cứu phản ứng mới 248Cm(27Al,xn) trong tương lai.
+
+
+== Tính chất ==
+
+
+=== Tính chất ngoại suy ===
+
+
+==== Tính chất vật lý ====
+Mt có thể là một kim loại rất nặng với mật độ khoảng 30 g/cm3 (Co: 8,9, Rh: 12,5, Ir: 22,5) và điểm nóng chảy cao khoảng 2600-2900 °C (Co: 1480, Rh: 1966, Ir: 2454). Nó có thể có khả năng chống ăn mòn cao; thậm chí cao hơn Ir, là kim loại có độ chống ăn mòn cao nhất hiện nay.
+
+
+==== Các trạng thái ôxy hoá ====
+Meitneri được dự đoán là thành viên thứ sáu của nhóm 6d của các kim loại chuyển tiếp và là nguyên tố nặng nhất trong nhóm 9 của bảng tuần hoàn, nằm dưới coban, rhodi và iridi. Nhóm các kim loại chuyển tiếp này là nhóm đầu tiên thể hiện các trạng thái ôxy hoá thấp nhất và trạng thái +9 chưa được biết đến. Hai thành viên tiếp sau của nhóm thể hiện trạng thái ôxy hoá cao nhất +6, trong khi đó các trạng thái bền nhất là +4 và +3 đối với iridi và +3 đối với rhodi. Tuy vậy, meitneri được trông đợi là có trạng thái bền +3 nhưng cũng có thể thể hiện trạng thái bền +4 và +6.
+
+
+==== Tính chất hoá học ====
+Trạng thái +6 trong nhóm 9 chỉ được biết đến đối với florua, chúng được tạo ra bằng phản ứng trực tiếp. Do đó, meitneri có thể tạo thành hexaflorua, MtF6. Muối này được cho là bền hơn iridi(VI) florua, vì trạng thái +6 trở nên bền hơn trong nhóm này.
+Khi kết hợp với ôxy, rhodi tạo ra Rh2O3 trong khi đó iridi bị ôxy hoá thành trạng thái +4 trong IrO2. Meitneri có thể tạo thành dạng ôxít, MtO2, nếu tính chất phản ứng eka-iridi được thể hiện.
+Trạng thái +3 trong nhóm 9 là phổ biến ở dạng trihalua (trừ florua) tạo thành từ phản ứng trực tiếp với các halogen. Do đó, meitneri có thể tạo thành MtCl3, MtBr3 và MtI3 theo cách tương tự với iridi.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+WebElements.com: Meitnerium

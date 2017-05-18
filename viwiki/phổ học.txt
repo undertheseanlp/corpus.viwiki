@@ -1,0 +1,23 @@
+Quang phổ học hay phân quang học, theo ý nghĩa ban đầu, là môn khoa học nghiên cứu về quang phổ, tìm ra các quy luật liên hệ giữa các tính chất vật lý và hóa học của hệ vật chất với các quang phổ phát xạ hay hấp thụ của chúng; và ứng dụng các quy luật này trong các phương pháp phân tích quang phổ, tìm lại tính chất của hệ vật chất từ quang phổ quan sát được.
+Mở rộng ra, phương pháp tương tự được áp dụng nghiên cứu các loại phổ, dải biến đổi của các tính chất vật lý và hóa học trong tập hợp các hạt vật chất (phân tử, nguyên tử, ion,...), gọi là phổ học. Các phương pháp phổ học nói chung đôi khi vẫn được gọi là quang phổ học vì lý do lịch sử của thuật ngữ, dù cho chúng có thể hoàn toàn không liên quan đến việc đo đạc các quang tử nhìn thấy được trong dải quang phổ phát ra hay hấp thụ bởi vật chất.
+
+
+== Quang phổ ==
+Các phương pháp phân tích quang phổ được quan tâm trong hóa học và trong các quan sát từ xa, khi các máy thu chỉ nhận photon đến từ vật chất, mà không thực hiện đo đạc trực tiếp trên vật.
+Một ví dụ trong hóa học, có thể xác định nồng độ của một chất trong một dung dịch, bằng cách tạo ra phức màu của chất cần xác định hay một chất mà có khả năng xác định gián tiếp chất cần xác định với thuốc thử hữu cơ, rồi quan sát quang phổ của hệ. Phương pháp này dựa trên sự hấp thụ bức xạ điện từ bởi các dung dịch của chất phân tích. Ở cùng một điều kiện, độ hấp thu hay mật độ quang sẽ tỷ lệ thuận với nồng độ chất hấp thụ. Điều kiện để làm thuốc thử tạo phức là phức tạo thành bền, cường độ màu mạnh, cho các phức chiết tốt, đặc biệt là chiết trong môi trường axit mạnh.
+Một số kỹ thuật phân tích quang phổ tiêu biểu:
+Quang phổ huỳnh quang XRF.
+Quang Phổ tử ngoại - khả kiến UV-VIS.
+Quang phổ phát xạ hồ quang OES
+Quang phổ phát xạ nguyên tử ICP-OES
+Quang phổ hồng ngoại
+Quang phổ RAMAN
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+
+
+== Các loại phổ khác ==

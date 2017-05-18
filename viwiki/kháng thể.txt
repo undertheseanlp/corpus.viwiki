@@ -1,0 +1,204 @@
+Kháng thể là các phân tử immunoglobulin (có bản chất glycoprotein), do các tế bào lympho B cũng như các tương bào (Plasma - biệt hóa từ lympho B) tiết ra để hệ miễn dịch nhận biết và vô hiệu hóa các tác nhân lạ, chẳng hạn các vi khuẩn hoặc virus. Mỗi kháng thể chỉ có thể nhận diện một epitope kháng nguyên duy nhất.
+
+
+== Cấu trúc điển hình ==
+Phân tử kháng thể cấu tạo từ 4 chuỗi polypeptide, gồm hai chuỗi nặng (H, heavy, tiếng Anh, màu tím trong hình 3) giống hệt nhau và hai chuỗi nhẹ (L, light, tiếng Anh, màu xanh lá trong hình 3) cũng giống hệt nhau. Có hai loại chuỗi nhẹ κ (kappa) và λ (lambda), do đó hai chuỗi nhẹ của mỗi phân tử immunoglobulin chỉ có thể cùng là κ hoặc cùng là λ. Các chuỗi của immunoglobulin liên kết với nhau bởi các cầu nối disulfide và có độ đàn hồi nhất định (hình 2 và 3). Một phần cấu trúc của các chuỗi thì cố định nhưng phần đầu của hai "cánh tay" chữ Y thì rất biến thiên giữa các kháng thể khác nhau, để tạo nên các vị trí kết hợp có khả năng phản ứng đặc hiệu với các kháng nguyên tương ứng, điều này tương tự như một enzyme tiếp xúc với cơ chất của nó. Có thể tạm so sánh sự đặc hiệu của phản ứng kháng thể-kháng nguyên với ổ khóa và chìa khóa.
+
+
+=== Các domain hằng định ===
+
+Các domain hằng định (C, constant, tiếng Anh) đặc trưng bởi các chuỗi amino acide khá giống nhau giữa các kháng thể. Domain hằng định của chuỗi nhẹ ký hiệu là CL. Các chuỗi nặng chứa 3 hoặc 4 domain hằng định, tùy theo lớp kháng thể CH1, CH2, CH3 và CH4.
+Các domain hằng định không có vai trò nhận diện kháng nguyên, chúng làm nhiệm vụ cầu nối với các tế bào miễn dịch cũng như các bổ thể. Do đó, phần "chân" của chữ Y còn được gọi là Fc (tức là phần hoạt động sinh học của kháng thể F: fragment, c: cristallisable)
+
+
+=== Các domain biến thiên ===
+Mỗi immunoglobulin có 4 domain biến thiên (V, variable, tiếng Anh) ở đầu tận hai "cánh tay" của chữ Y. Sự kết hợp giữa 1 domain biến thiên trên chuỗi nặng (VH) và 1 domain biến thiên trên chuỗi nhẹ (VL) tạo nên vị trí nhận diện kháng nguyên (còn gọi là paratope). Như vậy, mỗi immunoglobulin có hai vị trí gắn kháng nguyên. Hai vị trí này giống nhau như đúc, qua đó một kháng thể có thể gắn được với 2 kháng nguyên giống nhau. Hai "cánh tay" của chữ Y còn gọi là Fab (tức là phần nhận biết kháng nguyên, F: fragment, ab: antigen binding). Domain kháng nguyên nơi gắn vào kháng thể gọi là epitope.
+Các domain sở dĩ gọi là biến thiên vì chúng khác nhau rất nhiều giữa các kháng thể. Chính sự biến thiên đa dạng này giúp cho hệ thống các kháng thể nhận biết được nhiều loại tác nhân gây bệnh khác nhau. Cơ chế tạo nên sự biến thiên này sẽ được đề cập ở những phần sau.
+
+
+== Giới hạn giữa cái "ta" và cái "không ta" - Tính đặc hiệu của phản ứng kháng thể-kháng nguyên ==
+
+Phân biệt giữa cái "ta" và cái "không ta" là tính chất cơ bản của hệ miễn dịch và do đó, là đối tượng nghiên cứu cơ bản của miễn dịch học. Hệ miễn dịch giúp cơ thể chống lại bệnh tật, điều này có vẻ không cần phải nhắc lại, nhưng điều đáng lưu ý là một chất không cần phải có khả năng gây bệnh, chỉ cần nó lạ đối với cơ thể là có thể kích thích hệ miễn dịch. Tính lạ này có khi vô hại nhưng cũng đôi khi lắm phiền hà, bởi lẽ để duy trì sự sống, sinh vật cần phải trao đổi vật chất (và năng lượng) với môi trường, phải tiếp xúc với những cái "lạ", "không ta" rồi thông qua quá trình đồng hóa để biến chúng thành cái "ta", "của ta". Cũng chính vì lý do này, chuột có thể sản xuất kháng thể chống lại sữa bò hay albumine người...
+
+
+=== Isotype ===
+Điều gây chú ý là khi gây đáp ứng miễn dịch ở chuột bằng albumine của 1 người, kháng thể sinh ra có tính đặc hiệu đối với albumine của bất cứ người nào, chứ không riêng gì của cá nhân người nói trên. Như vậy có một cái gì đó chung cho cả một loài. Nhà miễn dịch học người Pháp Jacques Oudin đã đề ra khái niệm isotype để chỉ đặc tính kháng nguyên chung của loài.
+Isotype đã là trở ngại lớn cho huyết thanh liệu pháp (thí dụ dùng huyết thanh ngựa có chứa kháng thể kháng độc tố uốn ván để chữa bệnh uốn ván cho người), cách khắc phục là dùng công nghệ sản xuất các kháng thể đơn dòng.
+Immunoglobulin người chia làm 5 isotype, sẽ được trình bày ở một phần sau. Đặc tính isotype kháng thể được quy định bởi cấu trúc thuộc phần hằng định của đại phân tử kháng thể (cụ thể là trên các domain CH).
+
+
+=== Allotype ===
+Không hẳn là immunoglobulin lúc nào cũng được dung nạp ở một cá thể khác cùng loài, Oudin đề ra khái niệm allotype khi quan sát thấy một số thỏ lại sinh kháng thể chống chính các immunoglobulin thỏ. Allotype cũng thuộc phần hằng định của immunoglobulin.
+Tuy nhiên, sự không tương hợp do allotype được biết đến nhiều nhất không phải là các immunoglobulin mà là các nhóm máu và hệ HLA.
+
+
+=== Idiotype ===
+Allotype là ranh giới giữa hai cá thể cùng loài. Đem một kháng thể thỏ kháng albumine người (sau đây gọi là anti-albumine hay Ig1) tiêm cho một con thỏ khác cùng nhóm allotype, người ta thấy con thỏ thứ 2 này lại sản xuất kháng thể Ig1 nói trên. Do những khác biệt về isotype và allotype đã được loại trừ (cùng loài, cùng loại), đối tượng của việc sinh miễn dịch này được kết luận là vùng đặc hiệu của kháng thể 1 kể trên. Cấu trúc tạo nên tính đặc hiệu với kháng nguyên đó được gọi là "đặc tính idiotype". Kháng thể anti-albumine gọi là idiotype, cũng chính Oudin đề nghị thuật ngữ này. Tuy nhiên idiotype đích danh chính là vùng biến thiên trên kháng thể (cũng như trên TCR) đặc hiệu với một kháng nguyên, còn vị trí liên kết với kháng nguyên gọi là paratope. Người ta đã thành công trong việc cắt các idiotype ra khỏi kháng thể, phục vụ nghiên cứu và phát hiện ra khái niệm "dãy (hay dòng thác) idiotype":
+Đem một kháng nguyên X gây miễn dịch ở chuột A, người ta thu được kháng thể (idiotype) anti-X (tạm gọi là Ig1).
+Lấy Ig1 tiêm cho chuột B (giống hệt về di truyền với chuột 1), kháng thể anti-anti-X được tạo ra (Ig2).
+Người ta đã chứng minh được rằng trong cùng một cơ thể, khi tiếp xúc với 1 kháng nguyên X, không phải chỉ có 1 Ig1 (anti-X) được sản xuất, mà là một dãy những Ig như sau:
+Kháng nguyên (X) → Ig1 (anti-X) → Ig2 (anti-anti-X) → Ig3 (anti-anti-anti-X)...
+Ít nhất trong một số trường hợp, Ig3 rất giống (nếu không nói là giống hệt) Ig1 về khả năng nhận diện kháng nguyên X ở đầu dãy, như vậy, Ig2 có những cấu trúc gây đáp ứng tạo Ig3 đặc hiệu với X, người ta nói Ig2 hoạt động như một hình ảnh nội tại của kháng nguyên. Ig2 được ứng dụng như một vắc-xin (vắc-xin anti-idiotype).
+
+Suy rộng ra, khi một trong muôn vàn những kháng nguyên "tiềm năng" của thế giới xung quanh xâm nhập cơ thể, hệ miễn dịch tạo ra một dãy, hay "mạng lưới" idiotype như cách dùng của Niels Jerne. Sự phân biệt giữa "ta" và "không ta" rất tinh tế, không phải là một sự phân biệt trắng đen hai nửa một cách đơn giản, mà là một hệ thống cân bằng động trường kỳ, vai trò gây đáp ứng miễn dịch của kháng nguyên là làm xáo trộn sự cân bằng đó.
+Mẹo nhớ (không chính thức): idio=riêng, tự mình → idiotype: cấu trúc riêng biệt trên phần biến thiên của mỗi immunoglobuline hay TCR, đặc hiệu cho một epitope kháng nguyên nhất định.
+
+
+=== Tự kháng thể ===
+
+Đầu thế kỷ 20, Paul Ehrlich đưa ra khái niệm horror autotoxicus (tạm dịch "tính tự độc đáng sợ"), cho rằng hệ miễn dịch không tạo ra kháng thể chống lại các thành phần của chính cơ thể, vì điều này sẽ dẫn đến tự hủy diệt. Quan niệm này được chấp nhận rộng rãi suốt gần trọn thế kỷ cho đến khi khái niệm "mạng lưới kháng thể" ra đời. Đầu thập niên 1980, người ta khám phá ra các tự kháng thể hình thành tự phát với số lượng ít, thường đặc hiệu với nhiều kháng nguyên của cơ thể nên gọi là đa đặc hiệu. Các tự kháng thể này khá lành, không gây phản ứng hủy diệt như các tự kháng thể trong các bệnh tự miễn, khi cơ chế điều hòa miễn dịch bị qua mặt.
+
+
+=== Tính đặc hiệu của phản ứng kháng thể-kháng nguyên ===
+Cũng chính Erhlich, vào đầu thế kỷ 20, đã đề xuất rằng các kháng thể được sản xuất sẵn trong cơ thể, độc lập với mọi kích thích từ bên ngoài. Vai trò của kháng nguyên là đẩy mạnh sự sản xuất kháng thể đặc hiệu tương ứng.
+Mô hình của Erhlich đã được chứng minh là đúng mặc dù ở thời của ông người ta chưa phân biệt được 2 loại lympho B và lympho T. Cơ thể đã chuẩn bị sẵn kháng thể cho hầu như mọi "kẻ xâm nhập" tiềm năng.
+Trong quá trình phát triển và biệt hóa các tế bào lympho B, có sự tái tổ hợp các gene mã hóa immunoglobulin. Trong mỗi tế bào lympho B, tổ hợp gene của phần biến thiên chỉ xảy ra 1 lần sẽ giữ nguyên đến hết đời sống của tế bào đó. Nếu vượt qua được các cơ chế chọn lọc, lympho B sẽ tiếp tục sống:
+Lympho B sẽ tồn tại ở dạng naive cho đến khi gặp kháng nguyên tương ứng.
+Nếu không gặp kháng nguyên, lympho B hoạt động cầm chừng dưới dạng naive đến hết đời của nó.
+Khi gặp kháng nguyên đặc hiệu, với sự trợ giúp của lympho TH1 qua các cytokine, lympho B sẽ phân chia thành dòng, một số biệt hóa thành tương bào nhằm sản xuất kháng thể hàng loạt, một số lympho B khác sẽ trở thành tế bào lympho B ghi nhớ và tiếp tục phân bào, duy trì sự tồn tại của dòng tế bào đó trong cơ thể. Nếu nhiễm kháng nguyên đó một lần nữa, các tế bào B ghi nhớ sẽ đáp ứng nhanh hơn dạng näive. Ưu điểm này của đáp ứng miễn dịch đặc hiệu là nguyên tắc của việc ngừa bệnh bằng vắc-xin.
+Trong các immunoglobulin mà cơ thể có thể tạo ra, có những phân tử rất giống với nhau. Khi một kháng nguyên tiếp xúc với hệ miễn dịch, các dòng kháng thể tương tự đều được kích thích với những mức độ khác nhau, trong đó dòng đặc hiệu chính danh là đáp ứng mạnh nhất, nổi bậc nhất.
+
+
+== Ái lực của kháng thể với kháng nguyên ==
+Liên kết giữa kháng thể và kháng nguyên, tương tự như giữa enzyme và cơ chất, có tính thuận nghịch. Liên kết mạnh hay yếu tùy vào số lượng liên kết và độ đặc hiệu giữa vùng nhận diện kháng nguyên trên kháng thể và cấu trúc epitope tương ứng.
+Ái lực của kháng thể đối với kháng nguyên là hợp lực của các lực liên kết yếu không đồng hóa trị (liên kết hydro, lực van der Waals và các liên kết ion...). Các lực liên kết yếu này chỉ có tác dụng trong một bán kính nhỏ, do đó sự đặc hiệu (hay tính chất bổ sung) trong cấu trúc không gian 3 chiều của 2 vùng phân tử có vai trò quyết định đối với ái lực của kháng thể với kháng nguyên.
+Như vậy, một kháng nguyên có thể được nhận diện bởi nhiều kháng thể với độ đặc hiệu khác nhau, dòng kháng thể nào phù hợp nhất về cấu trúc 3 chiều với epitope sẽ được khuếch trương mạnh nhất.
+
+
+== Các lớp kháng thể (hay isotype) ==
+Các kháng thể được phân thành 5 lớp hay isotype, tùy theo cấu tạo của các domain hằng định của các chuỗi nặng: các chuỗi γ, α, μ, ε và δ lần lượt tương ứng với các immunoglobulin (Ig) thuộc các lớp IgG, IgA, IgM, IgE et IgD (xem bảng 1).
+Ngoài ra, các dị biệt tinh tế hơn cũng tồn tại bên trong một số lớp immunoglobulin. Ở người, có 4 loại IgG (IgG1, IgG2, IgG3 và IgG4) và 2 loại IgA (IgA1 và IgA2).
+Để tiêu diệt tác nhân gây bệnh bị gắn kháng thể, nhiều bạch cầu sử dụng các FcR (thụ thể của Fc, R: receptor) bề mặt tương ứng với từng lớp IgG, IgA, IgM, IgE và IgD.
+Thông thường một tế bào B sản xuất đồng thời nhiều lớp kháng thể: chúng khác nhau ở phần C các chuỗi nặng nhưng giống hệt nhau ở tính đặc hiệu với một kháng nguyên.
+Các tác nhân gây bệnh là muôn hình vạn trạng, do đó số lượng các kháng nguyên mà cơ thể có thể gặp phải là rất lớn. Mỗi lympho B lại chỉ có thể sản xuất một loại kháng thể đặc hiệu đối với 1 epitope kháng nguyên nhất định, do đó cần phải có hàng nhiều triệu lympho B khác nhau. Số lượng này vượt quá số lượng gene của con người. Vậy cách hiểu cổ xưa về một gene sản xuất một kháng thể không còn đứng vững. Năm 1976, Susumu Tonegawa đã khám phá rằng cơ thể dùng cơ chế tái tổ hợp gene để tạo ra số kháng thể đặc hiệu khổng lồ nói trên. Tonegawa đã được trao giải Nobel về Y học và Sinh lý học năm 1987 cho khám phá này. Quá trình tái tổ hợp gene để sản xuất kháng thể sẽ được trình bày ở một phần sau.
+
+
+=== IgG ===
+IgG là loại immunoglobulin monomer (mono=1), là kháng thể phổ biến nhất trong máu, sữa non và các dịch mô. Đây là isotype duy nhất có thể xuyên qua nhau thai, qua đó bảo vệ con trong những tuần lễ đầu đời sau khi sinh khi hệ miễn dịch của trẻ chưa phát triển. Vai trò chính của IgG là hoạt hóa bổ thể và opsonine hóa. Có 4 thứ lớp: IgG1 (66%), IgG2 (23%), IgG3 (7%) và IgG4 (4%) trong đó IgG4 không có chức năng hoạt hóa bổ thể.
+
+
+=== IgA ===
+IgA chiếm khoảng 15 - 20% các immunoglobulin trong máu, nó chủ yếu được tiết tại các mô niêm nhầy (chẳng hạn trong ống tiêu hóa và hệ hô hấp). Nó còn được tiết trong sữa non, nước mắt và nước miếng nước bọt. Lớp immunoglobulin này chống lại (bằng cách trung hòa) các tác nhân gây bệnh tại những nơi chúng được tiết ra. Nó không hoạt hóa bổ thể, khả năng opsonise hóa cũng rất yếu. Có hai dạng IgA là IgA1 (90%) và IgA2 (10%). Khác với IgA1, các chuỗi nặng và nhẹ của IgA2 không nối với nhau bằng các cầu disulfide mà bằng các liên kết không đồng hóa trị. IgA2 có ít trong huyết thanh, nhưng nhiều trong các dịch tiết.
+Trong các dịch tiết, IgA có dạng dimer (di=2), nối với nhau bằng hai chuỗi phụ. Thứ nhất là một chuỗi J (join - nối; không phải là các gene J của immunoglobulin), một polypeptide có khối lượng phân tử 1,5 kDa, giàu cysteine và khác biệt hoàn toàn với các chuỗi immunoglobulin khác. Thứ hai là một chuỗi polypeptide có tên secretory component cùng có khối lượng phân tử 1,5 kDa, do các tế bào biểu mô tiết ra. IgA còn tồn tại dưới dạng trimer (tri = 3) và tetramer (tetra = 4).
+
+
+=== IgM ===
+IgM tạo nên các polymer (poly = đa, nhiều) do các immunoglobulin liên kết với nhau bằng các cầu nối đồng hóa trị disulfide, thường là với dạng pentamer (penta = 5) hoặc hexamer (hexa = 6). Khối lượng phân tử của nó khá lớn, xấp xỉ 900 kDa. Chuỗi J thường thấy gắn với nhiều pentamer, trong khi các hexamer lại không chứa chuỗi J do cấu trúc không gian không phù hợp. Do mỗi monomer có hai vị trí gắn kháng nguyên, một pentamer IgM có 10 vị trí gắn kháng nguyên, tuy vậy nó không thể gắn cùng lúc 10 antigen vì chúng cản trở lẫn nhau. Vì là một phân tử lớn, IgM không có khả năng xuyên thấm, nó chỉ tồn tại với lượng rất nhỏ trong dịch kẽ. IgM chủ yếu ở trong huyết tương, chuỗi J rất cần cho dạng xuất tiết. Nhờ tính chất polymer, IgM rất "háu" kháng nguyên và rất hiệu quả trong việc hoạt hóa bổ thể. Nó còn được gọi là các "kháng thể tự nhiên" vì lưu hành trong máu ngay cả khi không có bằng chứng về sự tiếp xúc với kháng nguyên.
+Ở các tế bào dòng mầm, segment gene mã hóa vùng μ hằng định của chuỗi nặng được giải mã trước các segment khác. Do đó, IgM là immunoglobulin đầu tiên được sản xuất bởi tế bào B trưởng thành.
+
+
+=== IgE ===
+IgE là loại immunoglobulin monomer trong đó carbonhydrate chiếm tỷ lệ khá lớn. Khối lượng phân tử của IgE là 190 kDa. IgE có trên màng bào tương của bạch cầu ái kiềm và tế bào mast ở mô liên kết. IgE giữ một vai trò trong phản ứng quá mẫn cấp cũng như trong cơ chế miễn dịch chống ký sinh trùng. Kháng thể loại IgE cũng có trong các dịch tiết, không hoạt hóa bổ thể và là loại immunoglobulin dễ bị hủy bởi nhiệt.
+
+
+=== IgD ===
+IgD là loại immunoglobulin monomer chiếm chưa đầy 1% trên màng tế bào lympho B. Chức năng của IgD chưa được hiểu biết đầy đủ, nó thường biểu hiện đồng thời với IgM và được xem như một chỉ dấu (marker) của tế bào B trưởng thành nhưng chưa tiếp xúc kháng nguyên. Có lẽ nó tham gia vào cơ chế biệt hóa của tế bào B thành tương bào và tế bào B ghi nhớ.
+
+
+== Vai trò của kháng thể ==
+Trong một đáp ứng miễn dịch, kháng thể có 3 chức năng chính: gắn với kháng nguyên, kích hoạt hệ thống bổ thể và huy động các tế bào miễn dịch.
+
+
+=== Liên kết với kháng nguyên ===
+
+Các immunoglobulin có khả năng nhận diện và gắn một cách đặc hiệu với 1 kháng nguyên tương ứng nhờ các domain biến thiên. Một thí dụ để miêu tả lợi ích của kháng thể là trong phản ứng chống độc tố vi khuẩn. Kháng thể gắn với và qua đó trung hòa độc tố, ngăn ngừa sự bám dính của các độc tố trên lên các thụ thể tế bào. Như vậy, các tế bào cơ thể tránh được các rối loạn do các độc tố đó gây ra (hình 4 và 5).
+Tương tự như vậy, nhiều virus và vi khuẩn chỉ gây bệnh khi bám được vào các tế bào cơ thể. Vi khuẩn sử dụng các phân tử bám dính là adhesine, còn virus sở hữu các protein cố định trên lớp vỏ ngoài. Các kháng thể kháng-adhesine và kháng-proteine capside virus sẽ ngăn chặn các vi sinh vật này gắn vào các tế bào đích của chúng.
+
+
+=== Hoạt hóa bổ thể ===
+
+Một trong những cơ chế bảo vệ cơ thể của kháng thể là việc hoạt hóa dòng thác bổ thể. Bổ thể là tập hợp các protein huyết tương khi được hoạt hóa sẽ tiêu diệt các vi khuẩn xâm hại bằng cách (1) đục các lỗ thủng trên vi khuẩn, (2) tạo điều kiện cho hiện tượng thực bào, (3) thanh lọc các phức hợp miễn dịch và (4) phóng thích các phân tử hóa hướng động.
+
+
+=== Hoạt hóa các tế bào miễn dịch ===
+Sau khi gắn vào kháng nguyên ở đầu biến thiên (Fab), kháng thể có thể liên kết với các tế bào miễn dịch ở đầu hằng định (Fc). Những tương tác này có tầm quan trọng đặc biệt trong đáp ứng miễn dịch. Như vậy, các kháng thể gắn với một vi khuẩn có thể liên kết với một đại thực bào và khởi động hiện tượng thực bào. Các tế bào lympho NK (Natural Killer) có thể thực hiện chức năng độc tế bào và ly giải các vi khuẩn bị opsonine hóa bởi các kháng thể.
+
+
+== Sự tổng hợp immunoglobulin ==
+Hệ miễn dịch người có khả năng sản xuất ra trên 1012 loại kháng thể đặc hiệu khác nhau. Trong khi những kết quả nghiên cứu mới nhất cho thấy genome người chỉ có khoảng 3*105 gene, như vậy một kháng thể không thể chỉ là sản phẩm của một gene duy nhất.
+
+
+=== Đại cương ===
+Có nhiều gene mã hóa cho phần biến thiên (V) của immunoglobulin, chúng tái tổ hợp với nhau một cách ngẫu nhiên để tạo ra số sản phẩm lớn hơn nhiều so với số gen vốn có. Trong mỗi tế bào lympho B, chỉ một tổ hợp duy nhất của mỗi chuỗi (nặng và nhẹ) được thành lập và không thay đổi suốt cuộc đời nó.
+
+
+==== Tổ chức, tái tổ hợp và giải mã các gene chuỗi nặng ====
+Phần hằng định (C) của chuỗi nặng được mã hóa bởi một trong số 9 gene tùy theo lớp (isotype) kháng thể: µ cho IgM; γ1 - 4 cho IgG1 - IgG4; α1 và α2 cho IgA1 và IgA2; δ cho IgD và ε cho IgE.
+Các gene mã hóa chuỗi nặng của immunoglobulin nằm trên nhiễm sắc thể 14. Ở những tế bào mầm (non), chúng sắp xếp thành 4 vùng tách biệt: các amino acide (aa) 1 - 95 của phần biến thiên (V) được mã hóa bởi chừng 51 gene V; tiếp theo, các aa 96 - 101 do khoảng 27 gene D mã hóa (D:diversity - "phong phú"); cuối cùng, các aa 102 - 110 được mã hóa bởi 6 gene J (J: junction - "chỗ nối").
+Mỗi gene V đều có một chuỗi L (leader - dẫn lối). Trong quá trình trưởng thành của tế bào lympho B, một gene D sẽ liên kết với một gen J bằng cách cắt bỏ đoạn DNA trung gian giữa chúng. Đoạn DJ mới thành lập cùng với gene Cμ (hằng định) được dịch mã thành mRNA, cho ra một protein DJ-Cμ tạm thời.
+Sau đó, một gene V cùng với đoạn L tương ứng của nó được gắn vào đoạn DJ kể trên (tái tổ hợp VDJ). Gen VDJ mới tổ hợp và gene Cμ được giải mã tạo ra protein VDJ-Cμ. Chuỗi L sau đó được cắt ra, protein lúc này chính là chuỗi nặng của immunoglobulin IgM.
+Vậy riêng các gene trên NST 14 đã có khả năng tạo ra 8262 chuỗi nặng khác nhau (51V × 27D × 6J).
+
+
+==== Tổ chức, tái tổ hợp và giải mã các gene chuỗi nhẹ kappa ====
+Các gene của chuỗi nhẹ κ (kappa) thuộc nhiễm sắc thể 2. Tại phần biến thiên (V), các amino acide (aa) 1 - 95 được mã hóa bởi 40 gene VL và các aa từ 96 - 110 bởi 5 gene JL. Chỉ 1 gene Cκ mã hóa cho phần hằng định của chuỗi nhẹ này. Như vậy, sự tổ hợp ngẫu nhiên của một gene VLκ với một gene JLκ có thể tạo ra 200 chuỗi nhẹ κ khác nhau (40 × 5).
+
+
+==== Tổ chức, tái tổ hợp và giải mã các gene chuỗi nhẹ lambda ====
+Các gene của chuỗi nhẹ λ (lambda) thuộc nhiễm sắc thể 22. Tương tự chuỗi nhẹ κ, phần biến thiên (V) của chuỗi nhẹ λ cũng được mã hóa bởi các gene VL và các gene JL. Số lượng các gene chưa được thống kê đầy đủ, ngoài ra còn có nhiều gene Cλ có đoạn gene L đi trước. Ước tính, tổ hợp các gene λ có thể tạo ra 116 chuỗi nhẹ λ khác nhau.
+
+
+==== Điều hòa sản xuất kháng thể ====
+Sự tái tổ hợp các gene V, D và J trong các chuỗi nặng và chuỗi nhẹ chịu sự điều hòa của các gene chức năng khác trong nhân tế bào, trong đó đặc biệt quan trọng là các gene RAG1 và 2 (recombinatioin activating gene) trên nhiễm sắc thể 11 [1]. Nếu các gene này bị rối loạn, các immunoglobulin cũng như các thụ thể kháng nguyên tế bào T (TCR) bị rối loạn trầm trọng (bệnh suy giảm miễn dịch trầm trọng bẩm sinh SCID - severe congenital immunodeficiency disease).
+Trong trường hợp bình thường, sự tái tổ hợp gene các chuỗi nặng có thể tạo ra 2,6 × 106 immunoglobulin khác nhau (8262H × (200Lκ + 116Lλ)).
+Tuy nhiên, số loại kháng thể có thể tạo ra theo lý thuyết có thể cao hơn 1012[2], nhờ các cơ chế bổ sung sau:
+
+Các đột biến sinh dưỡng trong quá trình trưởng thành (trước khi có sự tổ hợp gene) của tế bào lympho.
+Những lỗi trong quá trình tổ hợp gene V, D, J.
+Các đột biến sinh dưỡng xảy ra trong quá trình tổ hợp gene.
+
+
+=== Sự chuyển lớp isotype ===
+Nếu như sự đặc hiệu đối với kháng nguyên được quy định trên Fab của kháng thể một khi đã hình thành sẽ không thay đổi suốt đời sống của tế bào lympho thì phần Fc lại có khả năng thay đổi để thích ứng với chức năng của phân tử immunoglobulin. Sự thay đổi này bắt nguồn từ các gene CL và được gọi là sự chuyển lớp isotype.
+Các kháng thể (immunoglobulin) đầu tiên do lymphocyte B sản xuất thuộc lớp IgM. Trong quá trình trưởng thành, chuỗi VDJ tổ hợp có thể liên kết với các gene C khác. Trước mỗi gene C đều có 1 chuỗi S (switch - chuyển) có chức năng điều khiển sự tái tổ hợp giữa VDJ và C thông qua việc liên kết với các chuỗi S tương đồng khác. Những chuỗi C nằm giữa chuỗi VDJ và gene C mới gắn sẽ bị cắt bỏ.
+
+
+== Kháng thể đơn dòng và đa dòng ==
+
+Một tác nhân gây bệnh (vi khuẩn, virus, v.v.) được hệ miễn dịch nhận diện như là các kháng nguyên. Thông thường, một kháng nguyên có thể gồm nhiều epitope khác nhau.
+
+
+=== Kháng thể đơn dòng ===
+Các kháng thể đơn dòng chỉ nhận biết một epitope trên một kháng nguyên cho sẵn (hình 6). Theo định nghĩa, tất cả các kháng thể đơn dòng cùng một dòng thì giống hệt nhau và được sản xuất bởi cùng một dòng tương bào.
+Kháng thể đơn dòng được sử dụng rộng rãi trong sinh học và y học, chúng vừa là phương tiện chẩn đoán, vừa là công cụ điều trị. Thí dụ, chúng được ứng dụng trong một phương pháp phát hiện có thai được sử dụng phổ biến hiện nay.
+Trước đây, việc sản xuất kháng thể đơn dòng in vitro rất khó khăn do đời sống ngắn ngủi của các tương bào. Kháng thể chỉ thu được in vivo bằng cách tiêm một kháng nguyên cụ thể vào một động vật rồi chiết lấy kháng thể trong máu. Phương pháp này rất tốn kém nhưng chỉ thu được lượng kháng thể rất ít, không thuần nhất và bị ô nhiễm.
+Một tiến bộ to lớn đã đạt được cuối những năm 1970 bởi Cesar Milstein và Georges Köhler với kỹ thuật hybridoma (tế bào lai giữa 1 lympho B có khả năng sản xuất kháng thể với 1 tế bào ung thư có đời sống khá dài).
+
+
+=== Kháng thể đa dòng ===
+Các kháng thể đa dòng là một tập hợp các kháng thể đặc hiệu với các epitope khác nhau trên một kháng nguyên cho trước (xem hình 7). Trong đáp ứng miễn dịch, cơ thể tổng hợp nhiều kháng thể tương ứng với các epitope của cùng một kháng nguyên: đáp ứng như vậy gọi là đa dòng.
+
+
+== Tham khảo ==
+Jeremy Berg, John Tymocsko, Lubert Stryer, Biochemistry, W.H. Freeman and Company, New York, 2002. ISBN 0-7167-4684-0
+Neil Campbell, Jane Reece, Biologie, De Boeck, 1995. ISBN 2-8041-2084-8
+Charles Janeway, Paul Travers, Immunobiology, Garland Publishing, New York and London, 2001. ISBN 0-8153-3642-X
+
+
+== Xem thêm ==
+Miễn dịch
+Kháng nguyên
+Phản ứng kháng nguyên - kháng thể
+Thụ thể kháng nguyên của tế bào T (TCR)
+Tế bào lympho
+Bổ thể
+Đại gia đình các phân tử immunoglobulin
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Tiếng Anh:
+B Cells and Antibodies
+The Generation of Antibody Diversity
+Microbiology and Immunology on-line
+Search and Find Antibodies
+Antibody Search & Antibody Staining Protocols
+Antibody Staining Protocol Database
+How Lymphocytes Produce Antibody
+Lymphomation: Immunoglobulins
+Recombination and the Evolution of the Adaptive Immune System
+Tiếng Pháp:
+Site des étudiants en médecine de Grenoble
+Site SVT de l'Académie de Lyon

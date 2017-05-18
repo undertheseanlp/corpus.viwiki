@@ -1,0 +1,8 @@
+Ghi hình chuyển động (tiếng Anh: Motion capture) hay mocap là một công nghệ nắm bắt chuyển động từ một đối tượng hoặc một người. Chúng được áp dụng vào các lĩnh vực như quân sự, giải trí, thể thao, giải phẫu học, các ứng dụng y tế, hay để tạo tầm nhìn cho robot. Chúng thường được ứng dụng trong phim hoạt hình và trò chơi điện tử, ghi lại chuyển động của diễn viên và sử dụng các thông tin để áp dụng vào các nhân vật hoạt hình 3D hoặc 2D. Khi công nghệ mocap làm chuyển động của nhân vật như ngón tay hay mặt, chúng được gọi là chuyển động riêng hoặc motion tracking hay match moving.
+Trong quá trình ghi lại chuyển động, chuyển động của diễn viên được ghi rất nhiều lần trên một giây. Trong khi đó, các kỹ thuật trước đây chỉ sử dụng hình ảnh từ các camera để tính toán vị trí 3D, thường chỉ nhằm mục đích chụp chuyển động là để ghi lại chuyển động của diễn viên, không xuất hiện hình ảnh của nhân vật. Những "dữ liệu hoạt hình" này được ráp vào một mô hình 3D hoạt động như diễn viên. Kĩ thuật này được áp dụng vào các phim như Chúa tể của những chiếc nhẫn và American Pop và phim được sử dụng cho các bản ráp hình vẽ tay.
+
+
+== Hệ thống quang học ==
+
+
+== Tham khảo ==

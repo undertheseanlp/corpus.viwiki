@@ -1,0 +1,74 @@
+Dẫn điện là khả năng của một môi trường cho phép sự di chuyển của các hạt điện tích qua nó, khi có lực tác động vào các hạt, ví dụ như lực tĩnh điện của điện trường. Sự di chuyển có thể tạo thành dòng điện. Cơ chế của chuyển động này tùy thuộc vào vật chất.
+Sự dẫn điện có thể diễn tả bằng định luật Ohm, rằng dòng điện tỷ lệ với điện trường tương ứng, và tham số tỷ lệ chính là độ dẫn điện:
+
+  
+    
+      
+        
+          
+            
+              j
+              →
+            
+          
+        
+        =
+        σ
+        
+          
+            
+              E
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {j}}=\sigma {\vec {E}}}
+  
+Với:
+
+  
+    
+      
+        
+          
+            
+              j
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {j}}}
+   là mật độ dòng điện.
+
+  
+    
+      
+        
+          
+            
+              E
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {E}}}
+   là cường độ điện trường.
+σ là độ dẫn điện.
+Độ dẫn điện cũng là nghịch đảo của điện trở suất ρ:σ = 1/ρ, σ và ρ là những giá trị vô hướng.
+Trong hệ SI σ có đơn vị chuẩn là S/m (Siemens trên mét), các đơn vị biến đổi khác như S/cm, m/Ω·mm² và S·m/mm² cũng thường được dùng, với 1 S/cm = 100 S/m và 1 m/Ω·mm² = S·m/mm² = 106 S/m. Riêng ở Hoa Kỳ σ còn có đơn vị % IACS (International Annealed Copper Standard), phần trăm độ dẫn điện của đồng nóng chảy, 100 % IACS = 58 MS/m. Giá trị độ dẫn điện của dây trần trong các đường dây điện cao thế thường được đưa ra bằng % IACS.
+
+
+== Xem thêm ==
+Dẫn nhiệt
+Cách điện
+Bán dẫn
+Siêu dẫn
+
+
+== Chú thích ==

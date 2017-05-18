@@ -1,0 +1,112 @@
+Flo (tên dịch từ tiếng Hy Lạp cổ có nghĩa là "Sự hủy diệt"), (tiếng Anh là Fluorine) là nguyên tố hóa học trong bảng tuần hoàn nguyên tố có ký hiệu F và số nguyên tử bằng 9, nguyên tử khối bằng 19. Nó là một halôgen và là nguyên tố đặc biệt luôn có số oxi hóa -1 trong mọi hợp chất, nằm trong nhóm 7 của bảng tuần hoàn. Ở dạng khí, nó có màu vàng lục nhạt và là chất độc cực mạnh. Nó là một chất ôxi hóa và hoạt động hóa học mạnh nhất trong tất cả các nguyên tố. Ở dạng nguyên chất, Flo cực kỳ nguy hiểm, có thể tạo ra những vết bỏng hóa học trên da.
+
+
+== Thuộc tính ==
+Flo nguyên chất là một khí màu vàng nhạt có tính ăn mòn do nó là một chất ôxi hóa cực mạnh. Flo thậm chí còn tạo ra các hợp chất với một số khí trơ như xenon và radon. Ngay trong bóng tối và ở nhiệt độ thấp (21K), flo phản ứng mãnh liệt với hiđrô. Trong luồng khí flo, thủy tinh, các kim loại, nước và các chất khác cháy với ngọn lửa sáng chói. Nó hoạt động quá mạnh nên không thể tìm thấy ở dạng đơn chất và có ái lực đối với phần lớn các nguyên tố khác, đặc biệt là silic, vì thế nó không thể được điều chế hay bảo quản trong các bình thủy tinh. Trong không khí ẩm nó phản ứng với hơi nước để tạo ra axít flohiđric rất nguy hiểm.
+Trong dung dịch nước, flo thông thường xuất hiện dưới dạng ion florua F-. Các dạng khác là phức chất gốc flo (như [FeF4]-) hay H2F+.
+Các muối florua là hợp chất của flo với các gốc tích điện dương, thường là các ion. Các hợp chất của flo với kim loại nằm trong số các muối ổn định nhất.
+
+
+== Tính chất hóa học ==
+F2 là một phi kim hoạt động hóa học rất mạnh
+
+
+=== Phản ứng với hydro ===
+Phản ứng xảy ra ngay trong bóng tối, ở nhiệt độ -252*C tạo ra axit flohydric
+F2 + H2 → 2HF
+
+
+=== Phản ứng với các kim loại ===
+— Oxi hóa tất cả các kim loại (kể cả Au, Pt) tạo muối florua kim loại ứng với bậc oxi hóa cao của kim loại đó khi florua đó bền ở điều kiện thí nghiệm
+3F2 + 2Au → 2AuF3
+3F2 + 2Fe → 2FeF3
+Các kim loại kiềm, kiềm thổ phản ứng với flo xảy ra mãnh liệt.
+Các kim loại Al, Zn, Cr, Ni, Ag... phản ứng mạnh khi đun nóng
+Các kim loại Cu, Au họ Pt phản ứng khi đun nóng mạnh
+3F2 + 2Au → 2AuF3 (điều kiện: t°cao)
+
+
+=== Phản ứng với các phi kim khác ===
+Phản ứng với hầu hết phi kim (trừ O2; N2; Ne; He; Ar) tạo ra hợp chất công hóa trị ứng với bậc oxi hóa cao của nguyên tố phi kim đó
+3F2 + S → SF6
+2F2 + C → CF4
+2F2 + Si → SiF4
+Flo phản ứng với các halogen khác, trong những điều kiện đặc biệt
+F2 + Cl2 → 2ClF (điều kiện: 250 °C)
+3F2 (dư) + Cl2 → 2ClF3 (điều kiện: 280 °C)
+5F2 + 2I2 → 2I2F5
+
+
+=== Phản ứng Trao đổi ===
+Flo có khả năng dời chỗ các halogen khác ra khỏi các hợp chất ion hoặc hợp chất công hóa trị (ở điều kiện xác định)
+F2 + 2KCl (rắn) → 2KF + Cl2 (điều kiện: lạnh)
+F2 + KBr (dd) → 2KF + Br2
+Nếu dư F2 còn có phản ứng:
+Br2 + 5F2 + 6H2O → 2HBrO3 + 10HF
+và có một phần flo tác dụng với H2O
+
+
+=== Phản ứng với các hydrua ===
+Với H2O khi đun nóng thì flo bốc cháy
+2F2 + 2H2O → 4HF + O2 (điều kiện: t°)
+Với H2S, NH3 cháy trong khí flo thì tạo HF và (N2, NF3) hay SF6
+
+
+=== Phản ứng với các dung dịch kiềm ===
+Khác với các halogen khác, flo không tạo muối chứa oxi. Khi phản ứng với kiềm loãng (thí dụ NaOH 2%) lạnh tạo ra Oxygen difluoride và florua
+2F2 + 2NaOH → 2NaF + OF2↑ + H2O (điều kiện: NaOH lạnh, 2%)
+OF2 độc và có tính oxi hóa mạnh
+OF2 + H2O → 2HF + O2
+
+
+=== Phản ứng riêng ===
+Axit flohydric HF còn có tính chất đặc biệt là ăn mòn các đồ vật bằng thủy tinh(với cấu tạo chủ yếu từ SiO2): 2F2 + SiO2 → SiF4 + O2
+
+
+== Lịch sử ==
+Flo ở dạng fluorspar (fluorit) được Georgius Agricola miêu tả năm 1529 như là một chất gây chảy, là một chất được sử dụng để làm giảm nhiệt độ nóng chảy của kim loại hay khoáng chất. Năm 1670 Schwandhard đã phát hiện thấy thủy tinh bị fluorspar ăn mòn khi được xử lý bằng axít. Karl Scheele và nhiều nhà nghiên cứu sau này như Humphry Davy, Gay-Lussac, Antoine Lavoisier và Louis Thenard đã từng thực nghiệm với axít flohiđric, dễ dàng thu được bằng cách xử lý florua canxi với axít sulfuric đậm đặc.
+Cuối cùng người ta nhận ra rằng axít flohiđric chứa một nguyên tố chưa được biết. Nguyên tố này đã không được cô lập trong nhiều năm vì độ hoạt động hóa học rất cao của nó - nó được cô lập từ các hợp chất của nó rất khó khăn và ngay lập tức hóa hợp với các phần vật chất còn lại của hợp chất. Cuối cùng vào năm 1886 flo đã được cô lập bởi Henri Moissan sau gần như 74 năm cố gắng liên tục. Nó là những cố gắng mà một số các nhà nghiên cứu đã phải trả giá bằng sức khỏe hay cuộc sống của họ, và đối với Moissan, nó đã làm cho ông đoạt giải Nobel năm 1906 về hóa học.
+Sản xuất flo thương mại lần đầu tiên là do nhu cầu để chế tạo bom nguyên tử của dự án Manhattan trong Đại chiến thế giới lần thứ hai khi hợp chất hexaflorua uran (UF6) được sử dụng để tách các đồng vị U235 và U238 của urani. Ngày nay cả hai công nghệ khuếch tán và ly tâm khí sử dụng khí UF6 để sản xuất urani giàu cho các ứng dụng năng lượng nguyên tử.
+
+
+== Ứng dụng ==
+
+Flo được sử dụng trong sản xuất các chất dẻo ma sát thấp như Teflon, và trong các halon như Freon. Các ứng dụng khác là:
+Axít flohiđric (công thức hóa học HF) được sử dụng để khắc kính.
+Flo đơn nguyên tử được sử dụng để khử tro thạch anh trong sản xuất các chất bán dẫn.
+Cùng với các hợp chất của nó, flo được sử dụng trong sản xuất urani (từ hexaflorua) và trong hơn 100 các hóa chất chứa flo thương mại khác, bao gồm cả các chất dẻo chịu nhiệt độ cao.
+Các floroclorohiđrôcacbon được sử dụng trong các máy điều hòa không khí và thiết bị đông lạnh. Các cloroflorocacbon (CFC) đã bị loại bỏ trong các ứng dụng này vì chúng bị nghi ngờ là tạo ra các lỗ hổng ôzôn. Hexaflorua lưu huỳnh là một khí rất trơ và không độc (không phổ biến đối với các hợp chất của flo). Các loại hợp chất này là các khí gây hiệu ứng nhà kính mạnh.
+Hexafloroaluminat kali, còn gọi là cryôlit, được sử dụng trong điện phân nhôm.
+Florua natri được sử dụng như một loại thuốc trừ sâu, đặc biệt để chống gián.
+Một số các florua khác thông thường được thêm vào thuốc đánh răng và (đôi khi gây tranh cãi) vào hệ thống cung cấp nước sạch để ngăn các bệnh nha khoa (răng, miệng).
+Nó được sử dụng trong quá khứ để trợ giúp kim loại dễ nóng chảy hơn, vì thế mà có tên của nó.
+Một số các nhà nghiên cứu - bao gồm cả các nhà khoa học vũ trụ của Mỹ trong những năm đầu thập niên 1960 đã nghiên cứu khí flo đơn chất như là một nhiên liệu cho tên lửa đẩy vì lực đẩy cực kỳ cao của nó. Các thực nghiệm đã thất bại vì flo rất khó để điều khiển và sử dụng. Các sản phẩm cháy của nó có độc tố và ăn mòn cực kỳ mạnh
+
+
+== Sản xuất ==
+Dùng phương pháp điện phân hỗn hợp KF + 2HF (nóng chảy ở 70 °C)
+Bình điện phân có cực âm làm bằng thép và cực dương bằng than chì (graphit).
+
+
+== Hợp chất ==
+Flo thông thường có thể thay thế hiđrô khi nó có trong các hợp chất hữu cơ. Thông qua cơ chế này, flo có thể có rất nhiều hợp chất. Các hợp chất flo với các khí trơ đã được tổng hợp bởi Howard Claassen, Henry Selig, John Malm lần đầu tiên năm 1962 - là tetraflorua xenon. Các florua của krypton và radon cũng đã được điều chế sau đó.
+Nguyên tố này được điều chế từ florit, cryôlit và florapatit.
+Xem thêm: Florocacbon
+
+
+== Cảnh báo ==
+Cả flo và HF cần phải được sử dụng với một yêu cầu rất nghiêm ngặt và phải tránh mọi sự tiếp xúc với da và mắt. Mọi thiết bị phải được thụ động hóa trước khi phơi nhiễm bởi flo.
+Cả flo đơn chất và các ion florua là những chất độc mạnh. Khi ở dạng đơn chất, flo là một khí có mùi hăng đặc trưng có thể dễ dàng phát hiện ở nồng độ rất thấp (khoảng 20 nL/L). Nồng độ cho phép tối đa của sự phơi nhiễm hàng ngày (8 giờ làm việc) là 1 µL/L (một phần triệu theo thể tích), thấp hơn cả của xyanua hiđrô dm tuấn châu an tưởng
+
+
+== Tham chiếu ==
+Los Alamos National Laboratory – Fluorine
+
+
+== Liên kết ngoài ==
+WebElements.com – Fluorine
+EnvironmentalChemistry.com – Fluorine
+It's Elemental – Fluorine
+Picture of liquid fluorine – chemie-master.de
+Chemsoc.org
+Periodic Table of Elements

@@ -1,0 +1,45 @@
+Neon là nguyên tố hóa học trong bảng tuần hoàn nguyên tố có ký hiệu Ne và số nguyên tử bằng 10, nguyên tử khối bằng 20. Là một khí hiếm không màu, gần như trơ, neon tạo ra ánh sáng màu đỏ khi sử dụng trong các ống phóng điện chân không và đèn neon, nó có trong không khí với một lượng rất nhỏ.
+
+
+== Thuộc tính ==
+Neon là khí hiếm nhẹ thứ hai sau heli, tạo ra ánh sáng da cam ánh đỏ trong ống phóng điện chân không và có khả năng làm lạnh gấp 40 lần heli lỏng và 3 lần so với hiđrô lỏng (trên cùng một đơn vị thể tích). Trong phần lớn các ứng dụng nó là chất làm lạnh rẻ tiền hơn so với heli. Trong số mọi khí hiếm, neon có cường độ xả điện tích mạnh nhất ở các hiệu điện thế và cường độ dòng điện bình thường.
+
+
+== Lịch sử ==
+Neon (tiếng Hy Lạp: neos, có nghĩa là "mới") được phát hiện năm 1898 bởi William Ramsay và Morris Travers.
+
+
+== Ứng dụng ==
+
+Ánh sáng màu da cam ánh đỏ mà neon phát ra trong các đèn neon được sử dụng rộng rãi trong các biển quảng cáo. Từ "neon" cũng được sử dụng chung để chỉ các loại ánh sáng quảng cáo trong khi thực tế rất nhiều khí khác cũng được sử dụng để tạo ra các loại màu sắc khác. Các ứng dụng khác có:
+Đèn chỉ thị điện thế cao.
+Thu lôi.
+Ống đo bước sóng.
+Ống âm cực trong ti vi.
+Neon và heli được sử dụng để tạo ra các loại laser khí.
+Neon lỏng được sử dụng trong công nghiệp như một chất làm lạnh nhiệt độ cực thấp có tính kinh tế.
+
+
+== Sự phổ biến ==
+Neon thông thường được tìm thấy ở dạng khí với các phân tử chỉ có một nguyên tử. Neon là khí hiếm tìm thấy trong khí quyển Trái Đất với tỷ lệ 1/65.000, được sản xuất từ không khí siêu lạnh được chưng cất từng phần từ không khí lỏng.
+
+
+== Hợp chất ==
+Mặc dù neon trong các mục đích thông dụng là một nguyên tố trơ, nhưng nó có thể tạo ra hợp chất kỳ dị với flo trong phòng thí nghiệm. Người ta vẫn không chắc chắn là có các hợp chất của neon trong tự nhiên hay không nhưng một số chứng cứ cho thấy nó có thể là đúng. Các ion, như Ne+, (NeAr)+, (NeH)+ và (HeNe)+, cũng đã được quan sát từ các nghiên cứu quang phổ và khối lượng phổ. Ngoài ra, neon còn tạo ra hiđrat không ổn định.
+
+
+== Đồng vị ==
+Neon có ba đồng vị ổn định: 20Ne (90,48%), 21Ne (0,27%) và Ne22 (9,25%).21Ne và 22Ne có nguồn gốc phóng xạ hạt nhân và các biến đổi của chúng được hiểu rất rõ. Ngược lại, Ne20 không được coi là có nguồn gốc phóng xạ hạt nhân và nguồn gốc biến đổi của nó trên Trái Đất là một điều gây tranh cãi nóng bỏng. Phản ứng hạt nhân cơ bản để sinh ra các đồng vị neon là bức xạ nơtron, phân rã alpha của 24Mg và 25Mg, để tạo ra 21Ne và 22Ne một cách tương ứng. Các hạt alpha thu được từ chuỗi phân rã dây chuyền của urani, trong khi các nơtron được sản xuất chủ yếu bởi phản ứng phụ từ các hạt alpha. Kết quả cuối cùng sinh ra có xu hướng về phía các tỷ lệ 20Ne/22Ne thấp hơn và 21Ne/22Ne cao hơn được quan sát trong các loại đá giàu urani, chẳng hạn như granit. Phân tích đồng vị của các loại đá phơi nhiễm ra ngoài khí quyển đã chỉ ra rằng 21Ne có nguồn gốc vũ trụ. Đồng vị này được sinh ra bởi các phản ứng va đập trên Mg, Na, Si và Al. Bằng cách phân tích cả ba đồng vị, thành phần nguồn gốc vũ trụ có thể được tách khỏi neon nguồn gốc macma và neon nguồn gốc phản ứng hạt nhân. Điều này cho thấy neon sẽ là công cụ có ích trong việc xác định niên đại phơi nhiễm vũ trụ của các đá bề mặt và các thiên thạch.
+Tương tự như xenon, thành phần neon được quan sát trong các mẫu khí núi lửa là giàu 20Ne, cũng như 21Ne có nguồn gốc phản ứng hạt nhân so với thành phần của 22Ne. Thành phần các đồng vị neon của các mẫu lấy từ lớp phủ của Trái Đất này đại diện cho các nguồn phi-khí quyển của neon. Các thành phần giàu 20Ne được cho là thành phần nguyên thủy của khí hiếm này trên Trái Đất, có thể có nguồn gốc từ neon mặt trời. Sự phổ biến của 20Ne cũng tìm thấy trong kim cương, được coi là nguồn neon mặt trời trên Trái Đất.
+
+
+== Tham khảo ==
+
+Phòng thí nghiệm quốc gia Los Alamos, Hoa Kỳ – Neon
+
+
+== Liên kết ngoài ==
+WebElements.com – Neon
+EnvironmentalChemistry.com – Neon
+Đây là nguyên tố – Neon
+"Hong Kong Neonsigns" website

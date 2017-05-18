@@ -1,0 +1,45 @@
+Radio, ra-đi-ô, ra-dô hay vô tuyến truyền thanh là thiết bị kỹ thuật ứng dụng sự chuyển giao thông tin không dây dùng cách biến điệu sóng điện từ có tần số thấp hơn tần số của ánh sáng, đó là sóng radio.
+Sóng dùng trong radio có tần số trong khoảng từ 3Hz (dải tần ELF) đến 300 GHz (dải tần EHF). Tuy nhiên, từ dải tần SHF đến EHF, tức là từ tần số 3GHZ đến 300 GHz, bức xạ điện từ này thường gọi là sóng vi ba.
+Từ radio còn được dùng để chỉ máy thu thanh - một thiết bị điện tử dùng để nhận về các sóng âm đã được biến điệu qua ăng ten để khuếch đại, phục hồi lại dạng âm thanh ban đầu, và cho phát ra ở loa.
+
+
+== Lịch sử và phát minh ==
+
+Xác định nguồn gốc của radio, trong thời kì được gọi là liên lạc không dây, vẫn còn đang tranh cãi. Cuộc tranh luận về người phát minh ra radio có thể được chia ra theo các giải thích sau:
+Ai là người phát minh ra "sự truyền dữ liệu không dây dựa trên tần phổ" (spark-gap radio)?
+Nikola Tesla, Guglielmo Marconi và Alexander Popov.
+
+Ai là người phát minh radio dựa trên sự thay đổi biên độ (AM), vì thế có trên 1 đài có thể truyền sóng (khác với spark-gap radio, chỉ có một máy truyền phủ toàn bộ tần sóng)?
+Reginald Fessenden [1] và Lee de Forest.
+
+Ai là người phát minh radio dựa trên sự biến thiên tần số (FM), sóng radio có thể tránh sự tĩnh điện, bị nhiễu từ các thiết bị điện và môi trường?
+Edwin H. Armstrong và Lee de Forest.
+
+Các radio ban đầu sử dụng toàn bộ năng lượng của máy truyền thông qua các microphone bằng carbon. Trong khi một số radio ban đầu sử dụng một số sự phóng đại bằng dòng điện hay pin, suốt từ giữa thập niên 1920 loại đầu thu phổ biến nhất là các máy thu radio tinh thể. Trong thập niên 1920, ống phóng đại chân không làm một bước tiến mới trong cả đầu thu và đầu phát.
+
+
+== Khám phá và phát triển ==
+Lý thuyết cơ bản sự truyền sóng điện từ được trình bày đầu tiên năm 1873 bởi James Clerk Maxwell trong giấy chứng nhận của ông cho Hội Khoa học Hoàng Gia Anh thuyết động học về điện từ trường, là thành quả từ năm 1861 đến 1865. Năm 1878 David E. Hughes là người đầu tiên truyền và nhận sóng radio khi ông nhận thấy cân cảm ứng tạo ra âm thanh trong đầu thu của diện thoại tự chế của ông. Ông trình bày khám phá của mình trước Hội Khoa học Hoàng gia năm 1880 nhưng chỉ được xem là sự cảm ứng đơn thuần. Chính Heinrich Rudolf Hertz, giữa năm 1886 và 1888, là người đưa ra thuyết Maxwell thông qua thực nghiệm, chứng minh rằng bức xạ radio có tất cả tính chất của sóng (giờ đây được gọi là sóng Hert), và khám phá rằng công thức điện từ có thể định nghĩa lại là công thức chênh lệch bán phần gọi là công thức sóng.
+William Henry Ward đưa ra bằng sáng chế Mỹ 126356 vào ngày 30 tháng 8 năm 1872. Mahlon Loomis đưa ra bằng sáng chế Mỹ 129971 vào ngày 30 tháng 7 năm 1872. Landell de Moura, một nhà truyền giáo và khoa học Brasil, tiến hành thí nghiệm sau năm 1893 (nhưng trước 1894). Ông đã không công bố thành tựu mãi cho đến khi 1900. Tuyên bố cho rằng Nathan Stubblefield phát minh ra radio trước cả Tesla lẫn Marconi, nhưng các dụng cụ của ông cho thấy chỉ làm việc với sự truyền cảm ứng hơn là truyền sóng radio.
+
+
+== Các công ty "không dây" và ống chân không ==
+Marconi mở nhà máy không dây đầu tiên trên thế giới ở phố Hall, Chelmsford, Anh năm 1898, gồm khoảng 50 nhân viên. Vào năm 1900, Tesla mở tháp dịch vụ quảng cáo và tiện nghi Wardenclyffe. Vào năm 1903, tháp gần như hoàn thành. Nhiều thuyết tồn tại bằng cách nào mà Tesla ý định hoàn thành mục đích của hệ thống không dây (cho là hê thống 200 kW). Telsa tuyên bố rằng Wardenclyffe, là một phần của hệ thống truyền tin thế giới, sẽ cho phép sự thu phát thông tin đa hệ an toàn, định vị toàn vũ trụ, sự đồng bộ hóa thời gian, và hệ thống định vị toàn cầu.
+Phát minh lớn tiếp theo là ống dò chân không, phát minh bởi một đội kĩ sư Westinghouse. Vào đêm Giáng sinh, năm 1906, Reginald Fessenden (sử dụng thuyết heterodin) truyền sóng radio âm thanh đầu tiên trong lịch sử từ Brant Rock, Massachusetts Hoa Kỳ. Thuyền trên biển nhận được sóng phát, trong đó cả Fessenfen chơi bản "O Holy Night" trên đàn violin và đọc một đoạn trong Kinh thánh. Tin tức radio đầu tiên trên thế giới được phát vào ngày 31 tháng 8 năm 1920 bởi đài 8MK ở Detroit, Michigan, Hoa Kỳ và đài phát sóng giải trí đầu tiên bắt đầu năm 1922 từ trung tâm nghiên cứu Marconi ở Writtle gần Chelmsford, Anh.
+
+
+== Radar ==
+Radar phát hiện vật ở một khoảng cách bằng sự phản hồi các sóng radio. Khoảng thời gian của sự phản hồi để xác định khoảng cách. Phương hướng của tia xác định hướng của sự phản hồi. Sự phân cực và tần số của sóng phản hồi có thể cho biết bề mặt của vật.
+Radar định vị quét một vùng không gian rộng từ 2 đến 4 lần trong 1 phút. Dùng sóng ngắn phản hồi từ đất hay đá. Radar sử dụng phổ biến trên tàu thương mại hay máy bay thương mại đường dài.
+Radar dùng cho mục đích thông thường dùng tần số radar định vị, nhưng không phải các tia điều biến và phân cực để các máy thu để xác định bề mặt của vật phản hồi. Radar thông thường tốt nhất có thể định dạng mưa trong cơn bão, cũng như mặt đất hay các phương tiện di chuyển. Một số có thể để lên cùng dữ liệu âm thanh và dữ liệu bản đồ từ định vị GPS.
+Radar tìm kiếm quét một vùng rộng lớn với xung tia radio ngắn. Chúng thường quét một vùng không gian từ 2 đến 4 lần 1 phút. Thỉnh thoảng radar dùng hiệu ứng Doppler để tách phương tiện vận chuyển với môi trường.
+Radar dò tìm mục tiêu sử dụng cùng nguyên lý như radar tìm kiếm nhưng quét vùng không gian nhỏ hơn nhiều, thường là vài lần 1 giây hay hơn nữa.
+Radar thời tiết tương tự radar dò tìm, nhưng sử dụng tia radio với sự phân cực tròn và có bước sóng phản hồi từ các giọt nước. Vài radar sử dụng Doppler để đo tốc độ gió.
+
+
+== Xem thêm ==
+Đài radio
+
+
+== Liên kết ngoài ==
+"It's Radi-O!

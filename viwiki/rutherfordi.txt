@@ -1,0 +1,28 @@
+Rutherfordi (phát âm như "rơ-tơ-phót-đi") là nguyên tố hóa học có ký hiệu Rf và số nguyên tử 104. Trong bảng tuần hoàn, nó là nguyên tố thuộc lớp p và nguyên tố đầu tiên của nhóm các nguyên tố chuyển tiếp actini. Nó thuộc chu kỳ 7 và cũng thuộc nhóm nguyên tố 4. Các thí nghiệm hóa học đã xác định rằng rutherfordi có ứng xử giống như hafni trong nhóm 4. Rutherfordi là nguyên tố tổng hợp có tính phóng xạ, đồng vị ổn định nhất của nó là 267Rf với chu kỳ bán rã khoảng 1,3 giờ.
+Một lượng nhỏ rutherfordi đã được tạo ra bằng cách bắn phá plutoni-242 bằng neon-22 gia tốc hoặc californi-249 bằng các ion cacbon-12 trong thập niên 1960. Phát hiện đầu tiên và sau đó đã gây tranh cãi về việc đặt tên nguyên tố này giữa các nhà khoa học Mỹ và Nga, và quyết định cuối cùng được đưa ra năm 1997 với tên gọi rutherfordium theo tên nhà vật lý New Zealand Ernest Rutherford. Các kỹ thuật thí nghiệm cải tiến cho phép xác định các tính chất hóa học của rutherfordi, các tính chất này rất khớp với các nguyên tố nhóm 4 khác. Một số tính toán chỉ ra rằng nguyên tố này có thể thể hiện các tính chất khác nhau đáng kể do các hiệu ứng tương đối.
+
+
+== Lịch sử ==
+
+
+=== Phát hiện ===
+
+Rutherfordi đã được báo cáo là phát hiện lần đầu tiên vào năm 1964 tại Liên Viện Nghiên cứu Hạt nhân ở Dubna (lức đó ở Liên Xô). Các nhà nghiên cứu bắn phá pluto-242 bằng chùm ion neon-22 và tách các sản phẩm phản ứng bằng phương pháp sắc ký sau khi chuyển đổi muối clorua bởi tương tác với  ZrCl4. Nhóm nghiên cứu đã xác định hoạt động phân hạch tự phát chứa trong biến động clorua. Sản phẩm thu được nhiều hạt nhân có tính chất hoàn toàn khác với những hạt nhân trước đây, tính toán sau đó chỉ ra rằng sản phẩm là có khả năng nhất Rutherfordi-259 (ký hiệu tiêu chuẩn là 259-Rf):
+24294Pu + 2210Ne → 264-x104Rf → 264-x104RfCl4.
+Năm 1969, các nhà nghiên cứu tại Đại học California, Berkeley kết luận đã tổng hợp nguyên tố bằng cách bắn phá californium-249 bằng chùm 13 carbon-ion và đo sự phân rã alpha của 257Rf, thời gian bán hủy 3-4 giây, sau đó phân hủy thành Nobeli-253 với chu kì là 185 giây, phát ra 1 lượng nhỏ hạt alpha:
+126C + 24998Cf → 257104Rf + 4 1n.
+Nước Mỹ đã tổng hợp và xác nhận Rutherfordi vào năm 1973.
+
+
+=== Đặt tên ===
+Các nhà khoa học Nga đã đề xuất tên kurchatovi và các nhà khoa học Mỹ lại đề xuất tên rutherfordi cho nguyên tố mới..
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+WebElements.com - Rutherfordium

@@ -1,0 +1,12 @@
+Áp suất hơi hay áp suất hơi cân bằng được định nghịa là áp suất gây ra bởi hơi trong điều kiện cân bằng nhiệt động với các pha ngưng tụ (rắn hay lỏng) ở một nhiệt độ cho trước trong một hệ kín. Áp suất hơi cân bằng là một chỉ số của tốc độ bốc hơi của chất lỏng. Nó liên quan đến khuynh hước các hạt thoát ra từ chất lỏng (hay chất rắn). Một chất có áp suất hơi cao ở nhiệt độ bình thường thường được xem là chất dễ bay hơi. Áp suất được thể hiện qua sự hiện diện của hơi bên bề mặt chất lỏng được gọi là áp suất hơi. Khi tăng nhiệt độ, động năng của các phân tử tăng lên, vì thế có nhiều phân tử chuyển thành pha hơi, tiếp theo đó làm tăng áp suất hơi.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Fluid Characteristics Chart
+Hyperphysics
+MSDS Vapor Pressure
+Online vapor pressure calculation tool (Requires Registration)
+Prediction of Vapor Pressures of Pure Liquid Organic Compounds

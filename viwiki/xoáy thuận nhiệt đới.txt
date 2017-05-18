@@ -1,0 +1,175 @@
+Xoáy thuận nhiệt đới là các hệ thống bão (storm system) quay nhanh đặc trưng bởi một trung tâm có áp suất thấp, gió mạnh và cấu trúc mây dông xoắn ốc tạo ra mưa lớn. Phụ thuộc vào vị trí và cường độ, xoáy thuận nhiệt đới được đề cập đến bằng các tên gọi khác nhau như hurricane hay typhoon (tạm dịch: bão cuồng phong), bão nhiệt đới (tropical storm), bão xoáy (cyclonic storm), áp thấp nhiệt đới (tropical depression), hay đơn giản là xoáy thuận (cyclone).
+Xoáy thuận nhiệt đới thường hình thành trên đại dương hay những vùng biển lớn có nhiệt độ nước tương đối ấm. Chúng thu thập năng lượng thông qua sự bay hơi của nước từ bề mặt đại dương, nguồn năng lượng này khác so với xoáy thuận ngoại nhiệt đới, những hệ thống lấy nhiên liệu chủ yếu từ sự tương phản nhiệt độ theo chiều ngang (horizontal temperature contrasts). Những cơn gió xoáy mạnh của xoáy thuận nhiệt đới là kết quả của sự bảo toàn momen động lượng truyền đạt bởi sự tự quay của Trái Đất khi những dòng khí thổi vào bên trong hướng tới trục quay. Do vậy, chúng hiếm khi hình thành trong phạm vi từ vĩ độ 5°B đến 5°N hai bên xích đạo. Xoáy thuận nhiệt đới thường có đường kính trong khoảng từ 100 đến 4000 km.
+Nhiệt đới đề cập đến xuất xứ địa lý của xoáy thuận nhiệt đới, khi mà chúng hầu như chỉ hình thành trên những vùng biển nhiệt đới. Xoáy thuận đề cấp đến tính chất gió xoáy tự nhiên của chúng, với gió thổi ngược chiều kim đồng hồ ở Bắc bán cầu và thuận chiều kim đồng hồ ở Nam bán cầu. Sự đối nghịch trong hoàn lưu này là do điểm khác biệt trong hiệu ứng Coriolis về hướng gió giữa hai bán cầu.
+Bên cạnh gió mạnh và mưa, xoáy thuận nhiệt đới còn có khả năng tạo ra lốc xoáy, những đợt sóng lớn, và nước biển dâng gây thiệt hại. Chúng thường suy yếu rất nhanh trên đất liền nơi mà chúng bị chia cắt khỏi nguồn cung cấp năng lượng chủ yếu. Vì lý do đó, những vùng ven biển đặc biệt dễ bị tổn thương do xoáy thuận nhiệt đới đổ bộ hơn nhiều so với những vùng nội địa, sâu trong đất liền. Tuy nhiên, mưa lớn cũng có thể gây lũ lụt nghiêm trọng trong đất liền, và nước biển dâng có thể tạo ra lũ lụt mở rộng sâu vào bên trong tới 40 km từ đường bờ biển. Mặc dù những tác động của xoáy thuận nhiệt đới đến vùng đông dân cư thường là nghiêm trọng, nhưng chúng cũng có thể làm giảm tình trạng khô hạn. Xoáy thuận nhiệt đới nhiều khi còn mang năng lượng nhiệt ra khỏi vùng nhiệt đới đến những vĩ độ ôn đới, điều này có thể đóng một vai trò quan trọng điều chỉnh khí hậu trong khu vực và toàn cầu.
+
+
+== Cấu trúc vật lý ==
+
+Xoáy thuận nhiệt đới là một vùng áp suất tương đối thấp trên tầng đối lưu, với sự xáo trộn áp suất lớn nhất diễn ra tại vị trí có độ cao thấp gần bề mặt. Trên Trái Đất, mức áp suất ghi nhận được tại trung tâm của xoáy thuận nhiệt đới là một trong những mức thấp nhất từng quan trắc được tại mực nước biển. Môi trường gần tâm xoáy thuận nhiệt đới là ấm hơn xung quanh tại mọi độ cao, do đó chúng có đặc tính như một hệ thống "lõi ấm".
+
+
+=== Trường gió ===
+Trường gió gần bề mặt của xoáy thuận nhiệt đới đặc trưng bởi dòng không khí quay nhanh quanh tâm hoàn lưu đồng thời tỏa tròn vào bên trong. Tuy nhiên, tại rìa phía ngoài của cơn bão, không khí gần như yên tĩnh, do sự tự quay của Trái Đất, không khí có momen động lượng tuyệt đối khác 0. Khi không khí thổi vào trong, chúng bắt đầu chuyển động xoáy (ngược chiều kim đồng hồ ở Bắc bán cầu, và theo chiều kim đồng hồ ở Nam bán cầu) để bảo toàn momen động lượng. Đến một khoảng bán kính bên trong, dòng không khí bắt đầu thăng lên đến đỉnh tầng đối lưu. Bán kính này thường trùng khớp với bán kính trong của thành mắt bão, là nơi có gió gần bề mặt mạnh nhất của cơn bão, do đó, nó được biết đến như là bán kính gió tối đa. Khi ở trên cao, dòng khí thổi ra khỏi tâm bão, tạo ra một màn mây ti.
+Quá trình đã đề cập trước đó dẫn đến kết quả là trường gió có cấu trúc gần như đối xứng trục: vận tốc gió là thấp ở tâm, tăng lên nhanh chóng khi di chuyển ra phía ngoài đến vùng bán kính gió tối đa, và sau đó ngày một giảm dần khi đi ra vùng có bán kính lớn hơn. Tuy nhiên, trường gió thường thể hiện sự biến thiên theo không gian và thời gian, như là có thể tăng giảm kích thước phụ thuộc vào các yếu tố môi trường xung quanh và bản thân cơn bão. Theo chiều thẳng đứng, gió mạnh nhất là ở gần bề mặt và phân rã tại độ cao trong phạm vi tầng đối lưu.
+
+
+=== Mắt và trung tâm ===
+
+Tại vùng trung tâm của một xoáy thuận nhiệt đới trưởng thành, không khí chìm hơn là thăng lên. Với một cơn bão đủ mạnh, không khí có thể chìm trong một lớp đủ sâu để ngăn chặn sự hình thành mây, bằng cách đó, mắt bão sắc nét được tạo ra. Thời tiết bên trong mắt thường yên bình và không có mây, mặc dù biển có thể động cực kỳ dữ dội. Mắt thường có dạng tròn, và đường kính điển hình là vào khoảng 30 – 65 km, mặc dù đã từng quan sát được những con mắt nhỏ bề rộng chỉ 3 km hay là lớn đến 370 km.
+Vùng mây bao quanh rìa của mắt được gọi là thành mắt bão. Thành mắt bão thường mở rộng ra phía ngoài cùng với độ cao, giống như một sân vận động bóng đá; hiện tượng này đôi khi được đề cập đến như là hiệu ứng sân vận động. Thành mắt bão cũng là nơi tìm thấy những cơn gió mạnh nhất, không khí thăng lên với tốc độ nhanh nhất, mây đạt đến độ cao lớn nhất, và sự ngưng tụ - hay lượng ẩm là nhiều nhất. Tổn thất do gió nặng nề nhất xảy ra là khi thành mắt bão của một xoáy thuận nhiệt đới di chuyển qua phía trên đất liền.
+Trong những cơn bão yếu hơn, mắt bão có thể bị che khuất bởi một khối mây dày đặc ở trung tâm (central dense overcast - CDO), đó là màn mây ti trên tầng cao kết hợp với vùng mây dông mạnh tập trung gần tâm của xoáy thuận nhiệt đới.
+Thành mắt bão có thể biến đổi theo thời gian trong sự hình thành của chu trình thay thế thành mắt bão, hiện tượng này là một phần của những xoáy thuận nhiệt đới cường độ mạnh. Những dải mây mưa phía ngoài có thể tổ chức thành hình dạng tròn như một "chiếc nhẫn" mây dông di chuyển chậm vào phía trong, và chúng được tin rằng đã lấy đi lượng ẩm và momen động lượng của thành mắt bão ban đầu. Khi thành mắt bão đầu tiên suy yếu, xoáy thuận nhiệt đới cũng sẽ suy yếu tạm thời. Cuối cùng thành mắt bão phía ngoài sẽ thay thế cho thành mắt bão trước tại thời điểm cuối của chu trình, và từ đó cơn bão có thể tăng cường trở lại, có thể đạt đến hoặc thậm chí vượt qua cường độ tối đa lúc trước phụ thuộc chủ yếu vào yếu tố điều kiện môi trường.
+
+
+=== Cường độ ===
+"Cường độ" bão được định nghĩa là sức gió, hay là vận tốc gió tối đa trong cơn bão. Vận tốc này được lấy trong khoảng thời gian 1 phút hoặc 10 phút tại độ cao tham chiếu tiêu chuẩn là 10 m. Sự lựa chọn một khoảng thời gian trung bình, cũng như cách thức quy ước tên gọi theo từng cấp độ của bão, là khác nhau giữa các trung tâm dự báo và khu vực đại dương - nơi xoáy thuận nhiệt đới hình thành.
+Nếu có cơ hội, xoáy thuận nhiệt đới có thể trải qua một trạng thái khí tượng được biết đến như là một sự tăng cường độ nhanh chóng (rapid intensification), hay một giai đoạn mà trong đó vận tốc gió tối đa tăng lên nhanh chóng trong một quãng thời gian ngắn. Trung tâm Bão Quốc gia Hoa Kỳ định nghĩa sự tăng cường độ nhanh chóng là khi vận tốc gió duy trì liên tục trong 1 phút tối đa của một xoáy thuận nhiệt đới tăng lên ít nhất 30 knot (35 dặm/giờ, 55 km/giờ) trong khoảng thời gian 24 tiếng. Để cho hiện tượng này có thể xảy ra cần phải có một số điều kiện. Nhiệt độ nước biển phải cực kỳ ấm (gần bằng hoặc trên 30 °C, 86 °F), và nước ở nhiệt độ này phải đủ sâu để những con sóng không làm nước lạnh phía dưới trồi lên trên bề mặt. Độ đứt gió (wind shear) phải thấp; khi mà độ đứt gió cao, sự đối lưu và hoàn lưu của xoáy thuận sẽ bị gián đoạn. Thông thường, phải có mặt một xoáy nghịch (antycyclone) trên tầng đối lưu cao ở trên cơn bão cũng như để cho áp suất cực thấp trên bề mặt hình thành, không khí phải thăng lên rất nhanh trong thành mắt bão của cơn bão, và một xoáy nghịch trên tầng cao sẽ giúp điều chỉnh dòng khí này thoát ra một cách hiệu quả.
+
+
+=== Kích thước ===
+Có nhiều chuẩn đo phổ biến để xác định kích cỡ của xoáy thuận nhiệt đới. Trong đó phổ biển nhất là sử dụng bán kính gió tối đa, bán kính gió 34 knot (tức là vùng bán kính có gió bão, vận tốc gió lớn hơn 34 knot), bán kính đường đẳng áp kín phía ngoài xa nhất (ROCI), và bán kính gió tan biến. Một chuẩn đo bổ sung là bán kính mà tại đó trường xoáy tương đối của xoáy thuận giảm xuống đến 1×10−5 s−1.
+Trên Trái Đất, kích cỡ của xoáy thuận nhiệt đới trải dài trên một khoảng rộng, từ 100 đến 2000 km khi đo bằng bán kính gió tan biến. Xoáy thuận nhiệt đới trên Tây Bắc Thái Bình Dương là lớn nhất và trên Đông Bắc Thái Bình Dương là nhỏ nhất. Nếu bán kính của đường đẳng áp kín phía ngoài xa nhất nhỏ hơn 2 vĩ độ (222 km), ta có một xoáy thuận nhiệt đới "rất nhỏ". Bán kính từ 3 đến 6 vĩ độ (333 – 670 km) được xem là trung bình. Xoáy thuận nhiệt đới có kích thước "rất lớn" khi mà ROCI lớn hơn 8 vĩ độ (888 km). Những quan trắc chỉ ra kích cỡ chỉ nhỏ nếu liên quan đến các biến như cường độ bão (vận tốc gió tối đa), bán kính gió tối đa, vĩ độ, và cường độ tiềm năng tối đa.
+Kích thước đóng một vai trò quan trọng trong sự điều chỉnh mức độ thiệt hại gây ra bởi một cơn bão. Nếu tất cả những yếu tố khác là như nhau, một cơn bão lớn hơn sẽ tác động đến một khu vực rộng lớn hơn trong một khoảng thời gian dài hơn. Bên cạnh đó, trường gió rộng gần bề mặt có thể tạo ra nước biển dâng cao hơn do sự kết hợp của chiều dài sóng lớn hơn, thời gian dài hơn và sự tăng cường thiết lập các cơn sóng. Ví dụ như cơn bão Sandy tấn công miền Đông nước Mỹ trong năm 2012 là một trong những cơn bão gây thiệt hại lớn nhất trong lịch sử nước Mỹ do kích thước rất lớn của nó.
+Hoàn lưu phía trên của những cơn bão mạnh mở rộng trong phạm vi tầng đối lưu của khí quyển, tại khu vực vĩ độ thấp là 15.000 - 18.000 m.
+
+
+== Vật lý và năng lượng học ==
+
+Trường gió trong không gian ba chiều của một xoáy thuận nhiệt đới có thể được phân tách thành hai bộ phận: một hoàn lưu sơ cấp (hoàn lưu cơ bản) và một hoàn lưu thứ cấp. Hoàn lưu sơ cấp là phần chuyển động luân chuyển của dòng thổi; nó là hoàn toàn tròn. Hoàn lưu thứ cấp là phần chuyển động đảo ngược của dòng thổi (vào - lên - ra - xuống), nó có hướng tỏa tròn và theo chiều thẳng đứng. Hoàn lưu sơ cấp là nơi tồn tại gió mạnh nhất và chịu trách nhiệm về những tổn thất lớn nhất mà một cơn bão gây ra, trong khi hoàn lưu thứ cấp quản lý năng lượng học của cơn bão.
+
+
+=== Hoàn lưu thứ cấp: một động cơ nhiệt Carnot ===
+Nguồn năng lượng chủ yếu của một xoáy thuận nhiệt đới là lượng nước bốc hơi từ bề mặt đại dương, chúng ngưng tụ lại thành những đám mây và mưa khi không khí nóng ẩm bay lên cao và lạnh đi đến độ bão hòa. Năng lượng học của hệ thống có thể được lý tưởng hóa như một động cơ nhiệt Carnot khí quyển. Đầu tiên, dòng không khí thổi vào gần bề mặt thu thập năng lượng nhiệt chủ yếu thông qua sự bay hơi của nước tại nơi có nhiệt độ bề mặt đại dương ấm (trong quá trình bay hơi, nước biển lạnh đi và không khí ấm lên). Thứ hai, dòng khí ấm bay lên và lạnh dần đi trong phạm vi thành mắt bão trong khi tổng hàm lượng nhiệt được bảo tồn. Thứ ba, dòng khí thổi ra ngoài và mất nhiệt qua bức xạ nhiệt vào không gian tại nhiệt độ của tầng đối lưu lạnh. Cuối cùng, không khí chìm xuống và ấm lên tại rìa phía ngoài của cơn bão khi tổng hàm lượng nhiệt vẫn được bảo tồn. Giai đoạn một và ba là gần như đẳng nhiệt, trong khi giai đoạn hai và bốn là gần như đẳng entropy. Dòng thổi đảo ngược vào - lên - ra - xuống được biết đến như là hoàn lưu thứ cấp. Quan điểm Carnot cung cấp một giới hạn trên cho vận tốc gió tối đa mà một cơn bão có thể đạt được.
+Các nhà khoa học ước tính một xoáy thuận nhiệt đới tỏa ra năng lượng nhiệt từ 50 đến 200 exajoule (1018 J) một ngày, tương đương với khoảng 1 PW (1015 watt). Mức năng lượng tỏa ra này tương đương 70 lần mức tiêu thụ năng lượng của toàn bộ con người trên Trái Đất và 200 lần công suất phát điện trên toàn cầu, hay tương đương với việc một quả bom nguyên tử có đương lượng 10 megaton nổ mỗi 20 phút.
+
+
+=== Hoàn lưu sơ cấp: những cơn gió xoáy ===
+Dòng thổi xoáy sơ cấp trong một xoáy thuận nhiệt đới là kết quả từ sự bảo toàn momen động lượng bởi hoàn lưu thứ cấp. Momen động lượng tuyệt đối (trong khí tượng học) trên một hành tinh quay 
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+   được tính như sau:
+
+  
+    
+      
+        M
+        =
+        
+          
+            1
+            2
+          
+        
+        f
+        
+          r
+          
+            2
+          
+        
+        +
+        v
+        r
+      
+    
+    {\displaystyle M={\frac {1}{2}}fr^{2}+vr}
+  
+trong đó 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+   là tham số Coriolis, 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   là vận tốc gió phương vị, và 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   là bán kính đến trục quay. Vế đầu tiên bên phải là thành phần momen động lượng hành tinh chiếu lên trục thẳng đứng (trục quay). Vế thứ hai bên phải là momen động lượng tương đối của hoàn lưu đối với trục quay. Vì momen động lượng hành tinh biến mất tại xích đạo (nơi mà 
+  
+    
+      
+        f
+        =
+        0
+      
+    
+    {\displaystyle f=0}
+  ), nên xoáy thuận nhiệt đới hiếm khi hình thành trong phạm vi vĩ độ 5 gần xích đạo (từ 5°B đến 5°N).
+Khi những dòng khí thổi tỏa tròn vào bên trong ở mực thấp, chúng bắt đầu chuyển động xoáy để bảo toàn momen động lượng. Tương tự, khi mà dòng khí xoáy nhanh thổi tỏa tròn ra phía ngoài ở gần tầng đối lưu, vòng xoay của nó giảm dần và cuối cùng thay đổi dấu hiệu tại nơi có bán kính đủ lớn. Kết quả là một cấu trúc theo chiều dọc đặc trưng bởi một xoáy thuận mạnh tại mực thấp và một xoáy nghịch mạnh gần tầng đối lưu; theo sự cân bằng gió nhiệt, điều này phù hợp với một hệ thống có trung tâm ấm hơn môi trường xung quanh tại mọi độ cao ("lõi ấm"). Theo như cân bằng thủy tĩnh, lõi ấm chuyển đổi thành áp suất thấp hơn ở trung tâm tại mọi độ cao, với sự giảm áp suất tối đa xảy ra ở vị trí trên bề mặt.
+
+
+== Các khu vực lớn và trung tâm cảnh báo liên quan ==
+
+Có sáu Trung tâm Khí tượng Chuyên ngành Khu vực (RSMC) trên thế giới. Các tổ chức này được chỉ định bởi Tổ chức Khí tượng Thế giới và họ có trách nhiệm theo dõi, ban hành các bản tin, cảnh báo, và thông báo về các xoáy thuận nhiệt đới nằm trong khu vực họ chịu trách nhiệm. Bên cạnh đó, có sáu Trung tâm Cảnh báo Xoáy thuận nhiệt đới (TCWC) cung cấp các thông tin trong phạm vi các vùng nhỏ hơn. RSMC và TCWC không phải là những tổ chức duy nhất cung cấp thông tin công khai về xoáy thuận nhiệt đới. Trung tâm Cảnh báo Bão Liên hợp (JTWC) cũng ban hành những thông báo tại tất cả các khu vực xoáy thuận nhiệt đới trừ Bắc Đại Tây Dương nhằm phục vụ cho mục đích của Chính phủ Mỹ. Cục quản lý Thiên văn, Địa vật lý và Khí quyển Philippines (PAGASA) cũng ban hành những thông báo và đặt tên cho những xoáy thuận nhiệt đới tiến gần đến Philippines trên khu vực Tây Bắc Thái Bình Dương để bảo vệ mạng sống và tài sản cho công dân nước họ. Trung tâm Bão Canada (CHC) ban hành những thông báo về xoáy thuận nhiệt đới và tàn dư của chúng dành cho công dân Canada khi chúng tác động đến đất nước này.
+Vào ngày 26 tháng 3 năm 2004, Xoáy thuận Catarina đã trở thành xoáy thuận Nam Đại Tây Dương đầu tiên từng được ghi nhận và sau đó nó đã tấn công miền Nam Brazil với sức gió tương đương bão cấp 2 trong thang bão Saffir-Simpson. Khi mà xoáy thuận này hình thành ngoài phạm vi có thẩm quyền của các trung tâm cảnh báo khác, các nhà khí tượng học Brazil ban đầu đã xem nó như một xoáy thuận ngoại nhiệt đới, nhưng về sau đã phân loại nó là nhiệt đới.
+
+
+== Sự hình thành ==
+
+Trên Trái Đất, xoáy thuận nhiệt đới hoạt động mạnh nhất vào cuối mùa hè, thời điểm mà sự chênh lệch giữa nhiệt độ ở trên cao và nhiệt độ bề mặt nước biển là lớn nhất. Tuy nhiên, mỗi khu vực lại có một hình mẫu mùa bão riêng. Tính trên toàn cầu, tháng 5 là tháng xoáy thuận nhiệt đới ít hoạt động nhất, ngược lại tháng 9 là tháng hoạt động mạnh nhất. Tháng 11 là tháng duy nhất mà toàn bộ các khu vực xoáy thuận nhiệt đới cùng trong giai đoạn hoạt động chính thức.
+
+
+=== Thời gian ===
+Trên khu vực Bắc Đại Tây Dương, mùa bão phân biệt diễn ra từ ngày 1 tháng 6 đến 30 tháng 11, đỉnh điểm là vào cuối tháng 8 đầu tháng 9. Tính trung bình theo thống kê, ngày 10 tháng 9 là thời điểm đạt đỉnh của mùa bão Đại Tây Dương. Vùng Đông Bắc Thái Bình Dương có giai đoạn hoạt động mở rộng hơn, nhưng khung thời gian cũng tương tự như Đại Tây Dương. Khu vực Tây Bắc Thái Bình Dương chứng kiến xoáy thuận nhiệt đới hoạt động quanh năm, đỉnh điểm vào đầu tháng 9 và tối thiểu là tháng 2. Trên Bắc Ấn Độ Dương, bão thường xuất hiện từ tháng 4 đến tháng 12, đỉnh điểm là tháng 5 và tháng 11. Còn ở Nam Bán cầu, mùa bão thường chính thức bắt đầu từ ngày 1 tháng 11 cho đến hết tháng 4, đỉnh điểm là giữa tháng 2 đầu tháng 3; dù vậy xoáy thuận nhiệt đới có thể xuất hiện quanh năm và thời điểm bắt đầu cho một năm là ngày 1 tháng 7.
+
+
+== Cấu trúc chung ==
+Một cơn bão nhiệt đới trưởng thành bao gồm một hoàn lưu ngang gần đối xứng và một hoàn lưu đứng. Các hoàn lưu này đôi khi được gọi là hoàn lưu sơ cấp và hoàn lưu thứ cấp. Sự kết hợp của 2 hoàn lưu tạo thành một dạng chuyển động xoáy ốc. Không khí hội tụ theo hình xoắn ốc vào khu vực trung tâm của bão ở mực thấp, hầu hết dòng thổi vào bị giới hạn trong lớp biên mỏng có độ dày cỡ 500 m đến 1000 m.
+Mắt bão là khu vực trong tâm của bão, nơi không có mây hoặc ít mây, lặng gió, có dòng giáng yếu. Thông thường chỉ có những cơn bão mạnh trường thành mới hình thành mắt bão rõ nét.
+Hoàn lưu sơ cấp của xoáy thuận nhiệt đới mạnh nhất ở các mực thấp tại vùng mây thành mắt bão và giảm dần theo cả độ cao và bán kính. Trường nhiệt độ thể hiện một cấu trúc lõi nóng với nhiệt độ lớn nhất ở trong mắt bão do sự giải phóng ẩn nhiệt khi không khí nâng lên trong thành mây mắt bão.
+Dòng thổi ra của xoáy thuận nhiệt đới nằm ở nửa trên tầng bình lưu với hoàn lưu xoáy nghịch ở ngoài bán kính vài trăm km.
+
+
+== Cơ chế ==
+
+
+=== Sự hình thành ===
+Bão hình thành được phải hội đủ các điều kiện cần thiết như nhiệt độ của nước biển phải cao (tính từ mặt nước đến độ sâu hơn 50 mét ít nhất là trên 26.5 °C): Những nơi có bão biển thường ở trong vùng biển nhiệt đới ở cả hai bán cầu: Bán cầu Bắc và Bán cầu Nam, khí áp của khí quyển phải cực thấp để thu hút năng lượng từ các khu vực áp cao chung quanh và bão phải được duy trì nghĩa là không bị vật cản khi có lực ma sát (như khi đổ bộ vào đất liền). Do đó, bề mặt đại dương hoặc biển nhiệt đới, trong khoảng 10⁰ - 30⁰ vĩ tuyến Bắc và Nam, ở phía Tây các đại dương, nơi có lực Coriolis mạnh và có hiện tượng các dương lưu nóng duy trì nhiệt độ cao cho bão hình thành. Khu vực tam giác Bermuda (Tam Giác Quỷ) ở miền Tây Đại Tây Dương là một thí dụ điển hình, nơi có nhiều siêu bão cấp hành tinh.
+
+
+=== Sự tăng cường ===
+Năng lượng của bão được tăng cường vì nhiều nguyên nhân: Do các luồng không khí ẩm từ các khu áp cao xung quanh hút vào, hoặc do kết hợp với sóng Đông, nơi có các khu áp thấp nhiệt đới xâm nhập vào áp cao chí tuyến, hoặc mạnh lên khi đi vào vùng có dòng biển nóng... Thường thì năng lượng của bão biển giảm khi đi vào đất liền vì tốc độ của gió giảm đi do ma sát với đất liền.
+
+
+== Quỹ đạo ==
+Tâm bão nhiệt đới thường di chuyển theo quỹ đạo parabol, ở bắc bán cầu, vào giai đoạn mới hình thành, hầu hết các cơn bão đều di chuyển theo hướng tây, sau đó tiếp tục di chuyển theo hướng tây bắc và giai đoạn sau cùng, nếu không bị suy yếu, sẽ di chuyển theo hướng đông bắc. Ở nam bán cầu, ban đầu bão di chuyển về hướng tây, sau chuyển về tây nam, rồi đến hướng đông nam. Nhưng cũng có những cơn bão di chuyển theo quỹ đạo rất phức tạp, nói chung quỹ đạo của bão phụ thuộc vào sự phân bố khí áp bề mặt trong khu vực lân cận.
+
+
+== Dự báo ==
+
+
+== Tác động ==
+
+
+== Các xoáy thuận nhiệt đới tiêu biểu ==
+Bão Bhola năm 1970 là cơn bão có sức hủy diệt gây ra hậu quả nặng nề nhất trong lịch sử. Bão đã đổ bộ vào vùng đồng bằng sông Hằng ở Ấn Độ và Bangladesh, làm ít nhất 300 nghìn người đã chết, 100 nghìn người mất tích, và ảnh hưởng đến gần 1 triệu người. Ở Trung Quốc, bão Nina năm 1975 gây mưa lớn đã làm vỡ đập Bản Kiều và giết chết hơn 100 nghìn người. Siêu bão năm 1780 ở khu vực Bắc Đại Tây Dương đã giết chết khoảng 22.000 người ở Antilles Lesser.. Bão nhiệt đới Thelma vào tháng 11 năm 1991 đã giết chết hàng ngàn người Philippines. Cơn bão Katrina đổ bộ vào Hoa Kỳ làm 1.836 người chết, thiệt hại tài sản lên tới 81,2 tỉ USD (2008), với tổng thiệt hại hơn 100 tỉ USD (2005). Bão Mitch làm 10.000 người thiệt mạng ở Mỹ Latinh.
+Siêu bão dữ dội nhất trong lịch sử là siêu bão Tip ở Tây Bắc Thái Bình Dương năm 1979, với mức áp suất thấp kỉ lục là 870 hPa (652,5 mmHg) và tốc độ gió duy trì cực đại 165 hải lý trên giờ (85 m/s) (tức 310 km/h duy trì gió trong 1 phút).. Bão Keith ở Thái Bình Dương và cơn bão Camille và Allen ở Bắc Đại Tây Dương cũng có cùng sức gió với bão Tip. Siêu bão Nancy năm 1961 đã ghi nhận tốc độ gió kỉ lục 185 hải lý trên giờ (95 m/s) (tức 346 km/h duy trì gió trong 1 phút), nhưng nghiên cứu gần đây cho thấy tốc độ gió từ những năm 1940 đến những năm 1960 đã đo sức gió quá cao, không chính xác, do vậy bão Nancy có thể có sức gió thấp hơn. Bão Paka năm 1997 ở Guam được ghi nhận gió giật lên tới 205 hải lý (105 m/s) (tức 378 km/h).
+Siêu bão Tip còn giữ kỉ lục là cơn bão lớn nhất với sức gió trên 64 km/h trải rộng với đường kính 2170 km. Cơn bão nhỏ nhất được ghi nhận, cơn bão nhiệt đới Marco, hình thành trong tháng 10 năm 2008, ở vịnh Mexico với sức gió trên 64 km/h trải rộng với đường kính 37 km.
+Bão John là cơn bão nhiệt đới tồn tại lâu nhất và có đường đi dài nhất, kéo dài 31 ngày trong năm 1994 đi được 13280 km. Bão Rewa năm 1993-1994 có đường đi dài nhất ở Nam Bán Cầu, 8920 km.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Định nghĩa về bão biển nhiệt đới

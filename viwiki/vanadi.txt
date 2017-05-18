@@ -1,0 +1,39 @@
+Vanadi (tên La tinh: Vanadium) là một nguyên tố hóa học đặc biệt trong bảng tuần hoàn có ký hiệu V và số hiệu nguyên tử 23. Nó làm chất xúc tác cho nhiều phản ứng hóa học. Là một kim loại hiếm, mềm và dễ kéo thành sợi, vanađi là một thành phần được tìm thấy trong nhiều khoáng chất và được sử dụng để sản xuất một số hợp kim.
+
+
+== Lịch sử ==
+
+Vanadi được phát hiện năm 1801 bởi Andrés Manuel del Río, một nhà khoáng vật học Mexico sinh tại Tây Ban Nha. Del Río tách nguyên tố từ một mẫu quặng "chì đen" Mexico, sau đó được đặt tên là vanadinit. Ông phát hiện rằng các muối của nó có nhiều màu khác nhau, và sau đó ông đặt tên cho nguyên tố là panchromium (Greek: παγχρώμιο "tất cả màu sắc"). Sau đó, Del Río đổi tên thành erythronium (Greek: ερυθρός "màu đỏ") do hầu hết các muối của nó chuyển sang màu đỏ khi nung. Năm 1805, nhà hóa học Pháp Hippolyte Victor Collet-Descotils, được sự ủng hộ bởi người bạn của Río là Baron Alexander von Humboldt, đã tuyên bố không chính xác rằng nguyên tố mới do Río phát hiện chỉ là một mẫu crom không tinh khiết. Del Río đồng ý đề nghị của Collet-Descotils, và rút lại tuyên bố của mình.
+Năm 1831, nhà hóa học Thụy Điển, Nils Gabriel Sefström, phát hiện lại nguyên tố ở dạng ôxit mới, ông phát hiện ra nó khi xử lý với quặng sắt. Cuối năm đó, Friedrich Wöhler xác nhận rằng công trình trước đây của del Río. Sefström chọn tên bắt đầu bằng ký tự V, lúc này chưa đặt cho nguyên tố nào khác. Ông gọi nguyên tố đó là vanadium theo tên của Old Norse Vanadís, do nhiều hợp chất hóa học có màu sắc đẹp mà nó tạo ra. Năm 1831, nhà địa chất học George William Featherstonhaugh đề nghị rằng vanadium nên được đổi tên là "rionium" theo tên của del Río, nhưng đề nghị này không được ủng hộ.
+
+Việc cô lập kim loại vanadi gặp khó khăn. Năm 1831, Berzelius thông báo về việc sản xuất kim loại, như Henry Enfield Roscoe cho biết rằng Berzelius đã tạo ra được nhưng thực chất là một nitrua, vanadi nitrua (VN). Roscoe từ từ đã tạo ra kim loại năm 1867 bằng cách khử vanadi(II) clorua, VCl2, với hydro. Năm 1927, vanadi nguyên chất được tạo ra bằng cách khử vanadi pentoxit với canxi. Lượng vanadi dùng trong công nghiệp với quy mô lớn đầu tiên trong thép được tìm thấy trong khung của Ford Model T, lấy cảm hứng từ các xe đua của Pháp. Thép vanadi làm giảm trọng lượng và tăng độ bền kéo.
+
+
+== Đặc điểm ==
+Vanadi là một kim loại màu xám bạc mềm, dễ uốn. Nó có khả năng chống ăn mòn tốt, và bền đối với các chất kiềm và các axít sulfuric và axít clohiđric. Nó bị ôxy hóa trong không khí ở 933 K (660 °C, 1220 °F), mặc dù một lớp ôxít được tạo thành ở nhiệt độ phòng.
+
+
+=== Đồng vị ===
+
+Vanadi xuất hiện trong tự nhiên là hỗn hợp của một đồng vị bền 51V và một đồng vị phóng xạ 50V. Đồng vị phóng xạ có chu kỳ bán rã 1,5×1017 năm và chiềm 0,25%.51V có spin hạt nhân 7/2, có ích cho quang phổ học NMR. Có 24 đồng vị nhân tạo đã được miêu tả đặc điểm với số khối từ 40 đến 65. Đồng vị bền nhất trong số này là 49V, có chu kỳ bán rã 330 ngày, và 48V là 16,0 ngày. Tất cả các đồng vị phóng xạ còn lại có chu kỳ bán rã nhỏ hơn 1 giờ, và đa số trong đó có chu kỳ bán rã nhỏ hơn 10 giây. Có ít nhất 4 đồng vị có các trạng thái kích thích. Bắt electron là cơ chế phân rã chính đối với các đồng vi nhẹ hơn 51V, còn các đồng vị nặng hơn thì cơ chế chủ yếu là phân rã beta. Các phản ứng bắt electron sẽ tạo thành các đồng vị của nguyên tố 22 (titan), trong khi phân rã beta thì tạo thành các đồng vị của nguyên tố 24 (crom).
+
+
+=== Các hợp chất ===
+
+Đặc điểm hóa học của vanadi đáng chú ý là 4 trạng thái ôxy hóa. Các trạng thái ôxy hóa phổ biến nhất là +2 (tử đinh hương), +3 (lục), +4 (lam) và +5 (vàng). Các hợp chất vanadi(II) là các hất khử, và vanadi(V) là các chất ôxy hóa, trong khi các hợp chất vanadi(IV) thường tồn tại dạng các dẫn xuất vanadyl chứa VO2+ ở tâm.
+
+vanadat(V) ammoni (NH4VO3) có thể bị hoàn toàn với kẽm tạo ra các màu khác nhau của vanadi ở bốn trạng thái ôxy hóa phổ biến. Các trạng thai ôxy hóa thấp hơn ở dạng hợp chất như V(CO)6, [V(CO)6]− và các dẫn xuất bị thay thế.
+Pin khử vanadi kết hợp các trạng thái ôxy hóa này; sự chuyển đổi của các trạng thái ôxy hóa này được minh họa bởi sự khử của các dung dịch axit mạnh của hợp chất vanadi(V) với bột kẽm. Đặc điểm màu vàng ban đaa62u của ion vanadat, VO3−4, bị thay thế bằng màu xanh dương của [VO(H2O)5]2+, sau đó là màu lục của [V(H2O)6]3+ và sau cùng là màu tím của [V(H2O)6]2+.
+Hợp chất thương mại quan trọng nhất là vanadi pentôxít, được dùng làm chất xúc tác trong sản xuất axit sulfuric. Hợp chất này ôxy hóa sulfur điôxít (SO2) tạo thành trioxit (SO3). Trong phản ứng ôxy hóa khử này, lưu huỳnh bị ôxy hóa từ trạng thái +4 thành +6, và vanadi bị khử từ +5 xuống +3:
+V2O5 + 2 SO2 → V2O3 + 2 SO3
+Chất xúc tác được tạo thành bằng cách ôxy hóa vanadi trong không khí:
+V2O3 + O2 → V2O5
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+The periodic table of videos videos of the chemistry of the elements
+WebElements.com – Vanadium
+ATSDR – ToxFAQs: Vanadium

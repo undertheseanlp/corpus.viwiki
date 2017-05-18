@@ -1,0 +1,697 @@
+Trong toán học và nghệ thuật, hai đại lượng được gọi là có tỷ số vàng hay tỷ lệ vàng nếu tỷ số giữa tổng của các đại lượng đó với đại lượng lớn hơn bằng tỷ số giữa đại lượng lớn hơn với đại lượng nhỏ hơn. Tỷ lệ vàng thường được ký hiệu bằng ký tự 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   (phi) trong bảng chữ cái Hy Lạp nhằm tưởng nhớ đến Phidias, nhà điêu khắc đã xây dựng nên đền Parthenon.
+Tỷ lệ vàng được biểu diễn như sau:
+
+  
+    
+      
+        
+          
+            
+              a
+              +
+              b
+            
+            a
+          
+        
+        =
+        
+          
+            a
+            b
+          
+        
+        =
+        φ
+      
+    
+    {\displaystyle {\frac {a+b}{a}}={\frac {a}{b}}=\varphi }
+  
+Phương trình này có nghiệm đại số xác định là một số vô tỷ:
+
+  
+    
+      
+        φ
+        =
+        
+          
+            
+              1
+              +
+              
+                
+                  5
+                
+              
+            
+            2
+          
+        
+        ≈
+        1.61803
+        
+        39887
+        …
+        
+      
+    
+    {\displaystyle \varphi ={\frac {1+{\sqrt {5}}}{2}}\approx 1.61803\,39887\ldots \,}
+  
+Đến thời kỳ Phục Hưng, các nghệ sĩ và kiến trúc sư bắt đầu tính toán và xây dựng sao cho các tác phẩm của họ xấp xỉ tỷ số vàng, đặc biệt là trong hình chữ nhật vàng - tỷ số giữa cạnh dài và cạnh ngắn chính là tỷ số vàng. Các nhà toán học đã nghiên cứu tỷ số vàng vì tính độc đáo cũng như các đặc tính lý thú của nó.
+
+
+== Lịch sử ==
+
+
+=== Thời kì cổ đại ===
+Người ta chưa biết tỉ lệ vàng có từ bao giờ.Trước đây, người ta vẫn cho rằng một người La Mã là Vitruvius sống cách đây gần 2100 năm đã phát minh ra tỉ lệ vàng. Gần đây các nhà khảo cổ học tìm thấy các di bút viết về tỉ lệ vàng trong các kim tự tháp ở Ai Cập. Điều đó chứng tỏ tỉ lệ vàng xuất hiện rất sớm (cách đây khoảng hàng nghìn năm).
+Euclide, nhà toán học của mọi thời đại đã từng nói đến tỉ lệ vàng trong tác phẩm bất hủ của ông mang tên "Những nguyên tắc cơ bản". Theo Euclide, điểm I trên đoạn AB được gọi là điểm chia đoạn AB theo tỉ lệ vàng (còn gọi là điểm vàng) nếu thỏa mãn:
+
+  
+    
+      
+        
+          
+            
+              A
+              I
+            
+            
+              I
+              B
+            
+          
+        
+        =
+        
+          
+            
+              A
+              B
+            
+            
+              A
+              I
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\frac {AI}{IB}}={\frac {AB}{AI}}.}
+  
+Đặt:
+  
+    
+      
+        
+          
+            
+              A
+              I
+            
+            
+              I
+              B
+            
+          
+        
+        =
+        
+          
+            
+              A
+              B
+            
+            
+              A
+              I
+            
+          
+        
+         
+        =
+        x
+        .
+      
+    
+    {\displaystyle {\frac {AI}{IB}}={\frac {AB}{AI}}\ =x.}
+  . Số x đó được gọi là tỉ lệ vàng và điểm I đó là điểm vàng của đoạn AB.
+
+
+=== Thời kì trung đại ===
+Từ đó về sau như ta đã biết đã có khá nhiều phát hiện về sự tồn tại của Tỷ Lệ Vàng trong các hình kỹ hà tự nhiên như hình ngôi sao 5 cánh,hình đa giác 10 cạnh… trong chuỗi số nguyên Fibonacci.
+Luca Pacioli (1445-1517) xác định tỷ lệ vàng là "tỷ lệ thần thánh" trong tác phẩm Proportione Divina.
+
+
+=== Thời kì hiện đại ===
+Mark Barr (thế kỷ 20) sử dụng chữ cái Hy Lạp phi (φ) là ký hiệu của tỉ lệ vàng.
+
+
+== Tính toán ==
+Mở rộng ra, hai đại lượng a và b có tỷ số vàng φ nếu:
+
+  
+    
+      
+        
+          
+            
+              a
+              +
+              b
+            
+            a
+          
+        
+        =
+        
+          
+            a
+            b
+          
+        
+        =
+        φ
+        
+        .
+      
+    
+    {\displaystyle {\frac {a+b}{a}}={\frac {a}{b}}=\varphi \,.}
+  
+Từ phương trình trên suy ra:
+
+  
+    
+      
+        φ
+        ×
+        φ
+        =
+        
+          
+            
+              a
+              +
+              b
+            
+            a
+          
+        
+        ×
+        
+          
+            a
+            b
+          
+        
+        =
+        
+          
+            
+              (
+              a
+              +
+              b
+              )
+              a
+            
+            
+              a
+              b
+            
+          
+        
+        =
+        
+          
+            
+              a
+              +
+              b
+            
+            b
+          
+        
+        =
+        
+          
+            a
+            b
+          
+        
+        +
+        
+          
+            b
+            b
+          
+        
+        =
+        φ
+        +
+        1.
+      
+    
+    {\displaystyle \varphi \times \varphi ={\frac {a+b}{a}}\times {\frac {a}{b}}={\frac {(a+b)a}{ab}}={\frac {a+b}{b}}={\frac {a}{b}}+{\frac {b}{b}}=\varphi +1.}
+  
+
+  
+    
+      
+        φ
+        −
+        1
+        =
+        
+          
+            
+              a
+              +
+              b
+            
+            a
+          
+        
+        −
+        
+          
+            a
+            a
+          
+        
+        =
+        
+          
+            
+              b
+              +
+              a
+              −
+              a
+            
+            a
+          
+        
+        =
+        
+          
+            b
+            a
+          
+        
+        =
+        
+          
+            1
+            φ
+          
+        
+        .
+      
+    
+    {\displaystyle \varphi -1={\frac {a+b}{a}}-{\frac {a}{a}}={\frac {b+a-a}{a}}={\frac {b}{a}}={\frac {1}{\varphi }}.}
+  
+Vậy,số φ có 2 tính chất đặc biệt sau:
+
+  
+    
+      
+        φ
+        ×
+        φ
+        =
+        φ
+        +
+        1.
+      
+    
+    {\displaystyle \varphi \times \varphi =\varphi +1.}
+  
+
+  
+    
+      
+        
+          
+            1
+            φ
+          
+        
+        =
+        φ
+        −
+        1.
+      
+    
+    {\displaystyle {\frac {1}{\varphi }}=\varphi -1.}
+  
+Nghiệm xác định duy nhất của phương trình bậc hai là
+
+  
+    
+      
+        φ
+        =
+        
+          
+            
+              1
+              +
+              
+                
+                  5
+                
+              
+            
+            2
+          
+        
+        ≈
+        1.61803
+        
+        39887
+        …
+        
+      
+    
+    {\displaystyle \varphi ={\frac {1+{\sqrt {5}}}{2}}\approx 1.61803\,39887\dots \,}
+  
+Số φ còn "đẹp" theo 2 cách sau:
+
+  
+    
+      
+        φ
+        =
+        
+          
+            1
+            +
+            
+              
+                1
+                +
+                
+                  
+                    1
+                    +
+                    
+                      
+                        1
+                        +
+                        
+                          
+                            1
+                            +
+                            .
+                            .
+                            .
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        =
+        1
+        +
+        
+          
+            
+              
+                
+              
+              
+                
+                  1
+                
+              
+            
+            
+              
+                
+              
+              
+                
+                  1
+                  +
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            1
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            1
+                            +
+                            
+                              
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      1
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                  
+                                  
+                                    
+                                      1
+                                      +
+                                      
+                                        
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                1
+                                              
+                                            
+                                          
+                                          
+                                            
+                                              
+                                            
+                                            
+                                              
+                                                1
+                                                +
+                                                
+                                                  
+                                                    
+                                                      
+                                                        
+                                                      
+                                                      
+                                                        
+                                                          1
+                                                        
+                                                      
+                                                    
+                                                    
+                                                      
+                                                        
+                                                      
+                                                      
+                                                        
+                                                          1
+                                                          +
+                                                          ⋱
+                                                        
+                                                      
+                                                    
+                                                  
+                                                
+                                              
+                                            
+                                          
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \varphi ={\sqrt {1+{\sqrt {1+{\sqrt {1+{\sqrt {1+{\sqrt {1+...}}}}}}}}}}=1+{\cfrac {1}{1+{\cfrac {1}{1+{\cfrac {1}{1+{\cfrac {1}{1+{\cfrac {1}{1+\ddots }}}}}}}}}}}
+  
+
+
+== Tỉ lệ vàng trong đời sống ==
+
+
+=== Kiến trúc ===
+
+Trong các công trình kỳ quan về kiến trúc như quần thể kim tự tháp Khufu 146/233 xấp xỉ 62,66% trong đó cạnh đáy bằng 233m, chiều cao bằng 146m, kim tự tháp Mikerinos: 66/108 xấp xỉ 61,11%, trong đó cạnh đáy bằng 108m, chiều cao bằng 66m, dù những kích thước có bị sai lệch qua thời gian, song ta thấy chúng rất gần với tỷ lệ vàng. Tháp Eiffel 184.4/300.5 ≈ 61,36% trong đó chiều cao phần thân chính bằng 184,8m, chiều ngang tháp bằng 300,5m.
+Tháp Rùa tại Việt Nam được cho là vẫn chịu ảnh hưởng của tỉ lệ vàng.
+
+
+=== Kích thước của cơ thể con người ===
+
+.
+
+.
+Tỉ số vàng xuất hiện ngay trong kích thước của cơ thể con người (chiều cao rốn, chiều cao toàn thân, chiều dài cẳng tay, chiều dài cánh tay …).
+Nếu trong thực tế cơ thể bạn đúng theo các tỉ lệ sau đây thì chắc chắn trông rất cân đối và đẹp:
+- Chiều cao / đỉnh đầu đến đầu ngón tay = 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+- Đỉnh đầu tới đầu ngón tay / đỉnh đầu tới rốn (hoặc cùi chỏ) = 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+- Đỉnh đầu tới rốn (hoặc cùi chỏ) / đỉnh đầu tới ngực = 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+- Đỉnh đầu tới rốn (hoặc cùi chỏ) / chiều rộng đôi vai = 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+- Đỉnh đầu tới rốn (hoặc cùi chỏ) / chiều dài cẳng tay = 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+- Đỉnh đầu tới rốn (hoặc cùi chỏ) / chiều dài xương ống quyển = 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+- Đỉnh đầu tới ngực / đỉnh đầu tới gốc sọ = 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+- Đỉnh đầu tới ngực / chiều rộng của bụng = 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+- Chiều dài của cẳng tay / chiều dài bàn tay = 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+- Vai đến các đầu ngón tay / khuỷu tay đến các đầu ngón tay = 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+- Hông đến mặt đất / đầu gối đến mặt đất = 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+  
+- Gọi độ dài từ rốn lên đến đỉnh đầu là x, độ dài từ rốn xuống đến chân là y. Độ dài một dang tay gọi là a. Nếu x/y = a/(x+y) = 1,618 = Ф, thì đó là thân hình của các siêu người mẫu.
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Số vô tỷ
+Đền Parthenon
+Dãy Fibonacci
+Tỷ lệ vàng trong hình học
+
+
+== Liên kết ngoài ==
+Green, Thomas M. (cập nhật ngày 20 tháng 6 năm 2005). “The Pentagram & The Golden Ratio”. Truy cập ngày 1 tháng 12 năm 2007.   Geometry instruction with problems to solve.
+Khan, Amore (sửa đổi ngày 2 tháng 2 năm 2007). “Khan Amore’s Commentary on the Divine Proportion” (cps sẵn dạng HTML; PDF). Truy cập ngày 1 tháng 12 năm 2007.  
+Knott, Don. “The Golden section ratio: Phi”.  Information and activities by a mathematics professor.
+Yarrow, David (cập nhật ngày 21 tháng 10 năm 2005). “PHI: The Divine Ratio”. Truy cập ngày 1 tháng 12 năm 2007.  
+Arakelian, Hrant. Mathematics and History of the Golden Section, Logos, 2014, 404 p. ISBN 978-5-98704-663-0 (rus.).

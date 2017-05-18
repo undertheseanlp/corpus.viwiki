@@ -1,0 +1,45 @@
+Argon là một nguyên tố hóa học trong bảng tuần hoàn. Nó có ký hiệu Ar và số nguyên tử bằng 18. Là khí hiếm thứ ba trong nhóm 8, argon chiếm khoảng 0,934% khí quyển Trái Đất, điều này làm cho nó trở thành khí hiếm phổ biến nhất trên Trái Đất.
+
+
+== Lịch sử ==
+Argon (tiếng Hy Lạp argos có nghĩa là "lười" hoặc "bất động") đã được Henry Cavendish cho là tồn tại trong không khí từ năm 1785 nhưng chỉ được Lord Rayleigh (John William Strutt, nam tước đời 3 của Rayleigh) và William Ramsay phát hiện chính thức từ năm 1894.
+Khí này được cô lập từ không khí lỏng bằng chưng cất phân đoạn do khí quyển Trái Đất chỉ chứa khoảng 0,934% thể tích là argon (1,29% khối lượng). Khí quyển Sao Hỏa chứa tới 1,6% Ar40 và 5 ppm Ar36. Vào năm 2005, tàu thăm dò Huygens cũng đã phát hiện sự tồn tại của Ar40 trên Titan, vệ tinh lớn nhất của sao Thổ [1].
+
+
+== Tính chất lý - hóa ==
+Argon hòa tan trong nước nhiều gấp 2,5 lần nitơ và xấp xỉ độ hòa tan của oxi. Nguyên tố hóa học có độ ổn định cao này là không màu, không mùi trong cả dạng lỏng và khí. Người ta biết rất ít về các hợp chất hóa học của argon, đây là một trong các lý do trước đây nó được gọi là khí trơ. Sự tạo ra hidroflorua argon (HArF), một hợp chất rất không ổn định của argon với hidro và flo đã được các nhà nghiên cứu của trường Đại học Tổng hợp Helsinki thông báo vào năm 2000, nhưng vẫn chưa được xác nhận.
+Mặc dù không có hợp chất hóa học nào của argon hiện đã được công nhận, nhưng argon có thể tạo ra các mắt lưới với nước khi các nguyên tử của nó bị mắc kẹt trong lưới các phân tử nước. Các tính toán lý thuyết trên các máy tính đã chỉ ra vài hợp chất của argon mà có thể ổn định nhưng cách thức tạo ra các chất này thì vẫn chưa được biết.
+
+
+== Ứng dụng ==
+Nó được sử dụng trong các loại đèn điện do nó không phản ứng với dây tóc trong bóng đèn ngay cả ở nhiệt độ cao và trong các trường hợp mà nitơ phân tử là một khí bán trơ không ổn định. Các ứng dụng khác:
+Argon được sử dụng như là môi trường khí trơ trong nhiều công nghệ hàn kim loại, bao gồm hàn kim loại khí trơ (mig) và hàn vonfram khí trơ (tig) (trong đó "I" là viết tắt của inert trong tiếng Anh tức là trơ).
+Có vai trò là lớp phủ không phản ứng trong sản xuất titan và các nguyên tố có phản ứng hóa học cao khác.
+Là lớp khí bảo vệ để nuôi cấy các tinh thể silic và germani trong công nghiệp sản xuất chất bán dẫn.
+Là chất khí dùng trong các đèn plasma.
+Argon39 được sử dụng cho nhiều ứng dụng, chủ yếu là nghiên cứu lõi băng. Nó cũng được dùng để xác định niên đại nước ngầm.
+Các thiết bị phẫu thuật lạnh chẳng hạn như sự cắt bỏ lạnh sử dụng agon lỏng để tiêu diệt các tế bào ung thư.
+Argon cũng được sử dụng trong các thiết bị lặn tự chứa để làm căng quần áo khô, do nó trơ và có độ dẫn nhiệt kém.
+
+
+== Hợp chất ==
+Trước năm 1962, argon và các khí hiếm khác nói chung được coi là trơ về mặt hóa học và không có khả năng tạo ra các hợp chất. Tuy nhiên, kể từ thời điểm đó, các nhà khoa học đã có thể bắt các khí hiếm nặng hơn tạo ra các hợp chất. Năm 2000, hợp chất đầu tiên của argon được các nhà nghiên cứu của trường Đại học Tổng hợp Helsinki thông báo là đã tạo ra bằng cách chiếu tia cực tím vào argon rắn chứa một lượng nhỏ florua hidro (HF), và chất tạo ra là hidroflorua argon (HArF).
+
+
+== Đồng vị ==
+Các đồng vị chính của argon tìm thấy trên Trái Đất là Ar40, Ar36 và Ar38. K40 nguồn gốc tự nhiên với chu kỳ bán rã 1,250 x 109 năm, bị phân rã thành Ar40 ổn định (11,2%) bằng bắt electron và bằng bức xạ positron cũng như chuyển thành Ca40 ổn định (88,8%) bằng phân rã beta. Các tính chất và tỷ lệ này được dùng để xác định niên đại của các loại đá.
+Trong khí quyển Trái Đất, Ar39 được tạo ra nhờ hoạt động của các tia vũ trụ, chủ yếu là với Ar40. Trong các môi trường dưới bề mặt Trái Đất thì nó cũng được tạo ra thông qua bắt neutron của K39 hay phân rã alpha của canxi. Agon37 được tạo ra từ phân rã của Ca40 như là kết quả của các vụ thử nghiệm hạt nhân ngầm. Nó có chu kỳ bán rã 35 ngày.
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+Phòng thí nghiệm quốc gia Los Alamos, Hoa Kỳ-Argon
+
+
+== Liên kết ngoài ==
+WebElements.com-Argon
+Các ứng dụng lặn: Tại sao là argon?
+Argon Ar -Tính chất, sử dụng và ứng dụng
+Hóa điện toán Wiki

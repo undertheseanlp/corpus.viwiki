@@ -1,0 +1,94 @@
+Neodymi (tên Latinh: Neodymium) là một nguyên tố hóa học với ký hiệu Nd và số nguyên tử bằng 60.
+
+
+== Đặc trưng ==
+Neodymi, một kim loại đất hiếm, có mặt trong Misch metal ở hàm lượng tới khoảng 18%. Kim loại này có ánh kim màu trắng bạc sáng, tuy nhiên, là một trong số các kim loại đất hiếm nhóm Lantan rất dễ phản ứng hóa học nên nó nhanh chóng bị ôxi hóa trong không khí. Lớp ôxít trên bề mặt sau đó dễ bị tách ra làm kim loại này tiếp tục bị ôxi hóa. Mặc dù thuộc về nhóm gọi là "kim loại đất hiếm", nhưng neodymi hoàn toàn không hiếm. Nó chiếm khoảng 38 ppm khối lượng lớp vỏ Trái Đất.
+
+
+=== Tính hóa học ===
+Kim loại Neodymi bị xỉn từ từ trong không khí và cháy dễ dàng ở nhiệt độ 150 °C và tạo thành Neodymi(III) ôxít:
+4 Nd + 3 O2 → 2 Nd2O3
+Neodymi có tính điện dương khá cao, nó phản ứng từ từ với nước lạnh, phản ứng khá nhanh với nước nóng để tảo thành neodymi hiđrôxít:
+2 Nd (s) + 6 H2O (l) → 2 Nd(OH)3 (aq) + 3 H2 (g)
+Kim loại Neodymium phản ứng với tất cả các khí halogen:
+2 Nd (s) + 3 F2 (g) → 2 NdF3 (s) [màu tím]
+2 Nd (s) + 3 Cl2 (g) → 2 NdCl3 (s) [màu hoa cà]
+2 Nd (s) + 3 Br2 (g) → 2 NdBr3 (s) [màu tím]
+2 Nd (s) + 3 I2 (g) → 2 NdI3 (s) [màu lục]
+Neodymi bị hòa tan dễ dàng trong axít sulfuric loãng để tạo thành dung dịch chứa ion Nd (III) màu hoa cà, tồn tại dưới dạng phức [Nd(OH2)9]3+:
+2 Nd (s) + 3 H2SO4 (aq) → 2 Nd3+ (aq) + 3 SO2−4 (aq) + 3 H2 (g)
+
+
+=== Các hợp chất ===
+
+
+== Ứng dụng ==
+Các nam châm neodymi là các nam châm vĩnh cửu mạnh nhất hiện đã biết - Nd2Fe14B. Các nam châm này rẻ hơn, nhẹ hơn và mạnh hơn so với các nam châm samari-coban. Các nam châm neodymi xuất hiện trong các sản phẩm như microphon, các loa chuyên nghiệp, trong tai nghe, ghi-ta và các đầu cảm biến của ghi-ta bass cũng như đầu đọc của ổ đĩa cứng máy tính trong đó cần có khối lượng nhỏ, dung tích bé hay từ trường mạnh.
+Neodymi là thành phần hợp thành của didymi được sử dụng để tạo màu cho thủy tinh dùng làm kính bảo hộ trong nghề hàn và thổi thủy tinh. Dải hấp thụ sắc nét của nó trùng với tần số bức xạ của natri ở bước sóng 589 nm.
+Neodymi có nhiệt dung riêng lớn bất thường ở ngưỡng nhiệt độ của heli lỏng, vì thế nó là hữu ích trong các thiết bị siêu lạnh.
+Các đèn neodymi là các đèn nóng sáng chứa neodymi trong thủy tinh để lọc ánh sáng vàng, tạo ra ánh sáng trắng hơn so với ánh sáng mặt trời.
+Neodymi tạo màu cho thủy tinh với các sắc thái nằm trong khoảng từ tía tới đỏ rượu vang và xám nóng. Ánh sáng truyền qua thủy tinh như vậy thể hiện các dải hấp thụ sắc nét bất thường; thủy tinh như thế được sử dụng trong thiên văn học để tạo ra các dải sắc nét, trong đó các vạch quang phổ có thể được xác định. Neodymi cũng được sử dụng để loại bỏ màu xanh lục của thủy tinh do các tạp chất sắt gây ra.
+Các muối neodymi được dùng như là chất tạo màu cho men thủy tinh.
+Có lẽ là do các tính chất tương tự như ion Ca2+, nên Nd3+ đã được thông báo là hỗ trợ tăng trưởng của thực vật. Các hợp chất của nguyên tố đất hiếm này cũng thường xuyên được sử dụng tại Trung Quốc như là phân bón.
+Xác định niên đại bằng samari-neodymi là hữu ích để xác định các mối liên hệ về niên đại của các loại đá và của vẫn thạch.
+Quy mô và cường độ của phun trào núi lửa có thể được dự đoán bằng cách quét các đồng vị neodymi. Các phun trào núi lửa nhỏ và lớn sinh ra dung nham với thành phần khác nhau về các đồng vị neodymi. Từ thành phần của các đồng vị, các nhà khoa học có thể dự báo sự phun trào sắp xảy ra có thể mạnh ở mức nào và sử dụng thông tin này để cảnh báo dân cư về cường độ của đợt phun trào.
+Một số vật liệu trong suốt nhất định với hàm lượng nhỏ các ion neodymi có thể được sử dụng trong các laser như là vật liệu laser cho các bước sóng hồng ngoại (1.054-1.064 nm), chẳng hạn như Nd:YAG (thạch lựu yttri nhôm), Nd:YLF (florua yttri liti), Nd:YVO4 (orthovanadat yttri), và thủy tinh Nd. Laser hiện thời tại Atomic Weapons Establishment (AWE) của Vương quốc Anh là laser thủy tinh neodymi HELEN 1-TW, có thể tiếp cận các điểm giữa của các khu vực áp suất và nhiệt độ và được sử dụng để thu được các dữ liệu cho việc lập mô hình về việc tỷ trọng, nhiệt độ và áp suất tương tác như thế nào bên trong các đầu đạn hạt nhân. HELEN có thể tạo ra plasma có nhiệt độ khoảng 106 K, mà từ đó độ chắn và sự truyền của nguồn bức xạ được đo đạc.
+
+
+== Thủy tinh neodymi ==
+
+Thủy tinh neodymi (thủy tinh Nd) được tạo ra bằng việc đưa vào ôxít neodymi (Nd2O3) trong thủy tinh nóng chảy. Trong ánh sáng ban ngày hay ánh sáng của các đèn nóng sáng thì thủy tinh neodymi có màu tím oải hương, nhưng nó trở thành màu lam nhạt khi được chiếu sáng bằng ánh sáng của đèn huỳnh quang.
+Các laser trạng thái rắn thủy tinh neodymi được sử dụng trong các hệ thống nhiều tia cực cao công suất (cỡ terawatt), cao năng lượng (cỡ megajoule) cho nhiệt hạch hãm quán tính. Các laser thủy tinh Nd thông thường là nhân ba tần số cho họa ba thứ ba ở bước sóng 351 nm trong các thiết bị nhiệt hạch laser.
+Thủy tinh neodymi được sử dụng rộng rãi trong các đèn nóng sáng để tạo ra ánh sáng "tự nhiên" hơn. Thủy tinh neodymi cũng đã được cấp bằng sáng chế để sử dụng trong các gương chiếu hậu của ô tô để giảm sự chói lòa về ban đêm.
+Sử dụng thương mại đầu tiên của neodymi tinh chế là trong tạo màu thủy tinh, bắt đầu với các thực nghiệm của Leo Moser trong tháng 11 năm 1927. Thủy tinh "Alexandrite" được tạo ra vẫn là màu dấu hiệu của các công xưởng thủy tinh Moser cho tới nay. Thủy tinh neodymi được các xưởng thủy tinh tại Mỹ mô phỏng rộng rãi trong đầu thập niên 1930, đáng chú ý nhất có Heisey, Fostoria ("wisteria"), Cambridge ("heatherbloom") và Steuben ("wisteria") cũng như ở một vài nơi khác (chẳng hạn Lalique ở Pháp hay Murano). Thủy tinh "twilight" của Tiffin còn trong sản xuất từ khoảng 1950 tới khoảng 1980. Các nguồn hiện tại bao gồm các nhà sản xuất kính tại Cộng hòa Séc, Hoa Kỳ và Trung Quốc; Caithness Glass ở Scotland cũng sử dụng rộng rãi chất tạo màu này.
+Các dải hấp thụ sắc nét của neodymi làm cho màu thủy tinh thay đổi theo các điều kiện chiếu sáng khác nhau, từ có màu tía hơi đỏ dưới ánh sáng ban ngày hay dưới ánh sáng của đèn nóng sáng vàng, nhưng trở thành màu lam dưới ánh sáng trắng của đèn huỳnhg quang, hoặc ánh xanh lục dưới điều kiện chiếu sáng ba màu. Hiện tượng thay đổi màu này được các nhà sưu tập thủy tinh đánh giá cao. Neodymi kết hợp với praseodymi tạo ra thủy tinh "Heliolite" của Moser. Khi kết hợp với vàng hay selen nó tạo ra màu đỏ đẹp cho thủy tinh, chẳng hạn "Royalite" của Moser hay "Wistaria" của Tiffin hay một số màu khác mà Fenton thu được. Do sự tạo màu của neodymi phụ thuộc vào các sự chuyển tiếp f-f "hãm" sâu bên trong nguyên tử, nên ở đây có ảnh hưởng tương đối ít đối với màu sắc từ môi trường hóa học, vì thé màu là không thấm qua được đối với lịch sử nhiệt của thủy tinh. Tuy nhiên, để có màu tốt nhất, các tạp chất chứa sắt cần phải ở mức tối thiểu trong cát được dùng để nấu thủy tinh. Cùng một "mức hãm" của các chuyển tiếp f-f làm cho các chất tạo màu từ kim loại đất hiếm ít gắt hơn so với các chất tạo màu từ các nguyên tố có chuyển tiếp chủ yếu là lớp d, vì thế cần phải dùng nhiều hơn trong thủy tinh để đạt được cường độ màu mong muốn. Công thức gốc của Moser sử dụng khoảng 5% ôxít neodymi trong thủy tinh nóng chảy, một lượng vừa đủ như vậy được Moser nói tới như là thủy tinh "kích thích bằng đất hiếm". Là một bazơ đủ mạnh, mức như vậy của neodymi có thể ảnh hưởng tới cacs tính chất nóng chảy của thủy tinh và hàm lượng canxi trong thủy tinh có thể cũng phải điều chỉnh theo.
+
+
+== Lịch sử ==
+Neodymi được nam tước Carl Auer von Welsbach, một nhà hóa học người Áo, phát hiện tại Viên năm 1885. Ông tách neodymi cũng như nguyên tố praseodymi từ vật liệu được gọi là didymi bằng cách kết tinh phân đoạn của nitrat amoni tetrahydrat kép từ axít nitric, trong khi tuân theo việc chia tách bằng phân tích quang phổ; tuy nhiên, nó đã không được cô lập ở dạng tương đối tinh khiết cho tới tận năm 1925. Tên gọi neodymi có nguồn gốc từ tiếng Hy Lạp neos nghĩa là mới và didymos nghĩa là kép, đôi.
+Kết tinh nitrat kép từng là phương thức tinh chế neodymi thương mại cho tới tận thập niên 1950. Lindsay Chemical Division của American Potash and Chemical Corporation, một thời từng là nhà sản xuất các kim loại đất hiếm lớn nhất trên thế giới, cung cấp ôxít neodymi tinh chế theo kiểu này ở phẩm cấp 65%, 85% và 95% độ tinh khiết, với mức giá trong khoảng từ 2 tới 20 USD mỗi pao (USD năm 1960). Lindsay cũng là cơ sở đầu tiên thương mại hóa quá trình tinh chế bằng trao đổi ion ở quy mô lớn để sản xuất neodymi, sử dụng công nghệ do Frank Spedding tại Đại học bang Iowa và Phòng thí nghiệm Ames phát triển; một pao ôxít độ tinh khiết 99% có giá 35 USD vào năm 1960; còn phẩm cấp 99,9% chỉ tăng thêm 5 USD nữa. Bắt đầu từ thập niên 1950, neodymi độ tinh khiết cao (như 99+%) chủ yếu thu được bằng công nghệ trao đổi ion từ cát monazit ((Ce,La,Th,Nd,Y)PO4), một vật liệu giàu các nguyên tố đất hiếm. Bản thân kim loại này thu được bằng điện phân các muối halua của nó. Hiện tại, phần lớn neodymi được chiết ra từ bastnaesit, (Ce,La,Nd,Pr)CO3F, và được tinh chế bằng chiết dung môi. Tinh chế trao đổi ion được dùng để điều chế neodymi với các độ tinh khiết cao hơn (thông thường >4N, do khi Molycorp lần đầu tiên đưa ra ôxít neodymi của họ có phẩm cấp 98% vào năm 1965, điều chế bằng chiết dung môi từ bastnaesit thu được tại mỏ Mountain Pass, California, nó chỉ có giá ở mức 5 USD mỗi pao đối với các lượng nhỏ, do vậy Lindsay nhanh chóng ngừng không sản xuất nữa). Công nghệ phát triển và độ tinh khiết được nâng cao của ôxít neodymi có sẵn ở quy mô công nghiệp được phản ánh bằng sự xuất hiện của thủy tinh neodymi được làm từ đó vẫn tồn tại trong các bộ sưu tập ngày nay. Các miếng kính thời kỳ đầu của Moser và các loại thủy tinh neodymi khác sản xuất trong thập niên 1930 bị pha màu cam hay hơi đỏ nhiều hơn so với các loại thủy tinh neodymi ngày nay (có màu tía thuần khiết hơn), do các khó khăn trong việc loại bỏ các dấu vết cuối cùng của praseodymi khi người ta còn phải dựa vào công nghệ kết tinh phân đoạn.
+
+
+== Phổ biến ==
+Neodymi không được tìm thấy trong tự nhiên ở dạng nguyên tố tự do mà nó thường xuất hiện trong các loại quặng như cát monazit ((Ce,La,Th,Nd,Y)PO4) và bastnasit ((Ce,La,Th,Nd,Y)(CO3)F) trong đó chứa các lượng nhỏ của mọi nguyên tố đất hiếm. Neodymi cũng có thể tìm thấy trong misch metal; nó rất khó tách ra từ các nguyên tố đất hiếm khác.
+
+
+== Hợp chất ==
+Các hợp chất của neodymi bao gồm:
+Các halua: NdF3, NdCl3, NdBr3, NdI3
+Các ôxít: Nd2O3
+Các sulfua: NdS, Nd2S3
+Các nitrua: NdN
+Xem thêm Hợp chất neodymi
+
+
+== Đồng vị ==
+
+Neodymi phổ biến trong tự nhiên là hợp thành của 5 đồng vị ổn định, bao gồm Nd142, Nd143, Nd145, Nd146 và Nd148, với Nd142 là phổ biến nhất (27,2%), và 2 đồng vị phóng xạ là Nd144 và Nd150. Tổng cộng 31 đồng vị phóng xạ của neodymi đã được nêu đặc trưng cho tới nay, với ổn định nhất là các đồng vị có trong tự nhiên Nd144 (phân rã alpha với chu kỳ bán rã (T½) bằng 2,29×1015 năm) và Nd150 (phân rã beta kép, T½ bằng 7×1018 năm). Tất cả các đồng vị phóng xạ còn lại có chu kỳ bán rã nhỏ hơn 11 ngày và phần lớn trong số đó có chu kỳ bán rã nhỏ hơn 70 giây. Nguyên tố này cũng có 13 trạng thái giả ổn định đã biết với ổn định nhất là Nd139m (T½ bằng 5,5 giờ), Nd135m (T½ bằng 5,5 phút) và Nd133m1 (T½ ~70 giây).
+Phương thức phân rã chủ yếu trước đồng vị phổ biến nhất (Nd142) là bắt điện tử và phân rã positron còn phương thức chủ yếu sau đồng vị ổn định phổ biến nhất là phân rã beta trừ. Sản phẩm phân rã chủ yếu trước Nd142 là các đồng vị của nguyên tố Pr (praseodymi) còn sản phẩm phân rã chủ yếu sau Nd142 là các đồng vị của nguyên tố Pm (promethi).
+
+
+== Phòng ngừa ==
+Bụi của neodymi kim loại có nguy hiểm cháy và nổ.
+Các hợp chất của neodymi, giống như các muối của mọi kim loại đất hiếm khác, có độc tính từ nhẹ tới vừa phải; tuy nhiên độc tính của chúng vẫn chưa được nghiên cứu đầy đủ. Bụi neodymi và các muối của nó kích ứng mạnh đối với mắt và các màng nhầy và kích ứng vừa phải đối với da. Hít thở phải bụi có thể gây ra tắc mạch phổi và sự phơi nhiễm tích tụ gây nguy hiểm cho gan. Neodymi cũng đóng vai trò như là tác nhân chống đông máu, đặc biệt là khi truyền vào theo đường ven.
+Các nam châm neodymi đã được thử nghiệm để sử dụng trong y học, chẳng hạn như các vòng từ tính và chỉnh sửa xương, nhưng các vấn đề về tương thích sinh học đã không cho phép các ứng dụng này được phổ biến.
+
+
+== Xem thêm ==
+Nam châm neodymi (NIB or Nd2Fe14B)
+
+
+== Tham khảo ==
+Phòng thí nghiệm quốc gia Hoa Kỳ Los Alamos - Neodymi
+"The Industrial Chemistry of the Lanthanons, Yttrium, Thorium and Uranium" của R.J. Callow, Nhà in Pergamon, 1967.
+Lindsay Chemical Division, American Potash and Chemical Corporation, Bảng giá, 1960.
+"Chemistry of the Lanthanons" của R.C. Vickery, Butterworths, 1953.
+
+
+== Ghi chú ==
+
+
+== Liên kết ngoài ==
+USGS Rare Earth Commodity Summary 2006
+WebElements.com – Neodymium
+It's Elemental – Neodymium

@@ -1,0 +1,42 @@
+:Xem các nghĩa khác tại rắn (định hướng)
+Trạng thái rắn là một trong ba trạng thái thường gặp của các chất, có đặc điểm bởi tính chất phản kháng lại sự thay đổi hình dạng. Các chất ở trạng thái rắn được gọi là chất rắn. Các vật được cấu tạo từ chất rắn (vật rắn) có hình dạng ổn định.
+Ở mức độ vi mô, chất rắn có đặc tính:
+Các phân tử hay nguyên tử nằm sát nhau
+Chúng có vị trí trung bình tương đối cố định trong không gian so với nhau, tạo nên tính chất giữ nguyên hình dáng của vật rắn.
+Nếu có lực đủ lớn tác dụng các tính chất trên có thể bị phá hủy và vật rắn biến dạng. Các phân tử hay nguyên tử của vật rắn có dao động nhiệt quanh vị trí cân bằng. Khi nhiệt độ tăng cao, dao động mạnh có thể phá hủy tính chất trên và chất rắn có thể chuyển pha sang trạng thái lỏng.
+Môn học nghiên cứu về chất rắn là vật lý chất rắn.
+
+
+== Phân loại ==
+Chất rắn được chia làm hai loại: chất rắn kết tinh và chất rắn vô định hình.
+
+
+=== Chất kết tinh ===
+
+
+==== Ví dụ ====
+Muối ăn, gồm chủ yếu là NaCl, là một ví dụ của chất rắn kết tinh. Chúng đều có dạng lập phương tâm khối hoặc hình hộp. Nếu đập vỡ một hạt muối tinh khiết thành những mảnh có độ vỡ khác nhau thì tất cả chúng đều có dạng khối lập phương hoặc khối hình hộp.
+Tiếp tục đập vụn hạt muối thành những hạt nhỏ li ti và đưa vào kính hiển vi, có thể thấy những hạt muối này dù rất nhỏ vẫn có dạng khối lập phương hoặc khối hình hộp, những kết cấu rắn có dạng hình học xác định như thế gọi là các tinh thể.
+Tinh thể của mỗi chất có hình dạng đặc trưng xác định. Tinh thể muối ăn có dạng lập phương hoặc khối hình hộp. Cùng một tinh thể tùy điều kiện hình thành mà chúng có kích thước lớn nhỏ khác nhau.
+
+
+==== Chất đơn tinh thể ====
+Một hạt muối ăn dù lớn hay nhỏ đều được cấu tạo từ một tinh thể muối, một viên kim cương chỉ được cấu tạo từ một tinh thể kim cương, một miếng thạch anh chỉ được cấu tạo từ một tinh thể thạch anh.
+Ta nói hạt muối, viên kim cương, miếng thạch anh là các đơn tinh thể, còn muối, thạch anh, kim cương là các tinh thể.
+Đặc điểm của các chất đơn tinh thể nói chung là tính chất vật lý theo tính khác nhau thì không giống nhau. Tính chất này gọi là tính dị hướng.
+Các chất đơn tinh thể có nhiều ứng dụng trong đời sống và khoa học công nghệ. Kim cương là chất rắn đơn tinh thể rắn nhất hiện nay nên được dùng làm mũi khoan địa chất, đá mài dao điện làm bằng hợp kim rất cứng v.v.. Trên 80% kim cương được khai thác trong tự nhiên và toàn bộ kim cương nhân tạo được dùng trong công nghệ, chỉ có chưa tới 20% kim cương được khai thác trong tự nhiên được khai thác trong tự nhiên dùng làm đồ trang sức. Các chất đơn tinh khiết gemani và silic dùng cho chế tạo linh kiện bán dẫn có vai trò cực kỳ quan trọng trong việc chế tạo linh kiện điện điện tử.
+
+
+==== Chất đa tinh thể ====
+
+
+=== Chất rắn vô định hình ===
+
+
+== Xem thêm ==
+Chất lỏng
+Chất khí
+Plasma
+
+
+== Tham khảo ==

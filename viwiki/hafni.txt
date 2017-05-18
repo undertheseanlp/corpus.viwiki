@@ -1,0 +1,67 @@
+Hafni (tiếng La tinh: Hafnium) là một nguyên tố hóa học có ký hiệu Hf và số nguyên tử 72. Là một kim loại chuyển tiếp hóa trị 4 màu xám bạc ánh, hafni tương tự như zirconi về mặt hóa học và nó được tìm thấy trong các khoáng vật zirconi. Hafni được sử dụng trong các hợp kim vonfram để làm các sợi dây tóc điện và các điện cực, trong các mạch tích hợp (IC) như là chất cách điện cho cổng của các tranzisto, và như là chất hấp thụ nơtron trong các thanh kiểm soát của các nhà máy điện hạt nhân.
+Hafni có nguồn gốc từ chữ "Hafnia" - tên gọi của thủ đô Đan Mạch theo tiếng La tinh.
+
+
+== Đặc trưng ==
+
+Hafni là một kim loại màu xám bạc, bóng, dễ uốn, kháng ăn mòn và về mặt hóa học thì tương tự như zirconi. Các tính chất vật lý của hafni bị ảnh hưởng đáng kể bởi các tạp chất zirconi, và hai nguyên tố này thuộc số những nguyên tố rất khó tách khỏi nhau. Khác biệt vật lý đáng chú ý giữa chúng là tỷ trọng riêng (zirconi có tỷ trọng riêng chỉ khoảng một nửa của hafni), nhưng tính chất hóa học thì cực kỳ giống nhau.
+Tính chất vật lý đáng chú nhất của hafni là nó có tiết diện bắt nơtron rất cao, và hạt nhân của một vài đồng vị của hafni có thể hấp thụ nhiều nơtron. Điều này làm cho hafni là một vật liệu tốt cho các thanh kiểm soát trong các lò phản ứng hạt nhân. Tiết diện bắt nơtron nhiệt của nó cao hơn của zirconi khoảng 600 lần (Các nguyên tố khác có tiết diện bắt nơtron cao để làm các thanh kiểm soát là cadmi và bo).
+Việc tách hafni và zirconi là rất quan trọng trong công nghiệp năng lượng hạt nhân, do zirconi là kim loại phủ thanh nhiên liệu rất tốt, với tính chất mong muốn là tiết diện bắt nơtron rất thấp và có độ ổn định hóa học tốt ở các nhiệt độ cao. Tuy nhiên, do các tính chất hấp thụ nơtron của hafni, các tạp chất zirconi trong hafni lại làm cho nó ít hữu ích hơn trong các ứng dụng lò phản ứng hạt nhân. Vì thế việc tách gần như hoàn toàn của zirconi và hafni là cần thiết để sử dụng trong công nghiệp năng lượng hạt nhân.
+Cacbua hafni là hợp chất nhị nguyên chịu lửa tốt nhất đã biết, với điểm nóng chảy trên 3.890°C, và nitrua hafni là nitrua khó nóng chảy nhất đã biết trong số tất cả các nitrua kim loại, với điểm nóng chảy là 3.310°C. Điều này đã dẫn tới các đề xuất rằng hafni hay các cacbua của nó có thể là hữu ích như là vật liệu kết cấu và xây dựng phải hoạt động trong môi trường nhiệt độ cao.
+Kim loại này không bị các chất kiềm đậm đặc ăn mòn, nhưng các halogen phản ứng với nó để tạo ra tetrahalua hafni. Ở nhiệt độ cao, hafni phản ứng với ôxy, nitơ, cacbon, bo, lưu huỳnh và silic.
+Đồng phân hạt nhân Hf-178-m2 là nguồn của các tầng tia gama với năng lượng tổng cộng là 2,45 MeV trên mỗi phân rã. Nó đáng chú ý do nó có năng lượng kích thích cao nhất trong số các đồng phân hạt nhân tồn tại tương đối lâu của bất kỳ nguyên tố nào. Một gam Hf-178-m2 tinh khiết chứa khoảng 1.330 MJ năng lượng, tương đương với năng lượng giải phóng ra từ khoảng 317 kilôgam (700 pao) TNT khi nổ. Các ứng dụng (có thể) cần có sự tập trung năng lượng cao như vậy là đáng quan tâm. Ví dụ, nó đã được nghiên cứu như là nguồn năng lượng có thể cho các laser tia gama.
+
+
+== Ứng dụng ==
+Hafni được dùng làm các thanh kiểm soát cho các lò phản ứng hạt nhân do khả năng hấp thụ nơtron cao của nó, cũng như do các tính chất cơ lý tuyệt vời và khả năng chống ăn mòn tốt. Các ứng dụng khác có:
+Trong môi trường đầy khí và các đèn nóng sáng, để hấp thụ ôxy và nitơ sót lại,
+Như là điện cực trong cắt plasma do khả năng phóngelectron vào trong không khí của nó,
+Trong các hợp kim với sắt, titan, niobi, tantali và các kim loại khác.
+Các hợp chất gốc hafni được dùng làm các chất cách điện cổng tranzito trong thế hệ 45 nm của các mạch IC từ Intel, IBM và một số hãng khác. Các hợp chất gốc ôxít hafni là các chất với hằng số điện môi cao, cho phép giảm dòng điện rò rỉ và cải thiện hiệu năng ở quy mô nano như thế.
+DARPA của Bộ quốc phòng Hoa Kỳ đã từng cấp vốn không liên tục cho các chương trình tại Hoa Kỳ để xác định khả năng sử dụng đồng phân hạt nhân của hafni (Hf-178-m2) để chế tạo các vũ khí nhỏ nhưng hiệu suất cao với cơ chế kích thích tia X đơn giản—một ứng dụng của bức xạ gama cảm ứng. Công việc này tiếp theo sau trên 20 năm nghiên cứu nền tảng của cộng đồng quốc tế trong việc tìm cách thức giải phóng năng lượng đã lưu trữ theo nhu cầu. Có sự phản đối đáng kể đối với chương trình này, vì ý tưởng này có thể không hoạt động cũng như do các quốc gia không tham dự có thể cảm thấy "lỗ hổng vũ khí đồng phân" (được tưởng tượng ra) có thể biện hộ cho sự phát triển trong tương lai của họ và cho việc dự trữ các vũ khí hạt nhân thông thường. Một đề xuất liên quan là sử dụng cùng một đồng phân này để cấp năng lượng cho các tàu bay không người lái để chúng có thể bay trong không trung trong vài tháng.
+Bổ sung một lượng nhỏ hafni sẽ làm tăng sự bám dính chặt của các vảy ôxít bảo vệ trên các hợp kim niken. Bằng cách đó, nó cải thiện khả năng chống ăn mòn, đặc biệt là trong các điều kiện nhiệt độ biến đổi theo chu kỳ, do xu hướng phá vỡ các lớp vảy ôxít bởi gây ra ứng suất nhiệt giữa khối kim loại và lớp ôxít khi nhiệt độ biến đổi.
+
+
+== Lịch sử ==
+Bảng tuần hoàn năm 1869 của Mendeleev đã dự báo khả năng tồn tại của nguyên tố nặng với tính chất tương tự titan và zirconi, nhưng năm 1871 Mendeleev đã đặt lantan (nguyên tố số 57) vào vị trí này.
+Sự tồn tại của lỗ hổng trong bảng tuần hoàn cho nguyên tố vẫn chưa được phát hiện số 72 đã được Henry Moseley dự đoán năm 1914. Hafni được đặt tên theo tên gọi trong tiếng La tinh để chỉ Copenhagen là Hafnia, quê hương của Niels Bohr. Nó được Dirk Coster và Georg von Hevesy phát hiện năm 1923 tại Copenhagen, Đan Mạch, hợp lệ hóa dự báo gốc năm 1869 của Mendeleev. Rất nhanh sau đó, nguyên tố mới được dự báo là gắn với zirconi bằng cách sử dụng các thuyết của Bohr về nguyên tử, và cuối cùng nó đã được tìm thấy trong ziricon thông qua phân tích phổ học tia X tại Na Uy.
+Hafni được Jantzen và von Hevesey tách ra từ zirconi thông qua tái kết tinh nhắc lại của các florua kép amoni hay kali. Hafni kim loại lần đầu tiên được Anton Eduard van Arkel và Jan Hendrik de Boer điều chế bằng cho hơi tetraiodua hafni chạy qua sợi vonfram nóng. Quy trình này để tinh lọc phân dị Zr và Hf vẫn còn được sử dụng cho tới nay.
+Khoa Khoa học của Đại học Copenhagen sử dụng hình ảnh cách điệu hóa của nguyên tử hafni trong con dấu của mình.
+
+
+== Phổ biến ==
+Người ta ước tính hafni chiếm khoảng 0,00058% khối lượng lớp vỏ trên của Trái Đất. Nó được tìm thấy trong các hợp chất của zirconi tự nhiên nhưng không tồn tại ở dạng tự do. Các khoáng vật chứa zirconi, như alvit [(Hf, Th, Zr)SiO4 H2O], thortveitit và ziricon (ZrSiO4), thông thường cũng chứa khoảng 1 tới 5% hafni. Hafni và zirconi gần như đồng nhất về mặt hóa học, điều đó làm chúng rất khó tách khỏi nhau. Khoảng một nửa toàn bộ hafni kim loại được sản xuất ra như là phụ phẩm của việc tinh chế zirconi. Nó được thực hiện thông qua khử clorua hafni (IV) bằng magiê hay natri trong quy trình Kroll.
+
+Các loại quặng chính của ziricon (và vì thế là của hafni) là các loại quặng trầm tích cát khoáng vật nặng, pegmatit có ở Brasil và Malawi, và cacbonatit xâm nhập có ở mỏ đa kim Crown tại núi Weld, Tây Australia. Nguồn tiềm năng của hafni là đá tuff trachyt chứa các silicat hiếm của zircon-hafni là eudialyt hay armostrongit, tại Dubbo ở New South Wales, Australia.
+
+
+== Phòng ngừa ==
+Càn cẩn thận khi gia công hafni bằng máy, do giống như zirconi, khi bị phân chia thành các hạt mịn, nó có thể bắt cháy ngay trong không khí. Các hợp chất chứa hafni rất ít người có cơ hội tiếp xúc. Dạng kim loại tinh khiết được coi là không độc hại, nhưng các hợp chất của hafni thì cần cẩn thận khi tiếp xúc do dạng ion cả nó có xác suất độc hại rất cao, thử nghiệm một số hợp chất của hafni một cách hạn chế trên động vật đã được tiến hành.
+
+
+== Đồng vị ==
+Hafni có 5 đồng vị ổn định cùng một loạt các đồng vị không ổn định với nguyên tử lượng từ 153 tới 188. Theo tỷ lệ phổ biến thì Hf180 (35,1 %), Hf178 (27,297 %), Hf177 (18,606 %) và Hf179 (13,629 %) và Hf176 (5,206 %) là phổ biến nhất, chiếm tổng cộng 99,84% toàn bộ các đồng vị tự nhiên của hafni. Chúng cũng là các đồng vị ổn định. Đồng vị phóng xạ có trong tự nhiên là Hf174 với chu kỳ bán rã 2×1015 năm, chiếm 0,162%. Đồng vị phóng xạ tổng hợp ổn định nhất là Hf182 có chu kỳ bán rã 9×106 năm. Đa phần các đồng vị khác và đồng phân hạt nhân có chu kỳ bán rã rất nhỏ.
+
+
+== Hợp chất ==
+Xem Hợp chất hafni
+
+
+== Xem thêm ==
+Đồng phân hạt nhân
+Bức xạ gama cảm ứng
+Ziricon
+
+
+== Tham khảo ==
+
+van Arkel A.E., de Boer J.H. (1925). “Preparation of pure titanium, zirconium, hafnium, and thorium metal”. Zeitschrift für Anorganische und Allgemeine Chemie 148: 345–350. 
+Scerri E.R., Prediction of the Nature of Hafnium from Chemistry, Bohr’s Theory and Quantum Theory, Annals of Science, 51, 137-150, (1994)
+
+
+== Liên kết ngoài ==
+WebElements.com – Hafnium
+Dữ liệu kỹ thuật và an toàn cho hafni
+Ngân hàng dữ liệu các chất nguy hiểm của NLM; Hafni, nguyên tố
+Intel Shifts from Silicon to Lift Chip Performance
+Công nghệ cổng silic 45 nm trên cơ sở hafni của Intel

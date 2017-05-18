@@ -1,0 +1,4 @@
+Các nguyên tố trong bảng tuần hoàn được xếp theo các nhóm và chu kỳ tuần hoàn, trong đấy chu kỳ là các hàng ngang và gồm các nguyên tố có cùng số lớp trong lớp vỏ electron. Trong mỗi chu kỳ từ trái sang phải: số nguyên tử tăng, bán kính nguyên tử giảm, độ âm điện tăng. Ngoại trừ chu kỳ 1 chỉ gồm 2 nguyên tố, các chu kỳ còn lại chứa nguyên tố của các nhóm chính, từ chu kỳ 4 trở đi còn có nguyên tố trong 10 nhóm phụ. Chu kỳ 6 còn có 14 nguyên tố trong nhóm Lantan, chu kỳ 7 nhóm Actini.
+
+
+== Tham khảo ==

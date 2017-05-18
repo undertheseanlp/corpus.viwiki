@@ -1,0 +1,63 @@
+Lao là tình trạng nhiễm vi khuẩn Mycobacterium tuberculosis, thường gặp nhất ở phổi nhưng cũng có thể ảnh hưởng đến hệ thần kinh trung ương (lao màng não), hệ bạch huyết, hệ tuần hoàn (lao kê), hệ niệu dục, xương và khớp.
+Hiện nay lao là bệnh nhiễm khuẩn chính và thường gặp nhất, ảnh hưởng đến 2 tỉ người tức 1/3 dân số, với 9 triệu ca mới mỗi năm, gây 1,5 triệu người tử vong (ước tính 2016), hầu hết ở các nước đang phát triển.
+Hầu hết (90%) các trường hợp nhiễm khuẩn lao là tiềm ẩn không triệu chứng. 10% những người này trong cuộc đời họ sẽ tiến triển thành bệnh lao có triệu chứng, và nếu không điều trị, nó sẽ giết 50% số nạn nhân. Tuy số người chết vì bệnh lao đã giảm đi rất nhiều, theo WHO năm 2016 mỗi ngày vẫn có khoảng 4.100 người chết, so với bệnh AIDS 3.300, làm cho bệnh này vẫn là bệnh truyền nhiễm gây chết người nhiều nhất trên thế giới.
+Sự sao nhãng trong các chương trình kiểm soát lao, sự bùng phát của đại dịch HIV/AIDS và việc di dân đã khiến lao trỗi dậy. Các chủng lao kháng đa thuốc (MDR, multiple drug resistant) đang tăng. Năm 1993, Tổ chức Y tế Thế giới tuyên bố tình trạng khẩn cấp toàn cầu đối với lao.
+
+
+== Vi khuẩn ==
+Tác nhân gây bệnh lao, Mycobacterium tuberculosis (MTB), là vi khuẩn hiếu khí. Vi khuẩn này phân chia mỗi 16 đến 20 giờ, rất chậm so với thời gian phân chia tính bằng phút của các vi khuẩn khác (trong số các vi khuẩn phân chia nhanh nhất là một chủng E. coli, có thể phân chia mỗi 20 phút). MTB không được phân loại Gram dương hay Gram âm vì chúng không có đặc tính hoá học này, mặc dù thành tế bào có chứa peptidoglycan. Trên mẫu nhuộm Gram, nó nhuộm Gram dương rất yếu hoặc là không biểu hiện gì cả. Trực khuẩn lao có hình dạng giống que nhỏ, có thể chịu đựng được chất sát khuẩn yếu và sống sót trong trạng thái khô trong nhiều tuần nhưng, trong điều kiện tự nhiên, chỉ có thể phát triển trong sinh vật ký chủ (cấy M. tuberculosis in vitro cần thời gian dài để lấy có kết quả, nhưng ngày nay là công việc bình thường ở phòng xét nghiệm).
+Trực khuẩn lao được xác định dưới kính hiển vi bằng đặc tính nhuộm của nó: nó vẫn giữ màu nhuộm sau khi bị xử lý với dung dịch acid, vì vậy nó được phân loại là "trực khuẩn kháng acid" (acid-fast bacillus, viết tắt là AFB). Với kỹ thuật nhuộm thông thường nhất là nhuộm Ziehl-Neelsen, AFB có màu đỏ tươi nổi bật trên nền xanh. Trực khuẩn kháng acid cũng có thể được xem bằng kính hiển vi huỳnh quang và phép nhuộm auramine-rhodamine.
+Phức hợp M. tuberculosis gồm 3 loài mycobacterium khác có khả năng gây lao: M. bovis, M. africanum và M. microti. Hai loài đầu rất hiếm gây bệnh và loài thứ 3 không gây bệnh ở người.
+
+
+== Bệnh học ==
+
+
+=== Lây truyền ===
+Lao lan truyền qua các giọt nước trong không khí từ chất tiết khi ho, nhảy mũi, nói chuyện hay khạc nhổ của người nhiễm vi khuẩn hoạt động. Tiếp xúc gần gũi (kéo dài, thường xuyên, thân mật) là nguy cơ nhiễm bệnh cao nhất (khoảng 22%, nhưng có thể đến 100%). Người mắc lao hoạt động không điều trị có thể lây sang 10-15 người khác mỗi năm. Các nguy cơ khác bao gồm ra đời ở vùng lao phổ biến, bệnh nhân rối loạn miễn dịch (như HIV/AIDS), cư dân hoặc làm việc ở nơi đông người nguy cơ cao, nhân viên chăm sóc sức khoẻ phục vụ đối tượng có nguy cơ cao, nơi thu nhập kém, thiếu vắng dịch vụ y tế, dân thiểu số nguy cơ cao, trẻ em phơi nhiễm với người lớn thuộc nhóm nguy cơ cao, người tiêm chích ma tuý.
+Lây truyền chỉ xảy ra ở người mắc bệnh lao hoạt động (không phải lao tiềm ẩn).
+Khả năng lây truyền phụ thuộc vào mức độ nhiễm khuẩn của người mắc lao (số lượng tống xuất), môi trường phơi nhiễm, thời gian phơi nhiễm và độc lực của vi khuẩn.
+Chuỗi lây truyền có thể được chấm dứt bằng cách cách ly người bệnh ở giai đoạn bệnh hoạt động và áp dụng biện pháp điều trị kháng lao hữu hiệu.
+
+
+=== Bệnh sinh ===
+Mặc dù chỉ 10% ca nhiễm vi khuẩn lao tiến triển đến bệnh lao, nhưng tỉ lệ tử vong là 51% nếu không điều trị.
+Nhiễm lao bắt đầu khi trực khuẩn lao vào đến phế nang, xâm nhiễm vào đại thực bào phế nang và sinh sôi theo cấp số mũ. Vi khuẩn bị tế bào đuôi gai bắt giữ và mang đến hạch lympho vùng ở trung thất, sau đó theo dòng máu đến các mô và cơ quan xa, nơi mà bệnh lao có khả năng phát triển: đỉnh phổi, hạch lympho ngoại biên, thận, não và xương.
+Lao được phân loại là trình trạng viêm u hạt. Đại thực bào, lympho bào T, lympho bào B và nguyên bào sợi là các tế bào kết tập lại tạo u hạt, với các lympho bào vây quanh đại thực bào. Chức năng của u hạt không chỉ ngăn cản sự lan toả của mycobacteria, mà còn tạo môi trường tại chỗ cho các tế bào của hệ miễn dịch trao đổi thông tin. Bên trong u hạt, lympho bào T tiết cytokine, như interferon gamma, hoạt hoá đại thực bào và khiến chúng chống nhiễm khuẩn tôt hơn. Lympho T cũng giết trực tiếp các tế bào bị nhiễm.
+Điều quan trọng là vi khuẩn không bị u hạt loại trừ hoàn toàn, mà trở nên bất hoạt, tạo dạng nhiễm khuẩn tiềm ẩn. Nhiễm khuẩn tiềm ẩn chỉ có thể được phát hiện với thử nghiệm da tuberculin - người nhiễm lao sẽ có đáp ứng quá mẫn muộn đối với dẫn xuất protein tinh khiết từ M. tuberculosis.
+Một đặc điểm nữa của u hạt ở lao người là diễn tiến đến chết tế bào, còn gọi là hoại tử, ở trung tâm của củ lao. Nhìn bằng mắt thường, củ lao có dạng pho mát trắng mềm và được gọi là hoại tử bã đậu.
+Nếu vi khuẩn lao xâm nhập vào dòng máu và lan toả khắp cơ thể, chúng tạo vô số ổ nhiễm, với biểu hiện là các củ lao màu trắng ở mô. Trường hợp này được gọi là lao kê và có tiên lượng nặng.
+Ở nhiều bệnh nhân nhiễm khuẩn lúc tăng lúc giảm. Mô hoại tử xơ hoá, tạo sẹo và các khoang chứa chất hoại tử bã đậu. Trong giai đoạn bệnh hoạt động, một số khoang này thông với phế quản và chất hoại tử có thể bị ho ra ngoài, chứa vi khuẩn sống và lây nhiễm sang người khác.
+Điều trị với kháng sinh thích hợp có thể tiêu diệt được vi khuẩn và lành bệnh. Vùng bị ảnh hưởng được thay thế bằng mô sẹo.
+
+
+=== Tiến triển ===
+
+
+== Nghiên cứu ==
+Vắc xin BCG có những hạn chế do đó người ta đang nghiên cứu các loại vắc xin TB mới. Một số ứng viên protein hiện đã được thử nghiệm lâm sàng ở pha 1 và 2. Hai phương pháp chính đang được sử dụng là cố gắng cải thiện hiệu quả của các loại vắc xin có sẵn. Phương pháp thứ nhất liên quan đến việc thêm một tiểu đơn vị vắc xin bào BCG, trong khi phương pháp còn lại đang cố gắng tạo ra các loại vắc xin sống mới và tốt hơn.MVA85A, là một loại vắc xin ví dụ cho trường hợp đầu, hiện đang trong vòng thử nghiệm tại Nam Phi, dựa trên một loại vi-rút vaccinia bị biến đổi gen. Các vắc xin được hy vọng là có vai trò quan trọng trong việc điều trị cả giai đoạn ủ và phát bệnh.
+Để khuyến khích các nghiên cứu đi xa hơn, các nhà nghiên cứu và nhà làm chính sách đang thúc đẩu những mô hình kinh tế mới trong việc phát triển vắc xin, như các giải thưởng, ưu đãi về thuế, và các cam kết thị trường. Một số tập đoàn, bao gồm Stop TB Partnership, Tuberculosis Vaccine Initiative Nam Phi, và Aeras Global TB Vaccine Foundation, đã tham gia nghiên cứu. Trong số này, Aeras Global TB Vaccine Foundation đã nhận được một phần thưởng trị giá hơn 280 triệu đô-la từ Bill and Melinda Gates Foundation để phát triển và cấp giấy phép cho một loại vắc xin cải tiến ngừa bệnh lao được sử dụng ở những quốc gia có gánh nặng cao.
+
+
+== Bệnh lao ở Việt Nam ==
+25 năm trước Việt Nam có khoảng gần 600 người mỗi 100 ngàn, hiện tại ít hơn 200 người. Theo con số của chính quyền 90% những ca bình thường sẽ khỏi bệnh, trường hợp vi khuẩn lờn thuốc 75% khỏi bệnh so với 50% trên toàn thế giới. Mỗi năm chính phủ bỏ ra khoảng $26 triệu, trong con số đó, 19 triệu tới từ tiền quyên được ở ngoại quốc, 1/3 là từ Hoa Kỳ.
+Theo bác sĩ Mario C. Raviglione, giám đốc chương trình lao toàn cầu của W.H.O., thành công của Việt Nam không chỉ vì tiền quyên được, mà vì đó là một quốc gia cộng sản, họ bỏ nhiều công sức cho y tế cộng đồng, có nhiều bác sĩ và nhiều bệnh viện, và khi chính quyền trung ương muốn làm gì họ làm thực sự. Theo báo cáo mỗi bệnh nhân mỗi ngày uống thuốc trước mặt một y tá và có ghi lại vào thẻ. Chỉ có vấn đề đối với các bệnh nhân cứng đầu, không có luật để giam họ lại. Hầu như các bệnh nhân bình thường sau khi dùng thuốc trong 6 tháng sẽ lành bệnh.
+Đối với bệnh nhân do vi khuẩn lờn thuốc, phải dùng thuốc trong 2 năm, một số thuốc phải chích. Thuốc có thể làm điếc tai, bệnh tâm thần hay hư thận. Bệnh nhân phải nằm nhà thương, hạn chế lại, thỉnh thoảng hàng tháng cho tới khi họ không còn ho ra vi khuẩn.
+
+
+== Ở các động vật khác ==
+Mycobacteria lây nhiễm lên nhiều động vật khác, bao gồm cả chim, động vật gặm nhấm, và bò sát. Phân loài của loài Mycobacterium tuberculosis, dường như iếm khí
+có mặt trên các loài động vật hoang dã. Một nỗ lực để diệt trừ bệnh lao bò do Mycobacterium bovis trên các đàn gia súc và nai của New Zealand đã tương đối thành công. Những nỗ lực như thế ở Anh thì ít thành công hơn.
+
+
+== Xem thêm ==
+Robert Koch
+Ngày Thế giới phòng chống lao, là ngày 24 tháng 3 mỗi năm
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Chuyên trang Lao của WHO
+Chuyên trang Lao của Viện Thông tin Thư viện Y học Trung ương, Bộ Y tế Việt Nam

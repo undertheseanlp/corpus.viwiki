@@ -1,0 +1,9 @@
+Các chất nghịch từ là các chất không có mômem từ(tổng vecto từ quỹ đạo và từ spin của toàn bộ điện tử bằng 0). Khi đặt vào từ trường ngoài trong các phân tử sẽ xuất hiện dòng điện phụ và tạo ra từ trường phụ ngược chiều từ trường ngoài.
+Do đó độ thẩm điện môi của môi trường μ<1, độ từ cảm χ<0. Các chất nhóm này là các khí hiếm như: I, He, Ne, Ar, Kr,...và các ion có các lớp electron giống khí hiếm. Nhiều kim loại như: Bi, Zn, Ag, Cu, H20, Pb, NaCl, SiO2, S, C.
+
+
+== Xem thêm ==
+Thuận từ
+
+
+== Tham khảo ==

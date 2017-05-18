@@ -1,0 +1,40 @@
+Krypton là một nguyên tố hóa học có ký hiệu Kr và số nguyên tử bằng 36. Là một khí hiếm không màu, krypton có mặt trong khí quyển Trái Đất dưới dạng dấu vết và được cô lập bằng cách chưng cất phân đoạn không khí lỏng, và nó thường được sử dụng cùng các khí hiếm khác trong các đèn huỳnh quang. Krypton là trơ trong phần lớn các ứng dụng thực tế nhưng người ta đã biết rằng nó tạo ra hợp chất với flo. Krypton cũng có thể tạo ra các mắt lưới với nước khi các nguyên tử của nó bị mắc kẹt lại trong lưới các phân tử nước.
+
+
+== Đặc trưng nổi bật ==
+Krypton, trước đây được gọi là một khí trơ do có độ hoạt động hóa học rất yếu, được đặc trưng bởi quang phổ màu xanh lục và da cam rực rỡ. Nó là một trong các sản phẩm phân rã hạt nhân của urani. Krypton ở dạng rắn là chất kết tinh màu trắng với cấu trúc tinh thể là hình lập phương tâm mặt, đây cũng là tính chất chung của mọi "khí hiếm".
+
+
+== Lịch sử ==
+Krypton (tiếng Hy Lạp kryptos có nghĩa là "ẩn") được William Ramsay và Morris Travers phát hiện năm 1898 trong phần còn lại của không khí lỏng khi cho bay hơi gần hết mọi thành phần. Neon được phát hiện bằng cách tương tự trong cùng một công trình chỉ vài tuần sau đó. William Ramsay được trao giải Nobel hóa học năm 1904 vì phát hiện ra các nguyên tố thuộc nhóm khí hiếm. Năm 1960 một thỏa thuận quốc tế đã xác định độ dài của mét theo thuật ngữ của bước sóng ánh sáng phát ra từ một đồng vị của krypton. Thỏa thuận này đã thay thế cho mét tiêu chuẩn cũ được đặt ở Paris – là một thanh kim loại được làm từ hợp kim platin-iridi (mét cũ này được ước lượng bằng một phần mười triệu của một phần tư chu vi Trái Đất tính theo hai cực). Vào tháng 10 năm 1983 thì tiêu chuẩn krypton này cũng đã được Bureau International des Poids et Mesures (Ủy ban đo lường quốc tế) thay thế. Mét hiện nay được định nghĩa như là khoảng cách mà ánh sáng có thể vượt qua trong chân không trong 1/299.792.458 s.
+
+
+== Sự phổ biến ==
+Trái Đất lưu giữ tất cả khí hiếm kể từ khi nó có mặt lúc Trái Đất hình thành trừ heli. Nồng độ của khí này trong khí quyển Trái Đất là khoảng 1 ppm. Nó có thể tách ra từ không khí hóa lỏng bằng chưng cất phân đoạn. Lượng krypton trong không gian thì chưa chắc chắn và có nguồn gốc từ hoạt động của thiên thạch và từ gió Mặt Trời. Các đo đạc đầu tiên cho rằng krypton rất phong phú trong không gian.
+
+
+== Hợp chất ==
+Giống như các khí hiếm khác, krypton nói chung được coi là trơ về mặt hóa học. Tuy nhiên, các nghiên cứu từ năm 1962 trở đi đã khám phá ra một số hợp chất hóa học của krypton. Điflorua krypton đã được tạo ra với khối lượng tính bằng gam và có thể sản xuất bằng một số cách khác nhau. Các florua và muối khác của ôxôaxít krypton cũng đã được tìm thấy. Các phân tử-ion ArKr+ và KrH+ cũng đã được nghiên cứu và có chứng cứ cho thấy sự tồn tại của KrXe hay KrXe+.
+
+
+== Đồng vị ==
+Krypton nguồn gốc tự nhiên bao gồm 5 đồng vị ổn định và 1 đồng vị phóng xạ nhẹ. Vạch quang phổ của krypton dễ dàng được tạo ra với một số đường rất sắc nét. Kr81 là sản phẩm của các phản ứng trong khí quyển của các đồng vị nguồn gốc tự nhiên khác của krypton. Nó là đồng vị phóng xạ với chu kỳ bán rã 250.000 năm. Giống như xenon, krypton rất dễ bay hơi khi nó gần với nước bề mặt và vì thế Kr81 được sử dụng để xác định niên đại của nước ngầm cổ (50.000–800.000 năm). Kr85 là đồng vị phóng xạ với chu kỳ bán rã 10,76 năm, được tạo ra bằng các phản ứng phân rã hạt nhân của uran và pluton. Các nguồn tạo ra nó bao gồm các thử nghiệm bom nguyên tử, lò phản ứng hạt nhân và sự giải phóng Kr85 trong quá trình tái chế các thanh nhiên liệu từ các lò phản ứng hạt nhân. Người ta cũng ghi nhận là có sự chênh lệch về nồng độ của Kr85 ở Bắc cực và Nam cực là khoảng 30%. Ở Bắc cực nồng độ này cao hơn do một thực tế là phần lớn đồng vị này được tạo ra ở Bắc bán cầu và sự hòa trộn không khí giữa hai bán cầu diễn ra tương đối chậm.
+
+
+== Laser florua krypton ==
+
+Một trong các ứng dụng chính của krypton là laser florua krypton. Một lượng năng lượng nhất định được truyền vào để làm cho khí krypton phản ứng với khí flo để tạo ra florua krypton (KrF2).
+Hợp chất bị phân hủy ngay sau khi việc cung cấp năng lượng bị ngừng lại. Trong quá trình phân hủy, lượng năng lượng dư thừa được lưu trữ trong hợp chất sẽ được thoát ra dưới dạng năng lượng laser mạnh.
+
+
+== Linh tinh ==
+Hành tinh quê hương của nhân vật anh hùng "Superman" (siêu nhân) trong các sách báo và phim ảnh hoạt họa phổ biến được đặt tên theo nguyên tố này. Điểm yếu của Superman,loại đá "kryptonite", cũng là từ tên gọi của nguyên tố này.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Mục từ Krypton ở WebElements (vận tốc truyền âm trong krypton lỏng)
+Laser florua krypton
+Hóa điện toán Wiki

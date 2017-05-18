@@ -1,0 +1,72 @@
+Berili hoặc beri (theo sách giáo khoa hóa học phổ thông) là một nguyên tố hóa học trong bảng tuần hoàn có ký hiệu Be và số nguyên tử bằng 4, nguyên tử khối bằng 9. Là một nguyên tố hóa trị hai có độc tính, berili có màu xám như thép, cứng, nhẹ và giòn, và là kim loại kiềm thổ, được sử dụng chủ yếu như chất làm cứng trong các hợp kim (chủ yếu là berili đồng).
+
+
+== Các đặc trưng nổi bật ==
+Berili là một trong số các kim loại nhẹ có điểm nóng chảy cao nhất. Suất đàn hồi của berili là lớn hơn của thép khoảng 33%. Nó có độ dẫn nhiệt tốt, không nhiễm từ và kháng lại sự tấn công của axít nitric đậm đặc. Nó cho tia X đi qua, và các nơtron được giải phóng khi nó bị bắn phá bằng các hạt alpha từ các nguồn phóng xạ như radi hay poloni (khoảng 30 nơtron/triệu hạt alpha). Ở điều kiện nhiệt độ và áp suất tiêu chuẩn berili kháng lại sự ôxi hóa khi bị phơi ra trước không khí (mặc dù khả năng cào xước mặt kính của nó có được có lẽ là do sự tạo thành một lớp mỏng ôxít).
+
+
+== Ứng dụng ==
+Berili được sử dụng như là chất tạo hợp kim trong sản xuất berili đồng. (Be có khả năng hấp thụ một lượng nhiệt lớn) Các hợp kim berili-đồng được sử dụng rộng rãi trong nhiều ứng dụng do độ dẫn điện và độ dẫn nhiệt cao, sức bền và độ cứng cao, các thuộc tính không nhiễm từ, cùng với sự chống ăn mòn và khả năng chống mỏi tốt của chúng. Các ứng dụng bao gồm việc sản xuất các điện cực hàn điểm, lò xo, các thiết bị không đánh lửa và các tiếp điểm điện.
+Do độ cứng, nhẹ và độ ổn định về kích thước trên một khoảng rộng nhiệt độ nên các hợp kim berili-đồng được sử dụng trong công nghiệp quốc phòng và hàng không vũ trụ như là vật liệu cấu trúc nhẹ trong các thiết bị bay cao tốc độ, tên lửa, tàu vũ trụ và vệ tinh liên lạc viễn thông.
+Các tấm mỏng berili được sử dụng với các thiết bị phát hiện tia X để lọc bỏ ánh sáng và chỉ cho tia X đi qua để được phát hiện.
+Trong lĩnh vực in thạch bản tia X thì berili được dùng để tái tạo các mạch tích hợp siêu nhỏ.
+Do độ hấp thụ nơtron nhiệt trên thiết diện vuông của nó thấp nên công nghiệp sản xuất năng lượng hạt nhân sử dụng kim loại này trong các lò phản ứng hạt nhân như là thiết bị phản xạ và điều tiết nơtron.
+Berili được sử dụng trong các vũ khí hạt nhân vì lý do tương tự. Ví dụ, khối lượng tới hạn của khối plutoni được giảm đi đáng kể nếu nó được bao bọc trong vỏ berili.
+Berili đôi khi được sử dụng trong các nguồn nơtron, trong đó berili được trộn lẫn với các chất bức xạ alpha như Po210, Ra226 hay Ac227.
+Berili cũng được dùng trong sản xuất các con quay hồi chuyển, các thiết bị máy tính khác nhau, lò xo đồng hồ và các thiết bị trong đó cần độ nhẹ, độ cứng và độ ổn định kích thước.
+Ôxít berili là có lợi trong nhiều ứng dụng cần độ dẫn nhiệt tốt cùng độ bền và độ cứng cao, với điểm nóng chảy cao, đồng thời lại có tác dụng như là một chất cách điện.
+Các hợp chất berili đã từng được sử dụng trong các ống đèn huỳnh quang, nhưng việc sử dụng này đã bị dừng lại do bệnh phổi do nhiễm berili trong số các công nhân sản xuất các ống này (xem dưới đây).
+Kính thiên văn vũ trụ James Webb (JWST) (Các chi tiết liên quan đến berili có từ NASA ở đây) sẽ có 18 phần lục giác làm từ berili trong các gương của nó. Do JWST sẽ tiếp xúc với nhiệt độ -240 °C (30 K) nên các gương phải làm bằng berili là vật liệu có khả năng chịu được nhiệt độ rất thấp này. Berili co lại và biến dạng ít hơn thủy tinh – và vì thế giữ được tính đồng nhất cao hơn trong các nhiệt độ như thế.
+
+
+== Lịch sử ==
+Tên gọi berili có nguồn gốc từ tiếng Hy Lạp beryllos tức berin. Đã có thời berili được nhắc đến như là glucinium (từ tiếng Hy Lạp glykys, ngọt), do vị ngọt của các muối của nó. Nguyên tố này được Louis Vauquelin phát hiện năm 1798 như là ôxít trong berin và trong ngọc lục bảo. Friedrich Wöhler và Antoine Alexandre Brutus Bussy, độc lập với nhau, đã cô lập được kim loại này năm 1828 bằng cách cho kali phản ứng với clorua berili.
+
+
+== Sự phổ biến ==
+Berili là thành phần thiết yếu trong số 100 trên khoảng 4000 khoáng chất đã biết, quan trọng nhất trong số đó là bertrandit (Be4Si2O7(OH)2), berin (Al2Be3Si6O18), chrysoberin (Al2BeO4) và phenakit (Be2SiO4). Các dạng quý hiếm của berin là ngọc aquamarin và ngọc lục bảo. Cùng với hiđrô, heli và liti, một lượng nhỏ berili cũng đã được tạo ra trong Vụ Nổ Lớn.
+Nguồn thương mại quan trọng nhất của berili và các hợp chất của nó là berin và bertrandit. Berili kim loại đã không có sẵn cho đến tận năm 1957. Hiện nay, phần lớn sản lượng của kim loại này được thực hiện bằng cách khử florua berili bằng magiê kim loại. Giá của các thỏi berili luyện trong chân không tại thị trường Hoa Kỳ là 338 USD trên một pound (hay 745 USD/kg) vào năm 2001. xem giá cả
+Cô lập
+BeF2 + Mg → MgF2 + Be
+
+
+== Đồng vị ==
+
+Trong số 10 đồng vị của berili thì chỉ có 9Be là ổn định.10Be nguồn gốc vũ trụ được tạo ra trong khí quyển Trái Đất nhờ sự phá vỡ hạt nhân ôxy và nitơ bởi các tia vũ trụ. Do berili có xu hướng tồn tại trong dung dịch có pH nhỏ hơn 5,5 (và phần lớn nước mưa có pH nhỏ hơn 5), nó sẽ đi vào trong dung dịch và được đưa tới mặt đất nhờ các trận mưa. Khi nước mưa trở thành kiềm hơn, Be sẽ thoát ra khỏi dung dịch.10Be nguồn gốc vũ trụ vì thế tích lũy trong lớp đất bề mặt, ở đây do chu kỳ bán rã tương đối lớn của nó (1,51 triệu năm) cho phép nó tồn tại lâu dài trước khi bị phân rã thành 10B.10Be và các sản phẩm con của nó được sử dụng để nghiên cứu xói mòn đất, sự hình thành đất từ regolit, sự phát triển và tiến hóa của các loại đất laterit, cũng như các thay đổi trong hoạt động của Mặt Trời và niên đại của các lõi băng.
+Một thực tế là 7Be và 8Be không ổn định có ý nghĩa vũ trụ học sâu sắc do nó có nghĩa là các nguyên tố nặng hơn berili không thể sinh ra trong các phản ứng nhiệt hạch trong Vụ Nổ Lớn. Ngoài ra, các mức năng lượng hạt nhân của 8Be là đủ để cacbon có thể được tạo ra trong các ngôi sao, vì thế làm cho sự sống trở thành có thể. (Xem Phương thức ba alpha và Tổng hợp hạt nhân trong Vụ Nổ Lớn).
+Đồng vị có thời gian tồn tại ngắn nhất đã biết của berili là 13Be nó phân rã theo bức xạ nơtron. Nó có chu kỳ bán rã 2,7 × 10−21 giây.6Be cũng có thời gian tồn tại rất ngắn với chu kỳ bán rã 5,0 × 10−21 giây.
+
+
+== Phòng ngừa ==
+
+Berili và các muối của nó là các chất có độc tính và có khả năng gây ung thư. Sự phơi nhiễm berili kinh niên sẽ sinh ra các bệnh phổi và các bệnh u hạt trong cơ thể. Bệnh liên quan đến phơi nhiễm berili cấp tính là viêm phổi do hóa chất đã được phát hiện lần đầu tiên ở châu Âu từ năm 1933 và tại Hoa Kỳ từ năm 1943. Các trường hợp bệnh liên quan đến phơi nhiễm kinh niên đã lần đầu tiên được miêu tả năm 1946 trong số các công nhân tại xí nghiệp sản xuất đèn huỳnh quang tại Massachusetts. Bệnh phổi do phơi nhiễm berili kinh niên tương tự như sarcoidosis trong nhiều khía cạnh, và các chẩn đoán thường là rất khó phân biệt.
+Mặc dù việc sử dụng các hợp chất chứa berili trong các ống đèn huỳnh quang đã bị dừng lại từ năm 1949, nhưng tiềm năng phơi nhiễm berili vẫn tồn tại trong công nghiệp hạt nhân và vũ trụ và trong công nghiệp tinh luyện berili kim loại và sản xuất các hợp kim chứa berili, sản xuất các thiết bị điện và việc tiếp xúc với các vật liệu chứa berili khác.
+Các nhà nghiên cứu đầu tiên đã nếm berili và nhiều hợp chất khác nhau của nó để xác định độ ngọt nhằm kiểm tra sự hiện diện của nó. Các thiết bị chẩn đoán hiện đại không cần phải có thủ tục đầy nguy hiểm này. Berili và các hợp chất của nó cần được tiếp xúc với một sự cẩn thận cao độ và các phòng ngừa đặc biệt phải được thực thi khi thực hiện bất kỳ một hoạt động nào mà kết quả là tạo ra bụi berili (ung thư phổi là hoàn toàn có khả năng khi bị phơi nhiễm bụi berili lâu dài).
+
+
+== Các tác động tới sức khỏe ==
+Berili có thể có tác hại nếu hít thở phải. Các tác động phụ thuộc vào thời gian phơi nhiễm. Nếu nồng độ berili trong không khí là đủ cao (lớn hơn 1.000 μg/m³), thì các chứng bệnh do phơi nhiễm cấp tính có thể phát sinh, gọi là "bệnh berili cấp tính", tương tự như bệnh viêm phổi. Các tiêu chuẩn về không khí nghề nghiệp và cộng đồng là có hiệu quả trong việc ngăn chặn phần lớn các thương tổn phổi cấp tính.
+Một số người (1-15%) rất nhạy cảm với berili. Các cá nhân này có thể phát sinh các phản ứng viêm nhiễm trong hệ hô hấp. Các chứng bệnh này gọi là "bệnh berili kinh niên" (CBD), và có thể xảy ra nhiều năm sau khi phơi nhiễm berili nồng độ cao (lớn hơn 0,2 μg/m³). Bệnh này có thể sinh ra các triệu chứng như mệt mỏi, suy yếu, khó thở, biếng ăn, giảm cân và cũng có thể dẫn đến chứng to tim vè bên phải và bệnh tim trong các trường hợp nặng. Một số người tuy nhạy cảm với berili nhưng có thể không có bất kỳ triệu chứng nào. Trong cộng đồng nói chung không có khả năng phát sinh các bệnh berili cấp tính hay kinh niên do thông thường không khí xung quanh có nồng độ berili rất thấp (0,00003-0,0002 μg/m&³).
+Việc nuốt phải berili vẫn chưa có thông báo nào cho thấy có các tác động xấu tới sức khỏe con người do có rất ít berili được hấp thụ thông qua dạ dày và ruột non. Các vết loét được phát hiện trong cơ thể chó khi trong khẩu phần ăn người ta cho thêm berili vào. Berili tiếp xúc với da bị xước hay bị rách có thể sinh ra các vết phát ban hay vết loét.
+Phơi nhiễm berili kinh niên có thể tăng khả năng ung thư phổi.
+Bộ y tế Hoa Kỳ và IARC đã xác định rằng berili là chất gây ung thư ở người. Cơ quan bảo vệ môi trường (EPA) Hoa Kỳ cũng xác định berili là chất có khả năng gây ung thư ở người. EPA cũng ước tính sự phơi nhiễm trong thời gian sống 0,04 μg/m³ berili có thể tăng khả năng bị ung thư trong 1 trên 1.000 thử nghiệm.
+Hiện vẫn chưa có nghiên cứu nào về các tác động của berili tới sức khỏe của trẻ em. Có lẽ các tác động này cũng tương tự như ở người lớn. Cũng chưa rõ là trẻ em sẽ khác với người lớn như thế nào trong tính nhạy cảm với berili.
+Hiện vẫn chưa rõ ràng là berili có khả năng sinh ra quái thai ở người hay không.
+Berili có thể được đo trong nước tiểu và máu. Lượng berili trong máu hay nước tiểu có thể không phản ánh đúng thời gian và số lượng phơi nhiễm. Nồng độ berili cũng có thể đo trong các mẫu thử phổi và da.
+Một thử nghiệm máu khác là thử nghiệm sự gia tăng lympho berili trong máu (BeLPT), xác định sự nhạy cảm berili và có giá trị dự báo cho các bệnh phơi nhiễm berili kinh niên (CBD).
+Các mức thông thường của berili mà các ngành công nghiệp liên quan thải ra khí quyển ở ngưỡng 0,01 μg/m³;, tính trung bình trong chu kỳ 30 ngày, hay 2 μg/m³ đối với không khí trong phòng làm việc trong thời gian 8 giờ làm việc.
+
+
+== Tham khảo ==
+Phòng thí nghiệm quốc gia Los Alamos, Hoa Kỳ-Berili
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Hóa điện toán Wiki
+It's Elemental – Berili
+IARC Chuyên khảo "Berili và các hợp chất của berili"
+NPI - Berili và các hợp chất
+WebElements.com – Berili

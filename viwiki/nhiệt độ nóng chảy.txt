@@ -1,0 +1,18 @@
+Nhiệt độ nóng chảy hay điểm nóng chảy/nhiệt độ hóa lỏng của một chất rắn là nhiệt độ mà khi đạt tới ngưỡng đó thì quá trình nóng chảy xảy ra, tức là chất chuyển trạng thái từ rắn sang lỏng.
+Nhiệt độ của thay đổi ngược lại (tức là từ trạng thái lỏng sang trạng thái rắn) là nhiệt độ đông đặc hay điểm đông đặc. Thông thường điểm nóng chảy trùng với điểm đông đặc.
+Không giống như điểm sôi, điểm nóng chảy là tương đối không nhạy cảm với áp suất.
+Có một số chất, như thủy tinh, có thể làm cứng lại không qua giai đoạn kết tinh được gọi là chất rắn vô định hình. Các chất rắn vô định hình không có điểm nóng chảy cố định.
+
+
+== Ví dụ ==
+Điểm nóng chảy của nguyên tố thủy ngân là 234,32 K (−38.83 °C hay −37.89 °F). Chất có điểm nóng chảy (dưới áp suất khí quyển) cao nhất hiện nay được biết là than chì (hay còn gọi là graphit), có điểm nóng chảy 3.948 K. Heli có điểm nóng chảy ở nhiệt độ 0.95 K.
+
+
+== Xem thêm ==
+Các pha của vật chất
+Điểm sôi
+Điểm ba trạng thái
+Sự suy giảm điểm đóng băng
+
+
+== Tham khảo ==

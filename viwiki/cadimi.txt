@@ -1,0 +1,57 @@
+Cadimi là nguyên tố hóa học trong bảng tuần hoàn các nguyên tố có ký hiệu Cd và số nguyên tử bằng 48. Là một kim loại chuyển tiếp tương đối hiếm, mềm, màu trắng ánh xanh và có độc tính, cadimi tồn tại trong các quặng kẽm và được sử dụng chủ yếu trong các loại pin.
+
+
+== Các đặc tính nổi bật ==
+Cadimi là kim loại mềm, dẻo, dễ uốn, màu trắng ánh xanh, có hóa trị 2, rất dễ cắt bằng dao. Nó tương tự về nhiều phương diện như kẽm nhưng có xu hướng tạo ra các hợp chất phức tạp hơn.
+Trạng thái ôxi hóa phổ biến nhất của cadimi là +2, nhưng có thể tìm thấy các hợp chất mà nó có hóa trị +1.
+
+
+== Ứng dụng ==
+Khoảng 3/4 cadimi sản xuất ra được sử dụng trong các loại pin (đặc biệt là pin Ni-Cd) và phần lớn trong 1/4 còn lại sử dụng chủ yếu trong các chất màu, lớp sơn phủ, các tấm mạ kim và làm chất ổn định cho plastic. Các sử dụng khác bao gồm:
+Trong một số hợp kim có điểm nóng chảy thấp.
+Trong các hợp kim làm vòng bi hay gối đỡ do có hệ số ma sát thấp và khả năng chịu mỏi cao.
+6% cadimi sử dụng trong mạ điện.
+Nhiều loại que hàn chứa kim loại này.
+Lưới kiểm soát trong các lò phản ứng hạt nhân.
+Các hợp chất chứa cadimi được sử dụng trong các ống hình của ti vi đen trắng hay ti vi màu (phốt pho đen, trắng, lam và lục).
+Cadimi tạo ra nhiều loại muối, trong đó sulfua cadimi là phổ biến nhất. Sulfua này được sử dụng trong thuốc màu vàng.
+Một số vật liệu bán dẫn như sulfua cadimi, selenua cadimi và telurua cadimi thì nó dùng trong các thiết bị phát hiện ánh sáng hay pin mặt trời. HgCdTe nhạy cảm với tia hồng ngoại.
+Một số hợp chất của cadimi sử dụng trong PVC làm chất ổn định.
+Sử dụng trong thiết bị phát hiện nơtrino đầu tiên.
+
+
+== Lịch sử ==
+
+Cadimi (tiếng Latinh: cadimia, tiếng Hy Lạp: kadmeia có nghĩa là "calamin") được phát hiện bởi Friedrich Strohmeyer tại Đức năm 1817. Strohmeyer đã tìm thấy nguyên tố mới trong tạp chất của cacbonat kẽm (calamin) và trong khoảng 100 năm sau đó thì Đức là nước sản xuất lớn duy nhất của kim loại này. Kim loại này được đặt tên theo từ Latinh để chỉ calamin do nó được tìm thấy trong quặng chứa hợp chất này của kẽm. Strohmeyer thông báo rằng một số mẫu quặng chứa tạp chất của calamin bị đổi màu khi nung nóng nhưng calamin tinh chất thì không.
+Mặc dù cadimi và các hợp chất của nó có độc tính cao, nhưng British Pharmaceutical Codex (BPC) từ năm 1907 đã thông báo rằng iốtua cadimi được sử dụng làm thuốc trong y tế để điều trị các bệnh "khớp, tràng nhạc và cước".
+Năm 1927, SI đã định nghĩa lại mét theo vạch quang phổ đỏ của cadimi (1m = 1.553.164,13 bước sóng). Định nghĩa này sau đó đã được thay thế (xem krypton).
+
+
+== Phổ biến ==
+
+Các quặng chứa cadimi rất hiếm và khi phát hiện thấy thì chúng chỉ có một lượng rất nhỏ. Greenockit (CdS), là khoáng chất duy nhất của cadimi có tầm quan trọng, gần như thường xuyên liên kết với sphalerit (ZnS). Do vậy, cadimi được sản xuất chủ yếu như là phụ phẩm từ việc khai thác, nấu chảy và tinh luyện các quặng sulfua kẽm, và ở mức độ thấp hơn là từ quặng chì và đồng. Một lượng nhỏ cadimi, khoảng 10% mức tiêu thụ, được sản xuất từ các nguồn thứ cấp, chủ yếu từ bụi sinh ra khi tái chế phế thải sắt và thép. Việc sản xuất tại Mỹ bắt đầu từ năm 1907 nhưng cadimi đã không được sử dụng rộng rãi cho đến tận sau khi Đại chiến thế giới 1 kết thúc.
+
+
+== Đồng vị ==
+Cadimi nguồn gốc tự nhiên là hỗn hợp của 6 đồng vị ổn định. 27 đồng vị phóng xạ đã được phát hiện với ổn định nhất là Cd113 có chu kỳ bán rã là 7,7 triệu tỷ năm, Cd109 có chu kỳ bán rã 462,6 ngày, và Cd115 có chu kỳ bán rã 53,46 giờ. Tất cả các đồng vị phóng xạ còn lại có chu kỳ bán rã nhỏ hơn 2,5 giờ và phần lớn trong chúng có chu kỳ bán rã nhỏ hơn 5 phút. Nguyên tố này có 8 trạng thái đồng phân với ổn định nhất là Cd113m (t½ 14,1 năm), Cd115m (t½ 44,6 ngày) và Cd117m (t½ 3,36 giờ).
+Các đồng vị cadimi có nguyên tử lượng từ 96,935 amu (Cd97) tới 129,934 amu (Cd130). Phương thức phóng xạ chủ yếu trước khi có đồng vị ổn định phổ biến thứ hai (Cd112) là bắt điện tử và phương thức chủ yếu sau khi có nó là bức xạ beta. Sản phẩm phân rã chủ yếu trước Cd112 là nguyên tố số 47 (Ag) và sản phẩm chủ yếu sau khi có Cd112 là nguyên tố 49 (indi).
+
+
+== Phòng ngừa ==
+Cadimi là một trong rất ít nguyên tố không có ích lợi gì cho cơ thể con người. Nguyên tố này và các dung dịch các hợp chất của nó là những chất cực độc thậm chí chỉ với nồng độ thấp, và chúng sẽ tích lũy sinh học trong cơ thể cũng như trong các hệ sinh thái. Một trong những lý do có khả năng nhất cho độc tính của chúng là chúng can thiệp vào các phản ứng của các enzime chứa kẽm. Kẽm là một nguyên tố quan trọng trong các hệ sinh học, nhưng cadimi, mặc dù rất giống với kẽm về phương diện hóa học, nói chung dường như không thể thay thể cho kẽm trong các vai trò sinh học đó. Cadimi cũng có thể can thiệp vào các quá trình sinh học có chứa magiê và canxi theo cách thức tương tự.
+Hít thở phải bụi có chứa cadimi nhanh chóng dẫn đến các vấn đề đối với hệ hô hấp và thận, có thể dẫn đến tử vong (thông thường là do hỏng thận). Nuốt phải một lượng nhỏ cadimi có thể phát sinh ngộ độc tức thì và tổn thương gan và thận. Các hợp chất chứa cadimi cũng là các chất gây ung thư. Ngộ độc cadimi là nguyên nhân của bệnh itai-itai, tức "đau đau" trong tiếng Nhật. Ngoài tổn thương thận, người bệnh còn chịu các chứng loãng xương và nhuyễn xương.
+Khi làm việc với cadimi một điều quan trọng là phải sử dụng tủ chống khói trong các phòng thí nghiệm để bảo vệ chống lại các khói nguy hiểm. Khi sử dụng các que hàn bạc (có chứa cadimi) cần phải rất cẩn thận. Các vấn đề ngộ độc nghiêm trọng có thể sinh ra từ phơi nhiễm lâu dài cadimi từ các bể mạ điện bằng cadimi.
+Xem thêm: Ngộ độc cadimi
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+Tiếng Anh
+Phòng thí nghiệm quốc gia Mỹ Los Alamos – Cadimi
+
+
+== Liên kết ngoài ==
+ Phương tiện liên quan tới Cadimium tại Wikimedia Commons
+WebElements.com – Cadimi

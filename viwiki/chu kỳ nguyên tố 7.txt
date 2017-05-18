@@ -1,0 +1,4 @@
+Chu kỳ nguyên tố 7 là hàng thứ 7 trong bảng tuần hoàn (tiêu chuẩn), giống chu kỳ 6 nó có 32 nguyên tố: 8 trong nhóm chính, 10 ở nhóm phụ và 14 nguyên tố trong nhóm Actini. Đây là nhóm đang được xây dựng dang dở với các nguyên tố chưa có tên chính thức là ununtri, ununquadi, ununpenti, ununhexi, ununsepti và ununocti.
+
+
+== Tham khảo ==

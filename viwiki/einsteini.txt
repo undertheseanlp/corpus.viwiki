@@ -1,0 +1,345 @@
+Einsteini là một nguyên tố kim loại tổng hợp, có ký hiệu Es và số nguyên tử 99 thuộc nhóm actini. Đây là nguyên tố siêu urani thứ 7. Tên của nó được đặt theo tên nhà khoa học Albert Einstein.
+Vị trí của nó trong bảng tuần hoàn cũng thể hiện tính chất hóa học và vật lý của nó tương tự các nguyên tố kim loại khác trong nhóm. Mặc dù chỉ một số ít được tạo ra nhưng nó được xác định là có màu bạc. Theo các nghiên cứu vết được thực hiện ở Phòng thí nghiệm quốc gia Los Alamos (Los Alamos National Laboratory) sử dụng đồng vị 253Es, nguyên tố này có tính chất hóa học đặc trưng của hóa trị 3. Giống với tất cả các nguyên tố tổng hợp, các đồng vị của einsteini có độ phóng xạ rất mạnh và độc tính cao.
+
+
+== Lịch sử ==
+Einsteini được Albert Ghiorso và cộng sự phát hiện đầu tiên tháng 12 năm 1952 tại Đại học California tại Berkeley, trong khi học đang kiểm tra các mảnh vỡ từ thí nghiệm bom hydro đầu tiên, diễn ra ngày 1 tháng 11 năm 1952. Họ phát hiện ra đồng vị 253Es (có chu kỳ bán rã 20,5 ngày) khi hạt nhân uranium 238 hấp thu 15 neutron – và sau đó trải qua 7 lần phân rã beta liên tục.
+
+  
+    
+      
+        
+          
+            
+            
+               
+              92
+            
+            
+              238
+            
+          
+          U
+           
+          
+            
+              →
+              
+                +
+                 
+                15
+                n
+              
+            
+          
+          
+             
+            
+               
+              92
+            
+            
+              253
+            
+          
+          U
+           
+          
+            
+              →
+              
+                
+                  β
+                  
+                    −
+                  
+                
+              
+            
+          
+          
+             
+            
+               
+              93
+            
+            
+              253
+            
+          
+          N
+          p
+           
+          
+            
+              →
+              
+                
+                  β
+                  
+                    −
+                  
+                
+              
+            
+          
+          
+             
+            
+               
+              94
+            
+            
+              253
+            
+          
+          P
+          u
+           
+          
+            
+              →
+              
+                
+                  β
+                  
+                    −
+                  
+                
+              
+            
+          
+          
+             
+            
+               
+              95
+            
+            
+              253
+            
+          
+          A
+          m
+           
+          
+            
+              →
+              
+                
+                  β
+                  
+                    −
+                  
+                
+              
+            
+          
+          
+             
+            
+               
+              96
+            
+            
+              253
+            
+          
+          C
+          m
+           
+          
+            
+              →
+              
+                
+                  β
+                  
+                    −
+                  
+                
+              
+            
+          
+          
+             
+            
+               
+              97
+            
+            
+              253
+            
+          
+          B
+          k
+           
+          
+            
+              →
+              
+                
+                  β
+                  
+                    −
+                  
+                
+              
+            
+          
+          
+             
+            
+               
+              98
+            
+            
+              253
+            
+          
+          C
+          f
+           
+          
+            
+              →
+              
+                
+                  β
+                  
+                    −
+                  
+                
+              
+            
+          
+          
+             
+            
+               
+              99
+            
+            
+              253
+            
+          
+          E
+          s
+        
+      
+    
+    {\displaystyle \mathrm {^{238}_{\ 92}U\ {\xrightarrow {+\ 15n}}\ _{\ 92}^{253}U\ {\xrightarrow {\beta ^{-}}}\ _{\ 93}^{253}Np\ {\xrightarrow {\beta ^{-}}}\ _{\ 94}^{253}Pu\ {\xrightarrow {\beta ^{-}}}\ _{\ 95}^{253}Am\ {\xrightarrow {\beta ^{-}}}\ _{\ 96}^{253}Cm\ {\xrightarrow {\beta ^{-}}}\ _{\ 97}^{253}Bk\ {\xrightarrow {\beta ^{-}}}\ _{\ 98}^{253}Cf\ {\xrightarrow {\beta ^{-}}}\ _{\ 99}^{253}Es} }
+  
+Các phát hiện này được giữ bí mật cho đến năm 1955 do sự căng thẳng của chiến tranh lạnh. Tuy nhiên, một vài nguyên tử 238U có thể hấp thu một lượng neutron lớn hơn (hầu hết là 16 hoặc 17):
+
+  
+    
+      
+        
+          
+            
+            
+               
+              92
+            
+            
+              238
+            
+          
+          U
+           
+          
+            
+              →
+              
+                
+                  −
+                  7
+                   
+                  
+                    β
+                    
+                      −
+                    
+                  
+                
+              
+              
+                +
+                 
+                15
+                ,
+                 
+                16
+                ,
+                 
+                17
+                 
+                (
+                n
+                ,
+                γ
+                )
+              
+            
+          
+          
+             
+            
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+              99
+            
+            
+              253
+              ,
+               
+              254
+              ,
+               
+              255
+            
+          
+          E
+          s
+        
+      
+    
+    {\displaystyle \mathrm {^{238}_{\ 92}U\ {\xrightarrow[{-7\ \beta ^{-}}]{+\ 15,\ 16,\ 17\ (n,\gamma )}}\ _{\ \ \ \ \ \ \ \ \ \ \ 99}^{253,\ 254,\ 255}Es} }
+  
+Các đồng vị của einsteini được tạo ra gần sau đó tại phòng thí nghiệm phóng xạ Đại học California (University of California Radiation Laboratory) trong một phản ứng phân hạch giữa hạt nhân nitơ-14 và urani-238. và sau đó là bởi bức xạ neutron cực mạnh của plutoni trong lò phản ứng thử nghiệm vật liệu (Materials Testing Reactor).
+Năm 1961, một lượng einsteini được tổng hợp vừa đủ để tạo một mẫu nhỏ 253Es. Mẫu này nặng khoảng 10 microgram, và nó được cân nặng bằng cách cân bằng đặc biệt.
+Bên cạnh ứng dụng trong nghiên cứu khoa học (như bước trung gian để tạo ra các nguyên tố khác), einsteini không có ứng dụng khác.
+
+
+== Các hợp chất ==
+Danh sách sau đây là các hợp chất được biết đến của einsteini:
+EsBr3 einsteini(III) bromua
+EsCl2 einsteini(II) clorua
+EsCl3 einsteini(III) clorua
+EsF3 einsteini(III) florua
+EsI2 einsteini(II) iốtua
+EsI3 einsteini(III) iốtua
+Es2O3 einsteini(III) ôxít
+
+
+== Tham khảo ==
+
+
+== Tài liệu ==
+Stwertka, Albert (1996). A Guide to the Elements. Oxford Oxfordshire: Oxford University Press. ISBN 0195080831. 
+
+
+== Liên kết ngoài ==
+It's Elemental - The Element Einsteinium
+WebElements.com - Einsteinium
+Albert Ghiorso about the discovery

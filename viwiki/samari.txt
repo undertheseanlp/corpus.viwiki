@@ -1,0 +1,75 @@
+Samari (tên La tinh: Samarium) là một nguyên tố hóa học có ký hiệu Sm và số nguyên tử bằng 62.
+
+
+== Đặc trưng ==
+Samari là một kim loại đất hiếm, với ánh trắng bạc sáng, ổn định vừa phải trong không khí; nó bắt lửa trong không khí ở 150 °C. Ngay cả khi được lưu trữ lâu trong dầu khoáng thì samari cũng dần dần bị ôxi hóa, với bột màu vàng ánh xám chứa ôxít-hydroxit được tạo ra. Ánh kim của mẫu vật có thể được bảo tồn bằng cách giữ nó trong môi trường khí trơ, như agon. Ba biến dạng tinh thể của kim loại này cũng tồn tại, với các biến đổi ở ngưỡng 734 và 922 °C.
+
+
+== Ứng dụng ==
+Các công dụng của samari bao gồm:
+Đèn hồ quang cacbon cho công nghiệp điện ảnh (cùng với các kim loại đất hiếm khác).
+Các tinh thể SmF2 để sử dụng trong laser.
+Như là chất hấp thụ nơtron trong các lò phản ứng hạt nhân.
+Tạo hợp kim.
+Làm nam châm cho các loại tai nghe.
+Các nam châm Samarium Côban (SmCo5 and Sm2Co17) được sử dụng làm vật liệu chế tạo nam châm vĩnh cửu do có độ kháng khử từ cao khi so với các vật liệu nam châm vĩnh cửu khác. Các vật liệu này có lực kháng từ cao và lực kháng từ nội tại. Các kết hợp samari-coban gần đây tìm thấy ứng dụng trong các đầu đọc từ chất lượng cao cho các ghi-ta và các nhạc cụ liên quan khác. Các nam châm này còn có ứng dụng trong các động cơ phản lực của máy bay do có nhiệt độ Curie cao hơn hẳn (1100oC) so với các loại nam châm khác, bao gồm cả nam châm Neodymi - Sắt - Bo (378oC) mạnh hơn.
+SmI2 được dùng làm tác nhân hóa học trong tổng hợp hữu cơ, chẳng hạn trong phản ứng Barbier.
+Ôxít samari được dùng trong thủy tinh quang học để hấp thụ hồng ngoại.
+Các hợp chất samari đóng vai trò của chất tăng nhạy cho các chất lân quang bị kích thích trong vùng hồng ngoại.
+Ôxít samari là chất xúc tác cho khử nước và khử hiđrô của etanol.
+Xác định niên đại bằng samari-neodymi là hữu ích trong xác định các mối liên hệ về niên đại của các loại đá và vẫn thạch.
+Samari-153 phóng xạ được dùng trong y học để điều trị các thương tổn nghiêm trọng gắn liền với ung thư lan truyền tới xương. Loại thuốc này được gọi là "Quadramet".
+
+
+== Lịch sử ==
+Về lịch sử phát hiện ra samari, trong các tài liệu tồn tại các thuyết như sau:
+Samari lần đầu tiên được nhà hóa học người Thụy Sĩ là Jean Charles Galissard de Marignac phát hiện bằng quang phổ học năm 1853 bằng các vạch hấp thụ sắc nét của nó trong didymi và được nhà hóa học người Pháp là Paul Émile Lecoq de Boisbaudran cô lập tại Paris năm 1879 từ khoáng vật samarskit ((Y,Ce,U,Fe)3(Nb,Ta,Ti)5O16). Trên thực tế nó là hỗn hợp của hai ôxít.
+Năm 1878 nhà hóa học Thụy Sĩ là Marc Delafontaine phát hiện ra samari bằng quang phổ của didymi, ông gọi nó là Decipum. Năm 1879, Paul Emile Lecoq de Boisbaudran đã phát hiện độc lập với Marc Delafontaine và gọi nó là samarium. Năm 1881, Delafontaine chỉ ra rằng decipum của ông trên thực tế chứa samarium của Boisbaudran cùng một vài nguyên tố khác.
+Phát hiện bằng quang phổ tại điểm 1 trên đây của Marignac năm 1853 cho tới năm 1878 được thực hiện bởi Paul Emile Lecoq de Boisbaudran.
+Mặc dù samarskit lần đầu tiên được tìm thấy trong khu vực dãy núi Ural của Nga vào năm 1847 nhưng tới cuối thập niên 1870 thì một mỏ mới chứa khoáng vật này đã được phát hiện tại Bắc Carolina và didymi chứa samari có nguồn gốc từ nguồn này. Khoáng vật samarskit được đặt tên vào năm 1847 theo họ của đại tá kiêm kỹ sư mỏ Vasili Samarsky-Bykhovets, tham mưu trưởng của quân đoàn kỹ sư mỏ Nga từ 1845 tới 1861 (theo đề nghị của nhà hóa học người Đức là Heinrich Rose do Vasili Samarsky-Bykhovets là người đã gửi mẫu khoáng vật này cho Heinrich Rose để nghiên cứu). Tên gọi của nguyên tố có nguồn gốc từ tên gọi của khoáng vật và vì thế nó liên quan tới họ Samarsky-Bykhovets. Theo ý nghĩa này và nếu điểm 1 trên đây là đúng thì samari là nguyên tố hóa học đầu tiên được đặt tên theo một người còn sống khi đó.
+Năm 1901, nhà hóa học người Pháp là Eugène Anatole Demarçay đã tìm ra phương thức tách riêng hai ôxít ra và năm 1903 nhà hóa học Đức là Wilhelm Muthmann đã tách được samari kim loại bằng điện phân.
+Trước khi phát minh ra phương pháp tách bằng công nghệ trao đổi ion trong thập niên 1950 thì samari đã không có ứng dụng thương mại nào ở dạng tinh chất. Tuy nhiên, phụ phẩm của quá trình tinh chế bằng kết tinh phân đoạn cho neodymi là hỗn hợp của samari và gadolini và được gọi là "Lindsay Mix" (hỗn hợp Lindsay) theo tên công ty sản xuất ra nó. Vật liệu này được cho là đã từng được sử dụng trong các thanh kiểm soát hạt nhân trong một số lò phản ứng hạt nhân thời kỳ đầu. Ngày nay, một sản phẩm tương tự có tên gọi "Samari-Europi-Gadolini" cô đặc (SEG cô đặc). Nó được điều chế bằng chiết dung môi từ các kim loại nhóm Lantan hỗn hợp tách ra từ bastnasit (hay monazit). Do các kim loại nhóm Lantan nặng hơn có ái lực lớn hơn đối với dung môi được sử dụng nên chúng dễ dàng tách ra từ hỗn hợp bằng cách chỉ sử dụng một lượng nhỏ dung môi. Không phải mọi nhà sản xuất đất hiếm đều chế biến bastnasit ở quy mô đủ lớn để có thể tiếp tục chia tách các thành phần của SEG, thông thường chỉ chiếm khoảng 1-2% khối lượng quặng ban đầu. Các nhà sản xuất như vậy vì thế sẽ tạo ra SEG với mục đích tiếp thị nó tới các nhà xử lý chuyên biệt. Theo cách này, hàm lượng europi có giá trị của quặng sẽ được thu hồi để sử dụng trong sản xuất chất lân quang. Việc tinh chế samari diễn ra sau khi loại bỏ europi. Hiện tại, do nguồn cung quá dư thừa nên ôxít samari ở quy mô thương mại là ít đắt tiền hơn so với mức giá được dự tính khi xét tới độ phổ biến tương đối ít của nó trong các loại quặng.
+
+
+== Phổ biến ==
+
+Samari không được tìm thấy ở dạng tự do trong tự nhiên, mà giống như các nguyên tố đất hiếm khác, nó nằm trong nhiều loại khoáng vật, như monazit, bastnasit và samarskit. Monazit (trong đó nó chiếm tới 2,8%) và bastnasit được sử dụng như là các nguồn thương mại. Misch metal chứa khoảng 1% samari cũng đã từng được sử dụng, nhưng chỉ thời gian gần đây thì samari tương đối tinh khiết mới được cô lập thông qua các quy trình kỹ thuật như trao đổi ion, chiết dung môi và kết tủa điện hóa học. Kim loại này thường được điều chế bằng điện phân hỗn hợp nóng chảy của clorua samari (III) với clorua natri hay clorua canxi. Samari cũng có thể thu được bằng khử ôxít của nó với lantan.
+
+
+== Hợp chất ==
+Các hợp chất của samari bao gồm:
+Các florua: SmF2, SmF3
+Các clorua: SmCl2, SmCl3
+Các bromua: SmBr2, SmBr3
+Các iodua: SmI2, SmI3
+Các ôxít: Sm2O3
+Các sulfua: Sm2S3
+Các selenua: Sm2Se3
+Các telurua: Sm2Te3
+Xem thêm Hợp chất samari.
+
+
+== Đồng vị ==
+
+Samari nguồn gốc tự nhiên là hỗn hợp của 4 đồng vị ổn định là Sm144, Sm150, Sm152 và Sm154 và 3 đồng vị phóng xạ có chu kỳ bán rã cực dài là Sm147Sm (1,06×1011 năm), Sm148 (7×1015 năm) và Sm149 (>2×1015 năm), với Sm152 là phổ biến nhất (chiếm khoảng 26,75% độ phổ biến tự nhiên).
+Sm151 có chu kỳ bán rã 90 năm, và Sm145 có chu kỳ bán rã 340 ngày. Tất cả các đồng vị phóng xạ còn lại có chu kỳ bán rã nhỏ hơn 2 ngày và phần lớn trong đó có chu kỳ bán rã ít hơn 48 giây. Nguyên tố này cũng có 5 trạng thái giả ổn định với ổn định nhất là Sm141m (t½ 22,6 phút), Sm143m1 (t½ 66 giây) và Sm139m (t½ 10,7 giây).
+Các đồng vị của samari nằm trong khoảng có nguyên tử lượng từ 127,9580854 u (Sm128) tới 164,9529897 u (Sm165). Phương thức phân rã chủ yếu trước đồng vị ổn định phổ biến nhất, Sm152, là bắt điện tử, còn phương thức phân rã chủ yếu sau nó là phân rã beta trừ. Sản phẩm phân rã chủ yếu trước Sm152 là các đồng vị của promethi (Pm) còn sản phẩm phân rã chủ yếu sau nó là các đồng vị của europi (Eu).
+Samari tự nhiên có độ phóng xạ 128 Bq/g.
+
+
+== Phòng ngừa ==
+Giống như các nguyên tố khác trong nhóm Lantan, các hợp chất của samari có độc tính từ nhẹ tới vừa phải, mặc dù độc tính của chúng vẫn chưa được nghiên cứu chi tiết.
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==
+Phòng thí nghiệm quốc gia Los Alamos – Samarium
+Centerwatch About drug Quadramet
+
+
+== Liên kết ngoài ==
+WebElements.com – Samarium
+It's Elemental – Samarium
+Reducing Agents > Samarium low valent

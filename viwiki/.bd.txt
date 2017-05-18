@@ -1,0 +1,8 @@
+.Bd là tên miền Internet quốc gia (ccTLD) dành cho Bangladesh. Nó được quản lý bởi Bộ Bưu điện & Viễn thông Bangladesh. Phải đăng ký ở cấp 3 dưới vài tên miền cấp 2 (.com.bd, .edu.bd, .net.bd, .gov.bd, .org.bd, và .mil.bd), theo các gTLD đầu tiên; có thể đăng ký dưới bất kỳ tên miền nào trừ.gov.bd và.mil.bd, hai tên miền đó dành cho các tổ chức trong chính phủ và quân đội Bangladesh.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Thông tin whois của.bd từ IANA (tiếng Anh)

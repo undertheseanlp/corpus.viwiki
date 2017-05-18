@@ -1,0 +1,31 @@
+Thuli là nguyên tố hóa học có ký hiệu Tm và số nguyên tử 69. Thuli là nguyên tố ít phổ biến nhất của nhóm Lantan nhưng nó ít được tìm thấy ở dạng tự nhiên trên Trái Đất. Nó là một kim loại dễ gia công với một tập hợp xám bạc sáng. Do giá cao và hiếm, thuli được dùng làm nguồn bức xạ trong các thiết bị tia X cầm tay và trong laser rắn.
+
+
+== Tính chất ==
+
+
+=== Tính chất vật lý ===
+Kim loại thuli nguyên chất có màu bạc, sáng. Nó ổn định trong không khí, nhưng cần được bảo quản tránh ẩm. Kim loại mềm, dễ uốn. Thuli có tính sắt từ ở dưới 32 K, phản sắt từ giữa 32 và 56 K và thuận từ trên 56 K.
+
+
+=== Tính chất hóa học ===
+Thuli kim loại xỉn chậm trong không khí và dễ cháy ở 150 °C tạo ra thuli(III) ôxit:
+4 Tm + 3 O2 → 2 Tm2O3
+Thuli có khả năng nhường điện tử và phản ứng với chậm với nước lạnh, và nhanh với nước nóng tạo thành thuli hydroxit:
+2 Tm (r) + 6 H2O (l) → 2 Tm(OH)3 (dd) + 3 H2 (k)
+Thuli phản ứng với tất cả halogen. Các phả ứng diễn ra chậm ở nhiệt độ phòng, nhưng mạnh mẽ ở nhiệt độ trên 200 °C:
+2 Tm (r) + 3 F2 (k) → 2 TmF3 (r) [trắng]
+2 Tm (r) + 3 Cl2 (k) → 2 TmCl3 (r) [vàng]
+2 Tm (r) + 3 Br2 (k) → 2 TmBr3 (r) [trắng]
+2 Tm (r) + 3 I2 (k) → 2 TmI3 (r) [vàng]
+Thuli dễ hòa tan trong axit slfuric loãng tạo thành dung dịch chứa các ion Tm(III) lục nhạt, ở dạng phức [Tm(OH2)9]3+:
+2 Tm (r) + 3 H2SO4 (dd) → 2 Tm3+ (dd) + 3 SO42 (dd) + 3 H2 (k)
+Thuli phản ứng với các nguyên tố kim loại và không kim loại khác nhau tạo thành các hợp chất hai thành phần, như TmN, TmS, TmC2, Tm2C3, TmH2, TmH3, TmSi2, TmGe3, TmB4, TmB6 và TmB12. Trong các hợp chất này, thuli thể hiện số ôxy hóa +2, +3 và +4, tuy nhiên trạng thái +3 là phổ biến nhất và chỉ có trạng thái này đã được quan sát trong các dung dịch Tm.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+WebElements.com – Thulium (also used as a reference)
+It's Elemental – Thulium

@@ -1,0 +1,49 @@
+Nước biển là nước từ các biển hay đại dương. Về trung bình, nước biển của các đại dương trên thế giới có độ mặn khoảng 3,5%. Điều này có nghĩa là cứ mỗi lít (1.000 mL) nước biển chứa khoảng 35 gam muối, phần lớn (nhưng không phải toàn bộ) là clorua natri (NaCl) hòa tan trong đó dưới dạng các ion Na+ và Cl-. Nó có thể được biểu diễn như là 0,6 M NaCl. Nước với mức độ thẩm thấu như thế tất nhiên không thể uống được.
+
+
+== Độ mặn và các tính chất khác của nước biển ==
+
+Nước biển có độ mặn không đồng đều trên toàn thế giới mặc dù phần lớn có độ mặn nằm trong khoảng từ 3,1% tới 3,8%. Khi sự pha trộn với nước ngọt đổ ra từ các con sông hay gần các sông băng đang tan chảy thì nước biển nhạt hơn một cách đáng kể. Nước biển nhạt nhất có tại vịnh Phần Lan, một phần của biển Baltic. Biển hở mặn nhất (nồng độ muối cao nhất) là biển Đỏ (Hồng Hải), do nhiệt độ cao và sự tuần hoàn bị hạn chế đã tạo ra tỷ lệ bốc hơi cao của nước bề mặt cũng như có rất ít nước ngọt từ các cửa sông đổ vào và lượng giáng thủy nhỏ. Độ mặn cao nhất của nước biển trong các biển cô lập (biển kín) như biển Chết cao hơn một cách đáng kể.
+Tỷ trọng của nước biển nằm trong khoảng 1.020 tới 1.030 kg/m³ tại bề mặt còn sâu trong lòng đại dương, dưới áp suất cao, nước biển có thể đạt tỷ trọng riêng tới 1.050 kg/m³hay cao hơn. Như thế nước biển nặng hơn nước ngọt (nước ngọt tinh khiết đạt tỷ trọng riêng tối đa là 1.000 g/ml ở nhiệt độ 4 °C) do trọng lượng bổ sung của các muối và hiện tượng điện giảo. Điểm đóng băng của nước biển giảm xuống khi độ mặn tăng lên và nó là khoảng -2 °C (28,4 °F) ở nồng độ 35‰. Do đệm hóa học, độ pH của nước biển bị giới hạn trong khoảng 7,5 tới 8,4. Vận tốc âm thanh trong nước biển là khoảng 1.500 m•s−1 và dao động theo nhiệt độ của nước cùng áp suất.
+
+
+== Khác biệt thành phần ==
+Nước biển giàu các ion hơn so với nước ngọt. Tuy nhiên, tỷ lệ các chất hòa tan khác nhau rất lớn. Chẳng hạn, mặc dầu nước biển khoảng 2,8 lần nhiều các bicacbonat hơn so với nước sông dựa trên nồng độ phân tử gam, nhưng tỷ lệ phần trăm của bicacbonat trong nước biển trên tỷ lệ toàn bộ các ion lại thấp hơn so với tỷ lệ phần trăm tương ứng của nước sông do các ion bicacbonat chiếm tới 48% các ion có trong nước sông trong khi chỉ chiếm khoảng 0,41% các ion của nước biển. Các khác biệt như vậy là do thời gian cư trú khác nhau của các chất hòa tan trong nước biển; các ion natri và clorua có thời gian cư trú lâu hơn, trong khi các ion canxi (thiết yếu cho sự hình thành cacbonat) có xu hướng trầm lắng nhanh hơn.
+
+
+== Giải thích địa hóa học ==
+
+Các giả thuyết khoa học về nguồn gốc của muối trong nước biển đã bắt đầu có từ thời Edmond Halley vào năm 1715, người cho rằng muối và các khoáng chất khác đã được đưa ra biển bởi các con sông, do chúng được lọc qua các lớp đất nhờ mưa. Khi ra tới biển, các muối này có thể được giữ lại và cô đặc hơn nhờ quá trình bay hơi của nước (xem Chu trình thủy học). Halley cũng lưu ý rằng một lượng nhỏ các hồ trên thế giới mà không có các lối thoát ra đại dương (như biển Chết và biển Caspi) phần lớn đều có độ chứa muối cao. Halley đặt tên cho quá trình này là "phong hóa lục địa".
+Giả thuyết của Halley là đúng một phần. Ngoài ra, natri cũng đã được lọc qua lớp đáy của các đại dương khi chúng được hình thành. Sự hiện diện của nguyên tố còn lại chiếm đa số trong muối (clo) được tạo ra nhờ quá trình "thải khí" của clo (như axít clohiđric) với các khí khác từ lớp vỏ Trái Đất thông qua các núi lửa và các miệng phun thủy nhiệt. Natri và clo do đó trở thành các thành phần phổ biến nhất của muối biển.
+Độ mặn của nước biển đã ổn định trong nhiều triệu năm, phần lớn có lẽ là do hệ quả của các hệ thống hóa học/kiến tạo làm cho muối bị trầm lắng, chẳng hạn các trầm lắng natri và clorua bao gồm các trầm tích evaporit và các phản ứng với bazan đáy biển. Kể từ khi các đại dương hình thành thì natri không còn được lọc ra từ đáy đại dương mà nó bị giữ lại trong các lớp trầm tích che phủ lên trên đáy đại dương. Một giả thuyết khác cho rằng các mảng kiến tạo đã làm cho muối bị giam hãm phía dưới các khối đất của lục địa và ở đó nó một lần nữa lại được thấm lọc dần tới bề mặt.
+
+
+== Tiêu thụ nước biển của con người ==
+Tiêu thụ ngẫu nhiên một lượng nhỏ nước biển sạch thì không nguy hại, nếu như nó được sử dụng cùng một lượng lớn nước ngọt. Tuy nhiên, tiêu thụ nước biển để duy trì sự hydrat hóa là phản tác dụng; khi sử dụng dài lâu hơn thì phải tiêu tốn nhiều nước hơn để loại bỏ muối có trong nước biển (thông qua bài tiết dưới dạng nước tiểu hay mồ hôi) so với lượng nước thu được từ việc uống nước biển.
+Điều này xảy ra do lượng clorua natri trong máu người luôn được thận điều tiết và duy trì trong một khoảng hẹp chỉ khoảng 9 g/L (0,9% theo trọng lượng). Uống nước biển với nồng độ khoảng 3,5% các ion clorua và natri hòa tan) nhất thời gia tăng nồng độ các ion này trong máu. Điều này kích thích thận gia tăng hoạt động bài tiết natri, nhưng nồng độ natri của nước biển là cao hơn khả năng cô tối đa của thận. Cuối cùng, với lượng gia tăng thêm nữa của nước biển thì nồng độ natri trong máu sẽ vượt ngưỡng gây ngộ độc, nó loại bỏ nước từ mọi tế bào và gây trở ngại cho truyền dẫn tín hiệu thần kinh; gây ra ngập máu và loạn nhịp tim, có thể gây tử vong.
+Cũng cần lưu ý là một số loài động vật thích nghi được với các điều kiện sống khắc nghiệt. Chẳng hạn, thận của chuột sa mạc có khả năng cô natri hiệu quả hơn so với thận người và vì thế chúng có thể sống sót kể cả khi buộc phải uống nước biển.
+Các cẩm nang sinh tồn đều đưa ra các tư vấn chống lại việc uống nước biển một cách kiên quyết. Chẳng hạn, sách "Medical Aspects of Harsh Environments" (Chương 29 - Shipboard Medicine) đưa ra tổng quan của 163 trường hợp phải sống trên bè mảng trên biển. Rủi ro tử vong ở những người uống nước biển là 39% so với rủi ro 3% ở những người không uống nước biển. Tác động của uống nước biển cũng được nghiên cứu trong phòng thí nghiệm trên chuột. Nghiên cứu này xác nhận các tác động tiêu cực của uống nước biển khi khử hydrat.
+
+
+=== Nước biển để rửa nhà vệ sinh ===
+Hồng Kông đang sử dụng một cách tích cực nước biển để dội rửa nhà vệ sinh trên phạm vi cả thành phố. Hơn 90% các nhà vệ sinh ở Hồng Kông được dội rửa bằng nước biển, như là một biện pháp để bảo tồn các nguồn nước ngọt. Sự phát triển của ý tưởng này đã bắt đầu từ những năm thập niên 1960 và 1970 khi sự thiếu nước ngọt đã trở thành một vấn đề nghiêm trọng do dân số của thuộc địa này của Anh (thời điểm đó) tăng lên. Một khía cạnh thú vị của ý tưởng này là xử lý nước thải như thế nào. Nước mặn không thể xử lý (trong các xí nghiệp xử lý nước thải) bằng các phương pháp thông thường.
+
+
+== Khía cạnh văn hóa ==
+Thậm chí trên tàu thuyền hay đảo ở giữa đại dương vẫn có hiện tượng "thiếu nước", Tất nhiên, ở đây là thiếu nước ngọt. Nước biển chỉ có thể trở thành nước uống được nhờ các quy trình khử muối như sử dụng các công nghệ của thiết bị bốc hơi chân không, thiết bị bốc hơi flash hay công nghệ thẩm thấu ngược. Tuy nhiên, các công nghệ đó rất tiêu tốn năng lượng và nó gần như không thực tế và không thể trong thời đại thuyền buồm trong giai đoạn thế kỷ 16 tới thế kỷ 19. Ngoài ra, nó không thể dùng để uống do nồng độ của các khoáng chất hòa tan trong nó là rất cao.
+Sự quyến rũ của việc uống nước biển luôn là lớn nhất đối với các thủy thủ khi đã cạn nước ngọt dự phòng trong khi lại hoàn toàn không có mưa để lấy nước uống. Sự thất vọng này được miêu tả trong các dòng trong trường ca The Rime of the Ancient Mariner của Samuel Taylor Coleridge (1772-1834):
+"Water, water, every where,
+Nor any drop to drink."
+Mặc dù một điều rõ ràng là con người không thể sống sót chỉ dựa vào mỗi nước biển, nhưng một số người lại tuyên bố rằng người ta có thể uống tới 2 cốc mỗi ngày, nếu trộn nó với nước ngọt theo tỷ lệ 2:3, mà không thấy xuất hiện các triệu chứng bệnh tật. Bác sĩ người Pháp Alain Bombard (1924-2005) tuyên bố rằng ông đã sống sót sau chuyến vượt đại dương trên một bè mảng nhỏ chỉ sử dụng nước biển và các sản vật khác thu được từ đại dương, nhưng tính chân thực trong các khám phá của ông là đáng ngờ. Trên bè Kon-Tiki năm 1947, Thor Heyerdahl (1914-2002) thông báo rằng việc uống nước biển trộn lẫn với nước ngọt theo tỷ lệ 40/60%. Năm 1954, một nhà thám hiểm khác là William Willis (1897-1968) đã tuyên bố rằng ông đã uống 2 cốc nước biển và một cốc nước ngọt mỗi ngày trong vòng 70 ngày mà không thấy các triệu chứng bệnh tật khi ông mất nguồn cung cấp nước ngọt.
+
+
+== Xem thêm ==
+Nước ngọt
+
+
+== Liên kết ngoài ==
+Kiểm soát nước biển
+Nước biển
+
+
+== Ghi chú ==

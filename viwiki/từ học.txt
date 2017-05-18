@@ -1,0 +1,107 @@
+Từ học (tiếng Anh: magnetism) là một ngành khoa học thuộc Vật lý học nghiên cứu về hiện tượng hút và đẩy của các chất và hợp chất gây ra bởi từ tính của chúng. Mặc dù tất cả các chất và hợp chất đều bị ảnh hưởng của từ trường tạo ra bởi một nam châm với một mức độ nào đó nhưng một số trong chúng có phản ứng rất dễ nhận thấy là sắt, thép, ô-xít sắt. Những chất và hợp chất có từ tính đặc biệt là đối tượng của từ học dùng để chế tạo những sản phẩm phục vụ con người được gọi là vật liệu từ.
+Từ tính gây ra bởi lực từ, lực từ là một dạng lực điện từ, một trong những lực cơ bản của tự nhiên, nó được sinh ra do chuyển động của các hạt có điện tích. Phương trình Maxwell cho biết nguồn gốc và mối liên hệ của các từ trường và điện trường gây ra lực từ. Mối quan hệ giữa lực từ và lực điện rất mật thiết, môn khoa học nghiên cứu về vấn đề này được gọi là điện từ học.
+
+
+== Từ tính của vật chất ==
+
+
+=== Mô tả vĩ mô ===
+
+
+==== Cảm ứng từ và từ trường ====
+Vì từ trường được tạo ra khi có chuyển động của các điện tích nên nếu ta có một dây điện có dòng điện '"`UNIQ--postMath-00000001-QINU`"' chạy qua thì nó sẽ tạo ra một cảm ứng từ '"`UNIQ--postMath-00000002-QINU`"' xung quanh. Cảm ứng từ là một đại lượng véc tơ, chiều của nó phụ thuộc vào chiều chuyển động của dòng điện và được xác định bằng quy tắc bàn tay phải. Bây giờ nếu ta thay dây điện trên bằng một ống dây điện thì cảm ứng từ tạo ra trong lòng ống dây đó cũng được xác định bằng quy tắc trên. Nếu xung quanh cuộn dây là chân không thì chúng ta định nghĩa từ trường '"`UNIQ--postMath-00000003-QINU`"' như sau: '"`UNIQ--postMath-00000004-QINU`"', với '"`UNIQ--postMath-00000005-QINU`"' là từ thẩm chân không.
+Như vậy thì véc tơ từ trường '"`UNIQ--postMath-00000006-QINU`"' chỉ phụ thuộc vào dòng điện '"`UNIQ--postMath-00000007-QINU`"' và hình dạng của dây chứ không phụ thuộc vào môi trường bên trong ống dây.
+
+
+==== Từ thẩm và từ cảm ====
+Bây giờ trong lòng ống dây không phải là chân không mà là một vật nào đó thì sự có mặt của vật đó sẽ làm thay đổi cảm ứng từ trong ống dây. Cảm ứng từ này tỷ lệ với từ trường với hệ số tỷ lệ được gọi là từ thẩm '"`UNIQ--postMath-00000008-QINU`"' thì cảm ứng từ trong lòng vật đó là:
+'"`UNIQ--postMath-00000009-QINU`"'
+Ta định nghĩa '"`UNIQ--postMath-0000000A-QINU`"' là véc tơ từ độ xuất hiện bên trong vật
+'"`UNIQ--postMath-0000000B-QINU`"' với '"`UNIQ--postMath-0000000C-QINU`"' là từ cảm của vật liệu
+với:'"`UNIQ--postMath-0000000D-QINU`"'
+
+Người ta còn định nghĩa:
+'"`UNIQ--postMath-0000000E-QINU`"' với '"`UNIQ--postMath-0000000F-QINU`"': từ thẩm tương đối của vật so với chân không.
+
+
+==== Phân loại vật liệu ====
+
+Từ cảm của vật liệu là một đại lượng đặc trưng cho sự cảm ứng của vật liệu dưới tác động của từ trường ngoài. Người ta dựa vào đại lượng này để phân chia các vật liệu thành 5 loại như sau:
+Nghịch từ: là vật liệu có '"`UNIQ--postMath-00000010-QINU`"' nhỏ hơn không (âm) và có giá trị tuyệt đối rất nhỏ, chỉ cỡ khoảng 10- 5.
+Thuận từ: là vật liệu có '"`UNIQ--postMath-00000011-QINU`"' lớn hơn không (dương) và có giá trị tuyệt đối nhỏ cỡ 10- 3.
+Sắt từ: là vật liệu có '"`UNIQ--postMath-00000012-QINU`"' dương và rất lớn, có thể đạt đến 10 5.
+Feri từ: là vật liệu có '"`UNIQ--postMath-00000013-QINU`"' dương và lớn (tuy nhỏ hơn sắt từ).
+Phản sắt từ: là vật liệu có '"`UNIQ--postMath-00000014-QINU`"' dương nhưng rất nhỏ.
+
+
+=== Mô tả vi mô ===
+
+
+==== Chuyển động của các điện tử ====
+Chuyển động của các điện tử trong nguyên tử tạo nên các đám mây điện tích. Chính chuyển động quỹ đạo đó là một trong những nguyên nhân gây ra từ tính của nguyên tử làm cho nguyên tử có một mô men từ. Một nguyên nhân khác là spin, có thể được hình dung thô thiển như sự tự quay của điện tử, mặc dù về bản chất, spin là một khái niệm chỉ có trong cơ học lượng tử. Như vậy từ tính của nguyên tử có hai nguồn gốc: spin và quỹ đạo, mô men từ tương ứng với hai nguồn gốc này được gọi là mô men từ spin và mô men từ quỹ đạo.
+
+
+==== Tính nghịch từ của vật chất ====
+Nghịch từ là một hiện tượng cố hữu của vật chất, tồn tại ở mọi loại vật liệu theo quy tắc chung về cảm ứng điện từ. Khi có mặt của từ trường ngoài, các điện tử sẽ hưởng ứng với từ trường bằng cách tạo ra một mô men từ cảm ứng. Mô men từ này có xu hướng chống lại từ trường ngoài, nó tỷ lệ nhưng ngược hướng với từ trường áp dụng. Đó chính là nguyên nhân gây ra hiện tượng nghịch từ trong một số chất.
+
+
+=== Vi từ học ===
+Một cách tổng quát, tính chất của các vật liệu từ tuân theo các quy luật về vi từ học mà ở đó tính chất từ bị quy định bởi cấu trúc từ học vi mô và cấu trúc này được quy định bởi sự cực tiểu hóa năng lượng vi từ, có thể quy thành 5 dạng năng lượng:
+Năng lượng trao đổi
+Năng lượng dị hướng
+Năng lượng tĩnh từ
+Năng lượng Zeeman
+Năng lượng từ giảo
+(xem chi tiết bài Năng lượng vi từ)
+
+
+== Lịch sử từ học ==
+Từ học là một ngành được ứng dụng trong cuộc sống con người từ rất sớm mà đầu tiên là ở Trung Hoa và Hy Lạp cổ đại. Ở Hy Lạp, lịch sử ghi nhận những đối thoại về từ học giữa Aristotle và Thales từ những năm 625 đến 545 trước công nguyên song song với việc sử dụng nam châm vĩnh cửu (là những đá thiên nhiên) cho một số mục đích khác nhau Ở phương Đông, Trung Hoa là nơi sớm nhất sử dụng các đá nam châm làm kim chỉ nam để chỉ phương Nam-Bắc từ thời đại của Chu Công (thời đại nhà Chu, 1122 - 256 trước Công nguyên), và cuốn sách chính thức ghi lại việc sử dụng các đá nam châm là cuốn Quỷ Cốc tử (thầy dạy của Tôn Tẫn) vào thế kỷ thứ 4 trước công nguyên,.
+Alexander Neckham là người châu Âu đầu tiên mô tả về la bàn và việc sử dụng la bàn cho việc định hướng vào năm 1187. Vào năm 1269, Peter Peregrinus de Maricourt viết cuốn Epistola de magnete, được coi là một trong những luận thuyết đầu tiên về nam châm và la bàn. Năm 1282, các tính chất của các nam châm và la bàn khô được thảo luận bởi Al-Ashraf, một nhà vật lý, thiên văn, địa lý người Yemeni .
+Cuốn sách khảo cứu chi tiết đầu tiên về các hiện tượng là cuốn De Magnete, Magneticisque Corporibus, et de Magno Magnete Tellure (On the Magnet and Magnetic Bodies, and on the Great Magnet the Earth) của William Gilbert xuất bản năm 1600 ở Anh Quốc. Cuốn sách thảo luận về nhiều thí nghiệm điện từ do ông xây dựng, đồng thời giả thiết về từ trường của Trái Đất, nguyên nhân gây ra sự định hướng Nam-Bắc của các la bàn.
+Tương tác giữa dòng điện và từ trường lần đầu tiên được phát hiện và mô tả bởi Hans Christian Oersted, một giáo sư Đại học Copenhagen (Đan Mạch). Ông đã phát hiện ra việc kim la bàn bị lệch hướng khi đặt gần một dây dẫn mang dòng điện. Thí nghiệm này được coi là bước ngoặt trong lịch sử ngành từ học, và được đặt tên là Thí nghiệm Oersted. Sau Oersted, hàng loạt các nhà khoa học đã tiến hành các thí nghiệm và các công trình nghiên cứu về mối quan hệ giữa điện và từ trường như André-Marie Ampère, Carl Friedrich Gauss, Michael Faraday dẫn đến việc hình thành những kiến thức cơ bản về từ học cũng như từ trường.
+James Clerk Maxwell đã tổng hợp các lý thuyết về từ trường, điện trường, và quang học để phát triển thành lý thuyết tổng quát về trường điện từ. Vào năm 1905, Albert Einstein đã sử dụng những định luật này để xây dựng lý thuyết tương đối hẹp.
+Thế kỷ 20 cũng là thế kỷ mà từ học được phát triển mạnh mẽ từ việc tạo ra các vật liệu từ đa chức năng, xây dựng các lý thuyết vi mô về hiện tượng từ dựa trên các lý thuyết của cơ học lượng tử và vật lý chất rắn như lý thuyết vi từ học, lý thuyết về đômen từ, vách đômen, vật liệu sắt từ, tương tác trao đổi, phản sắt từ,... Đi kèm với nó là sự phát triển của nhiều kỹ thuật chụp ảnh cấu trúc từ và đo đạc các tính chất từ của vật liệu. Cuối thế kỷ 20, đầu thế kỷ 21, ngành mới spintronics ra đời dựa trên những thành tựu của từ học và điện tử học.
+
+
+== Đơn vị điện từ ==
+
+
+=== Các đơn vị chuẩn SI ===
+
+
+=== Các đơn vị khác ===
+gauss — Viết tắt là G là đơn vị của cảm ứng từ B trong hệ CGS
+Oersted — viết tắt là Oe là đơn vị của cường độ từ trường H trong hệ CGS.
+Maxwell — là đơn vị của từ thông trong hệ CGS.
+gamma là đơn vị của mật độ từ thông (trong hệ SI là Tesla - T), 1 gamma = 1 nT.
+μ0 — là ký hiệu viết tắt quen thuộc của độ từ thẩm tuyệt đối của chân không, có giá trị 4πx10−7 N/(ampere-vòng)².
+
+
+== Từ học và spintronics ==
+Những thành tựu về từ học cuối thế kỷ 20, đã dẫn đến việc hình thành một lĩnh vực mới gọi là spintronics, ngành nghiên cứu tạo ra các linh kiện điện tử mới khai thác cả thuộc tính spin cũng như điện tích của điện tử, thay thế các linh kiện điện tử truyền thống đã lỗi thời. Sự hấp dẫn của spintronics cũng dấn đến việc thúc đẩy việc nghiên cứu về từ học để tìm hiểu về bản chất từ tính, đồng thời nghiên cứu tạo ra nhiều vật liệu từ đặc biệt ứng dụng trong các linh kiện từ tính.
+Mục tiêu quan trọng của spintronics là hiểu về cơ chế tương tác giữa spin của các hạt và môi trường chất rắn, từ đó có thể điều khiển cả về mật độ cũng như sự chuyển vận (transportation) của dòng spin trong vật liệu. Những câu hỏi lớn được đặt ra cho ngành spintronics là:
+Cách nào hiệu quả nhất để phân cực một hệ spin?
+Một hệ spin có thể nhớ trạng thái định hướng trong bao lâu?
+Làm thế nào để ghi nhận spin?
+Spintronics hứa hẹn là một thế hệ linh kiện mới trong thế kỷ 21 với mục tiêu tăng tốc độ xử lý, giảm năng lượng hao tốn và giá thành mà từ học là một nền tảng của spintronics.
+Xem bài chi tiết Spintronics
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Vi từ học
+Sắt từ
+Năng lượng vi từ
+Nam châm vĩnh cửu
+
+
+== Liên kết ngoài ==
+Lịch sử của từ học
+Sơ lược về từ học và vật liệu từ
+Magnetism flash
+Electricity and Magnetism: Video lectures
+P10D Electricity and Magnetism P10D Electricity and Magnetism, online lectures
+Exploring magnetism lesson series

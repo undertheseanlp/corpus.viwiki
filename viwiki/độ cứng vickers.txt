@@ -1,0 +1,183 @@
+Phép kiểm tra độ cứng Vickers đã được phát triển năm 1921 bởi Robert L. Smith và George E. Sandland tại Vickers Ltd, là một sự thay thế cho phương pháp Britnell để đo độ cứng của vật liệu. Phép kiểm tra Vickers thường dễ sử dụng hơn các phép kiểm tra độ cứng khác, vì các phép tính cần thiết thì độc lập với kích thước của indenter, và indenter có thể được sử dụng cho mọi vật liệu bất kể độ cứng của nó. Nguyên tắc cơ bản, cũng như tất cả các biện pháp đo độ cứng thông thường, là quan sát khả năng chống lại biến dạng dẻo của vật liệu đang tìm hiểu, từ một nguồn tiêu chuẩn. Phép kiểm tra Vickers có thể được sử dụng cho tất cả các kim loại, và là một trong những phép kiểm tra độ cứng có quy mô rộng nhất. Các đơn vị của độ cứng được đưa ra bởi phép đo là Vickers Pyramid Number (HV) hoặc Diamond Pyramid Hardness (DPH). Chỉ số độ cứng có thể được chuyển đổi sang đơn vị pascals, nhưng không nên nhầm lẫn với áp suất, đại lượng cũng có đơn vị là pascals. Chỉ số độ cứng được quyết định bởi trọng lượng trên diện tích bề mặt của vết lõm chứ không phải là phần diện tích chịu lực, và do đó không phải là áp suất.
+
+
+== Tiến hành ==
+Hình dạng của indenter phải đảm bảo sao cho tạo ra các vết lõm có dạng hình học tương tự nhau, không phân biệt kích thước; và indenter nên có sức đề kháng cao đối với sự tự biến dạng. Một kim tự tháp hình kim cương có đế hình vuông thoả mãn những điều kiện này. Chỉ số HV được xác định bởi tỉ lệ F/A, trong đó F là lực ép của kim cương với đơn vị kilograms-force và A là diện tích bề mặt của vết lõm còn lại, đơn vị milimét vuông.  Diện tích bề mặt có thể được xác định theo công thức.
+
+  
+    
+      
+        A
+        =
+        
+          
+            
+              d
+              
+                2
+              
+            
+            
+              2
+              sin
+              ⁡
+              (
+              
+                136
+                
+                  ∘
+                
+              
+              
+                /
+              
+              2
+              )
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle A={\frac {d^{2}}{2\sin(136^{\circ }/2)}},}
+  
+Lấy gần đúng giá trị của sin sẽ cho 
+
+  
+    
+      
+        A
+        ≈
+        
+          
+            
+              d
+              
+                2
+              
+            
+            1.8544
+          
+        
+        ,
+      
+    
+    {\displaystyle A\approx {\frac {d^{2}}{1.8544}},}
+  
+trong đó d là chiều dài trung bình của đường chéo để lại bởi indenter, đơn vị mm. Do đó,
+
+  
+    
+      
+        H
+        V
+        =
+        
+          
+            F
+            A
+          
+        
+        ≈
+        
+          
+            
+              1.8544
+              F
+            
+            
+              d
+              
+                2
+              
+            
+          
+        
+        
+        [
+        
+          
+            
+              kgf/mm
+            
+          
+          
+            2
+          
+        
+        ]
+      
+    
+    {\displaystyle HV={\frac {F}{A}}\approx {\frac {1.8544F}{d^{2}}}\quad [{\textrm {kgf/mm}}^{2}]}
+  ,
+với F có đơn vị kgf và d có đơn vị mm.
+Đơn vị tương ứng của HV vì thế là kilograms-force trên milimet vuông (kgf/mm2). Để tính chỉ số độ cứng Vickers trong hệ SI ta cần phải chuyển áp lực từ newton sang kilograms-force bằng cách chia cho 9.80665 (trọng lực tiêu chuẩn). Điều này dẫn đến phương trình sau đây:
+
+  
+    
+      
+        H
+        V
+        ≈
+        
+          0.1891
+        
+        
+          
+            F
+            
+              d
+              
+                2
+              
+            
+          
+        
+        
+        [
+        
+          
+            
+              kgf/mm
+            
+          
+          
+            2
+          
+        
+        ]
+        ,
+      
+    
+    {\displaystyle HV\approx {0.1891}{\frac {F}{d^{2}}}\quad [{\textrm {kgf/mm}}^{2}],}
+  
+trong đó F có đơn vị N và d có đơn vị mm. Một lỗi phổ biến là công thức trên tính chỉ số HV không cho kết quả là một số có đơn vị Newton trên milimet vuông (N/mm 2), nhưng cho kết quả trực tiếp là chỉ số độ cứng Vickers (thường không có đơn vị), mà trên thực tế là kilograms-force trên milimet vuông (kgf/mm2).
+Để chuyển đổi chỉ số độ cứng Vickers sang các đơn vị SI chỉ số độ cứng với đơn vị kilograms-force trên milimet vuông (kgf/mm2) phải được nhân với trọng lực tiêu chuẩn (9.80665) để có độ cứng ở đơn vị MPa (N/mm2), và chia tiếp cho 1000 để có độ cứng ở đơn vị GPa.
+Chỉ số độ cứng Vickers được viết là xxxHVyy, ví dụ:  440HV30, hoặc xxxHVyy/zz nếu thời gian giữ của áp lực nó không nằm trong khoảng 10 đến 15 giây, ví dụ như 440Hv30/20, trong đó:
+440 là chỉ số độ cứng,
+HV chỉ thang đo độ cứng (Vickers),
+30 chỉ trọng tải được sử dụng, đơn vị kgf.
+20 chỉ thời gian tải nếu nó không nằm trong khoảng 10 - 15 s
+Giá trị Vickers thường độc lập với lực đo: sẽ như nhau với cả lực đo 500 và 50 kgf, chừng nào mà lực đo lớn hơn 200 gf.
+Đối với mẫu mỏng độ sâu indentation co thể là một vấn đề do các ảnh hưởng của mặt đế. Theo kinh nghiệm bề dày mẫu nên lớn hơn 2,5 lần đường kính vết lõm. Độ sâu vết lõm sắc có thể được tính theo:
+ 
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Meyers and Chawla (1999). “Section 3.8”. Mechanical Behavior of Materials. Prentice Hall, Inc. 
+ASTM E92: Standard method for Vickers hardness of metallic materials (Withdrawn and replaced by E384-10e2)
+ASTM E384: Standard Test Method for Knoop and Vickers Hardness of Materials
+ISO 6507-1: Metallic materials – Vickers hardness test – Part 1: Test method
+ISO 6507-2: Metallic materials – Vickers hardness test – Part 2: Verification and calibration of testing machines
+ISO 6507-3: Metallic materials – Vickers hardness test – Part 3: Calibration of reference blocks
+ISO 6507-4: Metallic materials – Vickers hardness test – Part 4: Tables of hardness values
+ISO 18265: Metallic materials – Conversion of Hardness Values
+
+
+== Liên kết ngoài ==
+Video on the Vickers hardness test
+Vickers hardness test
+Conversion table – Vickers, Brinell, and Rockwell scales

@@ -1,0 +1,34 @@
+In màu là một kiểu in ấn tạo ra hình ảnh và chữ có màu sắc (đối lập với in đen trắng).
+Kỹ thuật phổ biến là in bốn màu sử dụng hệ màu CMYK. Một kỹ thuật đang phát triển khác là in sáu màu, thêm màu gốc da cam và xanh lá cây vào hệ CMYK để tạo phổ màu rộng hơn.
+Các bước chính trong in bốn màu được miêu tả sau đây.
+
+
+== Tách màu ==
+Trong bước này, hình ảnh màu ban đầu được số hóa (ví dụ như thu qua máy quét ảnh) và tách ra thành 3 phần đỏ, xanh lá cây, và xanh lam. Trước khi kỹ thuật ảnh số ra đời, phương pháp truyền thống là chụp ảnh hình ảnh màu 3 lần, sử dụng 3 kính lọc màu tương ứng. Khi thu được 3 thành phần ảnh này, mỗi bức ảnh riêng rẽ chỉ có độ sáng tối, thể hiện các mức độ đỏ, lục và lam trong ảnh ban đầu:
+Bước tiếp theo là nghịch đảo các ảnh này để thu các âm bản. Âm bản của thành phần đỏ thể hiện mức độ màu hồ thủy của ảnh ban đầu. Tương tự âm bản của lục và lam tương ứng với thành phận màu cánh sen và màu vàng.
+Các màu hồ thủy, cánh sen và vàng tạo nên các màu gốc in ấn. Khi các màu này trộn với nhau trên bản in, hình ảnh sẽ có màu sắc giống như nguyên bản, theo nguyên lý của phối màu hấp thụ. Tuy nhiên, các mực màu có hạn chế là không tạo ra màu đen thực sự. Để tăng độ nét, người ta thêm quy trình tách thành phần màu đen, và in thêm mực đen lên bản cần in. Có nhiều cách để thu được thành phần màu đen từ nguyên bản như: kỹ thuật thay màu xám, kỹ thuật thay màu dưới, kỹ thuật cộng màu dưới. Kỹ thuật in này do vậy được gọi là in bốn màu hay in CMYK.
+Kỹ thuật ảnh số ngày nay có thể không bị giới hạn về không gian màu như các phương pháp CMYK truyền thống. Người ta có thể xử lý dữ liệu màu từ các ảnh theo chế độ RGB hay CMYK. Khả năng tái tạo màu trung thực thay đổi tùy theo các không gian màu của kỹ thuật in. Để đảm bảo có được màu chuẩn xác so với một mẫu màu, người ta dùng kỹ thuật so màu.
+
+
+== Lồng màu ==
+Trên thực tế, mực in không thể trộn với nhau hoặc in đè lên nhau. Tại một điểm trên tờ giấy, chỉ có thể in một màu. Do đó các màu được in thành các điểm nhỏ nằm sát nhau, để khi nhìn, ta không trông rõ các điểm màu và ta cảm thấy như có màu sắc tự nhiên trên ảnh. Việc lồng các điểm màu như này gọi là kỹ thuật lồng màu hay lưới màu.
+Trong phương pháp lồng màu truyền thống, người ta tạo ra các điểm lưới màu trên các phim bằng cách đặt trước các phim này một tấm lưới ca-rô khi chụp ảnh. Tấm lưới ca-rô có thể được chế tạo bằng cách in các đường mực đen song song lên 2 tấm thủy tinh, rồi dán 2 tấm này vào nhau sao cho các đường mực đen trên 2 tấm vuông góc với nhau. Sau khi chụp, trên phim sẽ có các chấm nằm rải rác, do ánh sáng lọt qua lưới để lại. Đường kính chấm thể hiện cường độ sáng: cường độ sáng càng mạnh thì đường kính của chấm càng lớn. Khi đem in theo ảnh thu được, đường kính các chấm sẽ điều khiển mức độ sáng tối của màu mực tại điểm in. Lưới màu của các màu khác nhau nằm hơi lệch nhau một góc nghiêng, để khi in, các điểm lưới màu không chồng lên nhau mà chỉ nằm sát nhau.
+Thông thường, trong các báo chí, người ta dùng độ phân giải cho các tấm lưới ca-rô là từ 60 đến 120 đường kẻ trên một inch (còn gọi là lpi). Độ phân giải này không cao, nhưng kinh tế và phù hợp với giấy báo, có độ thấm hút lớn và không thể in được các chấm màu nhỏ hơn thế. Theo từ chuyên môn, các giấy báo có cỡ điểm ?? (dot gain) lớn. Lưới có độ phân giải 133 đến 175 lpi được dùng cho họa báo và in ấn thương mại. Có thể nhìn rõ các chấm lưới màu khi dùng kính lúp để xem báo.
+Các tấm lưới trong kỹ thuật chụp âm bản khi tách màu đã được thay thế việc sử dụng laser để tạo lưới màu trực tiếp trên phim. Kỹ thuật gần đây nhất áp dụng xử lý ảnh kỹ thuật số, xếp chữ máy tính (CTP), cho phép bỏ qua giai đoạn chụp phim âm bản, và xếp chữ thẳng từ tín hiệu số của máy tính. Tín hiệu máy tính điều khiển laser chiếu các lưới màu trực tiếp lên bản xếp chữ. Phương pháp này kinh tế, tăng chất lượng (chất lượng ảnh không bị mất qua khâu trung gian), tiết kiệm thời gian, và giảm lượng chất thải hóa học độc hại ra môi trường do việc rửa phim gây nên.
+
+
+== Lồng màu ngẫu nhiên ==
+Xử lý ảnh kỹ thuật số cho phép lồng màu theo nhiều phân bố khác với lưới ca-rô. Phương pháp được biết đến nhiều nhất là lồng màu ngẫu nhiên. Các điểm màu lúc này đều có cùng đường kính, nhưng mật độ phân bố tăng giảm theo cường độ sáng của màu, và vị trí của từng điểm riêng biệt được rải ra ngẫu nhiên. Phương pháp này loại bỏ hiệu ứng moiré vốn gây khó chịu khi xem ảnh với lưới màu ca-rô truyền thống. Phương pháp cũng này cho độ phân giải tối ưu. Khi sử dụng thêm các màu gốc mới như da cam hay xanh lục, phổ màu sẽ được tăng thêm.
+Hầu hết các máy in phun hiện nay dùng phương pháp lồng màu ngẫu nhiên này. Dùng kính lúp, mọi người có thể quan sát các điểm màu ngẫu nhiên trên bản in của máy in phun ở nhà họ. Lồng màu ngẫu nhiên, đôi khi kết hợp với lồng màu ca-rô truyền thống, là tiêu chuẩn hiện nay cho nhiều in ấn bao bì sản phẩm.
+
+
+== Xem thêm ==
+In ấn
+In offset
+
+
+== Tham khảo ==
+
+(bằng tiếng Anh)
+Bruno, Michael H. (Ed.) (1995). Pocket Pal: A Graphic Arts Production Handbook (16th ed.). Memphis: International Paper
+(tiếng Việt)

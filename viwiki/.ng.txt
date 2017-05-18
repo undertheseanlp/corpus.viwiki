@@ -1,0 +1,21 @@
+.ng là tên miền quốc gia cấp cao nhất (ccTLD) của Nigeria.
+
+
+== Các tên miền cấp 2 ==
+com.ng – thực thể thương mại và kinh doanh
+org.ng – tổ chức phi lợi nhuận
+gov.ng – tổ chức chính phủ
+edu.ng – cơ quan cấp bằng
+net.ng – cơ sở hạ tầng ISP
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+IANA.ng whois information
+Official.ng Registry site
+.ng domain registration website
+.ng domain registration website
+.ng domain registration website
+.ng domain registration website

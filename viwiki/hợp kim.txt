@@ -1,0 +1,32 @@
+Hợp kim là dung dịch rắn của nhiều nguyên tố kim loại hoặc giữa nguyên tố kim loại với nguyên tố phi kim. Hợp kim mang tính kim loại (dẫn nhiệt cao, dẫn điện, dẻo, dễ biến dạng, có ánh kim...).
+Hợp kim đơn giản: Hợp kim được tạo thành trên cơ sở kim loại, giữa hai kim loại với nhau (như latông: Cu và Zn); giữa kim loại với á kim (như thép, gang: Fe và C) song nguyên tố chính của hợp kim vẫn là kim loại
+Hợp kim sắt, hay còn gọi là hợp kim đen: hợp kim với thành phần chủ yếu là sắt với các nguyên tố khác
+Hợp kim màu, là hợp kim của các kim loại khác ngoài sắt. Trong số này có đồng thau, đồng điếu, hợp kim nhôm, vàng tây...
+Hợp kim gốm, còn gọi là hợp kim bột: hợp kim của cacbua vonfram kết hợp với coban (Co), có lúc thêm titan cacbua
+
+Hợp kim phức tạp: Hợp kim có nguyên tố chính là kim loại với hai hay nhiều nguyên tố khác.
+Thành phần của nguyên tố trong hợp kim thường được biểu thị bằng phần trăm (%) theo khối lượng, khi nói đến phần trăm theo nguyên tử phải chỉ định rõ kèm theo.
+
+
+== Các đặc tính ==
+Đặc tính sản phẩm hợp kim giống kim loại thông thường khác với đặc tính của kim loại hợp thành, đôi khi còn khác hẳn.
+Hợp kim luôn cho ta những đặc tính vượt trội so với kim loại nguyên chất hợp thành. Ví dụ, thép(hợp kim của sắt) có độ bền vượt trội so với kim loại hợp thành của nó là sắt. Đặc tính vật lý của hợp kim không khác nhiều kim loại được hợp kim hoá, như mật độ, độ kháng cự, tính điện và hệ số dẫn nhiệt, nhưng các đặc tính cơ khí của hợp kim lại có sự khác một cách rõ rệt, như độ bền kéo, độ bền cắt, độ cứng, khả năng chống ăn mòn...
+Không giống như kim loại nguyên chất, nhiều hợp kim không có một điểm nóng chảy nhất định. Thay vì, chúng có một miền nóng chảy bao gồm trạng thái các khối chất rắn hòa lẫn với khối chất lỏng. Điểm nhiệt độ bắt đầu chảy được gọi là đường đông đặc và hoàn thành việc hóa lỏng hoàn toàn gọi là đường pha lỏng trong giản đồ trạng thái của hợp kim.
+
+
+== Hợp kim ngày nay ==
+Thuật ngữ hợp kim ngày nay mang ý nghĩa rộng hơn so với lúc nó xuất hiện. Trước đây các vật liệu công nghiệp chứa một vài nguyên tố được chế tạo chủ yếu bằng cách nấu chảy. Ngày nay nhiều vật liệu thu được bằng cả các phương pháp khác, chẳng hạn như bằng phương pháp luyện kim bột, bằng con đường khuếch tán; các hợp kim có thể thu được khi hóa bụi bằng plasma trong quá trình kết tinh từ pha hơi trong chân không, khi điện phân.
+Giống như kim loại, hợp kim có cấu tạo tinh thể. Hợp kim thường được cấu tạo bằng các tinh thể: tinh thể hỗn hợp, tinh thể dung dịch rắn và tinh thể hóa học.
+Trong loại hợp kim có tinh thể hỗn hợp hoặc là dung dịch rắn, kiểu liên kết chủ yếu là liên kết kim loại. Trong loại hợp kim có tinh thể là hợp chất hóa học, kiểu liên kết là liên kết cộng hóa trị.
+
+
+== Nguồn ==
+Vật liệu học, B.N.Arzamaxov, Nhà xuất bản Giáo dục - 2000,
+Microsoft ® Encarta ® Reference Library 2005, www.encarta.com,
+Hóa học 12, Nhà xuất bản Giáo dục, GCSE Chemistry, www.gcsescience.com
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

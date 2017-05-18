@@ -1,0 +1,26 @@
+Số nguyên tử (ký hiệu Z), hay còn gọi là số hiệu nguyên tử, nguyên tử số hay số thứ tự (ý chỉ vị trí thứ tự của một nguyên tố hóa học trong bảng tuần hoàn), được xác định bằng số proton trong hạt nhân của nguyên tử đó. Do số lượng các hạt proton trong nguyên tử trùng với số lượng các hạt electron ở lớp vỏ nguyên tử (đây cũng là lý do nguyên tử khi ở trạng thái bình thường luôn bảo hòa về điện), vì vậy số hiệu nguyên tử - Z (hay còn gọi là số nguyên tử) còn cho chúng ta biết được số lượng hạt electron trong 1 nguyên tử. Số hiệu nguyên tử thường được ghi phía dưới bên trái của ký hiệu nguyên tố hóa học 
+  
+    
+      
+        
+          
+
+          
+          
+            Z
+          
+          
+            A
+          
+        
+        
+          X
+        
+      
+    
+    {\displaystyle {}_{Z}^{A}\mathrm {X} }
+  , với A là số khối.
+Các nguyên tử có số hiệu nguyên tử (Z) bằng nhau cùng thuộc 1 nguyên tố, và có tính chất hóa học giống nhau. Còn những nguyên tử tuy có cùng số hiệu nguyên tử (Z) nhưng khác số neutron (dẫn đến sự khác nhau về số khối, vì công thức tính số khối là: A = P + N), thì gọi là đồng vị của nguyên tố đó.
+
+
+== Tham khảo ==

@@ -1,0 +1,77 @@
+Rheni (tên La tinh: Rhenium) là một nguyên tố hóa học có ký hiệu Re và số nguyên tử 75. Nó là một kim loại chuyển tiếp nặng, màu trắng bạc nằm tại hàng ba của nhóm 7 trong bảng tuần hoàn. Với mật độ trung bình cỡ một phần tỷ (ppb), rheni là một trong nguyên tố hiếm nhất trong lớp vỏ Trái Đất. Rheni tương tự như mangan về mặt hóa học và thu được dưới dạng phụ phẩm trong tinh chế molypden và đồng. Ở dạng hợp chất, rheni thể hiện các trạng thái ôxi hóa từ −1 tới +7.
+Các lượng nhỏ rheni được thêm vào các hợp kim wolfram, và một số hợp chất của rheni cũng được dùng làm chất xúc tác trong công nghiệp hóa chất. Các siêu hợp kim gốc niken được sử dụng trong các động cơ phản lực chứa tới 6% rheni, làm cho ngành này là nơi sử dụng rheni lớn nhất. Do khan hiếm và nhu cầu cao trong chế tạo động cơ phản lực nên rheni thuộc số các kim loại đắt nhất trên thế giới, với giá của nó có những lúc vượt quá 12.000 USD mỗi kilôgam. Rheni, được phát hiện năm 1925, là nguyên tố có đồng vị ổn định trong tự nhiên cuối cùng được phát hiện. Franxi là nguyên tố nguồn gốc tự nhiên cuối cùng được phát hiện, nhưng nó không có đồng vị nào ổn định. Rheni được đặt tên theo sông Rhine.
+
+
+== Lịch sử ==
+Rheni (từ tiếng Latinh Rhenus, nghĩa là Rhine) là nguyên tố nguồn gốc tự nhiên được phát hiện gần sau cùng nhất, chỉ trước Franxi; đồng thời nó là nguyên tố có đồng vị ổn định được phát hiện cuối cùng. Sự tồn tại của nguyên tố tại vị trí của rheni (khi đó chưa được phát hiện) trong bảng tuần hoàn đã được Henry Moseley dự báo từ năm 1914. Nói chung người ta gán công phát hiện ra rheni cho Walter Noddack, Ida Tacke, Otto Berg ở Đức. Năm 1925, họ thông báo rằng họ đã phát hiện ra một nguyên tố có trong quặng platin và trong khoáng vật columbit. Họ cũng tìm thấy rheni trong gadolinit và molybdenit. Năm 1928, họ đã tách ra được 1 g nguyên tố bằng cách xử lý 660 kg khoáng vật molybdenit. Quy trình này quá phức tạp và tốn kém đến mức việc sản xuất bị gián đoạn tới tận đầu năm 1950 khi các hợp kim wolfram-rheni và molypden-rheni được điều chế. Các hợp kim này được phát biện là có nhiều ứng dụng quan trọng trong công nghiệp tạo ra một nhu cầu lớn đối với rheni được sản xuất từ phần molybdenit của các quặng đồng pocfia.
+Năm 1908, nhà hóa học Nhật Bản là Masataka Ogawa thông báo rằng ông đã phát hiện ra nguyên tố số 43 và đặt tên nó là nipponium (Np) theo sau tên của Nhật Bản (là Nippon trong tiếng Nhật). Tuy nhiên, phân tích sau đó chỉ ra sự hiện diện của rheni (số 75), chứ không phải nguyên tố số 43. Ký hiệu Np sau này được sử dụng cho nguyên tố neptuni (số 93).
+
+
+== Đặc trưng ==
+
+Rheni là kim loại có nhiệt độ nóng chảy thuộc hàng cao nhất trong số mọi nguyên tố, chỉ có wolfram (3.695 K) và cacbon (4.300-4.700 K) là đứng trên nó. Nó cũng là nguyên tố có tỷ trọng riêng thuộc hàng cao nhất, chỉ thua platin (21.450 kg/m³), iridi (22.560 kg/m³) và osmi (22.610 kg/m³).
+Dạng thương mại thông thường của nó là bột, nhưng nguyên tố này có thể cô đặc hơn bằng cách ép và thiêu kết trong chân không hay môi trường khí hiđrô. Quy trình này tạo ra sản phẩm chắc đặc với tỷ trọng khoảng trên 90% tỷ trọng riêng của kim loại này. Khi bị ủ kim loại này trở nên rất mềm và có thể uốn cong hay kéo thành cuộn. Các hợp kim rheni-molypden có tính siêu dẫn ở 10 K; còn các hợp kim wolfram-rheni cũng có tính siêu dẫn ở khoảng 4-8 K, phụ thuộc vào từng hợp kim. Rheni kim loại siêu dẫn ở 2,4 K.
+
+
+=== Đồng vị ===
+
+Rheni nguồn gốc tự nhiên là 37,4% Re185, một đồng vị ổn định, và 62,6% Re187, một đồng vị không ổn định nhưng có chu kỳ bán rã rất dài (~1010 năm); với thời gian tồn tại chịu ảnh hưởng bởi trạng thái tích điện của nguyên tử rheni. Phân rã beta của Re187 được sử dụng để định tuổi rheni-osmi của quặng. Năng lượng cần thiết cho phân rã beta này (2,6 keV) là một trong số những mức năng lượng thấp nhất trong số mọi hạt nhân phóng xạ. Người ta cũng đã biết 26 đồng vị phóng xạ khác của rheni.
+
+
+=== Các hợp chất ===
+
+Rheni có một khoảng rộng nhất các trạng thái ôxi hóa trong số mọi nguyên tố đã biết: −1, 0, +1, +2, +3, +4, +5, +6 và +7. Các trạng thái ôxi hóa +7, +6, +4 và +2 là phổ biến nhất.
+Các hợp chất phổ biến nhất của rheni là các ôxít và các halua, chiếm một phổ rộng các trạng thái ôxi hóa: Re2O7, ReO3, Re2O5, ReO2 và Re2O3 là các ôxít đã biết, ReF7, ReCl6, ReCl5, ReCl4 và ReCl3 là một ít các hợp chất halua đã biết. Các sulfua bao gồm ReS2 và Re2S7.
+Rheni có sẵn ở dạng thương mại nhiều nhất là perrhenat natri và perrhenat amoni. Nó cũng có sẵn ở dạng decacacbonyl dirheni; cả ba hợp chất này đều là các chất khởi đầu phổ biến cho hóa học rheni. Các dạng muối perrhenat khác cũng có thể dễ dàng chuyển hóa thành tetrathioperrhenat theo phản ứng của bisulfua ammoni. Cũng có thể khử decacacbonyl dirheni Re2(CO)10 bằng phản ứng với hỗn hống natri thành Na[Re(CO)5], với rheni ở trạng thái ôxi hóa chính thức là -1. Decacacbonyl dirheni có thể phản ứng với brôm để tạo ra bromopentacacbonylrheni (I), sau đó khử bằng kẽm và axít axetic thành pentacacbonylhydridorheni:
+Re2(CO)10 + Br2 → Re(CO)5Br
+Re(CO)5Br + Zn + HOAc → Re(CO)5H + ZnBr(OAc)
+Bromopentacacbonylrheni (I) có thể bị khử cacbonyl để tạo ra tricacbonyl rheni bằng cách cho tác dụng với nước:
+Re(CO)5Br + 3 H2O → [Re(CO)3(H2O)3]Br + 2 CO
+hay cho phản ứng với bromua tetraetylammoni:
+Re(CO)5Br + 2 (NEt4Br → [NEt4]2[Re(CO)3Br3]
+Diborua rheni (ReB2) là một chất có độ cứng tương tự như cacbua wolfram, cacbua silic, diborua titan hay diborua zirconi.
+Rheni ban đầu được cho là tạo ra anion rhenua, Re−, trong đó nó có trạng thái ôxi hóa −1. Điều này dựa trên sản phẩm khử các muối perrhenat, chẳng hạn như khử perrhenat kali (KReO4) bằng kali kim loại "Rhenua kali" được chỉ ra là tồn tại dưới dạng phức chất ngậm bốn phân tử nước, tương ứng với công thức hóa học KRe•4H2O. Hợp chất này thể hiện tính khử mạnh, và chậm chạp sinh ra khí hiđrô khi hòa tan trong nước. Các hợp chất tương tự của liti và tali cũng được thông báo. Tuy nhiên, nghiên cứu sau này chỉ ra rằng ion "rhenua" trên thực tế là phức hợp hydridorhenat. "Rhenua kali" như thể hiện thực tế là nonahydridorhenat, K2ReH9, chứa anion ReH2−9 trong đó trạng thái ôxi hóa của rheni thực tế là +7. Các phương pháp khác khử các muối perrhenat sinh ra các hợp chất chứa các phức hợp hydrido- khác, bao gồm ReH3(OH)3(H2O)−.
+
+
+== Phổ biến ==
+
+Rheni là một trong những nguyên tố hiếm nhất trong lớp vỏ Trái Đất với mật độ trung bình 1 ppb; các nguồn khác đưa ra con số 0,5 ppb, làm cho nó chỉ chiếm vị trí thứ 77 về độ phổ biến trong lớp vỏ Trái Đất. Rheni có lẽ không ở dạng tự do trong tự nhiên, nhưng chiếm khối lượng tới 0,2 % trong khoáng vật molybdenit, là nguồn sản xuất thương mại của nó, mặc dù các mẫu molybdenit riêng lẻ có thể chứa tới 1,88% rheni cũng đã được tìm thấy. Chile là nguồn dự trữ rheni lớn nhất thế giới, một phần của các mỏ quặng đồng, và đồng thời cũng là nhà sản xuất hàng đầu tính tới năm 2005. Chỉ gần đây thì người ta mới tìm thấy và miêu tả khoáng vật đầu tiên của rheni (năm 1994), đó là một khoáng vật sulfua của rheni (ReS2), ngưng tụ từ lỗ phun khí trên núi lửa Kudriavy của Nga, nằm trên quần đảo Kuril. Được đặt tên là rheniit, khoáng vật hiếm này có giá rất cao đối với các nhà sưu tập, nhưng nó lại không là nguồn có giá trị kinh tế đối với nguyên tố này.
+
+
+== Sản xuất ==
+
+Rheni thương mại được tách ra từ khí ống khói lò nung molypden thu được từ các quặng sulfua đồng. Một số quặng molypden chứa 0,001% tới 0,2% rheni Ôxít rheni (VII) và axít perrhenic dễ dàng hòa tan trong nước; chúng được lọc từ bụi và khí ống khói, tách ra bằng cách cho kết tủa với clorua kali hay clorua ammoni dưới dạng các muối perrhenat, và tinh chế bằng tái kết tinh. Tổng sản lượng sản xuất toàn thế giới khoảng 40-50 tấn/năm; các nhà sản xuất chính là Chile, Hoa Kỳ, Kazakhstan. Tái chế chất xúc tác Pt-Re cùng các hợp kim đặc biệt đã sử dụng cho phép thu hồi khoảng 10 tấn mỗi năm. Giá của kim loại này tăng nhanh trong đầu năm 2008, từ khoảng $1.000–$2.000 mỗi kilôgam trong giai đoạn 2003-2006 tới trên $10.000 trong tháng 2 năm 2008. Dạng kim loại được điều chế bằng cách khử perrhenat ammoni với hiđrô ở nhiệt độ cao:
+2 NH4ReO4 + 7 H2 → 2 Re + 8 H2O + 2 NH3
+
+
+== Ứng dụng ==
+
+Rheni được bổ sung vào các siêu hợp kim chịu nhiệt độ cao sử dụng trong chế tạo các bộ phận của động cơ phản lực, chiếm tới 70% sản lượng rheni toàn thế giới. Ứng dụng lớn khác là trong các chất xúc tác platin-rheni, được sử dụng chủ yếu trong sản xuất xăng có chỉ số octan cao và không chứa chì.
+
+
+=== Hợp kim ===
+Các siêu hợp kim trên cơ sở niken có độ dão được cải thiện khi có sự bổ sung rheni. Các hợp kim thường chứa 3% tới 6% rheni. Các hợp kim thế hệ hai chứa 3%; chúng được sử dụng trong các động cơ của F-15 và F-16, trong khi các hợp kim thế hệ ba đơn tinh thể mới chứa 6% rheni; chúng được sử dụng trong động cơ của F-22 và F-35. Mức tiêu thụ năm 2006 được đưa ra là 28% cho General Electric, 28% cho Rolls-Royce plc và 12% cho Pratt & Whitney, tất cả đều là siêu hợp kim, trong khi sử dụng làm chất xúc tác chỉ chiếm 14% và toàn bộ các ứng dụng khác là 18 %. Năm 2006, 77% lượng rheni tiêu thụ tại Hoa Kỳ là trong các hợp kim.
+Rheni cải thiện các tính chất của wolfram và vì thế là vật liệu tạo hợp kim quan trọng nhất đối với wolfram. Các hợp kim wolfram-rheni là mềm hơn ở nhiệt độ thấp làm cho chúng dễ dàng hơn trong việc gia công cơ khí, trong khi độ ổn định ở nhiệt độ cao cũng được cải thiện. Tác động này tăng lên theo hàm lượng rheni, và vì thế các hợp kim wolfram được sản xuất để chứa tới 27% Re, nó cũng là giới hạn độ hòa tan. Một ứng dụng cho các hợp kim wolfram-rheni là các nguồn tia X. Điểm nóng chảy cao của cả hai thành phần tạo hợp kim, cùng với khối lượng nguyên tử lớn, làm cho chúng ổn định trước va chạm của các electron kéo dài. Các hợp kim rheni của wolfram cũng được dùng như là các cặp nhiệt điện để đo nhiệt độ lên tới 2.200 °C.
+Độ ổn định trước nhiệt độ cao, áp suất hơi thấp, độ kháng mài mòn tốt và khả năng chống lại ăm mòn hồ quang của rheni là hữu ích trong chế tạo các công tắc điện tự làm sạch. Cụ thể, các tia lửa điện xuất hiện trong quá trình chuyển mạch sẽ ôxi hóa các tiếp điểm. Tuy nhiên, ôxít rheni Re2O7 có độ ổn định thấp (hăng hoa ở ~360 °C) và vì thế bị loại bỏ trong quá trình đóng mở mạch.
+Rheni có nhiệt độ nóng chảy cao và áp suất hơi thấp tương tự như tantali và wolfram, tuy nhiên, rheni tạo thành các ôxít không bay hơi. Vì thế, các sợi rheni thể hiện độ ổn định cao nếu như chúng được vận hành không phải là trong chân không mà là trong môi trường khí quyển chứa ôxy. Các sợi này được sử dụng rộng rãi trong phổ khối lượng, trong áp kế ion hóa và trong các đèn flash trong nhiếp ảnh..
+
+
+=== Chất xúc tác ===
+Rheni trong dạng hợp kim rheni-platin được sử dụng làm chất xúc tác trong cải tạo xúc tác (catalytic reforming), là một quy trình hóa học chuyển hóa các ligroin xăng dầu với chỉ số octan thấp thành các sản phẩm lỏng với chỉ số octan cao. Trên thế giới, 30% chất xúc tác sử dụng cho quy trình này có chứa rheni. Hoán đổi olefin là phản ứng khác trong đó rheni cũng được dùng làm chất xúc tác. Thông thường Re2O7 trên alumina được sử dụng cho quy trình này. Các xúc tác rheni kháng lại khá tốt trước độc tố hóa học từ nitơ, lưu huỳnh và phốtpho, và vì thế được dùng trong một số loại phản ứng hiđrô hóa nhất định.
+
+
+=== Khác ===
+Các đồng vị Re188 và Re186 có tính phóng xạ và được dùng trong điều trị ung thư gan. Cả hai đều có độ sâu thâm nhập tương tự trong mô (5 mm cho Re186 và 11 mm cho Re188), nhưng Re186 có ưu thế do có thời gian tồn tại lâu hơn (90 giờ so với 17 giờ).
+Có liên quan bởi tính chu kỳ, rheni có tính chất hóa học tương tự như tecneti; công việc thực hiện với nhãn rheni về phía các mục tiêu thường có thể được thực hiện giống như với tecneti. Điều này là hữu ích cho dược phóng xạ, trong đó rất khó làm việc với tecneti - đặc biệt là đồng vị Tc99m sử dụng trong y học - do giá thành cao và chu kỳ bán rã ngắn của nó.
+
+
+== Phòng ngừa ==
+Người ta biết rất ít về độc tính của rheni và các hợp chất của nó, do chúng chỉ được sử dụng với các lượng rất nhỏ. Các muối hòa tan, như các halua hay các perrhenat của rheni, có thể là nguy hại do các nguyên tố khác không phải rheni hoặc có thể là do chính rheni. Chỉ một số ít các hợp chất của rheni đã được thử nghiệm về độc tính; hai mẫu thử là perrhenat kali và triclorua rheni, được tiêm ở dạng lỏng vào chuột. Perrhenat có LD50 là 2.800 mg/kg sau 7 ngày và triclorua rheni có LD50 là 280 mg/kg.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+WebElements.com - Rhenium
+Hình ảnh rheni tinh khiết (>99,99 %) trong bộ sưu tập nguyên tố của Heinrich Pniok

@@ -7,8 +7,8 @@ Nguyên tắc của IPA nói chung là để cung cấp một ký hiệu độc 
 
 === Một vị trí phát âm ===
 Bảng phụ âm pulmonic bao gồm phần nhiều phụ âm và được xếp từng dòng chỉ cách phát âm và từng cột chỉ đặc tính phát của âm, ví dụ: âm mũi là âm vang lên ở mũi, âm bật là âm được tạo ra bằng cách chặn dòng khí và thả lỏng để khí bật ra phát ra âm. Bảng chính của bao gồm các phụ âm chỉ có một vị trí phát âm.
+
 Lưu ý:
-Các dấu sao (*) chỉ đến những phụ âm chưa có chữ IPA chính thức. Xem các bài được liên kết dùng dấu sao để biết về những chữ ad hoc có sẵn trong các tài liệu.
 Các dấu chữ thập (†) chỉ đến những chữ IPA chưa được hỗ trợ chính thức trong Unicode. Kể từ tháng 5 năm 2005, âm vỗ môi răng có vấn đề này do chữ v đặc biệt mới được chấp nhận: . Trong khi chờ đợi, chữ izhitsa (ѵ) được sử dụng ở đây do nhìn giống chữ chính xác, và những phông ngữ âm học của SIL hỗ trợ ký tự đúng trong Khu vực Sử dụng Cá nhân ().
 Ở những ô có 2 chữ bên cạnh nhau (các obstruent), chữ bên phải là [phụ âm hữu thanh]. Riêng các phụ âm họng [ɦ], [h], [ʔ] không là phụ âm hữu thanh. Ở những ô kia (các sonorant), chữ duy nhất là phụ âm hữu thanh.
 Tuy mỗi vị trí phát âm phụ âm đầu lưỡi (trừ âm xát) chỉ có một chữ, nhưng khi ấy một ngôn ngữ nào đó, các chữ tiêu biểu cho âm răng, chân răng, và chân răng sau, tùy ngôn ngữ.

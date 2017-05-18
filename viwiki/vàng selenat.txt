@@ -1,0 +1,21 @@
+Vàng selenat có công thức hoá học là Au2(SeO4)3. Tan được trong nước, trong dung dịch vàng selenat có màu vàng cam. Trong vàng selenat, ion vàng có số ôxi hóa là +3.
+
+
+== Tinh chất hoá học ==
+Vàng có tính khử yếu nên dễ bị các kim loại khác đẩy ra khỏi dung dịch muối của nó như natri, canxi, nhôm, sắt,...
+Au2(SeO4)3 + 6Na → 2Au + 3Na2SeO4
+2Au2(SeO4)3 + 3Ca → 6Au + 3CaSeO4
+Au2(SeO4)3 + Al → 2Au + Al2(SeO4)3
+Au2(SeO4)3 + 3Fe → 2Au + 3FeSeO4
+Au2(SeO4)3 + 2Fe → 2Au + Fe2(SeO4)3
+Vàng selenat cũng phản ứng được với axit oxalic và axit axetic tạo thành vàng oxalat và vàng axetat:
+Au2(SeO4)3 + 3C2H2O4 → Au2C2O4 + 3H2SeO4
+Au2(SeO4)3 + 6CH3COOH → 2(CH3COO)3Au + 3H2SeO4
+
+
+== Điều chế ==
+Vàng selenat được điều chế bằng cách cho axit selenic đậm đặc nóng hoà tan với vàng, tạo thành dung dịch màu vàng cam:
+2Au + 6H2SeO4 → Au2(SeO4)3 + 3H2SeO3 + 3H2O
+
+
+== Tham khảo ==

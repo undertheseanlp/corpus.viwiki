@@ -1,0 +1,191 @@
+Kết tủa là quá trình hình thành chất rắn từ dung dịch khi phản ứng ứng hóa học xảy ra trong dung lịch lỏng. Nếu không chịu tác dụng của trong lực (lắng đọng) để gắn kết các hạt rắn với nhau, thì các chất tồn tại trong dung dịch ở dạng huyền phù. Sau khi lắng đọng, đặc biệt khi sử dụng phương pháp ly tâm trong phòng thí nghiệm để nén chặt chúng thành khối, chất kết tủa có thể được xem là 'viên'. Sự kết tủa có thể được dùng làm như một môi trường. Chất lỏng không kết tủa còn lại ở trên được gọi là 'supernate' hay 'supernatant' (dịch nổi). Bột thu được từ quá trình kết tủa về mặt lịch sử được gọi là 'bông (tụ)'. Khi chất rắn xuất hiện ở dạng sợi cellulose qua quá trình hóa học, quá trình này được gọi là sự tái sinh (regeneration).
+Đôi khi sự hình thành chất kết tủa thể hiện sự có mặt của phản ứng hóa học. Ví dụ, nếu dung dịch bạc nitrat đổ vào dung dịch natri clorua thì phản ứng hóa học xảy ra tạo thành chất kết tủa có màu trắng là bạc clorua. Hoặc khi dung dịch kali iodua phản ứng với dung dịch chì(II) nitrat, thì hình thành kết tủa màu vàng của chì(II) iodua.
+Kết tủa cũng có thể xuất hiện nếu hàm lượng hợp chất vượt ngưỡng tan của nó (xuất hiện khi trộn các dung môi hoặc thay đổi nhiệt độ của chúng). Sự kết tủa có thể xảy ra rất nhanh từ dung dịch bão hòa.
+
+
+== Ứng dụng ==
+
+Các phản ứng kết tủa có thể được sử dụng trong làm chất tạo màu, loại muốn ra khỏi nước của quá trình xử lý nước thải, và trong phân tích định lượng truyền thống chất vô cơ.
+Kết tủa cũng hữu ích trong việc phân lập các sản phẩm của phản ứng trong quá trình workup. Trong trường hợp lý tưởng, sản phẩm của phản ứng này là chất không tan trong dung môi phản ứng. Do đó, nó tạo thành chất kết tủa, đáng chú ý là tạo các tinh thể tinh khiết. Ví dụ cho trường hợp này là sự tổng hợp porphyrin trong dòng axit propionic. Bằng cách làm lạnh hỗn hợp phản ứng đến nhiệt độ phòng, các tinh thể của porphyrin được kết tủa, và thu sản phẩm bằng phương pháp lọc:
+
+Sự kết tủa cũng có thể xuất hiện khi một phản dung môi (một dung môi mà trong đó sản phẩm không tan) được thêm vào, làm giảm mạnh tính tan của sản phẩm mong muốn. Sau đó, chất kết tủa có thể được tách ra dễ dàng bằng các phương pháp như lọc, tẩy, ly tâm. Ví dụ như việc tổng hợp cromic tetraphenylporphyrin clorua: nước được thêm vào dung dịch phản ứng DMF, và sản phẩm kết tủa. Precipitation is also useful in purifying products: crude bmim-Cl is taken up in acetonitrile, and dropped into ethyl acetate, where it precipitates. Another important application of an antisolvent is in ethanol precipitation of DNA.
+Trong luyện kim, sự kết tủa từ một dung dịch rắn cũng là cách để tạo ra các hợp kim có độ bền cao; quá trình này được gọi là solid solution strengthening.
+
+
+== Minh họa phương trình kết tủa ==
+Ví dụ về phản ứng kết tủa: Dung dịch bạc nitrat (AgNO3) được thêm vào dung dịch chứa kali clorua (KCl), tạo ra kết tủa màu trắng là bạc clorua (AgCl), (Zumdahl, 2005)
+
+  
+    
+      
+        
+          
+            
+              AgNO
+              
+                3
+              
+              
+                
+              
+            
+          
+          +
+          KCl
+          ⟶
+          AgCl
+          
+            ↓
+          
+          +
+          
+            KNO
+            
+              3
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{AgNO3}+KCl->AgCl(v)+KNO3}}}
+  
+Bạc clorua (AgCl) này được tạo ra ở dạng rắn có thể quan sát rõ kết tủa.
+Phản ứng này có thể được mô tả bằng phương trình phản ứng ion sau.
+
+  
+    
+      
+        
+          
+            
+              Ag
+              
+
+              
+              
+                +
+              
+            
+          
+          +
+          
+            
+              NO
+              
+                3
+              
+              
+                −
+              
+            
+          
+          +
+          
+            
+              K
+              
+
+              
+              
+                +
+              
+            
+          
+          +
+          
+            
+              Cl
+              
+
+              
+              
+                −
+              
+            
+          
+          ⟶
+          AgCl
+          
+            ↓
+          
+          +
+          
+            
+              K
+              
+
+              
+              
+                +
+              
+            
+          
+          +
+          
+            NO
+            
+              3
+            
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{Ag+}+{NO3^{-}}+{K+}+{Cl^{-}}->AgCl(v)+{K+}+NO3^{-}}}}
+  
+Phương trình ion rút gọn là:
+
+  
+    
+      
+        
+          
+            
+              Ag
+              
+
+              
+              
+                +
+              
+            
+          
+          +
+          
+            Cl
+            
+
+            
+            
+              −
+            
+          
+          ⟶
+          AgCl
+          
+            ↓
+          
+        
+      
+    
+    {\displaystyle {\ce {{Ag+}+Cl^{-}->AgCl(v)}}}
+  
+
+
+== Chú thích ==
+
+
+== Đọc thêm ==
+Zumdahl, Steven S. (2005). Chemical Principles (ấn bản 5). New York: Houghton Mifflin. ISBN 0-618-37206-7. 
+Smith, Mark (1993). Principles of Science. 
+
+
+== Liên kết ngoài ==
+http://www.answers.com/supernatant
+Digestion Instruments
+A Thesis on pattern formation in precipitation reactions

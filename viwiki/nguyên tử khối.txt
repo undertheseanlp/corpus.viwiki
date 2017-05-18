@@ -1,0 +1,6 @@
+Nguyên tử khối của một nguyên tử là khối lượng tương đối của một nguyên tử nguyên tố đó, là tổng của khối lượng electron, proton và neutron, nhưng do khối lượng electron rất nhỏ nên thường không được tính, vì vậy có thể nguyên tử khối xấp xỉ số khối của hạt nhân. Đơn vị khối lượng nguyên tử là đơn vị Carbon (AMU-Atomic mass unit) = 1/12 khối lượng nguyên tử cacbon đồng vị C12 (12C).
+Một số tài liệu cho đơn vị nguyên tử lượng là u.
+Nguyên tử khối cũng là khối lượng, tính theo đơn vị gam, của một mol nguyên tử.
+
+
+== Tham khảo ==

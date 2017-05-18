@@ -1,0 +1,159 @@
+Năng lượng phân rã là năng lượng được giải phóng từ sự phân rã phóng xạ. Phân rã phóng xạ là một quá trình mà một hạt nhân nguyên tử không bền mất năng lượng bằng cách phát ra các hạt ion hóa và phát xạ. Sự phân rã này, hoặc việc mất năng lượng này, làm cho một nguyên tử theo kiểu này hay còn gọi là hạt nhân mẹ biến đổi thành một nguyên tử theo kiểu khác hay còn gọi là hạt nhân con.
+
+
+== Tính toán phân rã ==
+Sự khác biệt năng lượng của các chất phản ứng được viết là Q:
+
+  
+    
+      
+        Q
+        =
+        
+          
+            (
+            
+              Kinetic energy
+            
+            )
+          
+          
+            after
+          
+        
+        −
+        
+          
+            (
+            
+              Kinetic energy
+            
+            )
+          
+          
+            before
+          
+        
+        ,
+      
+    
+    {\displaystyle Q=\left({\text{Kinetic energy}}\right)_{\text{after}}-\left({\text{Kinetic energy}}\right)_{\text{before}},}
+  
+
+  
+    
+      
+        Q
+        =
+        
+          (
+          
+            
+              (
+              
+                Rest mass
+              
+              )
+            
+            
+              before
+            
+          
+          ×
+          
+            c
+            
+              2
+            
+          
+          )
+        
+        −
+        
+          (
+          
+            
+              (
+              
+                Rest mass
+              
+              )
+            
+            
+              after
+            
+          
+          ×
+          
+            c
+            
+              2
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle Q=\left(\left({\text{Rest mass}}\right)_{\text{before}}\times c^{2}\right)-\left(\left({\text{Rest mass}}\right)_{\text{after}}\times c^{2}\right).}
+  
+Năng lượng phân rã thường được đo bằng MeV (mêga electronvolt) hay keV (kilo electronvôn).
+Các kiểu phân rã gồm: phân rã gamma, phân rã beta và phân rã alpha
+Năng lượng phân rã là sự chênh lệch khối lượng dm giữa đồng vị mẹ và đồng vị con. Nó bằng với năng lượng phát xạ E. Nếu A là khả năng hoạt động phóng xạ, ví dụ như số nguyên tử bị biến đổi theo thời gian M hay khối lượng mol, thì công suất phóng xạ W là:
+
+  
+    
+      
+        W
+        =
+        d
+        m
+        ×
+        
+          (
+          
+            
+              A
+              M
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle W=dm\times \left({\frac {A}{M}}\right).}
+  
+hay
+
+  
+    
+      
+        W
+        =
+        E
+        ×
+        
+          (
+          
+            
+              A
+              M
+            
+          
+          )
+        
+        .
+      
+    
+    {\displaystyle W=E\times \left({\frac {A}{M}}\right).}
+  
+
+
+== Tham khảo ==
+
+Radioactivity Radionuclides Radiation by Joseph Magill and Jean Galy, Springer Verlag, 2005
+
+
+== Liên kết ngoài ==
+University of Waterloo science

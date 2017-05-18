@@ -1,0 +1,45 @@
+Nước cường toan hay nước cường thủy (Hán Việt: 強酸水，強水; tên tiếng Latinh là aqua regia, tức "nước hoàng gia") là chất ăn mòn mạnh, ở dạng lỏng, màu vàng, dễ bay hơi. Nó được tạo thành bằng cách trộn lẫn dung dịch axit nitric đậm đặc và dung dịch axít clohiđric đậm đặc, tối ưu là ở tỉ lệ mol 1:3. Nó là một trong số ít thuốc thử có khả năng hòa tan vàng và bạch kim. Nó có tên gọi "aqua regia" vì đặc tính có thể hòa tan được những kim loại "hoàng tộc" hoặc "quý tộc", mặc dù tantali, iridi, và một vài kim loại cực kỳ thụ động khác không bị hòa tan trong nước cường toan. Nó được sử dụng trong việc khắc bằng axít và trong những thủ tục phân tích. Do có sự hình thành các chất dễ bay hơi là nitrozyl clorua (NOCl) và khí clo, nước cường toan sẽ nhanh chóng mất tác dụng cho nên nó chỉ được pha trộn khi cần sử dụng.
+
+
+== Một số phương trình phản ứng ==
+Các axít riêng biệt trong nước cường toan tự nó không thể hòa tan được vàng. Khi kết hợp với nhau tạo thành nước cường toan, mỗi axít thực hiện một nhiệm vụ khác nhau. Axít nitric (chất ôxi hóa mạnh) sẽ hòa tan một lượng rất nhỏ vàng, tạo ra những ion vàng (Au3+). Axít clohiđric sẵn sàng cung cấp những ion clo (Cl-), các ion này sẽ kết hợp với ion vàng để tạo ra các anion cloraurat (AuCl4-). Vì phản ứng với axít clohiđric là phản ứng hoàn toàn nên các ion vàng sẽ kết hợp hết với các ion clo, cho phép sự ôxi hóa vàng tiếp tục diễn ra. Cứ như vậy, vàng sẽ bị hòa tan hết. Thêm vào đó, vàng có thể bị ôxi hóa bởi clo tự do. Các phương trình của những phản ứng trên được biểu diễn như sau:
+Au (rắn) + 3 NO3- (dung dịch) + 6 H+ (dung dịch) → Au3+ (dung dịch) + 3 NO2 (khí) + 3 H2O (lỏng)
+Au3+ (dung dịch) + 4 Cl- (dung dịch) → AuCl4- (dung dịch)
+Phản ứng ôxi hóa trong trường hợp sản phẩm tạo thành là nitơ mônôxít thay vì nitơ điôxít:
+Au (rắn) + NO3- (dung dịch) + 4 H+ (dung dịch) → Au3+ (dung dịch) + NO (khí) + 2 H2O (lỏng)
+Chuỗi phản ứng hòa tan bạch kim trong nước cường toan (tương tự như với vàng):
+Pt (rắn) + 4 NO 3- (dung dịch) + 8 H+ (dung dịch) → Pt4+ (dung dịch) + 4 NO2 (khí) + 4 H2O (lỏng)
+Pt (rắn) + 4/3 NO 3- (dung dịch) + 16/3 H+ (dung dịch) → Pt4+ (dung dịch) + 4/3 NO (khí) + 8/3 H2O (lỏng)
+Ion bạch kim sau khi bị ôxi hóa lại phản ứng với ion clo tạo thành ion cloroplatinat.
+Pt4+ (dung dịch) + 6 Cl- (dung dịch) → PtCl62- (dung dịch)
+Trong thực tế, phản ứng của bạch kim với nước cường toan phức tạp hơn. Những phản ứng ban đầu tạo ra hỗn hợp axít cloroplatinơ (H2PtCl4) và nitrosoplatinic clorua ((NO)2PtCl4). Nitrosoplatinic clorua là chất rắn. Nếu muốn hòa tan hoàn toàn bạch kim, thì phản ứng tạo ra kết tủa nitrosoplatinic clorua dư với axít clohiđric đậm đặc phải được thực hiện lặp đi lặp lại nhiều lần.
+Pt (rắn) + 2 HNO3 (dung dịch) + 4 HCl (dung dịch) → (NO)2PtCl4 (kết tủa) + 3 H2O (lỏng) + 1/2 O2 (khí)
+(NO)2PtCl4 (kết tủa) + 2 HCl (dung dịch) → H2PtCl4 (dung dịch) + NOCl (khí)
+Axít cloroplatinơ có thể bị ôxi hóa thành axít cloroplatinic khi phản ứng với khí clo trong điều kiện đun nóng.
+H2PtCl4 (dung dịch) + Cl2 (khí) → H2PtCl6 (dung dịch)
+
+
+== Sự phân ly của nước cường toan ==
+Nếu trộn lẫn dung dịch axít nitric đậm đặc và dung dịch axít clohiđric đậm đặc thì các phản ứng hóa học sẽ bắt đầu xảy ra. Những phản ứng này tạo ra các chất dễ bay hơi là nitrozyl clorua (NOCl) và khí clo, dẫn đến sự bốc khói tự nhiên của nước cường toan. Màu vàng của các chất này làm cho nước cường toan có màu vàng đặc trưng. Vì các chất tạo thành bay hơi khỏi dung dịch, nên nước cường toan sẽ mất hiệu nghiệm.
+HNO3 (dung dịch) + 3 HCl (dung dịch) → NOCl (khí) + Cl2 (khí) + 2 H2O (lỏng)
+Nitrozyl clorua có thể bị phân ly thành nitơ monoxit và khí clo. Đó là quá trình phân ly không hoàn toàn. Do đó, khói bốc lên từ nước cường toan có chứa nitrozyl clorua, nitơ mônôxít và khí clo.
+2 NOCl (khí) → 2 NO (khí) + Cl2 (khí)
+
+
+== Lịch sử ==
+
+Axít clohidric được phát hiện lần đầu tiên vào khoảng năm 800 bởi nhà giả kim người Hồi giáo Jabir Ibn Hayyan (Gaber), bằng cách trộn muối ăn với axít sulfuric. Phát minh của Jabir về nước cường toan, bao gồm axít clohiđric và axít nitric, đã đóng góp vào sự cố gắng tìm kiếm đá tạo vàng của những nhà giả kim thuật.
+Khi Đức xâm chiếm Đan Mạch trong Chiến tranh thế giới thứ II, nhà hóa học người Hungary George de Hevesy đã hòa tan những huân chương Nobel bằng vàng của Max von Laue và James Franck vào nước cường toan để ngăn không cho bọn phát xít ăn cắp chúng. Ông đã cất giữ dung dịch sau phản ứng trên ngăn sách trong phòng thí nghiệm của mình tại học viện Niels Bohr. Sau chiến tranh, ông trở lại, thấy dung dịch không hề suy chuyển, tiến hành kết tủa để thu lại vàng ra khỏi axít. Số vàng này đã được hoàn trả về viện Hàn Lâm Khoa học Hoàng Gia Thụy Điển để đúc lại những huân chương mới cho Laue và Franck.[1]
+
+
+== Những nguồn tham khảo ==
+The Nobel Medals
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Aqua regia (chemistry) tại Encyclopædia Britannica (tiếng Anh)
+Chemistry Comes Alive! Aqua Regia
+The Columbia Encyclopedia: Aqua Regia

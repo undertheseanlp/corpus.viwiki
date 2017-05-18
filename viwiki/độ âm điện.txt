@@ -1,0 +1,16 @@
+Độ âm điện của một nguyên tử là khả năng hút electron của nguyên tử đó khi tạo thành liên kết hóa học. Như vậy độ âm điện của nguyên tử nguyên tố càng lớn thì tính phi kim nguyên tố đó càng mạnh và ngược lại, độ âm điện của nguyên tử nguyên tố càng nhỏ thì tính kim loại càng mạnh.
+Trong hóa học có nhiều thang độ âm điện khác nhau, tuy nhiên phổ biến hơn cả là thang độ âm điện Pauling do nhà hóa học Linus Pauling thiết lập năm 1932:
+
+
+== Sự biến đổi độ âm điện ==
+Trong một chu kì theo chiều tăng dần của điện tích hạt nhân (từ trái qua phải), độ âm điện của nguyên tử các nguyên tố thường tăng dần.
+Trong cùng một nhóm (từ trên xuống dưới) theo chiều tăng của điện tích hạt nhân, độ âm điện của nguyên tử các nguyên tố thường giảm dần.
+Vậy độ âm điện của nguyên tử nguyên tố A biến đổi tuần hoàn theo chiều tăng của điện tích hạt nhân nguyên tử.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Electronegativity (Physics) tại Encyclopædia Britannica (tiếng Anh)
+Chemical bonding (Chemistry): Electronegativity tại Encyclopædia Britannica (tiếng Anh)

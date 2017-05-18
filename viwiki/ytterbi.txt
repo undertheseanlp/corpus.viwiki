@@ -1,0 +1,60 @@
+Ytterbi là một nguyên tố đất hiếm thuộc nhóm Lantan có ký hiệu Yb và số nguyên tử 70. Ytterbi là kim loại màu trắng bạc mềm được tìm thấy trong các khoáng vật gadolinit, monazit, và xenotim. Nguyên tố này đôi khi đi cùng với yttri hoặc các nguyên tố liên quan khác và được dùng trong các loại thép nhất định. Ytterbi tự nhiên là hỗn hợp của 7 đồng vị ổn định. Ytterbi-169 là một đồng vị nhân tạo, được dùng làm nguồn tạo tia gamma.
+
+
+== Tính chất ==
+
+
+=== Tính chất vật lý ===
+Ytterbi là một nguyên tố mềm, dễ uốn và dễ kéo có ánh bạc lấp lánh. Là nguyên tố đất hiếm, nó dễ hòa tan trong các axit vô cơ, phản ứng chậm với nước và bị ôxy hóa chậm trong không khí.
+Ytterbi có 3 dạng thù hình gọi là alpha, beta và gamma, và các điểm chuyển đổi hình dạng ở −13 °C và 795 °C. Dạng beta tồn tại ở nhiệt độ phòng và có cấu trúc tinh thể tâm mặt trong khi dạng gamma tồn tại ở nhiệt độ cao hơn có cấu trúc tâm khối.
+Thông thường dạng beta có độ dẫn diện giống kim loại, nhưng nó trở thành bán dẫn khi ở áp suất khoảng 16.000 atm (1,6 GPa). Điện trở suất của nó tăng gấp 10 lần ở 39.000 atm (3,9 GPa) nhưng giảm liên tục, khoảng 10% so với giá trị ở nhiệt độ phòng tại 40.000 atm (4 GPa).
+Trái ngược với các kim loại đất hiếm khác, thường chúng mang tính chất phản sắt từ hoặc sắt từ ở nhiệt độ thấp, Yb có tính thuận từ ở các giá trị nhiệt độ lớn hơn 1 K.
+Nó có điểm nóng chảy ở 824 °C và điểm sôi ở 1196 °C: điều này làm cho nó có khoảng hóa lỏng hẹp so với các kim loại khác.
+
+
+=== Tính chất hóa học ===
+Kim loại Ytterbi xỉ chậm khi tiếp xúc với không khí và dễ cháy ở 200 °C tạo ra ytterbi(III) ôxit (Yb2O3) hoặc các ytterbi monoxit (YbO) kém bền hơn.
+Ytterbi có khả năng nhường điện tử, phản ứng chậm với nước lạnh và phản ứng nhanh với nước ấm tạo thành ytterbi hydroxit:
+2 Yb (r) + 6 H2O (l) → 2 Yb(OH)3 (dd) + 3 H2 (k)
+Kim loại Ytterbi phản ứng với tất cả halogen:
+2 Yb (r) + 3 F2 (k) → 2 YbF3 (r) [trắng]
+2 Yb (r) + 3 Cl2 (k) → 2 YbCl3 (r) [trắng]
+2 Yb (r) + 3 Br2 (k) → 2 YbBr3 (r) [trắng]
+2 Yb (r) + 3 I2 (k) → 2 YbI3 (r) [trắng]
+Các ion Ytterbi(III) hấp thụ ánh sáng trong dãi quang phổ hồng ngoại gần, nhưng không hấp thụ dãi phổ ánh sáng nhìn thấy nên nó có màu trắng, và các anion không màu của các muối ytterbi cũng không màu. Ytterbi dễ hòa tan trong axit sulfuric loãng tạo thành các dung dịch chứa các ion Yb(III) không màu, tồn tại ở dạng phức [Yb(OH2)9]3+:
+2 Yb (r) + 3 H2SO4 (dd) → 2 Yb3+ (dd) + 3 SO42 (dd) + 3 H2 (k)
+
+
+=== Các hợp chất ===
+Ytterbi có ứng xử hóa học tương tự như các nguyên tố trong nhóm Lantan. Hầu hết các hợp chất được tìm thấy có trạng thái ôxy hóa +3, các muối ở trạng thái này gần như không màu. Giống europi, samari hoặc thuli, các trihalogen có thể bị ôxy hóa bởi hydro bằng các thêm vào kim loại tạo ra các dihalogen, ví dụ như YbCl2. Trạng thái +2 phản ứng tương tự với các hợp chất của kim loại kiềm thổ, ví dụ như Ytterbi(II) oxit (YbO) có cùng cấu trúc như canxi ôxit (CaO).
+Các Halogenua: YbCl2, YbBr3, YbCl3, YbF3
+Ôxít: Yb2O3
+
+
+=== Các đồng vị ===
+
+Ytterbi trong tự nhiên là hợp phần của 7 đồng vị bền: Yb-168, Yb-170, Yb-171, Yb-172, Yb-173, Yb-174, và Yb-176, trong đó Yb-174 là đồng vị phổ biến nhất chiếm 31,83%. 27 đồng vị phóng xạ đã được phát hiện, trong đó đồng vị ổn định nhất là Yb-169 có chu kỳ bán rã 32,026 ngày, Yb-175 là 4,185 ngày, và Yb-166 là 56,7 giờ. Tất cả đồng vị phóng xạ còn lại có chu kỳ bán rã nhỏ hơn 2 giờ, và đa số trong đó có chu kỳ bán rã nhỏ hơn 20 phút. Nguyên tố này có 12 meta state, trạng thái ổn định nhất là Yb-169m (t½ 46 giây).
+Khối lượng nguyên tử của các đồng vị ytterbi nằm trong khoảng từ 147,9674 u (Yb-148) đến 180,9562 u (Yb-181). Cơ chế phân rã chủ yếu trước đồng vị ổn định nhất Yb-174 là bắt điện tử, và cơ chế chủ yếu sau là phát tia beta. Các sản phẩm phân rã chủ yếu trước Yb-174 là các đồng vị của nguyên tố 69 (thuli), và sau là các đồng vị của nguyên tố 71 (luteti). Về lĩnh vực quang lượng tử, các đồng vị ytterbi khác nhau tuân theo hoặc là Bose-Einstein statistics hoặc là Fermi-Dirac statistics, dẫn đến ứng xử thú vị trong các ô mạng quang học.
+
+
+== Lịch sử ==
+Ytterbi được nhà hóa học Thụy Điển Jean Charles Galissard de Marignac phát hiện năm 1878. Marignac đã tìm thấy một thành phần mới trong đất sau đó được gọi là erbia và đặt tên nó là ytterbia (theo tên Ytterby, một ngôi làng ở Thụy Điển nơi ông tìm thấy thành phần mới này). Ông nghi ngờ rằng ytterbia là một hỗn hợp của nguyên tố mới mà ông gọi là ytterbi.
+Năm 1907, nhà hóa học người Pháp Georges Urbain tách ytterbia của Marignac thành hai thành phần: neoytterbia và lutecia. Neoytterbia có thể sau này được gọi là nguyên tố ytterbi, và lutecia có thể là nguyên tố luteti. Cùng lúc đó, Auer von Welsbach đã tách hoàn toàn các nguyên tố này từ ytterbia, nhưng ông gọi chúng là aldebarani và cassiopei.
+Các tính chất vật lý và hóa học của ytterbi đã không được xác định mãi cho đến năm 1953 khi ytterbi gần như tinh khiết đầu tiên được sản xuất. Giá ytterbi tương đối ổn định khoảng 1.000 USD/kg từ khoảng năm 1953 và 1998.
+
+
+== Xem thêm ==
+Erbi
+Terbi
+Yttri
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Guide to the Elements – Revised Edition, Albert Stwertka, (Oxford University Press; 1998) ISBN 0-19-508083-1
+
+
+== Liên kết ngoài ==
+It's Elemental – Ytterbium

@@ -1,0 +1,10 @@
+Tĩnh điện là hiện tượng mất cân bằng điện tích trên bề mặt của một vật liệu. Điện tích sẽ được lưu giữ ở đó cho đến khi nó có thể truyền đi nơi khác thông qua một dòng điện hoặc sự phóng điện. Khái niệm "tĩnh" trong tĩnh điện ý nói đến sự tương phản với dòng điện, hình thức mà điện được truyền qua vật dẫn và mang theo năng lượng.
+Một điện tích tĩnh điện được tạo ra khi hai bề mặt tiếp xúc với nhau rồi tách ra, và ít nhất một trong các bề mặt này có điện trở suất cao (có xu hướng cách điện hoặc cản trở dòng điện).
+Những ảnh hưởng của tĩnh điện rất quen thuộc với cuộc sống thường ngày vì hầu hết mọi người đều có thể cảm thấy, nghe thấy và nhìn thấy các tia lửa điện khi một điện tích thừa bị trung hòa khi ở gần một vật dẫn lớn (ví dụ như dây nối đất đất).
+
+
+== Nguyên nhân ==
+Vật chất được cấu thành từ các nguyên tử trung hòa về điện tích vì chúng chứa số lượng bằng nhau về điện tích dương (proton trong hạt nhân) và điện tích âm (điện tử trong vỏ). Hiện tượng tĩnh điện yêu cầu sự tách rời các điện tích dương và âm này. Khi hai vật liệu tiếp xúc nhau, điện tử sẽ di chuyển từ vật này sang vật kia, gây ra sự dư thừa điện tích dương trên một vật liệu, và sự thừa điện tích âm ở bên còn lại. Khi các vật liệu được tách ra, sự mất cân bằng điện tích này vẫn được duy trì.
+
+
+== Tham khảo ==

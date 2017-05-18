@@ -1,0 +1,21 @@
+Kè là dạng công trình bảo vệ bờ sông, bờ biển khỏi tác động xói lở gây ra bởi dòng chảy và sóng. Thông thường kè được thiết kế ở trên mái đê.
+
+
+== Các thông số ==
+Các thông số cơ bản của thiết kế kè gồm có:
+Cao trình đỉnh kè và chân kè: chính là giới hạn phạm vi bảo vệ của kè đối với bờ.
+Độ dốc mái: biểu thị theo tỉ lệ, chẳng hạn 1:3. Mái càng thoải (ít dốc) thì kè càng có tác dụng bảo vệ, nhưng giá thành sẽ đắt hơn (vì diện tích mặt kè lớn).
+Cấu tạo và kích thước lớp phủ: Lớp phủ mái kè phải được thiết kế đủ năng lực chống lại tác động của dòng chảy, sóng, v.v... Thông thường lớp phủ gồm những cấu kiện rời ghép với nhau. Giữa chúng có khe hở để cho nước bên trong thoát ra ngoài, tránh tác động của áp suất nước trong đất.
+Cấu tạo và kích thước lớp đệm: Lớp đệm nằm ngay dưới các cấu kiện của lớp phủ, có tác dụng ngăn không cho các hạt cát bị dòng thấm đẩy trào ra ngoài qua lớp phủ (ngăn hiện tượng xói ngầm). Lớp đệm đóng vai trò như một tầng lọc ngược với kích thước hạt cỡ hạt dăm, sạn, hoặc có thể dùng vải địa kĩ thuật.
+
+
+== Xem thêm ==
+Đê
+Xói lở
+
+
+== Tài liệu ==
+K.W. Pilarczyk, Dikes and Revetment, Design, Maintenance and Safety Assessment. Taylor-Francis, 1998.
+
+
+== Tham khảo ==

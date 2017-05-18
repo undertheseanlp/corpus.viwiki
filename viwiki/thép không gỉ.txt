@@ -1,0 +1,60 @@
+Thép không gỉ hay còn gọi là inox (i-nốc, bắt nguồn từ tiếng Pháp: inox) là một dạng hợp kim của sắt chứa tối thiểu 10,5% crôm. Nó ít bị biến màu hay bị ăn mòn như thép thông thường khác.
+
+
+== Lịch sử ==
+Thép không gỉ gắn liền với tên tuổi của một chuyên gia ngành thép người Anh là ông Harry Brearley. Khi vào năm 1913, ông đã sáng chế ra một loại thép đặc biệt có khả năng chịu mài mòn cao, bằng việc giảm hàm lượng carbon xuống và cho crôm vào trong thành phần thép (0.24% C và 12.8% Cr).
+Sau đó hãng thép Krupp ở Đức tiếp tục cải tiến loại thép này bằng việc cho thêm nguyên tố niken vào thép để tăng khả năng chống ăn mòn axit và làm mềm hơn để dễ gia công. Trên cơ sở hai phát minh này mà 2 loại mác thép 400 và 300 ra đời ngay trước Chiến tranh thế giới lần thứ nhất. Sau chiến tranh, những năm 20 của thế kỷ 20, một chuyên gia ngành thép người Anh là ông W. H Hatfield tiếp tục nghiên cứu, phát triển các ý tưởng về thép không gỉ. Bằng việc kết hợp các tỉ lệ khác nhau giữa ni ken và crôm trong thành phần thép, ông đã cho ra đời một loại thép không gỉ mới 18/8 với tỉ lệ 8% Ni và 18% Cr, chính là mác thép 304 quen thuộc ngày nay. Ông cũng là người phát minh ra loại thép 321 bằng cách cho thêm thành phần titan vào thép có tỉ lệ 18/8 nói trên.
+Trải qua gần một thế kỷ ra đời và phát triển, ngày nay thép không gỉ đã được dùng rộng rãi trong mọi lĩnh vực dân dụng và công nghiệp với hơn 100 mác thép khác nhau.
+Trong ngành luyện kim, thuật ngữ thép không gỉ (inox) được dùng để chỉ một dạng hợp kim sắt chứa tối thiểu 10,5% crôm. Tên gọi là "thép không gỉ" nhưng thật ra nó chỉ là hợp kim của sắt không bị biến màu hay bị ăn mòn dễ dàng như là các loại thép thông thường khác. Vật liệu này cũng có thể gọi là thép chống ăn mòn. Thông thường, có nhiều cách khác nhau để ứng dụng inox cho những bề mặt khác nhau để tăng tuổi thọ của vật dụng. Trong đời sống, chúng xuất hiện ở khắp nơi như những lưỡi dao cắt hoặc dây đeo đồng hồ...
+Thép không gỉ có khả năng chống sự ôxy hoá và ăn mòn rất cao, tuy nhiên sự lựa chọn đúng chủng loại và các thông số kỹ thuật của chúng để phù hợp vào từng trường hợp cụ thể là rất quan trọng.
+Khả năng chống lại sự oxy hoá từ không khí xung quanh ở nhiệt độ thông thường của thép không gỉ có được nhờ vào tỷ lệ crôm có trong hợp kim (nhỏ nhất là 13% và có thể lên đến 26% trong trường hợp làm việc trong môi trường làm việc khắc nghiệt). Trạng thái bị oxy hoá của crôm thường là crôm ôxit(III). Khi crôm trong hợp kim thép tiếp xúc với không khí thì một lớp chrom III oxit rất mỏng xuất hiện trên bề mặt vật liệu; lớp này mỏng đến mức không thể thấy bằng mắt thường, có nghĩa là bề mặt kim loại vẫn sáng bóng. Tuy nhiên, chúng lại hoàn toàn không tác dụng với nước và không khí nên bảo vệ được lớp thép bên dưới. Hiện tượng này gọi là sự oxi hoá chống gỉ bằng kỹ thuật vật liệu. Có thể thấy hiện tượng này đối với một số kim loại khác như ở nhôm và kẽm.
+Khi những vật thể làm bằng inox được liên kết lại với nhau với lực tác dụng như bu lông và đinh tán thì lớp ôxit của chúng có thể bị bay mất ngay tại các vị trí mà chúng liên kết với nhau. Khi tháo rời chúng ra thì có thể thấy các vị trí đó bị ăn mòn.
+Niken cũng như mô-lip-đen và vanađi cũng có tính năng oxy hoá chống gỉ tương tự nhưng không được sử dụng rộng rãi.
+Bên cạnh crôm, niken cũng như mô-lip-đen và ni tơ cũng có tính năng oxi hoá chống gỉ tương tự.
+Niken (Ni) là thành phần thông dụng để tăng cường độ dẻo, dễ uốn, tính tạo hình của thép không gỉ. Mô-lip-đen (Mo) làm cho thép không gỉ có khả năng chịu ăn mòn cao trong môi trường axit. Ni tơ (N) tạo ra sự ổn định cho thép không gỉ ở nhiệt độ âm (môi trường lạnh).
+Sự tham gia khác nhau của các thành phần crôm, niken, mô-lip-đen, ni tơ dẫn đến các cấu trúc tinh thể khác nhau tạo ra tính chất cơ lý khác nhau của thép không gỉ.
+
+
+== Phân loại ==
+Có bốn loại thép không gỉ chính: Austenitic, Ferritic,Austenitic-Ferritic (Duplex), và Martensitic.
+Austenitic là loại thép không gỉ thông dụng nhất. Thuộc dòng này có thể kể ra các mác thép SUS 301, 304, 304L, 316, 316L, 321, 310s… Loại này có chứa tối thiểu 7% ni ken, 16% crôm, carbon (C) 0.08% max. Thành phần như vậy tạo ra cho loại thép này có khả năng chịu ăn mòn cao trong phạm vi nhiệt độ khá rộng, không bị nhiễm từ, mềm dẻo, dễ uốn, dễ hàn. Loai thép này được sử dụng nhiều để làm đồ gia dụng, bình chứa, ống công nghiệp, tàu thuyền công nghiệp, vỏ ngoài kiến trúc, các công trình xây dựng khác…
+Ferritic là loại thép không gỉ có tính chất cơ lý tương tự thép mềm, nhưng có khả năng chịu ăn mòn cao hơn thép mềm (thép carbon thấp). Thuộc dòng này có thể kể ra các mác thép SUS 430, 410, 409... Loại này có chứa khoảng 12% - 17% crôm. Loại này, với 12%Cr thường được ứng dụng nhiều trong kiến trúc. Loại có chứa khoảng 17%Cr được sử dụng để làm đồ gia dụng, nồi hơi, máy giặt, các kiến trúc trong nhà...
+Austenitic-Ferritic (Duplex) Đây là loại thép có tính chất "ở giữa" loại Ferritic và Austenitic có tên gọi chung là DUPLEX. Thuộc dòng này có thể kể ra LDX 2101, SAF 2304, 2205, 253MA. Loại thép duplex có chứa thành phần Ni ít hơn nhiều so với loại Austenitic. DUPLEX có đặc tính tiêu biểu là độ bền chịu lực cao và độ mềm dẻo được sử dụng nhiều trong ngành công nghiệp hoá dầu, sản xuất giấy, bột giấy, chế tạo tàu biển... Trong tình hình giá thép không gỉ leo thang do ni ken khan hiếm thì dòng DUPLEX đang ngày càng được ứng dụng nhiều hơn để thay thế cho một số mác thép thuộc dòng thép Austenitic như SUS 304, 304L, 316, 316L, 310s…
+Martensitic Loại này chứa khoảng 11% đến 13% Cr, có độ bền chịu lực và độ cứng tốt, chịu ăn mòn ở mức độ tương đối. Được sử dụng nhiều để chế tạo cánh tuabin, lưỡi dao...
+
+
+== Đặc tính của thép không gỉ ==
+Các đặc tính của nhóm thép không gỉ có thể được nhìn dưới góc độ so sánh với họ thép carbon thấp. Về mặt chung nhất, thép không gỉ có:
+Tốc độ hóa bền rèn cao
+Độ dẻo cao hơn
+Độ cứng và độ bền cao hơn
+Độ bền nóng cao hơn
+Chống chịu ăn mòn cao hơn
+Độ dẻo dai ở nhiệt độ thấp tốt hơn
+Phản ứng từ kém hơn (chỉ với thép austenit)
+Các cơ tính đó thực ra đúng cho họ thép austenit và có thể thay đổi khá nhiều đối với các mác thép và họ thép khác.
+Các cơ tính đó liên quan đến các lĩnh vực ứng dụng thép không gỉ, nhưng cũng chịu ảnh hưởng của thiết bị và phương pháp chế tạo.
+Bảng 1 (Phần A). Tính chất so sánh của họ thép không gỉ.
+(1)- Sức hút của nam châm đối với thép. Chú ý, một số mác thép bị nam châm hút khi đã qua rèn nguội.
+(2)- Biến động đáng kể giữa các mác thép trong mỗi nhóm, ví dụ, các mác không gia được có tính chịu ăn mòn thấp hơn, và khi có Mo cao hơn sẽ có tính kháng cao hơn.
+Bảng 1 (Phàn B). Cơ tính so sánh của họ thép không gỉ.
+(3)- Đo bằng độ dẻo dai hoặc độ dẻo ở gần 0 °C. Thép không gỉ Austenit giữ được độ dẻo ở nhiệt độ thấp.
+
+
+== Phân loại theo tiêu chuẩn ==
+Có nhiều biến thể về thép không gỉ và học viện gang thép Mỹ (AISI) trước đây quy định một số mác theo chuẩn thành phần, và vẫn tiếp tục được sử dụng rộng rãi như ngày nay. Ngày nay, SAE và ASTM dựa theo chuẩn của AISI để quy định các mác thép của mình, được đánh chỉ số UNS là 1 ký tự + 5 chữ số đối với các mác thép mới. Phạm vi đánh chỉ đầy đủ nhất của những họ thép không gỉ được sử dụng trong Hiệp hội gang thép (ISS), và sổ tay SEA/ASTM về hệ chỉ số hợp nhất. Các mác thép nào đó khác không có chỉ số chuẩn, mà đang được sử dụng ở các quốc gia khác hoặc các quy định quốc tế, hoặc quy định đối với sản xuất chuyên biệt như các chuẩn về thép dây hàn.
+
+
+== Tính chất vật lý ==
+
+
+== Xem thêm ==
+Khối lượng riêng
+Độ đàn hồi
+Độ dẫn điện
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

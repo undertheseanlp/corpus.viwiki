@@ -1,0 +1,56 @@
+Công nghệ đúc là công nghệ chế tạo sản phẩm bằng phương pháp rót vật liệu ở dạng chảy lỏng vào khuôn để tạo ra sản phẩm có hình dạng theo khuôn mẫu. Đa phần công nghệ đúc thực hiện với các vật liệu kim loại.
+Công nghệ đúc được chia thành hai loại chính: Đúc thông thường và Đúc đặc biệt
+
+
+== Đúc thông thường (sử dụng khuôn cát) ==
+Là công nghệ có từ cổ xưa, đúc thông thường được thực hiện với các khuôn cát, nếu không qua sấy khuôn, thì gọi là khuôn cát tươi. Hỗn hợp làm khuôn và lõi khuôn là cát silic, có thể có phụ gia là nước thủy tinh. Lòng khuôn được tạo hình bởi mẫu đúc và lõi (nếu có). Đúc trong khuôn cát có giá thành rẻ, dễ làm nhưng năng suất thấp. Đúc trong khuôn cát có thể dùng để đúc vật đúc từ hợp kim đen và hợp kim màu.
+
+
+== Đúc đặc biệt ==
+Là phương pháp khác đúc thông thường, đúc đặc biệt có sự khác biệt về nguyên liệu và công nghệ làm khuôn, cách điền đầy và tạo hình vật đúc.
+Đúc đặc biệt thường sử dụng khuôn kim loại. Thường có các dạng: Đúc trong khuôn kim loại, Đúc áp lực, Đúc ly tâm, Đúc liên tục và một số công nghệ đúc đặc biệt khác.
+
+
+=== Đúc trong khuôn kim loại ===
+Ưu điểm:
+Đúc trong khuôn kim loại là thuật ngữ chỉ một phương pháp sản xuất vật đúc bằng cách rót kim loại lỏng vào khuôn kim loại. Vật đúc đông đặc dưới tác dụng của trọng trường mà không chịu bất kỳ tác động nào khác. Đây là phương pháp rất phổ biến hiện nay do nó có các đặc điểm sau đây:
+Khuôn được sử dụng nhiều lần;
+Độ sạch và độ chính xác được nâng cao đáng kể. Điều này sẽ làm giảm khối lượng gia công cơ khí;
+Nâng cao độ bền cơ học của vật đúc, đặc biệt là độ bền ở lớp bề mặt tiếp giáp với khuôn kim loại.
+Nâng cao sản lượng hàng năm do giảm được kích thước đậu ngót và phế phẩm đúc.
+Nâng cao năng suất lao động.
+Tiết kiệm diện tích nhà xưởng do không cần chế tạo hỗn hợp làm khuôn và quá trình làm khuôn.
+Giảm giá thành sản phẩm.
+Dễ cơ khí và tự động hoá, điều kiện vệ sinh lao động tốt.
+Nhược điểm:
+Chế tạo khuôn kim loại phức tạp và đắt tiền; độ bền khuôn hạn chế khi đúc thép, khó đúc những vật thành mỏng và hình dáng phức tạp; vật đúc có ứng suất lớn do khuôn kim loại cản co mạnh; vật đúc gang dễ bị biến trắng; quy trình đúc phải chặt chẽ.
+Tuy có những đặc điểm trên nhưng công nghệ đúc trong khuôn kim loại vẫn được sử dụng rộng rãi để đúc gang, hợp kim và kim loại màu trong sản xuất hàng loạt và loạt lớn bởi vì có những chi tiết không thể chế tạo được nếu không sử dụng khuôn kim loại, ví dụ các tấm lớn thân máy bay, các chi tiết nhỏ nhưng đòi hỏi độ bền cao trong động cơ.
+
+
+=== Đúc phôi thép ===
+Thiết bị đúc khuôn
+Thiết bị đúc khuôn thường được chia thành đúc trên và đúc dưới, đúc thép lắng và thép sôi.
+
+Đúc trên: Rót vào từ đầu thỏi.
+Đúc dưới:
+Ưu điểm: Rót vào ống từ các cống rót dâng lên từng thỏi từ phía dưới. Như vậy với đúc dưới, một lần rót có thể rót được nhiều thỏi, năng suất và chất lượng bề mặt thỏi tốt hơn nhiều do mặt nước thép dâng lên bình ổn không bắn toé như rót từ trên, khí, tạp chất và xỉ đều có điều kiện nổi lên trên tốt hơn, che chắn chống tái oxi hoá cũng thuận tiện.
+Nhược điểm: Thiết bị trên đĩa đúc, ống rót trung tâm phức tạp hơn, tiên tốn thêm vật liệu chịu lửa và lượng thép ở ống rót và cống rót, giảm suất thu hồi kim loại.
+
+Thùng rót
+Tác dụng của thùng rót hay còn gọi là thùng chứa ngoài tác dụng chứa đựng nước thép đến nơi đúc ra còn làm nhiệm vụ cuối cùng tiến thêm một bước nữa là khử oxi, khử S, đồng đều nhiệt độ, thành phần nước thép, lắng nước thép một thời gian để khử khí, tạp chất và xỉ nổi lên tách ra khỏi nước thép, làm sạch cải thiện đáng kể lượng thép. Cũng chính lợi dụng thời gian nước thép lắng trong thùng dài hay ngắn, kích thước lỗ rót mà điều chỉnh nhiệt độ, tốc độ rót đúc hợp lý. Khi mà những năm gần đây phương pháp tinh luyện ngoài lò phát triển mạnh mẽ thì thùng rót kiêm luôn một thiết bị (lò luyện) quan trọng trong việc tinh luyện.
+Khuôn đúc
+Khuôn đúc là thiết bị tạo hình cho nước thép đông đặc khi rót nước thép vào tạo thành thỏi thép. Trong sản xuất, khuôn đúc là phần hao tổn có tính thay đổi, có ảnh hưởng trực tiếp đến chất lượng thép và là một chỉ tiêu hạch toán kinh tế. Cho nên thiết kế cần chính xác, sử dụng và duy tu bảo dưỡng chuẩn xác có ý nghĩa rất quan trọng.
+
+Vật liệu làm khuôn:
+
+Vật liệu làm khuôn thường sử dụng là gang, do có tính dẫn nhiệt tốt, chắc chắn và rẻ. Do điều kiện làm việc của khuôn đúc thép rất khắc nghiệt, làm việc có tính chu kỳ: gia nhiệt, làm nguội, tức là giãn nở, co ngót nên khuôn đúc dễ bị hỏng bởi nứt vỡ hoặc bong chóc.
+Tuổi thọ khuôn đúc phần lớn được quyết định bởi thành phần hoá học của hợp kim đúc
+Để nâng cao tính đúc cần duy trì một hàm lượng các bon tương đối cao: Thường khoảng 3,2 -4,0%, Si líc (Si) chọn theo yêu cầu của tổ chức: thường khoảng 1,2 - 2,2 %. Hiện tượng tróc khuôn tăng theo hàm lượng Si tăng, nhưng nứt thì ngược lại.
+
+
+== Tham khảo ==
+Các phương pháp đúc đặc biệt, Nguyễn Hữu Dũng, Nhà xuất bản Khoa học và Kỹ thuật Hà Nội, Hà Nội, 2006.
+Công nghệ đúc, Phạm Quang Lộc và tập thể, ĐHBK HN, 1989
+
+
+== Tham khảo ==

@@ -1,0 +1,8 @@
+Nhóm tuần hoàn là khái niệm dùng để chỉ nhóm các nguyên tố được xếp thành 1 hàng dọc trong bảng tuần hoàn. Các nguyên tố thuộc 1 nhóm có cùng số electron hóa trị và vì thế có cùng tính chất hóa học. Hiện tại có tổng cộng 18 nhóm, trong đó có 8 nhóm chính (1 - 2 và 13 - 18), 10 nhóm phụ 3 - 12. Trong mỗi nhóm, từ trên xuống dưới: số nguyên tử tăng, độ âm điện giảm, tính kim loại tăng.
+
+
+=== Các nhóm trong bảng tuần hoàn ===
+Ngoài ra còn có các nhóm Actini và nhóm Lantan gồm các kim loại có tính chất hóa học giống nhau. Các nguyên tố chưa được tìm thấy có số thứ tự từ 121 đến 138 được xếp vào nhóm siêu Actini, chúng là những kim loại không bền và có tính phóng xạ.
+
+
+== Tham khảo ==

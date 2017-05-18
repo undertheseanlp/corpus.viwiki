@@ -1,0 +1,26 @@
+Copernixi (phát âm như "co-pơ-ni-xi"; tên quốc tế: copernicium) là một nguyên tố hóa học tổng hợp phóng xạ với ký hiệu Cn và số nguyên tử 112. Nguyên tố này trước đây được IUPAC đặt tên theo hệ thống là ununbi (tiếng Anh: ununbium, phát âm /uːnˈuːnbiəm/ ( phát) oon-OON-bee-əm), với ký hiệu Uub. Nó được tổng hợp đầu tiên năm 1996 bởi Gesellschaft für Schwerionenforschung (GSI), và được đặt tên theo tên nhà thiên văn học Nicolaus Copernicus.
+Copernixi hiện tại là nguyên tố được đánh số cao thứ ba đã được IUPAC chính thức công nhận. Đồng vị bền nhất được phát hiện cho đến nay là 285Cn có chu kỳ bán rã ≈30 giây, mặc dù có dấu hiệu cho thấy 285Cn có thể có đồng phân hạt nhân với chu kỳ bán rã lâu hơn 8,9 phút. Tổng số có khoảng 75 nguyên tử copernixi đã được tổng hợp dùng nhiều phản ứng hạt nhân khác nhau. Các thí nghiệm gần đây đề xuất rằng copernixi ứng xử giống như một nguyên tố nhóm 12 đặc trưng, thể hiện các tính chất của một kim loại dễ bay hơi.
+
+
+== Lịch sử ==
+
+
+=== Phát hiện ===
+Copernixi được tổng hợp ngày 9 tháng 2 năm 1996 tại Gesellschaft für Schwerionenforschung (GSI) ở Darmstadt, Đức bởi Sigurd Hofmann, Victor Ninov và nnk. Nguyên tố này được tạo ra bằng cách bắn hạt nhân chì-208 bằng hạt nhân kẽm-70 được gia tốc trong máy gia tốc ion nặng. Một nguyên tử (nguyên tử thứ 2 sau đó đã bị bác bỏ) của copernixi được tạo ra với số khối 277.
+20882Pb + 7030Zn → 278112Cn → 277112Cn + 10n
+Tháng 5 năm 2000, GSI lặp lại thành công thí nghiệm tổng hợp thêm một nguyên tử Cn-277. Phản ứng này được lặp lại tại RIKEN dùng GARIS năm 2004 để tổng hợp thêm hai nguyên tử nữa và xác định dữ liệu phân rã theo như thông báo của nhóm GSI.
+IUPAC/IUPAP Joint Working Party (JWP) xem xét tuyên bố phát hiện của nhóm GSI năm 2001 và 2003. Trong cả hai trường hợp, họ thấy rằng chưa có đủ bằng chứng để chứng minh cho tuyên bố của nhóm nghiên cứu. Điều này chủ yếu liên quan đến sự mâu thuẫn dữ liệu phân rã đối với đồng vị đã được biết đến là 261Rf. Tuy nhiên, giữa năm 2001 và 2005, nhóm GSI đã nghiên cứu phản ứng 248Cm(26Mg,5n)269Hs, và d8ã có thể xác nhận dữ liệu phân rã đối với 269Hs và 261Rf. Người ta phát hiện rằng dữ liệu hiện hữu về 261Rf là của một đồng phân, mà bây giờ là 261a Rf.
+Tháng 5 năm 2009, JWP thông báo các tuyên bố về việc phát hiện nguyên tố thứ 112 lần nữa và chính thức công nhận nhóm GSI đã phát hiện ra nguyên tố này. Quyết định này dựa trên các xác nhận gần đây về tính chất phân rã của hạt nhân con cũng như các thí nghiệm xác minh tại RIKEN.
+
+
+=== Đặt tên ===
+Sau khi công nhận phát hiện của họ, IUPAC yêu cầu nhóm GSI đề xuất tên gọi cho ununbi. Ngày 14 tháng 7 năm 2009, họ đề xuất copernixi với ký hiệu Cp, theo tên Nicolaus Copernicus "để vinh danh nhà khoa học lỗi lạc, người đã làm thay đổi nhận thức của thế giới." IUPAC đã trì hoãn việc công nhận tên chính thức, trong khi chờ các kết quả trong sáu tháng thảo luận trong cộng đồng khoa học.
+Cách đánh vần thay thế đã được đề xuất như "copernicum", "copernium", và "kopernikium" (Kp), và Hofmann nói rằng nhóm nghiên cứu đã thảo luận có khả năng là "copernicum" hay "kopernikum", nhưng họ đã đồng ý chọn "copernicium" để tuân thủ theo các nguyên tắc hiện tại của IUPAC, theo đó chỉ cho phép phần tiếp hậu tố -ium cho nguyên tố mới.
+Tuy nhiên, người ta chỉ ra rằng ký hiệu Cp có quan hệ trước đây với tên cassiopeium (cassiopium), mà hiện nay gọi là luteti (Lu). Hơn thế nữa, ký hiệu Cp cũng được dùng trong hóa hữu cơ kim loại để biểu thị các phối tử cyclopentadien. Vì lý do đó, IUPAC không cho phép sử dụng Cp làm ký hiệu tương lai, khiến nhóm GSI chọn ký hiệu thay thế là Cn. Ngày 19 tháng 2 năm 2010, kỷ niệm sinh nhật thứ 537 của Copernicus, IUPAC chính thức chấp nhận tên và ký hiệu theo đề xuất.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+WebElements.com: Copernicium

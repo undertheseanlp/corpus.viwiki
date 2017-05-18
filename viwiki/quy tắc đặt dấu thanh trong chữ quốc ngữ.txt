@@ -1,0 +1,52 @@
+Việc đặt dấu thanh cho tiếng Việt tuân thủ một số quy tắc, dựa trên cách phát âm theo chữ cái tiếng Việt. Hiện nay có ít nhất hai quan điểm về cách đặt dấu thanh, mỗi quan điểm đều có một số nhà ngôn ngữ học ủng hộ.
+
+
+== Quan điểm chính thống ==
+
+
+=== Kiểu cũ ===
+Hiện nay có hai quan điểm về cách đặt dấu thanh thường được gọi là "kiểu cũ" và "kiểu mới" Quy tắc kiểu cũ có phần căn cứ trên nhãn quan, giữ vị trí dấu ở giữa hay gần giữa mỗi từ cho cân bằng.
+Nếu có một nguyên âm thì dấu đặt ở nguyên âm: á, tã, nhà, nhãn, gánh, ngáng
+Nếu là tập hợp hai (2) nguyên âm (nhị trùng âm) thì đánh dấu ở nguyên âm đầu. Tập hợp ba (3) nguyên âm (tam trùng âm) hoặc hai nguyên âm + phụ âm cuối thì vị trí dấu chuyển đến nguyên âm thứ nhì. Ví dụ như:
+"òa" hay "tòa" thì dấu huyền đặt trên chữ "o". Nhưng nếu "toàn" thì dấu chuyển đến "a".
+"ủy" hay "thủy" thì dấu hỏi đặt trên "u". Nhưng nếu "khuỷu" thì dấu chuyển đến "y".
+
+Ngoại lệ là chữ "ê" và "ơ" chiếm ưu tiên, bất kể vị trí. Ví dụ như:
+"thuở", nếu căn cứ vào lệ kể trên thì dấu hỏi đặt ở chữ "u" nhưng có "ơ" thì chuyển sang "ơ".
+"chuyện", nếu căn cứ vào lệ kể trên thì dấu nặng đặt ở chữ "y" nhưng có "ê" thì chuyển sang "ê".
+
+Kiểu cũ dựa trên những từ điển từ trước năm 1950 nên "gi" và "qu" được coi là một mẫu tự riêng. Vì vậy "già" và "quạ" không phải là nhị trùng âm "ia" hay "ua" mà là "gi" + "à"; và "qu" + "ạ". Nếu viết nhị trùng âm "ia" với phụ âm "gi" thì sẽ viết là "giặt giỵa" và đọc là zịa [ʐie6]).
+
+
+=== Kiểu mới ===
+Quy tắc "kiểu mới" căn cứ trên ngữ âm học muốn đối chiếu chữ và âm. Quy tắc đó như sau:
+Với các âm tiết [-tròn môi] (âm đệm /zero/) có âm chính là nguyên âm đơn: Đặt dấu thanh điệu vào vị trí của chữ cái biểu diễn cho âm chính đó. Ví dụ: á, tã, nhà, nhãn, gánh, ngáng...
+Với các âm tiết [+tròn môi] (âm đệm /w/, được biểu diễn bằng "o, u") có âm chính là nguyên âm đơn thì cũng bỏ dấu thanh điệu vào vị trí chữ cái biểu diễn cho âm chính. Ví dụ: hoà, hoè, quỳ, quà, quờ, thuỷ, nguỵ, hoàn, quét, quát, quỵt, suýt...
+Với các âm tiết có âm chính là nguyên âm đôi:
+Nếu là âm tiết [-khép] (nguyên âm được viết là: "iê, yê, uô, ươ"; âm cuối được viết bằng: "p, t, c, ch, m, n, ng, nh, o, u, i") thì bỏ dấu lên chữ cái thứ hai trong tổ hợp hai chữ cái biểu diễn cho âm chính. Ví dụ: yếu, uốn, ườn, tiến, chuyến, muốn, mượn, thiện, thuộm, người, viếng, muống, cường...
+Nếu là âm tiết [+khép] (nguyên âm được viết là: "ia, ya, ua, ưa") thì nhất loạt bỏ dấu vào vị trí chữ cái thứ nhất trong tổ hợp hai chữ cái biểu diễn cho âm chính. Ví dụ: ỉa, tủa, cứa, thùa, khứa...
+
+Phân biệt vị trí đặt dấu thanh điệu ở tổ hợp "ua" và "ia":
+Với "ia" thì phân biệt bằng sự xuất hiện hay vắng mặt của chữ cái "g" ở đầu âm tiết. Có "g" thì đặt vào "a" (già, giá, giả...), không có "g" thì đặt vào "i" (bịa, chìa, tía...). Trường hợp đặc biệt: "gịa" (có trong từ "giặt gịa" và đọc là zịa [ʐie6]).
+Với "ua" thì phân biệt bằng sự xuất hiện hay vắng mặt của chữ cái "q". Có "q" thì đặt vào "a" (quán, quà, quạ...), không có "q" thì đặt vào "u" (túa, múa, chùa...). Hoặc để giản tiện cho việc làm bộ gõ, có thể coi "qu" như là một tổ hợp phụ âm đầu tương tự như "gi, nh, ng, ph, th"... Khi đó, sẽ coi "quán, quà, quạ"... như là những âm tiết có âm đệm /zero/.
+
+
+== Trong đời sống ==
+Trong đời sống, ví dụ như trong các chương trình máy tính giúp nhập tiếng Việt, hiện vẫn tồn tại hai cách đặt dấu thanh trong tiếng Việt. Ví dụ "hòa" là một cách đặt dấu thanh khác cho "hoà", trong đó "hòa" còn gọi là cách đặt dấu thanh "cũ". Bảng sau liệt kê các trường hợp mà hai cách đặt dấu thanh khác nhau:
+
+Những người ủng hộ cách bỏ dấu kiểu "mới" cho rằng vì oa, oe, uy phiên âm theo IPA là /wa/, /wɛ/, /wi/ nên phải bỏ dấu vào vần a, e và i tương đương.
+Thêm vào đó, theo cách bỏ dấu gọi là kiểu "mới" bất cứ từ có biến đổi, vị trí dấu thanh không hề thay đổi.
+Trong khi đó những người ủng hộ cách bỏ dấu kiểu "cũ" thì cho rằng cách lý luận như trên là thiếu cơ sở vì IPA là để biểu thị cách phát âm chứ không phải biểu thị cách viết do đó không thể dùng để quyết định là cách bỏ dấu kiểu "mới" là đúng hơn. Thêm vào đó, IPA mới chỉ được phát triển vào cuối thế kỉ 19 , trong khi chữ Quốc Ngữ đã được phát triển hoàn toàn độc lập và không ngừng thay đổi từ thế kỉ 17. Do đó, theo những người ủng hộ cách bỏ dấu kiểu "cũ" việc dùng IPA để quyết định xem tiếng Việt phải bỏ dấu thế nào là bất hợp lý. Những người này còn cho rằng mặc dù IPA là phương pháp biểu thị cách phát âm phổ dụng nhất nhưng không có nghĩa là cách biểu thị cách phát âm duy nhất cũng như không phải là cách biểu thị cách phát âm chính xác nhất vì vậy không có lý gì lại sử dụng nó làm chuẩn để quyết định cách bỏ dấu tiếng Việt mà không phải là một trong các phương pháp biểu thị cách phát âm khác .
+Trên quan điểm ngôn ngữ là do con người tạo nên và luôn biến đổi theo nhu cầu của con người, những người ủng hộ cách bỏ dấu kiểu "cũ" còn chỉ trích những người ủng hộ cách bỏ dấu kiểu "mới" là đang cố phức tạp hóa tiếng Việt, gây khó khăn không cần thiết nhất là trong giảng dạy học sinh tiểu học cũng như trong việc phát triển thuật toán và xử lý tiếng Việt trên máy vi tính. Họ còn cho rằng, thêm một quy tắc như trên không đem lại gì cho tiếng Việt nói chung và chữ Quốc Ngữ nói riêng do đó là hoàn toàn không cần thiết. Họ lấy dẫn chứng cho quan điểm của mình là việc chữ Quốc Ngữ từ khi được phát triển vào thế kỉ 17 đến nay đã trải qua rất nhiều thay đổi, bổ sung có và loại bỏ cũng có.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+"Quy tắc đặt dấu thanh trong tiếng Việt"", Vũ Xuân Lương, Trung tâm Từ điển Học
+"Một số ý kiến nhỏ về cách ghi dấu thanh trên văn bản tiếng Việt", Trần Thị Thìn
+"Trích từ Một số vấn đề từ điển học", Hoàng Phê - Nguyễn Ngọc Trâm
+"Vấn đề đánh dấu thanh tiếng Việt", Vũ Dũng.
+"Về bài "Vấn đề đánh dấu thanh tiếng Việt" của Vũ Dũng", Cao Xuân Hạo.
+Bảng quy tắc giản dị để dạy trẻ em đặt dấu thanh trong tiếng Việt, Johannjs

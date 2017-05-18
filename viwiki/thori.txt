@@ -1,0 +1,88 @@
+Thori là một nguyên tố hóa học có ký hiệu Th và số hiệu nguyên tử 90 trong bảng tuần hoàn. Thori là một trong 3 kim loại phóng xạ xuất hiện trong tự nhiên với số lượng lớn ở dạng nguyên thủy (hai nguyên tố còn lại là bismuth và urani. Thori được nhà khoáng vật học người Na Uy Morten Thrane Esmark phát hiện năm 1828 và được xác định bởi nhà hóa học Thụy Điển Jöns Jakob Berzelius, ông đã đặt tên nó theo Thor, Norse god của sấm. Trong tự nhiên, thori là một kim loại phóng xạ thấp, và cũng được xem là một nguyên liệu hạt nhân thay thế cho urani.
+
+
+== Tính chất ==
+
+
+=== Vật lý ===
+Thori nguyên chất là một kim loại có ánh bạc, bền trong không khí và giữ được ánh của nó trong khoảng vài tháng. Khi lẫn với ôxít, thori bị mờ đi từ từ trong không khí và chuyển sang màu xám và cuối cùng là đen. Các tính chất vật lý của thori chịu ảnh hưởng lớn bởi mức độ lẫn với ôxít. Các loại tinh khiết nhất thường chứa khoảng 10% lượng ôxít. Thori nguyên chất mềm, dễ uốn và có thể cuộn tròn ở trạng thái lạnh (không cần gia nhiệt), rập nóng và kéo dài. Thori có hai kiểu cấu trúc và chúng biến đổi ở 1400 °C từ lập phương sang lập phương tâm khối. Bột thori thường tự bốc cháy do vậy nên cẩn thận khi cầm chúng. Khi nung nóng trong không khí, kim loại thori phát cháy và có ngọn lửa sáng màu trắng.
+Xem Actinit trong môi trường để biết thêm chi tiết về thori.
+
+
+=== Hóa học ===
+Thori phản ứng rất chậm với nước nhưng không phải lúc nào cũng tan trong axít thường trừ axít clohidrit. Nó hòa tan trong axít nitric đậm đặc với một ít chất xúc tác là ion Flo.
+Các hợp chất của thori thường bền ở trạng thái ôxi hóa +4.
+
+
+=== Hợp chất ===
+Thori điôxit được sử dụng làm chất ổn định trong các điện cực tungsten trong kỹ thuật hàn khí trơ tungsten, ống điện, động cơ máy bay. Nó nóng chảy ở 3300 °C là giá trị cao nhất trong tất cả các ôxít.
+Thori(IV) nitrat và thori(IV) florua thường có các dạng hydrat như: Th(NO3)4.4H2O và ThF4.4H2O. Tâm thori nằm trong mặt phẳng phân tử hình vuông. Thori(IV) cacbonat, Th(CO3)2 cũng tương tự.
+Khi xử lý với natri florua và axít clohiđric, Th4+ tạo thành ion phức ThF62−, và có thể kết tủa ở dạng muối không tan K2ThF6.
+Thori(IV) hyđroxit, Th(OH)4, không tan trong nước, cũng không là chất lưỡng tính. Perôxít của thori rất hiếm ở dạng chất rắn không tan. Tính chất này có thể dùng để tách thori ra khỏi các ion khác trong dung dịch.
+Nếu có mặt các ion phốtphát, Th4+ sẽ kết tủa thành nhiều hợp chất khác nhau và là các hợp chất không tan trong nước và các dung dịch axít.
+
+
+== Sản xuất ==
+
+Thori được tách ra chủ yếu từ monazit: thori diphosphat (Th(PO4)2) cho phản ứng với axit nitric, và thori nitrat thu được đem xử lý với tributyl phosphat. Các nguyên tố đất hiếm lẫn tạp chất được tách ra bằng cách điều chỉnh pH trong dung dịch sulfat.
+Một phương pháp tách khác là monazit được phân rã trong dung dịch chứng 45% natri hydroxit ở 140 °C. Hỗn hợp hydroxit kim loại được tách ra đầu tiên, được lọc ở 80 °C, rửa sách bằng nước và cho hòa tan vào axit hydrochloric đậm đặc. Sau đó, dung dịch axit được trung hòa với hydroxit để đạt đến pH = 5,8, mức mà tạo kết tủa thori hydroxit (Th(OH)4) chứa khoảng ~3% hydroxit đất hiếm; các hydroxit đất hiếm còn lại vẫn nằm trong dung dịch. Thori hydroxit đem hòa tan trong axit vô cơ và sau đó tách ra khỏi các nguyên tố đất hiếm. Một phương pháp hiệu quả là sự hòa tan thori hydroxit trong axit nitric, so dung dịch tạo thành có thể được làm tinh khiết bằng cách chiết tách với các dung môi hữu cơ:
+Th(OH)4 + 4 HNO3 → Th(NO3)4 + 4 H2O
+Thori kim loại được tách ra từ anhydrous oxit hoặc clorua bằng cách phản ứng với canxi trong không khí trơ:
+ThO2 + 2 Ca → 2 CaO + Th
+Đôi khi thori được tách ra bằng phương pháp điện phân florua trong hỗn hợp natri và kali clorua ở 700–800 °C trong nồi bằng than chì. Thori độ tinh khiết cao có thể được tách ra từ iotua của nó với quá trình hình thành thanh tinh thể.
+
+
+== Ứng dụng ==
+Một số ứng dụng của thori như:
+Thori là một nguyên tố trong hợp kim với magiê, dùng trong các động cơ máy bay, nhằm tăng độ bền và chống lại biến dạng trườn ở nhiệt độ cao.
+Thori cũng là chất trong hợp kim kỹ thuật hàn cung tungsten khí (GTAW) để tăng nhiệt độ nóng chảy của các điện cực tungsten và tăng độ bền mối hàn.
+Thori được phủ lên dây kim loại tungsten trong các thiết bị điện nhằm làm tăng truyền nhiệt qua điện tích của catốt bị nung nóng.
+Định tuổi Urani-thori được dùng để xác định tuổi hóa thạch họ người.
+Thori được dùng để bổ sung thêm trong quá trình sản xuất nguyên liệu hạt nhân. Đặc biệt đối với các lò phản ứng khuếch đại năng lượng được thiết kế với mục đích sử dụng thori. Khi thori nhiều hơn urani, một số mẫu lò phản ứng hạt nhân kết hợp thori vào chu trình nguyên liệu của chúng.
+Thori cũng được sử dụng trực tiếp làm nguyên liệu hạt nhân giống như urani, vì nó tạo ra ít chất thải phóng xạ nguyên tử lớn.
+Thori là tấm chắn phóng xạ rất hiệu quả, mặc dù nó chưa bao giờ được sử dụng vào mục đích này so với chì.
+Các ứng dụng của thori điôxít (ThO2):
+Lớp áo trong các đèn khí cầm tay. Các lớp áo này phát sáng rực rỡ với các tia sáng chói (không liên quan đến phóng xạ) khi nung nóng bằng ngọn lửa khí.
+Sử dụng trong các điện cực kỹ thuật hàn cung tungsten khí.
+Sử dụng để điều khiển kích thước hạt của tungsten dùng trong các bóng đèn điện.
+Sử dụng trong gốm cách nhiệt giống như các nồi nấu kim loại nhiệt độ cao trong phòng thí nghiệm.
+Thêm vào thủy tinh, nó giúp tạo ra thủy tinh có hệ số khúc xạ cao và tán xạ thấp. Ngoài ra chúng còn được sử dụng làm các thấu kính của camera và thiết bị khoa học.
+Sử dụng làm chất xúc tác:
+Chuyển amoniac thành axít nitric.
+Trong các phản ứng cracking dầu mỏ.
+Sản suất axít sulfuric.
+
+Thori điôxít là chất hoạt động của Thorotrast, sử dụng như là một phần của chẩn đoán bằng tia X. Ứng dụng này đã bị hủy bỏ bởi vì Thorotrast tự nhiên có thể gây ung thư.
+
+
+== Xem thêm ==
+David Hahn, người đã tạo ra một lượng nhỏ vật liệu có thể phân hạch hạt nhân.
+Lò phản ứng hạt nhân
+Chuỗi phân rã phóng xạ
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Los Alamos National Laboratory — Thorium
+WebElements.com — Thorium
+The World Nuclear Association
+European Nuclear Society — Natural Decay Chains
+often-quoted article by Michael Anissimov advocating adopting Thorium reactors
+
+
+== Liên kết ngoài ==
+Thorium information page
+New Age Nuclear: article on thorium reactors | Cosmos Magazine
+ATSDR ToxFAQs — Thorium
+USGS data — Thorium
+Thorium as a Secure Nuclear Fuel Alternative
+The Endless Refrigerator/Freezer Deodorizer, a commercial product which claimed to destroy odours 'forever.' Made with thorium-232.
+Is thorium the answer to our energy crisis?
+Thorium Energy Blog, discussion forum and document repository
+Another thorium information page
+Monazite

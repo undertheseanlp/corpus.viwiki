@@ -1,0 +1,5 @@
+Bán kính liên kết cộng hóa trị, rcov được dùng để đo đạc kích thước của một nguyên tử được hình thành từ liên kết cộng hóa trị. Đơn vị đo thường là picomet (pm) hay angstrom (Å), với 1 Å = 100 pm.
+Về nguyên tắc, tổng hai bán kính liên kết cộng hóa trị bằng chiều dài liên kết cộng hóa trị giữa hai nguyên tử, R(AB) = r(A) + r(B).
+
+
+== Tham khảo ==

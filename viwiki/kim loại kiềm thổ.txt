@@ -1,0 +1,36 @@
+Các kim loại kiềm thổ là một dãy các nguyên tố trong nhóm nguyên tố 2 của bảng tuần hoàn các nguyên tố. Đó là berili, magiê, canxi, stronti, bari và radi (không phải lúc nào cũng được xem xét do chu kỳ bán rã ngắn của nó).
+Các kim loại kiềm thổ được đặt tên theo các ôxít của chúng, các đất kiềm, có tên gọi cũ là berilia, magiêsia, vôi sống, strontia và baryta. Chúng được gọi là kiềm thổ vì các thuộc tính tự nhiên trung gian của chúng giữa các chất kiềm (ôxít của các kim loại kiềm) và các loại đất hiếm (ôxít của các kim loại đất hiếm). Sự phân loại của một số chất bề ngoài trơ như là 'đất' có lịch sử hàng thiên niên kỷ. Hệ thống được biết sớm nhất được sử dụng bởi những người Hy Lạp cổ đại gồm có 4 nguyên tố, bao gồm cả đất. Hệ thống này sau đó được làm rõ hơn bởi các nhà triết học và giả kim thuật như Aristotle (thế kỷ 4 TCN), Paracelsus (nửa đầu thế kỷ 16), John Becher (giữa thế kỷ 17) và Georg Stahl (cuối thế kỷ 17), với việc phân chia 'đất' thành ba hay nhiều loại hơn. Sự nhận thức về 'đất' không phải là một nguyên tố mà là hợp chất được đề cập bởi nhà hóa học Antoine Lavoisier. Trong tác phẩm Traité Élémentaire de Chimie (Các nguyên tố hóa học) năm 1789 ông gọi chúng là Substances simples salifiables terreuses, tức các nguyên tố đất tạo thành muối. Sau đó, ông thấy rằng các đất kiềm có thể là các ôxít kim loại, nhưng ông thừa nhận rằng đó chỉ là phỏng đoán. Năm 1808, dựa trên tư tưởng của Lavoisier, Humphry Davy trở thành người đầu tiên thu được các mẫu kim loại bằng cách điện phân các loại 'đất kiềm' nóng chảy.
+Chúng là các nguyên tố hoạt động mạnh và ít khi tìm thấy ở dạng đơn chất trong tự nhiên. Trong lớp vỏ Trái Đất kim loại kiềm thổ chiếm tỉ lệ 4,16 % (trong đấy 67 % Canxi, 31 % Magiê, 1,4 % Bari, 0,6 % Stronti và 1 lượng rất ít Berili và Radi).
+Các kim loại kiềm thổ là các kim loại có màu trắng bạc, mềm, có khối lượng riêng thấp, có phản ứng tức thời với các nguyên tố thuộc nhóm halôgen để tạo thành các muối điện ly và với nước để tạo thành các hiđrôxít kiềm thổ mạnh về phương diện hóa học tức các bazơ (hay ba dơ). Ví dụ natri và kali có phản ứng với nước ở nhiệt độ phòng còn magiê chỉ có phản ứng với hơi nước nóng còn canxi thì phản ứng với nước nóng.
+Các nguyên tố này chỉ có hai êlectron ở lớp ngoài cùng xs2, vì thế trạng thái năng lượng ưa thích của chúng là dễ mất đi hai êlectron này để tạo thành ion có điện tích dương 2.
+Bảng so sánh
+
+
+== Phản ứng hóa học ==
+Phản ứng với Ôxi tạo Ôxít
+2X + O2 → 2XO
+Phản ứng với Hiđrô thành hidric có cấu trúc ion
+X + H2 → XH2
+Phản ứng (tan) trong nước thành bazơ
+X + 2H2O → X(OH)2 + H2
+- Trừ Mg: Mg + H2O → MgO + H2
+Phản ứng với Halogen, ví dụ với Clo
+X + Cl2 → XCl2
+Phản ứng với một số phi kim như C, Si, N2
+Phản ứng với acid
+
+
+== Hợp chất ==
+Ngoài ra
+Canxi oxalat (CaC2O4) là thành phần chính của sỏi thận
+Canxi cacbua (CaC2) dùng trong công nghiệp sản xuất Axetilen, khử Lưu huỳnh từ kim loại thô,...
+Canxi cyanamit (CaCN2) dùng làm phân bón
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+http://www.chemsoc.org/visElements/pages/data/intro_groupii_data.html
+http://scienceaid.co.uk/chemistry/fundamental/group2.html
+http://www.uniterra.de/rutherford/hg2.htm

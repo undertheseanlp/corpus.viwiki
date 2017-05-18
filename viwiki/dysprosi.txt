@@ -1,0 +1,81 @@
+Dysprosi (tên La tinh: Dysprosium) là một nguyên tố hóa học có ký hiệu Dy và số nguyên tử 66. Nó là một nguyên tố đất hiếm với ánh bạc kim loại. Dysprosi không được tìm thấy trong tự nhiên ở dạng tự do, mặc dù nó được tìm thấy trong một loạt các khoáng vật, như trong xenotim. Dysprosi nguồn gốc tự nhiên là hỗn hợp của 7 đồng vị, trong đó đồng vị phổ biến nhất là Dy164.
+Dysprosi được Paul Émile Lecoq de Boisbaudran nhận dạng đầu tiên năm 1886, nhưng đã không được cô lập ở dạng tinh khiết cho tới khi có sự phát triển của các kỹ thuật trao đổi ion trong thập niên 1950. Dysprosi được sử dụng vì tiết diện hấp thụ nơtron nhiệt cao của nó trong chế tạo các thanh kiểm soát của các lò phản ứng hạt nhân, vì độ cảm từ cao của nó trong các thiết bị lưu trữ dữ liệu cũng như là thành phần của Terfenol-D. Các muối dysprosi hòa tan có độc tính nhẹ, trong khi các muối không hòa tan của nó được coi là không độc hại.
+
+
+== Đặc trưng ==
+
+
+=== Vật lý ===
+
+Dysprosi là kim loại đất hiếm, có ánh màu bạc sáng hay xám bạc kim loại. Nó đủ mềm để cắt bằng dao và có thể được gia công cơ khí không gây đánh lửa nếu tránh không tăng nhiệt quá cao. Các đặc trưng vật lý của dysprosi có thể bị thay đổi mạnh nếu có lẫn dù chỉ một lượng nhỏ tạp chất. Dysprosi dễ dàng bị ôxi hóa và vì thế được sử dụng ở dạng nguyên tố chỉ trong các mục đích nghiên cứu. Chẳng hạn, các nguyên tử Dy riêng lẻ được cô lập bằng cách cấy chúng vào các phân tử fulleren.
+Dysprosi và holmi có cường độ từ lớn nhất trong số mọi nguyên tố, đặc biệt khi ở các nhiệt độ thấp. Dysprosi có trật tự sắt từ đơn giản ở nhiệt độ dưới 85 K. Trên 85 K, nó trở thành trạng thái phản sắt từ xoắn ốc trong đó mọi mômen nguyên tử trong một lớp phẳng cơ sở cụ thể là song song và định hướng ở góc cố định với các mômen của các lớp cận kề. Hiện tượng phản sắt từ bất thường này chuyển thành trạng thái thuận từ (không trật tự) ở 179 K.
+
+
+=== Hóa học ===
+Dysprosi kim loại bị xỉn chậm trong không khí và cháy thành ôxít dysprosi (III):
+4 Dy + 3 O2 → 2 Dy2O3
+Dysprosi có độ điện âm vừa phải (1,22) và phản ứng chậm với nước lạnh nhưng rất nhanh với nước nóng để tạo thành hiđrôxít dysprosi:
+2 Dy (rắn) + 6 H2O (hơi nóng) → 2 Dy(OH)3 (dung dịch) + 3 H2 (khí)
+Dysprosi kim loại phản ứng mãnh liệt với mọi halogen ở nhiệt độ trên 200 °C:
+2 Dy (rắn) + 3 F2 (khí) → 2 DyF3 (rắn) [xanh lục]
+2 Dy (rắn) + 3 Cl2 (khí) → 2 DyCl3 (rắn) [trắng]
+2 Dy (rắn) + 3 Br2 (khí) → 2 DyBr3 (rắn) [trắng]
+2 Dy (rắn) + 3 I2 (khí) → 2 DyI3 (rắn) [xanh lục]
+Dysprosi dễ dàng hòa tan trong axít sulfuric loãng để tạo ra các dung dịch chứa các ion Dy (III) màu vàng, tồn tại như là phức hợp [Dy(OH2)9]3+:.
+2 Dy (rắn) + 3 H2SO4 (dung dịch) → 2 Dy3+ (dung dịch) + 3 SO2−4 (dung dịch) + 3 H2 (khí)
+
+
+=== Hợp chất ===
+
+Các halua dysprosi, như DyF3 và DyBr3, có xu hướng có màu vàng. Ôxít dysprosi (III), còn gọi là dysprosia, là chất bột màu trắng có từ tính cao hơn so với ôxít sắt
+Dysprosi kết hợp với một loạt các phi kim ở nhiệt độ cao tạo thành các hợp chất hay hỗn hợp các hợp chất theo các tỷ lệ khác nhau của dysprosi trạng thái ôxi hóa +3 và +2, như DyN, DyP, DyH2 và DyH3; DyS, DyS2, Dy2S3 và Dy5S7; DyB2, DyB4, DyB6 và DyB12, cũng như Dy3C và Dy2C3.
+Cacbonat dysprosi, Dy2(CO3)3 và sulfat dysprosi, Dy2(SO4)3, tạo ra từ các phản ứng tương tự. Phần lớn các hợp chất của dysprosi hòa tan trong nước, nhưng tetrahydrat cacbonat dysprosi (Dy2(CO3)3•4H2O) và decahydrat oxalat dysprosi (Dy2(C2O4)3•10H2O) thì không hòa tan trong nước.
+
+
+=== Đồng vị ===
+
+Dysprosi nguồn gốc tự nhiên là hỗn hợp của 7 đồng vị: Dy156, Dy158, Dy160, Dy161, Dy162, Dy163 và Dy164. Chúng được coi là ổn định, mặc dù Dy156 phân rã theo phân rã alpha với chu kỳ bán rã trên 1×1018 năm. Trong số các đồng vị nguồn gốc tự nhiên, Dy164 là phổ biến nhất, chiếm 28%, tiếp theo là Dy162 với 26%. Ít phổ biến hơn cả là Dy156 với 0,06 %.
+Hai mươi chín đồng vị phóng xạ khác cũng đã được tổng hợp, nằm trong khoảng có nguyên tử lượng từ 138 tới 173. Ổn định nhất trong số này là Dy154 với chu kỳ bán rã khoảng 3×106 năm, tiếp theo là Dy159 (144,4 ngày). Ít ổn định nhất là Dy138 (200 ms). Các đồng vị nhẹ hơn các đồng vị ổn định có xu hướng bị phân rã theo phân rã β+, trong khi các đồng vị nặng hơn các đồng vị ổn định có xu hướng bị phân rã theo phân rã β-, với một vài ngoại lệ. Dy154 phân rã chủ yếu theo phân rã alpha, còn Dy152 và Dy159 chủ yếu phân rã theo bắt điện tử. Dysprosi cũng có ít nhất 11 đồng phân giả ổn định, trong khoảng có khối lượng nguyên tử từ 140 tới 165. Ổn định nhất trong số này là Dy165m, có chu kỳ bán rã 1,257 phút. Dy149 có 2 trạng thái kích thích, trạng thái thứ hai, Dy149m2, có chu kỳ bán rã 28 ns.
+
+
+== Lịch sử ==
+Năm 1878, quặng erbi được tìm thấy có chứa các ôxít của 2 nguyên tố đất hiếm: holmi và thuli. Nhà hóa học người Pháp Paul Émile Lecoq de Boisbaudran, khi làm việc với ôxít holmi, đã tách từ nó ra được ôxít dysprosi tại Paris vào năm 1886. Quy trình của ông để cô lập dysprosi bao gồm hòa tan ôxít dysprosi trong axít, sau đó bổ sung ammoniac để kết tủa hiđrôxít. Ông chỉ có thể cô lập được dysprosi từ ôxít của nó sau trên 30 lần thử theo quy trình này. Khi thành công, ông đặt tên cho nguyên tố là dysprosium, từ tiếng Hy Lạp dysprositos có nghĩa là "khó thu được". Tuy nhiên, nguyên tố đã không được cô lập ở dạng tương đối tinh khiết cho tới khi có sự phát triển của các kỹ thuật trao đổi ion do Frank Spedding tại Đại học bang Iowa đề xuất trong đầu thập niên 1950.
+Năm 1950, Glenn T. Seaborg, Albert Ghiorso và Stanley G. Thompson thực hiện việc tấn công các nguyên tử Am241 bằng các ion hêli, tạo ra các nguyên tử có số nguyên tử bằng 97 và là tương tự với terbi trong nhóm Lantan. Do terbi được đặt tên theo làng Ytterby, nơi nó và một vài nguyên tố khác được phát hiện, nên nguyên tố mới này được đặt tên là berkeli theo thành phố (Berkeley) nơi nó được tổng hợp. Tuy nhiên, khi nhóm nghiên cứu tổng hợp nguyên tố số 98, họ không thể nghĩ ra một tên tương ứng với dysprosi, và thay vì thế đặt tên nguyên tố là californi để vinh danh bang nơi nó được tổng hợp. Nhóm nghiên cứu đi tới kết luận là "chỉ ra rằng, để thừa nhận thực tế rằng dysprosi được đặt tên trên cơ sở của từ trong tiếng Hy Lạp nghĩa là 'khó thu được', rằng các nhà nghiên cứu của nguyên tố kia một thế kỷ trước đó thấy rằng nó khó có thể nhận tên gọi theo California.".
+
+
+== Phổ biến ==
+
+Dysprosi không ở dạng tự do trong tự nhiên, nhưng có trong nhiều khoáng vật, như xenotim, fergusonit, gadolinit, euxenit, polycras, blomstrandin, monazit và bastnasit; thường với erbi và holmi hay các nguyên tố đất hiếm khác. Hiện nay, phần lớn dysprosi thu được từ các quặng đất sét hấp phụ ion tại miền nam Trung Quốc. Trong các loại quặng giàu yttri thì dysprosi là phổ biến nhất trong số các nguyên tố nhóm Lantan nặng, chiếm khoảng 7–8% (so với khoảng 65% là yttri). Hàm lượng Dy trong lớp vỏ Trái Đất là khoảng 5,2 mg/kg và trong nước biển là khoảng 0,9 ng/L.
+
+
+== Sản xuất ==
+Dysprosi thu được chủ yếu từ cát monazit, hỗn hợp của các dạng photphat khác nhau. Kim loại này thu được như là phụ phẩm trong chiết tách thương mại cho yttri. Để cô lập dysprosi, phần lớn các kim loại không mong muốn khác có thể được loại bỏ bằng từ tính hay bằng quy trình tách đãi. Sau đó dysprosi có thể được tách ra từ các kim loại đất hiếm khác bằng quy trình trao đổi ion. Các ion dysprosi thu được sau đó có thể cho phản ứng với flo hay clo để tạo thành florua dysprosi (DyF3) hay clorua dysprosi (DyCl3). Các hợp chất này có thể khử bằng canxi hay liti kim loại theo phản ứng sau:
+3 Ca + 2 DyF3 → 2 Dy + 3 CaF2
+3 Li + DyCl3 → Dy + 3 LiCl
+Các thành phần được đặt trong nồi nấu bằng tantali và đốt trong môi trường chứa heli. Khi phản ứng xảy ra, các halua tạo thành và dysprosi nóng chảy bị chia tách do khác biệt về tỷ trọng. Khi hỗn hợp nguội đi, dysprosi có thể được cắt ra khỏi các tạp chất.
+Trên toàn thế giới khoảng 100 tấn dysprosi được sản xuất mỗi năm.
+
+
+== Ứng dụng ==
+Dysprosi được sử dụng, kết hợp với vanadi và các nguyên tố khác, để chế tạo vật liệu laser. Do tiết diện hấp thụ nơtron nhiệt cao của dysprosi, các cermet của ôxít dysprosi-niken được sử dụng trong các thanh kiểm soát hấp thụ nơtron của các lò phản ứng hạt nhân. Các chalcogen dysprosi-cadmi là nguồn bức xạ hồng ngoại hữu ích trong nghiên cứu các phản ứng hóa học. Do dysprosi và các hợp chất của nó có độ cảm từ cao nên chúng được sử dụng trong nhiều loại thiết bị lưu trữ dữ liệu, như trong các đĩa CD.
+Các nam châm neodymi-sắt-bo có thể chứa tới 6% neodymi được thay thế bằng dysprosi để nâng cao độ kháng từ cho các ứng dụng có nhu cầu như các động cơ dẫn lái cho các dạng xe điện lai ghép. Sự thay thế này có thể đòi hỏi tới 100 gam dysprosi trên mỗi chiếc xe điện lai ghép được sản xuất. Chỉ dựa trên mỗi dự án của Toyota với công suất 2 triệu chiếc mỗi năm, thì việc sử dụng dysprosi trong những ứng dụng như vậy đã có thể nhanh chóng làm cạn kiệt nguồn cung cấp kim loại này. Sự thay thế bằng dysprosi cũng có thể là hữu ích trong các ứng dụng khác, do nó cải thiện khả năng kháng ăn mòn của nam châm.
+Dysprosi là một trong các thành phần của Terfenol-D, cùng với sắt và terbi. Ở nhiệt độ phòng, Terfenol-D có độ kháng từ cao nhất trong số các vật liệu đã biết, tính chất này được sử dụng trong các máy biến năng, các thiết bị cộng hưởng cơ học phổ rộng và các kim phun nhiên liệu lỏng độ chính xác cao.
+Dysprosi được sử dụng trong các máy đo liều lượng để đo đạc lượng bức xạ ion hóa. Các tinh thể sulfat canxi hay florua canxi được kích thích bằng dysprosi. Khi các tinh thể này được đặt vào trong nguồn bức xạ, các nguyên tử dysprosi bị kích hoạt và phát sáng. Sự phát quang này có thể đo đạc được để xác định mức độ phơi nhiễm mà thiết bị đo liều lượng đang hứng chịu.
+Các sợi nano chứa các hợp chất của dysprosi có diện tích bề mặt lớn và sức bền cao; vì thế, chúng có thể được sử dụng để gia cố các vật liệu khác và làm chất xúc tác. Các sợi florua ôxít dysprosi có thể tạo ra bằng cách đốt nóng dung dịch lỏng chứa DyBr và NaF tới 450 °C ở áp suất 450 barơ trong 17 giờ. Vật liệu này có độ bền đáng kể, tồn tại trên 100 giờ trong các dung dịch lỏng khác nhau ở nhiệt độ trên 400 °C mà không bị hòa tan hay bị kết tập.
+
+
+== Phòng ngừa ==
+Giống như nhiều chất bột khác, bột dysprosi có thể có nguy hiểm cháy nổ khi trộn lẫn với không khí và có mặt nguồn kích cháy. Các lá dysprosi mỏng cũng có thể bị kích cháy bằng tia lửa hay tĩnh điện. Lửa do dysprosi cháy không thể dập tắt bằng nước do nó có thể phản ứng với nước để tạo ra khí hiđrô dễ cháy. Tuy nhiên, các đám cháy do clorua dysprosi, lại có thể dập tắt bằng nước trong khi florua dysprosi và ôxít dysprosi là các chất không cháy. Nitrat dysprosi, Dy(NO3)3, là một tác nhân ôxi hóa mạnh và dễ dàng bắt cháy khi tiếp xúc với các chất hữu cơ.
+Các muối dysprosi hòa tan, như clorua dysprosi và nitrat dysprosi, là hơi độc khi nuốt phải. Tuy nhiên, các muối không hòa tan là không độc. Dựa trên độ độc của clorua dysprosi đối với chuột, người ta ước tính rằng việc nuốt phải từ 500 gam hoặc nhiều hơn có thể dẫn tới tử vong ở người.
+
+
+== Xem thêm ==
+Nhóm Lantan
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+WebElements.com – Dysprosium
+It's Elemental – Dysprosium

@@ -1,0 +1,4 @@
+Chu kỳ nguyên tố 6 là hàng thứ 6 trong bảng tuần hoàn (tiêu chuẩn), gồm 32 nguyên tố: 8 trong nhóm chính, 10 ở nhóm phụ và 14 trong nhóm Lantan.
+
+
+== Tham khảo ==

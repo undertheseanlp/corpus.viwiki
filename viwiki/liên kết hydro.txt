@@ -1,0 +1,7 @@
+Liên kết Hydro là 1 liên kết rất yếu được hình thành bởi lực hút tĩnh điện giữa Hydro (đã liên kết trong 1 phân tử) với 1 nguyên tử có độ âm điện mạnh có kích thước bé (N,O, F...) ở 1 phân tử khác hoặc trong cùng 1 phân tử
+Liên kết Hydro được biểu diễn bằng ba chấm (...). Liên kết Hydro có thể hình thành giữa các phân tử hoặc trong cùng nội bộ 1 phân tử.
+a.Liên kết Hydro liên phân tử: Nếu liên kết Hydro được hình thành giữa các phân tử của cùng một chất sẽ có hiện tượng hội hợp phân tử. Những hội hợp phân tử này có thể là những lưỡng phân, tam phân... Liên kết hydro có thể hình thành giữa những phân tử của những chất khác nhau. Vd giữa alcol và nước, alcol và ether oxyd, amin và nước.
+b.Liên kết Hydro nội phân tử: LK Hydro có thể hình thành giữa 2 nhóm nguyên tử trong cùng 1 phân tử, gọi là LK Hydro nội phân tử, dẫn tới 1 vòng khép kín (vòng càng cua, chức chelat) Năng lượng của LK Hydro rất bé.Sự tồn tại của liên kết Hydro có ảnh hưởng đến nhiều tình chất vật lý của hợp chất như điểm sôi, độ tan. Do có LK Hydro nên alcol có điểm sôi cao hơn hẳn thioalcol tương ứng. LK Hydro đóng vai trò quan trọng trong quá trình hoà tan,bơi vì độ tan phụ thuộc vào khả năng của chất đó tạo LK Hydro với dung môi. Khi đó thường tạo thành các sản phẩm của tương tác là các solvat. Một số chất hữu cơ như alcol, amin, acid carboxylic đầu dãy dễ tan trong nước là do chúng có khả năng tạo LK Hydro với nước.
+
+
+== Tham khảo ==

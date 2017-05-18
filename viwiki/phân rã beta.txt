@@ -1,0 +1,71 @@
+Trong vật lý hạt nhân, phân rã beta là một kiểu phân rã phóng xạ mà theo đó sinh ra một hạt beta (electron hoặc positron).
+Trong trường hợp sinh ra electron thì người ta gọi là phân rã beta âm hay beta trừ (β⁻), trường hợp còn lại thì gọi là beta cộng (β+). Khi phát ra hạt electron, một electron antineutrino cũng sinh kèm, trong khi phát ra positron thì đi kèm là electron neutrino.
+
+
+== Phân rã β⁻ ==
+Khi phân rã β⁻, tương tác yếu chuyển một neutron (n) thành một proton (p) trong khi phát ra một electron (e⁻) và một electron antineutrino (νe):
+
+  
+    
+      
+        n
+        →
+        p
+        +
+        
+          e
+          
+            −
+          
+        
+        +
+        
+          
+            
+              
+                ν
+                
+                  e
+                
+              
+              ¯
+            
+          
+        
+      
+    
+    {\displaystyle n\rightarrow p+e^{-}+{\bar {\nu _{e}}}}
+  
+Ở mức cơ bản (như miêu tã trong biểu đồ Feynman bên dưới), là do sự biến đổi một quark xuống thành quark lên bằng cách phát ra một W⁻ boson; W⁻ thường phân rã thành một electron và một electron antineutrino.
+
+Phân rã β⁻ nhìn chung thường gặp ở những hạt nhân giàu neutron.
+
+
+== Phân rã β+ ==
+Khi phân rã β+, năng lượng được sử dụng để biến đổi 1 proton thành 1 neutron, đồng thời phát ra 1 positron (e+) và 1 electron neutrino (νe):
+
+Vì vậy, khác với phân rã β⁻, phân rã β+ không thể xuất hiện một cách độc lập do nó cần có năng lượng, khối lượng của neutron nặng hơn khối lượng của proton. Phân rã β+ chỉ có thể xảy ra bên trong hạt nhân khi mà trị số năng lượng liên kết của các hạt nhân mẹ nhỏ hơn năng lượng liên kết của hạt nhân con. Điểm khác biệt giữa các mức năng lượng này tạo ra phản ứng biến đổi 1 proton thành 1 neutron, 1 positron và 1 neutrino, và thành động năng của các hạt này.
+
+
+== Phân rã beta kép ==
+
+Phân rã beta kép là loại phân rã phóng xạ trong đó hai proton được đồng thời biến thành hai neutron, hoặc ngược lại, bên trong hạt nhân nguyên tử. Như trong phân rã beta duy nhất, quá trình này cho phép các nguyên tử chuyển về gần hơn với tỷ lệ tối ưu của các proton và neutron. Kết quả của chuyển đổi này là các hạt nhân phát ra hai hạt beta có thể dò được, là electron hoặc positron .
+
+
+== Xem thêm ==
+Phân rã beta kép
+Bắt lượng tử
+Neutrino
+Phân rã alpha
+Đồng vị phóng xạ
+
+
+== Tham khảo ==
+
+Franz N. D. Kurie, J. R. Richardson, H. C. Paxton (tháng 3 năm 1936). “The Radiations Emitted from Artificially Produced Radioactive Substances. I. The Upper Limits and Shapes of the β-Ray Spectra from Several Elements”. Physical Review 49 (5): 368–381. Bibcode:1936PhRv...49..368K. doi:10.1103/PhysRev.49.368.  
+F. N. D. Kurie (tháng 5 năm 1948). “On the Use of the Kurie Plot”. Physical Review 73 (10): 1207. Bibcode:1948PhRv...73.1207K. doi:10.1103/PhysRev.73.1207.  
+Jagdish K. Tuli, Nuclear Wallet Cards, 7th edition, April 2005, Brookhaven National Laboratory, US National Nuclear Data Center
+
+
+== Liên kết ngoài ==
+ The Live Chart of Nuclides - IAEA with filter on decay type, in Java or HTML

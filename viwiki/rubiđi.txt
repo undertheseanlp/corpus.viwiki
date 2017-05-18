@@ -1,0 +1,74 @@
+Rubidi (hay rubiđi) là một nguyên tố hóa học trong bảng tuần hoàn có ký hiệu Rb và số nguyên tử bằng 37. Rubidi là một nguyên tố kim loại màu trắng bạc, mềm trong nhóm các kim loại kiềm. Rubidi trong tự nhiên là hỗn hợp của hai đồng vị: 85Rb, là đồng vị bền duy nhất chiếm 72%. Đồng vị còn lại chiếm 28% và có tính phóng xạ là 87Rb có chu kỳ bán rã 49 tỉ năm—gấp 3 lần tuổi ước tính của vũ trụ. Rubidi rất mềm và có độ hoạt động hóa học cao, với các tính chất tương tự như các nguyên tố khác trong nhóm 1, chẳng hạn nhanh chóng bị ôxi hóa trong không khí.
+Các nhà hóa học người Đức Robert Bunsen và Gustav Kirchhoff đã phát hiện ra rubidi năm 1861 bằng một phương pháp mới phát triển là quang phổ ngọn lửa.
+
+
+== Lịch sử ==
+Rubidi (từ tiếng Latinh rubidus, đỏ thẫm) được Robert Bunsen và Gustav Kirchhoff phát hiện năm 1861 trong khoáng vật lepidolit bằng cách sử dụng phương pháp phân tích quang phổ. Do nó cho ra các vạch đỏ tươi trong quang phổ phát xạ của nó, chúng được chọn tên có nguồn gốc từ tiếng Latinh rubidus, nghĩa là "đỏ thẫm".
+Rubidi có mặt với lượng nhỏ trong lepidolit. Kirchhoff và Bunsen đã xử lý 150 kg lepidolit nhưng chỉ chứa 0,24% rubidi ôxít (Rb2O). Cả kali và rubidi đều tạo thành các muối không tan với axit cloroplatinic, nhưng các muối này thể nhiệt mức độ hòa tan hơi khác nhau trong nước nóng. Vì thế, rubidi hexachloroplatinat (Rb2PtCl6) ít tan hơn có thể thu được bằng kết tinh phân đoạn. Sau khi khử hexachloroplatinat với hydro, quá trình này tạo ra 0,51 gram rubidi clorua cho các nghiên cứu tiếp theo. Việc cô lập các hợp chất caesi và rubidi quy mô lớn đầu tiên được tiến hành trên 44.000 lit nước khoáng được thực hiện bởi Bunsen và Kirchhoff, tạo ra 7,3 gram caesi clorua, 9,2 gram rubidi clorua. Rubidi là nguyên tố thứ hai, sau caesi được phát hiện trong quang phổ, chỉ một năm sau khi phát minh ra kính quang phổ bởi Bunsen và Kirchhoff.
+Hai nhà khoa học đã sử dụng rubidi clorua thu được để ước tính khối lượng nguyên tử của nguyên tố mới là 85,36 (giá trị hiện nay được chấp nhận là 85,47). Họ đã cố gắng tạo ra rubidi nguyên tố bằng cách điện phân nóng chảy rubidi clorua, nhưng thay vì ra được kim loại thì họ nhận được một chất đồng nhất màu xanh theo đó "nhìn bằng mắt thường hoặc kính hiển vi cũng không thấy kim loại ở dạng vết." Họ đặt cho nó là một subchlorua (Rb2Cl); tuy nhiên, sản phẩm này có thể là một hỗn hợp colloid của kim loại và rubidi clorua. Lần thử thứ hai để tạo ra kim loại rubidi, Bunsen đã có thể khử rubidi bằng cách nung cháy rubidi tartrat. Mặc dù rubidi được chưng cất là một pyrophoric, nên có thể xác định tỷ trọng và điểm nóng chảy của rubidi. Chất lượng của nghiên cứu được thực hiện trọng thập niên 1860 có thể được thẩm định bởi sự thật rằng tỉ trọng được xác định của chúng khác nhau dưới 0,1 g/cm3 và điểm nóng chảy nhỏ hơn 1 °C theo giá trị hiện được chấp nhận.
+Tính phóng xạ nhẹ của rubidi đã được phát hiện năm 1908, trước khi lý thuyết về đồng vị được xác lập vào thập niên 1910 và hoạt tính thấp là do chu kỳ bán rã dài của nó trên 1010 năm nên việc giải đoán trở nên phức tạp. Phân rã 87Rb hiện nay được chứng minh đối với cặp đồng vị bền 87Sr qua quá trình phân rã beta vẫn được thảo luận vào cuối thập niên 1940.
+Tuy nhiên, nguyên tố này chỉ có các ứng dụng công nghiệp tối thiểu cho tới tận thập niên 1920. Kể từ đó, ứng dụng quan trọng nhất của rubidi là trong nghiên cứu và phát triển, chủ yếu là các ứng dụng hóa và điện tử. Năm 1995, rubidi-87 đã được sử dụng để tạo ra ngưng tụ Bose-Einstein, với những phát hiện này, Eric Allin Cornell, Carl Edwin Wieman và Wolfgang Ketterle đã giành giải Nobel vật lý năm 2001.
+
+
+== Đặc trưng ==
+
+Rubidi là một kim loại màu trắng bạc, mềm và dẻo. Rubidi là nguyên tố có độ âm điện đứng hàng thứ hai trong số các kim loại kiềm ổn định (sau xêzi, do franxi là nguyên tố phóng xạ) và nó bị hóa lỏng ở nhiệt độ 39,3 °C (102,7 °F).Giống như các nguyên tố nhóm 1 khác, kim loại này phản ứng dữ dội với nước để sinh ra hiđrô, tạo ra các hỗn hống với thủy ngân và tạo hợp kim với vàng, sắt, caesium, natri, và kali, nhưng không tạo hợp kim với liti (mặc dù rubidi và liti cùng một nhóm). Giống như kali và xêzi, phản ứng này tỏa nhiệt rất dữ dội, đủ để kích cháy hiđrô mới sinh ra. Người ta cũng thông báo rằng rubidi bị kích cháy tự phát trong không khí. Rubidi có năng lượng ion hóa rất thấp, chỉ khoảng 406 kJ/mol. Rubidi và kali khi cháy có màu tím rất giống nhau, do đó cần phải thực hiện các phép thử bằng quang phổ để phân biệt chúng.
+
+
+=== Hợp chất ===
+
+Rubidi clorua (RbCl) có lẽ là hợp chất được sử dụng phổ biến nhất của rubidi; nó được sử dụng trong sinh hóa để làm cho các tế bào bắt DNA và chất sinh học đánh dấu vì nó sẵn sàng giữ và thay thế kali, và có mặt ở một lượng nhỏ trong sinh vật sống. Các hơp chất phổ biến khác của rubidi như rubidi hydroxit ăn mòn (RbOH), vật liệu ban đầu cho hầu hết các quá trình hóa học gốc rubidi; rubidi carbonat (Rb2CO3), được sử dụng trong một số thủy tinh quang học, và rubidi đồng sunphat, Rb2SO4·CuSO4·6H2O. Rubidi bạc iodua (RbAg4I5) là chất bán dẫn ở nhiệt độ phòng cao nhất trong bất kỳ thủy tinh ion đã được biết, một giá trị được khai thác trong các pin film mỏng và các ứng dụng khác.
+Rubidi có nhiều ôxít như rubidi monoxit (Rb2O), Rb6O và Rb9O2, được tạo thành khi kim loại rubidi tiếp xúc với không khí; rubidi trong môi trường có nhiều ôxy tạo thành superôxit RbO2. Rubidi tạo thành các muối halua như rubidi florua, rubidi clorua, rubidi bromua, và rubidi iodua.
+
+
+=== Đồng vị ===
+Rubidi có 24 đồng vị đã biết với rubidi nguồn gốc tự nhiên chỉ là hỗn hợp của 2 đồng vị là Rb85 (72,2%) và Rb87 (27,8%, có tính phóng xạ). Hỗn hợp thông thường của rubidi có tính phóng xạ nhẹ (khoảng 670 Bq/g), đủ để làm mờ các cuộn phim trong khoảng thời gian 110 ngày.
+Rb87 có chu kỳ bán rã là 4,88×1010 năm, gấp 3 lần tuổi của vũ trụ,. Nó dễ dàng thay thế cho kali trong các khoáng vật, và vì thế là tương đối phổ biến. Rb đã từng được sử dụng nhiều trong xác định niên đại đá; Rb87 phân rã thành stronti87 ổn định bằng cách bức xạ một hạt beta âm. Trong kết tinh phân đoạn, stronti có xu hướng tích lũy trong plagioclase, để lại rubidi trong pha lỏng. Vì vậy, tỷ lệ Rb/Sr trong macma còn sót lại có thể tăng lên theo thời gian, tạo ra trong các loại đá với các tỷ lệ Rb/Sr tăng lên, phụ thuộc vào sự phân dị mácma. Các tỷ lệ cao (10 hay hơn thế) có trong pecmatit. Nếu như lượng stronti ban đầu là đã biết hay có thể ngoại suy ra được thì niên đại của đá có thể xác định bằng cách đo hàm lượng Rb và Sr cũng như tỷ lệ của Sr87/Sr86. Niên đại chỉ có thể chỉ ra chính xác tuổi của khoáng vật nếu như đá đó không bị biến đổi sau này. Xem cụ thể tại bài Xác định niên đại bằng Rubidi-Stronti để có thêm chi tiết.
+
+
+=== Phổ biến ===
+Nguyên tố này được coi là đứng thứ 23 trong số các nguyên tố phổ biến nhất trong lớp vỏ Trái Đất. Trong tự nhiên, nó có mặt trong các khoáng vật như leucit, pollucit và zinnwaldit, trong đó có chứa tới 1% ôxít của nó. Lepidolit chứa khoảng 0,3% đến 3,5% rubidi và đây là nguồn thương mại của nguyên tố này. Một số khoáng vật của kali và clorua kali cũng chứa rubidi với khối lượng đáng kể về mặt thương mại. Nước biển chứa trung bình125 µg/L rubidi cao hơn nhiều so với kali 408 mg/L và thấp hơn giá trị của casei 0,3 µg/L.
+Do có bán kính ion lớn nên rubidi là một nguyên tố không tương hợp." Trong quá trình kết tinh phân đoạn mácma, rubidi tập hợp cùnh với nguyên tố tương đồng và nặng hơn nó là caesi trong pha lỏng và kết tinh sau cùng. Do vậy, các mỏ rubidi và caesi lớn nhất là các thân quặng trong đới pecmatit được làm giàu qua quá trình này. Do rubidi thay thế vị trí của kali trong kết tinh mácma, quá trình làm giàu ít ảnh hưởng đến trường hợp của caesi. Các thân quặng trong đới pegmatit chứa một lượng khoáng vật caesi ở dạng pollucit hay các khoáng vật liti như lepidolit, loại này là một sản phẩm phụ cung cấp rubidi.
+Hai nguồn nguồn rubidi đáng chú ý là trong các trầm tích của pollucit tại hồ Bernic, Manitoba, Canada, và rubiclin ((Rb,K)AlSi3O8) được tìm thấy ở dạng tạp chất trong pollucit trên đảo Elba của Ý, với hàm lương rubidi đạt 17,5%. Cả hai nguồn này cũng là nguồn cung cấp caesi.
+
+
+== Sản xuất ==
+Mặc dù rubidi phong phú trong vỏ trái đất hơn caesium, các ứng dụng hạn chế của nó và thiếu các nguồn quặng giàu rubidi nên việc sản xuất rubidi rất hạn chế, chỉ đạt khoảng 2 đến 4 tấn mỗi năm. Nhiều phương pháp hiện đã được áp dụng để tách rubidi, kali và caesi. Kết tinh phân đoạn của rubidi và caesi (Cs,Rb)Al(SO4)2·12H2O tải qua sau 30 bước để có rubidi tinh khiết. Hai phương pháp khác cũng đã được xem xét là clorostannat và ferrocyanua.
+Trong nhiều năm trong khoảng thập niên 1950 đến 1960, một sản phẩm phụ trong khai thác kali được gọi là Alkarb là một nguồn cung cấp rubidi chính. Alkarb chứa 21% rubidi, với phần còn lại là kali và một tỉ lệ nhỏ caesi. Ngày ngay các nhà sản xuất caesi lớn nhất như Tanco Mine, Manitoba, Canada, sản xuất ra rubidi ở dạng sản phẩm phụ từ pollucit.
+
+
+== Sử dụng ==
+Các sử dụng hiện tại hay tiềm năng của rubidi là:
+Trong ngưng tụ Bose-Einstein.
+Chất lưu hoạt động trong các tua bin hơi.
+Chất thu khí trong các ống chân không.
+Thành phần của tế bào quang điện.
+Thành phần cộng hưởng trong các đồng hồ nguyên tử.
+Thành phần trong một vài loại thủy tinh đặc biệt.
+Sản xuất superoxit bằng cách đốt cháy trong ôxy.
+Trong nghiên cứu các kênh ion kali trong sinh học.
+Hơi rubidi được sử dụng làm từ kế nguyên tử. Rb87 hiện tại được sử dụng, cùng các kim loại kiềm khác, trong phát triển một dạng từ kế là SERF (spin-exchange relaxation-free: trao đổi spin hồi phục tự do) [1].
+Rubidi rất dễ bị ion hóa, vì thế nó được xem xét để sử dụng trong các động cơ ion cho tàu vũ trụ (nhưng xêzi và xenon có hiệu quả cao hơn cho mục đích này).
+Các hợp chất của rubidi đôi khi cũng được sử dụng trong pháo hoa để tạo cho nó màu tím.
+RbAg4I5 có độ dẫn điện ở nhiệt độ phòng là cao nhất trong số các tinh thể ion đã biết. Thuộc tính này có thể là hữu ích trong các loại pin màng mỏng và trong các ứng dụng điện khác.
+Rubidi cũng được xem xét để sử dụng trong các máy phát điện dựa trên hiện tượng nhiệt điện sử dụng nguyên lý từ thủy động lực học, trong đó các ion rubidi được tạo ra bằng cách đốt nóng ở nhiệt độ cao và cho di chuyển qua từ trường. Các ion này dẫn điện và đóng vai trò tương tự như của phần ứng điện trong máy phát điện, vì thế sinh ra dòng điện.
+Rubidi, cụ thể là Rb87, trong dạng hơi, là một trong các dạng nguyên tử được sử dụng rộng rãi nhất trong làm mát laser và ngưng tụ Bose-Einstein. Các đặc trưng mong muốn của nó cho các ứng dụng này bao gồm khả năng sẵn có để dùng của ánh sáng diod laser không đắt tiền ở bước sóng thích hợp cũng như nhiệt độ vừa phải cần phải có để thu được các áp suất hơi đáng kể.
+Rubidi cũng đã từng được dùng để phân cực He3 (nghĩa là tạo ra một thể tích của khí He3 đã từ hóa, với các spin hạt nhân hướng về phía một hướng cụ thể nào đó trong không gian, thay vì ngẫu nhiên). Hơi rubidi được kích thích quang học bởi laser và Rb đã phân cực sẽ phân cực He3 bằng tương tác hyperfine [2], các tế bào He3 phân cực spin đang trở thành phổ biến cho các phép đo sự phân cực nơtron cũng như để sản xuất các chùm nơtron phân cực cho các mục đích khác [3].
+
+
+== Cảnh báo và hiệu ứng sinh học ==
+Rubidi phản ứng mạnh với nước và có thể gây cháy. Để đảm bảo an toàn và độ tinh khiết của nó, rubidi cần được bảo quản trong dầu khoáng khô, trong chân không hay trong môi trường của các khí trơ. Rubidi tạo thành các peroxit khi tiếp xúc với một lượng không khí nhỏ khi khuếch tán vào trong dầu, và do đó những cảnh báo về peroxit tương tự như lưu trữ kim loại kali.
+Rubidi, tương tự như natri và kali, gần như luôn luôn có trạng thái ôxi hóa +1. Cơ thể người có xu hướng coi các ion Rb+ như là các ion kali, và vì thế tích lũy rubidi trong chất điện giải của cơ thể. Các ion rubidi nói chung là không độc hại; một người cân nặng 70 kg pchứa trung bình khoảng 0,36 g rubidi, và giá trị này tăng lên 50 đến 100 lần không thể hiện các hiệu ứng tiêu cực ở những người tham gia thử nghiệm. Chu kỳ bán rã sinh học của rubidi ở người là 31–46 ngày. Mặc dù một phần bị thay thế kali bởi rubidi là có khả năng, những con chuột có hơn 50% kali bị thay thế trong các tế bào thì bị chết.
+
+
+== Xem thêm ==
+Hợp chất của rubiđi
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Phòng thí nghiệm Quốc gia Los Alamos, Hoa Kỳ – Rubidi
+WebElements.com – Rubidi
+Louis Meites, Handbook of Analytical Chemistry (New York: McGraw-Hill Book Company, 1963)

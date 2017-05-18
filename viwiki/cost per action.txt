@@ -1,0 +1,33 @@
+CPA là viết tắt của Cost Per Action, Còn được gọi là PPA (Pay Per Action) hay CPL (Cost per Lead) hay CPS (Cost per Sales), là một dạng định giá cho quảng cáo trực tuyến, nhà quảng cáo trả tiền cho mỗi hành động đặc biệt (như thanh toán, chấp nhận một bản đăng ký, hoặc tương tự) kết nối tới nhà quảng cáo.
+Tương ứng nhà quảng cáo cho chương trình mua bán hàng trực tuyến sẽ lựa chọn CPA là con đường tốt nhất để quảng cáo, nhà quảng cáo sẽ chỉ phải chi trả cho nhà xuất bản quảng cáo khi có một hành động yêu cầu từ phía khách hàng được thông qua. Các hoạt động có thể là thanh toán mua một sản phẩm, bản đăng ký được chấp nhận, v.v. (một hoạt động được thông qua nghĩa là hành động đó được xác định rõ bởi nhà quảng cáo). Google cũng đã xác nhập chế độ quảng cáo này vào chương trình Google AdSense nhưng tắt các bản đăng ký cho nó vào tháng 6 năm 2008. Mới đây eBay cũng công bố một chương trình quảng cáo định giá tương tự, được gọi là AdContext.
+CPA còn là hình thức phổ biến nhất trong mô hình Tiếp Thị Liên Kết, nhà phân phối sẽ được trả hoa hồng mỗi khi khách hàng thực hiện một hành động cụ thể được yêu cầu bởi nhà cung cấp, như: cài đặt ứng dụng, tham gia khảo sát, đăng ký tài khoản mới…
+Rất nhiều nền tảng Affiliate đang áp dụng hình thức CPA này để xây dựng hệ thống: MasOffer,Lazada, Zanado, … Điều này sẽ dễ dàng hơn cho các Affiliate mới tham gia khi vừa áp dụng CPA và Affiliate tại cùng 1 hệ thống.
+CPA có thể được xác định rõ ràng bằng một số đặc điểm khác biệt, phụ thuộc vào nơi quảng cáo trực tuyến được đặt và thanh toán.
+
+
+== CPA cũng có nghĩa là thanh toán cho một thứ hàng được mua ==
+CPA (Cost Per Action) được hiểu là thành toán cho mỗi hành động, nhưng cũng được hiểu là "Cost Per Acquisition" nghĩa là thành toán cho mỗi thứ hàng được mua. Điều này đã được làm hầu hết qua CPA với lời mời từ nhà quảng cáo về việc nhận lấy một thứ gì đó (Điển hình là khách hàng chấp nhận trả tiền cho một sản phẩm). Sử dụng điều khoản của "Cost Per Acquisition" thay cho "Cost Per Action" không hề sai lệch. Điều này thực sự rất rõ ràng, "Cost Per Acquisition" có thể bao gồm cả "Cost Per Action" nhưng không phải tất cả "Cost Per Action" có thể được coi như "Cost Per Acquisition".
+
+
+== Tác dụng của quảng cáo CPA ==
+Tác dụng của quảng cáo CPA là được dùng để đo lường tính hiệu quả của kiểm kê thành toán qua quảng cáo (từ nhà quảng cáo) thông qua các nền tảng quảng cáo CPC, CPI, CPT. Nói theo cách khác, CPA sẽ nói cho nhà quảng cáo biết họ sẽ được trả bao nhiêu nếu họ bán hàng qua quảng cáo CPA (thay cho nền tảng CPC, CPI, CPT)
+
+
+== Các công ty quảng cáo ==
+Google bắt đầu chương trình quảng cáo này vào năm 2006, đến tháng 6 năm 2007 thì phổ biến thành bản dùng thử Beta. Mở cho tất cả người dùng của AdWords.
+eBay cũng chuyển thành quảng cáo CPA với hệ thống AdContext vào năm 2006.
+Snap tiên phong cho CPA và kết hợp với bản đăng ký từ mạng NBC (NBCi), mời chào khách quảng cáo qua chế độ CPA như việc loại bỏ hoàn toàn các click gian lận.
+ViralyticsMedia Tạo bản quảng cáo mạng giao dịch CPA qua email đầu tiên trên Fall vào năm 2007.
+Jellyfish.com Lần đầu tiên giới thiệu cỗ máy tìm kiếm mua bán tới hệ thống riêng biệt cho quảng cáo CPA. Nó đã được nhận bằng sáng chế và phát triên cao hơn, vượt qua cả CPA khi một phần lợi nhuận thu được từ người tiêu dùng. Nó đã được mua bởi Microsoft và được thêm vào sự thông mình của cỗ máy tìm kiếm Live Search.
+Hydra, LLC đã khởi chạy chương trình độc quyền đầu tiên, chuyển hoàn toàn quảng cáo thành CPA được gọi là Hydra Elite vào năm 2008
+PT Media.,JSC bắt đầu chương trình quảng cáo này vào năm 2011, tuy nhiên CPC đang được ưu tiên với nhà cung cấp này. Hiện nhà cung cấp này không cho đăng ký mà họ sẽ xét duyệt qua mạng quảng cáo mobile MAD.
+
+
+== Xem thêm ==
+CPA - Thanh toán mỗi hành động
+CPC - Thanh toán mỗi Click
+CPI - Thanh toán mỗi ấn tượng
+CTR - Click theo tỷ lệ
+
+
+== Tham khảo ==

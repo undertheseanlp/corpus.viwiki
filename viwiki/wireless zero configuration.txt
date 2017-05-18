@@ -1,0 +1,20 @@
+Wireless Zero Configuration (WZC), hay còn gọi là Wireless Auto Configuration, hoặc WLAN AutoConfig là một trình tiện ích quản lý kết nối không dây đi kèm với các phiên bản hiện đại của Microsoft Windows như một dịch vụ của Windows tự động chọn mạng không dây để kết nối dựa trên sở thích của người dùng và nhiều thiết lập mặc định. Cái này có thể dùng thay cho, hoặc không cần dùng đến, các tiện ích quản lý mạng không dây từ nhà sản xuất thiết bị.
+
+
+== Miêu tả ==
+Wireless Zero Configuration được ra mắt lần đầu cùng với Windows XP. Trong Windows Vista nó được đổi tên thành "WLAN AutoConfig".
+
+
+== Bất lợi ==
+WZC bị chỉ trích bởi nó tự động kiểm tra các kết nối thường trực, thỉnh thoảng tự ngắt kết nối và kết nối lại. Các hoạt động không được công nhận như là trình duyệt web, đây được xem là vấn đề không liên quan đến Microsoft, nhưng đối với các kết nối thường trực và liên tục, như MMORPG và tin nhắn tức thời, nó có thể làm mất các gói truyền tải, và nó có thể tắt bằng cách vào Services trong Control Panel.
+Một khi đã tắt nó, phải chắc rằng bộ kết nối không dây đã tạo được kết nối bằng chính nó.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Wireless Zero Configuration application programming interface
+Active Directory Schema Extensions for Windows Vista Wireless and Wired Group Policy Enhancements
+The Cable Guy: Wireless Group Policy Settings for Windows Vista
+Windows Wireless Zero Configuration: Five Steps to Sanity

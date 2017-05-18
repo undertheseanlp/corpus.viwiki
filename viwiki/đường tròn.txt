@@ -1,0 +1,86 @@
+Trong hình học phẳng, đường tròn (hoặc vòng tròn) là quỹ tích của tất cả những điểm trên một mặt phẳng, cách đều một điểm cho trước bằng một khoảng cách cho trước. Điểm cho trước gọi là tâm của đường tròn, còn khoảng cho trước gọi là bán kính của đường tròn.
+Một đường tròn đồng dạng với mọi đường tròn khác.
+
+
+== Công thức ==
+Trong hệ tọa độ x-y, vòng tròn có tâm tại (a, b) và bán kính r là tất cả các điểm (x, y) thỏa mãn:
+(x- a)2 + (y - b)2 = r2
+và công thức:
+x2 + y2 - 2ax - 2by + c = 0
+Khi tâm nằm tại tâm của hệ tọa độ, (a, b) = (0, 0), ta có:
+x2 + y2 = r2
+Đường tròn có tâm tại tâm của hệ tọa độ và bán kính bằng 1 gọi là đường tròn đơn vị.
+Ở dạng phương trình tham số, (x, y) có thể được viết:
+x = a + R cos(t)
+y = b + R sin(t).
+Với t là tham số, có ý nghĩa như góc.
+Độ dốc tiếp tuyến tại điểm (x, y) trên đường tròn có tâm tại tâm hệ tọa độ có thể được viết:
+
+  
+    
+      
+        
+          y
+          ′
+        
+        =
+        −
+        
+          
+            x
+            y
+          
+        
+        .
+      
+    
+    {\displaystyle y'=-{\frac {x}{y}}.}
+  
+Diện tích hình tròn (O,R) S = π R2
+
+
+== Chu vi ==
+Chu vi của đường tròn được gọi là viên chu, là độ dài của đường tròn, bằng tích của 2 lần số pi với bán kính của đường tròn. Hay nói khác đi là độ dài của đường tròn bằng đường kính của nó nhân với số pi, do đường kính bằng 2 lần bán kính.
+
+  
+    
+      
+        C
+        =
+        D
+        π
+        =
+        2
+        R
+        π
+      
+    
+    {\displaystyle C=D\pi =2R\pi }
+  
+
+
+== Hình tròn ==
+
+Trong hình học phẳng, đường tròn và hình tròn là hai khái niệm khác nhau. Hình tròn là tập hợp tất cả các điểm nằm trong và nằm trên đường tròn hay tạp hợp các điểm cách tâm một khoảng nhỏ hơn hoặc bằng bán kính Đường tròn không có diện tích như hình tròn mà chỉ có chu vi.
+
+
+== Cung tròn ==
+
+Cung tròn là phần của đường tròn giới hạn bởi hai điểm, là quỹ tích-tập hợp các điểm thuộc đường tròn nằm giữa hai điểm.
+Đoạn thẳng nối hai đầu mút của cung tròn được gọi là dây cung của cung tròn đó. Dây cung không thuộc đường tròn (vì nó chỉ chung với đường tròn tại hai điểm mút đó, còn các điểm khác thì không), mà thuộc hình tròn.
+
+
+== Xem thêm ==
+Đường elip
+Mặt cầu
+Hình tròn
+Hình cầu
+Cung tròn
+Đường cong bậc hai
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Bài giảng về đường tròn tại Đại học Cần Thơ

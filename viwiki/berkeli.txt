@@ -1,0 +1,36 @@
+Berkeli là một nguyên tố hóa học tổng hợp có ký hiệu Bk và số nguyên tử 97, và là nguyên tố kim loại phóng xạ trong nhóm actini. Berkeli được tổng hợp đầu tiên bằng cách dùng hạt anpha (các ion heli) bắn phá americi và được đặt tên theo Đại học California, Berkeley. Berkeli là nguyên tố siêu urani thứ 5 được tổng hợp.
+
+
+== Đặc điểm ==
+
+Các kỹ thuật tán xạ tia X đã được sử dụng để xác định các hợp chất berkeli khác nhau như berkeli điôxit (BkO2), berkeli florua (BkF3), berkeli oxyclorua (BkOCl), và berkeli trioxit (Bk2O3). Năm 1962, một lượng berkeli clorua (BkCl3) được cô lập với khối lượng 3 phần tỉ gam. Lượng hợp chất berkeli tinh khiết đầu tiên được tạo ra vào năm 1958.
+
+
+== Lịch sử ==
+Berkeli được Glenn T. Seaborg, Albert Ghiorso, Stanley G. Thompson, và Kenneth Street, Jr. ở Đại học California, Berkeley tổng hợp đầu tiên vào tháng 12 năm 1949. Nhóm tác giả này sử dụng máy cyclôtron để bắn phá hạt nhân 241Am kích thước miligam bằng các hạt anpha tạo ra 243Bk (chu kỳ bán rã 4,5 giờ) và hai neutron tự do.
+24195Am + 42He → 24397Bk + 2 10n
+Một trong những đồng vị tồn tại lâu nhất của Berkeli là 249Bk (chu kỳ bán rã 330 ngày), sau này được tổng hợp bằng cách bắn phá 244Cm trong chùm neutron cực mạnh.
+
+
+== Các đồng vị ==
+19 đồng vị phóng xạ của berkeli đã được miêu tả, trong đó đồng vị ổn định nhất là 247Bk có chu kỳ bán rã 1380 năm, 248Bk là hơn 9 năm, và 249Bk là 330 ngày. Tất cả các đồng vị phóng xạ còn lài có chu kỳ bán rã nhỏ hơn 5 ngày, và đa số trong chúng có chu kỳ bán rã nhỏ hơn 5 giờ. Nguyên tố này cũng có 2 trạng thái siêu ổn định (meta state?), với trạng thái bền nhất là 248mBk (t½ 23,7 giờ). Các đồng vị của berkeli có khối lượng nguyên tử từ 235,057 u (235Bk) đến 254,091 u (254Bk).
+
+
+== Chu kỳ nhiên liệu hạt nhân ==
+Trong chu kỳ nhiên liệu hạt nhân, berkeli được tạo ra bởi phân rã beta của curi. Đồng vị curi đầu tiên trải qua phân rã beta là Cm-249 với chu kỳ bán rã chỉ gần hơn 1 giờ, vì thế Bk-249 là đồng vị duy nhất của berkeli được tạo ra với số lượng lớn trong lò phản ứng hạt nhân. Việc tạo ra Bk-249 đòi hỏi 11 lần hấp thụ neutron liên tiến đối với urani 238 mà không có sự phân hạch hoặc phân rã anpha, vì vậy nó chỉ tạo ra một lượng rất nhỏ.
+
+
+== Độc tính ==
+Berkeli tích tụ trong bộ xương. Phóng xạ có thể gây tổn thương hồng cầu. Hàm lượng tối đa cho phép đối với đồng vị Bk–249 trong xương người là 0,4 ng (nano-gam hay phần tỉ gam).
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+WebElements.com - Berkelium
+Los Alamos National Laboratory - Berkelium
+It's Elemental - Berkelium
+Berkeley Science Review - An Elementary Problem
+History of Element 117 Synthesis
+Element 'ununseptium' to fill periodic table gap

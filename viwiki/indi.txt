@@ -1,0 +1,57 @@
+Indi (tiếng Latinh: Indium) là một nguyên tố hóa học với ký hiệu In và số nguyên tử 49. Nó là một kim loại yếu hiếm, mềm, dễ uốn và dễ dàng nóng chảy, về mặt hóa học là tương tự như nhôm và gali, nhưng tương tự nhiều hơn với kẽm (các quặng kẽm cũng là nguồn chủ yếu chứa kim loại này). Ứng dụng chủ yếu của nó hiện nay là để tạo ra các điện cực trong suốt từ ôxít thiếc indi (tức Indium tin oxide (ITO)) dùng trong các màn hình tinh thể lỏng (LCD). Nó cũng được sử dụng rộng rãi trong các màng mỏng để tạo ra các lớp bôi trơn (trong Đại chiến thế giới lần thứ hai nó được sử dụng nhiều để che phủ các vòng bi trong một số loại tàu bay). Nó cũng được dùng để tạo một số hợp kim cụ thể có nhiệt độ nóng chảy thấp và là thành phần trong một vài dạng thiếc hàn không chứa chì.
+
+
+== Đặc trưng ==
+
+Indi là một kim loại thật sự, tương đối hiếm, rất mềm, màu trắng hay xám bạc với ánh sáng màu. Khi ở dạng kim loại nguyên chất và bị uốn cong thì nó phát ra các tiếng kêu răng rắc, tựa như thiếc. Cả gali và indi đều có thể làm ướt thủy tinh.
+Một tính chất bất thường của indi là phần lớn các đồng vị thông thường của nó đều có tính phóng xạ nhẹ; nó phân rã rất chậm theo bức xạ beta để trở thành thiếc. Tính phóng xạ này không bị coi là nguy hiểm, chủ yếu là do chu kỳ bán rã rất dài của nó (4,41×1014 năm hay 441 nghìn tỷ năm), cao khoảng gấp 10.000 lần tuổi của vũ trụ và gần 50.000 lần lâu dài hơn của thori tự nhiên. Không giống như nguyên tố chu kỳ 5 cận kề là cadmi, indi không phải là chất độc tích lũy nguy hiểm trong cơ thể.
+
+
+== Ứng dụng ==
+Ứng dụng quy mô lớn đầu tiên của indi là làm lớp bôi trơn cho các vòng bi của một số tàu bay trong thời kỳ Đại chiến thế giới lần thứ hai. Sau đó, sản xuất indi dần dần tăng lên các ứng dụng mới được tìm thấy trong các hợp kim dễ nóng chảy, thiếc hàn và trong ngành điện tử. Trong thập niên 1950, các hạt indi nhỏ được dùng làm cực phát và cực thu của các tranzito biên hợp kim kiểu PNP. Vào giữa và cuối thập niên 1980, sự phát triển các chất bán dẫn từ phốtphua indi và các màng mỏng từ ôxít thiếc indi cho LCD đã gây ra nhiều sự chú ý. Vào năm 1992, ứng dụng màng mỏng đã trở thành ứng dụng lớn nhất của indi. Các ứng dụng khác có:
+Để sản xuất các hợp kim có điểm nóng chảy thấp. Hợp kim chứa 24% indi và 76% gali là một chất lỏng ở nhiệt độ phòng.
+Một số hợp chất của indi như antimonua indi, phốtphua indi, nitrua indi là các chất bán dẫn với các tính chất hữu ích.
+Là thành phần bắt buộc trong tổng hợp chất bán dẫn selenua gali indi đồng (CIGS), được sử dụng trong sản xuất các màng mỏng cho các tế bào năng lượng mặt trời.
+Sử dụng trong các điốt quang (LED) và các điốt laze (LD) dựa trên các chất bán dẫn phức hợp được sản xuất nhờ công nghệ mọc ghép pha hơi hữu cơ kim loại (MOVPE).
+Các chất hữu cơ kim loại siêu tinh khiết của indi, cụ thể là trimethylindi (TMI) độ tinh khiết cao được sử dụng làm tiền chất trong các chất bán dẫn phức hợp nhóm nguyên tố III-V, trong khi nó cũng được sử dụng làm tác nhân kích thích chất bán dẫn trong các chất bán dẫn phức hợp nhóm nguyên tố II-VI.
+Có thể được mạ vào các kim loại hay cho bốc hơi vào thủy tinh để tạo ra các gương tốt như như các gương sử dụng bạc nhưng có khả năng chóng ăn mòn tốt hơn.
+Ôxít indi (III) (In2O3) được sử dụng như là chất nền thủy tinh dẫn điện trong suốt trong sản xuất các tấm phát quang điện.
+Sử dụng làm bộ lọc ánh sáng trong các đèn hơi natri áp suất thấp.
+Điểm đông đặc của indi (429,7485 K hay 156,5985 °C) là điểm cố định định nghĩa trên thang nhiệt độ quốc tế ITS-90.
+Tiết diện bắt nơtron cao của indi đối với các nơtron nhiệt làm cho nó trở thành phù hợp để sử dụng trong các thanh kiểm soát trong các lò phản ứng hạt nhân, thông thường ở dạng hợp kim chứa 80% bạc, 15% indi và 5% cadmi.
+Trong công nghệ hạt nhân, các phản ứng (n,n') của In113 và In115 được sử dụng để xác định thông lượng của luồng nơtron.
+In111 bức xạ gama và được sử dụng trong chiếp chụp hạt nhân, một kỹ thuật của chiếu chụp y học. Chiếu chụp hạt nhân có nhiều ứng dụng, bao gồm các pha đầu của phát triển thuốc hay kiểm soát độ hoạt động của các tế bào bạch cầu. Một thử nghiệm máu được thực hiện đối với bệnh nhân, các tế bào bạch cầu được lấy ra và dán nhãn bằng In111 phóng xạ, sau đó truyền trở lại vào bệnh nhân. Hình ảnh gama sẽ phát hiện bất kỳ khu vực nào mà các tế bào bạch cầu có hoạt động cao, như các chỗ bị áp xe.
+Một lượng rất nhỏ được dùng trong hợp kim nhôm với anôt mòn dần (trong các ứng dụng môi trường nước mặn) để ngăn chặn thụ động hóa nhôm.
+Trong dạng sợi dây, nó được dùng như là xi chân không trong các ứng dụng sinh hàn.
+Sử dụng như là vật liệu định cỡ cho các thiết bị phân tích trọng lượng nhiệt.
+
+
+== Lịch sử ==
+Indi (đặt tên theo vạch chàm trong phổ bức xạ nguyên tử của nó, trong tiếng Đức từ indigo là để chỉ màu chàm) được hai nhà hóa học người Đức là Ferdinand Reich và Hieronymous Theodor Richter phát hiện năm 1863 khi họ kiểm tra quặng kẽm bằng quang phổ kế để nghiên cứu tali. Richter cô lập được kim loại này năm 1867.
+
+
+== Phổ biến và tiêu thụ ==
+
+Indi đứng thứ 61 về độ phổ biến trong lớp vỏ Trái Đất ở hàm lượng khoảng 0,25 ppm , nghĩa là nó có nhiều gấp ba lần bạc (hàm lượng 0,075 ppm). Cho tới năm 1924, chỉ có khoảng 1 gam indi đã cô lập được trên Trái Đất. Indi được sản xuất chủ yếu từ các cặn bã còn lại sau khi tinh chế quặng kẽm, nhưng nó cũng có trong các quặng sắt, chì và đồng.
+Canada là nhà sản xuất hàng đầu về indi. Nhà máy tinh chế của Công ty khai thác mỏ Teck Cominco ở Trail (British Columbia) là nơi cung cấp lớn nhất, với sản lượng là 32,5 tấn năm 2005, 41,8 tấn năm 2004 và 36,1 tấn năm 2003.
+Lượng indi được tiêu thụ chủ yếu trong sản xuất LCD khắp thế giới. Sản lượng toàn thế giới hiện nay khoảng 476 tấn/năm từ khai thác mỏ và 650 tấn/năm từ tái chế . Nhu cầu sử dụng indi đã gia tăng nhanh chóng trong những năm gần đây với sự phổ biến của màn hình máy tính/ti vi bằng LCD, hiện tại chiếm tới 50% lượng indi được tiêu thụ. Hiệu suất sản xuất tăng lên cùng tái chế (đặc biệt tại Nhật Bản) giúp duy trì sự cân bằng tạm thời giữa cung và cầu. Nhu cầu thì tăng lên do sử dụng trong LCD, còn cung thì giảm do một số công ty khai thác mỏ tại Trung Quốc đã dừng việc chiết tách indi từ căn bã quặng kẽm. Năm 2002, giá của indi trên thị trường là 94 USD mỗi kilôgam, nhưng các thay đổi gần đây trong cung-cầu đã làm giá của indi tăng lên và dao động mạnh, trong giai đoạn từ năm 2005 tới năm 2007 giá của nó nằm trong khoảng 700-1.000 USD/kg. Nhu cầu về indi có thể còn tiếp tục gia tăng với việc sản xuất ở quy mô lớn các màng mỏng dựa trên CIGS trong công nghệ năng lượng mặt trời do một số công ty, như Nanosolar và Miasole, bắt đầu triển khai trong năm 2008.
+Dựa trên hàm lượng indi trong các nguồn dự trữ quặng kẽm thì dự trữ toàn thế giới là khoảng 6.000 tấn indi có thể khai thác quy mô thương mại . Điều này cho thấy, với tốc độ tiêu thụ như hiện tại thì chỉ còn đủ indi cho 13 năm . Tuy nhiên, ước tính như vậy thường được coi như là gieo hoang mang hay phao tin đồn nhảm. Indium Corporation, nhà chế biến indi lớn nhất, cho rằng dựa trên cơ sở của hiệu suất phục hồi đang tăng lên trong quá trình chiết tách, sự phục hồi từ khoảng rộng hơn các kim loại cơ sở (như trầm tích thiếc, đồng và các trầm tích đa kim khác) cũng như các đầu tư khai thác mỏ mới, thì cung dài hạn về indi là ổn định, tin cậy và đủ để dáp ứng cho nhu cầu đang gia tăng trong tương lai. Kết luận này dường như là hợp lý với thực tế là bạc, một kim loại ít phổ biến hơn, nhưng hiện tại đang được khai thác ở ngưỡng khoảng 18.300 tấn mỗi năm, gấp khoảng 40 lần so với tốc độ khai thác indi hiện nay.
+
+
+== Phòng ngừa ==
+Indi tinh khiết ở dạng kim loại được nhiều nguồn tài liệu cho là không độc hại. Trong công nghiệp bán dẫn và hàn kim loại, những nơi mà độ phơi nhiễm indi là tương đối cao, vẫn chưa có báo cáo nào cho thấy nó gây ra các hiệu ứng phụ độc hại.
+Nhưng điều này có thể không đúng đối với các hợp chất của indi: có một số chứng cứ chưa được xác nhận cho rằng indi có độc tính thấp. Ví dụ, triclorua indi khan (InCl3) là hoàn toàn độc hại, trong khi phốtphua indi (InP) là độc hại và bị nghi ngờ là chất gây ung thư.
+
+
+== Xem thêm ==
+Hợp chất indi
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Phòng thí nghiệm quốc gia Los Alamos – Indi
+WebElements.com – Indium
+Indium Corporation
+Tác nhân khử > Indi hóa trị thấp

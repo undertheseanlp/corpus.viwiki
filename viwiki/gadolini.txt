@@ -1,0 +1,86 @@
+Gadolini (tên La tinh: Gadolinium) là một nguyên tố hóa học có ký hiệu Gd và số nguyên tử bằng 64.
+
+
+== Đặc trưng ==
+Gadolini là một kim loại đất hiếm mềm dễ uốn màu trắng bạc với ánh kim. Nó kết tinh ở dạng alpha đóng kín lục phương khi ở điều kiện gần nhiệt độ phòng, nhưng khi bị nung nóng tới 1.508 K hay cao hơn thì nó chuyển sang dạng beta là cấu trúc lập phương tâm khối.
+Không giống như các nguyên tố đất hiếm khác, gadolini tương đối ổn định trong không khí khô. Tuy nhiên, nó bị xỉn nhanh trong không khí ẩm, tạo thành một lớp ôxít dễ bong ra làm cho kim loại này tiếp tục bị ăn mòn. Gadolini phản ứng chậm với nước và bị hòa tan trong axít loãng.
+Gd157 có tiết diện bắt nơtron nhiệt cao hàng thứ hai trong số các nuclide đã biết, chỉ thua Xe135, với giá trị bằng 49.000 barn, nhưng nó cũng có tốc độ cháy hết nhanh và điều này hạn chế tính hữu dụng của nó như là vật liệu làm các thanh kiểm soát trong lò phản ứng hạt nhân. Các hợp chất của gadolini (ôxít) có thể tạo ra thanh hấp thụ kiểm soát tốt, chúng chỉ đắt hơn một chút so với cacbua bo, là chất hấp thụ chủ yếu trong các phiến kiểm soát. Bên cạnh đó, "tốc độ cháy hết" đề cập trên đây là thông lượng (n/cm²*s) nhân với tiết diện (cm²). Chúng không phải là các đại lượng tách biệt; tiết diện lớn tạo ra "tốc độ cháy hết" lớn. Bên cạnh đó, gadolinia không cháy hết với sự hấp thụ nơtron, nó biến hóa về nguyên tử lượng nhưng vẫn là Gd. Số các nguyên tử Gd vẫn là bất biến; độ phản ứng âm xảy ra do các nguyên tử Gd bị biến hóa thành các đồng vị có tiết diện hấp thụ nơtron nhỏ hơn. Gd160 có tiết diện hấp thụ nơtron nhiệt nhỏ hơn 1 barn và như thế không còn là chất độc hạt nhân có hiệu quả.
+Gadolini là một chất thuận từ mạnh ở nhiệt độ phòng và thể hiện tính chất sắt từ khi nhiệt độ hạ xuống.
+Gadolini thể hiện hiệu ứng từ nhiệt trong đó nhiệt độ của nó tăng lên khi đưa vào trong từ trường và hạ xuống khi rút ra khỏi từ trường. Hiệu ứng được coi là mạnh hơn cho hợp kim của gadolini Gd5(Si2Ge2) .
+
+
+== Ứng dụng ==
+
+Gadolini được sử dụng trong sản xuất các thạch lựu gadolini yttri phục vụ cho các ứng dụng vi sóng, và các hợp chất gadolini được dùng trong sản xuất các chất lân quang cho các ống tia âm cực dùng trong tivi màu. Gadolini cũng được dùng trong sản xuất các đĩa compact và bộ nhớ máy tính.
+Gadolini được dùng trong các hệ thống tạo lực đẩy bằng hạt nhân trong hàng hải như là chất độc hạt nhân có thể cháy hết. Gadolini cũng được dùng như là một biện pháp thứ cấp, tắt khẩn cấp trong một số lò phản ứng hạt nhân, cụ thể là trong kiểu CANDU.
+Gadolini cũng có các tính chất luyện kim bất thường, với chỉ khoảng 1% gadolini bổ sung cũng cải thiện khả năng công tác và sức bền của sắt, crom và các hợp kim có liên quan tới nhiệt độ và sự ôxi hóa cao.
+Do các tính chất thuận từ của nó, các dung dịch phức chất hữu cơ của gadolini và các hợp chất của gadolini được dùng như là các tác nhân tương phản phóng xạ truyền ven để nâng cao chất lượng hình ảnh trong chụp cộng hưởng từ (MRI) y học. Magnevist là ví dụ sử dụng rộng rãi nhất.
+Bên cạnh MRI, gadolini cũng được dùng trong các chiếu chụp khác. Trong tia X, gadolini được chứa trong lớp lân quang, lơ lửng trong một ma trận polyme tại thiết bị phát hiện. Ôxysulfua gadolini (Gd2O2S: Tb) kích thích bằng terbi tại lớp lân quang chuyển hóa các tia X giải phóng từ nguồn thành ánh sáng. Gd có thể bức xạ tại bước sóng 540 nm (quang phổ ánh sáng xanh lục = 520–570 nm), rất hữu ích để nâng cao chất lực chiếu chụp của tia X được phơi sáng vào giấy ảnh. Bên cạnh khoảng quang phổ của Gd, hợp chất cũng có rìa K ở mức 50 kiloelectron volt (keV), nghĩa là sự hấp thụ các tia X của nó thông qua các tương tác quang điện là lớn. Sự chuyển hóa năng lượng của Gd tới 20%, nghĩa là, một phần năm các tia X va đập vào lớp lân quang có thể được chuyển hóa thành các photon ánh sáng.
+Ôxyorthosilicat gadolini (Gd2SiO5, GSO; thường được kích thích bằng 0,1-1% Ce) là đơn tinh thể được dùng như là chất phát sáng nhấp nháy trong chiếu chụp y học, chẳng hạn trong chụp bức xạ positron (PET) hay để phát hiện các nơtron.
+Thạch lựu gadolini galli (Gd3Ga5O12) là vật liệu với các tính chất quang học tốt, được sử dụng trong chế tạo nhiều chủng loại thành phần quang họcvà làm vật liệu nền cho các phim từ quang.
+Trong tương lai, etyl sulfat gadolini, với các đặc tính ồn cực thấp, có thể được dùng trong các maser. Ngoài ra, mômen từ cao và nhiệt độ Curie thấp của gadolini (nằm ở mức nhiệt độ phòng) gợi ý về các ứng dụng như là thành phần từ tính trong cảm nhận nóng và lạnh.
+Do tiết diện bắt nơtron cực cao của gadolini, nguyên tố này được sử dụng rất hiệu quả trong kỹ thuật chụp bức xạ nơtron.
+
+
+== Lịch sử ==
+Năm 1880, nhà hóa học người Thụy Sĩ là Jean Charles Galissard de Marignac đã quan sát thấy các vạch quang phổ thuộc về gadolini trong các mẫu vật didymi và gadolinit; nhà hóa học người Pháp là Paul Émile Lecoq de Boisbaudran đã tách gadolinia, một ôxít của gadolini, từ yttria của Mosander năm 1886. Nguyên tố này được cô lập chỉ trong thời gian gần đây.
+Gadolini, giống như khoáng vật gadolinit, được đặt tên theo nhà hóa học và nhà địa chất người Phần Lan là Johan Gadolin.
+Trong các tài liệu cũ, dạng tự nhiên của nguyên tố này thường được gọi là đất, nghĩa là nguyên tố này đến từ đất. Trên thực tế, gadolini là nguyên tố đến từ một loại đất là gadolinia. Nó là hỗn hợp bao gồm các hợp chất của nguyên tố này và một số nguyên tố khác. Hai nguyên tố kết hợp phổ biến nhất là ôxy và lưu huỳnh. Ví dụ, gadolinia chứa ôxít gadolini (Gd2O3).
+
+
+== Vai trò sinh học ==
+Gadolini không có vai trò sinh học tự nhiên nào đã biết, nhưng trong nghiên cứu về các hệ thống sinh học nó có một số vai trò. Nó được sử dụng như là tác nhân tương phản trong MRI, do trong trạng thái ôxi hóa +3 nó có 7 electron không bắt cặp. Điều này làm cho nước xung quanh tác nhân tương phản bị hồi phục nhanh, nâng cao chất lượng chụp MRI. Thứ hai, như là thành viên của nhóm Lantan, nó được sử dụng trong các thực nghiệm điện sinh lý học kênh ion khác nhau, trong đó nó được dùng để ngăn các kênh rò rỉ natri, cũng như để kéo giãn các kênh ion đã hoạt hóa.
+Các tác nhân tương phản trên nền gadolini là nguy hiểm đối với các bệnh nhân bị bệnh thận. Tác nhân tương phản thông thường được chelat hóa do nó được dự kiến là di chuyển trong cơ thể rất nhanh. Trong các bệnh nhân với bệnh thận, sự bài tiết là chậm hơn và gadolini trở thành không liên kết, gây ra các vấn đề nghiêm trọng cho sức khỏe.
+
+
+== Phổ biến ==
+Gadolini không được tìm thấy ở dạng tự do trong tự nhiên, nhưng nó chứa trong nhiều khoáng vật hiếm như monazit và bastnasit. Nó chỉ xuất hiện ở dạng dấu vết trong khoáng vật gadolinit, cũng được đặt tên theo Johan Gadolin. Ngày nay, nó được điều chế bằng các kỹ thuật trao đổi ion và chiết dung môi hay bằng khử florua khan của nó với canxi kim loại.
+
+
+== Giá trị ==
+Năm 1994, giá thành của gadolini là khoảng 0,12 USD mỗi gam và nó chỉ tăng giá trị vào khoảng 0,01 USD mỗi gam kể từ đó:
+
+1994-1995.....$55 mỗi pao (hay $0,121 mỗi gam)
+1996-1999.....$115 mỗi kilôgam (hay $0,115 mỗi gam)
+2000-2005.....$130 mỗi kilôgam (hay $0,13 mỗi gam)
+
+
+== Hợp chất ==
+Các hợp chất của gadolini bao gồm:
+Các florua: GdF3
+Các chlorua: GdCl3
+Các bromua: GdBr3
+Các iodua: GdI3
+Các ôxít: Gd2O3
+Các sulfua: Gd2S3
+Các nitrat: Gd(NO3)3
+Các nitrua: GdN
+Hợp chất hữu cơ: gadodiamid
+Xem thêm Hợp chất gadolini.
+
+
+== Đồng vị ==
+
+Gadolini trong tự nhiên là hỗn hợp của 5 đồng vị ổn định, bao gồm Gd154, Gd155, Gd156, Gd157 và Gd158, và 2 đồng vị phóng xạ là Gd152 và Gd160, với Gd158 là phổ biến nhất (24,84% độ phổ biến tự nhiên).
+Ba mươi (30) đồng vị phóng xạ đã được nêu đặc trưng, với ổn định nhất là Gd160 có chu kỳ bán rã trên 1,3×1021 năm (sự phân rã vẫn chưa được quan sát - chỉ có giới hạn dưới của chu kỳ bán rã là đã biết), phân rã alpha Gd152 với chu kỳ bán rã 1,08×1014 năm, và Gd150 với chu kỳ bán rã 1,79×106 năm. Tất cả các đồng vị còn lại là phóng xạ, với chu kỳ bán rã nhỏ hơn 74,7 năm. Phần lớn trong số này có chu kỳ bán rã nhỏ hơn 24,6 giây. Các đồng vị của gadolini có 4 trạng thái giả ổn định (đồng phân hạt nhân), với ổn định nhất là Gd143m (t½ 110 giây), Gd145m (t½ 85 giây) và Gd141m (t½ 24,5 giây).
+Phương thức phân rã chủ yếu của các đồng vị trước đồng vị ổn định phổ biến nhất (Gd158) là bắt điện tử, còn phương thức phân rã chủ yếu của các đồng vị sau đồng vị ổn định phổ biến nhất là phân rã beta. Sản phẩm phân rã chủ yếu của các đồng vị trước đồng vị ổn định phổ biến nhất là các đồng vị của Eu) còn sản phẩm phân rã chủ yếu của các đồng vị sau đồng vị ổn định phổ biến nhất là các đồng vị của Tb.
+Gadolini-153 có chu kỳ bán rã 240,4 ±10 ngày và bức xạ tia gama với các đỉnh mạnh tại 41 keV và 102 keV. Nó được sử dụng như là nguồn tia gama trong phép đo hấp thụ tia X hay đo đạc mật độ xương cho chiếu chụp chứng loãng xương và trong hệ thống chiếu chụp tia X Lixiscope có thể di động.
+
+
+== Phòng ngừa ==
+Giống như các nguyên tố khác trong nhóm Lantan, các hợp chất gadolini có độc tính từ nhẹ tới vừa phải, mặc dù độc tính của chúng vẫn chưa được nghiên cứu đầy đủ. Bên cạnh đó, các bệnh nhân bị bệnh thận hay trong các điều kiện tiền viêm nhiễm, có các dữ liệu cho thấy có sự liên quan giữa việc sử dụng nó với sự phát triển của xơ hóa hệ thống sinh mô thận như là hiệu ứng phụ của các chelat gadolini sử dụng như là tác nhân tương phản trong các chiếu chụp MRI.
+
+
+== Ghi chú ==
+
+
+== Tham khảo chung ==
+Los Alamos National Laboratory – Gadolinium
+
+
+== Liên kết ngoài ==
+WebElements.com – Gadolinium
+Nephrogenic Systemic Fibrosis – Complication of Gadolinium MR Contrast
+It's Elemental – Gadolinium
+refrigerator uses gadolinium metal that heats up when exposed to magnetic field
+FDA Advisory on Gadolinium-Based Contrast

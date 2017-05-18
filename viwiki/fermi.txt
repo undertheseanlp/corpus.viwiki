@@ -1,0 +1,26 @@
+Fermi hay fecmi là một nguyên tố kim loại tổng hợp thuộc nhóm actini có tính phóng xạ cao, có ký hiệu Fm và số nguyên tử là 100. Fermi được tạo ra bằng cách bắn phá hạt nhân plutoni bởi các neutron, và là nguyên tố siêu urani thứ 8. Nó được đặt tên theo tên nhà vật lý hạt nhân Enrico Fermi.
+
+
+== Đặc điểm ==
+
+Chỉ một lượng nhỏ fermi được sản xuất hoặc tách ra, do đó, có rất ít thông tin về tính chất hóa học của nó. Chỉ có trạng thái ôxy hóa +3 của nguyên tố này tồn tại trong dung dịch chứa nước.254Fm và các đồng vị nặng hơn có thể được tổng hợp bằng cách dùng neutron bắn phá các hạt nguyên tố nhẹ hơn (đặc biệt là urani và plutoni). Theo đó, quá trình hấp thụ neutron liên tục xen kẽ với phân rã beta sẽ tạo ra đồng vị fermi. Các điều kiện bắn phá neutron cần thiết để tạo ra fermi có sẵn trong các vụ nổ nhiệt hạch và có thể được thực hiện trong phòng thí nghiệm (như trong lò phản ứng dòng đồng vị cao (High Flux Isotope Reactor ở phòng thí nghiệm quốc gia Oak Ridge - Oak Ridge National Laboratory). Nguyên tố tổng hợp 102 (nobeli) đã được xác nhận khi 250Fm được xác định về mặt hóa học. Cũng giống các nguyên tố nhân tạo khác, Fermi có tính phóng xạ và độ rất cao.
+
+
+== Lịch sử ==
+Fermi được đặt theo tên nhà vật lý người Mỹ-Ý, Enrico Fermi. Nó được nhóm nghiên cứu của Albert Ghiorso phát hiện đầu tiên vào năm 1952. Nhóm này đã phát hiện ra 255Fm trong bụi thu được từ vụ nổ bom hydro đầu tiên tháng 11 năm 1952 (xem thử nghiệm Bom-H Ivy Mike). Đồng vị này được tạo ra khi U-238 tiếp nhận 17 neutron trong điều kiện nhiện độ lớn của vụ nổ thử nghiệm hạt nhân và 8 lần phân rã beta để tạo ra hạt nhân fermi. Công trình này được giám sát bởi Phòng thí nghiệm phóng xạ Đại học California, Phòng thí nghiệm quốc gia Argonne (Argonne National Laboratory), và Phòng thí nghiệm khoa học Los Alamos (Los Alamos Scientific Laboratory). Tất cả các phát hiện này được giữ bí mật đến năm 1955 do căng thẳng của chiến tranh lạnh. Các mẫu san hô biển bị ảnh hưởng bởi vụ nổ nhiệt hạch tháng 11 năm 1952 cũng được dùng để nghiên cứu.
+Vào cuối năm 1953 và đầu năm 1954, một nhóm làm việc ở Viện vật lý Nobel (Nobel Institute for Physics) ở Stockholm Thụy Điển, đã bắn phá urani-238 bằng các ion oxy-16 tạo ra một phát xạ anpha có khối lượng nguyên tử khoảng 250 cùng với 100 proton (hay nói cách khác là nguyên tố 250Unn). Nhóm nghiên cứu của Viện Nobel đã không công bố phát hiện này cho đến năm 1954. Đồng vị được tạo ra sau đó được xác định là 250Fm.
+
+
+== Các đồng vị ==
+17 đồng vị phóng xạ của fermi đã được xác định, với đồng vị bền nhất 257Fm có chu kỳ bán rã khoảng 100 ngày, 253Fm có chu kỳ bán rã 3 ngày, 252Fm là 25,4 giờ, và 255Fm là 20,1 giờ. Tất cả các đồng vị phóng xạ còn lại có chu kỳ bán rã nhỏ hơn 5,4 giờ, và đa số trong đó có chu kỳ bán rã nhỏ hơn 3 phút. Fermi cũng có một metastable state, 250mFm (t½ 1,8 giây). Các đồng vị của fermium có khối lượng nguyên tử từ 242,073 đơn vị khối lượng nguyên tử (242Fm) đến 259,101 a.m.u. (259Fm).
+
+
+== Tham khảo ==
+
+Los Alamos National Laboratory - Fermium
+Guide to the Elements - Revised Edition, Albert Stwertka, (Oxford University Press; 1998) ISBN 0-19-508083-1
+It's Elemental - Fermium
+
+
+== Liên kết ngoài ==
+WebElements.com - Fermium

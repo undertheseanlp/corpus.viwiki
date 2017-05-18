@@ -1,0 +1,103 @@
+Curi là một nguyên tố hóa học nằm trong bảng tuần hoàn, có tên Latinh là Curium, ký hiệu nguyên tử Cm, thuộc nhóm actini, nằm ở vị trí 96. Là một nguyên tố có tính phóng xạ mạnh, nó không tồn tại trong tự nhiên mà được tổng hợp từ lò phản ứng hạt nhân bằng cách bắn phá hạt nhân plutoni với hạt nhân heli. Trong các hợp chất hóa học thì nguyên tố này có số oxi hóa phổ biến là +3. Curi được nhóm của Glenn Theodore Seaborg phát hiện vào năm 1944 và đặt tên để vinh danh nhà hóa học, vật lý học người Ba Lan là Marie Curie và chồng bà là Pière Curie. Curi có tổng cộng 14 đồng vị trong tự nhiên, trong đó đồng vị ổn định nhất là Cm247 có chu kì bán rã là 15.600.000 năm.
+
+
+== Tính chất ==
+Các tính chất của Curi tương đối giống với các nguyên tố trong nhóm nguyên tố siêu urani.
+
+
+=== Tính chất vật lý ===
+
+Curi là kim loại có độ cứng cao, khó gia công, khó rèn, có độ giòn cao, bề ngoài có màu trắng bạc, ánh kim loại, dễ bị mờ xỉn khi tiếp xúc ngoài không khí.
+Curi có nguyên tử khối là 247,0703 đơn vị cacbon. Trong hạt nhân nguyên tử gồm có 96 proton và 151 nơtron, cấu hình electron có dạng [Rn]5f76d17s2, khối lượng riêng của curi tinh khiết là 13,51 gam/cm3. Nóng chảy ở 1.345 0C.
+Là một nguyên tố phóng xạ, curi là một nguồn phát tia alpha (α) mạnh mẽ. Nó được sử dụng trong các máy phát nhiệt đồng vị phóng xạ vì sự tỏa nhiệt mạnh mẽ giải phóng ra các tia alpha trong quá trình phân rã phóng xạ làm nóng nước, biến đổi nhiệt năng thành cơ năng để từ đó sinh ra dòng điện, ngoài ra nó còn được sử dụng để sản xuất đồng vị của plutoni (cụ thể là Pu238), curi còn dược sử dụng như là một nguồn tia alpha trong quang phổ kế tia X đặt trên tàu thăm dò vũ trụ để phân tích thành phần hóa học của các loại đá và sử dụng trong các phòng thí nghiệm bức xạ.
+
+
+=== Tính chất hóa học ===
+Curi rất dễ bị oxi hóa trong không khí và trở nên xám lại. Trạng thái oxit của curi thường gặp là curi (III) oxit (Cm2O3) và hiếm gặp như curi (IV) oxit (CmO2) và curi (II) oxit (CmO).
+Nếu để curi dạng bột ngoài không khí thì nó có thể tự bắt lửa và tạo thành Cm2O3 (màu đen). Các muối curi thường được sử dụng trong y học là curi (III) oxalat [Cm2(C2O4)3] và curi (III) nitrat [Cm(NO3)3].
+Curi (IV) oxit là một oxit không bền, dễ dàng bị phân hủy ở nhiệt độ cao và trong môi trường chân không (khoảng 6000C và 0,01 Pa) và tạo ra sản phẩm là khí oxy và curi (III) oxit:
+4CmO2 ---> 2Cm2O3 + O2
+Hoặc dùng một dòng khí hyđrô vừa đủ chiếm lấy nguyên tử O2 trong curi (IV) oxit và tạo ra curi (III) oxit:
+2CmO2 + H2 ---> Cm2O3 + H2O
+Trong hợp chất với halogenua, thì kim loại này dễ dàng phản ứng với flo nhất và tạo ra muối là CmF3 (curi triflorua) bằng cách trộn hỗn hợp kim loại này với khí flo. Ngoài ra còn có hợp chất của kim loại này với flo ở số oxi hóa cao hơn như curi (III) tetraflorua (CmF4) được tạo thành bằng cách trộn CmF3 với phân tử khí flo. Hợp chất với flo của curi đều ở dạng muối khan không màu.
+2CmF3 + F2 ---> 2CmF4
+Muối curi clorua (CmCl3) có màu trắng, được tạo thành do phản ứng của curi (III) hydroxit Cm(OH)3 với khí hydro clorua. Phương pháp này có thể được sử dụng để tổng hợp các halogenua khác của kim loại này, curi (III) bromua (màu xanh lá cây), curi (III) iodua (không màu). Đối với curi clorua thì muối này dễ dàng phản ứng với amoni và halua.
+CmCl3 + 3NH4I ---> CmI3 + 3NH4Cl
+Ngoài ra curi còn có thể phản ứng với các phi kim khác như lưu huỳnh, selen v.v. nhưng phải ở nhiệt độ cao và trong môi trường chân không.
+
+
+== Lịch sử ==
+
+Curi được Glenn Theodore Seaborg và hai trợ lý của ông là Ralph A. James, Albert Ghiorso phát hiện vào mùa hè năm 1944. Trong thí nghiệm của mình họ đã sử dụng một máy gia tốc hạt (cyclotron) năng lượng cao dài 60 inch đặt tại đại học California (Berkeley, Hoa Kỳ). Bằng cách bắn phá hạt alpha với đồng vị 239 của plutoni sinh ra 242Cm:
+
+  
+    
+      
+        
+          
+            
+            
+               
+              94
+            
+            
+              239
+            
+          
+          P
+          u
+          +
+          
+            
+
+            
+            
+              2
+            
+            
+              4
+            
+          
+          H
+          e
+          →
+          
+            
+
+            
+            
+               
+              96
+            
+            
+              242
+            
+          
+          C
+          m
+          +
+          
+            
+
+            
+            
+              0
+            
+            
+              1
+            
+          
+          n
+        
+      
+    
+    {\displaystyle \mathrm {^{239}_{\ 94}Pu+{}_{2}^{4}He\to {}_{\ 96}^{242}Cm+{}_{0}^{1}n} }
+  
+Những tính chất hóa học của nguyên tố này được nghiên cứu tại Phòng thí nghiệm Argonne (tại Đại học Chicago).
+Sau hai nguyên tố neptuni (Np) và plutoni (Pu) thì curi là nguyên tố nhân tạo đứng thứ 3 sau urani. Việc tổng hợp thành công curi diễn ra trước khi nguyên tử lượng của nguyên tố americi (Am, nguyên tố thứ 99) được ghi vào bảng tuần hoàn. Để tạo ra curi, Glenn T. Seaborg đã phải sử dụng đến oxit của một số nguyên tố. Lần đầu tiên, dung dịch plutoni nitrat [Pu(NO3)3] (với đồng vị Pu239) trải trên một tấm platin (bạch kim) mỏng khoảng 0,5 cm2. Hỗn hợp plutoni nitrat sau đó được cho bốc hơi để lại oxit plutoni (PuO2). Dùng máy gia tốc hạt bắn phá, sau đó cho hòa tan sản phẩm trong dung dịch axit nitric, tiếp theo là cô đặc và cho hòa tan vào nước acmoniac thu được một kết tủa hydroxit. Sản phẩm sau đó được hòa tan trong axit percloric (HClO4). Việc tách lọc nhằm làm tinh khiết thêm được thực hiện bằng phương pháp trao đổi ion. Trong thí nghiệm của mình, Glenn Seaborg đã tách được 2 đồng vị của curi là Cm242 và Cm240.
+
+
+== Chú thích ==
+
+
+== Tham khảo ==

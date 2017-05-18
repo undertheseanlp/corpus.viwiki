@@ -40,10 +40,6 @@ def crawl_page(title, recrawl=False):
     crawled_pages.add(title)
 
 
-def load_queue():
-    return ""
-
-
 def transform_page_name(page):
     page = page.replace("/", "")
     return page
@@ -55,11 +51,13 @@ def crawl(recrawl=False, num_pages=20):
         print("\n%d / %d" % (i, num_pages))
         crawl_page(page, recrawl=recrawl)
 
+
 def extend_pages(pages):
     global page_queue
     global crawled_pages
     pages = [page for page in pages if page not in list(crawled_pages) + page_queue]
     page_queue = page_queue + pages
+
 
 def inject_pages(pages):
     global page_queue
@@ -73,11 +71,13 @@ def load_context():
     crawled_pages = set(open("crawled-pages.txt", "r", encoding="utf-8").read().split("\n"))
     global page_queue
     page_queue = open("page-queue.txt", "r", encoding="utf-8").read().split("\n")
-    pages_from_word_analogies_task = load_word_analogies()
+    page_queue = list(set(page_queue))
+    # pages_from_word_analogies_task = load_word_analogies()
     # inject_pages(pages_from_word_analogies_task)
 
 
 def save_context():
+    global page_queue
     content = "\n".join(crawled_pages)
     open("crawled-pages.txt", "w", encoding="utf-8").write(content)
     content = "\n".join(page_queue)
@@ -88,7 +88,7 @@ if __name__ == '__main__':
     wikipedia.set_lang("vi")
     load_context()
     start = time.time()
-    num_pages=3000
+    num_pages = 3000
     crawl(recrawl=False, num_pages=num_pages)
     end = time.time()
     print("Get %d pages in %s seconds." % (num_pages, end - start))

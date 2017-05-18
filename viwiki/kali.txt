@@ -1,0 +1,157 @@
+Kali (bắt nguồn từ từ tiếng Latinh mới: kalium) là nguyên tố hoá học ký hiệu K, số thứ tự 19 trong bảng tuần hoàn. Nó là một kim loại kiềm. Nó còn gọi là bồ tạt (mặc dù bồ tạt để chỉ tới kali cacbonat K2CO3 thì chính xác hơn) hay pô tát (potassium). Kali nguyên tố là kim loại kiềm mềm, có màu trắng bạc dễ bị ôxy hóa nhanh trong không khí và phản ứng rất mạnh với nước tạo ra một lượng nhiệt đủ để đốt cháy lượng hyđrô sinh ra trong phản ứng này. Kali cháy có ngọn lửa có màu hoa cà.
+Do Kali và Natri có tính chất hóa học rất giống nhau nên các muối của chúng lúc đầu là không có sự khác nhau. Sự tồn tại nhiều nguyên tố trong muối của chúng đã được tiên đoán từ năm 1702, và điều này đã được chứng minh năm 1807 khi natri và kali được cô lập một cách độc lập từ các muối khác nhau bởi cách điện phân. Kali tồn tại trong tự nhiên ở dạng các muối ion. Do đó, nó được tìm thấy ở dạng hòa tan trong nước biển (với khoảng 0,04% kali theo khối lượng), và nó có mặt trong nhiều khoáng vật.
+Hầu hết các ứng dụng trong công nghiệp của kali là nhờ vào khả năng hòa tan tương đối cao của các hợp chất kali trong nước như bánh xà phòng kali. Kim loại kali chỉ có một vài ứng dụng đặc biệt như là nguyên tố được thay thế cho natri kim loại trong hầu hết các phản ứng hóa học.
+Các ion kali cần thiết cho các chứng năng tế bào của tất cả sinh vật. Ion kali là tác nhân cơ học chính trong truyền dẫn nơron. Sự suy giảm kali trong động vật, bao gồm cả con người, dẫn đến rối loạn các chức năng khác nhau của tim. Kali tích tụ trong các tế bào thực vật, và do đó các trái cây tươi và rau là những nguồn cung cấp lượng kali tốt cho cơ thể. Ngược lại, hầu hết thực vật ngoại trừ một vài halophyte đặc biệt là không dung nạp muối, và chỉ có natri có mặt trong chúng với một nồng độ rất thấp. Điều này làm cho kali ban đầu được cô lập từ potash, các dạng tro của thực vật, nên kali trong tiếng Anh được đặt theo hợp chất này. Cùng vì lý do đó nên những vụ canh tác với sản lượng lớn đã làm cạn kiệt nguồn kali một cách nhanh chóng, nên phân bón nông nghiệp tiêu thụ đến 95% loại có chứa kali trên toàn cầu.
+
+
+== Tính chất ==
+
+
+=== Vật lý ===
+Các nguyên tử kali có 19 electron nhiều hơn trạng thái bền vững của khí hiếm gần nhất argon 1 electron. Nguyên tử kali trong trường hợp này dễ mất 1 nguyên tử ngoài cùng hơn là kiếm thêm 1 nữa để đạt trang thái bền; tuy nhiên, các ion K– cũng được biết đến. Do mức năng lượng ion hóa thứ nhất thấp (418,8 kJ/mol) nguyên tử kali dễ dàng mất đi 1 electron và oxy hóa thành cation K+. Quá trình này cần rất ít năng lượng để kali dễ dàng bị ôxy hóa bởi ôxy trong khí quyển. Ngược lại, mức năng lượng ion hóa thứ hai rất cao (3052 kJ/mol), do phải loại loại bỏ 2 electron khi phá vỡ trạng thái bền vững của cấu hình khí hiếm. Do đó, kali không sẵn sàng để tạo thành các hợp chất ở trạng thái ôxy hóa +2 (hoặc cao hơn).
+Kali là kim loại nhẹ thứ 2 sau liti. Nó là chất rắn mềm có điểm nóng chảy thấp và có thể dùng dao để cắt dễ dàng. Vết cắt tương của kali có màu bạc, nhưng ngay lập tức sẽ lu mờ chuyển sang màu xám sau khi tiếp xúc với không khí,  nên nó phải được bảo quản trong dầu mỏ hay dầu lửa. Trong thí nghiệm ngọn lửa, kali và các hợp chất của nó phát ra màu hoa cà với đỉnh bức xạ ở bước sóng 766,5 nm (xem đoạn phim bên dưới).
+
+
+=== Hóa học ===
+Kali phản ứng với ôxy trong không khí tạo thành kali perôxít và phản ứng với nước tạo thành kali hyđroxít. Phản ứng của kali với nước rất nguy hiểm vì tính mãnh liệt của nó vào tạo ra khí hidro. Khí hidro tiếp tục phản ứng với ôxy trong khí quyển tạo thành nước, lượng nước này lại tiếp tục phản ứng với kali dư. Phản ứng này chỉ cần sự có mặt của một ít nước; vì vậy kali và hợp kim lỏng của nó với natri là NaK là những chất hút ẩm mạnh có thể được dùng để làm khô các dung môi trước khi đưa vào chưng cất.
+Do tính nhạy cảm của kali với nước và không khí, các phản ứng chỉ có thể xảy ra trong khí quyển trơ như khí argon dùng công nghệ chân không. Kali không phản ứng với hầu hết hydrocarbon như dầu khoáng hoặc kerosene. Nó dễ hòa tan trong ammoniac lỏng với nồng độ lên đến 480 ppm ở 0 °C. Tùy theo nồng độ, các dung dịch ammoniac sẽ có màu xanh dương đến vàng, và độ dẫn điện của chúng tương tự như độ dẫn điện của kim loại lỏng. Ở dạng dung dịch tinh khiết, kali phản ứng chậm với ammoniac tạo thành KNH2, nhưng phản ứng này được tăng tốc khi thêm một lượng nhỏ muối của các kim loại chuyển tiếp. Nó có thể khử các muối thành kim loại; kali thường được dùng làm chất khử trong việc pha chế các kim loại được mịn từ các muối của chúng bằng phương pháp Rieke. Ví dụ, dùng kali làm chất khử để điều chế magiê bằng phương pháp Rieke từ magiê clorua:
+MgCl2 + 2 K → Mg + 2 KCl
+
+
+=== Hợp chất ===
+Kali chỉ có một trạng thái ôxy hóa phổ biến là +1. Kim loại kali là chất phản ứng mạnh do nó dễ dàng bị ôxy hóa tạo ra cation K+. Khi bị ôxy hóa nó rất bền và khó bị khử trở lại thành kim loại.
+Kali hydroxit dễ dàng phản ứng với cacbon đi ô xít tạo ra kali cacbonat, và được dùng để loại các tạo chất khí trong không khí. Nhìn chung, các hợp chất kali hòa tan trong nước rất tốt, do năng lượng hydrat hóa của ion K+ cao. Ion kali không màu khi tan trong nước và rất khó kết tủa; nó có thể kết tủa với natri tetraphenylborat, axít hexachloroplatinic, và natri cobaltinitrit.
+Kali ôxy hóa nhanh hơn hầu hết các kim loại và tạo thành các ôxít với các liên kết ôxy-ôxy, cũng giống như các kim loại kiềm khác trừ liti. Có 3 loại ôxít được hình thành trong phản ứng này gồm kali ôxít, kali perôxít, và kali superôxít, gồm 3 kiểu ion gốc ôxy khác nhau: ôxít (O2−), perôxít (O2−2), và superôxít (O−2). Hai hợp chất sau, đặc biệt là superôxít thì hiếm gặp và chỉ được tạo ra trong phản ứng với các kim loại có tính dương điện cao; các hợp chất này chứa các liên kết ôxy-ôxy. Tất cả các hợp chất kali hai phân tử đã được biết đến phản ứng rất mãnh liệt với nước tạo thành kali hyđrôxít, đây là hợp chất có tính kiềm rất mạnh và 1,21 kg chất kiềm này có thể hòa tan trong khoảng 1 lít nước.
+
+
+==== Trong dung môi nước ====
+các hợp chất kali phân li mạnh và hầu hết chúng có thể hòa tan trong nước. Các dạng chính tồn tại trong nước là các hợp chất phức [K(H2O)n]+ với n = 6 và 7. Một ít muối của nó hòa tan kém trong nước như kali tetraphenylborat, kali hexachloroplatinat, và kali cobaltinitrit.
+
+
+=== Đồng vị ===
+Có 24 đồng vị của kali đã được biết, trong đó có 3 đồng vị có trong tự nhiên: K39 (93,3%), K40 (0,01%) và K41 (6,7%). Đồng vị tự nhiên K40 có chu kỳ bán rã 1,250×109 năm và phân rã thành Ar40 (11,2%) bằng cách bắt điện tử và bằng bức xạ positron, cũng như phân rã thành đồng vị ổn định Ca40 (88,8%) bằng bức xạ beta.
+Sự phân rã của K40 thành Ar40 thông thường được sử dụng làm phương pháp đánh giá tuổi các loại đá. Phương pháp đánh giá tuổi bằng tỷ lệ K/Ar phụ thuộc vào giả thiết rằng các loại đá không chứa agon ở thời điểm tạo ra nó và mọi agon do phóng xạ sinh ra sau đó (Ar40) về mặt lượng là được bảo toàn, tức là một hệ thống kín. Các khoáng chất được xác định tuổi bằng cách đo mật độ của kali cũng như lượng Ar40 do phóng xạ sinh ra đã được tích lũy. Các khoáng chất phù hợp để xác định tuổi là biôtit, muscôvit, và plutonit/hocblen biến chất, cũng như fenspat núi lửa; toàn bộ các mẫu đá từ nham thạch núi lửa và đá xâm nhập nông có thể được xác định tuổi nếu chúng chưa bị thay thế. Ngoài ra, các đồng vị kali còn được sử dụng như là chất đánh dấu vết trong nghiên cứu thời tiết. Chúng cũng được sử dụng trong các nghiên cứu về chu trình vận chuyển các chất dinh dưỡng vì kali là chất dinh dưỡng đa lượng cần thiết cho sự sống.
+K40 có trong kali tự nhiên (và vì thế có trong các sản phẩm muối thương mại) trong một lượng vừa đủ đến mức một túi lớn của các chất này có thể sử dụng như nguồn phóng xạ cho các minh họa trong lớp học. Ở người và động vật khỏe mạnh, 40K là một nguồn phóng xạ lớn nhất thậm chí còn hơn cả 14C. Trong cơ thể một người nặng 70 kg có khoảng 4.400 hạt nhân 40K phân rã mỗi giây. Mức độ phân rã của kali tự nhiên là 31 Bq/g.
+
+
+=== Sự phổ biến ===
+
+Kali được hình thành trong vũ trụ từ quá trình tổng hợp hạt nhân từ các nguyên tử nhẹ hơn. Dạng bền của kali được tạo ra trong các vụ nổ siêu tân tinh bằng quá trình đốt cháy ôxy. Kim loại kali không tồn tại trong tự nhiên do độ hoạt động mạnh của nó với nước. Ở dạng hợp chất, nguyên tố này chiếm khoảng 2,4% trọng lượng lớp vỏ Trái Đất và là nguyên tố phổ biến thứ bảy trong lớp này, tương đương với natri là 1,8%.. Trong nước biển, nồng độ của kali là 0,39 g/L rất thấp so với natri là 10,8 g/L.
+Orthoclase (feldspar kali) là một khoáng vật tạo đá phổ biến. Ví dụ như trong đá granit chứa 5% kali, hàm lượng này cao hơn hàm lượng trung bình của kali trong vỏ Trái Đất. Sylvit (KCl), carnallit (KCl·MgCl2·6(H2O)), kainit (MgSO4·KCl·3H2O) và langbeinite (MgSO4·K2SO4)) là các khoáng vật được tìm thấy ở dạng các đá bay hơi của các hồ và nền biển cổ trên khắp thế giới. Các mỏ này thường có sự phân lớp bắt đầu với lớp ít hòa tan nằm dưới đáy và lớp hòa tan nhất nằm ở trên mặt. Các mỏ dạng trứng (kali nitrat) được hình thành từ sự phân rã các khoáng vật hữu cơ trong đới tiếp xúc với khí quyển, hầu hết là trong các hang động; do khả năng hòa tan cao trong nước của chất này nên việc hình thành các mỏ lớn cầu có các điều kiện môi trường đặc biệt.
+
+
+== Lịch sử ==
+Không phải các muối kali hay natri (as separate entities from other salts) đã từng được biết đến trong thời kỳ La Mã, và tên gọi Latin của nguyên tố này không phải gốc Latin cổ điển mà là Tân Latin. Tên Latin kalium được chọn từ từ "alkali" đã được chuyển tự từ tiếng Ả Rập: القَلْيَه al-qalyah nghĩa là "tro thực vật". Thuật ngữ alkali phát âm tương tự trong tiếng Anh cũng có cùng gốc này (potassium trong tiếng Ả Rập chuẩn hiện đại là بوتاسيوم būtāsyūm).
+
+Tên tiếng Anh của nguyên tố này là potassium bắt nguồn từ từ "potash", đề cập đến một phương pháp mà theo đó potash thu được bằng cách lọc sạch tro gỗ hoặc lá cây và làm bay hơi dung dịch trong một cái nồi. Potash về bản chất là một hỗn hợp muối kali do thực vật có chứa một ít hoặc không có hàm lượng natri, và phần còn lại của khoáng chất trong thực vật bao gồm các muối canxi có tính hòa tan tương đối thấp. Trong khi kali đã từng được sử dụng từ thời kỳ cổ đại, nhưng nó không được biết đến trong suốt bề dày lịch sử là một chất khác biệt về cơ bản với các muối natri. Georg Ernst Stahl đã thu được bằng chứng thực nghiệm cho phép ông kết luận sự khác biệt của các muốn natri và kali vào năm 1702, và Henri Louis Duhamel du Monceau đã có thể chứng minh sự khác biệt này vào năm 1736. Thành phần hóa học chính xác của các hợp chất natri và kali, và trạng thái nguyên tố natri và kali đã không được biết đến, và do đó Antoine Lavoisier đã không xếp alkali vào trong danh sách các nguyên tố hóa học của ông năm 1789.
+Kim loại kali đã được Sir Humphry Davy phát hiện năm 1807, ông tách nó ra từ bồ tạt ăn da (KOH). Kim loại kiềm này là kim loại đầu tiên được điều chế bằng điện phân muối nóng chảy với một pin Volta được phát hiện mới nhất. Kali là kim loại đầu tiên được điều chế bằng phương pháp điện phân. Cùng năm đó, Davy đã thông báo về việc tách natri kim loại từ một dẫn suất khoáng vật (Natri hiđroxit, NaOH, hay lye) chứ không phải muối thực vật cũng bằng kỹ thuật tương tự, và ông đã minh họa rằng các nguyên tố tách ra từ các muối này là khác nhau. Mặc dù việc sản xuất kim loại kali và natri đã cho thấy rằng chúng là các nguyên tố nhưng phải mất một khoảng thời gian trước khi đề xuất này được công nhận rộng rãi.
+Trong một thời gian dài các ứng dụng potash chỉ dùng trong việc sản xuất thủy tinh, thuốc tẩy và xà phòng. Xà phòng kali từ mỡ động vật và dầu thực vật có giá rất cao, do chúng có khuynh hướng hòa tan nhiều hơn trong nước và mềm hơn, nên được gọi là xà phòng mềm. Phát hiện của Justus Liebig năm 1840 cho thấy rằng kali là nguyên tố cần thiết cho thực vật và hầu hết loại đất đều thiếu kali đã làm gia tăng nhu cầu các muối kali. Tro gỗ từ các loại cây linh sam ban đầu được sử dụng như một nguồn cung cấp muối kali ở dạng phân bón, nhưng với việc phát hiện năm 1868 về các mỏ chứa kali clorua gần Staßfurt, Đức thì sản lượng phân bón kali bắt đầu được sản xuất ở quy mô công nghiệp. Các mỏ potash khác dần được phát hiện, và vào thập niên 1960 Canada trở thành nước sản xuất nguồn kali chính trên thị trường quốc tế.
+
+
+== Sản xuất thương mại ==
+
+Các muối kali như carnallit, langbeinit, polyhalit, và sylvit tạo nên các mỏ lớn trong các hồ và đáy biển cổ, làm cho việc khai thác các muối kali trong các môi trường này là khả thi về mặt thương mại. Nguồn chủ yếu của kali được khai thác ở Canada, Nga, Belarus, Đức, Israel, Hoa Kỳ, Jordan và nhiều nơi khác nữa trên thế giới. Mỏ đầu tiên được khai thác nằm gần Staßfurt, Đức, nhưng dãi phân bố mỏ này kéo dài từ Đại Anh qua Đức và đến tận Ba Lan. Chúng nằm trong tầng Zechstein và tích tụ vào kỷ Permi giữa đến muộn. Mỏ lớn nhất từng được phát hiện ở độ sâu khoảng hơn 900 mét dưới bề mặt của Saskatchewan, Canada. Các mỏ này nằm trong Loạt Elk Point hình thành vào Devon giữa. Saskatchewan, nơi có nhiều mỏ lớn được khai thác từ thập niên 1960, đã đi tiên phong trong việc sử dụng phương pháp đóng băng cát ước (hệ tầng Blairmore) để khai thác dạng trục trong chúng (in order to drive mine shafts through them). Nước trong Biển Chết được Israel và Jordan dùng để sản xuất kali, trong khi nồng độ trong các đại dương thông thường quá thấp để có thể sản xuất thương mại với giá hiện thời.
+Nhiều phương pháp được sử dụng để tách các muối kali ra khỏi các hợp chất có mặt magiê và natri. Phương pháp được sử dụng nhiều nhất là kết tủa một số hợp chất dựa vào khải năng hòa tan khác nhau của các muối ở những nhiệt độ khác nhau. Tách tĩnh điện của hỗ hợp các muối dưới lòng đất cũng được sử dụng trong một số mỏ. Các chất thải magiê và natri tách ra hoặc được chứa dưới lòng đất hoặc chất thành các đống xỉ. Hầu hết các khoáng sản kali được khai thác qua quá trình xử lý sẽ cho ra sản phẩm cuối cùng là kali clorua. Ngành công nghiệp khoáng chú trọng đến kali clorua hoặc ở dạng potash, hoặc MOP đơn giản.
+Kim loại kali nguyên chất có thể được điều chế bằng phương pháp điện phân các hydroxit của nó theo quy trình đã được Davy điều chỉnh một chút. Mặc dù quá trình điện phân đã được phát triển và sử dụng ở quy mô công nghiệp trong thập niên 1920, phương pháp nhiệt bằng cách phản ứng của natri với kali clorua trong một phản ứng cân bằng hóa học trở thành phương pháp chủ yếu trong thập niên 1950. Việc sản xuất các hợp kim kali natri có thể thực hiện được bằng cách thay đổi thời gian phản ứng và lượng natri được sử dụng trong phản ứng. Công nghệ Griesheimer sử dụng phản ứng giữa kali florua với canxi carbua cũng được sử dụng để sản xuất kali.
+Na + KCl → NaCl + K (phương pháp nhiệt)
+2 KF + CaC2 → 2K + CaF2 + 2 C (công nghệ Griesheimer)
+Kim loại kali cấp chất thử (chỉ thị) có giá khoảng 22 USD/kg) năm 2010 khi mua với số lượng lớn (hàng tấn). Việc buôn bán chất này không ổn định do khó khăn trong việc tàng trữ kim loại này. Nó phản được lưu trữ trong điều kiệu không khí chứa toàn khí trơ hoặc dầu khoáng gốc khan để chống việc tạo thành các lớp kali superôxít bọc trên bề mặt của nó. Loại ôxit này là một chất nổ nhạy với áp lực nó sẽ nổ khi bị trầy xước. Khi nổ thường sẽ sinh ra ngọn lửa rất khó dập tắt.
+
+
+== Vai trò sinh học ==
+
+
+=== Chức năng sinh học ===
+
+Kali là nguyên tố phổ biến thứ 8 hoặc 9 theo khối lượng (0,2%) trong cơ thể người, vì vậy một người trưởng thành có cân nặng 60 kg chứa khoảng 120 g kali. Cơ thể người có nhiều kali giống như lưu huỳnh và clo, và chỉ có các khoáng chất chính như canxi và phốt pho là dồi dào nhất.
+Các cation kali có vai trò quan trọng trong các tế bào thần kinh (não và thần kinh), và trong việc ảnh hưởng đến sự cân bằng thẩm thấu giữa các tế bào và dịch kẽ (ngoại bào chất) với sự phân bố của chúng trong tất cả các môi trường trung gian ở tất cả động vật (không phải ở tất cả thực vật) bằng cách bơm được gọi là Na+/K+-ATPase. Sự bơm ion này sử dụng ATP để bơm 3 ion natri ra khỏi tế bào và 2 ion kali vào bên trong tế bào, do vậy nó tạo ra một gradient hóa điện trên tất cả màng tế bào. Ngoài ra, các kên ion kali có tính chọn lọc vao có vai trò quan trọng trong sự phân cực, ví dụ trong các nơron, after an action potential is fired. Kên ion kali đã được giải quyết gần đây nhất là KirBac3.1, đưa ra tổng cộng 5 kênh ion kali (KcsA, KirBac1.1, KirBac3.1, KvAP, và MthK) có cấu trúc xác định. Tất cả 5 kênh đều từ các loài sinh vật nhân sơ.
+Kali có thể nhận dạng được thông qua vị của nó do nó tác động vào 3 trong số 5 loại của vị giác nhưng tùy thuộc vào nồng độ. Các ion kali trong dung dịch loãng có vị ngọt, cho phép có nồng độ trung bình trong sữa và nước ép trái cây, trong khi nồng độ cao hơn sẽ làm tăng vị đắng do tính kiềm, và cuối cùng là vị mặn. Sự kết hợp của vị đắng và mặn trong các dung dịch có nhiều kali bổ sung trong các đồ uống làm cho chúng có vị ngon là một thách thức.
+
+
+=== Màng phân cực ===
+Kali cũng có vai trò quan trọng trong chống co cơ và việc gởi tất cả các xung động thần kinh ở động vật qua các tiềm năng hành động (Action potential). Do bản chất của tính điện và hóa của chúng, các ion K+ lớn hơn các ion Na+, và các kênh và các bơm ion trong các màng tế bào có thể phân biệt giữa hai loại ion này, bơm chủ động hay cho phép đi qua thụ động một trong hai ion đồng thời ngăn cản ion còn lại.
+Sự thiếu hụt kali trong các dung dịch trong cơ thể có thể gây ra các tình trạng có thể tử vong như thiếu kali máu, đặc biệt gây nôn mửa, tiêu chảy, và/hoặc tăng bài tiết niệu đạo. Các triệu chứng thiếu hụt kali gồm yếu cơ, liệt ruột, bất thường ECG (điệm tâm đồ), giảm phản xạ và trong các trường hợp nghiêm trọng có thể gây liệt hô hấp, alkalosis và loạn nhip tim.
+
+
+=== Lọc và bài tiết ===
+Kali là một khoáng chất thiết yếu trong cơ thể con người; nó là cation chính bên trong các tế bào động vật, và do đó nó co vai trò quan trọng trong việc duy trì chất dịch và cân bằng điện giải trong cơ thể. Natri cấu thành nên hầu hết các cation trong plasma máu ở dãy tham chiếu vào khoảng 145 mmol/L (3,345 g)(1 mmol/L = 1mEq/L), và kali cấu thành nên hầu hết các cation dung dịch tế bào với mức khoảng 150 mmol/L (4,8 g). Plasma được lọc qua cầu thận của các quả thận mơi một lượng lớn với khoảng 180 lit/ngày. Do vậy mỗi ngày có 602 g natri và 33 g kali được lọc. Chỉ có 1–10 g natri và 1–4 g kali có thể có trong thức ăn phải được tái hấp thu. Natri phải được tái hấp thu theo cách giữ một lượng máu chính xác và áp suất thẩm thấu đúng; kali phải được tái hấp thu theo cách nào đó để giữ cho nồng độ huyết thanh càng gần với 4,8 mmol/L (khoảng 0,190 g/L) càng có thể. Các bơm natri trong thận phải luôn hoạt động để bảo tồn natri. Kali đôi khi cũng phải được bảo tồn, nhưng khi lượng kali trong plasma máu rất nhỏ và hồ kali trong các tế bào lớn khoảng 30 lần, tình hình không phải là quá nghiêm trọng đối với kali. Vì kali được di chuyển một cách thụ động ngược chiều với natri để đạt cân bằng Donnan (không thực tế), nước tiểu có thể không bao giờ chìm dưới nồng độ của kali trong huyết thanh trừ khi thỉnh thoảng có việc tiết nước chủ động vào giai đoạn cuối của quá trình. Kali được tiết ra hai lần và tái hấp thụ 3 lần trước khi nước tiểu đi đến các ống thu gom. Ở điểm đó, nó thường xuyên có nồng độ kali như plasma. Cuối quá trình, kali được tiết ra một lần nữa nếu nồng độ huyết thanh quá cao.
+Nếu kali bị loại bỏ từ thức ăn, vẫn có sự đào thải từ thận với khoảng 200 mg ngày khi huyết thanh giảm 3,0–3,5 mmol/L trong khoảng 1 tuần, và có thể không bao giờ bị cắt giảm hoàn toàn, gây ra hạ kali máu và thậm chí là tử vong.
+Kali di chuyển một cách thụ động qua các lỗ rỗng của màng tế bào. Khi các ion di chuyển qua các bơm, có một cổng trong các bơm ở mỗi mặt của màng tế bào và chỉ có một cổng có thể mở vào một thời điểm. Kết quả là có khoảng 100 ion bị đẩy qua trong 1 giây. Các lỗ rỗng chỉ có 1 cổng, và chỉ có một loại ion có thể đi qua với số lượng 10 triệu đến 100 triệu ion mỗi giây. Các lỗ rỗng cần cãni để mở ra mặc dù người ta nghĩ rằng canxi hoạt động ngược lại bằng cách khóa ít nhất một trong số các lỗ rỗng. Các nhóm carbonyl bên trong lỗ rỗng trên các axit amin bắt chước hydrat hóa nước diễn ra trong dung môi nước bởi bbản chất tích điện tĩnh điện trên 4 nhóm carbonyl bên trong lỗ rỗng.
+
+
+=== Trong khẩu phần ăn ===
+
+
+==== Cung cấp vừa đủ ====
+Cung cấp vừa đủ lượng kali để hỗ trợ sự sống có thể qua việc ăn nhiều loại thực phẩm. Những trường hợp thiếu kali rõ ràng (như các triệu chứng, dấu hiện và hàm lượng nguyên tố trong máu thấp hơn bình thường) thì hiếm gặp ở những cá thể khỏe mạnh. Các loài thực phẩm giàu kali như rau mùi tây, mơ khô, sữa khô, sô cô la, nhiều loại hạt (đặc biệt là hạnh nhân và hồ trăn), khoai tây, măng, chuối, bơ, đậu nành, và cám, mặc dù nó cũng có với một lượng vừa đủ trong hầu hết trái cây, rau, thịt và cá.
+
+
+==== Cung cấp tối đa ====
+Các nghiên cứu dịch tễ học và các nghiên cứcu ở động vật về bệnh cao huyết áp chỉ ra rằng khẩu phần ăn có nhiều kali có thể giảm nguy cơ cao huyết áp và đột quỵ (theo một cơ chế độc lập về huyết áp), và việc thiếu hụt kali kết hợp với không cung cấp đủ thiamin đã tạo ra bệnh tim ở chuột. Có một vài tranh cãi liên quan đến lượng cung cấp kali tối đa trong khẩu phần ăn. Ví dụ, các hướng dẫn năm 2004 của Viện Y học Hoa Kỳ (Institute of Medicine) chỉ ra rằng DRI (Dietary reference intake) 4.000 mg kali (100 mEq), mặc dù hầu hết người Mỹ tiêu thụ chỉ phân nửa lượng trên mỗi ngày, điều này có thể làm cho họ thiếu kali liên quan đến hướng dẫn trên. Tương tự như thế, ở các nước EU đặc biệt là ở Đức và Ý, kali cung cấp không đủ là khác phổ biến. Các nhà nghiên cứu người Ý, trong một báo cáo năm 2011 khi phân tích rằng khi cung cấp một lượng kali cao hơn 1,64 g mỗi ngày có sự liên hệ với việc giảm 21% nguy cơ đột quỵ.
+
+
+==== Dược phẩm và bệnh tật ====
+Bổ sung kali ở dạng dược phẩm được sử dụng phổ biến nhất trong việc kết hợp với loop diuretic và thiazide, các phân loại lợi tiểu giúp tống ra khõi cơ thể natri và nước, nhưng tác dụng phụ cũng gây ra mất kali trong nước tiểu. Nhiều cách bổ sung ở dạng dược phẩm và không phải dược phẩm cũng có mặt. Các muối kali như kali clorua có thể cho hòa tan vào nước, nhưng vị đắng/mặn của các dung dịch có hàm lượng ion kalicao làm cho có cảm giác ngon miệng do việc bổ sung chất lỏng có nồng độ cao khó mà tạo ra được. Những liều bổ sung dạng thuốc đặc biệt dao động từ 10 mmol (400 mg, bằng khoảng 1 cốc sữa hoặc một cốc cam ép 180ml) đến 20 mmol (800 mg) một liều. Các muối kali cũng có ở dạng viên nén hoặc viên nang, dùng cho mục đích điều trị cho phép kali thoát một cách chậm chạp ra khỏi viên thuốc, vì hàm lượng các ion kali rất cao có thể giết chết các mô, và làm tổn thương đến niên mạc dạ dày hoặc niêm mạc ruột. Vì lý do này, các viên thuốc bổ sung kali không kê theo toa bị giới hạn đến 99 mg kali theo luật của Hoa Kỳ.
+
+
+== Ứng dụng ==
+
+
+=== Phân bón ===
+
+Các ion kali là thành phần thiết yếu trong dinh dưỡng thực vật và được tìm thấy trong hầu hết các loại đất. Chúng được dùng làm phân bón cho nông nghiệp, trồng trọt và hydroponic ở dạng kali clorua (KCl), kali sulfat (K2SO4), hoăc nitrat (KNO3). Phân bón nông nghiệp tiêu thụ 95% các sản phẩm hóa của kali trên toàn cầu, và khoảng 90% kali được cung cấp ở dạng KCl. Thành phần kali trong hầu hết thực vật dao động từ 0,5% đến 2% khối lượng các vụ mùa, thường ở dạng K2O. Các vụ mùa năng suất cao phụ thuộc vào lượng phân bón để bổ sung cho lượng kali mất đi do thực vật hấp thu. Hầu hết phân bón chứa kali clorua, trong khi kali sulfat được dùng cho các vụ mùa nhạy cảm với clorua hoặc vụ mùa cần lượng lưu huỳnh cao hơn. Kali sulfat được tạo ra chủ yếu bằng sự phân giải các khoáng phức của kainit (MgSO4·KCl·3H2O) và langbeinit (MgSO4·K2SO4). Chỉ có rất ít phân bón chứa kali nitrat. Trong năm 2005, khoảng 93% sản lượng kali trên thế giới đã được tiêu thụ bởi các ngành công nghiệp phân bón.
+
+
+=== Thực phẩm ===
+Cation kali là dưỡng chất thiết yếu cho con người và sức khỏe. Kali clorua được dùng thay thế cho muối ăn nhằm giảm lượng cung cấp natri để kiểm soát bệnh cao huyết áp. USDA liệt kê bộ cà chua, nước cam, củ cải đường, đậu trắng, cà chua, chuối và nhiều nguồn thức ăn khác cung cấp kali được xếp theo mức độ giảm dầm hàm lượng kali.
+Kali natri tartrate (KNaC4H4O6, Rochelle salt) là một thành phần chính của bột nở; nó cũng được sử dụng trong các gương mạ bạc. Kali bromat (KBrO3) là một chất ôxy hóa mạnh (E924), được dùng để tăng độ dẻo và độ nở cao của bột bánh mì. Kali bisulfit (KHSO3) được dùng làm chất bảo quản thực phẩm, như trong rượu vang và bia (nhưng không có trong thịt). Nó cũng được sử dụng để tẩy trong dệt-nhuộm và thuộc da.
+
+
+=== Công nghiệp ===
+Các chất hóa học kali chính là kali hydroxit, kali cacbonat, kali sulfat, và kali clorua. Hàng triệu tấn các hợp chất này được sản xuất mỗi năm.
+Kali hydroxit KOH là một ba-zơ mạnh, được dùng ở mức độ công nghiệp để trung hòa các a-xít mạnh và yếu, để khống chế pH và để sản xuất các muối kali. Nó cũng được dùng để làm bánh xà phòng từ mỡ và dầu trong công nghiệp tẩy rửa và trong các phản ứng thủy phân như các este.
+Kali nitrat (KNO3) được lấy từ các nguồn tự nhiên như guano và evaporit hoặc được sản xuất từ công nghệ Haber; nó là một chất ôxy hóa trong thuốc súng (thuốc súng đen) và là một loại phân bón quan trọng. Kali cyanua (KCN) được dùng trong công nghiệp để hòa tan đồng và các kim loại quý, đặc biệt là bạc và vàng, bằng cách tạo ra ở dạng phức chất. Những ứng dụng của nó gồm khai thác vàng, mạ điện, và đúc điện (electroforming) của các kim loại này; nó cũng được dùng trong tổng hợp hữu cơ để tạo ra nitriles. Kali cacbonat (K2CO3 hay potash) được dùng trong sản xuất thủy tinh, xà phòng, ống phóng màn hình màu, đèn huỳnh quan, dệt nhuộm và chất tạo màu. Kali permanganat (KMnO4) là một chất ôxi hóa, có tính tẩy mạnh và được sử dụng trong sản xuất saccharin. Kali clorat (KClO3) được cho vào vật liệu nổ. Kali bromua (KBr) đước đây được sử dụng làm thuốc an thầnh và trong nhiếp ảnh.
+Kali cromat (K2CrO4) được dùng trong mục, nhuộm, chất tạo màu (màu vàng đỏ sáng);trong chất nổ và pháo hoa; trong thuộc da, trong fly paper và diêm an toàn, ất cả các ứng dụng trên do tính chất của ion cromat hơn là các ion kali.
+
+
+==== Ứng dụng thích hợp khác ====
+Các hợp chất kali quá phổ biến đến nổi có hàng ngàn ứng dụng nhỏ tại chỗ. superoxit KO2 là chất rắn màu cam là nguồn cung cấp ôxy tiện lợi và là chất hấp thụ cacbon dioxit. Nó được sử dụng rộng rãi trong hệ thống thông khí mỏ, các tàu ngầm và tàu không gian do nó chứa ít thể tích hơn ôxy khí.
+4 KO2 + 2 CO2 → 2 K2CO3 + 3 O2
+Kali cobaltinitrit K3[Co(NO2)6] được dùng làm chất tạo màu của các họa sĩ với tên gọi Aureolin hay Coban vàng.
+
+
+==== Trong phòng thí nghiệm ====
+Hợp kim của natri và kali, NaK ở dạng chất lỏng được dùng làm chất trung gian truyền nhiệt và làm chất hút ẩm để tạo ra một môi trường không khí khô. Nó có thể được sử dụng trong phản ứng chưng cất. Hợp kim gồm 12% Na, 47% K và 41% Cs có độ nóng chảy −78 °C, thấp nhất trong bất kỳ hợp chất kim loại nào khác.
+Kali kim loại được dùng ở nhiều dạng khác nhau trong từ kế.
+
+
+== Cảnh báo ==
+
+Kali nguyên chất phản ứng mãnh liệt với nước và hơi ẩm. Do vậy, nó cần được bảo quản trong dầu khoáng hay dầu lửa và cần phải hết sức thận trọng khi làm việc với nó.
+2 K (s) + 2 H2O (l) → 2 KOH (aq) + H2↑ (g)
+Phản ứng này rất mảnh liệt và giải phóng ra một lượng nhiệt đủ để đốt cháy hydro được tạo ra. Nó có thể chuyển sang nổ nếu có mặt ôxy. Kali hydroxit là một chất kiềm mạnh có thể gây bỏng da. Bột kali mịn sẽ cháy trong không khí ở nhiệt độ phòng. Kim loại dạng khối sẽ cháy trong không khí nếu được nung nóng. Do nó có tỷ trọng 0,89 g/cm3, nên đối kali nổi trên nước làm cho nó tiếp xúc với ôxy trong khí quyển. Nhiều chất chữa cháy phổ biến, bao gồm cả nước, cũng không có tác dụng hoặc làm đám cháy kali trở nên dữ dội hơn. Nitơ, argon, natri clorua (muối ăn), natri cacbonat (tro sô-da), và silic điôxít (cát) có thể dập cháy nếu chúng khô (không chứa nước). Mộ số chất chữa cháy dạng bột khô nhóm D được thiết kế riên cho chữa cháy kim loại cũng hiệu quả. Các chất này lấy đi ôxy của đám cháy và làm lạnh kim loại kali.
+Kali phản ứng mãnh liệt với các halogen và sẽ phát nổ nếu có mặt brôm. Nó cũng phản ứng nổ với axít sulfuric. Việc đốt kali sẽ tạo ra perôxit và superôxít. Các peroxit này có thể phản ứng một cách mãnh liệt với các hợp chất hữu cơ như các loại dầu. Cả per-ô-xít va super-ô-xít có thể phản ứng nổ với kali kim loại.
+Do kali phản ứng với hơi nước trong không khí nên nó thường được bảo quản trong các loại dầu khoán anhydrous hoặc kerosen. Không giống liti và natri, tuy nhiên kali không thể bảo quản trong dầu lâu hơn 6 tháng trừ khi trong môi trường không khí trở (không có ôxy) hoặc môi trường chân không. Sau thời gian cất giữ lâu dài trong không khí các peroxit nhạy với sốc có thể hình thành trên kim loại và dưới nắp của thùng chứa, và có thể nổ khi mở nắp.
+Do tính chất hoạt động cao của kim loại kali, nó phải được vận chuyển một cách cực kỳ cẩn thận, phải có bảo vệ toàn bộ da và mắt và có bộ phận chống nổ cách li giữa người và kim loại. Uống một lượng lớn các hợp chất kali có thể dẫn đến chứng tăng kali máu làm ảnh hưởng mạnh đến hệ tim mạch. Kali clorua được dùng ở Hoa Kỳ cho việc hành quyết bằng cách tiêm.
+
+
+== Tham khảo ==
+
+
+== Danh mục tài liệu ==
+Burkhardt, Elizabeth R. và đồng nghiệp (2006). “Potassium and Potassium Alloys”. Ullmann's Encyclopedia of Industrial Chemistry A22. tr. 31–38. doi:10.1002/14356007.a22_031.pub2. ISBN 3-527-30673-0.  Bảo trì CS1: Định rõ "và đồng nghiệp" (link)
+Greenwood, Norman N (1997). Chemistry of the Elements (ấn bản 2). Oxford: Butterworth-Heinemann. ISBN 0-08-037941-9. 
+Holleman, Arnold F.; Wiberg, Egon; Wiberg, Nils (1985). “Potassium”. Lehrbuch der Anorganischen Chemie (bằng tiếng Đức) . Walter de Gruyter. ISBN 3-11-007511-3. 
+Schultz, H. và đồng nghiệp (2006). “Potassium compounds”. Ullmann's Encyclopedia of Industrial Chemistry A22. tr. 39–103. doi:10.1002/14356007.a22_031.pub2. ISBN 3-527-30673-0.  Bảo trì CS1: Định rõ "và đồng nghiệp" (link)
+National Nutrient Database trên Bộ Nông nghiệp Hoa Kỳ
+
+
+== Liên kết ngoài ==
+(tiếng Việt)
+Kali tại Từ điển bách khoa Việt Nam
+(tiếng Anh)
+Potassium (K) tại Encyclopædia Britannica (tiếng Anh)
+Potassium: the essentials - WebElements.com
+EnvironmentalChemistry.com – Potassium
+Potassium- Los Alamos National Laboratory
+Potassium trong The Periodic Table of Videos (Đại học Nottingham)

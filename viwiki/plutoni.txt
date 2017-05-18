@@ -1,0 +1,402 @@
+Plutoni là một nguyên tố hóa học hiếm, có tính phóng xạ cao với ký hiệu hóa học Pu và số nguyên tử 94. Nó là một kim loại thuộc nhóm actini với bề ngoài màu trắng bạc và bị xỉn khi tiếp xúc với không khí, tạo thành một lớp phủ mờ khi bị ôxi hóa. Nguyên tố này thông thường biểu hiện (exhibit) 6 dạng thù hình (allotrope) và bốn trạng thái ôxi hóa. Nó phản ứng với cácbon, halogen, nitơ và silicon. Khi tiếp xúc với không khí ẩm, nó tạo thành các ôxít và hiđrua làm thể tích các mẫu giãn nở lên đến 70%, hay nói cách khác là nó bong ra thành dạng bột có thể tự bốc cháy. Nó cũng là một chất độc phóng xạ mà tích tụ trong tủy xương. Những đặc tính này và các tính chất khác khiến cho việc việc xử lý plutoni nguy hiểm.
+Plutoni là nguyên tố nguyên thủy nặng nhất, đồng vị bền nhất của nó là plutoni-244 có chu kỳ bán rã khoảng 80 triệu năm đủ lâu để nguyên tố này có thể được tìm thấy ở dạng vết trong tự nhiên. Nhưng plutoni là sản phẩm phụ thường xuyên có mặt khi nguyên tử urani bị tách làm đôi trong lò phản ứng hạt nhân. Một số hạt hạ nguyên tử được tăng tốc trong quá trình phân hạch biến đổi urani thành plutoni.
+Đồng vị quan trọng nhất của plutoni là plutoni-239, với chu kỳ bán rã 24.100 năm. Plutoni-239 là đồng vị có ích nhất trong các vũ khí hạt nhân. Plutoni-239 và plutoni-241 có khả năng phân hạch, có nghĩa là các nguyên tử của nó có thể tách ra bằng cách bắn phá bởi neutron nhiệt chuyển động chậm giải phóng năng lượng, tia gamma và nhiều neutron hơn. Các neutron này sau đó có thể duy trì phản ứng hạt nhân dây chuyền, được ứng dụng trong các vũ khí hạt nhân và lò phản ứng hạt nhân.
+Plutoni-238 có chu kỳ bán rã 88 năm và phát ra các hạt anpha. Nó là một nguồn cung cấp nhiệt trong các máy phát điện hạt nhân, một loại động cơ cung cấp điện cho tàu không gian. Plutoni-240 có tỷ lệ phân hạch tự phát cao, làm tăng thông lượng neutron của bất kỳ mẫu nào. Sự có mặt của plutoni-249 hạn chế khả năng sử dụng của các mẫu trong vũ khí hạt nhân hoặc nhiên liệu hạt nhân, và xác định cấp của nó. Các đồng vị của plutoni đắt và khó tách, vì thế các đồng vị riên biệt thường được sản xuất trong các lò phản ứng chuyên dụng.
+Plutoni được một nhóm nghiên cứu đứng đầu là Glenn T. Seaborg và Edwin McMillan tổng hợp đầu tiên năm 1940 tại Đại học California, Berkeley bằng cách bắn phá urani-238 bởi hạt nhân deuteron. McMillan đặt tên nguyên tố mới theo tên Pluto (Sao Diêm Vương), và Seaborg đề nghị ký hiệu nó là Pu. Sau đó, một lượng nhỏ plutoni ở dạng vết cũng được phát hiện trong tự nhiên. Việc tạo ra plutoni được sử dụng với lượng lớn lần đầu tiên trong phần chính của dự án Manhattan suốt chiến tranh thế giới thứ 2, để tạo ra bom nguyên tử đầu tiên. Vụ thử hạt nhân đầu tiên, "Trinity" (tháng 7 năm 1945), và bom nguyên tử lần thứ 2 được sử dụng để phá hủy thành phố (Nagasaki, Nhật Bản tháng 8 năm 1945), "Fat Man", cả hai lõi đều dùng plutoni-239. Các nghiên cứu thí nghiệm ảnh hưởng của plutoni đối với con người đã được tiến hành mà không có sự đồng ý trước, và một số tai nạn (criticality accident), gây chết người đã xảy ra trong và sau chiến tranh. Chất thải plutoni từ các nhà máy điện hạt nhân và từ việc giải trừ vũ khí hạt nhân được tạo ra trong suốt thời kỳ chiến tranh lạnh là những mối nguy hiểm cho môi trường. Các nguồn khác của plutoni trong môi trường như bụi phóng xạ từ các vụ thử hạt nhân trên mặt đất (hiện nay đã bị cấm).
+
+
+== Tính chất ==
+
+
+=== Tính chất vật lý ===
+
+Plutoni có màu trắng bạc sáng ban đầu nhìn thì rất giống niken, nhưng nó bị ôxy hóa rất nhanh trong không khí làm chuyển sang màu xám tối, mặc dù đôi khi cũng gặp màu lục xanh oliu và lục vàng. Ở nhiệt độ phòng, plutoni có dạng thu hình α (anpha). Hình dạng cấu trúc phổ biến nhất của nguyên tố này giòn và cứng giống như gang xám trừ khi nó ở dạng hợp kim với các kim loại khác làm cho nó mềm và dễ uốn/dát. Không giống với hầu hết kim loại khác, nó không dẫn nhiệt và dẫn điện tốt. Plutoni có điểm nóng chảy thấp (640 °C) và có điểm sôi cao bất thường (3,327 °C).
+Phát xạ hạt anpha giải phóng hạt nhân heli năng lượng cao là cách phát xạ phổ biến của plutoni. 5 kg lõi của vũ khí hạt nhân đặc trưng chứa khoảng 12,5 × 1024 nguyên tử. Với chu kỳ bán rã 24.100 năm, khoảng 11,5 × 1012 trong số nguyên tử trên phân rã mỗi giây phát ra 5,157 MeV hạt anpha bằng với 9,68 W. Nhiệt sinh ra từ việc bắt giữ các hạt này làm chúng ta có cảm giác ấm khi chạm tay vào.
+Điện trở suất của plutoni ở nhiệt độ phòng là rất cao so với mặt bằng chu của các kim loại, và giá trị này sẽ cao hơn ở nhiệt độ thấp hơn, đó là điều bất thường đối với một kim loại. Xu hướng này tiếp tục khi nhiệt độ giảm xuốn 100 K, dưới mức này điện trở suất giảm nhanh chóng đối với các nguyên chất (chưa bị ôxy hóa). Sau đó điện trở suất bắt đầu tăng theo thời gian ở khoảng 20 K do sự phá hủy bức xạ, với tốc độ được quyết định bởi thành phần đồng vị của mẫu.
+Do tự chiếu xạ, một mẫu plutoni sẽ mỏi diễn ra trong hầu hết cấu trúc tinh thể của nó, tức là sự sắp xếp có thứ tự của các nguyên tử của nó bị phá vở do phóng xạ theo thời gian. Tự chiếu xạ cũng có thể dẫn đến việc tôi làm chống lại một vài hiệu ứgn mỏi khi nhiệt độ tăng trên 100 K.
+Không giống hầu hết các kim loại khác, plutoni tăng tỷ trọng khoảng 2,5% khi nó nóng chảy, nhưng tỷ trọng của kim loại lỏng thì thể hiện sự suy giảm tuyến tính theo nhiệt độ. Gần điểm nóng chảy, plutoni lỏng cũng có độ nhớt và ứng suất mặt rất cao so với các kim loại khác.
+
+
+=== Thù hình ===
+
+Plutoni bình thường có 6 dạng thù hình và một dạng thứ 7 (zeta, ζ) ở nhiệt độ trong dãi áp suất giới hạn. Các dạng thù hình khác nhau về hình dạng sắp xếp của nguyên tố có điểm rất giống nhau là nội năng nhưng có tỉ trọng và cấu trúc tinh thể thay đổi đáng kể. Điều này làm cho plutoni rất nhạy cảm với những thay đổi về nhiệt độ, áp suất hoặc và điều đó làm cho thể tích thay đổi đặc trưng sau khi chuyển pha từ dạng thù hình này sang sang khác. Tỷ trọng của các thù hình khác nhau thay đổi từ 16,00 g/cm3 đến 19,86 g/cm3.
+Việc tồn tại các dạng thù hình này làm cho việc gia công plutoni trở nên rất khó, vì nó thay đổi trạng thái một cách dễ dàng. Ví dụ dạng α tồn tại ở nhiệt độ phòng trong plutoni chưa được gia công. Nó có đặc điểm gia công tương tự như gang nhưng biến đổi thành dạng β có tính dẻo và dễ uốn ở nhiệt độ cao hơn một chút. Các nguyên nhân dẫn đến sự phức tạp về các pha thì chưa được hiểu một cách toàn vẹn. Dạng α có cấu trúc tinh thể đơn tà có tính đối xứng thấp, có tính giòn, bền, nén được, và dẫn suất kém.
+Plutoni ở dạng δ thường hình thành ở nhiệt độ từ 310 °C đến 452 °C, nhưng nó ổn định ở nhiệt độ phòng khi ở dạng hợp kim với một lượng nhỏ galli, nhôm, hay cesi, làm tăng khả năng làm việc và làm cho có thể hàn nó được. Dạng delta có các tính chất kim loại đặc trưng hơn, và tương đối bền và dễ uốn như nhôm. Trong vũ khí phân hạch, sóng sóc nổ được dùng để nén lõi plutoni cũng gây ra sự chuyển dạng từ pha delta thông thường sang pha anpha đặc hơn, có ý nghĩa ứng dụng để đạt đến mức siêu tới hạn. Pha ε là dạng thù hình rắn ở nhiệt độ cao nhất, thể hiện tính tự khuếch tán nguyên tử cao bất thường so với các nguyên tố khác.
+
+
+=== Phân hạch hạt nhân ===
+
+Plutoni là một nguyên tố có các electron ngoài cùng thuộc lớp 5f đây là ranh giới chuyển tiếp giữa giới hạn mà các electron của nó có thể có liên kết hoặc không có liên kết với một nguyên tử riêng biệt; nó được xem là một trong số những nguyên tử phức tạp nhất. Đây là kim loại actini có tính phóng xạ, đặc biệt là đồng vị plutoni-239 là một trong 3 đồng vị phân hạch nguyên thủy (hai đồng vị còn lại là urani-233 và urani-235); plutoni-241 cũng có khả năng phân hạch cao. Xét về khả năng phân hạch, một đồng vị hạt nhân nguyên tử phải có khả năng tách đôi khi bị tác động bởi neutron chuyển động chậm, và giải phóng đủ lượng neutron cần thiết để duy trì phản ứng dây chuyền.
+Plutoni-239 có hệ số sinh neutron (k) lớn hơn 1, do đó nếu kim loại có đủ khối lượng và yếu tố hình học thích hợp (như khối cầu nén), nó có thể đạt đến khối lượng tới hạn. Trong quá trình phân hạch, một phần năng lượng lên kết được giải phóng ở dạng nhiệt, điện từ và động năng mal; một kg plutoni-239 có thể tạo ra một vụ nổ tương đương với 20.000 tấn thuốc nổ TNT. Do tạo ra nguồn năng lượng khổng lồ nên plutoni-239 được ứng dụng làm vũ khí hạt nhân và được dùng trong lò phản ứng.
+Việc có mặt đồng vị plutoni-240 trong mẫu sẽ làm giới hạn khả năng của bom hạt nhân, vì plutoni-240 có tốc độ phân hạch tự phát tương đối cao (~440 phân hạch một giây/1 gram sinh ra hơn 1.000 neutron/giây/gram) nên sẽ làm tăng mức neutron ban đầu và làm tăng nguy cơ đạt đến trang thái siêu tới hạn cực nhanh mà chưa đạt đến trạng thái tối đa của một chuỗi phản ứng dây chuyền cần thiết. Plutoni được xác định đạt cấp vũ khí, cấp nhiên liệu hay cấp năng lượng lò phản ứng tùy thuộc vào phần trăm plutoni-240 có trong đó. Plutoni cấp vũ khí chứa ít hơn 7% plutoni-240, còn cấp nhiên liệu thì chứa từ 7% đến dưới 19%, và cấp năng lượng lò phản ứng thì chứa từ 19% plutoni-240 trở lên. Plutoni siêu cấp chứ đồng vị plutoni-240 ít hơn 4% thì được dùng trong các vũ khí đặt trên các tàu và tàu ngầm của hải quân Hoa Kỳ do nó có độ phóng xạ thấp hơn. Đồng vị plutoni-238 không thể phân hạch nhưng có thể trải qua quá trình phân hạch một cách dễ dàng bằng cách dùng neutron nhanh và nó phát ra hạt anpha.
+
+
+=== Các đồng vị ===
+
+Có 20 đồng vị phóng xạ của plutoni đã được nhận biết. Các đồng vị sống lâu nhất là plutoni-244 có chu kỳ bán rã 80,8 triệu năm, plutoni-242 là 373.300 năm, và plutoni-239 là 24.110 năm. Tất cả các đồng vị phóng xạ còn lại có chu kỳ bán rã nhỏ hơn 7.000 năm. Nguyên tố này cũng có 8 đồng phân hạt nhân, mặc dù không có đồng phân nào ổn định và tất cả có chu kỳ bán rã nhỏ hơn 1 giây.
+Các đồng vị của plutoni có số khối nằm trong khoảng từ 228 đến 247. Các cơ chế phân rã ban đầu của các đồng vị có số khối thấp hơn đồng vị bền nhất plutoni-244, là phân hạch tự phát, phát ra hạt anpha và hầu hết tạo thành các đồng vị urani (92 proton) và neptuni (93 proton). Cơ chế phân rã ban đầu đối với các đồng vị có số khối cao hơn đồng vị plutoni-244 là phát ra hạt beta và hầu hết tạo thành các đồng vị americi (95 proton). Plutoni-241 là đồng vị mẹ của chuỗi phân rã neptuni phân rã tạo ra americi-241 và hạt β hoặc electron.
+Plutoni-238 và 239 là các đồng vị tổng hợp phổ biến nhất. Plutoni-239 được tổng hợp thông qua phản ứng giữa urani (U) và neutron (n) thông qua giai đoạn trung gian với phân rã beta (β−) và neptuni (Np):
+
+  
+    
+      
+        
+          
+            
+            
+               
+              92
+            
+            
+              238
+            
+          
+          U
+           
+          +
+          
+             
+            
+              0
+            
+            
+              1
+            
+          
+          n
+           
+          ⟶
+          
+             
+            
+               
+              92
+            
+            
+              239
+            
+          
+          U
+           
+          
+            
+              →
+              
+                
+                  23.5
+                   
+                  m
+                  i
+                  n
+                
+              
+              
+                
+                  β
+                  
+                    −
+                  
+                
+              
+            
+          
+          
+             
+            
+               
+              93
+            
+            
+              239
+            
+          
+          N
+          p
+           
+          
+            
+              →
+              
+                
+                  2.3565
+                   
+                  d
+                
+              
+              
+                
+                  β
+                  
+                    −
+                  
+                
+              
+            
+          
+          
+             
+            
+               
+              94
+            
+            
+              239
+            
+          
+          P
+          u
+        
+      
+    
+    {\displaystyle \mathrm {^{238}_{\ 92}U\ +\ _{0}^{1}n\ \longrightarrow \ _{\ 92}^{239}U\ {\xrightarrow[{23.5\ min}]{\beta ^{-}}}\ _{\ 93}^{239}Np\ {\xrightarrow[{2.3565\ d}]{\beta ^{-}}}\ _{\ 94}^{239}Pu} }
+  
+Neutron từ sự phân hạch urani-235 được bắt giữ bởi hạt nhân urani-238 để tạo ra urani-239; qua một phân rã beta sẽ biến đổi một neutron thành proton để tạo ra Np-239 (chu kỳ bán rã 2,36 ngày) và qua một phân rã beta khác để tạo ra plutoni-239. Những người làm việc cho dự án Tube Alloys đã dự đoán trên lý thuyết phản ứng nào năm 1940.
+Plutoni-238 được tổng hợp từ việc bắn phá urani-238 bằng các hạt nhân deuteron theo phản ứng sau:
+
+  
+    
+      
+        
+          
+            
+            
+               
+              92
+            
+            
+              238
+            
+          
+          U
+           
+          +
+          
+             
+            
+              1
+            
+            
+              2
+            
+          
+          D
+           
+          ⟶
+          
+             
+            
+               
+              93
+            
+            
+              238
+            
+          
+          N
+          p
+           
+          +
+           
+          2
+          
+             
+            
+              0
+            
+            
+              1
+            
+          
+          n
+          
+          ;
+          
+            
+            
+               
+              93
+            
+            
+              238
+            
+          
+          N
+          p
+           
+          
+            
+              →
+              
+                
+                  2.117
+                   
+                
+              
+              
+                
+                  β
+                  
+                    −
+                  
+                
+              
+            
+          
+          
+             
+            
+               
+              94
+            
+            
+              238
+            
+          
+          P
+          u
+        
+      
+    
+    {\displaystyle \mathrm {^{238}_{\ 92}U\ +\ _{1}^{2}D\ \longrightarrow \ _{\ 93}^{238}Np\ +\ 2\ _{0}^{1}n\quad ;\quad _{\ 93}^{238}Np\ {\xrightarrow[{2.117\ }]{\beta ^{-}}}\ _{\ 94}^{238}Pu} }
+  
+Trong quá trình này, hạt nhân Deuteri đụng vào urani-238 sinh ra 2 neutron và neptuni-238, đến lượt nó neptuni-238 phân rã tự phát bằng cách phát ra các hạt beta âm để tạo thành plutoni-238.
+
+
+=== Nhiệt phân rã và đặc điểm phân hạch ===
+Các đồng vị plutoni trải qua phân rã phóng xạ sinh ra nhiệt phân rã. Các đồng vị khác nhau sinh ra những lượng nhiệt khác nhau theo khối lượng của chúng. Nhiệt phân rã thường được tính theo đơn vị watt/kilogram, hay milliwatt/gram.
+Americi-241, sản phẩm phân rã của plutoni-241, có chu kỳ bán rã 430 năm, 1,2 phân hạch tự phát/1 gram/1 giây, và nhiệt phân rã là 114 watt/kg. Khi phân rã nó phát ra các tia gamma có khả năng đâm xuyên mạnh. Sự có mặt của nó trong plutoni, xác định theo hàm lượng ban đầu của plutoni-241, được xem là làm tăng nguy hiểm phơi nhiễm phóng xạ đối với các cấu túc xung quanh và con người.
+
+
+=== Các hợp chất ===
+
+Ở nhiệt độ phòng, plutoni nguyên chất có màu bạc nhưng sẽ chuyển sang màu xỉn khi bị ôxy hóa. Plutoni có 4 trạng thái ôxy hóa phổ biến trong dung dịch gốc nước và một dạng hiềm gặp hơn gồm:
+Pu(III), ion Pu3+ (oải hương lam)
+Pu(IV), ion Pu4+ (nâu vàng)
+Pu(V), ion PuO2+ (pink?)
+Pu(VI), as PuO22+ (vàng hồng)
+Pu(VII), as PuO53− (lục)–ion hóa trị 7 thì hiếm gặp
+Màu sắc của các dung dịch plutoni tùy thuộc vào trạng thái ôxy hóa và anion axit tự nhiên. Anion axit ảnh hưởng đếnn cấp độ tạo phức - cách mà cách nguyên tử liên kết với một nguyên tử trung tâm của các đồng vị plutoni.
+Plutoni kim loại được tạo ra từ phản ứng của plutoni tetraflorua với bari, canxi hoặc liti ở 1200 °C. Nó phản ứng với các axít, ôxy, và hơi nước nhưng không phản ứng với kiền, và dễ dàng hòa tan trong các axit clohydric, hydroiodic và perchloric. Kim loại nóng chảy phải được cất giữ trong môi trường chân không hoặc khí trơ để ngăn phản ứng với không khí. Ở 135 °C kim loại plutoni sẽ bốc cháy trong không khí và sẽ nổ nếu có mặt cacbon tetrachlorua.
+
+Plutoni là một kim loại hoạt động. Trong không khí ẩm hoặc argon ẩm, nó bị ôxy hóa một cách nhanh chóng tạo ra hỗn hợp các ôxit và hydrit. Nếu kim loại của nó tiếp xúc đủ lâu với một lượng hơi nước nhất định thì sẽ hình thành một lớp bột PuO2 phủ lên bề mặt của nó. Quá trình này cũng tạo thành plutoni hydrit nhưng với lượng nước nhiều hơn thì chỉ tạo ra PuO2.
+Với lớp áo này, kim có khả năng tự bốc cháy, vì thế kim loại plutoni thường được vận chuyển trong môi trường trơ và không như nitơ hay argon. Ôxy là chậm các hiệu ứng của các chất ẩm và đóng vai trò như chất thụ động.
+Plutoni thể hiện tốc độ phản ứng mạnh, thuận nghịch với hydro tinh khiết tạo thành plutonium hydrua. Nó cũng sẵn sàng phản ứng với ôxy tạo thành PuO và PuO2 cũng như các ôxit trung gian; plutoni ôxit tăng hơn 40% thể tích so với plutoni kim loại. Nó phản ứng với các halogen tạo ra các hợp chất dạng PuX3, với X có thể là F, Cl, Br hoặc I; PuF4 cũng có mặt. Các oxyhalua sau cũng được tìm thấy: PuOCl, PuOBr và PuOI. Nó sẽ phản ứng ớ cacbon để tạo ra PuC, nitơ tạo ra PuN và silic tạo ra PuSi2.
+Nồi được dùng để chứa plutoni cần chịu được các tính chất khử mạnh của nó. Các kim loại chịu lửa như tantalum và tungsten cùng với các ôxit bền hơn như boride, carbide, nitride và silicide có thể chịu được các tính chất này. Quá trình nóng chảy trong electric arc furnace có thể được dùng để tạo ra các thỏi nhỏ kim loại mà không cần dùng nồi nấu.
+Cerium được dùng làm chất có tính chất hóa học giống plutoni để làm vật dụng chứa, chiết tách và các công nghệ khác.
+
+
+=== Tạo hợp kim ===
+Plutoni có thể tạo một số hợp kim và các hợp chất trung giann với hầu hết các kim loại khác, ngoại trừ các kim loại kiềm như lithi, natri, kali, và rubidi; và các kim loại kiềm thổ như magiê, canxi, stronti, và bari; và kim loại đất hiếm như europi và ytterbi. Ngoài ra, các kim loại có thể gia công như crôm, molybden, niobi, tantali, và tungsten có thể hòa tan trong dung dịch plutoni, nhưng không hòa tan hoặc hòa tan rất ít trong plutoni rắn. Galli, nhôm, americi, scandi và ceri có thể ổn định hóa đồng phân δ của plutoni ở nhiệt độ phòng. Silic, indi, kẽm và zirconi cho phép tạo thành đồng phân δ khi làm lạnh nhanh. Một lượng lớn hafni, holmi và thali cũng cho phép duy trì pha δ ở nhiệt độ phòng. Neptuni là nguyên tố duy nhất có thể ổn định pha α ở nhiệt độ cao hơn.
+Các hợp kim plutoni có thể được tạo ra bằng cách cho kim loại cần thiết vào plutoni nóng chảy. Nếu kim loại tạo hợp kim đủ tính khử, plutoni có thể được cho vào ở dạng ôxít hay halua. Các hợp kim gali-plutoni pha δ và nhôm-plutoni được tạo ra bằng cách thêm plutoni(III) florua vào gali hoặc nhôm nóng chảy, đây là một điểm thuận lợi nhằm tránh việc tiếp xúc trực tiếp với kim loại plutoni có tính phản ứng cao.
+Plutoni-galli được dùng để ổn định hóa pha δ của plutoni, nhằm tránh các vấn đề gặp phải khi nó chuyển sang pha α và pha α-δ. Ứng dụng chủ yếu của nó là trong các pit của implosion nuclear weapons.
+Plutoni-nhôm là một hợp kim thay thế cho hợp kim Pu-Ga. Nó là thành phần ban đầu dùng trong việc ổn định hóa pha δ, nhưng nó có khuynh hướng phản ứng với các hạt anpha và giải phóng neutron làm giảm công năng của nó trong các vũ pit của vũ khí hạt nhân. Hợp kim plutoni-nhôm cũng có thể được ứng dụng làm một phần của nhiên liệu hạt nhân.
+Hợp kim plutoni-galli-coban (PuCoGa5) là một chất siêu dẫn phi truyền thống ở nhiệt độ dưới 18,5 kelvin, cường độ lớn hơn giá trị cao nhất giữa các hệ fermion nặng, và có dòng điện tới hạn lớn.
+Hợp kim plutoni-zirconi có thể được sử dụng làm nhiên liệu hạt nhân.
+Các hợp kim plutoni-ceri và plutoni-ceri-coban cũng được dùng làm nhiên liệu hạt nhân.
+Plutoni-urani, với khoảng 15–30% mol. plutoni, có thể được dùng làm nhiên liệu hạt nhân cho các lò phản ứng tái sinh nhan. Do tính tự cháy và sự nhạy cảm cao của nó đối với ăn mòn tại điểm tự bốc cháy hay việc phân hủy sau khi tiếp xúc với không khí nên cần tạo hợp kim với các thành phần khác. Thêm nhôm, cacbon hay đồng vào sẽ không làm cải thiện tôlàm tăng tôc độ tự phân hủy một cách đáng kể; còn nếu thêm zirconi và sắt sẽ tăng tính chống ăn mòn nhưng chúng có thể phân hủy trong vài tháng trong không khí. nếu thêm vào titan hay zirconi sẽ làm tăng điểm nóng chảy của hợp kim.
+Các hợp kim plutoni-urani-titan và plutoni-urani-zirconi đã được nghiên cứu để dùng làm nhiên liệu hạt nhân. Việc thêm vào nguyên tố thứ 3 sẽ làm tăng khả năng chống ăn mòn, giảm tính cháy, và tăng tính dẻo, tính kéo sợi, độ bền và sự nở vì nhiệt. Plutoni-urani-molybden có khả năng chống ăn mòn tốt nhất, vì nó tạo thành một lớp ôxít mỏng bảo vệ, nhưng với titan và zirconi thì chỉ có tác dụng về mặt vật lý.
+Hợp kim thori-urani-plutoni đã được nghiên cứu để làm nhiên liệu hạt nhân cho các lò phản ứng tái sinh nhanh.
+
+
+=== Xuất hiện ===
+Một lượng rất nhỏ dạng vết của ít nhất 2 đồng vị plutoni (plutoni-239 và 244) có thể được tìm thấy trong tự nhiên. Các vết của plutoni-239 chỉ chiếm khoảng vài ppt, và các sản phẩm phân rã của nó cũng được tìm thấy trong tự nhiên ở một số mỏ urani, như trong "lò phản ứng phân hạch tự nhiên" ở Oklo, Gabon. Tỷ lệ plutoni-239/urani ở urani Mỏ Cigar Lake dao động trong khoảng từ 2.4 × 10−12 đến 44 × 10−12. Thậm chí một lượng nhỏ hơn của plutoni-244 nguyên thủy có mặt trong tư nhiên do chúng có chu kỳ bán rã tương đối cao khoảng 80 triệu năm. Các hàm lượng vết của Pu-239 có nguồn gốc từ các kiểu sau: trong những trường hợp hiếm, U-238 trải qua phân hạch tự phát, và trong quá trình này, hạt nhân phát ra một hoặc hai neutron tự do cùng với động năng. Khi một trong các neutron này va chạm vào nguyên tử U-238 khác, nó bị thấp thụ tạo ra U-239. Với toh72i gian tồn tại khá ngắn, U-239 phân rã thành neptuni-239 (Np-239), và sau đó Np-239 phân rã thành Pu-239.
+Vì đồng vị Pu-240 có thời gian tồn tại tương đối lâu có mặt trong chuỗi phân rã của plutoni-244, nó cũng có thể có mặt, mặc dù gấp 10.000 lần nhưng vẫn hiếm hơn. Cuối cùng, một lượng cực nhỏ plutoni-238 tham gia vào phân rã beta kép của urani-238 cực kì hiếm gặp, được tìm thấy trong các mẫu urnai tự nhiên.
+Một lượng vết nhỏ plutoni thường được tìm thấy trong cơ thể con người từ các nguồn trong các vụ thử hạt nhân dưới nước và trong khí quyển và một lượng nhỏ từ các tai nạn hạt nhân lớn. Hầu hết các vụ thử hạt nhân dưới nước và trong khí quyển đã bị dừng theo Hiệp ước Cấm thử hạt nhân năm 1963, trong đó, các nước tham gia ký kết gồm Hoa Kỳ, Vương quốc Anh, Liên Xô, và các nước khác. Việc thử vũ khí hạt nhân trong khí quyển đã được tiếp tục ở các nước không tham gia vào Hiệp ước trên như Trung Quốc (thử bom hạt nhân trên sa mạc Gobi năm 1964, thử bom hydro năm 1967, và các thử nghiệm sau đó), và Pháp (thử trong thập niên 1980).
+Plutoni-239 là đồng vị dồi dào nhất của plutoni có khả năng dùng để chế tạo vũ khí hạt nhân và trong lò phản ứng.
+Cũng có giả thuyết cho rằng một lượng nhỏ plutoni được tạo ra từ việc bắn phát các quặng urani bởi tia vũ trụ.
+
+
+== Lịch sử ==
+
+
+=== Phát hiện ===
+Enrico Fermi và nhóm nhà khoa học của Đại học Rome đã thông báo rằng họ phát hiện ra nguyên tố thứ 94 năm 1934. Fermi gọi nguyên tố này là hesperium và đã đề cập đến nó trong Nobel Lecture của ông năm 1938. Thực sự, mẫu đó là một hỗn hợp gồm bari, krypton, và các nguyên tố khác, nhưng điều đó đã chưa được biết đến vào thời điểm đó do sự phân hạch hạt nhân chưa được phát hiện.
+
+Plutoni (đặc biệt là plutoni-238) đã được tạo ra đầu tiên vào ngày 14 tháng 12 năm 14, 1940, và được xác định tính chất hóa học vào ngày 23 tháng 2 năm 1941, bởi Dr. Glenn T. Seaborg, Edwin M. McMillan, J. W. Kennedy, and A. C. Wahl khi họ dùng hạt nhân deuteron bắn phá urani trong máy gia tốc 60 inch (150 cm) ở Đại học California, Berkeley. Trong thí nghiệm năm 1940, neptuni-238 đã được tạo ra một cách trực tiếp từ việc bắn phá nhưng bị phân rã phát ra tia beta 2 ngày sau đó, và tạo ra nguyên tố 94.
+Một bài báo về việc phát hiện này đã được nhóm nghiên cứu gởi đến tạp chí Physical Review vào tháng 3 năm 1941. Bài báo đã được rút lại trước khi được đăng do họ phát hiện rằng một đồng vị của nguyên tố mới (plutoni-239) có thể trải qua sự phân hạch hạt nhân theo cách mà có thể dùng nó làm bom hạt nhân. Việc xuất bản đã được trì hoãn đến 1 năm sau khi kết thúc chiến tranh thế giới thứ 2 do vấn đề an ninh.
+Edwin McMillan gần đây đã đặt tên cho nguyên tố siêu urani đầu tiên theo tên hành tinh Neptune và đã đề xuất rằng nguyên tố 94 tiếp theo trong dãi này cần đặt theo tên hành tinh tiếp theo là Pluto. Seaborg ban đầu dự định đặt tên nguyên tố này là "plutium", nhưng sau đó ông nghĩ rằng nó nghe không hay bằng "plutonium." Ông chọn ký hiệu "Pu" như cách nói đùa, mà không cần chú ý vào bảng tuần hoàn. Các tên thay thế cũng đã được Seaborg và những người khác xét đến như "ultimium" hay "extremium" do các niềm tin sai lâm rằng họ đã tìm thấy nguyên tố có thể cuối cùng trong bảng tuần hoàn.
+
+
+=== Nghiên cứu thời kỳ đầu ===
+Tính chất hóa học cơ bản của plutoni được phát hiện là giống với urani sau một vài tháng đầu nghiên cứu. Việc nghiên cứu nguyên tố này thời kỳ đầu tiên đã được tiến hành tạo phòng thí nghiệm Metallurgical bí mật thuộc Đại học Chicago. Vào ngày 18 tháng 8 năm 1942, một hàm lượng vết của nguyên tố này đã được cô lập và được đo đạc lần đầu tiên. Khoảng 50 microgram plutoni-239 cộng với urani và các sản phẩm phân hạch đã được tạo ra và chỉ có khoảng 1 microgram plutoni đã được cô lập. Công đoạn này cho phép các nhà hóa học có thể xác định khối lượng nguyên tử của nguyên tố mới.
+Vào tháng 11 năm 1943, một lượng plutoni triflorua đã được khử để tạo ra mẫu plutoni kim loại đầu tiên: chỉ một vài microgram kim lại ở dạng hạt. Một lượng vừa đủ plutoni đã được tạo ra bằng phương pháp tổng hợp để có thể nhận thấy bằng mắt thường.
+Các tính chất hạt nhân của plutoni-239 cũng đã được nghiên cứu sau đó; các nhà nghiên cứu phát hiện rằng khi một neutron va chạm vào nó, nó sẽ tách ra (phân hạch) bằng cách giải phóng các neutron và năng lượng. Các neutron mới này có thể tương tác với các nguyên tử plutoni-239 khác và quá trình cứ tiếp tục theo một phản ứng dây chuyền nhanh theo hàm mũ. Quá trình này có thể tạo ra một vụ nổ đủ lớn để phá hủy một thành phố nếu có đủ đồng vị được cô đọng để tạo thành một khối lượng tới hạn.
+
+
+=== Sản xuất trong Dự án Manhattan ===
+Trong suốt chiến tranh thế giới thứ 2, chính phủ Hoa Kỳ đã tiến hành một dự án chế tạo bom nguyên tử mang tên Dự án Manhattan (Manhattan Project). Ba vị trí sản xuất và nghiên cứu cơ bản của dự án là nhà máy sản xuất plutoni ở nơi mà ngày nay là Hanford Site, các cơ sở làm giàu urani ở Oak Ridge, Tennessee, và phòng thí nghiệm thiết kế và nghiên cứu vũ khí, ngày nay là Phòng thí nghiệm Los Alamos.
+
+Lò phản ứng sản xuất đầu tiên tạo ra plutoni-239 là lò phản ứng than chì X-10. Nó đã được xây dựng năm 1943 ở cơ sở Oak Ridge mà sau đó trở thành Phòng thí nghiệm Oak Ridge.
+Ngày 5 tháng 4 năm 1944, Emilio Segrè ở Los Alamos nhận được mẫu plutoni được tạo ra trong lò phản ứng ở Oak Ridge. Chỉ trong vòng vài chục ngày sau, ông phát hiện ra rằng plutoni từ lò phản ứng có nồng độ cao hơn đồng vị plutoni-240 được tạo ra từ máy gia tốc. Plutoni-240 có tốc độ phân hạch tự phát cao, làm tăng lượng neutron cơ bản của mẫu plutoni. Vũ khí plutoni loại súng được đặt tên theo mã là "Thin Man", phải bị hủy bỏ do số lượng các neutron sinh ra từ quá trình phân hạch tự phát tăng cao.
+Toàn bộ thiết kế vũ khí plutoni ở Los Alamos đã được thay đổi nhanh chóng sau đó để tạo ra một mẫu có khả năng nổ phức tạp hơn mang tên "Fat Man". Là vũ khí nổ nên một chất rắn plutoni hình cầu đã được nén chặt với mật độ cao với các thấu kính nổ, nhưng cần thiết để dùng plutoni cho mục đích làm vũ khí.
+Việc xây dựng lò phản ứng B ở Hanford, một lò phản ứng hạt nhân kích thước công nghiệp đầu tiên phục vụ việc sản xuất vật liệu, đã được hoàn thành vào tháng 3 năm 1945. Lò phản ứng B tạo ra vật liệu có khả năng phân hạch cho các vũ khí plutoni được sử dụng trong suốt chiến tranh thế giới thứ 2. B, D và F là những lò phản ứng đầu tiên được xây dựng ở Hanford, và sáu lò phản ứng sản xuất plutoni đã được xây thêm sau đó cũng tại vị trí này.
+Năm 2004, một hòm an toàn được phát hiện trong khi khai quật một máng bị chôn vùi ở Hanford nuclear site. Bên trong nó có nhiều vật gồm chai thủy tinh lớn chứa xi măng màu trắng loại này sau đó được xác định là mẫu plutoni cấp vũ khí cổ nhất còn tồn tại. Phân tích đồng vị tại Phòng thí nghiệm Pacific Northwest cho thấy rằng plutoni trong chai đã được sản xuất trong lò X-10 tại Oak Ridge trong năm 1944.
+
+
+=== Bom Trinity và Fat Man ===
+
+Quả bom nguyên tử thử nghiệm đầu tiên có tên gọi là "Trinity", được tiến hành ngày 16 tháng 7 năm 1945 ở gần Alamogordo, New Mexico, sử dụng plutoni làm nguyên liệu phân hạch. Thiết kế nổ của "the Gadget" sử dụng các thấu kính nổ truyền thống để nén một hình cầu plutoni thành một khối siêu tới hạn, được bắn phá neutron một cách liên tục từ "Urchin", một nguồn neutron được làm từ poloni và berylli. Khi đi cùng nhau, chúng đảm bảo rằng một phản ứng chuỗi và vụ nổ xảy ra và vụ nổ xảy ra. Khối lượng của vũ khí nặng hơn 4 tấn, mặc dù người ta chỉ dùng 6,2 kg plutoni trong lõi. Khoảng 20% plutoni được dùng trong vũ khí Trinity đã trải qua quá trình phân hạch để tạo ra vụ nổ tương đương khoảng 20.000 tấn TNT.
+Một thiết kế giống hệt được sử dụng trong quả bom "Fat Man" đã thả xuống Nagasaki, Nhật Bản, vào ngày 9 tháng 8 năm 1945, làm chết 70.000 người và làm bị thương 100,000. Quả bom "Little Boy" thả xuống Hiroshima 3 ngày trước đó đã sử dụng urani-235 chứ không phải plutoni.
+
+
+=== Sử dụng trong chiến tranh Lạnh và trở thành chất thải ===
+Các kho dự trữ plutoni cấp vũ khí lớn được cả Liên Xô và Hoa Kỳ xây dựng trong thời kỳ chiến tranh Lạnh. Các lò phản ứng hạt nhân của Hoa Kỳ ở Hanford và Savannah River Site miền nam Carolina đã sản xuất ra 103 tấn, và ước tính có 170 tấn đã được sản xuất ở Nga. Mỗi năm có khoảng 20 tấn nguyên tố này được sản xuất đều đều ở dạng sản phẩm phụ của ngành công nghiệp điện hạt nhân. Có khoảng 1000 tấn plutoni có thể được dự trữ với hơn 200 tấn được lấy ra từ các vũ khí hạt nhân. SIPRI đã ước tính rằng plutoni thế giới năm 2007 vào khoảng 500 tấn, phân đều trong các ứng dụng dân dụng và vũ khí.
+
+Khi chiến tranh Lạnh kết thúc, các kho vũ khí này trở thành tâm điểm của sự phổ biến hạt nhân. Ở Hoa Kỳ, một số plutoni được lấy ra từ các vũ khí hạt nhân đã được tháo gỡ và được làm nóng chảy để tạo thành những khúc thủy tinh plutoni ôxit nặng 2 tấn. Thủy tinh này được làm thành borosilicate được trộn với cadmi và gadolini. Các khúc này được bao bọc trong thép không gỉ và được trữ các nhiều càng tốt ở độ sâu 4 km dưới lòng đất trong các lỗ khoan và sẽ được lấp bằng bê tông. Cho đến năm 2008, chỉ có cơ sở ở Hoa Kỳ đã lên kế hoạch lưu trữ plutoni theo cách này tại khu chứa chất thải hạt nhân núi Yucca, nằm cách Las Vegas, Nevada khoảng 100 dặm (160 km) về phía đông bắc.
+
+
+=== Thí nghiệm y học ===
+
+Trong và sau khi kết thúc chiến tranh thế giới thứ 2, các nhà khoa học làm việc trong dự án Manhattan và các dự án nghiên cứu các vũ khí hạt nhân khác đã tiến hành nghiên cứu những ảnh hưởng của plutoni trên các động vật trong phòng thí nghiêm và trên con người. Các nghiên cứu trên động vật cho thấy rằng vài gram plutoni/1 kg mô là một liều gây chết.
+Trong trường hợp trên con người, điều này liên quan đến việc bơm một dung dịch chứa 5 microgram (điểm hình) trên các bệnh nhân ở bệnh viện được cho là hoặc bệnh nhân đã vào giai đoạn cuối của đợt điều trị hoặc có thời gian sống còn lại dưới 10 năm tùy thuộc vào tuổi hoặc tình trạng bệnh mãn tính. Liều tiêm này giảm 1 microgram vào tháng 7 năm 1945 sau khi các nghiên cứu trên động vật cho thấy rằng cái cách mà plutoni phân bố trong xương lại nguy hiểm hơn so với radi.
+Đã có 18 thử nghiệm trên người được điến hành với plutoni mà không có việc thông báo chấp chuận của đối tượng. Các thử nghiệm đã được sử dụng để tạo ra các công cụ chẩn đoán như để xác định mức độ hấp thu plutoni trong cơ thể người và cũng nhằm để phát triển các tiêu chuẩn an toàn khi làm việc với plutoni.
+Vấn đề này ngày nay được xem là vi phạm nghiêm trọng y đức và Hippocratic Oath. More sympathetic commentators have noted that while it was definitely a breach in trust and ethics, "the effects of the plutonium injections were not as damaging to the subjects as the early news stories painted, nor were they so inconsequential as many scientists, then and now, believe."
+
+
+== Ứng dụng ==
+
+
+=== Nhiên liệu ôxit hỗn hợp ===
+
+Nhiên liệu hạt nhân đã sử dụng từ các lò phản ứng nước nhẹ chứa Plutoni ở dạng hỗn hợp gồm plutoni-242, 240, 239 và 238. Hỗn hợp này không được làm giàu một cách đầy đủ để dùng cho các vũ khí hạt nhân, nhưng nó có thể được sử dụng làm nhiên liệu MOX. Bắt giữ neutron ngẫu nhiên làm cho một lượng plutoni-242 và 240 tăng theo thời gian Plutoni bị chiếu xạ trong lò phản ứng bởi các neutron "nhiệt" tốc độ chậm, vì thế sau chu kỳ thứ 2, Plutoni chỉ có thể được tiêu thụ bởi các lò phản ứng neutron nhanh. Nếu các lò phản ứng neutron nhanh không có, lượng Plutoni dư thường sẽ bị loại bỏ, và trở thành một loại chất thải hạt nhân có thành tố tồn tại lâu trong môi trường. Việc mong muốn tiêu thụ loại plutoni này và các nhiêu liệu siêu urani khác và làm giảm lượng phóng xạ trong chất thải là một trong những lý do khiến người ta phát triển các lò phản ứng neutron nhanh.
+Công nghệ hóa học phổ biến nhất dùng để tái xử lý nhiên liệu hạt nhân đã qua sử dụng để tách plutoni và urani có thể được sử dụng để tạo ra một ôxit hỗn hợp là "nhiên liệu MOX" cho một số lò phản ứng hạt nhân. Plutonii cấp vũ khí có thể cần được cho thêm vào hỗn hợp nhiêu liệu này. Nhiên liệu MOX được dùng trong các lò phản ứng nước nhẹ và chiếm khoảng 60 kg plutoni trên 1 tấn nhiên liệu; sau 4 năm, 3/4 lượng plutoni bị tiêu thụ (chuyển thành các nguyên tố khác). Các lò phản ứng tái sinh được thiết kế đặc biệt để tạo ra vật liệu phân hạch nhiều hơn lượng chúng tiêu thụ.
+Nhiên liệu MOX đã được sử dụng từ thập niên 1980 và hiện nay được sử dụng rộng khắp ở châu Âu. Tháng 9 năm 2000, Hoa Kỳ và Nga ký kết một thỏa thuận về loại bỏ và quản lý plutoni, theo đó, mỗi bên đồng ý loại bỏ 34 tấn plutoni cấp vũ khí. Bộ Năng lượng Hoa Kỳ lên kế hoạch loại bỏ 34 tấn plutoni cấp vũ khí ở Hoa Kỳ vào cuối năm 2019 bằng cách chuyển plutoni thành nhiên liệu MOX dùng cho các lò phản ứng hạt nhân thương mại.
+Nhiên liệu MOX nâng cao tổng lượng đốt cháy. Một thanh nhiên liệu sau 3 năm sử dụng được tái xử lý để loại bỏ các sản phẩm thải, chúng chiếm khoảng 3% tổng khối lượng các thanh nhiên liệu. Bất kỳ đồng vị urani hay plutoni được tạo ra trong thời gian 3 năm này đều được loại bỏ và thanh nhiên liệu được đưa trở lại lò phản ứng. Khi galli chiếm 1% về khối lượng trong các hợp kim plutoni cấp vũ khí thì nó có khả năng gây cản trở việc vận hành lâu dài các lò phản ứng nước nhẹ.
+Plutoni được thu hồi từ các nhiên liệu lò phản ứng hạt nhân đã qua sử dụng đặt ra một mối nguy hiểm phổ biến vũ khí hạt nhân ở mức ít hơn, vì sự ô nhiễm nhiều hơn với các đồng vị không phân hạch như plutoni-240 và plutoni-242. Việc tách các đồng vị này là không khả thi. Một lò phản ứng chuyên dụng vận hành dựa trên việc đốt nhiên liệu ở mức rất thấp nhìn chung cần phải tạo ra vật liệu thích hợp cho việc sử dụng chúng có hiệu quả trong các vũ khí hạt nhân. Trong khi plutoni cấp vũ khí được định nghĩa là có chứa ít nhất 92% plutoni-239, thì Hoa Kỳ đã quản lý để làm thiết bị nổ dưới 20Kt (kilo tấn) dùng plutoni được tin là chỉ chứa khoảng 85% plutoni-239, còn được gọi là plutoni 'cấp nhiên liệu'. Plutoni 'cấp lò phản ứng' được tạo ra từ chu trình đốt trong lò phản ứng nước nhẹ thông thường chứa lượng Pu-239 ít hơn 60%, với parasitic Pu-240/Pu-242 lên tới 30%, và 10-15% Pu-241 có khả năng phân hạch. Người ra không rõ liệu một thiết bị sử dụng plutoni được tạo ra từ các chất thải hạt nhân dân dụng được tái xử lý có thể nổ được không, tuy nhiên, các thiết bị này có thể tạo ra các tiếng xèo xèo theo giả thuyết và phát tán các vật liệu phóng xạ trên phạm vi rộng. IAEA phân loại một cách thận trọng plutoni của tất cả vectors đồng vị như vật liệu "sử dụng trực tiếp", đó là, "vật liệu hạt nhân có thể được sử dụng cho việc chế tạo các chất nổ hạt nhân không bao gồm các thành phần biến tố hay làm giàu sau đó".
+241Am gần đây đã được đề nghị dùng làm chất biến tính trong các thanh nhiên liệu hạt nhân dùng plutoni nhằm hạn chế khả năng phát tán hạt nhân của nó.
+
+
+== Xem thêm ==
+Kỹ thuật hạt nhân
+Chu trình nhiên liệu hạt nhân
+Vật lý hạt nhân
+
+
+== Ghi chú ==
+
+
+== Tham khảo ==
+
+
+== Tài liệu ==
+CRC contributors (2006). David R. Lide, biên tập. Handbook of Chemistry and Physics (ấn bản 87). Boca Raton (FL): CRC Press, Taylor & Francis Group. ISBN 0-8493-0487-3. 
+Emsley, John (2001). “Plutonium”. Nature's Building Blocks: An A–Z Guide to the Elements. Oxford (UK): Oxford University Press. tr. 324–329. ISBN 0-19-850340-7. 
+Greenwood, N. N.; Earnshaw, A. (1997). Chemistry of the Elements (ấn bản 2). Oxford (UK): Butterworth-Heinemann. ISBN 0-7506-3365-4.  
+Heiserman, David L. (1992). “Element 94: Plutonium”. Exploring Chemical Elements and their Compounds. New York (NY): TAB Books. tr. 337–340. ISBN 0-8306-3018-X. 
+Miner, William N.; Schonfeld, Fred W. (1968). “Plutonium”. Trong Clifford A. Hampel (editor). The Encyclopedia of the Chemical Elements. New York (NY): Reinhold Book Corporation. tr. 540–546. LCCN 68-29938.  
+Stwertka, Albert (1998). “Plutonium”. Guide to the Elements . Oxford (UK): Oxford University Press. ISBN 0-19-508083-1.  Bảo trì CS1: Văn bản dư (link)
+
+
+== Liên kết ngoài ==
+Sutcliffe, W.G.; et al. (1995). “A Perspective on the Dangers of Plutonium”. Lawrence Livermore National Laboratory. Bản gốc lưu trữ ngày 29 tháng 9 năm 2006.  
+Johnson, C.M.; Davis, Z.S. (1997). “Nuclear Weapons: Disposal Options for Surplus Weapons-Usable Plutonium”. CRS Report for Congress # 97-564 ENR. Truy cập ngày 15 tháng 2 năm 2009.  
+IEER contributors (2005). “Physical, Nuclear, and Chemical, Properties of Plutonium”. IEER. Truy cập ngày 15 tháng 2 năm 2009. 
+Bhadeshia, H. “Plutonium crystallography”. 
+Samuels, D. (2005). “End of the Plutonium Age”. Discover Magazine 26 (11). 
+Pike, J.; Sherman, R. (2000). “Plutonium production”. Federation of American Scientists. Truy cập ngày 15 tháng 2 năm 2009.  
+Nuclear Weapon Archive contributors. “Plutonium Manufacture and Fabrication”. Nuclearweaponarchive.org. 
+Ong, C. (1999). “World Plutonium Inventories”. Nuclear Files.org. Truy cập ngày 15 tháng 2 năm 2009. 
+LANL contributors (2000). “Challenges in Plutonium Science”. Los Alamos Science. I & II (26). Truy cập ngày 15 tháng 2 năm 2009. 
+NLM contributors. “Plutonium, Radioactive”. NLM Hazardous Substances Databank. Truy cập ngày 15 tháng 2 năm 2009. 
+Alsos contributors. “Annotated Bibliography on plutonium”. Alsos Digital Library for Nuclear Issues. Truy cập ngày 15 tháng 2 năm 2009. 
+Chemistry in its element podcast (MP3) from the Royal Society of Chemistry's Chemistry World: Plutonium

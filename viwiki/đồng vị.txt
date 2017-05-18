@@ -1,0 +1,107 @@
+Đồng vị là các biến thể của một nguyên tố hóa học, trong đó hạt nhân nguyên tử có cùng số proton nhưng có chứa số neutron khác nhau và do đó có số khối khác nhau.
+Thuật ngữ "đồng vị" Isotope được hình thành từ tiếng Hy Lạp isos (ἴσος "cùng") và topos (τόπος "chỗ"), có nghĩa là "cùng một chỗ", để nói rằng các đồng vị khác nhau của một nguyên tố đều chiếm vị trí duy nhất trong Bảng tuần hoàn các nguyên tố hóa học, hay Bảng tuần hoàn Mendeleev.
+
+Số proton trong hạt nhân nguyên tử được gọi là số nguyên tử, và bằng số electron trong trạng thái nguyên tử trung tính (không ion hóa). Mỗi số nguyên tử xác định một nguyên tố cụ thể, và các nguyên tử của nguyên tố đó có thể có một phạm vi rộng về số lượng các neutron. Số lượng các nucleon (tên gọi chung cho proton và neutron) trong hạt nhân là số khối của nguyên tử, tức là mỗi đồng vị của một nguyên tố có một số khối riêng biệt.
+Ví dụ, carbon-12, carbon-13 và cacbon-14 là ba đồng vị của nguyên tố cacbon với số khối tương ứng là 12, 13 và 14. Số nguyên tử của carbon là 6, có nghĩa là mỗi nguyên tử carbon có 6 proton, vì vậy mà số neutron của các đồng vị tương ứng là 6, 7 và 8.
+
+
+== Ký hiệu ==
+Hai cơ quan khoa học quốc tế là Liên đoàn Quốc tế về Hoá học Thuần túy và Ứng dụng (IUPAC) và Ủy ban Trọng lượng Nguyên tử và Đa dạng Đồng vị (CIAAW, một ủy ban của IUPAC) là nơi đưa ra các khuyến nghị về danh pháp cho các nguyên tố và hợp chất hóa học, cũng như các hằng số hay giá trị liên quan,... và thường được giới khoa học gia liên quan chấp thuận.
+Ngày nay tên khoa học của các đồng vị được viết với tên của nguyên tố theo sau là dấu trừ và số nucleon (proton và neutron). Ví dụ heli-3, cacbon-12, cacbon-14, iốt-131, urani-238.
+Ở dạng ký hiệu AZE (AZE notation) trong đó A - số khối, Z - số nguyên tử, và E - ký hiệu hóa học, thì số nucleon hay số khối được viết theo kiểu chỉ số trên ngay trước ký hiệu hóa học của nguyên tố, còn số nguyên tử ở dưới. Ví dụ 32He, 42He, 126C, 146C, 23592U, 23992U.
+Tuy nhiên thực tế hay dùng ký hiệu AE, vì số nguyên tử Z đã được đặc trưng rõ bằng ký hiệu hóa học E. Ví dụ 3He, 12C, 14C, 131I, 238U.
+Đôi khi trạng thái của đồng vị cũng được biểu diễn, ví dụ chữ m cho trạng thái siêu bền (metastable) trong 180m73Ta hay tantali-180m.
+Trong phương trình phản ứng với hạt cơ bản khác thì ký hiệu AZE cho hình dung trực quan tốt hơn. Ví dụ 
+  
+    
+      
+        
+          
+
+          
+          
+             
+            7
+          
+          
+            14
+          
+        
+        
+          N
+        
+        +
+        
+          
+
+          
+          
+            0
+          
+          
+            1
+          
+        
+        
+          n
+        
+        →
+        
+          
+
+          
+          
+             
+            6
+          
+          
+            14
+          
+        
+        
+          
+            C
+            
+              ∗
+            
+          
+        
+        +
+        
+          
+
+          
+          
+            1
+          
+          
+            1
+          
+        
+        
+          p
+        
+      
+    
+    {\displaystyle {}_{\ 7}^{14}\mathrm {N} +{}_{0}^{1}\mathrm {n} \rightarrow {}_{\ 6}^{14}\mathrm {C^{*}} +{}_{1}^{1}\mathrm {p} }
+  .
+Một số cách ký hiệu đã dùng trước đây, như ký hiệu ZEA: 2He4, 6C14, 92U238,... hay ký hiệu EA: He4, C14, U238,... tồn tại trong các văn liệu cũ.
+
+
+== Đồng vị bền và đồng vị phóng xạ ==
+
+
+== Tham khảo ==
+
+
+== Xem thêm ==
+Danh sách đồng vị tự nhiên
+Danh sách đồng vị đã tìm thấy
+Danh sách đồng vị
+Ủy ban Trọng lượng Nguyên tử và Đa dạng Đồng vị (CIAAW)
+Liên đoàn Quốc tế về Hoá học Thuần túy và Ứng dụng (IUPAC)
+
+
+== Liên kết ngoài ==
+Đồng vị tại Encyclopædia Britannica (tiếng Anh)
+Đồng vị tại Từ điển bách khoa Việt Nam

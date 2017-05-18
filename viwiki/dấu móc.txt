@@ -1,0 +1,16 @@
+Dấu móc hay dấu râu là một dấu phụ được thêm vào góc trên bên phải của các chữ cái "o" và "u" trong bảng chữ cái tiếng Việt để tạo thành "ơ" và "ư". Trong tiếng Việt, dấu móc ít khi được coi là một dấu phụ riêng biệt; mà thay vào đó các chữ cái "ơ" và"ư" được coi là tách biệt với "o" và "u".
+Các ký tự trong bảng mã HTML có dấu móc bao gồm:
+
+
+== Xem thêm ==
+Ơ
+Ư
+Dấu hỏi
+Dấu sắc
+Dấu ngã
+Dấu huyền
+Dấu trăng
+Dấu mũ
+
+
+== Tham khảo ==

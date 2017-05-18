@@ -1,0 +1,30 @@
+Lawrenci là một nguyên tố tổng hợp có tính phóng xạ được ký hiệu là Lr và số nguyên tử là 103. Đồng vị bền nhất của nó là 262Lr, với chu kỳ bán rã gần 3,6 giờ. Có rất ít thông tin hóa học về nguyên tố này nhưng nó có thể hình thành ion hóa trị 3 trong dung dịch nước, và là nguyên tố nằm cuối cùng trong nhóm actini.
+
+
+== Phát hiện ==
+Lawrenci được tổng hợp đầu tiên bởi một nhóm nghiên cứu Albert Ghiorso, Torbjørn Sikkeland, Almon Larsh, Robert M. Latimer, và các cộng sự vào ngày 14 tháng 2 năm 1961, tại phòng thí nghiệm phóng xạ Lawrence (Lawrence Radiation Laboratory ngày nay gọi là phòng thí nghiệm quốc gia Lawrence Berkeley) tại đại học California, Berkeley. Các nguyên tử đầu tiên của nguyên tố lawrenci được tạo ra bằng cách bắn phát 3-milligram hỗn hợp 3 đồng vị của nguyên tố californi bằng các hạt nhân boron-10 và boron-11 trong máy gia tốc tuyến tính ion nặng (Heavy Ion Linear Accelerator-HILAC).
+Nhóm nghiên cứu Berkeley thông báo rằng đồng vị 257Lr được phát hiện với phương pháp tương tự, và khi phân rã nó giải phóng 8,6 MeV hạt anpha với chu kỳ bán rã khoảng 8 giây. Việc xác định này sau đó được sửa lại là 258Lr.
+25298Cf + 115B → 263–x103Lr → 258103Lr + 5 10n
+Nhóm nghiên cứu tại đại học California đề nghị đặt tên là lawrencium, và ký hiệu là "Lw" cho nguyên tố mới nhưng "Lw" không được thông qua, và "Lr" được chính thức chấp nhận.
+Năm 1967, các nhà nghiên cứu hạt nhân ở Dubna, Nga thông báo rằng họ không thể xác nhận một phát xạ anpha có chu kỳ bán rã 8 giây đối với 257Lr. Đồng vị này sau đó được xác định là 258Lr. Thay vào đó nhóm nghiên cứu ở Dubna thông báo rằng một đồng vị chu kỳ bán rã 45 giây là 256Lr.
+24395Am + 188O → 261–x103Lr → 256103Lr + 5 10n
+Các thí nghiệm sau đó vào năm 1969, được thực hiện bởi Travis Anselm và đồng sự đã minh họa một nguyên tố mới thuộc nhóm actini. Nguyên tố này nằm ở vị trí của lawrenci chu kỳ 8B trong bảng tuần hoàn. Năm 1971, nhóm nghiên cứu vật lý hạt nhân ở đại học California tại Berkeley đã hoàn thành thành công một loạt các thí nghiệm với mục đích đo đạc các tính chất phân rã của các đồng vị lawrenci có khối lượng từ 255 đến 260.
+Năm 1992, IUPAC Trans-fermium Working Group (TWG) chính thức công nhận các nhóm nghiên cứu vật lý hạt nhân tại Dubna và Berkeley đồng phát hiện ra lawrenci.
+
+
+== Điều chế và làm tinh khiết ==
+Trong khi các đồng vị Lawrenci nhẹ nhất (sup>252Lr đến 254Lr) và nặng nhất (266Lr) được tạo ra chỉ từ các sản phẩm phân rã anpha của đồng vị dubni (Z = 105), thì các đồng vị trung bình (255Lr đến 262Lr) có thể được tạo ra bằng phương pháp bắn phá nguyên tử actinide (americi đến einsteini) bởi các ion nhẹ (từ boron đến neon). Hai đồng vị quan trọng nhất 256Lr và 260Lr được tạo ra trong khoảng này. 256Lr có thể được tạo ra qua việc bắn phá californi-249 bằng ion boron-11 70 MeV (tạo ra lawrenci-256 và có neutron), trong khi 260Lr có thể được tạo ra bằng khi bắn phá berkeli-249 bằng oxy-18 (tạo ra lawrenci-260, 1 hạt alpha, và 3 neutron).
+Cả hai 256Lr và 260Lr có chu kỳ bán rã quá ngắn để hoàn thiện quy trình làm tinh khiết bằng phương pháp hóa học. Các thí nghiệm trước đây với 256Lr sau đó được sử dụng chiết xuất dung môi nhanh chóng bằng thenoyltrifluoroacetone (TTA) hòa tan trong methyl isobutyl ketone (MIBK) ở dạng pha hữu cơ, và với pha lỏng được đệm bằng dung dịch acetate. Các ion có điện tích khác nhau (+2, +3, or +4) sau đó sẽ tác thành những pha hữu cơ trong các điều kiệu pH khác nhau, nhưng phương pháp này không tác các actinide ba cấu tử và do đó 256Lr phản được nhận dạng qua việc nó phát ra các hạt anpha có mức năng lượng 8,24 MeV. Các phương pháp gần đây hơn cho phép rửa chọn lọc nhanh với α-HIB diễn ra trong thời gian đủ để tách chúng ra khỏi các đồng vị tồn tại lâu hơn như 260Lr. Đồng vị này có thể được loại bỏ ra khỏi các tấm bắt giữ bằng dung dịch axit clohydric 0,05 M .
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Los Alamos National Laboratory's Chemistry Division: Periodic Table – Lawrencium
+Guide to the Elements – Revised Edition, Albert Stwertka, (Oxford University Press; 1998) ISBN 0-19-508083-1
+Eric Scerri, The Periodic Table, Its Story and Its Significance, (Oxford University Press; 2007)
+
+
+== Liên kết ngoài ==
+WebElements.com – Lawrencium

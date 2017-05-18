@@ -1,0 +1,46 @@
+Kim loại chuyển tiếp là 40 nguyên tố hóa học có số nguyên tử từ 21 đến 30, 39 đến 48, 57 đến 80 và 89 đến 112. Nguyên nhân của tên này là do vị trí của chúng trong bảng tuần hoàn vì tại đó bắt đầu sự chuyển tiếp do có thêm điện tử trong quỹ đạo nguyên tử của lớp d.
+Nếu định nghĩa một cách chặt chẽ hơn thì kim loại chuyển tiếp là những nguyên tố tạo thành ít nhất là một ion với một lớp quỹ đạo (orbital) d được điền đầy một phần, tức là các nguyên tố khối d ngoại trừ scandi và kẽm.
+Ghi chú:
+* Từ Lantan đến Luteti (các nguyên tố có số nguyên tử từ 57 đến 71) là các nguyên tố thuộc nhóm Lantan.
+** Từ Actini đến Lawrenci (các nguyên tố có số nguyên tử từ 89 đến 103) là các nguyên tố thuộc nhóm Actini.
+
+
+== Cấu hình điện tử ==
+Thông thường thì các quỹ đạo lớp trong được điền đầy trước các quỹ đạo lớp ngoài. Các quỹ đạo s của những nguyên tố thuộc về khối quỹ đạo d lại có trạng thái năng lượng thấp hơn là các lớp d. Vì nguyên tử bao giờ cũng có khuynh hướng đi đến trạng thái có năng lượng thấp nhất nên các quỹ đạo s được điền đầy trước. Các trường hợp ngoại lệ là crôm và đồng, chỉ có 1 điện tử ở quỹ đạo ngoài cùng, nguyên nhân là do điện tử đẩy nhau, chia các điện tử ra trong quỹ đạo s và quỹ đạo d để dẫn đến trạng thái năng lượng thấp hơn là điền 2 điện tử vào quỹ đạo ngoài cùng ở các nguyên tử này.
+Không phải tất cả các nguyên tố khối d đều là kim loại chuyển tiếp. Scandi và kẽm không đáp ứng được định nghĩa ở phía trên. Scandi có 1 điện tử ở lớp d và 2 điện tử ở lớp s ngoài cùng. Vì ion duy nhất của Scandi (Sc3+) không có điện tử trên quỹ đạo d nên tất nhiên là ion này cũng không thể có quỹ đạo "được điền đầy một phần". Ở kẽm cũng tương tự như vậy vì ion duy nhất của kẽm, Zn2+, có một quỹ đạo d được điền đầy hoàn toàn.
+
+
+== Tính chất hóa học ==
+Các kim loại chuyển tiếp có đặc tính là có ứng suất căng, khối lượng riêng, nhiệt độ nóng chảy và nhiệt độ sôi cao. Cũng như những tính chất khác của kim loại chuyển tiếp, các tính chất này là do khả năng của các điện tử trong quỹ đạo d không có vị trí xác định trong mạng của kim loại. Các tính chất này của kim loại chuyển tiếp càng rõ khi càng có nhiều điện tử được chia sẻ giữa các hạt nhân.
+Các kim loại chuyển tiếp có 4 tính chất cơ bản:
+Tạo hợp chất có màu
+Có thể có nhiều trạng thái ôxi hóa khác nhau
+Là chất xúc tác tốt
+Tạo phức chất
+
+
+== Trạng thái ôxi hóa ==
+Nếu so sánh với các nguyên tố của phân nhóm chính nhóm II như canxi thì ion của các kim loại chuyển tiếp có thể có nhiều trạng thái ôxi hóa khác nhau. Thông thường thì canxi không mất nhiều hơn là 2 điện tử trong khi các kim loại chuyển tiếp có thể cho đến 9 điện tử. Nếu xem xét entanpi ion hóa của hai nhóm thì sẽ nhận thấy được nguyên nhân. Năng lượng cần dùng để lấy đi 2 điện tử của canxi ở quỹ đạo s ngoài cùng ở mức thấp. Ca3+ có một entanpi ion hóa lớn đến mức mà thông thường thì ion này không tồn tại. Các kim loại chuyển tiếp như vanađi do có độ chênh lệch năng lượng thấp giữa các quỹ đạo 3d và 4s nên entanpi ion hóa tăng gần như tuyến tính theo các quỹ đạo d và s. Vì thế mà các kim loại chuyển tiếp cũng tồn tại với các số ôxi hóa rất cao.
+
+Dọc theo một chu kỳ có thể nhận thấy được một số khuôn mẫu tính chất nhất định:
+Số lượng của những trạng thái ôxi hóa tăng đến mangan và sau đó giảm đi. Nguyên nhân là do các lực hút proton trong hạt nhân mạnh hơn nên khó cho điện tử hơn.
+Ở các mức ôxi hóa thấp, các nguyên tố thường tồn tại dưới dạng là ion. Trong các mức ôxi hóa cao chúng thường tạo liên kết cộng hóa trị với các nguyên tố điện tử âm khác như ôxi hay flo, thường là anion.
+Các tính chất phụ thuộc vào trạng thái ôxi hóa:
+Các mức ôxi hóa cao hơn sẽ kém bền dọc theo chu kỳ.
+Ở mức ôxi hóa cao hơn, ion là chất ôxi hóa tốt, trong khi nguyên tố ở các mức ôxi hóa thấp là chất khử.
+Bắt đầu từ đầu chu kỳ, các ion 2+ là chất khử mạnh có độ bền tăng dần.
+Ngược lại, các ion 3+ bắt đầu bằng độ bền và càng trở thành chất ôxi hóa tốt hơn.
+
+
+== Hoạt tính xúc tác ==
+Các kim loại chuyển tiếp là những chất xúc tác đồng thể và dị thể tốt, thí dụ như sắt là chất xúc tác cho quy trình Haber-Bosch. Niken và platin được dùng để hiđrô hóa anken.
+
+
+== Hợp chất màu ==
+Khi tần số bức xạ điện từ thay đổi chúng ta nhận thấy được các màu khác nhau. Chúng là kết quả từ các thành phần khác nhau của ánh sáng khi ánh sáng được phản xạ, truyền đi hay hấp thụ sau khi tiếp xúc với một vật chất. Vì cấu trúc của chúng nên các kim loại chuyển tiếp tạo thành nhiều ion và phức chất có màu khác nhau. Màu cũng thay đổi ngay tại cùng một nguyên tố, MnO4− (Mn trong mức ôxi hóa +7) là một hợp chất có màu tím, Mn2+ thì lại có màu hồng nhạt. Việc tạo phức chất có thể đóng một vai trò cơ bản trong việc tạo màu bởi vì các phối tử có ảnh hưởng lớn đến lớp 3d. Chúng hút một phần các điện tử 3d và chia các điện tử này ra thành các nhóm có năng lượng cao và các nhóm có năng lượng thấp hơn. Tia bức xạ điện từ chỉ có thể được hấp thụ khi tần số của nó tỷ lệ với hiệu số năng lượng của hai trạng thái nguyên tử. Khi ánh sáng chạm vào một nguyên tử với các quỹ đạo 3d bị đã bị chia ra thì một số điện tử sẽ được nâng lên trạng thái năng lượng cao hơn. Nếu so với các ion thông thường thì các ion của các chất phức có thể hấp thụ nhiều tần số khác nhau và vì thế mà có thể quan sát thấy nhiều màu khác nhau. Màu của một chất phức phụ thuộc vào:
+Số lượng điện tử trong các quỹ đạo d
+Cách sắp xếp các phối tử chung quanh ion
+Loại của phối tử xung quanh ion. Khi chúng có tính phối tử càng nhiều thì hiệu số năng lượng giữa hai nhóm 3d bị tách ra càng cao
+
+
+== Tham khảo ==

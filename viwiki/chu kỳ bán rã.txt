@@ -1,0 +1,396 @@
+Chu kỳ bán rã hay chu kỳ nửa phân rã là thời gian cần để một đại lượng biến đổi với thời gian theo hàm suy giảm số mũ đạt đến lượng bằng một nửa lượng ban đầu. Thời gian này thường được ký hiệu là T1/2.
+Khái niệm này xuất hiện lần đầu trong phân rã hạt nhân. Mỗi chất phóng xạ, cứ sau mỗi chu kỳ bán rã, một nửa số nguyên tử của chất ấy biến đổi thành chất khác. Về sau, khái niệm này đã được áp dụng cả trong nhiều môn học khác.
+Bảng bên cho thấy phần trăm của lượng còn lại sau các thời gian bằng số nguyên lần chu kỳ bán rã.
+
+
+== Công thức ==
+Nếu N thể hiện đại lượng biến đổi theo hàm suy giảm số mũ của thời gian t:
+
+  
+    
+      
+        N
+        (
+        t
+        )
+        =
+        
+          N
+          
+            0
+          
+        
+        
+          e
+          
+            −
+            λ
+            t
+          
+        
+        
+      
+    
+    {\displaystyle N(t)=N_{0}e^{-\lambda t}\,}
+  
+với
+
+  
+    
+      
+        
+          N
+          
+            0
+          
+        
+      
+    
+    {\displaystyle N_{0}}
+   là giá trị ban đầu của N khi t=0
+λ là một hằng số dương (hằng số phân rã).
+Chu kỳ bán rã là 
+  
+    
+      
+        
+          t
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        
+      
+    
+    {\displaystyle t_{1/2}\,}
+   thỏa mãn:
+
+  
+    
+      
+        N
+        (
+        
+          t
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        )
+        =
+        
+          N
+          
+            0
+          
+        
+        ⋅
+        
+          
+            1
+            2
+          
+        
+      
+    
+    {\displaystyle N(t_{1/2})=N_{0}\cdot {\frac {1}{2}}}
+  
+suy ra:
+
+  
+    
+      
+        
+          N
+          
+            0
+          
+        
+        ⋅
+        
+          
+            1
+            2
+          
+        
+        =
+        
+          N
+          
+            0
+          
+        
+        
+          e
+          
+            −
+            λ
+            
+              t
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+          
+        
+        
+      
+    
+    {\displaystyle N_{0}\cdot {\frac {1}{2}}=N_{0}e^{-\lambda t_{1/2}}\,}
+  
+
+  
+    
+      
+        
+          e
+          
+            −
+            λ
+            
+              t
+              
+                1
+                
+                  /
+                
+                2
+              
+            
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        
+      
+    
+    {\displaystyle e^{-\lambda t_{1/2}}={\frac {1}{2}}\,}
+  
+
+  
+    
+      
+        −
+        λ
+        
+          t
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        =
+        ln
+        ⁡
+        
+          
+            1
+            2
+          
+        
+        =
+        −
+        ln
+        ⁡
+        
+          2
+        
+        
+      
+    
+    {\displaystyle -\lambda t_{1/2}=\ln {\frac {1}{2}}=-\ln {2}\,}
+  
+
+  
+    
+      
+        
+          t
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        =
+        
+          
+            
+              ln
+              ⁡
+              2
+            
+            λ
+          
+        
+        
+      
+    
+    {\displaystyle t_{1/2}={\frac {\ln 2}{\lambda }}\,}
+  
+Chu kỳ bán rã bằng khoảng 69.3% thời gian sống trung bình.
+
+
+== Ví dụ ==
+
+
+=== Vật lý ===
+Ngoài phân rã hạt nhân, chu kỳ bán rã còn xuất hiện trong các quá trình điện học như mạch RC hay mạch RL circuit; ở đó, hằng số phân rã λ là nghịch đảo của hằng số thời gian τ của mạch. Với các mạch RC và RL đơn giản, λ bằng RC (tích điện trở và điện dung hay L/R (thương của độ tự cảm trên điện trở).
+
+
+=== Hóa học ===
+Trong phản ứng hóa học, lấy theo chuyển hóa bậc một, λ là hằng số tốc độ phản ứng.
+
+
+=== Dược học ===
+Trong dược học chu kỳ bán rã của thuốc hay chất được cơ thể hấp thụ là thời gian để lượng thuốc giảm đi một nửa so với ban đầu, nhờ vào các quá trình hấp thụ và chuyển hóa khác nhau. Đây là một hằng số quan trọng của các loại thuốc trong dược học và thường được gọi là thời gian bán thải, ký hiệu bởi t1/2.
+N=No/2t/T
+
+
+== Đa phân rã ==
+Đại lượng phân rã có thể là tích của nhiều quá trình phân rã với các hằng số phân rã khác nhau. Ví dụ, xét quá trình phân rã với hai hằng số phân rã λ1 λ2, tương tự trên, ta có chu kỳ bán rã 
+  
+    
+      
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+      
+    
+    {\displaystyle T_{1/2}}
+   tương ứng là:
+
+  
+    
+      
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        =
+        
+          
+            
+              ln
+              ⁡
+              2
+            
+            
+              
+                λ
+                
+                  1
+                
+              
+              +
+              
+                λ
+                
+                  2
+                
+              
+            
+          
+        
+        
+      
+    
+    {\displaystyle T_{1/2}={\frac {\ln 2}{\lambda _{1}+\lambda _{2}}}\,}
+  
+hay biểu diễn theo các chu kỳ bán rã riêng lẻ
+
+  
+    
+      
+        
+          T
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        =
+        
+          
+            
+              
+                t
+                
+                  1
+                
+              
+              
+                t
+                
+                  2
+                
+              
+            
+            
+              
+                t
+                
+                  1
+                
+              
+              +
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        
+      
+    
+    {\displaystyle T_{1/2}={\frac {t_{1}t_{2}}{t_{1}+t_{2}}}\,}
+  
+
+
+== Xem thêm ==
+Phân rã hạt nhân
+Thời gian bán thải
+
+
+== Tham khảo ==

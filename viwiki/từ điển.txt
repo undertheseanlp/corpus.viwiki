@@ -1,0 +1,121 @@
+Từ điển là danh sách các từ, ngữ được sắp xếp thành các từ vị chuẩn (lemma). Một từ điển thông thường cung cấp các giải nghĩa các từ ngữ đó hoặc các từ ngữ tương đương trong một hay nhiều thứ tiếng khác. Ngoài ra còn có thể có thêm thông tin về cách phát âm, các chú ý ngữ pháp, các dạng biến thể của từ, lịch sử hay từ nguyên, cách sử dụng hay các câu ví dụ, trích dẫn.
+Đối với các ngôn ngữ sử dụng ký tự Latin thì các từ có thể được sắp xếp theo thứ tự chữ cái. Đối với các ngôn ngữ tại Đông Á chịu ảnh hưởng của chữ Hán, sử dụng ký tự là đơn vị ngôn ngữ có nghĩa thì phân biệt từ điển và tự điển (tự=chữ, từ điển rộng hơn tự điển và bao hàm tự điển). Thông thường từ điển được trình bày dưới dạng sách, ngày nay từ điển còn được số hóa và cung cấp dưới dạng phần mềm máy tính hay truy cập trực tuyến trên web, trên trình nhắn tin nhanh, hay có trong các thiết bị số cá nhân như PDA, điện thoại...
+Từ điển là nơi giải thích thông tin về ngôn ngữ của con người một cách dễ hiểu và khách quan nhất. Từ điển có nhiệm vụ, nhất là từ điển bách khoa toàn thư, giúp người xem hiểu và vận dụng (sử dụng) chính xác một từ, ngữ, thuật ngữ, thành ngữ, khái niệm, phạm trù hay một vấn đề cụ thể trong đời sống xã hội con người. Từ nhiệm vụ này, từ điển đã được hình thành dưới nhiều dạng thức tồn tại khác nhau, góp phần giải quyết (hay đáp ứng) một hoặc nhiều nhu cầu khác nhau trong đời sống xã hội loài người. Đến nay, đã có các dạng thức từ điển như: từ điển bách khoa toàn thư, từ điển luật học, từ điển triết học, từ điển thành ngữ, từ điển song ngữ, từ điển thần học, từ điển tiếng lóng, từ điển ngôn ngữ phụ nữ...
+
+
+== Một số đặc tính tiêu biểu của từ điển ==
+Tính chuẩn mực
+Từ điển là nơi cung cấp thông tin hoặc giải thích một sự vật hay hiện tượng một cách ngắn gọn và chính xác nhất. Trừ phương pháp định nghĩa theo lối hàn lâm, bác học (phương pháp này sử dụng phổ biến trong từ điển triết học hay những từ điển chuyên ngành khác), phương pháp kiến giải của hầu hết từ điển là luôn dùng những ngôn từ đơn giản và phổ biến nhất trong xã hội. Thông tin trong từ điển luôn được kiểm chứng và thừa nhận rộng rãi trong cộng đồng xã hội.
+Tính tương đối
+Từ điển chứa đựng những thông tin đã có, đã được kiểm chứng - do đó, nó luôn bị thay đổi hoặc bổ sung theo thời gian, cùng với sự thăng trầm của sự vật hoặc hiện tượng mà nó đã đề cập. Từ điển luôn đi sau những thay đổi hoặc tiến bộ của xã hội loài người.
+Hiện nay đã có rất nhiều loại từ điển khác nhau. Chúng gần như hoàn toàn độc lập với nhau. Nhưng, như Ladislav Zgusta đã nhận xét ngay ở lời mở đầu công trình về từ điển học của mình (1971), một trong những đặc điểm lạ lùng nhất của từ điển học là các nhà từ điển rất ít trao đổi kinh nghiệm với nhau. Sự phân lập này có thể dẫn đến hiện tượng mâu thuẫn về nội dung của cùng một vấn đề trong các từ điển khác nhau. Như vậy, tính tương đối của tự điển có thể phát sinh khi xem xét về cùng một vấn đề ở hai từ điển khác nhau.
+Từ điển mang đậm phong cách của nhóm tác giả biên soạn ra nó. Tính tương đối của từ điển còn có nguyên nhân từ sự khác biệt của mỗi nền văn hóa - văn minh, ngôn ngữ, dân tộc, quốc gia trên thế giới. Mỗi thành tố trên có thể lý giải về cùng một hiện tượng xã hội theo nhiều quan điểm, tư tưởng hay chính kiến khác nhau. Do đó, có thể cùng một khái niệm, nhưng tùy theo mỗi nền văn hóa khác nhau, có thể có cách sử dụng (vận dụng) khác nhau.
+Như vậy, tính tương đối của từ điển có thể xuất phát từ sự chậm trễ khi cập nhật, sự phân lập của các nhà từ điển học hoặc sự khác biệt của các nền văn hóa trên Trái Đất.
+Tính đa dạng
+Thông tin trong từ điển ghi nhận tất cả sự nhìn nhận, đánh giá, sử dụng hay vận dụng một khái niệm (phạm trù) theo nhiều hướng khác nhau. Sự đa dạng này có nguồn gốc từ sự khác biệt giữa các nền văn hóa, văn minh và tiến bộ của các cộng đồng, dân tộc hoặc các quốc gia trên thế giới.
+Tính trung lập
+Tính đa dạng của từ điển bắt buộc nó phải thể hiện quan điểm trung lập trong tất cả các vấn đề mà nó đã đề cập. Bản thân sự đa dạng luôn hàm chứa nhiều mâu thuẫn hay đối lập nhau. Do đó, tính trung lập của từ điển còn nhằm tránh các xung đột có thể xảy ra giữa các nền văn hóa, văn minh trên Trái Đất. Trừ từ điển của các nước có mô hình một đảng chính trị lãnh đạo, hầu hết các từ điển khác đều tôn trọng nguyên tắc trung lập này.
+Tính lịch sử
+Trong từ điển luôn chứa đựng đầy đủ sự hình thành và phát triển của một khái niệm hay phạm trù mà nó lưu giữ. Ở đó, người xem tiếp cận được cả cách sử dụng (vận dụng) từ ngữ từ lúc sơ khai cho đến hiện tại.
+
+
+== Thể loại từ điển bách khoa toàn thư ==
+Hiện nay, từ điển bách khoa toàn thư có vô số bài viết về nhiều lĩnh vực khác nhau trong đời sống xã hội loài người. Tuy nhiên, đại thể có thể phân thành hai nhóm lớn như sau:
+Nhóm cung cấp kiến thức: Đó là những bài viết cung cấp kiến thức cho cộng đồng về những vật, nhân vật, sự kiện lịch sử, địa danh cụ thể hay một tổ chức kinh tế, chính trị có thực trong xã hội. Nhóm bài viết này luôn bám sát thực tế, chuẩn mực và có thể kiểm chứng được. Ví dụ như: từ điển, cầu, Tháp Eiffel, Sự kiện 30/4/1975, Huế, Nguyễn Đình Chiểu, Google là gì? Wikipedia là gì? Đảng cộng sản là gì? Chiến tranh Việt Nam... Nhóm bài viết này có phổ biến trong từ điển bách khoa hay từ điển bách khoa toàn thư.
+Nhóm giải thích từ, ngữ: Đây là hướng đi đầu tiên và phổ biến nhất của từ điển. Theo nhóm này, khi tiếp cận từ điển nói chung, độc giả có thể hiểu và vận dụng chính xác một từ, chữ, khái niệm, thuật ngữ hay thành ngữ đã có trong xã hội. Nhóm bài viết này có trong mọi loại từ điển khác nhau.
+Ngoài ra, trong nhóm làm nhiệm vụ giải thích này, còn có nhiều bài viết nhằm giải thích các hiện tượng xảy ra trong cơ thể con người, gia đình, trong tự nhiên hay trong đời sống kinh tế, chính trị, xã hội loài người... Ví dụ như: Sức ỳ trong tư duy là gì? Lạm phát là gì? Thủy triều là gì? Cách mạng là gì?... Nhóm bài viết này có phổ biến trong từ điển bách khoa toàn thư.
+
+
+== Trật tự sắp xếp từ vựng trong từ điển tiếng Việt ==
+1. Các mục từ (đơn vị từ vựng) được xếp theo thứ tự các chữ cái:
+a ă â b c d đ e ê g h i k l m n o ô ơ p q r s t u ư v x y
+2. Thứ tự các dấu giọng của nguyên âm đơn: không dấu, huyền, hỏi, ngã, sắc, nặng. Trật tự trên có thể được liệt kê như sau:
+a à ả ã á ạ ă ằ ẳ ẵ ắ ặ â ầ ẩ ẫ ấ ậ (ai, ài, ải...)
+e è ẻ ẽ é ẹ ê ề ể ễ ế ệ (eo, èo, ẻo...)
+i ì ỉ ĩ í ị (iêu, iều, iểu...)
+o ò ỏ õ ó ọ ô ồ ổ ỗ ố ộ ơ ờ ở ỡ ớ ợ (ôi, ồi, ổi...)
+u ù ủ ũ ú ụ ư ừ ử ữ ứ ự (ui, ùi, ủi...)
+y ỳ ỷ ỹ ý ỵ
+3. Quy luật ưu tiên trước - sau:
+3.1. Ưu tiên ngắn - dài: Từng khối chữ (tổ hợp các con chữ) được sắp xếp trước - sau theo thứ tự sau: đơn tiết xếp trước đa tiết (tính từ trái sang phải). Các khối chữ viết thường xếp trước khối chữ viết hoa.
+Theo đó, dạng ưu tiên này được thể hiện như sau: khối chữ nào có ít con chữ hơn (thường là âm tiết) được xếp trước khối chữ (có phần trùng với khối chữ có ít con chữ) có nhiều chữ hơn. Ví dụ: a xếp trước A; "ta" xếp trước "tay".
+3.2. Ưu tiên chữ trước - dấu sau:
+3.2.1. Đối với từ đơn tiết, được ưu tiên sắp xếp theo thứ tự chữ cái khác nhau đầu tiên, bất kể nó mang dấu gì. Ví dụ: "tà" xếp trước "tay"; "tai" xếp trước "tay" trong mọi trường hợp (vì i xếp trước y).
+3.2.2. Đối với từ đa tiết, căn cứ vào thứ tự của từng âm tiết từ trái sang phải để sắp xếp, sau mới căn cứ vào thanh điệu. Ví dụ: "ba ba" xếp trước "ba gác"; "ba ba" xếp trước "bà cô" (vì "ba" xếp trước "bà").
+3.2.3. Đối với những hình thức ghi cách phát âm phổ biến của mục từ vay mượn tiếng nước ngoài kiểu như ba-ga, a-xít..., thì dấu gạch ngang xem như khoảng trắng và xếp bình thường như một từ đa tiết. Ví dụ: "a tòng" xếp trước "a-xít".
+Khi phiên âm các đơn vị từ vựng nước ngoài, về nguyên tắc, dấu gạch ngang (-) được quy ước như là khoảng trắng, nhưng theo luận lý thì nó vẫn phải xếp sau đơn vị từ vựng có cùng khối chữ nhưng cách nhau bằng khoảng trắng thực sự. Ví dụ: "a lô" xếp trước "a-lô".
+3.3. Ưu tiên ký hiệu & số: Các ký hiệu (symbol) và ký số (number) thì xếp trước ký tự (character). Ví dụ:!, #, $, %, &, @..., 0, 1, 2, 3,...9 luôn luôn đứng trước a, b, c; B1 xếp trước B2 và ba, v.v.
+Tóm lại, thứ tự sắp xếp ưu tiên là: khối chữ (nghĩa trọn vẹn của khối chữ) xếp trước, sau đến các ký hiệu nằm ngoài khối chữ (trước và sau khối chữ), tiếp đến nội bộ khối chữ (các dấu gạch ngang, dấu phẩy, dấu ba chấm...).
+
+
+== Từ điển trực tuyến ==
+Từ điển trực tuyến là một website cho phép người dùng tra cứu các từ hoặc cụm từ theo nhiều ngôn ngữ khác nhau.
+Ưu điểm
+Cho phép truy cập trực tuyến, mọi lúc, mọi nơi
+Phát hành miễn phí, tất cả mọi người đều có thể sử dụng.
+Thường xuyên được cập nhật từ mới.
+Sản phẩm của cộng đồng: bạn có thể đóng góp, có thể sửa đổi.
+Tra cứu đa ngôn ngữ: Anh - Pháp - Nhật - Hàn Quốc - Việt...
+Nhược điểm
+Không truy cập được nếu không có Internet
+
+
+== Danh sách các từ điển chính ==
+
+
+=== Tiếng Anh ===
+
+Oxford English Dictionary (descriptive)
+
+Concise Oxford Dictionary
+New Oxford Dictionary of English
+New Oxford American Dictionary
+Canadian Oxford Dictionary
+The American Heritage Dictionary of the English Language
+ITP Nelson Canadian Dictionary
+Webster's New Universal Unabridged Dictionary
+A Dictionary of the English Language của Samuel Johnson (prescriptive)
+Noah Webster's An American Dictionary of the English Language (prescriptive)
+Webster's Third New International Dictionary (descriptive)
+The Century Dictionary
+Brewer's Dictionary of Phrase and Fable
+Macquarie Dictionary, The, từ điển tiếng Anh tại Úc
+Chambers Dictionary
+Collins COBUILD
+Collins English Dictionary
+Gage Canadian Dictionary
+Longman Dictionary of Contemporary English
+Black's Law Dictionary, từ điển thuật ngữ luật
+Law Dictionary - có các thuật ngữ ngành luật lấy từ Bouvier Law Dictionary
+W3Dictionary - tích hợp từ một số từ điển phổ thông và có độ tin cậy để tra cứu trực tuyến
+Dean's Law Dictionary - phát sinh bằng cách dùng các thuật toán thông minh nhân tạo với hơn 185.000 mục từ và 300.000 câu ví dụ
+Hello Minasan Dictionary - Từ điển phổ thông có khả năng lưu trử trạng thái và ghi chú học tập giúp người dùng xem lại
+Webster's New World Dictionary
+tu dien anh viet
+
+
+=== Tiếng Pháp ===
+Le dictionnaire de l'Académie française (prescriptive)
+Dictionnaire alphabétique et analogique de la langue française ("Le Robert") (descriptive)
+Petit Robert (thể rút gọn)
+
+Le Trésor de la Langue Française Informatisé (TLFi) http://atilf.atilf.fr/tlf.htm (từ điển trực tuyến miễn phí)
+Dictionnaire de la langue française (Littré)
+Lexis, Dictionnaire Larousse de la langue française
+Từ điển Larousse nhỏ (Le Petit Larousse hay Le Nouveau Petit Larousse Illustré)
+
+
+=== Tiếng Trung ===
+Nhĩ Nhã (爾雅), tự điển tiếng Trung Quốc cổ nhất còn tồn tại
+Thuyết văn giải tự (說文解字), tự điển tiếng Trung Quốc đầu tiên
+Khang Hi tự điển (康熙字典), tự điển thời nhà Thanh
+Vận Thư, sắp xếp các từ theo âm vận
+Tân Hoa tự điển (新華字典), tự điển bán chạy nhất thế giới
+
+
+=== Tiếng Việt ===
+Từ điển tiếng Việt, Nhà xuất bản Giáo dục
+Wiktionary tiếng Việt, từ điển mở trực tuyến
+
+
+== Tham khảo ==

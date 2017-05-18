@@ -1,0 +1,4 @@
+Chu kỳ nguyên tố 2 là hàng thứ 2 trong bảng tuần hoàn (tiêu chuẩn), có tổng cộng 8 nguyên tố: 2 có electron ngoài cùng lớp 2s và 6 nguyên tố còn lại lớp 2p.
+
+
+== Tham khảo ==

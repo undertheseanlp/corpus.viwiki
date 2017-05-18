@@ -1,0 +1,402 @@
+Americi là một nguyên tố tổng hợp có ký hiệu Am và số nguyên tử 95. Một nguyên tố kim loại phóng xạ, americi là một actinide đã được Glenn T. Seaborg tách vào năm 1944, ông đã bắn phá plutoni bằng các nơtron và là nguyên tố siêu Urani thứ tư được phát hiện. Nó được đặt tên theo Châu Mỹ (America) tương tự như Europi. Americi được sử dụng rộng rãi trong các máy dò khói buồng ion hóa thương mại, cũng như trong các nguồn nơtron và đồng hồ đo công nghiệp.
+Americi là một kim loại phóng xạ tương đối mềm có màu bạc. Các đồng vị phổ biến nhất của nó là 241Am và 243Am. Ở dạng hợp chất, nó thường được cho là có trạng thái ôxi hóa +3, đặc biệt trong các dung dịch. Có 7 trạng thái ôxi hóa khác đã được phát hiện, thay đổi từ +2 đến +7 và có thể nhận dạng được thông qua các tính chất hấp thụ quang phổ của chúng. Ô mạng tinh thể của americi rắn các của các hợp chất của nó chứa các khuyết tật bên trong, chúng được sinh ra bởi các hạt alpha tự phóng xạ và tích tụ theo thời gian; điều này tạo ra một khoảng trống của một số tính chất vật liệu.
+
+
+== Tổng hợp và chiết tách ==
+
+
+=== Tổng hợp hạt nhân đồng vị ===
+
+Americi đã được tạo ra với số lượng nhỏ trong các lò phản ứng hạt nhân trong vài thập niên, và hiện đã có vài kilogram các đồng vị 241Am và 243Am. Tuy nhiên, kể từ khi nó được chào bán đầu tiên năm 1962, giá của nó vào khoảng 1.500 USD một gram 241Am, vẫn hầy như không đổi mặc dù quy trình chiết tách rất phức tạp. Đồng vị nặng hơn là 243Am đã được sản xuất với sản lượng nhỏ hơn nhiều do nó rất khó tách nên giá của nó cao hơn vào khoảng 100–160 USD/mg.
+Americi không được tổng hợp trực tiếp từ urani – một nguyên liệu phổ biến trong các lò phản ứng hạt nhân - nhưng nó được tổng hợp từ đồng vị plutoni 239Pu. Đồng vị Pu cần được tạo ra trước theo phản ứng sau:
+
+  
+    
+      
+        
+          
+            
+            
+               
+              92
+            
+            
+              238
+            
+          
+          U
+           
+          
+            
+              →
+              
+                (
+                n
+                ,
+                γ
+                )
+              
+            
+          
+          
+             
+            
+               
+              92
+            
+            
+              239
+            
+          
+          U
+           
+          
+            
+              →
+              
+                
+                  23.5
+                   
+                  m
+                  i
+                  n
+                
+              
+              
+                
+                  β
+                  
+                    −
+                  
+                
+              
+            
+          
+          
+             
+            
+               
+              93
+            
+            
+              239
+            
+          
+          N
+          p
+           
+          
+            
+              →
+              
+                
+                  2.3565
+                   
+                  d
+                
+              
+              
+                
+                  β
+                  
+                    −
+                  
+                
+              
+            
+          
+          
+             
+            
+               
+              94
+            
+            
+              239
+            
+          
+          P
+          u
+        
+      
+    
+    {\displaystyle \mathrm {^{238}_{\ 92}U\ {\xrightarrow {(n,\gamma )}}\ _{\ 92}^{239}U\ {\xrightarrow[{23.5\ min}]{\beta ^{-}}}\ _{\ 93}^{239}Np\ {\xrightarrow[{2.3565\ d}]{\beta ^{-}}}\ _{\ 94}^{239}Pu} }
+  
+Việc bắt giữa 2 nơtron bằng 239Pu (a so-called (n,γ) reaction), theo sau là phân rã β, tạo ra 241Am:
+
+  
+    
+      
+        
+          
+            
+            
+               
+              94
+            
+            
+              239
+            
+          
+          P
+          u
+           
+          
+            
+              →
+              
+                2
+                (
+                n
+                ,
+                γ
+                )
+              
+            
+          
+          
+             
+            
+               
+              94
+            
+            
+              241
+            
+          
+          P
+          u
+           
+          
+            
+              →
+              
+                
+                  14.35
+                   
+                  y
+                  r
+                
+              
+              
+                
+                  β
+                  
+                    −
+                  
+                
+              
+            
+          
+          
+             
+            
+               
+              95
+            
+            
+              241
+            
+          
+          A
+          m
+        
+      
+    
+    {\displaystyle \mathrm {^{239}_{\ 94}Pu\ {\xrightarrow {2(n,\gamma )}}\ _{\ 94}^{241}Pu\ {\xrightarrow[{14.35\ yr}]{\beta ^{-}}}\ _{\ 95}^{241}Am} }
+  
+Plutoni có mặt trong các nguyên liệu hạt nhân đã qua sử dụng khoảng 12% 241Pu. Do nó liên tục phân hạch thành 241Am, 241Pu có thể được tách ra và có thể được sử dụng để tạo ra 241Am. Tuy nhiên, quá trình này diễn ra khá chậm: phân nửa lượng 241Pu ban đầu phân rã thành 241Am sau khoảng 15 năm, và một lượng 241Am sẽ tạo ra tối đa sau 70 năm.
+241Am được tạo ra có thể được sử dụng để tiếp tục tạo ra các đồng vị americi nặng hơn bằng cách bắt nơtron tiếp theo trong lò phản ứng hạt nhân. Trong lò phản ứng nước nhẹ (LWR), 79% 241Am chuyển thành 242Am và 10% thành đồng phân hạt nhân của nó 242mAm:
+79%:   
+  
+    
+      
+        
+          
+            
+            
+               
+              95
+            
+            
+              241
+            
+          
+          A
+          m
+           
+          
+            
+              →
+              
+                (
+                n
+                ,
+                γ
+                )
+              
+            
+          
+          
+             
+            
+               
+              95
+            
+            
+              242
+            
+          
+          A
+          m
+        
+      
+    
+    {\displaystyle \mathrm {^{241}_{\ 95}Am\ {\xrightarrow {(n,\gamma )}}\ _{\ 95}^{242}Am} }
+  
+10%:   
+  
+    
+      
+        
+          
+            
+            
+               
+              95
+            
+            
+              241
+            
+          
+          A
+          m
+           
+          
+            
+              →
+              
+                (
+                n
+                ,
+                γ
+                )
+              
+            
+          
+          
+             
+            
+               
+               
+               
+              95
+            
+            
+              242
+              m
+            
+          
+          A
+          m
+        
+      
+    
+    {\displaystyle \mathrm {^{241}_{\ 95}Am\ {\xrightarrow {(n,\gamma )}}\ _{\ \ \ 95}^{242m}Am} }
+  
+Americi-242 có chu kỳ bán rã chỉ 16 giờ, tức sau đó nó tiếp tục biến đổi thành 243Am, một đồng vị không có ích. Đồng vị sau được tạo ra thay vì trong quá trình mà 239Pu bắt 4 nơtron trong luồng nơtron cao:
+
+  
+    
+      
+        
+          
+            
+            
+               
+              94
+            
+            
+              239
+            
+          
+          P
+          u
+           
+          
+            
+              →
+              
+                4
+                (
+                n
+                ,
+                γ
+                )
+              
+            
+          
+          
+             
+            
+               
+              94
+            
+            
+              243
+            
+          
+          P
+          u
+           
+          
+            
+              →
+              
+                
+                  4.956
+                   
+                  h
+                
+              
+              
+                
+                  β
+                  
+                    −
+                  
+                
+              
+            
+          
+          
+             
+            
+               
+              95
+            
+            
+              243
+            
+          
+          A
+          m
+        
+      
+    
+    {\displaystyle \mathrm {^{239}_{\ 94}Pu\ {\xrightarrow {4(n,\gamma )}}\ _{\ 94}^{243}Pu\ {\xrightarrow[{4.956\ h}]{\beta ^{-}}}\ _{\ 95}^{243}Am} }
+  
+
+
+== Xuất hiện ==
+
+Đồng vị phổ biến nhất và tồn tại lâu nhất của americi, 241Am và 243Am, có chu kỳ bán rã 432,2 và 7.370 năm. Tuy vậy, bất kỳ primordial americi (americi có mặt trên trái đất khi chúng hình thành) hiện đã phân rã hết.
+Americi hiện hữu tập trung ở những khu vực thử các vũ khí hạt nhân trong khí quyển đã diễn ra trong khoảng thời gian 1945 đến 1980, cũng như tại các vị trí xảy ea sự cố hạt nhân như thảm họa Chernobyl. Ví dụ như, khi phân tích các mảnh vụn ở vị trí thử bom hydro đầu tiên của Mỹ Ivy Mike, (1 tháng 11 năm 1952, Enewetak Atoll), thì có nồng độ cao các nguyên tố nhóm actini bao gồm cả americi; nhưng do bí mật quân sự, kết quả này chỉ được công bố từ năm 1956. Trinitit, mảnh vỡ thủy tin trên hoang mạc gần Alamogordo, New Mexico, sau vụ thử Trinity gốc plutoni vào 16 tháng 7 năm 1945, chứa vết của americi-241. Americi ở các độ cao cũng được phát hiện từ vị trí rơi máy bay ném bom Boeing B-52 của mỹ, máy bay này đã chở 4 quả bom hydro rơi tại Greenland năm 1968.
+Ở những khi vực khác, lượng phóng xạ trong bình americi trong đất mặt khoảng 0,01 picocuries/g (0.37 mBq/g). Các hợp chất americi trong khí quyển có khả năng tan kém trong các dung môi phổ biến và hầu hết tồn đọng trong đất. Phân tích đất cát cho giá trị americi cao hơn 1.900 lần hàm lượng tồn tại trong nước lỗ rỗng; và thậm chí có tỉ lệ cao hơn khi đo đạc trong đất bột.
+Americi được tạo ra chủ yếu từ quá trình nhân tạo rất ít chủ yếu dùng cho nghiên cứu. Một tấn nhiên liệu hạt nhân đã qua sử dụng chứa khoảng 100 gram của nhiều đồng vị americi, chủ yếu là 241Am và 243Am. Hoạt tính phóng xạ dài của nó là không mong đợi trong việc đổ thải, và do đó, ngoài americi cùng với các actini tồn tại lâu dài khác phải được trung hòa. Quá trình xử lý này có thể trải qua nhiều bước, trước tiên americi phải được tách ra và sau đó được chuyên hóa bằng cách bắn phá neutron trong các lò phản ứng đặc biệt tạo thành các hạt nhân có thời gian tồn tại ngắn. Quá trình này được gọi là nuclear transmutation, nhưng nó vẫn đang được phát triển cho americi. Các nguyên tố transurani từ americi đến fermi xuất hiện một cách tự nhiên trong các lò phản ứng phân hạch tự nhiên trong tự nhiên ở Oklo, nhưng không còn làm như vậy nữa.
+
+
+== Chú thích ==
+
+
+== Tham khảo ==

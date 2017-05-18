@@ -1,0 +1,40 @@
+Số đăng ký CAS là sự xác định bằng chuỗi số định danh duy nhất cho các nguyên tố hóa học, các hợp chất hóa học, các polyme, các chuỗi sinh học, các hỗn hợp và các hợp kim. Chúng còn được nói đến như là các số CAS hay các CAS RN.
+Dịch vụ tóm tắt hóa chất (CAS - viết tắt của Chemical Abstracts Service trong tiếng Anh), một bộ phận của Hiệp hội hóa chất Hoa Kỳ, gắn các chuỗi số định danh này cho mọi hóa chất đã được miêu tả trong các loại sách vở. Mục đích của nó là làm cho việc tìm kiếm trong các cơ sở dữ liệu thuận tiện hơn, do các hóa chất thông thường có rất nhiều tên gọi khác nhau. Gần như mọi cơ sở dữ liệu về hóa chất ngày nay đều cho phép tìm kiếm theo số CAS.
+Vào thời điểm ngày 11 tháng 1 năm 2008 đã có tổng cộng 33.552.206 hóa chất và 59.569.924 chuỗi có trong đăng ký CAS. Chuỗi số mới nhất được gán vào thời điểm này là 960354-22-7 — số lượng hiện tại được công bố ở đây. Khoảng 4.000 số mới được thêm vào mỗi ngày.
+CAS cũng duy trì và bán cơ sở dữ liệu về các hóa chất này, được biết đến như là đăng ký CAS.
+
+
+== Định dạng ==
+Số đăng ký CAS được tách bởi các dấu gạch ngang thành ba phần, phần đầu tiên có thể chứa tới 6 chữ số, phần thứ hai chứa 2 chữ số, và phần thứ ba chứa một số duy nhất như là số kiểm tra. Các số được gán theo trật tự tăng dần và chúng không có bất kỳ một ý nghĩa nội tại nào. Số kiểm tra được tính theo quy tắc sau: Đọc theo chiều từ phải sang trái thì trọng số của chúng tăng dần theo trật tự 1, 2, 3, 4 v.v. Lấy tổng số của tích các số tương ứng với trọng số của nó, sau đó lấy số dư trong phép chia cho 10. Ví dụ, số CAS của nước là 7732-18-5, do số kiểm tra được tính như sau (8×1 + 1×2 + 2×3 + 3×4 + 7×5 + 7×6) mod 10 = 105 mod 10 = 5 (mod là phép tính lấy phần dư).
+
+
+== Các đồng phân, các enzym và các hỗn hợp ==
+Các đồng phân khác nhau của phân tử nhận được các số CAS khác nhau: D-glucoza có số CAS là 50-99-7, L-glucoza có số CAS 921-60-8, α-D-glucoza có số CAS 26655-34-5 v.v. Đôi khi, toàn bộ các lớp của các phân tử có một số CAS duy nhất: ví dụ, nhóm các rượu dehydrogenas có số CAS duy nhất là 9031-72-5. Một ví dụ về hỗn hợp có số CAS là tinh dầu mù tạc (8007-40-7).
+
+
+== Tìm kiếm ==
+Khi sử dụng các số CAS để tìm kiếm trong cơ sở dữ liệu, nó là có ích khi tính đến số của các hợp chất có liên quan gần. Ví dụ, để tìm kiếm thông tin về cocain (CAS 50-36-2), người ta cần tính đến cocain hiđrôclorua (CAS 53-21-4), do nó là dạng phổ biến nhất của cocain khi sử dụng như là một dược phẩm.
+
+
+== Xem thêm ==
+Số EC (Số của Ủy ban Enzym)
+Số EINECS hay số ELINCS
+Số định danh hóa chất quốc tế (InChI)
+Số NSC
+PubChem
+Số SMILES
+Số UN
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Mô tả đăng ký CAS, của dịch vụ tóm tắt hóa chất
+Để tìm số CAS của hợp chất đã biết trước tên gọi, công thức hóa học hay cấu trúc, các nguồn miễn phí sau đây có thể hữu dụng:
+PubChem
+NIH ChemIDplus
+NIST Chemistry WebBook
+NCI Database Browser
+Chemfinder
+Hệ thống thông tin về các hóa chất của châu Âu (ESIS) - có ích để tìm kiếm các số định danh hóa chất của Ủy ban châu Âu theo số EINECS

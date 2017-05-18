@@ -1,0 +1,98 @@
+In offset là một kỹ thuật in ấn trong đó, các hình ảnh dính mực in được ép lên các tấm cao su (còn gọi là các tấm offset) trước rồi mới ép từ miếng cao su này lên giấy. Khi sử dụng với in thạch bản, kỹ thuật này tránh được việc làm nước bị dính lên giấy theo mực in.
+Các ưu điểm của kỹ thuật in này là:
+Chất lượng hình ảnh cao – nét và sạch hơn in trực tiếp từ bản in lên giấy vì miếng cao su áp đều lên bề mặt cần in.
+Khả năng ứng dụng in ấn lên nhiều bề mặt, kể cả bề mặt không phẳng (như gỗ, vải, kim loại, da, giấy thô nhám).
+Việc chế tạo các bản in dễ dàng hơn.
+Các bản in có tuổi thọ lâu hơn – vì không phải trực tiếp tiếp xúc với bề mặt cần in.
+In offset ngày nay đã trở thành kỹ thuật in phổ biến nhất trong in ấn thương mại. Tuy vậy trong các in ấn dành cho thú vui cá nhân, người ta vẫn có thể tạo ra một số ít sách với chất lượng cao, sử dụng cách in trực tiếp. Một số người vẫn thích các đường nét chìm nổi để lại trên giấy từ việc in trực tiếp. Thậm chí một số sách kiểu này còn được in bằng các bản in được xếp từ các con chữ chì, đây là công nghệ in typo, một công nghệ khá cổ.
+
+
+== Lịch sử ==
+
+Máy in dùng kỹ thuật offset và thạch bản đầu tiên ra đời ở Anh khoảng năm 1875 và đã được thiết kế để in lên kim loại. Trống offset làm bằng giấy các tông truyền hình ảnh cần in từ bản in thạch bản sang bề mặt kim loại. Khoảng 5 năm sau, giấy các tông được thay bằng cao su.
+Người đầu tiên áp dụng kỹ thuật in offset cho in ấn trên giấy có thể là Ira Washington Rubel năm 1903. Ông đã tình cờ nhận thấy mỗi khi một tờ giấy không được đưa vào máy in thạch bản của ông một cách đúng nhịp, bản in thạch bản in lên trống in được bọc bằng cao su, và tờ giấy cho vào tiếp theo bị dính 2 hình: bản in thạch bản ở mặt trên và bản in do dính từ trống in ở mặt dưới. Rubel cũng nhận thấy hình ảnh in từ trống in cao su nét và sạch hơn vì miếng cao su mềm áp đều lên giấy hơn là bản in bằng đá cứng. Ông đã quyết định in thông qua các tấm bằng cao su. Độc lập với Rubel, hai anh em Charles Harris và Albert Harris cũng đã phát hiện ra điều này và chế tạo máy in offset cho Công ty In ấn Tự động Harris.
+Các thiết kế của Harris, phát triển từ máy in gồm các trống quay, rất giống hình vẽ trong bài. Nó gồm một trống bản in tiếp xúc chặt với các cuộn mực in và nước. Một trống cao su tiếp xúc ngay bên dưới trống xếp chữ. Trống in ở bên dưới có nhiệm vụ ấn chặt tờ giấy vào trống cao su để truyền hình ảnh. Ngày nay, cơ chế cơ bản này vẫn được dùng, nhưng nhiều cải tiến đã được thực hiện, như thêm in hai mặt hay nạp giấy bằng cuộn giấy (thay vì các miếng giấy).
+Trong những năm 1950, in offset trở thành kỹ thuật in phổ biến nhất cho in ấn thương mại, sau khi nhiều cải tiến đã được thực hiện cho bản xếp chữ, mực in và giấy, tối ưu hóa tốc độ in và tuổi thọ các bản xếp chữ. Ngày nay, đa số in ấn, gồm cả in báo chí, sử dụng kỹ thuật này.
+
+
+== Công nghệ ==
+
+
+=== Đặc điểm in offset ===
+
+
+=== Cơ sở in offset ===
+
+
+=== Quá trình chế bản ===
+
+
+==== Các công nghệ chế bản ====
+Trong chế bản in offset, người ta hay dùng film hoặc giấy can để chế tạo bản in (print plate)
+
+
+==== Các dạng công nghệ dùng trong chế bản ====
+1. Công nghệ CTF
+Công nghệ CTF là công nghệ chế bản số trong đó dữ liệu số (Digital) từ máy tính được chuyển thành dữ liệu tương tự (Anolog) trên phim thông qua các máy ghi phim, phim được đem bình trước khi phơi để truyền hình ảnh lên bản in. Quy trình tổng quát của công nghệ CTF được mô tả theo sơ đồ sau:
+1.1. Công nghệ CTF có sử dụng giấy scan 1.2. Công nghệ CTF ghi phim theo từng trang 1.3. Công nghệ CTF ghi phim khổ bản in
+2. Computer to plate "Computer to plate" là cụm từ mô tả công nghệ chế bản, trong đó dữ liệu số từ máy tính được ghi trực tiếp lên bản in mà không qua khâu trung gian là phim. Bản in sau khi được ghi hình có thể được hiện ngay trên hệ thống máy ghi bản hoặc được đưa tới hiện ở máy hiện bản chuyên dụng. Sau đó, bản in được lắp lên máy in theo cách thông thường để tiến hành công việc in.
+3. Công nghệ Computer to Press (CTPress)
+3.1 Công nghệ Computer to press/direct imaging
+3.2. Công nghệ Computer to Print
+
+
+=== Nguyên lý in offset ===
+In offset là phương pháp in phẳng, các thông tin hình ảnh được thể hiện trên bản in có tính quang hoá để tạo ra các phần tử in bắt mực và phần tử không in thì bắt nước. Ngoài ra hình ảnh trên khuôn in phải là hình ảnh thuận, tức là cùng phương với tờ in sẽ được in ra
+
+
+=== Cấu tạo máy in offset ===
+Một máy in offset tờ rời gồm có các bộ phận chủ yếu như: một bộ phận cung cấp giấy, một hay nhiều đơn vị in, các thiết bị trung chuyển để đưa giấy qua máy in, một bộ phận ra giấy và các bộ phận bổ trợ thêm như bàn điểu khiển máy in.
+Thông thường một đơn vị in trong máy in offset tờ rời có ba trục chính cùng hệ thống làm ẩm và hệ thống chà mực lên khuôn in:
+Ống bản: là một trục ống bằng kim loại, trên khuôn in phần tử in bắt mực còn phần tử không in bắt nước.
+Ống cao su: là một trục ống mang tấm cao su offset, có cấu tạo gồm một lớp vải bọc với cao su tổng hợp để truyền hình ảnh từ khuôn in lên bề mặt vật liệu in.
+Ống ép: là một trục khi quay luôn tiếp xúc với ống cao su, làm nhiệm vụ chuyển giấy và các vật liệu in khác.
+Hệ thống cấp ẩm: là hệ thống các lô làm ẩm bằng dung dịch làm ẩm có chứa các chất phụ gia như: axit, gôm arabic, cồn isopropyl hay các tác nhân làm ẩm khác.
+Hệ thống cấp mực: là hệ thống các lô chà mực cho bản in. Các thành phần quan trọng khác. Ngoài các đơn vị in ra, trong máy in offset một màu hay nhiều màu còn bao gồm các bộ phận sau:
+Bộ phận nạp giấy: làm nhiệm vụ hút giấy và các vật liệu in khác từ bàn cung cấp giấy lên và đưa xuống đơn vị in đầu tiên.
+Các bộ phận trung chuyển: (thông thường là các trục ống có nhíp kẹp giấy) có khả năng vận chuyển giấy đi qua máy in.
+Bộ phận ra giấy: là bộ phận nhận giấy ra và vỗ giấy đều thành cây giấy trên bàn ra giấy
+
+
+=== Hệ thống làm ẩm ===
+Hệ thống làm ẩm trong in offset tờ rời cung cấp dung dịch làm ẩm gốc nước, hoặc dung dịch máng nước lên bề mặt khuôn in trước khi nó được chà mực. Dung dịch làm ẩm giữ cho phần tử không in trên khuôn được ẩm ướt do đó nó không bắt mực. Nó được chà lên toàn bộ bản in.
+Tuy nhiên, các phần tử không in bắt nước và đẩy mực trên khuôn, chúng được tạo ra theo cách hút bám một lớp mỏng gôm arabic trong quá trình chế tạo khuôn in, đó là hydrophilic, hay chất ưa nước, trong khi các phần tử in là hydropho­bic, hay chất có khuynh hướng đẩy nước. Thực ra nước bản thân nó có thể được sử dụng để làm ẩm bản. Một vài máy in offset tờ rời có thể chọn sử dụng một mình nước để in các ấn phẩm số lượng ít. Tuy nhiên, lớp đẩy mực này dần dần lột ra khỏi khi khuôn in tiếp tục sử dụng trên máy. Các hoá chất trong dung dịch làm ẩm bổ sung thêm độ đẩy mực cho lớp này.
+
+
+=== Hệ thống truyền mực ===
+Hệ thống cung cấp mực in trong máy in offset tờ rời có 4 chức năng cơ bản sau:
+Dẫn mực từ lô máng mực đến khuông in. Tách lớp mực dày ra thành lớp mực mỏng đồng đều trên các lô truyền. Chà mực lên các phần tử in trên bản. Loại bỏ mực in tái lập trên lô chà từ các công việc in trước đó.
+Cấu tạo của bộ phận cấp mực  Máng mực: chứa mực in cần cung cấp trong quá trình in. Lô chấm: là một lô chuyền luân phiên tiếp xúc giữa lô máng mực và lô đầu tiên của hệ thống cấp mực, thông thường là lô tán trong hệ thống cấp mực. Lô tán và lô sàn: là các lô chuyển động ăn khớp bằng bánh răng và dây sên không chỉ quay tròn được mà còn chuyển động qua lại theo phương ngang với trục ống từ trái qua phải Máng mực, hai thành bên hông máng mực, dao gạt và lô máng mực và làm nhiệm vụ chà dàn mỏng lớp mực in lên các lô và xoá các lớp mực in trước đó trên lô chà. [[ Các lô trung gian:]] là các lô chuyển động được dựa vào sự tiếp xúc với các lô chuyển động khác có nối kết với bộ phận truyền chuyển động, các lô trung gian nằm ở giữa lô chuyền và lô chà, làm nhiệm vụ và định lượng mực cấp cho quá trình in; thường được gọi là lô định lượng – khi chúng tiếp xúc với hai lô khác hoặc được gọi là lô dằn – khi chúng chà tiếp xúc với một lô khác; ví dụ: như lô tán. Các lô chà bản in: gồm 3-4 lô chà bản thường có đường kính khác nhau, tiếp xúc và chà mực lên bản in.
+
+
+=== Hệ thống ép in ===
+
+
+=== Các bước làm trong in offset ===
+Lắp khuôn in lên bộ phận lắp bản
+Đưa mực vào máng chứa, cho dàn đều lên hệ thống lô truyền mực
+Đưa giấy-vật liệu in vào nơi chứa của máy, căn chỉnh đường đi của giấy
+Đưa hệ thống nhận sản phẩm, gia công tờ in theo máy
+
+
+== Xem thêm ==
+In ấn
+In màu
+
+
+== Tham khảo ==
+(bằng tiếng Anh)
+"Offset Printing". Encyclopædia Britannica. Truy cập March 22, 2004, from Encyclopædia Britannica Premium Service.[1]
+"Graphic Communications Technology". The History of Lithography. University of Houston.
+History of Lithography. International Paper.
+HistoryWired: Rubel Offset Lithographic Press. Smithsonian National Museum of American History.
+
+
+== Liên kết ngoài ==
+(bằng tiếng Anh)
+How Offset Printing Works
+(tiếng Việt)

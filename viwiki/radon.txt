@@ -1,0 +1,47 @@
+Radon là một nguyên tố hóa học thuộc nhóm khí trơ trong bảng tuần hoàn có ký hiệu Rn và có số nguyên tử là 86. Radon là khí hiếm phóng xạ không màu, không mùi, là sản phẩm phân rã của radium. Nó là một trong những chất đặc nhất tồn tại ở dạng khí trong các điều kiện bình thường và được xem là có hại cho sức khỏe do tính phóng xạ của nó. Đồng vị bền nhất của nó là 222Rn, có chu kỳ bán rã 3,8 ngày. Do cường độ phóng xạ của nó cao nên nó chưa được nghiên cứu nhiều, chỉ có vài hợp chất được biết đến.
+Radon được tạo ra trong chuỗi phân rã phóng xạ bình thường của urani. Urani đã có trên Trái Đất từ lúc Trái Đất được hình thành và các đồng vị của urani có chu kỳ bán rã rất lâu (4,5 tỷ năm). Urani, radi, và radon sẽ tiếp tục có mặt trong vài triệu năm nữa với cùng nồng độ so với hiện tại.
+Khí radon có nguồn gốc tự nhiên có thể tích tụ trong các tòa nhà, đặc biệt trong các khu vực như gác xép và tầng hầm. Nó cũng có thể được tìm thấy trong một số suối nước nóng. Bằng chứng dịch tễ học cho thấy mối quan hệ rõ ràng giữa hít thở nồng độ radon cao với tỷ lệ mắc ung thư phổi. Do đó, radon được xem là chất gây ô nhiễm đáng kể ảnh hưởng đến chất lượng không khí trong nhà trên toàn cầu. Theo EPA, radon là chất gây ung thư phổi đứng thứ 2 sau tác hại của thuốc lá, đã gây nên 21.000 ca tử vong do ung thư phổi hàng năm ở Hoa Kỳ.
+
+
+== Tính chất ==
+
+
+=== Tính chất vật lý ===
+Radon là khí không màu, không mùi và không vị, và do đó không thể phát hiện chỉ bằng giác quan con người. Ở điều kiện tiêu chuẩn, radon ở dạng khí đơn nguyên tử với mật độ 9,73 kg/m3, cao khoảng 8 lần mật độ của khí quyển Trái Đất trên bề mặt đất, 1,217 kg/m3, và là một trong những khí nặng nhất ở nhiệt độ phòng và là khí hiếm nặng nhất, kể cả ununocti. Ở điều kiện tiêu chuẩn, radon là chất khí không màu nhưng khi nó bị làm lạnh bên dưới điểm đông của nó 202 K (−71 °C; −96 °F), nó là chất lân quang sáng và từ từ chuyển sang màu vàng khi nhiệt độ xuống thấp hơn nữa, và chuyển sang màu đỏ-cam khi hóa lỏng ở nhiệt độ dưới 93 K (−180,1 °C; −292,3 °F). Ở trạng thái ngưng tụ, radon cũng sôi do các bức xạ cao mà nó tạo ra.
+
+
+=== Tính chất hóa học ===
+
+Radon là nguyên tố hóa trị-0 thuộc nhóm khí hiếm, nên nó trơ với hầu hết các phản ứng hóa học như cháy, do lớp ngoài cùng chứa đủ 8 electron. Đặc điểm này làm cho nó có năng lượng ổn định, tối thiểu mà theo đó các electron ngoài cùng liên kết với nhau một cách chặt chẽ. Cần hơn 248 kcal/mol để tách một electronn ra khỏi lớp ngoài cùng (hay còn gọi là năng lượng ion hóa cấp 1). Tuy nhiên, do xu hướng tuần hoàn, radon có ái lực electron thấp hơn các nguyên tố cùng nhóm trước nó, xenon, và do đó phản ứng mạnh hơn. Radon ít hòa tan trong nước, nhưng hòa tan nhiều hơn trong các khí hiếm nhẹ hơn. Radon hòa tan nhiều trong các dung môi hữu cơ hơn trong nước. Các nghiên cứu trước đây kết luận rằng khả năng ổn định của hydrat radon có thể giống như các hydrat của clo (Cl2) hoặc sulfur dioxide (SO2), và cao hơn đáng kể so với khả năng ổn định của hydrat hiđrô sunfua (H2S).
+Do giá cả và tính phóng xạ của nó nên có ít thí nghiệm hóa học được tiến hành với radon, và do vậy có ít các hợp chất của radon được công bố, ở dạng florua hay ôxit. Radon có thể bị ôxy hóa bởi các chất ôxy hóa mạnh như F2, và tạo thành radon florua. Nó phân hủy lại thành các nguyên tố ở nhiệt độ hơn 250 °C. Hợp chất này có tính dễ bay hơi và được cho là RnF2. Như do có thời gian tồn tại của radon ngắn và tính phóng xạ của các hợp chất của nó, nó không thể được nghiên cứu chi tiết ở dạng hợp chất. Các nghiên cứu lý thuyết về phân tử này dự đoán rằng khoảng cách liên kết Rn-F là 2,08 Ǻ, và hợp chất này ổn định nhiệt động lực và bay hơi hơn các hợp chất của các chất trong nhóm trước nó XeF2. Phân tử tám mặt RnF6 được dự đoán là có enthalpy tạo thành thấp hơn điflorua. Ion [RnF]+ được cho là tào thành từ phản ứng:
+Rn (r) + 2 [O2]+[SbF6]− (r) → [RnF]+[Sb2F11]− (r) + 2 O2 (k)
+Các ôxit radon cũng được đề cập trong một số báo cáo. Radon carbonyl RnCO được dự đoán là bền và có hình học phân tử tuyến tính. Các phân tử Rn2 và RnXe được phát hiện là ổn định đáng kể bởi liên kết quỹ đạo spin. Radon được lồng bên trong fullerene đã được đề xuất làm một loại thuốc chống các khối u.
+
+
+=== Đồng vị ===
+
+Radon không có các đồng vị bền, dù vậy đã có 36 đồng vị phóng xạ được nhận dạng, với khối lượng nguyên tử từ 193 đến 228. Đồng bị bền nhất là 222Rn, là sản phẩm phân rã của 226Ra, từ 238U.. Các hạt nhân con phân rã từ 222Rn cũng có đồng vị không ổn định cao218Rn.
+Có 3 đồng vị radon khác có chu kỳ bán rã hơn 1 giờ: 211Rn, 210Rn và 224Rn. Đồng vị 220Rn là sản phẩm phân rã tự nhiên của đồng vị thori bền nhất (232Th), và thường được gọi là thoron. Nó có chu kỳ bán rã 55,6 giây và cũng phát xạ tia anpha. Tương tự, 219Rn được sinh ra từ đồng vị bền nhất của actini (227Ac)— được đặt tên "actinon"— và là nguồn phát ra tia anpha với chu kỳ bán rã 3,96 giây. Không có đồng vị radon này nằm trong chuỗi phân rã của neptuni(237Np).
+
+
+== Xem thêm ==
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+
+
+== Liên kết ngoài ==
+Toxicological Profile for Radon, Draft for Public Comment, Agency for Toxic Substances and Disease Registry, September 2008
+Health Effects of Exposure to Radon: BEIR VI. Committee on Health Risks of Exposure to Radon (BEIR VI), National Research Council available on-line
+UNSCEAR 2000 Report to the General Assembly, with scientific annexes: Annex B: Exposures from natural radiation sources.
+Should you measure the radon concentration in your home?, Phillip N. Price, Andrew Gelman, in Statistics: A Guide to the Unknown, January 2004.
+Radon and radon publications at the United States Environmental Protection Agency
+Radon Information from the UK Health Protection Agency
+Frequently Asked Questions About Radon at National Safety Council
+Home Buyer's and Seller's Guide to Radon An article by the International Association of Certified Home Inspectors (InterNACHI)
+Radon and Lung Health from the American Lung Association
+Radon's impact on your health - Lung Association
+Map referring to radon concentrations in England and Wales

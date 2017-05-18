@@ -1,0 +1,68 @@
+Sốt rét còn gọi là ngã nước là một chứng bệnh gây ra bởi ký sinh trùng tên Plasmodium, lây truyền từ người này sang người khác khi những người này bị muỗi đốt. Bệnh phổ biến ở các khu vực nhiệt đới và cận nhiệt đới của châu Mỹ, châu Á và châu Phi. Mỗi năm có khoảng 515 triệu người mắc bệnh, từ 1 đến 3 triệu người tử vong - đa số là trẻ em ở khu vực phía nam sa mạc Sahara, châu Phi. 90% số ca tử vong xảy ra tại đây. Sốt rét thường đi kèm với đói nghèo, lạc hậu, và là một cản trở lớn đối với phát triển kinh tế.
+Sốt rét là một trong những bệnh truyền nhiễm phổ biến nhất và là vấn đề rất nghiêm trọng đối với sức khoẻ cộng đồng. Bệnh gây ra bởi ký sinh trùng protozoa thuộc chi Plasmodium. Chi này có bốn loài làm con người nhiễm bệnh. Nguy hiểm hơn cả là Plasmodium falciparum và Plasmodium vivax. Hai loài còn lại (Plasmodium ovale, Plasmodium malariae) cũng gây bệnh nhưng ít tử vong hơn. Nhóm các loài Plasmodium gây bệnh ở người thường được gọi chung là ký sinh trùng sốt rét. Riêng loài P. knowlesi, phổ biến ở Đông Nam Á, gây bệnh sốt rét ở khỉ nhưng cũng có thể gây nhiễm trùng nặng ở người.
+
+
+== Biểu hiện và triệu chứng ==
+
+Các biểu hiện và triệu chứng của sốt rét đặc biệt bắt đầu thể hiện từ ngày thứ 8 đến 25 sau khi nhiễm; tuy nhiên, các triệu chứng có thể thể hiện muộn hơn đối với những người đã sử dụng thuốc chống sốt rét. Biểu hiện ban đầu của bệnh-chung cho tất cả các loài-là các triệu chứng giống cảm cúm, và có thể tương tự như các trường hợp khác như nhiễm trùng, viêm ruột và bệnh do virus. Biểu hiện của bệnh có thể gồm đau đầu, sốt, run, đau khớp, nôn, thiếu máu tán huyết, vàng da, tiểu ra máu, tổn thương võng mạc, và co giật.
+Các triệu chứng điển hình của bệnh sốt rét là kịch phát, đó là sự xuất hiện theo chu kỳ của cơn lạnh đột ngột sau đó run rẩy và sau đó sốt và đổ mồ hôi, xảy ra cứ mỗi hai ngày đối với nhiễm trùng loài P. vivax và P. ovale, và cứ ba ngày đối với nhiễm trùng P. malariae. Nhiễm trùng P. falciparum có thể gây sốt tái phát mỗi 36-48 giờ hoặc sốt ít rõ ràng hơn và gần như liên tục.
+Sốt rét nghiêm trọng thường gây ra bởi loài P. falciparum. Các triệu chứng của sốt rét do vi trùng falciparium phát triển 9–30 ngày sau khi nhiễm. Những người bị sốt rét thể não thường thể hiện các triệu chứng thần kinh như hành vi bất thường, run giật nhãn cầu, conjugate gaze palsy, opisthotonus hoặc hôn mê.
+
+
+== Nguyên nhân ==
+Ký sinh trùng sốt rét thuộc chi Plasmodium (ngành Apicomplexa). Ở người, sốt rét gây ra bởi các loài P. falciparum, P. malariae, P. ovale, P. vivax và P. knowlesi. Nằm trong số nhiễm các loài trên, loài P. falciparum là loài phổ biến nhất đã được xác định (~75%) theo sau là P. vivax (~20%). Mặc dù P. falciparum thường gây ra số lượng tử vong lớn, những bằng chứng gần đây cho thấy rằng số rét P. vivax có quan hệ với các tình trạng đe dọa tính mạng tiềm năng cũng gần tương tự về mặt chẩn đoán như lây nhiễm P. falciparum. P. vivax tương đối phổ biến hơn ngoài châu Phi. Đã có ghi nhận các trường hợp người bị mắc bệnh bởi các loài trong chi Plasmodium từ khỉ; tuy nhiên, với sự loại trừ loài P. knowlesi—một loài gây bệnh sốt rét ở khỉ—đây chủ yếu là sự hạn chế về chăm sóc sức khỏe cộng đồng.
+
+
+=== Vòng đời ===
+
+Trong vòng đời của Plasmodium, một con muỗi Anopheles cái (vật chủ trung gian truyền bệnh) truyền một dạng lây nhiễm di động (được gọi là thoi trùng) vào động vật chủ có xương sống như con người (vật chủ thứ 2), hoạt động này có vai trò là một vec-tơ truyền bệnh. Một sporozoite di chuyển thông qua các mạch máu để vào trong các tế bào gan (hepatocyte), tại đây chúng sinh sản vô tính (mô schizogony), tạo ra hàng ngàn merozoite. Các merozoite này lây nhiễm các hồng cầu mới và bắt đầu một chu trình nhân bản vô tính, chúng tạo ra 8 đến 24 merozoite lây nhiễm mới, lúc này các tế bào vỡ ra và chu kỳ lây nhiễm các tế bào mới bắt đầu.
+
+
+== Phương thức truyền nhiễm bệnh ==
+
+Một người có thể nhiễm bệnh sốt rét qua 3 cách thức sau đây:
+Do muỗi truyền (phổ biến)
+Do truyền máu
+Truyền qua nhau thai
+Ngoài ra những người tiêm chích ma túy dùng chung bơm kim tiêm cũng có thể bị mắc căn bệnh này
+
+
+== Phân loại bệnh ==
+Theo cơ sở phân loại bệnh sốt rét của Tổ chức Y tế Thế giới, Việt Nam chia sốt rét theo 2 mức độ lâm sàng:
+Sốt rét thông thường/sốt rét chưa có biến chứng
+Sốt rét ác tính/sốt rét có biến chứng
+
+
+== Tiên lượng ==
+
+Khi điều trị đúng cách, người bị sốt rét thường có thể được trông đợi là hồi phục hoàn toàn. Tuy nhiên, bệnh sốt rét nặng có thể tiến triển cực kỳ nhanh và gây chết chỉ trong vòng vài giờ hoặc vài ngày. Đối với hầu hết các ca bệnh nặng, tỉ lệ tử vong có thể lên đến 20%, thậm chí phải chăm sóc và điều trị đặc biệt. Thời gian càng lâu, sự suy yếu phát triển đã được ghi nhận ở trẻ em khi phải chịu đực những cơn sốt rét nặng. Nhiễm trùng mãn tính không nghiêm trọng có thể xuất hiện hội chứng suy giảm miễn dịch đi kèm với phản ứng suy giảm đối với vi khuẩn Salmonella và Epstein–Barr virus.
+Ở trẻ nhỏ, bệnh sốt rét gây chứng mất máu trong thời kỳ phát triển não nhanh chóng, và cũng gây tổn thương não trực tiếp từ sốt rét thể não. Những người sống sót do sốt rét não có nguy cơ gia tăng suy giãm thần kinh và nhận thức, rối loạn hành vi, và động kinh. Sốt rét dự phòng đã thể hiện sự cải thiện chức năng nhận thức và kết quả học tập trong các thử nghiệm lâm sàng khi so sánh với các nhóm placebo.
+
+
+== Dịch tễ học ==
+
+WHO ước tính rằng trong năm 2010 đã có 219 triệu ca sốt rét làm 660.000 ca tử vong. Các ước tính khác đưa ra con số từ 350 đến 550 triệu nhiễm falciparum và gây tử vong năm 2010 vào khoảng 1,24 triệu người đến 1,0 triệu người trong năm 1990. Phần lớn các ca (65%) gặp ở trẻ em dưới 15 tuổi. Khoảng 125 triệu phụ nữ mang thai có nguy cơ nhiễm trùng mỗi năm; ở vùng hạ Saharan châu Phi, sốt rét ở mẹ liên quan đến 200.000 trường hợp trẻ sơ sinh chết mỗi năm. Có khoảng 10.000 ca sốt rét mỗi năm ở Tây Âu, và 1300–1500 ở Hoa Kỳ. Khoảng 900 người chết do bệnh sốt rét ở châu Âu trong những năm 1993 và 2003. Cả tỉ lệ mắc bệnh toàn cầu và tỉ lệ tử vong đã giảm trong những năm gần đây. Theo WHO, các ca tử vong vì sốt rét trong năm 2010 đã giảm hơn 3 lần từ năm 2000 với ước tính là 985.000, chủ yếu là do việc sử dụng mùng chống muỗi và các liệu pháp điều trị kết hợp với artemisinin.
+Sốt rét hiện có phân bố trên một dải rộng quanh xích đạo, các vùng của châu Mỹ, nhiều nơi ở châu Á, và hầu hết ở châu Phi; ở vùng cận Saharan châu Phi, 85–90% tử vong do sốt rét. Một ước tính năm 2009 cho thấy rằng các quốc gia có tỉ lệ tử cao nhất trên 100.000 dân là Bờ Biển Ngà (86,15), Angola (56,93) và Burkina Faso (50,66). Ước tính năm 2010 chỉ ra rằng các quốc gia nguy hiểm nhất đối với sốt rét trên số dân là Burkina Faso, Mozambique và Mali. Dự án Át-lát sốt rét nhằm mục đích lập bản đồ phân cấp vùng có bệnh sốt rét trên toàn cầu nhằm cung cấp công cụ để xác định giới hạn không gian toàn cầu về căn bệnh và để đánh giá gánh nặng của căn bệnh. Nỗ lực này đã xuất bản được bản đồ phân bố đối với loài P. falciparum năm 2010. Đến năm 2010, có khoảng 100 quốc gia có bệnh sốt rét. Mỗi năm có 125 triệu du khách quốc tế viếng thăm những quốc gia đó, và hơn 30.000 người bị lây nhiễm.
+Phân bố địa lý của bệnh sốt rét trên một vùng rộng lớn rất phức tạp, và các khu vực không có sốt rét và bị ảnh hưởng của sốt rét thường được tìm thấy gần nhau. Sốt rét phổ biến ở các vùng nhiệt đới và cận nhiệt đới do chế độ mưa, nhiệt độ cao và độ ẩm cao, cùng với các vùng nước tù đọng là nơi ấu trùng muỗi phát triển thuận lợi, cũng như cung cấp môi trường tốt cho chúng sinh sôi nảy nở. Ở các vùng khô hơn, sự bùng nổ bệnh sốt rét đã được dự đoán với độ chính xác hợp lý dựa trên bản đồ phân bố lượng mưa. Sốt rét phổ biến ở vùng nông thôn hơn so với thành thị. Ví dụ, nhiều thành phố của tiểu vùng Mekong ở Đông Nam Á chủ yếu là không có sốt rét, nhưng bệnh lại phổ biến ở những vùng nông thôn, dọc theo biên giới quốc tế và ven rừng. Ngược lại, sốt rét ở châu Phi có mặt ở cả thành thị và nông thôn, mặc dù nguy cơ thấp hơn ở các thành phố lớn hơn.
+
+
+== Nghiên cứu ==
+
+Sự miễn dịch (hay chính xác hơn là chịu miễn dịch) đối với loài P. falciparum diễn ra một cách tự nhiên, nhưng chỉ xảy ra trong những năm bị nhiễm lặp đi lặp lại. Một cá thể có thể được bảo vệt khỏi sự nhiễm trùng P. falciparum nếu họ tiếp nhận khoảng một ngàn lần chích của muỗi mang ký sinh trùng được cấy lại không gây lây nhiễm sau khi đã chiếu một liều tia X. Một loại vắc-xin hiệu quả đối với bệnh sốt rét là chưa có, nhưng có nhiều loại đang được nghiên cứu. Các đa hình cấp cao của nhiều protein của P. falciparum đã tạo ra những thách thức quan trọng trong việc tạo ra vắc-xin. Một ứng viên vắc-xin nhắm vào mục tiêu kháng nguyên trên hợp tử, giao tử, hoặc ookinetes trong ruột muỗi nhằm khống chế sự lây nhiêm sốt rét. Các vắc-xin khống chế lây truyền bao gồm các kháng thể trong máu người; khi muỗi hút máu từ một người đã được bảo vệ, các kháng thể này chống lại ký sinh trùng phát triển hoàn chỉnh trong cơ thể muỗi. Các ứng viên vắc-xin khác nhắm vào giai đoạn sống trong máu của vòng đời ký sinh trùng, chưa phát triển đầy đủ. Ví dụ, SPf66 đã được thử nghiệm rộng rãi trong các khu vực có bệnh đặc hữu thập niên 1990, nhưng các thử nghiệm lâm sàng cho thấy rằng nó có hiệu quả chưa đủ. Nhiều vắc-xin có tiềm năng khác nhắm vào giai đoạn tiền hồng cầu của vòng đời ký sinh trùng đang được phát triển, trong đó RTS,S là một ứng viên sáng giá; nó được trông đợi cấp phép sử dụng năm 2015. Công ty kỹ thuật sinh học của Hoa Kỳ, Sanaria, đang phát triển vắc-xin nhược độc tiền hồng cầu có tên gọi là PfSPZ sử dụng toàn bột thoi trùng để tạo ra phản ứng miễn dịch. Năm 2006, Hội đồng tư vấn vắc-xin sốt rét đã gởi đến WHO bản thảo về "Lộ trình Công nghệ vắc-xin sốt rét" (Malaria Vaccine Technology Roadmap) trong đó nêu ra một trong những mục tiêu quan trọng nhắm vào "phát triển và cấp phép vắc-xin sốt rét thế hệ thứ nhất có thể bảo vệ hiệu quả hơn 50% so với các bệnh nặng và tử vong và các bệnh kéo dài hơn một năm" vào năm 2015.
+Ký sinh trùng sốt rét chứa các apicoplast, cơ quan này thường gặp ở thực vật, để hoàn thiện bộ gen của chúng. Các apicoplast được cho là có nguồn gốc từ nột cộng sinh của tảo và đóng vai trò quan trọng ở các khía cạnh khác nhau trong quá trình trao đổi chất của ký sinh trùng, như tổng hợp axít béo. Có hơn 400 protein đã được tìm thấy là được tạo ra bởi các apicoplast và chúng hiện đang được đầu tư nghiên cứu có thể là các mục tiêu để phát minh ra các loại thuốc chống sốt rét.
+Với sự khởi đầu của thuốc kháng sinh Plasmodium, các chiến lượng mới đang được phát triển để chống lại căn bệnh phổ biến. Một trong những cách tiếp cận là dựa vào sự phát triển các sản phẩm cộng tổng hợp từ aminoaxit pyridoxal, được chọn từ các ký sinh trùng và cuối cùng gây cản trở với khả năng của nó tạo ra nhiều vitamin B thiết yếu. Thuốc chống sốt rét sử dụng các phức dựa trên kim loại tổng hợp đang là đề tài được quan tâm nghiên cứu.
+Một chiến lược không chế véc-tơ truyền bệnh phi hóa học liên quan đến biến đổi gen của muỗi truyền bệnh sốt rét. Những tiến bộ trong công nghệ kỹ thuậ gen có thể đưa một DNA bên ngoài vào bộ gen của muỗi và hoặc làm giảm thời gian sống của muỗi, hoặc làm nó kháng lại với ký sinh trùng sốt rét. Kỹ thuật côn trùng vô trùng là một phương pháp kiểm soát gen mà trong đó một lượng lớn muỗi đực vô trùng được nuôi và thả ra ngoài. Chúng giao phối với các con cái sinh ra các lứa mới làm giảm số cá thể tự nhiên của thế hệ mới; quá trình lập đi lập lại cuối cùng loại bỏ nhóm mục tiêu.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Sốt rét tại DMOZ
+WHO site on malaria
+UNHCO site on malaria
+Global Malaria Action Plan (2008)
+Doctors Without Borders/Médecins Sans Frontières – Malaria information pages
+Who/TDR Malaria Database
+Anti malaria and sustainable development
+Worldwide Antimalarial Resistance Network (WWARN)

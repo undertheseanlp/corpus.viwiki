@@ -1,0 +1,87 @@
+Hệ tinh thể lập phương là một hệ tinh thể có các ô đơn vị là hình lập phương. Đây là một trong những dạng tinh thể đơn giản nhất và phổ biến nhất của các tinh thể kim loại. Một cách tổng quát, nếu viết theo các véctơ tịnh tiến không gian thì cấu trúc lập phương sẽ có các hằng số mạng 
+  
+    
+      
+        a
+        =
+        b
+        =
+        c
+      
+    
+    {\displaystyle a=b=c}
+   và ba góc 
+  
+    
+      
+        α
+        =
+        β
+        =
+        γ
+        =
+        
+          90
+          
+            o
+          
+        
+      
+    
+    {\displaystyle \alpha =\beta =\gamma =90^{o}}
+  .
+
+
+== Các mạng Bravais ==
+Có ba kiểu mạng Bravais có cấu trúc tinh thể lập phương gồm:
+
+Lập phương đơn giản: là một hình lập phương, mỗi nút mạng là một nguyên tử nằm ở đỉnh của hình lập phương có cạnh là hằng số mạng. Cấu trúc lập phương đơn giản chỉ chứa 1 nguyên tử trong một ô nguyên tố.
+Lập phương tâm mặt (hay lập phương diện tâm): là cấu trúc lập phương với các nguyên tử nằm ở các đỉnh hình lập phương (8 nguyên tử) và 6 nguyên tử khác nằm ở tâm của các mặt của hình lập phương. Cấu trúc này chứa 4 nguyên tử trong một ô nguyên tố. Trong tinh thể học, cấu trúc lập phương tâm mặt được ký hiệu là 
+  
+    
+      
+        f
+        c
+        c
+      
+    
+    {\displaystyle fcc}
+   (Face-centered cubic). Các chất điển hình có cấu trúc fcc là nhôm, đồng...
+Lập phương tâm khối: là cấu trúc lập phương với 8 nguyên tử ở các đỉnh hình lập phương và 1 nguyên tử ở tâm của hình lập phương. Cấu trúc này chứa 2 nguyên tử trong một ô nguyên tố, và thường được ký hiệu là 
+  
+    
+      
+        b
+        c
+        c
+      
+    
+    {\displaystyle bcc}
+   (Body-centered cubic).
+
+
+== Các nhóm điểm và nhóm không gian ==
+Có 36 nhóm không gian lập phương và 5 nhóm điểm được liệt kê theo bảng dưới đây:
+
+
+== Hệ số xếp chặt ==
+Cấu trúc lập phương đơn giản có hệ số xếp chặt chỉ là 52%.
+Cấu trúc lập phương tâm mặt có hệ số xếp chặt là 74%.
+Cấu trúc lập phương tâm khối có hệ số xếp chặt 68%.
+
+
+== Các chất có cấu trúc tinh thể lập phương ==
+Cấu trúc đơn nguyên tử: Cấu trúc lập phương đơn nguyên tử tồn tại khá nhiều trong các kim loại (điển hình là kim loại chuyển tiếp). Cấu trúc lập phương đơn giản có hệ số xếp chặt rất thấp nên kém bền hơn, chất điển hình mang cấu trúc này là Polonium (Po). Cấu trúc fcc và bcc tồn tại phổ biến ở các kim loại, ví dụ như đồng, nhôm... mang cấu trúc fcc, sắt, crôm... mang cấu trúc bcc.
+Cấu trúc đa nguyên tử: Cấu trúc lập phương cũng tồn tại trong các chất có nhiều loại nguyên tử, ví dụ trong các hợp kim, hợp chất... Muối ăn (NaCl) là hợp chất điển hình với cấu trúc fcc, hợp kim Fe(Si) là hợp kim điển hình mang cấu trúc bcc...
+
+
+== Xem thêm ==
+Cấu trúc tinh thể
+Lục giác xếp chặt
+
+
+== Tham khảo ==
+^ Charles Kittel (1996). Introduction to Solid State Physics (ấn bản 7). John Willey & Sons Inc. ISBN 0-471-11181-3. 
+
+
+== Tham khảo ==

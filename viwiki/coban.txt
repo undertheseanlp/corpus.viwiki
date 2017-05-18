@@ -1,0 +1,82 @@
+Coban hay côban (từ tiếng Đức: kobold) là nguyên tố hóa học trong bảng tuần hoàn có ký hiệu Co và số nguyên tử 27.
+
+
+== Thuộc tính ==
+Coban là kim loại màu trắng bạc, có từ tính mạnh, nhiệt độ Curie vào khoảng 1388°K. Coban và niken là hai thành phần đặc trưng trong thép thiên thạch. Trong cơ thể động vật tồn tại một lượng nhỏ các muối coban. Đồng vị phóng xạ nhân tạo Coban-60 được sử dụng làm tác nhân kiểm tra phóng xạ và điều trị ung thư. Độ thấm từ của coban bằng 2/3 của sắt. Coban kim loại thông thường biểu hiện ở dạng hỗn hợp của hai cấu trúc trục tinh thể là xếp chặt sáu cạnh (hcp) và lập phương tâm mặt (fcc) với nhiệt độ chuyển tiếp từ hcp→fcc vào khoảng 722°K. Trạng thái ôxi hóa phổ biến của nó là +2 và +3, rất ít hợp chất trong đó coban có hóa trị +1 tồn tại.
+
+
+== Ứng dụng ==
+Hợp kim, như là:
+Siêu hợp kim: cho những bộ phận trong tuabin khí của động cơ máy bay.
+Hợp kim chịu mài mòn, ăn mòn.
+Thép dùng trong ngành vận tải cao tốc.
+Cacbua hàn (còn gọi là các kim loại cứng), dụng cụ bằng kim cương.
+
+Nam châm và lưu trữ từ tính (magnetic recording media):
+Nam châm alnico
+
+Chất xúc tác cho công nghiệp dầu khí và hóa chất.
+Dùng trong kỹ thuật mã điện vì coban có độ cứng, có màu trắng bạc, và khả năng chống ôxi hóa.
+Tác nhân làm khô cho sơn, véc ni, mực.
+Dùng làm lớp phủ bề mặt cho gốm sứ, men, thủy tinh.
+Thuốc nhuộm (coban màu xanh dương và coban màu xanh lục).
+Điện cực trong pin điện.
+Đồng vị coban-60 dùng làm nguồn tạo tia gamma:
+Dùng trong xạ trị.
+Tiệt trùng thực phẩm theo phương pháp Pasteur.
+Dùng trong công nghiệp hạt nhân để tìm sai sót kết cấu trong những bộ phận bằng kim loại.
+Tạo cho thủy tinh có màu xanh dương
+Hợp chất của Coban và Gadolini là chất siêu làm lạnh
+ĐIỀU CHẾ:
+Dùng H2 khử coban(II) ôxit hoặc các ôxit khác: CoO + H2 -> Co+H20
+Điện phân dd CoSO4 trong nước với cực dương bằng thép không gỉ đã được xử lý bề mặt và cực âm là 1 tấm chì tinh khiết. Sản phẩm thu được là 1 hỗn hợp gồm 99,1-99,2% còn lại là tạp chất Niken: CoSO4 + H2O -> 2Co + O2 + H2SO4
+Đốt cháy Cobantin(CoAsS) để chuyển hóa thành As2O3 & SO2. Chế hóa các oxit kim loại thành dạng clorua với HCl. Tăng độ pH dd clorua còn lại và thêm clorua vôi vào để oxi hóa oxit coban (II): 2Co(OH)2 + CaOCl12 -> 2Co(OH)3 + CaCl12. Nung kết tủa thành ôxit rồi dùng cacbon khử: Co3O4 + 4C -> 3Co + 4CO
+
+Đồng vị Co-60 được dùng làm nguồn tạo tia gamma vì nó có thể tạo ra một số lượng rất lớn, chỉ đơn giản bằng cách đặt coban tự nhiên dưới các nơtron trong lò phản ứng với một khoảng thời gian nhất định.
+
+
+=== Ứng dụng trong y học ===
+Đồng vị Co-60 (Co60) là kim loại phóng xạ dùng trong xạ trị. Nó tạo ra hai tia gamma với năng lượng lần lượt là: 1,17 MeV và 1,33 MeV. Nguồn Co-60 có đường kính khoảng 2 cm và được tạo ra bằng cách tạo một vùng nửa tối, làm cho góc của vùng bức xạ bị mờ đi. Kim loại này có đặc tính tạo ra bụi mịn, gây ra vấn đề về bảo vệ bức xạ. Nguồn Co-60 hữu dụng trong vòng khoảng 5 năm, nhưng ngay cả sau thời điểm này, mức độ phóng xạ vẫn rất cao. Vì vậy máy móc dùng coban đã không còn được sử dụng rộng rãi ở các nước phương Tây. Hiện nay, người ta sử dụng phổ biến máy gia tốc hạt tuyến tính thay cho máy móc dùng coban trước đây.
+
+
+== Lịch sử ==
+Coban đã được biết đến từ thời cổ đại thông qua những hợp chất tạo cho thủy tinh có màu xanh dương đậm.
+Georg Brandt (1694-1768) là nhà khoa học đã phát hiện ra coban. Thời điểm phát hiện vào khoảng thời gian 1730 - 1737. Ông đã chứng minh rằng coban là nguồn gốc tạo ra màu xanh dương trong thủy tinh, mà trước đây được người ta cho là do bitmut (Bismuth) (được phát hiện cùng với coban).
+Trong suốt thế kỷ 19, coban xanh dương được sản xuất tại nhà máy Blaafarveværket (Na Uy), sản lượng coban sản xuất tại đấy chiếm 70-80% sản lượng thế giới.
+Vào năm 1938, John Livingood và Glenn Seaborg đã phát hiện đồng vị Co-60.
+Tên gọi Coban (cobalt) có xuất xứ từ tiếng Đức kobalt hoặc kobold, nghĩa là linh hồn của quỷ dữ. Tên này do những người thợ mỏ đặt ra vì nó mang tính độc hại, gây ô nhiễm môi trường, và làm giảm giá trị những kim loại khác, như niken. Những nguồn khác thì lại cho rằng tên gọi phát sinh từ những người thợ mỏ bạc vì họ tin rằng coban được đặt ra bởi kobolds là những người đã từng đánh cắp bạc. Một vài nguồn khác cho rằng tên gọi có xuất xứ từ tiếng Hy Lạp kobalos, nghĩa là 'mỏ', và có thể có nguồn gốc chung với kobold, goblin, và cobalt.
+
+
+== Vai trò sinh học ==
+
+Nhiều sinh vật sống (kể cả người) phải cần đến một lượng nhỏ coban trong cơ thể để tồn tại. Cho vào đất một lượng nhỏ coban từ 0,13-0,30 mg/kg sẽ làm tăng sức khỏe của những động vật ăn cỏ. Coban là một thành phần trung tâm của vitamin cobalamin, hoặc vitamin B-12.
+
+
+== Phổ biến ==
+
+Coban không thể tìm thấy như là một kim loại tự do, mà nói chung là ở trong các dạng quặng. Người ta luôn luôn không khai thác coban riêng rẽ, và có xu hướng được dùng làm sản phẩm phụ trong hoạt động khai thác niken và đồng. Những quặng coban chính là cobaltite, erythrite, glaucodot, và skutterudite. Những quốc gia sản xuất nhiều coban nhất thế giới là Cộng hòa dân chủ Côngô, Trung Quốc, Zambia, Nga, và Úc. Coban còn được tìm thấy ở Phần Lan, Azerbaijan, và Kazakhstan. Nó còn được sản xuất ở thành phố Cobalt, tỉnh Ontario, ở Canada ở dạng sản phẩm phụ của hoạt động khai thác bạc.
+
+
+== Các hợp chất ==
+Do có nhiều trạng thái ôxi hóa khác nhau, nên số lượng hợp chất coban khá phong phú. Các ôxít không có từ tính ở nhiệt độ thấp như CoO (nhiệt độ Neel là 291°K), và Co3O4 (nhiệt độ Neel là 40°K). Các hợp chất coban(II) được dùng làm mực đỏ. Tuy nhiên màu bị chuyển thành xanh dương khi bị nung nóng đến nhiệt độ sôi. Thêm quá nhiều clorua cũng sẽ làm đổi màu từ màu hồng sang màu xanh dương, do sự tạo thành ion phức [CoCl4]2-.
++ H2, O2, SO4 khác nhau tùy điều kiện
+
+
+== Đồng vị ==
+Coban trong tự nhiên bao gồm 1 đồng vị ổn định là 59Co. Coban có 22 đồng vị phóng xạ. Những đồng vị phóng xạ ổn định nhất là 60Co có chu kỳ bán rã là 5,2714 năm, 57Co có chu kỳ bán rã là 271,79 ngày, 56Co có chu kỳ bán rã là 77,27 ngày, và 58Co có chu kỳ bán rã 70,86 ngày. Tất cả đồng vị phóng xạ còn lại có chu kỳ bán rã ít hơn 18 giờ và phần lớn những đồng vị này có chu kỳ bán rã ít hơn 1 giây. Nguyên tố này cũng có 4 đồng phân phóng xạ, tất cả các đồng phân này đều có chu kỳ bán rã ít hơn 15 phút.
+Các đồng vị của coban có trọng lượng nguyên tử từ 50 amu (50Co) đến 73 amu.
+
+
+== Cảnh báo ==
+Bột kim loại coban dễ bùng cháy khi tiếp xúc với lửa. Các hợp chất của coban phải được xử lý cẩn thận do có độc tính nhẹ.
+60Co là nguồn phát ra tia gamma mạnh nên tiếp xúc với nó sẽ dẫn đến nguy cơ ung thư. Nuốt 60Co sẽ khiến coban thâm nhập vào mô tế bào và quá trình thải ra rất chậm chạp.60Co là yếu tố rủi ro gây tranh cãi về vấn đề hạt nhân vì nguồn nơtron sẽ chuyển hóa 59Co thành đồng vị này. Một số mô hình vũ khí hạt nhân có chủ ý gia tăng lượng 60Co phát tán dưới hình thức bụi phóng xạ nguyên tử – nên có khi người ta gọi đó là bom bẩn hoặc bom coban. Một nhà khoa học hàng đầu đã dự đoán rằng loại bom này có khả năng hủy diệt tất cả sự sống trên Trái Đất. Nếu nguyên nhân bắt nguồn không phải là một cuộc chiến tranh hạt nhân, thì cũng do việc xử lý không phù hợp (hoặc trộm cắp) các bộ phận của máy xạ trị y học. Tuy nhiên, tia gamma phát ra từ 60Co hiện đang được sử dụng để diệt vi khuẩn và tăng sức đề kháng trên rau quả.
+
+
+== Tham khảo ==
+Los Alamos National Laboratory - Cobalt
+
+
+== Liên kết ngoài ==
+National Pollutant Inventory - Cobalt fact sheet
+WebElements.com – Cobalt
+London celebrates 50 years of Cobalt-60 Radiotherapy

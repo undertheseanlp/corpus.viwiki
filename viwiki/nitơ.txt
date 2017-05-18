@@ -1,0 +1,113 @@
+Nitơ là một nguyên tố hóa học trong bảng tuần hoàn các nguyên tố có ký hiệu N và số nguyên tử bằng 7, nguyên tử khối bằng 14. Ở điều kiện bình thường nó là một chất khí không màu, không mùi, không vị và khá trơ và tồn tại dưới dạng phân tử N2, còn gọi là đạm khí. Nitơ chiếm khoảng 78% khí quyển Trái Đất và là thành phần của mọi cơ thể sống. Nitơ tạo ra nhiều hợp chất quan trọng như các axít amin, amôniắc, axít nitric và các xyanua. Liên kết hóa học cực kỳ bền vững giữa các nguyên tử nitơ gây khó khăn cho cả sinh vật và công nghiệp để chuyển hóa N2 thành các hợp chất hóa học hữu dụng, nhưng đồng thời cũng giải phóng một lượng lớn năng lượng hữu ích khi cháy, nổ hoặc phân hủy trở lại thành khí nitơ. Các ammoniac và nitrat được tổng hợp là các loại phân công nghiệp chính và phân nitrat là các chất ô nhiễm chính gây ra hiện tượng phú dưỡng môi trường nước.
+Nito có mặt trong tất cả các cơ thể sống, chủ yếu ở dạng các amino axit (và protein) và cũng có trong các axit nucleic (DNA và RNA). Cơ thể người chứa khoảng 3% nitơ theo trọng lượng, là nguyên tố phổ biến thứ tư trong cơ thể sau ôxy, cacbon và hydro. Chu trình nitơ miêu tả sự chuyển động của nguyên tố này từ không khí vào sinh quyển và các hợp chất hữu cơ, sau đó quay trở lại không khí.
+
+
+== Tính chất ==
+Nitơ là một phi kim, với độ âm điện là 3,04. Nó có 5 điện tử trên lớp ngoài cùng, vì thế thường thì nó có hóa trị ba trong phần lớn các hợp chất. Nitơ tinh khiết là một chất khí ở dạng phân tử không màu và chỉ tham gia phản ứng hóa học ở nhiệt độ phòng khi nó phản ứng với Liti. Nó hóa lỏng ở nhiệt độ 77 K (-196 °C) trong điều kiện áp suất khí quyển và đóng băng ở 63 K (-210 °C) thành dạng thù hình có tinh thể sáu phương đóng kín. Dưới 35,4 K (−237.6 °C) nitơ được cho là có thù hình của hệ lập phương (được gọi là pha alpha). Nitơ lỏng, có dạng giống như nước, nhưng có tỷ trọng chỉ bằng 80,8% (tỷ trọng nitơ lỏng ở điểm sôi là 0,808 g/mL), là chất làm lạnh phổ biến.
+Các thù hình không bền của nitơ có hơn hai nguyên tử đã được tạo ra trong phòng thí nghiệm, như N3 và N4. Trong điều kiện áp suất cực kỳ cao (1,1 triệu atm) và nhiệt độ cao (2000 K), khi tạo ra bằng diamond anvil cell, nitơ polymer hóa thành các cấu trúc tinh thể lập phương liên kết đơn. Cấu trúc này tương tự cấu trúc của kim cương, và cả hai có các liên kết cộng hóa trị cực mạnh. N4 còn có tên gọi là "kim cương nitơ".
+Các dạng thù hình khác (chưa tổng hợp được) bao gồm hexazine (N6, một vòng benzen) và octaazacuban (N8, một cubane đơn). Dạng nitơ 6 được dự đoán là không ổn định trong cao, trong khi dạng nitơ 8 được dự đoán là ổn định động học, vì sự đối xứng quỹ đạo.
+
+
+=== Đồng vị ===
+Có hai đồng vị ổn định của nitơ là: 14N và 15N. Phổ biến nhất là 14N (99,634%), là đồng vị tạo ra trong chu trình CNO trong các ngôi sao. Phần còn lại là 15N. Trong số 10 đồng vị tổng hợp nhân tạo thì 1 có chu kỳ bán rã là 9 phút còn các đồng vị còn lại có chu kỳ bán rã ở mức độ 1 giây hay nhỏ hơn.
+Các phản ứng trung gian sinh học (ví dụ: đồng hóa, nitrat hóa và khử nitrat) kiểm soát chặt chẽ cân bằng động của nitơ trong đất. Các phản ứng này gần như là tạo ra sự làm giàu 15N trong chất nền và làm suy kiệt sản phẩm. Mặc dù nước mưa chứa các lượng tương đương amônium và nitrat, nhưng do amônium là tương đối khó chuyển hóa/hấp thụ hơn so với nitrat khí quyển nên phần lớn nitơ trong khí quyển chỉ có thể đi vào trong đất dưới dạng nitrat. Nitrat trong đất được các loại rễ cây hấp thụ tốt hơn so với khi nitơ ở dưới dạng amônium.
+Một phần nhỏ (0,73%) của nitơ phân tử trong khí quyển Trái Đất là isotopologue 14N15N, và hầu hết phần còn lại là 14N2.
+Đồng vị phóng xạ 16N là thành phần hạt nhân phóng xạ chiếm ưu thế trong chất làm mát của các lò phản ứng hạt nhân nước áp lực hoặc lò phản ứng nước sôi ở chế độ vận hành bình thường. Nó được tạo ra từ 16O (trong nước) qua phản ứng (n,p). Nó có chu kỳ bán rã khoảng 7,1 giây, nhưng trong khi nó phân rã ngược lại tạo ra 16O thì sinh ra tia phóng xạ gama năng lượng cao (5 đến 7 MeV). Do đó, việc tiếp cận các ống dẫn chất làm lạnh sơ cấp trong lò phản ứng nước áp lực phải được kiểm soát chặt chẽ trong quá trình vận hành lò phản ứng.16N là một trong những công cụ chính được dùng để nhận dạng nhanh các vụ rò rỉ thậm chí nhỏ từ chất làm lạnh sơ cấp đến chu trình hơi thứ cấp.
+
+
+=== Phổ điện từ ===
+
+Nitơ phân tử (14N2) phần lớn có quan phổ trong suốt đến hồng ngoại và nhìn thấy do nó là một phân tử cấu tạo bởi cùng hạt nhân và do đó, không có môment lưỡng cực để kết hợp với bức xạ điện tự ở các bước sóng này. Sự hấp thụ đáng kể xảy ra ở các bước sóng siêu cực tím, bắt đầu vào khoảng 100 nm. Điều này liên quan với sự chuyển tiếp điện tử trong phân tử sang các trạng thái tích điện không được phân bố thậm chí giữa các nguyên tử nitơ. Sự hấp thụ nitơ dẫn đến sự hấp thụ đáng kể các bức xạ cực tím trong thượng tầng khí quyển và khí quyển của các hành tinh khác. Vì các lý do tương tự, các tia laser nitơ phân tử tinh khiết đặc biệt phát xạ ánh sáng trong dải cực tím.
+
+
+=== Phản ứng ===
+
+Nhìn chung, nitơ không hoạt động ở điều kiện nhiệt độ và áp suất chuẩn. Nitơ phản ứng với nguyên tố lithi. Lithi cháy trong không khí có N2 tạo ra lithi nitrua:
+6 Li + N2 → 2 Li3N
+Magiê cũng cháy trong nitơ tạo ra magiê nitrua.
+3 Mg + N2 → Mg3N2
+N2 tạo thành nhiều sản phẩm cộng với các kim loại chuyển tiếp như [Ru(NH3)5(N2)]2+ (xem hình). Tuy nhiên, cần lưu ý rằng phối tử N2 thu được bằng cách phân hủy hydrazin, và không phối với đi nitơ tự do. Các hợp chất này hiện có rất nhiều như IrCl(N2)(PPh3)2, W(N2)2(Ph2PCH2CH2PPh2)2, and [(η5-C5Me4H)2Zr]2(μ2, η2,η2-N2). Các phức này minh hoạ bằng cách nào N2 có thể kết hợp với các kim loại trong các enzym nitrogenase và xúc tác cho quá trình Haber. Quá trình xúc tác để khử N2 thành ammoniac bằng cách sử dụng phức molybden với sự có mặt của nguồn proton được công bố năm 2005.
+
+
+== Ứng dụng ==
+
+
+=== Hợp chất nitơ ===
+Phân tử nitơ trong khí quyển là tương đối trơ, nhưng trong tự nhiên nó bị chuyển hóa rất chậm thành các hợp chất có ích về mặt sinh học và công nghiệp nhờ một số cơ thể sống, chủ yếu là các vi khuẩn (xem Vai trò sinh học dưới đây). Khả năng kết hợp hay cố định nitơ là đặc trưng quan trọng của công nghiệp hóa chất hiện đại, trong đó nitơ (cùng với khí thiên nhiên) được chuyển hóa thành amôniắc (thông qua phương pháp Haber). Amôniắc, trong lượt của mình, có thể được sử dụng trực tiếp (chủ yếu như là phân bón), hay làm nguyên liệu cho nhiều hóa chất quan trọng khác, bao gồm thuốc nổ, chủ yếu thông qua việc sản xuất axít nitric theo phương pháp Ostwald.
+Các muối của axít nitric bao gồm nhiều hợp chất quan trọng như xanpet (hay diêm tiêu- trong lịch sử nhân loại nó là quan trọng do được sử dụng để làm thuốc súng) và nitrat amôni, một phân bón hóa học quan trọng. Các hợp chất nitrat hữu cơ khác, chẳng hạn trinitrôglyxêrin và trinitrotoluen (tức TNT), được sử dụng làm thuốc nổ. Axít nitric được sử dụng làm chất ôxi hóa trong các tên lửa dùng nhiên liệu lỏng. Hiđrazin và các dẫn xuất của nó được sử dụng làm nhiên liệu cho các tên lửa.
+
+
+=== Khí nitơ ===
+Nitơ dạng khí được sản xuất nhanh chóng bằng cách cho nitơ lỏng (xem dưới đây) ấm lên và bay hơi. Nó có nhiều ứng dụng, bao gồm cả việc phục vụ như là sự thay thế trơ hơn cho không khí khi mà sự ôxi hóa là không mong muốn.
+để bảo quản tính tươi của thực phẩm đóng gói hay dạng rời (bằng việc làm chậm sự ôi thiu và các dạng tổn thất khác gây ra bởi sự ôxi hóa),
+trên đỉnh của chất nổ lỏng để đảm bảo an toàn
+Nó cũng được sử dụng trong:
+sản xuất các linh kiện điện tử như tranzito, điốt, và mạch tích hợp (IC).
+sản xuất thép không gỉ,
+bơm lốp ô tô và máy bay[1] do tính trơ và sự thiếu các tính chất ẩm, ôxi hóa của nó, ngược lại với không khí (mặc dù điều này là không quan trọng và cần thiết đối với ô tô thông thường [2])
+Ngược lại với một số ý kiến, nitơ thẩm thấu qua lốp cao su không chậm hơn không khí. Không khí là hỗn hợp chủ yếu chứa nitơ và ôxy (trong dạng N2 và O2), và các phân tử nitơ là nhỏ hơn. Trong các điều kiện tương đương thì các phân tử nhỏ hơn sẽ thẩm thấu qua các vật liệu xốp nhanh hơn.
+Một ví dụ khác về tính đa dụng của nó là việc sử dụng nó (như là một chất thay thế được ưa chuộng cho điôxít cacbon) để tạo áp lực cho các thùng chứa một số loại bia, cụ thể là bia đen có độ cồn cao và bia ale của Anh và Scotland, do nó tạo ra ít bọt hơn, điều này làm cho bia nhuyễn và nặng hơn. Một ví dụ khác về việc nạp khí nitơ cho bia ở dạng lon hay chai là bia tươi Guinness.
+
+
+=== Nitơ lỏng ===
+
+Nitơ lỏng được sản xuất theo quy mô công nghiệp với một lượng lớn bằng cách chưng cất phân đoạn không khí lỏng và nó thường được nói đến theo công thức giả LN2. Nó là một tác nhân làm lạnh (cực lạnh), có thể làm cứng ngay lập tức các mô sống khi tiếp xúc với nó. Khi được cách ly thích hợp khỏi nhiệt của môi trường xung quanh thì nó phục vụ như là chất cô đặc và nguồn vận chuyển của nitơ dạng khí mà không cần nén. Ngoài ra, khả năng của nó trong việc duy trì nhiệt độ một cách siêu phàm, do nó bay hơi ở 77 K (-196°C hay -320°F) làm cho nó cực kỳ hữu ích trong nhiều ứng dụng khác nhau, chẳng hạn trong vai trò của một chất làm lạnh chu trình mở, bao gồm:
+làm lạnh để vận chuyển thực phẩm
+bảo quản các bộ phận thân thể cũng như các tế bào tinh trùng và trứng, các mẫu và chế phẩm sinh học.
+trong nghiên cứu các tác nhân làm lạnh
+để minh họa trong giáo dục
+trong da liễu học để loại bỏ các tổn thương da ác tính xấu xí hay tiềm năng gây ung thư, ví dụ các mụn cóc, các vết chai sần trên da v.v.
+Nitơ lỏng có thể sử dụng như là nguồn làm mát để tăng tốc CPU, GPU, hay các dạng phần cứng khác.
+
+
+== Lịch sử ==
+Nitơ (tiếng Latinh: nitrum, tiếng Hy Lạp: Nitron có nghĩa là "sinh ra sôđa", "nguồn gốc", "tạo thành") về hình thức được coi là được Daniel Rutherford phát hiện năm 1772, ông gọi nó là không khí độc hại hay không khí cố định. Có điều này là do một phần của không khí không hỗ trợ sự cháy đã được các nhà hóa học biết đến vào cuối thế kỷ 18. Nitơ cũng được Carl Wilhelm Scheele, Henry Cavendish và Joseph Priestley nghiên cứu vào cùng khoảng thời gian đó, là những người nói đến nó như là không khí đã cháy hay không khí phlogiston. Khí nitơ là trơ đến mức Antoine Lavoisier coi nó như là azote vào năm 1789, có nghĩa là không có sự sống; thuật ngữ này đã trở thành tên gọi trong tiếng Pháp để chỉ "nitơ" và sau đó đã lan rộng sang nhiều thứ tiếng khác. Năm 1790, Jean Antoine Chaptal đặt ra tên gọi nitrogen để chỉ nitơ.
+Các hợp chất của nitơ đã được biết tới từ thời Trung cổ. Các nhà giả kim thuật đã biết axít nitric (HNO3) như là aqua fortis (tức nước khắc đồng). Hỗn hợp của axít nitric và axít clohiđríc (HCl) được biết đến dưới tên gọi aqua regia (tức nước cường toan), do nó có khả năng hòa tan cả vàng. Các ứng dụng sớm nhất trong công nghiệp và nông nghiệp của các hợp chất nitơ sử dụng nó trong dạng xanpet (có thể là nitrat natri (NaNO3) hay nitrat kali (KNO3)), chủ yếu làm thuốc súng và sau đó là làm phân bón, và muộn hơn nữa là để làm hóa chất bổ sung. Năm 1910, Lord Rayleigh đã phát hiện rằng việc phóng điện trong khí nitơ tạo ra "nitơ hoạt động", là một thù hình được xem là đơn nguyên tử. "đám mây xoáy có ánh sáng vàng rực rỡ" được tạo ra bởi bộ máy của ông phản ứng với thủy ngân để tạo ra chất nổ thủy ngân nitrua.
+
+
+== Sự phổ biến ==
+Nitơ là thành phần lớn nhất của khí quyển Trái Đất (78,084% theo thể tích hay 75,5% theo trọng lượng). Henry Cavendish là người đã xác định tương đối chính xác thành phần "khí cháy" (ôxy, khoảng 21%) của không khí vào cuối thế kỷ 18. Hơn một thế kỷ sau, người ta xác định phần còn lại ("không cháy") của không khí chủ yếu là nitơ.
+Nitơ được sản xuất cho các mục đích công nghiệp nhờ chưng cất phân đoạn không khí lỏng hay bằng các biện pháp cơ học khác đối với không khí ở dạng khí (màng thẩm thấu nghịch áp suất hay PSA (viết tắt của từ tiếng Anh: Pressure Swing Adsorption).
+Các hợp chất chứa nitơ cũng được quan sát là có trong vũ trụ. Nitơ N14 được tạo ra như là một phần của phản ứng tổng hợp hạt nhân trong các ngôi sao. Phân tử nitơ và các hợp chất nitơ đã được các nhà thiên văn học phát hiện trong môi trường liên sao bằng cách sử dụng Far Ultraviolet Spectroscopic Explorer. Nitơ là thành phần lớn của các chất thải động vật (ví dụ phân), thông thường trong dạng urê, axít uric, và các hợp chất của các sản phẩm chứa nitơ này.
+Nitơ ở dạng phân tử đã được biết là có trong khí quyển của Titan, và cũng đã được David Knauth và các cộng sự phát hiện là tồn tại trong không gian liên sao nhờ sử dụng FUSE.
+
+
+== Các hợp chất ==
+Hiđrua chính của nitơ là amôniắc (NH3) mặc dù hiđrazin (N2H4) cũng được biết đến rất nhiều. Amôniắc là một chất có tính bazơ nhiều hơn nước, và trong dung dịch thì nó tạo ra các cation amôni (NH4+). Amôniắc lỏng trên thực tế là một chất có tính tạo các ion kép (amôni và amit (NH2-); cả hai loại muối amit và nitrua (N3-) đều được biết đến, nhưng đều bị phân hủy trong nước. Các hợp chất của amôniắc bị thay thế đơn và kép được gọi là các amin. Các chuỗi lớn, vòng và cấu trúc khác của hiđrua nitơ cũng được biết đến nhưng trên thực tế không ổn định.
+Các lớp anion khác của nitơ là azua (N3-), chúng là tuyến tính và đồng electron với điôxít cacbon. Các phân tử khác có cấu trúc tương tự là đinitơ mônôxít (N2O), hay khí gây cười. Đây là một trong các dạng ôxít của nitơ, nổi bật nhất trong số các ôxít là nitơ mônôxít (NO) và nitơ điôxít (NO2), cả hai ôxít này đều chứa các điện tử không bắt cặp. Ôxít sau thể hiện một số xu hướng với sự nhị trùng hóa và là thành phần chính trong các loại khói.
+Các ôxít tiêu chuẩn hơn là đinitơ triôxít (N2O3) và đinitơ pentôxít (N2O5), trên thực tế là tương đối không ổn định và là các chất nổ. Các axít tương ứng là axít nitrơ (HNO2) và axít nitric (HNO3), với các muối tương ứng được gọi là nitrit và nitrat. Axít nitric là một trong ít các axít mạnh hơn hiđrôni.
+
+
+== Điều chế ==
+-Trong công nghiệp, nitơ được sản xuất bằng phương pháp chưng cất phân đoạn không khí lỏng. Sau khi đã loại bỏ CO2 và hơi nước, không khí được hóa lỏng dưới áp suất cao và nhiệt độ thấp. Nâng dần nhiệt độ không khí lỏng đến -196 độ C thì nitơ sôi và tách khỏi được ôxi vì ôxi có nhiệt độ sôi cao hơn (-183 độ C). Khí nitơ được vần chuyển trong các bình thép, nén dưới áp suất 150 atm.
+-Trong phòng thí nghiệm
+Người ta điều chế một lượng nhỏ nitơ tinh khiết bằng cách đun nóng nhẹ dung dịch bão hòa muối amoni nitrit:
+NH4NO2 → N2 + 2H2O
+Có thể thay muối amoni nitrit kém bền bằng dung dịch bão hòa của muối natri nitrit và amoni clorua
+NH4Cl + NaNO2 →  N2 + NaCl + 2H2O
+
+
+== Vai trò sinh học ==
+Nitơ là thành phần quan trọng của các axít amin và axít nucleic, điều này làm cho nitơ trở thành thiết yếu đối với sự sống. Nitơ nguyên tố trong khí quyển không thể được động và thực vật sử dụng trực tiếp mà phải qua quá trình khử hoặc cố định. Giáng thủy thường chứa một lượng đáng kể amoniac và nitrat, được cho là rằng là sản phẩm cố định nitơ bởi các tia sét và các hiện tượng điện khác trong khí quyển. Điều này được Liebig đưa ra đầu tiên năm 1827 và sau đó được xác nhận. Tuy nhiên, do amoniac được ưu tiên giữa lại bởi tác cây rừng tương đối so với nitrat khí quyển, hầu hết nitơ được cố định đến được bề mặt đất bên dưới cây ở dạng nitrat. Nitrat trong đất được rễ cây ưu tiên hấp thụ so với ammoniac trong đất. Các cây họ Đậu như đậu tương, có thể hấp thụ nitơ trực tiếp từ không khí do rễ của chúng có các nốt sần chứa các vi khuẩn cố định đạm để chuyển hóa nitơ thành amôniắc. Các cây họ Đậu sau đó sẽ chuyển hóa amôniắc thành các ion ôxít nitơ và các axít amin để tạo ra các protein. Vi khuẩn đặc biệt (như Rhizobium trifolium) sở hữu các enzym nitrogenase có khả năng cố định nitơ trong khí quyển thành các chất hữu ích cho các sinh vật bậc cao hơn. Quá trình này đòi hỏi một lượng năng lượng lớn và các điều kiện thiếu ôxy. Các vi khuẩn như thế có thể sống tự do trong đất (như Azotobacter) nhưng thường tồn tại ở dạng cộng sinh trong các nốt sần của rễ câu họ Đậu (như clover, Trifolium, hay đậu nành, Glycine max). Vi khuẩn cố định nitơ cũng cộng sinh với nhiều loài thực vật không liên quan như Alnus, địa y, Casuarina, Myrica, Marchantiophyta, và Gunnera.
+
+
+== Phòng ngừa ==
+Các chất phân bón chứa nitrat bị rửa trôi là nguồn ô nhiễm chính nước ngầm và các con sông. Các hợp chất chứa xyanua (-CN) tạo ra các muối cực độc hại và gây ra cái chết của nhiều động vật.
+
+
+== Xem thêm ==
+Chất dinh dưỡng
+Chu trình nitơ
+NOx
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+WebElements.com – Nitơ
+Nguyên tố nitơ
+Schenectady County Community College – Nitơ
+Nitơ N2-Thuộc tính, sử dụng, ứng dụng
+Wiki hóa điện toán
+Phòng thí nghiệm quốc gia Los Alamos – Nitơ

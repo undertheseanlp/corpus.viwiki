@@ -1,0 +1,118 @@
+Sốt xuất huyết Dengue (IPA: ['deŋgeɪ], tiếng Việt thường đọc là Đăng-gơ) (dengue fever, DF), Sốt xuất huyết Dengue (dengue hemorrhagic fever, DHF) và biểu hiện nặng nề nhất của bệnh là Hội chứng sốc Dengue (Dengue Shock Syndrome, DSS) đều được gây nên bởi một trong bốn loại huyết thanh virus gần gũi nhưng lại khác nhau về mặt kháng nguyên là DEN-1, DEN-2, DEN-3 và DEN-4. Virus này thuộc chi Flavivirus. Nhiễm một loại virus có khả năng tạo nên miễn dịch suốt đời nhưng chỉ chống lại chính loại huyết thanh virus đó mà thôi. Chính vì vậy mà những người sống trong vùng lưu hành dịch Dengue có thể mắc bệnh nhiều hơn một lần trong đời.
+Sốt Dengue và Sốt xuất huyết Dengue chủ yếu là bệnh ở vùng nhiệt đới và cận nhiệt đới. Nhiễm virus Dengue gây nên triệu chứng lâm sàng khác nhau tùy từng cá thể. Bệnh có thể chỉ biểu hiện như một hội chứng nhiễm virus không đặc hiệu hoặc bệnh lý xuất huyết trầm trọng và đưa đến tử vong (1). Trong bài này, thuật ngữ Dengue được sử dụng để chỉ chung cho ba thể bệnh nêu trên. Khi nói đến từng thể riêng biệt thì tên chính xác của thể bệnh đó sẽ được sử dụng.
+Có thể nói Dengue là một bệnh truyền nhiễm lây truyền do muỗi thường gặp nhất ở người. Trong những năm gần đây bệnh đã trở thành mối quan ngại lớn đối với sức khỏe cộng đồng trên bình diện quốc tế. Trên toàn thế giới có khoảng 2,5 tỷ người hiện đang sống trong vùng có lưu hành bệnh. Sự lan tràn về mặt địa lý của cả vector truyền bệnh là muỗi và virus đã đưa đến sự tăng cao tỷ lệ bệnh trong vòng 25 năm qua cũng như khả năng xuất hiện dịch do nhiều loại huyết thanh khác nhau ở các đô thị trong vùng nhiệt đới (2).
+Muỗi vằn là vật trung gian truyền bệnh, đây là loại muỗi sống ở những nơi bùn lầy nước đọng chung quanh nhà, hoặc các nơi ẩm thấp tối tăm trong nhà. Biểu hiện là xuất huyết da, niêm mạc và trụy tim mạch, dễ đưa đến tử vong nếu điều trị không kịp thời và không đúng mức.
+
+
+== Dịch tễ học ==
+
+
+=== Lịch sử ===
+
+Những vụ dịch đầu tiên được ghi nhận xảy ra vào những năm từ 1778-1780 ở châu Á, châu Phi và Bắc Mỹ. Sự xuất hiện gần như đồng thời của các vụ dịch trên ba lục địa khác nhau chứng tỏ rằng virus gây bệnh cũng như vector truyền bệnh đã phân bố rộng rãi trên toàn thế giới đã từ hơn 200 năm trước. Trong thời gian này Dengue chỉ được xem là bệnh nhẹ. Một vụ đại dịch Dengue xuất hiện ở Đông Nam Á sau Chiến tranh thế giới thứ II và từ đó lan rộng trên toàn cầu. Cũng ở khu vực Đông Nam Á, Dengue lần đầu tiên được phát hiện ở Philippines vào năm 1950 nhưng đến năm 1970 bệnh đã trở thành nguyên nhân nhập viện và tử vong thường gặp ở trẻ em trong vùng này (1).
+
+
+=== Xu hướng ===
+Tỉ lệ mắc bệnh trên toàn thế giới đã gia tăng mạnh mẽ trong những năm gần đây. Bệnh này hiện đã trở thành dịch tại trên 100 quốc gia ở châu Phi, châu Mỹ, khu vực phía Đông Địa Trung Hải, Đông Nam Á và Tây Thái Bình Dương. Đông Nam Á và Tây Thái Bình Dương là khu vực chịu ảnh hưởng nặng nề nhất. Trước năm 1970, chỉ có 9 quốc gia có dịch lưu hành. Con số này tăng lên gấp hơn 4 lần vào năm 1995. Tổ chức Y tế Thế giới (WHO) ước tính mỗi năm có khoảng 50 đến 100 triệu người mắc bệnh. Không chỉ có số trường hợp mắc bệnh gia tăng mà khả năng nhiễm nhiều loại virus khác nhau cũng ngày càng đáng báo động. Sau đây là một vài con số thống kê khác (3)(4):
+Trong vụ dịch, tỉ lệ mắc bệnh ở những đối tượng nhạy cảm thường là 40-50% nhưng cũng có thể cao đến 80-90%.
+Mỗi năm có khoảng 500.000 trường hợp Sốt xuất huyết Dengue cần nhập viện, phần lớn trong số đó là trẻ em. Tỉ lệ tử vong chung vào khoảng 2,5%.
+Nếu không được điều trị, tỉ lệ tử vong của Sốt xuất huyết Dengue có thể vượt quá 20%. Với phương thức điều trị tích cực hiện đại, tỉ lệ tử vong có thể thấp hơn 1%.
+
+
+=== Muỗi Aedes ===
+Người nhiễm virus Dengue do muỗi cái thuộc giống Aedes đốt. Muỗi Aedes aegypti là vector truyền bệnh chủ yếu ở hầu hết các khu vực bệnh lưu hành. Muỗi Aedes aegypti hoạt động vào ban ngày và chỉ có muỗi cái mới đốt người và truyền bệnh. Khi muỗi cái Aedes hút máu bệnh nhân nhiễm virus Dengue, virus này sẽ ủ bệnh trong cơ thể muỗi khoảng 8 đến 11 ngày. Trong khoảng thời gian sống còn lại sau đó, muỗi có nguy cơ truyền bệnh cho người. Khi virus vào cơ thể người, chúng tuần hoàn trong máu từ 2 đến 7 ngày. Trong khoảng thời gian này nếu muỗi Aedes hút máu thì virus được truyền cho muỗi. Người là ổ chứa virus chính ngoài ra người ta mới phát hiện ở Malaixia có loài khỉ sống ở các khu rừng nhiệt đới cũng mang virus Dengue. Aedes aegypti có nguồn gốc từ châu Phi. Loài muỗi này dần dần lan tràn ra hầu hết các khu vực có khí hậu nhiệt đới đầu tiên là nhờ tàu thuyền và sau đó có thể cả máy bay nữa (5). Ngày nay có hai dưới nhóm của Aedes aegypti là Ae. aegypti queenslandensis, một dạng hoang dã ở châu Phi không phải là vector truyền bệnh chính và Ae. aegypti formosus là muỗi sống ở khu vực đô thị vùng nhiệt đới và là vector truyền bệnh chính. Trong quá khứ, muỗi Aedes aegypti phải nhờ vào các vũng nước mưa để đẻ trứng. Tuy nhiên ngày nay quá trình đô thị hóa diễn ra với tốc độ ồ ạt đang cung cấp cho muỗi những hồ nước nhân tạo để muỗi đẻ trứng dễ dàng hơn nhiều.
+Aedes albopictus trước đây là vector truyền bệnh chính của Dengue và hiện nay vẫn còn là vector quan trọng ở châu Á. Loài muỗi này gần đây đã lan tràn đến khu vực Trung Mỹ, Hoa Kỳ và tại đây muỗi này là vector truyền bệnh quan trọng thứ hai. Trong khi muỗi Ae. aegypti formosus chủ yếu sống ở khu vực đô thị thì muỗi Aedes albopictus lại cư trú chủ yếu ở vùng nông thôn. Muỗi Aedes aegypti không truyền virus cho trứng trong khi muỗi Aedes albopictus thì có khả năng này (5).
+
+
+== Sinh lý bệnh ==
+Nhiễm virus Dengue thường không có biểu hiện rõ ràng. Sốt Dengue cổ điển (thể nhẹ) chủ yếu xuất hiện ở người lần đầu mắc bệnh, chưa có miễn dịch. Sốt xuất huyết Dengue/Hội chứng sốc Dengue (thể nặng) thường xảy ra trong lần nhiễm trùng sau, khi bệnh nhân đã có sẵn miễn dịch chủ động (do đã bị bệnh) hoặc thụ động (do mẹ truyền sang) đối với một loại huyết thanh khác. Bệnh thường biểu hiện nặng đột ngột sau 2 đến 5 ngày (giai đoạn hạ sốt). Các phức hợp kháng nguyên-kháng thể lưu hành trong máu, sự hoạt hóa hệ thống bổ thể và giải phóng các chất hoạt mạch có thể gây nên tăng tính thấm mao mạch đối với huyết tương, xuất huyết và có thể là đông máu nội mạch lan tỏa. Trong quá trình đào thải miễn dịch của các tế bào nhiễm virus, các protease và lymphokine được phóng thích gây hoạt hóa hệ thống bổ thể cũng như các yếu tố tăng tính thấm thành mạch (7).
+Miễn dịch tăng cường bệnh: Một số nhà nghiên cứu đưa ra giả thuyết rằng "thể nặng của bệnh là Sốt xuất huyết Dengue/Hội chứng sốc Dengue xảy ra khi một người đã nhiễm bệnh trong quá khứ bởi một loại huyết thanh virus nay lại nhiễm một loại huyết thanh virus khác". Giả thuyết này được củng cố bởi các ghi nhận lâm sàng rằng Sốt xuất huyết Dengue gặp chủ yếu ở những người đã ít nhất một lần mắc bệnh trước đó và Sốt xuất huyết Dengue xảy ra thường xuyên hơn ở các cư dân trong vùng dịch lưu hành hơn là các du khách mắc bệnh tại nơi này trong cùng thời điểm. Nếu giả thuyết này là đúng hoàn toàn thì việc lưu chuyển các loại huyết thanh virus khác nhau từ vùng này đến vùng khác trên thế giới sẽ ngày càng gây nên tình trạng bệnh nặng nề hơn trong tương lai (5).
+Như vậy yếu tố nguy cơ gây bệnh nặng trong Sốt xuất huyết Dengue là người sẵn có kháng thể kháng lại một loại huyết thanh đã gây bệnh trước đó, chủng virus gây bệnh, trẻ nhỏ hơn 12 tuổi, phụ nữ và người Caucasian (1) (4).
+
+
+== Triệu chứng và chẩn đoán ==
+
+
+=== Triệu chứng ===
+Thời kỳ ủ bệnh: 3 - 6 ngày, một số trường hợp có thể kéo dài đến 15 ngày.
+Sốt Dengue
+Triệu chứng thường xuất hiện đột ngột với sốt cao, người mệt mỏi rũ rượi, nhức đầu, đau sau hốc mắt, đau cơ (đau thắt lưng và đôi khi đau chân), thường kèm theo đau họng, chảy nước mũi trong, buồn nôn, nôn mửa, đau vùng thượng vị và tiêu chảy cần quan sát màu sắc phân xem có lẫn máu màu đỏ tươi hay màu đen màu đen có thể xuất huyết dạ dày.
+Ở trẻ em, đau họng và đau bụng thường là những triệu chứng nổi trội. Hạ sốt xuất hiện vào ngày thứ 3 đến ngày thứ 8 thường kèm biểu hiện xuất huyết nhẹ nhàng (chấm xuất huyết dưới da, nốt xuất huyết và chảy máu mũi, chảy máu chân răng). Sau khi hạ sốt thường xuất hiện ban dạng dát sẩn đa hình thái, đôi khi gây ngứa, đầu tiên ở thân mình và lan rộng theo hướng ly tâm đến các chi, mặt, lòng bàn tay và lòng bàn chân. Một số trường hợp có thể bệnh có thể tiến triển đến xuất huyết tiêu hóa và sốc. Như vậy biểu hiện xuất huyết không chỉ Sốt xuất huyết Dengue mới có (6).
+Sốt xuất huyết Dengue
+Giai đoạn sớm của bệnh không thể phân biệt được với sốt Dengue. Tuy nhiên thường sau từ 2 đến 5 ngày, tức là vào giai đoạn hạ sốt, một số trường hợp nhiễm trùng tiên phát và đa số các nhiễm trùng thứ phát sau khi đã nhiễm một loại huyết thanh khác có biểu hiện hạ tiểu cầu (< 100.000/mm³) và cô đặc máu. Thường thì giảm tiểu cầu xảy ra trước cô đặc máu. Biểu hiện xuất huyết có thể xảy ra hoặc không. Các biểu hiện xuất huyết thường gặp trong Sốt xuất huyết Dengue gồm xuất huyết dưới da tự phát hoặc sau tiêm chích, chảy máu chân răng, chảy máu mũi và xuất huyết tiêu hóa. Lách thường không không lớn. Nếu gan lớn và đau thì đây là những dấu hiệu xấu. Các biểu hiện khác có thể gồm tràn dịch màng phổi, giảm protein máu, bệnh lý não với dịch não tủy bình thường (6).
+Tính thấm mao mạch gia tăng, với hậu quả thoát huyết tương ra ngoài khoang dịch kẽ với lượng lớn, là nguyên nhân của tình trạng cô đặc máu. Khi bệnh nhân có đồng thời hai dấu hiệu giảm tiểu cầu và cô đặc máu thì được chẩn đoán là Sốt xuất huyết Dengue và được phân loại theo WHO (6):
+Độ I: giảm tiểu cầu kèm cô đặc máu nhưng không có chảy máu tự phát.
+Độ II: giảm tiểu cầu và cô đặc máu kèm theo chảy máu tự phát.
+Độ III: giảm tiểu cầu và cô đặc máu, huyết động không ổn định: mạch nhỏ khó bắt, huyết áp kẹt (hiệu số huyết áp tâm thu - huyết áp tâm trương < 20 mm Hg), tay chân lạnh, tinh thần lú lẫn.
+Độ IV: giảm tiểu cầu và cô đặc máu, sốc biểu hiện rõ: bệnh nhân không có mạch ngoại biên, huyết áp = 0 mmHg.
+Nếu được điều trị thoát sốc thì bệnh nhân lành bệnh nhanh chóng và rất hiếm có di chứng (6).
+
+
+=== Chẩn đoán ===
+Chẩn đoán nguyên nhân là cực kỳ quan trọng và cần thiết nếu xét trên phương diện sức khỏe cộng đồng nhưng lại tỏ ra không cần thiết cho việc thiết lập một chế độ điều trị hỗ trợ sớm cho bệnh nhân. Chẩn đoán Dengue thường dựa vào các yếu tố dịch tễ, biểu hiện lâm sàng như trình bày ở trên cũng như dựa vào các xét nghiệm đơn giản: số lượng bạch cầu, số lượng tiểu cầu và hematocrit. Nếu chưa có ban đỏ xuất huyết ta làm nghiệm pháp dây thắt để chẩn đoán xác định.
+Số lượng bạch cầu trong máu ngoại vi: Dengue xuất huyết thường có giảm bạch cầu. Trường hợp tăng bạch cầu và tăng bạch cầu trung tính thường là cơ sở để loại trừ Dengue xuất huyết.
+Giảm tiểu cầu (< 100.000/mm³): Cần làm số lượng tiểu cầu ở bất kỳ bệnh nhân nào nghi ngờ Sốt xuất huyết Dengue. Tiểu cầu càng giảm, nguy cơ xuất huyết càng cao.
+Hematocrit: Khi giá trị hematocrit tăng trên 20% so với trị số bình thường trước đó thì bệnh nhân được coi là có cô đặc máu, một tiêu chuẩn chẩn đoán Sốt xuất huyết Dengue. Nếu không biết được giá trị hematocrit bình thường của bệnh nhân thì có thể xem giá trị > 45% là mốc chẩn đoán (6).
+Một số xét nghiệm khác nhằm đánh giá mức độ bệnh: điện giải đồ, khí máu, chức năng đông máu, men gan, X quang phổi nhằm phát hiện biến chứng tràn dịch màng phổi (4).
+Chẩn đoán nguyên nhân: có thể thể hiện mầm bệnh trong máu và huyết thanh bằng phương pháp phân lập virus, xác định kháng nguyên virus bằng các phương pháp miễn dịch hoặc phát hiện bộ gene của virus bằng kỹ thuật khuếch đại chuỗi ADN (PCR).
+Chẩn đoán huyết thanh học thông qua phương pháp xác định IgM bằng kỹ thuật hấp phụ miễn dịch gắn kết enzyme (MAC - ELISA) ở hai mẫu máu bệnh nhân lấy cách nhau 14 ngày. Mẫu máu thứ nhất lấy trước ngày thứ 7 của bệnh cũng có thể có ích trong việc phân lập virus bằng cách cấy vào tế bào của muỗi A. albopictus. Sau đó, việc định danh vi khuẩn có thể thực hiện nhờ xét nghiệm miễn dịch huỳnh quang sử dụng kháng thể đơn dòng.
+Ở bệnh nhân tử vong, chẩn đoán có thể thực hiện bằng phương pháp phân lập virus hoặc xác định kháng nguyên virus (phản ứng miễn dịch huỳnh quang trực tiếp) từ hai mẫu bệnh phẩm (gan, lách, hạch bạch huyết, tuyến ức).
+
+
+== Điều trị ==
+
+
+=== Nguyên tắc chung ===
+Vấn đề mất nước trong Sốt xuất huyết Dengue Không phải Sốt xuất huyết Dengue gây mất nước. Đây là sự nhầm lẫn quá lâu dài. Bệnh dù nặng dù nhẹ không có mất nước trên lâm sàng. Cân nặng không giảm, da không khô, một số tế bào nội tạng đả thừa nước thấy được trên siêu âm. Thường và đa số bệnh nhân Sốt xuất huyết Dengue là đủ và thừa nước, đả đủ nước ngay lúc mới bắt đầu truyền dịch cấp cứu. Vì sao phải truyền dịch cấp cứu sốc Dengue. Vì bệnh nhân bị giảm thể tích tuần hoàn máu. Tại sao bị giảm thể tích tuần hoàn máu, giảm khoảng 20 đến 30% thế tích. Vì Albumin trong máu thoát quản ra khỏi lòng mạch. Nước bình thường ra vào giữa lòng mạch với các mô và tế bào, nay không trở vào lòng mạch cho đủ nhu cầu, bởi một số lớn Albumin hiện diện ngoài lòng mạch. Có thể nói bệnh siêu vi Dengue gây thoát quản huyết tương, không phải là bệnh mất nước. Đây là điểm mấu chốt, quan trọng để sớm thay đổi tư duy điều trị.
+
+
+=== Phân cấp điều trị bệnh nhân ===
+Sau đây là những gợi ý về phân cấp bệnh nhân theo tuyến điều trị trong trường hợp có dịch với lượng bệnh nhân tăng cao trong cùng thời điểm. Xin lưu ý đây chỉ là những gợi ý và tuyệt đối không phải là phác đồ điều trị nên không thể áp dụng cho mọi trường hợp (6).
+Tiêu chuẩn điều trị tại nhà:
+Tất cả những bệnh nhân Sốt Dengue không có nhu cầu phải truyền dịch tĩnh mạch.
+Bệnh nhân Độ I có khả năng bù dịch bằng đường uống.
+Bệnh nhân Độ II có khả năng bù dịch bằng đường uống và không có chảy máu quan trọng.
+Tiêu chuẩn nhập viện trong thời gian ngắn (12 - 24 giờ):
+Tất cả những trường hợp bệnh cần bù dịch qua đường tĩnh mạch.
+Bệnh nhân Độ I và Độ II và không thể điều trị bù dịch bằng đường uống.
+Bệnh nhân Độ I hoặc Độ II nhưng có đau tức gan và gan lớn.
+Tất cả bệnh nhân độ III.
+Tiêu chuẩn nhập viện trong thời gian dài (> 24 giờ):
+Tất cả bệnh nhân thuộc nhóm nhập viện trong thời gian ngắn không đáp ứng điều trị bù dịch.
+Bệnh nhân Độ I hoặc Độ II kèm theo nhưng yếu tố cơ địa dễ chuyển thành bệnh nặng (hen phế quản, dị ứng, đái tháo đường, bệnh phổi tắc nghẽn mạn tính...).
+Bệnh nhân Độ II hoặc Độ III và có chảy máu quan trọng.
+Tất cả bệnh nhân Độ IV.
+
+
+== Dự phòng ==
+
+
+=== Vaccine ===
+Lý tưởng nhất là có một vaccine có thể chống lại cả bốn loại huyết thanh virus gây bệnh. Đáng tiếc là một loại huyết thanh như vậy hiện nay vẫn chưa có sẵn. Tuy nhiên đã có một nghiên cứu tại Đại học Mahidol (Thái Lan) với sự cộng tác của WHO, một vaccine chống cả bốn loại huyết thanh virus gây bệnh đã, đang được phát triển và hoàn thiện. Vaccine này tỏ ra an toàn và hiện đang được đưa vào dùng thử nghiệm trên lâm sàng (5). Hiện nay vaccin chống SXH cả 4 typ siêu vi Dengue đang ở pha 2 thử nghiệm lâm sàng.
+
+
+=== Kiểm soát vector truyền bệnh ===
+Hiện tại, kiểm soát vector truyền bệnh được xem là phương pháp phòng bệnh duy nhất có hiệu quả (3). Kiểm soát các vector Aedes có thể làm giảm đáng kể tỉ lệ mắc bệnh Dengue. Trong những năm 1950 đến 1960 Tổ chức Y tế Toàn châu Mỹ (Pan American Health Organization) đã thành công trong việc diệt sạch Aedes aegypti ở nhiều vùng thuộc Trung và Nam Mỹ và trong thời gian này, các vụ dịch Dengue rất hiếm ở châu Mỹ. Tuy nhiên sau khi chương trình ngừng lại thì Aedes aegypti và sau đó là Dengue tái xuất hiện.
+Phương pháp chính để kiểm soát số lượng muỗi Aedes là giảm thiểu các khu vực có nước đọng, là nơi đẻ trứng của muỗi. Đậy kín các dụng cụ chứa nước, giảm tối đa các vật dụng có thể chứa nước mưa (lốp xe cũ, chén bát cũ...), hay nước sạch như bình bông, bàn cầu trong các phòng trống không có người ở, hầm nước ở các chung cư. Có thể dùng các loại sinh vật trong nước tiêu diệt trứng của muỗi. Trong vụ dịch đôi khi phải cần đến phun thuốc diệt muỗi trên diện rộng.
+Cũng giống như tất cả các bệnh lây truyền do arbovirus khác, các phương pháp bảo hộ cá nhân như mặc tất, vớ dài, dùng thuốc xua muỗi, tránh nhưng nơi có mật độ vector truyền bệnh cao. Một điểm đặc biệt là muỗi Aedes aegypti hoạt động vào ban ngày nên việc phòng tránh có khác so với các loại muỗi chỉ hoạt động ban đêm như Anophele và Culex.
+
+
+=== Giáo dục cộng đồng ===
+Việc nâng cao ý thức cộng đồng về nguy cơ của bệnh, các phương pháp phòng bệnh cũng như khả năng nhận biết bệnh và bệnh nặng có ý nghĩa rất quan trọng.
+
+
+== Tham khảo ==
+1. CDC. Dengue Fever [1].
+2. Epidemic and Pandemic Alert and Response (EPR)/WHO. Dengue/dengue haemorrhagic fever [2].
+3. Media Center/WHO. Dengue and dengue haemorrhagic fever [3].
+4. MedlinePlus Medical Encyclopedia. Dengue Hemorrhgic Fever [4].
+5. Boston College. Dengue Fever and Dengue Hemorrhagic Fever [5]
+6. Marcio De Figueiredo Fernandes. Dengue/Dengue Hemorrhagic Fever. Infectious Diseases. Medstudents [6].
+7. Price D,. Wilson SR. Dengue Fever. Emedicine [7].
+
+
+== Liên kết ngoài ==
+Sốt Dengue và sốt xuất huyết Dengue trên trang web Bộ Y tế Việt Nam.
+Phòng chống sốt xuất huyết trên trang web Thông tin Y dược Việt Nam
+Phòng chống sốt xuất huyết trên trang web dantri.com
+Phòng chống sốt xuất huyết trên Vnexpress.net

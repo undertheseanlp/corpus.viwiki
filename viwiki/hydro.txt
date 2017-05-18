@@ -1,0 +1,130 @@
+Hydro (tiếng Anh: hydrogen, từ tiếng Latinh: hydrogenium) là một nguyên tố hóa học trong hệ thống tuần hoàn các nguyên tố với nguyên tử số bằng 1, nguyên tử khối bằng 1 đvC. Trước đây còn được gọi là khinh khí (như trong "bom khinh khí" tức bom H); hiện nay từ này ít được sử dụng. Sở dĩ được gọi là "khinh khí" là do hydro là nguyên tố nhẹ nhất và tồn tại ở thể khí, với trọng lượng nguyên tử 1,00794 u. Hydro là nguyên tố phổ biến nhất trong vũ trụ, tạo nên khoảng 75% tổng khối lượng vũ trụ và tới trên 90% tổng số nguyên tử. Các sao thuộc dải chính được cấu tạo chủ yếu bởi hydro ở trạng thái plasma. Hydro nguyên tố tồn tại tự nhiên trên Trái Đất tương đối hiếm do khí hydro nhẹ nên trường hấp dẫn của Trái Đất không đủ mạnh để giữ chúng khỏi thoát ra ngoài không gian, do đó hydro tồn tại chủ yếu dưới dạng hydro nguyên tử trong các tầng cao của khí quyển Trái Đất.
+Đồng vị phổ biến nhất của hydro là proti, ký hiệu là H, với hạt nhân là một proton duy nhất và không có neutron. Ngoài ra hydro còn có một đồng vị bền là deuteri, ký hiệu là D, với hạt nhân chứa một proton và một neutron và một đồng vị phóng xạ là triti, ký hiệu là T, với hai neutron trong hạt nhân.
+Với vỏ nguyên tử chỉ có một electron, nguyên tử hydro là nguyên tử đơn giản nhất được biết đến, và cũng vì vậy nguyên tử hydro tự do có một ý nghĩa to lớn về mặt lý thuyết. Chẳng hạn, vì nguyên tử hydro là nguyên tử trung hòa duy nhất mà phương trình Schrödinger có thể giải được chính xác nên việc nghiên cứu năng lượng và cấu trúc điện tử của nó đóng vai trò quan trọng trong sự phát triển của cả cơ học lượng tử và hóa học lượng tử.
+Ở điều kiện thường, các nguyên tử hydro kết hợp với nhau tạo thành những phân tử gồm hai nguyên tử H2. (Ở những nhiệt độ cao, quá trình ngược lại xảy ra.) Khí hydro lần đầu tiên được điều chế một cách nhân tạo vào đầu thế kỉ 16 bằng cách nhúng kim loại vào trong một axit mạnh. Vào những năm 1766-1781, Henry Cavendish là người đầu tiên nhận ra rằng hydro là một chất riêng biệt và rằng khi bị đốt trong không khí nó tạo ra sản phẩm là nước. Tính chất này chính là nguồn gốc của cái tên "hydrogen", trong tiếng Hy Lạp nghĩa là "sinh ra nước". Ở điều kiện tiêu chuẩn, hydro là một chất khí lưỡng nguyên tử không màu, không mùi, không vị và là một phi kim.
+Trong các hợp chất ion, hydro có thể có thể tồn tại ở hai dạng. Trong các hợp chất với kim loại, hydro tồn tại dưới dạng các anion hydrua mang một điện tích âm, ký hiệu H-. Hydro còn có thể tồn tại dưới dạng các cation H+ là ion dương sinh ra do nguyên tử hydro bị mất đi một electron duy nhất của nó. Tuy nhiên một ion dương với cấu tạo chỉ gồm một proton trần trụi (không có electron che chắn) không thể tồn tại được trong thực tế do tính dương điện hay tính axit và do đó khả năng phản ứng với các phân tử khác của H+ là rất cao. Một cation hydro thực sự chỉ tồn tại trong quá trình chuyển proton từ các axit sang các bazơ (phản ứng axit-bazơ). Trong dung dịch nước H+ (do chính nước hoặc một loại axit khác phân ly ra) kết hợp với phân tử nước tạo ra các cation hydroni H3O+, thường cũng được viết gọn là H+. Ion này đóng một vai trò đặc biệt quan trọng trong hóa học axit-bazơ.
+Hydro tạo thành các hợp chất cộng hóa trị với hầu hết các nguyên tố khác. Nó có mặt trong nước và hầu hết các hợp chất hữu cơ cũng như các cơ thể sống.
+
+
+== Thuộc tính ==
+Ở nhiệt độ và áp suất tiêu chuẩn hydro là một khí lưỡng nguyên tử có công thức phân tử H2, không màu, không mùi, dễ bắt cháy, có nhiệt độ sôi 20,27 K (-252,87 °C) và nhiệt độ nóng chảy 14,02 K (-259,14 °C). Tinh thể hydro có cấu trúc lục phương. Hydro có hóa trị 1 và có thể phản ứng với hầu hết các nguyên tố hóa học khác.
+
+
+=== Cháy ===
+
+Khí hydro (hay phân tử hydro) có tính cháy cao và sẽ cháy trong không khí trong khoảng nồng độ thể tích từ 4% đến 75%. Entropy của quá trình cháy hydro là −286 kJ/mol:
+2 H2(g) + O2(g) → 2 H2O(l) + 572 kJ (286 kJ/mol)
+Khí hydro nổ với hỗn hợp không khí với nồng độ 4–74% và với clo nếu nồng độ nó là 5–95%. Hỗn hợp có thể được đốt cháy bằng tia lửa, nhiệt hoặc ánh sáng mặt trời. Nhiệt độ tự cháy của hydro trong không khí là 500 °C (932 °F). Hỗn hợp oxy-hydro tinh khiết cháy phát ra ánh sáng tử ngoại và hỗn hợp với nhiều oxy cháy gần như không thể quan sát bằng mắt thường như được minh họa trong Space Shuttle Main Engine so với chùm lửa dễ nhìn thấy của Space Shuttle Solid Rocket Booster. Việc phá hiện Phát hiện rò rỉ khí hydro cháy có thể cần một thiết bị báo cháy; rò rỉ như vậy có thể rất nguy hiểm. Ngọn lửa hydro trong các điều kiện khác là màu xanh, giống như ngọn lửa khí đốt thiên nhiên màu xanh.
+
+
+=== Nguyên tử hydro ===
+
+Nguyên tử hydro là nguyên tử của nguyên tố hydro. Nó bao gồm một electron có điện tích âm quay xung quanh proton mang điện tích dương là hạt nhân của nguyên tử hydro. Điện tử và proton liên kết với nhau bằng lực Culông.
+
+
+== Đồng vị ==
+Hydro có 3 đồng vị tự nhiên gồm 1H, 2H và 3H. Các đồng vị khác có hạt nhân không bền (4H đến 7H) được tổng hợp trong phòng thí nghiệm nhưng không quan sát được trong tự nhiên.
+Hydro là nguyên tố duy nhất có các tên gọi khác nhau cho các đồng vị của nó. (Trong giai đoạn đầu của nghiên cứu phóng xạ, các đồng vị phóng xạ nặng khác nhau cũng được đặt tên, nhưng các tên gọi này không được sử dụng, mặc dù một nguyên tố, radon, có tên gọi mà nguyên thủy được dùng chỉ cho một đồng vị của nó). Các ký hiệu D và T (thay vì H2 và H3) đôi khi được sử dụng để chỉ đơteri và triti, mặc dù điều này không được chính thức phê chuẩn. Ký hiệu P đã được sử dụng cho photpho và không thể sử dụng để chỉ proti.
+1H: Đồng vị phổ biến nhất của hydro chiếm hơn 99,98%, đồng vị ổn định này có hạt nhân chỉ chứa duy nhất một proton; vì thế trong miêu tả (mặc dù ít) gọi là proti.
+2H: Đồng vị ổn định có tên là deuteri, với thêm một neutron trong hạt nhân. Nó chiếm khoảng 0,0184-0,0082% của toàn bộ hydro (IUPAC); tỷ lệ của nó tới proti được xác định liên quan với nước tham chiếu tiêu chuẩn của VSMOW. Deuteri không có tính phóng xạ, và không thể hiện độc tính. Nước được làm giàu chứa deuteri thay vì hydro thông thường được gọi là nước nặng. Deuteri và các hợp chất của nó được dùng làm nhãn hiệu không phóng xạ trong các thí nghiệm hóa học và trong các dung môi dùng 1H-quang phổ NMR. Nước nặng được dùng làm chất điều hòa neutron và chất làm lạnh trong các lò phản ứng hạt nhân. Deuteri cũng có thể là nhiên liệu tiềm năng trong các phản ứng tổng hợp hạt nhân thương mại.
+3H: Đồng vị phóng xạ tự nhiên có tên là triti. Hạt nhân của nó có hai neutron và một proton. Nó phân rã theo phóng xạ beta và chu kỳ bán rã là 12,32 năm. Do có tính phóng xạ nên nó có thể được dùng trong sơn phản quang, như trong các loại đồng hồ. Tấm thủy tinh ngăn chặn một lượng nhỏ phóng xạ thoát ra ngoài. Một lượng nhỏ triti có mặt trong tự nhiên do sự phản ứng giữa các tia vũ trụ với các khí trong khí quyển; triti cũng được giải phóng trong các thử nghiệm vũ khí hạt nhân. Nó được dùng trong các phản ứng tổng hợp hạt nhân, ở dạng vết trong địa hóa đồng vị, và đặc biệt trong các thiết bị tự phát sáng. Triti cũng được dùng trong các thí nghiệm ghi nhãn hóa học và sinh học.
+4H: Hydro-4 được tổng hợp khi bắn phá triti bằng hạt nhân đơteri chuyển động cực nhanh. Nó phân rã tạo ra bức xạ neutron và có chu kỳ bán rã 9,93696x10−23 giây.
+5H: Năm 2001 các nhà khoa học phát hiện ra hydro-5 bằng cách bắn phá hydro bằng các ion nặng. Nó phân rã tạo ra bức xạ neutron và có chu kỳ bán rã 8,01930x10−23 giây.
+6H: Hydro-6 phân rã tạo ra ba bức xạ neutron và có chu kỳ bán rã 3,26500x10−22 giây.
+7H: Năm 2003 hydro-7 đã được tạo ra tại phòng thí nghiệm RIKEN ở Nhật Bản bằng cách cho va chạm dòng các nguyên tử heli-8 năng lượng cao với mục tiêu hydro lạnh và phát hiện ra các triton - hạt nhân của nguyên tử triti - và các neutron từ sự phá vỡ của hydro-7, giống như phương pháp sử dụng để sản xuất và phát hiện hydro-5.
+
+
+== Lịch sử ==
+
+
+=== Phát hiện và sử dụng ===
+Hydro (trong tiếng Pháp, hydrogène, hydr-, thân từ của hydros, tiếng Hy Lạp nghĩa là "nước", và -gène, tiếng Pháp nghĩa là "sinh", có nghĩa là "sinh ra nước" khi hợp với Oxy Năm 1671, Robert Boyle đã phát hiện và miêu tả phản ứng giữa sắt và axit loãng sinh ra khí hydro. Năm 1766, Hydro lần đầu tiên được Henry Cavendish phát hiện như một chất riêng biệt, và đặt tên khí từ phản ứng kim loại-axit là "khí có thể cháy". và phát hiện năm 1781 rằng khí này tạo ra nước khi đốt. Ông thường được tín dụng cho phát hiện của nó như là một yếu tố. Cavendish tình cờ tìm ra nó khi thực hiện các thí nghiệm với thủy ngân và các axit. Mặc dù ông đã sai lầm khi cho rằng hydro là hợp chất của thủy ngân (và không phải của axit), nhưng ông đã có thể miêu tả rất nhiều thuộc tính của hydro rất cẩn thận. Năm 1783, Antoine Lavoisier đặt tên cho nguyên tố này và chứng tỏ nước được tạo ra từ hydro và oxy. không ông và Laplace lập lại thí nghiệm phát hiện của Cavendish thì nước được tạo ra khi hydro bị đốt cháy. Lavoisier tạo ra hydro từ các thí nghiệm nổi tiếng của ông về bảo tồn khối lượng bằng cách phản ứng của dòng hơi nước với sắt kim loại qua một sống sắt nung trên lửa. Quá trình oxy hóa kỵ khí của sắt của các proton của nước ở nhiệt độ cao có thể được biểu diễn theo các phản ứng sau:
+Fe + H2O → FeO + H2
+2 Fe + 3 H2O → Fe2O3 + 3 H2
+3 Fe + 4 H2O → Fe3O4 + 4 H2
+Nhiều kim loại như zirconi trải qua phản ứng tương tự với nước tạo ra hydro.
+Hydro được hóa lỏng lần đầu tiên bởi James Dewar năm 1898 bằng cách sử dụng bộ phận làm lạnh và phát minh của ông phích nước. Ông đã tạo ra hydro rắn vào năm sau đó. Deuteri được Harold Urey phát hiện vào tháng 12 năm 1931 bằng cách chưng cất một mẫu nước nhiều lần, với phát minh này Urey nhận giải Nobel năm 1934. Triti được Ernest Rutherford, Mark Oliphant, và Paul Harteck điều chế năm 1934. Nước nặng được nhóm của Urey phát hiện năm 1932. François Isaac de Rivaz đã tạo động cơ de Rivaz đầu tiên sử dụng năng lượng từ việc đốt cháy hỗn hợp hydro và oxy năm 1806. Edward Daniel Clarke đã phát minh ra ống xì hàn hydro năm 1819. Đèn Döbereiner và đèn sân khấu được phát minh năm 1823.
+Một trong những ứng dụng đầu tiên của nó là khinh khí cầu, được Jacques Charles phát minh năm 1783.. Hydro tạo lực nâng cho dạng du hành trên không vào năm 1852, đây là phát minh tàu hàng không dùng lực nâng hydro đầu tiên của Henri Giffard. Ferdinand von Zeppelin đã thúc đẩy ý tưởng khi khí cầu cứng dùng lực nâng của hydro mà sau này được gọi là Zeppelin; khi khí cầu đầu tiên bay năm 1900. Các chuyến bay trở nên thường xuyên hơn bắt đầu năm 1910 và khi nổ ra chiến tranh thế giới thứ nhất vào tháng 8 năm 1914, khi khí cầu đã vận chuyển 35.000 hành khách mà không có tai nạn nghiêm trọng. Tàu không khí lực nâng hydro được dùng làm các điểm qua sát và thả bom trong suốt cuộc chiến.
+
+
+=== Vai trò trong thuyết lượng tử ===
+
+Do cấu trúc nguyên tử tương đối đơn giản của nó chỉ gồm một proton và một electron, nguyên tử hydro, cùng với quang phổ ánh sáng từ nó hoặc nó hấp thụ, là trung tâm của sự phát triển học thuết về cấu trúc nguyên tử. Hơn thế nữa, sự đơn giản tương ứng của phân tử hydro và cation tương ứng H+2 cho phép hiểu biết đầy đủ hơn về các liên kết hóa học tự nhiên, sau một thời gian ngắn sau khi cơ học lượng tử của nguyên tử hydro đã được phát triển vào giữa thập niên 1920.
+Một trong những hiệu ứng lượng tử đầu tiên được nhận thấy rõ ràng là quan sát của Maxwell liên quan đến hydro, nửa thế kỷ trước khi học thuyết cơ học lượng tử được phát triển toàn diện. Maxwell đã quan sát nhiệt dung riêng của H2 không thể tính được của khí hai nguyên tử dưới nhiệt độ phòng và bắt đầu ngày càng giống với khí đơn nguyên tử ở nhiệt độ đông đặc. Theo thuyết lượng tử, ứng xử này xuất phát từ khoảng cách các mức năng lượng quay (lượng tử hóa), nó làm mở rộng khoảng cách trong H2 do khối lượng thấp của nó. Các mức khoảng cách rộng này ức chế tỷ lệ bằng nhau của năng lượng nung trong chuyển động quay trong hydro ở các mức nhiệt độ thấp. Các khí hai nguyên tử bao gồm các nguyên tử nặng hơn không có các mức khoảng cách rộng này và không thể hiện cùng hiệu ứng.
+
+
+== Trạng thái thiên nhiên ==
+Hydro là nguyên tố phổ biến nhất trong vũ trụ, chiếm 75% các vật chất thông thường theo khối lượng và trên 90% theo số lượng nguyên tử. Nguyên tố này được tìm thấy với một lượng khổng lồ trong các ngôi sao và các hành tinh khí khổng lồ. Các đám mây phân tử của H2 liên quan đến sự hình thành sao. Hydro đóng vai trò quan trọng trong việc cung cấp năng lượng ngôi sao thông qua phản ứng proton-proton và tổng hợp hạt nhân chu trình CNO.
+Trong khắp vũ trụ, hydro được tìm thấy chủ yếu ở các trạng thái nguyên tử và plasma với các tính chất khác với hydro phân tử. Ở dạng plasma, electron và proton của hydro không liên kết cùng nhau, tạo thành các chất dẫn diện rất cao và phát xạ cao. Các hạt tích điện bị ảnh hưởng cao bởi từ trường và điện trường. Ví dụ, gió mặt trời tương tác với từ quyển của Trái Đất làm tăng dòng Birkeland và Aurora. Hydro được phát hiện ở trạng thái nguyên tử trung hòa điện trong các môi trường liên sao. Một lượng lớn hydro trung hòa được tìm thấy trong các hệ Lyman-alpha bị hãm được cho là thống trị mật độ baryon vũ trụ của Vũ trụ đến dịch chuyển đỏ z=4.
+Tuy vậy, trên Trái Đất nó có rất ít trong khí quyển (1 ppm theo thể tích). Tuy nhiên, hydro là nguyên tố phổ biến thứ 3 trên bề mặt Trái Đất, chủ yếu là ở dạng hợp chất hóa học như nước và hydrocacbon. Hydro được tạo ra bởi một số vi khuẩn và tảo và là thành phần tự nhiên của trung tiện như ở dạng metan, là nguồn hydro có độ quan trọng ngày càng cao. Các nguồn khác bao gồm phần lớn các chất hữu cơ (hiện tại là mọi dạng của cơ thể sống), than, nhiên liệu hóa thạch và khí tự nhiên. Metan (CH4) là một nguồn quan trọng của hydro. Dưới áp suất cực cao, chẳng hạn như tại trung tâm của các hành tinh khí khổng lồ (như Sao Mộc), các phân tử hydro mất đặc tính của nó và hydro trở thành một kim loại (xem hydro kim loại). Dưới áp suất cực thấp, như trong khoảng không vũ trụ, hydro có xu hướng tồn tại dưới dạng các nguyên tử riêng biệt, đơn giản vì không có cách nào để chúng liên kết với nhau; các đám mây H2 tạo thành và được liên kết trong quá trình hình thành các ngôi sao.
+Hydro đóng vai trò sống còn trong việc cung cấp năng lượng trong vũ trụ thông qua các phản ứng proton-proton và chu trình cacbon - nitơ. (Đó là các phản ứng nhiệt hạch giải phóng năng lượng khổng lồ thông qua việc tổ hợp hai nguyên tử hydro thành một nguyên tử heli.)
+
+
+== Điều chế, sản xuất ==
+Trong phòng thí nghiệm, hydro được điều chế bằng phản ứng của axit với kim loại, như kẽm chẳng hạn. Để sản xuất công nghiệp có giá trị thương mại nó được điều chế từ khí thiên nhiên. Điện phân nước là biện pháp đơn giản nhưng không kinh tế để sản xuất hàng loạt hydro. Các nhà khoa học đang nghiên cứu để tìm ra những phương pháp điều chế mới như sản xuất hydro sinh học sử dụng quá trình quang phân ly nước ở tảo lục hay việc chuyển hóa các dẫn xuất sinh học như glucose hay sorbitol ở nhiệt độ thấp bằng các chất xúc tác mới.
+Hydro có thể điều chế theo nhiều cách khác nhau: hơi nước qua than (cacbon) nóng đỏ, phân hủy hydrocacbon bằng nhiệt, phản ứng của các bazơ mạnh (kiềm) trong dung dịch với nhôm, điện phân nước hay khử từ axit loãng với một kim loại (có khả năng đẩy hydro từ axit) nào đó.
+Việc sản xuất thương mại của hydro thông thường là từ khí tự nhiên được xử lý bằng hơi nước nóng. Ở nhiệt độ cao (700-1.100 °C), hơi nước tác dụng với metan để sinh ra cacbon monoxit và hydro.
+CH4 + H2O → CO + 3 H2
+Điện phân dung dịch có màng ngăn:
+2NaCl + 2H2O → 2NaOH + H2 + Cl2
+Điện phân nước:
+2H2O → 2H2 + O2
+Lượng hydro bổ sung có thể thu được từ cacbon monoxit thông qua phản ứng nước-khí sau:
+CO + H2O → CO2 + H2
+
+
+== Hợp chất ==
+Là nhẹ nhất trong mọi chất khí, hydro liên kết với phần lớn các nguyên tố khác để tạo ra hợp chất. Nó có độ điện âm 2,2 vì thế nó tạo ra hợp chất ở những chỗ mà nó là nguyên tố mang tính phi kim loại nhiều hơn (1) cũng như khi nó là nguyên tố mang tính kim loại nhiều hơn (2). Các chất loại đầu tiên gọi là hiđrua, trong đó hydro hoặc là tồn tại dưới dạng ion H- hay chỉ là hòa tan trong các nguyên tố khác (chẳng hạn như hiđrua palađi). Các chất loại thứ hai có xu hướng cộng hóa trị, khi đó ion H+ là một hạt nhân trần và có xu hướng rất mạnh để hút các điện tử vào nó. Các dạng này là các axit. Vì thế thậm chí trong các dung dịch axit người ta có thể tìm thấy các ion như hydroni (H3O+) cũng như proton.
+Hydro kết hợp với oxy tạo ra nước, H2O và giải phóng ra năng lượng, nó có thể nổ khi cháy trong không khí. Oxit deuteri, hay D2O, thông thường được nói đến như nước nặng. Hydro cũng tạo ra phần lớn các hợp chất với cacbon. Vì sự liên quan của các chất này với các loại hình sự sống nên người ta gọi các hợp chất này là các chất hữu cơ, việc nghiên cứu các thuộc tính của các chất này thuộc về hóa hữu cơ.
+
+
+== Các phản ứng sinh học ==
+H2 là một sản phẩm của nhiều kiểu trao đổi chất kỵ khí và được nhiều dạng vi sinh vật sinh ra, thường thông qua các phản ứng có xúc tác các enzym chứa sắt hoặc nickel được gọi là hydrogenase. Các enzyme này xúc tác phản ứng oxy hóa khử thuận nghịch giữa H2 và 2 proton và 2 electron của nó. Sự tạo thành khí hydro xảy ra khi chuyển dịch cân bằng theo hướng khử được tạo ra trong khi lên men pyruvate đối với nước.
+Việc phân cắt phân tử nước thành các proton, electron, và oxy xảy ra trong các phản ứng phụ thuộc sáng trong tất cả các sinh vật quang hợp. Một số sinh vật này bao gồm cả tảo Chlamydomonas reinhardtii và vi khuẩn lam, đã tiến hóa hai bước trong các phản ứng tối mà trong đó các proton và electron bị khử để tạo ra khí H2 bởi các enzym biệt hóa trong lục lạp. Nhiều nỗ lực đã được thực hiện để can thiệp về mặt di truyền của các enzym vi khuẩn lam để tổng hợp một cách hiệu quả khí H2 thậm chí có mặt oxy. Những nỗ lực cũng đã thực hiện đối với gen của tảo trong phản ứng sinh học.
+
+
+== Cảnh báo ==
+Hydro là một chất khí dễ bắt cháy, nó cháy khi mật độ chỉ có 4%. Nó có phản ứng cực mạnh với clo và flo, tạo thành các axit hydrohalic có thể gây tổn thương cho phổi và các bộ phận khác của cơ thể. Khi trộn với oxy, hydro nổ khi bắt lửa. Hydro cũng có thể nổ khi có dòng điện đi qua.
+Hydro biểu hiện một số mối nguy hiểm đối với sự an toàn của con người như khả năng cháy, nổ khi trộn với không khí với oxy tự do. Ngoài ra, hydro lỏng là một hỗn hợp lạnh và thể hiện các mối nguy hiểm (như làm tê cóng) liên quan đến chất lỏng rất lạnh. Hydro hòa tan trong nhiều kim loại, và khi rò rỉ có thể có những ảnh hưởng xấu đến các kim loại như tính giòn do hydro, làm rạn nứt và gây nổ. Khí hydro rò rỉ vào không khí có thể tự cháy. Hơn thế nữa, hydro cháy khi nhiệt độ rất cao hầu như không nhìn thấy và điều này có thể gây bỏng.
+Thậm chí việc giải đoán dữ liệu hydro (bao gồm cả dữ liệu an toàn) vẫn chưa rõ ràng bởi một số hiện tượng. Nhiều tính chất vật lý và hóa học của hydro phụ thuộc tỷ số đồng phân spin parahydro/orthohydron (nó thường mất vài ngày hoặc vài tuần ở một nhiệt độ cho trước để đạt đến tỉ số cân bằng, từ đó mới lấy được số liệu). Các thông số cháy nổ hydro như áp suất và nhiệt độ ngưỡng cháy nổ, phụ thuộc mạnh vào hình dạng của vật thể chứa chúng.
+
+
+== Xem thêm ==
+Phản hydro
+Tế bào nhiên liệu
+Hydro nguyên tử
+Liên kết hydro
+Bom hạt nhân
+Ô tô hydro
+Kinh tế hydro
+Năng lượng hydro
+Vạch hydro trong quang phổ
+Bảng tuần hoàn các nguyên tố
+Hydro quang học
+Hydro khí nén (CGH2)
+Hydro lỏng (LH2)
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+
+
+== Đọc thêm ==
+Chart of the Nuclides (ấn bản 17). Knolls Atomic Power Laboratory. 2010. ISBN 978-0-9843653-0-2. 
+Ferreira-Aparicio, P; M. J. Benito, J. L. Sanz (2005). “New Trends in Reforming Technologies: from Hydrogen Industrial Plants to Multifuel Microreformers”. Catalysis Reviews 47 (4): 491–588. doi:10.1080/01614940500364958.  
+Newton, David E. (1994). The Chemical Elements. New York: Franklin Watts. ISBN 0-531-12501-7. 
+Rigden, John S. (2002). Hydrogen: The Essential Element. Cambridge, Massachusetts: Harvard University Press. ISBN 0-531-12501-7. 
+Romm, Joseph, J. (2004). The Hype about Hydrogen, Fact and Fiction in the Race to Save the Climate. Island Press. ISBN 1-55963-703-X.  at Global Public Media.
+Scerri, Eric (2007). The Periodic System, Its Story and Its Significance,. New York: Oxford University Press. ISBN 0-19-530573-6. 
+
+
+== Liên kết ngoài ==
+Phòng thí nghiệm quốc gia Los Alamos, Hoa Kỳ – Hydro
+WebElements.com – Hydro
+EnvironmentalChemistry.com – Hydro
+It's Elemental – Hydro
+Hình ảnh của Hydro
+Thám hiểm hydro
+Hydro H2-thuộc tính, sử dụng, ứng dụng

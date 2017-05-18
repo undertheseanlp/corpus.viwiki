@@ -1,0 +1,40 @@
+Californi là một nguyên tố hóa học kim loại tổng hợp có tính phóng xạ, thuộc nhóm actini, có ký hiệu Cf và số nguyên tử là 98. Nguyên tố được tạo ra đầu tiên ngày 17 tháng 3 năm 1950 bằng cách bắn phá hạt nhân curi bởi các hạt alpha (các ion heli) tại Đại học California, Berkeley. Đây là nguyên tố siêu urani thứ sáu được tổng hợp, và là một trong các nguyên tố có khối lượng nguyên tử cao nhất. Tên gọi của nó được đặt theo tên của tiểu bang và trường đại học California.
+Californi chủ yếu được sử dụng trong một số ứng dụng tận dụng các ưu thế của nó như phát xạ neutrong mạnh. Ví dụ, trong khởi động các lò phản ứng hạt nhân, trị ung thư, và phát hiện chất nổ và độ mỏi kim loại. Nó cũng được sử dụng trong khai thác dầu bằng việc đo carota giếng khoan, tối ưu hóa các nhà máy phát điện dùng than, và các cơ sở sản xuất xi măng. Nguyên tố 98 được tổng hợp bằng cách bắn phá hạt nhân californi-249 bằng các ion canxi-48.
+
+
+== Đặc điểm ==
+Californi là một kim loại actini màu trắng bạc tồn tại ở ba dạng. Nguyên tố này bị mờ xỉ chậm trong không khí ở nhiệt độ phòng, và tốc độ tăng dần khi độ ẩm tăng. Các tính chất hóa học của nó được dự đoán là tương tự với dysprosi và nó có hóa trị là 4, 3, 2. Californi phản ứng khi nung nóng với hydro, nitơ hoặc chalcogen và bị ôxy hóa khi nung nóng trong không khí; các phản ứng với các hydrit khô và dung dịch axit vô cơ diễn ra nhanh.
+Californi-252 (chu kỳ bán rã 2,645 năm) phát xạ neutron rất mạnh và gây nguy hiểm. Một microgram phát xạ liên tục 2,314 triệu neutron/giây và một gam phát ra 39 watt nhiệt. Californi 249 được tạo ra từ phân rã beta của berkeli-249 và hầu hết các đồng vị californi khác được tạo ra từ berkeli bức xạ neutron mạnh trong lò phản ứng hạt nhân.
+Californi phá vỡ khả năng tạo hồng cầu của cơ thể thông qua tích lũy sinh học trong mô xương. Nguyên tố này không đóng vai trò sinh học quan trọng trong bất kỳ cơ thể sinh vật nào do độ phóng xạ mạnh và có nồng độ thấp trong môi trường.
+Nguyên tố này có hai dạng kết tinh: dạng α sáu phương kép đóng kín tồn tại dưới 900 °C với mật độ 15,10 g/cc và β lập phương tâm mặt mặt độ 8,74 g/cc. Californi kim loại chưa được điều chế. Chỉ có californi-249 là thích hợp cho nghiên cứu hóa học.
+
+
+== Hóa học ==
+Có ít hợp chất californi được tạo ra và nghiên cứu. Ion californi duy nhất ổn định trong dung dịch là cation Cf(III). Hai trạng thái ôxy hóa khác là IV (chất ôxy hóa mạnh) và II. Nếu các vấn đề tồn tại của nguyên tố có thể giải quyết được thì CfBr2 và CfI2 có thể là ổn định.
+Trạng thái ôxy hóa III đặc trưng cho californi(III) ôxít (vàng lục, Cf2O3), californi(III) florua (lục sáng, CfF3) và californi(III) iốt (vàng chanh, CfI3). Các trạng thái ôxy hóa +3 khác là dạng sulfide và Cp3Cf. Californi(IV) ôxít (nâu đen, CfO2), californi(IV) florua (lục, CfF4) đặc trưng cho trạng thái ôxy hóa IV. Trạng thái II được đặc trưng bởi californi(II) bromua (vàng, CfBr2) và californi(II) iốtua (tím sẫm, CfI2).
+Californi (III) clorua (CfCl3) là hợp chất màu lục emerald theo cấu trúc sáu phương và có thể được điều chế bằng cách cho Cf2O3 phản ứng với axít clohydric ở 500 °C. sau đó CfCl3 được dùng để tạo ra tri-iốtua màu vàng cam CfI3, chất này có thể bị giảm từ từ thành di-iốtua màu tím-oải hương CfI2.
+Nung nóng sulfat trong không khí ở khoảng 1200 °C và sau đó giảm ôxy hóa với hydro ở 500 °C tạo ra sesquioxide (Cf2O3). Hiđrôxít Cf(OH)3 và triflorua CfF3 có khả năng hòa tan nhỏ.
+
+
+== Tham khảo ==
+
+
+== Tài liệu ==
+Cotton, F. Albert; Wilkinson, Geoffrey; Murillo, Carlos A.; Bochmann, Manfred (1999). Advanced Inorganic Chemistry (ấn bản 6). New York: John Wiley & Sons, Inc. ISBN 0-471-199957-5 .  
+CRC contributors (2006). David R. Lide, biên tập. Handbook of Chemistry and Physics (ấn bản 87). Boca Raton, Florida: CRC Press, Taylor & Francis Group. ISBN 0-8493-0487-3. 
+Cunningham, B. B. (1968). “Californium”. Trong Clifford A. Hampel (editor). The Encyclopedia of the Chemical Elements. New York: Reinhold Book Corporation. LCCN 68-29938. 
+Emsley, John (2001). “Californium”. Nature's Building Blocks: An A-Z Guide to the Elements. Oxford, England, UK: Oxford University Press. ISBN 0198503407. 
+Greenwood, N. N.; Earnshaw, A. (1997). Chemistry of the Elements (ấn bản 2). Oxford: Butterworth-Heinemann. ISBN 0-7506-3365-4.  
+Heiserman, David L. (1992). “Element 98: Californium”. Exploring Chemical Elements and their Compounds. New York: TAB Books. ISBN 0-8306-3018-X. 
+Jakubke, Hans-Dieter; Jeschkeit, Hans biên tập (1994). Concise Encyclopedia Chemistry. trans. rev. Eagleson, Mary. Berlin: Walter de Gruyter. ISBN 0-89925-457-8. 
+NNDC contributors (2008). Alejandro A. Sonzogni (Database Manager), biên tập. “Chart of Nuclides”. Upton, New York: National Nuclear Data Center, Brookhaven National Laboratory. Truy cập ngày 1 tháng 3 năm 2010. 
+O'Neil, Marydale J.; Heckelman, Patricia E.; Roman, Cherie B. biên tập (2006). The Merck Index: An Encyclopedia of Chemicals, Drugs, and Biologicals (ấn bản 14). Whitehouse Station, NJ, USA: Merck Research Laboratories, Merck & Co., Inc. ISBN 0-911910-00-X. 
+Osborne-Lee, I.W.; Alexander, C. W. (1995). “Californium-252: A Remarkable Versatile Radioisotope”. Oak Ridge Technical Report ORNL/TM-12706. doi:10.2172/205871.  
+Weeks, Mary Elvira; Leichester, Henry M. (1968). “21: Modern Alchemy”. Discovery of the Elements. Easton, PA: Journal of Chemical Education. tr. 848–850. LCCCN 68-15217.  
+
+
+== Liên kết ngoài ==
+WebElements.com - Californium
+NuclearWeaponArchive.org - Californium
+It's Elemental - Californium
+Hazardous Substances Databank – Californium, Radioactive

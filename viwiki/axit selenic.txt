@@ -1,0 +1,48 @@
+Axit selenic là một hợp chất hóa học với công thức H2SeO4. Đây là một ôxiaxit của selen, cấu trúc chính xác hơn của nó được mô tả bằng công thức (HO)2SeO2.
+Theo dự đoán của lý thuyết VSEPR, trung tâm của axít là selen và có dạng tứ diện, với độ dài liên kết Se-O là 161 pm. Trong trạng thái rắn, nó kết tinh ở dạng cấu trúc trực thoi.
+
+
+== Tính chất hóa học ==
+Giống như axit sulfuric, axit selenic là một axit mạnh ưa ẩm và cực kỳ dễ hòa tan trong nước. Các dung dịch đậm đặc thì có tính nhớt. Các dạng mono- và di-hydrat đã được biết đến. Dạng monohydrat nóng chảy ở 26 °C, còn dạng dihydrat nóng chảy ở −51,7 °C. Axít selenic loãng có các tính chất như các axít thường khác:
+Tác dụng với kim loại giải phóng khí hiđrô:
+H2SeO4 + Ca → CaSeO4 + H2
+Tác dụng với bazơ tạo thành muối và nước:
+H2SeO4 + 2RbOH → Rb2SeO4 + 2H2O
+Tác dụng với ôxít bazơ tạo thành muối và nước:
+H2SeO4 + CuO → CuSeO4 + 2H2O
+Tác dụng với muối tạo thành axít mới và muối mới:
+H2SeO4 + K2SO4 → K2SeO4 + H2SO4
+Axít selenic đậm đặc có những tính chất hóa học riêng:
+Tác dụng với đồng:
+Cu + 2H2SeO4 → CuSeO4 + 2H2O + SeO2
+Axít selenic là axít có tính ôxi hóa mạnh hơn axit sulfuric, có khả năng giải phóng clo từ các ion clorua và bị khử thành axít selenơ:
+H2SeO4 + 2HCl → H2SeO3 + H2O + Cl2
+Axit selenic bị phân hủy ở nhiệt độ trên 200 °Co giải phóng khí ôxy và bị khử thành axit selenơ:
+2H2SeO4 → 2H2SeO3 + O2
+Axit selenic phản ứng với các muối bari cho kết tủa BaSeO4:
+H2SeO4+ BaCl2 → BaSeO4↓ + HCl
+Tương tự như axít sulfuric.
+Nhìn chung, các muối selenat cũng tương tự như các muối sulfat nhưng có độ hòa tan cao hơn trong nước. Nhiều muối selenat có cấu trúc tinh thể giống như các muối sulfat tương ứng.
+Xử lý axit selenic bằng axit fluorosulfuric tạo ra dioxydifluorua (điểm sôi −8,4 °C):
+H2SeO4 + 2 HO3SF → SeO2F2 + 2 H2SO4
+Đặc biệt, axít selenic đậm đặc nóng có khả năng hòa tan vàng tạo thành dụng dịch màu vàng cam là vàng selenat:
+2Au + 6H2SeO4 → Au2(SeO4)3 + 3H2SeO3 + 3H2O
+
+
+== Sản xuất ==
+Vì selen triôxít có cấu tạo không bền vững nên không thể sản xuất axít selenic bằng cách hòa selen triôxít vào nước như cách sản xuất axít sulfuric mà phải ôxi hóa các hợp chất selen ở trạng thái ôxi hóa thấp hơn.
+Phương pháp thường được sử dụng để sản xuất axít selenic hiện nay là ôxi hóa selen điôxít trong dung dịch H2O2:
+SeO2 + H2O2 → H2SeO4
+Để có được axít selenic khan ở dạng chất rắn kết tinh, người ta làm bốc hơi dung dịch axít selenic ở nhiệt độ dưới 140 °C (413 K; 284 °F) trong chân không.
+Axít selenic cũng có thể tạo ra bởi các quá trình ôxi hóa H2SeO3 với halogen, ví dụ như clo hoặc brôm, hoặc với kali pemanganat. Tuy nhiên, bằng cách sử dụng clo hoặc brôm làm tác nhân ôxi hóa cũng đồng thời sản xuất ra axit clohydric hoặc axit bromhydric là các phụ phẩm cần loại bỏ, do chúng có thể khử axit selenic thành axit selenơ.
+Ngoài các cách trên còn có một phương pháp nữa, đó là ôxi hóa selen nguyên tố bằng clo lơ lửng trong nước:
+Se + 4H2O + 3Cl2 → H2SeO4 + 6HCl
+
+
+== Nguy hiểm ==
+Axít selenic mạnh hơn axít sulfuric nên khi rơi vào da sẽ làm bỏng, thậm chí đi sâu vào tác dụng với xương, tủy, gây hậu quả nghiêm trọng.
+Giống như các hợp chất của selen, axít selenic có độc tính cao, vì vậy cần phải hết sức cẩn thận khi làm việc với hóa chất này.
+Do có tính háo nước nên tuyệt đối không pha loãng bằng cách đổ nước vào axít, nếu làm vậy nước sẽ sôi lên và mang theo axít bắn ra xung quanh.
+
+
+== Ghi chú ==

@@ -1,0 +1,158 @@
+Khoáng vật là các hợp chất tự nhiên được hình thành trong các quá trình địa chất. Thuật ngữ "khoáng vật" bao hàm cả thành phần hóa học của vật liệu lẫn cấu trúc khoáng vật. Các khoáng vật có thành phần hóa học thay đổi từ dạng các nguyên tố hóa học tinh khiết và các muối đơn giản tới các dạng phức tạp như các silicat với hàng nghìn dạng đã biết. Công việc nghiên cứu khoáng vật được gọi là khoáng vật học.
+Có hơn 5.300 loại khoáng vật được biết đến; hơn 5.070 trong số này đã được sự chấp thuận của Hiệp hội Khoáng vật học quốc tế(IMA). Nhóm khoáng vật silicat chiếm hơn 90% vỏ Trái Đất. Sự đa dạng và phong phú của các loại khoáng vật được điều khiển bởi thành phần hóa học của Trái Đất. Silic và ôxy chiếm khoảng 75% vỏ Trái Đất, mà chúng chủ yếu nằm trong các cấu trúc của các khoáng vật silicat. Các loại khoáng vật được phân việt bởi nhiều tính chất vật lý và hóa học. Sự khác biệt về thành phần và cấu trúc tinh thể sẽ tạo ra các loại khoáng vật khác nhau, và các tính chất này đến lượt nó lại bị ảnh hưởng bởi môi trường địa chất mà khoáng vật đó được thành tạo. Những thay đổi về nhiệt độ, áp suất, và thành phần của khối đá có thể kà nguyên nhân làm thay đổi đặc điểm khoáng vật học của nó; tuy nhiên, một loại đá có thể duy trì thành phần của nó, nhưng sự thay đổi về lâu dài về nhiệt độ và áp suất thì tính chất khoáng vật học của nó cũng có thể thay đổi theo.
+
+
+== Định nghĩa và phân loại ==
+Để được phân loại như là khoáng vật "thật sự", một vật chất cần phải tồn tại ở dạng rắn và có cấu trúc kết tinh. Nó cũng cần phải là vật chất có trong tự nhiên, thuần nhất và có thành phần hóa học xác định trước. Các định nghĩa truyền thống như Khoáng vật là chất khoáng vô cơ, tồn tại ở dạng rắn ở nhiệt độ thường và là thành phần cấu tạo nên các loại đá trong lớp vỏ Trái Đất đã loại bỏ các vật liệu có nguồn gốc hữu cơ. Tuy nhiên, Hiệp hội Khoáng vật Quốc tế vào năm 1995 đã chấp nhận một định nghĩa mới:
+a mineral is an element or chemical compound that is normally crystalline and that has been formed as a result of geological processes
+Tạm dịch:
+Một khoáng vật là một nguyên tố hay một hợp chất hóa học thông thường kết tinh và được tạo ra như là kết quả của các quá trình địa chất .
+Các phân loại mới cũng bao gồm cả lớp hữu cơ – ví dụ như trong các hệ thống phân loại Dana và Strunz phiên bản mới.
+Thành phần hóa học có thể thay đổi giữa các thành viên đầu-cuối của hệ khoáng vật. Ví dụ, các fenspat nhóm plagiocla bao gồm một chuỗi liên tục từ dạng giàu natri là albit (NaAlSi3O8) tới dạng giàu canxi là anorthit (CaAl2Si2O8) với 4 thành phần trung gian đã được công nhận giữa chúng. Các vật liệu tương tự như khoáng vật nhưng không phù hợp chặt chẽ với định nghĩa về khoáng vật thì đôi khi hay được gọi chung là các á khoáng vật (mineraloid). Các vật chất nguồn gốc tự nhiên khác là các chất phi khoáng vật. Các khoáng vật công nghiệp là thuật ngữ thị trường để chỉ các loại vật liệu đã khai thác được và có giá trị thương mại (xem phần Khoáng vật và đá dưới đây).
+
+
+== Cấu trúc tinh thể ==
+Cấu trúc tinh thể là sự sắp xếp trong không gian hình học có trật tự của các nguyên tử trong cấu trúc nội tại của khoáng vật. Hiện nay tồn tại 14 sắp xếp ô mạng tinh thể cơ bản của các nguyên tử trong không gian ba chiều và chúng được gọi chung là 14 "ô mạng Bravais". Mỗi một ô mạng tinh thể này lại có thể được phân loại vào một trong sáu hệ tinh thể, và tất cả các cấu trúc tinh thể hiện nay được công nhận đều phù hợp với một ô mạng Bravais/một hệ tinh thể. Cấu trúc tinh thể này dựa trên sự sắp xếp thông thường của nguyên tử hay ion bên trong và nó thường được biểu diễn theo dạng hình học mà tinh thể có. Thậm chí ngay cả khi các hạt khoáng vật là quá nhỏ để có thể nhìn hay có hình dạng bất thường thì cấu trúc tinh thể cơ bản của nó vẫn luôn luôn có tính chu kỳ và có thể xác định được nhờ nhiễu xạ tia X.
+Thành phần hóa học và cấu trúc tinh thể hợp lại với nhau để xác định khoáng vật. Trên thực tế, hai hay nhiều khoáng vật có thể có cùng một thành phần hóa học, nhưng khác nhau về cấu trúc kết tinh (chúng được gọi là các chất đa hình). Ví dụ, pyrit và marcasit đều có thành phần hóa học là sulfua sắt, nhưng sự sắp xếp các nguyên tử bên trong của chúng là khác nhau. Tương tự, một vài khoáng vật lại có các thành phần hóa học khác nhau, nhưng có cùng một cấu trúc tinh thể: ví dụ, halit (hình thành từ natri và clo), galen (hình thành từ chì và lưu huỳnh) cùng pericla (hình thành từ magiê và ôxy) đều có cùng cấu trúc tinh thể dạng lập phương.
+Cấu trúc tinh thể có ảnh hưởng lớn tới các tính chất vật lý của khoáng vật. Ví dụ, mặc dù kim cương và than chì (graphit) đều có cùng thành phần (cả hai đều là cacbon tinh khiết) nhưng graphit thì rất mềm còn kim cương thì lại là rắn nhất trong số các khoáng vật đã biết. Sở dĩ có điều này là do các nguyên tử cacbon trong than chì được sắp xếp thành các tấm có thể dễ dàng trượt trên nhau trong khi các nguyên tử cacbon trong kim cương lại tạo ra một lưới ba chiều cài chặt vào nhau.
+Hiện nay, người ta đã biết trên 4.000 khoáng vật, theo như Hiệp hội Khoáng vật Quốc tế - tổ chức chịu trách nhiệm phê chuẩn việc đặt tên cho các loại khoáng vật mới được tìm thấy trong tự nhiên. Trong số này, khoảng 150 khoáng vật có thể được coi là "phổ biến", 50 là "thỉnh thoảng" còn số còn lại là "hiếm" hay "cực hiếm".
+
+
+== Nguồn gốc ==
+Theo điều kiện sinh thành khoáng vật được chia ra thành 2 nhóm lớn:
+Nhóm khoáng vật nội sinh, được hình thành trong các điều kiện liên quan đến các quá trình xảy ra trong lớp vỏ Trái Đất và trong phần trên của quyển manti (còn gọi là lớp phủ) (tức là thạch quyển) như do chịu sự tác động của macma hay do biến chất
+Nhóm khoáng vật ngoại sinh, thành tạo ở phần trên của vỏ Trái Đất và ở trên mặt đất liên quan đến các quá trình ngoại sinh -như tác dụng phong hóa và tích đọng từ dung dịch nước
+
+
+== Phân biệt khoáng vật và đá ==
+Một khoáng vật là chất rắn kết tinh nguồn gốc tự nhiên với thành phần hóa học xác định, trong khi đá là tổ hợp của một hay nhiều khoáng vật. Trong đá có thể có cả các phần còn lại của các chất hữu cơ cũng như các dạng á khoáng vật. Một số loại đá chủ yếu bao gồm chỉ một loại khoáng vật. Ví dụ, đá vôi là một dạng đá trầm tích bao gồm gần như toàn bộ là khoáng vật canxit. Các loại đá khác có thể bao gồm nhiều khoáng vật và các loại khoáng vật cụ thể trong một loại đá nào đó có thể khác nhau rất nhiều. Một số khoáng vật, như thạch anh, mica hay fenspat là phổ biến, trong khi các khoáng vật khác có khi chỉ tìm thấy ở một vài khu vực nhất định. Phần lớn các loại đá của lớp vỏ Trái Đất được tạo ra từ thạch anh, fenspat, mica, clorit, cao lanh, canxit, epidot, olivin, ogit, hocblen, manhếtit, hematit, limonit và một vài khoáng vật khác. Trên một nửa các loại khoáng vật đã biết là hiếm đến mức chúng chỉ có thể tìm thấy ở dạng một nhúm mẫu vật, và nhiều trong số đó chỉ được biết tới từ 1 hay 2 hạt nhỏ.
+Các loại khoáng vật và đá có giá trị thương mại được gọi chung là các khoáng sản. Các loại đá mà từ đó các khoáng vật được khai thác cho mục đích kinh tế được coi là các loại quặng, trong khi các loại đá và khoáng vật còn lại sau khi đã tách rời khoáng vật mong muốn riêng ra từ quặng, được gọi là đá thải và quặng đuôi.
+
+
+=== Các khoáng vật tạo đá ===
+Yếu tố xác định chủ yếu trong sự hình thành các khoáng vật trong khối đá là thành phần hóa học của khối đá đó, đối với một khoáng vật cụ thể nào đó thì nó chỉ có thể hình thành khi các nguyên tố cần thiết phải có mặt trong đá. Canxit là phổ biến nhất trong các loại đá vôi, do chúng chủ yếu bao gồm cacbonat canxi; thạch anh trong các loại sa thạch (đá cát) và trong một số loại đá phún xuất với tỷ lệ phần trăm lớn là silica (điôxít silic).
+Các yếu tố khác cũng có tầm quan trọng tương đương trong việc quyết định các khoáng vật tạo đá được hình thành ngay từ đầu một cách tự nhiên hay do phát sinh thứ cấp là (i) cách thức đá được hình thành từ trong dung dịch, nước hay đá gốc và (ii) các giai đoạn mà đá đã trải qua để có được các kết cấu như hiện tại của mình. Hai khối đá có thể có thành phần hóa học khá tương đồng nhưng lại được cấu thành từ các kết hợp khác hẳn nhau của các khoáng vật. Xu hướng chung cho các hợp chất này được hình thành là sự ổn định theo các điều kiện mà khối đá được sinh ra. Granit được hình thành do sự đông đặc của macma nóng chảy ở nhiệt độ cao và áp suất lớn và các khoáng vật thành phần của nó cũng được hình thành trong các điều kiện như vậy. Khi bị sự ẩm ướt, axít cacbonic và các tác nhân cận không khí khác tác động ở điều kiện nhiệt độ bình thường trên bề mặt Trái Đất, một số khoáng vật nguyên thủy này, như thạch anh hay mica trắng (muscovit) không bị biến đổi; trong khi các khoáng vật khác bị "phong hóa" hay phân rã và bị thay thế bằng các tổ hợp mới. Fenspat chuyển hóa thành cao lanh, muscovit và thạch anh, và nếu mica đen (biotit) cũng có mặt thì nó sinh ra cả clorit, apidot, rutil và các khoáng vật hay các hợp chất khác. Các thay đổi này còn kèm theo sự phân hủy và đá chuyển thành dạng khối đất rời rạc, mềm xốp có thể được coi như là đất hay cát. Các vật liệu được hình thành như vậy có thể bị rửa trôi và trầm lắng hình thành nên sa thạch hay đá mạt. Cấu trúc của đá nguyên thủy bị thay thế bằng cấu trúc mới; thành phần khoáng vật cũng biến đổi rõ nét; nhưng thành phần hóa học của cả khối có thể không có khác biệt lớn. Đá trầm tích có thể một lần nữa lại trải qua những lần biến thái khác. Nếu đá phún xuất thâm nhập vào thì nó lại có thể tái kết tinh hoặc nếu bị đè nén dưới áp suất cao cùng nhiệt và chuyển động, chẳng hạn như có mặt trong kiến tạo các nếp oằn các dãy núi, thì nó có thể chuyển hóa thành gơnai mặc dù không khác biệt gì nhiều trong thành phần khoáng vật nhưng có khác biệt đáng kể về cấu trúc với granit là trạng thái ban đầu của nó.
+
+
+== Tính chất vật lý ==
+Các đặc điểm vật lý của khoáng vật bao gồm: cấu tạo tinh thể, kích thước và độ hạt của tinh thể, song tinh, cát khai, ánh, màu bên ngoài của khoáng vật (màu giả sắc), và màu của bột khoáng vật khi mài ra (màu thực của khoáng vật), độ cứng và trọng lượng riêng v.v.
+Phân loại các khoáng vật có thể là rất đơn giản mà cũng có thể là rất khó. Một khoáng vật có thể được nhận biết bằng một vài tính chất vật lý, một vài tính chất đó cũng đủ để nhận biết một cách tổng thể mà không gây hiểu nhầm. Trong các trường hợp khác, các khoáng vật chỉ có thể được phân loại khi thực hiện các phân tích hóa học phức tạp hay nhiễu xạ tia X; tuy nhiên, các phương pháp này là tốn kém và mất nhiều thời gian.
+Các tính chất vật lý cơ bản hay được sử dụng là:
+
+
+=== Cấu trúc tinh thể ===
+Cấu trúc và hành vi tinh thể (Tinh hệ): Một khoáng vật có thể thể hiện hành vi hay dạng tinh thể rõ nét hay có thể là dạng khối lớn, bột hay khối đặc với các tinh thể chỉ nhìn thấy được ở dạng vi thể.
+Các tinh thể được xếp vào 7 nhóm chính dựa trên chiều dài của 3 trục tinh thể học, và các góc giữa các trục này. Bảng bên dưới thể hiện tóm tắt các thông tin, trong d0o1 a, b, và c là các trục, và α, β, γ lần lượt là các góc đối diện trục tinh thể học (ví dụ α là góc đối diện trục a, tức là góc tạo thành bởi trục b và c):
+
+
+=== Độ cứng ===
+
+Độ cứng vật lý của khoáng vật thông thường được đo theo thang độ cứng Mohs.
+
+
+=== Màu sắc và màu vết vạch ===
+
+Màu sắc chỉ ra biểu hiện về màu của khoáng vật trong ánh sáng phản xạ hay truyền qua (đối với các khoáng vật trong mờ hay trong suốt), nghĩa là những gì người ta nhìn thấy bằng mắt trần. Màu gây ra bởi bức xạ điện từ tương tác với các electron (trừ trường hợp dây tóc bòng đèn, không được sử dụng trong khoáng vật). Có hai nhóm rộng các nguyên tố được xác định là tạo ra màu của khoáng vật. Các nguyên tố Idiochromat là cần thiết trong thành phần khoáng vật; chúng góp phần tạo màu của khoáng vật là dấu hiệu chẩn đoán. Ví dụ về các khoáng vật này gồm malachit (lục) và azurit (lam). Ngược lại, các nguyên tố allochromat trong khoáng vật ở dạng vết hay tạp chất, ví dụ như các biến thể của corundum là ruby (đỏ) và sapphire (tất cả các màu còn lại). Màu của nhóm màu giả sắt tạo ra bởi sự giao thoa của sóng ánh sáng như opan, labradorit, ammolit và bornit.
+Màu vết vạch là màu của bột khoáng vật để lại sau khi cọ xát nó vào bề mặt đồ sứ không tráng men hay mảng các sọc. Lưu ý rằng nó không phải luôn luôn giống như màu của khoáng vật nguyên bản.
+
+
+=== Các tính chất khác ===
+Ánh là cách mà bề mặt khoáng vật tương tác với ánh sáng và có thể nằm trong khoảng từ mờ xỉn tới trong như thủy tinh.
+Hệ số phản xạ cao như kim loại: galena và pyrit
+Độ phản xạ gần như kim loại: magnetit
+Ánh phi kim:
+Ánh Adamantin – lấp lánh, ánh của kim cương, cerussit và anglesit
+Ánh thủy tinh vỡ –ánh của thủy tinh vỡ: thạch anh
+Ánh Trân châu – ánh như ngọc trai: tan và apophyllit
+Ánh hổ phách – ánh của nhựa cây: sphalerit và lưu huỳnh
+Ánh Lụa - mềm. mượt của các vật liệu có sợi: thạch cao và chrysotil
+Ánh mờ xỉn/đất -các khoáng vật kết tinh mịn: các dạng quặng màu nâu thận của hematit
+
+Cát khai miêu tả cách thức mà một khoáng vật có thể bị tách ra dọc theo các mặt phẳng khác nhau. Tính bóc tách được nhìn thấy như là các đường thẳng song song nhỏ dọc theo khoáng vật.
+Mặt gãy miêu tả khoáng vật bị gãy như thế nào khi các khe nứt phát sinh ngược với các mặt cát khai tự nhiên của khoáng vật.
+Mặt gãy concoit là mặt gãy cong và trơn nhẵn với các gợn đồng tâm, như các mặt gãy ở thủy tinh.
+Hackley là mặt gãy lởm chởm với các rìa sắc, nhọn.
+Sợi
+Dị thường
+
+Tỷ trọng riêng (thể trọng) nói về tỷ lệ giữa khối lượng của khối khoáng vật với một khối lượng tương đương về thể tích của nước. Trong khi phần lớn khoáng vật, bao gồm cả những khoáng vật tạo đá phổ biến nhất, có tỷ trọng riêng trong khoảng 2,5 – 3,5, thì một số ít khoáng vật có thể là nhẹ hơn hay nặng hơn. ví dụ một vài khoáng vật lớp sulfua có tỷ trọng riêng lớn hơn của các khoáng vật tạo đá phổ biến.
+Các tính chất khác: Huỳnh quang (tương tác với tia cực tím), từ tính, tính phóng xạ, độ bám dính (tương tác với các thay đổi cơ học trong thay đổi hình dạng), tính áp điện v.v.
+
+
+== Thành phần hóa học ==
+Các khoáng vật có thể phân loại theo thành phần hóa học. Chúng hay được phân loại theo nhóm anion.
+Theo thành phần hóa học, các khoáng vật tồn tại dưới các dạng sau:
+Các nguyên tố
+Các sulfua
+Các ôxít và hyđroxit
+Các halua
+Các nitrat, cacbonat và borat
+Các sulfat, cromat, molybdat và tungstat
+Các photphat, asenat và vanadat
+Các silicat
+Các tiểu mục dưới đây liệt kê khoáng vật theo trật tự gần đúng về sự phổ biến của chúng trong lớp vỏ Trái Đất theo các lớp khoáng vật. Danh sách này lấy từ hệ thống phân loại Dana
+
+
+=== Lớp silicat ===
+
+Nhóm khoáng vật lớn nhất là nhóm silicat (phần lớn các loại đá chứa trên 95% là các silicat), với thành phần chủ yếu là silic và ôxy, cùng các cation như nhôm, magiê, sắt, và canxi. Một số loại silicat hình thành đá quan trọng như các loại fenspat, thạch anh, olivin, pyroxen, amphibol, garnet và mica.
+
+
+=== Lớp cacbonat ===
+Các khoáng vật cacbonat bao gồm các khoáng vật chứa anion (CO3)2- và bao gồm canxit cùng aragonit (cả hai đều là cacbonat canxi), dolomit (cacbonat magiê/canxi) hay siderit (cacbonat sắt). Các cacbonat là các trầm tích phổ biến trong các môi trường đại dương khi vỏ hay mai của các sinh vật đã chết bị tích lũy và trầm lắng xuống đáy biển. Các cacbonat cũng được tìm thấy trong các môi trường bốc hơi (ví dụ Great Salt Lake (Hồ Muối Lớn), Utah) và cũng có trong các khu vực carxtơ (hang động đá vôi), tại đó sự hòa tan và trầm lắng của các cacbonat dẫn tới sự hình thành các hang động, thạch nhũ và măng đá. Lớp cacbonat cũng bao gồm cả các khoáng vật nitrat và borat.
+
+
+=== Lớp sulfat ===
+Các khoáng vật sulfat chứa các anion sulfat, SO42-. Các sulfat nói chung tạo thành trong các môi trường bốc hơi trong đó nước chứa nhiều muối chậm bốc hơi, cho phép sự hình thành của cả các sulfat lẫn các halua trong mặt phân giới nước-trầm tích. Các sulfat cũng có mặt trong các hệ thống mạch nhiệt dịch như là các khoáng vật thứ sinh đi kèm theo các khoáng vật quặng sulfua. Một nguồn phổ biến khác là các sản phẩm ôxi hóa thứ cấp của các khoáng vật sulfua ban đầu. Các sulfat phổ biến nhất có anhydrit (thạch cao khan) (sulfat canxi), celestin (sulfat stronti), barit (sulfat bari) và thạch cao (sulfat canxi ngậm nước). Lớp sulfat cũng bao gồm cả các khoáng vật gốc cromat, molybdat, selenat, sulfit, tellurat và tungstat.
+
+
+=== Lớp halua ===
+
+Các khoáng vật halua là nhóm các khoáng vật tạo ra các loại muối tự nhiên và bao gồm fluorit (florua canxi), halit (clorua natri), sylvit (clorua kali) và sal amoniac (clorua amoni). Các halua, tương tự như các sulfat, được tìm thấy chủ yếu tại các môi trường bốc hơi như các đáy hồ nước mặn đã khô hay các biển kín như biển Chết và Great Salt Lake. Lớp halua bao gồm các khoáng vật florua, clorua, iođua.
+
+
+=== Lớp ôxít ===
+Các khoáng vật ôxít là cực kỳ quan trọng trong khai thác mỏ do chúng tạo thành nhiều loại quặng mà từ đó các kim loại có giá trị có thể được tách ra. Chúng cũng chứa đựng các ghi chép tốt nhất về các thay đổi trong từ trường Trái Đất. Chúng có mặt chủ yếu trong các trầm tích gần với bề mặt Trái Đất, các sản phẩm ôxi hóa của các khoáng vật khác trong khu vực phong hóa gần bề mặt (thuộc phạm vi đới oxy hóa) và như là các khoáng vật kèm theo trong các loại đá phún xuất của lớp vỏ và lớp manti (phủ). Các khoáng vật ôxít phổ biến bao gồm hematit (ôxít sắt III), magnetit (ôxít sắt từ), cromit (ôxít crom sắt), spinen (ôxít nhôm magiê –thành phần phổ biến của lớp phủ), ilmenit (ôxít titan sắt), rutil (điôxít titan), và băng (nước đóng băng). Lớp ôxít bao gồm các khoáng vật ôxít và hyđroxit.
+
+
+=== Lớp sulfua ===
+Nhiều khoáng vật sulfua có tầm quan trọng kinh tế như là các quặng kim loại. Các sulfua phổ biến là pyrit (sulfua sắt), chancopyrit (sulfua sắt đồng), pentlandit (sulfua sắt niken) và galena (sulfua chì). Lớp sulfua bao gồm cả các khoáng vật selenua, teluarua, asenua, antimonua, bitmuthinua và các muối sulfo (bao gồm lưu huỳnh và anion khác như asen).
+
+
+=== Lớp photphat ===
+Nhóm khoáng vật photphat trên thực tế bao gồm bất kỳ khoáng vật nào với đơn vị tứ diện AO4, trong đó A có thể là photpho, antimon, asen hay vanadi. Khoáng vật lớp photphat phổ biến nhất có lẽ là apatit, là một chất khoáng quan trọng về mặt sinh học, được tìm thấy trong răng và xương của nhiều động vật. Lớp photphat bao gồm các khoáng vật photphat, asenat, vanadat và antimonat.
+
+
+=== Lớp nguyên tố ===
+
+Nhóm khoáng vật nguyên tố bao gồm các kim loại (vàng, bạc, đồng), á kim và phi kim (antimon, bitmut, than chì, lưu huỳnh). Nhóm này cũng bao gồm các hợp kim tự nhiên, như electrum (hợp kim tự nhiên của vàng và bạc); các photphua, silicua, nitrua và cacbua (thông thường chỉ tìm thấy trong tự nhiên trong một vài vẫn thạch hiếm). Cacbon tự nhiên có hai dạng thù hình là than chì và kim cương; kim cương được hình thành trong điều kiện nhiệt độ rất cao nên có cấu trúc cứng hơn than chì (và cứng nhất trong các loại khoáng vật tự nhiên).
+
+
+=== Lớp hữu cơ ===
+Lớp khoáng vật hữu cơ bao gồm các chất phát sinh từ sinh vật, trong đó các quá trình địa chất là một phần của nguồn gốc hay xuất xứ của các hợp chất đang hiện hữu . Các khoáng vật của lớp hữu cơ bao gồm hàng loạt các loại oxalat, mellitat, citrat, xyanat, axetat, format, hyđrocacbon và các loại linh tinh khác. Ví dụ về khoáng vật lớp hữu cơ là whewellit, moolooit, mellit, fichtelit, carpathit, evenkit và abelsonit.
+
+
+== Xem thêm ==
+Danh sách khoáng vật
+Khoáng sản đạt giá trị công nghiệp
+Nước khoáng, nước có chứa các khoáng chất hay các chất hòa tan khác làm thay đổi mùi vị của nó và có giá trị trị liệu.
+Vi chất dinh dưỡng
+Len khoáng vật
+Khai thác mỏ
+Mỏ đá
+
+
+== Chú thích ==
+
+
+== Tham khảo ==
+Busbey, A.B.; Coenraads, R.E.; Roots, D.; Willis, P. (2007). Rocks and Fossils. San Francisco: Fog City Press. ISBN 978-1-74089-632-0. 
+Chesterman, C.W.; Lowe, K.E. (2008). Field guide to North American rocks and minerals. Toronto: Random House of Canada. ISBN 0-394-50269-8. 
+Dyar, M.D.; Gunter, M.E. (2008). Mineralogy and Optical Mineralogy. Chantilly, Virginia: Mineralogical Society of America. ISBN 978-0-939950-81-2. 
+
+
+== Liên kết ngoài ==
+Minerals.net
+mindat.org Cơ sở dữ liệu của Mindat
+Webmineral.com
+Bản đồ khoáng vật với các tính chất và ảnh

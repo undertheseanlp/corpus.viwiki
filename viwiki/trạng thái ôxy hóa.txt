@@ -1,0 +1,40 @@
+Trạng thái ôxy hóa hay số ôxy hóa (hai khái niệm không hẳn đồng nhất) là số chỉ mức ôxy hóa của nguyên tử của nguyên tố hóa học trong một hợp chất hóa học. Con số này chính là điện tích theo lý thuyết của nguyên tử của nguyên tố đó nếu giả sử toàn bộ số liên kết giữa các nguyên tử trong phân tử hợp chất đều là liên kết ion. Trạng thái ôxy hóa thường là số nguyên, có thể dương, âm hoặc bằng 0. Trong một số trường hợp trạng thái ôxy hóa là phân số, ví dụ trường hợp sắt có trạng thái ôxy hóa bằng 8/3 trong hợp chất ôxít sắt từ (Fe3O4). Trạng thái ôxy hóa cao nhất là +8 (gặp ở các nguyên tố rutheni, xenon, osmi và iridi trong các hợp chất tetraôxít của chúng) trong khi trạng thái ôxy hóa thấp nhất là -4 (gặp ở một số nguyên tố trong nhóm cacbon).
+Trong phản ứng ôxy hóa khử diễn ra sự thay đổi trạng thái ôxy hóa của nguyên tử. Trạng thái ôxy hóa giảm thì gọi là sự khử, trong khi trạng thái ôxy hóa tăng thì gọi là sự ôxy hóa.
+Quy tắc gán trạng thái ôxy hóa cho nguyên tử của nguyên tố như sau:
+Trạng thái ôxy hóa của nguyên tố trong đơn chất thì bằng 0.
+Tổng trạng thái ôxy hóa của các nguyên tố trong một phân tử thì bằng 0.
+Trong các ion đơn nguyên tử, trạng thái ôxy hóa của nguyên tố bằng điện tích của ion đó. Trong các ion đa nguyên tử, tổng trạng thái ôxy hóa của các nguyên tố bằng điện tích của ion.
+Trong hầu hết các hợp chất thì trạng thái ôxy hóa của hidrô là bằng +1, trừ trường hợp hiđrua kim loại (ví dụ natri hyđrua NaH, canxi hyđrua CaH2). Trạng thái ôxy hóa của ôxy là bằng -2, trừ trường hợp ôxy florua OF2 và perôxít (ví dụ hiđrô perôxít H2O2).
+
+
+== Quy tắc chung xác định trạng thái ôxy hóa mà không dùng cấu trúc Lewis ==
+Năm 1990, IUPAC chọn dùng các quy tắc sau nhằm xác định trạng thái ôxy hóa của nguyên tử của nguyên tố trong các hợp chất hóa học đơn giản mà không sử dụng công thức cấu tạo Lewis:
+Bất kỳ đơn chất nào - dù có cấu tạo gồm hai nguyên tử, ví dụ khí clo Cl2 - đều có trạng thái ôxy hóa bằng 0.
+Trong các ion đơn nguyên tử, trạng thái ôxy hóa bằng bới điện tích của ion. Ví dụ, anion sunfit S2− có trạng thái ôxy hóa bằng -2; cation liti Li+ có trạng thái ôxy hóa bằng +1.
+Tổng trạng thái ôxy hóa của tất cả các nguyên tử trong phân tử hoặc ion đa nguyên tử thì bằng với điện tích của phân tử (bằng 0) hay ion đa nguyên tử đó. Do đó, có thể tính ra trạng thái ôxy hóa của một nguyên tố dựa vào trạng thái ôxy hóa của các nguyên tố khác.
+Tổng trạng thái ôxy hóa của tất cả các nguyên tử trong một phân tử thì bằng 0. Ví dụ, xét phân tử hợp chất cacbon điôxít CO2. Trong phân tử này, ôxy có trạng thái ôxy hóa bằng -2. Từ đó có thể tính ra trạng thái ôxy hóa của cacbon bằng +4 từ phương trình trạng thái ôxy hóa (C) + 2(-2) = 0.
+Tổng trạng thái ôxy hóa của các nguyên tử của các nguyên tố trong một ion đa nguyên tử bằng tổng điện tích của ion đó. Ví dụ, xét anion S2− (trong công thức SO32-). Theo quy tắc thì tổng trạng thái ôxy hóa ở đây phải bằng -2, từ đó suy ra trạng thái ôxy hóa của lưu huỳnh ở đây là +4 thông qua phương trình trạng thái ôxy hóa (S) + 3(−2) = −2.
+Một số nguyên tố hầu như luôn luôn chỉ có một trạng thái ôxy hóa nhất định (do có khả năng mất electron hoặc khả năng hút electron rất cao). Do vậy, khi kết hợp điều này với các quy tắc trên thì có thể xác định được trạng thái ôxy hóa của nguyên tử của nguyên tố còn lại (ví dụ xác định trạng thái ôxy hóa của kim loại chuyển tiếp) trong hợp chất hóa học đơn giản.
+Dưới đây là một số quy tắc khác có thể dùng lúc ban đầu nhằm xác định trạng thái ôxy hóa của nguyên tử của một số nguyên tố trong hợp chất đơn giản:
+Flo có trạng thái ôxy hóa bằng -1 do nó có khả năng hút electron cao nhất.
+Các nguyên tố nhóm halogen (trừ flo) có trạng thái ôxy hóa bằng -1 trừ các trường hợp khi liên kết với ôxy, với nitơ hoặc với các halogen khác có khả năng hút electron mạnh hơn. Ví dụ, trong hợp chất brôm clorua (BrCl) thì trạng thái ôxy hóa của clo là -1, nhưng trạng thái ôxy hóa của clo trong hợp chất clo florua (ClF) lại là +1 (do khả năng hút electron của flo mạnh hơn clo).
+Hiđrô có trạng thái ôxy hóa là +1 trừ trường hợp khi liên kết với các nguyên tử của nguyên tố có khả năng mất electron mạnh hơn như natri, nhôm và bo, ví dụ NaH, NaBH4 và LiAlH4 (hiđrô khi này có trạng thái ôxy hóa bằng -1).
+Ôxy trong hợp chất nhìn chung có trạng thái ôxy hóa bằng -2 mặc dù cũng có các ngoại lệ như OF2 và perôxít như H2O2.
+Kim loại kiềm có trạng thái ôxy hóa bằng +1 trong hầu như tất cả các hợp chất có mặt chúng, trừ trường hợp hợp chất alkalide (hợp chất mà trong đó kim loại kiềm đóng vai trò là anion).
+Kim loại kiềm thổ có trạng thái ôxy hóa bằng +2 trong hầu như tất cả các hợp chất có mặt chúng.
+
+
+== Quy tắc chung xác định trạng thái ôxy hóa dùng cấu trúc Lewis ==
+Có hai cách thông dụng để tính toán trạng thái ôxy hóa của nguyên tử của một nguyên tố. Cách thứ nhất là cách tính đại số như trên; cách này áp dụng đối với các hợp chất hóa học đơn giản không cần cấu trúc Lewis. Cách thứ hai được dùng đối với phân tử có cấu trúc Lewis.
+Nên nhớ rằng trạng thái ôxy hóa của nguyên tử của nguyên tố không đại diện cho điện tích "thực" của nguyên tử đó: điều này đặc biệt đúng đối với các trạng thái ôxy hóa cao khi lượng năng lượng ion hóa cần thiết để tạo ra một ion dương lớn hơn rất nhiều so với năng lượng có trong phản ứng hoá học. Dù việc gán electron cho các nguyên tử nhằm tính toán trạng thái ôxy hóa thực chất chỉ mang tính hình thức nhưng việc làm này lại có ích nếu muốn hiểu được nhiều phản ứng hóa học.
+
+
+=== Cấu trúc Lewis ===
+Nếu một phân tử có cấu trúc Lewis thì có thể gán trạng thái ôxy hóa bằng cách tính mức chênh lệch giữa số electron hóa trị của nguyên tử trung hòa về điện với số electron "thuộc" về nguyên tử đó xét trong cấu trúc Lewis. Nhằm mục đích tính toán trạng thái ôxy hóa, số electron liên kết giữa các nguyên tử của các nguyên tố khác nhau được xếp thuộc về nguyên tử có khả năng hút electron mạnh hơn; trong khi đó, số electron liên kết giữa các nguyên tử của cùng một nguyên tố thì được phân đều cho các nguyên tử; electron nằm trong cặp lẻ thì chỉ thuộc về nguyên tử có cặp lẻ đó.
+Ví dụ, xét trường hợp axit axêtic:
+
+Nguyên tử cacbon trong nhóm metyl có 6 electron hóa trị thuộc về nó do cacbon có khả năng hút electron mạnh hơn hiđrô. Tiếp theo, nguyên tử cacbon này có thêm 1 electron nữa từ liên kết với nguyên tử cacbon khác (C-C) do số electron liên kết giữa các nguyên tử cùng nguyên tố thì được phân chia đều. Như vậy tổng cộng nguyên tử cacbon này có 7 electron. Một nguyên tử cacbon trung hòa về điện thì chỉ có 4 electron hóa trị, suy ra mức chênh lệch là 4 - 7 = -3. Do vậy, xét theo cấu trúc Lewis thì trạng thái ôxy hóa của nguyên tử cacbon này là -3. Điều đó có nghĩa là nếu giả sử tất cả các liên kết giữa các nguyên tử trong hợp chất này là liên kết ion (thực tế không phải vậy) thì nguyên tử này được ký hiệu C3-.
+Áp dụng tương tự quy tắc trên cho nguyên tử cacbon trong gốc axit thì thu được trạng thái ôxy hóa của nó là +3, áp dụng cho nguyên tử ôxy thì thu được trạng thái ôxy hóa là -2.
+
+
+== Tham khảo ==

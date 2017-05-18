@@ -1,0 +1,396 @@
+Điện tích là một tính chất cơ bản và không đổi của một số hạt hạ nguyên tử (hạt sơ cấp), đặc trưng cho tương tác điện từ giữa chúng. Điện tích tạo ra trường điện từ và cũng như chịu sự ảnh hưởng của trường điện từ. Sự tương tác giữa một điện tích với trường điện từ, khi nó chuyển động hoặc đứng yên so với trường điện từ này, là nguyên nhân gây ra lực điện từ, một trong những lực cơ bản của tự nhiên.
+Điện tích tạo từ các hạt mang điện rất nhỏ, như một chất điểm, thì điện tích được gọi là điện tích điểm. Nếu điện tích điểm được sử dụng trong một thí nghiệm, có thể là thí nghiệm tưởng tượng trên lý thuyết, thì nó được gọi là điện tích thử.
+Điện tích của một vật vĩ mô là tổng đại số của tất cả các điện tích tương ứng của các hạt phần tử cấu thành nên vật đó. Thông thường, các vật quanh ta đều trung hòa về điện, đó là do mỗi nguyên tử ở trạng thái tự nhiên đều có tổng số proton bằng tổng số electron.
+Tuy nhiên, ngay cả khi điện tích tổng cộng của một vật bằng không, vật ấy vẫn có thể tham gia tương tác điện từ, đó là nhờ hiện tượng phân cực điện. Các điện tích chịu sự ảnh hưởng của hiện tượng phân cực gọi là điện tích liên kết, các điện tích có thể di chuyển linh động trong vật dẫn dưới tác dụng của từ trường ngoài gọi là điện tích tự do.
+Chuyển động của các hạt mang điện theo một hướng xác định sẽ tạo thành dòng điện.
+Phần lớn điện lượng trong tự nhiên là bội số nguyên của điện tích nguyên tố. Các hạt quark có điện tích phân số so với e. Phản hạt của một hạt cơ bản có điện tích bằng về độ lớn nhưng trái dấu so với điện tích của hạt đó.
+Có thể đo điện tích bằng một dụng cụ gọi là tĩnh điện kế.
+
+
+== Điện tích ==
+Điện tích còn được hiểu là "vật tích điện". Mọi vật trung hòa về điện khi cho hay nhận điện tử âm sẻ trở thành Điện tích.
+Khi vật nhận điện tử âm vật sẻ trở thành điện tích âm
+Vật + e --> (-)
+Khi vật cho điện tử âm vật sẻ trở thành điện tích dương
+Vật - e --> (+)
+Điện tích âm có ký hiệu - Q. Điện tích dương có ký hiệu + Q
+Mọi Điện tích đo bằng đơn vị Coulomb có ký hiệu C. Đơn vị Coulomb được định nghỉa như sau
+
+  
+    
+      
+        1
+        C
+        =
+        6
+        ,
+        24
+        ×
+        
+          10
+          
+            18
+          
+        
+        e
+      
+    
+    {\displaystyle 1C=6,24\times 10^{18}e}
+  
+
+
+== Tương tác điện tích ==
+
+
+=== Tương tác giữa hai điện tích ===
+Khi hai điện tích tương tác với nhau. Điện tích đồng loại đẩy nhau. Điện tích khác loại hút nhau
+Khi có 2 điện tích khác dấu nằm kề nhau ở khoảng cách r. Lực hút của điện tích âm hút điện tích dương tuân theo định luật Culomb tạo ra lực Coulomb
+
+Định luật Coulomb phát biểu là:
+Độ lớn lực tương tác giữa hai điện tích điểm tỷ lệ thuận với tích độ lớn của các điện tích và tỷ lệ nghịch với bình phương khoảng cách giữa chúng.
+Công thức lực Coulomb
+
+  
+    
+      
+        F
+        =
+        
+          k
+          
+            
+              e
+            
+          
+        
+        
+          
+            
+              
+                q
+                
+                  1
+                
+              
+              
+                q
+                
+                  2
+                
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle F=k_{\mathrm {e} }{\frac {q_{1}q_{2}}{r^{2}}}}
+  
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  k
+                  
+                    
+                      e
+                    
+                  
+                
+              
+              
+                
+                =
+                
+                  
+                    1
+                    
+                      4
+                      π
+                      
+                        ε
+                        
+                          0
+                        
+                      
+                    
+                  
+                
+                =
+                
+                  
+                    
+                      
+                        c
+                        
+                          2
+                        
+                      
+                       
+                      
+                        μ
+                        
+                          0
+                        
+                      
+                    
+                    
+                      4
+                      π
+                    
+                  
+                
+                =
+                
+                  c
+                  
+                    2
+                  
+                
+                ⋅
+                
+                  10
+                  
+                    −
+                    7
+                  
+                
+                 
+                
+                  H
+                
+                ⋅
+                
+                  
+                    m
+                  
+                  
+                    −
+                    1
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                8.987
+                 
+                551
+                 
+                787
+                ×
+                
+                  10
+                  
+                    9
+                  
+                
+                 
+                
+                  N
+                  ⋅
+                  
+                    m
+                    
+                      2
+                    
+                  
+                  
+                    /
+                  
+                  
+                    C
+                    
+                      2
+                    
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}k_{\mathrm {e} }&={\frac {1}{4\pi \varepsilon _{0}}}={\frac {c^{2}\ \mu _{0}}{4\pi }}=c^{2}\cdot 10^{-7}\ \mathrm {H} \cdot \mathrm {m} ^{-1}\\&=8.987\ 551\ 787\times 10^{9}\ \mathrm {N\cdot m^{2}/C^{2}} .\end{aligned}}}
+  
+
+
+=== Tương tác giữa điện tích và điện ===
+Tương tác giữa điện tích đứng yên và điện có điện lực F_E tạo ra dòng điện tích di chuyển thẳng hàng có điện trường E tuân theo định luật Ampere
+
+  
+    
+      
+        E
+        =
+        
+          
+            
+              F
+              
+                E
+              
+            
+            Q
+          
+        
+      
+    
+    {\displaystyle E={\frac {F_{E}}{Q}}}
+  
+Vì vậy
+
+  
+    
+      
+        
+          F
+          
+            E
+          
+        
+        =
+        Q
+        E
+      
+    
+    {\displaystyle F_{E}=QE}
+  
+
+
+=== Tương tác giữa điện tích và từ ===
+Tương tác giữa điện tích di chuyển và nam châm từ có từ lực F_B tạo ra từ trường B vuông góc với điện trường E tuân theo định luật Lorentz
+
+  
+    
+      
+        
+          F
+          
+            B
+          
+        
+        =
+        Q
+        v
+        B
+      
+    
+    {\displaystyle F_{B}=QvB}
+  
+Vậy,
+
+  
+    
+      
+        B
+        =
+        
+          
+            
+              F
+              
+                B
+              
+            
+            
+              Q
+              v
+            
+          
+        
+      
+    
+    {\displaystyle B={\frac {F_{B}}{Qv}}}
+  
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              F
+              
+                B
+              
+            
+            
+              Q
+              B
+            
+          
+        
+      
+    
+    {\displaystyle v={\frac {F_{B}}{QB}}}
+  
+
+
+=== Tương tác giữa điện tích cùng với điện và từ ===
+
+  
+    
+      
+        
+          F
+          
+            E
+            B
+          
+        
+        =
+        
+          F
+          
+            E
+          
+        
+        +
+        
+          F
+          
+            B
+          
+        
+        =
+        Q
+        E
+        ±
+        Q
+        v
+        B
+        =
+        Q
+        (
+        E
+        ±
+        v
+        B
+        )
+      
+    
+    {\displaystyle F_{EB}=F_{E}+F_{B}=QE\pm QvB=Q(E\pm vB)}
+  
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==

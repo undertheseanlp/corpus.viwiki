@@ -1,0 +1,38 @@
+Kim loại vô định hình hay thủy tinh kim loại là một hợp kim có cấu trúc vô định hình.
+Hầu hết kim loại đều có cấu trúc định hình, với các nguyên tử bố trí rất chặt chẽ. Kim loại vô định hình có cấu trúc vô định hình giống như chất lỏng và thủy tinh. Nhưng không giống như thủy tinh thông thường không dẫn điện, kim loại vô định hình có độ dẫn điện tốt.
+Để tạo kim loại vô định hình có thể dùng các phương pháp: công nghệ nguội nhanh, ngưng tụ vật lý, phản ứng trạng thái rắn, chiếu xạ ion và hợp kim cơ khí.
+
+Loại vật liệu này có độ chống chịu gấp 3 lần và đàn hồi gấp 10 lần thép công nghiệp. Hơn nữa chúng còn có điểm nóng chảy thấp.
+
+
+== Lịch sử ==
+Khi kim loại đông đặc thì nó sẽ kết tinh lại và các nguyên tử sẽ tự động sắp xếp lại thành các hàng ngay ngắn. Để làm ra kim loại vô định hình, cần phải ngăn chặn kết tinh của kim loại. Nếu làm lạnh với tốc độ cực nhanh thì quá trình kết tinh sẽ không kịp xảy ra.
+Gần đây, các khoa học thuộc Công ty Liquidmetal Technologies ở California do William Johnson thành lập đã tìm ra cách đó. Khi đấy Johnson cố nghĩ cách để làm ra những thanh kim loại vô định hình dày hơn 1 milimét. Ông bất ngờ được nghe nói tới một phát minh của Akihisa Inoue làm việc tại Viện Nghiên cứu vật liệu ở Tohoku Nhật Bản. Inoue đã phát hiện ra rằng, khi thêm nguyên tử kim loại lớn hơn vào một hợp kim sẽ làm chậm lại đi quá trình kết tinh và điều quan trọng là kết hợp các nguyên tử lớn và nhỏ với tỷ lệ phù hợp để cho khi hợp kim nóng chảy được làm đông đặc, các nguyên tử nhỏ hơn sẽ vây quanh những nguyên tử lớn hơn. Các nguyên tử nhỏ khác lấp đầy các lỗ hổng giữa các nhóm trên và kết quả là một hợp kim có cấu trúc vô định hình.
+
+Vào đầu những năm 1990, Johnson cùng đồng nghiệp cuối cùng cũng tạo thành công kim loại vô định hình với phương pháp trên và nó chính là nền móng để ông thành lập Công ty Liquidmetal. Họ đã gọi vật liệu này là Vitreloy. Vitreloy chứa các nguyên tử lớn: zircon, titan, đồng và niken, cùng các nguyên tử nhỏ là berili. Vitreloy đàn hồi hơn so với thép và rất dễ uốn cong ở nhiệt độ 400 độ C so với thép là trên 1.000 độ C. Khả năng này làm cho Vitreloy có giá thành sản xuất thấp hơn.Tuy nhiên mọi việc không theo đúng dự tính. Sản phẩm đầu tiên làm bằng vật liệu mới là gậy đánh gôn. Do độ đàn hồi cao nên gậy có thể đánh quả bóng đi xa hơn so với các loại gậy đánh gôn khác. Vấn đề ở đây là thủy tinh kim loại rất giòn, mặc dù chúng bền. Giống như kính cửa sổ, chúng sẽ nứt và vỡ thành từng mảnh nếu bị tác dụng đủ lực vì kim loại thông thường thường chậm chạp nứt dọc theo các ranh giới thớ nhưng còn thủy tinh kim loại vỡ một cách bất ngờ. Do vậy, những cây gậy đánh gôn này không bao giờ được bán trên thị trường. Sản phẩm nguyên mẫu thường vỡ vụn sau 40 lần đánh.
+
+Nghiên cứu của Liquidmetal cho thấy thủy tinh kim loại giòn là do các dải hình thành ở những điểm căng trong vật liệu. Ở vật liệu kết tinh, những dải này mở rộng một đoạn ngắn dọc theo ranh giới thớ rồi ngừng lại khi chúng gặp tinh thể nhưng ở thủy tinh kim loại thì các dải vẫn tiếp tục phát triển. Johnson và nhóm của ông đã khắc phục bằng cách cho thêm các hạt tinh thể vào Vitreloy nhưng đây không phải là giải pháp hợp lý nhất. Johnson muốn tìm ra một loại thủy tinh kim loại cứng song không cần tinh thể. Để làm điều đó, ông phải làm nóng nhiều thành phần với nhau rồi thử chúng. Vào năm ngoái, nỗ lực của họ cũng đã thành công. Nhóm đã chế tạo thành công kim loại vô định hình không giòn, là hợp kim của platin, đồng, nicken và phốt pho. Khi họ tác dụng một lực vào vật liệu, nhiều dải xuất hiện nhưng mỗi dải rất nhỏ và mỏng. Những dải này làm tăng độ dai tổng thể bằng cách tác động lẫn nhau để không một dải nào mở rộng thành một vết nứt dài.
+
+Do platin chiếm gần 60% trong loại vật liệu mới nên giá thành của nó khá cao, không thể sử dụng rộng rãi. Tuy nhiên, chẳng có điều gì làm các nhà khoa học chùn bước, nhiều nghiên cứu đã giúp họ tìm ra cách để tạo ra các loại thủy tinh kim loại nhanh hơn và rẻ hơn.
+
+Một bước tiến quan trọng nữa là khả năng làm ra thủy tinh kim loại bằng cách dùng các kim loại rẻ tiền như sắt và đồng. Joseph Poon và Gary Shiflet tại Đại học Virginia đã tuyên bố tạo ra loại thủy tinh thép đầu tiên chứa carbon, sắt và một chút mangan. Do mangan không có từ tính nên thủy tinh thép là một trong những loại thép không từ tính đầu tiên. Đây có thể là một bước đột phá lớn, vì các con tàu được chế tạo bằng thép không từ tính sẽ tàng hình trước con mắt soi mói của hệ thống radar. Vật liệu của họ vẫn tương đối giòn, song các nhà nghiên cứu khác đang đạt được tiến bộ nhanh chóng trong lĩnh vực này. John đang chuẩn bị công bố một loại hợp kim dễ uốn, dựa trên đồng.
+
+
+== Ứng dụng ==
+Do cứng và có điểm nóng chảy thấp nên kim loại vô định hình đang dần được quan tâm. Điểm nóng chảy thấp kiến chúng dễ được chế tác cộng với độ bền cao. Liquidmetal đang dùng thủy tinh kim loại dựa trên platin để làm thiết bị y tế, lưỡi dao và vợt tennis chuyên nghiệp. Còn các nhà khoa học ở Nhật Bản đã sử dụng thủy tinh kim loại để chế tạo một chiếc động cơ thu nhỏ. Độ bền của các loại kim loại vô định hình là một điều kiện lý tưởng để chúng được sử dụng vào việc tạo ra các bộ phận máy bay và thân tàu. Bộ Quốc phòng Mỹ cũng đang xem xét xem có nên sử dụng chúng thay thế urani trên mũi của các viên đạn xuyên áo giáp chống đạn. Liquidmetal cũng đã ký hợp đồng với Samsung để chế tạo các linh kiện điện thoại di động bằng kim loại vô định hình.
+
+
+== Chú thích ==
+
+
+== Liên kết ngoài ==
+Liquidmetal Design Guide
+"Metallic glass: a drop of the hard stuff" at New Scientist
+Glass-Like Metal Performs Better Under Stress Physical Review Focus, ngày 9 tháng 6 năm 2005
+"Overview of metallic glasses"
+New Computational Method Developed By Carnegie Mellon University Physicist Could Speed Design and Testing of Metallic Glass (2004) (the alloy database developed by Marek Mihalkovic, Michael Widom, and others)
+Materials Today: The case for bulk metallic glass
+New tungsten-tantalum-copper amorphous alloy developed at the Korea Advanced Institute of Science and Technology [1]
+Amorphous Metals in Electric-Power Distribution Applications
+Amorphous and Nanocrystalline Soft Magnets
+glass transition temperatures of bulk metallic glasses

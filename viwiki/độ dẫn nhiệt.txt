@@ -1,0 +1,26 @@
+Độ dẫn nhiệt là một đại lượng vật lý đặc trưng cho khả năng dẫn nhiệt của vật liệu.
+Trong phương trình của định luật Fourier (phương trình mô tả hiện tượng dẫn nhiệt trong vật liệu), độ dẫn nhiệt xuất hiện dưới dạng một hệ số đặc trưng cho vật liệu.
+Độ dẫn nhiệt được xác định bằng nhiệt lượng truyền qua một đơn vị diện tích vật liệu trong một đơn vị thời gian, dưới gradient của nhiệt độ. Thứ nguyên của độ dẫn nhiệt là [năng lượng].[diện tích]^-1.[thời gian]^-1.[nhiệt độ]^-1.[chiều dài]
+
+
+== Ví dụ ==
+Một vài ví dụ về giá trị tính của độ dẫn nhiệt cho Vật liệu xây dựng, các vật rắn khác, chất lỏng (ở nhiệt độ phòng) và khí (ở 0 °C). Độ dẫn nhiệt lớn đồng nghĩa với việc truyền nhiệt tốt hơn (nhanh hơn).
+
+
+== Chân không ==
+Trong chân không không diễn ra sự dẫn nhiệt, sự vận nhiệt chỉ xảy ra do quá trình bức xạ nhiệt. Điều này được dùng trong chai nhiệt, để hạn chế tối đa việc vận nhiệt. Để việc vận lượng (vận chuyển năng lượng) do bức xạ nhiệt giảm tối thiểu thì bề mặt các lớp sắt và kính phải hướng về chân không phản chiếu rất tốt.
+
+
+== Xem thêm ==
+Độ dẫn nhiệt
+Hệ số truyền nhiệt
+Gitterschwingung
+Debye-Temperatur
+Phonon
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Wärmeleitfähigkeit der Elemente

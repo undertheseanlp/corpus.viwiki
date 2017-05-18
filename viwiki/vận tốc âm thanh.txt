@@ -1,0 +1,856 @@
+Vận tốc âm thanh là vận tốc lan truyền sóng âm thanh trong một môi trường truyền âm (xét trong hệ quy chiếu mà môi trường truyền âm đứng yên). Vận tốc này thay đổi tuỳ thuộc vào môi trường truyền âm (ví dụ âm thanh truyền trong nước nhanh hơn trong không khí) và các điều kiện vật lý/hóa học của môi trường này, như nhiệt độ. Trong những môi trường truyền âm dị hướng, vận tốc âm thanh có độ lớn phụ thuộc vào hướng lan truyền. Trong những môi trường đẳng hướng, độ lớn của vận tốc âm thanh (tốc độ âm thanh) không thay đổi theo hướng lan truyền.
+Trong nhiều lĩnh vực của đời sống, thuật ngữ này thường được dùng để chỉ tốc độ của âm thanh trong không khí (khí quyển Trái Đất); một môi trường truyền âm thông dụng, đẳng hướng. Ở mực nước biển, tại nhiệt độ 21 °C (70 °F) và với áp suất tiêu chuẩn, tốc độ âm thanh trong không khí là khoảng 343.2 m/s (768 mph hay 1236 km/h). Nhưng âm thanh không thể truyền trong chân không, vì do các trong chân không có các hạt cấu để truyền trong âm thanh, còn sở dĩ các chất lỏng khí rắn truyền trong âm thanh vì do các hạt cấu trong chúng chuyển động làm dao động âm thanh. Âm thanh có ý nghĩa lớn với con người và có nhiều ứng dụng trong cuộc sống. Do tác động của con người làm ô nhiễm tiếng ồn, gây nhiều ảnh hưởng xấu đến sức khỏe của con người, cho nên con người đã tìm cách chống ô nhiễm tiếng ồn cụ thể như: trồng cây ngay chỗ dân cư vì khi âm thanh đến gặp tán cây sẽ bị phân tán ra theo mỗi hướng, hoặc dùng tấm vải nhung để chống tiếng ồn.
+
+
+== Lịch sử ==
+Isaac Newton đã tính vận tốc âm thanh là 979 foot một giây (298 m/s), bị thấp khoảng 15%, ông đã bỏ qua hiệu ứng biến động nhiệt; cái mà sau này đã được sửa chữa bởi Laplace.
+Trong thế kỷ 17, đã có những cố gắng trong việc đo tốc độ âm thanh một cách chính xác, bao gồm tính toán Marin Mersenne năm 1630 (1.380 Parisian feet trên giây), Pierre Gassendi năm 1635 (1.473 Parisian feet trên giây) và Robert Boyle (1.125 Parisian trên giây).
+Năm 1709, William Derham, đã xuất bản một tính toán chính xác hơn, 1.072 Parisian feet trên giây. Derham sử dụng kính viễn vọng từ tháp nhà thờ St Laurence, Upminster để quan sát tia sát từ súng ngắn được bắn ở xa, và sau đó đo thời gian ông ấy nghe thấy tiếng súng với quả lắc nửa giây. Các đo đạc về phát súng đã được thực hiện từ một số địa danh địa phương, bao gồm nhà thờ Bắc Ockendon. Khoảng cách được tính bởi phép đạc tam giác, và do đó tốc độ âm thanh di chuyển được tính.
+
+
+== Công thức ==
+Tốc độ âm thành trong ký hiệu toán học là chữ c, trong tiếng Latin celeritas nghĩa là "vận tốc".
+Tốc độ âm thanh c được đưa ra bởi phương trình Newton–Laplace:
+
+  
+    
+      
+        c
+        =
+        
+          
+            
+              
+                K
+                
+                  s
+                
+              
+              ρ
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle c={\sqrt {\frac {K_{s}}{\rho }}},}
+  
+trong đó
+Ks là hệ số của độ cứng, mô đun khối đẳng entropy (hoặc mô đun đàn hồi khối với chất khí);
+ρ là khối lượng riêng.
+Do đó Tốc độ âm thanh tăng lên cùng với độ cứng (sự kháng lại biến đổi dưới tác dụng lực của vật đàn hồi) của chất liệu, và giảm khi khối lượng riêng tăng lên. Với khí lý tưởng mô đun khối K đơn giản là áp suất khi nhân với chỉ số đoạn nhiệt, cái mà có giá trị khoảng 1,4 với khí trong điều kiện áp suất nhiệt độ thường.
+Với phương trình trạng thái tổng quát, nếu cơ học cổ điển được sử dụng, tốc độ âm thanh c là
+
+  
+    
+      
+        c
+        =
+        
+          
+            
+              
+                (
+                
+                  
+                    
+                      ∂
+                      p
+                    
+                    
+                      ∂
+                      ρ
+                    
+                  
+                
+                )
+              
+              
+                s
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle c={\sqrt {\left({\frac {\partial p}{\partial \rho }}\right)_{s}}},}
+  
+trong đó
+p là áp suất;
+ρ là khối lượng riêng và đạo hàm đượng tính theo đẳng entropy, ở hằng số entropy s.
+Nếu hiệu ứng tương đối hẹp là quan trọng, tốc độ âm thanh được tính theo phương trình tương đối Euler.
+
+
+== Công thức thực hành cho không khí khô ==
+
+Tốc độ xấp xỉ của âm thanh trong không khí khô (độ ẩm 0%), đơn vị mét trên giây, ở nhiệt độ gần 0 °C, có thể được tính từ
+
+  
+    
+      
+        
+          c
+          
+            
+              a
+              i
+              r
+            
+          
+        
+        =
+        (
+        331.3
+        +
+        0.606
+        ⋅
+        ϑ
+        )
+         
+         
+         
+        
+          m
+          
+            /
+          
+          s
+        
+        ,
+      
+    
+    {\displaystyle c_{\mathrm {air} }=(331.3+0.606\cdot \vartheta )~~~\mathrm {m/s} ,}
+  
+trong đó 
+  
+    
+      
+        ϑ
+      
+    
+    {\displaystyle \vartheta }
+   là nhiệt độ Celsius (°C).
+Phương trình này được suy ra từ hai số hạng đầu tiên trong chuỗi Taylor từ phương trình chính xác hơn ban đầu:
+
+  
+    
+      
+        
+          c
+          
+            
+              a
+              i
+              r
+            
+          
+        
+        =
+        331
+        ,
+        3
+         
+        
+          
+            1
+            +
+            
+              
+                ϑ
+                
+                  273
+                  ,
+                  15
+                
+              
+            
+          
+        
+         
+         
+         
+         
+        
+          m
+          
+            /
+          
+          s
+        
+        .
+      
+    
+    {\displaystyle c_{\mathrm {air} }=331,3~{\sqrt {1+{\frac {\vartheta }{273,15}}}}~~~~\mathrm {m/s} .}
+  
+Chia phần đầu tiên và nhân phần thứ hai ở vế phải cho √273,15 được
+
+  
+    
+      
+        
+          c
+          
+            
+              a
+              i
+              r
+            
+          
+        
+        =
+        20
+        ,
+        05
+         
+        
+          
+            ϑ
+            +
+            273
+            ,
+            15
+          
+        
+         
+         
+         
+         
+        
+          m
+          
+            /
+          
+          s
+        
+        .
+      
+    
+    {\displaystyle c_{\mathrm {air} }=20,05~{\sqrt {\vartheta +273,15}}~~~~\mathrm {m/s} .}
+  
+Giá trị 331,3 m/s, ở nhiệt độ 0 °C (hoặc 273,15 K), là dựa trên giá trị của tỉ lệ nhiệt dung γ theo lý thuyết (và một vài tính toán), cũng như trên thực tế ở 1 atm không khi thật được mô tả xấp xỉ bằng khí lý tưởng. Giá trị phổ biến của tốc độ âm thanh ở 0 °C có thể thay đổi từ 331,2 đến 331,6 do do các giả định khi nó được tính toán. Nếu cho khí lý tưởng γ là đúng 7/5 = 1,4, tốc độ 0 °C được tính là 331,3 m/s, với các hệ số sử dụng bên trên.
+Phương trình này đúng với phạm vi nhiệt độ rộng hơn nhiều, nhưng vẫn dựa trên tỉ lệ nhiệt dung xấp xỉ phụ thuộc vào nhiệt độ, và vì lý do này nó không đúng với nhiệt độ cao hơn. Nó đưa ra dự đoán tốt về các điều kiện tương đối khô, mát, lạnh, áp suất thất, ví dụ như tầng bình lưu của Trái Đất. Phương trình không đúng với áp xuất quá thấp và bước sóng ngắn, do sự phụ thuộc vào giả định là bước sóng của âm thanh trong khí lớn hơn nhiều quãng đường tự do trung bình giữa các va chạm phân tử khí.
+Đồ thị so sánh kết quả của hai phương trình ở phía bên phải, sử dụng giá trị hơi khác là 331,5 m/s cho tốc độ âm thanh ở 0 °C.
+
+
+== Số Mach ==
+
+Số Mach, một đại lượng hữu ích trong khí động lực học, là tỉ lệ giữa tốc độ không khí và tốc độ âm thanh. Ở độ cao, do một số lý do được giải thích, số Mach là một hàm nhiệt độ.
+Dụng cụ bay của máy bay, tuy nhiên, sử dụng đạo hàm áp suất để tính số Mach thay vì nhiệt độ. Sự giải định là có một áp suất nhất định ở một độ cao, do đó có nhiệt độ nhất định. Dụng cụ bay của máy bay cần vận hành theo cách này vì áp lực trì trệ được cảm nhận bởi ống Pitot phụ thuộc vào độ cao và tốc độ.
+
+
+== Thông tin ==
+
+
+=== Bảng ===
+Trong bầu không khí tiêu chuẩn:
+T0 là 273,15 K (= 0 °C = 32 °F), đưa ra giá trị trên lý thuyết là 331,3 m/s (= 1086,9 ft/s = 1193 km/h = 741,1 dặm/h = 644,0 kn). Tuy nhiên các giá trị trong khoảng 331,3-331,6 có thể tìm thấy trong các tài liệu tham khảo;
+T20 là 293,15 K (= 20 °C = 68 °F), đưa ra giá trị 343,2 m/s (= 1126,0 ft/s = 1236 km/h = 767,8 mph = 667,2 kn);
+T25 là 298,15 K (= 25 °C = 77 °F), đưa ra giá trị 346,1 m/s (= 1135,6 ft/s = 1246 km/h = 774,3 mph = 672,8 kn).
+Trên thực tế, trong khí lý tưởng, tốc độ âm thanh c chỉ phục thuộc vào nhiệt độ, không phải áp suất hay khối lượng riêng. Không khí gần như là khí lý tưởng. Nhiệt độ không khí thay đổi với độ cao, tạo ra thay đổi trong tốc độ âm thanh.
+Trong điều kiện khí quyển thường, nhiệt độ và do đó cả tốc độ âm thanh thay đổi với độ cao:
+
+
+== Môi trường không có khí ==
+
+
+=== Vận tốc âm thanh trong chất rắn ===
+
+
+==== Chất rắn ba chiều ====
+Trong một chất rắn, có một độ cứng khác không đối với cả biến dạng thể tích và biến dạng cắt. Do đó, có thể tạo là sóng âm với các vận tốc khác nhau phụ thuộc vào kiểu biến dạng. Sóng âm tạo ra biến dạng thể tích (sự nén) và biến dạng cắt (sự cắt) được gọi là sóng áp suất (sóng ngang) và sóng cắt (sóng dọc), lần lượt. Trong động đất, các sóng địa chất tương ứng được gọi là sóng P (sóng sơ cấp) và sóng S (sóng thứ cấp), lần lượt. Vận tốc âm thanh của hai loại sóng này truyền trong một vật rắn ba chiều đồng nhất lần lượt là
+cchất rắn,p 
+  
+    
+      
+        =
+        
+          
+            
+              
+                K
+                +
+                
+                  
+                    4
+                    3
+                  
+                
+                G
+              
+              ρ
+            
+          
+        
+        =
+        
+          
+            
+              
+                E
+                (
+                1
+                −
+                ν
+                )
+              
+              
+                ρ
+                (
+                1
+                +
+                ν
+                )
+                (
+                1
+                −
+                2
+                ν
+                )
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle ={\sqrt {\frac {K+{\frac {4}{3}}G}{\rho }}}={\sqrt {\frac {E(1-\nu )}{\rho (1+\nu )(1-2\nu )}}},}
+  
+cchất rắn,s 
+  
+    
+      
+        =
+        
+          
+            
+              G
+              ρ
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle ={\sqrt {\frac {G}{\rho }}},}
+  
+với
+K là mô đun khối của vật liệu đàn hồi;
+G là mô đun cắt của vật liệu đàn hồi;
+E là mô đun Young;
+ρ là khối lượng riêng;
+ν là tỷ lệ Poisson.
+Đại lượng cuối cùng không phải một đại lượng độc lập, vì E = 3K(1 − 2ν). Chú ý rằng vận tốc của sóng áp suất phụ thuộc vào cả tính chất kháng áp suất và cắt của vật liệu, trong khi vận tốc sóng cắt chỉ phụ thuộc vào tính chất cắt.
+Điển hình, sóng áp suất di chuyển nhanh hơn trong các vật liệu so với sóng cắt, và trong động đất đây là lý sự bắt đầu của một trận động đất thường được theo trước bởi một chấn động nhanh lên xuống, trước khi sóng mà tạo ra chuyển động từ bên này qua bên kia đi tới. Ví dụ, một hợp kim thép điển hình, K = 170 GPa, G = 80 GPa và ρ = 7,700 kg/m3, đưa ra vận tốc nén cchất rắn,p là 6,000 m/s. Điều này tương đối thỏa mãn với cchất rắn,p đo một cách thực nghiệm ở 5.930 m/s đối với một loại (có thể khác) thép. Vận tốc cắt cchất rắn,s được ước lượng ở 3.200 m/s bằng cách sử dụng các số liệu tương tự.
+
+
+==== Chất rắn một chiều ====
+Vận tốc âm thanh đối với sóng áp suất trong chất liệu cứng như là kim loại đôi khi được tính với một "dây dài" vật liệu cho trước, trong đó vận tốc dễ đo hơn. Trong dây mà có đường kính ngắn hơn một bước sóng, vận tốc sóng áp suất tinh khiết có thể giản ước và tính bởi:
+cchất rắn 
+  
+    
+      
+        =
+        
+          
+            
+              E
+              ρ
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle ={\sqrt {\frac {E}{\rho }}},}
+  
+với E là mô đun Young. Nó tương tự với công thức của sóng cắt, nhớ rằng mô đun Young thay thế mô đun cắt. Vận tốc âm thanh này với sóng áp suất trong dây dày sẽ luôn ít hơn một chút so với vận tốc tương tự trong chất rắn ba chiều đồng nhất, và tỷ lệ vận tốc trong hai loại vật khác nhau phụ thuộc vào tỷ lệ Poisson của vật liệu.
+
+
+=== Vận tốc âm thanh trong chất lỏng ===
+
+Trong chất lỏng độ cứng khác không duy nhất là biến dạng thể tích (chất lỏng không duy trì lực cắt).
+Do đó vận tốc âm thanh trong chất lỏng là
+cchất lỏng 
+  
+    
+      
+        =
+        
+          
+            
+              K
+              ρ
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle ={\sqrt {\frac {K}{\rho }}},}
+  
+với K là mô đun khối của chất lỏng.
+
+
+==== Nước ====
+Trong nước trong, âm thanh di chuyển khoảng 1481 m/s tại 20 °C (xem Liên kết ngoài). Ứng dụng của âm thanh dưới nước có thể được thấy ở sonar, liên lạc âm thanh và hải dương học âm thanh.
+
+
+==== Nước biển ====
+
+Trong nước mối không có bọt khí hoặc trầm tích lơ lửng, âm thanh di chuyển khoảng 1500 m/s (1500.235 m/s tại 1000 kilopascal, 10 °C và độ mặn 3% bởi một phương pháp). Vận tốc âm thanh trong nước biển phụ thuộc vào áp suất (do đó là độ sâu), nhiệt độ (thay đổi 1 °C ~ 4 m/s), và độ mặn (thay đổi 1‰ ~ 1 m/s), và phương trình thực nghiện được chứng minh để tính toán chính xác vận tốc âm thanh từ các biến này. Các hệ số khác tác động đến vận tốc của âm thanh không đáng kể. Vì nhiệt độ giảm với độ sâu trong khi áp suất và độ mặn tăng, đồ thị vận tốc với độ sâu thường cho thấy một đường cong đặc trưng mà giảm tới cực tiểu ở độ sâu vài tăm mét, sau đó tăng lại với độ sâu tăng lên (bên phải). Để biết thêm thông tin xem Dushaw et al.
+Một phương trình thực nghiệm đơn giản cho vận tốc âm thanh trong nước biển với độ chính xác tương đối cho các đại dương trên thế giới do Mackenzie:
+
+  
+    
+      
+        c
+        (
+        T
+        ,
+        S
+        ,
+        z
+        )
+        =
+        
+          a
+          
+            1
+          
+        
+        +
+        
+          a
+          
+            2
+          
+        
+        T
+        +
+        
+          a
+          
+            3
+          
+        
+        
+          T
+          
+            2
+          
+        
+        +
+        
+          a
+          
+            4
+          
+        
+        
+          T
+          
+            3
+          
+        
+        +
+        
+          a
+          
+            5
+          
+        
+        (
+        S
+        −
+        35
+        )
+        +
+        
+          a
+          
+            6
+          
+        
+        z
+        +
+        
+          a
+          
+            7
+          
+        
+        
+          z
+          
+            2
+          
+        
+        +
+        
+          a
+          
+            8
+          
+        
+        T
+        (
+        S
+        −
+        35
+        )
+        +
+        
+          a
+          
+            9
+          
+        
+        T
+        
+          z
+          
+            3
+          
+        
+        ,
+      
+    
+    {\displaystyle c(T,S,z)=a_{1}+a_{2}T+a_{3}T^{2}+a_{4}T^{3}+a_{5}(S-35)+a_{6}z+a_{7}z^{2}+a_{8}T(S-35)+a_{9}Tz^{3},}
+  
+trong đó
+T là nhiệt độ tính theo độ C;
+S là độ mặn tính theo phần nghìn;
+z là độ sâu tính theo mét.
+Hằng số a1, a2, …, a9 là
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  a
+                  
+                    1
+                  
+                
+              
+              
+                
+                =
+                1.448
+                ,
+                96
+                ,
+              
+              
+                
+                  a
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                4
+                ,
+                591
+                ,
+              
+              
+                
+                  a
+                  
+                    3
+                  
+                
+              
+              
+                
+                =
+                −
+                5
+                ,
+                304
+                ×
+                
+                  10
+                  
+                    −
+                    2
+                  
+                
+                ,
+              
+            
+            
+              
+                
+                  a
+                  
+                    4
+                  
+                
+              
+              
+                
+                =
+                2
+                ,
+                374
+                ×
+                
+                  10
+                  
+                    −
+                    4
+                  
+                
+                ,
+              
+              
+                
+                  a
+                  
+                    5
+                  
+                
+              
+              
+                
+                =
+                1
+                ,
+                340
+                ,
+              
+              
+                
+                  a
+                  
+                    6
+                  
+                
+              
+              
+                
+                =
+                1
+                ,
+                630
+                ×
+                
+                  10
+                  
+                    −
+                    2
+                  
+                
+                ,
+              
+            
+            
+              
+                
+                  a
+                  
+                    7
+                  
+                
+              
+              
+                
+                =
+                1
+                ,
+                675
+                ×
+                
+                  10
+                  
+                    −
+                    7
+                  
+                
+                ,
+              
+              
+                
+                  a
+                  
+                    8
+                  
+                
+              
+              
+                
+                =
+                −
+                1
+                ,
+                025
+                ×
+                
+                  10
+                  
+                    −
+                    2
+                  
+                
+                ,
+              
+              
+                
+                  a
+                  
+                    9
+                  
+                
+              
+              
+                
+                =
+                −
+                7
+                ,
+                139
+                ×
+                
+                  10
+                  
+                    −
+                    13
+                  
+                
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}a_{1}&=1.448,96,&a_{2}&=4,591,&a_{3}&=-5,304\times 10^{-2},\\a_{4}&=2,374\times 10^{-4},&a_{5}&=1,340,&a_{6}&=1,630\times 10^{-2},\\a_{7}&=1,675\times 10^{-7},&a_{8}&=-1,025\times 10^{-2},&a_{9}&=-7,139\times 10^{-13},\end{aligned}}}
+  
+với giá trị kiểm tra 1550,744 m/s đối với T = 25 °C, S = 35 phần nghìn, z = 1.000 m. Phương trình này có sai số tiêu chuẩn 0,070 m/s đối với độ mặn giữa 25 và 40 phần nghìn. Xem Technical Guides. Speed of Sound in Sea-Water đối với tính toán trực tuyến.
+Các phương trình khác cho vận tốc âm thanh trong nước biển chính xác trong một loạt các điều kiện khác nhau, nhưng phức tạp hợp nhiều, ví dụ phương trình bởi V. A. Del Grosso và phương trình Chen-Millero-Li.
+
+
+=== Vận tốc âm thanh trong plasma ===
+Vận tốc âm thanh trong plasma đối với trường hợp phổ biến mà electron nóng hơn ion (nhưng không nóng hơn quá nhiều) được tính bởi công thức (xem ở đây)
+
+  
+    
+      
+        
+          c
+          
+            s
+          
+        
+        =
+        (
+        γ
+        Z
+        k
+        
+          T
+          
+            
+              e
+            
+          
+        
+        
+          /
+        
+        
+          m
+          
+            
+              i
+            
+          
+        
+        
+          )
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        =
+        9.79
+        ×
+        
+          10
+          
+            3
+          
+        
+        (
+        γ
+        Z
+        
+          T
+          
+            e
+          
+        
+        
+          /
+        
+        μ
+        
+          )
+          
+            1
+            
+              /
+            
+            2
+          
+        
+         
+        
+          m
+          
+            /
+          
+          s
+        
+        ,
+      
+    
+    {\displaystyle c_{s}=(\gamma ZkT_{\mathrm {e} }/m_{\mathrm {i} })^{1/2}=9.79\times 10^{3}(\gamma ZT_{e}/\mu )^{1/2}~\mathrm {m/s} ,}
+  
+với
+mi là khối lượng ion;
+μ là tỷ lệ khối lượng ion trên khối lượng proton μ = mi/mp;
+Te là nhiệt độ electron;
+Z là trạng thái điện tích;
+k là hằng số Boltzmann;
+γ là chỉ số đoạn nhiệt.
+Ngược lại với khí, áp suất và khối lượng riêng được cung cấp bởi các thành phần riêng biệt, áp suất bởi electron và khối lượng riêng bởi ion. Hai tính chất được kết hợp qua điện trường thay đổi.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Calculation: Speed of sound in air and the temperature
+Speed of sound - temperature matters, not air pressure
+Properties Of The U.S. Standard Atmosphere 1976
+The Speed of Sound
+How to measure the speed of sound in a laboratory
+Teaching resource for 14-16 yrs on sound including speed of sound
+Technical Guides - Speed of Sound in Pure Water
+Technical Guides - Speed of Sound in Sea-Water
+Did sound once travel at light speed?

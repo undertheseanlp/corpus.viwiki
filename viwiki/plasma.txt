@@ -1,0 +1,11 @@
+Plasma là trạng thái thứ tư của vật chất (các trạng thái khác là rắn, lỏng, khí) trong đó các chất bị ion hóa mạnh. Đại bộ phận phân tử hay nguyên tử chỉ còn lại hạt nhân; các electron chuyển động tương đối tự do giữa các hạt. Plasma không phổ biến trên Trái Đất tuy nhiên trên 99% vật chất thấy được trong vũ trụ tồn tại dưới dạng plasma, vì thế trong bốn trạng thái vật chất, plasma được xem như trạng thái đầu tiên trong vũ trụ. (Lưu ý là vật chất thấy được, vật chất biết được và vật chất là khác nhau.)
+Nếu sự ion hóa được xảy ra bởi việc nhận năng lượng từ các dòng vật chất bên ngoài, như từ các bức xạ điện từ thì plasma còn gọi là plasma nguội. Ví dụ như đối với hiện tượng phóng điện trong chất khí, các electron bắn từ cation ra làm ion hóa một số phân tử trung hòa. Các electron mới bị tách ra chuyển động nhanh trong điện trường và tiếp tục làm ion hóa các phân tử khác. Do hiện tượng ion hóa mang tính dây chuyền này, số đông các phân tử trong chất khí bị ion hóa, và chất khí chuyển sang trạng thái plasma. Trong thành phần cấu tạo loại plasma này có các ion dương, ion âm, electron và các phân tử trung hòa..
+Nếu sự ion hóa xảy ra do va chạm nhiệt giữa các phân tử hay nguyên tử ở nhiệt độ cao thì plasma còn gọi là plasma nóng. Khi nhiệt độ tăng dần, các electron bị tách ra khỏi nguyên tử, và nếu nhiệt độ khá lớn, toàn bộ các nguyên tử bị ion hóa. Ở nhiệt độ rất cao, các nguyên tử bị ion hóa tột độ, chỉ còn các hạt nhân và các electron đã tách rời khỏi các hạt nhân.
+Các hiện tượng xảy ra trong plasma chuyển động là rất phức tạp. Để đơn giản hóa, trong nghiên cứu plasma, người ta thường chỉ giới hạn trong việc xét các khối plasma tĩnh, tức là các khối plasma có điện tích chuyển động nhưng toàn khối vẫn đứng yên.
+Các ví dụ về plasma dễ thấy nhất là mặt trời, các ngôi sao, đèn huỳnh quang và sét.
+Plasma không những có tính linh động rất mạnh, nó lại có thể dẫn điện như kim loại. Trên trái đất, loại vật chất này không nhiều, chỉ có ở vùng cực quang vùng núi lửa hoặc chớp điện mới có thể tìm thấy chúng, thế nhưng trong vũ trụ, thế lực của chúng rất to lớn, khoảng 99,9% vật chất trong toàn vũ trụ đều ở vào trạng thái plasma.
+
+
+== Liên kết ngoài ==
+Trạng thái thứ tư của vật chất
+Đông đặc Bose-Einstein chuyển thành plasma

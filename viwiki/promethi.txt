@@ -1,0 +1,61 @@
+Promethi hay prometi (tên La tinh: Promethium) là một nguyên tố hóa học có ký hiệu Pm và số nguyên tử bằng 61. Nó đáng chú ý ở chỗ là nguyên tố chỉ có các đồng vị phóng xạ (ngoài tecneti) mà trước và sau nó đều có các nguyên tố với các đồng vị ổn định.
+
+
+== Đặc trưng ==
+Đồng vị có chu kỳ bán rã dài nhất của promethi, Pm145, là nguồn bức xạ beta mềm với chu kỳ bán rã 17,7 năm. Nó không bức xạ các tia gama, nhưng các hạt beta khi sinh ra sẽ tác động vào các nguyên tử của các nguyên tố có số nguyên tử cao có thể sinh ra các tia X, vì thế một mẫu Pm145 sẽ sinh ra một số bức xạ tia X mềm ngoài các hạt beta.
+Promethi tinh khiết tồn tại dưới 2 dạng thù hình và các tính chất hóa học của nó là tương tự như của các nguyên tố khác trong nhóm Lantan. Các muối của promethi phát quang trong bóng tối với màu lam nhạt hay hơi lục do tính phóng xạ cao của nó. Promethi có thể tìm thấy ở dạng dấu vết trong một số loại quặng urani và các sản phẩm phân hạch. Promethi mới sinh ra cũng có thể phát hiện thấy trong các quang phổ của một số ngôi sao.
+
+
+== Ứng dụng ==
+Các ứng dụng của promethi bao gồm:
+Nguồn bức xạ beta để đo độ dày.
+Như là nguồn sáng cho tín hiệu cần hoạt động ổn định tin cậy và độc lập (sử dụng chất lân quang để hấp thụ bức xạ beta tạo ra ánh sáng).
+Trong pin hạt nhân, trong đó chuyển hóa bức xạ beta thành dòng điện, có tuổi thọ hữu ích khoảng 5 năm khi sử dụng Pm147.
+Clorua promethi (III) (PmCl3) trộn lẫn với sulfua kẽm (ZnS) từng có thời được sử dụng như là lớp sơn phát quang chính cho đồng hồ sau khi radi bị loại bỏ. Hỗn hợp này thỉnh thoảng vẫn được sử dụng cho một số ứng dụng cần sơn phát quang (mặc dù phần lớn ứng dụng như vậy với các vật liệu phóng xạ đã chuyển sang triti vì các lý do an toàn).
+Promethi có ứng dụng tiềm năng như là các nguồn tia X có thể di động và là nguồn nhiệt hay điện phụ trợ cho các tàu thăm dò vũ trụ và vệ tinh (mặc dù nguồn bức xạ alpha Pu238 đã trở thành tiêu chuẩn cho phần lớn các ứng dụng liên quan tới thám hiểm không gian – xem Máy phát nhiệt điện đồng vị phóng xạ).
+
+
+== Lịch sử ==
+Sự tồn tại của promethi lần đầu tiên được Bohuslav Brauner dự đoán vào năm 1902; dự báo này được Henry Moseley ủng hộ năm 1914, khi ông phát hiện thấy lỗ hổng cho nguyên tố bị bỏ sót với số nguyên tử bằng 61, nhưng đã không được tìm thấy (tuy nhiên, Moseley không có mẫu vật nào để kiểm tra điều đó). Một vài nhóm nhà khoa học từng tuyên bố đã tạo ra nguyên tố này, nhưng họ không thể xác nhận điều đó do khó khăn trong việc tách promethi từ các nguyên tố khác. Promethi lần đầu tiên được tạo ra và chứng minh là tồn tại ở Phòng thí nghiệm quốc gia Oak Ridge (ORNL) năm 1945 bởi Jacob A. Marinsky, Lawrence E. Glendenin và Charles D. Coryell bằng chia tách và phân tích các sản phẩm phân hạch của nhiên liệu urani bị chiếu xạ trong lò phản ứng điều chỉnh bằng graphit; tuy nhiên, do quá bận với nghiên cứu liên quan tới quốc phòng trong Thế chiến II nên họ đã không thông báo phát hiện của mình cho tới tận năm 1947. Tên gọi promethium có nguồn gốc từ Prometheus, một vị thần khổng lồ (Titan) trong thần thoại Hy Lạp, đã ăn trộm lửa từ đỉnh Olympus và đưa nó cho loài người. Tên gọi này do Grace Mary Coryell, vợ của Charles Coryell, đề nghị do bà cảm thấy họ đã ăn trộm lửa từ các vị thần.
+Năm 1963, các phương pháp trao đổi ion đã được sử dụng tại ORNL để điều chế khoảng 10 gam promethi từ các chất thải trong chế biến nhiên liệu cho lò phản ứng hạt nhân.
+Ngày nay, promethi vẫn còn được phục hồi từ các phụ phẩm của phân hạch urani; nó có thể được tạo ra bằng bắn phá Nd146 bằng các nơtron, chuyển hóa nó thành Nd147 để sau đó phân rã thành Pm147 thông qua phân rã beta với chu kỳ bán rã 11 ngày.
+
+
+== Phổ biến ==
+Promethi có thể được hình thành trong tự nhiên như là sản phẩm của phân hạch tự phát của U238 và phân rã alpha của Eu151. Chỉ các lượng ở mức dấu vết có thể được tìm thấy trong các loại quặng tự nhiên: một mẫu pitchblende được phát hiện có chứa promethi ở hàm lượng khoảng 4 phần tỷ tỷ (4×10−18) theo khối lượng. Người ta đã tính toán rằng khối lượng cân bằng động của promethi trong lớp vỏ Trái Đất là khoảng 560 g từ phân hạch urani và khoảng 12 g từ phân rã alpha của europi-151 mới quan sát thấy gần đây.
+Promethi cũng đã được nhận dạng trong quang phổ của sao HR 465 trong chòm sao Tiên Nữ (Andromeda) và có thể trong HD 101065 (sao Przybylski của chòm sao Bán Nhân Mã/Centaurus) và HD 965.
+
+
+== Hợp chất ==
+Các hợp chất của promethi bao gồm:
+Các clorua
+PmCl3
+
+Các bromua
+PmBr3
+
+Các ôxít
+Pm2O3
+
+
+== Đồng vị ==
+
+Ba mươi sáu đồng vị phóng xạ của promethi đã được nêu đặc trưng, với các đồng vị ổn định nhất là Pm145 có chu kỳ bán rã 17,7 năm, Pm146 có chu kỳ bán rã 5,53 năm và Pm147 có chu kỳ bán rã 2,6234 năm. Tất cả các đồng vị còn lại đều có chu kỳ bán rã nhỏ hơn 364 ngày và phần lớn trong số này có chu kỳ bán rã nhỏ hơn 27 giây. Nguyên tố này cũng có 11 trạng thái giả ổn định với ổn định nhất là Pm148m (T½ 41,29 ngày), Pm152m2 (T½ 13,8 phút) và Pm152m (T½ 7,52 phút).
+Các đồng vị của promethi nằm trong khoảng có nguyên tử lượng từ 127,9482600 u (Pm128) tới 162,9535200 u (Pm163). Phương thức phân rã chủ yếu trước đồng vị phóng xạ ổn định nhất, Pm145, là bắt điện tử, còn phương thức phân rã chủ yếu sau nó là phân rã beta trừ. Sản phẩm phân rã chủ yếu trước Pm145 là các đồng vị của neodymi (Nd) còn sản phẩm phân rã chủ yếu sau nó là các đồng vị của samari (Sm).
+
+
+=== Độ ổn định của các đồng vị promethi ===
+Ngoài tecneti, promethi là nguyên tố còn lại với số nguyên tử nhỏ hơn 83 mà không có đồng vị ổn định nào, nó là hiệu ứng hiếm xảy ra của mô hình giọt lỏng và độ ổn định của các đồng vị của các nguyên tố láng giềng.
+
+
+== Phòng ngừa ==
+Cần phải tiếp xúc với promethi với sự thận trọng cao do độ phóng xạ cao của nó. Trong thực tế, promethi có thể bức xạ các tia X trong quá trình phân rã beta của nó. Nó có chu kỳ bán rã nhỏ hơn của Pu239 (2,41×104 năm) khoảng 1.350 lần và vì thế độc tính sinh học của nó cũng tương ứng là cao hơn. Promethi không đóng một vai trò sinh học nào đã biết.
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
+Phòng thí nghiệm quốc gia Hoa Kỳ Los Alamos – Promethi
+WebElements.com – Promethi
+It's Elemental – Promethium

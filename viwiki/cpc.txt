@@ -1,0 +1,32 @@
+CPC (Cost Per Click) hay PPC (Pay Per Click) là 1 hình thức quảng cáo trực tuyến, trong đó nhà quảng cáo sẽ không trả tiền cho lượt xem, và chỉ trả tiền khi có người dùng chuột nhấn vào liên kết vào quảng cáo của họ.
+
+
+== CPC với các hình thức quảng cáo trực tuyến khác ==
+CPD (Cost Per Duration - day): là hình thức tính tiền theo thời gian, hình thức này rất đắt, áp dụng cho quảng cáo thương hiệu, giới thiệu sự kiện hay công bố sản phẩm mới của các hãng lớn. Quảng cáo theo hình thức này thì vị trí quảng cáo thường thuộc các vị trí to và đẹp nhất của trang chủ...
+CPM (Cost Per Mile): là hình thức tính tiền theo 1000 lượt xem (hay lượt lượt xuất hiện của một nhân tố). Cũng giống với quảng cáo CPD, CPM thường áp dụng cho quảng cáo thương hiệu (cần ngân sách lớn), chỉ khác là cách tính tiền phụ thuộc vị trí và kích thước hiển thị. CPM thường có kích thước hiển thị lớn (300x385), nhưng có vị trí không đẹp bằng quảng cáo CPD. CPM thường được chạy trên nhiều trang web cùng lúc trong khi CPD thường chỉ chạy trên 1 hay vài trang web cố định.
+CPC: là hình thức quảng thích hợp cho các hãng, cửa tiệm bán lẻ. Với ngân sách hợp lý, qua hình thức này được những khách hàng tiềm năng từ những cú nhấp chuột của khách hàng...
+
+
+== Các nhà cung cấp CPC ==
+Tại Việt Nam, hình thức CPC chủ yếu được cung cấp từ Google Adwords, FacebookAds.
+Sản phẩm của Việt: Vài năm trước đây, Việt Nam chứng kiến 2 mạng quảng cáo (chợ quảng cáo) có cung cấp hình thức CPC là vietad của Moore corp và AdNet của PeaseSoft, tuy nhiên cả 2 mạng này phát triển không như mong đợi, chủ yếu là do hạn chế về vấn đề công nghệ và mặt hàng hạn hẹp. Hiện tại, có thêm một nhà cung cấp nữa là AdMarket - Admicro của Vccorp, đây có lẽ là chợ quảng cáo lớn nhất Việt Nam trong thời điểm hiện tại. Với mặt hàng lớn phủ đến 30 triệu độc giả. Đặc biệt về công nghệ sản phẩm này có cung cấp thêm nhiều hình thức tiếp cận (như vùng miền, sở thích,...) mà các mạng quảng cáo khác chưa thể đáp ứng được, đây cũng là thế mạnh của vccorp, một công ty có độ phủ Internet lớn nhất Việt Nam.
+Tính từ năm 2011 đến năm 2013, thị trường Việt Nam đã có hơn chục mạng quảng cáo ra đời như Ad360- mạng quảng cáo thông minh trực thuộc Netlink, Elick của FPT, Vatgia Ads (hiện giờ là Myads) trực thuộc Vật Giá, ngoài ra có Adlite, Adsnet trực thuộc Vivas-một thành viên của VNPT, Lava Adnetwork,và Novanet- mạng quảng cáo ngữ cảnh,...
+
+
+== Vấn đề chống click ảo trong quảng cáo CPC ==
+Quảng cáo CPC là hình thức luôn chống chọi với nạn click ảo nhiều nhất và thường cũng chỉ có hình thức này bị như vậy. Các mạng quảng cáo lớn như Google Adwords luôn phải chống chọi với thế giới hùng hậu chuyên click ảo nhằm kiếm lợi bất chính, gồm 2 loại:
+Vô ý: thường bắt nguồn từ trẻ con hay người ít sử dụng tin học, họ click do vô ý, hay click đúp vào bảng quảng cáo,... (thường được xem là click vô hiệu hay click không hợp lệ).
+Cố ý: Để kiếm lợi, người kinh doanh đăng quảng cáo (chủ blog, diễn đàn hay trang web nhỏ) có thể bảo nhân viên, thành viên của mình click vào các quảng cáo nhằm kiếm lợi. Một trường hợp khác cũng có thể gặp là đối thủ cạnh tranh click nhiều lần vào quảng cáo của đối thủ mình, nhằm giảm hiệu quả và tăng chi phí quảng cáo cho đối thủ của mình. Đôi khi có thể chính các nhà cung cấp quảng cáo click vào quảng cáo của khách hàng nhằm tăng doanh thu, điều này dễ xảy ra với các mạng quảng cáo nhỏ lẻ, ít trang web dẫn đến số liệu hạn chế và họ phải tự nhấp để làm 'đẹp' số liệu để báo cáo cho khách hàng.
+
+
+== Công nghệ chặn click ảo (click spam) ==
+Công nghệ chặn click ảo và những người chuyên làm việc này có thể so sánh như công nghệ diệt virus và người chuyên đi viết virus. Công nghệ chặn click ảo thường dựa vào rất nhiều yếu tố khác nhau (địa chỉ IP, cookies, trình duyệt, hệ điều hành, phiên bản flash,....), nhiều thuật toán, phương pháp thống kê để phát hiện các click bất thường trong hệ thống. Rõ ràng, công nghệ này không thể dựa vào 1 nhân tố tĩnh nào (vì như vậy người chuyên đi click ảo sẽ biết cách để vượt qua). Ngoài việc dựa vào cách chính sách quy định xử phạt thì các nhà cung cấp cũng phải luôn cải tiến công nghệ của mình để chống lại nạn click ảo, nhằm đem lại hiệu quả thực sự cho khách hàng của mình.
+
+
+== Xem thêm ==
+CPM
+
+
+== Tham khảo ==
+
+http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=6114

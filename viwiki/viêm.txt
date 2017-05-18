@@ -1,0 +1,103 @@
+Viêm là một đáp ứng bảo vệ cơ thể của hệ miễn dịch trước sự tấn công của một tác nhân bên ngoài (vi sinh vật, tác nhân hóa, lý) hoặc của tác nhân bên trong (hoại tử do thiếu máu cục bộ, bệnh tự miễn). Đây là một đáp ứng miễn dịch tự nhiên. Quá trình viêm thường kèm theo các triệu chứng sưng, nóng, đỏ và đau, do các mạch máu giãn nở, đưa nhiều máu đến nơi tổn thương. Các bạch cầu cũng theo mạch máu xâm nhập vào mô, tiết các chất prostaglandin, cytokine nhằm tiêu diệt hoặc trung hòa các tác nhân gây tổn thương. Khi viêm không lành sẽ có thể trở thành viêm mạn tính. Nghiên cứu cho thấy mối liên hệ giữa sự viêm mạn tính và nguy cơ ung thư thông qua yếu tố NF-kB.
+
+
+== Khái niệm ==
+Viêm là kết quả có tính quy luật của các tác nhân gây viêm xuất hiện trong cơ thể, là quá trình phức hợp giữa điều hòa và phản ứng. Quá trình này xảy ra ở bộ máy liên kết và vi mạch, gây ra những rối loạn chủ yếu về hóa tổ chức và tính thấm thành mạch, dẫn đến các hiện tượng thoát huyết tương, xuyên bạch cầu, tăng sinh tế bào tại ổ viêm và hiện tượng thực bào, gây ra 4 triệu chứng điển hình là sưng, nóng, đỏ và đau với các đặc điểm sau:
+Phản ứng viêm chỉ xảy ra ở các động vật có hệ thần kinh phát triển.
+Biểu hiện viêm thường chỉ thấy ở tại chỗ nơi tác nhân gây viêm xâm nhập, nhưng đó là một phản ứng toàn thân bao gồm 2 mặt đối lập: quá trình bệnh lý phá hủy và quá trình bảo vệ phát triển.
+Mặc dù nguyên nhân gây viêm rất khác nhau, nhưng tổn thương viêm lại gây ra cùng một kiểu phản ứng và có thể bị ức chế bởi cùng những tác nhân dược lý.
+Tuy nhiên, các triệu chứng trên không phải bao giờ cũng thể hiện đầy đủ, các nhà giải phẫu bệnh học còn miêu tả khái niệm "viêm lạnh", thí dụ trong một số tổn thương do lao.
+Những thay đổi về hình thái và sinh hóa gặp trong quá trình viêm diễn biến theo quy luật. Mặc dù mức độ và thời gian của các giai đoạn viêm có thể thay đổi, nhưng quá trình viêm thường diễn biến qua 3 giai đoạn: giai đoạn tổn thương tổ chức, giai đoạn rối loạn vận mạch và thoát dịch rỉ viêm, giai đoạn tăng sinh tổ chức để hàn gắn tổn thương.
+
+
+== Nguyên nhân gây viêm ==
+
+
+=== Nguyên nhân ngoại sinh ===
+Do vi sinh vật: vi khuẩn, virus, một số loại nấm, các vi sinh vật đơn bào, ký sinh trùng và côn trùng.
+Các yếu tố hóa học: do hóa chất (acid, baze...), do thuốc...
+Các yếu tố cơ học: chấn thương, áp lực, ma sát, dị vật...
+Các yếu tố vật lý: nhiệt (nóng, lạnh), tia phóng xạ, bức xạ...
+
+
+=== Nguyên nhân nội sinh ===
+Sản phẩm chuyển hóa: như ure máu tăng gây viêm màng phổi, màng tim; acid uric máu tăng gây viêm khớp trong bệnh Goutte.
+Hoại tử kín gây viêm vô trùng, như hoại tử chỏm xương đùi.
+Phản ứng tự miễn: như bệnh thấp khớp, viêm cầu thận.
+Viêm xung quanh tổ chức ung thư...
+
+
+== Sinh lý bệnh ==
+
+
+=== Giai đoạn rối loạn chuyển hóa và tổn thương tổ chức ===
+
+
+==== Tác động của các tác nhân gây viêm ====
+Các tác nhân gây viêm tác động lên cơ quan và mô gây ra 2 hậu quả chủ yếu là:
+Gây tổn thương tế bào mô làm giải phóng ra các chất trung gian hóa học như histamin, PG... gọi là các mediator viêm (chất môi giới).
+Gây rối loạn tuần hoàn và chuyển hóa tại ra các sản phẩm chuyển hóa trung gian. Chính các sản phẩm này lại đóng vai trò như các mediator viêm mới, gây ra những tổn thương tổ chức, rối loạn tuần hoàn và chuyển hóa tiếp theo.
+
+
+==== Các mediator (chất môi giới) ====
+Bao gồm:
+Các acid amin: như histamin, serotonin gây ra phản ứng dị ứng.
+Các dẫn xuất của acid béo: gồm các prostaglandin (PG) là các mediator quan trọng nhất gây ra phản ứng viêm.
+Các men lysosom: collagenase, elastase, hyaluronidase, chymotrysinase...
+Các lymphokin: yếu tố ức chế di tản đại thực bào (MIF), yếu tố hóa ứng động...
+Các kinin: bradykinin, kalidin... có nguồn gốc từ các protit huyết tương.
+
+
+=== Giai đoạn rối loạn tuần hoàn và thoát dịch rỉ viêm ===
+
+
+==== Tác động của các mediator viêm ====
+Trước tiên là phản ứng gây co các tiểu động mạch tuy nhiên phản ứng này ít có giá trị về lâm sàng,thấy rõ trên các invitro gây viêm thực nghiệm.phản ứng có giá trị sinh học vì là tiền đề cho hàng loait các phản ứng tiếp theo
+Gây giãn mạch tại chỗ, làm tăng cường tuần hoàn đến chỗ viêm tạo thuận lợi cho bạch cầu xuyên mạch và tăng thoát dịch từ lòng mạch vào tổ chức kẽ để hòa loãng các tác nhân gây viêm. Hiện tượng giãn mạch làm vùng viêm đỏ, thoát dịch viêm gây phù nề sưng tấy tại chỗ.
+Thu hút các bạch cầu đến chỗ viêm gọi là tác dụng hóa ứng động bạch cầu, đây là tác dụng có lợi để tăng cường quá trình chống viêm, loại trừ các tác nhân gây viêm và hồi phục tổn thương viêm. Các mediator còn có tác dụng kích thích bạch cầu thực bào và kích thích quá trình di chuyển, xâm nhập của bạch cầu vào tổ chức viêm.
+Làm tăng quá trình chuyển hóa tại chỗ, do đó làm tăng nhiệt độ tại ổ viêm làm cho ổ viêm nóng hơn các vùng khác. Nhiệt độ tại ổ viêm tăng làm tăng hiện tượng giãn mạch, tăng khả năng di chuyển và thực bào của bạch cầu. Các mediator là các chí nhiệt tố, chúng vào máu và tác động lên trung khu điều nhiệt ở vùng dưới đồi gây phản ứng sốt toàn thân.
+Gây đau: do kích thích các tận cùng thần kinh như các PG, kinin. Ngoài ra đau còn do dịch phù viêm gây sưng và chèn ép vào các tận cùng thần kinh. Đau có tác dụng thông báo cho thần kinh trung ương biết đang có tổn thương tại chỗ viêm.
+Gây tổn thương tổ chức tế bào, dẫn đến hoại tử tổ chức do tác dụng của các mediator có tính chất men, làm ổ viêm lan rộng.
+Thành phần của dịch rỉ viêm bao gồm huyết tương và các tế bào viêm, các tế bào hoại tử, và các tác nhân gây viêm. Dịch rỉ viêm còn có cả fibrinogen, khi ra khỏi lòng mạch, fibrinogen sẽ chuyển thành fibrin và tạo thành một hàng rào bao quanh ổ viêm có tác dụng ngăn cản sự phát triển của ổ viêm.
+Trong giai đoạn này xảy ra hiện tượng xuyên mạch và thực bào của bạch cầu: các bạch cầu sẽ di chuyển theo kiểu amib chui qua thành mạch và tổ chức để đến ổ viêm do ảnh hưởng của các chất hóa ứng động như leucotaxin, necroxin).
+
+
+==== Các bạch cầu xuyên mạch gồm ====
+Đại thực bào (Mastocyt - MΦ): thực bào các mảnh chết của tổ chức sau đó trở thành tế bào cố định của tổ chức.
+Bạch cầu đa nhân trung tính (Neutrophil - N): thực bào các dị vật nhỏ như vi khuẩn, hồng cầu, khi ăn xong thì chết giải phóng ra các mediator viêm và trở thành tế bào viêm.
+Bạch cầu ái toan (Eozinophil - E): thực bào dị vật nhỏ, thường xuất hiện ở ổ viêm dị ứng.
+Bạch lympho (Lymphocyt - L): thường ở các ổ viêm mạn tính, không làm nhiệm vụ thực bào mà có chức năng tạo ra kháng thể và tạo ra một hàng rào bao quanh ổ viêm, ngăn chặn sự lan tràn của ổ viêm.
+
+
+==== Vai trò của các tế bào khác trong giai đoạn này ====
+Tế bào nội mạc
+Các tế bào nội mạc có 4 tính chất chính:
+Điều hòa trương lực mạch máu qua cơ chế co mạch và giãn mạch.
+Bình thường, nội mạc có tính kháng đông, nhưng trong phản ứng viêm, nội mạc tại chỗ có thể trở nên thuận lợi cho sự đông máu.
+Biểu hiện các phân tử kết dính giúp cho các bạch cầu và tiểu cầu xuyên mạch.
+Sản xuất một số cytokine làm tăng cường độ của phản ứng viêm.
+Tế bào tạo sợi
+Các tế bào tạo sợi (fibroblast) sản xuất các sợi tạo keo (collagen) có vai trò trong giai đoạn tạo sẹo, phục hồi.
+Tiểu cầu
+Các tiểu cầu có chức năng chính là khởi phát quá trình đông máu, tạo sẹo và điều hòa phản ứng viêm nhờ các chất trung gian có sẵn, kể cả TGFβ (Transforming Growth Factor β).
+
+
+=== Giai đoạn tăng sinh và liền sẹo ===
+Các tác nhân gây viêm và các mediator giảm, rối loạn tuần hoàn và chuyển hóa giảm. Một số sản phẩm viêm có tác dụng kích thích phân bào làm tăng sinh tế bào ở khu vực viêm, tăng sinh tổ chức liên kết, tăng sinh các mao mạch và tổ chức hạt. Tổ chức hoại tử ở giai đoạn trước được thay thế bởi một tổ chức mới được hình thành.
+Trên đây là 3 giai đoạn của một phản ứng viêm điển hình xảy ra tuần tự nhưng đan xen vào nhau. Tuy vậy, thực tế từ loại phản ứng viêm mà có giai đoạn trội, có giai đoạn biểu hiện rõ rệt:
+Viêm cấp tính: giai đoạn 1 và 2 phát triển mạnh, gây viêm xuất tiết.
+Viêm mạn tính: giai đoạn 3 phát triển mạnh, gây viêm phì đại.
+
+
+== Xem thêm ==
+Đau
+Prostaglandin
+
+
+== Tham khảo ==
+
+Trường đại học y Hà nội - Sinh lý bệnh học - Nhà xuất bản Y học, Hà nội, 2000.
+
+
+== Liên kết ngoài ==
+At the Crossroads of Inflammation and Cancer Hans Clevers, Cell 118

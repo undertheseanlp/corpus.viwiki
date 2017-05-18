@@ -1,0 +1,96 @@
+Axit nitric là một hợp chất vô cơ có công thức hóa học HNO3. Axit nitric tinh khiết là chất lỏng không màu, bốc khói mạnh trong không khí ẩm. Trong tự nhiên, axit nitric hình thành trong những cơn mưa giông kèm sấm chớp và hiện nay chúng là một trong những tác nhân gây ra mưa axit.
+Nó là một chất axit độc và ăn mòn và dễ gây cháy. Axit nitric tinh khiết không màu còn nếu để lâu sẽ có màu hơi vàng do sự tích tụ của các oxit nitơ. Nếu một dung dịch có hơn 86% axit nitric, nó được gọi là axit nitric bốc khói. Axit nitric bốc khói có đặc trưng axit nitric bốc khói trắng và axit nitric bốc khói đỏ, tùy thuộc vào số lượng nitơ đioxit hiện diện.
+
+
+== Lịch sử ==
+Sự tổng hợp axit nitric đã được ghi nhận lần đầu vào khoảng năm 800 AD bởi một nhà giả kim người Ả Rập tên là Jabir ibn Hayyan. [1]
+
+
+== Lý tính ==
+Axit nitric khan tinh khiết (100%) là một chất lỏng với tỷ trọng khoảng 1522 kg/m3, đông đặc ở nhiệt độ –42 °C tạo thành các tinh thể trắng, sôi ở nhiệt độ 83 °C. Khi sôi trong ánh sáng, kể cả tại nhiệt độ trong phòng, sẽ xảy ra một sự phân hủy một phần với sự tạo ra nitơ đioxit theo phản ứng sau:
+4HNO3 → 2H2O + 4NO2 + O2 (72 °C)
+Điều này có nghĩa axit nitric khan nên được cất chứa ở nhiệt độ dưới 0 °C để tránh bị phân hủy. Chất nitơ đioxit (NO2) vẫn hòa tan trong axit nitric tạo cho nó có màu vàng, hoặc đỏ ở nhiệt độ cao hơn. Trong khi axit tinh khiết có xu hướng bốc khói trắng khi để ra không khí, axit với nitơ đioxit bốc khói hơi có màu nâu hơi đỏ cho nên mới có tên axit bốc khói trắng và axit bốc khói đỏ như nêu trên. 
+Axit nitric có thể pha trộn với nước với bất kỳ tỷ lệ nào và khi chưng cất tạo ra một azeotrope một nồng độ 68% HNO3 và có nhiệt độ sôi ở 120,5 °C tại áp suất 1 atm. Có hai chất hydrat được biết đến; monohydrat (HNO3·H2O) và trihydrat (HNO3·3H2O).
+Ôxít nitơ (NOx) tan được trong axit nitric và đặc điểm này ảnh hưởng ít nhiều đến tất cả các đặc trưng lý tính phụ thuộc vào nồng độ của các oxit này, chủ yếu bao gồm áp suất hơi trên chất lỏng và nhiệt độ sôi cũng như màu sắc được đề cập ở trên. Axit nitric bị phân hủy khi có nhiệt độ cao hoặc ánh sáng với nồng độ tăng lên mà điều này có thể làm tăng lên sự biến đổi tương đối áp suất hơi trên bề mặt chất lỏng do các oxit nitơ tạo ra một phần hoặc toàn bộ trong axit.
+
+
+== Hóa tính ==
+Axit nitric là một monoaxit mạnh, một chất ôxi hóa mạnh có thể nitrat hóa nhiều hợp chất vô cơ và là một axit một nấc vì chỉ có một sự phân ly.
+
+
+=== Các tính chất axit ===
+Là một axit điển hình, axit nitric có mọi tính chất của axit như phản ứng với bazơ, oxit bazơ và muối để tạo thành các muối mới, trong số đó quan trọng nhất là muối amoni nitrat. Do tính chất ôxi hóa mạnh của nó, axit nitric không (ngoại trừ một số ngoại lệ) giải phóng hiđrô khi phản ứng với kim loại và tạo ra các muối thường có trạng thái ôxi hóa cao hơn. Vì lý do này, tình trạng ăn mòn nặng có thể xảy ra và cần phải bảo vệ thích hợp bằng cách sử dụng các kim loại hoặc hợp kim chống ăn mòn khi chứa axit này.
+Axit nitric là một axit mạnh với một hắng số cân bằng axit (pKa) = −2: trong dung dịch nước, nó hoàn toàn điện ly thành các ion nitrat NO3− và một proton hydrat, hay còn gọi là ion hiđrôni, H3O+:
+HNO3 + H2O → H3O+ + NO3-
+
+
+=== Các đặc tính ôxi hóa ===
+
+
+==== Phản ứng với kim loại ====
+Là một chất ôxi hóa mạnh, axit nitric phản ứng mãnh liệt với nhiều kim loại và phản ứng có thể gây nổ. Tùy thuộc vào nồng độ axit, nhiệt độ và tác nhân gây liên quan, sản phẩm tạo ra cuối cùng có thể gồm nhiều loại và nhiều sản phẩm khử đa dạng như N2, N2O, NH4NO3. Phản ứng xảy ra với hầu hết các kim loại, ngoại trừ các kim loại quý (Au, Pt) và một số hợp kim. Trong phần lớn các trường hợp, các phản ứng ôxi hóa chủ yếu với axit đặc thường tạo ra đioxit nitơ (NO2).
+Cu + 4HNO3 → Cu(NO3)2 + 2NO2 + 2H2O
+Tính chất axit thể hiện rõ đối với axit loãng, thường tạo ra oxit nitơ (NO):
+3Cu + 8HNO3 → 3Cu(NO3)2 + 2NO + 4H2O
+Do axit nitric là một chất ôxi hóa mạnh, H+ thường hiếm khi được tạo ra. Cho nên khi kim loại phản ứng với axit nitric rất loãng (1-2% hay 0,2-0,3 M) và lạnh (gần 0 °C) thì mới giải phóng hiđrô:
+Mg(rắn) + 2HNO3 (lỏng) → Mg(NO3)2 (lỏng) + H2 (khí)
+
+
+==== Sự thụ động hóa ====
+Dù Crôm (Cr), sắt (Fe), coban (Co), niken (Ni), mangan (Mn) và nhôm (Al) dễ hòa tan trong dung dịch axit nitric loãng, nhưng đối với axit đặc nguội lại tạo một lớp oxit kim loại bảo vệ chúng khỏi bị ôxi hóa thêm, hiện tượng này gọi là sự thụ động hóa.
+
+
+==== Phản ứng với phi kim ====
+Khi phản ứng với các nguyên tố á kim, ngoại trừ silic và halogen, các nguyên tố này thường bị ôxi hóa đến trạng thái ôxi hóa cao nhất và tạo ra đioxit nitơ đối với axit đặc và oxit nitơ đối với axit loãng:
+C + 4HNO3 → CO2 + 4NO2 + 2H2O hoặc 3C + 4HNO3 → 3CO2 + 4NO + 2H2O
+P + 5HNO3 → H3PO4 + 5NO2 + H2O
+
+
+==== Phản ứng với hợp chất ====
+3H2S + 2HNO3 (>5%) → 3S↓ + 2NO↑ + 4H2O
+PbS + 8HNO3 (đặc) → PbSO4↓ + 8NO2↑ + 4H2O
+Ag3PO4 tan trong HNO3, HgS không tác dụng với HNO3.
+
+
+==== Phản ứng với hợp chất hữu cơ ====
+Nhiều hợp chất hữu cơ bị phá hủy khi tiếp xúc với axit nitric, nên axit này rất nguy hiểm nếu rơi vào cơ thể người.
+
+
+== Tổng hợp và sản xuất axit nitric ==
+Axit nitric được tạo ra bằng cách pha trộn nitơ đioxit (NO2) và nước với sự có mặt của ôxi hoặc sử dụng không khí để ôxi hóa axit nitrơ cũng tạo ra axit nitric:
+4NO2 + O2 + 2H2O → 4HNO3 
+Axit nitric loãng có thể cô đặc đến 68% với một hỗn hợp azeotropic 32% nước. Việc cô đặc hơn được thực hiện bằng cách chưng cất với axit sulfuric với vai trò là chất khử nước. Trong quy mô phòng thí nghiệm, cách chưng cất như thế phải được tiến hành bằng dụng cụ thủy tinh với áp suất thấp để tránh phân hủy axit này. Các mối nối bằng thủy tinh và nút bần cũng nên tránh dùng do axit nitric tấn công các chất này. Dung dịch axit nitric cấp thương mại thường có nồng độ giữa 52% và 68%. Việc sản xuất axit nitric được thực hiện bằng công nghệ Ostwald do Wilhelm Ostwald phát minh.
+Trong phòng thí nghiệm, axit nitric có thể điều chế bằng cách cho đồng (II) nitrat hoặc cho phản ứng những khối lượng bằng nhau kali nitrat (KNO3) với axit sulfuric (H2SO4) 96%, và chưng cất hỗn hợp này tại nhiệt độ sôi của axit nitric là 83 °C cho đến khi còn lại chất kết tinh màu trắng, kali hidrosunfat (KHSO4), còn lưu lại trong bình. Axit nitric bốc khói đỏ thu được có thể chuyển thành axit nitric màu trắng. Cần lưu ý khi thí nghiệm thì phải dùng các trang thiết bị bằng thủy tinh, hay nhất là bình cổ cong nguyên khối do axit nitric khan tấn công cả nút bần, cao su và da nên sự rò rỉ có thể cực kỳ nguy hiểm: H2SO4 + KNO3 → KHSO4 + HNO3
+Chất NOx hòa tan được loại bỏ bằng cách sử dụng áp suất giảm tại nhiệt độ phòng (10-30 phút với áp suất 200 mmHg hay 27 kPa). Axit nitric bốc khói trắng thu được có tỷ trọng 1.51 g/cm³. Quy trình này cũng được thực hiện dưới áp suất và nhiệt độ giảm trong một bước để tạo ra ít khí nitơ đioxit hơn.
+Axit này cũng có thể được tổng hợp bằng cách ôxi hóa amoniac, nhưng sản phẩm bị pha loãng bởi nước do phản ứng tạo ra. Tuy nhiên, phương pháp tổng hợp này quan trọng trong việc sản xuất amoni nitrat từ amôniăc theo công nghệ Haber, do sản phẩm cuối cùng có thể sản xuất từ nitơ, hyđrô và ôxi là nguyên liệu đầu vào chính.
+Axit nitric bốc khói trắng, cũng gọi là axit nitric 100% hay WFNA, rất gần giống với sản phẩm axit nitric khan. Một đặc tính kỹ thuật của axit nitric bốc khói trắng là nó có tối đa 2% nước và tối đa 0,5% NO2 hòa tan. Axit nitric bốc khói đỏ hay RFNA, chứa một lượng đioxit nitơ (NO2) đáng kể thoát khỏi dung dịch với màu nâu đỏ. Một công thức của RFNA thể hiện ít nhất 17% NO2, nhóm khác là 13% NO2. Trong trường hợp, axit nitric bị ức chế bốc khói (hoặc IWFNA, hoặc IRFNA) có thể làm tăng khi cho thêm thêm khoảng 0,6 đến 0,7% hiđro florit, HF. Chất florit này được bổ sung vào để chống ăn mòn trong các bồn chứa kim loại (chất florit tạo ra một lớp florit kim loại bảo vệ kim loại đó).
+
+
+== Sử dụng ==
+
+Thường được dùng làm thuốc thử trong phòng thí nghiệm, axit nitric được sử dụng để sản xuất thuốc nổ bao gồm nitroglycerin, trinitrotoluen (TNT) và cyclotrimethylenetrinitramin (RDX), cũng như phân bón (như phân đạm một lá nitrat amoni).
+Axit nitric cũng được sử dụng trong phòng thí nghiệm trường học để tiến hành các thí nghiệm liên quan đến việc thử clorit. Cho axit nitric tác dụng với mẫu thử, sau đó cho dung dịch bạc nitrat vào để tìm kết tủa trắng của bạc clorua.
+Trong kỹ thuật ICP-MS và ICP-AES, axit nitric (với nồng độ từ 0,5% đến 2,0%) được sử dụng như một hợp chất nền để xác định dấu vết kim loại trong các dung dịch. Trong kỹ thuật này cần phải dùng axit nitric cực tinh khiết vì một số lượng ion kim loại nhỏ có thể gây ảnh hưởng đến kết quả phân tích.
+Axit này còn được sử dụng trong ngành luyện kim và tinh lọc vì nó phản ứng với phần lớn kim loại và trong các tổng hợp chất hữu cơ. Khi kết hợp với axit clohyđric, nó tạo thành nước cường toan, một trong những chất có thể hòa tan vàng và bạch kim (platinum).
+Một trong những ứng dụng cho IWFNA là một chất ôxi hóa trong nhiên liệu lỏng tên lửa.
+Ngoài ra, axit nitric còn được dùng làm chất thử màu (colorometric test) để phân biệt heroin và morphine.
+
+
+== Nguy hiểm ==
+Axit Nitric là một chất ôxi hóa mạnh, và các phản ứng của axit nitric với các hợp chất như cyanit, carbit, và bột kim loại có thể gây nổ. Các phản ứng của axit nitric với nhiều hợp chất vô cơ như turpentine, rất mãnh liệt và tự bốc cháy.
+Axit đặc làm cho màu da người chuyển qua màu vàng do phản ứng với protein keratin. Vết màu vàng này sẽ chuyển thành màu cam khi được trung hòa.
+
+
+== Tham khảo ==
+Hóa học vô cơ, tập hai, Hoàng Nhâm, Nhà xuất bản giáo dục Việt Nam.
+Sách giáo khoa Hóa học 11, Nhà xuất bản giáo dục Việt Nam.
+
+
+== Liên kết ngoài ==
+International Chemical Safety Card 0183
+NIOSH Pocket Guide to Chemical Hazards
+Bản mẫu:Ecb
+National Pollutant Inventory - Nitric Acid Fact Sheet
+Properties and classification of nitric acid
+Jabir Ibn Hayyan Biography
+Bản mẫu:ChemicalSources

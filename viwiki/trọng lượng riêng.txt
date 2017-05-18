@@ -1,0 +1,102 @@
+Trọng lượng riêng (tiếng Anh: specific weight) là một đại lượng khác với khối lượng riêng, cùng là đại lượng đặc trưng cho một chất rắn, lỏng hay khí. Đơn vị của trọng lượng riêng là N/m³.
+
+
+== Công thức tính ==
+Trọng lượng riêng của vật được tính bằng trọng lượng chia cho thể tích:
+
+  
+    
+      
+        d
+        =
+        
+          
+            P
+            V
+          
+        
+      
+    
+    {\displaystyle d={P \over V}}
+  
+Trong đó:
+d là trọng lượng riêng (N/m³)
+P là trọng lượng (N)
+V là thể tích (m³)
+
+  
+    
+      
+        ⇒
+      
+    
+    {\displaystyle \Rightarrow }
+   
+  
+    
+      
+        P
+        =
+        V
+        d
+      
+    
+    {\displaystyle P=Vd}
+  
+
+  
+    
+      
+        ⇒
+        V
+        =
+        
+          
+            
+              P
+              
+            
+            
+              d
+              
+            
+          
+        
+      
+    
+    {\displaystyle \Rightarrow V={\operatorname {P} \! \over \operatorname {d} \!}}
+  
+Hoặc tính trọng lượng riêng của vật nếu biết khối lượng riêng của vật đó.
+
+  
+    
+      
+        d
+        =
+        10
+        D
+      
+    
+    {\displaystyle d=10D}
+   
+  
+    
+      
+        →
+      
+    
+    {\displaystyle \rightarrow }
+   Mối quan hệ giữa trọng lượng riêng và khối lượng riêng.
+
+
+== Xem thêm ==
+Lực đẩy Archimedes
+Cơ học chất lưu
+Phù kế
+Mật độ tương đối
+
+
+== Tham khảo ==
+
+
+== Liên kết ngoài ==
